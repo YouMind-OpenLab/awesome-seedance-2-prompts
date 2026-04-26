@@ -74,6 +74,10 @@ export interface Translation {
   basic: string;
   fullyResponsive: string;
   aiRecommendation: string;
+  // Categories
+  categories: string;
+  categoryBrowsing: string;
+  browseByCategory: string;
 }
 
 const en: Translation = {
@@ -146,6 +150,9 @@ const en: Translation = {
   basic: 'Basic',
   fullyResponsive: 'Fully responsive',
   aiRecommendation: 'AI-powered prompt recommendations',
+  categories: 'Categories',
+  categoryBrowsing: 'Category browsing',
+  browseByCategory: 'Browse by Category',
 };
 
 const zh: Translation = {
@@ -218,6 +225,9 @@ const zh: Translation = {
   basic: '基础',
   fullyResponsive: '完全响应式',
   aiRecommendation: 'AI 智能提示词推荐',
+  categories: '分类',
+  categoryBrowsing: '分类浏览',
+  browseByCategory: '按分类浏览',
 };
 
 const zhTW: Translation = {
@@ -291,6 +301,9 @@ const zhTW: Translation = {
   basic: '基礎',
   fullyResponsive: '完全響應式',
   aiRecommendation: 'AI 智能提示詞推薦',
+  categories: '分類',
+  categoryBrowsing: '分類瀏覽',
+  browseByCategory: '按分類瀏覽',
 };
 
 const ja: Translation = {
@@ -364,6 +377,9 @@ const ja: Translation = {
   basic: '基本',
   fullyResponsive: '完全レスポンシブ',
   aiRecommendation: 'AI 搭載プロンプト推薦',
+  categories: 'カテゴリー',
+  categoryBrowsing: 'カテゴリー閲覧',
+  browseByCategory: 'カテゴリーで閲覧',
 };
 
 const ko: Translation = {
@@ -437,6 +453,9 @@ const ko: Translation = {
   basic: '기본',
   fullyResponsive: '완전 반응형',
   aiRecommendation: 'AI 기반 프롬프트 추천',
+  categories: '카테고리',
+  categoryBrowsing: '카테고리 탐색',
+  browseByCategory: '카테고리별 탐색',
 };
 
 const th: Translation = {
@@ -510,6 +529,9 @@ const th: Translation = {
   basic: 'พื้นฐาน',
   fullyResponsive: 'ตอบสนองอย่างเต็มที่',
   aiRecommendation: 'แนะนำพรอมต์ด้วย AI',
+  categories: 'หมวดหมู่',
+  categoryBrowsing: 'เรียกดูตามหมวดหมู่',
+  browseByCategory: 'เรียกดูตามหมวดหมู่',
 };
 
 const vi: Translation = {
@@ -583,6 +605,9 @@ const vi: Translation = {
   basic: 'Cơ bản',
   fullyResponsive: 'Hoàn toàn phản hồi',
   aiRecommendation: 'Gợi ý prompt bằng AI',
+  categories: 'Danh mục',
+  categoryBrowsing: 'Duyệt theo danh mục',
+  browseByCategory: 'Duyệt theo danh mục',
 };
 
 const hi: Translation = {
@@ -656,6 +681,9 @@ const hi: Translation = {
   basic: 'बुनियादी',
   fullyResponsive: 'पूरी तरह से उत्तरदायी',
   aiRecommendation: 'AI संचालित प्रॉम्पट अनुशंसा',
+  categories: 'श्रेणियाँ',
+  categoryBrowsing: 'श्रेणी ब्राउज़िंग',
+  browseByCategory: 'श्रेणी के अनुसार ब्राउज़ करें',
 };
 
 const es: Translation = {
@@ -729,6 +757,9 @@ const es: Translation = {
   basic: 'Básico',
   fullyResponsive: 'Totalmente responsive',
   aiRecommendation: 'Recomendaciones de prompts con IA',
+  categories: 'Categorías',
+  categoryBrowsing: 'Navegación por categoría',
+  browseByCategory: 'Explorar por categoría',
 };
 
 const de: Translation = {
@@ -802,6 +833,9 @@ const de: Translation = {
   basic: 'Basis',
   fullyResponsive: 'Vollständig responsiv',
   aiRecommendation: 'KI-gestützte Prompt-Empfehlungen',
+  categories: 'Kategorien',
+  categoryBrowsing: 'Kategorie-Browsing',
+  browseByCategory: 'Nach Kategorie durchsuchen',
 };
 
 const fr: Translation = {
@@ -875,6 +909,9 @@ const fr: Translation = {
   basic: 'Basique',
   fullyResponsive: 'Entièrement responsive',
   aiRecommendation: 'Recommandations de prompts par IA',
+  categories: 'Catégories',
+  categoryBrowsing: 'Navigation par catégorie',
+  browseByCategory: 'Parcourir par catégorie',
 };
 
 const it: Translation = {
@@ -948,6 +985,9 @@ const it: Translation = {
   basic: 'Base',
   fullyResponsive: 'Completamente responsive',
   aiRecommendation: 'Raccomandazioni prompt con IA',
+  categories: 'Categorie',
+  categoryBrowsing: 'Navigazione per categoria',
+  browseByCategory: 'Sfoglia per categoria',
 };
 
 const pt: Translation = {
@@ -1021,6 +1061,9 @@ const pt: Translation = {
   basic: 'Básico',
   fullyResponsive: 'Totalmente responsivo',
   aiRecommendation: 'Recomendações de prompts com IA',
+  categories: 'Categorias',
+  categoryBrowsing: 'Navegação por categoria',
+  browseByCategory: 'Explorar por categoria',
 };
 
 const tr: Translation = {
@@ -1094,6 +1137,9 @@ const tr: Translation = {
   basic: 'Temel',
   fullyResponsive: 'Tamamen duyarlı',
   aiRecommendation: 'AI destekli prompt önerileri',
+  categories: 'Kategoriler',
+  categoryBrowsing: 'Kategori gezinmesi',
+  browseByCategory: 'Kategoriye göre gözat',
 };
 
 const I18N: Record<string, Translation> = {

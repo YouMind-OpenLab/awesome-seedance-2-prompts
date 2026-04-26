@@ -187,6 +187,69 @@ function processDoc(doc: VideoPrompt): ProcessedPrompt | null {
   };
 }
 
+export interface FilterCategory {
+  id: number;
+  title: string;
+  slug: string;
+  parentId: number | null;
+  parentSlug: string | null;
+  featured: boolean;
+  sort: number | null;
+}
+
+interface CMSCategoryDoc {
+  id: number;
+  title: string;
+  slug: string;
+  parent?: number | { id: number; slug?: string } | null;
+  featured?: boolean;
+  sort?: number | null;
+}
+
+const SEEDANCE_CATEGORY_CAMPAIGN = 'seedance-2.0-prompts';
+
+export async function fetchPromptCategories(locale: string = 'en-US'): Promise<FilterCategory[]> {
+  const query = stringify({
+    limit: 999,
+    sort: 'sort',
+    locale,
+    depth: 0,
+    where: {
+      campaign: { in: [SEEDANCE_CATEGORY_CAMPAIGN] },
+    },
+  }, { addQueryPrefix: true });
+
+  const url = `${CMS_HOST}/api/prompt-categories${query}`;
+  const res = await fetch(url, {
+    headers: { Authorization: `users API-Key ${CMS_API_KEY}` },
+  });
+  if (!res.ok) throw new Error(`CMS category error: ${res.status} ${await res.text()}`);
+
+  const data = await res.json() as { docs: CMSCategoryDoc[] };
+
+  return data.docs.map((cat) => {
+    let parentId: number | null = null;
+    let parentSlug: string | null = null;
+    if (cat.parent != null) {
+      if (typeof cat.parent === 'number') {
+        parentId = cat.parent;
+      } else {
+        parentId = cat.parent.id;
+        parentSlug = cat.parent.slug ?? null;
+      }
+    }
+    return {
+      id: cat.id,
+      title: cat.title,
+      slug: cat.slug,
+      parentId,
+      parentSlug,
+      featured: cat.featured ?? false,
+      sort: cat.sort ?? null,
+    };
+  });
+}
+
 export async function fetchSeedancePrompts(locale: string = 'en'): Promise<FetchResult> {
   const authHeader = { Authorization: `users API-Key ${CMS_API_KEY}` };
 

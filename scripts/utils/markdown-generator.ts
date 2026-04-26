@@ -1,4 +1,4 @@
-import type { ProcessedPrompt } from './cms-client.js';
+import type { ProcessedPrompt, FilterCategory } from './cms-client.js';
 import { t } from './i18n.js';
 
 const MAX_PROMPTS_TO_DISPLAY = 100;
@@ -56,7 +56,13 @@ function formatDate(iso?: string): string {
  */
 export type VideoUrlMap = Record<string, string>;
 
-export function generateReadme(prompts: ProcessedPrompt[], locale: string = 'en', videoUrls: VideoUrlMap = {}, totalDocs?: number): string {
+export function generateReadme(
+  prompts: ProcessedPrompt[],
+  locale: string = 'en',
+  videoUrls: VideoUrlMap = {},
+  totalDocs?: number,
+  categories: FilterCategory[] = [],
+): string {
   const now = new Date().toISOString().split('T')[0];
   const localePrefix = getLocalePrefix(locale);
   const galleryUrl = `https://youmind.com/${localePrefix}/seedance-2-0-prompts`;
@@ -65,6 +71,15 @@ export function generateReadme(prompts: ProcessedPrompt[], locale: string = 'en'
 
   // Language navigation
   md += generateLanguageNavigation(locale);
+
+  // Cover image
+  md += `<div align="center">
+
+[![${t('title', locale)}](https://marketing-assets.youmind.com/campaigns/seedance-2-0-prompts/seedance-2-prompts-cover-hq.jpg)](${galleryUrl})
+
+</div>
+
+`;
 
   // Header
   md += `# 🎬 ${t('title', locale)}
@@ -121,8 +136,15 @@ ${t('galleryFeatures', locale)}
 | 🔍 ${t('search', locale)} | ${t('ctrlFOnly', locale)} | ${t('fullTextSearch', locale)} |
 | 🤖 ${t('languages', locale)} | - | ${t('aiRecommendation', locale)} |
 | 📱 ${t('mobile', locale)} | ${t('basic', locale)} | ${t('fullyResponsive', locale)} |
+| 🏷️ ${t('categories', locale)} | - | ${t('categoryBrowsing', locale)} |
 
----
+`;
+
+  if (categories.length > 0) {
+    md += generateCategoriesSection(categories, locale, galleryUrl);
+  }
+
+  md += `---
 
 `;
 
@@ -391,6 +413,28 @@ function generateLanguageNavigation(currentLocale: string): string {
   });
 
   return badges.join(' ') + '\n\n---\n\n';
+}
+
+function generateCategoriesSection(categories: FilterCategory[], locale: string, galleryUrl: string): string {
+  const parents = categories
+    .filter(c => c.parentId === null)
+    .sort((a, b) => (a.sort ?? 0) - (b.sort ?? 0));
+
+  if (parents.length === 0) return '';
+
+  let md = `\n### 🏷️ ${t('browseByCategory', locale)}\n\n`;
+
+  for (const parent of parents) {
+    md += `- **${parent.title}**\n`;
+    const children = categories
+      .filter(c => c.parentId === parent.id)
+      .sort((a, b) => (a.sort ?? 0) - (b.sort ?? 0));
+    for (const child of children) {
+      md += `  - [${child.title}](${galleryUrl}?categories=${child.slug})\n`;
+    }
+  }
+
+  return md + '\n';
 }
 
 function slugify(text: string): string {

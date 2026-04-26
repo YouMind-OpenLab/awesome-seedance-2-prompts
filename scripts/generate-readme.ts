@@ -2,7 +2,7 @@ import 'dotenv/config';
 import { writeFileSync, readFileSync } from 'fs';
 import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import { fetchSeedancePrompts } from './utils/cms-client.js';
+import { fetchSeedancePrompts, fetchPromptCategories } from './utils/cms-client.js';
 import { generateReadme, SUPPORTED_LANGUAGES } from './utils/markdown-generator.js';
 import type { VideoUrlMap } from './utils/markdown-generator.js';
 
@@ -56,8 +56,12 @@ async function main() {
     const { prompts, totalDocs } = await fetchSeedancePrompts(lang.code);
     console.log(`  ✅ Got ${prompts.length} prompts with thumbnails (total in CMS: ${totalDocs}, featured: ${prompts.filter(p => p.featured).length})`);
 
+    console.log(`  📥 Fetching prompt categories (locale: ${lang.code})...`);
+    const categories = await fetchPromptCategories(lang.code);
+    console.log(`  ✅ Got ${categories.length} categories`);
+
     console.log(`  📝 Generating ${lang.readmeFileName}...`);
-    const readme = generateReadme(prompts, lang.code, videoUrls, totalDocs);
+    const readme = generateReadme(prompts, lang.code, videoUrls, totalDocs, categories);
     const outPath = resolve(ROOT, lang.readmeFileName);
     writeFileSync(outPath, readme, 'utf-8');
     console.log(`  ✅ ${lang.readmeFileName} written (${(readme.length / 1024).toFixed(1)} KB)`);
