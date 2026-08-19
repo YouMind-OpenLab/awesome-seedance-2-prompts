@@ -5282,7 +5282,7 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 
 ## ⭐ स्टार इतिहास
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-seedance-2-prompts&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-seedance-2-prompts&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=YouMind-OpenLab/awesome-seedance-2-prompts&type=Date)](https://star-history.dera.page/#YouMind-OpenLab/awesome-seedance-2-prompts&Date)
 
 ---
 
