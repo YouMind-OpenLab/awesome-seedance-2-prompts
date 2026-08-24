@@ -4244,7 +4244,7 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 
 ## ⭐ Cronologia stelle
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-seedance-2-prompts&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-seedance-2-prompts&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=YouMind-OpenLab/awesome-seedance-2-prompts&type=Date)](https://star-history.dera.page/#YouMind-OpenLab/awesome-seedance-2-prompts&Date)
 
 ---
 
