@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6348** |
+| 📝 Total Prompts | **6358** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-09-11** |
 
@@ -365,58 +365,267 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Horror Anime Trailer Template
+### Giant White Whale Desert Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal and cinematic prompt for generating a vertical video of a tiny human encountering a massive mythical white whale in a cracked desert landscape.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic scene of a tiny human figure walking across an endless pale, cracked desert landscape toward a gigantic mythical white whale-like creature resting peacefully on the ground. The enormous creature has detailed textured skin, massive fins, subtle eyes, and a surreal dreamlike presence. Soft fog surrounds the scene, creating a mysterious atmosphere. Wide-angle composition emphasizing the extreme scale difference between the human and the creature, muted monochromatic tones, soft diffused lighting, realistic shadows, atmospheric depth, highly detailed textures, cinematic photography, 8K, HDR, photorealistic, epic fantasy realism, vertical 9:16 composition.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098284251066351616/img/dwKKtUnS3ueYNewb.jpg" width="600" alt="Giant White Whale Desert Scene">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10698)**
+
+**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2098284373372018792) | **Published:** Sep 11, 2026
+
+---
+### Luxury Perfume Brand Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sleek, high-end luxury perfume commercial prompt featuring a glamorous woman in a vivid red suit against surreal pink and magenta architectural backdrops.
+
+#### 📝 Prompt
+
+```
+A sleek, high-end luxury perfume commercial featuring a glamorous woman in a vivid red suit.
+Scene 1: The model confidently walks forward down an infinite, surreal corridor of concentric archways in shades of pink, rose, and magenta. The floor is a reflective, mirrored surface scattered with glossy dark red cherries.
+Scene 2: Close-up shot of the woman spraying a luxury perfume bottle ("La Vie Est Belle L'Elixir Very Cherry") onto her neck, mist catching the dramatic lighting against a dark backdrop.
+Scene 3: The model sits at a sleek bar holding a dark red martini cocktail garnished with cherries, framed by warm, ambient lighting.
+Scene 4: A macro close-up shot of a sharp red stiletto heel crushing a fresh cherry on a clean white surface, releasing a vibrant burst of deep red juice next to the perfume bottle.
+Scene 5: Final shot of the model holding the luxury glass perfume bottle with both hands in front of her chest, staring directly into the camera, featuring sleek brand text overlay ("LANCÔME LA VIE EST BELLE L'ELIXIR VERY CHERRY").
+Visual Style: Cinematic lighting, rich crimson red and deep berry color palette, ultra-sharp focus, modern luxury aesthetic, 4K resolution, 30fps, slow-motion details.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098262530405928960/img/YDEF0WgIpRBmoObg.jpg" width="600" alt="Luxury Perfume Brand Commercial">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10692)**
+
+**Author:** [Zarnish](https://x.com/ZarnishNael) | **Source:** [Link](https://x.com/ZarnishNael/status/2098262604267577783) | **Published:** Sep 11, 2026
+
+---
+### Vintage MiniDV Rainy Seoul Morning
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive prompt for creating a nostalgic, early-2000s MiniDV home video aesthetic featuring a candid morning scene in a Seoul apartment.
+
+#### 📝 Prompt
+
+```
+Main Subject: Young Korean woman, 24, naturally attractive, realistic skin, minimal makeup, long dark hair loosely down. Wearing a simple oversized casual T-shirt and loose lounge pants. Preserve her exact identity, facial features, hairstyle, body proportions and appearance throughout.
+
+Location: Small old Seoul apartment bedroom on a quiet rainy morning. Simple wooden furniture, unmade bed, small desk, clothes casually placed around the room and a rain-covered window overlooking blurred apartment buildings. Steady rain outside.
+
+Lighting & Atmosphere: Cozy, dim blue-hour ambience. Cold blue-gray light from the rainy window mixed with a weak warm bedside lamp. Dark cloudy sky, muted colors, soft shadows and slightly underexposed interior. Sleepy, intimate rainy-morning atmosphere.
+
+Style: Ultra-realistic early-2000s Sony MiniDV home video. Completely candid and unstaged. Natural handheld movement, subtle camera shake, imperfect framing, occasional autofocus hunting, mild exposure shifts, faded colors, soft contrast, authentic DV compression, subtle low-light digital noise and microphone noise. Smooth continuous real-time motion throughout. No stuttering, judder, frame skipping, duplicated frames, stop-motion appearance, excessive motion blur, speed changes or low-frame-rate look. No stabilization or modern cinematic movement.
+
+00:00–00:04: She stands beside her desk casually organizing a few small things, occasionally glancing toward the rainy window. The camcorder watches from a slightly imperfect angle.
+
+00:04–00:07: She suddenly feels a sneeze coming. She pauses, scrunches her face slightly and brings her hand toward her nose.
+
+00:07–00:10: She sneezes naturally into her hand. For a moment she looks a little surprised by how sudden it was.
+
+00:10–00:13: She lowers her hand and looks directly toward the camcorder with a slightly embarrassed expression, realizing she was being filmed.
+
+00:13–00:15: She gives a tiny amused smile and quietly laughs at herself before turning back toward the window.
+
+Audio: Natural location sound only—steady rain against the glass, soft room ambience, fabric movement, distant traffic, faint apartment sounds and the natural sneeze. No music, narration or added sound effects.
+
+Goal: Feel like a tiny accidental moment captured by a family member on an old MiniDV camcorder. Cute, natural and understated. Her reaction afterward should feel genuine rather than performed.
+
+Motion quality: Keep all body and camera movement smooth and continuous. The sneeze should be one natural, fluid movement rather than exaggerated or repeated. The vintage look comes from authentic MiniDV image characteristics, not from a low or inconsistent frame rate.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098085864387821568/img/IhFaLi3jiQcHWCN2.jpg" width="600" alt="Vintage MiniDV Rainy Seoul Morning">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10695)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2098257726145171832) | **Published:** Sep 11, 2026
+
+---
+### Image Grid to Opening MV Animation
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A structured prompt template for Seedance 2.0 to create a high-quality 2D anime horror trailer with specific shot lists.
+> A prompt designed to animate a 16-panel image grid into a 30-second opening-style music video with specific segment timing.
+
+#### 📝 Prompt
+
+```
+Turn this image into an OP-style MV by animating it in order from the top-left corner as ①, then ② to its right, up to 16 at the bottom-right corner, for 2 seconds each.
+
+Seedance 2.5, 30 seconds, 16:9 aspect ratio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098063643548307456/img/ZolvCiAtP2xQyNHK.jpg" width="600" alt="Image Grid to Opening MV Animation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10705)**
+
+**Author:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc) | **Source:** [Link](https://x.com/z933TfmXkaISSVc/status/2098063747470565699) | **Published:** Sep 10, 2026
+
+---
+### Luxurious Bridal Shower Decor 4K Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sophisticated prompt for generating high-quality cinematic event footage, specifically focusing on elegant bridal shower decorations with smooth camera work and detailed textures.
+
+#### 📝 Prompt
+
+```
+A 15-second cinematic video showcasing luxurious bridal shower decor in photorealistic 4K quality. Ultra-smooth, stabilized camera movement glides through an upscale, elegantly decorated event space.
+
+0:00–0:05: Smooth, eye-level pan revealing a polished setup featuring fine porcelain tableware, gold-trimmed glassware, pastel floral arrangements, and flickering taper candles atop a sheer silk runner.
+
+0:05–0:10: Dynamic macro close-up tracking along personalized acrylic placement cards, delicate ribbon ties on linen napkins, and sparkling champagne bubbles rising in crystal flutes.
+
+0:10–0:15: Slow push-in toward an opulent floral backdrop featuring eucalyptus, white roses, and blush peonies surrounding a custom neon sign, bathed in soft, warm ambient light with creamy bokeh.
+
+Style & Parameters: Photorealistic 3D rendering, elegant aesthetic, soft pastel color grading, warm golden hour lighting, shallow depth of field, 60fps, ultra-detailed glass and fabric textures.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098040044149964800/img/G7tYESAln04L5nRC.jpg" width="600" alt="Luxurious Bridal Shower Decor 4K Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10694)**
+
+**Author:** [Maya](https://x.com/MayaAiCreator) | **Source:** [Link](https://x.com/MayaAiCreator/status/2098040077284745362) | **Published:** Sep 10, 2026
+
+---
+### Handheld iPhone POV Couple Interaction
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A highly detailed seedance 2.0 prompt for a 15-second first-person iPhone-style video of a couple interacting in a living room, focusing on character consistency and natural props like a biscuit stick.
+
+#### 📝 Prompt
+
+```
+15 seconds, vertical 9:16 aspect ratio, unprocessed handheld iPhone footage. A male lover sits beside the female lead, filming her with the rear camera using his right hand while his left hand interacts with her. The phone is held slightly above chest level near eye height; she knows she's being filmed. The following six sections are segments of one continuous shot without cinematic cuts. Framing changes come from subtle wrist movements, leaning forward, and the female lead moving closer. [Character & Clothing Lock] Female lead is Adult Asian Female Character #2 (ID: hf_20260617_232600_51d878a7-0e46-47e1-969e-b9d76667762e) wearing decorative glasses, strictly following character presets for face, hair, and physique. Wears Preset Clothing #1 with stockings throughout. Male is her lover, only off-screen voice and left hand appear. [Scene] Contemporary apartment living room with retro furnishings: brown leather sofa, wooden TV stand, tile floor, warm yellow lamp, TV playing softly. [Quality] Auto settings, natural colors, skin texture, low-light noise, handheld shakes. [Props] One bag of long, thin biscuit sticks. [Action sequence includes: 0-3s Lazy day routine, 3-5s Playful interaction, 5-7s Shy reaction, 7-10s Offering a biscuit, 10-12s Asking her to feed him, 12-15s Feeding him by mouth]. Natural Chinese audio, lip-synced. No background music or voiceover. Negative constraints: no third-person angles, no beauty filters, no slow motion, no text overlays.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097711267511255041/img/GbK-oxFoJ7cDtxOb.jpg" width="600" alt="Handheld iPhone POV Couple Interaction">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10703)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2098018656076845291) | **Published:** Sep 10, 2026
+
+---
+### Cyberpunk Pho Stall Anime Video
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed structured prompt for generating a high-quality cinematic anime scene of a futuristic cyberpunk street food stall in a Southeast Asian setting.
+
+#### 📝 Prompt
+
+```
+[Material Role Definition] @Image1 defines the facial features, hairstyle, hair color, and clothing of the <Owner>. The background, props, composition, and pose of the image are not used. [General Settings] Character definition: The owner is the only person shown on screen. Do not show customers, passersby, other people's hands, faces, or shoulders. The customer side of the stall remains vacant throughout, and the wooden round stools are empty. The owner always stands behind the counter and does not move to the front. Motion definition: All objects are moved by the owner's hands. Ingredients, bowls, ladles, tongs, and chopsticks do not move on their own, fall from outside the frame, or appear suspended in mid-air. When adding something to the bowl, the owner's hand must bring it into the frame, carry it directly above the bowl, and then release it. The hand remains in the frame until the object is released. Camera Line: In principle, the camera is on the outside, the street side of the counter. The only exception is Stage 4, where the camera is placed inside through an opening at the side of the stall near the floor, capturing the owner from behind. In other stages, the camera does not go inside the stall; when showing the owner's back or neck, the camera does not circle around, but the owner turns back toward the stockpot. Follow this line, and within that range, significantly vary the angle, height, and lens in each stage so as not to create a similar shot twice. Actively use top-down views, low-angle shots near the floor, macro close-ups, and front medium shots. Foreground Bokeh Definition: In every stage, place something at the position closest to the camera and blur it significantly. Only use these 7 items for foreground bokeh, and do not add new items: streaks of steam, bundles of dried noodles and vinyl strips hanging from the eaves, bokeh from hanging light globes, the front edge of the counter, streaks of raindrops falling from the eaves, small condiment dishes, the arc of the bowl's rim. Place the foreground bokeh at the edges or bottom half of the screen, not covering the subject. Focus is always on the middle-ground owner and their hands; foreground bokeh is blurred until it loses its outline. Parallax Definition: The foreground, middle ground, and background move at different speeds. The foreground steam and hanging objects flow and sway most quickly and slowly, the middle-ground owner and stall do not change position, and the background city lights hardly move. In stages where the camera moves, the foreground flows quickly across the screen, the middle ground shifts slightly due to parallax, and the background appears stationary. Environment: A small pho stall facing an alley in a downtown area of Southeast Asia on a near-future night. Light rain continues to fall, and the road surface reflects the light. Prioritize the realistic portrayal of steam, water droplets, the sheen of oil in the soup, fine scratches on stainless steel, and old stains on the wooden counter. The stall is an old handmade structure of wood and metal, with one side open without a wall, allowing a view down to the owner's feet. Bundles of dried noodles and faded vinyl strips hang from the eaves, with new technology crudely grafted on later. Style: Japanese full-color theatrical anime. Cinematic high-quality drawing. Extremely shallow depth of field equivalent to a full-frame 35mm F1.4, with subtle film grain. Two-color color grading with cold teal for the city night and amber for the stall. Shadows are not crushed to black but sink into a bluish-gray. Only the stall's amber and the background's artificial lights have saturation. Layout: The floating stockpot is on the left of the screen, the stainless steel tray with stewed beef slices is in the center, and the white deep bowl and small condiment dishes are on the right. The work moves from left to right. Maintain this left-right relationship. However, only in Stage 4, because the camera is behind the owner, the left and right on the screen are reversed: the stockpot appears on the right and the deep bowl on the left. This is correct; in all stages except Stage 4, the stockpot is on the left and the deep bowl is on the right. Light: The main light source is a warm amber light globe hanging from the eaves. It has no filament; a fist-sized sphere floats and glows at the end of a support. The auxiliary light is the cold blue of the city night. Keep the lighting and time of day consistent throughout. Near-future elements: Only the following 6 items; all other tools, ingredients, and actions are the same manual labor as modern stalls. 1. Rain breaks into a fine mist at an invisible boundary outside the eaves, flowing sideways instead of falling. The boundary's outline bleeds into iridescent colors, and the inside of the stall stays dry. 2. A line of maglev vehicles passes silently overhead, and a strip of white light licks the counter from back to front and disappears. 3. The stockpot floats a few centimeters off the stand, with a thin layer of blue light between it and the base. 4. Steam is sucked into a thin slit behind the eaves, swirling just before it. 5. Thin matte-black exoskeleton frames on both of the owner's forearms. From the wrists down are bare hands, with human skin on fingers and palms. 6. A small connection terminal is embedded at the owner's hairline at the nape of the neck, blinking a faint blue in time with her breathing. Food: Only one bowl of beef pho. All beef is cooked through after long stewing, appearing a calm brownish-tan with a white band of fat at the edges. Never show raw red meat, the color of blood, or ingredients that change color during cooking. The bowl contains white flat noodles, thin slices of stewed beef, round beef meatballs, clear amber soup, chopped green onions, sliced onions, and cilantro. Small dishes have bean sprouts, Thai basil, lime wedges, and red chili rings. All ingredients are already cut and cooked, arranged on trays and small dishes. The bowl is old white porcelain with chips and crazing; only one is shown until the end. [Character Design] <Owner> A Southeast Asian woman in her late 20s. Strictly refer to @Image1 for facial features, hairstyle, hair color, and clothing; the following are added for elements not shown in the image. Skin is a warm honey color, with a fine film of sweat appearing on the neck and collarbone from the heat of the pot, glowing slightly in the light. Maintain real pores and skin texture. A few strands of stray hair stick to the hairline on the forehead and nape due to humidity. Thin fabric follows the skin due to heat and humidity, quietly tracing the natural lines of the body with every movement. A cotton apron at the waist. A slender and supple skeletal structure. Eyes are always down at the hands and never look at the camera; the expression hardly changes, a slightly listless gaze. Vulnerable actions during business, not conscious of being seen by others. [Acting Core] Tell the story through fingertips, the backs of hands, wrists, neck, nape, collarbone, chest line, shoulder blades, thigh line, profile, and back, rather than the whole face. In stages showing a body part, zoom in as a close-up of that part, depicting even the physics of the cloth following, swaying, leaving, and returning to the skin. Show the contrast between human skin and the black frames on the forearms. All movements are slow, not omitting intermediate steps. [Stage 1] 0-3 seconds Empty Stall. Camera: Wide shot, low position near the road surface. Slowly dolly into the stall while maintaining hand-held micro-vibrations. Foreground bokeh is the wet road surface occupying the bottom third of the screen, where reflected rings of light flow quickly toward the left. The middle-ground stall slowly grows larger, and the background city lights are stationary. The owner stands behind the counter in the center-back, looking at the stockpot. The face is small, and the expression is unreadable. Main events: Light rain begins, raindrops break into mist at an invisible boundary outside the eaves, creating an iridescent shimmering outline that flows sideways and disappears. A line of vehicles passes overhead, and a strip of white light licks the counter from back to front once and disappears. Ending state: The camera stops in front of the counter. The owner is in the center-back, stockpot on the left, tray in the center, bowl on the right. All three wooden round stools are empty. The rain continues from this point on. Sound: Light rain, the dry, fine sound of raindrops breaking at the boundary, low electromagnetic hum, the pot simmering. [Stage 2] 3-7 seconds Wiping the Counter. Camera: Top-down view, fixed. The four corners are dark, and only the center counter is lit in amber. Foreground bokeh is a hanging light globe largely in the upper right corner, becoming a blurry golden orb swaying slightly. The owner's face is not in the frame. Main events: The owner leans forward and slowly wipes the wooden counter with a wet cloth in her right hand. Thin fabric follows her back, and shoulder blades alternately rise under the cloth. Through the gaps in the stray hair sticking to the nape, the faint blue of the embedded terminal can be seen blinking in time with her breathing. The black frame on the forearm slides slightly over the skin. Ending state: The front half of the counter is wet and reflects light. The owner folds the cloth with her right hand, places it on the right end of the counter, straightens up, and turns back to the stockpot on the left. Sound: The low sound of a damp cloth rubbing old wood, the pot simmering, rain. [Stage 3] 7-12 seconds Checking the Soup's Aroma. Camera: Zooming in three steps. First, an extreme close-up of the stockpot from diagonally below. A thin layer of blue light fills the gap between the bottom of the pot and the stand at the bottom of the screen; above it, the amber soup simmers quietly, star anise and charred ginger swirl slowly, and tiny stars of oil sparkle on the surface. Foreground bokeh is a streak of steam crossing the front. Next, the camera drops to the level of the pot's rim and tilts up diagonally. The bottom third of the screen is filled with rising steam. Above that steam, in the center of the screen, the line from the owner's neck to the collarbone and chest is visible through the steam. The thin fabric hangs slightly away from the body in the leaning posture and returns to follow the sweat-dampened skin. The film of sweat glows slightly in the light. The face is seen blurred at the top edge of the frame through the steam. Finally, a bust shot, returning to a slight low angle from across the counter, with the owner's face in the center of the upper half of the screen. Main events: The owner slowly leans over the stockpot, bringing her face close to the rising steam to check the aroma. She narrows her eyes and inhales quietly. Then she straightens up, takes a ladle with her right hand, scoops up the soup, raises her arm high, and pours it back into the pot in a thin arc. The liquid glows in the steam. Next, the owner touches the rim of the ladle to her lips, takes one sip of the soup, her throat moves slowly, she closes her eyes, and nods slightly. At that moment, a line of vehicles passes overhead, and a strip of white light momentarily outlines the hollow of her collarbone and jawline before disappearing. Ending state: The owner hangs the ladle on the rim of the stockpot with her right hand. Her body is upright, her eyes are open, and her gaze is back at her hands. Sound: The sound of liquid falling, the pot simmering, quiet breathing, the low wind-cutting sound of the vehicle line. [Stage 4] 12-17 seconds Blanching the Noodles. Camera: Only for this stage, place the camera inside through the opening at the side of the stall, set at a height of 30 cm from the floor. A close-up composition capturing the owner from diagonally behind. The camera stays close to the owner, pointing at her back, and rises straight up about 60 cm to waist height over five seconds, with the angle of the tilt-up becoming shallower as it rises. The ascent is one continuous shot. At the start of the ascent, the wet floor and the heels of the sandals are at the bottom of the screen, the line of the thighs from the hem of the apron to above the knees is in the center, and steam is at the top. As the camera rises, the screen moves to the knot of the apron and the line of the hips rising from the waist, finally stopping just above the waist. Foreground bokeh is steam crawling along the floor, softly covering the bottom edge of the screen. Backlit steam outlines the body in white, and city lights from the background peek through the side of the body as small bokeh circles. The owner's face and the back of her head are not in the frame. Main events: The owner stands with her legs slightly apart facing the noodle pot at the back of the stall, with her back to the camera. Her foot position and waist height do not change at all from beginning to end; only her arms, upper body, and the camera move. The owner holds a metal noodle strainer with white flat noodles in both hands, slowly submerges it in the boiling water, and quietly shakes it twice or thrice. The apron strings at the back of the waist sway slowly with the movement of her arms, and the thin cloth moves along the lines of her body. Steam rises vigorously, blurring the top of the screen, and swirls just before being sucked into the slit of the eaves. Then she lifts the strainer with both hands, drains the water, carries it directly over the deep bowl on the right side of her body, and tilts the strainer to slide the noodles into the bottom of the bowl. Ending state: Only white noodles are in the bottom of the deep bowl. The owner stands in the same position at the same height with her back turned, placing the empty strainer next to the hot water. The camera has stopped just above the waist. Sound: The boiling water, the sound of the strainer hitting the surface, falling water droplets, the sound of a thin air current. [Stage 5] 17-21 seconds Arranging the Meat. Camera: Medium close-up from diagonally above across the counter, capturing from the owner's chest to the bowl. The owner's face is cut off at the top edge of the frame and is not on screen. During this stage only, the camera moves horizontally about 30 cm to the right very slowly. Foreground bokeh consists of bundles of dried noodles and faded vinyl strips hanging from the eaves, occupying the left edge of the screen and flowing quickly to the left. The owner and the bowl in the middle ground shift only slightly due to parallax, while the background city lights appear stationary. Main events: The owner takes metal tongs in her right hand and picks up a thin slice of stewed brownish-tan beef from the center tray. Her left hand holds the rim of the bowl. The right hand carries the slice directly above the bowl, places it quietly on the noodles, and opens the tongs. Repeat the same action three times, with the meat overlapping slightly in a fan shape. Next, the right hand places the tongs on the edge of the tray, takes a large slotted ladle instead, scoops up three round beef meatballs, carries them directly above the bowl, and tilts the ladle to gently roll the meatballs in. Ending state: White noodles in the bowl, topped with fan-shaped overlapping brownish-tan meat, and three round meatballs in front. The owner's right hand is in the frame holding the slotted ladle. Her left hand is still holding the rim of the bowl. The horizontal camera movement stops here. Sound: The hard sound of tongs touching the metal tray, the damp sound of meat touching the noodles, the dull sound of meatballs touching the bottom of the bowl. [Stage 6] 21-26 seconds Pouring with Back Turned, Releasing Heat. Camera: Dropping in two steps. First, a medium close-up across the counter at a standing eye level, fixed. Foreground bokeh is streaks of steam constantly flowing in front, softly covering the bottom half of the screen. Next, the camera drops to the level of the bowl's rim and tilts up diagonally from right next to the bowl. Foreground bokeh is the arc of the bowl's rim and thick steam rising directly above it. Through that steam, in the upper half of the screen, is the line from the owner's neck to the collarbone and chest as she leans over the bowl. Thin fabric hangs slightly away from the body in the leaning posture. The face is cut off at the top edge of the frame and is not on screen. Main events: The owner turns back toward the stockpot on the left of the screen, showing her back and left shoulder to the camera. A damp lock of hair sticks to her nape, the terminal's blue blinks in time with her breathing in the gap, and the lines of her shoulder blades alternately rise through the thin fabric. The owner scoops soup into the ladle with her right hand, slowly returns her body to lean over the bowl, lowers the ladle straight to the height of the bowl's rim, and tilts it to pour the hot amber soup. Steam rises particularly thick. When finished pouring, the right hand returns the ladle to the rim of the stockpot, and the free left hand gently pinches the collar, slowly pulling the fabric away from the skin. Heat escapes from the neck, disrupting the steam, and when the fingers release, the fabric quietly returns to follow the damp skin. Next, the left hand lifts a small stainless steel container with chopped green onions and sliced onions, carrying it directly above the bowl. The container is always on screen. The fingers of the right hand pinch the onions and green onions from the container, quietly dropping them onto the soup in the bowl, and finally place two cilantro leaves the same way with the fingers. The left hand returns the container to the counter. Ending state: The bowl is filled with soup, with brownish-tan meat, round meatballs, and green leaves floating in it. The ladle is on the rim of the stockpot, the container is in the center of the counter. The owner straightens up to face the front of the counter, with both hands on either side of the bowl. Sound: The sound of soup falling into the bowl, the faint sound of leaves touching the soup surface, the sound of the container touching the wood, rain. [Stage 7] 26-30 seconds Placing and Tucking Hair. Camera: Medium shot from across the counter facing the owner. Camera height is at a seated person's eye level. The owner's upper body from the waist up is in the frame, and her face is in the center of the upper half of the screen. Foreground bokeh is the small condiment dish in the lower right corner and streaks of steam rising in front. The front edge of the counter crosses the bottom edge of the screen; the other side is empty, with only the back of a wooden round stool visible slightly in the corner. Main events: The owner lifts the bowl with both hands, carries it straight across her front to the front edge of the counter, and places it down slowly. She takes her hands off the bowl, takes a pair of chopsticks with her right hand, and places them horizontally in front of the bowl on the right. Then she stands with her back straight, raises her right hand, and slowly tucks a damp lock of stray hair that had fallen on her cheek behind her ear. Just as the neck is exposed, a line of vehicles passes overhead, and a strip of white light slides from the neck to the collarbone and disappears. The owner lowers her gaze and takes a step back. Ending state: The bowl is at the front edge of the counter, a streak of steam rising and being sucked into the slit of the eaves. Chopsticks are horizontal in front of the bowl to the right. The owner stands behind the counter, hands down at her sides. The customer seats remain empty until the end. Sound: The low sound of the bowl touching the old wood, the light sound of the chopsticks touching, the work sounds settle into silence, leaving only the sound of rain and mist breaking. [Prohibitions] Do not show anyone other than the owner on screen. No customers, passersby, other people's hands, faces, shoulders, or shadows. Keep the customer stools empty until the end. Ingredients and tools should not fall from outside the frame, float in the air, or move on their own. When something moves, the owner's hand must be holding it. Never show raw red meat, the color of blood, or ingredients that change color during cooking. Beef must be brownish-tan and stewed from beginning to end. Never depict the action of cutting ingredients. Do not show knives, cutting boards, or blades on screen. Do not show the moment an ingredient splits into two. Except for Stage 4, do not let the camera circle around to the inside of the counter. Do not move the viewpoint to the kitchen side to take a shot of the owner from behind except in Stage 4. Do not let the owner's face and body intrude into close-ups of the hands. Do not show the face in stages where it is specified not to be in frame. Do not place anything other than the 7 specified items in the foreground bokeh. Do not completely hide the subject with foreground bokeh. Do not focus on the foreground bokeh. The owner should not strike poses. Do not take a posture to show the body to the camera. All movements should flow naturally as cooking procedures. The owner should not squat. Do not bend knees to lower the waist. Do not do squats or move the body up and down. The owner's foot position and waist height are constant throughout. The leaning forward movement should be done only once in each stage; do not move the upper body up and down repeatedly. Do not generate BGM, music, dialogue, narration, subtitles, or text overlays. Do not display characters, numbers, logos, or sign text on screen. Blur signs and holograms as blocks of color without text. The only things that glow are the floating light globes, the blue layer at the bottom of the stockpot, the joints of the forearm frame, the terminal on the nape, and the passing vehicle line. Do not add other glows or light outlines. Do not break the number of fingers or joints. Do not make the owner a full cyborg. Face, neck, shoulders, legs, and fingers remain human skin. The owner should not smile and show teeth. Do not look at the camera. Do not use fades or dissolves. Do not draw creatures in the soup. Do not put out unsolicited ingredients or extra bowls. Robot ar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098015222951030784/img/FwhLFzzrkhLsEjW4.jpg" width="600" alt="Cyberpunk Pho Stall Anime Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10704)**
+
+**Author:** [AIスタジオワンルーム（AIアニメ、動画、漫画）](https://x.com/studio_oneroom) | **Source:** [Link](https://x.com/studio_oneroom/status/2098015859839234473) | **Published:** Sep 10, 2026
+
+---
+### Warrior vs Demonic Monster Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An epic fantasy cinematic prompt depicting a brave warrior confronting a terrifying giant dark demonic monster in an abandoned industrial setting.
+
+#### 📝 Prompt
+
+```
+Create an ultra-realistic cinematic scene of a terrifying giant dark demonic monster with massive muscular limbs, sharp curved horns and glowing red eyes, roaring aggressively while towering over a lone warrior. The warrior stands fearlessly in front of the creature, gripping a weapon and preparing for battle. Set the scene in an abandoned industrial sports field under a dark overcast sky, with mist, dust, dramatic atmospheric lighting, realistic shadows, detailed creature skin and textures, intense action composition, low-angle camera, cinematic depth of field, photorealistic CGI, 8K, HDR, highly detailed, epic fantasy movie aesthetic, vertical 9:16 composition.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097981027507736576/img/p61gt_Mq6dI8OXEv.jpg" width="600" alt="Warrior vs Demonic Monster Battle">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10699)**
+
+**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2097981077029863798) | **Published:** Sep 10, 2026
+
+---
+### Korean Neighborhood Vlog Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed vlog-style video prompt that uses a reference image to maintain character consistency while depicting a natural walk through a Korean residential neighborhood.
+
+#### 📝 Prompt
+
+```
+REFERENCE RULE: @image is the character identity reference only. Use @image every time the girl is visible. Preserve her exact facial identity, facial structure, eyes, nose, lips, skin tone, natural facial proportions, and recognizable hairstyle characteristics. Do not copy the reference image’s original pose, clothing, background, composition, or lighting. Generate all environments, actions, wardrobe, and cinematography from this prompt. STYLE Ultra-realistic Korean daily-life vlog, cinematic documentary realism, vertical 9:16, 4K, 24fps. Natural handheld smartphone camera, subtle realistic camera shake, authentic Korean neighborhood atmosphere, realistic depth of field, natural skin texture, subtle film grain. Everyday and unstaged, never glossy or commercial. CHARACTER Young Korean woman based on @image. Shoulder-length naturally messy dark-brown hair with soft texture and a few loose strands, minimal natural makeup, realistic skin. Outfit: oversized pale-blue button-up shirt, clean white T-shirt, relaxed beige trousers, white sneakers, small dark crossbody bag. Keep the same face, hair, outfit, accessories, body proportions, and age appearance throughout all 30 seconds. TIMELINE 00–02s @image opens her apartment entrance and steps outside into a quiet Korean residential neighborhood. She adjusts her crossbody bag and begins walking. Soft afternoon daylight falls between nearby buildings. 02–04s Side-following handheld shot. @image walks through a narrow residential lane with brick walls, apartment buildings, potted plants, balconies, utility poles, parked bicycles, and small Korean neighborhood signs. 04–06s She passes a small local shop. She briefly turns her head toward the window, notices something interesting inside, then looks forward and keeps walking naturally. 06–08s Lower cinematic angle focused on her white sneakers moving across the pavement. Tree branches cast moving patches of light and shadow. Her shadow moves correctly with her body. 08–10s She notices a neighbor watering potted plants outside an apartment doorway. She slows slightly, exchanges a subtle polite smile and nod, then continues walking. Keep the interaction casual and understated. 10–12s She arrives at a vending machine. Close-up of her hand selecting a cold bottled drink. The machine dispenses the bottle naturally. She picks it up and checks the condensation on the surface. 12–15s Medium tracking shot as she walks away from the vending machine holding the drink. She gently rotates the bottle in her hand while walking, sunlight reflecting naturally through the transparent plastic. 15–17s She glances down at the drink, then raises it naturally toward her lips and takes a small refreshing sip while continuing forward at the same walking pace. 17–19s Close side-profile shot. She lowers the bottle, exhales softly, and gives a tiny satisfied smile. A light afternoon breeze moves loose strands of hair and the hem of her shirt. 19–21s She passes a small neighborhood bakery-café. Through the glass window, simple pastries, bottled drinks, and everyday customers are visible. She briefly looks inside without stopping. 21–23s She notices a small wooden public bench beneath a leafy tree. She slows down and walks toward it, casually adjusting her crossbody strap. 23–25s She sits naturally on the bench beneath the tree. She places the drink beside her for a moment, relaxes her shoulders, and looks quietly toward the street. 25–27s She picks the bottle back up and takes another short sip. Close-up captures realistic condensation, fingers, bottle grip, subtle swallowing, and natural facial movement. 27–29s She looks across the street at passing cars and pedestrians, then gently smiles to herself. Sunlight moves softly through the leaves above her. 29–30s She stands, picks up her crossbody bag, and resumes walking deeper into the tree-lined neighborhood. Camera slowly follows from behind and slightly to the side, ending naturally as she moves farther down the street. CAMERA & MOTION Natural handheld smartphone/documentary cinematography. Subtle micro-shake, believable operator movement, smooth side tracking, occasional low angle, medium close-up, and gentle rear-following shot. Natural focus pulls and realistic lens behavior. No impossible camera movement, excessive stabilization, drone-like motion, or abrupt geography changes. LIGHTING & COLOR Afternoon only. Soft neutral daylight, slightly cool shadows, gentle warm highlights, realistic skin tones, muted greens, natural concrete and brick colors, restrained cinematic contrast, subtle film grain. No morning light, sunrise, sunset, heavy golden hour, orange cast, HDR, oversaturation, artificial bloom, or excessive glow. PHYSICAL REALISM Accurate walking rhythm and foot contact, realistic arm swing, correct hand-to-bottle interaction, realistic bottle weight, condensation, swallowing, hair movement, fabric movement, shadows, reflections, and object permanence. Environmental elements remain spatially consistent from shot to shot. AUDIO Natural location sound only: footsteps on pavement, distant Korean traffic, bicycle bell, leaves rustling, watering hose, vending-machine beep, bottle dispensing sound, bottle cap click, subtle sipping/swallowing, café ambience, soft neighborhood sounds. No background music, no narration, no dialogue.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097965463355756545/img/4Qu76GlINJHuYu0R.jpg" width="600" alt="Korean Neighborhood Vlog Walk">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10697)**
+
+**Author:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Source:** [Link](https://x.com/afrinxai/status/2097966053116752181) | **Published:** Sep 10, 2026
+
+---
+### Horror Mystery Trailer Template
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A versatile template for generating high-density 2D anime movie trailers with a focus on horror and mystery themes, utilizing rapid cuts and specific shot compositions.
 
 #### 📝 Prompt
 
 ```
 [Main Character] = Girl with black hair
-[Partner/Target] = Mother with a ponytail
-[Setting] = Inside a house
+[Target/Other] = Mother with a ponytail
+[Setting] = Inside the house
 [Anomaly Gimmick] = TV screen
 
 [Video Style]
-15 seconds. Japanese full-color anime. High-density 2D animation with a 500 million yen budget scale. Fast cuts like a movie trailer. Alternating between eyes, hands, feet, back, reflections, wide shots, and rapid push-ins. No subtitles, no watermark, no BGM. Sounds include breathing, ambient noise, short sound effects for each cut, and a final line.
+15 seconds. Japanese full-color anime. High-density 2D animation on a 500 million yen budget scale. Fast cuts like a trailer. Alternates between eyes, hands, feet, back, reflections, wide-angle pulls, and rapid push-ins. No subtitles, no watermarks, no BGM. Sounds are breathing, environmental noise, short sound effects per cut, and a final line.
 
 [Visual Composition]
-The meaning of the [Setting] and [Target] changes solely through the perspective of the [Main Character]. The [Anomaly Gimmick] is used to bridge each shot, and finally, the 'watcher' and the 'watched' roles reverse.
+The meaning of the [Setting] and [Target/Other] changes based only on the [Main Character]'s perspective. Use the [Anomaly Gimmick] as a transition for each shot, ending with a reversal between the "observer" and the "observed."
 
-[Shot 1: One-Eye Hook]
-A close-up of one of the [Main Character]'s eyes filling the screen. The [Setting] is reflected in the pupil. The [Anomaly Gimmick] crosses deep within the eye.
+[Shot 1: Single Eye Hook]
+A close-up of the [Main Character]'s single eye filling the screen. The [Setting] is reflected in the pupil. The [Anomaly Gimmick] crosses deep within the eye.
 
 [Shot 2: Feet]
-The floor of the [Setting]. A single footstep. The feet step on light and shadow.
+The floor of the [Setting]. A single footstep. Only the feet step on light or shadows.
 
 [Shot 3: Hands]
-The [Main Character]'s hand moves slightly. It stops just before grabbing something.
+The [Main Character]'s hand moves slightly, stopping just before grabbing something.
 
 [Shot 4: Target]
-The [Target] is shown for just a moment. Shallow focus, not showing the face or the whole body too clearly.
+The [Target/Other] appears for a brief moment. Shallow focus, not showing too much of the face or whole body.
 
 [Shot 5: Reflection]
-The [Main Character] is reflected in a mirror, window, smartphone, metal, or the eye's reflection. The position in reality and the reflection are slightly different.
+The [Main Character] is reflected in mirrors, windows, smartphones, metal, or pupils. The physical position and reflection position differ slightly.
 
-[Shot 6: Wide Shot]
-A brief showing of the entire [Setting]. A composition where it is unclear where the [Main Character] is located.
+[Shot 6: Wide Angle Pull]
+Briefly show the entire [Setting]. A composition where it's unclear where the [Main Character] is located.
 
 [Shot 7: Approach]
-Rapid push-in. The [Anomaly Gimmick] appears right next to the [Target].
+Rapid push-in. The [Anomaly Gimmick] appears very close to the [Target/Other].
 
 [Shot 8: Reversal]
-A high-speed pan as if the camera is looking back. The [Main Character] is standing there quietly.
+High-speed pan as if the camera is looking back. The [Main Character] is standing there quietly.
 
 [Shot 9: Fixed Gaze]
-The [Main Character] stares at the camera. Doesn't move. Only the background shakes slightly.
+The [Main Character] stares at the camera. Still. Only the background sways slightly.
 
 [Shot 10: Final Line]
-The [Main Character] briefly says, 'I was watching from the start.' The last frame returns to a close-up of one eye and ends.
+The [Main Character] says shortly, "I was watching from the start." The last frame returns to the single eye close-up to end.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094091613106757632/img/EOm3U04viJUVt5D5.jpg" width="600" alt="Horror Anime Trailer Template">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094091613106757632/img/EOm3U04viJUVt5D5.jpg" width="600" alt="Horror Mystery Trailer Template">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10639)**
 
@@ -487,47 +696,23 @@ Generate an 11-second cinematic live-action short video in 9:16 vertical format.
 **Author:** [古一](https://x.com/MANISH1027512) | **Source:** [Link](https://x.com/MANISH1027512/status/2097875223827857528) | **Published:** Sep 10, 2026
 
 ---
-### Futuristic Luxury Electric Sports Car Ad
+### Woman Riding Ice Dragon
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-end CGI commercial sequence for a concept sports car, featuring liquid metal transformation and dynamic studio lighting.
+> A fantasy video prompt of a woman riding a white ice dragon over snowy mountains and frozen rivers.
 
 #### 📝 Prompt
 
 ```
-A hyper-realistic, photorealistic 8K CGI advertisement sequence for a futuristic luxury electric concept sports car, styled like a high-end commercial with a sleek, powerful, and sophisticated mood.
-
-Setting & EnvironmentSet in an infinite, minimalist virtual studio with a deep black void background and a perfectly polished, highly reflective black obsidian floor that crystal-clearly mirrors the scene. The atmosphere is crystal clear with subtle light bloom.
-Lighting
-
-Key Light: A cool-white (6000K) softbox panel light descends from above, growing larger to cast clean defining highlights over the final car.
-
-Emissive Accent Light: Silvery-white and vibrant electric-blue light glows directly from the fluid liquid metal, projecting dynamic reflections onto the floor.
-
-Subject Transformation
-
-Initial Form: A single, pristine sphere of mercury-like liquid metal hovering above the floor, rippling with high reflectivity and surface tension.
-
-Final Form: A low-profile, aerodynamic futuristic sports car with smooth, single-piece molded body panels in deep gloss black pearlescent paint that subtly shifts to dark blue, featuring razor-sharp LED light bars.
-
-Camera ChoreographyAn uninterrupted, dynamic camera move starting as an extreme close-up macro (85mm, f/1.8 shallow depth of field) focused on the hovering liquid drop. The camera smoothly pulls back and accelerates into a sweeping clockwise orbit, transitioning to a wide shot (35mm, f/5.6 deep focus) to reveal the complete vehicle sharp and in full view.
-
-Action & Animation Sequence
-0–2s: The liquid metal sphere slowly pulses and ripples to a low-frequency bass hum.
-
-2–5s: The sphere explodes outward in zero-gravity as liquid tendrils stretch to form the car's wireframe, traced by glowing electric-blue energy lines, accompanied by high-tech chimes and metallic crackles.
-
-5–7s: Liquid metal flows over the energy frame, solidifying into smooth body panels and forming wheels to a heavy bass thrum.
-
-7–8s: The car gently settles onto the reflective obsidian floor, its razor-sharp LED headlights and taillights flash on with a powerful pulse, fading into the subtle hum of a high-tech electric motor.
+Use the uploaded reference image as the exact character reference. Keep the same face, hair, outfit and appearance throughout. The woman stands beside the giant white ice dragon, then rides on its back as it flies over snowy mountains and a frozen river. They reach an ancient stone shelter where she explores while the dragon protects her. Cinematic camera movement, epic wide shots, realistic motion, glowing blue eyes, snowfall, blue atmosphere with warm firelight, photorealistic fantasy movie quality, 16:9, no background music.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097771366909194241/img/nLFyGHKBICGTcU4j.jpg" width="600" alt="Futuristic Luxury Electric Sports Car Ad">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097855095253950464/img/ye1VdcvdidOgZsAF.jpg" width="600" alt="Woman Riding Ice Dragon">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10627)**
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10632)**
 
-**Author:** [Iqra Saifi](https://x.com/IqrasaifiAI) | **Source:** [Link](https://x.com/IqrasaifiAI/status/2097837462512951458) | **Published:** Sep 10, 2026
+**Author:** [Sᴀɪʀᴀ](https://x.com/itsSaira_1) | **Source:** [Link](https://x.com/itsSaira_1/status/2097855229295505816) | **Published:** Sep 10, 2026
 
 ---
 ### 1980s Nostalgic Summer Vacation
@@ -1694,6 +1879,25 @@ Use the reference image for the character. A female idol is standing in a dance 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10512)**
 
 **Author:** [妖精アーヤ](https://x.com/aiehon_aya) | **Source:** [Link](https://x.com/aiehon_aya/status/2097082482306720232) | **Published:** Sep 7, 2026
+
+---
+### Volcano Crater Ice Drop Documentary
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed multi-stage cinematic prompt for Seedance 2.0 featuring a woman dropping a giant ice block into a volcanic lava pool from a helicopter.
+
+#### 📝 Prompt
+
+```
+[Style] Realistic live-action, vertical screen extreme adventure documentary short video, handheld mobile phone wide-angle lens texture. Real characters, real cabin interior, refraction and internal cracks of transparent ice cubes, black volcanic rock and orange-red lava. Preserves slight handheld shake, flight vibration, natural motion blur, and exposure changes. The interior is dark, the exterior sky is bright, and lava casts orange-red reflections on the character's arm, ice block, and doorstep. Final eruption uses realistic cinematic special effects, white gas column with volumetric layers and rolling details. [Duration] 15 seconds, 9:16 vertical, continuous single shot. Real-time action, no cuts, no slow motion, no other camera angles. [Scene] A helicopter hovers over a volcanic lava area, side door fully open. Camera is inside looking out. Dark door frame visible on left and top, anti-slip flooring below. Below is a large area of dark grey-black solidified lava with winding orange-red glowing cracks surrounding a nearly circular lava pool where molten material rolls and bubbles. The pool is the drop point for the ice and subsequent eruption. [Character] An adult East Asian female, brown ponytail, wearing a functional jacket and work pants, aviation headset. Hair blown by strong wind. Initially smiling at camera, then focuses outside; ends by flinching away from the eruption. Character stays inside the cabin, only arms and ice extend outside. [Core Prop] A single giant transparent rectangular ice block, chest to knee length, trunk width. Heavy with wet surface and internal bubbles/cracks. Female holds it with both arms showing weight. Tilts downward after release as a whole block. [Camera] Starts as near handheld medium shot of female and ice. After release, camera tilts down and tracks the fall, staying at the doorstep. Maintains overhead view of the lava pool, then retracts quickly as the gas column approaches. [Timelines] 00:00-01:30: Holding ice and smiling. 01:30-02:30: Turning to the drop point and lowering center of gravity to push ice out. 02:30-03:10: Releasing ice over the threshold. 03:10-04:60: Aerial tracking of the falling ice. 04:60-08:20: Waiting over the bubbling lava pool. 08:20-11:50: Small white steam團 appearing and gathering force. 11:50-12:40: Sudden expansion of the white gas column shooting upward. 12:40-13:60: Gas column approaching the lens, camera retreating in panic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096984251615047680/img/AOaEmhICg-dW96A8.jpg" width="600" alt="Volcano Crater Ice Drop Documentary">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10702)**
+
+**Author:** [探路AI](https://x.com/TanLuAI) | **Source:** [Link](https://x.com/TanLuAI/status/2096984350055436729) | **Published:** Sep 7, 2026
 
 ---
 ### Golden Hour Alley Scene
@@ -3251,366 +3455,6 @@ Overall style: Luxury watch commercial, soft cinematic lighting, slow elegant ca
 **Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2094641418174361694) | **Published:** Sep 1, 2026
 
 ---
-### Transformers Biomechanical Beetle Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video transformation prompt that converts a biomechanical beetle humanoid into a robotic beetle in the cinematic Transformers movie style.
-
-#### 📝 Prompt
-
-```
-In Transformers movie style can you transform biomechanical beetle humanoid Image 1 into a Biomechanical robotic beetle image 2.
-```
-
-<img src="https://cms-assets.youmind.com/media/1788331415724_9dfin8_HRGI13cbIAAdhHY.jpg" width="600" alt="Transformers Biomechanical Beetle Transformation">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10206)**
-
-**Author:** [Zidan 子丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2094605823741919530) | **Published:** Sep 1, 2026
-
----
-### Japanese Diner Girl Vlog Montage
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A nostalgic 15-second Vlog-style montage of a Japanese high school girl helping at her family's rural diner, captured with a handheld digital camera feel.
-
-#### 📝 Prompt
-
-```
-Create a 15-second Vlog-style home video of a high school girl helping at her family's diner, filmed by a childhood friend from a counter seat. The 15 seconds should consist of a hard-cut montage of 7 short shots (approx. 2 seconds each). Each shot is a different moment, where 1 shot = 1 small event. Do not use transitions or fades. Since it's filmed by a friend, she shows a relaxed and natural expression.
-
-Main Subject:
-The same Japanese high school girl throughout all shots. A sharp beauty with strong-willed straight eyebrows, large almond eyes with clear double eyelids, a straight nose, well-defined lips, healthy and realistic skin texture, and no makeup. A high black ponytail revealing her forehead emphasizes her features. Wearing a white headscarf, a navy apron, and a white T-shirt. She is efficient but slightly blunt. Keep facial features, body type, hairstyle, and clothing completely consistent from start to finish.
-
-Location:
-A small rural diner during a summer noon. A steamy kitchen, a counter, small table seats for regulars, and light filtering through the noren curtain. A real shop with a lived-in feel. No advertisements or recognizable brands.
-
-Camera / Visual Style:
-Common to all shots: An old handheld home digital camera. Natural camera shake, imperfect framing, occasional focus hunting, lens fogging from steam, exposure fluctuations, light motion blur, subtle noise, and slightly muted colors. No stabilization, gimbals, drones, slow motion, or cinematic lighting.
-
-Shot List (In order, approx. 2s each, all hard cuts):
-1. Emerging from the steam carrying a tray, noticing the camera and holding back a smile while giving a 'don't film me' look.
-2. Efficient hands arranging diner dishes on a table.
-3. A sharp profile as she calls out an order to her father in the kitchen (words unintelligible).
-4. At a regular elderly man's seat, gently moving a side dish to an easy-to-reach position and refilling his teacup.
-5. Reacting to something the old man says with a soft, age-appropriate smile.
-6. In the afternoon after customers have left, dozing off with her chin in her hands inside the counter.
-7. Waking up with a start, realizing she was being filmed, and pretending to throw a cloth. During this, the recording suddenly cuts to black around 00:14. No fade out.
-
-Physical Realism:
-Maintain authentic real-world physics. Hands, fingers, hair, clothes, trays, plates, bowls, teacups, and steam behave naturally. No extra fingers, fused hands, distorted bodies, floating objects, disappearing objects, or sudden deformations. Plates and utensils remain independent objects. Keep the subject consistent across all shots.
-
-Audio:
-Natural environmental sounds only. Kitchen frying sounds, clinking of dishes, the rustle of the noren, a fan, and the voices of regulars (words unintelligible). No music, narration, or artificial sound effects.
-
-Final Atmosphere:
-A record of a girl's lunch hour who is blunt yet never forgets small kindnesses for the regulars. Not a commercial work or a gourmet program. Both the profile of her working and her sleeping face are endearing. Brisk, warm, nostalgic, improvised, and deeply human. Prioritize the feeling that the camera just happened to be there.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094081597452783616/img/8EAuyuM2l6gKdfuR.jpg" width="600" alt="Japanese Diner Girl Vlog Montage">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10219)**
-
-**Author:** [妖精アーヤ](https://x.com/aiehon_aya) | **Source:** [Link](https://x.com/aiehon_aya/status/2094545769810592006) | **Published:** Aug 31, 2026
-
----
-### Earthquake Disaster Cinematic
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dramatic vertical cinematic prompt depicting a woman facing an earthquake in a modern city with floating debris and golden-hour lighting.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic disaster scene in a modern city, a brave young woman in a dark brown coat stands in the foreground with one hand raised, facing massive chunks of concrete and debris floating through the air after a devastating earthquake. Damaged skyscrapers, city buses, shattered glass, dust clouds, dramatic golden-hour sunlight, volumetric lighting, intense atmosphere, realistic textures, dynamic composition, shallow depth of field, 8K photorealism, cinematic color grading, high-detail movie still, vertical.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094289336078675969/img/ZlzN5MVFBG4fwt0e.jpg" width="600" alt="Earthquake Disaster Cinematic">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10103)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2094289381049659440) | **Published:** Aug 31, 2026
-
----
-### Snowboarding Cinematic Action
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-energy vertical video prompt for a professional ski-film aesthetic featuring a snowboarder performing rail grinds and aerial rotations.
-
-#### 📝 Prompt
-
-```
-Cinematic vertical video of a young East Asian woman with long straight black hair snowboarding at a high-alpine ski resort on a bright sunny day. She wears a vibrant turquoise-blue ski jacket, black snow pants, white helmet, reflective orange-tinted goggles, and black gloves.  
-Opening shot: medium close-up of her standing on a groomed snow slope with dramatic snow-capped mountain peaks and a clear blue sky behind her. She smiles brightly, adjusts her white helmet and goggles with both gloved hands, then clasps her hands excitedly in front of her chest while saying “I’m so excited!”  
-Smooth transition into dynamic action: first-person and tracking shots of her carving down wide, groomed powder runs with visible ski tracks. She approaches a long yellow-and-black rail, grinds it with perfect balance, arms out for style.  
-She then hits a large snow jump, launching into a high aerial with a stylish mid-air grab and rotation, snowboard visible against the deep blue sky and distant mountain ranges. Snow particles and powder spray trail behind her as she flies. Bright sunlight creates lens flares and sharp shadows on the pristine white snow.  
-High-energy, professional ski-film aesthetic, smooth camera movement, crisp details, vibrant colors, 15-second duration.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094243122134016000/img/lmi8jqber59zu-Ee.jpg" width="600" alt="Snowboarding Cinematic Action">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10100)**
-
-**Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2094243156225315270) | **Published:** Aug 31, 2026
-
----
-### Astronaut and Alien Megastructure
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A grand sci-fi cinematic prompt featuring an astronaut exploring a massive alien structure above a shattered planet with complex camera movements.
-
-#### 📝 Prompt
-
-```
-15-Second Sci-Fi Cinematic
-A lone astronaut stands on the edge of a colossal alien megastructure  floating above a shattered planet as a mysterious blue signal pulses  across the sky. Massive ring worlds rotate slowly in the distance while  swarms of tiny drones awaken from the darkness. The astronaut cautiously  steps forward as gravity bends around them, fragments of rock levitate,  and glowing alien glyphs illuminate beneath their boots. Suddenly, an  enormous biomechanical entity emerges from the structure, its eyes  igniting with celestial energy. 
-
-The camera performs a slow cinematic  push-in, transitions into an orbit shot around the astronaut, then  accelerates into a dramatic wide reveal of the colossal alien machine dwarfing the landscape. 
-
-Hyper-realistic sci-fi, ultra-detailed,  photorealistic, volumetric lighting, atmospheric fog, blue and gold  energy effects, cinematic color grading, Unreal Engine 5 quality, IMAX  composition, epic scale, smooth camera movement, shallow depth of field,  high contrast, ray-traced reflections, 16:9, masterpiece, no text, no  watermark. Negative Prompt: Low quality, blurry, noisy, low resolution, cartoon, anime,  oversaturated, flat lighting, shaky camera, jitter, flickering,  duplicated objects, distorted anatomy, extra limbs, floating artifacts,  compression artifacts, text, subtitles, watermark, logo, cropped frame,  poor composition.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094228852042043392/img/mFJ5X7vyu7LAGQY6.jpg" width="600" alt="Astronaut and Alien Megastructure">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10102)**
-
-**Author:** [DeCat](https://x.com/DeCat2025) | **Source:** [Link](https://x.com/DeCat2025/status/2094229194653733265) | **Published:** Aug 31, 2026
-
----
-### Kind Yankee Boy Kitten Rescue Vlog
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A comprehensive Japanese prompt for a 15-second vlog-style video featuring a delinquent-looking high school boy showing kindness to a kitten on a rainy day.
-
-#### 📝 Prompt
-
-```
-Create a 15-second Vlog-style home video of a 'mild yankee' style Japanese high school boy meeting a kitten in a cardboard box on a rainy day, filmed casually by a friend from under the eaves. 480p. The 15 seconds consist of a hard-cut montage of 7 short shots (approx. 2 seconds each). Each shot is a different moment, 1 shot = 1 small event. No transitions or fades. Since a close friend is filming, he remains his natural self, unconcerned about being recorded.
-
-Main Subject:
-Same Japanese high school boy throughout all shots. Short hair dyed bright brownish-gold, a small silver earring in one ear. Thin, groomed eyebrows and sharp slanted eyes with hidden double lids, but upon closer look, long eyelashes, a straight nose, and a sweet face with well-shaped thin lips that looks much younger when he smiles. Realistic sun-tanned skin texture, slim jawline. Wearing an oversized black T-shirt, baggy black pants, sandals, and a transparent vinyl umbrella. Completely consistent face, physique, hairstyle, clothing, and umbrella from start to finish.
-Kitten: A tiny white kitten in a cardboard box partially getting wet in the rain.
-
-Location:
-An alleyway on the edge of a rural shopping street on a rainy evening. Closed storefronts, wet asphalt, eaves, cardboard boxes. No ads or recognizable brands.
-
-Camera / Visual Style:
-Common for all shots: Handheld old consumer digital camera held by a friend under the eaves. Natural shake, imperfect framing, occasional focus hunting, exposure fluctuations due to rain darkness, light motion blur, subtle noise, slightly muted colors. No stabilization, gimbal, drone, slow motion, or cinematic lighting.
-
-Shot List (In order, approx. 2 seconds each, all hard cuts):
-1. Under the eaves of the rainy shopping street. Talking with his umbrella on his shoulder, he suddenly notices something in the back of the alley.
-2. A kitten in a cardboard box getting wet in the corner of the alley. He squats in front of the box.
-3. Keeping his sharp gaze, he stares intently at the kitten. The kitten meows softly.
-4. With his rugged hand, he timidly and gently pets it. The kitten rubs its head against his palm.
-5. After petting for a while, his sharp gaze softens and he smiles slightly.
-6. Standing up, he opens his vinyl umbrella and fixes it over the cardboard box as rain protection.
-7. Leaving the umbrella behind, a shot of his back as he runs away through the rain. Midway, around 00:14, the recording suddenly cuts to blackout. No fade out.
-
-Physical Realism:
-Maintain realistic physics. Hands, fingers, hair, clothes, rain, umbrella, cardboard, and kitten behave naturally. No extra fingers, fused hands, distorted bodies, floating objects, disappearing items, or sudden deformations. The kitten moves naturally on four legs. The umbrella stays where it was placed. Maintain wet clothes and hair, road reflections, and foot grounding. Keep the subject consistent across all shots.
-
-Audio:
-Natural ambient sounds only. Sound of rain, water dripping from eaves, kitten's soft meow, sandal footsteps, distant car sounds. No music. No narration. No artificial sound effects.
-
-Final Mood:
-A record of a scary-looking boy's kindness that was never meant to be seen by anyone, caught by chance. Not a commercial work. Not a scene from a drama. Running away represents his shyness. Rugged, awkward, smelling of rain, warm, and deeply human. Prioritize the feeling that the camera just happened to be there.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094093239565565952/img/B51Y4_MT5YugzwTt.jpg" width="600" alt="Kind Yankee Boy Kitten Rescue Vlog">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10108)**
-
-**Author:** [妖精アーヤ](https://x.com/aiehon_aya) | **Source:** [Link](https://x.com/aiehon_aya/status/2094183382599311369) | **Published:** Aug 30, 2026
-
----
-### 19th Century Paris Anime Market
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A high-energy anime-style prompt for Seedance 2.5 depicting the Les Halles market in Paris with dynamic camera movements.
-
-#### 📝 Prompt
-
-```
-Japanese full-color animation. A high-speed whip-pan shot rushing through the crowded Les Halles central market in late 19th-century Paris, fast and energetic camera movements as merchants open their shops, colorful cheese, wine, bread, flowers, and fresh produce flying past, horse-drawn carriages and early automobiles hurrying by, high energy combined with a gritty beauty, and beams of warm morning sunlight.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094183004835131392/img/1cMsWjzpD9S5gXHu.jpg" width="600" alt="19th Century Paris Anime Market">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10106)**
-
-**Author:** [雨雲(Amagumo)806 ｜ AI Animer](https://x.com/ai_animer) | **Source:** [Link](https://x.com/ai_animer/status/2094183024355410033) | **Published:** Aug 30, 2026
-
----
-### Midnight Forest with Glowing Windows
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dreamlike video prompt featuring a silent forest with glowing windows in tree trunks and an ancient underground train emerging silently from the earth.
-
-#### 📝 Prompt
-
-```
-The camera slowly moves forward through a silent midnight forest where every tree is covered in thousands of tiny glowing windows, as if entire miniature homes exist inside their trunks. As the camera approaches, the windows gradually begin turning off one by one, revealing that the forest is slowly waking up. The ground gently separates beneath the trees, exposing an enormous ancient railway buried underground. A single empty train emerges silently from the earth, its windows glowing warmly despite having no visible driver. The train passes directly through the forest without disturbing a single tree, and as it disappears into the fog, the trees slowly close their glowing windows again. The person standing beside the railway remains completely still throughout. Smooth continuous camera movement, physically believable environmental motion, subtle wind and drifting mist, realistic lighting, cinematic moonlight, deep atmospheric shadows, photorealistic, mysterious and dreamlike, no cuts, no jumps, no sudden changes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093816392071974912/img/cPW8b7Gs8IeKRdyh.jpg" width="600" alt="Midnight Forest with Glowing Windows">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10099)**
-
-**Author:** [H A J R A](https://x.com/codewithhajra) | **Source:** [Link](https://x.com/codewithhajra/status/2094099803407835369) | **Published:** Aug 30, 2026
-
----
-### Dark Fantasy Fire Phoenix Ritual
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> An epic 20-second dark fantasy film prompt for Seedance featuring a female warrior summoning a massive fire phoenix. The prompt emphasizes realistic fluid fire physics, cinematic camera movements, and symmetrical epic composition.
-
-#### 📝 Prompt
-
-```
-Duration: 20 seconds
-Aspect ratio: 16:9
-Audio: Epic drum beats, low atmospheric music, flame burning sounds, breaking air sounds, explosion sounds; no dialogue, no narration, no subtitles
-Overall style: Realistic Oriental dark fantasy film, live-action shooting texture, high-contrast night scene, orange-red fire light, intense film camera movement
-
-GLOBAL CHARACTER
-
-Original adult female lead:
-Tall and agile Oriental female, cold features, long black hair with a few dark red strands. Wearing a black and red Oriental fantasy battle robe, gold scale shoulder guards, girdle, large red cloak and long sleeves, wearing a phoenix gold hairpin. Holding a bronze phoenix mask.
-
-Keep the female lead's face, hairstyle, clothing and body type consistent throughout. Clothing can only flutter with movement and cannot automatically change.
-
-Scene:
-Large circular altar in the middle of the night, ground is dark stone, surrounding is pitch black and empty. A circle of real flames burn at the edge of the altar, with sparks and thin smoke floating in the air.
-
-SHOT 1 (00:00-00:03.00) Putting on the mask, bringing out the phoenix
-
-00:00-00:00.80:
-Extreme close-up. The female lead holds the bronze phoenix mask to the camera, the mask occupies the foreground first, focus slowly turns from the mask to her calm eyes. Background has only a cluster of swaying flames.
-
-00:00.80-00:01.50:
-Camera moves back quickly to a low-angle medium shot. The female lead puts the mask on her face, right hand waves horizontally across her chest; a fist-sized fireball suddenly ignites in her left palm.
-
-00:01.50-00:03.00:
-The female lead suddenly spreads her arms. Camera pulls back at high speed to a symmetrical extreme long shot; the fireball explodes behind her, forming a huge fire phoenix ten odd meters wide. The phoenix is composed of countless feather-shaped flames, wings unfolding layer by layer from the middle to both sides.
-
-Fire:
-Flames have a white-yellow high-temperature core, orange-red outer flame, real smoke, flying sparks and heat wave distortion. Fire light must illuminate the female lead's mask, gold shoulder guards, cloak and ground.
-
-SHOT 2 (00:03.00-00:06.00) Flame ring
-
-00:03.00-00:04.30:
-The female lead turns clockwise quickly with her left foot as the axis, red cloak flares out. Right hand sweeps up from a low position, a thick flame ribbon follows the arm's trajectory, forming a nearly complete ring around the body.
-
-Camera:
-Camera rotates counter-clockwise around the female lead at a low angle, opposite to her rotation direction, creating a strong sense of speed; flames sweep in front of the lens forming a brief flame wipe.
-
-00:04.30-00:06.00:
-Camera uses flame obstruction to cut to a vertical top shot. The female lead is in the center of the altar, flame ring closes around her; gold-red geometric magic circles light up one by one from the center outwards on the ground, light patterns extend quickly along stone cracks like lava.
-
-SHOT 3 (00:06.00-00:09.50) Diving through the fire wall
-
-00:06.00-00:07.20:
-Vertical top shot continues to rotate clockwise. The female lead waves her sleeves, ground fire ring rotates at high speed, sparks fly out along the circumference; outer circle magic formation continues to expand.
-
-00:07.20-00:08.20:
-Camera dives quickly from high altitude, passing through flying sparks to a low-angle ground shot. Female lead drops to one knee simultaneously, right palm slaps the stone surface, a fire wall rises horizontally in front of her.
-
-00:08.20-00:09.50:
-Camera pushes quickly through the fire wall to a facial close-up. Female lead lifts her left hand, fingers slide slowly over the phoenix mask, pushing the mask slightly to one side, only revealing one sharp eye. Flames constantly sweep in the foreground, but must not cover the gaze.
-
-SHOT 4 (00:09.50-00:13.00) Swallowing fire and breathing fire
-
-00:09.50-00:10.70:
-Cut to side medium long shot. Female lead stands up, left hand grabs a spinning fireball from the wall of fire beside her, palm holds the fireball, slowly brings it to her mouth.
-
-00:10.70-00:12.30:
-Low-angle quick push-in. Female lead tilts head back, spreads arms, breathes out a thick pillar of fire from her mouth straight up. The fire pillar rushes high into the sky, cloak and long hair are lifted by the rising heat flow.
-
-00:12.30-00:13.00:
-Camera rotates rapidly half a circle around the lead. Fire pillar divides into two left and right arc fire flows in the air, for the mirror clone transition in the next shot.
-
-Constraints:
-Fire breathing is a pure magic effect, character has no burns, pain or suffocation; fire pillar must connect accurately with the mouth direction.
-
-SHOT 5 (00:13.00-00:16.20) Mirror clone and explosion
-
-00:13.00-00:13.80:
-A vertical flame mirror surface appears in the center of the screen. The female lead is mirror-copied into two identical clones on the left and right, the two stand opposite each other across the central fire line, spreading arms simultaneously.
-
-00:13.80-00:15.00:
-The two clones jump up and rotate outwards simultaneously, wide sleeves and cloaks draw two symmetrical S-shaped flame trajectories. Camera maintains a frontal extreme long shot, presenting a completely symmetrical composition.
-
-00:15.00-00:16.20:
-The two flame trajectories collide violently in the center of the screen, producing a huge explosion with a white-yellow core. Shockwave pushes out sparks, dust and ring-shaped air waves to the surroundings, briefly filling the entire frame.
-
-SHOT 6 (00:16.20-00:20.00) Fire vortex and phoenix ending
-
-00:16.20-00:17.30:
-After the explosion smoke clears, cut to top shot. Mirror clones disappear, only the original lead remains. She rotates at high speed in the center of the altar, cloak driving flames to form an upward spiral fire vortex.
-
-00:17.30-00:18.40:
-Female lead suddenly stops rotating, tilts head back and lifts both arms. Fire vortex explodes outwards, all ground magic circles light up simultaneously; her body slowly floats about half a meter off the ground.
-
-00:18.40-00:20.00:
-Camera rises rapidly from top shot and pulls back. Huge fire phoenix re-condenses behind the female lead, phoenix wings fully spread, tail feathers connect to the ground magic circles; lead floats in the center of the phoenix, cloak spread. Last 0.5 seconds maintained symmetrical epic freeze-frame, sparks slowly float towards the camera.
-
-FIRE AND VFX RULES
-
-- Flames must have real fluid movement, inertia, smoke, sparks, heat waves and environmental reflections.
-- Flame trajectories strictly follow the arm, cloak and body rotation direction, cannot float detached from the action.
-- Fire phoenix must be composed of independent feather-shaped flames, wings having unfolding and slight flapping process.
-- Ground magic circles use abstract geometric fire patterns, no text, garbled code or real-world religious symbols appear.
-- Mirror clones only allowed to appear between 13 to 16.2 seconds, must disappear after explosion.
-- Camera movements in order: extreme close-up zoom, low-angle pull back, reverse surround, vertical top shot, dive, fire wall push-in, low-angle push shot, mirror frontal extreme long shot, final aerial pull away.
-
-NEGATIVE
-
-Character gender change, extra characters, mirror clones appearing early, clones still existing after explosion,
-cheap flame textures, 2D flames, flames not emitting light, flames passing through the body, flames out of sync with action,
-fire phoenix turns into ordinary bird, phoenix wings asymmetrical, phoenix form flickering, magic circle garbled code,
-wrong fire breathing position, fire from nose, character burns, painful expression, terrifying body deformation,
-sudden clothing change, mask sticking to face, cloak clipping, hair becoming short, face drift,
-warped faces, melting features, extra limbs, fused fingers,
-plastic CGI skin, cartoon rendering, anime style, camera angle drift,
-unmotivated camera shake, abrupt teleportation, frozen smoke,
-subtitles, watermarks, logos, Chinese text, English text
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094060852773027840/img/5J8_t3bEn3fbCBQS.jpg" width="600" alt="Dark Fantasy Fire Phoenix Ritual">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10105)**
-
-**Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2094061058776342862) | **Published:** Aug 30, 2026
-
----
-### Korean Lifestyle Vlog Narrative
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex, multi-scene video prompt for a photorealistic Korean lifestyle vlog that maintains strict character consistency through a morning routine in Seoul.
-
-#### 📝 Prompt
-
-```
-Create a 30-second ultra-photorealistic cinematic Korean lifestyle vlog using the uploaded STORYBOARD MASTER REFERENCE IMAGE as the PRIMARY VISUAL REFERENCE. IMPORTANT: Follow the storyboard panels in chronological order. The SAME female character shown in the storyboard must appear throughout the entire video. CHARACTER CONSISTENCY: Use the uploaded storyboard master reference as the STRICT identity and visual reference. Preserve the exact same: face, facial features, eyes, eyebrows, nose, lips, jawline, skin tone, hair, hairstyle, hair color, body proportions, outfit, accessories, and overall identity. Do NOT create a different woman. Do NOT change her face, hairstyle or outfit between scenes. All scenes must feel like ONE continuous day in Seoul. ================================================== 0–4 SECONDS — WAKE UP ================================================== Follow STORYBOARD PANEL 1. Early morning inside the same modern Korean apartment bedroom. The girl wakes up naturally. She sits up in bed, gently opens the curtains and looks toward the Seoul city view outside. Soft morning sunlight enters the room. Use a slow cinematic camera push-in. Natural sleepy morning expression. She speaks softly in Korean: "Good morning." Accurate Korean lip-sync. ================================================== 4–7 SECONDS — MORNING ROUTINE ================================================== Follow STORYBOARD PANEL 2. The SAME girl enters the bathroom. She washes her face. She applies a small amount of skincare. Show realistic water, mirror reflections and skincare products. Use quick natural lifestyle-vlog cuts. No outfit change. Natural bathroom ambience. No dialogue required. ================================================== 7–11 SECONDS — KOREAN BREAKFAST ================================================== Follow STORYBOARD PANEL 3. The SAME girl enters the kitchen. Show her preparing a simple Korean breakfast. Clearly show: steamed white rice, fried egg, kimchi, Korean seaweed, small Korean side dishes, ceramic bowls, chopsticks. She places the food neatly on the dining table. Use beautiful food close-ups. Show steam rising naturally from the warm rice. Warm morning sunlight. ================================================== 11–14 SECONDS — BREAKFAST DIALOGUE ================================================== Follow STORYBOARD PANEL 4. The SAME girl sits at the dining table. She picks up her chopsticks. She looks naturally toward the camera. She smiles gently and says in Korean: "This breakfast looks really delicious." Accurate Korean lip-sync. Natural Korean female voice. No exaggerated acting. ================================================== 14–18 SECONDS — SEOUL STREET ================================================== Follow STORYBOARD PANEL 5. The SAME girl leaves her apartment. She walks through a beautiful realistic Seoul neighborhood. Show: Korean storefronts, Hangul signs, pedestrians, street trees, modern buildings, small cafés, realistic Seoul street details. She carries the SAME shoulder bag. Use a smooth tracking shot following her from behind, then transition to a front-facing walking shot. Natural daytime lighting. ================================================== 18–21 SECONDS — SEOUL SUBWAY ================================================== Follow STORYBOARD PANEL 6. The SAME girl enters a modern Seoul subway station. She walks through the station. She naturally uses her transportation card. Show realistic Korean subway signage in Hangul. She walks toward the platform. Use quick cinematic cuts. Keep her face and outfit consistent. ================================================== 21–26 SECONDS — KOREAN CAFÉ ================================================== Follow STORYBOARD PANEL 7. The SAME girl enters a stylish Korean café. She approaches the counter and naturally orders an iced coffee. She speaks Korean: "One iced Americano, please." The barista prepares the drink. Show realistic coffee preparation. The girl receives the iced coffee. She walks toward the window seat. Warm café lighting. ================================================== 26–30 SECONDS — SEOUL EVENING FINALE ================================================== Follow STORYBOARD PANEL 8. The SAME girl sits beside the café window. Outside, Seoul city lights begin glowing in the evening. She holds her iced coffee. She looks outside peacefully. Then she slowly turns toward the camera. She smiles naturally and says in Korean: "Have a great day today too." Accurate Korean lip-sync. Hold a beautiful close-up of her face. Seoul lights create soft cinematic bokeh behind her. End with a gentle cinematic fade to black. ================================================== VOICE & LANGUAGE ================================================== ALL spoken dialogue must be in NATURAL KOREAN. Use one consistent young adult Korean female voice for the main character. Natural Seoul Korean pronunciation. Warm, friendly, conversational delivery. Perfect Korean lip synchronization. No English dialogue. No Urdu dialogue. No robotic voice. No exaggerated acting. ================================================== CAMERA STYLE ================================================== Premium cinematic Korean lifestyle vlog. Natural handheld camera movement. Smooth tracking shots. Medium shots. Wide establishing shots. Close-ups. Food macro shots. Over-the-shoulder shots. Natural transitions. Fast cuts for routine/subway scenes. Slower cinematic shots for breakfast and final café scene. 35mm cinematic lens aesthetic. Realistic depth of field. Natural motion blur. ================================================== VISUAL STYLE ================================================== Ultra-photorealistic live-action. Authentic modern Seoul atmosphere. Premium Korean lifestyle aesthetic. Realistic Korean apartment. Realistic Seoul streets. Realistic subway. Realistic Korean café. Natural skin texture. Realistic hair. Realistic clothing. Natural human movement. High-end cinematic color grading. Subtle film grain. ================================================== CONTINUITY — CRITICAL ================================================== The storyboard is the MASTER REFERENCE. Follow all 8 panels in order. Same woman throughout. Same face. Same hairstyle. Same hair color. Same outfit. Same accessories. Same body proportions. Do not change her identity. Do not generate a different woman in any scene. Do not change the outfit between scenes. Keep the video visually connected as one continuous day. No face morphing. No identity swapping. No random character changes. No distorted hands. No extra fingers. No duplicate people. No cartoon. No anime. No CGI-looking humans. No text overlays. No subtitles. No logos. No watermark. FINAL STORY: WAKE UP → MORNING ROUTINE → KOREAN BREAKFAST → KOREAN DIALOGUE → SEOUL STREET → SUBWAY → KOREAN CAFÉ → SEOUL NIGHT VIEW → FINAL KOREAN MESSAGE Make the final result feel like a professionally filmed Korean lifestyle vlog rather than an AI-generated montage.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094017991470166016/img/yvvmcO9MdVR3PYmN.jpg" width="600" alt="Korean Lifestyle Vlog Narrative">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10094)**
-
-**Author:** [Elsa Ai](https://x.com/ElsaSofia__AI) | **Source:** [Link](https://x.com/ElsaSofia__AI/status/2094018143144513567) | **Published:** Aug 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -3672,6 +3516,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-11T03:34:16.033Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-11T08:55:00.784Z</sub>
 
 </div>
