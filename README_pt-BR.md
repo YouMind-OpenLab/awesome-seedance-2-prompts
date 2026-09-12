@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6358** |
+| 📝 Total de prompts | **6365** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-09-12** |
 
@@ -361,6 +361,225 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Cena de Perseguição de Superbike na Cidade
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo de ação ultrarrealista apresentando uma jovem pilotando uma motocicleta preta elegante em alta velocidade por uma paisagem urbana moderna.
+
+#### 📝 Prompt
+
+```
+Cena de ação cinematográfica ultrarrealista de uma jovem determinada pilotando uma superbike preta elegante em alta velocidade por uma rua urbana moderna, vestindo um traje de corrida de couro preto ajustado, luvas pretas e cabelos escuros longos e esvoaçantes. Ela se inclina agressivamente sobre a motocicleta, segurando o guidão com foco intenso. Tomada de rastreamento dinâmica em ângulo baixo, desfoque de movimento dramático, iluminação cinematográfica quente, reflexos realistas na moto, profundidade de campo rasa, fundo urbano, atmosfera de alta velocidade, detalhes fotorrealistas de pele e tecido, fotografia de ação profissional, lente 85mm, HDR, 8K, ultradetalhado, color grading cinematográfico, composição vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098633719540232192/img/Ktm8pccgFiuWy9Ra.jpg" width="600" alt="Cena de Perseguição de Superbike na Cidade">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10753)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2098633792126677496) | **Publicado:** Sep 12, 2026
+
+---
+### Vídeo cinematográfico de transformação em arcanjo alado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico de fantasia sombria épica retratando uma mulher engolindo uma espada de luz e se transformando em um arcanjo alado lutando contra forças das trevas.
+
+#### 📝 Prompt
+
+```
+Vídeo cinematográfico de fantasia sombria. Uma jovem em um vestido branco manchado de sangue engole uma espada brilhante de luz branca pura. Energia divina irrompe dela, seus olhos brilham em um branco ofuscante e enormes asas de anjo com penas brancas surgem de suas costas com uma auréola flutuando sobre sua cabeça. Ela se transforma em um arcanjo radiante empunhando uma arma luminosa, lutando contra monstros demoníacos sombrios com olhos vermelhos brilhantes em ruínas de pedra antigas sob a luz da lua cheia. Feixes de luz sagrada caem do céu em direção ao solo, vaporizando as criaturas das trevas. Ultradetalhado, resolução 8k, iluminação cinematográfica, efeitos de movimento épicos, estilo de renderização Unreal Engine 5. Captura de tela de fantasia sombria épica, uma guerreira arcanjo em um vestido branco salpicado de sangue, de pé em ruínas de pedra antigas sob a lua cheia. Ela tem olhos brancos brilhantes, uma auréola luminosa e enormes e magníficas asas brancas totalmente abertas. Ela segura um cajado vertical de luz branca ofuscante tocando o chão. Pilares maciços de luz celestial descem sobre um pátio circular ao redor dela, clima de fantasia sombria, detalhes hiper-realistas, resolução 8k, still de filme cinematográfico. --ar 16:9
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098623607853522944/img/Yazj7LPtkDG4Rfsd.jpg" width="600" alt="Vídeo cinematográfico de transformação em arcanjo alado">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10752)**
+
+**Autor:** [Saif Ai](https://x.com/AiwithSaif7) | **Fonte:** [Link](https://x.com/AiwithSaif7/status/2098623698773196856) | **Publicado:** Sep 12, 2026
+
+---
+### Voo de Alta Velocidade em Cidade com FPV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma sequência de tirar o fôlego de 15 segundos de um drone FPV através de uma cidade moderna, apresentando detalhes arquitetônicos nítidos e uma tomada contínua e ininterrupta.
+
+#### 📝 Prompt
+
+```
+Vídeo FPV cinematográfico realista de 15 segundos, 16:9. Um voo de alta velocidade de tirar o fôlego através de uma cidade moderna e movimentada. Aceleração extrema, detalhes arquitetônicos nítidos, desfoque de movimento natural e profundidade poderosa.
+
+0,0–2,5 SEG: Comece bem acima dos arranha-céus, com a câmera apontada fortemente para baixo. Mergulhe do céu em velocidade tremenda entre duas torres, com suas fachadas de vidro passando rapidamente.
+
+2,5–4,0 SEG: Saia suavemente do mergulho acima da rua, redirecionando para um voo rápido para frente sem tocar o chão.
+
+4,0–7,0 SEG: Corra ao longo da rua, fazendo curvas fechadas ao redor dos cantos dos edifícios e passando entre colunas estruturais. A câmera oscila para cima e para baixo enquanto mantém um impulso implacável para frente.
+
+7,0–11,5 SEG: Entre em uma praça de pedestres movimentada. Faça um slalom através de vãos livres entre as pessoas, subindo acima do nível dos ombros quando o espaço diminui, depois mergulhando em trechos abertos. Os pedestres se movem naturalmente. Mantenha uma distância visível; todos permanecem ilesos.
+
+11,5–15,0 SEG: Dispare através de uma passagem estreita entre os edifícios, passe rente acima de uma escadaria e, em seguida, faça uma curva acentuada para uma avenida larga. Continue correndo para frente até o quadro final.
+
+CÂMERA: UMA tomada contínua e ininterrupta em primeira pessoa. Sem cortes, teletransporte, pausas, câmera lenta ou visões em terceira pessoa. A câmera está voltada para a direção do movimento com inclinação controlada. Edifícios e pessoas sólidos; nunca atravesse objetos. Sem drone visível.
+
+ÁUDIO: Vento forte, zumbidos de ar nítidos durante passagens próximas, tráfego distante e sons breves de multidão passando. Sem música ou diálogo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098488700414185472/img/Gx7nXXGVr7NnTFRX.jpg" width="600" alt="Voo de Alta Velocidade em Cidade com FPV">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10750)**
+
+**Autor:** [Jason Heaton](https://x.com/JasonHeatony7) | **Fonte:** [Link](https://x.com/JasonHeatony7/status/2098488785495335391) | **Publicado:** Sep 11, 2026
+
+---
+### Clipe de Anime de Dojo de Artes Marciais
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de vídeo de anime cinematográfico estabelecendo um cenário de dojo de artes marciais tradicional com iluminação interna quente.
+
+#### 📝 Prompt
+
+```
+Clipe de curta-metragem de anime cinematográfico, 15 segundos. Dojo de artes marciais tradicional, piso de madeira, paredes espelhadas, equipamentos de treinamento, iluminação interna quente, limpo e espaçoso.
+
+PERSONAGEM 1 — LEE: Homem asiático atlético e magro, cabelo curto e escuro, expressão calma e focada.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098370583054413825/img/zNppH6umuGyyvfwH.jpg" width="600" alt="Clipe de Anime de Dojo de Artes Marciais">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10751)**
+
+**Autor:** [TechieSA](https://x.com/TechieBySA) | **Fonte:** [Link](https://x.com/TechieBySA/status/2098370639748800549) | **Publicado:** Sep 11, 2026
+
+---
+### Stop Motion de Café da Manhã com Boneca de Amigurumi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de stop-motion com várias cenas criando uma sequência aconchegante de uma boneca de amigurumi cozinhando ovos e temperando a comida.
+
+#### 📝 Prompt
+
+```
+Detalhes da Cena:
+Ação: A boneca está quebrando ovos em uma frigideira de tricô cinza-escura em um fogão de crochê.
+Objetos: Ovos de tricô com gemas de fio amarelo brilhante, saleiro e pimenteiro de crochê com as etiquetas "SALT" e "PEPPER", potes de fio com etiquetas como "Made with Love", e um cenário de madeira aconchegante iluminado pela luz suave da manhã entrando pela janela.
+Estilo: Fotografia macro tilt-shift, texturas táteis de lã e algodão, padrões de pontos altamente detalhados, estética de animação stop-motion, estética quente e aconchegante, profundidade de campo, resolução 8k. --ar 9:16 --v 6.0
+
+Clipe 1: Quebrando Ovos (0:00 - 0:08)
+Prompt: Uma boneca de amigurumi fofa com coque de cabelo castanho e roupa de tricô roxa segura uma casca de ovo de crochê e quebra ovos crus em uma frigideira de tricô cinza-escura em um fogão aconchegante. Gemas de fio amarelo brilhante se acomodam suavemente na frigideira, luz suave da manhã entrando pela janela, animação stop-motion 3D, texturas táteis de lã, ângulo de câmera macro.
+Clipe 2: Close-up do Tempero (0:08 - 0:15)
+Prompt: Close-up extremo, estilo de animação stop-motion. Uma menina de amigurumi segura saleiro e pimenteiro de crochê em miniatura com as etiquetas "SALT" e "PEPPER", polvilhando pequenas contas pretas e brancas sobre três ovos de fio fritos em uma frigideira de tricô. Detalhes táteis de lã, iluminação quente e aconchegante, profundidade de campo rasa.
+Clipe 3: Servindo a Comida (0:15 - 0:23)
+Prompt: Plano médio, animação stop-motion. A menina de amigurumi usa uma espátula de madeira minúscula para deslizar os ovos de fio cozidos de uma frigideira de crochê cinza-escura para um prato de tricô decorativo. Cenário de cozinha aconchegante cheio de potes de fio e detalhes de crochê, luz brilhante da manhã, movimento tátil quadro a quadro.
+Clipe 4: Tomando Café da Manhã (0:23 - 0:32)
+Prompt: Close-up de animação stop-motion. A boneca de amigurumi senta-se a uma pequena mesa, usando um garfo e uma faca de metal em miniatura para cortar um ovo de fio frito em um prato de crochê. Iluminação suave e aconchegante, padrões de pontos detalhados em seu suéter e avental, estética artesanal tátil.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098365512946163715/img/4i_Oz2JEm1TbXBVL.jpg" width="600" alt="Stop Motion de Café da Manhã com Boneca de Amigurumi">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10748)**
+
+**Autor:** [Maya](https://x.com/MayaAiCreator) | **Fonte:** [Link](https://x.com/MayaAiCreator/status/2098365565781917862) | **Publicado:** Sep 11, 2026
+
+---
+### Prompt de Vídeo de Lore para Chefe de Fantasia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt narrativo rico em lore para gerar um personagem chefe de fantasia, um guardião de pedra preso por juramentos antigos, para o universo de Tales of Valdir.
+
+#### 📝 Prompt
+
+```
+OSSGAROTH, O GUARDIÃO VAZIO 🗿🔥
+
+Muito antes de as fendas cicatrizarem Valdir, uma ordem de guardiões de juramentos selou a primeira fenda sob a terra. Um selo de magia por si só não seria suficiente — então, eles prenderam a alma de seu maior guardião em um corpo de pedra consagrada e nos ossos de guardiões de juramentos caídos, enterrando-o nas catacumbas como uma fechadura viva.
+
+Por mil anos ele dormiu na escuridão, e as raízes do mundo cresceram através dele.
+
+Quando as novas fendas rasgaram a terra, uma se abriu dentro de seu túmulo. A energia do Vazio inundou as rachaduras antigas de seu corpo e reacendeu o núcleo de brasa em seu peito. O selo quebrou. A fechadura agora caminha.
+
+Ele não deixa a masmorra porque a fenda ainda sangra sob ela — ele está ligado à própria ferida. E assim, o Guardião Vazio aguarda à luz das tochas, julgando cada alma que desce com uma única pergunta:
+
+Você é um quebrador de juramentos?
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098339276589268992/img/4Fehe5QHeWaC362e.jpg" width="600" alt="Prompt de Vídeo de Lore para Chefe de Fantasia">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10754)**
+
+**Autor:** [AIスタジオワンルーム（AIアニメ、動画、漫画）](https://x.com/studio_oneroom) | **Fonte:** [Link](https://x.com/studio_oneroom/status/2098343318770028785) | **Publicado:** Sep 11, 2026
+
+---
+### Videoclipe Cinematográfico em Neon City
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt sofisticado de videoclipe para um trio de cantores em um centro urbano futurista de neon, detalhando movimentos de câmera específicos e consistência dos personagens.
+
+#### 📝 Prompt
+
+```
+Crie um videoclipe cinematográfico ultrarrealista de 30 segundos apresentando três jovens cantores interpretando uma música moderna e emocionante em uma cidade iluminada por neon à noite. O vídeo deve parecer uma produção profissional de alto orçamento, com humanos realistas, sincronia labial precisa, performances expressivas, iluminação atmosférica e cinematografia sofisticada.
+
+PERSONAGENS
+
+Personagem 1 — Vocalista Principal (Feminina):
+Jovem adulta, na casa dos 20 anos, cabelos pretos longos, olhos expressivos, traje elegante em preto e prata, personalidade confiante, porém emotiva.
+
+Personagem 2 — Vocalista Principal (Masculino):
+Jovem adulto, na casa dos 20 anos, cabelo escuro texturizado, jaqueta preta estilosa e camisa branca, carismático e emocionalmente expressivo.
+
+Personagem 3 — Vocalista (Feminina):
+Jovem adulta, na casa dos 20 anos, cabelo escuro na altura dos ombros, traje moderno em vermelho profundo, presença de palco energética, porém natural.
+
+Mantenha seus rostos, roupas, penteados, proporções corporais e identidades perfeitamente consistentes durante todo o vídeo.
+
+AMBIENTE
+
+Uma rua futurista no centro da cidade à noite, após uma chuva leve. Pavimento molhado refletindo letreiros de neon coloridos, vitrines brilhantes, neblina sutil, tráfego distante, bokeh cinematográfico, luzes urbanas atmosféricas e reflexos realistas.
+
+CENA A CENA
+
+0–4 seg — Abertura
+Close extremo nos olhos da Personagem 1. Reflexos de neon visíveis em seus olhos. A câmera se afasta lentamente enquanto ela começa a cantar. Gotas de chuva brilham ao fundo.
+
+4–8 seg — Performance Principal
+A Personagem 1 caminha lentamente pela rua molhada enquanto canta diretamente para a câmera. Movimento suave de acompanhamento para trás (tracking shot). Seu cabelo se move naturalmente na brisa noturna.
+
+8–12 seg — Verso Masculino
+Corte para o Personagem 2 encostado em um prédio iluminado por neon. Ele começa a cantar sua parte. Câmera cinematográfica orbita lentamente ao redor dele, com as luzes coloridas da cidade desfocadas ao fundo.
+
+12–16 seg — Vocalista Feminina
+A Personagem 3 aparece caminhando pela rua de neon. Ela canta enquanto olha para a câmera. Movimento lateral suave da câmera que transita para um close-up.
+
+16–22 seg — Performance do Trio
+Os três personagens se encontram em um cruzamento amplo da cidade e se apresentam juntos. A câmera circula lentamente ao redor deles enquanto cantam. Interação natural, gestos sutis, química convincente.
+
+22–27 seg — Refrão Emocional
+Sequência rápida, porém elegante, de close-ups: Personagem 1 cantando, Personagem 2 se juntando, Personagem 3 harmonizando. Cada movimento da boca segue precisamente o áudio fornecido.
+
+27–30 seg — Cena Final
+Os três cantores ficam juntos no meio da rua molhada. A câmera sobe lentamente e se afasta, revelando a cidade brilhante ao redor deles. Eles terminam a letra final juntos, exatamente no tempo da batida. Finalize com um plano aberto cinematográfico dramático.
+
+CINEMATOGRAFIA
+
+Cinematografia de videoclipe de alto nível, visual de lente anamórfica, profundidade de campo rasa, acompanhamento suave com gimbal, detalhes em câmera lenta, closes cinematográficos, movimento de câmera controlado, reflexos de lente realistas, desfoque de movimento natural, bokeh belíssimo e composição dinâmica.
+
+ÁUDIO E PERFORMANCE
+
+Use o
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098319436650631168/img/irrALxcEU5p3MHJc.jpg" width="600" alt="Videoclipe Cinematográfico em Neon City">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10749)**
+
+**Autor:** [M. Asif](https://x.com/meAsifAi) | **Fonte:** [Link](https://x.com/meAsifAi/status/2098330707374514573) | **Publicado:** Sep 11, 2026
+
+---
 ### Cena de Deserto com Baleia Branca Gigante
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -378,31 +597,6 @@ Cena cinematográfica ultrarrealista de uma pequena figura humana caminhando por
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10698)**
 
 **Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2098284373372018792) | **Publicado:** Sep 11, 2026
-
----
-### Comercial de Marca de Perfume de Luxo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de comercial de perfume de luxo elegante e sofisticado, apresentando uma mulher glamorosa em um terno vermelho vibrante contra cenários arquitetônicos surreais em tons de rosa e magenta.
-
-#### 📝 Prompt
-
-```
-Um comercial de perfume de luxo elegante e sofisticado apresentando uma mulher glamorosa em um terno vermelho vibrante.
-Cena 1: A modelo caminha com confiança por um corredor surreal e infinito de arcos concêntricos em tons de rosa, rosa seco e magenta. O chão é uma superfície espelhada e reflexiva, espalhada com cerejas vermelhas escuras e brilhantes.
-Cena 2: Close-up da mulher borrifando um frasco de perfume de luxo ("La Vie Est Belle L'Elixir Very Cherry") em seu pescoço, com a névoa capturando a iluminação dramática contra um fundo escuro.
-Cena 3: A modelo senta-se em um bar elegante segurando um coquetel martini vermelho escuro decorado com cerejas, emoldurada por uma iluminação ambiente quente.
-Cena 4: Um close-up macro de um salto agulha vermelho afiado esmagando uma cereja fresca em uma superfície branca limpa, liberando uma explosão vibrante de suco vermelho profundo ao lado do frasco de perfume.
-Cena 5: Tomada final da modelo segurando o frasco de perfume de vidro de luxo com as duas mãos na frente do peito, olhando diretamente para a câmera, apresentando uma sobreposição de texto elegante da marca ("LANCÔME LA VIE EST BELLE L'ELIXIR VERY CHERRY").
-Estilo Visual: Iluminação cinematográfica, paleta de cores vermelho carmesim rico e frutas silvestres profundas, foco ultra nítido, estética de luxo moderna, resolução 4K, 30fps, detalhes em câmera lenta.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098262530405928960/img/YDEF0WgIpRBmoObg.jpg" width="600" alt="Comercial de Marca de Perfume de Luxo">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10692)**
-
-**Autor:** [Zarnish](https://x.com/ZarnishNael) | **Fonte:** [Link](https://x.com/ZarnishNael/status/2098262604267577783) | **Publicado:** Sep 11, 2026
 
 ---
 ### Manhã chuvosa em Seul com estética MiniDV vintage
@@ -444,6 +638,45 @@ Qualidade do movimento: Mantenha todo o movimento do corpo e da câmera suave e 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10695)**
 
 **Autor:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Fonte:** [Link](https://x.com/iamahmedfaraz66/status/2098257726145171832) | **Publicado:** Sep 11, 2026
+
+---
+### Rotina Diária de Infância em Vídeo Portátil
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt detalhado em estilo storyboard para um vídeo de 15 segundos gravado com smartphone, capturando fragmentos da vida cotidiana de uma menina de 5 anos, do jardim de infância até a hora de dormir.
+
+#### 📝 Prompt
+
+```
+[Visão Geral] Um registro de uma menina de 5 anos desde a saída do jardim de infância até a hora de dormir. A mãe está gravando com um smartphone a uma curta distância, sem falar. Era moderna. 480p, 16:9, 15 segundos. 7 cortes secos (aprox. 2s cada) em 7 locais diferentes. Sem transições ou desvanecimentos. A protagonista não interage com a câmera: sem contato visual, mostrar itens, acenar ou posar. Ela está absorta no que está à sua frente. Não é atuação, mas fragmentos da vida cotidiana. Sem diálogos, falas ou narração.
+
+[Protagonista] Definição de beleza: Uma menina japonesa fofa o suficiente para passar em um teste de elenco infantil. O perfil enquanto está absorta em algo é o mais fofo. Rosto: Bochechas redondas e cheias, grandes olhos negros com pálpebras duplas, cílios longos, nariz pequeno e redondo, boca pequena que mostra os dentes de leite ao sorrir, pele branca translúcida com rubor nas bochechas (textura realista). Cabelo: Cabelo preto na altura dos ombros em maria-chiquinha, com um lado desfeito. Roupas: Vestido de algodão azul claro (pequena mancha no joelho), leggings brancas, tênis com luzes, uma mochila pequena com orelhas de coelho (sem texto). Hábito: Pular em uma perna só, chegar muito perto das coisas de interesse. Rosto, cabelo e roupas são idênticos em todas as cenas.
+
+[Personagens] Mãe (Operadora de Câmera): Não aparece na tela, mas risadas ocasionais, respirações ou o som das roupas enquanto ela reajusta a câmera estão incluídos (sem palavras). Apenas a mão da mãe entra no quadro na primeira cena.
+
+[Tempo/Local/Luz] Verão moderno, do entardecer à noite. 1. Caminho em frente ao jardim de infância (luz laranja do entardecer, sem placas). 2. Canteiro de flores no caminho para casa (sol baixo do poente). 3. Bebedouro do parque (luz do entardecer). 4. Entrada da casa (iluminação quente). 5. Chão da sala de estar (giz de cera, iluminação quente). 6. Banheiro (secador de cabelo, iluminação branca; sem espelho). 7. Futon (luz noturna suave). Escolha locais/ângulos onde placas, textos, logotipos ou telas não sejam visíveis.
+
+[Câmera] Vídeo horizontal gravado com smartphone. Trepidação natural, composição imperfeita, ângulo baixo na altura da criança, busca ocasional de foco automático, flutuações de exposição. Distância de 1,5 a 3m da protagonista. A protagonista ignora a câmera. Sem estabilização, gimbal, drone, câmera lenta, iluminação cinematográfica ou correção de cor comercial. A câmera está sempre na posição da mão da operadora (em pé, sentada, ajoelhada, caminhando). Sem ângulos impossíveis (ar, subaquático, teto, etc.). A operadora é uma pessoa real no mesmo espaço, seguindo a protagonista com um leve atraso.
+
+[Cenas] 1. Caminho do jardim de infância/Entardecer. Segurando a mão da mãe, pulando em uma perna só de alegria. Emoção: Feliz pelo encontro. A mochila balança. Câmera: Altura de joelhos, vista lateral. 2. Canteiro de flores/Sol poente. Agachada perto de uma flor, nariz tocando uma pétala, esfregando o nariz. Emoção: Sentimentos gentis. Câmera: Vista lateral, foco momentâneo na flor. 3. Bebedouro. Abrindo a torneira, a água jorra, o rosto fica encharcado, expressão atônita. Emoção: Surpresa e depois diversão. Câmera: À distância. 4. Entrada. Tropeçando ao tentar tirar os sapatos, atônita e depois rindo. Emoção: Engraçado. Câmera: Olhando de cima do corredor. 5. Chão da sala de estar. Terminando um desenho com giz de cera, levantando-o, balançando a cabeça com satisfação. Emoção: Orgulhosa. Câmera: Perto do chão, vista traseira diagonal. 6. Banheiro/Secador. Rindo enquanto o ar do secador bagunça seu rosto. Emoção: Cócegas e diversão. Câmera: Close-up, cabelo esvoaçante. 7. Futon/Luz noturna. Pálpebras pesadas durante um livro, lutando contra o sono e perdendo. Emoção: Com sono, mas não admite. Câmera: Aproximando-se suavemente. Apagão aos 0:14 sem desvanecimento.
+
+[Adereços] Mochila de coelho tem orelhas de feltro levemente sujas. Tênis com luzes são rosas com luzes no calcanhar. Giz de cera de 16 cores (sem texto na caixa). Capa do livro não mostrada. Secador de cabelo de plástico branco.
+
+[Proibições] Sem textos legíveis, logotipos, placas, etiquetas, embalagens ou telas digitais.
+
+[Física/Consistência] Física realista. Sem dedos extras, mãos fundidas, objetos flutuantes ou transformações repentinas. Pés no chão. Cabelo, mochila e sapatos consistentes.
+
+[Som] Apenas sons ambientes naturais: pássaros, insetos, água, som de sapatos, giz de cera riscando, secador, roupas roçando. Sem palavras. Risadas/respirações ocasionais da operadora e da protagonista são permitidas. Sem música ou narração.
+
+[Atmosfera] Um registro de uma noite comum que faz a gente pensar 'meu filho era assim'. Não é atuação, apenas fragmentos de foco. Querido, caloroso e profundamente humano. Prioridade na sensação de que uma câmera simplesmente estava lá.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097996183176409088/img/uZPOueJjq50-8SIf.jpg" width="600" alt="Rotina Diária de Infância em Vídeo Portátil">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10755)**
+
+**Autor:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fonte:** [Link](https://x.com/aiehon_aya/status/2098245151000776724) | **Publicado:** Sep 11, 2026
 
 ---
 ### Grade de Imagens para Animação de Abertura de MV
@@ -3643,250 +3876,6 @@ Estrutura humana natural, membros precisos, movimento contínuo suave, clara rel
 **Autor:** [おもも桃](https://x.com/omomomomo0309) | **Fonte:** [Link](https://x.com/omomomomo0309/status/2094845693227844025) | **Publicado:** Sep 1, 2026
 
 ---
-### Montagem de Cena de Interação com Holograma
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt de múltiplos cortes para o Seedance 2.0 mostrando um personagem interagindo com um holograma, utilizando referências de imagem específicas para consistência de cena.
-
-#### 📝 Prompt
-
-```
-Corte 1: Imagem 1. Um holograma surge da palma da mão enquanto diz: "Agora mesmo, um vírus de rastreamento da Zordia Agency entrou em Arc Stella."
-
-Corte 2: Nia 02, operando enquanto amplia o holograma anterior. Imagem 2. Nia 02: "Eu já converti o vírus de rastreamento em um monstro usando o sistema de mudança de avatar."
-```
-
-<img src="https://cms-assets.youmind.com/media/1788331433913_ct1k8g_HRIkPyBbwAABTwK.jpg" width="600" alt="Montagem de Cena de Interação com Holograma">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10223)**
-
-**Autor:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc) | **Fonte:** [Link](https://x.com/z933TfmXkaISSVc/status/2094776654380126351) | **Publicado:** Sep 1, 2026
-
----
-### Vlog de fotografia espontânea à beira do lago
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt de vídeo para o Seedance 2.0 criando um momento realista de bastidores de uma garota sendo fotografada à beira de um lago, focando em transições naturais entre posar e relaxar.
-
-#### 📝 Prompt
-
-```
-Use a imagem enviada como única referência da pessoa, mantendo estritamente as características, formato do rosto, penteado, roupas, proporções corporais, o fundo de grama à beira do lago e a iluminação geral; sem troca de rosto, sem mudança de identidade. Duração de 8 segundos, plano único, sensação realista de bastidores de fotos tiradas por um amigo. 0-2 segundos: A garota mantém a pose da foto na imagem original, braços naturalmente cruzados, corpo levemente de lado, mantendo um sorriso bonito, porém contido, no rosto, olhos olhando perto da câmera. Há uma brisa leve à beira do lago, o cabelo longo e a bainha da camisa rosa balançam naturalmente. 2-4 segundos: Após manter a pose por um tempo, seus olhos começam a mostrar um pouco de dúvida, o sorriso relaxa levemente, ela inclina gentilmente a cabeça para olhar para o fotógrafo e pergunta naturalmente: 'Já acabou?'. 4-5 segundos: Após perguntar, ela não se move imediatamente, ainda mantém a pose original da foto, esperando silenciosamente pela resposta da outra pessoa, olhos olhando para a câmera, com um pouco de expectativa. O fotógrafo fora da câmera responde naturalmente: 'Acabou'. 5-8 segundos: Após ouvir 'Acabou', ela confirma claramente o fim da sessão e a pessoa toda relaxa instantaneamente. Seus ombros caem levemente, os braços originalmente cruzados se soltam naturalmente, o sorriso profissional no rosto desaparece, substituído por um sorriso verdadeiramente relaxado. Ela solta o ar suavemente, o corpo balança levemente, seu olhar se move para o lado e, então, ela não consegue evitar rir, como se finalmente não precisasse mais continuar posando. Pontos-chave: Deve mostrar a relação causal de 'relaxar apenas após ouvir que acabou'. Antes do 'acabou', a pessoa sempre mantém a postura de foto e não relaxa antes da hora. A primeira metade é um estado requintado de pose para foto, e a segunda metade é um estado de vida muito real, formando um contraste claro, porém natural. Requisitos: O rosto da pessoa deve estar sempre estável, mantendo as mesmas características da imagem enviada; a sincronia labial em chinês para 'Já acabou?' deve ser natural e precisa; a voz fora da câmera 'Acabou' vem do fotógrafo, não deixe a garota dizer isso; sem atuação exagerada; sem movimentos bruscos; o cabelo deve se mover naturalmente com o vento; manter a textura real da pele; a lente deve ter uma leve sensação de câmera na mão; o resultado geral deve ser como um clipe real de bastidores capturado por um amigo enquanto a ajudava a tirar fotos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094726251059838976/img/BZZ18ceB-Y1_ujg3.jpg" width="600" alt="Vlog de fotografia espontânea à beira do lago">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10216)**
-
-**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fonte:** [Link](https://x.com/Adam38363368936/status/2094727084975542436) | **Publicado:** Sep 1, 2026
-
----
-### Curta de culinária com estética Ghibli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo de anime aconchegante para uma cena de cozinha com iluminação quente e visuais de comida inspirados no Studio Ghibli.
-
-#### 📝 Prompt
-
-```
-Curta-metragem de culinária em anime, estética de comida Ghibli, luz de cozinha dourada e quente, bancada de mármore, cozinha de padaria aconchegante, 16:9. Uma série de closes macro rápidos: farinha sendo despejada sobre uma superfície de mármore com uma nuvem de pó branco subindo, mãos sovando a massa
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094717281532035072/img/FIEMn0eLLK-eO7Ra.jpg" width="600" alt="Curta de culinária com estética Ghibli">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10209)**
-
-**Autor:** [𝚎𝚖𝚘𝚝𝚒𝚘𝚗𝚜 ❦](https://x.com/0xemotions_) | **Fonte:** [Link](https://x.com/0xemotions_/status/2094717581756133424) | **Publicado:** Sep 1, 2026
-
----
-### Animação 2.5D de Catedral Gótica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo estilizado para uma animação 2.5D de uma arena de chefe em uma catedral gótica, enfatizando uma estética específica que evita o visual comum de CGI e desenhos planos.
-
-#### 📝 Prompt
-
-```
-Animação 2.5D cinematográfica. NÃO é desenho 2D plano, SEM contornos pretos grossos, SEM cel-shading, NÃO é CGI brilhante, NÃO é Unreal Engine, SEM fotorrealismo, sem pele de plástico. MUNDO: Vasta arena de chefe em catedral gótica, paleta de sombras de pedra azul ardósia, âmbar quente
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094666624519516160/img/soFTc81pywuWLIW6.jpg" width="600" alt="Animação 2.5D de Catedral Gótica">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10215)**
-
-**Autor:** [PixieVerse](https://x.com/itsPixieVerse) | **Fonte:** [Link](https://x.com/itsPixieVerse/status/2094670016243270084) | **Publicado:** Sep 1, 2026
-
----
-### Encontro na Cantina da Escola em Estilo Anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico em estilo anime para uma cena expressiva entre dois adolescentes na cantina de uma escola, com iluminação suave e movimento dinâmico.
-
-#### 📝 Prompt
-
-```
-Cena escolar cinematográfica em estilo anime ultrarrealista, um adolescente loiro de uniforme escolar preto inclinando-se de forma brincalhona em direção a uma adolescente de cabelos azuis, a garota levantando a mão para pará-lo, expressões faciais marcantes, cabelos azuis esvoaçantes, janelas de sala de aula iluminadas, luz natural suave, profundidade de campo rasa, composição cinematográfica, uniformes detalhados, movimento dinâmico, texturas realistas de pele e cabelo, lente 85mm, f/1.8, bokeh suave, alto detalhe, 8K, vertical.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094653190004494336/img/vBdRFX-YQ6Wny6jO.jpg" width="600" alt="Encontro na Cantina da Escola em Estilo Anime">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10213)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2094653366643155160) | **Publicado:** Sep 1, 2026
-
----
-### Desafio de Comédia em Programa de Variedades Japonês
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt complexo de 30 segundos para Seedance 2.5 simulando um desafio de programa de variedades da TV japonesa, apresentando ângulos de câmera específicos, reações dos personagens e replays em câmera lenta.
-
-#### 📝 Prompt
-
-```
-Programa de Variedades Fictício da TV Japonesa
-"Limite ao Máximo! O Campeonato da Rainha do Desafio Extremo"
-
-30 segundos, 16:9, estilo programa de variedades da TV japonesa, vídeo live-action.
-
-[REFERÊNCIA DE PERSONAGEM]
-Use a mulher adulta da Image1 como a desafiante "Yumi".
-Use a Image1 como a única referência de pessoa para Yumi, mantendo seu rosto, contornos faciais, olhos, nariz, boca, penteado, cor do cabelo, franja, cor da pele, idade, físico, proporções corporais e figurino consistentes por 30 segundos.
-Ignore o fundo da Image1 e use um novo estúdio de TV.
-Não permita que ela se torne uma pessoa diferente em planos de corpo inteiro, close-ups, deitada ou em câmera lenta.
-
-[CENA]
-Um estúdio de TV japonês brilhante e animado.
-No centro, uma bicicleta totalmente fixada com equipamentos de segurança para filmagem.
-Um apresentador homem (Ota), uma locutora, vários convidados e uma plateia no estúdio.
-Filmagem que parece um programa de variedades japonês real, gravado com várias câmeras de TV.
-
-O projeto é um desafio cômico fictício: "Pedale uma bicicleta vigorosamente sozinho e vença se conseguir parar a roda traseira giratória com as nádegas."
-Não realize contato físico perigoso; estabeleça isso através de truques de filmagem seguros, atuação, ângulos de câmera, efeitos sonoros e edição.
-Não mostre o ponto de contato em close-up.
-O destaque principal é a reação cômica de corpo inteiro de Yumi: "Surpresa -> Com dor -> Inclinando-se para trás significativamente -> Pulando com um espasmo -> Gemendo enquanto segura as nádegas com as duas mãos -> Deitando-se no chão."
-
-[0:00–0:04 | Explicação das Regras]
-CAM1: Plano aberto frontal do estúdio. Yumi da Image1 está na bicicleta fixa. Apresentador, locutora, convidados e plateia estão visíveis ao fundo.
-Narração: "O desafio de hoje é—"
-Telop: <<As regras são super simples!>>
-CAM2: Yumi em ângulo de 45° frontal, plano médio. Yumi diz energicamente para a câmera:
-Yumi: "Vou pedalar com toda a minha força e parar o pneu com a bunda!"
-SE: Don!
-Telop grande na TV: <<Pare o pneu com a bunda!>>
-Risadas do estúdio.
-Apresentador Ota: "É vitória se você parar completamente usando apenas a bunda!"
-Telop: <<Vitória com parada total!>>
-Yumi: "Lá vou eu!!"
-
-[0:04–0:07 | Pedalando: 3 segundos]
-CAM4: Vista lateral, corpo inteiro. Captura Yumi e a bicicleta fixa. Yumi pedala vigorosamente.
-SE: "Squeak squeak squeak...!"
-A roda traseira gira mais rápido.
-Ota: "Mais! Mais!"
-Convidado: "Você consegue mais!"
-Yumi pedala mais alegremente. Inserção curta da roda traseira girando no final.
-
-[0:07–0:11 | Preparação para o Desafio: 4 segundos]
-CAM4: Vista lateral, corpo inteiro. Yumi desce da bicicleta. Ela olha para trás, para a roda traseira girando.
-CAM2: Close-up do rosto. Uma expressão tensa momentânea.
-CAM4: Vista lateral, corpo inteiro. Yumi se posiciona de costas para a roda traseira.
-CAM2: Plano médio frontal. Yumi diz energicamente: "Eu vou parar isso!!"
-Risadas do estúdio. Yumi se prepara.
-
-[0:11–0:16 | Desafio: 5 segundos]
-CAM2: Close-up do rosto. Yumi: "Hah!!"
-CAM4: Corte imediato para lateral de corpo inteiro. Yumi desafia vigorosamente. Sem close-up do contato.
-No momento seguinte—
-SE: "Screech!!"
-CAM2: Corte imediato para o rosto de Yumi. Sua expressão muda instantaneamente. Olhos arregalados, rosto contorcido.
-Yumi: "Aiiiiiiiii, dóóóóóói!!"
-CAM4: Corpo inteiro imediato. Ela inclina o corpo para trás significativamente de surpresa e dor. Com esse impulso, ela pula alto com um "espasmo!"
-Convidado: "Uau!!"
-Yumi aterrissa: "Ai, ai, ai!!"
-Ela geme e reflexivamente segura as nádegas com as duas mãos. Ela perde o equilíbrio e cai no chão. A câmera inclina para baixo suavemente seguindo Yumi. Ela fica deitada de costas em formato de estrela. A roda traseira ainda está girando.
-
-[0:16–0:17 | Julgamento de Falha: 1 segundo]
-SE: "Buzzzzzzz!!"
-CAM7: Diagonal de cima, plano aberto. Yumi gemendo em formato de estrela no chão com a bicicleta atrás dela.
-Telop gigante preenchendo a tela: <<Desafio Falhou!!>>
-Ota: "Que pena!!"
-Estúdio explode em risadas.
-
-[0:17–0:27 | Replay em Câmera Lenta de 10 Segundos]
-BGM grandiosa ao estilo da TV japonesa. Telop: <<O momento chocante mais uma vez—>>
-IMPORTANTE: Este não é um novo desafio. É um replay em câmera lenta feito pelo programa de TV do exato mesmo evento que aconteceu em 0:11–0:16, usando a mesma filmagem da câmera. Mantenha total consistência do rosto de Yumi da Image1, figurino, postura, posição da bicicleta e ações.
-REPLAY CAM: Vista lateral, corpo inteiro. Sem zoom na parte do contato. O rosto de Yumi e a reação de corpo inteiro são o foco principal.
-Sua expressão confiante logo antes do desafio. No momento seguinte, sua expressão muda repentinamente. Olhos arregalados, rosto contorcido. O grito real gravado em velocidade normal é esticado no tempo com o vídeo.
-Yumi (áudio lento): "Aiiiiiiiiiiiiiiiiiiiiii, dóóóóóóóóóóói!!"
-Seu corpo se inclina lentamente para trás de forma significativa. Então o corpo inteiro pula alto com um "espasmo!"
-Convidado: "Ela voou! Ela voou!"
-Yumi aterrissa. Imediatamente segura as nádegas. Yumi (áudio lento): "Aiiiiiiiiii, dóóóóóói!!"
-Gemendo enquanto segura a bunda. Seu corpo se dobra, ela cambaleia e cai no chão. A câmera inclina para baixo suavemente. Um frame congelado curto no momento em que ela fica deitada.
-SE: "Dooooon!!"
-Telop: <<Completamente nocauteada pelo impacto!?>>
-Estúdio explode em risadas.
-
-[0:27–0:30 | Entrevista Final]
-Retorna à velocidade normal. CAM7: Diagonal acima, corpo inteiro. Yumi da Image1 está de costas no chão, ainda gemendo. A locutora corre com um microfone enquanto segura o riso. Ela se agacha ao lado de Yumi e aponta o microfone para sua boca.
-Locutora: "Como você se sente?"
-CAM2: Rosto de Yumi. Zoom suave: médio -> close-up do rosto -> close-up. As risadas ao redor silenciam por um momento. Expressão de agonia de Yumi. Pausa de 0,5 segundos.
-Yumi diz suavemente como se estivesse exausta: "...Minha bunda voou para longe..."
-As risadas atingem o pico instantaneamente no final da fala. Termina imediatamente.
-
-[VOZ / ÁUDIO EM JAPONÊS | MAIS IMPORTANTE]
-Toda a conversa é em japonês. Pronúncia, sotaque, entonação, pausa e ritmo naturais em japonês, como se fossem falados por falantes nativos de japonês em um programa de TV japonês real. Sem sotaque estrangeiro.
-```
-
-<img src="https://cms-assets.youmind.com/media/1788331432814_pauzrw_HRGsTmzb0AA47bP.jpg" width="600" alt="Desafio de Comédia em Programa de Variedades Japonês">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10221)**
-
-**Autor:** [オクニョ](https://x.com/okunyo28) | **Fonte:** [Link](https://x.com/okunyo28/status/2094646330958180486) | **Publicado:** Sep 1, 2026
-
----
-### Comercial de Luxo para Relógio Rolex
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de comercial de TV cinematográfico e sofisticado de 15 segundos para um relógio de luxo, detalhando iluminação, movimento de câmera e planos.
-
-#### 📝 Prompt
-
-```
-Crie um comercial de TV cinematográfico de luxo de 15 segundos no formato vertical 9:16 para o relógio Rolex Mini Twotone. Movimentos de câmera suaves e elegantes, iluminação dourada suave, estética de filme de moda de alto padrão, ultrarrealista, qualidade premium.
-
-0-2 seg: A luz suave da manhã preenche um apartamento moderno em um arranha-céu. Uma jovem elegante de cabelos escuros em um coque despojado, vestindo uma blusa de seda creme, senta-se perto de uma grande janela com vista para o horizonte da cidade. Ela toca suavemente o pescoço e olha pela janela enquanto usa o Rolex Mini Twotone no pulso. Sobreposição de texto: “BELEZA ATEMPORAL”.
-
-2-4 seg: Close-up extremo do mostrador do relógio Rolex Mini Twotone. Mostrador branco, bisel canelado em ouro, marcadores de hora em ouro, janela de data mostrando o dia 28. Reflexos suaves deslizam pelo cristal. Texto: “CRIADO PARA A PERFEIÇÃO”.
-
-4-6 seg: Montagem macro rápida e elegante — close-up do mostrador, da coroa de ouro e dos elos da pulseira Jubilee de dois tons entrelaçando-se com precisão. A luz suave captura cada detalhe do artesanato. Texto: “CADA DETALHE IMPORTA”.
-
-6-8 seg: O relógio completo repousa sobre uma superfície escura e reflexiva. Rotação lenta e elegante mostrando a pulseira de ouro e aço de dois tons brilhando intensamente de todos os ângulos. Texto: “FEITO PARA BRILHAR Para sempre.”
-
-8-10 seg: Close-up das mãos da mulher segurando uma xícara de café branca. O Rolex Mini Twotone está claramente visível em seu pulso. Luz natural suave, clima elegante e sofisticado. Texto: “ALÉM DO TEMPO, UMA DECLARAÇÃO”.
-
-10-12 seg: O relógio repousa sobre um luxuoso tecido de cetim dourado. A luz suave desliza pelo mostrador e pela pulseira. Texto: “PARA CADA MOMENTO”.
-
-12-14 seg: Fundo preto limpo. O logotipo da coroa Rolex em ouro aparece, seguido pelo elegante texto em dourado: “ROLEX MINI TWOTONE” e “Elegância atemporal. Criado para você.”
-
-14-15 seg: Quadro final em fundo preto com partículas douradas flutuantes. Grande logotipo da coroa Rolex em ouro e texto: “ROLEX – VIVA O TEMPO. AME ROLEX.”
-
-Estilo geral: Comercial de relógio de luxo, iluminação cinematográfica suave, movimentos de câmera lentos e elegantes, alto detalhamento, fotorrealista, atmosfera premium e sofisticada.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094641380606017536/img/ezxVXj1IjTsmaHMb.jpg" width="600" alt="Comercial de Luxo para Relógio Rolex">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10205)**
-
-**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fonte:** [Link](https://x.com/ayzalnooor24521/status/2094641418174361694) | **Publicado:** Sep 1, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -3948,6 +3937,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-12T03:40:33.995Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-12T08:45:36.714Z</sub>
 
 </div>

@@ -68,7 +68,7 @@
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **6358** |
+| 📝 提示词总数 | **6365** |
 | ⭐ 精选提示词 | **6** |
 | 🔄 最后更新 | **2026-09-12** |
 
@@ -361,6 +361,225 @@
 
 > 📝 按发布日期排序（最新优先）
 
+### 城市超级摩托车动作追逐场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个超写实的动作视频提示词，描述了一位年轻女性骑着一辆炫酷的黑色摩托车，在现代城市景观中高速穿梭的场景。
+
+#### 📝 提示词
+
+```
+超写实电影级动作场景，一位英姿飒爽的年轻女性骑着一辆炫酷的黑色超级摩托车在现代城市街道上高速行驶，身穿修身黑色皮质赛车服，戴着黑色手套，留着飘逸的长发。她身体前倾，紧握车把，神情专注。动态低角度跟拍，强烈的运动模糊，温暖的电影级光影，摩托车上真实的反射，浅景深，城市背景，高速氛围，照片级真实的皮肤和织物细节，专业动作摄影，85mm 镜头，HDR，8K，超精细，电影级调色，9:16 竖屏构图。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098633719540232192/img/Ktm8pccgFiuWy9Ra.jpg" width="600" alt="城市超级摩托车动作追逐场景">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=10753)**
+
+**作者:** [AIwithMinal](https://x.com/AIwithMinal) | **来源:** [Link](https://x.com/AIwithMinal/status/2098633792126677496) | **发布时间:** Sep 12, 2026
+
+---
+### 翼装大天使变身电影感视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段史诗级黑暗奇幻风格的电影感视频提示词，描绘了一名女子吞下光之剑并变身为对抗黑暗势力的翼装大天使的过程。
+
+#### 📝 提示词
+
+```
+电影感黑暗奇幻视频。一名身着染血白裙的年轻女子吞下一柄纯白光芒的利剑。神圣的能量从她体内爆发，她的双眼闪烁着刺眼的纯白光芒，巨大的白色羽翼从她背后喷薄而出，头顶浮现出一道光环。她变身为一位光芒万丈的大天使，手持发光的武器，在满月下的古老石遗迹中与双眼闪烁红光的暗影恶魔怪物战斗。圣洁的光束从天而降，轰击地面，将黑暗生物蒸发殆尽。超精细，8k 分辨率，电影级灯光，史诗级动态效果，Unreal Engine 5 渲染风格。史诗级黑暗奇幻截图，一位身着染血白裙的女性大天使战士站在满月下的古老石遗迹中。她拥有发光的白眼、明亮的光环，以及完全展开的巨大而壮丽的白色羽翼。她手持一根触地的刺眼白光垂直法杖。巨大的天界光柱照射进她周围的圆形庭院，黑暗奇幻氛围，超写实细节，8k 分辨率，电影剧照。--ar 16:9
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098623607853522944/img/Yazj7LPtkDG4Rfsd.jpg" width="600" alt="翼装大天使变身电影感视频">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=10752)**
+
+**作者:** [Saif Ai](https://x.com/AiwithSaif7) | **来源:** [Link](https://x.com/AiwithSaif7/status/2098623698773196856) | **发布时间:** Sep 12, 2026
+
+---
+### FPV 城市高速飞行
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段 15 秒令人惊叹的 FPV 无人机城市穿梭视频，呈现了清晰的建筑细节和连续不断的拍摄画面。
+
+#### 📝 提示词
+
+```
+15 秒写实电影感 FPV 视频，16:9 画幅。一段在繁华现代城市中高速飞行的震撼画面。极速加速、清晰的建筑细节、自然的运动模糊和强烈的景深感。
+
+0.0–2.5 秒：从摩天大楼上方开始，镜头陡峭向下。以极高速度在两座塔楼之间俯冲，玻璃幕墙在镜头旁飞速掠过。
+
+2.5–4.0 秒：从俯冲中平稳拉升至街道上方，在不触碰地面的情况下转为快速向前飞行。
+
+4.0–7.0 秒：沿街道疾驰，在建筑拐角处大幅度倾斜转弯，并在结构柱之间穿梭。镜头上下起伏，同时保持持续向前的动力。
+
+7.0–11.5 秒：进入繁忙的步行广场。在人群之间的空隙中进行回转穿梭，空间狭窄时升至肩部以上高度，随后进入开阔地带。行人动作自然。保持可见的间距；所有人均未受到伤害。
+
+11.5–15.0 秒：穿过建筑间狭窄的通道，掠过楼梯上方，随后急转进入宽阔的大道。在最后一帧画面中继续向前疾驰。
+
+摄像机：一个连续不断的“第一人称”镜头。无剪辑、无瞬移、无暂停、无慢动作，也无第三人称视角。镜头朝向飞行方向并伴有受控的侧倾。建筑和行人均为实体；严禁穿模。画面中不可见无人机。
+
+音频：疾风声、近距离掠过时的尖锐气流声、远处的交通声以及短暂经过的人群声。无背景音乐或对话。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098488700414185472/img/Gx7nXXGVr7NnTFRX.jpg" width="600" alt="FPV 城市高速飞行">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=10750)**
+
+**作者:** [Jason Heaton](https://x.com/JasonHeatony7) | **来源:** [Link](https://x.com/JasonHeatony7/status/2098488785495335391) | **发布时间:** Sep 11, 2026
+
+---
+### 武术道场动漫片段
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 电影级动漫视频提示词，营造出带有温暖室内灯光的传统武术道场场景。
+
+#### 📝 提示词
+
+```
+电影级动漫短片片段，15 秒。传统武术道场，木质地板，镜面墙壁，训练器材，温暖的室内灯光，整洁宽敞。
+
+角色 1 — LEE：身材精瘦的亚裔男性，短黑发，表情冷静专注。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098370583054413825/img/zNppH6umuGyyvfwH.jpg" width="600" alt="武术道场动漫片段">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=10751)**
+
+**作者:** [TechieSA](https://x.com/TechieBySA) | **来源:** [Link](https://x.com/TechieBySA/status/2098370639748800549) | **发布时间:** Sep 11, 2026
+
+---
+### 毛线娃娃定格动画：早餐时光
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个多场景定格动画提示词，用于创作一段温馨的毛线娃娃烹饪鸡蛋和调味的视频序列。
+
+#### 📝 提示词
+
+```
+场景详情：
+动作：娃娃正在将鸡蛋打入深灰色针织平底锅中，锅位于钩针编织的炉灶台面上。
+物体：带有光泽黄色毛线蛋黄的针织鸡蛋，标有“SALT”和“PEPPER”的钩针编织盐罐和胡椒罐，贴有“Made with Love”标签的毛线罐子，以及在清晨柔和阳光透过窗户照射下的温馨木质背景。
+风格：微距移轴摄影，触感真实的羊毛和棉线质感，高度精细的针织纹理，定格动画美学，温暖舒适的氛围，景深效果，8k 分辨率。--ar 9:16 --v 6.0
+
+片段 1：打鸡蛋 (0:00 - 0:08)
+提示词：一个可爱的毛线娃娃，梳着棕色发髻，穿着紫色针织套装，手持钩针编织的蛋壳，将生鸡蛋打入温馨炉灶上深灰色的针织平底锅中。光泽的黄色毛线蛋黄轻轻落入锅中，清晨柔和的阳光透过窗户洒下，3D 定格动画，真实的羊毛质感，微距摄像机角度。
+片段 2：调味特写 (0:08 - 0:15)
+提示词：极微距镜头，定格动画风格。一个毛线娃娃女孩拿着标有“SALT”和“PEPPER”的微型钩针编织调味罐，在针织锅中滋滋作响的三个煎毛线蛋上撒下细小的黑白珠子。真实的羊毛细节，温暖舒适的灯光，浅景深。
+片段 3：装盘食物 (0:15 - 0:23)
+提示词：中景镜头，定格动画。毛线娃娃女孩用一把微型木铲将煮熟的毛线蛋从深灰色钩针编织锅中滑入装饰性的针织盘子里。温馨的厨房背景，摆满了毛线罐子和钩针编织细节，明亮的晨光，逐帧拍摄的触感动态。
+片段 4：享用早餐 (0:23 - 0:32)
+提示词：特写定格动画。毛线娃娃坐在小桌旁，用微型金属叉刀切开钩针编织盘子里的煎毛线蛋。柔和温馨的灯光，毛衣和围裙上精细的针织纹理，手工艺术美感。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098365512946163715/img/4i_Oz2JEm1TbXBVL.jpg" width="600" alt="毛线娃娃定格动画：早餐时光">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=10748)**
+
+**作者:** [Maya](https://x.com/MayaAiCreator) | **来源:** [Link](https://x.com/MayaAiCreator/status/2098365565781917862) | **发布时间:** Sep 11, 2026
+
+---
+### 奇幻 Boss 背景故事视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个为 Tales of Valdir 宇宙生成奇幻 Boss 角色的背景叙事提示词，主角是一位被古老誓言束缚的石之守护者。
+
+#### 📝 提示词
+
+```
+OSSGAROTH，虚空守望者 🗿🔥
+
+在裂隙撕裂 Valdir 之前很久，一个誓言守护者教团将第一道裂隙封印在地下。仅靠魔法封印无法长久维持，于是他们将最伟大的守护者的灵魂注入由圣石和阵亡守护者遗骨构成的躯体中，将其埋入地下墓穴，作为一道活着的锁。
+
+他在黑暗中沉睡了千年，世界之根穿透了他的身体。
+
+当新的裂隙撕裂大地时，其中一道在他墓穴内开启。虚空能量涌入他身体古老的裂纹，重新点燃了他胸膛中的余烬核心。封印破碎，锁链开始行走。
+
+他没有离开地下城，因为裂隙仍在下方流血——他被束缚在伤口本身之上。因此，虚空守望者在火光中等待，用一个问题审判每一个降临的灵魂：
+
+你是背誓者吗？
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098339276589268992/img/4Fehe5QHeWaC362e.jpg" width="600" alt="奇幻 Boss 背景故事视频提示词">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=10754)**
+
+**作者:** [AIスタジオワンルーム（AIアニメ、動画、漫画）](https://x.com/studio_oneroom) | **来源:** [Link](https://x.com/studio_oneroom/status/2098343318770028785) | **发布时间:** Sep 11, 2026
+
+---
+### 霓虹都市电影感音乐视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份为未来感霓虹闹市中的三位歌手量身定制的精致音乐视频提示词，详细说明了运镜方式及角色一致性要求。
+
+#### 📝 提示词
+
+```
+创作一个 30 秒的超写实电影感音乐视频，展现三位年轻歌手在夜晚霓虹闪烁的城市中演唱现代情感歌曲的场景。视频应呈现出高预算专业音乐视频的质感，包含逼真的人物、精准的口型同步、富有表现力的表演、氛围感灯光以及精致的摄影技术。
+
+角色
+
+角色 1 — 女主唱：
+年轻女性，20 岁出头，留着黑色长发，眼神灵动，身着优雅的黑银色服装，性格自信且富有情感。
+
+角色 2 — 男主唱：
+年轻男性，20 岁出头，深色质感短发，身穿时尚黑色夹克搭配白衬衫，富有魅力且情感表达丰富。
+
+角色 3 — 女歌手：
+年轻女性，20 岁出头，齐肩深色短发，身着时尚的深红色服装，舞台表现力充满活力且自然。
+
+确保他们在整个视频中面部、服装、发型、身体比例和身份特征保持高度一致。
+
+环境
+
+雨后夜晚的未来感闹市街道。湿润的地面反射着五彩斑斓的霓虹灯牌，闪烁的店面，淡淡的薄雾，远处的车流，电影感的虚化效果，氛围感十足的城市灯光以及逼真的倒影。
+
+分镜脚本
+
+0–4 秒 — 开场
+角色 1 眼睛的极近特写。霓虹灯的倒影映在她的眼中。随着她开始演唱，镜头缓慢后拉。背景中雨滴闪烁着光芒。
+
+4–8 秒 — 主唱表演
+角色 1 边唱边沿着湿润的街道缓慢行走，直视镜头。平滑的后退跟拍镜头。她的头发在夜风中自然飘动。
+
+8–12 秒 — 男声段落
+切换至角色 2 靠在霓虹灯闪烁的建筑旁。他开始演唱自己的部分。镜头围绕他缓慢旋转，背景是虚化的彩色城市灯光。
+
+12–16 秒 — 女歌手段落
+角色 3 出现在霓虹街道上。她边走边唱，看向镜头。平滑的侧向跟拍镜头过渡到特写。
+
+16–22 秒 — 三人合唱
+三位角色在城市十字路口汇合共同表演。镜头围绕他们缓慢旋转，展现自然的互动、细微的手势和真实的化学反应。
+
+22–27 秒 — 情感副歌
+快速而优雅的特写镜头序列：角色 1 演唱，角色 2 加入，角色 3 和声。每一个口型动作都精准契合所提供的音频。
+
+27–30 秒 — 最终镜头
+三位歌手站在湿润街道的中央。镜头缓慢上升并拉远，展现出周围闪烁的城市全景。他们随着节拍共同完成最后一句歌词。以极具戏剧性的电影感广角镜头结束。
+
+摄影技术
+
+高端音乐视频摄影风格，变形镜头质感，浅景深，平滑的稳定器跟拍，慢动作强调，电影感特写，受控的镜头运动，逼真的镜头光晕，自然的运动模糊，唯美的虚化效果以及动态构图。
+
+音频与表演
+
+使用
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098319436650631168/img/irrALxcEU5p3MHJc.jpg" width="600" alt="霓虹都市电影感音乐视频">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=10749)**
+
+**作者:** [M. Asif](https://x.com/meAsifAi) | **来源:** [Link](https://x.com/meAsifAi/status/2098330707374514573) | **发布时间:** Sep 11, 2026
+
+---
 ### 巨型白鲸沙漠场景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -378,31 +597,6 @@
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=10698)**
 
 **作者:** [AIwithMinal](https://x.com/AIwithMinal) | **来源:** [Link](https://x.com/AIwithMinal/status/2098284373372018792) | **发布时间:** Sep 11, 2026
-
----
-### 奢华香水品牌广告
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个精致的高端奢华香水广告提示词，画面中一位迷人的女性身着鲜艳的红色西装，背景是超现实的粉色和洋红色建筑。
-
-#### 📝 提示词
-
-```
-一个精致的高端奢华香水广告，画面中一位迷人的女性身着鲜艳的红色西装。
-场景 1：模特自信地向前走去，穿过一条由粉色、玫瑰色和洋红色同心拱门组成的无限超现实走廊。地面是反光的镜面，散落着光泽的深红色樱桃。
-场景 2：特写镜头，女性将“La Vie Est Belle L'Elixir Very Cherry”奢华香水喷洒在颈部，在深色背景下，香水雾气捕捉到了戏剧性的光影。
-场景 3：模特坐在精致的吧台前，手持一杯装饰着樱桃的深红色马提尼鸡尾酒，周围环绕着温暖的环境光。
-场景 4：微距特写镜头，一只尖头红色细高跟鞋在干净的白色表面上踩碎一颗新鲜樱桃，在香水瓶旁迸发出鲜艳的深红色果汁。
-场景 5：最后一个镜头，模特双手捧着奢华的玻璃香水瓶放在胸前，直视镜头，画面叠加精致的品牌文字（“LANCÔME LA VIE EST BELLE L'ELIXIR VERY CHERRY”）。
-视觉风格：电影级布光，浓郁的深红色和浆果色调，超清晰对焦，现代奢华美学，4K 分辨率，30fps，慢动作细节。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098262530405928960/img/YDEF0WgIpRBmoObg.jpg" width="600" alt="奢华香水品牌广告">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=10692)**
-
-**作者:** [Zarnish](https://x.com/ZarnishNael) | **来源:** [Link](https://x.com/ZarnishNael/status/2098262604267577783) | **发布时间:** Sep 11, 2026
 
 ---
 ### 复古 MiniDV 风格：雨中首尔的清晨
@@ -444,6 +638,45 @@
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=10695)**
 
 **作者:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **来源:** [Link](https://x.com/iamahmedfaraz66/status/2098257726145171832) | **发布时间:** Sep 11, 2026
+
+---
+### 掌上儿童日常作息
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一份详细的 storyboard 风格提示词，用于制作一段 15 秒的手持手机风格视频，捕捉一名 5 岁女孩从幼儿园到入睡的日常生活片段。
+
+#### 📝 提示词
+
+```
+[Overview] A record of a 5-year-old girl from after kindergarten until she sleeps. The mother is recording with a smartphone from a short distance without speaking. Modern era. 480p, 16:9, 15 seconds. 7 hard-cut shots (approx. 2s each) in 7 different locations. No transitions or fades. The subject does not interact with the camera: no eye contact, showing items, waving, or posing. She is absorbed in what is in front of her. Not acting, but fragments of daily life. No dialogue, lines, or narration.
+
+[Subject] Definition of beauty: A Japanese girl cute enough to pass a child actor audition. The profile view while absorbed in something is the cutest. Face: Puffy round cheeks, large double-lidded black eyes, long lashes, small round nose, a small mouth that shows baby teeth when smiling, translucent white skin with flush on cheeks (realistic texture). Hair: Shoulder-length black hair in pigtails, with one side coming undone. Clothes: Light blue cotton dress (slight stain on knee), white leggings, light-up sneakers, a small backpack with rabbit ears (no text). Habit: Hopping on one leg, getting too close to things of interest. Face, hair, and clothes are identical in all shots.
+
+[Characters] Mother (Camera Operator): Not on screen, but occasional small laughs, breaths, or the sound of clothes as she readjusts the camera are included (no words). Only the mother's hand enters the frame in the first shot.
+
+[Time/Place/Light] Modern summer evening to night. 1. Path in front of kindergarten (orange evening light, no signs). 2. Flowerbed on the way home (low western sun). 3. Park drinking fountain (evening light). 4. House entrance (warm lighting). 5. Living room floor (crayons, warm lighting). 6. Washroom (hairdryer, white lighting; no mirror). 7. Futon (dim nightlight). Choose locations/angles where signs, text, logos, or screens are not visible.
+
+[Camera] Horizontal handheld smartphone video. Natural shake, imperfect composition, low angle at child's height, occasional autofocus hunting, exposure fluctuations. 1.5-3m distance from subject. Subject ignores camera. No stabilization, gimbal, drone, slow motion, cinematic lighting, or commercial color grading. Camera is always at the operator's hand position (standing, sitting, kneeling, walking). No impossible angles (air, underwater, ceiling, etc.). The operator is a real person in the same space, following the subject with a slight delay.
+
+[Shots] 1. Kindergarten path/Evening. Holding mother's hand, hopping on one leg with joy. Emotion: Happy to meet. Backpack sways. Camera: Kneeling height, side view. 2. Flowerbed/Western sun. Squatting close to a flower, nose touching a petal, rubbing nose. Emotion: Gentle feelings. Camera: Side view, momentary focus on flower. 3. Drinking fountain. Turning the tap, water gushes out, face gets drenched, stunned expression. Emotion: Surprised then amused. Camera: From a distance. 4. Entrance. Tripping while trying to take off shoes, stunned then laughing. Emotion: Funny. Camera: Looking down from the hallway. 5. Living room floor. Finishing a crayon drawing, holding it up, nodding with satisfaction. Emotion: Proud. Camera: Near floor, diagonal rear view. 6. Washroom/Dryer. Laughing as the dryer air messes up her face. Emotion: Ticklish and fun. Camera: Close up, hair fluttering. 7. Futon/Nightlight. Eyelids drooping during a book, fighting sleep and losing. Emotion: Sleepy but won't admit it. Camera: Gently approaching. Blackout at 0:14 without fade.
+
+[Props] Rabbit backpack has slightly dirty felt ears. Light-up shoes are pink with heel lights. 16-color crayons (no text on box). Book cover not shown. White plastic hairdryer.
+
+[Prohibitions] No readable text, logos, signs, labels, packages, or digital displays.
+
+[Physics/Consistency] Realistic physics. No extra fingers, merged hands, floating objects, or sudden morphing. Feet on ground. Hair, backpack, and shoes consistent.
+
+[Sound] Natural ambient sounds only: birds, insects, water, shoe sounds, crayon scratching, dryer, rustling clothes. No words. Occasional small laughs/breaths from operator and subject allowed. No music or narration.
+
+[Atmosphere] A record of an ordinary evening that makes one think 'my child was like this.' Not acting, just fragments of focus. Dear, warm, and deeply human. Priority on the feeling that a camera just happened to be there.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097996183176409088/img/uZPOueJjq50-8SIf.jpg" width="600" alt="掌上儿童日常作息">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=10755)**
+
+**作者:** [妖精アーヤ](https://x.com/aiehon_aya) | **来源:** [Link](https://x.com/aiehon_aya/status/2098245151000776724) | **发布时间:** Sep 11, 2026
 
 ---
 ### 图片网格转开场 MV 动画
@@ -3670,250 +3903,6 @@ CHASE：20 多岁的韩国偶像，黑色长高马尾，眼神灵动，身材苗
 **作者:** [おもも桃](https://x.com/omomomomo0309) | **来源:** [Link](https://x.com/omomomomo0309/status/2094845693227844025) | **发布时间:** Sep 1, 2026
 
 ---
-### 全息投影交互场景剪辑
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 这是一个用于 Seedance 2.0 的多镜头提示词，展示了角色与全息投影交互的过程，并利用特定的图像参考来确保场景的一致性。
-
-#### 📝 提示词
-
-```
-镜头 1：图像 1。手掌中浮现出一个全息投影，同时说道：“刚才，来自 Zordia Agency 的追踪病毒已经侵入了 Arc Stella。”
-
-镜头 2：Nia 02 在操作的同时放大了之前的全息投影。图像 2。Nia 02：“我已经利用化身变更系统将追踪病毒转化为了怪物。”
-```
-
-<img src="https://cms-assets.youmind.com/media/1788331433913_ct1k8g_HRIkPyBbwAABTwK.jpg" width="600" alt="全息投影交互场景剪辑">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=10223)**
-
-**作者:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc) | **来源:** [Link](https://x.com/z933TfmXkaISSVc/status/2094776654380126351) | **发布时间:** Sep 1, 2026
-
----
-### 湖畔随拍 Vlog
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一个用于 Seedance 2.0 的视频提示词，旨在创作一段真实的幕后花絮，记录女孩在湖边被拍摄的过程，重点展现从摆拍到放松的自然过渡。
-
-#### 📝 提示词
-
-```
-请仅使用上传的图片作为人物参考，严格保持人物特征、脸型、发型、服装、身体比例、湖边草地背景以及整体光影，严禁换脸，严禁改变人物身份。视频时长 8 秒，一镜到底，呈现真实的友人跟拍幕后感。0-2 秒：女孩保持原图中拍照的姿势，双臂自然交叉，身体微侧，脸上带着美丽但克制的拍照微笑，眼神看向镜头附近。湖边微风拂过，长发和粉色衬衫下摆自然摆动。2-4 秒：保持姿势片刻后，她的眼神流露出一丝询问，笑容略微放松，轻轻歪头看向摄影师，自然地问道：“拍好了吗？” 4-5 秒：问完后她没有立即动作，依然保持着原有的拍照姿势，安静地等待对方回答，眼神注视着镜头，带着一丝期待。画外摄影师自然地回答：“好了。” 5-8 秒：听到“好了”之后，她明确确认拍摄结束，整个人瞬间放松下来。肩膀微微下沉，原本交叉的双臂自然松开，脸上职业化的微笑消失，取而代之的是真正放松的笑容。她轻轻呼出一口气，身体微微晃动，视线移向一侧，随后忍不住笑出声来，仿佛终于不用再继续摆拍了。关键点：必须体现“听到‘好了’才放松”的因果关系。在听到“好了”之前，人物始终保持拍照姿势，不得提前放松。前半段是精致的拍照状态，后半段是极其真实的生活状态，形成鲜明但自然的对比。要求：人物面部始终稳定，保持与上传图片一致的特征；“拍好了吗？”的中文口型同步自然准确；画外音“好了”由摄影师发出，切勿让女孩自己说出；无夸张表演；无大幅度动作；头发随风自然飘动；保留真实的皮肤质感；镜头带有轻微的手持感；整体效果如同朋友在帮她拍照时随手记录的真实幕后花絮。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094726251059838976/img/BZZ18ceB-Y1_ujg3.jpg" width="600" alt="湖畔随拍 Vlog">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=10216)**
-
-**作者:** [Adam也叫吉米](https://x.com/Adam38363368936) | **来源:** [Link](https://x.com/Adam38363368936/status/2094727084975542436) | **发布时间:** Sep 1, 2026
-
----
-### 吉卜力风格烹饪短片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个温馨的动漫视频提示词，用于创作充满暖光和吉卜力风格美食视觉效果的厨房场景。
-
-#### 📝 提示词
-
-```
-动漫烹饪短片，吉卜力美食美学，温暖的金色厨房光线，大理石台面，温馨的烘焙厨房，16:9。一系列快速的微距特写镜头：面粉倒在大理石台面上，扬起一阵白色的粉尘，双手正在揉面团
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094717281532035072/img/FIEMn0eLLK-eO7Ra.jpg" width="600" alt="吉卜力风格烹饪短片">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=10209)**
-
-**作者:** [𝚎𝚖𝚘𝚝𝚒𝚘𝚗𝚜 ❦](https://x.com/0xemotions_) | **来源:** [Link](https://x.com/0xemotions_/status/2094717581756133424) | **发布时间:** Sep 1, 2026
-
----
-### 哥特式大教堂 2.5D 动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于哥特式大教堂 Boss 竞技场 2.5D 动画的风格化视频提示词，强调独特的审美，避免常见的 CGI 和扁平卡通感。
-
-#### 📝 提示词
-
-```
-电影级 2.5D 动画。非扁平 2D 卡通，无粗黑轮廓线，无赛璐璐渲染，非光泽感 CGI，非虚幻引擎，无写实感，无塑料质感。场景：宏伟的哥特式大教堂 Boss 竞技场，色调为板岩蓝石影与温暖的琥珀色
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094666624519516160/img/soFTc81pywuWLIW6.jpg" width="600" alt="哥特式大教堂 2.5D 动画">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=10215)**
-
-**作者:** [PixieVerse](https://x.com/itsPixieVerse) | **来源:** [Link](https://x.com/itsPixieVerse/status/2094670016243270084) | **发布时间:** Sep 1, 2026
-
----
-### 动漫校园食堂邂逅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影感动漫风格的提示词，描绘了两位青少年在学校食堂互动的生动场景，展现柔和光影与动态感。
-
-#### 📝 提示词
-
-```
-超写实电影感动漫风格校园场景，一位身穿黑色校服的金发少年俏皮地向一位蓝发少女倾身，少女抬手制止，表情生动，飘逸的蓝发，明亮的教室窗户，柔和的自然日光，浅景深，电影级构图，细节丰富的校服，动态感，逼真的皮肤与头发质感，85mm 镜头，f/1.8 光圈，奶油般虚化，高细节，8K，竖屏。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094653190004494336/img/vBdRFX-YQ6Wny6jO.jpg" width="600" alt="动漫校园食堂邂逅">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=10213)**
-
-**作者:** [AIwithMinal](https://x.com/AIwithMinal) | **来源:** [Link](https://x.com/AIwithMinal/status/2094653366643155160) | **发布时间:** Sep 1, 2026
-
----
-### 日本综艺节目搞笑挑战
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一个为 Seedance 2.5 设计的复杂 30 秒提示词，模拟日本电视综艺节目的挑战环节，包含特定的摄像机角度、角色反应和慢动作回放。
-
-#### 📝 提示词
-
-```
-虚构日本电视综艺节目
-“极限挑战！超绝挑战女王锦标赛”
-
-30 秒，16:9，日本电视综艺风格，真人视频。
-
-[角色参考]
-使用 Image1 中的成年女性作为挑战者“Yumi”。
-将 Image1 作为 Yumi 的唯一人物参考，在 30 秒内保持其脸型、面部轮廓、眼睛、鼻子、嘴巴、发型、发色、刘海、肤色、年龄、体格、身体比例和服装的一致性。
-忽略 Image1 的背景，使用全新的电视演播室场景。
-在全身镜头、特写镜头、躺卧镜头或慢动作镜头中，不得使其变成另一个人。
-
-[场景]
-明亮活泼的日本电视综艺演播室。
-中心处摆放着一辆完全固定、带有拍摄安全设备的自行车。
-有一位男主持人（Ota）、一位女播音员、几位嘉宾和演播室观众。
-画面呈现出由多台电视摄像机拍摄的真实日本综艺节目质感。
-
-项目是一个滑稽的虚构挑战：“用力踩自行车，如果能用臀部停住旋转的后轮即为通关。”
-不要进行危险的身体接触；通过安全的拍摄技巧、表演、摄像机角度、音效和剪辑来呈现。
-不要特写接触点本身。
-主要亮点是 Yumi 滑稽的全身反应：“惊讶 -> 疼痛 -> 身体大幅后仰 -> 抽搐着跳起 -> 双手捂住臀部呻吟 -> 平躺在地板上。”
-
-[0:00–0:04 | 规则说明]
-CAM1：演播室正面广角镜头。Image1 中的 Yumi 坐在固定自行车上。主持人、播音员、嘉宾和观众在背景中可见。
-旁白：“本次的挑战是——”
-字幕：<<规则超级简单！>>
-CAM2：Yumi 正面 45 度角，中景镜头。Yumi 充满活力地对着镜头说：
-Yumi：“我要全力踩踏，然后用屁股停住轮胎！”
-音效：咚！
-大型电视字幕：<<用屁股停住轮胎！>>
-演播室传来笑声。
-主持人 Ota：“只要能仅靠屁股完全停住就算通关！”
-字幕：<<完全停住即通关！>>
-Yumi：“我上了！！”
-
-[0:04–0:07 | 踩踏：3 秒]
-CAM4：侧面视角，全身镜头。拍摄 Yumi 和固定自行车。Yumi 用力踩踏。
-音效：“吱吱吱……！”
-后轮旋转加速。
-Ota：“再快点！再快点！”
-嘉宾：“还能更快！”
-Yumi 更欢快地踩踏。最后插入一小段后轮旋转的镜头。
-
-[0:07–0:11 | 挑战准备：4 秒]
-CAM4：侧面视角，全身镜头。Yumi 从自行车上下来。她回头看向旋转的后轮。
-CAM2：面部特写。瞬间紧张的表情。
-CAM4：侧面视角，全身镜头。Yumi 背对后轮摆好姿势。
-CAM2：正面中景。Yumi 充满活力地说：“我要停住它了！！”
-演播室传来笑声。Yumi 做好准备。
-
-[0:11–0:16 | 挑战：5 秒]
-CAM2：面部特写。Yumi：“哈！！”
-CAM4：立即切换至侧面全身镜头。Yumi 用力挑战。无接触点特写。
-下一刻——
-音效：“嘶——！！”
-CAM2：立即切换至 Yumi 的脸部。表情瞬间改变。双眼圆睁，面部扭曲。
-Yumi：“好——痛——啊——！！”
-CAM4：立即切换至全身镜头。她因惊讶和疼痛而大幅向后倾斜。带着那股冲力，她“抽搐”着高高跳起！
-嘉宾：“哇！！”
-Yumi 落地：“哎哟，哎哟，哎哟！！”
-她呻吟着，本能地用双手捂住臀部。她失去平衡，摔倒在地板上。摄像机平滑地向下倾斜跟随 Yumi。她呈大字型仰面躺下。后轮仍在旋转。
-
-[0:16–0:17 | 失败判定：1 秒]
-音效：“哔——！！”
-CAM7：斜上方广角镜头。Yumi 在地板上呈大字型呻吟，自行车在她身后。
-屏幕出现巨大的字幕：<<挑战失败！！>>
-Ota：“太可惜了！！”
-演播室爆发出笑声。
-
-[0:17–0:27 | 10 秒慢动作回放]
-宏大的日本电视风格背景音乐。字幕：<<再次回顾那震撼的瞬间——>>
-重要：这不是新的挑战。这是电视节目对 0:11–0:16 发生的同一事件进行的慢动作回放，使用相同的摄像机素材。保持 Yumi 的脸部（来自 Image1）、服装、姿势、自行车位置和动作的完全一致。
-回放摄像机：侧面视角，全身镜头。不对接触部位进行缩放。Yumi 的脸部和全身反应是主要焦点。
-挑战前她自信的表情。下一刻，表情突然改变。双眼圆睁，面部扭曲。以正常速度录制的尖叫声随视频进行时间拉伸。
-Yumi（慢速音频）：“好——痛——啊——！！”
-她的身体缓慢地大幅向后倾斜。然后整个身体“抽——搐——”着高高跳起！
-嘉宾：“她飞起来了！飞起来了！”
-Yumi 落地。立即捂住臀部。Yumi（慢速音频）：“好——痛——啊——！！”
-一边捂着屁股一边呻吟。身体蜷缩，摇摇晃晃地摔倒在地板上。摄像机平滑地向下倾斜。在她平躺的瞬间画面定格。
-音效：“咚——！！”
-字幕：<<被冲击力完全击倒了！？>>
-演播室爆发出笑声。
-
-[0:27–0:30 | 最终采访]
-恢复正常速度。CAM7：斜上方全身镜头。Image1 中的 Yumi 仰面躺在地板上，仍在呻吟。女播音员忍着笑跑过来，拿着麦克风。她在 Yumi 身边蹲下，将麦克风递到她嘴边。
-播音员：“你感觉怎么样？”
-CAM2：Yumi 的脸部。平滑缩放：中景 -> 面部特写 -> 特写。周围的笑声瞬间静止。Yumi 痛苦的表情。停顿 0.5 秒。
-Yumi 疲惫地轻声说道：“……我的屁股飞走了……”
-笑声在台词结束时达到顶峰。立即结束。
-
-[日语语音/音频 | 最重要]
-所有对话均为日语。自然的日语发音、重音、语调、停顿和节奏，如同真实日本电视节目中母语者的说话方式。没有外国口音。
-```
-
-<img src="https://cms-assets.youmind.com/media/1788331432814_pauzrw_HRGsTmzb0AA47bP.jpg" width="600" alt="日本综艺节目搞笑挑战">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=10221)**
-
-**作者:** [オクニョ](https://x.com/okunyo28) | **来源:** [Link](https://x.com/okunyo28/status/2094646330958180486) | **发布时间:** Sep 1, 2026
-
----
-### 劳力士 (Rolex) 腕表奢华商业广告
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份为奢华腕表量身定制的 15 秒电影级电视广告提示词，详细描述了灯光、运镜及镜头画面。
-
-#### 📝 提示词
-
-```
-为 Rolex Mini Twotone 腕表创作一支 15 秒的 9:16 竖屏电影级奢华电视广告。画面需具备流畅优雅的运镜、柔和的金色光影、高端时尚大片的质感，以及超写实的高级画质。
-
-0-2 秒：柔和的晨光洒满现代高层公寓。一位留着凌乱发髻、身穿米色丝绸衬衫的优雅年轻女性，坐在俯瞰城市天际线的大落地窗旁。她轻轻抚摸颈部，望向窗外，手腕上佩戴着 Rolex Mini Twotone 腕表。文字叠加：“TIMELESS BEAUTY”（永恒之美）。
-
-2-4 秒：Rolex Mini Twotone 腕表表盘的极致特写。白色表盘、金色三角坑纹外圈、金色时标，日期窗口显示 28。柔和的光影在蓝宝石水晶镜面上流转。文字：“CRAFTED FOR PERFECTION”（匠心臻造）。
-
-4-6 秒：快速而优雅的微距蒙太奇——表盘、金色表冠以及精密咬合的间金纪念型表带的特写。柔光捕捉着工艺的每一个细节。文字：“EVERY DETAIL MATTERS”（细节成就非凡）。
-
-6-8 秒：腕表完整呈现于深色反光表面上。缓慢优雅的旋转展示着间金表带在各个角度下闪烁的光芒。文字：“MADE TO SHINE Forever.”（恒久闪耀）。
-
-8-10 秒：女性双手捧着白色咖啡杯的特写。手腕上的 Rolex Mini Twotone 清晰可见。柔和的自然光，营造出优雅精致的氛围。文字：“BEYOND TIME A STATEMENT”（超越时间，彰显个性）。
-
-10-12 秒：腕表置于奢华的金色缎面织物上。柔光在表盘和表带上滑过。文字：“FOR EVERY MOMENT”（致每一刻）。
-
-12-14 秒：简洁的黑色背景。金色 Rolex 皇冠标志浮现，随后出现优雅的金色文字：“ROLEX MINI TWOTONE” 以及 “Timeless elegance. Crafted for you.”（永恒优雅，为你而生）。
-
-14-15 秒：黑色背景下的最终定格画面，伴有漂浮的金色微粒。巨大的金色 Rolex 皇冠标志及文字：“ROLEX – LIVE TIME. LOVE ROLEX.”
-
-整体风格：奢华腕表广告，柔和电影级布光，缓慢优雅的运镜，高细节，照片级真实感，高端且精致的氛围。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094641380606017536/img/ezxVXj1IjTsmaHMb.jpg" width="600" alt="劳力士 (Rolex) 腕表奢华商业广告">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=10205)**
-
-**作者:** [ayzalnoor](https://x.com/ayzalnooor24521) | **来源:** [Link](https://x.com/ayzalnooor24521/status/2094641418174361694) | **发布时间:** Sep 1, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -3975,6 +3964,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-12T03:40:21.222Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-12T08:44:35.464Z</sub>
 
 </div>

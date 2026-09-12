@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6358** |
+| 📝 Total Prompts | **6365** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-09-12** |
 
@@ -365,11 +365,230 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Giant White Whale Desert Scene
+### City Superbike Action Chase Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal and cinematic prompt for generating a vertical video of a tiny human encountering a massive mythical white whale in a cracked desert landscape.
+> An ultra-realistic action video prompt featuring a young woman riding a sleek black motorcycle through a modern urban landscape at high speeds.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic action scene of a fierce young woman riding a sleek black superbike at high speed through a modern city street, wearing a fitted black leather racing suit, black gloves, and long flowing dark hair. She leans aggressively over the motorcycle, gripping the handlebars with intense focus. Dynamic low-angle tracking shot, dramatic motion blur, warm cinematic lighting, realistic reflections on the bike, shallow depth of field, urban background, high-speed atmosphere, photorealistic skin and fabric details, professional action photography, 85mm lens, HDR, 8K, ultra-detailed, cinematic color grading, vertical 9:16 composition.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098633719540232192/img/Ktm8pccgFiuWy9Ra.jpg" width="600" alt="City Superbike Action Chase Scene">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10753)**
+
+**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2098633792126677496) | **Published:** Sep 12, 2026
+
+---
+### Winged Archangel Transformation Cinematic Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An epic dark fantasy cinematic video prompt depicting a woman swallowing a sword of light and transforming into a winged archangel battling dark forces.
+
+#### 📝 Prompt
+
+```
+Cinematic dark fantasy video. A young woman in a blood-stained white dress swallows a glowing sword of pure white light. Divine energy bursts from her, her eyes flash solid blinding white, and massive white feathered angel wings erupt from her back with a floating halo above her head. She transforms into a radiant archangel holding a luminous glowing weapon, fighting shadowy demonic monsters with glowing red eyes in ancient stone ruins under a full moon. Beams of holy light crash from the sky into the ground, vaporizing the dark creatures. Ultra-detailed, 8k resolution, cinematic lighting, epic motion effects, unreal engine 5 render style. Epic dark fantasy screenshot, a female archangel warrior in a blood-splattered white dress standing in ancient stone ruins under a full moon. She has glowing white eyes, a luminous halo, and massive magnificent white wings fully spread out. She holds a vertical staff of blinding white light touching the ground. Massive pillars of celestial light beam down into a circular courtyard surrounding her, dark fantasy mood, hyper-realistic detail, 8k resolution, cinematic film still. --ar 16:9
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098623607853522944/img/Yazj7LPtkDG4Rfsd.jpg" width="600" alt="Winged Archangel Transformation Cinematic Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10752)**
+
+**Author:** [Saif Ai](https://x.com/AiwithSaif7) | **Source:** [Link](https://x.com/AiwithSaif7/status/2098623698773196856) | **Published:** Sep 12, 2026
+
+---
+### FPV City High-Speed Flight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A breathtaking 15-second FPV drone sequence through a modern city, featuring sharp architectural detail and a continuous uninterrupted shot.
+
+#### 📝 Prompt
+
+```
+15-second realistic cinematic FPV video, 16:9. A breathtaking high-speed flight through a bustling modern city. Extreme acceleration, sharp architectural detail, natural motion blur and powerful depth.
+
+0.0–2.5 SEC: Begin high above the skyscrapers, camera aimed steeply downward. Plunge from the sky at tremendous speed between two towers, their glass facades streaking past.
+
+2.5–4.0 SEC: Smoothly pull out of the dive above the street, redirecting into rapid forward flight without touching the ground.
+
+4.0–7.0 SEC: Race along the street, banking hard around building corners and sweeping between structural columns. Camera bobs up and down while maintaining relentless forward momentum.
+
+7.0–11.5 SEC: Enter a busy pedestrian plaza. Slalom through clear gaps between people, rising above shoulder level when space narrows, then dipping into open stretches. Pedestrians move naturally. Maintain visible clearance; everyone remains unharmed.
+
+11.5–15.0 SEC: Rocket through a narrow passage between buildings, skim above a staircase, then bank sharply into a wide avenue. Continue racing forward through the final frame.
+
+CAMERA: ONE continuous uninterrupted first-person shot. No cuts, teleporting, pauses, slow motion or third-person views. Camera faces its direction of travel with controlled banking. Solid buildings and people; never pass through objects. No visible drone.
+
+AUDIO: Rushing wind, sharp air whooshes during close passes, distant traffic and brief passing crowd sounds. No music or dialogue.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098488700414185472/img/Gx7nXXGVr7NnTFRX.jpg" width="600" alt="FPV City High-Speed Flight">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10750)**
+
+**Author:** [Jason Heaton](https://x.com/JasonHeatony7) | **Source:** [Link](https://x.com/JasonHeatony7/status/2098488785495335391) | **Published:** Sep 11, 2026
+
+---
+### Martial Arts Dojo Anime Clip
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Cinematic anime video prompt establishing a traditional martial arts dojo setting with warm interior lighting.
+
+#### 📝 Prompt
+
+```
+Cinematic anime short film clip, 15 seconds. Traditional martial arts dojo, wooden floor, mirrored walls, training equipment, warm interior lighting, clean and spacious.
+
+CHARACTER 1 — LEE: Lean athletic Asian male, short dark hair, calm focused expression.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098370583054413825/img/zNppH6umuGyyvfwH.jpg" width="600" alt="Martial Arts Dojo Anime Clip">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10751)**
+
+**Author:** [TechieSA](https://x.com/TechieBySA) | **Source:** [Link](https://x.com/TechieBySA/status/2098370639748800549) | **Published:** Sep 11, 2026
+
+---
+### Amigurumi Doll Stop Motion Breakfast
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A multi-scene stop-motion prompt creating a cozy amigurumi yarn doll sequence involving cooking eggs and seasoning food.
+
+#### 📝 Prompt
+
+```
+Scene Details:
+​Action: The doll is cracking eggs into a dark grey knitted frying pan on a crocheted stove top.
+​Objects: Knitted eggs with glossy yellow yarn yolks, crocheted salt and pepper shakers labeled "SALT" and "PEPPER", yarn jars with labels like "Made with Love", and a cozy wooden backdrop illuminated by soft morning sunlight streaming through a window.
+​Style: Macro tilt-shift photography, tactile wool and cotton yarn textures, highly detailed stitch patterns, stop-motion animation aesthetic, warm cozy aesthetic, depth of field, 8k resolution. --ar 9:16 --v 6.0
+
+Clip 1: Cracking Eggs (0:00 - 0:08)
+​Prompt: A cute amigurumi yarn doll with a brown hair bun and a purple knitted outfit holds a crocheted egg shell and cracks raw eggs into a dark grey knitted frying pan on a cozy stove. Glossy yellow yarn yolks gently settle into the pan, soft morning sunlight streaming through the window, 3D stop-motion animation, tactile wool textures, macro camera angle.
+​Clip 2: Seasoning Close-Up (0:08 - 0:15)
+​Prompt: Extreme macro shot, stop-motion animation style. An amigurumi yarn girl holds miniature crocheted shakers labeled "SALT" and "PEPPER", sprinkling tiny black and white beads over three fried yarn eggs sizzling in a knitted pan. Tactile wool details, warm cozy lighting, shallow depth of field.
+​Clip 3: Plating the Food (0:15 - 0:23)
+​Prompt: Medium shot, stop-motion animation. The amigurumi girl uses a tiny wooden spatula to slide cooked yarn eggs from a dark grey crocheted pan onto a decorative knitted plate. Cozy kitchen backdrop filled with yarn jars and crocheted details, bright morning light, frame-by-frame tactile motion.
+​Clip 4: Eating Breakfast (0:23 - 0:32)
+​Prompt: Close-up stop-motion animation. The amigurumi doll sits at a small table, using a miniature metal fork and knife to slice into a fried yarn egg on a crocheted plate. Soft cozy lighting, detailed stitch patterns on her sweater and apron, tactile craft aesthetic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098365512946163715/img/4i_Oz2JEm1TbXBVL.jpg" width="600" alt="Amigurumi Doll Stop Motion Breakfast">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10748)**
+
+**Author:** [Maya](https://x.com/MayaAiCreator) | **Source:** [Link](https://x.com/MayaAiCreator/status/2098365565781917862) | **Published:** Sep 11, 2026
+
+---
+### Fantasy Boss Lore Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A lore-heavy narrative prompt for generating a fantasy boss character, a stone guardian bound by ancient oaths, for the Tales of Valdir universe.
+
+#### 📝 Prompt
+
+```
+OSSGAROTH, THE HOLLOW WARDEN 🗿🔥
+
+Long before the rifts scarred Valdir, an order of oath-keepers sealed the first rift beneath the earth. A seal of magic alone would not hold — so they bound their greatest guardian's soul into a body of consecrated stone and the bones of fallen oath-keepers, burying him in the catacombs as a living lock.
+
+For a thousand years he slept in the dark, and the roots of the world grew through him.
+
+When the new rifts tore through the land, one opened inside his tomb. Void energy flooded the ancient cracks of his body and rekindled the ember-core in his chest. The seal broke. The lock now walks.
+
+He does not leave the dungeon because the rift still bleeds beneath it — he is bound to the wound itself. And so the Hollow Warden waits in the torchlight, judging every soul that descends by a single question:
+
+Are you an oath-breaker?
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098339276589268992/img/4Fehe5QHeWaC362e.jpg" width="600" alt="Fantasy Boss Lore Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10754)**
+
+**Author:** [AIスタジオワンルーム（AIアニメ、動画、漫画）](https://x.com/studio_oneroom) | **Source:** [Link](https://x.com/studio_oneroom/status/2098343318770028785) | **Published:** Sep 11, 2026
+
+---
+### Neon City Cinematic Music Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sophisticated music video prompt for a trio of singers in a futuristic neon downtown, detailing specific camera moves and character consistency.
+
+#### 📝 Prompt
+
+```
+Create a 30-second ultra-realistic cinematic music video featuring three young adult singers performing an emotional modern song in a neon-lit city at night. The video should look like a high-budget professional music video with realistic humans, precise lip-sync, expressive performances, atmospheric lighting, and sophisticated cinematography.
+
+CHARACTERS
+
+Character 1 — Female Lead:
+Young adult woman, early 20s, long black hair, expressive eyes, elegant black-and-silver outfit, confident yet emotional personality.
+
+Character 2 — Male Lead:
+Young adult man, early 20s, dark textured hair, stylish black jacket and white shirt, charismatic and emotionally expressive.
+
+Character 3 — Female Vocalist:
+Young adult woman, early 20s, shoulder-length dark hair, fashionable deep-red outfit, energetic but natural stage presence.
+
+Keep their faces, clothing, hairstyles, body proportions, and identities perfectly consistent throughout the video.
+
+ENVIRONMENT
+
+A futuristic downtown street at night after light rain. Wet pavement reflecting colorful neon signs, glowing storefronts, subtle fog, distant traffic, cinematic bokeh, atmospheric city lights and realistic reflections.
+
+SHOT-BY-SHOT
+
+0–4 sec — Opening
+Extreme close-up of Character 1's eyes. Neon reflections visible in her eyes. Camera slowly pulls back as she begins singing. Rain droplets sparkle in the background.
+
+4–8 sec — Lead Performance
+Character 1 walks slowly down the wet street while singing directly toward the camera. Smooth backward tracking shot. Her hair moves naturally in the night breeze.
+
+8–12 sec — Male Verse
+Cut to Character 2 leaning against a neon-lit building. He begins singing his section. Slow cinematic camera orbit around him, with colorful city lights blurred behind him.
+
+12–16 sec — Female Vocalist
+Character 3 appears walking through the neon street. She sings while looking toward the camera. Smooth side-tracking shot transitions into a close-up.
+
+16–22 sec — Trio Performance
+All three characters meet in a wide city intersection and perform together. Camera slowly circles around them while they sing. Natural interaction, subtle gestures, believable chemistry.
+
+22–27 sec — Emotional Chorus
+Rapid but elegant sequence of close-ups: Character 1 singing, Character 2 joining, Character 3 harmonizing. Every mouth movement precisely follows the provided audio.
+
+27–30 sec — Final Shot
+The three singers stand together in the middle of the wet street. Camera rises slowly upward and pulls away, revealing the glowing city around them. They finish the final lyric together exactly on the beat. End on a dramatic cinematic wide shot.
+
+CINEMATOGRAPHY
+
+High-end music-video cinematography, anamorphic lens look, shallow depth of field, smooth gimbal tracking, slow-motion accents, cinematic close-ups, controlled camera movement, realistic lens flares, natural motion blur, beautiful bokeh and dynamic composition.
+
+AUDIO & PERFORMANCE
+
+Use the
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098319436650631168/img/irrALxcEU5p3MHJc.jpg" width="600" alt="Neon City Cinematic Music Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10749)**
+
+**Author:** [M. Asif](https://x.com/meAsifAi) | **Source:** [Link](https://x.com/meAsifAi/status/2098330707374514573) | **Published:** Sep 11, 2026
+
+---
+### Giant Mythical Whale Cinematic Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An ultra-realistic cinematic scene prompt featuring a tiny human figure traversing a cracked desert towards an enormous, surreal white whale-like creature.
 
 #### 📝 Prompt
 
@@ -377,43 +596,18 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 Ultra-realistic cinematic scene of a tiny human figure walking across an endless pale, cracked desert landscape toward a gigantic mythical white whale-like creature resting peacefully on the ground. The enormous creature has detailed textured skin, massive fins, subtle eyes, and a surreal dreamlike presence. Soft fog surrounds the scene, creating a mysterious atmosphere. Wide-angle composition emphasizing the extreme scale difference between the human and the creature, muted monochromatic tones, soft diffused lighting, realistic shadows, atmospheric depth, highly detailed textures, cinematic photography, 8K, HDR, photorealistic, epic fantasy realism, vertical 9:16 composition.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098284251066351616/img/dwKKtUnS3ueYNewb.jpg" width="600" alt="Giant White Whale Desert Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098284251066351616/img/dwKKtUnS3ueYNewb.jpg" width="600" alt="Giant Mythical Whale Cinematic Scene">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10698)**
 
 **Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2098284373372018792) | **Published:** Sep 11, 2026
 
 ---
-### Luxury Perfume Brand Commercial
+### Vintage MiniDV Home Video Aesthetics
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A sleek, high-end luxury perfume commercial prompt featuring a glamorous woman in a vivid red suit against surreal pink and magenta architectural backdrops.
-
-#### 📝 Prompt
-
-```
-A sleek, high-end luxury perfume commercial featuring a glamorous woman in a vivid red suit.
-Scene 1: The model confidently walks forward down an infinite, surreal corridor of concentric archways in shades of pink, rose, and magenta. The floor is a reflective, mirrored surface scattered with glossy dark red cherries.
-Scene 2: Close-up shot of the woman spraying a luxury perfume bottle ("La Vie Est Belle L'Elixir Very Cherry") onto her neck, mist catching the dramatic lighting against a dark backdrop.
-Scene 3: The model sits at a sleek bar holding a dark red martini cocktail garnished with cherries, framed by warm, ambient lighting.
-Scene 4: A macro close-up shot of a sharp red stiletto heel crushing a fresh cherry on a clean white surface, releasing a vibrant burst of deep red juice next to the perfume bottle.
-Scene 5: Final shot of the model holding the luxury glass perfume bottle with both hands in front of her chest, staring directly into the camera, featuring sleek brand text overlay ("LANCÔME LA VIE EST BELLE L'ELIXIR VERY CHERRY").
-Visual Style: Cinematic lighting, rich crimson red and deep berry color palette, ultra-sharp focus, modern luxury aesthetic, 4K resolution, 30fps, slow-motion details.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098262530405928960/img/YDEF0WgIpRBmoObg.jpg" width="600" alt="Luxury Perfume Brand Commercial">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10692)**
-
-**Author:** [Zarnish](https://x.com/ZarnishNael) | **Source:** [Link](https://x.com/ZarnishNael/status/2098262604267577783) | **Published:** Sep 11, 2026
-
----
-### Vintage MiniDV Rainy Seoul Morning
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive prompt for creating a nostalgic, early-2000s MiniDV home video aesthetic featuring a candid morning scene in a Seoul apartment.
+> An early-2000s nostalgic lifestyle prompt simulating a natural, candid handheld home video style showing a young woman inside an apartment bedroom on a rainy morning.
 
 #### 📝 Prompt
 
@@ -443,11 +637,50 @@ Goal: Feel like a tiny accidental moment captured by a family member on an old M
 Motion quality: Keep all body and camera movement smooth and continuous. The sneeze should be one natural, fluid movement rather than exaggerated or repeated. The vintage look comes from authentic MiniDV image characteristics, not from a low or inconsistent frame rate.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098085864387821568/img/IhFaLi3jiQcHWCN2.jpg" width="600" alt="Vintage MiniDV Rainy Seoul Morning">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098085864387821568/img/IhFaLi3jiQcHWCN2.jpg" width="600" alt="Vintage MiniDV Home Video Aesthetics">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10695)**
 
 **Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2098257726145171832) | **Published:** Sep 11, 2026
+
+---
+### Handheld Childhood Daily Routine
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed storyboard-style prompt for a 15-second handheld smartphone-style video capturing fragments of a 5-year-old girl's daily life from kindergarten to sleep.
+
+#### 📝 Prompt
+
+```
+[Overview] A record of a 5-year-old girl from after kindergarten until she sleeps. The mother is recording with a smartphone from a short distance without speaking. Modern era. 480p, 16:9, 15 seconds. 7 hard-cut shots (approx. 2s each) in 7 different locations. No transitions or fades. The subject does not interact with the camera: no eye contact, showing items, waving, or posing. She is absorbed in what is in front of her. Not acting, but fragments of daily life. No dialogue, lines, or narration.
+
+[Subject] Definition of beauty: A Japanese girl cute enough to pass a child actor audition. The profile view while absorbed in something is the cutest. Face: Puffy round cheeks, large double-lidded black eyes, long lashes, small round nose, a small mouth that shows baby teeth when smiling, translucent white skin with flush on cheeks (realistic texture). Hair: Shoulder-length black hair in pigtails, with one side coming undone. Clothes: Light blue cotton dress (slight stain on knee), white leggings, light-up sneakers, a small backpack with rabbit ears (no text). Habit: Hopping on one leg, getting too close to things of interest. Face, hair, and clothes are identical in all shots.
+
+[Characters] Mother (Camera Operator): Not on screen, but occasional small laughs, breaths, or the sound of clothes as she readjusts the camera are included (no words). Only the mother's hand enters the frame in the first shot.
+
+[Time/Place/Light] Modern summer evening to night. 1. Path in front of kindergarten (orange evening light, no signs). 2. Flowerbed on the way home (low western sun). 3. Park drinking fountain (evening light). 4. House entrance (warm lighting). 5. Living room floor (crayons, warm lighting). 6. Washroom (hairdryer, white lighting; no mirror). 7. Futon (dim nightlight). Choose locations/angles where signs, text, logos, or screens are not visible.
+
+[Camera] Horizontal handheld smartphone video. Natural shake, imperfect composition, low angle at child's height, occasional autofocus hunting, exposure fluctuations. 1.5-3m distance from subject. Subject ignores camera. No stabilization, gimbal, drone, slow motion, cinematic lighting, or commercial color grading. Camera is always at the operator's hand position (standing, sitting, kneeling, walking). No impossible angles (air, underwater, ceiling, etc.). The operator is a real person in the same space, following the subject with a slight delay.
+
+[Shots] 1. Kindergarten path/Evening. Holding mother's hand, hopping on one leg with joy. Emotion: Happy to meet. Backpack sways. Camera: Kneeling height, side view. 2. Flowerbed/Western sun. Squatting close to a flower, nose touching a petal, rubbing nose. Emotion: Gentle feelings. Camera: Side view, momentary focus on flower. 3. Drinking fountain. Turning the tap, water gushes out, face gets drenched, stunned expression. Emotion: Surprised then amused. Camera: From a distance. 4. Entrance. Tripping while trying to take off shoes, stunned then laughing. Emotion: Funny. Camera: Looking down from the hallway. 5. Living room floor. Finishing a crayon drawing, holding it up, nodding with satisfaction. Emotion: Proud. Camera: Near floor, diagonal rear view. 6. Washroom/Dryer. Laughing as the dryer air messes up her face. Emotion: Ticklish and fun. Camera: Close up, hair fluttering. 7. Futon/Nightlight. Eyelids drooping during a book, fighting sleep and losing. Emotion: Sleepy but won't admit it. Camera: Gently approaching. Blackout at 0:14 without fade.
+
+[Props] Rabbit backpack has slightly dirty felt ears. Light-up shoes are pink with heel lights. 16-color crayons (no text on box). Book cover not shown. White plastic hairdryer.
+
+[Prohibitions] No readable text, logos, signs, labels, packages, or digital displays.
+
+[Physics/Consistency] Realistic physics. No extra fingers, merged hands, floating objects, or sudden morphing. Feet on ground. Hair, backpack, and shoes consistent.
+
+[Sound] Natural ambient sounds only: birds, insects, water, shoe sounds, crayon scratching, dryer, rustling clothes. No words. Occasional small laughs/breaths from operator and subject allowed. No music or narration.
+
+[Atmosphere] A record of an ordinary evening that makes one think 'my child was like this.' Not acting, just fragments of focus. Dear, warm, and deeply human. Priority on the feeling that a camera just happened to be there.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097996183176409088/img/uZPOueJjq50-8SIf.jpg" width="600" alt="Handheld Childhood Daily Routine">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10755)**
+
+**Author:** [妖精アーヤ](https://x.com/aiehon_aya) | **Source:** [Link](https://x.com/aiehon_aya/status/2098245151000776724) | **Published:** Sep 11, 2026
 
 ---
 ### Image Grid to Opening MV Animation
@@ -3211,250 +3444,6 @@ Natural human structure, accurate limbs, smooth continuous motion, clear cause-a
 **Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2094845693227844025) | **Published:** Sep 1, 2026
 
 ---
-### Hologram Interaction Scene Montage
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A multi-cut prompt for Seedance 2.0 showing a character interacting with a hologram, utilizing specific image references for scene consistency.
-
-#### 📝 Prompt
-
-```
-Cut 1: Image 1. Appearing a hologram from the palm while saying, "Just now, a tracking virus from the Zordia Agency has entered Arc Stella."
-
-Cut 2: Nia 02, operating while enlarging the previous hologram. Image 2. Nia 02: "I have already converted the tracking virus into a monster using the avatar change system."
-```
-
-<img src="https://cms-assets.youmind.com/media/1788331433913_ct1k8g_HRIkPyBbwAABTwK.jpg" width="600" alt="Hologram Interaction Scene Montage">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10223)**
-
-**Author:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc) | **Source:** [Link](https://x.com/z933TfmXkaISSVc/status/2094776654380126351) | **Published:** Sep 1, 2026
-
----
-### Candid Lakeside Photography Vlog
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A video prompt for Seedance 2.0 creating a realistic behind-the-scenes moment of a girl being photographed by a lake, focusing on natural transitions from posing to relaxing.
-
-#### 📝 Prompt
-
-```
-Use the uploaded image as the only person reference, strictly maintain the person's features, face shape, hairstyle, clothing, body proportions, lakeside grass background, and overall lighting, no face swapping, no change of person identity. Duration 8 seconds, one-shot, realistic friend photo-taking behind-the-scenes feel. 0-2 seconds: The girl maintains the photo-taking pose in the original image, arms naturally crossed, body slightly sideways, maintaining a beautiful but restrained photo-taking smile on her face, eyes looking near the camera. There is a light breeze by the lake, long hair and the hem of the pink shirt naturally swing. 2-4 seconds: After maintaining the pose for a while, her eyes start to show a bit of inquiry, the smile slightly relaxes, she gently tilts her head to look at the photographer, and naturally asks: 'Is it done?' 4-5 seconds: After asking, she doesn't move immediately, still maintains the original photo-taking pose, quietly waiting for the other party's answer, eyes looking at the camera, with a bit of expectation. The off-camera photographer naturally replies: 'Done.' 5-8 seconds: After hearing 'Done', she clearly confirms the end of the shooting, and the whole person relaxes instantly. Her shoulders drop slightly, the originally crossed arms naturally loosen, the business-like smile on her face disappears, replaced by a truly relaxed smile. She exhales softly, the body sways slightly, her gaze moves to the side, and then she can't help but laugh, as if she finally doesn't have to continue posing. Key points: Must show the causal relationship of 'relaxing only after hearing done'. Before 'done', the person always maintains the photo-taking posture and does not relax in advance. The first half is an exquisite photo-taking state, and the second half is a very real life state, forming a clear but natural contrast. Requirements: The person's face is always stable, maintaining the same features as the uploaded image; 'Is it done?' Chinese lip-sync is natural and accurate; the off-camera voice 'Done' comes from the photographer, don't let the girl say it herself; no exaggerated performance; no large movements; hair moves naturally with the wind; retain real skin texture; the lens has a slight handheld feel; overall it's like a real behind-the-scenes clip captured by a friend while helping her take photos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094726251059838976/img/BZZ18ceB-Y1_ujg3.jpg" width="600" alt="Candid Lakeside Photography Vlog">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10216)**
-
-**Author:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2094727084975542436) | **Published:** Sep 1, 2026
-
----
-### Ghibli Aesthetic Cooking Short
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cozy anime video prompt for a kitchen scene with warm lighting and Ghibli-inspired food visuals.
-
-#### 📝 Prompt
-
-```
-Anime cooking short film, Ghibli food aesthetic, warm golden kitchen light, marble countertop, cozy bakery kitchen, 16:9. A series of rapid close-up macro shots: flour being poured onto a marble surface with a cloud of white dust rising, hands kneading the dough
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094717281532035072/img/FIEMn0eLLK-eO7Ra.jpg" width="600" alt="Ghibli Aesthetic Cooking Short">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10209)**
-
-**Author:** [𝚎𝚖𝚘𝚝𝚒𝚘𝚗𝚜 ❦](https://x.com/0xemotions_) | **Source:** [Link](https://x.com/0xemotions_/status/2094717581756133424) | **Published:** Sep 1, 2026
-
----
-### Gothic Cathedral 2.5D Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A stylized video prompt for a 2.5D animation of a Gothic cathedral boss arena, emphasizing a specific aesthetic that avoids common CGI and flat cartoon looks.
-
-#### 📝 Prompt
-
-```
-Cinematic 2.5D animation. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. WORLD: Vast Gothic cathedral boss arena, palette of slate blue stone shadows, warm amber
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094666624519516160/img/soFTc81pywuWLIW6.jpg" width="600" alt="Gothic Cathedral 2.5D Animation">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10215)**
-
-**Author:** [PixieVerse](https://x.com/itsPixieVerse) | **Source:** [Link](https://x.com/itsPixieVerse/status/2094670016243270084) | **Published:** Sep 1, 2026
-
----
-### Anime School Cafeteria Encounter
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic anime-style prompt for an expressive scene between two teenagers in a school cafeteria, featuring soft lighting and dynamic movement.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic anime-style school scene, a blond teenage boy in a black school uniform leaning playfully toward a blue-haired teenage girl, the girl raising her hand to stop him, expressive faces, flowing blue hair, bright classroom windows, soft natural daylight, shallow depth of field, cinematic composition, detailed uniforms, dynamic movement, realistic skin and hair textures, 85mm lens, f/1.8, creamy bokeh, high detail, 8K, vertical .
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094653190004494336/img/vBdRFX-YQ6Wny6jO.jpg" width="600" alt="Anime School Cafeteria Encounter">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10213)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2094653366643155160) | **Published:** Sep 1, 2026
-
----
-### Japanese Variety Show Comedy Challenge
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A complex 30-second prompt for Seedance 2.5 simulating a Japanese TV variety show challenge, featuring specific camera angles, character reactions, and slow-motion replays.
-
-#### 📝 Prompt
-
-```
-Fictional Japanese TV Variety Show
-"Limit to the Max! The Extreme Challenge Queen Championship"
-
-30 seconds, 16:9, Japanese TV variety show style, live-action video.
-
-[CHARACTER REFERENCE]
-Use the adult woman from Image1 as the challenger "Yumi."
-Use Image1 as the sole person reference for Yumi, maintaining her face, facial contours, eyes, nose, mouth, hairstyle, hair color, bangs, skin color, age, physique, body proportions, and costume consistently for 30 seconds.
-Ignore the background of Image1 and use a new TV studio.
-Do not let her become a different person in full-body, close-up, lying down, or slow-motion shots.
-
-[SCENE]
-A bright and lively Japanese TV variety show studio.
-In the center, a bicycle completely fixed with safety equipment for filming.
-A male host (Ota), a female announcer, several guests, and a studio audience.
-Footage that looks like a real Japanese variety show filmed with multiple TV cameras.
-
-The project is a comical fictional challenge: "Pedal a bicycle vigorously by yourself and clear it if you can stop the rotating rear wheel with your buttocks."
-Do not perform dangerous physical contact; establish it through safe filming gimmicks, acting, camera angles, sound effects, and editing.
-Do not show the contact point itself in close-up.
-The main highlight is Yumi's comical full-body reaction: "Surprised -> In pain -> Leaning back significantly -> Jumping up with a twitch -> Groaning while holding her buttocks with both hands -> Lying flat on the floor."
-
-[0:00–0:04 | Rule Explanation]
-CAM1: Studio front wide shot. Yumi from Image1 is on the fixed bicycle. Host, announcer, guests, and audience are visible in the background.
-Narration: "This time's challenge is—"
-Telop: <<The rules are super simple!>>
-CAM2: Yumi front 45° angle, medium shot. Yumi energetically says to the camera:
-Yumi: "I'm going to pedal with all my might and stop the tire with my butt!"
-SE: Don!
-Large TV Telop: <<Stop the tire with your butt!>>
-Laughter from the studio.
-Host Ota: "It's a clear if you come to a complete stop using only your butt!"
-Telop: <<Clear with a complete stop!>>
-Yumi: "Here I go!!"
-
-[0:04–0:07 | Pedaling: 3 seconds]
-CAM4: Side view, full body. Captures Yumi and the fixed bicycle. Yumi pedals vigorously.
-SE: "Squeak squeak squeak...!"
-The rear wheel rotates faster.
-Ota: "More! More!"
-Guest: "You can go more!"
-Yumi pedals more joyfully. Short insert of the rotating rear wheel at the end.
-
-[0:07–0:11 | Challenge Preparation: 4 seconds]
-CAM4: Side view, full body. Yumi gets off the bicycle. She looks back at the rotating rear wheel.
-CAM2: Face close-up. A momentary tense expression.
-CAM4: Side view, full body. Yumi gets into position with her back to the rear wheel.
-CAM2: Front medium shot. Yumi says energetically, "I'm going to stop it!!"
-Laughter from the studio. Yumi braces herself.
-
-[0:11–0:16 | Challenge: 5 seconds]
-CAM2: Face close-up. Yumi: "Hah!!"
-CAM4: Immediate cut to side full body. Yumi challenges vigorously. No close-up of contact.
-Next moment—
-SE: "Screech!!"
-CAM2: Immediate cut to Yumi's face. Her expression changes instantly. Eyes wide, face contorted.
-Yumi: "Iiiiiitttt huuuuurrrts!!"
-CAM4: Immediate full body. She leans her body back significantly in surprise and pain. With that momentum, she jumps up high with a "twitch!"
-Guest: "Whoa!!"
-Yumi lands: "Ouch, ouch, ouch!!"
-She groans and reflexively holds her buttocks with both hands. She loses her balance and falls to the floor. The camera tilts down smoothly following Yumi. She lies on her back in a star shape. The rear wheel is still rotating.
-
-[0:16–0:17 | Failure Judgment: 1 second]
-SE: "Buzzzzzzz!!"
-CAM7: Diagonally from above, wide shot. Yumi groaning in a star shape on the floor with the bicycle behind her.
-Giant telop filling the screen: <<Challenge Failed!!>>
-Ota: "Too bad!!"
-Studio bursts into laughter.
-
-[0:17–0:27 | 10-Second Slow Motion Replay]
-Grand Japanese TV-style BGM. Telop: <<The shocking moment once more—>>
-IMPORTANT: This is not a new challenge. It is a slow replay by the TV program of the exact same event that happened at 0:11–0:16, using the same camera footage. Maintain complete consistency of Yumi's face from Image1, costume, posture, bicycle position, and actions.
-REPLAY CAM: Side view, full body. No zoom on the contact part. Yumi's face and full-body reaction are the main focus.
-Her confident expression right before the challenge. The next moment, her expression suddenly changes. Eyes wide, face contorted. The actual scream recorded at normal speed is time-stretched with the video.
-Yumi (slowed audio): "Iiiiiiiiiiiiittttt huuuuuuuuuuuurrrrrrttttttsssssss!!"
-Her body slowly leans back significantly. Then the whole body jumps up high with a "twi-i-i-itch!"
-Guest: "She flew! She flew!"
-Yumi lands. Immediately holds her buttocks. Yumi (slowed audio): "Iiiiiiiiit huuuuuuuuuurrrrrrts!!"
-Groaning while holding her butt. Her body doubles over, she staggers and falls to the floor. The camera tilts down smoothly. A short freeze frame the moment she lies flat.
-SE: "Dooooon!!"
-Telop: <<Completely knocked out by the impact!?>>
-Studio bursts into laughter.
-
-[0:27–0:30 | Final Interview]
-Returns to normal speed. CAM7: Diagonally above, full body. Yumi from Image1 is on her back on the floor, still groaning. The female announcer runs over with a microphone while holding back laughter. She squats next to Yumi and points the mic to her mouth.
-Announcer: "How do you feel?"
-CAM2: Yumi's face. Smoothly zoom in: medium up -> face close-up -> close-up. The surrounding laughter silences for a moment. Yumi's agonized expression. 0.5-second pause.
-Yumi says softly as if exhausted, "...My butt flew away..."
-Laughter peaks instantly at the end of the line. Ends immediately.
-
-[JAPANESE VOICE / AUDIO | MOST IMPORTANT]
-All conversation is in Japanese. Natural Japanese pronunciation, accent, intonation, pause, and tempo, as if spoken by native Japanese speakers on a real Japanese TV program. No foreign accent.
-```
-
-<img src="https://cms-assets.youmind.com/media/1788331432814_pauzrw_HRGsTmzb0AA47bP.jpg" width="600" alt="Japanese Variety Show Comedy Challenge">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10221)**
-
-**Author:** [オクニョ](https://x.com/okunyo28) | **Source:** [Link](https://x.com/okunyo28/status/2094646330958180486) | **Published:** Sep 1, 2026
-
----
-### Rolex Watch Luxury Commercial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A sophisticated 15-second cinematic TV commercial prompt for a luxury watch, detailing lighting, camera movement, and shots.
-
-#### 📝 Prompt
-
-```
-Create a luxurious 15-second cinematic TV commercial in vertical 9:16 format for the Rolex Mini Twotone watch. Smooth elegant camera movements, soft golden lighting, high-end fashion film aesthetic, ultra-realistic, premium quality.
-
-0-2 sec: Soft morning light fills a modern high-rise apartment. An elegant young woman with dark hair in a messy bun, wearing a cream silk blouse, sits by a large window overlooking a city skyline. She gently touches her neck and looks out the window while wearing the Rolex Mini Twotone on her wrist. Text overlay: “TIMELESS BEAUTY”.
-
-2-4 sec: Extreme close-up of the Rolex Mini Twotone watch face. White dial, gold fluted bezel, gold hour markers, date window showing 28. Soft reflections glide across the crystal. Text: “CRAFTED FOR PERFECTION”.
-
-4-6 sec: Quick elegant macro montage — close-up of the dial, the gold crown, and the two-tone Jubilee bracelet links interlocking with precision. Soft light catches every detail of the craftsmanship. Text: “EVERY DETAIL MATTERS”.
-
-6-8 sec: The full watch rests on a dark reflective surface. Slow elegant rotation showing the two-tone gold and steel bracelet shining brilliantly from every angle. Text: “MADE TO SHINE Forever.”
-
-8-10 sec: Close-up of the woman’s hands holding a white coffee cup. The Rolex Mini Twotone is clearly visible on her wrist. Soft natural light, elegant and sophisticated mood. Text: “BEYOND TIME A STATEMENT”.
-
-10-12 sec: The watch lies on luxurious golden satin fabric. Soft light glides across the dial and bracelet. Text: “FOR EVERY MOMENT”.
-
-12-14 sec: Clean black background. Gold Rolex crown logo appears, followed by elegant gold text: “ROLEX MINI TWOTONE” and “Timeless elegance. Crafted for you.”
-
-14-15 sec: Final end frame on black background with floating golden particles. Large gold Rolex crown logo and text: “ROLEX – LIVE TIME. LOVE ROLEX.”
-
-Overall style: Luxury watch commercial, soft cinematic lighting, slow elegant camera moves, high detail, photorealistic, premium and sophisticated atmosphere.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094641380606017536/img/ezxVXj1IjTsmaHMb.jpg" width="600" alt="Rolex Watch Luxury Commercial">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10205)**
-
-**Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2094641418174361694) | **Published:** Sep 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -3516,6 +3505,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-12T03:40:19.940Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-12T08:44:33.566Z</sub>
 
 </div>
