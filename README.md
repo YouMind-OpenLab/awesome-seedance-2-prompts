@@ -5083,3 +5083,7 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 <sub>🤖 This README is automatically generated. Last updated: 2026-09-17T03:54:42.749Z</sub>
 
 </div>
+
+## 📚 Resources
+
+- [MiniMax H3 1K prompt dataset](https://neta.art/use-cases/en/h3-1000-prompt-list) - Curated 1K text-to-video prompts: 3-field structure anatomy, 10 reusable prompts, H3 vs. peer comparison.
