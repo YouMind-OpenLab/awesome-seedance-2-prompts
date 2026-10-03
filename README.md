@@ -5929,6 +5929,7 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 </div>
 
 ---
+- [Soutine Seedance Prompt Library](https://soutine.ai/seedance-prompts) - Free Seedance prompts with real clip previews (copy-ready)
 
 
 ## 🤝 How to Contribute
