@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6495** |
+| 📝 Gesamtanzahl Prompts | **6504** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-10-05** |
 
@@ -361,6 +361,849 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Cyberpunk-Frau in Neon-Gasse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung einer ultrarealistischen Cyberpunk-Szene, die eine junge Frau zeigt, wie sie durch eine neonbeleuchtete Gasse geht. Der Fokus liegt auf Modedetails, Beleuchtung und Kameraparametern.
+
+#### 📝 Prompt
+
+```
+Ultrarealistische cineastische Cyberpunk-Szene einer entschlossenen jungen Frau, die selbstbewusst durch eine dunkle, neonbeleuchtete Stadtgasse bei Nacht geht. Sie hat langes dunkles Haar, einen intensiven Ausdruck und trägt eine futuristische weiße oversized Jacke über einem roten Crop-Top, schwarze taktische Hosen, Handschuhe und Utility-Zubehör. Nasse Straßen reflektieren rotes und warmes Stadtlicht, atmosphärischer Nebel, leuchtende Schilder, dramatische Schatten, geringe Schärfentiefe, cineastisches Bokeh, dynamische Kamerabewegung, realistische Haut- und Stofftexturen, hohe Detailtreue, stimmungsvolle Actionfilm-Atmosphäre, 85mm Objektiv, f/1.4, HDR, 8K, fotorealistisch, vertikale 9:16 Komposition.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106972520972947456/img/0SDQbYzRuv36V6Vl.jpg" width="600" alt="Cyberpunk-Frau in Neon-Gasse">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11918)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2106972552119963744) | **Veröffentlicht:** Oct 5, 2026
+
+---
+### Seedance Video-Prompt für eine komödiantische Hochzeitsgeschichte
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Prompt zur Videogenerierung mit Seedance für eine 15-sekündige Komödiengeschichte über eine Frau, die ihren Freund bittet, sich die Haare grün zu färben, falls er ihrer zukünftigen Hochzeit mit einem anderen beiwohnt. Der Prompt enthält Anweisungen zur Charakterkonsistenz, Szenenübergänge, Kamerabewegungen und spezifische Dialoge.
+
+#### 📝 Prompt
+
+```
+15 Sekunden, 16:9 horizontales Seitenverhältnis, realistische Live-Action-Textur, modernes chinesisches Stadtumfeld. Die erste Hälfte zeigt ein natürliches und intimes Gespräch zwischen einem Paar; die zweite Hälfte schneidet hart auf eine westlich anmutende Hochzeit in einem zukünftigen Hotel. Die Kamera fährt langsam zurück und enthüllt nach und nach männliche Gäste mit unterschiedlichen Haarfarben, was zu einer absurden und peinlichen Comedy-Wendung führt. Die Darstellungen der Charaktere sind dezent gehalten; Umgebung, Haut, Kleidung und Beleuchtung wirken realistisch und natürlich.
+[Charaktere und Kontinuität]
+Die weibliche Hauptfigur ist eine junge erwachsene chinesische Frau @image (31). Die Braut bei der zukünftigen Hochzeit muss dieselbe Frau sein, mit konsistenten Gesichtszügen und Konturen, wobei nur Frisur, Make-up und Kleidung geändert werden.
+Der männliche Hauptdarsteller ist ein junger erwachsener chinesischer Mann, der mit normalem kurzem schwarzem Haar und lässiger Alltagskleidung beginnt. Bei der zukünftigen Hochzeit bleiben seine Gesichtszüge, Gesichtsform, Statur und Haarkontur konsistent, aber er trägt einen maßgeschneiderten Anzug und hat seine Haare offensichtlich grün gefärbt, um die Bitte der Frau vom Anfang zu erfüllen. Er darf aufgrund von Szenen- oder Haarfarbänderungen nicht das Gesicht wechseln.
+Der Bräutigam ist ein anderer erwachsener chinesischer Mann, etwas rundlicher, mit schwarzen Haaren, deutlich anders im Aussehen als der männliche Hauptdarsteller, gekleidet in formelle Bräutigamskleidung.
+Es gibt mehrere erwachsene männliche Gäste am Hochzeitsort, jeder mit roten, blauen, violetten, gelben oder orangefarbenen Haaren, einschließlich eines weiteren Mannes mit grünen Haaren. Ihr Aussehen, ihre Größe, ihre Statur, ihre Frisuren und ihre Anzüge sind alle unterschiedlich. Gefärbte Haare behalten echte Strähnen, Ansätze und Glanz bei und sehen nicht aus wie farbige Perücken oder leuchtend.
+[0–7s: Tägliches Paargespräch]
+Gewöhnlicher Stadtpark oder Wohngebietsvorplatz, Abend, natürliches weiches Licht, leichte Umgebungsgeräusche des Lebens im Hintergrund.
+Das Mädchen und der Junge sitzen nebeneinander auf einer Bank. Verwenden Sie eine mittlere Nahaufnahme von zwei Personen, die ihre Gesichter klar identifiziert. Das Mädchen dreht sich zum Jungen, hält seine Hand, spricht liebevoll, ernst, mit einem Hauch von Koketterie, als ob sie beiläufig etwas Romantisches erwähnt. Der Junge sieht sie tief an.
+Das Mädchen sagt vollständig und deutlich:
+"Schatz, wenn derjenige, der mich heiratet, nicht du bist, dann musst du dir die Haare grün färben, um meiner Hochzeit beizuwohnen, damit ich dich auf einen Blick erkennen kann."
+Gesprochen in einem natürlichen, leicht schnellen, kohärenten alltäglichen Tempo, nicht absichtlich gedehnt, keine verschluckten Wörter, keine mechanische Beschleunigung. Während das Mädchen spricht, sieht der Junge sie an und hört zu, zeigt ein schwaches Lächeln, das sowohl gerührt als auch verwirrt wirkt, ohne eine Antwort hinzuzufügen.
+Kontinuierliche Darstellung beibehalten, das Gesicht des männlichen Hauptdarstellers klar etablieren. Das Mädchen grinst nicht vorzeitig, zwinkert nicht in die Kamera, deutet die spätere Wendung nicht an.
+[7–9s: Hartes Schneiden zur zukünftigen Hochzeit, erst dasselbe Gesicht sehen, dann grüne Haare]
+Sobald das Mädchen das letzte Wort "du" beendet hat, sofort hart auf die Hotelszene der Hochzeit schneiden. Umgebungsgeräusche wechseln synchron von Outdoor-Lebensgeräuschen zu Applaus und verschwommenen Stimmen im Ballsaal.
+Schneiden auf eine frontale Nahaufnahme desselben Gesichts des männlichen Hauptdarstellers. Der obere Rand des ersten Bildes ist unterhalb des Haaransatzes beschnitten, verdeckt vorübergehend das Haar und lässt das Publikum ihn als den Jungen von gerade eben erkennen.
+Er sitzt auf den Hochzeitsgastplätzen, trägt einen Anzug, mit einem leicht angespannten Ausdruck, trägt komplexe Erwartungshaltung, Augen auf den Eingangsgang gerichtet.
+Die Kamera bewegt sich dann langsam und stetig rückwärts und enthüllt allmählich seinen ganzen Kopf – er hat grüne Haare.
+Die grüne Farbe wird vom Publikum in diesem Moment zum ersten Mal gesehen. Er war bereits seit dem Betreten der Hochzeitsaufnahme grünhaarig, es erscheint kein Vor-Ort-Farbwechsel-Effekt.
+[9–12s: Einzug von Braut und Bräutigam, andere Haarfarben erscheinen allmählich]
+Die Kamera bewegt sich weiter rückwärts, erweitert von Nahaufnahme auf mittlere Einstellung, nimmt leichte horizontale Anpassungen vor, um den grünhaarigen männlichen Hauptdarsteller auf einer Seite des Bildes zu halten, und enthüllt allmählich den zentralen Hochzeitsgang.
+Die Szene ist ein echter Hotel-Ballsaal, der für eine westliche Hochzeit arrangiert wurde, mit hellen Blumenarrangements, weißen oder beigen Stühlen, warmen Deckenleuchten und einem Teppichgang. Die Beleuchtung hat klare Quellen, das Hochzeitskleid behält Stoffdetails bei, keine traumhaften Märchenland-Effekte.
+Im Hintergrundgang trägt das Mädchen vom Anfang ein Hochzeitskleid, hält Arm in Arm mit dem etwas rundlichen Bräutigam, tritt langsam ein. Das Aussehen und die Statur des Bräutigams unterscheiden sich deutlich vom grünhaarigen männlichen Hauptdarsteller.
+Der männliche Hauptdarsteller sah ursprünglich die Braut an, hielt kaum ein schwaches Lächeln aufrecht. Als die Kamera zurückfährt, betreten nacheinander ein männlicher Gast mit roten Haaren und ein männlicher Gast mit blauen Haaren den Rahmen neben ihm.
+Er wirft versehentlich einen Blick auf den rothaarigen Mann neben ihm, sein Lächeln pausiert leicht, dann sieht er den grünhaarigen Mann auf der anderen Seite, hebt leicht die Augenbrauen, beginnt zu ahnen, dass etwas nicht stimmt.
+[12–15s: Enthüllung weiterer Männer mit farbigen Haaren, männlicher Hauptdarsteller schaut überrascht umher]
+Die Kamera fährt weiterhin auf derselben Trajektorie rückwärts, erweitert auf eine breitere Ansicht, die den männlichen Hauptdarsteller, umgebende Reihen von Gästen und den Hochzeitsgang enthält. Der Hochzeitsabschnitt bleibt kontinuierlich, keine weiteren Schnitte.
+Weitere männliche Gäste mit unterschiedlichen Haarfarben treten allmählich in den Rahmen: violett, gelb, orange und ein weiterer rothaariger Mann, der sich im Aussehen, in der Statur und in der Frisur vom männlichen Hauptdarsteller unterscheidet.
+Inklusive des männlichen Hauptdarstellers sitzen etwa sechs bis acht Männer mit farbigen Haaren verstreut in angrenzenden Reihen, abwechselnd mit gewöhnlichen schwarzhaarigen Gästen. Nicht alle Gäste haben gefärbte Haare, noch bilden sie eine ordentliche Regenbogenlinie.
+Sie sind alle unterschiedlich: einige dünn, einige kräftig, einige etwas rundlich; einige Kurzhaarschnitte, einige seitlich gescheiteltes kurzes Haar, einige leicht lockig. Anzüge sind schwarz, dunkelblau, grau, braun, mit offensichtlichen Unterschieden in Passform, Krawatten und Hemdkombinationen, sehen aus wie unabhängig eingeladene echte Hochzeitsgäste.
+Diese Leute saßen seit Beginn der Hochzeitsaufnahme auf ihren ursprünglichen Plätzen, waren nur durch die anfängliche enge Komposition verdeckt, werden sichtbar, wenn die Kamera rückwärts fährt, können nicht aus dem Nichts auftauchen oder plötzlich ihre Haare färben.
+Der männliche Hauptdarsteller schaut zuerst nach links, dann nach rechts, schließlich dreht er sich leicht diagonal nach hinten, entdeckt einen weiteren grünhaarigen Mann. Sein Ausdruck wechselt von Verwirrung zu Überraschung und Verlegenheit, Lippen leicht geöffnet, als ob er endlich erkennt, dass er möglicherweise nicht der Einzige ist, der ein solches Versprechen erhalten hat.
+Andere Männer mit farbigen Haaren schauen hauptsächlich weiter der Hochzeit zu, einige könnten kurz Blickkontakt mit ihm aufnehmen, drehen nicht kollektiv die Köpfe oder reagieren synchron.
+Das Ende bewahrt gleichzeitig den überraschten Blick des männlichen Hauptdarstellers umher, umgebende Männer mit unterschiedlichen Haarfarben und die fortgesetzte Ankunft von Braut und Bräutigam im Hintergrund. Der Bildschirm endet natürlich, kein zusätzlicher Dialog zur Erklärung der Pointe.
+[Kamerakunst, Darstellung und realistische Atmosphäre]
+Der Anfang verwendet natürliches Tageslicht, die Hochzeit verwendet warmes Innenraum-Hotel-Licht. Hauttöne sind normal, behalten Hauttextur bei, Anzüge haben echte Falten, das Hochzeitskleid hat Gewicht, gefärbte Haare haben natürliche helle und dunkle Schichten.
+Die erste Hälfte fühlt sich an wie ein echtes Paar, das locker plaudert, die zweite Hälfte fühlt sich an wie eine peinliche Entdeckung, die bei einer echten Hochzeitszeremonie passiert. Der männliche Hauptdarsteller drückt Emotionen durch Blickkontakt, Mikroexpressionen und Umschauen aus, keine cartoonartigen weit aufgerissenen Augen, Mundöffnungen oder Gesichtsbedeckungen.
+Der Rückwärtsfahrt der Hochzeit nutzt tatsächliche Kamerarückwärtsbewegung, gleichmäßige Geschwindigkeit, Gastpositionen im Voraus angeordnet, sodass verschiedene Haarfarben nacheinander in den Rahmen eintreten. Nach dem Zurückfahren allmählich die Tiefenschärfe erhöhen, sicherstellen, dass die Beziehung zwischen dem männlichen Hauptdarsteller, den Gästen mit farbigen Haaren und den Neuvermählten im Hintergrund erkennbar ist, niemals umgebende Charaktere zu Farbklumpen verschwimmen lassen.
+Keine Retro-DV-Qualität, übertriebenes Zittern der Hände, Fischaugenobjektiv, plötzlicher Zoom, schnelle Umlaufbahn, Zeitlupe, plastische Haut oder schwere Filter.
+[Ton]
+Der Anfang behält den Dialog des Mädchens und leichte Outdoor-Lebensgeräusche bei. Nach dem harten Schnitt treten natürlicher Applaus, Rascheln von Stoff, Knarren von Stühlen und verschwommene Gespräche im Hotel-Ballsaal auf.
+Dialog passt genau zu den Lippenbewegungen des Mädchens, der männliche Hauptdarsteller spricht nicht für sie oder unterbricht sie. Kein klarer Dialog im Hochzeitsabschnitt hinzugefügt.
+Keine Erzählung, keine Hintergrundmusik.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106953873076486145/img/IOpYXcKBoJQlAILi.jpg" width="600" alt="Seedance Video-Prompt für eine komödiantische Hochzeitsgeschichte">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11920)**
+
+**Autor:** [探路AI](https://x.com/TanLuAI) | **Quelle:** [Link](https://x.com/TanLuAI/status/2106955448352231762) | **Veröffentlicht:** Oct 5, 2026
+
+---
+### Cinematic Tiger Warrior Action Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Video-Generierung für eine actionreiche cineastische Sequenz mit einem anthropomorphen Tiger-Krieger, der in einer zerstörten Stadt mit Spezialeffekten kämpft.
+
+#### 📝 Prompt
+
+```
+Erstelle eine cineastische 14,6-sekündige Action-Szene mit einem kraftvollen anthropomorphen orangefarbenen Tiger-Krieger in einer zerstörten Stadt, umgeben von Rauch, Feuer und einstürzenden Gebäuden. Der Tiger stellt sich im ersten Shot aggressiv einem Gegner gegenüber, springt dann plötzlich mit dynamischen Kampfsportbewegungen hoch in die Luft, während die Kamera den Sprung dramatisch verfolgt. Schnitt auf ein intensives Close-up des realistischen Gesichts des Tigers, fokussiert auf scharfe Augen, detailliertes orangefarbenes Fell, Schnurrhaare und einen wilden Ausdruck. Zeige den Tiger, wie er den Kampf gegen einen menschenähnlichen Gegner mit schnellen Schlägen und Tritten fortsetzt, wobei das konsistente Aussehen und die Anatomie des Charakters beibehalten werden. Ein starker blauer Energie-Impact erscheint während des Angriffs, gefolgt von einer riesigen feurigen Explosion in der Ruinenstadt. Zeige Flammen, fliegende Trümmer, dicken Rauch, Funken und realistische Zerstörung, die sich über die Umgebung ausbreitet. Der Tiger landet selbstbewusst im Vordergrund, während die brennenden Ruinen dahinter leuchten und eine dramatische heroische Silhouette erzeugen. Verwende durchgehend sanfte cineastische Kamerabewegungen, realistische Physik, dramatische Beleuchtung, detaillierte Texturen, starke Action-Choreografie und hochwertige 3D-Animation, ohne Text, Wasserzeichen oder Verzerrungen der Charaktere.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106938524784328704/img/pXh4xaDoupeUx4Bw.jpg" width="600" alt="Cinematic Tiger Warrior Action Scene">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11914)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2106938584431526162) | **Veröffentlicht:** Oct 5, 2026
+
+---
+### Epischer Kinotrailer-Stil Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung eines epischen Videos im Stil eines Kinotrailers unter Verwendung eines Referenzbildes, der hyperdetaillierte Rendering-Techniken, Unreal Engine 5 Ästhetik und spezifische Negativ-Kriterien zur Qualitätskontrolle betont.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie Referenzbild 1, um ein episches Kino-Video zu erstellen.
+: Epische Kinotrailer-Ästhetik, Realfilm-Stil, IMAX, 16K, hyperdetailliertes Rendering, vollformatige dynamische Partikeleffekte, Unreal Engine 5, Raytracing, explosive Details. Stil-Anforderungen: Ästhetische Schönheit, pathologische Schönheit, grandiose Wucht, dekadente Schönheit, fragmentierte Schönheit, tragische Erhabenheit mit Melancholie. [Einschränkungen & Negativ-Prompts] Niedrige Sättigung, kühles Grau + Bernstein-Akzent, physikalisch basierte flüssige Bewegung. Negativ: Geringe Qualität, Ruckeln, Gesichts-/Körperverzerrung, überbelichtet, übermäßiges Blut, steife Bewegung, Wasserzeichen, T-Pose, helle Farbpalette, grelle VFX, starre Kamera, fehlende Geschwindigkeit/Unscharfzeichnung, schwache Kill-Szenen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106923772372738048/img/p-_o3Q13K4Hbb2lw.jpg" width="600" alt="Epischer Kinotrailer-Stil Video">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11915)**
+
+**Autor:** [Zidan 子丹](https://x.com/liluocheng13) | **Quelle:** [Link](https://x.com/liluocheng13/status/2106923884931166241) | **Veröffentlicht:** Oct 5, 2026
+
+---
+### Urbanes Skateboarding in Hochgeschwindigkeit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein einfacher 'fauler' Prompt zur Generierung eines hochdynamischen Skateboard-Videos durch eine belebte Stadtstraße mit realistischer Bewegungsunschärfe und Handkamera-Gefühl.
+
+#### 📝 Prompt
+
+```
+Ein Mädchen, das mit hoher Geschwindigkeit durch eine belebte Stadtstraße skatet, Menschen ausweicht, über kleine Hindernisse springt, an Autos und Fahrrädern vorbeifährt, schnelle Schnitte, Bewegungsunschärfe, Handkamera-Feeling, energetische Atmosphäre, realistische Umgebung, hohe Detailtreue.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106921938576883712/img/9S6CRhiy0KGRQiZh.jpg" width="600" alt="Urbanes Skateboarding in Hochgeschwindigkeit">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11917)**
+
+**Autor:** [Zidan 子丹](https://x.com/liluocheng13) | **Quelle:** [Link](https://x.com/liluocheng13/status/2106922065240731732) | **Veröffentlicht:** Oct 5, 2026
+
+---
+### Weltraumstadt: Asteroiden-Verteidigung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt für einen 15-sekündigen cineastischen Sci-Fi-Kurzfilm über eine bewegliche Weltraumstadt, die Asteroiden zu einem Schutzschild gegen eine feindliche Flotte umlenkt.
+
+#### 📝 Prompt
+
+```
+15-sekündiger cineastischer fotorealistischer Science-Fiction-Action-Kurzfilm, 16:9.
+Eine gigantische futuristische Stadt reist durch den tiefen Weltraum inmitten eines enormen Asteroidensturms.
+Tausende von Raumschiffen fliegen neben ihr und lenken die Asteroiden aktiv in einen sich ständig bewegenden Verteidigungsschild.
+Plötzlich greift eine feindliche Flotte an.
+Hunderte von Jägern tauchen in das Asteroidenfeld ein.
+Die Stadt beschleunigt.
+Asteroiden prallen auf angreifende Schiffe.
+Verteidigungsraumschiffe rasen zwischen riesigen Felsbrocken hindurch und drücken sie in neue Flugbahnen.
+Ein massives feindliches Kriegsschiff bricht durch den Asteroidenschild und feuert direkt auf die Stadt.
+Die gesamte Stadt ändert plötzlich ihre Richtung.
+Das Asteroidenfeld bewegt sich mit ihr.
+Millionen von Felsen schwenken wie ein gigantisches mechanisches Organismus um die Stadt in Formation.
+Das angreifende Kriegsschiff erkennt zu spät, dass das Asteroidenfeld selbst die Waffe der Stadt ist.
+Eine kolossale Explosion füllt den Bildschirm.
+Ende mit der Stadt, die im beweglichen Sturm verschwindet.
+
+Fotorealistische harte Science-Fiction, spektakuläre Asteroidenumgebungen, gnadenloser Kampf, massive bewegliche Strukturen, schnelle Kamerabewegungen, detaillierte Raumschiffe, enorme Maßstäbe, cineastische Action, kein Text, keine Logos, kein Anime, kein Cartoon.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106842175623344128/img/8HYLYow99mg-lBVf.jpg" width="600" alt="Weltraumstadt: Asteroiden-Verteidigung">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11919)**
+
+**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Quelle:** [Link](https://x.com/AllaAisling/status/2106852107114418554) | **Veröffentlicht:** Oct 4, 2026
+
+---
+### Seedance 2.0 Mini Kinematografischer Eskorten-Kampf-Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Prompt zur Generierung eines 15-sekündigen kinematografischen Videos mit Seedance 2.0 Mini, der eine mobile Eskorten-Schlacht in einem antiken chinesischen Xianxia-Setting darstellt, mit strikter Verankerung von Charakteren und Orten basierend auf Referenzbildern.
+
+#### 📝 Prompt
+
+```
+Kinematografische fotorealistische Textur, reiner antiker chinesischer Xianxia-Actionfilm, 15 Sekunden, 16:9, Seedance 2.0 Mini.
+Diese Runde ist kein stationäres Duell und wiederholt auch nicht das alte Muster "Wechsel zu einer neuen Waffe → Protagonist studiert → Konter → Schwert stoppt am Hals".
+Das zentrale Aktionsmotiv ist:
+Eine mobile Eskorten-Schlacht, die auf der echten hochgelegenen kaiserlichen Straße stattfindet, wie sie im aktuellen Referenzbild gezeigt wird.
+Dieselbe Senior Sister (Ältere Schwester) und Junior Sister (Jüngere Schwester) müssen kontinuierlich vorrücken, während sie den verletzten Meister, die Schüler und die evakuierenden Zivilisten hinter sich schützen.
+Das eigentliche Ziel der Feinde ist nicht unbedingt, die beiden Protagonisten zu besiegen.
+Was sie tun wollen, ist:
+Die Verteidigungslinie der beiden Protagonisten zu durchbrechen;
+In die evakuierende Menge einzudringen;
+Den Weg für das weitere Vorrücken zu versperren.
+Daher ist der Kern dieser gesamten Schlacht:
+**Die Blockade vorne brechen
+Verfolger hinten blockieren
+Die beiden Protagonisten tauschen ständig ihre vorderen und hinteren Positionen
+Immer wieder den Weg freimachen.**
+Aktionen streben nach Seidigkeit, dürfen aber niemals weich sein.
+Seidigkeit bedeutet:
+Die vorherige Aktion führt natürlich zur nächsten;
+Charaktere sind immer in Bewegung;
+Angriff und Verteidigung setzen nie auf null zurück;
+Waffenausrichtung und Charakterrundung sind immer verständlich;
+Nach Schnitten weiß man noch, wer vorne, wer hinten ist und wer von wo angreift.
+Kraft entsteht aus:
+Plötzlichem Start;
+Offensichtlicher Beschleunigung;
+Echten Kollisionen;
+Schwerpunktverschiebungen;
+Kraftausgleichen;
+Ungleichgewicht;
+Trägheit;
+Gegen-Griffen;
+Harten Stopps;
+Sofortigem Neustart.
+Verbot von weicher, tanzender Schwertkunst.
+Verbot des Zurücksetzens der Pose nach einem Schlag.
+Feinde müssen echtes Urteilsvermögen haben.
+Nachdem die erste Strategie gescheitert ist, müssen sie Ziele wechseln, Angriffswege ändern, verfolgen, Wege sperren, flankieren oder aktiv die beiden Protagonisten trennen.
+Verbot, dass sich Feinde aufstellen, um Angriffe anzubieten.
+[Core Character Lock]
+Strikt nur @Image 1 und @Image 2 als die zwei Kern-Protagonisten zusammen mit ihren jeweiligen Hauptwaffen fixieren.
+@Image 1 ist immer dieselbe Sword Immortal Senior Sister wie zuvor:
+Identität als erwachsene ostasiatische Frau;
+25–30 Jahre alt;
+Dasselbe Gesicht;
+Schwarze lange Haare halb gebunden;
+Weiße Jade-Haarnadel;
+Große und schlanke Proportionen;
+Weiße bestickte Seiden-Hanfu;
+Halbtransparente geschichtete weite Ärmel;
+Silberner Taillengurt;
+Jade-Anhänger;
+Weiße Stoffstiefel;
+Das einzige silberne Geradschwert im gesamten Film.
+@Image 2 ist immer dieselbe Junior Sister wie zuvor:
+Identität als erwachsene ostasiatische Frau;
+20–25 Jahre alt;
+Dasselbe Gesicht;
+Schwarzes geflochtenes Haar;
+Zierliche Proportionen;
+Cyan-grüne Leinen-Hanfu;
+Dunkler Gürtel;
+Holz-Haarnadel;
+Schwarze Stoffschuhe;
+Das einzige dunkle Stahlschwert im gesamten Film.
+Feinde, Meister, Schüler, Zivilisten und Zuschauer sind lediglich funktionale Nebenfiguren.
+Verschwenden Sie keine Generierungs-Aufmerksamkeit damit, Gesichter, Frisuren und komplexe Kleidung der Nebenfiguren strikt zu fixieren.
+Stellen Sie einfach sicher, dass Charaktertypen, Positionen, Waffen und Aktionsfunktionen innerhalb des Shots logisch kontinuierlich bleiben.
+[Round-Specific Scene Hard Anchor | Highest Priority]
+Der hochgeladene Hintergrund-Referenz für diese Runde zeigt bereits einen vollständigen, sehr erkennbaren Ort.
+Daher geht diese Runde direkt über in:
+HARD LOCATION ANCHOR (Feste Ortsverankerung).
+Das Referenzbild ist keine Stil-Inspiration.
+Das gesamte Video muss tatsächlich auf derselben hochgelegenen himmlischen Palast-Kaiserstraße stattfinden, die im Referenzbild gezeigt wird.
+Verbot, es in einen "ähnlichen Xianxia-Ort" umzugestalten.
+Muss kontinuierlich folgende Ortsidentitäten beibehalten:
+Die zentrale Achse des Bildes enthält immer dieselbe extrem lange, gerade, blassweiße hochgelegene Kaiserstraße, die vom Vordergrund zum fernen Zentrum reicht.
+Die Kaiserstraße behält immer eine offensichtliche enge Tiefe; Charaktere bewegen sich primär entlang der Vor-Zurück-Richtung; Verbot, sie in eine kreisförmige Arena, einen riesigen Innenhof oder eine breite Plaza zu erweitern.
+Die linken und rechten Seiten der Kaiserstraße behalten immer denselben massiven hochgelegenen Abgrund, die milchig weiße Wolkenmeer und kontinuierliche große Wasserfälle bei.
+Im Mittelgrund links und rechts befinden sich weiterhin dieselbe Gruppe riesiger traditioneller Paläste, die ursprüngliche Links-Rechts-Positionen, Volumen und räumliche Beziehung zur Kaiserstraße beibehalten.
+Im linken Vordergrund bleibt weiterhin dasselbe extrem prominente große dunkle Ausleger-Holzkonstruktionsgebäude erhalten; dichte Holzstrukturen dürfen nicht verschwinden oder zu gewöhnlichen kleinen Gebäuden schrumpfen.
+Unterhalb der Kaiserstraße und unter dem Nebel bleibt weiterhin dieselbe Skala an dichter alter Stadt erhalten.
+Im fernsten Zentrum befindet sich weiterhin derselbe riesige Bergkörper / Superstruktur.
+Im fernen Zentrum bleibt weiterhin derselbe riesige ringförmige Tor-/Ringbau erhalten.
+Charaktere sind immer viel kleiner als die Kaiserstraße, Paläste, Wasserfälle, die darunterliegende Stadt und die fernen Superstrukturen.
+Beibehaltung desselben hellen kühlweiß-grauen, blassen warmgoldenen, niedriggesättigten Tages-/Morgenlichts, milchig weißen Luftnebel und riesiger Tiefe wie im Original-Referenzbild.
+Der ferne riesige Ring muss immer sehr weit weg bleiben.
+Verbot, ihn plötzlich näher zu ziehen, um ein gewöhnliches Bergtor zu werden.
+Verbot, die aktuelle Kaiserstraße neu zu generieren als:
+Kreisförmige Arena;
+Gewöhnlicher Innenhof;
+Breite Plaza;
+Andere Wolkenbrücke;
+Neue schwebende Plattform;
+Neues Bergtor;
+Neue schwebende Insel;
+Neue Klippe;
+Neuer Palasteingang;
+Neue große Treppe.
+Verbot, die Kaiserstraße plötzlich für bequemen Kampf zu verbreitern.
+Verbot, Tag in Nacht zu verwandeln.
+Verbot, das aktuelle weiche Wetter durch stürmische dunkle Wolken zu ersetzen.
+Alle Aktionen und Kameras müssen sich an die aktuelle echte Kaiserstraße anpassen.
+Verbot, die Szene zugunsten der Aktion umzugestalten.
+[Background Dynamics | Must be alive, but default non-participatory in plot]
+Szene bewegt sich kontinuierlich natürlich.
+Ferne Wolken bewegen sich langsam.
+Riesige Wasserfälle fallen kontinuierlich realistisch nach unten.
+Wasserdunst am Fuß der Wasserfälle wirbelt kontinuierlich und verschmilzt mit dem bestehenden Wolkenmeer.
+Wolken- und Nebelschichten in verschiedenen Entfernungen behalten leicht unterschiedliche Geschwindigkeiten bei, was realistische Parallaxe erzeugt.
+Hochgelegener natürlicher Wind beeinflusst kontinuierlich das schwarze Haar, die weiten Ärmel, den Saum, die Quasten und Accessoires der beiden Protagonisten.
+Dünner Nebel zwischen der fernen alten Stadt und den Palästen bewegt sich kontinuierlich langsam.
+Atmosphärische Perspektive erzeugt kontinuierlich subtile Änderungen.
+Einige ferne Figuren können sich natürlich in Bereichen bewegen, die bereits im Referenzbild existieren.
+Jedoch:
+Die Umgebung ist erzählerisch standardmäßig neutral.
+Wasserfälle können niemandem plötzlich helfen.
+Nebel kann Feinde nicht aktiv verdecken.
+Wind kann Schwertpfade nicht ändern.
+Gebäude können nicht von selbst einstürzen.
+Die Kaiserstraße kann nicht brechen.
+Der ferne Ring kann nicht plötzlich Zauber aktivieren.
+Die Umgebung kann den Kampf nicht aktiv lösen.
+Nur wenn Charaktere wirklich treten, hart stoppen oder mit Waffen kollidieren, erlauben Sie leichten Steinstaub, Kratzer, Metallfunken, Stoffverdrängung und Sohlenreibungsreste.
+Bereits erscheinende offensichtliche Spuren sollten vernünftigerweise bestehen bleiben.
+[0–5s | Hook: Cannot Retreat]
+0.0–1.0s.
+Verwenden Sie 24mm Ultraweitwinkel-Zentralachse-Grand-Panorama.
+Reproduzieren Sie zuerst den Ort; Orts-Priorität ist höher als komplexe Aktion.
+Der erste Blick muss bestätigen:
+Dieselbe lange weiße Kaiserstraße;
+Dieselben riesigen Wasserfälle links und rechts;
+Dieselben großen Paläste links und rechts;
+Dasselbe große Holzkonstruktionsgebäude links;
+Dieselbe alte Stadt darunter;
+Derselbe riesige ferne Ring.
+Die beiden Protagonisten behalten kleine Skala innerhalb der riesigen Umgebung bei.
+Senior Sister ist vorne.
+Junior Sister ist einen halben Schritt dahinter.
+Weiter hinten in Abstand setzt ein verletzter älterer Meister, mehrere Schüler und einige Zivilisten fort, entlang derselben Kaiserstraße vorzurücken.
+Zwei feindliche Schwertkämpfer blockieren den Weg voraus.
+Der führende Feind blockiert den effektiven Durchgangsbereich mit einem horizontalen Schwert:
+"Wenn du sie beschützt, kommst du nicht durch."
+Senior Sister hält überhaupt nicht an:
+"Wer hat gesagt, dass wir uns zurückziehen?"
+Sobald das letzte Wort fällt.
+Startet der Feind ohne Warnung.
+Die Kamera wechselt sofort von festem Grand Panorama zu ca. 32–35mm Tracking Shot, das entlang der Kaiserstraßenachse zurückweicht.
+Der erste Feind ergreift schnell Senior Sisters Mittellinie.
+Senior Sister zieht sich niemals rückwärts zurück.
+Bis zum letzten Moment verschiebt sie sich nur diagonal um eine halbe Körperbreite und verwendet dasselbe silberne Geradschwert, um eine kurze, harte, echte Kollision abzuschließen, die das Feindschwert aus der zentralen Achse der Kaiserstraße drückt.
+Kein Folgeschlag.
+Keine Pose.
+Sie setzt sofort weiter vorwärts vorbei an der Schulter des Feindes.
+Fast gleichzeitig.
+Der zweite Feind schneidet von der entgegengesetzten Richtung auf Junior Sister zu, versucht, sie zu umgehen, um die Menge dahinter anzugreifen.
+Junior Sister verfolgt Feinde nicht wild.
+Sie stürzt direkt in die Position zwischen dem Feind und der evakuierenden Menge, ändert nur kurz die Angriffslinie des Gegners mit dem dunklen Stahlschwert und setzt dann weiter vorwärts.
+Ein Feind passiert schnell nahe der Kamera, der Körper füllt sofort den Bildschirm, bildet den ersten natürlichen versteckten Schnitt.
+Bis Ende der 0–5 Sekunden muss das Publikum klar verstehen:
+Sie bleiben nicht, um zu gewinnen.
+Sie erobern den Weg zurück.
+[5–10s | Upgrade: Enemies Start Attacking True Targets]
+Behalten Sie völlig identische Kaiserstraße, linke/rechte Paläste, Wasserfälle, fernen Ring und Weltskala bei.
+Verwenden Sie ca. 35mm Medium Shot Tracking, das sich entlang der Brückenachse bewegt.
+Nachdem der erste Angriff gescheitert ist, müssen Feinde proaktiv die Strategie ändern.
+Der Feindführer besteht nicht mehr darauf, Senior Sister im Kopf-an-Kopf-Duell zu besiegen.
+Er wechselt plötzlich das Ziel, versucht aktiv, Senior Sister zu umgehen, schneidet zwischen Junior Sister und die evakuierende Menge.
+Ein anderer Feind drängt gleichzeitig Senior Sister von der entgegengesetzten Seite, versucht, die beiden Protagonisten wirklich zu trennen.
+Aktionen bilden eine kontinuierliche Kausalkette:
+Horizontaler Hieb des Feindes zwingt Senior Sister, kurz von der Kaiserstraßen-Mittellinie abzuweichen;
+Senior Sister führt nur eine kurze Kraftfreigabe aus, keine Fortsetzung des Verwickelns;
+Die bereits investierte Aufprall-Trägheit des Feindes lässt seinen Körper leicht über die optimale Angriffsposition hinausschießen;
+Junior Sister setzt weiter vorwärts.
+Der führende Feind schneidet plötzlich diagonal von Junior Sisters rechter Front.
+Junior Sister fängt den ersten Schlag.
+Der Feind pausiert nicht, ändert sofort zu einem zweiten Tiefpositionsangriff.
+Junior Sister wird gezwungen, einen halben Schritt zur Kaiserstraßen-Mittellinie hin zu schrumpfen.
+Genau in dem Moment, in dem der Feind urteilt, dass sie abgeschnitten wurde ——
+Stürzt Senior Sister plötzlich schnell von hinter Junior Sister auf die andere Seite.
+Die beiden schließen den ersten extrem schnellen Vorder-Hinter-Positionswechsel ab.
+Keine Doppelrotation.
+Keine synchronisierte Pose.
+Sondern ein kompakter Schulterkreuzungs-Positionswechsel unter Beibehaltung der Vorwärtsbewegung.
+Senior Sister übernimmt direkt den Feind, der ursprünglich Junior Sister bedrängte.
+Junior Sister setzt weiter vorwärts entlang des halb geöffneten Pfades, wird die neue vordere Position.
+Die Kamera führt nur eine kurze seitliche Bewegung aufgrund des echten Positionswechsels der beiden durch.
+Ein Feindschwert streift an der Linse vorbei, bildet einen natürlichen Okklusionsübergang.
+Verbot von unbegründetem Orbiting.
+An diesem Punkt.
+Kommen schnelle Verfolgungsschritte von hinten.
+Ein funktionaler Verfolger, der ursprünglich weiter zurückfiel, ist angekommen.
+Jemand blockiert den Weg voraus.
+Jemand verfolgt von hinten.
+Die beiden Frauen sind zum ersten Mal wirklich in der gefährlichsten Situation der engen Kaiserstraße gefangen:
+Vorder- und Hinter-Zange.
+[10–15s | Flip: Don't Guard People, Guard the Path]
+Erweitern Sie wieder auf ca. 28–32mm bewegtes Medium Shot.
+Verwenden Sie fast 1 Sekunde, um den aktuellen Raum vollständig zu erklären:
+Junior Sister ist vorne;
+Senior Sister ist etwa eine Körperlänge dahinter;
+Frontaler Feindführer nimmt die Mittellinie wieder ein;
+Hintere Verfolger nähern sich schnell;
+Evakuierender Meister, Schüler und Zivilisten bewegen sich immer noch in sichereren Positionen weiter entfernt.
+Alle bleiben auf derselben echten Kaiserstraße aus dem Referenzbild.
+Verbot, plötzlich auf andere Plattformen zu schneiden.
+Frontale Feinde und hintere Verfolger starten fast gleichzeitig.
+Junior Sister will instinktiv umdrehen.
+Senior Sister sagt nur:
+"Beschütze mich nicht."
+Junior Sister hört auf, umzudrehen.
+Senior Sister folgt sofort mit:
+"Beschütze den Weg."
+Die beiden explodieren fast gleichzeitig.
+Junior Sister dreht sich nicht um, um Senior Sister zu retten.
+Sie setzt weiter vorwärts, verwendet eine kurze und harte dunkle Stahlschwert-Kollision, um die Klingenschneide des frontalalen Feindes gewaltsam aus der zentralen Achse der Kaiserstraße zu drücken.
+Senior Sister behandelt gleichzeitig den hinteren Verfolger.
+Sie gibt absichtlich einen halben Schritt nach, lässt den Feind wirklich in Angriffsreichweite eintreten.
+Genau in dem Moment, in dem die Körperkraft des Gegners investiert wurde, schneidet sie plötzlich diagonal aus der Angriffsachse heraus.
+Die eigene Vorwärts-Trägheit des Verfolgers lässt seinen Körper um eine halbe Körperlänge hinausschießen.
+Senior Sister verfolgt nicht.
+Beschleunigt sofort wieder vorwärts.
+An diesem Punkt hat Junior Sister den frontalalen Feind bereits eine halbe Körperlänge von der Mittellinie weggedrückt.
+Die beiden Protagonisten nähern sich schnell.
+Schulterlinien streifen sich in extrem naher Distanz.
+Schließen den zweiten Vorder-Hinter-Positionswechsel ab.
+Diesmal schauen sie einander überhaupt nicht an.
+Junior Sister fällt natürlich in die hintere Position, übernimmt den Feind, der sich umgedreht hat, um erneut zu verfolgen.
+Senior Sister wird wieder die vordere Position, konfrontiert den führenden Feind, der immer noch den Weg blockiert.
+Ein Feindschwert fegt über den Kameravorgrund, füllt sofort den Bildschirm, bildet den explizitesten Waffen-Okklusions-Hartschnitt des ganzen Films.
+Schnitt zu einer etwas niedrigeren Rückwärts-Kameraposition.
+Senior Sister führt nur eine extrem kurze, extrem wilde Auswärts-Ablenkung mit dem Silber-Schwert durch.
+Der Schwertpfad des Führers wird gründlich aus der zentralen Achse der Kaiserstraße gedrückt.
+Weil sein Körpergewicht bereits vorwärts investiert war, trägt seine eigene Trägheit seinen Körper seitlich um etwa zwei Körperlängen.
+Feinde können nicht von der Brücke fallen.
+Können nicht übertrieben weggeblasen werden.
+Brauchen nicht komplett Kampffähigkeit zu verlieren.
+Nur den Weg öffnen ist genug.
+Senior Sister und Junior Sister halten absolut nicht an, um Todesstöße zu liefern.
+Die beiden gehen direkt zwischen den Feinden hindurch, setzen entlang derselben weißen Kaiserstraße zum fernen riesigen Ring fort.
+Die hintere evakuierende Menge beginnt ebenfalls, entlang des wieder geöffneten Pfades vorzurücken.
+Der Feindführer dreht sich um und schreit wütend:
+"Ihr könnt nicht gewinnen!"
+Nicht auf heroische frontale Nahaufnahmen schneiden.
+Die Kamera folgt weiterhin den beiden Frauen, die von der Seite-hinten vorrücken.
+Junior Sister stellt immer noch ihre Atmung ein:
+"Wir waren nie hier, um zu gewinnen."
+Senior Sister schaut immer auf den Weg voraus:
+"Solange der Weg da ist, reicht das."
+Lassen Sie nur einen extrem kurzen Beat.
+Tiefer unten auf derselben fernen Kaiserstraße beginnen mehrere funktionale Feinde, die ursprünglich in der fernen Figurenschicht existierten, sich langsam auszubreiten, nehmen nächste Runde Wegblockaden-Positionen ein.
+Verbot, sie aus dem Nichts im Nebel zu generieren.
+Verbot, sie plötzlich aus Gebäuden aufzufrischen.
+Sie existierten von Anfang an in der echten Entfernung, enthüllen nur Feindseligkeit durch Bewegung an diesem Punkt.
+Die beiden Protagonisten verlangsamen überhaupt nicht.
+Silber-Schwert und dunkles Stahlschwert behalten natürliche Tiefpositions-Bereitschaft bei.
+Die Kamera weicht weiterhin entlang der Kaiserstraßenachse zurück.
+Schwarzes Haar, Säume, Wasserfälle, Nebel, Wolken, ferne Paläste und die riesige Welt bewegen sich immer natürlich.
+Im Zustand, in dem die beiden immer noch aktiv auf die nächste Gruppe Feinde zugehen:
+Direkter Schnitt zu Schwarz.
+[Camera & Editing]
+Drei narrative Segmente, aber absolut nicht mechanisch gleich drei Shots.
+Der ganze Film verwendet eine kleine Menge echt funktionaler Schnitte.
+Hauptkamera-Routen:
+24mm Zentralachsen-Grand Panorama bestätigt echten Ort → 32–35mm Tracking weicht entlang bestehender Kaiserstraßenachse zurück → Menschlicher Körper passiert Linse bildet versteckten Schnitt → Waffe streift Linse bildet Okklusionsschnitt → Wenn Vorder-Hinter-Zange auftritt, erweitern Sie Shot, um Raum zu erklären → Endlich Seite-hinten folgen kontinuierlich den beiden Protagonisten, die zum fernen Ring vorrücken.
+Alle Schnitte können nur natürlich durch folgende Ereignisse ausgelöst werden:
+Charakter-Okklusion;
+Waffen-Okklusion;
+Echte Waffenkollision;
+Offensichtliche Änderung der Bewegungsrichtung;
+Offensichtliches Körper-Ungleichgewicht;
+Plötzliche Geschwindigkeitsänderung.
+Verbot von mechanischem fragmentarischem Schneiden.
+Verbot, dass die Kamera unruhiger ist als die Aktion.
+Verbot von sinnlosem ORBIT.
+Verbot, Positionen von Kaiserstraße, Palästen, Wasserfällen und fernen Ringen für Kamerabewegung zu ändern.
+Aktion treibt die Kamera.
+Die Kamera kann Szenenverformung nicht treiben.
+[Sound]
+Eröffnung etabliert zuerst:
+Hochgelegener natürlicher Wind;
+Niederfrequentes Grollen riesiger Wasserfälle, die kontinuierlich in der Ferne existieren;
+Schritte auf hellem Stein-Kaiserstraße;
+Extrem ferne alte Stadt Umgebungsgeräuschpegel.
+Nach Kampfausbruch hinzufügen:
+Kurzer scharfer Schwert-Windschnitt;
+Harte, scharfe Metallkollisionen;
+Schuhsohlenreibung;
+Seidenstoff-Zucken;
+Schnelle Schritte von Verfolgern;
+Allmählich schwereres Atmen der Charaktere.
+Wenn Vorder-Hinter-Zange sich formt, senken Sie Musik und breites Umgebungs-Soundfeld temporär.
+Hervorheben:
+Schritte;
+Atmung;
+Waffenausrichtungen.
+Nachdem der Weg wieder geöffnet ist, verblassen Kampfsounds allmählich hinter den Charakteren.
+Finaler Dialog muss klar sein:
+"Wir waren nie hier, um zu gewinnen."
+"Solange der Weg da ist, reicht das."
+Nach Ende des Dialogs:
+Wasserfall;
+Hochgelegener Wind;
+Kontinuierliche vorwärtsschreitende Schritte
+Besetzen das Haupt-Soundfeld wieder.
+Musik darf niemals Aktionsdetails und Dialog übertönen.
+[Seedance 2.0 Mini Generation Priorities]
+P0: Die Ortsidentität des hochgeladenen Hintergrund-Referenzbildes darf absolut nicht ändern.
+P0: Identitätsstabilität von @Image 1 und @Image 2 Kern-Charakteren.
+P1: Zuschreibungs- und Kontinuitätsstabilität von silbernem Geradschwert und dunklem Stahlschwert.
+P1: Klare Vorder-Hinter-räumliche Beziehung auf derselben Kaiserstraße.
+P1: Kontinuierliche Charakter-Vorwärtsrichtung, Feind-Angriffsrichtung und Kameraachse.
+P2: Spezifische Gesichter und komplexe Kleidung von Feinden, Meistern, Schülern und Zivilisten.
+Wenn Modellkomplexität reduziert werden muss:
+Reduzieren Sie zuerst Details der Nebenfiguren;
+Dann reduzieren Sie zusätzliche Angriffsbewegungen;
+Als nächstes reduzieren Sie dekorative visuelle Effekte.
+Absolut nicht opfern:
+Referenzbild-Ortsidentität;
+Kern-Protagonisten-Identität;
+Aktionskausalität;
+Räumliche Kontinuität.
+[Negative Constraints]
+Verbot, die aktuelle hochgelegene Kaiserstraße in eine kreisförmige Arena zu verwandeln. Verbot, in einen gewöhnlichen Innenhof zu ändern. Verbot, in eine breite Plaza zu ändern. Verbot, eine andere Wolkenbrücke hinzuzufügen. Verbot, ein unabhängiges Bergtor hinzuzufügen. Verbot, eine schwebende Insel hinzuzufügen. Verbot, eine Kampfplattform hinzuzufügen. Verbot, linke/rechte riesige Wasserfälle zu löschen. Verbot, linke/rechte große Paläste zu löschen. Verbot, linkes großes Ausleger-Holzkonstruktionsgebäude zu löschen. Verbot, darunterliegende dichte alte Stadt zu löschen. Verbot, fernen riesigen Ringstruktur zu löschen. Verbot, fernen riesigen Ring näher zu ziehen, um ein gewöhnliches Torturm zu werden. Verbot, relative Positionen von fernen Palästen und Mittelgrundgebäuden zu ändern. Verbot, Tag plötzlich in Nacht zu verwandeln. Verbot, stürmische dunkle Wolken durch aktuelles weiches Wetter zu ersetzen. Verbot, Kaiserstraße für Aktion zu verbreitern. Verbot, Kaiserstraßenbreite nach Schnitten zu ändern. Verbot, dass Umgebung aktiv an Handlung teilnimmt. Verbot, plötzliche gebrochene Brücke. Verbot, dass Gebäude von selbst einstürzen. Verbot, dass Nebel Feinde aktiv verdeckt. Verbot, dass Wasserfall plötzlich Angriff ändert. Verbot, dass Wind plötzlich Schwertpfad ändert. Verbot, dass Charaktere ohne Trajektorie teleportieren. Verbot, dass beide Protagonisten Positionen aus dem Nichts tauschen. Verbot von zufälligem großflächigem Schwert-Qi. Verbot von Energie-Wellen-Kollisionen. Verbot von Lichtverschmutzung. Verbot, dass Feinde sich aufstellen, um Angriffe anzubieten. Verbot, dass Feinde lange passiv sind. Verbot von langdauerndem Waffenschieben. Verbot, dass Charaktere nach einer Bewegung anhalten, um zu warten. Verbot von sinnlosen Rotationen. Verbot von sinnlosen Posen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106728656399970304/img/DeUvkEJCnbRcNZ9b.jpg" width="600" alt="Seedance 2.0 Mini Kinematografischer Eskorten-Kampf-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11921)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2106728692986843641) | **Veröffentlicht:** Oct 4, 2026
+
+---
+### Seedance 2.0 Fake Duel Trap Action Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein Prompt zur Generierung einer cineastischen Xianxia-Action-Sequenz, in der zwei Schwertkämpferinnen einen Duell-Vortäuschung inszenieren, um versteckte Attentäter zu entlarven. Der Fokus liegt auf dynamischem Kampfverlauf und strikter Konsistenz von Charakteren und Umgebung.
+
+#### 📝 Prompt
+
+```
+Cineastische fotorealistische Textur, reiner altchinesischer Xianxia-Hochspannungs-Schwertkampf-Film.
+
+Vollständiger Bruch mit bisherigen Mustern:
+
+Waffenwechsel der Seniorin zum Kontern
+Durchbruch auf allen Wegen
+Komplementäre blinde Flecken im Doppel
+
+Kernidee:
+
+Die Seniorin und die Juniorin scheinen sich in einem gefährlichen Duell zu befinden, nutzen es jedoch tatsächlich dazu, lauernde Attentäter zur Enttarnung zu zwingen.
+
+Dreischichtige Erzählziele
+Ebene 1 Hook: Das Publikum glauben lassen, dass sie wirklich kämpfen
+Ebene 2 Twist: Enthüllung, dass sie den Raum durch gegenseitige Schwungimpulse kontrolliert haben
+Endhook: Spannung hinterlassen, dass eine zweite Welle von Feinden noch nicht erschienen ist
+
+Allgemeines Aktionsprinzip
+
+Aktionen müssen flüssig sein, aber niemals weich.
+
+Flüssigkeit
+
+Definiert als:
+Vorherige Aktion erzeugt natürlich die nächste
+
+Bewegungsrichtung setzt sich kontinuierlich fort
+Klare Kausalität zwischen Kamera, Körper und Schwertbahn
+Kraftgefühl
+
+Definiert als:
+Plötzlicher Start
+
+Gewaltsame Berührung
+Kraftablenkung
+Körperliches Ungleichgewicht
+Trägheitsfortsetzung
+Abruptes Stoppen
+Charakter & Waffen-Lock
+
+Nur @image 1 und @image 2 Kerncharaktere und exklusive Waffen werden streng gelockt.
+
+@image 1 | Schwertunsterbliche Seniorin
+
+Die gleiche @image 1 Seniorin behält immer bei:
+
+Gleiches erwachsenes ostasiatisches weibliches Gesicht
+Erscheinungsbild 25–30 Jahre
+
+Langes schwarzes Haar halb gebunden
+Weißer Jade-Haarstab
+Große schlanke Proportionen
+Weiße bestickte Seiden-Hanfu
+Halbdurchsichtige weite Ärmel
+Silberner Hüftgürtel
+Jade-Anhänger
+Weiße Stoffstiefel
+Einzigartiges silbernes gerades Schwert
+@image 2 | Juniorin
+Die gleiche @image 2 Juniorin behält immer bei:
+
+Gleiches erwachsene ostasiatische weibliche Gesicht
+Erscheinungsbild 20–25 Jahre
+
+Geflochtenes schwarzes Haar
+Petite Proportionen
+Blau-grüne Leinen-Hanfu
+Dunkler Gürtel
+Holz-Haarstab
+Schwarze Stoffschuhe
+Einzigartiges dunkles Stahl-Schwert
+Andere Charaktere
+Attentäter, Meister, Schüler, Passanten sind nur funktional, ohne strenge Gesichts-/Kleidungslöcke wie bei den Protagonistinnen.
+
+Rundenszenen-Kontrolle | Höchste Priorität
+Der hochgeladene Hintergrund zeigt deutlich einen vollständigen, sehr erkennbaren Ort. HARD LOCATION ANCHOR Modus aktivieren.
+Referenzbild ist tatsächlicher Handlungsort, keine visuelle Inspiration.
+
+Muss ursprüngliche räumliche Elemente beibehalten
+
+Große Vordergrund-Steinplattform
+
+Kontinuierliche Steingeländer am Rand
+
+Großflächiger Nebel in der Tiefe jenseits der Geländer
+Mittlerer Bereich dichte alte Stadtdächer
+Zentrale Halle
+Entfernter hochgelegener großer Palastkomplex
+Starke Distanzhierarchie zwischen Stadt und fernerem Palast
+Kühl graublauer Himmel und niedriger Nebel
+Warmes Licht vom fernen Palast
+Makroskala: winzige Charaktere, riesige Stadt/Palast
+Wichtige harte Einschränkungen
+Der entfernteste höchste Palast muss immer bleiben:
+Sehr weit weg
+
+Sehr groß
+visuelle Skala.
+
+Verboten, den fernen Palast während Mittelaufnahmen nah hinter die Charaktere als nahes Tor zu ziehen.
+Ortsbeschränkung
+
+Der gesamte 15s-Kampf findet strikt statt auf:
+
+Großer Steinplattform explizit vorhanden in Referenz
+
+Und direkt verbundenen Bereichen
+
+Verboten zu generieren:
+Schwebende Steinbrücken
+
+Wolkenbrücken
+Unabhängige Tore
+
+Inseln
+Neue Klippen
+Neue Palasteingänge
+Neue Treppen
+Neue Kampfplattformen
+Jedes große Gebäude, das die Ortsidentität ändert
+Räumliche Kontinuitätsanforderung
+Nach jedem Schnitt bleiben diese Beziehungen stabil:
+Plattform
+Geländer
+
+Stadtschichten
+
+Zentralgebäude
+
+Ferner Palast
+Skyline
+Aktionen/Kameras passen sich an Plattform an.
+Ändere niemals Plattformform für textbeschriebene Aktionen.
+Hintergrundzustand
+Hintergrund lebt natürlich:
+Großer niedriger Nebel bewegt sich langsam zwischen Stadtschichten
+Hohe Wolken ändern sich natürlich
+
+Warmes Licht des fernen Palastes beeinflusst durch Luft/Nebel
+Haar/Seidensaum bewegen sich mit Plattformwind
+
+Lufttiefe, Reflexionen, wenige ferne Figuren mikrobewegen sich
+
+Nur bei echtem:
+
+Tritt
+
+Waffenkollision
+Schneller Kleiderdurchgang
+Erlaube lokales Feedback:
+Minor Stein Staub
+Funken
+
+Saumverschiebung
+
+Strikt verboten
+Nebel plötzlich versteckt Feinde
+Geländer brechen
+
+Paläste ändern sich selbst
+
+Hintergrund hilft irgendeiner Seite beim Vollzug des Twists
+Segmentstruktur
+0–5s | Falsches Duell: Publikum täuschen
+
+0.0–1.0s
+Nutze 24mm feste Weitwinkel-Aufnahme.
+Muss behalten:
+Große Steinplattform
+Volle Ferne Palast/Stadt Tiefe
+
+Publikum kennt gleichen Ort aus Referenz.
+
+Gleiche weiß gekleidete Seniorin und blau gekleidete Juniorin stehen sich Meter entfernt gegenüber.
+
+Sicherer Bereich in der Entfernung hat:
+
+Wenige Schüler
+Gewöhnliche Zuschauer
+
+Gleicher älterer Meister
+
+Aber sie sind nur Hintergrund.
+Dialog
+
+Juniorin flüstert:
+
+"Beißen sie wirklich an?"
+
+Seniorin antwortet:
+
+"Erstmal hereinlegen."
+Letztes Wort fällt, beide explodieren gleichzeitig ohne Warnung.
+Kamera geht über zu ~35mm bewegter Mittelaufnahme von fester Weitwinkel.
+
+Erste Runde Falsches Duell
+
+Seniorins erstes Schwert schnell genug, um wie ein Treffer auf Juniorin auszusehen
+Junior streift außerhalb der Schwertkante bis zum letzten Moment
+
+Dann niedriger Konter mit dunklem Stahlschwert
+Senior dreht sich, um auszuweichen
+
+Silberne und dunkle Stahlschwerter haben erste sehr kurze, harte echte Metallkollision
+
+Wichtige Anforderungen
+Keine Pose
+
+Umkehrung in nächste Bewegung sofort nach Kollision
+Weiße weite Ärmel wischen schnell an Kamera vorbei, bilden ersten kaum bemerkbaren natürlichen versteckten Schnitt.
+Effekt erforderlich
+Publikum zweifeln lassen:
+Spielen sie oder kämpfen sie wirklich?
+5–10s | Ebene 1 Twist: Echte Feinde erscheinen
+
+Behalte:
+Identische Plattform
+Stadt
+
+Ferne Palastskala
+
+Schwertbesitz
+Nutze 35–40mm seitliches Tracking, Kampf entwickelt sich horizontal/diagonal auf Vordergrundplattform, keine neuen Orte.
+
+Kontinuierliche Offensive/Verteidigung
+
+Schwestern vervollständigen hochschnelle aber räumlich klare Sequenz:
+
+Senior stößt vor
+
+Junior lenkt ab
+
+Junior kontert sofort entlang Seite freigelegt durch Senior
+Senior duckt sich unter Schwert
+Hochgeschwindigkeitskreuz, tauschen ursprüngliche Positionen
+Aktionsregeln
+
+Alle Bewegungen verketten sich natürlich.
+Vorheriger Schlag erzeugt nächsten.
+Kein Zurücksetzen der Haltung nach einer Bewegung.
+
+Erster Attentäter enthüllt
+Gerade wenn Schwerter kreuzen <0.5s, bricht ein funktioneller Attentäter gemischt in ferner Menge heraus, greift aus Seniors blindem Fleck an.
+
+Wichtige Anforderungen
+Nie pausiere falsches Duell.
+Senior bemerkt Gefahr nur via Juniors kurzem Augenwechsel.
+Junior schwingt weiter, als würde er Senior angreifen.
+Senior duckt sich unter Juniors Schwert im letzten Moment.
+Juniors Schwert wischt an Schulter vorbei, schlägt gewaltsam Attentäters Waffe von hinten weg.
+Diese Sekunde muss Publikum erkennen lassen:
+Duell war Köder.
+Zweiter Attentäter enthüllt
+Fast keine Atempause.
+Zweiter Attentäter rast Junior von gegenüber an.
+
+Senior nutzt Rotations-Trägheit vom Kreuz, schneidet an Juniors Schulter vorbei, eine kurze Silberschwert-Kollision ändert zweiten Attentäters Pfad.
+
+Ergebnis
+Falsches Duell wandelt sich natürlich in echten Vier-Weg-Kampf während Bewegung.
+
+Strikt verboten
+Irgendjemand hält an zum Erklären
+
+Attentäter stehen Schlange
+
+Meister beobachtet stillschweigend aus Entfernung
+10–15s | Ebene 2 Twist: Kein Halten zurück zwischen ihnen
+Zwei Attentäter ändern Strategie bei Enttarnung.
+Beschleunigen aus zwei Richtungen, versuchen Frauen wirklich zu trennen.
+
+Nutze etwas weitere bewegte Aufnahme.
+Zeige komplette Positionsbeziehung von vier auf großer Plattform, Hintergrund zeigt immer noch alte Stadt/fernen Palast.
+Doppeltes Kreuz-Tausch
+
+Schwestern ziehen sich nicht nach außen zurück.
+Stürmen aufeinander zu mit hoher Geschwindigkeit.
+Schulterlinien streifen eng bei voller Geschwindigkeit, tauschen sofort vorne/hinten.
+Kreuz muss glatt, nahtlos sein.
+Im Streifmoment:
+
+Junior nimmt Attentäter, der Seniors blinden Fleck angreift
+
+Senior nimmt Attentäter, der auf Junior zustürmt
+
+Kein Blickkontakt throughout.
+Eine Attentäters Waffe wischt gewaltsam durch Kamerarahmen, bildet klarsten natürlichen waffen-verdeckten harten Schnitt.
+Schnitt zu neuer Gegenachse.
+Protagonistinnen komplett getauscht.
+Finale Durchbruch-Bewegungen
+Jede führt eine extrem kurze, direkte Gegenkonter.
+Strikt verboten
+
+Riesige Schwert-Qi
+
+Hübsche Drehungen
+
+Zeitlupe
+Ergebnisse:
+
+Eine Attentäters Waffepfad geändert durch Junior, Körper gleitet nach außen wegen eigener Trägheit
+Anderer Angriffsachse geändert durch Seniors Silberschwert, gezwungen über optimalen Bereich hinaus
+
+Beide Attentäter lebendig, haben nur Chance dieser Runde verloren.
+Tonabschaltung
+
+Kampfsound verengt sich plötzlich.
+Nur:
+
+Atmung von vier Personen
+Leichte Vibration der Schwerter der beiden Protagonistinnen
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106642529160749056/img/ifDPxtnGu3ym2xT4.jpg" width="600" alt="Seedance 2.0 Fake Duel Trap Action Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11922)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2106643465094431201) | **Veröffentlicht:** Oct 4, 2026
+
+---
 ### Sci-Fi-Krieger: Schlacht im Korridor – Bild-Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -420,6 +1263,25 @@ Negativ-Prompt: zusätzliche Finger, zusätzliche Hände, deformierte Hände, ve
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11847)**
 
 **Autor:** [Nadya](https://x.com/nadyamaje) | **Quelle:** [Link](https://x.com/nadyamaje/status/2106554883235356947) | **Veröffentlicht:** Oct 4, 2026
+
+---
+### Bleach Bypass: Der Filmprojektionist
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für die Text-zu-Video-Generierung, der einen älteren Projektionisten in einem abgerissenen Kino zeigt, stilisiert mit Bleach-Bypass-Filmverarbeitung und spezifischen kinematografischen Anweisungen.
+
+#### 📝 Prompt
+
+```
+In einem verlassenen Stadtteil-Kino, das gerade abgerissen wird, sitzt ein älterer Projektionist allein mitten im zerstörten Zuschauerraum und schaut den letzten Film, bevor das Gebäude verschwindet. Reihen von staubigen Samt-Sitzen umgeben ihn, Teile der Decke fehlen, Tageslicht fällt durch ein großes Loch in der Wand herein, Baumaschinen sind draußen sichtbar. Der Projektor läuft weiter, sein Lichtstrahl schneidet durch dicke Staubwolken. Die Kamera bewegt sich langsam vom zerstörten Eingang entlang des Ganges auf den Projektionisten zu, kreist dann hinter ihn, um das projizierte Bild auf der beschädigten Leinwand zu zeigen. Realistische Live-Action-Kinematografie, Bleach-Bypass-Filmverarbeitung, verblichenes Burgunderrot und Gold fast bis ins Graue reduziert, tiefe Schwarztöne, brillante silberne Highlights, starker Kontrast, starkes 35-mm-Korn, subtile Kratzer und Belichtungsvariationen, emotional zurückhaltend, ohne Melodramatik.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106514798942752768/img/wF54JkcWicweR581.jpg" width="600" alt="Bleach Bypass: Der Filmprojektionist">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11916)**
+
+**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Quelle:** [Link](https://x.com/AllaAisling/status/2106515375559217226) | **Veröffentlicht:** Oct 3, 2026
 
 ---
 ### Seedance 2.0 Mini Wuxia Kampfszenen-Prompt
@@ -5735,244 +6597,6 @@ Erstellen Sie einen 15-sekündigen, ultra-realistischen Luxus-Hautpflege-Werbesp
 **Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2101887507059351894) | **Veröffentlicht:** Sep 21, 2026
 
 ---
-### Cinematic Character Reference Sheet Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein umfassender Prompt zur Erstellung ultra-realistischer, kinoreifer Charakter-Referenzblätter aus hochgeladenen Bildern unter Verwendung von Seedance 2.0 Fast.
-
-#### 📝 Prompt
-
-```
-ERSTELLEN SIE EIN PREMIUM, ULTRA-REALISTISCHES KINOREIFES CHARAKTER-REFERENZBLATT – PROFESSIONELLES FILMPRODUKTIONS-DESIGN.
-
-REFERENZSPERRE:
-Verwenden Sie das hochgeladene Referenzbild als EINEZIGE Quelle für die Identität des Motivs.
-
-Bewahren Sie mit maximaler Genauigkeit exakt die Gesichtsidentität, Gesichtsform, Augen, Augenbrauen, Nase, Lippen, Kieferlinie, Hautfarbe, Frisur, Haarfarbe, Körperproportionen, das Alter und das erkennbare Erscheinungsbild bei.
-
-Passen Sie sich natürlich an JEDE PERSON an, unabhängig von Geschlecht, Alter, Frisur, Körpertyp oder persönlichem Aussehen.
-
-KERNKONZEPT:
-Verwandeln Sie die hochgeladene Person in einen vollständig entwickelten kinoreifen Charakter, inspiriert durch ihr Aussehen, ihre Persönlichkeit und ihre visuelle Präsenz.
-
-Entwerfen Sie automatisch ein einzigartiges Charakterkonzept, Outfit, Accessoires, Frisur, Farbpalette und visuelle Identität, die zum Motiv passen.
-
-CHARAKTERDESIGN:
-Erstellen Sie einen visuell kraftvollen, originellen Charakter, der für eine Premium-Hollywood- oder Netflix-Stil-Filmproduktion geeignet ist.
-
-Der Charakter kann sein: EIN KRIEGER, BÖSEWICHT, HELD, HEXE, ADLIGER CHARAKTER, SCI-FI-EXPLORER, ATTENTÄTER, DETEKTIV, ÜBERLEBENDER, FANTASIECHARAKTER ODER MODERNER KINOREIFER CHARAKTER.
-
-Wählen Sie die am besten geeignete Charakterrundrichtung basierend auf dem hochgeladenen Referenzbild und dem beabsichtigten visuellen Stil.
-
-CHARAKTERBLATT-LAYOUT:
-
-1. HERO-PORTRAIT:
-Erstellen Sie ein großes, dramatisches, ultra-realistisches kinoreifes Porträt, das das Gesicht, die Frisur, das Outfit und die allgemeine Persönlichkeit des Charakters zeigt.
-
-2. GESICHTSAUSDRÜCKE:
-Erstellen Sie ein professionelles Raster für Gesichtsausdrücke, einschließlich: NEUTRAL, SERIÖS, INTENSIV, SANFT, LÄCHELN, WÜTEND, TRAUERIG, MYSTERIÖS.
-Wahren Sie die konsistente Gesichtsidentität in jedem Panel.
-
-3. TURNAROUND / GANZKÖRPERANSICHTEN:
-Zeigen Sie den Charakter in: VORDERANSICHT SEITENANSICHT RÜCKANSICHT DREIVIERTELANSICHT
-Wahren Sie konsistentes Outfit, Körperproportionen, Accessoires und Frisur über alle Ansichten hinweg.
-
-4. PORTRÄTVARIANTEN:
-Enthalten Sie kinoreife Nahaufnahmen aus verschiedenen Blickwinkeln: FRONTALE PORTRÄTDREIVIERTEL-PORTRÄTSEITLICHPORTRÄTDRAMATISCHES SCHATTENPORTRÄT.
-
-5. KOSTÜM & DETAILNAHAUFNAHMEN:
-Zeigen Sie hochdetaillierte Nahaufnahmen von: KOPFSCHMUCK ODER FRISURKOSTÜMDETAILSZUBEHÖRGÜRTEL ODER TAILLENDETAILSHANDSCHUHE ODER HANDDETAILSGEWEBETEXTURNKETTE ODER SIGNATURATTRIBUT.
-
-6. FARBPALETTE:
-Stellen Sie eine professionelle Farbpalette dar, die zum Kostüm und kinoreifen Thema des Charakters passt.
-
-7. CHARAKTERINFORMATIONEN:
-Enthalten Sie einen sauberen, professionellen Abschnitt mit: CHARAKTERNAMEROLLEALIASPERSÖNLICHKEITSTILTHEMASIGNATURELEMENT
-
-8. KINOREIFE WELTENBAU:
-Fügen Sie einen subtilen atmosphärischen Hintergrund oder eine Umweltillustration hinzu, die die Welt des Charakters ergänzt.
-
-VISUELLER STIL:
-Premium-Hollywood-Konzeptkunst. Ultra-realistische Fotografie. Hochwertiges Kostümdesign. Kinoreife Beleuchtung. Natürliche Hauttextur. Realistische Stoff- und Materialdetails. Professionelles Filmproduktions-Referenzblatt. Elegantes redaktionelles Layout. Subtile kinoreife Atmosphäre. Scharfe Gesichtsdetails. Fotorealistische Darstellung.
-```
-
-<img src="https://cms-assets.youmind.com/media/1789970152422_3vld7y_HSnCVWybwAAnaFA.jpg" width="600" alt="Cinematic Character Reference Sheet Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11053)**
-
-**Autor:** [M. Asif](https://x.com/meAsifAi) | **Quelle:** [Link](https://x.com/meAsifAi/status/2101515191158542788) | **Veröffentlicht:** Sep 20, 2026
-
----
-### Zug, Lawine und Drachenrettung – Animationskurzfilm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für einen 15-sekündigen kinematografischen Animationskurzfilm mit einem Zug, einer Lawine und einer Drachenrettung, erstellt mit Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-15-sekündiger kinematografischer Animationskurzfilm.
-Ein Personenzug rast durch ein schneebedecktes Gebirgstal.
-Vor ihm löst sich plötzlich eine gewaltige Lawine und donnert auf die Gleise zu.
-Der Zug bremst scharf.
-Die Passagiere blicken aus den Fenstern, während Schnee und Felsen den Berg hinunterkrachen.
-Plötzlich bricht ein riesiger Drache aus dem Wald hervor.
-Er landet direkt neben den Gleisen und breitet seine enormen Schwingen aus.
-Die Lawine trifft ein.
-Der Drache stemmt sich gegen den Boden und schützt den Zug vor den schlimmsten herabfallenden Trümmern.
-Schnee explodiert um ihn herum.
-Der Zug kommt nur Zentimeter vor der blockierten Strecke zum Stehen.
-Im vorderen Waggon drückt ein kleines Mädchen ihre Hand gegen das Fenster.
-Der erschöpfte Drache blickt zurück zu ihr.
-Sie lächelt.
-Der Drache senkt sanft einen Flügel, bevor er im schneebedeckten Wald verschwindet.
-
-Stilisierte kinematografische Animation, anspruchsvolles Kreaturen-Design, malerische Texturen, realistische Umgebungen, dramatische physische Action, dynamische Kamerabewegung, starkes Größenverhältnis, warmes emotionales Ende, natürliche Farben, kinematografisches Licht, kein Dialog, keine magischen Kräfte, kein Horror, keine Gewalt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101414099632422912/img/vPUySBkizJaVP6E5.jpg" width="600" alt="Zug, Lawine und Drachenrettung – Animationskurzfilm">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11052)**
-
-**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Quelle:** [Link](https://x.com/AllaAisling/status/2101429374755262628) | **Veröffentlicht:** Sep 19, 2026
-
----
-### Video-Prompt: Dunkler Krieger auf regnerischem Dach
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung einer cineastischen Action-Szene mit einem gepanzerten Krieger auf einem regnerischen Dach, dramatischer Beleuchtung und Wassereffekten.
-
-#### 📝 Prompt
-
-```
-Ultra-realistische cineastische Szene eines mysteriösen dunklen Kriegers in fließender schwarzer Rüstung, der während eines Sturms auf einem nassen Dach steht. Kraftvolle dynamische Pose, Wasser spritzt dramatisch um ihn herum, dunkler bewölkter Himmel, intensive atmosphärische Beleuchtung, fliegende Wassertropfen und Bewegung, futuristische Skyline im Hintergrund, dramatische Komposition im Stil von Actionfilmen, realistische Stoff- und Rüstungstexturen, volumetrisches Licht, geringe Schärfentiefe, hohe Detailtreue, HDR, 8K, fotorealistisch, cineastisches Color Grading, vertikale 9:16-Komposition.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101169609365921792/img/-IstuS_VdtsgYbeM.jpg" width="600" alt="Video-Prompt: Dunkler Krieger auf regnerischem Dach">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11012)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2101169774076231947) | **Veröffentlicht:** Sep 19, 2026
-
----
-### Cinematic Video Prompt for Skincare Routine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung einer fotorealistischen Hautpflege-Werbung mit einer jungen Frau in einem hellen Raum, fokussiert auf Textur und Beleuchtung.
-
-#### 📝 Prompt
-
-```
-Erstellen Sie ein 15-sekündiges fotorealistisches Hautpflege-Video mit einer jungen koreanischen Frau in einem hellen, eleganten weißen Raum. Beginnen Sie mit einer extremen Nahaufnahme ihres natürlichen Gesichts, während sie ihre Wange sanft mit der Fingerspitze berührt, wobei realistische Hauttextur und weiches Tageslicht sichtbar sind. Zeigen Sie anschließend eine klare Hautpflegeflasche auf einem weißen Marmortisch, während ihre Hand langsam darauf zugreift. Fahren Sie fort, indem sie die Hautpflege sanft mit beiden Händen auf ihr Gesicht aufträgt, wobei ihre Gesichtsmerkmale und ihr Aussehen konsistent bleiben. Zeigen Sie sie, wie sie ihre Augen friedlich schließt und beide Wangen sanft mit den Fingerspitzen massiert. Beenden Sie das Video mit einer weiteren Aufnahme, in der sie ein einfaches weißes Kleid trägt und neben einem großen Fenster steht, während sich die durchscheinenden weißen Vorhänge natürlich im Sonnenlicht bewegen. Halten Sie die Bewegungen flüssig und realistisch, mit natürlichen Händen, realistischer Haut, weicher kinematografischer Beleuchtung, einer sauberen luxuriösen Atmosphäre, sanfter Kamerabewegung und ohne Verzerrungen oder künstlich wirkende Details.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101138351013416960/img/ZHT5-dQIrBB1HX68.jpg" width="600" alt="Cinematic Video Prompt for Skincare Routine">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11011)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2101138386132386252) | **Veröffentlicht:** Sep 19, 2026
-
----
-### Video-Prompt: Frau in gefrorener Landschaft
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung einer cineastischen Szene mit einer Frau in einer schneebedeckten Landschaft, inklusive Wind und Schneepartikeln.
-
-#### 📝 Prompt
-
-```
-Ultra-realistische cineastische Szene einer jungen Frau, die allein in einer weiten, gefrorenen Schneelandschaft steht. Sie trägt einen dunklen wetterfesten Mantel, der Wind fährt durch ihr Haar, ihr Gesichtsausdruck wirkt erschöpft, aber entschlossen. Schwerer Schneesturm, dramatische dunkle Gewitterwolken, schneebedeckte Berge im Hintergrund, kalte blaue Atmosphäre, realistische Schneepartikel, natürliche Hauttextur, emotionales Storytelling, dramatische Beleuchtung, geringe Schärfentiefe, cineastisches Color Grading, hochdetailliert, fotorealistisch, 8K, HDR, professioneller Filmstill, 85-mm-Objektiv, vertikale 9:16-Komposition.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100821852797227008/img/ccGPsPHV1WCfCErM.jpg" width="600" alt="Video-Prompt: Frau in gefrorener Landschaft">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11013)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2100822353446060246) | **Veröffentlicht:** Sep 18, 2026
-
----
-### Bleu de Chanel Luxus-Parfüm-Werbespot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für einen cineastischen Luxus-Parfüm-Werbespot mit Bleu de Chanel, einschließlich spezifischer Aktionen, Kamerabewegungen und Sprechertext-Anweisungen.
-
-#### 📝 Prompt
-
-```
-Cineastischer Luxus-Parfüm-Werbespot, 10 Sekunden. Eine elegante Frau mit zurückgekämmten dunklen Haaren, die eine schwarze Langarmbluse mit Puffärmeln trägt, steht vor einem weichen, hellblau-grauen Studiohintergrund. Sie hält eine quadratische Glasflasche aus dunklem Marineblau von Bleu de Chanel Eau de Parfum mit beiden Händen der Kamera entgegen und präsentiert sie. Nahaufnahme ihrer Finger, wie sie die schwarze Kappe abnehmen und den silbernen Sprühkopf freigeben. In einer hellen, fensterbeleuchteten Umgebung sprüht sie einen feinen Nebel auf ihr inneres Handgelenk. Dann hebt sie ihr Handgelenk zum Gesicht, schließt die Augen und atmet den Duft mit einem subtilen, zufriedenen Lächeln ein. Letzte Einstellung: Die Flasche füllt das Bild in scharfer Schärfe aus, während sie dahinter weichgezeichnet ist. Weiches natürliches Licht, geringe Schärfentiefe, Ästhetik eines High-End-Modefilms, langsame elegante Bewegungen, Premium-Werbelook.
-Sprechertext: „Fertig zum Gehen, der letzte Schliff. Bleu de Chanel, mach es zu deinem.“
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100818151134871552/img/FCELWlH2dnIKUU3Y.jpg" width="600" alt="Bleu de Chanel Luxus-Parfüm-Werbespot">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10982)**
-
-**Autor:** [Elisia](https://x.com/AiwithElisia) | **Quelle:** [Link](https://x.com/AiwithElisia/status/2100818214754128101) | **Veröffentlicht:** Sep 18, 2026
-
----
-### Erinnerungen an das Familienleben auf dem koreanischen Land
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein nostalgischer Prompt für ein Video, das eine koreanische Mutter und ihre Kinder zeigt, die einen friedlichen Sommerabend in einem ländlichen Dorf genießen, mit Fokus auf familiäre Interaktionen und malerische Schönheit.
-
-#### 📝 Prompt
-
-```
-Erstelle ein Video im Stil eines warmen, nostalgischen Lebens auf dem koreanischen Land. Zeige eine liebevolle koreanische Mutter und drei kleine Kinder, die einen friedlichen Sommerabend in einem traditionellen ländlichen koreanischen Dorf genießen, mit warmem Licht der goldenen Stunde, alten Häusern mit Ziegeldächern, Steinmauern, grünen Reisfeldern und einer ruhigen Landleben-Atmosphäre. Beginne damit, wie die Mutter sanft eine alte Holztür öffnet, und wechsle dann zu einer kinematografischen Verfolgungsaufnahme, in der sie mit dem Fahrrad fährt, während die Kinder fröhlich neben ihr durch die Dorfstraße radeln. Erfasse natürliches Kinderlachen, weiche Bewegungen der Fahrräder, fließende Kleidung und authentische familiäre Interaktionen mit realistischen koreanischen Gesichtszügen und Ausdrücken. Gehe über zu weiteren kinematografischen Aufnahmen der Familie, die neben üppigen Reisfeldern und einem kleinen Bach radelt, um ein Gefühl von Freiheit und Nostalgie zu schaffen. Zeige die Mutter, die neben den Kindern am Feldrand sitzt, frisches Obst und Snacks teilt, während sie lächeln und miteinander sprechen. Nutze schönes natürliches Licht, sanften Sonnenuntergangsglanz, subtilen Filmkorn, geringe Schärfentiefe, realistische Texturen und geschmeidige kinematografische Kamerabewegungen. Beende das Video mit einer breiten, emotionalen Aufnahme der Familie, die zusammen neben dem ruhigen Bach unter einem großen Baum sitzt, während die Sonne hinter den Reisfeldern untergeht. Fotorealistischer Live-Action-Stil, ästhetisch wie ein koreanischer Familienfilm, warme Farben, gemächliches Tempo, authentische Emotionen, 16:9-Komposition, hochdetailliert, natürliche Physik, keine künstlich wirkenden Gesichter.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100817472219914240/img/-EjhCs7GzNqSVkZW.jpg" width="600" alt="Erinnerungen an das Familienleben auf dem koreanischen Land">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10983)**
-
-**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Quelle:** [Link](https://x.com/ayzalnooor24521/status/2100817795214954593) | **Veröffentlicht:** Sep 18, 2026
-
----
-### Chaotische Kinematografische Klassenzimmer-Szene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für ein 15-sekündiges kinematografisches Video mit einer koreanischen Schülerin in einem chaotischen Klassenzimmer mit fliegenden Objekten, fokussiert auf realistische Bewegung und Kameratracking.
-
-#### 📝 Prompt
-
-```
-Prompt für ein 15-sekündiges kinematografisches Video: Eine realistisch aussehende junge koreanische Schülerin steht in der Mitte eines unordentlichen Klassenzimmers. Sie trägt ein weißes Kurzarm-Schuluniformhemd mit einer roten Schleife und einen dunkelgrauen Faltenrock, während im Hintergrund mehrere Schüler sitzen und sich bewegen. Bücher, Papiere, Hefte und andere Klassenraumsgegenstände sind verstreut und fliegen durch die Luft, was eine chaotische, aber realistische Atmosphäre erzeugt. Mit ernstem, ruhigem Ausdruck geht sie langsam auf die Kamera zu, während die Schüler im Hintergrund natürlich auf das plötzliche Chaos reagieren. Die Kamera bewegt sich sanft rückwärts und hält sie zentriert in einer vertikalen 9:16-Komposition mit realistischer Handkamera-Bewegung. Papiere und Gegenstände fallen weiterhin um sie herum herab, mit glaubwürdiger Schwerkraft, Bewegungsunschärfe und natürlicher Physik. In der Mitte des Videos hebt sie leicht eine Hand, während sie weiter auf die Kamera zugeht, wobei Gesicht, Frisur, Uniform und Körperproportionen konsistent bleiben. In den letzten Sekunden rückt die Kamera näher an ihr Gesicht heran, als sie behutsam ihre Haare aus den Augen streicht und mit subtiler emotionaler Mimik direkt in die Linse blickt. Verwenden Sie natürliches Klassenzimmer-Licht, realistische Hauttextur, detaillierte Stoffdarstellung, authentische Schatten, kinematografische Tiefenschärfe und fotorealistische Visuals durchgehend, mit sanfter kontinuierlicher Bewegung und ohne Schnitte.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100787630216724480/img/8BCeaa8eVJKomkdI.jpg" width="600" alt="Chaotische Kinematografische Klassenzimmer-Szene">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10984)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2100787710424416603) | **Veröffentlicht:** Sep 18, 2026
-
----
-### Pariser Mode-Transformationsvideo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung eines kinematografischen Mode-Transformationsvideos, in dem das Kleid einer Frau beim Spaziergang durch Paris von Weiß zu Rot wechselt.
-
-#### 📝 Prompt
-
-```
-Erstellung eines kinematografischen Mode-Transformationsvideos mit einer schönen jungen Frau, die durch elegante Pariser Straßen spaziert. Sie beginnt in einem schlichten weißen Sommerkleid und geht natürlich auf einem stilvollen Bürgersteig entlang, umgeben von klassischer Architektur, Cafés, Geschäften und Passanten. Die Kamera folgt ihr sanft mit realistischer kinematografischer Bewegung und geringer Schärfentiefe. Als sie an einem Schaufenster vorbeigeht, wirbeln leuchtend rote Lichtspuren um ihren Körper und erzeugen einen magischen Mode-Übergangseffekt. Ihr Outfit verwandelt sich nahtlos von Weiß in ein elegantes rotes ärmelloses Kleid. Setzen Sie fort mit dynamischen Aufnahmen auf Straßenebene, während sie selbstbewusst durch eine belebte Pariser Kreuzung geht. Beenden Sie das Video mit einer wunderschönen Nahaufnahme von ihr im roten Kleid, wie sie sanft ein Eis hält und isst, während sie natürlich in die Kamera blickt. Fotorealistische Details, ästhetische Modedrama-Optik, natürliches Tageslicht, flüssige Übergänge, realistische Hauttextur, kinematografisches Objektiv, subtile Hintergrundbewegung, Premium-Werbelook.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100456398144647168/img/xAq552Wbm_a24aoe.jpg" width="600" alt="Pariser Mode-Transformationsvideo">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10954)**
-
-**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Quelle:** [Link](https://x.com/ayzalnooor24521/status/2100456445900710158) | **Veröffentlicht:** Sep 17, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -6034,6 +6658,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-05T04:47:52.912Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-05T17:07:11.298Z</sub>
 
 </div>

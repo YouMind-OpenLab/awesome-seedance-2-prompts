@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6495** |
+| 📝 Total des prompts | **6504** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-10-05** |
 
@@ -361,6 +361,850 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Femme cyberpunk dans une ruelle néon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt pour générer une scène cyberpunk ultra-réaliste d'une jeune femme marchant dans une ruelle éclairée par des néons, avec un accent sur les détails de mode, l'éclairage et les spécifications de la caméra.
+
+#### 📝 Prompt
+
+```
+Scène cinématographique cyberpunk ultra-réaliste d'une jeune femme au regard intense marchant avec assurance dans une sombre ruelle urbaine illuminée par des néons, en pleine nuit. Elle a de longs cheveux foncés, une expression déterminée, et porte une veste blanche futuriste oversize par-dessus un crop top rouge, un pantalon tactique noir, des gants et des accessoires utilitaires. Les rues mouillées reflètent les lumières rouges et chaudes de la ville, brume atmosphérique, enseignes lumineuses, ombres dramatiques, faible profondeur de champ, bokeh cinématographique, mouvement dynamique de la caméra, textures réalistes de la peau et des tissus, haute définition, ambiance moody de film d'action, objectif 85 mm, f/1.4, HDR, 8K, photoréalisme, composition verticale 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106972520972947456/img/0SDQbYzRuv36V6Vl.jpg" width="600" alt="Femme cyberpunk dans une ruelle néon">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11918)**
+
+**Auteur:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2106972552119963744) | **Publié:** Oct 5, 2026
+
+---
+### Prompt Vidéo Seedance pour une Histoire de Mariage Comique
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt détaillé pour la génération vidéo avec Seedance, créant une histoire comique de 15 secondes où une femme demande à son petit ami de se teindre les cheveux en vert s'il assiste à son futur mariage avec un autre homme. Le prompt inclut des instructions de cohérence des personnages, des transitions de scène, des mouvements de caméra et des dialogues spécifiques.
+
+#### 📝 Prompt
+
+```
+15 secondes, format horizontal 16:9, texture réaliste live-action, décor urbain chinois moderne. La première moitié est une conversation naturelle et intime entre un couple ; la seconde moitié coupe brutalement vers un mariage de style occidental dans un hôtel futur. La caméra recule lentement, révélant progressivement des invités masculins aux couleurs de cheveux différentes, formant un retournement comique absurde et gênant. Les performances des personnages sont sobres ; l'environnement, la peau, les vêtements et l'éclairage sont réalistes et naturels.
+[Personnages et Continuité]
+La protagoniste féminine est une jeune femme chinoise adulte @image (31). La mariée au mariage futur doit être la même femme, conservant des traits du visage et des contours cohérents, changeant uniquement de coiffure, de maquillage et de vêtements.
+Le protagoniste masculin est un jeune homme chinois adulte, commençant avec des cheveux noirs courts normaux et des vêtements décontractés quotidiens. Au mariage futur, ses traits du visage, sa forme de visage, sa morphologie et le contour de sa coiffure restent cohérents, mais il porte un costume ajusté et a teint ses cheveux manifestement en vert, respectant la demande faite par la femme au début. Il ne doit pas changer de visage en raison des changements de scène ou de couleur de cheveux.
+Le marié est un autre homme chinois adulte, légèrement corpulent, aux cheveux noirs, clairement différent en apparence du protagoniste masculin, portant une tenue formelle de marié.
+Il y a plusieurs invités masculins adultes sur le lieu du mariage, chacun ayant des cheveux rouges, bleus, violets, jaunes ou orange, y compris un autre homme aux cheveux verts. Leurs apparences, tailles, morphologies, coiffures et costumes sont tous différents. Les cheveux teints conservent de vraies mèches, racines et lustre, sans ressembler à des perruques colorées ou à des effets lumineux.
+[0-7s : Conversation Quotidienne du Couple]
+Parc urbain ordinaire ou rez-de-chaussée d'une résidence, en soirée, lumière naturelle douce, légers sons ambiants de vie quotidienne en arrière-plan.
+La fille et le garçon sont assis côte à côte sur un banc. Utilisez un gros plan moyen des deux personnes, identifiant clairement leurs visages. La fille se tourne vers le garçon, lui tenant la main, parlant affectueusement, sérieusement, avec un peu de coquetterie, comme si elle mentionnait quelque chose de romantique de manière désinvolte. Le garçon la regarde profondément.
+La fille dit complètement et clairement :
+« Mon chéri, si la personne qui m'épouse à l'avenir n'est pas toi, alors tu dois te teindre les cheveux en vert pour assister à mon mariage, afin que je puisse te repérer d'un coup d'œil. »
+Prononcé à un rythme naturel, légèrement rapide et cohérent de la vie quotidienne, sans étirement délibéré, sans mots avalés, sans accélération mécanique. Pendant que la fille parle, le garçon la regarde en écoutant, montrant un léger sourire à la fois touché et perplexe, sans ajouter de réponse.
+Maintenez une performance continue, établissant clairement le visage du protagoniste masculin. La fille ne sourit pas malicieusement à l'avance, ne fait pas de clin d'œil à la caméra, ne prévisualise pas le retournement ultérieur.
+[7-9s : Coupe Brute vers le Mariage Futur, D'abord Voir le Même Visage, Puis les Cheveux Verts]
+Dès que la fille finit le dernier mot « toi », coupez immédiatement et brutalement vers la scène du mariage à l'hôtel. Le son ambiant passe synchroniquement des sons de vie extérieure aux applaudissements et voix floues dans la salle de banquet.
+Coupez vers un gros plan frontal du même visage du protagoniste masculin. Le bord supérieur du cadre initial est coupé sous la ligne des cheveux, masquant temporairement les cheveux, laissant le public le reconnaître comme le garçon d'il y a juste avant.
+Il est assis parmi les sièges des invités du mariage, portant un costume, avec une expression légèrement contrainte, portant une attente complexe, les yeux dirigés vers l'allée d'entrée.
+La caméra se déplace ensuite lentement et régulièrement vers l'arrière, révélant progressivement toute sa tête—il a les cheveux teints en vert.
+La couleur verte est vue par le public pour la première fois à ce moment-là. Il avait déjà les cheveux verts dès le début de l'entrée dans le plan du mariage, aucun effet de changement de couleur sur place n'apparaît.
+[9-12s : Entrée de la Mariée et du Marié, Autres Couleurs de Cheveux Apparaissent Graduellement]
+La caméra continue de reculer, passant du gros plan au plan moyen, effectuant de légères ajustements horizontaux pour garder le protagoniste masculin aux cheveux verts d'un côté du cadre, révélant graduellement l'allée centrale du mariage.
+La scène est une vraie salle de banquet d'hôtel aménagée pour un mariage occidental, avec des arrangements floraux de couleur claire, des chaises blanches ou beiges, des lumières chaudes au plafond et une allée d'entrée moquettée. L'éclairage a des sources claires, la robe de mariée conserve les détails du tissu, pas d'effets féeriques oniriques.
+Sur l'allée d'arrière-plan, la fille du début porte une robe de mariée, tenant le bras du marié légèrement corpulent, entrant lentement. L'apparence et la morphologie du marié sont clairement différentes de celles du protagoniste masculin aux cheveux verts.
+Le protagoniste masculin regardait initialement la mariée, maintenant à peine un léger sourire. Alors que la caméra recule, un invité masculin aux cheveux rouges et un invité masculin aux cheveux bleus entrent successivement dans le cadre près de lui.
+Il jette involontairement un coup d'œil à l'homme aux cheveux rouges à côté de lui, son sourire s'arrête légèrement, puis il regarde l'homme aux cheveux verts de l'autre côté, ses sourcils bougeant légèrement, commençant à sentir que quelque chose ne va pas.
+[12-15s : Révélation de Plus d'Hommes aux Cheveux Colorés, le Protagoniste Masculin Regarde Autour de Lui Surprise]
+La caméra continue de reculer selon la même trajectoire, s'élargissant à une vue plus large contenant le protagoniste masculin, les rangées d'invités environnants et l'allée du mariage. Le segment du mariage reste continu, pas plus de coupures.
+Plus d'invités masculins aux couleurs de cheveux différentes entrent graduellement dans le cadre : violet, jaune, orange, et un autre homme aux cheveux rouges qui diffère du protagoniste masculin en apparence, morphologie et coiffure.
+Y compris le protagoniste masculin, environ six à huit hommes aux cheveux colorés sont dispersés assis dans des rangées adjacentes, entrelacés avec des invités ordinaires aux cheveux noirs. Tous les invités n'ont pas les cheveux teints, ni ne forment une ligne arc-en-ciel nette.
+Ils sont tous différents : certains minces, certains robustes, certains légèrement corpulents ; certains avec des coupes rasées, certains avec des cheveux courts séparés sur le côté, certains légèrement bouclés. Les costumes sont noirs, bleu foncé, gris, marron, avec des différences évidentes dans la coupe, les cravates et les combinaisons de chemises, ressemblant à de vrais invités de mariage indépendamment invités.
+Ces gens étaient assis à leurs positions originales depuis le début du plan du mariage, simplement bloqués par la composition serrée initiale, devenant visibles lorsque la caméra recule, ils ne peuvent pas apparaître de nulle part ou se teindre soudainement les cheveux.
+Le protagoniste masculin regarde d'abord à gauche, puis à droite, enfin se tournant légèrement pour regarder en diagonale derrière lui, découvrant un autre homme aux cheveux verts. Son expression passe de la confusion à la surprise et à l'embarras, lèvres légèrement entrouvertes, comme s'il réalisait enfin qu'il pourrait ne pas être le seul à avoir reçu une telle promesse.
+Les autres hommes aux cheveux colorés continuent principalement de regarder le mariage, certains peuvent brièvement croiser son regard, ne tournant pas collectivement la tête ou ne réagissant pas en synchronisation.
+La fin préserve simultanément le regard surpris du protagoniste masculin autour de lui, les hommes environnants aux couleurs de cheveux différentes, et la mariée et le marié continuant d'entrer en arrière-plan. L'écran se termine naturellement, pas de dialogue supplémentaire pour expliquer la chute.
+[Cinématographie, Performance et Atmosphère Réaliste]
+L'ouverture utilise la lumière naturelle du jour, le mariage utilise un éclairage intérieur chaud d'hôtel. Les tons de peau sont normaux, conservant la texture de la peau, les costumes ont de vrais plis, la robe de mariée a du poids, les cheveux teints ont des couches naturelles de clair et d'obscurité.
+La première moitié donne l'impression d'un vrai couple discutant casual, la seconde moitié donne l'impression d'une découverte gênante se produisant lors d'une vraie scène de mariage. Le protagoniste masculin exprime les émotions par le contact visuel, les micro-expressions et le fait de regarder à gauche et à droite, pas de regards écarquillés cartoon, d'ouverture de bouche ou d'actions de couverture du visage.
+Le recul du mariage utilise un mouvement réel de caméra vers l'arrière, vitesse stable, arrangeant les positions des invités à l'avance pour que les différentes couleurs de cheveux entrent dans le cadre séquentiellement. Après le recul, augmentez progressivement la profondeur de champ, assurant que la relation entre le protagoniste masculin, les invités aux cheveux colorés et les nouveaux mariés en arrière-plan soit discernable, ne floutant jamais les personnages environnants en blocs de couleur.
+Pas de qualité DV rétro, tremblement de main exagéré, fisheye, zoom soudain, orbite haute vitesse, ralenti, peau plastique ou filtres lourds.
+[Son]
+L'ouverture conserve le dialogue de la fille et de légers sons de vie extérieure. Après la coupe brute, entrez des applaudissements naturels, froissement de tissu, grincement de chaise et conversations floues dans la salle de banquet de l'hôtel.
+Le dialogue correspond exactement aux mouvements des lèvres de la fille, le protagoniste masculin ne parle pas pour elle ni ne l'interrompt. Pas de dialogue clair ajouté dans le segment du mariage.
+Pas de narration, pas de musique de fond.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106953873076486145/img/IOpYXcKBoJQlAILi.jpg" width="600" alt="Prompt Vidéo Seedance pour une Histoire de Mariage Comique">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11920)**
+
+**Auteur:** [探路AI](https://x.com/TanLuAI) | **Source:** [Link](https://x.com/TanLuAI/status/2106955448352231762) | **Publié:** Oct 5, 2026
+
+---
+### Scène d'Action Cinématographique : Le Guerrier Tigre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt détaillé pour la génération de vidéo, conçu pour créer une séquence d'action cinématographique à haute énergie mettant en scène un guerrier tigre anthropomorphe se battant dans une ville dévastée avec des effets spéciaux.
+
+#### 📝 Prompt
+
+```
+Créez une scène d'action cinématographique de 14,6 secondes mettant en vedette un puissant guerrier tigre orange anthropomorphe dans une ville détruite, entouré de fumée, de feu et de bâtiments en effondrement. Dans le plan d'ouverture, le tigre affronte agressivement un adversaire, puis s'élance soudainement très haut dans les airs avec un mouvement dynamique d'arts martiaux, tandis que la caméra suit le saut de manière dramatique. Coupez sur un gros plan intense du visage réaliste du tigre, mettant l'accent sur ses yeux perçants, son pelage orange détaillé, ses moustaches et son expression féroce. Montrez le tigre continuant le combat contre un adversaire humanoïde avec des coups de poing et des coups de pied rapides, en maintenant une apparence et une anatomie cohérentes du personnage. Un impact d'énergie bleue puissant apparaît lors de l'attaque, suivi d'une énorme explosion de feu dans la ville en ruines. Montrez des flammes, des débris volants, une fumée épaisse, des étincelles et une destruction réaliste qui se propagent dans l'environnement. Le tigre atterrit avec assurance au premier plan tandis que les ruines enflammées brillent derrière lui, créant une silhouette héroïque dramatique. Utilisez des mouvements de caméra cinématographiques fluides, une physique réaliste, un éclairage dramatique, des textures détaillées, une chorégraphie d'action solide et une animation 3D de haute qualité tout au long de la scène, sans texte, filigrane ni distorsion du personnage.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106938524784328704/img/pXh4xaDoupeUx4Bw.jpg" width="600" alt="Scène d'Action Cinématographique : Le Guerrier Tigre">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11914)**
+
+**Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2106938584431526162) | **Publié:** Oct 5, 2026
+
+---
+### Vidéo de bande-annonce cinématographique épique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une vidéo au style de bande-annonce cinématographique épique à partir d'une image de référence, mettant l'accent sur un rendu hyper-détaillé, les esthétiques Unreal Engine 5 et des contraintes négatives spécifiques pour le contrôle qualité.
+
+#### 📝 Prompt
+
+```
+Utilisez l'image de référence 1 pour créer une vidéo cinématographique épique.
+: Esthétique de bande-annonce cinématographique épique, style live-action, IMAX, 16K, rendu hyper-détaillé, effets de particules dynamiques plein cadre, Unreal Engine 5, ray tracing, détails explosifs. Exigences stylistiques : Beauté esthétique, beauté pathologique, élan grandiose, beauté décadente, beauté fragmentée, grandeur tragique, avec tristesse. [Contraintes & Négatifs] Gris froid à faible saturation + accent ambre, mouvement fluide basé sur la physique. Négatif : Basse qualité, saccades, effondrement du visage/corps, surexposition, gore excessif, mouvements rigides, filigrane, pose en T, palette lumineuse, VFX clinquants, caméra rigide, manque de vitesse/flou de mouvement, coups faibles.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106923772372738048/img/p-_o3Q13K4Hbb2lw.jpg" width="600" alt="Vidéo de bande-annonce cinématographique épique">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11915)**
+
+**Auteur:** [Zidan 子丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2106923884931166241) | **Publié:** Oct 5, 2026
+
+---
+### Skate urbain à grande vitesse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt simple et 'paresseux' pour générer une vidéo de skate à grande vitesse dans une rue urbaine bondée, avec un flou de mouvement réaliste et une sensation de caméra à main levée.
+
+#### 📝 Prompt
+
+```
+Une fille faisant du skate à grande vitesse dans une rue urbaine bondée, esquivant les passants, sautant par-dessus de petits obstacles, dépassant des voitures et des vélos, montages rapides, flou de mouvement, sensation de caméra à main levée, ambiance énergique, environnement réaliste, haute fidélité.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106921938576883712/img/9S6CRhiy0KGRQiZh.jpg" width="600" alt="Skate urbain à grande vitesse">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11917)**
+
+**Auteur:** [Zidan 子丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2106922065240731732) | **Publié:** Oct 5, 2026
+
+---
+### Défense contre les astéroïdes de la cité spatiale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour un court-métrage de science-fiction cinématographique de 15 secondes, mettant en scène une cité spatiale mobile qui manipule des astéroïdes pour former un bouclier défensif contre une flotte ennemie.
+
+#### 📝 Prompt
+
+```
+Court-métrage d'action de science-fiction photoréaliste et cinématographique de 15 secondes, format 16:9.
+Une gigantesque cité futuriste voyage à travers l'espace profond au cœur d'une immense tempête d'astéroïdes.
+Des milliers de vaisseaux spatiaux volent à ses côtés, manipulant activement les astéroïdes pour former un bouclier défensif en mouvement constant.
+Soudain, une flotte ennemie attaque.
+Des centaines de chasseurs plongent dans le champ d'astéroïdes.
+La cité accélère.
+Les astéroïdes percutent les vaisseaux attaquants.
+Les vaisseaux de défense se faufilent entre d'énormes roches, les poussant vers de nouvelles trajectoires.
+Un énorme vaisseau de guerre ennemi perce le bouclier d'astéroïdes et tire directement sur la cité.
+L'intégralité de la cité change soudainement de direction.
+Le champ d'astéroïdes se déplace avec elle.
+Des millions de rochers s'alignent autour de la cité comme un organisme mécanique géant.
+Le vaisseau de guerre attaquant comprend trop tard que le champ d'astéroïdes est lui-même l'arme de la cité.
+Un impact colossal remplit l'écran.
+Fin sur la cité disparaissant dans la tempête en mouvement.
+
+Science-fiction hard-boiled photoréaliste, environnements d'astéroïdes spectaculaires, combat sans relâche, structures massives en mouvement, mouvements de caméra rapides, vaisseaux spatiaux détaillés, échelle monumentale, action cinématographique, pas de texte, pas de logos, pas d'anime, pas de dessin animé.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106842175623344128/img/8HYLYow99mg-lBVf.jpg" width="600" alt="Défense contre les astéroïdes de la cité spatiale">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11919)**
+
+**Auteur:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2106852107114418554) | **Publié:** Oct 4, 2026
+
+---
+### Prompt de Bataille d'Escorte Cinématographique Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt détaillé pour générer une vidéo cinématographique de 15 secondes avec Seedance 2.0 Mini, représentant une bataille d'escorte mobile dans un décor Xianxia chinois ancien, avec un ancrage strict des personnages et du lieu basé sur des images de référence.
+
+#### 📝 Prompt
+
+```
+Texture photoréaliste cinématographique, pur film d'action Xianxia chinois ancien, 15 secondes, 16:9, Seedance 2.0 Mini.
+Ce round n'est pas un duel statique, ni ne continue à répéter l'ancien schéma "changer d'arme → le protagoniste observe → riposte → épée arrêtée à la gorge".
+Le motif d'action central est :
+Une bataille d'escorte mobile se déroulant sur la vraie route impériale en haute altitude montrée dans l'image de référence actuelle.
+La même Sœur Aînée et la même Sœur Cadette doivent avancer continuellement tout en protégeant le Maître blessé, les disciples et les civils qui évacuent derrière elles.
+Le véritable objectif des ennemis n'est pas nécessairement de vaincre les deux protagonistes.
+Ce qu'ils veulent faire est :
+Briser la ligne défensive formée par les deux protagonistes ;
+S'infiltrer dans la foule en évacuation ;
+Bloquer le chemin pour empêcher toute avancée continue.
+Par conséquent, le cœur de cette bataille entière est :
+**Briser le blocus devant
+Bloquer les poursuivants derrière
+Les deux protagonistes échangent continuellement leurs positions avant/arrière
+Rouvrir toujours le chemin.**
+Les actions recherchent la fluidité mais ne doivent jamais être molles.
+La fluidité signifie :
+L'action précédente mène naturellement à la suivante ;
+Les personnages sont toujours en mouvement ;
+Attaque et défense ne se réinitialisent jamais à zéro ;
+La direction de l'arme et la direction du personnage sont toujours compréhensibles ;
+Après les coupes, on sait encore qui est devant, qui est derrière, et qui attaque d'où.
+La puissance vient de :
+Initiation soudaine ;
+Accélération évidente ;
+Collisions réelles ;
+Changements de centre de gravité ;
+Compensations de force ;
+Déséquilibre ;
+Inertie ;
+Contre-saisies ;
+Arrêts brusques ;
+Redémarrages immédiats.
+Interdiction de l'escrime douce, semblable à une danse.
+Interdiction de réinitialiser les poses après une frappe.
+Les ennemis doivent avoir un vrai jugement.
+Après l'échec de la première stratégie, ils doivent changer de cible, de routes d'attaque, poursuivre, bloquer les chemins, flanquer, ou activement séparer les deux protagonistes.
+Interdiction aux ennemis de s'aligner pour offrir des attaques.
+[Verrouillage Central des Personnages]
+Verrouillez strictement uniquement @Image 1 et @Image 2 comme les deux protagonistes centraux ainsi que leurs armes principales respectives.
+@Image 1 est toujours la même Sœur Aînée Immortelle de l'Épée qu'avant :
+Même identité féminine adulte d'Asie de l'Est ;
+25–30 ans ;
+Même visage ;
+Cheveux noirs longs mi-attachés ;
+Épingle à cheveux en jade blanc ;
+Proportions grandes et élancées ;
+Hanfu en soie blanche brodée ;
+Manches larges semi-transparentes superposées ;
+Ceinture en argent ;
+Pendentif en jade ;
+Bottes en tissu blanc ;
+La seule épée droite argentée dans tout le film.
+@Image 2 est toujours la même Sœur Cadette qu'avant :
+Même identité féminine adulte d'Asie de l'Est ;
+20–25 ans ;
+Même visage ;
+Cheveux noirs tressés ;
+Proportions petites ;
+Hanfu en lin cyan-vert ;
+Ceinture foncée ;
+Épingle à cheveux en bois ;
+Chaussures en tissu noir ;
+La seule épée en acier sombre dans tout le film.
+Les ennemis, le Maître, les disciples, les civils et les spectateurs sont tous simplement des personnages secondaires fonctionnels.
+Ne gaspillez pas l'attention de génération à verrouiller strictement les visages, coiffures et vêtements complexes des personnages secondaires.
+Assurez-vous simplement que les types de personnages, positions, armes et fonctions d'action restent logiquement continus dans le plan.
+[Ancrage Dur de la Scène Spécifique au Round | Priorité Maximale]
+La référence de fond téléchargée pour ce round affiche déjà un emplacement complet et hautement reconnaissable.
+Par conséquent, ce round entre directement dans :
+ANCRAGE DE LIEU DUR.
+L'image de référence n'est pas une inspiration de style.
+Toute la vidéo doit réellement se dérouler sur la même route impériale céleste en haute altitude montrée dans l'image de référence.
+Interdiction de la redessiner en un "emplacement Xianxia similaire".
+Doit maintenir continuellement les identités de lieu suivantes :
+L'axe central du cadre contient toujours la même route impériale extrêmement longue, droite, blanc pâle en haute altitude, s'étendant du premier plan vers le centre lointain.
+La route impériale maintient toujours une profondeur étroite évidente ; les personnages se déplacent principalement selon la direction avant-arrière ; interdiction de l'élargir en une arène circulaire, une grande cour ou une place large.
+Les côtés gauche et droit de la route impériale maintiennent toujours la même chute massive en haute altitude, mer de nuages blanc laiteux, et grandes cascades continues.
+Le milieu de plan gauche et droit contiennent toujours le même groupe de grands palais traditionnels, maintenant les positions gauche-droite originales, le volume et la relation spatiale avec la route impériale.
+Le premier plan gauche continue de conserver la même structure en bois sombre très proéminente en porte-à-faux ; les structures en bois dense ne doivent pas disparaître ou réduire en petits bâtiments ordinaires.
+Sous la route impériale et sous la brume, continuez à maintenir la même échelle de ville ancienne dense.
+Le centre le plus éloigné contient toujours le même corps de montagne géant / superstructure.
+Le centre lointain continue de conserver la même énorme porte annulaire / bâtiment annulaire.
+Les personnages sont toujours beaucoup plus petits que la route impériale, les palais, les cascades, la ville sous-jacente et les superstructures lointaines.
+Maintenez la même lumière diurne/matinale blanc grisâtre frais brillant, or chaud pâle, faible saturation, brume d'air blanc laiteux et immense profondeur que l'image de référence originale.
+L'anneau lointain énorme doit toujours rester très loin.
+Interdiction de le rapprocher soudainement pour devenir une simple porte de montagne.
+Interdiction de régénérer la route impériale actuelle en :
+Arène circulaire ;
+Cour ordinaire ;
+Place large ;
+Autre pont de nuages ;
+Nouvelle plateforme flottante ;
+Nouvelle porte de montagne ;
+Nouvelle île flottante ;
+Nouvelle falaise ;
+Nouvelle entrée de palais ;
+Nouveau grand escalier.
+Interdiction d'élargir soudainement la route impériale pour faciliter le combat.
+Interdiction de passer du jour à la nuit.
+Interdiction de remplacer la météo douce actuelle par des nuages d'orage sombres.
+Toutes les actions et caméras doivent s'adapter à la vraie route impériale actuelle.
+Interdiction de redessiner la scène pour le bien de l'action.
+[Dynamiques de Fond | Doivent être vivantes, mais par défaut non participantes à l'intrigue]
+La scène bouge continuellement de manière naturelle.
+Les nuages lointains se déplacent lentement.
+Les énormes cascades tombent continuellement de manière réaliste vers le bas.
+La brume d'eau au pied des cascades tourbillonne continuellement et fusionne avec la mer de nuages existante.
+Les couches de nuages et de brouillard à différentes distances maintiennent des vitesses légèrement différentes, créant une parallaxe réaliste.
+Le vent naturel en haute altitude affecte continuellement les cheveux noirs, les manches larges, les ourlets, les pompons et les accessoires des deux protagonistes.
+La fine brume entre la ville ancienne lointaine et les palais se déplace continuellement lentement.
+La perspective atmosphérique produit continuellement des changements subtils.
+Quelques silhouettes lointaines peuvent se déplacer naturellement dans les zones déjà existantes dans l'image de référence.
+Cependant :
+L'environnement est narrativement neutre par défaut.
+Les cascades ne peuvent pas soudainement aider quelqu'un.
+La brume ne peut pas activement obscurcir les ennemis.
+Le vent ne peut pas changer les trajectoires d'épée.
+Les bâtiments ne peuvent pas s'effondrer seuls.
+La route impériale ne peut pas se rompre.
+L'anneau lointain ne peut pas soudainement activer des sorts.
+L'environnement ne peut pas résoudre activement le combat.
+Seulement lorsque les personnages posent vraiment le pied, s'arrêtent brusquement ou entrent en collision avec des armes, permettez de légères poussières de pierre, éraflures, étincelles métalliques, déplacements de tissu et débris de friction de semelle.
+Les traces évidentes déjà apparues doivent raisonnablement persister.
+[0–5s | Accroche : Impossible de Reculer]
+0.0–1.0s.
+Utilisez un panorama grand angle ultra-large 24mm sur l'axe central.
+Reproduisez d'abord le lieu ; la priorité du lieu est plus élevée que l'action complexe.
+Le premier regard doit confirmer :
+La même longue route impériale blanche ;
+Les mêmes énormes cascades à gauche et à droite ;
+Les mêmes grands palais à gauche et à droite ;
+La même grande structure en bois à gauche ;
+La même ville ancienne en dessous ;
+Le même énorme anneau lointain.
+Les deux protagonistes maintiennent une petite échelle dans l'environnement immense.
+La Sœur Aînée est devant.
+La Sœur Cadette est un demi-pas derrière.
+Plus loin à distance, un vieux Maître blessé, plusieurs disciples et quelques civils continuent d'avancer le long de la même route impériale.
+Deux épéistes ennemis bloquent le chemin devant.
+L'ennemi de tête bloque la zone de passage efficace avec une épée horizontale :
+"En les protégeant, vous ne pouvez pas passer."
+La Sœur Aînée ne s'arrête pas du tout :
+"Qui a dit que nous reculions ?"
+Dès que le dernier mot tombe.
+L'ennemi lance sans avertissement.
+La caméra passe immédiatement du panorama fixe grand angle à un plan suivi d'environ 32–35mm reculant le long de l'axe de la route impériale.
+Le premier ennemi saisit rapidement la ligne centrale de la Sœur Aînée.
+La Sœur Aînée ne recule jamais vers l'arrière.
+Jusqu'à la dernière seconde, elle ne se décale que diagonalement d'une demi-largeur de corps, utilisant la même épée droite argentée pour compléter une collision courte, dure et réelle, poussant l'épée ennemie hors de l'axe central de la route impériale.
+Pas de coup de suite.
+Pas de pose.
+Elle continue immédiatement vers l'avant en passant par-dessus l'épaule de l'ennemi.
+Presque simultanément.
+Le deuxième ennemi coupe vers la Sœur Cadette depuis la direction opposée, essayant de la contourner pour attaquer la foule derrière.
+La Sœur Cadette ne poursuit pas sauvagement les ennemis.
+Elle se précipite directement dans la position entre l'ennemi et la foule en évacuation, changeant brièvement seulement la ligne d'attaque de l'adversaire avec l'épée en acier sombre, puis continue vers l'avant.
+Un ennemi passe rapidement près de la caméra, son corps remplissant instantanément l'écran, formant la première coupe cachée naturelle.
+À la fin de 0–5 secondes, le public doit clairement comprendre :
+Ils ne restent pas pour gagner.
+Ils reprennent le chemin.
+[5–10s | Amélioration : Les Ennemis Commencent à Attaquer les Vraies Cibles]
+Maintenez exactement la même route impériale, palais gauche/droit, cascades, anneau lointain et échelle mondiale.
+Utilisez un plan moyen de suivi d'environ 35mm se déplaçant le long de l'axe du pont.
+Après l'échec de la première attaque, les ennemis doivent changer proactivement de stratégie.
+Le chef ennemi n'insiste plus pour gagner face à face contre la Sœur Aînée.
+Il change soudainement de cible, essayant activement de contourner la Sœur Aînée, coupant entre la Sœur Cadette et la foule en évacuation.
+Un autre ennemi presse simultanément la Sœur Aînée depuis la direction opposée, essayant de vraiment séparer les deux protagonistes.
+Les actions forment une chaîne causale continue :
+La coupe horizontale ennemie force la Sœur Aînée à dévier brièvement de la ligne centrale de la route impériale ;
+La Sœur Aînée effectue seulement une libération de force brève, ne continuant pas l'enlisement ;
+L'inertie d'impact déjà investie par l'ennemi cause leur corps à légèrement dépasser la position d'attaque optimale ;
+La Sœur Cadette continue vers l'avant.
+L'ennemi de tête coupe soudainement en diagonale depuis le front droit de la Sœur Cadette.
+La Sœur Cadette intercepte la première frappe.
+L'ennemi ne fait pas de pause, changeant immédiatement en une deuxième attaque basse position.
+La Sœur Cadette est forcée de reculer d'un demi-pas vers la ligne centrale de la route impériale.
+Juste au moment où l'ennemi juge qu'elle a été isolée ——
+La Sœur Aînée se précipite soudainement vite depuis derrière la Sœur Cadette vers l'autre côté.
+Les deux complètent le premier échange de position avant/arrière extrêmement rapide.
+Pas une double rotation.
+Pas une pose synchronisée.
+Mais un échange compact de position croisant les épaules tout en maintenant le mouvement vers l'avant.
+La Sœur Aînée prend directement en charge l'ennemi pressant initialement la Sœur Cadette.
+La Sœur Cadette continue vers l'avant le long de la demi-route ouverte, devenant la nouvelle position avant.
+La caméra effectue seulement un court déplacement latéral dû au vrai échange de position des deux.
+Une épée ennemie effleure la lentille, formant une transition d'occlusion naturelle.
+Interdiction des orbites irrationnelles.
+À ce moment.
+Des pas de poursuite à grande vitesse viennent de derrière.
+Un poursuivant fonctionnel initialement resté plus en arrière est arrivé.
+Quelqu'un bloquant le chemin devant.
+Quelqu'un poursuivant de derrière.
+Les deux femmes sont vraiment piégées pour la première fois dans la situation la plus dangereuse de la route impériale étroite :
+Attaque en tenaille avant et arrière.
+[10–15s | Renversement : Ne Gardez Pas les Personnes, Gardez le Chemin]
+Réélargissez à un plan moyen mobile d'environ 28–32mm.
+Utilisez presque 1 seconde pour expliquer pleinement l'espace actuel :
+La Sœur Cadette est devant ;
+La Sœur Aînée est environ une longueur de corps derrière ;
+Le chef ennemi frontal reprend la ligne centrale ;
+Les poursuivants arrière approchent vite ;
+Le Maître en évacuation, les disciples et les civils sont toujours en mouvement dans des positions plus sûres plus loin.
+Tout le monde reste sur la même vraie route impériale de l'image de référence.
+Interdiction de couper soudainement à d'autres plateformes.
+Les ennemis frontaux et les poursuivants arrière lancent presque simultanément.
+La Sœur Cadette veut instinctivement se retourner.
+La Sœur Aînée dit seulement :
+"Ne me garde pas."
+La Sœur Cadette cesse de se retourner.
+La Sœur Aînée suit immédiatement avec :
+"Gardez le chemin."
+Les deux explosent presque simultanément.
+La Sœur Cadette ne se retourne pas pour sauver la Sœur Aînée.
+Elle continue vers l'avant, utilisant une collision courte et dure de l'épée en acier sombre pour pousser de force le bord de lame de l'ennemi frontal hors de l'axe central de la route impériale.
+La Sœur Aînée gère simultanément le poursuivant arrière.
+Elle cède intentionnellement un demi-pas, laissant l'ennemi entrer vraiment dans la portée d'attaque.
+Juste au moment où la force corporelle de l'opposant a été investie, elle coupe soudainement en diagonale hors de l'axe d'attaque.
+L'élan propre du poursuivant cause leur corps à dépasser d'une demi-longueur de corps.
+La Sœur Aînée ne poursuit pas.
+Accélère immédiatement vers l'avant à nouveau.
+À ce moment, la Sœur Cadette a déjà poussé l'ennemi frontal d'une demi-longueur de corps hors de la ligne centrale.
+Les deux protagonistes s'approchent à grande vitesse.
+Les lignes d'épaules effleurent à une distance extrêmement proche.
+Complètent le deuxième échange de position avant/arrière.
+Cette fois, elles ne se regardent pas du tout.
+La Sœur Cadette tombe naturellement en position arrière, prenant en charge l'ennemi qui s'est retourné pour poursuivre à nouveau.
+La Sœur Aînée redevient la position frontale, faisant face à l'ennemi de tête qui bloque toujours le chemin.
+Une épée ennemie balaye le premier plan de la caméra, remplissant instantanément l'écran, formant la coupe dure d'occlusion d'arme la plus explicite de tout le film.
+Coupez à une position de caméra inversée légèrement plus basse.
+La Sœur Aînée effectue seulement une déviation extérieure extrêmement courte et féroce avec l'épée argentée.
+La trajectoire d'épée du chef est complètement poussée hors de l'axe central de la route impériale.
+Parce que son poids corporel était déjà investi vers l'avant, sa propre inertie emporte son corps latéralement d'environ deux longueurs de corps.
+Les ennemis ne peuvent pas tomber du pont.
+Ne peuvent pas être exagérément soufflés.
+N'ont pas besoin de complètement perdre leur capacité de combat.
+Ouvrir le chemin suffit.
+La Sœur Aînée et la Sœur Cadette ne s'arrêtent absolument pas pour porter des coups finaux.
+Les deux passent directement entre les ennemis, continuant le long de la même route impériale blanche vers l'énorme anneau lointain.
+La foule en évacuation arrière commence aussi à avancer le long de la route rouverte.
+Le chef ennemi se retourne et crie furieusement :
+"Vous ne pouvez pas gagner !"
+Ne coupez pas aux gros plans héroïques frontaux.
+La caméra continue de suivre les deux femmes avançant depuis le côté-arrière.
+La Sœur Cadette ajuste encore sa respiration :
+"Nous n'étions jamais ici pour gagner."
+La Sœur Aînée regarde toujours la route devant :
+"Tant que la route est là, cela suffit."
+Laissez seulement un battement extrêmement court.
+Plus profondément le long de la même route impériale lointaine, plusieurs ennemis fonctionnels existant initialement dans la couche de silhouettes lointaines commencent à se disperser lentement, entrant dans les positions de blocage de chemin du prochain round.
+Interdiction de les générer à partir de rien dans la brume.
+Interdiction de les rafraîchir soudainement depuis les bâtiments.
+Ils existaient dans la vraie distance dès le début, révélant seulement leur hostilité par le mouvement à ce moment.
+Les deux protagonistes ne ralentissent pas du tout.
+L'épée argentée et l'épée en acier sombre maintiennent une préparation naturelle en position basse.
+La caméra continue de reculer le long de l'axe de la route impériale.
+Les cheveux noirs, les ourlets, les cascades, la brume, les nuages, les palais lointains et le monde immense bougent toujours naturellement.
+Dans l'état où les deux marchent encore activement vers le prochain lot d'ennemis :
+Coupe directe au noir.
+[Caméra & Montage]
+Trois segments narratifs, mais absolument pas mécaniquement égaux à trois plans.
+Tout le film utilise une petite quantité de coupes vraiment fonctionnelles.
+Routes principales de caméra :
+Panorama grand angle 24mm sur l'axe central confirmant le vrai lieu → Plan suivi 32–35mm reculant le long de l'axe de la route impériale existante → Corps humain passant la lentille forme une coupe cachée → Arme effleurant la lentille forme une coupe d'occlusion → Quand l'attaque en tenaille avant-arrière se produit, réélargir le plan pour expliquer l'espace → Enfin suivi continu depuis le côté-arrière des deux protagonistes avançant vers l'anneau lointain.
+Toutes les coupes ne peuvent être déclenchées naturellement que par les événements suivants :
+Occlusion de personnage ;
+Occlusion d'arme ;
+Collision réelle d'arme ;
+Changement évident de direction de mouvement ;
+Déséquilibre corporel évident ;
+Changement soudain de vitesse.
+Interdiction du montage fragmenté mécanique.
+Interdiction que la caméra soit plus agitée que l'action.
+Interdiction des ORBITES sans signification.
+Interdiction de changer les positions de la route impériale, des palais, des cascades et des anneaux lointains pour le mouvement de caméra.
+L'action conduit la caméra.
+La caméra ne peut pas conduire la déformation de la scène.
+[Son]
+L'ouverture établit d'abord :
+Vent naturel en haute altitude ;
+Rumble basse fréquence des énormes cascades existant continuellement à distance ;
+Pas sur la route impériale en pierre claire ;
+Plancher de bruit environnemental de la ville ancienne extrêmement lointaine.
+Après l'explosion du combat ajoutez :
+Sifflement court et aigu de l'épée fendante ;
+Collisions métalliques dures et aiguës ;
+Friction de semelle ;
+Tremblement de tissu de soie ;
+Pas rapides des poursuivants ;
+Respiration des personnages graduellement lourde.
+Quand l'attaque en tenaille avant-arrière se forme, abaissez temporairement la musique et le champ sonore environnemental large.
+Mettez en évidence :
+Pas ;
+Respiration ;
+Directions d'armes.
+Après que le chemin soit rouvert, les sons de combat s'estompent graduellement derrière les personnages.
+Le dialogue final doit être clair :
+"Nous n'étions jamais ici pour gagner."
+"Tant que la route est là, cela suffit."
+Après la fin du dialogue :
+Cascades ;
+Vent en haute altitude ;
+Pas continus vers l'avant
+Reoccupent le champ sonore principal.
+La musique ne doit jamais surpasser les détails d'action et le dialogue.
+[Priorités de Génération Seedance 2.0 Mini]
+P0 : L'identité de lieu de l'image de référence de fond téléchargée ne peut absolument pas changer.
+P0 : Stabilité d'identité des personnages centraux @Image 1 et @Image 2.
+P1 : Stabilité d'attribution et de continuité de l'épée droite argentée et de l'épée en acier sombre.
+P1 : Relation spatiale avant-arrière claire sur la même route impériale.
+P1 : Direction continue des personnages vers l'avant, direction d'attaque ennemie et axe de caméra.
+P2 : Visages spécifiques et vêtements complexes des ennemis, Maîtres, disciples et civils.
+Si la complexité du modèle doit être réduite :
+Réduisez d'abord les détails des personnages secondaires ;
+Ensuite réduisez les mouvements d'attaque supplémentaires ;
+Puis réduisez les effets visuels décoratifs.
+Ne peut ABSOLUMENT PAS sacrifier :
+Identité de lieu de l'image de référence ;
+Identité des protagonistes centraux ;
+Causalité d'action ;
+Continuité spatiale.
+[Contraintes Négatives]
+Interdiction de transformer la route impériale actuelle en haute altitude en arène circulaire. Interdiction de changer en cour ordinaire. Interdiction de changer en place large. Interdiction d'ajouter un autre pont de nuages. Interdiction d'ajouter une porte de montagne indépendante. Interdiction d'ajouter une île flottante. Interdiction d'ajouter une plateforme de combat. Interdiction de supprimer les énormes cascades gauche/droite. Interdiction de supprimer les grands palais gauche/droite. Interdiction de supprimer la grande structure en bois en porte-à-faux à gauche. Interdiction de supprimer la ville ancienne dense sous-jacente. Interdiction de supprimer la structure annulaire énorme lointaine. Interdiction de rapprocher l'anneau énorme lointain pour devenir une tour de porte ordinaire. Interdiction de changer les positions relatives des palais lointains et des bâtiments de milieu de plan. Interdiction de passer soudainement du jour à la nuit. Interdiction de remplacer la météo douce actuelle par des nuages d'orage sombres. Interdiction d'élargir la route impériale pour l'action. Interdiction de changer la largeur de la route impériale après les coupes. Interdiction que l'environnement participe activement à l'intrigue. Interdiction de pont cassé soudain. Interdiction que les bâtiments s'effondrent seuls. Interdiction que la brume obscurcisse activement les ennemis. Interdiction que la cascade change soudainement l'attaque. Interdiction que le vent change soudainement la trajectoire d'épée. Interdiction que les personnages se téléportent sans trajectoire. Interdiction que les deux protagonistes échangent leurs positions de nulle part. Interdiction de qi d'épée aléatoire sur grande surface. Interdiction de collisions d'ondes d'énergie. Interdiction de pollution lumineuse. Interdiction que les ennemis s'alignent pour offrir des attaques. Interdiction que les ennemis soient passifs pendant de longues périodes. Interdiction de poussées d'armes de longue durée. Interdiction que les personnages s'arrêtent pour attendre après un mouvement. Interdiction de rotations sans signification. Interdiction de Poses sans signification. Interdiction de slow motion. Interdiction de bullet time. Interdiction de hit-stop. Interdiction de Motion Blur sévère obscurcissant les personnages et les armes. Interdiction de bras, doigts et armes traversant les modèles pendant l'action. Interdiction de duplication d'arme du protagoniste. Interdiction d'échange de visage de personnage. Interdiction de changements de costume aléatoires. Interdiction de dérive soudaine du fond. Interdiction de sous-titres.
+flou, mauvaise qualité, basse qualité, basse résolution, bruité, artefacts jpeg, filigrane, texte, erreur ; déformé, muté, anatomie mauvaise, mains mal dessinées, mauvaise composition, hors cadre, défiguré ; personnage incohérent, changement de vêtements, morphing de visage, dérive de fond, glitchs de coupe
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106728656399970304/img/DeUvkEJCnbRcNZ9b.jpg" width="600" alt="Prompt de Bataille d'Escorte Cinématographique Seedance 2.0 Mini">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11921)**
+
+**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2106728692986843641) | **Publié:** Oct 4, 2026
+
+---
+### Prompt d'action Seedance 2.0 : Piège du faux duel
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt pour générer une séquence d'action cinématographique Xianxia où deux épéistes simulent un duel pour exposer des assassins cachés, mettant l'accent sur le flux dynamique du combat et la cohérence stricte des personnages et de l'environnement.
+
+#### 📝 Prompt
+
+```
+Texture photoréaliste cinématographique, film d'action pur en swordsmanship à haute tension dans un cadre ancien chinois Xianxia.
+
+Rupture totale avec les schémas précédents :
+
+Changement d'arme pour la sœur aînée afin de contrer
+Percée complète
+Zones aveugles complémentaires doubles
+
+Le cœur devient :
+
+Les sœurs aînées et cadettes semblent être dans un duel réellement dangereux, utilisant en fait cette situation pour forcer les assassins tapis dans l'ombre à se révéler.
+
+Objectifs narratifs à trois couches
+Couche 1 Accroche : Faire croire au public qu'ils se battent vraiment
+Couche 2 Rebondissement : Révéler qu'ils contrôlaient l'espace via leur élan mutuel à l'épée
+Accroche finale : Laisser le suspense que la deuxième vague d'ennemis n'est pas encore apparue
+
+Principe général d'action
+
+Les actions doivent être fluides, mais jamais molles.
+
+Fluidité
+
+Définie comme :
+L'action précédente crée naturellement la suivante
+
+La direction du mouvement s'étend continuellement
+Causalité claire entre caméra, corps et trajectoire de l'épée
+Sensation de puissance
+
+Définie comme :
+Démarrage soudain
+
+Contact violent
+Déviation de force
+Déséquilibre corporel
+Continuation par inertie
+Arrêt abrupt
+Verrouillage personnage & arme
+
+Ne verrouiller strictement que les personnages principaux @image 1 et @image 2 ainsi que leurs armes exclusives.
+
+@image 1 | Sœur Aînée Immortelle de l'Épée
+
+La même Sœur Aînée de @image 1 maintient toujours :
+
+Même visage féminin asiatique adulte
+Apparence de 25–30 ans
+
+Longs cheveux noirs partiellement attachés
+Épingle à cheveux en jade blanc
+Proportions hautes et élancées
+Hanfu en soie blanche brodée
+Manches larges semi-transparentes
+Ceinture argentée à la taille
+Pendentif en jade
+Bottes en tissu blanc
+Épée droite unique en argent
+@image 2 | Sœur Cadette
+La même Sœur Cadette de @image 2 maintient toujours :
+
+Même visage féminin asiatique adulte
+Apparence de 20–25 ans
+
+Cheveux noirs tressés
+Proportions petites
+Hanfu en lin bleu-vert
+Ceinture foncée
+Épingle à cheveux en bois
+Chaussures noires en tissu
+Épée unique en acier sombre
+Autres personnages
+Assassins, maître, disciples, passants sont uniquement fonctionnels, sans verrouillage strict du visage/vêtements comme pour les protagonistes.
+
+Contrôle de la scène circulaire | Priorité maximale
+L'arrière-plan téléchargé montre clairement un lieu complet et hautement reconnaissable. Entrer en mode ANCRE DE LOCALISATION DURE.
+L'image de référence est le lieu réel de l'histoire, pas une inspiration visuelle.
+
+Doit maintenir les éléments spatiaux originaux
+
+Immense plateforme de pierre au premier plan
+
+Balustrades en pierre continues au bord
+
+Brume basse à grande profondeur au-delà des balustrades
+Toits de ville ancienne dense au plan moyen
+Hall central
+Complexe palatial immense distant en position élevée
+Forte hiérarchie de distance entre la ville et le palais lointain
+Ciel gris-bleu froid et brume basse
+Lumière chaude provenant du palais lointain
+Échelle macro : personnages minuscules, ville/palais immenses
+Contraintes clés rigides
+Le palais le plus élevé au loin doit toujours rester :
+Très loin
+
+Très grand
+à l'échelle visuelle.
+
+Interdiction de rapprocher le palais lointain derrière les personnages comme une porte proche lors des plans moyens.
+Limitation du lieu
+Toute la lutte de 15 secondes se déroule strictement sur :
+
+La grande plateforme de pierre explicitement présente dans la référence
+
+Et les zones directement connectées
+
+Interdiction de générer :
+Ponts de pierre flottants
+
+Ponts de nuages
+Portes indépendantes
+
+Îles
+Nouvelles falaises
+Nouvelles entrées de palais
+Nouveaux escaliers
+Nouvelles plateformes de combat
+Tout grand bâtiment changeant l'identité du lieu
+Exigence de continuité spatiale
+Après chaque coupe, ces relations restent stables :
+Plateforme
+Balustrades
+
+Couches de la ville
+
+Bâtiments centraux
+
+Palais lointain
+Horizon
+Les actions/caméras s'adaptent à la plateforme.
+Ne jamais changer la forme de la plateforme pour des actions décrites textuellement.
+État de l'arrière-plan
+L'arrière-plan vit naturellement :
+La grande brume basse bouge lentement entre les couches de la ville
+Les nuages élevés changent naturellement
+
+La lumière chaude du palais lointain est affectée par l'air/la brume
+Les cheveux/bas des vêtements bougent avec le vent de la plateforme
+
+Profondeur atmosphérique, réflexions, quelques figures distantes micro-mouvement
+
+Seulement sur des actions réelles :
+
+Pas
+
+Collision d'armes
+Passage rapide de vêtements
+Autoriser le retour local :
+Poussière de pierre mineure
+Étincelles
+
+Déplacement des ourlets
+
+Strictement interdit
+La brume cachant soudainement les ennemis
+Les balustrades se brisant
+
+Les palais se transformant eux-mêmes
+
+L'arrière-plan aidant un côté à accomplir le rebondissement
+Structure des segments
+0–5s | Faux Duel : Tromper le public
+
+0.0–1.0s
+Utiliser un plan large fixe de 24mm.
+Doit conserver :
+Grande plateforme de pierre
+Profondeur complète du palais/ville lointains
+
+Le public connaît le même lieu grâce à la référence.
+
+Les mêmes sœurs aînées en robe blanche et cadettes en robe bleue se font face à plusieurs mètres de distance.
+
+La zone sûre au loin contient :
+
+Quelques disciples
+Spectateurs ordinaires
+
+Le même maître âgé
+
+Mais ils ne sont que de l'arrière-plan.
+Dialogue
+
+La sœur cadette chuchote :
+
+"Vont-ils vraiment mordre ?"
+
+La sœur aînée répond :
+
+"Piégeons-les d'abord."
+Sur le dernier mot, les deux explosent simultanément sans avertissement.
+La caméra passe à un plan moyen mobile ~35mm depuis le plan large fixe.
+
+Premier tour de faux duel
+
+La première épée de la sœur aînée est assez rapide pour sembler frapper la cadette
+La cadette effleure l'extérieur du tranchant jusqu'au dernier moment
+
+Puis contre-attaque basse avec l'épée en acier sombre
+La sœur aînée pivote pour éviter
+
+Les épées en argent et acier sombre ont une première collision métallique très brève et dure
+
+Exigences clés
+Aucune pose
+
+Enchaînement immédiat vers le mouvement suivant après la collision
+Les manches blancs larges passent rapidement devant la caméra, formant la première coupe naturelle à peine perceptible.
+Effet requis
+Faire douter le public :
+Jouent-ils ou se battent-ils vraiment ?
+5–10s | Couche 1 Rebondissement : Les vrais ennemis apparaissent
+
+Conserver :
+Plateforme identique
+Ville
+
+Échelle du palais lointain
+
+Propriété des épées
+Utiliser un travelling latéral 35–40mm, le combat se développe horizontalement/diagonalement sur la plateforme au premier plan, sans nouveaux lieux.
+
+Offensive/Défensive continue
+
+Les sœurs complètent une séquence à haute vitesse mais spatialement claire :
+
+La sœur aînée pousse
+
+La cadette dévie
+
+La cadette contre-glisse immédiatement le long du côté exposé par la sœur aînée
+La sœur aînée se baisse sous l'épée
+Croisement à haute vitesse, échangeant les positions originales
+Règles d'action
+
+Tous les mouvements s'enchaînent naturellement.
+La frappe précédente crée la suivante.
+Pas de remise à zéro de la posture après un mouvement.
+
+Premier assassin révélé
+Juste au moment où les épées croisent <0.5s, un assassin fonctionnel mélangé dans la foule distante surgit, attaquant depuis la zone aveugle de la sœur aînée.
+
+Exigences clés
+Ne jamais pauser le faux duel.
+La sœur aînée ne remarque le danger que via un bref changement de regard de la cadette.
+La cadette continue de swinguer comme si elle attaquait la sœur aînée.
+La sœur aînée se baisse sous l'épée de la cadette au dernier moment.
+L'épée de la cadette passe violemment près de son épaule, repoussant l'arme de l'assassin venant de derrière.
+Cette seconde doit faire réaliser au public :
+Le duel était un appât.
+Deuxième assassin révélé
+Presque aucun souffle.
+Un deuxième assassin charge la cadette depuis l'opposé.
+
+La sœur aînée utilise l'inertie rotationnelle du croisement, coupe près de l'épaule de la cadette, une brève collision d'épée en argent modifie la trajectoire du deuxième assassin.
+
+Résultat
+Le faux duel se convertit naturellement en un vrai combat à quatre pendant le mouvement.
+
+Strictement interdit
+Quiconque s'arrêtant pour expliquer
+
+Assassins faisant la queue
+
+Maître observant silencieusement de loin
+10–15s | Couche 2 Rebondissement : Pas de retenue entre elles
+Deux assassins changent de stratégie upon exposure.
+Accélèrent depuis deux directions, essayant de véritablement séparer les femmes.
+
+Utiliser un plan mobile légèrement plus large.
+Montrer la relation positionnelle complète des quatre sur l'immense plateforme, l'arrière-plan montrant toujours la ville ancienne/palais lointain.
+Double croisement et échange
+
+Les sœurs ne reculent pas vers l'extérieur.
+Chargent l'une vers l'autre à haute vitesse.
+Les lignes des épaules se frôlent étroitement à pleine vitesse, échangeant instantanément avant/arrière.
+Le croisement doit être fluide, sans couture.
+Au moment du frôlement :
+
+La cadette prend l'assassin attaquant la zone aveugle de la sœur aînée
+
+La sœur aînée prend l'assassin chargeant la cadette
+
+Aucun contact visuel tout au long.
+L'arme d'un assassin balaie violemment le cadre de la caméra, formant la coupe dure la plus claire masquée par une arme naturelle.
+
+Coupe vers un nouvel axe inversé.
+Les protagonistes sont complètement échangés.
+Mouvements de rupture finaux
+Chacune effectue une contre-attaque inverse extrêmement courte et directe.
+Strictement interdit
+
+Grand qi d'épée
+
+Belles pirouettes
+
+Ralenti
+Résultats :
+
+La trajectoire de l'arme d'un assassin est altérée par la cadette, son corps glisse vers l'extérieur due à sa propre inertie
+L'axe d'attaque de l'autre est altéré par l'épée en argent de la sœur aînée, forcé au-delà de la portée optimale
+
+Les deux assassins sont vivants, ayant juste perdu leur chance pour ce round.
+Coupure sonore
+
+Le bruit du combat se resserre soudainement.
+Seulement :
+
+Respiration des quatre personnes
+Légère vibration des épées des deux protagonistes
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106642529160749056/img/ifDPxtnGu3ym2xT4.jpg" width="600" alt="Prompt d'action Seedance 2.0 : Piège du faux duel">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11922)**
+
+**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2106643465094431201) | **Publié:** Oct 4, 2026
+
+---
 ### Prompt de Bataille dans un Couloir de Guerrier Sci-Fi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -420,6 +1264,25 @@ Court métrage anime japonais 2D vertical 9:16 de 15 secondes, transformation ne
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11847)**
 
 **Auteur:** [Nadya](https://x.com/nadyamaje) | **Source:** [Link](https://x.com/nadyamaje/status/2106554883235356947) | **Publié:** Oct 4, 2026
+
+---
+### Projectionniste Bleach Bypass
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour la génération de vidéo à partir de texte mettant en scène un projectionniste âgé dans un cinéma démoli, avec un style de traitement filmique bleach-bypass et des instructions cinématographiques spécifiques.
+
+#### 📝 Prompt
+
+```
+Dans un cinéma de quartier abandonné en cours de démolition, un vieux projectionniste est assis seul au milieu de la salle dévastée, regardant le dernier film avant que le bâtiment ne disparaisse. Des rangées de sièges en velours poussiéreux l'entourent, des sections du plafond sont manquantes, la lumière du jour entre par un énorme trou dans le mur, on aperçoit des engins de chantier à l'extérieur. Le projecteur continue de tourner, son faisceau traversant d'épais nuages de poussière. La caméra se déplace lentement depuis l'entrée ruinée, descend l'allée vers le projectionniste, puis tourne derrière lui pour révéler l'image projetée sur l'écran endommagé. Cinématographie live-action réaliste, traitement filmique bleach-bypass, bordeaux fané et or réduits presque au gris, noirs profonds, reflets argentés brillants, contraste sévère, grain 35 mm prononcé, subtiles rayures et variations d'exposition, retenue émotionnelle, pas de mélodrame.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106514798942752768/img/wF54JkcWicweR581.jpg" width="600" alt="Projectionniste Bleach Bypass">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11916)**
+
+**Auteur:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2106515375559217226) | **Publié:** Oct 3, 2026
 
 ---
 ### Prompt de combat Wuxia Seedance 2.0 Mini
@@ -5538,244 +6401,6 @@ Créez une publicité vidéo de 15 secondes ultra-réaliste pour des soins de lu
 **Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2101887507059351894) | **Publié:** Sep 21, 2026
 
 ---
-### Prompt pour Fiche de Référence de Personnage Cinématographique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt complet pour créer des fiches de référence de personnages cinématographiques ultra-réalistes à partir d'images téléversées en utilisant Seedance 2.0 Fast.
-
-#### 📝 Prompt
-
-```
-CRÉER UNE FICHE DE RÉFÉRENCE DE PERSONNAGE CINÉMATOGRAPHIQUE PREMIUM, ULTRA-RÉALISTE — DESIGN DE PRODUCTION FILM PROFESSIONNEL.
-
-VERROUILLAGE DE LA RÉFÉRENCE :
-Utilisez l'image de référence téléversée comme SEULE source de l'identité du sujet.
-
-Préservez avec une précision maximale l'identité faciale exacte, la forme du visage, les yeux, les sourcils, le nez, les lèvres, la mâchoire, le teint, la coiffure, la couleur des cheveux, les proportions corporelles, l'âge et l'apparence reconnaissable.
-
-Adaptez naturellement À TOUTE PERSONNE, indépendamment du genre, de l'âge, de la coiffure, de la morphologie ou de l'apparence personnelle.
-
-CONCEPT CENTRAL :
-Transformez la personne téléversée en un personnage cinématographique entièrement développé, inspiré par son apparence, sa personnalité et sa présence visuelle.
-
-Concevez automatiquement un concept de personnage unique, une tenue, des accessoires, une coiffure, une palette de couleurs et une identité visuelle qui conviennent au sujet.
-
-DESIGN DU PERSONNAGE :
-Créez un personnage original et visuellement puissant, adapté à une production de film premium de style Hollywood ou Netflix.
-
-Le personnage peut être : UN GUERRIER, UN VILAIN, UN HÉROS, UNE SORCIÈRE, UN PERSONNAGE ROYAL, UN EXPLORATEUR SCIENCE-FICTION, UN ASSASSIN, UN DÉTECTIVE, UN SURVIVANT, UN PERSONNAGE FANTAISISTE OU UNE PERSONNE CINÉMATOGRAPHIQUE MODERNE.
-
-Choisissez la direction de personnage la plus adaptée en fonction de la référence téléversée et du style visuel souhaité.
-
-DISPOSITION DE LA FICHE DE PERSONNAGE :
-
-1. PORTRAIT PRINCIPAL (HERO PORTRAIT) :
-Créez un grand portrait cinématographique dramatique et ultra-réaliste montrant le visage du personnage, sa coiffure, sa tenue et sa personnalité globale.
-
-2. EXPRESSIONS FACIALES :
-Créez une grille professionnelle d'expressions faciales incluant : NEUTRE, SÉRIEUX, INTENSE, DOUX, SOURIRE, EN COLÈRE, TRISTE, MYSTÉRIEUX.
-Maintenez une identité faciale cohérente dans chaque panneau.
-
-3. VUES TOUT AUTOUR / CORPS ENTIER :
-Montrez le personnage en : VUE DE FACE, VUE DE PROFIL, VUE DE DOS, VUE TROIS-QUARTS.
-Maintenez une tenue, des proportions corporelles, des accessoires et une coiffure cohérents sur toutes les vues.
-
-4. VARIATIONS DE PORTRAITS :
-Incluez des gros plans cinématographiques sous différents angles : PORTRAIT DE FACE, PORTRAIT TROIS-QUARTS, PORTRAIT DE PROFIL, PORTRAIT DRAMATIQUE AVEC OMBRES.
-
-5. GROS PLANS SUR LES COSTUMES ET LES DÉTAILS :
-Montrez des gros plans très détaillés de : COIFFE OU COIFFURE, DÉTAILS DU COSTUME, ACCESSOIRES, DÉTAILS DE CEINTURE OU DE TAILLE, DÉTAILS DES GANTS OU DES MAINS, TEXTURE DU TISSU, COLIER OU PROPRIÉTÉ SIGNATURE.
-
-6. PALETTE DE COULEURS :
-Affichez une palette de couleurs professionnelle correspondant au costume du personnage et au thème cinématographique.
-
-7. INFORMATIONS SUR LE PERSONNAGE :
-Incluez une section professionnelle épurée contenant : NOM DU PERSONNAGE, RÔLE, ALIAS, PERSONNALITÉ, STYLE, THÈME, ÉLÉMENT SIGNATURE.
-
-8. CONSTRUCTION D'UNIVERS CINÉMATOGRAPHIQUE :
-Ajoutez un arrière-plan atmosphérique subtil ou une illustration environnementale qui complète l'univers du personnage.
-
-STYLE VISUEL :
-Concept art premium hollywoodien. Photographie ultra-réaliste. Design de costumes haut de gamme. Éclairage cinématographique. Texture naturelle de la peau. Détails réalistes des tissus et des matériaux. Fiche de référence de production de film professionnelle. Mise en page éditoriale élégante. Atmosphère cinématographique subtile. Détails faciaux nets. Rendu photoréaliste.
-```
-
-<img src="https://cms-assets.youmind.com/media/1789970152422_3vld7y_HSnCVWybwAAnaFA.jpg" width="600" alt="Prompt pour Fiche de Référence de Personnage Cinématographique">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11053)**
-
-**Auteur:** [M. Asif](https://x.com/meAsifAi) | **Source:** [Link](https://x.com/meAsifAi/status/2101515191158542788) | **Publié:** Sep 20, 2026
-
----
-### Animation de sauvetage par un dragon lors d'une avalanche de train
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour un court-métrage d'animation cinématographique de 15 secondes mettant en scène un train, une avalanche et un sauvetage par un dragon, créé avec Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Court-métrage d'animation cinématographique de 15 secondes.
-Un train de passagers file à toute vitesse dans une vallée montagneuse enneigée.
-Devant lui, une immense avalanche se déclenche soudainement et commence à dévaler la pente vers les rails.
-Le train freine brusquement.
-Les passagers regardent par les fenêtres alors que la neige et les roches s'abattent sur la montagne dans un fracas assourdissant.
-Soudain, un dragon massif jaillit de la forêt.
-Il atterrit juste à côté des rails et déploie ses immenses ailes.
-L'avalanche frappe.
-Le dragon s'arc-boute contre le sol, protégeant le train des pires débris qui tombent.
-La neige explose autour de lui.
-Le train s'arrête à quelques centimètres seulement de la voie obstruée.
-Dans le premier wagon, une petite fille colle sa main contre la vitre.
-Le dragon épuisé se retourne vers elle.
-Elle sourit.
-Le dragon abaisse doucement une aile avant de disparaître dans la forêt enneigée.
-
-Animation cinématographique stylisée, design de créature sophistiqué, textures picturales, environnements réalistes, action physique dramatique, mouvement de caméra dynamique, forte sensation d'échelle, fin émotionnelle chaleureuse, couleurs naturelles, éclairage cinématographique, sans dialogue, sans pouvoirs magiques, sans horreur, sans violence.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101414099632422912/img/vPUySBkizJaVP6E5.jpg" width="600" alt="Animation de sauvetage par un dragon lors d'une avalanche de train">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11052)**
-
-**Auteur:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2101429374755262628) | **Publié:** Sep 19, 2026
-
----
-### Prompt vidéo : Guerrier des Ténèbres sur le Toit sous l'Orage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une scène d'action cinématographique mettant en vedette un guerrier en armure sur un toit pluvieux, avec un éclairage dramatique et des effets d'eau.
-
-#### 📝 Prompt
-
-```
-Scène cinématographique ultra-réaliste d'un mystérieux guerrier des ténèbres vêtu d'une armure noire fluide, se tenant sur un toit mouillé pendant un orage. Pose dynamique puissante, éclaboussures d'eau spectaculaires autour de lui, ciel sombre et nuageux, éclairage atmosphérique intense, gouttelettes d'eau en suspension et mouvement, skyline futuriste de la ville en arrière-plan, composition dramatique typique des films d'action, textures réalistes du tissu et de l'armure, éclairage volumétrique, faible profondeur de champ, haute définition, HDR, 8K, photoréalisme, étalonnage colorimétrique cinématographique, composition verticale 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101169609365921792/img/-IstuS_VdtsgYbeM.jpg" width="600" alt="Prompt vidéo : Guerrier des Ténèbres sur le Toit sous l'Orage">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11012)**
-
-**Auteur:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2101169774076231947) | **Publié:** Sep 19, 2026
-
----
-### Prompt Vidéo Cinématographique pour Routine de Soin de la Peau
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une publicité photoréaliste pour soins de la peau mettant en scène une jeune femme dans une pièce lumineuse, avec un accent sur la texture et l'éclairage.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo publicitaire photoréaliste de 15 secondes pour des soins de la peau, mettant en scène une jeune femme coréenne dans une pièce blanche, lumineuse et élégante. Commencez par un gros plan extrême de son visage naturel alors qu'elle touche délicatement sa joue du bout des doigts, révélant une texture de peau réaliste sous une lumière douce du jour. Montrez ensuite un flacon transparent de soin posé sur une table en marbre blanc, tandis que sa main s'en approche lentement. Poursuivez avec l'application délicate du produit sur son visage à deux mains, en veillant à ce que ses traits et son apparence restent cohérents. Montrez-la les yeux fermés paisiblement, massant doucement ses joues du bout des doigts. Terminez par un plan plus large où elle porte une simple robe blanche, debout près d'une grande fenêtre, les rideaux blancs vaporeux bougeant naturellement sous le soleil. Gardez les mouvements fluides et réalistes, avec des mains naturelles, une peau réaliste, un éclairage cinématographique doux, une atmosphère luxueuse et épurée, un mouvement de caméra subtil, sans distorsions ni détails artificiels.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101138351013416960/img/ZHT5-dQIrBB1HX68.jpg" width="600" alt="Prompt Vidéo Cinématographique pour Routine de Soin de la Peau">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11011)**
-
-**Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2101138386132386252) | **Publié:** Sep 19, 2026
-
----
-### Prompt Vidéo Femme Paysage Gelé
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une scène cinématographique d'une femme dans un paysage enneigé avec du vent et des particules de neige.
-
-#### 📝 Prompt
-
-```
-Scène cinématographique ultra-réaliste d'une jeune femme debout seule dans un vaste paysage enneigé gelé, portant un manteau sombre imperméable, le vent soufflant dans ses cheveux, une expression épuisée mais déterminée, tempête de neige intense, nuages d'orage sombres dramatiques, montagnes couvertes de neige en arrière-plan, atmosphère bleue froide, particules de neige réalistes, texture naturelle de la peau, narration émotionnelle, éclairage dramatique, faible profondeur de champ, étalonnage des couleurs cinématographique, très détaillé, photoréaliste, 8K, HDR, arrêt sur image professionnel de film, objectif 85mm, composition verticale 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100821852797227008/img/ccGPsPHV1WCfCErM.jpg" width="600" alt="Prompt Vidéo Femme Paysage Gelé">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11013)**
-
-**Auteur:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2100822353446060246) | **Publié:** Sep 18, 2026
-
----
-### Spot publicitaire de luxe pour le parfum Bleu de Chanel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour un spot publicitaire cinématographique de parfum de luxe mettant en vedette Bleu de Chanel, incluant des actions spécifiques, des mouvements de caméra et des instructions de voix off.
-
-#### 📝 Prompt
-
-```
-Spot publicitaire de luxe cinématographique, 10 secondes. Une femme élégante aux cheveux foncés coiffés en arrière, portant un chemisier noir à manches longues avec des épaules bouffantes, se tient devant un fond de studio bleu-gris pâle doux. Elle tient une bouteille carrée en verre bleu marine foncé de Bleu de Chanel Eau de Parfum à deux mains vers la caméra, la présentant. Gros plan sur ses doigts retirant le bouchon noir, révélant la buse de vaporisation argentée. Elle vaporise un fin nuage sur l'intérieur de son poignet dans un cadre lumineux près d'une fenêtre. Elle porte ensuite son poignet à son visage, ferme les yeux et inhale le parfum avec un léger sourire satisfait. Plan final : la bouteille remplit le cadre en mise au point nette tandis qu'elle est floue en arrière-plan. Éclairage naturel doux, faible profondeur de champ, esthétique de film de mode haut de gamme, mouvements lents et élégants, look commercial premium.
-Voix off : « Se préparer, une dernière touche. Bleu de Chanel, faites-le vôtre. »
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100818151134871552/img/FCELWlH2dnIKUU3Y.jpg" width="600" alt="Spot publicitaire de luxe pour le parfum Bleu de Chanel">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10982)**
-
-**Auteur:** [Elisia](https://x.com/AiwithElisia) | **Source:** [Link](https://x.com/AiwithElisia/status/2100818214754128101) | **Publié:** Sep 18, 2026
-
----
-### Souvenirs familiaux à la campagne coréenne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt nostalgique pour une vidéo dépeignant une mère coréenne et ses enfants profitant d'une soirée d'été paisible dans un village rural, mettant l'accent sur les interactions familiales et la beauté des paysages.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo mettant en vedette de belles expressions coréennes et un style de vie chaleureux et nostalgique à la campagne coréenne. Montrez une mère coréenne aimante et trois jeunes enfants profitant d'une soirée d'été paisible dans un village traditionnel coréen, avec une lumière dorée du golden hour, de vieilles maisons aux toits de tuiles, des murs de pierre, des rizières vertes et une atmosphère rurale calme. Commencez par la mère ouvrant doucement une vieille porte en bois, puis passez à un plan-séquence cinématographique où elle fait du vélo avec les enfants qui pédalent joyeusement à ses côtés sur la route du village. Capturez des rires naturels d'enfants, des mouvements doux de vélos, des vêtements flottants et des interactions familiales authentiques avec des traits et des expressions faciales coréens réalistes. Passez à des plans cinématographiques plus larges montrant la famille faisant du vélo le long de rizières luxuriantes et d'un petit ruisseau, créant un sentiment paisible de liberté et de nostalgie. Montrez la mère assise près des enfants au bord du champ, partageant des fruits frais et des collations tandis qu'ils sourient et discutent ensemble. Utilisez une belle lumière naturelle, une douce lueur du coucher de soleil, un grain de film subtil, une faible profondeur de champ, des textures réalistes et des mouvements de caméra cinématographiques fluides. Terminez par un large plan émotionnel de la famille assise ensemble près du ruisseau tranquille sous un grand arbre alors que le soleil se couche derrière les rizières. Action réelle photoréaliste, esthétique de film familial coréen cinématographique, couleurs chaudes, rythme doux, émotions authentiques, composition 16:9, très détaillé, physique naturelle, pas de visages artificiels.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100817472219914240/img/-EjhCs7GzNqSVkZW.jpg" width="600" alt="Souvenirs familiaux à la campagne coréenne">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10983)**
-
-**Auteur:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2100817795214954593) | **Publié:** Sep 18, 2026
-
----
-### Scène Cinématographique Chaotique en Salle de Classe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt pour une vidéo cinématographique de 15 secondes mettant en scène une lycéenne coréenne dans une salle de classe chaotique avec des objets volants, axée sur un mouvement réaliste et un suivi de caméra.
-
-#### 📝 Prompt
-
-```
-Prompt pour une vidéo cinématographique de 15 secondes : Une jeune lycéenne coréenne réaliste se tient au centre d'une salle de classe désordonnée, portant une chemise d'uniforme scolaire blanche à manches courtes avec un nœud papillon rouge et une jupe plissée gris foncé, tandis que plusieurs élèves sont assis et bougent derrière elle. Des livres, des feuilles, des cahiers et des objets de la classe sont éparpillés et volent dans les airs, créant une atmosphère chaotique mais réaliste. Elle avance lentement vers la caméra avec une expression sérieuse et calme, tandis que les élèves en arrière-plan réagissent naturellement au chaos soudain. La caméra recule fluidement, la gardant centrée dans une composition verticale 9:16 avec un mouvement de caméra à l'épaule réaliste. Les papiers et les objets continuent de tomber autour d'elle avec une gravité crédible, un flou de mouvement et une physique naturelle. Vers le milieu de la vidéo, elle lève légèrement une main tout en continuant à s'approcher de la caméra, conservant le même visage, la même coiffure, l'uniforme et les proportions corporelles. Dans les dernières secondes, la caméra se rapproche de son visage alors qu'elle écarte doucement ses cheveux de ses yeux, regardant directement l'objectif avec une expression émotionnelle subtile. Utilisez un éclairage naturel de salle de classe, une texture de peau réaliste, des détails textiles précis, des ombres authentiques, une profondeur de champ cinématographique et des visuels photoréalistes tout au long, avec un mouvement fluide et continu sans coupures.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100787630216724480/img/8BCeaa8eVJKomkdI.jpg" width="600" alt="Scène Cinématographique Chaotique en Salle de Classe">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10984)**
-
-**Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2100787710424416603) | **Publié:** Sep 18, 2026
-
----
-### Vidéo de Transformation Mode Parisienne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour créer une vidéo cinématographique de transformation mode où la robe d'une femme passe du blanc au rouge en traversant Paris.
-
-#### 📝 Prompt
-
-```
-Création d'une vidéo cinématographique de transformation mode mettant en scène une jeune femme élégante marchant dans les rues parisiennes. Elle commence avec une robe d'été blanche épurée, marchant naturellement sur un trottoir chic entouré d'architecture classique, de cafés, de boutiques et de passants. La caméra la suit fluidement avec des mouvements cinématographiques réalistes et une faible profondeur de champ. En passant devant une vitrine, des traînées lumineuses rouges tourbillonnent autour de son corps, créant un effet magique de transition vestimentaire. Sa tenue se transforme sans couture du blanc vers une robe rouge sans manches sophistiquée. Poursuivez avec des plans dynamiques au niveau de la rue alors qu'elle traverse avec assurance un carrefour parisien animé. Terminez par un beau gros plan d'elle dans sa robe rouge, tenant délicatement une glace et la dégustant tout en regardant naturellement vers la caméra. Détails photoréalistes, esthétique de film de mode élégant, lumière naturelle du jour, transitions fluides, texture de peau réaliste, objectif cinématographique, mouvement subtil en arrière-plan, look commercial premium.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100456398144647168/img/xAq552Wbm_a24aoe.jpg" width="600" alt="Vidéo de Transformation Mode Parisienne">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10954)**
-
-**Auteur:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2100456445900710158) | **Publié:** Sep 17, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -5837,6 +6462,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-05T04:47:55.187Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-05T17:07:12.736Z</sub>
 
 </div>

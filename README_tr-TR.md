@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6495** |
+| 📝 Toplam İstem | **6504** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-10-05** |
 
@@ -361,6 +361,851 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Siberpunk Kadın Neon Sokak
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Genç bir kadının neon ışıklı bir sokakta yürüdüğü, moda detaylarına, ışıklandırmaya ve kamera özelliklerine odaklanan ultra gerçekçi bir siberpunk sahne oluşturmak için bir istem.
+
+#### 📝 İstem
+
+```
+Gece karanlık neon ışıklı şehir sokağında kendinden emin adımlarla yürüyen cesur genç bir kadının ultra gerçekçi sinematik siberpunk sahnesi. Uzun koyu renk saçları, yoğun ifadesi ve kırmızı kısa üstün üzerine giydiği fütüristik beyaz büyük beden ceket, siyah taktik pantolon, eldivenler ve aksesuarlar takıyor. Islak yollarda yansıyan kırmızı ve sıcak şehir ışıkları, atmosferik sis, parlayan tabelalar, dramatik gölgeler, sığ alan derinliği, sinematik bokeh, dinamik kamera hareketleri, gerçekçi cilt ve kumaş dokuları, yüksek detay, kasvetli aksiyon filmi havası, 85mm lens, f/1.4, HDR, 8K, fotogerçekçi, dikey 9:16 kompozisyon.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106972520972947456/img/0SDQbYzRuv36V6Vl.jpg" width="600" alt="Siberpunk Kadın Neon Sokak">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11918)**
+
+**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2106972552119963744) | **Yayınlandı:** Oct 5, 2026
+
+---
+### Komik Düğün Hikayesi İçin Seedance Video Promptu
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance için, bir kadının sevgilisine gelecekteki düğününe başka biriyle katılması durumunda saçlarını yeşile boyamasını istediği 15 saniyelik komik hikayeyi oluşturan detaylı bir video üretim promptu. Prompt; karakter tutarlılığı talimatları, sahne geçişleri, kamera hareketleri ve spesifik diyaloglar içerir.
+
+#### 📝 İstem
+
+```
+15 saniye, 16:9 yatay en-boy oranı, gerçekçi canlı aksiyon dokusu, modern Çin kentsel arka planı. İlk yarıda çiftler arasında doğal ve samimi bir sohbet; ikinci yarıda ise gelecekteki bir otelde gerçekleşen Batı tarzı bir düğüne ani kesme (hard-cut). Kamera yavaşça geri çekilir ve farklı saç renklerine sahip erkek misafirleri kademeli olarak ortaya çıkararak absürt ve garip bir komedi dönüşü oluşturur. Karakter performansları ölçülüdür; ortam, cilt, kıyafetler ve aydınlatma gerçekçi ve doğaldır.
+[Karakterler ve Tutarlılık]
+Başroldeki kadın genç bir Çinli kadındır @image (31). Gelecekteki düğündeki gelin aynı kadın olmalı, yüz hatları ve konturları tutarlı kalmalı, yalnızca saç modeli, makyaj ve kıyafet değişmelidir.
+Başroldeki erkek genç bir Çinli erkektir; normal kısa siyah saçlarla ve günlük rahat kıyafetlerle başlar. Gelecekteki düğünde yüz hatları, yüz şekli, vücut tipi ve saç modeli konturu tutarlı kalır, ancak dar kesim bir takım elbise giyer ve saçlarını belirgin şekilde yeşile boyamıştır; böylece kadının başlangıçta yaptığı isteği yerine getirir. Sahne veya saç rengi değişiklikleri nedeniyle farklı bir yüze dönüşmemelidir.
+Damadı, başroldeki erkekten görünüş olarak açıkça farklı olan, hafif kilolu, siyah saçlı başka bir yetişkin Çinli erkektir ve resmi damat kıyafeti giymektedir.
+Düğün mekanında birden fazla yetişkin erkek misafir vardır; her biri kırmızı, mavi, mor, sarı veya turuncu saçlara sahiptir ve bunların arasında başka bir yeşil saçlı adam da bulunur. Görünüşleri, boyları, vücut tipleri, saç modelleri ve takım elbiseleri hepsi farklıdır. Boyalı saçlar gerçek telleri, kökleri ve parlaklığı korur; renkli peruk gibi veya parlıyor gibi görünmez.
+[0-7s: Günlük Çift Sohbeti]
+Sıradan bir şehir parkı veya apartman altı, akşam, doğal yumuşak ışık, arka planda hafif yaşam sesleri.
+Kız ve oğlan bir bankta yan yana oturuyor. İki kişinin yüzlerini net gösteren orta yakın çekim kullanın. Kız, oğlana dönüp elini tutar; şefkatli, ciddi ve biraz cilveli konuşur, sanki romantik bir şeyden tesadüfen bahsediyormuş gibi. Oğlan ona derinden bakar.
+Kız tamamen ve net bir şekilde şunu söyler:
+"Sevgilim, gelecekte benimle evlenecek kişi sen olmazsan, düğünüme saçlarını yeşile boyayıp gelmelisin ki seni tek bakışta tanıyabileyim."
+Doğal, biraz hızlı, akıcı günlük bir tempoda söylenir; kasıtlı olarak uzatılmaz, yutulan kelime yoktur, mekanik hızlanma yoktur. Kız konuşurken, oğlan onu dinler, hem duygulanmış hem de şaşkın görünen hafif bir gülümseme sergiler, cevap vermez.
+Performansı sürekli tutun, başroldeki erkeğin yüzünü net kurun. Kız önceden sırıtmaz, kameraya göz kırpmaz, sonraki twist'i önceden hissettirmez.
+[7-9s: Gelecekteki Düğüne Ani Kesme, Önce Aynı Yüzü Sonra Yeşil Saçı Görme]
+Kız son kelimeyi "sen" dediği anda, hemen otel düğün sahnesine ani kesme yapılır. Ortam sesi, dışarıdaki yaşam seslerinden balo salonundaki alkış ve bulanık seslere senkronize olarak geçer.
+Aynı başroldeki erkeğin yüzünün ön cephe yakın çekimine geçilir. İlk karelerin üst kenarı saç çizgisinin altında kesilir, saçı geçici olarak gizler, izleyicinin onu az önceki oğlan olarak tanımasını sağlar.
+Düğün misafir koltuklarında oturur, takım elbise giyer, hafif gergin bir ifade taşır, karışık bir beklenti içindedir, gözleri giriş koridoruna yöneliktir.
+Kamera ardından yavaşça ve sabitçe geri gider, tüm kafasını kademeli olarak ortaya çıkarır—saçlarını yeşile boyamıştır.
+Yeşil renk bu anda izleyici tarafından ilk kez görülür. Düğün çekiminin başından itibaren zaten yeşil saçlıydı, mekanda renk değiştirme efekti yoktur.
+[9-12s: Gelin ve Damat Girişi, Diğer Saç Renkleri Kademeli Olarak Belirir]
+Kamera geri gitmeye devam eder, yakın çekimden orta çekime genişler, yeşil saçlı başroldeki erkeği karede bir tarafta tutmak için hafif yatay ayarlamalar yapar ve merkezi düğün koridorunu kademeli olarak ortaya çıkarır.
+Sahne, Batı tarzı bir düğün için düzenlenmiş gerçek bir otel balo salonudur; açık renkli çiçek düzenlemeleri, beyaz veya bej sandalyeler, sıcak tavan ışıkları ve halılı giriş koridoru vardır. Aydınlatmanın net kaynakları vardır, gelinlik kumaş detaylarını korur, rüyamsı peri diyarı efektleri yoktur.
+Arka plan koridorunda, açılıştaki kız gelinlik giyer, hafif kilolu damatla kol kola girer, yavaşça ilerler. Damadın görünüşü ve vücut tipi yeşil saçlı başroldeki erkekten açıkça farklıdır.
+Başroldeki erkek aslında gelinine bakıyordu, zar zor hafif bir gülümseme koruyordu. Kamera geri çektikçe, yanında kırmızı saçlı bir erkek misafir ve ardından mavi saçlı bir erkek misafir kareye girer.
+Yanındaki kırmızı saçlı adama farkında olmadan bakar, gülümsemesi hafifçe duraksar, sonra diğer taraftaki yeşil saçlı adama bakar, kaşları hafifçe oynar, bir şeylerin yanlış olduğunu hissetmeye başlar.
+[12-15s: Daha Fazla Renkli Saçlı Erkeği Ortaya Çıkarma, Başroldeki Erkek Şaşkınlıkla Etrafına Bakınır]
+Kamera aynı yörüngede geri gitmeye devam eder, başroldeki erkeği, çevresindeki sıralardaki misafirleri ve düğün koridorunu içeren daha geniş bir görünüme genişler. Düğün bölümü kesintisizdir, artık kesme yapılmaz.
+Farklı saç renklerine sahip daha fazla erkek misafir kademeli olarak kareye girer: mor, sarı, turuncu ve başroldeki erkekten görünüş, vücut tipi ve saç modeli açısından farklı olan başka bir kırmızı saçlı adam.
+Başroldeki erkek dahil olmak üzere, yaklaşık altı-sekiz renkli saçlı erkek, bitişik sıralarda dağılmış oturur, sıradan siyah saçlı misafirlerle harmanlanır. Tüm misafirlerin boyalı saçı yoktur ve düzgün bir gökkuşağı hattı oluşturmazlar.
+Hepsi farklıdır: bazıları zayıf, bazıları iri, bazıları hafif kilolu; bazıları kazıtılmış, bazıları yan ayrık kısa saçlı, bazıları hafif kıvırcık. Takım elbiseler siyah, lacivert, gri, kahverengidir; kesim, kravat ve gömlek kombinasyonlarında belirgin farklılıklar vardır, bağımsız davet edilmiş gerçek düğün misafirleri gibi görünürler.
+Bu kişiler, düğün çekiminin başından beri orijinal pozisyonlarında oturmuşlardır, sadece ilk sıkı kompozisyondan engellenmişlerdi, kamera geri çektikçe görünür hale gelirler, yoktan var olamazlar veya aniden saçlarını boyayamazlar.
+Başroldeki erkek önce sola, sonra sağa bakar, sonunda hafifçe arkaya doğru döner ve başka bir yeşil saçlı adamı keşfeder. İfadesi kafa karışıklığından şaşkınlığa ve utanmaya dönüşür, dudakları hafifçe aralanır, sanki böyle bir söz alan tek kişi olmayabileceğini nihayet fark ediyormuş gibi.
+Diğer renkli saçlı erkekler çoğunlukla düğünü izlemeye devam eder, bazıları onunla kısa süreli göz teması kurabilir, kolektif olarak başlarını çevirmez veya senkronize tepki vermezler.
+Son, başroldeki erkeğin şaşkın etrafına bakışını, çevresindeki farklı saç renklerine sahip erkekleri ve arka planda girmeye devam eden gelin ve damadı aynı anda korur. Ekran doğal olarak biter, punchline'ı açıklamak için ekstra diyalog yoktur.
+[Sinematografi, Performans ve Gerçekçi Atmosfer]
+Açılışta doğal gün ışığı, düğünde sıcak iç otel aydınlatması kullanılır. Ten tonları normaldir, cilt dokusu korunur, takım elbiselerde gerçek kırışıklıklar vardır, gelinlik ağırlığı vardır, boyalı saçlarda doğal açık-koyu katmanlar vardır.
+İlk yarı gerçek bir çiftin tesadüfi sohbeti gibi hissedilir, ikinci yarı gerçek bir düğün sahnesinde yaşanan garip bir keşif gibi hissedilir. Başroldeki erkek duyguları göz teması, mikro ifadeler ve sola-sağa bakışlarla ifade eder; karikatürize büyük gözlerle dikilme, ağzı açma veya yüzü kapatma eylemleri yoktur.
+Düğün geri çekilmesi gerçek kamera geri hareketini kullanır, sabit hız, farklı saç renklerinin sırayla kareye girmesini sağlamak için misafir pozisyonlarını önceden ayarlar. Geri çekildikten sonra, alan derinliğini kademeli olarak artırır, başroldeki erkek, renkli saçlı misafirler ve arka plandaki yeni evliler arasındaki ilişkinin algılanabilir olmasını sağlar, çevredeki karakterleri renk bloklarına dönüştürerek bulanıklaştırmaz.
+Retro DV kalitesi, abartılı el titremesi, balık gözü lens, ani zoom, yüksek hızlı yörünge, ağır çekim, plastik cilt veya ağır filtreler yoktur.
+[Ses]
+Açılışta kızın diyalogu ve hafif dış yaşam sesleri korunur. Ani kesmeden sonra, otel balo salonunda doğal alkış, kumaş hışırtısı, sandalye gıcırtısı ve bulanık sohbetler devreye girer.
+Diyalog, kızın dudak hareketleriyle tam eşleşir, başroldeki erkek onun yerine konuşmaz veya sözünü kesmez. Düğün bölümünde net diyalog eklenmez.
+Anlatıcı yoktur, arka plan müziği yoktur.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106953873076486145/img/IOpYXcKBoJQlAILi.jpg" width="600" alt="Komik Düğün Hikayesi İçin Seedance Video Promptu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11920)**
+
+**Yazar:** [探路AI](https://x.com/TanLuAI) | **Kaynak:** [Link](https://x.com/TanLuAI/status/2106955448352231762) | **Yayınlandı:** Oct 5, 2026
+
+---
+### Sinematik Kaplan Savaşçı Aksiyon Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yıkılmış bir şehirde özel efektlerle dövüşen antropomorfik bir kaplan savaşçısını içeren yüksek enerjili sinematik aksiyon sekansı oluşturmak için detaylı video üretim istemi.
+
+#### 📝 İstem
+
+```
+Duman, ateş ve çöken binalarla çevrili yıkık bir şehirde güçlü, antropomorfik turuncu bir kaplan savaşçısını öne çıkaran 14.6 saniyelik sinematik bir aksiyon sahnesi oluşturun. Açılış çekiminde kaplan rakibine agresif şekilde yüz verirken, kamera bu sıçramayı dramatik biçimde takip ederken dinamik bir dövüş sanatları hareketiyle aniden havaya yükselir. Keskin gözler, detaylı turuncu kürk, bıyıklar ve vahşi ifadeye odaklanan, kaplanın gerçekçi yüzünün yoğun bir yakın planına geçiş yapın. Kaplanın karakter görünümünü ve anatomisini tutarlı bir şekilde koruyarak insan benzeri bir rakibe karşı hızlı yumruk ve tekmelerle dövüşmeye devam ettiğini gösterin. Saldırı sırasında güçlü mavi enerji etkisi belirir, ardından yıkık şehirde devasa alevli bir patlama yaşanır. Ortamda yayılan alevleri, uçan enkaz parçalarını, yoğun dumanı, kıvılcımları ve gerçekçi yıkımı gösterin. Kaplan ön planda kendinden emin bir şekilde yere basarken, arkasında yanmış harabeler parlar ve dramatik bir kahraman silüeti oluşturur. Metin, filigran veya karakter bozulması olmadan; akıcı sinematik kamera hareketleri, gerçekçi fizik, dramatik aydınlatma, detaylı dokular, güçlü aksiyon koreografisi ve yüksek kaliteli 3D animasyon kullanın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106938524784328704/img/pXh4xaDoupeUx4Bw.jpg" width="600" alt="Sinematik Kaplan Savaşçı Aksiyon Sahnesi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11914)**
+
+**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2106938584431526162) | **Yayınlandı:** Oct 5, 2026
+
+---
+### Epik Sinematik Trailer Tarzı Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Referans görüntü kullanarak, hiper detaylı renderlama, Unreal Engine 5 estetiği ve kalite kontrolüne yönelik spesifik negatif kısıtlamaları vurgulayan epik sinematik trailer tarzı bir video oluşturmak için istem.
+
+#### 📝 İstem
+
+```
+1. referans görüntüyü kullanarak epik sinematik bir video oluşturun.
+: Epik sinematik trailer estetiği, canlı aksiyon tarzı, IMAX, 16K, hiper detaylı renderlama, tam kare dinamik parçacık efektleri, Unreal Engine 5, ışın izleme (ray tracing), patlayıcı detaylar. Stil gereksinimleri: Estetik güzellik, patolojik güzellik, görkemli momentum, çöküş güzelliği, parçalanmış güzellik, trajik ihtişam, hüzünle birlikte. [Kısıtlamalar & Negatifler] Düşük doygunlukta soğuk gri + kehribar vurgu, fizik tabanlı akışkan hareket. Negatif: Düşük kalite, takılma, yüz/vücut bozulması, aşırı parlaklık, abartılı kan/gore, sert hareket, filigran, T-pozu, parlak palet, gösterişli VFX, katı kamera, hız/blur eksikliği, zayıf öldürme anları.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106923772372738048/img/p-_o3Q13K4Hbb2lw.jpg" width="600" alt="Epik Sinematik Trailer Tarzı Video">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11915)**
+
+**Yazar:** [Zidan 子丹](https://x.com/liluocheng13) | **Kaynak:** [Link](https://x.com/liluocheng13/status/2106923884931166241) | **Yayınlandı:** Oct 5, 2026
+
+---
+### Şehirde Yüksek Hızda Kaykay
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kalabalık bir şehir sokağında gerçekçi hareket bulanıklığı ve el kamerası hissi ile yüksek hızlı kaykay videosu oluşturmak için basit, 'tembel' bir istem.
+
+#### 📝 İstem
+
+```
+Bir kızın kalabalık bir şehir sokağında yüksek hızda kaykay yaptığı, insanlardan kaçtığı, küçük engellerin üzerinden atladığı, arabalar ve bisikletlerin yanından geçtiği anlar; hızlı kesimler, hareket bulanıklığı, el kamerası hissi, enerjik atmosfer, gerçekçi ortam, yüksek detay.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106921938576883712/img/9S6CRhiy0KGRQiZh.jpg" width="600" alt="Şehirde Yüksek Hızda Kaykay">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11917)**
+
+**Yazar:** [Zidan 子丹](https://x.com/liluocheng13) | **Kaynak:** [Link](https://x.com/liluocheng13/status/2106922065240731732) | **Yayınlandı:** Oct 5, 2026
+
+---
+### Uzay Şehri Asteroid Savunması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hareket halindeki bir uzay şehrinin, düşman filosuna karşı asteroidleri savunma kalkanına dönüştürmesini konu alan 15 saniyelik sinematik bilim kurgu kısa filmi için detaylı istem.
+
+#### 📝 İstem
+
+```
+16:9 en-boy oranında, 15 saniyelik sinematik, fotogerçekçi bilim kurgu aksiyon kısa filmi.
+Devasa bir fütüristik şehir, derin uzayda muazzam bir asteroid fırtınasının içinde yol alır.
+Binlerce uzay aracı şehrin yanında uçar ve asteroidleri sürekli hareket halinde olan bir savunma kalkanına dönüştürmek için aktif olarak manipüle eder.
+Aniden bir düşman filosu saldırır.
+Yüzlerce savaş gemisi asteroid alanına dalış yapar.
+Şehir hızlanır.
+Asteroidler saldıran gemilere çarpar.
+Savunma uzay araçları devasa kayalar arasında yarışarak onları yeni yörüngelere iter.
+Büyük bir düşman savaş gemisi asteroid kalkanını kırar ve doğrudan şehre ateş eder.
+Tüm şehir aniden yön değiştirir.
+Asteroid alanı da onunla birlikte hareket eder.
+Milyonlarca kaya, devasa mekanik bir organizma gibi şehrin etrafında dizilime geçer.
+Saldıran savaş gemisi, asteroid alanının kendisinin şehrin silahı olduğunu anlamak için çok geç kalır.
+Devasa bir çarpışma ekranı doldurur.
+Şehrin hareket eden fırtınanın içine kaybolmasıyla sona erer.
+
+Fotogerçekçi sert bilim kurgu, gösterişli asteroid ortamları, amansız çatışma, devasa hareketli yapılar, hızlı kamera hareketleri, detaylı uzay araçları, büyük ölçek, sinematik aksiyon, metin yok, logo yok, anime yok, çizgi film yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106842175623344128/img/8HYLYow99mg-lBVf.jpg" width="600" alt="Uzay Şehri Asteroid Savunması">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11919)**
+
+**Yazar:** [Alexandra Aisling](https://x.com/AllaAisling) | **Kaynak:** [Link](https://x.com/AllaAisling/status/2106852107114418554) | **Yayınlandı:** Oct 4, 2026
+
+---
+### Seedance 2.0 Mini Sinematik Eskort Savaşı İstem Yönergesi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Referans görsellere dayalı katı karakter ve mekan sabitlemesi ile eski Çin Xianxia ortamında mobil bir eskort savaşını tasvir eden, Seedance 2.0 Mini kullanarak 15 saniyelik sinematik bir video oluşturmak için detaylı istem yönergesi.
+
+#### 📝 İstem
+
+```
+Sinematik fotogerçekçi doku, saf eski Çin Xianxia aksiyon filmi, 15 saniye, 16:9, Seedance 2.0 Mini.
+Bu tur sabit bir düello değildir ve "yeni silaha geç → kahraman inceler → karşı saldırı → kılıç boğazda durur" şeklindeki eski kalıbı tekrarlamaya devam etmez.
+Temel eylem motifi şudur:
+Mevcut referans görselde gösterilen gerçek yüksek rakımlı imparatorluk yolu üzerinde gerçekleşen mobil bir eskort savaşı.
+Aynı Kıdemli Abla ve Küçük Abla, yaralı Ustalarını, öğrencilerini ve arkalarındaki tahliye edilen sıradan insanları korurken sürekli olarak ileri doğru ilerlemelidir.
+Düşmanların gerçek amacı mutlaka iki ana kahramanı yenmek değildir.
+Yapmak istedikleri şunlardır:
+İki ana kahramanın oluşturduğu savunma hattını kırmak;
+Tahliye edilen kalabalığın arasına dalmak;
+Devam eden ilerleme yolunu kapatmak.
+Bu nedenle, tüm bu savaşın özü şudur:
+**Öndeki ablukayı kır
+Arkadaki takipçileri engelle
+İki ana kahraman sürekli ön ve arka pozisyonlarını değiştirir
+Her zaman yolu yeniden açar.**
+Eylemler akıcılık peşinde koşmalı ama asla yumuşak olmamalıdır.
+Akıcılık şu anlama gelir:
+Önceki eylem doğal olarak bir sonrakine geçer;
+Karakterler her zaman hareket halindedir;
+Saldırı ve savunma asla sıfıra dönmez;
+Silah yönü ve karakter yönü her zaman anlaşılır olur;
+Kesme işlemlerinden sonra bile kimin önde, kimin arkada ve kimin nereden saldırdığı bilinir.
+Güç şunlardan gelir:
+Ani başlangıçlar;
+Belirgin hızlanmalar;
+Gerçek çarpışmalar;
+Ağırlık merkezi değişimleri;
+Kuvvet dengelemeleri;
+Dengesizlik;
+Eylemsizlik;
+Karşı kavramalar;
+Sert duruşlar;
+Aniden yeniden başlama.
+Yumuşak, dans benzeri kılıç kullanımı yasaktır.
+Bir kez vurduktan sonra pozları sıfırlama yasaktır.
+Düşmanlar gerçek yargılama yeteneğine sahip olmalıdır.
+İlk strateji başarısız olduğunda, hedefleri değiştirmeli, saldırı rotalarını ayarlamalı, takip etmeli, yolları kesmeli, kanatlardan dolaşmalı veya iki ana kahramanı aktif olarak birbirinden ayırmalıdır.
+Düşmanların saldırı sunmak için sıraya girmesi yasaktır.
+[Çekirdek Karakter Kilidi]
+Yalnızca @Image 1 ve @Image 2'yi iki çekirdek ana kahraman ve bunların ilgili birincil silahları olarak kesinlikle kilitleyin.
+@Image 1 her zaman öncekiyle aynı Kılıç Ölümsüzü Kıdemli Abla'dır:
+Aynı yetişkin Doğu Asyalı kadın kimliği;
+25–30 yaşlarında;
+Aynı yüz;
+Yarı bağlı siyah uzun saç;
+Beyaz yeşim tokası;
+Uzun ve ince oranlar;
+Beyaz nakışlı ipek Hanfu;
+Yarı saydam katmanlı geniş kolluklar;
+Gümüş bel kuşağı;
+Yeşim kolye;
+Beyaz bez çizmeler;
+Film boyunca tek gümüş düz kılıç.
+@Image 2 her zaman öncekiyle aynı Küçük Abla'dır:
+Aynı yetişkin Doğu Asyalı kadın kimliği;
+20–25 yaşlarında;
+Aynı yüz;
+Örgülü siyah saç;
+Minyon oranlar;
+Camgöbeği keten Hanfu;
+Koyu kemer;
+Ahşap tokası;
+Siyah bez ayakkabılar;
+Film boyunca tek koyu çelik kılıç.
+Düşmanlar, Ustalar, öğrenciler, sıradan insanlar ve tanıklar yalnızca işlevsel yan karakterlerdir.
+Yan karakterlerin yüzlerini, saç stillerini ve karmaşık kıyafetlerini kesinlikle kilitlemek için üretim dikkat kaynaklarını israf etmeyin.
+Sadece karakter türlerinin, konumlarının, silahlarının ve eylem işlevlerinin çekim içinde mantıksal olarak sürekliliğini koruduğundan emin olun.
+[Tura Özel Sahne Sabit Çapa | En Yüksek Öncelik]
+Bu tur için yüklenen arka plan referansı zaten tam ve son derece tanınabilir bir mekanı göstermektedir.
+Bu nedenle, bu tur doğrudan şuna girer:
+SAHNE SABİT ÇAPASI.
+Referans görsel stil ilhamı değildir.
+Tüm video, referans görselde gösterilen aynı yüksek rakımlı göksel saray imparatorluk yolunda gerçekten gerçekleşmelidir.
+Onu "benzer bir Xianxia mekanı" olarak yeniden tasarlamak yasaktır.
+Aşağıdaki mekan kimliklerini sürekli olarak korumalıdır:
+Çerçevenin merkez ekseni her zaman, ön plandan uzak merkeze doğru uzanan aynı son derece uzun, düz, soluk beyaz yüksek rakımlı imparatorluk yolunu içerir.
+İmparatorluk yolu her zaman belirgin dar derinliği korur; karakterler öncelikle önden-arkaya yönde hareket eder; onu dairesel bir arenaya, devasa bir avluya veya geniş bir meydana dönüştürmek yasaktır.
+İmparatorluk yolunun sol ve sağ tarafları her zaman aynı devasa yüksek rakım düşüşünü, süt beyazı bulut denizini ve sürekli büyük şelaleleri korur.
+Orta planın sol ve sağ tarafı, orijinal sol-sağ konumlarını, hacimlerini ve imparatorluk yoluyla olan mekansal ilişkilerini koruyan aynı grup devasa geleneksel sarayı içermeye devam eder.
+Sol ön plan, aynı son derece belirgin büyük koyu konsol ahşap yapı binasını korumaya devam eder; yoğun ahşap yapılar kaybolmamalı veya sıradan küçük binalara dönüşmemelidir.
+İmparatorluk yolunun altında ve sisin altında, aynı ölçekte yoğun antik şehir korunmaya devam eder.
+En uzak merkez, aynı devasa dağ gövdesi / süper yapıyı içermeye devam eder.
+Uzak merkez, aynı devasa halka şeklinde kapı / halka binasını korumaya devam eder.
+Karakterler her zaman imparatorluk yolu, saraylar, şelaleler, alttaki şehir ve uzak süper yapılardan çok daha küçüktür.
+Orijinal referans görselle aynı parlak soğuk beyaz-gri, soluk sıcak altın, düşük doygunluklu gündüz/sabah ışığını, süt beyazı hava pusunu ve muazzam derinliği koruyun.
+Uzak devasa halka her zaman çok uzakta kalmalıdır.
+Onu ani bir şekilde yaklaştırıp sıradan bir dağ kapısı haline getirmek yasaktır.
+Mevcut imparatorluk yolunu şunlara yeniden üretmek yasaktır:
+Dairesel arena;
+Sıradan avlu;
+Geniş meydan;
+Başka bir bulut köprüsü;
+Yeni yüzen platform;
+Yeni dağ kapısı;
+Yeni yüzen ada;
+Yeni uçurum;
+Yeni saray girişi;
+Yeni büyük merdiven.
+Kolay dövüş için imparatorluk yolunu ani bir şekilde genişletmek yasaktır.
+Gündüzün geceye dönmesi yasaktır.
+Mevcut yumuşak havayı fırtınalı koyu bulutlarla değiştirmek yasaktır.
+Tüm eylemler ve kameralar mevcut gerçek imparatorluk yoluna uyum sağlamalıdır.
+Eylem uğruna sahneyi yeniden tasarlamak yasaktır.
+[Arka Plan Dinamikleri | Canlı olmalı, ancak varsayılan olarak hikayeye katılmaz]
+Sahne sürekli doğal olarak hareket eder.
+Uzak bulutlar yavaşça hareket eder.
+Devasa şelaleler aşağıya doğru gerçekçi bir şekilde sürekli akar.
+Şelalelerin dibindeki su sisi sürekli döner ve mevcut bulut deniziyle birleşir.
+Farklı mesafelerdeki bulut katmanları ve sis katmanları, gerçekçi paralaks yaratmak için biraz farklı hızlarda kalır.
+Yüksek rakım doğal rüzgarı, iki ana kahramanın siyah saçlarını, geniş kolluklarını, eteklerini, püsküllerini ve aksesuarlarını sürekli etkiler.
+Uzak antik şehir ile saraylar arasındaki ince sis sürekli yavaşça hareket eder.
+Atmosferik perspektif sürekli ince değişiklikler üretir.
+Birkaç uzak figür, referans görselde zaten var olan alanlarda doğal olarak hareket edebilir.
+Ancak:
+Ortam varsayılan olarak anlatısal olarak nötrdür.
+Şelaleler ani bir şekilde kimseye yardım edemez.
+Pus düşmanları aktif olarak örtemez.
+Rüzgar kılıç yollarını değiştiremez.
+Binalar kendi kendine çökemez.
+İmparatorluk yolu kırılmaz.
+Uzak halka ani bir şekilde büyüleri etkinleştiremez.
+Ortam dövüşü aktif olarak çözemez.
+Yalnızca karakterler gerçekten adım attığında, sert durduğunda veya silahlarla çarpıştığında hafif taş tozu, çizikler, metal kıvılcımlar, kumaş yer değiştirmesi ve taban sürtünme kalıntılarına izin verilir.
+Zaten belirgin izler mantıklı bir şekilde devam etmelidir.
+[0–5s | Kanca: Geri Çekilemez]
+0.0–1.0s.
+24mm ultra geniş açı merkez ekseni genel panoraması kullanın.
+İlk olarak mekanı yeniden üretin; mekan önceliği karmaşık eylemden daha yüksektir.
+İlk bakış şunları onaylamalıdır:
+Aynı uzun beyaz imparatorluk yolu;
+Sol ve sağda aynı devasa şelaleler;
+Sol ve sağda aynı büyük saraylar;
+Solda aynı büyük ahşap yapı;
+Altta aynı antik şehir;
+Aynı devasa uzak halka.
+İki ana kahraman, devasa ortam içinde küçük ölçeklerini korur.
+Kıdemli Abla öndedir.
+Küçük Abla yarım adım geridedir.
+Daha geride, belirli bir mesafede, yaralı yaşlı bir Usta, birkaç öğrenci ve birkaç sıradan insan aynı imparatorluk yolu boyunca ilerlemeye devam etmektedir.
+İki düşman kılıç ustası yolu keser.
+Öndeki düşman yatay kılıcıyla etkili geçiş alanını keser:
+"Onları koruyorsunuz, geçemezsiniz."
+Kıdemli Abla hiç durmaz:
+"Kim geri çekildiğimizi söyledi?"
+Son kelime düştüğü anda.
+Düşman uyarı olmadan saldırır.
+Kamera hemen sabit genel panaromadan, imparatorluk yolu ekseni boyunca geriye doğru yaklaşık 32–35mm takip çekimine geçer.
+İlk düşman hızla Kıdemli Abla'nın merkez hattını ele geçirir.
+Kıdemli Abla asla geriye doğru çekilmez.
+Son ana kadar sadece yarım vücut genişliğinde çapraz kayar, aynı gümüş düz kılıcı kullanarak kısa, sert, gerçek bir çarpışma gerçekleştirir ve düşmanın kılıcını imparatorluk yolunun merkez ekseninden iter.
+Takip eden bir vuruş yok.
+Poz verme yok.
+Hemen düşmanın omzunun üzerinden ileri doğru devam eder.
+Neredeyse aynı anda.
+İkinci düşman, arkadaki kalabalığa saldırmak için onu atlatmaya çalışarak Küçük Abla'ya karşı yönden keser.
+Küçük Abla düşmanları çılgınca kovalamaz.
+Doğrudan düşman ile tahliye edilen kalabalık arasındaki konuma dalar, sadece koyu çelik kılıçla rakibin saldırı hattını kısaca değiştirir, ardından ileri doğru devam eder.
+Bir düşman kamera yakınından hızla geçer, bedeni anında ekranı doldurur ve ilk doğal gizli kesmeyi oluşturur.
+0–5 saniyenin sonunda, izleyici şunu net bir şekilde anlamalıdır:
+Kalmak ve kazanmak için değiller.
+Yolu geri almak için buradalar.
+[5–10s | Yükseltme: Düşmanlar Gerçek Hedeflere Saldırmaya Başlar]
+Tamamen aynı imparatorluk yolunu, sol/sağ sarayları, şelaleleri, uzak halkayı ve dünya ölçeğini koruyun.
+Köprü ekseni boyunca hareket eden yaklaşık 35mm orta çekim takip kullanın.
+İlk saldırı başarısız olduktan sonra, düşmanlar proaktif olarak strateji değiştirmelidir.
+Düşman lideri artık Kıdemli Abla ile kafa kafaya kazanmakta ısrar etmez.
+Aniden hedefini değiştirir, aktif olarak Kıdemli Abla'yı atlatmaya çalışır, Küçük Abla ile tahliye edilen kalabalık arasına girer.
+Başka bir düşman aynı anda Kıdemli Abla'yı karşı yönden bastırır, iki ana kahramanı gerçekten ayırmaya çalışır.
+Eylemler sürekli bir nedensellik zinciri oluşturur:
+Düşmanın yatay kesmesi, Kıdemli Abla'yı imparatorluk yolu merkez hattından kısa süreli sapmaya zorlar;
+Kıdemli Abla yalnızca kısa bir kuvvet boşaltması yapar, angajmanı sürdürmez;
+Düşmanın zaten yatırdığı çarpma eylemsizliği, bedeninin optimal saldırı pozisyonunu hafifçe aşmasına neden olur;
+Küçük Abla ileri doğru devam eder.
+Öndeki düşman, Küçük Abla'nın sağ önünden aniden çapraz keser.
+Küçük Abla ilk vuruşu yakalar.
+Düşman durmaz, hemen ikinci bir düşük pozisyon saldırısına geçer.
+Küçük Abla, imparatorluk yolu merkez hattına doğru yarım adım küçülmeye zorlanır.
+Tam düşmanın onu bloke ettiğini yargıladığı anda ——
+Kıdemli Abla, Küçük Abla'nın arkasından diğer tarafa doğru aniden hızlıca dalar.
+İkisi, ilk son derece hızlı ön-arka pozisyon değişimini tamamlar.
+Çift rotasyon değil.
+Senkronize poz değil.
+Ancak ileri hareketi korurken kompakt bir omuz üstünden geçiş pozisyon takası.
+Kıdemli Abla, doğrudan Küçük Abla'yı bastıran düşmanı devralır.
+Küçük Abla, açılan yarım yol boyunca ileri doğru devam eder ve yeni ön pozisyon haline gelir.
+Kamera, ikisinin gerçek pozisyon değişimi nedeniyle yalnızca kısa bir yanal hareket yapar.
+Bir düşman kılıcı lensin yanından geçer, doğal bir tıkanma geçişi oluşturur.
+Sebepsiz yörünge hareketi yasaktır.
+Bu anda.
+Arkadan yüksek hızlı takip adımları gelir.
+Aslında daha geride kalan işlevsel bir takipçi gelmiştir.
+Önde yolu kesen biri.
+Arkadan takip eden biri.
+İki kadın, dar imparatorluk yolundaki en tehlikeli durumda ilk kez gerçekten sıkışmıştır:
+Ön ve arka kıskaç saldırısı.
+[10–15s | Çevirme: İnsanları Değil, Yolu Koru]
+Yaklaşık 28–32mm hareketli orta çekime yeniden genişletin.
+Mevcut uzayı tamamen açıklamak için yaklaşık 1 saniye kullanın:
+Küçük Abla önde;
+Kıdemli Abla yaklaşık bir vücut boyu arkada;
+Öndeki düşman lideri merkez hattı yeniden ele alır;
+Arkadaki takipçiler hızla yaklaşır;
+Tahliye edilen Usta, öğrenciler ve sıradan insanlar, daha güvenli konumlarda daha uzakta hareket etmeye devam ediyor.
+Herkes referans görseldeki aynı gerçek imparatorluk yolu üzerinde kalır.
+Aniden başka platformlara kesmek yasaktır.
+Öndeki düşmanlar ve arkadaki takipçiler neredeyse aynı anda saldırır.
+Küçük Abla içgüdüsel olarak geri dönmek ister.
+Kıdemli Abla sadece şunu söyler:
+"Beni koruma."
+Küçük Abla geri dönmeyi bırakır.
+Kıdemli Abla hemen ardından şunu ekler:
+"Yolu koru."
+İkisi neredeyse aynı anda patlar.
+Küçük Abla, Kıdemli Abla'yı kurtarmak için geri dönmez.
+İleri doğru devam eder, kısa ve sert koyu çelik kılıç çarpışması kullanarak öndeki düşmanın bıçak ağzını imparatorluk yolunun merkez ekseninden zorla iter.
+Kıdemli Abla aynı anda arkadaki takipçiyle ilgilenir.
+Kasıtlı olarak yarım adım geri çekilir, düşmanın gerçekten saldırı menziline girmesine izin verir.
+Tam rakibin vücut gücü yatırıldığı anda, saldırı ekseninden çapraz olarak aniden çıkar.
+Takipçinin kendi ileri momentumu, bedeninin yarım vücut boyu aşmasına neden olur.
+Kıdemli Abla kovalamaz.
+Hemen ileri doğru yeniden hızlanır.
+Bu anda, Küçük Abla zaten öndeki düşmanı merkez hattan yarım vücut boyu itmiştir.
+İki ana kahraman yüksek hızda yaklaşır.
+Omuz hatları son derece yakın mesafede sürtünür.
+İkinci ön-arka pozisyon değişimini tamamlayın.
+Bu sefer, birbirlerine hiç bakmazlar.
+Küçük Abla doğal olarak arka pozisyona düşer, tekrar takip etmek için dönen düşmanı devralır.
+Kıdemli Abla yine ön pozisyon haline gelir, hâlâ yolu kesen öndeki düşmanla yüzleşir.
+Bir düşman kılıcı kamera ön planını süpürür, anında ekranı doldurur ve tüm filmin en açık silah-tıkanma sert kesmesini oluşturur.
+Biraz daha alçak ters kamera pozisyonuna kes.
+Kıdemli Abla, gümüş kılıçla yalnızca son derece kısa, son derece şiddetli dışa doğru bir sapma yapar.
+Liderin kılıç yolu, imparatorluk yolunun merkez ekseninden tamamen itilir.
+Vücut ağırlığı zaten öne yatırıldığı için, kendi eylemsizliği bedenini yaklaşık iki vücut boyu yana sürükler.
+Düşmanlar köprüden düşemez.
+Abartılı bir şekilde savrulamaz.
+Tamamen dövüş yeteneklerini kaybetmelerine gerek yoktur.
+Sadece yolu açmak yeterlidir.
+Kıdemli Abla ve Küçük Abla, bitirici vuruşlar yapmak için kesinlikle durmaz.
+İkisi doğrudan düşmanların arasından geçer, aynı beyaz imparatorluk yolu boyunca uzak devasa halkaya doğru devam eder.
+Arkadaki tahliye edilen kalabalık da yeniden açılan rota boyunca ilerlemeye başlar.
+Düşman lideri geri döner ve öfkeyle bağırır:
+"Kazanamazsınız!"
+Kahramanca frontal yakın çekimlere kesmeyin.
+Kamera, iki kadının yan-arkadan ilerlemeye devam etmesini takip eder.
+Küçük Abla hâlâ nefesini düzenlemektedir:
+"Biz hiç kazanmak için burada değildik."
+Kıdemli Abla her zaman önündeki yola bakar:
+"Yol olduğu sürece, bu yeterli."
+Sadece son derece kısa bir ritim bırakın.
+Aynı uzak imparatorluk yolunun daha derinlerinde, uzak figür katmanında zaten var olan birkaç işlevsel düşman, yavaşça yayılmaya başlar ve bir sonraki turun yol kesme pozisyonlarına girer.
+Pusta havadan yaratmaları yasaktır.
+Binalardan ani bir şekilde yenilemeleri yasaktır.
+Gerçek mesafede baştan beri varlardı, yalnızca bu anda hareket yoluyla düşmanlıklarını ortaya koyuyorlar.
+İki ana kahraman hiç yavaşlamaz.
+Gümüş kılıç ve koyu çelik kılıç doğal düşük pozisyon hazır bekleyişini korur.
+Kamera, imparatorluk yolu ekseni boyunca geriye doğru çekilmeye devam eder.
+Siyah saçlar, etekler, şelaleler, pus, bulutlar, uzak saraylar ve devasa dünya her zaman doğal olarak hareket eder.
+İkisi henüz aktif olarak bir sonraki düşman grubuna doğru yürürken:
+Doğrudan siyaha kes.
+[Kamera & Kurgu]
+Üç anlatı segmenti, ancak kesinlikle üç çekime mekanik olarak eşit değildir.
+Tüm film, az miktarda gerçekten işlevsel kesme kullanır.
+Ana kamera rotaları:
+24mm merkez ekseni genel panorama gerçek mekanı onaylar → Mevcut imparatorluk yolu ekseni boyunca geriye doğru 32–35mm takip → İnsan bedeni lensi kapatarak gizli kesme oluşturur → Silah lensi süpürerek tıkanma kesmesi oluşturur → Ön-arka kıskaç oluştuğunda, uzayı açıklamak için çekimi yeniden genişlet → Son olarak, yan-arkadan sürekli olarak iki ana kahramanı uzak halkaya doğru ilerlerken takip eder.
+Tüm kesmeler yalnızca aşağıdaki olaylar tarafından doğal olarak tetiklenebilir:
+Karakter tıkanması;
+Silah tıkanması;
+Gerçek silah çarpışması;
+Hareket yönünde belirgin değişiklik;
+Belirgin vücut dengesizliği;
+Hızda ani değişiklik.
+Mekanik parçalı kesme yasaktır.
+Kameranın eylemden daha huzursuz olması yasaktır.
+Anlamsız ORBIT (yörünge) yasaktır.
+Kamera hareketi için imparatorluk yolu, saraylar, şelaleler ve uzak halkaların konumlarını değiştirmek yasaktır.
+Eylem kamerayı sürer.
+Kamera sahne deformasyonunu sürdüremez.
+[Ses]
+Açılışta ilk olarak şunlar kurulur:
+Yüksek rakım doğal rüzgarı;
+Uzakta sürekli var olan devasa şelalelerin düşük frekanslı uğultusu;
+Açık renkli taş imparatorluk yolundaki ayak sesleri;
+Son derece uzak antik şehir çevresel gürültü tabanı.
+Dövüş patlamasından sonra şunlar eklenir:
+Kısa, keskin kılıç rüzgarı;
+Sert, keskin metal çarpışmalar;
+Ayakkabı tabanı sürtünmesi;
+İpek kumaş titremesi;
+Takipçilerin hızlı adımları;
+Kademeli olarak ağırlaşan karakter nefesleri.
+Ön-arka kıskaç oluştuğunda, müziği ve geniş çevresel ses alanını geçici olarak alçaltın.
+Öne çıkanlar:
+Adımlar;
+Nefesler;
+Silah yönleri.
+Yol yeniden açıldıktan sonra, dövüş sesleri karakterlerin arkasında kademeli olarak söner.
+Son diyalog net olmalıdır:
+"Biz hiç kazanmak için burada değildik."
+"Yol olduğu sürece, bu yeterli."
+Diyalog bittikten sonra:
+Şelale;
+Yüksek rakım rüzgarı;
+Sürekli ileri adımlar
+Ana ses alanını yeniden ele geçirir.
+Müzik asla eylem detaylarını ve diyalogları bastırmamalıdır.
+[Seedance 2.0 Mini Üretim Öncelikleri]
+P0: Yüklenen arka plan referans görselinin mekan kimliği kesinlikle değişmemelidir.
+P0: @Image 1 ve @Image 2 çekirdek karakterlerinin kimlik stabilitesi.
+P1: Gümüş düz kılıç ve koyu çelik kılıcın atıf ve süreklilik stabilitesi.
+P1: Aynı imparatorluk yolu üzerinde net ön-arka mekansal ilişki.
+P1: Sürekli karakter ileri yönü, düşman saldırı yönü ve kamera ekseni.
+P2: Düşmanların, Ustaların, öğrencilerin ve sıradan insanların spesifik yüzleri ve karmaşık kıyafetleri.
+Model karmaşıklığının azaltılması gerekiyorsa:
+Önce yan karakter detaylarını azaltın;
+Sonra ekstra saldırı hamlelerini azaltın;
+Daha sonra dekoratif görsel efektleri azaltın.
+Kesinlikle feda edilemez:
+Referans görsel mekan kimliği;
+Çekirdek ana kahraman kimliği;
+Eylem nedenselliği;
+Mekansal süreklilik.
+[Negatif Kısıtlamalar]
+Mevcut yüksek rakımlı imparatorluk yolunu dairesel arenaya çevirmek yasaktır. Sıradan avluya çevirmek yasaktır. Geniş meydana çevirmek yasaktır. Başka bir bulut köprüsü eklemek yasaktır. Bağımsız dağ kapısı eklemek yasaktır. Yüzen ada eklemek yasaktır. Dövüş platformu eklemek yasaktır. Sol/sağ devasa şelaleleri silmek yasaktır. Sol/sağ büyük sarayları silmek yasaktır. Soldaki büyük konsol ahşap yapıyı silmek yasaktır. Alttaki yoğun antik şehri silmek yasaktır. Uzak devasa halka yapısını silmek yasaktır. Uzak devasa halkayı yaklaştırıp sıradan kule haline getirmek yasaktır. Uzak sarayların ve orta plan binalarının göreli konumlarını değiştirmek yasaktır. Gündüzün ani bir şekilde geceye dönmesi yasaktır. Fırtınalı koyu bulutların mevcut yumuşak havayı değiştirmesi yasaktır. Eylem için imparatorluk yolunu genişletmek yasaktır. Kesmelerden sonra imparatorluk yolu genişliğini değiştirmek yasaktır. Ortamın hikayeye aktif olarak katılması yasaktır. Ani köprü kırılması yasaktır. Binaların kendi kendine çökmesi yasaktır. Pusun düşmanları aktif olarak örtmesi yasaktır. Şelalenin ani bir şekilde saldırıyı değiştirmesi yasaktır. Rüzgarın ani bir şekilde kılıç yolunu değiştirmesi yasaktır. Karakterlerin yörüngesiz ışınlanması yasaktır. İki ana kahramanın sebepsiz yere pozisyon değiştirmesi yasaktır. Rastgele geniş alan kılıç qi'si yasaktır. Enerji dalgalarının çarpışması yasaktır. Işık kirliliği yasaktır. Düşmanların saldırı sunmak için sıraya girmesi yasaktır. Düşmanların uzun süre pasif olması yasaktır. Uzun süreli silah itme yasaktır. Bir hamleden sonra karakterlerin beklemesi yasaktır. Anlamsız dönmeler yasaktır. Anlamsız Pozlar yasaktır. Yavaş çekim yasaktır. Mermi zamanı (bullet time) yasaktır. Vuruş durdurma (hit-stop) yasaktır. Ciddi Hareket Bulanıklığı (Motion Blur) karakterleri ve silahları örter yasaktır. Çılgın kamera sarsıntısı yasaktır. Gerçek eylem yerine sürekli yüz yakın çekimleri yasaktır. Eylem sırasında kol, parmak ve silahın modellere nüfuz etmesi yasaktır. Ana kahraman silahının çoğalması yasaktır. Karakter yüzlerinin değişmesi yasaktır. Rastgele kostüm değişiklikleri yasaktır. Arka planın ani kayması yasaktır. Altyazılar yasaktır.
+bulanık, kötü kalite, düşük kalite, düşük çözünürlük, gürültülü, jpeg artefaktları, filigran, metin, hata; deforme, mutasyona uğramış, kötü anatomi, kötü çizilmiş eller, kötü kompozisyon, çerçeve dışında, şekilsiz; tutarsız karakter, değişen kıyafetler, yüz morphing, arka plan kayması, glitching kesimler, kaybolan prop'lar
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106728656399970304/img/DeUvkEJCnbRcNZ9b.jpg" width="600" alt="Seedance 2.0 Mini Sinematik Eskort Savaşı İstem Yönergesi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11921)**
+
+**Yazar:** [Soran](https://x.com/Soranlan) | **Kaynak:** [Link](https://x.com/Soranlan/status/2106728692986843641) | **Yayınlandı:** Oct 4, 2026
+
+---
+### Seedance 2.0 Sahte Düello Tuzak Aksiyon İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> İki kılıç ustasının gizli suikastçıları ortaya çıkarmak için sahte bir düello yaptığı sinematik Xianxia aksiyon sahnesini oluşturmak için bir istem; dinamik dövüş akışına ve katı karakter/çevre tutarlılığına odaklanır.
+
+#### 📝 İstem
+
+```
+Sinematik fotogerçekçi doku, saf antik Çin Xianxia yüksek gerilimli kılıç ustalığı aksiyon filmi.
+
+Önceki kalıplardan tamamen kop:
+
+Abla için silahı değiştirerek karşı hamle yap
+Tüm engelleri aş
+Çift tamamlayıcı kör noktalar
+
+Temel kavram:
+
+Abla ve kız kardeş gerçekten tehlikeli bir düelloda gibi görünür, aslında pusuda bekleyen suikastçıları kendilerini açığa vermeye zorlamak için bunu kullanırlar.
+
+Üç Katmanlı Anlatı Hedefleri
+Katman 1 Kanca: Seyircinin gerçekten savaştıklarına inanmasını sağla
+Katman 2 Dönüm Noktası: Karşılıklı kılıç momentumu ile alanı kontrol ettiklerini ifşa et
+Son Kanca: İkinci düşman dalgasının henüz ortaya çıkmadığına dair merak uyandır
+
+Genel Aksiyon İlkesi
+
+Eylemler akıcı olmalı, ancak asla yumuşak olmamalı.
+
+Akıcılık
+
+Tanım:
+Önceki eylem doğal olarak sonrakini yaratır
+
+Hareket yönü sürekli uzar
+Kamera, beden ve kılıç yolu arasında net nedensellik
+Güç Hissi
+
+Tanım:
+Ani başlangıç
+
+Şiddetli temas
+Kuvvet sapması
+Beden dengesizliği
+Atalet devamı
+Ani duruş
+Karakter & Silah Kilidi
+
+Sadece @image 1 ve @image 2 ana karakterleri ve özel silahlarını sıkıca kilitle.
+
+@image 1 | Kılıç Ölümsüz Ablası
+
+Aynı @image 1 Ablası her zaman şunları korur:
+
+Aynı yetişkin Doğu Asyalı kadın yüzü
+25–30 yaş görünümü
+
+Yarı bağlı siyah uzun saçlar
+Beyaz yeşim tokası
+Uzun ince oranlar
+Beyaz işlemeli ipek Hanfu
+Yarı saydam geniş kolluklar
+Gümüş bel kuşağı
+Yeşim kolye
+Beyaz bez çizmeler
+Benzersiz gümüş düz kılıç
+@image 2 | Küçük Kız Kardeşi
+Aynı @image 2 Küçük Kız Kardeşi her zaman şunları korur:
+
+Aynı yetişkin Doğu Asyalı kadın yüzü
+20–25 yaş görünümü
+
+Örgülü siyah saçlar
+Minyon oranlar
+Mavi-yeşil keten Hanfu
+Koyu kemer
+Ahşap toka
+Siyah bez ayakkabılar
+Benzersiz koyu çelik kılıç
+Diğer Karakterler
+Suikastçılar, usta, öğrenciler, yayalar sadece işlevseldir, başroller gibi sıkı yüz/kıyafet kilidi yoktur.
+
+Daire Sahne Kontrolü | En Yüksek Öncelik
+Yüklenen arka plan, tam ve çok tanınabilir bir konumu açıkça gösterir. HARD LOCATION ANCHOR (Sabit Konum Çapası) moduna geç.
+Referans görsel gerçek hikaye konumudur, görsel ilham değil.
+
+Orijinal Mekansal Elemanları Koru
+
+Devasa ön plan taş platformu
+
+Kenarda sürekli taş korkuluklar
+
+Korkulukların ötesinde geniş ölçekli düşük sis derinliği
+Orta planda yoğun antik şehir çatıları
+Merkez salon
+Uzakta yüksek konumlu devasa saray kompleksi
+Şehir ve uzak saray arasında güçlü mesafe hiyerarşisi
+Soğuk gri-mavi gökyüzü ve alçak sis
+Uzak saraydan gelen sıcak ışık
+Makro ölçek: minik karakterler, devasa şehir/saray
+Ana Sert Kısıtlamalar
+Uzak en yüksek saray her zaman şunları korumalı:
+Çok uzak
+
+Çok büyük
+görsel ölçek.
+
+Orta çekimlerde uzak sarayı karakterlerin arkasına yakın kapı olarak çekmek yasaktır.
+Mekan Sınırlaması
+
+Tüm 15 saniyelik dövüş kesinlikle şu yerde geçer:
+
+Referansta açıkça bulunan devasa taş platform
+
+Ve doğrudan bağlantılı alanlar
+
+Oluşturulması Yasak Olanlar:
+Uçan taş köprüler
+
+Bulut köprüleri
+Bağımsız kapılar
+
+Adalar
+Yeni uçurumlar
+Yeni saray girişleri
+Yeni merdivenler
+Yeni dövüş platformları
+Konum kimliğini değiştiren herhangi bir büyük bina
+Mekansal Süreklilik Gereksinimi
+Her kesmeden sonra bu ilişkiler stabil kalmalı:
+Platform
+Korkuluklar
+
+Şehir katmanları
+
+Merkez binalar
+
+Uzak saray
+
+Silüet
+Eylemler/kameralar platforma uyar.
+Metinle tanımlanan eylemler için platform şeklini asla değiştirme.
+Arka Plan Durumu
+Arka plan doğal olarak canlıdır:
+Büyük alçak sis şehir katmanları arasında yavaşça hareket eder
+Yüksek bulutlar doğal olarak değişir
+
+Uzak sarayın sıcak ışığı hava/sis tarafından etkilenir
+Saç/ipek etekler platform rüzgarıyla hareket eder
+
+Hava derinliği, yansımalar, birkaç uzak figürün mikro hareketleri
+
+Sadece gerçek:
+
+Adım atma
+
+Silah çarpışması
+Hızlı kıyafet geçişi
+Yerel geri bildirimlere izin ver:
+Az miktarda taş tozu
+Kıvılcımlar
+
+Etek yer değiştirmesi
+
+Kesinlikle Yasak Olanlar
+Sisin aniden düşmanları gizlemesi
+Korkulukların kırılması
+
+Sarayların kendini değiştirmesi
+
+Arka planın herhangi bir tarafın dönüm noktasını tamamlamasına yardım etmesi
+Segment Yapısı
+0–5s | Sahte Düello: Seyirciyi Aldat
+
+0.0–1.0s
+24mm sabit geniş çekim kullan.
+Şunları korumalı:
+Devasa taş platform
+Tam uzak saray/şehir derinliği
+
+Seyirci referanstan aynı konumu bilir.
+
+Aynı beyaz giysili abla ve mavi giysili küçük kız kardeşi metrelerce arayla karşı karşıya gelir.
+
+Uzakta güvenli bölgede:
+
+Birkaç öğrenci
+Sıradan seyirciler
+
+Aynı yaşlı usta
+
+Ancak onlar sadece arka plandadır.
+Diyalog
+
+Küçük kız kardeş fısıldar:
+
+"Gerçekten ısıracaklar mı?"
+
+Abla cevap verir:
+
+"Onları önce kandır."
+Son kelime düştüğünde, ikisi de uyarı olmadan aynı anda patlar.
+Kamera sabit genişten ~35mm hareketli orta çekime girer.
+
+İlk Tur Sahte Düello
+
+Abanın ilk kılıcı küçük kız kardeşe vuruyormuş gibi görünecek kadar hızlı
+Küçük kız kardeş son ana kadar dış kılıç kenarını sıyırır
+
+Sonra koyu çelik kılıçla alçak karşı hamle
+Abla kaçınmak için döner
+
+Gümüş ve koyu çelik kılıçlar ilk çok kısa, sert gerçek metal çarpışmasını yaşar
+
+Ana Gereksinimler
+Hiçbiri poz vermez
+
+Çarpışmadan hemen sonra sonraki hamleye tersine çevrilir
+Beyaz geniş kolluklar kameranın yanından hızla süpürülür, ilk zar zor fark edilen doğal gizli kesmeyi oluşturur.
+Gerekli Etki
+Seyirciyi şüpheye düşür:
+Oynuyorlar mı yoksa gerçekten savaşıyorlar mı?
+5–10s | Katman 1 Dönüm Noktası: Gerçek Düşmanlar Ortaya Çıkar
+
+Koru:
+Aynı platform
+Şehir
+
+Uzak saray ölçeği
+
+Kılıç sahipliği
+35–40mm yan takip kullan, dövüş ön plan platformunda yatay/diagonal gelişir, yeni lokasyon yok.
+
+Sürekli Saldırı/Savunma
+
+Kız kardeşler yüksek hızlı ama mekansal olarak net bir dizi tamamlar:
+
+Abla saplar
+
+Küçük kız kardeş savuşturur
+
+Küçük kız kardeş hemen abanın açtığı yandan kayarak karşı saldırıya geçer
+Abla kılıcın altından eğilir
+Yüksek hızlı çaprazlama, orijinal pozisyonları takas eder
+Eylem Kuralları
+
+Tüm hamleler doğal olarak zincirlenir.
+Önceki vuruş sonrakini yaratır.
+Bir hamleden sonra duruşu sıfırlama.
+
+İlk Suikastçı Ortaya Çıkar
+Kılıçlar çaprazlandığında <0.5s, uzak kalabalığa karışmış işlevsel bir suikastçı dışarı fırlar, abanın kör noktasından saldırır.
+
+Ana Gereksinimler
+Sahte düelluyu asla durdurma.
+Abla tehlikeyi sadece küçük kız kardeşin gözlerindeki kısa değişimle fark eder.
+Küçük kız kardeş abaya saldırıyormuş gibi sallamaya devam eder.
+Abla son anda küçük kız kardeşin kılıcının altından eğilir.
+Küçük kız kardeşin kılıcı omzunun üzerinden süpürülür, arkadan gelen suikastçının silahını şiddetle savuşturur.
+Bu saniye seyirciye şunu hissettirmeli:
+Düello bir yemdi.
+İkinci Suikastçı Ortaya Çıkar
+Neredeyse nefes alma yok.
+İkinci suikastçı küçük kız kardeşe karşı yönden koşar.
+
+Abla çaprazlamadaki rotasyon ataletini kullanır, küçük kız kardeşin omzunun üzerinden keser, tek bir kısa gümüş kılıç çarpışması ikinci suikastçının yolunu değiştirir.
+
+Sonuç
+Sahte düello hareket sırasında doğal olarak dört yönlü gerçek bir savaşa dönüşür.
+
+Kesinlikle Yasak Olanlar
+Açıklamak için duran biri
+
+Suikastçıların sıraya girmesi
+
+Ustanın uzaktan sessizce izlemesi
+10–15s | Katman 2 Dönüm Noktası: Aralarında Hiçbir Kural Yok
+İki suikastçı ifşa edildiklerinde strateji değiştirir.
+İki kadını gerçekten ayırmaya çalışarak iki yönden hızlanırlar.
+
+Biraz daha geniş hareketli çekim kullan.
+Devasa platformda dört kişinin tam konumsal ilişkisini göster, arka plan hala antik şehri/uzak sarayı gösteriyor.
+Çift Çapraz Takas
+
+Kız kardeşler dışarı geri çekilmez.
+Yüksek hızda birbirlerine doğru koşarlar.
+Omuz hatları tam hızda birbirine sürtünür, anında ön/arkayı takas eder.
+Çaprazlama akıcı, sorunsuz olmalı.
+Sürtünme anında:
+
+Küçük kız kardeş abanın kör noktasına saldıran suikastçıyı alır
+
+Abla küçük kız kardeşe koşan suikastçıyı alır
+
+Boyunca göz teması yok.
+Bir suikastçının silahı kamera çerçevesini şiddetle süpürür, en net doğal silah-perdeli sert kesmeyi oluşturur.
+
+Yeni ters eksene kes.
+Başroller tamamen takas edildi.
+Son Kırılma Hamleleri
+Her biri bir son derece kısa, doğrudan ters karşı hamle yapar.
+Kesinlikle Yasak Olanlar
+
+Devasa kılıç qi'si
+
+Şirin dönüşler
+
+Yavaş çekim
+Sonuçlar:
+
+Bir suikastçının silah yolu küçük kız kardeş tarafından değiştirilir, kendi ataleti nedeniyle dışarı kayar
+Diğerinin saldırı ekseni abanın gümüş kılıcı tarafından değiştirilir, optimal menzilin dışına itilir
+
+Her iki suikastçı da hayatta, sadece bu turun şansını kaybetti.
+Ses Kesilmesi
+Dövüş sesi aniden daralır.
+Sadece:
+
+Dört kişinin nefesi
+İki başrolün kılıçlarının hafif titreşimi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106642529160749056/img/ifDPxtnGu3ym2xT4.jpg" width="600" alt="Seedance 2.0 Sahte Düello Tuzak Aksiyon İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11922)**
+
+**Yazar:** [Soran](https://x.com/Soranlan) | **Kaynak:** [Link](https://x.com/Soranlan/status/2106643465094431201) | **Yayınlandı:** Oct 4, 2026
+
+---
 ### Bilim Kurgu Savaşçı Koridor Dövüşü İstem Metni
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -420,6 +1265,25 @@ Olumsuz İstem (Negative Prompt): ekstra parmaklar, ekstra eller, deforme olmuş
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11847)**
 
 **Yazar:** [Nadya](https://x.com/nadyamaje) | **Kaynak:** [Link](https://x.com/nadyamaje/status/2106554883235356947) | **Yayınlandı:** Oct 4, 2026
+
+---
+### Bleach Bypass Sinema Projeksiyoncusu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yıkılmakta olan bir sinemada yaşlı bir projeksiyoncuyu, bleach-bypass film işleme tekniği ve özel sinematografik talimatlarla stilize eden metinden videoya üretim istemi.
+
+#### 📝 İstem
+
+```
+Yıkılmakta olan terk edilmiş mahalle sinemasının içinde, yaşlı bir projeksiyoncu binanın ortadan kalkmasından önce son filmi izlemek için harap olmuş salonda yalnız başına oturuyor. Etrafını tozlu kadife koltuk sıraları çevreliyor, tavanın bazı bölümleri eksik, gün ışığı duvardaki büyük bir delikten içeri giriyor, dışarıda inşaat makineleri görülüyor. Projeksiyon makinesi çalışmaya devam ediyor, ışık huzmesi yoğun toz bulutlarını keserek ilerliyor. Kamera, yıkık girişten koridor boyunca yavaşça projeksiyoncuya doğru hareket ediyor, ardından hasarlı perdeye yansıyan görüntüyü göstermek için onun arkasında dönüyor. Gerçekçi canlı çekim sinematografisi, bleach-bypass film işleme tekniği, neredeyse griye dönmüş solmuş bordo ve altın tonları, derin siyahlar, parlak gümüş vurgular, sert kontrast, yoğun 35mm grenli yapı, ince çizikler ve pozlama varyasyonları, duygusal olarak ölçülü, melodramatik öğeler yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106514798942752768/img/wF54JkcWicweR581.jpg" width="600" alt="Bleach Bypass Sinema Projeksiyoncusu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11916)**
+
+**Yazar:** [Alexandra Aisling](https://x.com/AllaAisling) | **Kaynak:** [Link](https://x.com/AllaAisling/status/2106515375559217226) | **Yayınlandı:** Oct 3, 2026
 
 ---
 ### Seedance 2.0 Mini Wuxia Dövüş Promptu
@@ -5728,244 +6592,6 @@ Serin mavi ve ferahlatıcı bir ortamda, üzerinde “AQUA LUXE – DEEP HYDRATI
 **Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2101887507059351894) | **Yayınlandı:** Sep 21, 2026
 
 ---
-### Sinematik Karakter Referans Sayfası İstemcisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 Fast kullanılarak yüklenen görsellerden ultra gerçekçi sinematik karakter referans sayfaları oluşturmak için kapsamlı bir istem.
-
-#### 📝 İstem
-
-```
-PREMİUM, ULTRA GERÇEKÇİ SİNEMATİK KARAKTER REFERANS SAYFASI OLUŞTUR — PROFESYONEL FİM PRODÜKSİYONU TASARIMI.
-
-REFERANS KİLİDİ:
-Yüklenen referans görseli, öznenin kimliği için TEK kaynak olarak kullan.
-
-Yüz kimliğini, yüz şeklini, gözleri, kaşları, burnu, dudakları, çene hattını, ten rengini, saç stilini, saç rengini, vücut oranlarını, yaşı ve tanınabilir görünümü maksimum doğrulukla koru.
-
-Cinsiyet, yaş, saç stili, vücut tipi veya kişisel görünüm ne olursa olsun HERHANGİ BİR KİŞİYE doğal şekilde uyum sağla.
-
-TEMEL KONSEPT:
-Yüklenen kişiyi; görünüşlerinden, kişiliklerinden ve görsel varlıklarından ilham alan tam gelişmiş bir sinematik karaktere dönüştür.
-
-Özneye uygun benzersiz bir karakter konsepti, kıyafet, aksesuar, saç stili, renk paleti ve görsel kimlik otomatik olarak tasarla.
-
-KARAKTER TASARIMI:
-Premium Hollywood veya Netflix tarzı film prodüksiyonu için uygun, görsel açıdan güçlü, özgün bir karakter yarat.
-
-Karakter şunlardan biri olabilir: BİR SAVAŞÇI, KÖTÜ ADAM, KAHRAMAN, CADILAR, KRALLIK ÜYESİ, BİLİM KURGU KEŞİFÇİSİ, SUİKASTÇI, DETEKTİF, HAYATTA KALAN, FANTASTİK KARAKTER VEYA MODERN SİNEMATİK KİŞİLİK.
-
-Yüklenen referansa ve amaçlanan görsel stile göre en uygun karakter yönünü seç.
-
-KARAKTER SAYFASI DÜZENİ:
-
-1. HERO PORTRAIT (KAHRAMAN PORTRESİ):
-Karakterin yüzünü, saç stilini, kıyafetini ve genel kişiliğini gösteren tek büyük, dramatik, ultra gerçekçi sinematik portre oluştur.
-
-2. FACIAL EXPRESSIONS (YÜZ İFADELERİ):
-Şunları içeren profesyonel bir yüz ifadesi gridi oluştur: NÖTR, CİDDİ, YOĞUN, YUMUŞAK, GÜLÜMSEME, ÖFKELİ, ÜZGÜN, GİZEMLİ.
-Her panelde tutarlı yüz kimliğini koru.
-
-3. TURNAROUND / FULL BODY VIEWS (TURNAOUT / TAM GÖRÜNÜM):
-Karakteri şu açılardan göster: ÖN GÖRÜNÜM YAN GÖRÜNÜM ARKA GÖRÜNÜM ÜÇ ÇEYREK GÖRÜNÜM
-Tüm görünümlerde tutarlı kıyafet, vücut oranları, aksesuarlar ve saç stilini koru.
-
-4. PORTRAIT VARIATIONS (PORTRE VARYASYONLARI):
-Farklı açılardan sinematik yakın çekimler dahil et: ÖN PORTRE ÜÇ ÇEYREK PORTRE YAN PORTRE DRAMATİK GÖLGE PORTRESİ.
-
-5. COSTUME & DETAIL CLOSE-UPS (KIYAFET & DETAY YAKIN ÇEKİMLERİ):
-Şunların yüksek detaylı yakın çekimlerini göster: BAŞLIK VEYA SAÇ STİLİ KIYAFET DETAYLARI AKSESUARLAR KEMER VEYA BEL DETAYLARI ELDİVEN VEYA EL DETAYLARI KUMAŞ DOKUSU KOLYE VEYA İMZALI PROP.
-
-6. COLOR PALETTE (RENK PALETİ):
-Karakterin kıyafeti ve sinematik temasıyla eşleşen profesyonel bir renk paleti görüntüle.
-
-7. CHARACTER INFORMATION (KARAKTER BİLGİLERİ):
-Şunları içeren temiz, profesyonel bir bölüm ekle: KARAKTER ADI ROL TAKMA AD KİŞİLİK STİL TEMA İMZALI ÖĞE
-
-8. CINEMATIC WORLD-BUILDING (SİNEMATİK DÜNYA İNŞASI):
-Karakterin dünyasını tamamlayan ince atmosferik bir arka plan veya çevresel illüstrasyon ekle.
-
-GÖRSEL STİL:
-Premium Hollywood konsept sanatı. Ultra gerçekçi fotoğrafçılık. Yüksek kaliteli kostüm tasarımı. Sinematik aydınlatma. Doğal cilt dokusu. Gerçekçi kumaş ve malzeme detayları. Profesyonel film prodüksiyon referans sayfası. Zarif editoryal düzen. İnce sinematik atmosfer. Keskin yüz detayları. Fotogerçekçi render.
-```
-
-<img src="https://cms-assets.youmind.com/media/1789970152422_3vld7y_HSnCVWybwAAnaFA.jpg" width="600" alt="Sinematik Karakter Referans Sayfası İstemcisi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11053)**
-
-**Yazar:** [M. Asif](https://x.com/meAsifAi) | **Kaynak:** [Link](https://x.com/meAsifAi/status/2101515191158542788) | **Yayınlandı:** Sep 20, 2026
-
----
-### Tren Çığ Can Kurtarma Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 ile oluşturulan, bir treni, çığı ve ejderha kurtarmasını içeren 15 saniyelik sinematik animasyon kısa filmi için detaylı istem.
-
-#### 📝 İstem
-
-```
-15 saniyelik sinematik animasyon kısa filmi.
-Bir yolcu treni karlı bir dağ vadisinde hızla ilerler.
-Önde, devasa bir çığ aniden kopar ve raylara doğru gürleyerek inmeye başlar.
-Tren sert fren yapar.
-Yolcular, kar ve kayaların dağdan aşağıya doğru gümbürdeyişini pencerelerden izler.
-Aniden ormandan devasa bir ejderha fırlar.
-Doğrudan rayların yanına iner ve kanatlarını sonuna kadar açar.
-Çığ vurur.
-Ejderha kendini yere sabitler ve düşen molozların en kötüsünden treni korur.
-Etrafında kar patlamaları olur.
-Tren, kapalı raylara santimetreler mesafede durur.
-Ön vagonda küçük bir kız elini pencereye bastırır.
-Bitkin ejderha ona geri bakar.
-Kız gülümser.
-Ejderha nazikçe bir kanadını indirir ve karlı ormanda kaybolur.
-
-Stilize sinematik animasyon, sofistike yaratık tasarımı, resimsel dokular, gerçekçi ortamlar, dramatik fiziksel aksiyon, dinamik kamera hareketleri, güçlü ölçek hissi, sıcak duygusal son, doğal renkler, sinematik ışıklandırma, diyalog yok, sihirli güçler yok, korku yok, şiddet yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101414099632422912/img/vPUySBkizJaVP6E5.jpg" width="600" alt="Tren Çığ Can Kurtarma Animasyonu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11052)**
-
-**Yazar:** [Alexandra Aisling](https://x.com/AllaAisling) | **Kaynak:** [Link](https://x.com/AllaAisling/status/2101429374755262628) | **Yayınlandı:** Sep 19, 2026
-
----
-### Karanlık Savaşçı Fırtına Çatı Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yağmurlu bir çatıda dramatik ışıklandırma ve su efektleriyle zırhlı bir savaşçının sinematik aksiyon sahnesini oluşturmak için bir istem.
-
-#### 📝 İstem
-
-```
-Fırtına sırasında ıslak bir çatıda duran, dalgalanan siyah zırh giymiş gizemli karanlık bir savaşçının ultra gerçekçi sinematik sahnesi, güçlü dinamik poz, etrafında dramatik şekilde sıçrayan sular, koyu bulutlu gökyüzü, yoğun atmosferik aydınlatma, uçan su damlaları ve hareket, arka planda fütüristik şehir silüeti, dramatik aksiyon filmi kompozisyonu, gerçekçi kumaş ve zırh dokuları, hacimsel aydınlatma, sığ alan derinliği, yüksek detay, HDR, 8K, fotogerçekçi, sinematik renk düzenlemesi, dikey 9:16 kompozisyon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101169609365921792/img/-IstuS_VdtsgYbeM.jpg" width="600" alt="Karanlık Savaşçı Fırtına Çatı Video İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11012)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2101169774076231947) | **Yayınlandı:** Sep 19, 2026
-
----
-### Cilt Bakım Rutini Sinematik Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Parlak bir odada genç bir kadını gösteren, doku ve ışıklandırmaya odaklanan fotogerçekçi bir cilt bakım reklamı oluşturmak için istem.
-
-#### 📝 İstem
-
-```
-Parlak ve zarif beyaz bir odada genç bir Koreli kadının yer aldığı 15 saniyelik fotogerçekçi bir cilt bakım videosu oluşturun. Başlangıçta, parmak ucuyla yanağını nazikçe dokunurken doğal yüzünün aşırı yakın çekimini gösterin; gerçekçi cilt dokusu ve yumuşak gün ışığına odaklanın. Ardından, elinin yavaşça uzandığı beyaz mermer masa üzerinde duran şeffaf bir cilt bakım şişesini gösterin. Yüz hatlarını ve görünümünü tutarlı tutarak, her iki eliyle cilt bakım ürününü yüzüne nazikçe uygulamasıyla devam edin. Parmak uçlarıyla her iki yanağını yumuşakça masaj yaparken huzurla gözlerini kapattığını gösterin. Son olarak, büyük bir pencerenin yanında sade beyaz bir elbise giymiş halde daha geniş bir açıdan görüntüleyin; tül beyaz perdeler güneş ışığında doğal hareket etsin. Hareketleri pürüzsüz ve gerçekçi tutun; doğal eller, gerçekçi cilt, yumuşak sinematik ışıklandırma, temiz lüks atmosferi, hafif kamera hareketleri ve bozulmalar veya yapay görünen detaylar olmadan.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101138351013416960/img/ZHT5-dQIrBB1HX68.jpg" width="600" alt="Cilt Bakım Rutini Sinematik Video İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11011)**
-
-**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2101138386132386252) | **Yayınlandı:** Sep 19, 2026
-
----
-### Donmuş Manzara Kadın Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Rüzgar ve kar parçacıklarıyla dolu, karlı bir manzarada bir kadının sinematik sahnesini oluşturmak için bir istem.
-
-#### 📝 İstem
-
-```
-Genç bir kadının, rüzgarın saçlarını savurduğu, yorgun ama kararlı ifadesiyle geniş, donmuş karlı bir manzarada tek başına durduğu ultra gerçekçi sinematik sahne. Üzerinde koyu renk hava koşullarına dayanıklı bir palto var. Şiddetli kar fırtınası, dramatik koyu fırtına bulutları, arka planda karla kaplı dağlar, soğuk mavi atmosfer, gerçekçi kar parçacıkları, doğal cilt dokusu, duygusal hikaye anlatımı, dramatik ışıklandırma, sığ alan derinliği, sinematik renk düzenlemesi, yüksek detaylı, fotogerçekçi, 8K, HDR, profesyonel film karesi, 85mm lens, dikey 9:16 kompozisyon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100821852797227008/img/ccGPsPHV1WCfCErM.jpg" width="600" alt="Donmuş Manzara Kadın Video İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11013)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2100822353446060246) | **Yayınlandı:** Sep 18, 2026
-
----
-### Bleu de Chanel Lüks Parfüm Reklamı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bleu de Chanel'in yer aldığı sinematik lüks parfüm reklamı için, özel hareketler, kamera açıları ve seslendirme talimatlarını içeren detaylı bir istem.
-
-#### 📝 İstem
-
-```
-Sinematik lüks parfüm reklamı, 10 saniye. Arkaya taranmış koyu renk saçlı zarif bir kadın, kabarık omuzlu siyah uzun kollu bluzuyla yumuşak açık mavi-gri stüdyo arka planının önünde duruyor. Bleu de Chanel Eau de Parfum'un lacivert kare cam şişesini iki eliyle kameraya doğru tutarak sunuyor. Siyah kapağı çıkaran parmaklarının yakın çekimi, gümüş sprey başlığını ortaya çıkarıyor. Parlak pencere ışığında ince bileğine ince bir sis püskürtüyor. Ardından bileğini yüzüne kaldırır, gözlerini kapatır ve hafif memnun bir gülümsemeyle kokuyu içine çeker. Son çekim: Şişe keskin odakla kadrajı doldururken, kadın arkada bulanık kalır. Yumuşak doğal ışık, sığ alan derinliği, üst düzey moda filmi estetiği, yavaş ve zarif hareketler, premium reklam görünümü.
-Seslendirme: “Hazırlanırken son dokunuş. Bleu de Chanel, onu kendine ait kıl.”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100818151134871552/img/FCELWlH2dnIKUU3Y.jpg" width="600" alt="Bleu de Chanel Lüks Parfüm Reklamı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10982)**
-
-**Yazar:** [Elisia](https://x.com/AiwithElisia) | **Kaynak:** [Link](https://x.com/AiwithElisia/status/2100818214754128101) | **Yayınlandı:** Sep 18, 2026
-
----
-### Kore Kırsal Aile Anıları
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kırsal bir köyde huzurlu bir yaz akşamında keyif alan Koreli bir anne ve çocuklarını tasvir eden, aile etkileşimlerine ve manzaraya odaklanan nostaljik bir video promptu.
-
-#### 📝 İstem
-
-```
-Güzel Korece kelimelerle süslenmiş, sıcak ve nostaljik bir Kore kırsal yaşam tarzını yansıtan bir video oluşturuldu. Sıcak altın saat güneşi ışığında, eski kiremit çatılı evlerin, taş duvarların, yeşil pirinç tarlalarının ve sakin kırsal atmosferin hakim olduğu geleneksel bir Kore köyünde, sevgi dolu bir Koreli anne ve üç küçük çocuğun huzurlu bir yaz akşamını geçirdikleri sahneyi göster. Anne, eski ahşap kapıyı nazikçe açarak başlasın; ardından çocuklarla birlikte köy yolunda bisiklet sürerken çekilen sinematik takip kamerası hareketine geçiş yapılsın. Doğal çocuk kahkahalarını, yumuşak bisiklet hareketlerini, uçuşan kıyafetleri ve gerçekçi Koreli yüz hatları ile ifadeleri içeren otantik aile etkileşimlerini yakala. Ailenin yemyeşil pirinç tarlaları ve küçük bir dere kenarında bisiklet sürdüğü daha geniş sinematik çekimlere geçerek huzurlu bir özgürlük ve nostalji hissi yarat. Annenin çocuklarla tarla kenarında oturup taze meyve ve atıştırmalıkları paylaştığı, gülümseyip sohbet ettikleri anları göster. Güzel doğal ışıklandırma, yumuşak gün batımı parıltısı, ince film greni, sığ alan derinliği, gerçekçi dokular ve akıcı sinematik kamera hareketleri kullan. Pirinç tarlalarının arkasında güneş batarken, büyük bir ağacın altında sessiz dere kenarında birlikte oturan ailenin duygusal ve geniş bir çekimiyle bitir. Fotogerçekçi canlı aksiyon, sinematik Kore aile filmi estetiği, sıcak renkler, yumuşak tempo, otantik duygular, 16:9 kompozisyon, yüksek detay, doğal fizik kuralları, yapay görünümlü yüzler yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100817472219914240/img/-EjhCs7GzNqSVkZW.jpg" width="600" alt="Kore Kırsal Aile Anıları">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10983)**
-
-**Yazar:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Kaynak:** [Link](https://x.com/ayzalnooor24521/status/2100817795214954593) | **Yayınlandı:** Sep 18, 2026
-
----
-### Kaotik Sınıf Sinematik Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gerçekçi hareket ve kamera takibine odaklanan, uçan nesnelerle dolu kaotik bir sınıfta Koreli bir kız öğrencinin yer aldığı 15 saniyelik sinematik video için prompt.
-
-#### 📝 İstem
-
-```
-15 saniyelik sinematik video promptu: Dağınık bir sınıfın ortasında duran gerçekçi görünümlü genç bir Koreli kız öğrenci; üzerinde kırmızı kurdele kravatlı beyaz kısa kollu okul gömleği ve koyu gri pileli etek var. Arkasında oturan ve hareket eden birkaç öğrenci bulunuyor. Kitaplar, kağıtlar, defterler ve sınıf eşyaları havada uçuşarak dağınık ama gerçekçi bir atmosfer yaratıyor. Arka plandaki öğrenciler ani kaosa doğal tepkiler verirken, o ciddi ve sakin bir ifadeyle yavaşça kameraya doğru yürüyor. Kamera, dikey 9:16 kompozisyonda onu merkezde tutacak şekilde pürüzsüzce geriye doğru takip ediyor ve gerçekçi el kamerası hareketleri içeriyor. Kağıtlar ve nesneler inanılır yerçekimi, hareket bulanıklığı ve doğal fizik kurallarıyla etrafında düşmeye devam ediyor. Videonun ortasına doğru, aynı yüz, saç modeli, üniforma ve vücut oranlarını koruyarak kameraya yaklaşmaya devam ederken bir elini hafifçe kaldırıyor. Son saniyelerde, gözlerinin önündeki saçı nazikçe kenara iterken kamera yüzüne yaklaşıyor ve objektife doğrudan bakarak ince duygusal bir ifade sergiliyor. Doğal sınıf aydınlatması, gerçekçi cilt dokusu, detaylı kumaş, otantik gölgeler, sinematik alan derinliği ve fotogerçekçi görseller kullanın; kesintisiz akıcı hareket sağlayın ve hiçbir kesme (cut) yapmayın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100787630216724480/img/8BCeaa8eVJKomkdI.jpg" width="600" alt="Kaotik Sınıf Sinematik Sahnesi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10984)**
-
-**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2100787710424416603) | **Yayınlandı:** Sep 18, 2026
-
----
-### Paris Moda Dönüşüm Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kadının Paris sokaklarında yürürken beyaz elbisesinin kırmızıya dönüştüğü sinematik bir moda dönüşüm videosu oluşturmak için prompt.
-
-#### 📝 İstem
-
-```
-Zarif Paris sokaklarında yürüyen güzel genç bir kadını konu alan sinematik bir moda dönüşüm videosu oluşturdunuz. Kadın, klasik mimari, kafeler, mağazalar ve yayalarla çevrili şık bir şehir kaldırımında doğal bir şekilde yürüyerek temiz beyaz yazlık elbisesiyle başlıyor. Kamera, gerçekçi sinematik hareketler ve sığ alan derinliği ile onu pürüzsüzce takip ediyor. Bir vitrinin önünden geçerken, parlayan kırmızı ışık izleri vücudunun etrafında dönerek büyülü bir moda geçiş efekti yaratıyor. Kıyafeti, beyazdan sofistike kırmızı askısız bir elbiseye kusursuzca dönüşüyor. Onun yoğun bir Paris kavşağında kendinden emin adımlarla yürüdüğü dinamik sokak seviyesi çekimlerle devam edin. Bitişte, kırmızı elbisesi içinde dondurmasını yavaşça tutup yerken kameraya doğal bir şekilde baktığı güzel bir yakın çekimle sonlandırın. Fotogerçekçi detaylar, zarif moda filmi estetiği, doğal gün ışığı, yumuşak geçişler, gerçekçi cilt dokusu, sinematik lens, arka planda hafif hareket ve premium ticari görünüm.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100456398144647168/img/xAq552Wbm_a24aoe.jpg" width="600" alt="Paris Moda Dönüşüm Videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10954)**
-
-**Yazar:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Kaynak:** [Link](https://x.com/ayzalnooor24521/status/2100456445900710158) | **Yayınlandı:** Sep 17, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -6027,6 +6653,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-05T04:48:01.827Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-05T17:07:19.511Z</sub>
 
 </div>

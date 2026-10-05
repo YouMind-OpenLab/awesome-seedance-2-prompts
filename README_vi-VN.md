@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6495** |
+| 📝 Tổng số prompt | **6504** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-10-05** |
 
@@ -361,6 +361,849 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Cyberpunk Woman Neon Alley
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating an ultra-realistic cyberpunk scene of a young woman walking through a neon-lit alley, focusing on fashion details, lighting, and camera specs.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic cyberpunk scene of a fierce young woman walking confidently through a dark neon-lit city alley at night. She has long dark hair, an intense expression, and wears a futuristic white oversized jacket over a red cropped top, black tactical pants, gloves, and utility accessories. Wet streets reflecting red and warm city lights, atmospheric mist, glowing signs, dramatic shadows, shallow depth of field, cinematic bokeh, dynamic camera movement, realistic skin and fabric textures, high detail, moody action-film atmosphere, 85mm lens, f/1.4, HDR, 8K, photorealistic, vertical 9:16 composition.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106972520972947456/img/0SDQbYzRuv36V6Vl.jpg" width="600" alt="Cyberpunk Woman Neon Alley">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11918)**
+
+**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2106972552119963744) | **Đã xuất bản:** Oct 5, 2026
+
+---
+### Prompt Video Seedance cho Câu chuyện Hài hước về Đám cưới
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một prompt tạo video chi tiết cho Seedance, tạo ra một câu chuyện hài hước dài 15 giây về việc một cô gái yêu cầu bạn trai nhuộm tóc xanh lá nếu anh ấy tham dự đám cưới tương lai của cô với người khác. Prompt bao gồm hướng dẫn về tính nhất quán của nhân vật, chuyển cảnh, chuyển động máy quay và lời thoại cụ thể.
+
+#### 📝 Prompt
+
+```
+15 giây, tỷ lệ khung hình ngang 16:9, kết cấu chân thực như phim người đóng (live-action), bối cảnh đô thị hiện đại Trung Quốc. Nửa đầu là cuộc trò chuyện tự nhiên và thân mật giữa một cặp đôi; nửa sau cắt cứng sang một đám cưới phong cách phương Tây tại một khách sạn trong tương lai. Máy quay từ từ lùi lại, dần dần tiết lộ những nam khách mời với màu tóc khác nhau, tạo nên một cú twist hài hước và ngượng ngùng phi lý. Diễn xuất của nhân vật được kiểm soát tinh tế; môi trường, da, trang phục và ánh sáng đều chân thực và tự nhiên.
+[Nhân vật và Tính nhất quán]
+Nữ chính là một phụ nữ Trung Quốc trẻ tuổi @image (31). Cô dâu trong đám cưới tương lai phải là cùng một người phụ nữ này, duy trì các đặc điểm khuôn mặt và đường nét nhất quán, chỉ thay đổi kiểu tóc, trang điểm và trang phục.
+Nam chính là một thanh niên Trung Quốc trẻ tuổi, bắt đầu với mái tóc đen ngắn bình thường và trang phục hàng ngày thoải mái. Tại đám cưới tương lai, các đặc điểm khuôn mặt, hình dáng mặt,体型 (dáng người) và đường nét kiểu tóc vẫn giữ nguyên, nhưng anh mặc bộ vest vừa vặn và đã nhuộm tóc màu xanh lá rõ rệt, đáp ứng yêu cầu mà cô gái đưa ra ở đầu video. Anh không được phép thay đổi thành một khuôn mặt khác do sự thay đổi của cảnh hoặc màu tóc.
+Chú rể là một người đàn ông Trung Quốc trưởng thành khác, hơi mũm mĩm, tóc đen, ngoại hình rõ ràng khác biệt so với nam chính, mặc trang phục chú rể trang trọng.
+Có nhiều nam khách mời trưởng thành tại địa điểm tổ chức đám cưới, mỗi người có tóc màu đỏ, xanh dương, tím, vàng hoặc cam, bao gồm một người đàn ông khác cũng có tóc màu xanh lá. Ngoại hình, chiều cao, dáng người, kiểu tóc và vest của họ đều khác nhau. Tóc nhuộm giữ lại các sợi tóc thật, chân tóc và độ bóng, trông không giống tóc giả màu sắc hay phát sáng.
+[0-7s: Cuộc trò chuyện hàng ngày của cặp đôi]
+Công viên thành phố bình thường hoặc khu vực dưới tầng chung cư, buổi tối, ánh sáng tự nhiên dịu nhẹ, có chút âm thanh sinh hoạt nền trong trẻo.
+Cô gái và chàng trai ngồi cạnh nhau trên ghế băng. Sử dụng cận cảnh trung (medium close-up) hai người, nhận diện rõ ràng khuôn mặt của họ. Cô gái quay sang nhìn chàng trai, nắm tay anh, nói chuyện một cách âu yếm, nghiêm túc, với một chút nũng nịu, như thể tình cờ nhắc đến điều gì đó lãng mạn. Chàng trai nhìn cô sâu lắng.
+Cô gái nói hoàn toàn rõ ràng:
+"Anh ơi, nếu người cưới em trong tương lai không phải là anh, thì anh phải nhuộm tóc xanh lá để đi dự đám cưới của em, để em có thể nhận ra anh ngay lập tức."
+Được nói với nhịp điệu hàng ngày tự nhiên, hơi nhanh, mạch lạc, không cố tình kéo dài, không nuốt chữ, không tăng tốc cơ học. Trong khi cô gái nói, chàng trai nhìn cô lắng nghe, thể hiện một nụ cười mờ nhạt vừa cảm động vừa bối rối, không thêm lời hồi đáp.
+Duy trì diễn xuất liên tục, thiết lập rõ ràng khuôn mặt của nam chính. Cô gái không cười khẩy trước, không nháy mắt vào camera, không báo trước cú twist sau đó.
+[7-9s: Cắt cứng sang Đám cưới Tương lai, Đầu tiên thấy Cùng Khuôn mặt, Sau đó là Tóc Xanh]
+Ngay khi cô gái kết thúc từ cuối cùng "em", lập tức cắt cứng sang cảnh đám cưới tại khách sạn. Âm thanh môi trường đồng bộ chuyển từ âm thanh sinh hoạt ngoài trời sang tiếng vỗ tay và giọng nói mơ hồ trong phòng tiệc.
+Cắt sang cận cảnh phía trước khuôn mặt của cùng một nam chính. Mép trên của khung hình ban đầu bị cắt dưới đường viền chân tóc, tạm thời che giấu mái tóc, để khán giả nhận ra anh là chàng trai từ khoảnh khắc trước.
+Anh ngồi trong chỗ ngồi của khách mời đám cưới, mặc vest, với biểu cảm hơi gò bó, mang theo sự kỳ vọng phức tạp, ánh mắt hướng về lối đi vào.
+Máy quay sau đó di chuyển chậm rãi và ổn định về phía sau, dần dần tiết lộ toàn bộ đầu của anh—anh đã nhuộm tóc xanh lá.
+Màu xanh lá được khán giả nhìn thấy lần đầu tiên tại khoảnh khắc này. Anh đã có tóc xanh ngay từ khi bắt đầu bước vào cảnh đám cưới, không có hiệu ứng đổi màu tại chỗ nào xuất hiện.
+[9-12s: Chú Rể và Cô Dâu Xuất Hiện, Các Màu Tóc Khác Dần Xuất Hiện]
+Máy quay tiếp tục di chuyển về phía sau, mở rộng từ cận cảnh sang trung cảnh, thực hiện các điều chỉnh ngang nhẹ để giữ nam chính tóc xanh ở một bên khung hình, dần dần tiết lộ lối đi trung tâm của đám cưới.
+Cảnh là một phòng tiệc khách sạn thực được bố trí cho một đám cưới phong cách phương Tây, với các sắp xếp hoa màu sáng, ghế trắng hoặc be, đèn trần ấm áp và lối đi vào trải thảm. Ánh sáng có nguồn rõ ràng, váy cưới giữ lại các chi tiết vải, không có hiệu ứng xứ sở thần tiên mơ mộng.
+Trên lối đi nền, cô gái từ phần mở đầu mặc váy cưới, khoác tay chú rể hơi mũm mĩm, bước vào chậm rãi. Ngoại hình và dáng người của chú rể rõ ràng khác với nam chính tóc xanh.
+Nam chính ban đầu nhìn cô dâu, cố gắng giữ một nụ cười mờ nhạt. Khi máy quay lùi lại, một nam khách mời tóc đỏ và một nam khách mời tóc xanh dương lần lượt xuất hiện trong khung hình gần anh.
+Anh vô tình liếc nhìn người đàn ông tóc đỏ bên cạnh, nụ cười của anh dừng lại một chút, sau đó nhìn sang người đàn ông tóc xanh lá ở phía bên kia, lông mày khẽ động, bắt đầu cảm thấy có điều gì đó không ổn.
+[12-15s: Tiết Lộ Thêm Nhiều Người Đàn Ông Tóc Màu, Nam Chính Ngạc Nhiên Nhìn Quanh]
+Máy quay tiếp tục di chuyển về phía sau theo cùng quỹ đạo, mở rộng sang góc nhìn rộng hơn chứa nam chính, các hàng khách mời xung quanh và lối đi đám cưới. Phần đám cưới vẫn liên tục, không còn cắt nữa.
+Thêm nhiều nam khách mời với các màu tóc khác nhau dần xuất hiện trong khung hình: tím, vàng, cam và một người đàn ông tóc đỏ khác khác biệt với nam chính về ngoại hình, dáng người và kiểu tóc.
+Bao gồm cả nam chính, khoảng sáu đến tám người đàn ông có tóc màu rải rác ngồi ở các hàng liền kề, xen kẽ với các khách mời tóc đen bình thường. Không phải tất cả khách mời đều nhuộm tóc, và họ cũng không tạo thành một hàng cầu vồng gọn gàng.
+Họ đều khác nhau: một số gầy, một số chắc khỏe, một số hơi mũm mĩm; một số cắt cua, một số rẽ ngôi ngắn, một số hơi xoăn. Vest màu đen, xanh đậm, xám, nâu, với sự khác biệt rõ ràng về độ vừa vặn, cà vạt và phối sơ mi, trông giống như những khách mời đám cưới thực sự được mời độc lập.
+Những người này đã ngồi ở vị trí ban đầu của họ kể từ khi bắt đầu cảnh quay đám cưới, chỉ bị che khuất bởi bố cục chặt chẽ ban đầu, trở nên khả kiến khi máy quay di chuyển về phía sau, không thể xuất hiện từ hư không hoặc đột ngột nhuộm tóc.
+Nam chính nhìn sang trái trước, rồi sang phải, cuối cùng quay nhẹ để nhìn chéo ra phía sau, phát hiện một người đàn ông tóc xanh lá khác. Biểu cảm của anh thay đổi từ bối rối sang ngạc nhiên và lúng túng, môi hơi hé mở, như thể cuối cùng nhận ra rằng anh có thể không phải là người duy nhất nhận được lời hứa như vậy.
+Các người đàn ông tóc màu khác chủ yếu tiếp tục xem đám cưới, một số có thể giao tiếp bằng mắt ngắn gọn với anh, không đồng loạt quay đầu hoặc phản ứng cùng lúc.
+Phần kết thúc đồng thời bảo lưu cái nhìn ngạc nhiên quanh quất của nam chính, những người đàn ông xung quanh với các màu tóc khác nhau, và cô dâu chú rể tiếp tục bước vào ở hậu cảnh. Màn hình kết thúc tự nhiên, không có lời thoại thừa để giải thích punchline.
+[Quay phim, Diễn xuất và Bầu không khí Chân thực]
+Mở đầu sử dụng ánh sáng ban ngày tự nhiên, đám cưới sử dụng ánh sáng nội thất khách sạn ấm áp. Tông màu da bình thường, giữ lại kết cấu da, vest có nếp nhăn thực tế, váy cưới có trọng lượng, tóc nhuộm có các lớp sáng tối tự nhiên.
+Nửa đầu cảm giác như một cặp đôi thực sự đang trò chuyện ngẫu hứng, nửa sau cảm giác như một khám phá ngượng ngùng xảy ra tại một cảnh đám cưới thực tế. Nam chính biểu đạt cảm xúc qua giao tiếp bằng mắt, vi biểu cảm và nhìn sang trái phải, không có hành động trợn mắt to cartoonish, há miệng hoặc che mặt.
+Việc lùi máy quay trong đám cưới sử dụng chuyển động lùi thực tế của máy quay, tốc độ ổn định, sắp xếp vị trí khách mời trước để các màu tóc khác nhau xuất hiện trong khung hình theo thứ tự. Sau khi lùi lại, dần tăng độ sâu trường ảnh, đảm bảo mối quan hệ giữa nam chính, các khách mời tóc màu và cặp đôi mới cưới ở hậu cảnh có thể phân biệt được, không bao giờ làm mờ các nhân vật xung quanh thành các khối màu.
+Không có chất lượng DV retro, rung tay quá mức, ống kính fisheye, zoom đột ngột, quỹ đạo tốc độ cao, slow motion, da nhựa hoặc bộ lọc nặng nề.
+[Âm thanh]
+Mở đầu giữ lại lời thoại của cô gái và âm thanh sinh hoạt ngoài trời nhẹ nhàng. Sau khi cắt cứng, nhập vào tiếng vỗ tay tự nhiên, tiếng sột soạt của vải, tiếng kêu cót két của ghế và các cuộc trò chuyện mơ hồ trong phòng tiệc khách sạn.
+Lời thoại khớp chính xác với cử động môi của cô gái, nam chính không nói thay cô hoặc ngắt lời. Không thêm lời thoại rõ ràng trong phần đám cưới.
+Không có lời dẫn truyện, không có nhạc nền.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106953873076486145/img/IOpYXcKBoJQlAILi.jpg" width="600" alt="Prompt Video Seedance cho Câu chuyện Hài hước về Đám cưới">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11920)**
+
+**Tác giả:** [探路AI](https://x.com/TanLuAI) | **Nguồn:** [Link](https://x.com/TanLuAI/status/2106955448352231762) | **Đã xuất bản:** Oct 5, 2026
+
+---
+### Cảnh Hành Động Điện Ảnh Hào Hùng Của Chiến Binh Hổ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video chi tiết để xây dựng một phân cảnh hành động điện ảnh đầy năng lượng, với chiến binh hổ nhân hóa chiến đấu trong thành phố đổ nát cùng hiệu ứng đặc sắc.
+
+#### 📝 Prompt
+
+```
+Tạo một cảnh hành động điện ảnh dài 14.6 giây, nổi bật với chiến binh hổ cam nhân hóa mạnh mẽ trong thành phố bị phá hủy, bao quanh bởi khói lửa và các tòa nhà đang sụp đổ. Ở cú quay mở đầu, con hổ hung hãn đối mặt với đối thủ, rồi bất ngờ nhảy lên cao với động tác võ thuật uyển chuyển khi camera theo dõi pha nhảy một cách kịch tính. Cắt sang cận cảnh khuôn mặt chân thực của con hổ, tập trung vào đôi mắt sắc sảo, bộ lông cam chi tiết, ria mép và biểu cảm dữ tợn. Tiếp tục thể hiện trận chiến giữa con hổ và đối thủ giống người với những cú đấm và đá nhanh, duy trì ngoại hình và giải phẫu nhất quán cho nhân vật. Một vụ va chạm năng lượng xanh mạnh mẽ xuất hiện trong lúc tấn công, tiếp theo là vụ nổ lửa khổng lồ trong thành phố hoang tàn. Hiển thị ngọn lửa, mảnh vỡ bay tứ tung, khói dày đặc, tia lửa và sự phá hủy chân thực lan rộng khắp môi trường. Con hổ hạ cánh tự tin ở tiền cảnh trong khi những tàn tích cháy rực phía sau, tạo nên bóng dáng anh hùng đầy kịch tính. Sử dụng chuyển động camera mượt mà mang phong cách điện ảnh, vật lý chân thực, ánh sáng kịch tính, kết cấu chi tiết, biên đạo hành động mạnh mẽ và hoạt hình 3D chất lượng cao xuyên suốt, không có văn bản, watermark hay biến dạng nhân vật.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106938524784328704/img/pXh4xaDoupeUx4Bw.jpg" width="600" alt="Cảnh Hành Động Điện Ảnh Hào Hùng Của Chiến Binh Hổ">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11914)**
+
+**Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2106938584431526162) | **Đã xuất bản:** Oct 5, 2026
+
+---
+### Video Phong Cách Trailer Điện Ảnh Hùng Tráng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video phong cách trailer điện ảnh hùng tráng bằng hình ảnh tham chiếu, nhấn mạnh kết xuất siêu chi tiết, thẩm mỹ Unreal Engine 5 và các ràng buộc tiêu cực cụ thể để kiểm soát chất lượng.
+
+#### 📝 Prompt
+
+```
+Sử dụng hình ảnh tham chiếu 1 để tạo một video điện ảnh hùng tráng.
+：Thẩm mỹ trailer điện ảnh hùng tráng, phong cách quay người thật, IMAX, 16K, kết xuất siêu chi tiết, hiệu ứng hạt động toàn khung hình, Unreal Engine 5, ray tracing, chi tiết bùng nổ. Yêu cầu về phong cách: Vẻ đẹp thẩm mỹ, vẻ đẹp bệnh hoạn, khí thế hùng vĩ, vẻ đẹp suy tàn, vẻ đẹp vỡ vụn, sự bi tráng, kèm theo nỗi buồn. [Ràng buộc & Tiêu cực] Xám lạnh bão hòa thấp + điểm nhấn màu hổ phách, chuyển động lưu chất dựa trên vật lý. Tiêu cực: Chất lượng thấp, giật lag, khuôn mặt/cơ thể biến dạng, quá sáng, máu me quá mức, chuyển động cứng nhắc, watermark, tư thế T-pose, bảng màu rực rỡ, VFX lòe loẹt, máy quay cứng nhắc, thiếu tốc độ/blur, đòn tấn công yếu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106923772372738048/img/p-_o3Q13K4Hbb2lw.jpg" width="600" alt="Video Phong Cách Trailer Điện Ảnh Hùng Tráng">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11915)**
+
+**Tác giả:** [Zidan 子丹](https://x.com/liluocheng13) | **Nguồn:** [Link](https://x.com/liluocheng13/status/2106923884931166241) | **Đã xuất bản:** Oct 5, 2026
+
+---
+### Trượt Ván Tốc Độ Cao Trong Đô Thị
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt 'lười' đơn giản để tạo video trượt ván tốc độ cao qua phố đông đúc với hiệu ứng mờ chuyển động chân thực và cảm giác quay cầm tay.
+
+#### 📝 Prompt
+
+```
+Một cô gái trượt ván tốc độ cao xuyên qua con phố đô thị đông đúc, lách qua đám người, nhảy qua các chướng ngại vật nhỏ, vượt qua ô tô và xe đạp, cắt cảnh nhanh, hiệu ứng mờ chuyển động, cảm giác quay cầm tay, năng lượng tràn đầy, môi trường chân thực, chi tiết cao.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106921938576883712/img/9S6CRhiy0KGRQiZh.jpg" width="600" alt="Trượt Ván Tốc Độ Cao Trong Đô Thị">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11917)**
+
+**Tác giả:** [Zidan 子丹](https://x.com/liluocheng13) | **Nguồn:** [Link](https://x.com/liluocheng13/status/2106922065240731732) | **Đã xuất bản:** Oct 5, 2026
+
+---
+### Phòng Thủ Tiểu Hành Tinh Của Thành Phố Vũ Trụ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả chi tiết cho một đoạn phim ngắn khoa học viễn tưởng điện ảnh dài 15 giây, kể về một thành phố không gian di chuyển điều khiển các tiểu hành tinh tạo thành lá chắn phòng thủ chống lại hạm đội địch.
+
+#### 📝 Prompt
+
+```
+Đoạn phim ngắn hành động khoa học viễn tưởng điện ảnh chân thực như ảnh chụp, dài 15 giây, tỷ lệ khung hình 16:9.
+Một thành phố tương lai khổng lồ di chuyển qua vùng không gian sâu thẳm bên trong một cơn bão tiểu hành tinh bao la.
+Hàng nghìn tàu vũ trụ bay song song với nó, chủ động điều khiển các tiểu hành tinh tạo thành một lá chắn phòng thủ liên tục di chuyển.
+Bất ngờ, một hạm đội địch tấn công.
+Hàng trăm máy bay chiến đấu lao vào trường tiểu hành tinh.
+Thành phố tăng tốc.
+Các tiểu hành tinh va chạm dữ dội vào những con tàu đang tấn công.
+Những tàu vũ trụ phòng thủ luồn lách giữa các tảng đá khổng lồ, đẩy chúng vào những quỹ đạo mới.
+Một tàu chiến địch đồ sộ xuyên thủng lá chắn tiểu hành tinh và bắn trực tiếp vào thành phố.
+Toàn bộ thành phố đột ngột đổi hướng.
+Trường tiểu hành tinh di chuyển theo nó.
+Hàng triệu tảng đá xoay vòng tạo thành đội hình bao quanh thành phố như một sinh vật cơ khí khổng lồ.
+Tàu chiến tấn công nhận ra quá muộn rằng chính trường tiểu hành tinh là vũ khí của thành phố.
+Một vụ va chạm kinh hoàng chiếm trọn màn hình.
+Kết thúc bằng cảnh thành phố biến mất vào cơn bão đang di chuyển.
+
+Khoa học viễn tưởng nặng tính kỹ thuật (hard sci-fi) chân thực như ảnh chụp, môi trường tiểu hành tinh ngoạn mục, chiến đấu không ngừng nghỉ, cấu trúc di chuyển quy mô lớn, chuyển động camera nhanh, tàu vũ trụ chi tiết, quy mô hùng vĩ, hành động mang phong cách điện ảnh, không có chữ, không có logo, không phải anime, không phải hoạt hình.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106842175623344128/img/8HYLYow99mg-lBVf.jpg" width="600" alt="Phòng Thủ Tiểu Hành Tinh Của Thành Phố Vũ Trụ">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11919)**
+
+**Tác giả:** [Alexandra Aisling](https://x.com/AllaAisling) | **Nguồn:** [Link](https://x.com/AllaAisling/status/2106852107114418554) | **Đã xuất bản:** Oct 4, 2026
+
+---
+### Seedance 2.0 Mini Prompt Trận Chiến Hộ Tống Điện Ảnh
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt chi tiết để tạo video điện ảnh dài 15 giây bằng Seedance 2.0 Mini, mô tả một trận chiến hộ tống di động trong bối cảnh Tiên hiệp Trung Quốc cổ đại, với việc neo giữ nhân vật và địa điểm chặt chẽ dựa trên hình ảnh tham khảo.
+
+#### 📝 Prompt
+
+```
+Kết cấu điện ảnh chân thực như ảnh chụp, phim hành động Tiên hiệp Trung Quốc cổ đại thuần túy, 15 giây, tỷ lệ 16:9, Seedance 2.0 Mini.
+Vòng này không phải là một cuộc đấu tay đôi đứng yên, cũng không lặp lại mô típ cũ "đổi vũ khí mới → nhân vật chính quan sát → phản đòn → kiếm dừng ở cổ họng".
+Động tác cốt lõi là:
+Một trận chiến hộ tống di động diễn ra trên con đường hoàng gia cao nguyên thực tế được hiển thị trong hình ảnh tham khảo hiện tại.
+Cùng một Sư Tỷ và Muội Muội phải liên tục tiến về phía trước trong khi bảo vệ Sư Phụ bị thương, các đệ tử và thường dân đang sơ tán phía sau họ.
+Mục tiêu thực sự của kẻ thù không nhất thiết là đánh bại hai nhân vật chính.
+Điều họ muốn làm là:
+Phá vỡ phòng tuyến do hai nhân vật chính tạo ra;
+Chui vào đám đông đang sơ tán;
+Phong tỏa con đường tiếp tục tiến lên.
+Do đó, trọng tâm của toàn bộ trận chiến này là:
+**Phá vỡ phong tỏa phía trước
+Chặn truy đuổi phía sau
+Hai nhân vật chính liên tục đổi vị trí trước và sau
+Luôn luôn mở lại con đường.**
+Các động tác theo đuổi sự mượt mà nhưng tuyệt đối không được yếu ớt.
+Sự mượt mà có nghĩa là:
+Hành động trước tự nhiên dẫn đến hành động tiếp theo;
+Nhân vật luôn di chuyển;
+Tấn công và phòng thủ không bao giờ reset về không;
+Hướng vũ khí và hướng nhân vật luôn dễ hiểu;
+Sau các cú chém, vẫn biết ai ở trước, ai ở sau, và ai tấn công từ đâu.
+Sức mạnh đến từ:
+Khởi phát đột ngột;
+Tăng tốc rõ rệt;
+Va chạm thực tế;
+Thay đổi trọng tâm;
+Lệch lực;
+Mất cân bằng;
+Quán tính;
+Giật ngược;
+Dừng cứng;
+Khởi động lại ngay lập tức.
+Cấm kiếm thuật mềm mại, giống múa.
+Cấm reset tư thế sau khi đánh một đòn.
+Kẻ thù phải có phán đoán thực tế.
+Sau khi chiến lược đầu tiên thất bại, chúng phải thay đổi mục tiêu, lộ trình tấn công, truy đuổi, phong tỏa đường, đánh flank, hoặc chủ động tách rời hai nhân vật chính.
+Cấm kẻ thù xếp hàng chờ đợi để tấn công.
+[Khóa Nhân Vật Cốt Lõi]
+Chỉ khóa chặt @Image 1 và @Image 2 làm hai nhân vật chính cùng với vũ khí chính tương ứng của họ.
+@Image 1 luôn là cùng một Kiếm Tiên Sư Tỷ như trước:
+Cùng danh tính nữ giới Đông Á trưởng thành;
+25–30 tuổi;
+Cùng khuôn mặt;
+Tóc đen dài buộc nửa;
+Trâm ngọc trắng;
+Tỷ lệ cao và mảnh khảnh;
+Hán phục lụa trắng thêu;
+Tay áo rộng nhiều lớp bán trong suốt;
+Dây lưng bạc;
+Ngọc bội;
+Boots vải trắng;
+Thanh kiếm thẳng bạc duy nhất trong toàn bộ phim.
+@Image 2 luôn là cùng một Muội Muội như trước:
+Cùng danh tính nữ giới Đông Á trưởng thành;
+20–25 tuổi;
+Cùng khuôn mặt;
+Tóc đen búi tết;
+Tỷ lệ nhỏ nhắn;
+Hán phục lanh xanh lục;
+Dây lưng tối màu;
+Trâm gỗ;
+Giày vải đen;
+Thanh kiếm thép tối màu duy nhất trong toàn bộ phim.
+Kẻ thù, Sư Phụ, đệ tử, thường dân và người qua đường đều chỉ là nhân vật phụ chức năng.
+Không lãng phí sự chú ý của quá trình sinh ảnh để khóa chặt khuôn mặt, kiểu tóc và trang phục phức tạp của nhân vật phụ.
+Chỉ cần đảm bảo loại nhân vật, vị trí, vũ khí và chức năng hành động vẫn logic liên tục trong khung hình.
+[Neo Cảnh Cố Định Cho Vòng Này | Ưu Tiên Cao Nhất]
+Hình nền tham khảo đã tải lên cho vòng này đã hiển thị một địa điểm hoàn chỉnh, dễ nhận biết cao.
+Do đó, vòng này đi trực tiếp vào:
+NEO ĐỊA ĐIỂM CỨNG (HARD LOCATION ANCHOR).
+Hình tham khảo không phải là cảm hứng phong cách.
+Toàn bộ video phải thực sự diễn ra trên cùng một con đường hoàng gia cung điện thiên giới cao nguyên được hiển thị trong hình tham khảo.
+Cấm thiết kế lại thành một "địa điểm Tiên hiệp tương tự".
+Phải liên tục duy trì các đặc điểm địa điểm sau:
+Trục trung tâm của khung hình luôn chứa cùng một con đường hoàng gia cao nguyên cực dài, thẳng, màu trắng nhạt, kéo dài từ tiền cảnh về phía trung tâm xa.
+Con đường hoàng gia luôn duy trì độ sâu hẹp rõ rệt; nhân vật chủ yếu di chuyển theo hướng trước-sau; cấm mở rộng nó thành một đấu trường tròn, sân lớn hoặc quảng trường rộng.
+Hai bên trái và phải của con đường hoàng gia luôn duy trì cùng một vực thẳm cao nguyên khổng lồ, biển mây màu sữa và thác nước lớn liên tục.
+Trung cảnh trái và phải tiếp tục chứa cùng một nhóm cung điện truyền thống khổng lồ, duy trì vị trí trái-phải, khối lượng và mối quan hệ không gian ban đầu với con đường hoàng gia.
+Tiền cảnh trái tiếp tục giữ lại cùng một cấu trúc gỗ nhô ra tối màu cực kỳ nổi bật; cấu trúc gỗ dày đặc không được biến mất hoặc thu nhỏ thành các tòa nhà nhỏ bình thường.
+Dưới con đường hoàng gia và dưới sương mù, tiếp tục duy trì quy mô thành phố cổ dày đặc.
+Trung tâm xa nhất tiếp tục chứa cùng một thân núi khổng lồ / siêu cấu trúc.
+Trung tâm xa tiếp tục giữ lại cùng một cổng hình nhẫn / tòa nhà hình nhẫn khổng lồ.
+Nhân vật luôn nhỏ hơn nhiều so với con đường hoàng gia, cung điện, thác nước, thành phố bên dưới và siêu cấu trúc xa.
+Duy trì ánh sáng ban ngày/sáng sớm màu xám trắng lạnh sáng, vàng ấm nhạt, độ bão hòa thấp, sương mù không khí màu sữa và độ sâu khổng lồ giống như hình tham khảo gốc.
+Chiếc nhẫn xa khổng lồ phải luôn rất xa.
+Cấm đột ngột kéo nó gần hơn để trở thành một cổng núi bình thường.
+Cấm tái tạo con đường hoàng gia hiện tại thành:
+Đấu trường tròn;
+Sân bình thường;
+Quảng trường rộng;
+Cầu mây khác;
+Nền tảng bay mới;
+Cổng núi mới;
+Đảo bay mới;
+Vách đá mới;
+Cổng cung điện mới;
+Cầu thang lớn mới.
+Cấm đột ngột mở rộng con đường hoàng gia cho tiện lợi chiến đấu.
+Cấm ngày chuyển thành đêm.
+Cấm thay thế thời tiết dịu hiện tại bằng mây bão tối.
+Tất cả hành động và máy quay phải thích nghi với con đường hoàng gia thực tế hiện tại.
+Cấm thiết kế lại cảnh vì sake của hành động.
+[Động Lực Nền | Phải sống động, nhưng mặc định không tham gia cốt truyện]
+Cảnh liên tục di chuyển tự nhiên.
+Mây xa di chuyển chậm.
+Thác nước khổng lồ rơi xuống thực tế liên tục.
+Sương nước ở đáy thác liên tục xoáy và hòa nhập với biển mây hiện có.
+Các lớp mây và sương ở khoảng cách khác nhau duy trì tốc độ hơi khác nhau, tạo ra hiệu ứng parallax thực tế.
+Gió tự nhiên cao nguyên liên tục ảnh hưởng đến tóc đen, tay áo rộng, vạt áo, tua rua và phụ kiện của hai nhân vật chính.
+Sương mỏng giữa thành phố cổ xa và cung điện liên tục di chuyển chậm.
+Phối cảnh khí quyển liên tục tạo ra những thay đổi tinh tế.
+Một vài bóng người xa có thể di chuyển tự nhiên trong các khu vực đã tồn tại trong hình tham khảo.
+Tuy nhiên:
+Môi trường mặc định trung lập về mặt kể chuyện.
+Thác nước không thể đột ngột giúp đỡ bất kỳ ai.
+Sương mù không thể chủ động che khuất kẻ thù.
+Gió không thể thay đổi quỹ đạo kiếm.
+Tòa nhà không thể tự sụp đổ.
+Con đường hoàng gia không thể gãy.
+Chiếc nhẫn xa không thể đột ngột kích hoạt phép thuật.
+Môi trường không thể chủ động giải quyết chiến đấu.
+Chỉ khi nhân vật thực sự bước, dừng cứng hoặc va chạm vũ khí, mới cho phép bụi đá nhẹ, vết xước, tia lửa kim loại, dịch chuyển vải và mảnh vụn ma sát đế giày.
+Những dấu vết rõ ràng đã xuất hiện nên tồn tại hợp lý.
+[0–5s | Hook: Không Thể Rút Lui]
+0.0–1.0s.
+Sử dụng góc siêu rộng 24mm toàn cảnh trục trung tâm.
+Đầu tiên tái hiện địa điểm; ưu tiên địa điểm cao hơn hành động phức tạp.
+Ánh nhìn đầu tiên phải xác nhận:
+Cùng con đường hoàng gia trắng dài;
+Cùng thác nước khổng lồ trái và phải;
+Cùng cung điện lớn trái và phải;
+Cùng cấu trúc gỗ lớn bên trái;
+Cùng thành phố cổ bên dưới;
+Cùng chiếc nhẫn xa khổng lồ.
+Hai nhân vật chính duy trì tỷ lệ nhỏ trong môi trường khổng lồ.
+Sư Tỷ ở phía trước.
+Muội Muội ở phía sau nửa bước.
+Xa hơn về phía sau, một Sư Phụ già bị thương, vài đệ tử và một số thường dân đang tiếp tục tiến dọc theo cùng con đường hoàng gia.
+Hai kiếm sĩ địch chặn đường phía trước.
+Kẻ thù dẫn đầu chặn khu vực passage hiệu quả bằng kiếm ngang:
+"Bảo vệ họ, ngươi không thể qua."
+Sư Tỷ không dừng lại chút nào:
+"Ai nói chúng ta rút lui?"
+Ngay khi từ cuối cùng rơi xuống.
+Kẻ thù tấn công không báo trước.
+Máy quay ngay lập tức chuyển từ toàn cảnh cố định sang shot tracking khoảng 32–35mm lùi dọc theo trục con đường hoàng gia.
+Kẻ thù đầu tiên nhanh chóng chiếm lấy trục trung tâm của Sư Tỷ.
+Sư Tỷ không bao giờ lùi về phía sau.
+Cho đến khoảnh khắc cuối cùng, cô chỉ lệch chéo nửa chiều rộng cơ thể, sử dụng thanh kiếm thẳng bạc để hoàn thành một va chạm ngắn, cứng, thực tế, đẩy kiếm địch ra khỏi trục trung tâm của con đường hoàng gia.
+Không có đòn follow-up.
+Không tạo dáng.
+Cô ngay lập tức tiếp tục tiến về phía trước qua vai kẻ thù.
+Gần như đồng thời.
+Kẻ thù thứ hai chém về phía Muội Muội từ hướng ngược lại, cố gắng vượt qua cô để tấn công đám đông phía sau.
+Muội Muội không đuổi theo kẻ thù một cách điên cuồng.
+Cô trực tiếp lao vào vị trí giữa kẻ thù và đám đông sơ tán, chỉ thay đổi ngắn dòng tấn công của đối thủ bằng thanh kiếm thép tối màu, rồi tiếp tục tiến về phía trước.
+Một kẻ thù đi nhanh gần máy quay, cơ thể ngay lập tức lấp đầy màn hình, tạo ra hidden cut tự nhiên đầu tiên.
+Đến cuối 0–5 giây, khán giả phải hiểu rõ:
+Họ không ở lại để thắng.
+Họ đang giành lại con đường.
+[5–10s | Nâng Cấp: Kẻ Thù Bắt Đầu Tấn Công Mục Tiêu Thực Sự]
+Duy trì hoàn toàn giống con đường hoàng gia, cung điện trái/phải, thác nước, chiếc nhẫn xa và quy mô thế giới.
+Sử dụng shot tracking medium khoảng 35mm di chuyển dọc theo trục cầu.
+Sau khi cuộc tấn công đầu tiên thất bại, kẻ thù phải chủ động thay đổi chiến lược.
+Thủ lĩnh kẻ thù không còn khăng khăng thắng tay đôi với Sư Tỷ.
+Anh ta đột ngột thay đổi mục tiêu, chủ động cố gắng vượt qua Sư Tỷ, chui vào giữa Muội Muội và đám đông sơ tán.
+Một kẻ thù khác đồng thời ép Sư Tỷ từ hướng ngược lại, cố gắng thực sự tách rời hai nhân vật chính.
+Hành động tạo thành một chuỗi nhân quả liên tục:
+Cú chém ngang của kẻ thù buộc Sư Tỷ tạm thời lệch khỏi trục trung tâm con đường hoàng gia;
+Sư Tỷ chỉ thực hiện một lần giải phóng lực ngắn, không tiếp tục纠缠 (entanglement);
+Quán tính xung lực đã đầu tư bởi kẻ thù khiến cơ thể chúng hơi vượt quá vị trí tấn công tối ưu;
+Muội Muội tiếp tục tiến về phía trước.
+Kẻ thù dẫn đầu đột ngột chém chéo từ phía trước bên phải của Muội Muội.
+Muội Muội đỡ cú đánh đầu tiên.
+Kẻ thù không dừng lại, ngay lập tức chuyển sang cú đánh thấp thứ hai.
+Muội Muội bị buộc phải co lại nửa bước về phía trục trung tâm con đường hoàng gia.
+Ngay tại khoảnh khắc kẻ thù phán đoán cô đã bị phong tỏa ——
+Sư Tỷ đột ngột lao nhanh từ phía sau Muội Muội sang bên kia.
+Hai người hoàn thành lần trao đổi vị trí trước-sau cực nhanh đầu tiên.
+Không phải xoay đôi.
+Không phải tạo dáng đồng bộ.
+Mà là trao đổi vị trí chéo vai gọn gàng trong khi duy trì chuyển động tiến về phía trước.
+Sư Tỷ trực tiếp tiếp quản kẻ thù vốn đang ép Muội Muội.
+Muội Muội tiếp tục tiến về phía trước dọc theo nửa con đường được mở ra, trở thành vị trí phía trước mới.
+Máy quay chỉ thực hiện một lateral move ngắn do trao đổi vị trí thực tế của hai người.
+Kiếm của kẻ thù lướt qua ống kính, tạo ra transition occlusion tự nhiên.
+Cấm orbiting vô lý.
+Tại khoảnh khắc này.
+Tiếng bước chân truy đuổi tốc độ cao vang lên từ phía sau.
+Một kẻ truy đuổi chức năng vốn rơi lại xa hơn đã đến.
+Có người chặn đường phía trước.
+Có người truy đuổi từ phía sau.
+Hai người phụ nữ thực sự bị mắc kẹt lần đầu tiên trong tình huống nguy hiểm nhất của con đường hoàng gia hẹp:
+Tấn công gọng kìm trước và sau.
+[10–15s | Lật Ngược: Đừng Bảo Vệ Người, Hãy Bảo Vệ Đường]
+Mở rộng lại thành shot moving medium khoảng 28–32mm.
+Sử dụng gần 1 giây để giải thích đầy đủ không gian hiện tại:
+Muội Muội ở phía trước;
+Sư Tỷ ở phía sau khoảng một chiều dài cơ thể;
+Thủ lĩnh kẻ thù phía trước chiếm lại trục trung tâm;
+Kẻ truy đuổi phía sau đang đến gần nhanh;
+Đám đông sơ tán gồm Sư Phụ, đệ tử và thường dân vẫn di chuyển ở vị trí an toàn hơn xa hơn.
+Mọi người vẫn ở trên cùng một con đường hoàng gia thực tế từ hình tham khảo.
+Cấm đột ngột cắt sang các nền tảng khác.
+Kẻ thù phía trước và kẻ truy đuổi phía sau tấn công gần như đồng thời.
+Muội Muội theo bản năng muốn quay lại.
+Sư Tỷ chỉ nói:
+"Đừng bảo vệ tôi."
+Muội Muội dừng quay lại.
+Sư Tỷ ngay lập tức tiếp theo:
+"Hãy bảo vệ con đường."
+Hai người bùng nổ gần như đồng thời.
+Muội Muội không quay lại cứu Sư Tỷ.
+Cô tiếp tục tiến về phía trước, sử dụng va chạm kiếm thép tối màu ngắn và cứng để cưỡng chế đẩy lưỡi kiếm của kẻ thù phía trước ra khỏi trục trung tâm của con đường hoàng gia.
+Sư Tỷ đồng thời xử lý kẻ truy đuổi phía sau.
+Cô cố ý nhường nửa bước, để kẻ thù thực sự vào tầm tấn công.
+Ngay tại khoảnh khắc sức mạnh cơ thể của đối thủ đã được đầu tư, cô đột ngột chém chéo ra khỏi trục tấn công.
+Quán tính tiến về phía trước của kẻ truy đuổi khiến cơ thể chúng vượt quá nửa chiều dài cơ thể.
+Sư Tỷ không đuổi theo.
+Ngay lập tức tăng tốc tiến về phía trước lại.
+Tại khoảnh khắc này, Muội Muội đã đẩy kẻ thù phía trước nửa chiều dài cơ thể ra khỏi trục trung tâm.
+Hai nhân vật chính tiếp cận với tốc độ cao.
+Đường vai lướt qua ở khoảng cách cực gần.
+Hoàn thành lần trao đổi vị trí trước-sau thứ hai.
+Lần này, họ không nhìn nhau chút nào.
+Muội Muội tự nhiên rơi vào vị trí phía sau, tiếp quản kẻ thù đã quay lại để truy đuổi.
+Sư Tỷ trở lại vị trí phía trước, đối mặt với kẻ thù dẫn đầu vẫn đang chặn đường.
+Kiếm của kẻ thù quét qua tiền cảnh máy quay, ngay lập tức lấp đầy màn hình, tạo ra hard cut occlusion vũ khí rõ ràng nhất của toàn bộ phim.
+Cắt sang vị trí máy quay reverse thấp hơn một chút.
+Sư Tỷ chỉ thực hiện một cú deflection cực ngắn, cực dữ dội ra ngoài bằng kiếm bạc.
+Quỹ đạo kiếm của thủ lĩnh bị đẩy hoàn toàn ra khỏi trục trung tâm của con đường hoàng gia.
+Vì trọng lượng cơ thể anh ta đã được đầu tư về phía trước, quán tính của chính anh ta mang cơ thể anh ta sang ngang khoảng hai chiều dài cơ thể.
+Kẻ thù không thể rơi khỏi cầu.
+Không thể bị thổi bay phóng đại.
+Không cần mất hoàn toàn khả năng chiến đấu.
+Chỉ cần mở đường là đủ.
+Sư Tỷ và Muội Muội tuyệt đối không dừng lại để tung đòn kết liễu.
+Hai người đi trực tiếp giữa các kẻ thù, tiếp tục dọc theo cùng con đường hoàng gia trắng về phía chiếc nhẫn xa khổng lồ.
+Đám đông sơ tán phía sau cũng bắt đầu tiến dọc theo tuyến đường được mở lại.
+Thủ lĩnh kẻ thù quay lại và hét giận dữ:
+"Các ngươi không thể thắng!"
+Không cắt sang close-up frontal anh hùng.
+Máy quay tiếp tục theo dõi hai người phụ nữ tiến từ side-rear.
+Muội Muội vẫn đang điều chỉnh nhịp thở:
+"Chúng ta chưa bao giờ ở đây để thắng."
+Sư Tỷ luôn nhìn về con đường phía trước:
+"Chỉ cần con đường còn đó, là đủ."
+Để lại chỉ một beat cực ngắn.
+Sâu hơn trên cùng con đường hoàng gia xa, một vài kẻ thù chức năng vốn tồn tại trong lớp bóng người xa bắt đầu chậm rãi lan ra, vào vị trí chặn đường của vòng tiếp theo.
+Cấm tạo ra chúng từ hư không trong sương mù.
+Cấm refresh chúng đột ngột từ các tòa nhà.
+Chúng đã tồn tại ở khoảng cách thực ngay từ đầu, chỉ bộc lộ thù địch thông qua chuyển động tại khoảnh khắc này.
+Hai nhân vật chính không hề chậm lại.
+Kiếm bạc và kiếm thép tối màu duy trì readiness thấp tự nhiên.
+Máy quay tiếp tục lùi dọc theo trục con đường hoàng gia.
+Tóc đen, vạt áo, thác nước, sương mù, mây, cung điện xa và thế giới khổng lồ luôn di chuyển tự nhiên.
+Trong trạng thái hai người vẫn đang tích cực đi về phía đợt kẻ thù tiếp theo:
+Direct cut to black.
+[Máy Quay & Biên Tập]
+Ba phân đoạn kể chuyện, nhưng tuyệt đối không cơ học bằng ba shot.
+Toàn bộ phim sử dụng một lượng nhỏ cuts thực sự chức năng.
+Lộ trình máy quay chính:
+Toàn cảnh trục trung tâm 24mm xác nhận địa điểm thực → Tracking 32–35mm lùi dọc theo trục con đường hoàng gia hiện có → Cơ thể người đi qua ống kính tạo hidden cut → Vũ khí lướt qua ống kính tạo occlusion cut → Khi gọng kìm trước-sau xảy ra, mở rộng lại shot để giải thích không gian → Cuối cùng side-rear liên tục theo dõi hai nhân vật chính tiến về phía chiếc nhẫn xa.
+Tất cả cuts chỉ có thể được kích hoạt tự nhiên bởi các sự kiện sau:
+Occlusion nhân vật;
+Occlusion vũ khí;
+Va chạm vũ khí thực tế;
+Thay đổi rõ rệt trong hướng di chuyển;
+Mất cân bằng cơ thể rõ rệt;
+Thay đổi đột ngột trong tốc độ.
+Cấm cắt vụn cơ học.
+Cấm máy quay bồn chồn hơn hành động.
+Cấm ORBIT vô nghĩa.
+Cấm thay đổi vị trí của con đường hoàng gia, cung điện, thác nước và chiếc nhẫn xa vì sake của chuyển động máy quay.
+Hành động thúc đẩy máy quay.
+Máy quay không thể thúc đẩy biến dạng cảnh.
+[Âm Thanh]
+Mở đầu thiết lập đầu tiên:
+Gió tự nhiên cao nguyên;
+Rầm rầm tần số thấp của thác nước khổng lồ tồn tại liên tục ở khoảng cách;
+Tiếng bước chân trên con đường hoàng gia đá màu sáng;
+Floor noise môi trường thành phố cổ cực xa.
+Sau khi chiến đấu bùng nổ thêm:
+Gió kiếm sắc ngắn;
+Va chạm kim loại cứng, sắc;
+Ma sát đế giày;
+Giật vải lụa;
+Tiếng bước chân nhanh của kẻ truy đuổi;
+Nhịp thở nhân vật dần nặng hơn.
+Khi gọng kìm trước-sau hình thành, tạm thời hạ nhạc và trường âm môi trường rộng.
+Làm nổi bật:
+Tiếng bước chân;
+Nhịp thở;
+Hướng vũ khí.
+Sau khi con đường được mở lại, âm thanh chiến đấu dần mờ đi phía sau nhân vật.
+Đối thoại cuối cùng phải rõ ràng:
+"Chúng ta chưa bao giờ ở đây để thắng."
+"Chỉ cần con đường còn đó, là đủ."
+Sau khi đối thoại kết thúc:
+Thác nước;
+Gió cao nguyên;
+Tiếng bước chân tiến về phía trước liên tục
+Chiếm lại trường âm chính.
+Nhạc không bao giờ được lấn át chi tiết hành động và đối thoại.
+[Ưu Tiên Sinh Ảnh Seedance 2.0 Mini]
+P0: Danh tính địa điểm của hình nền tham khảo đã tải lên tuyệt đối không được thay đổi.
+P0: Ổn định danh tính của nhân vật chính @Image 1 và @Image 2.
+P1: Ổn định thuộc tính và liên tục của kiếm thẳng bạc và kiếm thép tối màu.
+P1: Mối quan hệ không gian trước-sau rõ ràng trên cùng một con đường hoàng gia.
+P1: Hướng tiến về phía trước liên tục của nhân vật, hướng tấn công của kẻ thù và trục máy quay.
+P2: Khuôn mặt cụ thể và trang phục phức tạp của kẻ thù, Sư Phụ, đệ tử và thường dân.
+Nếu cần giảm độ phức tạp của model:
+Đầu tiên giảm chi tiết nhân vật phụ;
+Sau đó giảm các động tác tấn công thừa;
+Tiếp theo giảm hiệu ứng hình ảnh trang trí.
+Tuyệt đối không được hy sinh:
+Danh tính địa điểm hình tham khảo;
+Danh tính nhân vật chính;
+Nhân quả hành động;
+Liên tục không gian.
+[Ràng Buộc Phủ Định]
+Cấm biến con đường hoàng gia cao nguyên hiện tại thành đấu trường tròn. Cấm đổi thành sân bình thường. Cấm đổi thành quảng trường rộng. Cấm thêm cầu mây khác. Cấm thêm cổng núi độc lập. Cấm thêm đảo bay. Cấm thêm nền tảng chiến đấu. Cấm xóa bỏ thác nước khổng lồ trái/phải. Cấm xóa bỏ cung điện lớn trái/phải. Cấm xóa bỏ cấu trúc gỗ nhô ra lớn bên trái. Cấm xóa bỏ thành phố cổ dày đặc bên dưới. Cấm xóa bỏ cấu trúc nhẫn xa khổng lồ. Cấm kéo chiếc nhẫn xa khổng lồ gần hơn để trở thành tháp cổng bình thường. Cấm thay đổi vị trí tương đối của cung điện xa và tòa nhà trung cảnh. Cấm ngày đột ngột chuyển thành đêm. Cấm mây bão tối thay thế thời tiết dịu hiện tại. Cấm mở rộng con đường hoàng gia cho hành động. Cấm thay đổi chiều rộng con đường hoàng gia sau các cut. Cấm môi trường chủ động tham gia cốt truyện. Cấm cầu gãy đột ngột. Cấm tòa nhà tự sụp đổ. Cấm sương mù chủ động che khuất kẻ thù. Cấm thác nước đột ngột thay đổi tấn công. Cấm gió đột ngột thay đổi quỹ đạo kiếm. Cấm nhân vật teleport không có trajectory. Cấm hai nhân vật chính đổi vị trí từ hư không. Cấm kiếm khí ngẫu nhiên diện tích lớn. Cấm sóng năng lượng va chạm. Cấm ô nhiễm ánh sáng. Cấm kẻ thù xếp hàng chờ đợi để tấn công. Cấm kẻ thù thụ động trong thời gian dài. Cấm đẩy vũ khí kéo dài. Cấm nhân vật dừng lại chờ đợi sau một động tác. Cấm xoay vô nghĩa. Cấm Pose vô nghĩa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106728656399970304/img/DeUvkEJCnbRcNZ9b.jpg" width="600" alt="Seedance 2.0 Mini Prompt Trận Chiến Hộ Tống Điện Ảnh">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11921)**
+
+**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2106728692986843641) | **Đã xuất bản:** Oct 4, 2026
+
+---
+### Prompt Hành Động Giả Đấu Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một prompt để tạo ra một cảnh hành động tiên hiệp điện ảnh, nơi hai nữ kiếm khách giả đấu để lộ diện những sát thủ ẩn nấp, tập trung vào luồng chiến đấu động và sự nhất quán nghiêm ngặt về nhân vật/môi trường.
+
+#### 📝 Prompt
+
+```
+Kết cấu hình ảnh chân thực như điện ảnh, phim hành động kiếm thuật tiên hiệp cổ đại Trung Quốc căng thẳng cao độ.
+
+Hoàn toàn phá vỡ các khuôn mẫu trước đó:
+
+Đổi vũ khí của sư tỷ để phản công
+Phá vỡ mọi rào cản
+Hai điểm mù bổ trợ lẫn nhau
+
+Cốt lõi trở thành:
+
+Sư tỷ và sư muội trông như đang trong một trận đấu kiếm nguy hiểm thực sự, nhưng thực chất là dùng nó để buộc những sát thủ ẩn nấp phải lộ diện.
+
+Mục Tiêu Kể Chuyện Ba Lớp
+Lớp 1 Mồi nhử: Khiến khán giả tin rằng họ đang thực sự chiến đấu
+Lớp 2 Twist (Bất ngờ): Tiết lộ rằng họ đã kiểm soát không gian thông qua động lượng kiếm tương hỗ
+Kết thúc Mồi nhử: Để lại sự hồi hộp rằng đợt kẻ thù thứ hai chưa xuất hiện
+
+Nguyên Tắc Hành Động Chung
+
+Hành động phải mượt mà, nhưng không bao giờ mềm yếu.
+
+Sự Mượt Mà
+
+Được định nghĩa là:
+Hành động trước tự nhiên tạo ra hành động tiếp theo
+
+Hướng di chuyển liên tục kéo dài
+Nhân quả rõ ràng giữa camera, cơ thể, đường kiếm
+Cảm Giác Sức Mạnh
+
+Được định nghĩa là:
+Khởi đầu đột ngột
+
+Va chạm bạo lực
+Lực đẩy lệch
+Cơ thể mất cân bằng
+Quán tính tiếp diễn
+Dừng đột ngột
+Khóa Nhân Vật & Vũ Khí
+
+Chỉ khóa chặt @image 1 và @image 2 cho các nhân vật chính và vũ khí độc quyền.
+
+@image 1 | Sư Tỷ Kiếm Tiên
+
+Sư Tỷ từ @image 1 luôn duy trì:
+
+Khuôn mặt nữ trưởng thành Đông Á giống hệt
+Ngoại hình tuổi 25–30
+
+Tóc đen dài nửa búi
+Trâm cài ngọc trắng
+Tỷ lệ dáng người cao mảnh
+Hanfu lụa trắng thêu hoa
+Tay áo rộng bán trong suốt
+Thắt lưng bạc
+Mặt dây chuyền ngọc
+Boots vải trắng
+Kiếm thẳng bạc độc đáo
+@image 2 | Sư Muội
+Sư Muội từ @image 2 luôn duy trì:
+
+Khuôn mặt nữ trưởng thành Đông Á giống hệt
+Ngoại hình tuổi 20–25
+
+Tóc đen tết bím
+Tỷ lệ dáng người nhỏ nhắn
+Hanfu vải lanh xanh lam
+Thắt lưng tối màu
+Trâm cài gỗ
+Giày vải đen
+Kiếm thép tối màu độc đáo
+Các Nhân Vật Khác
+Sát thủ, sư phụ, đệ tử, người qua đường chỉ mang tính chức năng, không có khóa khuôn mặt/trang phục nghiêm ngặt như nhân vật chính.
+
+Kiểm Soát Cảnh Vòng Tròn | Ưu Tiên Cao Nhất
+Nền được tải lên hiển thị rõ ràng một địa điểm hoàn chỉnh, dễ nhận biết. Bật chế độ NEO KHÔNG GIAN CỨNG (HARD LOCATION ANCHOR).
+Ảnh tham chiếu là địa điểm câu chuyện thực tế, không phải nguồn cảm hứng trực quan.
+
+Phải Duy Trì Các Yếu Tố Không Gian Gốc
+
+Bệ đá khổng lồ ở tiền cảnh
+
+Lan can đá liên tục ở rìa
+
+Sương mù thấp quy mô lớn ở chiều sâu phía sau lan can
+Mái nhà thành phố cổ dày đặc ở trung cảnh
+Đại sảnh trung tâm
+Khu phức hợp cung điện khổng lồ ở vị trí cao xa
+Phân cấp khoảng cách mạnh mẽ giữa thành phố và cung điện xa
+Bầu trời xám xanh mát và sương mù thấp
+Ánh sáng ấm áp từ cung điện xa
+Quy mô vĩ mô: nhân vật nhỏ bé, thành phố/cung điện khổng lồ
+Ràng Buộc Cứng Nhắc Chính
+Cung điện cao nhất ở xa phải luôn giữ nguyên:
+Rất xa
+
+Rất to lớn
+về tỷ lệ hình ảnh.
+
+Cấm kéo cung điện xa lại gần phía sau nhân vật như một cổng gần trong các cú quay trung cảnh.
+Giới Hạn Địa Điểm
+Toàn bộ trận chiến 15s xảy ra nghiêm ngặt trên:
+
+Bệ đá khổng lồ hiện diện rõ ràng trong ảnh tham chiếu
+
+Và các khu vực kết nối trực tiếp
+
+Cấm tạo ra:
+Cầu đá lơ lửng
+
+Cầu mây
+Cổng độc lập
+
+Đảo
+Vách núi mới
+Lối vào cung điện mới
+Cầu thang mới
+Bệ chiến đấu mới
+Bất kỳ tòa nhà lớn nào làm thay đổi danh tính địa điểm
+Yêu Cầu Liên Tục Không Gian
+Sau mỗi lần cắt cảnh, các mối quan hệ này ổn định:
+Bệ
+
+Lan can
+
+Các lớp thành phố
+
+Các tòa nhà trung tâm
+
+Cung điện xa
+
+Đường chân trời
+Hành động/camera thích nghi với bệ.
+Không bao giờ thay đổi hình dạng bệ cho các hành động được mô tả bằng văn bản.
+Trạng Thái Nền
+Nền sống động tự nhiên:
+Sương mù thấp lớn di chuyển chậm giữa các lớp thành phố
+Mây cao thay đổi tự nhiên
+
+Ánh sáng ấm từ cung điện xa bị ảnh hưởng bởi không khí/sương mù
+Tóc/vạt áo lụa di chuyển theo gió trên bệ
+
+Chiều sâu không khí, phản xạ, vài bóng người xa vi chuyển động
+
+Chỉ khi có tác động thực:
+
+Bước chân
+
+Va chạm vũ khí
+Quần áo lướt nhanh
+Cho phép phản hồi cục bộ:
+Bụi đá nhẹ
+Tia lửa
+
+Dịch chuyển vạt áo
+
+Cấm Nghiêm Ngặt
+Sương mù đột ngột che giấu kẻ thù
+Lan can gãy
+
+Cung điện tự thay đổi
+
+Nền giúp bất kỳ bên nào hoàn thành twist
+Cấu Trúc Phân Đoạn
+0–5s | Giả Đấu: Đánh Lừa Khán Giả
+
+0.0–1.0s
+Sử dụng cú quay rộng cố định 24mm.
+Phải giữ:
+Bệ đá khổng lồ
+Chiều sâu đầy đủ của cung điện xa/thành phố
+
+Khán giả biết cùng một địa điểm từ ảnh tham chiếu.
+
+Sư tỷ áo trắng và sư muội áo xanh đối mặt cách nhau vài mét.
+
+Khu vực an toàn ở xa có:
+
+Vài đệ tử
+Người xem thường
+
+Cùng một sư phụ già
+
+Nhưng họ chỉ là nền.
+Thoại
+
+Sư muội thì thầm:
+
+"Họ có thật sự cắn câu không?"
+
+Sư tỷ đáp:
+
+"Hãy lừa họ trước."
+Từ cuối cùng rơi xuống, cả hai bùng nổ đồng thời không báo trước.
+Camera chuyển sang cú quay trung cảnh di động ~35mm từ góc rộng cố định.
+
+Vòng Giả Đấu Đầu Tiên
+Kiếm đầu tiên của sư tỷ đủ nhanh để trông như đánh trúng sư muội
+Sư muội lướt ngoài lưỡi kiếm cho đến khoảnh khắc cuối
+
+Sau đó phản công thấp với kiếm thép tối màu
+Sư tỷ xoay người tránh
+
+Kiếm bạc và kiếm thép tối màu va chạm kim loại thực sự rất ngắn, cứng nhắc đầu tiên
+
+Yêu Cầu Chính
+Không ai tạo dáng
+
+Đảo ngược sang động tác tiếp theo ngay sau va chạm
+Tay áo rộng trắng quét nhanh qua camera, tạo ra một vết cắt ẩn tự nhiên barely noticeable (khó nhận thấy) đầu tiên.
+Hiệu Ứng Yêu Cầu
+Khiến khán giả nghi ngờ:
+Họ đang diễn hay thực sự chiến đấu?
+5–10s | Twist Lớp 1: Kẻ Thù Thực Sự Xuất Hiện
+
+Giữ:
+Bệ y hệt
+Thành phố
+
+Quy mô cung điện xa
+
+Chủ sở hữu kiếm
+Sử dụng tracking ngang 35–40mm, trận chiến phát triển ngang/chéo trên bệ tiền cảnh, không có địa điểm mới.
+
+Công/Phòng Liên Tục
+
+Hai chị em hoàn thành chuỗi tốc độ cao nhưng rõ ràng về không gian:
+
+Sư tỷ đâm
+
+Sư muội đỡ
+Sư muội ngay lập tức trượt phản công dọc theo bên hở do sư tỷ tạo ra
+Sư tỷ cúi dưới kiếm
+Chéo tốc độ cao, hoán đổi vị trí gốc
+Quy Tắc Hành Động
+
+Mọi động tác nối tiếp tự nhiên.
+Đòn đánh trước tạo ra đòn sau.
+Không reset tư thế sau một động tác.
+
+Sát Thủ Đầu Tiên Lộ Diện
+Ngay khi kiếm chéo <0.5s, một sát thủ chức năng trà trộn trong đám đông xa phá vòng vây, tấn công từ điểm mù của sư tỷ.
+
+Yêu Cầu Chính
+Không bao giờ dừng giả đấu.
+Sư tỷ chỉ nhận ra nguy hiểm qua sự thay đổi ánh mắt ngắn ngủi của sư muội.
+Sư muội tiếp tục vung kiếm như đang tấn công sư tỷ.
+Sư tỷ cúi dưới kiếm của sư muội vào khoảnh khắc cuối.
+Kiếm của sư muội quét qua vai, đập bạo lực vũ khí của sát thủ đang đến từ phía sau.
+Khoảnh khắc này phải khiến khán giả nhận ra:
+Cuộc đấu là mồi nhử.
+Sát Thủ Thứ Hai Lộ Diện
+Gần như không có hơi thở.
+Sát thủ thứ hai lao vào sư muội từ phía đối diện.
+
+Sư tỷ sử dụng quán tính xoay từ động tác chéo, cắt qua vai sư muội, một va chạm kiếm bạc ngắn ngủi làm thay đổi đường đi của sát thủ thứ hai.
+
+Kết Quả
+Giả đấu tự nhiên chuyển thành trận chiến bốn phương thực sự trong quá trình di chuyển.
+
+Cấm Nghiêm Ngặt
+Bất kỳ ai dừng lại để giải thích
+
+Sát thủ xếp hàng chờ đợi
+
+Sư phụ im lặng quan sát từ xa
+10–15s | Twist Lớp 2: Không Khoan Dung Giữa Họ
+Hai sát thủ thay đổi chiến lược khi bị lộ.
+Tăng tốc từ hai hướng, cố gắng tách rời thực sự hai cô gái.
+
+Sử dụng cú quay di động hơi rộng hơn.
+Hiển thị mối quan hệ vị trí hoàn chỉnh của bốn người trên bệ khổng lồ, nền vẫn hiển thị thành phố cổ/cung điện xa.
+Hoán Đổi Chéo Đôi
+
+Hai chị em không lùi ra ngoài.
+Lao về phía nhau với tốc độ cao.
+Đường vai lướt sát nhau ở tốc độ tối đa, ngay lập tức hoán đổi trước/sau.
+Động tác chéo phải mượt mà, liền mạch.
+Tại khoảnh khắc lướt:
+
+Sư muội đón sát thủ tấn công điểm mù của sư tỷ
+
+Sư tỷ đón sát thủ lao vào sư muội
+
+Không có giao tiếp bằng mắt trong suốt quá trình.
+Vũ khí của một sát thủ quét bạo lực qua khung hình camera, tạo ra một vết cắt cứng rõ ràng nhất bị che khuất bởi vũ khí.
+
+Cắt sang trục đảo ngược mới.
+Nhân vật chính đã hoán đổi hoàn toàn.
+Động Tác Phá Vỡ Cuối Cùng
+Mỗi người thực hiện một đòn phản công ngược cực ngắn, trực tiếp.
+
+Cấm Nghiêm Ngặt
+
+Khí kiếm khổng lồ
+
+Xoay đẹp mắt
+
+Slow motion
+Kết quả:
+
+Đường đi vũ khí của một sát thủ bị sư muội làm lệch, cơ thể trượt ra ngoài do quán tính của chính hắn
+Trục tấn công của kẻ khác bị kiếm bạc của sư tỷ làm lệch, buộc phải vượt qua phạm vi tối ưu
+
+Cả hai sát thủ còn sống, chỉ vừa mất cơ hội trong vòng này.
+Âm Thanh Cắt Đứt
+Âm thanh chiến đấu thu hẹp đột ngột.
+Chỉ còn:
+
+Tiếng thở của bốn người
+Rung động nhẹ của kiếm hai nhân vật chính
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106642529160749056/img/ifDPxtnGu3ym2xT4.jpg" width="600" alt="Prompt Hành Động Giả Đấu Seedance 2.0">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11922)**
+
+**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2106643465094431201) | **Đã xuất bản:** Oct 4, 2026
+
+---
 ### Prompt Chiến Đấu Hành Lang Khoa Học Viễn Tưởng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -420,6 +1263,25 @@ Video ngắn anime 2D Nhật Bản dọc 9:16 dài 15 giây, biến đổi làm 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11847)**
 
 **Tác giả:** [Nadya](https://x.com/nadyamaje) | **Nguồn:** [Link](https://x.com/nadyamaje/status/2106554883235356947) | **Đã xuất bản:** Oct 4, 2026
+
+---
+### Người Chiếu Phim Bleach Bypass
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt cho việc tạo video từ văn bản, mô tả một người chiếu phim lớn tuổi trong rạp chiếu phim bị phá hủy, với phong cách xử lý phim bleach-bypass và các chỉ dẫn quay phim cụ thể.
+
+#### 📝 Prompt
+
+```
+Bên trong một rạp chiếu phim khu phố bỏ hoang đang bị phá dỡ, một người chiếu phim lớn tuổi ngồi cô đơn giữa khán phòng đổ nát, xem bộ phim cuối cùng trước khi tòa nhà biến mất. Những hàng ghế nhung phủ bụi bao quanh ông, một phần trần nhà đã sập, ánh sáng ban ngày lọt qua lỗ hổng lớn trên tường, có thể nhìn thấy máy móc xây dựng bên ngoài. Máy chiếu vẫn tiếp tục hoạt động, tia sáng cắt xuyên qua những đám bụi dày đặc. Camera di chuyển chậm từ lối vào đổ nát dọc theo lối đi về phía người chiếu phim, sau đó vòng ra sau lưng ông để hé lộ hình ảnh được chiếu lên màn hình hư hỏng. Quay phim hành động thực tế chân thực, xử lý phim bleach-bypass, màu đỏ burgundy và vàng nhạt gần như chuyển thành xám, màu đen sâu thẳm, điểm nhấn bạc rực rỡ, độ tương phản mạnh mẽ, hạt phim 35mm nặng, những vết xước tinh tế và sự thay đổi độ phơi sáng, cảm xúc tiết chế, không kịch tính hóa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106514798942752768/img/wF54JkcWicweR581.jpg" width="600" alt="Người Chiếu Phim Bleach Bypass">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11916)**
+
+**Tác giả:** [Alexandra Aisling](https://x.com/AllaAisling) | **Nguồn:** [Link](https://x.com/AllaAisling/status/2106515375559217226) | **Đã xuất bản:** Oct 3, 2026
 
 ---
 ### Seedance 2.0 Mini Prompt Chiến Đấu Võ Hiệp
@@ -5654,244 +6516,6 @@ Tạo một video quảng cáo chăm sóc da cao cấp siêu thực tế dài 15
 **Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2101887507059351894) | **Đã xuất bản:** Sep 21, 2026
 
 ---
-### Cinematic Character Reference Sheet Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive prompt for creating ultra-realistic cinematic character reference sheets from uploaded images using Seedance 2.0 Fast.
-
-#### 📝 Prompt
-
-```
-CREATE A PREMIUM, ULTRA-REALISTIC CINEMATIC CHARACTER REFERENCE SHEET — PROFESSIONAL FILM PRODUCTION DESIGN.
-
-REFERENCE LOCK:
-Use the uploaded reference image as the ONLY source of the subject's identity.
-
-Preserve the exact facial identity, face shape, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle, hair color, body proportions, age, and recognizable appearance with maximum accuracy.
-
-Adapt naturally to ANY PERSON, regardless of gender, age, hairstyle, body type, or personal appearance.
-
-CORE CONCEPT:
-Transform the uploaded person into a fully developed cinematic character inspired by their appearance, personality, and visual presence.
-
-Automatically design a unique character concept, outfit, accessories, hairstyle, color palette, and visual identity that suits the subject.
-
-CHARACTER DESIGN:
-Create a visually powerful, original character suitable for a premium Hollywood or Netflix-style film production.
-
-The character may be: A WARRIOR, VILLAIN, HERO, WITCH, ROYAL CHARACTER, SCI-FI EXPLORER, ASSASSIN, DETECTIVE, SURVIVOR, FANTASY CHARACTER, OR MODERN CINEMATIC PERSON.
-
-Choose the most suitable character direction based on the uploaded reference and the intended visual style.
-
-CHARACTER SHEET LAYOUT:
-
-1. HERO PORTRAIT:
-Create one large, dramatic, ultra-realistic cinematic portrait showing the character's face, hairstyle, outfit, and overall personality.
-
-2. FACIAL EXPRESSIONS:
-Create a professional facial expression grid including: NEUTRAL, SERIOUS, INTENSE, SOFT, SMILE, ANGRY, SAD, MYSTERIOUS.
-Maintain consistent facial identity in every panel.
-
-3. TURNAROUND / FULL BODY VIEWS:
-Show the character in: FRONT VIEW SIDE VIEW BACK VIEW THREE-QUARTER VIEW
-Maintain consistent outfit, body proportions, accessories, and hairstyle across all views.
-
-4. PORTRAIT VARIATIONS:
-Include cinematic close-ups from different angles: FRONT PORTRAIT THREE-QUARTER PORTRAIT SIDE PORTRAIT DRAMATIC SHADOW PORTRAIT.
-
-5. COSTUME & DETAIL CLOSE-UPS:
-Show highly detailed close-ups of: HEADPIECE OR HAIRSTYLE COSTUME DETAILS ACCESSORIES BELT OR WAIST DETAILS GLOVES OR HAND DETAILS FABRIC TEXTURE NECKLACE OR SIGNATURE PROP.
-
-6. COLOR PALETTE:
-Display a professional color palette matching the character's costume and cinematic theme.
-
-7. CHARACTER INFORMATION:
-Include a clean professional section containing: CHARACTER NAME ROLE ALIAS PERSONALITY STYLE THEME SIGNATURE ELEMENT
-
-8. CINEMATIC WORLD-BUILDING:
-Add a subtle atmospheric background or environmental illustration that complements the character's world.
-
-VISUAL STYLE:
-Premium Hollywood concept art. Ultra-realistic photography. High-end costume design. Cinematic lighting. Natural skin texture. Realistic fabric and material details. Professional film production reference sheet. Elegant editorial layout. Subtle cinematic atmosphere. Sharp facial details. Photorealistic rendering.
-```
-
-<img src="https://cms-assets.youmind.com/media/1789970152422_3vld7y_HSnCVWybwAAnaFA.jpg" width="600" alt="Cinematic Character Reference Sheet Prompt">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11053)**
-
-**Tác giả:** [M. Asif](https://x.com/meAsifAi) | **Nguồn:** [Link](https://x.com/meAsifAi/status/2101515191158542788) | **Đã xuất bản:** Sep 20, 2026
-
----
-### Hướng dẫn tạo hoạt cảnh giải cứu tàu hỏa khỏi tuyết lở bằng rồng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết cho đoạn phim hoạt hình điện ảnh dài 15 giây, kết hợp giữa tàu hỏa, tuyết lở và màn giải cứu của một con rồng, được tạo ra với Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Đoạn phim hoạt hình điện ảnh dài 15 giây.
-Một đoàn tàu chở khách lao nhanh qua thung lũng núi phủ đầy tuyết.
-Phía trước, một trận tuyết lở khổng lồ bất ngờ đổ xuống, ập thẳng về phía đường ray.
-Tàu phanh gấp.
-Hành khách nhìn qua cửa sổ khi tuyết và đá tảng ầm ầm lăn xuống sườn núi.
-Bất ngờ, một con rồng khổng lồ lao ra từ khu rừng.
-Nó hạ cánh ngay cạnh đường ray và dang rộng đôi cánh vĩ đại.
-Trận tuyết lở ập tới.
-Con rồng trụ vững trên mặt đất, che chắn cho đoàn tàu khỏi những mảnh vụn rơi nặng nhất.
-Tuyết bắn tung tóe xung quanh nó.
-Đoàn tàu dừng lại cách đường ray bị chặn chỉ vài centimet.
-Trong toa đầu tiên, một cô bé áp tay lên cửa sổ.
-Con rồng kiệt sức quay đầu nhìn lại em.
-Em mỉm cười.
-Con rồng nhẹ nhàng hạ một bên cánh trước khi biến mất vào khu rừng tuyết phủ.
-
-Hoạt họa phong cách điện ảnh tinh tế, thiết kế sinh vật phức tạp, kết cấu vẽ tranh sơn dầu, môi trường chân thực, hành động vật lý kịch tính, chuyển động camera năng động, cảm giác quy mô mạnh mẽ, kết thúc giàu cảm xúc, màu sắc tự nhiên, ánh sáng điện ảnh, không có lời thoại, không có phép thuật, không kinh dị, không bạo lực.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101414099632422912/img/vPUySBkizJaVP6E5.jpg" width="600" alt="Hướng dẫn tạo hoạt cảnh giải cứu tàu hỏa khỏi tuyết lở bằng rồng">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11052)**
-
-**Tác giả:** [Alexandra Aisling](https://x.com/AllaAisling) | **Nguồn:** [Link](https://x.com/AllaAisling/status/2101429374755262628) | **Đã xuất bản:** Sep 19, 2026
-
----
-### Nhắc nhở video Chiến binh Bóng tối trên Sân thượng Bão tố
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc để tạo ra một cảnh hành động điện ảnh về một chiến binh trong bộ áo giáp trên sân thượng mưa với ánh sáng kịch tính và hiệu ứng nước.
-
-#### 📝 Prompt
-
-```
-Cảnh quay điện ảnh siêu thực của một chiến binh bóng tối bí ẩn mặc áo giáp đen bay bổng đứng trên sân thượng ướt đẫm giữa cơn bão, tư thế động lực mạnh mẽ, nước bắn tung tóe quanh anh ta, bầu trời u ám đầy mây, ánh sáng khí quyển cường độ cao, những giọt nước bay lơ lửng và chuyển động, đường chân trời thành phố tương lai ở phía sau, bố cục hành động kịch tính kiểu phim điện ảnh, kết cấu vải và áo giáp chân thực, ánh sáng thể tích, độ sâu trường ảnh nông, chi tiết cao, HDR, 8K, siêu thực, chỉnh màu điện ảnh, bố cục dọc 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101169609365921792/img/-IstuS_VdtsgYbeM.jpg" width="600" alt="Nhắc nhở video Chiến binh Bóng tối trên Sân thượng Bão tố">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11012)**
-
-**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2101169774076231947) | **Đã xuất bản:** Sep 19, 2026
-
----
-### Prompt Video Điện Ảnh Cho Quy Trình Chăm Sóc Da
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt để tạo ra quảng cáo chăm sóc da siêu thực với hình ảnh một phụ nữ trẻ trong căn phòng sáng sủa, tập trung vào kết cấu và ánh sáng.
-
-#### 📝 Prompt
-
-```
-Tạo một video chăm sóc da siêu thực dài 15 giây với hình ảnh một phụ nữ Hàn Quốc trẻ tuổi trong căn phòng trắng thanh lịch, tràn ngập ánh sáng. Bắt đầu bằng cảnh quay cực cận mặt mộc tự nhiên của cô khi cô nhẹ nhàng chạm ngón tay lên má, thể hiện kết cấu da chân thực và ánh sáng ban ngày dịu nhẹ. Sau đó, hiển thị chai skincare trong suốt đặt trên bàn đá cẩm thạch trắng khi tay cô từ từ đưa về phía nó. Tiếp tục với cảnh cô thoa skincare nhẹ nhàng lên mặt bằng cả hai tay, giữ nguyên các đặc điểm khuôn mặt và ngoại hình nhất quán. Hiển thị cảnh cô nhắm mắt bình yên trong khi dùng đầu ngón tay massage nhẹ nhàng cả hai bên má. Kết thúc bằng cảnh quay rộng hơn khi cô mặc chiếc váy trắng đơn giản đứng cạnh cửa sổ lớn, trong khi rèm voan trắng lay động tự nhiên dưới ánh nắng. Giữ cho các chuyển động mượt mà và chân thực, với đôi tay tự nhiên, làn da thật, ánh sáng điện ảnh mềm mại, bầu không khí sang trọng tinh tế, chuyển động camera nhẹ nhàng và không có biến dạng hay chi tiết giả tạo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101138351013416960/img/ZHT5-dQIrBB1HX68.jpg" width="600" alt="Prompt Video Điện Ảnh Cho Quy Trình Chăm Sóc Da">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11011)**
-
-**Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2101138386132386252) | **Đã xuất bản:** Sep 19, 2026
-
----
-### Prompt Video Cảnh Quan Đóng Băng Có Phụ Nữ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo cảnh quay điện ảnh về một phụ nữ trong khung cảnh tuyết phủ với gió và các hạt tuyết.
-
-#### 📝 Prompt
-
-```
-Cảnh quay điện ảnh siêu thực tế về một cô gái trẻ đứng một mình giữa vùng đất đóng băng rộng lớn phủ đầy tuyết, mặc áo khoác chống thời tiết màu tối, gió thổi bay mái tóc, biểu hiện mệt mỏi nhưng kiên định, bão tuyết dữ dội, những đám mây đen kịch tính bao trùm bầu trời, dãy núi phủ tuyết ở phía sau, không khí lạnh xanh ngắt, các hạt tuyết chân thực, kết cấu da tự nhiên, kể chuyện giàu cảm xúc, ánh sáng kịch tính, độ sâu trường ảnh nông, chỉnh màu phong cách điện ảnh, chi tiết cao, chân thực như ảnh chụp, 8K, HDR, bức ảnh tĩnh chuyên nghiệp từ phim, ống kính 85mm, bố cục dọc 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100821852797227008/img/ccGPsPHV1WCfCErM.jpg" width="600" alt="Prompt Video Cảnh Quan Đóng Băng Có Phụ Nữ">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11013)**
-
-**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2100822353446060246) | **Đã xuất bản:** Sep 18, 2026
-
----
-### Quảng cáo nước hoa sang trọng Bleu de Chanel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt chi tiết cho quảng cáo nước hoa sang trọng mang tính điện ảnh, giới thiệu Bleu de Chanel, bao gồm các hành động cụ thể, chuyển động máy quay và hướng dẫn lồng tiếng.
-
-#### 📝 Prompt
-
-```
-Quảng cáo nước hoa sang trọng mang phong cách điện ảnh, thời lượng 10 giây. Một người phụ nữ thanh lịch với mái tóc đen vuốt ngược, mặc áo blouse tay dài màu đen có phần vai phồng, đứng trước nền studio màu xanh xám nhạt dịu nhẹ. Cô ấy cầm chai nước hoa Bleu de Chanel Eau de Parfum hình vuông bằng thủy tinh màu xanh navy đậm bằng cả hai tay hướng về phía máy quay, trưng bày sản phẩm. Cận cảnh ngón tay cô ấy tháo nắp đen, để lộ vòi xịt bạc. Cô ấy xịt một lớp sương mỏng lên mặt trong cổ tay trong bối cảnh ánh sáng tự nhiên từ cửa sổ. Sau đó, cô ấy nâng cổ tay lên gần mặt, nhắm mắt lại và hít hương thơm với nụ cười mãn nguyện nhẹ nhàng. Cảnh cuối cùng: chai nước hoa chiếm trọn khung hình với độ nét cao trong khi cô ấy mờ ảo ở phía sau. Ánh sáng tự nhiên dịu nhẹ, độ sâu trường ảnh nông, thẩm mỹ phim thời trang cao cấp, chuyển động chậm rãi và thanh lịch, vẻ ngoài của một quảng cáo thương hiệu đẳng cấp.
-Lồng tiếng: “Sẵn sàng ra ngoài, thêm một điểm nhấn cuối cùng. Bleu de Chanel, hãy biến nó thành của riêng bạn.”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100818151134871552/img/FCELWlH2dnIKUU3Y.jpg" width="600" alt="Quảng cáo nước hoa sang trọng Bleu de Chanel">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10982)**
-
-**Tác giả:** [Elisia](https://x.com/AiwithElisia) | **Nguồn:** [Link](https://x.com/AiwithElisia/status/2100818214754128101) | **Đã xuất bản:** Sep 18, 2026
-
----
-### Ký ức gia đình ở vùng quê Hàn Quốc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt hoài niệm cho video khắc họa hình ảnh người mẹ Hàn Quốc và các con tận hưởng buổi tối mùa hè yên bình tại ngôi làng nông thôn, tập trung vào tương tác gia đình và vẻ đẹp phong cảnh.
-
-#### 📝 Prompt
-
-```
-Tạo một video với những từ ngữ tiếng Hàn tuyệt đẹp và phong cách sống vùng quê Hàn Quốc ấm áp, đầy hoài niệm. Hãy thể hiện một người mẹ Hàn Quốc yêu thương cùng ba đứa trẻ nhỏ đang tận hưởng buổi tối mùa hè yên bình trong một ngôi làng truyền thống của Hàn Quốc, với ánh nắng vàng rực rỡ lúc hoàng hôn, những ngôi nhà mái ngói cổ kính, tường đá, cánh đồng lúa xanh mướt và bầu không khí thanh bình của vùng quê. Bắt đầu bằng cảnh người mẹ nhẹ nhàng mở cánh cửa gỗ cũ kỹ, sau đó chuyển sang cú máy tracking điện ảnh khi bà đạp xe cùng các con vui vẻ chạy xe đạp bên cạnh dọc theo con đường làng. Ghi lại tiếng cười tự nhiên của trẻ thơ, những chuyển động mềm mại của xe đạp, trang phục bay phấp phới và những tương tác gia đình chân thực với đặc điểm khuôn mặt và biểu cảm Hàn Quốc chuẩn xác. Chuyển sang những cú máy rộng mang tính điện ảnh khi cả gia đình đạp xe bên cạnh cánh đồng lúa xanh tốt và một dòng suối nhỏ, tạo nên cảm giác tự do và hoài niệm yên bình. Thể hiện cảnh người mẹ ngồi bên các con gần cánh đồng, chia sẻ trái cây tươi và đồ ăn vặt trong khi họ mỉm cười và trò chuyện cùng nhau. Sử dụng ánh sáng tự nhiên tuyệt đẹp, ánh hoàng hôn dịu nhẹ, hiệu ứng hạt phim tinh tế, độ sâu trường ảnh nông, kết cấu chân thực và chuyển động máy quay mượt mà mang tính điện ảnh. Kết thúc bằng một cú máy rộng giàu cảm xúc khi cả gia đình ngồi bên nhau cạnh dòng suối tĩnh lặng dưới gốc cây lớn, trong khi mặt trời lặn dần phía sau cánh đồng lúa. Phong cách live-action siêu thực, thẩm mỹ phim gia đình Hàn Quốc điện ảnh, tông màu ấm, nhịp độ nhẹ nhàng, cảm xúc chân thực, bố cục 16:9, chi tiết cao, vật lý tự nhiên, không có khuôn mặt trông giả tạo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100817472219914240/img/-EjhCs7GzNqSVkZW.jpg" width="600" alt="Ký ức gia đình ở vùng quê Hàn Quốc">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10983)**
-
-**Tác giả:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Nguồn:** [Link](https://x.com/ayzalnooor24521/status/2100817795214954593) | **Đã xuất bản:** Sep 18, 2026
-
----
-### Cảnh quay điện ảnh lớp học hỗn loạn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt cho video điện ảnh 15 giây với một nữ sinh Hàn Quốc trong lớp học hỗn loạn, các vật thể bay tứ tung, tập trung vào chuyển động chân thực và theo dõi camera.
-
-#### 📝 Prompt
-
-```
-Prompt video điện ảnh 15 giây: Một nữ sinh Hàn Quốc trẻ tuổi, ngoại hình chân thực, đứng ở giữa một lớp học bừa bộn. Cô mặc áo sơ mi đồng phục ngắn tay màu trắng với nơ đỏ và váy xếp ly màu xám đậm, trong khi một số học sinh khác ngồi và di chuyển phía sau cô. Sách vở, giấy tờ, sổ tay và các đồ vật trong lớp học bị vứt lung tung và bay tứ tung trên không trung, tạo nên bầu không khí hỗn loạn nhưng chân thực. Cô từ từ bước về phía máy quay với vẻ mặt nghiêm túc, bình tĩnh, trong khi các học sinh ở hậu cảnh phản ứng tự nhiên trước sự hỗn loạn bất ngờ. Camera lùi lại mượt mà, giữ cô ở vị trí trung tâm trong khung hình dọc tỷ lệ 9:16 với hiệu ứng cầm tay chân thực. Giấy và các vật thể tiếp tục rơi xung quanh cô với trọng lực đáng tin cậy, mờ chuyển động (motion blur) và quy luật vật lý tự nhiên. Vào khoảng giữa video, cô hơi giơ một tay lên trong khi vẫn tiếp tục tiến gần hơn đến máy quay, duy trì nguyên vẹn khuôn mặt, kiểu tóc, đồng phục và tỷ lệ cơ thể. Trong những giây cuối cùng, camera tiến gần hơn vào khuôn mặt cô khi cô nhẹ nhàng gạt tóc khỏi mắt, nhìn thẳng vào ống kính với biểu cảm tinh tế đầy cảm xúc. Sử dụng ánh sáng lớp học tự nhiên, kết cấu da chân thực, chi tiết vải vóc, bóng đổ xác thực, độ sâu trường ảnh mang tính điện ảnh và hình ảnh siêu thực (photorealistic) xuyên suốt, với chuyển động liên tục mượt mà và không có điểm cắt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100787630216724480/img/8BCeaa8eVJKomkdI.jpg" width="600" alt="Cảnh quay điện ảnh lớp học hỗn loạn">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10984)**
-
-**Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2100787710424416603) | **Đã xuất bản:** Sep 18, 2026
-
----
-### Video Biến Hình Thời Trang Phong Cách Paris
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video biến hình thời trang điện ảnh, nơi chiếc váy của một người phụ nữ chuyển từ màu trắng sang đỏ khi cô ấy đi bộ qua Paris.
-
-#### 📝 Prompt
-
-```
-Đã tạo ra một video biến hình thời trang mang phong cách điện ảnh, nổi bật với hình ảnh một cô gái trẻ xinh đẹp đang dạo bước trên những con phố thanh lịch của Paris. Cô bắt đầu trong chiếc váy mùa hè màu trắng tinh khôi, tự nhiên bước đi trên vỉa hè thành phố đầy phong cách, bao quanh bởi kiến trúc cổ điển, các quán cà phê, cửa hàng và dòng người qua lại. Camera theo dõi cô mượt mà với chuyển động điện ảnh chân thực và độ sâu trường ảnh nông (shallow depth of field). Khi cô đi ngang qua một mặt tiền cửa hàng, những vệt ánh sáng đỏ phát quang xoáy quanh cơ thể cô, tạo ra hiệu ứng chuyển đổi thời trang kỳ ảo. Bộ trang phục của cô biến đổi liền mạch từ màu trắng sang chiếc váy đỏ không tay sang trọng. Tiếp tục với các cảnh quay động ở tầm đường phố khi cô tự tin băng qua một ngã tư đông đúc tại Paris. Kết thúc bằng một cận cảnh tuyệt đẹp của cô trong chiếc váy đỏ, nhẹ nhàng cầm và ăn kem trong khi nhìn về phía camera một cách tự nhiên. Chi tiết siêu thực (photorealistic), thẩm mỹ phim thời trang thanh lịch, ánh sáng ban ngày tự nhiên, chuyển cảnh mượt mà, kết cấu da chân thực, ống kính điện ảnh, chuyển động nền tinh tế, vẻ ngoài thương mại cao cấp.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100456398144647168/img/xAq552Wbm_a24aoe.jpg" width="600" alt="Video Biến Hình Thời Trang Phong Cách Paris">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10954)**
-
-**Tác giả:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Nguồn:** [Link](https://x.com/ayzalnooor24521/status/2100456445900710158) | **Đã xuất bản:** Sep 17, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -5953,6 +6577,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-05T04:47:45.446Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-05T17:07:04.323Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **6495** |
+| 📝 プロンプト総数 | **6504** |
 | ⭐ おすすめプロンプト | **6** |
 | 🔄 最終更新 | **2026-10-05** |
 
@@ -361,6 +361,851 @@ Seedance 2.0 を使用して、夜のシネマティックなストリートレ�
 
 > 📝 公開日でソート（新しい順）
 
+### サイバーパンク女性 ネオン路地
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ネオンに照らされた路地を歩く若い女性の超リアルなサイバーパンクシーンを生成するためのプロンプト。ファッションディテール、ライティング、カメラ仕様を中心に構成されています。
+
+#### 📝 プロンプト
+
+```
+夜間の暗いネオン街路地を自信満々に歩く、獰猛な若い女性の超リアルなシネマティック・サイバーパンクシーン。彼女は長い黒髪と鋭い表情をしており、未来的な白いオーバーサイズジャケットの下に赤いクロップドトップス、ブラック戦術パンツ、グローブ、ユーティリティアクセサリーを着用しています。濡れた路面には赤や暖色系の都市照明が反射し、大気中の霧、光る看板、ドラマチックな影、浅い被写界深度、シネマティックなボケ、ダイナミックなカメラワーク、リアルな肌や布地の質感、高解像度ディテール、ムードあるアクション映画のような雰囲気が漂います。85mm レンズ、f/1.4、HDR、8K、フォトリアリスティック、縦長 9:16 コンポジション。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106972520972947456/img/0SDQbYzRuv36V6Vl.jpg" width="600" alt="サイバーパンク女性 ネオン路地">
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11918)**
+
+**作者:** [AIwithMinal](https://x.com/AIwithMinal) | **ソース:** [Link](https://x.com/AIwithMinal/status/2106972552119963744) | **公開日:** Oct 5, 2026
+
+---
+### Seedance Video Prompt for Comedy Wedding Story
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed video generation prompt for Seedance creating a 15-second comedic story about a woman asking her boyfriend to dye his hair green if he attends her future wedding with someone else. The prompt includes character consistency instructions, scene transitions, camera movements, and specific dialogue.
+
+#### 📝 プロンプト
+
+```
+15 seconds, 16:9 horizontal aspect ratio, realistic live-action texture, modern Chinese urban background. The first half is a natural and intimate conversation between a couple; the second half hard-cuts to a Western-style wedding in a future hotel. The camera slowly pulls back, gradually revealing male guests with different hair colors, forming an absurd and awkward comedy twist. Character performances are restrained; environment, skin, clothing, and lighting are realistic and natural.
+[Characters and Continuity]
+The female lead is a young adult Chinese woman @image (31). The bride at the future wedding must be the same woman, maintaining consistent facial features and contours, changing only hairstyle, makeup, and clothing.
+The male lead is a young adult Chinese man, starting with normal short black hair and daily casual clothes. At the future wedding, his facial features, face shape, body type, and hairstyle contour remain consistent, but he wears a fitted suit and has dyed his hair obviously green, fulfilling the request made by the woman at the beginning. He must not change into a different face due to scene or hair color changes.
+The groom is another adult Chinese man, slightly chubby, with black hair, clearly different in appearance from the male lead, wearing formal groom attire.
+There are multiple adult male guests at the wedding venue, each with red, blue, purple, yellow, or orange hair, including another man with green hair. Their appearances, heights, body types, hairstyles, and suits are all different. Dyed hair retains real strands, roots, and luster, not looking like colored wigs or glowing.
+[0-7s: Daily Couple Conversation]
+Ordinary city park or residential area downstairs, evening, natural soft light, slight ambient life sounds in the background.
+The girl and boy sit side by side on a bench. Use a medium close-up of two people, clearly identifying their faces. The girl turns to look at the boy, holding his hand, speaking affectionately, seriously, with a bit of coquettishness, as if casually mentioning something romantic. The boy looks at her deeply.
+The girl says completely and clearly:
+"Baby, if the person marrying me in the future isn't you, then you must dye your hair green to attend my wedding, so I can spot you at a glance."
+Spoken at a natural, slightly fast, coherent daily pace, not deliberately drawn out, no swallowed words, no mechanical acceleration. While the girl speaks, the boy looks at her listening, showing a faint smile that is both touched and puzzled, without adding a reply.
+Maintain continuous performance, clearly establishing the male lead's face. The girl does not smirk ahead of time, does not wink at the camera, does not preview the later twist.
+[7-9s: Hard Cut to Future Wedding, First See Same Face, Then Green Hair]
+As soon as the girl finishes the last word "you", immediately hard cut to the hotel wedding scene. Ambient sound synchronously switches from outdoor life sounds to applause and blurred voices in the banquet hall.
+Cut to a frontal close-up of the same male lead's face. The top edge of the initial frame is cropped below the hairline, temporarily hiding the hair, letting the audience recognize him as the boy from just before.
+He sits in the wedding guest seats, wearing a suit, with a slightly constrained expression, carrying complex anticipation, eyes directed towards the entrance aisle.
+The camera then slowly and steadily moves backward, gradually revealing his full head—he has dyed green hair.
+The green color is seen by the audience for the first time at this moment. He was already green-haired from the start of entering the wedding shot, no on-site color-changing effect appears.
+[9-12s: Bride and Groom Entrance, Other Hair Colors Gradually Appear]
+The camera continues to move backward, expanding from close-up to medium shot, making slight horizontal adjustments to keep the green-haired male lead on one side of the frame, gradually revealing the central wedding aisle.
+The scene is a real hotel banquet hall arranged for a Western wedding, with light-colored floral arrangements, white or beige chairs, warm ceiling lights, and a carpeted entrance aisle. Lighting has clear sources, the wedding dress retains fabric details, no dreamy fairyland effects.
+On the background aisle, the girl from the opening wears a wedding dress, holding arms with the slightly chubby groom, entering slowly. The groom's appearance and body type are clearly different from the green-haired male lead.
+The male lead originally looked at the bride, barely maintaining a faint smile. As the camera pulls back, a male guest with red hair and a male guest with blue hair enter the frame near him successively.
+He inadvertently glances at the red-haired man beside him, his smile pauses slightly, then looks at the green-haired man on the other side, eyebrows moving lightly, starting to feel something is wrong.
+[12-15s: Revealing More Colored-Hair Men, Male Lead Looks Around in Surprise]
+The camera continues to move backward along the same trajectory, expanding to a wider view containing the male lead, surrounding rows of guests, and the wedding aisle. The wedding segment remains continuous, no more cuts.
+More male guests with different hair colors gradually enter the frame: purple, yellow, orange, and another red-haired man who differs from the male lead in appearance, body type, and hairstyle.
+Including the male lead, about six to eight men with colored hair are scattered sitting in adjacent rows, interleaved with ordinary black-haired guests. Not all guests have dyed hair, nor do they form a neat rainbow line.
+They are all different: some thin, some sturdy, some slightly chubby; some buzz cuts, some side-parted short hair, some slightly curly. Suits are black, dark blue, gray, brown, with obvious differences in fit, ties, and shirt combinations, looking like independently invited real wedding guests.
+These people have been sitting in their original positions since the start of the wedding shot, just blocked from the initial tight composition, becoming visible as the camera moves backward, cannot appear out of nowhere or suddenly dye their hair.
+The male lead looks left first, then right, finally turning slightly to look diagonally behind, discovering another green-haired man. His expression changes from confusion to surprise and embarrassment, lips slightly parted, as if finally realizing he might not be the only one who received such a promise.
+Other colored-hair men mainly continue watching the wedding, some may briefly make eye contact with him, not collectively turning heads or reacting in sync.
+The ending simultaneously preserves the male lead's surprised look around, surrounding men with different hair colors, and the bride and groom continuing to enter in the background. The screen ends naturally, no extra dialogue to explain the punchline.
+[Cinematography, Performance, and Realistic Atmosphere]
+Opening uses natural daylight, wedding uses warm indoor hotel lighting. Skin tones are normal, retaining skin texture, suits have real wrinkles, wedding dress has weight, dyed hair has natural light and dark layers.
+The first half feels like a real couple chatting casually, the second half feels like an awkward discovery happening at a real wedding scene. The male lead expresses emotions through eye contact, micro-expressions, and looking left and right, no cartoonish wide-eyed staring, mouth-opening, or face-covering actions.
+The wedding pull-back uses actual camera backward movement, steady speed, arranging guest positions in advance so different hair colors enter the frame sequentially. After pulling back, gradually increase depth of field, ensuring the relationship between the male lead, colored-hair guests, and background newlyweds is discernible, never blurring surrounding characters into color blocks.
+No retro DV quality, exaggerated hand shake, fisheye, sudden zoom, high-speed orbit, slow motion, plastic skin, or heavy filters.
+[Sound]
+Opening retains the girl's dialogue and slight outdoor life sounds. After hard cut, enter natural applause, fabric rustling, chair creaking, and blurred conversations in the hotel banquet hall.
+Dialogue accurately matches the girl's lip movements, male lead does not speak for her or interrupt. No clear dialogue added in the wedding segment.
+No narration, no background music.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106953873076486145/img/IOpYXcKBoJQlAILi.jpg" width="600" alt="Seedance Video Prompt for Comedy Wedding Story">
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11920)**
+
+**作者:** [探路AI](https://x.com/TanLuAI) | **ソース:** [Link](https://x.com/TanLuAI/status/2106955448352231762) | **公開日:** Oct 5, 2026
+
+---
+### シネマティックなトラ戦士アクションシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 廃墟となった都市で特殊効果とともに戦う擬人化トラ戦士を描く、高エネルギーなシネマティック・アクションシーンの詳細な動画生成プロンプト。
+
+#### 📝 プロンプト
+
+```
+煙と炎に包まれ、崩れゆく建物に囲まれた廃墟の街を舞台に、力強い擬人化されたオレンジ色のトラ戦士が登場する、14.6 秒間のシネマティックなアクションシーンを作成してください。冒頭ではトラが敵対者を威嚇するように向かい合い、その後、カメラが劇的に追従しながら、躍動的なマーシャルアーツの動きで空中高く跳び上がります。次に、鋭い目つき、細部まで描かれたオレンジ色の毛並み、ひげ、そして獰猛な表情に焦点を当てた、トラのリアルな顔の激しいクローズアップへカットします。人間のような相手に対し、素早いパンチとキックで戦闘を継続し、キャラクターの外見や解剖学的構造の一貫性を保ってください。攻撃中に強力な青いエネルギー衝撃が発生し、続いて廃墟の街で大規模な火災爆発が起こります。炎、飛び散る破片、濃い煙、火花、そして環境全体に広がる現実的な破壊描写を見せます。トラは前景に自信満々に着地し、背後には燃え盛る廃墟が光り輝き、ドラマチックなヒーローのシルエットを作り出します。滑らかなシネマティックなカメラワーク、リアルな物理演算、劇的なライティング、詳細なテクスチャ、強力なアクション振り付け、そして高品質な 3D アニメーション throughout を使用し、テキスト、ウォーターマーク、キャラクターの歪みは一切含めないでください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106938524784328704/img/pXh4xaDoupeUx4Bw.jpg" width="600" alt="シネマティックなトラ戦士アクションシーン">
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11914)**
+
+**作者:** [Maha](https://x.com/Aiwithmaha) | **ソース:** [Link](https://x.com/Aiwithmaha/status/2106938584431526162) | **公開日:** Oct 5, 2026
+
+---
+### エピック シネマティック トレーラー風ビデオ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 参照画像を使用して、エピックなシネマティックトレーラー風の動画を生成するためのプロンプトです。超詳細レンダリング、Unreal Engine 5 の美学、品質管理のための具体的なネガティブ制約を強調しています。
+
+#### 📝 プロンプト
+
+```
+参照画像 1 を使用して、エピックなシネマティック動画を作成してください。
+：エピックなシネマティックトレーラーの美学、実写スタイル、IMAX、16K、超詳細レンダリング、フルフレームの動的パーティクル効果、Unreal Engine 5、レイトレーシング、爆発的なディテール。スタイル要件：美的な美しさ、病的な美しさ、壮大な勢い、退廃的な美しさ、断片的な美しさ、悲劇的な荘厳さ、哀愁を伴うもの。[制約とネガティブ] 低彩度のクールグレー + アンバーアクセント、物理ベースの流動的な動き。ネガティブ：低品質、カクつき、顔/体の崩壊、過剰な明るさ、過度なグロテスク表現、硬い動き、ウォーターマーク、T ポーズ、明るいパレット、派手な VFX、硬直したカメラワーク、速度感/ブラーの欠如、弱いキル演出。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106923772372738048/img/p-_o3Q13K4Hbb2lw.jpg" width="600" alt="エピック シネマティック トレーラー風ビデオ">
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11915)**
+
+**作者:** [Zidan 子丹](https://x.com/liluocheng13) | **ソース:** [Link](https://x.com/liluocheng13/status/2106923884931166241) | **公開日:** Oct 5, 2026
+
+---
+### 都市高速スケート
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 混雑した都市の街路を高速で滑走する、リアルなモーションブラーとハンドヘルドカメラ風の映像を生成するための、シンプルで「手抜き」のプロンプト。
+
+#### 📝 プロンプト
+
+```
+混雑した都市の街路を高速でスケートする少女。人々を避け、小さな障害物を飛び越え、車や自転車をかき分けて進む。速いカット割り、モーションブラー、ハンドヘルドカメラのような質感、エネルギッシュな雰囲気、リアルな環境描写、高ディテール。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106921938576883712/img/9S6CRhiy0KGRQiZh.jpg" width="600" alt="都市高速スケート">
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11917)**
+
+**作者:** [Zidan 子丹](https://x.com/liluocheng13) | **ソース:** [Link](https://x.com/liluocheng13/status/2106922065240731732) | **公開日:** Oct 5, 2026
+
+---
+### 宇宙都市：小惑星防衛
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 移動する宇宙都市が敵艦隊に対し、小惑星を防御シールドとして操作する15秒のSF映画風ショート動画の詳細なプロンプト。
+
+#### 📝 プロンプト
+
+```
+15 秒の写実的な SF アクションショートフィルム、16:9。
+巨大な未来都市が、膨大な小惑星の嵐の中を深宇宙を旅している。
+数千隻の宇宙船が都市に並走し、常に動く防御シールドへと小惑星を積極的に操作している。
+突如、敵艦隊が攻撃を開始する。
+数百機の戦闘機が小惑星帯へ急降下する。
+都市は加速する。
+小惑星が攻撃中の艦艇に衝突する。
+防御用の宇宙船が巨大な岩石の間を疾走し、それらを新たな軌道へ押し出す。
+巨大な敵戦艦が小惑星シールドを突破し、都市へ直接砲撃を加える。
+突然、都市全体が方向転換する。
+小惑星帯もそれに追随して移動する。
+数百万個の岩石が、巨大な機械生命体のように都市の周囲で陣形を整える。
+攻撃中の戦艦は、小惑星帯そのものが都市の武器であることを遅すぎる段階で悟る。
+巨大な衝撃が画面を埋め尽くす。
+最後に、都市が動き続ける嵐の中へ消えていくシーンで終わる。
+
+写実的なハード SF、壮観な小惑星環境、容赦ない戦闘、巨大な可動構造、高速カメラワーク、詳細な宇宙船描写、圧倒的なスケール感、シネマティックなアクション、テキストなし、ロゴなし、アニメ調なし、カートゥーン調なし。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106842175623344128/img/8HYLYow99mg-lBVf.jpg" width="600" alt="宇宙都市：小惑星防衛">
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11919)**
+
+**作者:** [Alexandra Aisling](https://x.com/AllaAisling) | **ソース:** [Link](https://x.com/AllaAisling/status/2106852107114418554) | **公開日:** Oct 4, 2026
+
+---
+### Seedance 2.0 Mini シネマティック護衛戦闘プロンプト
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 Mini を使用して、古代中国の仙侠世界を舞台にした15秒間のシネマティックな護衛戦闘シーンを生成するための詳細なプロンプトです。参照画像に基づき、キャラクターと場所を厳密に固定しています。
+
+#### 📝 プロンプト
+
+```
+シネマティックなフォトリアルな質感、純粋な古代中国仙侠アクション映画、15秒、16:9、Seedance 2.0 Mini。
+このラウンドは静止した決闘ではなく、「新しい武器に持ち替える → 主人公が観察する → 反撃する → 剣が喉元に止まる」という古いパターンを繰り返すのでもありません。
+コアとなるアクションの動機は以下の通りです：
+現在の参照画像に表示されている実際の高地にある御道（皇帝の道）で発生する移動中の護衛戦闘。
+同じ「大師姐」と「小師妹」は、背後にいる負傷した師匠、弟子たち、そして避難している一般市民を守りながら、常に前方へ進み続けなければなりません。
+敵の真の目標は、必ずしも二人の主人公を倒すことではありません。
+彼らがやりたいことは：
+二人の主人公が形成する防御線を突破すること；
+避難している群衆の中に切り込むこと；
+前進のための道を封鎖すること。
+したがって、この戦闘全体のコアは：
+**前方の封鎖を破る
+後方の追跡者を阻む
+二人の主人公が前後の位置を絶えず入れ替える
+常に道を再び開く。**
+アクションは滑らかさを追求しますが、決して弱々しくあってはなりません。
+滑らかさとは：
+前のアクションが自然に次のアクションへつながること；
+キャラクターが常に移動していること；
+攻撃と防御がゼロからリセットされないこと；
+武器の方向とキャラクターの方向が常に理解可能であること；
+斬撃の後でも、誰が前にいて、誰が後ろにいて、どこから攻撃されているかが明確であること。
+力は以下から生まれます：
+突然の開始；
+明らかな加速；
+実質的な衝突；
+重心の変化；
+力の相殺；
+不均衡；
+慣性；
+逆の掴み合い；
+急停止；
+即時の再開。
+柔らかくダンスのような剣術を禁止します。
+一度攻撃した後ポーズをリセットすることを禁止します。
+敵には現実的な判断が必要です。
+最初の戦略が失敗した後、ターゲットを変更し、攻撃ルートを変え、追跡し、道を封鎖し、側面を突くか、二人の主人公を積極的に引き離さなければなりません。
+敵が並んで攻撃を提供することを禁止します。
+[コアキャラクターロック]
+@Image 1 と @Image 2 のみを、それぞれの主要な武器とともに二人のコア主人公として厳密にロックしてください。
+@Image 1 は常に以前と同じ「剣仙大師姐」です：
+同じ成人東アジア人女性のアイデンティティ；
+25〜30歳；
+同じ顔；
+黒いロングヘアのハーフアップ；
+白い玉の髪飾り；
+背が高く細身の体型；
+白地に刺繍のある絹の漢服；
+半透明のレイヤー構造の広い袖；
+銀色のウエストサッシュ；
+玉のペンダント；
+白い布のブーツ；
+作品全体で唯一の銀色の直剣。
+@Image 2 は常に以前と同じ「小師妹」です：
+同じ成人東アジア人女性のアイデンティティ；
+20〜25歳；
+同じ顔；
+黒い編み込みヘア；
+小柄な体型；
+青緑色の麻の漢服；
+暗い色のベルト；
+木製の髪飾り；
+黒い布靴；
+作品全体で唯一の暗い鋼鉄の剣。
+敵、師匠、弟子、一般市民、および傍観者はすべて単なる機能的な脇役です。
+脇役の顔、髪型、複雑な衣装を厳密にロックするために生成の注意を無駄にしないでください。
+ショット内でキャラクターの種類、位置、武器、アクション機能が論理的に連続していることを確認するだけで十分です。
+[ラウンド固有のシーンハードアンカー | 最優先]
+このラウンドでアップロードされた背景参照画像は、完全に認識可能な場所を表示しています。
+したがって、このラウンドでは直接：
+ハードロケーションアンカーに入ります。
+参照画像はスタイルのインスピレーションではありません。
+動画全体は、参照画像に表示されている同じ高地にある天宮の御道上で実際に展開されなければなりません。
+「似たような仙侠の場所」に再設計することを禁止します。
+以下の場所のアイデンティティを継続的に維持する必要があります：
+フレームの中心軸には、常に前景から遠方の中心へと伸びる、非常に長く真っ白な高地の御道が含まれます。
+御道は常に狭い奥行きを維持します；キャラクターは主に前後方向に移動します；円形アリーナ、巨大な中庭、または広い広場に拡張することを禁止します。
+御道の左右両側には、常に同じ巨大な高地の断崖、乳白色の雲海、そして連続する大きな滝があります。
+中景の左右には、元の左右の位置、体積、御道との空間関係を維持したまま、同じ巨大な伝統的な宮殿群が含まれ続けます。
+左前景には、非常に目立つ大きな暗い片持ち式木造構造物が引き続き残ります；密集した木造構造が消えたり、通常の小さな建物に縮小したりしてはいけません。
+御道の下と霧の下には、同じ規模の密集した古代都市が引き続き維持されます。
+最も遠い中心部には、同じ巨大な山体/超構造物が含まれ続けます。
+遠方の中心部には、同じ巨大なリング状の門/リングビルディングが引き続き残ります。
+キャラクターは常に御道、宮殿、滝、下部の都市、遠方の超構造物よりもはるかに小さく描かれます。
+元の参照画像と同じ明るいクールな白灰色、淡い暖かい金色、低彩度の昼間/朝の光、乳白色の大気ヘイズ、そして巨大な奥行きを維持します。
+遠方の巨大なリングは常に非常に遠くに保たれなければなりません。
+急に近づけて通常の山門にすることを禁止します。
+現在の御道を以下のように再生成することを禁止します：
+円形アリーナ；
+通常の中庭；
+広い広場；
+別の雲橋；
+新しい浮遊プラットフォーム；
+新しい山門；
+新しい浮遊島；
+新しい崖；
+新しい宮殿入口；
+新しい大階段。
+戦闘のために御道を急に広くすることを禁止します。
+昼が夜になることを禁止します。
+現在の穏やかな天候を嵐の暗い雲に置き換えることを禁止します。
+すべてのアクションとカメラは、現在の実際の御道に適応しなければなりません。
+アクションのためにシーンを再設計することを禁止します。
+[背景ダイナミクス | 生きている必要があるが、デフォルトではプロットに参加しない]
+シーンは継続的に自然に動きます。
+遠くの雲はゆっくりと動きます。
+巨大な滝は現実に下方へ落ち続けます。
+滝の底の水霧は渦巻き、既存の雲海と融合し続けます。
+異なる距離にある雲層と霧層はわずかに異なる速度を維持し、現実的な視差を生み出します。
+高地の自然風は、二人の主人公の黒髪、広い袖、裾、タッセル、アクセサリーに継続的に影響を与えます。
+遠くの古代都市と宮殿の間にある薄い霧は、ゆっくりと動き続けます。
+空気遠近法は微妙な変化を継続的に生み出します。
+数人の遠くの人物は、参照画像に既に存在するエリア内で自然に動くことができます。
+しかし：
+環境はデフォルトで物語的に中立です。
+滝は突然誰かを助けることはできません。
+霧は敵を積極的に隠すことはできません。
+風は剣の軌道を変えることはできません。
+建物は勝手に崩壊することはできません。
+御道は破壊されることはできません。
+遠方のリングは突然呪文を発動させることはできません。
+環境は戦闘を積極的に解決することはできません。
+キャラクターが実際に踏み込み、急停止し、または武器で衝突した場合のみ、わずかな石の粉塵、傷、金属の火花、布地のずれ、靴底の摩擦による破片を許可します。
+すでに現れた明らかな痕跡は合理的に残存すべきです。
+[0–5s | フック：退却できない]
+0.0–1.0s。
+24mm 超広角の中心軸グランドパノラマを使用します。
+まず場所を再現します；場所の優先度は複雑なアクションよりも高いです。
+最初の視線で確認しなければならないのは：
+同じ長い白い御道；
+左右にある同じ巨大な滝；
+左右にある同じ大きな宮殿；
+左にある同じ大きな木造構造物；
+下にある同じ古代都市；
+同じ巨大な遠方のリング。
+二人の主人公は巨大な環境の中で小さいスケールを保ちます。
+大師姐は前です。
+小師妹は半歩後ろです。
+さらに後ろの距離に、負傷した老いた師匠、数人の弟子、そして数人の一般市民が同じ御道に沿って前進を続けています。
+二人の敵の剣士が前方の道を塞いでいます。
+先頭の敵は横に構えた剣で有効な通路領域を塞ぎます：
+「彼らを守っている限り、通さない。」
+大師姐は一切立ち止まりません：
+「誰が退却と言った？」
+最後の言葉が終わると同時に。
+敵は予告なく攻撃を開始します。
+カメラはすぐに固定グランドパノラマから、御道軸に沿って後退する約32–35mmのトラッキングショットへ移行します。
+最初の敵は大師姐の中心線を素早く奪取します。
+大師姐は後ろへ退却しません。
+最後の瞬間まで、彼女は半身幅だけ斜めにずれるだけで、同じ銀色の直剣を使って短く硬い実質的な衝突を行い、敵の剣を御道の中心軸から押し出します。
+フォローアップストライクはありません。
+ポーズもありません。
+彼女はすぐに敵の肩越しに前方へ進みます。
+ほぼ同時に。
+二人目の敵は反対方向から小師妹へ切りかかり、彼女を迂回して背後の群衆を攻撃しようとしています。
+小師妹は敵を無闇に追いかけません。
+彼女は敵と避難中の群衆の間のポジションへ直接突入し、暗い鋼鉄の剣で相手の攻撃ラインを一時的に変えるだけで、そのまま前方へ進みます。
+一人の敵がカメラのすぐそばを素早く通過し、体が瞬時に画面を満たし、最初の自然な隠しカットを形成します。
+0–5秒の終わりまでに、視聴者は明確に理解しなければなりません：
+彼らは勝つために留まっているのではない。
+道を奪還しているのだ。
+[5–10s | アップグレード：敵は真のターゲットを攻撃し始める]
+完全に同一の御道、左右の宮殿、滝、遠方のリング、世界スケールを維持します。
+橋軸に沿って移動する約35mmのミディアムショットトラッキングを使用します。
+最初の攻撃が失敗した後、敵は積極的に戦略を変更しなければなりません。
+敵リーダーは大師姐との正面対決に固執しなくなります。
+彼は突然ターゲットを変更し、大師姐を迂回して、小師妹と避難中の群衆の間を切り込もうとします。
+別の敵が同時に反対方向から大師姐を圧迫し、二人の主人公を本当に引き離そうとします。
+アクションは連続的な因果連鎖を形成します：
+敵の水平斬りが大師姐を御道中心線から一時的に逸脱させます；
+大師姐は短い力の解放のみを行い、絡み合いを続けません；
+敵が投入した衝撃の慣性が、体を最適な攻撃位置からわずかにオーバーシュートさせます；
+小師妹は前方へ進み続けます。
+先頭の敵は小師妹の右前方から突然斜めに切りかかります。
+小師妹は最初の打撃を受け止めます。
+敵は一時停止せず、すぐに低い位置への二番目の攻撃に変更します。
+小師妹は御道中心線へ半歩縮めざるを得なくなります。
+敵が彼女を封じたと判断したまさにその瞬間——
+大師姐は小師妹の背後から突然高速で反対側へ駆け抜けます。
+二人は最初の極めて速い前後ポジション交換を完了します。
+ダブル回転ではありません。
+同期ポーズでもありません。
+前方への動きを維持しながらの、コンパクトな肩越しのポジションスワップです。
+大師姐は元々小師妹を圧迫していた敵を直接引き受けます。
+小師妹は開かれた半分の経路に沿って前方へ進み、新しいフロントポジションになります。
+カメラは二人の実質的なポジション交換により、短い横移動のみを行います。
+敵の剣がレンズをかすめ、自然なオクルージショントランジションを形成します。
+根拠のないオービットを禁止します。
+この瞬間。
+高速の追跡足音が背後から聞こえます。
+当初はもっと後ろにいた機能的な追跡者が到着しました。
+前方には道を塞ぐ者。
+後方からは追跡者。
+二人の女性は狭い御道という最も危険な状況で初めて真正面から挟撃されます：
+前後からの挟撃。
+[10–15s | フリップ：人を守るのではなく、道を守る]
+約28–32mmの移動ミディアムショットへ再度広げます。
+ほぼ1秒かけて現在の空間を完全に説明します：
+小師妹は前；
+大師姐は約一人体長後ろ；
+前方の敵リーダーが中心線を再占領；
+後方の追跡者が高速で接近；
+避難中の師匠、弟子、一般市民はまだより安全な遠い位置で移動中。
+全員が参照画像からの同じ実際の御道上にいます。
+他のプラットフォームへ突然カットすることを禁止します。
+前方の敵と後方の追跡者はほぼ同時に攻撃を開始します。
+小師妹は本能で振り返ろうとします。
+大師姐はただ言います：
+「私を守らないで。」
+小師妹は振り返るのをやめます。
+大師姐はすぐに続けます：
+「道を守って。」
+二人はほぼ同時に爆発します。
+小師妹は大師姐を救うために振り返りません。
+彼女は前方へ進み続け、短く硬い暗い鋼鉄の剣の衝突で、前方の敵の刃先を御道の中心軸から強制的に押し出します。
+大師姐は同時に後方の追跡者を処理します。
+彼女は意図的に半歩譲り、敵を本当に攻撃範囲内に入れます。
+相手の体の力が投入されたまさにその瞬間、彼女は攻撃軸から斜めに突然切り出します。
+追跡者自身の前方への勢いが、体を半身長ほどオーバーシュートさせます。
+大師姐は追いません。
+すぐに再び前方へ加速します。
+この時、小師妹はすでに前方の敵を中心線から半身長押し離しています。
+二人の主人公は高速で接近します。
+肩ラインが極端に近い距離でかすめます。
+二度目の前後ポジション交換を完了します。
+今回、互いを見ません。
+小師妹は自然に後方ポジションへ下がり、振り返って追跡してきた敵を引き受けます。
+大師姐は再び前方ポジションになり、まだ道を塞いでいる先頭の敵に向き合います。
+敵の剣がカメラの前景を掃き、瞬時に画面を満たし、作品全体で最も明白な武器オクルージョンハードカットを形成します。
+やや低いリバースカメラポジションへカットします。
+大師姐は銀色の剣で、極めて短く、極めて激しい外側への偏り動作のみを行います。
+リーダーの剣軌道は御道の中心軸から完全に押し出されます。
+彼の体重はすでに前方へ投入されていたため、彼の慣性が体を約二人体長横へ運びます。
+敵は橋から落ちることはできません。
+誇張されて吹き飛ばされることもできません。
+完全に戦闘能力を失う必要もありません。
+道を空けるだけで十分です。
+大師姐と小師妹は絶対にフィニッシュブローを与えるために立ち止まりません。
+二人は敵の間を直接通過し、遠方の巨大なリングに向かって同じ白い御道を進み続けます。
+後方の避難群衆も、再び開かれたルートを辿り始めます。
+敵リーダーは振り返り、怒鳴ります：
+「お前たちは勝てない！」
+ヒーロー的な正面クローズアップへカットしないでください。
+カメラは二人の女性が側面後方から進んでいくのを追跡し続けます。
+小師妹はまだ呼吸を整えています：
+「私たちは最初から勝つためにここに来たんじゃない。」
+大師姐は常に前方の道を見ています：
+「道があるなら、それで十分だ。」
+極めて短いビートを残します。
+同じ遠方の御道のさらに奥深くで、当初から遠景の人物層に存在していた数人の機能的な敵が、ゆっくりと広がり始め、次ラウンドの道を塞ぐポジションへ入ります。
+霧の中から凭空に生成することを禁止します。
+建物から突然リフレッシュすることを禁止します。
+彼らは当初から実際の距離に存在しており、この瞬間に動きによって敵意を露呈しただけです。
+二人の主人公は全く減速しません。
+銀色の剣と暗い鋼鉄の剣は、自然な低い位置での構えを維持します。
+カメラは御道軸に沿って後退し続けます。
+黒髪、裾、滝、霧、雲、遠方の宮殿、そして巨大な世界は常に自然に動きます。
+二人がまだ次の敵グループへ積極的に歩いていく状態のまま：
+直接ブラックアウトへカットします。
+[カメラ＆編集]
+三つのナラティブセグメントですが、絶対に機械的に三つのショットに等分してはいけません。
+作品全体は、少量の真に機能するカットを使用します。
+メインカメラルート：
+24mm 中心軸グランドパノラマで実際の場所を確認 → 既存の御道軸に沿って後退する32–35mmトラッキング → 人間の体がレンズを通り抜け隠しカットを形成 → 武器がレンズをかすめオクルージョンカットを形成 → 前後挟撃が発生したとき、空間を説明するためにショットを広げる → 最後に側面後方から遠方のリングへ進む二人の主人公を追跡し続ける。
+すべてのカットは、以下のイベントによってのみ自然にトリガーされます：
+キャラクターのオクルージョン；
+武器のオクルージョン；
+実質的な武器衝突；
+移動方向の明らかな変化；
+明らかな体の不均衡；
+速度の急激な変化。
+機械的な断片的なカットを禁止します。
+カメラがアクションよりも落ち着かないことを禁止します。
+意味のないORBITを禁止します。
+カメラワークのために御道、宮殿、滝、遠方のリングの位置を変更することを禁止します。
+アクションがカメラを駆動します。
+カメラがシーンの変形を駆動することはできません。
+[サウンド]
+冒頭で最初に確立するのは：
+高地の自然風；
+遠方に継続的に存在する巨大な滝の低周波の轟音；
+明るい石の御道の上の足音；
+極めて遠い古代都市の環境ノイズフロア。
+戦闘の爆発後に追加するのは：
+短く鋭い剣の風切り音；
+硬く鋭い金属衝突音；
+靴底の摩擦音；
+絹布の引き裂かれる音；
+追跡者の速い足音；
+徐々に重くなるキャラクターの呼吸。
+前後挟撃が形成されたとき、音楽と広い環境音フィールドを一時的に下げます。
+ハイライトするのは：
+足音；
+呼吸；
+武器の方向。
+道が再び開かれた後、戦闘音はキャラクターの背後で徐々にフェードアウトします。
+最終的な会話は明確でなければなりません：
+「私たちは最初から勝つためにここに来たんじゃない。」
+「道があるなら、それで十分だ。」
+会話の終了後：
+滝；
+高地の風；
+継続的な前方への足音
+が主な音フィールドを再占領します。
+音楽は絶対にアクションディテールと会話を上書きしてはいけません。
+[Seedance 2.0 Mini 生成優先度]
+P0: アップロードされた背景参照画像の場所のアイデンティティは絶対に変更できません。
+P0: @Image 1 と @Image 2 コアキャラクターのアイデンティティ安定性。
+P1: 銀色の直剣と暗い鋼鉄の剣の帰属と連続性の安定性。
+P1: 同じ御道上での明確な前後空間関係。
+P1: キャラクターの前方方向、敵の攻撃方向、カメラ軸の連続性。
+P2: 敵、師匠、弟子、一般市民の具体的な顔と複雑な衣装。
+モデルの複雑さを減らす必要がある場合：
+まず脇役の詳細を減らす；
+次に余分な攻撃ムーブを減らす；
+その後装飾的な視覚効果を減らす。
+絶対に犠牲にしてはいけないもの：
+参照画像の場所のアイデンティティ；
+コア主人公のアイデンティティ；
+アクションの因果関係；
+空間の連続性。
+[ネガティブ制約]
+現在の高地御道を円形アリーナに変えることを禁止します。通常の中庭に変更することを禁止します。広い広場に変更することを禁止します。別の雲橋を追加することを禁止します。独立した山門を追加することを禁止します。浮遊島を追加することを禁止します。戦闘プラットフォームを追加することを禁止します。左右の巨大な滝を削除することを禁止します。左右の大きな宮殿を削除することを禁止します。左の巨大な片持ち式木造構造物を削除することを禁止します。下部の密集した古代都市を削除することを禁止します。遠方の巨大なリング構造を削除することを禁止します。遠方の巨大なリングを近づけて通常の門塔にするのを禁止します。遠方の宮殿と中景の建物の相対位置を変更することを禁止します。昼が突然夜になることを禁止します。嵐の暗い雲で現在の穏やかな天候を置き換えることを禁止します。アクションのために御道を広く変更することを禁止します。カット後に御道の幅を変更することを禁止します。環境が積極的にプロットに参加することを禁止します。突然の橋の破壊を禁止します。建物が勝手に崩壊することを禁止します。霧が敵を積極的に隠すことを禁止します。滝が突然攻撃を変えることを禁止します。風が突然剣の軌道を変えることを禁止します。軌跡なしでキャラクターがテレポートすることを禁止します。二人の主人公が理由なくポジションを入れ替えることを禁止します。ランダムな大面积の剣気を禁止します。エネルギー波の衝突を禁止します。光害を禁止します。敵が並んで攻撃を提供することを禁止します。敵が長時間受動的であることを禁止します。長時間の武器の押し合いを禁止します。一度の動き後にキャラクターが待機することを禁止します。意味のない回転を禁止します。意味のないPosesを禁止します。遅いモーションブラーでキャラクターと武器を不明瞭にすることを禁止します。慌ただしいカメラシェイクを禁止します。実際のアクションの代わりに連続的な顔のクローズアップを禁止します。アクション中に腕、指、武器がモデルを貫通することを禁止します。主人公の武器の複製を禁止します。キャラクターの顔のスワップを禁止します。ランダムな衣装変更を禁止します。背景の突然のドリフトを禁止します。字幕を禁止します。
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106728656399970304/img/DeUvkEJCnbRcNZ9b.jpg" width="600" alt="Seedance 2.0 Mini シネマティック護衛戦闘プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11921)**
+
+**作者:** [Soran](https://x.com/Soranlan) | **ソース:** [Link](https://x.com/Soranlan/status/2106728692986843641) | **公開日:** Oct 4, 2026
+
+---
+### Seedance 2.0 偽りの決闘・罠アクションプロンプト
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 二人の女剣士が隠れた暗殺者を暴くために決闘を装う、シネマティックな仙侠アクションシーンを生成するためのプロンプト。ダイナミックな戦闘の流れと、キャラクター・環境の一貫性を厳密に保つことに焦点を当てています。
+
+#### 📝 プロンプト
+
+```
+シネマティックなフォトリアルな質感、純粋な古代中国仙侠の高緊張感ある剣術アクション映画。
+
+従来のパターンを完全に打破する：
+
+先輩姉妹が武器を切り替えて対抗する
+全方向からの突破
+二つの補完的な死角
+
+コアコンセプト：
+
+先輩姉妹と後輩姉妹は本当に危険な決闘をしているように見えるが、実際には潜伏中の暗殺者を露出させるための罠として利用している。
+
+3層構造のナラティブ目標
+レイヤー1 フック: 観客に本物の戦いだと信じ込ませる
+レイヤー2 ツイスト: 互いの剣勢を通じて空間を制御していたことを明かす
+エンディングフック: 第2波の敵はまだ現れていないというサスペンスを残す
+
+一般的なアクション原則
+
+動作は滑らかでなければならないが、決して弱々しくあってはならない。
+
+滑らかさ (Smoothness)
+
+定義:
+前の動作が自然に次の動作を生み出す
+
+移動方向が連続的に拡張される
+カメラ、身体、剣軌道の間に明確な因果関係がある
+力強さ (Power Sense)
+
+定義:
+突然の開始
+
+激しい接触
+力の偏向
+身体のバランス崩壊
+慣性の継続
+急停止
+キャラクター＆武器ロック
+
+@image 1 と @image 2 のコアキャラクターと専用武器のみを厳密にロックする。
+
+@image 1 | 剣仙先輩姉妹
+
+同じ @image 1 先輩姉妹は常に以下を維持する:
+
+同じ成人東アジア女性顔
+25〜30歳の外見
+
+黒いロングヘアの半分結び
+白い翡翠の髪飾り
+背が高く細身の体型
+白地に刺繍のあるシルク漢服
+半透明の広い袖
+銀色の腰帯
+翡翠のペンダント
+白い布製のブーツ
+独自の銀色の直剣
+@image 2 | 後輩姉妹
+同じ @image 2 後輩姉妹は常に以下を維持する:
+
+同じ成人東アジア女性顔
+20〜25歳の外見
+
+編み込みの黒髪
+小柄な体型
+青緑色のリネン漢服
+濃い色のベルト
+木製の髪飾り
+黒い布靴
+独自の暗色鋼鉄の剣
+その他のキャラクター
+暗殺者、師匠、弟子、通行人は機能的な存在であり、主人公のような厳格な顔/服装のロックはない。
+
+円形シーンコントロール | 最優先事項
+アップロードされた背景画像は、完全かつ高度に認識可能な場所を示している。HARD LOCATION ANCHOR モードに入る。
+参照画像は実際の物語の舞台であり、視覚的なインスピレーションではない。
+
+元の空間要素を必ず維持すること
+
+巨大な前景の石畳プラットフォーム
+
+縁に沿った連続した石の手すり
+
+手すりを超えた大規模な低霧の奥行き
+中景の密集した古代都市の屋根
+中央ホール
+遠方の高所に位置する巨大な宮殿複合体
+都市と遠方宮殿間の強い距離階層
+クールなグレーブルーの空と低霧
+遠方宮殿からの暖かい光
+マクロスケール: 小さなキャラクター、巨大な都市/宮殿
+主要なハード制約
+遠方の最高所にある宮殿は常に以下を維持しなければならない:
+非常に遠い
+
+非常に巨大な
+視覚的スケール。
+
+ミッドショット中に遠方宮殿をキャラクターの背後にある近くの門として引き寄せることは禁止。
+会場制限
+
+15秒間の戦闘全体は厳密に以下で行われる:
+
+参照画像に明示的に存在する巨大な石畳プラットフォーム
+
+および直接接続されたエリア
+
+生成禁止:
+浮遊する石橋
+
+雲の橋
+独立した門
+
+島
+新しい断崖
+新しい宮殿入口
+新しい階段
+新しい戦闘プラットフォーム
+場所のアイデンティティを変えるような大きな建物
+空間的一貫性要件
+すべてのカットの後、以下の関係は安定していなければならない:
+プラットフォーム
+手すり
+
+都市の層
+
+中央建物
+
+遠方宮殿
+
+スカイライン
+動作/カメラはプラットフォームに適応する。
+テキストで記述された動作のためにプラットフォームの形状を変更してはならない。
+背景状態
+背景は自然に生きている:
+大きな低霧が都市の層の間をゆっくり動く
+高い雲が自然に変化する
+
+遠方宮殿の暖かい光は大気/霧の影響を受ける
+髪/絹の裾はプラットフォームの風で揺れる
+
+空気的な奥行き、反射、数人の遠方の人物の微細な動き
+
+実際に以下のことが起きた時のみ:
+
+踏み込み
+
+武器の衝突
+速い衣服の通過
+局所的なフィードバックを許可:
+少量の石の粉塵
+火花
+
+裾の変位
+
+厳格に禁止:
+霧が突然敵を隠す
+手すりが壊れる
+
+宮殿が自ら変化する
+
+背景がどちらかの側のツイスト完成を手伝う
+セグメント構造
+0–5s | 偽りの決闘: 観客を騙す
+
+0.0–1.0s
+24mm固定ワイドショットを使用。
+必ず保持:
+巨大な石畳プラットフォーム
+遠方宮殿/都市のフル奥行き
+
+観客は参照画像から同じ場所であることを知っている。
+
+白衣の先輩姉妹と青衣の後輩姉妹が数メートル離れて向かい合う。
+
+安全圏の遠方には:
+
+数人の弟子
+一般の見物人
+
+同じ老いた師匠
+
+しかし彼らは背景のみである。
+セリフ
+
+後輩姉妹が囁く:
+
+「本当に引っかかる？」
+
+先輩姉妹が答える:
+
+「まず騙してみよう。」
+最後の言葉が落ちると同時に、警告なく両者が爆発的に動き出す。
+カメラは固定ワイドから約35mmの移動ミッドショットに入る。
+
+第一ラウンド 偽りの決闘
+
+先輩姉妹の最初の剣は後輩に当たるほど速いが
+後輩は最後の瞬間まで剣の外側をかするだけ
+
+その後、暗色鋼鉄の剣で低いカウンター
+先輩は回避するために回転する
+
+銀色と暗色鋼鉄の剣が初めて非常に短く、硬い実金属の衝突を起こす
+
+主要要件
+どちらもポーズを取らない
+
+衝突後すぐに次の動作へ逆転する
+白い広い袖がカメラの前を高速で通り過ぎ、最初のほとんど気づかれない自然な隠しカットを形成する。
+必要な効果
+観客に疑問を抱かせる:
+演技なのか、本当に戦っているのか？
+5–10s | レイヤー1 ツイスト: 本物の敵が出現
+
+保持:
+同一のプラットフォーム
+都市
+
+遠方宮殿のスケール
+
+剣の所有権
+35–40mmの横方向トラッキングを使用し、戦闘は前景プラットフォーム上で水平/斜めに展開され、新しい場所は発生しない。
+
+連続的な攻撃/防御
+
+姉妹たちは高速だが空間的に明確なシーケンスを完了する:
+
+先輩が突く
+
+後輩がそらす
+
+後輩は先輩によって露出した側面に沿って即座にカウンタースリップする
+先輩は剣の下をくぐる
+高速クロスで元々の位置を入れ替える
+動作ルール
+
+すべての動きは自然に連鎖する。
+前の打撃が次を生み出す。
+一動作後にスタンスをリセットしない。
+
+最初の暗殺者の露呈
+剣が交差するわずか0.5秒未満前に、遠方の群衆に混じっていた機能上の暗殺者が飛び出し、先輩の死角から攻撃する。
+
+主要要件
+偽りの決闘を絶対に中断しない。
+先輩は後輩の目のわずかな変化でのみ危険を察知する。
+後輩は先輩を攻撃しているかのように振り続ける。
+先輩は最後の瞬間に後輩の剣の下をくぐる。
+後輩の剣が肩を通り過ぎ、背後から来る暗殺者の武器を激しく叩き落とす。
+この瞬間は観客に気づかせなければならない:
+決闘は餌だった。
+第二の暗殺者の露呈
+ほぼ息継ぎなし。
+第二の暗殺者が反対側から後輩に突進する。
+
+先輩はクロスからの回転慣性を利用し、後輩の肩越しに斬りつけ、短い銀色の剣の衝突で第二の暗殺者の経路を変える。
+
+結果
+偽りの決闘は動きの中で自然に本物の四方向戦闘へと変換される。
+
+厳格に禁止
+誰かが説明のために止まること
+
+暗殺者が列を作ること
+
+師匠が遠くから静かに観察すること
+10–15s | レイヤー2 ツイスト: 容赦のない対峙
+二人の暗殺者は露呈により戦略を変える。
+二人の女性を真に分離しようとし、二方向から加速する。
+
+やや広い移動ショットを使用。
+巨大なプラットフォーム上での四人の完全な位置関係を提示し、背景には依然として古代都市/遠方宮殿が見える。
+デュアルクロススワップ
+
+姉妹たちは外側へ退却しない。
+高速でお互いに突進する。
+肩線が全速力で擦れ合い、瞬時に前後を入れ替える。
+クロスは滑らかでシームレスでなければならない。
+擦れ合う瞬間:
+
+後輩は先輩の死角を狙う暗殺者を担当する
+
+先輩は後輩に突進する暗殺者を担当する
+
+全過程で視線の接触はない。
+一人の暗殺者の武器がカメラフレームを激しく掃き、最も明確な自然な武器による遮蔽ハードカットを形成する。
+新しい逆軸へカット。
+主人公たちは完全に入れ替わる。
+最終ブレイクムーブ
+各自が極めて短く直接的な逆カウンターを行う。
+厳格に禁止
+
+巨大な剣気
+
+美しいスピン
+
+スローモーション
+結果:
+
+一人の暗殺者の武器経路は後輩によって変更され、自身の慣性により体は外側へ滑る
+もう一人の攻撃軸は先輩の銀色の剣によって変更され、最適範囲外へ強制される
+
+両暗殺者は生存しており、単にこのラウンドのチャンスを失っただけ。
+サウンドカットオフ
+
+戦闘音が突然狭くなる。
+残るのは:
+
+四人の呼吸音
+二人の主人公の剣のわずかな振動
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106642529160749056/img/ifDPxtnGu3ym2xT4.jpg" width="600" alt="Seedance 2.0 偽りの決闘・罠アクションプロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11922)**
+
+**作者:** [Soran](https://x.com/Soranlan) | **ソース:** [Link](https://x.com/Soranlan/status/2106643465094431201) | **公開日:** Oct 4, 2026
+
+---
 ### SF 戦士 廊下戦闘 プロンプト
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -420,6 +1265,25 @@ Seedance 2.0 を使用して、夜のシネマティックなストリートレ�
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11847)**
 
 **作者:** [Nadya](https://x.com/nadyamaje) | **ソース:** [Link](https://x.com/nadyamaje/status/2106554883235356947) | **公開日:** Oct 4, 2026
+
+---
+### ブリーチバイパス技法による映画館の映写技師
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 廃墟となった映画館で高齢の映写技師を描く、テキストから動画への生成プロンプト。ブリーチバイパス現像処理と具体的な撮影指示を反映したスタイルです。
+
+#### 📝 プロンプト
+
+```
+取り壊し中の地域映画館の内部。荒廃した客席の中央に一人腰かけた高齢の映写技師が、建物の消失前最後の上映を見守っている。埃まみれのベルベットの座席が彼を取り囲み、天井の一部は崩落し、壁の大きな穴から昼光が差し込み、外では建設機械が見える。映写機は稼働を続け、その光線は厚い塵煙を切り裂いている。カメラは荒廃した入口から通路を通って映写技師へゆっくりと移動し、その後彼の背後を旋回して、破損したスクリーンに投影された映像を捉える。リアルな実写撮影、ブリーチバイパス現像処理、ほぼグレーまで退色したバーガンディとゴールド、深い黒、輝くシルバーハイライト、強烈なコントラスト、重厚な35mmフィルムグレイン、微細な傷と露出の変動、感情を抑えた表現、メロドラマ的な演出なし。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106514798942752768/img/wF54JkcWicweR581.jpg" width="600" alt="ブリーチバイパス技法による映画館の映写技師">
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11916)**
+
+**作者:** [Alexandra Aisling](https://x.com/AllaAisling) | **ソース:** [Link](https://x.com/AllaAisling/status/2106515375559217226) | **公開日:** Oct 3, 2026
 
 ---
 ### Seedance 2.0 Mini 武侠バトルプロンプト
@@ -5740,244 +6604,6 @@ CGI の よう な 見た目 なし
 **作者:** [Maha](https://x.com/Aiwithmaha) | **ソース:** [Link](https://x.com/Aiwithmaha/status/2101887507059351894) | **公開日:** Sep 21, 2026
 
 ---
-### シネマティック キャラクター リファレンス シート プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 Fast を使用して、アップロードした画像から超リアルなシネマティック キャラクター リファレンス シートを生成するための包括的なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-プレミアムで超リアルなシネマティック キャラクター リファレンス シートを制作してください — プロフェッショナルな映画製作デザイン。
-
-リファレンス ロック:
-アップロードされた参照画像を、被写体のアイデンティティの唯一の情報源として使用します。
-
-顔のアイデンティティ、顔立ち、目、眉毛、鼻、唇、顎のライン、肌色、髪型、髪の色、身体の比率、年齢、認識可能な外見を最大限の精度で保持してください。
-
-性別、年齢、髪型、体型、個人的な外見に関係なく、あらゆる人物に自然に適応させます。
-
-コア コンセプト:
-アップロードされた人物を、その外見、個性、視覚的な存在感に触発された、完全に発展させたシネマティック キャラクターに変換します。
-
-被写体に合った独自のキャラクター コンセプト、衣装、アクセサリー、髪型、カラー パレット、ビジュアル アイデンティティを自動的にデザインします。
-
-キャラクター デザイン:
-プレミアムなハリウッドまたは Netflix スタイルの映画製作にふさわしい、視覚的に強力なオリジナル キャラクターを作成します。
-
-キャラクターは以下のようなタイプが考えられます: WARRIOR (戦士), VILLAIN (悪役), HERO (ヒーロー), WITCH (魔女), ROYAL CHARACTER (王族キャラクター), SCI-FI EXPLORER (SF 探検家), ASSASSIN (暗殺者), DETECTIVE (探偵), SURVIVOR (生存者), FANTASY CHARACTER (ファンタジー キャラクター), または MODERN CINEMATIC PERSON (現代のシネマティック パーソン)。
-
-アップロードされた参照画像と意図したビジュアル スタイルに基づいて、最も適切なキャラクターの方向性を選択します。
-
-キャラクター シートのレイアウト:
-
-1. ヒーロー ポートレート:
-キャラクターの顔、髪型、衣装、全体的な個性を示す、大きくドラマチックで超リアルなシネマティック ポートレートを 1 枚作成します。
-
-2. 表情:
-NEUTRAL (無表情), SERIOUS (真剣), INTENSE (激しい), SOFT (穏やか), SMILE (笑顔), ANGRY (怒り), SAD (悲しみ), MYSTERIOUS (神秘的) を含む、プロフェッショナルな表情グリッドを作成します。
-すべてのパネルで一貫した顔のアイデンティティを維持します。
-
-3. ターンアラウンド / フル ボディ ビュー:
-FRONT VIEW (正面ビュー), SIDE VIEW (側面ビュー), BACK VIEW (背面ビュー), THREE-QUARTER VIEW (斜め 45 度ビュー) でキャラクターを表示します。
-すべてのビューで一貫した衣装、身体の比率、アクセサリー、髪型を維持します。
-
-4. ポートレート バリエーション:
-異なる角度からのシネマティック クローズ アップを含めます: FRONT PORTRAIT (正面ポートレート), THREE-QUARTER PORTRAIT (斜め 45 度ポートレート), SIDE PORTRAIT (横顔ポートレート), DRAMATIC SHADOW PORTRAIT (ドラマチックな影のポートレート)。
-
-5. 衣装 & ディテール クローズ アップ:
-HEADPIECE OR HAIRSTYLE (ヘッドピースまたは髪型), COSTUME DETAILS (衣装の詳細), ACCESSORIES (アクセサリー), BELT OR WAIST DETAILS (ベルトまたはウエストの詳細), GLOVES OR HAND DETAILS (手袋または手の詳細), FABRIC TEXTURE (生地の質感), NECKLACE OR SIGNATURE PROP (ネックレスまたは象徴的な小道具) の非常に詳細なクローズ アップを表示します。
-
-6. カラー パレット:
-キャラクターの衣装とシネマティック テーマに一致するプロフェッショナルなカラー パレットを表示します。
-
-7. キャラクター情報:
-CHARACTER NAME (キャラクター名), ROLE (役割), ALIAS (別名), PERSONALITY (性格), STYLE THEME (スタイル テーマ), SIGNATURE ELEMENT (象徴的な要素) を含む、クリーンでプロフェッショナルなセクションを含めます。
-
-8. シネマティック ワールド ビルディング:
-キャラクターの世界を補完する、控えめな雰囲気のある背景または環境イラストを追加します。
-
-ビジュアル スタイル:
-プレミアム ハリウッド コンセプト アート。超リアルな写真撮影。ハイエンドな衣装デザイン。シネマティックなライティング。自然な肌の質感。リアルな生地と素材の詳細。プロフェッショナルな映画製作リファレンス シート。エレガントなエディトリアル レイアウト。控えめなシネマティックな雰囲気。鋭い顔の詳細。フォトリアリスティックなレンダリング。
-```
-
-<img src="https://cms-assets.youmind.com/media/1789970152422_3vld7y_HSnCVWybwAAnaFA.jpg" width="600" alt="シネマティック キャラクター リファレンス シート プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11053)**
-
-**作者:** [M. Asif](https://x.com/meAsifAi) | **ソース:** [Link](https://x.com/meAsifAi/status/2101515191158542788) | **公開日:** Sep 20, 2026
-
----
-### 列車雪崩ドラゴン救出アニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 で作成された、列車、雪崩、そしてドラゴンの救出を描いた15秒のシネマティックな短編アニメーションの詳細なプロンプト。
-
-#### 📝 プロンプト
-
-```
-15秒のシネマティックな短編アニメーション。
-旅客列車が雪に覆われた山岳渓谷を疾走する。
-前方で、大規模な雪崩が突然発生し、線路に向かって激しく崩れ落ちてくる。
-列車は急ブレーキをかける。
-乗客たちは窓から外を見つめ、雪と岩が山肌を轟音とともに落下していく様子を目にする。
-突如として、巨大なドラゴンが森の中から飛び出してくる。
-ドラゴンは線路のすぐそばに着地し、その巨大な翼を広げる。
-雪崩が襲いかかる。
-ドラゴンは地面に体を固定し、落下する残骸から列車を守るように盾となる。
-周囲には雪が爆発的に舞い上がる。
-列車は塞がれた線路の数センチ手前で停止する。
-先頭車両の中で、一人の少女が窓ガラスに手を押し当てる。
-疲れ果てたドラゴンは彼女の方を振り返る。
-少女は微笑む。
-ドラゴンは片方の翼を優しく下げると、雪深い森の中へと消えていく。
-
-スタイリッシュなシネマティックアニメーション、洗練されたクリーチャーデザイン、絵画的なテクスチャ、リアルな環境描写、ドラマチックな物理アクション、動的なカメラワーク、スケール感の強調、温かい感情的な結末、自然な色彩、シネマティックライティング、セリフなし、魔法の力なし、ホラー要素なし、暴力表現なし。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101414099632422912/img/vPUySBkizJaVP6E5.jpg" width="600" alt="列車雪崩ドラゴン救出アニメーション">
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11052)**
-
-**作者:** [Alexandra Aisling](https://x.com/AllaAisling) | **ソース:** [Link](https://x.com/AllaAisling/status/2101429374755262628) | **公開日:** Sep 19, 2026
-
----
-### ダークウォーリアー・ストームルーフトップ動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 雨の屋上でドラマチックな照明と水のエフェクトを伴う、鎧を着た戦士のシネマティックなアクションシーンを生成するためのプロンプト。
-
-#### 📝 プロンプト
-
-```
-超リアルなシネマティックシーン。嵐の中、濡れた屋上に立つ謎めいたダークウォーリアーが流れるような黒い鎧を纏い、力強い動的なポーズを取っている。周囲では水が劇的に飛び散り、暗く曇った空の下で強烈な雰囲気的なライティングが施されている。飛沫や動きのある水滴、背景には未来的な都市のスカイラインが見える。ドラマチックなアクション映画のような構図、リアルな布地と鎧の質感、ボリュメトリックライティング、浅い被写界深度、高解像度、HDR、8K、フォトリアル、シネマティックカラーグレーディング、縦型9:16構成。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101169609365921792/img/-IstuS_VdtsgYbeM.jpg" width="600" alt="ダークウォーリアー・ストームルーフトップ動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11012)**
-
-**作者:** [AIwithMinal](https://x.com/AIwithMinal) | **ソース:** [Link](https://x.com/AIwithMinal/status/2101169774076231947) | **公開日:** Sep 19, 2026
-
----
-### スキンケアルーチン シネマティック動画プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 明るい部屋にいる若い女性をフィーチャーし、質感とライティングに焦点を当てたフォトリアルなスキンケア広告生成用プロンプト。
-
-#### 📝 プロンプト
-
-```
-明るくエレガントな白い部屋にいる若い韓国人女性が登場する、15秒間のフォトリアルなスキンケア動画を制作してください。まず、彼女の自然な顔の極端なクローズアップから始まり、指先で頬をやさしく触れる様子を見せ、リアルな肌の質感と柔らかな日光を表現します。次に、白い大理石のテーブルに置かれた透明なスキンケアボトルに、彼女の手がゆっくりと伸びるシーンを映します。その後、両手を使って顔にスキンケア製品をやさしく塗布する場面へ移り、顔立ちや外見の一貫性を保ちます。目を閉じて安らかに、指先で両頬を優しくマッサージする姿を見せてください。最後に、シンプルな白いドレスを着た彼女が大きな窓辺に立つワイドショットで締めくくり、透け感のある白いカーテンが陽光の中で自然に揺れる様子を捉えます。動きは滑らかかつ現実的にし、自然な手の描写、リアルな肌、ソフトなシネマティックライティング、清潔感あふれるラグジュアリーな雰囲気、穏やかなカメラワークを維持し、歪みや人工的なディテールは一切排除してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101138351013416960/img/ZHT5-dQIrBB1HX68.jpg" width="600" alt="スキンケアルーチン シネマティック動画プロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11011)**
-
-**作者:** [Maha](https://x.com/Aiwithmaha) | **ソース:** [Link](https://x.com/Aiwithmaha/status/2101138386132386252) | **公開日:** Sep 19, 2026
-
----
-### 凍てつく風景の女性ビデオプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 雪景色の中で風と雪の粒子に包まれた女性のシネマティックなシーンを生成するためのプロンプト。
-
-#### 📝 プロンプト
-
-```
-広大な凍てつく雪景色の中に一人で立つ若い女性の、超リアルなシネマティックシーン。暗い防寒コートを着ており、髪は風に乱れ、疲れ果てながらも決意を秘めた表情をしている。激しい吹雪、ドラマチックな暗い嵐雲、背景には雪に覆われた山々。冷たい青い雰囲気、リアルな雪の粒子、自然な肌の質感、感情的なストーリーテリング、劇的なライティング、浅い被写界深度、シネマティックなカラーグレーディング、高詳細、フォトリアリスティック、8K、HDR、プロフェッショナルな映画のスチール写真、85mm レンズ、縦長 9:16 の構図。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100821852797227008/img/ccGPsPHV1WCfCErM.jpg" width="600" alt="凍てつく風景の女性ビデオプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11013)**
-
-**作者:** [AIwithMinal](https://x.com/AIwithMinal) | **ソース:** [Link](https://x.com/AIwithMinal/status/2100822353446060246) | **公開日:** Sep 18, 2026
-
----
-### Bleu de Chanel ラグジュアリー香水 コマーシャル
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bleu de Chanel をフィーチャーしたシネマティックなラグジュアリー香水コマーシャルの詳細プロンプト。具体的なアクション、カメラワーク、ナレーション指示を含みます。
-
-#### 📝 プロンプト
-
-```
-シネマティックなラグジュアリー香水コマーシャル、10 秒。ダークヘアをオールバックにしたエレガントな女性が、パフスリーブの黒い長袖ブラウスを着用し、柔らかい淡いブルーグレーのスタジオ背景の前に立っています。彼女は両手で Bleu de Chanel Eau de Parfum のダークネイビーの正方形ガラスボトルを持ち、カメラに向けて提示しています。彼女の指が黒いキャップを外すクローズアップショットで、シルバーのスプレーノズルが現れます。明るい窓辺で、彼女は手首の内側に細かなミストをスプレーします。その後、手首を顔に近づけ、目を閉じ、満ち足りたような微かな笑みを浮かべながら香りを吸い込みます。最終カット：ボトルが鮮明なフォーカスでフレームを埋め尽くし、その背後で彼女はぼんやりとボケています。ソフトな自然光、浅い被写界深度、ハイエンドファッションフィルムのような美学、ゆっくりとした優雅な動き、プレミアムなコマーシャルルック。
-ナレーション：「準備は整った、最後のひと吹き。Bleu de Chanel、あなた自身のものに。」
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100818151134871552/img/FCELWlH2dnIKUU3Y.jpg" width="600" alt="Bleu de Chanel ラグジュアリー香水 コマーシャル">
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=10982)**
-
-**作者:** [Elisia](https://x.com/AiwithElisia) | **ソース:** [Link](https://x.com/AiwithElisia/status/2100818214754128101) | **公開日:** Sep 18, 2026
-
----
-### 韓国の田舎の家族の思い出
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 韓国の母親と子供たちが田舎の村で穏やかな夏の夜を楽しむ姿を描いた、懐かしさあふれる動画プロンプト。家族との交流や風景の美しさに焦点を当てています。
-
-#### 📝 プロンプト
-
-```
-美しい韓国語の文字と温かくノスタルジックな韓国の田舎暮らしスタイルを特徴とする動画を制作しました。伝統的な韓国の農村で、愛に満ちた母親と3人の子供たちが穏やかな夏の夕暮れ時を楽しんでいる様子を描きます。暖かいゴールデンアワーの陽光、古い瓦屋根の家々、石垣、緑豊かな稲田、そして静かな田舎の雰囲気を取り入れます。まず、母親が古い木製のドアを優しく開けるシーンから始まり、その後、彼女が自転車を漕ぎながら子供たちも嬉しそうに並走して村道を走るシネマティックなトラッキングショットへと移行します。自然な子供の笑い声、柔らかい自転車の動き、風になびく衣服、そしてリアルな韓国人の顔立ちや表情を通じた本物の家族間の交流を捉えます。次に、緑豊かな稲田や小さな川沿いで家族が自転車に乗るより広いシネマティックなショットへ移り、平和な自由さとノスタルジーを感じさせます。母親が子供たちのそばに座り、新鮮な果物やおやつを分け合いながら笑顔で会話をする姿を描きます。美しい自然光、柔らかな夕焼けの輝き、控えめなフィルムグレイン、浅い被写界深度、リアルな質感、そして滑らかなカメラワークを使用します。最後は、大きな木の下で静かな川辺に家族が並んで座り、稲田の向こうに太陽が沈む瞬間を捉えた、感情豊かでワイドなショットで締めくくります。フォトリアリスティックな実写映像、シネマティックな韓国映画風の美学、暖色系の色調、緩やかなテンポ、本物の感情表現、16:9 の構図、高解像度ディテール、自然な物理挙動、不自然に見えない顔立ち。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100817472219914240/img/-EjhCs7GzNqSVkZW.jpg" width="600" alt="韓国の田舎の家族の思い出">
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=10983)**
-
-**作者:** [ayzalnoor](https://x.com/ayzalnooor24521) | **ソース:** [Link](https://x.com/ayzalnooor24521/status/2100817795214954593) | **公開日:** Sep 18, 2026
-
----
-### カオスな教室のシネマティックシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 韓国女子高生が乱れた教室で物が飛び交う様子を捉えた、15秒間のシネマティック動画プロンプト。リアルな動きとカメラトラッキングに焦点を当てています。
-
-#### 📝 プロンプト
-
-```
-15秒間のシネマティック動画プロンプト：現実的な若い韓国女子高生が、荒れた教室の中央に立っています。彼女は白い半袖の制服シャツに赤いリボンタイ、ダークグレーのプリーツスカートを着用しており、背後では数人の生徒が座ったり動いたりしています。本、紙、ノート、教室の備品などが散乱し空中を飛び交い、カオスながらもリアルな雰囲気を醸し出しています。彼女は深刻かつ落ち着いた表情でカメラに向かってゆっくりと歩みを進め、背景の生徒たちは突然のカオスに対して自然に反応します。カメラはスムーズに後退し、彼女を縦長9:16の構図の中央に保ちながら、リアルなハンドヘルド（手持ち）カメラワークを維持します。紙や物は重力に従って彼女の周りに落ち続け、モーションブラーと自然な物理法則によって説得力のある映像になります。動画の中盤あたりで、彼女は片手をわずかに上げながらカメラへの接近を続け、顔立ち、髪型、制服、体のプロポーションを一貫して保ちます。最後の数秒間、カメラは彼女の顔に近づき、彼女は髪を目からかき分け、レンズをまっすぐ見つめ、微妙な感情表現を見せます。全編を通じて、自然な教室の照明、リアルな肌の質感、詳細な布地の描写、本物の影、シネマティックな被写界深度、フォトリアルなビジュアルを使用し、カットなしの滑らかで連続した動きを実現してください。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100787630216724480/img/8BCeaa8eVJKomkdI.jpg" width="600" alt="カオスな教室のシネマティックシーン">
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=10984)**
-
-**作者:** [Maha](https://x.com/Aiwithmaha) | **ソース:** [Link](https://x.com/Aiwithmaha/status/2100787710424416603) | **公開日:** Sep 18, 2026
-
----
-### パリ風ファッション変身動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 女性がパリの街を歩きながらドレスが白から赤に変化する、シネマティックなファッション変身動画を作成するためのプロンプト。
-
-#### 📝 プロンプト
-
-```
-美しい若い女性がエレガントなパリの街並みを歩く、シネマティックなファッション変身動画を制作しました。彼女は清潔感のある白いサマーワンピースを着て、クラシックな建築、カフェ、ショップ、そして行き交う人々で彩られたスタイリッシュな歩道を自然に歩いています。カメラは浅い被写界深度とリアルなシネマティックな動きで彼女を追跡します。店舗の前を通り過ぎると、輝く赤い光の軌跡が彼女の体を包み込み、魔法のようなファッション・トランジション効果を創り出します。彼女の衣装は白から洗練された赤いノースリーブドレスへとシームレスに変化します。その後、賑やかなパリの交差点を自信満々に歩くダイナミックなストリートレベルのショットが続きます。最後は、赤いドレス姿の彼女の美しいクローズアップで締めくくり、アイスクリームを食べながらカメラへ自然な視線を送ります。フォトリアルなディテール、エレガントなファッションフィルム美学、自然光、滑らかなトランジション、リアルな肌質感、シネマティックレンズ、微妙な背景の動き、プレミアムな商業映像ルック。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100456398144647168/img/xAq552Wbm_a24aoe.jpg" width="600" alt="パリ風ファッション変身動画">
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=10954)**
-
-**作者:** [ayzalnoor](https://x.com/ayzalnooor24521) | **ソース:** [Link](https://x.com/ayzalnooor24521/status/2100456445900710158) | **公開日:** Sep 17, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -6039,6 +6665,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-05T04:47:40.779Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-05T17:06:58.442Z</sub>
 
 </div>
