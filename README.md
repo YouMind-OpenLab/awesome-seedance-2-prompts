@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6504** |
+| 📝 Total Prompts | **6507** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-10-06** |
 
@@ -365,11 +365,49 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Cyberpunk Woman Neon Alley
+### Playful Basketball Scene with Dog Mascot
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating an ultra-realistic cyberpunk scene of a young woman walking through a neon-lit alley, focusing on fashion details, lighting, and camera specs.
+> A prompt for a photorealistic video of a Korean girl playing basketball with a giant dog mascot, featuring smooth camera transitions and K-drama inspired aesthetics.
+
+#### 📝 Prompt
+
+```
+A beautiful Korean girl with long dark hair, wearing a fitted black sleeveless top, black athletic shorts, and white sneakers, is playing basketball on an outdoor orange-colored basketball court surrounded by lush green trees. A cute oversized white cartoon-style dog mascot with black floppy ears is standing opposite her, holding and bouncing a basketball. The scene begins with a wide cinematic shot showing the girl facing the giant dog character near the basketball hoop. She playfully interacts with the mascot while dribbling the basketball, creating a fun and charming atmosphere. The camera smoothly moves between wide shots and medium close-ups, capturing the girl's natural expressions, flowing hair, realistic body movement, and the mascot's cute reactions. At the middle of the video, the girl steps closer to the camera while holding the basketball, looking confident and slightly playful. The giant dog character remains visible in the background, reacting humorously to her movements. Toward the end, she moves back toward the basketball hoop and prepares for another playful basketball moment while the mascot is seen in the foreground. Photorealistic Korean girl, natural skin texture, realistic facial features, consistent identity, detailed hair strands, realistic athletic movement, cinematic outdoor lighting, soft overcast daylight, shallow depth of field, smooth handheld camera movement, realistic basketball court textures, natural shadows, high-detail 4K cinematic quality, playful K-drama-inspired visual style, no face distortion, no extra fingers, no unnatural body movement, no text or watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107339831844171776/img/4LsCyW9rPzzslP5o.jpg" width="600" alt="Playful Basketball Scene with Dog Mascot">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11984)**
+
+**Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2107340030536741222) | **Published:** Oct 6, 2026
+
+---
+### Suburban Neighborhood Monster Attack
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a cinematic VFX-heavy scene where a giant creature emerges from the ground in a suburban setting during sunset.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic scene of a suburban neighborhood at sunset, a mysterious glowing object appears on a grassy lawn as a giant grotesque green creature suddenly emerges from the ground, enormous slimy textured body, angry expressive eyes, realistic skin details, dust and debris flying through the air, a shocked man watching from a distance, luxury suburban house in the background, dramatic golden-hour lighting, atmospheric haze, cinematic camera movement, shallow depth of field, photorealistic VFX, highly detailed, 8K, realistic shadows, epic Hollywood movie style, vertical 9:16 composition.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107333865253773312/img/OglQcBBKfBfaKX1l.jpg" width="600" alt="Suburban Neighborhood Monster Attack">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11985)**
+
+**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2107333962402341067) | **Published:** Oct 6, 2026
+
+---
+### Cyberpunk Woman Walking Neon Alley
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a cyberpunk-style video featuring a woman walking through a neon-lit alley with realistic textures and moody lighting.
 
 #### 📝 Prompt
 
@@ -377,68 +415,74 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 Ultra-realistic cinematic cyberpunk scene of a fierce young woman walking confidently through a dark neon-lit city alley at night. She has long dark hair, an intense expression, and wears a futuristic white oversized jacket over a red cropped top, black tactical pants, gloves, and utility accessories. Wet streets reflecting red and warm city lights, atmospheric mist, glowing signs, dramatic shadows, shallow depth of field, cinematic bokeh, dynamic camera movement, realistic skin and fabric textures, high detail, moody action-film atmosphere, 85mm lens, f/1.4, HDR, 8K, photorealistic, vertical 9:16 composition.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106972520972947456/img/0SDQbYzRuv36V6Vl.jpg" width="600" alt="Cyberpunk Woman Neon Alley">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106972520972947456/img/0SDQbYzRuv36V6Vl.jpg" width="600" alt="Cyberpunk Woman Walking Neon Alley">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11918)**
 
 **Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2106972552119963744) | **Published:** Oct 5, 2026
 
 ---
-### Seedance Video Prompt for Comedy Wedding Story
+### Seedance Comedy Story Video Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed video generation prompt for Seedance creating a 15-second comedic story about a woman asking her boyfriend to dye his hair green if he attends her future wedding with someone else. The prompt includes character consistency instructions, scene transitions, camera movements, and specific dialogue.
+> A detailed prompt for generating a 15-second comedic story video using Seedance, involving a couple's dialogue and a wedding scene with green-haired guests.
 
 #### 📝 Prompt
 
 ```
-15 seconds, 16:9 horizontal aspect ratio, realistic live-action texture, modern Chinese urban background. The first half is a natural and intimate conversation between a couple; the second half hard-cuts to a Western-style wedding in a future hotel. The camera slowly pulls back, gradually revealing male guests with different hair colors, forming an absurd and awkward comedy twist. Character performances are restrained; environment, skin, clothing, and lighting are realistic and natural.
+15 seconds, 16:9 aspect ratio, realistic live-action texture, modern Chinese urban background. The first half features natural intimate dialogue between a couple; the second half hard cuts to a Western-style wedding in a future hotel. The camera slowly pulls back to gradually reveal male guests with different colored hair, forming an absurd and awkward comedy twist. Character performances are restrained; environment, skin, fabric, and lighting are realistic and natural.
 [Characters and Continuity]
-The female lead is a young adult Chinese woman @image (31). The bride at the future wedding must be the same woman, maintaining consistent facial features and contours, changing only hairstyle, makeup, and clothing.
-The male lead is a young adult Chinese man, starting with normal short black hair and daily casual clothes. At the future wedding, his facial features, face shape, body type, and hairstyle contour remain consistent, but he wears a fitted suit and has dyed his hair obviously green, fulfilling the request made by the woman at the beginning. He must not change into a different face due to scene or hair color changes.
-The groom is another adult Chinese man, slightly chubby, with black hair, clearly different in appearance from the male lead, wearing formal groom attire.
-There are multiple adult male guests at the wedding venue, each with red, blue, purple, yellow, or orange hair, including another man with green hair. Their appearances, heights, body types, hairstyles, and suits are all different. Dyed hair retains real strands, roots, and luster, not looking like colored wigs or glowing.
-[0-7s: Daily Couple Conversation]
-Ordinary city park or residential area downstairs, evening, natural soft light, slight ambient life sounds in the background.
-The girl and boy sit side by side on a bench. Use a medium close-up of two people, clearly identifying their faces. The girl turns to look at the boy, holding his hand, speaking affectionately, seriously, with a bit of coquettishness, as if casually mentioning something romantic. The boy looks at her deeply.
-The girl says completely and clearly:
-"Baby, if the person marrying me in the future isn't you, then you must dye your hair green to attend my wedding, so I can spot you at a glance."
-Spoken at a natural, slightly fast, coherent daily pace, not deliberately drawn out, no swallowed words, no mechanical acceleration. While the girl speaks, the boy looks at her listening, showing a faint smile that is both touched and puzzled, without adding a reply.
-Maintain continuous performance, clearly establishing the male lead's face. The girl does not smirk ahead of time, does not wink at the camera, does not preview the later twist.
-[7-9s: Hard Cut to Future Wedding, First See Same Face, Then Green Hair]
-As soon as the girl finishes the last word "you", immediately hard cut to the hotel wedding scene. Ambient sound synchronously switches from outdoor life sounds to applause and blurred voices in the banquet hall.
-Cut to a frontal close-up of the same male lead's face. The top edge of the initial frame is cropped below the hairline, temporarily hiding the hair, letting the audience recognize him as the boy from just before.
-He sits in the wedding guest seats, wearing a suit, with a slightly constrained expression, carrying complex anticipation, eyes directed towards the entrance aisle.
-The camera then slowly and steadily moves backward, gradually revealing his full head—he has dyed green hair.
-The green color is seen by the audience for the first time at this moment. He was already green-haired from the start of entering the wedding shot, no on-site color-changing effect appears.
-[9-12s: Bride and Groom Entrance, Other Hair Colors Gradually Appear]
-The camera continues to move backward, expanding from close-up to medium shot, making slight horizontal adjustments to keep the green-haired male lead on one side of the frame, gradually revealing the central wedding aisle.
-The scene is a real hotel banquet hall arranged for a Western wedding, with light-colored floral arrangements, white or beige chairs, warm ceiling lights, and a carpeted entrance aisle. Lighting has clear sources, the wedding dress retains fabric details, no dreamy fairyland effects.
-On the background aisle, the girl from the opening wears a wedding dress, holding arms with the slightly chubby groom, entering slowly. The groom's appearance and body type are clearly different from the green-haired male lead.
-The male lead originally looked at the bride, barely maintaining a faint smile. As the camera pulls back, a male guest with red hair and a male guest with blue hair enter the frame near him successively.
-He inadvertently glances at the red-haired man beside him, his smile pauses slightly, then looks at the green-haired man on the other side, eyebrows moving lightly, starting to feel something is wrong.
-[12-15s: Revealing More Colored-Hair Men, Male Lead Looks Around in Surprise]
-The camera continues to move backward along the same trajectory, expanding to a wider view containing the male lead, surrounding rows of guests, and the wedding aisle. The wedding segment remains continuous, no more cuts.
-More male guests with different hair colors gradually enter the frame: purple, yellow, orange, and another red-haired man who differs from the male lead in appearance, body type, and hairstyle.
-Including the male lead, about six to eight men with colored hair are scattered sitting in adjacent rows, interleaved with ordinary black-haired guests. Not all guests have dyed hair, nor do they form a neat rainbow line.
-They are all different: some thin, some sturdy, some slightly chubby; some buzz cuts, some side-parted short hair, some slightly curly. Suits are black, dark blue, gray, brown, with obvious differences in fit, ties, and shirt combinations, looking like independently invited real wedding guests.
-These people have been sitting in their original positions since the start of the wedding shot, just blocked from the initial tight composition, becoming visible as the camera moves backward, cannot appear out of nowhere or suddenly dye their hair.
-The male lead looks left first, then right, finally turning slightly to look diagonally behind, discovering another green-haired man. His expression changes from confusion to surprise and embarrassment, lips slightly parted, as if finally realizing he might not be the only one who received such a promise.
-Other colored-hair men mainly continue watching the wedding, some may briefly make eye contact with him, not collectively turning heads or reacting in sync.
-The ending simultaneously preserves the male lead's surprised look around, surrounding men with different hair colors, and the bride and groom continuing to enter in the background. The screen ends naturally, no extra dialogue to explain the punchline.
+The female lead is a young adult Chinese girl @image (31). In the future wedding, the bride must be the same girl, maintaining facial features and contours, only changing hairstyle, makeup, and clothing.
+The male lead is a young adult Chinese man, starting with normal black short hair and daily casual clothes. In the future wedding, his facial features, face shape, body type, and hairstyle contour remain consistent, but he wears a well-fitted suit and dyes his hair distinctly green, fulfilling the girl's request from the opening. He must not look like a different person due to scene/hair changes.
+The groom is another adult Chinese man, slightly chubby, with black hair, clearly different appearance from the male lead, wearing formal groom attire.
+There are multiple adult male guests at the wedding site, dyed red, blue, purple, yellow, orange, and one other green-haired man. Their appearances, heights, builds, hairstyles, and suits are all distinct. Hair dye retains real hair strands, roots, and luster, looking like natural dyed hair rather than wigs or glowing colors.
+[0–7s: Daily Couple Dialogue]
+Ordinary city park or residential area downstairs, evening, soft natural light, slight ambient life sounds in the background.
+The girl and boy sit side by side on a bench. Medium close-up shot, clearly recognizable faces. The girl turns to look at the boy, holding his hand, speaking affectionately, seriously, with a touch of coquettishness, as if casually mentioning something romantic. The boy looks at her deeply.
+The girl speaks completely and clearly:
+"Baby, if you're not the one marrying me in the future, you must dye your hair green to come to my wedding, so I can spot you at a glance."
+Spoken at a natural, slightly fast, coherent daily pace, not deliberately dragged out, no swallowed words, no mechanical acceleration. While the girl speaks, the boy listens, showing a faint smile moved yet puzzled, adding no response.
+Maintain continuous performance, clearly establishing the male lead's appearance. The girl does not smirk early, wink at the camera, or foreshadow the twist.
+[7–9s: Hard Cut to Future Wedding, See Same Face Then Green Hair]
+Immediately after the girl says "you", hard cut to the hotel wedding scene. Ambient sound switches synchronously from outdoor life sounds to banquet hall applause and blurred voices.
+Cut to a frontal close-up of the same male lead's face. Initial frame top edge cropped below the hairline, temporarily hiding hair, letting viewers recognize him as the previous boy.
+He sits in the wedding guest seats, wearing a suit, expression slightly reserved with complex anticipation, gaze towards the entrance aisle.
+The camera then slowly, steadily moves backward, gradually revealing his full head—he has dyed his hair green.
+The green is seen clearly by viewers for the first time. He was already green-haired when entering the wedding shot; no live color-change effect occurs.
+[9–12s: Bride and Groom Entrance, Other Colors Appear]
+Camera continues moving back, expanding from close-up to medium shot, adjusting horizontally to keep the green-haired male lead on one side and gradually reveal the central wedding aisle.
+The site is a real hotel banquet hall arranged for a Western wedding, with light-colored floral arrangements, white/beige chairs, warm ceiling lights, and carpeted entrance aisles. Lighting has clear sources; wedding dress retains fabric details, avoiding dreamy fairy-tale effects.
+In the background aisle, the opening girl enters in a wedding dress, arm-in-arm with the slightly chubby groom. The groom's appearance and build are clearly different from the green-haired male lead.
+The male lead originally watches the bride, forcing a faint smile. As the camera pulls back, a red-haired male guest and a blue-haired male guest enter the frame near him.
+He inadvertently glances at the red-haired man beside him, smile pausing slightly, then looks at the green-haired man on the other side, brow twitching, starting to feel something is wrong.
+[12–15s: Reveal More Colored-Hair Men, Male Lead Looks Around in Surprise]
+Camera continues moving back along the same trajectory, expanding to a wider frame containing the male lead, several rows of surrounding guests, and the wedding aisle. The wedding segment remains continuous, no further cuts.
+More male guests with different hair colors gradually enter the frame: purple, yellow, orange, and another red-haired man distinct from the male lead in appearance, build, and hairstyle.
+Including the male lead, about six to eight colored-hair men are scattered across adjacent rows, intermingled with ordinary black-haired guests. Not all guests have dyed hair, nor are they arranged in a neat rainbow line.
+They vary: some thin, some sturdy, some chubby; some buzz cuts, some short side parts, some curly. Suits are black, dark blue, gray, brown, with obvious differences in fit, ties, and shirt combinations, resembling independent real wedding guests.
+These people were seated in place from the start of the wedding shot, merely hidden by the initial tight framing, becoming visible as the camera pulled back; they cannot appear suddenly or change hair color abruptly.
+The male lead looks left, then right, finally turning slightly back to see another green-haired man. His expression shifts from confusion to surprise and embarrassment, lips parting slightly, realizing he might not be the only one who received such a promise.
+Other colored-hair men mostly continue watching the wedding; a few may briefly exchange glances with him, not collectively turning heads or reacting in sync.
+The ending simultaneously retains the male lead's surprised look-around, surrounding differently colored-hair male guests, and the bride/groom continuing to enter in the background. The screen ends naturally, without extra dialogue explaining the joke.
 [Cinematography, Performance, and Realistic Atmosphere]
-Opening uses natural daylight, wedding uses warm indoor hotel lighting. Skin tones are normal, retaining skin texture, suits have real wrinkles, wedding dress has weight, dyed hair has natural light and dark layers.
-The first half feels like a real couple chatting casually, the second half feels like an awkward discovery happening at a real wedding scene. The male lead expresses emotions through eye contact, micro-expressions, and looking left and right, no cartoonish wide-eyed staring, mouth-opening, or face-covering actions.
-The wedding pull-back uses actual camera backward movement, steady speed, arranging guest positions in advance so different hair colors enter the frame sequentially. After pulling back, gradually increase depth of field, ensuring the relationship between the male lead, colored-hair guests, and background newlyweds is discernible, never blurring surrounding characters into color blocks.
-No retro DV quality, exaggerated hand shake, fisheye, sudden zoom, high-speed orbit, slow motion, plastic skin, or heavy filters.
+Opening uses natural daylight; wedding uses hotel warm indoor lighting. Skin tones are normal, retaining texture; suits have real wrinkles; wedding dress has weight; dyed hair has natural shading layers.
+The first half feels like real couples chatting casually; the second half feels like an awkward discovery happening at a real wedding. The male lead expresses emotions through eyes, micro-expressions, and looking around, avoiding cartoonish eye-widening, mouth-opening, or face-covering actions.
+The wedding pull-back uses actual camera movement, steady speed, with pre-arranged guest positions so different hair colors enter sequentially. Depth of field increases gradually after pull-back, ensuring relationships between male lead, colored-hair guests, and background newlyweds are discernible; do not blur surrounding people into color blocks throughout.
+Avoid retro DV quality, exaggerated shaking, fisheye, sudden zooms, high-speed orbits, slow motion, plastic skin, or heavy filters.
 [Sound]
-Opening retains the girl's dialogue and slight outdoor life sounds. After hard cut, enter natural applause, fabric rustling, chair creaking, and blurred conversations in the hotel banquet hall.
-Dialogue accurately matches the girl's lip movements, male lead does not speak for her or interrupt. No clear dialogue added in the wedding segment.
-No narration, no background music.
+Opening retains girl's dialogue and slight outdoor life sounds. After hard cut, enter natural applause, fabric rustle, chair creaks, and blurred conversation of the hotel banquet hall.
+Dialogue accurately matches girl's lip movements; male lead does not speak for her or interrupt. No clear dialogue added in wedding segment.
+No narration, background music, canned laughter, twist alert sounds, or explanatory subtitles.
+[Core Constraints]
+Total length 15 seconds. The only hard cut occurs after the girl finishes her line, switching from daily couple scene to future wedding. Wedding part starts with male lead's facial close-up, continuously pulling back slowly.
+Information revelation order fixed: Same boy's face -> His green hair -> Same girl and different groom entering -> Surrounding gradual appearance of different colored-hair male guests -> Male lead discovers another green-haired man, looks around in surprise.
+Girl's line requests "dye hair green"; male lead indeed dyes hair green in future, consistent.
+Bride is same person as opening girl; green-haired male lead is same person as opening boy; groom is different person. Other guests have independent faces, no cloned faces, face swaps, abrupt hair color changes, or sudden appearances.
+No subtitles, date stamps, explanatory text, or watermarks.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106953873076486145/img/IOpYXcKBoJQlAILi.jpg" width="600" alt="Seedance Video Prompt for Comedy Wedding Story">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106953873076486145/img/IOpYXcKBoJQlAILi.jpg" width="600" alt="Seedance Comedy Story Video Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11920)**
 
@@ -464,31 +508,54 @@ Create a cinematic 14.6-second action scene featuring a powerful anthropomorphic
 **Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2106938584431526162) | **Published:** Oct 5, 2026
 
 ---
-### Epic Cinematic Trailer Style Video
+### Ink Wash Style Wuxia Video Prompt
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A prompt for generating an epic cinematic trailer-style video using a reference image, emphasizing hyper-detailed rendering, Unreal Engine 5 aesthetics, and specific negative constraints for quality control.
+> A detailed video generation prompt for Seedance 2.0 creating a 15-second ink-wash style wuxia scene with specific camera movements, particle effects, and dynamic motion blur.
+
+#### 📝 Prompt
+
+```
+[0–3s] Camera: Rapid push-in from a close-up of the blade's glint, while the camera rotates clockwise at 180°/s, cutting into the silhouette of a bamboo hat (douli). Visuals: Close-up of ink-wash blade light, particle sparks bursting outward; the douli silhouette emerges from billowing ink clouds. Effects: Motion blur, ink brushstroke trails, particle effects.
+[3–6s] Camera: High-speed 360° orbit centered on the character (270°/s), following the trajectory of the sword swing. Visuals: Medium shot of the character swinging the blade, robes billowing, ink brushstrokes flowing with the motion. Effects: Dynamic ink smoke, motion blur on the robes, visual drag caused by the rotation.
+[6–9s] Camera: High-speed lateral tracking shot (left → right), while the camera tilts and rotates counterclockwise at 90°/s, locked onto the blade's path. Visuals: The blade's trajectory line, particle sparks bursting outward, ink brushstroke trails. Effects: Motion blur, particle effects, ink ghosting trails.
+[9–12s] Camera: Low-angle upward shot with a fast crane-up, while the camera spirals at 225°/s, rising from the ink marks on the ground to the character's upper body. Visuals: Ink marks on the ground, the character mid-swing (upper body), rolling ink clouds in the background. Effects: Dynamic ink clouds, motion blur during the rise, ink-colored vortex created by the rotation.
+[12–15s] Camera: Slow-motion close-up, with the camera rotating slowly clockwise at 15°/s as the blade light freezes in place. Visuals: Close-up of the blade light, crisp and clear particle effects, the character's gaze beneath the shadow of the douli (optional). Effects: Slow motion, particles dissipating, subtle camera shake.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106931329535459328/img/XKp-5If8NQ95ETQI.jpg" width="600" alt="Ink Wash Style Wuxia Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11986)**
+
+**Author:** [Zidan 子丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2106931613427028260) | **Published:** Oct 5, 2026
+
+---
+### Epic Cinematic Trailer Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A prompt for Seedance 2.0 to create an epic cinematic trailer based on a reference image, with specific style constraints and negative prompts.
 
 #### 📝 Prompt
 
 ```
 Use reference image 1 to create an epic cinematic video.
-：Epic cinematic trailer aesthetic, live-action style, IMAX, 16K, hyper-detailed rendering, full-frame dynamic particle effects, Unreal Engine 5, ray tracing, explosive details. Style requirements: Aesthetic beauty, pathological beauty, grand momentum, decadent beauty, fragmented beauty, tragic grandeur, with sadness. [Constraints & Negatives] Low saturation cold grey + amber accent, physics-based fluid motion. Negative: Low quality, stutter, face/body collapse, over-bright, excessive gore, stiff motion, watermark, T-pose, bright palette, flashy VFX, rigid camera, lack of speed/blur, weak kills.
+: Epic cinematic trailer aesthetic, live-action style, IMAX, 16K, hyper-detailed rendering, full-frame dynamic particle effects, Unreal Engine 5, ray tracing, explosive details. Style requirements: aesthetic, morbid beauty, grand momentum, decadent beauty, fragmented beauty, tragic, with sadness. [Constraints & Negatives] Low saturation cold grey + amber accent, physics-based fluid motion. Negative: Low quality, stutter, face/body collapse, over-bright, excessive gore, stiff motion, watermark, T-pose, bright palette, flashy VFX, rigid camera, lack of speed/blur, weak kills.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106923772372738048/img/p-_o3Q13K4Hbb2lw.jpg" width="600" alt="Epic Cinematic Trailer Style Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106923772372738048/img/p-_o3Q13K4Hbb2lw.jpg" width="600" alt="Epic Cinematic Trailer Video Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11915)**
 
 **Author:** [Zidan 子丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2106923884931166241) | **Published:** Oct 5, 2026
 
 ---
-### Urban Skating High Speed
+### Urban Street Skating Speed
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A simple 'lazy' prompt for generating a high-speed skating video through a crowded urban street with realistic motion blur and handheld camera feel.
+> A prompt for Seedance 2.0 to generate a video of a girl skating fast through a crowded urban street with motion blur and energetic vibes.
 
 #### 📝 Prompt
 
@@ -496,18 +563,18 @@ Use reference image 1 to create an epic cinematic video.
 A girl skating at high speed through a crowded urban street, dodging people, jumping over small obstacles, passing cars and bikes, fast cuts, motion blur, handheld camera feel, energetic vibe, realistic environment, high detail.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106921938576883712/img/9S6CRhiy0KGRQiZh.jpg" width="600" alt="Urban Skating High Speed">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106921938576883712/img/9S6CRhiy0KGRQiZh.jpg" width="600" alt="Urban Street Skating Speed">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11917)**
 
 **Author:** [Zidan 子丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2106922065240731732) | **Published:** Oct 5, 2026
 
 ---
-### Space City Asteroid Defense
+### Asteroid Field Space Battle
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for a 15-second cinematic sci-fi short about a moving space city manipulating asteroids into a defensive shield against an enemy fleet.
+> A detailed prompt for a 15-second sci-fi short about a city traveling through an asteroid storm and using asteroids as weapons against an enemy fleet.
 
 #### 📝 Prompt
 
@@ -531,7 +598,7 @@ End on the city disappearing into the moving storm.
 Photorealistic hard science fiction, spectacular asteroid environments, relentless combat, massive moving structures, fast camera movement, detailed spacecraft, huge scale, cinematic action, no text, no logos, no anime, no cartoon.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106842175623344128/img/8HYLYow99mg-lBVf.jpg" width="600" alt="Space City Asteroid Defense">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106842175623344128/img/8HYLYow99mg-lBVf.jpg" width="600" alt="Asteroid Field Space Battle">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11919)**
 
@@ -7148,71 +7215,6 @@ Create a beautiful 25-second cinematic montage with realistic details, natural m
 **Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2101911177962090931) | **Published:** Sep 21, 2026
 
 ---
-### Cinematic Fashion Performance Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for an ultra-realistic fashion performance scene featuring a confident woman dancing at night with cars and headlights in the background.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic fashion performance scene, a beautiful young woman with long dark black hair standing confidently in the center, wearing an elegant white strapless corset top, dark high-waisted fitted jeans, layered silver necklaces and hoop earrings. Several stylish female dancers surround her, dressed in black leather outfits, synchronized dance poses. Dramatic night setting with cars and bright headlights behind them, moody industrial atmosphere, warm backlighting, subtle haze, realistic shadows, dynamic composition, powerful confident expression, professional music-video aesthetic, photorealistic skin and fabric details, shallow depth of field, cinematic lighting, high contrast, 8K, HDR, 85mm lens, vertical 9:16 composition.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101890134324965376/img/6EDeEE39ubzVBvhK.jpg" width="600" alt="Cinematic Fashion Performance Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11072)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2101890198703354285) | **Published:** Sep 21, 2026
-
----
-### Playful Playground Story Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a video of a Korean girl in a playground setting, transitioning through various scenes like sliding, swinging, and sleeping in a shopping cart.
-
-#### 📝 Prompt
-
-```
-Created a video of a beautiful Korean girl having a playful, dreamy day at a colorful outdoor playground.
-She wears a casual white shirt, dark jeans, sneakers, and carries a stylish leopard-print shoulder bag.
-Show her relaxing and playfully lying on a bright yellow playground slide.
-Then transition to her sitting quietly on a swing, looking slightly tired and lost in thought.
-She later sits on the playground edge wearing a funny orange cone hat, creating a quirky cinematic moment.
-Show her resting peacefully on concrete steps with soft natural daylight and a calm atmosphere.
-End with her comfortably sleeping inside a shopping cart filled with basketballs, creating a funny unexpected scene.
-Use realistic facial expressions, natural body movement, cinematic camera motion, soft colors, and photorealistic details.
-Keep the Korean girl’s identity and appearance consistent throughout the entire video, with smooth transitions and a playful cinematic storytelling style.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101889348534956032/img/I07P989JdZB8i-lk.jpg" width="600" alt="Playful Playground Story Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11071)**
-
-**Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2101889590621536594) | **Published:** Sep 21, 2026
-
----
-### Luxury Skincare Commercial Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a 15-second ultra-realistic luxury skincare commercial featuring a glass jar in a cool blue environment with water effects and cinematic lighting.
-
-#### 📝 Prompt
-
-```
-Create a 15-second ultra-realistic luxury skincare commercial featuring an elegant glass jar labeled “AQUA LUXE – DEEP HYDRATION” in a cool blue, refreshing environment. Start with a soft blue atmospheric background as gentle light rays and subtle water particles create a clean premium mood. Slowly reveal the skincare jar standing on a glossy water surface, with realistic reflections and cinematic depth of field. Gradually move the camera closer while soft highlights glide across the metallic silver lid and glass packaging. Surround the jar with smooth, silky white cream-like waves flowing gracefully around it, creating a luxurious skincare texture. Add floating water droplets and tiny bubbles moving naturally through the scene with realistic physics. Transition into a dramatic splash of crystal-clear water wrapping around the product while keeping the jar perfectly sharp and centered. Introduce delicate white flowers and fresh green leaves around the splash for a fresh hydration-inspired atmosphere. End with a beautiful hero shot of the AQUA LUXE DEEP HYDRATION jar centered against the blue background, surrounded by water droplets, flowers, and soft glowing light, with premium cinematic lighting and flawless product focus.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101887426138681344/img/DRaV306w9sxwKjTb.jpg" width="600" alt="Luxury Skincare Commercial Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11073)**
-
-**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2101887507059351894) | **Published:** Sep 21, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -7274,6 +7276,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-06T01:27:35.238Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-06T11:25:34.997Z</sub>
 
 </div>

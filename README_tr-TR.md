@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6504** |
+| 📝 Toplam İstem | **6507** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-10-06** |
 
@@ -361,6 +361,44 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Köpek Maskotu ile Eğlenceli Basketbol Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Giant dog maskotuyla basketbol oynayan Koreli bir kızın, akıcı kamera geçişleri ve K-drama estetiği içeren fotogerçekçi video promptu.
+
+#### 📝 İstem
+
+```
+Uzun koyu saçlı, dar kesim siyah kolsuz üst, siyah spor şort ve beyaz spor ayakkabı giyen güzel bir Koreli kız, etrafı yemyeşil ağaçlarla çevrili dışarıdaki turuncu renkli basketbol sahasında basketbol oynuyor. Siyah sarkık kulaklı sevimli, abartılı boyutlarda beyaz çizgi film tarzı köpek maskotu, onun karşısında durarak elinde tuttuğu basketbol topunu sektiriyor. Sahne, kızın basketbol potası yakınındaki devasa köpek karakterine baktığı geniş sinematik bir çekimle başlıyor. Kız, basketbol topunu sürerken maskotla eğlenceli etkileşime girerek neşeli ve büyüleyici bir atmosfer yaratıyor. Kamera, geniş açılar ile orta yakın çekimler arasında yumuşakça hareket ederek kızın doğal ifadelerini, uçuşan saçlarını, gerçekçi vücut hareketlerini ve maskotun sevimli tepkilerini yakalıyor. Videonun ortasında kız, basketbol topunu tutarak kameraya doğru yaklaşır, kendinden emin ve hafif oyunbaz görünür. Devasa köpek karakteri arka planda görünmeye devam eder ve kızın hareketlerine mizahi tepkiler verir. Sonlara doğru kız, basketbol potasına geri döner ve maskot ön plandayken başka bir eğlenceli basketbol anına hazırlanır. Fotogerçekçi Koreli kız, doğal cilt dokusu, gerçekçi yüz hatları, tutarlı kimlik, detaylı saç telleri, gerçekçi atletik hareketler, sinematik dış mekan ışıklandırması, yumuşak bulutlu gün ışığı, sığ alan derinliği, yumuşak el kamerası hareketi, gerçekçi basketbol sahası dokuları, doğal gölgeler, yüksek detaylı 4K sinematik kalite, eğlenceli K-drama ilhamlı görsel stil, yüz bozulması yok, ekstra parmak yok, doğaüstü vücut hareketi yok, metin veya filigran yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107339831844171776/img/4LsCyW9rPzzslP5o.jpg" width="600" alt="Köpek Maskotu ile Eğlenceli Basketbol Sahnesi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11984)**
+
+**Yazar:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Kaynak:** [Link](https://x.com/ayzalnooor24521/status/2107340030536741222) | **Yayınlandı:** Oct 6, 2026
+
+---
+### Banliyö Mahallesinde Canavar Saldırısı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gün batımında banliyö ortamında yerden devasa bir yaratığın ortaya çıktığı, sinematik ve yoğun VFX içeren bir sahne için prompt.
+
+#### 📝 İstem
+
+```
+Gün batımında ultra gerçekçi sinematik banliyö mahallesi sahnesi, çimenli bir bahçede gizemli parlayan bir nesne belirir ve aniden yerden devasa, iğrenç yeşil bir yaratık çıkar; devasa sümüksü dokulu gövde, öfkeli ve ifade dolu gözler, gerçekçi cilt detayları, havada uçuşan toz ve enkaz, uzaktan şok olmuş bir adam izliyor, arka planda lüks banliyö evi, dramatik altın saat ışıkları, atmosferik pus, sinematik kamera hareketi, sığ alan derinliği, fotogerçekçi VFX, son derece detaylı, 8K, gerçekçi gölgeler, epik Hollywood film tarzı, dikey 9:16 kompozisyon.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107333865253773312/img/OglQcBBKfBfaKX1l.jpg" width="600" alt="Banliyö Mahallesinde Canavar Saldırısı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11985)**
+
+**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2107333962402341067) | **Yayınlandı:** Oct 6, 2026
+
+---
 ### Siberpunk Kadın Neon Sokak
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -460,9 +498,32 @@ Duman, ateş ve çöken binalarla çevrili yıkık bir şehirde güçlü, antrop
 **Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2106938584431526162) | **Yayınlandı:** Oct 5, 2026
 
 ---
+### Mürekkep Yıkama Tarzı Wuxia Video İstemcisi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 için, özel kamera hareketleri, parçacık efektleri ve dinamik hareket bulanıklığı içeren 15 saniyelik mürekkep yıkama tarzı bir wuxia sahnesi oluşturan ayrıntılı bir video üretim istemcisidir.
+
+#### 📝 İstem
+
+```
+[0–3s] Kamera: Kılıcın parlak ışığının yakın çekiminden hızlı ileri zoom yapılırken, kamera saat yönünde 180°/s hızla döner ve bambu şapkasının (douli) siluetine keskin geçiş yapar. Görseller: Mürekkep yıkama tarzı kılıç ışığı yakın çekimi, dışa doğru patlayan kıvılcım parçacıkları; douli silueti dalgalanan mürekkep bulutlarından belirir. Efektler: Hareket bulanıklığı, mürekkep fırça izleri, parçacık efektleri.
+[3–6s] Kamera: Karakterin etrafında yüksek hızlı 360° yörünge hareketi (270°/s), kılıç savurma yörüngesini takip eder. Görseller: Kılıcı savuran karakterin orta çekimi, uçuşan cübbeler, hareketle akan mürekkep fırça darbeleri. Efektler: Dinamik mürekkep dumanı, cübbelerde hareket bulanıklığı, dönüşten kaynaklanan görsel sürüklenme.
+[6–9s] Kamera: Yüksek hızlı yanlamasına takip çekimi (sol → sağ), kamera eğilirken ve saat yönünün tersine 90°/s hızla dönerken, kılıcın yoluna kilitlenir. Görseller: Kılıcın yörünge çizgisi, dışa doğru patlayan kıvılcım parçacıkları, mürekkep fırça izleri. Efektler: Hareket bulanıklığı, parçacık efektleri, mürekkep hayalet izleri.
+[9–12s] Kamera: Hızlı vinç yukarı hareketiyle düşük açıdan yukarı çekim, kamera 225°/s hızla spiral çizerken, yerdeki mürekkep lekelerinden karakterin üst vücuduna yükselir. Görseller: Yerdeki mürekkep lekeleri, savurma anındaki karakter (üst vücut), arka planda yuvarlanan mürekkep bulutları. Efektler: Dinamik mürekkep bulutları, yükseliş sırasında hareket bulanıklığı, dönüşten oluşan mürekkep renginde girdap.
+[12–15s] Kamera: Yavaş çekim yakın plan, kılıç ışığı sabitlenirken kamera saat yönünde yavaşça 15°/s döner. Görseller: Kılıç ışığının yakın çekimi, net ve berrak parçacık efektleri, douli gölgesinin altındaki karakter bakışı (isteğe bağlı). Efektler: Yavaş çekim, dağılan parçacıklar, hafif kamera sarsıntısı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106931329535459328/img/XKp-5If8NQ95ETQI.jpg" width="600" alt="Mürekkep Yıkama Tarzı Wuxia Video İstemcisi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11986)**
+
+**Yazar:** [Zidan 子丹](https://x.com/liluocheng13) | **Kaynak:** [Link](https://x.com/liluocheng13/status/2106931613427028260) | **Yayınlandı:** Oct 5, 2026
+
+---
 ### Epik Sinematik Trailer Tarzı Video
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
 > Referans görüntü kullanarak, hiper detaylı renderlama, Unreal Engine 5 estetiği ve kalite kontrolüne yönelik spesifik negatif kısıtlamaları vurgulayan epik sinematik trailer tarzı bir video oluşturmak için istem.
 
@@ -482,7 +543,7 @@ Duman, ateş ve çöken binalarla çevrili yıkık bir şehirde güçlü, antrop
 ---
 ### Şehirde Yüksek Hızda Kaykay
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
 > Kalabalık bir şehir sokağında gerçekçi hareket bulanıklığı ve el kamerası hissi ile yüksek hızlı kaykay videosu oluşturmak için basit, 'tembel' bir istem.
 
@@ -6527,71 +6588,6 @@ Gerçekçi detaylar, doğal hareketler ve sıcak vintage estetiği ile güzel bi
 **Yazar:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Kaynak:** [Link](https://x.com/ayzalnooor24521/status/2101911177962090931) | **Yayınlandı:** Sep 21, 2026
 
 ---
-### Sinematik Moda Performansı Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gece ortamında kendine güvenen bir kadın ve dansçıların yer aldığı, ultra gerçekçi sinematik moda performans videosu oluşturmak için yüksek kaliteli prompt.
-
-#### 📝 İstem
-
-```
-Ultra gerçekçi sinematik moda performansı sahnesi; uzun siyah saçlı, güzel genç bir kadın merkezde kendinden emin bir şekilde duruyor. Zarif beyaz askısız korsaj üstü, koyu renk yüksek bel dar kesim kot pantolon, katmanlı gümüş kolyeler ve halka küpeler takıyor. Onu çevreleyen birkaç şık kadın dansçı, siyah deri kıyafetler içinde senkronize dans pozları alıyor. Arkalarında arabalar ve parlak farlarla dramatik bir gece ortamı, kasvetli endüstriyel atmosfer, sıcak arka aydınlatma, hafif pus, gerçekçi gölgeler, dinamik kompozisyon, güçlü ve kendinden emin ifade, profesyonel müzik videosu estetiği, fotogerçekçi cilt ve kumaş detayları, sığ alan derinliği, sinematik ışıklandırma, yüksek kontrast, 8K, HDR, 85mm lens, dikey 9:16 kompozisyon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101890134324965376/img/6EDeEE39ubzVBvhK.jpg" width="600" alt="Sinematik Moda Performansı Sahnesi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11072)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2101890198703354285) | **Yayınlandı:** Sep 21, 2026
-
----
-### Oyuncu Koreli Kızın Oyun Parkındaki Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 için, genç bir kadının kaydıraktan salıncağa ve alışveriş arabasında uyumaya geçiş yaptığı sinematik bir sahneyi oluşturan detaylı bir video üretim istemi.
-
-#### 📝 İstem
-
-```
-Renkli açık hava oyun parkında oyuncu ve hayalperest bir gün geçiren güzel bir Koreli kızın videosunu oluştur.
-Günlük beyaz gömlek, koyu renk kot pantolon, spor ayakkabı giyer ve şık bir leopar desenli omuz çantası taşır.
-Parlak sarı renkteki oyun parkı kaydırağında rahatlayarak ve oyuncu bir şekilde uzanırken göster.
-Ardından, hafif yorgun ve düşünceli görünen bir şekilde salıncakta sessizce otururken geçiş yap.
-Daha sonra, komik bir turuncu koni şapkası takarak oyun alanının kenarında oturur ve tuhaf bir sinematik an yaratır.
-Yumuşak doğal gün ışığı ve sakin atmosfer eşliğinde beton basamaklarda huzurla dinlenirken göster.
-Komik ve beklenmedik bir sahne yaratan, basket toplarıyla dolu bir alışveriş arabasının içinde rahatça uyuyarak bitir.
-Gerçekçi yüz ifadeleri, doğal vücut hareketleri, sinematik kamera hareketleri, yumuşak renkler ve fotogerçekçi detaylar kullan.
-Koreli kızın kimliğini ve görünümünü tüm video boyunca tutarlı tut; akıcı geçişler ve oyuncu sinematik hikaye anlatımı stili ile.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101889348534956032/img/I07P989JdZB8i-lk.jpg" width="600" alt="Oyuncu Koreli Kızın Oyun Parkındaki Video İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11071)**
-
-**Yazar:** [liana](https://x.com/Lianaalane) | **Kaynak:** [Link](https://x.com/Lianaalane/status/2101889590621536594) | **Yayınlandı:** Sep 21, 2026
-
----
-### Lüks Cilt Bakımı Reklam Videosu İstem Metni
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Su temalı bir ortamda ürün kavanozunu sinematik geçişlerle gösteren, 15 saniyelik ultra gerçekçi lüks cilt bakımı reklamı oluşturmak için detaylı istem metni.
-
-#### 📝 İstem
-
-```
-Serin mavi ve ferahlatıcı bir ortamda, üzerinde “AQUA LUXE – DEEP HYDRATION” etiketi bulunan zarif cam kavanozun yer aldığı 15 saniyelik ultra gerçekçi lüks cilt bakımı reklamı oluşturun. Yumuşak ışık huzmeleri ve ince su parçacıklarıyla temiz ve premium bir atmosfer yaratan yumuşak mavi atmosferik arka planla başlayın. Gerçekçi yansımalar ve sinematik alan derinliğiyle parlak su yüzeyinde duran cilt bakım kavanozunu yavaşça ortaya çıkarın. Metalik gümüş kapak ve cam ambalaj üzerinde yumuşak vurgular kayarken kamerayı giderek yaklaştırın. Kavanozu, lüks bir cilt bakımı dokusu yaratmak için etrafında zarifçe akan pürüzsüz, ipeksi beyaz krem benzeri dalgalara sarın. Gerçekçi fizik kurallarına uygun olarak sahne boyunca doğal hareket eden yüzen su damlacıkları ve küçük kabarcıklar ekleyin. Kavanozu tamamen net ve merkezde tutarken ürünü saran kristal berraklığında dramatik bir su sıçramasına geçiş yapın. Taze nemlendirme ilham veren bir atmosfer için sıçramanın etrafına narin beyaz çiçekler ve taze yeşil yapraklar ekleyin. Su damlacıkları, çiçekler ve yumuşak parlayan ışıklarla çevrili, premium sinematik aydınlatma ve kusursuz ürün odağıyla mavi arka plana karşı merkezde duran AQUA LUXE DEEP HYDRATION kavanozunun güzel bir ana çekimle bitirin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101887426138681344/img/DRaV306w9sxwKjTb.jpg" width="600" alt="Lüks Cilt Bakımı Reklam Videosu İstem Metni">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11073)**
-
-**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2101887507059351894) | **Yayınlandı:** Sep 21, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -6653,6 +6649,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-06T01:27:55.536Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-06T11:26:00.076Z</sub>
 
 </div>

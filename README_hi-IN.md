@@ -68,7 +68,7 @@ ByteDance के Seedance 2.0 के लिए उच्च गुणवत्�
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **6504** |
+| 📝 कुल प्रॉम्पट्स | **6507** |
 | ⭐ विशेष प्रॉम्पट्स | **6** |
 | 🔄 अंतिम अपडेट | **2026-10-06** |
 
@@ -361,6 +361,44 @@ Seedance 2.0 का उपयोग करके रात में सिन�
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### कुत्ते के मास्कॉट के साथ खेल भरा बास्केटबॉल दृश्य
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक कोरियाई लड़की और विशाल कुत्ते के मास्कॉट के साथ बास्केटबॉल खेलते हुए फोटोरियलिस्टिक वीडियो का प्रॉम्प्ट, जिसमें स्मूथ कैमरा ट्रांजिशन और के-ड्रामा से प्रेरित सौंदर्यशास्त्र शामिल है।
+
+#### 📝 प्रॉम्पट
+
+```
+लंबे काले बालों वाली एक सुंदर कोरियाई लड़की, जो फिट ब्लैक स्लीवलेस टॉप, ब्लैक एथलेटिक शॉर्ट्स और सफेद स्नीकर्स पहने हुए है, हरे-भरे पेड़ों से घिरे एक आउटडोर नारंगी रंग के बास्केटबॉल कोर्ट पर बास्केटबॉल खेल रही है। उसके सामने एक प्यारा ओवरसाइज़्ड सफेद कार्टून स्टाइल कुत्ता मास्कॉट खड़ा है, जिसके काले लटकते हुए कान हैं और वह एक बास्केटबॉल पकड़े हुए उसे उछाल रहा है। दृश्य की शुरुआत एक वाइड सिनेमैटिक शॉट से होती है जिसमें लड़की बास्केटबॉल होप के पास विशाल कुत्ते के पात्र का सामना करती हुई दिखाई देती है। वह बास्केटबॉल ड्रिबल करते हुए मास्कॉट के साथ मजेदार तरीके से इंटरैक्ट करती है, जिससे एक मज़ेदार और मोहक माहौल बनता है। कैमरा वाइड शॉट्स और मीडियम क्लोज़-अप्स के बीच स्मूथली चलता है, लड़की के प्राकृतिक भाव, बहते हुए बाल, यथार्थवादी शारीरिक गतिविधि और मास्कॉट की प्यारी प्रतिक्रियाओं को कैप्चर करता है। वीडियो के बीच में, लड़की बास्केटबॉल पकड़े हुए कैमरे के करीब आती है, आत्मविश्वास से भरी और थोड़ी चंचल दिखती है। विशाल कुत्ता पात्र पृष्ठभूमि में दिखाई देता रहता है और उसकी हरकतों पर हास्यपूर्ण प्रतिक्रिया देता है। अंत की ओर, वह फिर से बास्केटबॉल होप की तरफ बढ़ती है और एक और चंचल बास्केटबॉल क्षण के लिए तैयार होती है जबकि मास्कॉट अग्रभूमि (foreground) में दिखाई देता है। फोटोरियलिस्टिक कोरियाई लड़की, प्राकृतिक त्वचा बनावट, यथार्थवादी चेहरे की विशेषताएं, सुसंगत पहचान, विस्तृत बाल धागे, यथार्थवादी एथलेटिक गतिविधि, सिनेमैटिक आउटडोर लाइटिंग, सॉफ्ट ओवरकास्ट डेलाइट, शेलो डेप्थ ऑफ फील्ड, स्मूथ हैंडहेल्ड कैमरा मूवमेंट, यथार्थवादी बास्केटबॉल कोर्ट टेक्सचर, प्राकृतिक छायाएं, हाई-डिटेल 4K सिनेमैटिक गुणवत्ता, चंचल के-ड्रामा से प्रेरित विजुअल स्टाइल, बिना चेहरे की विकृति, बिना अतिरिक्त उंगलियों, बिना असामान्य शारीरिक गतिविधि, बिना टेक्स्ट या वॉटरमार्क।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107339831844171776/img/4LsCyW9rPzzslP5o.jpg" width="600" alt="कुत्ते के मास्कॉट के साथ खेल भरा बास्केटबॉल दृश्य">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=11984)**
+
+**लेखक:** [ayzalnoor](https://x.com/ayzalnooor24521) | **स्रोत:** [Link](https://x.com/ayzalnooor24521/status/2107340030536741222) | **प्रकाशित:** Oct 6, 2026
+
+---
+### उपनगरीय मोहल्ले में राक्षसी हमला
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमाई VFX-भारी दृश्य के लिए प्रॉम्प्ट जिसमें सूर्यास्त के समय एक उपनगरीय इलाके में ज़मीन से एक विशालकाय प्राणी उभरता है।
+
+#### 📝 प्रॉम्पट
+
+```
+सूर्यास्त के समय एक उपनगरीय मोहल्ले का अल्ट्रा-रियलिस्टिक सिनेमाई दृश्य, घास की लॉन पर एक रहस्यमयी चमकती वस्तु दिखाई देती है और तभी ज़मीन से एक विशालकाय विकराल हरा प्राणी अचानक बाहर आ जाता है, विशाल चिपचिपा बनावट वाला शरीर, क्रोधित अभिव्यक्तिपूर्ण आँखें, यथार्थवादी त्वचा विवरण, हवा में उड़ती धूल और मलबा, दूर से देख रहा एक चौंका हुआ व्यक्ति, पृष्ठभूमि में एक शानदार उपनगरीय घर, नाटकीय गोल्डन-आवर लाइटिंग, वातावरणीय कोहरा, सिनेमाई कैमरा मूवमेंट, कम गहराई का फोकस (shallow depth of field), फोटो-रियलिस्टिक VFX, अत्यधिक विस्तृत, 8K, यथार्थवादी छायाएँ, महाकाव्य हॉलीवुड फिल्म शैली, वर्टिकल 9:16 संरचना।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107333865253773312/img/OglQcBBKfBfaKX1l.jpg" width="600" alt="उपनगरीय मोहल्ले में राक्षसी हमला">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=11985)**
+
+**लेखक:** [AIwithMinal](https://x.com/AIwithMinal) | **स्रोत:** [Link](https://x.com/AIwithMinal/status/2107333962402341067) | **प्रकाशित:** Oct 6, 2026
+
+---
 ### साइबरपंक महिला: नियॉन गली
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -460,9 +498,32 @@ Seedance 2.0 का उपयोग करके रात में सिन�
 **लेखक:** [Maha](https://x.com/Aiwithmaha) | **स्रोत:** [Link](https://x.com/Aiwithmaha/status/2106938584431526162) | **प्रकाशित:** Oct 5, 2026
 
 ---
+### Ink Wash Style Wuxia Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 के लिए एक विस्तृत वीडियो जनरेशन प्रॉम्प्ट जो विशिष्ट कैमरा मूवमेंट, पार्टिकल इफेक्ट्स और डायनामिक मोशन ब्लर के साथ 15-सेकंड का ink-wash style wuxia दृश्य बनाता है।
+
+#### 📝 प्रॉम्पट
+
+```
+[0–3s] Camera: Blade की चमक के close-up से तेज़ी से push-in करते हुए, कैमरा 180°/s की गति से clockwise घूमता है और bamboo hat (douli) की silhouette में कट जाता है। Visuals: Ink-wash blade light का close-up, बाहर की ओर फटते हुए particle sparks; billowing ink clouds से douli silhouette उभरती है। Effects: Motion blur, ink brushstroke trails, particle effects.
+[3–6s] Camera: Character के केंद्र पर high-speed 360° orbit (270°/s), sword swing की trajectory का अनुसरण करते हुए। Visuals: Character द्वारा blade लहराते हुए medium shot, robes हवा में लहरा रहे हैं, motion के साथ ink brushstrokes बह रहे हैं। Effects: Dynamic ink smoke, robes पर motion blur, rotation के कारण visual drag।
+[6–9s] Camera: High-speed lateral tracking shot (left → right), जबकि कैमरा tilt करता है और 90°/s की गति से counterclockwise घूमता है, blade के path पर locked रहते हुए। Visuals: Blade की trajectory line, बाहर की ओर फटते हुए particle sparks, ink brushstroke trails। Effects: Motion blur, particle effects, ink ghosting trails।
+[9–12s] Camera: Low-angle upward shot with fast crane-up, जबकि कैमरा 225°/s की गति से spiral करता है, ज़मीन पर ink marks से character के upper body तक ऊपर उठते हुए। Visuals: ज़मीन पर ink marks, mid-swing में character (upper body), पृष्ठभूमि में rolling ink clouds। Effects: Dynamic ink clouds, rise के दौरान motion blur, rotation द्वारा बनाया गया ink-colored vortex।
+[12–15s] Camera: Slow-motion close-up, जबकि कैमरा 15°/s की धीमी गति से clockwise घूमता है और blade light स्थिर हो जाती है। Visuals: Blade light का close-up, crisp and clear particle effects, douli की छाया के नीचे character की gaze (optional)। Effects: Slow motion, dissipating particles, subtle camera shake।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106931329535459328/img/XKp-5If8NQ95ETQI.jpg" width="600" alt="Ink Wash Style Wuxia Video Prompt">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=11986)**
+
+**लेखक:** [Zidan 子丹](https://x.com/liluocheng13) | **स्रोत:** [Link](https://x.com/liluocheng13/status/2106931613427028260) | **प्रकाशित:** Oct 5, 2026
+
+---
 ### एपिक सिनेमाई ट्रेलर स्टाइल वीडियो
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
 > रेफरेंस इमेज का उपयोग करके एक एपिक सिनेमाई ट्रेलर-शैली का वीडियो बनाने के लिए प्रॉम्प्ट, जिसमें हाइपर-डिटेल्ड रेंडरिंग, Unreal Engine 5 की सौंदर्यशास्त्र और गुणवत्ता नियंत्रण के लिए विशेष नेगेटिव कंस्ट्रेंट्स पर जोर दिया गया है।
 
@@ -482,7 +543,7 @@ Seedance 2.0 का उपयोग करके रात में सिन�
 ---
 ### शहरी स्केटिंग हाई स्पीड
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
 > भीड़भाड़ वाले शहरी सड़क पर रियलिस्टिक मोशन ब्लर और हैंडहेल्ड कैमरा फील के साथ हाई-स्पीड स्केटिंग वीडियो जनरेट करने के लिए एक सरल 'आलसी' प्रॉम्प्ट।
 
@@ -6439,71 +6500,6 @@ Motion quality: Keep her movements extremely natural and smooth, especially the 
 **लेखक:** [ayzalnoor](https://x.com/ayzalnooor24521) | **स्रोत:** [Link](https://x.com/ayzalnooor24521/status/2101911177962090931) | **प्रकाशित:** Sep 21, 2026
 
 ---
-### सिनेमैटिक फैशन परफॉर्मेंस सीन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक आत्मविश्वास से भरी महिला और नर्तकों के साथ रात के माहौल में अल्ट्रा-रियलिस्टिक सिनेमैटिक फैशन परफॉर्मेंस वीडियो बनाने के लिए एक उच्च-गुणवत्ता वाला प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-अल्ट्रा-रियलिस्टिक सिनेमैटिक फैशन परफॉर्मेंस सीन, लंबे काले बालों वाली एक सुंदर युवा महिला जो आत्मविश्वास के साथ बीच में खड़ी है, उसने एक शानदार सफेद स्ट्रैपलेस कॉर्सेट टॉप, डार्क हाई-वेस्टेड फिट ज़ीन्स, लेयर्ड सिल्वर नेकलेस और हुप ईयरिंग्स पहने हुए हैं। कई स्टाइलिश महिला नर्तक उसके चारों ओर घेरे हुए हैं, वे ब्लैक लेदर आउटफिट्स में हैं और समन्वित डांस पोज़ बना रहे हैं। नाटकीय रात का दृश्य, पीछे कारें और चमकती हेडलाइट्स, मूडी औद्योगिक वातावरण, गर्म बैकलाइटिंग, हल्का धुंधलापन, यथार्थवादी छायाएँ, गतिशील संरचना, शक्तिशाली आत्मविश्वास से भरा चेहरा, प्रोफेशनल म्यूज़िक-वीडियो एस्थेटिक, फोटोरियलिस्टिक त्वचा और कपड़ों की बारीकियाँ, कम गहराई का फोकस (shallow depth of field), सिनेमैटिक लाइटिंग, उच्च कंट्रास्ट, 8K, HDR, 85mm लेंस, वर्टिकल 9:16 संरचना।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101890134324965376/img/6EDeEE39ubzVBvhK.jpg" width="600" alt="सिनेमैटिक फैशन परफॉर्मेंस सीन">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=11072)**
-
-**लेखक:** [AIwithMinal](https://x.com/AIwithMinal) | **स्रोत:** [Link](https://x.com/AIwithMinal/status/2101890198703354285) | **प्रकाशित:** Sep 21, 2026
-
----
-### खेल-कूद में लीन कोरियाई लड़की का प्लेग्राउंड वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 के लिए एक विस्तृत वीडियो जनरेशन प्रॉम्प्ट जो एक युवा महिला के प्लेग्राउंड में सिनेमाई अनुक्रम को दर्शाता है, जिसमें स्लाइड से झूला और फिर शॉपिंग कार्ट में सोने तक के संक्रमण शामिल हैं।
-
-#### 📝 प्रॉम्पट
-
-```
-एक सुंदर कोरियाई लड़की का वीडियो बनाएं जो एक रंग-बिरंगे आउटडोर प्लेग्राउंड में खेल-कूद और सपनों भरी दिनचर्या में व्यस्त है।
-वह कैजुअल सफेद शर्ट, डार्क जीन्स, स्नीकर्स पहने हुए है और उसके कंधे पर एक स्टाइलिश लेपर्ड-प्रिंट बैग है।
-उसे एक चमकीले पीले रंग की प्लेग्राउंड स्लाइड पर आराम करते हुए और शैतानी अंदाज में लेटे हुए दिखाएं।
-फिर उसे एक झूले पर चुपचाप बैठे हुए दिखाएं, जहाँ वह थोड़ी थकी हुई और अपने ही ख्यालों में खोई हुई लग रही है।
-बाद में, उसे प्लेग्राउंड के किनारे पर एक मजेदार नारंगी रंग की कोन टोपी (cone hat) पहने हुए दिखाएं, जो एक अनोखा सिनेमाई क्षण पैदा करता है।
-उसे नरम प्राकृतिक दिन के उजाले और शांत माहौल में कंक्रीट की सीढ़ियों पर शांतिपूर्वक विश्राम करते हुए दिखाएं।
-वीडियो का अंत उसकी एक बास्केटबॉल से भरी शॉपिंग कार्ट में आराम से सोते हुए करें, जो एक मज़ेदार और अप्रत्याशित दृश्य बनाता है।
-यथार्थवादी चेहरे के भाव, स्वाभाविक शारीरिक गतिविधि, सिनेमाई कैमरा मूवमेंट, हल्के रंगों और फोटो-रियलिस्टिक विवरणों का उपयोग करें।
-पूरे वीडियो में कोरियाई लड़की की पहचान और उपस्थिति को स्थिर रखें, साथ ही स्मूथ ट्रांजिशन और एक खेल-कूद भरे सिनेमाई कहानी सुनाने के अंदाज को बनाए रखें।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101889348534956032/img/I07P989JdZB8i-lk.jpg" width="600" alt="खेल-कूद में लीन कोरियाई लड़की का प्लेग्राउंड वीडियो प्रॉम्प्ट">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=11071)**
-
-**लेखक:** [liana](https://x.com/Lianaalane) | **स्रोत:** [Link](https://x.com/Lianaalane/status/2101889590621536594) | **प्रकाशित:** Sep 21, 2026
-
----
-### Luxury Skincare Commercial Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for creating a 15-second ultra-realistic luxury skincare commercial featuring a product jar in a water-themed environment with cinematic transitions.
-
-#### 📝 प्रॉम्पट
-
-```
-Create a 15-second ultra-realistic luxury skincare commercial featuring an elegant glass jar labeled “AQUA LUXE – DEEP HYDRATION” in a cool blue, refreshing environment. Start with a soft blue atmospheric background as gentle light rays and subtle water particles create a clean premium mood. Slowly reveal the skincare jar standing on a glossy water surface, with realistic reflections and cinematic depth of field. Gradually move the camera closer while soft highlights glide across the metallic silver lid and glass packaging. Surround the jar with smooth, silky white cream-like waves flowing gracefully around it, creating a luxurious skincare texture. Add floating water droplets and tiny bubbles moving naturally through the scene with realistic physics. Transition into a dramatic splash of crystal-clear water wrapping around the product while keeping the jar perfectly sharp and centered. Introduce delicate white flowers and fresh green leaves around the splash for a fresh hydration-inspired atmosphere. End with a beautiful hero shot of the AQUA LUXE DEEP HYDRATION jar centered against the blue background, surrounded by water droplets, flowers, and soft glowing light, with premium cinematic lighting and flawless product focus.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101887426138681344/img/DRaV306w9sxwKjTb.jpg" width="600" alt="Luxury Skincare Commercial Video Prompt">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=11073)**
-
-**लेखक:** [Maha](https://x.com/Aiwithmaha) | **स्रोत:** [Link](https://x.com/Aiwithmaha/status/2101887507059351894) | **प्रकाशित:** Sep 21, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
@@ -6565,6 +6561,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-10-06T01:27:44.579Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-10-06T11:25:44.472Z</sub>
 
 </div>

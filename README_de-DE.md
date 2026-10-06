@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6504** |
+| 📝 Gesamtanzahl Prompts | **6507** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-10-06** |
 
@@ -361,6 +361,44 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Verspielte Basketball-Szene mit Hund-Maskottchen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für ein fotorealistisches Video eines koreanischen Mädchens, das Basketball mit einem riesigen Hund-Maskottchen spielt, mit sanften Kamerabewegungen und einer von K-Dramen inspirierten Ästhetik.
+
+#### 📝 Prompt
+
+```
+Eine schöne Koreanerin mit langen dunklen Haaren, die ein eng anliegendes schwarzes ärmelloses Top, schwarze Shorts und weiße Sneaker trägt, spielt Basketball auf einem orangefarbenen Outdoor-Basketballplatz, umgeben von üppig grünen Bäumen. Ein niedliches übergroßes weißes Cartoon-Hund-Maskottchen mit schwarzen Schlappohren steht ihr gegenüber und hält einen Basketball, den es aufprellt. Die Szene beginnt mit einer weiten kinematografischen Aufnahme, in der das Mädchen dem riesigen Hund-Charakter nahe am Basketballkorb zugewandt ist. Sie interagiert spielerisch mit dem Maskottchen, während sie den Ball dribbelt, was eine lustige und charmante Atmosphäre erzeugt. Die Kamera bewegt sich sanft zwischen Weitwinkel- und Halbnaheinstellungen, fängt die natürlichen Gesichtsausdrücke des Mädchens, ihre fließenden Haare, realistische Körperbewegungen und die niedlichen Reaktionen des Maskottchens ein. In der Mitte des Videos tritt das Mädchen näher an die Kamera heran, hält den Basketball und blickt selbstbewusst und leicht verspielt. Der riesige Hund-Charakter bleibt im Hintergrund sichtbar und reagiert humorvoll auf ihre Bewegungen. Gegen Ende bewegt sie sich zurück zum Basketballkorb und bereitet sich auf einen weiteren spielerischen Basketball-Moment vor, während das Maskottchen im Vordergrund zu sehen ist. Fotorealistische Koreanerin, natürliche Hauttextur, realistische Gesichtszüge, konsistente Identität, detaillierte Haarsträhnen, realistische athletische Bewegung, kinematografisches Outdoor-Licht, weiches bedecktes Tageslicht, geringe Schärfentiefe, sanfte Handkamera-Bewegung, realistische Basketballplatz-Texturen, natürliche Schatten, hochdetaillierte 4K-Kinoqualität, verspielter visuellem Stil inspiriert von K-Dramen, keine Gesichtsverzerrung, keine zusätzlichen Finger, keine unnatürlichen Körperbewegungen, kein Text oder Wasserzeichen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107339831844171776/img/4LsCyW9rPzzslP5o.jpg" width="600" alt="Verspielte Basketball-Szene mit Hund-Maskottchen">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11984)**
+
+**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Quelle:** [Link](https://x.com/ayzalnooor24521/status/2107340030536741222) | **Veröffentlicht:** Oct 6, 2026
+
+---
+### Monsterangriff in einer Vorstadtsiedlung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für eine cineastische, VFX-lastige Szene, in der ein riesiges Wesen bei Sonnenuntergang aus dem Boden einer Vorstadt auftaucht.
+
+#### 📝 Prompt
+
+```
+Ultra-realistische cineastische Szene einer Vorstadtsiedlung bei Sonnenuntergang. Ein mysteriöses, leuchtendes Objekt erscheint auf einem grasbewachsenen Rasen, als plötzlich ein riesiges, groteskes grünes Wesen aus dem Boden bricht. Enormer schleimiger Körper mit detaillierter Textur, wütende ausdrucksstarke Augen, realistische Hautdetails, Staub und Trümmer fliegen durch die Luft. Ein schockierter Mann beobachtet das Geschehen aus sicherer Entfernung. Im Hintergrund steht ein luxuriöses Vorstadthaus. Dramatisches Licht der goldenen Stunde, atmosphärischer Dunst, cineastische Kamerabewegung, geringe Schärfentiefe, fotorealistische VFX, hochdetailliert, 8K, realistische Schatten, epischer Hollywood-Filmstil, vertikale 9:16-Komposition.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107333865253773312/img/OglQcBBKfBfaKX1l.jpg" width="600" alt="Monsterangriff in einer Vorstadtsiedlung">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11985)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2107333962402341067) | **Veröffentlicht:** Oct 6, 2026
+
+---
 ### Cyberpunk-Frau in Neon-Gasse
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -460,9 +498,32 @@ Erstelle eine cineastische 14,6-sekündige Action-Szene mit einem kraftvollen an
 **Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2106938584431526162) | **Veröffentlicht:** Oct 5, 2026
 
 ---
+### Tusche-Stil Wuxia Video-Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Prompt für die Videogenerierung mit Seedance 2.0, der eine 15-sekündige Wuxia-Szene im Tusche-Stil mit spezifischen Kamerabewegungen, Partikeleffekten und dynamischer Bewegungsunschärfe erstellt.
+
+#### 📝 Prompt
+
+```
+[0–3s] Kamera: Schneller Push-in von einer Nahaufnahme des Klingen-Glanzes, während sich die Kamera mit 180°/s im Uhrzeigersinn dreht und in die Silhouette eines Bambushuts (Douli) schneidet. Visuals: Nahaufnahme des Tusche-Klingenglitzerns, nach außen explodierende Partikel-Funken; die Douli-Silhouette taucht aus wallenden Tuschewolken auf. Effekte: Bewegungsunschärfe, Tuschepinsel-Spuren, Partikeleffekte.
+[3–6s] Kamera: Hochgeschwindigkeits-360°-Orbit um den Charakter zentriert (270°/s), folgt der Trajektorie des Schwunges. Visuals: Mittlere Einstellung des Charakters beim Schwingen der Klinge, wehende Roben, Tuschepinselstriche fließen mit der Bewegung. Effekte: Dynamischer Tuscherauch, Bewegungsunschärfe auf den Roben, visueller Drag durch die Rotation.
+[6–9s] Kamera: Hochgeschwindigkeits-Seitliches Tracking-Shot (links → rechts), während die Kamera neigt und gegen den Uhrzeigersinn mit 90°/s rotiert, fixiert auf den Pfad der Klinge. Visuals: Die Trajektorienlinie der Klinge, nach außen explodierende Partikel-Funken, Tuschepinsel-Spuren. Effekte: Bewegungsunschärfe, Partikeleffekte, Tuschengeister-Spuren.
+[9–12s] Kamera: Low-Angle-Aufwärtsaufnahme mit schnellem Crane-Up, während die Kamera mit 225°/s spiraliert, steigt von den Tuscheflecken am Boden zum Oberkörper des Charakters. Visuals: Tuscheflecken am Boden, der Charakter mitten im Schwung (Oberkörper), rollende Tuschewolken im Hintergrund. Effekte: Dynamische Tuschewolken, Bewegungsunschärfe während des Aufstiegs, tintfarbener Wirbel erzeugt durch die Rotation.
+[12–15s] Kamera: Zeitlupen-Nahaufnahme, mit langsamer Drehung der Kamera im Uhrzeigersinn mit 15°/s, während das Klingenlicht an Ort und Stelle einfriert. Visuals: Nahaufnahme des Klingenlichts, scharfe und klare Partikeleffekte, der Blick des Charakters unter dem Schatten des Douli (optional). Effekte: Zeitlupe, sich auflösende Partikel, subtile Kamerawackeln.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106931329535459328/img/XKp-5If8NQ95ETQI.jpg" width="600" alt="Tusche-Stil Wuxia Video-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11986)**
+
+**Autor:** [Zidan 子丹](https://x.com/liluocheng13) | **Quelle:** [Link](https://x.com/liluocheng13/status/2106931613427028260) | **Veröffentlicht:** Oct 5, 2026
+
+---
 ### Epischer Kinotrailer-Stil Video
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
 > Ein Prompt zur Generierung eines epischen Videos im Stil eines Kinotrailers unter Verwendung eines Referenzbildes, der hyperdetaillierte Rendering-Techniken, Unreal Engine 5 Ästhetik und spezifische Negativ-Kriterien zur Qualitätskontrolle betont.
 
@@ -482,7 +543,7 @@ Verwenden Sie Referenzbild 1, um ein episches Kino-Video zu erstellen.
 ---
 ### Urbanes Skateboarding in Hochgeschwindigkeit
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
 > Ein einfacher 'fauler' Prompt zur Generierung eines hochdynamischen Skateboard-Videos durch eine belebte Stadtstraße mit realistischer Bewegungsunschärfe und Handkamera-Gefühl.
 
@@ -6532,71 +6593,6 @@ Erstellen Sie eine schöne 25-sekündige cineastische Montage mit realistischen 
 **Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Quelle:** [Link](https://x.com/ayzalnooor24521/status/2101911177962090931) | **Veröffentlicht:** Sep 21, 2026
 
 ---
-### Cinematische Modenschau-Performance-Szene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochwertiger Prompt zur Generierung eines ultrarealistischen, cinematischen Mode-Performance-Videos mit einer selbstbewussten Frau und Tänzern in einer nächtlichen Umgebung.
-
-#### 📝 Prompt
-
-```
-Ultrarealistische cinematische Mode-Performance-Szene. Eine schöne junge Frau mit langen, dunkelschwarzen Haaren steht selbstbewusst im Mittelpunkt. Sie trägt ein elegantes weißes trägerloses Korsett-Top, dunkle High-Waist-Jeans mit engem Schnitt, geschichtete Silberketten und Creolen. Mehrere stilvolle Tänzerinnen umgeben sie, gekleidet in schwarze Lederoutfits, in synchronisierten Tanzposen. Dramatische Nachtumgebung mit Autos und hellen Scheinwerfern hinter ihnen, stimmungsvolle industrielle Atmosphäre, warmes Gegenlicht, dezenter Dunst, realistische Schatten, dynamische Komposition, kraftvoller, selbstbewusster Ausdruck, professionelle Musikvideo-Ästhetik, fotorealistische Haut- und Stoffdetails, geringe Schärfentiefe, cinematische Beleuchtung, hoher Kontrast, 8K, HDR, 85-mm-Objektiv, vertikale 9:16-Komposition.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101890134324965376/img/6EDeEE39ubzVBvhK.jpg" width="600" alt="Cinematische Modenschau-Performance-Szene">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11072)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2101890198703354285) | **Veröffentlicht:** Sep 21, 2026
-
----
-### Video-Prompt: Verspieltes koreanisches Mädchen auf dem Spielplatz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Generierungs-Prompt für Seedance 2.0, der eine cineastische Sequenz eines jungen Mädchens auf einem Spielplatz erstellt und Übergänge vom Rutschen über Schaukeln bis zum Schlafen in einem Einkaufswagen zeigt.
-
-#### 📝 Prompt
-
-```
-Erstelle ein Video von einem schönen koreanischen Mädchen, das einen verspielten, traumhaften Tag auf einem bunten Outdoor-Spielplatz verbringt.
-Sie trägt ein lässiges weißes Hemd, dunkle Jeans, Sneaker und hat eine stilvolle Umhängetasche mit Leopardenmuster dabei.
-Zeige sie entspannt und verspielt liegend auf einer leuchtend gelben Spielplatzrutsche.
-Wechsle dann zu ihr, wie sie ruhig auf einer Schaukel sitzt, leicht müde wirkt und in Gedanken versunken ist.
-Später sitzt sie am Rand des Spielplatzes und trägt einen lustigen orangefarbenen Hütchen, was einen skurrilen cineastischen Moment erzeugt.
-Zeige sie friedlich ruhend auf Betonstufen bei weichem natürlichem Tageslicht und einer ruhigen Atmosphäre.
-Ende mit ihr, wie sie bequem schlafend in einem Einkaufswagen liegt, der mit Basketbällen gefüllt ist, um eine lustige unerwartete Szene zu schaffen.
-Verwende realistische Gesichtsausdrücke, natürliche Körperbewegungen, cineastische Kamerabewegungen, weiche Farben und fotorealistische Details.
-Halte die Identität und das Aussehen des koreanischen Mädchens im gesamten Video konsistent, mit sanften Übergängen und einem verspielten cineastischen Erzählstil.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101889348534956032/img/I07P989JdZB8i-lk.jpg" width="600" alt="Video-Prompt: Verspieltes koreanisches Mädchen auf dem Spielplatz">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11071)**
-
-**Autor:** [liana](https://x.com/Lianaalane) | **Quelle:** [Link](https://x.com/Lianaalane/status/2101889590621536594) | **Veröffentlicht:** Sep 21, 2026
-
----
-### Luxus-Hautpflege-Werbespot Video-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Erstellung eines 15-sekündigen, ultra-realistischen Luxus-Hautpflege-Werbespots mit einem Produktglas in einer wasserthemenumgebung und kinematischen Übergängen.
-
-#### 📝 Prompt
-
-```
-Erstellen Sie einen 15-sekündigen, ultra-realistischen Luxus-Hautpflege-Werbespot, der ein elegantes Glas mit der Aufschrift “AQUA LUXE – DEEP HYDRATION” in einer kühlen blauen, erfrischenden Umgebung zeigt. Beginnen Sie mit einem weichen blauen atmosphärischen Hintergrund, während sanfte Lichtstrahlen und subtile Wassertropfen eine saubere Premium-Stimmung erzeugen. Enthüllen Sie langsam das Hautpflegeglas, das auf einer glänzenden Wasseroberfläche steht, mit realistischen Reflexionen und kinematischer Tiefenschärfe. Bewegen Sie die Kamera allmählich näher heran, während weiche Highlights über den metallisch-silbernen Deckel und die Glasverpackung gleiten. Umgeben Sie das Glas mit glatten, seidig-weißen cremartigen Wellen, die elegant darum fließen und eine luxuriöse Hautpflegetextur erzeugen. Fügen Sie schwebende Wassertropfen und kleine Bläschen hinzu, die sich mit realistischer Physik natürlich durch die Szene bewegen. Gehen Sie zu einem dramatischen Spritzer aus kristallklarem Wasser über, der das Produkt umhüllt, während das Glas perfekt scharf und zentriert bleibt. Integrieren Sie zarte weiße Blumen und frische grüne Blätter um den Spritzer für eine frisch-feuchtigkeitsspendende Atmosphäre. Enden Sie mit einer schönen Hero-Aufnahme des AQUA LUXE DEEP HYDRATION Glases, zentriert vor dem blauen Hintergrund, umgeben von Wassertropfen, Blumen und weichem Leuchten, mit hochwertiger kinematischer Beleuchtung und makelloser Produktfokus.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101887426138681344/img/DRaV306w9sxwKjTb.jpg" width="600" alt="Luxus-Hautpflege-Werbespot Video-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11073)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2101887507059351894) | **Veröffentlicht:** Sep 21, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -6658,6 +6654,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-06T01:27:48.223Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-06T11:25:48.872Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6504** |
+| 📝 Tổng số prompt | **6507** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-10-06** |
 
@@ -361,6 +361,44 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Cảnh bóng rổ vui nhộn với linh vật chú chó
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video siêu thực về một cô gái Hàn Quốc chơi bóng rổ cùng linh vật chó khổng lồ, với các chuyển động camera mượt mà và phong cách thẩm mỹ lấy cảm hứng từ phim truyền hình Hàn Quốc (K-drama).
+
+#### 📝 Prompt
+
+```
+Một cô gái Hàn Quốc xinh đẹp với mái tóc đen dài, mặc áo ba lỗ đen ôm sát, quần short thể thao màu đen và giày sneaker trắng, đang chơi bóng rổ trên sân bóng rổ ngoài trời màu cam được bao quanh bởi những tán cây xanh mướt. Một linh vật chú chó hoạt hình màu trắng quá khổ dễ thương với đôi tai đen rủ xuống đang đứng đối diện cô, cầm và nảy quả bóng rổ. Cảnh quay bắt đầu bằng một góc máy điện ảnh rộng cho thấy cô gái đang đối mặt với nhân vật chú chó khổng lồ gần vành bóng rổ. Cô tương tác vui vẻ với linh vật trong khi dẫn bóng, tạo ra một bầu không khí thú vị và quyến rũ. Camera di chuyển mượt mà giữa các cảnh quay rộng và cận trung, nắm bắt biểu cảm tự nhiên của cô gái, mái tóc bay bổng, chuyển động cơ thể chân thực và phản ứng đáng yêu của linh vật. Ở giữa video, cô gái bước lại gần camera hơn trong khi cầm bóng rổ, trông tự tin và hơi tinh nghịch. Nhân vật chú chó khổng lồ vẫn hiện diện ở phía sau, phản ứng hài hước với các động tác của cô. Về cuối, cô di chuyển trở lại phía vành bóng rổ và chuẩn bị cho một khoảnh khắc bóng rổ vui nhộn khác trong khi linh vật xuất hiện ở tiền cảnh. Cô gái Hàn Quốc siêu thực, kết cấu da tự nhiên, đặc điểm khuôn mặt chân thực, danh tính nhất quán, chi tiết từng sợi tóc, chuyển động thể thao chân thực, ánh sáng ngoài trời mang tính điện ảnh, ánh sáng ban ngày dịu nhẹ nhiều mây, độ sâu trường ảnh nông, chuyển động camera cầm tay mượt mà, kết cấu sân bóng rổ chân thực, bóng đổ tự nhiên, chất lượng điện ảnh 4K chi tiết cao, phong cách hình ảnh vui nhộn lấy cảm hứng từ K-drama, không biến dạng khuôn mặt, không thừa ngón tay, không có chuyển động cơ thể bất thường, không có văn bản hoặc watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107339831844171776/img/4LsCyW9rPzzslP5o.jpg" width="600" alt="Cảnh bóng rổ vui nhộn với linh vật chú chó">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11984)**
+
+**Tác giả:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Nguồn:** [Link](https://x.com/ayzalnooor24521/status/2107340030536741222) | **Đã xuất bản:** Oct 6, 2026
+
+---
+### Cuộc tấn công của quái vật tại khu phố ngoại ô
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt cho một cảnh quay điện ảnh nặng về VFX, nơi một sinh vật khổng lồ trồi lên từ mặt đất trong bối cảnh ngoại ô lúc hoàng hôn.
+
+#### 📝 Prompt
+
+```
+Cảnh quay điện ảnh siêu thực tại một khu phố ngoại ô lúc hoàng hôn. Một vật thể phát sáng bí ẩn xuất hiện trên bãi cỏ khi một sinh vật xanh khổng lồ, kỳ dị đột ngột trồi lên từ mặt đất. Cơ thể to lớn, kết cấu nhầy nhụa, đôi mắt biểu cảm đầy giận dữ, chi tiết da chân thực. Bụi và mảnh vỡ bay tung trong không khí. Một người đàn ông kinh hãi đứng nhìn từ xa. Phía sau là ngôi nhà sang trọng kiểu ngoại ô. Ánh sáng giờ vàng kịch tính, sương mù bao phủ, chuyển động máy quay điện ảnh, độ sâu trường ảnh nông, hiệu ứng hình ảnh (VFX) siêu thực, cực kỳ chi tiết, 8K, bóng đổ chân thực, phong cách phim Hollywood hoành tráng, bố cục dọc 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107333865253773312/img/OglQcBBKfBfaKX1l.jpg" width="600" alt="Cuộc tấn công của quái vật tại khu phố ngoại ô">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11985)**
+
+**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2107333962402341067) | **Đã xuất bản:** Oct 6, 2026
+
+---
 ### Cyberpunk Woman Neon Alley
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -460,9 +498,32 @@ Tạo một cảnh hành động điện ảnh dài 14.6 giây, nổi bật vớ
 **Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2106938584431526162) | **Đã xuất bản:** Oct 5, 2026
 
 ---
+### Prompt Video Phong Cách Tranh Mực Wuxia
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt tạo video chi tiết cho Seedance 2.0, xây dựng cảnh wuxia phong cách tranh mực dài 15 giây với các chuyển động máy quay cụ thể, hiệu ứng hạt và motion blur động.
+
+#### 📝 Prompt
+
+```
+[0–3s] Máy quay: Đẩy nhanh từ cận cảnh ánh sáng lấp lánh trên lưỡi kiếm, đồng thời xoay theo chiều kim đồng hồ ở tốc độ 180°/s, cắt vào bóng dáng của chiếc nón lá (douli). Hình ảnh: Cận cảnh ánh sáng lưỡi kiếm kiểu tranh mực, tia lửa hạt bắn ra ngoài; bóng dáng douli hiện lên từ những đám mây mực cuộn trào. Hiệu ứng: Motion blur, vệt nét bút mực, hiệu ứng hạt.
+[3–6s] Máy quay: Quỹ đạo 360° tốc độ cao tập trung vào nhân vật (270°/s), bám theo quỹ đạo vung kiếm. Hình ảnh: Trung cảnh nhân vật vung kiếm, áo bào bay phất, nét bút mực chảy theo chuyển động. Hiệu ứng: Khói mực động, motion blur trên áo bào, lực kéo hình ảnh do chuyển động xoay.
+[6–9s] Máy quay: Cảnh tracking ngang tốc độ cao (trái → phải), đồng thời nghiêng và xoay ngược chiều kim đồng hồ ở tốc độ 90°/s, khóa chặt vào đường đi của lưỡi kiếm. Hình ảnh: Đường cong quỹ đạo lưỡi kiếm, tia lửa hạt bắn ra ngoài, vệt nét bút mực. Hiệu ứng: Motion blur, hiệu ứng hạt, vệt mờ mực ma.
+[9–12s] Máy quay: Góc thấp hướng lên với cần cẩu nâng nhanh, đồng thời xoắn ốc ở tốc độ 225°/s, nâng từ vết mực trên mặt đất lên phần thân trên của nhân vật. Hình ảnh: Vết mực trên mặt đất, nhân vật đang giữa động tác vung kiếm (thân trên), mây mực cuộn trong nền. Hiệu ứng: Mây mực động, motion blur khi nâng lên, xoáy nước màu mực tạo bởi chuyển động xoay.
+[12–15s] Máy quay: Cận cảnh slow-motion, với máy quay xoay chậm theo chiều kim đồng hồ ở tốc độ 15°/s khi ánh sáng lưỡi kiếm đóng băng tại chỗ. Hình ảnh: Cận cảnh ánh sáng lưỡi kiếm, hiệu ứng hạt sắc nét và rõ ràng, ánh mắt nhân vật dưới bóng của douli (tùy chọn). Hiệu ứng: Slow motion, hạt tan biến, rung nhẹ máy quay.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106931329535459328/img/XKp-5If8NQ95ETQI.jpg" width="600" alt="Prompt Video Phong Cách Tranh Mực Wuxia">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11986)**
+
+**Tác giả:** [Zidan 子丹](https://x.com/liluocheng13) | **Nguồn:** [Link](https://x.com/liluocheng13/status/2106931613427028260) | **Đã xuất bản:** Oct 5, 2026
+
+---
 ### Video Phong Cách Trailer Điện Ảnh Hùng Tráng
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
 > Prompt tạo video phong cách trailer điện ảnh hùng tráng bằng hình ảnh tham chiếu, nhấn mạnh kết xuất siêu chi tiết, thẩm mỹ Unreal Engine 5 và các ràng buộc tiêu cực cụ thể để kiểm soát chất lượng.
 
@@ -482,7 +543,7 @@ Sử dụng hình ảnh tham chiếu 1 để tạo một video điện ảnh hù
 ---
 ### Trượt Ván Tốc Độ Cao Trong Đô Thị
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
 > Prompt 'lười' đơn giản để tạo video trượt ván tốc độ cao qua phố đông đúc với hiệu ứng mờ chuyển động chân thực và cảm giác quay cầm tay.
 
@@ -6451,71 +6512,6 @@ Hãy tạo ra một video montage điện ảnh 25 giây tuyệt đẹp với ch
 **Tác giả:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Nguồn:** [Link](https://x.com/ayzalnooor24521/status/2101911177962090931) | **Đã xuất bản:** Sep 21, 2026
 
 ---
-### Cảnh Thời Trang Biểu Diễn Điện Ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt chất lượng cao để tạo ra video biểu diễn thời trang điện ảnh siêu thực, nổi bật với một người phụ nữ tự tin và các vũ công trong bối cảnh đêm.
-
-#### 📝 Prompt
-
-```
-Cảnh biểu diễn thời trang điện ảnh siêu thực, một cô gái trẻ xinh đẹp với mái tóc đen dài buông xõa đứng đầy tự tin ở trung tâm, mặc áo corset trắng không dây thanh lịch, quần jean tối màu cạp cao ôm sát, đeo nhiều lớp vòng cổ bạc và khuyên tai tròn. Xung quanh cô là vài vũ công nữ phong cách, diện trang phục da đen, tạo dáng nhảy đồng bộ. Bối cảnh đêm kịch tính với những chiếc xe và đèn pha sáng rực phía sau, bầu không khí công nghiệp u ám, ánh sáng ngược ấm áp, sương mù nhẹ, bóng đổ chân thực, bố cục động lực, biểu cảm mạnh mẽ và tự tin, thẩm mỹ chuyên nghiệp kiểu video âm nhạc, chi tiết da và vải photorealistic, độ sâu trường ảnh nông, ánh sáng điện ảnh, độ tương phản cao, 8K, HDR, ống kính 85mm, bố cục dọc 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101890134324965376/img/6EDeEE39ubzVBvhK.jpg" width="600" alt="Cảnh Thời Trang Biểu Diễn Điện Ảnh">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11072)**
-
-**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2101890198703354285) | **Đã xuất bản:** Sep 21, 2026
-
----
-### Prompt Video Cô Gái Hàn Quốc Vui Nhộn Tại Sân Chơi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video chi tiết cho Seedance 2.0, xây dựng một chuỗi cảnh điện ảnh về một cô gái trẻ tại sân chơi, với các chuyển cảnh từ trượt cầu thang sang đu quay và ngủ trong xe đẩy hàng.
-
-#### 📝 Prompt
-
-```
-Tạo một video về một cô gái Hàn Quốc xinh đẹp đang có một ngày vui vẻ, mơ màng tại một sân chơi ngoài trời đầy màu sắc.
-Cô mặc áo sơ mi trắng đơn giản, quần jean tối màu, giày thể thao và đeo một chiếc túi xách vai họa tiết da báo thời thượng.
-Thể hiện cảnh cô thư giãn và nằm vui đùa trên một cầu thang trượt màu vàng tươi sáng của sân chơi.
-Sau đó chuyển cảnh sang lúc cô ngồi yên lặng trên xích đu, trông hơi mệt mỏi và chìm trong suy tư.
-Tiếp theo, cô ngồi ở mép sân chơi đội một chiếc mũ hình nón giao thông màu cam hài hước, tạo nên một khoảnh khắc điện ảnh độc đáo.
-Thể hiện cảnh cô nghỉ ngơi bình yên trên những bậc thang bê tông với ánh sáng ban ngày tự nhiên dịu nhẹ và bầu không khí tĩnh lặng.
-Kết thúc bằng cảnh cô ngủ ngon lành bên trong một chiếc xe đẩy hàng chứa đầy bóng rổ, tạo ra một tình huống bất ngờ và thú vị.
-Sử dụng biểu cảm khuôn mặt chân thực, chuyển động cơ thể tự nhiên, góc quay điện ảnh, màu sắc nhẹ nhàng và chi tiết siêu thực.
-Giữ nguyên danh tính và ngoại hình của cô gái Hàn Quốc nhất quán trong suốt toàn bộ video, với các chuyển cảnh mượt mà và phong cách kể chuyện điện ảnh vui nhộn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101889348534956032/img/I07P989JdZB8i-lk.jpg" width="600" alt="Prompt Video Cô Gái Hàn Quốc Vui Nhộn Tại Sân Chơi">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11071)**
-
-**Tác giả:** [liana](https://x.com/Lianaalane) | **Nguồn:** [Link](https://x.com/Lianaalane/status/2101889590621536594) | **Đã xuất bản:** Sep 21, 2026
-
----
-### Prompt Video Quảng Cáo Chăm Sóc Da Cao Cấp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt chi tiết để tạo ra video quảng cáo chăm sóc da cao cấp siêu thực tế dài 15 giây, nổi bật với hũ sản phẩm trong môi trường chủ đề nước và các hiệu ứng chuyển cảnh điện ảnh.
-
-#### 📝 Prompt
-
-```
-Tạo một video quảng cáo chăm sóc da cao cấp siêu thực tế dài 15 giây, nổi bật với một hũ thủy tinh thanh lịch có nhãn “AQUA LUXE – DEEP HYDRATION” trong một môi trường màu xanh lam mát mẻ, sảng khoái. Bắt đầu với nền khí quyển xanh lam nhẹ nhàng khi những tia sáng dịu dàng và các hạt nước tinh tế tạo nên bầu không khí sạch sẽ, đẳng cấp. Từ từ hé lộ hũ kem dưỡng da đứng trên bề mặt nước bóng loáng, với phản chiếu chân thực và độ sâu trường ảnh mang tính điện ảnh. Di chuyển máy quay lại gần dần trong khi những điểm sáng mềm mại lướt qua nắp bạc kim loại và bao bì thủy tinh. Bao quanh hũ bằng những làn sóng kem trắng mịn màng, mượt mà như lụa trôi uyển chuyển xung quanh nó, tạo nên kết cấu chăm sóc da sang trọng. Thêm các giọt nước lơ lửng và bong bóng nhỏ di chuyển tự nhiên qua cảnh với vật lý chân thực. Chuyển tiếp vào một cú bắn nước kịch tính của dòng nước trong suốt bao quanh sản phẩm trong khi giữ cho hũ luôn sắc nét và ở vị trí trung tâm hoàn hảo. Giới thiệu những bông hoa trắng tinh tế và lá xanh tươi mới xung quanh cú bắn nước để tạo bầu không khí truyền cảm hứng từ sự cấp ẩm tươi mới. Kết thúc bằng một bức ảnh hero tuyệt đẹp của hũ AQUA LUXE DEEP HYDRATION ở chính giữa trên nền xanh lam, được bao quanh bởi các giọt nước, hoa và ánh sáng phát quang dịu nhẹ, với ánh sáng điện ảnh cao cấp và tiêu điểm sản phẩm hoàn hảo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101887426138681344/img/DRaV306w9sxwKjTb.jpg" width="600" alt="Prompt Video Quảng Cáo Chăm Sóc Da Cao Cấp">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11073)**
-
-**Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2101887507059351894) | **Đã xuất bản:** Sep 21, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -6577,6 +6573,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-06T01:27:43.313Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-06T11:25:42.687Z</sub>
 
 </div>

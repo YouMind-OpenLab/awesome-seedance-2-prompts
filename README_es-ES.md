@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6504** |
+| 📝 Total de prompts | **6507** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-10-06** |
 
@@ -361,6 +361,44 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Escena de baloncesto divertida con mascota canina
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para un video fotorrealista de una chica coreana jugando al baloncesto con una mascota gigante de perro, caracterizado por transiciones de cámara suaves y estética inspirada en los K-dramas.
+
+#### 📝 Prompt
+
+```
+Una hermosa chica coreana de cabello oscuro largo, vistiendo una camiseta negra sin mangas ajustada, pantalones cortos deportivos negros y zapatillas blancas, está jugando al baloncesto en una cancha exterior de color naranja rodeada de árboles verdes frondosos. Una adorable mascota gigante estilo caricatura blanca con orejas negras caídas se encuentra frente a ella, sosteniendo y rebotando un balón de baloncesto. La escena comienza con un plano cinematográfico amplio que muestra a la chica frente al personaje del perro gigante cerca de la canasta. Ella interactúa juguetonamente con la mascota mientras dribla el balón, creando una atmósfera divertida y encantadora. La cámara se mueve suavemente entre planos amplios y primeros planos medios, capturando las expresiones naturales de la chica, su cabello fluido, movimientos corporales realistas y las reacciones tiernas de la mascota. En la mitad del video, la chica se acerca más a la cámara mientras sostiene el balón, mostrando una actitud segura y ligeramente juguetona. El personaje del perro gigante permanece visible en el fondo, reaccionando con humor a sus movimientos. Hacia el final, ella se dirige de nuevo hacia la canasta y se prepara para otro momento lúdico de baloncesto, mientras la mascota aparece en primer plano. Chica coreana fotorrealista, textura de piel natural, rasgos faciales realistas, identidad consistente, detalles en las hebras de cabello, movimiento atlético realista, iluminación cinematográfica exterior, luz diurna suave nublada, profundidad de campo reducida, movimiento de cámara en mano fluido, texturas realistas de la cancha de baloncesto, sombras naturales, calidad cinematográfica 4K de alto detalle, estilo visual juguetón inspirado en los K-dramas, sin distorsión facial, sin dedos adicionales, sin movimientos corporales antinaturales, sin texto ni marca de agua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107339831844171776/img/4LsCyW9rPzzslP5o.jpg" width="600" alt="Escena de baloncesto divertida con mascota canina">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11984)**
+
+**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fuente:** [Link](https://x.com/ayzalnooor24521/status/2107340030536741222) | **Publicado:** Oct 6, 2026
+
+---
+### Ataque de monstruo en vecindario suburbano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para una escena cinematográfica con efectos visuales intensos donde una criatura gigante emerge del suelo en un entorno suburbano durante el atardecer.
+
+#### 📝 Prompt
+
+```
+Escena cinematográfica ultra realista de un vecindario suburbano al atardecer, un objeto misterioso y brillante aparece en un césped mientras una criatura verde grotesca y gigante emerge repentinamente del suelo, cuerpo enorme con textura viscosa, ojos expresivos y enfurecidos, detalles realistas de la piel, polvo y escombros volando por el aire, un hombre impactado observando desde la distancia, casa lujosa de estilo suburbano al fondo, iluminación dramática de la hora dorada, neblina atmosférica, movimiento de cámara cinematográfico, profundidad de campo reducida, VFX fotorrealistas, altamente detallado, 8K, sombras realistas, estilo épico de película de Hollywood, composición vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107333865253773312/img/OglQcBBKfBfaKX1l.jpg" width="600" alt="Ataque de monstruo en vecindario suburbano">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11985)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2107333962402341067) | **Publicado:** Oct 6, 2026
+
+---
 ### Mujer Cyberpunk en Callejón Neón
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -460,9 +498,32 @@ Crea una escena de acción cinematográfica de 14.6 segundos que presenta a un p
 **Autor:** [Maha](https://x.com/Aiwithmaha) | **Fuente:** [Link](https://x.com/Aiwithmaha/status/2106938584431526162) | **Publicado:** Oct 5, 2026
 
 ---
+### Prompt de Video en Estilo Tinta y Lavado Wuxia
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt detallado para la generación de video con Seedance 2.0, que crea una escena wuxia de 15 segundos en estilo tinta y lavado, con movimientos de cámara específicos, efectos de partículas y desenfoque de movimiento dinámico.
+
+#### 📝 Prompt
+
+```
+[0–3s] Cámara: Avance rápido desde un primer plano del brillo de la hoja, mientras la cámara gira en sentido horario a 180°/s, cortando hacia la silueta de un sombrero de bambú (douli). Visuales: Primer plano del brillo de la hoja en estilo tinta y lavado, chispas de partículas explotando hacia afuera; la silueta del douli emerge de nubes de tinta ondulantes. Efectos: Desenfoque de movimiento, estelas de pinceladas de tinta, efectos de partículas.
+[3–6s] Cámara: Órbita de 360° de alta velocidad centrada en el personaje (270°/s), siguiendo la trayectoria del golpe de espada. Visuales: Plano medio del personaje blandiendo la hoja, túnicas ondeando, pinceladas de tinta fluyendo con el movimiento. Efectos: Humo de tinta dinámico, desenfoque de movimiento en las túnicas, arrastre visual causado por la rotación.
+[6–9s] Cámara: Plano de seguimiento lateral de alta velocidad (izquierda → derecha), mientras la cámara se inclina y rota en sentido antihorario a 90°/s, fijada en la trayectoria de la hoja. Visuales: La línea de trayectoria de la hoja, chispas de partículas explotando hacia afuera, estelas de pinceladas de tinta. Efectos: Desenfoque de movimiento, efectos de partículas, estelas fantasmales de tinta.
+[9–12s] Cámara: Plano contrapicado con grúa rápida ascendente, mientras la cámara espirala a 225°/s, subiendo desde las marcas de tinta en el suelo hasta el torso superior del personaje. Visuales: Marcas de tinta en el suelo, el personaje en pleno golpe (torso superior), nubes de tinta rodantes en el fondo. Efectos: Nubes de tinta dinámicas, desenfoque de movimiento durante el ascenso, vórtice de color tinta creado por la rotación.
+[12–15s] Cámara: Primer plano en cámara lenta, con la cámara girando lentamente en sentido horario a 15°/s mientras el brillo de la hoja se congela en su lugar. Visuales: Primer plano del brillo de la hoja, efectos de partículas nítidos y claros, la mirada del personaje bajo la sombra del douli (opcional). Efectos: Cámara lenta, partículas disipándose, ligero temblor de cámara.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106931329535459328/img/XKp-5If8NQ95ETQI.jpg" width="600" alt="Prompt de Video en Estilo Tinta y Lavado Wuxia">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11986)**
+
+**Autor:** [Zidan 子丹](https://x.com/liluocheng13) | **Fuente:** [Link](https://x.com/liluocheng13/status/2106931613427028260) | **Publicado:** Oct 5, 2026
+
+---
 ### Video estilo tráiler cinematográfico épico
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
 > Un prompt para generar un video estilo tráiler cinematográfico épico utilizando una imagen de referencia, enfatizando el renderizado hiperdetallado, la estética de Unreal Engine 5 y restricciones negativas específicas para el control de calidad.
 
@@ -482,7 +543,7 @@ Utiliza la imagen de referencia 1 para crear un video cinematográfico épico.
 ---
 ### Patinaje Urbano a Alta Velocidad
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
 > Un prompt simple y 'perezoso' para generar un video de patinaje a alta velocidad por una calle urbana concurrida, con desenfoque de movimiento realista y sensación de cámara en mano.
 
@@ -6519,71 +6580,6 @@ Crea un hermoso montaje cinematográfico de 25 segundos con detalles realistas, 
 **Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fuente:** [Link](https://x.com/ayzalnooor24521/status/2101911177962090931) | **Publicado:** Sep 21, 2026
 
 ---
-### Escena de actuación de moda cinematográfica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de alta calidad para generar un video de actuación de moda cinematográfico ultra realista que presenta a una mujer segura y bailarines en un entorno nocturno.
-
-#### 📝 Prompt
-
-```
-Escena de actuación de moda cinematográfica ultra realista, una joven hermosa con largo cabello negro oscuro parada con seguridad en el centro, vistiendo un elegante top corsé sin tirantes blanco, jeans oscuros ajustados de tiro alto, collares plateados superpuestos y aretes de aro. Varias bailarinas elegantes la rodean, vestidas con atuendos de cuero negro, poses de baile sincronizadas. Entorno nocturno dramático con autos y faros brillantes detrás de ellas, atmósfera industrial melancólica, retroiluminación cálida, niebla sutil, sombras realistas, composición dinámica, expresión poderosa y segura, estética profesional de video musical, detalles fotorealistas de piel y tela, profundidad de campo reducida, iluminación cinematográfica, alto contraste, 8K, HDR, lente de 85 mm, composición vertical 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101890134324965376/img/6EDeEE39ubzVBvhK.jpg" width="600" alt="Escena de actuación de moda cinematográfica">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11072)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2101890198703354285) | **Publicado:** Sep 21, 2026
-
----
-### Prompt de video: Chica coreana juguetona en el parque
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para la generación de videos con Seedance 2.0, creando una secuencia cinematográfica de una joven mujer en un parque infantil, con transiciones desde deslizarse por el tobogán hasta columpiarse y dormir en un carrito de compras.
-
-#### 📝 Prompt
-
-```
-Crea un video de una hermosa chica coreana disfrutando de un día lúdico y soñador en un colorido parque al aire libre.
-Viste una camisa blanca casual, jeans oscuros, zapatillas deportivas y lleva un elegante bolso de hombro estampado de leopardo.
-Muéstrala relajada y acostada de forma juguetona sobre un tobogán amarillo brillante del parque.
-Luego, haz una transición a ella sentada tranquilamente en un columpio, luciendo ligeramente cansada y perdida en sus pensamientos.
-Después, muéstrala sentada en el borde del parque usando un divertido sombrero cónico naranja, creando un momento cinematográfico peculiar.
-Muestra cómo descansa pacíficamente en unos escalones de concreto bajo una suave luz natural diurna y una atmósfera tranquila.
-Termina con ella durmiendo cómodamente dentro de un carrito de compras lleno de balones de baloncesto, creando una escena inesperada y graciosa.
-Usa expresiones faciales realistas, movimientos corporales naturales, movimiento de cámara cinematográfico, colores suaves y detalles fotorrealistas.
-Mantén la identidad y apariencia de la chica coreana consistentes durante todo el video, con transiciones fluidas y un estilo narrativo cinematográfico y lúdico.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101889348534956032/img/I07P989JdZB8i-lk.jpg" width="600" alt="Prompt de video: Chica coreana juguetona en el parque">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11071)**
-
-**Autor:** [liana](https://x.com/Lianaalane) | **Fuente:** [Link](https://x.com/Lianaalane/status/2101889590621536594) | **Publicado:** Sep 21, 2026
-
----
-### Prompt para Video Comercial de Skincare de Lujo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para crear un comercial de skincare de lujo ultra-realista de 15 segundos, que presenta un frasco de producto en un entorno temático de agua con transiciones cinematográficas.
-
-#### 📝 Prompt
-
-```
-Crea un comercial de skincare de lujo ultra-realista de 15 segundos que presente un elegante frasco de vidrio etiquetado como “AQUA LUXE – DEEP HYDRATION” en un entorno azul frío y refrescante. Comienza con un fondo atmosférico azul suave mientras rayos de luz delicados y partículas sutiles de agua crean una atmósfera premium limpia. Revela lentamente el frasco de skincare posado sobre una superficie de agua brillante, con reflejos realistas y profundidad de campo cinematográfica. Mueve la cámara gradualmente más cerca mientras luces suaves se deslizan sobre la tapa plateada metálica y el envase de vidrio. Rodea el frasco con olas suaves y sedosas de textura similar a crema blanca que fluyen grácilmente alrededor, creando una textura de skincare lujosa. Añade gotas de agua flotantes y pequeñas burbujas moviéndose naturalmente por la escena con física realista. Transiciona hacia un salpicadura dramática de agua cristalina que envuelve el producto manteniendo el frasco perfectamente nítido y centrado. Introduce flores blancas delicadas y hojas verdes frescas alrededor de la salpicadura para una atmósfera inspirada en la hidratación fresca. Termina con una hermosa toma heroica del frasco AQUA LUXE DEEP HYDRATION centrado contra el fondo azul, rodeado de gotas de agua, flores y luz suave resplandeciente, con iluminación cinematográfica premium y enfoque impecable del producto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101887426138681344/img/DRaV306w9sxwKjTb.jpg" width="600" alt="Prompt para Video Comercial de Skincare de Lujo">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11073)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fuente:** [Link](https://x.com/Aiwithmaha/status/2101887507059351894) | **Publicado:** Sep 21, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -6645,6 +6641,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-06T01:27:45.695Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-06T11:25:45.953Z</sub>
 
 </div>
