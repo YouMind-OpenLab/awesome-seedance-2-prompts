@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6507** |
+| 📝 Tổng số prompt | **6509** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-10-07** |
 
@@ -361,6 +361,53 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Cảnh ăn trưa trong căng-tin trường học phong cách điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video điện ảnh siêu thực về một nữ sinh cầm khay cơm trong căng-tin trường học Hàn Quốc. Tập trung vào chi tiết chân thực, ánh sáng và bố cục.
+
+#### 📝 Prompt
+
+```
+Cảnh quay điện ảnh siêu thực của một nữ sinh Đông Á trẻ tuổi đứng trong căng-tin trường học Hàn Quốc sáng sủa, mặc áo sơ mi đồng phục trắng gọn gàng với cà vạt kẻ caro xanh dương và váy navy tối màu, cầm khay cơm bằng thép không gỉ hướng về phía máy quay. Khay cơm gồm cơm trắng nóng hổi, canh cay đỏ, xúc xích, rau củ và các món ăn kèm truyền thống. Các học sinh khác ngồi ở bàn trong hậu cảnh được làm mờ nhẹ nhàng. Ánh sáng tự nhiên trong nhà, kết cấu thức ăn chân thực, độ sâu trường ảnh nông, bokeh mượt mà, bố cục điện ảnh, chi tiết da và vải rõ nét, ống kính 85mm, f/1.8, HDR, siêu thực, 8K, bố cục dọc 9:16, bầu không khí đời thường ấm áp và chân thực của cuộc sống học đường
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107699321319858176/img/Jphi94bk2Oh7lRFB.jpg" width="600" alt="Cảnh ăn trưa trong căng-tin trường học phong cách điện ảnh">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12053)**
+
+**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2107699358762422759) | **Đã xuất bản:** Oct 7, 2026
+
+---
+### Cảnh Phim Điện Ảnh Tại Sân Ga Đường Sắt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hướng dẫn tạo video chi tiết để dựng một cảnh phim điện ảnh dài 15 giây về một người đàn ông chờ đợi trên sân ga trong mưa. Kịch bản này quy định rõ các chuyển động camera, ánh sáng, chỉnh màu và hiệu ứng âm thanh nhằm xây dựng một mạch truyện giàu cảm xúc.
+
+#### 📝 Prompt
+
+```
+Cảnh phim điện ảnh dọc tỷ lệ 9:16 kéo dài 15 giây, tốc độ khung hình 24fps, phong cách ống kính anamorphic 35mm, mang tông màu u buồn và giàu cảm xúc.
+0-3s (thiết lập): Ban đêm, một sân ga đường sắt vắng lặng dưới cơn mưa nhẹ. Một chàng trai trẻ mặc áo khoác dài đứng cô đơn, tay cầm một chiếc phong bì cũ, hơi thở hiện rõ trong không khí lạnh. Camera di chuyển chậm dolly-in từ phía sau lưng anh.
+3-7s (căng thẳng): Cận cảnh khuôn mặt khi anh nhìn vào phong bì, rồi ngước lên phía ánh đèn tàu hỏa ở xa đang dần hiện ra qua màn sương mù. Đôi tay anh run rẩy nhẹ. Chuyển tiêu điểm (rack focus) từ phong bì sang đôi mắt của anh.
+7-11s (bước ngoặt): Tàu đến kèm theo luồng gió mạnh. Áo khoác và tóc của anh bị thổi bay sang bên. Anh do dự, rồi để chiếc phong bì trượt khỏi ngón tay rơi xuống nền sân ga ướt sũng. Hiệu ứng slow-motion, những giọt nước lơ lửng trong không trung.
+11-15s (kết thúc): Cửa tàu mở ra, ánh sáng vàng ấm áp tràn ngập khuôn mặt anh. Anh bước lên tàu mà không ngoái lại. Camera giữ nguyên khung hình tập trung vào chiếc phong bì nằm trên sân ga khi con tàu rời đi, sau đó mờ dần sang đen.
+Phong cách hình ảnh: Chỉnh màu teal và amber, bóng đổ sâu, ánh sáng thực tế mềm mại, hạt phim tinh tế, độ sâu trường ảnh nông.
+Âm thanh: Tiếng mưa rơi nhẹ, tiếng gầm của tàu từ xa tăng dần cường độ, một nốt piano duy nhất kéo dài vang lên khi tàu đến, sự tĩnh lặng tuyệt đối ở cảnh fade cuối cùng. Không có lời thoại.
+Văn bản: Không có.
+Ngôn ngữ: Không có giọng nói và không có văn bản trên màn hình, nên không gặp vấn đề về ngôn ngữ.
+Tránh: Bàn tay biến dạng, khuôn mặt méo mó, nhấp nháy, văn bản lỗi, watermark, thừa chi tay chân.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107427869517590528/img/Ca8Q0vKPSHYSNxix.jpg" width="600" alt="Cảnh Phim Điện Ảnh Tại Sân Ga Đường Sắt">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12054)**
+
+**Tác giả:** [ORHAN](https://x.com/OrhanGhazi65942) | **Nguồn:** [Link](https://x.com/OrhanGhazi65942/status/2107427996705718600) | **Đã xuất bản:** Oct 6, 2026
+
+---
 ### Cảnh bóng rổ vui nhộn với linh vật chú chó
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6465,53 +6512,6 @@ Tôi đã tạo ra một video cà phê ấm cúng mang phong cách điện ản
 **Tác giả:** [liana](https://x.com/Lianaalane) | **Nguồn:** [Link](https://x.com/Lianaalane/status/2102330407404572896) | **Đã xuất bản:** Sep 22, 2026
 
 ---
-### Prompt Video Điện Ảnh Chợ Hàn Quốc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt chi tiết để tạo video điện ảnh về một cô gái Hàn Quốc đi bộ và chạy qua chợ truyền thống, tập trung vào sự nhất quán của nhân vật và chuyển động tự nhiên.
-
-#### 📝 Prompt
-
-```
-Tạo ra hình ảnh một cô gái Hàn Quốc xinh đẹp đang bước đi đầy tự tin qua một khu chợ truyền thống Hàn Quốc, mặc trang phục lịch sử thanh lịch, với mái tóc đen dài bay bổng tự nhiên và bối cảnh đường phố cổ Hàn Quốc chi tiết bao quanh. Ở giây thứ nhất, camera nhẹ nhàng tiến gần hơn khi cô đi qua đám đông nhộn nhịp, giữ cho khuôn mặt cô rõ ràng, chân thực và nhất quán. Ở giây thứ hai, cho thấy cô đi ngang qua các gian hàng bằng gỗ, những ngôi nhà truyền thống Hàn Quốc, đèn lồng treo và các thương nhân trong khi mọi người di chuyển tự nhiên xung quanh cô. Ở giây thứ ba, cô đột ngột bắt đầu chạy xuyên qua khu chợ đông đúc, với tóc, quần áo và chuyển động cơ thể phản hồi tự nhiên theo tốc độ của cô. Ở giây thứ tư, sử dụng cú tracking shot điện ảnh mượt mà từ phía trước khi cô chạy giữa các gian hàng trong khi nền di chuyển tự nhiên. Ở giây thứ năm, chuyển sang góc quay bên kịch tính, thể hiện biểu cảm quyết tâm, tiếng bước chân chân thực, mái tóc bay và trang phục truyền thống chi tiết. Ở giây thứ sáu, theo sau cô từ phía sau khi cô chạy sâu hơn vào con phố cổ, với ánh nắng, bụi, đèn lồng và những người qua lại tạo nên bầu không khí điện ảnh. Ở giây thứ bảy, di chuyển camera mượt mà quanh cô trong khi duy trì sự nhất quán hoàn hảo của nhân vật, các đặc điểm khuôn mặt chân thực, kết cấu da tự nhiên và chuyển động đáng tin cậy. Ở giây thứ tám, kết thúc bằng cú quay rộng mang tính điện ảnh của cô gái Hàn Quốc tiếp tục tiến về phía trước qua khu chợ lịch sử tuyệt đẹp, với các chi tiết siêu thực, ánh sáng tự nhiên, vật lý chân thực, chuyển động camera mượt mà và không có biến dạng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102259707142717440/img/Gu_7x3AVHHbndsXs.jpg" width="600" alt="Prompt Video Điện Ảnh Chợ Hàn Quốc">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11106)**
-
-**Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2102260032348078455) | **Đã xuất bản:** Sep 22, 2026
-
----
-### Prompt Video Cuộc Sống Quê Hương Cổ Điển
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt cho video montage điện ảnh dài 25 giây về một cô gái Hàn Quốc trong bối cảnh quê hương cổ điển, với các hoạt động như đạp xe, đọc sách và cắt dưa hấu.
-
-#### 📝 Prompt
-
-```
-Một cô gái Hàn Quốc xinh đẹp trong khung cảnh quê hương cổ điển đầy mơ màng.
-Cô mặc chiếc váy trắng tinh tế với chi tiết nơ đen và băng đô ren.
-Cô đạp chiếc xe đạp cổ điển qua cánh đồng hoa dại yên bình dưới ánh nắng ấm áp.
-Sau đó, cô thư giãn trên bãi cỏ dưới gốc cây, lặng lẽ đọc sách.
-Cô đi qua một cây cầu gỗ nhỏ, giơ cuốn sách lên cao quá đầu.
-Cảnh chuyển sang một ngôi nhà cổ điển ấm cúng, nơi cô cẩn thận cắt một quả dưa hấu tươi.
-Chiếc tivi cũ kỹ hoài niệm và nội thất mộc mạc tạo nên bầu không khí retro ấm áp.
-Cô dành một khoảnh khắc tĩnh lặng bên cạnh bể cá nhiều màu sắc với những chú cá đang bơi lội.
-Video có ánh sáng điện ảnh nhẹ nhàng, chuyển động máy quay dịu dàng và tâm trạng hoài niệm mơ màng.
-Hãy tạo ra một video montage điện ảnh 25 giây tuyệt đẹp với chi tiết chân thực, chuyển động tự nhiên và thẩm mỹ cổ điển ấm áp.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101910912076857345/img/fap_eQMR3XFC27P1.jpg" width="600" alt="Prompt Video Cuộc Sống Quê Hương Cổ Điển">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11108)**
-
-**Tác giả:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Nguồn:** [Link](https://x.com/ayzalnooor24521/status/2101911177962090931) | **Đã xuất bản:** Sep 21, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -6573,6 +6573,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-07T04:51:13.403Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-07T15:36:38.532Z</sub>
 
 </div>

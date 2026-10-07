@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6507** |
+| 📝 Total Prompts | **6509** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-10-07** |
 
@@ -365,6 +365,53 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Cinematic School Cafeteria Lunch Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating an ultra-realistic cinematic video of a student in a Korean school cafeteria holding a lunch tray. Focuses on photorealistic details, lighting, and composition.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic scene of a young East Asian female student standing in a bright Korean school cafeteria, wearing a neat white school uniform shirt with a blue plaid tie and dark navy skirt, holding a stainless-steel lunch tray toward the camera. The tray contains fluffy steamed white rice, red spicy soup, sausages, vegetables, and traditional side dishes. Other students are seated at tables in the softly blurred background. Natural indoor lighting, realistic food textures, shallow depth of field, creamy bokeh, cinematic composition, detailed skin and fabric texture, 85mm lens, f/1.8, HDR, photorealistic, 8K, vertical 9:16 composition, warm authentic school-life atmosphere
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107699321319858176/img/Jphi94bk2Oh7lRFB.jpg" width="600" alt="Cinematic School Cafeteria Lunch Scene">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12053)**
+
+**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2107699358762422759) | **Published:** Oct 7, 2026
+
+---
+### Cinematic Railway Platform Story Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video generation prompt for creating a 15-second cinematic scene of a man waiting on a rainy railway platform. It specifies camera movements, lighting, color grading, and audio cues to create an emotional narrative arc.
+
+#### 📝 Prompt
+
+```
+A 15-second vertical 9:16 cinematic story scene, 24fps, shot on 35mm anamorphic look, moody and emotional.
+0-3s (setup): Night, a quiet empty railway platform in light rain. A young man in a long coat stands alone holding an old envelope, breath visible in the cold air. Slow dolly-in from behind him.
+3-7s (tension): Close-up on his face as he looks at the envelope, then up at a distant train light growing through the fog. His hands tremble slightly. Rack focus from the envelope to his eyes.
+7-11s (turn): The train arrives with a rush of wind. His coat and hair whip sideways. He hesitates, then lets the envelope slip from his fingers onto the wet platform. Slow motion, droplets in the air.
+11-15s (ending): The doors open, warm yellow light spills onto his face. He steps in without looking back. Camera holds on the envelope on the platform as the train pulls away, then fades to black.
+Look: Teal and amber color grade, deep shadows, soft practical lighting, fine film grain, shallow depth of field.
+Audio: Soft rain, distant train rumble building, a single sustained piano note at the train's arrival, silence at the final fade. No dialogue.
+Text: None.
+Language: No speech and no on-screen text, so no language issues.
+Avoid: Warped hands, distorted faces, flicker, garbled text, watermarks, extra limbs.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107427869517590528/img/Ca8Q0vKPSHYSNxix.jpg" width="600" alt="Cinematic Railway Platform Story Scene">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12054)**
+
+**Author:** [ORHAN](https://x.com/OrhanGhazi65942) | **Source:** [Link](https://x.com/OrhanGhazi65942/status/2107427996705718600) | **Published:** Oct 6, 2026
+
+---
 ### Playful Basketball Scene with Dog Mascot
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -384,19 +431,19 @@ A beautiful Korean girl with long dark hair, wearing a fitted black sleeveless t
 **Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2107340030536741222) | **Published:** Oct 6, 2026
 
 ---
-### Suburban Neighborhood Monster Attack
+### Cinematic Creature Emergence in Suburbs
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for a cinematic VFX-heavy scene where a giant creature emerges from the ground in a suburban setting during sunset.
+> A video generation prompt for Seedance 2.0 that creates a hyper-realistic cinematic scene where a giant green creature emerges from the ground in a suburban neighborhood at sunset.
 
 #### 📝 Prompt
 
 ```
-Ultra-realistic cinematic scene of a suburban neighborhood at sunset, a mysterious glowing object appears on a grassy lawn as a giant grotesque green creature suddenly emerges from the ground, enormous slimy textured body, angry expressive eyes, realistic skin details, dust and debris flying through the air, a shocked man watching from a distance, luxury suburban house in the background, dramatic golden-hour lighting, atmospheric haze, cinematic camera movement, shallow depth of field, photorealistic VFX, highly detailed, 8K, realistic shadows, epic Hollywood movie style, vertical 9:16 composition.
+Ultra-realistic cinematic scene of a suburban neighborhood at sunset, a mysterious glowing object appears on a grassy lawn as a giant grotesque green creature suddenly emerges from the ground, enormous slimy textured body, angry expressive eyes, realistic skin details, dust and debris flying through the air, a shocked man watching from a distance, luxury suburban house in the background, dramatic golden-hour lighting, atmospheric haze, cinematic camera movement, shallow depth of field, photorealistic VFX, highly detailed, 8K, realistic shadows, epic Hollywood movie style, vertical 9:16 composition
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107333865253773312/img/OglQcBBKfBfaKX1l.jpg" width="600" alt="Suburban Neighborhood Monster Attack">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107333865253773312/img/OglQcBBKfBfaKX1l.jpg" width="600" alt="Cinematic Creature Emergence in Suburbs">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11985)**
 
@@ -7168,53 +7215,6 @@ Created this cozy cinematic coffee video, featuring the beautiful atmosphere of 
 **Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2102330407404572896) | **Published:** Sep 22, 2026
 
 ---
-### Cinematic Korean Girl in Marketplace Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video generation prompt for Seedance 2.0 that creates a cinematic sequence of a Korean girl walking and running through a traditional marketplace, emphasizing character consistency and natural motion.
-
-#### 📝 Prompt
-
-```
-Created a beautiful Korean girl walking confidently through a traditional Korean marketplace, wearing an elegant historical outfit, with long black hair flowing naturally and a detailed ancient Korean street surrounding her. At one second, the camera gently moves closer as she walks through the busy crowd, keeping her face clear, realistic, and consistent. At two seconds, show her passing wooden market stalls, traditional Korean houses, hanging lanterns, and merchants while people move naturally around her. At three seconds, she suddenly begins running through the crowded marketplace, with her hair, clothes, and body movement responding naturally to her speed. At four seconds, use a smooth cinematic tracking shot from the front as she runs between the stalls while the background moves naturally. At five seconds, switch to a dramatic side angle showing her determined expression, realistic footsteps, flowing hair, and detailed traditional clothing. At six seconds, follow her from behind as she runs deeper into the ancient street, with sunlight, dust, lanterns, and moving people creating a cinematic atmosphere. At seven seconds, smoothly move the camera around her while maintaining perfect character consistency, realistic facial features, natural skin texture, and believable motion. At eight seconds, finish with a wide cinematic shot of the Korean girl continuing forward through the beautiful historical marketplace, with photorealistic details, natural lighting, realistic physics, smooth camera movement, and no distortion.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102259707142717440/img/Gu_7x3AVHHbndsXs.jpg" width="600" alt="Cinematic Korean Girl in Marketplace Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11106)**
-
-**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2102260032348078455) | **Published:** Sep 22, 2026
-
----
-### Vintage Countryside Life Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a 25-second cinematic montage of a Korean girl in a vintage countryside setting, featuring activities like cycling, reading, and cutting watermelon.
-
-#### 📝 Prompt
-
-```
-A beautiful Korean girl in a dreamy vintage countryside setting.
-She wears a delicate white dress with black ribbon details and a lace headband.
-She rides a classic bicycle through a peaceful wildflower meadow under warm sunlight.
-She later relaxes on the grass beneath a tree, quietly reading a book.
-She walks across a small wooden bridge while holding a book above her head.
-The scene changes to a cozy vintage home where she carefully cuts a fresh watermelon.
-A nostalgic old television and rustic interior create a warm retro atmosphere.
-She spends a quiet moment beside a colorful aquarium filled with swimming fish.
-The video has soft cinematic lighting, gentle camera movement, and a dreamy nostalgic mood.
-Create a beautiful 25-second cinematic montage with realistic details, natural motion, and a warm vintage aesthetic.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101910912076857345/img/fap_eQMR3XFC27P1.jpg" width="600" alt="Vintage Countryside Life Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11108)**
-
-**Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2101911177962090931) | **Published:** Sep 21, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -7276,6 +7276,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-07T04:51:03.572Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-07T15:36:30.448Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6507** |
+| 📝 Toplam İstem | **6509** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-10-07** |
 
@@ -361,6 +361,53 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Sinematik Okul Kantini Öğle Yemeği Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Koreli bir okul kantininde yemek tepsisi tutan bir öğrencinin ultra gerçekçi sinematik videosunu oluşturmak için bir istem. Fotoğrafik detaylara, ışıklandırmaya ve kompozisyona odaklanır.
+
+#### 📝 İstem
+
+```
+Parlak bir Kore okul kantininde duran genç Doğu Asyalı bir kız öğrencinin ultra gerçekçi sinematik sahnesi; düzgün beyaz okul gömleği, mavi ekose kravat ve koyu lacivert etek giymiş, kameraya doğru paslanmaz çelik bir yemek tepsisi tutuyor. Tepsi kabarık buharda pişmiş beyaz pirinç, kırmızı acılı çorba, sosisler, sebzeler ve geleneksel yan lezzetler içeriyor. Arka planda diğer öğrenciler yumuşak bulanıklıkla masalarda oturuyor. Doğal iç mekan aydınlatması, gerçekçi yiyecek dokuları, sığ alan derinliği, kremamsı bokeh, sinematik kompozisyon, detaylı cilt ve kumaş dokusu, 85mm lens, f/1.8, HDR, fotoğraflık, 8K, dikey 9:16 kompozisyon, sıcak ve otantik okul yaşamı atmosferi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107699321319858176/img/Jphi94bk2Oh7lRFB.jpg" width="600" alt="Sinematik Okul Kantini Öğle Yemeği Sahnesi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12053)**
+
+**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2107699358762422759) | **Yayınlandı:** Oct 7, 2026
+
+---
+### Sinematik Tren İstasyonu Hikaye Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yağmurlu bir tren istasyonunda bekleyen bir adamın 15 saniyelik sinematik sahnesini oluşturmak için detaylı bir video üretim promptu. Kamera hareketleri, aydınlatma, renk düzenleme ve ses ipuçlarını belirterek duygusal bir anlatı yayı oluşturur.
+
+#### 📝 İstem
+
+```
+15 saniyelik dikey 9:16 sinematik hikaye sahnesi, 24fps, 35mm anamorfik görünümle çekilmiş, kasvetli ve duygusal.
+0-3s (kurulum): Gece, hafif yağmurda sessiz, boş bir tren istasyonu platformu. Uzun paltolu genç bir adam, soğuk havada nefesi görülecek şekilde, eski bir zarf tutarak yalnız başına duruyor. Arkasından yavaş dolly-in.
+3-7s (gerilim): Zarfına baktığı yüzünün yakın çekimi, ardından sisin içinden büyüyen uzak bir tren ışığına bakıyor. Elleri hafifçe titriyor. Odak geçişi (rack focus) zarftan gözlerine.
+7-11s (dönüm noktası): Rüzgarla birlikte tren gelir. Paltosu ve saçları yana savrulur. Tereddüt eder, sonra zarf parmaklarından kayıp ıslak platforma düşer. Yavaş çekim, havadaki damlalar.
+11-15s (bitiş): Kapılar açılır, sıcak sarı ışık yüzüne vurur. Geriye bakmadan içeri adım atar. Kamera, tren uzaklaşırken platformdaki zarfta kalır, ardından siyaha geçer.
+Görünüm: Teal ve kehribar renk düzenlemesi, derin gölgeler, yumuşak pratik aydınlatma, ince film greni, sığ alan derinliği.
+Ses: Hafif yağmur, yaklaşan tren uğultusu, trenin varışında tek bir uzun piyano notası, son karartmada sessizlik. Diyalog yok.
+Metin: Yok.
+Dil: Konuşma ve ekran metni olmadığından dil sorunu yok.
+Kaçınılacaklar: Bozuk eller, çarpık yüzler, titreme, bozuk metinler, filigranlar, fazla uzuvlar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107427869517590528/img/Ca8Q0vKPSHYSNxix.jpg" width="600" alt="Sinematik Tren İstasyonu Hikaye Sahnesi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12054)**
+
+**Yazar:** [ORHAN](https://x.com/OrhanGhazi65942) | **Kaynak:** [Link](https://x.com/OrhanGhazi65942/status/2107427996705718600) | **Yayınlandı:** Oct 6, 2026
+
+---
 ### Köpek Maskotu ile Eğlenceli Basketbol Sahnesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6541,53 +6588,6 @@ Modern bir kafenin güzel atmosferini öne çıkaran bu sıcak sinematik kahve v
 **Yazar:** [liana](https://x.com/Lianaalane) | **Kaynak:** [Link](https://x.com/Lianaalane/status/2102330407404572896) | **Yayınlandı:** Sep 22, 2026
 
 ---
-### Kore Pazar Yeri Sinematik Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Geleneksel bir Kore pazar yerinde yürüyen ve koşan bir Koreli kızın sinematik videosunu oluşturmak için detaylı bir istem; karakter tutarlılığı ve doğal hareketlere odaklanır.
-
-#### 📝 İstem
-
-```
-Zarif tarihi kıyafetler giymiş, uzun siyah saçları doğal bir şekilde uçuşan ve kendisini çevreleyen detaylı eski Kore sokaklarıyla geleneksel bir Kore pazar yerinde özgüvenle yürüyen güzel bir Koreli kız yaratıldı. Birinci saniyede, kalabalığın arasından geçerken yüzü net, gerçekçi ve tutarlı kalarak kamera yavaşça ona doğru yaklaşır. İkinci saniyede, ahşap pazar tezgahları, geleneksel Kore evleri, asılı fenerler ve tüccarların yanından geçişi gösterilirken etrafındaki insanlar doğal hareketlerle ilerler. Üçüncü saniyede, aniden kalabalık pazar yerinde koşmaya başlar; saçları, kıyafetleri ve vücut hareketleri hızına doğal tepkiler verir. Dördüncü saniyede, arka plan doğal olarak hareket ederken tezgahların arasında koştuğu sırada önden yumuşak sinematik takip çekimi kullanılır. Beşinci saniyede, kararlı ifadesini, gerçekçi adımlarını, uçuşan saçlarını ve detaylı geleneksel kıyafetlerini gösteren dramatik bir yan açıya geçiş yapılır. Altıncı saniyede, güneş ışığı, toz, fenerler ve hareket eden insanların sinematik bir atmosfer yarattığı eski sokağın derinliklerine doğru koşarken onu arkadan takip edin. Yedinci saniyede, mükemmel karakter tutarlılığını, gerçekçi yüz hatlarını, doğal cilt dokusunu ve inandırıcı hareketleri koruyarak kamerayı onun etrafında yumuşakça döndürün. Sekizinci saniyede, fotogerçekçi detaylar, doğal aydınlatma, gerçekçi fizik kuralları, akıcı kamera hareketleri ve bozulma olmadan, güzel tarihi pazar yerinde ileriye doğru devam eden Koreli kızın geniş sinematik çekimiyle bitirin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102259707142717440/img/Gu_7x3AVHHbndsXs.jpg" width="600" alt="Kore Pazar Yeri Sinematik Video İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11106)**
-
-**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2102260032348078455) | **Yayınlandı:** Sep 22, 2026
-
----
-### Vintage Kırsal Yaşam Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bisiklet sürme, kitap okuma ve karpuz kesme gibi aktivitelerin yer aldığı, vintage kırsal bir ortamda Koreli bir kızın 25 saniyelik sinematik montajı için bir istem.
-
-#### 📝 İstem
-
-```
-Hayalperest vintage kırsal bir ortamda güzel bir Koreli kız.
-Siyah kurdele detaylı zarif beyaz bir elbise ve dantel saç bandı giyiyor.
-Klasik bir bisikletle sıcak güneş ışığında huzurlu yabani çiçek tarlasından geçiyor.
-Daha sonra bir ağacın altında çimlerde dinlenerek sessizce kitap okuyor.
-Kitabı başının üzerinde tutarak küçük ahşap köprüden yürüyor.
-Sahne, taze bir karpuzu özenle kestiği rahat bir vintage eve dönüşüyor.
-Nostaljik eski bir televizyon ve rustik iç mekan, sıcak retro bir atmosfer yaratıyor.
-Yüzen balıklarla dolu renkli akvaryumun yanında sakin bir an geçiriyor.
-Video yumuşak sinematik aydınlatmaya, nazik kamera hareketlerine ve hayalperest nostaljik bir ruh haline sahip.
-Gerçekçi detaylar, doğal hareketler ve sıcak vintage estetiği ile güzel bir 25 saniyelik sinematik montaj oluşturun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101910912076857345/img/fap_eQMR3XFC27P1.jpg" width="600" alt="Vintage Kırsal Yaşam Video İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11108)**
-
-**Yazar:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Kaynak:** [Link](https://x.com/ayzalnooor24521/status/2101911177962090931) | **Yayınlandı:** Sep 21, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -6649,6 +6649,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-07T04:51:28.623Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-07T15:36:48.021Z</sub>
 
 </div>

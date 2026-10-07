@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6507** |
+| 📝 Total des prompts | **6509** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-10-07** |
 
@@ -361,6 +361,53 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Scène de déjeuner cinématographique à la cantine scolaire
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une vidéo cinématographique ultra-réaliste d'une étudiante dans une cantine scolaire coréenne tenant un plateau-repas. L'accent est mis sur les détails photoréalistes, l'éclairage et la composition.
+
+#### 📝 Prompt
+
+```
+Scène cinématographique ultra-réaliste d'une jeune étudiante est-asiatique debout dans une cantine scolaire coréenne lumineuse, portant une chemise d'uniforme blanche soignée avec une cravate à carreaux bleus et une jupe bleu marine foncé, tenant un plateau-repas en acier inoxydable vers la caméra. Le plateau contient du riz blanc vapeur moelleux, une soupe épicée rouge, des saucisses, des légumes et des accompagnements traditionnels (banchan). D'autres élèves sont assis à des tables dans l'arrière-plan légèrement flou. Éclairage naturel intérieur, textures alimentaires réalistes, faible profondeur de champ, bokeh crémeux, composition cinématographique, détails précis de la peau et des tissus, objectif 85 mm, f/1.8, HDR, photoréaliste, 8K, composition verticale 9:16, ambiance chaleureuse et authentique de la vie scolaire
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107699321319858176/img/Jphi94bk2Oh7lRFB.jpg" width="600" alt="Scène de déjeuner cinématographique à la cantine scolaire">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12053)**
+
+**Auteur:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2107699358762422759) | **Publié:** Oct 7, 2026
+
+---
+### Scène narrative cinématographique sur un quai de gare
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour la génération de vidéo, conçu pour créer une scène cinématographique de 15 secondes d'un homme attendant sur un quai de gare sous la pluie. Il précise les mouvements de caméra, l'éclairage, l'étalonnage des couleurs et les indices audio pour construire un arc narratif émotionnel.
+
+#### 📝 Prompt
+
+```
+Scène narrative cinématographique verticale au format 9:16, durée 15 s, 24 fps, aspect anamorphique 35 mm, ambiance sombre et émotionnelle.
+0-3 s (mise en place) : La nuit, un quai de gare désert et silencieux sous une pluie fine. Un jeune homme vêtu d'un long manteau se tient seul, tenant une vieille enveloppe, son souffle visible dans l'air froid. Travelling lent avant depuis derrière lui.
+3-7 s (tension) : Gros plan sur son visage alors qu'il regarde l'enveloppe, puis lève les yeux vers la lumière lointaine d'un train qui grandit à travers le brouillard. Ses mains tremblent légèrement. Mise au point glissée de l'enveloppe vers ses yeux.
+7-11 s (bascule) : Le train arrive avec une rafale de vent. Son manteau et ses cheveux sont fouettés latéralement. Il hésite, puis laisse glisser l'enveloppe de ses doigts sur le quai mouillé. Ralenti, gouttelettes suspendues dans l'air.
+11-15 s (fin) : Les portes s'ouvrent, une lumière jaune chaude inonde son visage. Il monte sans se retourner. La caméra reste fixée sur l'enveloppe sur le quai tandis que le train s'éloigne, puis fondu au noir.
+Esthétique : Étalonnage teal et amber, ombres profondes, éclairage pratique doux, grain de film fin, faible profondeur de champ.
+Audio : Pluie douce, grondement du train distant qui monte, une seule note de piano tenue à l'arrivée du train, silence lors du fondu final. Aucun dialogue.
+Texte : Aucun.
+Langue : Pas de parole ni de texte à l'écran, donc aucun problème linguistique.
+À éviter : Mains déformées, visages distordus, scintillement, texte illisible, filigranes, membres supplémentaires.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107427869517590528/img/Ca8Q0vKPSHYSNxix.jpg" width="600" alt="Scène narrative cinématographique sur un quai de gare">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12054)**
+
+**Auteur:** [ORHAN](https://x.com/OrhanGhazi65942) | **Source:** [Link](https://x.com/OrhanGhazi65942/status/2107427996705718600) | **Publié:** Oct 6, 2026
+
+---
 ### Scène de basket ludique avec une mascotte chien
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6350,53 +6397,6 @@ J'ai créé cette vidéo cinématographique cosy de café, capturant la belle at
 **Auteur:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2102330407404572896) | **Publié:** Sep 22, 2026
 
 ---
-### Prompt vidéo cinématographique pour un marché coréen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour créer une vidéo cinématographique d'une jeune femme coréenne marchant et courant à travers un marché traditionnel, en mettant l'accent sur la cohérence du personnage et le mouvement naturel.
-
-#### 📝 Prompt
-
-```
-Créez une belle jeune femme coréenne marchant avec assurance à travers un marché traditionnel coréen, vêtue d'une tenue historique élégante, ses longs cheveux noirs ondulant naturellement dans une rue ancienne coréenne riche en détails. À la première seconde, la caméra s'approche doucement alors qu'elle traverse la foule animée, gardant son visage clair, réaliste et cohérent. À deux secondes, montrez-la passant devant des étals de marché en bois, des maisons traditionnelles coréennes, des lanternes suspendues et des marchands, tandis que les gens bougent naturellement autour d'elle. À trois secondes, elle commence soudainement à courir à travers le marché bondé, ses cheveux, ses vêtements et ses mouvements corporels répondant naturellement à sa vitesse. À quatre secondes, utilisez un plan de suivi cinématographique fluide depuis l'avant alors qu'elle court entre les étals, le fond bougeant naturellement. À cinq secondes, passez à un angle latéral dramatique montrant son expression déterminée, ses pas réalistes, ses cheveux flottants et ses vêtements traditionnels détaillés. À six secondes, suivez-la par derrière alors qu'elle court plus profondément dans la rue ancienne, la lumière du soleil, la poussière, les lanternes et les personnes en mouvement créant une atmosphère cinématographique. À sept secondes, déplacez la caméra autour d'elle de manière fluide tout en maintenant une parfaite cohérence du personnage, des traits faciaux réalistes, une texture de peau naturelle et un mouvement crédible. À huit secondes, terminez par un large plan cinématographique de la jeune femme coréenne continuant d'avancer à travers le magnifique marché historique, avec des détails photoréalistes, un éclairage naturel, une physique réaliste, un mouvement de caméra fluide et aucune distorsion.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102259707142717440/img/Gu_7x3AVHHbndsXs.jpg" width="600" alt="Prompt vidéo cinématographique pour un marché coréen">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11106)**
-
-**Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2102260032348078455) | **Publié:** Sep 22, 2026
-
----
-### Prompt Vidéo Vie Rurale Vintage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour un montage cinématographique de 25 secondes mettant en scène une jeune femme coréenne dans un cadre rural vintage, avec des activités comme le vélo, la lecture et la découpe d'une pastèque.
-
-#### 📝 Prompt
-
-```
-Une belle jeune femme coréenne dans un cadre rural vintage onirique.
-Elle porte une robe blanche délicate avec des détails de rubans noirs et un bandeau en dentelle.
-Elle fait du vélo classique à travers une prairie paisible de fleurs sauvages sous une lumière chaude du soleil.
-Plus tard, elle se détend sur l'herbe sous un arbre, lisant tranquillement un livre.
-Elle traverse un petit pont en bois tout en tenant un livre au-dessus de sa tête.
-La scène change pour un intérieur domestique vintage cosy où elle coupe soigneusement une pastèque fraîche.
-Un vieux téléviseur nostalgique et un intérieur rustique créent une atmosphère rétro chaleureuse.
-Elle passe un moment calme à côté d'un aquarium coloré rempli de poissons nageurs.
-La vidéo présente un éclairage cinématographique doux, des mouvements de caméra légers et une ambiance nostalgique onirique.
-Créez un beau montage cinématographique de 25 secondes avec des détails réalistes, un mouvement naturel et une esthétique vintage chaleureuse.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101910912076857345/img/fap_eQMR3XFC27P1.jpg" width="600" alt="Prompt Vidéo Vie Rurale Vintage">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11108)**
-
-**Auteur:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2101911177962090931) | **Publié:** Sep 21, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -6458,6 +6458,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-07T04:51:22.572Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-07T15:36:44.642Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6507** |
+| 📝 Gesamtanzahl Prompts | **6509** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-10-07** |
 
@@ -361,6 +361,53 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Kinematografische Szene: Mittagessen in der Schulkantine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung eines ultrarealistischen, kinematografischen Videos einer Schülerin in einer koreanischen Schulkantine mit einem Essensfach. Fokus auf fotorealistische Details, Beleuchtung und Komposition.
+
+#### 📝 Prompt
+
+```
+Ultrarealistische kinematografische Szene einer jungen ostasiatischen Schülerin, die in einer hellen koreanischen Schulkantine steht. Sie trägt ein ordentliches weißes Schuluniformhemd mit einer blau karierten Krawatte und einem dunkelblauen Rock und hält ein Edelstahl-Essensfach in Richtung Kamera. Das Fach enthält fluffigen gedämpften weißen Reis, rote scharfe Suppe, Würstchen, Gemüse und traditionelle Beilagen. Andere Schüler sitzen im weichgezeichneten Hintergrund an Tischen. Natürliche Innenbeleuchtung, realistische Essenstexturen, geringe Schärfentiefe, cremiges Bokeh, kinematografische Komposition, detaillierte Haut- und Stofftextur, 85-mm-Objektiv, f/1.8, HDR, fotorealistisch, 8K, vertikale 9:16-Komposition, warme authentische Atmosphäre des Schullebens.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107699321319858176/img/Jphi94bk2Oh7lRFB.jpg" width="600" alt="Kinematografische Szene: Mittagessen in der Schulkantine">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12053)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2107699358762422759) | **Veröffentlicht:** Oct 7, 2026
+
+---
+### Cinematische Bahnhof-Plattform-Szene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Videoerstellung für eine 15-sekündige cinematische Szene eines Mannes, der auf einer regnerischen Bahnsteigplattform wartet. Er spezifiziert Kamerabewegungen, Beleuchtung, Color Grading und Audio-Hinweise, um einen emotionalen Erzählbogen zu schaffen.
+
+#### 📝 Prompt
+
+```
+Eine 15-sekündige vertikale 9:16 cinematische Story-Szene, 24fps, im Look von 35mm anamorph, stimmungsvoll und emotional.
+0-3s (Aufbau): Nacht, ein ruhiger, leerer Bahnsteig bei leichtem Regen. Ein junger Mann in einem langen Mantel steht allein und hält einen alten Umschlag, sein Atem ist in der kalten Luft sichtbar. Langsame Dolly-Bewegung von hinten auf ihn zu.
+3-7s (Spannung): Nahaufnahme seines Gesichts, während er den Umschlag betrachtet, dann nach oben zu einem fernen Zuglicht schaut, das durch den Nebel wächst. Seine Hände zittern leicht. Rack-Fokus vom Umschlag zu seinen Augen.
+7-11s (Wende): Der Zug trifft mit einem Windstoß ein. Sein Mantel und Haar peitschen zur Seite. Er zögert, lässt dann den Umschlag aus seinen Fingern auf den nassen Bahnsteig gleiten. Zeitlupe, Tropfen in der Luft.
+11-15s (Ende): Die Türen öffnen sich, warmes gelbes Licht fällt auf sein Gesicht. Er steigt ein, ohne sich umzublicken. Die Kamera bleibt auf dem Umschlag auf dem Bahnsteig, während der Zug abfährt, dann blendet es zu Schwarz.
+Look: Teal-und-Amber-Color-Grade, tiefe Schatten, weiches praktisches Licht, feines Filmkorn, geringe Schärfentiefe.
+Audio: Leiser Regen, anschwellendes fernes Zugrauschen, ein einzelner gehaltener Klavierton bei der Ankunft des Zuges, Stille beim letzten Fade-Out. Kein Dialog.
+Text: Keiner.
+Sprache: Keine Sprache und kein Bildschirmtext, daher keine Sprachprobleme.
+Vermeiden: Verzerrte Hände, verzerrte Gesichter, Flackern, unlesbarer Text, Wasserzeichen, zusätzliche Gliedmaßen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107427869517590528/img/Ca8Q0vKPSHYSNxix.jpg" width="600" alt="Cinematische Bahnhof-Plattform-Szene">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12054)**
+
+**Autor:** [ORHAN](https://x.com/OrhanGhazi65942) | **Quelle:** [Link](https://x.com/OrhanGhazi65942/status/2107427996705718600) | **Veröffentlicht:** Oct 6, 2026
+
+---
 ### Verspielte Basketball-Szene mit Hund-Maskottchen
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6546,53 +6593,6 @@ Dieses gemütliche cineastische Kaffee-Video wurde erstellt und fängt die wunde
 **Autor:** [liana](https://x.com/Lianaalane) | **Quelle:** [Link](https://x.com/Lianaalane/status/2102330407404572896) | **Veröffentlicht:** Sep 22, 2026
 
 ---
-### Koreanischer Marktplatz: Cinematic Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Erstellung eines cinematischen Videos eines koreanischen Mädchens, das durch einen traditionellen Markt geht und rennt, mit Fokus auf Charakterkonsistenz und natürliche Bewegung.
-
-#### 📝 Prompt
-
-```
-Erstelle ein wunderschönes koreanisches Mädchen, das selbstbewusst durch einen traditionellen koreanischen Markt geht, gekleidet in ein elegantes historisches Outfit, mit langen schwarzen Haaren, die natürlich wehen, umgeben von einer detaillierten alten koreanischen Straße. Nach einer Sekunde bewegt sich die Kamera sanft näher heran, während sie durch die belebte Menge geht, wobei ihr Gesicht klar, realistisch und konsistent bleibt. Nach zwei Sekunden zeige sie beim Vorbeigehen an hölzernen Marktständen, traditionellen koreanischen Häusern, hängenden Laternen und Händlern, während sich die Menschen natürlich um sie herum bewegen. Nach drei Sekunden beginnt sie plötzlich, durch den überfüllten Markt zu rennen, wobei ihre Haare, Kleidung und Körperbewegungen natürlich auf ihre Geschwindigkeit reagieren. Nach vier Sekunden nutze eine flüssige cinematische Verfolgungsaufnahme von vorne, während sie zwischen den Ständen hindurchläuft und der Hintergrund sich natürlich bewegt. Nach fünf Sekunden wechsle zu einem dramatischen Seitenwinkel, der ihren entschlossenen Ausdruck, realistische Schritte, wehendes Haar und detaillierte traditionelle Kleidung zeigt. Nach sechs Sekunden folge ihr von hinten, während sie tiefer in die alte Straße hineinläuft, wobei Sonnenlicht, Staub, Laternen und sich bewegende Menschen eine cinematische Atmosphäre erzeugen. Nach sieben Sekunden bewege die Kamera sanft um sie herum, während perfekte Charakterkonsistenz, realistische Gesichtszüge, natürliche Hauttextur und glaubwürdige Bewegung beibehalten werden. Nach acht Sekunden schließe mit einer breiten cinematischen Aufnahme des koreanischen Mädchens ab, das weiter durch den schönen historischen Markt geht, mit fotorealistischen Details, natürlicher Beleuchtung, realistischer Physik, flüssiger Kamerabewegung und ohne Verzerrungen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102259707142717440/img/Gu_7x3AVHHbndsXs.jpg" width="600" alt="Koreanischer Marktplatz: Cinematic Video Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11106)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2102260032348078455) | **Veröffentlicht:** Sep 22, 2026
-
----
-### Vintage Countryside Life Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für eine 25-sekündige cineastische Montage eines koreanischen Mädchens in einer Vintage-Landschaft, mit Aktivitäten wie Radfahren, Lesen und Wassermelone schneiden.
-
-#### 📝 Prompt
-
-```
-Ein schönes koreanisches Mädchen in einer traumhaften Vintage-Landschaft.
-Sie trägt ein zartes weißes Kleid mit schwarzen Schleifendetails und einem Spitzen-Stirnband.
-Sie fährt ein klassisches Fahrrad durch eine friedliche Wildblumenwiese im warmen Sonnenlicht.
-Später entspannt sie sich auf dem Gras unter einem Baum und liest still ein Buch.
-Sie geht über eine kleine Holzbrücke, während sie ein Buch über ihrem Kopf hält.
-Die Szene wechselt zu einem gemütlichen Vintage-Haus, wo sie sorgfältig eine frische Wassermelone schneidet.
-Ein nostalgischer alter Fernseher und rustikales Interieur schaffen eine warme Retro-Atmosphäre.
-Sie verbringt einen ruhigen Moment neben einem bunten Aquarium mit schwimmenden Fischen.
-Das Video hat weiches cineastisches Licht, sanfte Kamerabewegungen und eine träumerisch-nostalgische Stimmung.
-Erstellen Sie eine schöne 25-sekündige cineastische Montage mit realistischen Details, natürlicher Bewegung und einer warmen Vintage-Ästhetik.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101910912076857345/img/fap_eQMR3XFC27P1.jpg" width="600" alt="Vintage Countryside Life Video Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11108)**
-
-**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Quelle:** [Link](https://x.com/ayzalnooor24521/status/2101911177962090931) | **Veröffentlicht:** Sep 21, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -6654,6 +6654,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-07T04:51:21.158Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-07T15:36:43.830Z</sub>
 
 </div>
