@@ -6577,6 +6577,7 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 </div>
 
 ---
+- [Soutine Seedance 提示词库](https://soutine.ai/seedance-prompts) - 免费 Seedance 提示词，带成片预览
 
 
 ## 🤝 如何贡献
