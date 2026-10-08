@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6509** |
+| 📝 Tổng số prompt | **6513** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-10-08** |
 
@@ -361,6 +361,98 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Người đàn ông trong Rạp Chiếu Phim
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo cảnh quay điện ảnh về một chàng trai trẻ người Đông Á đang thư giãn trong rạp chiếu phim sang trọng, tập trung vào ánh sáng và bố cục chân thực.
+
+#### 📝 Prompt
+
+```
+Cảnh quay điện ảnh siêu thực về một chàng trai trẻ người Đông Á ngồi thư giãn trong một rạp chiếu phim sang trọng, mặc bộ vest đen hơi lỏng lẻo, áo sơ mi trắng và cà vạt sọc tối màu. Anh ngả lưng thoải mái trên ghế đỏ của rạp với vẻ mặt bình tĩnh, hơi thích thú, mái tóc nâu đỏ sẫm hơi rối, ánh sáng điện ảnh dịu nhẹ từ màn hình chiếu sáng khuôn mặt anh. Hàng ghế đỏ thẫm trong rạp và những khán giả mờ ảo ở hậu cảnh, bầu không khí rạp chiếu phim chân thực, độ sâu trường ảnh nông, kết cấu da tự nhiên, ánh sáng kịch tính kiểu phim, ống kính 85mm, f/1.4, HDR, siêu thực, 8K, bố cục dọc 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108053500269895680/img/bufO_qQFhPGo51Sp.jpg" width="600" alt="Người đàn ông trong Rạp Chiếu Phim">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12116)**
+
+**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2108053559485104592) | **Đã xuất bản:** Oct 8, 2026
+
+---
+### Quảng Cáo Mỹ Phẩm Cao Cấp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết cho video quảng cáo mỹ phẩm cao cấp siêu thực dài 20 giây, tập trung vào ứng dụng son kem và người mẫu trong studio màu hồng, được thiết kế cho Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Tạo một video quảng cáo mỹ phẩm cao cấp siêu thực dài 20 giây theo định dạng dọc 9:16, với thẩm mỹ tông màu hồng bóng và san hô xuyên suốt. Bắt đầu bằng cảnh cận cảnh thỏi son kem Next Level đặt trên bề mặt hồng phản chiếu với hiệu ứng bắn nước nhẹ nhàng quanh chân đế, sau đó chuyển cảnh mượt mà sang cảnh cực cận đôi môi bóng tự nhiên có kết cấu thật. Hiển thị đôi môi hé mở và di chuyển tự nhiên trước khi đưa đầu cọ son kem vào khung hình và cẩn thận thoa sản phẩm màu hồng san hô lên môi. Sử dụng kỹ thuật quay macro chi tiết để nắm bắt kết cấu môi chân thực, độ bóng của son kem, lỗ chân lông mềm mại và các điểm sáng tinh tế. Chuyển sang cảnh toàn thân phong cách của một phụ nữ trẻ Đông Á tự tin, mặc bộ vest hồng phấn may đo thanh lịch, bước chậm về phía máy quay trong studio hồng hiện đại. Giữ vẻ ngoài của cô tự nhiên, chỉn chu và chân thực với lớp trang điểm nhẹ nhàng và nụ cười tinh tế. Kết thúc bằng cảnh chụp chủ đạo sản phẩm cao cấp, hiển thị nhiều sắc thái son kem được sắp xếp trên bề mặt bóng phản chiếu, với những tia chất lỏng màu hồng san hô kịch tính ở hậu cảnh. Sử dụng các chuyển động máy quay mượt mà, trường ảnh nông, ánh sáng studio dịu nhẹ, phản chiếu chân thực, thay đổi tiêu điểm điện ảnh, chất lượng quảng cáo mỹ phẩm cao cấp và các chuyển cảnh liền mạch.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108042715267244032/img/Xwh6OIik3Z_3OmKe.jpg" width="600" alt="Quảng Cáo Mỹ Phẩm Cao Cấp">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12117)**
+
+**Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2108042777556857230) | **Đã xuất bản:** Oct 8, 2026
+
+---
+### Lỗi trong cảnh đấu phép thuật Harry Potter của Seedance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Chia sẻ cảnh đấu phép thuật được tạo bằng Seedance với Malfoy đối đầu Ron và Hermione, thảo luận về các lỗi AI và chất lượng góc máy.
+
+#### 📝 Prompt
+
+```
+Hermione tấn công từ phía trước trong khi Ron bao vây bên sườn; Malfoy vội vàng phản đòn, để Ron giật lấy cờ trắng từ sau lưng anh ta, biến thành một cuộc rượt đuổi hỗn loạn mà chưa có người thắng rõ ràng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107818284699779073/img/pnMAKn8U89a8V3BJ.jpg" width="600" alt="Lỗi trong cảnh đấu phép thuật Harry Potter của Seedance">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12118)**
+
+**Tác giả:** [零崎業萌](https://x.com/zerozakiyamo) | **Nguồn:** [Link](https://x.com/zerozakiyamo/status/2107819839847010747) | **Đã xuất bản:** Oct 7, 2026
+
+---
+### Prompt Cảnh Rượt Đuổi Đô Thị Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt tạo video chi tiết cho Seedance 2.0, mô tả cảnh rượt đuổi điện ảnh với sự nhất quán về nhân vật và các yếu tố môi trường cụ thể.
+
+#### 📝 Prompt
+
+```
+[Thiết lập cơ bản]
+Tạo một phim ngắn rượt đuổi đô thị hiện đại, chất lượng live-action, thời lượng 30 giây, tỷ lệ khung hình ngang 16:9.
+Câu chuyện diễn ra tại khu công nghiệp cũ của một thành phố lớn ở Bờ Đông nước Mỹ, vào giờ xanh (blue hour) sau khi mặt trời lặn. Một ánh sáng ấm áp mờ nhạt vẫn còn trên đường chân trời, trong khi các con phố và tòa nhà đã chuyển sang tông màu đêm mát mẻ hơn.
+Nữ chính hoàn toàn dựa trên hình ảnh cung cấp về nữ tướng hồng: một phụ nữ trưởng thành tóc vàng, giữ nguyên khuôn mặt, bím tóc dài màu vàng kim, áo choàng kiểu Trung Quốc màu xám hồng, giáp kim loại cũ kỹ và cây thương hồng có tua rua đỏ.
+Cô bị hai sĩ quan cảnh sát Mỹ mặc đồng phục truy đuổi, liên tục vượt qua chướng ngại vật trên phố, leo thang cứu hỏa, thực hiện động tác sào nhảy từ mái nhà cao tầng bằng cách dùng thương để băng qua khoảng trống hẹp giữa hai tòa nhà liền kề, sau đó nhảy lên một đoàn tàu chở hàng đang chạy để tạo khoảng cách. Sau đó, cô rời khỏi tàu, đi qua một hẻm dịch vụ phía sau tòa nhà và lao vào một cửa hàng quần áo.
+Ngay sau khi vào cửa hàng, cắt sang cảnh tiếp theo: cùng một nữ chính đã thay đổi sang trang phục thường ngày của một cô gái trẻ Mỹ, đội mũ lưỡi trai bóng chày, bước ra khỏi cửa hàng một cách bình thản, vẫn giữ nguyên bím tóc dài màu vàng kim. Cuối cùng, cô nhìn vào camera và nháy mắt tinh nghịch tự nhiên bằng một mắt.
+Không hiển thị bất kỳ quá trình thay đồ nào bên trong cửa hàng. 26 giây đầu tiên dành cho việc rượt đuổi, nhảy và lao vào cửa hàng quần áo; 4 giây cuối cùng dành cho việc bước ra khỏi cửa hàng sau khi đã thay đồ và cái nháy mắt.
+Phần đầu căng thẳng và hồi hộp, phần kết nhẹ nhàng và dí dỏm. Không giải thích lai lịch của cô hay lý do cảnh sát truy đuổi. Toàn bộ phim không có bắn cung, cung tên, dây kéo, thiết bị tời hay tấn công bằng bóng tối.
+
+[Môi trường đô thị và tuyến đường thoát thân]
+Bối cảnh là một khu công nghiệp cũ hư cấu tại một thành phố ở Mỹ, pha trộn giữa các kho gạch đỏ, căn hộ cũ, thang cứu hỏa bằng thép bên ngoài, thiết bị thông gió trên mái nhà và các cửa hàng nhỏ ven đường. Ô tô, xe tải thùng và xe thu gom rác đậu dọc hai bên đường. Tại ngã tư, có biển báo giao thông tiếng Anh, trụ cứu hỏa màu đỏ, cột đèn kim loại và vạch kẻ đường zebra đã phai màu.
+Toàn bộ tuyến đường thoát thân được kết nối về mặt không gian:
+Khoảng trống hẹp giữa đường và phương tiện đỗ → Kênh xếp dỡ hàng hóa bên ngoài kho → Thang cứu hỏa bằng thép và sàn bảo trì → Mái nhà của các tòa nhà công nghiệp cao tầng liền kề → Mái nhà thấp gần đường sắt trên cao → Mái tàu chở hàng → Sàn bảo trì cố định và cầu thang xuống → Hẻm dịch vụ phía sau tòa nhà → Cửa hàng quần áo hướng ra đường.
+Động tác sào nhảy xảy ra trên mái nhà của hai tòa nhà công nghiệp cao tầng liền kề. Tạo cảm giác độ cao thông qua con phố bên dưới, cửa sổ mặt tiền và thang cứu hỏa bên ngoài. Khoảng cách giữa hai tòa nhà phù hợp cho động tác sào nhảy mạo hiểm trong phim, hơi hẹp hơn so với việc băng qua một con phố rộng. Mái nhà đối diện thấp hơn một chút.
+Tòa nhà thứ hai có các mái nhà bậc thang kết nối, với mái nhà phía đường sắt chỉ cao hơn mái xe tải một chút. Sử dụng các cú quay rộng liên tục và hành động liền mạch để thể hiện nữ chính chạy từ điểm cao xuống mái nhà thấp hơn; cô không thể xuất hiện ngay lập tức cạnh tàu từ đỉnh tòa nhà cao.
+Tuyến đường sắt là một nhánh vận tải hàng hóa không có dây điện trên cao. Tàu chạy qua với tốc độ vừa phải, không có chướng ngại vật dày đặc trên mái. Sàn bảo trì cố định và cầu thang dẫn xuống nằm gần đó.
+Hẻm dịch vụ phía sau tòa nhà dẫn đến cửa hàng quần áo hướng ra đường.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107762351541989376/img/urF1j9XjdVcAsMJY.jpg" width="600" alt="Prompt Cảnh Rượt Đuổi Đô Thị Seedance 2.0">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12119)**
+
+**Tác giả:** [探路AI](https://x.com/TanLuAI) | **Nguồn:** [Link](https://x.com/TanLuAI/status/2107763438747521348) | **Đã xuất bản:** Oct 7, 2026
+
+---
 ### Cảnh ăn trưa trong căng-tin trường học phong cách điện ảnh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6414,104 +6506,6 @@ Một cô gái Hàn Quốc xinh đẹp với mái tóc đen dài thẳng mượt
 **Tác giả:** [Ayat](https://x.com/aiwithaayat) | **Nguồn:** [Link](https://x.com/aiwithaayat/status/2102607673501892691) | **Đã xuất bản:** Sep 23, 2026
 
 ---
-### Prompt phong cách video gia đình đầu những năm 2000
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt cực kỳ chi tiết dành cho Seedance 2.0 để tạo ra một video gia đình lo-fi, phong cách Sony MiniDV đầu những năm 2000, về một phụ nữ Hàn Quốc thức dậy và tương tác với cửa sổ trời mưa.
-
-#### 📝 Prompt
-
-```
-Chủ thể chính: Phụ nữ Hàn Quốc trẻ tuổi, 24 tuổi, vẻ đẹp tự nhiên, da thực tế, trang điểm tối giản, tóc đen dài buông xõa. Mặc áo hoodie màu đỏ rượu cỡ lớn và quần rộng thoải mái. Giữ nguyên danh tính, đặc điểm khuôn mặt, kiểu tóc, tỷ lệ cơ thể và ngoại hình của cô ấy trong suốt video.
-
-Địa điểm: Một căn hộ cũ nhỏ ở Seoul vào buổi sáng sớm u ám, trời mưa. Cửa sổ phòng ngủ lớn phủ đầy mưa nhìn ra các tòa nhà chung cư lân cận mờ ảo, mái nhà ướt đẫm và ánh đèn thành phố yếu ớt. Nội thất gỗ đơn giản, bàn đầu giường nhỏ và phòng ngủ yên tĩnh, có dấu vết sinh hoạt.
-
-Ánh sáng & Bầu không khí: Không khí xanh thẳm của giờ xanh buổi sáng sớm. Ánh sáng xanh xám lạnh lẽo xuyên qua cửa sổ trời mưa cùng với ánh sáng ấm áp rất yếu từ đèn bàn đầu giường. Bầu trời nhiều mây tối tăm, màu sắc dịu nhẹ, bóng đổ mềm mại, nội thất hơi thiếu sáng và bầu không khí bình yên, buồn ngủ.
-
-Phong cách: Video gia đình Sony MiniDV đầu những năm 2000 siêu thực tế, được quay bởi một người khác cầm máy quay. Hoàn toàn candid (tự nhiên) và không dàn dựng. Chuyển động cầm tay tự nhiên, rung lắc tinh tế do con người, khung hình không hoàn hảo, điều chỉnh khung hình nhẹ nhàng, thỉnh thoảng tự động lấy nét bị lệch, thay đổi độ phơi sáng nhẹ, màu sắc phai nhạt, độ tương phản mềm mại, nén DV chân thực, nhiễu kỹ thuật số thấp trong điều kiện thiếu sáng và tiếng ồn micro. Chuyển động thời gian thực liên tục mượt mà throughout. Không giật lag, judder, bỏ khung hình, trùng lặp khung hình, xuất hiện stop-motion, mờ chuyển động quá mức, thay đổi tốc độ hoặc trông giống tốc độ khung hình thấp. Không ổn định hóa hoặc chuyển động điện ảnh hiện đại.
-
-00:00–00:03 — THỨC DẬY BÊN CỬA SỔ: Cô ấy đi chậm rãi về phía cửa sổ phòng ngủ, vẫn còn buồn ngủ, và nhẹ nhàng kéo rèm sang một bên. Buổi sáng Seoul mưa gió u tối hiện ra.
-
-00:03–00:06 — HƠI NƯỚC NGƯNG TỤ: Cô ấy nhận thấy kính phủ đầy hơi nước ngưng tụ. Cô ấy giơ một ngón tay lên và chậm rãi lau một vùng nhỏ trong suốt trên cửa sổ bị mờ.
-
-00:06–00:09 — VẼ NHỎ: Cô ấy vô tư vẽ một khuôn mặt cười đơn giản nhỏ xíu trên lớp hơi nước bằng đầu ngón tay. Cô ấy nhìn nó một lúc với nụ cười vui vẻ nhẹ nhàng.
-
-00:09–00:12 — TRỜI MƯA: Cô ấy nghiêng người gần hơn về phía phần đã lau sạch và xem những giọt mưa chạy dọc theo kính. Máy quay di chuyển nhẹ nhàng gần hơn, bắt lấy những tòa nhà Seoul mờ ảo phía sau.
-
-00:12–00:15 — KHOẢNH LẶNG YÊN: Cô ấy tựa trán nhẹ vào mặt kính mát lạnh trong giây lát, lắng nghe tiếng mưa. Cô ấy nở một nụ cười bình yên nhỏ bé khi máy quay trôi chậm về phía cảnh mưa và cắt cảnh.
-
-Âm thanh: Chỉ âm thanh hiện trường tự nhiên—tiếng mưa đều đặn đập vào cửa sổ, gió nhẹ, giao thông xa xăm, âm thanh phòng tinh tế, bước chân nhẹ nhàng và tiếng vải sột soạt yên tĩnh. Không có nhạc, lời dẫn chuyện hoặc hiệu ứng âm thanh thêm vào.
-
-Mục tiêu: Cảm giác như một khoảnh khắc video gia đình đầu những năm 2000 hoàn toàn bình thường, thân mật. Không có gì kịch tính xảy ra; bầu không khí đến từ cửa sổ trời mưa, hơi nước ngưng tụ, nụ cười nhỏ bé của cô ấy và buổi sáng sớm yên tĩnh. Nó nên cảm thấy như được ghi lại một cách tình cờ thay vì cố ý dàn dựng.
-
-Chất lượng chuyển động: Giữ cho chuyển động của cô ấy thật mượt mà và tự nhiên, đặc biệt là khi cô ấy di chuyển ngón tay và cơ thể.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102471023140761600/img/VEaSlLn6iLvgftCa.jpg" width="600" alt="Prompt phong cách video gia đình đầu những năm 2000">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11157)**
-
-**Tác giả:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Nguồn:** [Link](https://x.com/iamahmedfaraz66/status/2102606380863472099) | **Đã xuất bản:** Sep 23, 2026
-
----
-### Prompt Anime Girl Falling Through Skyscraper
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt video động cho Seedance 2.0, mô tả một cô gái phong cách anime rơi xuyên qua một tòa nhà chọc trời tương lai và biến thành một thực thể bay quyền năng với các hiệu ứng điện ảnh.
-
-#### 📝 Prompt
-
-```
-Tạo một cảnh quay từ trên xuống đầy kịch tính của một cô gái phong cách anime tóc hồng đang rơi xuyên qua một tòa nhà chọc trời bằng kính hiện đại vào ban đêm, bao quanh bởi những phản chiếu, ánh sáng và hiệu ứng mờ chuyển động mạnh mẽ. Camera xoay nhanh và theo dõi quá trình cô ấy rơi xuống, sau đó cắt sang một cận cảnh tối nơi cô ấy trông bình tĩnh và bí ẩn. Hiển thị các chi tiết về bộ trang phục màu hồng, nắm tay chặt và mái tóc bay bổng của cô ấy. Xây dựng sự căng thẳng với ánh sáng điện ảnh và bóng đổ sâu, sau đó chuyển tiếp sang cảnh cuối cùng đầy quyền năng khi cô ấy bay về phía camera với đôi mắt phát sáng màu vàng kim, gió thổi tung mái tóc, ánh sáng ấm áp rực rỡ và năng lượng giống như đôi cánh phía sau lưng. Phong cách điện ảnh 3D anime siêu chi tiết, chuyển động chân thực, di chuyển camera mượt mà, độ sâu trường ảnh ấn tượng, ánh sáng chất lượng cao, hành động năng động, thiết kế nhân vật nhất quán, bầu không khí điện ảnh hùng tráng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102572803275014144/img/XeqJhRczWJCHRoVl.jpg" width="600" alt="Prompt Anime Girl Falling Through Skyscraper">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11154)**
-
-**Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2102572922674225517) | **Đã xuất bản:** Sep 23, 2026
-
----
-### Prompt Video Giáo Dục Phòng Thí Nghiệm Vật Lý Đại Học
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt chi tiết để tạo video giáo dục chân thực trong phòng thí nghiệm vật lý đại học, minh họa trọng lực và gia tốc với sự tham gia của giáo sư và sinh viên sử dụng Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Tạo một video giáo dục điện ảnh, chân thực được quay bên trong phòng thí nghiệm vật lý hiện đại của trường đại học. Một nam giáo sư vật lý tự tin bước vào lớp học, tay cầm cốc cà phê và sổ ghi chép, trong khi các sinh viên ngồi chăm chú trong giảng đường lớn. Cảnh sau đó chuyển sang một thí nghiệm vật lý thực hành, nơi giáo sư cùng nhóm sinh viên tụ tập quanh một đường ray nghiêng trong suốt. Một quả bóng kim loại nhỏ được đặt cẩn thận trên đường ray, tạo ra minh họa trực quan rõ ràng về chuyển động, trọng lực, gia tốc và năng lượng. Hiển thị các cảnh quay cận cảnh chi tiết của thanh ray trong suốt, quả bóng kim loại, sinh viên quan sát kỹ lưỡng và giáo sư hướng dẫn thí nghiệm với những cử chỉ tay tự nhiên. Sử dụng các chuyển động máy quay mượt mà, độ sâu trường ảnh (depth of field) chân thực, biểu cảm khuôn mặt tự nhiên và tương tác lớp học xác thực để làm cho thí nghiệm trở nên hấp dẫn và đáng tin cậy. Bao gồm ánh sáng phòng thí nghiệm mang tính điện ảnh với chiếu sáng nội thất dịu nhẹ và ánh nắng ấm áp lọt qua những cửa sổ lớn. Kết thúc bằng cảnh giáo sư làm việc tại bàn thí nghiệm dưới ánh sáng giờ vàng, bao quanh bởi thiết bị khoa học, tạo nên bầu không khí học thuật suy tư và truyền cảm hứng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102331771367108608/img/zhYK8aR3asclZ4MU.jpg" width="600" alt="Prompt Video Giáo Dục Phòng Thí Nghiệm Vật Lý Đại Học">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11156)**
-
-**Tác giả:** [Ayat](https://x.com/aiwithaayat) | **Nguồn:** [Link](https://x.com/aiwithaayat/status/2102331859657253174) | **Đã xuất bản:** Sep 22, 2026
-
----
-### Prompt Video Quán Cà Phê Ấm Cúng Phong Cách Điện Ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video ấm cúng, phong cách điện ảnh giới thiệu quy trình pha chế cà phê trong quán hiện đại, tập trung vào kết cấu chân thực và ánh sáng ấm áp cho Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Tôi đã tạo ra một video cà phê ấm cúng mang phong cách điện ảnh, nổi bật với bầu không khí tuyệt đẹp của một quán cà phê hiện đại. Video bắt đầu bằng hình ảnh tách cà phê nóng hổi đặt trên bàn đá cẩm thạch, tạo nên cảm giác bình yên và mời gọi. Các cảnh quay cận cảnh ghi lại khoảnh khắc espresso chảy mượt mà từ máy pha vào tách. Những chi tiết cà phê đậm đà, kết cấu kem mịn màng cùng ánh sáng ấm áp khiến mỗi khung hình đều trở nên chân thực và hấp dẫn về mặt thị giác. Nền video là môi trường quán cà phê sống động với những chuyển động tự nhiên và không khí thư giãn. Các chuyển động camera mượt mà cùng góc quay điện ảnh thổi hồn vào quá trình pha chế cà phê. Sự kết hợp giữa ánh sáng dịu nhẹ, hình ảnh chi tiết và vibe quán cà phê ambient tạo nên trải nghiệm điện ảnh cao cấp. Video này nắm bắt vẻ đẹp giản dị của những khoảnh khắc cà phê theo cách sáng tạo và cuốn hút.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102329184609812480/img/KOFHaF23Ar17rSF2.jpg" width="600" alt="Prompt Video Quán Cà Phê Ấm Cúng Phong Cách Điện Ảnh">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11155)**
-
-**Tác giả:** [liana](https://x.com/Lianaalane) | **Nguồn:** [Link](https://x.com/Lianaalane/status/2102330407404572896) | **Đã xuất bản:** Sep 22, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -6573,6 +6567,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-08T05:01:48.986Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-08T15:34:15.049Z</sub>
 
 </div>

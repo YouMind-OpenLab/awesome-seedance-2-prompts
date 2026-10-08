@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6509** |
+| 📝 Total Prompts | **6513** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-10-08** |
 
@@ -365,11 +365,103 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Cinematic School Cafeteria Lunch Scene
+### Man in Movie Theater
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating an ultra-realistic cinematic video of a student in a Korean school cafeteria holding a lunch tray. Focuses on photorealistic details, lighting, and composition.
+> A prompt for generating a cinematic scene of a young East Asian man relaxing in a luxurious movie theater, focusing on realistic lighting and composition.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic scene of a young East Asian man sitting relaxed in a luxurious movie theater, wearing a slightly loosened black suit, white dress shirt and dark striped tie. He leans back comfortably across a red cinema seat with a calm, slightly amused expression, tousled dark reddish-brown hair, soft cinematic lighting from the movie screen illuminating his face. Rows of deep red theater seats and softly blurred audience members in the background, realistic movie-theater atmosphere, shallow depth of field, natural skin texture, dramatic film lighting, 85mm lens, f/1.4, HDR, photorealistic, 8K, vertical 9:16 composition.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108053500269895680/img/bufO_qQFhPGo51Sp.jpg" width="600" alt="Man in Movie Theater">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12116)**
+
+**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2108053559485104592) | **Published:** Oct 8, 2026
+
+---
+### Luxury Beauty Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for a 20-second ultra-realistic luxury beauty commercial featuring lip cream application and a model in a pink studio, designed for Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Create a 20-second ultra-realistic luxury beauty commercial in vertical 9:16 format, featuring a glossy pink and coral aesthetic throughout. Start with a close-up of a Next Level lip cream standing on a reflective pink surface with a soft splash effect around the base, then smoothly transition into an extreme close-up of naturally textured glossy lips. Show the lips gently opening and moving naturally before introducing the lip cream applicator entering the frame and carefully applying the coral-pink product across the lips. Use detailed macro cinematography to capture realistic lip texture, creamy product shine, soft skin pores, and subtle highlights. Transition into a stylish full-body shot of a confident young East Asian woman wearing an elegant dusty-pink tailored pantsuit, walking slowly toward the camera in a modern pink studio. Keep her appearance natural, polished, and realistic with soft makeup and a subtle smile. Finish with a premium product hero shot showing multiple lip cream shades arranged on a glossy reflective surface, with dramatic coral-pink liquid splashes in the background. Use smooth camera movements, shallow depth of field, soft studio lighting, realistic reflections, cinematic focus pulls, high-end cosmetic advertisement quality, and seamless transitions.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108042715267244032/img/Xwh6OIik3Z_3OmKe.jpg" width="600" alt="Luxury Beauty Commercial">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12117)**
+
+**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2108042777556857230) | **Published:** Oct 8, 2026
+
+---
+### Seedance Harry Potter Wizard Duel Glitches
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Shares a wizard duel scene generated with Seedance featuring Malfoy vs Ron & Hermione, discussing AI glitches and camera work quality.
+
+#### 📝 Prompt
+
+```
+Hermione attacks from the front while Ron flanks; Malfoy scrambles to counter, allowing Ron to snatch the white flag from his back, turning it into a frantic chase with no clear winner yet.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107818284699779073/img/pnMAKn8U89a8V3BJ.jpg" width="600" alt="Seedance Harry Potter Wizard Duel Glitches">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12118)**
+
+**Author:** [零崎業萌](https://x.com/zerozakiyamo) | **Source:** [Link](https://x.com/zerozakiyamo/status/2107819839847010747) | **Published:** Oct 7, 2026
+
+---
+### Seedance 2.0 Urban Chase Scene Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed video generation prompt for Seedance 2.0 featuring a cinematic chase scene with character consistency and specific environmental cues.
+
+#### 📝 Prompt
+
+```
+[Basic Setting]
+Create a 30-second, 16:9 landscape, live-action quality modern urban chase short film.
+The story takes place in an old industrial district of a major city on the US East Coast, during the blue hour after sunset. A faint warm light remains on the horizon, while streets and buildings have entered the cooler night colors.
+The female protagonist strictly references the provided image of the pink female general: an adult blonde woman, retaining the same face, long golden braids, gray-pink Chinese-style robes, old metal armor, and a pink spear with red tassels.
+She is chased by two American uniformed police officers, continuously navigating street obstacles, climbing fire escapes, performing a pole vault from a high-rise rooftop using her spear to cross a narrow gap between adjacent buildings, then jumping onto a passing freight train to create distance. Afterwards, she leaves the train, passes through a service alley behind the building, and rushes into a clothing store.
+After entering the store, immediately cut to the next shot: the same female protagonist has changed into casual everyday clothes of a young American girl, wearing a baseball cap, walking out of the store door calmly, with her long golden braids still retained. Finally, she looks at the camera and gives a natural, playful single-eye wink.
+Do not show any changing process inside the store. The first 26 seconds are for chasing, jumping, and rushing into the clothing store; the last 4 seconds are for exiting the store after changing and the wink.
+The first half is tight and thrilling, the ending is light and witty. Do not explain her background or the reason for the police chase. There is no archery, bows, traction ropes, winch devices, or shadow attacks in the entire film.
+
+[Urban Environment and Escape Route]
+The scene is a fictional old industrial area in a US city, blending red brick warehouses, old apartments, steel external fire escapes, rooftop ventilation equipment, and small street-side shops. Cars, box trucks, and garbage collection vehicles are parked along both sides of the road. At the intersection, there are English traffic signs, a red fire hydrant, metal lamp posts, and faded zebra crossings.
+The entire escape route connects spatially:
+Narrow gaps between the street and parked vehicles → Loading/unloading channels outside the warehouse → Steel fire escapes and maintenance platforms → Rooftops of adjacent high-rise industrial buildings → Lower roofs near elevated railways → Freight train roof → Fixed maintenance platform and descending stairs → Service alley behind the building → Street-facing clothing store.
+The pole vault occurs on the rooftops of two adjacent high-rise industrial buildings. Establish a sense of height through the street below, facade windows, and external fire escapes. The gap between the two buildings is suitable for cinematic stunt pole-vaulting, slightly narrower than crossing a wide street. The opposite roof is slightly lower.
+The second building has connected stepped roofs, with the railway-side roof only slightly higher than the truck roof. Use brief wide shots and continuous action to show the protagonist running from the high point to the lower roof; she cannot instantly appear next to the train from the top of the tall building.
+The railway is an industrial freight branch line without overhead wires. The train passes through the urban area at a moderate speed, with no passengers or dense continuous obstacles on the roof. The fixed maintenance platform ahead is close to the train roof height and connects to descending stairs.
+The service alley behind the building leads to the street where the clothing store is located. The store window has warm lighting, revealing ordinary T-shirts, jeans, casual jackets, and baseball caps. Entering and exiting must be the same store, with consistent door frames, window displays, and lighting.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107762351541989376/img/urF1j9XjdVcAsMJY.jpg" width="600" alt="Seedance 2.0 Urban Chase Scene Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12119)**
+
+**Author:** [探路AI](https://x.com/TanLuAI) | **Source:** [Link](https://x.com/TanLuAI/status/2107763438747521348) | **Published:** Oct 7, 2026
+
+---
+### School Cafeteria Lunch Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating an ultra-realistic cinematic scene of a female student in a Korean school cafeteria holding a lunch tray.
 
 #### 📝 Prompt
 
@@ -377,7 +469,7 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 Ultra-realistic cinematic scene of a young East Asian female student standing in a bright Korean school cafeteria, wearing a neat white school uniform shirt with a blue plaid tie and dark navy skirt, holding a stainless-steel lunch tray toward the camera. The tray contains fluffy steamed white rice, red spicy soup, sausages, vegetables, and traditional side dishes. Other students are seated at tables in the softly blurred background. Natural indoor lighting, realistic food textures, shallow depth of field, creamy bokeh, cinematic composition, detailed skin and fabric texture, 85mm lens, f/1.8, HDR, photorealistic, 8K, vertical 9:16 composition, warm authentic school-life atmosphere
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107699321319858176/img/Jphi94bk2Oh7lRFB.jpg" width="600" alt="Cinematic School Cafeteria Lunch Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107699321319858176/img/Jphi94bk2Oh7lRFB.jpg" width="600" alt="School Cafeteria Lunch Scene">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12053)**
 
@@ -7119,102 +7211,6 @@ A beautiful Korean girl with long, straight black hair walks through a peaceful 
 **Author:** [Ayat](https://x.com/aiwithaayat) | **Source:** [Link](https://x.com/aiwithaayat/status/2102607673501892691) | **Published:** Sep 23, 2026
 
 ---
-### Seoul Rainy Morning Home Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed prompt for a realistic early-2000s style home video of a woman in a Seoul apartment during a rainy morning.
-
-#### 📝 Prompt
-
-```
-Main Subject: Young Korean woman, 24, naturally attractive, realistic skin, minimal makeup, long dark hair loosely down. Wearing an oversized maroon hoodie and loose casual pants. Preserve her exact identity, facial features, hairstyle, body proportions and appearance throughout.
-
-Location: Small old Seoul apartment during a dark, rainy early morning. A large rain-covered bedroom window overlooking blurred neighboring apartment buildings, wet rooftops and faint city lights. Simple wooden furniture, a small bedside table and a quiet lived-in bedroom.
-
-Lighting & Atmosphere: Deep early-morning blue-hour ambience. Cold blue-gray light coming through the rainy window with a very weak warm glow from a bedside lamp. Dark cloudy sky, muted colors, soft shadows, slightly underexposed interior and a peaceful sleepy atmosphere.
-
-Style: Ultra-realistic early-2000s Sony MiniDV home video filmed by another person holding the camcorder. Completely candid and unstaged. Natural handheld movement, subtle human shake, imperfect framing, gentle reframing, occasional autofocus hunting, mild exposure shifts, faded colors, soft contrast, authentic DV compression, subtle low-light digital noise and microphone noise. Smooth continuous real-time motion throughout. No stuttering, judder, frame skipping, duplicated frames, stop-motion appearance, excessive motion blur, speed changes or low-frame-rate look. No stabilization or modern cinematic movement.
-
-00:00–00:03 — WAKING WINDOW: She walks slowly toward the bedroom window, still sleepy, and gently pulls the curtain aside. The dark rainy Seoul morning is revealed.
-
-00:03–00:06 — CONDENSATION: She notices the glass is covered with condensation. She raises one finger and slowly wipes a small clear patch across the fogged window.
-
-00:06–00:09 — LITTLE DRAWING: She absentmindedly draws a tiny simple smiley face in the condensation with her fingertip. She looks at it for a moment with a faint amused smile.
-
-00:09–00:12 — RAIN: She leans closer to the cleared section and watches raindrops running down the glass. The camera gently moves closer, catching the blurred Seoul buildings beyond.
-
-00:12–00:15 — QUIET MOMENT: She rests her forehead lightly against the cool glass for a second, listening to the rain. She gives a tiny peaceful smile as the camera slowly drifts toward the rainy view and cuts.
-
-Audio: Natural location sound only—steady rain against the window, faint wind, distant traffic, subtle room ambience, soft footsteps and quiet fabric movement. No music, narration or added sound effects.
-
-Goal: Feel like a completely ordinary, intimate early-2000s home-video moment. Nothing dramatic happens; the atmosphere comes from the rainy window,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102471023140761600/img/VEaSlLn6iLvgftCa.jpg" width="600" alt="Seoul Rainy Morning Home Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11157)**
-
-**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2102606380863472099) | **Published:** Sep 23, 2026
-
----
-### Anime Girl Falling Through Skyscraper Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for a dramatic anime-style video featuring a girl falling through a futuristic skyscraper and transforming.
-
-#### 📝 Prompt
-
-```
-Created a dramatic top-down shot of a pink-haired anime-style girl falling through a futuristic glass skyscraper at night, surrounded by reflections, lights, and intense motion blur. The camera rapidly rotates and follows her descent, then cut to a dark close-up where she looks calm and mysterious. Show detailed shots of her pink outfit, clenched hand, and flowing hair. Build tension with cinematic lighting and deep shadows, then transition into a powerful final shot where she flies forward toward the camera with glowing golden eyes, wind blowing through her hair, bright warm light and wings-like energy behind her. Ultra-detailed 3D anime cinematic style, realistic motion, smooth camera movement, dramatic depth of field, high-quality lighting, dynamic action, consistent character design, epic cinematic atmosphere.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102572803275014144/img/XeqJhRczWJCHRoVl.jpg" width="600" alt="Anime Girl Falling Through Skyscraper Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11154)**
-
-**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2102572922674225517) | **Published:** Sep 23, 2026
-
----
-### University Physics Lab Educational Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for creating a realistic educational video in a university physics lab, demonstrating gravity and acceleration with a professor and students using Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Create a cinematic, realistic educational video set inside a modern university physics laboratory. A confident male physics professor walks into the classroom carrying a coffee cup and a notebook, while students sit attentively in a large lecture hall. The scene then transitions to a hands-on physics experiment where the professor and a group of students gather around a transparent inclined track. A small metallic ball is carefully placed on the track, creating a clear visual demonstration of motion, gravity, acceleration, and energy. Show detailed close-up shots of the transparent rail, metal ball, students observing closely, and the professor guiding the experiment with natural hand movements. Use smooth camera movements, realistic depth of field, natural facial expressions, and authentic classroom interactions to make the experiment feel engaging and believable. Include cinematic laboratory lighting with soft indoor illumination and warm sunlight entering through large windows. End with the professor working at a laboratory table during golden-hour lighting, surrounded by scientific equipment, creating a thoughtful and inspiring academic atmosphere.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102331771367108608/img/zhYK8aR3asclZ4MU.jpg" width="600" alt="University Physics Lab Educational Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11156)**
-
-**Author:** [Ayat](https://x.com/aiwithaayat) | **Source:** [Link](https://x.com/aiwithaayat/status/2102331859657253174) | **Published:** Sep 22, 2026
-
----
-### Cozy Cinematic Coffee Shop Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a cozy, cinematic video showcasing coffee preparation in a modern café, focusing on realistic textures and warm lighting for Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Created this cozy cinematic coffee video, featuring the beautiful atmosphere of a modern café. The video begins with a warm cup of coffee placed on a marble table, creating a calm and inviting mood. Close-up shots capture the espresso flowing smoothly from the coffee machine into the cup. The rich coffee details, creamy texture, and warm lighting make every scene feel realistic and visually appealing. The background shows a lively café environment with natural movement and a relaxing atmosphere. Smooth camera movements and cinematic angles bring the coffee-making process to life. The combination of soft lighting, detailed visuals, and ambient café vibes creates a premium cinematic experience. This video captures the simple beauty of coffee moments in a creative and engaging way.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102329184609812480/img/KOFHaF23Ar17rSF2.jpg" width="600" alt="Cozy Cinematic Coffee Shop Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11155)**
-
-**Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2102330407404572896) | **Published:** Sep 22, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -7276,6 +7272,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-08T05:01:39.323Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-08T15:34:08.542Z</sub>
 
 </div>

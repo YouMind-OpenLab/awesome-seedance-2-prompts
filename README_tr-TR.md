@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6509** |
+| 📝 Toplam İstem | **6513** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-10-08** |
 
@@ -361,6 +361,98 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Sinema Salonunda Bir Adam
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lüks bir sinema salonunda dinlenen genç bir Doğu Asyalı erkeğin sinematik sahnesini oluşturmak için gerçekçi ışıklandırma ve kompozisyona odaklanan bir istem.
+
+#### 📝 İstem
+
+```
+Lüks bir sinema salonunda rahatça oturan genç bir Doğu Asyalı erkeğin ultra gerçekçi sinematik sahnesi; hafif gevşetilmiş siyah takım elbise, beyaz gömlek ve koyu çizgili kravat giyiyor. Sakin ve hafif eğlenceli bir ifadeyle kırmızı koltukta geriye yaslanmış, dağınık koyu kızıl kahverengi saçları var. Yüzünü aydınlatan film ekranından gelen yumuşak sinematik ışıklandırma. Arka planda derin kırmızı koltuk sıraları ve hafif bulanık seyirciler, gerçekçi sinema atmosferi, sığ alan derinliği, doğal cilt dokusu, dramatik film ışığı, 85mm lens, f/1.4, HDR, fotogerçekçi, 8K, dikey 9:16 kompozisyon.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108053500269895680/img/bufO_qQFhPGo51Sp.jpg" width="600" alt="Sinema Salonunda Bir Adam">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12116)**
+
+**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2108053559485104592) | **Yayınlandı:** Oct 8, 2026
+
+---
+### Lüks Güzellik Reklamı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 için tasarlanmış, pembe stüdyoda bir model ve dudak kremi uygulamasını içeren 20 saniyelik ultra gerçekçi lüks güzellik reklamı için detaylı istem.
+
+#### 📝 İstem
+
+```
+Baştan sona parlak pembe ve mercan estetiğine sahip, dikey 9:16 formatında 20 saniyelik ultra gerçekçi bir lüks güzellik reklamı oluşturun. Yansıtıcı pembe bir yüzey üzerinde duran ve tabanı etrafında yumuşak bir sıçrama efekti bulunan Next Level dudak kreminin yakın çekimiyle başlayın, ardından doğal dokulu parlak dudakların aşırı yakın çekimine pürüzsüz bir geçiş yapın. Dudakların hafifçe açılıp doğal hareketlerini gösterin, ardından kadraja giren dudak kremi aplikatörünün mercan-pembe ürünü dudaklara dikkatlice uyguladığını sergileyin. Gerçekçi dudak dokusunu, kremsi ürün parlaklığını, ince gözenekleri ve zarif vurguları yakalamak için detaylı makro sinematografi kullanın. Modern pembe bir stüdyoda kameraya doğru yavaşça yürüyen, şık toz-pembe dikilmiş bir pantolon takımı giyen özgüvenli genç Doğu Asyalı bir kadının stilize tam vücut çekimine geçiş yapın. Görünümünü yumuşak makyaj ve hafif bir gülümseme ile doğal, bakımlı ve gerçekçi tutun. Arka planda dramatik mercan-pembe sıvı sıçramalarıyla, yansıtıcı parlak bir yüzey üzerinde dizilmiş birden fazla dudak kremi tonunu gösteren premium bir ürün ana çekimiyle bitirin. Pürüzsüz kamera hareketleri, sığ alan derinliği, yumuşak stüdyo aydınlatması, gerçekçi yansımalar, sinematik odak geçişleri, üst düzey kozmetik reklam kalitesi ve kusursuz geçişler kullanın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108042715267244032/img/Xwh6OIik3Z_3OmKe.jpg" width="600" alt="Lüks Güzellik Reklamı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12117)**
+
+**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2108042777556857230) | **Yayınlandı:** Oct 8, 2026
+
+---
+### Seedance Harry Potter Büyücü Düellosu Hataları
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Malfoy'a karşı Ron ve Hermione'nin yer aldığı, Seedance ile oluşturulan bir büyücü düellosu sahnesini paylaşarak yapay zeka hatalarını ve kamera çalışmasının kalitesini tartışıyor.
+
+#### 📝 İstem
+
+```
+Hermione önden saldırırken Ron yandan kuşatır; Malfoy karşı hamle yapmak için telaşla hareket eder, bu da Ron'un sırtındaki beyaz bayrağı kapmasına ve henüz net bir kazananın olmadığı çılgın bir kovalamacaya dönüşmesine olanak tanır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107818284699779073/img/pnMAKn8U89a8V3BJ.jpg" width="600" alt="Seedance Harry Potter Büyücü Düellosu Hataları">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12118)**
+
+**Yazar:** [零崎業萌](https://x.com/zerozakiyamo) | **Kaynak:** [Link](https://x.com/zerozakiyamo/status/2107819839847010747) | **Yayınlandı:** Oct 7, 2026
+
+---
+### Seedance 2.0 Şehir Kovalamacası Sahne İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Karakter tutarlılığı ve spesifik çevresel ipuçları içeren sinematik bir kovalamaca sahnesi için Seedance 2.0'a yönelik detaylı video üretim istemi.
+
+#### 📝 İstem
+
+```
+[Temel Ayar]
+16:9 yatay formatında, 30 saniyelik, canlı aksiyon kalitesinde modern şehir kovalamacası kısa filmi oluşturun.
+Hikaye, ABD'nin Doğu Yakası'ndaki büyük bir şehrin eski sanayi bölgesinde, gün batımından sonraki mavi saatte geçiyor. Ufukta soluk sıcak bir ışık kalırken, sokaklar ve binalar daha soğuk gece renklerine bürünmüş durumda.
+Diş başrol karakteri, sağlanan pembe kadın general görseline sıkı sıkıya referans verir: Yetişkin sarışın bir kadın; aynı yüzü, uzun altın örgülerini, gri-pembe Çin tarzı giysilerini, eski metal zırhını ve kırmızı püsküllü pembe mızrağını korumalıdır.
+İki Amerikalı üniformalı polis memuru tarafından sürekli takip edilirken sokak engellerini aşar, yangın merdivenlerine tırmanır, mızrağını kullanarak yüksek katlı bir çatıdan kutup atlama hareketiyle bitişik binalar arasındaki dar boşluğu geçer, ardından mesafe kazanmak için geçen bir yük trenine atlar. Daha sonra trenden iner, binanın arkasındaki hizmet sokağından geçer ve bir giyim mağazasına dalar.
+Mağazaya girdikten sonra hemen bir sonraki çekime geçin: Aynı diş başrol karakteri, genç bir Amerikan kızının gündelik kıyafetlerini değiştirmiş, beyzbol şapkası takmış, mağaza kapısından sakin bir şekilde dışarı çıkar, uzun altın örgüleri hâlâ yerindedir. Son olarak kameraya bakar ve doğal, oyunbaz tek göz kırpması yapar.
+Mağaza içinde herhangi bir değişim süreci göstermeyin. İlk 26 saniye kovalamaca, atlama ve giyim mağazasına dalma için; son 4 saniye ise değişim sonrası mağazadan çıkış ve göz kırpma için ayrılmalıdır.
+İlk yarı gerilimli ve heyecanlı, final ise hafif ve esprili olmalı. Geçmişini veya polisin neden kovaladığını açıklamayın. Tüm film boyunca okçuluk, yay, çekiş halatları, vinç cihazları veya gölge saldırıları bulunmamaktadır.
+
+[Şehir Ortamı ve Kaçış Rotası]
+Sahne, kırmızı tuğla depolar, eski apartmanlar, çelik dış yangın merdivenleri, çatı havalandırma ekipmanları ve küçük yol kenarı dükkânlarının harmanlandığı, ABD'de kurgusal bir eski sanayi bölgesidir. Yolun her iki tarafında arabalar, kutu kamyonlar ve çöp toplama araçları park edilmiştir. Kavşakta İngilizce trafik işaretleri, kırmızı bir yangın musluğu, metal aydınlatma direkleri ve solmuş zebralar bulunmaktadır.
+Tüm kaçış rotası mekansal olarak birbirine bağlanır:
+Sokak ile park etmiş araçlar arasındaki dar boşluklar → Depo dışındaki yükleme/boşaltma kanalları → Çelik yangın merdivenleri ve bakım platformları → Bitişik yüksek katlı sanayi binalarının çatıları → Yükseltilmiş demiryollarına yakın alçak çatılar → Yük treni çatısı → Sabit bakım platformu ve inen merdivenler → Binanın arkasındaki hizmet sokağı → Sokak cephesindeki giyim mağazası.
+Pole vault (kutup atlama) hareketi, iki bitişik yüksek katlı sanayi binasının çatılarında gerçekleşir. Aşağıdaki sokak, cephedeki pencereler ve dış yangın merdivenleri aracılığıyla yükseklik hissi verin. İki bina arasındaki boşluk, sinematik dublörlük pole vault'u için uygun olup geniş bir caddeyi geçmekten biraz daha dardır. Karşı çatı biraz daha alçaktır.
+İkinci binada birbirine bağlı basamaklı çatılar vardır; demiryolu tarafındaki çatı, kamyon çatısından yalnızca biraz daha yüksektir. Başrol karakterinin yüksek noktadan alçak çatıya koştuğunu göstermek için kısa geniş çekimler ve kesintisiz aksiyon kullanın; karakter yüksek binanın tepesinden aniden trenin yanına beliremez.
+Demiryolu, üst hat telleri olmayan endüstriyel bir yük hattıdır. Tren, şehir bölgesinden orta hızda geçer; çatıda yolcu veya yoğun, sürekli engel yoktur. Öndeki sabit bakım platformu, tren çatısının yüksekliğine yakındır ve inen merdivenlere bağlanır.
+Binanın arkasındaki hizmet sokağı, giyim mağazasının bulunduğu sokağa açılır. Mağaza vitrini sıcak ışıklarla aydınlatılmıştır; sıradan tişörtler, kot pantolonlar, günlük ceketler ve beyzbol şapkaları görünmektedir. Giriş ve çıkış aynı mağazada olmalı, kapı çerçeveleri, vitrin düzenlemeleri ve aydınlatma tutarlılık göstermelidir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107762351541989376/img/urF1j9XjdVcAsMJY.jpg" width="600" alt="Seedance 2.0 Şehir Kovalamacası Sahne İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12119)**
+
+**Yazar:** [探路AI](https://x.com/TanLuAI) | **Kaynak:** [Link](https://x.com/TanLuAI/status/2107763438747521348) | **Yayınlandı:** Oct 7, 2026
+
+---
 ### Sinematik Okul Kantini Öğle Yemeği Sahnesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6490,104 +6582,6 @@ Uzun, düz siyah saçlı güzel bir Koreli kız, altın saatte huzurlu bir Kore 
 **Yazar:** [Ayat](https://x.com/aiwithaayat) | **Kaynak:** [Link](https://x.com/aiwithaayat/status/2102607673501892691) | **Yayınlandı:** Sep 23, 2026
 
 ---
-### 2000'lerin Başında Ev Videosu Tarzı İstem
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 için, yağmurlu bir pencereyle etkileşime giren ve uyanan bir Koreli kadının lo-fi, 2000'lerin başındaki Sony MiniDV tarzı ev videosunu oluşturmak üzere tasarlanmış son derece detaylı istem.
-
-#### 📝 İstem
-
-```
-Ana Özne: Genç Koreli kadın, 24 yaşında, doğal çekici, gerçekçi cilt, minimal makyaj, uzun koyu saçlar gevşekçe açık. Bol kesim bordo kapüşonlu sweatshirt ve rahat geniş pantolon giyiyor. Kimliğini, yüz hatlarını, saç stilini, vücut oranlarını ve görünümünü baştan sona tam olarak koruyun.
-
-Konum: Küçük, eski bir Seul apartmanı; karanlık, yağmurlu bir sabahın erken saatleri. Bulanıklaşmış komşu apartman binalarına, ıslak çatılara ve soluk şehir ışıklarına bakan, yağmur damlalarıyla kaplı büyük bir yatak odası penceresi. Basit ahşap mobilyalar, küçük bir komodin ve sessiz, yaşanmış hissi veren bir yatak odası.
-
-Işıklandırma & Atmosfer: Derin, sabahın erken saatlerindeki mavi saat ambiyansı. Yağmurlu pencereden gelen soğuk mavi-gri ışık ve komodindeki lambadan yayılan çok zayıf sıcak parıltı. Karanlık bulutlu gökyüzü, soluk renkler, yumuşak gölgeler, hafif düşük pozlanmış iç mekan ve huzurlu, uykulu bir atmosfer.
-
-Stil: Başka biri tarafından elde tutulan bir video kamera ile çekilmiş, ultra gerçekçi, 2000'lerin başındaki Sony MiniDV ev videosu. Tamamen samimi ve sahnelenmemiş. Doğal el hareketleri, ince insan titremesi, kusurlu çerçeveleme, nazik yeniden çerçeveleme, zaman zaman otomatik odaklama arayışı, hafif pozlama kaymaları, solmuş renkler, yumuşak kontrast, otantik DV sıkıştırması, ince düşük ışıklı dijital gürültü ve mikrofon gürültüsü. Baştan sona pürüzsüz, sürekli gerçek zamanlı hareket. Takılma, titreme, kare atlama, tekrarlayan kareler, stop-motion görünümü, aşırı hareket bulanıklığı, hız değişiklikleri veya düşük kare hızı görünümü yok. Stabilizasyon veya modern sinematik hareket yok.
-
-00:00–00:03 — UYANMA PENCERESİ: Yatak odası penceresine doğru yavaşça yürüyor, hala uykulu ve perdeyi nazikçe kenara çekiyor. Karanlık, yağmurlu Seul sabahı ortaya çıkıyor.
-
-00:03–00:06 — YOĞUŞMA: Camın yoğuşmayla kaplandığını fark ediyor. Bir parmağını kaldırıyor ve buğulu camda yavaşça küçük şeffaf bir alan siliyor.
-
-00:06–00:09 — KÜÇÜK ÇİZİM: Dalgınlıkla parmak ucuyla yoğuşmanın üzerine küçük, basit bir gülümseyen yüz çiziyor. Hafif eğlenceli bir gülümsemeyle ona bir an bakıyor.
-
-00:09–00:12 — YAĞMUR: Temizlenen bölüme daha yakın eğiliyor ve camdan aşağı akan yağmur damlalarını izliyor. Kamera yavaşça yaklaşıyor, arkadaki bulanık Seul binalarını yakalıyor.
-
-00:12–00:15 — SESSİZ AN: Alnını serin cama bir anlığına hafifçe dayıyor, yağmuru dinliyor. Kamera yavaşça yağmurlu manzaraya doğru süzülüp kesilirken küçük, huzurlu bir gülümseme veriyor.
-
-Ses: Sadece doğal mekan sesi—pencereye vuran düzenli yağmur, ince rüzgar, uzaktan trafik, hafif oda ambiyansı, yumuşak ayak sesleri ve sessiz kumaş hışırtısı. Müzik yok, efekt yok.
-
-Hareket Kalitesi: Gerçekçi, akıcı, kesintisiz hareket. Yapay veya robotik hareket yok. Doğal insan hareketi korunmalı.
-
-Genel Not: Video, nostaljik, melankolik ve huzurlu bir his vermeli. Lo-fi estetik ön planda olmalı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102471023140761600/img/VEaSlLn6iLvgftCa.jpg" width="600" alt="2000'lerin Başında Ev Videosu Tarzı İstem">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11157)**
-
-**Yazar:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Kaynak:** [Link](https://x.com/iamahmedfaraz66/status/2102606380863472099) | **Yayınlandı:** Sep 23, 2026
-
----
-### Gökdelen İçinden Düşen Anime Kız Promptu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gelecekteki bir gökdelenden düşen ve sinematik efektlerle güçlü bir uçan varlığa dönüşen anime tarzı bir kızı içeren, Seedance 2.0 için dinamik bir video promptu.
-
-#### 📝 İstem
-
-```
-Gece vakti, yansımalar, ışıklar ve yoğun hareket bulanıklığıyla çevrili, pembe saçlı anime tarzı bir kızın gelecekteki cam bir gökdelenden düştüğü dramatik bir tepeden çekim oluşturun. Kamera hızla döner ve onun inişini takip eder, ardından sakin ve gizemli göründüğü karanlık bir yakın çekime geçiş yapar. Pembe kıyafetinin, sıkılmış elinin ve uçuşan saçlarının detaylı çekimlerini gösterin. Sinematik aydınlatma ve derin gölgelerle gerilimi artırın, ardından altın parlayan gözleri, saçlarında esen rüzgar, parlak sıcak ışık ve arkasında kanat benzeri enerjiyle kameraya doğru ileriye uçtuğu güçlü bir final çekimine geçiş yapın. Ultra detaylı 3D anime sinematik stili, gerçekçi hareket, akıcı kamera hareketi, dramatik alan derinliği, yüksek kaliteli aydınlatma, dinamik aksiyon, tutarlı karakter tasarımı, epik sinematik atmosfer.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102572803275014144/img/XeqJhRczWJCHRoVl.jpg" width="600" alt="Gökdelen İçinden Düşen Anime Kız Promptu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11154)**
-
-**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2102572922674225517) | **Yayınlandı:** Sep 23, 2026
-
----
-### Üniversite Fizik Laboratuvarı Eğitim Videosu İstem Metni
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 kullanılarak bir üniversite fizik laboratuvarında, profesör ve öğrencilerle yerçekimi ve ivmeyi gösteren gerçekçi bir eğitim videosu oluşturmak için detaylı istem metni.
-
-#### 📝 İstem
-
-```
-Modern bir üniversite fizik laboratuvarında geçen sinematik ve gerçekçi bir eğitim videosu oluşturun. Kendinden emin erkek bir fizik profesörü, elinde bir kahve fincanı ve defterle sınıfa girerken, öğrenciler büyük bir amfide dikkatle oturuyor. Sahne daha sonra, profesörün ve bir grup öğrencinin şeffaf eğimli bir rayın etrafında toplandığı uygulamalı bir fizik deneyine geçiş yapar. Küçük metalik bir top raya dikkatlice yerleştirilir; bu da hareket, yerçekimi, ivme ve enerji konularının net bir görsel demosunu sunar. Şeffaf rayın, metal topun, yakından gözlemleyen öğrencilerin ve doğal el hareketleriyle deneyi yöneten profesörün detaylı yakın çekimlerini gösterin. Deneyi ilgi çekici ve inandırıcı kılmak için akıcı kamera hareketleri, gerçekçi alan derinliği, doğal yüz ifadeleri ve otantik sınıf etkileşimleri kullanın. Geniş pencerelerden giren sıcak güneş ışığı ve yumuşak iç aydınlatma ile sinematik laboratuvar ışıklandırması ekleyin. Profesörün altın saat ışığında, bilimsel ekipmanlarla çevrili bir laboratuvar masasında çalıştığı, düşündürücü ve ilham verici akademik bir atmosfer yaratan bir sahneyle bitirin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102331771367108608/img/zhYK8aR3asclZ4MU.jpg" width="600" alt="Üniversite Fizik Laboratuvarı Eğitim Videosu İstem Metni">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11156)**
-
-**Yazar:** [Ayat](https://x.com/aiwithaayat) | **Kaynak:** [Link](https://x.com/aiwithaayat/status/2102331859657253174) | **Yayınlandı:** Sep 22, 2026
-
----
-### Sıcak Sinematik Kahve Dükkanı Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 için gerçekçi dokular ve sıcak aydınlatmaya odaklanan, modern bir kafede kahve hazırlanışını gösteren sıcak ve sinematik bir video oluşturmak için istem.
-
-#### 📝 İstem
-
-```
-Modern bir kafenin güzel atmosferini öne çıkaran bu sıcak sinematik kahve videosunu oluşturdum. Video, sakin ve davetkar bir ruh hali yaratan mermer masaya konmuş sıcak bir fincan kahve ile başlıyor. Yakın çekimler, espresso'nun kahve makinesinden fincana akıcı şekilde dökülüşünü yakalıyor. Zengin kahve detayları, kremamsı doku ve sıcak aydınlatma her sahneyi gerçekçi ve görsel olarak çekici kılıyor. Arka plan, doğal hareketler ve rahatlatıcı bir atmosferle canlı bir kafe ortamını gösteriyor. Akıcı kamera hareketleri ve sinematik açılar, kahve yapım sürecine hayat veriyor. Yumuşak ışıklandırma, detaylı görseller ve ambiyanslı kafe havasının kombinasyonu premium bir sinematik deneyim yaratıyor. Bu video, kahve anlarının basit güzelliğini yaratıcı ve ilgi çekici bir şekilde yansıtıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102329184609812480/img/KOFHaF23Ar17rSF2.jpg" width="600" alt="Sıcak Sinematik Kahve Dükkanı Video İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11155)**
-
-**Yazar:** [liana](https://x.com/Lianaalane) | **Kaynak:** [Link](https://x.com/Lianaalane/status/2102330407404572896) | **Yayınlandı:** Sep 22, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -6649,6 +6643,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-08T05:02:03.054Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-08T15:34:23.332Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6509** |
+| 📝 Totale prompt | **6513** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-10-08** |
 
@@ -361,6 +361,99 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Uomo in sala cinematografica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per generare una scena cinematografica di un giovane uomo dell'Asia orientale rilassato in un lussuoso cinema, con focus su illuminazione e composizione realistiche.
+
+#### 📝 Prompt
+
+```
+Scena cinematografica ultra-realistica di un giovane uomo dell'Asia orientale seduto rilassato in un lussuoso cinema, indossa un abito nero leggermente slacciato, camicia bianca e cravatta a righe scure. Si appoggia comodamente su una poltrona rossa del cinema con un'espressione calma e leggermente divertita, capelli scuri castano-rossicci spettinati, luce cinematografica morbida proveniente dallo schermo che illumina il suo viso. File di poltrone rosse scure e spettatori sfocati sullo sfondo, atmosfera realistica da cinema, profondità di campo ridotta, texture naturale della pelle, illuminazione drammatica da film, obiettivo 85mm, f/1.4, HDR, fotorealistico, 8K, composizione verticale 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108053500269895680/img/bufO_qQFhPGo51Sp.jpg" width="600" alt="Uomo in sala cinematografica">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12116)**
+
+**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2108053559485104592) | **Pubblicato:** Oct 8, 2026
+
+---
+### Spot Pubblicitario di Bellezza di Lusso
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt dettagliato per uno spot pubblicitario di bellezza di lusso ultra-realistico di 20 secondi, che mostra l'applicazione di un lip cream e una modella in uno studio rosa, progettato per Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Crea uno spot pubblicitario di bellezza di lusso ultra-realistico di 20 secondi in formato verticale 9:16, con un'estetica lucida rosa e corallo predominante. Inizia con un primo piano di un lip cream Next Level posizionato su una superficie rosa riflettente, con un morbido effetto splash alla base, poi passa fluidamente a un estremo primo piano di labbra naturali dalla texture lucida. Mostra le labbra che si aprono delicatamente e si muovono in modo naturale prima di introdurre l'applicatore del lip cream che entra nell'inquadratura e applica con cura il prodotto color corallo-rosa sulle labbra. Utilizza una cinematografia macro dettagliata per catturare la texture realistica delle labbra, la lucentezza cremosa del prodotto, i pori della pelle morbidi e i riflessi sottili. Passa a un elegante shot a figura intera di una giovane donna dell'Asia orientale sicura di sé, che indossa un tailleur pantalone elegante color rosa polvere, mentre cammina lentamente verso la telecamera in un moderno studio rosa. Mantieni il suo aspetto naturale, curato e realistico, con un trucco leggero e un sorriso discreto. Concludi con uno scatto hero premium del prodotto che mostra diverse tonalità di lip cream disposte su una superficie lucida e riflettente, con drammatici splash di liquido corallo-rosa sullo sfondo. Usa movimenti di camera fluidi, profondità di campo ridotta, illuminazione da studio morbida, riflessi realistici, focus pull cinematografici, qualità da pubblicità cosmetica di alto livello e transizioni senza soluzione di continuità.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108042715267244032/img/Xwh6OIik3Z_3OmKe.jpg" width="600" alt="Spot Pubblicitario di Bellezza di Lusso">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12117)**
+
+**Autore:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2108042777556857230) | **Pubblicato:** Oct 8, 2026
+
+---
+### Glitch nel Duello Harry Potter di Seedance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Condivide una scena di duello tra maghi generata con Seedance, con Malfoy contro Ron e Hermione, discutendo dei glitch dell'AI e della qualità del lavoro di camera.
+
+#### 📝 Prompt
+
+```
+Hermione attacca frontalmente mentre Ron lo aggira; Malfoy cerca freneticamente di contrastarli, permettendo a Ron di strappargli la bandiera bianca dalla schiena, trasformando la scena in un inseguimento caotico senza un vincitore chiaro.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107818284699779073/img/pnMAKn8U89a8V3BJ.jpg" width="600" alt="Glitch nel Duello Harry Potter di Seedance">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12118)**
+
+**Autore:** [零崎業萌](https://x.com/zerozakiyamo) | **Fonte:** [Link](https://x.com/zerozakiyamo/status/2107819839847010747) | **Pubblicato:** Oct 7, 2026
+
+---
+### Prompt per Scena di Inseguimento Urbano Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt dettagliato per la generazione video Seedance 2.0, che presenta una scena di inseguimento cinematografica con coerenza dei personaggi e indicazioni ambientali specifiche.
+
+#### 📝 Prompt
+
+```
+[Impostazione di Base]
+Crea un cortometraggio di inseguimento urbano moderno, live-action, della durata di 30 secondi, in formato panoramico 16:9.
+La storia si svolge in un vecchio quartiere industriale di una grande città sulla costa orientale degli Stati Uniti, durante l'ora blu dopo il tramonto. Una debole luce calda rimane all'orizzonte, mentre le strade e gli edifici hanno assunto i colori più freddi della notte.
+La protagonista femminile deve riferirsi rigorosamente all'immagine fornita della generale rosa: una donna adulta bionda, che mantiene lo stesso volto, lunghe trecce dorate, abiti grigio-rosa in stile cinese, armatura metallica antica e una lancia rosa con nappe rosse.
+Viene inseguita da due agenti di polizia americani in uniforme, navigando continuamente tra gli ostacoli delle strade, arrampicandosi sulle scale antincendio, eseguendo un salto con l'asta da un tetto di un grattacielo usando la sua lancia per attraversare un varco stretto tra edifici adiacenti, poi saltando su un treno merci in transito per creare distanza. Successivamente, scende dal treno, attraversa un vicolo di servizio dietro l'edificio e irrompe in un negozio di abbigliamento.
+Dopo essere entrata nel negozio, taglia immediatamente alla ripresa successiva: la stessa protagonista è cambiata in vestiti casual quotidiani tipici di una giovane ragazza americana, indossa un cappellino da baseball e esce dalla porta del negozio con calma, mantenendo ancora le sue lunghe trecce dorate. Infine, guarda verso la telecamera e fa un ammiccamento naturale e giocoso con un occhio solo.
+Non mostrare alcun processo di cambio abito all'interno del negozio. I primi 26 secondi sono dedicati all'inseguimento, ai salti e all'irruzione nel negozio di abbigliamento; gli ultimi 4 secondi sono per l'uscita dal negozio dopo il cambio e l'ammiccamento.
+La prima metà è tesa ed emozionante, il finale è leggero e spiritoso. Non spiegare il suo background o la ragione dell'inseguimento da parte della polizia. Non ci sono tiro con l'arco, archi, corde di trazione, dispositivi a verricello o attacchi ombra in tutto il film.
+
+[Ambiente Urbano e Percorso di Fuga]
+La scena è un'area industriale fittizia in una città degli Stati Uniti, che mescola magazzini in mattoni rossi, vecchi appartamenti, scale antincendio esterne in acciaio, attrezzature di ventilazione sui tetti e piccoli negozi lungo la strada. Auto, furgoni box e veicoli di raccolta rifiuti sono parcheggiati su entrambi i lati della strada. All'incrocio ci sono segnali stradali in inglese, un idrante rosso, pali metallici dell'illuminazione pubblica e strisce pedonali sbiadite.
+L'intero percorso di fuga è collegato spazialmente:
+Stretti varchi tra la strada e i veicoli parcheggiati → Canali di carico/scarico esterni al magazzino → Scale antincendio in acciaio e piattaforme di manutenzione → Tetti di edifici industriali adiacenti a più piani → Tetti inferiori vicino alle ferrovie sopraelevate → Tetto del treno merci → Piattaforma di manutenzione fissa e scale discendenti → Vicolo di servizio dietro l'edificio → Negozio di abbigliamento affacciato sulla strada.
+Il salto con l'asta avviene sui tetti di due edifici industriali adiacenti a più piani. Stabilisci un senso di altezza attraverso la strada sottostante, le finestre della facciata e le scale antincendio esterne. Il varco tra i due edifici è adatto per un salto con l'asta acrobatico cinematografico, leggermente più stretto dell'attraversamento di una larga strada. Il tetto opposto è leggermente più basso.
+Il secondo edificio ha tetti a gradini collegati, con il tetto lato ferrovia solo leggermente più alto rispetto al tetto del camion. Usa brevi inquadrature larghe e azione continua per mostrare la protagonista che corre dal punto alto verso i tetti inferiori; non può apparire magicamente accanto al treno dalla cima del grattacielo.
+La linea ferroviaria merci è un ramo urbano senza elettrificazione overhead. Il treno passa a velocità moderata. Il tetto del vagone offre una superficie stabile per l'atterraggio.
+Il vicolo di servizio dietro l'edificio conduce direttamente al retro del negozio di abbigliamento, consentendo un ingresso rapido e credibile.
+
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2107762351541989376/img/urF1j9XjdVcAsMJY.jpg" width="600" alt="Prompt per Scena di Inseguimento Urbano Seedance 2.0">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12119)**
+
+**Autore:** [探路AI](https://x.com/TanLuAI) | **Fonte:** [Link](https://x.com/TanLuAI/status/2107763438747521348) | **Pubblicato:** Oct 7, 2026
+
+---
 ### Scena Cinematografica del Pranzo nella Mensa Scolastica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6414,104 +6507,6 @@ Una bella ragazza coreana con lunghi capelli neri lisci cammina attraverso una t
 **Autore:** [Ayat](https://x.com/aiwithaayat) | **Fonte:** [Link](https://x.com/aiwithaayat/status/2102607673501892691) | **Pubblicato:** Sep 23, 2026
 
 ---
-### Prompt in stile Home Video dei primi anni 2000
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt estremamente dettagliato per Seedance 2.0 per generare un video casalingo lo-fi in stile Sony MiniDV dei primi anni 2000, che ritrae una donna coreana mentre si sveglia e interagisce con una finestra piovosa.
-
-#### 📝 Prompt
-
-```
-Soggetto principale: Giovane donna coreana, 24 anni, naturalmente attraente, pelle realistica, trucco minimo, lunghi capelli scuri sciolti. Indossa una felpa con cappuccio bordeaux oversize e pantaloni larghi casual. Preserva la sua identità esatta, i tratti del viso, l'acconciatura, le proporzioni corporee e l'aspetto fisico per tutta la durata.
-
-Luogo: Piccolo appartamento vecchio a Seoul durante una mattina buia e piovosa. Una grande finestra della camera da letto coperta di pioggia che affaccia su edifici residenziali vicini sfocati, tetti bagnati e deboli luci cittadine. Mobili semplici in legno, un comodino piccolo e una camera da letto tranquilla e vissuta.
-
-Illuminazione e atmosfera: Profonda atmosfera blu dell'alba dei primi anni 2000. Luce fredda blu-grigia che filtra attraverso la finestra piovosa, con un bagliore caldo molto debole proveniente da una lampada sul comodino. Cielo nuvoloso scuro, colori smorzati, ombre morbide, interno leggermente sottoesposto e un'atmosfera pacifica e assonnata.
-
-Stile: Video casalingo ultra-realistico in stile Sony MiniDV dei primi anni 2000, ripreso da un'altra persona che tiene la videocamera. Completamente candido e non messo in scena. Movimento naturale a mano libera, lieve tremolio umano, inquadratura imperfetta, leggero riadattamento dell'inquadratura, occasionale ricerca dell'autofocus, lievi variazioni di esposizione, colori sbiaditi, contrasto morbido, autentica compressione DV, sottile rumore digitale in condizioni di scarsa illuminazione e rumore del microfono. Movimento continuo fluido in tempo reale per tutta la durata. Nessun inceppamento, judder, salto di fotogrammi, fotogrammi duplicati, aspetto stop-motion, eccessiva sfocatura da movimento, cambi di velocità o look a bassa frequenza di fotogrammi. Nessuna stabilizzazione o movimento cinematografico moderno.
-
-00:00–00:03 — FINESTRA DEL RISVEGLIO: Cammina lentamente verso la finestra della camera da letto, ancora assonnata, e sposta delicatamente la tenda. Si rivela la mattina buia e piovosa di Seoul.
-
-00:03–00:06 — CONDENSA: Nota che il vetro è coperto di condensa. Alza un dito e pulisce lentamente una piccola area trasparente attraverso la finestra appannata.
-
-00:06–00:09 — PICCOLO DISEGNO: Disegna distrattamente un piccolo sorriso semplice nella condensa con la punta del dito. Lo guarda per un momento con un lieve sorriso divertito.
-
-00:09–00:12 — PIOGGIA: Si avvicina alla sezione pulita e osserva le gocce di pioggia scorrere sul vetro. La telecamera si muove gentilmente più vicino, catturando gli edifici sfocati di Seoul sullo sfondo.
-
-00:12–00:15 — MOMENTO DI QUIETE: Appoggia leggermente la fronte contro il vetro freddo per un secondo, ascoltando la pioggia. Regala un piccolo sorriso pacifico mentre la telecamera deriva lentamente verso la vista piovosa e taglia.
-
-Audio: Solo suono ambientale naturale—pioggia costante contro la finestra, vento debole, traffico lontano, sottile ambienza della stanza, passi leggeri e quieto fruscio dei tessuti. Nessuna musica, narrazione o effetti sonori aggiunti.
-
-Obiettivo: Sembrare un momento completamente ordinario e intimo di un video casalingo dei primi anni 2000. Non succede nulla di drammatico; l'atmosfera deriva dalla finestra piovosa, dalla condensa, dal suo piccolo sorriso e dalla quieta mattina presto. Dovrebbe sembrare catturato accidentalmente piuttosto che eseguito deliberatamente.
-
-Qualità del movimento: Mantieni i suoi movimenti naturali e fluidi, specialmente quando pulisce la condensa con il dito e si muove lentamente.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102471023140761600/img/VEaSlLn6iLvgftCa.jpg" width="600" alt="Prompt in stile Home Video dei primi anni 2000">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11157)**
-
-**Autore:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Fonte:** [Link](https://x.com/iamahmedfaraz66/status/2102606380863472099) | **Pubblicato:** Sep 23, 2026
-
----
-### Prompt: Ragazza Anime che Cade Attraverso un Grattacielo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video dinamico per Seedance 2.0 che presenta una ragazza in stile anime che cade attraverso un grattacielo futuristico, trasformandosi in un'entità volante potente con effetti cinematografici.
-
-#### 📝 Prompt
-
-```
-Crea uno scatto drammatico dall'alto verso il basso di una ragazza in stile anime dai capelli rosa che cade attraverso un grattacielo di vetro futuristico di notte, circondata da riflessi, luci e un intenso motion blur. La camera ruota rapidamente e segue la sua discesa, poi taglia su un primo piano scuro dove appare calma e misteriosa. Mostra inquadrature dettagliate del suo outfit rosa, della mano serrata e dei capelli fluenti. Costruisci la tensione con illuminazione cinematografica e ombre profonde, quindi transiziona in un potente scatto finale in cui vola verso la telecamera con occhi dorati luminosi, vento tra i capelli, luce calda brillante ed energia simile ad ali dietro di lei. Stile cinematografico 3D anime ultra-detailed, movimento realistico, movimenti di camera fluidi, profondità di campo drammatica, illuminazione di alta qualità, azione dinamica, design del personaggio coerente, atmosfera cinematografica epica.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102572803275014144/img/XeqJhRczWJCHRoVl.jpg" width="600" alt="Prompt: Ragazza Anime che Cade Attraverso un Grattacielo">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11154)**
-
-**Autore:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2102572922674225517) | **Pubblicato:** Sep 23, 2026
-
----
-### Prompt per Video Educativo di Laboratorio di Fisica Universitaria
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato per creare un video educativo realistico in un laboratorio di fisica universitaria, che dimostri gravità e accelerazione con un professore e studenti utilizzando Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Crea un video educativo cinematografico e realistico ambientato all'interno di un moderno laboratorio di fisica universitario. Un sicuro professore di fisica entra nell'aula portando una tazza di caffè e un quaderno, mentre gli studenti siedono attenti in un grande auditorium. La scena passa poi a un esperimento pratico di fisica dove il professore e un gruppo di studenti si riuniscono attorno a una pista inclinata trasparente. Una piccola palla metallica viene posizionata con cura sulla pista, creando una chiara dimostrazione visiva di movimento, gravità, accelerazione ed energia. Mostra primi piani dettagliati della guida trasparente, della palla metallica, degli studenti che osservano attentamente e del professore che guida l'esperimento con movimenti naturali delle mani. Utilizza movimenti di camera fluidi, profondità di campo realistica, espressioni facciali naturali e interazioni autentiche in aula per rendere l'esperimento coinvolgente e credibile. Includi illuminazione da laboratorio cinematografica con luce interna morbida e luce solare calda che entra attraverso grandi finestre. Termina con il professore che lavora su un tavolo da laboratorio durante la golden hour, circondato da apparecchiature scientifiche, creando un'atmosfera accademica riflessiva e ispiratrice.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102331771367108608/img/zhYK8aR3asclZ4MU.jpg" width="600" alt="Prompt per Video Educativo di Laboratorio di Fisica Universitaria">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11156)**
-
-**Autore:** [Ayat](https://x.com/aiwithaayat) | **Fonte:** [Link](https://x.com/aiwithaayat/status/2102331859657253174) | **Pubblicato:** Sep 22, 2026
-
----
-### Prompt Video Cinematografico per Caffetteria Accogliente
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per generare un video cinematografico e accogliente che mostra la preparazione del caffè in una caffetteria moderna, focalizzato su texture realistiche e illuminazione calda per Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Ho creato questo video cinematografico accogliente sul caffè, che cattura l'atmosfera incantevole di una caffetteria moderna. Il video inizia con una tazza fumante di caffè posata su un tavolo in marmo, creando un'atmosfera calma e invitante. Gli primi piani mostrano l'espresso che scorre fluidamente dalla macchina da caffè nella tazza. I dettagli ricchi del caffè, la consistenza cremosa e l'illuminazione calda rendono ogni scena realistica e visivamente coinvolgente. Lo sfondo presenta un ambiente vivace della caffetteria con movimenti naturali e un'atmosfera rilassante. Movimenti di camera fluidi e angolazioni cinematografiche danno vita al processo di preparazione del caffè. La combinazione di luce soffusa, visuali dettagliate e vibrazioni ambientali della caffetteria crea un'esperienza cinematografica premium. Questo video cattura la semplice bellezza dei momenti dedicati al caffè in modo creativo e coinvolgente.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102329184609812480/img/KOFHaF23Ar17rSF2.jpg" width="600" alt="Prompt Video Cinematografico per Caffetteria Accogliente">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11155)**
-
-**Autore:** [liana](https://x.com/Lianaalane) | **Fonte:** [Link](https://x.com/Lianaalane/status/2102330407404572896) | **Pubblicato:** Sep 22, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -6573,6 +6568,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-08T05:01:58.756Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-08T15:34:20.634Z</sub>
 
 </div>
