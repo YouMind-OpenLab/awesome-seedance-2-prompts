@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6513** |
+| 📝 Toplam İstem | **6515** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-10-09** |
 
@@ -361,6 +361,44 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Gece Sokakları Gerilim Kovuşturma Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karanlık bir şehir sokağında gece vakti geçen gizemli bir kovuşturma ve dövüş sahnesini içeren ultra gerçekçi sinematik aksiyon sahnesi için istem.
+
+#### 📝 İstem
+
+```
+Gece karanlık bir şehir sokağında ultra gerçekçi sinematik aksiyon sahnesi. Uzun kahverengi saçlı, zarif beyaz kıyafet giyen gizemli genç bir kadın, park edilmiş araçlar ve teslimat kamyonlarının yakınında siyah giyimli birkaç erkek tarafından kuşatılmıştır. Siyah takım elbiseli yakışıklı genç bir adam, gergin bir dövüş yaşanırken onu korumak için devreye girer. Kadın sokakta koşarken adamlar zorlanır ve yoğun bir gerilim atmosferi yaratılır. Sıcak kehribar renkli sokak lambalarını yansıtan ıslak kaldırımlar, dramatik gölgeler, gerçekçi yüz ifadeleri, dalgalanan saçlar, dinamik aksiyon pozları, sinematik kamera hareketleri, sığ alan derinliği, kasvetli aydınlatma, Hollywood aksiyon filmi estetiği, fotogerçekçi cilt dokuları, ultra detaylı ortam, 4K çözünürlük, profesyonel sinematografi, gerçekçi hareket bulanıklığı, dikey 9:16 kompozisyon. Metin yok, filigran yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108430636805681152/img/7krFjZDXQrgXEPm6.jpg" width="600" alt="Gece Sokakları Gerilim Kovuşturma Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12199)**
+
+**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2108430677226242083) | **Yayınlandı:** Oct 9, 2026
+
+---
+### Fantastik Savaşçı vs Ejderhalar Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 Mini ile oluşturulan, sisli bir ormanda ejderhalarla savaşan kadın savaşçının 10 saniyelik videosu için istem.
+
+#### 📝 İstem
+
+```
+Uzun, dalgalanan kahverengi saçlara sahip, kırmızı-siyah fantastik savaşçı kıyafeti giyen güzel ve fotogerçekçi genç bir İngiliz kadın, antik ve sisli bir orman boyunca koşar. Aniden, arkasında devasa boyutlarda ateş püskürten birçok ejderha belirir ve ona saldırır. Kadın derhal parlayan çelik kılıcını çeker ve inanılmaz bir hızla korkusuzca savaşır. Nefes kesici yüksek sıçramalar, havada dönüşler, şimşek hızında kılıç darbeleri, çevik taklalar ve güçlü hava saldırıları gerçekleştirir. Yan tarafa atlayarak ejderha alevlerini savuşturur ve hassas, akıcı kılıç hareketleriyle karşı saldırıya geçer. Birer birer, etkileyici sinematik savaşlarda ejderhalar yenilir. Son ejderha ona hamle yapar; kadın havaya yüksekçe zıplar, kesin bir bitirici darbe indirir ve zarif bir şekilde yere iner, arkasında ejderha yıkılır. Saçları ve kıyafetleri her harekette doğal olarak hareket eder. Ultra gerçekçi insan anatomisi, otantik yüz ifadeleri, inandırıcı fizik kuralları, kusursuz hızlı tempolu koreografi, detaylı ejderha pulları, sinematik takip çekimleri, dramatik ışıklandırma, uçan kıvılcımlar, duman, ateş ve gerçekçi ses efektleri. Orijinal fantastik sahne, canlı aksiyon filmi gerçekçiliği, 4K kalite, çizgi film tarzı yok, yapay görünümlü karakterler yok, kan veya vahşet yok. Dikey 9:16 format, 10 saniye, sürekli aksiyon, son derece hızlı dövüş, tutarlı karakter görünümü.
+```
+
+<img src="https://pbs.twimg.com/media/HUHo-GlagAAulBx.jpg" width="600" alt="Fantastik Savaşçı vs Ejderhalar Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12200)**
+
+**Yazar:** [Rizi](https://x.com/Rizi_ru) | **Kaynak:** [Link](https://x.com/Rizi_ru/status/2108222263267148241) | **Yayınlandı:** Oct 8, 2026
+
+---
 ### Sinema Salonunda Bir Adam
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6542,46 +6580,6 @@ Yumuşak feminen yaşam tarzı estetiği, sıcak Avrupa kafesi atmosferi, bej ve
 **Yazar:** [Caden Flux](https://x.com/Caden_Flux) | **Kaynak:** [Link](https://x.com/Caden_Flux/status/2102920998165110878) | **Yayınlandı:** Sep 24, 2026
 
 ---
-### Çift Pozlama Silüet Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 ile oluşturulan, deniz manzarasıyla dolu çift pozlama silüetlerini içeren sinematik bir video için şiirsel istem.
-
-#### 📝 İstem
-
-```
-Sinematik 10 saniyelik çekim, birbirine bakan bir çiftin çift pozlama silüeti; silüetlerin içinde canlı bir gün batımı deniz manzarası yer alıyor. Güneş yavaşça ufka doğru iniyor, altın rengi ışığı yarı saydam silüetlerin içinde parıldıyor ve titriyor. Okyanusun nazik dalgaları yumuşak, ağır çekimde kumlu sahile vuruyor, suyun üzerinde sıcak yansımalar dans ediyor. Bir grup martı pastel pembe-mavi gökyüzünde zarifçe süzülüyor ve uzaklara doğru uçuyor. Kum üzerindeki sonbahar akçaağaç yaprakları hafif bir esintide titriyor ve biraz sürükleniyor, bir yaprak havalanıp havada dönüyor. Son saniyelerde iki silüet alnaları neredeyse değecek şekilde birbirine doğru hafifçe eğiliyor. Yavaş, rüyamsı kamera yakınlaşması, yumuşak pastel renk paleti (şeftali, lavanta, altın, deniz mavisi), sıcak kenar ışığı, ruhani romantik atmosfer, pürüzsüz ve nazik hareket, kesme yok, metin yok.
-
-yüz bozulması yok, morfining artefaktları yok, titreyen silüet kenarları yok, metin yok, filigran yok, hızlı hareket yok, sahne değişimi yok, ekstra kişi yok
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102729242144292864/img/cThA5vFfXXvKR2Sz.jpg" width="600" alt="Çift Pozlama Silüet Video İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11187)**
-
-**Yazar:** [Viki](https://x.com/churvikv) | **Kaynak:** [Link](https://x.com/churvikv/status/2102729372834639960) | **Yayınlandı:** Sep 23, 2026
-
----
-### Romantik Kıyı Kasabası Aşk Hikayesi İstem Metni
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 için, altın saatte bir kıyı kasabasında Koreli bir kız ve erkeğin romantik ilk karşılaşmasını tasvir eden sinematik video istem metni.
-
-#### 📝 İstem
-
-```
-Uzun, düz siyah saçlı güzel bir Koreli kız, altın saatte huzurlu bir Kore kıyı kasabasında yürüyor; şık bej bir trençkot giyiyor ve elinde çantası var. Koyu renk deri ceketli yakışıklı bir Koreli erkek, eski model bir tramvay geçerken demiryolu geçidinin yanında duruyor. Kız, yüzünde parlayan sıcak güneş ışığıyla deniz kenarı sokaktan yavaşça ona doğru yaklaşıyor. Sinematik kamera hareketleri, doğal yürüyüş ritmi, gerçekçi yüz ifadeleri, yumuşak okyanus esintisi ve detaylı Kore sokak manzaraları. İlk göz temasını nazik bir romantik atmosfer, sığ alan derinliği, sıcak renk düzenlemesi ve fotogerçekçi kaliteyle yakalayın. Pürüzsüz geçişler, doğal aydınlatma ve duygusal hikaye anlatımıyla 15 saniyelik güzel bir sinematik aşk hikayesi oluşturun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102607613376811008/img/f7CrIsdVKZtqZhPE.jpg" width="600" alt="Romantik Kıyı Kasabası Aşk Hikayesi İstem Metni">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11153)**
-
-**Yazar:** [Ayat](https://x.com/aiwithaayat) | **Kaynak:** [Link](https://x.com/aiwithaayat/status/2102607673501892691) | **Yayınlandı:** Sep 23, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -6643,6 +6641,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-09T05:30:34.991Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-09T15:17:32.579Z</sub>
 
 </div>

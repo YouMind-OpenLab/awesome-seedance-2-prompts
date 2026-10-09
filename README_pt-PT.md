@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6513** |
+| 📝 Total de prompts | **6515** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-10-09** |
 
@@ -361,6 +361,44 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Vídeo de Perseguição em Beco Noturno
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para uma cena de ação cinematográfica ultra-realista envolvendo uma perseguição misteriosa e luta em um beco urbano escuro à noite.
+
+#### 📝 Prompt
+
+```
+Cena de ação cinematográfica ultra-realista em um beco urbano escuro à noite. Uma jovem misteriosa de cabelos longos e castanhos, vestindo um traje branco elegante, é cercada por vários homens vestidos de preto perto de veículos estacionados e caminhões de entrega. Um jovem bonito de terno preto intervém para protegê-la enquanto uma luta tensa se desenrola. A mulher corre pelo beco enquanto os homens lutam, criando uma atmosfera intensa de suspense. Pavimento molhado refletindo luzes âmbar quentes dos postes, sombras dramáticas, expressões faciais realistas, cabelo esvoaçante, poses dinâmicas de ação, movimentos de câmera cinematográficos, profundidade de campo rasa, iluminação melancólica, estética de filme de ação hollywoodiano, texturas de pele fotorrealistas, ambiente ultradetalhado, resolução 4K, cinematografia profissional, desfoque de movimento realista, composição vertical 9:16. Sem texto, sem marca d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108430636805681152/img/7krFjZDXQrgXEPm6.jpg" width="600" alt="Vídeo de Perseguição em Beco Noturno">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12199)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2108430677226242083) | **Publicado:** Oct 9, 2026
+
+---
+### Vídeo de Guerreira Fantástica vs Dragões
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para um vídeo de 10 segundos de uma guerreira lutando contra dragões em uma floresta nebulosa, gerado com Seedance 2.0 Mini.
+
+#### 📝 Prompt
+
+```
+Uma jovem adulta inglesa bonita e fotorrealista, com longos cabelos castanhos ondulados, vestindo uma roupa de guerreira fantástica vermelha e preta, corre por uma antiga floresta nebulosa. De repente, vários dragões enormes que cospem fogo surgem atrás dela e atacam. Ela imediatamente saca sua espada de aço brilhante e luta destemidamente em velocidade incrível. Ela realiza saltos altos de tirar o fôlego, giros aéreos, golpes de espada rápidos como raios, acrobacias ágeis e ataques poderosos no ar. Ela desvia dos jatos de fogo dos dragões saltando para os lados e contra-ataca com movimentos precisos e fluidos da espada. Um a um, os dragões são derrotados em batalhas cinematográficas espetaculares. O último dragão avança sobre ela, e ela salta alto no ar, desfere um golpe final decisivo e pousa graciosamente enquanto o dragão desaba atrás dela. Seus cabelos e roupas se movem naturalmente a cada ação. Anatomia humana ultrarrealista, expressões faciais autênticas, física crível, coreografia rápida e sem falhas, escamas detalhadas dos dragões, planos de câmera cinematográficos, iluminação dramática, faíscas voando, fumaça, fogo e efeitos sonoros realistas. Cena original de fantasia, realismo de filme live-action, qualidade 4K, sem estilo cartoon, sem personagens artificiais, sem sangue ou gore. Vertical 9:16, 10 segundos, ação contínua, combate extremamente rápido, aparência consistente do personagem.
+```
+
+<img src="https://pbs.twimg.com/media/HUHo-GlagAAulBx.jpg" width="600" alt="Vídeo de Guerreira Fantástica vs Dragões">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12200)**
+
+**Autor:** [Rizi](https://x.com/Rizi_ru) | **Fonte:** [Link](https://x.com/Rizi_ru/status/2108222263267148241) | **Publicado:** Oct 8, 2026
+
+---
 ### Homem no Cinema
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6561,46 +6599,6 @@ IMPORTANTE: Sem poses exageradas, sem câmera lenta, sem efeito de filtro de bel
 **Autor:** [Caden Flux](https://x.com/Caden_Flux) | **Fonte:** [Link](https://x.com/Caden_Flux/status/2102920998165110878) | **Publicado:** Sep 24, 2026
 
 ---
-### Prompt de Vídeo com Silhueta em Dupla Exposição
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt poético para um vídeo cinematográfico apresentando silhuetas em dupla exposição preenchidas por uma paisagem marítima, criado com Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Cena cinematográfica de 10 segundos, silhueta em dupla exposição de um casal frente a frente, suas silhuetas preenchidas por um pôr do sol vivo sobre o mar. O sol desce lentamente em direção ao horizonte, sua luz dourada cintilando e tremulando dentro das silhuetas translúcidas. Ondas suaves do oceano quebram na praia arenosa em câmera lenta, reflexos quentes dançando sobre a água. Um bando de gaivotas planam graciosamente pelo céu pastel rosa e azul, voando para longe. Folhas de bordo outonais na areia tremem e deslizam levemente com uma brisa suave, uma folha se ergue e gira no ar. Nos segundos finais, as duas silhuetas se inclinam sutilmente uma em direção à outra, quase tocando as testas. Câmera lenta com movimento de aproximação onírico, paleta de cores pastéis suaves (pêssego, lavanda, dourado, azul-marinho), luz de contorno quente, atmosfera romântica etérea, movimento suave e gentil, sem cortes, sem texto.
-
-sem distorção facial, sem artefatos de morphing, sem bordas de silhueta piscando, sem texto, sem marca d'água, sem movimento rápido, sem mudança de cena, sem pessoas extras
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102729242144292864/img/cThA5vFfXXvKR2Sz.jpg" width="600" alt="Prompt de Vídeo com Silhueta em Dupla Exposição">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11187)**
-
-**Autor:** [Viki](https://x.com/churvikv) | **Fonte:** [Link](https://x.com/churvikv/status/2102729372834639960) | **Publicado:** Sep 23, 2026
-
----
-### Prompt de História de Amor em Cidade Costeira Romântica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico para o Seedance 2.0 que retrata um primeiro encontro romântico entre uma garota e um garoto coreanos em uma cidade costeira durante a hora dourada.
-
-#### 📝 Prompt
-
-```
-Uma bela garota coreana com cabelos longos, lisos e pretos caminha por uma pacata cidade costeira na Coreia durante a hora dourada, vestindo um elegante sobretudo bege e carregando uma bolsa. Um bonito garoto coreano, usando jaqueta de couro escura, está parado perto de uma passagem de nível enquanto um bonde vintage passa. A garota se aproxima lentamente dele pela rua à beira-mar, com a luz quente do sol iluminando seu rosto. Movimentos de câmera cinematográficos, caminhada natural, expressões faciais realistas, brisa suave do oceano e cenários detalhados das ruas coreanas. Capture o primeiro contato visual deles com uma atmosfera romântica delicada, profundidade de campo rasa, correção de cor quente e qualidade fotorrealista. Crie uma linda história de amor cinematográfica de 15 segundos com transições suaves, iluminação natural e narrativa emocional.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102607613376811008/img/f7CrIsdVKZtqZhPE.jpg" width="600" alt="Prompt de História de Amor em Cidade Costeira Romântica">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11153)**
-
-**Autor:** [Ayat](https://x.com/aiwithaayat) | **Fonte:** [Link](https://x.com/aiwithaayat/status/2102607673501892691) | **Publicado:** Sep 23, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -6662,6 +6660,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-09T05:30:33.706Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-09T15:17:31.024Z</sub>
 
 </div>

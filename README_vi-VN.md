@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6513** |
+| 📝 Tổng số prompt | **6515** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-10-09** |
 
@@ -361,6 +361,44 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Video Rượt Đuổi Kinh Dị Trong Hẻm Đêm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả cho một cảnh hành động điện ảnh siêu thực, bao gồm cuộc rượt đuổi và chiến đấu bí ẩn trong con hẻm đô thị tối tăm vào ban đêm.
+
+#### 📝 Prompt
+
+```
+Cảnh hành động điện ảnh siêu thực trong con hẻm đô thị tối tăm vào ban đêm. Một cô gái trẻ bí ẩn với mái tóc nâu dài, mặc bộ trang phục trắng thanh lịch, bị bao vây bởi nhiều người đàn ông mặc đồ đen gần các phương tiện đỗ và xe tải giao hàng. Một chàng trai trẻ điển trai trong bộ vest đen bước ra để bảo vệ cô khi một trận chiến căng thẳng nổ ra. Cô gái chạy xuyên qua con hẻm trong khi những người đàn ông vật lộn, tạo nên bầu không khí kịch tính của thể loại thriller. Mặt đường ướt phản chiếu ánh đèn đường màu hổ phách ấm áp, bóng đổ kịch tính, biểu cảm khuôn mặt chân thực, mái tóc bay bổng, tư thế hành động năng động, chuyển động máy quay điện ảnh, độ sâu trường ảnh nông, ánh sáng tâm trạng, thẩm mỹ phim hành động Hollywood, kết cấu da siêu thực, môi trường chi tiết cực cao, độ phân giải 4K, quay phim chuyên nghiệp, mờ chuyển động chân thực, bố cục dọc 9:16. Không có văn bản, không có watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108430636805681152/img/7krFjZDXQrgXEPm6.jpg" width="600" alt="Video Rượt Đuổi Kinh Dị Trong Hẻm Đêm">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12199)**
+
+**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2108430677226242083) | **Đã xuất bản:** Oct 9, 2026
+
+---
+### Video Chiến Binh Fantasy vs Rồng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video 10 giây về nữ chiến binh đấu với rồng trong khu rừng sương mù, được tạo bằng Seedance 2.0 Mini.
+
+#### 📝 Prompt
+
+```
+Một phụ nữ Anh trẻ đẹp, ngoại hình chân thực như ảnh chụp, với mái tóc nâu dài bay bổng, mặc trang phục chiến binh fantasy màu đỏ và đen, chạy xuyên qua một khu rừng cổ kính phủ đầy sương mù. Đột ngột, nhiều con rồng khổng lồ phun lửa xuất hiện phía sau cô và tấn công. Cô lập tức rút thanh kiếm thép sáng bóng và chiến đấu dũng mãnh với tốc độ kinh ngạc. Cô thực hiện những cú nhảy cao ngoạn mục, xoay người trên không, các đòn chém kiếm nhanh như chớp, lật người linh hoạt và những cuộc tấn công mạnh mẽ giữa không trung. Cô né tránh dòng lửa của rồng bằng cách nhảy sang ngang và phản công với những động tác kiếm chính xác, uyển chuyển. Từng con rồng bị đánh bại trong các trận chiến điện ảnh hoành tráng. Con rồng cuối cùng lao vào cô, và cô nhảy cao lên không trung, tung đòn kết liễu quyết định, rồi hạ cánh duyên dáng khi con rồng sụp đổ phía sau lưng. Mái tóc và trang phục của cô di chuyển tự nhiên theo từng hành động. Giải phẫu cơ thể người siêu thực tế, biểu cảm khuôn mặt chân thực, vật lý đáng tin cậy, biên đạo hành động nhịp độ nhanh liền mạch, vảy rồng chi tiết, các cảnh quay tracking điện ảnh, ánh sáng kịch tính, tia lửa bay, khói, lửa và hiệu ứng âm thanh thực tế. Cảnh fantasy nguyên bản, phong cách chân thực như phim live-action, chất lượng 4K, không có phong cách hoạt hình, không có nhân vật trông giả, không có máu hay nội tạng. Khung dọc 9:16, 10 giây, hành động liên tục, chiến đấu cực nhanh, ngoại hình nhân vật nhất quán.
+```
+
+<img src="https://pbs.twimg.com/media/HUHo-GlagAAulBx.jpg" width="600" alt="Video Chiến Binh Fantasy vs Rồng">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12200)**
+
+**Tác giả:** [Rizi](https://x.com/Rizi_ru) | **Nguồn:** [Link](https://x.com/Rizi_ru/status/2108222263267148241) | **Đã xuất bản:** Oct 8, 2026
+
+---
 ### Người đàn ông trong Rạp Chiếu Phim
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6466,46 +6504,6 @@ KHUNG NGANG 16:9 • 15 GIÂY • CHÂN THỰC (PHOTOREALISTIC) • ĐIỆN ẢN
 **Tác giả:** [Caden Flux](https://x.com/Caden_Flux) | **Nguồn:** [Link](https://x.com/Caden_Flux/status/2102920998165110878) | **Đã xuất bản:** Sep 24, 2026
 
 ---
-### Nhắc video bóng tối phơi sáng kép
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc đầy chất thơ cho một đoạn video điện ảnh với các bóng tối phơi sáng kép chứa cảnh biển, được tạo ra bằng Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Cảnh quay điện ảnh dài 10 giây, bóng tối phơi sáng kép của một cặp đôi đối mặt nhau, phần bên trong bóng tối được lấp đầy bởi cảnh hoàng hôn trên biển sống động. Mặt trời từ từ lặn về phía chân trời, ánh sáng vàng óng lung linh và nhấp nháy bên trong những bóng tối bán trong suốt. Những con sóng đại dương dịu dàng vỗ vào bãi cát theo chuyển động chậm, phản chiếu ấm áp nhảy múa trên mặt nước. Một đàn hải âu lướt nhẹ nhàng qua bầu trời màu hồng phấn và xanh lam pastel, bay xa dần về phía chân trời. Lá phong mùa thu trên cát run rẩy và trôi nhẹ trong làn gió, một chiếc lá nâng lên và xoáy tròn trong không khí. Trong những giây cuối cùng, hai bóng tối nghiêng nhẹ về phía nhau, gần như chạm trán. Máy quay đẩy vào chậm rãi và mơ màng, bảng màu pastel nhẹ nhàng (đào, oải hương, vàng kim, xanh biển), ánh sáng viền ấm áp, bầu không khí lãng mạn siêu thực, chuyển động mượt mà và dịu dàng, không cắt cảnh, không có văn bản.
-
-không biến dạng khuôn mặt, không có lỗi morphing, không nhấp nháy ở mép bóng tối, không có văn bản, không có watermark, không có chuyển động nhanh, không thay đổi cảnh, không có thêm người
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102729242144292864/img/cThA5vFfXXvKR2Sz.jpg" width="600" alt="Nhắc video bóng tối phơi sáng kép">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11187)**
-
-**Tác giả:** [Viki](https://x.com/churvikv) | **Nguồn:** [Link](https://x.com/churvikv/status/2102729372834639960) | **Đã xuất bản:** Sep 23, 2026
-
----
-### Prompt Câu chuyện Tình yêu Thị trấn Ven biển Lãng mạn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt video điện ảnh cho Seedance 2.0 mô tả cuộc gặp gỡ đầu tiên lãng mạn giữa một cô gái và chàng trai Hàn Quốc tại thị trấn ven biển vào giờ vàng.
-
-#### 📝 Prompt
-
-```
-Một cô gái Hàn Quốc xinh đẹp với mái tóc đen dài thẳng mượt đi bộ qua một thị trấn ven biển yên bình của Hàn Quốc vào giờ vàng, mặc áo khoác trench màu be thời trang và cầm theo túi xách. Một chàng trai Hàn Quốc điển trai trong chiếc áo khoác da tối màu đứng gần đường ray xe lửa khi một chiếc xe điện cổ kính đi ngang qua. Cô gái từ từ tiến lại gần anh dọc theo con phố ven biển, với ánh nắng ấm áp chiếu sáng trên khuôn mặt cô. Chuyển động camera điện ảnh, chuyển động đi bộ tự nhiên, biểu cảm khuôn mặt chân thực, gió biển nhẹ nhàng và cảnh quan đường phố Hàn Quốc chi tiết. Ghi lại khoảnh khắc chạm mắt đầu tiên của họ với bầu không khí lãng mạn dịu dàng, độ sâu trường ảnh nông, chỉnh màu ấm và chất lượng siêu thực. Tạo ra một câu chuyện tình yêu điện ảnh tuyệt đẹp kéo dài 15 giây với các hiệu ứng chuyển cảnh mượt mà, ánh sáng tự nhiên và cách kể chuyện giàu cảm xúc.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102607613376811008/img/f7CrIsdVKZtqZhPE.jpg" width="600" alt="Prompt Câu chuyện Tình yêu Thị trấn Ven biển Lãng mạn">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11153)**
-
-**Tác giả:** [Ayat](https://x.com/aiwithaayat) | **Nguồn:** [Link](https://x.com/aiwithaayat/status/2102607673501892691) | **Đã xuất bản:** Sep 23, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -6567,6 +6565,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-09T05:30:24.026Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-09T15:17:19.891Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6513** |
+| 📝 Gesamtanzahl Prompts | **6515** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-10-09** |
 
@@ -361,6 +361,44 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Nachtliche Gassen-Thriller-Verfolgungsjagd Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für eine ultrarealistische cineastische Action-Szene mit einer mysteriösen Verfolgungsjagd und einem Kampf in einer dunklen städtischen Gasse bei Nacht.
+
+#### 📝 Prompt
+
+```
+Ultrarealistische cineastische Action-Szene in einer dunklen städtischen Gasse bei Nacht. Eine mysteriöse junge Frau mit langen braunen Haaren, gekleidet in ein elegantes weißes Outfit, wird von mehreren Männern in Schwarz in der Nähe geparkter Fahrzeuge und Lieferwagen umzingelt. Ein gut aussehender junger Mann im schwarzen Anzug greift ein, um sie zu beschützen, während sich ein spannungsgeladener Kampf entfaltet. Die Frau rennt durch die Gasse, während die Männer kämpfen, was eine intensive Thriller-Atmosphäre erzeugt. Nasser Asphalt reflektiert das warme bernsteinfarbene Licht der Straßenlaternen, dramatische Schatten, realistische Gesichtsausdrücke, wehendes Haar, dynamische Aktionsposen, cineastische Kamerabewegungen, geringe Schärfentiefe, stimmungsvolle Beleuchtung, Hollywood-Actionfilm-Ästhetik, fotorealistische Hauttexturen, ultra-detaillierte Umgebung, 4K-Auflösung, professionelle Kinematografie, realistischer Bewegungsunschärfe, vertikale 9:16-Komposition. Kein Text, kein Wasserzeichen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108430636805681152/img/7krFjZDXQrgXEPm6.jpg" width="600" alt="Nachtliche Gassen-Thriller-Verfolgungsjagd Video">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12199)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2108430677226242083) | **Veröffentlicht:** Oct 9, 2026
+
+---
+### Fantasy-Kriegerin gegen Drachen Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für ein 10-sekündiges Video einer weiblichen Kriegerin, die in einem nebligen Wald gegen Drachen kämpft, generiert mit Seedance 2.0 Mini.
+
+#### 📝 Prompt
+
+```
+Eine schöne, fotorealistische junge erwachsene englische Frau mit langem, wallendem braunen Haar, gekleidet in ein rot-schwarzes Fantasy-Kriegeroutfit, rennt durch einen alten, nebligen Wald. Plötzlich tauchen mehrere riesige feuerspeiende Drachen hinter ihr auf und greifen an. Sie zieht sofort ihr glänzendes Stahlschwert und kämpft furchtlos mit unglaublicher Geschwindigkeit. Sie führt atemberaubende hohe Sprünge, Luftdrehs, blitzschnelle Schwertschläge, agile Saltos und kraftvolle Angriffe in der Luft aus. Sie weicht Strahlen von Drachenfeuer aus, indem sie seitlich springt, und kontert mit präzisen, flüssigen Schwertbewegungen. Einer nach dem anderen werden die Drachen in spektakulären kinematografischen Schlachten besiegt. Der letzte Drache stürzt auf sie zu, sie springt hoch in die Luft, versetzt einen entscheidenden finalen Schlag und landet elegant, während der Drache hinter ihr zusammenbricht. Ihr Haar und ihre Kleidung bewegen sich bei jeder Aktion natürlich. Ultra-realistische menschliche Anatomie, authentische Gesichtsausdrücke, glaubwürdige Physik, nahtlose schnell choreografierte Bewegungen, detaillierte Drachenschuppen, kinematografische Verfolgungsaufnahmen, dramatische Beleuchtung, fliegende Funken, Rauch, Feuer und realistische Soundeffekte. Original-Fantasy-Szene, Live-Action-Filmrealismus, 4K-Qualität, kein Cartoon-Stil, keine künstlich wirkenden Charaktere, kein Blut oder Gore. Vertikal 9:16, 10 Sekunden, kontinuierliche Action, extrem schneller Kampf, konsistentes Erscheinungsbild des Charakters.
+```
+
+<img src="https://pbs.twimg.com/media/HUHo-GlagAAulBx.jpg" width="600" alt="Fantasy-Kriegerin gegen Drachen Video">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12200)**
+
+**Autor:** [Rizi](https://x.com/Rizi_ru) | **Quelle:** [Link](https://x.com/Rizi_ru/status/2108222263267148241) | **Veröffentlicht:** Oct 8, 2026
+
+---
 ### Mann im Kino
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6547,46 +6585,6 @@ WICHTIG: Keine übertriebenen Posen, keine Zeitlupe, kein Beauty-Filter-Effekt, 
 **Autor:** [Caden Flux](https://x.com/Caden_Flux) | **Quelle:** [Link](https://x.com/Caden_Flux/status/2102920998165110878) | **Veröffentlicht:** Sep 24, 2026
 
 ---
-### Doppelbelichtung Silhouette Video-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein poetischer Prompt für ein cineastisches Video mit Doppelbelichtungs-Silhouetten, gefüllt mit einer Meereslandschaft, erstellt mit Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Cineastische 10-Sekunden-Aufnahme, Doppelbelichtungs-Silhouette eines Paares, das sich gegenübersteht, deren Silhouetten mit einer lebendigen Sonnenuntergang-Meereslandschaft gefüllt sind. Die Sonne sinkt langsam zum Horizont herab, ihr goldenes Licht schimmert und flackert innerhalb der transluzenten Silhouetten. Sanfte Ozeanwellen rollen in Zeitlupe auf den sandigen Strand, warme Reflexionen tanzen auf dem Wasser. Eine Möwenkolonie gleitet anmutig über den pastellrosa-blauen Himmel und fliegt in die Ferne. Herbstliche Ahornblätter auf dem Sand zittern und wehen leicht im Wind, ein Blatt hebt sich und wirbelt in die Luft. In den letzten Sekunden neigen sich die beiden Silhouetten subtil zueinander, fast berühren sich ihre Stirnen. Langsamer, verträumter Kamera-Zoom-in, weiche Pastell-Farbpalette (Pfirsich, Lavendel, Gold, Meerblau), warmes Randlicht, ätherisch-romantische Atmosphäre, sanfte fließende Bewegung, keine Schnitte, kein Text.
-
-keine Gesichtsverzerrung, keine Morphing-Artefakte, kein Flackern der Silhouettenkanten, kein Text, kein Wasserzeichen, keine schnellen Bewegungen, keine Szenenwechsel, keine zusätzlichen Personen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102729242144292864/img/cThA5vFfXXvKR2Sz.jpg" width="600" alt="Doppelbelichtung Silhouette Video-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11187)**
-
-**Autor:** [Viki](https://x.com/churvikv) | **Quelle:** [Link](https://x.com/churvikv/status/2102729372834639960) | **Veröffentlicht:** Sep 23, 2026
-
----
-### Romantische Küstenstadt-Liebesgeschichte Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Video-Prompt für Seedance 2.0, der eine romantische erste Begegnung zwischen einem koreanischen Mädchen und einem Jungen in einer Küstenstadt während der goldenen Stunde darstellt.
-
-#### 📝 Prompt
-
-```
-Ein schönes koreanisches Mädchen mit langen, glatten schwarzen Haaren geht während der goldenen Stunde durch eine friedliche koreanische Küstenstadt. Sie trägt einen stilvollen beigen Trenchcoat und eine Handtasche. Ein hübscher koreanischer Junge in einer dunklen Lederjacke steht nahe eines Bahnübergangs, als eine historische Straßenbahn vorbeifährt. Das Mädchen nähert sich ihm langsam entlang der Uferstraße, wobei das warme Sonnenlicht ihr Gesicht erleuchtet. Filmische Kamerabewegungen, natürliche Gehbewegungen, realistische Gesichtsausdrücke, sanfte Meeresbrise und detaillierte koreanische Straßenszenen. Erfassen Sie ihren ersten Blickkontakt mit einer sanften romantischen Atmosphäre, geringer Schärfentiefe, warmer Farbgebung und fotorealistischer Qualität. Erstellen Sie eine schöne 15-sekündige filmische Liebesgeschichte mit weichen Übergängen, natürlicher Beleuchtung und emotionaler Erzählweise.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102607613376811008/img/f7CrIsdVKZtqZhPE.jpg" width="600" alt="Romantische Küstenstadt-Liebesgeschichte Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11153)**
-
-**Autor:** [Ayat](https://x.com/aiwithaayat) | **Quelle:** [Link](https://x.com/aiwithaayat/status/2102607673501892691) | **Veröffentlicht:** Sep 23, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -6648,6 +6646,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-09T05:30:28.368Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-09T15:17:25.902Z</sub>
 
 </div>

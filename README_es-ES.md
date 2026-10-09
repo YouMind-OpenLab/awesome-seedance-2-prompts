@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6513** |
+| 📝 Total de prompts | **6515** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-10-09** |
 
@@ -361,6 +361,44 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Video de persecución en callejón nocturno estilo thriller
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para una escena de acción cinematográfica ultra realista que involucra una misteriosa persecución y pelea en un oscuro callejón urbano por la noche.
+
+#### 📝 Prompt
+
+```
+Escena de acción cinematográfica ultra realista en un oscuro callejón urbano por la noche. Una joven mujer misteriosa con cabello largo castaño, vestida con un elegante conjunto blanco, está rodeada por varios hombres vestidos de negro cerca de vehículos estacionados y camiones de reparto. Un apuesto joven con traje negro interviene para protegerla mientras se desarrolla una tensa pelea. La mujer corre por el callejón mientras los hombres luchan, creando una intensa atmósfera de thriller. Pavimento mojado reflejando cálidas luces ámbar de la calle, sombras dramáticas, expresiones faciales realistas, cabello al viento, poses de acción dinámicas, movimientos de cámara cinematográficos, profundidad de campo reducida, iluminación atmosférica, estética de película de acción de Hollywood, texturas de piel fotorrealistas, entorno ultra detallado, resolución 4K, cinematografía profesional, desenfoque de movimiento realista, composición vertical 9:16. Sin texto, sin marca de agua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108430636805681152/img/7krFjZDXQrgXEPm6.jpg" width="600" alt="Video de persecución en callejón nocturno estilo thriller">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12199)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2108430677226242083) | **Publicado:** Oct 9, 2026
+
+---
+### Video de guerrera fantástica contra dragones
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para un video de 10 segundos de una guerrera luchando contra dragones en un bosque brumoso, generado con Seedance 2.0 Mini.
+
+#### 📝 Prompt
+
+```
+Una joven adulta inglesa hermosa y fotorrealista, con cabello largo y castaño ondeante, viste un atuendo de guerrera fantástica rojo y negro mientras corre por un antiguo bosque brumoso. De repente, varios dragones enormes que escupen fuego aparecen detrás de ella y la atacan. Ella desenvaina instantáneamente su brillante espada de acero y lucha sin miedo a una velocidad increíble. Realiza saltos altos impresionantes, giros aéreos, estocadas de espada ultrarrápidas, volteretas ágiles y ataques poderosos en el aire. Esquiva las llamaradas de los dragones saltando hacia los lados y contraataca con movimientos de espada precisos y fluidos. Uno tras otro, los dragones son derrotados en batallas cinematográficas espectaculares. El último dragón se lanza sobre ella, y ella salta alto en el aire, asesta un golpe final decisivo y aterriza con gracia mientras el dragón cae al suelo detrás de ella. Su cabello y ropa se mueven naturalmente con cada acción. Anatomía humana ultra realista, expresiones faciales auténticas, física creíble, coreografía rápida y perfecta, escalas detalladas de los dragones, tomas de seguimiento cinematográficas, iluminación dramática, chispas voladoras, humo, fuego y efectos de sonido realistas. Escena fantástica original, realismo de película live-action, calidad 4K, sin estilo caricaturesco, sin personajes de apariencia artificial, sin sangre ni gore. Vertical 9:16, 10 segundos, acción continua, combate extremadamente rápido, apariencia consistente del personaje.
+```
+
+<img src="https://pbs.twimg.com/media/HUHo-GlagAAulBx.jpg" width="600" alt="Video de guerrera fantástica contra dragones">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12200)**
+
+**Autor:** [Rizi](https://x.com/Rizi_ru) | **Fuente:** [Link](https://x.com/Rizi_ru/status/2108222263267148241) | **Publicado:** Oct 8, 2026
+
+---
 ### Hombre en un cine
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6534,46 +6572,6 @@ IMPORTANTE: Sin poses exageradas, sin cámara lenta, sin efecto de filtro de bel
 **Autor:** [Caden Flux](https://x.com/Caden_Flux) | **Fuente:** [Link](https://x.com/Caden_Flux/status/2102920998165110878) | **Publicado:** Sep 24, 2026
 
 ---
-### Prompt de Video con Silueta en Doble Exposición
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt poético para un video cinematográfico que presenta siluetas en doble exposición rellenas de un paisaje marino, creado con Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Toma cinematográfica de 10 segundos, silueta en doble exposición de una pareja frente a frente, cuyas siluetas están rellenas por un vivo atardecer sobre el mar. El sol desciende lentamente hacia el horizonte, su luz dorada centellea y parpadea dentro de las siluetas translúcidas. Suaves olas del océano rompen en la playa arenosa en cámara lenta, reflejos cálidos danzan sobre el agua. Una bandada de gaviotas planea grácilmente por el cielo pastel rosa y azul, alejándose hacia la distancia. Hojas de arce otoñales sobre la arena tiemblan y se desplazan ligeramente con una brisa suave, una hoja se eleva y gira en el aire. En los últimos segundos, las dos siluetas se inclinan sutilmente una hacia la otra, casi tocando sus frentes. Lento y onírico acercamiento de cámara, paleta de colores pastel suave (durazno, lavanda, oro, azul mar), luz de contorno cálida, atmósfera romántica etérea, movimiento fluido y suave, sin cortes, sin texto.
-
-sin distorsión facial, sin artefactos de morfing, sin bordes de silueta parpadeantes, sin texto, sin marca de agua, sin movimientos rápidos, sin cambios de escena, sin personas adicionales
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102729242144292864/img/cThA5vFfXXvKR2Sz.jpg" width="600" alt="Prompt de Video con Silueta en Doble Exposición">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11187)**
-
-**Autor:** [Viki](https://x.com/churvikv) | **Fuente:** [Link](https://x.com/churvikv/status/2102729372834639960) | **Publicado:** Sep 23, 2026
-
----
-### Prompt de Historia de Amor en un Pueblo Costero Romántico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico para Seedance 2.0 que representa el primer encuentro romántico entre una chica y un chico coreanos en un pueblo costero durante la hora dorada.
-
-#### 📝 Prompt
-
-```
-Una hermosa chica coreana con cabello negro largo y liso camina por un tranquilo pueblo costero de Corea durante la hora dorada, vistiendo un elegante abrigo beige tipo gabardina y llevando un bolso de mano. Un apuesto chico coreano con chaqueta de cuero oscura está cerca de un paso a nivel mientras pasa un tranvía vintage. La chica se acerca lentamente hacia él a lo largo de la calle junto al mar, con la luz cálida del sol brillando en su rostro. Movimientos de cámara cinematográficos, movimiento natural al caminar, expresiones faciales realistas, brisa suave del océano y detalles del paisaje urbano coreano. Captura su primer contacto visual con una atmósfera romántica y delicada, profundidad de campo reducida, gradación de color cálida y calidad fotorrealista. Crea una hermosa historia de amor cinematográfica de 15 segundos con transiciones suaves, iluminación natural y narrativa emocional.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102607613376811008/img/f7CrIsdVKZtqZhPE.jpg" width="600" alt="Prompt de Historia de Amor en un Pueblo Costero Romántico">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11153)**
-
-**Autor:** [Ayat](https://x.com/aiwithaayat) | **Fuente:** [Link](https://x.com/aiwithaayat/status/2102607673501892691) | **Publicado:** Sep 23, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -6635,6 +6633,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-09T05:30:26.198Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-09T15:17:22.881Z</sub>
 
 </div>

@@ -68,7 +68,7 @@
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **6513** |
+| 📝 提示词总数 | **6515** |
 | ⭐ 精选提示词 | **6** |
 | 🔄 最后更新 | **2026-10-09** |
 
@@ -361,6 +361,44 @@
 
 > 📝 按发布日期排序（最新优先）
 
+### 夜巷惊悚追逐视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成超写实电影级动作场景的提示词，描绘了夜晚黑暗城市小巷中神秘的追逐与打斗。
+
+#### 📝 提示词
+
+```
+夜晚黑暗城市小巷中的超写实电影级动作场景：一位留着棕色长发、身着优雅白色服装的神秘年轻女子被几名身穿黑衣的男子包围，周围停着车辆和送货卡车。一名身穿黑色西装的英俊年轻男子挺身而出保护她，一场紧张的打斗随即展开。女子在小巷中奔跑，男子们则陷入缠斗，营造出强烈的惊悚氛围。湿润的路面反射着温暖的琥珀色路灯，戏剧性的阴影，逼真的面部表情，飘逸的发丝，动态的动作姿势，电影般的镜头运动，浅景深，情绪化照明，好莱坞动作片美学，照片级真实感的皮肤纹理，超精细的环境细节，4K 分辨率，专业摄影，真实的运动模糊，垂直 9:16 构图。无文字，无水印。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108430636805681152/img/7krFjZDXQrgXEPm6.jpg" width="600" alt="夜巷惊悚追逐视频">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=12199)**
+
+**作者:** [AIwithMinal](https://x.com/AIwithMinal) | **来源:** [Link](https://x.com/AIwithMinal/status/2108430677226242083) | **发布时间:** Oct 9, 2026
+
+---
+### 奇幻女战士大战巨龙视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用 Seedance 2.0 Mini 生成的 10 秒视频提示词，展示一名女战士在迷雾森林中与巨龙搏斗的场景。
+
+#### 📝 提示词
+
+```
+一位美丽、逼真的年轻成年白人女性，留着飘逸的棕色长发，身穿红黑相间的奇幻战士服装，在古老的迷雾森林中奔跑。突然，多条巨大的喷火巨龙从她身后出现并发起攻击。她瞬间拔出闪亮的钢剑，以惊人的速度无畏地战斗。她做出令人屏息的高跳、空中旋转、闪电般的剑击、敏捷的翻滚以及强有力的空中攻击。她通过侧身跳跃躲避龙息，并以精准流畅的剑法进行反击。一条条巨龙在壮观的电影级战斗中相继被击败。最后一条巨龙向她扑来，她高高跃起，给予致命一击，优雅落地，身后的巨龙随之倒下。她的头发和衣物随着每一个动作自然摆动。超写实的人体解剖结构，真实的面部表情，可信的物理效果，无缝衔接的快速打斗编排，细致的龙鳞纹理，电影级跟踪镜头，戏剧性灯光，飞溅的火花，烟雾，火焰，以及逼真的音效。原创奇幻场景，真人电影级写实风格，4K 画质，无卡通风格，无人工感角色，无血腥画面。竖屏 9:16，10 秒，连续动作，极速战斗，角色外观一致。
+```
+
+<img src="https://pbs.twimg.com/media/HUHo-GlagAAulBx.jpg" width="600" alt="奇幻女战士大战巨龙视频">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=12200)**
+
+**作者:** [Rizi](https://x.com/Rizi_ru) | **来源:** [Link](https://x.com/Rizi_ru/status/2108222263267148241) | **发布时间:** Oct 8, 2026
+
+---
 ### 电影院中的男子
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6508,46 +6546,6 @@ BUILT FOR THE ROAD.
 **作者:** [Caden Flux](https://x.com/Caden_Flux) | **来源:** [Link](https://x.com/Caden_Flux/status/2102920998165110878) | **发布时间:** Sep 24, 2026
 
 ---
-### 双重曝光剪影视频提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 使用 Seedance 2.0 创作的诗意电影感视频提示词，呈现充满海景的双重曝光剪影。
-
-#### 📝 提示词
-
-```
-电影感 10 秒镜头，一对情侣面对面的双重曝光剪影，其轮廓内填充着生动的日落海景。太阳缓缓向地平线落下，金色的光芒在半透明的剪影内部闪烁摇曳。温柔的海浪以柔和的慢动作拍打沙滩，温暖的倒影在水面上舞动。一群海鸥优雅地滑过粉蓝相间的天空，飞向远方。沙滩上的秋枫叶片在微风中轻轻颤动并微微飘移，一片叶子升起并在空中旋转。在最后几秒，两个剪影微妙地向彼此倾斜，额头几乎相触。缓慢梦幻的推镜头，柔和的马卡龙色调（桃色、薰衣草紫、金色、海蓝色），温暖的边缘光，空灵浪漫的氛围，平滑轻柔的运动，无剪辑，无文字。
-
-无人脸扭曲，无变形伪影，无剪影边缘闪烁，无文字，无水印，无快速运动，无场景切换，无多余人物
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102729242144292864/img/cThA5vFfXXvKR2Sz.jpg" width="600" alt="双重曝光剪影视频提示词">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=11187)**
-
-**作者:** [Viki](https://x.com/churvikv) | **来源:** [Link](https://x.com/churvikv/status/2102729372834639960) | **发布时间:** Sep 23, 2026
-
----
-### 浪漫海滨小镇爱情故事提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 适用于 Seedance 2.0 的电影感视频提示词，描绘了黄金时刻韩国海滨小镇中一对男女的浪漫初遇。
-
-#### 📝 提示词
-
-```
-一位美丽的韩国女孩留着黑色长直发，身穿时尚米色风衣，手提包袋，在黄金时刻漫步于宁静的韩国海滨小镇。一位帅气的韩国男孩身着深色皮夹克，站在铁路道口旁，一辆复古电车缓缓驶过。女孩沿着海边街道慢慢走向他，温暖的阳光洒在她的脸上。电影级镜头运动、自然的行走姿态、逼真的面部表情、柔和的海风以及细腻的韩国街景。捕捉他们初次眼神交汇的瞬间，营造温柔的浪漫氛围，采用浅景深、暖色调分级和照片级真实感画质。打造一段 15 秒的美丽电影式爱情故事，包含流畅转场、自然光影和情感叙事。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102607613376811008/img/f7CrIsdVKZtqZhPE.jpg" width="600" alt="浪漫海滨小镇爱情故事提示词">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=11153)**
-
-**作者:** [Ayat](https://x.com/aiwithaayat) | **来源:** [Link](https://x.com/aiwithaayat/status/2102607673501892691) | **发布时间:** Sep 23, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -6609,6 +6607,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-09T05:30:18.279Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-09T15:17:12.853Z</sub>
 
 </div>

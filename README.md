@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6513** |
+| 📝 Total Prompts | **6515** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-10-09** |
 
@@ -365,6 +365,44 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Night Alley Thriller Chase Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for an ultra-realistic cinematic action scene involving a mysterious chase and fight in a dark urban alley at night.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic action scene in a dark urban alley at night, a mysterious young woman with long brown hair wearing an elegant white outfit is surrounded by several men dressed in black near parked vehicles and delivery trucks. A handsome young man in a black suit steps in to protect her as a tense fight unfolds. The woman runs through the alley while the men struggle, creating an intense thriller atmosphere. Wet pavement reflecting warm amber streetlights, dramatic shadows, realistic facial expressions, flowing hair, dynamic action poses, cinematic camera movements, shallow depth of field, moody lighting, Hollywood action movie aesthetic, photorealistic skin textures, ultra-detailed environment, 4K resolution, professional cinematography, realistic motion blur, vertical 9:16 composition. No text, no watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108430636805681152/img/7krFjZDXQrgXEPm6.jpg" width="600" alt="Night Alley Thriller Chase Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12199)**
+
+**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2108430677226242083) | **Published:** Oct 9, 2026
+
+---
+### Fantasy Warrior vs Dragons Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a 10-second video of a female warrior fighting dragons in a misty forest, generated with Seedance 2.0 Mini.
+
+#### 📝 Prompt
+
+```
+A beautiful, photorealistic young adult English woman with long flowing brown hair, wearing a red-and-black fantasy warrior outfit, runs through an ancient misty forest. Suddenly, multiple enormous fire-breathing dragons emerge behind her and attack. She instantly draws her gleaming steel sword and fights fearlessly at incredible speed. She performs breathtaking high jumps, aerial spins, lightning-fast sword strikes, agile flips, and powerful midair attacks. She dodges streams of dragon fire by leaping sideways and counterattacks with precise, fluid sword movements. One by one, the dragons are defeated in spectacular cinematic battles. The final dragon lunges at her, and she jumps high into the air, delivers a decisive finishing strike, and lands gracefully as the dragon collapses behind her. Her hair and clothing move naturally with every action. Ultra-realistic human anatomy, authentic facial expressions, believable physics, seamless fast-paced choreography, detailed dragon scales, cinematic tracking shots, dramatic lighting, flying sparks, smoke, fire, and realistic sound effects. Original fantasy scene, live-action movie realism, 4K quality, no cartoon style, no artificial-looking characters, no blood or gore. Vertical 9:16, 10 seconds, continuous action, extremely fast combat, consistent character appearance.
+```
+
+<img src="https://pbs.twimg.com/media/HUHo-GlagAAulBx.jpg" width="600" alt="Fantasy Warrior vs Dragons Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12200)**
+
+**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2108222263267148241) | **Published:** Oct 8, 2026
+
+---
 ### Man in Movie Theater
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -384,11 +422,11 @@ Ultra-realistic cinematic scene of a young East Asian man sitting relaxed in a l
 **Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2108053559485104592) | **Published:** Oct 8, 2026
 
 ---
-### Luxury Beauty Commercial
+### Luxury Beauty Commercial Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for a 20-second ultra-realistic luxury beauty commercial featuring lip cream application and a model in a pink studio, designed for Seedance 2.0.
+> A prompt for creating a 20-second ultra-realistic luxury beauty commercial featuring glossy lips, coral aesthetics, and product application scenes.
 
 #### 📝 Prompt
 
@@ -396,7 +434,7 @@ Ultra-realistic cinematic scene of a young East Asian man sitting relaxed in a l
 Create a 20-second ultra-realistic luxury beauty commercial in vertical 9:16 format, featuring a glossy pink and coral aesthetic throughout. Start with a close-up of a Next Level lip cream standing on a reflective pink surface with a soft splash effect around the base, then smoothly transition into an extreme close-up of naturally textured glossy lips. Show the lips gently opening and moving naturally before introducing the lip cream applicator entering the frame and carefully applying the coral-pink product across the lips. Use detailed macro cinematography to capture realistic lip texture, creamy product shine, soft skin pores, and subtle highlights. Transition into a stylish full-body shot of a confident young East Asian woman wearing an elegant dusty-pink tailored pantsuit, walking slowly toward the camera in a modern pink studio. Keep her appearance natural, polished, and realistic with soft makeup and a subtle smile. Finish with a premium product hero shot showing multiple lip cream shades arranged on a glossy reflective surface, with dramatic coral-pink liquid splashes in the background. Use smooth camera movements, shallow depth of field, soft studio lighting, realistic reflections, cinematic focus pulls, high-end cosmetic advertisement quality, and seamless transitions.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108042715267244032/img/Xwh6OIik3Z_3OmKe.jpg" width="600" alt="Luxury Beauty Commercial">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108042715267244032/img/Xwh6OIik3Z_3OmKe.jpg" width="600" alt="Luxury Beauty Commercial Video Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12117)**
 
@@ -7171,46 +7209,6 @@ IMPORTANT: No exaggerated posing, no slow motion, no beauty-filter effect, no ou
 **Author:** [Caden Flux](https://x.com/Caden_Flux) | **Source:** [Link](https://x.com/Caden_Flux/status/2102920998165110878) | **Published:** Sep 24, 2026
 
 ---
-### Double Exposure Silhouette Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A poetic prompt for a cinematic video featuring double-exposure silhouettes filled with a seascape, created with Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Cinematic 10-second shot, double-exposure silhouette of a couple facing each other, their silhouettes filled with a living sunset seascape. The sun slowly descends toward the horizon, its golden light shimmering and flickering inside the translucent silhouettes. Gentle ocean waves roll onto the sandy beach in soft, slow motion, warm reflections dancing on the water. A flock of seagulls glides gracefully across the pastel pink-and-blue sky, flying away into the distance. Autumn maple leaves on the sand tremble and drift slightly in a light breeze, one leaf lifts and swirls into the air. In the final seconds the two silhouettes lean subtly toward each other, almost touching foreheads. Slow dreamy camera push-in, soft pastel color palette (peach, lavender, gold, sea-blue), warm rim light, ethereal romantic atmosphere, smooth gentle motion, no cuts, no text.
-
-no face distortion, no morphing artifacts, no flickering silhouette edges, no text, no watermark, no fast motion, no scene change, no extra people
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102729242144292864/img/cThA5vFfXXvKR2Sz.jpg" width="600" alt="Double Exposure Silhouette Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11187)**
-
-**Author:** [Viki](https://x.com/churvikv) | **Source:** [Link](https://x.com/churvikv/status/2102729372834639960) | **Published:** Sep 23, 2026
-
----
-### Korean Love Story Cinematic Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a romantic cinematic video featuring a couple meeting in a Korean coastal town during golden hour.
-
-#### 📝 Prompt
-
-```
-A beautiful Korean girl with long, straight black hair walks through a peaceful coastal Korean town during golden hour, wearing a stylish beige trench coat and carrying a handbag. A handsome Korean boy in a dark leather jacket stands near a railway crossing as a vintage tram passes by. The girl slowly approaches him along the seaside street, with warm sunlight glowing on her face. Cinematic camera movements, natural walking motion, realistic facial expressions, soft ocean breeze, and detailed Korean street scenery. Capture their first eye contact with a gentle romantic atmosphere, shallow depth of field, warm color grading, and photorealistic quality. Create a beautiful 15-second cinematic love story with smooth transitions, natural lighting, and emotional storytelling.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102607613376811008/img/f7CrIsdVKZtqZhPE.jpg" width="600" alt="Korean Love Story Cinematic Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11153)**
-
-**Author:** [Ayat](https://x.com/aiwithaayat) | **Source:** [Link](https://x.com/aiwithaayat/status/2102607673501892691) | **Published:** Sep 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -7272,6 +7270,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-09T05:30:16.844Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-09T15:17:11.566Z</sub>
 
 </div>
