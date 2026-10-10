@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6515** |
+| 📝 Total Prompts | **6521** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-10-10** |
 
@@ -365,11 +365,180 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Night Alley Thriller Chase Video
+### Kid Animation Cloud Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for an ultra-realistic cinematic action scene involving a mysterious chase and fight in a dark urban alley at night.
+> A prompt for generating a short animation of a child playing with a cloud, comparing results from Seedance 2.0 and Muse Spark 1.3.
+
+#### 📝 Prompt
+
+```
+Scene 1 (0-5 seconds)
+Visual: A small child stands in a green field, looking up at a bright blue sky. A tiny, fluffy white cloud floats down right in front of them.
+Narration/Text: "Hello, little cloud!"
+Sound: Gentle wind chimes and a happy giggle.
+
+Scene 2 (6-10 seconds)
+Visual: The cloud shapes itself into a soft, bouncy cushion. The child jumps onto the cloud, and it slowly lifts them slightly off the ground.
+Narration/Text: "Let's play together!"
+Sound: Soft bouncing sounds and cheerful music.
+
+Scene 3 (11-15 seconds)
+Visual: The cloud gently places the child back on the grass, sprinkles a few tiny, sparkling raindrops, and leaves a beautiful mini rainbow as it waves goodbye.
+Narration/Text: "See you tomorrow, my fluffy friend."
+Sound: A magical twinkling sound fading out.
+
+Style: premium Pixar-inspired 3D animation, adorable character designs, expressive faces, realistic water physics, lush tropical vegetation, cinematic camera movements, vibrant colors, soft natural sunlight, detailed textures, smooth character animation, wide cinematic shots mixed with close-ups, seamless scene transitions, 16:9 aspect ratio, 4K quality. Keep the boy and cloud visually consistent throughout. No text, no subtitles, no watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108653898302926848/img/Td-PgupWPBozkfAq.jpg" width="600" alt="Kid Animation Cloud Scene">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12238)**
+
+**Author:** [Neo-phyte](https://x.com/Deadmeatz) | **Source:** [Link](https://x.com/Deadmeatz/status/2108654687151145239) | **Published:** Oct 9, 2026
+
+---
+### Coconut Floor Terrazzo Transformation Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal hyper-realistic video prompt for Seedance 2.0 showing a time-lapse construction process where coconuts are raked, covered in milk, and polished into a glossy terrazzo floor.
+
+#### 📝 Prompt
+
+```
+Vertical 9:16 surreal hyper-realistic video, fixed frontal wide shot, one continuous scene in an empty room with white walls, concrete floor and a large window showing tropical palm trees outside, natural daylight.
+
+Shot 1: A muscular man in blue denim overalls rakes a huge pile of hairy brown coconuts, spreading them evenly in one dense layer across the entire floor, coconuts rolling and shifting with realistic physics.
+
+Shot 2: A woman in red overalls pours thick creamy white coconut milk from a giant bucket onto the coconut-covered floor; the white liquid flows, spreads and slowly covers the coconuts like resin.
+
+Shot 3: A worker in a yellow high-visibility vest polishes the hardened surface with a floor grinding machine; the glossy white terrazzo floor is revealed with coconut cross-sections embedded inside, like polished stone.
+
+Shot 4: Two movers in black uniforms carry in a wooden bed frame, set down a white mattress, and neatly make the bed with white sheets and pillows.
+
+Final shot: bright minimalist bedroom, mirror-glossy white terrazzo floor patterned with coconut slices reflecting the window light. Cinematic lighting, photorealistic detail, smooth timelapse-style transitions between stages, satisfying ASMR construction process, no text.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108559194227965953/img/NioKBNgsFTbCTl_S.jpg" width="600" alt="Coconut Floor Terrazzo Transformation Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12236)**
+
+**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2108559226452750458) | **Published:** Oct 9, 2026
+
+---
+### Baby Dragon and Woman in Stone Courtyard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for a 25-second fantasy video featuring a woman interacting with a tiny baby dragon in a rustic stone courtyard. Includes specific instructions for cloth physics, character consistency, and emotional storytelling, optimized for Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Create a 25-second cinematic, ultra-realistic fantasy video featuring a beautiful young adult woman with long, dark brown hair, wearing an elegant cream-colored medieval dress and a dark brown shawl. She is standing in a rustic stone courtyard beside an old stone cottage in a peaceful countryside village. The surroundings feature weathered stone walls, wooden windows, a muddy stone pathway, snow-covered evergreen trees, and misty mountains in the distance under a soft, overcast sky. A tiny, adorable baby dragon with pale pinkish-white skin, enormous glossy eyes, tiny horns, delicate ears, small feet, a slender tail, and translucent pink wings is standing near her feet. Begin with a natural cinematic wide shot showing the woman hanging a large cream-colored linen cloth on a traditional wooden clothesline. A gentle breeze moves her long hair and the fabric naturally. She suddenly notices the tiny dragon beside her and looks down at it with a curious, surprised, and affectionate expression. The camera slowly moves closer as the baby dragon looks up at her, blinks its enormous eyes, and gently spreads its delicate pink wings. Show the intricate transparent wing membranes, realistic skin texture, tiny claws, and subtle body movements in beautiful detail. The woman bends down toward the little creature with a warm smile, watching it curiously as it flutters its wings and takes a few tiny steps across the stone courtyard. Suddenly, a gust of wind catches the loose linen cloth hanging above them, causing it to slip off the clothesline and fall gently over the baby dragon. The tiny creature becomes completely covered by the oversized cream-colored fabric, creating a funny, moving shape as it tries to walk forward. The woman reacts with playful surprise and quickly kneels down to help it. The cloth moves naturally around the dragon's tiny body as it waddles across the ground, its little feet visible beneath the fabric. The woman carefully lifts the cloth away from its face, revealing the adorable dragon blinking in confusion and looking directly at her. She gently holds the tiny creature with both hands and brings it closer to her face. The dragon folds its translucent pink wings against its body, tilts its head, and softly touches its nose against her cheek. The woman smiles affectionately, looking into its enormous glossy eyes while gently stroking its little head. End with a beautiful close-up of the woman and the baby dragon sharing a heartwarming moment in the peaceful stone courtyard, with the cottage and misty countryside softly blurred in the background. Maintain consistent facial features, hairstyle, clothing, creature design, proportions, and colors throughout the entire video. Use natural body movements, realistic cloth physics, detailed textures, soft diffused daylight, cinematic depth.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108503353022193665/img/rNaXyfICWppbQJGj.jpg" width="600" alt="Baby Dragon and Woman in Stone Courtyard">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12239)**
+
+**Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2108503425277391053) | **Published:** Oct 9, 2026
+
+---
+### Spider-Man Dad Baby Heartwarming Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a 20-second 3D animated family scene featuring a father in a Spider-Man inspired sweater and his baby daughter, ending with an emotional hug. Created with Seedance 2.0 mini.
+
+#### 📝 Prompt
+
+```
+Create a heartwarming cinematic 20-second 3D animated family scene in a cozy home office during a warm evening.
+
+A young father with curly brown hair, expressive eyebrows, and a red-and-blue Spider-Man inspired sweater sits at a wooden desk working on a laptop. Beside him is his adorable little baby girl wearing a beige knitted outfit and a cute bear-ear winter hat.
+
+The baby watches her father closely while he works. The father occasionally looks at her with a tired but loving expression, drinks from a white coffee mug, and continues typing on his laptop. The baby sits beside him in a small high chair, curiously observing everything.
+
+Show the father becoming distracted when the baby interacts with a small red toy car and a plate of food on the desk. Include natural facial expressions, subtle eye movements, gentle hand gestures, and realistic parent-child interaction.
+
+Later, the baby proudly shows her father a handmade drawing of the two of them together with a heart. The father's expression changes from tired and stressed to emotional, surprised, and deeply touched.
+
+End with the father smiling warmly, turning toward his daughter, embracing her lovingly, and giving her a gentle hug.
+
+Style: high-quality cinematic 3D animation, Pixar-inspired family-film aesthetic, soft warm indoor lighting, detailed expressive faces, realistic fabric and hair textures, cozy atmosphere, shallow depth of field, smooth character animation, natural camera movement, emotional storytelling.
+
+Vertical 9:16 composition, cinematic framing, consistent character appearance throughout, smooth transitions, detailed environment, wholesome emotional ending.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108494585232285696/img/oWcQX4Xg4aDqpY61.jpg" width="600" alt="Spider-Man Dad Baby Heartwarming Animation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12241)**
+
+**Author:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2108495280912134418) | **Published:** Oct 9, 2026
+
+---
+### Tactical Woman Crowd Fight Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed prompt for generating a 10-second ultra-photorealistic cinematic action video of a tactical woman fighting off a crowd in the rain, specifically noting generation by Gemini 3.5 and Seedance 2.0 mini.
+
+#### 📝 Prompt
+
+```
+Generate a 10-second ultra-photorealistic cinematic action video in vertical 9:16 format, resembling real live-action footage shot on a professional cinema camera.
+
+SCENE: A powerful adult woman in practical black tactical clothing is trapped in a rain-soaked modern city street at dusk. A large crowd of adult attackers rushes toward her from multiple directions. She remains calm, intelligent, fearless, and highly agile.
+
+0–3 seconds: Wide establishing shot. The crowd charges toward her through light rain. She studies their movements, takes a defensive stance, and dodges the first attacker with realistic timing.
+
+3–7 seconds: Smooth handheld tracking shot. She performs believable martial arts movements, blocks attacks, sidesteps opponents, and uses controlled non-graphic takedowns. Every movement has realistic human weight, accurate body mechanics, natural foot contact, and consistent anatomy. The crowd moves independently, with no duplicated bodies or synchronized robotic movements.
+
+7–10 seconds: She breaks through the crowd and reaches a brightly illuminated building entrance. The remaining attackers stop behind her. She turns toward the camera, breathes naturally, and raises one hand in a confident victory gesture. End on a sharp, powerful cinematic close-up.
+
+VISUAL QUALITY: Photorealistic human faces, natural skin pores, realistic wet fabric, detailed eyes, physically accurate rain and reflections, balanced HDR lighting, sharp focus, natural motion blur, cinematic contrast, realistic depth of field, 4K-style detail, stable character identity, smooth continuous motion, professional action-film cinematography.
+
+AUDIO: Generate original synchronized environmental audio: natural footsteps on wet pavement, realistic rain, clothing movement, subtle breathing, believable impacts, and distant crowd shouts. Include one original female dialogue line, spoken clearly and confidently: “You can stop me, but you can never break me!” Accurate lip synchronization, natural human voice, clean dialogue, balanced sound levels, no clipping, no artificial robotic voice, no background music overpowering the action.
+
+STRICT NEGATIVE CONSTRAINTS: No animation, no cartoon appearance, no CGI-looking skin, no extra fingers, no deformed limbs, no floating bodies, no unnatural fighting, no teleportation, no flickering, no jitter, no excessive camera shake, no visual noise, no compression artifacts, no distorted faces, no subtitles, no text, no logos, no watermark, no gore.
+
+Deliver a coherent 10-second live-action-style video with clean visuals, realistic movement, original synchronized audio, and premium cinematic quality.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108484389932023808/img/QLeLb3Uapw5u0vrf.jpg" width="600" alt="Tactical Woman Crowd Fight Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12240)**
+
+**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2108484437973377242) | **Published:** Oct 9, 2026
+
+---
+### Fruit Market Police Chase Action Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a cinematic action sequence involving a man running through a European city street, crashing into a fruit market with oranges flying in slow motion, and being chased by police. Designed for Seedance 2.0 to test realistic physics and camera movement.
+
+#### 📝 Prompt
+
+```
+A cinematic action sequence set on a busy European city street. A young man in a black jacket runs desperately through a crowded street while police officers chase him. He crashes into a colorful fruit market, sending oranges flying everywhere in dramatic slow motion. He stumbles, falls to the pavement, quickly gets back up, and continues running as police close in behind him. Realistic human movement, dynamic tracking shots, handheld camera feel, natural overcast lighting, detailed urban environment, cinematic color grading, realistic physics, intense action movie atmosphere, 4K quality, no text, no watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108437782851211264/img/_ifDleSe0dTsFDc0.jpg" width="600" alt="Fruit Market Police Chase Action Sequence">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12237)**
+
+**Author:** [Zarnish](https://x.com/ZarnishNael) | **Source:** [Link](https://x.com/ZarnishNael/status/2108437844004143142) | **Published:** Oct 9, 2026
+
+---
+### Night Alley Thriller Fight Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for an ultra-realistic cinematic action scene in a dark urban alley at night, featuring a fight between a mysterious woman and men in black, protected by a man in a suit. Focuses on moody lighting and thriller atmosphere for Seedance 2.0.
 
 #### 📝 Prompt
 
@@ -377,7 +546,7 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 Ultra-realistic cinematic action scene in a dark urban alley at night, a mysterious young woman with long brown hair wearing an elegant white outfit is surrounded by several men dressed in black near parked vehicles and delivery trucks. A handsome young man in a black suit steps in to protect her as a tense fight unfolds. The woman runs through the alley while the men struggle, creating an intense thriller atmosphere. Wet pavement reflecting warm amber streetlights, dramatic shadows, realistic facial expressions, flowing hair, dynamic action poses, cinematic camera movements, shallow depth of field, moody lighting, Hollywood action movie aesthetic, photorealistic skin textures, ultra-detailed environment, 4K resolution, professional cinematography, realistic motion blur, vertical 9:16 composition. No text, no watermark.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108430636805681152/img/7krFjZDXQrgXEPm6.jpg" width="600" alt="Night Alley Thriller Chase Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108430636805681152/img/7krFjZDXQrgXEPm6.jpg" width="600" alt="Night Alley Thriller Fight Scene">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12199)**
 
@@ -6983,232 +7152,6 @@ Create a highly realistic cinematic winter video of a peaceful woman staying in 
 **Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2103359307874226667) | **Published:** Sep 25, 2026
 
 ---
-### Arctic Winter Adventure Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for creating a 15-second cinematic winter adventure video featuring a Korean woman walking through snowy mountains and interacting with nature.
-
-#### 📝 Prompt
-
-```
-Create a 15-second ultra-realistic cinematic winter adventure video set in a breathtaking Arctic-style snowy mountain landscape.
-A beautiful young adult Korean woman, around 20–25 years old, with natural Korean facial features, fair skin, soft expressive dark-brown eyes, long straight dark hair, subtle natural makeup, and a gentle realistic expression. Keep her face, hairstyle, body proportions, clothing, and overall identity perfectly consistent throughout the entire video.She wears a premium white and cream winter outfit: a warm cream-colored padded winter jacket with a fluffy hood, beige knitted beanie, soft cream scarf, winter gloves, dark winter pants, snow boots, and a small dark backpack. Her clothing should move naturally with the cold mountain wind.A vast Arctic-inspired snowy mountain valley with enormous snow-covered peaks, frozen turquoise-blue lakes, untouched snow fields, icy rocks, pine trees covered in snow, distant glaciers, and light snowfall. The environment should look photorealistic and majestic, like a high-budget cinematic travel film.
-Soft natural winter sunlight, cool blue-white snow tones, subtle golden sunlight touching the mountain peaks, realistic atmospheric haze, volumetric light, natural shadows, realistic reflections on the frozen lake, and detailed snow texture.
-High-end cinematic camera, realistic depth of field, natural lens characteristics, smooth controlled camera movement, subtle handheld realism, cinematic composition, realistic motion blur, detailed skin texture, realistic hair movement, realistic snow particles. No artificial CGI appearance.
-Start with an epic wide establishing shot of a huge snow-covered Arctic mountain range and a frozen turquoise lake. The young Korean woman stands small in the foreground with her back toward the camera, looking at the mountains. Snowflakes gently fall around her. The camera slowly pushes forward toward her.Transition into a smooth medium tracking shot as she begins walking across a snowy path beside the frozen lake. Her boots leave realistic footprints in the fresh snow. Her long dark hair and scarf gently move in the cold wind. The camera follows her from behind and slightly to the side.
-Cut to an intimate cinematic close-up of her face. She slowly turns toward the camera and gives a subtle natural smile. Tiny snowflakes land on her hair and eyelashes. Her breath becomes visible in the freezing air. Capture realistic skin texture, natural eye movement, soft expression, and shallow depth of field.
-Move to a beautiful side-profile shot. She stops near the edge of the frozen lake and looks toward the enormous snowy mountains. The camera slowly circles around her while sunlight creates a soft rim light around her hair. Snow particles float naturally through the frame.F
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103346104557522944/img/AaBPCXKEhfGCn6BN.jpg" width="600" alt="Arctic Winter Adventure Vlog">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11232)**
-
-**Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2103346184081605052) | **Published:** Sep 25, 2026
-
----
-### Crow and Cat Hug Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for creating a funny and heartwarming handheld phone video of a crow hugging a cat in an apartment hallway.
-
-#### 📝 Prompt
-
-```
-Create a realistic, funny, heartwarming handheld phone video of a real-looking black crow and a realistic fluffy gray cat inside a simple apartment hallway.
-
-The gray cat wears a small pink bow attached naturally to the top of her head. The bow stays securely in place throughout the entire video.
-
-0–3 sec:
-The crow stands in the middle of the hallway, looking around naturally. The gray cat appears in the distance and notices the crow. She immediately runs toward him with excited, playful energy.
-
-3–6 sec:
-The cat reaches the crow. The crow turns toward her and gently spreads both wings around the cat, creating the appearance of a sweet little hug. The cat leans into the crow affectionately. Their interaction should feel spontaneous and physically believable.
-
-6–10 sec:
-After the hug, the crow starts walking forward down the hallway while the gray cat walks closely beside him. They move together like an unlikely little pair of friends. The crow occasionally looks toward the cat while walking.
-
-10–12 sec:
-The cat briefly looks up at the crow, then they continue walking away together.
-
-Visual style
-
-Extremely realistic animals
-
-Real crow anatomy, feathers, feet and beak
-
-Realistic fluffy gray cat fur and natural movement
-
-Small pink bow on the cat's head
-
-Ordinary apartment hallway
-
-Handheld smartphone camera
-
-Slight camera shake and imperfect framing
-
-Natural indoor lighting
-
-Slightly compressed, 144p/low-quality viral social-media video aesthetic
-
-Mild motion blur and phone-camera autofocus
-
-No cinematic color grading
-
-No CGI appearance
-
-No cartoon look
-
-No exaggerated facial expressions
-
-No human hands
-
-Keep the animals anatomically realistic while making the hug physically believable
-
-Spontaneous, funny, wholesome internet-video feeling
-
-Single continuous shot, no cuts or transitions
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103054180785217536/img/tvcRUMhxysJaCxdS.jpg" width="600" alt="Crow and Cat Hug Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11231)**
-
-**Author:** [Soulful Ai](https://x.com/soulful__ai) | **Source:** [Link](https://x.com/soulful__ai/status/2103056454395855115) | **Published:** Sep 24, 2026
-
----
-### High School Superhero Slap Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a cinematic live-action video of a high school confrontation where a girl reveals superpowers after being slapped.
-
-#### 📝 Prompt
-
-```
-Cinematic 16:9 live-action, 24 sec, realistic high school hallway, bright fluorescent lighting, shiny floor, grey lockers, shallow depth of field. Characters: Girl A: long wavy brown hair, blue plaid shirt over white tank top, jeans. Girl B: short dark bob, navy-and-cream letterman jacket with red "R".
-
-Scene 1 (0-2s): Wide shot. Girl A stands against lockers, Girl B faces her, confronting her. Students walk in the background.
-
-Scene 2 (2-4s): Close-up of Girl A, nervous and calm, Girl B's head blurred in the foreground. Cut to Girl B's close-up, smirking.
-
-Scene 3 (4-7s): Medium two-shot over Girl B's shoulder. Girl A looks tense and stares back.
-
-Scene 4 (7-8s): Girl B slaps Girl A. Girl A's head whips sideways, hair flying, and her eyes flash glowing white.
-
-Scene 5 (8-9s): Wide handheld shot. Girl A, eyes glowing, thrusts her arm out, blue-white electric energy crackles along her arm. Students in the hallway watch in shock.
-
-Scene 6 (10-15s): Close-up. Girl A's face, glowing white eyes, angry and shaken. Her glowing hand rises toward the camera, energy sparking around her fingers.
-
-Scene 7 (16-19s): Wide long hallway shot. Two jocks in varsity jackets rush at Girl A. She unleashes streaks of white energy that hurl them backward through the air.
-
-Scene 8 (20-24s): Front-facing tracking shot. Girl A walks down the empty hallway toward the camera, glowing energy on her arms and eyes. The glow fades, her eyes turn normal, and she looks breathless and shocked.
-
-Style: realistic teen superhero drama, natural skin texture, motion blur on energy effects, smooth camera moves, cool blue-white glow, no text or subtitles.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102993862717550593/img/rSpxmx_tj3MnvVAC.jpg" width="600" alt="High School Superhero Slap Scene">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11199)**
-
-**Author:** [Sᴀɪʀᴀ](https://x.com/itsSaira_1) | **Source:** [Link](https://x.com/itsSaira_1/status/2102994561144434785) | **Published:** Sep 24, 2026
-
----
-### Lip Gloss Beauty Product Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for creating a realistic vertical beauty product video featuring lip gloss application and lifestyle shots.
-
-#### 📝 Prompt
-
-```
-Create a realistic 10-second vertical beauty product video showing hands opening a small elegant cardboard package containing a premium pink lip gloss. The hands carefully remove the gloss from the box and reveal its sleek reflective silver cap and transparent pink body. The applicator is taken out smoothly and the glossy pink product is swatched on the back of the hand, showing its creamy, shiny texture. Then transition to a close-up of a woman naturally applying the gloss to her lips with precise, gentle movements and realistic skin texture. Finish with the lip gloss standing beautifully on a wooden café table beside two cups of latte with artistic foam, creating a warm lifestyle beauty-ad atmosphere. Use soft natural lighting, realistic shadows, shallow depth of field, smooth handheld camera movement, premium commercial quality, natural skin texture, accurate product details, and seamless transitions.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102952041752715264/img/Y_s6Ma6KLmmT8sp6.jpg" width="600" alt="Lip Gloss Beauty Product Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11186)**
-
-**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2102952087823044888) | **Published:** Sep 24, 2026
-
----
-### European City Travel Vlog Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a 15-second cinematic travel vlog following a blonde woman through a European city, ending with a sunset view.
-
-#### 📝 Prompt
-
-```
-Create a 15-second cinematic travel vlog following the same young blonde woman throughout an evening exploring a beautiful European city. Keep her face, hairstyle, white oversized shirt, blue jeans, body proportions, and overall appearance consistent across every shot.
-Start with a handheld wide-angle selfie shot as she walks through a busy historic city square during golden hour, smiling naturally at the camera. Tourists move around her while warm sunlight falls across the surrounding European architecture.
-Seamlessly transition into a lively narrow pedestrian street lined with colorful historic buildings, outdoor cafés, local shops, hanging lights, and an old church tower visible in the distance. She continues exploring while the camera follows with natural handheld travel-vlog movement.
-Transition to a colorful local souvenir shop filled with handmade ceramics, decorative plates, artwork, textiles, and traditional crafts. Show her stopping outside the shop and looking toward the camera as warm interior light and colorful products fill the background.
-Cut to a cozy outdoor café. She sits at a small table, lifts a white coffee cup toward the camera, smiles naturally, and takes a sip while people move subtly in the background.
-For the final sequence, transition to a panoramic hilltop viewpoint overlooking the city at sunset. Begin with her facing the camera as the orange sun glows behind her. A gentle breeze moves her hair and loose shirt.
-She closes her eyes briefly, opens her arms, then turns away from the camera and slowly walks toward the viewpoint. As she walks away, smoothly pull the camera backward into a wide cinematic shot, gradually revealing the enormous cityscape and glowing sunset.
-End with her standing alone facing the city, framed against the warm orange sky.
-Photorealistic, premium travel-film aesthetic, authentic handheld vlog footage mixed with cinematic wide shots, seamless transitions, consistent character identity and clothing, realistic expressions and body movement, warm golden-hour lighting, natural skin texture, subtle lens flare, gentle wind, shallow depth of field, detailed architecture, vibrant but realistic colors.
-Audio: natural street ambience, footsteps, distant crowds, subtle café sounds, and uplifting travel music that becomes more emotional during the sunset ending.
-No dialogue, no narration, no subtitles, no text overlays. Vertical 9:16. Duration: 15 seconds.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102950263774732288/img/Cm4e8iDwlbESrsMK.jpg" width="600" alt="European City Travel Vlog Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11188)**
-
-**Author:** [Ejaz Bashir](https://x.com/Ejaz_bashir1) | **Source:** [Link](https://x.com/Ejaz_bashir1/status/2102950419601543250) | **Published:** Sep 24, 2026
-
----
-### Coffee Run Fashion Film Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for creating a 15-second photorealistic lifestyle fashion film featuring a coffee shop scene, specifically optimized for Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-FORMAT: 16:9 landscape, 15 seconds, photorealistic live-action, cinematic lifestyle fashion film.
-
-CHARACTER CONSISTENCY:
-Use the uploaded character sheet as the master character reference. Keep the girl’s face, facial proportions, long wavy brown hair, hairstyle, hair clip, gold earrings, body proportions, burgundy pinstriped fitted shirt, wide-leg dark denim, and white sneakers exactly consistent throughout every shot. Do not change her outfit, hairstyle, age, or appearance.
-SHOT 1 — 0:00–0:05
-
-A cozy rustic café in warm afternoon sunlight. The girl enters naturally carrying a small shoulder bag. Camera follows her from behind at waist height as her long wavy brown hair moves gently while she walks. She approaches a small wooden table near a sunlit window.
-
-Camera: smooth handheld tracking shot, natural movement, shallow depth of field.
-
-SHOT 2 — 0:05–0:10
-
-She sits comfortably, crosses one leg over the other, picks up a simple white ceramic coffee cup, and takes a relaxed sip. Cut to intimate close-ups of her gold earrings, fingers around the cup, burgundy striped shirt, and flowing hair.
-
-Camera: subtle push-in, realistic handheld micro-movement, warm sunlight across her face and hair.
-
-SHOT 3 — 0:10–0:15
-
-Side-profile shot as she looks peacefully toward the café window. She notices something outside, gives a tiny natural smile, then stands and walks toward the door. Final shot follows her from behind as she exits into warm daylight, her hair moving naturally.
-
-VISUAL STYLE
-
-Soft feminine lifestyle aesthetic, cozy European café atmosphere, warm beige and brown surroundings, natural sunlight, realistic skin texture, detailed hair strands, subtle film grain, authentic candid expressions, understated fashion editorial feeling.
-
-IMPORTANT: No exaggerated posing, no slow motion, no beauty-filter effect, no outfit changes, no face changes, no additional accessories, no cartoon/CGI appearance. Keep the performance natural and effortless.
-
-16:9 LANDSCAPE • 15 SECONDS • PHOTOREALISTIC • CINEMATIC • NATURAL CAMERA MOVEMENT
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102920902602051584/img/iqI05E_HaYidE4pV.jpg" width="600" alt="Coffee Run Fashion Film Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11185)**
-
-**Author:** [Caden Flux](https://x.com/Caden_Flux) | **Source:** [Link](https://x.com/Caden_Flux/status/2102920998165110878) | **Published:** Sep 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -7270,6 +7213,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-10T04:49:48.811Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-10T14:34:59.392Z</sub>
 
 </div>

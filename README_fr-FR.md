@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6515** |
+| 📝 Total des prompts | **6521** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-10-10** |
 
@@ -361,6 +361,175 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Scène d'animation pour enfants : Nuage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une courte animation d'un enfant jouant avec un nuage, en comparant les résultats de Seedance 2.0 et Muse Spark 1.3.
+
+#### 📝 Prompt
+
+```
+Scène 1 (0-5 secondes)
+Visuel : Un petit enfant se tient dans un champ verdoyant, regardant vers un ciel bleu vif. Un petit nuage blanc duveteux descend juste devant lui.
+Narration/Texte : "Bonjour, petit nuage !"
+Son : Carillons doux et un rire joyeux.
+
+Scène 2 (6-10 secondes)
+Visuel : Le nuage prend la forme d'un coussin moelleux et rebondissant. L'enfant saute sur le nuage, qui le soulève lentement légèrement au-dessus du sol.
+Narration/Texte : "Jouons ensemble !"
+Son : Sons de rebonds doux et musique entraînante.
+
+Scène 3 (11-15 secondes)
+Visuel : Le nuage dépose délicatement l'enfant sur l'herbe, fait pleuvoir quelques minuscules gouttes scintillantes, puis laisse un beau mini-arc-en-ciel avant de dire au revoir.
+Narration/Texte : "À demain, mon ami tout doux."
+Son : Un son magique et cristallin qui s'estompe progressivement.
+
+Style : Animation 3D haut de gamme inspirée de Pixar, designs de personnages adorables, expressions faciales expressives, physique réaliste de l'eau, végétation tropicale luxuriante, mouvements de caméra cinématographiques, couleurs vibrantes, lumière naturelle douce, textures détaillées, animation fluide des personnages, plans larges cinématographiques alternés avec gros plans, transitions fluides entre les scènes, format 16:9, qualité 4K. Maintenir une cohérence visuelle du garçon et du nuage tout au long de la vidéo. Pas de texte, pas de sous-titres, pas de filigrane.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108653898302926848/img/Td-PgupWPBozkfAq.jpg" width="600" alt="Scène d'animation pour enfants : Nuage">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12238)**
+
+**Auteur:** [Neo-phyte](https://x.com/Deadmeatz) | **Source:** [Link](https://x.com/Deadmeatz/status/2108654687151145239) | **Publié:** Oct 9, 2026
+
+---
+### Vidéo de transformation d'un sol en terrazzo à base de noix de coco
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo surréaliste et hyper-réaliste pour Seedance 2.0 montrant un processus de construction en time-lapse où des noix de coco sont étalées, recouvertes de lait de coco puis polies pour former un sol en terrazzo brillant.
+
+#### 📝 Prompt
+
+```
+Vidéo verticale au format 9:16, style surréaliste et hyper-réaliste, plan large frontal fixe, scène unique dans une pièce vide aux murs blancs, sol en béton et grande fenêtre laissant voir des palmiers tropicaux à l'extérieur, lumière naturelle du jour.
+
+Plan 1 : Un homme musclé portant une salopette en denim bleu ratisse une énorme pile de noix de coco brunes et velues, les répartissant uniformément en une couche dense sur tout le sol ; les noix de coco roulent et se déplacent avec une physique réaliste.
+
+Plan 2 : Une femme en salopette rouge verse du lait de coco blanc épais et crémeux depuis un seau géant sur le sol recouvert de noix de coco ; le liquide blanc s'écoule, s'étale et recouvre lentement les noix de coco comme de la résine.
+
+Plan 3 : Un ouvrier portant un gilet de sécurité jaune haute visibilité polit la surface durcie à l'aide d'une machine à poncer les sols ; un sol en terrazzo blanc brillant est révélé, avec des sections transversales de noix de coco incrustées, ressemblant à de la pierre polie.
+
+Plan 4 : Deux déménageurs en uniforme noir apportent un cadre de lit en bois, posent un matelas blanc et font le lit avec soin à l'aide de draps et d'oreillers blancs.
+
+Plan final : Chambre lumineuse et minimaliste, sol en terrazzo blanc miroitant, orné de motifs de tranches de noix de coco reflétant la lumière de la fenêtre. Éclairage cinématographique, détails photoréalistes, transitions fluides de type time-lapse entre les étapes, processus de construction satisfaisant façon ASMR, sans texte.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108559194227965953/img/NioKBNgsFTbCTl_S.jpg" width="600" alt="Vidéo de transformation d'un sol en terrazzo à base de noix de coco">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12236)**
+
+**Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2108559226452750458) | **Publié:** Oct 9, 2026
+
+---
+### Bébé Dragon et Femme dans une Cour en Pierre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour une vidéo fantastique de 25 secondes mettant en scène une femme interagissant avec un minuscule bébé dragon dans une cour en pierre rustique. Il comprend des instructions spécifiques pour la physique des tissus, la cohérence des personnages et le récit émotionnel, optimisé pour Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo cinématographique ultra-réaliste de 25 secondes dans un univers fantastique, mettant en scène une belle jeune femme aux longs cheveux brun foncé, vêtue d'une élégante robe médiévale crème et d'un châle brun foncé. Elle se tient dans une cour en pierre rustique à côté d'une vieille maisonnette en pierre, dans un village paisible de campagne. Les environs présentent des murs en pierre usés par le temps, des fenêtres en bois, un sentier en pierre boueux, des sapins enneigés et des montagnes brumeuses au loin sous un ciel doux et couvert. Un minuscule et adorable bébé dragon, à la peau rose-blanc pâle, aux yeux immenses et brillants, aux petites cornes, aux oreilles délicates, aux petits pieds, à la queue fine et aux ailes roses translucides, se tient près de ses pieds. Commencez par un plan large cinématographique naturel montrant la femme accrochant un grand drap en lin crème sur une corde à linge traditionnelle en bois. Une brise légère fait onduler naturellement ses longs cheveux et le tissu. Elle remarque soudainement le petit dragon à ses côtés et le regarde avec une expression curieuse, surprise et affectueuse. La caméra s'approche lentement tandis que le bébé dragon la regarde, cligne de ses grands yeux et déploie doucement ses délicates ailes roses. Montrez les membranes ailées transparentes complexes, la texture réaliste de la peau, les petites griffes et les mouvements subtils du corps avec de beaux détails. La femme se penche vers la petite créature avec un sourire chaleureux, l'observant curieusement alors qu'elle agite ses ailes et fait quelques petits pas dans la cour en pierre. Soudain, une rafale de vent attrape le drap en lin lâche suspendu au-dessus d'eux, le faisant glisser de la corde à linge et tomber doucement sur le bébé dragon. La petite créature est entièrement recouverte par le tissu crème surdimensionné, créant une forme drôle et émouvante alors qu'elle essaie d'avancer. La femme réagit avec une surprise ludique et se met rapidement à genoux pour l'aider. Le tissu bouge naturellement autour du petit corps du dragon alors qu'il se dandine sur le sol, ses petits pieds visibles sous le tissu. La femme soulève délicatement le tissu de son visage, révélant le dragon adorable qui cligne des yeux, confus, et la regarde directement. Elle tient doucement la petite créature dans ses deux mains et l'approche de son visage. Le dragon replie ses ailes roses translucides contre son corps, incline la tête et touche doucement son nez contre sa joue. La femme sourit affectueusement, regardant dans ses grands yeux brillants tout en caressant doucement sa petite tête. Terminez par un beau gros plan de la femme et du bébé dragon partageant un moment attendrissant dans la paisible cour en pierre, avec la maisonnette et la campagne brumeuse floutées en arrière-plan. Maintenez des traits faciaux, une coiffure, des vêtements, un design de créature, des proportions et des couleurs cohérents tout au long de la vidéo. Utilisez des mouvements corporels naturels, une physique réaliste des tissus, des textures détaillées, une lumière du jour douce et diffuse, ainsi qu'une profondeur cinématographique.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108503353022193665/img/rNaXyfICWppbQJGj.jpg" width="600" alt="Bébé Dragon et Femme dans une Cour en Pierre">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12239)**
+
+**Auteur:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2108503425277391053) | **Publié:** Oct 9, 2026
+
+---
+### Animation touchante de Spider-Man Dad et son bébé
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt pour une scène familiale animée en 3D de 20 secondes, mettant en scène un père portant un pull inspiré de Spider-Man et sa petite fille, se terminant par une étreinte émouvante. Créé avec Seedance 2.0 mini.
+
+#### 📝 Prompt
+
+```
+Créez une scène familiale cinématographique touchante animée en 3D de 20 secondes, dans un bureau à domicile chaleureux lors d'une soirée douce.
+
+Un jeune père aux cheveux bruns bouclés, aux sourcils expressifs et portant un pull rouge et bleu inspiré de Spider-Man est assis à un bureau en bois, travaillant sur un ordinateur portable. À côté de lui se trouve sa adorable petite fille, vêtue d'une tenue tricotée beige et d'un bonnet d'hiver mignon avec des oreilles d'ours.
+
+Le bébé observe attentivement son père pendant qu'il travaille. Le père la regarde occasionnellement avec une expression fatiguée mais aimante, boit dans une tasse à café blanche et continue de taper sur son ordinateur portable. Le bébé est assis à côté de lui dans une petite chaise haute, observant curieusement tout ce qui l'entoure.
+
+Montrez le père distrait lorsque le bébé interagit avec une petite voiture jouet rouge et une assiette de nourriture sur le bureau. Incluez des expressions faciales naturelles, des mouvements subtils des yeux, des gestes doux des mains et une interaction réaliste entre parent et enfant.
+
+Plus tard, le bébé montre fièrement à son père un dessin fait à la main représentant les deux ensemble avec un cœur. L'expression du père passe de fatiguée et stressée à émotionnelle, surprise et profondément touchée.
+
+Terminez avec le père souriant chaleureusement, se tournant vers sa fille, l'étreignant avec amour et lui offrant une tendre accolade.
+
+Style : animation 3D cinématographique de haute qualité, esthétique de film familial inspirée de Pixar, éclairage intérieur doux et chaud, visages expressifs détaillés, textures réalistes de tissu et de cheveux, atmosphère cosy, faible profondeur de champ, animation fluide des personnages, mouvement naturel de la caméra, narration émotionnelle.
+
+Composition verticale 9:16, cadrage cinématographique, apparence des personnages cohérente tout au long, transitions fluides, environnement détaillé, fin émotionnelle saine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108494585232285696/img/oWcQX4Xg4aDqpY61.jpg" width="600" alt="Animation touchante de Spider-Man Dad et son bébé">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12241)**
+
+**Auteur:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2108495280912134418) | **Publié:** Oct 9, 2026
+
+---
+### Vidéo de combat tactique : Femme contre foule
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt détaillé pour générer une vidéo d'action cinématographique ultra-réaliste de 10 secondes, mettant en scène une femme tacticienne affrontant une foule sous la pluie, spécifiquement notée comme générée par Gemini 3.5 et Seedance 2.0 mini.
+
+#### 📝 Prompt
+
+```
+Générez une vidéo d'action cinématographique ultra-réaliste de 10 secondes au format vertical 9:16, ressemblant à des images réelles tournées avec une caméra professionnelle.
+
+SCÈNE : Une femme adulte puissante, vêtue d'une tenue tactique noire pratique, est piégée dans une rue urbaine moderne trempée par la pluie au crépuscule. Une grande foule d'agresseurs adultes se précipite vers elle depuis plusieurs directions. Elle reste calme, intelligente, intrépide et très agile.
+
+0–3 secondes : Plan large d'établissement. La foule charge vers elle sous une pluie légère. Elle étudie leurs mouvements, adopte une position défensive et esquive le premier agresseur avec un timing réaliste.
+
+3–7 secondes : Plan fluide suivi à main levée. Elle exécute des mouvements d'arts martiaux crédibles, bloque les attaques, esquive les adversaires et utilise des projections contrôlées non graphiques. Chaque mouvement possède un poids humain réaliste, une mécanique corporelle précise, un contact naturel des pieds et une anatomie cohérente. La foule se déplace indépendamment, sans corps dupliqués ni mouvements robotiques synchronisés.
+
+7–10 secondes : Elle traverse la foule et atteint l'entrée d'un bâtiment vivement éclairé. Les agresseurs restants s'arrêtent derrière elle. Elle se tourne vers la caméra, respire naturellement et lève une main dans un geste de victoire confiant. Finissez sur un gros plan cinématographique net et puissant.
+
+QUALITÉ VISUELLE : Visages humains photoréalistes, pores naturels de la peau, tissu mouillé réaliste, yeux détaillés, pluie et reflets physiquement précis, éclairage HDR équilibré, mise au point nette, flou de mouvement naturel, contraste cinématographique, profondeur de champ réaliste, détails de qualité 4K, identité de personnage stable, mouvement continu fluide, cinématographie professionnelle de film d'action.
+
+AUDIO : Générez un audio environnemental original synchronisé : pas naturels sur un trottoir mouillé, pluie réaliste, bruit du vêtement, respiration subtile, impacts crédibles et cris lointains de la foule. Incluez une ligne de dialogue féminine originale, prononcée clairement et avec assurance : « Vous pouvez m'arrêter, mais vous ne pourrez jamais me briser ! » Synchronisation labiale précise, voix humaine naturelle, dialogue propre, niveaux sonores équilibrés, pas d'écrêtage, pas de voix robotique artificielle, pas de musique de fond écrasant l'action.
+
+CONTRAINTES NÉGATIVES STRICTES : Pas d'animation, pas d'apparence cartoon, pas de peau semblant CGI, pas de doigts supplémentaires, pas de membres déformés, pas de corps flottants, pas de combat unnatural, pas de téléportation, pas de scintillement, pas de tremblement, pas de secousse excessive de la caméra, pas de bruit visuel, pas d'artefacts de compression, pas de visages déformés, pas de sous-titres, pas de texte, pas de logos, pas de filigrane, pas de gore.
+
+Livrez une vidéo cohérente de style prise de vue réelle de 10 secondes avec des visuels propres, des mouvements réalistes, un audio original synchronisé et une qualité cinématographique premium.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108484389932023808/img/QLeLb3Uapw5u0vrf.jpg" width="600" alt="Vidéo de combat tactique : Femme contre foule">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12240)**
+
+**Auteur:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2108484437973377242) | **Publié:** Oct 9, 2026
+
+---
+### Séquence d'action : Course-poursuite policière sur un marché aux fruits
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour une séquence d'action cinématographique mettant en scène un homme courant dans une rue européenne, percutant un marché aux fruits avec des oranges volant au ralenti, et poursuivi par la police. Conçu pour Seedance 2.0 afin de tester la physique réaliste et les mouvements de caméra.
+
+#### 📝 Prompt
+
+```
+Une séquence d'action cinématographique se déroulant dans une rue animée d'une ville européenne. Un jeune homme en veste noire court désespérément à travers une foule tandis que des agents de police le poursuivent. Il percute un marché aux fruits coloré, faisant voler des oranges partout dans un ralenti dramatique. Il trébuche, tombe sur le trottoir, se relève rapidement et continue sa course alors que la police se rapproche derrière lui. Mouvements humains réalistes, plans de suivi dynamiques, sensation de caméra à l'épaule, éclairage naturel nuageux, environnement urbain détaillé, étalonnage des couleurs cinématographique, physique réaliste, atmosphère intense de film d'action, qualité 4K, sans texte, sans filigrane.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108437782851211264/img/_ifDleSe0dTsFDc0.jpg" width="600" alt="Séquence d'action : Course-poursuite policière sur un marché aux fruits">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12237)**
+
+**Auteur:** [Zarnish](https://x.com/ZarnishNael) | **Source:** [Link](https://x.com/ZarnishNael/status/2108437844004143142) | **Publié:** Oct 9, 2026
+
+---
 ### Vidéo de Poursuite Thriller dans une Ruelle Nocturne
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6160,235 +6329,6 @@ Créez une vidéo d'hiver cinématographique hautement réaliste montrant une fe
 **Auteur:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2103359307874226667) | **Publié:** Sep 25, 2026
 
 ---
-### Prompt de Vidéo d'Aventure Montagne Arctique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt complet pour générer une vidéo d'aventure hivernale cinématographique mettant en scène une femme coréenne dans un paysage arctique.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo d'aventure hivernale cinématographique ultra-réaliste de 15 secondes, se déroulant dans un paysage montagneux enneigé époustouflant inspiré de l'Arctique.
-Une belle jeune femme coréenne adulte, âgée d'environ 20 à 25 ans, avec des traits faciaux coréens naturels, une peau claire, des yeux marron foncé expressifs et doux, de longs cheveux bruns raides, un maquillage naturel subtil et une expression douce et réaliste. Gardez son visage, sa coiffure, ses proportions corporelles, ses vêtements et son identité globale parfaitement cohérents tout au long de la vidéo.
-Elle porte une tenue d'hiver premium blanche et crème : une veste d'hiver rembourrée couleur crème chaude avec capuche fourrée, un bonnet tricoté beige, une écharpe crème douce, des gants d'hiver, un pantalon d'hiver sombre, des bottes de neige et un petit sac à dos sombre. Ses vêtements doivent bouger naturellement avec le vent froid de la montagne.
-Une vaste vallée montagneuse enneigée inspirée de l'Arctique, avec d'immenses sommets couverts de neige, des lacs turquoise gelés, des champs de neige vierges, des rochers glacés, des pins recouverts de neige, des glaciers lointains et une légère chute de neige. L'environnement doit paraître photoréaliste et majestueux, comme un film de voyage cinématographique à gros budget.
-Lumière naturelle douce du soleil hivernal, tons de neige bleu-blanc froids, lumière dorée subtile touchant les sommets des montagnes, brume atmosphérique réaliste, lumière volumétrique, ombres naturelles, reflets réalistes sur le lac gelé et texture de neige détaillée.
-Caméra cinématographique haut de gamme, profondeur de champ réaliste, caractéristiques d'objectif naturelles, mouvement de caméra fluide et contrôlé, réalisme subtil de type caméra à main, composition cinématographique, flou de mouvement réaliste, texture de peau détaillée, mouvement réaliste des cheveux, particules de neige réalistes. Aucune apparence CGI artificielle.
-Commencez par un plan large épique établissant une immense chaîne de montagnes arctiques couvertes de neige et un lac turquoise gelé. La jeune femme coréenne apparaît petite au premier plan, le dos tourné vers la caméra, regardant les montagnes. Des flocons de neige tombent doucement autour d'elle. La caméra avance lentement vers elle.
-Transitionnez vers un plan moyen fluide de suivi alors qu'elle commence à marcher sur un chemin enneigé à côté du lac gelé. Ses bottes laissent des empreintes réalistes dans la neige fraîche. Ses longs cheveux bruns et son écharpe bougent doucement dans le vent froid. La caméra la suit de derrière et légèrement sur le côté.
-Coupez sur un gros plan cinématographique intime de son visage. Elle tourne lentement la tête vers la caméra et offre un sourire naturel subtil. De minuscules flocons de neige se posent sur ses cheveux et ses cils. Son souffle devient visible dans l'air glacial. Capturez la texture réaliste de la peau, le mouvement naturel des yeux, l'expression douce et la faible profondeur de champ.
-Passez à un beau profil latéral. Elle s'arrête près du bord du lac gelé et regarde vers les immenses montagnes enneigées. La caméra tourne lentement autour d'elle tandis que la lumière du soleil crée une lumière de contour douce autour de ses cheveux. Les particules de neige flottent naturellement dans le cadre.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103346104557522944/img/AaBPCXKEhfGCn6BN.jpg" width="600" alt="Prompt de Vidéo d'Aventure Montagne Arctique">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11232)**
-
-**Auteur:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2103346184081605052) | **Publié:** Sep 25, 2026
-
----
-### Prompt vidéo : Étreinte entre un corbeau et un chat
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour créer une vidéo humoristique et attendrissante, filmée à la main avec un téléphone, montrant un corbeau étreignant un chat dans le couloir d'un appartement.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo réaliste, drôle et attendrissante, filmée à la main avec un smartphone, mettant en scène un vrai corbeau noir et un chat gris au pelage doux et réaliste dans le couloir simple d'un appartement.
-
-Le chat gris porte un petit nœud rose attaché naturellement sur le dessus de sa tête. Le nœud reste bien en place tout au long de la vidéo.
-
-0–3 sec :
-Le corbeau se tient au milieu du couloir, regardant autour de lui de manière naturelle. Le chat gris apparaît au loin et remarque le corbeau. Il court immédiatement vers lui avec une énergie excitée et joueuse.
-
-3–6 sec :
-Le chat atteint le corbeau. Le corbeau se tourne vers lui et déploie doucement ses deux ailes autour du chat, créant l'apparence d'une petite étreinte tendre. Le chat se blottit affectueusement contre le corbeau. Leur interaction doit sembler spontanée et physiquement crédible.
-
-6–10 sec :
-Après l'étreinte, le corbeau commence à marcher vers l'avant dans le couloir tandis que le chat gris marche juste à côté de lui. Ils avancent ensemble comme une paire improbable de petits amis. Le corbeau regarde occasionnellement le chat en marchant.
-
-10–12 sec :
-Le chat lève brièvement les yeux vers le corbeau, puis ils continuent de s'éloigner ensemble.
-
-Style visuel
-
-Animaux extrêmement réalistes
-
-Anatomie réelle du corbeau, plumes, pattes et bec
-
-Pelage gris doux et mouvements naturels du chat
-
-Petit nœud rose sur la tête du chat
-
-Couloir d'appartement ordinaire
-
-Caméra de smartphone tenue à la main
-
-Léger tremblement de caméra et cadrage imparfait
-
-Éclairage intérieur naturel
-
-Esthétique de vidéo virale des réseaux sociaux légèrement compressée, basse qualité (144p)
-
-Flou de mouvement léger et autofocus de caméra de téléphone
-
-Pas d'étalonnage colorimétrique cinématographique
-
-Pas d'apparence CGI
-
-Pas de look cartoon
-
-Pas d'expressions faciales exagérées
-
-Pas de mains humaines
-
-Gardez les animaux anatomiquement réalistes tout en rendant l'étreinte physiquement crédible
-
-Sensation de vidéo internet spontanée, drôle et bienveillante
-
-Plan-séquence unique, sans coupures ni transitions
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103054180785217536/img/tvcRUMhxysJaCxdS.jpg" width="600" alt="Prompt vidéo : Étreinte entre un corbeau et un chat">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11231)**
-
-**Auteur:** [Soulful Ai](https://x.com/soulful__ai) | **Source:** [Link](https://x.com/soulful__ai/status/2103056454395855115) | **Publié:** Sep 24, 2026
-
----
-### Scène de claque et superpouvoirs au lycée
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt cinématographique pour générer une scène de court-métrage dans un couloir de lycée où une fille révèle ses superpouvoirs après avoir reçu une gifle, avec des designs de personnages spécifiques, des effets d'énergie et des mouvements de caméra.
-
-#### 📝 Prompt
-
-```
-Cinématique 16:9 en prises de vues réelles, 24 sec, couloir de lycée réaliste, éclairage fluorescent vif, sol brillant, casiers gris, faible profondeur de champ. Personnages : Fille A : longs cheveux bruns ondulés, chemise à carreaux bleus sur un débardeur blanc, jean. Fille B : carré court foncé, veste de letterman bleu marine et crème avec un "R" rouge.
-
-Scène 1 (0-2s) : Plan large. La Fille A est adossée aux casiers, la Fille B lui fait face, l'affrontant. Des élèves marchent en arrière-plan.
-
-Scène 2 (2-4s) : Gros plan sur la Fille A, nerveuse mais calme, la tête de la Fille B floue au premier plan. Coupe sur un gros plan de la Fille B, affichant un sourire narquois.
-
-Scène 3 (4-7s) : Plan moyen à deux, par-dessus l'épaule de la Fille B. La Fille A semble tendue et soutient le regard.
-
-Scène 4 (7-8s) : La Fille B gifla la Fille A. La tête de la Fille A tourne violemment sur le côté, ses cheveux volent, et ses yeux s'illuminent d'un blanc éclatant.
-
-Scène 5 (8-9s) : Plan large à l'épaule. La Fille A, les yeux lumineux, tend le bras, une énergie électrique bleu-blanc crépite le long de son bras. Les élèves du couloir observent, sous le choc.
-
-Scène 6 (10-15s) : Gros plan. Le visage de la Fille A, yeux blancs lumineux, colère et tremblement. Sa main lumineuse se lève vers la caméra, l'énergie crépitant autour de ses doigts.
-
-Scène 7 (16-19s) : Plan large du long couloir. Deux sportifs en vestes de l'équipe universitaire se précipitent sur la Fille A. Elle libère des traînées d'énergie blanche qui les projettent en arrière dans les airs.
-
-Scène 8 (20-24s) : Plan de suivi frontal. La Fille A marche dans le couloir vide vers la caméra, l'énergie lumineuse sur ses bras et ses yeux. La lueur s'estompe, ses yeux redeviennent normaux, et elle semble essoufflée et choquée.
-
-Style : drame réaliste de super-héros adolescent, texture de peau naturelle, flou de mouvement sur les effets d'énergie, mouvements de caméra fluides, lueur bleu-blanc froide, pas de texte ni de sous-titres.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102993862717550593/img/rSpxmx_tj3MnvVAC.jpg" width="600" alt="Scène de claque et superpouvoirs au lycée">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11199)**
-
-**Auteur:** [Sᴀɪʀᴀ](https://x.com/itsSaira_1) | **Source:** [Link](https://x.com/itsSaira_1/status/2102994561144434785) | **Publié:** Sep 24, 2026
-
----
-### Prompt vidéo pour produit de beauté : Gloss à lèvres
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une vidéo verticale réaliste de produit de beauté, mettant en valeur l'application du gloss à lèvres et une esthétique lifestyle.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo verticale réaliste de 10 secondes présentant un produit de beauté. Montrez des mains ouvrant un petit emballage en carton élégant contenant un gloss à lèvres rose premium. Les mains retirent délicatement le gloss de la boîte, révélant son bouchon argenté réfléchissant et raffiné ainsi que son corps transparent rose. L'applicateur est sorti avec fluidité et le produit rose brillant est appliqué sur le dos de la main, montrant sa texture crémeuse et lumineuse. Ensuite, transitionnez vers un gros plan d'une femme appliquant naturellement le gloss sur ses lèvres avec des mouvements précis et doux, mettant en évidence une texture de peau réaliste. Terminez par une vue du gloss posé élégamment sur une table en bois de café, à côté de deux tasses de latte avec une mousse artistique, créant une ambiance publicitaire lifestyle chaleureuse. Utilisez un éclairage naturel doux, des ombres réalistes, une faible profondeur de champ, des mouvements de caméra à main levée fluides, une qualité commerciale premium, une texture de peau naturelle, des détails de produit fidèles et des transitions sans couture.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102952041752715264/img/Y_s6Ma6KLmmT8sp6.jpg" width="600" alt="Prompt vidéo pour produit de beauté : Gloss à lèvres">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11186)**
-
-**Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2102952087823044888) | **Publié:** Sep 24, 2026
-
----
-### Prompt de Vlog Voyage en Ville Européenne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt complet pour générer un vlog de voyage cinématographique de 15 secondes mettant en scène une femme blonde explorant une ville européenne avec une identité de personnage cohérente.
-
-#### 📝 Prompt
-
-```
-Créez un vlog de voyage cinématographique de 15 secondes suivant la même jeune femme blonde tout au long d'une soirée passée à explorer une magnifique ville européenne. Gardez son visage, sa coiffure, sa chemise blanche oversize, son jean bleu, ses proportions corporelles et son apparence générale cohérents dans chaque plan.
-Commencez par un selfie grand angle tenu à main levée alors qu'elle traverse une place historique animée pendant l'heure dorée, souriant naturellement à la caméra. Des touristes se déplacent autour d'elle tandis que la lumière chaude du soleil illumine l'architecture européenne environnante.
-Passez sans couture à une rue piétonne étroite et animée, bordée de bâtiments historiques colorés, de cafés en plein air, de boutiques locales, de guirlandes lumineuses et d'une vieille tour d'église visible au loin. Elle continue d'explorer pendant que la caméra la suit avec des mouvements naturels typiques des vlogs de voyage tenus à main levée.
-Transitionnez vers une boutique locale de souvenirs colorée remplie de céramiques faites main, d'assiettes décoratives, d'œuvres d'art, de textiles et d'artisanat traditionnel. Montrez-la s'arrêtant devant la boutique et regardant vers la caméra, tandis que la lumière intérieure chaude et les produits colorés remplissent l'arrière-plan.
-Coupez sur un café en plein air cosy. Elle est assise à une petite table, soulève une tasse de café blanche vers la caméra, sourit naturellement et boit une gorgée tandis que des gens bougent subtilement en arrière-plan.
-Pour la séquence finale, transitionnez vers un point de vue panoramique sur une colline dominant la ville au coucher du soleil. Commencez par elle faisant face à la caméra alors que le soleil orange brille derrière elle. Une légère brise fait bouger ses cheveux et sa chemise ample.
-Elle ferme brièvement les yeux, ouvre les bras, puis se détourne de la caméra et marche lentement vers le point de vue. Alors qu'elle s'éloigne, reculez doucement la caméra pour obtenir un large plan cinématographique, révélant progressivement l'immense paysage urbain et le coucher de soleil lumineux.
-Terminez par elle seule, debout et faisant face à la ville, encadrée contre le ciel orange chaud.
-Esthétique photoréaliste et premium de film de voyage, mélange authentique de séquences vlog tenues à main levée et de plans larges cinématographiques, transitions fluides, identité de personnage et vêtements cohérents, expressions et mouvements corporels réalistes, éclairage chaud de l'heure dorée, texture de peau naturelle, léger flare d'objectif, vent doux, faible profondeur de champ, architecture détaillée, couleurs vibrantes mais réalistes.
-Audio : ambiance de rue naturelle, pas de personnes marchant, foules lointaines, sons subtils de café et musique de voyage inspirante qui devient plus émotionnelle lors de la fin au coucher du soleil.
-Pas de dialogue, pas de narration, pas de sous-titres, pas de superpositions de texte. Format vertical 9:16. Durée : 15 secondes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102950263774732288/img/Cm4e8iDwlbESrsMK.jpg" width="600" alt="Prompt de Vlog Voyage en Ville Européenne">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11188)**
-
-**Auteur:** [Ejaz Bashir](https://x.com/Ejaz_bashir1) | **Source:** [Link](https://x.com/Ejaz_bashir1/status/2102950419601543250) | **Publié:** Sep 24, 2026
-
----
-### Prompt de Film de Mode Lifestyle : Pause Café avec Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour Seedance 2.0 afin de générer un film de mode lifestyle photoréaliste de 15 secondes mettant en scène une jeune femme prenant un café dans un salon de thé cosy. Il inclut des instructions spécifiques pour la cohérence du personnage, le découpage des plans et les directives de style visuel.
-
-#### 📝 Prompt
-
-```
-FORMAT : Paysage 16:9, 15 secondes, prise de vue réelle photoréaliste, film de mode lifestyle cinématographique.
-
-COHÉRENCE DU PERSONNAGE :
-Utilisez la fiche de personnage téléversée comme référence principale. Gardez le visage de la jeune femme, ses proportions faciales, ses longs cheveux bruns ondulés, sa coiffure, son accessoire capillaire, ses boucles d'oreilles dorées, ses proportions corporelles, sa chemise ajustée bordeaux à fines rayures, son jean large foncé et ses baskets blanches parfaitement cohérents dans chaque plan. Ne modifiez pas sa tenue, sa coiffure, son âge ou son apparence.
-PLAN 1 — 0:00–0:05
-
-Un salon de thé rustique et cosy baigné par la lumière chaude de l'après-midi. La jeune femme entre naturellement, portant une petite sacoche bandoulière. La caméra la suit depuis derrière, au niveau de la taille, alors que ses longs cheveux bruns ondulés bougent doucement tandis qu'elle marche. Elle s'approche d'une petite table en bois près d'une fenêtre ensoleillée.
-
-Caméra : Plan-séquence fluide à l'épaule (handheld), mouvement naturel, faible profondeur de champ.
-
-PLAN 2 — 0:05–0:10
-
-Elle s'assoit confortablement, croise une jambe sur l'autre, prend une simple tasse de café en céramique blanche et boit une gorgée détendue. Coupe sur des gros plans intimes de ses boucles d'oreilles dorées, de ses doigts autour de la tasse, de sa chemise bordeaux à rayures et de ses cheveux qui tombent librement.
-
-Caméra : Léger travelling avant (push-in), micro-mouvement réaliste à l'épaule, lumière du soleil chaude sur son visage et ses cheveux.
-
-PLAN 3 — 0:10–0:15
-
-Plan de profil alors qu'elle regarde paisiblement vers la fenêtre du café. Elle remarque quelque chose dehors, esquisse un petit sourire naturel, puis se lève et marche vers la porte. Le dernier plan la suit depuis derrière alors qu'elle sort dans la lumière du jour chaude, ses cheveux bougeant naturellement.
-
-STYLE VISUEL
-
-Esthétique lifestyle douce et féminine, atmosphère cosy de café européen, environnements beiges et bruns chauds, lumière naturelle, texture de peau réaliste, mèches de cheveux détaillées, grain de film subtil, expressions authentiques et spontanées, sentiment éditorial de mode discret.
-
-IMPORTANT : Pas de poses exagérées, pas de ralenti, pas d'effet de filtre beauté, pas de changement de tenue, pas de modification du visage, pas d'accessoires supplémentaires, pas d'apparence cartoon/CGI. Gardez la performance naturelle et sans effort.
-
-PAYSAGE 16:9 • 15 SECONDES • PHOTORÉALISTE • CINÉMATOGRAPHIQUE • MOUVEMENT DE CAMÉRA NATUREL
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102920902602051584/img/iqI05E_HaYidE4pV.jpg" width="600" alt="Prompt de Film de Mode Lifestyle : Pause Café avec Seedance 2.0">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11185)**
-
-**Auteur:** [Caden Flux](https://x.com/Caden_Flux) | **Source:** [Link](https://x.com/Caden_Flux/status/2102920998165110878) | **Publié:** Sep 24, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -6450,6 +6390,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-10T04:49:59.008Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-10T14:35:11.920Z</sub>
 
 </div>
