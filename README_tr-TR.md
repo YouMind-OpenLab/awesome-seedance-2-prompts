@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6521** |
+| 📝 Toplam İstem | **6526** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-10-11** |
 
@@ -361,6 +361,134 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Ateşli Kadın Savaşçı Sinematik Aksiyon Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gümüş saçlı ve parlayan gözlere sahip, karanlık bir savaş alanında alevler içinde mızrak savuran bir kadın savaşçıyı konu alan, 15 saniyelik ultra gerçekçi sinematik fantastik aksiyon videosu için detaylı istem.
+
+#### 📝 İstem
+
+```
+Uzun gümüş saçları, parlayan altın gözleri ve şık siyah zırhıyla güçlü bir kadın savaşçının, devasa bir mızrakla çevresini saran parlak turuncu alevlerin ortasında olduğu 15 saniyelik ultra gerçekçi sinematik fantastik aksiyon videosu oluşturuldu. Karanlık bir savaş alanında öne doğru atılıyor, parlayan ateş izleri ve uçan kıvılcımlarla hızlı ve güçlü silah saldırıları gerçekleştiriyor. Kamera hareketlerini pürüzsüz bir şekilde takip ederek dramatik yakın çekimler, geniş açılı aksiyon sahneleri ve yoğun dövüş anlarını yakalıyor. Havaya yüksekçe sıçrayıp mızrağını döndürürken, bedeni etrafında büyülü ateş enerjisi toplanıyor. Yeri inanılmaz bir güçle vurarak alevler, duman ve parlayan közlerden oluşan devasa bir patlama yaratıyor. Gümüş saçları rüzgârda doğal bir şekilde dalgalanırken, altın gözleri azimli bir kararlılıkla parlıyor. Düşmanlar dumana karışırken savaş alanı turuncu enerjiyle aydınlanıyor. Ateşin etrafında döndüğü, mızrağının parlakça ışıldadığı dramatik bir kahraman pozuyla sona eriyor. Video boyunca tutarlı karakter detayları, gerçekçi hareketler, sinematik aydınlatma, yumuşak geçişler ve büyüleyici yüksek kaliteli görsel efektler korunuyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109136974116499456/img/snE8D7hQi20LDhvy.jpg" width="600" alt="Ateşli Kadın Savaşçı Sinematik Aksiyon Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12303)**
+
+**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2109137173224337478) | **Yayınlandı:** Oct 11, 2026
+
+---
+### Orta Çağ Kadın Okçusu Orman Yolculuğu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sisli çam ormanında at süren, yayını geren ve bir kampa ulaşan kadın okçuyu konu alan 15 saniyelik orta çağ fantastik filmi için son derece detaylı istem. Belirli sinematografi ve fizik talimatları içerir.
+
+#### 📝 İstem
+
+```
+Uzun, gevşek kahverengi saçlı; tarihsel olarak ilham veren koyu kahverengi deri zırh, kürk yakalı omuzluklar, sert orta çağ kıyafeti, deri kemer ve sırtına asılı ok dolu sadak taşıyan güzel ve azimli bir kadın okçuyu konu alan 15 saniyelik ultra gerçekçi, yüksek bütçeli bir orta çağ fantastik filmi oluşturun. Kaslı siyah bir ata binerek yoğun sis, yosun tutmuş zemin, dağınık kayalar ve ulu ağaçlarla dolu sık, eski bir çam ormanından geçer. Savaşçıyı, dar bir orman patikasında at sürerken gösteren geniş açılı sinematik bir arka çekimle hemen başlayın; sıcak altın rengi güneş ışığı ağaçların arasından süzülerek dramatik hacimsel ışık huzmeleri ve gizemli bir atmosfer yaratır. Kamera, atın doğal hareketlerle engebeli zeminde ilerlemesini, küçük yaprakları, toprağı ve yosunu dağıtmasını takip ederek atın arkasından yumuşakça ilerler. Ardından, geleneksel eğri siyah yayı tutan, tek bir okla yayı geriye doğru geren ve yoğun bir konsantrasyonla nişan alan kadın savaşçının dramatik düşük açıdan yakın plan yan çekimine geçiş yapın. Kol kasları doğal olarak gerilir, yay gerçekçi bir gerginlikle büklülür ve saçları ile kürk yakalı kıyafeti serin orman esintisine tepki verir. Kararlı yüz ifadesini, gerçekçi cilt dokusunu, detaylı deri zırhını ve sadağındaki tek tek okları yakalayın. Son saniyelerde, ulu iğne yapraklı ağaçlar, rustik çadırlar, ahşap yapılar ve otantik orta çağ kıyafetleri ve zırhları giyen savaşçı gruplarıyla çevrili gizli bir orta çağ kampına doğru ilerlerken geniş açılı bir takip çekimine geçiş yapın. Savaşçılar onun gelişine döner ve efsanevi bir şefin halkına dönüşü atmosferini yaratır. Her çekimde karakter kimliğini, kıyafetini, atın görünümünü ve gerçekçi vücut oranlarını tutarlı şekilde koruyun. Sinematik kamera geçişleri, doğal at hareketleri, doğru eküstri anatomisi, gerçekçi yerçekimi, eylemsizlik, kas hareketi, kumaş simülasyonu ve fiziksel olarak inandırıcı aydınlatma kullanın. Premium Hollywood orta çağ fantastik sinematografisi, fotogerçekçi dokular, atmosferik sis, soluk toprak tonları, dramatik doğal aydınlatma, ince film greni, sığ alan derinliği, 4K kalite, 24 FPS; at nalı sesleri, deri hareketleri, çam ağaçları arasındaki rüzgar ve uzaktaki kamp ambiyansı gibi sürükleyici çevresel ses efektleri. Modern nesneler yok, çizgi film efektleri yok, altyazı yok, metin yok, logo yok ve filigran yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109123010812870656/img/EHX4CdPkZ_XLXU_e.jpg" width="600" alt="Orta Çağ Kadın Okçusu Orman Yolculuğu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12304)**
+
+**Yazar:** [Ayat](https://x.com/aiwithaayat) | **Kaynak:** [Link](https://x.com/aiwithaayat/status/2109123171408560343) | **Yayınlandı:** Oct 11, 2026
+
+---
+### Koreli Kıyı Köyü Vlog İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gün batımında geleneksel bir Kore kıyı köyünde yürüyen genç bir kadını konu alan, gerçekçi hareket ve ışıklandırmaya vurgu yapan 30 saniyelik sinematik yaşam tarzı vlog'u oluşturmak için detaylı bir istem.
+
+#### 📝 İstem
+
+```
+Doğal makyajlı, uzun koyu saçları at kuyruğu yapılmış güzel genç bir Koreli kadının yer aldığı, 30 saniyelik ultra-gerçekçi sinematik bir yaşam tarzı vlog'u oluşturun. Üzerinde bol kesim krem rengi bir ceket, bej pantolon ve beyaz spor ayakkabılar var; omzunda kahverengi bir çanta, elinde ise akıllı telefonu ve küçük kahverengi bir kağıt torba taşıyor.
+
+Sahne 1 (0–5 saniye): Geleneksel bir Kore kıyı köyünün geniş açılı kurulum çekimiyle başlayın. Kız, telefonunu kontrol ederken eski bir köy evinden dışarı adım atıyor. Dar taş patikalar, yıpranmış ahşap kapılar, saksı çiçekleri ve rustik mimari otantik bir atmosfer yaratıyor.
+
+Sahne 2 (5–10 saniye): Onu dar köy sokağında yavaşça yürürken arkadan takip edin. Bir çite yaslanmış renkli gökkuşağı uçurtmasını fark ediyor, durup ona bakıyor ve nazikçe uzanıyor. Saçları ve bol ceketi deniz melteminde doğal bir şekilde dalgalanıyor.
+
+Sahne 3 (10–17 saniye): Huzurlu mahallede yürümeye devam ederken doğal yakın plan ve orta plan çekimler yapın. Elinde telefon ve kağıt torbayla tutarken eski evlerin, taş duvarların, çiçekli bitkilerin ve sevimli köy detaylarının yanından geçişini gösterin. Hafif el kamerası hareketleri ve gerçekçi alan derinliği kullanın.
+
+Sahne 4 (17–24 saniye): Okyanusun yanındaki güzel bir kıyı yürüyüş yoluna geçiş yapın. Kamera onu arkadan takip ederken taş yolda yürüyor; bir tarafta koyu volkanik kayalar ve hafif dalgalar, diğer tarafta geleneksel köy evleri var. Omuz çantası her adımda doğal olarak sallanıyor.
+
+Sahne 5 (24–30 saniye): Kızın deniz kenarında parlayan gün batımına doğru yürüdüğü geniş sinematik bir çekimle bitirin. Altın rengi güneş ışığı saçlarını ve krem rengi ceketini aydınlatıyor. Manzarayı hayranlıkla izlemek için yavaşladığında okyanus sıcak akşam ışığını yansıtıyor, bu da sakin, güzel ve nostaljik bir son oluşturuyor.
+
+Görsel stil: Fotogerçekçi Kore yaşam tarzı filmi, doğal altın saat ışığı, sıcak soluk renkler, otantik kıyı köyü atmosferi, gerçekçi cilt dokusu, nazik el takibi çekimleri, doğal kamera hareketi, 4K kalite, 24 FPS, sinematik kompozisyon, gerçekçi insan hareketi ve fizik.
+
+Ses: Doğal okyanus dalgaları, yumuşak deniz meltemi, taş yoldaki ayak sesleri ve ince köy ambiyansı. Arka plan müziği yok, anlatıcı yok, altyazı yok, metin yok, logo yok ve filigran yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109121015112667136/img/fLkLHTsqM6vemF7q.jpg" width="600" alt="Koreli Kıyı Köyü Vlog İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12302)**
+
+**Yazar:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Kaynak:** [Link](https://x.com/ayzalnooor24521/status/2109121097803374790) | **Yayınlandı:** Oct 11, 2026
+
+---
+### Seedance 2.0 için Xianxia Komedi Video İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0'nın çoklu çekim üretimi ve uzamsal ses özelliklerine özel olarak tasarlanmış, iki karakterli 10 saniyelik bir Xianxia (kültivasyon) komedi videosu oluşturmak için detaylı bir istem. Karakter kilitleme, sahne açıklamaları, diyaloglar ve negatif kısıtlamalar içerir.
+
+#### 📝 İstem
+
+```
+10 saniyelik video. [Stil] Şiirsel Xianxia soğuk kanlı ters köşe komedisi, gerçekçi yüksek çözünürlüklü sinematik doku, klasik Çin mimari mekansal kompozisyon, ölçülü performans, serin dağ sisi, sıcak akşam kenar ışığı, düşük doygunlukta yeşim yeşili ve fildişi tonları, ince film greni; "kurulum-yanıltma-sahne dışı sürpriz" ses anlatısıyla ters köşeyi tamamlar. Seedance 2.0'ın referans görüntü kilitleme, çoklu çekim sürekli üretim ve senkronize uzamsal ses özellikleri için tasarlanmıştır. Tüm sahnede yalnızca iki görünür karakter yer alır, modern unsurlar içermeyen saf antik Çin dünyası kurulur.
+
+[Karakterler]
+Karakter A @Image 1 kullanılarak kesinlikle kilitlenmiştir: Aynı 25-30 yaşlarında Doğu Asyalı kılıç ölümsüz abla, oval yüz, beyaz ten, koyu kayısı rengi gözler, siyah saçların yarısı beyaz yeşim tokayla toplanmış, uzun ve zarif yapılı, beyaz işlemeli ipek Hanfu giyiyor, katmanlı yarı saydam geniş kolluklar, gümüş bel mührü, yeşim kolye ve beyaz bez çizmeler.
+Karakter B @Image 2 kullanılarak kesinlikle kilitlenmiştir: Aynı 20-25 yaşlarında Doğu Asyalı kız kardeş, yuvarlak canlı yüz, siyah örgü saçlar, minyon yapılı, camgöbeği keten Hanfu giyiyor, koyu renk bez kemer, ahşap tokak ve siyah bez ayakkabılar.
+
+[Çekim 1 | 0-3s | Düşük açı panoramik yan takip]
+Bulut denizi üzerinde sessiz bir tarikat taş platformu. Taş korkuluklar, eski bir yankı duvarı, dokuz asılı bronz çan, kıvrılmış çam ağaçları, rüzgarda dalgalanan dua şeritleri ve uzak kiremit çatılar net ve kararlı bir mekansal ilişki kurar. Beyaz işlemeli ipek Hanfu giyen kılıç ölümsüz abla, camgöbeği renkli kız kardeşinin yanında duruyor, gizli bir sır paylaşmaya hazır kendinden emin bir ifadeyle etrafına temkinli bakıyor; dağ esintisi saçlarını, kollarını, şeritleri ve sisi hafifçe hareket ettiriyor.
+
+[Çekim 2 | 3-6s | İki kişilik orta plan]
+Abla iki parmağını kaldırır, ağzında küçük bir ses iletim mührü oluşturur ve fısıldar: "Sana bir sır vereyim, Usta dün gece üç parça osmanthus keki yedi." İnce açık mavi bir ses dalgası tam olarak kız kardeşin kulağına gider; o an gözlerini kocaman açar, elini ağzına kapatır, gülmemek için kendini zor tutar.
+
+[Çekim 3 | 6-10s | Yakın plan takiple ortaya çıkıştan aşırı yakın plana]
+Aynı ses dalgası zamanında durmaz, kız kardeşi geçer ve eski yankı duvarına çarpar, ardından dokuz bronz çandan sırayla seker ve fısıldanan sözleri vadiye büyük bir yankı olarak yayılır: "Usta dün gece üç parça osmanthus keki yedi—" Dokuz bronz çan sırayla titreşir, uzak çatı sırtlarındaki kuşlar ürküp dağılır. Ana salon yönünden görünmez bir büyüğün hafif öksürüğü gelir, ardından sakin bir soru: "Dördüncü parçayı kim yedi?" Abla ve kız kardeş aynı anda donup kalır. Aşırı yakın plan: Ablanın kaldırdığı iki parmağı yavaşça kıvrılır, bir kaşı hafifçe seğirir, sessizce kız kardeşe bakar; kız kardeşin yanakları belirgin şekilde şişer. Çok hafif, suçlu bir yutkunma sesiyle biter.
+
+[Teknik Gereksinimler]
+Kesin toplam süre 10 saniye, 16:9 yatay format, üç net çekim, ana dil Mandarin diyalog, doğru dudak senkronizasyonu, fısıldanan sözcüklerde net yönlü hareket, bronz çan yankı katmanları ayırt edici, karakterlerin yüzleri ve kıyafetleri stabil, hareket yönleri tutarlı. Dağ sisi, ipek kumaş, saçlar, bakır çanlar, dua şeritleri ve ses dalgaları doğal hareket eder. Altyazı üretilmez, ek görünür karakter eklenmez.
+
+[Negatif Kelimeler]
+bulanık, kötü kalite, düşük kalite, düşük çözünürlük, gürültülü, jpeg artefaktları, filigran, metin, hata; deforme, mutasyona uğramış, kötü anatomi, kötü çizilmiş eller, kötü kompozisyon, kadraj dışı, bozuk; tutarsız karakter, değişen kıyafetler, yüz morfini, arka plan glitch kesmeleri, kaybolan aksesuarlar
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108920849994821632/img/FVH4RLpzE6YKZlgi.jpg" width="600" alt="Seedance 2.0 için Xianxia Komedi Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12305)**
+
+**Yazar:** [superfang119](https://x.com/superfang119) | **Kaynak:** [Link](https://x.com/superfang119/status/2108921025098584072) | **Yayınlandı:** Oct 10, 2026
+
+---
+### Örgü Yaratığın Yağmurlu Çatı Yürüyüşü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.5 dahil olmak üzere çeşitli AI video modellerinde kullanılan belirli bir istemi paylaşan karşılaştırma gönderisi; yağmurlu bir çatıda örgü bir yaratık içeriyor.
+
+#### 📝 İstem
+
+```
+Üç düğme gözü ve uzun noodle kolları olan minik örgü yün yaratık, gece neon ışıklarıyla aydınlatılmış yağmurlu bir çatıda parmak uçlarında yürüyor, duruyor, doğrudan kameraya bakıyor ve yapraklardan yapılmış mini şemsiyesini açıyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108687552165359616/img/UJcNTYyE79TlkLNe.jpg" width="600" alt="Örgü Yaratığın Yağmurlu Çatı Yürüyüşü">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12263)**
+
+**Yazar:** [Korpi AI](https://x.com/KorpiAi) | **Kaynak:** [Link](https://x.com/KorpiAi/status/2108687594913738792) | **Yayınlandı:** Oct 9, 2026
+
+---
 ### Çocuk Animasyonu Bulut Sahnesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6034,493 +6162,6 @@ Ultra premium parfüm reklamcılığı, sinematik 35mm görünüm, gerçekçi ci
 **Yazar:** [Meenakshi Yadav](https://x.com/MeenakshiYACS) | **Kaynak:** [Link](https://x.com/MeenakshiYACS/status/2103462025871372380) | **Yayınlandı:** Sep 25, 2026
 
 ---
-### Premium motosiklet sinematik reklam istemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gizemden keşfe uzanan bir anlatı yapısına sahip, yüksek bütçeli sinematik bir motosiklet reklamı için detaylı istem.
-
-#### 📝 İstem
-
-```
-Güçlü bir ağır motosiklet ve etkileyici yetişkin kadın sürücüye odaklanan, 30 saniyelik premium sinematik bir reklam oluşturun.
-
-Film başlangıçta ciddi, yüksek bütçeli bir sinematik aksiyon gerilimi gibi hissettirmelidir — bir motosiklet reklamı gibi DEĞİL.
-
-İlk 20 saniyede gizem ve gerilim yaratın. İzleyici nereye gittiğini, ne aradığını ve neden bu kadar tehlikeli bir ortamda tek başına sürdüğünü merak etmelidir.
-
-Motosiklet ağır, güçlü, pahalı ve mekanik olarak gerçekçi hissedilmelidir.
-
-Hikaye doğal olarak şu akışla ilerlemelidir:
-
-GİZEM → KOVALAMACA → TEHLİKE → VARIŞ NOKTASI → KEŞİF → KAHRAMAN ÜRÜN
-
-Herhangi bir mevcut reklamı, filmi, ticari spotu, karakteri, kompozisyonu, sahneyi veya görsel diziyi KOPYALAMAYIN. Tamamen özgün bir hikaye yaratın.
-
-GÖRSEL STİL
-
-Fotogerçekçi sinematik film yapımı.
-
-Premium yüksek bütçeli otomotiv reklamı prodüksiyonu.
-
-35mm anamorfik fotoğrafçılıkla büyük formatlı sinema görünümü.
-
-Derin sinematik kontrast, doğal cilt dokusu, gerçekçi motosiklet malzemeleri: metal, deri, cam ve kauçuk.
-
-Gerçekçi motor titreşimi, süspansiyon hareketi ve mekanik hareket.
-
-Hafif film greni, doğal hareket bulanıklığı ve gerçekçi çevresel aydınlatma.
-
-Karikatür görünümlü olmamalı.
-
-Genel AI estetiği olmamalı.
-
-Motosiklet, filmin tamamı boyunca fiziksel olarak inandırıcı ve görsel olarak tutarlı kalmalıdır.
-
-Dramatik geniş manzaraları, samimi yakın çekimlerle karşılaştırın.
-
-Renk paleti soğuk ve solgun başlar ve son keşfe doğru zengin, sıcak altın tonlarına kademeli olarak geçiş yapar.
-
-ANA KARAKTER
-
-Yirmi yaşlarının sonunda, çarpıcı derecede güzel bir yetişkin kadın.
-
-Koyu renkli dalgalı saçları, premium siyah bir motosiklet kaskının altında doğal şekilde sıkıştırılmış.
-
-Özgüvenli, odaklanmış ifade.
-
-Doğal makyaj.
-
-Dar kesim siyah deri motosiklet ceketi, koyu renk sürüş pantolonu, siyah eldivenler ve gerçekçi koruyucu sürüş botları giyiyor.
-
-Görünümü, kıyafetleri, kaskı ve motosikleti filmin tamamı boyunca mükemmel bir şekilde tutarlı kalmalıdır.
-
-Bir motosiklet üzerinde poz veren bir moda modeli değil, gerçek bir profesyonel sürücü gibi görünmelidir.
-
-MOTOSİKLET
-
-Devasa premium ağır motosiklet.
-
-Kaslı oranlar.
-
-Büyük motor.
-
-Geniş arka lastik.
-
-Ağır metalik şasi.
-
-Premium siyah ve fırçalanmış metal kaplamalar.
-
-Gerçekçi süspansiyon hareketi.
-
-Görünür motor titreşimi.
-
-Güçlü far.
-
-Yakıt deposunda ince yansımalar.
-
-Motosiklet son derece güçlü ama zarif hissedilmelidir.
-
-Motorun tam tasarımını her çekimde tutarlı tutun.
-
-SAHNE 1 — BİLİNMEYEN YOL
-
-0–5 SANİYE
-
-EXTREME WIDE SINEMATİK ÇEKİM.
-
-Devasa boş bir dağ yolu yoğun sis içinde kayboluyor.
-
-Soğuk sabah erken saat atmosferi.
-
-Rüzgar manzara boyunca esiyor.
-
-Başka hiçbir şey görünmüyor.
-
-Uzaklardan gelen bir motor homurtusu yavaşça yükseliyor.
-
-Ağır bir motosiklet aniden sisten beliriyor.
-
-Kadın sürücü, devasa makine boş yolda ilerlerken tamamen sabit oturuyor.
-
-Kamera yavaşça yaklaşıyor.
-
-KASK İÇİNDE GÖZLERİNİN EXTREME CLOSE-UP'INA GEÇİŞ.
-
-Odaklanmış. Duygusuz.
-
-Uzaklara bakıyor.
-
-Eli gaz kolunu hafifçe sıkıyor.
-
-Motor sesi yükseliyor.
-
-Sürekli hareket ve sesi korurken bir sonraki çekime doğal olarak geçiş yapın.
-
-SAHNE 2 — KOVALAMACA
-
-5–10 SANİYE
-
-Hızlı sinematik dizi.
-
-Motosiklet, virajlı bir dağ yolunda hızlanıyor.
-
-Asfalta neredeyse değen düşük kamera.
-
-Arka lastik, ıslak yoldan küçük su parçacıkları fırlatıyor.
-
-Eldivenli elinin gaz kolunu çevirdiği yakın çekim.
-
-Motor, derin mekanik bir homurtuyla yanıt veriyor.
-
-Botunun vites arasında doğal olarak değiştiği yakın çekim.
-
-Hız göstergesinin yükseldiği yakın çekim.
-
-Geniş havadan çekim tarzı:
-
-Küçük motosiklet, devasa dağ manzarası içinden geçiyor.
-
-Aniden dikiz aynasına bakar.
-
-Uzaklarda onu takip eden bir şey var gibi görünür, ancak asla net olarak ortaya çıkmaz.
-
-Müzik yoğunlaşır.
-
-Daha sert hızlanır.
-
-Siyah ekran veya gereksiz geçişler olmadan çekimler arasında sürekli görsel akışı koruyun.
-
-SAHNE 3 — TEHLİKE
-
-10–16 SANİYE
-
-Hava aniden şiddetlenir.
-
-Yoğun yağmur başlar.
-
-Şimşek dağları kısa süreliğine aydınlatır.
-
-Yol, devasa bir uçurumun yanında dramatik şekilde daralır.
-
-Sürücü yavaşlar.
-
-Büyük düşmüş bir ağaç yolu kısmen kapatır.
-
-Durur.
-
-Bir an için, yağmurda rölantide çalışan motosikletin sesi hariç her şey sessizleşir.
-
-Engeline bakar.
-
-Sonra karanlık ormana kaybolan dar bir toprak patika fark eder.
-
-İnce, özgüvenli bir gülümseme.
-
-Gidonu çevirir.
-
-Ağır motosiklet asfalt yoldan ayrılır.
-
-Devasa lastikler ıslak çakılı ezer.
-
-Çamur ve su tekerleklerin etrafında doğal olarak sıçrar.
-
-Ormana girerken kamera onu yakından takip eder.
-
-Karanlığın daha derinlerine kaybolur.
-
-SAHNE 4 — VARIŞ NOKTASI
-
-16–21 SANİYE
-
-Karanlık orman aniden açılır.
-
-Motosiklet, muhteşem bir dağ seyir noktasına çıkar.
-
-Fırtına dinmiştir.
-
-Altın güneş ışığı bulutların arasından sızar.
-
-Tüm görsel atmosfer, soğuk ve solgundan zengin, sıcak sinematik tonlara dönüşür.
-
-Sürücü yavaşça durur.
-
-Kaskını çıkarır.
-
-Koyu saçları omuzlarının etrafına doğal olarak dökülür.
-
-Devasa ufka bakar.
-
-İlk kez gizem netleşir:
-
-Hiçbir şeyden kaçmıyordu.
-
-Bu yeri arıyordu.
-
-Seyir noktasının kenarına doğru yürür.
-
-Sonra yavaşça motosiklete döner.
-
-SAHNE 5 — MOTOSİKLET KEŞFİ
-
-21–26 SANİYE
-
-Müzik, kısıtlı, neredeyse sessiz bir ana düşer.
-
-Kamera, motosikletin etrafında yavaş, zarif bir sinematik tur atmaya başlar.
-
-Altın güneş ışığı metalik gövde üzerinde süzülür.
-
-Akıcı geçişlerle güzel makro detayları gösterin:
-
-Motor bileşenleri.
-
-Fırçalanmış metal şasi.
-
-Yakıt deposu yansımaları.
-
-Far.
-
-Deri koltuk.
-
-Fren tertibatı.
-
-Geniş arka lastik.
-
-Süspansiyon.
-
-Motor rölantide çalışırken küçük mekanik titreşimler görünür.
-
-Sürücü tekrar motosiklete oturur.
-
-Motoru çalıştırır.
-
-Derin, güçlü mekanik ses dağ manzarasını doldurur.
-
-Gaza kontrollü bir şekilde basar.
-
-DIŞ SES:
-
-“Bazı yollar kolay olmak için değildir.”
-
-Kısa duraksama.
-
-“Onlar hatırlanmak içindir.”
-
-Hikaye sırasında ekranda metin görünmez.
-
-SAHNE 6 — SON KAHRAMAN ÇEKİMİ
-
-26–30 SANİYE
-
-Ultra-premium sinematik kahraman çekimi.
-
-Kadın, dağ seyir noktasının kenarında ağır motosiklette özgüvenle oturuyor.
-
-Arkasında altın rengi batan güneş.
-
-Rüzgar saçlarını ve deri ceketini doğal şekilde hareket ettiriyor.
-
-Motosiklet ön planı domine ediyor.
-
-Kamera yavaşça ön fara doğru itilir.
-
-Far yanar.
-
-Güçlü final kompozisyonu için bekleyin.
-
-Ancak şimdi minimal zarif tipografiyi tanıtın:
-
-YOLLAR İÇİN ÜRETİLDİ.
-
-Kısa bir beklemeden sonra, altına motosiklet marka adını açıklayın.
-
-Final sesi:
-
-TEK DERİN MOTOR REV.
-
-SONDA SADECE SİYAH EKRANA GEÇ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103455049800110080/img/nradV-JDctghwpd8.jpg" width="600" alt="Premium motosiklet sinematik reklam istemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11327)**
-
-**Yazar:** [H A J R A](https://x.com/codewithhajra) | **Kaynak:** [Link](https://x.com/codewithhajra/status/2103455108738539821) | **Yayınlandı:** Sep 25, 2026
-
----
-### Kore Sinematik Zombi Korku Sahnesi İstem Metni
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Terk edilmiş bir çiftlik evinde hayatta kalanlar arasında duygusal bir yüzleşmeyi içeren, fotogerçekçi Kore sinematik zombi korku videosu oluşturmak için detaylı istem metni.
-
-#### 📝 İstem
-
-```
-Terk edilmiş bir çiftlik evinin mutfağında, 16:9 en-boy oranına sahip kısa, fotogerçekçi bir Kore sinematik zombi korku sahnesi oluşturun. Dağınık siyah saçlı, alnında kurumuş kan izleri bulunan ve kirli zeytin yeşili kapüşonlu anorak giyen ağlayan Koreli kadın hayatta kalan, enfekte olmuş sevgilisine siyah bir tabanca doğrultuyor. Titriyor, gözyaşları yüzünden süzülüyor ama tetiği çekemiyor.
-
-Enfekte adam karışık siyah saçlara, soluk ve kirli bir cilde, süt beyazı gözlerine, koyu renkli damarlara, yırtık kıyafetlere ve giderek daha vahşi bir ifadeye sahiptir. Yüksek sesle hırlar ve ona doğru bağırır. Kadın yavaşça tabancayı indirir, yanına bırakır ve kollarını ona doğru açar. Adam aniden tekrar bağırır, öne atılır ve kadının yüzünü şiddetle kavrar.
-
-Sert bir kesme ile aynı çiftin geniş bir buğday tarlasında mutlu anılarla dolu sıcak altın saat hatıralarına geçiş yapın — gülüyorlar, birbirlerine sarılıyorlar, altın rengi otların arasında el ele yürüyorlar ve gün batımının altında birlikte oturuyorlar. Soğuk şimdiki zaman ile güzel anılar arasındaki kontrastı duygusal olarak güçlü hale getirin.
-
-Fotogerçekçi canlı aksiyon sineması, doğal cilt ve gözyaşları, gerçekçi enfekte gözler ve facial ifadeler, el kamerası, pratik efektli korku, 35mm film greni, inandırıcı hareket ve aydınlatma. Silah sesi yok, aşırı kan yok, diyalog yok, ağır çekim yok, ekstra olay örgüsü yok, CGI görünümü yok, animasyon yok, bozuk anatomi yok, mükerrer karakterler yok, altyazı yok, metin yok, filigran yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103422758864719872/img/uyeU0c2yFYwSrEq_.jpg" width="600" alt="Kore Sinematik Zombi Korku Sahnesi İstem Metni">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11320)**
-
-**Yazar:** [ORHAN](https://x.com/OrhanGhazi65942) | **Kaynak:** [Link](https://x.com/OrhanGhazi65942/status/2103422813743046993) | **Yayınlandı:** Sep 25, 2026
-
----
-### Devasa Ağacın Etrafındaki Köyün Zaman Atlamalı Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eski bir ağacın etrafında inşa edilen bir köyü gösteren, 30 saniyelik dikey fotogerçekçi minyatür inşaat zaman atlaması için bir istem.
-
-#### 📝 İstem
-
-```
-Tek bir devasa eski ağacın etrafına fiziksel olarak inşa edilmiş muhteşem bir köyü gösteren, 30 saniyelik dikey 9:16 ultra-fotogerçekçi minyatür inşaat zaman atlaması oluştur: Yüzlerce küçük, gerçekçi yetişkin işçi sürekli görünür durumda; aletler, merdivenler, halatlar, arabalar ve minyatür vinçlerle aynı anda çalışıyorlar. Hızlı ama okunabilir bir inşaat süreci, makro sinematik fotoğrafçılık, doğal güneş ışığı, gerçekçi ahşap, taş, toprak, yosun ve bitki örtüsü, 4K HDR, canlı çekim gerçekçiliği.
-
-0–2s: İşçiler zemini temizler, temelleri işaretler ve devasa ağacın köklerinin etrafını kazır.
-
-2–4s: Temel taşları ve ahşap zemin kirişleri yerleştirilir; işçiler ilk ahşap direkleri diker.
-
-4–6s: Duvar panelleri, döşeme tahtaları ve destek kirişleri parça parça monte edilir.
-
-6–8s: İşçiler çatı makaslarını kaldırır, eğimli çatıları inşa eder ve ahşap kiremitleri tek tek yerleştirir.
-
-8–10s: Ekipler gövdeye tırmanır ve devasa dalların etrafında yükseltilmiş platformlar inşa eder.
-
-10–12s: İşçiler duvarları, pencereleri, kapıları, balkonları ve çatıları takarken ağaç evler yükselir.
-
-12–14s: İşçiler ağaç evleri birbirine bağlayan ahşap köprüleri ve spiral merdivenleri inşa eder.
-
-14–16s: Daha fazla kulübe, temelinden çatısına kadar devasa ağacın dışına doğru fiziksel olarak inşa edilir.
-
-16–18s: Yüzlerce işçi taş yollar, çitler ve küçük bir ahşap dere köprüsü kurar.
-
-18–20s: Ağacın altında tezgahlar, bankolar ve depolama kulübeleriyle bir pazar yeri kurulur.
-
-20–22s: Daha yüksek platformlar, balkonlar ve birbirine bağlı ağaç evler dallar arasına doğru genişler.
-
-22–24s: İşçiler korkulukları, merdivenleri, halat köprülerini, fener direklerini ve çiçek kutularını yerleştirir.
-
-24–26s: Ekipler taşları yerleştirir, çiçekler ve ağaçlar diker, bahçeler oluşturur ve kıvrımlı yolları tamamlar.
-
-26–28s: Son inşaat detayları sabitlenirken yüzlerce işçi malzeme taşımaya ve tüm köy genelinde çalışmaya devam eder.
-
-28–30s: Altın saat aydınlatmasıyla final sahnesi. Küçük köylüler köprülerden ve patikalardan geçerken kamera yumuşakça geriye çekilir ve yükselir; tamamlanmış çok katmanlı köyle çevrili devasa eski ağacı ortaya çıkarır.
-
-TEMEL KURAL: Her 2 saniyede yeni bir görünür inşaat aşaması başlarken önceki ekipler çalışmaya devam eder. Binalar gözle görülür şekilde ilerlemelidir: temel → kirişler → duvarlar → çatı → detaylar. Anlık tamamlanma yok.
-
-NEGATİF: çizgi film, oyuncak, plastik, CGI görünümü, sihirli inşaat, anlık belirmeler, şekil değiştirme, ışınlanma, havada süzülen nesneler, kaybolan malzemeler, kopyalanmış işçiler, dev insanlar, çocuklar, anatomik hatalar, değişen ağaç, tutarsız mimari, boş sahneler, metin, logolar, filigran.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103399617383825408/img/eZVzam3YTDOfq84q.jpg" width="600" alt="Devasa Ağacın Etrafındaki Köyün Zaman Atlamalı Videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11332)**
-
-**Yazar:** [Maverick | AI](https://x.com/RizwanAly07) | **Kaynak:** [Link](https://x.com/RizwanAly07/status/2103399820824289472) | **Yayınlandı:** Sep 25, 2026
-
----
-### Müze Canavarı Korku Aksiyon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir müze vitrininden kaçan bir canavarın yer aldığı sinematik korku-aksiyon kısa filmi için detaylı zaman çizelgesine dayalı prompt.
-
-#### 📝 İstem
-
-```
-Sinematik korku-aksiyon kısa filmi, bir müze sergi salonunda geçer; anında güçlü bir kanca ile açılır, maksimum dinamik kamera hareketleri ve gerçekçi pratik efektler tarzı. Müze, çeşitli canavar sergilerini içeren cam vitrinlerle doludur — uzaylı figürleri, korunmuş örnekler, mitolojik varlıklar — ziyaretçiler dramatik sergi ışıkları altında vitrinleri hayranlıkla izleyerek yürümektedir. Soluk otantik renk düzenlemesi, doğal diegetik ses kullanımı, gerilim müziği hemen devreye girer.
->
-> **[0-1s]** Sert kesme: Bir cam vitrin şiddetle çatlar, ardından dışa doğru parçalanır.
->
-> **[1-2s]** Gölge hayaleti benzeri bir yaratık ortaya çıkar — yarı saydam, duman gibi bir form, pençeli uzuvlar, parlayan kırmızı gözler.
->
-> **[2-3s]** Doğal olmayan bir hızla en yakın ziyaretçiye atılır, mesafeyi anında kapatır.
->
-> **[3-4s]** Ziyaretçi sertçe yere savrulur, hareketsiz şekilde yere düşer.
->
-> **[4-5s]** Yakındaki ziyaretçiler çığlık atar, sergiden geriye doğru panikle kaçar.
->
-> **[5-6s]** Yaratık hızlıca döner, ikinci bir ziyaretçiyi aynı hızla yere serer.
->
-> **[6-7s]** Panik salona yayılır, insanlar çıkışlara doğru koşar.
->
-> **[7-8s]** İki güvenlik görevlisi silahları çekilmiş halde içeri girer, kaos ortamını tarar.
->
-> **[8-9s]** Yaratığın konumuna ateş ederler, ancak yaratık doğal olmayan bir hız patlamasıyla hareket eder.
->
-> **[9-10s]** Atışlar tamamen ıskalar, yaratığın durduğu yerin arkasındaki bir vitrine isabet eder.
->
-> **[10-11s]** Yaratık, sergiler arasındaki gölgelere kaybolur, görüş alanından çıkar.
->
-> **[11-12s]** Geniş açı çekim: Ziyaretçiler sütunların ve vitrinlerin arkasına saklanır, güvenlik görevlileri temkinli bir şekilde dağılır.
->
-> **[12-14s]** Daha fazla güvenlik görevlisi gelir, salonda yavaş ve dikkatli bir arama hattı oluştururlar.
->
-> **[14-16s]** Takip çekimi: Görevliler sergiler arasında kasıtlı olarak ilerler, silahları havada, her gölgeyi tarar.
->
-> **[16-17s]** Bir görevlinin el feneri, karanlık bir köşede kırmızı gözlerin kısa bir görüntüsünü yakalar.
->
-> **[17-18s]** Yaratık aniden ortaya fırlar, iki görevliyi üst üste yere serer.
->
-> **[18-19s]** Kalan görevliler geri çekilir, merkezi bir serginin yanında hızla yeniden toplanır.
->
-> **[19-20s]** AĞIR ÇEKİM (SLOW MOTION) ekleme: Yaratık baş görevliye döner, öne doğru hamle yapar.
->
-> **[20-21s]** Baş görevli pozisyonunu korur, tehlikeye rağmen hareketini dikkatle takip eder.
->
-> **[21-22s]** Yaratık yaklaşırken hassas ve doğru bir atış yapar.
->
-> **[22-23s]** Atış tam isabet eder, yaratığın formu şiddetle titrer.
->
-> **[23-24s]** Yaratık sendeler, yarı saydam bedeni hızla çözülür.
->
-> **[24-25s]** Yaratık yere düşer, formu duman halinde dağılır.
->
-> **[25-26s]** Salonda sessizlik hakim olur, sadece kırık camların hışırtısı duyulur.
->
-> **[26-27s]** Güvenlik görevlileri etrafı kontrol eder, yaratığın gerçekten yok olduğundan emin olmaya çalışır.
->
-> **[27-28s]** Bir görevli, yerde kalan son duman bulutuna bakar, endişeli bir ifadeyle başını sallar.
->
-> **[28-29s]** Kamera yavaşça yükselir, hasar görmüş salonu ve şoktaki insanları gösterir.
->
-> **[29-30s]** Karartma: Film biter.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103363374046429184/img/5AwgBF7THBLxOxpO.jpg" width="600" alt="Müze Canavarı Korku Aksiyon">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11331)**
-
-**Yazar:** [auqib](https://x.com/auqibhabib) | **Kaynak:** [Link](https://x.com/auqibhabib/status/2103363732965556355) | **Yayınlandı:** Sep 25, 2026
-
----
-### Sinematik Kış Kulübesi Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sıcak bir kış kulübesindeki bir kadının gerçekçi sinematik videosunu oluşturmak için, belirli kamera hareketleri ve atmosferik detaylar içeren ayrıntılı bir istem.
-
-#### 📝 İstem
-
-```
-Muhteşem karla kaplı dağ manzarasıyla çevrili, sıcak ahşap bir kulübede huzurlu bir şekilde vakit geçiren bir kadının son derece gerçekçi sinematik kış videosunu oluşturun. Sıcak altın rengi güneş ışığının pencereden yumuşakça yüzüne vurduğu, kadının içeride huzurla dinlendiği samimi bir yakın çekimle başlayın. Karlı kulübe balkonunun, uzun çam ağaçlarının, uzaktaki dağların ve manzaranın üzerinde parlayan sıcak gün doğumunun geniş sinematik görünümüne geçiş yapın. Kadın onları beslemek için nazikçe elini uzatırken, küçük kuşların uçtuğunu ve karla kaplı ahşap korkuluğa konduğunu gösterin. Detaylı kar dokularını, doğal kuş hareketlerini, hafif kış rüzgarını ve gerçekçi güneş ışığını yakalayın. Ardından onu, pencere kenarında geleneksel bir demliğin yanında sıcak bir bardak çay hazırlarken gösterin. Elleri, buharı tüten bardak, rahat örgü kazak ve dışarıdaki huzurlu kar manzarasına odaklanın. Sıcak krem rengi bir kazak ve koyu renk pantolon giymiş halde karla kaplı ahşap patikada yavaşça yürürken onu takip edin. Sakin karla kaplı kulübelerin, çam ormanının, dağların ve uzaktan parlayan gün batımının veya gün doğumunun geniş sinematik havadan görünümüyle bitirin. Fotogerçekçi dokular, doğal insan hareketleri, gerçekçi aydınlatma, ince alan derinliği, akıcı kamera hareketleri, atmosferik kış detayları ve otantik sinematik renk düzenlemesi kullanarak tüm videonun AI ile üretilmiş değil de gerçek hayat görüntüsü gibi hissettirmesini sağlayın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103359076004691968/img/ivUZ2Dqzi2ShtzCi.jpg" width="600" alt="Sinematik Kış Kulübesi Video İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11230)**
-
-**Yazar:** [liana](https://x.com/Lianaalane) | **Kaynak:** [Link](https://x.com/Lianaalane/status/2103359307874226667) | **Yayınlandı:** Sep 25, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -6582,6 +6223,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-11T04:49:39.250Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-11T15:09:47.586Z</sub>
 
 </div>

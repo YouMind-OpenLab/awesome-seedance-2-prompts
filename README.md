@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6521** |
+| 📝 Total Prompts | **6526** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-10-11** |
 
@@ -365,6 +365,134 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Fiery Female Warrior Cinematic Action Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a 15-second ultra-realistic cinematic fantasy action video featuring a female warrior with silver hair and glowing eyes, wielding a spear amidst blazing flames on a dark battlefield.
+
+#### 📝 Prompt
+
+```
+Created a 15-second ultra-realistic cinematic fantasy action video featuring a powerful female warrior with long silver hair, glowing golden eyes, and a stylish black battle outfit, holding a massive spear surrounded by blazing orange flames. She rushes forward across a dark battlefield, performing fast and powerful weapon attacks with glowing fiery trails and flying sparks. The camera follows her movements smoothly, capturing dramatic close-ups, wide action shots, and intense combat moments. She jumps high into the air, spinning her spear as magical fire energy gathers around her body. She strikes the ground with incredible force, creating a massive explosion of flames, smoke, and glowing embers. Her silver hair flows naturally in the wind while her golden eyes shine with fierce determination. The battlefield lights up with orange energy as enemies disappear into the smoke. End with a dramatic heroic pose, her spear glowing brightly as fire swirls around her. Maintain consistent character details, realistic movement, cinematic lighting, smooth transitions, and stunning high-quality visual effects throughout the entire video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109136974116499456/img/snE8D7hQi20LDhvy.jpg" width="600" alt="Fiery Female Warrior Cinematic Action Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12303)**
+
+**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2109137173224337478) | **Published:** Oct 11, 2026
+
+---
+### Medieval Female Archer Forest Ride
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed prompt for a 15-second medieval fantasy film featuring a female archer riding through a misty pine forest, drawing her bow, and arriving at a camp. Includes specific cinematography and physics instructions.
+
+#### 📝 Prompt
+
+```
+Create a 15-second ultra-realistic, high-budget medieval fantasy film featuring a beautiful, fierce female archer with long, loose brown hair, wearing historically inspired dark brown leather armor, fur-trimmed shoulders, a rugged medieval outfit, a leather belt, and a quiver full of arrows strapped across her back. She rides a muscular black horse through a dense ancient pine forest filled with thick atmospheric fog, moss-covered ground, scattered rocks, and towering trees. Begin immediately with a wide cinematic rear shot of the warrior riding her horse along a narrow forest trail as warm golden sunlight pierces through the trees, creating dramatic volumetric light rays and a mysterious atmosphere. The camera follows smoothly behind the horse as its hooves move naturally over the uneven ground, disturbing small leaves, dirt, and moss. Transition into a dramatic low-angle side close-up of the female warrior holding a traditional curved black bow, drawing the bowstring backward with a single arrow, and aiming with intense concentration. Her arm muscles tense naturally, the bow bends under realistic tension, and her hair and fur-trimmed clothing respond to the cool forest breeze. Capture her determined facial expression, realistic skin texture, detailed leather armor, and the individual arrows in her quiver. In the final seconds, transition to a wide rear tracking shot as she rides into a hidden medieval encampment surrounded by towering evergreen trees, rustic tents, wooden structures, and groups of warriors wearing authentic medieval clothing and armor. The warriors turn toward her arrival, creating the atmosphere of a legendary chieftain returning to her people. Maintain consistent character identity, outfit, horse appearance, and realistic body proportions throughout every shot. Use cinematic camera transitions, natural horse locomotion, accurate equestrian anatomy, realistic gravity, inertia, muscle movement, cloth simulation, and physically believable lighting. Premium Hollywood medieval fantasy cinematography, photorealistic textures, atmospheric fog, muted earthy colors, dramatic natural lighting, subtle film grain, shallow depth of field, 4K quality, 24 FPS, immersive environmental sound effects of horse hooves, leather movement, wind through pine trees, and distant camp ambience. No modern objects, no cartoon effects, no subtitles, no text, no logos, and no watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109123010812870656/img/EHX4CdPkZ_XLXU_e.jpg" width="600" alt="Medieval Female Archer Forest Ride">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12304)**
+
+**Author:** [Ayat](https://x.com/aiwithaayat) | **Source:** [Link](https://x.com/aiwithaayat/status/2109123171408560343) | **Published:** Oct 11, 2026
+
+---
+### Korean Coastal Village Vlog Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a 30-second cinematic lifestyle vlog featuring a young woman walking through a traditional Korean coastal village at sunset, emphasizing realistic motion and lighting.
+
+#### 📝 Prompt
+
+```
+Create a 30-second ultra-realistic cinematic lifestyle vlog featuring a beautiful young Korean woman with natural makeup and long dark hair tied in a ponytail. She wears a loose cream-colored jacket, beige trousers, white sneakers, and carries a brown shoulder bag while holding her smartphone and a small brown paper bag.
+
+Scene 1 (0–5 seconds): Start with a wide establishing shot of a traditional Korean coastal village. The girl steps out of an old village house while checking her phone. Narrow stone pathways, weathered wooden doors, potted flowers, and rustic architecture create an authentic atmosphere.
+
+Scene 2 (5–10 seconds): Follow her from behind as she walks slowly through the narrow village alley. She notices a colorful rainbow kite leaning against a fence, pauses to look at it, and gently reaches toward it. Her hair and loose jacket move naturally in the sea breeze.
+
+Scene 3 (10–17 seconds): Capture natural close-up and medium shots as she continues walking through the peaceful neighborhood. Show her holding her phone and paper bag, passing old houses, stone walls, flowering plants, and charming village details. Use subtle handheld camera movements and realistic depth of field.
+
+Scene 4 (17–24 seconds): Transition to a beautiful coastal walkway beside the ocean. The camera follows her from behind as she walks along the stone path, with dark volcanic rocks and gentle waves on one side and traditional village houses on the other. Her shoulder bag swings naturally with each step.
+
+Scene 5 (24–30 seconds): End with a wide cinematic shot of the girl walking toward the glowing sunset beside the sea. Golden sunlight illuminates her hair and cream-colored jacket. The ocean reflects the warm evening light as she slows down to admire the view, creating a calm, beautiful, nostalgic ending.
+
+Visual style: Photorealistic Korean lifestyle film, natural golden-hour lighting, warm muted colors, authentic coastal village atmosphere, realistic skin texture, gentle handheld tracking shots, natural camera movement, 4K quality, 24 FPS, cinematic composition, realistic human motion and physics.
+
+Audio: Natural ocean waves, soft sea breeze, footsteps on the stone path, and subtle village ambience. No background music, no narration, no subtitles, no text, no logos, and no watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109121015112667136/img/fLkLHTsqM6vemF7q.jpg" width="600" alt="Korean Coastal Village Vlog Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12302)**
+
+**Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2109121097803374790) | **Published:** Oct 11, 2026
+
+---
+### Xianxia Comedy Video Prompt for Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for generating a 10-second Xianxia (cultivation) comedy video with two characters, designed specifically for Seedance 2.0's multi-shot generation and spatial audio capabilities. Includes character locks, scene descriptions, dialogue, and negative constraints.
+
+#### 📝 Prompt
+
+```
+10-second video. [Style] Poetic Xianxia deadpan reversal comedy, realistic high-definition cinematic texture, classical Chinese architectural spatial composition, restrained performance, cool mountain mist, warm evening rim lighting, low-saturation jade green and ivory tones, fine film grain; completes the reversal through "setup-misdirection-off-screen twist" sound narrative. Designed for Seedance 2.0's reference image locking, multi-shot continuous generation, and synchronized spatial audio. Only two visible characters appear throughout, establishing a pure ancient Chinese world with no modern elements.
+
+[Characters]
+Character A strictly locked using @Image 1: The same 25-30 year old East Asian sword immortal senior sister, oval face, fair skin, dark apricot eyes, black hair half-tied secured with a white jade hairpin, tall and slender figure, wearing white embroidered silk Hanfu, layered semi-transparent wide sleeves, silver waist seal, jade pendant, and white cloth boots.
+Character B strictly locked using @Image 2: The same 20-25 year old East Asian junior sister, round lively face, black braided hair, petite figure, wearing cyan-green linen Hanfu, dark cloth belt, wooden hairpin, and black cloth shoes.
+
+[Shot 1 | 0-3s | Low-angle panoramic lateral tracking]
+A quiet sect stone platform above the sea of clouds. Stone railings, an ancient echo wall, nine hanging bronze bells, coiled ancient pines, prayer strips fluttering in the wind, and distant tiled roofs establish a clear stable spatial relationship. The sword immortal senior sister in white embroidered silk Hanfu stands beside the cyan-robed junior sister, cautiously looking around with a confident expression ready to share a secret; mountain breeze gently moves their hair, sleeves, strips, and mist.
+
+[Shot 2 | 3-6s | Two-person medium shot]
+The senior sister raises two fingers, forms a small voice-transmission seal at her mouth, and whispers: "I'll tell you a secret, Master ate three pieces of osmanthus cake last night." A thin light-blue sound wave flies precisely to the junior sister's ear; she instantly widens her eyes, covers her mouth with her hand, struggling to hold back laughter.
+
+[Shot 3 | 6-10s | Close-up following reveal to extreme close-up]
+The same sound wave doesn't stop in time, passes over the junior sister and hits the ancient echo wall, then bounces sequentially through the nine bronze bells, spreading the whispered words as a huge echo across the valley: "Master ate three pieces of osmanthus cake last night—" The nine bronze bells vibrate in sequence, birds on distant roof ridges startle and scatter. From the main hall direction comes a light cough from an invisible elder, followed by a calm question: "Who ate the fourth piece?" The senior and junior sisters freeze simultaneously. Extreme close-up: The senior sister's raised two fingers slowly curl, one eyebrow twitches slightly, she silently looks at the junior sister; the junior sister's cheeks puff out visibly. Ends with a very light, guilty swallowing sound.
+
+[Technical Requirements]
+Strict total duration 10 seconds, 16:9 landscape, three clear shots, native Mandarin dialogue, accurate lip-sync, whispered words have clear directional movement, bronze bell echo layers are distinct, character faces and clothing remain stable, motion directions are coherent. Mountain mist, silk fabric, hair, copper bells, prayer strips, and sound waves move naturally. No subtitles generated, no additional visible characters added.
+
+[Negative Words]
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108920849994821632/img/FVH4RLpzE6YKZlgi.jpg" width="600" alt="Xianxia Comedy Video Prompt for Seedance 2.0">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12305)**
+
+**Author:** [superfang119](https://x.com/superfang119) | **Source:** [Link](https://x.com/superfang119/status/2108921025098584072) | **Published:** Oct 10, 2026
+
+---
+### Knitted Wool Creature Rainy Rooftop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comparison post testing five video models (including Seedance 2.0) with the same prompt about a tiny knitted wool creature tiptoeing on a rainy neon rooftop. The prompt is explicitly shared in the text.
+
+#### 📝 Prompt
+
+```
+a tiny knitted wool creature with three button eyes and long noodle arms tiptoes across a rainy neon-lit rooftop at night, stops, looks straight at the camera, and pops open a miniature umbrella made from a leaf
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108687552165359616/img/UJcNTYyE79TlkLNe.jpg" width="600" alt="Knitted Wool Creature Rainy Rooftop">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12263)**
+
+**Author:** [Korpi AI](https://x.com/KorpiAi) | **Source:** [Link](https://x.com/KorpiAi/status/2108687594913738792) | **Published:** Oct 9, 2026
+
+---
 ### Kid Animation Cloud Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6671,487 +6799,6 @@ Ultra-premium fragrance advertising, cinematic 35mm look, realistic skin and fab
 **Author:** [Meenakshi Yadav](https://x.com/MeenakshiYACS) | **Source:** [Link](https://x.com/MeenakshiYACS/status/2103462025871372380) | **Published:** Sep 25, 2026
 
 ---
-### Premium motorcycle cinematic ad prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for a high-budget cinematic motorcycle advertisement featuring a mystery-to-reveal narrative arc.
-
-#### 📝 Prompt
-
-```
-Create a 30-second premium cinematic advertisement centered around a powerful heavy motorcycle and a striking adult female rider.
-
-The film should initially feel like a serious, high-budget cinematic action thriller — NOT a motorcycle commercial.
-
-For the first 20 seconds, create mystery and tension. The audience should wonder where she is going, what she is searching for, and why she is riding alone through such a dangerous environment.
-
-The motorcycle should feel heavy, powerful, expensive and mechanically realistic.
-
-The story should naturally build from:
-
-MYSTERY → PURSUIT → DANGER → DESTINATION → REVEAL → HERO PRODUCT
-
-Do NOT copy any existing advertisement, film, commercial, character, composition, scene or visual sequence. Create an entirely original story.
-
-VISUAL STYLE
-
-Photorealistic cinematic filmmaking.
-
-Premium high-budget automotive commercial production.
-
-Large-format cinema look with 35mm anamorphic photography.
-
-Deep cinematic contrast, natural skin texture, realistic motorcycle materials, metal, leather, glass and rubber.
-
-Realistic engine vibration, suspension movement and mechanical motion.
-
-Subtle film grain, natural motion blur and realistic environmental lighting.
-
-No cartoon appearance.
-No generic AI aesthetic.
-The motorcycle must remain physically believable and visually consistent throughout the entire film.
-
-Use dramatic wide landscapes contrasted with intimate close-ups.
-
-The color palette begins cold and desaturated and gradually transitions into rich, warm golden tones toward the final reveal.
-
-MAIN CHARACTER
-
-A strikingly beautiful adult woman in her late 20s.
-
-Dark flowing hair naturally tucked beneath a premium black motorcycle helmet.
-
-Confident, focused expression.
-
-Natural makeup.
-
-She wears a fitted black leather motorcycle jacket, dark riding pants, black gloves and realistic protective riding boots.
-
-Her appearance, clothing, helmet and motorcycle remain perfectly consistent throughout the entire film.
-
-She should look like a real professional rider, not a fashion model posing on a motorcycle.
-
-MOTORCYCLE
-
-A massive premium heavy motorcycle.
-
-Muscular proportions.
-
-Large engine.
-
-Wide rear tire.
-
-Heavy metallic frame.
-
-Premium black and brushed-metal finishes.
-
-Realistic suspension movement.
-
-Visible engine vibration.
-
-Powerful headlight.
-
-Subtle reflections across the fuel tank.
-
-The motorcycle should feel extremely powerful but elegant.
-
-Keep the exact motorcycle design consistent throughout every shot.
-
-SCENE 1 — THE UNKNOWN ROAD
-
-0–5 SECONDS
-
-EXTREME WIDE CINEMATIC SHOT.
-
-A gigantic empty mountain road disappears into dense fog.
-
-Cold early-morning atmosphere.
-
-Wind moves across the landscape.
-
-Nothing else is visible.
-
-A distant engine roar slowly grows louder.
-
-A heavy motorcycle suddenly emerges from the fog.
-
-The female rider sits completely steady as the enormous machine moves through the empty road.
-
-Camera gradually moves closer.
-
-CUT TO an extreme close-up of her eyes inside the helmet.
-
-Focused. Unemotional.
-
-She looks toward something far ahead.
-
-Her hand subtly tightens around the throttle.
-
-The engine note rises.
-
-Transition naturally into the next shot while maintaining continuous motion and sound.
-
-SCENE 2 — THE PURSUIT
-
-5–10 SECONDS
-
-Rapid cinematic sequence.
-
-The motorcycle accelerates through a winding mountain road.
-
-Low camera almost touching the asphalt.
-
-The rear tire throws tiny particles of water from the wet road.
-
-Close-up of her gloved hand twisting the throttle.
-
-The engine responds with a deep mechanical roar.
-
-Close-up of her boot shifting naturally through the gear.
-
-Close-up of the speedometer climbing.
-
-Wide aerial-style shot:
-
-The tiny motorcycle cuts through an enormous mountain landscape.
-
-She suddenly checks her rear-view mirror.
-
-Something appears to be following her in the far distance, but it is never clearly revealed.
-
-Music intensifies.
-
-She accelerates harder.
-
-Maintain continuous visual flow between shots with no black frames or unnecessary transitions.
-
-SCENE 3 — THE DANGER
-
-10–16 SECONDS
-
-The weather suddenly becomes violent.
-
-Heavy rain begins.
-
-Lightning briefly illuminates the mountains.
-
-The road narrows dramatically beside a massive cliff.
-
-The rider slows.
-
-A large fallen tree partially blocks the road.
-
-She stops.
-
-For a moment, everything becomes quiet except the motorcycle idling in the rain.
-
-She looks at the obstacle.
-
-Then notices a narrow dirt path disappearing into the dark forest.
-
-A subtle confident smile.
-
-She turns the handlebars.
-
-The heavy motorcycle leaves the paved road.
-
-The massive tires crush wet gravel.
-
-Mud and water splash naturally around the wheels.
-
-The camera follows closely as she enters the forest.
-
-She disappears deeper into the darkness.
-
-SCENE 4 — THE DESTINATION
-
-16–21 SECONDS
-
-The dark forest suddenly opens.
-
-The motorcycle emerges onto a spectacular mountain overlook.
-
-The storm has cleared.
-
-Golden sunlight breaks through the clouds.
-
-The entire visual atmosphere transforms from cold and desaturated into rich, warm cinematic tones.
-
-The rider slowly stops.
-
-She removes her helmet.
-
-Her dark hair falls naturally around her shoulders.
-
-She looks toward the enormous horizon.
-
-For the first time, the mystery becomes clear:
-
-She wasn't running from anything.
-
-She was searching for this place.
-
-She walks toward the edge of the overlook.
-
-Then slowly turns back toward the motorcycle.
-
-SCENE 5 — THE MOTORCYCLE REVEAL
-
-21–26 SECONDS
-
-The music drops into a restrained, almost silent moment.
-
-The camera begins a slow, elegant cinematic orbit around the motorcycle.
-
-Golden sunlight glides across the metallic bodywork.
-
-Show beautiful macro details through fluid transitions:
-
-Engine components.
-
-Brushed-metal frame.
-
-Fuel tank reflections.
-
-Headlight.
-
-Leather seat.
-
-Brake assembly.
-
-Wide rear tire.
-
-Suspension.
-
-Small mechanical vibrations are visible while the engine idles.
-
-The rider sits back on the motorcycle.
-
-She starts the engine.
-
-A deep, powerful mechanical sound fills the mountain landscape.
-
-She gives the throttle one controlled twist.
-
-VOICEOVER:
-
-“Some roads aren't meant to be easy.”
-
-Brief pause.
-
-“They're meant to be remembered.”
-
-No text appears on screen during the story.
-
-SCENE 6 — FINAL HERO SHOT
-
-26–30 SECONDS
-
-Ultra-premium cinematic hero shot.
-
-The woman sits confidently on the heavy motorcycle at the edge of the mountain overlook.
-
-Golden sunset behind her.
-
-Wind moves her hair and leather jacket naturally.
-
-The motorcycle dominates the foreground.
-
-The camera slowly pushes toward the front headlight.
-
-The headlight switches on.
-
-Hold for a powerful final composition.
-
-Only now introduce minimal elegant typography:
-
-BUILT FOR THE ROAD.
-
-After a brief beat, reveal the motorcycle brand name beneath it.
-
-Final sound:
-
-ONE DEEP ENGINE REV.
-
-CUT TO BLACK ONLY AT THE VERY END.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103455049800110080/img/nradV-JDctghwpd8.jpg" width="600" alt="Premium motorcycle cinematic ad prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11327)**
-
-**Author:** [H A J R A](https://x.com/codewithhajra) | **Source:** [Link](https://x.com/codewithhajra/status/2103455108738539821) | **Published:** Sep 25, 2026
-
----
-### Korean cinematic zombie horror scene prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a photorealistic Korean cinematic zombie-horror video featuring an emotional confrontation between survivors in an abandoned farmhouse.
-
-#### 📝 Prompt
-
-```
-Create a short 16:9 photorealistic Korean cinematic zombie-horror scene in an abandoned farmhouse kitchen. A crying female survivor from Korea with messy dark hair, dried blood on her forehead, and a dirty olive-green hooded anorak aims a black pistol at her infected lover. She is trembling, tears running down her face, but cannot pull the trigger.
-
-The infected man has tangled dark hair, pale dirty skin, milky-white eyes, dark veins, torn clothing, and an increasingly feral expression. He snarls loudly and screams directly at her. She slowly lowers the pistol, drops it beside her, and opens her arms toward him. He suddenly screams again, lunges forward and violently grabs her face.
-
-Hard smash-cut to warm golden-hour memories of the same couple happily together in a vast wheat field — laughing, holding each other, walking hand-in-hand through the golden grass, and sitting together beneath the sunset. Make the contrast between the cold present and beautiful memories emotionally powerful.
-
-Photorealistic live-action cinema, natural skin and tears, realistic infected eyes and facial expressions, handheld camera, practical-effects horror, 35mm film grain, believable movement and lighting. No gunshot, no gore, no dialogue, no slow motion, no extra plot, no CGI look, no animation, no distorted anatomy, no duplicate characters, no subtitles, no text, no watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103422758864719872/img/uyeU0c2yFYwSrEq_.jpg" width="600" alt="Korean cinematic zombie horror scene prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11320)**
-
-**Author:** [ORHAN](https://x.com/OrhanGhazi65942) | **Source:** [Link](https://x.com/OrhanGhazi65942/status/2103422813743046993) | **Published:** Sep 25, 2026
-
----
-### Village Around Giant Tree Timelapse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a 30-second vertical photorealistic miniature construction timelapse showing a village being built around an ancient tree.
-
-#### 📝 Prompt
-
-```
-Create a 30-second vertical 9:16 ultra-photorealistic miniature construction time-lapse: a spectacular village physically built around ONE enormous ancient tree. Hundreds of tiny realistic adult workers are visible continuously, working simultaneously with tools, ladders, ropes, carts and miniature cranes. Fast but readable construction, macro cinematic photography, natural sunlight, realistic wood, stone, soil, moss and vegetation, 4K HDR, live-action realism.
-
-0–2s: Workers clear the ground, mark foundations and dig around the giant tree roots.
-
-2–4s: Foundation stones and wooden floor beams are placed; workers erect the first timber posts.
-
-4–6s: Wall panels, floorboards and support beams are assembled piece-by-piece.
-
-6–8s: Workers lift rafters, build pitched roofs and place wooden shingles one-by-one.
-
-8–10s: Teams climb the trunk and construct elevated platforms around the massive branches.
-
-10–12s: Treehouses rise as workers install walls, windows, doors, balconies and roofs.
-
-12–14s: Workers build wooden bridges and spiral staircases connecting the treehouses.
-
-14–16s: More cottages are physically constructed outward from the giant tree, foundation-to-roof.
-
-16–18s: Hundreds of workers lay stone pathways, fences and a small wooden stream bridge.
-
-18–20s: A marketplace is assembled beneath the tree with stalls, counters and storage huts.
-
-20–22s: Higher platforms, balconies and connected treehouses expand through the branches.
-
-22–24s: Workers install railings, ladders, rope bridges, lantern posts and flower boxes.
-
-24–26s: Teams place stones, plant flowers and trees, create gardens and finish winding paths.
-
-26–28s: Final construction details are secured while hundreds of workers continue moving materials and working across the entire village.
-
-28–30s: Golden-hour reveal. Tiny villagers cross bridges and paths as the camera smoothly pulls backward and rises, revealing the enormous ancient tree surrounded by the completed multi-level village.
-
-KEY RULE: Every 2 seconds introduces a NEW visible construction stage while previous teams continue working. Buildings must visibly progress foundation → beams → walls → roof → details. No instant completion.
-
-NEGATIVE: cartoon, toy, plastic, CGI look, magical construction, instant appearance, morphing, teleportation, floating objects, disappearing materials, duplicated workers, giant humans, children, anatomy glitches, changing tree, inconsistent architecture, empty scenes, text, logos, watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103399617383825408/img/eZVzam3YTDOfq84q.jpg" width="600" alt="Village Around Giant Tree Timelapse">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11332)**
-
-**Author:** [Maverick | AI](https://x.com/RizwanAly07) | **Source:** [Link](https://x.com/RizwanAly07/status/2103399820824289472) | **Published:** Sep 25, 2026
-
----
-### Museum Creature Horror Action
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed timeline-based prompt for a cinematic horror-action short film featuring a creature escaping a museum display case.
-
-#### 📝 Prompt
-
-```
-Cinematic horror-action short film set in a museum exhibit hall, opens with an immediate strong hook, maximum dynamic camera work, grounded practical-effects style. Museum filled with glass display cases containing various creature exhibits — alien figures, preserved specimens, mythical beings — visitors walking through admiring the displays under dramatic exhibit lighting. Muted authentic color grading, natural diegetic sound throughout, tension score entering immediately.
->
-> **[0-1s]** Hard cut: one glass display case cracks violently, then shatters outward.
->
-> **[1-2s]** A shadow-wraith creature emerges — translucent, smoke-like form, clawed limbs, glowing red eyes.
->
-> **[2-3s]** It lunges at the nearest visitor with unnatural speed, closing the distance instantly.
->
-> **[3-4s]** He's knocked down hard, collapsing to the floor motionless.
->
-> **[4-5s]** Nearby visitors scream, scrambling back from the exhibit.
->
-> **[5-6s]** The creature turns fast, striking down a second visitor just as quickly.
->
-> **[6-7s]** Panic spreads through the hall, people sprinting toward the exits.
->
-> **[7-8s]** Two security guards rush in, weapons drawn, scanning the chaos.
->
-> **[8-9s]** They open fire toward the creature's position, but it moves in an unnatural burst of speed.
->
-> **[9-10s]** The shots miss entirely, striking a display case behind where it stood.
->
-> **[10-11s]** The creature vanishes into the shadows between exhibits, gone from sight.
->
-> **[11-12s]** Wide shot: visitors hide behind pillars and display cases, guards fanning out cautiously.
->
-> **[12-14s]** More security guards arrive, forming a slow, careful search line through the hall.
->
-> **[14-16s]** Tracking shot: they move deliberately between exhibits, weapons raised, scanning every shadow.
->
-> **[16-17s]** A guard's flashlight catches a brief glimpse of red eyes in a dark corner.
->
-> **[17-18s]** The creature bursts out suddenly, striking down two guards in rapid succession.
->
-> **[18-19s]** The remaining guards scramble back, regrouping fast near a central display.
->
-> **[19-20s]** SLOW MOTION insert: the creature turns toward the lead guard, lunging forward.
->
-> **[20-21s]** He holds his ground, tracking its movement carefully despite the danger.
->
-> **[21-22s]** He fires a precise, well-aimed shot just as it closes in.
->
-> **[22-23s]** The shot connects solidly, the creature's form flickering violently.
->
-> **[23-24s]** It staggers, its translucent body destabilizing rapidly.
->
-> **[24-25s]** It collapses to the floor, form dissolving into wisps of dark smoke.
->
-> **[25-27s]** Wide shot: the hall falls silent, guards lowering their weapons slowly, breathing hard.
->
-> **[27-29s]** They check on the fallen visitors and guards, some beginning to stir, shaken but alive.
->
-> **[29-30s]** Final shot: the lead guard stands over the dissolved remains, radio crackling as backup
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103363374046429184/img/5AwgBF7THBLxOxpO.jpg" width="600" alt="Museum Creature Horror Action">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11331)**
-
-**Author:** [auqib](https://x.com/auqibhabib) | **Source:** [Link](https://x.com/auqibhabib/status/2103363732965556355) | **Published:** Sep 25, 2026
-
----
-### Cozy Cabin Winter Escape
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt describing a realistic cinematic winter scene inside and outside a cozy cabin, featuring tea preparation and bird feeding.
-
-#### 📝 Prompt
-
-```
-Create a highly realistic cinematic winter video of a peaceful woman staying in a cozy wooden cabin surrounded by a beautiful snow-covered mountain landscape. Start with an intimate close-up of the woman resting peacefully indoors as warm golden sunlight softly falls across her face through the window. Transition to a wide cinematic view of the snowy cabin balcony, tall pine trees, distant mountains, and a warm sunrise glowing over the landscape. Show small birds flying and landing on the snow-covered wooden railing as the woman gently reaches out to feed them. Capture detailed snow textures, natural bird movements, soft winter wind, and realistic sunlight. Then show her inside the cabin preparing a warm cup of tea beside a traditional kettle near the window. Focus on her hands, the steaming cup, the cozy knitted sweater, and the peaceful snowy scenery outside. Follow her as she walks slowly through a snow-covered wooden pathway wearing a warm cream sweater and dark pants. End with a wide cinematic aerial-style view of the quiet snow-covered cabins, pine forest, mountains, and glowing sunset or sunrise in the distance. Use photorealistic textures, natural human movement, realistic lighting, subtle depth of field, smooth camera motion, atmospheric winter details, and authentic cinematic color grading, making the entire video feel like real-life footage rather than AI-generated.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103359076004691968/img/ivUZ2Dqzi2ShtzCi.jpg" width="600" alt="Cozy Cabin Winter Escape">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11230)**
-
-**Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2103359307874226667) | **Published:** Sep 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -7213,6 +6860,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-11T04:49:23.463Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-11T15:09:31.343Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6521** |
+| 📝 Total des prompts | **6526** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-10-11** |
 
@@ -361,6 +361,134 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Vidéo d'action cinématographique : Guerrière enflammée
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt détaillé pour générer une vidéo d'action fantastique cinématographique ultra-réaliste de 15 secondes, mettant en scène une guerrière aux cheveux argentés et aux yeux lumineux, brandissant une lance au milieu des flammes sur un champ de bataille sombre.
+
+#### 📝 Prompt
+
+```
+Création d'une vidéo d'action fantastique cinématographique ultra-réaliste de 15 secondes, mettant en vedette une puissante guerrière aux longs cheveux argentés, aux yeux dorés lumineux et vêtue d'une tenue de combat noire élégante. Elle tient une immense lance entourée de flammes orange ardentes. Elle se précipite à travers un champ de bataille sombre, exécutant des attaques rapides et puissantes avec des traînées de feu lumineuses et des étincelles volantes. La caméra suit ses mouvements avec fluidité, capturant des gros plans dramatiques, des plans d'action larges et des moments de combat intenses. Elle saute haut dans les airs, faisant tourner sa lance alors que l'énergie magique du feu s'accumule autour de son corps. Elle frappe le sol avec une force incroyable, créant une énorme explosion de flammes, de fumée et de braises lumineuses. Ses cheveux argentés flottent naturellement au vent tandis que ses yeux dorés brillent d'une détermination féroce. Le champ de bataille s'illumine d'une énergie orange alors que les ennemis disparaissent dans la fumée. La séquence se termine par une pose héroïque dramatique, sa lance brillant intensément tandis que le feu tourbillonne autour d'elle. Maintenez une cohérence des détails du personnage, des mouvements réalistes, un éclairage cinématographique, des transitions fluides et des effets visuels époustouflants de haute qualité tout au long de la vidéo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109136974116499456/img/snE8D7hQi20LDhvy.jpg" width="600" alt="Vidéo d'action cinématographique : Guerrière enflammée">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12303)**
+
+**Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2109137173224337478) | **Publié:** Oct 11, 2026
+
+---
+### Chevauchée forestière d'une archère médiévale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt détaillé pour un film de fantasy médiévale de 15 secondes mettant en scène une archère féminine traversant une forêt de pins brumeuse, bandant son arc et arrivant dans un campement. Inclut des instructions spécifiques de cinématographie et de physique.
+
+#### 📝 Prompt
+
+```
+Créez un film de fantasy médiévale ultra-réaliste à gros budget de 15 secondes, mettant en vedette une belle et féroce archère aux longs cheveux bruns détachés, portant une armure en cuir brun foncé inspirée de l'histoire, des épaules bordées de fourrure, une tenue médiévale robuste, une ceinture en cuir et un carquois rempli de flèches attaché sur son dos. Elle chevauche un cheval noir musclé à travers une dense forêt ancienne de pins, remplie d'un épais brouillard atmosphérique, avec un sol couvert de mousse, des rochers dispersés et des arbres imposants. Commencez immédiatement par un large plan cinématographique arrière du guerrier chevauchant son le long d'un sentier étroit de la forêt, alors que la lumière dorée chaude du soleil perce à travers les arbres, créant des rayons lumineux volumétriques dramatiques et une atmosphère mystérieuse. La caméra suit doucement derrière le cheval alors que ses sabots se déplacent naturellement sur le terrain inégal, dérangeant de petites feuilles, de la terre et de la mousse. Transitionnez vers un gros plan latéral dramatique en contre-plongée de la guerrière tenant un arc traditionnel courbe noir, tirant la corde de l'arc en arrière avec une seule flèche, et visant avec une intense concentration. Ses muscles du bras se tendent naturellement, l'arc se plie sous une tension réaliste, et ses cheveux et ses vêtements bordés de fourrure réagissent à la brise fraîche de la forêt. Capturez son expression faciale déterminée, sa texture de peau réaliste, son armure en cuir détaillée et les flèches individuelles dans son carquois. Dans les dernières secondes, transitionnez vers un large plan de suivi arrière alors qu'elle entre dans un campement médiéval caché entouré d'arbres à feuillage persistant imposants, de tentes rustiques, de structures en bois et de groupes de guerriers portant des vêtements et des armures médiévales authentiques. Les guerriers se tournent vers son arrivée, créant l'atmosphère d'une légendaire chef revenant vers son peuple. Maintenez une identité de personnage cohérente, une tenue, une apparence de cheval et des proportions corporelles réalistes tout au long de chaque plan. Utilisez des transitions de caméra cinématographiques, une locomotion naturelle du cheval, une anatomie équestre précise, une gravité réaliste, l'inertie, le mouvement musculaire, la simulation de tissu et un éclairage physiquement crédible. Cinématographie premium de fantasy médiévale hollywoodienne, textures photoréalistes, brouillard atmosphérique, couleurs terreuses atténuées, éclairage naturel dramatique, grain de film subtil, faible profondeur de champ, qualité 4K, 24 FPS, effets sonores environnementaux immersifs de sabots de cheval, mouvement du cuir, vent dans les pins et ambiance lointaine du campement. Pas d'objets modernes, pas d'effets cartoon, pas de sous-titres, pas de texte, pas de logos et pas de filigrane.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109123010812870656/img/EHX4CdPkZ_XLXU_e.jpg" width="600" alt="Chevauchée forestière d'une archère médiévale">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12304)**
+
+**Auteur:** [Ayat](https://x.com/aiwithaayat) | **Source:** [Link](https://x.com/aiwithaayat/status/2109123171408560343) | **Publié:** Oct 11, 2026
+
+---
+### Prompt de Vlog sur un Village Côtier Coréen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour générer un vlog lifestyle cinématographique de 30 secondes mettant en scène une jeune femme marchant dans un village côtier coréen traditionnel au coucher du soleil, avec un accent particulier sur le réalisme des mouvements et de l'éclairage.
+
+#### 📝 Prompt
+
+```
+Créez un vlog lifestyle cinématographique ultra-réaliste de 30 secondes mettant en scène une belle jeune femme coréenne au maquillage naturel et aux longs cheveux bruns attachés en queue de cheval. Elle porte une veste ample couleur crème, un pantalon beige, des baskets blanches, et transporte un sac à bandoulière marron tout en tenant son smartphone et une petite pochette en papier kraft.
+
+Scène 1 (0–5 secondes) : Commencez par un plan large d'ensemble d'un village côtier coréen traditionnel. La jeune femme sort d'une ancienne maison du village tout en consultant son téléphone. Des ruelles étroites pavées de pierre, des portes en bois patinées, des fleurs en pot et une architecture rustique créent une atmosphère authentique.
+
+Scène 2 (5–10 secondes) : Suivez-la de dos alors qu'elle marche lentement dans la ruelle étroite du village. Elle remarque un cerf-volant arc-en-ciel coloré appuyé contre une clôture, s'arrête pour l'observer et tend doucement la main vers lui. Ses cheveux et sa veste ample bougent naturellement sous la brise marine.
+
+Scène 3 (10–17 secondes) : Capturez des gros plans naturels et des plans moyens alors qu'elle continue de traverser le quartier paisible. Montrez-la tenant son téléphone et sa pochette en papier, passant devant de vieilles maisons, des murs de pierre, des plantes fleuries et des détails charmants du village. Utilisez des mouvements subtils de caméra à l'épaule et une profondeur de champ réaliste.
+
+Scène 4 (17–24 secondes) : Transitionnez vers une magnifique promenade côtière bordant l'océan. La caméra la suit de dos alors qu'elle marche le long du chemin de pierre, avec des roches volcaniques sombres et des vagues douces d'un côté et des maisons traditionnelles du village de l'autre. Son sac à bandoulière se balance naturellement à chaque pas.
+
+Scène 5 (24–30 secondes) : Terminez par un plan large cinématographique de la jeune femme marchant vers le coucher de soleil lumineux au bord de la mer. La lumière dorée illumine ses cheveux et sa veste couleur crème. L'océan reflète la lumière chaude du soir alors qu'elle ralentit pour admirer la vue, créant une fin calme, belle et nostalgique.
+
+Style visuel : Film lifestyle coréen photoréaliste, éclairage naturel de l'heure dorée, couleurs chaudes et adoucies, atmosphère authentique de village côtier, texture de peau réaliste, travellings doux à l'épaule, mouvement de caméra naturel, qualité 4K, 24 FPS, composition cinématographique, mouvement humain et physique réalistes.
+
+Audio : Vagues océaniques naturelles, douce brise marine, pas sur le chemin de pierre et ambiance subtile du village. Pas de musique de fond, pas de narration, pas de sous-titres, pas de texte, pas de logos et pas de filigrane.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109121015112667136/img/fLkLHTsqM6vemF7q.jpg" width="600" alt="Prompt de Vlog sur un Village Côtier Coréen">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12302)**
+
+**Auteur:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2109121097803374790) | **Publié:** Oct 11, 2026
+
+---
+### Prompt Vidéo Comique Xianxia pour Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt détaillé pour générer une vidéo comique Xianxia (cultivation) de 10 secondes avec deux personnages, conçu spécifiquement pour les capacités de génération multi-plans et d'audio spatial de Seedance 2.0. Inclut des verrouillages de personnages, des descriptions de scènes, des dialogues et des contraintes négatives.
+
+#### 📝 Prompt
+
+```
+Vidéo de 10 secondes. [Style] Comédie à contretemps poétique du genre Xianxia, texture cinématographique réaliste haute définition, composition spatiale architecturale chinoise classique, jeu sobre, brume froide de montagne, éclairage chaud en contre-jour au crépuscule, tons jade vert et ivoire désaturés, grain fin de pellicule ; la chute est construite par une narration sonore « mise en place - égarement - retournement hors champ ». Conçu pour le verrouillage d'image de référence, la génération continue multi-plans et l'audio spatial synchronisé de Seedance 2.0. Seuls deux personnages visibles apparaissent tout au long, établissant un monde ancien chinois pur sans éléments modernes.
+
+[Personnages]
+Personnage A strictement verrouillé via @Image 1 : La même sœur aînée immortelle épéiste est-asiatique âgée de 25 à 30 ans, visage ovale, peau claire, yeux couleur abricot foncé, cheveux noirs mi-attachés maintenus par une épingle à cheveux en jade blanc, silhouette grande et élancée, portant un Hanfu en soie blanche brodée, manches larges semi-transparentes superposées, sceau de taille argenté, pendentif en jade et bottines en tissu blanc.
+Personnage B strictement verrouillé via @Image 2 : La même sœur cadette est-asiatique âgée de 20 à 25 ans, visage rond et vif, cheveux noirs tressés, petite stature, portant un Hanfu en lin vert cyan, ceinture en tissu sombre, épingle à cheveux en bois et chaussures en tissu noir.
+
+[Plan 1 | 0-3s | Panoramique latéral en travelling bas angle]
+Une plateforme de pierre silencieuse de secte au-dessus d'une mer de nuages. Des garde-fous en pierre, un mur d'écho ancien, neuf cloches en bronze suspendues, des pins anciens noueux, des banderoles de prière flottant au vent et des toits tuilés lointains établissent une relation spatiale claire et stable. La sœur aînée immortelle épéiste en Hanfu de soie blanche brodée se tient aux côtés de la sœur cadette en robe cyan, regardant autour avec assurance et prête à partager un secret ; la brise de montagne fait doucement bouger leurs cheveux, manches, banderoles et la brume.
+
+[Plan 2 | 3-6s | Plan moyen à deux]
+La sœur aînée lève deux doigts, forme un petit sceau de transmission vocale près de sa bouche et murmure : « Je vais te confier un secret, Maître a mangé trois morceaux de gâteau aux osmanthus hier soir. » Une fine onde sonore bleu clair vole précisément vers l'oreille de la sœur cadette ; elle écarquille instantanément les yeux, porte la main à sa bouche, luttant pour retenir son rire.
+
+[Plan 3 | 6-10s | Gros plan suivant la révélation jusqu'à très gros plan]
+La même onde sonore ne s'arrête pas à temps, passe au-dessus de la sœur cadette et frappe le mur d'écho ancien, puis rebondit séquentiellement à travers les neuf cloches en bronze, propageant les mots murmurés comme un énorme écho à travers la vallée : « Maître a mangé trois morceaux de gâteau aux osmanthus hier soir— » Les neuf cloches en bronze vibrent en séquence, les oiseaux sur les crêtes de toit lointaines sont effrayés et dispersés. Depuis la direction du hall principal vient une légère toux d'un ancien invisible, suivie d'une question calme : « Qui a mangé le quatrième morceau ? » Les sœurs aînée et cadette se figent simultanément. Très gros plan : Les deux doigts levés de la sœur aînée se replient lentement, un sourcil tressaute légèrement, elle regarde silencieusement la sœur cadette ; les joues de la sœur cadette se gonflent visiblement. Se termine par un bruit de déglutition très léger et coupable.
+
+[Exigences Techniques]
+Durée totale stricte de 10 secondes, format paysage 16:9, trois plans clairs, dialogue natif en mandarin, synchronisation labiale précise, les mots murmurés ont un mouvement directionnel clair, les couches d'écho des cloches en bronze sont distinctes, les visages et vêtements des personnages restent stables, les directions de mouvement sont cohérentes. La brume de montagne, la soie, les cheveux, les cloches en cuivre, les banderoles de prière et les ondes sonores se déplacent naturellement. Aucun sous-titre généré, aucun personnage visible supplémentaire ajouté.
+
+[Mots Négatifs]
+flou, mauvaise qualité, basse qualité, basse résolution, bruit, artefacts jpeg, filigrane, texte, erreur ; déformé, muté, anatomie incorrecte, mains mal dessinées, mauvaise composition, hors cadre, disloqué ; incohérence de personnage, changement de vêtements, morphing facial, glitch de fond lors des coupures, props disparaissants
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108920849994821632/img/FVH4RLpzE6YKZlgi.jpg" width="600" alt="Prompt Vidéo Comique Xianxia pour Seedance 2.0">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12305)**
+
+**Auteur:** [superfang119](https://x.com/superfang119) | **Source:** [Link](https://x.com/superfang119/status/2108921025098584072) | **Publié:** Oct 10, 2026
+
+---
+### Balade d'une créature en laine tricotée sur un toit pluvieux
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un article comparatif partageant un prompt spécifique utilisé sur plusieurs modèles de vidéo IA, y compris Seedance 2.5, mettant en scène une créature tricotée sur un toit.
+
+#### 📝 Prompt
+
+```
+une petite créature en laine tricotée avec trois yeux-boutons et de longs bras nouilles marche sur la pointe des pieds sur un toit néon illuminé sous la pluie la nuit, s'arrête, regarde directement la caméra, et ouvre un mini-parapluie fabriqué à partir d'une feuille
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108687552165359616/img/UJcNTYyE79TlkLNe.jpg" width="600" alt="Balade d'une créature en laine tricotée sur un toit pluvieux">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12263)**
+
+**Auteur:** [Korpi AI](https://x.com/KorpiAi) | **Source:** [Link](https://x.com/KorpiAi/status/2108687594913738792) | **Publié:** Oct 9, 2026
+
+---
 ### Scène d'animation pour enfants : Nuage
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5848,487 +5976,6 @@ Publicité ultra-premium pour fragrance, look cinématographique 35mm, texture r
 **Auteur:** [Meenakshi Yadav](https://x.com/MeenakshiYACS) | **Source:** [Link](https://x.com/MeenakshiYACS/status/2103462025871372380) | **Publié:** Sep 25, 2026
 
 ---
-### Prompt publicitaire cinématographique premium pour moto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour une publicité cinématographique de moto à gros budget, mettant en scène un arc narratif allant du mystère à la révélation.
-
-#### 📝 Prompt
-
-```
-Créez une publicité cinématographique premium de 30 secondes centrée sur une puissante moto lourde et une pilote adulte au physique saisissant.
-
-Le film doit initialement donner l'impression d'un thriller d'action cinématographique sérieux et à gros budget — PAS une simple publicité pour moto.
-
-Pendant les 20 premières secondes, créez du mystère et de la tension. Le public devrait se demander où elle va, ce qu'elle cherche, et pourquoi elle roule seule dans un environnement aussi dangereux.
-
-La moto doit paraître lourde, puissante, coûteuse et mécaniquement réaliste.
-
-L'histoire doit se construire naturellement selon l'arc :
-
-MYSTÈRE → POURSUITE → DANGER → DESTINATION → RÉVÉLATION → PRODUIT HÉRO
-
-NE COPIEZ AUCUNE publicité, film, spot commercial, personnage, composition, scène ou séquence visuelle existante. Créez une histoire entièrement originale.
-
-STYLE VISUEL
-
-Réalisation cinématographique photoréaliste.
-
-Production de spot automobile premium à gros budget.
-
-Look cinéma grand format avec photographie anamorphique 35 mm.
-
-Contraste cinématographique profond, texture de peau naturelle, matériaux de moto réalistes : métal, cuir, verre et caoutchouc.
-
-Vibrations réalistes du moteur, mouvements de suspension et mécanique précise.
-
-Grain de film subtil, flou de mouvement naturel et éclairage environnemental réaliste.
-
-Pas d'apparence cartoon.
-Pas d'esthétique IA générique.
-La moto doit rester physiquement crédible et visuellement cohérente tout au long du film.
-
-Utilisez des paysages larges dramatiques contrastés avec des gros plans intimes.
-
-La palette de couleurs commence froide et désaturée, puis évolue progressivement vers des tons dorés riches et chauds jusqu'à la révélation finale.
-
-PERSONNAGE PRINCIPAL
-
-Une femme adulte d'une beauté frappante, dans la fin de la vingtaine.
-
-Cheveux foncés et fluides, naturellement glissés sous un casque de moto noir premium.
-
-Expression confiante et concentrée.
-
-Maquillage naturel.
-
-Elle porte une veste de moto en cuir noir ajustée, un pantalon de conduite sombre, des gants noirs et des bottes de protection réalistes.
-
-Son apparence, ses vêtements, son casque et sa moto restent parfaitement cohérents tout au long du film.
-
-Elle doit ressembler à une vraie pilote professionnelle, pas à un mannequin posant sur une moto.
-
-MOTO
-
-Une immense moto lourde premium.
-
-Proportions musclées.
-
-Gros moteur.
-
-Pneu arrière large.
-
-Cadre métallique lourd.
-
-Finitions noires premium et métal brossé.
-
-Mouvements de suspension réalistes.
-
-Vibrations visibles du moteur.
-
-Phare puissant.
-
-Réflexions subtiles sur le réservoir de carburant.
-
-La moto doit sembler extrêmement puissante mais élégante.
-
-Gardez le design exact de la moto cohérent dans chaque plan.
-
-SCÈNE 1 — LA ROUTE INCONNUE
-
-0–5 SECONDES
-
-PLAN CINÉMATOGRAPHIQUE EXTRÊME LARGE.
-
-Une route de montagne gigantesque et vide disparaît dans un brouillard dense.
-
-Atmosphère froide de début de matinée.
-
-Le vent traverse le paysage.
-
-Rien d'autre n'est visible.
-
-Un grondement lointain de moteur s'intensifie lentement.
-
-Une moto lourde surgit soudainement du brouillard.
-
-La pilote reste parfaitement stable alors que la machine énorme avance sur la route vide.
-
-La caméra se rapproche progressivement.
-
-COUPE sur un gros plan extrême de ses yeux dans le casque.
-
-Concentrée. Sans émotion.
-
-Elle regarde vers quelque chose de très loin devant elle.
-
-Sa main serre subtilement la poignée des gaz.
-
-Le bruit du moteur monte.
-
-Transitionnez naturellement vers le plan suivant en maintenant un mouvement et un son continus.
-
-SCÈNE 2 — LA POURSUITE
-
-5–10 SECONDES
-
-Séquence cinématographique rapide.
-
-La moto accélère sur une route de montagne sinueuse.
-
-Caméra basse frôlant presque l'asphalte.
-
-Le pneu arrière projette de minuscules particules d'eau de la route mouillée.
-
-Gros plan de sa main gantée tournant la poignée des gaz.
-
-Le moteur répond par un grondement mécanique profond.
-
-Gros plan de sa botte changeant naturellement de vitesse.
-
-Gros plan du compteur de vitesse qui grimpe.
-
-Plan aérien large :
-
-La petite moto fend un paysage de montagne immense.
-
-Elle vérifie soudainement son rétroviseur.
-
-Quelque chose semble la suivre au loin, mais cela n'est jamais clairement révélé.
-
-La musique s'intensifie.
-
-Elle accélère plus fort.
-
-Maintenez un flux visuel continu entre les plans sans cadres noirs ni transitions inutiles.
-
-SCÈNE 3 — LE DANGER
-
-10–16 SECONDES
-
-La météo devient soudainement violente.
-
-Une pluie battante commence.
-
-Des éclairs illuminent brièvement les montagnes.
-
-La route se rétrécit dramatiquement le long d'une falaise massive.
-
-La pilote ralentit.
-
-Un grand arbre tombé bloque partiellement la route.
-
-Elle s'arrête.
-
-Un instant, tout devient silencieux sauf le ralenti de la moto sous la pluie.
-
-Elle regarde l'obstacle.
-
-Puis remarque un étroit chemin de terre disparaissant dans la forêt sombre.
-
-Un sourire confiant subtil.
-
-Elle tourne le guidon.
-
-La moto lourde quitte la route pavée.
-
-Les pneus massifs écrasent le gravier mouillé.
-
-Boue et eau éclaboussent naturellement autour des roues.
-
-La caméra suit de près alors qu'elle entre dans la forêt.
-
-Elle disparaît plus profondément dans l'obscurité.
-
-SCÈNE 4 — LA DESTINATION
-
-16–21 SECONDES
-
-La forêt sombre s'ouvre soudainement.
-
-La moto émerge sur un point de vue spectaculaire sur la montagne.
-
-La tempête s'est dissipée.
-
-La lumière dorée du soleil perce les nuages.
-
-L'atmosphère visuelle entière passe du froid et désaturé à des tons cinématographiques riches et chauds.
-
-La pilote s'arrête lentement.
-
-Elle retire son casque.
-
-Ses cheveux foncés tombent naturellement sur ses épaules.
-
-Elle regarde vers l'immense horizon.
-
-Pour la première fois, le mystère est élucidé :
-
-Elle ne fuyait rien.
-
-Elle cherchait cet endroit.
-
-Elle marche vers le bord du belvédère.
-
-Puis se retourne lentement vers la moto.
-
-SCÈNE 5 — LA RÉVÉLATION DE LA MOTO
-
-21–26 SECONDES
-
-La musique baisse vers un moment retenu, presque silencieux.
-
-La caméra commence une orbite cinématographique lente et élégante autour de la moto.
-
-La lumière dorée glisse sur la carrosserie métallique.
-
-Montrez de beaux détails macro via des transitions fluides :
-
-Composants du moteur.
-
-Cadre en métal brossé.
-
-Réflexions sur le réservoir.
-
-Phare.
-
-Siège en cuir.
-
-Assemblage de frein.
-
-Pneu arrière large.
-
-Suspension.
-
-De petites vibrations mécaniques sont visibles pendant que le moteur tourne au ralenti.
-
-La pilote remonte sur la moto.
-
-Elle démarre le moteur.
-
-Un son mécanique profond et puissant emplit le paysage montagneux.
-
-Elle donne un coup de gaz contrôlé.
-
-VOIX OFF :
-
-« Certaines routes ne sont pas faites pour être faciles. »
-
-Brève pause.
-
-« Elles sont faites pour être mémorables. »
-
-Aucun texte n'apparaît à l'écran pendant l'histoire.
-
-SCÈNE 6 — PLAN FINAL HÉRO
-
-26–30 SECONDES
-
-Plan final cinématographique ultra-premium.
-
-La femme est assise confiante sur la moto lourde au bord du belvédère de montagne.
-
-Coucher de soleil doré derrière elle.
-
-Le vent fait bouger naturellement ses cheveux et sa veste en cuir.
-
-La moto domine le premier plan.
-
-La caméra avance lentement vers le phare avant.
-
-Le phare s'allume.
-
-Tenez cette composition finale puissante.
-
-Introduisez seulement maintenant une typographie minimale et élégante :
-
-FAITE POUR LA ROUTE.
-
-Après un bref temps, révélez le nom de la marque de moto en dessous.
-
-Son final :
-
-UN SEUL GRAND COUP DE GAZ PROFOND.
-
-COUPE AU NOIR UNIQUEMENT À LA TRÈS FIN.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103455049800110080/img/nradV-JDctghwpd8.jpg" width="600" alt="Prompt publicitaire cinématographique premium pour moto">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11327)**
-
-**Auteur:** [H A J R A](https://x.com/codewithhajra) | **Source:** [Link](https://x.com/codewithhajra/status/2103455108738539821) | **Publié:** Sep 25, 2026
-
----
-### Prompt de scène d'horreur zombie cinématographique coréenne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour générer une vidéo d'horreur zombie cinématographique coréenne photoréaliste, mettant en scène une confrontation émotionnelle entre des survivants dans une ferme abandonnée.
-
-#### 📝 Prompt
-
-```
-Créez une courte scène photoréaliste d'horreur zombie cinématographique coréenne au format 16:9 dans la cuisine d'une ferme abandonnée. Une survivante coréenne qui pleure, aux cheveux noirs ébouriffés, avec du sang séché sur le front et un anorak olive sale à capuche, braque un pistolet noir sur son amant infecté. Elle tremble, les larmes coulent sur son visage, mais elle n'arrive pas à appuyer sur la détente.
-
-L'homme infecté a les cheveux noirs emmêlés, la peau pâle et sale, les yeux blanc laiteux, des veines sombres apparentes, des vêtements déchirés et une expression de plus en plus bestiale. Il grogne bruyamment et hurle directement vers elle. Elle abaisse lentement le pistolet, le laisse tomber à côté d'elle et ouvre les bras vers lui. Il hurle soudain à nouveau, se précipite en avant et lui saisit violemment le visage.
-
-Coupure brutale (smash-cut) vers des souvenirs chaleureux de l'heure dorée montrant le même couple heureux ensemble dans un vaste champ de blé — riant, se tenant l'un contre l'autre, marchant main dans la main dans l'herbe dorée, et s'asseyant ensemble sous le coucher de soleil. Rendez le contraste entre le présent froid et les beaux souvenirs émotionnellement puissant.
-
-Cinéma live-action photoréaliste, peau et larmes naturelles, yeux et expressions faciales réalistes pour les infectés, caméra à l'épaule, horreur par effets pratiques, grain de pellicule 35 mm, mouvement et éclairage crédibles. Pas de coup de feu, pas de gore, pas de dialogue, pas de ralenti, pas d'intrigue supplémentaire, pas d'aspect CGI, pas d'animation, pas d'anatomie déformée, pas de personnages dupliqués, pas de sous-titres, pas de texte, pas de filigrane.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103422758864719872/img/uyeU0c2yFYwSrEq_.jpg" width="600" alt="Prompt de scène d'horreur zombie cinématographique coréenne">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11320)**
-
-**Auteur:** [ORHAN](https://x.com/OrhanGhazi65942) | **Source:** [Link](https://x.com/OrhanGhazi65942/status/2103422813743046993) | **Publié:** Sep 25, 2026
-
----
-### Timelapse du Village Autour de l'Arbre Géant
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt pour un timelapse de construction miniature photoréaliste vertical de 30 secondes, montrant la construction d'un village autour d'un arbre ancien.
-
-#### 📝 Prompt
-
-```
-Créez un timelapse de construction miniature ultra-photoréaliste vertical (format 9:16) de 30 secondes : un village spectaculaire physiquement construit autour d'UN énorme arbre ancien. Des centaines de petits ouvriers adultes réalistes sont visibles en continu, travaillant simultanément avec des outils, des échelles, des cordes, des charrettes et des mini-grues. Construction rapide mais lisible, photographie cinématographique macro, lumière naturelle du soleil, bois, pierre, terre, mousse et végétation réalistes, 4K HDR, réalisme live-action.
-
-0–2 s : Les ouvriers déblaient le terrain, marquent les fondations et creusent autour des racines de l'arbre géant.
-
-2–4 s : Les pierres de fondation et les poutres de plancher en bois sont posées ; les ouvriers dressent les premiers poteaux en bois.
-
-4–6 s : Les panneaux muraux, les planchers et les poutres de soutien sont assemblés pièce par pièce.
-
-6–8 s : Les ouvriers soulèvent les chevrons, construisent des toits à pente et posent les bardeaux en bois un par un.
-
-8–10 s : Des équipes grimpent sur le tronc et construisent des plateformes surélevées autour des branches massives.
-
-10–12 s : Les maisons dans les arbres s'élèvent alors que les ouvriers installent les murs, les fenêtres, les portes, les balcons et les toits.
-
-12–14 s : Les ouvriers construisent des ponts en bois et des escaliers en colimaçon reliant les maisons dans les arbres.
-
-14–16 s : D'autres chalets sont physiquement construits vers l'extérieur depuis l'arbre géant, des fondations au toit.
-
-16–18 s : Des centaines d'ouvriers posent des allées pavées, des clôtures et un petit pont en bois sur un ruisseau.
-
-18–20 s : Un marché est assemblé sous l'arbre avec des étals, des comptoirs et des cabanes de stockage.
-
-20–22 s : Des plateformes plus hautes, des balcons et des maisons dans les arbres connectées s'étendent à travers les branches.
-
-22–24 s : Les ouvriers installent des garde-fous, des échelles, des ponts suspendus, des lampadaires et des jardinières.
-
-24–26 s : Les équipes placent des pierres, plantent des fleurs et des arbres, créent des jardins et finissent les chemins tortueux.
-
-26–28 s : Les détails de construction finaux sont sécurisés tandis que des centaines d'ouvriers continuent de déplacer des matériaux et de travailler dans tout le village.
-
-28–30 s : Révélation à l'heure dorée. De minuscules villageois traversent les ponts et les chemins alors que la caméra recule doucement et monte, révélant l'énorme arbre ancien entouré du village multi-niveaux achevé.
-
-RÈGLE CLÉ : Toutes les 2 secondes introduisent une NOUVELLE étape de construction visible tandis que les équipes précédentes continuent de travailler. Les bâtiments doivent progresser visiblement : fondations → poutres → murs → toit → détails. Pas de complétion instantanée.
-
-NÉGATIF : dessin animé, jouet, plastique, aspect CGI, construction magique, apparition instantanée, morphing, téléportation, objets flottants, matériaux disparaissant, ouvriers dupliqués, humains géants, enfants, anomalies anatomiques, changement d'arbre, architecture incohérente, scènes vides, texte, logos, filigrane.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103399617383825408/img/eZVzam3YTDOfq84q.jpg" width="600" alt="Timelapse du Village Autour de l'Arbre Géant">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11332)**
-
-**Auteur:** [Maverick | AI](https://x.com/RizwanAly07) | **Source:** [Link](https://x.com/RizwanAly07/status/2103399820824289472) | **Publié:** Sep 25, 2026
-
----
-### Horreur-Action : Créature du Musée
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé basé sur une chronologie pour un court-métrage d'horreur-action cinématographique mettant en scène une créature s'échappant d'une vitrine de musée.
-
-#### 📝 Prompt
-
-```
-Court-métrage d'horreur-action cinématographique se déroulant dans une salle d'exposition de musée, ouvrant avec un accroche immédiate et forte, un travail caméra dynamique maximal, style d'effets pratiques ancré. Le musée est rempli de vitrines en verre contenant diverses expositions de créatures — figures aliens, spécimens conservés, êtres mythiques — des visiteurs déambulent en admirant les présentations sous un éclairage dramatique. Étalonnage couleur authentique atténué, son diégétique naturel tout au long, musique de tension entrant immédiatement.
->
-> **[0-1s]** Coupe franche : une vitrine en verre se fissure violemment, puis éclate vers l'extérieur.
->
-> **[1-2s]** Une créature spectrale apparaît — forme translucide, semblable à de la fumée, membres griffus, yeux rouges brillants.
->
-> **[2-3s]** Elle bondit sur le visiteur le plus proche avec une vitesse surnaturelle, comblant la distance instantanément.
->
-> **[3-4s]** Il est projeté au sol, s'effondrant sans mouvement.
->
-> **[4-5s]** Les visiteurs proches hurlent, reculant précipitamment de l'exposition.
->
-> **[5-6s]** La créature tourne rapidement, frappant un deuxième visiteur tout aussi vite.
->
-> **[6-7s]** La panique se propage dans la salle, les gens courant vers les sorties.
->
-> **[7-8s]** Deux gardes de sécurité accourent, armes dégainées, scrutant le chaos.
->
-> **[8-9s]** Ils ouvrent le feu en direction de la position de la créature, mais elle se déplace dans une explosion de vitesse surnaturelle.
->
-> **[9-10s]** Les tirs manquent complètement, touchant une vitrine derrière l'endroit où elle se trouvait.
->
-> **[10-11s]** La créature disparaît dans les ombres entre les expositions, hors de vue.
->
-> **[11-12s]** Plan large : les visiteurs se cachent derrière les piliers et les vitrines, les gardes se déploient prudemment.
->
-> **[12-14s]** D'autres gardes de sécurité arrivent, formant une ligne de recherche lente et prudente à travers la salle.
->
-> **[14-16s]** Travelling : ils avancent délibérément entre les expositions, armes levées, scrutant chaque ombre.
->
-> **[16-17s]** La lampe torche d'un garde capte un bref aperçu d'yeux rouges dans un coin sombre.
->
-> **[17-18s]** La créature surgit soudainement, abattant deux gardes en succession rapide.
->
-> **[18-19s]** Les gardes restants reculent précipitamment, se regroupant rapidement près d'une exposition centrale.
->
-> **[19-20s]** Insertion RALENTI : la créature se tourne vers le garde principal, bondissant en avant.
->
-> **[20-21s]** Il tient sa position, suivant ses mouvements attentivement malgré le danger.
->
-> **[21-22s]** Il tire une balle précise et bien visée juste au moment où elle s'approche.
->
-> **[22-23s]** Le tir touche avec précision, la forme de la créature vacillant violemment.
->
-> **[23-24s]** Elle chancelle, son corps translucide se déstabilisant rapidement.
->
-> **[24-25s]** Elle s'effondre, sa forme se dissipant en fumée sombre.
->
-> **[25-27s]** Plan large : la salle tombe silencieuse, les gardes abaissent lentement leurs armes, haletants.
->
-> **[27-29s]** Ils vérifient les visiteurs tombés, certains reprenant connaissance, tremblants mais vivants.
->
-> **[29-30s]** Fondu au noir : le silence persiste, sauf pour le bruit lointain des sirènes approchant.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103363374046429184/img/5AwgBF7THBLxOxpO.jpg" width="600" alt="Horreur-Action : Créature du Musée">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11331)**
-
-**Auteur:** [auqib](https://x.com/auqibhabib) | **Source:** [Link](https://x.com/auqibhabib/status/2103363732965556355) | **Publié:** Sep 25, 2026
-
----
-### Prompt Vidéo Cinématographique Chalet d'Hiver
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour générer une vidéo cinématographique réaliste d'une femme dans un chalet d'hiver cosy, mettant en avant des mouvements de caméra spécifiques et des détails atmosphériques.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo d'hiver cinématographique hautement réaliste montrant une femme paisible séjournant dans un chalet en bois cosy entouré d'un magnifique paysage montagneux enneigé. Commencez par un gros plan intime de la femme se reposant tranquillement à l'intérieur tandis que la douce lumière dorée du soleil filtre à travers la fenêtre sur son visage. Passez à une vue cinématographique large du balcon enneigé du chalet, des grands pins, des montagnes lointaines et d'un lever de soleil chaud illuminant le paysage. Montrez de petits oiseaux volant et se posant sur la balustrade en bois recouverte de neige alors que la femme tend doucement la main pour les nourrir. Capturez des textures de neige détaillées, des mouvements naturels des oiseaux, un vent d'hiver doux et une lumière solaire réaliste. Ensuite, montrez-la à l'intérieur du chalet préparant une tasse de thé chaude près d'une bouilloire traditionnelle près de la fenêtre. Concentrez-vous sur ses mains, la tasse fumante, le pull tricoté confortable et le paysage enneigé paisible à l'extérieur. Suivez-la alors qu'elle marche lentement sur un chemin en bois couvert de neige, portant un pull crème chaud et un pantalon foncé. Terminez par une vue aérienne cinématographique large des chalets silencieux couverts de neige, de la forêt de pins, des montagnes et d'un coucher ou lever de soleil lumineux au loin. Utilisez des textures photoréalistes, des mouvements humains naturels, un éclairage réaliste, une faible profondeur de champ subtile, des mouvements de caméra fluides, des détails atmosphériques hivernaux et un étalonnage colorimétrique cinématographique authentique, afin que toute la vidéo ressemble à des images réelles plutôt qu'à une génération IA.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103359076004691968/img/ivUZ2Dqzi2ShtzCi.jpg" width="600" alt="Prompt Vidéo Cinématographique Chalet d'Hiver">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11230)**
-
-**Auteur:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2103359307874226667) | **Publié:** Sep 25, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -6390,6 +6037,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-11T04:49:35.017Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-11T15:09:43.551Z</sub>
 
 </div>

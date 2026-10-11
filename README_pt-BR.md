@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6521** |
+| 📝 Total de prompts | **6526** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-10-11** |
 
@@ -361,6 +361,134 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Vídeo Cinematográfico de Ação: Guerreira Feminina Ardente
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para gerar um vídeo de ação cinematográfico de fantasia ultra-realista de 15 segundos, apresentando uma guerreira feminina com cabelos prateados e olhos brilhantes, empunhando uma lança em meio a chamas ardentes num campo de batalha sombrio.
+
+#### 📝 Prompt
+
+```
+Criei um vídeo de ação cinematográfico de fantasia ultra-realista de 15 segundos, destacando uma poderosa guerreira feminina com longos cabelos prateados, olhos dourados luminosos e um traje de combate preto estiloso, segurando uma lança massiva cercada por chamas laranjas intensas. Ela avança rapidamente por um campo de batalha escuro, executando ataques rápidos e poderosos com rastros de fogo brilhantes e faíscas voando. A câmera segue seus movimentos suavemente, capturando close-ups dramáticos, planos gerais de ação e momentos de combate intenso. Ela salta alto no ar, girando sua lança enquanto energia mágica de fogo se acumula ao redor de seu corpo. Ela atinge o solo com força incrível, criando uma explosão massiva de chamas, fumaça e brasas luminosas. Seus cabelos prateados fluem naturalmente ao vento, enquanto seus olhos dourados brilham com determinação feroz. O campo de batalha se ilumina com energia laranja conforme os inimigos desaparecem na fumaça. Termine com uma pose heroica dramática, sua lança brilhando intensamente enquanto o fogo gira ao redor dela. Mantenha detalhes consistentes do personagem, movimento realista, iluminação cinematográfica, transições suaves e efeitos visuais deslumbrantes de alta qualidade durante todo o vídeo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109136974116499456/img/snE8D7hQi20LDhvy.jpg" width="600" alt="Vídeo Cinematográfico de Ação: Guerreira Feminina Ardente">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12303)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2109137173224337478) | **Publicado:** Oct 11, 2026
+
+---
+### Passeio na Floresta por Arqueira Medieval
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt altamente detalhado para um filme de fantasia medieval de 15 segundos, apresentando uma arqueira a cavalo em uma floresta de pinheiros com névoa, sacando seu arco e chegando a um acampamento. Inclui instruções específicas de cinematografia e física.
+
+#### 📝 Prompt
+
+```
+Crie um filme de fantasia medieval ultra-realista e de alto orçamento, com duração de 15 segundos, apresentando uma arqueira feminina bela e feroz, com cabelos longos e soltos castanhos, vestindo armadura de couro marrom escuro inspirada historicamente, ombros forrados com pele, roupa medieval rústica, cinto de couro e aljava cheia de flechas presa às costas. Ela monta um cavalo preto musculoso através de uma densa floresta antiga de pinheiros, repleta de névoa atmosférica espessa, solo coberto de musgo, rochas espalhadas e árvores imponentes. Comece imediatamente com uma tomada cinematográfica ampla traseira da guerreira montando seu cavalo ao longo de uma trilha estreita na floresta, enquanto a luz dourada quente do sol atravessa as árvores, criando raios volumétricos dramáticos e uma atmosfera misteriosa. A câmera segue suavemente atrás do cavalo enquanto seus cascos se movem naturalmente sobre o terreno irregular, perturbando pequenas folhas, terra e musgo. Transite para um close lateral dramático em ângulo baixo da guerreira segurando um arco curvo preto tradicional, puxando a corda para trás com uma única flecha e mirando com intensa concentração. Seus músculos dos braços tensionam naturalmente, o arco se curva sob tensão realista, e seus cabelos e roupas forradas com pele respondem à brisa fresca da floresta. Capture sua expressão facial determinada, textura de pele realista, armadura de couro detalhada e as flechas individuais em sua aljava. Nos segundos finais, transite para uma tomada de acompanhamento traseira ampla enquanto ela entra em um acampamento medieval escondido, cercado por árvores perenes imponentes, tendas rústicas, estruturas de madeira e grupos de guerreiros vestindo roupas e armaduras medievais autênticas. Os guerreiros se voltam para sua chegada, criando a atmosfera de uma lendária chefe retornando ao seu povo. Mantenha identidade consistente do personagem, roupa, aparência do cavalo e proporções corporais realistas durante todas as tomadas. Use transições de câmera cinematográficas, locomoção natural do cavalo, anatomia equina precisa, gravidade realista, inércia, movimento muscular, simulação de tecido e iluminação fisicamente crível. Cinematografia premium de fantasia medieval estilo Hollywood, texturas fotorrealistas, névoa atmosférica, cores terrosas suaves, iluminação natural dramática, granulação sutil de filme, profundidade de campo rasa, qualidade 4K, 24 FPS, efeitos sonoros ambientais imersivos de cascos de cavalo, movimento de couro, vento entre os pinheiros e ambiente distante do acampamento. Sem objetos modernos, sem efeitos de desenho animado, sem legendas, sem texto, sem logotipos e sem marca d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109123010812870656/img/EHX4CdPkZ_XLXU_e.jpg" width="600" alt="Passeio na Floresta por Arqueira Medieval">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12304)**
+
+**Autor:** [Ayat](https://x.com/aiwithaayat) | **Fonte:** [Link](https://x.com/aiwithaayat/status/2109123171408560343) | **Publicado:** Oct 11, 2026
+
+---
+### Prompt de Vlog de Vila Costeira Coreana
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para gerar um vlog cinematográfico de estilo de vida de 30 segundos, apresentando uma jovem caminhando por uma vila costeira tradicional coreana ao pôr do sol, com ênfase em movimento e iluminação realistas.
+
+#### 📝 Prompt
+
+```
+Crie um vlog cinematográfico ultra-realista de estilo de vida com duração de 30 segundos, apresentando uma bela jovem coreana com maquiagem natural e cabelos longos e escuros presos em um rabo de cavalo. Ela veste um casaco largo cor creme, calças bege, tênis brancos e carrega uma bolsa marrom no ombro, enquanto segura seu smartphone e uma pequena sacola de papel marrom.
+
+Cena 1 (0–5 segundos): Comece com uma tomada ampla de estabelecimento de uma vila costeira tradicional coreana. A garota sai de uma antiga casa da vila enquanto verifica o celular. Caminhos estreitos de pedra, portas de madeira desgastadas pelo tempo, flores em vasos e arquitetura rústica criam uma atmosfera autêntica.
+
+Cena 2 (5–10 segundos): Siga-a por trás enquanto ela caminha lentamente pela viela estreita da vila. Ela percebe uma pipa colorida em forma de arco-íris encostada em uma cerca, pausa para olhá-la e estende a mão suavemente em sua direção. Seus cabelos e casaco largo se movem naturalmente com a brisa do mar.
+
+Cena 3 (10–17 segundos): Capture close-ups naturais e planos médios enquanto ela continua caminhando pelo bairro tranquilo. Mostre-a segurando o celular e a sacola de papel, passando por casas antigas, muros de pedra, plantas floridas e detalhes charmosos da vila. Use movimentos sutis de câmera na mão e profundidade de campo realista.
+
+Cena 4 (17–24 segundos): Transição para um belo caminho costeiro à beira-mar. A câmera segue-a por trás enquanto ela caminha pelo caminho de pedra, com rochas vulcânicas escuras e ondas suaves de um lado e casas tradicionais da vila do outro. Sua bolsa no ombro balança naturalmente a cada passo.
+
+Cena 5 (24–30 segundos): Termine com uma tomada cinematográfica ampla da garota caminhando em direção ao pôr do sol brilhante à beira-mar. A luz dourada do sol ilumina seus cabelos e o casaco cor creme. O oceano reflete a luz quente da noite enquanto ela desacelera para admirar a vista, criando um final calmo, bonito e nostálgico.
+
+Estilo visual: Filme de estilo de vida coreano fotorrealista, iluminação natural da hora dourada, cores quentes e suaves, atmosfera autêntica de vila costeira, textura de pele realista, planos de acompanhamento suaves com câmera na mão, movimento natural de câmera, qualidade 4K, 24 FPS, composição cinematográfica, movimento humano e física realistas.
+
+Áudio: Ondas naturais do oceano, brisa suave do mar, passos no caminho de pedra e ambiente sutil da vila. Sem música de fundo, sem narração, sem legendas, sem texto, sem logos e sem marca d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109121015112667136/img/fLkLHTsqM6vemF7q.jpg" width="600" alt="Prompt de Vlog de Vila Costeira Coreana">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12302)**
+
+**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fonte:** [Link](https://x.com/ayzalnooor24521/status/2109121097803374790) | **Publicado:** Oct 11, 2026
+
+---
+### Prompt de Vídeo de Comédia Xianxia para Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt detalhado para gerar um vídeo de comédia Xianxia (cultivo) de 10 segundos com dois personagens, projetado especificamente para as capacidades de geração multi-shot e áudio espacial do Seedance 2.0. Inclui travas de personagem, descrições de cena, diálogos e restrições negativas.
+
+#### 📝 Prompt
+
+```
+Vídeo de 10 segundos. [Estilo] Comédia de reviravolta seca e poética no estilo Xianxia, textura cinematográfica realista em alta definição, composição espacial arquitetônica chinesa clássica, atuação contida, névoa fria da montanha, iluminação quente de contorno ao anoitecer, tons de jade verde e marfim com baixa saturação, granulação fina de filme; completa a reviravolta através da narrativa sonora "preparação-desvio-revelação fora de cena". Projetado para o bloqueio de imagem de referência, geração contínua multi-shot e áudio espacial sincronizado do Seedance 2.0. Apenas dois personagens visíveis aparecem durante todo o vídeo, estabelecendo um mundo antigo chinês puro sem elementos modernos.
+
+[Personagens]
+Personagem A estritamente travado usando @Image 1: A mesma irmã sênior imortal espadachim do Leste Asiático, de 25 a 30 anos, rosto oval, pele clara, olhos cor de damasco escuro, cabelo preto meio preso com uma presilha de jade branco, figura alta e esbelta, vestindo Hanfu de seda branca bordada, mangas largas semitransparentes em camadas, selo prateado na cintura, pingente de jade e botas de pano branco.
+Personagem B estritamente travado usando @Image 2: A mesma irmã júnior do Leste Asiático, de 20 a 25 anos, rosto redondo e vivo, cabelo preto trançado, figura pequena, vestindo Hanfu de linho verde-ciano, cinto de tecido escuro, presilha de madeira e sapatos de pano preto.
+
+[Cena 1 | 0-3s | Plano geral lateral em ângulo baixo]
+Uma plataforma de pedra tranquila de uma seita acima do mar de nuvens. Corrimãos de pedra, uma antiga parede de eco, nove sinos de bronze pendurados, pinheiros antigos retorcidos, tiras de oração tremulando ao vento e telhados distantes de telha estabelecem uma relação espacial clara e estável. A irmã sênior imortal espadachim, vestindo Hanfu de seda branca bordada, fica ao lado da irmã júnior de túnica azul-esverdeada, olhando cautamente ao redor com uma expressão confiante pronta para compartilhar um segredo; a brisa da montanha move suavemente seus cabelos, mangas, tiras e a névoa.
+
+[Cena 2 | 3-6s | Plano médio de duas pessoas]
+A irmã sênior levanta dois dedos, forma um pequeno selo de transmissão de voz na boca e sussurra: "Vou te contar um segredo, o Mestre comeu três pedaços de bolo de osmanthus ontem à noite." Uma fina onda sonora azul-clara voa precisamente para o ouvido da irmã júnior; ela imediatamente abre bem os olhos, cobre a boca com a mão, lutando para conter o riso.
+
+[Cena 3 | 6-10s | Close-up seguindo a revelação até close extremo]
+A mesma onda sonora não para a tempo, passa por cima da irmã júnior e atinge a antiga parede de eco, então ricocheteia sequencialmente pelos nove sinos de bronze, espalhando as palavras sussurradas como um grande eco pelo vale: "O Mestre comeu três pedaços de bolo de osmanthus ontem à noite—" Os nove sinos de bronze vibram em sequência, pássaros nos cumes dos telhados distantes se assustam e se dispersam. Da direção do salão principal vem uma leve tosse de um ancião invisível, seguida por uma pergunta calma: "Quem comeu o quarto pedaço?" As irmãs sênior e júnior congelam simultaneamente. Close extremo: Os dois dedos levantados da irmã sênior lentamente se curvam, uma sobrancelha treme levemente, ela olha silenciosamente para a irmã júnior; as bochechas da irmã júnior incham visivelmente. Termina com um som muito leve e culpado de engolir em seco.
+
+[Requisitos Técnicos]
+Duração total estrita de 10 segundos, formato paisagem 16:9, três cenas claras, diálogo nativo em mandarim, sincronização labial precisa, palavras sussurradas têm movimento direcional claro, camadas de eco dos sinos de bronze são distintas, rostos e roupas dos personagens permanecem estáveis, direções de movimento são coerentes. Névoa da montanha, tecido de seda, cabelo, sinos de cobre, tiras de oração e ondas sonoras movem-se naturalmente. Sem legendas geradas, sem adição de personagens visíveis extras.
+
+[Palavras Negativas]
+borrado, má qualidade, baixa qualidade, baixa resolução, ruidoso, artefatos jpeg, marca d'água, texto, erro; deformado, mutante, anatomia ruim, mãos mal desenhadas, má composição, fora do quadro, desfigurado; personagem inconsistente, mudança de roupa, morfismo facial.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108920849994821632/img/FVH4RLpzE6YKZlgi.jpg" width="600" alt="Prompt de Vídeo de Comédia Xianxia para Seedance 2.0">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12305)**
+
+**Autor:** [superfang119](https://x.com/superfang119) | **Fonte:** [Link](https://x.com/superfang119/status/2108921025098584072) | **Publicado:** Oct 10, 2026
+
+---
+### Criatura de Lã Tricotada Caminhando em Telhado Chuvoso
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Post de comparação compartilhando um prompt específico usado em vários modelos de vídeo de IA, incluindo Seedance 2.5, apresentando uma criatura de tricô em um telhado.
+
+#### 📝 Prompt
+
+```
+uma pequena criatura de lã tricotada com três olhos de botão e braços longos como macarrão caminha na ponta dos pés por um telhado chuvoso iluminado por neon à noite, para, olha diretamente para a câmera e abre um guarda-chuva miniatura feito de folha
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108687552165359616/img/UJcNTYyE79TlkLNe.jpg" width="600" alt="Criatura de Lã Tricotada Caminhando em Telhado Chuvoso">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12263)**
+
+**Autor:** [Korpi AI](https://x.com/KorpiAi) | **Fonte:** [Link](https://x.com/KorpiAi/status/2108687594913738792) | **Publicado:** Oct 9, 2026
+
+---
 ### Cena de Nuvem em Animação Infantil
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6049,487 +6177,6 @@ Publicidade de fragrância ultra-premium, visual cinematográfico de 35mm, textu
 **Autor:** [Meenakshi Yadav](https://x.com/MeenakshiYACS) | **Fonte:** [Link](https://x.com/MeenakshiYACS/status/2103462025871372380) | **Publicado:** Sep 25, 2026
 
 ---
-### Prompt de anúncio cinematográfico premium para motocicleta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para um anúncio cinematográfico de alto orçamento para motocicleta, apresentando uma narrativa de mistério e revelação.
-
-#### 📝 Prompt
-
-```
-Crie um anúncio cinematográfico premium de 30 segundos centrado em uma poderosa motocicleta pesada e uma piloto adulta impressionante.
-
-O filme deve inicialmente parecer um thriller de ação cinematográfico sério e de alto orçamento — NÃO um comercial de motocicleta.
-
-Nos primeiros 20 segundos, crie mistério e tensão. O público deve se perguntar para onde ela está indo, o que ela está procurando e por que ela está pilotando sozinha através de um ambiente tão perigoso.
-
-A motocicleta deve parecer pesada, poderosa, cara e mecanicamente realista.
-
-A história deve construir naturalmente a partir de:
-
-MISTÉRIO → PERSEGUIÇÃO → PERIGO → DESTINO → REVELAÇÃO → PRODUTO HEROICO
-
-NÃO copie nenhum anúncio, filme, comercial, personagem, composição, cena ou sequência visual existente. Crie uma história totalmente original.
-
-ESTILO VISUAL
-
-Filmagem cinematográfica fotorrealista.
-
-Produção premium de comercial automotivo de alto orçamento.
-
-Visual de cinema de grande formato com fotografia anamórfica de 35mm.
-
-Contraste cinematográfico profundo, textura natural da pele, materiais realistas da motocicleta: metal, couro, vidro e borracha.
-
-Vibração realista do motor, movimento da suspensão e movimento mecânico.
-
-Grão de filme sutil, desfoque de movimento natural e iluminação ambiental realista.
-
-Sem aparência de desenho animado.
-Sem estética genérica de IA.
-A motocicleta deve permanecer fisicamente crível e visualmente consistente durante todo o filme.
-
-Use paisagens amplas dramáticas contrastadas com close-ups íntimos.
-
-A paleta de cores começa fria e dessaturada e transita gradualmente para tons dourados ricos e quentes em direção à revelação final.
-
-PERSONAGEM PRINCIPAL
-
-Uma mulher adulta lindamente impressionante no final dos seus 20 anos.
-
-Cabelos escuros e fluídos naturalmente presos sob um capacete preto premium de motocicleta.
-
-Expressão confiante e focada.
-
-Maquiagem natural.
-
-Ela veste uma jaqueta de couro preta ajustada para motocicleta, calças escuras de pilotagem, luvas pretas e botas de proteção realistas.
-
-Sua aparência, roupas, capacete e motocicleta permanecem perfeitamente consistentes durante todo o filme.
-
-Ela deve parecer uma piloto profissional real, não uma modelo posando em uma motocicleta.
-
-MOTOCICLETA
-
-Uma enorme motocicleta pesada premium.
-
-Proporções musculosas.
-
-Motor grande.
-
-Pneu traseiro largo.
-
-Quadro metálico pesado.
-
-Acabamentos em preto premium e metal escovado.
-
-Movimento realista da suspensão.
-
-Vibração visível do motor.
-
-Farol poderoso.
-
-Reflexões sutis no tanque de combustível.
-
-A motocicleta deve parecer extremamente poderosa, mas elegante.
-
-Mantenha o design exato da motocicleta consistente em todas as tomadas.
-
-CENA 1 — A ESTRADA DESCONHECIDA
-
-0–5 SEGUNDOS
-
-TOMADA CINEMATOGRÁFICA EXTREMA E AMPLA.
-
-Uma estrada de montanha gigante e vazia desaparece na névoa densa.
-
-Atmosfera fria de início de manhã.
-
-O vento atravessa a paisagem.
-
-Nada mais é visível.
-
-Um rugido distante do motor cresce lentamente.
-
-Uma motocicleta pesada emerge subitamente da névoa.
-
-A piloto feminina permanece completamente estável enquanto a máquina enorme se move pela estrada vazia.
-
-A câmera se aproxima gradualmente.
-
-CORTE PARA um close-up extremo de seus olhos dentro do capacete.
-
-Focados. Sem emoção.
-
-Ela olha para algo muito à frente.
-
-Sua mão aperta sutilmente o acelerador.
-
-O som do motor aumenta.
-
-Transição natural para a próxima tomada mantendo movimento e som contínuos.
-
-CENA 2 — A PERSEGUIÇÃO
-
-5–10 SEGUNDOS
-
-Sequência cinematográfica rápida.
-
-A motocicleta acelera através de uma estrada de montanha sinuosa.
-
-Câmera baixa quase tocando o asfalto.
-
-O pneu traseiro lança pequenas partículas de água da estrada molhada.
-
-Close-up de sua mão enluvada girando o acelerador.
-
-O motor responde com um rugido mecânico profundo.
-
-Close-up de sua bota mudando naturalmente de marcha.
-
-Close-up do velocímetro subindo.
-
-Tomada ampla estilo aéreo:
-
-A pequena motocicleta corta uma enorme paisagem de montanha.
-
-Ela subitamente verifica seu espelho retrovisor.
-
-Algo parece estar seguindo ela à distância, mas nunca é claramente revelado.
-
-A música intensifica.
-
-Ela acelera com mais força.
-
-Mantenha fluxo visual contínuo entre as tomadas sem quadros pretos ou transições desnecessárias.
-
-CENA 3 — O PERIGO
-
-10–16 SEGUNDOS
-
-O clima subitamente fica violento.
-
-Começa chuva forte.
-
-Relâmpagos iluminam brevemente as montanhas.
-
-A estrada estreita dramaticamente ao lado de um penhasco maciço.
-
-A piloto desacelera.
-
-Uma grande árvore caída bloqueia parcialmente a estrada.
-
-Ela para.
-
-Por um momento, tudo fica silencioso exceto pelo motor da motocicleta funcionando na chuva.
-
-Ela olha para o obstáculo.
-
-Então nota um caminho estreito de terra desaparecendo na floresta escura.
-
-Um sorriso sutil e confiante.
-
-Ela vira o guidão.
-
-A motocicleta pesada deixa a estrada pavimentada.
-
-Os pneus maciços esmagam cascalho molhado.
-
-Lama e água respingam naturalmente ao redor das rodas.
-
-A câmera segue de perto enquanto ela entra na floresta.
-
-Ela desaparece mais fundo na escuridão.
-
-CENA 4 — O DESTINO
-
-16–21 SEGUNDOS
-
-A floresta escura subitamente se abre.
-
-A motocicleta emerge em um mirante de montanha espetacular.
-
-A tempestade passou.
-
-A luz dourada do sol rompe as nuvens.
-
-Toda a atmosfera visual transforma-se de fria e dessaturada em tons cinematográficos ricos e quentes.
-
-A piloto para lentamente.
-
-Ela remove o capacete.
-
-Seus cabelos escuros caem naturalmente sobre os ombros.
-
-Ela olha para o horizonte enorme.
-
-Pela primeira vez, o mistério fica claro:
-
-Ela não estava fugindo de nada.
-
-Ela estava procurando este lugar.
-
-Ela caminha em direção à borda do mirante.
-
-Então vira lentamente de volta para a motocicleta.
-
-CENA 5 — A REVELAÇÃO DA MOTOCICLETA
-
-21–26 SEGUNDOS
-
-A música cai para um momento restrito, quase silencioso.
-
-A câmera inicia uma órbita cinematográfica lenta e elegante ao redor da motocicleta.
-
-A luz dourada do sol desliza sobre a carroceria metálica.
-
-Mostre belos detalhes macro através de transições fluidas:
-
-Componentes do motor.
-
-Quadro de metal escovado.
-
-Reflexos no tanque de combustível.
-
-Farol.
-
-Assento de couro.
-
-Conjunto de freios.
-
-Pneu traseiro largo.
-
-Suspensão.
-
-Pequenas vibrações mecânicas são visíveis enquanto o motor funciona em marcha lenta.
-
-A piloto senta novamente na motocicleta.
-
-Ela liga o motor.
-
-Um som mecânico profundo e poderoso preenche a paisagem de montanha.
-
-Ela dá uma torcida controlada no acelerador.
-
-LOCUÇÃO:
-
-“Algumas estradas não foram feitas para serem fáceis.”
-
-Breve pausa.
-
-“Elas foram feitas para serem lembradas.”
-
-Nenhum texto aparece na tela durante a história.
-
-CENA 6 — TOMADA FINAL DO HERÓI
-
-26–30 SEGUNDOS
-
-Tomada heroica cinematográfica ultra-premium.
-
-A mulher senta confiantemente na motocicleta pesada na borda do mirante de montanha.
-
-Pôr do sol dourado atrás dela.
-
-O vento move seus cabelos e jaqueta de couro naturalmente.
-
-A motocicleta domina o primeiro plano.
-
-A câmera empurra lentamente em direção ao farol frontal.
-
-O farol acende.
-
-Segure para uma composição final poderosa.
-
-Somente agora introduza tipografia mínima e elegante:
-
-FEITA PARA A ESTRADA.
-
-Após uma breve batida, revele o nome da marca da motocicleta abaixo disso.
-
-Som final:
-
-UMA ACELERADA PROFUNDA DO MOTOR.
-
-CORTE PARA PRETO SOMENTE NO MUITO FINAL.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103455049800110080/img/nradV-JDctghwpd8.jpg" width="600" alt="Prompt de anúncio cinematográfico premium para motocicleta">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11327)**
-
-**Autor:** [H A J R A](https://x.com/codewithhajra) | **Fonte:** [Link](https://x.com/codewithhajra/status/2103455108738539821) | **Publicado:** Sep 25, 2026
-
----
-### Prompt de cena de terror zumbi cinematográfico coreano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar um vídeo de terror zumbi cinematográfico coreano fotorrealista, apresentando um confronto emocional entre sobreviventes em uma fazenda abandonada.
-
-#### 📝 Prompt
-
-```
-Crie uma curta cena de terror zumbi cinematográfico coreano fotorrealista em proporção 16:9, ambientada na cozinha de uma fazenda abandonada. Uma sobrevivente coreana chorando, com cabelos escuros bagunçados, sangue seco na testa e vestindo um anorak verde-oliva sujo com capuz, aponta uma pistola preta para seu amante infectado. Ela está tremendo, lágrimas escorrendo pelo rosto, mas não consegue puxar o gatilho.
-
-O homem infectado tem cabelos escuros emaranhados, pele pálida e suja, olhos brancos leitosos, veias escuras, roupas rasgadas e uma expressão cada vez mais selvagem. Ele rosna alto e grita diretamente para ela. Ela abaixa lentamente a pistola, deixa-a cair ao lado dela e abre os braços em sua direção. De repente, ele grita novamente, avança violentamente e agarra o rosto dela com força.
-
-Corte brusco para memórias quentes da hora dourada do mesmo casal feliz juntos em um vasto campo de trigo — rindo, se abraçando, caminhando de mãos dadas pela grama dourada e sentados juntos sob o pôr do sol. Faça o contraste entre o presente frio e as memórias belas ser emocionalmente poderoso.
-
-Cinema live-action fotorrealista, pele e lágrimas naturais, olhos e expressões faciais realistas dos infectados, câmera na mão, horror com efeitos práticos, granulação de filme 35mm, movimento e iluminação críveis. Sem disparos, sem gore, sem diálogos, sem câmera lenta, sem enredo extra, sem aparência CGI, sem animação, sem anatomia distorcida, sem personagens duplicados, sem legendas, sem texto, sem marca d'água.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103422758864719872/img/uyeU0c2yFYwSrEq_.jpg" width="600" alt="Prompt de cena de terror zumbi cinematográfico coreano">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11320)**
-
-**Autor:** [ORHAN](https://x.com/OrhanGhazi65942) | **Fonte:** [Link](https://x.com/OrhanGhazi65942/status/2103422813743046993) | **Publicado:** Sep 25, 2026
-
----
-### Time-lapse de Aldeia ao Redor de Árvore Gigante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para um time-lapse fotorealista vertical de 30 segundos, mostrando a construção em miniatura de uma aldeia ao redor de uma árvore antiga.
-
-#### 📝 Prompt
-
-```
-Crie um time-lapse de construção em miniatura ultra-fotorrealista, vertical (9:16), com duração de 30 segundos: uma aldeia espetacular construída fisicamente ao redor de UMA enorme árvore antiga. Centenas de pequenos trabalhadores adultos realistas são visíveis continuamente, trabalhando simultaneamente com ferramentas, escadas, cordas, carroças e guindastes em miniatura. Construção rápida mas legível, fotografia cinematográfica macro, luz solar natural, madeira, pedra, solo, musgo e vegetação realistas, 4K HDR, realismo de ação ao vivo.
-
-0–2s: Os trabalhadores limpam o terreno, marcam as fundações e cavam ao redor das raízes da árvore gigante.
-
-2–4s: Pedras de fundação e vigas de piso de madeira são colocadas; os trabalhadores erguem os primeiros postes de madeira.
-
-4–6s: Painéis de parede, tábuas de piso e vigas de suporte são montados peça por peça.
-
-6–8s: Os trabalhadores levantam as treliças, constroem telhados inclinados e colocam telhas de madeira uma a uma.
-
-8–10s: Equipes sobem no tronco e constroem plataformas elevadas ao redor dos galhos massivos.
-
-10–12s: Casas na árvore surgem enquanto os trabalhadores instalam paredes, janelas, portas, varandas e telhados.
-
-12–14s: Os trabalhadores constroem pontes de madeira e escadas em espiral conectando as casas na árvore.
-
-14–16s: Mais chalés são construídos fisicamente para fora da árvore gigante, da fundação ao telhado.
-
-16–18s: Centenas de trabalhadores pavimentam caminhos de pedra, cercas e uma pequena ponte de madeira sobre um riacho.
-
-18–20s: Um mercado é montado sob a árvore com barracas, balcões e cabanas de armazenamento.
-
-20–22s: Plataformas superiores, varandas e casas na árvore conectadas se expandem através dos galhos.
-
-22–24s: Os trabalhadores instalam corrimãos, escadas, pontes de corda, postes de lanternas e caixas de flores.
-
-24–26s: As equipes colocam pedras, plantam flores e árvores, criam jardins e finalizam caminhos sinuosos.
-
-26–28s: Detalhes finais da construção são fixados enquanto centenas de trabalhadores continuam movendo materiais e trabalhando por toda a aldeia.
-
-28–30s: Revelação na hora dourada. Pequenos aldeões cruzam pontes e caminhos enquanto a câmera recua suavemente e sobe, revelando a enorme árvore antiga cercada pela aldeia multi-nível concluída.
-
-REGRA CHAVE: A cada 2 segundos, introduz-se um NOVO estágio de construção visível, enquanto as equipes anteriores continuam trabalhando. Os edifícios devem progredir visivelmente: fundação → vigas → paredes → telhado → detalhes. Sem conclusão instantânea.
-
-NEGATIVO: desenho animado, brinquedo, plástico, aparência CGI, construção mágica, aparecimento instantâneo, morphing, teletransporte, objetos flutuantes, materiais desaparecendo, trabalhadores duplicados, humanos gigantes, crianças, falhas anatômicas, mudança da árvore, arquitetura inconsistente, cenas vazias, texto, logotipos, marca d'água.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103399617383825408/img/eZVzam3YTDOfq84q.jpg" width="600" alt="Time-lapse de Aldeia ao Redor de Árvore Gigante">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11332)**
-
-**Autor:** [Maverick | AI](https://x.com/RizwanAly07) | **Fonte:** [Link](https://x.com/RizwanAly07/status/2103399820824289472) | **Publicado:** Sep 25, 2026
-
----
-### Ação de Terror com Criaturas de Museu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado baseado em cronograma para um curta-metragem de terror e ação cinematográfico, apresentando uma criatura escapando de uma vitrine de museu.
-
-#### 📝 Prompt
-
-```
-Curta-metragem de terror e ação cinematográfico ambientado em um salão de exposições de museu, abre com um gancho forte imediato, trabalho de câmera dinâmico ao máximo, estilo prático de efeitos especiais. O museu está cheio de vitrines de vidro contendo várias exposições de criaturas — figuras alienígenas, espécimes preservados, seres míticos — visitantes caminhando pela área admirando as mostras sob iluminação dramática de exposição. Gradação de cores autêntica e suave, som diegético natural durante todo o filme, trilha sonora de tensão entrando imediatamente.
->
-> **[0-1s]** Corte seco: uma vitrine de vidro racha violentamente e depois estilhaça para fora.
->
-> **[1-2s]** Uma criatura espectro-sombra emerge — forma translúcida, semelhante a fumaça, membros com garras, olhos vermelhos brilhantes.
->
-> **[2-3s]** Ela avança sobre o visitante mais próximo com velocidade antinatural, fechando a distância instantaneamente.
->
-> **[3-4s]** Ele é derrubado com força, desabando no chão imóvel.
->
-> **[4-5s]** Visitantes próximos gritam, recuando apressadamente da exposição.
->
-> **[5-6s]** A criatura vira rapidamente, abatendo um segundo visitante com a mesma rapidez.
->
-> **[6-7s]** O pânico se espalha pelo salão, pessoas correndo em direção às saídas.
->
-> **[7-8s]** Dois seguranças entram correndo, armas em punho, escaneando o caos.
->
-> **[8-9s]** Eles abrem fogo na posição da criatura, mas ela se move em uma explosão antinatural de velocidade.
->
-> **[9-10s]** Os tiros erram completamente, atingindo uma vitrine atrás do local onde ela estava.
->
-> **[10-11s]** A criatura desaparece nas sombras entre as exposições, saindo de vista.
->
-> **[11-12s]** Plano aberto: visitantes se escondem atrás de pilares e vitrines, seguranças se dispersam cautelosamente.
->
-> **[12-14s]** Mais seguranças chegam, formando uma linha de busca lenta e cuidadosa através do salão.
->
-> **[14-16s]** Plano de acompanhamento: eles se movem deliberadamente entre as exposições, armas erguidas, escaneando cada sombra.
->
-> **[16-17s]** A lanterna de um segurança capta um breve vislumbre de olhos vermelhos em um canto escuro.
->
-> **[17-18s]** A criatura irrompe subitamente, abatendo dois seguranças em rápida sucessão.
->
-> **[18-19s]** Os seguranças restantes recuam, reagrupando-se rapidamente perto de uma exposição central.
->
-> **[19-20s]** Inserção em CÂMERA LENTA: a criatura vira-se para o segurança líder, avançando para frente.
->
-> **[20-21s]** Ele mantém sua posição, rastreando seu movimento cuidadosamente apesar do perigo.
->
-> **[21-22s]** Ele dispara um tiro preciso e bem mirado assim que ela se aproxima.
->
-> **[22-23s]** O tiro acerta solidamente, a forma da criatura tremulando violentamente.
->
-> **[23-24s]** Ela cambaleia, seu corpo translúcido desestabilizando-se rapidamente.
->
-> **[24-25s]** Ela desaba no chão, dissolvendo-se em mechas de fumaça escura.
->
-> **[25-27s]** Plano aberto: o salão fica em silêncio, os seguranças baixando suas armas lentamente.
->
-> **[27-29s]** Eles verificam os visitantes caídos, alguns começando a se mexer, vivos mas chocados.
->
-> **[29-30s]** A câmera foca nos restos da vitrine quebrada enquanto a luz pisca.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103363374046429184/img/5AwgBF7THBLxOxpO.jpg" width="600" alt="Ação de Terror com Criaturas de Museu">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11331)**
-
-**Autor:** [auqib](https://x.com/auqibhabib) | **Fonte:** [Link](https://x.com/auqibhabib/status/2103363732965556355) | **Publicado:** Sep 25, 2026
-
----
-### Prompt de Vídeo Cinematográfico de Cabana de Inverno
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar um vídeo cinematográfico realista de uma mulher em uma cabana aconchegante no inverno, com movimentos de câmera específicos e detalhes atmosféricos.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo cinematográfico altamente realista de um inverno tranquilo, mostrando uma mulher em uma cabana de madeira aconchegante, cercada por uma bela paisagem montanhosa coberta de neve. Comece com um close íntimo da mulher descansando pacificamente dentro de casa, enquanto a luz dourada do sol entra suavemente pela janela, iluminando seu rosto. Faça uma transição para uma vista cinematográfica ampla da varanda da cabana nevada, pinheiros altos, montanhas distantes e um nascer do sol quente brilhando sobre a paisagem. Mostre pequenos pássaros voando e pousando na grade de madeira coberta de neve, enquanto a mulher estende gentilmente a mão para alimentá-los. Capture texturas detalhadas da neve, movimentos naturais dos pássaros, vento suave de inverno e luz solar realista. Em seguida, mostre-a dentro da cabana preparando uma xícara de chá quente ao lado de uma chaleira tradicional perto da janela. Foque em suas mãos, na xícara fumegante, no suéter de tricô aconchegante e na paisagem nevada tranquila lá fora. Siga-a enquanto ela caminha lentamente por um caminho de madeira coberto de neve, vestindo um suéter creme quente e calças escuras. Termine com uma vista aérea cinematográfica ampla das cabanas silenciosas cobertas de neve, floresta de pinheiros, montanhas e um pôr do sol ou nascer do sol brilhante ao longe. Use texturas fotorrealistas, movimento humano natural, iluminação realista, profundidade de campo sutil, movimento de câmera suave, detalhes atmosféricos de inverno e color grading cinematográfico autêntico, fazendo com que todo o vídeo pareça filmagem da vida real, e não gerado por IA.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103359076004691968/img/ivUZ2Dqzi2ShtzCi.jpg" width="600" alt="Prompt de Vídeo Cinematográfico de Cabana de Inverno">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11230)**
-
-**Autor:** [liana](https://x.com/Lianaalane) | **Fonte:** [Link](https://x.com/Lianaalane/status/2103359307874226667) | **Publicado:** Sep 25, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -6591,6 +6238,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-11T04:49:37.353Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-11T15:09:45.486Z</sub>
 
 </div>
