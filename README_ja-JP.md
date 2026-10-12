@@ -68,7 +68,7 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **6526** |
+| 📝 プロンプト総数 | **6529** |
 | ⭐ おすすめプロンプト | **6** |
 | 🔄 最終更新 | **2026-10-12** |
 
@@ -361,6 +361,77 @@ Seedance 2.0 を使用して、夜のシネマティックなストリートレ�
 
 > 📝 公開日でソート（新しい順）
 
+### 体操選手 バランスビーム ルーティン 動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 室内ホールでバランスビーム上の優雅なルーティンを披露する女性体操選手の、超リアルなシネマティック動画のプロンプト。
+
+#### 📝 プロンプト
+
+```
+伝統的な屋内体操ホールで、才能ある若い女性体操選手がバランスビーム上で優雅なルーティンを披露する、超リアルなシネマティック動画。彼女はバーガンディ色の長袖レオタードを着用し、茶色の髪はきれいに後ろで束ねられています。彼女はビーム上を優雅に歩き、バランスを取るために腕を広げ、完璧な柔軟性とコントロールで驚くほど美しいフルスプリットを決めます。背景では座っている観客が熱心に見守っています。暖色系の屋内照明、リアルな肌の質感、自然な体の動き、滑らかなシネマティックカメラトラッキング、浅い被写界深度、ソフトな背景ボケ、プロフェッショナルなスポーツ写真、リアルなモーション、4K UHD、24fps、縦型 9:16 コンポジション、高詳細、フォトリアリスティック。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109510154567974912/img/KvPK7VQYYAV2EzZm.jpg" width="600" alt="体操選手 バランスビーム ルーティン 動画">
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=12358)**
+
+**作者:** [AIwithMinal](https://x.com/AIwithMinal) | **ソース:** [Link](https://x.com/AIwithMinal/status/2109510249573191819) | **公開日:** Oct 12, 2026
+
+---
+### ピンクのドラゴンと女性が小屋で過ごすシネマティックなファンタジー動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 雪に覆われた木造小屋の中で、若い女性と愛らしいピンク色のベビードラゴンが交流する様子を捉えた、36秒間の超リアルなシネマティック・ファンタジー動画生成用プロンプト。
+
+#### 📝 プロンプト
+
+```
+雪景色に囲まれた素朴な木造小屋の中で、長いウェーブのかかった黒髪に快適なベージュのニットセーターを着た美しい若い女性が、愛らしいピンク色のベビードラゴンと交流する姿を描いた、36秒間の超リアルなシネマティック・ファンタジー動画を制作してください。女性は新鮮な食事を用意し、小さな生き物に微笑みかけ、好奇心で輝く大きな金色の瞳を持つドラゴンを愛情深く給餌します。愛らしいドラゴンは小さな羽を動かし、尻尾を揺らしながら、暖炉の光に照らされた彼女の腕の中に寄り添います。窓の外では雪が降り積もり、息を呑むような風景とともに魔法のような冬の雰囲気を醸し出します。ドラゴンの繊細なピンクの鱗、半透明のヒレ、表情豊かな目、そして女性の自然な顔立ちを捉えた美しいクローズアップショットを含めてください。滑らかなシネマティックなカメラワーク、リアリスティックな相互作用、詳細な木製インテリア、柔らかなライティング、シームレスなシーン遷移を組み込みます。女性は輝く暖炉のそばで、彼女を見上げて愛おしそうにするその生物を優しく抱きしめます。完璧なキャラクターの一貫性、フォトリアルなテクスチャー、自然な動き、プロフェッショナルな4Kシネマトグラフィ、そしてテキスト、ロゴ、ウォーターマークのない、感情的に魅了するファンタジーな雰囲気を保ってください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109456966603161600/img/yQObaARfkE7CuA3p.jpg" width="600" alt="ピンクのドラゴンと女性が小屋で過ごすシネマティックなファンタジー動画">
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=12356)**
+
+**作者:** [Maha](https://x.com/Aiwithmaha) | **ソース:** [Link](https://x.com/Aiwithmaha/status/2109457141174247789) | **公開日:** Oct 12, 2026
+
+---
+### 日本の道場でのシネマティックな格闘訓練
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 伝統的な日本の木造道場で2人の女性が組手を行う、超リアルなシネマティック格闘訓練シーンを生成するためのプロンプト。
+
+#### 📝 プロンプト
+
+```
+AI Video Prompt: シネマティックな格闘訓練
+
+緑豊かな庭園に囲まれた伝統的な日本の木造道場で、熟練した若い女性2人が組手を練習する、超リアルなシネマティック格闘訓練シーンを作成してください。
+
+1人は栗色の髪をポニーテールに結び、茶色の長袖トレーニングトップと暗い色のズボンを着用しています。もう1人は短くカールの黒髪で、明るいベージュの武道着と暗い色のズボンを着用しています。
+
+彼女たちは印象的なスピード、精度、バランスで、現実的なパンチ、ブロック、防御動作、カウンターアタックを実行します。動きは自然に流れるようにし、正確なボディメカニクス、リアルなフットワーク、表情豊かな顔、本格的な格闘振付を含めます。柔らかい自然光が木造パビリオンを通り抜け、磨き上げられた床と緑の風景を照らします。
+
+カメラ：シネマティックなミディアムワイドショット、スムーズなトラッキングムーブメント、時折のクローズアップ、リアルなモーションブラー、ダイナミックなアングル。
+
+ビジュアルスタイル：フォトリアリスティック、4Kシネマティック品質、自然光、詳細な布地の質感、浅い被写界深度、微かなフィルムグレイン、プロフェッショナルなアクション映画の撮影技術。
+
+ムード：緊張感、規律正しさ、優雅さ、力強さ、集中。
+
+フォーマット：縦型9:16、連続したリアルな動き、一貫したキャラクターの外見、振付を妨げるカットなし、歪んだ解剖構造なし、余分な四肢なし、テキストなし、ウォーターマークなし。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109200093870219264/img/VT3q4u7Y8J729LDG.jpg" width="600" alt="日本の道場でのシネマティックな格闘訓練">
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=12357)**
+
+**作者:** [AIwithMinal](https://x.com/AIwithMinal) | **ソース:** [Link](https://x.com/AIwithMinal/status/2109200265534718164) | **公開日:** Oct 11, 2026
+
+---
 ### 炎の女性戦士 シネマティックアクション動画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5966,203 +6037,6 @@ Elsaは地下鉄出口の階段に近づきます。
 **作者:** [DeCat](https://x.com/DeCat2025) | **ソース:** [Link](https://x.com/DeCat2025/status/2103615529986699498) | **公開日:** Sep 25, 2026
 
 ---
-### CCTV Footage Anomaly Script
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a realistic fixed security-camera recording of an apartment hallway with a supernatural anomaly involving a detached shadow.
-
-#### 📝 プロンプト
-
-```
-Create a 30-second realistic fixed security-camera recording inside an ordinary apartment building hallway at night.
-
-IMPORTANT: This is a SINGLE CONTINUOUS STATIC CAMERA SHOT. The camera never moves, never zooms, and never changes angle.
-
-The hallway has an elevator clearly visible at the CENTER of the frame. The elevator has two clearly visible sliding doors. The man must walk directly toward the elevator doors, stop in front of them, enter the elevator through the open doors, and then the elevator doors must close.
-
-Do NOT let the man walk into a wall. Do NOT change the hallway layout. Do NOT move the elevator. Do NOT introduce any other person.
-
-VISUAL STYLE:
-Authentic low-quality apartment CCTV footage.
-Fixed ceiling-mounted security camera.
-Wide 16:9 frame.
-Slight fisheye distortion.
-Low-light digital noise.
-Mild compression artifacts.
-Flat fluorescent hallway lighting.
-Small timestamp in the corner.
-No cinematic camera movement.
-No dramatic color grading.
-No horror-film effects.
-
-TIMELINE:
-
-0–7 seconds:
-The hallway is completely ordinary and empty.
-
-A man enters the frame from the far end and casually walks toward the elevator in the CENTER of the hallway.
-
-His normal human shadow is clearly visible on the floor beneath and behind him.
-
-7–12 seconds:
-The man reaches the elevator.
-
-The elevator doors OPEN clearly.
-
-The man walks through the OPEN elevator doorway and stands INSIDE the elevator.
-
-He is completely visible inside the elevator.
-
-The elevator doors then CLOSE completely.
-
-12–16 seconds:
-The hallway is empty.
-
-The closed elevator remains completely normal.
-
-The man's shadow is no longer visible because he is inside the closed elevator.
-
-Nothing happens for a few seconds.
-
-16–20 seconds:
-A subtle anomaly begins.
-
-A dark human-shaped shadow slowly appears from underneath the CLOSED elevator doors.
-
-There is NO PERSON outside creating this shadow.
-
-The shadow is clearly detached from any physical person.
-
-It slowly extends farther across the hallway floor.
-
-20–25 seconds:
-The detached shadow continues moving away from the elevator across the floor.
-
-It moves like the shadow of a person walking, even though there is NO PERSON anywhere in the hallway.
-
-The elevator doors remain CLOSED the entire time.
-
-The physical environment remains completely unchanged.
-
-25–30 seconds:
-The detached shadow reaches the middle of the hallway.
-
-It suddenly stops.
-
-Hold on the empty hallway with the impossible shadow visible on the floor.
-
-Then abruptly CUT TO BLACK.
-
-ABSOLUTE PRIORITIES:
-
-1. The man MUST enter the elevator, not the wall.
-2. The elevator must be clearly visible and centered.
-3. The elevator doors must visibly OPEN before he enters.
-4. The man must be completely INSIDE the elevator before the doors close.
-5. The elevator doors must remain CLOSED while the detached shadow emerges.
-6. The detached
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103492335661359105/img/BfCHLQcbLaAaTy-h.jpg" width="600" alt="CCTV Footage Anomaly Script">
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11334)**
-
-**作者:** [Meem](https://x.com/mehvishs25) | **ソース:** [Link](https://x.com/mehvishs25/status/2103492588095304088) | **公開日:** Sep 25, 2026
-
----
-### ジムVlog風カムコーダー・スタイルのプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> レトロなDVカムコーダーの質感を備えた、遊び心のあるジムVlog動画を生成するためのプロンプトです。キャラクターの詳細、設定、およびストーリーボードのカットが含まれています。
-
-#### 📝 プロンプト
-
-```
-**カメラ:**
-DV 16mmテープカムコーダーの手ブレ感。CHASEが自分でカメラを持つ視点（POV）。床やマットに立てかけてハンズフリーで体幹トレーニングを撮影することもある。手ブレ、構図のずれ、ピント合わせの遅れ、不器用なズーム、顔の一部が切れる構図、完璧ではないショット。カメラ自体は画面には映らない。
-
-**ルック:**
-柔らかくややぼやけたテープ画質、微かなテープノイズ、ジムの照明下でのハイライトの滲み、自動露出のちらつき、コントラストの低下、リアルな肌色。
-
-**スタイル:**
-遊び心があり、自虐的なジムVlogのトーン — 本物の疲労とユーモアが入り混じり、体幹トレーニングを文句言いながらもやり遂げる様子。素早いハンドヘルドカット、完全に疲れ果てるのではなく、軽くて面白いエネルギーを全体を通じて維持する。
-
-**キャラクター**
-
-CHASE — 韓国人アイドル、20代。長い黒髪を高いポニーテールにまとめ、軽い汗の艶がある輝く肌、大きく表情豊かな目。スリムなアスリート体型。控えめな長袖のアスレチックトップ、ゆったりしたジョガーパンツまたはフィットしたレギンス（腕と胴体は完全に覆われている）、スニーカーは脱いでいるか靴下のみ、ジュエリーなし。
-
-**設定**
-
-夕方のジムのマットエリア — 近くにミラーウォール、床にウォーターボトル、柔らかい天井からの照明、背景に他の機器が見える。
-
-**ストーリーボード (15秒, 6カット)**
-
-1. *(約2.5秒、立てかけカメラ、ミディアムショット)* マットの上に横になり、肘で体を起こしながら、すでに大げさにため息をついている。CHASE: 「よし、体幹の日 — 私の一番嫌いな日だ。」
-
-2. *(約2.5秒、立てかけカメラ、プランクポジション)* プランクをキープし、腕がわずかに震え、歯を食いしばって話している。CHASE (苦しそうに): 「なんで毎回もっと難しくなるんだ—」
-
-3. *(約2.5秒、中景立てかけショット、クランチ)* クランチのセットに移行し、荒い呼吸をしながら、レップの合間に文句を言っている。CHASE: 「これが実際にどれほど燃えるか、誰も教えてくれなかったよ。」
-
-4. *(約2秒、マクロ挿入、浅い被写界深度)* レッグレイズ中にマットの端を握る彼女の手のクローズアップ。腹筋が明確に動いているのが見える。セリフなし — ジムの環境音のみ。
-
-5. *(約2.5秒、ハンドヘルド、レッグレイズ)* ゆっくりとしたレッグレイズのセットを終え、直後にマットに倒れ込み、自分自身を見て笑っている。CHASE (息切れして): 「よし— もう無理、終わり—」
-
-6. *(約3秒、アームズレングスのセルフィーフィニッシュ)* まだマットに寝たまま、彼女は疲れた笑顔でカメラを顔の上にかざす。CHASE: 「体幹の日は決して楽にならない — また明日ね、 hopefully.」
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103476166715899904/img/5_rzHDdpEsX2PWPt.jpg" width="600" alt="ジムVlog風カムコーダー・スタイルのプロンプト">
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11330)**
-
-**作者:** [WasifAI](https://x.com/doctorwasif) | **ソース:** [Link](https://x.com/doctorwasif/status/2103476205760774263) | **公開日:** Sep 25, 2026
-
----
-### Luxury Perfume Commercial Script
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 15秒の高級香水CMを生成するための詳細なプロンプト。特定の視覚効果、カメラワーク、キャラクターの一貫性に関する指示を含みます。
-
-#### 📝 プロンプト
-
-```
-15 秒、16:9 の高級香水 CM。フォトリアルなシネマティックファッションフィルム、ミニマルなラグジュアリー感、豊かなエメラルド色の環境、エレガントなソフトゴールドのアクセントを添えたハイコントラストライティング、艶やかな反射とプレミアムなマクロ製品撮影。
-
-モデルの参考には Image 2 のみを、Wizstar 香水ボトルの参考には Image 1 のみを使用してください。モデルのアイデンティティ、顔立ち、髪型、体のプロポーション、エメラルドシルクのドレスを一貫して維持してください。香水ボトルのデザイン、形状、ラベル、キャップ、素材も全体を通じて同一性を保ってください。
-
-0～3 秒 — HERO OPEN:
-最初のフレームから女性をはっきりと中央に配置し、自信に満ちたファッションポーズでエメラルドシルクのドレスを着用し、胸元に Wizstar ボトルを持って開始します。彼女の顔、ドレス、ボトルは初めから明確に見える必要があります。ソフトゴールドのハイライトが入った豊かなエメラルド背景。明るくプレミアムでエレガントな雰囲気。暗い影、グレーの背景、空のフレーム、フェードインは使用しないでください。
-
-3～6 秒 — SPRAY:
-シネマティックなクローズアップへスムーズに移行します。彼女は Wizstar ボトルを持ち上げ、首元に向かって一度スプレーします。細かな香水ミストが金色の光を捉えます。彼女はボトルを下ろし、鎖骨を優しく触れます。現実的な反射とミストを伴う、優雅でコントロールされた動きです。
-
-6～9 秒 — FASHION MOVEMENT:
-より広いショットにカットします。カメラが後退しながら追従する中、彼女はゆっくりとターンし、前方へ歩きます。エメラルドシルクのドレスと髪が自然に動きます。微かなミストと流れるような金色の光の筋とともに、エメラルドの雰囲気が彼女を中心に広がります。
-
-9～12 秒 — PRODUCT HERO:
-エメラルド環境中に浮かぶ Wizstar ボトルのプレミアムなマクロショットへ移行します。ボトルはゆっくりと傾き、金色のハイライトを捉えます。リアルなガラス、液体の反射、微かな蒸気の軌跡、洗練されたアンバー粒子を表示します。ボトルの幾何学的形状は完全に安定させてください。
-
-12～13.5 秒 — FINAL MODEL:
-タイトなファッションショットに戻ります。彼女は自信に満ちた優雅な表情でカメラの方へ顔を向けます。髪とシルク生地が空気中で柔らかく揺れます。リムライト（輪郭光）が彼女のシルエットを金色に縁取ります。
-
-13.5～15 秒 — FINAL PACKSHOT:
-クリーンなラグジュアリーパックショットにカットします。深い黒背景に対し、エメラルドの輝きと洗練された金色のリムライトをまとった Wizstar ボトルを中央に配置します。以下の文字を表示します：
-“ELEGANCE, DISTILLED.”
-上品な女性の声がはっきりとこう言います：“Elegance, distilled.”
-
-STYLE:
-ウルトラプレミアムなフレグランス広告、シネマティックな 35mm フィルムルック、リアルな肌と生地の質感、制御されたカメラワーク、浅い被写界深度、精密なフォーカストランジション、艶やかな l
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103296432761675776/img/cWwrABmrEVtOTaLD.jpg" width="600" alt="Luxury Perfume Commercial Script">
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11329)**
-
-**作者:** [Meenakshi Yadav](https://x.com/MeenakshiYACS) | **ソース:** [Link](https://x.com/MeenakshiYACS/status/2103462025871372380) | **公開日:** Sep 25, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -6224,6 +6098,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-12T04:52:58.711Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-12T17:44:55.821Z</sub>
 
 </div>

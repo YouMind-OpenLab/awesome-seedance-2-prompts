@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6526** |
+| 📝 Tổng số prompt | **6529** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-10-12** |
 
@@ -361,6 +361,75 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Video Bài Tập Cân Bằng Trên Vạch Ngựa Của Nữ Vận Động Viên Thể Dục Dụng Cụ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt cho video điện ảnh siêu thực về một nữ vận động viên thể dục dụng cụ biểu diễn bài tập thanh lịch trên vạch cân bằng trong nhà thi đấu.
+
+#### 📝 Prompt
+
+```
+Video điện ảnh siêu thực về một nữ vận động viên thể dục dụng cụ trẻ tài năng đang biểu diễn bài tập thanh lịch trên vạch cân bằng bên trong nhà thi đấu thể dục dụng cụ truyền thống. Cô mặc bộ đồ leotard dài tay màu đỏ rượu vang, tóc nâu được buộc gọn gàng phía sau. Cô ấy đi uyển chuyển dọc theo vạch cân bằng, dang rộng hai cánh tay để giữ thăng bằng và thực hiện động tác chẻ đôi hoàn hảo với độ dẻo dai và khả năng kiểm soát tuyệt vời. Khán giả ngồi xem chăm chú ở hậu cảnh. Ánh sáng ấm áp trong nhà, kết cấu da chân thực, chuyển động cơ thể tự nhiên, camera quay điện ảnh mượt mà, độ sâu trường ảnh nông, hiệu ứng bokeh mờ nhẹ ở hậu cảnh, nhiếp ảnh thể thao chuyên nghiệp, chuyển động chân thực, 4K UHD, 24fps, bố cục dọc 9:16, chi tiết cao, chân thực như ảnh chụp.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109510154567974912/img/KvPK7VQYYAV2EzZm.jpg" width="600" alt="Video Bài Tập Cân Bằng Trên Vạch Ngựa Của Nữ Vận Động Viên Thể Dục Dụng Cụ">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12358)**
+
+**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2109510249573191819) | **Đã xuất bản:** Oct 12, 2026
+
+---
+### Video Fantasy Điện Ảnh với Rồng Hồng và Người Phụ Nữ trong Cabin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết để tạo video fantasy điện ảnh siêu thực dài 36 giây, mô tả một cô gái trẻ tương tác với chú rồng con màu hồng đáng yêu bên trong cabin gỗ phủ tuyết.
+
+#### 📝 Prompt
+
+```
+Tạo một video fantasy điện ảnh siêu thực dài 36 giây tuyệt đẹp, nổi bật với hình ảnh một cô gái trẻ xinh đẹp có mái tóc đen dài gợn sóng, mặc áo len đan màu be ấm áp, đang tương tác với một chú rồng con màu hồng đáng yêu bên trong một cabin gỗ mộc mạc giữa những ngọn núi phủ tuyết. Cô gái nhẹ nhàng chuẩn bị thức ăn tươi, mỉm cười với sinh vật nhỏ bé và âu yếm cho nó ăn khi đôi mắt vàng to tròn của nó lấp lánh sự tò mò. Chú rồng dễ thương cử động đôi cánh nhỏ, vẫy đuôi và nép vào vòng tay cô dưới ánh lửa ấm áp từ lò sưởi chiếu sáng khuôn mặt họ. Tuyết rơi ngoài cửa sổ cabin, tạo nên bầu không khí mùa đông kỳ diệu với cảnh tượng ngoạn mục. Hiển thị các cảnh quay cận cảnh tuyệt đẹp về lớp vảy hồng tinh tế, diềm răng cưa bán trong suốt và đôi mắt biểu cảm của chú rồng, cùng với những biểu cảm tự nhiên trên khuôn mặt cô gái. Bao gồm các chuyển động máy quay điện ảnh mượt mà, tương tác chân thực, nội thất gỗ chi tiết, ánh sáng dịu nhẹ và các chuyển cảnh liền mạch. Cô gái nhẹ nhàng ôm sinh vật này bên cạnh lò sưởi rực rỡ khi nó ngước nhìn cô đầy trìu mến. Duy trì tính nhất quán hoàn hảo của nhân vật, kết cấu siêu thực, chuyển động tự nhiên, quay phim chuyên nghiệp độ phân giải 4K và bầu không khí fantasy cuốn hút về mặt cảm xúc, không có văn bản, logo hoặc watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109456966603161600/img/yQObaARfkE7CuA3p.jpg" width="600" alt="Video Fantasy Điện Ảnh với Rồng Hồng và Người Phụ Nữ trong Cabin">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12356)**
+
+**Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2109457141174247789) | **Đã xuất bản:** Oct 12, 2026
+
+---
+### Huấn luyện võ thuật điện ảnh trong dojo kiểu Nhật
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo cảnh huấn luyện võ thuật điện ảnh siêu thực, mô tả hai phụ nữ tập chiến đấu tay không trong một dojo gỗ truyền thống của Nhật Bản.
+
+#### 📝 Prompt
+
+```
+AI Video Prompt: Huấn luyện võ thuật điện ảnh
+
+Tạo một cảnh huấn luyện võ thuật điện ảnh siêu thực với hai cô gái trẻ thành thạo đang tập chiến đấu tay không trong một dojo bằng gỗ truyền thống của Nhật Bản, được bao quanh bởi khu vườn xanh mướt. Một người có tóc màu hạt dẻ buộc đuôi ngựa, mặc áo tập dài tay màu nâu và quần tối màu. Người kia có mái tóc đen xoăn ngắn, mặc bộ đồ võ thuật màu be nhạt và quần tối màu.
+
+Họ thực hiện các cú đấm, đỡ đòn, động tác phòng thủ và phản công chân thực với tốc độ, độ chính xác và sự cân bằng ấn tượng. Chuyển động cần tự nhiên, cơ thể vận hành đúng kỹ thuật, bước di chuyển chân thực, biểu cảm khuôn mặt sinh động và vũ đạo võ thuật chuẩn xác. Ánh sáng ban ngày dịu nhẹ xuyên qua gian đình bằng gỗ, chiếu sáng sàn nhà bóng loáng và khung cảnh xanh mát.
+
+Máy quay: Góc trung-cận rộng mang tính điện ảnh, chuyển động mượt mà, thỉnh thoảng cận cảnh, hiệu ứng mờ chuyển động (motion blur) chân thực và góc quay năng động.
+
+Phong cách hình ảnh: Siêu thực, chất lượng điện ảnh 4K, ánh sáng tự nhiên, kết cấu vải chi tiết, độ sâu trường ảnh nông, hạt phim tinh tế, quay phim hành động chuyên nghiệp.
+
+Không khí: Căng thẳng, kỷ luật, uyển chuyển, mạnh mẽ và tập trung.
+
+Định dạng: Dọc 9:16, chuyển động liên tục chân thực, ngoại hình nhân vật nhất quán, không cắt cảnh làm gián đoạn vũ đạo, không biến dạng giải phẫu, không thừa chi, không văn bản, không watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109200093870219264/img/VT3q4u7Y8J729LDG.jpg" width="600" alt="Huấn luyện võ thuật điện ảnh trong dojo kiểu Nhật">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12357)**
+
+**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2109200265534718164) | **Đã xuất bản:** Oct 11, 2026
+
+---
 ### Video Hành Động Điện Ảnh Nữ Chiến Binh Lửa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5894,203 +5963,6 @@ Cảnh cuối: camera đung đưa bên dưới anh, hé lộ một nửa trạm 
 **Tác giả:** [DeCat](https://x.com/DeCat2025) | **Nguồn:** [Link](https://x.com/DeCat2025/status/2103615529986699498) | **Đã xuất bản:** Sep 25, 2026
 
 ---
-### Kịch bản Bất thường CCTV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt chi tiết để tạo ra đoạn ghi hình camera an ninh cố định chân thực về hành lang chung cư với một hiện tượng siêu nhiên liên quan đến bóng người tách rời.
-
-#### 📝 Prompt
-
-```
-Tạo một đoạn ghi hình dài 30 giây từ camera an ninh cố định, chân thực, quay bên trong hành lang của một tòa nhà chung cư bình thường vào ban đêm.
-
-QUAN TRỌNG: Đây là MỘT CẢNH QUAY TĨNH LIÊN TỤC DUY NHẤT. Camera không di chuyển, không zoom và không thay đổi góc quay.
-
-Hành lang có thang máy nằm rõ ràng ở CHÍNH GIỮA khung hình. Thang máy có hai cánh cửa trượt đóng mở rõ ràng. Người đàn ông phải đi thẳng về phía cửa thang máy, dừng lại trước cửa, bước vào thang máy qua cửa đang mở, sau đó cửa thang máy phải đóng lại.
-
-KHÔNG cho phép người đàn ông đi vào tường. KHÔNG thay đổi bố cục hành lang. KHÔNG di chuyển thang máy. KHÔNG đưa thêm bất kỳ người nào khác vào cảnh.
-
-PHONG CÁCH HÌNH ẢNH:
-Ghi hình CCTV chung cư chất lượng thấp, chân thực.
-Camera an ninh gắn trên trần nhà, cố định.
-Khung hình rộng tỷ lệ 16:9.
-Bi dạng nhẹ kiểu mắt cá (fisheye).
-Nhiễu kỹ thuật số trong điều kiện ánh sáng yếu.
-Nghệ thuật nén nhẹ (compression artifacts).
-Ánh sáng huỳnh quang phẳng trong hành lang.
-Dòng thời gian nhỏ ở góc màn hình.
-Không có chuyển động camera điện ảnh.
-Không chỉnh màu kịch tính.
-Không có hiệu ứng phim kinh dị.
-
-DÒNG THỜI GIAN:
-
-0–7 giây:
-Hành lang hoàn toàn bình thường và trống rỗng.
-
-Một người đàn ông xuất hiện từ đầu xa của khung hình và đi bộ thong thả về phía thang máy ở CHÍNH GIỮA hành lang.
-
-Bóng người bình thường của anh ta hiện rõ trên sàn phía dưới và phía sau lưng.
-
-7–12 giây:
-Người đàn ông đến gần thang máy.
-
-Cửa thang máy MỞ RÕ RÀNG.
-
-Người đàn ông bước qua ô cửa thang máy đang MỞ và đứng BÊN TRONG thang máy.
-
-Anh ta hoàn toàn nhìn thấy được bên trong thang máy.
-
-Sau đó, cửa thang máy ĐÓNG HOÀN TOÀN.
-
-12–16 giây:
-Hành lang trống rỗng.
-
-Thang máy đóng vẫn hoàn toàn bình thường.
-
-Bóng của người đàn ông không còn nhìn thấy vì anh ta đã ở bên trong thang máy đóng kín.
-
-Không có gì xảy ra trong vài giây.
-
-16–20 giây:
-Một bất thường tinh tế bắt đầu.
-
-Một bóng người tối màu dần dần xuất hiện từ bên dưới các cánh cửa thang máy ĐANG ĐÓNG KÍN.
-
-KHÔNG CÓ NGƯỜI NÀO bên ngoài tạo ra bóng này.
-
-Bóng này rõ ràng tách rời khỏi bất kỳ cơ thể vật lý nào.
-
-Nó từ từ kéo dài hơn trên sàn hành lang.
-
-20–25 giây:
-Bóng tách rời tiếp tục di chuyển ra xa thang máy trên sàn.
-
-Nó di chuyển giống như bóng của một người đang đi bộ, mặc dù KHÔNG CÓ NGƯỜI NÀO ở bất kỳ đâu trong hành lang.
-
-Cửa thang máy vẫn ĐÓNG KÍN suốt thời gian đó.
-
-Môi trường vật lý hoàn toàn không thay đổi.
-
-25–30 giây:
-Bóng tách rời tiến đến giữa hành lang.
-
-Nó đột ngột dừng lại.
-
-Giữ nguyên cảnh hành lang trống rỗng với bóng người bất khả thi hiện rõ trên sàn.
-
-Sau đó CẮT ĐỘT NGỘT sang MÀN HÌNH ĐEN.
-
-ƯU TIÊN TUYỆT ĐỐI:
-
-1. Người đàn ông PHẢI bước vào thang máy, không phải vào tường.
-2. Thang máy phải hiển thị rõ ràng và nằm ở trung tâm.
-3. Cửa thang máy phải MỞ rõ ràng trước khi anh ta bước vào.
-4. Người đàn ông phải HOÀN TOÀN Ở BÊN TRONG thang máy trước khi cửa đóng.
-5. Cửa thang máy phải giữ nguyên trạng thái ĐÓNG KÍN trong khi bóng tách rời xuất hiện.
-6. Bóng tách rời
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103492335661359105/img/BfCHLQcbLaAaTy-h.jpg" width="600" alt="Kịch bản Bất thường CCTV">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11334)**
-
-**Tác giả:** [Meem](https://x.com/mehvishs25) | **Nguồn:** [Link](https://x.com/mehvishs25/status/2103492588095304088) | **Đã xuất bản:** Sep 25, 2026
-
----
-### Gợi ý phong cách quay Vlog phòng tập bằng máy quay Camcorder
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý được thiết kế để tạo ra video vlog phòng tập vui nhộn với thẩm mỹ máy quay DV cổ điển, bao gồm chi tiết nhân vật cụ thể, bối cảnh và các cảnh quay trong storyboard.
-
-#### 📝 Prompt
-
-```
-**MÁY QUAY:**
-Cảm giác cầm tay của máy quay băng từ DV 16mm. Góc nhìn thứ nhất (POV) do CHASE tự cầm máy, thỉnh thoảng đặt máy trên sàn hoặc thảm để quay các bài tập cốt lõi mà không cần dùng tay. Rung lắc tay, khung hình lệch, lấy nét chậm, zoom vụng về, đôi khi cắt mất mặt, những cú quay không hoàn hảo. Máy quay camcorder không xuất hiện trong khung hình.
-
-**DIỆN MẠO:**
-Chất lượng băng từ mềm mại, hơi mờ, nhiễu băng nhẹ, vùng sáng bị loang dưới ánh đèn phòng tập, độ phơi sáng tự động nhấp nháy, tương phản dịu, tông màu da chân thực.
-
-**PHONG CÁCH:**
-Giọng điệu vlog phòng tập vui nhộn, tự trào — sự gắng sức chân thật xen lẫn hài hước, than phiền về bài tập cốt lõi nhưng vẫn cố gắng hoàn thành. Các cú cắt nhanh bằng máy cầm tay, năng lượng duy trì sự nhẹ nhàng và hài hước xuyên suốt thay vì kiệt sức hoàn toàn.
-
-**Nhân vật**
-
-CHASE — Thần tượng Hàn Quốc, ngoài 20 tuổi. Tóc đen dài buộc đuôi ngựa cao, làn da rạng rỡ với lớp mồ hôi mỏng, đôi mắt to biểu cảm. Dáng người mảnh mai, khỏe mạnh. Áo thể thao dài tay kín đáo, quần jogger rộng hoặc leggings ôm sát (che kín cánh tay và thân trên), đi tất hoặc không giày, không đeo trang sức.
-
-**Bối cảnh**
-
-Khu vực thảm tập trong phòng gym vào buổi tối — có tường gương gần đó, chai nước trên sàn, ánh sáng trần dịu nhẹ, các thiết bị khác nhìn thấy ở hậu cảnh.
-
-**Storyboard (15 giây, 6 cảnh)**
-
-1. *(~2.5s, máy đặt cố định, trung cảnh)* Cô ấy nằm xuống thảm, chống khuỷu tay, đã thở dài kịch liệt. CHASE: "Được rồi, ngày tập cơ bụng — ngày tôi ghét nhất."
-
-2. *(~2.5s, máy đặt cố định, tư thế plank)* Cô ấy giữ tư thế plank, cánh tay hơi run, nói qua kẽ răng nghiến chặt. CHASE (gắng sức): "Tại sao lần nào cũng khó hơn thế này—"
-
-3. *(~2.5s, trung cảnh máy đặt cố định, gập bụng)* Cô ấy chuyển sang một hiệp gập bụng, thở gấp, than phiền giữa các nhịp. CHASE: "Không ai cảnh báo bạn rằng nó đau rát đến mức nào cả."
-
-4. *(~2s, cận cảnh macro, trường ảnh nông)* Cận cảnh bàn tay cô ấy bám chặt vào mép thảm khi nâng chân, cơ bụng rõ ràng đang hoạt động. Không có lời thoại — chỉ có âm thanh môi trường xung quanh phòng tập.
-
-5. *(~2.5s, cầm tay, nâng chân)* Cô ấy kết thúc một hiệp nâng chân chậm rãi, ngay lập tức ngã phịch lại xuống thảm, cười chính mình. CHASE (thở hổn hển): "Được rồi— hết nổi rồi, tôi xong rồi—"
-
-6. *(~3s, kết bằng selfie duỗi thẳng tay)* Vẫn nằm trên thảm, cô ấy giơ máy lên trên mặt, mỉm cười mệt mỏi. CHASE: "Ngày tập cơ bụng không bao giờ dễ dàng hơn — hẹn gặp mọi người vào ngày mai, hy vọng vậy."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103476166715899904/img/5_rzHDdpEsX2PWPt.jpg" width="600" alt="Gợi ý phong cách quay Vlog phòng tập bằng máy quay Camcorder">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11330)**
-
-**Tác giả:** [WasifAI](https://x.com/doctorwasif) | **Nguồn:** [Link](https://x.com/doctorwasif/status/2103476205760774263) | **Đã xuất bản:** Sep 25, 2026
-
----
-### Kịch bản Quảng cáo Nước hoa Cao cấp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt chi tiết để tạo ra video quảng cáo nước hoa cao cấp dài 15 giây, bao gồm các hiệu ứng hình ảnh cụ thể, chuyển động máy quay và hướng dẫn về tính nhất quán của nhân vật.
-
-#### 📝 Prompt
-
-```
-Video quảng cáo nước hoa cao cấp dài 15 giây, tỷ lệ khung hình 16:9. Phim thời trang điện ảnh chân thực như ảnh chụp (photorealistic), phong cách xa xỉ tối giản, bối cảnh màu ngọc lục bảo đậm chất sang trọng, ánh sáng tương phản cao với những điểm nhấn vàng mềm mại tinh tế, độ bóng phản chiếu hoàn hảo và kỹ thuật quay cận cảnh sản phẩm macro đẳng cấp.
-
-Chỉ sử dụng Hình ảnh 2 làm tham khảo cho người mẫu. Chỉ sử dụng Hình ảnh 1 làm tham khảo cho chai nước hoa Wizstar. Giữ nguyên danh tính, khuôn mặt, mái tóc, tỷ lệ cơ thể và chiếc váy lụa màu ngọc lục bảo của người mẫu một cách nhất quán. Giữ nguyên thiết kế, hình dáng, nhãn mác, nắp chai và chất liệu của chai nước hoa trong suốt toàn bộ video.
-
-0–3s — CẢNH MỞ ĐẦU (HERO OPEN):
-Bắt đầu ngay lập tức với hình ảnh người phụ nữ hiện rõ ràng, ở vị trí trung tâm với tư thế thời trang đầy tự tin, mặc chiếc váy lụa màu ngọc lục bảo và cầm chai Wizstar gần ngực. Khuôn mặt, váy và chai nước hoa phải được nhìn thấy rõ ràng ngay từ khung hình đầu tiên. Nền màu ngọc lục bảo đậm với những điểm nhấn ánh sáng vàng dịu nhẹ. Sáng sủa, cao cấp và thanh lịch. Không có bóng tối, nền xám, khung hình trống hoặc hiệu ứng mờ dần vào (fade-in).
-
-3–6s — XỊT NƯỚC HOA:
-Chuyển động mượt mà vào một cảnh cận cảnh mang tính điện ảnh. Cô ấy nâng chai Wizstar lên và xịt một lần về phía cổ. Lớp sương mù nước hoa mịn màng bắt lấy ánh sáng vàng. Cô ấy hạ chai xuống và nhẹ nhàng chạm vào xương quai xanh. Chuyển động thanh lịch, kiểm soát tốt với các phản chiếu và lớp sương mù chân thực.
-
-6–9s — CHUYỂN ĐỘNG THỜI TRANG:
-Cắt sang góc quay rộng hơn. Cô ấy chậm rãi xoay người và bước về phía trước trong khi máy quay lùi lại theo dõi. Chiếc váy lụa màu ngọc lục bảo và mái tóc của cô ấy di chuyển tự nhiên. Bầu không khí màu ngọc lục bảo lan tỏa xung quanh cô với lớp sương mù tinh tế và những vệt ánh sáng vàng chảy trôi.
-
-9–12s — SẢN PHẨM TRỌNG TÂM (PRODUCT HERO):
-Chuyển tiếp vào một cảnh quay macro cao cấp của chai Wizstar lơ lửng trong môi trường màu ngọc lục bảo. Chai nghiêng chậm và bắt lấy những điểm nhấn ánh sáng vàng. Hiển thị kính chân thực, phản chiếu chất lỏng, những vệt hơi nước tinh tế và các hạt hổ phách (amber) được xử lý khéo léo. Giữ cho hình học của chai ổn định hoàn hảo.
-
-12–13.5s — NGƯỜI MẪU CUỐI CÙNG:
-Cắt trở lại một cảnh quay thời trang chặt chẽ. Cô ấy nhẹ nhàng quay đầu về phía máy quay với biểu cảm tự tin và thanh lịch. Tóc và vải lụa di chuyển mềm mại trong không khí. Ánh sáng viền vàng (rim light) phác họa đường nét cơ thể cô.
-
-13.5–15s — ẢNH SẢN PHẨM CUỐI CÙNG (FINAL PACKSHOT):
-Cắt sang một ảnh sản phẩm (packshot) sang trọng và sạch sẽ. Chai Wizstar nằm ở trung tâm trên nền đen sâu thẳm với ánh hào quang màu ngọc lục bảo và ánh sáng viền vàng tinh tế. Hiển thị dòng chữ:
-“ELEGANCE, DISTILLED.”
-Một giọng nữ tinh tế nói rõ ràng: “Elegance, distilled.”
-
-PHONG CÁCH:
-Quảng cáo nước hoa siêu cao cấp, giao diện phim 35mm điện ảnh, kết cấu da và vải chân thực, chuyển động máy quay được kiểm soát, độ sâu trường ảnh nông, chuyển đổi tiêu điểm chính xác, bóng loáng
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103296432761675776/img/cWwrABmrEVtOTaLD.jpg" width="600" alt="Kịch bản Quảng cáo Nước hoa Cao cấp">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11329)**
-
-**Tác giả:** [Meenakshi Yadav](https://x.com/MeenakshiYACS) | **Nguồn:** [Link](https://x.com/MeenakshiYACS/status/2103462025871372380) | **Đã xuất bản:** Sep 25, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -6152,6 +6024,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-12T04:53:02.326Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-12T17:44:59.839Z</sub>
 
 </div>

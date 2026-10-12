@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6526** |
+| 📝 Total de prompts | **6529** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-10-12** |
 
@@ -361,6 +361,75 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Video de rutina en viga de equilibrio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para un video cinematográfico ultra realista de una gimnasta femenina realizando una elegante rutina en la viga de equilibrio en un pabellón cubierto.
+
+#### 📝 Prompt
+
+```
+Video cinematográfico ultra realista de una talentosa joven gimnasta femenina realizando una elegante rutina en la viga de equilibrio dentro de un tradicional pabellón de gimnasia cubierto. Lleva un leotardo granate de manga larga, con su cabello castaño recogido pulcramente hacia atrás. Camina con gracia a lo largo de la viga, extiende sus brazos para mantener el equilibrio y realiza una espectacular apertura completa con flexibilidad y control perfectos. Un público sentado observa atentamente al fondo. Iluminación cálida de interior, textura de piel realista, movimientos corporales naturales, seguimiento suave de cámara cinematográfica, profundidad de campo reducida, desenfoque de fondo suave (bokeh), fotografía deportiva profesional, movimiento realista, 4K UHD, 24fps, composición vertical 9:16, altamente detallado, fotorrealista.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109510154567974912/img/KvPK7VQYYAV2EzZm.jpg" width="600" alt="Video de rutina en viga de equilibrio">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12358)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2109510249573191819) | **Publicado:** Oct 12, 2026
+
+---
+### Video de fantasía cinematográfico con dragón rosa y mujer en cabaña
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt detallado para generar un video de fantasía cinematográfico ultra realista de 36 segundos, que muestra a una joven interactuando con un adorable bebé dragón rosa dentro de una cabaña de madera nevada.
+
+#### 📝 Prompt
+
+```
+Crea un video de fantasía cinematográfico ultra realista de 36 segundos que muestre a una hermosa joven con cabello oscuro largo y ondulado, vistiendo un acogedor suéter beige de punto, interactuando con un adorable bebé dragón rosa dentro de una rústica cabaña de madera rodeada de montañas nevadas. La mujer prepara suavemente comida fresca, sonríe a la pequeña criatura y lo alimenta cariñosamente mientras sus grandes ojos dorados brillan con curiosidad. El adorable dragón mueve sus pequeñas alas, agita su cola y se acurruca en sus brazos mientras la cálida luz de la chimenea ilumina sus rostros. La nieve cae fuera de las ventanas de la cabaña, creando una atmósfera invernal mágica con paisajes impresionantes. Muestra hermosos primeros planos de las delicadas escamas rosas del dragón, sus crestas translúcidas y sus ojos expresivos, junto con las expresiones faciales naturales de la mujer. Incluye movimientos de cámara cinematográficos suaves, interacciones realistas, interiores de madera detallados, iluminación suave y transiciones de escena fluidas. La mujer abraza tiernamente a la criatura junto a la chimenea resplandeciente mientras él la mira con afecto. Mantén una consistencia perfecta de los personajes, texturas fotorrealistas, movimientos naturales, cinematografía profesional en 4K y una atmósfera de fantasía emocionalmente cautivadora, sin texto, logotipos ni marcas de agua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109456966603161600/img/yQObaARfkE7CuA3p.jpg" width="600" alt="Video de fantasía cinematográfico con dragón rosa y mujer en cabaña">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12356)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fuente:** [Link](https://x.com/Aiwithmaha/status/2109457141174247789) | **Publicado:** Oct 12, 2026
+
+---
+### Entrenamiento de artes marciales cinematográfico en un dojo japonés
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para generar una escena cinematográfica ultra realista de entrenamiento de artes marciales con dos mujeres practicando combate cuerpo a cuerpo en un tradicional dojo de madera japonés.
+
+#### 📝 Prompt
+
+```
+Prompt de video AI: Entrenamiento de artes marciales cinematográfico
+
+Crea una escena cinematográfica ultra realista de entrenamiento de artes marciales que muestre a dos jóvenes hábiles practicando combate cuerpo a cuerpo en un tradicional dojo de madera japonés rodeado por un exuberante jardín verde. Una mujer tiene cabello castaño rojizo recogido en una cola de caballo y viste una camiseta de entrenamiento marrón de manga larga con pantalones oscuros. La otra tiene cabello negro corto y rizado, y viste un atuendo de artes marciales beige claro con pantalones oscuros.
+
+Ellas realizan golpes, bloqueos, movimientos defensivos y contraataques realistas con velocidad, precisión y equilibrio impresionantes. Sus movimientos deben fluir naturalmente, con mecánica corporal precisa, trabajo de pies realista, expresiones faciales auténticas y coreografía genuina de artes marciales. La luz natural suave se filtra a través del pabellón de madera, iluminando el suelo pulido y el paisaje verde.
+
+Cámara: Planos medios-anchos cinematográficos, movimientos de seguimiento suaves, primeros planos ocasionales, desenfoque de movimiento realista y ángulos dinámicos.
+
+Estilo visual: Fotorealista, calidad cinematográfica 4K, iluminación natural, texturas de tela detalladas, profundidad de campo reducida, grano de película sutil, cinematografía profesional de película de acción.
+
+Ambiente: Intenso, disciplinado, elegante, poderoso y enfocado.
+
+Formato: Vertical 9:16, movimiento continuo realista, apariencias consistentes de los personajes, sin cortes que interrumpan la coreografía, sin anatomía distorsionada, sin extremidades adicionales, sin texto, sin marca de agua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109200093870219264/img/VT3q4u7Y8J729LDG.jpg" width="600" alt="Entrenamiento de artes marciales cinematográfico en un dojo japonés">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12357)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2109200265534718164) | **Publicado:** Oct 11, 2026
+
+---
 ### Video de acción cinematográfico: Guerrera femenina ardiente
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5970,203 +6039,6 @@ Toma final: la cámara oscila debajo de él, revelando cómo la mitad de la esta
 **Autor:** [DeCat](https://x.com/DeCat2025) | **Fuente:** [Link](https://x.com/DeCat2025/status/2103615529986699498) | **Publicado:** Sep 25, 2026
 
 ---
-### Guion de Anomalía en Grabaciones de CCTV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para generar una grabación realista de cámara de seguridad fija en un pasillo de apartamento, con una anomalía sobrenatural que involucra una sombra desprendida.
-
-#### 📝 Prompt
-
-```
-Crea una grabación realista de 30 segundos desde una cámara de seguridad fija dentro de un pasillo ordinario de un edificio de apartamentos por la noche.
-
-IMPORTANTE: Esta es una TOMA ÚNICA CONTINUA DE CÁMARA ESTÁTICA. La cámara nunca se mueve, nunca hace zoom y nunca cambia de ángulo.
-
-El pasillo tiene un ascensor claramente visible en el CENTRO del encuadre. El ascensor tiene dos puertas correderas claramente visibles. El hombre debe caminar directamente hacia las puertas del ascensor, detenerse frente a ellas, entrar al ascensor a través de las puertas abiertas y luego las puertas del ascensor deben cerrarse.
-
-NO permitas que el hombre camine hacia una pared. NO cambies la disposición del pasillo. NO muevas el ascensor. NO introduzcas a ninguna otra persona.
-
-ESTILO VISUAL:
-Auténtica grabación de CCTV de baja calidad de un apartamento.
-Cámara de seguridad fija montada en el techo.
-Encuadre ancho 16:9.
-Ligera distorsión tipo ojo de pez.
-Ruido digital en condiciones de poca luz.
-Artefactos leves de compresión.
-Iluminación plana de fluorescentes del pasillo.
-Marca de tiempo pequeña en la esquina.
-Sin movimientos de cámara cinematográficos.
-Sin graduación de color dramática.
-Sin efectos de película de terror.
-
-CRONOLOGÍA:
-
-0–7 segundos:
-El pasillo es completamente ordinario y está vacío.
-
-Un hombre entra en el encuadre desde el extremo lejano y camina casualmente hacia el ascensor en el CENTRO del pasillo.
-
-Su sombra humana normal es claramente visible en el suelo debajo y detrás de él.
-
-7–12 segundos:
-El hombre llega al ascensor.
-
-Las puertas del ascensor SE ABREN claramente.
-
-El hombre atraviesa la puerta abierta del ascensor y permanece DENTRO del ascensor.
-
-Él es completamente visible dentro del ascensor.
-
-Luego, las puertas del ascensor SE CIERRAN completamente.
-
-12–16 segundos:
-El pasillo está vacío.
-
-El ascensor cerrado permanece completamente normal.
-
-La sombra del hombre ya no es visible porque está dentro del ascensor cerrado.
-
-No sucede nada durante unos segundos.
-
-16–20 segundos:
-Comienza una sutil anomalía.
-
-Una sombra oscura con forma humana aparece lentamente desde debajo de las puertas CERRADAS del ascensor.
-
-NO HAY NINGUNA PERSONA afuera creando esta sombra.
-
-La sombra está claramente desprendida de cualquier persona física.
-
-Se extiende lentamente más allá sobre el suelo del pasillo.
-
-20–25 segundos:
-La sombra desprendida continúa alejándose del ascensor a través del suelo.
-
-Se mueve como la sombra de una persona caminando, aunque NO HAY NINGUNA PERSONA en ningún lugar del pasillo.
-
-Las puertas del ascensor permanecen CERRADAS todo el tiempo.
-
-El entorno físico permanece completamente inalterado.
-
-25–30 segundos:
-La sombra desprendida llega al centro del pasillo.
-
-Se detiene repentinamente.
-
-Mantén el plano del pasillo vacío con la sombra imposible visible en el suelo.
-
-Luego, CORTE ABRUPTO A NEGRO.
-
-PRIORIDADES ABSOLUTAS:
-
-1. El hombre DEBE entrar al ascensor, no a la pared.
-2. El ascensor debe ser claramente visible y estar centrado.
-3. Las puertas del ascensor deben abrirse visiblemente antes de que él entre.
-4. El hombre debe estar completamente DENTRO del ascensor antes de que las puertas se cierren.
-5. Las puertas del ascensor deben permanecer CERRADAS mientras emerge la sombra desprendida.
-6. La sombra desprendida
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103492335661359105/img/BfCHLQcbLaAaTy-h.jpg" width="600" alt="Guion de Anomalía en Grabaciones de CCTV">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11334)**
-
-**Autor:** [Meem](https://x.com/mehvishs25) | **Fuente:** [Link](https://x.com/mehvishs25/status/2103492588095304088) | **Publicado:** Sep 25, 2026
-
----
-### Prompt estilo camcorder para vlog de gimnasio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt diseñado para generar un video de vlog de gimnasio divertido con una estética retro de cámara DV, incluyendo detalles específicos del personaje, el entorno y los cortes del guion gráfico.
-
-#### 📝 Prompt
-
-```
-**CÁMARA:**
-Sensación de cámara de mano DV de cinta de 16 mm. Punto de vista (POV) de CHASE sosteniendo la cámara ella misma, apoyándola ocasionalmente en el suelo o en una colchoneta para tomas de abdominales sin manos. Temblor de mano, encuadre desalineado, enfoque retardado, zooms torpes, encuadres que cortan partes de la cara, tomas imperfectas. La cámara nunca aparece en pantalla.
-
-**ASPECTO VISUAL:**
-Calidad de cinta suave y ligeramente borrosa, ruido sutil de cinta, luces altas difuminadas bajo la iluminación del gimnasio, exposición automática parpadeante, contraste atenuado, tonos de piel realistas.
-
-**ESTILO:**
-Tono de vlog de gimnasio juguetón y autocrítico — esfuerzo genuino mezclado con humor, quejándose del trabajo abdominal mientras sigue forzando hasta el final. Cortes rápidos de cámara en mano, manteniendo la energía ligera y divertida durante todo el video en lugar de mostrar agotamiento total.
-
-**Personaje**
-
-CHASE — ídolo coreana, veintitantos años. Cabello negro largo recogido en una cola de caballo alta, piel radiante con un ligero brillo de sudor, ojos grandes y expresivos. Complexión atlética delgada. Top deportivo modesto de manga larga, pantalones joggers holgados o leggings ajustados (brazos y torso completamente cubiertos), sin zapatos o solo con calcetines, sin joyería.
-
-**Entorno**
-
-Un área de colchonetas de gimnasio por la noche — pared de espejos cercana, botella de agua en el suelo, iluminación cenital suave, otro equipo visible en el fondo.
-
-**Guion Gráfico (15 s, 6 cortes)**
-
-1. *(~2.5 s, cámara apoyada, plano medio)* Ella se acuesta en la colchoneta, apoyándose sobre los codos, ya suspirando dramáticamente. CHASE: "Bueno, día de abdominales — mi día menos favorito."
-
-2. *(~2.5 s, cámara apoyada, posición de plancha)* Ella sostiene una plancha, brazos temblando ligeramente, hablando entre dientes apretados. CHASE (esforzada): "¿Por qué esto se pone más difícil cada vez—"
-
-3. *(~2.5 s, plano medio apoyado, abdominales)* Ella pasa a una serie de abdominales, respirando fuerte, quejándose entre repeticiones. CHASE: "Nadie te advierte cuánto quema realmente esto."
-
-4. *(~2 s, inserto macro, profundidad de campo baja)* Primer plano de sus manos sujetando los bordes de la colchoneta durante una elevación de piernas, abdominales visiblemente trabajando. Sin diálogo — solo sonido ambiental del gimnasio.
-
-5. *(~2.5 s, cámara en mano, elevaciones de piernas)* Ella termina una serie lenta de elevaciones de piernas, cayendo hacia atrás en la colchoneta inmediatamente después, riéndose de sí misma. CHASE (sin aliento): "Bueno— eso es todo, terminé—"
-
-6. *(~3 s, cierre tipo selfie con brazo extendido)* Aún acostada en la colchoneta, ella levanta la cámara sobre su rostro, sonriendo cansadamente. CHASE: "El día de abdominales nunca se vuelve más fácil — nos vemos mañana, hopefully."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103476166715899904/img/5_rzHDdpEsX2PWPt.jpg" width="600" alt="Prompt estilo camcorder para vlog de gimnasio">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11330)**
-
-**Autor:** [WasifAI](https://x.com/doctorwasif) | **Fuente:** [Link](https://x.com/doctorwasif/status/2103476205760774263) | **Publicado:** Sep 25, 2026
-
----
-### Guion de Comercial de Perfume de Lujo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para generar un comercial de perfume de lujo de 15 segundos, con instrucciones específicas sobre efectos visuales, movimientos de cámara y consistencia del personaje.
-
-#### 📝 Prompt
-
-```
-Comercial de perfume de lujo de 15 segundos, formato 16:9. Película de moda cinematográfica fotorrealista, lujo minimalista, entorno esmeralda rico, iluminación de alto contraste con elegantes acentos dorados suaves, reflejos brillantes y cinematografía macro premium del producto.
-
-Usa la Imagen 2 ÚNICAMENTE como referencia de la modelo. Usa la Imagen 1 ÚNICAMENTE como referencia del frasco de perfume Wizstar. Mantén la identidad, rostro, cabello, proporciones corporales y vestido de seda esmeralda de la modelo consistentes. Mantén el diseño, forma, etiqueta, tapa y materiales del frasco de perfume idénticos durante todo el video.
-
-0–3s — APERTURA HEROICA:
-Comienza inmediatamente con la mujer claramente visible, centrada en una pose de moda segura, vistiendo un vestido de seda esmeralda y sosteniendo el frasco Wizstar cerca de su pecho. Su rostro, vestido y frasco deben ser claramente visibles desde el primer fotograma. Fondo esmeralda rico con destellos dorados suaves. Brillante, premium y elegante. Sin sombras oscuras, fondo gris, fotogramas vacíos ni fundidos de entrada.
-
-3–6s — APLICACIÓN DEL PERFUME:
-Transición suave hacia un primer plano cinematográfico. Ella levanta el frasco Wizstar y aplica una vez hacia su cuello. La fina bruma del perfume captura la luz dorada. Baja el frasco y toca suavemente su clavícula. Movimiento elegante y controlado con reflejos realistas y bruma.
-
-6–9s — MOVIMIENTO DE MODA:
-Corte a un plano más abierto. Ella gira lentamente y camina hacia adelante mientras la cámara retrocede. Su vestido de seda esmeralda y su cabello se mueven naturalmente. La atmósfera esmeralda se expande a su alrededor con bruma sutil y rayas de luz dorada fluidas.
-
-9–12s — PRODUCTO HEROICO:
-Transición a un plano macro premium del frasco Wizstar flotando en el entorno esmeralda. El frasco se inclina lentamente y captura destellos dorados. Muestra vidrio realista, reflejos del líquido, estelas de vapor sutiles y partículas ámbar refinadas. Mantén la geometría del frasco perfectamente estable.
-
-12–13.5s — MODELO FINAL:
-Corte de vuelta a un plano ajustado de moda. Ella gira suavemente la cabeza hacia la cámara con una expresión segura y elegante. El cabello y la tela de seda se mueven suavemente en el aire. Una luz de contorno dorada define su silueta.
-
-13.5–15s — PACKSHOT FINAL:
-Corte a un packshot limpio de lujo. Frasco Wizstar centrado contra un fondo negro profundo con un brillo esmeralda y una luz de contorno dorada refinada. Muestra las palabras:
-“ELEGANCE, DISTILLED.”
-Una voz femenina refinada dice claramente: “Elegance, distilled.”
-
-ESTILO:
-Publicidad de fragancia ultra-premium, aspecto cinematográfico de 35mm, textura de piel y tela realista, movimiento de cámara controlado, profundidad de campo reducida, transiciones de enfoque precisas, glossy l
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103296432761675776/img/cWwrABmrEVtOTaLD.jpg" width="600" alt="Guion de Comercial de Perfume de Lujo">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11329)**
-
-**Autor:** [Meenakshi Yadav](https://x.com/MeenakshiYACS) | **Fuente:** [Link](https://x.com/MeenakshiYACS/status/2103462025871372380) | **Publicado:** Sep 25, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -6228,6 +6100,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-12T04:53:06.228Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-12T17:45:04.316Z</sub>
 
 </div>

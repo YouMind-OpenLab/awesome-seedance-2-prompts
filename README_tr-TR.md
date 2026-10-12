@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6526** |
+| 📝 Toplam İstem | **6529** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-10-12** |
 
@@ -361,6 +361,75 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Jimnastik Denge Aleti Rutini Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kapalı bir salonda denge aletinde zarif bir rutin sergileyen kadın jimnastikçinin ultra gerçekçi sinematik videosu için prompt.
+
+#### 📝 İstem
+
+```
+Geleneksel kapalı bir jimnastik salonunda, denge aletinde zarif bir rutin sergileyen yetenekli genç bir kadın jimnastikçinin ultra gerçekçi sinematik videosu. Üzerinde bordo renkli uzun kollu mayosu ve kahverengi saçları düzgünce geriye toplanmış şekilde görülüyor. Denge aletinin üzerinde zarifçe yürüyor, dengesini korumak için kollarını uzatıyor ve mükemmel esneklik ile kontrolle etkileyici bir tam açılış (split) hareketi yapıyor. Arka planda oturan izleyiciler dikkatle onu takip ediyor. Sıcak iç mekan aydınlatması, gerçekçi cilt dokusu, doğal vücut hareketleri, akıcı sinematik kamera takibi, sığ alan derinliği, yumuşak arka plan bulanıklığı (bokeh), profesyonel spor fotoğrafçılığı, gerçekçi hareket, 4K UHD, 24fps, dikey 9:16 kompozisyon, yüksek detaylı, fotogerçekçi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109510154567974912/img/KvPK7VQYYAV2EzZm.jpg" width="600" alt="Jimnastik Denge Aleti Rutini Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12358)**
+
+**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2109510249573191819) | **Yayınlandı:** Oct 12, 2026
+
+---
+### Kulübede Pembe Ejderha ve Kadınla Sinematik Fantastik Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karlı bir ahşap kulübede sevimli pembe bir yavru ejderhayla etkileşime giren genç bir kadını konu alan, 36 saniyelik ultra gerçekçi sinematik fantastik video için detaylı istem.
+
+#### 📝 İstem
+
+```
+Kar dağlarla çevrili rustik ahşap bir kulübede, uzun dalgalı koyu saçları ve rahat bej örgü kazak giyen güzel genç bir kadının, sevimli pembe bir yavru ejderhayla etkileşimini konu alan 36 saniyelik muhteşem ultra gerçekçi sinematik fantastik bir video oluşturun. Kadın nazikçe taze yiyecekler hazırlar, minik yaratığa gülümser ve merakla parlayan büyük altın gözleriyle onu şefkatle beslerken, ejderha küçük kanatlarını hareket ettirir, kuyruğunu kıpırdatır ve sıcak şömine ışığı yüzlerini aydınlatırken onun kucağına sokulur. Kulübenin pencerelerinin dışında kar yağar ve nefes kesici manzaralarla büyüleyici bir kış atmosferi yaratır. Kadının doğal yüz ifadeleriyle birlikte ejderhanın zarif pembe pullarının, yarı saydam süslemelerinin ve ifade dolu gözlerinin güzel yakın çekim görüntülerini gösterin. Akıcı sinematik kamera hareketleri, gerçekçi etkileşimler, detaylı ahşap iç mekanlar, yumuşak aydınlatma ve sorunsuz sahne geçişleri ekleyin. Yaratık ona şefkatle yukarıdan bakarken kadın onu parlayan şöminenin yanında nazikçe sarılır. Mükemmel karakter tutarlılığını, fotogerçekçi dokuları, doğal hareketleri, profesyonel 4K sinematografiyi ve metin, logo veya filigran içermeyen duygusal olarak büyüleyici bir fantastik atmosferi koruyun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109456966603161600/img/yQObaARfkE7CuA3p.jpg" width="600" alt="Kulübede Pembe Ejderha ve Kadınla Sinematik Fantastik Video">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12356)**
+
+**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2109457141174247789) | **Yayınlandı:** Oct 12, 2026
+
+---
+### Geleneksel Japon Dojosunda Sinematik Dövüş Sanatları Eğitimi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Geleneksel ahşap bir Japon dojosunda iki kadının yakın dövüş pratiği yaptığı, ultra gerçekçi sinematik bir dövüş sanatları eğitim sahnesi oluşturmak için hazırlanmış prompt.
+
+#### 📝 İstem
+
+```
+AI Video Prompt: Sinematik Dövüş Sanatları Eğitimi
+
+Çevresinde yemyeşil bir bahçenin bulunduğu geleneksel ahşap bir Japon dojosunda, yakın dövüş pratiği yapan iki yetenekli genç kadını içeren ultra gerçekçi sinematik bir dövüş sanatları eğitim sahnesi oluşturun. Kadınlardan biri at kuyruğu şeklinde bağlanmış kestane rengi saçlara sahip ve kahverengi uzun kollu bir eğitim üstü ile koyu renk pantolon giyiyor. Diğeri ise kısa, kıvırcık siyah saçlara sahip ve açık bej renkli bir dövüş sanatları kıyafeti ile koyu renk pantolon giyiyor.
+
+İki kadın, etkileyici hız, hassasiyet ve dengeyle gerçekçi yumruk, blokaj, savunma hareketleri ve karşı saldırılar gerçekleştiriyor. Hareketleri doğal bir akışla; doğru vücut mekaniği, gerçekçi ayak işleri, ifade dolu yüzler ve otantik dövüş sanatları koreografisiyle sunulmalı. Yumuşak doğal gün ışığı, ahşap pavyondan süzülerek cilalı zemini ve yeşil manzarayı aydınlatıyor.
+
+Kamera: Sinematik orta-geniş çekimler, akıcı takip hareketleri, zaman zaman yakın planlar, gerçekçi hareket bulanıklığı ve dinamik açılar.
+
+Görsel stil: Foto-gerçekçi, 4K sinematik kalite, doğal aydınlatma, detaylı kumaş dokuları, sığ alan derinliği, hafif film grenli doku, profesyonel aksiyon filmi sinematografisi.
+
+Atmosfer: Yoğun, disiplinli, zarif, güçlü ve odaklanmış.
+
+Format: Dikey 9:16, kesintisiz gerçekçi hareket, tutarlı karakter görünümleri, koreografiyi bozan kesim yok, bozuk anatomi yok, ekstra uzuv yok, metin yok, filigran yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109200093870219264/img/VT3q4u7Y8J729LDG.jpg" width="600" alt="Geleneksel Japon Dojosunda Sinematik Dövüş Sanatları Eğitimi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12357)**
+
+**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2109200265534718164) | **Yayınlandı:** Oct 11, 2026
+
+---
 ### Ateşli Kadın Savaşçı Sinematik Aksiyon Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5967,201 +6036,6 @@ Son çekim: Kamera onun altında sallanırken, yörünge istasyonunun yarısın�
 **Yazar:** [DeCat](https://x.com/DeCat2025) | **Kaynak:** [Link](https://x.com/DeCat2025/status/2103615529986699498) | **Yayınlandı:** Sep 25, 2026
 
 ---
-### Güvenlik Kamerası Görüntüsü Anomali Senaryosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Apartman koridorunda kopuk bir gölge içeren doğaüstü bir anomaliyi gösteren, gerçekçi sabit güvenlik kamerası kaydı oluşturmak için detaylı istem.
-
-#### 📝 İstem
-
-```
-Gece saatlerinde sıradan bir apartman binası koridorunda çekilmiş, 30 saniyelik gerçekçi ve sabit güvenlik kamerası görüntüsü oluşturun.
-
-ÖNEMLİ: Bu TEK VE KESİNTİSİZ SABİT KAMERA ÇEKİMİDİR. Kamera asla hareket etmez, yakınlaşma yapmaz ve açısını değiştirmez.
-
-Koridorda kadrajın TAM ORTASINDA net bir şekilde görünen bir asansör bulunmalıdır. Asansörün iki adet net görünen sürgülü kapısı vardır. Adam doğrudan asansör kapılarına doğru yürümeli, önlerinde durmalı, açık kapılardan içeri girmeli ve ardından asansör kapıları kapanmalıdır.
-
-Adamın duvara yürümesine izin VERMEYİN. Koridor düzenini DEĞİŞTİRMEYİN. Asansörü HAREKET ETTİRMEYİN. Başka bir kişi eklemeyin.
-
-GÖRSEL STİL:
-Otantik, düşük kaliteli apartman CCTV (kapalı devre televizyon) görüntüsü.
-Tavana monte edilmiş sabit güvenlik kamerası.
-Geniş 16:9 kadraj.
-Hafif balık gözü (fisheye) bozulması.
-Düşük ışıklı dijital gürültü.
-Hafif sıkıştırma artefaktları.
-Düz floresan koridor aydınlatması.
-Köşede küçük zaman damgası.
-Sinematik kamera hareketi yok.
-Dramatik renk düzeltmesi yok.
-Korku filmi efektleri yok.
-
-ZAMAN ÇİZELGESİ:
-
-0–7 saniye:
-Koridor tamamen sıradan ve boş.
-
-Bir adam kadraja uzaktan girer ve koridorun ORTASINDAKİ asansöre doğru rahatça yürür.
-
-Normal insan gölgesi, onun altındaki ve arkasındaki zeminde net bir şekilde görünür.
-
-7–12 saniye:
-Adam asansöre ulaşır.
-
-Asansör kapıları NET BİR ŞEKİLDE AÇILIR.
-
-Adam AÇIK asansör kapısından geçerek içeri girer ve asansörün İÇİNDE durur.
-
-Kapalı asansörün içinde tamamen görünür durumdadır.
-
-Ardından asansör kapıları tamamen KAPANIR.
-
-12–16 saniye:
-Koridor boş.
-
-Kapalı asansör tamamen normal kalır.
-
-Adam kapalı asansörün içinde olduğu için gölgesi artık görünmez.
-
-Birkaç saniye boyunca hiçbir şey olmaz.
-
-16–20 saniye:
-Hafif bir anomali başlar.
-
-KAPALI asansör kapılarının altından koyu renkli, insan şeklinde bir gölge yavaşça belirir.
-
-Bu gölgeyi dışarıda yaratan HİÇBİR KİŞİ YOKTUR.
-
-Gölge, fiziksel bir kişiden net bir şekilde kopuktur.
-
-Yavaşça koridor zemini boyunca daha uzağa uzar.
-
-20–25 saniye:
-Kopuk gölge, zemin boyunca asansörden uzaklaşmaya devam eder.
-
-Koridorda HİÇBİR KİŞİ OLMAMASINA RAĞMEN, yürüyen bir kişinin gölgesi gibi hareket eder.
-
-Asansör kapıları tüm süre boyunca KAPALI kalır.
-
-Fiziksel ortam tamamen değişmeden kalır.
-
-25–30 saniye:
-Kopuk gölge koridorun ortasına ulaşır.
-
-Aniden durur.
-
-Boş koridorda zeminde görünen imkansız gölgeyle sahneyi sabit tutun.
-
-Ardından aniden KARARTMA'ya (Cut to Black) geçiş yapın.
-
-MUTLAK ÖNCELİKLER:
-
-1. Adam ASANSÖRE girmek ZORUNDADIR, duvara değil.
-2. Asansör net bir şekilde görünür olmalıdır.
-3. Kapılar açılmalı ve adam içeri girdikten sonra kapanmalıdır.
-4. Gölge, içerideki kişiden bağımsız olarak dışarıda hareket etmelidir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103492335661359105/img/BfCHLQcbLaAaTy-h.jpg" width="600" alt="Güvenlik Kamerası Görüntüsü Anomali Senaryosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11334)**
-
-**Yazar:** [Meem](https://x.com/mehvishs25) | **Kaynak:** [Link](https://x.com/mehvishs25/status/2103492588095304088) | **Yayınlandı:** Sep 25, 2026
-
----
-### Spor Salonu Vlog Kamera Stili Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Retro DV kamerası estetiğine sahip, eğlenceli bir spor salonu vlog videosu oluşturmak için tasarlanmış; belirli karakter detayları, mekan ve storyboard kesimlerini içeren prompt.
-
-#### 📝 İstem
-
-```
-**KAMERA:**
-DV 16mm bantlı el kamerası, elde tutma hissi. Kamerayı kendisi tutan CHASE'in bakış açısı (POV), bazen eller serbest çekimler için kamerayı yere veya matın üzerine yaslıyor. El titremesi, hizasız kadrajlar, gecikmiş odak geçişleri, beceriksiz zoom hareketleri, ara sıra yüzün kadrajdan çıkması, kusurlu çekimler. Kamera ekranda asla görünmez.
-
-**GÖRÜNÜM:**
-Yumuşak, hafif bulanık bant kalitesi, soluk bant gürültüsü, spor salonu ışıkları altında parlayan vurgular, titreşen otomatik pozlama, düşük kontrast, gerçekçi ten tonları.
-
-**STİL:**
-Eğlenceli, öz-eleştirel bir spor salonu vlog tonu — mizahla harmanlanmış samimi zorlanma, karın çalışmasından şikayet ederken yine de devam etme. Hızlı el kamerası kesimleri, enerji tamamen bitkinlik yerine hafif ve komik kalmaya devam ediyor.
-
-**Karakter**
-
-CHASE — Koreli idol, 20'lerinde. Yüksek at kuyruğu yapılmış uzun siyah saçlar, hafif ter parlaklığı olan ışıltılı cilt, büyük ve ifade dolu gözler. İnce atletik yapılı. Mütevazı uzun kollu spor üstü, bol eşofman altı veya dar tayt (kollar ve gövde tamamen kapalı), ayakkabılar çıkarılmış veya çorapla, takı yok.
-
-**Mekan**
-
-Akşam saatlerinde spor salonu mat alanı — yakında ayna duvarı, yerde su şişesi, yumuşak tavan aydınlatması, arka planda görünen diğer ekipmanlar.
-
-**Storyboard (15sn, 6 kesim)**
-
-1. *(~2.5sn, sabitlenmiş kamera, orta plan)* Matın üzerine uzanır, dirseklerinin üzerinde doğrulur, zaten dramatik bir şekilde iç çeker. CHASE: "Tamam, karın günü — en sevmediğim gün."
-
-2. *(~2.5sn, sabitlenmiş kamera, plank pozisyonu)* Plank duruşunda bekler, kolları hafifçe titrer, dişlerini sıkarak konuşur. CHASE (zorlanarak): "Neden her seferinde daha da zorlaşıyor—"
-
-3. *(~2.5sn, orta plan sabitlenmiş çekim, mekik)* Mekik setine geçer, nefes nefese kalır, tekrarlar arasında şikayet eder. CHASE: "Bunun gerçekten ne kadar yaktığını kimse söylemiyor."
-
-4. *(~2sn, makro giriş, sığ alan derinliği)* Bacak kaldırma sırasında mat kenarlarını kavrayan ellerinin yakın çekimi, karın kasları belirgin şekilde çalışıyor. Diyalog yok — sadece ortam spor salonu sesi.
-
-5. *(~2.5sn, el kamerası, bacak kaldırma)* Yavaş bir bacak kaldırma setini bitirir, hemen ardından matın üzerine geri düşer ve kendine güler. CHASE (nefes nefese): "Tamam— bu kadar, bittim—"
-
-6. *(~3sn, kol mesafesinde selfie finali)* Hala matın üzerinde yatarken, kamerayı yüzünün üzerine kaldırır, yorgun ama gülümseyerek. CHASE: "Karın günü hiç kolaylaşmıyor — yarın görüşürüz çocuklar, umarım."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103476166715899904/img/5_rzHDdpEsX2PWPt.jpg" width="600" alt="Spor Salonu Vlog Kamera Stili Prompt">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11330)**
-
-**Yazar:** [WasifAI](https://x.com/doctorwasif) | **Kaynak:** [Link](https://x.com/doctorwasif/status/2103476205760774263) | **Yayınlandı:** Sep 25, 2026
-
----
-### Lüks Parfüm Reklam Senaryosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Belirli görsel efektler, kamera hareketleri ve karakter tutarlılığı talimatlarını içeren 15 saniyelik lüks parfüm reklamı oluşturmak için detaylı bir istem.
-
-#### 📝 İstem
-
-```
-15 saniye, 16:9 en-boy oranında lüks parfüm reklamı. Fotogerçekçi sinematik moda filmi, minimalist lüks, zümrüt yeşili ortam, zarif altın vurgularla yüksek kontrastlı aydınlatma, parlak yansımalar ve premium makro ürün sinematografisi.
-
-Model referansı olarak YALNIZCA Görsel 2'yi kullanın. Wizstar parfüm şişesi referansı olarak YALNIZCA Görsel 1'i kullanın. Modelin kimliğini, yüzünü, saçını, vücut oranlarını ve zümrüt yeşili ipek elbisesini tutarlı tutun. Parfüm şişesinin tasarımını, şeklini, etiketini, kapağını ve malzemelerini baştan sona aynı tutun.
-
-0–3s — HERO AÇILIŞ:
-Kadının net bir şekilde göründüğü, kendinden emin bir moda pozuyla merkezde durduğu, zümrüt yeşili ipek elbise giydiği ve Wizstar şişesini göğsüne yakın tuttuğu anla hemen başlayın. Yüzü, elbisesi ve şişe ilk kareden itibaren net bir şekilde görünür olmalıdır. Yumuşak altın vurgulara sahip zengin zümrüt yeşili arka plan. Parlak, premium ve zarif. Karanlık gölgeler, gri arka plan, boş kare veya fade-in (soluk geçiş) yok.
-
-3–6s — SPREY:
-Sinematik bir yakın çekime yumuşakça geçiş yapın. Wizstar şişesini kaldırır ve boynuna doğru bir kez sıkılır. İnce parfüm sisi altın ışığı yakalar. Şişeyi indirir ve nazikçe köprücük kemiğine dokunur. Gerçekçi yansımalar ve sis ile zarif, kontrollü hareket.
-
-6–9s — MODA HAREKETİ:
-Daha geniş bir çekime kesin. Kamera geriye doğru takip ederken o yavaşça döner ve ileri yürür. Zümrüt yeşili ipek elbisesi ve saçı doğal bir şekilde hareket eder. Zümrüt atmosferi, ince sis ve akan altın ışık şeritleriyle etrafında genişler.
-
-9–12s — ÜRÜN HERO'SU:
-Wizstar şişesinin zümrüt yeşili ortamda süzüldüğü premium bir makro çekime geçiş yapın. Şişe yavaşça eğilir ve altın vurguları yakalar. Gerçekçi cam, sıvı yansımaları, ince buhar izleri ve rafine kehribar parçacıkları gösterin. Şişe geometrisini mükemmel derecede stabil tutun.
-
-12–13.5s — SON MODEL:
-Sıkı bir moda çekimine geri dönün. Kendinden emin, zarif bir ifadeyle başını hafifçe kameraya çevirir. Saçları ve ipek kumaşı havada yumuşakça hareket eder. Altın kenar ışığı siluetini çerçeveler.
-
-13.5–15s — SON PAKET ÇEKİMİ:
-Temiz bir lüks paket çekimine geçin. Derin siyah arka plan üzerinde, zümrüt yeşili bir parıltı ve rafine altın kenar ışığıyla ortalanmış Wizstar şişesi. Şu kelimeleri görüntüle:
-“ELEGANCE, DISTILLED.”
-Rafine bir kadın sesi net bir şekilde şunu söyler: “Elegance, distilled.”
-
-STİL:
-Ultra premium parfüm reklamcılığı, sinematik 35mm görünüm, gerçekçi cilt ve kumaş dokusu, kontrollü kamera hareketi, sığ alan derinliği, hassas odak geçişleri, parlak l
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103296432761675776/img/cWwrABmrEVtOTaLD.jpg" width="600" alt="Lüks Parfüm Reklam Senaryosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11329)**
-
-**Yazar:** [Meenakshi Yadav](https://x.com/MeenakshiYACS) | **Kaynak:** [Link](https://x.com/MeenakshiYACS/status/2103462025871372380) | **Yayınlandı:** Sep 25, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -6223,6 +6097,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-12T04:53:13.589Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-12T17:45:13.870Z</sub>
 
 </div>

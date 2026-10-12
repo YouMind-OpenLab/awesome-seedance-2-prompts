@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6526** |
+| 📝 Total Prompts | **6529** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-10-12** |
 
@@ -365,11 +365,80 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Fiery Female Warrior Cinematic Action Video
+### Gymnast Balance Beam Routine Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a 15-second ultra-realistic cinematic fantasy action video featuring a female warrior with silver hair and glowing eyes, wielding a spear amidst blazing flames on a dark battlefield.
+> A prompt for an ultra-realistic cinematic video of a female gymnast performing an elegant routine on a balance beam in an indoor hall.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic video of a talented young female gymnast performing an elegant routine on a balance beam inside a traditional indoor gymnastics hall. She wears a burgundy long-sleeve leotard, with her brown hair tied back neatly. She gracefully walks along the beam, extends her arms for balance, and performs a stunning full split with perfect flexibility and control. A seated audience watches attentively in the background. Warm indoor lighting, realistic skin texture, natural body movements, smooth cinematic camera tracking, shallow depth of field, soft background bokeh, professional sports photography, realistic motion, 4K UHD, 24fps, vertical 9:16 composition, highly detailed, photorealistic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109510154567974912/img/KvPK7VQYYAV2EzZm.jpg" width="600" alt="Gymnast Balance Beam Routine Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12358)**
+
+**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2109510249573191819) | **Published:** Oct 12, 2026
+
+---
+### Cinematic Fantasy Video with Pink Dragon and Woman in Cabin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a 36-second ultra-realistic cinematic fantasy video featuring a young woman interacting with an adorable pink baby dragon inside a snowy wooden cabin.
+
+#### 📝 Prompt
+
+```
+Create a fantastic 36-second ultra-realistic cinematic fantasy video featuring a beautiful young woman with long, wavy dark hair wearing a cozy beige knitted sweater, interacting with an adorable pink baby dragon inside a rustic wooden cabin surrounded by snowy mountains. The woman gently prepares fresh food, smiles at the tiny creature, and lovingly feeds it as its big golden eyes sparkle with curiosity. The adorable dragon moves its tiny wings, wiggles its tail, and snuggles into her arms while warm fireplace light illuminates their faces. Snow falls outside the cabin windows, creating a magical winter atmosphere with breathtaking scenery. Show beautiful close-up shots of the dragon’s delicate pink scales, translucent frills, and expressive eyes, along with the woman’s natural facial expressions. Include smooth cinematic camera movements, realistic interactions, detailed wooden interiors, soft lighting, and seamless scene transitions. The woman gently cuddles the creature beside the glowing fireplace as it looks up at her affectionately. Maintain perfect character consistency, photorealistic textures, natural movements, professional 4K cinematography, and an emotionally captivating fantasy atmosphere with no text, logos, or watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109456966603161600/img/yQObaARfkE7CuA3p.jpg" width="600" alt="Cinematic Fantasy Video with Pink Dragon and Woman in Cabin">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12356)**
+
+**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2109457141174247789) | **Published:** Oct 12, 2026
+
+---
+### Cinematic Martial Arts Training in Japanese Dojo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating an ultra-realistic cinematic martial arts training scene featuring two women practicing hand-to-hand combat in a traditional Japanese wooden dojo.
+
+#### 📝 Prompt
+
+```
+AI Video Prompt: Cinematic Martial Arts Training
+
+Create an ultra-realistic cinematic martial arts training scene featuring two skilled young women practicing hand-to-hand combat in a traditional Japanese wooden dojo surrounded by a lush green garden. One woman has auburn hair tied in a ponytail and wears a brown long-sleeved training top with dark pants. The other has short, curly black hair and wears a light beige martial arts outfit with dark trousers.
+
+They perform realistic punches, blocks, defensive movements, and counterattacks with impressive speed, precision, and balance. Their movements should flow naturally, with accurate body mechanics, realistic footwork, expressive faces, and authentic martial arts choreography. Soft natural daylight filters through the wooden pavilion, illuminating the polished floor and green scenery.
+
+Camera: Cinematic medium-wide shots, smooth tracking movements, occasional close-ups, realistic motion blur, and dynamic angles.
+
+Visual style: Photorealistic, 4K cinematic quality, natural lighting, detailed fabric textures, shallow depth of field, subtle film grain, professional action-movie cinematography.
+
+Mood: Intense, disciplined, graceful, powerful, and focused.
+
+Format: Vertical 9:16, continuous realistic motion, consistent character appearances, no cuts that disrupt the choreography, no distorted anatomy, no extra limbs, no text, no watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109200093870219264/img/VT3q4u7Y8J729LDG.jpg" width="600" alt="Cinematic Martial Arts Training in Japanese Dojo">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12357)**
+
+**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2109200265534718164) | **Published:** Oct 11, 2026
+
+---
+### Fiery Warrior Action Video with Glowing Spear
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for creating a 15-second ultra-realistic cinematic fantasy action video featuring a female warrior with silver hair and glowing eyes wielding a fiery spear on a battlefield.
 
 #### 📝 Prompt
 
@@ -377,18 +446,18 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 Created a 15-second ultra-realistic cinematic fantasy action video featuring a powerful female warrior with long silver hair, glowing golden eyes, and a stylish black battle outfit, holding a massive spear surrounded by blazing orange flames. She rushes forward across a dark battlefield, performing fast and powerful weapon attacks with glowing fiery trails and flying sparks. The camera follows her movements smoothly, capturing dramatic close-ups, wide action shots, and intense combat moments. She jumps high into the air, spinning her spear as magical fire energy gathers around her body. She strikes the ground with incredible force, creating a massive explosion of flames, smoke, and glowing embers. Her silver hair flows naturally in the wind while her golden eyes shine with fierce determination. The battlefield lights up with orange energy as enemies disappear into the smoke. End with a dramatic heroic pose, her spear glowing brightly as fire swirls around her. Maintain consistent character details, realistic movement, cinematic lighting, smooth transitions, and stunning high-quality visual effects throughout the entire video.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109136974116499456/img/snE8D7hQi20LDhvy.jpg" width="600" alt="Fiery Female Warrior Cinematic Action Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109136974116499456/img/snE8D7hQi20LDhvy.jpg" width="600" alt="Fiery Warrior Action Video with Glowing Spear">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12303)**
 
 **Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2109137173224337478) | **Published:** Oct 11, 2026
 
 ---
-### Medieval Female Archer Forest Ride
+### Medieval Fantasy Archer Riding Through Misty Forest
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed prompt for a 15-second medieval fantasy film featuring a female archer riding through a misty pine forest, drawing her bow, and arriving at a camp. Includes specific cinematography and physics instructions.
+> A prompt for creating a 15-second high-budget medieval fantasy film featuring a female archer riding a black horse through a foggy pine forest, transitioning to a hidden encampment.
 
 #### 📝 Prompt
 
@@ -396,7 +465,7 @@ Created a 15-second ultra-realistic cinematic fantasy action video featuring a p
 Create a 15-second ultra-realistic, high-budget medieval fantasy film featuring a beautiful, fierce female archer with long, loose brown hair, wearing historically inspired dark brown leather armor, fur-trimmed shoulders, a rugged medieval outfit, a leather belt, and a quiver full of arrows strapped across her back. She rides a muscular black horse through a dense ancient pine forest filled with thick atmospheric fog, moss-covered ground, scattered rocks, and towering trees. Begin immediately with a wide cinematic rear shot of the warrior riding her horse along a narrow forest trail as warm golden sunlight pierces through the trees, creating dramatic volumetric light rays and a mysterious atmosphere. The camera follows smoothly behind the horse as its hooves move naturally over the uneven ground, disturbing small leaves, dirt, and moss. Transition into a dramatic low-angle side close-up of the female warrior holding a traditional curved black bow, drawing the bowstring backward with a single arrow, and aiming with intense concentration. Her arm muscles tense naturally, the bow bends under realistic tension, and her hair and fur-trimmed clothing respond to the cool forest breeze. Capture her determined facial expression, realistic skin texture, detailed leather armor, and the individual arrows in her quiver. In the final seconds, transition to a wide rear tracking shot as she rides into a hidden medieval encampment surrounded by towering evergreen trees, rustic tents, wooden structures, and groups of warriors wearing authentic medieval clothing and armor. The warriors turn toward her arrival, creating the atmosphere of a legendary chieftain returning to her people. Maintain consistent character identity, outfit, horse appearance, and realistic body proportions throughout every shot. Use cinematic camera transitions, natural horse locomotion, accurate equestrian anatomy, realistic gravity, inertia, muscle movement, cloth simulation, and physically believable lighting. Premium Hollywood medieval fantasy cinematography, photorealistic textures, atmospheric fog, muted earthy colors, dramatic natural lighting, subtle film grain, shallow depth of field, 4K quality, 24 FPS, immersive environmental sound effects of horse hooves, leather movement, wind through pine trees, and distant camp ambience. No modern objects, no cartoon effects, no subtitles, no text, no logos, and no watermark.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109123010812870656/img/EHX4CdPkZ_XLXU_e.jpg" width="600" alt="Medieval Female Archer Forest Ride">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109123010812870656/img/EHX4CdPkZ_XLXU_e.jpg" width="600" alt="Medieval Fantasy Archer Riding Through Misty Forest">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12304)**
 
@@ -6602,203 +6671,6 @@ Final shot: the camera swings beneath him, revealing half the orbital station br
 **Author:** [DeCat](https://x.com/DeCat2025) | **Source:** [Link](https://x.com/DeCat2025/status/2103615529986699498) | **Published:** Sep 25, 2026
 
 ---
-### CCTV Footage Anomaly Script
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a realistic fixed security-camera recording of an apartment hallway with a supernatural anomaly involving a detached shadow.
-
-#### 📝 Prompt
-
-```
-Create a 30-second realistic fixed security-camera recording inside an ordinary apartment building hallway at night.
-
-IMPORTANT: This is a SINGLE CONTINUOUS STATIC CAMERA SHOT. The camera never moves, never zooms, and never changes angle.
-
-The hallway has an elevator clearly visible at the CENTER of the frame. The elevator has two clearly visible sliding doors. The man must walk directly toward the elevator doors, stop in front of them, enter the elevator through the open doors, and then the elevator doors must close.
-
-Do NOT let the man walk into a wall. Do NOT change the hallway layout. Do NOT move the elevator. Do NOT introduce any other person.
-
-VISUAL STYLE:
-Authentic low-quality apartment CCTV footage.
-Fixed ceiling-mounted security camera.
-Wide 16:9 frame.
-Slight fisheye distortion.
-Low-light digital noise.
-Mild compression artifacts.
-Flat fluorescent hallway lighting.
-Small timestamp in the corner.
-No cinematic camera movement.
-No dramatic color grading.
-No horror-film effects.
-
-TIMELINE:
-
-0–7 seconds:
-The hallway is completely ordinary and empty.
-
-A man enters the frame from the far end and casually walks toward the elevator in the CENTER of the hallway.
-
-His normal human shadow is clearly visible on the floor beneath and behind him.
-
-7–12 seconds:
-The man reaches the elevator.
-
-The elevator doors OPEN clearly.
-
-The man walks through the OPEN elevator doorway and stands INSIDE the elevator.
-
-He is completely visible inside the elevator.
-
-The elevator doors then CLOSE completely.
-
-12–16 seconds:
-The hallway is empty.
-
-The closed elevator remains completely normal.
-
-The man's shadow is no longer visible because he is inside the closed elevator.
-
-Nothing happens for a few seconds.
-
-16–20 seconds:
-A subtle anomaly begins.
-
-A dark human-shaped shadow slowly appears from underneath the CLOSED elevator doors.
-
-There is NO PERSON outside creating this shadow.
-
-The shadow is clearly detached from any physical person.
-
-It slowly extends farther across the hallway floor.
-
-20–25 seconds:
-The detached shadow continues moving away from the elevator across the floor.
-
-It moves like the shadow of a person walking, even though there is NO PERSON anywhere in the hallway.
-
-The elevator doors remain CLOSED the entire time.
-
-The physical environment remains completely unchanged.
-
-25–30 seconds:
-The detached shadow reaches the middle of the hallway.
-
-It suddenly stops.
-
-Hold on the empty hallway with the impossible shadow visible on the floor.
-
-Then abruptly CUT TO BLACK.
-
-ABSOLUTE PRIORITIES:
-
-1. The man MUST enter the elevator, not the wall.
-2. The elevator must be clearly visible and centered.
-3. The elevator doors must visibly OPEN before he enters.
-4. The man must be completely INSIDE the elevator before the doors close.
-5. The elevator doors must remain CLOSED while the detached shadow emerges.
-6. The detached
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103492335661359105/img/BfCHLQcbLaAaTy-h.jpg" width="600" alt="CCTV Footage Anomaly Script">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11334)**
-
-**Author:** [Meem](https://x.com/mehvishs25) | **Source:** [Link](https://x.com/mehvishs25/status/2103492588095304088) | **Published:** Sep 25, 2026
-
----
-### Gym Vlog Camcorder Style Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt designed to generate a playful gym vlog video with a retro DV camcorder aesthetic, including specific character details, setting, and storyboard cuts.
-
-#### 📝 Prompt
-
-```
-**CAMERA:**
-DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally propping it on the floor or a mat for hands-free core shots. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.
-
-**LOOK:**
-Soft, slightly blurry tape quality, faint tape noise, bloomed highlights under gym lighting, flickering auto-exposure, muted contrast, realistic skin tones.
-
-**STYLE:**
-Playful, self-deprecating gym-vlog tone — genuine strain mixed with humor, complaining about core work while still pushing through it. Quick handheld cuts, energy staying light and funny throughout rather than fully exhausted.
-
-**Character**
-
-CHASE — Korean idol, 20s. Long black hair in a high ponytail, glowing skin with a light sweat sheen, big expressive eyes. Slim athletic build. Modest long-sleeve athletic top, loose joggers or fitted leggings (arms and torso fully covered), sneakers off or socks, no jewelry.
-
-**Setting**
-
-A gym mat area in the evening — mirror wall nearby, water bottle on the floor, soft overhead lighting, other equipment visible in the background.
-
-**Storyboard (15s, 6 cuts)**
-
-1. *(~2.5s, propped camera, medium shot)* She lies down on the mat, propping up on her elbows, already sighing dramatically. CHASE: "Okay, core day — my least favorite day."
-
-2. *(~2.5s, propped camera, plank position)* She holds a plank, arms shaking slightly, talking through gritted teeth. CHASE (strained): "Why does this get harder every single time—"
-
-3. *(~2.5s, medium propped shot, crunches)* She moves into a set of crunches, breathing hard, complaining between reps. CHASE: "Nobody warns you how much this actually burns."
-
-4. *(~2s, macro insert, shallow DOF)* Close-up on her hands gripping the mat edges during a leg raise, abs visibly working. No dialogue — ambient gym sound only.
-
-5. *(~2.5s, handheld, leg raises)* She finishes a slow leg raise set, flopping back onto the mat immediately after, laughing at herself. CHASE (breathless): "Okay— that's it, I'm done—"
-
-6. *(~3s, arm's-length selfie finish)* Still lying on the mat, she lifts the camera above her face, grinning tiredly. CHASE: "Core day never gets easier — see you guys tomorrow, hopefully."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103476166715899904/img/5_rzHDdpEsX2PWPt.jpg" width="600" alt="Gym Vlog Camcorder Style Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11330)**
-
-**Author:** [WasifAI](https://x.com/doctorwasif) | **Source:** [Link](https://x.com/doctorwasif/status/2103476205760774263) | **Published:** Sep 25, 2026
-
----
-### Luxury Perfume Commercial Script
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a 15-second luxury perfume commercial featuring specific visual effects, camera movements, and character consistency instructions.
-
-#### 📝 Prompt
-
-```
-15-second, 16:9 luxury perfume commercial. Photorealistic cinematic fashion film, minimalist luxury, rich emerald environment, high-contrast lighting with elegant soft golden accents, glossy reflections and premium macro product cinematography.
-
-Use Image 2 ONLY as the model reference. Use Image 1 ONLY as the Wizstar perfume bottle reference. Keep the model’s identity, face, hair, body proportions and emerald silk dress consistent. Keep the perfume bottle design, shape, label, cap and materials identical throughout.
-
-0–3s — HERO OPEN:
-Start immediately with the woman clearly visible, centered in a confident fashion pose, wearing an emerald silk dress and holding the Wizstar bottle near her chest. Her face, dress and bottle must be clearly visible from the first frame. Rich emerald background with soft golden highlights. Bright, premium and elegant. No dark shadows, gray background, empty frame or fade-in.
-
-3–6s — SPRAY:
-Smoothly move into a cinematic close-up. She raises the Wizstar bottle and sprays once toward her neck. Fine perfume mist catches the golden light. She lowers the bottle and gently touches her collarbone. Elegant, controlled movement with realistic reflections and mist.
-
-6–9s — FASHION MOVEMENT:
-Cut to a wider shot. She slowly turns and walks forward while the camera tracks backward. Her emerald silk dress and hair move naturally. Emerald atmosphere expands around her with subtle mist and flowing golden light streaks.
-
-9–12s — PRODUCT HERO:
-Transition into a premium macro shot of the Wizstar bottle floating in the emerald environment. The bottle slowly tilts and catches golden highlights. Show realistic glass, liquid reflections, subtle vapor trails and refined amber particles. Keep bottle geometry perfectly stable.
-
-12–13.5s — FINAL MODEL:
-Cut back to a tight fashion shot. She gently turns her head toward camera with a confident, elegant expression. Hair and silk fabric move softly in the air. Golden rim light outlines her silhouette.
-
-13.5–15s — FINAL PACKSHOT:
-Cut to a clean luxury packshot. Wizstar bottle centered against a deep black background with an emerald glow and refined golden rim light. Display the words:
-“ELEGANCE, DISTILLED.”
-A refined female voice clearly says: “Elegance, distilled.”
-
-STYLE:
-Ultra-premium fragrance advertising, cinematic 35mm look, realistic skin and fabric texture, controlled camera movement, shallow depth of field, precise focus transitions, glossy l
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103296432761675776/img/cWwrABmrEVtOTaLD.jpg" width="600" alt="Luxury Perfume Commercial Script">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11329)**
-
-**Author:** [Meenakshi Yadav](https://x.com/MeenakshiYACS) | **Source:** [Link](https://x.com/MeenakshiYACS/status/2103462025871372380) | **Published:** Sep 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -6860,6 +6732,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-12T04:52:54.825Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-12T17:44:51.242Z</sub>
 
 </div>
