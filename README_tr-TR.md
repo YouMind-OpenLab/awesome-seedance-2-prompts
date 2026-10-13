@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6529** |
+| 📝 Toplam İstem | **6531** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-10-13** |
 
@@ -361,6 +361,157 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Orta Çağ Taç Giyme Töreni Komedi Kesintisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Modern bir adamın, Orta Çağ taç giyme törenini keserek tacın fiyat etiketini düzelttiği 20 saniyelik sinematik komedi için bir istem.
+
+#### 📝 İstem
+
+```
+TAÇ GİYME — 20 SANİYELİK SİNEMATİK KOMEDİ
+
+MODEL: Seedance 2.5
+SÜRE: 20 saniye
+EN-BOY ORANI: 16:9
+STİL: Hafif absürt komedi içeren fotogerçekçi canlı aksiyon Orta Çağ fantastik film.
+REFERANS GÖRSELLER VE KARAKTER KİLİDİ
+Kral karakter sayfası, Prens karakter sayfası ve Rastgele Adam karakter sayfasını kesin görsel referanslar olarak kullanın.
+Kral: Yüzünü, gri çizgili saçlarını, sakalını, tacını ve bordo renkli kıyafetini olduğu gibi koruyun.
+
+Prens: Yüzünü, saç modelini, lacivert-altın taç giyme kıyafetini, mavi pelerinini ve takılan tacını olduğu gibi koruyun.
+
+Rastgele Adam: Yüzünü, saç modelini, modern günlük kıyafetini ve vücut oranlarını olduğu gibi koruyun.
+
+Tüm video boyunca karakter kimliklerini, kostümleri, ışıklandırmayı ve taht odası düzenini tutarlı şekilde sürdürün.
+MEKAN VE ATMOSFER
+Ulu taş sütunları, altın avizeleri, yüksek vitray pencereleri, kırmızı kadife sancakları ve görkemli altın tahtı bulunan devasa bir Orta Çağ kraliyet taht odası. Kraliyet mahkemesi, kırmızı halının her iki yanında sessizce duruyor.
+
+Atmosfer son derece ciddi ve duygusal olarak görkemli; epik bir fantastik filmin doruk noktası gibi. Sıcak altın rengi güneş ışığı pencerelerden süzülüyor. Müzik, tam orkestral eşliğinde majesteli.
+
+Modern adam bu Orta Çağ ortamında tamamen uyumsuz görünmeli.
+
+SAHNE 1 — TAÇ GİYME ANI
+
+0–5 saniye
+
+Kraliyet taht odasının geniş sinematik kurulum çekimi. Prens, kralın önünde bir yastığın üzerinde diz çöküyor. Kral, ellerinde süslü altın tacı tutarak onun karşısında heybetli bir şekilde ayakta duruyor.
+
+Mahkeme mutlak sessizlikle izliyor.
+Kralın tacı prensin başının üzerine yavaşça kaldırdığı orta yakın plana geçiş.
+
+Kral derin, heybetli bir sesle konuşur:
+
+KRAL: "Bugün, kral olacaksın."
+
+Orkestra müziği dramatik bir şekilde yükselir. Prens tamamen ciddi bir şekilde başını eğer.
+
+SAHNE 2 — YANLIŞ ADAM GİRER
+
+5–9 saniye
+
+Tam kral tacı aşağı indirmek üzereyken, koyu renk kapüşonlu sweatshirt, kot pantolon ve spor ayakkabı giymiş rahat kıyafetli modern bir adam, salonun yanından kraliyet törenine girer.
+
+Doğrudan kral ile prensin arasından yürür, sanki oraya aitmiş gibi.
+Kral, havada asılı kalan taçla donup kalır. Prens diz çökmeye devam eder, hafif şaşkın görünür. Saray mensupları sessiz inanmazlıkla bakar.
+
+Modern adam kimseye neredeyse hiç aldırmaz. Tacı fark eder, eleştirel bir şekilde ona bakar ve küçük, onaylamayan bir baş sallama hareketi yapar.
+
+Orkestra müziği aniden garip, uzatılmış bir nota dönüşür.
+
+SAHNE 3 — BEKLENMEDİK DÜZELTME
+
+9–14 saniye
+
+Tek bir sürekli, net görünen eylemde, modern adam tacı kralın ellerinden rahatça alır.
+
+Tacın sarkıtıldığı küçük kağıt fiyat etiketini fark eder, onu çıkarır ve cebine atar. Ardından prensin eğri yakasını nazikçe düzeltir ve kraliyet tahtını halıyla daha iyi hizalanması için birkaç santim ileri iter.
+Hareketleri pratik, hızlı ve tamamen umursamazdır.
+
+Kral donmuş halde durur, açıkça şaşkın ama kraliyet vakarını korumaya çalışır. Prens adama ve babasına bakar, hareket edip edemeyeceğinden emin değildir.
+
+Adam geri adım atar, işini inceler ve tek bir memnun baş sallama verir.
+
+RASTGELE ADAM: "Çok daha iyi."
+
+Cümleyi doğal, sohbet tonunda, dramatik duraksama veya abartılı komik vurgu olmadan rahatça söyleyin.
+
+SAHNE 4 — İŞE DEVAM
+
+14–17 saniye
+
+Modern adam arkasını döner ve girdiği aynı yoldan rahatça taht odasından çıkar.
+
+Kimse onu durdurmaz. Kimse konuşmaz.
+Kral gözleriyle yavaşça onu takip eder, sonra ne olduğunu anlamaya çalışırcasına elindeki taça bakar.
+
+Prens tam olarak aynı pozisyonda diz çökmeye devam eder.
+
+Adam çerçeveden tamamen çıkar.
+
+SAHNE 5 — TAÇ GİYME DEVAM EDER
+
+17–20 saniye
+
+Kralın yavaşça nefes aldığı, sakinliğini yeniden kazandığı ve törene devam etmek için kendini dikkatlice konumlandırdığı sinematik orta yakın plana geçiş.
+
+Tacı tekrar kaldırır.
+Prens başını eğer.
+
+Orkestra müziği, kesinti hiç olmamış gibi orijinal majesteli yoğunluğuna geri döner.
+
+KRAL: "Bugün… kral olacaksın."
+
+Kralın tamamen ciddi yüzüyle hemen bitirin.
+
+Kararmaya geçiş.
+
+KAMERA VE KESİM
+
+Profesyonel sinematik çerçeveleme, akıcı kontrollü kamera hareketleri, gerçekçi alan derinliği, doğal yüz mikro ifadeleri ve temiz film tarzı kesimler kullanın. Odayı kurduktan sonra orta planlara ve yakın planlara geçin. Modern adamın girişini ve pratik eylemlerini kolayca görülebilir yapın.
+
+Komediye ölçülü yaklaşın; zamanlama, garip sessizlik ve epik tören ile adamın sıradan davranışları arasındaki kontrastla yönlendirilsin.
+
+SES TASARIMI
+
+Taç giyme sırasında majesteli orkestra müziği, ince ayak sesleri ve kıyafet hışırtıları, adam girdiğinde hafif müzik kesintisi, fiyat etiketini çıkarırken yumuşak kağıt hışırtısı ve son cümle için tam orkestral görkeme dönüş.
+
+Tüm diyaloglar net duyulabilir, doğal İngilizce konuşmalı ve aşırı teatral olmamalı.
+
+STRICT NEGATIVE CONSTRAINTS (KATI OLUMSUZ KISITLAMALAR)
+
+Herhangi bir altyazı, yazı katmanı, metin bindirmesi, filigran, logo veya ekran üstü metin ÜRETMEYİN.
+Konuşulan cümleleri ekran üzerinde yazılı metin olarak GÖSTERMEYİN.
+Diyaloglar yalnızca sesli olarak mevcut olmalı, asla görünür tipografi olarak değil.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109652073189097472/img/WVJ7tQSgnKUnJfqs.jpg" width="600" alt="Orta Çağ Taç Giyme Töreni Komedi Kesintisi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12392)**
+
+**Yazar:** [Caden Flux](https://x.com/Caden_Flux) | **Kaynak:** [Link](https://x.com/Caden_Flux/status/2109652904864829898) | **Yayınlandı:** Oct 12, 2026
+
+---
+### Pixar Tarzı Mango Bahçesi Kısa Film Promptu
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Mango bahçesindeki bir çiftçiyi konu alan, Seedance 2.0 ile 12 saniyelik Pixar tarzı animasyonlu kısa film oluşturmak için detaylı video üretim promptu.
+
+#### 📝 İstem
+
+```
+12 saniyelik animasyonlu kısa film, Pixar 3D çizgi film tarzı, parlak pastoral aydınlatma, yaprakların arasından süzülen sıcak öğleden sonra güneş ışıkları. Geniş kenarlı hasır şapka, kıvrık kollu açık haki gömlek, koyu renk pantolon ve belinde küçük bir bez çanta takan orta yaşlı bir çiftçi, yemyeşil bir mango bahçesinde duruyor; dallardaki dolgun yeşil mangolara hafif bir gülümsemeyle nazikçe dokunuyor. Arka planda yuvarlak tepeler, mavi gökyüzü ve beyaz bulutlar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109650656302972929/img/mtXPkMSZfdrAx-sF.jpg" width="600" alt="Pixar Tarzı Mango Bahçesi Kısa Film Promptu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12395)**
+
+**Yazar:** [Jackzhao](https://x.com/Jackzhaoh6ob) | **Kaynak:** [Link](https://x.com/Jackzhaoh6ob/status/2109651272303550940) | **Yayınlandı:** Oct 12, 2026
+
+---
 ### Jimnastik Denge Aleti Rutini Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5992,50 +6143,6 @@ Sıra, fiziksel olarak gerçekçi ve grafik olmayan bir şekilde gergin, şık v
 **Yazar:** [Elsa Ai](https://x.com/ElsaSofia__AI) | **Kaynak:** [Link](https://x.com/ElsaSofia__AI/status/2103667614606368931) | **Yayınlandı:** Sep 26, 2026
 
 ---
-### Chongqing Bungee Jump FPV Video İstemi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 için, Chongqing'de bir yetişkin kadının bungee jump veya yüksek dalış akrobasi hareketini gerçekçi, el kamerası tarzında uzun çekimle gösteren detaylı bir video üretim istemi. İstem; kamera hareketi, aydınlatma, karakter tutarlılığı ve fiziksel gerçekçilik kısıtlamalarını belirtir.
-
-#### 📝 İstem
-
-```
-15 saniye, gerçekçi akıllı telefon çekim dokusu, kesintisiz el kamerası uzun çekim, yalnızca havada takla sırasında kısa yavaş çekim. Yetişkin kadın karakter, ön ayar #2 screenshot_16-8-2026_0750_x.com yoga kıyafeti giyiyor; referans görseldeki renk, stil, kesim ve kumaş özellikleri kesinlikle sabit tutuluyor; beyaz spor ayakkabılar, sıkıca toplanmış saçlar, yüz hatları, vücut şekli ve kıyafetler boyunca tutarlılık korunuyor. Sahne, arka planda Raffles City Chongqing ve iki nehir manzarası bulunan kurgusal bir yüksek rakımlı konsol platformdur; gerçek çatı tesisleriyle eşleşmez. Binadan dışa doğru uzanan iki bitişik platform, sabit genişlikte dar bir boşlukla ayrılır ve bina tarafında sürekli bir yürüyüş yoluyla bağlanır. Kadın, binanın cephesine yaklaşık olarak paralel olacak şekilde bir platformdan diğerine yanlamasına atlar; karşı platformda net ve geniş bir iniş ve yuvarlanma alanı bulunur. Açılışta kalkış platformu, dar boşluk, iniş alanı ve iç yürüyüş yolu aynı anda belirlenir; yapı sonrasında değişmez. Öğleden sonra doğal güneş ışığı, Chongqing'de hafif pus, uzak nehir yüzeyinde yumuşak yansıma, ışık kaynağıyla tutarlı zemin gölgeleri. 0-3s: Kadın kalkış platformunda zaten ileri doğru koşuyor, kamera binaya yakın arkada ve yanda, göğüs hizasının biraz altında takip ediyor. Çerçevede tüm vücudu, ön boşluk ve karşı iniş alanı kalıyor; dış kenarın altındaki uzak şehir yükseklik hissini veriyor. Siyah giyimli başka bir yetişkin erkek, kalkış platformunun iç tarafında arkada kalıyor, telefonla film çekiyor, yoluna girmiyor. Ayak sesleri ve rüzgar duyuluyor, zaman zaman esen rüzgar telefon mikrofonuna çarpıyor. 3-5s: Kısa süre hızlanır, bakışı karşı platforma sabitlenmiş, eylem duraksama/pose olmadan koşudan atlamaya doğal geçiş yapar. Ana fotoğrafçı iç bağlantı yürüyüş yolu boyunca ileri hareket eder, yan görünüm oluşturur, lens boşluğun her iki tarafındaki sağlam platformları görür. Yerden ayrıldıktan sonra karşı platforma doğru hareket eder, tek bir sürekli öne takla başlatır; tüm eylem iniş alanına yönlendirilir, binanın dışına sürüklenmez. 5-8s: Kalkıştan sonraki kısa havada faz yavaş çekimde sunulur. Tüm vücut tamamen çerçeveye girer, ağırlık merkezi yükselen ardından düşen sürekli bir yay izler, takla hız değişimi tutarlıdır, saç uçları ve kumaş doğal atalet gösterir. Yalnızca bir öne takla tamamlar, ardından vücut uzar, ayaklar karşı platforma yaklaşır. Lens hala iç yürüyüş yolundan çeker, binanın etrafından dolaşmaz, kişinin altından geçmez; yavaş çekim gerçek havada süreyi artırmaz, havada asılı kalma yok. 8-11s: Ayak tabanları platforma temas etmeden önce normal hıza dönüş. Karşı platformun içinde iner, temasta vücut belirgin şekilde alçalır, ardından kalan ileri momentumunu kullanarak kompakt bir yuvarlanma tamamlar, içeri doğru hareket etmeye devam eder. Ayak tabanlarının, ellerin ve vücudun zemine temas sırası nettir, kesilme veya sürtünmesiz kayma yoktur. Ana fotoğrafçı iç yürüyüş yolu boyunca ileri hareket etmeye devam eder, o yuvarlanmadan yavaşladığında ön-yana ulaşır, durur ve lensi döndürür, iniş ve yuvarlanma sürecini tamamen korur. 11-15s: Yakında ayağa kalkar, dengeyi sağladıktan sonra eller dizlerinde öne eğilir, hızlı nefes verir, omuzlar ve sırt doğal olarak yükselir/alçalır. İfade, gerilimin çözülmesinden sonra yüksek konsantrasyondan hafif şaşkınlığa geçer, ardından kameraya bakar, nefes henüz tamamen düzelmemiştir. Fotoğrafçı yalnızca çok az ileri adım atar, çerçeve doğal olarak sıkılaşır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103644585570242560/img/KckJhg9BmHEcLgqh.jpg" width="600" alt="Chongqing Bungee Jump FPV Video İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11337)**
-
-**Yazar:** [John](https://x.com/john87445528) | **Kaynak:** [Link](https://x.com/john87445528/status/2103644638275891546) | **Yayınlandı:** Sep 26, 2026
-
----
-### Uzay Mekanik İstasyonunun Çöküşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Çöken bir yörünge dokundan kaçan ve düşen bir uzay aracının eşlik ettiği, yüksek tempolu bir bilim kurgu video istemi.
-
-#### 📝 İstem
-
-```
-Kapalı tam bir uzay kıyafeti giyen, koruyucu uzay kaskı ve kapalı vizörü net bir şekilde görünen bir uzay mekaniği, arkasındaki devasa bir uzay aracının istasyona yanlamasına çarptığı sırada çöken bir yörünge yük dokusunda koşarak ilerler.
-
-Kask ve uzay kıyafeti tüm video boyunca çıkarılmaz ve değişmez. Zemin seviyesindeki kamera, patlamalar güverteyi yırtarken botlarının yanında hızla hareket eder. Kamerayı geçer ve tam önüne devasa bir yük konteyneri düştüğünde kamera ani bir dönüş yapar. Konteynerin üzerinden kayarak geçmesi sırasında kıvılcım yağmuru altında onun altına sığınır.
-
-Zemin aniden kopar. Kamera, istasyonun içinden düşerken onunla birlikte aşağı iner, alt bakım platformunu kırarak geçer ve asılı duran bir kabloya tutunur.
-
-Son çekim: Kamera onun altında sallanırken, yörünge istasyonunun yarısının yukarıda parçalandığını ve yüzlerce alev alan parçanın gezegene doğru düştüğünü ortaya koyar. Ultra gerçekçi sert bilim kurgu, acımasız hız, büyük yıkım, net fizik kuralları, muazzam ölçek, IMAX kalitesi. Kask her zaman görünür, vizör her zaman kapalıdır; kask asla çıkarılmaz, açıkta kalan baş veya yüz yoktur. Ünlü veya tanınabilir yüzler bulunmaz.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103608936020475904/img/wZXmsso-yu6IKvmH.jpg" width="600" alt="Uzay Mekanik İstasyonunun Çöküşü">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11336)**
-
-**Yazar:** [DeCat](https://x.com/DeCat2025) | **Kaynak:** [Link](https://x.com/DeCat2025/status/2103615529986699498) | **Yayınlandı:** Sep 25, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -6097,6 +6204,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-13T02:05:37.970Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-13T12:02:32.167Z</sub>
 
 </div>

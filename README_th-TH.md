@@ -68,7 +68,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **6529** |
+| 📝 พรอมต์ทั้งหมด | **6531** |
 | ⭐ พรอมต์แนะนำ | **6** |
 | 🔄 อัปเดตล่าสุด | **2026-10-13** |
 
@@ -367,6 +367,157 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### ฉากตลกกลางพิธีราชาภิเษกยุคกลาง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอคอมเมดี้ความยาว 20 วินาทีสไตล์ภาพยนตร์ ที่ชายสมัยใหม่เดินเข้ามาขัดจังหวะพิธีราชาภิเษกในยุคกลางเพื่อเอาป้ายราคาออกจากมงกุฎ
+
+#### 📝 พรอมต์
+
+```
+THE CORONATION — 20-SECOND CINEMATIC COMEDY
+
+MODEL: Seedance 2.5
+DURATION: 20 seconds
+ASPECT RATIO: 16:9
+STYLE: Photorealistic live-action medieval fantasy film with subtle absurdist comedy.
+REFERENCE IMAGES AND CHARACTER LOCK
+Use the uploaded King character sheet, Prince character sheet, and Random Man character sheet as the definitive visual references.
+King: Preserve his exact face, gray-streaked hair, beard, crown, and burgundy royal outfit.
+
+Prince: Preserve his exact face, hairstyle, navy-and-gold coronation outfit, blue cloak, and crown once placed.
+
+Random Man: Preserve his exact face, hairstyle, modern casual outfit, and body proportions.
+
+Maintain consistent character identities, costumes, lighting, and the layout of the throne room throughout the entire video.
+LOCATION AND ATMOSPHERE
+An enormous medieval royal throne room with towering stone pillars, golden chandeliers, tall stained-glass windows, red velvet banners, and a magnificent golden throne. The royal court stands silently on either side of a red carpet.
+
+The atmosphere is extremely serious and emotionally grand, like the climax of an epic fantasy film. Warm golden sunlight streams through the windows. The music is majestic, with a full orchestral score.
+
+The modern man must look completely out of place in this medieval setting.
+
+SHOT 1 — THE MOMENT OF CORONATION
+
+0–5 seconds
+
+Wide cinematic establishing shot of the royal throne room. The prince kneels on a cushion before the king. The king stands solemnly in front of him, holding an ornate golden crown with both hands.
+
+The court watches in absolute silence.
+Cut to a medium close-up of the king slowly raising the crown above the prince's head.
+
+The king speaks in a deep, solemn voice:
+
+KING: "Today, you become king."
+
+The orchestral music swells dramatically. The prince bows his head with complete seriousness.
+
+SHOT 2 — THE WRONG MAN ENTERS
+
+5–9 seconds
+
+Just as the king is about to lower the crown, a casually dressed modern man in a dark hoodie, jeans, and sneakers walks into the royal ceremony from the side of the hall.
+
+He walks directly between the king and prince as though he belongs there.
+The king freezes with the crown suspended in midair. The prince remains kneeling, looking slightly confused. The courtiers stare in silent disbelief.
+
+The modern man barely acknowledges anyone. He notices the crown, looks at it critically, and gives a small disapproving shake of his head.
+
+The orchestral music abruptly softens into an awkward, sustained note.
+
+SHOT 3 — THE UNEXPECTED FIX
+
+9–14 seconds
+
+In one continuous, clearly visible action, the modern man casually takes the crown from the king's hands.
+
+He notices a small paper price tag hanging from the crown, removes it, and slips it into his pocket. He then gently straightens the prince's crooked collar and nudges the royal throne a few inches into better alignment with the carpet.
+His movements are practical, quick, and completely unbothered.
+
+The king stands frozen, visibly bewildered but trying to preserve his royal dignity. The prince looks from the man to his father, unsure whether he is allowed to move.
+
+The man steps back, examines his work, and gives one satisfied nod.
+
+RANDOM MAN: "Much better."
+
+Deliver the line casually, in a natural conversational voice, without a dramatic pause or exaggerated comic delivery.
+
+SHOT 4 — BACK TO BUSINESS
+
+14–17 seconds
+
+The modern man turns around and casually walks out of the throne room the same way he entered.
+
+No one stops him. Nobody speaks.
+The king slowly follows him with his eyes, then looks down at the crown in his hands as if trying to understand what just happened.
+
+The prince remains kneeling in the exact same position.
+
+The man exits the frame completely.
+
+SHOT 5 — THE CORONATION CONTINUES
+
+17–20 seconds
+
+Cut to a cinematic medium close-up of the king taking a slow breath, regaining his composure, and carefully positioning himself to continue the ceremony.
+
+He raises the crown again.
+The prince bows his head.
+
+The orchestral music resumes its original majestic intensity, as if the interruption never happened.
+
+KING: "Today… you become king."
+
+End immediately on the king's perfectly serious face.
+
+Cut to black.
+
+CAMERA AND EDITING
+
+Use professional cinematic framing, smooth controlled camera movements, realistic depth of field, natural facial micro-expressions, and clean film-style cuts. Establish the room before moving into medium shots and close-ups. Make the modern man's entrance and practical actions easy to see.
+
+Keep the comedy understated and driven by timing, awkward silence, and the contrast between the epic ceremony and the man's mundane behavior.
+
+AUDIO DESIGN
+
+Majestic orchestral music during the coronation, subtle footsteps and clothing movement, a slight musical interruption when the man enters, a soft paper rustle as he removes the price tag, and a return to full orchestral grandeur for the final line.
+
+All dialogue must be clearly audible, naturally spoken in English, and not overly theatrical.
+
+STRICT NEGATIVE CONSTRAINTS
+
+Do NOT generate any subtitles, captions, text overlays, watermarks, logos, or on-screen text of any kind.
+Do NOT display the spoken lines as written text on screen.
+Dialogue must exist only as spoken audio, never as visible typography.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109652073189097472/img/WVJ7tQSgnKUnJfqs.jpg" width="600" alt="ฉากตลกกลางพิธีราชาภิเษกยุคกลาง">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=12392)**
+
+**ผู้เขียน:** [Caden Flux](https://x.com/Caden_Flux) | **แหล่งที่มา:** [Link](https://x.com/Caden_Flux/status/2109652904864829898) | **เผยแพร่เมื่อ:** Oct 12, 2026
+
+---
+### พรอมต์สร้างภาพยนตร์สั้นสไตล์ Pixar ในสวนมะม่วง
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> พรอมต์สำหรับสร้างวิดีโออย่างละเอียดด้วย Seedance 2.0 เพื่อผลิตภาพยนตร์สั้นแอนิเมชันสไตล์ Pixar ความยาว 12 วินาที ที่เล่าเรื่องราวของเกษตรกรในสวนมะม่วง
+
+#### 📝 พรอมต์
+
+```
+ภาพยนตร์สั้นแอนิเมชันความยาว 12 วินาที สไตล์การ์ตูน 3 มิติแบบ Pixar แสงสว่างสดใสแบบชนบท แสงแดดอุ่นยามบ่ายลอดผ่านใบไม้ เกษตรกรวัยกลางคนสวมหมวกฟางปีกกว้าง เสื้อเชิ้ตสีคาคีอ่อนพับแขน กางเกงขายาวสีเข้ม และสะพายถุงผ้าใบเล็กไว้ที่เอว ยืนอยู่ในสวนมะม่วงเขียวชอุ่ม มือสัมผัสผลมะม่วงสีเขียวอวบอิ่มบนกิ่งไม้อย่างเบามือพร้อมรอยยิ้มบางๆ ฉากหลังเป็นเนินเขาทอดตัวต่อเนื่อง ท้องฟ้าสีคราม และเมฆขาว
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109650656302972929/img/mtXPkMSZfdrAx-sF.jpg" width="600" alt="พรอมต์สร้างภาพยนตร์สั้นสไตล์ Pixar ในสวนมะม่วง">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=12395)**
+
+**ผู้เขียน:** [Jackzhao](https://x.com/Jackzhaoh6ob) | **แหล่งที่มา:** [Link](https://x.com/Jackzhaoh6ob/status/2109651272303550940) | **เผยแพร่เมื่อ:** Oct 12, 2026
+
+---
 ### วิดีโอการแสดงยิมนาสติกบนคานทรงตัว
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5941,50 +6092,6 @@ SHOT 20 — 00:29–00:30
 **ผู้เขียน:** [Elsa Ai](https://x.com/ElsaSofia__AI) | **แหล่งที่มา:** [Link](https://x.com/ElsaSofia__AI/status/2103667614606368931) | **เผยแพร่เมื่อ:** Sep 26, 2026
 
 ---
-### คำสั่งสร้างวิดีโอ FPV กระโดดบันจี้ชั่่งฉงชิ่ง
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> คำสั่งสร้างวิดีโอแบบละเอียดสำหรับ Seedance 2.0 เพื่อสร้างภาพเคลื่อนไหวแบบลองเทคด้วยมือถือที่สมจริงของผู้หญิงผู้ใหญ่ที่กำลังกระโดดบันจี้หรือดิ่งพสุธาในฉงชิ่ง คำสั่งนี้ระบุรายละเอียดเกี่ยวกับการเคลื่อนกล้อง แสง ความสม่ำเสมอของตัวละคร และข้อจำกัดด้านความสมจริงทางกายภาพ
-
-#### 📝 พรอมต์
-
-```
-15 วินาที, พื้นผิวการถ่ายทำจากสมาร์ทโฟนแบบสมจริง, ลองเทคต่อเนื่องแบบถือกล้องด้วยมือ, ใช้สโลว์โมชั่นเฉพาะช่วงกลับตัวกลางอากาศเท่านั้น ตัวละครหญิงวัยผู้ใหญ่ สวมชุดโยคะตามภาพอ้างอิง #2 (screenshot_16-8-2026_0750_x.com) โดยต้องล็อกสี สไตล์ การตัดเย็บ และเนื้อผ้าให้ตรงกับภาพอ้างอิงอย่างเคร่งครัด รองเท้าผ้าใบสีขาว มัดผมตึง ลักษณะใบหน้า รูปร่าง และเสื้อผ้าต้องสม่ำเสมอตลอดทั้งคลิป ฉากเป็นแพลตฟอร์มยื่นสูงจำลองที่ไม่ใช่สถานที่จริง โดยมี Raffles City Chongqing และทัศนียภาพเมืองสองสายน้ำเป็นพื้นหลัง แพลตฟอร์มสองแห่งยื่นออกจากอาคารโดยมีช่องว่างแคบๆ กั้นกลาง เชื่อมต่อกันด้วยทางเดินภายในฝั่งอาคาร ผู้หญิงกระโดดข้ามจากแพลตฟอร์มหนึ่งไปอีกแพลตฟอร์มหนึ่ง ในทิศทางขนานกับหน้าอาคาร แพลตฟอร์มปลายทางมีพื้นที่ลงจอดและกลิ้งตัวที่กว้างและชัดเจน ช่วงเปิดภาพแสดงแพลตฟอร์มต้นทาง ช่องว่าง พื้นที่ลงจอด และทางเดินภายในพร้อมกัน โครงสร้างไม่เปลี่ยนแปลงหลังจากนี้ แสงธรรมชาติตอนบ่าย มีหมอกบางๆ ในฉงชิ่ง สะท้อนแสงอ่อนๆ บนผิวน้ำไกลๆ เงาบนพื้นสอดคล้องกับแหล่งกำเนิดแสง 0-3 วินาที: ผู้หญิงวิ่งอยู่บนแพลตฟอร์มต้นทาง กล้องอยู่ด้านหลังและด้านข้างใกล้ตัวอาคาร ติดตามในระดับต่ำกว่าหน้าอกระดับหนึ่ง กรอบภาพเห็นร่างกายทั้งหมดของเธอ ช่องว่างด้านหน้า และพื้นที่ลงจอดฝั่งตรงข้าม เมืองด้านล่างขอบนอกให้ความรู้สึกถึงความสูง ชายวัยผู้ใหญ่อีกคนในชุดดำยืนอยู่ด้านหลังบนทางเดินภายใน ถือโทรศัพท์ถ่ายวิดีโอ ไม่เข้ามาขวางทาง ได้ยินเสียงฝีเท้าและลม ลมพัดผ่านไมค์โทรศัพท์เป็นครั้งคราว 3-5 วินาที: เธอเร่งความเร็วขึ้นเล็กน้อย สายตาจับจ้องไปที่แพลตฟอร์มฝั่งตรงข้าม เปลี่ยนจากการวิ่งเป็นการกระโดดอย่างลื่นไหลโดยไม่หยุดพักหรือจัดท่า ช่างภาพหลักเคลื่อนที่ไปข้างหน้าตามทางเดินเชื่อมต่อภายใน สร้างมุมมองด้านข้าง เลนส์เห็นแพลตฟอร์มทั้งสองฝั่งของช่องว่างอย่างชัดเจน หลังลอยจากพื้น เธอมุ่งหน้าไปยังแพลตฟอร์มฝั่งตรงข้าม เริ่มกลับตัวหน้าหนึ่งรอบเต็มๆ; การเคลื่อนไหวทั้งหมดมุ่งสู่พื้นที่ลงจอด ไม่หลุดออกนอกอาคาร 5-8 วินาที: ช่วงเวลาสั้นๆ กลางอากาศหลังกระโดดนำเสนอแบบสโลว์โมชั่น ร่างกายทั้งหมดอยู่ในกรอบภาพ จุดศูนย์ถ่วงเคลื่อนที่เป็นเส้นโค้งต่อเนื่องขึ้นแล้วลง ความเร็วในการกลับตัวสอดคล้องกัน ปลายผมและเนื้อผ้ามีความเฉื่อยตามธรรมชาติ เธอกลับตัวหน้าเพียงหนึ่งรอบ จากนั้นยืดตัว เท้าเข้าใกล้แพลตฟอร์มฝั่งตรงข้าม เลนส์ยังถ่ายจากทางเดินภายใน ไม่อ้อมไปนอกอาคาร ไม่ลอดใต้ตัวคน; สโลว์โมชั่นไม่เพิ่มเวลาจริงกลางอากาศ ไม่มีการลอยค้าง 8-11 วินาที: กลับสู่ความเร็วปกติก่อนพื้นรองเท้าแตะแพลตฟอร์ม เธอลงจอดภายในแพลตฟอร์มฝั่งตรงข้าม ร่างกายจมลงชัดเจนเมื่อสัมผัสพื้น จากนั้นใช้แรงส่งที่เหลือกลิ้งตัวหนึ่งรอบสั้นๆ ต่อเนื่องเข้าไปด้านใน ลำดับการสัมผัสของพื้นรองเท้า มือ และลำตัวกับพื้นชัดเจน ไม่มีการทะลุผ่านหรือไถลโดยไม่มีแรงเสียดทาน ช่างภาพหลักเคลื่อนที่ไปข้างหน้าตามทางเดินภายในต่อ ถึงตำแหน่งด้านหน้า-ข้างเมื่อเธอชะลอตัวจากการกลิ้ง หยุดและหมุนเลนส์ เก็บภาพกระบวนการลงจอดและกลิ้งตัวครบถ้วน 11-15 วินาที: เธอลุกขึ้นยืนใกล้ๆ ก้มตัวเอามือจับเข่าหลังจากทรงตัวได้ หายใจออกเร็ว ไหล่และหลังขึ้นลงตามธรรมชาติ สีหน้าเปลี่ยนจากความตั้งใจสูงเป็นอาการงงเล็กน้อยหลังคลายความเครียด แล้วเงยหน้ามองกล้อง การหายใจยังไม่คงที่ ช่างภาพก้าวไปข้างหน้าเพียงเล็กน้อย กรอบภาพแคบลงอย่างเป็นธรรมชาติจากภาพเต็มตัวเป็นภาพครึ่งตัว Male in black still holds phone on inner side of takeoff platform, does not enter her path. Footsteps and wind audible, occasional gust brushes phone mic. Retain real skin texture, natural fabric wrinkles, and consistent lighting throughout the sequence.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103644585570242560/img/KckJhg9BmHEcLgqh.jpg" width="600" alt="คำสั่งสร้างวิดีโอ FPV กระโดดบันจี้ชั่่งฉงชิ่ง">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=11337)**
-
-**ผู้เขียน:** [John](https://x.com/john87445528) | **แหล่งที่มา:** [Link](https://x.com/john87445528/status/2103644638275891546) | **เผยแพร่เมื่อ:** Sep 26, 2026
-
----
-### สถานีซ่อมบำรุงอวกาศถล่ม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอโปรต์แบบ Sci-Fi เต็มไปด้วยแอ็กชันเข้มข้น นำเสนอช่างซ่อมบำรุงอวกาศที่หนีจากท่าเทียบวงโคจรที่กำลังพังทลายพร้อมยานอวกาศที่ตกกระแทก
-
-#### 📝 พรอมต์
-
-```
-ช่างซ่อมบำรุงอวกาศในชุดอวกาศเต็มรูปแบบที่มีหมวกกันน็อกป้องกันและกระจกบังลมปิดสนิท วิ่งข้ามท่าเทียบสินค้าวงโคจรที่กำลังพังทลาย ขณะที่ ยานอวกาศขนาดมหึมาพุ่งชนด้านข้างผ่านสถานีด้านหลังเขา
-
-หมวกกันน็อกและชุดอวกาศยังคงสวมใส่และไม่เปลี่ยนแปลงตลอดทั้งวิดีโอ กล้องระดับพื้นดินเคลื่อนที่เร็วเคียงข้างรองเท้าบูตของเขาขณะที่การระเบิดฉีกขาดพื้นดาดฟ้า เขาวิ่งผ่านกล้องไป และกล้องหมุนตัวกลับทันทีที่ตู้คอนเทนเนอร์สินค้าขนาดใหญ่ตกลงมาขวางหน้า เขาหลบลงใต้ตู้คอนเทนเนอร์ขณะที่มันไถลผ่านตัวเขาไป พร้อมประกายไฟกระเด็นกระจาย
-
-พื้นด้านล่างฉีกขาดอย่างกะทันหัน กล้องร่วงลงมาพร้อมกับเขาเมื่อเขาร่วงผ่านโครงสร้างสถานี พังทะลุชั้นซ่อมบำรุงด้านล่าง และคว้าสายเคเบิลที่ห้อยอยู่
-
-ฉากสุดท้าย: กล้องแกว่งไปใต้ตัวเขา เผยให้เห็นครึ่งหนึ่งของสถานีวงโคจรกำลังแตกออกเป็นชิ้นๆ ข้างบน ขณะที่เศษซากที่ลุกไหม้นับร้อยร่วงลงสู่ดาวเคราะห์ ภาพสมจริงขั้นสูงสไตล์ Hard Sci-Fi ความเร็วรุนแรง การทำลายล้างมหาศาล ฟิสิกส์ชัดเจน ขนาดใหญ่โต คุณภาพระดับ IMAX หมวกกันน็อกมองเห็นได้เสมอ กระจกบังลมปิดสนิท ห้ามถอดหมวกกันน็อก ไม่ปรากฏศีรษะหรือใบหน้าเปล่า ไม่มีใบหน้าคนดังหรือคนที่จดจำได้
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103608936020475904/img/wZXmsso-yu6IKvmH.jpg" width="600" alt="สถานีซ่อมบำรุงอวกาศถล่ม">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=11336)**
-
-**ผู้เขียน:** [DeCat](https://x.com/DeCat2025) | **แหล่งที่มา:** [Link](https://x.com/DeCat2025/status/2103615529986699498) | **เผยแพร่เมื่อ:** Sep 25, 2026
-
----
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
@@ -6046,6 +6153,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-10-13T02:05:25.014Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-10-13T12:02:18.739Z</sub>
 
 </div>

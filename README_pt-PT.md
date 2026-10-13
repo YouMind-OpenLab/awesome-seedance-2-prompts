@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6529** |
+| 📝 Total de prompts | **6531** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-10-13** |
 
@@ -361,6 +361,157 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Interrupção Cômica na Coroação Medieval
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para uma comédia cinematográfica de 20 segundos onde um homem moderno interrompe uma cerimônia de coroação medieval para corrigir a etiqueta de preço da coroa.
+
+#### 📝 Prompt
+
+```
+A COROAÇÃO — COMÉDIA CINEMATOGRÁFICA DE 20 SEGUNDOS
+
+MODELO: Seedance 2.5
+DURAÇÃO: 20 segundos
+PROPORÇÃO DE TELA: 16:9
+ESTILO: Filme de fantasia medieval live-action fotorrealista com comédia absurda sutil.
+IMAGENS DE REFERÊNCIA E TRAVA DE PERSONAGEM
+Use as folhas de personagem do Rei, do Príncipe e do Homem Aleatório enviadas como referências visuais definitivas.
+Rei: Preserve seu rosto exato, cabelo grisalho, barba, coroa e traje real bordô.
+
+Príncipe: Preserve seu rosto exato, penteado, traje de coroação azul-marinho e dourado, capa azul e coroa após ser colocada.
+
+Homem Aleatório: Preserve seu rosto exato, penteado, roupa casual moderna e proporções corporais.
+
+Mantenha identidades consistentes dos personagens, fantasias, iluminação e o layout da sala do trono durante todo o vídeo.
+LOCAL E ATMOSFERA
+Uma enorme sala do trono real medieval com pilares de pedra imponentes, lustres dourados, vitrais altos, pendões de veludo vermelho e um magnífico trono dourado. A corte real permanece em silêncio de ambos os lados de um tapete vermelho.
+
+A atmosfera é extremamente séria e emocionalmente grandiosa, como o clímax de um filme épico de fantasia. Luz solar dourada quente entra pelas janelas. A música é majestosa, com uma partitura orquestral completa.
+
+O homem moderno deve parecer completamente deslocado neste cenário medieval.
+
+CENA 1 — O MOMENTO DA COROAÇÃO
+
+0–5 segundos
+
+Plano aberto cinematográfico estabelecendo a sala do trono real. O príncipe está ajoelhado sobre uma almofada diante do rei. O rei fica solenemente à sua frente, segurando uma coroa dourada ornamentada com ambas as mãos.
+
+A corte observa em absoluto silêncio.
+Corte para um plano médio próximo do rei levantando lentamente a coroa acima da cabeça do príncipe.
+
+O rei fala com voz profunda e solene:
+
+REI: "Hoje, você se torna rei."
+
+A música orquestral cresce dramaticamente. O príncipe abaixa a cabeça com total seriedade.
+
+CENA 2 — O HOMEM ERRADO ENTRA
+
+5–9 segundos
+
+Justamente quando o rei está prestes a baixar a coroa, um homem moderno vestido casualmente com um moletom escuro, jeans e tênis entra na cerimônia real pelo lado do salão.
+
+Ele caminha diretamente entre o rei e o príncipe como se pertencesse ali.
+O rei congela com a coroa suspensa no ar. O príncipe permanece ajoelhado, parecendo levemente confuso. Os cortesãos olham com incredulidade silenciosa.
+
+O homem moderno mal reconhece alguém. Ele nota a coroa, olha para ela criticamente e dá um pequeno balanço desaprovador da cabeça.
+
+A música orquestral suaviza abruptamente para uma nota sustentada constrangedora.
+
+CENA 3 — A CORREÇÃO INESPERADA
+
+9–14 segundos
+
+Em uma ação contínua e claramente visível, o homem moderno pega casualmente a coroa das mãos do rei.
+
+Ele nota uma pequena etiqueta de preço de papel pendurada na coroa, remove-a e desliza-a para o bolso. Em seguida, endireita gentilmente a gola torta do príncipe e empurra o trono real alguns centímetros para melhor alinhamento com o tapete.
+Seus movimentos são práticos, rápidos e completamente indiferentes.
+
+O rei fica congelado, visivelmente perplexo, mas tentando preservar sua dignidade real. O príncipe olha do homem para o pai, sem saber se tem permissão para se mover.
+
+O homem recua, examina seu trabalho e dá um único aceno satisfeito.
+
+HOMEM ALEATÓRIO: "Muito melhor."
+
+Entregue a frase casualmente, em uma voz natural de conversa, sem pausa dramática ou entrega cômica exagerada.
+
+CENA 4 — DE VOLTA AO TRABALHO
+
+14–17 segundos
+
+O homem moderno vira-se e sai casualmente da sala do trono pela mesma forma que entrou.
+
+Ninguém o impede. Ninguém fala.
+O rei segue-o lentamente com os olhos, depois olha para baixo na coroa em suas mãos como se tentasse entender o que acabou de acontecer.
+
+O príncipe permanece ajoelhado na mesma posição exata.
+
+O homem sai completamente do quadro.
+
+CENA 5 — A COROAÇÃO CONTINUA
+
+17–20 segundos
+
+Corte para um plano médio próximo cinematográfico do rei respirando fundo, recuperando a compostura e posicionando-se cuidadosamente para continuar a cerimônia.
+
+Ele levanta a coroa novamente.
+O príncipe abaixa a cabeça.
+
+A música orquestral retoma sua intensidade majestosa original, como se a interrupção nunca tivesse acontecido.
+
+REI: "Hoje... você se torna rei."
+
+Termine imediatamente no rosto perfeitamente sério do rei.
+
+Corte para preto.
+
+CÂMERA E EDIÇÃO
+
+Use enquadramento cinematográfico profissional, movimentos de câmera suaves e controlados, profundidade de campo realista, micro-expressões faciais naturais e cortes limpos estilo filme. Estabeleça a sala antes de passar para planos médios e close-ups. Faça a entrada do homem moderno e suas ações práticas serem fáceis de ver.
+
+Mantenha a comédia discreta e dirigida pelo timing, silêncio constrangedor e o contraste entre a cerimônia épica e o comportamento mundano do homem.
+
+DESIGN DE ÁUDIO
+
+Música orquestral majestosa durante a coroação, passos sutis e movimento de roupas, uma leve interrupção musical quando o homem entra, um suave farfalhar de papel enquanto ele remove a etiqueta de preço, e um retorno à grandiosidade orquestral completa para a última frase.
+
+Todo o diálogo deve ser claramente audível, naturalmente falado em inglês e não excessivamente teatral.
+
+RESTRIÇÕES NEGATIVAS ESTRITAS
+
+NÃO gere legendas, textos sobrepostos, marcas d'água, logotipos ou qualquer tipo de texto na tela.
+NÃO exiba as falas como texto escrito na tela.
+O diálogo deve existir apenas como áudio falado, nunca como tipografia visível.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109652073189097472/img/WVJ7tQSgnKUnJfqs.jpg" width="600" alt="Interrupção Cômica na Coroação Medieval">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12392)**
+
+**Autor:** [Caden Flux](https://x.com/Caden_Flux) | **Fonte:** [Link](https://x.com/Caden_Flux/status/2109652904864829898) | **Publicado:** Oct 12, 2026
+
+---
+### Prompt de Curta-metragem Estilo Pixar: Pomar de Mangas
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt detalhado para geração de vídeo com Seedance 2.0, criando um curta-metragem animado de 12 segundos em estilo Pixar, com um fazendeiro em um pomar de mangas.
+
+#### 📝 Prompt
+
+```
+Curta-metragem animado de 12 segundos, estilo cartoon 3D da Pixar, iluminação pastoral brilhante, raios de sol quentes da tarde filtrando pelas folhas. Um fazendeiro de meia-idade usando um chapéu de palha de abas largas, uma camisa cáqui clara com as mangas arregaçadas, calças escuras e uma pequena bolsa de pano na cintura, está em um pomar de mangas exuberante, tocando suavemente mangas verdes e cheias nos galhos com um leve sorriso. Ao fundo, colinas ondulantes, céu azul e nuvens brancas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109650656302972929/img/mtXPkMSZfdrAx-sF.jpg" width="600" alt="Prompt de Curta-metragem Estilo Pixar: Pomar de Mangas">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12395)**
+
+**Autor:** [Jackzhao](https://x.com/Jackzhaoh6ob) | **Fonte:** [Link](https://x.com/Jackzhaoh6ob/status/2109651272303550940) | **Publicado:** Oct 12, 2026
+
+---
 ### Vídeo de Rotina na Trave de Equilíbrio
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6022,50 +6173,6 @@ A sequência deve parecer tensa, estilosa e cinematográfica, permanecendo fisic
 **Autor:** [Elsa Ai](https://x.com/ElsaSofia__AI) | **Fonte:** [Link](https://x.com/ElsaSofia__AI/status/2103667614606368931) | **Publicado:** Sep 26, 2026
 
 ---
-### Prompt de Vídeo FPV de Bungee Jump em Chongqing
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt detalhado para geração de vídeo com Seedance 2.0, criando um plano-sequência realista estilo handheld de uma mulher adulta realizando um bungee jump ou mergulho de altura em Chongqing. O prompt especifica movimento de câmera, iluminação, consistência de personagem e restrições de realismo físico.
-
-#### 📝 Prompt
-
-```
-15 segundos, textura realista de gravação por smartphone, plano-sequência contínuo estilo handheld, apenas breve câmera lenta durante a pirueta no ar. Personagem feminina adulta, vestindo roupa de yoga da captura de tela #2 screenshot_16-8-2026_0750_x.com, travando estritamente a cor, estilo, corte e tecido da referência; tênis brancos, cabelo preso firme, traços faciais, forma corporal e roupas consistentes ao longo de toda a cena. A cena é uma plataforma fictícia de alta altitude em balanço (cantilever) com o Raffles City Chongqing e a paisagem urbana dos dois rios ao fundo, não correspondendo a instalações reais de telhados. Duas plataformas adjacentes se estendem para fora do edifício, separadas por uma lacuna estreita de largura fixa, conectadas pelo lado do edifício por uma passarela contínua. A mulher salta lateralmente de uma plataforma para a outra, direção do movimento aproximadamente paralela à fachada do edifício; a plataforma oposta possui uma área clara e espaçosa de aterrissagem e rolagem. A abertura estabelece simultaneamente a plataforma de decolagem, a lacuna estreita, a área de aterrissagem e a passarela interna, a estrutura permanece inalterada thereafter. Luz solar natural da tarde, leve névoa em Chongqing, reflexo suave na superfície distante do rio, sombras no solo consistentes com a fonte de luz. 0-3s: A mulher já está trotando para frente na plataforma de decolagem, câmera posicionada atrás e ao lado perto do edifício, seguindo ligeiramente abaixo da altura do peito. O quadro retém seu corpo inteiro, a lacuna frontal e a área de aterrissagem oposta, a cidade distante abaixo da borda externa fornece sensação de altura. Outro homem adulto vestido de preto fica para trás no lado interno da plataforma de decolagem, segurando um celular filmando, não entra no caminho dela. Passos e vento audíveis, rajadas ocasionais de vento roçam o microfone do celular. 3-5s: Ela acelera brevemente, olhar fixo na plataforma oposta, ação transiciona naturalmente de correr para pular sem pausa/pose. O fotógrafo principal avança ao longo da passarela de conexão interna, formando uma vista lateral, a lente sempre vê plataformas sólidas nos dois lados da lacuna. Após deixar o chão, ela se move em direção à plataforma oposta, iniciando uma única pirueta frontal contínua; toda a ação é direcionada para a área de aterrissagem, não derivando para fora do edifício. 5-8s: Fase aérea breve após a decolagem apresentada em câmera lenta. Corpo inteiro entra completamente no quadro, centro de gravidade segue um arco contínuo subindo e depois descendo, mudança de velocidade da pirueta coerente, pontas dos cabelos e tecido têm inércia natural. Ela completa apenas uma pirueta frontal, então o corpo se estende, pés se aproximando da plataforma oposta. A lente ainda filma da passarela interna, não vai ao redor do exterior do edifício, não passa sob a pessoa; a câmera lenta não aumenta o tempo real no ar, sem flutuação no ar. 8-11s: Retorno à velocidade normal antes que as solas dos sapatos entrem em contato com a plataforma. Ela aterrissa dentro da plataforma oposta, corpo afunda claramente ao contato, então usa o momento forward restante para completar uma rolagem compacta, continuando a mover-se para dentro. Sequência de contato das solas dos sapatos, mãos e corpo com o chão é clara, sem clipping ou deslizamento sem atrito. O fotógrafo principal continua avançando ao longo da passarela interna, alcança a frente-lado quando ela desacelera da rolagem, para e gira a lente, retendo totalmente o processo de aterrissagem e rolagem. 11-15s: Ela se levanta nas proximidades, inclina-se com as mãos nos joelhos após estabilizar, exala rapidamente, ombros e costas sobem/descem naturalmente. Expressão muda de alta concentração para leve atordoamento após liberação da tensão, então olha para cima na câmera, respiração ainda não totalmente assentada. Fotógrafo avança apenas ligeiramente, quadro aperta naturalmente de corpo inteiro para acima da cintura, não se torna subitamente close-up facial. Homem de preto ainda segura o celular no lado interno da plataforma de decolagem traseira, posição inalterada. Retenha pele real, suor leve, estiramento do tecido e motion blur natural. Câmera tem ondulação leve mas ações de contato chave são visíveis, não use tremores violentos para esconder piruetas ou aterrissagens. Proibido mudar tamanho da plataforma, exagerar distância do salto, teletransportar personagens, piruetas repetidas, acelerar no ar, hiperextensão articular, mudanças de roupa e aterrissagens flutuantes. Sem música, legendas, marcas d'água ou elementos de UI.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103644585570242560/img/KckJhg9BmHEcLgqh.jpg" width="600" alt="Prompt de Vídeo FPV de Bungee Jump em Chongqing">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11337)**
-
-**Autor:** [John](https://x.com/john87445528) | **Fonte:** [Link](https://x.com/john87445528/status/2103644638275891546) | **Publicado:** Sep 26, 2026
-
----
-### Colapso da Estação de Mecânica Espacial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo de ficção científica de alta adrenalina, mostrando um mecânico espacial escapando de uma doca orbital em colapso enquanto uma nave espacial cai.
-
-#### 📝 Prompt
-
-```
-Um mecânico espacial vestindo um traje espacial completo selado, com capacete de proteção claramente visível e viseira fechada, corre por uma doca de carga orbital em colapso enquanto uma gigantesca nave espacial se choca lateralmente contra a estação atrás dele. 
-
-O capacete e o traje permanecem intactos durante todo o vídeo. A câmera ao nível do solo acompanha suas botas enquanto explosões destroem o convés. Ele passa pela câmera, que gira rapidamente no momento em que um enorme contêiner de carga esmaga o chão à sua frente. Ele se abaixa enquanto o contêiner desliza sobre ele, espalhando faíscas. 
-
-De repente, o piso se rompe. A câmera cai junto com ele enquanto ele atravessa a estação, colide com uma plataforma de manutenção inferior e agarra um cabo pendurado. 
-
-Cena final: a câmera balança abaixo dele, revelando metade da estação orbital se despedaçando acima, enquanto centenas de fragmentos em chamas caem em direção ao planeta. Ficção científica ultra-realista, velocidade brutal, destruição massiva, física clara, escala enorme, qualidade IMAX. Capacete sempre visível, viseira sempre fechada, nunca remover o capacete, sem cabeça ou rosto expostos. Sem rostos famosos ou reconhecíveis.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103608936020475904/img/wZXmsso-yu6IKvmH.jpg" width="600" alt="Colapso da Estação de Mecânica Espacial">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11336)**
-
-**Autor:** [DeCat](https://x.com/DeCat2025) | **Fonte:** [Link](https://x.com/DeCat2025/status/2103615529986699498) | **Publicado:** Sep 25, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -6127,6 +6234,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-13T02:05:36.776Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-13T12:02:30.909Z</sub>
 
 </div>

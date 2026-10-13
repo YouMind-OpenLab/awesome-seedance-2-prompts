@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6529** |
+| 📝 Total Prompts | **6531** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-10-13** |
 
@@ -365,6 +365,157 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Medieval Coronation Comedy Interruption
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a 20-second cinematic comedy where a modern man interrupts a medieval coronation ceremony to fix the crown's price tag.
+
+#### 📝 Prompt
+
+```
+THE CORONATION — 20-SECOND CINEMATIC COMEDY
+
+MODEL: Seedance 2.5
+DURATION: 20 seconds
+ASPECT RATIO: 16:9
+STYLE: Photorealistic live-action medieval fantasy film with subtle absurdist comedy.
+REFERENCE IMAGES AND CHARACTER LOCK
+Use the uploaded King character sheet, Prince character sheet, and Random Man character sheet as the definitive visual references.
+King: Preserve his exact face, gray-streaked hair, beard, crown, and burgundy royal outfit.
+
+Prince: Preserve his exact face, hairstyle, navy-and-gold coronation outfit, blue cloak, and crown once placed.
+
+Random Man: Preserve his exact face, hairstyle, modern casual outfit, and body proportions.
+
+Maintain consistent character identities, costumes, lighting, and the layout of the throne room throughout the entire video.
+LOCATION AND ATMOSPHERE
+An enormous medieval royal throne room with towering stone pillars, golden chandeliers, tall stained-glass windows, red velvet banners, and a magnificent golden throne. The royal court stands silently on either side of a red carpet.
+
+The atmosphere is extremely serious and emotionally grand, like the climax of an epic fantasy film. Warm golden sunlight streams through the windows. The music is majestic, with a full orchestral score.
+
+The modern man must look completely out of place in this medieval setting.
+
+SHOT 1 — THE MOMENT OF CORONATION
+
+0–5 seconds
+
+Wide cinematic establishing shot of the royal throne room. The prince kneels on a cushion before the king. The king stands solemnly in front of him, holding an ornate golden crown with both hands.
+
+The court watches in absolute silence.
+Cut to a medium close-up of the king slowly raising the crown above the prince's head.
+
+The king speaks in a deep, solemn voice:
+
+KING: "Today, you become king."
+
+The orchestral music swells dramatically. The prince bows his head with complete seriousness.
+
+SHOT 2 — THE WRONG MAN ENTERS
+
+5–9 seconds
+
+Just as the king is about to lower the crown, a casually dressed modern man in a dark hoodie, jeans, and sneakers walks into the royal ceremony from the side of the hall.
+
+He walks directly between the king and prince as though he belongs there.
+The king freezes with the crown suspended in midair. The prince remains kneeling, looking slightly confused. The courtiers stare in silent disbelief.
+
+The modern man barely acknowledges anyone. He notices the crown, looks at it critically, and gives a small disapproving shake of his head.
+
+The orchestral music abruptly softens into an awkward, sustained note.
+
+SHOT 3 — THE UNEXPECTED FIX
+
+9–14 seconds
+
+In one continuous, clearly visible action, the modern man casually takes the crown from the king's hands.
+
+He notices a small paper price tag hanging from the crown, removes it, and slips it into his pocket. He then gently straightens the prince's crooked collar and nudges the royal throne a few inches into better alignment with the carpet.
+His movements are practical, quick, and completely unbothered.
+
+The king stands frozen, visibly bewildered but trying to preserve his royal dignity. The prince looks from the man to his father, unsure whether he is allowed to move.
+
+The man steps back, examines his work, and gives one satisfied nod.
+
+RANDOM MAN: "Much better."
+
+Deliver the line casually, in a natural conversational voice, without a dramatic pause or exaggerated comic delivery.
+
+SHOT 4 — BACK TO BUSINESS
+
+14–17 seconds
+
+The modern man turns around and casually walks out of the throne room the same way he entered.
+
+No one stops him. Nobody speaks.
+The king slowly follows him with his eyes, then looks down at the crown in his hands as if trying to understand what just happened.
+
+The prince remains kneeling in the exact same position.
+
+The man exits the frame completely.
+
+SHOT 5 — THE CORONATION CONTINUES
+
+17–20 seconds
+
+Cut to a cinematic medium close-up of the king taking a slow breath, regaining his composure, and carefully positioning himself to continue the ceremony.
+
+He raises the crown again.
+The prince bows his head.
+
+The orchestral music resumes its original majestic intensity, as if the interruption never happened.
+
+KING: "Today… you become king."
+
+End immediately on the king's perfectly serious face.
+
+Cut to black.
+
+CAMERA AND EDITING
+
+Use professional cinematic framing, smooth controlled camera movements, realistic depth of field, natural facial micro-expressions, and clean film-style cuts. Establish the room before moving into medium shots and close-ups. Make the modern man's entrance and practical actions easy to see.
+
+Keep the comedy understated and driven by timing, awkward silence, and the contrast between the epic ceremony and the man's mundane behavior.
+
+AUDIO DESIGN
+
+Majestic orchestral music during the coronation, subtle footsteps and clothing movement, a slight musical interruption when the man enters, a soft paper rustle as he removes the price tag, and a return to full orchestral grandeur for the final line.
+
+All dialogue must be clearly audible, naturally spoken in English, and not overly theatrical.
+
+STRICT NEGATIVE CONSTRAINTS
+
+Do NOT generate any subtitles, captions, text overlays, watermarks, logos, or on-screen text of any kind.
+Do NOT display the spoken lines as written text on screen.
+Dialogue must exist only as spoken audio, never as visible typography.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109652073189097472/img/WVJ7tQSgnKUnJfqs.jpg" width="600" alt="Medieval Coronation Comedy Interruption">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12392)**
+
+**Author:** [Caden Flux](https://x.com/Caden_Flux) | **Source:** [Link](https://x.com/Caden_Flux/status/2109652904864829898) | **Published:** Oct 12, 2026
+
+---
+### Pixar Style Mango Orchard Short Film Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed video generation prompt for Seedance 2.0 to create a 12-second Pixar-style animated short film featuring a farmer in a mango orchard.
+
+#### 📝 Prompt
+
+```
+12-second animated short film, Pixar 3D cartoon style, bright pastoral lighting, warm afternoon sunbeams filtering through leaves. A middle-aged farmer wearing a wide-brimmed straw hat, a light khaki shirt with rolled-up sleeves, dark trousers, and a small cloth bag at his waist, stands in a lush mango orchard, gently touching plump green mangoes on the branches with a mild smile. Background of rolling hills, blue sky, and white clouds.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109650656302972929/img/mtXPkMSZfdrAx-sF.jpg" width="600" alt="Pixar Style Mango Orchard Short Film Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12395)**
+
+**Author:** [Jackzhao](https://x.com/Jackzhaoh6ob) | **Source:** [Link](https://x.com/Jackzhaoh6ob/status/2109651272303550940) | **Published:** Oct 12, 2026
+
+---
 ### Gymnast Balance Beam Routine Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6627,50 +6778,6 @@ The sequence should feel tense, stylish and cinematic while remaining physically
 **Author:** [Elsa Ai](https://x.com/ElsaSofia__AI) | **Source:** [Link](https://x.com/ElsaSofia__AI/status/2103667614606368931) | **Published:** Sep 26, 2026
 
 ---
-### Chongqing Bungee Jump Realistic Video Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed prompt for generating a realistic 15-second video of an adult woman performing a bungee jump/stunt in Chongqing, featuring specific camera movements, physics constraints, and environmental details.
-
-#### 📝 Prompt
-
-```
-15 seconds, realistic smartphone shooting texture, continuous handheld long shot, only brief slow motion during the aerial flip. Adult female character, wearing preset #2 yoga outfit (screenshot reference), strictly locking the color, style, cut, and fabric from the reference; white sneakers, hair tied back, character's face, body shape, and clothing consistent throughout. The scene is a cinematic fictional high-altitude cantilevered platform with Raffles City Chongqing and the surrounding Two Rivers cityscape as the background, not corresponding to real rooftop facility layouts. Two adjacent platforms extend outward from the building, separated by a fixed-width narrow gap, connected on the building side by a continuous walkway. The woman jumps laterally from one platform to the other, movement direction roughly parallel to the building facade; the landing area inside the opposite platform is clear and spacious. Opening establishes the takeoff platform, narrow gap, landing zone, and inner walkway simultaneously, structure remains unchanged afterwards. Afternoon natural sunlight, light haze over Chongqing city, soft reflection on distant river surface, ground shadows consistent with light source. 0-3s: Woman jogs forward on the takeoff platform, camera positioned behind and to the side near the building, following at slightly below chest height. Frame retains her full body, the narrow gap ahead, and the landing area opposite, distant city below the outer edge provides sense of height. Another black-clad adult male stays behind on the inner side of the takeoff platform holding a phone to film, not entering her path. Footsteps and wind sounds audible, occasional gust brushing microphone. 3-5s: She briefly accelerates, gaze fixed on opposite platform, action transitions naturally from running to jumping without posing pauses. Main cameraman moves forward along the inner connecting walkway, forming a side view, lens always sees solid platforms on both sides of the gap. She leaves ground moving toward opposite platform, begins one continuous front flip; entire motion towards landing area, no deviation outwards. 5-8s: Brief aerial phase after jump presented in slow motion. Full body in frame, center of gravity follows continuous arc rising then falling, rotation speed changes coherently, hair ends and fabric show natural inertia. She completes only one front flip, then body expands, feet approaching opposite platform. Lens still shoots from inner walkway, does not go outside building or pass under person; slow motion does not increase actual airtime nor show hovering. 8-11s: Returns to normal speed before shoe sole contacts platform. She lands inside opposite platform, body sinks clearly upon contact, then performs a compact roll due to remaining forward momentum, continuing inward. Contact sequence of sole, hands, and body with ground is clear, no clipping or frictionless sliding. Main cameraman continues along inner walkway, reaches side-front as she slows down, stops and rotates lens, fully retaining landing and rolling process. 11-15s: She stands up nearby, bends over with hands on knees, exhales sharply, shoulders rise and fall naturally. Expression shifts from intense focus to slight trance after tension release, then looks up at camera, breathing still unsettled. Cameraman steps closer slightly, frame tightens naturally from full body to waist-up, not sudden close-up. Black-clad male still filming from inner side of takeoff platform, position unchanged. Retain realistic skin, slight sweat, fabric stretch, and natural motion blur. Slight camera shake but key contact actions visible, do not use violent shaking to hide flips or landings. Prohibited: changing platform size, exaggerating distance, teleportation, repeated flips, mid-air acceleration, joint inversion, clothing change, floating landing. No music, subtitles, watermarks, or UI elements.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103644585570242560/img/KckJhg9BmHEcLgqh.jpg" width="600" alt="Chongqing Bungee Jump Realistic Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11337)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2103644638275891546) | **Published:** Sep 26, 2026
-
----
-### Space mechanic orbital collapse chase
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-intensity sci-fi prompt for Seedance 2.0 Fast involving a space mechanic sprinting across a collapsing station while avoiding debris and explosions.
-
-#### 📝 Prompt
-
-```
-A space mechanic in a sealed full spacesuit with a clearly visible protective space helmet and closed visor sprints across a collapsing orbital cargo dock as a gigantic spacecraft crashes sideways through the station behind him. 
-
-The helmet and spacesuit remain on and unchanged for the entire video.  Ground-level camera races beside his boots as explosions rip open the deck. He passes the camera and it whips around just as a massive cargo container smashes down in front of him. He drops beneath it while it skids over him, showering sparks.  
-
-The floor suddenly tears away. The camera drops with him as he falls through the station, crashes through a lower maintenance platform, and grabs a hanging cable.  
-
-Final shot: the camera swings beneath him, revealing half the orbital station breaking apart above while hundreds of burning fragments fall toward the planet.  Ultra-realistic hard sci-fi, brutal speed, massive destruction, clear physics, enormous scale, IMAX quality. Helmet always visible, visor always closed, never remove the helmet, no exposed head or face. No famous or recognizable faces.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103608936020475904/img/wZXmsso-yu6IKvmH.jpg" width="600" alt="Space mechanic orbital collapse chase">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11336)**
-
-**Author:** [DeCat](https://x.com/DeCat2025) | **Source:** [Link](https://x.com/DeCat2025/status/2103615529986699498) | **Published:** Sep 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -6732,6 +6839,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-13T02:05:18.079Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-13T12:02:12.888Z</sub>
 
 </div>

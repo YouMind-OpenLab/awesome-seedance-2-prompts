@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6529** |
+| 📝 Tổng số prompt | **6531** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-10-13** |
 
@@ -361,6 +361,157 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Sự Gián Đoạn Hài Kịch Trong Lễ Đăng Quang Thời Trung Cổ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt cho một đoạn phim hài kịch điện ảnh dài 20 giây, nơi một người đàn ông hiện đại chen ngang vào buổi lễ đăng quang thời trung cổ để gỡ thẻ giá trên vương miện.
+
+#### 📝 Prompt
+
+```
+LỄ ĐĂNG QUANG — PHIM HÀI ĐIỆN ẢNH 20 GIÂY
+
+MODEL: Seedance 2.5
+DURATION: 20 giây
+ASPECT RATIO: 16:9
+STYLE: Phim giả tưởng trung cổ quay bằng người thật với phong cách siêu thực (photorealistic), kết hợp yếu tố hài phi lý tinh tế.
+HÌNH THAM KHẢO VÀ KHÓA NHÂN VẬT
+Sử dụng bảng nhân vật Nhà vua, Hoàng tử và Người Đàn Ông Ngẫu Nhiên đã tải lên làm tài liệu tham khảo hình ảnh chính thức.
+Nhà vua: Giữ nguyên khuôn mặt, mái tóc điểm bạc, râu, vương miện và bộ trang phục hoàng gia màu đỏ rượu vang (burgundy).
+
+Hoàng tử: Giữ nguyên khuôn mặt, kiểu tóc, bộ trang phục đăng quang xanh navy pha vàng, áo choàng xanh dương và vương miện khi được đội.
+
+Người Đàn Ông Ngẫu Nhiên: Giữ nguyên khuôn mặt, kiểu tóc, trang phục thường ngày hiện đại và tỷ lệ cơ thể.
+
+Duy trì sự nhất quán về danh tính nhân vật, trang phục, ánh sáng và bố cục phòng ngai vàng trong suốt toàn bộ video.
+ĐỊA ĐIỂM VÀ BẦU KHÔNG KHÍ
+Một phòng ngai vàng hoàng gia trung cổ khổng lồ với những cột đá cao vút, đèn chùm vàng, cửa sổ kính màu cao, cờ hiệu nhung đỏ và ngai vàng tráng lệ. Triều đình đứng im lặng hai bên thảm đỏ.
+
+Bầu không khí cực kỳ nghiêm túc và grandiose về cảm xúc, giống như cao trào của một bộ phim giả tưởng sử thi. Ánh nắng vàng ấm áp chiếu qua các cửa sổ. Âm nhạc hùng tráng với dàn nhạc giao hưởng đầy đủ.
+
+Người đàn ông hiện đại phải trông hoàn toàn lạc lõng trong bối cảnh trung cổ này.
+
+CẢNH 1 — KHOẢNH KHẮC LỄ ĐĂNG QUANG
+
+0–5 giây
+
+Góc máy rộng thiết lập bối cảnh phòng ngai vàng hoàng gia. Hoàng tử quỳ gối trên đệm trước mặt nhà vua. Nhà vua đứng trang nghiêm phía trước, nâng chiếc vương miện vàng chạm trổ phức tạp bằng cả hai tay.
+
+Triều đình theo dõi trong sự im lặng tuyệt đối.
+Cắt sang cận cảnh trung bình của nhà vua từ từ nâng vương miện lên đầu hoàng tử.
+
+Nhà vua nói với giọng trầm, trang nghiêm:
+
+NHÀ VUA: "Hôm nay, con sẽ trở thành vua."
+
+Âm nhạc giao hưởng dâng lên mạnh mẽ. Hoàng tử cúi đầu với vẻ nghiêm túc hoàn toàn.
+
+CẢNH 2 — NGƯỜI ĐÀN ÔNG SAI XUẤT HIỆN
+
+5–9 giây
+
+Ngay khi nhà vua sắp hạ vương miện xuống, một người đàn ông hiện đại ăn mặc giản dị với hoodie tối màu, quần jean và giày sneaker bước vào nghi lễ hoàng gia từ bên cạnh sảnh.
+
+Anh ta đi thẳng giữa nhà vua và hoàng tử như thể mình thuộc về nơi đó.
+Nhà vua đông cứng lại với vương miện lơ lửng giữa không trung. Hoàng tử vẫn quỳ, trông hơi bối rối. Các quan hầu cận nhìn chằm chằm với sự khó tin thầm lặng.
+
+Người đàn ông hiện đại hầu như không chú ý đến ai. Anh ta nhận ra chiếc vương miện, nhìn nó một cách phê phán và lắc đầu nhẹ với vẻ không tán thành.
+
+Âm nhạc giao hưởng đột ngột dịu xuống thành một nốt kéo dài ngượng ngùng.
+
+CẢNH 3 — SỬA CHỮA BẤT NGỜ
+
+9–14 giây
+
+Trong một hành động liên tục và rõ ràng, người đàn ông hiện đại thản nhiên lấy vương miện khỏi tay nhà vua.
+
+Anh ta nhận thấy một thẻ giá giấy nhỏ treo trên vương miện, gỡ nó ra và nhét vào túi. Sau đó, anh ta chỉnh lại cổ áo lệch của hoàng tử và đẩy ngai vàng hoàng gia vài inch cho thẳng hàng hơn với thảm.
+Các chuyển động của anh ta mang tính thực tế, nhanh chóng và hoàn toàn ung dung.
+
+Nhà vua đứng bất động, rõ ràng là hoang mang nhưng cố giữ phẩm giá hoàng gia. Hoàng tử nhìn từ người đàn ông sang cha mình, không chắc liệu có được phép di chuyển hay không.
+
+Người đàn ông lùi lại, xem xét công việc của mình và gật đầu hài lòng một cái.
+
+NGƯỜI ĐÀN ÔNG NGẪU NHIÊN: "Tốt hơn nhiều rồi."
+
+Đọc câu thoại một cách tự nhiên, với giọng điệu trò chuyện thông thường, không có khoảng dừng kịch tính hay diễn xuất hài hước quá mức.
+
+CẢNH 4 — QUAY LẠI CÔNG VIỆC
+
+14–17 giây
+
+Người đàn ông hiện đại quay lại và thản nhiên bước ra khỏi phòng ngai vàng theo đúng lối anh ta đã vào.
+
+Không ai ngăn cản anh ta. Không ai lên tiếng.
+Nhà vua từ từ dõi mắt theo anh ta, sau đó nhìn xuống vương miện trong tay như đang cố hiểu điều gì vừa xảy ra.
+
+Hoàng tử vẫn quỳ ở tư thế y hệt.
+
+Người đàn ông rời khỏi khung hình hoàn toàn.
+
+CẢNH 5 — LỄ ĐĂNG QUANG TIẾP DIỄN
+
+17–20 giây
+
+Cắt sang cận cảnh trung bình điện ảnh của nhà vua hít thở sâu, lấy lại bình tĩnh và cẩn thận định vị lại bản thân để tiếp tục nghi lễ.
+
+Ông nâng vương miện lên lần nữa.
+Hoàng tử cúi đầu.
+
+Âm nhạc giao hưởng trở lại cường độ hùng tráng ban đầu, như thể sự gián đoạn chưa từng xảy ra.
+
+NHÀ VUA: "Hôm nay… con sẽ trở thành vua."
+
+Kết thúc ngay lập tức trên khuôn mặt nghiêm túc hoàn hảo của nhà vua.
+
+Chuyển sang màn đen.
+
+MÁY QUAY VÀ BIÊN TẬP
+
+Sử dụng khung hình điện ảnh chuyên nghiệp, chuyển động máy quay mượt mà có kiểm soát, độ sâu trường ảnh (depth of field) chân thực, biểu cảm vi mô khuôn mặt tự nhiên và các cắt cảnh sạch sẽ theo phong cách điện ảnh. Thiết lập bối cảnh phòng trước khi chuyển sang các góc máy trung và cận. Làm cho sự xuất hiện và các hành động thực tế của người đàn ông hiện đại dễ dàng quan sát.
+
+Giữ yếu tố hài hước tinh tế, dựa vào thời điểm, sự im lặng ngượng ngùng và sự tương phản giữa nghi lễ sử thi và hành vi đời thường của người đàn ông.
+
+THIẾT KẾ ÂM THANH
+
+Âm nhạc giao hưởng hùng tráng trong suốt lễ đăng quang, tiếng bước chân và chuyển động quần áo tinh tế, một sự gián đoạn âm nhạc nhẹ nhàng khi người đàn ông bước vào, tiếng sột soạt giấy mềm mại khi anh ta gỡ thẻ giá, và sự trở lại của âm nhạc giao hưởng hoành tráng cho câu thoại cuối cùng.
+
+Tất cả lời thoại phải rõ ràng, được nói tự nhiên bằng tiếng Anh và không quá kịch tính.
+
+RÀNG BUỘC TIÊU CỰC NGHIÊM NGẶT
+
+KHÔNG tạo bất kỳ phụ đề, chú thích, lớp phủ văn bản, watermark, logo hoặc văn bản trên màn hình dưới bất kỳ hình thức nào.
+KHÔNG hiển thị các dòng thoại dưới dạng văn bản viết trên màn hình.
+Lời thoại chỉ tồn tại dưới dạng âm thanh được nói, không bao giờ dưới dạng typography hiển thị.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109652073189097472/img/WVJ7tQSgnKUnJfqs.jpg" width="600" alt="Sự Gián Đoạn Hài Kịch Trong Lễ Đăng Quang Thời Trung Cổ">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12392)**
+
+**Tác giả:** [Caden Flux](https://x.com/Caden_Flux) | **Nguồn:** [Link](https://x.com/Caden_Flux/status/2109652904864829898) | **Đã xuất bản:** Oct 12, 2026
+
+---
+### Prompt phim ngắn vườn xoài phong cách Pixar
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt tạo video chi tiết cho Seedance 2.0 để tạo ra một phim ngắn hoạt hình phong cách Pixar dài 12 giây, với nhân vật chính là một nông dân trong vườn xoài.
+
+#### 📝 Prompt
+
+```
+Phim ngắn hoạt hình 12 giây, phong cách hoạt hình 3D của Pixar, ánh sáng đồng quê rực rỡ, những tia nắng chiều ấm áp xuyên qua kẽ lá. Một người nông dân trung niên đội mũ rơm rộng vành, mặc áo sơ mi kaki nhạt xắn tay, quần tối màu và đeo một chiếc túi vải nhỏ bên hông, đứng giữa vườn xoài xanh mướt, nhẹ nhàng chạm vào những quả xoài xanh căng mọng trên cành với nụ cười hiền hậu. Phông nền là những ngọn đồi thoai thoải, bầu trời xanh và mây trắng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109650656302972929/img/mtXPkMSZfdrAx-sF.jpg" width="600" alt="Prompt phim ngắn vườn xoài phong cách Pixar">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12395)**
+
+**Tác giả:** [Jackzhao](https://x.com/Jackzhaoh6ob) | **Nguồn:** [Link](https://x.com/Jackzhaoh6ob/status/2109651272303550940) | **Đã xuất bản:** Oct 12, 2026
+
+---
 ### Video Bài Tập Cân Bằng Trên Vạch Ngựa Của Nữ Vận Động Viên Thể Dục Dụng Cụ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5919,50 +6070,6 @@ Chuỗi cảnh quay cần mang lại cảm giác căng thẳng, phong cách và 
 **Tác giả:** [Elsa Ai](https://x.com/ElsaSofia__AI) | **Nguồn:** [Link](https://x.com/ElsaSofia__AI/status/2103667614606368931) | **Đã xuất bản:** Sep 26, 2026
 
 ---
-### Chongqing Bungee Jump FPV Video Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed video generation prompt for Seedance 2.0 creating a realistic, handheld-style long take of an adult woman performing a bungee jump or high-dive stunt in Chongqing. The prompt specifies camera movement, lighting, character consistency, and physical realism constraints.
-
-#### 📝 Prompt
-
-```
-15 giây, kết cấu quay bằng điện thoại thông minh chân thực, một cú máy dài liên tục kiểu cầm tay, chỉ có chuyển động chậm (slow motion) trong khoảnh khắc lộn nhào trên không. Nhân vật nữ trưởng thành, mặc trang phục yoga từ ảnh chụp màn hình #2 screenshot_16-8-2026_0750_x.com, khóa chặt màu sắc, phong cách, kiểu cắt và chất vải theo tài liệu tham khảo; giày thể thao trắng, tóc buộc gọn, các đặc điểm khuôn mặt, dáng người và trang phục nhất quán xuyên suốt. Cảnh là một nền tảng nhô ra ở độ cao lớn hư cấu với Raffles City Chongqing và cảnh quan thành phố hai sông làm nền, không tương ứng với các cơ sở mái nhà thực tế. Hai nền tảng liền kề mở rộng ra ngoài từ tòa nhà, được ngăn cách bởi một khe hẹp có chiều rộng cố định, kết nối về phía tòa nhà bằng một lối đi bộ liên tục. Người phụ nữ nhảy ngang từ một nền tảng sang nền tảng kia, hướng di chuyển gần như song song với mặt tiền tòa nhà; nền tảng đối diện có khu vực hạ cánh và cuộn người rõ ràng, rộng rãi. Phần mở đầu thiết lập đồng thời nền tảng cất cánh, khe hẹp, khu vực hạ cánh và lối đi bộ bên trong, cấu trúc không thay đổi sau đó. Ánh sáng tự nhiên buổi chiều, hơi sương mù nhẹ ở Trùng Khánh, phản xạ mềm mại trên bề mặt sông xa, bóng đổ trên mặt đất nhất quán với nguồn sáng. 0-3s: Người phụ nữ đã chạy bộ về phía trước trên nền tảng cất cánh, máy quay đặt ở phía sau và bên cạnh gần tòa nhà, theo sát ở độ cao thấp hơn ngực một chút. Khung hình giữ toàn bộ cơ thể cô ấy, khoảng trống phía trước và khu vực hạ cánh đối diện, thành phố xa xôi bên dưới mép ngoài tạo cảm giác về độ cao. Một người đàn ông trưởng thành khác mặc đồ đen ở lại phía sau bên trong nền tảng cất cánh, cầm điện thoại quay phim, không cản đường cô ấy. Tiếng bước chân và tiếng gió nghe rõ, thỉnh thoảng những cơn gió thổi qua mic điện thoại. 3-5s: Cô ấy tăng tốc độ ngắn gọn, ánh mắt tập trung vào nền tảng đối diện, hành động chuyển tiếp tự nhiên từ chạy sang nhảy mà không dừng lại hay tạo dáng. Nhiếp ảnh gia chính di chuyển về phía trước dọc theo lối đi bộ kết nối bên trong, tạo thành góc nhìn nghiêng, ống kính luôn thấy các nền tảng vững chắc ở cả hai bên của khe hở. Sau khi rời khỏi mặt đất, cô ấy di chuyển về phía nền tảng đối diện, bắt đầu một vòng lộn trước liên tục; toàn bộ hành động hướng về khu vực hạ cánh, không trôi ra ngoài tòa nhà. 5-8s: Giai đoạn trên không ngắn sau khi cất cánh được trình bày bằng chuyển động chậm. Toàn bộ cơ thể xuất hiện hoàn toàn trong khung hình, trọng tâm tuân theo một cung liên tục dâng lên rồi rơi xuống, sự thay đổi tốc độ lộn nhào mạch lạc, ngọn tóc và vải có quán tính tự nhiên. Cô ấy hoàn thành chỉ một vòng lộn trước, sau đó duỗi thẳng cơ thể, bàn chân tiến gần đến nền tảng đối diện. Ống kính vẫn quay từ lối đi bộ bên trong, không đi vòng ra ngoài tòa nhà, không đi qua dưới người; chuyển động chậm không làm tăng thời gian trên không thực tế, không lơ lửng trong không khí. 8-11s: Trở lại tốc độ bình thường trước khi đế giày tiếp xúc với nền tảng. Cô ấy hạ cánh bên trong nền tảng đối diện, cơ thể chìm rõ rệt khi tiếp xúc, sau đó sử dụng động lượng còn lại để hoàn thành một vòng cuộn người gọn gàng, tiếp tục di chuyển vào trong. Trình tự tiếp xúc của đế giày, bàn tay và cơ thể với mặt đất rõ ràng, không có hiện tượng xuyên thấu hoặc trượt không ma sát. Nhiếp ảnh gia chính tiếp tục di chuyển về phía trước dọc theo lối đi bộ bên trong, đạt đến vị trí phía trước-bên cạnh khi cô ấy giảm tốc độ từ việc cuộn người, dừng lại và xoay ống kính, giữ nguyên toàn bộ quá trình hạ cánh và cuộn người. 11-15s: Cô ấy đứng dậy ở gần đó, cúi gập người với hai tay chống lên đầu gối sau khi ổn định, thở ra nhanh chóng, vai và lưng nâng/hạ tự nhiên. Biểu cảm chuyển từ sự tập trung cao độ sang trạng thái ngơ ngác nhẹ sau khi giải tỏa căng thẳng, sau đó nhìn lên máy quay, nhịp thở chưa hoàn toàn ổn định. Nhiếp ảnh gia chỉ bước tới một chút, khung hình thắt chặt tự nhiên từ toàn thân xuống phần trên eo, không đột ngột trở thành cận cảnh khuôn mặt. Người đàn ông mặc đồ đen vẫn cầm điện thoại ở phía bên trong của nền tảng cất cánh phía sau, vị trí không thay đổi. Giữ lại da thật, mồ hôi nhẹ, sự co giãn của vải và mờ chuyển động tự nhiên. Máy quay có độ nhấp nhô nhẹ nhưng các hành động tiếp xúc chính đều nhìn thấy được, không sử dụng rung lắc mạnh để che giấu các pha lộn nhào hoặc hạ cánh. Cấm thay đổi kích thước nền tảng, phóng đại khoảng cách nhảy, dịch chuyển nhân vật tức thì, lộn nhào lặp lại, tăng tốc trong không khí, duỗi quá mức khớp, thay đổi quần áo và hạ cánh lơ lửng. Không có nhạc, phụ đề, hình mờ hoặc các yếu tố giao diện người dùng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103644585570242560/img/KckJhg9BmHEcLgqh.jpg" width="600" alt="Chongqing Bungee Jump FPV Video Prompt">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11337)**
-
-**Tác giả:** [John](https://x.com/john87445528) | **Nguồn:** [Link](https://x.com/john87445528/status/2103644638275891546) | **Đã xuất bản:** Sep 26, 2026
-
----
-### Sự Sụp Đổ Của Trạm Cơ Khí Vũ Trụ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt khoa học viễn tưởng kịch tính, mô tả một thợ cơ khí vũ trụ chạy trốn khỏi bến dock quỹ đạo đang sụp đổ trong khi một tàu vũ trụ đâm vào.
-
-#### 📝 Prompt
-
-```
-Một thợ cơ khí vũ trụ mặc bộ đồ bảo hộ kín mít với mũ bảo hiểm không gian rõ ràng và kính chắn đóng chặt đang chạy băng qua bến hàng hóa quỹ đạo đang sụp đổ, trong khi một tàu vũ trụ khổng lồ đâm ngang qua trạm phía sau anh.
-
-Mũ bảo hiểm và bộ đồ không gian vẫn nguyên vẹn và không thay đổi trong suốt video. Camera ở tầm thấp di chuyển nhanh bên cạnh đôi giày của anh khi các vụ nổ xé toạc sàn tàu. Anh chạy vượt qua camera và nó quay phắt lại ngay khi một container hàng hóa lớn đập xuống trước mặt anh. Anh cúi thấp tránh nó khi container trượt qua người, bắn ra những tia lửa.
-
-Sàn tàu đột ngột bị xé rách. Camera rơi cùng anh khi anh rơi xuyên qua trạm, đâm thủng một nền tảng bảo trì tầng dưới, và nắm lấy một sợi cáp treo.
-
-Cảnh cuối: camera đung đưa bên dưới anh, hé lộ một nửa trạm quỹ đạo đang vỡ vụn phía trên trong khi hàng trăm mảnh vỡ bốc cháy rơi về phía hành tinh. Phong cách siêu thực, khoa học viễn tưởng nặng nề, tốc độ tàn khốc, sự hủy diệt quy mô lớn, vật lý rõ ràng, quy mô khổng lồ, chất lượng IMAX. Mũ bảo hiểm luôn hiện diện, kính chắn luôn đóng, không bao giờ tháo mũ, không để lộ đầu hoặc mặt. Không có khuôn mặt nổi tiếng hoặc dễ nhận biết.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103608936020475904/img/wZXmsso-yu6IKvmH.jpg" width="600" alt="Sự Sụp Đổ Của Trạm Cơ Khí Vũ Trụ">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11336)**
-
-**Tác giả:** [DeCat](https://x.com/DeCat2025) | **Nguồn:** [Link](https://x.com/DeCat2025/status/2103615529986699498) | **Đã xuất bản:** Sep 25, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -6024,6 +6131,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-13T02:05:26.184Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-13T12:02:19.979Z</sub>
 
 </div>

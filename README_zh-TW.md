@@ -68,7 +68,7 @@
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **6529** |
+| 📝 提示詞總數 | **6531** |
 | ⭐ 精選提示詞 | **6** |
 | 🔄 最後更新 | **2026-10-13** |
 
@@ -361,6 +361,157 @@
 
 > 📝 按發布日期排序（最新優先）
 
+### 中世紀加冕禮喜劇打斷
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段 20 秒電影級喜劇的提示詞，講述一名現代男子打斷中世紀加冕儀式，只為了撕掉王冠上的價格標籤。
+
+#### 📝 提示詞
+
+```
+THE CORONATION — 20-SECOND CINEMATIC COMEDY
+
+MODEL: Seedance 2.5
+DURATION: 20 seconds
+ASPECT RATIO: 16:9
+STYLE: Photorealistic live-action medieval fantasy film with subtle absurdist comedy.
+REFERENCE IMAGES AND CHARACTER LOCK
+Use the uploaded King character sheet, Prince character sheet, and Random Man character sheet as the definitive visual references.
+King: Preserve his exact face, gray-streaked hair, beard, crown, and burgundy royal outfit.
+
+Prince: Preserve his exact face, hairstyle, navy-and-gold coronation outfit, blue cloak, and crown once placed.
+
+Random Man: Preserve his exact face, hairstyle, modern casual outfit, and body proportions.
+
+Maintain consistent character identities, costumes, lighting, and the layout of the throne room throughout the entire video.
+LOCATION AND ATMOSPHERE
+An enormous medieval royal throne room with towering stone pillars, golden chandeliers, tall stained-glass windows, red velvet banners, and a magnificent golden throne. The royal court stands silently on either side of a red carpet.
+
+The atmosphere is extremely serious and emotionally grand, like the climax of an epic fantasy film. Warm golden sunlight streams through the windows. The music is majestic, with a full orchestral score.
+
+The modern man must look completely out of place in this medieval setting.
+
+SHOT 1 — THE MOMENT OF CORONATION
+
+0–5 seconds
+
+Wide cinematic establishing shot of the royal throne room. The prince kneels on a cushion before the king. The king stands solemnly in front of him, holding an ornate golden crown with both hands.
+
+The court watches in absolute silence.
+Cut to a medium close-up of the king slowly raising the crown above the prince's head.
+
+The king speaks in a deep, solemn voice:
+
+KING: "Today, you become king."
+
+The orchestral music swells dramatically. The prince bows his head with complete seriousness.
+
+SHOT 2 — THE WRONG MAN ENTERS
+
+5–9 seconds
+
+Just as the king is about to lower the crown, a casually dressed modern man in a dark hoodie, jeans, and sneakers walks into the royal ceremony from the side of the hall.
+
+He walks directly between the king and prince as though he belongs there.
+The king freezes with the crown suspended in midair. The prince remains kneeling, looking slightly confused. The courtiers stare in silent disbelief.
+
+The modern man barely acknowledges anyone. He notices the crown, looks at it critically, and gives a small disapproving shake of his head.
+
+The orchestral music abruptly softens into an awkward, sustained note.
+
+SHOT 3 — THE UNEXPECTED FIX
+
+9–14 seconds
+
+In one continuous, clearly visible action, the modern man casually takes the crown from the king's hands.
+
+He notices a small paper price tag hanging from the crown, removes it, and slips it into his pocket. He then gently straightens the prince's crooked collar and nudges the royal throne a few inches into better alignment with the carpet.
+His movements are practical, quick, and completely unbothered.
+
+The king stands frozen, visibly bewildered but trying to preserve his royal dignity. The prince looks from the man to his father, unsure whether he is allowed to move.
+
+The man steps back, examines his work, and gives one satisfied nod.
+
+RANDOM MAN: "Much better."
+
+Deliver the line casually, in a natural conversational voice, without a dramatic pause or exaggerated comic delivery.
+
+SHOT 4 — BACK TO BUSINESS
+
+14–17 seconds
+
+The modern man turns around and casually walks out of the throne room the same way he entered.
+
+No one stops him. Nobody speaks.
+The king slowly follows him with his eyes, then looks down at the crown in his hands as if trying to understand what just happened.
+
+The prince remains kneeling in the exact same position.
+
+The man exits the frame completely.
+
+SHOT 5 — THE CORONATION CONTINUES
+
+17–20 seconds
+
+Cut to a cinematic medium close-up of the king taking a slow breath, regaining his composure, and carefully positioning himself to continue the ceremony.
+
+He raises the crown again.
+The prince bows his head.
+
+The orchestral music resumes its original majestic intensity, as if the interruption never happened.
+
+KING: "Today… you become king."
+
+End immediately on the king's perfectly serious face.
+
+Cut to black.
+
+CAMERA AND EDITING
+
+Use professional cinematic framing, smooth controlled camera movements, realistic depth of field, natural facial micro-expressions, and clean film-style cuts. Establish the room before moving into medium shots and close-ups. Make the modern man's entrance and practical actions easy to see.
+
+Keep the comedy understated and driven by timing, awkward silence, and the contrast between the epic ceremony and the man's mundane behavior.
+
+AUDIO DESIGN
+
+Majestic orchestral music during the coronation, subtle footsteps and clothing movement, a slight musical interruption when the man enters, a soft paper rustle as he removes the price tag, and a return to full orchestral grandeur for the final line.
+
+All dialogue must be clearly audible, naturally spoken in English, and not overly theatrical.
+
+STRICT NEGATIVE CONSTRAINTS
+
+Do NOT generate any subtitles, captions, text overlays, watermarks, logos, or on-screen text of any kind.
+Do NOT display the spoken lines as written text on screen.
+Dialogue must exist only as spoken audio, never as visible typography.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109652073189097472/img/WVJ7tQSgnKUnJfqs.jpg" width="600" alt="中世紀加冕禮喜劇打斷">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=12392)**
+
+**作者:** [Caden Flux](https://x.com/Caden_Flux) | **來源:** [Link](https://x.com/Caden_Flux/status/2109652904864829898) | **發布時間:** Oct 12, 2026
+
+---
+### 皮克斯風格芒果園短片提示詞
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 適用於 Seedance 2.0 的詳細影片生成提示詞，用於創作一部以果園農夫為主角的 12 秒皮克斯風格動畫短片。
+
+#### 📝 提示詞
+
+```
+12 秒動畫短片，皮克斯 3D 卡通風格，明亮的田園光線，溫暖的午後陽光透過樹葉灑下。一位中年農夫戴著寬邊草帽，身穿捲起袖子的淺卡其色襯衫、深色長褲，腰間繫著一個小布袋，站在鬱鬱蔥蔥的芒果園中，面帶溫和微笑，輕輕觸摸枝頭飽滿的青芒果。背景是起伏的山丘、藍天與白雲。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109650656302972929/img/mtXPkMSZfdrAx-sF.jpg" width="600" alt="皮克斯風格芒果園短片提示詞">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=12395)**
+
+**作者:** [Jackzhao](https://x.com/Jackzhaoh6ob) | **來源:** [Link](https://x.com/Jackzhaoh6ob/status/2109651272303550940) | **發布時間:** Oct 12, 2026
+
+---
 ### 體操平衡木表演視頻
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5839,50 +5990,6 @@ Elsa走向地鐵出口的樓梯。
 **作者:** [Elsa Ai](https://x.com/ElsaSofia__AI) | **來源:** [Link](https://x.com/ElsaSofia__AI/status/2103667614606368931) | **發布時間:** Sep 26, 2026
 
 ---
-### 重慶高空蹦極 FPV 影片提示詞
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 影片生成提示詞，用於製作重慶高空蹦極或跳水特技的逼真手持長鏡頭。提示詞詳細規範了攝影機運動、光線、角色一致性以及物理真實性限制。
-
-#### 📝 提示詞
-
-```
-15 秒，逼真的智慧型手機拍攝質感，連續的手持長鏡頭，僅在空中翻轉時短暫使用慢動作。成年女性角色，身穿預設 #2 screenshot_16-8-2026_0750_x.com 瑜伽服，嚴格鎖定參考圖中的顏色、風格、剪裁和材質；白色運動鞋，頭髮緊綁，面部特徵、體型和服裝全程保持一致。場景為虛構的高空懸挑平台，背景為重慶來福士廣場（Raffles City Chongqing）和兩江城市景觀，並非對應現實中的屋頂設施。兩個相鄰的平台從建築物向外延伸，中間由固定寬度的狹窄間隙分隔，在建築側通過一條連續的人行道連接。女子從一個平台橫向跳躍至另一個平台，移動方向大致與建築立面平行；對面平台有清晰寬敞的著陸和滾動區域。開場同時展示起跳平台、狹窄間隙、著陸區和內部人行道，結構隨後保持不變。午後自然陽光，重慶輕微霧霾，遠處河面有柔和反光，地面陰影與光源一致。0-3 秒：女子已在起跳平台上向前慢跑，攝影機位於她身後側靠近建築物的位置，以略低於胸部的高度跟隨。畫面保留她的全身、前方間隙和對面著陸區，外緣下方的遠處城市提供高度感。另一名穿黑衣的成年男性留在起跳平台內側後方，手持手機拍攝，不進入她的路徑。可聽見腳步聲和風聲，偶爾的陣風拂過手機麥克風。3-5 秒：她短暫加速，目光鎖定對面平台，動作從奔跑自然過渡到跳躍，無停頓或擺拍。主攝影師沿內部連通道向前移動，形成側視角，鏡頭始終能看到間隙兩側堅實的平台。離開地面後，她朝對面平台移動，開始一次連續的前翻；整個動作指向著陸區，未飄出建築範圍。5-8 秒：起跳後的短暫空中階段以慢動作呈現。全身完全進入畫面，重心遵循連續的上升後下降弧線，翻轉速度變化連貫，髮梢和布料具有自然的慣性。她僅完成一次前翻，然後身體伸展，雙腳接近對面平台。鏡頭仍從內部人行道拍攝，不繞到建築外側，不从人物下方經過；慢動作不增加實際滯留時間，無空中懸浮。8-11 秒：鞋底接觸平台前恢復正常速度。她在對面平台內著陸，接觸時身體明顯下沉，然後利用剩餘的前衝力完成一次緊湊的滾動，繼續向內移動。鞋底、手部和身體與地面的接觸順序清晰，無穿模或無摩擦滑動。主攝影師繼續沿內部人行道向前移動，在她滾動減速時到達前側，停止並旋轉鏡頭，完整保留著陸和滾動過程。11-15 秒：她在附近站起，穩定後雙手撐膝彎腰，快速呼氣，肩膀和背部自然起伏。表情從高度專注轉變為緊張釋放後的輕微呆滯，然後抬頭看向鏡頭，呼吸尚未完全平復。攝影師僅稍微向前邁步，畫面從全身自然緊縮至腰部以上，不突然變成臉部特寫。黑衣男子仍手持手機位於後方起跳平台內側，位置不變。保留真實皮膚、輕微汗水、布料拉伸和自然動態模糊。攝影機有輕微起伏但關鍵接觸動作可見，不使用劇烈晃動來隱藏翻轉或著陸。禁止改變平台大小、誇大跳躍距離、重複翻轉、加速空中移動、懸浮、穿模、無摩擦滑動、突然變焦、改變角色外觀、添加文字或水印。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103644585570242560/img/KckJhg9BmHEcLgqh.jpg" width="600" alt="重慶高空蹦極 FPV 影片提示詞">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=11337)**
-
-**作者:** [John](https://x.com/john87445528) | **來源:** [Link](https://x.com/john87445528/status/2103644638275891546) | **發布時間:** Sep 26, 2026
-
----
-### 太空機械師站點崩塌
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段高張力的科幻影片提示，描繪一名太空機械師在軌道船塢崩塌之際，伴隨墜毀的太空船逃生的場景。
-
-#### 📝 提示詞
-
-```
-一名身穿密封全套太空服、配戴清晰可見防護頭盔且面罩緊閉的太空機械師，在崩塌的軌道貨運船塢上狂奔，身後一艘巨大的太空船側向撞入站體。
-
-整個影片中，頭盔與太空服保持穿戴狀態且無任何變化。地面視角的鏡頭緊貼他的靴子並行，爆炸撕裂甲板。他衝過鏡頭前方，鏡頭隨即甩動，此時一個巨大的貨櫃在他面前重重砸下。他在貨櫃滑過頭頂時俯身閃避，火花四濺。
-
-地板突然崩裂。鏡頭隨著他一同墜落，他穿過站體內部，撞破下方的維修平台，並抓住一根懸掛的纜繩。
-
-最終鏡頭：攝影機在他下方擺盪，展現出軌道站體一半正在上方解體，數百個燃燒的碎片朝行星墜落。超寫實硬科幻風格，極速感，大規模破壞，清晰的物理效果，宏大的規模，IMAX 級畫質。頭盔始終可見，面罩始終緊閉，絕不摘除頭盔，無裸露頭部或臉部。無名人或可辨識面孔。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103608936020475904/img/wZXmsso-yu6IKvmH.jpg" width="600" alt="太空機械師站點崩塌">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=11336)**
-
-**作者:** [DeCat](https://x.com/DeCat2025) | **來源:** [Link](https://x.com/DeCat2025/status/2103615529986699498) | **發布時間:** Sep 25, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -5944,6 +6051,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-10-13T02:05:20.608Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-10-13T12:02:14.743Z</sub>
 
 </div>
