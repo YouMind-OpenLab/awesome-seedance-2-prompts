@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6531** |
+| 📝 Total des prompts | **6542** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-10-14** |
 
@@ -361,6 +361,594 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Séquence Vidéo Romantique pour Rendez-vous
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour créer une séquence vidéo romantique suivant une femme qui se prépare et arrive à un rendez-vous, se terminant par un baiser, incluant des listes de plans détaillées et des arcs émotionnels.
+
+#### 📝 Prompt
+
+```
+Une jeune femme adulte magnifique aux cheveux bruns courts, grands yeux expressifs et allure de superstar charmante. Beauté naturelle, style élégant, traits faciaux réalistes et apparence cohérente dans chaque plan.
+
+ENVIRONNEMENT : Appartement moderne → miroir de la chambre → garde-robe → rue de la ville → extérieur du café → intérieur cosy du café → table → rue de la ville le soir avec lumières scintillantes.
+
+ARC ÉMOTIONNEL : Attente romantique → excitation nerveuse → récompense émotionnelle chaleureuse.
+
+SÉQUENCE DE PLANS :
+
+Plan 1 : Gros plan sur la jeune femme assise sur son lit, souriant doucement tout en lisant un message texte sur son téléphone.
+
+Plan 2 : Elle regarde à nouveau son téléphone, ses yeux pétillant d'excitation.
+
+Plan 3 : Debout devant le miroir, elle ajuste délicatement ses cheveux bruns courts.
+
+Plan 4 : Elle tape un message, marque une pause et sourit timidement.
+
+Plan 5 : Elle jette un coup d'œil à l'heure, prend une profonde inspiration et se lève.
+
+Plan 6 : Transition stylée de changement de tenue alors qu'elle se prépare pour son rendez-vous.
+
+Plan 7 : Gros plan au ralenti de sa vaporisation de parfum autour de son cou.
+
+Plan 8 : Regard final dans le miroir ; elle ajuste sa tenue et s'offre un sourire confiant.
+
+Plan 9 : Plan-séquence cinématographique la montrant marcher le long d'une rue animée vers un café.
+
+Plan 10 : Elle arrive devant le café et aperçoit soudain quelqu'un qu'elle reconnaît.
+
+Plan 11 : Son expression se transforme en un sourire chaud et enthousiaste en voyant qu'il attend.
+
+Plan 12 : Gros plan sur leurs regards qui se croisent, capturant un moment d'affection mutuelle.
+
+Plan 13 : Ils avancent lentement l'un vers l'autre, avec un effet de ralenti doux et un bokeh flou en arrière-plan.
+
+Plan 14 : Gros plan intime alors qu'ils se penchent l'un vers l'autre, souriant doucement avant de fermer les yeux.
+
+Plan 15 : Ils partagent un baiser romantique doux sur les lèvres, avec des lumières urbaines floues, un éclat doré chaud et une fin cinématographique magnifique.
+
+STYLE VISUEL : Romance cinématographique ultra-réaliste, texture de peau naturelle, yeux expressifs, mouvements de caméra fluides, faible profondeur de champ, éclairage chaud, physique réaliste, transitions élégantes et identité de personnage cohérente.
+
+MUSIQUE & MONTAGE : Bande originale pop romantique à 145 BPM, avec chaque plan synchronisé sur le rythme. Utiliser des coupes rapides pendant la séquence de préparation, des transitions fluides lors de la marche, et un effet de ralenti subtil durant le moment romantique final.
+
+FIN : Maintenir le baiser final brièvement, avec des lumières urbaines chaudes scintillant en arrière-plan.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110225665039695873/img/ovyU72lmMYvFibGM.jpg" width="600" alt="Séquence Vidéo Romantique pour Rendez-vous">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12478)**
+
+**Auteur:** [Dania](https://x.com/DaniaSafvi) | **Source:** [Link](https://x.com/DaniaSafvi/status/2110225751387803697) | **Publié:** Oct 14, 2026
+
+---
+### Scène de combat entre un épéiste en robe blanche et un dragon
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt vidéo détaillé, plan par plan, pour une bataille cinématographique entre un épéiste vêtu d'une robe blanche et un dragon aquatique, généré avec Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Épéiste en Robe Blanche : L'Affrontement dans les Abysses du Dragon
+[Acte 1 | Invocation 0-10s]
+0-3s : Un guerrier vêtu d'une robe blanche se tient dans les eaux peu profondes de la rive d'un canyon sombre, entouré de falaises noires, avec des bancs de sable pâle au loin. La lumière froide de la lune filtre à travers les fissures supérieures ; la surface de l'eau est humide, la brume imprègne l'air. Le guerrier tient une longue épée dégainée en position de garde, des éclairs bleu-blanc parcourant la lame. Plan moyen, lent travelling avant. Particules d'éclairs, qi de l'épée, brume de cascade.
+3-5s : Le guerrier tourne rapidement sur lui-même et brandit son épée, des arcs électriques s'étirant, puis charge en avant, explosions d'éclairs. Suivi orbital devenant une vue large lointaine. Traînées d'éclairs, images résiduelles, éclaboussures d'eau explosives, ondes de choc soniques.
+5-7.5s : Un gigantesque dragon aquatique émerge de la surface, son squelette se formant, le corps d'eau prenant forme. Travelling avant en plan moyen. Effets fluides, moustaches du dragon flottant, arcs électriques enveloppants.
+7.5-10s : Le dragon aquatique tourne autour du guerrier à grande vitesse, fonce vers la caméra, puis revient sur le côté. Les yeux du dragon brillent, des éclaboussures volent. Suivi latéral devenant une prise de vue basse angle vers le haut. Vortex du dragon aquatique, brume, particules de flux d'eau.
+[Acte 2 | Bataille Finale 10-27s]
+10-11.5s | Plongeon de la Tête du Dragon : La tête du dragon plonge, le guerrier explose vers le haut depuis une demi-genouillère, l'onde de choc soulevant la robe blanche et la surface de l'eau, l'épée nue jaillissant d'éclairs, contre-poussée vers le haut. Prise de vue ultra-basse angle vers le haut, montant depuis les pieds près de la surface de l'eau, la caméra traversant la lumière de l'épée. Explosion radiale de la surface de l'eau, éclairs surexposés, traînées de lumière blanche.
+11.5-13s | Collision Frontale : La pointe de l'épée heurte la tête du dragon, une onde de choc annulaire soulève l'eau peu profonde. Le guerrier fait une acrobatie en plein air, porte trois coups effleurant la tête du dragon, compressés en trois instants flash. Angle extrême bas vers le haut, rotation de 180° avec le personnage, coupe à une vue verticale overhead à 90°. Le corps du dragon et les éclairs forment une énorme spirale sur la surface de l'eau.
+13-15s | Poursuite le Long du Corps du Dragon : Le guerrier court le long du corps du dragon, téléportation style éclair, ses orteils touchant l'eau provoquant des éclaboussures. La queue du dragon balaie horizontalement, le guerrier se penche pour esquiver, inverse sa rotation et porte un coup latéral. Suivi latéral haute vitesse ultra-grand angle 24mm, la queue du dragon bloque l'objectif, la caméra roule. Images résiduelles, éclaboussures, traînées d'éclairs.
+15-17s | Plongeon Extrême : Le guerrier saute vers un point élevé dans le canyon, rétrécit en un point blanc dans l'obscurité, puis tombe verticalement la tête en bas comme un éclair blanc visant la tête du dragon. Vue overhead verticale à 90° tombant à la même vitesse, les derniers 0.2s coupent à un angle ultra-bas près de la surface de l'eau. Sol, surface de l'eau, corps du dragon grossissant rapidement.
+17-19s | Combat Rapproché : La tête du dragon tourne pour mordre, les crocs frôlent l'objectif. Le guerrier se téléporte, porte un coup arrière tranchant le cou du dragon, le corps du dragon explose en flux d'eau puis se reforme. Grand angle extrême 14-18mm, perspective forte, la caméra traverse la bouche du dragon, vitesse réelle tout du long. Explosion de flux d'eau, gouttelettes dispersées.
+19-21.5s | Duel Enveloppant : Le dragon aquatique tourne autour du guerrier formant un énorme vortex d'eau. Le guerrier au centre de la tempête, apparaît à quatre positions portant un coup d'épée à chaque fois, quatre lumières froides blanches d'épée s'intersectent comme des motifs d'éclairs. Orbite 360° haute vitesse, hauteur changeant continuellement, montée soudaine depuis la surface de l'eau puis plongeon vertical. Vortex du dragon aquatique, motifs d'éclairs, images résiduelles.
+21.5-23.5s | Charge Frontale : Le dragon géant fonce le long de toute la longueur du canyon, sa taille remplissant l'écran. Le guerrier charge en arrière de manière explosive, distance zéro, disparaît juste avant la collision. Composition frontale ultra-basse angle, le guerrier comme une petite ombre blanche au centre. Lignes de vitesse, ondes de choc sur la surface de l'eau.
+23.5-25.5s | Coup Arrière sur la Tête du Dragon : Le guerrier se téléporte au-dessus de la tête du dragon, fait une acrobatie en l'air, saisit l'épée à deux mains et frappe vers le bas, les éclairs pénètrent tout le corps d'eau. Prise de vue extrême vers le haut directement sous la tête du dragon vers le ciel, la caméra claque verticalement vers la surface de l'eau suivant la pointe de l'épée. Pénétration d'éclairs, silhouette en contre-jour.
+25.5-27s | Explosion Ultime d'Eau : La lumière de l'épée touche l'eau, les eaux peu profondes explosent en une énorme explosion circulaire d'eau. Le corps du dragon est coupé en d'innombrables gouttelettes d'eau flottantes, brièvement figées puis toutes dispersées. Coupe instantanée à une vue aérienne extrême à 90°, contraste d'échelle. Gouttelettes flottantes, explosion d'eau annulaire.
+[Acte 3 | Retour au Silence 27-30s]
+Les gouttes d'eau retombent sur la surface de la rivière, le dragon divin se dissipe en fine brume. Le guerrier se tient au centre des eaux peu profondes, dos à la caméra, main droite naturellement abaissée, les éclairs résiduels sur la lame de l'épée s'éteignent progressivement, la robe blanche et les cheveux ondulent doucement dans le vent. Lent recul derrière le personnage, révélant les eaux vides du canyon sombre, seul le dernier ripple reste. Fine brume, ripples, éclairs s'estompant.
+[Verrouillage Forcé] Tout au long, tenir uniquement une longue épée dégainée, pas de fourreau, pas d'actions de dégainer/ranger. Maintenir la cohérence du style du guerrier en robe blanche et de l'environnement du canyon sombre. Pas de dialogue, pas de personnages supplémentaires, pas de nouvelles armes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110224806838947841/img/HEhGP4a5I8PkfJHX.jpg" width="600" alt="Scène de combat entre un épéiste en robe blanche et un dragon">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12487)**
+
+**Auteur:** [Zidan 子丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2110225020278743421) | **Publié:** Oct 14, 2026
+
+---
+### Journée épuisante d'une employée de bureau coréenne
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt détaillé pour une vidéo cinématographique de 24 secondes illustrant la routine quotidienne épuisante d'une jeune employée de bureau coréenne.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo cinématographique ultra-réaliste de 24 secondes montrant une jeune employée de bureau coréenne vivant une journée épuisante dans sa vie professionnelle. Montrez-la se brossant les dents devant le miroir de la salle de bain, se préparant pour le travail, traversant un passage piéton bondé dans une ville coréenne en costume d'affaires bleu marine, portant un sac à main noir. Puis montrez-la assise fatiguée dans un métro bondé, les yeux fermés, travaillant silencieusement à un bureau encombré entouré d'ordinateurs et de paperasse, et mangeant son déjeuner dans une cantine d'entreprise bondée avec une expression émotionnellement vidée. Capturez des gros plans de son visage épuisé, de la texture réaliste de sa peau et de la tristesse subtile dans ses yeux. Terminez par elle debout, fatiguée, dans le métro avant de passer à une scène où elle est allongée sans mouvement sur un canapé chez elle, toujours vêtue de ses vêtements de bureau et portant son badge d'employé. Maintenez des traits faciaux, une coiffure, une tenue et des proportions corporelles cohérentes tout au long de la vidéo. Utilisez des environnements coréens réalistes, un éclairage naturel, des mouvements de caméra cinématographiques fluides, des expressions faciales détaillées et une palette de couleurs atténuées pour transmettre le poids émotionnel d'une routine de travail exigeante. Rendez l'ensemble de la vidéo photoréaliste, sans texte, sous-titres ni filigranes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110206919013199872/img/s6H_5NpANuOxYO0S.jpg" width="600" alt="Journée épuisante d'une employée de bureau coréenne">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12483)**
+
+**Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2110206983999726004) | **Publié:** Oct 14, 2026
+
+---
+### Prompt Vidéo Comédie Xianxia Ancienne Seedance
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt détaillé pour la génération de vidéo avec Seedance, créant une comédie cinématographique xianxia ancienne de 30 secondes sur deux épéistes qui fuient les foules des vacances pour se retrouver confrontées aux gardes de nuit.
+
+#### 📝 Prompt
+
+```
+Comédie à Rebondissements Xianxia Ancien | Vacances de sept jours, trop de monde au pied de la montagne, obligation de faire la garde de nuit en haut
+
+I. Style Global et Direction Artistique
+
+Texture photoréaliste cinématographique, univers pur du xianxia chinois ancien, comédie à rebondissements réaliste centrée sur les relations authentiques entre les personnages.
+
+Inspirations :
+
+Humour froid et sec britannique
+Rythme de la comédie situationnelle hongkongaise
+Pauses de réaction et structure setup-punchline du cinéma muet classique
+
+Les performances des personnages sont naturelles et sobres : pas d'expressions exagérées, pas d'accumulation de magie spectaculaire, pas de scènes grandioses abruptes.
+
+Visuels comportant :
+
+Qualité optique réelle de film ancien
+Micro-détails faciaux clairs et délicats
+Grain de film naturel
+Physique des tissus réaliste
+Lumière volumétrique douce
+Couches spatiales nettes
+
+II. Intrigue Principale et Fil Conducteur Comique
+
+Le segment entier ne contient qu'une seule ligne principale comique complète de 30 secondes :
+
+La Sœur Aînée Immortelle de l'Épée et sa Jeune Sœur obtiennent enfin leurs vacances de sept jours. Elles descendent joyeusement la montagne pour trouver le calme, mais découvrent des files d'attente partout dans les sites touristiques, même les ennemis venus défier doivent faire la queue.
+
+Déçues, elles retournent tôt à leur secte, seulement pour découvrir que la secte vide est en réalité le lieu le plus silencieux ; avant qu'elles ne puissent en profiter, le Maître leur assigne la garde de nuit.
+
+Elles décident instantanément de redescendre la montagne.
+
+La chute finale vient de :
+
+Le contraste réel entre "se plaindre des foules plus tôt" et "préférer maintenant les foules à la garde de nuit".
+
+Principes Comiques
+
+Toutes les blagues sont portées par :
+
+Les choix des personnages
+Les mouvements corporels
+Les changements d'expression
+Les dialogues naturels
+Ne comptez pas sur des accidents magiques aléatoires ou sur l'environnement pour résoudre les problèmes des personnages.
+
+III. Identité des Personnages et Verrouillage des Assets
+
+Utilisez strictement @image1 et @image2 comme seuls ancres d'identité pour les deux personnages principaux.
+
+ID Personnage A | Sœur Aînée Immortelle de l'Épée
+
+Toujours la même Sœur Aînée Immortelle de l'Épée de @image1 :
+
+Femme asiatique de 25-30 ans
+Grande et mince
+Visage ovale
+Yeux amandes foncés
+Cheveux noirs longs attachés en partie, fixés avec une épingle à cheveux en jade blanc
+Porte toujours le même ensemble de Hanfu en soie blanche brodée
+Manches larges superposées
+Ceinture argentée
+Pendentif en jade
+Bottes en tissu blanc
+Tient une longue épée en argent unique
+
+ID Personnage B | Jeune Sœur
+
+Toujours la même Jeune Sœur de @image2 :
+
+Femme asiatique de 20-25 ans
+Petite stature
+Visage rond et vif
+Cheveux noirs tressés
+Porte toujours le même ensemble de Hanfu en lin vert cyan
+Ceinture sombre
+Épingle à cheveux en bois
+Chaussures noires en tissu
+Tient une épée unique en acier sombre
+
+Continuité des Personnages
+Les caractéristiques suivantes des deux personnages principaux restent stables tout au long :
+
+Structure osseuse du visage
+Traits
+Proportions du corps
+Coiffure
+Vêtements
+Armes exclusives
+
+Autres Personnages
+Même Maître âgé
+Un jeune épéiste ennemi
+Servent tous deux de rôles secondaires fonctionnels.
+
+IV. ADN Environnemental et Planification Spatiale
+
+Toutes les images de référence de fond et de localisation téléchargées lors de cette ronde déterminent conjointement le même monde visuel réel.
+
+Avant la génération, intégrez silencieusement les éléments compatibles de chaque image de référence :
+
+Terrain
+Architecture ancienne
+Matériaux de construction
+Échelle spatiale
+Végétation
+Plans d'eau
+Lumière naturelle
+Météo
+Nuages/brume
+Réflexions
+Profondeur atmosphérique
+Itinéraires de marche
+Replanifiez une disposition spatiale unique et physiquement raisonnable pour cette ronde.
+
+Continuité Géographique
+Les lieux suivants doivent appartenir au même environnement géographique continu :
+
+Porte de la Montagne
+Route de la Montagne
+Plateforme d'Observation des Pierres
+
+Principe de Fond Vivant
+Le vent naturel, le flux d'eau, les branches/feuilles, la brume fine, les réflexions et les activités des disciples ordinaires au loin persistent mais restent narrativement neutres, ne créant ni ne résolvant activement des points de trama.
+Seuls les touristes explicitement placés et les challengers en attente peuvent porter des fonctions dramatiques spécifiques.
+
+V. Structure Complète du Storyboard de 30 Secondes
+
+00:00–00:06 | Segment 1 : Enfin en congé, mais la Porte de la Montagne est bondée
+
+Plan : Plan large avançant lentement vers la Porte de la Montagne
+
+Scène & Environnement
+Lumière naturelle du matin, air de montagne clair.
+Au loin, l'eau qui coule, les branches, les manches et les cheveux longs ont tous un mouvement naturel.
+
+Actions & Dialogues des Personnages
+Le même Maître âgé annonce calmement :
+[Maître] "Aujourd'hui commencent les vacances de sept jours."
+
+Les yeux de la même Jeune Sœur s'illuminent instantanément, elle se tourne immédiatement vers la Sœur Aînée :
+[Jeune Sœur] "Sœur, allons trouver un endroit calme !"
+
+La même Sœur Aînée en robe blanche répond avec vivacité :
+[Sœur Aînée] "Allons-y."
+
+Les deux marchent rapidement vers la Porte de la Montagne avec une rare anticipation.
+
+Mouvement de Caméra
+La caméra suit régulièrement, révélant progressivement d'autres disciples anciens et cultivateurs voyageurs sortant de la porte, formant une foule naturelle et ordonnée.
+
+Rythme de Réaction
+Les deux ralentissent simultanément, échangeant simplement un léger regard, sans explication supplémentaire.
+
+00:06–00:12 | Segment 2 : La mer de nuages est belle, mais pleine de gens devant
+
+Plan : Plateforme d'observation des pierres, plans moyens et plans de réaction
+
+Design de Transition
+Utilisez les touristes passant au premier plan pour une transition d'occlusion naturelle vers la plateforme d'observation des pierres de la montagne dans le même monde de référence.
+
+Scène & Espace
+La mer de nuages lointaine et les montagnes sont véritablement magnifiques, mais il y a une file d'attente raisonnable au meilleur point de vue.
+
+Actions & Dialogues des Personnages
+La même Jeune Sœur se met légèrement sur la pointe des pieds, essayant de voir par-dessus les personnes devant, demandant confusément :
+[Jeune Sœur] "Sœur, où est la mer de nuages ?"
+
+La même Sœur Aînée regarde aussi sérieusement le début de la file, marque une pause d'un demi-temps, répondant sans changer d'expression :
+[Sœur Aînée] "Cette rangée de personnes devant bloque la vue."
+
+Réaction Comique
+La Jeune Sœur abaisse lentement ses talons, l'attente disparaissant peu à peu de son visage.
+Donnez à la caméra une pause visuelle brève suffisante pour que les spectateurs ressentent eux-mêmes le décalage.
+
+00:12–00:18 | Segment 3 : Même défier les Immortels de l'Épée nécessite de faire la queue
+
+Plan : Plan moyen à deux, panoramique latéral et révélation de l'espace
+
+Mouvement de Caméra
+La caméra panote naturellement le long de leurs côtés.
+Entrée de l'Ennemi
+Le seul jeune épéiste ennemi s'avance vers eux, dégaine solennellement son épée, criant avec un vrai esprit de défi martial :
+[Épéiste Ennemi] "Immortel de l'Épée ! Réglons cela aujourd'hui !"
+
+La même Sœur Aînée en robe blanche se redresse enfin, faisant face directement à l'adversaire, répondant :
+[Sœur Aînée] "Viens."
+
+Premier Rebondissement Comique
+Juste alors qu'ils se préparent à agir, la même Jeune Sœur lève naturellement une main entre eux :
+[Jeune Sœur] "Faites la queue d'abord."
+
+L'ennemi se fige sur place :
+[Épéiste Ennemi] "Se battre nécessite aussi de faire la queue ?"
+
+Révélation de l'Espace
+La caméra révèle simplement selon le regard de la Jeune Sœur :
+Deux autres challengers portant des épées attendent silencieusement à côté des marches en pierre.
+Un assis
+Un debout
+Tous sont dans des états anciens réalistes, sans stylisation exagérée, ne répétant pas les apparitions des protagonistes.
+
+Réaction Comique
+L'ennemi abaisse lentement sa longue épée, à court de mots pour la première fois.
+Laissez suffisamment d'espace de réaction silencieux, n'ajoutez pas de lignes supplémentaires.
+
+00:18–00:24 | Segment 4 : Retour anticipé, le silence devient punition
+
+Plan : Plan moyen de la Porte de la Montagne, plan stable de relation
+
+Design de Transition
+Utilisez la manche blanche large passante de la Sœur Aînée pour une transition d'occlusion naturelle.
+
+Temps & Scène
+Soirée du même jour.
+Elles retournent à l'exacte même architecture et terrain de la Porte de la Montagne qu'au début.
+La plupart des disciples sont descendus, la secte est exceptionnellement silencieuse, mais l'environnement n'est certainement pas un fond statique :
+Les canaux d'eau continuent de couler
+Les branches de pin oscillent au vent
+Les ombres des nuages lointains changent lentement
+
+Actions & Dialogues des Personnages
+La même Jeune Sœur s'assoit enfin confortablement sur les marches en pierre familières, se détendant et soupirant :
+[Jeune Sœur] "Il fait encore plus calme à la Porte de la Montagne."
+
+La même Sœur Aînée se tient à proximité, se détendant vraiment pour la première fois.
+Préservez entièrement environ une demi-seconde de pause émotionnelle calme et confortable.
+
+Second Rebondissement Comique
+Le même Maître âgé s'approche naturellement par derrière, tenant un rouleau de texte illisible (liste de service normale), disant négligemment :
+[Maître] "Alors vous deux faites la garde de nuit ce soir."
+
+Focus Performance
+La Sœur Aînée et la Jeune Sœur tournent presque simultanément la tête lentement pour regarder le Maître, puis échangent des regards.
+Pas d'yeux écarquillés exagérés.
+Pas d'explosions d'effets sonores.
+Utilisez uniquement les expressions complexes de deux adultes réalisant soudainement qu'elles ont mal parlé pour créer le rebondissement.
+
+00:24–00:30 | Segment 5 : Préfèrent continuer à faire la queue plutôt que de garder la nuit
+
+Plan : Suivi moyen stable, finissant sur la réaction du Maître
+
+Actions des Personnages
+La Sœur Aînée et la Jeune Sœur n'ont pas besoin de discuter, presque simultanément :
+Se lèvent
+Réajustent les épées et les vêtements à la taille
+Marchent rapidement vers l'extérieur de la Porte de la Montagne
+
+Dialogues
+Le même Maître les regarde perplexe :
+[Maître] "N'avez-vous pas plaint les foules en bas ?"
+
+La même Jeune Sœur ne se retourne pas, répondant tout en marchant :
+[Jeune Sœur] "Bondé c'est bondé, mais pas de garde de nuit nécessaire."
+
+La même Sœur Aînée en robe blanche ajoute très sérieusement :
+[Sœur Aînée] "Dépêchez-vous, les chambres d'auberge seront pleines."
+
+Mouvement Final de Caméra
+La caméra ne poursuit pas les deux, mais reste naturellement sur le Maître.
+Laissez les dos s'éloignant de plus en plus vite des deux au loin former un contraste visuel avec la réaction silencieuse du Maître au premier plan.
+
+Atterrissage Comique Final
+Le Maître réalise enfin qu'il a personnellement renvoyé deux disciples qui se plaignaient des foules directement dans la foule.
+Il laisse échapper juste un léger soupir.
+Terminez précisément sur cette réaction complètement impuissante mais très réelle.
+
+VI. Exigences Narratives et de Montage Globales
+
+Durée totale stricte de 30 secondes
+Format paysage 16:9
+Cinq segments cinématographiques rythmiquement clairs et causalement continus
+Tous les lieux appartiennent à un espace géographique complet direct
+Compléter directement une narration audiovisuelle complète
+
+Principes de Coupe
+Les changements de caméra ne sont complétés naturellement que par :
+Mouvement des personnages
+Occlusion au premier plan
+Relations de regard
+Continuité directionnelle
+Ne faites pas
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110182087324254208/img/MR9I6jSjF-0t_RNb.jpg" width="600" alt="Prompt Vidéo Comédie Xianxia Ancienne Seedance">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12488)**
+
+**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2110182891452010713) | **Publié:** Oct 14, 2026
+
+---
+### Design de sol en résine époxy avec portes de voiture
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt créatif pour l'installation d'un sol transformant des portes de voitures rouillées en un design de sol vibrant.
+
+#### 📝 Prompt
+
+```
+Vidéo verticale photoréaliste au format 9:16, plan fixe large depuis le coin d'une chambre blanche vide avec une grande fenêtre sur le mur droit, lumière naturelle vive, sol en béton brut. Un ouvrier barbu portant une salopette bleu marine et des gants noirs utilise un râteau à long manche pour étaler un grand tas de vieilles portes de voitures rouillées sur le sol, les aplatissant en une grille ordonnée couvrant toute la pièce, mouvement accéléré (timelapse). Ensuite, une femme avec une queue de cheval, vêtue d'une salopette rouge, verse une résine époxy auto-nivelante épaisse et blanc laiteux depuis un seau sur les portes de voitures rouillées ; le liquide s'étale, submergeant les portes jusqu'à ce que tout le sol devienne une surface blanche brillante avec de faibles silhouettes de portes de voitures visibles en dessous. Puis, un homme dans un gilet jaune haute visibilité pousse une polisseuse rotative de sol avec un tuyau d'aspiration, ponçant l'époxy durci jusqu'à ce que les portes de voitures rouillées intégrées deviennent un motif décoratif en relief lisse dans un sol blanc miroir brillant. Enfin, deux ouvriers en uniformes noirs avec des gants roses apportent un cadre de lit en métal noir, placent un matelas et habillent le lit avec une couette grise et des oreillers. Chambre minimaliste finie avec un sol designer de portes de voitures vintage encapsulées sous une résine transparente brillante. Timelapse de rénovation satisfaisant, éclairage constant, caméra stable, prise continue sans couture, haute définition, pas de texte, pas de filigrane.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110044612379242496/img/wJMIB2YQGZFr9b7E.jpg" width="600" alt="Design de sol en résine époxy avec portes de voiture">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12486)**
+
+**Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2110044654083162342) | **Publié:** Oct 13, 2026
+
+---
+### Vidéo Lifestyle de la Vie Nocturne à Tokyo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour créer une vidéo lifestyle cinématographique hyper-réaliste de 15 secondes, mettant en scène une femme se promenant dans les rues de Tokyo, le passage piéton de Shibuya et les ruelles néon.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo lifestyle cinématographique hyper-réaliste de 15 secondes en utilisant la femme de référence comme identité exacte tout au long du clip.
+
+Elle est belle avec des traits de mannequin dans chaque scène. Préservez son visage, ses longs cheveux foncés, son teint, ses proportions corporelles et son identité de manière cohérente. Texture de peau naturelle, mouvement réaliste, pas de morphing, aucun texte à l'écran, et elle ne parle jamais.
+
+Habillez-la avec la tenue de son image de référence, de manière cohérente pour toute la vidéo.
+
+Utilisez notre structure de scènes à coupe rapide habituelle : scènes propres de 0,8 à 1,8 seconde, mouvements de caméra dynamiques, finition visuelle soignée et changements de lieu clairs. Gardez les actions simples et faciles à suivre pour le modèle. Le ton est stylé, décontracté et urbain.
+
+Scène 1 — 0:00–0:01.8 Passage piéton de Shibuya. Elle marche avec assurance à travers la foule. La caméra recule devant elle.
+
+Scène 2 — 0:01.8–0:03.2 Portrait intime serré dans une rue latérale de Tokyo. Visage, cou, épaules. Mouvement latéral lent de la caméra. Elle regarde directement l'objectif.
+
+Scène 3 — 0:03.2–0:04.8 Harajuku ou Cat Street. Plan de suivi latéral alors qu'elle passe devant les vitrines et les piétons.
+
+Scène 4 — 0:04.8–0:06.2 Elle s'arrête devant une distributeur automatique lumineux et prend une boisson. Plan rapproché moyen propre. Léger zoom avant.
+
+Scène 5 — 0:06.2–0:07.8 Quai de gare à Tokyo. Elle attend debout tandis que le train arrive derrière elle. La caméra effectue un mouvement latéral.
+
+Scène 6 — 0:07.8–0:09.3 Ruelle étroite aux néons ou allée tranquille éclairée par des lanternes. Plan de suivi arrière alors qu'elle marche, puis jette un coup d'œil en arrière légèrement.
+
+Scène 7 — 0:09.3–0:10.8 Petit bar à ramen ou moment devant la fenêtre d'un café. Elle se tourne légèrement, expression douce et naturelle, faible profondeur de champ.
+
+Scène 8 — 0:10.8–0:15.0 — HÉROÏNE Toit ou terrasse surélevée avec la skyline de Tokyo derrière elle à l'heure bleue. Commencez derrière son épaule, puis orbitez doucement vers un plan héroïque taille haute. Elle regarde directement la caméra pour le dernier moment, calme, confiante et frappante.
+
+SON : Minimaliste et naturel. Ambiance des rues de Tokyo, mouvement doux de la foule, trafic lointain, sons des feux de circulation, pas légers, bourdonnement du distributeur automatique, bruit d'arrivée du train, air subtil de la ville, ambiance tranquille du restaurant. Pas de dialogue. Pas de paroles de musique.
+
+Gardez Tokyo visuellement reconnaissable mais élégant. Pas de transitions déroutantes, pas de complexité supplémentaire et pas d'instabilité.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110001684160167936/img/Qvh3eZRr7m24EnuP.jpg" width="600" alt="Vidéo Lifestyle de la Vie Nocturne à Tokyo">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12480)**
+
+**Auteur:** [Promethean](https://x.com/PrometheanAIX) | **Source:** [Link](https://x.com/PrometheanAIX/status/2110002369354178965) | **Publié:** Oct 13, 2026
+
+---
+### Vidéo de Rénovation de Sol en Époxy avec Carapaces de Tortue
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une vidéo de rénovation surréaliste où des ouvriers installent un sol en résine époxy intégrant des carapaces de tortues. La séquence comprend le rassemblement de tortues vivantes en rangées, le coulage de résine blanche par-dessus, le ponçage et le polissage pour révéler les motifs des carapaces, puis l'assemblage d'un lit par-dessus. Idéal pour créer du contenu visuel ASMR étrangement satisfaisant.
+
+#### 📝 Prompt
+
+```
+Vidéo de rénovation surréaliste photoréaliste, format vertical 9:16, une pièce vide unique aux murs blancs et à la grande fenêtre lumineuse, lumière naturelle du jour, plan large fixe, caméra fluide.
+
+Scène 1 (0-4s) : un homme portant une salopette en denim bleu et un t-shirt gris utilise un long râteau pour étaler un énorme tas de tortues vivantes sur le sol brut en béton, les alignant en rangées parallèles nettes qui couvrent toute la pièce.
+
+Scène 2 (4-8s) : une femme en salopette rouge verse une épaisse résine époxy blanche autonivelante depuis un seau en plastique sur les rangées de tortues ; le liquide brillant s'écoule, se nivelle seul et recouvre complètement les carapaces.
+
+Scène 3 (8-16s) : l'homme opère une lourde machine de meulage et de polissage de sol, ponce la résine blanche durcie ; la poussière s'élève, et le polissage révèle progressivement les carapaces de tortue intégrées dans le sol, transformant le tout en un sol époxy décoratif et brillant avec motif de carapace de tortue.
+
+Scène 4 (16-24s) : deux ouvriers en t-shirts noirs apportent un cadre de lit en bois, placent un matelas blanc, des oreillers et une literie beige, assemblant le lit par-dessus le sol époxy à carapaces de tortue.
+
+Plan final : chambre à coucher finie et confortable, sol brillant de style terrazzo fait de carapaces de tortue intégrées reflétant la lumière de la fenêtre. Détails hyper-réalistes, style ASMR étrangement satisfaisant, sans texte.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109958755173425153/img/FCKZiXsGkdEJncn9.jpg" width="600" alt="Vidéo de Rénovation de Sol en Époxy avec Carapaces de Tortue">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12477)**
+
+**Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2109958787373125663) | **Publié:** Oct 13, 2026
+
+---
+### Vidéo de Mode Gothique pour Halloween
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour créer une vidéo de mode fantaisie cinématographique d'Halloween mettant en scène une femme dans une haute couture gothique avec des éléments magiques.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo de mode fantaisie ultra-réaliste et cinématographique sur le thème d'Halloween, au format vertical 9:16. Elle met en scène une belle femme adulte aux longs cheveux auburn ondulés, ornés d'une couronne élaborée composée de roses rouges, de soucis orange, de mini-citrouilles, de dentelle noire et d'ornements gothiques suspendus. Elle porte une robe extravagante de haute couture gothique noir et orange, dotée de dentelles complexes, de broderies florales, d'embellissements en forme de citrouille et de bijoux délicats. Elle est assise élégamment dans un jardin magique d'Halloween, entourée de bougies lumineuses, de jack-o'-lanterns sculptés, de fleurs d'automne et d'une grande pleine lune lumineuse en arrière-plan. Un panier débordant de petites citrouilles, de bonbons d'Halloween et de décorations fantômes adorables repose sur ses genoux. Elle pose doucement sa joue sur sa main, sourit chaleureusement à la caméra, incline la tête et interagit gracieusement avec les décorations tout en maintenant des expressions faciales naturelles et des mouvements fluides. Des papillons dorés lumineux et des lucioles magiques volètent autour d'elle, créant des traînées scintillantes de lumière, tandis qu'un petit chat noir est assis à côté d'elle. Utilisez une lumière chaude de bougie ambre, des tons riches en orange brûlé et en cramoisi, un éclairage cinématographique doux, une faible profondeur de champ, des textures de peau très détaillées, un mouvement réaliste des tissus, des transitions de caméra fluides, des effets subtils de ralenti et une photographie éditoriale luxueuse de fantaisie. L'atmosphère doit être envoûtante, romantique, mystérieuse et capricieuse, avec un détail exceptionnel, une qualité photoréaliste 4K et une esthétique soignée de film de mode d'Halloween.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109922320395423744/img/VBXgQbfrVo5AiCQY.jpg" width="600" alt="Vidéo de Mode Gothique pour Halloween">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12485)**
+
+**Auteur:** [Letty](https://x.com/LettyVesper) | **Source:** [Link](https://x.com/LettyVesper/status/2109923048434348416) | **Publié:** Oct 13, 2026
+
+---
+### Moment de Studio : Danseuse Blessée
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt détaillé pour une vidéo cinématographique d'une jeune danseuse coréenne se reposant après l'entraînement, mettant en évidence la blessure et l'émotion.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo cinématographique ultra-réaliste de 30 secondes mettant en scène une belle jeune femme coréenne dans un studio de danse spacieux et moderne, doté d'un sol en bois lisse, de grands miroirs et d'un éclairage intérieur doux. Au début, montrez plusieurs danseuses s'entraînant à l'arrière-plan tandis que la caméra capture les pieds nus de la jeune fille et son pantalon noir ample alors qu'elle traverse le sol du studio. Elle porte un haut noir ajusté à manches longues et un pantalon noir ample, ses cheveux foncés sont attachés négligemment avec quelques mèches tombant naturellement sur son visage. À mesure que la vidéo progresse, elle semble fatiguée et émotionnellement submergée après l'entraînement, s'asseyant lentement contre un mur gris clair du studio, les genoux repliés contre sa poitrine. Elle tient doucement sa cheville blessée, enveloppée dans un bandage de couleur claire, et regarde vers le bas avec une expression silencieuse et triste. D'autres danseuses continuent de s'entraîner à l'arrière-plan, créant un contraste réaliste entre le studio animé et son moment de solitude. Utilisez un mélange de plans larges, de plans moyens et de gros plans intimes de son visage, de ses mains et de sa cheville bandée. Ses mouvements doivent paraître subtils, naturels et émotionnellement crédibles, avec une texture de peau réaliste, des détails faciaux délicats et une apparence de personnage cohérente tout au long de la vidéo. Utilisez un éclairage cinématographique doux, des couleurs neutres atténuées, une faible profondeur de champ, des mouvements de caméra fluides et une esthétique professionnelle de drama coréen. Maintenez un aspect photoréaliste, des proportions corporelles naturelles, des détails réalistes du studio et des visuels de haute qualité en 1080p au format vertical 9:16 (note : le texte source indique 'vertical 16:9', ce qui est techniquement contradictoire ; pour un format vertical standard, utilisez 9:16, ou conservez 'format vertical' si l'aspect ratio exact n'est pas critique). Évitez les expressions exagérées, la peau artificielle, les mains déformées, les doigts supplémentaires, le scintillement et tout texte ou filigrane indésirable.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109876396952784896/img/U08ae2rw0nJjeYWO.jpg" width="600" alt="Moment de Studio : Danseuse Blessée">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12484)**
+
+**Auteur:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2109876446089134244) | **Publié:** Oct 13, 2026
+
+---
+### Scène nocturne de ramen dans un convenience store coréen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt pour générer une vidéo cinématique de 30 secondes montrant trois femmes coréennes dégustant des ramens instantanés dans un convenience store, avec textures de peau réalistes, streetwear décontracté et ambiance nocturne mélancolique.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo de 30 secondes : De belles jeunes femmes coréennes profitent d'une pause ramen tardive dans un convenience store coréen. Trois jeunes femmes coréennes stylées, dotées d'une beauté naturelle coréenne, d'une texture de peau réaliste, de yeux expressifs foncés et vêtues de streetwear décontracté, se rassemblent autour du comptoir à ramens sous l'éclairage fluorescent vif. L'une porte une veste sportive bleue et noire avec un pantalon de survêtement marine ample, la seconde a les cheveux courts gris argenté et une veste noire, et la troisième arbore une tenue casual sombre avec des cheveux noirs raides. Elles préparent des ramens instantanés, tiennent du lait au chocolat et des snacks, et partagent un repas détendu en fin de soirée. Montrez des gros plans cinématiques de gobelets de ramen fumants, de baguettes soulevant les nouilles, d'une jeune femme soufflant doucement sur les nouilles chaudes avant de manger, et d'amies savourant leur repas tout en discutant naturellement. Transition vers un plan plus large des filles assises à une petite table ronde près de la vitrine du convenience store, avec les lumières de la ville brillant à l'extérieur et des reflets sur le verre. Vers la fin, une jeune femme se lève, ajuste son sac à dos et se dirige vers l'entrée en verre tandis que les autres restent assises. Capturez l'authentique culture des convenience stores coréens, des moments d'amitié spontanés, des expressions faciales subtiles, des mouvements naturels, des textures alimentaires réalistes et de la vapeur, un mouvement de caméra à main levée, une faible profondeur de champ, un étalonnage colorimétrique cinématique bleu froid, des reflets doux, une atmosphère nocturne mélancolique, une cinématographie live-action ultra-réaliste, des personnages cohérents, des textures de vêtements détaillées, des transitions fluides, format vertical 9:16, qualité 4K, sans sous-titres, sans texte, sans filigrane.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109852123366297600/img/HkCxcaBcWv0hhLJg.jpg" width="600" alt="Scène nocturne de ramen dans un convenience store coréen">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12481)**
+
+**Auteur:** [Ayat](https://x.com/aiwithaayat) | **Source:** [Link](https://x.com/aiwithaayat/status/2109852187186827283) | **Publié:** Oct 13, 2026
+
+---
+### Réflexion dans la fenêtre du métro : Micro MV K-Pop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de mouvement détaillé pour Seedance 2.0 Fast, destiné à générer une scène photoréaliste d'un micro clip vidéo K-pop où une interprète observe son reflet dans la fenêtre d'un métro, capturant une romance urbaine nocturne intime et des effets de lumière spécifiques.
+
+#### 📝 Prompt
+
+```
+Narration cinématographique photoréaliste, micro clip vidéo K-pop, format vertical 9:16, identité(s) fictive(s) adulte(s) et tenue(s) strictement identiques à l'image de départ. Mouvements humains naturels et anatomie stable, environnement réel photographié, sans texte, sans logos, sans nouvelles personnes, sans chant ni synchronisation labiale. MAGNETAR. Basé sur les paroles « Mon visage reflété dans la fenêtre du métro / un peu plus audacieux que d'habitude ». Commencer avec la même Lea portant une veste en cuir rouge cerise dans le métro de nuit. 0-4s : plan moyen avec un reflet unique dans la fenêtre physiquement précis : les lumières du tunnel défilent, elle étudie son visage, respiration lente et épaules se redressant avec résolution. 4-7s : elle baisse les yeux vers son téléphone, effectue une seule pression décisive comme si elle choisissait de faire le premier pas ; son expression devient discrètement courageuse. 7-10s : la caméra s'arc-boute subtilement vers un gros plan trois-quarts frontal, elle relève le regard vers les portes du train et offre un petit sourire confiant. Maintenir le reflet synchronisé, préserver les cheveux roses et le visage exact, sans flou rapide ni personne dupliquée. Romance urbaine nocturne intime avec un éclairage acier froid/rouge.
+Paramètres : Seedance 2.0 Fast / 720p / 9:16 / source de 10 secondes / audio généré désactivé. Piste Suno originale ajoutée via FFmpeg.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109757910226255872/img/d5uON0jYhMBaPmsJ.jpg" width="600" alt="Réflexion dans la fenêtre du métro : Micro MV K-Pop">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12482)**
+
+**Auteur:** [🇰🇷Dave_Joe_9377🇦🇺](https://x.com/Dave_Joe_9377) | **Source:** [Link](https://x.com/Dave_Joe_9377/status/2109758263797727608) | **Publié:** Oct 12, 2026
+
+---
 ### Interruption Comique du Couronnement Médiéval
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5125,837 +5713,6 @@ Créez une séquence d'action cinématographique ultra-réaliste de 31 secondes 
 **Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2104390191352103147) | **Publié:** Sep 28, 2026
 
 ---
-### Prompt d'événement mondial : Le retour des objets perdus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt poétique et descriptif pour Seedance 2.0 Mini, illustrant un événement mondial où les objets, animaux et lettres perdus reviennent sur Terre, créant des scènes de merveille et de retrouvailles.
-
-#### 📝 Prompt
-
-```
-À travers la Terre, quelque chose d'impossible commence à se produire.
-Tout ce qui a été perdu revient.
-Un jouet oublié sort de l'océan. Des navires anciens émergent d'un brouillard lumineux. Des animaux disparus apparaissent à l'horizon lointain. Des millions de lettres perdues descendent doucement du ciel.
-Les gens s'arrêtent.
-Des foules se rassemblent.
-Des villes entières observent le déroulement de retrouvailles impossibles.
-Un enfant voit son animal de compagnie bien-aimé courir vers lui. Des trésors longtemps perdus émergent des déserts. Des forêts anciennes réapparaissent là où ne se trouvait que terre nue.
-Le phénomène s'étend à la planète entière.
-De plus en plus de choses reviennent.
-L'ampleur devient gigantesque.
-Le ciel se remplit d'inventions perdues. D'histoires perdues. De possibilités perdues.
-L'humanité observe ensemble.
-Un monde qui renoue avec tout ce qu'il croyait perdu à jamais.
-Fantaisie scientifique majestueuse, narration émotionnelle, événement mondial massif, visuels à couper le souffle, émerveillement, espoir, cinématographie spectaculaire, mouvement dynamique, environnements photoréalistes, échelle épique, chef-d'œuvre, 16:9.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104037560196435968/img/MimcVdt7eNrPmpOt.jpg" width="600" alt="Prompt d'événement mondial : Le retour des objets perdus">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11482)**
-
-**Auteur:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2104264808119816501) | **Publié:** Sep 27, 2026
-
----
-### Vidéo Anime : Arrêt de Bus sous la Pluie Nocturne
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt détaillé pour générer une vidéo de haute qualité au style anime japonais, mettant en scène une fille dirigeant la pluie à un arrêt de bus, avec des instructions spécifiques sur les mouvements de caméra et les effets visuels.
-
-#### 📝 Prompt
-
-```
-Règles :
-- Qualité théâtrale d'anime à budget modeste, rendu 3DCG mat haut de gamme façon figurines japonaises
-- Multi-plans
-- Coupes rapides, nombreuses images par seconde. Priorité à la vitesse et à l'impact
-- Effets spéciaux (VFX) de niveau professionnel
-- Changer le cadrage à chaque plan (pas de répétition du même mouvement)
-- Pas de musique de fond ; uniquement sons ambiants/effets sonores
-- Pas de sous-titres
-- Tous les dialogues en japonais
-- Rythme : Prendre le temps de montrer le jeu silencieux, accélérer lors des moments forts
-- La pluie est fine, rapide, réaliste. Représentation physiquement précise des éclaboussures au sol, des reflets lumineux sur le pavé mouillé, du poids des cheveux et des vêtements mouillés
-- Pluie nocturne. Refléter les couleurs chaudes des lampadaires et des néons sur le pavé mouillé ; ne pas laisser l'écran sombrer dans le gris
-- Garder le protagoniste grand dans le cadre ; visage et tenue clairement visibles. Ne pas les rendre minuscules dans les plans larges
-- Pas de texte, logos ou chiffres à l'écran
-
-@ Image1 : Sujet - Akane
-
-[Cohérence] Maintenir le visage d'Akane, ses cheveux longs passant de l'orange saumon aux pointes argentées, ses ornements de cheveux ronds rouges et blancs, ainsi que son long manteau rouge avec boutons ronds et motifs circulaires blancs tout au long de la séquence. Une seule Akane. Le parapluie rouge appartient à Akane.
-[Objectif de génération] Orchestre des Sons de la Pluie
-(5 étapes, 1 vidéo continue. De l'arrêt de bus pluvieux nocturne à la direction de la pluie à travers la ville)
-[S1] Arrêt de bus sous la pluie nocturne. Au moment où une goutte de pluie frappe le bouton rond du manteau d'Akane @ Image1, une note de piano 'Poon' retentit, et un anneau de lumière s'étend depuis le bouton.
-Caméra : Gros plan extrême sur le bouton. Capturer l'instant précis où la goutte de pluie frappe.
-[S2] Akane, assise seule avec un air ennuyé sur un banc, relève soudainement la tête. Un nouveau claquement du bouton produit un autre son. Akane sourit d'un air espiègle.
-Caméra : Vue frontale de l'arrêt de bus, plan moyen.
-[S3] Akane se lève et agite son parapluie rouge fermé comme une baguette de chef d'orchestre. La pluie tombant sur le toit en tôle devient percussions, les gouttières deviennent xylophones, les flaques deviennent cymbales ; chaque impact de goutte crée des gouttelettes lumineuses colorées.
-Caméra : Coupes rapides zoomant successivement sur le toit, la gouttière, la flaque.
-[S4] La direction s'intensifie, la pluie dans toute la rue brille de lumière, transformant la ville grise nocturne en une pluie colorée scintillante. Les longs cheveux d'Akane ondulent de l'orange à l'argenté.
-Caméra : Orbite autour d'Akane tout en montant.
-[S5] Avec le dernier geste, toutes les gouttes de pluie s'arrêtent en plein vol, flottant comme des notes de musique lumineuses. Akane abaisse son parapluie et fait une révérence ; la pluie suspendue retombe d'un coup, créant un bruit d'applaudissements semblable à la pluie.
-Caméra : Vue frontale d'Akane faisant la révérence, plan buste à travers les gouttes lumineuses.
-Akane (timidement) dit : {J'aime bien les jours de pluie}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104213313538441216/img/k4CufaxoI980Qy4V.jpg" width="600" alt="Vidéo Anime : Arrêt de Bus sous la Pluie Nocturne">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11486)**
-
-**Auteur:** [妖精アーヤ](https://x.com/aiehon_aya) | **Source:** [Link](https://x.com/aiehon_aya/status/2104214870300529025) | **Publié:** Sep 27, 2026
-
----
-### Loyauté vs Obéissance dans le Xianxia
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt vidéo cinématographique pour Seedance 2.0 Mini explorant la distinction entre loyauté et obéissance dans un cadre fantastique, mettant en scène une scène dramatique de prestation de serment avec des dialogues nuancés.
-
-#### 📝 Prompt
-
-```
-Texture réaliste cinématographique, esthétique pure du Xianxia chinois ancien.
-Accent mis sur le conflit conceptuel mature, l'interprétation sobre des personnages d'arts martiaux et les dialogues dignes d'un scénariste vétéran, guidés par le sous-texte, les silences et les renversements.
-Adopter la texture caméra Arri Alexa, un éclairage volumétrique naturel et un grain de film délicat.
-Ce renversement central tourne autour de la distinction entre « loyauté » et « obéissance » :
-Tous pensaient que la sœur aînée immortelle de l'épée exigerait une loyauté inconditionnelle de la part de la jeune sœur.
-Le véritable renversement est qu'elle enseigne activement à la jeune sœur :
-La vraie loyauté n'est pas toujours lui obéir, mais avoir le courage de dégainer une épée et de l'arrêter quand elle se trompe.
-Utiliser strictement @Image 1 et @Image 2 comme ancres d'identité des personnages.
-Toutes les images de référence d'arrière-plan et de lieu téléchargées lors de cette session déterminent conjointement le même ADN environnemental.
-Avant la composition formelle, reconstruire silencieusement un terrain réel compatible, le langage architectural, l'âge des matériaux, la végétation, les plans d'eau, la météo, la brume de montagne, les reflets, la direction de la lumière principale et la profondeur atmosphérique, formant ainsi un nouvel emplacement unique, complet et unifié pour cette session.
-L'arrière-plan reste persistamment vivant mais absolument neutre narrativement.
-Paramètres des Personnages
-Identifiant Personnage A
-Toujours la même Sœur Aînée Immortelle de l'Épée (@Image 1) :
-Femme asiatique de 25-30 ans
-Visage ovale au teint clair
-Yeux amandes foncés
-Cheveux noirs longs mi-attachés, fixés avec une épingle à cheveux en jade blanc
-Silhouette grande et élancée
-Portant le même ensemble de Hanfu en soie blanche brodée
-Ceinture de taille argentée
-Pendentif en jade
-Bottes en tissu blanc
-Tenant une longue épée en argent simple
-Identifiant Personnage B
-Toujours la même Jeune Sœur Immortelle de l'Épée (@Image 2) :
-Femme asiatique de 20-25 ans
-Visage rond et animé
-Cheveux noirs tressés
-Silhouette petite
-Portant le même ensemble de Hanfu en lin vert
-Ceinture sombre
-Épingle à cheveux en bois
-Chaussures en tissu noir
-Tenant une épée en acier sombre simple
-Autres Personnages Secondaires
-Les personnages suivants existent uniquement comme témoins secondaires :
-Un maître âgé
-Deux disciples de secte
-Plusieurs spectateurs
-Un commandant ennemi capturé
-Structure des Segments
-0-5s | Plan Large ou Long
-Établir clairement le site de prestation de serment, les relations entre les personnages et l'ordre spatial.
-Un maître âgé préside une prestation de serment formelle.
-Il dit solennellement :
-« Prêtez serment — ne désobéissez jamais aux ordres de votre sœur aînée dans cette vie. »
-La jeune sœur se prépare à genoux.
-La même immortelle de l'épée en robe blanche intervient soudainement :
-« Supprimez cette ligne. »
-La première moitié de ce segment doit rapidement former un accroche, faisant croire aux spectateurs qu'elle va proposer des exigences de loyauté plus strictes, mais elle nie plutôt ce serment.
-5-10s | Plan Moyen ou Plan Américain
-Maintenir les mêmes deux femmes, les mêmes costumes, les mêmes épées et un espace géographique complètement cohérent.
-Le maître demande clairement confus :
-« Avez-vous peur qu'elle ne soit pas loyale ? »
-La sœur aînée répond calmement :
-« J'ai peur qu'elle soit trop loyale. »
-L'ensemble du lieu devient instantanément silencieux.
-En arrière-plan à faible profondeur de champ, le sourire moqueur initial du même commandant ennemi disparaît également légèrement.
-La sœur aînée se tourne vraiment vers la jeune sœur, demandant seulement :
-« Si un jour, j'ai tort ? »
-La jeune sœur se fige complètement pour la première fois.
-Le vent, l'eau, la brume de montagne, les manches, les cheveux et les figures lointaines en arrière-plan continuent leur mouvement naturel mais ne participent absolument pas à ce choix.
-10-15s | Gros Plan ou Très Gros Plan
-La même jeune sœur ne continue pas à genoux, mais se redresse lentement.
-Elle ne dégage que la moitié de son épée en acier sombre, utilisant la lame non entièrement rentrée pour bloquer horizontalement devant la sœur aînée, formant une barrière claire sans intention meurtrière, disant :
-« Je vous arrête d'abord. »
-La sœur aînée la regarde, demandant :
-« Et si vous ne pouvez pas m'arrêter ? »
-Pause complète d'un demi-temps.
-La jeune sœur relève enfin vraiment les yeux pour croiser son regard, répondant :
-« Alors je vous vaincrai. »
-Très gros plan :
-L'expression initialement sérieuse et retenue de la même immortelle de l'épée révèle finalement un sourire extrêmement léger, véritablement approbateur.
-Elle utilise seulement deux doigts pour repousser doucement la lame qui bloque devant elle, disant :
-« Cela ressemble davantage à ma jeune sœur. »
-En arrière-plan à faible profondeur de champ :
-Le même maître âgé complètement silencieux
-Le même commandant ennemi baisse lentement le regard
-La jeune sœur ne finit pas par se remettre à genoux
-Exigences Strictes
-Durée totale stricte de 15 secondes
-Format paysage 16:9
-Strictement trois plans continus clairs
-Dialogue mandarin natif synchronisé
-Synchronisation labiale précise et relations de regard
-L'identité des personnages, la coiffure, les costumes, les épées, les positions des rôles secondaires et l'espace géographique restent stables tout au long
-Les micro-expressions des personnages doivent être sobres et réalistes
-Les actions de dégagement à moitié et de blocage horizontal doivent être simples, claires et lisibles
-Physique naturelle pour la soie, l'épée longue en métal et les cheveux
-Parallaxe réelle et son ambiant spatial synchronisé maintenus entre premier plan, plan médian et arrière-plan
-Aucun sous-titre généré
-Focus d'Exécution Seedance 2.0 Mini
-Pour Seedance 2.0 Mini, souligner :
-La cohérence des personnages de référence
-La hiérarchie visuelle parmi plusieurs personnages
-Peu de nœuds d'action mais précis
-Continuité de la caméra
-Continuité de la lumière et de l'ombre
-Continuité de l'état de l'épée
-Synchronisation audio-visuelle précise du dialogue, du bruit de dégagement de l'épée, du frottement du fourreau, des sons du tissu et des sons environnementaux
-Négatif
-flou, mauvaise qualité, basse qualité, basse résolution, bruit, artefacts jpeg, filigrane, texte, erreur ; déformé, muté, anatomie incorrecte, mains mal dessinées, mauvaise composition, hors cadre, disgracieux ; personnage incohérent, vêtements changeants, morphing facial, décalage d'arrière-plan, coupures glitchées, accessoires disparaissant
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104199580409872384/img/3ZpBMsEtwwA_tVQd.jpg" width="600" alt="Loyauté vs Obéissance dans le Xianxia">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11485)**
-
-**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2104200419463606371) | **Publié:** Sep 27, 2026
-
----
-### Drame moral des épéistes Xianxia
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt vidéo cinématographique pour Seedance 2.0 Mini mettant en scène deux épéistes dans un cadre fantastique, explorant les thèmes de l'honnêteté et de la force collective à travers le dialogue et un jeu d'acteur subtil.
-
-#### 📝 Prompt
-
-```
-Texture réaliste cinématographique, esthétique pure du Xianxia chinois ancien.
-Focus principal sur la pression institutionnelle mature, une puissance émotionnelle contenue mais continuellement tendue, et des dialogues dignes d'un scénariste vétéran tournant autour des thèmes suivants :
-L'exigence d'agir uniformément comme si tout allait bien
-La possibilité de reconnaître l'épuisement
-Si l'honnêteté affaiblit ou renforce un collectif
-Adoptez la texture caméra Arri Alexa, des micro-détails faciaux nets et stables, un grain de film délicat, un éclairage volumétrique naturel et un blocage clair et simple des personnages de haut niveau.
-Utilisez strictement @Image 1 et @Image 2 comme ancres d'identité des personnages.
-Réassemblez silencieusement toutes les nouvelles images de référence d'arrière-plan et de lieu en un nouveau DNA environnemental unifié : mélangez naturellement des terrains réels compatibles, le langage architectural ancien, l'échelle spatiale, les matériaux usés, la végétation, les plans d'eau, la brume montagneuse errante, les nuages se déplaçant lentement, les reflets, la direction principale de la lumière et la profondeur atmosphérique ; l'environnement entier reste persistamment vivant mais absolument neutre narrativement.
-Paramètres des Personnages
-ID Personnage A
-Toujours la même @Image 1 Sœur Aînée Immortelle Épéiste :
-Femme est-asiatique de 25-30 ans
-Visage ovale et clair
-Yeux amandes foncés
-Cheveux noirs longs mi-attachés, fixés avec une épingle à cheveux en jade blanc
-Silhouette grande et élancée
-Portant le même ensemble de Hanfu en soie blanche brodée
-Manches larges superposées semi-transparentes
-Ceinture en argent
-Pendentif en jade
-Bottes en tissu blanc
-Tenant une seule longue épée en argent
-ID Personnage B
-Toujours la même @Image 2 Sœur Cadette Immortelle Épéiste :
-Femme est-asiatique de 20-25 ans
-Visage rond et vif
-Cheveux noirs tressés
-Petite silhouette
-Portant le même ensemble de Hanfu en lin vert
-Ceinture sombre
-Épingle à cheveux en bois
-Chaussures en tissu noir
-Tenant une seule épée en acier sombre
-Autres Personnages Secondaires
-Les personnages suivants existent uniquement comme témoins secondaires :
-Un maître âgé
-Un médecin
-Plusieurs disciples visiblement épuisés après une grande bataille
-Un envoyé ennemi
-Structure des Segments
-0-5s | Plan Large ou Long
-Établissez clairement la relation entre les personnages et l'environnement.
-Le maître ordonne publiquement :
-« Signalez vos blessures, quatre mots uniformes — Aucun obstacle, prêts au combat. »
-Les disciples environnants répondent en chœur comme s'ils étaient habitués :
-« Aucun obstacle, prêts au combat. »
-La même sœur cadette ne prend pas la parole.
-Après une pause complète d'un demi-temps, elle dit sous le regard de tous :
-« Cette disciple a un obstacle. »
-Dans les 3 premières secondes, formez immédiatement un crochet, faisant croire aux spectateurs qu'elle va montrer sa faiblesse publiquement devant l'envoyé ennemi.
-5-10s | Plan Moyen ou Plan Américain
-Maintenez les mêmes deux femmes, les mêmes costumes, les mêmes épées et un espace géographique complètement cohérent.
-Le maître baisse clairement la voix :
-« L'envoyé ennemi est juste ici, devez-vous montrer votre faiblesse ? »
-La même sœur cadette ne riposte pas, répond seulement calmement :
-« Je peux me battre. »
-Après une pause complète d'un demi-temps, ajoute :
-« Mais la douleur est la douleur. »
-En arrière-plan avec une faible profondeur de champ, le coin de la bouche de l'envoyé ennemi affiche un léger sourire d'observation du drame.
-Juste quand tout le monde pense que la sœur aînée va gronder la sœur cadette,
-La même immortelle épéiste en robe blanche marche vers son côté, se tenant exactement à son niveau, et dit seulement :
-« J'ai aussi un obstacle. »
-Le maître tourne soudainement la tête :
-« Es-tu aussi indisciplinée ? »
-Le vent, l'eau, la brume montagneuse, la végétation, les ombres des nuages, les tissus et les figures lointaines en arrière-plan continuent de changer naturellement mais n'interviennent jamais dans le conflit des personnages.
-10-15s | Gros Plan ou Très Gros Plan
-Le même maître demande avec colère contenue :
-« Si tout le monde pleigne la douleur, que devient le moral ? »
-La même immortelle épéiste aînée ne réfute pas immédiatement, répond seulement :
-« Le moral ne consiste pas à ce que tout le monde dise que ça va. »
-Laissez une pause complète vraiment lourde de sens.
-Elle déplace son regard vers ces disciples qui sont manifestement épuisés mais tiennent toujours droit, continuant :
-« C'est que certains disent qu'il y a un problème — et que d'autres peuvent le supporter. »
-Alors que ses mots tombent, le même médecin ne fait aucun commentaire, avançant silencieusement avec des bandages.
-En arrière-plan avec une faible profondeur de champ, le sourire original de l'envoyé ennemi disparaît lentement car il voit non pas un effondrement, mais un groupe permettant à chacun de reconnaître la douleur.
-La même sœur cadette demande doucement à la sœur aînée :
-« Et demain ? »
-Le très gros plan tombe sur les yeux calmes et clairs de la sœur aînée, elle répond :
-« Nous nous battrons quand nous devrons nous battre. »
-Après une pause complète d'un demi-temps, délivre la ligne finale :
-« Soignons les blessures ce soir d'abord. »
-Ne disposez pas d'applaudissements.
-Ne disposez pas d'une admission soudaine de faute par le maître.
-Ne disposez pas de pleurs de la sœur cadette.
-Laissez seulement plusieurs disciples qui ont tenu bon relâcher finalement lentement leurs épaules.
-Exigences Strictes
-Durée totale stricte de 15 secondes
-Format paysage 16:9
-Strictement trois plans continus clairs
-Dialogue mandarin natif synchronisé
-Synchronisation labiale précise et relations de regard
-L'identité des personnages, la coiffure, le costume, l'épée, les accessoires du médecin, les positions des rôles secondaires et l'espace géographique restent stables tout au long
-Les micro-expressions des personnages doivent être retenues et réalistes
-Peu de nœuds d'action mais clairs
-Physique naturelle pour les tissus de soie, les cheveux, les bandages et les armes
-Parallaxe réelle et son ambiant spatial synchronisé maintenus entre premier plan, plan moyen et arrière-plan
-Aucun sous-titre généré
-Focus d'Exécution Seedance 2.0 Mini
-Pour Seedance 2.0 Mini, mettez l'accent sur :
-La cohérence des personnages de référence
-Une hiérarchie visuelle claire parmi plusieurs personnages
-Une conception d'action limitée mais dramatiquement significative
-Une continuité stable de la caméra
-Une continuité de la lumière et de l'ombre
-Une continuité des accessoires principaux
-La synchronisation audio-visuelle précise du dialogue, des pas, du frottement des tissus, des sons de déroulement des bandages, des bruissements des fourreaux d'épée et des sons environnementaux
-Négatif
-flou, mauvaise qualité, basse qualité, basse résolution, bruit, artefacts jpeg, filigrane, texte, erreur; déformé, muté, mauvaise anatomie, mains mal dessinées, mauvaise composition, hors cadre, mutilé; personnage incohérent, vêtements changeants, morphing facial, décalage de fond, coupures glitchées, accessoires disparaissant
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104193110507245568/img/sovJXGoijDWepYzY.jpg" width="600" alt="Drame moral des épéistes Xianxia">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11484)**
-
-**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2104194104058077657) | **Publié:** Sep 27, 2026
-
----
-### Prompt de drame relationnel cinématographique pour Seedance 2.0 Mini
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt détaillé pour générer une vidéo cinématographique de 15 secondes mettant en scène trois personnages dans le couloir d'un appartement moderne. La scène explore les thèmes de la dépendance et de l'autonomie à travers des dialogues et un jeu subtil, utilisant des images de référence pour assurer la cohérence des personnages.
-
-#### 📝 Prompt
-
-```
-Texture réaliste cinématographique, écran horizontal 16:9, drame relationnel urbain chinois moderne de 15 secondes, dialogue mandarin natif synchronisé, sans sous-titres. L'objectif n'est pas d'accuser un personnage masculin, mais de faire prendre conscience à la jeune sœur par elle-même : la personne qui nettoie constamment vos désordres n'est pas naturellement synonyme de sécurité ; si beaucoup de ces désordres sont liés à cette relation, alors "être prise en charge" pourrait lentement se transformer en "ne pouvoir compter que sur lui".
-
-Adoptez globalement une texture de caméra cinéma Arri Alexa, un couloir résidentiel moderne crédible, un éclairage mixte provenant de vrais plafonniers et de la zone de l'ascenseur, des tons de peau naturels, des micro-détails faciaux nets et stables, un léger grain de film, une faible profondeur de champ. Les émotions sont vives mais retenues, pas de slogans, pas d'hystérie typique des courts-métrages dramatiques, pas de tournant soudain vers le sombre pour aucun personnage.
-
-Strictement trois plans consécutifs, chacun d'environ 5 secondes. Pour Seedance 2.0 Mini, toute la complexité est concentrée sur les regards, les pauses, les mouvements simples des trois personnes, ainsi qu'une valise et un téléphone à l'écran fissuré ; ne concevez pas de conflits physiques complexes.
-
-Identités des personnages strictement verrouillées.
-
-Personnage ID A : Toujours la même femme adulte asiatique de l'Est que dans @Image1, âgée de 27 à 32 ans, grande et mince. Conservez strictement les traits du visage, la forme du visage, les yeux, le nez, les lèvres, le teint et le tempérament général de l'image de référence. Style moderne : chemise blanc ivoire, pantalon gris foncé, chaussures en cuir noir, montre-bracelet argentée. Elle incarne le type de la sœur aînée, calme, jugeante, mais ne prend pas de décisions pour les autres.
-
-Personnage ID B : Toujours la même femme adulte asiatique de l'Est que dans @Image2, âgée de 22 à 26 ans, petite stature. Conservez strictement les traits du visage, la forme du visage, la coiffure et le tempérament du personnage de l'image de référence. Style moderne : haut tricoté vert cyan, pantalon ample foncé, baskets blanches. Elle a toujours la même valise à côté d'elle et tient le même téléphone à l'écran fissuré dans sa main.
-
-Petit ami : Environ 27-28 ans, portant un manteau sombre propre. Son apparence et son comportement doivent être réels et ordinaires, ni obséquieux, ni stéréotypiquement agressifs. Il croit sincèrement qu'il l'a protégée, donc ses réactions viennent de l'incompréhension et de la défense, plutôt que d'une pure malveillance.
-
-00:00—00:05
-Premier plan, grand angle 35mm passant à un plan moyen, établissant clairement la relation spatiale du couloir résidentiel dès le départ.
-La jeune sœur se tient à côté de la valise, tenant le téléphone à l'écran fissuré. Le petit ami se tient entre elle et la sœur aînée, avec une distance claire entre les trois.
-
-Le petit ami maîtrise ses émotions, voix basse :
-"À chaque fois qu'il y avait un problème, n'était-ce pas moi qui t'accompagnais ?"
-
-La jeune sœur répond presque instinctivement :
-"Il a raison."
-
-La sœur aînée ne regarde pas le petit ami, seulement la jeune sœur :
-"Je sais."
-Pause extrêmement brève.
-"Mais pourquoi les problèmes arrivent-ils toujours à toi ?"
-Après cette phrase, maintenez un demi-seconde de silence.
-La jeune sœur fige pour la première fois.
-Ne pas écarquiller les yeux de manière choquée, juste arrêter le regard, les mots initialement préparés pour continuer à défendre le petit ami ne sont pas prononcés.
-
-00:05—00:10
-Deuxième plan, gros plan moyen 50mm, les trois personnes maintiennent exactement la même relation spatiale, les accessoires ne peuvent pas dériver.
-
-Le petit ami se tourne immédiatement vers la sœur aînée :
-"Ne crée pas de problèmes."
-
-La sœur aînée ne discute toujours pas avec lui, regarde calmement la jeune sœur et dit :
-"Travail, propriétaire, amis."
-Légères pauses entre chaque mot.
-Puis ajoute une phrase :
-"À chaque fois, il était là."
-
-Le petit ami enchaîne immédiatement :
-"Parce que je l'aide."
-
-La sœur aînée le regarde, ton sans agression :
-"Peut-être."
-Pause brève.
-"Mais pourquoi es-tu le seul qui reste à la fin ?"
-Après cette phrase, n'ajoutez aucune explication.
-Ne pas accompagner d'accents musicaux exagérés.
-Ne laissez que le léger bruit ambiant du couloir résidentiel et un carillon d'ascenseur lointain.
-La jeune sœur baisse lentement la tête pour regarder le téléphone à l'écran fissuré dans sa main.
-C'est la première fois qu'elle relie elle-même les événements précédents.
-
-00:10—00:15
-Troisième plan, gros plan 85mm se focalisant progressivement sur la jeune sœur.
-
-Elle lève lentement les yeux pour regarder le petit ami, sans pleurer, sans colère, ni confirmation auprès de la sœur aînée.
-Elle se pose la question à elle-même :
-"Tu m'aides..."
-Pause d'environ 0,3 seconde.
-"Ou tu me rends incapable de trouver quelqu'un d'autre que toi ?"
-Silence complet.
-Le petit ami veut visiblement répondre, ses lèvres bougent légèrement, mais il ne parvient pas à organiser ses mots.
-La sœur aînée ne montre jamais de victoire, de satisfaction ou d'expression "je le savais", et ne doit absolument pas tendre la main pour emmener la jeune sœur ailleurs.
-La jeune sœur se penche pour tirer elle-même la valise.
-Le petit ami demande subconsciemment :
-"Où vas-tu ?"
-Elle lui jette un coup d'œil, répond calmement :
-"Juste être seule un moment."
-Puis tire la valise, marchant seule devant les deux personnes.
-La sœur aînée s'écarte simplement, libérant véritablement le passage.
-Enfin, ne suivez pas la sœur aînée en mouvement, ne vous attardez pas sur le visage du petit ami.
-La caméra s'arrête sur la vue arrière de la jeune sœur tirant la valise vers le bout du couloir, le bruit des roues s'estompe, la lumière de l'ascenseur s'allume, fin.
-
-Principes de performance pour l'ensemble du film : Pas de gagnant, pas de verdict de méchant, pas d'explosion émotionnelle. La sœur aînée soulève seulement une question ; le petit ami croit toujours qu'il prend soin d'elle ; la personne qui complète réellement le jugement doit être la jeune sœur elle-même.
-Les dialogues doivent sonner comme ce que de vrais adultes diraient lors d'une dispute, phrases courtes, langage familier, évitant les lignes littéraires, le style citation dorée, la terminologie psychologique et les cris de court-métrage dramatique. Pendant que tous les personnages parlent, les autres doivent se taire et avoir de vraies réactions d'écoute. Synchronisation labiale précise en mandarin, cibles de regard claires.
-Structure à trois plans strictement maintenue :
-0—5s : Établir "Il la sauve toujours"
-5—10s : Première réalisation "Pourquoi est-il toujours là"
-10—15s : Elle se pose la question elle-même et part seule
-
-Design sonore : Fréquence basse de la climatisation résidentielle, carillon d'ascenseur, froissement de tissu, son de prise du téléphone fissuré, sons des roues de la valise synchronisés de manière réaliste. Musique de fond très faible voire absente, laissant le son final des roues devenir la convergence émotionnelle.
-Les visages, coiffures, vêtements, téléphone à l'écran fissuré, valise, positions des portes du couloir, direction de l'ascenseur et positions spatiales des trois personnes doivent rester continuellement stables. Interdiction de dérive d'identité des personnages, disparition d'accessoires, échanges aléatoires de position, erreurs de regard multi-personnes, et transformation soudaine du petit ami en agressif.
-Négatif : flou, mauvaise qualité, basse qualité, basse résolution, bruit, artefacts JPEG, filigrane, texte, sous-titres, mains malformées, doigts supplémentaires, incohérence des personnages, morphing facial, dérive d'identité, changement de vêtements, valise disparaissante, changement de téléphone, réparation de l'écran du téléphone, décalage de l'arrière-plan, couloir instable, téléportation, position aléatoire des personnages, ligne de regard incorrecte, dialogue superposé, synchronisation labiale imprécise, pleurs exagérés, cris, stéréotype masculin agressif, expression de méchant, femme aînée satisfaite, expression triomphante, jeu mélodramatique, jeu soap opera, pause théâtrale, discours motivant, jargon thérapeutique, indice musical excessif, coupe glitch, mouvement de caméra aléatoire.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104182252288757760/img/7F2lUNMWA2gXsMmx.jpg" width="600" alt="Prompt de drame relationnel cinématographique pour Seedance 2.0 Mini">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11483)**
-
-**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2104182978587005232) | **Publié:** Sep 27, 2026
-
----
-### Prompt vidéo d'anime d'action sur un campus coréen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour générer une vidéo d'anime 3D cel-shaded cinématographique de 15 secondes, mettant en scène une mission de sauvetage dans un campus universitaire coréen la nuit. Il précise les personnages, les séquences d'action, les styles de caméra et les indications audio.
-
-#### 📝 Prompt
-
-```
-Anime 3D cel-shaded cinématographique, CGI semi-réaliste, séquence d'action coréenne de 15 secondes dans un campus universitaire coréen moderne la nuit pendant un festival étudiant.
-
-PERSONNAGES :
-Jun-ho, 22 ans, cheveux noirs ébouriffés, veste varsity sombre oversize, t-shirt blanc, pantalon noir ample, baskets, joue meurtrie. Athlétique, déterminé.
-So-yeon, 21 ans, longs cheveux foncés, veste universitaire crème, jean, baskets, kidnappée par quatre hommes masqués en streetwear sombre.
-
-ACTION :
-Jun-ho aperçoit So-yeon se faire traîner dans un couloir du campus éclairé par des néons et les poursuit immédiatement. Il esquive un coup de poing, projette un agresseur contre des casiers, pivote et donne un coup de pied à un autre qui traverse une porte de salle de classe. So-yeon se libère et court vers l'escalier, mais un agresseur l'attrape. Jun-ho tourne autour de la rampe de l'escalier et le repousse. La poursuite continue jusqu'au parking souterrain, où Jun-ho esquive les attaques entre les voitures et vainc le dernier agresseur avec une combinaison rapide de combat au corps à corps. Jun-ho et So-yeon sprintent vers la sortie du campus alors que les lumières de sécurité clignotent et que la sécurité du campus approche.
-
-STYLE & CAMÉRA :
-CGI cinématographique de qualité Unreal Engine, esthétique anime d'action coréenne, ombres cel-shaded audacieuses, éclairage de contour dramatique, physique réaliste des vêtements et des cheveux, plans suivis dynamiques, caméra d'action en contre-plongée, mouvement de caméra rapide, flou de mouvement, profondeur de champ cinématographique, environnement détaillé du campus coréen.
-
-AUDIO :
-Partition orchestrale intense de thriller d'action coréen, pas lourds, cris, impacts sur les casiers, sons de combat réalistes et ambiance lointaine du campus.
-
-NÉGATIF :
-Pas de prise de vue réelle, pas d'anime 2D plat, pas d'armes à feu, pas de gore, pas de super-pouvoirs, pas de physique impossible, pas de personnages dupliqués, pas d'anatomie déformée, pas de changement de visages/vêtements, pas de téléportation, pas de sous-titres, pas de filigrane, pas d'artefacts textuels.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104059799629701121/img/_by2qf7uH5WyK5it.jpg" width="600" alt="Prompt vidéo d'anime d'action sur un campus coréen">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11478)**
-
-**Auteur:** [ORHAN](https://x.com/OrhanGhazi65942) | **Source:** [Link](https://x.com/OrhanGhazi65942/status/2104060116618068454) | **Publié:** Sep 27, 2026
-
----
-### L'escalier vers une épopée de science-fiction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour une vidéo épique de science-fiction où l'ascension d'un escalier géant révèle des futurs de plus en plus avancés, allant des villes futuristes aux voyages interstellaires.
-
-#### 📝 Prompt
-
-```
-Un escalier gigantesque émerge du milieu de l'océan et s'élève jusqu'aux nuages.
-
-Les gens se rassemblent, incrédules.
-Un jeune explorateur commence à grimper.
-Chaque marche révèle la Terre dans un futur plus lointain.
-Première marche : des villes futuristes.
-Marche suivante : des forêts poussant sur les gratte-ciel.
-Ensuite : des océans remplis de civilisations flottantes.
-Plus haut : d'immenses anneaux orbitaux entourant la Terre.
-Plus haut : des villes dérivant dans l'atmosphère.
-Plus haut : l'humanité voyageant parmi les étoiles.
-La montée devient plus rapide et plus dangereuse.
-Des milliers de personnes suivent derrière.
-L'escalier s'étend au-delà des nuages et jusque dans l'espace.
-L'explorateur atteint la dernière marche visible.
-Au-delà s'étend un futur si vaste et magnifique qu'il ne peut être pleinement compris.
-Une lumière brillante inonde tout.
-L'escalier disparaît.
-Ne laissant que l'océan en dessous.
-
-Aventure épique de science-fiction, mouvement ascendant continu, visions futures croissantes, échelle à couper le souffle, émerveillement émotionnel, environnements photoréalistes, mouvements de caméra cinématographiques, action dynamique, visuels chefs-d'œuvre, 16:9.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104007891334131712/img/2ozhc2jkPkx4N2X2.jpg" width="600" alt="L'escalier vers une épopée de science-fiction">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11399)**
-
-**Auteur:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2104007916546068750) | **Publié:** Sep 27, 2026
-
----
-### Prompt Vidéo Anime Jour de Pluie
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt détaillé pour générer une vidéo anime de 15 secondes mettant en scène la rencontre d'un ange et d'un démon uniquement les jours de pluie, utilisant Seedance 2.0 avec des feuilles de personnages de référence.
-
-#### 📝 Prompt
-
-```
-Règles :
-- Qualité anime théâtrale avec un budget de 500 millions de yens, style d'animation cellulaire 2D japonaise
-- Multi-plans
-- Coupes rapides, nombre élevé d'images par seconde. Priorité à la vitesse et à l'impact
-- Qualité VFX professionnelle
-- Changer le travail de caméra à chaque plan (pas de répétition de mouvement)
-- Pas de BGM ; présence de sons ambiants/effets sonores
-- Pas de sous-titres
-- Tous les dialogues en japonais
-- Rythme : Montrer le jeu calme lentement avec des pauses, puis accélérer lors des moments clés
-- Dessiner la pluie avec des lignes fines et rapides ; inclure des éclaboussures, des reflets dans les flaques et des cheveux mouillés collés en mèches dans l'œuvre
-- Pluie nocturne. Réfléchir les couleurs des lampadaires et des néons sur le pavé mouillé ; s'assurer que les personnages bleu pâle et blancs ne se fondent pas dans le fond gris
-- Garder les protagonistes grands dans le cadre ; les visages et les costumes doivent être clairement visibles. Ne pas les réduire à de minuscules points dans les plans larges
-- Pas de texte, logos ou chiffres à l'écran
-
-@ Image1 : Sujet - Sylvie
-@ Image2 : Sujet - Ayle
-
-[Cohérence] Maintenir une apparence cohérente tout au long pour Sylvie (coupe bob argentée cachant l'œil droit, œil visible jaune-vert. Petites cornes de démon bleu clair et coiffe à volants, petites ailes de chauve-souris bleu clair et queue fine, robe blanche à volants avec ruban bleu clair, chaussettes rayées bleu clair et blanc) et Ayle (coupe bob bleue droite, ornements ronds en plumes blanches de chaque côté de la tête, petites ailes bleues et blanches sur les épaules, robe blanche avec motifs circulaires bleus, longue traîne de jupe en plumes bleues). Ne pas confondre les deux personnages. Ayle est un ange au-dessus des nuages, Sylvie est un démon au sol.
-[Objectif de génération] Ils ne peuvent se rencontrer que les jours de pluie
-(6 étapes, une vidéo continue. Descendre le long des fils de pluie pour se rencontrer jusqu'à ce que la pluie cesse)
-[S1] Au-dessus des nuages. Ayle de @ Image2 attrape les fils de pluie tombant des trous dans les nuages et glisse vers le sol comme sur un toboggan (visage rempli d'une joie impatiente).
-Caméra : Travelling rapide suivant Ayle qui glisse le long des fils de pluie depuis le dessus.
-[S2] Sur le toit d'une ville par une nuit de pluie. Sylvie de @ Image1 attend en regardant le ciel sans parapluie. Les gouttes de pluie tombent de ses cornes bleu clair et de ses ailes de chauve-souris.
-Caméra : Angle bas depuis le toit montrant le profil de Sylvie alors qu'elle regarde vers le haut.
-[S3] Ayle atterrit doucement sur le toit, face à face. Sylvie détourne le visage timidement, mais le bout de sa queue remue joyeusement.
-Caméra : Plan à deux personnes de côté montrant les deux. Reculer pour montrer la queue qui remue.
-Ayle (voix joyeuse) dit : {Je suis venue}
-[S4] Elles s'assoient côte à côte sur le toit. Sylvie déploie ses ailes de chauve-souris comme un parapluie au-dessus d'Ayle. Les lumières de la ville pluvieuse floutent et brillent sous elles.
-Caméra : Vue plongeante sur le paysage urbain nocturne pluvieux depuis derrière les deux.
-[S5] La pluie faiblit, la lumière de la lune perce les nuages. Le corps d'Ayle flotte doucement, attiré par la lumière, retournant vers le ciel. Sylvie tend la main. Leurs extrémités des doigts se séparent.
-Caméra : Gros plan sur les doigts qui se séparent, puis panoramique vers le visage de Sylvie regardant vers le haut.
-Ayle (sourire pleurant) dit : {Le prochain jour de pluie}
-[S6] Seule sur le toit sec, Sylvie tient une des plumes bleues d'Ayle dans sa paume. Elle la serre fort et sourit faiblement en regardant le ciel.
-Caméra : Gros plan sur la plume, puis recul sur Sylvie regardant le ciel nocturne.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103733508971872256/img/x7QgBynH5x5yKSty.jpg" width="600" alt="Prompt Vidéo Anime Jour de Pluie">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11400)**
-
-**Auteur:** [妖精アーヤ](https://x.com/aiehon_aya) | **Source:** [Link](https://x.com/aiehon_aya/status/2103734879636898211) | **Publié:** Sep 26, 2026
-
----
-### Script de Court-Métrage d'Horreur : Intrusion Domiciliaire
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un script détaillé, plan par plan, pour un court-métrage d'horreur intitulé 'The babysitter', généré à l'aide de Seedance 2.5.
-
-#### 📝 Prompt
-
-```
-Plan 1 (0.0–1.2s) : Le Personnage A, correspondant au visage/à la tenue de référence, est assis sur un canapé dans un grand salon de banlieue la nuit, téléphone en main, lumière chaude d'une lampe contre des fenêtres sombres.
-Plan 2 (1.2–2.4s) : Plan large statique d'un couloir vide menant à l'étage, veilleuse tamisée, immobilité totale.
-Plan 3 (2.4–3.4s) : Gros plan sur son téléphone qui s'allume avec un numéro inconnu ; elle hésite avant de répondre.
-Plan 4 (3.4–4.4s) : Elle répond. Une voix distordue chuchote : « As-tu vérifié les enfants ? » Son expression devient inquiète.
-Plan 5 (4.4–5.4s) : Elle raccroche et regarde nerveusement vers l'escalier sombre tandis que la maison grince au-dessus.
-Plan 6 (5.4–6.6s) : Plan large statique de l'escalier ; elle se lève lentement du canapé et monte à l'étage.
-Plan 7 (6.6–7.8s) : Elle monte prudemment les escaliers, serrant fort son téléphone, les planchers grinçant.
-Plan 8 (7.8–9.0s) : Long couloir à l'étage ; elle avance lentement, vérifiant chaque porte.
-Plan 9 (9.0–10.0s) : Gros plan sur elle ouvrant la porte de la chambre d'enfant ; deux enfants dorment paisiblement sous une veilleuse douce.
-Plan 10 (10.0–11.2s) : Elle expire soulagée, ferme doucement la porte et se retourne vers l'escalier.
-Plan 11 (11.2–12.4s) : Son téléphone sonne à nouveau. Elle se fige au milieu du couloir.
-Plan 12 (12.4–13.6s) : Gros plan sur le même numéro inconnu. Elle répond avec hésitation.
-Plan 13 (13.6–14.8s) : La voix distordue répète : « As-tu vérifié les enfants ? » Elle regarde à nouveau vers leur chambre.
-Plan 14 (14.8–16.0s) : Elle exige de savoir qui appelle, sa voix tremblante alors que le couloir semble plus sombre et plus vaste.
-Plan 15 (16.0–17.2s) : La voix dit : « J'appelle de l'intérieur de la maison. » La ligne coupe immédiatement.
-Plan 16 (17.2–18.2s) : Gros plan sur son visage terrifié lorsque la prise de conscience frappe et que son téléphone glisse dans sa main tremblante.
-Plan 17 (18.2–19.2s) : Plan large du couloir ; une planche grince soudainement depuis une pièce non vérifiée derrière elle.
-Plan 18 (19.2–20.2s) : Elle se tourne lentement. Une porte de placard au bout du couloir est légèrement entrouverte.
-Plan 19 (20.2–21.2s) : Elle recule vers la chambre des enfants, sortant son téléphone pour appeler à l'aide.
-Plan 20 (21.2–22.2s) : Gros plan sur le téléphone : pas de signal. La panique monte.
-Plan 21 (22.2–23.0s) : La porte du placard s'ouvre lentement davantage dans le plan statique du couloir. Rien de visible à l'intérieur.
-Plan 22 (23.0–23.8s) : Elle attrape la poignée de la porte des enfants et regarde à nouveau vers le bas du couloir.
-Plan 23 (23.8–24.6s) : Une figure ombreuse violente surgit soudainement du placard, brisant l'immobilité.
-Plan 24 (24.6–25.4s) : Elle crie, ouvre violemment la porte des enfants et la claque fermée tandis que des pas se précipitent vers elle.
-Plan 25 (25.4–26.4s) : Gros plan : son dos contre la porte, respirant lourdement alors que la poignée est secouée violemment.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103719897310306304/img/vEWjW2ltsMJDjcuV.jpg" width="600" alt="Script de Court-Métrage d'Horreur : Intrusion Domiciliaire">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11328)**
-
-**Auteur:** [WasifAI](https://x.com/doctorwasif) | **Source:** [Link](https://x.com/doctorwasif/status/2103719950838104512) | **Publié:** Sep 26, 2026
-
----
-### Interaction équine au matin alpin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une vidéo cinématographique paisible d'une femme interagissant avec un cheval dans une campagne alpine enneigée sous la lumière dorée du matin.
-
-#### 📝 Prompt
-
-```
-Création d'une vidéo cinématographique photoréaliste de 15 secondes représentant une campagne alpine paisible baignée par la lumière dorée du matin, avec des montagnes majestueuses couvertes de neige en arrière-plan et une ferme en bois chaleureuse entourée de clôtures rustiques et de champs ouverts. Une belle jeune femme aux longs cheveux foncés, vêtue d'un pull tricoté crème chaud et d'une tenue d'hiver naturelle, s'approche lentement d'un cheval brun calme se tenant près de l'écurie en bois. Elle s'approche doucement du cheval, sourit tendrement et caresse affectueusement sa tête tandis que le cheval reste paisible et détendu. La caméra capture des gros plans intimes de sa main touchant le cheval et de son visage expressif, suivis de plans moyens fluides montrant leur connexion. La lumière chaude du soleil traverse les sommets montagneux, créant des reflets cinématographiques doux et des flares naturels. Une légère brume matinale flotte autour des cabanes et des montagnes lointaines, tandis qu'une fumée subtile s'élève de la cheminée de la ferme. La caméra suit lentement la femme sur le côté alors qu'elle retourne vers la maison en bois confortable, en gardant son apparence et sa tenue cohérentes tout au long. Mouvements réalistes du cheval, motion corporelle naturelle, texture détaillée de la peau et des cheveux, atmosphère authentique de la campagne, faible profondeur de champ, étalonnage colorimétrique cinématographique, objectif 35 mm, mouvement léger à main levée, qualité ultra-réaliste 8K, narration émotionnelle apaisante, sans texte, sans logos, sans filigrane.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2103714589896790016/img/jzBNQTXy9oGLCRGj.jpg" width="600" alt="Interaction équine au matin alpin">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11335)**
-
-**Auteur:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2103714668993003640) | **Publié:** Sep 26, 2026
-
----
-### Script de Séquence d'Action dans le Métro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour une vidéo d'action cinématographique ultra-réaliste de 30 secondes, mettant en scène un personnage nommé Elsa dans une confrontation dans un couloir de métro.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo d'action cinématographique ultra-réaliste de 30 secondes en 1080p mettant en vedette Elsa.
-
-Utilisez uniquement l'ensemble de caractères maître d'Elsa fourni comme référence stricte pour l'identité d'Elsa. Utilisez le storyboard maître de 20 panneaux fourni comme guide visuel et chronologique exact pour l'intégralité de la vidéo.
-
-Ne copiez aucune identité du storyboard. Le storyboard contrôle l'action, la progression des plans, les lieux, le cadrage et la chorégraphie, tandis que l'ensemble de caractères maître contrôle le visage et l'identité physique d'Elsa.
-
-COHÉRENCE DU PERSONNAGE :
-Préservez l'identité faciale exacte d'Elsa, ses proportions faciales, sa coiffure, son teint, ses proportions corporelles et son apparence reconnaissable tout au long de la vidéo.
-
-Gardez sa tenue cohérente : haut noir court, pantalon noir ajusté, veste en cuir noire, bottes noires et sac à bandoulière noir.
-
-La même Elsa doit apparaître dans chaque plan.
-
-STYLE :
-Séquence d'action cinématographique live-action ultra-réaliste se déroulant dans un couloir de métro souterrain moderne.
-
-L'environnement doit paraître réel et vécu : murs carrelés, éclairages fluorescents au plafond, sols en béton, passagers lointains, signalétique, entrées de métro et détails urbains réalistes.
-
-Utilisez un travail caméra à main cinématographique combiné à une cinématographie d'action contrôlée.
-
-Flou de mouvement naturel, éclairage réaliste, ombres réalistes, mouvement physiquement précis et réactions humaines crédibles.
-
-Pas de pouvoirs fantastiques, pas d'effets surnaturels, pas de wire-fu exagéré et pas de mouvements impossibles.
-
-ACTION :
-Gardez la confrontation clairement fictive et chorégraphiée pour la narration cinématographique. Évitez les blessures graphiques, le sang ou les gore.
-
-PLAN 1 — 00:00–00:01
-Elsa marche seule dans le couloir du métro, portant son sac à bandoulière.
-
-Utilisez un plan de suivi moyen-large depuis l'avant alors que les passagers se déplacent naturellement en arrière-plan.
-
-PLAN 2 — 00:01–00:02
-Coupez vers un angle latéral plus rapproché alors qu'Elsa perçoit un mouvement derrière elle.
-
-Elle tourne légèrement la tête et regarde par-dessus son épaule.
-
-Son expression devient alerte mais maîtrisée.
-
-PLAN 3 — 00:02–00:03
-Révélez plusieurs figures suspectes approchant par derrière.
-
-Utilisez une perspective avec un objectif plus long qui comprime le couloir et crée de la tension.
-
-PLAN 4 — 00:03–00:04
-Gros plan sur le visage d'Elsa.
-
-Elle remarque la situation et reste calme et concentrée.
-
-Utilisez une faible profondeur de champ avec le couloir du métro flouté doucement derrière elle.
-
-PLAN 5 — 00:04–00:05
-Elsa tourne dans un passage latéral plus étroit.
-
-La caméra la suit rapidement par derrière alors que l'atmosphère devient plus confinée.
-
-PLAN 6 — 00:05–00:06
-Les figures bloquent le chemin d'Elsa.
-
-Utilisez un plan frontal moyen montrant Elsa entourée par le groupe tout en maintenant une géographie spatiale claire.
-
-PLAN 7 — 00:06–00:08
-Un agresseur tend la main vers le bras d'Elsa.
-
-Elsa réagit immédiatement, retirant son bras et créant de la distance.
-
-Utilisez un angle latéral dynamique avec une mécanique corporelle réaliste.
-
-PLAN 8 — 00:08–00:09
-Elsa effectue un mouvement défensif rapide pour échapper à la saisie.
-
-Gardez la chorégraphie contrôlée et réaliste.
-
-La caméra bouge avec l'action plutôt que d'utiliser des effets exagérés.
-
-PLAN 9 — 00:09–00:11
-Un deuxième agresseur se dirige vers elle.
-
-Elsa pivote pour s'écarter et utilise une contre-attaque défensive contrôlée, faisant perdre l'équilibre à l'agresseur qui tombe en toute sécurité.
-
-Utilisez un plan plus large afin que le mouvement complet soit lisible.
-
-PLAN 10 — 00:11–00:12
-Elsa crée de l'espace entre elle et les agresseurs.
-
-Son sac à bandoulière oscille naturellement avec le mouvement.
-
-Utilisez un ajustement rapide de la caméra à main.
-
-PLAN 11 — 00:12–00:14
-Un agresseur se dirige à nouveau vers Elsa.
-
-Elsa utilise son sac à bandoulière défensivement pour créer de la distance et échapper à la menace immédiate.
-
-Ne représentez pas d'impact graphique.
-
-PLAN 12 — 00:14–00:15
-Elsa effectue un coup de pied rapide et contrôlé qui arrête l'avancée de l'agresseur.
-
-Utilisez un angle trois-quarts bas soulignant le mouvement tout en gardant des proportions réalistes.
-
-PLAN 13 — 00:15–00:17
-Un autre agresseur approche.
-
-Elsa change rapidement de direction, esquive le mouvement entrant et porte une frappe défensive contrôlée.
-
-Utilisez une caméra de suivi dynamique.
-
-PLAN 14 — 00:17–00:18
-Battement d'action rapproché alors qu'Elsa complète la séquence défensive et crée une séparation.
-
-Gardez le mouvement réaliste et clairement chorégraphié.
-
-PLAN 15 — 00:18–00:20
-Plan large du couloir.
-
-Les agresseurs sont maintenant au sol ou reculent tandis qu'Elsa reste debout et composée.
-
-Pas de sang, de plaies ou de blessures graphiques.
-
-PLAN 16 — 00:20–00:22
-La tension disparaît.
-
-Elsa arrange calmement ses cheveux et ajuste sa veste.
-
-Utilisez un gros plan qui contraste son expression calme avec l'action qui vient de se produire.
-
-PLAN 17 — 00:22–00:24
-Elsa ramasse et ajuste son sac à bandoulière.
-
-Utilisez un plan rapproché moyen avec un mouvement naturel de caméra à main.
-
-PLAN 18 — 00:24–00:27
-Elsa marche avec assurance dans le couloir du métro.
-
-La caméra recule devant elle.
-
-Les passagers se déplacent naturellement en arrière-plan.
-
-PLAN 19 — 00:27–00:29
-Elsa approche des escaliers de sortie du métro.
-
-Utilisez un plan de suivi arrière alors qu'elle marche vers la sortie plus lumineuse.
-
-L'éclairage devient progressivement plus chaud et plus lumineux.
-
-PLAN 20 — 00:29–00:30
-Avant de partir, Elsa tourne brièvement la tête et regarde vers la caméra avec une expression calme et confiante.
-
-Maintenez pendant un court battement cinématographique.
-
-Coupe au noir.
-
-LANGAGE CAMÉRA :
-Utilisez un mélange de plans larges d'établissement, de plans de suivi à main, de gros plans faciaux, d'angles latéraux, d'angles trois-quarts bas et de cadrages d'action dynamiques.
-
-Chaque mouvement de caméra doit être motivé par l'action.
-
-Utilisez de courtes accélérations de vitesse uniquement là où elles soulignent naturellement un mouvement important. N'abusez pas du ralenti.
-
-Maintenez une continuité spatiale claire afin que le spectateur comprenne toujours où se situent Elsa et les autres personnages.
-
-PHYSIQUE & CONTINUITÉ :
-Anatomie et mouvement humains réalistes.
-Transfert de poids réaliste.
-Mouvement naturel des cheveux et des vêtements.
-Physique naturelle du sac à bandoulière.
-Pas et élan corporel réalistes.
-Pas de téléportation.
-Pas de personnages dupliqués.
-Pas d'accessoires disparaissant.
-Pas de déformation corporelle impossible.
-
-AUDIO :
-Ambiance authentique de métro tout au long.
-
-Pas, sons de trains lointains, annonces de station, ventilation, passagers parlant, mouvement des vêtements, mouvement du sac et impacts d'action subtils.
-
-La musique doit être minimale et cinématographique, construisant la tension pendant la confrontation et devenant plus douce alors qu'Elsa marche vers la sortie.
-
-Pas de dialogue.
-Pas de sous-titres.
-Pas de superpositions de texte.
-Pas de logos.
-Pas de filigrane.
-
-APARENCE FINALE :
-Cinéma d'action live-action ultra-réaliste premium avec une chorégraphie crédible, une forte continuité visuelle et une atmosphère urbaine ancrée dans le réel.
-
-La séquence doit sembler tendue, stylée et cinématographique tout en restant physiquement réaliste et non graphique.
-```
-
-<img src="https://cms-assets.youmind.com/media/1790402179796_kmi2hs_HTG6V-aaIAAj3fa.jpg" width="600" alt="Script de Séquence d'Action dans le Métro">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11333)**
-
-**Auteur:** [Elsa Ai](https://x.com/ElsaSofia__AI) | **Source:** [Link](https://x.com/ElsaSofia__AI/status/2103667614606368931) | **Publié:** Sep 26, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -6017,6 +5774,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-14T04:00:04.980Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-14T09:34:29.255Z</sub>
 
 </div>
