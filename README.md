@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6542** |
+| 📝 Total Prompts | **6541** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-10-15** |
 
@@ -365,67 +365,6 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Romantic Date Video Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for creating a romantic video sequence following a woman preparing for and arriving at a date, ending with a kiss, including detailed shot lists and mood arcs.
-
-#### 📝 Prompt
-
-```
-A beautiful young adult woman with short brown hair, big expressive eyes, and a charming superstar look. Natural beauty, elegant style, realistic facial features, and consistent appearance throughout every shot.
-
-ENVIRONMENT: Modern apartment → bedroom mirror → wardrobe → city street → café exterior → cozy café interior → table → evening city street with glowing lights.
-
-MOOD ARC: Romantic anticipation → nervous excitement → heartwarming emotional payoff.
-
-SHOT SEQUENCE:
-
-Shot 1: Close-up of the girl sitting on her bed, smiling softly while reading a text message on her phone.
-
-Shot 2: She looks at her phone again, her eyes sparkling with excitement.
-
-Shot 3: Standing in front of the mirror, she gently fixes her short brown hair.
-
-Shot 4: She types a message, pauses, and smiles shyly.
-
-Shot 5: She glances at the time, takes a deep breath, and gets up.
-
-Shot 6: A stylish outfit-change transition as she prepares for her date.
-
-Shot 7: Slow-motion close-up of her spraying perfume around her neck.
-
-Shot 8: Final mirror look; she adjusts her outfit and gives herself a confident smile.
-
-Shot 9: Cinematic tracking shot of her walking along a lively city street toward a café.
-
-Shot 10: She arrives outside the café and suddenly spots someone she recognizes.
-
-Shot 11: Her expression changes into a warm, excited smile as she sees him waiting.
-
-Shot 12: Close-up of their eyes meeting, capturing a moment of mutual affection.
-
-Shot 13: They slowly walk toward each other, with a gentle slow-motion effect and soft background bokeh.
-
-Shot 14: Intimate close-up as they lean toward each other, smiling softly before closing their eyes.
-
-Shot 15: They share a gentle romantic kiss on the lips, with blurred city lights, a warm golden glow, and a beautiful cinematic ending.
-
-VISUAL STYLE: Ultra-realistic cinematic romance, natural skin texture, expressive eyes, smooth camera movements, shallow depth of field, warm lighting, realistic physics, elegant transitions, and consistent character identity.
-
-MUSIC & EDITING: Romantic pop soundtrack at 145 BPM, with every shot synchronized to the beat. Use quick cuts during the getting-ready sequence, smooth transitions while walking, and a subtle slow-motion effect during the final romantic moment.
-
-ENDING: Hold the final kiss briefly, with warm city lights shimmering in the background.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110225665039695873/img/ovyU72lmMYvFibGM.jpg" width="600" alt="Romantic Date Video Sequence">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12478)**
-
-**Author:** [Dania](https://x.com/DaniaSafvi) | **Source:** [Link](https://x.com/DaniaSafvi/status/2110225751387803697) | **Published:** Oct 14, 2026
-
----
 ### White Robe Swordsman Dragon Battle Scene
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -6602,6 +6541,38 @@ Create a 31-second ultra-realistic cinematic action sequence set in a destroyed 
 **Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2104390191352103147) | **Published:** Sep 28, 2026
 
 ---
+### Lost Things Return Global Event Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic and descriptive prompt for Seedance 2.0 Mini depicting a global event where lost items, animals, and letters return to Earth, creating scenes of wonder and reunion.
+
+#### 📝 Prompt
+
+```
+Across Earth, something impossible begins happening.
+Everything that was ever lost starts coming back.
+A forgotten toy walks out of the ocean. Ancient ships emerge from glowing fog. Extinct animals appear on distant horizons. Millions of lost letters descend gently from the sky.
+People stop what they are doing.
+Crowds gather.
+Entire cities watch as impossible reunions unfold.
+A child sees a beloved pet running toward them. Long-lost treasures emerge from deserts. Ancient forests reappear where empty land once stood.
+The phenomenon spreads across the planet.
+More and more things return.
+The scale becomes enormous.
+The skies fill with lost inventions. Lost histories. Lost possibilities.
+Humanity watches together.
+A world reconnecting with everything it thought was gone forever.
+Majestic science fiction fantasy, emotional storytelling, massive global event, breathtaking visuals, wonder, hope, spectacular cinematography, dynamic movement, photorealistic environments, epic scale, masterpiece, 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104037560196435968/img/MimcVdt7eNrPmpOt.jpg" width="600" alt="Lost Things Return Global Event Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11482)**
+
+**Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2104264808119816501) | **Published:** Sep 27, 2026
+
+---
 ---
 
 ## 📚 More Prompts Available
@@ -6663,6 +6634,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-15T03:41:53.050Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-15T09:13:24.924Z</sub>
 
 </div>

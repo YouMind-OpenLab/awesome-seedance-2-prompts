@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6542** |
+| 📝 Total des prompts | **6541** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-10-15** |
 
@@ -361,67 +361,6 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
-### Séquence Vidéo Romantique pour Rendez-vous
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour créer une séquence vidéo romantique suivant une femme qui se prépare et arrive à un rendez-vous, se terminant par un baiser, incluant des listes de plans détaillées et des arcs émotionnels.
-
-#### 📝 Prompt
-
-```
-Une jeune femme adulte magnifique aux cheveux bruns courts, grands yeux expressifs et allure de superstar charmante. Beauté naturelle, style élégant, traits faciaux réalistes et apparence cohérente dans chaque plan.
-
-ENVIRONNEMENT : Appartement moderne → miroir de la chambre → garde-robe → rue de la ville → extérieur du café → intérieur cosy du café → table → rue de la ville le soir avec lumières scintillantes.
-
-ARC ÉMOTIONNEL : Attente romantique → excitation nerveuse → récompense émotionnelle chaleureuse.
-
-SÉQUENCE DE PLANS :
-
-Plan 1 : Gros plan sur la jeune femme assise sur son lit, souriant doucement tout en lisant un message texte sur son téléphone.
-
-Plan 2 : Elle regarde à nouveau son téléphone, ses yeux pétillant d'excitation.
-
-Plan 3 : Debout devant le miroir, elle ajuste délicatement ses cheveux bruns courts.
-
-Plan 4 : Elle tape un message, marque une pause et sourit timidement.
-
-Plan 5 : Elle jette un coup d'œil à l'heure, prend une profonde inspiration et se lève.
-
-Plan 6 : Transition stylée de changement de tenue alors qu'elle se prépare pour son rendez-vous.
-
-Plan 7 : Gros plan au ralenti de sa vaporisation de parfum autour de son cou.
-
-Plan 8 : Regard final dans le miroir ; elle ajuste sa tenue et s'offre un sourire confiant.
-
-Plan 9 : Plan-séquence cinématographique la montrant marcher le long d'une rue animée vers un café.
-
-Plan 10 : Elle arrive devant le café et aperçoit soudain quelqu'un qu'elle reconnaît.
-
-Plan 11 : Son expression se transforme en un sourire chaud et enthousiaste en voyant qu'il attend.
-
-Plan 12 : Gros plan sur leurs regards qui se croisent, capturant un moment d'affection mutuelle.
-
-Plan 13 : Ils avancent lentement l'un vers l'autre, avec un effet de ralenti doux et un bokeh flou en arrière-plan.
-
-Plan 14 : Gros plan intime alors qu'ils se penchent l'un vers l'autre, souriant doucement avant de fermer les yeux.
-
-Plan 15 : Ils partagent un baiser romantique doux sur les lèvres, avec des lumières urbaines floues, un éclat doré chaud et une fin cinématographique magnifique.
-
-STYLE VISUEL : Romance cinématographique ultra-réaliste, texture de peau naturelle, yeux expressifs, mouvements de caméra fluides, faible profondeur de champ, éclairage chaud, physique réaliste, transitions élégantes et identité de personnage cohérente.
-
-MUSIQUE & MONTAGE : Bande originale pop romantique à 145 BPM, avec chaque plan synchronisé sur le rythme. Utiliser des coupes rapides pendant la séquence de préparation, des transitions fluides lors de la marche, et un effet de ralenti subtil durant le moment romantique final.
-
-FIN : Maintenir le baiser final brièvement, avec des lumières urbaines chaudes scintillant en arrière-plan.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110225665039695873/img/ovyU72lmMYvFibGM.jpg" width="600" alt="Séquence Vidéo Romantique pour Rendez-vous">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12478)**
-
-**Auteur:** [Dania](https://x.com/DaniaSafvi) | **Source:** [Link](https://x.com/DaniaSafvi/status/2110225751387803697) | **Publié:** Oct 14, 2026
-
----
 ### Scène de combat entre un épéiste en robe blanche et un dragon
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5713,6 +5652,38 @@ Créez une séquence d'action cinématographique ultra-réaliste de 31 secondes 
 **Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2104390191352103147) | **Publié:** Sep 28, 2026
 
 ---
+### Prompt d'événement mondial : Le retour des objets perdus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt poétique et descriptif pour Seedance 2.0 Mini, illustrant un événement mondial où les objets, animaux et lettres perdus reviennent sur Terre, créant des scènes de merveille et de retrouvailles.
+
+#### 📝 Prompt
+
+```
+À travers la Terre, quelque chose d'impossible commence à se produire.
+Tout ce qui a été perdu revient.
+Un jouet oublié sort de l'océan. Des navires anciens émergent d'un brouillard lumineux. Des animaux disparus apparaissent à l'horizon lointain. Des millions de lettres perdues descendent doucement du ciel.
+Les gens s'arrêtent.
+Des foules se rassemblent.
+Des villes entières observent le déroulement de retrouvailles impossibles.
+Un enfant voit son animal de compagnie bien-aimé courir vers lui. Des trésors longtemps perdus émergent des déserts. Des forêts anciennes réapparaissent là où ne se trouvait que terre nue.
+Le phénomène s'étend à la planète entière.
+De plus en plus de choses reviennent.
+L'ampleur devient gigantesque.
+Le ciel se remplit d'inventions perdues. D'histoires perdues. De possibilités perdues.
+L'humanité observe ensemble.
+Un monde qui renoue avec tout ce qu'il croyait perdu à jamais.
+Fantaisie scientifique majestueuse, narration émotionnelle, événement mondial massif, visuels à couper le souffle, émerveillement, espoir, cinématographie spectaculaire, mouvement dynamique, environnements photoréalistes, échelle épique, chef-d'œuvre, 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104037560196435968/img/MimcVdt7eNrPmpOt.jpg" width="600" alt="Prompt d'événement mondial : Le retour des objets perdus">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11482)**
+
+**Auteur:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2104264808119816501) | **Publié:** Sep 27, 2026
+
+---
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -5774,6 +5745,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-15T03:42:04.061Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-15T09:13:44.571Z</sub>
 
 </div>

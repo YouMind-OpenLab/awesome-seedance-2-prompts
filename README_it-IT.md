@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6542** |
+| 📝 Totale prompt | **6541** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-10-15** |
 
@@ -361,67 +361,6 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
-### Sequenza Video di Appuntamento Romantico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per creare una sequenza video romantica che segue una donna mentre si prepara e arriva a un appuntamento, terminando con un bacio, inclusi elenchi dettagliati delle inquadrature e archi emotivi.
-
-#### 📝 Prompt
-
-```
-Una giovane donna adulta bella, con capelli castani corti, occhi grandi ed espressivi e un aspetto da superstar affascinante. Bellezza naturale, stile elegante, tratti facciali realistici e aspetto coerente in ogni inquadratura.
-
-AMBIENTE: Appartamento moderno → specchio della camera da letto → armadio → strada cittadina → esterno del caffè → interno accogliente del caffè → tavolo → strada cittadina serale con luci brillanti.
-
-ARCO EMOTIVO: Anticipazione romantica → eccitazione nervosa → ricompensa emotiva toccante.
-
-SEQUENZA INQUADRATURE:
-
-Inquadratura 1: Primo piano della ragazza seduta sul letto, che sorride dolcemente mentre legge un messaggio sul telefono.
-
-Inquadratura 2: Guarda di nuovo il telefono, con gli occhi che brillano di eccitazione.
-
-Inquadratura 3: In piedi davanti allo specchio, sistema delicatamente i suoi capelli castani corti.
-
-Inquadratura 4: Digita un messaggio, fa una pausa e sorride timidamente.
-
-Inquadratura 5: Controlla l'ora, fa un respiro profondo e si alza.
-
-Inquadratura 6: Una transizione stilosa di cambio d'abito mentre si prepara per l'appuntamento.
-
-Inquadratura 7: Primo piano al rallentatore mentre spruzza profumo intorno al collo.
-
-Inquadratura 8: Ultima occhiata allo specchio; aggiusta l'outfit e si regala un sorriso sicuro.
-
-Inquadratura 9: Inquadratura di tracking cinematografica mentre cammina lungo una vivace strada cittadina verso un caffè.
-
-Inquadratura 10: Arriva fuori dal caffè e nota improvvisamente qualcuno che riconosce.
-
-Inquadratura 11: La sua espressione cambia in un sorriso caldo ed entusiasta nel vederlo aspettare.
-
-Inquadratura 12: Primo piano dei loro occhi che si incontrano, catturando un momento di affetto reciproco.
-
-Inquadratura 13: Camminano lentamente l'uno verso l'altra, con un delicato effetto al rallentatore e bokeh morbido sullo sfondo.
-
-Inquadratura 14: Primo piano intimo mentre si avvicinano l'uno all'altra, sorridendo dolcemente prima di chiudere gli occhi.
-
-Inquadratura 15: Condividono un bacio romantico gentile sulle labbra, con luci cittadine sfocate, un bagliore dorato caldo e una bellissima conclusione cinematografica.
-
-STILE VISIVO: Romanzo cinematografico ultra-realistico, texture naturale della pelle, occhi espressivi, movimenti fluidi della telecamera, profondità di campo ridotta, illuminazione calda, fisica realistica, transizioni eleganti e identità del personaggio coerente.
-
-MUSICA & MONTAGGIO: Colonna sonora pop romantica a 145 BPM, con ogni inquadratura sincronizzata al ritmo. Usa tagli rapidi durante la sequenza di preparazione, transizioni fluide mentre cammina e un sottile effetto al rallentatore durante il momento romantico finale.
-
-FINALE: Mantieni il bacio finale brevemente, con le calde luci cittadine che scintillano sullo sfondo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110225665039695873/img/ovyU72lmMYvFibGM.jpg" width="600" alt="Sequenza Video di Appuntamento Romantico">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12478)**
-
-**Autore:** [Dania](https://x.com/DaniaSafvi) | **Fonte:** [Link](https://x.com/DaniaSafvi/status/2110225751387803697) | **Pubblicato:** Oct 14, 2026
-
----
 ### Scena di Battaglia del Cavaliere dalla Roba Bianca contro il Drago
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5875,6 +5814,38 @@ Crea una sequenza d'azione cinematografica ultra-realistica di 31 secondi ambien
 **Autore:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2104390191352103147) | **Pubblicato:** Sep 28, 2026
 
 ---
+### Prompt per Evento Globale: Il Ritorno delle Cose Smarrite
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt poetico e descrittivo per Seedance 2.0 Mini che raffigura un evento globale in cui oggetti, animali e lettere smarriti fanno ritorno sulla Terra, creando scene di meraviglia e reunion.
+
+#### 📝 Prompt
+
+```
+In tutto il mondo, inizia a succedere qualcosa di impossibile.
+Tutto ciò che è stato mai perso comincia a tornare.
+Un giocattolo dimenticato esce dall'oceano. Navi antiche emergono da una nebbia luminosa. Animali estinti appaiono all'orizzonte lontano. Milioni di lettere smarrite scendono dolcemente dal cielo.
+Le persone si fermano.
+Si radunano folle.
+Intere città osservano mentre si svolgono reunion impossibili.
+Un bambino vede il suo animale domestico preferito corrergli incontro. Tesori perduti da tempo emergono dai deserti. Foreste antiche riappaiono dove prima c'era solo terra vuota.
+Il fenomeno si diffonde sul pianeta.
+Sempre più cose tornano.
+La scala diventa enorme.
+I cieli si riempiono di invenzioni perdute. Storie perdute. Possibilità perdute.
+L'umanità osserva insieme.
+Un mondo che si riconnette con tutto ciò che credeva scomparso per sempre.
+Fantascienza maestosa, narrazione emotiva, grande evento globale, visual mozzafiato, meraviglia, speranza, cinematografia spettacolare, movimento dinamico, ambienti fotorealistici, scala epica, capolavoro, 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104037560196435968/img/MimcVdt7eNrPmpOt.jpg" width="600" alt="Prompt per Evento Globale: Il Ritorno delle Cose Smarrite">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11482)**
+
+**Autore:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fonte:** [Link](https://x.com/AllaAisling/status/2104264808119816501) | **Pubblicato:** Sep 27, 2026
+
+---
 ---
 
 ## 📚 Altri prompt disponibili
@@ -5936,6 +5907,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-15T03:42:05.787Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-15T09:13:46.111Z</sub>
 
 </div>

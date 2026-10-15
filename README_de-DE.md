@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6542** |
+| 📝 Gesamtanzahl Prompts | **6541** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-10-15** |
 
@@ -361,67 +361,6 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
-### Romantische Date-Videosequenz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung einer romantischen Videosequenz, die eine Frau zeigt, wie sie sich auf ein Date vorbereitet und ankommt, endend mit einem Kuss. Enthält detaillierte Shot-Listen und emotionale Spannungsbögen.
-
-#### 📝 Prompt
-
-```
-Eine schöne junge erwachsene Frau mit kurzen braunen Haaren, großen ausdrucksstarken Augen und einem charmanten Superstar-Look. Natürliche Schönheit, eleganter Stil, realistische Gesichtszüge und konsistentes Erscheinungsbild in jeder Einstellung.
-
-UMGEBUNG: Moderne Wohnung → Schlafzimmerspiegel → Kleiderschrank → Stadtstraße → Café-Außenseite → gemütliches Café-Innenraum → Tisch → abendliche Stadtstraße mit leuchtenden Lichtern.
-
-EMOTIONALER SPANNUNGSBOGEN: Romantische Vorfreude → nervöse Aufregung → herzerwärmende emotionale Belohnung.
-
-SHOT-SEQUENZ:
-
-Shot 1: Nahaufnahme des Mädchens, das auf ihrem Bett sitzt und sanft lächelnd eine Textnachricht auf ihrem Handy liest.
-
-Shot 2: Sie schaut erneut auf ihr Handy, ihre Augen funkeln vor Aufregung.
-
-Shot 3: Vor dem Spiegel stehend richtet sie sanft ihre kurzen braunen Haare.
-
-Shot 4: Sie tippt eine Nachricht, hält inne und lächelt schüchtern.
-
-Shot 5: Sie wirft einen Blick auf die Uhr, atmet tief durch und steht auf.
-
-Shot 6: Ein stilvoller Outfitwechsel-Übergang, während sie sich für ihr Date vorbereitet.
-
-Shot 7: Zeitlupen-Nahaufnahme, wie sie Parfüm um ihren Hals sprüht.
-
-Shot 8: Letzter Blick im Spiegel; sie richtet ihr Outfit aus und schenkt sich selbst ein selbstbewusstes Lächeln.
-
-Shot 9: Kinematografischer Tracking-Shot von ihr, wie sie entlang einer belebten Stadtstraße zu einem Café geht.
-
-Shot 10: Sie kommt draußen vor dem Café an und erkennt plötzlich jemanden.
-
-Shot 11: Ihr Ausdruck wechselt zu einem warmen, aufregenden Lächeln, als sie ihn wartend sieht.
-
-Shot 12: Nahaufnahme ihrer sich treffenden Blicke, einfängt eines Moments gegenseitiger Zuneigung.
-
-Shot 13: Sie gehen langsam aufeinander zu, mit einem sanften Zeitlupeneffekt und weichem Hintergrund-Bokeh.
-
-Shot 14: Intime Nahaufnahme, als sie sich zueinander neigen, sanft lächelnd, bevor sie ihre Augen schließen.
-
-Shot 15: Sie teilen einen sanften romantischen Kuss auf den Lippen, mit verschwommenen Stadtlichtern, einem warmen goldenen Schein und einem schönen kinematografischen Ende.
-
-VISUELLER STIL: Ultra-realistische kinematografische Romantik, natürliche Hauttextur, ausdrucksstarke Augen, flüssige Kamerabewegungen, geringe Schärfentiefe, warmes Licht, realistische Physik, elegante Übergänge und konsistente Charakteridentität.
-
-MUSIK & SCHNITT: Romantischer Pop-Soundtrack bei 145 BPM, wobei jede Einstellung synchron zum Takt ist. Verwenden Sie schnelle Schnitte während der Vorbereitungssequenz, weiche Übergänge beim Gehen und einen subtilen Zeitlupeneffekt während des letzten romantischen Moments.
-
-ENDE: Halten Sie den letzten Kuss kurz, mit warmen Stadtlichtern, die im Hintergrund schimmern.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110225665039695873/img/ovyU72lmMYvFibGM.jpg" width="600" alt="Romantische Date-Videosequenz">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12478)**
-
-**Autor:** [Dania](https://x.com/DaniaSafvi) | **Quelle:** [Link](https://x.com/DaniaSafvi/status/2110225751387803697) | **Veröffentlicht:** Oct 14, 2026
-
----
 ### Schwertkämpfer im weißen Gewand: Drachenkampf-Szene
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5977,6 +5916,38 @@ Create a 31-second ultra-realistic cinematic action sequence set in a destroyed 
 **Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2104390191352103147) | **Veröffentlicht:** Sep 28, 2026
 
 ---
+### Prompt zum globalen Ereignis: Verlorenes kehrt zurück
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein poetischer und beschreibender Prompt für Seedance 2.0 Mini, der ein globales Ereignis darstellt, bei dem verlorene Gegenstände, Tiere und Briefe zur Erde zurückkehren und Szenen des Staunens und Wiedersehens schaffen.
+
+#### 📝 Prompt
+
+```
+Auf der ganzen Erde beginnt etwas Unmögliches.
+Alles, was jemals verloren ging, kehrt zurück.
+Ein vergessenes Spielzeug steigt aus dem Ozean. Uralt Schiffe tauchen aus leuchtendem Nebel auf. Ausgestorbene Tiere erscheinen am fernen Horizont. Millionen verlorener Briefe sinken sanft vom Himmel herab.
+Die Menschen halten inne.
+Menschenmengen versammeln sich.
+Ganze Städte beobachten, wie unmögliche Wiederbegegnungen sich entfalten.
+Ein Kind sieht sein geliebtes Haustier auf sich zulaufen. Lang vermisste Schätze werden aus Wüsten geborgen. Urwaldige Wälder entstehen dort wieder, wo einst leeres Land war.
+Das Phänomen breitet sich über den Planeten aus.
+Immer mehr Dinge kehren zurück.
+Der Maßstab wird gewaltig.
+Der Himmel füllt sich mit verlorenen Erfindungen. Verlorenen Geschichten. Verlorenen Möglichkeiten.
+Die Menschheit schaut gemeinsam zu.
+Eine Welt, die sich mit allem verbindet, das sie für immer verloren glaubte.
+Majestätische Science-Fiction-Fantasie, emotionale Erzählkunst, globales Großereignis, atemberaubende Visuals, Staunen, Hoffnung, spektakuläre Kinematografie, dynamische Bewegung, fotorealistische Umgebungen, epischer Maßstab, Meisterwerk, 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104037560196435968/img/MimcVdt7eNrPmpOt.jpg" width="600" alt="Prompt zum globalen Ereignis: Verlorenes kehrt zurück">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11482)**
+
+**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Quelle:** [Link](https://x.com/AllaAisling/status/2104264808119816501) | **Veröffentlicht:** Sep 27, 2026
+
+---
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -6038,6 +6009,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-15T03:42:03.207Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-15T09:13:42.818Z</sub>
 
 </div>

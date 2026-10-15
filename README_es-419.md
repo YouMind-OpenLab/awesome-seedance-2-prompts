@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6542** |
+| 📝 Total de prompts | **6541** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-10-15** |
 
@@ -361,67 +361,6 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
-### Secuencia de video para una cita romántica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para crear una secuencia de video romántica que sigue a una mujer preparándose y llegando a una cita, terminando con un beso, incluyendo listas detalladas de tomas y arcos emocionales.
-
-#### 📝 Prompt
-
-```
-Una joven adulta hermosa con cabello castaño corto, ojos grandes y expresivos, y un encanto de superestrella. Belleza natural, estilo elegante, rasgos faciales realistas y apariencia consistente en cada toma.
-
-ENTORNO: Apartamento moderno → espejo del dormitorio → armario → calle de la ciudad → exterior de una cafetería → interior acogedor de la cafetería → mesa → calle nocturna de la ciudad con luces brillantes.
-
-ARCO EMOCIONAL: Anticipación romántica → emoción nerviosa → recompensa emocional cálida.
-
-SECUENCIA DE TOMAS:
-
-Toma 1: Primer plano de la chica sentada en su cama, sonriendo suavemente mientras lee un mensaje de texto en su teléfono.
-
-Toma 2: Vuelve a mirar su teléfono, sus ojos brillan de emoción.
-
-Toma 3: De pie frente al espejo, se arregla suavemente su cabello castaño corto.
-
-Toma 4: Escribe un mensaje, hace una pausa y sonríe tímidamente.
-
-Toma 5: Mira la hora, respira profundamente y se levanta.
-
-Toma 6: Una transición estilosa de cambio de ropa mientras se prepara para su cita.
-
-Toma 7: Primer plano en cámara lenta de ella rociando perfume alrededor de su cuello.
-
-Toma 8: Última mirada al espejo; ajusta su atuendo y se da una sonrisa confiada.
-
-Toma 9: Toma de seguimiento cinematográfica de ella caminando por una animada calle de la ciudad hacia una cafetería.
-
-Toma 10: Llega afuera de la cafetería y de repente ve a alguien que reconoce.
-
-Toma 11: Su expresión cambia a una sonrisa cálida y emocionada al verlo esperando.
-
-Toma 12: Primer plano de sus ojos encontrándose, capturando un momento de afecto mutuo.
-
-Toma 13: Caminan lentamente el uno hacia el otro, con un suave efecto de cámara lenta y bokeh de fondo difuminado.
-
-Toma 14: Primer plano íntimo mientras se inclinan el uno hacia el otro, sonriendo suavemente antes de cerrar los ojos.
-
-Toma 15: Comparten un beso romántico y tierno en los labios, con luces de la ciudad borrosas, un resplandor dorado cálido y un hermoso final cinematográfico.
-
-ESTILO VISUAL: Romance cinematográfico ultra-realista, textura de piel natural, ojos expresivos, movimientos de cámara suaves, profundidad de campo reducida, iluminación cálida, física realista, transiciones elegantes e identidad de personaje consistente.
-
-MÚSICA Y EDICIÓN: Banda sonora pop romántica a 145 BPM, con cada toma sincronizada con el ritmo. Usa cortes rápidos durante la secuencia de preparación, transiciones suaves mientras camina y un sutil efecto de cámara lenta durante el momento romántico final.
-
-FINAL: Mantén el beso final brevemente, con las luces cálidas de la ciudad brillando en el fondo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110225665039695873/img/ovyU72lmMYvFibGM.jpg" width="600" alt="Secuencia de video para una cita romántica">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12478)**
-
-**Autor:** [Dania](https://x.com/DaniaSafvi) | **Fuente:** [Link](https://x.com/DaniaSafvi/status/2110225751387803697) | **Publicado:** Oct 14, 2026
-
----
 ### Escena de Batalla: Esgrimista con Túnica Blanca contra Dragón
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5939,6 +5878,38 @@ Crea una secuencia de acción cinematográfica ultra realista de 31 segundos amb
 **Autor:** [Maha](https://x.com/Aiwithmaha) | **Fuente:** [Link](https://x.com/Aiwithmaha/status/2104390191352103147) | **Publicado:** Sep 28, 2026
 
 ---
+### Prompt para Evento Global: El Regreso de lo Perdido
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt poético y descriptivo para Seedance 2.0 Mini que representa un evento global donde objetos perdidos, animales y cartas regresan a la Tierra, creando escenas de asombro y reencuentro.
+
+#### 📝 Prompt
+
+```
+En toda la Tierra, comienza a ocurrir algo imposible.
+Todo lo que alguna vez se perdió empieza a regresar.
+Un juguete olvidado sale del océano. Barcos antiguos emergen de una niebla luminosa. Animales extintos aparecen en horizontes lejanos. Millones de cartas perdidas descienden suavemente desde el cielo.
+La gente deja de hacer lo que estaba haciendo.
+Se reúnen multitudes.
+Ciudades enteras observan cómo se desarrollan reencuentros imposibles.
+Un niño ve a su mascota querida corriendo hacia él. Tesoros largamente perdidos emergen de los desiertos. Bosques antiguos reaparecen donde antes había tierra vacía.
+El fenómeno se extiende por todo el planeta.
+Cada vez más cosas regresan.
+La escala se vuelve enorme.
+Los cielos se llenan de inventos perdidos. Historias perdidas. Posibilidades perdidas.
+La humanidad observa junta.
+Un mundo reconectándose con todo aquello que creyó perdido para siempre.
+Fantasía de ciencia ficción majestuosa, narrativa emocional, evento global masivo, visuales impresionantes, asombro, esperanza, cinematografía espectacular, movimiento dinámico, entornos fotorrealistas, escala épica, obra maestra, 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104037560196435968/img/MimcVdt7eNrPmpOt.jpg" width="600" alt="Prompt para Evento Global: El Regreso de lo Perdido">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11482)**
+
+**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fuente:** [Link](https://x.com/AllaAisling/status/2104264808119816501) | **Publicado:** Sep 27, 2026
+
+---
 ---
 
 ## 📚 Más prompts disponibles
@@ -6000,6 +5971,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-15T03:42:02.345Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-15T09:13:41.186Z</sub>
 
 </div>

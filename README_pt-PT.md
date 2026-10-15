@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6542** |
+| 📝 Total de prompts | **6541** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-10-15** |
 
@@ -361,67 +361,6 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
-### Sequência de Vídeo de Encontro Romântico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para criar uma sequência de vídeo romântica seguindo uma mulher se preparando e chegando a um encontro, terminando com um beijo, incluindo listas detalhadas de planos e arcos emocionais.
-
-#### 📝 Prompt
-
-```
-Uma jovem adulta bonita com cabelo castanho curto, olhos grandes e expressivos, e um visual charmoso de estrela. Beleza natural, estilo elegante, características faciais realistas e aparência consistente em todos os planos.
-
-AMBIENTE: Apartamento moderno → espelho do quarto → guarda-roupa → rua da cidade → exterior do café → interior acolhedor do café → mesa → rua da cidade à noite com luzes brilhantes.
-
-ARCO EMOCIONAL: Antecipação romântica → empolgação nervosa → recompensa emocional calorosa.
-
-SEQUÊNCIA DE PLANOS:
-
-Plano 1: Close-up da garota sentada na cama, sorrindo suavemente enquanto lê uma mensagem no celular.
-
-Plano 2: Ela olha para o celular novamente, seus olhos brilhando de empolgação.
-
-Plano 3: Em frente ao espelho, ela ajusta delicadamente seu cabelo castanho curto.
-
-Plano 4: Ela digita uma mensagem, pausa e sorri timidamente.
-
-Plano 5: Ela confere as horas, respira fundo e levanta-se.
-
-Plano 6: Uma transição estilosa de troca de roupa enquanto ela se prepara para o encontro.
-
-Plano 7: Close-up em câmera lenta dela borrifando perfume ao redor do pescoço.
-
-Plano 8: Última olhada no espelho; ela ajusta a roupa e dá a si mesma um sorriso confiante.
-
-Plano 9: Plano de acompanhamento cinematográfico dela caminhando por uma rua movimentada da cidade em direção a um café.
-
-Plano 10: Ela chega do lado de fora do café e de repente avista alguém que reconhece.
-
-Plano 11: Sua expressão muda para um sorriso caloroso e animado ao vê-lo esperando.
-
-Plano 12: Close-up dos olhos deles se encontrando, capturando um momento de afeto mútuo.
-
-Plano 13: Eles caminham lentamente um em direção ao outro, com um efeito suave de câmera lenta e bokeh de fundo desfocado.
-
-Plano 14: Close-up íntimo enquanto eles se inclinam um em direção ao outro, sorrindo suavemente antes de fechar os olhos.
-
-Plano 15: Eles compartilham um beijo romântico gentil nos lábios, com luzes da cidade desfocadas, um brilho dourado quente e um belo final cinematográfico.
-
-ESTILO VISUAL: Romance cinematográfico ultra-realista, textura natural da pele, olhos expressivos, movimentos de câmera suaves, profundidade de campo rasa, iluminação quente, física realista, transições elegantes e identidade de personagem consistente.
-
-MÚSICA & EDIÇÃO: Trilha sonora pop romântica a 145 BPM, com cada plano sincronizado ao ritmo. Use cortes rápidos durante a sequência de preparação, transições suaves enquanto caminha e um sutil efeito de câmera lenta durante o momento romântico final.
-
-FINALIZAÇÃO: Mantenha o beijo final brevemente, com luzes quentes da cidade cintilando ao fundo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110225665039695873/img/ovyU72lmMYvFibGM.jpg" width="600" alt="Sequência de Vídeo de Encontro Romântico">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12478)**
-
-**Autor:** [Dania](https://x.com/DaniaSafvi) | **Fonte:** [Link](https://x.com/DaniaSafvi/status/2110225751387803697) | **Publicado:** Oct 14, 2026
-
----
 ### Cena de Batalha: Espadachim de Manto Branco contra Dragão
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5980,6 +5919,38 @@ Crie uma sequência de ação cinematográfica ultra-realista de 31 segundos amb
 **Autor:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2104390191352103147) | **Publicado:** Sep 28, 2026
 
 ---
+### Prompt para Evento Global: O Retorno das Coisas Perdidas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt poético e descritivo para o Seedance 2.0 Mini, retratando um evento global onde itens perdidos, animais e cartas retornam à Terra, criando cenas de maravilha e reencontro.
+
+#### 📝 Prompt
+
+```
+Ao redor da Terra, algo impossível começa a acontecer.
+Tudo que foi perdido alguma vez está começando a voltar.
+Um brinquedo esquecido sai do oceano. Navios antigos emergem de uma névoa luminosa. Animais extintos aparecem em horizontes distantes. Milhões de cartas perdidas descem suavemente do céu.
+As pessoas param o que estão fazendo.
+Multidões se reúnem.
+Cidades inteiras assistem enquanto reencontros impossíveis se desenrolam.
+Uma criança vê seu animal de estimação amado correndo em sua direção. Tesouros há muito perdidos emergem dos desertos. Florestas antigas reaparecem onde antes havia terra vazia.
+O fenômeno se espalha pelo planeta.
+Mais e mais coisas retornam.
+A escala torna-se enorme.
+Os céus se enchem de invenções perdidas. Histórias perdidas. Possibilidades perdidas.
+A humanidade observa junta.
+Um mundo reconectando-se com tudo aquilo que achava ter desaparecido para sempre.
+Fantasia majestosa de ficção científica, narrativa emocional, evento global massivo, visuais de tirar o fôlego, maravilha, esperança, cinematografia espetacular, movimento dinâmico, ambientes fotorrealistas, escala épica, obra-prima, 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104037560196435968/img/MimcVdt7eNrPmpOt.jpg" width="600" alt="Prompt para Evento Global: O Retorno das Coisas Perdidas">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11482)**
+
+**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fonte:** [Link](https://x.com/AllaAisling/status/2104264808119816501) | **Publicado:** Sep 27, 2026
+
+---
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -6041,6 +6012,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-15T03:42:09.103Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-15T09:13:50.354Z</sub>
 
 </div>

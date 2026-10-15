@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6542** |
+| 📝 Tổng số prompt | **6541** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-10-15** |
 
@@ -361,67 +361,6 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
-### Chuỗi Video Hẹn Hò Lãng Mạn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo chuỗi video lãng mạn theo chân một cô gái chuẩn bị và đến buổi hẹn, kết thúc bằng nụ hôn, bao gồm danh sách cảnh quay chi tiết và diễn biến cảm xúc.
-
-#### 📝 Prompt
-
-```
-Một phụ nữ trẻ xinh đẹp với mái tóc nâu ngắn, đôi mắt to biểu cảm và vẻ ngoài quyến rũ như ngôi sao. Vẻ đẹp tự nhiên, phong cách thanh lịch, các đặc điểm khuôn mặt chân thực và ngoại hình nhất quán trong mọi cảnh quay.
-
-MÔI TRƯỜNG: Căn hộ hiện đại → gương phòng ngủ → tủ quần áo → phố thị → bên ngoài quán cà phê → không gian ấm cúng bên trong quán → bàn ngồi → phố đêm lung linh ánh đèn.
-
-DIỄN BIẾN CẢM XÚC: Sự mong chờ lãng mạn → hồi hộp phấn khích → khoảnh khắc cảm xúc ngọt ngào.
-
-TRÌNH TỰ CẢNH QUAY:
-
-Cảnh 1: Cận cảnh cô gái ngồi trên giường, mỉm cười dịu dàng khi đọc tin nhắn trên điện thoại.
-
-Cảnh 2: Cô lại nhìn vào điện thoại, đôi mắt lấp lánh đầy phấn khích.
-
-Cảnh 3: Đứng trước gương, cô nhẹ nhàng chỉnh sửa mái tóc nâu ngắn của mình.
-
-Cảnh 4: Cô gõ một tin nhắn, dừng lại và mỉm cười e thẹn.
-
-Cảnh 5: Cô liếc nhìn giờ, hít một hơi thật sâu rồi đứng dậy.
-
-Cảnh 6: Chuyển cảnh thay đồ thời trang khi cô chuẩn bị cho buổi hẹn.
-
-Cảnh 7: Cận cảnh quay chậm khi cô xịt nước hoa quanh cổ.
-
-Cảnh 8: Cái nhìn cuối cùng vào gương; cô chỉnh lại trang phục và nở một nụ cười tự tin.
-
-Cảnh 9: Cảnh quay tracking điện ảnh khi cô đi bộ dọc theo con phố sôi động hướng về phía quán cà phê.
-
-Cảnh 10: Cô đến trước quán cà phê và bất ngờ nhận ra ai đó quen thuộc.
-
-Cảnh 11: Biểu cảm của cô chuyển thành nụ cười ấm áp, phấn khích khi thấy anh ấy đang chờ đợi.
-
-Cảnh 12: Cận cảnh ánh mắt họ gặp nhau, nắm bắt khoảnh khắc tình cảm lẫn nhau.
-
-Cảnh 13: Họ từ từ tiến về phía nhau, với hiệu ứng quay chậm nhẹ nhàng và bokeh nền mờ ảo.
-
-Cảnh 14: Cận cảnh thân mật khi họ nghiêng về phía nhau, mỉm cười dịu dàng trước khi nhắm mắt lại.
-
-Cảnh 15: Họ trao nhau một nụ hôn lãng mạn nhẹ nhàng trên môi, với ánh đèn thành phố mờ ảo, sắc vàng ấm áp và cái kết điện ảnh tuyệt đẹp.
-
-PHONG CÁCH HÌNH ẢNH: Lãng mạn điện ảnh siêu thực tế, kết cấu da tự nhiên, đôi mắt biểu cảm, chuyển động máy quay mượt mà, độ sâu trường ảnh nông, ánh sáng ấm áp, vật lý chân thực, chuyển cảnh thanh lịch và bản sắc nhân vật nhất quán.
-
-ÂM NHẠC & BIÊN TẬP: Nhạc nền pop lãng mạn ở nhịp 145 BPM, đồng bộ hóa từng cảnh quay với nhịp điệu. Sử dụng các cú cắt nhanh trong phân đoạn chuẩn bị, chuyển cảnh mượt mà khi đi bộ và hiệu ứng quay chậm tinh tế trong khoảnh khắc lãng mạn cuối cùng.
-
-KẾT THÚC: Giữ nguyên nụ hôn cuối cùng trong giây lát, với ánh đèn thành phố ấm áp lung linh ở hậu cảnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110225665039695873/img/ovyU72lmMYvFibGM.jpg" width="600" alt="Chuỗi Video Hẹn Hò Lãng Mạn">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12478)**
-
-**Tác giả:** [Dania](https://x.com/DaniaSafvi) | **Nguồn:** [Link](https://x.com/DaniaSafvi/status/2110225751387803697) | **Đã xuất bản:** Oct 14, 2026
-
----
 ### Cảnh Chiến Đấu Giữa Kiếm Sĩ Áo Trắng Và Thủy Long
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5896,6 +5835,38 @@ Tạo một chuỗi hành động điện ảnh siêu thực dài 31 giây, bố
 **Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2104390191352103147) | **Đã xuất bản:** Sep 28, 2026
 
 ---
+### Prompt Sự Kiện Toàn Cầu: Những Thứ Mất Tích Trở Về
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt mô tả đầy chất thơ cho Seedance 2.0 Mini, khắc họa một sự kiện toàn cầu nơi những món đồ thất lạc, động vật và thư từ trở về Trái Đất, tạo nên những cảnh tượng kỳ diệu và đoàn tụ.
+
+#### 📝 Prompt
+
+```
+Khắp Trái Đất, một điều không thể bắt đầu xảy ra.
+Mọi thứ từng bị mất đi đều bắt đầu quay trở lại.
+Một món đồ chơi bị lãng quên bước ra từ đại dương. Những con tàu cổ xưa hiện lên từ làn sương phát sáng. Các loài động vật đã tuyệt chủng xuất hiện ở chân trời xa xôi. Hàng triệu bức thư thất lạc nhẹ nhàng rơi xuống từ bầu trời.
+Mọi người dừng mọi hoạt động đang làm.
+Đám đông tụ tập.
+Cả thành phố dõi theo khi những cuộc đoàn tụ phi thường diễn ra.
+Một đứa trẻ thấy thú cưng yêu quý chạy về phía mình. Những kho báu mất tích từ lâu hiện ra từ sa mạc. Rừng già tái sinh trên vùng đất trống trải trước đây.
+Hiện tượng lan rộng khắp hành tinh.
+Càng ngày càng nhiều thứ quay trở lại.
+Quy mô trở nên khổng lồ.
+Bầu trời lấp đầy bởi những phát minh thất lạc. Những lịch sử bị mất. Những khả năng đã biến mất.
+Nhân loại cùng nhau chứng kiến.
+Một thế giới kết nối lại với tất cả những gì họ nghĩ là đã mất mãi mãi.
+Khoa học viễn tưởng kỳ vĩ, kể chuyện giàu cảm xúc, sự kiện toàn cầu quy mô lớn, hình ảnh ngoạn mục, sự kỳ diệu, hy vọng, quay phim đặc sắc, chuyển động động lực, môi trường siêu thực, quy mô sử thi, kiệt tác, tỷ lệ 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104037560196435968/img/MimcVdt7eNrPmpOt.jpg" width="600" alt="Prompt Sự Kiện Toàn Cầu: Những Thứ Mất Tích Trở Về">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11482)**
+
+**Tác giả:** [Alexandra Aisling](https://x.com/AllaAisling) | **Nguồn:** [Link](https://x.com/AllaAisling/status/2104264808119816501) | **Đã xuất bản:** Sep 27, 2026
+
+---
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -5957,6 +5928,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-15T03:41:59.551Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-15T09:13:34.952Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6542** |
+| 📝 Toplam İstem | **6541** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-10-15** |
 
@@ -361,67 +361,6 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
-### Romantik Buluşma Video Serisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kadının buluşmaya hazırlanışını, varışını ve öpüşmeyle sonlanan romantik bir video serisi oluşturmak için detaylı çekim listeleri ve duygu yayları içeren prompt.
-
-#### 📝 İstem
-
-```
-Kısa kahverengi saçlı, büyük ve ifade dolu gözlere sahip, büyüleyici süperstar görünümlü güzel genç yetişkin kadın. Doğal güzellik, zarif stil, gerçekçi yüz hatları ve her çekimde tutarlı görünüm.
-
-ORTAM: Modern daire → yatak odası aynası → gardırop → şehir sokağı → kafe dış cephesi → samimi kafe iç mekanı → masa → parlayan ışıklarla akşam şehir sokağı.
-
-DUYGU YAYI: Romantik beklenti → heyecanlı gerginlik → yürek ısıtan duygusal doruk noktası.
-
-ÇEKİM SIRASI:
-
-Çekim 1: Kızın yatağında otururken telefonunda bir mesaj okuduğu ve yumuşakça gülümsediği yakın plan.
-
-Çekim 2: Telefonuna tekrar baktığı, gözlerinin heyecandan parladığı an.
-
-Çekim 3: Ayna karşısında durarak kısa kahverengi saçlarını nazikçe düzeltmesi.
-
-Çekim 4: Bir mesaj yazması, duraksaması ve utangaçça gülümsemesi.
-
-Çekim 5: Saate bakması, derin bir nefes alması ve ayağa kalkması.
-
-Çekim 6: Buluşmasına hazırlanırken gerçekleşen şık kıyafet değişimi geçişi.
-
-Çekim 7: Boynuna parfüm sıkarken gösterilen ağır çekim yakın plan.
-
-Çekim 8: Son ayna kontrolü; kıyafetini düzeltmesi ve kendine güvenen bir gülümseme vermesi.
-
-Çekim 9: Canlı bir şehir sokağında kafeye doğru yürürken gösterilen sinematik takip çekimi.
-
-Çekim 10: Kafeye dışarıdan vardığında tanıdığı birini aniden fark etmesi.
-
-Çekim 11: Onu beklerken gördüğünde ifadesinin sıcak, heyecanlı bir gülümsemeye dönüşmesi.
-
-Çekim 12: Gözlerinin buluştuğu anı yakalayan, karşılıklı sevgiyi yansıtan yakın plan.
-
-Çekim 13: Nazik bir ağır çekim efekti ve yumuşak arka plan bokeh ile birbirlerine doğru yavaşça yürümeleri.
-
-Çekim 14: Gözlerini kapatmadan önce yumuşakça gülümseyerek birbirlerine eğildikleri samimi yakın plan.
-
-Çekim 15: Bulanık şehir ışıkları, sıcak altın rengi parıltı ve güzel bir sinematik final eşliğinde dudaklarında paylaştıkları nazik romantik öpücük.
-
-GÖRSEL TARZ: Ultra gerçekçi sinematik romantizm, doğal cilt dokusu, ifade dolu gözler, akıcı kamera hareketleri, sığ alan derinliği, sıcak aydınlatma, gerçekçi fizik kuralları, zarif geçişler ve tutarlı karakter kimliği.
-
-MÜZİK & KESİM: Her çekimin ritme senkronize edildiği 145 BPM'lik romantik pop soundtrack. Hazırlık sekansında hızlı kesimler, yürüyüş sırasında yumuşak geçişler ve son romantik anda ince bir ağır çekim efekti kullanın.
-
-SON: Sıcak şehir ışıklarının arka planda parıldadığı son öpücüğü kısa süreli olarak sabit tutun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110225665039695873/img/ovyU72lmMYvFibGM.jpg" width="600" alt="Romantik Buluşma Video Serisi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12478)**
-
-**Yazar:** [Dania](https://x.com/DaniaSafvi) | **Kaynak:** [Link](https://x.com/DaniaSafvi/status/2110225751387803697) | **Yayınlandı:** Oct 14, 2026
-
----
 ### Beyaz Cübbeli Kılıç Ustası: Ejderha Savaşı Sahnesi
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5941,6 +5880,38 @@ Yıkık modern bir şehirde geçen, parlayan kırmızı detaylara sahip şık si
 **Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2104390191352103147) | **Yayınlandı:** Sep 28, 2026
 
 ---
+### Kayıp Eşyaların Dönüşü: Küresel Olay Promptu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 Mini için, kayıp eşyaların, hayvanların ve mektupların Dünya'ya dönerek mucizevi buluşmalara sahne olduğu küresel bir olayı tasvir eden şiirsel ve betimleyici prompt.
+
+#### 📝 İstem
+
+```
+Dünya genelinde imkansız görünen bir şey olmaya başlıyor.
+Bir zamanlar kaybedilen her şey geri gelmeye başlıyor.
+Unutulmuş bir oyuncak okyanustan çıkıyor. Antik gemiler parlayan sisin içinden beliriyor. Nesli tükenmiş hayvanlar uzak ufuklarda ortaya çıkıyor. Milyonlarca kayıp mektup gökyüzünden yavaşça süzülüyor.
+İnsanlar yaptıkları işi bırakıyor.
+Kalabalıklar toplanıyor.
+Tüm şehirler, imkansız buluşmaların gerçekleştiği anları izliyor.
+Bir çocuk, sevdiği evcil hayvanının kendisine doğru koştuğunu görüyor. Uzun zamandır kayıp olan hazineler çöllerden çıkıyor. Eskiden boş arazi olan yerlerde kadim ormanlar yeniden beliriyor.
+Bu fenomen gezegenin tamamına yayılıyor.
+Giderek daha fazla şey geri geliyor.
+Ölçek devasa hale geliyor.
+Gökyüzü kayıp icatlarla, kayıp tarihlerle ve kayıp olasılıklarla doluyor.
+İnsanlık hep birlikte izliyor.
+Ebediyen gittiğini sandığı her şeyle yeniden bağ kuran bir dünya.
+Muhteşem bilim kurgu fantastiği, duygusal anlatım, büyük ölçekli küresel olay, nefes kesici görseller, merak, umut, etkileyici sinematografi, dinamik hareket, fotogerçekçi ortamlar, epik ölçek, başyapıt, 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104037560196435968/img/MimcVdt7eNrPmpOt.jpg" width="600" alt="Kayıp Eşyaların Dönüşü: Küresel Olay Promptu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11482)**
+
+**Yazar:** [Alexandra Aisling](https://x.com/AllaAisling) | **Kaynak:** [Link](https://x.com/AllaAisling/status/2104264808119816501) | **Yayınlandı:** Sep 27, 2026
+
+---
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -6002,6 +5973,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-15T03:42:10.164Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-15T09:13:52.636Z</sub>
 
 </div>
