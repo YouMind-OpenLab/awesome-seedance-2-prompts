@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6541** |
+| 📝 Toplam İstem | **6547** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-10-16** |
 
@@ -361,6 +361,154 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Mavi Pencerelerde Kaybolan Figürlerin Sürreal Sinematik Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İnsan figürlerinin karanlık bir arka plan karşısında parlayan mavi pencereler içinde süzüldüğü ve dumanla eridiği sürreal sinematik bir sekans oluşturmak için detaylı video üretim istemi.
+
+#### 📝 İstem
+
+```
+Derin siyah arka plan, elektrik mavisi pencereler ve monokrom dumanlarla 16:9 formatında, 12.8 saniyelik sürreal sinematik sanat videosu oluşturun.
+
+SAHNE 1 (0:00–0:01): Parlayan tek bir mavi dört panelli pencere, soluk kayalık bir çıkıntının üzerinde yatay olarak süzülen bir insan figürü içerir.
+
+SAHNE 2 (0:01–0:03): Pencere karanlığa dönüşerek çözülür; aynı süzülen insan figürü gri tonlarda kalır ve etrafında ince duman şeritleri belirir.
+
+SAHNE 3 (0:03–0:05): Tüy benzeri duman filamentleri, asılı duran figürün etrafında uzamış eliptik bir halka oluşturur.
+
+SAHNE 4 (0:05–0:07): Gri-beyaz duman kurdeleleri, siyah ortamda gerilip akarak bedenin etrafından yatay olarak geçer.
+
+SAHNE 5 (0:07–0:08): Duman dağılırken, süzülen figürün arkasında parlayan mavi bir pencere pürüzsüzce yeniden belirir.
+
+SAHNE 6 (0:08–0:10): Tek pencere, her biri farklı bir süzülme pozisyonunda insan figürü içeren düzensiz dizilmiş birden fazla mavi pencereye genişler.
+
+SAHNE 7 (0:10–0:12.8): Asılı duran figürler ve hafifçe parıldayan ışıklarla, dokulu karanlık bir arka plana karşı parlayan mavi pencerelerin tam yerleşimi ortaya çıkar.
+
+STİL & HAREKET: Sürreal güzel sanatlar sinematografisi, derin siyahlar, soğuk mavi aydınlatma, gri tonlu figürler, zarif duman, hacimsel ışıklandırma, ince film greni, yumuşak morflama geçişleri, sabit geniş açı kamera, tutarlı insan anatomisi ve giysi.
+
+NEGATİF İSTEM: Göz yok, göz küresi yok, renkli neon yok, parlak odalar yok, ani kesmeler yok, hızlı dönüşler yok, ani zoomlar yok, bozuk anatomi yok, ekstra uzuvlar yok, istenmeyen çoğaltmalar yok, metin yok, logo yok veya filigran yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110947855406080000/img/h_AHjQJABwOETClb.jpg" width="600" alt="Mavi Pencerelerde Kaybolan Figürlerin Sürreal Sinematik Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12582)**
+
+**Yazar:** [Sᴀɪʀᴀ](https://x.com/itsSaira_1) | **Kaynak:** [Link](https://x.com/itsSaira_1/status/2110947923412566187) | **Yayınlandı:** Oct 16, 2026
+
+---
+### Sinematik Dev Kedi Banyo Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kadının devasa bir Ragdoll kedisini yıkayıp kuruttuğu, sinematik ışıklandırma ve akıcı geçişlerle öne çıkan gerçekçi ve komik bir video için detaylı istem.
+
+#### 📝 İstem
+
+```
+30 saniyelik ultra-gerçekçi sinematik video istemi: Modern bir evin dışında oturan, muhteşem mavi gözlere, pembe buruna ve son derece yumuşak, kalın tüylere sahip devasa, kabarık beyaz-gri bir Ragdoll kedisiyle sıcak, komik ve görsel olarak büyüleyici 30 saniyelik bir video oluşturun. Uzun, düz koyu saçları, doğal gülümsemesi ve rahat lacivert kıyafetiyle güzel genç bir Koreli kadın, güneşli bir öğleden sonra dev kediye yaklaşır. Kediyi yeşil bir bahçe hortumuyla nazikçe suya tutar; kalın tüyleri ıslanırken kedi sakin ve sevimli kalır. Tüylerinden damlayan gerçekçi su damlalarını, detaylı ıslak tüy yapısını ve doğal kedi ifadelerini gösterin. Kadın, yeşillikler ve sıcak güneş ışığıyla çevrili araba yolunda dev kediyi dikkatlice yıkarken gülümser ve güler. Ardından, el tipi bir saç kurutma makinesi kullanarak dev kedinin kabarık kürkünü kuruttuğu samimi bir garaj sahnesine yumuşak bir geçiş yapın. Sıcak hava tüylerinin arasından geçerken kedi mutlu bir şekilde gözlerini kapatır, bu da onu daha büyük ve daha komik gösterir. Gerçekçi hayvan hareketleri, doğal insan ifadeleri, sinematik kamera açıları, yumuşak altın saat ışığı, detaylı tüy fiziği ve kusursuz geçişler kullanın. Videonun tamamında karakter görünümlerini tutarlı tutun; fotogerçekçi kalite, doğal ortam sesleri ile metin, logo veya filigran olmadan.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110921791401295872/img/LTge8nSIPaG23dMW.jpg" width="600" alt="Sinematik Dev Kedi Banyo Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12583)**
+
+**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2110921969420177453) | **Yayınlandı:** Oct 16, 2026
+
+---
+### Helikopter Trambolin Zıplama Video İstemi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Seedance 2.0 için diyalog içeren sinematik bir helikopter trambolin zıplama sahnesi oluşturan karmaşık video üretim istemi.
+
+#### 📝 İstem
+
+```
+[Öncelikli Referans Görseli ve Sabit İsimler]
+@image1 = Tanım Adı: Ana Karakter
+Ana Karakterin kimliği, yüzü, saç stili, vücut tipi, kostümü, aksesuarları, ekipmanı ve ayakkabı görünüm standartları.
+Aşağıdaki metinde yalnızca yukarıda sabitlenen isimleri kullanın.
+15 saniye, 3:4 en-boy oranı, fotogerçekçi canlı aksiyon tarzı, gündüz parlak mavi deniz üzerinde sesli sürekli video. Ekran kesintisi yok. Referans görselini yalnızca ana karakterin görünümü için kullanın; üç yönlü şema düzenlerini veya metin/örnek düzenlerini videoya dahil etmeyin. Ana karakterin kimliğini, kostümünü, aksesuarlarını ve fiziğini baştan sona koruyun. BGM, altyazı, başlık veya logo yok.
+Karakterler arasında Ana Karakter, Mürettebat A, Mürettebat B, Mürettebat C (toplam 4 kişi) bulunur. Beyaz gövdeli ve mavi çizgili sivil orta boyutlu çekim helikopteri. Siyah kızak iniş takımı, açık geniş yan sürgülü kapı, binme/inme için dış basamaklar, koyu gri iç mekan. Helikopter baştan sona deniz seviyesinin üzerinde sabit yükseklikte kalır. Uzakta kıyı şeridi görünür; deniz yüzeyinde çok aşağıda dairesel bir trambolin kuruludur. Ana Karakter, açık kapının dış basamağında durur ve uzaktaki tramboline bakar. Mürettebat A, kapı yakınında durur, mavi rüzgarlık, siyah can yeleği ve havacılık kulaklığı giyer. Mürettebat B, kapı yakınında içeride durur, turuncu rüzgarlık, siyah can yeleği ve havacılık kulaklığı giyer. Mürettebat C, derinlerde içeridedir, yeşil rüzgarlık, siyah can yeleği ve havacılık kulaklığı giyer. Her 3 mürettebat üyesinin yüzleri görünür. Kamera, helikopter kapısı yakınındaki aynı konumdan başlar, hafif geniş açıyla Ana Karakteri, 3 mürettebat üyesini ve kapı arkasındaki denizi çeker. Kamera konumu sabit kalır, düşüş ve yükselişe göre yukarı/aşağı eğilir. Rüzgar gürültüsü ve rotor sesleri doğal olarak devam eder.
+0.0–3.0s: Mürettebat A, Ana Karektere bakar, gülümser ve "Hazır mısın?" diye sorar. Ana Karakter, Mürettebat A'ya başını sallar, ardından doğrudan kamera lensine bakar, gülümsemesindeki gerilimi ve heyecanı gösterir, enerjik ve doğal Japonca ile "Tamam, gidiyorum!" der. Dudak hareketleri tüm diyalog metniyle uyumludur. Mürettebat B gülümser, yumruğunu hafifçe kaldırır; Mürettebat C mutlu şekilde güler, biraz öne eğilir ve başını sallar. Konuşma sonrası Ana Karakter derin nefes alır, aşağıdaki dairesel tramboline bakar, dış basamağa tekme atarak sıçrar.
+3.0–6.2s: Ana Karakterin helikopterden sıçradığı anda, Mürettebat B Ana Karektere doğru "Hadi!" diye bağırır. Kamera, kapı tarafındaki konumunu korurken hızla aşağı eğilir, kare merkezine yakın düşen Ana Karakteri takip eder. Ana Karakter düşerken vücudunu gerer, mesafe arttıkça küçülür. Altındaki dairesel trambolin görünür hale gelir, Ana Karakter merkeze hedefleyerek yaklaşır. Kamera aşağı bakarken, 3 mürettebat üyesi kadraj dışındadır ancak içeriden neşeli tezahüratlar duyulur. Rotor ve rüzgar sesleri devam eder.
+6.2–7.7s: Ana Karakter, deniz yüzeyindeki dairesel trambolinin merkezine yakın iner. Gerilmiş atlama yüzeyi ağırlık altında belirgin şekilde çöker, düşüşü durdurur, ardından güçlüce yukarı sekerek geri tepme yapar. Kamera aşağı bakmaya devam eder, iniş, çökme ve yükselişe dönüşün sürekli dizisini gösterir. Çarpma ve geri tepme sesleri duyulur.
+7.7–11.6s: Ana Karakter, geri tepme kuvvetiyle helikoptere doğru yükseğe seker, dizlerini göğsüne çeker, vücudunu küçük şekilde büker, havada şiddetle döner. Kamera, aynı konumdan yükselen Ana Karaktere eşleşecek şekilde yukarı eğilir. Ana Karakter yaklaşırken büyür, açık kapı ve dış basamak tekrar görünür hale gelir. Dönüşü açar, bacaklarını uzatır, her iki ayağını da sıçradığı aynı dış basamağa geri getirir, aynı başlangıç pozisyonunda, yönünde ve duruşunda stabil şekilde durur. Helikopter yüksekliği değişmemiştir.
+11.6–15.0s: Kamera, başlangıçtaki kapı tarafı yönüne döner. Mürettebat A, Ana Karektere doğru gülümseyerek alkışlar. Mürettebat B neşeyle yumruğunu kaldırır, kısa bir bağırış "Yaşasın!" Mürettebat C, Ana Karektere bakarak gülümseyerek ellerini alkışlar. Ana Karakter, ağır nefes alırken yüzünü kamera lensine çevirir, gözleri parlar, güvenli dönüşün heyecanı ve sevinciyle parlak ve doğal şekilde konuşur "Harika! Harikaydı, en iyisiydi!" Dudak hareketleri, Mürettebat B ve Ana Karakter için tüm diyalog metniyle uyumludur. Son kare: Ana Karakter orijinal dış basamağında duruyor, kameraya konuşmayı bitirmiş, heyecanlı ifade, arkada alkışlayan Mürettebat A ve C, sevinen Mürettebat B. Alkış ve rotor sesleri 15s'deki sona kadar devam eder.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110874497792573441/img/JxHJnlKIe6vqYRbF.jpg" width="600" alt="Helikopter Trambolin Zıplama Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12587)**
+
+**Yazar:** [M7［mi7］AI](https://x.com/mi7_crypto) | **Kaynak:** [Link](https://x.com/mi7_crypto/status/2110875842343768404) | **Yayınlandı:** Oct 15, 2026
+
+---
+### Tokyo Gece Seyahat Vlog Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kadının Tokyo'yu gece keşfettiği, neon ışıklar, marketler ve manzaralı noktalar içeren sinematik bir seyahat vlog tarzı video için detaylı prompt.
+
+#### 📝 İstem
+
+```
+Güzel genç bir Koreli kadının, doğal makyajı ve yumuşak dalgalı siyah saçlarıyla şık siyah deri ceket giyerek Japonya'nın Tokyo sokaklarını gece ve gün batımında keşfettiği, 26 saniyelik ultra gerçekçi sinematik bir seyahat videosu oluşturun. Renkli neon tabelalar, ıslak sokaklar ve parlayan şehir ışıklarıyla çevrili kalabalık bir Tokyo kavşağında yürürken çekilen arka plan görüntüsüyle başlayın. Parlak ışıklı bir konbini (market) içinde sevimli bir Japon pirinç topunu tutarken sıcakça gülümsediğini gösterin, ardından otomatik makineden içecek alırken yakalanan samimi anları sergileyin. Geleneksel kırmızı Japon torii kapısının altından yürürken, Japon fenerleriyle süslenmiş dar bir sokakta kameraya dönüp oyunbaz bir gülümsemeyle baktığını yakalayın. Huzurlu bir yerleşim bölgesinde rahat bir selfie çekerken ve arka planda tren geçerken nehir kenarı manzarasının tadını çıkarırken gösterin. Seyahat kitabını heyecanla açıp kameraya gülümsediği samimi bir kitapçı sahnesi ekleyin, ardından yanınızda paket servis içecekle nehir kenarında huzurlu bir gün batımı anı yaşayın. Güzel gece şehir ışıkları, yüksek bir köprüde neşeli el kamerasıyla çekilmiş selfie ve arkasında Tokyo siluetiyle gülümsemesiyle bitirin. Doğal el telefonu kamera hareketleri, akıcı sinematik geçişler, otantik samimi ifadeler, gerçekçi cilt dokusu, yumuşak film greni, nostaljik 2000'lerin başı MiniDV estetiği, kasvetli teal-yeşil gece tonları, sıcak gün batımı aydınlatması ve sığ alan derinliği kullanın. Tüm video boyunca tutarlı yüz kimliği, saç modeli, kıyafet ve vücut oranlarını koruyun; gerçekçi hareketlerle spontane bir seyahat günlüğü hissi verin ve 16:9 geniş ekran en-boy oranında sunun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110596831482900480/img/pEzoaxwQMjlLhpl9.jpg" width="600" alt="Tokyo Gece Seyahat Vlog Video Prompt">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12584)**
+
+**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2110597035502272787) | **Yayınlandı:** Oct 15, 2026
+
+---
+### Bilim Kurgu Korku Laboratuvar Deneyi Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir bilim insanı, gizemli bir varlık ve dramatik ışık efektleri içeren sinematik bir bilim kurgu korku sahnesi oluşturmak için detaylı istem.
+
+#### 📝 İstem
+
+```
+Fütüristik yüksek güvenlikli araştırma laboratuvarında ultra gerçekçi sinematik bilim kurgu korku sahnesi. Beyaz önlük giyen genç bir kadın bilim insanı, cam odalar, gelişmiş bilimsel ekipmanlar, parlayan mavi monitörler ve yansıtıcı metal yüzeylerle dolu steril bir laboratuvarda gizemli bir deneyi dikkatle yürütüyor. Garip bir biyolojik numuneyi incelerken aniden korkutucu bir şey fark eder. Çökük koyu gözleri ve rahatsız edici ifadesiyle soluk, gizemli insansı bir varlık laboratuvarda belirir. Görünümü ürkütücü ama gerçeğe yakın; ince yüz hareketleri ve canlı cilt dokusuyla dikkat çeker.
+
+Kırmızı acil alarm devreye girerken laboratuvar ışıkları titremeye başlar. Bilim insanları cam koridorda koşuştururken, muhafaza odasından beyaz buhar fışkırır. Kadın bilim insanı şokla arkasını döner ve tesis karantinaya alınır. Kırmızı uyarı ışıkları karanlık koridoru aydınlatır, cam duvarlarda dramatik yansımalar oluşturur. Gizemli varlık, koridorun sonundaki güçlendirilmiş camın arkasında görünür şekilde kalır.
+
+Görsel stil: Fotogerçekçi bilim kurgu gerilimi, sinematik korku atmosferi, fütüristik biyoteknoloji laboratuvarı, hacimsel ışıklandırma, gerçekçi yüz ifadeleri, atmosferik sis, dramatik kırmızı ve camgöbeği ışıklandırma, detaylı dokular, sığ alan derinliği, yavaş sinematik kamera hareketleri, gerilimli tempo, profesyonel Hollywood film kalitesi, 4K detay, dikey 9:16 kompozisyon.
+
+Negatif istem: Karikatür, anime, düşük çözünürlük, bulanık yüzler, bozuk anatomi, fazla uzuv, gerçek dışı hareket, aşırı doygun renkler, metin katmanları, filigranlar, tutarsız karakterler, titrek görsel artefaktlar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110596340640296960/img/NlEEzAkreEllPatu.jpg" width="600" alt="Bilim Kurgu Korku Laboratuvar Deneyi Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12585)**
+
+**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2110596402556608827) | **Yayınlandı:** Oct 15, 2026
+
+---
+### Yapay Zeka Diyaloglu Ürün Tanıtım Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Referans görsellerdeki belirli bir ürünü elinde tutan bir kadının yer aldığı, detayları koruyan ve doğal diyaloglar ekleyen gerçekçi bir ürün tanıtım videosu oluşturur.
+
+#### 📝 İstem
+
+```
+Görsel 1'deki özgüvenli ve çekici bir kadın, Görsel 2'deki ürünü sunum için elinde tutar. Ürünün tam görünümünü, tasarımını, renklerini ve detaylarını değiştirmeden koruyun. Senaryoya uygun, gerçekçi ifadeler ve akıcı hareketlerle doğal İngilizce diyaloglar üretin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110586692981923840/img/O9ggPIEmigfihsdm.jpg" width="600" alt="Yapay Zeka Diyaloglu Ürün Tanıtım Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12581)**
+
+**Yazar:** [Meenakshi Yadav](https://x.com/MeenakshiYACS) | **Kaynak:** [Link](https://x.com/MeenakshiYACS/status/2110586865426546858) | **Yayınlandı:** Oct 15, 2026
+
+---
 ### Beyaz Cübbeli Kılıç Ustası: Ejderha Savaşı Sahnesi
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5761,157 +5909,6 @@ Gün batımında yıkık bir antik şehirde, dramatik altın renkli gökyüzü, 
 **Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2104754431434887271) | **Yayınlandı:** Sep 29, 2026
 
 ---
-### Seedance 2.5 Hızlı Tekne Takla Videosu Promptu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir sürat teknesinin dev dalgalarla çarpışan ve yolcuları havaya fırlatan şişme botu çektiği sinematik bir hava videosu için detaylı prompt.
-
-#### 📝 İstem
-
-```
-Video Prompt 1 (0-10 saniye): Yüksek Hızda Çekim + Dev Dalgalar + Takla + Yüksek Fırlatma
-SÜRE: 2 Bölümden 1.'si (10 saniye) | EN BOY ORANI: 9:16 | STİL: Fotogerçekçi sinematik hava aksiyonu, 4K, 60fps, güçlü hareket bulanıklığı, tam yüksek hız temposu, yavaşlatılmış görüntü yok
-ÖZNE: Parlak sarı ve kırmızı renkli şişme bir bot rafting seti, hızlı beyaz bir sürat teknesine halatla bağlı. Turuncu can yelekleri giyen dört yetişkin, kollarını sıkıca kavrayarak bota binmiş, heyecandan gülüyor ve bağırıyorlar. Kristal berraklığında turkuaz tropikal okyanus.
-KAMERA: Yüksek irtifada sinematik bir drone çekimi, neredeyse dümdüz aşağı bakıyor, ardından alçalıp açısal olarak botun arkasından takip ediyor. Hızlı, akıcı hareketler ve yolcuları takip etmek için hızlı whip-tilt (ani dikey kaydırma) kullanımı. Kesintisiz tek bir çekim, kesme yok.
-IŞIKLANDIRMA: Parlak öğle vakti tropikal güneş ışığı, dalgalarda parlayan yansımalar, canlı doygun renkler, su sıçramalarında güneş parlaması.
-ZAMAN ÇİZELGESİ:
-0-3s: Yukarıdan bakıldığında, sürat teknesi aşırı hızla ileri atılıyor ve botu çekiyor. Her ikisinin de arkasında kalın beyaz izler bırakıyor. Yolcular gülüyor ve kollarını sıkıca tutuyor, saçları rüzgarda uçuşuyor ve bot suyun üzerinde sekerek ilerliyor.
-3-6s: Önlerinde birkaç metre yüksekliğinde, büyük ve hızlı akan okyanus dalgaları yükseliyor. Tekne bu dalgalardan geçerken, bot ilk dev dalgaya çarpıyor, kısa süreliğine havaya fırlıyor ve büyük su sıçramalarıyla tekrar suya düşüyor. Yolcular sevinçten bağırarak sıkıca tutunuyorlar.
-6-8s: Tekne, yükselen bir dalga tepesinden sert bir şekilde kesiyor. Bot, tam hızla tepeyi yakalıyor ve şiddetli bir şekilde takla atıyor.
-8-10s: Yolcular havaya son derece yüksek bir şekilde fırlatılıyor, takla atıyor ve dönüyor, kolları savruluyor. Kamera, onları parlak gökyüzüne karşı takip etmek için keskin bir şekilde yukarı tilt yapıyor. Segment, yolcular denizin çok üstünde yaylarının zirvesine doğru yükselirken sona eriyor.
-SES: Gürleyen sürat teknesi motoru, uğuldayan rüzgar, çarpan dalgalar, ağır su sıçramaları, halat gerilimi ve heyecanlı çığlıklar. Sadece doğal ambiyans, müzik yok.
-[Devamlılık Kilidi] Bot, aynı boyutta ve parlak sarı-kırmızı renklerde kalır; turuncu can yelekli aynı dört yolcu, tüm süreç boyunca aynı yüzleri, saçları ve kıyafetleriyle korunur. Tekne beyaz kalır ve aynı halat bağlantısını sürdürür. Turkuaz okyanus ve gündüz ışığı tutarlı kalır. Tam olarak bir bot, bir tekne ve dört yolcu vardır; kopyalama veya ekstra kişi yoktur. Kamerada kesme veya sahne değişikliği yapılmaz.
-[Ses Kilidi] Motor ve dalga ambiyansı sürekli çalışır ve hızla artar. Her su sıçraması ve çarpma görselle senkronize olur, sessiz boşluklar yoktur.
-[Fizik Kuralları] Gerçekçi yerçekimi ve su fiziği. Fırlatma, botun dalga tepesine çarpması ve takla atması sonucu gerçekleşir. Uçma, yaralanma, kanama veya ölüm içermez. Yolcular güvenli bir şekilde havada döner ve suya iner.
-NOT: Bu prompt, Seedance 2.5 modelinin yüksek dinamik hareket ve fizik simülasyonu yeteneklerini en iyi şekilde sergilemek için optimize edilmiştir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104579217300049920/img/W_5AykCmdRVR5N1E.jpg" width="600" alt="Seedance 2.5 Hızlı Tekne Takla Videosu Promptu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11538)**
-
-**Yazar:** [Abkr Sadiq | AI](https://x.com/abs_uiux) | **Kaynak:** [Link](https://x.com/abs_uiux/status/2104579354567000516) | **Yayınlandı:** Sep 28, 2026
-
----
-### Orta Çağ Savaşçı vs Şövalye Dövüşü Promptu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 için dikey 9:16 kompozisyona optimize edilmiş, fildişi elbiseli bir kadın savaşçının zırhlı bir şövalyeye karşı savaştığı ultra gerçekçi sinematik orta çağ dövüş sahnesi promptu.
-
-#### 📝 İstem
-
-```
-Ultra gerçekçi sinematik orta çağ dövüş sahnesi, zarif ve uçuşan fildişi orta çağ elbisesi ve siyah dar kolluklar giyen cesur genç bir kadın savaşçı, büyük bir orta çağ topuzu kullanan ağır zırhlı bir şövalyeye karşı antik taş avluda duruyor. Dinamik dövüş pozları, gerçekçi çelik zırh yansımaları, detaylı kumaş hareketleri, dramatik üstten kamera açısı, yoğun aksiyon, tarihi Avrupa kale ortamı, sinematik aydınlatma, gerçekçi cilt ve saç, atmosferik derinlik, hafif hareket bulanıklığı, yüksek detaylı dokular, epik fantastik atmosfer, fotogerçekçi, HDR, 8K, profesyonel film karesi, sığ alan derinliği, dikey 9:16 kompozisyon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104442940575924224/img/Wc3lyQr_BLSu0cxX.jpg" width="600" alt="Orta Çağ Savaşçı vs Şövalye Dövüşü Promptu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11481)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2104443130758013027) | **Yayınlandı:** Sep 28, 2026
-
----
-### Sevimli Kedi Mutfak Felaketi Karikatür Promptu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 için tutarlılık kısıtlamalarıyla tasarlanmış, bir kadın ve kedinin mutfakta felaket yarattığı sinematik karikatür tarzı video promptu.
-
-#### 📝 İstem
-
-```
-Kıvırcık kızıl saçlı bir kadın ve sevimli tüylü gri bir kedinin sıcak, samimi bir ev mutfağında yer aldığı sinematik karikatür tarzı bir mutfak hikayesi videosu oluşturdunuz. Video, kadının mutfağa girmesiyle başlarken meraklı gri kedi yakında durur ve oyunbaz, masum bir atmosfer yaratır. Kamera daha sonra kediyi yakınlaştırır; kedi küçük patisiyle mutfak tezgahındaki bir düğmeye uzanır. Aniden komik bir mutfak kazası başlar ve oda un bulutları ve havada uçuşan yiyeceklerle dolar. Kadın şaşkınlıkla tepki verirken kedi kaosun merkezinde kalır, bu da sahneyi esprili ve enerjik kılar. Sekans boyunca dinamik kamera hareketleri, ifade dolu yüz reaksiyonları, detaylı karakter animasyonu ve doğal vücut hareketleri gösterin. Tezgahlara ve zemine dağılmış un, yiyecek ve malzemelerle dağınık mutfağı yavaş yavaş ortaya çıkarın. Komik felaketten sonra masum ve şaşkın görünen kadın ve kedinin dağınık mutfakta birlikte oturmasıyla bitirin. Aynı karakterleri, görünümü, saç stilini, kıyafetleri, mutfak ortamını, aydınlatmayı ve görsel stili baştan sona tutarlı tutarak cilalı sinematik karikatür kalitesinde animasyon sağlayın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104431020124815360/img/imqTdC50LF1U_vpi.jpg" width="600" alt="Sevimli Kedi Mutfak Felaketi Karikatür Promptu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11480)**
-
-**Yazar:** [liana](https://x.com/Lianaalane) | **Kaynak:** [Link](https://x.com/Lianaalane/status/2104431076089414068) | **Yayınlandı:** Sep 28, 2026
-
----
-### Karanlık Fantastik Ejderha Fosili Uyanış İstem Metni
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Keşifçilerin, sihirli bir dönüşüm olmadan fiziksel olarak 'uyanmaya' başlayan fosilleşmiş bir ejderha iskeleti keşfettiği, Seedance 2.0 Fast için son derece detaylı 15 saniyelik karanlık fantastik istem metni.
-
-#### 📝 İstem
-
-```
-15 saniyelik fotogerçekçi canlı aksiyon karanlık fantastik sahne. İki kaşif, devasa bir yeraltı mağarasında kayaya gömülü kadim bir ejderhanın fosilleşmiş iskeletini keşfeder. Tam kafatası ve masif kaburga yapısı net bir şekilde görünür. Gerçekçi jeoloji, kafa lambaları, toz, ölçek ve insan hareketleri.
-
-0–4s - KEŞİF: Geniş çekim. Kaşifler, üzerlerinde yükselen devasa fosilleşmiş kaburgaların altında yürür. Biri, ölçek karşılaştırması yapmak için eldivenli elini bir kaburgaya dayar. GÜM. Derin bir kalp atışı tüm iskelet boyunca yankılanır. Her iki kaşif de donup kalır.
-
-4–8s - TEKRAR ATIYOR: Fossil dokunan ele yakın çekim. GÜM. Daha güçlü. Toz her kemikten aynı anda sıçrar. Kaşif elini hemen geri çeker. GÜM. Ejderhanın devasa kaburga kafesi, yüzyıllardır ilk nefesini alıyormuş gibi birkaç santimetre belirgin şekilde genişler, sonra yerine oturur. Kaşifler yavaşça geri çekilir.
-
-8–12s - UYANIŞ: Kamera, devasa fosilleşmiş kafatasına doğru ilerler. Başka şiddetli bir kalp atışı. Kafatasından küçük kaya parçaları düşer. Alt çenesi derin bir gıcırtı sesiyle yavaşça açılır. Boş göz çukurunun içinde, karanlığın derinliklerinde bir şey kıpırdar.
-
-12–15s - GERİLİM DORUK NOKTASI: İskeletin altındaki minik kaşıflerle geniş çekim. GÜM. Tüm mağara sarsılır. Ejderhanın devasa fosilleşmiş ön pençesi aniden taş zemine KAPANIYOR. Kaşifler yukarıya bakar. Mağara boyunca yankılanan devasa bir nefes alma sesi duyulur.
-
-SİYAH EKRANA GEÇİŞ. Ses: Mağara ambiyansı, kemikler boyunca giderek güçlenen kalp atışları, dökülen çakıl taşları, gıcırdayan fosilleşmiş eklemler, son devasa nefes. Fotogerçekçi ve fiziksel temelli. Ejderha baştan sona fosilleşmiş bir iskelet olarak kalır - et rejenerasyonu, dönüşüm, sihirli parıltı veya ateş yok. Tam olarak iki kaşif ve tek tutarlı bir iskelet kullanın. Gerçek kemik ağırlığı, toz ve kaya etkileşimi. Ekstra uzuvlar, değişen anatomi, parlayan gözler, fantastik partiküller veya CGI görünümü yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104413921100570624/img/5S5spIm_GjV4SABc.jpg" width="600" alt="Karanlık Fantastik Ejderha Fosili Uyanış İstem Metni">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11479)**
-
-**Yazar:** [DeCat](https://x.com/DeCat2025) | **Kaynak:** [Link](https://x.com/DeCat2025/status/2104414219047166049) | **Yayınlandı:** Sep 28, 2026
-
----
-### Sinematik Kadın Süper Kahraman Savaş Videosu İstemcisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 ile oluşturulan, yıkık bir şehirde canavarla savaşan gelecekteki zırh giymiş bir kadın süper kahramanı içeren 31 saniyelik ultra gerçekçi sinematik aksiyon sekansı için detaylı istem.
-
-#### 📝 İstem
-
-```
-Yıkık modern bir şehirde geçen, parlayan kırmızı detaylara sahip şık siyah gelecekteki zırhı giyen güçlü bir kadın süper kahramanın arkasında büyük bir patlama yaşanırken sokaklarda koştuğu, ardından dramatik kamera takibiyle yüksek hızda hareket ettiği karanlık bir geçide geçiş yaptığı, savaşa hazırlanırken zırhından çıkan güçlü mekanik kanatların görüldüğü, kırmızı parlayan gözlere ve muazzam güce sahip devasa bir yaratıkla yoğun yakın çekim dövüş sahnelerinin yer aldığı 31 saniyelik ultra gerçekçi sinematik aksiyon sekansı oluşturun; hızlı hava hareketleri, güçlü yumruklar, tekmeler, kıvılcımlar, duman, uçan molozlar ve gerçekçi çarpma etkileri gösterin, ardından büyük siyah mekanik kanatlarıyla kırmızı enerji parlayarak şehirde uçup hasarlı yola dramatik şekilde indiği anları yakalayın; tüm video boyunca karakter görünümü, zırh tasarımı, yüz, kanatlar ve yaratık tutarlılığını koruyun; koyu mavi sinematik ışıklandırma, kırmızı vurgular, gerçekçi yıkım, dinamik kamera hareketi, dramatik ağır çekim anları, detaylı dokular, hacimsel duman, sinematik alan derinliği ve üst düzey Hollywood tarzı görsel efektler kullanın; son olarak süper kahramanın etrafında duman ve molozlar uçuşurken yıkık şehirde kararlılıkla ayakta durduğu sahneyle bitirin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104389789583810560/img/Nwu4qrlYAxzqERN0.jpg" width="600" alt="Sinematik Kadın Süper Kahraman Savaş Videosu İstemcisi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11477)**
-
-**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2104390191352103147) | **Yayınlandı:** Sep 28, 2026
-
----
-### Kayıp Eşyaların Dönüşü: Küresel Olay Promptu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 Mini için, kayıp eşyaların, hayvanların ve mektupların Dünya'ya dönerek mucizevi buluşmalara sahne olduğu küresel bir olayı tasvir eden şiirsel ve betimleyici prompt.
-
-#### 📝 İstem
-
-```
-Dünya genelinde imkansız görünen bir şey olmaya başlıyor.
-Bir zamanlar kaybedilen her şey geri gelmeye başlıyor.
-Unutulmuş bir oyuncak okyanustan çıkıyor. Antik gemiler parlayan sisin içinden beliriyor. Nesli tükenmiş hayvanlar uzak ufuklarda ortaya çıkıyor. Milyonlarca kayıp mektup gökyüzünden yavaşça süzülüyor.
-İnsanlar yaptıkları işi bırakıyor.
-Kalabalıklar toplanıyor.
-Tüm şehirler, imkansız buluşmaların gerçekleştiği anları izliyor.
-Bir çocuk, sevdiği evcil hayvanının kendisine doğru koştuğunu görüyor. Uzun zamandır kayıp olan hazineler çöllerden çıkıyor. Eskiden boş arazi olan yerlerde kadim ormanlar yeniden beliriyor.
-Bu fenomen gezegenin tamamına yayılıyor.
-Giderek daha fazla şey geri geliyor.
-Ölçek devasa hale geliyor.
-Gökyüzü kayıp icatlarla, kayıp tarihlerle ve kayıp olasılıklarla doluyor.
-İnsanlık hep birlikte izliyor.
-Ebediyen gittiğini sandığı her şeyle yeniden bağ kuran bir dünya.
-Muhteşem bilim kurgu fantastiği, duygusal anlatım, büyük ölçekli küresel olay, nefes kesici görseller, merak, umut, etkileyici sinematografi, dinamik hareket, fotogerçekçi ortamlar, epik ölçek, başyapıt, 16:9.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104037560196435968/img/MimcVdt7eNrPmpOt.jpg" width="600" alt="Kayıp Eşyaların Dönüşü: Küresel Olay Promptu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11482)**
-
-**Yazar:** [Alexandra Aisling](https://x.com/AllaAisling) | **Kaynak:** [Link](https://x.com/AllaAisling/status/2104264808119816501) | **Yayınlandı:** Sep 27, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -5973,6 +5970,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-16T03:39:51.156Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-16T09:09:01.622Z</sub>
 
 </div>

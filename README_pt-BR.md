@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6541** |
+| 📝 Total de prompts | **6547** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-10-16** |
 
@@ -361,6 +361,154 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Vídeo Cinematográfico Surrealista de Figuras Desaparecendo em Janelas Azuis
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para geração de vídeo, projetado para criar uma sequência cinematográfica surrealista onde figuras humanas flutuam e se dissolvem em fumaça dentro de janelas azuis brilhantes contra um fundo escuro.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo de arte cinematográfica surrealista de 12,8 segundos no formato 16:9, com um fundo preto profundo, janelas azul-elétricas e fumaça monocromática.
+
+PLANO 1 (0:00–0:01): Uma única janela azul brilhante de quatro painéis contém uma figura humana flutuando horizontalmente acima de uma saliência rochosa tênue.
+
+PLANO 2 (0:01–0:03): A janela se dissolve na escuridão, deixando a mesma figura humana flutuante em tons de cinza enquanto finos fios de fumaça surgem ao redor do corpo.
+
+PLANO 3 (0:03–0:05): Filamentos de fumaça semelhantes a penas enrolam-se formando um anel elíptico alongado ao redor da figura suspensa.
+
+PLANO 4 (0:05–0:07): Fitas de fumaça cinza-branca varrem horizontalmente ao redor do corpo, esticando-se e fluindo através do ambiente negro.
+
+PLANO 5 (0:07–0:08): A fumaça se dissolve enquanto uma janela azul brilhante reaparece suavemente atrás da figura flutuante.
+
+PLANO 6 (0:08–0:10): A janela única expande-se em múltiplas janelas azuis dispostas irregularmente, cada uma contendo uma figura humana em uma pose de flutuação diferente.
+
+PLANO 7 (0:10–0:12.8): Revela a instalação completa de janelas azuis brilhantes contra um fundo escuro texturizado, com figuras suspensas e luz sutilmente cintilante.
+
+ESTILO & MOVIMENTO: Cinematografia surrealista de belas-artes, pretos profundos, iluminação azul fria, figuras em tons de cinza, fumaça delicada, iluminação volumétrica, granulação de filme sutil, transições de morphing suaves, câmera ampla estável, anatomia e vestimenta humanas consistentes.
+
+PROMPT NEGATIVO: Sem olhos, globos oculares, neon colorido, quartos brilhantes, cortes súbitos, giros rápidos, zooms abruptos, anatomia distorcida, membros extras, duplicação não intencional, texto, logotipos ou marcas d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110947855406080000/img/h_AHjQJABwOETClb.jpg" width="600" alt="Vídeo Cinematográfico Surrealista de Figuras Desaparecendo em Janelas Azuis">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12582)**
+
+**Autor:** [Sᴀɪʀᴀ](https://x.com/itsSaira_1) | **Fonte:** [Link](https://x.com/itsSaira_1/status/2110947923412566187) | **Publicado:** Oct 16, 2026
+
+---
+### Prompt de Vídeo Cinematográfico: Banho em Gato Gigante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para gerar um vídeo realista e engraçado de um gato Ragdoll gigante sendo banhado e secado por uma mulher, com iluminação cinematográfica e transições suaves.
+
+#### 📝 Prompt
+
+```
+Prompt de vídeo cinematográfico ultra-realista de 30 segundos: Crie um vídeo de 30 segundos emocionante, engraçado e visualmente deslumbrante, apresentando um enorme e peludo gato Ragdoll branco e cinza, com lindos olhos azuis, nariz rosa e pelo extremamente macio e espesso, sentado do lado de fora de uma casa moderna. Uma jovem coreana bonita, com cabelos longos, lisos e escuros, sorriso natural e roupa casual azul-marinho, aproxima-se do gato gigante em uma tarde ensolarada. Ela borrifa água suavemente sobre o gato usando uma mangueira de jardim verde, molhando seu pelo espesso enquanto o gato permanece calmo e adorável. Mostre gotas de água realistas caindo do pelo, com detalhes de pelos molhados e expressões felinas naturais. A mulher sorri e ri enquanto lava cuidadosamente o gato gigante na entrada da garagem, cercada por vegetação e luz solar quente. Faça uma transição suave para uma cena aconchegante na garagem, onde ela usa um secador de cabelo portátil para secar o pelo volumoso do gato enorme. O gato fecha os olhos feliz enquanto o ar quente passa pelo seu pelo, fazendo-o parecer ainda maior e mais engraçado. Use movimentos animais realistas, expressões humanas naturais, ângulos de câmera cinematográficos, iluminação suave da hora dourada, física detalhada do pelo e transições perfeitas. Mantenha a consistência das aparências dos personagens ao longo do vídeo, com qualidade fotorrealista, sons ambientes naturais e sem texto, logotipos ou marcas d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110921791401295872/img/LTge8nSIPaG23dMW.jpg" width="600" alt="Prompt de Vídeo Cinematográfico: Banho em Gato Gigante">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12583)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2110921969420177453) | **Publicado:** Oct 16, 2026
+
+---
+### Prompt de Vídeo: Salto de Helicóptero em Trampolim
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt complexo para geração de vídeo com Seedance 2.0, criando uma cena cinematográfica de salto de helicóptero em trampolim com diálogos.
+
+#### 📝 Prompt
+
+```
+[Imagem de Referência Prioritária e Fixação de Nomes]
+@image1 = Nome da Descrição: Protagonista
+Padrões de aparência do Protagonista: identidade, rosto, estilo de cabelo, tipo físico, fantasia, acessórios, equipamento e calçados.
+Use apenas os nomes fixados acima no texto a seguir.
+15 segundos, proporção de tela 3:4, estilo live-action fotorrealista, vídeo contínuo com áudio ambientado sobre um mar azul brilhante durante o dia. Sem cortes de tela ao longo do vídeo. Use a imagem de referência apenas para a aparência do protagonista; não incorpore layouts de diagramas de três vistas ou layouts de texto/exemplos no vídeo. Mantenha a identidade, fantasia, acessórios e físico do protagonista consistentes do início ao fim. Sem BGM, legendas, títulos ou logotipos.
+Personagens incluem Protagonista, Tripulante A, Tripulante B, Tripulante C (total de 4). Helicóptero de filmagem civil de médio porte com corpo branco e linhas azuis. Trem de pouso esqui preto, porta deslizante lateral larga aberta, degraus externos para embarque/desembarque, interior cinza escuro. O helicóptero mantém altitude constante acima do nível do mar do início ao fim. Litoral visível à distância; trampolim circular instalado bem abaixo na superfície do mar. O Protagonista está de pé no degrau externo da porta aberta, olhando para o trampolim distante. Tripulante A está perto da porta, vestindo jaqueta corta-vento azul, colete salva-vidas preto, headset de aviação. Tripulante B está dentro, perto da porta, vestindo jaqueta corta-vento laranja, colete salva-vidas preto, headset de aviação. Tripulante C está no fundo da cabine, vestindo jaqueta corta-vento verde, colete salva-vidas preto, headset de aviação. Os rostos dos 3 tripulantes são visíveis. A câmera começa na mesma posição perto da porta do helicóptero, ligeiramente grande-angular capturando o Protagonista, os 3 tripulantes e o mar além da porta. A posição da câmera permanece fixa, inclinando-se para cima/baixo conforme a queda e ascensão. Ruídos de vento e sons do rotor continuam naturalmente ao longo de toda a cena.
+0.0–3.0s: Tripulante A olha para o Protagonista, sorri, pergunta "Pronto?". O Protagonista acena positivamente para o Tripulante A, então olha diretamente para a lente da câmera, mostrando tensão e empolgação no sorriso, diz energicamente em japonês natural "Certo, estou indo!". Movimentos labiais correspondem ao texto completo do diálogo. Tripulante B sorri, levanta levemente o punho; Tripulante C ri feliz, inclina-se ligeiramente para fora, acena com a cabeça. Após falar, o Protagonista respira fundo, olha para baixo no trampolim circular, chuta o degrau externo e salta.
+3.0–6.2s: No momento em que o Protagonista salta do helicóptero, Tripulante B grita "Vai!" em direção ao Protagonista. A câmera inclina rapidamente para baixo mantendo a posição lateral da porta, rastreando o Protagonista caindo próximo ao centro do quadro. O Protagonista estica o corpo enquanto cai, tornando-se menor conforme a distância aumenta. O trampolim circular abaixo torna-se visível, o Protagonista se aproxima mirando o centro. Enquanto a câmera aponta para baixo, os 3 tripulantes estão fora do quadro, mas aplausos alegres são ouvidos de dentro. Sons do rotor e do vento continuam.
+6.2–7.7s: O Protagonista pousa próximo ao centro do trampolim circular na superfície do mar. A superfície de salto esticada afunda significativamente sob o peso, para a descida, então rebate fortemente para cima. A câmera permanece apontada para baixo, mostrando a sequência contínua de pouso, afundamento e reversão para ascensão. Sons de impacto e rebote são ouvidos.
+7.7–11.6s: O Protagonista quica alto em direção ao helicóptero pela força do rebote, puxa os joelhos para o peito, encolhe o corpo, gira vigorosamente no ar. A câmera inclina para cima acompanhando o Protagonista ascendente da mesma posição. O Protagonista cresce maior ao se aproximar, a porta aberta e o degrau externo tornam-se visíveis novamente. Desfaz a rotação, estende as pernas, retorna ambos os pés ao mesmo degrau externo de onde saltou, ficando estável na mesma posição inicial, orientação e postura. Altitude do helicóptero inalterada.
+11.6–15.0s: A câmera retorna à orientação inicial lateral da porta. Tripulante A aplaude sorrindo em direção ao Protagonista. Tripulante B levanta o punho alegremente, curto grito "Yay!". Tripulante C aplaude sorrindo olhando para o Protagonista. O Protagonista, respirando pesadamente, vira o rosto para a lente da câmera, olhos brilhando, fala brilhante e naturalmente com excitação e alegria pelo retorno seguro "Incrível! Incrível, foi o melhor!". Movimentos labiais correspondem ao texto completo do diálogo para Tripulante B e Protagonista. Quadro final: Protagonista de pé no degrau externo original, terminou de falar para a câmera, expressão excitada, Tripulantes A e C aplaudindo atrás, Tripulante B comemorando. Aplausos e sons do rotor continuam até o final aos 15s.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110874497792573441/img/JxHJnlKIe6vqYRbF.jpg" width="600" alt="Prompt de Vídeo: Salto de Helicóptero em Trampolim">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12587)**
+
+**Autor:** [M7［mi7］AI](https://x.com/mi7_crypto) | **Fonte:** [Link](https://x.com/mi7_crypto/status/2110875842343768404) | **Publicado:** Oct 15, 2026
+
+---
+### Prompt de Vídeo Vlog Noturno em Tóquio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para gerar um vídeo cinematográfico estilo vlog de viagem, mostrando uma mulher explorando Tóquio à noite, com luzes de neon, lojas de conveniência e pontos turísticos.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo de viagem cinematográfico ultra-realista de 26 segundos, apresentando uma jovem coreana bonita explorando as ruas de Tóquio, Japão, à noite e durante o pôr do sol, vestindo uma jaqueta de couro preta estilosa, maquiagem natural e cabelos pretos ondulados e suaves. Comece com uma tomada por trás dela atravessando um cruzamento movimentado em Tóquio, cercada por letreiros de neon coloridos, ruas molhadas e luzes da cidade brilhantes. Mostre-a sorrindo calorosamente enquanto segura um onigiri japonês fofo dentro de uma loja de conveniência bem iluminada, seguido por um momento espontâneo dela comprando uma bebida em uma máquina de venda automática. Capture-a caminhando sob um tradicional portão torii vermelho japonês, depois virando-se em direção à câmera com um sorriso brincalhão em uma rua estreita decorada com lanternas japonesas luminosas. Mostre-a tirando uma selfie casual em uma rua residencial tranquila e aproveitando a paisagem à beira do rio enquanto um trem passa ao fundo. Inclua uma cena acolhedora em uma livraria onde ela abre empolgada um livro de viagens e sorri para a câmera, seguida por um momento tranquilo de pôr do sol sentada ao lado do rio com uma bebida para levar. Termine com belas luzes noturnas da cidade, uma selfie alegre feita na mão em uma ponte elevada e ela sorrindo com o horizonte de Tóquio atrás dela. Use movimentos naturais de câmera de smartphone na mão, transições cinematográficas suaves, expressões espontâneas autênticas, textura realista da pele, grão de filme suave, estética nostálgica de MiniDV dos anos 2000, tons noturnos azul-esverdeados melancólicos, iluminação quente do pôr do sol e profundidade de campo rasa. Mantenha identidade facial, penteado, roupa e proporções corporais consistentes durante todo o vídeo, com movimentos realistas e uma sensação espontânea de diário de viagem, em uma proporção de tela widescreen 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110596831482900480/img/pEzoaxwQMjlLhpl9.jpg" width="600" alt="Prompt de Vídeo Vlog Noturno em Tóquio">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12584)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2110597035502272787) | **Publicado:** Oct 15, 2026
+
+---
+### Prompt de Vídeo: Experimento de Laboratório de Terror Sci-Fi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para gerar uma cena cinematográfica de terror sci-fi em um laboratório, apresentando uma cientista, uma entidade misteriosa e efeitos dramáticos de iluminação.
+
+#### 📝 Prompt
+
+```
+Cena ultra-realista e cinematográfica de terror sci-fi dentro de um laboratório de pesquisa futurista de alta segurança. Uma jovem cientista vestindo um jaleco branco conduz cuidadosamente um experimento misterioso em um laboratório estéril repleto de câmaras de vidro, equipamentos científicos avançados, monitores azuis brilhantes e superfícies metálicas reflexivas. Ela examina um estranho espécime biológico e, subitamente, percebe algo aterrorizante. Uma entidade humanoide pálida e misteriosa, com olhos escuros afundados e uma expressão perturbadora, aparece dentro do laboratório. Sua aparência é inquietante, porém realista, com movimentos faciais sutis e textura de pele vívida.
+
+As luzes do laboratório começam a piscar enquanto um alarme vermelho de emergência é ativado. Cientistas correm por um corredor de vidro enquanto vapor branco irrompe de uma câmara de contenção. A cientista se vira em choque quando a instalação entra em lockdown. Luzes vermelhas de alerta iluminam o corredor escuro, criando reflexos dramáticos nas paredes de vidro. A entidade misteriosa permanece visível atrás do vidro reforçado no final do corredor.
+
+Estilo visual: Thriller de ficção científica fotorrealista, atmosfera de horror cinematográfico, laboratório de biotecnologia futurista, iluminação volumétrica, expressões faciais realistas, névoa atmosférica, iluminação dramática em vermelho e ciano, texturas detalhadas, profundidade de campo rasa, movimentos de câmera lentos e cinematográficos, ritmo suspense, qualidade profissional de filme de Hollywood, detalhes em 4K, composição vertical 9:16.
+
+Prompt negativo: Cartoon, anime, baixa resolução, rostos borrados, anatomia distorcida, membros extras, movimento irreal, cores super saturadas, sobreposições de texto, marcas d'água, personagens inconsistentes, artefatos visuais piscantes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110596340640296960/img/NlEEzAkreEllPatu.jpg" width="600" alt="Prompt de Vídeo: Experimento de Laboratório de Terror Sci-Fi">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12585)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2110596402556608827) | **Publicado:** Oct 15, 2026
+
+---
+### Vídeo de Apresentação de Produto com Diálogo por IA
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gera um vídeo realista de apresentação de produto, destacando uma mulher segurando um produto específico a partir de imagens de referência, preservando detalhes exatos e adicionando diálogos naturais.
+
+#### 📝 Prompt
+
+```
+Uma mulher confiante e atraente da Imagem 1 segura o produto da Imagem 2 para uma apresentação. Preserve a aparência exata do produto, seu design, cores e detalhes sem alterações. Gere diálogo natural em inglês adequado ao cenário, com expressões realistas e movimentos suaves.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110586692981923840/img/O9ggPIEmigfihsdm.jpg" width="600" alt="Vídeo de Apresentação de Produto com Diálogo por IA">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12581)**
+
+**Autor:** [Meenakshi Yadav](https://x.com/MeenakshiYACS) | **Fonte:** [Link](https://x.com/MeenakshiYACS/status/2110586865426546858) | **Publicado:** Oct 15, 2026
+
+---
 ### Cena de Batalha: Espadachim de Vestes Brancas vs. Dragão
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5787,157 +5935,6 @@ Criei uma cena de batalha cinematográfica de fantasia de 15 segundos em uma cid
 **Autor:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2104754431434887271) | **Publicado:** Sep 29, 2026
 
 ---
-### Prompt de Vídeo Seedance 2.5: Virada Radical em Lancha Rápida
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar um vídeo aéreo cinematográfico de uma lancha rápida puxando um tubo inflável que atinge ondas gigantes e lança os passageiros para o ar.
-
-#### 📝 Prompt
-
-```
-Prompt de Vídeo 1 (0-10 segundos): Puxada em Alta Velocidade + Ondas Gigantes + Virada + Lançamento Alto
-DURAÇÃO: Parte 1 de 2 (10 segundos) | PROPORÇÃO DE TELA: 9:16 | ESTILO: Ação aérea cinematográfica fotorrealista, 4K, 60fps, forte desfoque de movimento, ritmo totalmente acelerado, sem câmera lenta
-SUJEITO: Um tubo inflável vermelho e amarelo brilhante, conectado por uma corda de reboque a uma lancha branca veloz. Quatro adultos coletes salva-vidas laranja montam no tubo, segurando as alças com firmeza, rindo e gritando de empolgação. Oceano tropical turquesa cristalino.
-CÂMERA: Uma tomada cinematográfica de drone em alta altitude, olhando quase diretamente para baixo, depois descendo e rastreando o tubo de trás em ângulo. Movimento rápido e suave com whip-tilts rápidos para acompanhar os passageiros. Uma tomada contínua, sem cortes.
-ILUMINAÇÃO: Luz solar tropical intensa do meio-dia, reflexos cintilantes nas ondas, cores vivas e saturadas, brilho do sol na pulverização da água.
-LINHA DO TEMPO:
-0-3s: De cima, a lancha ruge para frente, puxando o tubo em velocidade extrema. Esteiras brancas espessas se formam atrás de ambos. Os passageiros riem e seguram as alças, cabelos ao vento, e o tubo quica sobre a água.
-3-6s: Ondas oceânicas enormes e rápidas, vários metros de altura, surgem à frente. A lancha corta através delas e o tubo bate na primeira onda gigante, sendo lançado brevemente para o ar e caindo de volta com uma pulverização massiva. Os passageiros se agarram, gritando de alegria.
-6-8s: A lancha faz uma curva fechada contra a crista de uma onda imponente. O tubo pega o pico em velocidade total e vira violentamente.
-8-10s: Os passageiros são catapultados extremamente alto no ar, girando e rodopiando, braços balançando. A câmera inclina-se abruptamente para cima para rastreá-los contra o céu claro. Termine o segmento enquanto os passageiros sobem em direção ao topo de sua trajetória, bem acima do mar.
-SOM: Motor de lancha rugindo, vento uivando, ondas quebrando, respingos pesados, tensão da corda e gritos de excitação. Apenas ambiente natural, sem música.
-[Continuity Lock] O tubo permanece vermelho e amarelo brilhante e do mesmo tamanho, com os mesmos quatro passageiros em coletes salva-vidas laranja, todos mantendo os mesmos rostos, cabelos e roupas durante todo o tempo. A lancha permanece branca, com a mesma conexão de corda de reboque. O oceano turquesa e a luz do dia permanecem consistentes. Há exatamente um tubo, uma lancha e quatro passageiros, sem duplicatas e sem pessoas extras. A câmera não faz cortes ou mudanças de cena.
-[Sound Lock] O som do motor e das ondas corre continuamente e aumenta com a velocidade. Cada respingo e impacto sincroniza com o visual, e não há lacunas silenciosas.
-[Physics Rules] Gravidade realista e física da água. O lançamento é causado pelo tubo atingindo a crista da onda e virando, sem voar ou anti-gravidade. Esta é uma brincadeira aquática esportiva sem lesões, sem sangue e sem angústia.
-NEGATIVE: Sem aparência de desenho animado, sem câmera lenta, sem cortes, sem passageiros ou tubos duplicados, sem membros distorcidos ou extras, sem mudança de roupas ou cores, sem corpos flutuando, sem água irreal
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104579217300049920/img/W_5AykCmdRVR5N1E.jpg" width="600" alt="Prompt de Vídeo Seedance 2.5: Virada Radical em Lancha Rápida">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11538)**
-
-**Autor:** [Abkr Sadiq | AI](https://x.com/abs_uiux) | **Fonte:** [Link](https://x.com/abs_uiux/status/2104579354567000516) | **Publicado:** Sep 28, 2026
-
----
-### Prompt de Batalha: Guerreira Medieval vs Cavaleiro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para uma cena de batalha medieval cinematográfica ultra-realista, apresentando uma guerreira em vestido de marfim lutando contra um cavaleiro blindado, otimizado para composição vertical 9:16 no Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Cena de batalha medieval cinematográfica ultra-realista, uma jovem guerreira destemida vestindo um elegante vestido medieval fluido de marfim com mangas pretas ajustadas, em pé em um pátio antigo de pedra enquanto luta contra um cavaleiro fortemente blindado empunhando uma grande maça medieval. Pose de combate dinâmica, reflexos realistas da armadura de aço, movimento detalhado do tecido, ângulo de câmera dramático de cima para baixo, ação intensa, cenário de castelo europeu histórico, iluminação cinematográfica, pele e cabelo realistas, profundidade atmosférica, desfoque de movimento sutil, texturas altamente detalhadas, atmosfera épica de fantasia, fotorrealista, HDR, 8K, still profissional de filme, profundidade de campo rasa, composição vertical 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104442940575924224/img/Wc3lyQr_BLSu0cxX.jpg" width="600" alt="Prompt de Batalha: Guerreira Medieval vs Cavaleiro">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11481)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2104443130758013027) | **Publicado:** Sep 28, 2026
-
----
-### Prompt de Cartoon: Desastre Fofo na Cozinha com Gato
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para um vídeo cinematográfico em estilo cartoon, apresentando uma mulher e um gato causando desastres na cozinha, projetado para o Seedance 2.0 com restrições de consistência.
-
-#### 📝 Prompt
-
-```
-Criei um vídeo, uma história cinematográfica em estilo cartoon ambientada na cozinha, apresentando uma mulher de cabelos vermelhos cacheados e um gato cinza fofo e peludo em uma cozinha doméstica acolhedora e aconchegante. O vídeo começa com a mulher entrando na cozinha enquanto o gato cinza curioso permanece por perto, criando uma atmosfera lúdica e inocente. A câmera então se aproxima do gato quando ele estende sua patinha em direção a um botão no balcão da cozinha. De repente, um incidente engraçado na cozinha começa, enchendo a sala com nuvens de farinha e comida voando pelo ar. A mulher reage com surpresa enquanto o gato permanece no centro do caos, tornando a cena humorística e energética. Mostre movimentos dinâmicos de câmera, reações faciais expressivas, animação detalhada dos personagens e movimento corporal natural ao longo da sequência. Revele gradualmente a cozinha bagunçada, com farinha, comida e ingredientes espalhados pelos balcões e pelo chão. Termine com a mulher e o gato sentados juntos na cozinha bagunçada, parecendo inocentes e confusos após o desastre hilário. Mantenha os mesmos personagens, aparência, penteado, roupas, ambiente da cozinha, iluminação e estilo visual consistentes do início ao fim, com uma animação polida de qualidade cinematográfica em estilo cartoon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104431020124815360/img/imqTdC50LF1U_vpi.jpg" width="600" alt="Prompt de Cartoon: Desastre Fofo na Cozinha com Gato">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11480)**
-
-**Autor:** [liana](https://x.com/Lianaalane) | **Fonte:** [Link](https://x.com/Lianaalane/status/2104431076089414068) | **Publicado:** Sep 28, 2026
-
----
-### Prompt de Despertar de Fóssil de Dragão em Fantasia Sombria
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de fantasia sombria altamente detalhado de 15 segundos para o Seedance 2.0 Fast, envolvendo exploradores que descobrem um esqueleto de dragão fossilizado que começa a 'acordar' fisicamente sem transformação mágica.
-
-#### 📝 Prompt
-
-```
-Fantasia sombria fotorrealista em live-action de 15 segundos. Dois exploradores dentro de uma vasta caverna subterrânea descobrem o enorme esqueleto fossilizado de um dragão antigo incrustado na rocha. O crânio completo e a imensa caixa torácica são claramente visíveis. Geologia realista, lanternas de cabeça, poeira, escala e movimento humano.
-
-0–4s - DESCOBERTA: Plano aberto. Os exploradores caminham sob costelas fossilizadas gigantes que se erguem acima deles. Um coloca sua mão enluvada contra uma costela para comparar a escala. THUMP. Uma batida cardíaca profunda reverbera por todo o esqueleto. Ambos os exploradores congelam.
-
-4–8s - BATE NOVAMENTE: Close na mão tocando o fóssil. THUMP. Mais forte. A poeira salta de cada osso simultaneamente. O explorador imediatamente retira a mão. THUMP. A enorme caixa torácica do dragão expande-se visivelmente alguns centímetros como se estivesse dando seu primeiro suspiro em séculos, depois se acomoda. Os exploradores recuam lentamente.
-
-8–12s - DESPERTAR: A câmera acompanha em direção ao enorme crânio fossilizado. Outra batida cardíaca violenta. Pequenas pedras caem do crânio. Sua mandíbula inferior abre-se lentamente com um som profundo de atrito. Dentro da órbita ocular vazia, algo se move nas profundezas da escuridão.
-
-12–15s - CLIFF-HANGER: Plano aberto com os pequenos exploradores sob o esqueleto. THUMP. Toda a caverna treme. A enorme garra frontal fossilizada do dragão fecha-se subitamente contra o chão de pedra. Os exploradores olham para cima. Uma inspiração profunda ecoa pela caverna.
-
-CORTE PARA PRETO. Som: ambiente da caverna, batidas cardíacas cada vez mais poderosas ressoando através dos ossos, detritos caindo, juntas fossilizadas rangendo, respiração final enorme. Fotorrealista e fisicamente fundamentado. O dragão permanece um esqueleto fossilizado durante todo o tempo - sem regeneração de carne, transformação, brilho mágico ou fogo. Mantenha exatamente dois exploradores e um esqueleto consistente. Peso real dos ossos, interação de poeira e rocha. Sem membros extras, anatomia mudando, olhos brilhantes, partículas fantásticas ou aparência CGI.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104413921100570624/img/5S5spIm_GjV4SABc.jpg" width="600" alt="Prompt de Despertar de Fóssil de Dragão em Fantasia Sombria">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11479)**
-
-**Autor:** [DeCat](https://x.com/DeCat2025) | **Fonte:** [Link](https://x.com/DeCat2025/status/2104414219047166049) | **Publicado:** Sep 28, 2026
-
----
-### Prompt de Vídeo de Batalha Cinematográfica de Super-Heroína
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar uma sequência de ação cinematográfica ultra-realista de 31 segundos, apresentando uma super-heroína em armadura futurista lutando contra um monstro em uma cidade destruída, criada com Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Crie uma sequência de ação cinematográfica ultra-realista de 31 segundos ambientada em uma cidade moderna destruída, apresentando uma poderosa super-heroína vestindo um traje blindado preto futurista e elegante com detalhes vermelhos brilhantes, correndo por uma rua da cidade enquanto uma enorme explosão irrompe atrás dela, então faça a transição para uma passagem urbana escura onde ela se move em alta velocidade com rastreamento dramático da câmera, asas mecânicas poderosas emergindo de sua armadura enquanto ela se prepara para a batalha, seguido por intensos close-ups dela lutando contra uma criatura monstruosa gigante com olhos vermelhos brilhantes e força massiva, mostre movimentos aéreos rápidos, socos poderosos, chutes, faíscas, fumaça, detritos voando e efeitos de impacto realistas, então capture-a voando pela cidade com grandes asas mecânicas pretas brilhando com energia vermelha antes de pousar dramaticamente na estrada danificada, mantenha a aparência consistente do personagem, design da armadura, rosto, asas e criatura ao longo de todo o vídeo, com iluminação cinematográfica azul-escura, destaques vermelhos, destruição realista, movimento dinâmico da câmera, momentos dramáticos de câmera lenta, texturas detalhadas, fumaça volumétrica, profundidade de campo cinematográfica e efeitos visuais de alto nível no estilo Hollywood, terminando com a super-heroína firmemente de pé na cidade destruída enquanto fumaça e detritos se movem ao seu redor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104389789583810560/img/Nwu4qrlYAxzqERN0.jpg" width="600" alt="Prompt de Vídeo de Batalha Cinematográfica de Super-Heroína">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11477)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2104390191352103147) | **Publicado:** Sep 28, 2026
-
----
-### Prompt para Evento Global: O Retorno das Coisas Perdidas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt poético e descritivo para o Seedance 2.0 Mini, retratando um evento global onde itens perdidos, animais e cartas retornam à Terra, criando cenas de maravilha e reencontro.
-
-#### 📝 Prompt
-
-```
-Ao redor da Terra, algo impossível começa a acontecer.
-Tudo o que foi perdido está começando a voltar.
-Um brinquedo esquecido sai do oceano. Navios antigos emergem de uma névoa brilhante. Animais extintos aparecem em horizontes distantes. Milhões de cartas perdidas descem suavemente do céu.
-As pessoas param o que estão fazendo.
-Multidões se reúnem.
-Cidades inteiras assistem enquanto reencontros impossíveis se desenrolam.
-Uma criança vê seu animal de estimação amado correndo em sua direção. Tesouros há muito perdidos emergem dos desertos. Florestas antigas reaparecem onde antes havia terra vazia.
-O fenômeno se espalha pelo planeta.
-Mais e mais coisas retornam.
-A escala torna-se enorme.
-Os céus se enchem de invenções perdidas. Histórias perdidas. Possibilidades perdidas.
-A humanidade observa junta.
-Um mundo reconectando-se com tudo o que achava ter desaparecido para sempre.
-Fantasia épica de ficção científica majestosa, narrativa emocional, evento global massivo, visuais de tirar o fôlego, maravilha, esperança, cinematografia espetacular, movimento dinâmico, ambientes fotorrealistas, escala épica, obra-prima, 16:9.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104037560196435968/img/MimcVdt7eNrPmpOt.jpg" width="600" alt="Prompt para Evento Global: O Retorno das Coisas Perdidas">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11482)**
-
-**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fonte:** [Link](https://x.com/AllaAisling/status/2104264808119816501) | **Publicado:** Sep 27, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -5999,6 +5996,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-16T03:39:48.149Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-16T09:08:59.142Z</sub>
 
 </div>

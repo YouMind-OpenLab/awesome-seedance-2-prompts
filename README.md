@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6541** |
+| 📝 Total Prompts | **6547** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-10-16** |
 
@@ -365,6 +365,154 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Surreal Cinematic Video of Disappearing Figures in Blue Windows
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video generation prompt for creating a surreal cinematic sequence where human figures float and dissolve into smoke within glowing blue windows against a dark background.
+
+#### 📝 Prompt
+
+```
+Create a 12.8-second surreal cinematic art video in 16:9 format, with a deep black background, electric-blue windows, and monochromatic smoke.
+
+SHOT 1 (0:00–0:01): A single glowing blue four-pane window contains a human figure floating horizontally above a faint rocky ledge.
+
+SHOT 2 (0:01–0:03): The window dissolves into darkness, leaving the same floating human figure in grayscale as thin smoky strands emerge around the body.
+
+SHOT 3 (0:03–0:05): Feather-like smoke filaments curl into an elongated elliptical ring around the suspended figure.
+
+SHOT 4 (0:05–0:07): Gray-white smoky ribbons sweep horizontally around the body, stretching and flowing through the black environment.
+
+SHOT 5 (0:07–0:08): The smoke dissolves as a glowing blue window smoothly reappears behind the floating figure.
+
+SHOT 6 (0:08–0:10): The single window expands into multiple irregularly arranged blue windows, each containing a human figure in a different floating pose.
+
+SHOT 7 (0:10–0:12.8): Reveal the complete installation of glowing blue windows against a dark textured background, with suspended figures and subtly shimmering light.
+
+STYLE & MOTION: Surreal fine-art cinematography, deep blacks, cold blue illumination, grayscale figures, delicate smoke, volumetric lighting, subtle film grain, smooth morphing transitions, steady wide camera, consistent human anatomy and clothing.
+
+NEGATIVE PROMPT: No eyes, eyeballs, colorful neon, bright rooms, sudden cuts, fast spins, abrupt zooms, distorted anatomy, extra limbs, unintended duplication, text, logos, or watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110947855406080000/img/h_AHjQJABwOETClb.jpg" width="600" alt="Surreal Cinematic Video of Disappearing Figures in Blue Windows">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12582)**
+
+**Author:** [Sᴀɪʀᴀ](https://x.com/itsSaira_1) | **Source:** [Link](https://x.com/itsSaira_1/status/2110947923412566187) | **Published:** Oct 16, 2026
+
+---
+### Cinematic Giant Cat Bathing Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a realistic, funny video of a giant Ragdoll cat being bathed and dried by a woman, featuring cinematic lighting and smooth transitions.
+
+#### 📝 Prompt
+
+```
+30-second ultra-realistic cinematic video prompt: Create a heartwarming, funny, and visually stunning 30-second video featuring an enormous, fluffy white-and-gray Ragdoll cat with beautiful blue eyes, a pink nose, and extremely soft, thick fur, sitting outside a modern house. A beautiful young Korean woman with long, straight dark hair, a natural smile, and a casual navy-blue outfit approaches the giant cat on a sunny afternoon. She gently sprays water over the cat using a green garden hose, soaking its thick fur while the cat remains calm and adorable. Show realistic water droplets falling from its fur, with detailed wet hair and natural feline expressions. The woman smiles and laughs while carefully washing the giant cat in the driveway, surrounded by greenery and warm sunlight. Transition smoothly to a cozy garage scene where she uses a handheld hair dryer to dry the enormous cat's fluffy coat. The cat closes its eyes happily as warm air blows through its fur, making it look even bigger and funnier. Use realistic animal movements, natural human expressions, cinematic camera angles, soft golden-hour lighting, detailed fur physics, and seamless transitions. Maintain consistent character appearances throughout the video, with photorealistic quality, natural ambient sounds, and no text, logos, or watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110921791401295872/img/LTge8nSIPaG23dMW.jpg" width="600" alt="Cinematic Giant Cat Bathing Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12583)**
+
+**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2110921969420177453) | **Published:** Oct 16, 2026
+
+---
+### Helicopter Trampoline Jump Video Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A complex video generation prompt for Seedance 2.0 creating a cinematic helicopter trampoline jump scene with dialogue.
+
+#### 📝 Prompt
+
+```
+[Priority Reference Image & Name Fixing]
+@image1 = Description Name: Protagonist
+Protagonist's identity, face, hairstyle, body type, costume, accessories, equipment, shoe appearance standards.
+Use only the names fixed above in the following text.
+15 seconds, 3:4 aspect ratio, photorealistic live-action style, continuous video with audio set over bright blue sea during daytime. No screen cuts throughout. Use reference image only for protagonist's appearance; do not incorporate three-view diagram layouts or text/sample layouts into the video. Maintain protagonist's identity, costume, accessories, and physique throughout. No BGM, subtitles, captions, or logos.
+Characters include Protagonist, Crew A, Crew B, Crew C (total 4). Civilian medium-sized filming helicopter with white body and blue lines. Black skid landing gear, open wide side sliding door, exterior steps for boarding/deboarding, dark gray interior. Helicopter maintains constant altitude above sea level from start to finish. Coastline visible in distance; circular trampoline installed far below on sea surface. Protagonist stands on exterior step of open door, looking at distant trampoline. Crew A stands near door, wearing blue windbreaker, black life vest, aviation headset. Crew B stands inside near door, wearing orange windbreaker, black life vest, aviation headset. Crew C is deep inside, wearing green windbreaker, black life vest, aviation headset. Faces of all 3 crew members are visible. Camera starts from same position near helicopter door, slightly wide-angle capturing Protagonist, 3 crew members, and sea beyond door. Camera position remains fixed, tilting up/down according to fall and ascent. Wind noise and rotor sounds continue naturally throughout.
+0.0–3.0s: Crew A looks at Protagonist, smiles, asks "Ready?" Protagonist nods to Crew A, then looks directly into camera lens, showing tension and excitement in smile, says energetically in natural Japanese "Alright, I'm off!" Lip movements match full dialogue text. Crew B smiles, lightly raises fist; Crew C laughs happily, leans out slightly, nods. After speaking, Protagonist takes deep breath, looks down at circular trampoline, kicks off exterior step and jumps out.
+3.0–6.2s: Moment Protagonist jumps from helicopter, Crew B shouts "Go!" towards Protagonist. Camera quickly tilts down while keeping door-side position, tracking falling Protagonist near center of frame. Protagonist stretches body falling, becoming smaller as distance increases. Circular trampoline below becomes visible, Protagonist approaches aiming for center. While camera faces down, 3 crew members are out of frame but cheerful cheers heard from inside. Rotor and wind sounds continue.
+6.2–7.7s: Protagonist lands near center of circular trampoline on sea surface. Stretched jumping surface sinks significantly under weight, stops descent, then strongly rebounds upward. Camera remains facing down, showing continuous sequence of landing, sinking, and reversal to ascent. Impact and rebound sounds heard.
+7.7–11.6s: Protagonist bounces high toward helicopter from rebound force, pulls knees to chest, folds body small, rotates vigorously in air. Camera tilts up matching rising Protagonist from same position. Protagonist grows larger approaching, open door and exterior step become visible again. Unwinds rotation, extends legs, returns both feet to same exterior step jumped from, standing stably in same initial position, orientation, and posture. Helicopter altitude unchanged.
+11.6–15.0s: Camera returns to initial door-side orientation. Crew A claps smilingly toward Protagonist. Crew B joyfully raises fist, short shout "Yay!" Crew C claps hands smilingly looking at Protagonist. Protagonist, breathing heavily, turns face to camera lens, eyes sparkling, speaks brightly and naturally with excitement and joy of safe return "Awesome! Awesome, it was the best!" Lip movements match full dialogue text for Crew B and Protagonist. Final frame: Protagonist standing on original exterior step, finished talking to camera, excited expression, Crew A and C clapping behind, Crew B rejoicing. Clapping and rotor sounds continue until end at 15s.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110874497792573441/img/JxHJnlKIe6vqYRbF.jpg" width="600" alt="Helicopter Trampoline Jump Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12587)**
+
+**Author:** [M7［mi7］AI](https://x.com/mi7_crypto) | **Source:** [Link](https://x.com/mi7_crypto/status/2110875842343768404) | **Published:** Oct 15, 2026
+
+---
+### Tokyo Night Travel Vlog Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a cinematic travel vlog-style video of a woman exploring Tokyo at night, featuring neon lights, convenience stores, and scenic spots.
+
+#### 📝 Prompt
+
+```
+Create a 26-second ultra-realistic cinematic travel video featuring a beautiful young Korean woman exploring the streets of Tokyo, Japan, at night and during sunset, wearing a stylish black leather jacket with natural makeup and soft, wavy black hair. Begin with a rear-view shot of her walking across a busy Tokyo intersection surrounded by colorful neon signs, wet streets, and glowing city lights. Show her smiling warmly while holding a cute Japanese rice ball inside a brightly lit convenience store, followed by a candid moment of her buying a drink from a vending machine. Capture her walking beneath a traditional red Japanese torii gate, then turning back toward the camera with a playful smile in a narrow street decorated with glowing Japanese lanterns. Show her taking a casual selfie on a peaceful residential street and enjoying the riverside scenery as a train passes in the background. Include a cozy bookstore scene where she excitedly opens a travel book and smiles at the camera, followed by a peaceful sunset moment sitting beside the river with a takeaway drink. End with beautiful nighttime city lights, a joyful handheld selfie on an elevated bridge, and her smiling with the Tokyo skyline behind her. Use natural handheld smartphone camera movements, smooth cinematic transitions, authentic candid expressions, realistic skin texture, soft film grain, nostalgic early-2000s MiniDV aesthetics, moody teal-green night tones, warm sunset lighting, and shallow depth of field. Maintain consistent facial identity, hairstyle, outfit, and body proportions throughout the entire video, with realistic movements and a spontaneous travel-diary feeling, in a 16:9 widescreen aspect ratio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110596831482900480/img/pEzoaxwQMjlLhpl9.jpg" width="600" alt="Tokyo Night Travel Vlog Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12584)**
+
+**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2110597035502272787) | **Published:** Oct 15, 2026
+
+---
+### Sci-Fi Horror Lab Experiment Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a cinematic sci-fi horror scene in a laboratory, featuring a scientist, a mysterious entity, and dramatic lighting effects.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic sci-fi horror scene inside a futuristic high-security research laboratory. A young female scientist wearing a white lab coat carefully conducts a mysterious experiment in a sterile laboratory filled with glass chambers, advanced scientific equipment, glowing blue monitors, and reflective metallic surfaces. She examines a strange biological specimen, then suddenly notices something terrifying. A pale, mysterious humanoid entity with sunken dark eyes and an unsettling expression appears inside the laboratory. Its appearance is disturbing yet realistic, with subtle facial movements and lifelike skin texture.
+
+The laboratory lights begin flickering as a red emergency alarm activates. Scientists rush through a glass corridor while white vapor bursts from a containment chamber. The female scientist turns in shock as the facility enters lockdown. Red warning lights illuminate the dark hallway, creating dramatic reflections on the glass walls. The mysterious entity remains visible behind reinforced glass at the end of the corridor.
+
+Visual style: Photorealistic science-fiction thriller, cinematic horror atmosphere, futuristic biotechnology laboratory, volumetric lighting, realistic facial expressions, atmospheric fog, dramatic red and cyan lighting, detailed textures, shallow depth of field, slow cinematic camera movements, suspenseful pacing, professional Hollywood film quality, 4K detail, vertical 9:16 composition.
+
+Negative prompt: Cartoon, anime, low resolution, blurry faces, distorted anatomy, extra limbs, unrealistic movement, oversaturated colors, text overlays, watermarks, inconsistent characters, flickering visual artifacts.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110596340640296960/img/NlEEzAkreEllPatu.jpg" width="600" alt="Sci-Fi Horror Lab Experiment Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12585)**
+
+**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2110596402556608827) | **Published:** Oct 15, 2026
+
+---
+### Product Presentation Video with AI Dialogue
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a realistic product presentation video featuring a woman holding a specific product from reference images, preserving exact details and adding natural dialogue.
+
+#### 📝 Prompt
+
+```
+A confident, attractive woman from Image 1 holds the product from Image 2 for a presentation. Preserve the product’s exact appearance, design, colors, and details without alterations. Generate natural English dialogue suited to the scenario, with realistic expressions and smooth movements.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110586692981923840/img/O9ggPIEmigfihsdm.jpg" width="600" alt="Product Presentation Video with AI Dialogue">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12581)**
+
+**Author:** [Meenakshi Yadav](https://x.com/MeenakshiYACS) | **Source:** [Link](https://x.com/MeenakshiYACS/status/2110586865426546858) | **Published:** Oct 15, 2026
+
+---
 ### White Robe Swordsman Dragon Battle Scene
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -6422,157 +6570,6 @@ Created a 15-second cinematic fantasy battle scene in a ruined ancient city at s
 **Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2104754431434887271) | **Published:** Sep 29, 2026
 
 ---
-### Seedance 2.5 High-Speed Boat Flip Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a cinematic aerial video of a speedboat pulling an inflatable tube raft that hits giant waves and flips the riders into the air.
-
-#### 📝 Prompt
-
-```
-Video Prompt 1 (0-10 seconds): High-Speed Pull + Giant Waves + Flip + High Launch
-DURATION: Part 1 of 2 (10 seconds) | ASPECT RATIO: 9:16 | STYLE: Photorealistic cinematic aerial action, 4K, 60fps, strong motion blur, full high-speed pace, no slow motion
-SUBJECT: A bright yellow and red inflatable tube raft, tethered by a tow rope to a fast white speedboat. Four adults in orange life jackets ride the raft, gripping the handles tightly, laughing and screaming with excitement. Crystal-clear turquoise tropical ocean.
-CAMERA: A cinematic drone shot at high altitude, looking almost straight down, then dropping lower and tracking the raft from behind at an angle. Fast, smooth movement with fast whip-tilts to follow the riders. One continuous shot, no cuts.
-LIGHTING: Bright midday tropical sunlight, sparkling reflections on the waves, vivid saturated colors, sun glare on the water spray.
-TIMELINE:
-0-3s: From above, the speedboat roars forward, pulling the raft at extreme speed. Thick white wakes trail behind both. The riders laugh and grip the handles, hair whipping in the wind, and the raft skips over the water.
-3-6s: Huge, fast-rolling ocean waves, several meters tall, rise ahead. The boat carves through them and the raft slams into the first giant wave, launching briefly into the air and crashing back down with massive spray. The riders cling on, screaming with joy.
-6-8s: The boat cuts hard across a towering wave crest. The raft catches the peak at full speed and flips violently.
-8-10s: The riders are catapulted extremely high into the air, tumbling and spinning, arms flailing. The camera tilts up sharply to track them against the bright sky. End the segment as the riders climb toward the top of their arc, high above the sea.
-SOUND: A roaring speedboat engine, rushing wind, crashing waves, heavy splashes, rope tension, and excited screams. Natural ambience only, no music.
-[Continuity Lock] The raft stays bright yellow and red and the same size, with the same four riders in orange life jackets, all keeping the same faces, hair, and outfits throughout. The boat stays white, with the same tow rope connection. The turquoise ocean and daylight stay consistent. There is exactly one raft, one boat, and four riders, with no duplicates and no extra people. The camera makes no cuts or scene changes.
-[Sound Lock] The engine and wave ambience run continuously and build with the speed. Each splash and impact syncs to the visual, and there are no silent gaps.
-[Physics Rules] Realistic gravity and water physics. The launch is caused by the raft hitting the wave crest and flipping, with no flying or anti-gravity. This is a playful water-sport ride with no injuries, no blood, and no distress.
-NEGATIVE: No cartoon look, no slow motion, no cuts, no duplicated riders or rafts, no distorted or extra limbs, no changed clothing or colors, no floating bodies, no unrealistic water
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104579217300049920/img/W_5AykCmdRVR5N1E.jpg" width="600" alt="Seedance 2.5 High-Speed Boat Flip Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11538)**
-
-**Author:** [Abkr Sadiq | AI](https://x.com/abs_uiux) | **Source:** [Link](https://x.com/abs_uiux/status/2104579354567000516) | **Published:** Sep 28, 2026
-
----
-### Medieval Woman Warrior Battle Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for an ultra-realistic cinematic medieval battle scene featuring a woman in an ivory dress fighting an armored knight.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic medieval battle scene, a brave young woman warrior in an elegant flowing ivory medieval dress with black fitted sleeves, standing on an ancient stone courtyard while fighting a heavily armored knight wielding a large medieval mace. Dynamic combat pose, realistic steel armor reflections, detailed fabric movement, dramatic overhead camera angle, intense action, historical European castle setting, cinematic lighting, realistic skin and hair, atmospheric depth, subtle motion blur, highly detailed textures, epic fantasy atmosphere, photorealistic, HDR, 8K, professional film still, shallow depth of field, vertical 9:16 composition.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104442940575924224/img/Wc3lyQr_BLSu0cxX.jpg" width="600" alt="Medieval Woman Warrior Battle Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11481)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2104443130758013027) | **Published:** Sep 28, 2026
-
----
-### Cute Cat Kitchen Disaster Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a cinematic cartoon-style video featuring a woman and a cat causing a funny kitchen disaster with flour and food flying everywhere.
-
-#### 📝 Prompt
-
-```
-Created a video, a cinematic cartoon-style kitchen story featuring a curly red-haired woman and a cute fluffy gray cat in a warm, cozy home kitchen. The video begins with the woman entering the kitchen while the curious gray cat stays nearby, creating a playful and innocent atmosphere. The camera then moves closer to the cat as it reaches toward a button on the kitchen counter with its tiny paw. Suddenly, a funny kitchen mishap begins, filling the room with clouds of flour and food flying through the air. The woman reacts with surprise as the cat remains at the center of the chaos, making the scene humorous and energetic. Show dynamic camera movements, expressive facial reactions, detailed character animation, and natural body movement throughout the sequence. Gradually reveal the messy kitchen with flour, food, and ingredients scattered across the counters and floor. End with the woman and the cat sitting together in the messy kitchen, looking innocent and confused after the hilarious disaster. Keep the same characters, appearance, hairstyle, clothing, kitchen environment, lighting, and visual style consistent from beginning to end, with polished cinematic cartoon-quality animation.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104431020124815360/img/imqTdC50LF1U_vpi.jpg" width="600" alt="Cute Cat Kitchen Disaster Animation">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11480)**
-
-**Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2104431076089414068) | **Published:** Sep 28, 2026
-
----
-### Underground Dragon Skeleton Awakening
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A 15-second photorealistic dark fantasy prompt where explorers discover a fossilized dragon skeleton that begins to beat like a heart.
-
-#### 📝 Prompt
-
-```
-15-second photorealistic live-action dark fantasy. Two explorers inside a vast underground cavern discover the enormous fossilized skeleton of an ancient dragon embedded in rock. The complete skull and massive rib cage are clearly visible. Realistic geology, headlamps, dust, scale and human movement.  
-
-0–4s - DISCOVERY: Wide shot. The explorers walk beneath gigantic fossilized ribs towering over them. One places his gloved hand against a rib for scale.  THUMP.  A deep heartbeat reverberates through the entire skeleton.  Both explorers freeze.  
-
-0–8s  IT BEATS AGAIN: Close shot on the hand touching the fossil.  THUMP.  Stronger.  Dust jumps from every bone simultaneously. The explorer immediately pulls his hand away.  THUMP.  The dragon’s huge rib cage visibly expands a few centimeters as if taking its first breath in centuries, then settles.  The explorers slowly back away.  
-
-8–12s - WAKING: Camera tracks toward the enormous fossilized skull.  Another violent heartbeat.  Small rocks fall from the skull. Its lower jaw slowly opens with a deep grinding sound.  Inside the empty eye socket, something moves deep in the darkness.  
-
-12–15s - CLIFF-HANGER: Wide shot with the tiny explorers beneath the skeleton.  THUMP.  The entire cavern shakes.  The dragon’s enormous fossilized front claw suddenly CLOSES against the stone floor.  The explorers stare upward.  A massive inhale echoes through the cavern.  
-
-CUT TO BLACK.  Sound: cavern ambience, increasingly powerful heartbeats resonating through bone, falling grit, grinding fossilized joints, final enormous breath.  Photorealistic and physically grounded. The dragon remains a fossilized skeleton throughout - no flesh regeneration, transformation, magical glow or fire. Keep exactly two explorers and one consistent skeleton. Real bone weight, dust and rock interaction. No extra limbs, changing anatomy, glowing eyes, fantasy particles or CGI look.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104413921100570624/img/5S5spIm_GjV4SABc.jpg" width="600" alt="Underground Dragon Skeleton Awakening">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11479)**
-
-**Author:** [DeCat](https://x.com/DeCat2025) | **Source:** [Link](https://x.com/DeCat2025/status/2104414219047166049) | **Published:** Sep 28, 2026
-
----
-### Futuristic Superhero Battle Sequence Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex prompt for a 31-second ultra-realistic cinematic action sequence featuring a female superhero with mechanical wings fighting a monster in a destroyed city.
-
-#### 📝 Prompt
-
-```
-Create a 31-second ultra-realistic cinematic action sequence set in a destroyed modern city, featuring a powerful female superhero in a sleek black futuristic armored suit with glowing red details, running through a city street as a massive explosion erupts behind her, then transition into a dark urban passage where she moves at high speed with dramatic camera tracking, powerful mechanical wings emerging from her armor as she prepares for battle, followed by intense close-up shots of her fighting a huge monstrous creature with glowing red eyes and massive strength, show fast aerial movements, powerful punches, kicks, sparks, smoke, flying debris and realistic impact effects, then capture her flying through the city with large black mechanical wings glowing with red energy before landing dramatically on the damaged road, maintain consistent character appearance, armor design, face, wings and creature throughout the entire video, with dark blue cinematic lighting, red highlights, realistic destruction, dynamic camera movement, dramatic slow motion moments, detailed textures, volumetric smoke, cinematic depth of field and high-end Hollywood-style visual effects, ending with the superhero standing firmly in the destroyed city as smoke and debris move around her.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104389789583810560/img/Nwu4qrlYAxzqERN0.jpg" width="600" alt="Futuristic Superhero Battle Sequence Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11477)**
-
-**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2104390191352103147) | **Published:** Sep 28, 2026
-
----
-### Lost Things Return Global Event Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A poetic and descriptive prompt for Seedance 2.0 Mini depicting a global event where lost items, animals, and letters return to Earth, creating scenes of wonder and reunion.
-
-#### 📝 Prompt
-
-```
-Across Earth, something impossible begins happening.
-Everything that was ever lost starts coming back.
-A forgotten toy walks out of the ocean. Ancient ships emerge from glowing fog. Extinct animals appear on distant horizons. Millions of lost letters descend gently from the sky.
-People stop what they are doing.
-Crowds gather.
-Entire cities watch as impossible reunions unfold.
-A child sees a beloved pet running toward them. Long-lost treasures emerge from deserts. Ancient forests reappear where empty land once stood.
-The phenomenon spreads across the planet.
-More and more things return.
-The scale becomes enormous.
-The skies fill with lost inventions. Lost histories. Lost possibilities.
-Humanity watches together.
-A world reconnecting with everything it thought was gone forever.
-Majestic science fiction fantasy, emotional storytelling, massive global event, breathtaking visuals, wonder, hope, spectacular cinematography, dynamic movement, photorealistic environments, epic scale, masterpiece, 16:9.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104037560196435968/img/MimcVdt7eNrPmpOt.jpg" width="600" alt="Lost Things Return Global Event Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11482)**
-
-**Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2104264808119816501) | **Published:** Sep 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -6634,6 +6631,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-16T03:39:28.225Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-16T09:08:44.857Z</sub>
 
 </div>
