@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6547** |
+| 📝 Total des prompts | **6555** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-10-17** |
 
@@ -361,6 +361,206 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Aventure cinématographique de la petite coureuse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une vidéo d'aventure miniature cinématographique mettant en scène une petite femme athlétique naviguant dans un monde quotidien surdimensionné.
+
+#### 📝 Prompt
+
+```
+Créez une aventure miniature cinématographique ultra-réaliste mettant en scène une petite femme athlétique naviguant dans un monde quotidien gigantesque. Elle court sur un bureau, grimpe à un énorme bocal en verre, explore des piles de tissus colorés, escalade des vêtements suspendus et se faufile entre des appareils ménagers surdimensionnés. Montrez-la grimpant sur une capsule massive, rampant sous une machine à laver et traversant un parcours d'obstacles miniature. Soulignez le contraste dramatique entre son échelle humaine minuscule et les objets gigantesques. Éclairage cinématographique chaud, textures réalistes, faible profondeur de champ, photographie macro, plans suivis fluides, mouvements humains naturels, ombres douces, détails photoréalistes, narration créative, esthétique commerciale premium, format vertical 9:16, qualité 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111311504519872513/img/XjUA1H4ax_wXi_Eq.jpg" width="600" alt="Aventure cinématographique de la petite coureuse">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12629)**
+
+**Auteur:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2111311551710007388) | **Publié:** Oct 17, 2026
+
+---
+### Promenade d'une écolière sous les cerisiers en fleurs
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour créer une vidéo cinématographique de 30 secondes montrant une écolière japonaise marchant sous des cerisiers en fleurs près de voies ferrées.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo cinématographique ultra-réaliste de 30 secondes montrant une jeune écolière japonaise marchant le long d'un passage à niveau entouré de cerisiers en pleine floraison. Elle porte un uniforme scolaire japonais traditionnel de style marin bleu marine avec des rayures blanches, une jupe plissée assortie, des chaussures noires et un sac à bandoulière noir, avec une coiffure courte noire soignée et un masque facial noir. Commencez par un plan large cinématographique de dos alors qu'elle marche lentement à côté des rails, entourée de délicates fleurs rose pâle et blanches. La caméra la suit doucement par derrière, capturant le mouvement naturel de ses cheveux, de son uniforme et de son sac tandis qu'une brise légère traverse les arbres. Passez à de beaux plans rapprochés de ses épaules, de sa coiffure et de son uniforme alors qu'elle admire silencieusement les cerisiers au-dessus d'elle. Capturez les pétales complexes, les branches délicates et la lumière naturelle douce avec une faible profondeur de champ et un étalonnage colorimétrique cinématographique réaliste. Inclinez lentement la caméra vers le haut pour révéler un dôme onirique de cerisiers s'étendant dans le ciel. Terminez par un plan aérien large en hauteur montrant la fille marchant près du passage à niveau, encadrée par les rails et des arbres en fleurs à perte de vue. Maintenez une apparence de personnage cohérente, une anatomie réaliste, des mouvements de caméra fluides, un éclairage naturel et une atmosphère nostalgique et paisible de film japonais tout au long de la vidéo de 30 secondes, sans texte, logos ni filigranes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111294112578273280/img/lARGZKv52YTw6qaB.jpg" width="600" alt="Promenade d'une écolière sous les cerisiers en fleurs">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12630)**
+
+**Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2111294203095629930) | **Publié:** Oct 17, 2026
+
+---
+### Éveil de l'Entité Stellaire dans la Flotte Spatiale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt d'action science-fiction pour une vidéo cinématique de 15 secondes mettant en scène des flottes spatiales combattant près d'une étoile mourante qui révèle une entité éveillée.
+
+#### 📝 Prompt
+
+```
+Court métrage d'action science-fiction photoréaliste et cinématique de 15 secondes, format 16:9.
+Deux immenses flottes spatiales se précipitent vers une géante rouge mourante.
+La première flotte tente d'atteindre l'étoile.
+La seconde flotte cherche à les détruire avant leur arrivée.
+Des centaines de chasseurs s'affrontent tandis que les deux flottes plongent directement dans l'atmosphère externe de l'étoile.
+Les vaisseaux slaloment entre des éruptions solaires colossales.
+Les missiles disparaissent au sein de fleuves de plasma.
+Un petit vaisseau spatial se détache de la bataille et plonge vers la surface de l'étoile.
+Un chasseur ennemi le suit.
+Les deux navires disparaissent sous la surface incandescente.
+Soudain, tout devient silencieux.
+La caméra révèle une immense structure géométrique cachée à l'intérieur de l'étoile.
+Sa surface commence à s'ouvrir.
+Un faisceau aveuglant jaillit vers l'extérieur.
+L'étoile ne meurt pas.
+Quelque chose à l'intérieur vient de s'éveiller.
+Physique stellaire photoréaliste, échelle extrême, combat spatial agressif, poursuite rapide, environnements de plasma, révélation dramatique, mouvement de caméra cinématique, vaisseaux spatiaux détaillés, sans texte, sans logos, sans anime, sans dessin animé.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111183606764736512/img/D3t4ZuH6oSsNn1Zi.jpg" width="600" alt="Éveil de l'Entité Stellaire dans la Flotte Spatiale">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12632)**
+
+**Auteur:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2111216112566153340) | **Publié:** Oct 16, 2026
+
+---
+### Prompt vidéo pour la rénovation de sol en époxy avec feuilles d'érable
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour générer une vidéo en accéléré hyper-réaliste de la rénovation du sol d'une pièce à l'aide de feuilles d'érable automnales et de résine époxy. La séquence couvre la dispersion des feuilles, le coulage de la résine, le polissage jusqu'à la transparence et l'assemblage des meubles, aboutissant à un sol brillant rappelant l'ambre.
+
+#### 📝 Prompt
+
+```
+Vidéo de rénovation satisfaisante hyper-réaliste au format vertical 9:16, style accéléré 
+avec transitions fluides. Une chambre blanche vide, sol en béton, lumière chaude du soleil 
+pénétrant par une fenêtre.
+
+Plan 1 : Un homme portant une chemise noire à manches longues et une salopette en jean ratisse 
+un énorme tas de feuilles d'érable automnales vives orange et rouges sur le sol, répartissant les feuilles 
+de manière uniforme dans toute la pièce avec des mouvements de balayage fluides.
+
+Plan 2 : Une femme en salopette rouge verse une épaisse résine époxy blanche depuis un grand seau ; 
+le liquide blanc brillant s'étale en cercle croissant, recouvrant toutes les feuilles 
+jusqu'à ce que tout le sol soit enduit de blanc.
+
+Plan 3 : Un travailleur vêtu d'un gilet jaune haute visibilité et d'une casquette polit la surface 
+blanche durcie à l'aide d'une monobrosseuse ; pendant qu'il polit, la couche devient 
+cristalline et transparente, révélant des feuilles d'érable vibrantes suspendues à l'intérieur 
+de l'époxy brillante comme de l'ambre.
+
+Plan 4 : Gros plan sur une main appliquant une dernière couche de finition brillante au rouleau, 
+le sol devient miroitant avec des reflets de la fenêtre.
+
+Plan 5 : Deux déménageurs en uniformes noirs et casquettes assemblent rapidement un cadre de lit 
+en bois clair, placent un matelas, une couette blanche et des oreillers en mode accéléré.
+
+Plan final : Chambre minimaliste terminée — magnifique sol en époxy brillant rempli 
+de feuilles d'automne orange figées, lit blanc au centre, reflets du soleil dansant 
+sur la surface polie.
+
+Style : photoréaliste, contenu de rénovation ASMR satisfaisant, palette de couleurs chaudes d'automne, 
+lumière naturelle du jour, coupes rapides et fluides, haute définition, qualité 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111145355043602432/img/Z6CVCEHHPYhcMwnR.jpg" width="600" alt="Prompt vidéo pour la rénovation de sol en époxy avec feuilles d'érable">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12628)**
+
+**Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2111145392444162432) | **Publié:** Oct 16, 2026
+
+---
+### Écrasement d'œuf par presse hydraulique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo ASMR satisfaisant mettant en scène une presse hydraulique écrasant des œufs durs dans une chambre transparente.
+
+#### 📝 Prompt
+
+```
+Vidéo photoréaliste verticale au format 9:16, plan fixe rapproché de face. Une puissante presse hydraulique industrielle dotée de colonnes en chrome poli et d'un piston en acier descend lentement sur une chambre cylindrique en acrylique transparent remplie de moitiés d'œufs durs, les jaunes brillants tournés vers la caméra. Alors que la lourde plaque métallique s'abat, les œufs se compressent, se fissurent et éclatent, libérant un mélange crémeux jaune pâle qui s'échappe par un bec verseur en acier situé en bas, formant un flux épais et onctueux dans un bol rond en acier inoxydable placé dessous. Arrière-plan lumineux et propre d'une usine industrielle, éclairage fluorescent doux au plafond, intérieur d'atelier flou. Style satisfaisant d'écrasement par presse hydraulique ASMR, textures ultra-détaillées, physique des fluides réaliste, mouvement lent et fluide, faible profondeur de champ, qualité 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111144307516116992/img/rLOvgdK5WZsB3ir9.jpg" width="600" alt="Écrasement d'œuf par presse hydraulique">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12631)**
+
+**Auteur:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2111144330228277497) | **Publié:** Oct 16, 2026
+
+---
+### Prompt Cinématographique à Vitesse Variable et Push-in
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt cinématographique très détaillé pour une scène de métro avec un mouvement de caméra à vitesse variable, conçu pour des modèles vidéo haut de gamme comme Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Apparence du personnage et référence d'identité [Image 1]. Voiture de métro en fin de nuit, dernier wagon en mouvement, aucun autre passager à part elle. Elle est assise seule, tête baissée, mains naturellement croisées sur ses genoux. Les lumières ambrées du plafond l'éclairent, tandis que les wagons environnants sont dans des tons cyan-gris-bleu profonds, créant une atmosphère calme et oppressante.
+
+Durée totale : 10 secondes, plan-séquence continu, sans coupes. Utilisez la texture d'un objectif vintage Cooke Speed Panchro 50 mm, avec des hautes lumières douces et des halos discrets. Focale fixe ; la caméra avance réellement le long de l'axe face au personnage, la mise au point suit continuellement son visage.
+
+0–3 s : Quasi-statique.
+Commencez par un plan moyen montrant la posture assise du personnage et ses mains croisées. La caméra avance extrêmement lentement, presque imperceptiblement. Elle reste assise tranquillement, tête baissée, épaules détendues, avec seulement une respiration naturelle subtile. L'audio est principalement un grondement basse fréquence du métro, avec une musique ambiante quasi inaudible, sans mélodie ni percussions.
+3–6 s : Approche soudaine à grande vitesse.
+La caméra accélère brusquement et de manière significative, s'approchant d'elle à grande vitesse le long du même axe. Le personnage grossit rapidement dans le cadre, la perspective du wagon change naturellement à mesure que la caméra avance, créant une forte pression frontale. L'accélération est décisive, le mouvement continu, ne doit pas être traité comme une poussée uniforme ou douce tout au long. Elle garde toujours la tête baissée, sa respiration devient progressivement plus courte, ses épaules et son cou se tendent légèrement, ses doigts croisés se serrent doucement. Le drone basse fréquence augmente rapidement avec la poussée, restant discret, sans écraser les sons environnementaux.
+
+6–6,2 s : Freinage abrupt, arrêt soudain.
+La caméra freine abruptement en environ 0,2 seconde, s'arrêtant soudainement sur un gros plan facial, préservant entièrement le front et le menton avec un certain espace. La vitesse est encore évidente avant l'arrêt, le freinage est court et puissant, présentant l'impact d'un mouvement rapide coupé net. Pas d'anticipation, pas de collage au visage, pas de précipitation vers le visage. Après l'arrêt, la position de la caméra se stabilise immédiatement, sans glissement, rebond ou tremblement ; la respiration et les mouvements du personnage continuent naturellement, l'image ne doit pas geler.
+Au moment du freinage, la lumière ambiante cyan-gris-bleu environnante décroît rapidement, la lumière chaude ambrée sur son visage persiste, formant une convergence stylisée clair-obscur, les zones sombres révélant encore faiblement la structure du wagon. Modifiez uniquement les couches d'éclairage et de tonalité, en gardant la structure du wagon, les positions des objets et les matériaux continus et cohérents.
+
+Simultanément à l'arrêt de la caméra, la musique ambiante coupe proprement, sans effets sonores percutants ni queues de réverbération. Le grondement du métro continue, indiquant clairement que seul la caméra s'est arrêtée, le train roule toujours.
+6,2–6,7 s : Brève pause.
+Caméra complètement statique. Elle garde toujours la tête baissée, maintenant brièvement sa posture, avec seulement une respiration subtile. Seuls le grondement basse fréquence du métro et la respiration du personnage restent, la musique ne revient pas.
+6,7–9 s : Lever lentement la tête.
+Elle relève lentement la tête, son regard se déplace naturellement vers l'objectif, finissant par regarder directement la caméra. Les mouvements de la mâchoire, du cou et des épaules sont coordonnés, les actions sont retenues et cohérentes, les épaules et le cou portant toujours une tension. Son mouvement lent forme un contraste rythmique distinct avec la poussée rapide précédente.
+
+9–10 s : Regard.
+Maintenir le gros plan statique. Elle continue de regarder directement la caméra, avec seulement une respiration subtile, laissant une pause émotionnelle calme mais pressurisée. Ne pas ajouter de musique, d'effets sonores soudains ou d'autres actions.
+
+4K Ultra HD, 3840x2160, format paysage 16:9. Texture photographique cinématographique réaliste, préservant la texture naturelle de la peau, des cheveux et des détails du tissu, hautes lumières douces, ombres stratifiées. Autoriser un flou de mouvement naturel pendant la phase de poussée à grande vitesse, yeux et traits du visage nets après l'arrêt abrupt. L'identité du personnage, les proportions et la structure faciales restent toujours cohérentes, les expressions changent naturellement avec les actions, structures des mains correctes.
+Seule cette femme dans le cadre. Pas de doublons, fantômes, distorsions faciales, clipping, saccades, sur-affûtage, lissage de peau ou effet HDR. Pas de dialogue, sous-titres, filigranes ou logos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111107336794460160/img/8bg4v5s440luFfpg.jpg" width="600" alt="Prompt Cinématographique à Vitesse Variable et Push-in">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12635)**
+
+**Auteur:** [Eli Ha](https://x.com/FromSummerF) | **Source:** [Link](https://x.com/FromSummerF/status/2111107921316852127) | **Publié:** Oct 16, 2026
+
+---
+### Prompt vidéo produit en boucle fluide
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt détaillé pour générer une vidéo orbitale de 8 secondes en boucle fluide d'un produit, adaptée à Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Générez une vidéo orbitale de 8 secondes en boucle fluide basée sur l'image de référence du produit téléchargée. Le sujet est complètement figé ; le produit ne tourne pas. La caméra orbite à 360 degrés autour du sujet selon une trajectoire circulaire horizontale à vitesse, hauteur et distance constantes. De 0 à 2 s : face avant vers le côté droit. De 2 à 4 s : côté droit vers l'arrière. De 4 à 6 s : arrière vers le côté gauche. De 6 à 8 s : côté gauche retour vers la face avant. À la 8e seconde, revenez précisément à la position de caméra et à la composition initiales pour assurer une boucle fluide. Interdisez les mouvements de zoom (push/pull), tremblements, coupes franches, rotation du sujet ou déformation des parties. Maintenez l'éclairage, les matériaux, l'arrière-plan et les réflexions continus et cohérents. Pas de sous-titres, de texte, de filigranes ni de narration.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111022723648692224/img/jigbacq0gScBd5Nl.jpg" width="600" alt="Prompt vidéo produit en boucle fluide">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12634)**
+
+**Auteur:** [fdc888](https://x.com/laohong0606) | **Source:** [Link](https://x.com/laohong0606/status/2111023579156680963) | **Publié:** Oct 16, 2026
+
+---
 ### Vidéo cinématographique surréaliste de figures disparaissant dans des fenêtres bleues
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -415,6 +615,25 @@ Prompt de vidéo cinématographique ultra-réaliste de 30 secondes : Créez une 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12583)**
 
 **Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2110921969420177453) | **Publié:** Oct 16, 2026
+
+---
+### Prompt de combat en entrepôt industriel Seedance 2.5
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt détaillé pour générer une séquence de combat surréaliste dans un entrepôt industriel.
+
+#### 📝 Prompt
+
+```
+Créez une séquence de combat cinématographique surréaliste de 15 secondes à l'intérieur d'un entrepôt industriel faiblement éclairé la nuit, mettant en scène une confrontation intense entre deux combattants adultes qualifiés, combinant une action explosive en temps réel avec des moments d'impact dramatiques en ultra-ralenti. L'air est chargé de poussière, des débris de béton jonchent le sol, les lumières du plafond clignotent légèrement et une lumière froide filtre par les hautes fenêtres de l'entrepôt. [00:00-00:03] Approche : Commencez par un plan suivi à l'épaule, angle bas, alors que le Combattant A charge vers le Combattant B. Le Combattant B avance rapidement et porte un coup de poing droit. Le Combattant A esquive de justesse sur le côté, le poing passant à quelques centimètres de son visage, tandis que la caméra orbite rapidement autour des deux combattants. Gardez l'action rapide, réaliste et physiquement crédible. [00:03-00:06] Premier ralenti : Le Combattant A contre-attaque immédiatement avec un puissant coup de pied tournant. Alors que la jambe approche du Combattant B, passez en douceur à un ralenti extrême. Suivez le coup de pied sous un angle rapproché de profil, montrant les vêtements qui s'étirent sous la force de rotation, les cheveux flottant dans l'air et les particules de poussière tourbillonnant autour d'eux. Le Combattant B lève un bras pour bloquer. Le coup de pied heurte la défense, comprimant le tissu et repoussant naturellement le corps du défenseur hors centre due à l'impact. La poussière jaillit des manches, et la caméra tourne doucement autour de ce moment figé. [00:06-00:09] Combo : Repassez naturellement à la vitesse réelle. Le Combattant B trébuche d'un pas, retrouve son équilibre, se baisse sous une autre attaque, puis contre-attaque rapidement au niveau du torse. Le Combattant A bloque, saisit le bras attaquant, utilise l'élan de l'adversaire pour le faire pivoter et le rediriger vers un pilier de béton proche. La caméra suit de près, se déplaçant dynamiquement à hauteur d'épaule tout en maintenant une conscience spatiale claire et une chorégraphie lisible. [00:09-00:12] Deuxième ralenti : Le Combattant B prend appui sur le sol, inverse son élan et initie un coup de pied balayé inversé. Passez en ralenti pendant la rotation. La caméra descend au niveau du sol, frôlant juste au-dessus de la jambe alors qu'elle balaie la poussière flottante. Le Combattant A saute par-dessus le coup de pied, son corps suspendu brièvement au-dessus de la jambe rotative, avec des vêtements amples, des cheveux, de la poussière et de petits débris répondant naturellement au mouvement. La caméra passe sous le combattant aérien, puis la vitesse commence à revenir à la normale. [00:12-00:15] Échange final : Au moment où le Combattant A atterrit, revenez explosivement au temps réel, se retournant immédiatement pour porter un coup de contrôle final, que le Combattant B bloque avec les deux bras. Entrez brièvement en ralenti au moment du contact, soulignant la compression physique, la tension musculaire, la poussière volante et le transfert de puissance à travers les deux corps. Ils se séparent et glissent en arrière sur le sol poussiéreux, gardant le contact visuel, tandis que la caméra s'élargit. Utilisez de forts gradients de vélocité entre l'action en temps réel et les impacts en ultra-ralenti plutôt que de garder tout le combat lent. La chorégraphie doit rester continue, lisible, réaliste et physiquement cohérente. Maintenez des combattants, des vêtements, des blessures, un environnement, un éclairage, des positions et des directions de mouvement constants tout au long. Représentez de manière réaliste l'élan, l'équilibre, la position des pieds, les réactions défensives, la physique des tissus, la physique des cheveux, la compression d'impact, la poussière en suspension, le flou de mouvement naturel et la parallaxe cinématographique de l'objectif. Interdisez la téléportation, les rotations corporelles impossibles, les membres dupliqués, les doigts supplémentaires, l'anatomie désintégrée, les personnages flottants, le mouvement en apesanteur, la destruction excessive, le gore, le sang, les armes, les capacités de super-héros, les coupes inutiles, les sous-titres, le texte ou les logos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110910614545829888/img/T0-jMgo59G91jzE2.jpg" width="600" alt="Prompt de combat en entrepôt industriel Seedance 2.5">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12633)**
+
+**Auteur:** [hxhxhx0916](https://x.com/hxhxhx0916) | **Source:** [Link](https://x.com/hxhxhx0916/status/2110911411295748373) | **Publié:** Oct 16, 2026
 
 ---
 ### Prompt Vidéo : Saut à l'Hélicoptère sur Trampoline
@@ -5149,538 +5368,6 @@ Portrait cinématographique ultra-réaliste d'une belle jeune femme dans un rest
 **Auteur:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2105156206587519482) | **Publié:** Sep 30, 2026
 
 ---
-### Combat Xianxia : Géométrie de l'Arc et de l'Épée
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt vidéo d'action complexe pour Seedance 2.0 mettant en scène un combat tactique entre une épéiste et deux ennemis (un utilisateur de couteau au corps à corps et un archer à distance), axé sur la géométrie spatiale et le placement des flèches plutôt que sur des effets magiques génériques.
-
-#### 📝 Prompt
-
-```
-La flèche vole un pas, l'épée vole une ligne.
-Prompt :
-
-Texture cinématographique réaliste, esthétique pure du combat hardcore Xianxia chinois ancien.
-Sortez des simples duels d'armes. Focus principal : la relation géométrique des tirs croisés premier/arrière-plan.
-Premier plan : Le maître du couteau presse de près. Arrière-plan : L'archer contrôle les trajectoires futures de la Sœur Aînée.
-Le langage caméra intègre la conscience spatiale classique du wuxia sans copier de films spécifiques.
-La logique de l'archer repose sur les principes du « Classique du Tir » de la dynastie Song (stabilité, visée, tir complet, rythme).
-
-Références & Environnement :
-Utilisez @Image 1 et @Image 2 comme ancres d'identité.
-Recombinez les références d'arrière-plan en un ADN environnemental unifié (terrain, architecture, matériaux, météo, lumière, profondeur).
-Choisissez un axe de bataille adapté aux attaques en profondeur (cour, pont, chemin).
-L'arrière-plan doit rester vivant mais narrativement neutre (le vent, l'eau, la brume bougent indépendamment).
-Interdictions strictes : Pas de rupture soudaine du pont, pas de brouillard masquant, pas d'arbres bloquant automatiquement les flèches.
-
-Personnages :
-ID A (Sœur Aînée) : 25-30 ans, Hanfu en soie blanche, épée droite argentée.
-ID B (Sœur Cadette) : 20-25 ans, Hanfu en lin vert, épée en acier. Témoin passif.
-Maître : Témoin passif.
-Ennemis : 1 Maître du Couteau au premier plan (équipement sombre), 1 Archer à l'arrière-plan (position stable).
-
-Structure (15 s au total) :
-0-5 s : Plan large. L'archer tire sa première flèche NON sur le corps, mais sur le point de repli. Le maître du couteau charge. La Sœur esquive vers l'intérieur car le repli est bloqué. La flèche est visible dans le sol derrière elle.
-5-10 s : Plan moyen. Le couteau presse. L'archer charge calmement une deuxième flèche visant une position *future*. La Sœur simule un repli, s'arrête brusquement. La flèche traverse l'espace vide. La Sœur utilise son élan pour entraîner le Maître du Couteau dans la ligne de tir de l'Archer. L'Archer retient son feu en raison du risque de tirs amis.
-10-15 s : Gros plan. Le Maître du Couteau comprend la tactique, sort de la ligne et attaque à nouveau. L'Archer arme une troisième flèche. La Sœur entre dans la zone morte. Elle utilise le plat de l'épée pour dévier la direction du couteau, faisant pivoter les corps de 90 degrés. La flèche passe en sécurité derrière eux. Elle exploite la demi-seconde de distraction de l'ennemi, rengaine son épée près de sa mâchoire. Silence.
-Fin : Le Maître dit « La flèche vole un pas, l'épée vole une ligne. » Coupe au noir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105141798532419584/img/ad7FowT0tU3IT7ui.jpg" width="600" alt="Combat Xianxia : Géométrie de l'Arc et de l'Épée">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11629)**
-
-**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2105142686206644692) | **Publié:** Sep 30, 2026
-
----
-### Combat Xianxia : Lames à crochets et astuces de caméra
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt vidéo pour Seedance 2.0 dépeignant un duel contre un assassin aux doubles crochets, utilisant des angles de caméra, des occultations et des changements d'axe pour créer une tromperie visuelle et une clarté tactique dans une séquence de combat à grande vitesse.
-
-#### 📝 Prompt
-
-```
-Ce qui est verrouillé, c'est l'épée, pas son prochain mouvement.
-Prompt :
-
-Texture cinématographique réaliste, esthétique pure du combat hardcore Xianxia chinois ancien.
-Concept clé : La caméra participe à la tromperie du spectateur en utilisant des angles, des occultations et des changements d'axe pour révéler les basculements tactiques.
-Base du mouvement : Corps souple, pieds stables, avancées/retraits logiques, esquives diagonales, flux continu. Les « Doubles Crochets » ennemis sont une conception martiale cinématographique.
-
-Référence & Environnement :
-Utilisez @Image 1 et @Image 2 comme ancres d'identité.
-Recombinez les arrière-plans en une ADN environnemental unifié.
-L'arrière-plan reste vivant mais neutre (vent, eau, brume bougent indépendamment).
-Réactions locales uniquement lors des impacts (poussière, ondulations, débris).
-
-Personnages :
-ID A (Sœur aînée) : Hanfu en soie blanche, épée droite argentée.
-ID B (Sœur cadette) & Maître : Témoins passifs en arrière-plan.
-Ennemi : Assassin aux doubles crochets, équipement gris foncé/noir.
-
-Structure (15s au total) :
-0-5s : Plan large. Angle haut de 18mm descendant jusqu'à la hauteur des yeux. L'ennemi charge. Plan latéral bas de 24mm. Le crochet balaie l'objectif. La Sœur aînée esquive avec minimalisme. Plan par-dessus l'épaule de 40mm. Les crochets ennemis attrapent la lame de l'épée, tirent vers l'extérieur tout en attaquant depuis le côté opposé. La Sœur aînée replie son corps étroitement. Coupure par occultation via bras/manches. Angle inversé de 50mm révélant les crochets croisés, verrouillant l'épée. La force de traction déséquilibre la Sœur aînée.
-5-10s : Plan moyen. Suivi circulaire de 35mm. Séquence d'attaque continue (traction vers le haut, coup bas, mains inversées, impact de garde). La Sœur aînée esquive via des mouvements minimaux de taille/pas. Gros plan de 65mm sur les mains : Verrou mécanique formé. Vue de dessus de 18mm montrant la zone triangulaire piégée. La Sœur cadette avance, le Maître l'arrête. La caméra traverse l'axe de 180 degrés pour passer à un plan inversé de 28mm. L'ennemi tord ses crochets pour désarmer. La Sœur aînée accélère VERS la traction au lieu de résister.
-10-15s : Gros plan. Suivi à main levée de 35mm. La Sœur aînée utilise la traction du crochet comme point de pivot. L'ennemi comble l'écart avec son second crochet. Coupure par occultation via le crochet balayant l'objectif. Plan inversé de 28mm révélant que la Sœur aînée a changé de côté, s'échappant du verrou par rotation. Les crochets se bloquent mutuellement brièvement. Orbite serrée de 100 degrés. Pas/rotations réels uniquement. Final statique en gros plan extrême de 85mm. L'épée s'arrête à un doigt de la mâchoire de l'ennemi. Un crochet atteint l'épaule de la Sœur aînée avec un demi-seconde de retard. L'autre crochet est coincé sur la ligne médiane de l'ennemi. Le son se réduit à la respiration et à la résonance métallique. Le Maître dit : "Verrouillée est l'épée, pas son prochain mouvement." La Sœur cadette expire.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105113406848344064/img/Nd5CDUONXlqwsTam.jpg" width="600" alt="Combat Xianxia : Lames à crochets et astuces de caméra">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11630)**
-
-**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2105113994944209371) | **Publié:** Sep 30, 2026
-
----
-### Drame de Bureau Moderne : Demande de Congé
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt vidéo pour Seedance 2.0 créant une scène réaliste de bureau moderne sur la prise de congés, opposant la culpabilisation managériale à la responsabilité professionnelle, en mettant l'accent sur un jeu d'acteur naturel et les détails de l'environnement de travail.
-
-#### 📝 Prompt
-
-```
-La responsabilité signifie assurer une passation claire des tâches, et non se sentir redevable lorsque l'on prend du repos.
-Prompt :
-
-Texture cinématographique réaliste, drame professionnel chinois moderne.
-Accent mis sur une observation sociale précise mais retenue, des dialogues colloquiaux et un jeu d'acteur subtil et authentique.
-Look Arri Alexa, éclairage mixte bureau/lumière naturelle, grain filmique.
-Thème : contexte du mème « Prendre 3 jours de congé, se reposer 13 jours ». Explorer la culpabilité ressentie par les employés même lorsqu'ils exercent leurs droits légitimes. Contraste entre la pression toxique et la normalité professionnelle.
-
-Références & Environnement :
-Utiliser @Image 1 et @Image 2 comme ancres faciales. Ajuster les vêtements pour un bureau moderne.
-Recomposer les références d'arrière-plan en un espace crédible et contemporain (bureaux, écrans, ascenseur, reflets sur le verre).
-Environnement vivant mais neutre.
-
-Personnages :
-ID A (Chef de Projet) : 27-32 ans, chemise ivoire, pantalon gris, montre argentée. Calme, professionnel.
-ID B (Employé Junior) : 22-26 ans, pull tricoté vert, tenant un formulaire de congé. Anxieux, s'excusant.
-Manager : Semi-plaisantant, exerçant une pression.
-
-Structure (15s au total) :
-0-5s : Plan large avec zoom progressif. Le manager met la pression sur le junior concernant sa longue absence. Le junior perd confiance, commence à se justifier.
-5-10s : Plan moyen. Le junior tente de retirer sa demande. Le chef de projet intervient calmement, demande si la passation et les coordonnées sont bien faites. Signe le formulaire naturellement. Le rend. « Alors va te reposer. »
-10-15s : Gros plan. Le manager questionne l'approbation. Le chef de projet le regarde : « Sinon ? » Pause. Le junior craint de paraître irresponsable. Le chef de projet dit : « La responsabilité, c'est assurer une passation claire des tâches. Ce n'est pas se sentir redevable envers quelqu'un pour avoir pris un moment de repos. »
-Le junior se détend, range le formulaire dans sa poche. Le manager est déstabilisé. Les collègues en arrière-plan réagissent subtilement (l'un quitte le groupe de discussion professionnel, l'autre sourit).
-Fin : Pas d'applaudissements ni de musique victorieuse. Le junior marche vers l'ascenseur. Le chef de projet retourne au travail. La normalité est restaurée.
-
-Principes de Jeu :
-Junior : Préparé -> Confiance brisée -> Culpabilité -> Soulagement. Pas de colère ni de pleurs.
-Chef de Projet : Observateur -> Valide le processus -> Signe -> Attitude normale. Pas de ton autoritaire ou de posture de justicier.
-Manager : Pression habituelle -> Déstabilisé, sans excuses forcées.
-
-Exigences Strictes :
-15s, format 16:9, 3 plans continus.
-Synchronisation labiale native en mandarin, contact visuel précis.
-Stabilité des visages, cheveux, vêtements, accessoires et mise en scène.
-Physique naturel (papier, tissu, pas, ascenseur).
-Audio synchronisé : Dialogues, froissement du papier, friction, pas, sonnerie de l'ascenseur, bruit ambiant.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105106350984634368/img/XWb4EQ7ZcxGG07Qq.jpg" width="600" alt="Drame de Bureau Moderne : Demande de Congé">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11631)**
-
-**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2105106379610735081) | **Publié:** Sep 30, 2026
-
----
-### Prompt Vidéo Danse Gothique Sombre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt complet pour une vidéo de danse gothique sombre de 15 secondes, mettant en scène une femme d'origine est-asiatique dans un sanctuaire en ruine entouré de lys araignées. Il comprend des sections détaillées sur le sujet, la chorégraphie, la direction de caméra et l'environnement.
-
-#### 📝 Prompt
-
-```
-Sujet & Personnage : Une jeune femme mystérieuse et belle d'origine est-asiatique se tenant dans un ancien sanctuaire en ruine, entourée de lys araignées rouges à perte de vue sous un ciel d'orage sombre. Elle porte une robe noire élégante inspirée du style gothique traditionnel avec des accents rouges, de longues manches fluides et un tissu sombre qui bouge naturellement avec son corps. Son expression est froide, mélancolique et hypnotique — un mélange de tristesse, de solitude et de confiance silencieuse. Conservez l'apparence originale du personnage, son visage, sa coiffure, la conception de sa tenue et l'atmosphère cinématographique. ⸻ Action & Chorégraphie : Performance de danse cinématographique intense de 15 secondes. La femme exécute une fusion puissante de danse contemporaine sombre, de chorégraphie gothique et de mouvements aigus inspirés du hip-hop. Ses mouvements sont élégants mais explosifs : * coups d'épaules soudains * ondes bras tranchantes * isolations corporelles dramatiques * gestes rapides des mains comme une danse rituelle * rotations puissantes * mouvements fluides des manches * mouvements accroupis bas * arrêts brusques synchronisés au rythme Ses longues manches et ses cheveux suivent chaque mouvement avec une physique réaliste. La danse ressemble à celle d'un fantôme solitaire accomplissant un dernier rituel dans un monde oublié. Elle passe de l'immobilité à un mouvement explosif, exprimant le chagrin, la colère et l'acceptation. ⸻ Direction de Caméra : Vidéo cinématographique verticale 9:16 Utilisez un langage de caméra dynamique de style cinéma : 0-3 secondes * Commencez par un zoom lent cinématographique depuis un plan large. * La femme reste immobile au milieu du champ de lys araignées. * Le vent fait bouger ses cheveux et sa robe. * Des gouttes de pluie tombent. 3-6 secondes * Chute de rythme soudaine (beat drop). * La caméra tourne rapidement autour d'elle. * Elle commence des mouvements de danse aigus. * Coups d'épaules rapides et mouvements de bras. * Les lys araignées rouges tremblent violemment autour d'elle. 6-10 secondes * Caméra portée dynamique suivant ses mouvements. * Plans en contre-plongée montrant puissance et élégance. * Coupures cinématographiques rapides : * gros plan sur ses yeux * gros plan sur ses mains * tissu noir fluide * pas traversant le sol mouillé 10-13 secondes * Elle effectue une rotation puissante. * La caméra tourne avec elle. * Les cheveux et les manches créent un mouvement circulaire. * Le brouillard tourbillonne autour d'elle comme une force surnaturelle. 13-15 secondes * La musique ralentit soudainement. * Elle cesse de bouger. * La caméra s'éloigne considérablement. * Elle devient une silhouette solitaire entourée de fleurs rouges infinies. * Un seul pétale de lys araignée rouge tombe devant l'objectif. ⸻ Environnement : Sanctuaire japonais abandonné et sombre. Pluie battante, sol en pierre mouillé, brouillard dense. Lumière ambiante bleue froide mélangée à une lueur rouge profonde provenant des fleurs. Contraste élevé, atmosphère maussade.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105096762365284352/img/3rffyeewPKgBFD9g.jpg" width="600" alt="Prompt Vidéo Danse Gothique Sombre">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11626)**
-
-**Auteur:** [Zidan 子丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2105097476273545558) | **Publié:** Sep 30, 2026
-
----
-### Drame Xianxia : La Tasse Inutile
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt vidéo pour Seedance 2.0 générant une scène cinématographique de Xianxia où le hobby apparemment inutile d'une disciple junior (fabriquer une tasse déformée) est validé par sa sœur aînée, explorant les thèmes de la valeur intrinsèque contre l'utilité.
-
-#### 📝 Prompt
-
-```
-Texture réaliste cinématographique, esthétique pure du Xianxia chinois ancien.
-Principes fondamentaux :
-Aucun vocabulaire moderne.
-Éviter le cliché selon lequel « des hobbies apparemment inutiles cachent des compétences ultimes ».
-La tasse reste tout au long une simple tasse en argile légèrement déformée, portant des valeurs de caractère plutôt qu'une utilité scénaristique.
-Références & Environnement :
-Utiliser @Image 1 et @Image 2 strictement comme ancres d'identité pour les personnages.
-Recombinaison silencieuse des références d'arrière-plan téléchargées en un ADN environnemental unifié (architecture, terrain, matériaux, végétation, eau, brume, nuages, reflets, éclairage, profondeur).
-L'environnement doit rester vivant mais narrativement neutre.
-Personnages :
-ID A (Sœur Aînée) : Femme est-asiatique de 25 à 30 ans, Hanfu en soie blanche, épée argentée, demeanor calme.
-ID B (Sœur Junior) : Femme est-asiatique de 20 à 25 ans, Hanfu en lin vert, épée en acier, petite stature.
-Autres : Maître, pair compétitif, autres disciples.
-Structure (15 secondes au total) :
-0-5s : Plan large. Les disciples montrent leurs réalisations (manuels, noyaux). La junior montre une tasse en argile déformée. Le maître demande pourquoi elle l'a faite. Elle répond : « Je voulais apprendre. »
-5-10s : Plan moyen. Un pair se moque de son inutilité. La sœur aînée prend la tasse, verse du thé, reste silencieuse.
-10-15s : Gros plan. Le maître interroge la tolérance de la sœur aînée. Celle-ci admet que ce n'est pas un progrès, puis boit dans la tasse en disant : « C'est pourquoi c'est rare. » Elle dit à la junior : « Les gens ne sont pas des artefacts magiques. Tout n'a pas besoin d'être utile. »
-Contraintes strictes :
-Strictement 15 secondes, format horizontal 16:9.
-Trois plans continus clairs.
-Dialogue mandarin natif synchronisé avec un lip sync précis.
-Identités de personnages, costumes et accessoires stables.
-Physique naturelle pour la poterie, le thé, le tissu, les cheveux.
-Pas de sous-titres.
-Focus Seedance 2.0 Mini :
-Cohérence d'identité multi-référence, hiérarchie visuelle, actions dramatiques limitées, continuité caméra/lumière, stabilité des accessoires, synchronisation audio-visuelle précise (dialogue, sons des objets).
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105091998663467008/img/vF0AOG5mOeoelMRE.jpg" width="600" alt="Drame Xianxia : La Tasse Inutile">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11628)**
-
-**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2105092530689999020) | **Publié:** Sep 30, 2026
-
----
-### Prompt Vidéo Ancienne Chinoise Seedance
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt complet de génération vidéo pour Seedance 2.0 (déduit du contexte/filtre modèle), décrivant une vidéo verticale de 6 secondes mettant en scène une femme chinoise ancienne vêtue d'habits de la dynastie Tang, avec des mouvements de caméra détaillés et des transitions de scène.
-
-#### 📝 Prompt
-
-```
-Générer une vidéo portrait ultra-réaliste en prise de vue réelle, style ancien, de 6 secondes, format vertical 9:16, résolution 4K.
-
-Le sujet principal est une femme asiatique de l'Est clairement adulte, portant un costume ancien somptueux, clair et léger de style dynastie Tang, se tenant devant des arbres fleuris de nuit.
-
-Le personnage possède un visage ovale naturel et doux, une mâchoire petite et lisse, des traits exquis mais conservant des proportions réalistes, sans visage type influenceuse, sans structure osseuse occidentale.
-
-Les cheveux noirs, denses et longs sont coiffés en un chignon haut complexe de style Tang, volumineux et stratifié, orné sur le dessus et les côtés de :
-
-Épingles à cheveux florales rose pâle
-Ornements floraux bleu clair
-Feuilles vert émeraude
-Chaînes de perles
-Pompons de perles
-Épingles à cheveux métalliques
-Boucles d'oreilles pendantes longues
-
-De chaque côté, de longs cheveux noirs raides retombent naturellement jusqu'à la poitrine.
-
-Quelques mèches douces échappées sur le front.
-
-Maquillage exquis mais net :
-
-Ombre à paupières rose pêche
-Eyeliner noir naturel
-Cils distincts
-Sourcils naturels
-Blush rose pâle
-Lèvres corail rose humides
-Toucher subtil de Huadian (décoration frontale)
-
-La peau reste claire, nette et douce, mais pas plastique, conservant de légers pores, des variations fines de texture cutanée et une asymétrie faciale naturelle.
-
-⸻
-
-Costume
-
-Le personnage porte une robe multi-couches de style dynastie Tang très somptueuse, combinant cyan clair, vert menthe, rose pâle et blanc ivoire.
-
-La couche extérieure est un châle en gaze fine semi-transparente et des manches larges.
-
-Les manches sont amples et fluides.
-
-Les poignets, cols et revers présentent des détails délicats :
-
-Broderies florales
-Finitions en fil d'or
-Motifs végétaux rose-bleu clair
-
-La zone du buste présente une structure Ruqun Tang à taille haute.
-
-Grande surface de broderies florales exquises au niveau de la poitrine.
-
-La taille est ceinturée par une écharpe bleu-vert.
-
-Le corps de la jupe montre un superposition évidente de soie et de gaze.
-
-Les matériaux doivent afficher :
-
-Reflets réels de la soie
-Semi-transparence de la gaze légère
-Détails des fils de broderie
-Tomber naturel des manches
-
-Ne pas donner l'apparence d'un Hanfu bon marché de studio photo.
-
-⸻
-
-Scène
-
-L'arrière-plan est constitué d'arbres en fleurs dans un environnement nocturne ou sombre.
-
-Nombreuses fleurs blanc pâle, rose clair et violet clair réparties derrière le personnage.
-
-L'arrière-plan global est sombre.
-
-Les fleurs forment des accents clairs sous un éclairage doux.
-
-Hiérarchie claire entre le personnage et l'arrière-plan.
-
-Pas d'effets spéciaux Xianxia.
-
-Pas de particules massives.
-
-Pas de lune.
-
-Pas de grandes scènes de palais.
-
-Le focus est :
-
-Gros plan du personnage + arrière-plan sombre d'arbres fleuris.
-
-⸻
-
-0–1s | Regard frontal
-
-Le personnage initial fait face directement à la caméra.
-
-Corps légèrement de profil, mais visage presque directement face à la caméra.
-
-Yeux regardant directement l'objectif.
-
-Coins des lèvres avec un sourire très léger et doux.
-
-Main droite placée naturellement près de la poitrine.
-
-Main gauche cachée sous les manches larges ou sous le corps.
-
-L'ensemble de la personne reste calme et élégante.
-
-Caméra utilise un gros plan moyen au-dessus de la poitrine.
-
-⸻
-
-1–2s | Main vers le menton
-
-Le personnage lève lentement une main depuis la poitrine.
-
-Le poignet reste courbé doucement.
-
-Doigts naturellement étendus.
-
-Pas rigide.
-
-Dos de la main légèrement orienté vers la caméra.
-
-La main se déplace lentement de la poitrine, passant par la zone du cou, jusqu'à sous le menton.
-
-Forme une action classique élégante de dame posant sa main sous le menton.
-
-Les yeux du personnage regardent toujours l'objectif.
-
-Le sourire s'intensifie légèrement.
-
-⸻
-
-2–3.2s | La main continue vers le chignon
-
-La main ne reste pas trop longtemps au menton.
-
-Continue lentement à monter le long du côté du visage.
-
-Passant par :
-
-Joue
-Tempe
-Côté de l'oreille
-
-Enfin levée près du sommet du chignon.
-
-Index, majeur et annulaire s'approchent doucement des accessoires capillaires.
-
-Le mouvement est doux et retenu.
-
-Ne pas saisir les cheveux avec force.
-
-Plutôt comme soutenir légèrement une épingle à cheveux ou ajuster le chignon.
-
-Les manches larges tombent naturellement lorsque le bras monte.
-
-Les poignets en gaze fine forment de belles couches.
-
-⸻
-
-3.2–4.5s | Soutien des cheveux + Léger tournant
-
-Le personnage maintient une main soutenant légèrement le chignon.
-
-Simultanément, le corps et la tête commencent une rotation de faible amplitude.
-
-Approximativement :
-
-5–10 degrés.
-
-Le visage passe de plein frontal à un angle 3/4 léger.
-
-Les yeux regardent toujours l'objectif.
-
-Les coins des lèvres maintiennent un sourire doux.
-
-L'autre main est placée naturellement devant le corps.
-
-Les manches et le châle semblent onduler légèrement.
-
-Les pompons de perles sur l'épingle à cheveux produisent également un balancement naturel très faible.
-
-⸻
-
-4.5–6s | Fin souriante de profil
-
-Le personnage garde la main près du chignon.
-
-La tête s'incline légèrement plus.
-
-Forme un bel angle portrait 3/4 léger.
-
-Les yeux regardent toujours l'objectif.
-
-Expression légèrement plus douce qu'au début.
-
-Sourire naturel.
-
-Pas de grand rire montrant les dents.
-
-Les manches larges maintiennent leur tomber naturel.
-
-Boucles d'oreilles, perles et accessoires capillaires oscillent légèrement.
-
-Maintenir environ 0,5 seconde à la fin.
-
-⸻
-
-Caméra et Mouvement
-
-Utiliser :
-
-Objectif portrait équivalent 70–85mm
-
-Gros plan au-dessus de la poitrine.
-
-Hauteur de caméra légèrement inférieure ou au niveau des yeux du personnage.
-
-Le personnage est toujours centré dans le cadre.
-
-La vidéo maintient essentiellement une position de caméra fixe.
-
-Autoriser uniquement :
-
-très subtile avancée (push-in)
-
-Avancement faible d'environ 3%-5%.
-
-Existe également un léger :
-
-mouvement respiratoire cinématographique
-
-Pas de panoramique.
-
-Pas de zooms rapides.
-
-Pas d'orbite.
-
-Pas de grands déplacements latéraux.
-
-⸻
-
-Éclairage
-
-Adopter un shoot studio classique doux + arrière-plan d'arbres fleuris de nuit.
-
-Le visage du personnage utilise une lumière frontale-latérale douce.
-
-Visage globalement très lumineux.
-
-Reflets doux sur l'arête du nez, les pommettes et les lèvres.
-
-Les bords des cheveux peuvent avoir une légère lumière de contour (rim light).
-
-L'arrière-plan reste sombre.
-
-Les fleurs sont légèrement illuminées.
-
-Formant :
-
-Personnage lumineux + Arrière-plan sombre + Fleurs de couleur claire
-
-Contraste haut de gamme.
-
-Suggestion globale de couleurs :
-
-Cyan clair
-Vert menthe
-Rose pâle
-Blanc perle
-Arrière-plan noir profond
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104932077959614464/img/4HSmmF7aRhzTYV1E.jpg" width="600" alt="Prompt Vidéo Ancienne Chinoise Seedance">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11627)**
-
-**Auteur:** [梦老湿 Dream AI](https://x.com/jackzhang123vip) | **Source:** [Link](https://x.com/jackzhang123vip/status/2104932159769448543) | **Publié:** Sep 29, 2026
-
----
-### Prompt Vidéo Publicitaire pour Horlogerie de Luxe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour générer une publicité cinématographique ultra-réaliste d'horlogerie de luxe, mettant en vedette des gros plans sur les engrenages et l'assemblage.
-
-#### 📝 Prompt
-
-```
-Créez une publicité cinématographique ultra-réaliste pour l'horlogerie de luxe. Montrez un horloger qualifié dans un atelier sombre et haut de gamme assemblant avec soin une montre mécanique complexe en or. Commencez par des gros plans sur de minuscules engrenages, vis et mécanismes mobiles, puis montrez ses mains plaçant avec précision les composants délicats à l'aide d'outils professionnels. Révélez lentement la montre complète étant polie et placée à son poignet. Terminez par un plan macro extrême de la montre finie et de ses engrenages mécaniques en mouvement. Éclairage sombre et élégant, reflets métalliques réalistes, faible profondeur de champ, mouvements de caméra fluides, artisanat détaillé, esthétique publicitaire premium de luxe, animation 3D photoréaliste. Pas de texte, logos ou filigranes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104757790166355968/img/d0xOimgJzLaG9Hem.jpg" width="600" alt="Prompt Vidéo Publicitaire pour Horlogerie de Luxe">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11545)**
-
-**Auteur:** [Aynah](https://x.com/AynahhX) | **Source:** [Link](https://x.com/AynahhX/status/2104757960425795714) | **Publié:** Sep 29, 2026
-
----
-### Prompt de combat : Guerrier de l'Eau contre Guerrier du Feu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour une scène de bataille fantastique cinématographique de 15 secondes opposant un guerrier de l'eau à un guerrier du feu dans une cité antique en ruines.
-
-#### 📝 Prompt
-
-```
-Créez une scène de bataille fantastique cinématographique de 15 secondes se déroulant dans une cité antique en ruines au coucher du soleil, avec des ciels dorés dramatiques, des bâtiments en flammes, de la fumée et des structures en pierre détruites. Une puissante guerrière vêtue de bleu aux cheveux foncés affronte une féroce guerrière du feu aux cheveux rose pâle et dotées de petites cornes rouges. La guerrière bleue contrôle d'immenses vagues d'eau lumineuse tandis que la guerrière du feu crée des flammes orange intenses autour de ses mains et de son corps. Montrez-les se chargeant l'une vers l'autre avec des mouvements de combat rapides et dynamiques, des traînées d'énergie magique, des étincelles volantes, de la fumée et des débris. Construisez l'action depuis une confrontation en gros plan jusqu'à un plan large cinématographique où les deux pouvoirs élémentaires entrent en collision au centre du champ de bataille. Terminez par une énorme vague d'eau bleue s'écrasant contre une explosion de feu géante, créant de la vapeur, des particules lumineuses et une onde de choc énergétique spectaculaire. Utilisez un éclairage cinématographique réaliste, des personnages détaillés, des mouvements de caméra fluides, une atmosphère de fantasy épique, des effets visuels (VFX) de haute qualité, une profondeur de champ dramatique et une fin percutante dans le style d'une bande-annonce de film.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104754359011840000/img/2nMLHjTAV9rXdUwk.jpg" width="600" alt="Prompt de combat : Guerrier de l'Eau contre Guerrier du Feu">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11547)**
-
-**Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2104754431434887271) | **Publié:** Sep 29, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -5742,6 +5429,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-17T03:30:21.172Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-17T08:36:18.198Z</sub>
 
 </div>
