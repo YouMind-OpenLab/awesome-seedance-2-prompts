@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6555** |
+| 📝 Total Prompts | **6557** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-10-18** |
 
@@ -365,11 +365,61 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Tiny Runner Cinematic Adventure
+### Lion Attack at Zoo Cinematic Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a cinematic miniature adventure video featuring a tiny athletic woman navigating an oversized everyday world.
+> A prompt for generating a terrifying cinematic video of a woman being attacked by a lion at a zoo, featuring realistic physics and dramatic camera angles.
+
+#### 📝 Prompt
+
+```
+Create a 20-second cinematic, ultra-realistic AI video featuring a young Korean woman with long, dark, slightly wavy hair, wearing a white blouse and dark pants. Begin with a close-up of her sitting beside a window, looking thoughtfully at her smartphone in soft natural daylight. Transition to an outdoor zoo setting where she stands near a railing, casually using her phone while observing the surroundings. Show her approaching the lion enclosure and raising her smartphone to capture a photo of a majestic lion below. Suddenly, the lion charges toward her, creating a tense and unexpected moment. She drops her phone and struggles to escape as the lion lunges at her inside the enclosure. Capture her frightened expressions, realistic body movements, flying dust, and the lion's powerful motion. Use dynamic camera angles, smooth cinematic transitions, natural sunlight, realistic shadows, and detailed environmental textures. Maintain consistent facial features, hairstyle, clothing, and body proportions throughout the video, with dramatic pacing and photorealistic quality.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111646630105710593/img/tb_UxKERUj2WSE5S.jpg" width="600" alt="Lion Attack at Zoo Cinematic Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12677)**
+
+**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2111646777187450940) | **Published:** Oct 18, 2026
+
+---
+### Heart-Shaped Candy Floor Renovation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for generating a satisfying renovation sequence where heart-shaped candies are embedded in epoxy resin to create a terrazzo-style floor.
+
+#### 📝 Prompt
+
+```
+Vertical 9:16 video, photorealistic satisfying renovation process, smooth motion, bright natural daylight. Empty room with white walls, window on the left, bare concrete floor.
+
+Shot 1: A man in blue work overalls uses a long-handled shovel to spread a huge pile of small orange and green heart-shaped candies, levelling them into an even layer across the entire floor.
+
+Shot 2: A woman in red overalls pours thick glossy white self-leveling epoxy resin from a white bucket; the liquid flows and spreads over the candy layer, gradually covering the hearts.
+
+Shot 3: A worker in a yellow reflective vest grinds and polishes the hardened floor with a professional floor polishing machine, revealing orange and green hearts embedded under glossy white resin, like colorful terrazzo.
+
+Shot 4: Two workers assemble a wooden bed frame on the new floor, place a white mattress, pillows and bedding.
+
+Final shot: Slow camera tilt down over the finished bedroom, showing the unique glossy heart-pattern epoxy floor next to the neatly made bed.
+
+Realistic physics of pouring liquid and loose candy, consistent lighting, seamless cuts between shots, high detail, no text.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111457403719831552/img/uNO-3LOiA-tvoKwh.jpg" width="600" alt="Heart-Shaped Candy Floor Renovation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12676)**
+
+**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2111457454894526493) | **Published:** Oct 17, 2026
+
+---
+### Tiny Runner Miniature Adventure
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a macro-cinematic video featuring a tiny woman navigating oversized household objects like glass jars and washing machines, emphasizing scale contrast.
 
 #### 📝 Prompt
 
@@ -377,18 +427,18 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 Create an ultra-realistic cinematic miniature adventure featuring a tiny athletic woman navigating an enormous everyday world. She runs across a desk, climbs a giant glass jar, explores piles of colorful fabric, scales hanging clothes, and navigates oversized household appliances. Show her climbing a massive bottle cap, crawling beneath a washing machine, and crossing a miniature obstacle course. Emphasize the dramatic contrast between her tiny human scale and gigantic objects. Warm cinematic lighting, realistic textures, shallow depth of field, macro photography, smooth tracking shots, natural human movement, soft shadows, photorealistic details, creative storytelling, premium commercial aesthetic, vertical 9:16 format, 4K quality.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111311504519872513/img/XjUA1H4ax_wXi_Eq.jpg" width="600" alt="Tiny Runner Cinematic Adventure">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111311504519872513/img/XjUA1H4ax_wXi_Eq.jpg" width="600" alt="Tiny Runner Miniature Adventure">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12629)**
 
 **Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2111311551710007388) | **Published:** Oct 17, 2026
 
 ---
-### Cherry Blossom Schoolgirl Walk
+### Cherry Blossom Railway Walk
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for creating a 30-second cinematic video of a Japanese schoolgirl walking under cherry blossoms near railway tracks.
+> A prompt for a nostalgic, cinematic video of a Japanese schoolgirl walking past cherry blossoms near railway tracks, emphasizing soft lighting and film-like atmosphere.
 
 #### 📝 Prompt
 
@@ -396,7 +446,7 @@ Create an ultra-realistic cinematic miniature adventure featuring a tiny athleti
 Create a 30-second ultra-realistic cinematic video of a young Japanese schoolgirl walking along a railway crossing surrounded by breathtaking cherry blossom trees in full bloom. She wears a traditional navy-blue Japanese sailor-style school uniform with white stripes, a matching pleated skirt, black shoes, and a black shoulder bag, with a neat short black bob hairstyle and a black face mask. Begin with a wide cinematic shot from behind as she walks slowly beside the railway tracks, surrounded by delicate pale-pink and white blossoms. The camera gently follows her from behind, capturing the natural movement of her hair, school uniform, and bag as a soft breeze moves through the trees. Transition into beautiful close-up shots of her shoulders, hairstyle, and uniform while she quietly admires the cherry blossoms above her. Capture the intricate petals, delicate branches, and soft natural daylight with shallow depth of field and realistic cinematic color grading. Slowly tilt the camera upward to reveal a dreamy canopy of cherry blossoms stretching across the sky. Finish with an elevated wide aerial-style shot showing the girl walking near the railway crossing, framed by the tracks and endless blooming trees. Maintain consistent character appearance, realistic anatomy, smooth camera movements, natural lighting, and a peaceful nostalgic Japanese film atmosphere throughout the entire 30-second video, with no text, logos, or watermarks.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111294112578273280/img/lARGZKv52YTw6qaB.jpg" width="600" alt="Cherry Blossom Schoolgirl Walk">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111294112578273280/img/lARGZKv52YTw6qaB.jpg" width="600" alt="Cherry Blossom Railway Walk">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12630)**
 
@@ -5574,315 +5624,6 @@ Create a 30-second cinematic, ultra-realistic wuxia-style video set at night in 
 **Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2105162931847807476) | **Published:** Sep 30, 2026
 
 ---
-### Seedance 2.0 Mini Prompt for Xianxia Comedy Duel
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A prompt for Seedance 2.0 Mini to generate a comedic xianxia duel video involving a hired record keeper, focusing on timing, character consistency, and absurd dialogue.
-
-#### 📝 Prompt
-
-```
-Why are you so busy every day, if you want to fight then fight
-prompt:
-
-Cinematic realistic texture, pure ancient Chinese Xianxia aesthetics.
-
-Collide a truly solemn expert challenge with a meta-comedy of "pre-packaging Jianghu reputation."
-Absorb:
-Silent film style reaction rhythm
-
-British deadpan logic
-Hong Kong comedy quick setup and payoff
-Classic "three-beat progression" structure
-Adopt:
-
-Arri Alexa cinema camera texture
-
-Stable clear facial micro-details
-Fine film grain
-Natural volumetric light
-Core Comedy Line
-
-Keep only one comedy line immediately understandable on first viewing:
-
-An extremely confident enemy swordsman brings a Jianghu record keeper specifically to "objectively record" his upcoming legendary victory; result, before the real duel starts, the two women in image 1 and image 2 discover—the enemy has already paid in advance to decide how the ending will be written.
-
-Character Function Principles
-
-Record keeper always only plays a deadpan auxiliary role
-
-Elderly master only responsible for final kill-shot
-References and Environment
-Strictly use @image 1 and @image 2 as character identity anchors.
-
-All newly uploaded background and location reference images determine the same environmental DNA.
-Before formal composition, silently integrate mutually compatible:
-
-Real terrain
-
-Architectural language
-
-Material age
-Vegetation
-
-Water bodies
-Weather
-Mountain mist
-Main light direction
-Reflection relationships
-Atmospheric depth
-Real walkable routes for characters
-Re-plan into a unique, completely unified new space for this round.
-Background Principles
-The following elements in background remain continuously naturally vivid, but absolutely neutral narratively:
-Natural wind
-
-Water bodies
-
-Vegetation
-Cloud layers
-
-Distant ordinary disciples
-Spatial ambient sound
-Character Settings
-Character ID A | Sword Immortal Senior Sister
-Always the same @image 1 Sword Immortal Senior Sister:
-25–30 year old East Asian female
-
-Tall slender figure
-
-Oval face
-
-Dark almond eyes
-Black hair half-tied, fixed with white jade hairpin
-
-Always wear same set of white embroidered silk Hanfu
-Silver waist seal
-Jade pendant
-White cloth boots
-Hold the only silver long sword
-Character ID B | Junior Sister
-Always the same @image 2 Junior Sister:
-20–25 year old East Asian female
-Small stature
-Round lively face
-
-Black hair braided
-Always wear same set of green linen Hanfu
-
-Dark belt
-Wooden hairpin
-Black cloth shoes
-Hold the only dark steel sword
-Other Characters
-Enemy Swordsman
-Full of momentum
-Extremely confident
-Very concerned about his Jianghu reputation
-
-Jianghu Record Keeper
-
-Only one middle-aged record keeper
-Hand holds only brush and a plain paper scroll with no readable text
-Always deadpan, professional, seriously executing his "recording work"
-Elderly Master
-
-Always steady
-Only completes one deadpan kill-shot at the end
-Segment Structure
-0–5s | Wide or Long Shot
-
-A momentum-filled enemy swordsman enters the open area naturally formed by this round's reference images, followed by the only middle-aged Jianghu record keeper.
-Record keeper holds only brush and a plain paper scroll with no readable text.
-Enemy draws sword, very solemnly announces:
-
-"Today I invite the gentleman to witness, lest someone loses and denies it."
-
-The same Junior Sister glances at the record keeper beside them, calmly evaluating:
-
-"Quite formal."
-
-The same white-robed sword immortal remains calm throughout.
-
-5–10s | Medium or Cowboy Shot
-
-Maintain:
-
-Same characters
-
-Same clothing
-
-Same long sword
-
-Same record keeper
-
-Same paper scroll
-
-Completely consistent geographic space
-
-Real duel hasn't started, record keeper suddenly professionally slightly approaches enemy, whispering confirmation:
-
-"Young master, still record as 'win in ten moves'?"
-Whole venue absolute silence half-beat.
-Enemy's body freezes on spot, immediately lowers voice annoyed questioning:
-"Didn't we say write after fighting?"
-Record keeper deadpan answers:
-"Deposit paid for this ending."
-
-The same Junior Sister very slowly shifts gaze from record keeper to enemy's face, incredulously asking:
-
-"Ending already bought?"
-
-The same Sword Immortal Senior Sister says nothing, only extremely slightly raises one eyebrow, producing real interest for first time.
-
-Entire background runs naturally from start to finish, but completely doesn't participate in punchline.
-
-10–15s | Close-up or Extreme Close-up
-
-The same white-robed sword immortal very seriously asks record keeper:
-
-"What if he loses?"
-
-The same record keeper answers with almost zero pause:
-
-"Add silver, can change to 'glorious defeat'."
-
-Enemy instantly furious:
-
-"I won't lose!"
-
-Lens focus shifts to the same elderly master naturally existing several steps behind both.
-
-Master maintains absolute deadpan throughout, only lightly saying:
-
-"Then record a line for him first: Before fighting, revise draft."
-
-The same record keeper professionally nods once, immediately raising brush preparing to continue recording.
-
-Enemy truly panics this time, shouting:
-
-"Don't record this line!"
-
-Record keeper pauses half-beat, looking at him seriously evaluating:
-
-"This line is also good."
-
-Extreme close-up:
-
-The same Junior Sister quickly turns face away, shoulders showing extremely slight trembling, desperately suppressing laughter
-
-The same Sword Immortal Senior Sister still maintains truly expert solemn expression, very politely gesturing to enemy to continue sparring:
-
-"Can we fight now?"
-
-Enemy first looks at record keeper, then at sword in his hand, finally at master behind, suddenly realizing what is truly precarious now is not his body, but his painstakingly managed Jianghu reputation.
-
-Precisely cut to black before he answers.
-
-Comedy Rhythm Principles
-
-Whole segment must fit clear "three-beat progression":
-
-First Beat
-
-Enemy solemnly brings record keeper on stage, like witnessing a legendary victory.
-Second Beat
-
-Record keeper professionally exposes: Win/loss copy already pre-paid decided.
-
-Third Beat
-
-Master deadpan kill-shot, record keeper prepares to truthfully record, enemy finally discovers real danger is his reputation.
-
-Performance Principles
-
-Enemy Swordsman
-
-Not clown performance
-
-Not intentionally funny
-Must seriously maintain his pomp and dignity
-
-Comedy sense can only come from him trying harder to keep reputation, more exposing pre-packaged result
-Record Keeper
-
-Must be extremely professional
-Deadpan
-
-Logic clear
-
-Completely doesn't think himself absurd
-
-His comedy sense comes from "excessive seriousness"
-Sword Immortal Senior Sister
-Calm throughout
-No mocking
-No stealing lines
-
-Only shows real interest in second half due to absurdity of situation
-Junior Sister
-Reactions must be natural
-No exaggerated laughing
-Focus on "suppressing laughter"
-Elderly Master
-
-Must be absolutely calm
-That line "Before fighting, revise draft" should sound like stating fact, not intentionally telling joke
-Hard Requirements
-Strict total duration 15 seconds
-16:9 Landscape
-
-Three consecutive clear shots
-Native synchronized Mandarin dialogue
-Precise lip-sync
-Clear comedy pauses
-
-For Seedance 2.0 Mini strengthen multi-reference character identity continuity
-Character faces stable throughout
-Hairstyles stable throughout
-
-Clothing stable throughout
-
-Long sword stable throughout
-
-Record keeper props stable throughout
-Supporting character positions stable throughout
-Geographic space stable throughout
-Character movements simple and clear
-Silk fabric and hair physics realistic
-Foreground, midground, background maintain natural parallax and real spatial ambient sound
-No subtitles generated
-Negative
-blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105154749909901312/img/FHAnOk0OWpttMNFb.jpg" width="600" alt="Seedance 2.0 Mini Prompt for Xianxia Comedy Duel">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11632)**
-
-**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2105156705260868087) | **Published:** Sep 30, 2026
-
----
-### Elegant Woman in Upscale Restaurant Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Seedance 2.0 creating an ultra-realistic cinematic portrait sequence of a woman walking through a dimly lit restaurant, emphasizing lighting, camera angles, and photorealistic details.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic portrait of a beautiful young woman in an elegant upscale restaurant at night, wearing a sophisticated black outfit, holding a clear wine glass while gracefully walking through a warm, dimly lit interior. Later, close-up portrait with her looking softly to the side, natural expressive eyes, subtle makeup, smooth realistic skin texture, dark brown hair loosely styled with delicate strands framing her face, intimate and mysterious mood, warm amber practical lights, creamy bokeh in the background, shallow depth of field, cinematic low-key lighting, realistic shadows, luxury editorial photography, 85mm lens, f/1.4, HDR, highly detailed, photorealistic, 8K, vertical 9:16 composition.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105156099121049600/img/D7EzuGekj4c_ZCEW.jpg" width="600" alt="Elegant Woman in Upscale Restaurant Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11625)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2105156206587519482) | **Published:** Sep 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -5944,6 +5685,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-18T03:32:22.298Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-18T08:57:51.248Z</sub>
 
 </div>

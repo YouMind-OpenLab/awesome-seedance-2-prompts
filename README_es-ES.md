@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6555** |
+| 📝 Total de prompts | **6557** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-10-18** |
 
@@ -361,6 +361,56 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Video Cinematográfico del Ataque de un León en el Zoológico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para generar un video cinematográfico aterrador de una mujer atacada por un león en un zoológico, con física realista y ángulos de cámara dramáticos.
+
+#### 📝 Prompt
+
+```
+Crea un video de IA cinematográfico y ultra realista de 20 segundos que muestre a una joven coreana con cabello largo, oscuro y ligeramente ondulado, vistiendo una blusa blanca y pantalones oscuros. Comienza con un primer plano de ella sentada junto a una ventana, mirando su teléfono inteligente pensativamente bajo la suave luz natural del día. Transiciona a un entorno exterior de zoológico donde está de pie cerca de una barandilla, usando casualmente su teléfono mientras observa los alrededores. Muestra cómo se acerca al recinto del león y levanta su teléfono inteligente para tomar una foto de un majestuoso león abajo. De repente, el león carga hacia ella, creando un momento tenso e inesperado. Ella deja caer su teléfono y lucha por escapar mientras el león se abalanza sobre ella dentro del recinto. Captura sus expresiones de miedo, movimientos corporales realistas, polvo volando y el movimiento poderoso del león. Usa ángulos de cámara dinámicos, transiciones cinematográficas fluidas, luz solar natural, sombras realistas y texturas ambientales detalladas. Mantén rasgos faciales consistentes, peinado, ropa y proporciones corporales a lo largo del video, con un ritmo dramático y calidad fotorrealista.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111646630105710593/img/tb_UxKERUj2WSE5S.jpg" width="600" alt="Video Cinematográfico del Ataque de un León en el Zoológico">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12677)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fuente:** [Link](https://x.com/Aiwithmaha/status/2111646777187450940) | **Publicado:** Oct 18, 2026
+
+---
+### Renovación de suelo con dulces en forma de corazón
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de video para generar una secuencia de renovación satisfactoria donde se incrustan dulces en forma de corazón en resina epoxi para crear un suelo estilo terrazo.
+
+#### 📝 Prompt
+
+```
+Video vertical 9:16, proceso de renovación satisfactorio fotorrealista, movimiento fluido, luz natural brillante. Habitación vacía con paredes blancas, ventana a la izquierda y suelo de hormigón desnudo.
+
+Plano 1: Un hombre con monos de trabajo azules usa una pala de mango largo para esparcir un gran montón de pequeños dulces en forma de corazón de color naranja y verde, nivelándolos en una capa uniforme sobre todo el suelo.
+
+Plano 2: Una mujer con monos rojos vierte resina epoxi blanca autonivelante espesa y brillante desde un cubo blanco; el líquido fluye y se extiende sobre la capa de dulces, cubriendo gradualmente los corazones.
+
+Plano 3: Un trabajador con chaleco reflectante amarillo pule y abrillanta el suelo endurecido con una máquina profesional de pulido de suelos, revelando corazones naranjas y verdes incrustados bajo la resina blanca brillante, como un terrazo colorido.
+
+Plano 4: Dos trabajadores ensamblan una estructura de cama de madera sobre el nuevo suelo, colocando un colchón blanco, almohadas y ropa de cama.
+
+Plano final: La cámara se inclina lentamente hacia abajo sobre el dormitorio terminado, mostrando el único suelo de resina epoxi brillante con patrón de corazones junto a la cama perfectamente hecha.
+
+Física realista del vertido de líquidos y dulces sueltos, iluminación consistente, cortes sin costuras entre planos, alto detalle, sin texto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111457403719831552/img/uNO-3LOiA-tvoKwh.jpg" width="600" alt="Renovación de suelo con dulces en forma de corazón">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12676)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2111457454894526493) | **Publicado:** Oct 17, 2026
+
+---
 ### Aventura Cinematográfica de la Pequeña Corredora
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5547,81 +5597,6 @@ Crea un video cinematográfico ultra realista de estilo wuxia de 30 segundos, am
 **Autor:** [Maha](https://x.com/Aiwithmaha) | **Fuente:** [Link](https://x.com/Aiwithmaha/status/2105162931847807476) | **Publicado:** Sep 30, 2026
 
 ---
-### Comedia Xianxia: Victoria Preescrita
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt de video humorístico para Seedance 2.0 que presenta un duelo Xianxia donde un espadachín arrogante contrata a un escriba para preescribir su victoria, lo que lleva a la exposición cómica de su inseguridad antes de que comience la pelea.
-
-#### 📝 Prompt
-
-```
-¿Por tanto alboroto? Si quieres pelear, solo pelea.
-Prompt:
-
-Textura cinematográfica realista, estética pura de Xianxia chino antiguo.
-Contraste entre el desafío solemne y la meta-comedia de 'empaquetar reputación por adelantado'.
-Incorpora tiempos de reacción del cine mudo, lógica deadpan británica, estructura de planteamiento/remate de la comedia de Hong Kong, ritmo de tres tiempos.
-Aspecto Arri Alexa, microexpresiones estables, grano de película, luz volumétrica.
-
-Trama Central:
-Un espadachín enemigo arrogante trae a un escriba para 'registrar objetivamente' su victoria legendaria. Antes de que comience el duelo, las heroínas descubren que ya pagó por el final.
-
-Referencia y Entorno:
-Usa @Image 1 y @Image 2 como anclas de identidad.
-Recombina los fondos en un ADN ambiental unificado.
-Los elementos del fondo (viento, agua, etc.) permanecen vivos pero narrativamente neutrales.
-
-Personajes:
-ID A (Hermana Mayor): Hanfu de seda blanca, espada plateada. Calma.
-ID B (Hermana Menor): Hanfu de lino verde, espada de acero. Pequeña, vivaz.
-Espadachín Enemigo: Muy seguro de sí mismo, le importa la reputación.
-Escriba: De mediana edad, serio, profesional, sostiene pincel y pergamino en blanco.
-Maestro: Estable, entrega el remate final.
-
-Estructura (15s total):
-0-5s: Plano general. El enemigo entra con el Escriba. Anuncia la necesidad de un testigo. La Hermana Menor comenta 'Formal'. La Hermana Mayor está tranquila.
-5-10s: Plano medio. El duelo no ha comenzado. El Escriba susurra al Enemigo: '¿Sigo registrando como "Victoria en 10 movimientos"?'
-Silencio. El Enemigo se congela, susurra enfurecido: '¿No dijimos escribir DESPUÉS de pelear?'
-Escriba: 'El depósito era para este final.'
-La Hermana Menor mira fijamente al Enemigo: '¿Compraste el final?'
-La Hermana Mayor levanta una ceja, interesada.
-10-15s: Primer plano. La Hermana Mayor pregunta al Escriba: '¿Y si pierde?'
-Escriba: 'Plata extra cambia el registro a "Derrota Honorable".'
-Enemigo furioso: '¡Yo no perderé!'
-El foco se desplaza al Maestro. Él dice: 'Registra esto: Borrador cambiado antes de la pelea.'
-El Escriba asiente, levanta el pincel. El Enemigo entra en pánico: '¡No registres eso!'
-El Escriba evalúa: 'Esa frase también es buena.'
-Primerísimo primer plano: La Hermana Menor contiene la risa. La Hermana Mayor hace un gesto educado: '¿Podemos pelear ya?'
-El Enemigo se da cuenta de que su reputación es el verdadero peligro. Corte a negro antes de la respuesta.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105154749909901312/img/FHAnOk0OWpttMNFb.jpg" width="600" alt="Comedia Xianxia: Victoria Preescrita">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11632)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2105156705260868087) | **Publicado:** Sep 30, 2026
-
----
-### Video de Retrato Cinematográfico en Restaurante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para un video de retrato cinematográfico ultra realista de una mujer en un restaurante exclusivo por la noche. Detalla su atuendo, acciones, iluminación, configuración de cámara y atmósfera, ideal para contenido vertical de formato corto.
-
-#### 📝 Prompt
-
-```
-Retrato cinematográfico ultra realista de una joven hermosa en un elegante restaurante exclusivo por la noche, vistiendo un sofisticado conjunto negro, sosteniendo una copa de vino transparente mientras camina con gracia a través de un interior cálido y tenuemente iluminado. Posteriormente, retrato en primer plano mirando suavemente hacia un lado, ojos expresivos naturales, maquillaje sutil, textura de piel lisa y realista, cabello castaño oscuro peinado de forma relajada con mechones delicados enmarcando su rostro, atmósfera íntima y misteriosa, luces prácticas ámbar cálidas, bokeh cremoso en el fondo, profundidad de campo reducida, iluminación cinematográfica de clave baja, sombras realistas, fotografía editorial de lujo, lente de 85mm, f/1.4, HDR, altamente detallado, fotorrealista, 8K, composición vertical 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105156099121049600/img/D7EzuGekj4c_ZCEW.jpg" width="600" alt="Video de Retrato Cinematográfico en Restaurante">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11625)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2105156206587519482) | **Publicado:** Sep 30, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -5683,6 +5658,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-18T03:32:35.591Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-18T08:57:58.602Z</sub>
 
 </div>

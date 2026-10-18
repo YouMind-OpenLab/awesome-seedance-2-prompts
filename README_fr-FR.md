@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6555** |
+| 📝 Total des prompts | **6557** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-10-18** |
 
@@ -361,6 +361,56 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Vidéo cinématique de l'attaque d'un lion au zoo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt pour générer une vidéo cinématique terrifiante d'une femme attaquée par un lion dans un zoo, avec une physique réaliste et des angles de caméra dramatiques.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo IA cinématique ultra-réaliste de 20 secondes mettant en scène une jeune femme coréenne aux longs cheveux foncés légèrement ondulés, portant un chemisier blanc et un pantalon sombre. Commencez par un gros plan sur elle assise près d'une fenêtre, regardant son smartphone avec réflexion sous une douce lumière naturelle du jour. Transitionnez vers un décor extérieur de zoo où elle se tient près d'une balustrade, utilisant son téléphone tout en observant les environs. Montrez-la s'approchant de l'enclos des lions et levant son smartphone pour photographier un lion majestueux en contrebas. Soudain, le lion charge vers elle, créant un moment tendu et inattendu. Elle laisse tomber son téléphone et lutte pour s'échapper alors que le lion fond sur elle à l'intérieur de l'enclos. Capturez ses expressions effrayées, ses mouvements corporels réalistes, la poussière soulevée et la puissance du mouvement du lion. Utilisez des angles de caméra dynamiques, des transitions cinématiques fluides, une lumière solaire naturelle, des ombres réalistes et des textures environnementales détaillées. Maintenez une cohérence des traits du visage, de la coiffure, des vêtements et des proportions corporelles tout au long de la vidéo, avec un rythme dramatique et une qualité photoréaliste.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111646630105710593/img/tb_UxKERUj2WSE5S.jpg" width="600" alt="Vidéo cinématique de l'attaque d'un lion au zoo">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12677)**
+
+**Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2111646777187450940) | **Publié:** Oct 18, 2026
+
+---
+### Rénovation de sol en bonbons en forme de cœur
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt vidéo pour générer une séquence de rénovation satisfaisante où des bonbons en forme de cœur sont intégrés dans de la résine époxy pour créer un sol de style terrazzo.
+
+#### 📝 Prompt
+
+```
+Vidéo verticale 9:16, processus de rénovation satisfaisant photoréaliste, mouvement fluide, lumière naturelle vive. Pièce vide avec murs blancs, fenêtre à gauche, sol en béton brut.
+
+Plan 1 : Un homme portant une salopette bleue utilise une longue pelle pour étaler un grand tas de petits bonbons orange et verts en forme de cœur, les nivelant en une couche uniforme sur l'ensemble du sol.
+
+Plan 2 : Une femme portant une salopette rouge verse une résine époxy blanche auto-nivelante épaisse et brillante depuis un seau blanc ; le liquide coule et s'étale sur la couche de bonbons, recouvrant progressivement les cœurs.
+
+Plan 3 : Un ouvrier portant un gilet jaune réfléchissant ponce et polit le sol durci avec une machine professionnelle de polissage de sol, révélant des cœurs orange et verts intégrés sous une résine blanche brillante, comme un terrazzo coloré.
+
+Plan 4 : Deux ouvriers assemblent un cadre de lit en bois sur le nouveau sol, placent un matelas blanc, des oreillers et de la literie.
+
+Plan final : La caméra incline lentement vers le bas sur la chambre terminée, montrant le sol unique en résine avec motif de cœurs brillants à côté du lit soigneusement fait.
+
+Physique réaliste du liquide versé et des bonbons en vrac, éclairage cohérent, coupures fluides entre les plans, haut niveau de détail, sans texte.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111457403719831552/img/uNO-3LOiA-tvoKwh.jpg" width="600" alt="Rénovation de sol en bonbons en forme de cœur">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12676)**
+
+**Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2111457454894526493) | **Publié:** Oct 17, 2026
+
+---
 ### Aventure cinématographique de la petite coureuse
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5293,81 +5343,6 @@ Créez une vidéo cinématographique ultra-réaliste de style wuxia de 30 second
 **Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2105162931847807476) | **Publié:** Sep 30, 2026
 
 ---
-### Comédie Xianxia : La Victoire Préécrite
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt vidéo humoristique pour Seedance 2.0 mettant en scène un duel de Xianxia où un épéiste arrogant engage un scribe pour pré-écrire sa victoire, révélant comiquement son insécurité avant même le début du combat.
-
-#### 📝 Prompt
-
-```
-Pourquoi tant de bruit ? Si vous voulez vous battre, battez-vous.
-Prompt :
-
-Texture cinématographique réaliste, esthétique pure du Xianxia chinois ancien.
-Contraste entre la solennité du défi et la méta-comédie de la « pré-packaging de la réputation ».
-Incorporer le timing des réactions du cinéma muet, l'humour sec britannique, la structure setup/payoff de la comédie hongkongaise, et une structure en trois temps.
-Look Arri Alexa, micro-expressions stables, grain de film, lumière volumétrique.
-
-Trame centrale :
-Un épéiste ennemi arrogant amène un scribe pour « enregistrer objectivement » sa victoire légendaire. Avant le début du duel, les héroïnes découvrent qu'il a déjà payé pour la fin.
-
-Références & Environnement :
-Utiliser @Image 1 et @Image 2 comme ancres d'identité.
-Recomposer les arrière-plans en une ADN environnemental unifié.
-Les éléments d'arrière-plan (vent, eau, etc.) restent vivants mais narrativement neutres.
-
-Personnages :
-ID A (Aînée) : Hanfu en soie blanche, épée argentée. Calme.
-ID B (Cadette) : Hanfu en lin vert, épée en acier. Petite, vive.
-Épéiste Ennemi : Très confiant, soucieux de sa réputation.
-Scribe : D'âge moyen, sérieux, professionnel, tenant un pinceau et un rouleau vierge.
-Maître : Stable, délivre la punchline finale.
-
-Structure (15s au total) :
-0-5s : Plan large. L'Ennemi entre avec le Scribe. Annonce le besoin d'un témoin. La Cadette commente « Formel ». L'Aînée reste calme.
-5-10s : Plan moyen. Le duel n'a pas encore commencé. Le Scribe chuchote à l'Ennemi : « Toujours enregistré comme "Victoire en 10 coups" ? »
-Silence. L'Ennemi se fige, chuchote furieusement : « N'avions-nous pas dit écrire APRÈS le combat ? »
-Scribe : « L'acompte était pour cette fin. »
-La Cadette fixe l'Ennemi : « Vous avez acheté la fin ? »
-L'Aînée hausse un sourcil, intéressée.
-10-15s : Gros plan. L'Aînée demande au Scribe : « Et s'il perd ? »
-Scribe : « Un supplément d'argent change cela en "Défaite Honorable". »
-Ennemi furieux : « Je ne perdrai pas ! »
-Le focus se déplace sur le Maître. Il dit : « Notez ceci : Le brouillon a été modifié avant le combat. »
-Le Scribe hoche la tête, soulève son pinceau. L'Ennemi panique : « Ne notez pas ça ! »
-Le Scribe évalue : « Cette phrase est bonne aussi. »
-Très gros plan : La Cadette retient son rire. L'Aînée fait un geste poli : « Peut-on se battre maintenant ? »
-L'Ennemi réalise que sa réputation est le vrai danger. Coupure au noir avant la réponse.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105154749909901312/img/FHAnOk0OWpttMNFb.jpg" width="600" alt="Comédie Xianxia : La Victoire Préécrite">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11632)**
-
-**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2105156705260868087) | **Publié:** Sep 30, 2026
-
----
-### Portrait vidéo cinématographique de restaurant
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour une vidéo portrait cinématographique ultra-réaliste d'une femme dans un restaurant haut de gamme la nuit. Il détaille sa tenue, ses actions, l'éclairage, les réglages de caméra et l'ambiance, adapté au contenu vertical court.
-
-#### 📝 Prompt
-
-```
-Portrait cinématographique ultra-réaliste d'une belle jeune femme dans un restaurant élégant et haut de gamme la nuit, portant une tenue noire sophistiquée, tenant un verre de vin transparent tout en marchant gracieusement à travers un intérieur chaleureux et faiblement éclairé. Ensuite, portrait en gros plan avec elle regardant doucement sur le côté, yeux expressifs naturels, maquillage subtil, texture de peau réaliste et lisse, cheveux brun foncé coiffés lâchement avec des mèches délicates encadrant son visage, ambiance intime et mystérieuse, lumières pratiques ambre chaudes, bokeh crémeux en arrière-plan, faible profondeur de champ, éclairage cinématographique low-key, ombres réalistes, photographie éditoriale de luxe, objectif 85 mm, f/1.4, HDR, très détaillé, photoréaliste, 8K, composition verticale 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105156099121049600/img/D7EzuGekj4c_ZCEW.jpg" width="600" alt="Portrait vidéo cinématographique de restaurant">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11625)**
-
-**Auteur:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2105156206587519482) | **Publié:** Sep 30, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -5429,6 +5404,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-18T03:32:40.377Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-18T08:58:02.850Z</sub>
 
 </div>

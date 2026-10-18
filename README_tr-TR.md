@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6555** |
+| 📝 Toplam İstem | **6557** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-10-18** |
 
@@ -361,6 +361,56 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Hayvanat Bahçesinde Aslan Saldırısı Sinematik Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gerçekçi fizik ve dramatik kamera açılarıyla, bir kadının hayvanat bahçesinde aslan tarafından saldırıya uğradığı korkutucu sinematik videoyu oluşturmak için bir istem.
+
+#### 📝 İstem
+
+```
+Uzun, koyu renk, hafif dalgalı saçları olan, beyaz bluz ve koyu renk pantolon giyen genç bir Koreli kadını içeren 20 saniyelik sinematik, ultra gerçekçi bir AI videosu oluşturun. Yumuşak doğal gün ışığında akıllı telefonuna düşünceli bakan pencere kenarında otururken yakın çekimle başlayın. Dışarıda hayvanat bahçesi ortamına geçiş yapın; burada korkulukların yanında duruyor, çevresini gözlemlerken rahatça telefonunu kullanıyor. Aslan kafesine yaklaşmasını ve aşağıdaki heybetli bir aslanın fotoğrafını çekmek için akıllı telefonunu kaldırmasını gösterin. Aniden, aslan ona doğru koşarak gergin ve beklenmedik bir an yaratır. Telefonunu düşürür ve aslan kafes içinde ona atılırken kaçmaya çalışır. Korkmuş ifadelerini, gerçekçi vücut hareketlerini, uçuşan tozu ve aslanın güçlü hareketini yakalayın. Dinamik kamera açıları, pürüzsüz sinematik geçişler, doğal güneş ışığı, gerçekçi gölgeler ve detaylı çevre dokuları kullanın. Videonun tamamında tutarlı yüz hatlarını, saç stilini, kıyafetleri ve vücut oranlarını koruyun; dramatik tempo ve fotogerçekçi kalite ile.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111646630105710593/img/tb_UxKERUj2WSE5S.jpg" width="600" alt="Hayvanat Bahçesinde Aslan Saldırısı Sinematik Video">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12677)**
+
+**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2111646777187450940) | **Yayınlandı:** Oct 18, 2026
+
+---
+### Kalp Şekilli Şeker Zemin Yenileme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kalp şekillerinin epoksi reçineye gömülerek terrazzo tarzı bir zemin oluşturduğu, tatmin edici bir yenileme sekansı üretmek için video istemi.
+
+#### 📝 İstem
+
+```
+Dikey 9:16 video, fotogerçekçi ve tatmin edici yenileme süreci, akıcı hareketler, parlak doğal gün ışığı. Beyaz duvarlı boş oda, solda pencere, çıplak beton zemin.
+
+Çekim 1: Mavi iş tulumu giyen bir adam, uzun saplı kürekle büyük yığın halindeki küçük turuncu ve yeşil kalp şekilli şekerleri yayarak zemini düzleştirir ve tüm alana eşit bir katman halinde serer.
+
+Çekim 2: Kırmızı tulum giyen bir kadın, beyaz kovadan kalın ve parlak beyaz kendinden seviyelenen epoksi reçine döker; sıvı akar ve şeker katmanının üzerine yayılarak kalpleri yavaşça kaplar.
+
+Çekim 3: Sarı reflektif yelek giyen bir işçi, profesyonel zemin parlatma makinesiyle sertleşmiş zemini taşlar ve parlatır; böylece parlak beyaz reçinenin altında gömülü turuncu ve yeşil kalpler, renkli bir terrazzo gibi ortaya çıkar.
+
+Çekim 4: İki işçi, yeni zeminde ahşap bir yatak çerçevesi kurar, beyaz bir yatak, yastıklar ve nevresimler yerleştirir.
+
+Son çekim: Bitmiş yatak odası üzerinde aşağı doğru yavaş kamera eğimi; düzenli yapılmış yatağın yanındaki benzersiz parlak kalp desenli epoksi zemin gösterilir.
+
+Dökülen sıvı ve gevşek şekerlerin gerçekçi fiziği, tutarlı aydınlatma, çekimler arasında kesintisiz geçişler, yüksek detay, metin yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111457403719831552/img/uNO-3LOiA-tvoKwh.jpg" width="600" alt="Kalp Şekilli Şeker Zemin Yenileme">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12676)**
+
+**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2111457454894526493) | **Yayınlandı:** Oct 17, 2026
+
+---
 ### Tiny Runner Sinematik Macera
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5507,81 +5557,6 @@ Geleneksel ahşap binaların, taş döşeli bir sokağın, küçük kemerli bir 
 **Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2105162931847807476) | **Yayınlandı:** Sep 30, 2026
 
 ---
-### Xianxia Komedisi: Önceden Yazılmış Zafer
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 için hazırlanmış, kibirli bir kılıç ustasının zaferini önceden yazdırması için bir katip tuttuğu ve dövüş başlamadan önce güvensizliğinin komik bir şekilde ortaya çıktığı Xianxia düellosunu konu alan mizahi bir video istemi.
-
-#### 📝 İstem
-
-```
-Neden bu kadar telaş? Dövüşmek istiyorsan, sadece dövüş.
-İstem:
-
-Sinematik gerçekçi doku, saf antik Çin Xianxia estetiği.
-Ciddi meydan okuma ile 'önceden paketlenmiş itibar'ın meta-komedisini çatıştırın.
-Sessiz film tepki zamanlamasını, İngiliz deadpan mantığını, HK komedi kurulum/vurgu yapısını ve üç vuruşlu yapıyı benimseyin.
-Arri Alexa görünümü, stabil mikro ifadeler, film greni, hacimsel ışık.
-
-Ana Hikaye:
-Kibirli düşman kılıç ustası, efsanevi zaferini 'nesnel olarak kaydetmesi' için bir katip getirir. Düello başlamadan önce, kahraman kızlar onun zaten sonu için ödeme yaptığını keşfeder.
-
-Referans & Ortam:
-Kimlik sabitleyicileri olarak @Image 1 ve @Image 2 kullanın.
-Arka planları birleşik çevresel DNA olarak yeniden birleştirin.
-Arka plan unsurları (rüzgar, su vb.) canlı kalır ancak anlatısal olarak nötrdür.
-
-Karakterler:
-ID A (Abla): Beyaz ipek Hanfu, gümüş kılıç. Sakin.
-ID B (Küçük Abla): Yeşil keten Hanfu, çelik kılıç. Küçük, hareketli.
-Düşman Kılıç Ustası: Çok özgüvenli, itibarına önem verir.
-Katip: Orta yaşlı, ciddi, profesyonel, fırça ve boş parşömen taşır.
-Usta: Dengeli, son vurucu cümleyi söyler.
-
-Yapı (Toplam 15s):
-0-5s: Geniş çekim. Düşman, Katiple birlikte girer. Bir tanığa ihtiyacı olduğunu duyurur. Küçük Abla 'Resmi' diye yorum yapar. Abla sakin.
-5-10s: Orta çekim. Düello henüz başlamadı. Katip Düşmana fısıldar: 'Hâlâ '10 Hamlede Zafer' olarak mı kaydediyorum?'
-Sessizlik. Düşman donar, öfkeyle fısıldar: 'Dövüşten SONRA yazmamız gerekmiyor muydu?'
-Katip: 'Depozito bu son içindi.'
-Küçük Abla Düşmana bakar: 'Sonu mu satın aldın?'
-Abla kaşını kaldırır, ilgilenmiştir.
-10-15s: Yakın çekim. Abla Katibe sorar: 'Ya yenilirse?'
-Katip: 'Ekstra gümüş, onu 'Onurlu Yenilgi'ye çevirir.'
-Düşman çılgına döner: 'Kaybetmem!'
-Odak Usta'ya geçer. O der ki: 'Bunu kaydet: Taslak, dövüşten önce değişti.'
-Katip başını sallar, fırçasını kaldırır. Düşman panikler: 'Onu kaydetme!'
-Katip değerlendirir: 'Bu replik de iyi.'
-A aşırı yakın çekim: Küçük Abla gülüşünü bastırır. Abla nazikçe işaret eder: 'Şimdi dövüşebilir miyiz?'
-Düşman, asıl tehlikenin itibarı olduğunu fark eder. Cevap gelmeden karartma.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105154749909901312/img/FHAnOk0OWpttMNFb.jpg" width="600" alt="Xianxia Komedisi: Önceden Yazılmış Zafer">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11632)**
-
-**Yazar:** [Soran](https://x.com/Soranlan) | **Kaynak:** [Link](https://x.com/Soranlan/status/2105156705260868087) | **Yayınlandı:** Sep 30, 2026
-
----
-### Sinematik Restoran Portre Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gece saatlerinde lüks bir restoranda bulunan bir kadının ultra gerçekçi sinematik portre videosu için hazırlanmış prompt. Kıyafet, hareketler, ışıklandırma, kamera ayarları ve atmosfer detaylı olarak tanımlanmış olup dikey kısa format içeriklere uygundur.
-
-#### 📝 İstem
-
-```
-Gece saatlerinde zarif ve lüks bir restoranda bulunan güzel genç bir kadının ultra gerçekçi sinematik portresi; sofistike siyah bir kıyafet giymiş, sıcak ve loş ışıklarla aydınlatılmış iç mekanda zarifçe yürürken elinde şeffaf bir kadeh tutuyor. Ardından, yumuşakça yana bakan yakın çekim portre; doğal ve ifade dolu gözler, hafif makyaj, pürüzsüz ve gerçekçi cilt dokusu, yüzünü çerçeveleyen ince saç tutamlarıyla gevşekçe şekillendirilmiş koyu kahverengi saçlar, samimi ve gizemli bir atmosfer, sıcak kehribar tonlarında pratik ışıklar, arka planda kremamsı bokeh, sığ alan derinliği, sinematik düşük anahtar (low-key) ışıklandırma, gerçekçi gölgeler, lüks editoryal fotoğrafçılık, 85mm lens, f/1.4, HDR, yüksek detay, fotogerçekçi, 8K, dikey 9:16 kompozisyon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105156099121049600/img/D7EzuGekj4c_ZCEW.jpg" width="600" alt="Sinematik Restoran Portre Videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11625)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2105156206587519482) | **Yayınlandı:** Sep 30, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -5643,6 +5618,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-18T03:32:47.374Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-18T08:58:06.774Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6555** |
+| 📝 Gesamtanzahl Prompts | **6557** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-10-18** |
 
@@ -361,6 +361,56 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Löwenangriff im Zoo – Cinematic Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines erschreckenden, cineastischen Videos einer Frau, die in einem Zoo von einem Löwen angegriffen wird, mit realistischer Physik und dramatischen Kameraperspektiven.
+
+#### 📝 Prompt
+
+```
+Erstelle ein 20-sekündiges, cineastisches, ultra-realistisches KI-Video mit einer jungen Koreanerin mit langen, dunklen, leicht gewellten Haaren, die eine weiße Bluse und eine dunkle Hose trägt. Beginne mit einer Nahaufnahme, wie sie neben einem Fenster sitzt und nachdenklich auf ihr Smartphone blickt, beleuchtet von weichem Tageslicht. Wechsle zu einer Außenaufnahme im Zoo, wo sie neben einem Geländer steht und beiläufig ihr Handy benutzt, während sie die Umgebung beobachtet. Zeige, wie sie sich dem Gehege des Löwen nähert und ihr Smartphone hebt, um ein Foto eines majestätischen Löwen unten zu machen. Plötzlich stürmt der Löwe auf sie zu, was einen angespannten und unerwarteten Moment erzeugt. Sie lässt ihr Handy fallen und kämpft darum, zu entkommen, während der Löwe innerhalb des Geheges nach ihr schnappt. Erfasse ihre ängstlichen Gesichtsausdrücke, realistische Körperbewegungen, fliegenden Staub und die kraftvolle Bewegung des Löwen. Verwende dynamische Kameraperspektiven, flüssige cineastische Übergänge, natürliches Sonnenlicht, realistische Schatten und detaillierte Umwelttexturen. Stelle sicher, dass Gesichtsmerkmale, Frisur, Kleidung und Körperproportionen im gesamten Video konsistent bleiben, mit dramatischem Tempo und fotorealistischer Qualität.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111646630105710593/img/tb_UxKERUj2WSE5S.jpg" width="600" alt="Löwenangriff im Zoo – Cinematic Video">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12677)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2111646777187450940) | **Veröffentlicht:** Oct 18, 2026
+
+---
+### Herzförmige Candy-Boden-Renovierung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt zur Generierung einer befriedigenden Renovierungssequenz, bei der herzförmige Bonbons in Epoxidharz eingebettet werden, um einen Terrazzo-Stil Boden zu schaffen.
+
+#### 📝 Prompt
+
+```
+Vertikales 9:16-Video, fotorealistischer, befriedigender Renovierungsprozess, flüssige Bewegung, helles natürliches Tageslicht. Leerer Raum mit weißen Wänden, Fenster auf der linken Seite, nackter Betonboden.
+
+Aufnahme 1: Ein Mann in blauen Arbeitsoveralls verteilt mit einer langstieligen Schaufel eine große Menge kleiner orangefarbener und grüner herzförmiger Bonbons und nivelliert sie zu einer gleichmäßigen Schicht über den gesamten Boden.
+
+Aufnahme 2: Eine Frau in roten Overalls gießt dickflüssiges, glänzendes weißes selbstnivellierendes Epoxidharz aus einem weißen Eimer; die Flüssigkeit fließt und breitet sich über die Bonbonschicht aus und bedeckt allmählich die Herzen.
+
+Aufnahme 3: Ein Arbeiter in einer gelben Warnweste schleift und poliert den gehärteten Boden mit einer professionellen Bodenpoliermaschine, wobei orangefarbene und grüne Herzen unter dem glänzenden weißen Harz sichtbar werden, ähnlich wie bunter Terrazzo.
+
+Aufnahme 4: Zwei Arbeiter montieren ein hölzernes Bettgestell auf dem neuen Boden, legen eine weiße Matratze, Kissen und Bettwäsche darauf.
+
+Letzte Aufnahme: Langsame Kamerafahrt nach unten über das fertige Schlafzimmer, die den einzigartigen glänzenden Herz-Muster-Epoxidboden neben dem ordentlich gemachten Bett zeigt.
+
+Realistische Physik beim Gießen von Flüssigkeit und losen Bonbons, konsistente Beleuchtung, nahtlose Schnitte zwischen den Aufnahmen, hohe Detailtreue, kein Text.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111457403719831552/img/uNO-3LOiA-tvoKwh.jpg" width="600" alt="Herzförmige Candy-Boden-Renovierung">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12676)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2111457454894526493) | **Veröffentlicht:** Oct 17, 2026
+
+---
 ### Tiny Runner – Cinematic Adventure
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5543,81 +5593,6 @@ Erstelle ein 30-sekündiges, cineastisches und ultra-realistisches Video im Wuxi
 **Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2105162931847807476) | **Veröffentlicht:** Sep 30, 2026
 
 ---
-### Xianxia-Komödie: Der vorab geschriebene Sieg
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein humorvoller Video-Prompt für Seedance 2.0, der ein Xianxia-Duell zeigt, bei dem ein arroganter Schwertkämpfer einen Schreiber anheuert, um seinen Sieg vorab zu dokumentieren. Dies führt zu einer komödiantischen Entlarvung seiner Unsicherheit noch bevor der Kampf beginnt.
-
-#### 📝 Prompt
-
-```
-Warum so viel Aufhebens? Wenn ihr kämpfen wollt, dann kämpft einfach.
-Prompt:
-
-Kinoästhetik mit realistischen Texturen, reine altchinesische Xianxia-Ästhetik.
-Kontrastiert die feierliche Herausforderung mit Meta-Komödie über das 'vorverpackte Ansehen'.
-Integriert Timing von Reaktionen aus Stummfilmen, britischen Deadpan-Humor und Setup/Payoff-Strukturen aus HK-Komödien in einem Drei-Akt-Schema.
-Arri Alexa-Look, stabile Mikroexpressionen, Filmkorn, volumetrisches Licht.
-
-Handlungskern:
-Ein arroganter Gegner-Schwertkämpfer bringt einen Schreiber mit, um seinen legendären Sieg 'objektiv' aufzuzeichnen. Bevor das Duell beginnt, entdecken die Heldinnen, dass er bereits für das Ende bezahlt hat.
-
-Referenz & Umgebung:
-Verwendet @Image 1 und @Image 2 als Identitätsanker.
-Rekombiniert Hintergründe zu einer einheitlichen Umgebungs-DNA.
-Hintergrundelemente (Wind, Wasser etc.) bleiben lebendig, aber narrativ neutral.
-
-Charaktere:
-ID A (Große Schwester): Weiße Seiden-Hanfu, silbernes Schwert. Ruhig.
-ID B (Kleine Schwester): Grüne Leinen-Hanfu, Stahl-Schwert. Klein, lebhaft.
-Gegner-Schwertkämpfer: Sehr selbstbewusst, legt Wert auf sein Ansehen.
-Schreiber: Mittelaltlich, ernst, professionell, hält Pinsel und leere Schriftrolle.
-Meister: Ausgeglichen, liefert die finale Pointe.
-
-Struktur (insgesamt 15s):
-0-5s: Weitwinkel. Der Gegner tritt mit dem Schreiber auf. Verkündet die Notwendigkeit eines Zeugen. Kleine Schwester kommentiert 'Formal'. Große Schwester bleibt ruhig.
-5-10s: Mittlere Einstellung. Das Duell hat noch nicht begonnen. Der Schreiber flüstert dem Gegner zu: 'Soll ich weiterhin 'Sieg nach 10 Zügen' aufschreiben?'
-Stille. Der Gegner erstarrt, flüstert wütend: 'Haben wir nicht gesagt, dass es NACH dem Kampf geschrieben wird?'
-Schreiber: 'Die Anzahlung war für dieses Ende.'
-Kleine Schwester starrt den Gegner an: 'Das Ende gekauft?'
-Große Schwester hebt eine Augenbraue, interessiert.
-10-15s: Nahaufnahme. Große Schwester fragt den Schreiber: 'Und wenn er verliert?'
-Schreiber: 'Extra Silber ändert es in 'Ehrwürdige Niederlage''.
-Gegner ist außer sich: 'Ich werde nicht verlieren!'
-Der Fokus wechselt zum Meister. Er sagt: 'Notiere dies: Entwurf geändert vor dem Kampf.'
-Der Schreiber nickt, hebt den Pinsel. Der Gegner gerät in Panik: 'Das nicht notieren!'
-Schreiber bewertet: 'Dieser Satz ist auch gut.'
-Extreme Nahaufnahme: Kleine Schwester unterdrückt Lachen. Große Schwester gestikuliert höflich: 'Können wir jetzt kämpfen?'
-Der Gegner erkennt, dass sein Ansehen die eigentliche Gefahr ist. Schnitt zu Schwarz vor der Antwort.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105154749909901312/img/FHAnOk0OWpttMNFb.jpg" width="600" alt="Xianxia-Komödie: Der vorab geschriebene Sieg">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11632)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2105156705260868087) | **Veröffentlicht:** Sep 30, 2026
-
----
-### Cinematic Restaurant Portrait Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für ein ultra-realistisches, kinematografisches Porträtvideo einer Frau in einem gehobenen Restaurant bei Nacht. Es beschreibt ihre Kleidung, Aktionen, Beleuchtung, Kameraeinstellungen und Stimmung, geeignet für vertikale Kurzformate.
-
-#### 📝 Prompt
-
-```
-Ultra-realistisches, kinematografisches Porträt einer schönen jungen Frau in einem eleganten, gehobenen Restaurant bei Nacht, gekleidet in ein anspruchsvolles schwarzes Outfit, während sie ein klares Weinglas hält und anmutig durch ein warmes, schwach beleuchtetes Interieur geht. Später ein Nahaufnahme-Porträt, bei dem sie sanft zur Seite blickt, mit natürlichen, ausdrucksstarken Augen, dezentem Make-up, glatter, realistischer Hauttextur, dunkelbraunen Haaren, locker gestylt mit feinen Strähnen, die ihr Gesicht umrahmen, intime und mysteriöse Stimmung, warme bernsteinfarbene praktische Lichtquellen, cremiges Bokeh im Hintergrund, geringe Schärfentiefe, kinematografische Low-Key-Beleuchtung, realistische Schatten, luxuriöse Editorial-Fotografie, 85-mm-Objektiv, f/1.4, HDR, hochdetailliert, fotorealistisch, 8K, vertikale 9:16-Komposition.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105156099121049600/img/D7EzuGekj4c_ZCEW.jpg" width="600" alt="Cinematic Restaurant Portrait Video">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11625)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2105156206587519482) | **Veröffentlicht:** Sep 30, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -5679,6 +5654,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-18T03:32:39.019Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-18T08:58:01.909Z</sub>
 
 </div>

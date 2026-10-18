@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6555** |
+| 📝 Totale prompt | **6557** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-10-18** |
 
@@ -361,6 +361,56 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Video Cinematografico di un Attacco di Leone allo Zoo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per generare un video cinematografico terrificante di una donna attaccata da un leone in uno zoo, con fisica realistica e angoli di ripresa drammatici.
+
+#### 📝 Prompt
+
+```
+Crea un video AI cinematografico ultra-realistico della durata di 20 secondi che ritrae una giovane donna coreana con lunghi capelli scuri leggermente mossi, vestita con una camicetta bianca e pantaloni scuri. Inizia con un primo piano di lei seduta accanto a una finestra, mentre guarda pensierosa il suo smartphone sotto la luce naturale soffusa. Passa poi a una scena esterna nello zoo, dove si trova vicino a una ringhiera, usando casualmente il telefono mentre osserva l'ambiente circostante. Mostra il suo avvicinamento alla gabbia dei leoni e il gesto di alzare lo smartphone per fotografare un maestoso leone sottostante. Improvvisamente, il leone carica verso di lei, creando un momento teso e inaspettato. Lei lascia cadere il telefono e lotta per fuggire mentre il leone si avventa su di lei all'interno della recinzione. Cattura le sue espressioni spaventate, i movimenti corporei realistici, la polvere sollevata e il movimento potente del leone. Utilizza angoli di camera dinamici, transizioni cinematografiche fluide, luce solare naturale, ombre realistiche e texture ambientali dettagliate. Mantieni costanti i tratti somatici, l'acconciatura, l'abbigliamento e le proporzioni del corpo per tutta la durata del video, con un ritmo drammatico e una qualità fotorealistica.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111646630105710593/img/tb_UxKERUj2WSE5S.jpg" width="600" alt="Video Cinematografico di un Attacco di Leone allo Zoo">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12677)**
+
+**Autore:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2111646777187450940) | **Pubblicato:** Oct 18, 2026
+
+---
+### Ristrutturazione del Pavimento con Caramelle a Forma di Cuore
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video per generare una sequenza di ristrutturazione appagante, in cui caramelle a forma di cuore vengono incorporate nella resina epossidica per creare un pavimento in stile terrazzo.
+
+#### 📝 Prompt
+
+```
+Video verticale 9:16, processo di ristrutturazione fotorealistico e appagante, movimenti fluidi, luce naturale intensa. Stanza vuota con pareti bianche, finestra sul lato sinistro, pavimento grezzo in cemento.
+
+Scena 1: Un uomo in tuta da lavoro blu usa una pala dal manico lungo per distribuire un grande mucchio di piccole caramelle arancioni e verdi a forma di cuore, livellandole in uno strato uniforme su tutto il pavimento.
+
+Scena 2: Una donna in tuta rossa versa spessa resina epossidica bianca autolivellante lucida da un secchio bianco; il liquido scorre e si diffonde sullo strato di caramelle, coprendo gradualmente i cuori.
+
+Scena 3: Un operaio con giubbotto rifrangente giallo leviga e lucida il pavimento indurito con una macchina professionale per la lucidatura dei pavimenti, rivelando cuori arancioni e verdi incorporati sotto la resina bianca lucida, come un colorato terrazzo.
+
+Scena 4: Due operai assemblano la struttura di un letto in legno sul nuovo pavimento, posizionando un materasso bianco, cuscini e biancheria da letto.
+
+Scena finale: La camera si inclina lentamente verso il basso sulla camera da letto finita, mostrando l'originale pavimento lucido in resina epossidica con motivo a cuore accanto al letto ordinatamente fatto.
+
+Fisica realistica del versamento del liquido e delle caramelle sciolte, illuminazione coerente, transizioni senza soluzione di continuità tra le scene, alto livello di dettaglio, nessun testo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111457403719831552/img/uNO-3LOiA-tvoKwh.jpg" width="600" alt="Ristrutturazione del Pavimento con Caramelle a Forma di Cuore">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12676)**
+
+**Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2111457454894526493) | **Pubblicato:** Oct 17, 2026
+
+---
 ### Avventura Cinematografica di Tiny Runner
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5455,81 +5505,6 @@ Crea un video cinematografico ultra-realistico di 30 secondi in stile wuxia, amb
 **Autore:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2105162931847807476) | **Pubblicato:** Sep 30, 2026
 
 ---
-### Commedia Xianxia: Vittoria Pre-scritta
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt video umoristico per Seedance 2.0 che presenta un duello Xianxia in cui un spadaccino arrogante assume uno scriba per pre-scrivere la sua vittoria, portando a una comica esposizione della sua insicurezza prima ancora che il combattimento abbia inizio.
-
-#### 📝 Prompt
-
-```
-Perché tutto questo clamore? Se vuoi combattere, combatti.
-Prompt:
-
-Texture cinematografica realistica, pura estetica Xianxia cinese antica.
-Scontro tra sfida solenne e meta-commedia del 'pre-imballaggio della reputazione'.
-Assorbire i tempi di reazione del cinema muto, la logica deadpan britannica, l'impostazione/pagamento delle commedie di Hong Kong, struttura a tre battute.
-Look Arri Alexa, microespressioni stabili, grana pellicola, luce volumetrica.
-
-Trama Principale:
-Uno spadaccino nemico arrogante porta con sé uno scriba per 'registrare oggettivamente' la sua vittoria leggendaria. Prima che il duello inizi, le eroina scoprono che ha già pagato per il finale.
-
-Riferimenti & Ambiente:
-Usa @Image 1 e @Image 2 come ancore di identità.
-Ricombina gli sfondi in un DNA ambientale unificato.
-Gli elementi di sfondo (vento, acqua, ecc.) rimangono vivi ma narrativamente neutrali.
-
-Personaggi:
-ID A (Sorella Maggiore): Hanfu di seta bianca, spada d'argento. Calma.
-ID B (Sorella Minore): Hanfu di lino verde, spada d'acciaio. Piccola, vivace.
-Spadaccino Nemico: Molto sicuro di sé, tiene alla reputazione.
-Scriba: Di mezza età, serio, professionale, tiene un pennello e una pergamena vuota.
-Maestro: Stabile, consegna la battuta finale.
-
-Struttura (15s totali):
-0-5s: Campo lungo. Il Nemico entra con lo Scriba. Annuncia la necessità di un testimone. La Sorella Minore commenta 'Formale'. La Sorella Maggiore è calma.
-5-10s: Campo medio. Il duello non è ancora iniziato. Lo Scriba sussurra al Nemico: 'Sto ancora registrando come 'Vittoria in 10 mosse'?'
-Silenzio. Il Nemico si blocca, sussurra arrabbiato: 'Non avevamo detto di scrivere DOPO aver combattuto?'
-Scriba: 'Il deposito era per questo finale.'
-La Sorella Minore fissa il Nemico: 'Hai comprato il finale?'
-La Sorella Maggiore alza un sopracciglio, interessata.
-10-15s: Primo piano. La Sorella Maggiore chiede allo Scriba: 'E se perde?'
-Scriba: 'Argento extra cambia il testo in 'Sconfitta Onorevole''.
-Nemico furioso: 'Non perderò!'
-L'attenzione si sposta sul Maestro. Dice: 'Registra questo: Bozza cambiata prima della lotta.'
-Lo Scriba annuisce, solleva il pennello. Il Nemico va nel panico: 'Non registrare quello!'
-Lo Scriba valuta: 'Anche questa frase è buona.'
-Primo piano estremo: La Sorella Minore trattiene le risate. La Sorella Maggiore fa un gesto educato: 'Possiamo combattere ora?'
-Il Nemico realizza che la sua reputazione è il vero pericolo. Dissolvenza al nero prima della risposta.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105154749909901312/img/FHAnOk0OWpttMNFb.jpg" width="600" alt="Commedia Xianxia: Vittoria Pre-scritta">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11632)**
-
-**Autore:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2105156705260868087) | **Pubblicato:** Sep 30, 2026
-
----
-### Video Ritratto Cinematografico in Ristorante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per un video ritratto cinematografico ultra-realistico di una donna in un ristorante esclusivo di notte. Descrive l'abbigliamento, le azioni, l'illuminazione, le impostazioni della fotocamera e l'atmosfera, ideale per contenuti verticali a formato breve.
-
-#### 📝 Prompt
-
-```
-Ritratto cinematografico ultra-realistico di una bella giovane donna in un elegante ristorante esclusivo di notte, con indosso un sofisticato abito nero, mentre tiene un calice di vino trasparente camminando con grazia attraverso un interno caldo e scarsamente illuminato. Successivamente, primo piano del suo viso che guarda dolcemente di lato, occhi espressivi e naturali, trucco discreto, texture della pelle liscia e realistica, capelli castano scuro acconciati in modo sciolto con ciocche delicate che incorniciano il viso, atmosfera intima e misteriosa, luci pratiche ambra calde, bokeh cremoso sullo sfondo, profondità di campo ridotta, illuminazione cinematografica low-key, ombre realistiche, fotografia editoriale di lusso, obiettivo 85mm, f/1.4, HDR, altamente dettagliato, fotorealistico, 8K, composizione verticale 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105156099121049600/img/D7EzuGekj4c_ZCEW.jpg" width="600" alt="Video Ritratto Cinematografico in Ristorante">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11625)**
-
-**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2105156206587519482) | **Pubblicato:** Sep 30, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -5591,6 +5566,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-18T03:32:42.048Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-18T08:58:03.801Z</sub>
 
 </div>

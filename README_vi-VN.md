@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6555** |
+| 📝 Tổng số prompt | **6557** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-10-18** |
 
@@ -361,6 +361,56 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Video Điện Ảnh Về Cảnh Sư Tử Tấn Công Tại Sở Thú
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video điện ảnh kinh hoàng về cảnh một phụ nữ bị sư tử tấn công tại sở thú, với vật lý chân thực và góc quay kịch tính.
+
+#### 📝 Prompt
+
+```
+Tạo một video AI siêu thực, mang phong cách điện ảnh dài 20 giây, mô tả một cô gái trẻ Hàn Quốc với mái tóc đen dài hơi gợn sóng, mặc áo sơ mi trắng và quần tối màu. Bắt đầu bằng cận cảnh cô ngồi bên cửa sổ, trầm tư nhìn vào smartphone trong ánh sáng tự nhiên dịu nhẹ. Chuyển sang bối cảnh ngoài trời tại sở thú, nơi cô đứng gần lan can, vừa dùng điện thoại vừa quan sát xung quanh. Thể hiện cảnh cô tiến lại gần khu vực chuồng sư tử và giơ smartphone lên để chụp ảnh một con sư tử oai vệ phía dưới. Đột ngột, con sư tử lao thẳng về phía cô, tạo nên khoảnh khắc căng thẳng và bất ngờ. Cô đánh rơi điện thoại và cố gắng chạy trốn khi sư tử vồ lấy cô ngay trong khu vực rào chắn. Ghi lại biểu cảm sợ hãi, chuyển động cơ thể chân thực, bụi bay tung và sức mạnh của con sư tử. Sử dụng các góc quay động, hiệu ứng chuyển cảnh mượt mà kiểu điện ảnh, ánh nắng tự nhiên, bóng đổ chân thực và kết cấu môi trường chi tiết. Duy trì sự nhất quán về đặc điểm khuôn mặt, kiểu tóc, trang phục và tỷ lệ cơ thể xuyên suốt video, với nhịp độ kịch tính và chất lượng hình ảnh siêu thực.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111646630105710593/img/tb_UxKERUj2WSE5S.jpg" width="600" alt="Video Điện Ảnh Về Cảnh Sư Tử Tấn Công Tại Sở Thú">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12677)**
+
+**Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2111646777187450940) | **Đã xuất bản:** Oct 18, 2026
+
+---
+### Cải tạo sàn nhà bằng kẹo hình trái tim
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lời nhắc video để tạo ra một quy trình cải tạo thỏa mãn, trong đó những viên kẹo hình trái tim được nhúng vào nhựa epoxy để tạo ra sàn nhà phong cách terrazzo.
+
+#### 📝 Prompt
+
+```
+Video dọc tỷ lệ 9:16, quá trình cải tạo thỏa mãn chân thực như ảnh chụp, chuyển động mượt mà, ánh sáng ban ngày tự nhiên rực rỡ. Căn phòng trống với tường trắng, cửa sổ bên trái, sàn bê tông trần.
+
+Cảnh 1: Một người đàn ông mặc bộ đồ bảo hộ màu xanh dương dùng xẻng cán dài để trải đều một đống lớn những viên kẹo nhỏ hình trái tim màu cam và xanh lá cây, san phẳng chúng thành một lớp đồng đều trên toàn bộ mặt sàn.
+
+Cảnh 2: Một phụ nữ mặc bộ đồ bảo hộ màu đỏ đổ nhựa epoxy tự san phẳng màu trắng bóng đặc từ một chiếc xô trắng; chất lỏng chảy và lan rộng phủ lên lớp kẹo, dần dần che lấp các hình trái tim.
+
+Cảnh 3: Một công nhân mặc áo phản quang màu vàng mài và đánh bóng sàn đã cứng hóa bằng máy đánh bóng sàn chuyên nghiệp, làm lộ ra những hình trái tim màu cam và xanh lá cây được nhúng dưới lớp nhựa epoxy trắng bóng, giống như đá terrazzo đầy màu sắc.
+
+Cảnh 4: Hai công nhân lắp ráp khung giường gỗ trên nền sàn mới, đặt nệm trắng, gối và bộ đồ giường.
+
+Cảnh cuối: Máy quay nghiêng chậm xuống phía trên phòng ngủ hoàn thiện, cho thấy sàn epoxy bóng loáng với họa tiết trái tim độc đáo nằm cạnh chiếc giường được dọn dẹp gọn gàng.
+
+Vật lý thực tế khi đổ chất lỏng và kẹo rời, ánh sáng nhất quán, cắt cảnh liền mạch giữa các cảnh, chi tiết cao, không có văn bản.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111457403719831552/img/uNO-3LOiA-tvoKwh.jpg" width="600" alt="Cải tạo sàn nhà bằng kẹo hình trái tim">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12676)**
+
+**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2111457454894526493) | **Đã xuất bản:** Oct 17, 2026
+
+---
 ### Cuộc Phiêu Lưu Điện Ảnh Của Người Chạy Tí Hon
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5461,81 +5511,6 @@ Tạo một video phong cách võ hiệp dài 30 giây, mang tính điện ảnh
 **Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2105162931847807476) | **Đã xuất bản:** Sep 30, 2026
 
 ---
-### Hài Hước Tiên Hiệp: Chiến Thắng Viết Sẵn
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một lời nhắc video hài hước dành cho Seedance 2.0, mô tả một trận đấu tiên hiệp nơi một kiếm khách kiêu ngạo thuê người chép sử để viết sẵn chiến thắng của mình, dẫn đến việc lộ ra sự bất an trước khi trận đấu bắt đầu.
-
-#### 📝 Prompt
-
-```
-Tại sao phải làm quá lên? Muốn đánh thì cứ đánh.
-Lời nhắc:
-
-Kết cấu điện ảnh chân thực, thẩm mỹ tiên hiệp cổ đại Trung Quốc thuần túy.
-Kết hợp sự trang nghiêm của lời thách đấu với tính siêu hài hước (meta-comedy) của việc 'đóng gói danh tiếng' từ trước.
-Tiếp thu nhịp phản ứng của phim câm, logic khô khốc kiểu Anh, cách thiết lập và trả giá của hài kịch Hồng Kông, cấu trúc ba nhịp.
-Giao diện Arri Alexa, biểu cảm vi mô ổn định, hạt phim, ánh sáng thể tích.
-
-Cốt truyện chính:
-Kiếm khách đối thủ kiêu ngạo mang theo một người chép sử để 'ghi lại khách quan' chiến thắng huyền thoại của hắn. Trước khi trận đấu bắt đầu, các nữ chính phát hiện ra rằng hắn đã trả tiền cho cái kết từ trước.
-
-Tham chiếu & Môi trường:
-Sử dụng @Image 1 và @Image 2 làm neo nhận dạng.
-Tái tổ hợp bối cảnh thành DNA môi trường thống nhất.
-Các yếu tố nền (gió, nước, v.v.) vẫn sống động nhưng trung lập về mặt kể chuyện.
-
-Nhân vật:
-ID A (Đại sư tỷ): Hán phục lụa trắng, kiếm bạc. Bình tĩnh.
-ID B (Tiểu sư muội): Hán phục vải lanh xanh, kiếm thép. Nhỏ nhắn, hoạt bát.
-Kiếm khách đối thủ: Rất tự tin, coi trọng danh tiếng.
-Người chép sử: Trung niên, nghiêm túc, chuyên nghiệp, cầm bút lông và cuộn giấy trắng.
-Sư phụ: Vững chãi, tung câu chốt hạ cuối cùng.
-
-Cấu trúc (Tổng cộng 15 giây):
-0-5s: Góc quay rộng. Đối thủ bước vào cùng Người chép sử. Tuyên bố cần nhân chứng. Tiểu sư muội bình luận 'Trang trọng'. Đại sư tỷ bình tĩnh.
-5-10s: Góc quay trung. Trận đấu chưa bắt đầu. Người chép sử thì thầm với Đối thủ: 'Vẫn ghi là "Chiến thắng trong 10 chiêu" chứ?'
-Im lặng. Đối thủ đông cứng, tức giận thì thầm: 'Chẳng phải chúng ta đã nói là viết SAU khi đánh xong rồi sao?'
-Người chép sử: 'Tiền cọc là cho cái kết này.'
-Tiểu sư muội nhìn chằm chằm vào Đối thủ: 'Mua sẵn cái kết rồi à?'
-Đại sư tỷ nhướng mày, tỏ vẻ thích thú.
-10-15s: Cận cảnh. Đại sư tỷ hỏi Người chép sử: 'Nếu hắn thua thì sao?'
-Người chép sử: 'Thêm bạc sẽ đổi thành "Thua oai hùng".'
-Đối thủ nổi điên: 'Ta không thua!'
-Tiêu điểm chuyển sang Sư phụ. Ông nói: 'Ghi lại đi: Bản thảo thay đổi trước khi đánh.'
-Người chép sử gật đầu, giơ bút. Đối thủ hoảng loạn: 'Đừng ghi cái đó!'
-Người chép sử đánh giá: 'Câu đó cũng hay đấy.'
-Cận cảnh cực gần: Tiểu sư muội nén cười. Đại sư tỷ lịch sự ra hiệu: 'Giờ có thể đánh chưa?'
-Đối thủ nhận ra danh tiếng của mình mới là mối nguy hiểm thực sự. Cắt đen trước khi có câu trả lời.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105154749909901312/img/FHAnOk0OWpttMNFb.jpg" width="600" alt="Hài Hước Tiên Hiệp: Chiến Thắng Viết Sẵn">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11632)**
-
-**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2105156705260868087) | **Đã xuất bản:** Sep 30, 2026
-
----
-### Video Chân Dung Nhà Hàng Điện Ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video chân dung điện ảnh siêu thực về một phụ nữ trong nhà hàng cao cấp vào ban đêm. Chi tiết trang phục, hành động, ánh sáng, cài đặt máy quay và tâm trạng, phù hợp cho nội dung ngắn dọc.
-
-#### 📝 Prompt
-
-```
-Chân dung điện ảnh siêu thực của một cô gái trẻ xinh đẹp trong nhà hàng sang trọng vào ban đêm, mặc bộ trang phục đen tinh tế, cầm ly rượu vang trong suốt khi nhẹ nhàng bước qua không gian nội thất ấm áp, ánh sáng mờ ảo. Sau đó là cận cảnh chân dung với ánh mắt dịu dàng nhìn sang bên, đôi mắt tự nhiên biểu cảm, lớp trang điểm nhẹ nhàng, kết cấu da mịn màng chân thực, tóc nâu sẫm buông lơi với vài sợi tóc mảnh mai ôm lấy khuôn mặt, bầu không khí thân mật và bí ẩn, ánh sáng vàng hổ phách ấm áp từ đèn thực tế, hiệu ứng bokeh kem mềm mại ở hậu cảnh, độ sâu trường ảnh nông, ánh sáng điện ảnh low-key, bóng đổ chân thực, phong cách nhiếp ảnh thời trang cao cấp, ống kính 85mm, f/1.4, HDR, chi tiết cực cao, chân thực như ảnh chụp, 8K, bố cục dọc 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105156099121049600/img/D7EzuGekj4c_ZCEW.jpg" width="600" alt="Video Chân Dung Nhà Hàng Điện Ảnh">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11625)**
-
-**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2105156206587519482) | **Đã xuất bản:** Sep 30, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -5597,6 +5572,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-18T03:32:31.564Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-18T08:57:56.808Z</sub>
 
 </div>

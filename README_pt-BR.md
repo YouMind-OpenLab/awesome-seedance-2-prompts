@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6555** |
+| 📝 Total de prompts | **6557** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-10-18** |
 
@@ -361,6 +361,56 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Vídeo Cinematográfico de Ataque de Leão no Zoológico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar um vídeo cinematográfico aterrorizante de uma mulher sendo atacada por um leão em um zoológico, com física realista e ângulos de câmera dramáticos.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo de IA ultra-realista e cinematográfico de 20 segundos, apresentando uma jovem coreana com cabelos longos, escuros e levemente ondulados, vestindo uma blusa branca e calças escuras. Comece com um close-up dela sentada ao lado de uma janela, olhando pensativamente para seu smartphone sob luz natural suave. Faça uma transição para um cenário externo de zoológico, onde ela está perto de uma grade, usando casualmente o celular enquanto observa os arredores. Mostre-a se aproximando do recinto dos leões e erguendo o smartphone para fotografar um leão majestoso abaixo. De repente, o leão avança em sua direção, criando um momento tenso e inesperado. Ela deixa cair o celular e luta para escapar enquanto o leão salta sobre ela dentro do recinto. Capture suas expressões de medo, movimentos corporais realistas, poeira levantada e o movimento poderoso do leão. Use ângulos de câmera dinâmicos, transições cinematográficas suaves, luz solar natural, sombras realistas e texturas ambientais detalhadas. Mantenha características faciais, penteado, roupas e proporções corporais consistentes durante todo o vídeo, com ritmo dramático e qualidade fotorrealista.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111646630105710593/img/tb_UxKERUj2WSE5S.jpg" width="600" alt="Vídeo Cinematográfico de Ataque de Leão no Zoológico">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12677)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2111646777187450940) | **Publicado:** Oct 18, 2026
+
+---
+### Renovação de Piso com Doces em Formato de Coração
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo para gerar uma sequência satisfatória de renovação, onde doces em formato de coração são embutidos em resina epóxi para criar um piso estilo terrazzo.
+
+#### 📝 Prompt
+
+```
+Vídeo vertical 9:16, processo de renovação satisfatório e fotorealista, movimento suave, luz natural brilhante. Quarto vazio com paredes brancas, janela à esquerda, piso de concreto cru.
+
+Cena 1: Um homem com macacão azul de trabalho usa uma pá de cabo longo para espalhar uma grande pilha de pequenos doces em formato de coração laranja e verde, nivelando-os em uma camada uniforme por todo o piso.
+
+Cena 2: Uma mulher com macacão vermelho despeja resina epóxi branca auto-nivelante espessa e brilhante de um balde branco; o líquido flui e se espalha sobre a camada de doces, cobrindo gradualmente os corações.
+
+Cena 3: Um trabalhador com colete refletivo amarelo lixa e poliu o piso endurecido com uma máquina profissional de polimento de pisos, revelando corações laranja e verde embutidos sob a resina branca brilhante, como um terrazzo colorido.
+
+Cena 4: Dois trabalhadores montam a estrutura de uma cama de madeira no novo piso, colocam um colchão branco, travesseiros e roupa de cama.
+
+Cena final: Câmera inclina lentamente para baixo sobre o quarto terminado, mostrando o exclusivo piso de resina epóxi com padrão de corações brilhantes ao lado da cama arrumada.
+
+Física realista do despejo de líquido e doces soltos, iluminação consistente, cortes perfeitos entre as cenas, alto nível de detalhe, sem texto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111457403719831552/img/uNO-3LOiA-tvoKwh.jpg" width="600" alt="Renovação de Piso com Doces em Formato de Coração">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12676)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2111457454894526493) | **Publicado:** Oct 17, 2026
+
+---
 ### Aventura Cinematográfica de Tiny Runner
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5547,81 +5597,6 @@ Crie um vídeo cinematográfico ultra-realista de 30 segundos no estilo wuxia, a
 **Autor:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2105162931847807476) | **Publicado:** Sep 30, 2026
 
 ---
-### Comédia Xianxia: Vitória Pré-Escrita
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt de vídeo humorístico para o Seedance 2.0, apresentando um duelo Xianxia onde um espadachim arrogante contrata um escriba para pré-escrever sua vitória, resultando na exposição cômica de sua insegurança antes mesmo da luta começar.
-
-#### 📝 Prompt
-
-```
-Por que tanto alarde? Se quiser lutar, apenas lute.
-Prompt:
-
-Textura cinematográfica realista, estética pura de Xianxia chinês antigo.
-Contraste entre o desafio solene e a meta-comédia de 'embalar reputação'.
-Absorva o timing de reação do cinema mudo, a lógica deadpan britânica, a estrutura setup/payoff da comédia de Hong Kong, ritmo em três tempos.
-Visual estilo Arri Alexa, micro-expressões estáveis, granulação de filme, luz volumétrica.
-
-Enredo Central:
-Um espadachim inimigo arrogante traz um escriba para 'registrar objetivamente' sua vitória lendária. Antes do duelo começar, as heroínas descobrem que ele já pagou pelo final.
-
-Referência & Ambiente:
-Use @Image 1 e @Image 2 como âncoras de identidade.
-Recombine os fundos em um DNA ambiental unificado.
-Elementos de fundo (vento, água, etc.) permanecem vivos, mas narrativamente neutros.
-
-Personagens:
-ID A (Irmã Sênior): Hanfu de seda branca, espada prateada. Calma.
-ID B (Irmã Júnior): Hanfu de linho verde, espada de aço. Pequena, animada.
-Espadachim Inimigo: Muito confiante, preocupa-se com a reputação.
-Escriba: De meia-idade, sério, profissional, segura pincel e rolo em branco.
-Mestre: Estável, entrega a piada final.
-
-Estrutura (15s total):
-0-5s: Plano aberto. O Inimigo entra com o Escriba. Anuncia a necessidade de uma testemunha. A Irmã Júnior comenta 'Formal'. A Sênior permanece calma.
-5-10s: Plano médio. O duelo ainda não começou. O Escriba sussurra ao Inimigo: 'Ainda registrando como "Vitória em 10 movimentos"?'
-Silêncio. O Inimigo congela, sussurra irritado: 'Não combinamos escrever DEPOIS da luta?'
-Escriba: 'O sinal foi pago por esse final.'
-A Irmã Júnior encara o Inimigo: 'Comprou o final?'
-A Sênior levanta a sobrancelha, interessada.
-10-15s: Close-up. A Sênior pergunta ao Escriba: 'E se ele perder?'
-Escriba: 'Prata extra muda para "Derrota Honrosa".'
-Inimigo furioso: 'Eu não vou perder!'
-Foco muda para o Mestre. Ele diz: 'Registre isso: Rascunho alterado antes da luta.'
-O Escriba assente, ergue o pincel. O Inimigo entra em pânico: 'Não registre isso!'
-O Escriba avalia: 'Essa frase também é boa.'
-Extreme close-up: A Irmã Júnior contém o riso. A Sênior gesticula educadamente: 'Podemos lutar agora?'
-O Inimigo percebe que sua reputação é o verdadeiro perigo. Corte para preto antes da resposta.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105154749909901312/img/FHAnOk0OWpttMNFb.jpg" width="600" alt="Comédia Xianxia: Vitória Pré-Escrita">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11632)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2105156705260868087) | **Publicado:** Sep 30, 2026
-
----
-### Vídeo Retrato Cinematográfico de Restaurante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para um vídeo retrato cinematográfico ultra-realista de uma mulher em um restaurante sofisticado à noite. Detalha sua vestimenta, ações, iluminação, configurações de câmera e atmosfera, ideal para conteúdo vertical de formato curto.
-
-#### 📝 Prompt
-
-```
-Retrato cinematográfico ultra-realista de uma jovem bonita em um elegante restaurante sofisticado à noite, vestindo um traje preto sofisticado, segurando uma taça de vinho transparente enquanto caminha graciosamente por um interior quente e com iluminação baixa. Em seguida, retrato em close-up dela olhando suavemente para o lado, olhos naturais expressivos, maquiagem sutil, textura de pele realista e lisa, cabelo castanho escuro estilizado solto com mechas delicadas emoldurando seu rosto, atmosfera íntima e misteriosa, luzes práticas âmbar quentes, bokeh cremoso ao fundo, profundidade de campo rasa, iluminação cinematográfica low-key, sombras realistas, fotografia editorial de luxo, lente de 85mm, f/1.4, HDR, altamente detalhado, fotorealista, 8K, composição vertical 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105156099121049600/img/D7EzuGekj4c_ZCEW.jpg" width="600" alt="Vídeo Retrato Cinematográfico de Restaurante">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11625)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2105156206587519482) | **Publicado:** Sep 30, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -5683,6 +5658,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-18T03:32:44.041Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-18T08:58:04.974Z</sub>
 
 </div>
