@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6557** |
+| 📝 Total Prompts | **6563** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-10-19** |
 
@@ -365,11 +365,284 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Lion Attack at Zoo Cinematic Video
+### Extreme Close-Up Beauty Portrait
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a terrifying cinematic video of a woman being attacked by a lion at a zoo, featuring realistic physics and dramatic camera angles.
+> A prompt for creating a high-detail, slow-motion cinematic portrait focusing on eye movement and skin texture with moody lighting.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic extreme close-up portrait of a beautiful young woman with delicate facial features, captivating dark brown eyes, long curled eyelashes, subtle smoky eye makeup, and naturally glowing porcelain skin. The video begins with an extreme macro shot of her closed eyes, with loose strands of dark, slightly wet hair falling naturally across her face. Slowly, she opens her eyes, revealing deep, expressive brown irises, as the camera smoothly pulls back to reveal her full face. She wears elegant dangling silver earrings, with a few delicate strands of hair framing her cheeks. Her lips are slightly parted, creating a mysterious, emotional expression. Dark moody blue-black background, dramatic soft side lighting, subtle highlights reflecting in her eyes, realistic skin pores, delicate shadows, shallow depth of field, cinematic atmosphere, premium beauty campaign aesthetic, photorealistic details, smooth natural eye movement, slow camera movement, 85mm portrait lens, f/1.8, HDR, 8K quality, highly detailed eyelashes and irises, professional color grading, vertical composition, 9:16 aspect ratio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112049335458500608/img/FIrkhU4PbyO6yYLa.jpg" width="600" alt="Extreme Close-Up Beauty Portrait">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12712)**
+
+**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2112049364940263843) | **Published:** Oct 19, 2026
+
+---
+### Helicopter Trampoline Jump Video Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed prompt for generating a 15-second realistic video of a person jumping from a helicopter onto a trampoline on the sea and bouncing back up, specifically designed for Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+[Priority Reference Image & Name Fixing]
+@ image1 = Description Name: Protagonist
+The protagonist's identity, face, hairstyle, body type, costume, accessories, equipment, and shoe appearance standards.
+Use only the names fixed above in the subsequent text.
+15 seconds, 3:4 aspect ratio, photorealistic live-action, set over a bright blue sea during the day, continuous audio video. No scene cuts throughout the entire duration. Use character reference only for the protagonist's appearance; do not incorporate three-view diagrams, parallel displays, or text/sample layouts into the video. Maintain character identity, costumes, accessories, and physique throughout. No BGM, subtitles, captions, or logos.
+Characters: Protagonist, Crew A, Crew B, Crew C (4 total). A medium-sized civilian filming helicopter with a white fuselage and blue lines. Black skid landing gear, open wide side sliding door, external steps for boarding, dark gray interior. The helicopter maintains a constant altitude above the sea surface from start to finish. A coastline is visible in the distance, and a circular trampoline is placed on the sea surface far below. The protagonist stands on the external step outside the open door, looking at the distant trampoline below. Crew A stands near the door wearing a blue windbreaker, black life vest, and aviation communication headset. Crew B stands inside the aircraft near the door wearing an orange windbreaker, black life vest, and aviation communication headset. Crew C is deep inside the aircraft wearing a green windbreaker, black life vest, and aviation communication headset. All three crew members' faces are visible. The camera starts from the same filming position near the helicopter door, capturing the protagonist, three crew members, and the sea beyond the door with a slightly wide-angle lens. Do not change the camera's installation position; adjust its vertical orientation according to the fall and ascent. Wind noise and helicopter rotor sounds continue naturally throughout.
+0.0–3.0s: Crew A looks at the protagonist and smiles, asking "Ready?" The protagonist turns their face to Crew A, nods, then looks directly into the camera lens, showing tension and excitement mixed with a smile, saying energetically in natural Japanese, "Okay, I'm going!" The visible mouth movements of both parties match their respective full dialogue. Crew B raises a fist lightly while smiling, and Crew C smiles happily, leaning out slightly and nodding. After speaking, the protagonist takes a deep breath, looks down at the circular trampoline, kicks off the external step, and jumps out.
+3.0–6.2s: The moment the protagonist jumps out of the helicopter, Crew B shouts towards them, "Go!" The camera quickly turns downward while maintaining the filming position near the door, tracking the falling protagonist in the center of the frame. The protagonist extends their body as they fall, becoming smaller in the frame as the distance increases. The circular trampoline below becomes visible, and the protagonist approaches it aiming for the center. While the camera is pointed down, the three crew members are off-screen, but cheerful cheers can be heard from inside the aircraft. Rotor sounds and wind noises continue.
+6.2–7.7s: The protagonist lands near the center of the circular trampoline on the sea surface. The stretched jumping surface sinks significantly under the protagonist's weight, then strongly pushes back immediately after the descent stops. The camera remains pointing down, showing the landing, the sinking of the jumping surface, and the reversal to upward momentum due to rebound in one continuous shot. Impact sounds of landing and rebound are audible.
+7.7–11.6s: The protagonist bounces high towards the helicopter with the momentum of the rebound, pulling knees to chest to fold body small, spinning vigorously in mid-air. The camera adjusts upwards to match the rising protagonist from the same filming position. As the protagonist gets closer, they become larger in the frame, and the open door and external step become visible again. The protagonist rises rapidly all the way to just before the helicopter's external step, quickly unwinding the spin and extending legs at the moment of reaching the step, planting both feet firmly on the same external step they jumped from without hesitation. Upon landing, absorb shock with knees and immediately straighten upper body, returning to the same position, body orientation, and standing posture as at the beginning. Film the approach to the helicopter, unwinding of rotation, planting of both feet, and return to posture as a sharp, quick series of movements continuing seamlessly at normal speed. The helicopter's altitude above the sea surface does not change.
+11.6–15.0s: The camera returns to the initial orientation around the door. Crew A claps smilingly towards the protagonist. Crew B joyfully thrusts a fist up and shouts briefly, "Yay--!" Crew C looks at the protagonist, smiles, and claps hands. The protagonist, breathing heavily, turns face to camera lens, eyes shining, speaking brightly and naturally with excitement and joy of safe return: "Oh wow! Oh wow, that was awesome!" Match mouth movements of Crew B and protagonist with their respective full dialogue during speech. Final frame: Protagonist standing on the same initial external step, finishing talking to camera with excited expression, behind them Crew A and Crew C are clapping, and Crew B is rejoicing. End at 15 seconds with crew clapping and rotor sounds continuing.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112029649937252353/img/0tCnzv5dkI0fQFPc.jpg" width="600" alt="Helicopter Trampoline Jump Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12715)**
+
+**Author:** [M7［mi7］AI](https://x.com/mi7_crypto) | **Source:** [Link](https://x.com/mi7_crypto/status/2112029684594872632) | **Published:** Oct 19, 2026
+
+---
+### Silent Encounter Korean Drama Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for creating a moody, cinematic scene reminiscent of a Korean drama, focusing on tension and silent interaction between two women in an apartment hallway.
+
+#### 📝 Prompt
+
+```
+Create a 28-second ultra-realistic cinematic Korean drama featuring two beautiful young Korean women in a quiet, dimly lit apartment hallway. One woman has long, straight black hair and wears an elegant black outfit, while the other wears a sophisticated white pantsuit with a simple handbag. Begin with a mysterious rear shot of the woman in black walking slowly through a dark corridor illuminated by soft blue light. Transition into a beautifully detailed apartment hallway where both women walk past each other, creating a subtle atmosphere of tension and curiosity. Use cinematic close-ups, natural walking movements, realistic facial expressions, and smooth camera tracking to build suspense. Show a close-up of a wooden doorway and a subtle movement near the floor, followed by an empty hallway and a metallic elevator interior. Capture the woman in black standing quietly inside the elevator with a serious expression. End with the woman in white walking alone through the hallway, followed by a breathtaking close-up of her face outdoors, with her black hair moving gently in the breeze. Use soft natural lighting, muted colors, shallow depth of field, realistic skin texture, cinematic composition, smooth transitions, and professional Korean drama cinematography. Maintain consistent facial identities, hairstyles, outfits, and body proportions throughout the video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112012335745568768/img/7htU0qp0NJG1AW7B.jpg" width="600" alt="Silent Encounter Korean Drama Scene">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12710)**
+
+**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2112012480860000276) | **Published:** Oct 19, 2026
+
+---
+### Wildlife Park Crocodile Attack Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for generating a realistic, shaky-cam style video of a sudden crocodile attack at a wildlife park, featuring specific character references and camera behaviors.
+
+#### 📝 Prompt
+
+```
+【Video Specifications & Overall Style】
+
+9:16 vertical screen, 15 seconds, one continuous shot. Inside a Chinese wildlife park, a thrilling scene accidentally captured by a tourist with an ordinary phone. Initially calm, the photographer is startled half a beat late after a giant crocodile attacks; the camera shakes, pans off, then hurriedly finds the person again. Retain the realism of amateur phone footage.
+
+【Character & Reference Locking】
+
+The female protagonist uses preset adult Chinese female character #1 @598c0e35-7c27-4b7c-8bac-19bb206ff1c3, wearing preset outfit #2 @d57ec59a-c0a5-4eae-84f4-4f02ef21a92d. Strictly maintain the face, long hair, clothing style, color, and material from the reference. #1 is the person, #2 is the outfit; numbers do not appear in the frame.
+
+The administrator is a Chinese male around forty years old, with short black hair, wearing a khaki short-sleeved work uniform and dark trousers, with a work badge on his chest, standing behind and to the side of the female protagonist.
+
+There are a few adult Chinese tourists in the background, wearing summer casual clothes, standing naturally staggered on the boardwalk.
+
+【Scene & Camera Position】
+
+Tropical crocodile viewing area, an old wooden boardwalk extending along a deep green pool, with bamboo, palms, and shrubs on the opposite bank. Thick wooden railings extend diagonally from the bottom right of the frame to the background.
+
+The external photographer stands about one meter behind and to the side of the female protagonist, slightly higher than the position of her phone, shooting vertically downwards. The right side of the frame shows the female protagonist, the administrator, and the boardwalk; the left and bottom show the pool.
+
+Humid daytime, natural sunlight filtering through vegetation, slight green reflection on the water surface. Ordinary phone 1x main camera, slight hand shake, tilt, compression artifacts, noise in shadows, brief blur during rapid turns. No cinematic color grading, drone shots, or portrait bokeh.
+
+【Female Protagonist's Phone Orientation — Must Be Accurate】
+
+The female protagonist is using the rear-facing camera of her phone to film the crocodile in the water, not taking a selfie, nor showing the phone to the external photographer.
+
+She holds both ends of the phone horizontally with both hands, fingers avoiding the rear camera. The phone is located below her chest, near the outer edge of the railing, with the body clearly tilted downward. The direction of the rear lens accurately falls on the huge shadow underwater in the lower left.
+
+The phone screen faces up and slightly towards her face; the back of the phone and the rear lens face down, towards the water surface. She looks down at the screen, observing the target in the water through it.
+
+From the slightly elevated side-rear angle of the external photographer, mainly the phone screen and the side of the body should be seen, not the entire back of the phone and the camera module facing the external photographer.
+
+The content framed on the screen matches the real water surface: the same water surface and the same blurry shadow can be seen, without the female protagonist's selfie face, irrelevant scenery, or wrong direction.
+
+When the female protagonist slightly adjusts her wrist, the rear lens always follows the underwater shadow. Until the giant crocodile attacks, she retracts the phone due to shock, disrupting its orientation.
+
+【Giant Crocodile & First Frame State】
+
+Only one abnormally large dark gray-black crocodile. When leaping, its head approaches the size of an adult's upper body, and its open mouth occupies nearly half of the left side of the frame. Size refers to the original video; do not generate an ordinary small crocodile.
+
+In the first frame, the giant crocodile is completely submerged, presenting only a huge, blurry elongated shadow, like sunken wood. Water reflections and turbidity obscure details; the head, eyes, nostrils, scales, or teeth cannot be clearly identified, and no part breaks the surface.
+
+The giant crocodile maintains the same volume throughout, not suddenly expanding at the moment of leaping.
+
+【0–2 Seconds: Filming Underwater Shadow】
+
+The female protagonist stands inside the railing, leaning forward slightly, holding the phone horizontally with both hands, pointing the rear lens downwards at the huge shadow in the water in the lower left.
+
+She looks down at the screen facing herself; the shadow in the screen corresponds to the shadow in the pool. The external photographer captures the phone screen, the female protagonist's side profile, and the water surface below from her side-rear.
+
+The administrator seriously reminds:
+
+"Ma'am, step back a little, don't lean on the railing!"
+
+There are only slight ripples on the water surface; the crocodile has not yet emerged.
+
+【2–4 Seconds: Target Approaching, Phone Following】
+
+The huge underwater outline slowly approaches the female protagonist's position. She slightly rotates her wrists, keeping the rear lens aimed at the moving shadow, screen facing herself, not turning the back of the phone towards the external photographer.
+
+The administrator steps closer, reaching out to support her, tone becoming urgent:
+
+"That's not wood, it's alive! Don't lean out!"
+
+The female protagonist begins to retract her body, but the phone is still filming the water surface. At the end of this segment, the crocodile's nose tip and eyes just break the water.
+
+【4–6 Seconds: Giant Crocodile Attack】
+
+The giant crocodile suddenly bursts through the water surface, its huge head rising along the outside of the railing, its open mouth instantly occupying nearly half of the left side of the frame, bringing up large splashes.
+
+The female protagonist screams, hastily retracting her phone and arms. The phone orientation loses stability due to shock; it must have been correctly aimed at the crocodile before this.
+
+The giant crocodile briefly bites her forearm extended outside the railing and nearby fabric. The administrator immediately supports her upper arm and shoulder/back, stabilizing her center of gravity inside the railing.
+
+The external photographer retreats half a step in shock, the camera briefly jerks upwards, no cut or close-up of wounds.
+
+【6–9 Seconds: Escape & Falling into Water】
+
+The giant crocodile briefly releases its bite, head drops back, the female protagonist takes advantage to retract her injured forearm, the administrator pulls her to the inside of the boardwalk. The action must have a clear release, cannot let the arm pass through closed teeth.
+
+The phone slips from the female protagonist's hand, flips, and falls into the pool, falling only once.
+
+The giant crocodile slams back into the water, kicking up white splashes. The female protagonist covers her forearm, a small amount of red liquid seeps from the wound, forming short and thin streaks, staining the fabric at the contact point, with one or two drops falling onto the wooden boardwalk.
+
+Do not display deep wounds, no spraying, no heavy bleeding.
+
+The administrator shouts:
+
+"Step back! Don't reach out! Don't pick up the phone!"
+
+【9–11 Seconds: Tourists Panicking】
+
+The female protagonist retreats to the middle of the boardwalk, protecting her injured forearm, shoulders tense, breathing rapid.
+
+Nearby tourists first shrink their shoulders and retreat, pulling companions; tourists in the back turn around only after hearing the scream, some put away phones, some move aside, exclaiming in succession:
+
+"Retreat quickly!"
+
+"Don't lean on the railing!"
+
+Crowd reactions have time delays, not synchronized, no clipping, no falling into the pool. The giant crocodile stays underwater, no second attack.
+
+【11–13 Seconds: Administrator Evacuating】
+
+The administrator stands between the female protagonist and the railing, protecting her as she continues to retreat, gesturing for tourists to make way:
+
+"Move back! Everyone don't crowd!"
+
+A nearby tourist offers tissues, the female protagonist accepts and presses them against the same wound, the tissue gradually stains with a small amount of red.
+
+The photographer retreats slightly and corrects composition, capturing the female protagonist, administrator, and panicking retreating tourists simultaneously.
+
+【13–15 Seconds: Aftermath of Fear】
+
+The female protagonist covers her forearm, panting, voice trembling saying:
+
+"Scared me to death... It really bit!"
+
+The administrator still protects her, warily looking at the pool. Background tourists whisper warnings:
+
+"Stay far away, don't film!"
+
+Ends with the female protagonist still shaken, crowd retreating, water surface aftermath not yet settled.
+
+【On-site Audio】
+
+All audio is recorded live on the phone, Chinese dialogue, no music, narration, or subtitles.
+
+Start with low tourist chatter, bamboo leaf friction, and slight water sounds. The administrator's voice is near and clear, changing from serious reminder to urgent stop as danger occurs.
+
+Heavy water sound when crocodile emerges, female protagonist's scream, nearby gasps; followed by phone falling into water, splash landing, rapid panting, and messy footsteps. Largest splash and scream cause microphone clipping briefly, then automatic gain recovers.
+
+Distant tourist voices are more scattered and lighter, no monster roars added.
+
+【Continuity & Key Constraints】
+
+At the start, the female protagonist's phone must correctly film the underwater target: screen up and facing her, rear lens down aimed at the crocodile's location; external photographer mainly sees screen and sides. Prohibit rear lens facing external photographer while appearing to film underwater target.
+
+First frame only has blurry giant underwater shadow, no clear crocodile head, eyes, scales, or teeth. Red liquid appears only after biting.
+
+Maintain continuity of character #1, outfit #2, administrator, giant crocodile, and boardwalk. Injury is always on the same forearm, red streaks, fabric damage correspond to tissue press location.
+
+Only one phone, does not return to hand after falling. Female protagonist and administrator always inside railing, crocodile @d57ec59a-c0a5-4eae-84f4-4f02ef21a92d always in pool. Maintain causal relationships of contact, weight, bite, release, and retreat actions throughout.
+
+No wound close-ups, no amputations, no deep tissue display. Entire piece is one continuous shot, no slow motion, replays, studio reveals, UI overlays, or watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111969592058818560/img/-krKiLC99wPpxCu0.jpg" width="600" alt="Wildlife Park Crocodile Attack Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12714)**
+
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2111969616419303595) | **Published:** Oct 18, 2026
+
+---
+### Papercraft Whale Diorama Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for creating a 15-second animated papercraft diorama video featuring a colossal origami whale and a paper village, with specific camera shots and sound design.
+
+#### 📝 Prompt
+
+```
+Animated layered papercraft diorama, visible paper fibers and folds, deckled edges, parallax between paper layers, soft shadows, warm backlight glowing through thin paper, gentle handmade motion. Color grade: cream, dusty blue, terracotta, sage green, warm golden backlight.
+A colossal whale made of folded origami paper with crisp creases. A paper cut village of rooftops and windmills with tiny paper villagers flying kites.
+SHOT 1 (0 to 3s): Wide shot matching the reference image, the whale glides forward and its folded fins unfold and refold with crisp creasing motions, paper clouds sliding past in parallax layers.
+SHOT 2 (3 to 6s): Medium shot, 50mm lens, villagers on a hill tug their kite strings as the whale's shadow passes over them, windmill blades spinning faster in its wake.
+SHOT 3 (6 to 9s): Close-up, 85mm lens, the whale's eye, a small cut circle, blinks as backlight glows through the thin paper of its head, revealing faint printed text inside the folds.
+SHOT 4 (9 to 12s): Low angle tracking shot, 24mm lens, the whale dives toward the village and its tail sweeps a wave of paper confetti and paper birds out across the rooftops.
+SHOT 5 (12 to 15s): Extreme wide shot, 16mm lens, the whale rises into the sky and unfolds completely into a flat sheet that becomes a giant paper sun, lighting the whole village warmly.
+Rustling paper, soft crinkling folds, windmill creaks, a gentle whale call that sounds like a breath through paper, children laughing, music box and soft piano.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111878182143995904/img/MxkM_Z1EzpswyEpr.jpg" width="600" alt="Papercraft Whale Diorama Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12711)**
+
+**Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2111938622903800285) | **Published:** Oct 18, 2026
+
+---
+### Pink Supercar Transformation Action
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a surreal action sequence where a toy pink supercar transforms into a real one, leading to a drift through Tokyo streets.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic action sequence featuring a young woman with long black hair wearing a black oversized graphic T-shirt and black boots, sitting outside a suburban house holding a miniature pink supercar. Suddenly, the toy car magically transforms into a full-size, ultra-realistic pink supercar and launches into the air, flying through a quiet residential street before transitioning into a dramatic Tokyo-style urban intersection. The woman appears inside the driver's seat as the pink supercar drifts aggressively through the city, spinning across the crosswalk with realistic tire smoke, spinning wheels, cinematic motion blur, and reflections on the asphalt. The car accelerates through the intersection, leaving thick white smoke trails, then slides dramatically toward a brightly illuminated Japanese convenience store. Cut to a wide cinematic shot of the car drifting outside the store as pedestrians react in surprise. Final scene: the woman walks confidently out of the convenience store entrance, surrounded by scattered groceries and glass reflections, while the pink supercar remains visible in the background.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111703894468460544/img/Bgm8jv1RtgL6qRWR.jpg" width="600" alt="Pink Supercar Transformation Action">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12713)**
+
+**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2111703937669894630) | **Published:** Oct 18, 2026
+
+---
+### Zoo Lion Attack Cinematic Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a tense, realistic video of a woman visiting a zoo who suddenly encounters a charging lion.
 
 #### 📝 Prompt
 
@@ -377,7 +650,7 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 Create a 20-second cinematic, ultra-realistic AI video featuring a young Korean woman with long, dark, slightly wavy hair, wearing a white blouse and dark pants. Begin with a close-up of her sitting beside a window, looking thoughtfully at her smartphone in soft natural daylight. Transition to an outdoor zoo setting where she stands near a railing, casually using her phone while observing the surroundings. Show her approaching the lion enclosure and raising her smartphone to capture a photo of a majestic lion below. Suddenly, the lion charges toward her, creating a tense and unexpected moment. She drops her phone and struggles to escape as the lion lunges at her inside the enclosure. Capture her frightened expressions, realistic body movements, flying dust, and the lion's powerful motion. Use dynamic camera angles, smooth cinematic transitions, natural sunlight, realistic shadows, and detailed environmental textures. Maintain consistent facial features, hairstyle, clothing, and body proportions throughout the video, with dramatic pacing and photorealistic quality.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111646630105710593/img/tb_UxKERUj2WSE5S.jpg" width="600" alt="Lion Attack at Zoo Cinematic Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111646630105710593/img/tb_UxKERUj2WSE5S.jpg" width="600" alt="Zoo Lion Attack Cinematic Video">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12677)**
 
@@ -690,29 +963,29 @@ Create a 15-second surrealist cinematic combat sequence inside a dimly lit indus
 **Author:** [hxhxhx0916](https://x.com/hxhxhx0916) | **Source:** [Link](https://x.com/hxhxhx0916/status/2110911411295748373) | **Published:** Oct 16, 2026
 
 ---
-### Helicopter Jump Action Sequence
+### Seedance 2.0 Helicopter Trampoline Stunt Prompt
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A prompt for generating a 15-second realistic video of a character jumping from a helicopter onto a trampoline and back up, featuring specific camera movements and dialogue.
+> A detailed video generation prompt for Seedance 2.0 creating a realistic 15-second scene of a person jumping from a helicopter onto a trampoline and bouncing back up, featuring specific camera movements, character dialogue, and physics interactions.
 
 #### 📝 Prompt
 
 ```
 [Priority Reference Image & Name Fixation]
-@image1 = Description Name: Protagonist
+@image1 = Descriptive Name: Protagonist
 The protagonist's identity, face, hairstyle, body type, clothing, accessories, equipment, and shoe appearance standards.
-Use only the names fixed above in the subsequent text.
-15 seconds, 3:4 aspect ratio, photorealistic live-action, set over a bright blue sea during the day, continuous video with audio. No screen cuts throughout. Use the person reference only for the protagonist's appearance; do not incorporate three-view table expressions or text/sample layouts into the video. Maintain the person's identity, clothing, accessories, and physique throughout. No BGM, subtitles, captions, or logos.
-Characters include the Protagonist, Crew A, Crew B, and Crew C (total 4). A civilian medium-sized filming helicopter with a white body and blue lines. Black skid landing gear, wide open side sliding door, external step for boarding/alighting, dark gray interior. The helicopter maintains a constant altitude above the sea surface from start to finish. A coastline is visible in the distance, and a circular trampoline is placed far below on the sea surface. The protagonist stands on the external step outside the open door, looking at the distant trampoline. Crew A stands near the door wearing a blue windbreaker, black life vest, and aviation communication headset. Crew B stands near the door inside the cabin wearing an orange windbreaker, black life vest, and aviation communication headset. Crew C is deep inside the cabin wearing a green windbreaker, black life vest, and aviation communication headset. All three crew members' faces are visible. The camera starts from the same shooting position near the helicopter door, capturing the protagonist, the three crew members, and the sea beyond the door with a slightly wide angle. Do not change the camera's installed position; adjust its orientation up and down according to falling and rising. Wind sounds and helicopter rotor sounds continue naturally throughout.
-0.0–3.0s: Crew A looks at the protagonist and asks with a smile, "Are you ready?" The protagonist turns their face to Crew A and nods, then looks directly into the camera lens, showing tension and excitement in their smile, and says vigorously in natural Japanese, "Okay, I'm going!" The visible mouths of both match their respective full dialogue lines. Crew B smiles and lightly raises a fist; Crew C laughs happily and leans out slightly, nodding. After speaking, the protagonist takes a deep breath, looks down at the circular trampoline, kicks off the external step, and jumps out.
-3.0–6.2s: At the moment the protagonist jumps out of the helicopter, Crew B shouts towards the protagonist, "Go!" The camera quickly turns downward while maintaining the shooting position near the door, tracking the protagonist falling into the sea near the center of the frame. The protagonist stretches their body and falls, becoming smaller in the frame as the distance increases. The circular trampoline below becomes visible, and the protagonist approaches aiming for its center. While the camera is pointed down, the three crew members are off-screen, but cheerful cheers can be heard from inside the aircraft. Rotor sound and wind sound continue.
-6.2–7.7s: The protagonist lands near the center of the circular trampoline on the sea surface. The stretched jump surface sinks significantly under the protagonist's weight, pushing back strongly immediately after the descent stops. The camera remains pointing down, showing the protagonist's landing, the sinking of the jump surface, and the reversal to ascent due to rebound in one continuous shot. Impact and rebound sounds are heard upon landing.
-7.7–11.6s: The protagonist bounces high towards the helicopter using the rebound force, pulling knees to chest, folding body small, and spinning vigorously in mid-air. The camera turns upward at the same shooting position to match the rising protagonist. As the protagonist gets closer, they become larger in the frame, and the open door and external step become visible again. The protagonist unwinds the spin, extends legs, returns both feet to the same external step they jumped from, and stands stably in the same position, body orientation, and posture as at the beginning. The helicopter's altitude above the sea does not change.
-11.6–15.0s: The camera returns to the same orientation around the door as at the beginning. Crew A claps smilingly towards the protagonist. Crew B joyfully thrusts a fist up and shouts briefly, "Yay--!" Crew C looks at the protagonist, smiles, and claps hands. The protagonist, breathing heavily, turns their face to the camera lens, eyes shining, and speaks in a bright, natural voice filled with excitement and joy about returning safely: "Oh my god! Oh my god, that was amazing!" During Crew B and the protagonist's speech, mouth movements must match their respective full dialogue lines. The final frame shows the protagonist standing on the initial external step, having finished speaking to the camera with an excited expression, while Crew A and Crew C clap in the background and Crew B rejoices. End at 15 seconds with crew applause and rotor sounds continuing.
+In the subsequent text, only use the names fixed above.
+15 seconds, 3:4 aspect ratio, photorealistic live-action, set on a bright blue sea during the day, continuous video with audio. No screen cuts throughout. Use character reference only for the protagonist's appearance; do not incorporate three-view diagrams or text/sample layouts into the video. Maintain character identity, clothing, accessories, and physique throughout. No BGM, subtitles, captions, or logos.
+Characters include the Protagonist, Crew A, Crew B, and Crew C (total 4). A white medium-sized civilian filming helicopter with blue lines. Black skid landing gear, wide open side sliding door, external steps for boarding, dark gray interior. The helicopter maintains a constant altitude above the sea surface from start to finish. Coastline visible in the distance, circular trampoline placed far below on the sea surface. The protagonist stands on the external step outside the open door, looking at the distant trampoline. Crew A stands near the door wearing a blue windbreaker, black life vest, and aviation communication headset. Crew B stands inside near the door wearing an orange windbreaker, black life vest, and aviation communication headset. Crew C is deep inside the cabin wearing a green windbreaker, black life vest, and aviation communication headset. Faces of all 3 crew members are visible. Camera starts from the same shooting position near the helicopter door, slightly wide-angle, capturing the protagonist and 3 crew members, and the sea beyond the door. Do not change the camera position; tilt up and down according to falling and rising. Wind noise and helicopter rotor sounds continue naturally throughout.
+0.0-3.0s: Crew A looks at the protagonist with a smile and asks "Ready?". The protagonist nods to Crew A, then looks directly into the camera lens, showing tension and excitement in their smile, and says energetically in natural Japanese "Alright, I'm going!". Visible mouth movements match the full dialogue. Crew B smiles and lightly raises a fist, Crew C laughs happily and leans out slightly nodding. After speaking, the protagonist takes a deep breath, looks at the circular trampoline below, kicks off the external step, and jumps out.
+3.0-6.2s: As the protagonist jumps out, Crew B shouts "Go!" towards them. The camera quickly tilts down while maintaining the shooting position near the door, tracking the protagonist falling into the sea near the center of the frame. The protagonist stretches their body while falling, becoming smaller in the frame as distance increases. The circular trampoline below becomes visible, and the protagonist approaches its center. While the camera is tilted down, the 3 crew members are out of frame, but cheerful cheers can be heard from inside the cabin. Rotor and wind sounds continue.
+6.2-7.7s: The protagonist lands near the center of the circular trampoline on the sea surface. The stretched jumping surface sinks significantly under the protagonist's weight, then strongly pushes back immediately after descent stops. The camera remains tilted down, showing the landing, sinking, and reversal to ascent as one continuous motion. Impact and rebound sounds are audible.
+7.7-11.6s: The protagonist bounces high towards the helicopter due to the rebound force, pulling knees to chest, folding body small, and rotating vigorously in mid-air. The camera tilts up to follow the rising protagonist from the same position. The protagonist grows larger in the frame as they approach, revealing the open door and external steps again. The protagonist unwinds the rotation, extends legs, returns both feet to the same external step they jumped from, and stands stably in the same position, orientation, and posture as the beginning. Helicopter altitude above sea surface remains unchanged.
+11.6-15.0s: Camera returns to the initial orientation around the door. Crew A claps smilingly towards the protagonist. Crew B joyfully raises a fist and shouts "Yay!!" briefly. Crew C claps hands smilingly while looking at the protagonist. The protagonist, breathing heavily, turns face to camera lens, eyes sparkling, expressing excitement and joy of safe return by saying brightly and naturally "Amazing! Amazing, it was awesome!". During speech by Crew B and Protagonist, mouth movements match full dialogue. Final frame shows protagonist standing on the same initial external step, finishing speech to camera with excited expression, behind them Crew A and C clapping, Crew B rejoicing. Clapping and rotor sounds continue until end at 15 seconds.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110874497792573441/img/JxHJnlKIe6vqYRbF.jpg" width="600" alt="Helicopter Jump Action Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2110874497792573441/img/JxHJnlKIe6vqYRbF.jpg" width="600" alt="Seedance 2.0 Helicopter Trampoline Stunt Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12587)**
 
@@ -5439,191 +5712,6 @@ blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, waterma
 **Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2105490567601995924) | **Published:** Oct 1, 2026
 
 ---
-### Lost Wind Chime Anime Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Detailed prompt for Seedance 2.0 to generate an anime short film based on a storyboard, emphasizing visual consistency and emotional beats.
-
-#### 📝 Prompt
-
-```
-TITLE
-The Lost Wind Chime
-
-REFERENCE
-Use the uploaded storyboard board and character sheet as the main visual reference.
-
-Keep all character designs, environment details, wind chime design, kitten appearance, countryside lighting, and emotional story beats consistent with the provided references.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105278709301383168/img/42PGLSXmI_6k8b-Y.jpg" width="600" alt="Lost Wind Chime Anime Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11714)**
-
-**Author:** [Thea Vales](https://x.com/codesthea) | **Source:** [Link](https://x.com/codesthea/status/2105278815346065805) | **Published:** Sep 30, 2026
-
----
-### Seedance 2 Travel Video Prompt: Balcony Scene with Wind Interaction
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed video generation prompt for Seedance 2 that creates a realistic 10-second travel vlog style clip of an Asian woman on a hotel balcony. It includes specific instructions for maintaining character consistency from a reference image and choreographing a natural interaction with wind blowing a napkin.
-
-#### 📝 Prompt
-
-```
-Maintain the facial features, hairstyle, blue and white floral slip dress, body proportions, balcony, table items, and seascape environment consistent with the reference image. Do not change the face or clothing.
-
-A 10-second realistic travel snapshot video, as if casually filmed by a friend on a hotel balcony.
-
-At the start, a young Asian woman sits naturally on the balcony sofa, looking sideways quietly at the distant sea and sunset. The sea breeze gently blows her long hair and skirt hem. She blinks naturally, and her body has slight breathing movements.
-
-Around the 3rd second, a sudden stronger sea breeze comes from the side, blowing up a thin napkin on the table, sliding it along the table towards the balcony edge. The girl is momentarily stunned, looks down, sees it, and instinctively reaches out quickly to grab it.
-
-Around the 5th second, she almost misses catching it, leaning forward slightly, with her hair also blown messy by the wind. Finally, she successfully grabs the napkin, smiles down first, then leans back into the sofa with a hint of helpless expression.
-
-For the last 2 seconds, she presses the napkin on the table, uses one hand to smooth her wind-blown hair, then looks up at the distant sunset again, still smiling lightly at the corners of her mouth.
-
-Keep the entire sequence with a realistic handheld phone camera feel. Slight handheld shake, no orbiting, no fast zooms, only allow very slow and natural forward push-in. Sea sparkle, distant sailboats, curtains, and hair strands maintain natural movement.
-
-Emphasize realistic human motion and gravity inertia. Facial stability throughout, normal fingers, stable skirt structure, no deformation of the table or drinks.
-
-Avoid: Character suddenly standing up, exaggerated laughing, napkin flying too high, large body distortions, face drifting, face swapping, finger deformities, clothing changes, sudden disappearance of table items, strong cinematic camera moves.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105274287473225728/img/esgfZa1DcyQkpeXR.jpg" width="600" alt="Seedance 2 Travel Video Prompt: Balcony Scene with Wind Interaction">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11720)**
-
-**Author:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2105274634786767041) | **Published:** Sep 30, 2026
-
----
-### Bride Escapes Wedding in Vintage Car
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video prompt for Seedance 2.0 generating a comedic scene of a bride running away from her wedding and peeling out in a red vintage car, featuring specific camera movements and style instructions.
-
-#### 📝 Prompt
-
-```
-Use the character sheet as the visual reference. Preserve the bride’s exact face, hairstyle, dress, body proportions, and accessories throughout the entire video. 16:9 landscape.
-
-0–3 sec — THE ESCAPE
-A church wedding is happening when the bride suddenly bursts through the giant church doors and sprints down the steps, still holding her bouquet. Her expression is determined but hilariously excited. Her veil and dress fly wildly behind her. Camera rapidly tracks backward in front of her as she runs. A few confused wedding guests appear in the background, realizing what is happening.
-3–5 sec — GET TO THE CAR
-She spots a bright red 1950s vintage car waiting at the curb. She kicks off one white bridal heel while running, then throws herself toward the driver's door. Fast whip-pan follows her movement.
-
-5–8 sec — PEEL OUT
-She jumps into the car, slams the door, starts the engine and PEELS AWAY at ridiculous speed. Tires squeal, a tiny cloud of smoke appears, and her long white veil gets caught in the closing door and streams dramatically behind the car. The bouquet lands on the passenger seat.
-8–11 sec — CHAOS
-Rapid comedic interior cuts:
-Bride gripping the steering wheel and laughing → her veil whipping around her face → bouquet bouncing around the passenger seat → her other bridal heel flying through the air → wedding guests running helplessly behind the disappearing car.
-
-11–15 sec — SHE’S FREE
-Dynamic side tracking shot of the red car racing down a sunny vintage highway. The bride drives one-handed, completely carefree. She looks into the rearview mirror, sees the church disappearing in the distance, grins, then blows a huge pink bubblegum bubble.
-Final frame:
-The red car speeds toward the horizon, veil flying behind it.
-
-Style: fast-paced physical comedy, playful rebellious energy, 1950s Americana, saturated red vintage car, creamy white wedding dress, warm golden sunlight, cinematic vintage film grain, slightly painterly realism, realistic motion, energetic camera movement, whip pans, quick cuts, exaggerated but believable comedy.
-Important: No slow motion, no sad mood, no dramatic romance, no dialogue, no text, no extra brides, no face changes, no outfit changes, no distorted hands, no morphing.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105227546409246720/img/t7RT8ssTY9gAxD5E.jpg" width="600" alt="Bride Escapes Wedding in Vintage Car">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11715)**
-
-**Author:** [Caden Flux](https://x.com/Caden_Flux) | **Source:** [Link](https://x.com/Caden_Flux/status/2105228156085137501) | **Published:** Sep 30, 2026
-
----
-### Chocolate Strawberry Cake Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt for generating a photorealistic close-up video of a gourmet chocolate strawberry cake with dripping fudge, suitable for food content or advertising.
-
-#### 📝 Prompt
-
-```
-A photorealistic close-up shot of a gourmet chocolate strawberry cake with dripping fudge on a marble table, cozy cafe atmosphere
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105215993165570048/img/WnK1fBpmIu8fWBEx.jpg" width="600" alt="Chocolate Strawberry Cake Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11718)**
-
-**Author:** [Anni](https://x.com/AnneYu99) | **Source:** [Link](https://x.com/AnneYu99/status/2105216117669339237) | **Published:** Sep 30, 2026
-
----
-### Seedance 2.0 Cinematic Optical Zoom Video Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed video generation prompt for Seedance 2.0 featuring a cinematic optical zoom technique in an ancient Jiangnan town setting, focusing on character interaction and realistic camera physics.
-
-#### 📝 Prompt
-
-```
-[Global Settings]
-Ancient-style realistic cinematic shot, Eastern classical life narrative, Jiangnan ancient town after rain: bluestone steps, blue bricks and black tiles, wooden corridors, carved wooden doors, bamboo curtains, wet stone alleys. Soft diffused light under cloudy skies, low contrast, fusion of cold gray-green and warm wood tones, slight 35mm film grain, realistic skin, wood, stone, and fabric textures, cinematic shallow depth of field, 8K, 16:9.
-
-Female Lead A: Image 1
-Female Lead B: Image 2
-
-Strictly maintain character identity, spatial position, left-right relationship, direction of movement, weather, lighting, and color tone continuity throughout the video.
-
-[Core Cinematography Technique]
-The entire video uses "progressive optical zoom" as the sole core camera movement. The camera remains as fixed as possible, relying not on physical movement but on slow, continuous optical push-ins and pull-outs to change the characters' screen proportion and spatial relationships. Maintain real lens compression, depth of field changes, and optical characteristics; prohibit digital cropping. Foreground occlusion, shallow depth of field, and focus shifts assist the narrative, forming "discovery from afar -> eye contact across the alley -> spatial compression -> emotional confirmation."
-
-[0-4s]
-Medium shot start, 35mm, fixed camera, eye level. Female Lead A slowly descends along the bluestone steps to the alley entrance, stops, turns, and looks up, seeing Female Lead B under the distant corridor eaves. The shot begins with a wider environmental relationship composition, only slowly optically pushing in, gradually tightening to a medium shot of Female Lead A, with no camera movement.
-
-Town pedestrians pass horizontally through the foreground from left and right, creating natural blurred occlusions at close range, while Female Lead A remains clear; exposure, color temperature, and light/shadow remain stable during occlusion. The zoom continues smoothly and restrainedly, finally forming an eye contact between Female Lead A and Female Lead B across the alley.
-
-[4-9s]
-Continuing from the previous segment, the camera position remains completely unchanged. Female Lead B slowly enters from the right foreground, approaching the wooden corridor pillar, forming a natural foreground frame with the pillar; Female Lead A is deep in the left-middle alley.
-
-Slow continuous optical zoom, Female Lead A initially remains clear, then the shot gradually tightens, Female Lead B's foreground proportion increases, and Female Lead A recedes into the background with soft blur. Gradually entering the telephoto end, real space compression makes the depth of the ancient alley appear compressed; the actual distance between the two remains unchanged, but the visual distance is clearly shortened. Focus shifts smoothly from Female Lead A to Female Lead B, ending with Female Lead B's side profile clear and Female Lead A blurred. No lateral movement, panning, or orbiting; exposure and tone are continuous.
-
-[9-13s]
-Maintain fixed camera and telephoto relationship. Female Lead B stands by the wooden corridor pillar, slowly turning to look at Female Lead A. Perform only one extremely slow optical push-in, tightening from a two-person relationship composition to a medium close-up of Female Lead B. Retain a partial blurred outline of Female Lead A on the left side of the screen, forming a peeping-style foreground frame.
-
-Female Lead B becomes the main focus, looking at Female Lead A, pausing briefly before softly saying: "Long time no see." Showing a faint smile. Bamboo curtains are blown by the gentle post-rain breeze, water drops fall naturally from the eaves, and wet bluestone reflects soft sky light. The camera advances steadily, ending in close-range emotional confirmation.
-
-[Camera Control]
-The core must be "optical zoom creating narrative distance changes," rather than camera movement. Camera language completes sequentially: environment establishment -> discovery of Female Lead A -> slow tightening -> Female Lead B enters foreground -> telephoto space compression -> focus shift -> emotional confirmation. Zoom speed is slow and continuous, with real lens inertia; maintain natural character proportions, real depth of field, and stable exposure, clearly presenting the optical zoom feel without cheap digital enlargement.
-
-[Continuity and Negative Constraints]
-Strictly follow character cards, prohibit drift in appearance, hairstyle, or clothing; maintain consistency in spatial geographic relationships, left/right positions, movement directions, and light directions. Prohibit modern buildings, vehicles, road signs, modern objects, subtitles, watermarks; prohibit adding major characters, character duplication, limb abnormalities, or identity swaps. Prohibit lateral movement, orbiting, sudden panning, drone movement, strong handheld shake, digital zoom, digital cropping, perspective anomalies, focal length jumps, instant depth of field cuts, exposure flickering, color temperature drift, excessive fogging, excessive smoothing, AI plastic skin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105198910453248000/img/jA-Hhk-O30nR6Tli.jpg" width="600" alt="Seedance 2.0 Cinematic Optical Zoom Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11721)**
-
-**Author:** [灰度笔记](https://x.com/GrayNoteLab) | **Source:** [Link](https://x.com/GrayNoteLab/status/2105199106578870298) | **Published:** Sep 30, 2026
-
----
-### Cinematic Wuxia Night Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a 30-second cinematic wuxia-style video featuring a female warrior in an ancient Chinese village at night with glowing lanterns and sword combat.
-
-#### 📝 Prompt
-
-```
-Create a 30-second cinematic, ultra-realistic wuxia-style video set at night in an ancient Chinese village, with traditional wooden buildings, a stone-paved street, a small arched bridge, misty mountains in the background, and many glowing red lanterns hanging along the street. A beautiful young woman in an elegant flowing red traditional Chinese Hanfu walks calmly toward the camera, with long dark hair styled traditionally and a serious, confident expression. As she moves closer, the camera slowly pushes in and follows her naturally, capturing the lantern light, fabric movement, atmospheric mist, and realistic footsteps. Around the middle of the scene, she suddenly stops and confidently draws a glowing red magical sword, holding it horizontally in front of her while her expression becomes focused and powerful. The camera moves into a dramatic close-up of her face and sword, showing realistic skin texture, detailed hair, glowing reflections, and cinematic depth of field. Several mysterious black-clothed attackers appear around her, rushing toward her from different directions, creating a tense martial-arts atmosphere. She swiftly turns and performs powerful choreographed sword movements, blocking and striking the attackers with fast but believable movements while the glowing sword leaves subtle red light trails. The attackers are knocked down onto the stone street around her, while she remains standing confidently in the center with her sword raised, surrounded by red lanterns and light mist. End with a wide cinematic shot slowly pulling back to reveal the woman standing alone among the fallen attackers, ancient village buildings and mountains behind her, maintaining consistent character appearance, realistic motion, cinematic lighting, detailed textures, dramatic atmosphere, smooth camera movement, 16:9 aspect ratio, 30 seconds, no text, no watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105162066277568512/img/ylAZwfteWys8V_NP.jpg" width="600" alt="Cinematic Wuxia Night Scene">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11624)**
-
-**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2105162931847807476) | **Published:** Sep 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -5685,6 +5773,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-19T03:43:50.679Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-19T09:57:52.774Z</sub>
 
 </div>

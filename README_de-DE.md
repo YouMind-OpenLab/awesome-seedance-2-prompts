@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6557** |
+| 📝 Gesamtanzahl Prompts | **6563** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-10-19** |
 
@@ -361,6 +361,279 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Extremes Nahaufnahme-Schönheitsporträt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines hochdetaillierten, zeitrafferartigen kinematografischen Porträts mit Fokus auf Augenbewegungen und Hauttextur bei stimmungsvoller Beleuchtung.
+
+#### 📝 Prompt
+
+```
+Ultra-realistisches kinematografisches Extreme-Close-Up-Porträt einer schönen jungen Frau mit zarten Gesichtszügen, faszinierenden dunkelbraunen Augen, langen gewellten Wimpern, dezentem Smokey-Eye-Make-up und natürlich strahlender Porzellanhaut. Das Video beginnt mit einer extremen Makroaufnahme ihrer geschlossenen Augen, wobei lose Strähnen ihres dunklen, leicht feuchten Haares natürlich über ihr Gesicht fallen. Langsam öffnet sie ihre Augen und gibt tiefe, ausdrucksstarke braune Irisstrukturen frei, während die Kamera sanft zurückfährt, um ihr gesamtes Gesicht zu zeigen. Sie trägt elegante hängende silberne Ohrringe, mit einigen zarten Haarsträhnen, die ihre Wangen umrahmen. Ihre Lippen sind leicht geöffnet und erzeugen einen mysteriösen, emotionalen Ausdruck. Dunkler, stimmungsvoll blau-schwarzer Hintergrund, dramatische weiche Seitenbeleuchtung, subtile Lichtreflexionen in ihren Augen, realistische Poren, zarte Schatten, geringe Schärfentiefe, kinematografische Atmosphäre, Ästhetik einer Premium-Kampagne für Schönheitsprodukte, fotorealistische Details, flüssige natürliche Augenbewegungen, langsame Kamerabewegung, 85-mm-Porträtobjektiv, f/1.8, HDR, 8K-Qualität, hochdetaillierte Wimpern und Irisstrukturen, professionelle Farbkorrektur, vertikale Komposition, Seitenverhältnis 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112049335458500608/img/FIrkhU4PbyO6yYLa.jpg" width="600" alt="Extremes Nahaufnahme-Schönheitsporträt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12712)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2112049364940263843) | **Veröffentlicht:** Oct 19, 2026
+
+---
+### Helikopter-Trampolin-Sprung Video-Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein detaillierter Prompt zur Generierung eines 15-sekündigen, fotorealistischen Videos einer Person, die von einem Helikopter auf ein Trampolin über dem Meer springt und zurückfedert. Speziell entwickelt für Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+[Priorisierte Referenzbild- & Namensfixierung]
+@ image1 = Beschreibungsname: Protagonist
+Die Identität, das Gesicht, die Frisur, der Körpertyp, das Kostüm, die Accessoires, die Ausrüstung und die Schuhoptik des Protagonisten sind festgelegt.
+Verwenden Sie im nachfolgenden Text ausschließlich die oben fixierten Namen.
+15 Sekunden, Seitenverhältnis 3:4, fotorealistische Live-Action-Aufnahme, tagsüber über einem hellblauen Meer, kontinuierliches Audio-Video. Keine Szenenschnitte während der gesamten Dauer. Verwenden Sie die Charakterreferenz nur für das Aussehen des Protagonisten; integrieren Sie keine Dreiseitenansichten, parallele Displays oder Text-/Musterlayouts in das Video. Bewahren Sie die Identität, die Kostüme, die Accessoires und die Statur des Charakters durchgehend bei. Keine BGM, Untertitel, Bildunterschriften oder Logos.
+Charaktere: Protagonist, Crew A, Crew B, Crew C (insgesamt 4). Ein mittelgroßer ziviler Film-Helikopter mit weißem Rumpf und blauen Linien. Schwarzes Kufen-Landegestell, offene breite Seitenschiebetür, externe Einstiegsstufen, dunkelgrauer Innenraum. Der Helikopter hält vom Anfang bis zum Ende eine konstante Höhe über der Meeresoberfläche. Eine Küstenlinie ist in der Ferne sichtbar, und ein kreisförmiges Trampolin ist weit unten auf der Meeresoberfläche platziert. Der Protagonist steht auf der externen Stufe außerhalb der offenen Tür und blickt auf das ferne Trampolin unter sich. Crew A steht nahe der Tür und trägt eine blaue Windbreaker-Jacke, eine schwarze Schwimmweste und ein Aviation-Kommunikationsheadset. Crew B steht innerhalb des Flugzeugs nahe der Tür und trägt eine orangefarbene Windbreaker-Jacke, eine schwarze Schwimmweste und ein Aviation-Kommunikationsheadset. Crew C befindet sich tief im Inneren des Flugzeugs und trägt eine grüne Windbreaker-Jacke, eine schwarze Schwimmweste und ein Aviation-Kommunikationsheadset. Die Gesichter aller drei Crew-Mitglieder sind sichtbar. Die Kamera startet von derselben Aufnahmeposition nahe der Helikoptertür und erfasst den Protagonisten, die drei Crew-Mitglieder und das Meer jenseits der Tür mit einem leicht Weitwinkelobjektiv. Ändern Sie nicht die Installationsposition der Kamera; passen Sie ihre vertikale Ausrichtung entsprechend dem Fall und Aufstieg an. Windgeräusche und Helikopter-Rotorgeräusche setzen sich natürlich fort.
+0,0–3,0 s: Crew A sieht den Protagonisten an und lächelt, fragt "Bereit?" Der Protagonist dreht sein Gesicht zu Crew A, nickt, blickt dann direkt in die Kamera und zeigt Spannung und Aufregung gemischt mit einem Lächeln, sagt energisch in natürlichem Japanisch: "Okay, ich gehe!" Die sichtbaren Mundbewegungen beider Parteien entsprechen ihrem jeweiligen vollständigen Dialog. Crew B hebt leicht eine Faust, während sie lächelt, und Crew C lächelt glücklich, lehnt sich leicht heraus und nickt. Nach dem Sprechen atmet der Protagonist tief durch, blickt auf das kreisförmige Trampolin hinab, stößt sich von der externen Stufe ab und springt hinaus.
+3,0–6,2 s: In dem Moment, als der Protagonist aus dem Helikopter springt, ruft Crew B ihm zu: "Los geht's!" Die Kamera schwenkt schnell nach unten, behält die Aufnahmeposition nahe der Tür bei und verfolgt den fallenden Protagonisten in der Mitte des Bildes. Der Protagonist streckt seinen Körper beim Fallen aus und wird im Bild kleiner, da die Distanz zunimmt. Das kreisförmige Trampolin unten wird sichtbar, und der Protagonist nähert sich diesem mit Ziel auf die Mitte. Während die Kamera nach unten gerichtet ist, sind die drei Crew-Mitglieder außerhalb des Bildes, aber fröhliche Jubelrufe sind aus dem Inneren des Flugzeugs zu hören. Rotorgeräusche und Windgeräusche setzen sich fort.
+6,2–7,7 s: Der Protagonist landet nahe der Mitte des kreisförmigen Trampolins auf der Meeresoberfläche. Die gedehnte Sprungfläche sinkt erheblich unter dem Gewicht des Protagonisten zusammen und drückt sofort nach Beendigung des Absinkens stark zurück. Die Kamera bleibt nach unten gerichtet und zeigt die Landung, das Einsinken der Sprungfläche und die Umkehrung in einen Aufwärtsimpuls aufgrund des Abprallens in einer einzigen kontinuierlichen Aufnahme. Einschlaggeräusche der Landung und des Abprallens sind hörbar.
+7,7–11,6 s: Der Protagonist federt mit dem Impuls des Abprallens hoch zum Helikopter, zieht die Knie zur Brust, um den Körper klein zu falten, und dreht sich kräftig in der Luft. Die Kamera passt sich nach oben an, um den aufsteigenden Protagonisten von derselben Aufnahmeposition aus zu folgen. Als der Protagonist näher kommt, wird er im Bild größer, und die offene Tür und die externe Stufe werden wieder sichtbar. Der Protagonist steigt rasch bis kurz vor die externe Stufe des Helikopters auf, löst schnell die Drehung auf und streckt die Beine im Moment des Erreichens der Stufe, stellt beide Füße fest auf dieselbe externe Stufe, von der er gesprungen war, ohne zu zögern. Bei der Landung absorbiert er den Stoß mit den Knien und richtet den Oberkörper sofort auf, kehrt in dieselbe Position, Körperorientierung und Stehhaltung wie am Anfang zurück. Filmen Sie die Annäherung an den Helikopter, das Auflösen der Rotation, das Aufstellen der Füße und die Rückkehr zur Haltung als eine scharfe, schnelle Serie von Bewegungen, die nahtlos mit normaler Geschwindigkeit fortgesetzt werden. Die Höhe des Helikopters über der Meeresoberfläche ändert sich nicht.
+11,6–15,0 s: Die Kamera kehrt zur ursprünglichen Ausrichtung um die Tür herum zurück. Crew A klatscht lächelnd Richtung Protagonist. Crew B stößt freudig eine Faust nach oben und ruft kurz: "Juhu--!" Crew C sieht den Protagonisten an, lächelt und klatscht in die Hände. Der Protagonist, schwer atmend, dreht sein Gesicht zur Kamera, Augen leuchtend, spricht hell und natürlich mit Aufregung und Freude über die sichere Rückkehr: "Oh wow! Oh wow, das war großartig!" Passen Sie die Mundbewegungen von Crew B und dem Protagonisten während des Sprechens an ihren jeweiligen vollständigen Dialog an. Letztes Bild: Protagonist steht auf derselben anfänglichen externen Stufe, beendet das Sprechen zur Kamera mit aufgeregt Ausdruck, hinter ihm klatschen Crew A und Crew C, und Crew B jubelt. Ende bei 15 Sekunden mit weiterem Klatschen der Crew und anhaltenden Rotorgeräuschen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112029649937252353/img/0tCnzv5dkI0fQFPc.jpg" width="600" alt="Helikopter-Trampolin-Sprung Video-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12715)**
+
+**Autor:** [M7［mi7］AI](https://x.com/mi7_crypto) | **Quelle:** [Link](https://x.com/mi7_crypto/status/2112029684594872632) | **Veröffentlicht:** Oct 19, 2026
+
+---
+### Stille Begegnung: Koreanisches Drama-Szene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung einer stimmungsvollen, cineastischen Szene im Stil eines koreanischen Dramas, die sich auf Spannung und stille Interaktion zwischen zwei Frauen in einem Apartmentflur konzentriert.
+
+#### 📝 Prompt
+
+```
+Erstellen Sie ein 28-sekündiges, ultrarealistisches cineastisches koreanisches Drama mit zwei schönen jungen koreanischen Frauen in einem ruhigen, schwach beleuchteten Apartmentflur. Eine Frau hat langes, glattes schwarzes Haar und trägt ein elegantes schwarzes Outfit, während die andere einen raffinierten weißen Hosenanzug mit einer schlichten Handtasche trägt. Beginnen Sie mit einer mysteriösen Rückansicht der Frau in Schwarz, die langsam durch einen dunklen Korridor geht, der von weichem blauem Licht erhellt wird. Wechseln Sie zu einem detailliert gestalteten Apartmentflur, in dem beide Frauen aneinander vorbeigehen und eine subtile Atmosphäre von Spannung und Neugier erzeugen. Verwenden Sie cineastische Nahaufnahmen, natürliche Gehbewegungen, realistische Gesichtsausdrücke und sanfte Kamerabewegungen, um Spannung aufzubauen. Zeigen Sie eine Nahaufnahme einer Holztür und eine subtile Bewegung am Boden, gefolgt von einem leeren Flur und dem metallischen Innenraum eines Aufzugs. Erfassen Sie die Frau in Schwarz, die mit ernsthaftem Ausdruck ruhig im Aufzug steht. Enden Sie mit der Frau in Weiß, die allein durch den Flur geht, gefolgt von einer atemberaubenden Nahaufnahme ihres Gesichts im Freien, wobei ihr schwarzes Haar sanft im Wind weht. Verwenden Sie weiches natürliches Licht, gedämpfte Farben, geringe Schärfentiefe, realistische Hauttextur, cineastische Komposition, flüssige Übergänge und professionelle koreanische Drama-Kamerakunst. Stellen Sie konsistente Gesichtszüge, Frisuren, Outfits und Körperproportionen während des gesamten Videos sicher.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112012335745568768/img/7htU0qp0NJG1AW7B.jpg" width="600" alt="Stille Begegnung: Koreanisches Drama-Szene">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12710)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2112012480860000276) | **Veröffentlicht:** Oct 19, 2026
+
+---
+### Wildpark-Krokodilangriff Video-Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Prompt zur Generierung eines realistischen, wackeligen Videos eines plötzlichen Krokodilangriffs in einem Wildpark mit spezifischen Charakterreferenzen und Kamerabewegungen.
+
+#### 📝 Prompt
+
+```
+【Videospezifikationen & Gesamtstil】
+
+9:16 Hochformat, 15 Sekunden, eine durchgehende Aufnahme. In einem chinesischen Wildpark wird ein aufregendes Szenario versehentlich von einem Touristen mit einem gewöhnlichen Smartphone gefilmt. Anfangs ruhig, erschrickt der Fotograf eine halbe Sekunde zu spät, nachdem ein riesiges Krokodil angreift; die Kamera wackelt, schwenkt weg und findet die Person dann hastig wieder. Bewahren Sie den Realismus von Amateur-Smartphone-Aufnahmen.
+
+【Charakter- & Referenz-Locking】
+
+Die Protagonistin verwendet die vordefinierte erwachsene chinesische Frauenfigur #1 @598c0e35-7c27-4b7c-8bac-19bb206ff1c3, gekleidet in das vordefinierte Outfit #2 @d57ec59a-c0a5-4eae-84f4-4f02ef21a92d. Halten Sie Gesicht, lange Haare, Kleidungsstil, Farbe und Material strikt gemäß der Referenz bei. #1 ist die Person, #2 ist das Outfit; Nummern erscheinen nicht im Bild.
+
+Der Aufseher ist ein chinesischer Mann um die vierzig Jahre alt, mit kurzen schwarzen Haaren, trägt eine khakifarbene Kurzarm-Arbeitsuniform und dunkle Hosen, hat eine Arbeitsausweis an der Brust und steht hinter und seitlich neben der Protagonistin.
+
+Im Hintergrund stehen einige erwachsene chinesische Touristen in sommerlicher Freizeitkleidung, natürlich gestaffelt auf dem Holzsteg.
+
+【Szene & Kameraposition】
+
+Tropisches Krokodil-Besuchergebiet, ein alter Holzsteg, der entlang eines tiefgrünen Pools verläuft, mit Bambus, Palmen und Sträuchern am gegenüberliegenden Ufer. Dicke Holzgeländer erstrecken sich diagonal vom unteren rechten Rand des Bildes zum Hintergrund.
+
+Der externe Fotograf steht etwa einen Meter hinter und seitlich neben der Protagonistin, etwas höher als die Position ihres Smartphones, und filmt vertikal nach unten. Die rechte Seite des Bildes zeigt die Protagonistin, den Aufseher und den Steg; links und unten ist der Pool zu sehen.
+
+Feuchter Tag, natürliches Sonnenlicht dringt durch die Vegetation, leichte grüne Reflexionen auf der Wasseroberfläche. Gewöhnliche Smartphone-Hauptkamera (1x), leichtes Zittern der Hand, Neigung, Kompressionsartefakte, Rauschen in Schatten, kurze Unschärfe bei schnellen Schwenks. Keine kinematografische Farbkorrektur, Drohnenaufnahmen oder Portrait-Bokeh.
+
+【Ausrichtung des Smartphones der Protagonistin – Muss genau sein】
+
+Die Protagonistin nutzt die rückwärtige Kamera ihres Smartphones, um das Krokodil im Wasser zu filmen, kein Selfie, und sie zeigt das Telefon nicht dem externen Fotografen.
+
+Sie hält beide Enden des Telefons horizontal mit beiden Händen fest, Finger vermeiden die Rückkamera. Das Telefon befindet sich unterhalb ihrer Brust, nahe der äußeren Kante des Geländers, der Körper deutlich nach unten geneigt. Die Richtung der Rücklinse trifft genau auf den großen Schatten unter Wasser im unteren linken Bereich.
+
+Der Bildschirm des Telefons zeigt nach oben und leicht zu ihrem Gesicht; die Rückseite des Telefons und die Rücklinse zeigen nach unten, zur Wasseroberfläche. Sie blickt auf den Bildschirm und beobachtet das Ziel im Wasser dadurch.
+
+Vom leicht erhöhten seitlich-hinteren Winkel des externen Fotografen sollten hauptsächlich der Bildschirm und die Seiten des Körpers sichtbar sein, nicht die gesamte Rückseite des Telefons und das Kameramodul, das dem externen Fotografen zugewandt ist.
+
+Der auf dem Bildschirm gezeigte Inhalt stimmt mit der echten Wasseroberfläche überein: dieselbe Wasseroberfläche und derselbe unscharfe Schatten sind zu sehen, ohne das Selfie-Gesicht der Protagonistin, irrelevante Landschaft oder falsche Richtung.
+
+Wenn die Protagonistin ihr Handgelenk leicht anpasst, folgt die Rücklinse immer dem Schatten unter Wasser. Bis das riesige Krokodil angreift, zieht sie das Telefon aus Erschrockenheit zurück, was seine Ausrichtung stört.
+
+【Riesiges Krokodil & Zustand des ersten Frames】
+
+Nur ein abnormal großes, dunkelgrau-schwarzes Krokodil. Beim Sprung nähert sich sein Kopf der Größe des Oberkörpers eines Erwachsenen, und sein offenes Maul nimmt fast die linke Hälfte des Bildes ein. Die Größe bezieht sich auf das Originalvideo; generieren Sie kein gewöhnliches kleines Krokodil.
+
+Im ersten Frame ist das riesige Krokodil vollständig untergetaucht und zeigt nur einen großen, unscharfen länglichen Schatten, wie versunkenes Holz. Wasserreflexionen und Trübung verdecken Details; Kopf, Augen, Nasenlöcher, Schuppen oder Zähne können nicht klar identifiziert werden, und kein Teil durchbricht die Oberfläche.
+
+Das riesige Krokodil behält während des gesamten Vorgangs dasselbe Volumen bei, es expandiert nicht plötzlich im Moment des Sprungs.
+
+【0–2 Sekunden: Filmen des Unterwasserschattens】
+
+Die Protagonistin steht innerhalb des Geländers, lehnt sich leicht vor, hält das Telefon horizontal mit beiden Händen und richtet die Rücklinse nach unten auf den großen Schatten im Wasser im unteren linken Bereich.
+
+Sie blickt auf den Bildschirm, der ihr zugewandt ist; der Schatten im Bildschirm entspricht dem Schatten im Pool. Der externe Fotograf erfasst den Bildschirm des Telefons, das Profil der Protagonistin und die Wasseroberfläche darunter von ihrer Seite hinten.
+
+Der Aufseher erinnert ernst:
+
+"Madame, treten Sie bitte etwas zurück, lehnen Sie sich nicht ans Geländer!"
+
+Auf der Wasseroberfläche gibt es nur leichte Wellen; das Krokodil ist noch nicht aufgetaucht.
+
+【2–4 Sekunden: Ziel nähert sich, Telefon folgt】
+
+Die große Unterwasser-Silhouette nähert sich langsam der Position der Protagonistin. Sie dreht ihre Handgelenke leicht, hält die Rücklinse auf den bewegenden Schatten gerichtet, Bildschirm ihr zugewandt, dreht die Rückseite des Telefons nicht zum externen Fotografen.
+
+Der Aufseher tritt näher, streckt die Hand aus, um sie zu stützen, sein Tonfall wird dringend:
+
+"Das ist kein Holz, es lebt! Lehnen Sie sich nicht raus!"
+
+Die Protagonistin beginnt, ihren Körper zurückzuziehen, aber das Telefon filmt weiterhin die Wasseroberfläche. Am Ende dieses Abschnitts brechen die Nasenspitze und die Augen des Krokodils gerade die Wasseroberfläche.
+
+【4–6 Sekunden: Angriff des riesigen Krokodils】
+
+Das riesige Krokodil bricht plötzlich durch die Wasseroberfläche, sein großer Kopf steigt entlang der Außenseite des Geländers auf, sein offenes Maul nimmt sofort fast die linke Hälfte des Bildes ein und wirbelt große Spritzer auf.
+
+Die Protagonistin schreit, zieht hastig ihr Telefon und ihre Arme zurück. Die Ausrichtung des Telefons verliert aufgrund des Schocks Stabilität; es muss vorher korrekt auf das Krokodil gerichtet gewesen sein.
+
+Das riesige Krokodil beißt kurz in ihren Unterarm, der über das Geländer hinausgestreckt war, und in den nearby Stoff. Der Aufseher unterstützt sofort ihren Oberarm und Schulter/Rücken und stabilisiert ihren Schwerpunkt innerhalb des Geländers.
+
+Der externe Fotograf weicht vor Schreck einen halben Schritt zurück, die Kamera ruckt kurz nach oben, kein Schnitt oder Nahaufnahme der Wunden.
+
+【6–9 Sekunden: Flucht & Sturz ins Wasser】
+
+Das riesige Krokodil löst den Biss kurz, der Kopf sinkt zurück, die Protagonistin nutzt die Gelegenheit, ihren verletzten Unterarm zurückzuziehen, der Aufseher zieht sie auf die Innenseite des Stegs. Die Aktion muss eine klare Freisetzung haben, lassen Sie den Arm nicht durch geschlossene Zähne gehen.
+
+Das Telefon gleitet aus der Hand der Protagonistin, kippt und fällt in den Pool, fällt nur einmal.
+
+Das riesige Krokodil schlägt zurück ins Wasser und wirbelt weiße Spritzer auf. Die Protagonistin bedeckt ihren Unterarm, eine kleine Menge roter Flüssigkeit sickert aus der Wunde, bildet kurze und dünne Streifen, befleckt den Stoff an der Kontaktstelle, mit einem oder zwei Tropfen, die auf den Holzsteg fallen.
+
+Zeigen Sie keine tiefen Wunden, kein Spritzen, keine starke Blutung.
+
+Der Aufseher ruft:
+
+"Treten Sie zurück! Greifen Sie nicht hinüber! Heben Sie das Telefon nicht auf!"
+
+【9–11 Sekunden: Touristen in Panik】
+
+Die Protagonistin zieht sich zur Mitte des Stegs zurück, schützt ihren verletzten Unterarm, Schultern angespannt, Atmung schnell.
+
+Nahe Touristen ziehen zuerst ihre Schultern ein und weichen zurück, ziehen Begleiter mit; Touristen im Hintergrund drehen sich erst nach dem Schrei um, einige stecken Telefone weg, einige rücken beiseite, rufen nacheinander:
+
+"Schnell zurücktreten!"
+
+"Lehnen Sie sich nicht ans Geländer!"
+
+Reaktionen der Menge haben Zeitverzögerungen, sind nicht synchronisiert, kein Clipping, kein Fallen in den Pool. Das riesige Krokodil bleibt unter Wasser, kein zweiter Angriff.
+
+【11–13 Sekunden: Evakuierung durch den Aufseher】
+
+Der Aufseher steht zwischen der Protagonistin und dem Geländer, schützt sie, während sie weiter zurückweicht, gestikuliert Touristen, Platz zu machen:
+
+"Rückwärts bewegen! Niemand drängeln!"
+
+Ein naher Tourist bietet Taschentücher an, die Protagonistin akzeptiert und presst sie gegen dieselbe Wunde, das Taschentuch färbt sich allmählich mit einer kleinen Menge Rot.
+
+Der Fotograf weicht leicht zurück und korrigiert die Komposition, erfasst gleichzeitig die Protagonistin, den Aufseher und panisch zurückweichende Touristen.
+
+【13–15 Sekunden: Nachwirkung der Angst】
+
+Die Protagonistin bedeckt ihren Unterarm, keucht, Stimme zitternd sagt sie:
+
+"Ich habe mich zu Tode erschrocken... Es hat wirklich gebissen!"
+
+Der Aufseher schützt sie weiterhin, blickt wachsam zum Pool. Touristen im Hintergrund flüstern Warnungen:
+
+"Bleiben Sie weit weg, filmen Sie nicht!"
+
+Endet damit, dass die Protagonistin noch erschüttert ist, die Menge sich zurückzieht, die Nachwirkungen auf der Wasseroberfläche noch nicht abgeklungen sind.
+
+【Vor-Ort-Audio】
+
+Alle Audiodaten werden live auf dem Telefon aufgezeichnet, chinesischer Dialog, keine Musik, Erzählung oder Untertitel.
+
+Beginnt mit leisem Touristengeplauder, Reibung von Bambusblättern und leichten Wassengeräuschen. Die Stimme des Aufsehers ist nah und klar, wechselt von ernster Erinnerung zu dringendem Stoppen, wenn Gefahr entsteht.
+
+Schweres Wasserrauschen, wenn das Krokodil auftaucht, Schrei der Protagonistin, Gasps in der Nähe; gefolgt vom Fallen des Telefons ins Wasser, Aufprallgeräusch der Spritzer, schnelles Keuchen und unordentliche Schritte. Größter Spritzer und Schrei verursachen kurzzeitiges Mikrofon-Clipping, dann erholt sich die automatische Verstärkung.
+
+Stimmen entfernter Touristen sind verstreuter und leiser, keine Monsterbrülllaute hinzugefügt.
+
+【Kontinuität & Schlüsselbeschränkungen】
+
+Zu Beginn muss das Telefon der Protagonistin das Unterwasserziel korrekt filmen: Bildschirm nach oben und ihr zugewandt, Rücklinse nach unten auf die Position des Krokodils gerichtet; der externe Fotograf sieht hauptsächlich Bildschirm und Seiten. Verbieten Sie, dass die Rücklinse zum externen Fotografen zeigt, während sie scheinbar das Unterwasserziel filmt.
+
+Der erste Frame enthält nur einen unscharfen riesigen Unterwasserschatten, keinen klaren Krokodilkopf, Augen, Schuppen oder Zähne. Rote Flüssigkeit erscheint nur nach dem Biss.
+
+Halten Sie die Kontinuität von Charakter #1, Outfit #2, Aufseher, riesigem Krokodil und Steg bei. Die Verletzung ist immer am selben Unterarm, rote Streifen, Stoffbeschädigungen entsprechen der Stelle des Taschentuchdrucks.
+
+Nur ein Telefon, kehrt nach dem Fallen nicht in die Hand zurück. Protagonistin und Aufseher sind immer innerhalb des Geländers, das Krokodil @d57ec59a-c0a5-4eae-84f4-4f02ef21a92d ist immer im Pool. Halten Sie die kausalen Beziehungen von Kontakt, Gewicht, Biss, Freisetzung und Rückzugsaktionen während des gesamten Vorgangs bei.
+
+Keine Nahaufnahmen der Wunde, keine Amputationen, keine Darstellung von tiefem Gewebe. Das gesamte Stück ist eine durchgehende Aufnahme, keine Zeitlupe, Wiederholungen, Studio-Reveals, UI-Overlays oder Wasserzeichen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111969592058818560/img/-krKiLC99wPpxCu0.jpg" width="600" alt="Wildpark-Krokodilangriff Video-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12714)**
+
+**Autor:** [John](https://x.com/john87445528) | **Quelle:** [Link](https://x.com/john87445528/status/2111969616419303595) | **Veröffentlicht:** Oct 18, 2026
+
+---
+### Papercraft-Wal-Diorama: Video-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für die Erstellung eines 15-sekündigen animierten Papercraft-Diorama-Videos, das einen riesigen Origami-Wal und ein Papierdorf zeigt, mit spezifischen Kameraeinstellungen und Sounddesign.
+
+#### 📝 Prompt
+
+```
+Animiertes, geschichtetes Papercraft-Diorama, sichtbare Papierfasern und Falten, gerissene Kanten, Parallaxe zwischen den Papierschichten, weiche Schatten, warmes Gegenlicht, das durch dünnes Papier scheint, sanfte handgemachte Bewegung. Farbgebung: Creme, staubiges Blau, Terrakotta, Salbeigrün, warmes goldenes Gegenlicht.
+Ein kolossaler Wal aus gefaltetem Origami-Papier mit scharfen Knickfalten. Ein ausgeschnittenes Papierdorf mit Dächern und Windmühlen sowie winzigen Papierbewohnern, die Drachen steigen lassen.
+SHOT 1 (0 bis 3s): Weitwinkel-Aufnahme passend zum Referenzbild, der Wal gleitet vorwärts, seine gefalteten Flossen entfalten sich und falten sich erneut mit scharfen Knickbewegungen, Papierwolken gleiten in Parallaxe-Schichten vorbei.
+SHOT 2 (3 bis 6s): Mittlere Aufnahme, 50mm-Objektiv, Dorfbewohner auf einem Hügel ziehen an ihren Drachenschnüren, während der Schatten des Wals über sie hinwegzieht, die Flügel der Windmühlen drehen sich im Nachstrom schneller.
+SHOT 3 (6 bis 9s): Nahaufnahme, 85mm-Objektiv, das Auge des Wals, ein kleines ausgeschnittenes Kreisloch, blinzelt, während das Gegenlicht durch das dünne Papier seines Kopfes scheint und schwach gedruckten Text innerhalb der Falten sichtbar macht.
+SHOT 4 (9 bis 12s): Tiefwinkel-Tracking-Shot, 24mm-Objektiv, der Wal taucht auf das Dorf zu, und sein Schwanz fegt eine Welle aus Papierkonfetti und Papiervögeln über die Dächer.
+SHOT 5 (12 bis 15s): Extreme Weitwinkelaufnahme, 16mm-Objektiv, der Wal steigt in den Himmel auf und entfaltet sich vollständig zu einer flachen Ebene, die zu einer riesigen Papier-Sonne wird und das gesamte Dorf warm beleuchtet.
+Raschelndes Papier, leises Knistern der Falten, Quietschen der Windmühlen, ein sanfter Walgesang, der wie ein Atemzug durch Papier klingt, lachende Kinder, Spieluhr und sanftes Klavier.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111878182143995904/img/MxkM_Z1EzpswyEpr.jpg" width="600" alt="Papercraft-Wal-Diorama: Video-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12711)**
+
+**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Quelle:** [Link](https://x.com/AllaAisling/status/2111938622903800285) | **Veröffentlicht:** Oct 18, 2026
+
+---
+### Pink Supercar: Action-Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für eine surreale Action-Sequenz, in der sich ein Spielzeug-Pink-Supercar in ein echtes verwandelt und zu einem Drift durch die Straßen von Tokio führt.
+
+#### 📝 Prompt
+
+```
+Ultrarealistische cineastische Action-Sequenz mit einer jungen Frau mit langen schwarzen Haaren, die ein schwarzes oversized Grafik-T-Shirt und schwarze Stiefel trägt. Sie sitzt vor einem Vorstadthaus und hält ein Miniatur-Pink-Supercar. Plötzlich verwandelt sich das Spielzeugauto magisch in einen full-size ultrarealistischen Pink-Supercar und startet in die Luft, fliegt durch eine ruhige Wohnstraße und geht dann in eine dramatische urbane Kreuzung im Stil von Tokio über. Die Frau erscheint auf dem Fahrersitz, während der Pink-Supercar aggressiv durch die Stadt driftet, über den Zebrastreifen schleudert, mit realistischem Reifenrauch, drehenden Rädern, cineastischer Bewegungsunschärfe und Reflexionen auf dem Asphalt. Das Auto beschleunigt durch die Kreuzung, hinterlässt dicke weiße Rauchspuren und gleitet dann dramatisch auf einen hell erleuchteten japanischen Convenience-Store zu. Schnitt auf eine breite cineastische Aufnahme des Autos, das vor dem Geschäft driften, während Passanten überrascht reagieren. Schlussszene: Die Frau vertritt selbstbewusst den Eingang des Convenience-Stores, umgeben von verstreuten Einkäufen und Glasreflexionen, während der Pink-Supercar im Hintergrund sichtbar bleibt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111703894468460544/img/Bgm8jv1RtgL6qRWR.jpg" width="600" alt="Pink Supercar: Action-Transformation">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12713)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2111703937669894630) | **Veröffentlicht:** Oct 18, 2026
+
+---
 ### Löwenangriff im Zoo – Cinematic Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5409,190 +5682,6 @@ blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, waterma
 **Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2105490567601995924) | **Veröffentlicht:** Oct 1, 2026
 
 ---
-### Anime-Video-Prompt für „Verlorene Windspiel“
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Detaillierter Prompt für Seedance 2.0 zur Generierung eines Anime-Kurzfilms basierend auf einem Storyboard, mit Fokus auf visueller Konsistenz und emotionalen Höhepunkten.
-
-#### 📝 Prompt
-
-```
-TITEL
-Das verlorene Windspiel
-
-REFERENZ
-Verwenden Sie das hochgeladene Storyboard und das Charakterblatt als primäre visuelle Referenz.
-
-Stellen Sie sicher, dass alle Charakterdesigns, Umgebungsdetails, das Design des Windspiels, das Aussehen des Kätzchens, die ländliche Beleuchtung und die emotionalen Handlungsverläufe konsistent mit den bereitgestellten Referenzen bleiben.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105278709301383168/img/42PGLSXmI_6k8b-Y.jpg" width="600" alt="Anime-Video-Prompt für „Verlorene Windspiel“">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11714)**
-
-**Autor:** [Thea Vales](https://x.com/codesthea) | **Quelle:** [Link](https://x.com/codesthea/status/2105278815346065805) | **Veröffentlicht:** Sep 30, 2026
-
----
-### Seedance 2 Reisevideo-Prompt: Balkonszene mit Windinteraktion
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein detaillierter Video-Generierungsprompt für Seedance 2, der einen realistischen 10-sekündigen Reise-Vlog-Stil-Clip einer asiatischen Frau auf einem Hotelbalkon erstellt. Er enthält spezifische Anweisungen zur Aufrechterhaltung der Charakterkonsistenz aus einem Referenzbild und zur Choreografie einer natürlichen Interaktion mit Wind, der eine Serviette weht.
-
-#### 📝 Prompt
-
-```
-Behalte die Gesichtszüge, Frisur, das blau-weiße Blumen-Hemdchenkleid, die Körperproportionen, den Balkon, die Gegenstände auf dem Tisch und die Meereslandschaft im Einklang mit dem Referenzbild bei. Ändere weder das Gesicht noch die Kleidung.
-
-Ein 10-sekündiges realistisches Reise-Schnappschuss-Video, als wäre es beiläufig von einem Freund auf einem Hotelbalkon gefilmt worden.
-
-Zu Beginn sitzt eine junge asiatische Frau natürlich auf dem Balkonsofa und blickt ruhig seitwärts zum entfernten Meer und Sonnenuntergang. Die Seebrise weht sanft ihr langes Haar und den Saum ihres Rocks. Sie blinzelt natürlich, und ihr Körper zeigt leichte Atembewegungen.
-
-Um die 3. Sekunde kommt plötzlich eine stärkere Seebrise von der Seite, die eine dünne Serviette auf dem Tisch hochweht und sie entlang des Tisches in Richtung Balkongeländer schiebt. Das Mädchen ist kurz überrascht, schaut nach unten, sieht die Serviette und greift instinktiv schnell danach.
-
-Um die 5. Sekunde verfehlt sie das Fangen fast, lehnt sich leicht nach vorne, während ihr Haar ebenfalls vom Wind zerzaust wird. Schließlich greift sie erfolgreich nach der Serviette, lächelt zuerst nach unten, lehnt sich dann zurück ins Sofa mit einem Hauch von hilflosem Ausdruck.
-
-In den letzten 2 Sekunden drückt sie die Serviette auf den Tisch, glättet mit einer Hand ihr vom Wind zerzaustes Haar und blickt wieder zum entfernten Sonnenuntergang, wobei sie ein leichtes Lächeln an den Mundwinkeln behält.
-
-Halte die gesamte Sequenz mit einem realistischen Gefühl einer Handkamera (Smartphone). Leichte Kamerawackler, keine Orbit-Bewegungen, keine schnellen Zooms, nur sehr langsames und natürliches Vorwärts-Zoomen erlauben. Meeresglitzern, entfernte Segelboote, Vorhänge und Haarsträhnen behalten ihre natürliche Bewegung bei.
-
-Betone realistische menschliche Bewegungen und Trägheit durch Schwerkraft. Stabile Gesichter throughout, normale Finger, stabile Rockstruktur, keine Verformung des Tisches oder der Getränke.
-
-Vermeide: Plötzliches Aufstehen des Charakters, übertriebenes Lachen, zu hoch fliegende Serviette, große Körperverzerrungen, driftende Gesichter, Gesichtsaustausch, deformierte Finger, Kleidungswechsel, plötzliches Verschwinden von Tischgegenständen, starke kinematografische Kamerabewegungen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105274287473225728/img/esgfZa1DcyQkpeXR.jpg" width="600" alt="Seedance 2 Reisevideo-Prompt: Balkonszene mit Windinteraktion">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11720)**
-
-**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Quelle:** [Link](https://x.com/Adam38363368936/status/2105274634786767041) | **Veröffentlicht:** Sep 30, 2026
-
----
-### Braut flieht vor Hochzeit im Oldtimer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Prompt für Seedance 2.0 zur Generierung einer komödiantischen Szene, in der eine Braut vor ihrer Hochzeit davonläuft und mit einem roten Oldtimer durchbrennt, inklusive spezifischer Kamerabewegungen und Stilvorgaben.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie das Charakterblatt als visuelle Referenz. Bewahren Sie das genaue Gesicht, die Frisur, das Kleid, die Körperproportionen und die Accessoires der Braut während des gesamten Videos bei. Format 16:9 Querformat.
-
-0–3 Sek — DIE FLUCHT
-Eine kirchliche Trauung findet statt, als die Braut plötzlich durch die großen Kirchentüren bricht und die Stufen hinunterrennt, den Strauß noch immer in der Hand. Ihr Ausdruck ist entschlossen, aber humorvoll aufgeregt. Ihr Schleier und ihr Kleid flattern wild hinter ihr her. Die Kamera rast vor ihr zurück, während sie läuft. Einige verwirrte Hochzeitsgäste erscheinen im Hintergrund und begreifen, was passiert.
-3–5 Sek — ZUM AUTO
-Sie entdeckt einen leuchtend roten Oldtimer aus den 1950er Jahren, der am Straßenrand wartet. Beim Laufen wirft sie einen weißen Brautschuh ab und wirft sich dann zur Fahrertür. Ein schneller Whip-Pan folgt ihrer Bewegung.
-
-5–8 Sek — DURCHBRENNT
-Sie springt ins Auto, knallt die Tür zu, startet den Motor und RAST mit lächerlicher Geschwindigkeit los. Reifen quietschen, eine kleine Rauchwolke erscheint, und ihr langer weißer Schleier verfängt sich in der schließenden Tür und weht dramatisch hinter dem Auto her. Der Strauß landet auf dem Beifahrersitz.
-8–11 Sek — CHAOS
-Schnelle komödiantische Innenaufnahmen:
-Die Braut klammert sich ans Lenkrad und lacht → ihr Schleier peitscht um ihr Gesicht → der Strauß hüpft auf dem Beifahrersitz herum → ihr anderer Brautschuh fliegt durch die Luft → Hochzeitsgäste rennen hilflos hinter dem verschwindenden Auto her.
-
-11–15 Sek — SIE IST FREI
-Dynamische seitliche Verfolgungsaufnahme des roten Autos, das über eine sonnige historische Autobahn rast. Die Braut fährt einhändig, völlig sorglos. Sie blickt in den Rückspiegel, sieht die Kirche in der Ferne verschwinden, grinst und bläst dann ein riesiges rosa Kaugummiballon.
-Letztes Bild:
-Das rote Auto rast zum Horizont, der Schleier flattert dahinter.
-
-Stil: Schnelllebige physische Komödie, spielerisch rebellische Energie, Americana der 1950er Jahre, gesättigter roter Oldtimer, cremefarbenes Hochzeitskleid, warmes goldenes Sonnenlicht, filmisches Vintage-Korn, leicht malerischer Realismus, realistische Bewegung, energische Kamerabewegung, Whip-Pans, schnelle Schnitte, übertriebene aber glaubwürdige Komödie.
-Wichtig: Keine Zeitlupe, keine traurige Stimmung, kein dramatisches Romantik-Feeling, kein Dialog, kein Text, keine zusätzlichen Bräute, keine Gesichtsveränderungen, keine Kostümwechsel, keine verzerrten Hände, kein Morphing.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105227546409246720/img/t7RT8ssTY9gAxD5E.jpg" width="600" alt="Braut flieht vor Hochzeit im Oldtimer">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11715)**
-
-**Autor:** [Caden Flux](https://x.com/Caden_Flux) | **Quelle:** [Link](https://x.com/Caden_Flux/status/2105228156085137501) | **Veröffentlicht:** Sep 30, 2026
-
----
-### Schoko-Erdbeer-Torten Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt zur Erstellung eines fotorealistischen Nahaufnahme-Videos einer Gourmet-Schokoladen-Erdbeertorte mit fließendem Fudge, geeignet für Food-Content oder Werbung.
-
-#### 📝 Prompt
-
-```
-Fotorealistische Nahaufnahme einer Gourmet-Schokoladen-Erdbeertorte mit fließendem Fudge auf einem Marmortisch, gemütliche Café-Atmosphäre
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105215993165570048/img/WnK1fBpmIu8fWBEx.jpg" width="600" alt="Schoko-Erdbeer-Torten Video">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11718)**
-
-**Autor:** [Anni](https://x.com/AnneYu99) | **Quelle:** [Link](https://x.com/AnneYu99/status/2105216117669339237) | **Veröffentlicht:** Sep 30, 2026
-
----
-### Seedance 2.0 Kinematografischer Optischer Zoom Video-Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein detaillierter Prompt zur Videogenerierung für Seedance 2.0, der eine kinematografische optische Zoom-Technik in einer alten Jiangnan-Stadt zeigt und sich auf die Interaktion der Charaktere sowie realistische Kameraphysik konzentriert.
-
-#### 📝 Prompt
-
-```
-[Globale Einstellungen]
-Realistischer Film-Look im antiken Stil, östliche klassische Lebenserzählung, Jiangnan-Antikstadt nach dem Regen: Blaustein-Treppen, blaue Ziegel und schwarze Dachziegel, hölzerne Gänge, geschnitzte Holztüren, Bambusvorhänge, nasse Stein-Gassen. Weiches diffuses Licht unter bewölktem Himmel, geringer Kontrast, Verschmelzung von kalten Grau-Grün- und warmen Holz-Tönen, leichtes 35mm-Filmkorn, realistische Haut-, Holz-, Stein- und Stofftexturen, kinematografische geringe Schärfentiefe, 8K, 16:9.
-
-Hauptdarstellerin A: Bild 1
-Hauptdarstellerin B: Bild 2
-
-Strikte Beibehaltung der Identität der Charaktere, räumlichen Positionen, Links-Rechts-Beziehungen, Bewegungsrichtungen, Wetterbedingungen, Beleuchtung und Farbton-Kontinuität während des gesamten Videos.
-
-[Kern-Kameratechnik]
-Das gesamte Video verwendet "progressiven optischen Zoom" als einzige Kern-Kamerabewegung. Die Kamera bleibt so fest wie möglich, verlässt sich nicht auf physische Bewegung, sondern auf langsames, kontinuierliches optisches Heranfahren und Zurückziehen, um den Bildschirmanteil der Charaktere und ihre räumlichen Beziehungen zu ändern. Echte Linsenkompression, Änderungen der Schärfentiefe und optische Eigenschaften beibehalten; digitales Zuschneiden verboten. Vordergrund-Verdeckungen, geringe Schärfentiefe und Fokusverschiebungen unterstützen die Erzählung und bilden "Entdeckung aus der Ferne -> Blickkontakt über die Gasse -> Raumkompression -> emotionale Bestätigung".
-
-[0-4s]
-Start mit mittlerer Einstellung, 35mm, feste Kamera, Augenhöhe. Hauptdarstellerin A steigt langsam die Blaustein-Treppe hinab zum Eingang der Gasse, hält an, dreht sich um und blickt auf, wobei sie Hauptdarstellerin B unter den entfernten Vordächern des Holzgangs sieht. Die Aufnahme beginnt mit einer breiteren Komposition der Umgebung, fährt nur langsam optisch heran und verdichtet sich allmählich zu einer mittleren Einstellung von Hauptdarstellerin A, ohne Kamerabewegung.
-
-Stadtbewohner gehen horizontal durch den Vordergrund von links und rechts, erzeugen natürliche unscharfe Verdeckungen in der Nähe, während Hauptdarstellerin A scharf bleibt; Belichtung, Farbtemperatur und Licht/Schatten bleiben während der Verdeckung stabil. Der Zoom setzt sich sanft und zurückhaltend fort, bis schließlich ein Blickkontakt zwischen Hauptdarstellerin A und Hauptdarstellerin B über die Gasse entsteht.
-
-[4-9s]
-Fortsetzung des vorherigen Segments, die Kameraposition bleibt vollständig unverändert. Hauptdarstellerin B tritt langsam vom rechten Vordergrund herein, nähert sich der Säule des Holzgangs und bildet einen natürlichen Rahmen im Vordergrund mit der Säule; Hauptdarstellerin A ist tief in der linken Mitte der Gasse.
-
-Langsamer kontinuierlicher optischer Zoom, Hauptdarstellerin A bleibt zunächst scharf, dann verdichtet sich die Aufnahme allmählich, der Vordergrundanteil von Hauptdarstellerin B nimmt zu, und Hauptdarstellerin A weicht in den Hintergrund mit weichem Unschärfe-Effekt zurück. Allmähliches Erreichen des Teleobjektiv-Endes, echte Raumkompression lässt die Tiefe der alten Gasse komprimiert erscheinen; die tatsächliche Entfernung zwischen beiden bleibt unverändert, aber der visuelle Abstand wird deutlich verkürzt. Der Fokus verschiebt sich sanft von Hauptdarstellerin A zu Hauptdarstellerin B, endet mit einem scharfen Profilbild von Hauptdarstellerin B und unscharfer Hauptdarstellerin A. Keine seitliche Bewegung, Schwenks oder Orbit-Bewegungen; Belichtung und Ton sind kontinuierlich.
-
-[9-13s]
-Feste Kamera und Teleobjektiv-Beziehung beibehalten. Hauptdarstellerin B steht neben der Säule des Holzgangs und dreht sich langsam, um Hauptdarstellerin A anzusehen. Nur ein extrem langsamer optischer Push-In durchführen, Verdichtung von einer Zwei-Personen-Beziehungskomposition zu einer Nahaufnahme von Hauptdarstellerin B. Teilweise unscharfe Kontur von Hauptdarstellerin A auf der linken Seite des Bildschirms beibehalten, was einen voyeuristischen Rahmen im Vordergrund bildet.
-
-Hauptdarstellerin B wird zum Hauptfokus, schaut Hauptdarstellerin A an, hält kurz inne und sagt leise: "Lange nicht gesehen." Zeigt ein schwaches Lächeln. Bambusvorhänge werden vom sanften Wind nach dem Regen bewegt, Wassertropfen fallen natürlich von den Vordächern, und nasser Blaustein reflektiert das weiche Himmelslicht. Die Kamera rückt stetig vor und endet in einer emotionalen Bestätigung aus der Nähe.
-
-[Kamerasteuerung]
-Der Kern muss "optischer Zoom erzeugt narrative Distanzänderungen" sein, statt Kamerabewegung. Die Kamerasprache wird sequenziell abgeschlossen: Umgebungsetablierung -> Entdeckung von Hauptdarstellerin A -> langsame Verdichtung -> Hauptdarstellerin B tritt in den Vordergrund -> emotionale Bestätigung.
-
-Die Kernidee ist "optischer Zoom erzeugt narrative Distanzänderungen", nicht Kamerabewegung. Die Kamerasprache vollzieht sich sequenziell: Etablierung der Umgebung -> Entdeckung von Hauptdarstellerin A -> langsames Heranzoomen -> Hauptdarstellerin B tritt in den Vordergrund -> emotionale Bestätigung.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105198910453248000/img/jA-Hhk-O30nR6Tli.jpg" width="600" alt="Seedance 2.0 Kinematografischer Optischer Zoom Video-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11721)**
-
-**Autor:** [灰度笔记](https://x.com/GrayNoteLab) | **Quelle:** [Link](https://x.com/GrayNoteLab/status/2105199106578870298) | **Veröffentlicht:** Sep 30, 2026
-
----
-### Wuxia-Kriegerin: Nachtkampf-Video-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Generierung eines 30-sekündigen, cineastischen Videos im Wuxia-Stil mit einer Kriegerin in einem alten chinesischen Dorf bei Nacht. Die Szene umfasst traditionelle Hanfu-Kleidung, leuchtende rote Laternen, nebelverhangene Berge und intensiven Schwertkampf gegen Angreifer mit magischen Effekten.
-
-#### 📝 Prompt
-
-```
-Erstelle ein 30-sekündiges, cineastisches und ultra-realistisches Video im Wuxia-Stil, das nachts in einem alten chinesischen Dorf spielt. Die Szenerie umfasst traditionelle Holzgebäude, eine gepflasterte Steinstraße, eine kleine Bogenbrücke, nebelverhangene Berge im Hintergrund sowie zahlreiche leuchtende rote Laternen, die entlang der Straße hängen. Eine schöne junge Frau in einem eleganten, fließenden roten traditionellen chinesischen Hanfu geht ruhig auf die Kamera zu. Sie hat langes dunkles Haar, das traditionell frisiert ist, und einen ernsten, selbstbewussten Ausdruck. Während sie näher kommt, schiebt sich die Kamera langsam vorwärts und folgt ihr natürlich, wobei sie das Licht der Laternen, die Bewegung des Stoffes, den atmosphärischen Nebel und realistische Schritte einfängt. Etwa in der Mitte der Szene bleibt sie plötzlich stehen und zieht selbstbewusst ein leuchtendes rotes magisches Schwert, das sie horizontal vor sich hält, während ihr Gesichtsausdruck konzentriert und kraftvoll wird. Die Kamera wechselt in eine dramatische Nahaufnahme ihres Gesichts und des Schwerts, zeigt realistische Hauttextur, detaillierte Haare, leuchtende Reflexionen und cineastische Tiefenschärfe. Mehrere mysteriöse schwarz gekleidete Angreifer erscheinen um sie herum und stürmen aus verschiedenen Richtungen auf sie zu, was eine angespannte Martial-Arts-Atmosphäre erzeugt. Sie dreht sich schnell um und führt kraftvolle choreografierte Schwertbewegungen aus, blockt und schlägt die Angreifer mit schnellen, aber glaubwürdigen Bewegungen, während das leuchtende Schwert subtile rote Lichtspuren hinterlässt. Die Angreifer werden auf die Steinstraße um sie herum zu Boden geschleudert, während sie selbstbewusst in der Mitte steht, das Schwert erhoben, umgeben von roten Laternen und leichtem Nebel. Das Video endet mit einer weiten cineastischen Aufnahme, die langsam zurückzieht, um die Frau allein zwischen den gefallenen Angreifern zu zeigen, mit alten Dorfhäusern und Bergen hinter ihr. Achte auf konsistente Charakterdarstellung, realistische Bewegung, cineastische Beleuchtung, detaillierte Texturen, dramatische Atmosphäre, sanfte Kamerabewegung, ein Seitenverhältnis von 16:9, eine Dauer von 30 Sekunden, keinen Text und kein Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105162066277568512/img/ylAZwfteWys8V_NP.jpg" width="600" alt="Wuxia-Kriegerin: Nachtkampf-Video-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11624)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2105162931847807476) | **Veröffentlicht:** Sep 30, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -5654,6 +5743,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-19T03:44:01.981Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-19T09:58:05.760Z</sub>
 
 </div>

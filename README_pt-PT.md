@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6557** |
+| 📝 Total de prompts | **6563** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-10-19** |
 
@@ -361,6 +361,279 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Retrato de Beleza em Close-Up Extremo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para criar um retrato cinematográfico em câmera lenta, com alto nível de detalhe, focado no movimento dos olhos e na textura da pele, com iluminação dramática.
+
+#### 📝 Prompt
+
+```
+Retrato cinematográfico ultra-realista em close-up extremo de uma jovem bonita com traços delicados, olhos castanhos escuros cativantes, cílios longos e curvados, maquiagem esfumada sutil e pele porcelana naturalmente luminosa. O vídeo começa com uma tomada macro extrema de seus olhos fechados, com mechas soltas de cabelo escuro, levemente molhado, caindo naturalmente sobre seu rosto. Lentamente, ela abre os olhos, revelando íris castanhas profundas e expressivas, enquanto a câmera recua suavemente para mostrar todo o seu rosto. Ela usa brincos prateados elegantes que balançam, com algumas mechas delicadas emoldurando suas bochechas. Seus lábios estão ligeiramente entreabertos, criando uma expressão misteriosa e emocional. Fundo azul-preto escuro e dramático, iluminação lateral suave e intensa, reflexos sutis nos olhos, poros realistas da pele, sombras delicadas, profundidade de campo rasa, atmosfera cinematográfica, estética premium de campanha de beleza, detalhes fotorealistas, movimento natural suave dos olhos, movimento lento da câmera, lente de retrato 85mm, f/1.8, HDR, qualidade 8K, cílios e íris altamente detalhados, correção de cor profissional, composição vertical, proporção de tela 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112049335458500608/img/FIrkhU4PbyO6yYLa.jpg" width="600" alt="Retrato de Beleza em Close-Up Extremo">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12712)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2112049364940263843) | **Publicado:** Oct 19, 2026
+
+---
+### Prompt de Vídeo: Salto de Trampolim de Helicóptero
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt detalhado para gerar um vídeo realista de 15 segundos de uma pessoa saltando de um helicóptero em direção a um trampolim no mar e quicando de volta, projetado especificamente para o Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+[Imagem de Referência Prioritária & Fixação de Nomes]
+@ image1 = Nome da Descrição: Protagonista
+Padrões de identidade, rosto, penteado, tipo físico, fantasia, acessórios, equipamento e aparência dos sapatos do protagonista.
+Use apenas os nomes fixados acima no texto subsequente.
+15 segundos, proporção 3:4, live-action fotorrealista, ambientado sobre um mar azul brilhante durante o dia, áudio e vídeo contínuos. Sem cortes de cena durante toda a duração. Use a referência de personagem apenas para a aparência do protagonista; não incorpore diagramas de três vistas, exibições paralelas ou layouts de texto/exemplos no vídeo. Mantenha a identidade do personagem, fantasias, acessórios e físico ao longo de todo o vídeo. Sem BGM, legendas, títulos ou logotipos.
+Personagens: Protagonista, Tripulante A, Tripulante B, Tripulante C (4 no total). Um helicóptero civil de médio porte para filmagens com fuselagem branca e linhas azuis. Trem de pouso esqui preto, porta lateral deslizante larga aberta, degraus externos para embarque, interior cinza escuro. O helicóptero mantém uma altitude constante acima da superfície do mar do início ao fim. Uma costa é visível à distância, e um trampolim circular está posicionado na superfície do mar bem abaixo. O protagonista está de pé no degrau externo fora da porta aberta, olhando para o trampolim distante abaixo. O Tripulante A está perto da porta vestindo um corta-vento azul, colete salva-vidas preto e headset de comunicação de aviação. O Tripulante B está dentro da aeronave perto da porta vestindo um corta-vento laranja, colete salva-vidas preto e headset de comunicação de aviação. O Tripulante C está profundamente dentro da aeronave vestindo um corta-vento verde, colete salva-vidas preto e headset de comunicação de aviação. Os rostos dos três tripulantes são visíveis. A câmera começa na mesma posição de filmagem perto da porta do helicóptero, capturando o protagonista, os três tripulantes e o mar além da porta com uma lente ligeiramente grande-angular. Não altere a posição de instalação da câmera; ajuste sua orientação vertical de acordo com a queda e a subida. Ruídos de vento e sons do rotor do helicóptero continuam naturalmente ao longo de todo o vídeo.
+0.0–3.0s: O Tripulante A olha para o protagonista e sorri, perguntando "Pronto?". O protagonista vira o rosto para o Tripulante A, acena com a cabeça, então olha diretamente para a lente da câmera, mostrando tensão e excitação misturadas com um sorriso, dizendo energicamente em japonês natural: "Ok, vou!". Os movimentos visíveis da boca de ambas as partes correspondem aos seus respectivos diálogos completos. O Tripulante B levanta levemente um punho enquanto sorri, e o Tripulante C sorri feliz, inclinando-se ligeiramente para fora e acenando com a cabeça. Após falar, o protagonista respira fundo, olha para baixo para o trampolim circular, empurra-se do degrau externo e salta.
+3.0–6.2s: No momento em que o protagonista salta do helicóptero, o Tripulante B grita em direção a ele: "Vai!". A câmera vira rapidamente para baixo, mantendo a posição de filmagem perto da porta, rastreando o protagonista caindo no centro do quadro. O protagonista estende o corpo enquanto cai, tornando-se menor no quadro conforme a distância aumenta. O trampolim circular abaixo torna-se visível, e o protagonista se aproxima mirando no centro. Enquanto a câmera está apontada para baixo, os três tripulantes estão fora de quadro, mas aplausos alegres podem ser ouvidos de dentro da aeronave. Sons do rotor e ruídos de vento continuam.
+6.2–7.7s: O protagonista aterrissa perto do centro do trampolim circular na superfície do mar. A superfície de salto esticada afunda significativamente sob o peso do protagonista, então empurra fortemente de volta imediatamente após a descida parar. A câmera permanece apontada para baixo, mostrando a aterrissagem, o afundamento da superfície de salto e a reversão para o impulso ascendente devido ao quique em uma tomada contínua. Sons de impacto da aterrissagem e do quique são audíveis.
+7.7–11.6s: O protagonista quica alto em direção ao helicóptero com o impulso do quique, puxando os joelhos para o peito para encolher o corpo, girando vigorosamente no ar. A câmera ajusta para cima para acompanhar o protagonista subindo a partir da mesma posição de filmagem. Conforme o protagonista se aproxima, ele fica maior no quadro, e a porta aberta e o degrau externo tornam-se visíveis novamente. O protagonista sobe rapidamente até logo antes do degrau externo do helicóptero, desenrolando rapidamente o giro e estendendo as pernas no momento de alcançar o degrau, plantando ambos os pés firmemente no mesmo degrau externo de onde saltou sem hesitação. Ao aterrissar, absorve o choque com os joelhos e imediatamente endireita o torso superior, retornando à mesma posição, orientação corporal e postura de pé como no início. Filme a aproximação do helicóptero, o desenrolar da rotação, o plantar dos pés e o retorno à postura como uma série aguda e rápida de movimentos continuando sem interrupção em velocidade normal. A altitude do helicóptero acima da superfície do mar não muda.
+11.6–15.0s: A câmera retorna à orientação inicial em torno da porta. O Tripulante A aplaude sorrindo em direção ao protagonista. O Tripulante B alegremente ergue um punho e grita brevemente: "Yay--!". O Tripulante C olha para o protagonista, sorri e bate palmas. O protagonista, respirando pesadamente, vira o rosto para a lente da câmera, olhos brilhando, falando brilhantemente e naturalmente com excitação e alegria pelo retorno seguro: "Oh uau! Oh uau, isso foi incrível!". Corresponda os movimentos da boca do Tripulante B e do protagonista com seus respectivos diálogos completos durante a fala. Quadro final: Protagonista de pé no mesmo degrau externo inicial, terminando de falar para a câmera com expressão excitada, atrás deles o Tripulante A e o Tripulante C estão aplaudindo, e o Tripulante B está comemorando. Termina em 15 segundos com os tripulantes aplaudindo e os sons do rotor continuando.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112029649937252353/img/0tCnzv5dkI0fQFPc.jpg" width="600" alt="Prompt de Vídeo: Salto de Trampolim de Helicóptero">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12715)**
+
+**Autor:** [M7［mi7］AI](https://x.com/mi7_crypto) | **Fonte:** [Link](https://x.com/mi7_crypto/status/2112029684594872632) | **Publicado:** Oct 19, 2026
+
+---
+### Cena de Drama Coreano: Encontro Silencioso
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para criar uma cena cinematográfica e atmosférica, reminiscente de um drama coreano, focando na tensão e na interação silenciosa entre duas mulheres no corredor de um apartamento.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo ultra-realista de 28 segundos com estética de drama coreano, apresentando duas jovens coreanas bonitas em um corredor de apartamento silencioso e mal iluminado. Uma mulher tem cabelos longos, lisos e pretos, vestindo um elegante conjunto preto, enquanto a outra usa um sofisticado terno branco de calça com uma bolsa simples. Comece com uma misteriosa tomada por trás da mulher de preto caminhando lentamente por um corredor escuro iluminado por uma luz azul suave. Transicione para um corredor de apartamento detalhado e bonito, onde ambas as mulheres passam uma pela outra, criando uma atmosfera sutil de tensão e curiosidade. Use close-ups cinematográficos, movimentos naturais de caminhada, expressões faciais realistas e rastreamento suave de câmera para construir suspense. Mostre um close-up de uma porta de madeira e um movimento sutil perto do chão, seguido por um corredor vazio e o interior metálico de um elevador. Capture a mulher de preto parada silenciosamente dentro do elevador com uma expressão séria. Termine com a mulher de branco caminhando sozinha pelo corredor, seguida por um close-up deslumbrante de seu rosto ao ar livre, com seus cabelos pretos se movendo suavemente na brisa. Use iluminação natural suave, cores apagadas, profundidade de campo rasa, textura de pele realista, composição cinematográfica, transições suaves e cinematografia profissional de dramas coreanos. Mantenha identidades faciais, penteados, roupas e proporções corporais consistentes durante todo o vídeo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112012335745568768/img/7htU0qp0NJG1AW7B.jpg" width="600" alt="Cena de Drama Coreano: Encontro Silencioso">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12710)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2112012480860000276) | **Publicado:** Oct 19, 2026
+
+---
+### Prompt de Vídeo: Ataque de Crocodilo em Parque de Vida Selvagem
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt detalhado para gerar um vídeo realista, estilo câmera na mão (shaky-cam), de um ataque súbito de crocodilo em um parque de vida selvagem, com referências específicas de personagens e comportamentos de câmera.
+
+#### 📝 Prompt
+
+```
+【Especificações do Vídeo & Estilo Geral】
+
+Tela vertical 9:16, 15 segundos, plano-sequência único. Dentro de um parque de vida selvagem chinês, uma cena emocionante capturada acidentalmente por um turista com um celular comum. Inicialmente calmo, o fotógrafo fica assustado meio segundo depois que um crocodilo gigante ataca; a câmera treme, desvia-se e depois encontra a pessoa novamente às pressas. Mantenha o realismo das filmagens amadoras de celular.
+
+【Personagem & Bloqueio de Referência】
+
+A protagonista feminina usa o personagem adulto feminino chinês pré-definido #1 @598c0e35-7c27-4b7c-8bac-19bb206ff1c3, vestindo a roupa pré-definida #2 @d57ec59a-c0a5-4eae-84f4-4f02ef21a92d. Mantenha estritamente o rosto, cabelo longo, estilo da roupa, cor e material da referência. #1 é a pessoa, #2 é a roupa; os números não aparecem no quadro.
+
+O administrador é um homem chinês de cerca de quarenta anos, com cabelo preto curto, vestindo uniforme de trabalho de manga curta cáqui e calças escuras, com um crachá de trabalho no peito, posicionado atrás e ao lado da protagonista feminina.
+
+Há alguns turistas adultos chineses ao fundo, vestindo roupas casuais de verão, parados naturalmente escalonados na passarela.
+
+【Cena & Posição da Câmera】
+
+Área de visualização de crocodilos tropicais, uma velha passarela de madeira estendendo-se ao longo de uma piscina verde-escura, com bambu, palmeiras e arbustos na margem oposta. Corrimãos de madeira grossos se estendem diagonalmente do canto inferior direito do quadro para o fundo.
+
+O fotógrafo externo está posicionado cerca de um metro atrás e ao lado da protagonista feminina, ligeiramente acima da posição do celular dela, filmando verticalmente para baixo. O lado direito do quadro mostra a protagonista feminina, o administrador e a passarela; a esquerda e a parte inferior mostram a piscina.
+
+Dia úmido, luz solar natural filtrando pela vegetação, leve reflexo verde na superfície da água. Câmera principal 1x de celular comum, leve tremor de mão, inclinação, artefatos de compressão, ruído nas sombras, desfoque breve durante viradas rápidas. Sem color grading cinematográfico, tomadas de drone ou bokeh de retrato.
+
+【Orientação do Celular da Protagonista — Deve Ser Precisa】
+
+A protagonista feminina está usando a câmera traseira do seu celular para filmar o crocodilo na água, não tirando uma selfie, nem mostrando o celular para o fotógrafo externo.
+
+Ela segura as duas extremidades do celular horizontalmente com ambas as mãos, dedos evitando a câmera traseira. O celular está localizado abaixo do peito dela, perto da borda externa do corrimão, com o corpo claramente inclinado para baixo. A direção da lente traseira cai precisamente sobre a enorme sombra subaquática no canto inferior esquerdo.
+
+A tela do celular está voltada para cima e ligeiramente em direção ao rosto dela; a parte de trás do celular e a lente traseira estão voltadas para baixo, em direção à superfície da água. Ela olha para baixo na tela, observando o alvo na água através dela.
+
+Do ângulo lateral-traseiro ligeiramente elevado do fotógrafo externo, principalmente a tela do celular e o lado do corpo devem ser vistos, não a parte inteira de trás do celular e o módulo da câmera voltados para o fotógrafo externo.
+
+O conteúdo enquadrado na tela corresponde à superfície real da água: a mesma superfície e a mesma sombra borrada podem ser vistas, sem o rosto da selfie da protagonista, cenários irrelevantes ou direção errada.
+
+Quando a protagonista ajusta levemente o pulso, a lente traseira sempre segue a sombra subaquática. Até o momento do ataque do crocodilo gigante, ela recolhe o celular devido ao susto, perturbando sua orientação.
+
+【Crocodilo Gigante & Estado do Primeiro Quadro】
+
+Apenas um crocodilo anormalmente grande cinza-escuro/preto. Ao saltar, sua cabeça aproxima-se do tamanho do torso superior de um adulto, e sua boca aberta ocupa quase metade do lado esquerdo do quadro. O tamanho refere-se ao vídeo original; não gere um crocodilo pequeno comum.
+
+No primeiro quadro, o crocodilo gigante está completamente submerso, apresentando apenas uma sombra alongada enorme e borrada, como madeira afundada. Reflexos da água e turbidez obscurecem detalhes; a cabeça, olhos, narinas, escamas ou dentes não podem ser identificados claramente, e nenhuma parte rompe a superfície.
+
+O crocodilo gigante mantém o mesmo volume durante todo o tempo, não expandindo subitamente no momento do salto.
+
+【0–2 Segundos: Filmando Sombra Subaquática】
+
+A protagonista feminina está parada dentro do corrimão, inclinada ligeiramente para frente, segurando o celular horizontalmente com ambas as mãos, apontando a lente traseira para baixo na enorme sombra na água no canto inferior esquerdo.
+
+Ela olha para baixo na tela voltada para si; a sombra na tela corresponde à sombra na piscina. O fotógrafo externo captura a tela do celular, o perfil lateral da protagonista e a superfície da água abaixo dela a partir do seu lado-traseiro.
+
+O administrador lembra seriamente:
+
+"Senhora, recue um pouco, não se apoie no corrimão!"
+
+Há apenas ondulações leves na superfície da água; o crocodilo ainda não emergiu.
+
+【2–4 Segundos: Alvo se Aproximando, Celular Seguindo】
+
+O enorme contorno subaquático aproxima-se lentamente da posição da protagonista. Ela gira ligeiramente os pulsos, mantendo a lente traseira mirando a sombra em movimento, tela voltada para si, não virando a parte de trás do celular para o fotógrafo externo.
+
+O administrador se aproxima, estendendo a mão para apoiá-la, tom tornando-se urgente:
+
+"Isso não é madeira, está vivo! Não se incline para fora!"
+
+A protagonista começa a recolher o corpo, mas o celular ainda está filmando a superfície da água. No final deste segmento, a ponta do nariz e os olhos do crocodilo acabam de romper a água.
+
+【4–6 Segundos: Ataque do Crocodilo Gigante】
+
+O crocodilo gigante irrompe subitamente através da superfície da água, sua enorme cabeça subindo ao longo do lado externo do corrimão, sua boca aberta ocupando instantaneamente quase metade do lado esquerdo do quadro, levantando grandes respingos.
+
+A protagonista grita, recolhendo apressadamente seu celular e braços. A orientação do celular perde estabilidade devido ao choque; deve ter sido corretamente mirado no crocodilo antes disso.
+
+O crocodilo gigante morde brevemente seu antebraço estendido fora do corrimão e tecido próximo. O administrador imediatamente apoia seu braço superior e ombro/costas, estabilizando seu centro de gravidade dentro do corrimão.
+
+O fotógrafo externo recua meio passo em choque, a câmera dá um solavanco breve para cima, sem corte ou close-up de feridas.
+
+【6–9 Segundos: Fuga & Queda na Água】
+
+O crocodilo gigante libera brevemente a mordida, cabeça cai de volta, a protagonista aproveita para recolher seu antebraço ferido, o administrador puxa-a para o interior da passarela. A ação deve ter uma liberação clara, não pode deixar o braço passar por dentes fechados.
+
+O celular escorrega da mão da protagonista, vira e cai na piscina, caindo apenas uma vez.
+
+O crocodilo gigante bate de volta na água, chutando respingos brancos. A protagonista cobre seu antebraço, uma pequena quantidade de líquido vermelho infiltra da ferida, formando traços curtos e finos, manchando o tecido no ponto de contato, com uma ou duas gotas caindo na passarela de madeira.
+
+Não exiba feridas profundas, sem jorros, sem sangramento pesado.
+
+O administrador grita:
+
+"Recuem! Não estendam a mão! Não peguem o celular!"
+
+【9–11 Segundos: Turistas em Pânico】
+
+A protagonista recua para o meio da passarela, protegendo seu antebraço ferido, ombros tensos, respiração rápida.
+
+Turistas próximos primeiro encolhem os ombros e recuam, puxando companheiros; turistas ao fundo viram-se apenas após ouvir o grito, alguns guardam celulares, alguns se afastam, exclamando sucessivamente:
+
+"Recuem rápido!"
+
+"Não se apoiem no corrimão!"
+
+Reações da multidão têm atrasos de tempo, não sincronizadas, sem clipping, sem cair na piscina. O crocodilo gigante permanece submerso, sem segundo ataque.
+
+【11–13 Segundos: Administrador Evacuando】
+
+O administrador fica entre a protagonista e o corrimão, protegendo-a enquanto ela continua recuando, gesticulando para os turistas abrirem passagem:
+
+"Recuem! Ninguém se aglomere!"
+
+Um turista próximo oferece lenços, a protagonista aceita e aperta-os contra a mesma ferida, o lenço gradualmente mancha com uma pequena quantidade de vermelho.
+
+O fotógrafo recua ligeiramente e corrige a composição, capturando a protagonista, administrador e turistas em pânico recuando simultaneamente.
+
+【13–15 Segundos: Ressaca do Medo】
+
+A protagonista cobre seu antebraço, ofegante, voz trêmula dizendo:
+
+"Quase me matou de medo... Ele realmente mordeu!"
+
+O administrador ainda a protege, olhando cautelosamente para a piscina. Turistas ao fundo sussurram avisos:
+
+"Fiquem longe, não filmem!"
+
+Termina com a protagonista ainda abalada, multidão recuando, ressaca da superfície da água ainda não assentada.
+
+【Áudio no Local】
+
+Todo o áudio é gravado ao vivo no celular, diálogo em chinês, sem música, narração ou legendas.
+
+Começa com murmúrios baixos de turistas, fricção de folhas de bambu e sons leves de água. A voz do administrador é próxima e clara, mudando de lembrete sério para parada urgente conforme o perigo ocorre.
+
+Som pesado de água quando o crocodilo emerge, grito da protagonista, suspiros próximos; seguido por celular caindo na água, pouso de respingo, respiração rápida e passos confusos. Maior respingo e grito causam clipping do microfone brevemente, então ganho automático recupera.
+
+Vozes de turistas distantes são mais dispersas e leves, sem rugidos de monstros adicionados.
+
+【Continuidade & Restrições Chave】
+
+No início, o celular da protagonista deve filmar corretamente o alvo subaquático: tela para cima e voltada para ela, lente traseira para baixo mirando na localização do crocodilo; fotógrafo externo vê principalmente tela e lados. Proíba lente traseira voltada para fotógrafo externo enquanto parece estar filmando alvo subaquático.
+
+Primeiro quadro tem apenas sombra subaquática gigante borrada, sem cabeça clara de crocodilo, olhos, escamas ou dentes. Líquido vermelho aparece apenas após a mordida.
+
+Mantenha continuidade do personagem #1, roupa #2, administrador, crocodilo gigante e passarela. Ferimento está sempre no mesmo antebraço, traços vermelhos, dano no tecido correspondem ao local de pressão do lenço.
+
+Apenas um celular, não retorna à mão após cair. Protagonista e administrador sempre dentro do corrimão, crocodilo @d57ec59a-c0a5-4eae-84f4-4f02ef21a92d sempre na piscina. Mantenha relações causais de contato, peso, mordida, liberação e ações de recuo durante todo o tempo.
+
+Sem close-ups de feridas, sem amputações, sem exibição de tecidos profundos. Peça inteira é um plano-sequência único, sem câmera lenta, replays, revelações de estúdio, overlays de UI ou marcas d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111969592058818560/img/-krKiLC99wPpxCu0.jpg" width="600" alt="Prompt de Vídeo: Ataque de Crocodilo em Parque de Vida Selvagem">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12714)**
+
+**Autor:** [John](https://x.com/john87445528) | **Fonte:** [Link](https://x.com/john87445528/status/2111969616419303595) | **Publicado:** Oct 18, 2026
+
+---
+### Prompt de Vídeo para Diorama de Baleia em Papercraft
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para criar um vídeo animado de diorama em papercraft de 15 segundos, apresentando uma baleia colossal de origami e uma vila de papel, com planos de câmera específicos e design sonoro.
+
+#### 📝 Prompt
+
+```
+Diorama animado em camadas de papercraft, fibras e dobras de papel visíveis, bordas serrilhadas, paralaxe entre as camadas de papel, sombras suaves, luz traseira quente brilhando através do papel fino, movimento artesanal suave. Gradação de cor: creme, azul empoeirado, terracota, verde sálvia, luz traseira dourada quente.
+Uma baleia colossal feita de papel dobrado em origami com vincos nítidos. Uma vila recortada em papel com telhados e moinhos de vento, onde pequenos vilarejos de papel empinam pipas.
+PLANO 1 (0 a 3s): Plano aberto correspondente à imagem de referência, a baleia avança e suas barbatanas dobradas se desdobram e redobram com movimentos de vinco nítido, nuvens de papel deslizam em camadas de paralaxe.
+PLANO 2 (3 a 6s): Plano médio, lente de 50mm, os vilarejos em uma colina puxam as linhas de suas pipas enquanto a sombra da baleia passa sobre eles, as pás dos moinhos giram mais rápido no rastro dela.
+PLANO 3 (6 a 9s): Close-up, lente de 85mm, o olho da baleia, um pequeno círculo recortado, pisca enquanto a luz traseira brilha através do papel fino de sua cabeça, revelando texto impresso sutil dentro das dobras.
+PLANO 4 (9 a 12s): Plano de acompanhamento em ângulo baixo, lente de 24mm, a baleia mergulha em direção à vila e sua cauda espalha uma onda de confetes de papel e pássaros de papel pelos telhados.
+PLANO 5 (12 a 15s): Plano geral extremo, lente de 16mm, a baleia sobe ao céu e se desdobra completamente em uma folha plana que se torna um sol gigante de papel, iluminando toda a vila com calor.
+Farfalhar de papel, dobras macias crepitando, rangidos de moinho de vento, um chamado suave de baleia que soa como uma respiração através do papel, risos de crianças, caixa de música e piano suave.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111878182143995904/img/MxkM_Z1EzpswyEpr.jpg" width="600" alt="Prompt de Vídeo para Diorama de Baleia em Papercraft">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12711)**
+
+**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fonte:** [Link](https://x.com/AllaAisling/status/2111938622903800285) | **Publicado:** Oct 18, 2026
+
+---
+### Ação de Transformação do Supercarro Rosa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para uma sequência surreal de ação onde um supercarro rosa de brinquedo se transforma em um real, culminando em um drift pelas ruas de Tóquio.
+
+#### 📝 Prompt
+
+```
+Sequência cinematográfica ultra-realista de ação, apresentando uma jovem mulher com longos cabelos pretos, vestindo uma camiseta oversized preta com estampa gráfica e botas pretas, sentada fora de uma casa suburbana segurando um mini supercarro rosa. De repente, o carro de brinquedo magicamente se transforma em um supercarro rosa em tamanho real, ultra-realista, e decola no ar, voando por uma rua residencial tranquila antes de transicionar para um cruzamento urbano dramático estilo Tóquio. A mulher aparece no banco do motorista enquanto o supercarro rosa faz um drift agressivo pela cidade, girando na faixa de pedestres com fumaça realista dos pneus, rodas girando, desfoque de movimento cinematográfico e reflexos no asfalto. O carro acelera através do cruzamento, deixando rastros espessos de fumaça branca, então desliza dramaticamente em direção a uma loja de conveniência japonesa brilhantemente iluminada. Corte para uma tomada cinematográfica ampla do carro fazendo drift do lado de fora da loja enquanto os pedestres reagem com surpresa. Cena final: a mulher sai confiante da entrada da loja de conveniência, cercada por compras espalhadas e reflexos de vidro, enquanto o supercarro rosa permanece visível ao fundo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111703894468460544/img/Bgm8jv1RtgL6qRWR.jpg" width="600" alt="Ação de Transformação do Supercarro Rosa">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12713)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2111703937669894630) | **Publicado:** Oct 18, 2026
+
+---
 ### Vídeo Cinematográfico de Ataque de Leão no Zoológico
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5428,188 +5701,6 @@ borrado, má qualidade, baixa qualidade, baixa resolução, ruído, artefatos jp
 **Autor:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2105490567601995924) | **Publicado:** Oct 1, 2026
 
 ---
-### Prompt de Vídeo Anime: O Sino de Vento Perdido
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt detalhado para o Seedance 2.0 gerar um curta-metragem anime baseado em storyboard, enfatizando a consistência visual e os momentos emocionais.
-
-#### 📝 Prompt
-
-```
-TÍTULO
-O Sino de Vento Perdido
-
-REFERÊNCIA
-Use o quadro de storyboard e a folha de personagens enviados como principal referência visual.
-
-Mantenha todos os designs dos personagens, detalhes do ambiente, design do sino de vento, aparência do gatinho, iluminação rural e os momentos emocionais da história consistentes com as referências fornecidas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105278709301383168/img/42PGLSXmI_6k8b-Y.jpg" width="600" alt="Prompt de Vídeo Anime: O Sino de Vento Perdido">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11714)**
-
-**Autor:** [Thea Vales](https://x.com/codesthea) | **Fonte:** [Link](https://x.com/codesthea/status/2105278815346065805) | **Publicado:** Sep 30, 2026
-
----
-### Prompt de Vídeo de Viagem Seedance 2: Cena na Varanda com Interação do Vento
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt detalhado para geração de vídeo no Seedance 2, que cria um clipe realista de 10 segundos em estilo vlog de viagem, mostrando uma mulher asiática na varanda de um hotel. Inclui instruções específicas para manter a consistência do personagem a partir de uma imagem de referência e coreografar uma interação natural com o vento soprando um guardanapo.
-
-#### 📝 Prompt
-
-```
-Mantenha as características faciais, o penteado, o vestido slip floral azul e branco, as proporções corporais, a varanda, os itens da mesa e o ambiente com vista para o mar consistentes com a imagem de referência. Não altere o rosto nem as roupas.
-
-Um vídeo realista de 10 segundos, estilo snapshot de viagem, como se fosse gravado casualmente por um amigo na varanda de um hotel.
-
-No início, uma jovem asiática está sentada naturalmente no sofá da varanda, olhando discretamente para o lado, em direção ao mar distante e ao pôr do sol. A brisa do mar sopra suavemente seus cabelos longos e a barra do vestido. Ela pisca naturalmente, e seu corpo apresenta leves movimentos de respiração.
-
-Por volta do terceiro segundo, uma rajada mais forte de brisa marítima vem lateralmente, levantando um guardanapo fino sobre a mesa e deslizando-o em direção à borda da varanda. A garota fica momentaneamente surpresa, olha para baixo, vê o guardanapo e instintivamente estende a mão rapidamente para agarrá-lo.
-
-Por volta do quinto segundo, ela quase não consegue pegá-lo, inclinando-se ligeiramente para frente, com os cabelos também bagunçados pelo vento. Finalmente, ela agarra o guardanapo com sucesso, sorri primeiro olhando para baixo e depois se recosta no sofá com uma expressão levemente resignada.
-
-Nos últimos 2 segundos, ela pressiona o guardanapo sobre a mesa, usa uma mão para alisar os cabelos bagunçados pelo vento e então volta a olhar para o pôr do sol distante, ainda sorrindo levemente nos cantos da boca.
-
-Mantenha toda a sequência com a sensação realista de câmera de celular na mão. Leve tremor de handheld, sem órbitas, sem zooms rápidos, permitindo apenas um push-in muito lento e natural para frente. O brilho do mar, os veleiros distantes, as cortinas e as mechas de cabelo devem manter movimento natural.
-
-Enfatize o movimento humano realista e a inércia gravitacional. Estabilidade facial durante todo o tempo, dedos normais, estrutura do vestido estável, sem deformações na mesa ou nas bebidas.
-
-Evite: Personagem levantando-se subitamente, riso exagerado, guardanapo voando muito alto, grandes distorções corporais, deriva facial, troca de rosto, deformidades nos dedos, mudanças de roupa, desaparecimento súbito dos itens da mesa, movimentos cinematográficos bruscos de câmera.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105274287473225728/img/esgfZa1DcyQkpeXR.jpg" width="600" alt="Prompt de Vídeo de Viagem Seedance 2: Cena na Varanda com Interação do Vento">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11720)**
-
-**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fonte:** [Link](https://x.com/Adam38363368936/status/2105274634786767041) | **Publicado:** Sep 30, 2026
-
----
-### Noiva Foge do Casamento em Carro Vintage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo detalhado para o Seedance 2.0, gerando uma cena cômica de uma noiva fugindo do seu casamento e acelerando em um carro vermelho vintage, com instruções específicas de movimentos de câmera e estilo.
-
-#### 📝 Prompt
-
-```
-Use a folha de personagens como referência visual. Preserve exatamente o rosto, penteado, vestido, proporções corporais e acessórios da noiva durante todo o vídeo. Formato paisagem 16:9.
-
-0–3 seg — A FUGA
-Uma cerimônia de casamento está acontecendo quando a noiva irrompe subitamente pelas portas gigantes da igreja e corre escada abaixo, ainda segurando seu buquê. Sua expressão é determinada, mas hilariantemente empolgada. Seu véu e vestido voam desordenadamente atrás dela. A câmera recua rapidamente à frente dela enquanto ela corre. Alguns convidados confusos aparecem ao fundo, percebendo o que está acontecendo.
-3–5 seg — ATÉ O CARRO
-Ela avista um carro vintage vermelho brilhante dos anos 1950 esperando na calçada. Ela chuta fora um sapato de salto branco de noiva enquanto corre, então se joga em direção à porta do motorista. Um whip-pan rápido segue seu movimento.
-
-5–8 seg — ACELERADA BRUSCA
-Ela pula no carro, bate a porta, liga o motor e PEELA AWAY (acelera bruscamente) a uma velocidade ridícula. Os pneus guincham, uma pequena nuvem de fumaça aparece, e seu longo véu branco fica preso na porta que fecha e esvoaça dramaticamente atrás do carro. O buquê cai no banco do passageiro.
-8–11 seg — CAOS
-Cortes internos rápidos e cômicos:
-Noiva agarrando o volante e rindo → seu véu chicoteando ao redor do rosto → buquê quicando no banco do passageiro → seu outro sapato de noiva voando pelo ar → convidados correndo impotentes atrás do carro que desaparece.
-
-11–15 seg — ELA ESTÁ LIVRE
-Plano lateral dinâmico acompanhando o carro vermelho correndo por uma estrada vintage ensolarada. A noiva dirige com uma mão só, completamente despreocupada. Ela olha pelo espelho retrovisor, vê a igreja desaparecendo à distância, sorri, então sopra um enorme balão de chiclete rosa.
-Quadro final:
-O carro vermelho acelera em direção ao horizonte, com o véu esvoaçando atrás dele.
-
-Estilo: comédia física frenética, energia rebelde e brincalhona, Americana dos anos 1950, carro vintage vermelho saturado, vestido de noiva branco cremoso, luz solar dourada quente, granulação cinematográfica de filme vintage, realismo ligeiramente pictórico, movimento realista, movimento de câmera energético, whip pans, cortes rápidos, comédia exagerada porém crível.
-Importante: Sem câmera lenta, sem clima triste, sem romance dramático, sem diálogo, sem texto, sem outras noivas, sem mudanças de rosto, sem mudanças de roupa, sem mãos distorcidas, sem morphing.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105227546409246720/img/t7RT8ssTY9gAxD5E.jpg" width="600" alt="Noiva Foge do Casamento em Carro Vintage">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11715)**
-
-**Autor:** [Caden Flux](https://x.com/Caden_Flux) | **Fonte:** [Link](https://x.com/Caden_Flux/status/2105228156085137501) | **Publicado:** Sep 30, 2026
-
----
-### Vídeo de Bolo de Chocolate com Morango
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para gerar um vídeo em close-up fotorrealista de um bolo gourmet de chocolate com morango e cobertura de brigadeiro escorrendo, ideal para conteúdo gastronômico ou publicidade.
-
-#### 📝 Prompt
-
-```
-Um close-up fotorrealista de um bolo gourmet de chocolate com morango e cobertura de brigadeiro escorrendo sobre uma mesa de mármore, com atmosfera aconchegante de café
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105215993165570048/img/WnK1fBpmIu8fWBEx.jpg" width="600" alt="Vídeo de Bolo de Chocolate com Morango">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11718)**
-
-**Autor:** [Anni](https://x.com/AnneYu99) | **Fonte:** [Link](https://x.com/AnneYu99/status/2105216117669339237) | **Publicado:** Sep 30, 2026
-
----
-### Prompt de Vídeo com Zoom Óptico Cinematográfico Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt detalhado para geração de vídeo no Seedance 2.0, destacando a técnica de zoom óptico cinematográfico em um cenário de antiga cidade de Jiangnan, focando na interação entre personagens e na física realista da câmera.
-
-#### 📝 Prompt
-
-```
-[Configurações Globais]
-Cena cinematográfica realista em estilo antigo, narrativa clássica oriental: uma antiga cidade de Jiangnan após a chuva — degraus de pedra azulada, tijolos azuis e telhas pretas, corredores de madeira, portas esculpidas, cortinas de bambu, becos úmidos de pedra. Luz suave e difusa sob céu nublado, baixo contraste, fusão de tons cinza-esverdeados frios e madeiras quentes, leve granulação de filme 35mm, texturas realistas de pele, madeira, pedra e tecido, profundidade de campo rasa cinematográfica, 8K, 16:9.
-
-Protagonista Feminina A: Imagem 1
-Protagonista Feminina B: Imagem 2
-
-Mantenha rigorosamente a identidade dos personagens, posição espacial, relação esquerda-direita, direção do movimento, clima, iluminação e continuidade tonal ao longo de todo o vídeo.
-
-[Técnica Cinematográfica Central]
-Todo o vídeo utiliza "zoom óptico progressivo" como único movimento central de câmera. A câmera permanece o mais fixa possível, dependendo não de movimento físico, mas de empurrões e puxadas ópticos lentos e contínuos para alterar a proporção dos personagens na tela e suas relações espaciais. Mantenha a compressão real da lente, mudanças na profundidade de campo e características ópticas; é proibido recorte digital. Oclusões de primeiro plano, profundidade de campo rasa e deslocamentos de foco auxiliam a narrativa, formando "descoberta à distância -> contato visual através do beco -> compressão espacial -> confirmação emocional."
-
-[0-4s]
-Início em plano médio, 35mm, câmera fixa, altura dos olhos. A Protagonista Feminina A desce lentamente pelos degraus de pedra azulada até a entrada do beco, para, vira-se e olha para cima, vendo a Protagonista Feminina B sob as marquises distantes do corredor. O plano começa com uma composição ambiental mais ampla, apenas empurrando opticamente devagar, apertando gradualmente para um plano médio da Protagonista Feminina A, sem movimento de câmera.
-
-Pedestres da cidade passam horizontalmente pelo primeiro plano da esquerda para a direita, criando oclusões desfocadas naturais em curta distância, enquanto a Protagonista Feminina A permanece nítida; exposição, temperatura de cor e luz/sombra permanecem estáveis durante a oclusão. O zoom continua suave e contido, finalmente formando um contato visual entre a Protagonista Feminina A e a Protagonista Feminina B através do beco.
-
-[4-9s]
-Continuando do segmento anterior, a posição da câmera permanece completamente inalterada. A Protagonista Feminina B entra lentamente pelo primeiro plano direito, aproximando-se do pilar do corredor de madeira, formando uma moldura natural de primeiro plano com o pilar; a Protagonista Feminina A está profundamente no meio-esquerdo do beco.
-
-Zoom óptico lento e contínuo, a Protagonista Feminina A inicialmente permanece nítida, então o plano aperta gradualmente, a proporção da Protagonista Feminina B no primeiro plano aumenta, e a Protagonista Feminina A recua para o fundo com desfoque suave. Entrando gradualmente na extremidade teleobjetiva, a compressão real do espaço faz a profundidade do beco antigo parecer comprimida; a distância real entre os dois permanece inalterada, mas a distância visual é claramente encurtada. O foco muda suavemente da Protagonista Feminina A para a Protagonista Feminina B, terminando com o perfil da Protagonista Feminina B nítido e a Protagonista Feminina A desfocada. Sem movimento lateral, panorâmica ou órbita; exposição e tom são contínuos.
-
-[9-13s]
-Mantenha a câmera fixa e a relação teleobjetiva. A Protagonista Feminina B fica junto ao pilar do corredor de madeira, virando-se lentamente para olhar a Protagonista Feminina A. Realize apenas um empurrão óptico extremamente lento, apertando de uma composição de relação entre duas pessoas para um close médio da Protagonista Feminina B. Retenha um contorno parcial desfocado da Protagonista Feminina A no lado esquerdo da tela, formando uma moldura de primeiro plano estilo voyeurística.
-
-A Protagonista Feminina B torna-se o foco principal, olhando para a Protagonista Feminina A, pausando brevemente antes de dizer suavemente: "Há quanto tempo." Mostrando um sorriso sutil. As cortinas de bambu são sopradas pela brisa gentil pós-chuva, gotas d'água caem naturalmente das marquises, e a pedra azulada molhada reflete a luz suave do céu. A câmera avança constantemente, terminando em confirmação emocional em curta distância.
-
-[Controle de Câmera]
-O núcleo deve ser "zoom óptico criando mudanças de distância narrativa", em vez de movimento de câmera. A linguagem de câmera completa sequencialmente: estabelecimento do ambiente -> descoberta da Protagonista Feminina A -> aperto lento -> entrada da Protagonista Feminina B -> confirmação emocional. A câmera deve permanecer fisicamente estacionária; toda a mudança de escala vem exclusivamente do zoom óptico.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105198910453248000/img/jA-Hhk-O30nR6Tli.jpg" width="600" alt="Prompt de Vídeo com Zoom Óptico Cinematográfico Seedance 2.0">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11721)**
-
-**Autor:** [灰度笔记](https://x.com/GrayNoteLab) | **Fonte:** [Link](https://x.com/GrayNoteLab/status/2105199106578870298) | **Publicado:** Sep 30, 2026
-
----
-### Prompt de Vídeo de Batalha Noturna de Guerreira Wuxia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar um vídeo cinematográfico de 30 segundos no estilo wuxia, apresentando uma guerreira em uma vila chinesa antiga à noite. A cena inclui roupas Hanfu tradicionais, lanternas vermelhas brilhantes, montanhas nebulosas e intenso combate com espadas contra atacantes com efeitos mágicos.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo cinematográfico ultra-realista de 30 segundos no estilo wuxia, ambientado à noite em uma vila chinesa antiga, com edifícios de madeira tradicionais, uma rua pavimentada com pedra, uma pequena ponte arqueada, montanhas nebulosas ao fundo e muitas lanternas vermelhas brilhantes penduradas ao longo da rua. Uma jovem bela vestindo um elegante Hanfu vermelho tradicional chinês flutuante caminha calmamente em direção à câmera, com longos cabelos escuros estilizados de forma tradicional e uma expressão séria e confiante. À medida que ela se aproxima, a câmera avança lentamente e a segue naturalmente, capturando a luz das lanternas, o movimento do tecido, a névoa atmosférica e passos realistas. Por volta do meio da cena, ela para subitamente e saca com confiança uma espada mágica vermelha brilhante, segurando-a horizontalmente na frente dela enquanto sua expressão se torna focada e poderosa. A câmera entra em um close dramático de seu rosto e da espada, mostrando textura realista da pele, cabelo detalhado, reflexos brilhantes e profundidade de campo cinematográfica. Vários atacantes misteriosos vestidos de preto aparecem ao redor dela, correndo em sua direção de diferentes direções, criando uma atmosfera tensa de artes marciais. Ela gira rapidamente e executa movimentos coreografados poderosos com a espada, bloqueando e golpeando os atacantes com movimentos rápidos, porém críveis, enquanto a espada brilhante deixa sutis rastros de luz vermelha. Os atacantes são derrubados na rua de pedra ao redor dela, enquanto ela permanece em pé confiante no centro com a espada erguida, cercada por lanternas vermelhas e névoa leve. Termine com uma tomada cinematográfica ampla recuando lentamente para revelar a mulher sozinha entre os atacantes caídos, edifícios da vila antiga e montanhas atrás dela, mantendo aparência consistente do personagem, movimento realista, iluminação cinematográfica, texturas detalhadas, atmosfera dramática, movimento suave da câmera, proporção de tela 16:9, 30 segundos, sem texto, sem marca d'água.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105162066277568512/img/ylAZwfteWys8V_NP.jpg" width="600" alt="Prompt de Vídeo de Batalha Noturna de Guerreira Wuxia">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11624)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2105162931847807476) | **Publicado:** Sep 30, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -5671,6 +5762,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-19T03:44:06.051Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-19T09:58:10.453Z</sub>
 
 </div>

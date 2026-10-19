@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6557** |
+| 📝 Toplam İstem | **6563** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-10-19** |
 
@@ -361,6 +361,279 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Aşırı Yakın Çekim Güzellik Portresi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Göz hareketlerine ve cilt dokusuna odaklanan, kasvetli aydınlatmalı, yüksek detaylı ve yavaş çekim sinematik portre oluşturmak için bir istem.
+
+#### 📝 İstem
+
+```
+Zarif yüz hatlarına, büyüleyici koyu kahverengi gözlerine, uzun kıvrık kirpiklerine, hafif dumanlı göz makyajına ve doğal parlayan porselen cildine sahip güzel genç bir kadının ultra gerçekçi sinematik aşırı yakın çekim portresi. Video, kapalı gözlerinin aşırı makro çekimiyle başlar; koyu renkli, hafif nemli saç telleri yüzüne doğal şekilde düşmektedir. Yavaşça gözlerini açar, derin ve ifade dolu kahverengi irisleri ortaya çıkar ve kamera yumuşak bir şekilde geri çekilerek tüm yüzünü gösterir. Şık sarkıt gümüş küpeler takmaktadır, birkaç ince saç teli yanaklarını çerçeveler. Dudakları hafifçe aralıktır, gizemli ve duygusal bir ifade yaratır. Kasvetli lacivert-siyah arka plan, dramatik yumuşak yan aydınlatma, gözlerinde yansıyan ince parlak noktalar, gerçekçi gözenekler, zarif gölgeler, sığ alan derinliği, sinematik atmosfer, premium güzellik kampanyası estetiği, fotogerçekçi detaylar, akıcı doğal göz hareketi, yavaş kamera hareketi, 85mm portre lensi, f/1.8, HDR, 8K kalite, son derece detaylı kirpikler ve irisler, profesyonel renk düzenleme, dikey kompozisyon, 9:16 en-boy oranı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112049335458500608/img/FIrkhU4PbyO6yYLa.jpg" width="600" alt="Aşırı Yakın Çekim Güzellik Portresi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12712)**
+
+**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2112049364940263843) | **Yayınlandı:** Oct 19, 2026
+
+---
+### Helikopter Trambolin Sıçrama Video İstemi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Seedance 2.0 için özel olarak tasarlanmış, bir kişinin helikopterden deniz üzerindeki tramboline atlayıp geri sektiği 15 saniyelik gerçekçi videoyu oluşturmak için detaylı bir istem.
+
+#### 📝 İstem
+
+```
+[Öncelikli Referans Görsel ve İsim Sabitleme]
+@ image1 = Açıklama Adı: Başrol
+Başrolün kimliği, yüzü, saç modeli, vücut tipi, kostümü, aksesuarları, ekipmanı ve ayakkabı görünüm standartları.
+Sonraki metinde yalnızca yukarıda sabitlenen isimleri kullanın.
+15 saniye, 3:4 en-boy oranı, fotogerçekçi canlı çekim, gündüz parlak mavi bir deniz üzerinde geçen, kesintisiz sesli görüntü. Tüm süre boyunca sahne kesintisi yok. Karakter referansı yalnızca başrolün görünümü için kullanılmalı; üç yönlü şemalar, paralel gösterimler veya metin/örnek düzenleri videoya dahil edilmemeli. Karakter kimliği, kostümler, aksesuarlar ve fiziksel yapı baştan sona korunmalı. BGM (arka plan müziği), altyazı, başlık veya logo yok.
+Karakterler: Başrol, Ekip Üyesi A, Ekip Üyesi B, Ekip Üyesi C (toplam 4 kişi). Beyaz gövdeli ve mavi çizgili orta boy sivil çekim helikopteri. Siyah kızak iniş takımı, açık geniş yan sürgülü kapı, biniş için dış basamaklar, koyu gri iç mekan. Helikopter baştan sona deniz yüzeyinin üzerinde sabit yükseklikte kalır. Uzakta bir kıyı şeridi görünür ve aşağıdaki deniz yüzeyine yerleştirilmiş dairesel bir trambolin bulunur. Başrol, açık kapının dışındaki dış basamakta durur ve aşağıdaki uzak tramboline bakar. Ekip Üyesi A, kapı yakınında mavi rüzgarlık, siyah can yeleği ve havacılık iletişim kulaklığı giymiş halde durur. Ekip Üyesi B, uçak içinde kapı yakınında turuncu rüzgarlık, siyah can yeleği ve havacılık iletişim kulaklığı giymiş halde durur. Ekip Üyesi C, uçak derinlerinde yeşil rüzgarlık, siyah can yeleği ve havacılık iletişim kulaklığı giymiş haldedir. Üç ekip üyesinin de yüzleri görünür. Kamera, helikopter kapısına yakın aynı çekim konumundan başlar; başrolü, üç ekip üyesini ve kapının ötesindeki denizi hafif geniş açılı lensle çeker. Kameranın montaj konumu değiştirilmemeli; düşüş ve yükselişe göre dikey yönelimi ayarlanmalıdır. Rüzgar sesi ve helikopter rotor sesleri doğal şekilde devam eder.
+0.0–3.0s: Ekip Üyesi A başrole bakarak gülümser ve "Hazır mısın?" diye sorar. Başrol yüzünü Ekip Üyesi A'ya çevirir, başını sallar, ardından doğrudan kamera merceğine bakar; gerilim ve heyecanı karışık bir gülümsemeyle gösterir ve enerjik bir şekilde doğal Japonca ile "Tamam, gidiyorum!" der. Her iki tarafın da görünen ağız hareketleri kendi tam diyaloglarıyla eşleşmelidir. Ekip Üyesi B gülümseyerek yumruğunu hafifçe kaldırır ve Ekip Üyesi C mutlu bir şekilde gülümseyerek hafifçe dışarı eğilir ve başını sallar. Konuşma sonrası başrol derin bir nefes alır, aşağıdaki dairesel tramboline bakar, dış basamaktan iterek kendini atar.
+3.0–6.2s: Başrol helikopterden atladığı anda, Ekip Üyesi B ona doğru "Git!" diye bağırır. Kamera, kapı yakınındaki çekim konumunu koruyarak hızla aşağı döner ve düşen başrolü kadrajın ortasında takip eder. Başrol düşerken vücudunu uzatır, mesafe arttıkça kadrajda küçülür. Aşağıdaki dairesel trambolin görünür hale gelir ve başrol merkeze hedeflenerek ona yaklaşır. Kamera aşağı bakarken üç ekip üyesi kadraj dışındadır, ancak uçak içinden neşeli tezahüratlar duyulabilir. Rotor sesleri ve rüzgar gürültüsü devam eder.
+6.2–7.7s: Başrol, deniz yüzeyindeki dairesel trambolinin merkezine yakın iner. Gerilmiş atlama yüzeyi başrolün ağırlığı altında belirgin şekilde çöker, ardından iniş durduktan hemen sonra güçlüce geri iter. Kamera aşağı bakmaya devam eder; inişi, atlama yüzeyinin çökmesini ve sekme nedeniyle yukarı momentumuna dönüşü tek bir kesintisiz çekimde gösterir. İniş ve sekme anındaki darbe sesleri duyulur.
+7.7–11.6s: Başrol, sekmenin momentumuyla helikoptere doğru yüksekçe seker, dizlerini göğsüne çekerek vücudunu küçükçe katlar ve havada şiddetle döner. Kamera, aynı çekim konumundan yükselen başrole uyum sağlamak için yukarı ayarlanır. Başrol yaklaştıkça kadrajda büyür ve açık kapı ile dış basamak tekrar görünür hale gelir. Başrol hızlıca yükselerek helikopterin dış basamağına ulaşmadan hemen önceki noktaya kadar çıkar, basamağa ulaştığı anda dönüşü hızla açar ve bacaklarını uzatır, tereddüt etmeden atladığı aynı dış basamağa her iki ayağını sağlamca basar. İnişte dizlerle şoku emer ve üst vücudu hemen düzeltir, başlangıçtaki aynı pozisyona, vücut yönelimine ve duruşa döner. Helikoptere yaklaşmayı, dönüşü açmayı, ayakları basmayı ve duruşa dönmeyi normal hızda kesintisiz devam eden keskin, hızlı bir hareket serisi olarak filme alın. Helikopterin deniz yüzeyi üzerindeki yüksekliği değişmez.
+11.6–15.0s: Kamera kapı etrafındaki ilk yönelimine döner. Ekip Üyesi A başrole doğru gülümseyerek alkışlar. Ekip Üyesi B neşeyle yumruğunu havaya kaldırır ve kısa bir şekilde "Yaşasın--!" diye bağırır. Ekip Üyesi C başrole bakar, gülümser ve ellerini çırpır. Nefes nefese kalan başrol, yüzünü kamera merceğine çevirir, gözleri parlar ve güvenli dönüşün heyecanı ve mutluluğuyla parlak ve doğal bir şekilde konuşur: "Vay be! Vay be, harikaydı!" Konuşma sırasında Ekip Üyesi B ve başrolün ağız hareketlerini kendi tam diyaloglarıyla eşleştirin. Son kare: Başrol, ilk dış basamakta duruyor, heyecanlı ifadeyle kamerayla konuşmasını bitiriyor; arkasında Ekip Üyesi A ve Ekip Üyesi C alkışlıyor ve Ekip Üyesi B seviniyor. Ekip alkışları ve rotor sesleri devam ederken 15. saniyede bitiş.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112029649937252353/img/0tCnzv5dkI0fQFPc.jpg" width="600" alt="Helikopter Trambolin Sıçrama Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12715)**
+
+**Yazar:** [M7［mi7］AI](https://x.com/mi7_crypto) | **Kaynak:** [Link](https://x.com/mi7_crypto/status/2112029684594872632) | **Yayınlandı:** Oct 19, 2026
+
+---
+### Sessiz Karşılaşma: Kore Dizisi Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İki kadın arasındaki gerilim ve sessiz etkileşime odaklanan, apartman koridorunda geçen, sinematik ve atmosferik bir Kore dizisi sahnesi oluşturmak için bir istem.
+
+#### 📝 İstem
+
+```
+Sakin, loş ışıklı bir apartman koridorunda bulunan iki güzel genç Koreli kadını içeren, 28 saniyelik ultra gerçekçi sinematik bir Kore dizisi sahnesi oluşturun. Kadınlardan biri uzun, düz siyah saçlara ve zarif bir siyah kıyafete sahipken, diğeri sade bir el çantasıyla şık beyaz bir takımı giymektedir. Yumuşak mavi ışığın aydınlattığı karanlık bir koridorda yavaşça yürüyen siyah giyimli kadının gizemli bir arka plan çekimiyle başlayın. Her iki kadının yan yana geçtiği, ince bir gerilim ve merak havası yaratan, detaylı bir apartman koridoruna geçiş yapın. Gerilimi artırmak için sinematik yakın çekimler, doğal yürüyüş hareketleri, gerçekçi yüz ifadeleri ve akıcı kamera takipleri kullanın. Ahşap bir kapı girişinin ve zemin yakınındaki hafif bir hareketin ardından boş bir koridorun ve metalik asansör iç mekanının yakın çekimini gösterin. Siyah giyimli kadının asansörde ciddi bir ifadeyle sessizce duruşunu yakalayın. Beyaz giyimli kadının koridorda tek başına yürüyüşüyle bitirin; ardından dışarıda, siyah saçları rüzgârda hafifçe dalgalanan nefes kesici bir yüz yakın çekimi gelmelidir. Yumuşak doğal ışıklandırma, soluk renkler, sığ alan derinliği, gerçekçi cilt dokusu, sinematik kompozisyon, akıcı geçişler ve profesyonel Kore dizisi sinematografisi kullanın. Video boyunca tutarlı yüz kimliklerini, saç stillerini, kıyafetleri ve vücut oranlarını koruyun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112012335745568768/img/7htU0qp0NJG1AW7B.jpg" width="600" alt="Sessiz Karşılaşma: Kore Dizisi Sahnesi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12710)**
+
+**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2112012480860000276) | **Yayınlandı:** Oct 19, 2026
+
+---
+### Vahşi Yaşam Parkı Timsah Saldırısı Video İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Belirli karakter referansları ve kamera davranışlarını içeren, vahşi yaşam parkında ani bir timsah saldırısının gerçekçi, titrek kameralı tarzda videosunu oluşturmak için detaylı bir istem.
+
+#### 📝 İstem
+
+```
+【Video Özellikleri & Genel Tarz】
+
+9:16 dikey ekran, 15 saniye, tek kesintisiz çekim. Çin'deki bir vahşi yaşam parkının içinde, sıradan bir telefonla bir turist tarafından kazara yakalanan heyecan verici bir sahne. Başlangıçta sakin olan fotoğrafçı, devasa bir timsahın saldırmasıyla yarım beat geç şaşkına döner; kamera titrer, yön değiştirir, sonra aceleyle kişiyi tekrar bulur. Amatör telefon görüntülerinin gerçekçiliğini koruyun.
+
+【Karakter & Referans Kilitleme】
+
+Kadın başrol, #598c0e35-7c27-4b7c-8bac-19bb206ff1c3 numaralı önceden ayarlanmış yetişkin Çinli kadın karakter #1'i kullanır ve #d57ec59a-c0a5-4eae-84f4-4f02ef21a92d numaralı önceden ayarlanmış kıyafet #2'yi giyer. Yüzü, uzun saçları, kıyafet stili, rengi ve malzemesini referansla sıkıca tutarlı şekilde sürdürün. #1 kişidir, #2 kıyafettir; sayılar karede görünmez.
+
+Yönetici, kırk yaşlarında, kısa siyah saçlı, haki renkli kısa kollu iş üniforması ve koyu renk pantolon giyen, göğsünde bir kimlik kartı taşıyan Çinli bir erkektir ve kadın başrolün arkasında ve yanında durmaktadır.
+
+Arka planda, yazlık rahat kıyafetler giyen ve tahta yolda doğal olarak dağınık duran birkaç yetişkin Çinli turist vardır.
+
+【Sahne & Kamera Konumu】
+
+Tropikal timsah izleme alanı, derin yeşil bir havuz boyunca uzanan eski bir ahşap tahta yol, karşı kıyıda bambular, palmiyeler ve çalılar. Kalın ahşap korkuluklar, karenin sağ alt köşesinden arka plana doğru çapraz olarak uzanır.
+
+Dışarıdaki fotoğrafçı, kadın başrolün yaklaşık bir metre arkasında ve yanında durur, onun telefonunun pozisyonundan biraz daha yüksekte, dikey olarak aşağıya doğru çeker. Karenin sağ tarafında kadın başrol, yönetici ve tahta yol; sol ve alt taraflarda ise havuz görünür.
+
+Nemli gündüz, bitki örtüsü arasından süzülen doğal güneş ışığı, su yüzeyinde hafif yeşil yansıma. Sıradan telefon 1x ana kamera, hafif el titremesi, eğilme, sıkıştırma artefaktları, gölgelerde gürültü, hızlı dönüşlerde kısa bulanıklık. Sinematik renk düzenlemesi, drone çekimleri veya portre bokeh yok.
+
+【Kadın Başrolün Telefon Yönü — Kesinlikle Doğru Olmalı】
+
+Kadın başrol, suyun içindeki timsahı filme almak için telefonunun arka kamerasını kullanıyor, selfie çekmiyor veya telefonu dışarıdaki fotoğrafçıya göstermiyor.
+
+Telefonu iki eliyle yatay olarak uçlarından tutuyor, parmakları arka kameradan uzak duruyor. Telefon, göğsünün altında, korkuluğun dış kenarına yakın yerde bulunuyor ve gövdesi net bir şekilde aşağıya doğru eğik. Arka lensin yönü, sol alttaki suyun altındaki devasa gölgeye tam olarak düşüyor.
+
+Telefon ekranı yukarı ve hafifçe yüzüne dönük; telefonun arkası ve arka lens aşağıya, su yüzeyine dönük. Ekranı aşağıdan izliyor, suyun içindeki hedefi onun üzerinden gözlemliyor.
+
+Dışarıdaki fotoğrafçının hafif yükseltilmiş yan-arka açısından bakıldığında, esas olarak telefon ekranı ve vücudun yan kısmı görülmeli, tüm telefon arkası ve dışarıdaki fotoğrafçıya bakan kamera modülü değil.
+
+Ekranda çerçevelenen içerik, gerçek su yüzeyiyle eşleşiyor: aynı su yüzeyi ve aynı bulanık gölge görünüyor, kadın başrolün selfie yüzü, alakasız manzaralar veya yanlış yön yok.
+
+Kadın başrol bileğini hafifçe ayarladığında, arka lens her zaman su altındaki gölgeyi takip eder. Devasa timsah saldırmadan önce, şok nedeniyle telefonu geri çeker ve yönünü bozar.
+
+【Devasa Timsah & İlk Kare Durumu】
+
+Sadece anormal derecede büyük, koyu gri-siyah bir timsah. Zıplarken, başı bir yetişkinin üst gövdesi boyutuna yaklaşır ve açık ağzı karenin sol tarafının neredeyse yarısını kaplar. Boyut orijinal videoya atıfta bulunur; sıradan küçük bir timsah üretmeyin.
+
+İlk karede, devasa timsah tamamen suyun altında kalır, sadece batık odun gibi devasa, bulanık, uzun bir gölge sunar. Su yansımaları ve bulanıklık detayları gizler; baş, gözler, burun delikleri, pullar veya dişler net bir şekilde tanımlanamaz ve hiçbir kısım yüzeye çıkmaz.
+
+Devasa timsah, zıplama anında ani bir büyüme göstermeden, hacmini sürekli korur.
+
+【0–2 Saniye: Su Altı Gölgesini Filmler】
+
+Kadın başrol korkuluğun içinde durur, hafifçe öne eğilir, telefonu iki eliyle yatay tutar ve arka lensi sol alttaki suyun içindeki devasa gölgeye aşağıya doğru çevirir.
+
+Kendisine bakan ekranı aşağıdan izler; ekrandaki gölge havuzdaki gölgeyle uyuşur. Dışarıdaki fotoğrafçı, yan-arkadan telefon ekranını, kadın başrolün profilini ve altındaki su yüzeyini yakalar.
+
+Yönetici ciddi bir şekilde hatırlatır:
+
+"Hanımefendi, biraz geri adım atın, korkuluğa yaslanmayın!"
+
+Su yüzeyinde sadece hafif dalgalanmalar var; timsah henüz ortaya çıkmadı.
+
+【2–4 Saniye: Hedef Yaklaşıyor, Telefon Takip Ediyor】
+
+Devasa su altı silueti yavaşça kadın başrolün konumuna yaklaşıyor. Bileklerini hafifçe çevirerek arka lensi hareket eden gölgeye odaklı tutuyor, ekran kendisine dönük, telefonun arkasını dışarıdaki fotoğrafçıya çevirmiyor.
+
+Yönetici daha da yaklaşıyor, ona destek olmak için elini uzatıyor, tonu acil hale geliyor:
+
+"Bu odun değil, canlı! Dışarıya yaslanmayın!"
+
+Kadın başrol vücudunu geri çekmeye başlıyor, ancak telefon hala su yüzeyini filme alıyor. Bu bölümün sonunda, timsahın burnu ve gözleri su yüzeyini yeni kırmaya başlıyor.
+
+【4–6 Saniye: Devasa Timsah Saldırısı】
+
+Devasa timsah aniden su yüzeyini patlatarak çıkar, devasa başı korkuluğun dış kısmı boyunca yükselir, açık ağzı anında karenin sol tarafının neredeyse yarısını kaplar ve büyük sıçramalar kaldırır.
+
+Kadın başrol çığlık atar, aceleyle telefonunu ve kollarını geri çeker. Telefonun yönü şok nedeniyle stabilitesini kaybeder; bundan önce timsaha doğru düzgün nişan alınmış olmalıydı.
+
+Devasa timsah, korkuluğun dışına uzanan ön kolunu ve yakındaki kumaşı kısa süreliğine ısırır. Yönetici hemen üst kolunu ve omuz/sırtını destekleyerek ağırlık merkezini korkuluğun içinde sabitler.
+
+Dışarıdaki fotoğrafçı şokla yarım adım geri çekilir, kamera kısa süreliğine yukarıya sarsılır, yara yakın çekimi veya kesim yoktur.
+
+【6–9 Saniye: Kaçış & Suyu Düşme】
+
+Devasa timsah ısırığını kısa süreliğine bırakır, başı geri iner, kadın başrol yaralı ön kolunu geri çekmekten faydalanır, yönetici onu tahta yolun içine çeker. Eylemde net bir bırakma olmalı, kolun kapalı dişlerin arasından geçmesine izin verilmemeli.
+
+Telefon kadın başrolün elinden kayar, takla atar ve havuza düşer, sadece bir kez düşer.
+
+Devasa timsah suya geri çarpar, beyaz sıçramalar kaldırır. Kadın başrol ön kolunu kapatır, yaradan az miktarda kırmızı sıvı sızar, kısa ve ince çizgiler oluşturur, temas noktasındaki kumaşı lekeler, bir veya iki damla ahşap tahta yola düşer.
+
+Derin yaralar göstermeyin, püskürtme yok, ağır kanama yok.
+
+Yönetici bağırır:
+
+"Geri adım atın! Uzanmayın! Telefonu almayın!"
+
+【9–11 Saniye: Turistler Panik Yapıyor】
+
+Kadın başrol tahta yolun ortasına geri çekilir, yaralı ön kolunu korur, omuzları gergin, nefes alışverişi hızlıdır.
+
+Yakındaki turistler önce omuzlarını büzer ve geri çekilir, arkadaşlarını çeker; arkadaki turistler çığlığı duyduktan sonra döner, bazıları telefonlarını kaldırır, bazıları kenara çekilir, art arda ünler:
+
+"Hemen geri çekilin!"
+
+"Korkuluğa yaslanmayın!"
+
+Kalabalık tepkilerinde zaman gecikmeleri vardır, senkronize değildir, kesinti yoktur, havuza düşme yoktur. Devasa timsah suyun altında kalır, ikinci bir saldırı yoktur.
+
+【11–13 Saniye: Yönetici Tahliye Ediyor】
+
+Yönetici, kadın başrol ile korkuluk arasında durur, geri çekilmeye devam ederken onu korur, turistlere yol vermeleri için işaret eder:
+
+"Geri çekilin! Herkes üşüşmesin!"
+
+Yakındaki bir turist mendil sunar, kadın başrol kabul eder ve aynı yaraya bastırır, mendil yavaşça az miktarda kırmızıyla leke alır.
+
+Fotoğrafçı hafifçe geri çekilir ve kompozisyonu düzeltir, kadın başrolü, yöneticiyi ve panikle geri çekilen turistleri aynı anda yakalar.
+
+【13–15 Saniye: Korkunun Ardından】
+
+Kadın başrol ön kolunu kapatır, nefes nefese, sesi titreyerek söyler:
+
+"Öldüm sandım... Gerçekten ısırdı!"
+
+Yönetici hala onu korur, havuza temkinli bakar. Arka plan turistleri uyarıları fısıldar:
+
+"Uzak durun, film çekmeyin!"
+
+Kadın başrol hala şokta, kalabalık geri çekiliyor, su yüzeyindeki olay sonrası etkiler henüz yatışmamış şekilde sona erer.
+
+【Olay Yeri Sesleri】
+
+Tüm sesler telefonda canlı olarak kaydedilir, Çince diyalog, müzik, anlatım veya altyazı yok.
+
+Düşük turist uğultusu, bambu yapraklarının sürtünmesi ve hafif su sesleriyle başlar. Yöneticinin sesi yakındır ve nettir, tehlike oluştuğunda ciddi hatırlatmadan acil durdurmaya geçer.
+
+Timsah su yüzeyine çıktığında ağır su sesi, kadın başrolün çığlığı, yakındaki nefes kesilmeleri; ardından telefonun suya düşmesi, sıçrama inişi, hızlı nefes alma ve karışık ayak sesleri gelir. En büyük sıçrama ve çığlık, mikrofonu kısa süreliğine kırpıştırır (clipping), sonra otomatik kazanç toparlanır.
+
+Uzak turist sesleri daha dağınık ve hafiftir, canavar kükremeleri eklenmemiştir.
+
+【Süreklilik & Temel Kısıtlamalar】
+
+Başlangıçta, kadın başrolün telefonu su altı hedefini doğru şekilde filme almalıdır: ekran yukarı ve ona dönük, arka lens aşağıya timsahın konumuna nişan alınmış; dışarıdaki fotoğrafçı esas olarak ekranı ve yanları görür. Su altı hedefini filme alırken arka lensin dışarıdaki fotoğrafçıya dönmesi yasaktır.
+
+İlk karede sadece bulanık devasa su altı gölgesi vardır, net timsah başı, gözler, pullar veya dişler yoktur. Kırmızı sıvı sadece ısırktan sonra belirir.
+
+Karakter #1, kıyafet #2, yönetici, devasa timsah ve tahta yolun sürekliliğini koruyun. Yaralanma her zaman aynı ön koldadır, kırmızı çizgiler, kumaş hasarı mendil basma konumuna karşılık gelir.
+
+Sadece bir telefon, düştükten sonra ele geri dönmez. Kadın başrol ve yönetici her zaman korkuluğun içinde, timsah @d57ec59a-c0a5-4eae-84f4-4f02ef21a92d her zaman havuzdadır. Temas, ağırlık, ısırma, bırakma ve geri çekilme eylemlerinin nedensellik ilişkilerini sürekli koruyun.
+
+Yara yakın çekimi yok, uzuv koparması yok, derin doku gösterimi yok. Tüm parça tek bir kesintisiz çekimdir, yavaş çekim, tekrar oynatma, stüdyo ifşaları, UI katmanları veya filigran yoktur.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111969592058818560/img/-krKiLC99wPpxCu0.jpg" width="600" alt="Vahşi Yaşam Parkı Timsah Saldırısı Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12714)**
+
+**Yazar:** [John](https://x.com/john87445528) | **Kaynak:** [Link](https://x.com/john87445528/status/2111969616419303595) | **Yayınlandı:** Oct 18, 2026
+
+---
+### Kâğıt Oyma Balina Diyaraması Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dev bir origami balina ve kâğıttan yapılmış bir köyün yer aldığı, belirli kamera açıları ve ses tasarımı içeren 15 saniyelik animasyonlu kâğıt oyma diyarama videosu oluşturmak için bir istem.
+
+#### 📝 İstem
+
+```
+Animasyonlu katmanlı kâğıt oyma diyarama, görünen kâğıt lifleri ve kıvrımlar, düzensiz kenarlar, kâğıt katmanları arasında paralaks etkisi, yumuşak gölgeler, ince kâğıttan süzülen sıcak arka ışık, nazik el yapımı hareketler. Renk paleti: krem, toz mavisi, terracotta, adaçayı yeşili, sıcak altın rengi arka ışık.
+Keskin kırışıklara sahip katlanmış origami kâğıttan yapılmış devasa bir balina. Çatıları ve yel değirmenleriyle küçük kâğıt köylülerinin uçurtma uçurduğu kâğıttan kesilmiş bir köy.
+ÇEKİM 1 (0-3 sn): Referans görüntüyle uyumlu geniş çekim, balina ileriye doğru süzülürken katlanmış yüzgeçleri keskin kırışma hareketleriyle açılıp kapanır, paralaks katmanlarında kayan kâğıt bulutları.
+ÇEKİM 2 (3-6 sn): Orta çekim, 50mm lens, tepedeki köylüler balinanın gölgesi üzerlerinden geçerken uçurtma iplerini çekerken, yel değirmeni kanatları arkasındaki rüzgârla daha hızlı döner.
+ÇEKİM 3 (6-9 sn): Yakın çekim, 85mm lens, balinanın gözü, küçük kesilmiş bir daire, başının ince kâğıdından geçen arka ışıkla göz kırpar, kıvrımlar içindeki soluk baskılı metni ortaya çıkarır.
+ÇEKİM 4 (9-12 sn): Alçıdan takip çekimi, 24mm lens, balina köye doğru dalar ve kuyruğu çatıların üzerine bir dalga kâğıt konfeti ve kâğıt kuş savurur.
+ÇEKİM 5 (12-15 sn): Aşırı geniş çekim, 16mm lens, balina gökyüzüne yükselir ve tamamen düz bir kâğıt levhaya dönüşerek tüm köyü sıcakça aydınlatan devasa bir kâğıt güneşe dönüşür.
+Hışırtılı kâğıt sesi, yumuşak kıvrılma sesleri, yel değirmeni gıcırtısı, kâğıttan geçen nefes gibi gelen nazik bir balina çağrısı, çocuk kahkahaları, müzik kutusu ve yumuşak piyano.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111878182143995904/img/MxkM_Z1EzpswyEpr.jpg" width="600" alt="Kâğıt Oyma Balina Diyaraması Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12711)**
+
+**Yazar:** [Alexandra Aisling](https://x.com/AllaAisling) | **Kaynak:** [Link](https://x.com/AllaAisling/status/2111938622903800285) | **Yayınlandı:** Oct 18, 2026
+
+---
+### Pembi Süper Araba Dönüşüm Aksiyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Oyuncak bir pembi süper arabanın gerçek bir arabaya dönüştüğü ve Tokyo sokaklarında drift attığı sürreal bir aksiyon sahnesi için prompt.
+
+#### 📝 İstem
+
+```
+Uzun siyah saçlı, siyah oversize grafik tişört ve siyah çizmeler giyen genç bir kadının, banliyödeki bir evin dışında oturup minyatür pembi bir süper araba tuttuğu ultra gerçekçi sinematik aksiyon sekansı. Birdenbire, oyuncak araba büyülü bir şekilde tam boyutlu, ultra gerçekçi pembi bir süper arabaya dönüşür ve havaya fırlar; sakin bir konut caddesinden geçerek dramatik bir Tokyo tarzı kentsel kavşağa doğru uçar. Pembi süper araba şehirde agresif bir şekilde drift yaparken kadın sürücü koltuğunda görünür; yaya geçidinde dönerken gerçekçi lastik dumanı, dönen tekerlekler, sinematik hareket bulanıklığı ve asfalt üzerindeki yansımalar dikkat çeker. Araba kavşağı hızla geçer, arkasında kalın beyaz duman izleri bırakır ve ardından parlak ışıklarla aydınlatılmış Japon bakkalına doğru dramatik bir şekilde kayar. Geniş sinematik çekimle, arabanın bakkalın önünde drift yaptığı ve yayaların şaşkınlıkla tepki verdiği görülür. Final sahnesi: Kadın, etrafa dağılmış market ürünleri ve cam yansımaları arasında bakkalın girişinden kendinden emin bir şekilde çıkar; arka planda pembi süper araba hala görünür durumdadır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111703894468460544/img/Bgm8jv1RtgL6qRWR.jpg" width="600" alt="Pembi Süper Araba Dönüşüm Aksiyonu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12713)**
+
+**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2111703937669894630) | **Yayınlandı:** Oct 18, 2026
+
+---
 ### Hayvanat Bahçesinde Aslan Saldırısı Sinematik Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5375,188 +5648,6 @@ blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, waterma
 **Yazar:** [Soran](https://x.com/Soranlan) | **Kaynak:** [Link](https://x.com/Soranlan/status/2105490567601995924) | **Yayınlandı:** Oct 1, 2026
 
 ---
-### Kayıp Rüzgar Çanı Anime Video Promptu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 için, bir storyboard'a dayalı anime kısa filmi oluşturmak üzere hazırlanmış detaylı prompt; görsel tutarlılık ve duygusal vurgulara odaklanır.
-
-#### 📝 İstem
-
-```
-BAŞLIK
-Kayıp Rüzgar Çanı
-
-REFERANS
-Yüklenen storyboard panosunu ve karakter kağıdını ana görsel referans olarak kullanın.
-
-Tüm karakter tasarımlarını, ortam detaylarını, rüzgar çanı tasarımını, yavru kedinin görünümünü, kırsal aydınlatmayı ve duygusal hikaye akışını sağlanan referanslarla tutarlı şekilde koruyun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105278709301383168/img/42PGLSXmI_6k8b-Y.jpg" width="600" alt="Kayıp Rüzgar Çanı Anime Video Promptu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11714)**
-
-**Yazar:** [Thea Vales](https://x.com/codesthea) | **Kaynak:** [Link](https://x.com/codesthea/status/2105278815346065805) | **Yayınlandı:** Sep 30, 2026
-
----
-### Seedance 2 Seyahat Videosu İstemi: Rüzgar Etkileşimli Balkon Sahnesi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2 için detaylı bir video üretim istemi; referans görüntüden karakter tutarlılığını koruyarak ve rüzgarın peçeteyle doğal etkileşimini koreografiye dahil ederek, Asyalı bir kadının otel balkonunda geçen gerçekçi 10 saniyelik seyahat vlog tarzı bir klip oluşturur.
-
-#### 📝 İstem
-
-```
-Yüz hatları, saç modeli, mavi-beyaz çiçekli askılı elbise, vücut oranları, balkon, masa üzerindeki eşyalar ve deniz manzarası çevresini referans görselle uyumlu şekilde koruyun. Yüz veya kıyafetlerde değişiklik yapmayın.
-
-Bir arkadaş tarafından otel balkonunda rastgele çekilmiş gibi görünen, 10 saniyelik gerçekçi bir seyahat anı videosu.
-
-Başlangıçta, genç bir Asyalı kadın balkon koltuğunda doğal bir şekilde oturuyor, uzaktaki denize ve gün batımına sessizce yan bakıyor. Deniz meltemi uzun saçlarını ve etek uçlarını hafifçe dalgalandırıyor. Doğal göz kırpma hareketleri yapıyor ve vücudunda hafif nefes alma hareketleri görülüyor.
-
-3. saniye civarında, yandan gelen ani ve daha güçlü bir deniz esintisi masadaki ince peçeteyi kaldırıp balkon kenarına doğru kaydırıyor. Kız bir anlığına şaşırıyor, aşağı bakıyor, peçeteyi fark ediyor ve içgüdüsel olarak hızlıca uzanıp yakalamaya çalışıyor.
-
-5. saniye civarında, peçeteyi neredeyse kaçırıyor, öne doğru hafifçe eğiliyor ve saçı da rüzgarda dağılıyor. Sonunda peçeteyi başarıyla kavuşturuyor, önce gülümseyerek aşağı bakıyor, ardından çaresizlik ifade eden hafif bir gülümsemeyle tekrar koltuğa yaslanıyor.
-
-Son 2 saniyede, peçeteyi masaya bastırıyor, tek eliyle rüzgarda dağılan saçlarını düzeltiyor, sonra yine uzaktaki gün batımına bakıyor ve dudak köşelerinde hafif bir gülümsemeyle duruyor.
-
-Tüm sekansı gerçekçi bir el telefonu kamerası hissiyle tutun. Hafif el titremesi olsun, döndürme (orbit) yok, hızlı zoom yok, sadece çok yavaş ve doğal ileri itme (push-in) izin verilsin. Deniz parıltısı, uzaktaki yelkenliler, perdeler ve saç telleri doğal hareketlerini korumalı.
-
-Gerçekçi insan hareketine ve yerçekimi ataletine vurgu yapın. Süre boyunca yüz stabilitesi, normal parmaklar, sabit etek yapısı, masa veya içeceklerde deformasyon olmamalı.
-
-Kaçınılması gerekenler: Karakterin aniden ayağa kalkması, abartılı kahkaha, peçetenin çok yükseğe uçması, büyük vücut bozulmaları, yüzün kayması, yüz değiştirme, parmak deformasyonları, kıyafet değişimleri, masa eşyalarının aniden kaybolması, sinematik kamera hareketlerinin aşırı olması.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105274287473225728/img/esgfZa1DcyQkpeXR.jpg" width="600" alt="Seedance 2 Seyahat Videosu İstemi: Rüzgar Etkileşimli Balkon Sahnesi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11720)**
-
-**Yazar:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Kaynak:** [Link](https://x.com/Adam38363368936/status/2105274634786767041) | **Yayınlandı:** Sep 30, 2026
-
----
-### Gelin Vintage Arabayla Düğünden Kaçıyor
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 için, gelinin düğününden kaçıp kırmızı bir vintage arabayla hızla uzaklaşmasını konu alan komik bir sahne üreten detaylı video istemi; belirli kamera hareketleri ve stil talimatları içerir.
-
-#### 📝 İstem
-
-```
-Karakter kağıdını görsel referans olarak kullanın. Videonun tamamında gelinin yüzünü, saç modelini, elbisesini, vücut oranlarını ve aksesuarlarını birebir koruyun. 16:9 yatay format.
-
-0–3 sn — KAÇIŞ
-Bir kilise düğünü devam ederken gelin aniden devasa kilise kapısını kırarak dışarı fırlar ve elinde buketiyle merdivenlerden koşarak iner. İfadesi kararlı ama gülünç derecede heyecanlıdır. Peçesi ve elbisesi arkasında çılgınca savrulur. O koşarken kamera önünde hızlıca geriye doğru takip eder. Arka planda birkaç şaşkın düğün misafiri ne olduğunu fark eder.
-3–5 sn — ARABAYA YETİŞMEK
-Kenarda bekleyen parlak kırmızı, 1950'ler tarzı bir vintage araba görür. Koşarken tek beyaz topuklu ayakkabısını çıkarır atar, ardından sürücü kapısına doğru kendini fırlatır. Hızlı bir whip-pan (ani kamera çevirme) hareketini takip eder.
-
-5–8 sn — LASTİK YAKMA
-Arabaya atlar, kapıyı çarpar, motoru çalıştırır ve absürt bir hızla lastik yakarak uzaklaşır. Lastikler öter, küçük bir duman bulutu yükselir ve uzun beyaz peçesi kapanan kapıya sıkışarak dramatik şekilde arabanın arkasında dalgalanır. Buket yolcu koltuğuna düşer.
-8–11 sn — KAOS
-Hızlı komik iç çekimler:
-Gelin direksiyonu kavrayıp güler → peçesi yüzüne vurur → buket yolcu koltuğunda zıplar → diğer topuklu ayakkabısı havaya uçar → kaybolan arabanın arkasında çaresizce koşan düğün misafirleri.
-
-11–15 sn — ÖZGÜR
-Güneşli, vintage tarzı bir otoyolda yarışan kırmızı arabanın dinamik yan takip çekimi. Gelin tek eliyle, tamamen umursamaz bir şekilde araç kullanır. Dikiz aynasına bakar, kilisenin uzakta küçüldüğünü görür, sırıtır ve sonra büyük pembe bir sakız balonu patlatır.
-Son kare:
-Kırmızı araba ufka doğru hızla gider, peçesi arkasında uçar.
-
-Stil: Hız tempolu fiziksel komedi, oyunbaz isyankâr enerji, 1950'ler Americana estetiği, doygun kırmızı vintage araba, krem rengi beyaz gelinlik, sıcak altın sarısı güneş ışığı, sinematik vintage film greni, hafif resimsel gerçekçilik, gerçekçi hareket, enerjik kamera hareketleri, whip pan'ler, hızlı kesmeler, abartılı ama inandırıcı komedi.
-Önemli: Yavaş çekim yok, üzgün ruh hali yok, dramatik romantizm yok, diyalog yok, metin yok, ek gelin yok, yüz değişimi yok, kıyafet değişimi yok, bozuk eller yok, morflama (morphing) yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105227546409246720/img/t7RT8ssTY9gAxD5E.jpg" width="600" alt="Gelin Vintage Arabayla Düğünden Kaçıyor">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11715)**
-
-**Yazar:** [Caden Flux](https://x.com/Caden_Flux) | **Kaynak:** [Link](https://x.com/Caden_Flux/status/2105228156085137501) | **Yayınlandı:** Sep 30, 2026
-
----
-### Çikolatalı Çilekli Pasta Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yemek içerikleri veya reklam amaçlı kullanılmak üzere, akan çikolata soslu gurme çikolatalı çilekli pastanın fotogerçekçi yakın çekim videosunu oluşturmak için istem.
-
-#### 📝 İstem
-
-```
-Mermer bir masa üzerinde, akan çikolata soslu gurme çikolatalı çilekli pastanın fotogerçekçi yakın çekimi, sıcak kafe atmosferi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105215993165570048/img/WnK1fBpmIu8fWBEx.jpg" width="600" alt="Çikolatalı Çilekli Pasta Videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11718)**
-
-**Yazar:** [Anni](https://x.com/AnneYu99) | **Kaynak:** [Link](https://x.com/AnneYu99/status/2105216117669339237) | **Yayınlandı:** Sep 30, 2026
-
----
-### Seedance 2.0 Sinematik Optik Zoom Video İstemi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Eski Jiangnan kasabası ortamında sinematik optik zoom tekniğini içeren, karakter etkileşimine ve gerçekçi kamera fiziğine odaklanan Seedance 2.0 için detaylı bir video üretim istemi.
-
-#### 📝 İstem
-
-```
-[Genel Ayarlar]
-Antik tarzda gerçekçi sinematik çekim, Doğu klasik yaşam anlatısı, yağmurdan sonra Jiangnan antik kasabası: mavi taş basamaklar, mavi tuğlalar ve siyah kiremitler, ahşap koridorlar, oymalı ahşap kapılar, bambu perdeler, ıslak taş sokaklar. Bulutlu gökyüzü altında yumuşak dağınık ışık, düşük kontrast, soğuk gri-yeşil ve sıcak ahşap tonlarının birleşimi, hafif 35mm film greni, gerçekçi cilt, ahşap, taş ve kumaş dokuları, sinematik sığ alan derinliği, 8K, 16:9.
-
-Başrol Kadın A: Görsel 1
-Başrol Kadın B: Görsel 2
-
-Video boyunca karakter kimliğini, mekansal konumu, sol-sağ ilişkisini, hareket yönünü, hava durumunu, aydınlatmayı ve renk tonu sürekliliğini kesinlikle koruyun.
-
-[Temel Sinematografi Tekniği]
-Tüm video, tek temel kamera hareketi olarak "ilerleyen optik zoom" kullanır. Kamera mümkün olduğunca sabit kalır; fiziksel harekete değil, yavaş ve sürekli optik ileri/geri kaydırmalara dayanarak karakterlerin ekran oranını ve mekansal ilişkilerini değiştirir. Gerçek lens sıkıştırmasını, alan derinliği değişimlerini ve optik özellikleri koruyun; dijital kırpma yasaktır. Ön plan örtmesi, sığ alan derinliği ve odak kaymaları anlatıya yardımcı olur, "uzaktan keşif -> sokak karşısında göz teması -> mekansal sıkıştırma -> duygusal onaylama" akışını oluşturur.
-
-[0-4s]
-Orta plan başlangıcı, 35mm, sabit kamera, göz hizası. Başrol Kadın A, mavi taş basamaklardan sokak girişine doğru yavaşça iner, durur, döner ve yukarı bakar; uzak koridor saçakları altındaki Başrol Kadın B'yi görür. Çekim, daha geniş çevresel ilişki kompozisyonuyla başlar, yalnızca yavaşça optik olarak içeri yaklaşır, Başrol Kadın A'nın orta planına kadar kademeli olarak daralır, kamera hareketi yoktur.
-
-Kasaba yayaları ön plandan soldan ve sağdan yatay olarak geçer, yakın mesafede doğal bulanık örtmeler oluştururken Başrol Kadın A net kalır; örtme sırasında pozlama, renk sıcaklığı ve ışık/gölge stabil kalır. Zoom akıcı ve ölçülü şekilde devam eder, sonunda Başrol Kadın A ile Başrol Kadın B arasında sokak karşısında göz teması oluşur.
-
-[4-9s]
-Önceki segmentten devamla, kamera konumu tamamen değişmez. Başrol Kadın B, sağ ön plandan yavaşça girer, ahşap koridor sütununa yaklaşır, sütunla doğal bir ön plan çerçevesi oluşturur; Başrol Kadın A sol ortadaki sokağın derinliklerinde kalır.
-
-Yavaş sürekli optik zoom, Başrol Kadın A başlangıçta net kalır, ardından çekim kademeli olarak daralır, Başrol Kadın B'nin ön plan oranı artar ve Başrol Kadın A yumuşak bulanıklıkla arka plana çekilir. Telefoto ucuna kademeli geçiş, gerçek mekansal sıkıştırma nedeniyle antik sokağın derinliğinin sıkışmış görünmesini sağlar; ikisi arasındaki gerçek mesafe değişmez ancak görsel mesafe belirgin şekilde kısalır. Odak, Başrol Kadın A'dan Başrol Kadın B'ye akıcı şekilde kayar, Başrol Kadın B'nin yan profili net ve Başrol Kadın A bulanık olarak biter. Yanal hareket, pan veya orbit yok; pozlama ve ton süreklidir.
-
-[9-13s]
-Sabit kamera ve telefoto ilişkisini koruyun. Başrol Kadın B, ahşap koridor sütununun yanında durur, yavaşça dönüp Başrol Kadın A'ya bakar. Yalnızca iki kişilik ilişki kompozisyonundan Başrol Kadın B'nin yakın orta planına kadar daralan tek bir son derece yavaş optik ileri kaydırma gerçekleştirin. Ekranın sol tarafında Başrol Kadın A'nın kısmi bulanık siluetini koruyarak röntgenci tarzı bir ön plan çerçevesi oluşturun.
-
-Başrol Kadın B ana odak haline gelir, Başrol Kadın A'ya bakar, kısa bir duraklamadan sonra yumuşakça söyler: "Uzun zaman oldu." Hafif bir gülümseme gösterir. Bambu perdeler, yağmur sonrası hafif esintiyle uçuşur, damlalar saçaklardan doğal olarak düşer ve ıslak mavi taşlar yumuşak gökyüzü ışığını yansıtır. Kamera kararlılıkla ilerler, yakın mesafede duygusal onaylama ile biter.
-
-[Kamera Kontrolü]
-Temel unsur "optik zoom ile anlatı mesafesi değişiklikleri yaratmak" olmalı, kamera hareketi değil. Kamera dili sırasıyla tamamlanır: çevre kurulumu -> Başrol Kadın A'nın keşfi -> yavaş daralma -> Başrol Kadın B'nin girişi -> telefoto sıkıştırması -> duygusal onaylama.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105198910453248000/img/jA-Hhk-O30nR6Tli.jpg" width="600" alt="Seedance 2.0 Sinematik Optik Zoom Video İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11721)**
-
-**Yazar:** [灰度笔记](https://x.com/GrayNoteLab) | **Kaynak:** [Link](https://x.com/GrayNoteLab/status/2105199106578870298) | **Yayınlandı:** Sep 30, 2026
-
----
-### Wuxia Savaşçı Gece Muharebesi Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gece vakti eski bir Çin köyünde, geleneksel Hanfu kıyafetleri, parlayan kırmızı fenerler, sisli dağlar ve büyülü efektlerle düşmanlara karşı yoğun kılıç dövüşü içeren 30 saniyelik sinematik wuxia tarzı bir video oluşturmak için detaylı istem.
-
-#### 📝 İstem
-
-```
-Geleneksel ahşap binaların, taş döşeli bir sokağın, küçük kemerli bir köprünün, arka planda sisli dağların ve sokak boyunca asılı duran birçok parlayan kırmızı fenerin bulunduğu, gece vakti eski bir Çin köyünde geçen 30 saniyelik sinematik, ultra gerçekçi wuxia tarzı bir video oluşturun. Zarif, uçuşan kırmızı geleneksel Çin Hanfu'su giyen güzel genç bir kadın, uzun koyu saçları geleneksel şekilde şekillendirilmiş ve ciddi, kendinden emin bir ifadeyle kameraya doğru sakin adımlarla yürür. Yaklaştıkça kamera yavaşça üzerine kayar ve onu doğal bir şekilde takip eder; fener ışığını, kumaş hareketini, atmosferik sisi ve gerçekçi ayak seslerini yakalar. Sahnenin ortasında aniden durur ve kendinden emin bir şekilde parlayan kırmızı sihirli bir kılıç çeker, ifadesi odaklanmış ve güçlü hale gelirken kılıcı önünde yatay olarak tutar. Kamera, gerçekçi cilt dokusunu, detaylı saçı, parlayan yansımaları ve sinematik alan derinliğini gösteren yüzüne ve kılıcına dramatik bir yakın çekim yapar. Birkaç gizemli siyah giyimli saldırgan etrafında belirir, farklı yönlerden ona doğru koşarak gergin bir dövüş sanatları atmosferi yaratır. Hızca döner ve güçlü, koreografili kılıç hareketleri gerçekleştirir; parlayan kılıç ince kırmızı ışık izleri bırakırken hızlı ama inandırıcı hareketlerle saldırganları savuşturur ve vurur. Saldırganlar etrafındaki taş sokağa devrilirken, o merkezde kılıcı havada dik durarak kendinden emin bir şekilde ayakta kalır, etrafı kırmızı fenerler ve hafif sis ile çevrilidir. Karakter görünümünü tutarlı, hareketleri gerçekçi, aydınlatması sinematik, dokuları detaylı, atmosferi dramatik, kamera hareketleri akıcı tutarak; kadının düşmüş saldırganlar arasında tek başına durduğunu, arkasında eski köy binaları ve dağları olduğunu ortaya çıkaran geniş bir sinematik çekimle yavaşça geriye çekilerek bitirin. 16:9 en-boy oranı, 30 saniye, metin yok, filigran yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105162066277568512/img/ylAZwfteWys8V_NP.jpg" width="600" alt="Wuxia Savaşçı Gece Muharebesi Video İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11624)**
-
-**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2105162931847807476) | **Yayınlandı:** Sep 30, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -5618,6 +5709,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-19T03:44:07.135Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-19T09:58:11.489Z</sub>
 
 </div>
