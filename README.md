@@ -363,6 +363,64 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 ## 🎬 All Prompts
 
+### Zombie Trend Video Prompt (two photos, 15-second cinematic story)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> The shot-level prompt behind zombieai.info: two reference photos in — the survivor and the person or the pet who turns — and a 15-second cinematic zombie-trend story out, with sound, ending in a warm memory. Ten shots, a cross-dissolve instead of a cut, and a face lock so each subject stays who they are.
+
+#### 📝 Prompt
+
+```
+Photorealistic live-action cinematic zombie-horror turning into warm romance, Vertical 9:16. The full sequence must not run beyond 15 seconds. Native audio, no dialogue, no voiceover, no subtitles.
+
+CAST LOCK — TWO REFERENCE PHOTOS
+Photo 1 = the survivor. Photo 2 = the infected lover. Both faces must match their reference photographs exactly in every shot. Never swap, blend, morph, merge or duplicate the two identities. Photo 1's face belongs only to the survivor. Photo 2's face belongs only to the infected lover. Keep each character's hairstyle identical across all shots. In the memory section the same two faces appear healthy: clear natural eyes, healthy skin, no wounds, no dirt.
+
+ONE READABLE FACE PER SHOT
+In the present-day section every shot shows only one character's face clearly, except the final wide shot before the transition. Never two readable faces in the same frame at the same time before the transition. Never duplicate a character.
+
+CAMERA LANGUAGE
+Slow, smooth, controlled handheld drift, almost no shake. Shallow depth of field, 35mm film grain. The pistol is a recurring foreground element, aimed directly into the lens so the viewer stands in the infected lover's position. The survivor looks straight into the lens; the infected lover looks straight into the lens. No camera whip, no fast zoom.
+
+PRESENT — abandoned farmhouse interior, cold overcast light, tall windows with bare winter branches outside, peeling white-blue wall, dark timber beams, rusted sink, red metal barrel, dark floorboards. Desaturated teal-cyan palette, high contrast, blown-out window highlights.
+
+SHOT 1 — 0:00.0–0:01.6 (1.6s). Extreme close-up on the survivor (Photo 1) only. Messy hair, dried blood streaked across the forehead, bloodshot tear-swollen eyes, wet cheeks, dirty olive-green hooded anorak. Their hand and a black pistol fill the near foreground at the lower edge of frame, large and heavily out of focus, the muzzle angled into the lens. Their face is pure despair: brow knotted, jaw clenched, eyes wide and fixed straight into the camera. Slow drift in. Audio: low ambient drone, water dripping, faint wind outside.
+
+SHOT 2 — 0:01.6–0:02.8 (1.2s). CUT TO close-up on the infected lover (Photo 2) only. Tangled hair, pale soiled skin, milky-white eyes, dark veins climbing the neck, hollow cheeks, torn clothing. Their head jerks forward and the jaw opens as a wet snarl begins to build. They stare straight into the lens. This shot ends before the snarl completes — cut away mid-build. No survivor in frame.
+
+SHOT 3 — 0:02.8–0:04.2 (1.4s). CUT TO medium shot of the survivor only. Both hands raised, the black pistol aimed directly into the lens, centered in frame. Arms trembling. Real tears. The barrel dips two inches and stops. Their jaw loosens and the face shifts from dread toward guilt and pain. They cannot shoot. No infected lover in frame.
+
+SHOT 4 — 0:04.2–0:05.7 (1.5s). CUT TO close-up on the infected lover only. A full scream straight into the lens: jaw wide, teeth bared, shoulders hunched, head dropping low. The scream must reach its full peak inside this shot. Audio peaks here — a raw distorted scream. No survivor in frame.
+
+SHOT 5 — 0:05.7–0:07.3 (1.6s). CUT TO medium shot of the survivor only, centered against the peeling wall. BRIEF AND DECISIVE — this is a short shot, do not extend it. They drop the pistol out of the bottom of the frame and immediately open both arms outward, palms open, in one quick continuous motion. Their face softens as the arms open: the despair turning into a broken, loving look. Two actions only. No pause, no held pose, no second look, no hesitation, no extra beats. The pistol is now on the floor. No infected lover in frame.
+
+SHOT 6 — 0:07.3–0:09.1 (1.8s). CUT TO a WIDE SHOT of the room. Static camera, chest height, medium-wide lens, the full room visible, no camera movement at all. The black pistol lies on the floorboards exactly between the two characters. The survivor stands at frame right with arms still open and does not move. The infected lover at frame left crouches low, sprints forward three steps straight at the survivor, launches into the air in a single continuous leap, body stretched out horizontally, both arms reaching forward, and collides with the survivor. The survivor's arms close around the lover as the two bodies lock together, the lover's feet lifted off the ground. All four beats — crouch, sprint, leap, collide — must be clearly visible inside this shot. Do not skip or compress the leap. This shot carries the whole film; give it room.
+
+CRITICAL ENDING OF SHOT 6: finish EXACTLY on the embrace pose — the two bodies wrapped around each other, the infected lover lifted off the ground and leaning into the survivor, both figures in this exact screen position and scale. Hold that pose for the final two frames. Do not let the pose drift, do not let the camera move, do not cut away.
+
+TRANSITION — CROSS-DISSOLVE, NOT A CUT, from 0:09.1, lasting about 0.4 seconds. The cold barn interior and the golden field are blended together in the same frame while the embrace continues. For a few frames you can see both the window frames of the barn and the golden wheat behind them. A warm golden light sweep passes across the frame during the dissolve. The action must NOT stop or jump during the dissolve — the same embrace continues without any break in motion. The audio does not cut either: the roar that peaked during the charge fades smoothly downward through the dissolve into soft warm music. No hard cut, no flash, no jump.
+
+SHOT 7 — 0:09.1–0:10.7 (1.6s). MATCHED CONTINUATION of the same embrace. Same camera height, same lens distance, same static framing as SHOT 6. The two characters are now in the golden wheat field at sunset, wearing clean light summer clothing — no blood, no dirt, no jacket, no outdoor gear. Their arms are wrapped around each other in exactly the same pose and the same screen positions as the end of SHOT 6. The infected lover's feet settle back onto the ground as the embrace completes, and the two spin slowly together as they hug, laughing, backlit by the low sun, warm haze and lens flare across the frame.
+
+SHOT 8 — 0:10.7–0:12.0 (1.3s). CUT TO a close-up of the survivor's face (Photo 1) laughing with eyes closed, the lover's hands cradling their face. Sun flare across the lens, healthy skin, clear bright eyes, no wounds. The same face that was crying is now laughing.
+
+SHOT 9 — 0:12.0–0:13.2 (1.2s). CUT TO a close-up of the infected lover's face (Photo 2) laughing. Healthy skin, clear natural eyes, warm sunlight on the face, soft green and yellow field bokeh behind. The same face that was snarling is now happy and gentle. This shot must be included and must not be dropped.
+
+SHOT 10 — 0:13.2–0:15.0 (1.8s). CUT TO an extreme wide shot. The two walk hand-in-hand away from camera through the golden field toward the setting sun. The camera slowly rises and pulls back until they become two tiny silhouettes in the vast field beneath a huge pink-and-orange dusk sky. Hold the final frame. Do not fade to black.
+
+STYLE: photorealistic live-action cinema, practical-effects horror turning into warm romance, natural skin texture and real tears, believable infected eyes and facial expressions, 35mm film grain, believable weight and physics, consistent light direction within each shot, cold teal present dissolving into warm golden memory.
+```
+
+<img src="https://raw.githubusercontent.com/baichuang-lin/zombie-trend-prompt/main/examples/couple-beats.jpg" width="600" alt="Zombie Trend Video Prompt — the standoff, the embrace, the memory">
+
+**[🎬 Watch the three clips →](https://zombieai.info/#examples)**
+
+**Author:** [Zombie AI](https://zombieai.info) | **Source:** [zombie-trend-prompt (MIT)](https://github.com/baichuang-lin/zombie-trend-prompt) | **Published:** Oct 13, 2026
+
+---
+
+
 > 📝 Sorted by publish date (newest first)
 
 ### Extreme Close-Up Beauty Portrait
