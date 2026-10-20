@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6563** |
+| 📝 Toplam İstem | **6568** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-10-20** |
 
@@ -361,6 +361,149 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Fütüristik Neon Otoyol Yarış Stunt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 ile oluşturulan, neon ışıklı bir otoyolda yerçekimine meydan okuyan akrobasi hareketleri yapan kadın sürücünün yer aldığı 30 saniyelik ultra gerçekçi bilim kurgu yarış videosu için prompt.
+
+#### 📝 İstem
+
+```
+Gece vakti fütüristik bir otoyolda geçen, 30 saniyelik, ultra gerçekçi, sinematik bir bilim kurgu yarış videosu oluştur. Beyaz bir yarış tulumu, kask ve emniyet kemeri takan genç bir kadın, zarif hatlara sahip gümüş rengi fütüristik bir spor arabayı sürüyor. Kırmızı neon ışıklar ıslak yolu aydınlatarak büyüleyici yansımalar ve gizemli bir atmosfer yaratıyor. Kadının odaklanmış yüzünün, direksiyonu kavrayan ellerinin ve parlayan gösterge panelinin yakın çekimlerini göster. Araba, etrafı fütüristik yapılarla çevrili devasa bir dikey döngü rampasına doğru hızla ilerliyor. Kadın korkusuzca gaza basıyor ve bu devasa halka içinde yerçekimine meydan okuyan nefes kesici bir akrobasi hareketi gerçekleştiriyor. Arabanın altındaki güçlü iticiler devreye girerek onu havaya kaldırırken, sinematik kamera açıları bu inanılmaz manevrayı yakalıyor. Gerçekçi araç fiziği, dramatik aydınlatma, hareket bulanıklığı, detaylı yansımalar, içine çeken motor sesleri ve üst düzey Hollywood bilim kurgu görselleri kullan. Videoyu, arabanın parlayan neon otoyolda hızla uzaklaşıp geride gizemli ve sinematik bir atmosfer bıraktığı bir sahneyle bitir. Tam olarak 30 saniye, 16:9 yatay format, tutarlı karakter ve araç tasarımı; metin yok, logo yok, filigran yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112409362761437184/img/bEbjGS65o1bBZyEP.jpg" width="600" alt="Fütüristik Neon Otoyol Yarış Stunt">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12768)**
+
+**Yazar:** [liana](https://x.com/Lianaalane) | **Kaynak:** [Link](https://x.com/Lianaalane/status/2112409431174733909) | **Yayınlandı:** Oct 20, 2026
+
+---
+### Sinematik Aksiyon: Düşmanlarla Savaşan Kız
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 ile oluşturulan, kaotik bir şehir ortamında düşmanlarla savaşan genç bir Koreli kadını konu alan 28 saniyelik dikey sinematik aksiyon videosu için detaylı istem.
+
+#### 📝 İstem
+
+```
+Uzun siyah saçlı, oversize beyaz bir tişört ve günlük şort giyen genç bir Koreli kadının saldırı altındaki modern bir şehirde koştuğu, 28 saniyelik, dikey 9:16 formatında, fotogerçekçi sinematik bir aksiyon videosu oluştur.
+
+Gizemli düşmanlar onu kovalarken çatıda son sürat koştuğunu; gerçekçi hareketleri, yoğun yüz ifadelerini ve dramatik kamera takibini göster.
+
+Cam kaplı bir binaya doğru atlıyor, pencereyi kırarak içeri giriyor ve sıcak doğal ışıkla aydınlanan geleneksel Japon tarzı bir odaya iniş yapıyor.
+
+Hızla pembe, fütüristik bir tüfeği kavradığını ve önündeki tehlikeli savaşa hazırlandığını göster.
+
+Hasar görmüş binalar, devrilmiş araçlar, otomatlar ve havayı kaplayan dumanla dolu kaotik bir Japon sokağına geçiş yap.
+
+Silahını tutarak sokakta koşarken arkasında patlamalar meydana gelsin ve böylece gerilim dolu sinematik bir hayatta kalma sahnesi oluşsun.
+
+Güçlü bir patlamayla havaya fırladığı, saçlarının ve kıyafetlerinin doğal bir şekilde savrulduğu muhteşem bir ağır çekim anı ekle.
+
+Baştan sona tutarlı yüz kimliği, gerçekçi cilt dokusu, anatomik olarak doğru eller, doğal vücut oranları, detaylı çevre tasarımları ve akıcı sinematik hareketler korunsun.
+
+Dramatik aydınlatma, gerçekçi fizik kuralları, izleyiciyi içine çeken aksiyon filmi ses efektleri, dinamik kamera açıları ve üst düzey Hollywood filmi kalitesi kullan.
+
+Çizgi film efektlerinden, bozuk anatomiden, fazladan parmaklardan, titreme/flickering etkisinden, istenmeyen metinlerden, logolardan ve filigranlardan kaçın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112388862857334784/img/7kbItar8JG0pTY5T.jpg" width="600" alt="Sinematik Aksiyon: Düşmanlarla Savaşan Kız">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12767)**
+
+**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2112389039341113538) | **Yayınlandı:** Oct 20, 2026
+
+---
+### Fars Minyatürü Simurg Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Klasik Fars minyatür resim sanatı tarzında sinematik bir video oluşturmak için bir istem; mitolojik kuş Simurg'un saray bahçesi sahnesiyle etkileşimini içerir.
+
+#### 📝 İstem
+
+```
+STİL: Animasyonlu klasik Pers minyatürü, düz katmanlı perspektif, ince işlenmiş çiçek ve geometrik desenler, kıvrımlı stilize bulutlarla kaplı altın varak gökyüzü, süslü çerçeve, zarif ve akıcı hareket. Renk paleti: lacivert, turkuaz, gül kurusu, safran, altın sarısı.
+Tavus kuşunu andıran bir gövdeye, mücevher işlemeli kanatlara ve desenli tüylerden oluşan uzun, süzülen bir kuyruğa sahip devasa bir Simurg. Turkuaz kubbeleri, servi ağaçları ve yansıma havuzlarıyla bir saray bahçesi; nedimler, müzisyenler ve beyaz bir at üzerindeki bir prens.
+ÇEKİM 1 (0 - 3 sn): Referans görselle uyumlu geniş açı çekim; Simurg kanatlarını altın rengi gökyüzüne açar, kuyruk tüyleri parıldayan desenlerle tek tek açılır.
+ÇEKİM 2 (3 - 6 sn): Orta plan çekim, 35 mm lens; avludaki müzisyenler çalmayı bırakır, bir nedimenin elinden düşen nar fayansların üzerinde yuvarlanır, prensin atı şahlanır.
+ÇEKİM 3 (6 - 9 sn): Yakın çekim, 85 mm lens; taçlı başını öne eğen Simurg'un gözü safir gibi parlar, altın desenler tüylerinin üzerinde dalgalanır.
+ÇEKİM 4 (9 - 12 sn): Alttan geniş açı çekim, 20 mm lens; Simurg bahçeye konar, kanatları yansıma havuzlarının üzerinden süzülürken servi ağaçlarının yaprakları ve çiçek taç yaprakları sarmal bir şekilde havaya yükselir.
+ÇEKİM 5 (12 - 15 sn): Aşırı geniş açı çekim, 16 mm lens; prens atıyla ileri sürülüp selam verir, Simurg kanatlarından birini merdiven gibi indirir ve kıvrımlı altın bulutlar gökyüzünde bir patika oluşturacak şekilde aralanır.
+Fıskiye suyu sesi, kuş cıvıltıları, aniden kesilen bir ud ve tar melodisi, ipeksi devasa bir kanat çırpışı, derin ve melodik bir kuş ötüşü, zafer dolu bir temaya dönüşen def ve santur sesleri.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112327483924070400/img/E_eeIRpAzoLb8pwr.jpg" width="600" alt="Fars Minyatürü Simurg Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12764)**
+
+**Yazar:** [Alexandra Aisling](https://x.com/AllaAisling) | **Kaynak:** [Link](https://x.com/AllaAisling/status/2112327872253706617) | **Yayınlandı:** Oct 19, 2026
+
+---
+### Deniz Kabuğu Terrazzo Zemin Yenileme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 ile oluşturulan, epoksi reçine zemine gömülü deniz kabuklarını gösteren DIY yenileme videosu.
+
+#### 📝 İstem
+
+```
+Dikey 9:16 fotogerçekçi kendin yap (DIY) tadilat videosu, tatmin edici ASMR tarzı.
+Aydınlık boş oda: beyaz duvarlar, gri beton zemin, solda beyaz çerçeveli büyük bir pencere, yumuşak doğal gün ışığı.
+
+SAHNE 1 — Gri tişört ve mavi kot tulum giyen sakallı bir adam, peyzaj tırmığıyla renkli deniz kabuklarından (taraçlar, midyeler, koni kabukları) oluşan büyük bir yığını tırmıklayarak tüm zemine eşit şekilde yayıyor. Hızlı hızlandırılmış çekim (time-lapse) hareketi.
+
+SAHNE 2 — Kırmızı tulum, beyaz tişört ve lastik çizmeler giyen kahverengi saçlı bir kadın, büyük gri bir kovadan yoğun kıvamlı krem rengi beyaz kendiliğinden yayılan epoksi reçine döküyor. Sütlü sıvı kabukların üzerinden akarak yayılıyor ve onları kademeli biçimde tamamen kaplayıp parlak beyaz bir yüzeye dönüştürüyor.
+
+SAHNE 3 — Neon sarısı iş güvenliği yeleği ve siyah şapka takan bir işçi, zemin cilalama makinesini ileri geri iterek yüzeyi taşlıyor ve parlatıyor; böylece parlak beyaz terrazzo reçine zeminin içine gömülü deniz kabukları ortaya çıkıyor.
+
+SAHNE 4 — Kot tulumlu adam açık meşe ahşap karyola iskeletini monte ediyor, başlığı ve lataları takıyor, beyaz bir yatak yerleştiriyor, üzerine beyaz bir yorgan ve bej yastıklar seriyor. Son sabit güzellik çekimi: Meşe karyolası, beyaz nevresimleri ve yumuşak gün ışığında parlayan tasarımcı deniz kabuğu terrazzo zeminiyle sıcak, bitmiş bir yatak odası.
+
+Stil: fotogerçekçi, pürüzsüz kesimler, çalışma aşamalarında hızlandırılmış çekim temposu, doğal yumuşak aydınlatma, yüksek detay, metin yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112171861031227392/img/xCdTYwL6rE17Si9O.jpg" width="600" alt="Deniz Kabuğu Terrazzo Zemin Yenileme">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12765)**
+
+**Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2112171888801669570) | **Yayınlandı:** Oct 19, 2026
+
+---
+### Jelly Bean Şekerli Terrazzo Zemin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 ile oluşturulan, epoksi reçine zemine jelly bean şekerleri gömülen tatmin edici yenileme videosu.
+
+#### 📝 İstem
+
+```
+Dikey 9:16 formatında, fotogerçekçi ve izlemesi son derece tatmin edici bir tadilat videosu; beyaz duvarları, çıplak ahşap zemini ve sağ tarafta güneş ışığı alan büyük bir penceresi olan aydınlık, boş bir odada kesintisiz tek bir sahne.
+
+Çekim 1: Gri tişört ve mavi kot tulum giyen sakallı bir adam, binlerce renkli jelibon şekerden oluşan devasa konik bir yığını tırmıkla hararetle dağıtarak tüm zemini kaplayan düzgün bir tabaka hâline getiriyor.
+
+Çekim 2: Kırmızı tulum ve gri tişört giyen bir kadın, büyük beyaz bir kovadan yoğun, parlak beyaz epoksi reçineyi döküyor; kremsi sıvı şeker tabakasının üzerine yayılarak dışarı doğru akıyor ve renkli jelibonları tamamen örtüyor.
+
+Çekim 3: Neon sarısı iş güvenliği yeleği ve siyah şapka takan bir işçi, sertleşmiş beyaz zemini profesyonel bir zemin parlatma makinesiyle zımparalıyor; üst tabaka aşındıkça, kristal berraklığında ve ayna gibi parlak epoksi yüzeyin altına gömülmüş binlerce renkli jelibon, adeta şekerli bir terrazzo gibi ortaya çıkıyor.
+
+Çekim 4: Siyah tişört ve siyah şapka giyen iki adam, hızlı çekim modunda bir ahşap karyola iskeletini hızla monte ediyor, üzerine beyaz bir yatak yerleştiriyor ve tertemiz beyaz çarşaflarla yatağı hazırlıyor.
+
+Son çekim: Tamamlanmış minimalist yatak odasının ağır çekim, estetik bir görüntüsü — şeffaf epoksinin altında rengarenk şekerlerle dolu lüks, ayna gibi parlayan bir zemin ve cilalı yüzeyden yansıyan güneş ışığı. İnsan yok.
+
+Tarz: Viral, izlemesi tatmin edici kendin yap (DIY) tadilat hızlandırılmış çekimi, kapı eşiğinden sabit geniş açılı kamera, doğal gün ışığı, ultra detaylı, dökülen sıvının ve yuvarlanan şekerlerin pürüzsüz, gerçekçi fiziği.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112141996588408832/img/z_OxeJb6a15TsIZ6.jpg" width="600" alt="Jelly Bean Şekerli Terrazzo Zemin">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12766)**
+
+**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2112142035826180210) | **Yayınlandı:** Oct 19, 2026
+
+---
 ### Aşırı Yakın Çekim Güzellik Portresi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5281,373 +5424,6 @@ Kaçınılması gerekenler: Yüz değiştirme, kıyafet değişikliği, vücut o
 **Yazar:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Kaynak:** [Link](https://x.com/Adam38363368936/status/2105550931907809283) | **Yayınlandı:** Oct 1, 2026
 
 ---
-### Okul Sınıfında Alev Kaosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir öğrencinin sırt çantasından çıkan alevlere tepki verdiği gerçekçi bir okul sınıfı sahnesi için prompt.
-
-#### 📝 İstem
-
-```
-Sinematik, ultra gerçekçi 9:16 oranında bir okul sınıfı sahnesi oluşturun. Şekillendirilmiş kırmızı saçlı genç bir erkek öğrenci, önündeki sırt çantasından büyük bir alev patlaması çıkmasıyla dramatik bir şekilde tepki veriyor. Arka planda, okul üniformalı başka bir öğrenci şok olmuş ve izliyor. Sıcak sınıf aydınlatması, gerçekçi ateş ve duman efektleri, dinamik hareketler, doğal yüz ifadeleri, detaylı ortam, sinematik kamera hareketi, sığ alan derinliği, gerçekçi dokular, dramatik atmosfer, yüksek detay, 4K, fotogerçekçi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105518374784729090/img/IvsEDXcDISnXm-Ak.jpg" width="600" alt="Okul Sınıfında Alev Kaosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11717)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2105518415201083496) | **Yayınlandı:** Oct 1, 2026
-
----
-### Gün Batımında Japon Okul Kızının Yürüyüşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Altın saatte sokaklar ve tarlalar arasında yürüyen bir okul kızını konu alan, 20 saniyelik sinematik Japon tarzı sahne için detaylı istem.
-
-#### 📝 İstem
-
-```
-Sıcak altın saat ışığında sessiz bir Japon yerleşim sokağında tek başına yürüyen genç bir okul kızının arkadan gösterildiği, yavaşça arka plandan geçen trenle birlikte bir demiryolu geçidine yaklaştığı, ardından treni izlerken yüzünün ve çiçeklerle süslenmiş saçlarının yakın çekimde görüldüğü, sonra yumuşak akşam ışığının suya yansıdığı sessiz bir kanal kenarında durduğu geniş açılı bir çekimle devam eden, altın rengi bir tarlada küçük beyaz çiçeklere nazikçe dokunduğu, rüzgarda doğal hareket eden çiçeklerin ve elinin yakın çekimleriyle ilerleyen, kademeli olarak kızın tarlada huzurla durduğu geniş bir gün batımı manzarasına geçiş yapan ve sonunda kameraya yumuşakça baktığı sıcak bir yüz yakın çekimiyle biten 20 saniyelik sinematik Japon tarzı bir sahne oluşturuldu. Aynı karakter, saç modeli, okul üniforması, gerçekçi cilt detayları, doğal ifadeler, akıcı sinematik kamera hareketleri, yumuşak derinlik alanı, sıcak gün batımı aydınlatması, gerçekçi Japon ortamı, ince film grenli dokusu, huzurlu duygusal atmosfer ve en sonunda koyu bir soluklaşma korunarak.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105508171691556865/img/OeVQVj9aXV6iMJdn.jpg" width="600" alt="Gün Batımında Japon Okul Kızının Yürüyüşü">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11716)**
-
-**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2105508431067332749) | **Yayınlandı:** Oct 1, 2026
-
----
-### Yatak Odasında Sevimli Hayalet Çocuk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sıcak bir yatak odasında ebeveynlerini şaşırtan, sevimli ve komik bir hayalet kostümü giyen çocuğu konu alan sinematik bir 3D animasyon sahnesi için prompt.
-
-#### 📝 İstem
-
-```
-Sıcak sabah ışığında, modern ve samimi bir yatak odasında geçen, sevimli, komik ve yüksek kaliteli 3D animasyonlu sinematik bir sahne oluşturun. Küçük bir çocuk, sadece büyük ve ifade dolu gözleri, minik elleri ve çıplak ayakları görünen, bol ve tüylü beyaz bir hayalet kostümü giymektedir. Bu tatlı hayalet, bej renkli battaniyenin altında oturan şaşkın anne ve babanın olduğu yatağa doğru yürümektedir.
-
-Sahnede sıcak ışıkla aydınlatılmış yatak odasında duran sevimli küçük hayaletin yakın çekim görüntüsüyle başlayın, ardından çocuğun yatağa doğru yavaşça yürüyüşünü gösterin. Ebeveynler hayaleti fark eder ve abartılı bir şok ve korku tepkisi verir; battaniyeyi üzerlerine çekerken, geniş açılmış gözler ve komik yüz ifadeleriyle çocuğa bakarlar. Hayalet masumca kameraya yaklaşır ve minik ellerini kaldırır.
-
-Pixar kalitesinde 3D animasyon, son derece ifade yüklü yüzler, yumuşak ve gerçekçi kürk ile kumaş dokuları, pencereden süzülen sıcak doğal güneş ışığı, samimi yatak odası ortamı, sinematik derinlik alanı, akıcı karakter animasyonu, gerçekçi kumaş hareketleri, nazik kamera takibi, komedi zamanlaması, sevimli ve aile dostu atmosfer, detaylı ışıklandırma, cilalı animasyon filmi kalitesi, dikey 9:16 format, 4K çözünürlük kullanın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105494199298904064/img/5DjOeCNWejHLSGQk.jpg" width="600" alt="Yatak Odasında Sevimli Hayalet Çocuk">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11758)**
-
-**Yazar:** [Zarnab Ai](https://x.com/Zarnab_with_Ai) | **Kaynak:** [Link](https://x.com/Zarnab_with_Ai/status/2105494296795451478) | **Yayınlandı:** Oct 1, 2026
-
----
-### Avatar Tarzı Orman Uçuş Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 ile oluşturulan sinematik fantastik orman sahnesini, aydınlatma, aksiyon ve kamera stilini detaylandırarak tanımlar; ancak tek bir ham prompt dizisi yerine ayarların dökümü olarak sunulmuştur.
-
-#### 📝 İstem
-
-```
-Stil: Avatar ölçeğinde fantastik orman. Hiper-gerçekçi - CGI parlaklığı yok, oyun motoru görünümü yok.
-
-Sinematografi: Tek kesintisiz çekim, geniş açı lens, yaratık üzerinde GoPro samimiyeti.
-
-Aydınlatma: Kanopiden süzülen altın ilahi ışıklar, şelale sisi içinde gökkuşağı.
-
-Aksiyon: 15 saniyelik yükselen uçuş - kelebekler, şelale üzerinden süzülme, jilet inceliğinde boşluk, tüm dünyanın açılışı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105491285603696640/img/2JrgalTU5AFuFIA7.jpg" width="600" alt="Avatar Tarzı Orman Uçuş Sahnesi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11719)**
-
-**Yazar:** [xsavagespark](https://x.com/xsavagespark) | **Kaynak:** [Link](https://x.com/xsavagespark/status/2105491368428601530) | **Yayınlandı:** Oct 1, 2026
-
----
-### Xianxia Kimlik İfşası Komedisi İçin Seedance 2.0 Mini Promptu
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 Mini için, kibirli bir kılıç ustasının büyük unvanının, bir usta tarafından ifşa edilen çocukluk adı ile lekelendiği komik bir xianxia videosu oluşturmak amacıyla hazırlanmış prompt. Komik zamanlama ve karakter tutarlılığına vurgu yapar.
-
-#### 📝 İstem
-
-```
-Soğuk Nehir Gölgesiz Misafir, Wang Ergou kadar hoş gelmiyor
-prompt:
-
-Sinematik gerçekçi doku, saf antik Çin Xianxia estetiği.
-
-Epik uzmanların soy ağacını duyurduğu ciddi kamera dilini, yavaşça "kimlik ifşası" komedisine dönüştürerek parçalayın.
-İçerik:
-Sessiz film tarzı tepki ritmi
-
-Britanya kimlik düşüşü soğuk mizahı
-Hong Kong komedisinin hızlı kurulum ve vuruşları
-Net "üç vuruşlu ilerleme"
-Benimsenecekler:
-
-Arri Alexa sinema kamerası dokusu
-
-Stabil net yüz mikro-detayları
-İnce film greni
-Doğal hacimsel ışık
-Temel Komedi Cümlesi
-
-İlk izlemede hemen anlaşılacak tek bir komedi cümlesini koruyun:
-
-Yoğun heybetli bir rakip kılıç ustası, giderek abartılı Jianghu (Dünya) unvanlarıyla sahneyi domine etmeye çalışır; Ancak Kıdemli Abla baştan sona sadece şunu bilmek ister:
-
-"Adın ne?"
-
-Sonunda, yaşlı usta aniden onun son derece sıradan, hatta biraz utanç verici çocukluk eski adını hatırlar; tek bir cümle, düşmanın özenle yönettiği eşsiz uzman personasını tamamen orijinal formuna geri döndürür.
-
-Vuruş Noktası İlkeleri
-
-Temel vuruş noktaları şunlardan gelir:
-
-Statü kimliği kontrastı
-Tanışıklık toplumundaki hassas baltalama
-
-Şunlara asla güvenilmemeli:
-Karakterlerin aniden aptallaşması
-
-Çevresel kazalar
-
-Dış tesadüfler
-Referanslar ve Ortam
-Karakter kimlik çapaları olarak @image 1 ve @image 2'yi kesinlikle kullanın.
-
-Tüm yeni yüklenen arka plan ve mekan referans görselleri aynı çevresel DNA'yı belirler.
-Tanınabilir olanları koruyun:
-
-Gerçek arazi
-
-Mimari
-
-Malzemeler
-Vejetasyon
-
-Su kütleleri
-Hava durumu
-Dağ sisi
-Ana ışık yönü
-Yansımalar
-Atmosferik derinlik
-Bu tur için benzersiz, tamamen birleşik yeni bir mekâna yeniden planlayın.
-Arka Plan İlkeleri
-Aşağıdaki unsurlar arka planda sürekli canlı kalır, ancak anlatısal olarak mutlak nötrdür:
-Doğal rüzgar
-
-Su kütleleri
-
-Vejetasyon
-Bulut katmanları
-
-Uzaktaki sıradan öğrenciler
-Mekansal ortam sesi
-Karakter Ayarları
-Karakter ID A | Kılıç Ölümsüz Kıdemli Abla
-Her zaman aynı @image 1 Kılıç Ölümsüz Kıdemli Abla:
-25–30 yaşında Doğu Asyalı kadın
-
-Uzun ince figür
-
-Oval yüz
-
-Koyu badem gözleri
-Siyah saç yarısı bağlı, beyaz yeşim tokası ile sabitlenmiş
-
-Her zaman aynı set beyaz işlemeli ipek Hanfu giyer
-Gümüş bel mührü
-Yeşim kolye
-Beyaz bez botlar
-Tek gümüş uzun kılıcı tutar
-Karakter ID B | Küçük Abla
-Her zaman aynı @image 2 Küçük Abla:
-20–25 yaşında Doğu Asyalı kadın
-Küçük boyutlu
-Yuvarlak canlı yüz
-
-Siyah saç örgülü
-Her zaman aynı set yeşil keten Hanfu giyer
-
-Koyu kemer
-Ahşap toka
-Siyah bez ayakkabılar
-Tek koyu çelik kılıcı tutar
-Diğer Karakterler
-Rakip Kılıç Ustası
-Son derece heybetli
-Girişi tam törensel hisle dolu
-Yıllardır yönettiği Jianghu unvanına aşırı bağımlı
-
-"Eşsiz uzman" personasını güçlü şekilde sürdürür
-
-Yaşlı Usta
-Baştan sona donuk ifadeyle
-Rakibi kasıtlı olarak küçük düşürmez
-Sadece doğal olarak tanıdığın eski adını hatırlar
-Sonunda nihai öldürücü vuruşu ekler
-
-Segment Yapısı
-0–5s | Geniş veya Uzun Çekim
-Yoğun heybetli bir rakip kılıç ustası, bu turun referans görselleriyle doğal olarak oluşan açık alana yürür.
-Çok törensel bir şekilde dış pelerinini kaldırır, bir eli kılıç kabzasında, gerçek eşsiz uzman giriş postasıyla yüksek sesle duyurur:
-"Kuzey Sırtı Yalnız Kuğu, Nehir Kesen Tek Kılıç, bugün özel olarak öğrenmek için buradayım!"
-
-Aynı beyaz giysili kılıç ölümsüzü momentumdan tamamen etkilenmemiş, sadece çok sakin sorar:
-
-"Adın ne?"
-
-Düşman açıkça duraksar, sonra daha gururlu devam eder:
-
-"Jianghu beni Soğuk Nehir Gölgesiz Misafir diye çağırır!"
-
-5–10s | Orta veya Kovboy Çekimi
-
-Koruyun:
-
-Aynı karakterler
-
-Aynı kıyafetler
-
-Aynı uzun kılıç
-
-Tamamen tutarlı coğrafi mekân
-
-Aynı Küçük Abla gözlerini yavaşça Kıdemli Ablaya çevirir.
-
-Aynı Kıdemli Abla herhangi bir alaycılık olmadan, hâlâ çok ciddi şekilde tekrar teyit eder:
-
-"Adını soruyorum."
-
-Düşman sonunda biraz doğallıktan uzaklaşır, yine de uzman aurayı korumak için mücadele eder:
-"Unvan isimdir."
-Sığ alan derinliğinin arkasında, aynı yaşlı usta aniden gözlerini kısar, düşmanın yüzüne bir an boyunca çok ciddi şekilde bakar.
-Sonra uzun zamandır görmediği bir tanıdığı nihayet tanımış gibi aniden sorar:
-
-"Wang Ergou?"
-
-Tüm salon mutlak sessizlik.
-
-Düşmanın tüm bedeni aniden donar, başlangıçta son derece dik kahramanlık postası görünür şekilde biraz çöker.
-
-Tüm arka plan doğal canlılığını sürdürür, ancak bu dönüşe tamamen katılmaz.
-
-10–15s | Yakın Çekim veya Ekstra Yakın Çekim
-
-Aynı düşman inanılmaz bir şekilde başını ustayı çevirir:
-
-"Sen... beni tanıyor musun?"
-
-Usta, altını oyduğunun farkında değil, sadece çok doğal cevap verir:
-
-"Küçükken hurmalarımı çalmıştın, köpek üç sokak boyunca seni kovalamıştı."
-
-Aynı Küçük Abla aniden başını eğer, omuzlarında son derece küçük genlikli titreme gösterir, gülme krizini zorla bastırır.
-
-Düşman aceleyle Kıdemli Ablaya döner, son kalan Jianghu onurunu kurtarmaya çalışır, sesi alçaltıp ciddi şekilde açıklar:
-
-"Jianghu'da artık kimse böyle çağırmıyor."
-
-Aynı beyaz giysili kılıç ölümsüzü duyduktan sonra çok ciddi bir şekilde bir kez başını sallar, tam anlayışı belirtir, sonra sakin cevap verir:
-
-"Anladım, Ergou."
-
-Ekstra yakın çekim:
-
-Düşmanın zar zor toparlanmış ifadesi tekrar tamamen çöker
-
-Aynı Küçük Abla sonunda dayanamaz, hızla yüzünü çevirir, kısa süreli güler
-
-Arkada, aynı yaşlı usta nihai donuk öldürücü vuruşu ekler:
-
-"Şimdi biri tekrar çağırıyor."
-
-Düşman başlangıçta meydan okumak için geldiğini tamamen unutur, sadece sessizce pelerini yüzünün önünde yukarı çeker, sanki bugün neden bu kadar çok unvan duyurduğuna ilk kez pişman olur.
-
-Bu ifade üzerinde tam siyaha kes.
-
-Komedi Ritim Yapısı
-
-Tüm segment net "üç vuruşlu ilerlemeyi" korur:
-
-Birinci Vuruş
-Düşman epik uzman postasıyla soy ağacını duyurur, momentum maksimumda.
-
-İkinci Vuruş
-
-Kıdemli Abla tamamen onun unvan sistemini kabul etmez, sadece en sıradan "adın ne" arayışındadır.
-
-Üçüncü Vuruş
-
-Ustanın tek cümlesi "Wang Ergou" doğrudan tüm personanın düşmesine neden olur, sonraki tüm onur kurtarma çabaları yeni vuruş noktalarına dönüşür.
-
-Performans İlkeleri
-
-Rakip Kılıç Ustası
-
-Aktif olarak komik olamaz
-
-Palyaço gibi performans sergileyemez
-Majestesini, unvanını ve aurayı ciddi şekilde sürdürmelidir
-
-Komedi etkisi yalnızca kimliğini korumak için daha fazla çaba harcamasından ve gerçeklik tarafından daha fazla baltalanmasından gelebilir
-Kılıç Ölümsüz Kıdemli Abla
-
-Baştan sona sakin olmalıdır
-Alay yok
-
-Şaka çalma yok
-
-Onun komik noktası "meme'leri bilmek" değil, gerçekten sadece ismi ciddi şekilde teyit etmesidir
-
-Küçük Abla
-Doğal tepki vermeli
-"Kolayca gülme bastırma"ya odaklanmalı
-Erken aşırı çökme gösterememeli
-Yaşlı Usta
-
-Mutlak donuk ifadeye sahip olmalı
-Normalde kişiyi tanıyormuş, normalde geçmişi hatırlıyormuş gibi
-Öldürücü vuruş kasıtlı olarak perde rolü oynuyor gibi değil, bilinçsizce başka bir gerçeklik katmanı ekliyor gibi olmalı
-Zorunlu Gereksinimler
-Kesin toplam süre 15 saniye
-
-16:9 Yatay
-Üç ardışık net çekim
-Seedance 2.0 Mini için basit net sahneleme koruyun
-Net bakış ilişkileri
-
-Katı karakter sürekliliği
-Yerel senkronize edilmiş Mandarin diyalog
-Hassas dudak senkronizasyonu
-Net komedi duraklamaları
-
-Karakter kıyafetleri baştan sona stabil
-
-Uzun kılıç baştan sona stabil
-
-Yan karakter pozisyonları baştan sona stabil
-Coğrafi mekân baştan sona stabil
-İpek kumaş ve saç fiziği gerçekçi
-Ön plan, orta plan, arka plan doğal paralaks ve gerçek mekansal ortam sesini korur
-Altyazı üretilmez
-Negatif
-blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105489714639978496/img/aBG8N0NFFWu5g_cd.jpg" width="600" alt="Xianxia Kimlik İfşası Komedisi İçin Seedance 2.0 Mini Promptu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11722)**
-
-**Yazar:** [Soran](https://x.com/Soranlan) | **Kaynak:** [Link](https://x.com/Soranlan/status/2105490567601995924) | **Yayınlandı:** Oct 1, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -5709,6 +5485,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-20T03:56:46.282Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-20T09:34:33.902Z</sub>
 
 </div>

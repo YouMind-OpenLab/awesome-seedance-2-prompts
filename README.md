@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6563** |
+| 📝 Total Prompts | **6568** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-10-20** |
 
@@ -365,11 +365,145 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Extreme Close-Up Beauty Portrait
+### Futuristic Neon Highway Racing Stunt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for creating a high-detail, slow-motion cinematic portrait focusing on eye movement and skin texture with moody lighting.
+> A prompt for a 30-second ultra-realistic sci-fi racing video featuring a female driver performing gravity-defying stunts on a neon-lit highway, generated with Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Create a 30-second ultra-realistic cinematic sci-fi racing video set on a futuristic highway at night. A young woman wearing a white racing suit, helmet, and safety harness drives a sleek silver futuristic sports car. Red neon lights illuminate the wet road, creating beautiful reflections and a mysterious atmosphere. Show close-ups of her focused face, hands on the steering wheel, and the glowing dashboard. The car speeds toward a massive vertical loop ramp surrounded by futuristic structures. She accelerates fearlessly and performs a breathtaking gravity-defying stunt through the towering loop. Powerful thrusters activate beneath the car, lifting it into the air as cinematic camera angles capture the incredible movement. Use realistic vehicle physics, dramatic lighting, motion blur, detailed reflections, immersive engine sounds, and high-end Hollywood sci-fi visuals. End with the car speeding away into the glowing neon highway, leaving a mysterious cinematic atmosphere. Exactly 30 seconds, 16:9 landscape, consistent character and vehicle, no text, no logos, no watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112409362761437184/img/bEbjGS65o1bBZyEP.jpg" width="600" alt="Futuristic Neon Highway Racing Stunt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12768)**
+
+**Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2112409431174733909) | **Published:** Oct 20, 2026
+
+---
+### Cinematic Action Girl Fighting Enemies
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a 28-second vertical cinematic action video featuring a young Korean woman fighting enemies in a chaotic city setting, created with Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Create a 28-second vertical 9:16 photorealistic cinematic action video featuring a young Korean woman with long black hair, wearing an oversized white T-shirt and casual shorts, running through a modern city under attack.
+Show her sprinting across a rooftop while mysterious enemies chase her, with realistic movement, intense expressions, and dramatic camera tracking.
+She leaps toward a glass building, crashes through a window, and lands inside a traditional Japanese-style room filled with warm natural light.
+Show her quickly grabbing a pink futuristic rifle, preparing herself for the dangerous battle ahead.
+Transition into a chaotic Japanese street with damaged buildings, overturned vehicles, vending machines, and smoke filling the atmosphere.
+She runs through the street holding her weapon as explosions erupt behind her, creating an intense cinematic survival sequence.
+Include a spectacular slow-motion moment where she is thrown into the air by a powerful explosion, her hair and clothes moving naturally.
+Maintain consistent facial identity, realistic skin texture, accurate hands, natural body proportions, detailed environments, and smooth cinematic motion throughout.
+Use dramatic lighting, realistic physics, immersive action-film sound effects, dynamic camera angles, and high-end Hollywood movie quality.
+Avoid cartoon effects, distorted anatomy, extra fingers, flickering, unwanted text, logos, and watermark
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112388862857334784/img/7kbItar8JG0pTY5T.jpg" width="600" alt="Cinematic Action Girl Fighting Enemies">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12767)**
+
+**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2112389039341113538) | **Published:** Oct 20, 2026
+
+---
+### Persian Miniature Simurgh Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a cinematic video in the style of classical Persian miniature painting, featuring the mythical bird Simurgh interacting with a palace garden scene.
+
+#### 📝 Prompt
+
+```
+STYLE: Animated classical Persian miniature painting, flat layered perspective, intricate floral and geometric patterns, gold leaf sky with swirling stylized clouds, ornate border, delicate graceful motion. Color grade: lapis blue, turquoise, rose, saffron, gold.
+A colossal Simurgh with a peacock-like body, jeweled wings and a long sweeping tail of patterned feathers. A palace garden with turquoise domes, cypress trees and reflecting pools, courtiers, musicians and a prince on a white horse.
+SHOT 1 (0 to 3s): Wide shot matching the reference image, the Simurgh spreads its wings across the gold sky, its tail feathers unfurling one by one in shimmering patterns.
+SHOT 2 (3 to 6s): Medium shot, 35mm lens, musicians in the courtyard stop playing, a courtier drops a pomegranate that rolls across the tiles, the prince's horse rears.
+SHOT 3 (6 to 9s): Close-up, 85mm lens, the Simurgh's crowned head bows low, its eye glinting like a sapphire, gold patterns rippling across its feathers.
+SHOT 4 (9 to 12s): Low angle wide shot, 20mm lens, the Simurgh lands in the garden, its wings sweeping over the reflecting pools, petals and leaves of the cypress trees lifting in a spiral.
+SHOT 5 (12 to 15s): Extreme wide shot, 16mm lens, the prince rides forward and bows, the Simurgh lowers one wing like a staircase, and the swirling gold clouds open into a path across the sky.
+Fountain water, birdsong, an oud and tar melody that stops suddenly, a vast silken wingbeat, a deep melodic bird call, daf drums and santur building into a triumphant theme.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112327483924070400/img/E_eeIRpAzoLb8pwr.jpg" width="600" alt="Persian Miniature Simurgh Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12764)**
+
+**Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2112327872253706617) | **Published:** Oct 19, 2026
+
+---
+### Seashell Terrazzo Floor Renovation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> DIY renovation video showing seashells embedded in epoxy resin floor, generated with Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Vertical 9:16 photorealistic DIY renovation video, satisfying ASMR style.
+Bright empty room: white walls, grey concrete floor, large white-trimmed window on the left, soft natural daylight.
+
+SCENE 1 — A bearded man in a grey t-shirt and blue denim overalls rakes a large pile of colorful seashells (scallops, clams, cone shells) with a landscape rake, spreading them evenly across the entire floor. Fast time-lapse motion.
+
+SCENE 2 — A woman with brown hair in red overalls, white t-shirt and rubber boots pours thick creamy white self-leveling epoxy resin from a large grey bucket. The milky liquid flows over the shells, spreading and gradually covering them completely into a glossy white surface.
+
+SCENE 3 — A worker in a neon-yellow safety vest and black cap pushes a floor polishing machine back and forth, grinding and buffing the surface, revealing seashells embedded inside a glossy white terrazzo resin floor.
+
+SCENE 4 — The man in denim overalls assembles a light oak wooden bed frame, attaches the headboard and slats, places a white mattress, spreads a white duvet and beige pillows. Final static beauty shot: cozy finished bedroom with an oak bed, white bedding and a designer seashell-terrazzo floor glowing in soft daylight.
+
+Style: photorealistic, smooth cuts, time-lapse pacing during work phases, natural soft lighting, high detail, no text.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112171861031227392/img/xCdTYwL6rE17Si9O.jpg" width="600" alt="Seashell Terrazzo Floor Renovation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12765)**
+
+**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2112171888801669570) | **Published:** Oct 19, 2026
+
+---
+### Jelly Bean Candy Terrazzo Floor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Satisfying renovation video embedding jelly beans in epoxy resin floor, generated with Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Vertical 9:16 photorealistic satisfying renovation video, one continuous scene in a bright empty room with white walls, bare wooden floor and a large sunlit window on the right.
+
+Shot 1: A bearded man in a gray t-shirt and blue denim overalls vigorously rakes a huge conical pile of thousands of colorful jelly bean candies, spreading them into an even layer that covers the entire floor.
+
+Shot 2: A woman in red overalls and a gray t-shirt pours thick glossy white epoxy resin from a large white bucket; the creamy liquid flows over the candy layer and spreads outward, fully covering the colorful beans.
+
+Shot 3: A worker in a neon-yellow safety vest and black cap grinds the cured white floor with a professional floor polishing machine; the top layer is buffed away, revealing thousands of colorful jelly beans embedded under a crystal-clear, mirror-glossy epoxy surface, like candy terrazzo.
+
+Shot 4: Two men in black t-shirts and black caps quickly assemble a wooden bed frame, set a white mattress on it, and make the bed with crisp white bedding, all in fast-forward motion.
+
+Final shot: Slow beauty shot of the finished minimalist bedroom — a luxurious mirror-shiny floor filled with colorful candy under transparent epoxy, sunlight reflecting off the polished surface. No people.
+
+Style: viral satisfying DIY renovation timelapse, static wide-angle camera from the doorway, natural daylight, ultra-detailed, smooth realistic physics of pouring liquid and rolling candy.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112141996588408832/img/z_OxeJb6a15TsIZ6.jpg" width="600" alt="Jelly Bean Candy Terrazzo Floor">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12766)**
+
+**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2112142035826180210) | **Published:** Oct 19, 2026
+
+---
+### Cinematic Beauty Portrait Close-Up
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for an ultra-realistic extreme close-up portrait video of a woman opening her eyes, focusing on delicate details and moody lighting, created with Seedance 2.0.
 
 #### 📝 Prompt
 
@@ -377,7 +511,7 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 Ultra-realistic cinematic extreme close-up portrait of a beautiful young woman with delicate facial features, captivating dark brown eyes, long curled eyelashes, subtle smoky eye makeup, and naturally glowing porcelain skin. The video begins with an extreme macro shot of her closed eyes, with loose strands of dark, slightly wet hair falling naturally across her face. Slowly, she opens her eyes, revealing deep, expressive brown irises, as the camera smoothly pulls back to reveal her full face. She wears elegant dangling silver earrings, with a few delicate strands of hair framing her cheeks. Her lips are slightly parted, creating a mysterious, emotional expression. Dark moody blue-black background, dramatic soft side lighting, subtle highlights reflecting in her eyes, realistic skin pores, delicate shadows, shallow depth of field, cinematic atmosphere, premium beauty campaign aesthetic, photorealistic details, smooth natural eye movement, slow camera movement, 85mm portrait lens, f/1.8, HDR, 8K quality, highly detailed eyelashes and irises, professional color grading, vertical composition, 9:16 aspect ratio.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112049335458500608/img/FIrkhU4PbyO6yYLa.jpg" width="600" alt="Extreme Close-Up Beauty Portrait">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112049335458500608/img/FIrkhU4PbyO6yYLa.jpg" width="600" alt="Cinematic Beauty Portrait Close-Up">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12712)**
 
@@ -413,11 +547,11 @@ Characters: Protagonist, Crew A, Crew B, Crew C (4 total). A medium-sized civili
 **Author:** [M7［mi7］AI](https://x.com/mi7_crypto) | **Source:** [Link](https://x.com/mi7_crypto/status/2112029684594872632) | **Published:** Oct 19, 2026
 
 ---
-### Silent Encounter Korean Drama Scene
+### Korean Drama Silent Encounter Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for creating a moody, cinematic scene reminiscent of a Korean drama, focusing on tension and silent interaction between two women in an apartment hallway.
+> A prompt for a 28-second cinematic Korean drama scene featuring two women in a dimly lit apartment hallway, emphasizing tension and subtle storytelling, created with Seedance 2.0.
 
 #### 📝 Prompt
 
@@ -425,179 +559,179 @@ Characters: Protagonist, Crew A, Crew B, Crew C (4 total). A medium-sized civili
 Create a 28-second ultra-realistic cinematic Korean drama featuring two beautiful young Korean women in a quiet, dimly lit apartment hallway. One woman has long, straight black hair and wears an elegant black outfit, while the other wears a sophisticated white pantsuit with a simple handbag. Begin with a mysterious rear shot of the woman in black walking slowly through a dark corridor illuminated by soft blue light. Transition into a beautifully detailed apartment hallway where both women walk past each other, creating a subtle atmosphere of tension and curiosity. Use cinematic close-ups, natural walking movements, realistic facial expressions, and smooth camera tracking to build suspense. Show a close-up of a wooden doorway and a subtle movement near the floor, followed by an empty hallway and a metallic elevator interior. Capture the woman in black standing quietly inside the elevator with a serious expression. End with the woman in white walking alone through the hallway, followed by a breathtaking close-up of her face outdoors, with her black hair moving gently in the breeze. Use soft natural lighting, muted colors, shallow depth of field, realistic skin texture, cinematic composition, smooth transitions, and professional Korean drama cinematography. Maintain consistent facial identities, hairstyles, outfits, and body proportions throughout the video.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112012335745568768/img/7htU0qp0NJG1AW7B.jpg" width="600" alt="Silent Encounter Korean Drama Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112012335745568768/img/7htU0qp0NJG1AW7B.jpg" width="600" alt="Korean Drama Silent Encounter Scene">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12710)**
 
 **Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2112012480860000276) | **Published:** Oct 19, 2026
 
 ---
-### Wildlife Park Crocodile Attack Video Prompt
+### Seedance 2.0 Viral Crocodile Attack Video Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed prompt for generating a realistic, shaky-cam style video of a sudden crocodile attack at a wildlife park, featuring specific character references and camera behaviors.
+> A detailed prompt for generating a realistic, handheld-camera style video of a crocodile attack at a zoo using Seedance 2.0.
 
 #### 📝 Prompt
 
 ```
-【Video Specifications & Overall Style】
+[Video Specifications and Overall Style]
 
-9:16 vertical screen, 15 seconds, one continuous shot. Inside a Chinese wildlife park, a thrilling scene accidentally captured by a tourist with an ordinary phone. Initially calm, the photographer is startled half a beat late after a giant crocodile attacks; the camera shakes, pans off, then hurriedly finds the person again. Retain the realism of amateur phone footage.
+9:16 vertical screen, 15 seconds, single continuous shot. A thrilling scene accidentally captured by a tourist with an ordinary phone inside a Chinese wildlife park. Initially calm, the photographer reacts half a beat late to a giant crocodile's ambush, causing camera shake, misalignment, and hurried re-framing of the subject. Retain the authenticity of amateur mobile footage.
 
-【Character & Reference Locking】
+[Character and Reference Locking]
 
-The female protagonist uses preset adult Chinese female character #1 @598c0e35-7c27-4b7c-8bac-19bb206ff1c3, wearing preset outfit #2 @d57ec59a-c0a5-4eae-84f4-4f02ef21a92d. Strictly maintain the face, long hair, clothing style, color, and material from the reference. #1 is the person, #2 is the outfit; numbers do not appear in the frame.
+The female protagonist uses preset adult Chinese female character #1 @598c0e35-7c27-4b7c-8bac-19bb206ff1c3, wearing preset outfit #2 @d57ec59a-c0a5-4eae-84f4-4f02ef21a92d, strictly maintaining the facial features, long hair, clothing style, color, and material from the references. #1 is the person, #2 is the outfit; numbers do not appear in the frame.
 
-The administrator is a Chinese male around forty years old, with short black hair, wearing a khaki short-sleeved work uniform and dark trousers, with a work badge on his chest, standing behind and to the side of the female protagonist.
+The administrator is a Chinese male around forty years old, short black hair, wearing khaki short-sleeved work clothes, dark trousers, with a work badge on his chest, standing behind and to the side of the female protagonist.
 
-There are a few adult Chinese tourists in the background, wearing summer casual clothes, standing naturally staggered on the boardwalk.
+There are a few adult Chinese tourists in the background, wearing summer casual wear, naturally scattered along the boardwalk.
 
-【Scene & Camera Position】
+[Scene and Camera Position]
 
-Tropical crocodile viewing area, an old wooden boardwalk extending along a deep green pool, with bamboo, palms, and shrubs on the opposite bank. Thick wooden railings extend diagonally from the bottom right of the frame to the background.
+Tropical crocodile viewing area, old wooden boardwalk extending along a deep green pool, opposite bank lined with bamboo, palms, and shrubs. Thick wooden railing extends diagonally from bottom right to background.
 
-The external photographer stands about one meter behind and to the side of the female protagonist, slightly higher than the position of her phone, shooting vertically downwards. The right side of the frame shows the female protagonist, the administrator, and the boardwalk; the left and bottom show the pool.
+External photographer stands about one meter behind and to the side of the female protagonist, slightly higher than her hand-held phone position, shooting vertically downwards. The right side of the frame shows the female protagonist, administrator, and boardwalk; left and bottom show the pool.
 
-Humid daytime, natural sunlight filtering through vegetation, slight green reflection on the water surface. Ordinary phone 1x main camera, slight hand shake, tilt, compression artifacts, noise in shadows, brief blur during rapid turns. No cinematic color grading, drone shots, or portrait bokeh.
+Humid daytime, natural sunlight filtering through vegetation, slight green reflection on water surface. Ordinary phone 1x main camera, slight hand shake, tilt, compression artifacts, noise in shadows, brief blur during rapid movement. No cinematic grading, drone shots, or portrait bokeh.
 
-【Female Protagonist's Phone Orientation — Must Be Accurate】
+[Female Protagonist's Phone Orientation - Must Be Accurate]
 
-The female protagonist is using the rear-facing camera of her phone to film the crocodile in the water, not taking a selfie, nor showing the phone to the external photographer.
+The female protagonist is using the rear camera to film the crocodile in the water, not taking a selfie, nor showing the phone to the external photographer.
 
-She holds both ends of the phone horizontally with both hands, fingers avoiding the rear camera. The phone is located below her chest, near the outer edge of the railing, with the body clearly tilted downward. The direction of the rear lens accurately falls on the huge shadow underwater in the lower left.
+She holds the phone horizontally with both hands at the ends, fingers avoiding the rear camera. The phone is below her chest, near the outer edge of the railing, clearly tilted downwards, with the rear lens direction accurately aimed at the huge shadow underwater in the lower left.
 
-The phone screen faces up and slightly towards her face; the back of the phone and the rear lens face down, towards the water surface. She looks down at the screen, observing the target in the water through it.
+Phone screen faces up, slightly towards her face; back and rear lens face down towards water. She looks down at the screen, observing the target in water through it.
 
-From the slightly elevated side-rear angle of the external photographer, mainly the phone screen and the side of the body should be seen, not the entire back of the phone and the camera module facing the external photographer.
+From the external photographer's slightly higher side-rear angle, mainly see the phone screen and side edges, should not clearly see the entire phone back and camera module facing the external photographer.
 
-The content framed on the screen matches the real water surface: the same water surface and the same blurry shadow can be seen, without the female protagonist's selfie face, irrelevant scenery, or wrong direction.
+Screen content matches real water surface: same water patch and blurry shadow visible, no selfie face, irrelevant scenery, or wrong direction.
 
-When the female protagonist slightly adjusts her wrist, the rear lens always follows the underwater shadow. Until the giant crocodile attacks, she retracts the phone due to shock, disrupting its orientation.
+When adjusting wrists slightly, rear lens always follows underwater shadow. Only when crocodile attacks does she pull back phone in fear, disrupting orientation.
 
-【Giant Crocodile & First Frame State】
+[Crocodile and First Frame State]
 
-Only one abnormally large dark gray-black crocodile. When leaping, its head approaches the size of an adult's upper body, and its open mouth occupies nearly half of the left side of the frame. Size refers to the original video; do not generate an ordinary small crocodile.
+Only one abnormally large dark gray-black crocodile. When leaping, head size approaches upper body of an adult, open mouth occupies nearly half left frame, size reference original video, no small crocodile generated.
 
-In the first frame, the giant crocodile is completely submerged, presenting only a huge, blurry elongated shadow, like sunken wood. Water reflections and turbidity obscure details; the head, eyes, nostrils, scales, or teeth cannot be clearly identified, and no part breaks the surface.
+First frame: crocodile fully submerged, only huge blurry long shadow like sunken wood. Water reflections and turbidity hide details, cannot clearly identify head, eyes, nostrils, scales, teeth, nothing exposed above water.
 
-The giant crocodile maintains the same volume throughout, not suddenly expanding at the moment of leaping.
+Crocodile maintains same volume throughout, no sudden expansion during leap.
 
-【0–2 Seconds: Filming Underwater Shadow】
+[0-2s: Filming Underwater Shadow]
 
-The female protagonist stands inside the railing, leaning forward slightly, holding the phone horizontally with both hands, pointing the rear lens downwards at the huge shadow in the water in the lower left.
+Female protagonist stands inside railing, leaning forward slightly, holding phone horizontally, aiming rear lens down at huge shadow in lower left water.
 
-She looks down at the screen facing herself; the shadow in the screen corresponds to the shadow in the pool. The external photographer captures the phone screen, the female protagonist's side profile, and the water surface below from her side-rear.
+She looks down at screen facing her, shadow in screen corresponds to shadow in pool. External photographer captures phone screen, her profile, and water below from side-rear.
 
-The administrator seriously reminds:
+Administrator seriously warns:
 
-"Ma'am, step back a little, don't lean on the railing!"
+"Ma'am, step back, don't lean on the railing!"
 
-There are only slight ripples on the water surface; the crocodile has not yet emerged.
+Water has only slight ripples, crocodile still hidden.
 
-【2–4 Seconds: Target Approaching, Phone Following】
+[2-4s: Target Approaches, Phone Follows]
 
-The huge underwater outline slowly approaches the female protagonist's position. She slightly rotates her wrists, keeping the rear lens aimed at the moving shadow, screen facing herself, not turning the back of the phone towards the external photographer.
+Huge underwater outline slowly approaches female protagonist's position. She adjusts wrist slightly, keeping rear lens aimed at moving shadow, screen facing her, not turning phone back to photographer.
 
-The administrator steps closer, reaching out to support her, tone becoming urgent:
+Administrator steps closer, reaching out to support her, tone urgent:
 
-"That's not wood, it's alive! Don't lean out!"
+"That's not wood, it's alive! Don't lean in!"
 
-The female protagonist begins to retract her body, but the phone is still filming the water surface. At the end of this segment, the crocodile's nose tip and eyes just break the water.
+She starts pulling body back but phone still filming water. End of segment: crocodile snout and eyes just breaking water surface.
 
-【4–6 Seconds: Giant Crocodile Attack】
+[4-6s: Giant Crocodile Ambush]
 
-The giant crocodile suddenly bursts through the water surface, its huge head rising along the outside of the railing, its open mouth instantly occupying nearly half of the left side of the frame, bringing up large splashes.
+Crocodile violently bursts water surface, huge head rises along outside of railing, open mouth instantly occupies nearly half left frame, splashing large amount of water.
 
-The female protagonist screams, hastily retracting her phone and arms. The phone orientation loses stability due to shock; it must have been correctly aimed at the crocodile before this.
+Female protagonist screams, hurriedly pulls back phone and arm. Phone orientation loses stability due to shock, must have been correctly aimed before.
 
-The giant crocodile briefly bites her forearm extended outside the railing and nearby fabric. The administrator immediately supports her upper arm and shoulder/back, stabilizing her center of gravity inside the railing.
+Crocodile briefly bites into her forearm extended outside railing and nearby fabric. Administrator immediately supports her upper arm and shoulder/back, stabilizing her center of gravity inside railing.
 
-The external photographer retreats half a step in shock, the camera briefly jerks upwards, no cut or close-up of wounds.
+External photographer retreats half step in shock, camera briefly shakes upward, no cuts or wound close-ups.
 
-【6–9 Seconds: Escape & Falling into Water】
+[6-9s: Escape and Fall]
 
-The giant crocodile briefly releases its bite, head drops back, the female protagonist takes advantage to retract her injured forearm, the administrator pulls her to the inside of the boardwalk. The action must have a clear release, cannot let the arm pass through closed teeth.
+Crocodile briefly releases grip, head drops back, female protagonist seizes chance to retract injured forearm, administrator pulls her to inner boardwalk. Action must have clear release, arm cannot pass through closed teeth.
 
-The phone slips from the female protagonist's hand, flips, and falls into the pool, falling only once.
+Phone slips from hand, flips once, falls into pool.
 
-The giant crocodile slams back into the water, kicking up white splashes. The female protagonist covers her forearm, a small amount of red liquid seeps from the wound, forming short and thin streaks, staining the fabric at the contact point, with one or two drops falling onto the wooden boardwalk.
+Crocodile slams back into water, white splash. Female protagonist covers forearm, small amount of red liquid seeps from injury, forming short thin streaks, staining fabric at contact point, one or two drops falling onto wooden boardwalk.
 
-Do not display deep wounds, no spraying, no heavy bleeding.
+No deep wounds shown, no spraying, no heavy bleeding.
 
-The administrator shouts:
+Administrator shouts:
 
-"Step back! Don't reach out! Don't pick up the phone!"
+"Step back! Don't reach out! Don't pick up phone!"
 
-【9–11 Seconds: Tourists Panicking】
+[9-11s: Tourist Panic]
 
-The female protagonist retreats to the middle of the boardwalk, protecting her injured forearm, shoulders tense, breathing rapid.
+Female protagonist retreats to middle of boardwalk, protecting injured forearm, shoulders tense, breathing rapid.
 
-Nearby tourists first shrink their shoulders and retreat, pulling companions; tourists in the back turn around only after hearing the scream, some put away phones, some move aside, exclaiming in succession:
+Nearby tourists first shrink back, grab companions; those further away turn upon hearing scream, some put away phones, others make way, exclaiming sequentially:
 
-"Retreat quickly!"
+"Step back quickly!"
 
-"Don't lean on the railing!"
+"Don't lean on railing!"
 
-Crowd reactions have time delays, not synchronized, no clipping, no falling into the pool. The giant crocodile stays underwater, no second attack.
+Crowd reaction has time lag, not synchronized, no clipping, no falling into pool. Crocodile remains underwater, no second attack.
 
-【11–13 Seconds: Administrator Evacuating】
+[11-13s: Administrator Evacuation]
 
-The administrator stands between the female protagonist and the railing, protecting her as she continues to retreat, gesturing for tourists to make way:
+Administrator stands between female protagonist and railing, continuing to protect her retreat, gesturing for tourists to make way:
 
-"Move back! Everyone don't crowd!"
+"Back up! Everyone don't crowd!"
 
-A nearby tourist offers tissues, the female protagonist accepts and presses them against the same wound, the tissue gradually stains with a small amount of red.
+A nearby tourist offers tissue, female protagonist accepts and presses same injury spot, tissue gradually stains red.
 
-The photographer retreats slightly and corrects composition, capturing the female protagonist, administrator, and panicking retreating tourists simultaneously.
+Photographer retreats slightly and corrects composition, capturing female protagonist, administrator, and panicking retreating tourists.
 
-【13–15 Seconds: Aftermath of Fear】
+[13-15s: Aftermath]
 
-The female protagonist covers her forearm, panting, voice trembling saying:
+Female protagonist covers forearm, gasping, trembling voice says:
 
-"Scared me to death... It really bit!"
+"I'm scared... it really bit me!"
 
-The administrator still protects her, warily looking at the pool. Background tourists whisper warnings:
+Administrator still protects her, warily watching pool. Background tourists whisper warnings:
 
-"Stay far away, don't film!"
+"Stay away, stop filming!"
 
-Ends with the female protagonist still shaken, crowd retreating, water surface aftermath not yet settled.
+Ends with female protagonist shaken, crowd retreating, water ripples subsiding.
 
-【On-site Audio】
+[Live Audio]
 
-All audio is recorded live on the phone, Chinese dialogue, no music, narration, or subtitles.
+All live audio from phone, Chinese dialogue, no music, narration, subtitles.
 
-Start with low tourist chatter, bamboo leaf friction, and slight water sounds. The administrator's voice is near and clear, changing from serious reminder to urgent stop as danger occurs.
+Start includes low tourist chatter, bamboo leaf rustling, slight water sounds. Administrator voice near and clear, shifting from serious warning to urgent restraint as danger occurs.
 
-Heavy water sound when crocodile emerges, female protagonist's scream, nearby gasps; followed by phone falling into water, splash landing, rapid panting, and messy footsteps. Largest splash and scream cause microphone clipping briefly, then automatic gain recovers.
+During crocodile emergence: heavy water sound, female scream, nearby gasps; followed by phone splashdown, water crash, rapid panting, chaotic footsteps. Max splash and scream cause mic clipping briefly, then auto-gain recovery.
 
-Distant tourist voices are more scattered and lighter, no monster roars added.
+Distant tourist voices more scattered, lighter, no monster roars added.
 
-【Continuity & Key Constraints】
+[Continuity and Key Constraints]
 
-At the start, the female protagonist's phone must correctly film the underwater target: screen up and facing her, rear lens down aimed at the crocodile's location; external photographer mainly sees screen and sides. Prohibit rear lens facing external photographer while appearing to film underwater target.
+Opening phone must correctly film underwater target: screen up facing protagonist, rear lens down aimed at crocodile; external photographer sees mainly screen/sides. Prohibit rear lens facing photographer while depicting filming underwater target.
 
-First frame only has blurry giant underwater shadow, no clear crocodile head, eyes, scales, or teeth. Red liquid appears only after biting.
+First frame only blurry huge underwater shadow, no clear crocodile head/eyes/scales/teeth. Red liquid only after bite.
 
-Maintain continuity of character #1, outfit #2, administrator, giant crocodile, and boardwalk. Injury is always on the same forearm, red streaks, fabric damage correspond to tissue press location.
+Maintain continuity of Character #1, Outfit #2, Administrator, Crocodile, Boardwalk. Injury always same forearm, red streaks/fabric damage/tissue press location correspond.
 
-Only one phone, does not return to hand after falling. Female protagonist and administrator always inside railing, crocodile @d57ec59a-c0a5-4eae-84f4-4f02ef21a92d always in pool. Maintain causal relationships of contact, weight, bite, release, and retreat actions throughout.
+Only one phone, does not return to hand after fall. Protagonist/Administrator always inside railing, Crocodile @d57ec59a-c0a5-4eae-84f4-4f02ef21a92d always in pool. Maintain causal relationships of contact, weight, bite, release, retreat actions throughout.
 
-No wound close-ups, no amputations, no deep tissue display. Entire piece is one continuous shot, no slow motion, replays, studio reveals, UI overlays, or watermarks.
+No wound close-ups, dismemberment, deep tissue display. Single continuous shot, no slow motion, replays, studio reveals, UI overlays, watermarks.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111969592058818560/img/-krKiLC99wPpxCu0.jpg" width="600" alt="Wildlife Park Crocodile Attack Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111969592058818560/img/-krKiLC99wPpxCu0.jpg" width="600" alt="Seedance 2.0 Viral Crocodile Attack Video Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12714)**
 
 **Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2111969616419303595) | **Published:** Oct 18, 2026
 
 ---
-### Papercraft Whale Diorama Video Prompt
+### Origami Whale Papercraft Diorama
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for creating a 15-second animated papercraft diorama video featuring a colossal origami whale and a paper village, with specific camera shots and sound design.
+> Animated layered papercraft diorama featuring an origami whale, generated with Seedance 2.0 Mini.
 
 #### 📝 Prompt
 
@@ -612,7 +746,7 @@ SHOT 5 (12 to 15s): Extreme wide shot, 16mm lens, the whale rises into the sky a
 Rustling paper, soft crinkling folds, windmill creaks, a gentle whale call that sounds like a breath through paper, children laughing, music box and soft piano.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111878182143995904/img/MxkM_Z1EzpswyEpr.jpg" width="600" alt="Papercraft Whale Diorama Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111878182143995904/img/MxkM_Z1EzpswyEpr.jpg" width="600" alt="Origami Whale Papercraft Diorama">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12711)**
 
@@ -5348,370 +5482,6 @@ Avoid: Face swapping, clothing changes, body proportion changes, character dupli
 **Author:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2105550931907809283) | **Published:** Oct 1, 2026
 
 ---
-### School Classroom Fire Chaos Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for creating a cinematic, ultra-realistic 9:16 video of a school classroom where a student reacts to flames erupting from a backpack.
-
-#### 📝 Prompt
-
-```
-Create a cinematic, ultra-realistic 9:16 school classroom scene. A young male student with styled red hair suddenly reacts dramatically as a large burst of flames erupts from a backpack in front of him. Another student in a school uniform sits at a desk in the background, shocked and watching. Warm classroom lighting, realistic fire and smoke effects, dynamic movement, natural facial expressions, detailed environment, cinematic camera motion, shallow depth of field, realistic textures, dramatic atmosphere, high detail, 4K, photorealistic.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105518374784729090/img/IvsEDXcDISnXm-Ak.jpg" width="600" alt="School Classroom Fire Chaos Scene">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11717)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2105518415201083496) | **Published:** Oct 1, 2026
-
----
-### Cinematic Japanese Schoolgirl Sunset Walk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a 20-second cinematic video of a schoolgirl walking through a quiet Japanese street during golden hour, transitioning to a sunset landscape.
-
-#### 📝 Prompt
-
-```
-Created a   20 seconds cinematic Japanese-style scene of a young schoolgirl walking alone through a quiet Japanese residential street during warm golden-hour sunlight, shown from behind as she slowly approaches a railway crossing with a train passing in the background, then transitioning to a close-up of her face and flower-decorated hair as she watches the train, followed by a wider shot of her standing near a quiet canal with soft evening light reflecting on the water, then showing her gently touching small white flowers in a golden field, with close-up shots of her hand and the flowers moving naturally in the breeze, gradually transitioning to a wide sunset landscape with the girl standing peacefully in the field, and finally ending with a warm close-up of her face as she softly looks toward the camera, maintaining the same character, hairstyle, school uniform, realistic skin details, natural expressions, smooth cinematic camera movement, soft depth of field, warm sunset lighting, realistic Japanese environment, subtle film grain, peaceful emotional atmosphere, and a dark fade-out at the very end.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105508171691556865/img/OeVQVj9aXV6iMJdn.jpg" width="600" alt="Cinematic Japanese Schoolgirl Sunset Walk">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11716)**
-
-**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2105508431067332749) | **Published:** Oct 1, 2026
-
----
-### Cute Ghost Child in Bedroom
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a cute, funny 3D animated cinematic scene featuring a child in a ghost costume surprising their parents in a cozy bedroom.
-
-#### 📝 Prompt
-
-```
-Create a cute, funny, high-quality 3D animated cinematic scene in a cozy modern bedroom during warm morning daylight. A small child is dressed in an oversized fluffy white ghost costume, with only the child’s big expressive eyes, small hands, and bare feet visible. The adorable ghost walks toward a bed where a surprised mother and father are sitting under a beige blanket.
-
-Start with a close-up of the cute little ghost standing in the warmly lit bedroom, then show the child slowly walking toward the bed. The parents notice the ghost and react with exaggerated shock and fear, pulling the blanket up while staring at the child with wide eyes and funny facial expressions. The ghost innocently approaches the camera and raises its tiny hands.
-
-Use Pixar-quality 3D animation, highly expressive faces, soft realistic fur and fabric textures, warm natural sunlight coming through the window, cozy bedroom environment, cinematic depth of field, smooth character animation, realistic cloth movement, gentle camera tracking, comedic timing, adorable family-friendly atmosphere, detailed lighting, polished animated-movie quality, vertical 9:16 format, 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105494199298904064/img/5DjOeCNWejHLSGQk.jpg" width="600" alt="Cute Ghost Child in Bedroom">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11758)**
-
-**Author:** [Zarnab Ai](https://x.com/Zarnab_with_Ai) | **Source:** [Link](https://x.com/Zarnab_with_Ai/status/2105494296795451478) | **Published:** Oct 1, 2026
-
----
-### Avatar-like Jungle Flight Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Describes a cinematic fantasy jungle scene generated with Seedance 2.0, detailing lighting, action, and camera style, though presented as a breakdown of settings rather than a single raw prompt string.
-
-#### 📝 Prompt
-
-```
-Style: Avatar-scale fantasy jungle. Hyper-realistic - no CGI gloss, no game-engine look.
-
-Cinematography: Single continuous take, wide lens, GoPro-on-creature intimacy.
-
-Lighting: Golden god-rays through canopy, rainbow through waterfall mist.
-
-Action: 15s soaring flight - butterflies, waterfall skim, razor-narrow gap, full world reveal.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105491285603696640/img/2JrgalTU5AFuFIA7.jpg" width="600" alt="Avatar-like Jungle Flight Scene">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11719)**
-
-**Author:** [xsavagespark](https://x.com/xsavagespark) | **Source:** [Link](https://x.com/xsavagespark/status/2105491368428601530) | **Published:** Oct 1, 2026
-
----
-### Xianxia Comedy Sword Identity Reveal Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A cinematic video prompt for Seedance 2.0 Mini featuring a Xianxia sword duel that turns into a comedy about embarrassing childhood nicknames, with detailed character and lighting instructions.
-
-#### 📝 Prompt
-
-```
-Cinematic photorealistic texture, pure ancient Chinese Xianxia aesthetics.
-
-Gradually dismantle the solemn cinematography of epic masters announcing their identities into a deadpan 'identity reveal' comedy.
-Absorb:
-Silent film reaction rhythm
-
-British status-degradation cold humor
-Hong Kong comedy quick setup and payoff
-Clear 'three-beat progression'
-Adopt:
-
-Arri Alexa cinema camera texture
-
-Stable clear facial micro-details
-Fine film grain
-Natural volumetric light
-Core Comedy Line
-
-Keep only one comedy line instantly understandable on first watch:
-
-An imposing enemy swordsman tries to dominate the scene with increasingly exaggerated Jianghu titles; the senior sister only wants to know from start to finish:
-
-"What is your name?"
-
-Finally, the elderly master suddenly recognizes his extremely ordinary, even slightly embarrassing childhood nickname, destroying the enemy's carefully cultivated peerless expert persona with one sentence.
-
-Humor Principles
-
-Core humor comes from:
-
-Status contrast
-Precise undermining by acquaintances
-
-Must NOT rely on:
-Characters suddenly becoming stupid
-
-Environmental accidents
-
-External coincidences
-References & Environment
-Use @Image 1 and @Image 2 strictly as character identity anchors.
-
-All newly uploaded background/location reference images determine the same environmental DNA.
-Retain recognizable:
-
-Real terrain
-
-Architecture
-
-Materials
-Vegetation
-
-Water bodies
-Weather
-Mountain mist
-Main light direction
-Reflections
-Air depth
-Simultaneously re-plan into a unique, fully unified new space for this round.
-Background Principle
-The following elements persist vividly in the background but are narratively neutral:
-Natural wind
-
-Water bodies
-
-Vegetation
-Cloud layers
-
-Distant ordinary disciples
-Spatial ambient sound
-Character Settings
-Character ID A | Senior Sister (Sword Immortal)
-Always the same @Image 1 Senior Sister:
-25–30 year old East Asian female
-
-Tall slender figure
-
-Oval face
-
-Dark almond eyes
-Black long hair half-up, secured with white jade hairpin
-
-Always wears same white embroidered silk Hanfu
-Silver waistband
-Jade pendant
-White cloth boots
-Holds sole silver longsword
-Character ID B | Junior Sister
-Always the same @Image 2 Junior Sister:
-20–25 year old East Asian female
-Petite figure
-Round lively face
-
-Black braided hair
-Always wears same cyan-green linen Hanfu
-
-Dark belt
-Wooden hairpin
-Black cloth shoes
-Holds sole dark steel sword
-Other Characters
-Enemy Swordsman
-Extremely imposing
-Entrance full of ritual
-Highly dependent on years of cultivated Jianghu titles
-
-Strongly maintains 'peerless expert' persona
-
-Elderly Master
-Deadpan throughout
-Not intentionally humiliating
-Just naturally recognizing an acquaintance's old name
-Delivers final blow at end
-
-Segment Structure
-0–5s | Wide or Long Shot
-An imposing enemy swordsman strides into open area formed naturally by reference images.
-He dramatically opens outer cloak, one hand on sword hilt, announces loudly with true expert entrance posture:
-"North Ridge Lone Swan, River-Cutting Sword, here to challenge today!"
-
-Same white-robed Sword Immortal unaffected by aura, calmly asks:
-
-"What is your name?"
-
-Enemy pauses visibly, then proudly continues:
-
-"Jianghu calls me — Cold River Shadowless Guest!"
-
-5–10s | Medium or Cowboy Shot
-
-Maintain:
-
-Same characters
-
-Same costumes
-
-Same longswords
-
-Identical geographic space
-
-Junior Sister slowly turns eyes to Senior Sister.
-
-Senior Sister without mockery, seriously confirms again:
-
-"I'm asking for your name."
-
-Enemy shows slight unnaturalness, still trying to maintain expert air:
-"Title IS name."
-Shallow depth of field background, elderly master suddenly squints, staring intently at enemy's face for a beat.
-Then like finally recognizing a long-lost acquaintance, suddenly asks:
-
-"Wang Ergou?"
-
-Absolute silence.
-
-Enemy's body instantly stiffens, heroically straight posture visibly collapses slightly.
-
-Background continues running naturally vividly, completely uninvolved in twist.
-
-10–15s | Close-up or Extreme Close-up
-
-Enemy unbelievably turns to master:
-
-"You... know me?"
-
-Master unaware he's undermining, answers naturally:
-
-"You stole my dates as a kid, chased by dogs for three streets."
-
-Junior Sister instantly looks down, shoulders trembling slightly, desperately suppressing laughter.
-
-Enemy quickly turns back to Senior Sister, trying to salvage last bit of dignity, lowers voice seriously explains:
-
-"No one in Jianghu calls me that anymore."
-
-Senior Sister nods solemnly after hearing, indicating full understanding, then calmly replies:
-
-"Understood, Ergou."
-
-Extreme close-up:
-
-Enemy's barely recovered expression completely collapses again
-
-Junior Sister finally can't help turning face away quickly, short laugh escapes
-
-Background elderly master deadpan delivers final blow:
-
-"Now someone does again."
-
-Enemy completely forgets original challenge intent, silently pulls cloak higher over face, as if regretting announcing so many titles for first time.
-
-Cut to black precisely on this expression.
-
-Comedy Rhythm Structure
-
-Maintain clear 'three-beat progression':
-
-Beat 1
-Enemy announces himself with epic expert posture, max aura.
-
-Beat 2
-
-Senior Sister ignores title system, only asks plain "What is your name?".
-
-Beat 3
-
-Master's "Wang Ergou" destroys persona, subsequent salvaging becomes new jokes.
-
-Performance Principles
-
-Enemy Swordsman
-
-Cannot actively joke
-
-Cannot perform as clown
-Must seriously maintain dignity, titles, aura
-
-Comedy effect only from how reality undermines his serious identity maintenance
-Sword Immortal Senior Sister
-
-Must remain calm throughout
-No mockery
-
-No stealing thunder
-
-Her humor isn't 'getting the joke', but truly only confirming name
-
-Junior Sister
-Must react naturally
-Focus on "trying hard not to laugh"
-No premature exaggerated breakdown
-Elderly Master
-
-Must be absolutely deadpan
-Like normally recognizing person, recalling past
-Final blow shouldn't feel like intentional banter, but unconscious factual addition
-Hard Requirements
-Strict total duration 15 seconds
-
-16:9 landscape
-Three consecutive clear shots
-Simple clear staging for Seedance 2.0 Mini
-Explicit eye-line relationships
-
-Strict character continuity
-Native synchronized Mandarin dialogue
-Precise lip-sync
-Clear comedic pauses
-
-Costumes stable throughout
-
-Longswords stable throughout
-
-Supporting roles positions stable throughout
-Geographic space stable throughout
-Silk fabric and hair physics realistic
-Foreground/mid/background maintain natural parallax and real spatial ambient sound
-No subtitles generated
-Negative
-blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105489714639978496/img/aBG8N0NFFWu5g_cd.jpg" width="600" alt="Xianxia Comedy Sword Identity Reveal Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11722)**
-
-**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2105490567601995924) | **Published:** Oct 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -5773,6 +5543,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-20T03:56:25.875Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-20T09:34:18.131Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6563** |
+| 📝 Gesamtanzahl Prompts | **6568** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-10-20** |
 
@@ -361,6 +361,149 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Futuristisches Neon-Autobahn-Rennstunt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für ein 30-sekündiges, ultrarealistisches Sci-Fi-Rennvideo mit einer Fahrerin, die auf einer neonbeleuchteten Autobahn schwerkraftwidrige Stunts ausführt, generiert mit Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Erstelle ein 30 Sekunden langes, ultrarealistisches, cineastisches Sci-Fi-Rennvideo auf einer futuristischen Autobahn bei Nacht. Eine junge Frau in einem weißen Rennanzug mit Helm und Sicherheitsgurt steuert einen schnittigen, silbernen Sportwagen der Zukunft. Rote Neonlichter tauchen die nasse Fahrbahn in Licht, erzeugen faszinierende Spiegelungen und eine geheimnisvolle Atmosphäre. Zeige Nahaufnahmen ihres konzentrierten Gesichts, ihrer Hände am Lenkrad und des leuchtenden Armaturenbretts. Der Wagen rast auf eine gigantische vertikale Looping-Rampe zu, umgeben von futuristischen Bauwerken. Furchtlos beschleunigt sie und vollführt ein atemberaubendes, der Schwerkraft trotzendes Stuntmanöver durch den hoch aufragenden Looping. Leistungsstarke Triebwerke unter dem Fahrzeug zünden, heben es in die Luft, während cineastische Kamerawinkel diese unglaubliche Bewegung einfangen. Nutze realistische Fahrzeugphysik, dramatische Beleuchtung, Bewegungsunschärfe, detaillierte Reflexionen, immersive Motorsounds und visuelle Effekte auf Hollywood-Sci-Fi-Niveau. Das Video endet damit, dass der Wagen auf der leuchtenden Neon-Autobahn davonschießt und eine mysteriöse, filmreife Stimmung hinterlässt. Exakt 30 Sekunden, 16:9 Querformat, konsistente Darstellung von Charakter und Fahrzeug, kein Text, keine Logos, kein Wasserzeichen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112409362761437184/img/bEbjGS65o1bBZyEP.jpg" width="600" alt="Futuristisches Neon-Autobahn-Rennstunt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12768)**
+
+**Autor:** [liana](https://x.com/Lianaalane) | **Quelle:** [Link](https://x.com/Lianaalane/status/2112409431174733909) | **Veröffentlicht:** Oct 20, 2026
+
+---
+### Kinematischer Action-Kampf einer Frau gegen Feinde
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Erstellung eines 28-sekündigen vertikalen Kinematik-Action-Videos, das eine junge Koreanerin im Kampf gegen Feinde in einer chaotischen Stadt zeigt, erstellt mit Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Erstelle ein 28 Sekunden langes, vertikales (9:16), fotorealistisches Action-Video im Kinostil mit einer jungen Koreanerin mit langen schwarzen Haaren. Sie trägt ein übergroßes weißes T-Shirt und lässige Shorts und rennt durch eine moderne Stadt unter Beschuss.
+
+Zeige, wie sie über ein Dach sprintet, während mysteriöse Feinde sie verfolgen – mit realistischen Bewegungen, intensiven Gesichtsausdrücken und dramatischen Kamerafahrten.
+
+Sie springt auf ein Glasgebäude zu, durchbricht ein Fenster und landet in einem traditionellen Raum im japanischen Stil, der von warmem natürlichem Licht durchflutet ist.
+
+Zeige, wie sie blitzschnell nach einem pinkfarbenen futuristischen Gewehr greift und sich für den gefährlichen Kampf vorbereitet, der ihr bevorsteht.
+
+Wechsle dann zu einer chaotischen japanischen Straße mit beschädigten Gebäuden, umgestürzten Fahrzeugen, Verkaufsautomaten und dichtem Rauch in der Luft.
+
+Sie rennt mit gezückter Waffe durch die Straße, während hinter ihr Explosionen hochgehen – eine packende Überlebenssequenz wie aus dem Kino.
+
+Baue einen spektakulären Slow-Motion-Moment ein, in dem sie von einer gewaltigen Explosion in die Luft geschleudert wird, wobei sich ihre Haare und Kleidung völlig natürlich bewegen.
+
+Achte durchgehend auf ein konsistentes Gesicht, realistische Hauttexturen, anatomisch korrekte Hände, natürliche Körperproportionen, detailreiche Umgebungen und flüssige, kinoreife Bewegungen.
+
+Nutze dramatische Beleuchtung, realistische Physik, immersive Actionfilm-Soundeffekte, dynamische Kamerawinkel und High-End-Hollywood-Qualität.
+
+Vermeide Cartoon-Effekte, verzerrte Anatomie, zusätzliche Finger, Flackern sowie unerwünschten Text, Logos und Wasserzeichen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112388862857334784/img/7kbItar8JG0pTY5T.jpg" width="600" alt="Kinematischer Action-Kampf einer Frau gegen Feinde">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12767)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2112389039341113538) | **Veröffentlicht:** Oct 20, 2026
+
+---
+### Simurgh-Video in persischer Miniaturmalerei
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung eines kinoreifen Videos im Stil der klassischen persischen Miniaturmalerei, das den mythischen Vogel Simurgh in einer Palastgarten-Szene zeigt.
+
+#### 📝 Prompt
+
+```
+STIL: Animierter klassischer persischer Miniaturmalerei-Stil, flache, geschichtete Perspektive, filigrane florale und geometrische Muster, Blattgoldhimmel mit wirbelnden, stilisierten Wolken, kunstvolle Bordüre, zarte, anmutige Bewegungen. Farbgebung: Lapislazuliblau, Türkis, Rosa, Safrangelb, Gold.
+Ein kolossaler Simurgh mit pfauenartigem Körper, juwelenbesetzten Flügeln und einem langen, weit ausladenden Schwanz aus gemusterten Federn. Ein Palastgarten mit türkisfarbenen Kuppeln, Zypressen und Wasserbecken, Höflinge, Musiker und ein Prinz auf einem weißen Pferd.
+EINSTELLUNG 1 (0 bis 3s): Totale, passend zum Referenzbild; der Simurgh breitet seine Flügel über dem goldenen Himmel aus, während sich seine Schwanzfedern eine nach der anderen in schimmernden Mustern entfalten.
+EINSTELLUNG 2 (3 bis 6s): Halbtotale, 35mm-Objektiv; die Musiker im Innenhof hören auf zu spielen, ein Höfling lässt einen Granatapfel fallen, der über die Fliesen rollt, das Pferd des Prinzen bäumt sich auf.
+EINSTELLUNG 3 (6 bis 9s): Nahaufnahme, 85mm-Objektiv; der gekrönte Kopf des Simurgh senkt sich tief, sein Auge blitzt wie ein Saphir, goldene Muster kräuseln sich über sein Gefieder.
+EINSTELLUNG 4 (9 bis 12s): Froschperspektive, Totale, 20mm-Objektiv; der Simurgh landet im Garten, seine Flügel streichen über die Wasserbecken hinweg, Blütenblätter und Zypressennadeln werden spiralförmig in die Höhe gewirbelt.
+EINSTELLUNG 5 (12 bis 15s): Extreme Totale, 16mm-Objektiv; der Prinz reitet vorwärts und verneigt sich, der Simurgh senkt einen Flügel wie eine Treppe herab, und die wirbelnden goldenen Wolken öffnen sich zu einem Pfad quer über den Himmel.
+Plätscherndes Brunnenwasser, Vogelgezwitscher, eine Oud- und Tar-Melodie, die abrupt verstummt, ein gewaltiges, seidenweiches Flügelschlagen, ein tiefer, melodischer Vogelruf, Daf-Trommeln und Santur, die sich zu einem triumphalen Thema steigern.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112327483924070400/img/E_eeIRpAzoLb8pwr.jpg" width="600" alt="Simurgh-Video in persischer Miniaturmalerei">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12764)**
+
+**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Quelle:** [Link](https://x.com/AllaAisling/status/2112327872253706617) | **Veröffentlicht:** Oct 19, 2026
+
+---
+### Terrazzo-Bodenrenovierung mit Muscheln
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> DIY-Renovierungsvideo, das in Epoxidharz eingebettete Muscheln auf dem Boden zeigt, erstellt mit Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Vertikales 9:16 fotorealistisches DIY-Renovierungsvideo, befriedigender ASMR-Stil.
+Heller, leerer Raum: weiße Wände, grauer Betonboden, großes Fenster mit weißem Rahmen auf der linken Seite, sanftes natürliches Tageslicht.
+
+SZENE 1 — Ein bärtiger Mann in grauem T-Shirt und blauer Jeans-Latzhose verteilt einen großen Haufen bunter Muscheln (Jakobsmuscheln, Venusmuscheln, Kegelschnecken) mit einem Landschaftsrechen gleichmäßig über den gesamten Boden. Schnelle Zeitraffer-Bewegung.
+
+SZENE 2 — Eine brünette Frau in roter Latzhose, weißem T-Shirt und Gummistiefeln gießt dickflüssiges, cremeweißes selbstnivellierendes Epoxidharz aus einem großen grauen Eimer. Die milchige Flüssigkeit fließt über die Muscheln, breitet sich aus und bedeckt sie nach und nach vollständig zu einer glänzend weißen Oberfläche.
+
+SZENE 3 — Ein Arbeiter in neon-gelber Warnweste und schwarzer Kappe schiebt eine Bodenpoliermaschine vor und zurück, schleift und poliert die Oberfläche und legt dabei Muscheln frei, die in einen glänzend weißen Terrazzo-Harzboden eingelassen sind.
+
+SZENE 4 — Der Mann in der Jeans-Latzhose baut ein Bettgestell aus heller Eiche zusammen, montiert das Kopfteil und die Lattenroste, legt eine weiße Matratze auf und richtet eine weiße Bettdecke sowie beigefarbene Kissen an. Abschließende statische Beauty-Einstellung: gemütliches, fertig eingerichtetes Schlafzimmer mit Eichenbett, weißer Bettwäsche und einem Designer-Terrazzoboden aus Muscheln, der im sanften Tageslicht erstrahlt.
+
+Stil: fotorealistisch, weiche Schnitte, Zeitraffer-Tempo während der Arbeitsphasen, natürliche, weiche Beleuchtung, detailreich, kein Text.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112171861031227392/img/xCdTYwL6rE17Si9O.jpg" width="600" alt="Terrazzo-Bodenrenovierung mit Muscheln">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12765)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2112171888801669570) | **Veröffentlicht:** Oct 19, 2026
+
+---
+### Jelly Bean Candy Terrazzo Boden
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Befriedigendes Renovierungsvideo: Jelly-Bean-Bonbons in Epoxidharz-Boden eingebettet, generiert mit Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Vertikales 9:16 fotorealistisches, befriedigendes Renovierungsvideo, eine durchgehende Szene in einem hellen, leeren Raum mit weißen Wänden, nacktem Holzboden und einem großen, sonnendurchfluteten Fenster auf der rechten Seite.
+
+Einstellung 1: Ein bärtiger Mann in grauem T-Shirt und blauer Jeans-Latzhose verteilt einen riesigen kegelförmigen Haufen aus Tausenden bunten Jelly Beans energisch mit einem Rechen und breitet sie zu einer gleichmäßigen Schicht aus, die den gesamten Boden bedeckt.
+
+Einstellung 2: Eine Frau in roter Latzhose und grauem T-Shirt gießt dickflüssiges, glänzendes weißes Epoxidharz aus einem großen weißen Eimer; die cremige Flüssigkeit fließt über die Süßigkeitenschicht, breitet sich nach außen aus und bedeckt die bunten Bohnen vollständig.
+
+Einstellung 3: Ein Arbeiter in neon-gelber Warnweste und schwarzer Kappe schleift den ausgehärteten weißen Boden mit einer professionellen Bodenschleifmaschine; die obere Schicht wird abgetragen und gibt Tausende bunter Jelly Beans frei, die unter einer kristallklaren, spiegelglatten Epoxidoberfläche eingebettet sind – wie ein Terrazzo aus Süßigkeiten.
+
+Einstellung 4: Zwei Männer in schwarzen T-Shirts und schwarzen Kappen montieren im Zeitraffer blitzschnell ein hölzernes Bettgestell, legen eine weiße Matratze darauf und beziehen das Bett mit knackig weißer Bettwäsche.
+
+Schlusseinstellung: Langsame Beauty-Aufnahme des fertigen minimalistischen Schlafzimmers – ein luxuriöser, spiegelglatter Boden voller bunter Süßigkeiten unter transparentem Epoxidharz, Sonnenlicht reflektiert auf der polierten Oberfläche. Keine Personen.
+
+Stil: virales, befriedigendes DIY-Renovierungs-Zeitraffervideo, statische Weitwinkelkamera von der Tür aus, natürliches Tageslicht, ultradetailliert, flüssige, realistische Physik beim Gießen der Flüssigkeit und Rollen der Süßigkeiten.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112141996588408832/img/z_OxeJb6a15TsIZ6.jpg" width="600" alt="Jelly Bean Candy Terrazzo Boden">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12766)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2112142035826180210) | **Veröffentlicht:** Oct 19, 2026
+
+---
 ### Extremes Nahaufnahme-Schönheitsporträt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5349,339 +5492,6 @@ Vermeide: Gesichtswechsel, Kleidungsänderungen, Änderungen der Körperproporti
 **Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Quelle:** [Link](https://x.com/Adam38363368936/status/2105550931907809283) | **Veröffentlicht:** Oct 1, 2026
 
 ---
-### Chaos durch Schulbrand im Klassenzimmer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für eine realistische Schulklassenszene, in der ein Schüler auf Flammen reagiert, die aus einem Rucksack schlagen.
-
-#### 📝 Prompt
-
-```
-Erstelle eine cineastische, ultra-realistische Schulklassenszene im Format 9:16. Ein junger männlicher Schüler mit gestylten roten Haaren reagiert plötzlich dramatisch, als ein großer Flammenschwall aus einem Rucksack vor ihm hervorschießt. Ein weiterer Schüler in Schuluniform sitzt im Hintergrund an einem Schreibtisch, schockiert und beobachtend. Warme Beleuchtung im Klassenzimmer, realistische Feuer- und Raucheffekte, dynamische Bewegung, natürliche Gesichtsausdrücke, detaillierte Umgebung, cineastische Kamerabewegung, geringe Schärfentiefe, realistische Texturen, dramatische Atmosphäre, hohe Detailgenauigkeit, 4K, fotorealistisch.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105518374784729090/img/IvsEDXcDISnXm-Ak.jpg" width="600" alt="Chaos durch Schulbrand im Klassenzimmer">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11717)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2105518415201083496) | **Veröffentlicht:** Oct 1, 2026
-
----
-### Japanisches Schulmädchen beim Sonnenuntergangsspaziergang
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für eine 20-sekündige cineastische Szene im japanischen Stil, die ein Schulmädchen zeigt, das während der goldenen Stunde durch Straßen und Felder geht.
-
-#### 📝 Prompt
-
-```
-Erstellung einer 20 Sekunden langen cineastischen Szene im japanischen Stil: Ein junges Schulmädchen geht allein durch eine ruhige japanische Wohnstraße im warmen Licht der goldenen Stunde. Die Kamera zeigt sie von hinten, wie sie sich langsam einem Bahnübergang nähert, während im Hintergrund ein Zug vorbeifährt. Anschließend folgt eine Nahaufnahme ihres Gesichts und ihrer mit Blumen geschmückten Haare, als sie den Zug beobachtet. Danach wechselt die Perspektive zu einer weiteren Aufnahme, in der sie neben einem ruhigen Kanal steht, dessen Wasseroberfläche das weiche Abendlicht reflektiert. Das Mädchen berührt sanft kleine weiße Blumen auf einem goldenen Feld, begleitet von Nahaufnahmen ihrer Hand und der Blumen, die sich natürlich im Wind bewegen. Die Szene übergeht allmählich in eine weite Landschaftsaufnahme bei Sonnenuntergang, in der das Mädchen friedlich im Feld steht. Den Abschluss bildet eine warme Nahaufnahme ihres Gesichts, während sie weich in die Kamera blickt. Durchgehend beibehalten werden derselbe Charakter, dieselbe Frisur, die Schuluniform, realistische Hautdetails, natürliche Ausdrücke, flüssige cineastische Kamerabewegungen, geringe Schärfentiefe, warmes Sonnenuntergangslicht, eine realistische japanische Umgebung, subtiler Filmkorn, eine friedliche emotionale Atmosphäre sowie ein dunkler Fade-out am Ende.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105508171691556865/img/OeVQVj9aXV6iMJdn.jpg" width="600" alt="Japanisches Schulmädchen beim Sonnenuntergangsspaziergang">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11716)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2105508431067332749) | **Veröffentlicht:** Oct 1, 2026
-
----
-### Niedliches Geist-Kind im Schlafzimmer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung einer niedlichen, lustigen 3D-animierten Filmszene mit einem Kind in einem Geisterkostüm, das seine Eltern in einem gemütlichen Schlafzimmer überrascht.
-
-#### 📝 Prompt
-
-```
-Erstelle eine niedliche, lustige, hochwertige 3D-animierte Filmszene in einem gemütlichen modernen Schlafzimmer bei warmem Morgenlicht. Ein kleines Kind trägt ein übergroßes, flauschiges weißes Geisterkostüm, wobei nur die großen ausdrucksstarken Augen, die kleinen Hände und die nackten Füße des Kindes sichtbar sind. Der liebenswerte Geist geht auf ein Bett zu, in dem eine überraschte Mutter und ein Vater unter einer beigen Decke sitzen.
-
-Beginne mit einer Nahaufnahme des niedlichen kleinen Geistes, der im warm beleuchteten Schlafzimmer steht, und zeige dann, wie das Kind langsam auf das Bett zugeht. Die Eltern bemerken den Geist und reagieren mit übertriebenem Schock und Angst, ziehen die Decke hoch und starren das Kind mit weit aufgerissenen Augen und lustigen Gesichtsausdrücken an. Der Geist nähert sich unschuldig der Kamera und hebt seine winzigen Hände.
-
-Verwende Pixar-Qualität für die 3D-Animation, highly expressive faces, weiche realistische Fell- und Stofftexturen, warmes natürliches Sonnenlicht, das durch das Fenster fällt, eine gemütliche Schlafzimmereinrichtung, cineastische Tiefenschärfe, flüssige Charakteranimation, realistische Stoffbewegung, sanfte Kamerabewegungen, komödiantisches Timing, eine liebenswerte familienfreundliche Atmosphäre, detaillierte Beleuchtung, polierte Animationsfilmqualität, vertikales 9:16-Format, 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105494199298904064/img/5DjOeCNWejHLSGQk.jpg" width="600" alt="Niedliches Geist-Kind im Schlafzimmer">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11758)**
-
-**Autor:** [Zarnab Ai](https://x.com/Zarnab_with_Ai) | **Quelle:** [Link](https://x.com/Zarnab_with_Ai/status/2105494296795451478) | **Veröffentlicht:** Oct 1, 2026
-
----
-### Avatar-ähnliche Dschungelflug-Szene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Beschreibt eine kinematografische Fantasy-Dschungelszene, generiert mit Seedance 2.0, detailliert Beleuchtung, Action und Kamerastil, präsentiert als Aufschlüsselung der Einstellungen statt eines einzelnen Roh-Prompts.
-
-#### 📝 Prompt
-
-```
-Stil: Fantasy-Dschungel im Avatar-Maßstab. Hyperrealistisch – kein CGI-Glanz, kein Game-Engine-Look.
-
-Kamerakunst: Einzelne durchgehende Aufnahme, Weitwinkelobjektiv, GoPro-auf-Kreatur-Nähe.
-
-Beleuchtung: Goldene Lichtstrahlen durch das Blätterdach, Regenbogen durch Wasserfallnebel.
-
-Action: 15 Sekunden langer Flug – Schmetterlinge, Wasserfallstreifflug, messerscharfe Lücke, vollständige Weltenenthüllung.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105491285603696640/img/2JrgalTU5AFuFIA7.jpg" width="600" alt="Avatar-ähnliche Dschungelflug-Szene">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11719)**
-
-**Autor:** [xsavagespark](https://x.com/xsavagespark) | **Quelle:** [Link](https://x.com/xsavagespark/status/2105491368428601530) | **Veröffentlicht:** Oct 1, 2026
-
----
-### Seedance 2.0 Mini Prompt für Xianxia-Komödie: Identitätsenthüllung
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein Prompt für Seedance 2.0 Mini zur Erstellung eines humorvollen Xianxia-Videos, in dem der großspurige Titel eines arroganten Schwertkämpfers durch seinen von einem Meister enthüllten Kindheitsnamen untergraben wird. Der Fokus liegt auf komödiantischem Timing und Charakterstabilität.
-
-#### 📝 Prompt
-
-```
-Was für ein „Schattenloser Gast des Kalten Flusses“, klingt immer noch nicht so angenehm wie Wang Ergou
-Prompt:
-
-Kino-realistische Textur, rein altchinesische Xianxia-Ästhetik.
-
-Die feierliche Kameragrammatik epischer Experten, die ihre Abstammung verkünden, schrittweise zu einer trockenen „Identitätsenthüllungs“-Komödie zerlegen.
-Aufnehmen:
-Stummfilm-artiges Reaktionsrhythmus
-Britische Cold-Humor bei Statusabwertung
-Hongkong-Komödien-Schnellsetup und Pointe
-Klare „Drei-Schritte-Progression“
-Übernehmen:
-Arri Alexa Kinokamera-Textur
-Stabile, klare mikro-faziale Details
-Feines Filmkorn
-Natürliches volumetrisches Licht
-Kern-Komödienlinie
-Nur eine Komödienlinie behalten, die sofort beim ersten Ansehen verständlich ist:
-
-Ein extrem imposanter gegnerischer Schwertkämpfer versucht, die Szene mit zunehmend übertriebenen Jianghu-Titeln zu dominieren; die Ältere Schwester will jedoch von Anfang bis Ende nur wissen:
-
-„Wie heißt du?“
-
-Schließlich erkennt der alte Meister plötzlich seinen extrem gewöhnlichen, sogar etwas peinlichen Kindheitsnamen, ein Satz, der die mühsam gepflegte Persona des unübertroffenen Experten des Gegners komplett zurück zum Originalzustand bringt.
-
-Pointen-Prinzipien
-
-Kernpointen entstehen aus:
-Status-Identitätskontrast
-Präzises Untergraben in einer Bekannten-Gesellschaft
-
-Darf niemals beruhen auf:
-Charakteren, die plötzlich dumm werden
-Umweltunfällen
-Externer Zufälligkeit
-Referenzen und Umgebung
-Verwende strikt @image 1 und @image 2 als Charakter-Identitätsanker.
-Alle neu hochgeladenen Hintergrund- und Ortsreferenzbilder bestimmen dieselbe Umwelt-DNA.
-Erkennebar beibehalten:
-Reales Gelände
-Architektur
-Materialien
-Vegetation
-Gewässer
-Wetter
-Bergnebel
-Hauptlicht-Richtung
-Reflexionen
-Atmosphärische Tiefe
-Gleichzeitig in einen einzigartigen, vollständig einheitlichen neuen Raum für diese Runde umplanen.
-Hintergrund-Prinzipien
-Die folgenden Elemente im Hintergrund bleiben kontinuierlich lebendig, aber absolut neutral narrativ:
-Natürlicher Wind
-Gewässer
-Vegetation
-Wolkenschichten
-Entfernte gewöhnliche Schüler
-Räumliche Umgebungsgeräusche
-Charakter-Einstellungen
-Charakter-ID A | Schwert-Immortal Ältere Schwester
-Immer dieselbe @image 1 Schwert-Immortal Ältere Schwester:
-25–30 Jahre alte ostasiatische Frau
-Große, schlanke Figur
-Ovales Gesicht
-Dunkle Mandel-Augen
-Schwarzes Haar halb gebunden, fixiert mit weißem Jade-Haarnadel
-Trägt immer dasselbe Set weißer bestickter Seiden-Hanfu
-Silberne Gürtelsiegel
-Jade-Anhänger
-Weiße Stoffstiefel
-Hält das einzige silberne Langschwert
-Charakter-ID B | Jüngere Schwester
-Immer dieselbe @image 2 Jüngere Schwester:
-20–25 Jahre alte ostasiatische Frau
-Kleine Statur
-Rundes, lebhaftes Gesicht
-Schwarzes Haar geflochten
-Trägt immer dasselbe Set grüner Leinen-Hanfu
-Dunkler Gürtel
-Holz-Haarnadel
-Schwarze Stoffschuhe
-Hält das einzige dunkle Stahl-Schwert
-Andere Charaktere
-Gegnerischer Schwertkämpfer
-Extrem imposant
-Einzug voller Ritualgefühl
-Extrem abhängig von seinem jahrelang gepflegten Jianghu-Titel
-Muss stark die „Unübertroffener Experte“-Persona aufrechterhalten
-Alter Meister
-Trocken (Deadpan) von Anfang bis Ende
-Beabsichtigt nicht, den Gegner zu demütigen
-Erkennt einfach natürlich den alten Namen eines Bekannten
-Fügt am Ende den finalen Kill-Shot hinzu
-Segmentstruktur
-0–5s | Weitwinkel oder Long Shot
-Ein extrem imposanter gegnerischer Schwertkämpfer schreitet natürlich in den offenen Bereich, der durch die Referenzbilder dieser Runde geformt wurde.
-Er hebt sehr rituell den äußeren Mantel, eine Hand auf dem Schwertgriff, und verkündet laut mit echter „Unübertroffener Experte“-Einzugshaltung:
-„Der einsame Schwan vom Nördlichen Grat, das Fluss-zerschneidende Einzelschwert, bin heute speziell hier, um zu lernen!“
-
-Die gleiche weiß gekleidete Schwert-Immortal bleibt völlig unberührt vom Momentum und fragt nur sehr ruhig:
-
-„Wie heißt du?“
-
-Der Gegner pausiert deutlich, fährt dann stattdessen stolzer fort:
-
-„Das Jianghu nennt mich — Der Schattenlose Gast des Kalten Flusses!“
-
-5–10s | Medium Shot oder Cowboy Shot
-
-Beibehalten:
-
-Gleiche Charaktere
-
-Gleiche Kleidung
-
-Gleiches Langschwert
-
-Vollständig konsistenter geografischer Raum
-
-Die gleiche Jüngere Schwester dreht langsam die Augen zur Älteren Schwester.
-
-Die gleiche Ältere Schwester ohne jede Häme, bestätigt immer noch sehr ernst:
-
-„Ich frage nach dem Namen.“
-
-Der Gegner zeigt schließlich etwas Unnatürlichkeit, kämpft aber weiterhin darum, die Experten-Aura aufrechtzuerhalten:
-„Der Titel ist der Name.“
-
-Hinter geringer Schärfentiefe kneift der gleiche alte Meister plötzlich die Augen zusammen, starrt sehr ernst für einen Moment auf das Gesicht des Gegners.
-Dann, als ob er endlich eine lange nicht gesehene Bekannte erkennt, fragt er plötzlich:
-
-„Wang Ergou?“
-
-Absolutes Schweigen im gesamten Ort.
-
-Der gesamte Körper des Gegners friert sofort ein, seine ursprünglich extrem gerade heroische Haltung kollabiert sichtbar ein wenig.
-
-Der gesamte Hintergrund läuft weiter natürlich lebendig, nimmt aber an diesem Twist überhaupt nicht teil.
-
-10–15s | Close-up oder Extreme Close-up
-
-Der gleiche Gegner dreht unglaublich den Kopf zum Meister:
-
-„Du... kennst mich?“
-
-Der Meister ist sich völlig bewusst, dass er untergräbt, antwortet nur sehr natürlich:
-
-„Als du klein warst, hast du meine Datteln gestohlen, bist von einem Hund drei Straßen lang gejagt worden.“
-
-Die gleiche Jüngere Schwester senkt sofort den Kopf, ihre Schultern zeigen extrem kleine Amplituden-Zittern, hält verzweifelt das Lachen zurück.
-
-Der Gegner dreht sich hastig zurück zur Älteren Schwester, versucht, das letzte bisschen Jianghu-Würde zu retten, und erklärt leise ernst:
-
-„Niemand im Jianghu nennt mich mehr so.“
-
-Die gleiche weiß gekleidete Schwert-Immortal nickt nach dem Hören sehr feierlich einmal, was vollständiges Verständnis anzeigt, und antwortet dann ruhig:
-
-„Verstanden, Ergou.“
-
-Extreme Close-up:
-
-Der kaum wiederhergestellte Ausdruck des Gegners kollabiert erneut komplett
-
-Die gleiche Jüngere Schwester kann sich schließlich nicht helfen, dreht schnell das Gesicht weg, lacht kurz auf
-
-Hinten fügt der gleiche alte Meister den finalen Deadpan-Kill-Shot hinzu:
-
-„Jetzt nennt es jemand wieder.“
-
-Der Gegner vergisst völlig, dass er ursprünglich zum Duell kam, zieht nur stillschweigend den Mantel höher vor sein Gesicht, als ob er zum ersten Mal bereut, warum er heute so viele Titel verkündet hat.
-
-Genau auf diesen Ausdruck hin zu Schwarz schneiden.
-
-Komödien-Rhythmusstruktur
-
-Das gesamte Segment behält eine klare „Drei-Schritte-Progression“:
-
-Erster Schritt
-Der Gegner verkündet seine Abstammung mit epischer Experten-Haltung, Momentum maximal.
-
-Zweiter Schritt
-Die Ältere Schwester akzeptiert sein Titelsystem überhaupt nicht, verfolgt nur die gewöhnlichste Frage „Wie heißt du?“. 
-
-Dritter Schritt
-Der eine Satz des Meisters „Wang Ergou“ lässt die gesamte Persona fallen, alle subsequenten Würde-Rettungsversuche werden zu neuen Pointen.
-
-Performance-Prinzipien
-
-Gegnerischer Schwertkämpfer
-
-Darf nicht aktiv lustig sein
-
-Darf nicht als Clown auftreten
-Muss ernsthaft seine Majestät, seinen Titel und seine Aura aufrechterhalten
-Der Komödie-Effekt kann nur daraus resultieren, dass er härter versucht, seine Identität zu wahren, und desto mehr von der Realität untergraben wird
-Schwert-Immortal Ältere Schwester
-
-Muss durchgehend ruhig sein
-Keine Häme
-Keine Witze stehlen
-Ihr lustiger Punkt ist nicht „Memes kennen“, sondern sie bestätigt wirklich nur ernsthaft den Namen
-Jüngere Schwester
-Muss natürlich reagieren
-Fokus auf „müheloses Unterdrücken des Lachens“
-Darf nicht vorzeitig den Kollaps übertreiben
-Alter Meister
-
-Muss absolut Deadpan sein
-Wie normales Erkennen einer Person, normales Erinnern an die Vergangenheit
-Der Kill-Shot darf nicht wirken, als würde er absichtlich als Kontrapunkt dienen, sondern wie unbewusstes Hinzufügen einer weiteren Faktenebene
-Harte Anforderungen
-Strikte Gesamtdauer 15 Sekunden
-16:9 Querformat
-Drei aufeinanderfolgende klare Shots
-Für Seedance 2.0 Mini einfache, klare Inszenierung beibehalten
-Klare Blickbeziehungen
-Strikte Charakterkontinuität
-Native synchronisierte Mandarin-Dialoge
-Präzises Lip-Sync
-Klare Komödien-Pausen
-Charakterkleidung stabil durchgehend
-Langschwert stabil durchgehend
-Positionen der Nebenfiguren stabil durchgehend
-Geografischer Raum stabil durchgehend
-Seidenstoff- und Haarphysik realistisch
-Vordergrund, Mittelgrund, Hintergrund behalten natürliche Parallaxe und echte räumliche Umgebungsgeräusche bei
-Keine generierten Untertitel
-Negativ
-blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105489714639978496/img/aBG8N0NFFWu5g_cd.jpg" width="600" alt="Seedance 2.0 Mini Prompt für Xianxia-Komödie: Identitätsenthüllung">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11722)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2105490567601995924) | **Veröffentlicht:** Oct 1, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -5743,6 +5553,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-20T03:56:39.807Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-20T09:34:28.437Z</sub>
 
 </div>

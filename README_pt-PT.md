@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6563** |
+| 📝 Total de prompts | **6568** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-10-20** |
 
@@ -361,6 +361,149 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Corrida Futurista em Rodovia Neon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para um vídeo de corrida sci-fi ultra-realista de 30 segundos, apresentando uma piloto feminina realizando manobras desafiadoras da gravidade em uma rodovia iluminada por neon, gerado com Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo de corrida sci-fi cinematográfico e ultrarrealista de 30 segundos, ambientado numa autoestrada futurista à noite. Uma jovem mulher, vestindo um macacão de corrida branco, capacete e cinto de segurança, conduz um elegante carro desportivo futurista prateado. Luzes neon vermelhas iluminam a estrada molhada, criando reflexos deslumbrantes e uma atmosfera misteriosa. Mostre planos fechados do seu rosto concentrado, das mãos no volante e do painel luminoso. O carro acelera em direção a uma enorme rampa em loop vertical, rodeada por estruturas futuristas. Ela acelera sem medo e executa uma manobra de tirar o fôlego, desafiando a gravidade ao atravessar o imenso loop. Potentes propulsores ativam-se sob o carro, elevando-o no ar enquanto ângulos de câmara cinematográficos captam o movimento incrível. Utilize física de veículos realista, iluminação dramática, motion blur, reflexos detalhados, sons de motor imersivos e visuais sci-fi dignos de grandes produções de Hollywood. Termine com o carro a afastar-se em alta velocidade pela autoestrada iluminada a neon, deixando para trás uma atmosfera cinematográfica e misteriosa. Exatamente 30 segundos, formato paisagem 16:9, personagem e veículo consistentes, sem texto, sem logótipos, sem marca d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112409362761437184/img/bEbjGS65o1bBZyEP.jpg" width="600" alt="Corrida Futurista em Rodovia Neon">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12768)**
+
+**Autor:** [liana](https://x.com/Lianaalane) | **Fonte:** [Link](https://x.com/Lianaalane/status/2112409431174733909) | **Publicado:** Oct 20, 2026
+
+---
+### Garota de Ação Cinematográfica Lutando Contra Inimigos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para gerar um vídeo cinematográfico de ação vertical de 28 segundos, apresentando uma jovem coreana lutando contra inimigos em um cenário urbano caótico, criado com Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo de ação cinematográfico fotorrealista, vertical (9:16) e com 28 segundos de duração, protagonizado por uma jovem coreana de cabelos longos e pretos, vestindo uma camiseta branca oversized e shorts casuais, correndo por uma cidade moderna sob ataque.
+
+Mostre-a disparando pelo telhado de um prédio enquanto inimigos misteriosos a perseguem, com movimentos realistas, expressões intensas e um acompanhamento de câmera dramático.
+
+Ela salta em direção a um edifício de vidro, estilhaça uma janela e aterrissa no interior de uma sala tradicional em estilo japonês, banhada por uma luz natural acolhedora.
+
+Mostre-a pegando rapidamente um rifle futurista rosa, preparando-se para a batalha perigosa que está por vir.
+
+Faça a transição para uma rua japonesa caótica, com prédios destruídos, veículos capotados, máquinas de venda automática e fumaça tomando conta do ambiente.
+
+Ela corre pela rua empunhando sua arma enquanto explosões detonam às suas costas, criando uma sequência cinematográfica intensa de sobrevivência.
+
+Inclua um momento espetacular em câmera lenta em que ela é arremessada ao ar por uma explosão poderosa, com os cabelos e as roupas se movendo de forma natural.
+
+Mantenha a identidade facial consistente, textura de pele realista, mãos precisas, proporções corporais naturais, ambientes detalhados e movimentos cinematográficos fluidos durante todo o vídeo.
+
+Utilize iluminação dramática, física realista, efeitos sonoros imersivos de filmes de ação, ângulos de câmera dinâmicos e qualidade de superprodução de Hollywood.
+
+Evite efeitos de desenho animado, anatomia distorcida, dedos extras, cintilação, textos indesejados, logotipos e marcas d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112388862857334784/img/7kbItar8JG0pTY5T.jpg" width="600" alt="Garota de Ação Cinematográfica Lutando Contra Inimigos">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12767)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2112389039341113538) | **Publicado:** Oct 20, 2026
+
+---
+### Vídeo do Simurgh em Miniatura Persa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar um vídeo cinematográfico no estilo da pintura em miniatura persa clássica, apresentando a interação do pássaro mítico Simurgh com uma cena de jardim de palácio.
+
+#### 📝 Prompt
+
+```
+ESTILO: Pintura animada de miniatura persa clássica, perspectiva plana em camadas, intrincados padrões florais e geométricos, céu em folha de ouro com nuvens estilizadas em espiral, borda ornamentada, movimento delicado e gracioso. Gradação de cor: azul-lápis, turquesa, rosa, açafrão, dourado.
+Um colossal Simurgh com corpo semelhante ao de um pavão, asas cravejadas de joias e uma longa cauda esvoaçante de penas estampadas. Um jardim palaciano com cúpulas turquesa, ciprestes e espelhos d'água, cortesãos, músicos e um príncipe num cavalo branco.
+PLANO 1 (0 a 3s): Plano geral correspondente à imagem de referência, o Simurgh abre as asas pelo céu dourado, as penas da cauda desdobrando-se uma a uma em padrões cintilantes.
+PLANO 2 (3 a 6s): Plano médio, lente 35mm, os músicos no pátio param de tocar, um cortesão deixa cair uma romã que rola pelos azulejos, o cavalo do príncipe empina.
+PLANO 3 (6 a 9s): Close-up, lente 85mm, a cabeça coroada do Simurgh inclina-se profundamente, o olho brilhando como uma safira, padrões dourados ondulando pelas penas.
+PLANO 4 (9 a 12s): Plano geral em contra-plongée, lente 20mm, o Simurgh pousa no jardim, as asas varrendo os espelhos d'água, pétalas e folhas dos ciprestes erguendo-se em espiral.
+PLANO 5 (12 a 15s): Plano geral extremo, lente 16mm, o príncipe avança e faz uma reverência, o Simurgh abaixa uma asa como se fosse uma escadaria, e as nuvens douradas em espiral abrem-se num caminho pelo céu.
+Água de fonte, canto de pássaros, uma melodia de oud e tar que cessa de repente, o vasto bater de asas sedosas, um profundo e melódico chamado de ave, tambores daf e santur crescendo até um tema triunfal.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112327483924070400/img/E_eeIRpAzoLb8pwr.jpg" width="600" alt="Vídeo do Simurgh em Miniatura Persa">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12764)**
+
+**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fonte:** [Link](https://x.com/AllaAisling/status/2112327872253706617) | **Publicado:** Oct 19, 2026
+
+---
+### Renovação de Piso Terrazzo com Conchas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Vídeo de renovação DIY mostrando conchas incorporadas em piso de resina epóxi, gerado com Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Vídeo vertical 9:16 fotorrealista de reforma DIY, estilo ASMR satisfatório.
+Quarto vazio e iluminado: paredes brancas, piso de concreto cinza, janela grande com moldura branca à esquerda, luz natural suave.
+
+CENA 1 — Um homem barbudo, vestindo camiseta cinza e macacão jeans azul, usa um ancinho de paisagismo para espalhar uma grande pilha de conchas coloridas (vieiras, berbigões e búzios), distribuindo-as uniformemente por todo o piso. Movimento acelerado em time-lapse.
+
+CENA 2 — Uma mulher de cabelos castanhos, usando macacão vermelho, camiseta branca e botas de borracha, despeja uma resina epóxi autonivelante branca, espessa e cremosa, a partir de um balde cinza grande. O líquido leitoso escorre sobre as conchas, espalhando-se e cobrindo-as gradualmente por completo até formar uma superfície branca e brilhante.
+
+CENA 3 — Um trabalhador com colete de segurança amarelo neon e boné preto empurra uma politriz de piso para frente e para trás, lixando e polindo a superfície, revelando as conchas incrustadas em um piso de resina terrazzo branco e brilhante.
+
+CENA 4 — O homem de macacão jeans monta uma estrutura de cama em madeira de carvalho claro, fixa a cabeceira e os estrados, coloca um colchão branco e arruma um edredom branco e travesseiros bege. Plano final estático de beleza: quarto aconchegante e pronto, com cama de carvalho, roupa de cama branca e um piso designer de terrazzo com conchas, banhado por uma luz natural suave.
+
+Estilo: fotorrealista, cortes suaves, ritmo de time-lapse durante as etapas de trabalho, iluminação natural suave, alto nível de detalhe, sem texto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112171861031227392/img/xCdTYwL6rE17Si9O.jpg" width="600" alt="Renovação de Piso Terrazzo com Conchas">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12765)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2112171888801669570) | **Publicado:** Oct 19, 2026
+
+---
+### Piso Terrazzo de Balas Jelly Bean
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Vídeo de reforma satisfatório que incorpora balas Jelly Bean em piso de resina epóxi, gerado com Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Vídeo de reforma satisfatório e fotorrealista na vertical 9:16, uma única cena contínua num quarto vazio e luminoso, com paredes brancas, chão de madeira sem acabamento e uma grande janela iluminada pelo sol à direita.
+
+Cena 1: Um homem barbudo, de t-shirt cinzenta e jardineiras de ganga azul, passa vigorosamente um ancinho por uma enorme pilha cónica de milhares de jujubas coloridas, espalhando-as numa camada uniforme que cobre todo o chão.
+
+Cena 2: Uma mulher de jardineiras vermelhas e t-shirt cinzenta despeja resina epóxi branca, espessa e brilhante, a partir de um balde branco grande; o líquido cremoso escorre sobre a camada de doces e expande-se, cobrindo por completo as jujubas coloridas.
+
+Cena 3: Um operário com colete de segurança amarelo néon e boné preto lixa o chão branco já curado com uma polidora profissional; a camada superficial é removida, revelando milhares de jujubas coloridas incrustadas sob uma superfície de epóxi cristalina e com brilho espelhado, como se fosse um terrazzo de doces.
+
+Cena 4: Dois homens de t-shirts e bonés pretos montam rapidamente a estrutura de uma cama de madeira, colocam-lhe um colchão branco e fazem a cama com lençóis brancos impecáveis, tudo em câmara rápida.
+
+Cena final: Plano detalhe lento e estético do quarto minimalista pronto — um chão luxuoso com brilho de espelho, repleto de doces coloridos sob o epóxi transparente, com a luz do sol a refletir-se na superfície polida. Sem pessoas.
+
+Estilo: timelapse viral de reforma DIY satisfatória, câmara fixa grande-angular a partir da porta, luz natural do dia, ultra-detalhado, física suave e realista do líquido a ser derramado e dos doces a rolar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112141996588408832/img/z_OxeJb6a15TsIZ6.jpg" width="600" alt="Piso Terrazzo de Balas Jelly Bean">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12766)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2112142035826180210) | **Publicado:** Oct 19, 2026
+
+---
 ### Retrato de Beleza em Close-Up Extremo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5334,373 +5477,6 @@ Evite: Troca de rosto, mudanças de roupa, alterações nas proporções do corp
 **Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fonte:** [Link](https://x.com/Adam38363368936/status/2105550931907809283) | **Publicado:** Oct 1, 2026
 
 ---
-### Caos de Incêndio em Sala de Aula
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para uma cena realista de sala de aula onde um aluno reage a chamas que irrompem de uma mochila.
-
-#### 📝 Prompt
-
-```
-Crie uma cena cinematográfica e ultra-realista de sala de aula em proporção 9:16. Um jovem estudante do sexo masculino, com cabelo vermelho estilizado, reage dramaticamente quando uma grande explosão de chamas irrompe de uma mochila à sua frente. Outro aluno, vestindo uniforme escolar, está sentado em uma carteira ao fundo, chocado e observando. Iluminação quente da sala de aula, efeitos realistas de fogo e fumaça, movimento dinâmico, expressões faciais naturais, ambiente detalhado, movimento de câmera cinematográfico, profundidade de campo rasa, texturas realistas, atmosfera dramática, alta definição, 4K, fotorrealista.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105518374784729090/img/IvsEDXcDISnXm-Ak.jpg" width="600" alt="Caos de Incêndio em Sala de Aula">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11717)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2105518415201083496) | **Publicado:** Oct 1, 2026
-
----
-### Passeio ao Pôr do Sol de Estudante Japonesa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para uma cena cinematográfica de estilo japonês de 20 segundos, apresentando uma estudante caminhando por ruas e campos durante a hora dourada.
-
-#### 📝 Prompt
-
-```
-Criei uma cena cinematográfica de estilo japonês de 20 segundos mostrando uma jovem estudante caminhando sozinha por uma rua residencial tranquila no Japão sob a luz quente da hora dourada. A cena começa com uma visão de trás, enquanto ela se aproxima lentamente de um cruzamento ferroviário com um trem passando ao fundo. Em seguida, transita para um close-up de seu rosto e cabelo decorado com flores enquanto observa o trem. Depois, uma tomada mais ampla mostra-a parada perto de um canal tranquilo, com a suave luz da noite refletindo na água. A sequência continua com ela tocando delicadamente pequenas flores brancas em um campo dourado, incluindo close-ups de sua mão e das flores se movendo naturalmente ao vento. Gradualmente, a cena transita para uma paisagem ampla do pôr do sol, com a garota parada pacificamente no campo, terminando finalmente com um close-up caloroso de seu rosto enquanto ela olha suavemente para a câmera. Mantenha o mesmo personagem, penteado, uniforme escolar, detalhes realistas da pele, expressões naturais, movimento fluido da câmera cinematográfica, profundidade de campo suave, iluminação quente do pôr do sol, ambiente japonês realista, grão sutil de filme, atmosfera emocional pacífica e um fade-out escuro no final.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105508171691556865/img/OeVQVj9aXV6iMJdn.jpg" width="600" alt="Passeio ao Pôr do Sol de Estudante Japonesa">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11716)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2105508431067332749) | **Publicado:** Oct 1, 2026
-
----
-### Criança Fantasma Fofa no Quarto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para gerar uma cena cinematográfica animada em 3D, fofa e engraçada, mostrando uma criança fantasiada de fantasma surpreendendo seus pais em um quarto aconchegante.
-
-#### 📝 Prompt
-
-```
-Crie uma cena cinematográfica animada em 3D, fofa, engraçada e de alta qualidade, ambientada em um quarto moderno e aconchegante durante a luz suave da manhã. Uma criança pequena está vestida com uma fantasia de fantasma branca e fofa, oversized, onde apenas os grandes olhos expressivos, as mãozinhas e os pés descalços da criança são visíveis. O adorável fantasma caminha em direção à cama, onde uma mãe e um pai surpresos estão sentados sob um cobertor bege.
-
-Comece com um close-up do pequeno fantasma fofo parado no quarto iluminado por tons quentes, depois mostre a criança caminhando lentamente em direção à cama. Os pais notam o fantasma e reagem com choque e medo exagerados, puxando o cobertor para cima enquanto olham fixamente para a criança com os olhos arregalados e expressões faciais engraçadas. O fantasma se aproxima inocentemente da câmera e levanta suas mãozinhas.
-
-Use animação 3D de qualidade Pixar, rostos altamente expressivos, texturas realistas e suaves de pelúcia e tecido, luz natural quente entrando pela janela, ambiente de quarto aconchegante, profundidade de campo cinematográfica, animação de personagens fluida, movimento realista dos tecidos, acompanhamento suave da câmera, timing cômico, atmosfera familiar adorável, iluminação detalhada, qualidade polida de filme de animação, formato vertical 9:16, 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105494199298904064/img/5DjOeCNWejHLSGQk.jpg" width="600" alt="Criança Fantasma Fofa no Quarto">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11758)**
-
-**Autor:** [Zarnab Ai](https://x.com/Zarnab_with_Ai) | **Fonte:** [Link](https://x.com/Zarnab_with_Ai/status/2105494296795451478) | **Publicado:** Oct 1, 2026
-
----
-### Cena de Voo na Selva Estilo Avatar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Descreve uma cena cinematográfica de floresta tropical fantástica gerada com o Seedance 2.0, detalhando iluminação, ação e estilo de câmera, embora apresentada como uma análise das configurações em vez de uma única string de prompt bruta.
-
-#### 📝 Prompt
-
-```
-Estilo: Floresta tropical fantástica em escala Avatar. Hiper-realista - sem brilho CGI, sem aparência de motor de jogo.
-
-Cinematografia: Take contínuo único, lente grande angular, intimidade de GoPro montada na criatura.
-
-Iluminação: Raios dourados divinos através da copa das árvores, arco-íris através da névoa da cachoeira.
-
-Ação: Voo planado de 15s - borboletas, rasante na cachoeira, passagem extremamente estreita, revelação completa do mundo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105491285603696640/img/2JrgalTU5AFuFIA7.jpg" width="600" alt="Cena de Voo na Selva Estilo Avatar">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11719)**
-
-**Autor:** [xsavagespark](https://x.com/xsavagespark) | **Fonte:** [Link](https://x.com/xsavagespark/status/2105491368428601530) | **Publicado:** Oct 1, 2026
-
----
-### Prompt Seedance 2.0 Mini para Comédia de Revelação de Identidade Xianxia
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt para o Seedance 2.0 Mini criar um vídeo xianxia humorístico onde o título grandioso de um espadachim arrogante é desmascarado pelo nome de infância revelado por um mestre, enfatizando o timing cômico e a estabilidade dos personagens.
-
-#### 📝 Prompt
-
-```
-O que é 'Hóspede Sombrio do Rio Gelado', ainda não soa tão bem quanto Wang Ergou
-prompt:
-
-Textura cinematográfica realista, estética pura de Xianxia da China antiga.
-
-Desmonte gradualmente a gramática solene da câmera de especialistas épicos anunciando sua linhagem em uma comédia deadpan de "revelação de identidade".
-Absorva:
-Ritmo de reação estilo filme mudo
-
-Humor frio de rebaixamento de identidade britânico
-Configuração rápida e payoff de comédia de Hong Kong
-Clara "progressão de três batidas"
-Adote:
-
-Textura de câmera cinematográfica Arri Alexa
-
-Microdetalhes faciais estáveis e claros
-Grão fino de filme
-Luz volumétrica natural
-Linha Cômica Central
-
-Mantenha apenas uma linha cômica imediatamente compreensível na primeira visualização:
-
-Um espadachim inimigo intensamente imponente tenta dominar a cena com títulos Jianghu cada vez mais exagerados; A Irmã Sênior, no entanto, só quer saber do início ao fim:
-
-"Qual é o seu nome?"
-
-Finalmente, o mestre idoso reconhece subitamente seu nome antigo de infância extremamente comum, até um pouco constrangedor, uma frase que completamente derruba a persona de especialista sem igual cuidadosamente gerenciada pelo inimigo de volta à forma original.
-
-Princípios do Punchline
-
-Os punchlines centrais vêm de:
-
-Contraste de status/identidade
-Minuciosa mineração em sociedade de conhecidos
-
-Nunca deve depender de:
-Personagens ficando subitamente estúpidos
-
-Acidentes ambientais
-
-Coincidências externas
-Referências e Ambiente
-Use estritamente @image 1 e @image 2 como âncoras de identidade de personagem.
-
-Todas as imagens de referência de fundo e local recém-carregadas determinam o mesmo DNA ambiental.
-Retenha reconhecíveis:
-
-Terreno real
-
-Arquitetura
-
-Materiais
-Vegetação
-
-Corpos d'água
-Clima
-Névoa de montanha
-Direção principal da luz
-Reflexos
-Profundidade atmosférica
-Simultaneamente replaneje em um espaço novo único, completamente unificado para esta rodada.
-Princípios de Fundo
-Os seguintes elementos no fundo permanecem continuamente vívidos, mas absolutamente neutros narrativamente:
-Vento natural
-
-Corpos d'água
-
-Vegetação
-Camadas de nuvens
-
-Discípulos comuns distantes
-Som ambiente espacial
-Configurações de Personagem
-ID de Personagem A | Irmã Sênior Espadachim Imortal
-Sempre a mesma Irmã Sênior Espadachim Imortal de @image 1:
-Mulher asiática oriental de 25–30 anos
-
-Figura alta e esbelta
-
-Rosto oval
-
-Olhos amendoados escuros
-Cabelo preto meio preso, fixado com grampo de jade branco
-
-Sempre veste o mesmo conjunto de Hanfu de seda branca bordada
-Selo de cintura prateado
-Pingente de jade
-Botas de pano branco
-Segura a única espada longa prateada
-ID de Personagem B | Irmã Júnior
-Sempre a mesma Irmã Júnior de @image 2:
-Mulher asiática oriental de 20–25 anos
-Estatura pequena
-Rosto redondo e vivo
-
-Cabelo preto trançado
-Sempre veste o mesmo conjunto de Hanfu de linho verde
-
-Cinto escuro
-Grampo de madeira
-Sapatos de pano preto
-Segura a única espada de aço escuro
-Outros Personagens
-Espadachim Inimigo
-Extremamente imponente
-Entrada cheia de senso ritual
-Extremamente dependente de seu título Jianghu gerenciado por anos
-
-Mantém fortemente a persona de "especialista sem igual"
-
-Mestre Idoso
-Deadpan do início ao fim
-Não humilha intencionalmente o oponente
-Apenas reconhece naturalmente o nome antigo de um conhecido
-Adiciona o golpe final kill-shot no final
-
-Estrutura de Segmentos
-0–5s | Plano Aberto ou Longo
-Um espadachim inimigo intensamente imponente entra na área aberta formada naturalmente pelas imagens de referência desta rodada.
-Ele muito ritualisticamente levanta o manto externo, uma mão pressionando o punho da espada, anunciando alto com verdadeira postura de entrada de especialista sem igual:
-"Cisne Solitário da Cratera Norte, Espada Única Cortando o Rio, hoje especialmente aqui para aprender!"
-
-A mesma espada imortal de túnica branca completamente não afetada pelo momento, apenas muito calmamente perguntando:
-
-"Qual é o seu nome?"
-
-Inimigo claramente pausa, então em vez disso continua mais orgulhoso:
-
-"Jianghu me chama — Hóspede Sombrio do Rio Gelado!"
-
-5–10s | Plano Médio ou Cowboy
-
-Mantenha:
-
-Mesmos personagens
-
-Mesmas roupas
-
-Mesma espada longa
-
-Espaço geográfico completamente consistente
-
-A mesma Irmã Júnior lentamente vira os olhos para a Irmã Sênior.
-
-A mesma Irmã Sênior sem qualquer zombaria, ainda muito seriamente confirmando novamente:
-
-"Estou pedindo o nome."
-
-Inimigo finalmente mostra um pouco de desconforto, ainda lutando para manter a aura de especialista:
-"Título é nome."
-Atrás da profundidade de campo rasa, o mesmo mestre idoso subitamente estreita os olhos, muito seriamente olhando fixamente para o rosto do inimigo por um instante.
-Então, como se finalmente reconhecesse um conhecido não visto há muito tempo, subitamente pergunta:
-
-"Wang Ergou?"
-
-Silêncio absoluto em todo o local.
-
-Todo o corpo do inimigo instantaneamente congela, sua postura heroica originalmente extremamente reta visivelmente colapsa um pouco.
-
-Todo o fundo continua rodando naturalmente vívido, mas completamente não participa nesta reviravolta.
-
-10–15s | Close-up ou Extreme Close-up
-
-O mesmo inimigo incredulamente vira a cabeça para o mestre:
-
-"Você... me conhece?"
-
-Mestre completamente inconsciente de que está minando, apenas muito naturalmente respondendo:
-
-"Quando você era pequeno, roubou minhas tâmaras, perseguido por cachorro por três ruas."
-
-A mesma Irmã Júnior instantaneamente abaixa a cabeça, ombros mostrando tremor de amplitude extremamente pequena, desesperadamente segurando o riso.
-
-Inimigo apressadamente vira de volta para a Irmã Sênior, tentando salvar o último bocado de dignidade Jianghu, baixando a voz seriamente explicando:
-
-"Ninguém no Jianghu chama assim mais."
-
-A mesma espada imortal de túnica branca após ouvir muito solenemente acena uma vez, indicando compreensão completa, então calmamente respondendo:
-
-"Entendido, Ergou."
-
-Extreme close-up:
-
-Expressão do inimigo mal recuperada completamente colapsa novamente
-
-A mesma Irmã Júnior finalmente não consegue evitar virar rapidamente o rosto para longe, brevemente rindo alto
-
-Atrás, o mesmo mestre idoso adiciona o golpe final deadpan kill-shot:
-
-"Agora alguém chama de novo."
-
-Inimigo completamente esquece que originalmente veio desafiar, apenas silenciosamente puxando o manto mais alto na frente do rosto, como se lamentando pela primeira vez por que anunciou tantos títulos hoje.
-
-Precisamente corte para preto nesta expressão.
-
-Estrutura de Ritmo Cômico
-
-Todo o segmento mantém clara "progressão de três batidas":
-
-Primeira Batida
-Inimigo anuncia linhagem com postura de especialista épico, momento máximo.
-
-Segunda Batida
-
-Irmã Sênior completamente não aceita seu sistema de títulos, apenas perseguindo o mais ordinário "qual é o seu nome".
-
-Terceira Batida
-
-Uma frase do mestre "Wang Ergou" diretamente causa queda de toda a persona, subsequentemente todos os salvamentos de dignidade tornam-se novos punchlines.
-
-Princípios de Atuação
-
-Espadachim Inimigo
-
-Não pode ativamente ser engraçado
-
-Não pode performar como palhaço
-Deve seriamente manter sua majestade, título e aura
-
-Efeito cômico só pode vir dele tentando mais difícil manter identidade, sendo mais minado pela realidade
-Irmã Sênior Espadachim Imortal
-
-Deve ser calma durante todo o tempo
-Sem zombaria
-
-Sem roubar piadas
-
-Seu ponto engraçado não é "conhecer memes", mas ela realmente só confirma o nome seriamente
-
-Irmã Júnior
-Deve reagir naturalmente
-Foco em "suprimir riso sem esforço"
-Não pode prematuramente exagerar colapso
-Mestre Idoso
-
-Deve ser absolutamente deadpan
-Como normalmente reconhecendo pessoa, normalmente lembrando passado
-Kill-shot não pode parecer jogar como contraponto intencional, mas como inconscientemente adicionar outra camada de fato
-Requisitos Rígidos
-Duração total estrita 15 segundos
-
-Paisagem 16:9
-Três planos consecutivos claros
-Para Seedance 2.0 Mini mantenha encenação simples e clara
-Relações de olhar claras
-
-Continuidade de personagem estrita
-Diálogo nativo sincronizado em Mandarim
-Lip-sync preciso
-Pausas cômicas claras
-
-Roupas de personagem estáveis durante todo o tempo
-
-Espada longa estável durante todo o tempo
-
-Posições de personagens secundários estáveis durante todo o tempo
-Espaço geográfico estável durante todo o tempo
-Física de tecido de seda e cabelo realistas
-Primeiro plano, plano médio, fundo mantêm paralaxe natural e som ambiente espacial real
-Sem legendas geradas
-Negativo
-borrado, má qualidade, baixa qualidade, baixa resolução, ruído, artefatos jpeg, marca d'água, texto, erro; deformado, mutado, anatomia ruim, mãos mal desenhadas, má composição, fora do quadro, desfigurado; inconsistência de personagem, mudança de roupas, morphing facial, deslocamento de fundo, cortes glitch, props desaparecendo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105489714639978496/img/aBG8N0NFFWu5g_cd.jpg" width="600" alt="Prompt Seedance 2.0 Mini para Comédia de Revelação de Identidade Xianxia">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11722)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2105490567601995924) | **Publicado:** Oct 1, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -5762,6 +5538,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-20T03:56:44.787Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-20T09:34:32.744Z</sub>
 
 </div>
