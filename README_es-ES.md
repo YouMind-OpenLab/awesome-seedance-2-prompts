@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6568** |
+| 📝 Total de prompts | **6574** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-10-21** |
 
@@ -361,6 +361,118 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Time-lapse de Renovación de Suelo con Pepino
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para generar un video time-lapse multiplano que muestra la transformación de un suelo cubierto de rodajas de pepino en una superficie pulida de terrazo utilizando resina epoxi.
+
+#### 📝 Prompt
+
+```
+Vídeo 9:16 de múltiples planos, anuncio fotorrealista de reforma en time-lapse, cámara fija, habitación blanca y luminosa con suelo de hormigón y ventana:
+
+Plano 1 (0-3 s): un hombre con mono naranja rastrilla un enorme montón de rodajas de pepino y las esparce por todo el suelo.
+
+Plano 2 (3-6 s): un hombre y una mujer con monos rojos vierten resina epoxi autonivelante blanca desde unos cubos sobre los pepinos.
+
+Plano 3 (6-9 s): alisan la resina con una rasqueta; los pepinos desaparecen bajo el líquido blanco y brillante.
+
+Plano 4 (9-13 s): unos operarios con chalecos reflectantes amarillos pulen el suelo con pulidoras, dejando a la vista rodajas de pepino incrustadas en un terrazo blanco.
+
+Plano 5 (13-17 s): el hombre de naranja se arrodilla y toca la superficie terminada y reluciente.
+
+Plano 6 (17-20 s): dos operarios montan una cama beige en la habitación.
+
+Plano 7 (20-23 s): dormitorio vacío final, cama blanca, mesita auxiliar con un jarrón de eucalipto y suelo de diseño con cortes transversales de pepino verde.
+
+Cámara rápida, desenfoque de movimiento en las personas, iluminación y geometría coherentes, 4K, ambiente ASMR satisfactorio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112552471901908993/img/5j__fsJ13nRuZngH.jpg" width="600" alt="Time-lapse de Renovación de Suelo con Pepino">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12817)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fuente:** [Link](https://x.com/Ruslanchain/status/2112552501195002073) | **Publicado:** Oct 20, 2026
+
+---
+### Time-lapse de la renovación del suelo de Keys
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar un video de transformación hiperrealista donde llaves antiguas se esparcen sobre el suelo, se cubren con epoxi y se pulen para revelar un patrón dorado de terrazo.
+
+#### 📝 Prompt
+
+```
+Video de transformación hiperrealista en formato vertical 9:16, estilo documental, cámara gran angular estática desde la esquina de una habitación blanca vacía con una ventana muy luminosa y suelo de hormigón desnudo.
+
+Toma 1 (0–4 s): Un hombre con barba, vestido con un peto vaquero azul y camiseta negra de manga larga, rastrilla un enorme montón cónico formado por miles de llaves antiguas de latón y hierro usando un rastrillo negro para hojas; esparce las llaves de forma metódica y uniforme hasta cubrir todo el suelo con una densa alfombra de llaves viejas.
+
+Toma 2 (4–8 s): Una mujer de cabello largo y castaño, con peto rojo y guantes negros, vierte una resina epoxi autonivelante blanca, espesa y brillante desde un gran cubo de plástico blanco; el líquido lechoso se expande en ondas suaves, engullendo las llaves y cubriendo todo el suelo con una superficie blanca lisa como un espejo, donde apenas asoman algunas siluetas de llaves.
+
+Toma 3 (8–17 s): Un operario con chaleco amarillo de alta visibilidad, gorra negra y pantalón de trabajo gris empuja una pulidora de suelos roja y blanca con asiento y manguera de aspiración negra, puliendo la resina epoxi ya endurecida con pasadas suaves; las formas doradas de las llaves emergen incrustadas en el suelo brillante como si fuera terrazo, y los reflejos de la ventana y del operario se ven en la superficie especular.
+
+Toma 4 (17–23 s): Dos trabajadores con polos y gorras negras montan un armazón de cama de nogal oscuro en el centro de la habitación, colocan un colchón blanco, alisan la ropa de cama y las almohadas blancas y, a continuación, aparecen mesitas de noche de madera con lámparas de cerámica blanca a ambos lados; la cama terminada, con cojines decorativos beige, queda sobre el suelo pulido repleto de llaves doradas mientras los trabajadores salen del encuadre.
+
+Luz natural diurna intensa, sombras suaves, atmósfera satisfactoria de timelapse de reforma ASMR, texturas fotorrealistas, movimiento fluido, sin texto ni marca de agua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112551729514315777/img/4yRga5A8YnvjU2M8.jpg" width="600" alt="Time-lapse de la renovación del suelo de Keys">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12818)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2112551758186545604) | **Publicado:** Oct 20, 2026
+
+---
+### Película de Belleza Melancólica con Partituras
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt altamente detallado para una película cinematográfica de belleza de 15 segundos que presenta a un personaje acostado entre partituras, enfatizando la expresión emocional y las transiciones de cámara utilizando Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Crea un beauty film cinematográfico fotorrealista de exactamente 15 segundos, formato 16:9 en Full HD (1920×1080) y 24 FPS, utilizando la imagen de referencia y la hoja de personaje subidas. Conserva de forma exacta la identidad del personaje, sus rasgos faciales, peinado, color de cabello, vestuario, proporciones corporales, entorno y estética visual original.
+
+Comienza con un plano cenital del personaje recostado en diagonal sobre el suelo entre partituras esparcidas, mirando las notas con expresión ausente. Desliza lentamente la cámara hacia su rostro mientras una página suelta cruza por delante del objetivo, creando una transición de barrido con papel. Corta a un primerísimo primer plano de sus ojos, pestañas y textura natural de la piel, con un parpadeo sutil, una mirada perdida y un lento acercamiento macro. Realiza un corte por coincidencia (match cut) desde el reflejo en su ojo hacia una cortina translúcida que ondea suavemente bajo una luz diurna fría, con un leve movimiento en las partituras cercanas y algunos mechones de cabello sueltos.
+
+Atraviesa la cortina en movimiento para pasar a un plano de seguimiento a ras de suelo y en contrapicado, desplazándote desde la mano que sostiene la partitura, recorriendo el antebrazo apoyado, hasta llegar a su rostro. Debe permanecer completamente recostada sobre el suelo, con la mejilla apoyada en el antebrazo y este brazo directamente sobre el piso. Su mano libre sostiene con delicadeza una partitura cerca del rostro. Solo sus ojos se mueven hacia la cámara; la cabeza, los hombros y el torso permanecen apoyados en el suelo. Mantén su expresión melancólica y distante.
+
+Durante los últimos cuatro segundos, revela una composición cinematográfica más amplia que incluya al personaje, las partituras esparcidas, la cortina moviéndose suavemente y los elementos del entorno ya presentes. Retrocede lentamente mientras te desplazas de forma lateral, permitiendo que algunas páginas se muevan de manera natural con la brisa. Mantén brevemente el último fotograma de belleza y funde suavemente a negro justo al cumplirse los 15 segundos.
+
+Utiliza una dirección de fotografía editorial elegante, iluminación suave y difusa, textura natural de la piel, destellos faciales delicados, ojos expresivos, poca profundidad de campo, grano de película sutil, tonos pastel apagados, etalonaje cinematográfico refinado y movimientos de cámara fluidos. Conserva la iluminación y la paleta de colores originales de la imagen de referencia, incluidos los reflejos ámbar cálidos y la luz diurna azul fría, si están presentes. Crea cinco planos distintos con transiciones intencionadas de barrido con papel, reflejo en el ojo, barrido con cortina y corte por coincidencia de miradas. Mantén la animación del personaje al mínimo y el movimiento del entorno realista.
+
+Prompt negativo: Pérdida de identidad, alteraciones en el rostro, peinado, color de cabello, vestuario o entorno; personajes adicionales; sonrisas; expresiones exageradas; cabeza levantada; hombros elevados; postura apoyada sobre los codos; torso elevado; posición sentada; ángulos de cuello antinaturales; manos deformes; dedos adicionales; agarre del papel poco natural; páginas flotantes; viento caótico; movimiento excesivo del cabello; física irreal; vibración; parpadeo de imagen; cámara temblorosa; zooms aleatorios; transiciones bruscas; iluminación dura; piel de plástico; retoque excesivo; estilo cartoon; anime; encuadre vertical; texto; logotipos; marcas de agua; baja resoluc
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112549265092304896/img/968bzYifJfkZ9t-i.jpg" width="600" alt="Película de Belleza Melancólica con Partituras">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12821)**
+
+**Autor:** [Aria](https://x.com/ariaxawan) | **Fuente:** [Link](https://x.com/ariaxawan/status/2112549449138651280) | **Publicado:** Oct 20, 2026
+
+---
+### Timelapse del ensamblaje de botas de fútbol Adidas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para un video timelapse ultra realista de 10 segundos que muestra a trabajadores en miniatura ensamblando una bota de fútbol Adidas en un taller futurista utilizando Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Crea un timelapse ultrarrealista de exactamente 10 segundos, en formato vertical 9:16, del ensamblaje de unas botas de fútbol Adidas en un taller futurista y oscuro. Exactamente 8 trabajadores en miniatura con uniformes azules manejan brazos robóticos, cintas transportadoras y herramientas de precisión. Ensambla una bota de fútbol negra y azul eléctrico con las franjas blancas de Adidas, cordones negros, paneles texturizados, cuello acolchado y tacos metálicos. Muestra todo el proceso en orden cronológico: los trabajadores colocan los componentes, instalan los tacos, cosen los paneles de tela, unen la parte superior a la suela, pasan los cordones e inspeccionan la bota terminada. La maquinaria se repliega mientras los trabajadores se reúnen cerca de la base. Termina con una toma heroica premium del producto estático. Cámara fija, geometría coherente, física realista, iluminación cinematográfica azul, texturas detalladas, ASMR mecánico y música enérgica a 130 BPM. Sin cortes, teletransportaciones, trabajadores adicionales, movimientos de cámara, texto ni marcas de agua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112480536883298304/img/bCF911yYa92jhFh2.jpg" width="600" alt="Timelapse del ensamblaje de botas de fútbol Adidas">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12819)**
+
+**Autor:** [Dania](https://x.com/DaniaSafvi) | **Fuente:** [Link](https://x.com/DaniaSafvi/status/2112480606420717653) | **Publicado:** Oct 20, 2026
+
+---
 ### Carrera futurista de acrobacias en autopista de neón
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -441,6 +553,42 @@ El murmullo del agua de la fuente, el canto de los pájaros, una melodía de oud
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12764)**
 
 **Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fuente:** [Link](https://x.com/AllaAisling/status/2112327872253706617) | **Publicado:** Oct 19, 2026
+
+---
+### Guion del comercial de IGNITE Energy Drink
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un guion publicitario detallado de 20 segundos y una línea de tiempo visual para un anuncio de bebida energética, generado utilizando Gemini y Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+"IGNITE" — Prompt para anuncio de 20 s 🏁
+Personaje: Impactantes ojos azul hielo, piel clara, pecas suaves y un moño rubio despeinado. Coherencia absoluta del personaje en todo momento.
+Cronología de escena y audio:
+ * 0:00–0:02: Garaje en penumbra. Agotada y apoyada contra los neumáticos, levanta la cabeza de golpe con una mirada feroz y concentrada.
+   VO: "Cuando la presión llega al límite... y la pista te exige darlo todo..."
+ * 0:02–0:04: Plano macro abriendo de un tirón una lata escarchada de IGNITE en negro mate y azul eléctrico.
+   SFX: Chasquido de la lata al abrirse.
+   VO: "No solo compites. Enciendes."
+ * 0:04–0:06: Bebe; un sutil pulso azul se propaga bajo su piel. Se sube la cremallera de un traje de carreras negro carbón.
+   VO: "Alimenta tu concentración..."
+ * 0:06–0:10: Interior de la visera del casco: sus ojos azul hielo reflejan los indicadores luminosos del cockpit.
+   VO: "Rompe los límites. ¡Pura energía eléctrica en tus manos!"
+ * 0:10–0:14: Su coche de carreras adelanta con agresividad a un rival en una curva a alta velocidad, levantando humo de los neumáticos.
+   VO: "Deja atrás al resto."
+ * 0:14–0:17: Primer plano del cockpit: unas manos enguantadas dan un volantazo preciso para arrebatar el primer puesto.
+ * 0:17–0:20: Plano general del podio bajo una lluvia de confeti. Sin casco, irradia victoria mientras levanta el trofeo y la lata de IGNITE.
+   VO: "IGNITE Energy: enciende tu meta."
+Estilo: Fotorrealista en 4K, voz en off femenina británica llena de energía, iluminación cinematográfica rápida.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112295413739147264/img/BRnDAtpos2YD3VOm.jpg" width="600" alt="Guion del comercial de IGNITE Energy Drink">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12820)**
+
+**Autor:** [Millie](https://x.com/Milliekio) | **Fuente:** [Link](https://x.com/Milliekio/status/2112295460086194412) | **Publicado:** Oct 19, 2026
 
 ---
 ### Renovación de suelo de terrazo con conchas marinas
@@ -794,6 +942,25 @@ Crea un video de IA cinematográfico y ultra realista de 20 segundos que muestre
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12677)**
 
 **Autor:** [Maha](https://x.com/Aiwithmaha) | **Fuente:** [Link](https://x.com/Aiwithmaha/status/2111646777187450940) | **Publicado:** Oct 18, 2026
+
+---
+### Prompt de persecución oceánica cinematográfica Seedance 2.0
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar un video cinematográfico hiperrealista de una mujer corriendo sobre el agua perseguida por una cobra marina en un entorno de atardecer tormentoso.
+
+#### 📝 Prompt
+
+```
+Imágenes ultrarrealistas en 4K, un atardecer tormentoso, una mujer corriendo sobre el agua mientras la persigue una cobra marina gigante. Puro caos. Cine en estado puro.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2111455018046164992/img/o4eANHhCPJrryvOA.jpg" width="600" alt="Prompt de persecución oceánica cinematográfica Seedance 2.0">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12816)**
+
+**Autor:** [Liam Ai](https://x.com/imLiamAi) | **Fuente:** [Link](https://x.com/imLiamAi/status/2111457980969603467) | **Publicado:** Oct 17, 2026
 
 ---
 ### Renovación de suelo con dulces en forma de corazón
@@ -4996,475 +5163,6 @@ baja calidad,
 **Autor:** [Meem](https://x.com/mehvishs25) | **Fuente:** [Link](https://x.com/mehvishs25/status/2105851942719361421) | **Publicado:** Oct 2, 2026
 
 ---
-### Video cinematográfico de soldado gato en trinchera de la Primera Guerra Mundial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para generar un video cinematográfico fotorrealista de 15 segundos de un gato atigrado naranja vestido como soldado en una trinchera embarrada, realizando un saludo y escondiéndose.
-
-#### 📝 Prompt
-
-```
-Crea un video cinematográfico fotorrealista vertical de 9:16 y 15 segundos de duración, que muestre a un adorable gato atigrado naranja dentro de una trinchera embarrada estilo Primera Guerra Mundial, vistiendo un casco militar realista de color verde oliva y sosteniendo un pequeño rifle vintage. Comienza con la cámara enfocada en la oscura entrada de la trinchera, donde se ven claramente sacos de arena apilados y tablas de madera rústicas encima. Al principio, solo aparece lentamente la parte superior del casco desde la trinchera. El gato se eleva gradualmente hasta ser visible mientras sostiene el rifle naturalmente con ambas patas. Mantén la cara, el pelaje, el casco, el rifle, la trinchera y el fondo del gato consistentes durante todo el video. Hacia la mitad, el gato mira directamente hacia la cámara con una expresión seria pero adorable y levanta lentamente una pata en un pequeño saludo. Conserva el movimiento realista del pelaje, la acción natural de las patas, el sutil movimiento de la cabeza y una profundidad de campo cinematográfica. La cámara debe permanecer mayormente estable con un muy suave movimiento cinemático tipo handheld. Cerca del final, el gato baja su pata y se agacha lentamente de vuelta en la trinchera, dejando solo el casco visible. Utiliza iluminación exterior realista, cielo nublado suave, suelo embarrado detallado, texturas naturales, poca profundidad de campo, movimiento fluido y sin texto, marcas de agua, distorsiones ni personajes adicionales.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105847218414735360/img/XXKcxAFmb3cqNjA2.jpg" width="600" alt="Video cinematográfico de soldado gato en trinchera de la Primera Guerra Mundial">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11764)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fuente:** [Link](https://x.com/Aiwithmaha/status/2105847315609293134) | **Publicado:** Oct 2, 2026
-
----
-### Video de Pasarela de Moda desde Imagen de Referencia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para generar un video de pasarela de moda fluido y realista utilizando una imagen de referencia para preservar la identidad del personaje, detallando cuatro poses y movimientos específicos con restricciones de calidad cinematográfica.
-
-#### 📝 Prompt
-
-```
-Crea un video de pasarela de moda fluido y realista utilizando la imagen de referencia como base exacta para el personaje y el atuendo. Preserva sus rasgos faciales, peinado, ropa, proporciones corporales, colores e identidad general a lo largo de todo el video. Encuadre de cuerpo completo, fotografía de moda cinematográfica, movimiento natural y realista, luz suave de día.
-Escena 1 – Caminar hacia adelante: Ella comienza de pie con confianza, luego camina lentamente hacia la cámara con pasos elegantes y naturales. Sus manos permanecen casualmente dentro de los bolsillos de la chaqueta universitaria, con el cabello moviéndose suavemente con cada paso.
-Escena 2 – Pose lateral: Mientras camina, gira ligeramente su cuerpo hacia un lado, mira brevemente a la cámara y ofrece una sonrisa suave y segura. Su cabello sigue el movimiento de manera natural.
-Escena 3 – Pose con chaqueta: Se detiene por un momento, desplaza su peso sobre una pierna, tira ligeramente de sus hombros hacia atrás, mantiene una mano en el bolsillo de la chaqueta y ajusta casualmente la chaqueta con la otra mano.
-Escena 4 – Caminata final y giro: Reanuda la caminata pasando junto a la cámara, luego gira suavemente la cabeza por encima del hombro con una sonrisa sutil antes de continuar avanzando. Su falda y cabello se mueven naturalmente con el movimiento.
-Seguimiento de cámara fluido, movimiento sutil de cámara cinematográfico, física de caminata realista, expresiones faciales naturales, movimiento realista de tela y cabello, sin movimientos bruscos, sin distorsión corporal, sin cambios en el rostro, sin dedos o extremidades adicionales, atuendo y apariencia consistentes, estética premium de campaña de moda, vertical 2:3, 8–10 segundos.
-```
-
-<img src="https://cms-assets.youmind.com/media/1791007175820_7skm15_HTl2pvJXcAAsViG.jpg" width="600" alt="Video de Pasarela de Moda desde Imagen de Referencia">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11810)**
-
-**Autor:** [Hania Ai](https://x.com/HaniaAi12) | **Fuente:** [Link](https://x.com/HaniaAi12/status/2105845066514436402) | **Publicado:** Oct 2, 2026
-
----
-### Estética de Vídeo Doméstico MiniDV en Seúl
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar un clip realista de 30 segundos estilo vídeo doméstico de un hombre coreano en Seúl usando Seedance 2.0, capturando la auténtica estética de las cámaras de vídeo de principios de los años 2000.
-
-#### 📝 Prompt
-
-```
-Crea un vídeo doméstico ficticio ultrarrealista de 30 segundos que muestre a un hombre coreano adulto de finales de los 20 pasando una alegre tarde en un barrio residencial antiguo de Seúl.
-
-PERSONAJE:
-Un hombre coreano adulto ficticio de finales de los 20 con cabello oscuro medio-largo recogido en una coleta baja casual, rasgos faciales masculinos naturales, textura de piel realista y una personalidad expresiva y amigable. Mantén su apariencia consistente durante todo el vídeo.
-
-VESTUARIO:
-Lleva un atuendo veraniego audaz y a la moda: una camiseta roja ajustada y vibrante, shorts de mezclilla blanca holgados de tiro alto, zapatillas deportivas limpias y casuales, una pulsera sencilla, pendientes pequeños discretos y una pequeña bolsa de hombro. El conjunto es juvenil, colorido y elegante, adecuado para un caluroso día de verano.
-
-ESCENA 1 — SALIR DE CASA
-Sale de un edificio de apartamentos antiguo en Seúl llevando una pequeña bolsa de compras reutilizable. Cierra la puerta detrás de él, nota la cámara y sonríe espontáneamente antes de caminar por la tranquila callejuela residencial.
-
-ESCENA 2 — PANADERÍA LOCAL
-Entra en una pequeña panadería del barrio, mira la vitrina de pasteles y elige un pequeño dulce horneado. Paga al tendero con monedas, le da las gracias y sale de nuevo a la calle.
-
-ESCENA 3 — ENCUENTRO AMIGABLE
-Mientras camina por la estrecha callejuela, ve de repente a su amigo varón adulto acercándose desde la dirección opuesta. Sonríen, se saludan cálidamente y comparten un rápido abrazo amistoso. Charlan y ríen un momento antes de despedirse con la mano y continuar en direcciones opuestas.
-
-ESCENA 4 — PUESTO DE FRUTAS
-Se detiene en un pequeño puesto de frutas al borde de la carretera y elige un melocotón. Paga al vendedor, lo coloca dentro de su bolsa de compras y continúa caminando.
-
-ESCENA 5 — MOMENTO COTIDIANO DEL BARRIO
-Camina bajo los árboles mientras come su pastel. Una bicicleta pasa cerca y él se aparta naturalmente. Mira alrededor hacia las casas tranquilas y sonríe mientras la cámara lo sigue desde una corta distancia.
-
-ESCENA 6 — FINAL
-Llega al final de la callejuela, se gira hacia la cámara y hace un saludo alegre.
-
-Sonríe naturalmente y dice: “¡Adiós!”
-
-Luego se da la vuelta y se aleja por la calle residencial llevando su bolsa y el melocotón. La cámara permanece detrás de él hasta que desaparece en la esquina.
-
-ESTILO DE CÁMARA:
-Metraje auténtico de vídeo doméstico MiniDV de consumo de principios de los años 2000. Temblor de cámara en mano, encuadre imperfecto, búsqueda de enfoque automático, fluctuaciones de exposición automática, detalle digital suave, ruido digital leve, ligeros artefactos de compresión, desenfoque de movimiento realista y zooms incómodos ocasionales.
-
-Debe sentirse como una grabación genuina hecha por un amigo o familiar, no una producción profesional.
-
-AUDIO:
-Solo sonidos naturales del barrio: pasos, bicicletas, tráfico distante, actividad de la panadería, conversaciones casuales, pájaros, niños jugando y viento ligero.
-
-Sin música, sin narración, sin subtítulos, sin superposiciones de texto, sin filtro de belleza, sin sexualización
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105622102804189185/img/9XJ8X53hYd3obwyW.jpg" width="600" alt="Estética de Vídeo Doméstico MiniDV en Seúl">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11759)**
-
-**Autor:** [ORHAN](https://x.com/OrhanGhazi65942) | **Fuente:** [Link](https://x.com/OrhanGhazi65942/status/2105622202838372499) | **Publicado:** Oct 1, 2026
-
----
-### Secuencia de velocidad de superhéroe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para crear una secuencia cinematográfica realista de velocidad de superhéroe en una calle concurrida del centro de la ciudad, con seguimiento dinámico de cámara y efectos visuales (VFX).
-
-#### 📝 Prompt
-
-```
-Crea una secuencia cinematográfica realista de velocidad de superhéroe en una calle concurrida del centro de la ciudad durante el otoño, con luz natural del día, transeúntes, coches, pasos de peatones y edificios detallados.
-
-Escena 1 — Plano general a nivel de calle: los transeúntes cruzan un cruce concurrido mientras los coches esperan al fondo. La cámara se desplaza suavemente de izquierda a derecha.
-
-Escena 2 — Una superheroína con un traje rojo ajustado y elegante aparece de repente y acelera a través del paso de peatones a extrema velocidad, con una postura de carrera poderosa y el cabello ondeando.
-
-Escena 3 — Plano lateral de seguimiento cercano: ella pasa volando junto a mesas de cafeterías al aire libre y transeúntes, rodeada de intensas estelas de energía roja brillante y desenfoque de movimiento realista.
-
-Escena 4 — Plano de seguimiento en contrapicado: ella se acerca rápidamente a un pequeño perro blanco en el paso de peatones, se agacha mientras aún se mueve a superspeed y agarra al perro de forma segura.
-
-Escena 5 — Plano dinámico cercano: ella lleva al perro de forma segura mientras corre hacia adelante, con ráfagas de energía roja envolviendo su cuerpo, fuerte desenfoque de movimiento cinematográfico.
-
-Escena 6 — Plano general de establecimiento: ella cruza todo el cruce a una velocidad increíble, dejando largas estelas de luz roja detrás de ella mientras los transeúntes reaccionan de manera natural.
-
-Escena 7 — Paneo lateral rápido de cámara: ella pasa disparada junto a personas sentadas en un banco de la ciudad leyendo periódicos, con estelas de energía roja barriendo el encuadre.
-
-Escena 8 — Plano final de seguimiento de gran angular a medio plano: ella continúa corriendo rápidamente por la calle y hacia la cámara, luego pasa cerca de la cámara con una velocidad potente, iluminación cinematográfica realista y desenfoque de movimiento.
-
-Fotorrealista, VFX de superhéroe cinematográfico, movimiento humano realista, entorno urbano natural, seguimiento dinámico de cámara, profundidad de campo reducida, estelas de energía roja realistas, alto detalle, movimiento fluido, sensación dramática de rampa de velocidad, sin texto, sin logotipos, sin marca de agua.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105586182352719872/img/I0m_SFQSHQsmIYOU.jpg" width="600" alt="Secuencia de velocidad de superhéroe">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11760)**
-
-**Autor:** [Sᴀɪʀᴀ](https://x.com/itsSaira_1) | **Fuente:** [Link](https://x.com/itsSaira_1/status/2105587002892853539) | **Publicado:** Oct 1, 2026
-
----
-### Prompt de Video: Conflicto de Sucesión Xianxia
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt de video dramático para Seedance 2.0 Mini que representa una ceremonia de sucesión Xianxia donde la mentora rechaza que su discípula junior se copie a sí misma, animándola a forjar su propio camino.
-
-#### 📝 Prompt
-
-```
-Textura cinematográfica fotorrealista, estética pura de Xianxia chino antiguo.
-
-Núcleo: Conflicto maduro de identidad, actuación contenida de personajes wuxia, diálogo de guionista veterano que depende del subtexto y el posicionamiento para los giros.
-Adoptar:
-Textura de cámara Arri Alexa
-
-Luz volumétrica natural
-Grano fino de película
-Giro Central
-
-Romper con estructuras previamente utilizadas:
-
-Desafío
-
-Chivo expiatorio
-
-Rendición
-Rescate
-Prueba de lealtad
-Colocar el conflicto directamente en la 'Sucesión' misma.
-Todos creen:
-El mayor reconocimiento para la Hermana Junior es dejarla tomar la espada, el título y la posición de la Hermana Senior.
-
-El verdadero giro es—
-Porque la Hermana Senior realmente la reconoce, se niega a que la vida de la Hermana Junior sea simplemente:
-
-"Una segunda versión de mí."
-Referencias & Entorno
-
-Usar @Image 1 y @Image 2 estrictamente como anclas de identidad de personaje.
-Todas las referencias de fondo/ubicación cargadas determinan el mismo ADN ambiental.
-Antes de la composición formal, reensamblar silenciosamente elementos compatibles:
-
-Terreno real
-
-Lenguaje arquitectónico
-
-Edad de materiales
-
-Vegetación
-
-Cuerpos de agua
-Clima
-
-Niebla de montaña
-Reflejos
-Dirección de luz principal
-Profundidad atmosférica
-Formar una nueva ubicación unificada.
-Principio de Fondo
-El fondo persiste vívidamente pero narrativamente neutral.
-Configuraciones de Personajes
-ID de Personaje A | Hermana Senior (Inmortal de la Espada)
-Siempre la misma Hermana Senior de @Image 1:
-
-Mujer del este asiático de 25–30 años
-
-Cara ovalada clara
-Ojos almendrados oscuros
-
-Pelo negro largo medio recogido, asegurado con horquilla de jade blanco
-
-Figura alta y esbelta
-
-Viste el mismo Hanfu de seda blanca bordada
-Manglas anchas translúcidas
-
-Cinturón plateado
-Colgante de jade
-Botas de tela blanca
-Sostiene única espada larga plateada
-ID de Personaje B | Hermana Junior
-Siempre la misma Hermana Junior de @Image 2:
-Mujer del este asiático de 20–25 años
-Cara redonda vivaz
-Pelo negro trenzado
-Figura pequeña
-Viste el mismo Hanfu de lino verde azulado
-
-Cinturón oscuro
-Horquilla de madera
-
-Zapatos de tela negra
-Sostiene única espada de acero oscuro con desgaste de uso
-Otros Personajes Menores
-Un maestro anciano
-Dos discípulos de secta
-Un enviado externo
-Estos existen solo como testigos menores.
-Estructura de Segmentos
-0–5s | Plano General o Largo
-
-El maestro anciano preside la ceremonia formal de sucesión.
-
-Ofrece la espada ceremonial plateada que simboliza la identidad de jefe de espadas con ambas manos, dice profundamente:
-"Toma la espada. Desde hoy, tú sucedes su posición."
-La Hermana Junior instintivamente extiende la mano.
-
-Los dedos no han tocado la espada,
-La Inmortal de la Espada vestida de blanco repentinamente desenvaina la espada, usando un choque de hoja extremadamente limpio y contenido para desviar la espada ceremonial plateada hacia un lado, NO debe atacar a nadie.
-
-Ella solo dice:
-
-"Ella no la tomará."
-
-La Hermana Junior inmediatamente gira para mirarla:
-
-"¿Por qué?"
-
-5–10s | Plano Medio o Cowboy
-
-Mantener:
-
-Las mismas dos mujeres
-
-Los mismos trajes
-Las mismas espadas largas
-
-La misma espada ceremonial
-
-Espacio geográfico idéntico
-
-Maestro visiblemente disgustado:
-
-"¿No la reconoces?"
-
-La Hermana Senior mira realmente a la Hermana Junior, responde:
-
-"Precisamente porque sí lo hago."
-Pausa completa de medio tiempo, luego baja la línea:
-
-"Mi posición solo cabe en una mí."
-Fondo de profundidad de campo poco profunda, el enviado externo no puede evitar reírse entre dientes:
-"Entonces, ¿qué es ella?"
-La Hermana Senior ni siquiera gira para responder, sigue mirando a la Hermana Junior:
-"Pregúntate a ti misma."
-
-En este momento, sin música sentimental forzando emoción, mantener solo sonido espacial natural y base de puntuación baja contenida.
-
-Los siguientes elementos de fondo continúan movimiento natural, completamente involucrados en la trama:
-
-Viento
-
-Cuerpos de agua
-
-Niebla de montaña
-
-Manglas
-
-Mechones de pelo
-
-Reflejos
-
-Figuras distantes
-
-10–15s | Primer Plano o Extremo Primer Plano
-
-La Hermana Junior primero mira hacia abajo a la espada ceremonial plateada desviada, luego a la vieja espada de acero oscuro que la ha acompañado durante años.
-
-Deja de preguntar si puede suceder, cambia la pregunta, susurra:
-
-"¿Dónde me paro?"
-La Hermana Senior no decide la identidad por ella, solo responde:
-"No te pares detrás de mí."
-Pausa completa de medio tiempo.
-Después de que la Hermana Junior realmente entiende, sale de medio paso detrás de la Hermana Senior, se pone hombro a hombro por primera vez, inclina la cabeza y pregunta:
-"¿Aquí?"
-La Hermana Senior sigue mirando al frente, sin elogios, sin consuelo, solo dice tres palabras:
-
-"Avanza."
-Extremo primer plano sigue el cambio en los ojos de la Hermana Junior:
-
-Ella se congela brevemente, luego realmente avanza un paso completo, se pone delante de la Hermana Senior por primera vez.
-
-La Hermana Senior no la detiene, no la llama de vuelta.
-
-Fondo de profundidad de campo poco profunda:
-
-Maestro anciano completamente silencioso
-
-Enviado externo que estaba riendo lentamente suprime la sonrisa
-
-El cuadro final se detiene claramente en:
-
-"Hermana Junior sosteniendo su propia espada vieja parada al frente"
-
-La espada plateada de herencia desviada permanece atrás, nadie la recoge.
-
-Esto significa:
-No la Hermana Junior heredando la posición de la Hermana Senior,
-Sino la Hermana Senior cediendo la posición frontal a su propio camino por primera vez.
-
-Núcleo Dramático
-
-Lo que se completa no es "rechazar la sucesión", sino:
-
-Rechazar definir a la Hermana Junior como "próxima Hermana Senior"
-
-Rechazar igualar reconocimiento con copia
-
-Dejarla existir no como continuación de nadie
-Dejarla pararse en su propio lugar por primera vez
-
-Principios de Actuación
-
-Hermana Senior Inmortal de la Espada
-
-No puede ser sentimental
-
-No puede predicar
-
-No puede parecer cumplimiento sacrificial
-La actitud debe ser estable, contenida, firme
-
-Negando a la Hermana Junior, pero rechazando que la Hermana Junior sea tragada por su título
-
-Hermana Junior
-
-La primera mitad debe ser estado natural de "alcanzar la posición según la expectativa de todos"
-
-La parte media no entiende, pero comienza a dudar
-La última parte realmente entiende "no te pares detrás de mí"
-La emoción no puede explotar hacia afuera
-El crecimiento debe ocurrir principalmente vía cambios de línea de mirada y posicionamiento
-
-Maestro Anciano
-
-Inicialmente representa sistema y orden tradicional
-
-El silencio final es en sí mismo un cambio de actitud
-No necesita admitir error o explicar
-Enviado Externo
-Inicialmente ligero desdén de espectador
-Finalmente suprime la sonrisa, indicando realización de que esto no es simple rechazo sino reconocimiento de nivel superior
-Requisitos Estrictos
-
-Duración total estricta de 15 segundos
-16:9 horizontal
-Estrictamente tres tomas consecutivas claras
-Diálogo nativo sincronizado en mandarín
-Lip-sync preciso
-Relaciones precisas de línea de mirada
-
-Identidad de personaje estable durante todo el proceso
-Peinado estable durante todo el proceso
-Traje estable durante todo el proceso
-Ambas espadas largas originales estables durante todo el proceso
-
-Espada ceremonial plateada estable durante todo el proceso
-Posiciones de roles secundarios estables durante todo el proceso
-Espacio geográfico estable durante todo el proceso
-
-Cantidad de acción de personaje estrictamente contenida
-
-Tres acciones deben ser claramente legibles:
-Desvío de hoja
-Girar cabeza
-Avanzar
-
-Microexpresiones deben ser reales y contenidas
-Telas de seda, espadas de metal, física del cabello naturales
-Primer plano/plano medio/fondo mantienen paralaje real y sonido ambiental espacial sincronizado
-Sin subtítulos generados
-Enfoque de Ejecución Seedance 2.0 Mini
-Para Seedance 2.0 Mini, enfatizar:
-Consistencia de referencia de personaje
-Jerarquía visual multi-personaje
-Pocos nodos de acción precisos
-Continuidad de cámara estable
-Continuidad de luz/sombra
-Continuidad de prop central
-Sincronización audiovisual precisa para diálogo, tintineos metálicos, pasos, roce de tela, sonido ambiental
-Negativos
-borroso, mala calidad, baja calidad, baja resolución, ruidoso, artefactos jpeg, marca de agua, texto, error; deformado, mutado, anatomía incorrecta, manos mal dibujadas, mala composición, fuera de cuadro, desfigurado; inconsistente de personaje, cambiando ropa, morfeo facial, desplazamiento de fondo, cortes con fallos, props desapareciendo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105553922954067968/img/Lg53de2JlB57_tFu.jpg" width="600" alt="Prompt de Video: Conflicto de Sucesión Xianxia">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11767)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2105555071014429021) | **Publicado:** Oct 1, 2026
-
----
-### Prompt de Vlog de Viaje con Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt detallado para generar un video corto de vlog de viaje de 10 segundos, con transiciones de escena específicas y requisitos de consistencia.
-
-#### 📝 Prompt
-
-```
-Genera un video corto realista estilo vlog de viaje de 10 segundos. La protagonista es siempre la misma joven asiática; sus rasgos faciales, peinado, ropa y proporciones corporales deben mantenerse consistentes durante todo el video, sin cambios de rostro ni de vestuario.
-
-El video consta de 3 escenas independientes: Pekín, Shanghái y Cantón. Las transiciones entre ciudades se completan mediante un 'corte directo tras chasquido', sin fundidos de fondo, distorsiones espaciales ni disoluciones de edificios.
-
-0-3s, Pekín.
-La chica está de pie cerca de un punto de referencia representativo de Pekín, con una apariencia natural y relajada, manos vacías. Mira a la cámara, levanta su mano derecha y chasquea los dedos. Inmediatamente después del chasquido, la escena corta directamente a Shanghái.
-
-3-6s, Shanghái.
-La chica ya está de pie cerca del Bund o Lujiazui en Shanghái, sosteniendo una taza de café en su mano derecha. Camina naturalmente hacia adelante dos pasos, luego toma un sorbo de café.
-Después de beber, camina hacia una barandilla o mesa pequeña cercana donde pueda colocar objetos, dejando claramente la taza de café en su mano derecha sobre la superficie. La taza debe tocar físicamente la plataforma, los dedos deben soltarla completamente y la mano derecha debe alejarse totalmente de la taza. Haz una pausa de aproximadamente medio segundo para confirmar que la mano derecha está vacía.
-Luego, vuelve a levantar la mano derecha para chasquear los dedos. Inmediatamente después del chasquido, la escena corta directamente a Cantón. La taza de café permanece en su posición original en Shanghái, no se teletransporta con la persona, y no debe desaparecer, flotar, deformarse ni cambiar de mano repentinamente.
-
-6-10s, Cantón.
-La chica aparece con las manos vacías cerca de la Torre de Cantón. Camina naturalmente hacia adelante dos pasos, gira para mirar la Torre de Cantón, luego se coloca en una posición adecuada para tomarse una foto con la torre, finalmente mira suavemente a la cámara y sonríe para terminar.
-
-Mantén una textura realista de vlog de viaje grabado con móvil durante todo el video, con una ligera sensación de handheld (cámara en mano), movimientos naturales y simples, centro de gravedad y movimiento de extremidades conforme a las leyes físicas reales.
-
-Énfasis especial:
-Segmento de Shanghái: Mano derecha sostiene café → Sorbo → Coloca la taza de café en una plataforma fija → Suelta completamente → Mano derecha vacía → Chasquea de nuevo.
-No omitas la acción de 'dejar la taza de café'; no permitas que la taza de café simplemente desaparezca.
-
-Evita: Cambios de rostro, cambios de ropa, alteraciones en las proporciones corporales, duplicación de personajes, brazos adicionales, deformaciones de dedos, desaparición de la taza de café, deformación de la taza, tazas flotantes, cambio de mano, chasquear mientras sostiene el café, fusión de edificios, aparición simultánea de puntos de referencia de Pekín/Shanghái/Cantón, residuos de fondos urbanos, movimientos de cámara excesivamente complejos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105548013406208000/img/aXj0BPfngqyW4MT8.jpg" width="600" alt="Prompt de Vlog de Viaje con Seedance 2.0">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11765)**
-
-**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fuente:** [Link](https://x.com/Adam38363368936/status/2105550931907809283) | **Publicado:** Oct 1, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -5526,6 +5224,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-21T03:43:50.442Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-21T09:29:35.999Z</sub>
 
 </div>
