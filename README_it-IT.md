@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6582** |
+| 📝 Totale prompt | **6585** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-10-23** |
 
@@ -361,6 +361,116 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Film Cinematografico Lifestyle Seoul
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video fotorealistico di 27 secondi che ritrae la giornata di una giovane donna coreana a Seoul, spostandosi dall'ufficio alla strada fino al rooftop, con istruzioni specifiche su camera e illuminazione.
+
+#### 📝 Prompt
+
+```
+Crea un cortometraggio lifestyle cinematografico fotorealistico di 27 secondi con una giovane donna coreana che vive una giornata serena a Seoul, in un'atmosfera naturale, emozionante e dal sapore slice-of-life. Inizia all'interno di un ufficio moderno o di uno spazio studio mentre si stiracchia dolcemente alla scrivania, per poi mostrarla mentre cammina lungo un corridoio illuminato dal sole, avvolto da una calda luce dorata e ombre realistiche. Riprendila mentre passeggia su una trafficata strada di Seoul indossando un rilassato outfit color crema, con un'ampia inquadratura cinematografica dal basso e un primo piano in cui sorride spontaneamente verso la camera. Mostrala in attesa nella metropolitana, ferma vicino al binario, mentre controlla silenziosamente lo smartphone accanto al finestrino del treno. Passa poi a primi piani intimi del suo viso, con una texture della pelle naturale e morbida, espressioni delicate e i tenui riflessi delle luci della città. Successivamente, riprendila mentre si gusta una bibita ghiacciata accanto alla vetrina accogliente di un caffè, appoggiando la mano sulla guancia e osservando la strada fuori. Inserisci l'interno caldo del locale, un primo piano mentre usa il telefono e una tranquilla passeggiata notturna lungo una via di Seoul dolcemente illuminata. Concludi con lei in piedi su una terrazza panoramica durante la blue hour, mentre si gode la fresca brezza serale prima di voltarsi verso la camera con un sorriso dolce e sincero. Utilizza movimenti umani realistici, coerenza dei tratti del viso, trucco naturale, ambientazioni urbane coreane autentiche, profondità di campo ridotta, estetica cinematografica da obiettivo 35 mm, grana pellicola delicata, luci calde, tonalità serali blu freddo e fluidi movimenti di camera a spalla. Mantieni invariati il personaggio, l'acconciatura, i lineamenti e la continuità dell'outfit per tutta la durata, evitando pelle dall'aspetto artificiale, espressioni esagerate, mani deformate, transizioni brusche o testi e loghi indesiderati. Composizione verticale 9:16, estetica premium da spot lifestyle coreano.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113502570014822400/img/pa6RpHmgQ4rNZE4-.jpg" width="600" alt="Film Cinematografico Lifestyle Seoul">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12926)**
+
+**Autore:** [liana](https://x.com/Lianaalane) | **Fonte:** [Link](https://x.com/Lianaalane/status/2113502626016825590) | **Pubblicato:** Oct 23, 2026
+
+---
+### Battaglia Anime: Valchiria contro Wyrm di Ghiaccio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video in stile anime dark fantasy che raffigura una Valchiria in combattimento contro un Wyrm di Ghiaccio, con una cronologia dettagliata della coreografia della battaglia e dei movimenti di camera.
+
+#### 📝 Prompt
+
+```
+Una Valchiria temprata dalla battaglia con capelli biondo platino intrecciati, pittura di guerra, armatura runica a piastre alata e uno spadone infuso di fulmini, resa in stile anime dark fantasy cinematografico, con una coreografia sakuga fluida ad alto frame rate, un line art espressivo disegnato a mano, un cel shading intenso dai toni freddi e un'illuminazione atmosferica da tormenta.
+
+Timeline:
+0–4s: Si lancia dal bordo a strapiombo di un ghiacciaio in caduta libera mentre un antico e frastagliato Frost Wyrm erutta dalla parete di ghiaccio sotto di lei; la telecamera scende a spirale seguendo di pari passo la sua discesa;
+4–10s: Usa le ali per virare bruscamente attraverso una fitta raffica di soffio di ghiaccioli, devia un colpo di coda con il suo scudo runico, si aggrappa alle squame gelide del serpente e corre verso l'alto lungo la sua spina dorsale sfidando venti di burrasca;
+10–15s: Incanala pura energia elettrica nella lama, affondandola tra le corna del wyrm mentre crepacci glaciali esplodono intorno a loro; si slancia via nella tormenta mentre la bestia precipita in un abisso di ghiaccio sottostante, atterrando trionfalmente su una vetta frastagliata.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113351253958987776/img/j0eJvoueuYcNnKV9.jpg" width="600" alt="Battaglia Anime: Valchiria contro Wyrm di Ghiaccio">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12928)**
+
+**Autore:** [Iqra Saifi](https://x.com/IqrasaifiAI) | **Fonte:** [Link](https://x.com/IqrasaifiAI/status/2113351475015610871) | **Pubblicato:** Oct 22, 2026
+
+---
+### Avventura in bici: fuga dalle zebre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video cinematografico di 30 secondi: una donna pedala nel bosco e viene inseguita dalle zebre, con un finale comico dedicato a una telefonata.
+
+#### 📝 Prompt
+
+```
+Crea un video cinematografico e fotorealistico di 30 secondi che ritrae una giovane donna in bicicletta lungo una strada sterrata, immersa in una lussureggiante foresta verde. Indossa un cappellino da baseball nero, una T-shirt blu ampia, pantaloncini neri e sneakers bianche, con i lunghi capelli castani che le fluttuano naturalmente alle spalle. Pedala con sicurezza tenendo le braccia spalancate, poi si volta indietro e nota un grande branco di zebre che corre verso di lei. Reagisce con stupore e paura, afferra rapidamente il manubrio e pedala più velocemente mentre le zebre galoppano lungo la strada sollevando nuvole di polvere. Decine di zebre corrono intorno alla sua bicicletta, dando vita a un inseguimento intenso e mozzafiato. Alla fine rallenta, guarda lo smartphone incredula e se lo porta all'orecchio con gli occhi sbarrati e la bocca aperta. Utilizza riprese fluide in movimento, movimenti realistici della bicicletta, animazioni naturali degli animali, strisce delle zebre dettagliate, capelli mossi dal vento, particelle di polvere e una luce diurna morbida. Mantieni la coerenza dei personaggi, una fisica realistica ed espressioni naturali per tutta la durata del video, senza deformazioni innaturali, testi o musica di sottofondo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113222752371113986/img/BzYUW_lvbq3wlivV.jpg" width="600" alt="Avventura in bici: fuga dalle zebre">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12927)**
+
+**Autore:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2113222820570550355) | **Pubblicato:** Oct 22, 2026
+
+---
+### Prompt Video Spot Spezie Ultra-Realistico per Seedance 2.0 Fast
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per la generazione video di uno spot pubblicitario ultra-realistico di 8 secondi, incentrato su ingredienti a base di spezie e sulla rivelazione del prodotto, ottimizzato per Seedance 2.0 Fast.
+
+#### 📝 Prompt
+
+```
+Crea uno spot pubblicitario premium di 8 secondi dedicato al food per un brand di spezie chiamato SpiceMix. Utilizza una qualità cinematografica ultra-realistica, lo stile delle pubblicità alimentari di lusso, texture fotorealistiche, CGI premium, illuminazione realistica, macro-cinematografia, movimenti di camera fluidi, profondità di campo ridotta, calde luci dorate e color grading da spot commerciale di fascia alta. Ogni inquadratura deve trasmettere energia grazie a tagli rapidi tipici degli spot, transizioni fluide ed un'estetica pubblicitaria premium del prodotto.
+
+0.0–0.8s — Presentazione dell'ingrediente protagonista
+
+Inquadratura in macro estremo di baccelli di cardamomo verde fresco che cadono al rallentatore su una superficie scura opaca. Minuscole particelle di polvere di spezie fluttuano nella calda luce dorata del sole. Movimento di camera rapido in avvicinamento (push-in).
+
+0.8–1.6s — Sequenza di spezie di lusso
+
+Tagli cinematografici veloci tra stecche di cannella, chiodi di garofano, grani di pepe nero, semi di cumino, semi di coriandolo, anice stellato, peperoncini rossi secchi e foglie di alloro. Ogni ingrediente ruota naturalmente sospeso a mezz'aria con una splendida messa a fuoco macro, un'illuminazione premium e particelle aromatiche fluttuanti.
+
+1.6–2.8s — Esplosione di ingredienti
+
+Tutte le spezie esplodono verso l'alto simultaneamente al rallentatore, turbinando attorno alla telecamera. Una densa polvere di spezie riempie l'inquadratura mentre la camera attraversa gli ingredienti sospesi con un movimento dinamico e un'energia da spot commerciale premium.
+
+2.8–4.2s — Fusione naturale
+
+Gli ingredienti si avvolgono in un elegante vortice, trasformandosi gradualmente in una polvere di spezie dai colori vivaci. Le particelle più fini brillano sotto una calda luce dorata, creando un effetto visivo lussuoso e invitante.
+
+4.2–5.8s — Rivelazione del sapore
+
+La polvere di spezie scorre armoniosamente su uno sfondo scuro premium, rivelando spezie intere fresche disposte attorno al centro. Un'illuminazione drammatica conferisce allo spot un aspetto ricco e goloso.
+
+5.8–8.0s — Inquadratura Hero del prodotto
+
+Il turbinio di spezie si placa e rivela una pregiata confezione di spezie SpiceMix appoggiata su una superficie nera lucida e riflettente. Spezie intere circondano elegantemente il packaging, mentre minuscole particelle continuano a fluttuare. Un lento avvicinamento cinematografico termina sull'inquadratura della confezione che riporta:
+
+SpiceMix
+Naturally Made
+
+Nessuna persona. Nessuna cucina. Nessun utensile. Solo ingredienti premium, cinematografia da spot alimentare di lusso, fotografia macro del prodotto, tagli rapidi ed energici, transizioni fluide, fisica realistica, texture fotorealistiche, qualità CGI premium, color grading caldo e intenso e un'elegante finitura da spot commerciale.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113142312507478016/img/PqU9UcHTkbEoHb18.jpg" width="600" alt="Prompt Video Spot Spezie Ultra-Realistico per Seedance 2.0 Fast">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12925)**
+
+**Autore:** [Olivia Jane](https://x.com/olivajaneAI) | **Fonte:** [Link](https://x.com/olivajaneAI/status/2113142343675297826) | **Pubblicato:** Oct 22, 2026
+
+---
 ### Prompt per Cortometraggio Comico Realistico in Palestra
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -421,81 +531,6 @@ Crea un video di 30 secondi che mostri una spettacolare performance acrobatica c
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12877)**
 
 **Autore:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fonte:** [Link](https://x.com/ayzalnooor24521/status/2113128549930729895) | **Pubblicato:** Oct 22, 2026
-
----
-### Slapstick Romantico Coreano: Bacio con Salto con l'Asta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per un video romantico slapstick in stile cinematografico iperrealistico, che include un tentativo di bacio con l'asta del salto con l'asta, facendo riferimento a due immagini di input per le identità dei personaggi.
-
-#### 📝 Prompt
-
-```
-Una commedia romantica slapstick cinematografica e iperrealistica, raccontata in quattro inquadrature fluide all'esterno di un tradizionale edificio residenziale a due piani in Corea del Sud, sotto la luce intensa di un pomeriggio soleggiato. Riprese naturali con smartphone tenuto a mano. Usa l'Immagine di Riferimento 1 per la donna e l'Immagine di Riferimento 2 per l'uomo. Mantieni entrambe le identità, i tratti del viso, le acconciature e gli abiti perfettamente coerenti in ogni inquadratura.
-
-SCENA
-
-Un modesto condominio coreano in stile villa, con pareti di cemento chiaro, una finestra aperta al secondo piano e un lenzuolo bianco steso su uno stendibiancheria esterno. Sotto si snoda uno stretto passaggio pedonale, circondato da piante in vaso, scooter parcheggiati, cavi elettrici ed edifici adiacenti.
-
-SOGGETTI
-
-Una donna coreana con i capelli raccolti in uno chignon ordinato, che indossa un vestito da casa casual a fantasia e semplici pantofole da interno.
-
- Un uomo coreano dall'aspetto trasandato ed eccentrico, con capelli arruffati, barba incolta, abiti casual usurati e vecchie scarpe da ginnastica.
-
-INQUADRATURA 1 | L'INCONTRO INASPETTATO
-
-La donna è affacciata alla finestra del secondo piano e cerca faticosamente di sistemare un grande lenzuolo bianco usando un lungo bastone di bambù per il bucato. All'improvviso, il bastone le sfugge dalle mani e precipita verso la strada.
-
-La telecamera si inclina verso il basso, rivelando l'uomo che cammina proprio sotto la finestra con lo sguardo incollato al telefono. Il bambù atterra accanto a lui con un forte TONFO, spaventandolo a tal punto da farlo barcollare all'indietro e cadere su un morbido cumulo di sacchi del bucato.
-
-Alza lo sguardo, incredulo. La donna si sporge dalla finestra, imbarazzata.
-
-Donna: "Oh mio Dio! Mi dispiace tantissimo!"
-
-Uomo: "Tranquilla... ma ora mi devi un bacio!"
-
-INQUADRATURA 2 | LA SFIDA MALIZIOSA
-
-La donna alza gli occhi al cielo, ma nota il sorriso esageratamente affascinante dell'uomo. Non riesce a trattenere una risata.
-
-Donna: "Un bacio? Ma ti sei bevuto il cervello!"
-
-L'uomo si porta drammaticamente una mano al cuore e finge di svenire. Lei ridacchia coprendosi la bocca, mentre lui scatta improvvisamente in piedi e punta il dito verso la finestra.
-
-Uomo: "Allora fammi salire e ti dimostrerò che ne vale la pena!"
-
-Lei scuote la testa sorridendo e gli fa cenno di aspettare.
-
-INQUADRATURA 3 | LA MOSSA ROMANTICA IMPOSSIBILE
-
-L'uomo afferra il bastone di bambù caduto, prende qualche metro di rincorsa e lo pianta saldamente a terra come un saltatore con l'asta. Il bambù si flette in modo spettacolare mentre lui si lancia verso la finestra del secondo piano.
-
-La telecamera a mano schizza verso l'alto, seguendo il suo volo assurdo con un dinamico effetto mosso. La donna sussulta quando lui arriva all'altezza della finestra, aggrappato al bambù flessibile.
-
-Si stabilizza, si sporge in avanti e arriccia le labbra in un'espressione comica. La donna inizialmente appare scioccata, poi scoppia a ridere davanti alla sua faccia ridicola.
-
-Uomo: "Allora... posso avere questo bacio?"
-
-Lei si ferma un istante, lo guarda negli occhi e, inaspettatamente, si sporge verso di lui.
-
-INQUADRATURA 4 | IL BACIO E IL LANCIO
-
-La donna gli dà un bacio rapido e scherzoso sulle labbra. Entrambi restano immobili per una frazione di secondo, con gli occhi spalancati per la sorpresa.
-
-L'uomo raggiante di felicità.
-
-Uomo: "Ne è valsa la pena fino all'ultimo secondo!"
-
-Ma il bambù, sottoposto a troppo peso, si spezza di netto, facendolo precipitare di nuovo tra i sacchi del bucato.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113112202366652417/img/cct0DyX1cFMvqhLl.jpg" width="600" alt="Slapstick Romantico Coreano: Bacio con Salto con l'Asta">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12873)**
-
-**Autore:** [Synthia](https://x.com/AIwithSynthia) | **Fonte:** [Link](https://x.com/AIwithSynthia/status/2113112264459080190) | **Pubblicato:** Oct 22, 2026
 
 ---
 ### POV Guida Futuristica 2050
@@ -5162,109 +5197,6 @@ Fotorealistico, scala planetaria mozzafiato, movimento estremo, spettacolare bat
 **Autore:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fonte:** [Link](https://x.com/AllaAisling/status/2106197038043971937) | **Pubblicato:** Oct 3, 2026
 
 ---
-### Prompt per Video Divertente di Nuvola Volante dell'Antica Cina
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt per generare un breve video umoristico utilizzando Seedance 2.0, che mostra una donna in costume antico volare su una nuvola che viene spazzata via dal vento.
-
-#### 📝 Prompt
-
-```
-10 secondi, formato verticale 9:16, video breve realistico e divertente.
-
-In uno scenario con architettura antica cinese, una giovane donna asiatica indossa costumi tradizionali antichi e sta su una nuvola bianca, a circa 2 metri da terra, volando lentamente in avanti camminando sulla nuvola.
-
-Primi 4 secondi: La ragazza e la nuvola bianca si muovono stabilmente e sincronizzate in avanti, con la ragazza dall'aspetto rilassato e naturale.
-
-Dal 4° secondo in poi, un forte vento laterale improvviso soffia, spostando i capelli e le maniche della ragazza. La nuvola bianca sotto i suoi piedi viene lentamente spinta verso destra da sola, mentre la ragazza non segue la nuvola.
-
-Dopo che la nuvola bianca lascia completamente i piedi della ragazza, lei rimane sospesa nella posizione originale per mezzo secondo. Prima guarda in basso verso i suoi piedi, poi alza lo sguardo verso la nuvola alla deriva, mostrando un'espressione confusa.
-
-Quindi la ragazza perde l'appoggio e cade verticalmente fuori campo. La nuvola bianca continua a fluttuare pigramente in lontananza.
-
-Punti chiave: La nuvola viene spazzata via orizzontalmente dal vento, lasciando la persona al suo posto; dopo che la nuvola se ne va, il personaggio resta sospeso per mezzo secondo prima di cadere. Non includere effetti magici complessi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106040066938449920/img/lWnfULrQ98y5kLLT.jpg" width="600" alt="Prompt per Video Divertente di Nuvola Volante dell'Antica Cina">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11818)**
-
-**Autore:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fonte:** [Link](https://x.com/Adam38363368936/status/2106040102530977900) | **Pubblicato:** Oct 2, 2026
-
----
-### Caccia Notturna del Samurai con Camera Dinamica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato per una sequenza d'azione cinematografica di samurai di 15 secondi, che vede protagonista un personaggio di nome Kazemiru mentre combatte contro cinque avversari nel Giappone dell'era Edo di notte, con istruzioni specifiche per il ritardo della camera e gli effetti del vento.
-
-#### 📝 Prompt
-
-```
-KAZEMIRU — CACCIA NOTTURNA DEL VENTO SELVAGGIO — 5 SAMURAI
-Durata: 15s | 16:9 | Senza Musica
-
-STILE:
-Live-action ultra-fotorealistico REAL, cinema d'azione oscuro giapponese AAA, VFX semi-CGI sobri. ARRI ALEXA 65, IMAX, anamorfico Panavision. Giappone dell'era Edo notturno, luce lunare fredda, lanterne calde, ombre profonde, nebbia, atmosfera realistica.
-
-@Image1 — BLOCCO IDENTITÀ RIGOROSO:
-Preservare esattamente il volto maschile, la geometria facciale, l'acconciatura bianca, le proporzioni del corpo, l'abbigliamento bianco strappato, i tatuaggi, gli accessori e l'identità. Esattamente UN maschio Kazemiru, DUE spade reali in metallo, CINQUE samurai adulti. Kazemiru rimane SEMPRE un essere umano reale fotorealistico.
-
-COMBATTIMENTO:
-Cinematografia a doppia spada selvaggia, aggressiva e acrobatica ispirata all'anime tradotta in live action. ESPLOSIONE → COLPO INCROCIATO → PIVOT → TAGLIO INVERSO → INTRECCIO → DOPPIO TAGLIO → NUOVA ESPLOSIONE. Entrambe le spade rimangono fisiche e chiaramente visibili. ZERO pause, pose, attese o reset neutrali.
-
-VENTO SUPRASONICO:
-Kazemiru attraversa fisicamente ogni distanza; NESSUNA teletrasportazione. Ogni breve esplosione crea scie di vento verde smeraldo sobrie, particelle sottili, distorsione dell'aria, polvere, foglie, fiamme delle lanterne che si piegano e reazione realistica dei vestiti.
-
-LOCATION:
-Distretto del castello di Edo di notte: ampia strada sterrata, case in legno, muri di pietra, cancelli, tetti di tegole, lanterne e alberi. Cinque samurai circondano Kazemiru.
-
-CAMERA:
-Forte angolo olandese (Dutch angle) di 25–35°. La camera è sempre in movimento e intenzionalmente più lenta di Kazemiru. Kazemiru si muove prima → la camera reagisce con un ritardo di 0,1–0,3s → whip-pan → supera il bersaglio → corregge → riacquisisce al contatto. Utilizzare OTS posteriore, tracking a 3/4, tracking laterale aggressivo e inseguimento dal basso. MAI statica, fluttuante o robotica.
-
-00:00–00:03 — #1:
-Cinque samurai si lanciano da direzioni diverse. Kazemiru esplode in avanti, l'onda d'urto solleva polvere e foglie. La camera lo perde, effettua un whip-pan, riacquisisce. Raggiunge #1 e sferra un brutale COLPO INCROCIATO a doppia spada. Contatto chiaro. #1 crolla. Nessun sangue/gore.
-
-00:03–00:06 — #2:
-#2 attacca. Kazemiru si infila sotto la lama, la devia con una spada e sferra un taglio inverso con la seconda. Contatto chiaro. Pianta un piede su un muro di pietra e si spinge via esplosivamente. Vento e polvere erompono. La camera supera il bersaglio verso #3.
-
-00:06–00:09 — #3:
-Kazemiru vola nell'inquadratura. La camera lo cattura a mezz'aria. Un corpo umano reale ruota attraverso un attacco discendente a doppia lama. Entrambe le spade rimangono leggibili. Contatto chiaro. Atterra basso ed esplode immediatamente di nuovo.
-
-00:09–00:12 — #4:
-Tracking Dutch basso sopra la terra. #4 carica. Kazemiru passa oltre per centimetri, esegue un pivot e compie due distinti tagli inversi. Contatto chiaro. L'onda di pressione scaglia la polvere verso l'esterno. La camera lo perde e riacquisisce violentemente.
-
-00:12–00:15 — #5:
-#5 cerca disperatamente. Il vento smeraldo attraversa lo sfondo. Kazemiru esplode dal lato. Si abbassa sulla spada, ruota
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106015913182969856/img/bw8SGGn2FZH6FZsj.jpg" width="600" alt="Caccia Notturna del Samurai con Camera Dinamica">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11808)**
-
-**Autore:** [Zar⭕on](https://x.com/Xaroon_x) | **Fonte:** [Link](https://x.com/Xaroon_x/status/2106016012877390227) | **Pubblicato:** Oct 2, 2026
-
----
-### Transizione dall'Ufficio del Venerdì all'Ora d'Oro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt dettagliato per un video cinematografico di 15 secondi che mostra una donna in carriera mentre conclude il lavoro e si prepara al weekend, con istruzioni specifiche su timeline, illuminazione e movimenti di camera.
-
-#### 📝 Prompt
-
-```
-FORMATO: 15s / 720P / 16:9. RIFERIMENTI: Image1 è lo storyboard e la guida visiva sequenziale. SCENA: Una donna in carriera corre attraverso le ultime ore del venerdì in un moderno ufficio cittadino, completa l'ultimo compito e esce verso una invitante serata dorata. STILE: realismo cinematografico live-action contemporaneo, ritmo incalzante, passaggio da un grigio-blu freddo dell'ufficio a un tramonto ambrato e luci cittadine calde. LENTE / LUCE / GRADING: full-frame 35mm con primi piani a 85mm; luce fredda dall'alto dell'ufficio che passa alla retroilluminazione dell'ora d'oro proveniente dalla destra dello schermo; leggera grana filmica. BLOCCHI STATICI: stessa donna adulta, viso, abbigliamento da lavoro su misura, capelli e accessori costanti durante tutto il video; geografia dell'ufficio coerente, direzione dello schermo e progressione della luce. MOVIMENTO DINAMICO: rapida occhiata all'orologio, digitazione decisa, notifiche, tracking laterale veloce, chiusura decisiva del laptop, passo avanti attraverso le porte a vetri, deriva gentile nella città, assestamento nella quiete. TIMELINE: 0-1.5s orologio ravvicinato e occhi anticipatori; 1.5-3.2s piano largo dell'ufficio mentre i colleghi rallentano; 3.2-5s notifiche poi esalazione controllata; 5-7s tracking mentre chiude una chiamata e prende il cappotto; 7-8.8s invio dell'ultima email, chiusura del laptop, sollievo; 8.8-10.8s esce nella serata dorata; 10.8-13s passeggiata in città che si apre in un'atmosfera calda del weekend; 13-15s sorride, mette il telefono nella borsa, mantiene un'ultima inquadratura calma e liberata. AUDIO / VOCE: ticchettio dell'orologio e tocchi morbidi sulla tastiera si costruiscono sopra una musica strumentale ritmica leggera; clic del laptop, l'ambiente dell'ufficio sfuma nei suoni della strada serale; la musica si apre in un'energia calda ed effervescente del weekend. Nessun dialogo o voiceover. REGOLE: un unico video cinematografico continuo, non uno slideshow di storyboard; nessun bordo dei pannelli, didascalie, intestazioni, frecce, sovrapposizioni o testo leggibile sullo schermo; nessun personaggio extra in evidenza; preservare il movimento naturale e l'identità. NEGATIVO: nessuna deriva dell'identità, tagli frenetici illeggibili, testo corrotto, split-screen o montaggio congelato.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106009047006601216/img/baH-m4xTRZJ95C8q.jpg" width="600" alt="Transizione dall'Ufficio del Venerdì all'Ora d'Oro">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11816)**
-
-**Autore:** [Amy G](https://x.com/amynys) | **Fonte:** [Link](https://x.com/amynys/status/2106009075049758825) | **Pubblicato:** Oct 2, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -5326,6 +5258,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-23T03:50:15.949Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-23T09:28:36.857Z</sub>
 
 </div>

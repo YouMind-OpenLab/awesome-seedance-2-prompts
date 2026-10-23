@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6582** |
+| 📝 Total Prompts | **6585** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-10-23** |
 
@@ -365,54 +365,163 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Realistic Gym Comedy Short Prompt
+### Seoul Lifestyle Cinematic Film
 
-![中文](https://img.shields.io/badge/lang-中文-red)
+![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a 15-second vertical comedy video featuring a woman in a gym, emphasizing realistic phone-camera aesthetics and natural lighting.
+> A 27-second photorealistic video prompt depicting a young Korean woman's day in Seoul, moving from office to street to rooftop, with specific camera and lighting instructions.
 
 #### 📝 Prompt
 
 ```
-15-second ultra-realistic funny short video, 9:16 vertical screen, mobile phone original camera documentary texture, real gym environment, soft indoor top light, the whole process is like a friend casually following along, slight natural shaking, very strong daily life feel.
-
-[Character Setting]
-High-looking young Asian woman, natural light makeup, delicate and relaxed facial features, well-proportioned figure, gentle and cool temperament, real passerby feel, skin retains natural texture and subtle sweat beads, no influencer smoothing, no exaggerated plastic surgery face, natural body proportions. Face and body completely consistent with reference image.
-
-Shot 1 | 0-4s Fake Self-Discipline
-Bright and clean gym, background has few training figures and equipment. Girl doing standard squats seriously in free training area, movements smooth and stable. Camera handheld tracking from right rear, first slowly retreating to keep full body in frame, then slightly lifting as she stands up, like a friend walking and filming, picture has slight breathing feel and natural shaking, creating illusion of her being very self-disciplined and hardworking.
-
-Shot 2 | 4-8s Misleading Continued Training
-Hard cut to side tracking shot, girl standing holding small dumbbells doing bicep curls, slightly sweating, serious exertion, calm and focused expression. Camera close to her side front, first slight lateral movement, then slowly pushing close to upper body, background equipment naturally passing by, audience thinks this is a self-disciplined fitness video.
-
-Shot 3 | 8-12s First Layer Twist
-Girl suddenly puts down dumbbells, expression changes from focus to relaxation, long sigh. Camera continues handheld following her to training bench. She sits down, takes out fried chicken and iced milk tea from bag, actions natural and skilled, tears open packaging. Camera quickly but slightly pushes close when she takes things out, forming candid comedic effect.
-
-Shot 4 | 12-15s Ultimate Twist
-Camera directly pushes close to face and fried chicken/milk tea in same frame. Girl naturally bites fried chicken, drinks milk tea, looks at camera, says in casual tone: "Eat full to have strength to lose weight." Expression calm afterwards, like saying something normal. Ending stays on her calm eating contrast face, handheld camera has extremely slight forward/backward shaking, enhancing friend's secret filming feel.
-
-[Visual Quality]
-Ultra-realistic live-action, original camera HD quality, real skin texture, pores, sweat beads and natural skin tone, slight environmental noise in gym, natural indoor top light, do not use movie-grade refined lighting. Camera movement mainly handheld tracking, slight push-in, slight lateral movement, rhythm casual, no gimbal smooth motion. Direct hard cuts between scenes, no fancy transitions.
-
-[Sound Effects]
-Gym distant equipment collision sounds, slight footsteps, girl's training breathing sounds, packaging tearing sound, fried chicken chewing sound, milk tea straw sound. Dialogue clear and natural, no exaggerated dubbing feel. Add short light funny music point after dialogue ends.
-
-[Negative Prompts]
-Deformed fingers, twisted limbs, extra fingers, missing fingers, face collapse, misaligned facial features, AI fake face, plastic skin, excessive beauty filter, silicone face, exaggerated contact lenses, deformed body, disproportionate ratio, abnormal head-to-body ratio, floating objects, object clipping, screen flickering, object drifting, cartoon rendering, 3D animation, hand-drawn, illustration, screen subtitles, text, fancy fonts, watermarks, logos, borders, strong filters, soft light smoothing, stabilizer smooth motion, fixed camera position, stiff posing, stage lighting, pale fake light, excessive lighting, extra people, messy distracting clutter, exaggerated performance, awkward acting, affected expressions
+Create a 27-second photorealistic cinematic lifestyle film featuring a young Korean woman experiencing a peaceful day in Seoul, with a natural, emotional, slice-of-life atmosphere. Begin inside a modern office or study space as she stretches gently at her desk, then show her walking through a sunlit hallway with warm golden light and realistic shadows. Capture her walking along a busy Seoul street in a relaxed cream-colored outfit, with a cinematic low-angle wide shot and a close-up of her smiling naturally toward the camera. Show her waiting at a subway station, standing near the platform, and quietly checking her smartphone beside a train window. Transition into intimate close-ups of her face, soft natural skin texture, subtle expressions, and gentle reflections from the city lights. Next, show her enjoying an iced drink beside a cozy café window, resting her hand against her cheek while watching the street outside. Include a warm café interior, a close-up of her using her phone, and a peaceful nighttime walk through a softly illuminated Seoul street. End with her standing on a rooftop at blue hour, enjoying the cool evening breeze before turning toward the camera with a gentle, heartfelt smile. Use realistic human movement, consistent facial identity, natural makeup, authentic Korean city environments, shallow depth of field, cinematic 35mm lens aesthetics, soft film grain, warm highlights, cool blue evening tones, and smooth handheld camera movements. Maintain the same character, hairstyle, facial features, and outfit continuity throughout, with no artificial skin, exaggerated expressions, distorted hands, sudden transitions, or unwanted text and logos. Vertical 9:16 composition, premium Korean lifestyle commercial aesthetic.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113132456224382976/img/_cUXcO0MOe8bP9Cv.jpg" width="600" alt="Realistic Gym Comedy Short Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113502570014822400/img/pa6RpHmgQ4rNZE4-.jpg" width="600" alt="Seoul Lifestyle Cinematic Film">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12926)**
+
+**Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2113502626016825590) | **Published:** Oct 23, 2026
+
+---
+### Valkyrie Frost Wyrm Anime Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dark-fantasy anime style video prompt featuring a Valkyrie fighting a Frost Wyrm, with a detailed timeline of the battle choreography and camera movements.
+
+#### 📝 Prompt
+
+```
+A battle-hardened Valkyrie with braided platinum-blonde hair, war paint, winged runic plate armor, and a lightning-infused broadsword, rendered in cinematic dark-fantasy anime style, fluid high-frame-rate sakuga choreography, expressive hand-drawn line art, intense cold-tone cel shading, and atmospheric blizzard lighting.
+Timeline:
+0–4s: Dives off a sheer glacier edge into freefall as an ancient, jagged Frost Wyrm erupts from the ice wall beneath her, camera spiraling downward in tandem with her descent;
+4–10s: Uses her wings to bank hard through a dense barrage of icicle breath, deflects a tail swipe with her runic buckler, grapples onto the serpent’s icy scales, and runs upward along its spine against gale-force winds;
+10–15s: Channels pure lightning into her blade, plunging it between the wyrm’s horns as glacial rifts detonate around them, kicking off into the blizzard while the beast collapses into an icy chasm below, landing triumphantly on a jagged peak.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113351253958987776/img/j0eJvoueuYcNnKV9.jpg" width="600" alt="Valkyrie Frost Wyrm Anime Battle">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12928)**
+
+**Author:** [Iqra Saifi](https://x.com/IqrasaifiAI) | **Source:** [Link](https://x.com/IqrasaifiAI/status/2113351475015610871) | **Published:** Oct 22, 2026
+
+---
+### Zebra Chase Bike Ride Adventure
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A 30-second cinematic video prompt of a woman biking through a forest who gets chased by zebras, ending with a comedic phone call moment.
+
+#### 📝 Prompt
+
+```
+Create a cinematic, photorealistic 30-second video of a young woman riding a bicycle along a dirt road through a lush green forest. She wears a black baseball cap, a loose blue T-shirt, black shorts, and white sneakers, with long brown hair flowing naturally behind her. She rides confidently with her arms stretched outward before looking back and noticing a large herd of zebras running toward her. She reacts with shock and fear, quickly grips the handlebars, and pedals faster as the zebras charge down the road, raising clouds of dust. Dozens of zebras run around her bicycle, creating an intense and thrilling chase scene. She eventually slows down, looks at her smartphone in disbelief, and raises it to her ear with wide eyes and an open mouth. Use smooth tracking shots, realistic bicycle movement, natural animal motion, detailed zebra stripes, flowing hair, dust particles, and soft daylight. Maintain consistent characters, realistic physics, and natural expressions throughout the video, with no unnatural morphing, no text, and no background music.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113222752371113986/img/BzYUW_lvbq3wlivV.jpg" width="600" alt="Zebra Chase Bike Ride Adventure">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12927)**
+
+**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2113222820570550355) | **Published:** Oct 22, 2026
+
+---
+### Ultra-Realistic Spice Commercial Video Prompt for Seedance 2.0 Fast
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video generation prompt for creating an 8-second ultra-realistic food commercial featuring spice ingredients and product reveal, optimized for Seedance 2.0 Fast.
+
+#### 📝 Prompt
+
+```
+Create an 8-second premium food commercial for a spice brand called SpiceMix. Use ultra-realistic cinematic quality, luxury food advertisement style, photorealistic textures, premium CGI, realistic lighting, macro cinematography, smooth camera motion, shallow depth of field, warm golden highlights, and high-end commercial color grading. Every shot should feel energetic with fast commercial cuts, seamless transitions, and premium product advertising aesthetics.
+
+0.0–0.8s — Hero Ingredient Introduction
+
+Extreme macro shot of fresh green cardamom pods dropping onto a dark matte surface in slow motion. Tiny spice dust particles float through warm golden sunlight. Fast push-in camera movement.
+
+0.8–1.6s — Luxury Spice Sequence
+
+Quick cinematic cuts between cinnamon sticks, cloves, black peppercorns, cumin seeds, coriander seeds, star anise, dried red chilies, and bay leaves. Each ingredient rotates naturally in mid-air with beautiful macro focus, premium lighting, and floating aromatic particles.
+
+1.6–2.8s — Ingredients Explosion
+
+All spices burst upward simultaneously in slow motion, swirling around the camera. Rich spice dust fills the frame while the camera passes through the floating ingredients with dynamic movement and premium commercial energy.
+
+2.8–4.2s — Natural Blending
+
+The ingredients spiral into an elegant vortex, gradually transforming into colorful spice powder. Fine particles shimmer under warm golden lighting, creating a luxurious and appetizing visual.
+
+4.2–5.8s — Flavor Reveal
+
+The spice powder flows beautifully across a premium dark background, revealing fresh whole spices surrounding the center. Dramatic lighting creates a rich, mouthwatering food commercial appearance.
+
+5.8–8.0s — Product Hero Shot
+
+The swirling spices settle and reveal a premium SpiceMix spice box standing on a glossy black reflective surface. Whole spices elegantly surround the package while tiny spice particles continue floating. A slow cinematic push-in ends on the packaging displaying:
+
+SpiceMix
+Naturally Made
+
+No people. No kitchen. No utensils. Only premium ingredients, luxury food-commercial cinematography, macro product photography, energetic fast cuts, seamless transitions, realistic physics, photorealistic textures, premium CGI quality, rich warm color grading, and an elegant commercial finish.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113142312507478016/img/PqU9UcHTkbEoHb18.jpg" width="600" alt="Ultra-Realistic Spice Commercial Video Prompt for Seedance 2.0 Fast">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12925)**
+
+**Author:** [Olivia Jane](https://x.com/olivajaneAI) | **Source:** [Link](https://x.com/olivajaneAI/status/2113142343675297826) | **Published:** Oct 22, 2026
+
+---
+### Seedance 2.0 Gym Comedy Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A comprehensive prompt for generating a 15-second vertical short video using Seedance 2.0. It features a young Asian woman in a gym who appears disciplined but ultimately reveals she is eating fried chicken and milk tea, with specific instructions for camera movement, lighting, and negative prompts.
+
+#### 📝 Prompt
+
+```
+15-second ultra-realistic funny short video, 9:16 vertical screen, mobile phone original camera documentary texture, real gym environment, soft indoor top light, throughout the process it looks like a friend casually following along, slight natural shaking, very strong lifestyle feel.
+
+[Character Setting]
+High-looking young Asian girl, natural light makeup, delicate and relaxed facial features, well-proportioned figure, gentle and cool temperament, real passerby feel, skin retains natural texture and subtle sweat beads, no influencer smoothing, no exaggerated plastic surgery face, natural body proportions. Face and body completely consistent with reference image.
+
+Shot 1 | 0-4 seconds Illusion of Discipline
+Bright and clean gym, background has a few people training and equipment. Girl seriously doing standard squats in free training area, movements smooth and stable. Camera follows from right rear handheld, first slowly retreating to keep full body in frame, then slightly rising as she stands up, like a friend walking and filming, picture has slight breathing feel and natural shaking, creating illusion that she is very disciplined and hardworking.
+
+Shot 2 | 4-8 seconds Misleading Continued Training
+Hard cut to side follow shot, girl standing lifting small dumbbells doing curl training, slightly sweating, seriously exerting force, expression calm and focused. Camera close to her front side following, first slight lateral movement, then slowly pushing in to upper body, background equipment naturally sweeping past, audience thinks this is a disciplined fitness video.
+
+Shot 3 | 8-12 seconds First Layer Reversal
+Girl suddenly puts down dumbbells, expression changes from focused to relaxed, takes a long breath. Camera continues handheld following her to training bench. She sits down, takes out fried chicken and iced milk tea from carry bag, actions natural and skilled, tears open packaging bag. Camera quickly but slightly pushes in when she takes things out, forming snapshot-style comedy effect.
+
+Shot 4 | 12-15 seconds Ultimate Reversal
+Camera directly pushes to close-up of face and fried chicken/milk tea in same frame. Girl calmly and naturally bites fried chicken, then drinks milk tea, looks at camera, says in casual tone: "Eat full to have strength to lose weight." After speaking, expression is calm, like saying something normal. Ending stays on her calm eating contrast face, handheld camera has extremely slight forward-backward shaking, enhancing friend's sneaky filming feel.
+
+[Picture Texture]
+Ultra-realistic live action, original camera HD quality, real skin texture, pores, sweat beads and natural skin color, slight environmental noise in gym, natural indoor top light, do not use movie-grade exquisite lighting. Camera movement mainly handheld follow, light push-in, light lateral movement, rhythm casual, do not use stabilizer smooth movement. Direct hard cuts between scenes, no fancy transitions.
+
+[Sound Effects]
+Gym distant equipment collision sounds, slight footsteps, girl's training breathing sounds, packaging bag tearing sound, fried chicken chewing sound, milk tea straw sound. Dialogue clear and natural, do not use exaggerated dubbing feel. Add short light funny music point after dialogue ends.
+
+[Negative Prompts]
+Deformed fingers, twisted limbs, extra fingers, missing fingers, face collapse, misaligned facial features, AI fake face, plastic skin, excessive beauty filter, silicone face, exaggerated contact lenses, deformed body, disproportionate, abnormal head-body ratio, floating objects, object clipping through, picture flickering, object drifting, cartoon rendering, 3D animation, hand-drawn, illustration, screen subtitles, text, flower text, watermark, logo, border, strong filter, soft light smoothing, stabilizer smooth movement, fixed camera position, stiff posing, stage lighting, pale fake light, excessive lighting, extra characters, messy distracting clutter, exaggerated performance, awkward acting, affected expressions
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113132456224382976/img/_cUXcO0MOe8bP9Cv.jpg" width="600" alt="Seedance 2.0 Gym Comedy Video Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12878)**
 
 **Author:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2113133135487713524) | **Published:** Oct 22, 2026
 
 ---
-### Cinematic Acrobatic Performance Over Lake
+### Cinematic Acrobatic Performance on Poles
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a 30-second cinematic video of a female acrobat performing on wooden poles above a turquoise lake, emphasizing realistic physics and camera movement.
+> A prompt for generating a 30-second cinematic video of a female acrobat performing flips and balances on wooden poles above a turquoise lake, emphasizing realistic physics and camera movement.
 
 #### 📝 Prompt
 
@@ -420,86 +529,11 @@ Deformed fingers, twisted limbs, extra fingers, missing fingers, face collapse, 
 Create it 30-second video featuring a breathtaking cinematic acrobatic performance above a beautiful turquoise lake surrounded by lush green mountains, misty cliffs, and soft cloudy skies. A graceful female acrobat wearing a flowing white outfit performs incredible flips, handstands, aerial rotations, and perfectly controlled balancing moves on a series of tall, narrow wooden poles rising above the water. The camera captures her movements from wide cinematic angles and smooth tracking shots, highlighting her strength, flexibility, and balance against the stunning natural landscape. She leaps gracefully from one pole to another, spins through the air, and lands with precision on a wooden platform beside the lake, finishing with an elegant martial-arts-inspired pose with her arms extended. Use realistic human anatomy, natural body movements, accurate physics, fluid transitions, soft daylight, atmospheric mountain fog, crystal-clear water reflections, and ultra-realistic cinematic details. Keep the acrobat's face, hairstyle, outfit, and body proportions consistent throughout the video. The final result should look like a professionally filmed real-life acrobatic performance, with smooth camera movement, breathtaking scenery, and no text, logos, or visual distortions.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113128439465308160/img/HGilvSf7Uz9gtyIZ.jpg" width="600" alt="Cinematic Acrobatic Performance Over Lake">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113128439465308160/img/HGilvSf7Uz9gtyIZ.jpg" width="600" alt="Cinematic Acrobatic Performance on Poles">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12877)**
 
 **Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2113128549930729895) | **Published:** Oct 22, 2026
-
----
-### Korean Romantic Slapstick Pole Vault
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a hyper-realistic cinematic slapstick romance video involving a pole vault kiss attempt, referencing two input images for character identities.
-
-#### 📝 Prompt
-
-```
-A hyper-realistic cinematic slapstick romance told across four seamless shots outside a traditional two-story residential building in South Korea during bright afternoon daylight. Natural handheld smartphone cinematography. Use Image Reference 1 as the woman and Image Reference 2 as the man. Preserve both identities, facial features, hairstyles, and clothing consistently throughout every shot.
-
-SCENE
-
-A modest Korean villa-style apartment building with pale concrete walls, an open second-floor window, and a white bedsheet hanging from an outdoor laundry rack. A narrow pedestrian walkway runs beneath it, surrounded by potted plants, parked scooters, utility cables, and neighboring buildings.
-
-SUBJECTS
-
-A Korean woman with her hair tied in a neat bun, wearing a casual patterned house dress and simple indoor slippers.
-
- A scruffy, eccentric-looking Korean man with messy hair, light stubble, worn casual clothes, and old sneakers.
-
-SHOT 1 | THE UNEXPECTED ENCOUNTER
-
-The woman stands at the second-floor window, struggling to straighten a large white bedsheet with a long bamboo laundry pole. Suddenly, the pole slips from her hands and falls toward the street.
-
-The camera tilts downward, revealing the man walking beneath the window while looking at his phone. The bamboo lands beside him with a loud THUNK, startling him so badly that he stumbles backward and falls onto a soft pile of laundry bags.
-
-He looks up in disbelief. The woman leans out of the window, embarrassed.
-
-Woman: "Oh my God! I'm so sorry!"
-
-Man: "It's okay... but you owe me a kiss!"
-
-SHOT 2 | THE FLIRTY CHALLENGE
-
-The woman rolls her eyes but notices the man's exaggeratedly charming smile. She laughs despite herself.
-
-Woman: "A kiss? You must be dreaming!"
-
-The man dramatically places one hand over his heart and pretends to faint. She giggles, covering her mouth, while he suddenly springs back up and points toward the window.
-
-Man: "Then let me come up and prove I'm worth it!"
-
-She shakes her head, smiling, and gestures for him to wait.
-
-SHOT 3 | THE IMPOSSIBLE ROMANTIC MOVE
-
-The man grabs the fallen bamboo pole, runs several steps, and plants it firmly against the ground like a pole vaulter. The bamboo bends dramatically as he launches upward toward the second-floor window.
-
-The handheld camera races upward, tracking his ridiculous flight with dynamic motion blur. The woman gasps as he arrives at window level, clinging to the flexible bamboo.
-
-He steadies himself, leans forward, and puckers his lips comically. The woman initially looks shocked, then starts laughing at his ridiculous expression.
-
-Man: "So... can I have my kiss now?"
-
-She pauses for a beat, looks into his eyes, and unexpectedly leans forward.
-
-SHOT 4 | THE KISS AND THE LAUNCH
-
-The woman gives him a quick, playful kiss on the lips. Both freeze for a split second, eyes wide with surprise.
-
-The man beams with happiness.
-
-Man: "Worth every second!"
-
-But the overloaded bamboo snaps, sending him tumbling back down into the laundry bags.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113112202366652417/img/cct0DyX1cFMvqhLl.jpg" width="600" alt="Korean Romantic Slapstick Pole Vault">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12873)**
-
-**Author:** [Synthia](https://x.com/AIwithSynthia) | **Source:** [Link](https://x.com/AIwithSynthia/status/2113112264459080190) | **Published:** Oct 22, 2026
 
 ---
 ### Futuristic Driving POV 2050
@@ -5196,109 +5230,6 @@ Photorealistic, breathtaking planetary scale, extreme motion, spectacular space 
 **Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2106197038043971937) | **Published:** Oct 3, 2026
 
 ---
-### Funny Ancient Chinese Flying Cloud Video Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A prompt for generating a humorous short video using Seedance 2.0, featuring a woman in ancient costume flying on a cloud that gets blown away by the wind.
-
-#### 📝 Prompt
-
-```
-10 seconds, 9:16 aspect ratio, realistic funny short video.
-
-At an ancient Chinese architecture scenic spot, a young Asian woman wearing traditional ancient costumes stands on a white cloud, about 2 meters above the ground, slowly flying forward stepping on the cloud.
-
-First 4 seconds: The girl and the white cloud move stably and synchronously forward, with the girl looking relaxed and natural.
-
-Starting from the 4th second, a sudden lateral strong wind blows, moving the girl's hair and sleeves. The white cloud under her feet is slowly blown to the right side alone, while the girl does not follow the cloud.
-
-After the white cloud completely leaves the girl's feet, she remains suspended in the original position for half a second. She first looks down at her feet, then looks up at the drifting cloud, showing a confused expression.
-
-Then the girl loses support and falls vertically out of the frame. The white cloud continues to drift leisurely into the distance.
-
-Key points: The cloud is blown away horizontally by the wind, leaving the person in place; after the cloud leaves, the character suspends for half a second before falling. Do not include complex magical effects.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106040066938449920/img/lWnfULrQ98y5kLLT.jpg" width="600" alt="Funny Ancient Chinese Flying Cloud Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11818)**
-
-**Author:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2106040102530977900) | **Published:** Oct 2, 2026
-
----
-### Samurai Night Hunt with Dynamic Camera
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for a 15-second cinematic samurai action sequence featuring a character named Kazemiru fighting five opponents in Edo Japan at night, with specific instructions for camera lag and wind effects.
-
-#### 📝 Prompt
-
-```
-KAZEMIRU — WILD-WIND NIGHT HUNT — 5 SAMURAI
-Duration: 15s | 16:9 | No Music
-
-STYLE:
-Ultra-photorealistic REAL LIVE-ACTION, AAA Japanese dark-action cinema, restrained semi-CGI VFX. ARRI ALEXA 65, IMAX, Panavision anamorphic. Nighttime Edo Japan, cold moonlight, warm lanterns, deep shadows, mist, realistic atmosphere.
-
-@Image1 — STRICT IDENTITY LOCK:
-Preserve exact male face, facial geometry, white hairstyle, body proportions, torn-white outfit, tattoo, accessories and identity. Exactly ONE male Kazemiru, TWO real metal swords, FIVE adult samurai. Kazemiru ALWAYS remains a photorealistic real human male.
-
-COMBAT:
-Wild, aggressive, acrobatic anime-inspired dual-sword choreography translated into live action. BURST → CROSS-SLASH → PIVOT → REVERSE CUT → WEAVE → DOUBLE SLASH → RE-BURST. Both swords remain physical and clearly visible. ZERO idle, posing, waiting or neutral resets.
-
-SUPERSONIC WIND:
-Kazemiru physically crosses every distance; NO teleportation. Each short-range burst creates restrained emerald-green wind trails, subtle particles, air distortion, dust, leaves, bending lantern flames and realistic clothing reaction.
-
-LOCATION:
-Edo castle district at night: broad dirt road, wooden houses, stone walls, gates, tiled roofs, lanterns and trees. Five samurai surround Kazemiru.
-
-CAMERA:
-Strong 25–35° Dutch angle. Camera is always moving and intentionally slower than Kazemiru. Kazemiru moves first → camera reacts 0.1–0.3s late → whip-pan → overshoots → corrects → reacquires at contact. Use rear OTS, 3/4 tracking, aggressive side tracking and low-angle pursuit. NEVER static, floating or robotic.
-
-00:00–00:03 — #1:
-Five samurai rush from different directions. Kazemiru bursts forward, air blast throws dust and leaves. Camera loses him, whip-pans, reacquires. He reaches #1 and delivers a brutal dual-sword CROSS-SLASH. Clear contact. #1 collapses. No blood/gore.
-
-00:03–00:06 — #2:
-#2 attacks. Kazemiru weaves beneath the blade, redirects it with one sword and reverse-slashes with the second. Clear contact. He plants one foot on a stone wall and explosively pushes off. Wind and dust erupt. Camera overshoots toward #3.
-
-00:06–00:09 — #3:
-Kazemiru flies into frame. Camera catches him mid-air. Real human body twists through a descending dual-blade attack. Both swords remain readable. Clear contact. He lands low and instantly bursts again.
-
-00:09–00:12 — #4:
-Low Dutch tracking above dirt. #4 charges. Kazemiru weaves past by centimeters, pivots and performs two distinct reverse-slashes. Clear contact. Pressure wave throws dirt outward. Camera loses him and violently reacquires.
-
-00:12–00:15 — #5:
-#5 searches desperately. Emerald wind crosses background. Kazemiru bursts from the side. He ducks the sword, rotate
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106015913182969856/img/bw8SGGn2FZH6FZsj.jpg" width="600" alt="Samurai Night Hunt with Dynamic Camera">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11808)**
-
-**Author:** [Zar⭕on](https://x.com/Xaroon_x) | **Source:** [Link](https://x.com/Xaroon_x/status/2106016012877390227) | **Published:** Oct 2, 2026
-
----
-### Friday Office to Golden Hour Transition
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for a 15-second cinematic video showing a career woman finishing work and stepping into the weekend, with specific timeline, lighting, and camera instructions.
-
-#### 📝 Prompt
-
-```
-FORMAT: 15s / 720P / 16:9. REFERENCES: Image1 is the storyboard and sequential visual guide. SCENE: One career woman races through the final hours of Friday in a modern city office, finishes her last task, and steps into an inviting golden evening. STYLE: contemporary live-action cinematic realism, brisk pacing, cool blue-gray office shifting into amber sunset and warm city lights. LENS / LIGHT / GRADE: 35mm full-frame with 85mm close-ups; cool overhead office light shifting to golden-hour backlight from screen-right; subtle film grain. STATIC LOCKS: same adult woman, face, tailored workwear, hair and accessories throughout; coherent office geography, screen direction and light progression. DYNAMIC MOTION: quick clock glance, purposeful typing, notifications, brisk lateral tracking, decisive laptop close, forward stride through glass doors, gentle city drift, settle into stillness. TIMELINE: 0-1.5s tight clock and anticipatory eyes; 1.5-3.2s wide office typing as colleagues wind down; 3.2-5s notifications then controlled exhale; 5-7s tracking as she finishes a call and gathers her coat; 7-8.8s final email sent, laptop shuts, relief; 8.8-10.8s she exits into golden evening; 10.8-13s city walk opens into warm weekend atmosphere; 13-15s she smiles, phone goes into her bag, holds a calm liberated final frame. AUDIO / VOICE: ticking clock and soft keyboard taps build over light rhythmic instrumental music; laptop click, office ambience recedes into evening street sounds; music opens into warm buoyant weekend energy. No dialogue or voiceover. RULES: one continuous cinematic video, not a storyboard slideshow; no panel borders, captions, masthead, arrows, overlays or readable screen text; no extra featured characters; preserve natural movement and identity. NEGATIVE: no identity drift, frantic unreadable cuts, garbled text, split-screen or frozen montage.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106009047006601216/img/baH-m4xTRZJ95C8q.jpg" width="600" alt="Friday Office to Golden Hour Transition">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11816)**
-
-**Author:** [Amy G](https://x.com/amynys) | **Source:** [Link](https://x.com/amynys/status/2106009075049758825) | **Published:** Oct 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -5360,6 +5291,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-23T03:49:59.253Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-23T09:28:23.131Z</sub>
 
 </div>
