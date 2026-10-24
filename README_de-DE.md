@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6585** |
+| 📝 Gesamtanzahl Prompts | **6587** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-10-24** |
 
@@ -361,6 +361,44 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Cineastischer Krieger-Video-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines cineastischen, ultra-realistischen Videos eines furchtlosen Kriegers mit dramatischer Beleuchtung und Slow-Motion-Effekten.
+
+#### 📝 Prompt
+
+```
+Erstelle ein cineastisches, ultra-realistisches Video eines furchtlosen Kriegers mit durchdringendem Blick, starker Präsenz und selbstbewusster Ausstrahlung. Nutze dramatische Lichtsetzung, fließende Zeitlupen-Bewegungen, detaillierte Texturen, einen dunklen, atmosphärischen Hintergrund sowie professionelles Color Grading. 4K-Qualität, gestochen scharfer Fokus, epische Stimmung und ein visuell beeindruckendes, cineastisches Finish.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113848979058470912/img/toLQfOH68vyUJD9j.jpg" width="600" alt="Cineastischer Krieger-Video-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12967)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Veröffentlicht:** Oct 24, 2026
+
+---
+### Absturz von den Sonnen-Schwebenden Inseln Seedance 2.0
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für ein Video, das einen Sturz von der Sonne hin zu schwebenden Inseln aus Zahnrädern zeigt, generiert mit Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Sie fällt von der Sonne hinab zu schwebenden Inseln aus Zahnrädern, eine cyanfarbene Spur hinter sich – dann füllt ein einziges blaues Auge das gesamte Bild.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113525908065701888/pu/img/o4uirHvMrYyaolPq.jpg" width="600" alt="Absturz von den Sonnen-Schwebenden Inseln Seedance 2.0">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12968)**
+
+**Autor:** [MxCaptures | AI VFX & Cinematic AI Artist](https://x.com/MxCaptures) | **Quelle:** [Link](https://x.com/MxCaptures/status/2113525990592848305) | **Veröffentlicht:** Oct 23, 2026
+
+---
 ### Seoul Lifestyle – Cinematic Film
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5126,85 +5164,6 @@ Erstelle eine cineastische, ultrarealistische Live-Action-Sequenz in einer warme
 **Autor:** [Aynah](https://x.com/AynahhX) | **Quelle:** [Link](https://x.com/AynahhX/status/2106206660582850732) | **Veröffentlicht:** Oct 3, 2026
 
 ---
-### Niedlicher Otter – 3D-Animkurzfilm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für einen hochwertigen kinematografischen 3D-Animkurzfilm, der Babyotter auf einer Wiese zeigt. Er beschreibt zehn Szenen, darunter das Verfolgen einer Beere, das Treffen eines Freundes und spielerische Interaktionen.
-
-#### 📝 Prompt
-
-```
-Erstellen Sie einen hochwertigen kinematografischen 3D-Animkurzfilm mit niedlichen, stilisierten babyotterähnlichen Waldtieren auf einer wunderschönen sonnigen Wiese.
-
-Szene 1: Ein niedlicher brauner Babyotter steht auf einer üppig grünen Wiese und hält glücklich eine große glänzende blaue Beere mit beiden Pfoten. Er hat weiches braunes Fell, einen rundlichen, plumpen Körper, riesige glänzende schwarze Augen, rosige Wangen und einen kleinen dunklen Schal um den Hals. Der Charakter wirkt unschuldig und neugierig. Warmes Morgenlicht, weiches Gras, sanfte grüne Hügel, hohe Bäume, blauer Himmel, kinematografische Tiefenschärfe.
-
-Szene 2: Die blaue Beere rutscht aus den Pfoten des Otters und rollt schnell einen sanften grasbewachsenen Hang hinunter. Der kleine braune Otter rennt hinterher und versucht verzweifelt, sie zu fangen. Die Kamera folgt der rollenden Beere mit einer geschmeidigen dynamischen Tracking-Aufnahme, während der Otter hinterherläuft.
-
-Szene 3: Die Beere rollt auf einen großen hohlen, umgestürzten Baumstamm zu, der auf der Wiese liegt, und bleibt nahe seinem Eingang stehen. Der braune Otter erreicht den Baum und schaut sich neugierig um, wondering where the berry went.
-
-Szene 4: Die Kamera bewegt sich nach oben durch die umliegenden Bäume in Richtung des hellen Sonnenlichts, das durch die Blätter scheint. Eine magische, friedliche Atmosphäre erfüllt die Szene mit leuchtenden Sonnenstrahlen, schwebenden Staubpartikeln und einem sanften Wind, der die Blätter bewegt.
-
-Szene 5: Ein zweiter niedlicher Babyotter erscheint – kleiner und grau gefärbt, mit weichem grauem Fell, einem rundlichen, plumpen Körper, riesigen ausdrucksstarken schwarzen Augen, rosigen Wangen und einem unschuldigen Ausdruck. Er kommt in der Nähe des umgestürzten Baums hervor und bemerkt den braunen Otter.
-
-Szene 6: Der graue und der braune Otter interagieren spielerisch in der Nähe des hohlen Baums. Sie betrachten einander mit Neugier und Überraschung und bewegen sich dann gemeinsam um den Baum herum. Halten Sie ihre Charakterdesigns im gesamten Video konsistent.
-
-Szene 7: Der graue Otter klettert auf einen nahen Ast und schaut sich um. Die Kamera folgt von hinten und leicht von unten, wobei die hellgrüne Waldkrone und das warme Sonnenlicht gezeigt werden, das durch die Blätter filtert.
-
-Szene 8: Der graue Otter lehnt an einem großen, moosbedeckten Felsen und sieht schläfrig und erschöpft aus. Seine Augen werden schwer, während er sich im warmen Sonnenlicht entspannt.
-
-Szene 9: Der graue Otter bemerkt plötzlich wieder die glänzende blaue Beere. Die Kamera schneidet auf eine Nahaufnahme, als er die Beere freudig mit beiden Pfoten aufhebt. Seine riesigen Augen funkeln vor Aufregung.
-
-Szene 10: Der graue Otter hält die blaue Beere stolz dicht an sein Gesicht und lächelt unschuldig. Der braune Otter nähert sich von hinten.
-
-Finale Szene: Der braune Otter springt sanft auf den grauen Otter zu einem spielerischen, liebevollen Umarmung. Sie fallen gemeinsam weich ins Gras neben der blauen Beere, lachen und kuscheln. Kleine leuchtende Funken erscheinen um sie herum, während sie friedlich auf der Wiese liegen.
-
-Visueller Stil: Premium kinematografische 3D-Animation, niedliche familienfreundliche Charaktere, weiches detailliertes Fell, ausdrucksstarke überdimensionierte Augen, abgerundete Proportionen, lebendige natürliche Umgebung, warmes goldenes Sonnenlicht, volumetrische Beleuchtung, realistisches Gras
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106198321689976833/img/0FVIL6MlJgFUsiBq.jpg" width="600" alt="Niedlicher Otter – 3D-Animkurzfilm">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11809)**
-
-**Autor:** [Zarnab Ai](https://x.com/Zarnab_with_Ai) | **Quelle:** [Link](https://x.com/Zarnab_with_Ai/status/2106198477533544868) | **Veröffentlicht:** Oct 3, 2026
-
----
-### Sci-Fi-Ozean-Aufstieg: Weltraumschlacht
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für einen hochintensiven Sci-Fi-Action-Kurzfilm, in dem eine Flotte auf einen fremden Planeten trifft, dessen gesamter Ozean ins All steigt und Kämpfe sowie das Auftauchen einer mysteriösen Struktur auslöst.
-
-#### 📝 Prompt
-
-```
-15-sekündiger kinematografischer, fotorealistischer Science-Fiction-Action-Kurzfilm, 16:9.
-Eine riesige menschliche Erkundungsflotte erreicht den Orbit über einem vollständig von Ozeanen bedeckten Alien-Planeten.
-Plötzlich beginnt der gesamte Ozean vom Planeten aufzusteigen.
-Keine Welle.
-Der GANZE OZEAN hebt sich als gewaltige kugelförmige Wassermasse ins All.
-The fleet scatters violently.
-Kampfraumjäger rasen zwischen gigantischen Wassersäulen hindurch, die sich vom Planeten bis in den Orbit erstrecken.
-Eine enorme Alien-Struktur beginnt unter dem freigelegten Meeresboden aufzutauchen.
-Feindliche Schiffe tauchen plötzlich auf und greifen an.
-Die menschlichen Jäger stürzen durch Hunderte Kilometer lange Wasserfälle, während Raketen an ihnen vorbeirasen.
-Ein Erkundungsschiff rast auf die auftauchende Struktur zu.
-Der Ozean steigt weiterhin um es herum an.
-Das Schiff betritt die Struktur, kurz bevor der gesamte Planet von einer kolossalen schwebenden Wasserkugel umgeben ist.
-Im Inneren der Struktur öffnet sich ein einzelnes riesiges künstliches Auge.
-
-SCHNITT AUF SCHWARZ.
-
-Fotorealistisch, atemberaubender planetarer Maßstab, extreme Bewegung, spektakuläre Weltraumkämpfe, enorme Wasserphysik, dynamische Kamerawinkel, kinematografisches Licht, intensive Eskalation, kein Text, keine Logos, kein Anime, kein Cartoon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106196933731659776/img/QTjMfzWCl_mIf5Nt.jpg" width="600" alt="Sci-Fi-Ozean-Aufstieg: Weltraumschlacht">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11817)**
-
-**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Quelle:** [Link](https://x.com/AllaAisling/status/2106197038043971937) | **Veröffentlicht:** Oct 3, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -5266,6 +5225,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-24T03:46:32.965Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-24T09:01:52.508Z</sub>
 
 </div>

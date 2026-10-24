@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6585** |
+| 📝 Toplam İstem | **6587** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-10-24** |
 
@@ -361,6 +361,44 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Sinematik Savaşçı Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dramatik ışıklandırma ve ağır çekim efektleriyle korkusuz bir savaşçının sinematik, ultra gerçekçi videosunu oluşturmak için bir istem.
+
+#### 📝 İstem
+
+```
+Keskin bakışlara, güçlü bir duruşa ve kendinden emin bir tavıra sahip korkusuz bir savaşçının sinematik, ultra gerçekçi bir videosunu oluşturun. Dramatik ışıklandırma, akıcı ağır çekim hareketler, detaylı dokular, karanlık ve atmosferik bir arka plan ile profesyonel renk düzenlemesi kullanın. 4K kalite, keskin odak, epik bir atmosfer ve görsel olarak büyüleyici sinematik bir final.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113848979058470912/img/toLQfOH68vyUJD9j.jpg" width="600" alt="Sinematik Savaşçı Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12967)**
+
+**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Yayınlandı:** Oct 24, 2026
+
+---
+### Güneşten Düşen Yüzen Adalar Seedance 2.0
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 ile oluşturulan, dişli yüzen adalara doğru güneşten düşmeyi gösteren bir video için istem.
+
+#### 📝 İstem
+
+```
+Güneşten dişli çarklardan oluşan süzülen adalara doğru düşerken ardında camgöbeği bir iz bırakıyor, ardından tek bir mavi göz tüm kareyi kaplıyor.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113525908065701888/pu/img/o4uirHvMrYyaolPq.jpg" width="600" alt="Güneşten Düşen Yüzen Adalar Seedance 2.0">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12968)**
+
+**Yazar:** [MxCaptures | AI VFX & Cinematic AI Artist](https://x.com/MxCaptures) | **Kaynak:** [Link](https://x.com/MxCaptures/status/2113525990592848305) | **Yayınlandı:** Oct 23, 2026
+
+---
 ### Seul Yaşam Tarzı Sinematik Film
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5111,85 +5149,6 @@ Sıcak, tozlu bir mahallede altın saatte geçen sinematik, ultra gerçekçi can
 **Yazar:** [Aynah](https://x.com/AynahhX) | **Kaynak:** [Link](https://x.com/AynahhX/status/2106206660582850732) | **Yayınlandı:** Oct 3, 2026
 
 ---
-### Sevimli Su Samuru 3D Animasyon Kısa Filmi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bebe su samurlarının çayırda geçtiği, bir yemişi kovalama, arkadaş bulma ve eğlenceli etkileşimleri içeren on sahneyi detaylandıran yüksek kaliteli sinematik 3D animasyon kısa filmi için bir istem.
-
-#### 📝 İstem
-
-```
-Güzel, güneşli bir çayırda sevimli, stilize edilmiş bebek su samuru benzeri orman yaratıklarının yer aldığı yüksek kaliteli sinematik bir 3D animasyon kısa filmi oluşturun.
-
-Sahne 1: Sevimli kahverengi bir bebek su samuru, yemyeşil bir çayırda duruyor ve iki patisiyle büyük, parlak mavi bir yemişi mutlu bir şekilde tutuyor. Yumuşak kahverengi tüyleri, yuvarlak tombul gövdesi, devasa parlak siyah gözleri, pembe yanakları ve boynunda küçük koyu renkli bir atkısı var. Karakter masum ve meraklı görünüyor. Sıcak sabah güneş ışığı, yumuşak çimenler, dalgalı yeşil tepeler, uzun ağaçlar, mavi gökyüzü, sinematik alan derinliği.
-
-Sahne 2: Mavi yemiş su samurunun patilerinden kayar ve hafif çimenli bir yokuştan hızla aşağı doğru yuvarlanır. Küçük kahverengi su samuru onu yakalamaya çalışarak arkasından koşar. Kamera, yuvarlanan yemişi pürüzsüz dinamik bir takip çekimiyle izlerken su samuru da arkasında koşar.
-
-Sahne 3: Yemiş, çayırda yatan büyük oyuk düşmüş bir ağaç gövdesine doğru yuvarlanır ve girişinin yakınında durur. Kahverengi su samuru ağaca ulaşır ve yemişin nereye gittiğini merak ederek etrafına bakar.
-
-Sahne 4: Kamera, yaprakların arasından süzülen parlak güneş ışığına doğru çevredeki ağaçların arasından yukarı hareket eder. Büyülü, huzurlu bir atmosfer, parlayan güneş ışınları, havada asılı duran toz zerrecikleri ve yaprakları hareket ettiren hafif rüzgar ile sahneyi doldurur.
-
-Sahne 5: İkinci bir sevimli bebek su samuru belirir — daha küçük ve gri renkli, yumuşak gri tüylere, yuvarlak tombul gövdeye, devasa ifade dolu siyah gözlere, pembe yanaklara ve masum bir ifadeye sahip. Düşmüş ağacın yakınından çıkar ve kahverengi su samurunu fark eder.
-
-Sahne 6: Gri su samuru ve kahverengi su samuru oyuk ağacın yanında neşeli bir şekilde etkileşime girer. Birbirlerine merak ve şaşkınlıkla bakarlar, ardından birlikte ağacın etrafında dolaşırlar. Karakter tasarımlarını tüm video boyunca tutarlı tutun.
-
-Sahne 7: Gri su samuru yakındaki bir ağaç dalına tırmanır ve etrafına bakar. Kamera arkadan ve biraz alttan takip eder; parlak yeşil orman örtüsünü ve yaprakların arasından süzülen sıcak güneş ışığını gösterir.
-
-Sahne 8: Gri su samuru, uykulu ve bitkin görünerek büyük, yosun kaplı bir kayaya yaslanır. Sıcak güneş ışığında rahatladıkça gözleri ağırlaşır.
-
-Sahne 9: Gri su samuru aniden parlak mavi yemişi tekrar fark eder. İki patisiyle yemişi mutlulukla alırken kamera yakın plana geçer. Devasa gözleri heyecandan parıldar.
-
-Sahne 10: Gri su samuru mavi yemişi gururla yüzüne yakın tutar ve masumca gülümser. Kahverengi su samuru arkadan yaklaşır.
-
-Son sahne: Kahverengi su samuru, neşeli ve şefkatli bir sarılma ile gri su samurunun üzerine nazikçe atlar. Birlikte mavi yemişin yanındaki çimlere yumuşakça yuvarlanırlar, güler ve birbirlerine sokulurlar. Çayırda huzurla uzanırken etraflarında küçük parlayan kıvılcımlar belirir.
-
-Görsel stil: premium sinematik 3D animasyon, sevimli aile dostu karakterler, yumuşak detaylı tüyler, ifade dolu aşırı büyük gözler, yuvarlak oranlar, canlı doğal ortam, sıcak altın rengi güneş ışığı, hacimsel aydınlatma, yumuşak gölgeler, gerçekçi çimenler
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106198321689976833/img/0FVIL6MlJgFUsiBq.jpg" width="600" alt="Sevimli Su Samuru 3D Animasyon Kısa Filmi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11809)**
-
-**Yazar:** [Zarnab Ai](https://x.com/Zarnab_with_Ai) | **Kaynak:** [Link](https://x.com/Zarnab_with_Ai/status/2106198477533544868) | **Yayınlandı:** Oct 3, 2026
-
----
-### Bilim Kurgu: Okyanusun Uzaya Yükseldiği Uzay Savaşı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir filonun, okyanusun tamamen uzaya yükseldiği ve bunun bir savaşı tetiklediği gizemli bir yapının ortaya çıkmasına neden olduğu bir gezegenle karşılaştığı yüksek tempolu bilim kurgu aksiyon kısa filmi için prompt.
-
-#### 📝 İstem
-
-```
-15 saniyelik sinematik fotogerçekçi bilim kurgu aksiyon kısa filmi, 16:9.
-Devasa insan keşif filosu, tamamen okyanuslarla kaplı bir yabancı gezegenin üzerinde belirir.
-Aniden tüm okyanus gezegenden yükselmeye başlar.
-Bu bir dalga değil.
-TÜM OKYANUS, devasa küresel bir su kütlesi olarak uzaya yükselir.
-Filo şiddetle dağılır.
-Savaş gemileri, gezegenden yörüngeye uzanan devasa su sütunları arasında yarışır.
-Açığa çıkan okyanus tabanının altından devasa bir yabancı yapı belirmeye başlar.
-Düşman gemileri aniden ortaya çıkar ve saldırıya geçer.
-İnsan savaşçıları yüzlerce kilometre uzunluğundaki şelalelerin arasından dalarak geçerken füzeler yanlarından hızla geçer.
-Bir keşif gemisi, beliren yapıya doğru hızla ilerler.
-Okyanus etrafında yükselmeye devam eder.
-Gemi, tüm gezegen devasa yüzen su küresiyle çevrelendiği anda yapıya girer.
-Yapının içinde tek bir devasa yapay göz açılır.
-
-KARARTIYA GEÇ.
-
-Fotogerçekçi, nefes kesici gezegen ölçeği, aşırı hareket, görkemli uzay savaşı, muazzam su fiziği, dinamik kamera açıları, sinematik aydınlatma, yoğun tırmanış, metin yok, logo yok, anime yok, çizgi film yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106196933731659776/img/QTjMfzWCl_mIf5Nt.jpg" width="600" alt="Bilim Kurgu: Okyanusun Uzaya Yükseldiği Uzay Savaşı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11817)**
-
-**Yazar:** [Alexandra Aisling](https://x.com/AllaAisling) | **Kaynak:** [Link](https://x.com/AllaAisling/status/2106197038043971937) | **Yayınlandı:** Oct 3, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -5251,6 +5210,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-24T03:46:39.026Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-24T09:01:57.144Z</sub>
 
 </div>

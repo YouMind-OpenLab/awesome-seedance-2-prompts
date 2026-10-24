@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6585** |
+| 📝 Total de prompts | **6587** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-10-24** |
 
@@ -361,6 +361,44 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Prompt de Video Cinematográfico de Guerrero
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar un video cinematográfico y ultra realista de un guerrero intrépido, con iluminación dramática y efectos en cámara lenta.
+
+#### 📝 Prompt
+
+```
+Crea un video cinematográfico y ultrarrealista de un guerrero intrépido con mirada intensa, presencia imponente y actitud segura. Usa iluminación dramática, movimientos fluidos en cámara lenta, texturas detalladas, un fondo oscuro y atmosférico, y corrección de color profesional. Calidad 4K, enfoque nítido, atmósfera épica y un acabado cinematográfico visualmente impactante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113848979058470912/img/toLQfOH68vyUJD9j.jpg" width="600" alt="Prompt de Video Cinematográfico de Guerrero">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12967)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Publicado:** Oct 24, 2026
+
+---
+### Caída desde las Islas Flotantes del Sol - Seedance 2.0
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para un video de caer desde el sol hacia islas flotantes de engranajes, generado con Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Cayendo desde el sol hacia islas flotantes de engranajes, dejando una estela cian a su paso, hasta que un ojo azul llena la pantalla.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113525908065701888/pu/img/o4uirHvMrYyaolPq.jpg" width="600" alt="Caída desde las Islas Flotantes del Sol - Seedance 2.0">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12968)**
+
+**Autor:** [MxCaptures | AI VFX & Cinematic AI Artist](https://x.com/MxCaptures) | **Fuente:** [Link](https://x.com/MxCaptures/status/2113525990592848305) | **Publicado:** Oct 23, 2026
+
+---
 ### Película Cinematográfica del Estilo de Vida en Seúl
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5109,85 +5147,6 @@ Crea una secuencia cinematográfica ultra realista de acción en vivo ambientada
 **Autor:** [Aynah](https://x.com/AynahhX) | **Fuente:** [Link](https://x.com/AynahhX/status/2106206660582850732) | **Publicado:** Oct 3, 2026
 
 ---
-### Corto animado 3D de una nutria adorable
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para un cortometraje animado en 3D de alta calidad cinematográfica, que presenta nutrias bebé en un prado, detallando diez escenas con persecución de bayas, encuentro con amigos e interacciones lúdicas.
-
-#### 📝 Prompt
-
-```
-Crea un cortometraje animado en 3D de alta calidad cinematográfica que presente adorables criaturas del bosque estilizadas, similares a nutrias bebé, en un hermoso prado soleado.
-
-Escena 1: Una tierna nutria bebé marrón está de pie en un exuberante prado verde, sosteniendo felizmente una gran baya azul brillante con ambas patas. Tiene pelaje suave y marrón, un cuerpo redondo y regordete, enormes ojos negros brillantes, mejillas rosadas y una pequeña bufanda oscura alrededor del cuello. El personaje parece inocente y curioso. Luz cálida de la mañana, hierba suave, colinas verdes onduladas, árboles altos, cielo azul, profundidad de campo cinematográfica.
-
-Escena 2: La baya azul se resbala de las patas de la nutria y rueda rápidamente por una suave pendiente cubierta de hierba. La pequeña nutria marrón corre tras ella, intentando desesperadamente atraparla. La cámara sigue la baya rodante con un plano de seguimiento dinámico y fluido mientras la nutria corre detrás.
-
-Escena 3: La baya rueda hacia el tronco hueco de un árbol caído que yace en el prado y se detiene cerca de su entrada. La nutria marrón llega al árbol y mira a su alrededor con curiosidad, preguntándose dónde fue la baya.
-
-Escena 4: La cámara se mueve hacia arriba a través de los árboles circundantes hacia la luz solar brillante que atraviesa las hojas. Una atmósfera mágica y pacífica llena la escena con rayos de sol luminosos, partículas de polvo flotantes y un viento suave que mueve las hojas.
-
-Escena 5: Aparece una segunda nutria bebé adorable — más pequeña y de color gris, con pelaje suave y gris, un cuerpo redondo y regordete, enormes ojos negros expresivos, mejillas rosadas y una expresión inocente. Sale cerca del árbol caído y nota a la nutria marrón.
-
-Escena 6: La nutria gris y la nutria marrón interactúan juguetonamente cerca del árbol hueco. Se miran con curiosidad y sorpresa, luego se mueven juntas alrededor del árbol. Mantén sus diseños de personajes consistentes durante todo el video.
-
-Escena 7: La nutria gris trepa a una rama cercana y mira a su alrededor. La cámara la sigue desde atrás y ligeramente por debajo, mostrando el dosel forestal verde brillante y la luz solar cálida filtrándose entre las hojas.
-
-Escena 8: La nutria gris descansa contra una gran roca cubierta de musgo, luciendo somnolienta y agotada. Sus ojos se vuelven pesados mientras se relaja bajo la luz solar cálida.
-
-Escena 9: La nutria gris nota repentinamente la baya azul brillante otra vez. La cámara corta a un primer plano mientras recoge felizmente la baya con ambas patas. Sus enormes ojos brillan con emoción.
-
-Escena 10: La nutria gris sostiene orgullosamente la baya azul cerca de su rostro y sonríe inocentemente. La nutria marrón se acerca desde atrás.
-
-Escena final: La nutria marrón salta suavemente sobre la nutria gris en un abrazo juguetón y afectuoso. Ruedan juntos suavemente sobre la hierba junto a la baya azul, riendo y acurrucándose. Pequeñas chispas luminosas aparecen a su alrededor mientras yacen pacíficamente en el prado.
-
-Estilo visual: animación 3D cinematográfica premium, personajes familiares y adorables, pelaje suave y detallado, ojos grandes y expresivos, proporciones redondeadas, entorno natural vibrante, luz solar dorada cálida, iluminación volumétrica, sombras suaves, hierba realista
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106198321689976833/img/0FVIL6MlJgFUsiBq.jpg" width="600" alt="Corto animado 3D de una nutria adorable">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11809)**
-
-**Autor:** [Zarnab Ai](https://x.com/Zarnab_with_Ai) | **Fuente:** [Link](https://x.com/Zarnab_with_Ai/status/2106198477533544868) | **Publicado:** Oct 3, 2026
-
----
-### Batalla Espacial de Ciencia Ficción: El Océano Ascendente
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para un corto de acción de ciencia ficción de alta intensidad que muestra una flota que encuentra un planeta alienígena donde todo el océano se eleva hacia el espacio, desencadenando combate y la emergencia de una estructura misteriosa.
-
-#### 📝 Prompt
-
-```
-Corto cinematográfico de acción de ciencia ficción fotorrealista de 15 segundos, formato 16:9.
-Una enorme flota de exploración humana llega sobre un planeta alienígena cubierto completamente por océanos.
-De repente, todo el océano comienza a elevarse desde el planeta.
-No es una ola.
-EL OCÉANO ENTERO se eleva al espacio como una masa esférica gigantesca de agua.
-La flota se dispersa violentamente.
-Naves de combate vuelan entre columnas colosales de agua que se extienden desde el planeta hasta la órbita.
-Una estructura alienígena inmensa comienza a emerger desde debajo del lecho marino expuesto.
-Naves enemigas aparecen repentinamente y atacan.
-Los cazas humanos se sumergen en cascadas de cientos de kilómetros mientras los misiles pasan rozándolos.
-Una nave de exploración se dirige rápidamente hacia la estructura emergente.
-El océano sigue elevándose a su alrededor.
-La nave entra en la estructura justo antes de que el planeta entero quede rodeado por una esfera flotante colosal de agua.
-Dentro de la estructura, se abre un único ojo artificial gigante.
-
-CORTE A NEGRO.
-
-Fotorrealista, escala planetaria impresionante, movimiento extremo, combate espacial espectacular, física del agua masiva, ángulos de cámara dinámicos, iluminación cinematográfica, escalada intensa, sin texto, sin logotipos, sin anime, sin dibujos animados.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106196933731659776/img/QTjMfzWCl_mIf5Nt.jpg" width="600" alt="Batalla Espacial de Ciencia Ficción: El Océano Ascendente">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11817)**
-
-**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fuente:** [Link](https://x.com/AllaAisling/status/2106197038043971937) | **Publicado:** Oct 3, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -5249,6 +5208,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-24T03:46:31.933Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-24T09:01:51.733Z</sub>
 
 </div>

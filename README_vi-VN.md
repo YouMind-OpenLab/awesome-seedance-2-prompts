@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6585** |
+| 📝 Tổng số prompt | **6587** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-10-24** |
 
@@ -361,6 +361,44 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Prompt Video Chiến Binh Điện Ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video chiến binh điện ảnh siêu thực với ánh sáng kịch tính và hiệu ứng slow-motion.
+
+#### 📝 Prompt
+
+```
+Tạo một video siêu chân thực mang đậm chất điện ảnh về một chiến binh quả cảm với ánh mắt sắc lạnh, khí chất mạnh mẽ và phong thái đầy tự tin. Sử dụng ánh sáng kịch tính, các chuyển động chậm mượt mà, chi tiết bề mặt sắc nét, phông nền tối đầy tâm trạng cùng kỹ thuật chỉnh màu chuyên nghiệp. Chất lượng 4K, lấy nét chuẩn xác, không khí hào hùng và hiệu ứng thị giác điện ảnh mãn nhãn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113848979058470912/img/toLQfOH68vyUJD9j.jpg" width="600" alt="Prompt Video Chiến Binh Điện Ảnh">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12967)**
+
+**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Đã xuất bản:** Oct 24, 2026
+
+---
+### Rơi Từ Mặt Trời Xuống Đảo Nổi - Seedance 2.0
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả (prompt) cho video quay cảnh rơi từ mặt trời xuống những hòn đảo nổi chứa đầy bánh răng, được tạo bằng Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Rơi từ mặt trời về phía những hòn đảo bánh răng lơ lửng, để lại phía sau một vệt sáng xanh lục, rồi một con mắt màu xanh lam choán trọn khung hình.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113525908065701888/pu/img/o4uirHvMrYyaolPq.jpg" width="600" alt="Rơi Từ Mặt Trời Xuống Đảo Nổi - Seedance 2.0">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12968)**
+
+**Tác giả:** [MxCaptures | AI VFX & Cinematic AI Artist](https://x.com/MxCaptures) | **Nguồn:** [Link](https://x.com/MxCaptures/status/2113525990592848305) | **Đã xuất bản:** Oct 23, 2026
+
+---
 ### Phim điện ảnh phong cách sống Seoul
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5119,85 +5157,6 @@ Tạo một chuỗi hành động trực tiếp (live-action) mang tính điện
 **Tác giả:** [Aynah](https://x.com/AynahhX) | **Nguồn:** [Link](https://x.com/AynahhX/status/2106206660582850732) | **Đã xuất bản:** Oct 3, 2026
 
 ---
-### Phim Ngắn Hoạt Hình 3D Dễ Thương Về Rái Cá
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt cho một phim ngắn hoạt hình 3D điện ảnh chất lượng cao, kể về những chú rái cá con trong đồng cỏ, với chi tiết mười cảnh bao gồm đuổi theo quả mọng, gặp bạn và các tương tác vui nhộn.
-
-#### 📝 Prompt
-
-```
-Tạo một phim ngắn hoạt hình 3D điện ảnh chất lượng cao, nổi bật với những sinh vật rừng nhỏ nhắn, dễ thương mang phong cách rái cá trong một đồng cỏ đầy nắng tuyệt đẹp.
-
-Cảnh 1: Một chú rái cá nâu dễ thương đứng giữa đồng cỏ xanh mướt, vui vẻ ôm một quả mọng xanh dương to lớn, bóng bẩy bằng cả hai bàn tay. Chú có bộ lông nâu mềm mại, thân hình tròn trịa mũm mĩm, đôi mắt đen láy to tròn lấp lánh, má hồng hào và chiếc khăn quàng cổ tối màu nhỏ xinh quanh cổ. Nhân vật trông ngây thơ và tò mò. Ánh nắng buổi sáng ấm áp, cỏ mềm, đồi xanh nhấp nhô, cây cao vút, bầu trời xanh thẳm, độ sâu trường ảnh kiểu điện ảnh.
-
-Cảnh 2: Quả mọng xanh dương trượt khỏi tay chú rái cá và lăn nhanh xuống sườn dốc cỏ thoai thoải. Chú rái cá nâu nhỏ chạy theo sau, cố gắng hết sức để bắt lại nó. Camera di chuyển mượt mà theo quả mọng đang lăn với góc quay tracking động, trong khi chú rái cá chạy phía sau.
-
-Cảnh 3: Quả mọng lăn về phía một thân cây đổ rỗng lớn nằm trên đồng cỏ và dừng lại gần cửa hang. Chú rái cá nâu đến bên gốc cây, tò mò nhìn quanh, tự hỏi quả mọng đã đi đâu.
-
-Cảnh 4: Camera di chuyển lên cao qua những tán cây xung quanh hướng về ánh nắng rực rỡ xuyên qua kẽ lá. Bầu không khí kỳ diệu, yên bình bao trùm cảnh quay với tia nắng lung linh, hạt bụi lơ lửng và gió nhẹ lay động lá cây.
-
-Cảnh 5: Một chú rái cá con thứ hai xuất hiện — nhỏ hơn và có màu xám, với bộ lông xám mềm mại, thân hình tròn trịa mũm mĩm, đôi mắt đen biểu cảm to tròn, má hồng hào và vẻ mặt ngây thơ. Nó bước ra từ gần gốc cây đổ và nhận thấy chú rái cá nâu.
-
-Cảnh 6: Chú rái cá xám và rái cá nâu tương tác vui vẻ gần gốc cây rỗng. Chúng nhìn nhau với sự tò mò và ngạc nhiên, rồi cùng nhau di chuyển quanh gốc cây. Giữ nguyên thiết kế nhân vật nhất quán trong suốt toàn bộ video.
-
-Cảnh 7: Chú rái cá xám leo lên một cành cây gần đó và nhìn quanh. Camera theo dõi từ phía sau và hơi thấp hơn, hiển thị tán rừng xanh tươi sáng và ánh nắng ấm áp lọc qua kẽ lá.
-
-Cảnh 8: Chú rái cá xám tựa vào một tảng đá lớn phủ đầy rêu, trông buồn ngủ và kiệt sức. Đôi mắt nó nặng dần khi thư giãn dưới ánh nắng ấm áp.
-
-Cảnh 9: Chú rái cá xám đột nhiên nhận ra quả mọng xanh dương bóng bẩy một lần nữa. Camera cắt sang cận cảnh khi nó vui vẻ nhặt quả mọng lên bằng cả hai bàn tay. Đôi mắt to tròn của nó lấp lánh vì phấn khích.
-
-Cảnh 10: Chú rái cá xám tự tin giữ quả mọng xanh dương sát mặt và mỉm cười ngây thơ. Chú rái cá nâu tiến lại từ phía sau.
-
-Cảnh cuối: Chú rái cá nâu nhẹ nhàng nhảy lên người chú rái cá xám trong một cái ôm vui vẻ, trìu mến. Chúng cùng lăn nhẹ xuống cỏ bên cạnh quả mọng xanh dương, cười đùa và âu yếm nhau. Những tia sáng lấp lánh nhỏ xuất hiện xung quanh khi chúng nằm yên bình trên đồng cỏ.
-
-Phong cách hình ảnh: hoạt hình 3D điện ảnh cao cấp, nhân vật gia đình dễ thương, lông chi tiết mềm mại, đôi mắt quá khổ biểu cảm, tỷ lệ tròn trịa, môi trường thiên nhiên sống động, ánh nắng vàng ấm áp, chiếu sáng thể tích (volumetric lighting), bóng đổ mềm mại, cỏ thực tế và
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106198321689976833/img/0FVIL6MlJgFUsiBq.jpg" width="600" alt="Phim Ngắn Hoạt Hình 3D Dễ Thương Về Rái Cá">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11809)**
-
-**Tác giả:** [Zarnab Ai](https://x.com/Zarnab_with_Ai) | **Nguồn:** [Link](https://x.com/Zarnab_with_Ai/status/2106198477533544868) | **Đã xuất bản:** Oct 3, 2026
-
----
-### Trận Chiến Không Gian Khoa Học Viễn Tưởng: Đại Dương Bay Vào Vũ Trụ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt cho phim ngắn hành động khoa học viễn tưởng cường độ cao, kể về một hạm đội gặp phải một hành tinh ngoài hành tinh nơi toàn bộ đại dương bay lên không gian, kích hoạt các cuộc chiến và sự xuất hiện của một cấu trúc bí ẩn.
-
-#### 📝 Prompt
-
-```
-Phim ngắn hành động khoa học viễn tưởng điện ảnh chân thực 15 giây, tỷ lệ khung hình 16:9.
-Một hạm đội thám hiểm khổng lồ của con người đến phía trên một hành tinh ngoài hành tinh được bao phủ hoàn toàn bởi đại dương.
-Đột nhiên, toàn bộ đại dương bắt đầu dâng lên khỏi bề mặt hành tinh.
-Không phải là một con sóng.
-Toàn BỘ ĐẠI DƯƠNG nâng lên vào không gian như một khối nước cầu khổng lồ.
-Hạm đội tan tác dữ dội.
-Các tàu chiến đấu nhỏ lao nhanh giữa những cột nước khổng lồ vươn từ hành tinh lên quỹ đạo.
-Một cấu trúc ngoài hành tinh khổng lồ bắt đầu trồi lên từ dưới đáy đại dương bị lộ ra.
-Các tàu địch đột ngột xuất hiện và tấn công.
-Các phi thuyền chiến đấu của con người lặn xuyên qua những thác nước dài hàng trăm km trong khi tên lửa vút qua bên cạnh chúng.
-Một tàu thám hiểm lao thẳng về phía cấu trúc đang trỗi dậy.
-Đại dương tiếp tục dâng lên xung quanh nó.
-Con tàu tiến vào cấu trúc ngay trước khi toàn bộ hành tinh bị bao quanh bởi một quả cầu nước khổng lồ lơ lửng.
-Bên trong cấu trúc, một con mắt nhân tạo đơn lẻ nhưng cực kỳ to lớn mở ra.
-
-CẮT ĐEN.
-
-Chân thực, quy mô hành tinh ngoạn mục, chuyển động cực đoan, trận chiến không gian spectacular, vật lý nước khổng lồ, góc quay năng động, ánh sáng điện ảnh, leo thang căng thẳng, không có văn bản, không có logo, không anime, không hoạt hình.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106196933731659776/img/QTjMfzWCl_mIf5Nt.jpg" width="600" alt="Trận Chiến Không Gian Khoa Học Viễn Tưởng: Đại Dương Bay Vào Vũ Trụ">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11817)**
-
-**Tác giả:** [Alexandra Aisling](https://x.com/AllaAisling) | **Nguồn:** [Link](https://x.com/AllaAisling/status/2106197038043971937) | **Đã xuất bản:** Oct 3, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -5259,6 +5218,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-24T03:46:28.142Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-24T09:01:48.510Z</sub>
 
 </div>

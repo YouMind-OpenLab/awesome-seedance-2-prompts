@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6585** |
+| 📝 Totale prompt | **6587** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-10-24** |
 
@@ -361,6 +361,44 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Prompt Video Cinematografico Guerriero
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per generare un video cinematografico ultra-realistico di un guerriero senza paura, con illuminazione drammatica ed effetti slow-motion.
+
+#### 📝 Prompt
+
+```
+Crea un video cinematografico e ultra-realistico di un guerriero impavido dallo sguardo intenso, una presenza imponente e un atteggiamento sicuro di sé. Utilizza un'illuminazione drammatica, movimenti fluidi al rallentatore, texture dettagliate, uno sfondo scuro e ricco di atmosfera e una color grading professionale. Qualità 4K, messa a fuoco nitida, atmosfera epica e un risultato finale cinematografico visivamente mozzafiato.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113848979058470912/img/toLQfOH68vyUJD9j.jpg" width="600" alt="Prompt Video Cinematografico Guerriero">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12967)**
+
+**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Pubblicato:** Oct 24, 2026
+
+---
+### Caduta dalle Isole Fluttuanti del Sole - Seedance 2.0
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per un video che mostra la caduta dal sole verso isole fluttuanti di ingranaggi, generato con Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+In caduta dal sole verso isole fluttuanti di ingranaggi, una scia ciano alle sue spalle, poi un unico occhio blu a riempire l'inquadratura.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113525908065701888/pu/img/o4uirHvMrYyaolPq.jpg" width="600" alt="Caduta dalle Isole Fluttuanti del Sole - Seedance 2.0">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12968)**
+
+**Autore:** [MxCaptures | AI VFX & Cinematic AI Artist](https://x.com/MxCaptures) | **Fonte:** [Link](https://x.com/MxCaptures/status/2113525990592848305) | **Pubblicato:** Oct 23, 2026
+
+---
 ### Film Cinematografico Lifestyle Seoul
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5118,85 +5156,6 @@ Crea una sequenza live-action cinematografica e ultra-realistica ambientata in u
 **Autore:** [Aynah](https://x.com/AynahhX) | **Fonte:** [Link](https://x.com/AynahhX/status/2106206660582850732) | **Pubblicato:** Oct 3, 2026
 
 ---
-### Cortometraggio Animato 3D di Una Tenera Lontra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per un cortometraggio animato 3D di alta qualità cinematografica, che presenta cuccioli di lontra in un prato, dettagliando dieci scene che coinvolgono l'inseguimento di una bacca, l'incontro con un amico e interazioni giocose.
-
-#### 📝 Prompt
-
-```
-Crea un cortometraggio animato 3D di alta qualità cinematografica che presenta adorabili creature stilizzate simili a lontre cucciole in un bellissimo prato soleggiato.
-
-Scena 1: Una tenera lontra marrone sta in piedi in un rigoglioso prato verde, tenendo felicemente una grande bacca blu lucida con entrambe le zampe. Ha un morbido pelo marrone, un corpo rotondo e paffuto, enormi occhi neri lucidi, guance rosee e una piccola sciarpa scura intorno al collo. Il personaggio appare innocente e curioso. Luce solare calda del mattino, erba morbida, colline verdi ondulate, alberi alti, cielo azzurro, profondità di campo cinematografica.
-
-Scena 2: La bacca blu scivola dalle zampe della lontra e rotola velocemente giù per un dolce pendio erboso. La piccola lontra marrone la insegue, cercando disperatamente di prenderla. La telecamera segue la bacca che rotola con una ripresa dinamica fluida mentre la lontra corre dietro ad essa.
-
-Scena 3: La bacca rotola verso un grande tronco d'albero cavo caduto nel prato e si ferma vicino all'ingresso. La lontra marrone raggiunge l'albero e si guarda intorno curiosa, chiedendosi dove sia finita la bacca.
-
-Scena 4: La telecamera si muove verso l'alto attraverso gli alberi circostanti verso la luce brillante del sole che filtra attraverso le foglie. Un'atmosfera magica e pacifica riempie la scena con raggi solari luminosi, particelle di polvere fluttuanti e una brezza leggera che muove le foglie.
-
-Scena 5: Appare una seconda adorabile lontra cucciola — più piccola e di colore grigio, con un morbido pelo grigio, un corpo rotondo e paffuto, enormi occhi espressivi neri, guance rosee e un'espressione innocente. Esce vicino all'albero caduto e nota la lontra marrone.
-
-Scena 6: La lontra grigia e quella marrone interagiscono giocosamente vicino all'albero cavo. Si guardano l'un l'altra con curiosità e sorpresa, poi si muovono attorno all'albero insieme. Mantieni i design dei personaggi coerenti per tutto il video.
-
-Scena 7: La lontra grigia si arrampica su un ramo d'albero vicino e si guarda intorno. La telecamera la segue da dietro e leggermente dal basso, mostrando la chioma verde brillante della foresta e la luce solare calda che filtra attraverso le foglie.
-
-Scena 8: La lontra grigia si appoggia contro una grande roccia coperta di muschio, sembrando assonnata ed esausta. I suoi occhi diventano pesanti mentre si rilassa nella luce calda del sole.
-
-Scena 9: La lontra grigia nota improvvisamente di nuovo la bacca blu lucida. La telecamera taglia su un primo piano mentre la raccoglie felicemente con entrambe le zampe. I suoi enormi occhi brillano di entusiasmo.
-
-Scena 10: La lontra grigia tiene orgogliosamente la bacca blu vicino al viso e sorride innocentemente. La lontra marrone si avvicina da dietro.
-
-Scena finale: La lontra marrone salta delicatamente sulla lontra grigia in un abbraccio giocoso e affettuoso. Rotolano dolcemente sull'erba insieme accanto alla bacca blu, ridendo e coccolandosi. Piccole scintille luminose appaiono intorno a loro mentre giacciono pacificamente nel prato.
-
-Stile visivo: animazione 3D cinematografica premium, personaggi adorabili adatti alle famiglie, pelo morbido e dettagliato, occhi espressivi sovradimensionati, proporzioni arrotondate, ambiente naturale vibrante, luce solare dorata calda, illuminazione volumetrica, ombre morbide, erba realistica
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106198321689976833/img/0FVIL6MlJgFUsiBq.jpg" width="600" alt="Cortometraggio Animato 3D di Una Tenera Lontra">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11809)**
-
-**Autore:** [Zarnab Ai](https://x.com/Zarnab_with_Ai) | **Fonte:** [Link](https://x.com/Zarnab_with_Ai/status/2106198477533544868) | **Pubblicato:** Oct 3, 2026
-
----
-### Battaglia spaziale sci-fi: l'oceano che sale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per un cortometraggio d'azione sci-fi ad alta intensità: una flotta incontra un pianeta alieno dove l'intero oceano si solleva nello spazio, innescando combattimenti e l'emergere di una struttura misteriosa.
-
-#### 📝 Prompt
-
-```
-Cortometraggio d'azione fantascientifico fotorealistico da 15 secondi, formato 16:9.
-Un'enorme flotta di esplorazione umana arriva sopra un pianeta alieno completamente coperto dall'oceano.
-Improvvisamente l'intero oceano inizia a sollevarsi dal pianeta.
-Non è un'onda.
-L'INTERO OCEANO si solleva nello spazio come un'enorme massa sferica d'acqua.
-La flotta si disperde violentemente.
-Caccia spaziali sfrecciano tra gigantesche colonne d'acqua che si estendono dal pianeta fino all'orbita.
-Un'enorme struttura aliena inizia a emergere da sotto il fondale oceanico esposto.
-Navi nemiche appaiono improvvisamente e attaccano.
-I caccia umani si tuffano attraverso cascate lunghe centinaia di chilometri mentre missili li oltrepassano a tutta velocità.
-Una nave di esplorazione corre verso la struttura in emersione.
-L'oceano continua a sollevarsi attorno ad essa.
-La nave entra nella struttura proprio prima che l'intero pianeta venga circondato da una colossale sfera galleggiante d'acqua.
-All'interno della struttura, un singolo enorme occhio artificiale si apre.
-
-STACCO AL NERO.
-
-Fotorealistico, scala planetaria mozzafiato, movimento estremo, spettacolare battaglia spaziale, fisica dell'acqua imponente, angolazioni dinamiche della telecamera, illuminazione cinematografica, escalation intensa, senza testo, senza loghi, no anime, no cartoni animati.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106196933731659776/img/QTjMfzWCl_mIf5Nt.jpg" width="600" alt="Battaglia spaziale sci-fi: l'oceano che sale">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11817)**
-
-**Autore:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fonte:** [Link](https://x.com/AllaAisling/status/2106197038043971937) | **Pubblicato:** Oct 3, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -5258,6 +5217,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-24T03:46:35.167Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-24T09:01:54.051Z</sub>
 
 </div>

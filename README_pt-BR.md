@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6585** |
+| 📝 Total de prompts | **6587** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-10-24** |
 
@@ -361,6 +361,44 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Prompt de Vídeo Cinematográfico de Guerreiro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar um vídeo cinematográfico ultra-realista de um guerreiro destemido, com iluminação dramática e efeitos em câmera lenta.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo cinematográfico e ultrarrealista de um guerreiro destemido, com olhar intenso, presença marcante e atitude confiante. Use iluminação dramática, movimentos fluidos em câmera lenta, texturas detalhadas, fundo escuro e atmosférico, além de color grading profissional. Qualidade 4K, foco nítido, clima épico e um acabamento cinematográfico visualmente deslumbrante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113848979058470912/img/toLQfOH68vyUJD9j.jpg" width="600" alt="Prompt de Vídeo Cinematográfico de Guerreiro">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12967)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Publicado:** Oct 24, 2026
+
+---
+### Queda das Ilhas Flutuantes do Sol - Seedance 2.0
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para um vídeo de queda do sol em direção a ilhas flutuantes de engrenagens, gerado com Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Caindo do sol em direção a ilhas flutuantes de engrenagens, deixando um rastro ciano atrás de si, até que um olho azul preenche toda a tela.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113525908065701888/pu/img/o4uirHvMrYyaolPq.jpg" width="600" alt="Queda das Ilhas Flutuantes do Sol - Seedance 2.0">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12968)**
+
+**Autor:** [MxCaptures | AI VFX & Cinematic AI Artist](https://x.com/MxCaptures) | **Fonte:** [Link](https://x.com/MxCaptures/status/2113525990592848305) | **Publicado:** Oct 23, 2026
+
+---
 ### Filme Cinematográfico Estilo de Vida em Seul
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5132,85 +5170,6 @@ Crie uma sequência cinematográfica ultra-realista em live-action, ambientada e
 **Autor:** [Aynah](https://x.com/AynahhX) | **Fonte:** [Link](https://x.com/AynahhX/status/2106206660582850732) | **Publicado:** Oct 3, 2026
 
 ---
-### Curto-metragem de animação 3D com uma lontra fofa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para um curta-metragem de animação 3D cinematográfico e de alta qualidade, apresentando filhotes de lontra em um prado, detalhando dez cenas que envolvem perseguir uma fruta vermelha, conhecer um amigo e interações lúdicas.
-
-#### 📝 Prompt
-
-```
-Crie um curta-metragem de animação 3D cinematográfico e de alta qualidade, apresentando adoráveis criaturas florestais estilizadas semelhantes a filhotes de lontra em um belo prado ensolarado.
-
-Cena 1: Uma lontra marrom fofa está parada em um prado verde exuberante, segurando felizmente uma grande fruta azul brilhante com as duas patas. Ela tem pelo macio castanho, corpo redondo e rechonchudo, olhos grandes e brilhantes pretos, bochechas rosadas e um pequeno cachecol escuro ao redor do pescoço. O personagem parece inocente e curioso. Luz solar quente da manhã, grama macia, colinas verdes ondulantes, árvores altas, céu azul, profundidade de campo cinematográfica.
-
-Cena 2: A fruta azul escorrega das patas da lontra e rola rapidamente por uma suave encosta gramada. A pequena lontra marrom corre atrás dela, tentando desesperadamente alcançá-la. A câmera segue a fruta rolando com um plano de acompanhamento dinâmico e suave enquanto a lontra corre atrás.
-
-Cena 3: A fruta rola em direção a um grande tronco de árvore caído e oco no prado e para perto de sua entrada. A lontra marrom chega à árvore e olha ao redor curiosamente, perguntando-se onde a fruta foi parar.
-
-Cena 4: A câmera sobe através das árvores circundantes em direção à luz solar brilhante que atravessa as folhas. Uma atmosfera mágica e pacífica preenche a cena com raios de sol luminosos, partículas de poeira flutuantes e um vento suave movendo as folhas.
-
-Cena 5: Um segundo filhote de lontra adorável aparece — menor e cinza, com pelo cinza macio, corpo redondo e rechonchudo, olhos grandes e expressivos pretos, bochechas rosadas e uma expressão inocente. Ele sai perto da árvore caída e percebe a lontra marrom.
-
-Cena 6: A lontra cinza e a lontra marrom interagem de forma lúdica perto da árvore oca. Elas se olham com curiosidade e surpresa, depois circulam juntas pela árvore. Mantenha os designs dos personagens consistentes durante todo o vídeo.
-
-Cena 7: A lontra cinza sobe em um galho de árvore próximo e olha ao redor. A câmera a segue por trás e ligeiramente abaixo, mostrando a copa verde brilhante da floresta e a luz solar quente filtrando pelas folhas.
-
-Cena 8: A lontra cinza descansa contra uma grande rocha coberta de musgo, parecendo sonolenta e exausta. Seus olhos ficam pesados enquanto ela relaxa na luz solar quente.
-
-Cena 9: A lontra cinza subitamente nota novamente a fruta azul brilhante. A câmera corta para um close-up enquanto ela pega felizmente a fruta com as duas patas. Seus enormes olhos brilham de entusiasmo.
-
-Cena 10: A lontra cinza segura orgulhosamente a fruta azul perto do rosto e sorri inocentemente. A lontra marrom se aproxima por trás.
-
-Cena final: A lontra marrom pula suavemente sobre a lontra cinza em um abraço lúdico e afetuoso. Eles rolam suavemente na grama juntos ao lado da fruta azul, rindo e se aninhando. Pequelhas faíscas luminosas aparecem ao redor deles enquanto descansam pacificamente no prado.
-
-Estilo visual: animação 3D cinematográfica premium, personagens adoráveis para toda a família, pelo macio e detalhado, olhos grandes e expressivos, proporções arredondadas, ambiente natural vibrante, luz solar dourada quente, iluminação volumétrica, sombras suaves, grama realista
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106198321689976833/img/0FVIL6MlJgFUsiBq.jpg" width="600" alt="Curto-metragem de animação 3D com uma lontra fofa">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11809)**
-
-**Autor:** [Zarnab Ai](https://x.com/Zarnab_with_Ai) | **Fonte:** [Link](https://x.com/Zarnab_with_Ai/status/2106198477533544868) | **Publicado:** Oct 3, 2026
-
----
-### Batalha Espacial Sci-Fi: Ascensão do Oceano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para um curta de ação sci-fi de alta intensidade, onde uma frota encontra um planeta alienígena cujo oceano inteiro se eleva ao espaço, desencadeando combate e a emergência de uma estrutura misteriosa.
-
-#### 📝 Prompt
-
-```
-Curta-metragem cinematográfico de ficção científica realista de 15 segundos, formato 16:9.
-Uma enorme frota de exploração humana chega acima de um planeta alienígena completamente coberto por oceanos.
-De repente, todo o oceano começa a subir do planeta.
-Não é uma onda.
-O OCEANO INTEIRO se eleva ao espaço como uma imensa massa esférica de água.
-A frota se dispersa violentamente.
-Caças espaciais disputam corrida entre colunas gigantescas de água que se estendem do planeta até a órbita.
-Uma estrutura alienígena colossal começa a emergir de sob o leito oceânico exposto.
-Naves inimigas surgem subitamente e atacam.
-Os caças humanos mergulham através de cachoeiras com centenas de quilômetros de extensão enquanto mísseis passam rentes a eles.
-Uma nave de exploração corre em direção à estrutura emergente.
-O oceano continua subindo ao seu redor.
-A nave entra na estrutura pouco antes de o planeta inteiro ser cercado por uma esfera colossal de água flutuante.
-Dentro da estrutura, um único olho artificial gigantesco se abre.
-
-CORTA PARA PRETO.
-
-Fotorrealista, escala planetária de tirar o fôlego, movimento extremo, combate espacial espetacular, física da água em grande escala, ângulos de câmera dinâmicos, iluminação cinematográfica, escalada intensa, sem texto, sem logos, sem anime, sem desenho animado.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106196933731659776/img/QTjMfzWCl_mIf5Nt.jpg" width="600" alt="Batalha Espacial Sci-Fi: Ascensão do Oceano">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11817)**
-
-**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fonte:** [Link](https://x.com/AllaAisling/status/2106197038043971937) | **Publicado:** Oct 3, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -5272,6 +5231,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-24T03:46:36.310Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-24T09:01:55.008Z</sub>
 
 </div>

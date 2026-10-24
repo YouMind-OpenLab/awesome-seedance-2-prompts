@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6585** |
+| 📝 Total des prompts | **6587** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-10-24** |
 
@@ -361,6 +361,44 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Prompt Vidéo Cinématographique de Guerrier
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une vidéo cinématographique ultra-réaliste d'un guerrier intrépide, avec un éclairage dramatique et des effets au ralenti.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo cinématographique et ultra-réaliste mettant en scène un guerrier intrépide au regard perçant, à la présence imposante et à l'attitude assurée. Misez sur un éclairage dramatique, des mouvements fluides au ralenti, des textures d'une grande finesse, un arrière-plan sombre et atmosphérique, ainsi qu'un étalonnage des couleurs professionnel. Qualité 4K, netteté parfaite, ambiance épique et rendu visuel époustouflant digne des plus grands films.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113848979058470912/img/toLQfOH68vyUJD9j.jpg" width="600" alt="Prompt Vidéo Cinématographique de Guerrier">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12967)**
+
+**Auteur:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Publié:** Oct 24, 2026
+
+---
+### Chute depuis les îles flottantes du soleil Seedance 2.0
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour une vidéo montrant la chute depuis le soleil vers des îles flottantes composées d'engrenages, générée avec Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Tombant du soleil vers des îles flottantes d'engrenages, une traînée cyan dans son sillage, puis un œil bleu emplissant tout le cadre.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113525908065701888/pu/img/o4uirHvMrYyaolPq.jpg" width="600" alt="Chute depuis les îles flottantes du soleil Seedance 2.0">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12968)**
+
+**Auteur:** [MxCaptures | AI VFX & Cinematic AI Artist](https://x.com/MxCaptures) | **Source:** [Link](https://x.com/MxCaptures/status/2113525990592848305) | **Publié:** Oct 23, 2026
+
+---
 ### Film cinématographique sur le mode de vie à Séoul
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5063,85 +5101,6 @@ Créez une séquence cinématographique ultra-réaliste en prises de vue réelle
 **Auteur:** [Aynah](https://x.com/AynahhX) | **Source:** [Link](https://x.com/AynahhX/status/2106206660582850732) | **Publié:** Oct 3, 2026
 
 ---
-### Court métrage d'animation 3D : La Loutre Mignonne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour un court métrage d'animation 3D cinématographique de haute qualité mettant en scène des bébés loutres dans une prairie, détaillant dix scènes impliquant la poursuite d'une baie, la rencontre d'un ami et des interactions ludiques.
-
-#### 📝 Prompt
-
-```
-Créez un court métrage d'animation 3D cinématographique de haute qualité mettant en scène d'adorables créatures stylisées ressemblant à des bébés loutres dans une magnifique prairie baignée de soleil.
-
-Scène 1 : Une mignonne petite loutre brune se tient dans une prairie verdoyante luxuriante, tenant joyeusement une grande baie bleue brillante avec ses deux pattes. Elle a une fourrure brune douce, un corps rond et dodu, d'immenses yeux noirs brillants, des joues roses et une petite écharpe foncée autour du cou. Le personnage semble innocent et curieux. Lumière chaude du matin, herbe douce, collines vertes ondulantes, grands arbres, ciel bleu, profondeur de champ cinématographique.
-
-Scène 2 : La baie bleue glisse des pattes de la loutre et roule rapidement le long d'une pente herbeuse douce. La petite loutre brune court après elle, essayant désespérément de l'attraper. La caméra suit la baie qui roule avec un plan suivi dynamique fluide tandis que la loutre court derrière.
-
-Scène 3 : La baie roule vers un grand tronc d'arbre creux tombé dans la prairie et s'arrête près de son entrée. La loutre brune atteint l'arbre et regarde autour d'elle avec curiosité, se demandant où est passée la baie.
-
-Scène 4 : La caméra monte à travers les arbres environnants vers la lumière vive du soleil filtrant à travers les feuilles. Une atmosphère magique et paisible emplit la scène avec des rayons de soleil lumineux, des particules de poussière flottantes et un vent léger faisant bouger les feuilles.
-
-Scène 5 : Une deuxième adorable petite loutre apparaît — plus petite et de couleur grise, avec une fourrure grise douce, un corps rond et dodu, d'immenses yeux noirs expressifs, des joues roses et une expression innocente. Elle sort près de l'arbre tombé et remarque la loutre brune.
-
-Scène 6 : La loutre grise et la loutre brune interagissent joyeusement près de l'arbre creux. Elles se regardent avec curiosité et surprise, puis bougent autour de l'arbre ensemble. Gardez leurs designs de personnages cohérents tout au long de la vidéo.
-
-Scène 7 : La loutre grise grimpe sur une branche d'arbre voisine et regarde autour d'elle. La caméra la suit depuis derrière et légèrement en dessous, montrant la canopée forestière verte lumineuse et la lumière chaude du soleil filtrant à travers les feuilles.
-
-Scène 8 : La loutre grise se repose contre un gros rocher couvert de mousse, ayant l'air somnolente et épuisée. Ses yeux deviennent lourds alors qu'elle se détend dans la chaleur du soleil.
-
-Scène 9 : La loutre grise remarque soudainement à nouveau la baie bleue brillante. La caméra coupe sur un gros plan alors qu'elle ramasse joyeusement la baie avec ses deux pattes. Ses immenses yeux scintillent d'excitation.
-
-Scène 10 : La loutre grise tient fièrement la baie bleue près de son visage et sourit innocemment. La loutre brune approche par derrière.
-
-Scène finale : La loutre brune saute doucement sur la loutre grise dans une étreinte affectueuse et ludique. Ils roulent doucement sur l'herbe ensemble à côté de la baie bleue, riant et se câlinant. De minuscules étincelles lumineuses apparaissent autour d'eux alors qu'ils reposent paisiblement dans la prairie.
-
-Style visuel : animation 3D cinématographique premium, personnages adorables adaptés aux familles, fourrure douce et détaillée, yeux surdimensionnés expressifs, proportions arrondies, environnement naturel vibrant, lumière naturelle réaliste.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106198321689976833/img/0FVIL6MlJgFUsiBq.jpg" width="600" alt="Court métrage d'animation 3D : La Loutre Mignonne">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11809)**
-
-**Auteur:** [Zarnab Ai](https://x.com/Zarnab_with_Ai) | **Source:** [Link](https://x.com/Zarnab_with_Ai/status/2106198477533544868) | **Publié:** Oct 3, 2026
-
----
-### Bataille spatiale sci-fi : montée de l'océan
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour un court-métrage d'action de science-fiction à haute intensité, mettant en scène une flotte qui rencontre une planète alien où l'océan entier s'élève dans l'espace, déclenchant des combats et l'émergence d'une structure mystérieuse.
-
-#### 📝 Prompt
-
-```
-Court-métrage d'action de science-fiction cinématographique photoréaliste de 15 secondes, format 16:9.
-Une immense flotte d'exploration humaine arrive au-dessus d'une planète alien entièrement recouverte d'océans.
-Soudain, l'océan entier commence à s'élever depuis la planète.
-Ce n'est pas une vague.
-L'OCEAN ENTIER se soulève dans l'espace sous forme d'une énorme masse sphérique d'eau.
-La flotte se disperse violemment.
-Des chasseurs spatiaux filent entre des colonnes gigantesques d'eau s'étendant de la planète jusqu'à l'orbite.
-Une structure alien colossale commence à émerger du fond océanique exposé.
-Des vaisseaux ennemis apparaissent soudainement et attaquent.
-Les chasseurs humains plongent à travers des cascades de plusieurs centaines de kilomètres tandis que des missiles passent à toute vitesse près d'eux.
-Un vaisseau d'exploration fonce vers la structure émergente.
-L'océan continue de monter autour de lui.
-Le vaisseau pénètre dans la structure juste avant que la planète entière ne soit entourée par une sphère flottante colossale d'eau.
-À l'intérieur de la structure, un œil artificiel unique et gigantesque s'ouvre.
-
-COUPURE AU NOIR.
-
-Photoréalisme, échelle planétaire époustouflante, mouvement extrême, combat spatial spectaculaire, physique de l'eau monumentale, angles de caméra dynamiques, éclairage cinématographique, escalade intense, sans texte, sans logos, sans anime, sans dessin animé.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106196933731659776/img/QTjMfzWCl_mIf5Nt.jpg" width="600" alt="Bataille spatiale sci-fi : montée de l'océan">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11817)**
-
-**Auteur:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2106197038043971937) | **Publié:** Oct 3, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -5203,6 +5162,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-24T03:46:33.983Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-24T09:01:53.310Z</sub>
 
 </div>

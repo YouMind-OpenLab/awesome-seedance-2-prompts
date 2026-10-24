@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6585** |
+| 📝 Total Prompts | **6587** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-10-24** |
 
@@ -365,11 +365,49 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Cinematic Warrior Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a cinematic, ultra-realistic video of a fearless warrior with dramatic lighting and slow-motion effects.
+
+#### 📝 Prompt
+
+```
+Create a cinematic, ultra-realistic video of a fearless warrior with intense eyes, a powerful presence, and a confident attitude. Use dramatic lighting, smooth slow-motion movements, detailed textures, a dark atmospheric background, and professional color grading. 4K quality, sharp focus, epic mood, and a visually stunning cinematic finish.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113848979058470912/img/toLQfOH68vyUJD9j.jpg" width="600" alt="Cinematic Warrior Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12967)**
+
+**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Published:** Oct 24, 2026
+
+---
+### Falling from Sun Floating Islands Seedance 2.0
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a video of falling from the sun towards floating islands of gears, generated with Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Falling from the sun toward floating islands of gears, a cyan trail behind her, then one blue eye filling the frame.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113525908065701888/pu/img/o4uirHvMrYyaolPq.jpg" width="600" alt="Falling from Sun Floating Islands Seedance 2.0">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12968)**
+
+**Author:** [MxCaptures | AI VFX & Cinematic AI Artist](https://x.com/MxCaptures) | **Source:** [Link](https://x.com/MxCaptures/status/2113525990592848305) | **Published:** Oct 23, 2026
+
+---
 ### Seoul Lifestyle Cinematic Film
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 27-second photorealistic video prompt depicting a young Korean woman's day in Seoul, moving from office to street to rooftop, with specific camera and lighting instructions.
+> A detailed prompt for a 27-second photorealistic cinematic lifestyle film featuring a young Korean woman experiencing a peaceful day in Seoul. Includes specific scenes like office stretching, subway waiting, café drinking, and rooftop views, emphasizing consistent character identity and natural lighting.
 
 #### 📝 Prompt
 
@@ -5151,85 +5189,6 @@ Create a cinematic, ultra-realistic live-action sequence set in a warm, dusty ne
 **Author:** [Aynah](https://x.com/AynahhX) | **Source:** [Link](https://x.com/AynahhX/status/2106206660582850732) | **Published:** Oct 3, 2026
 
 ---
-### Cute Otter 3D Animated Short Film
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a high-quality cinematic 3D animated short featuring baby otters in a meadow, detailing ten scenes involving chasing a berry, meeting a friend, and playful interactions.
-
-#### 📝 Prompt
-
-```
-Create a high-quality cinematic 3D animated short film featuring adorable, stylized baby otter-like woodland creatures in a beautiful sunny meadow.
-
-Scene 1: A cute brown baby otter stands in a lush green meadow, happily holding a large shiny blue berry with both paws. It has soft brown fur, a round chubby body, huge glossy black eyes, rosy cheeks, and a tiny dark scarf around its neck. The character looks innocent and curious. Warm morning sunlight, soft grass, rolling green hills, tall trees, blue sky, cinematic depth of field.
-
-Scene 2: The blue berry slips from the otter's paws and rolls quickly down a gentle grassy slope. The little brown otter runs after it, trying desperately to catch it. The camera follows the rolling berry with a smooth dynamic tracking shot while the otter runs behind it.
-
-Scene 3: The berry rolls toward a large hollow fallen tree trunk lying in the meadow and stops near its entrance. The brown otter reaches the tree and looks around curiously, wondering where the berry went.
-
-Scene 4: The camera moves upward through the surrounding trees toward the bright sunlight shining through the leaves. A magical, peaceful atmosphere fills the scene with glowing sun rays, floating dust particles, and gentle wind moving the leaves.
-
-Scene 5: A second adorable baby otter appears — smaller and gray-colored, with soft gray fur, a round chubby body, huge expressive black eyes, rosy cheeks, and an innocent expression. It comes out near the fallen tree and notices the brown otter.
-
-Scene 6: The gray otter and brown otter interact playfully near the hollow tree. They look at each other with curiosity and surprise, then move around the tree together. Keep their character designs consistent throughout the entire video.
-
-Scene 7: The gray otter climbs onto a nearby tree branch and looks around. The camera follows from behind and slightly below, showing the bright green forest canopy and warm sunlight filtering through the leaves.
-
-Scene 8: The gray otter rests against a large moss-covered rock, looking sleepy and exhausted. Its eyes become heavy as it relaxes in the warm sunlight.
-
-Scene 9: The gray otter suddenly notices the shiny blue berry again. The camera cuts to a close-up as it happily picks up the berry with both paws. Its huge eyes sparkle with excitement.
-
-Scene 10: The gray otter proudly holds the blue berry close to its face and smiles innocently. The brown otter approaches from behind.
-
-Final scene: The brown otter gently jumps onto the gray otter in a playful, affectionate hug. They tumble softly onto the grass together beside the blue berry, laughing and cuddling. Tiny glowing sparkles appear around them as they lie peacefully in the meadow.
-
-Visual style: premium cinematic 3D animation, adorable family-friendly characters, soft detailed fur, expressive oversized eyes, rounded proportions, vibrant natural environment, warm golden sunlight, volumetric lighting, soft shadows, realistic grass an
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106198321689976833/img/0FVIL6MlJgFUsiBq.jpg" width="600" alt="Cute Otter 3D Animated Short Film">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11809)**
-
-**Author:** [Zarnab Ai](https://x.com/Zarnab_with_Ai) | **Source:** [Link](https://x.com/Zarnab_with_Ai/status/2106198477533544868) | **Published:** Oct 3, 2026
-
----
-### Sci-Fi Ocean Rising Fleet Battle Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for a 15-second cinematic sci-fi action short featuring a human fleet encountering an alien planet where the entire ocean rises into space.
-
-#### 📝 Prompt
-
-```
-15-second cinematic photorealistic science-fiction action short, 16:9.
-A massive human exploration fleet arrives above a completely ocean-covered alien planet.
-Suddenly the entire ocean begins rising from the planet.
-Not a wave.
-The WHOLE OCEAN lifts into space as an enormous spherical mass of water.
-The fleet scatters violently.
-Fighter spacecraft race between gigantic columns of water stretching from the planet into orbit.
-An enormous alien structure begins emerging from beneath the exposed ocean floor.
-Enemy ships suddenly appear and attack.
-The human fighters dive through waterfalls hundreds of kilometers long while missiles streak past them.
-One exploration ship races toward the emerging structure.
-The ocean continues rising around it.
-The ship enters the structure just before the entire planet becomes surrounded by a colossal floating sphere of water.
-Inside the structure, a single enormous artificial eye opens.
-
-CUT TO BLACK.
-
-Photorealistic, breathtaking planetary scale, extreme motion, spectacular space combat, enormous water physics, dynamic camera angles, cinematic lighting, intense escalation, no text, no logos, no anime, no cartoon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106196933731659776/img/QTjMfzWCl_mIf5Nt.jpg" width="600" alt="Sci-Fi Ocean Rising Fleet Battle Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11817)**
-
-**Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2106197038043971937) | **Published:** Oct 3, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -5291,6 +5250,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-24T03:46:20.526Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-24T09:01:43.102Z</sub>
 
 </div>
