@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6587** |
+| 📝 Gesamtanzahl Prompts | **6591** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-10-25** |
 
@@ -361,6 +361,110 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Schulflur-Chaos in Zeitlupe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Prompt für eine Szene auf einem Schulflur, in der eine ruhige Frau hinter sich ein chaotisches Gerangel in Zeitlupe einfriert.
+
+#### 📝 Prompt
+
+```
+Erstelle ein cineastisches, ultrarealistisches 4K-Video, das in einem modernen Schulflur spielt. Eine junge Frau mit braunen Haaren, die zu einem lockeren Dutt hochgesteckt sind, trägt einen cremefarbenen Rollkragenpullover und kabelgebundene Kopfhörer. Sie geht ruhig durch den Korridor, während hinter ihr maskierte Personen in Zeitlupe kämpfen. Papiere, Schreibtische und rote Limonadendosen fliegen durch die Luft, als sie eine Hand hebt und alles um sich herum auf mysteriöse Weise einfriert. Sie bleibt völlig gelassen und ausdruckslos, während das Chaos augenblicklich zum Stillstand kommt. Warmes cineastisches Licht, realistische Gesichtsausdrücke, detaillierte Haarbewegungen, geringe Schärfentiefe, sanfte Kamerafahrt nach vorne, dramatische Zeitlupe, natürliche Physik, Farbgrading in Filmqualität, 16:9 Breitbild, 15 Sekunden, kein Dialog, kein Text, kein Wasserzeichen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114222867823124480/img/Dh_-novuM4GOJWVn.jpg" width="600" alt="Schulflur-Chaos in Zeitlupe">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13003)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2114222906867888426) | **Veröffentlicht:** Oct 25, 2026
+
+---
+### Seedance 2.0 Halloween Hogwarts Dark Magic Transformation Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Prompt für Seedance 2.0 zur Erstellung eines 15-sekündigen, vertikalen Kurzfilms im Kino-Stil mit dem Thema dunkle Magie und Kostümwechsel, der Halloween- und Hogwarts-Ästhetik verbindet. Der Prompt legt Wert auf Charakterkonsistenz, Outfitwechsel synchronisiert zu Musikbeats, Kamerabewegungen und spezifische visuelle Effekte unter Verwendung von Referenzbildern.
+
+#### 📝 Prompt
+
+```
+15 Sekunden, 9:16 Hochformat, Realfilm-Kurzfilm im cineastischen Stil: Halloween x Hogwarts Dark-Magic-Outfitwechsel. @Image1 ist die Charakter-Mastervorlage, @Image2 Rot-Gold, @Image3 Smaragdgrün, @Image4 Blau-Silber, @Image5 Schwarz-Gold, @Image6 Schwarz-Silber-Queen – sie treten in dieser Reihenfolge auf. Durchgehend dieselbe erwachsene Schönheit: langes schwarzes lockiges Haar, weinrote Lippen, schwarze Augenmaske aus Spitze, die niemals abgenommen wird; kein Face-Swapping im gesamten Video. Die Referenzbilder dienen als Vorlage für Kostüme und Charaktere – statische Bilder dürfen nicht einfach aneinandergereiht werden.
+
+Musik: 160 BPM Dark Symphonic Phonk, Intro mit gotischer Glocke, wuchtige Drums, sofortige Outfitwechsel exakt auf den schweren Zählzeiten bei 1,5/4,5/7,5/9,75/12 Sekunden, maximaler Drop bei 12 Sekunden; die Verwandlungen nutzen einen 0,2 Sekunden langen Occlusion-Flash, perfekte Audio-Video-Synchronisation.
+
+0–1,5 s: Extreme Nahaufnahme der Augenmaske und der roten Lippen von @Image1, Fingerspitzen berühren die Maske, Kamera zieht rasant zurück; orangefarbener Vollmond, Fledermäuse, Schloss und Kürbislaternen erscheinen, Kürbisse speien rot-goldene Flammen, die den gesamten Bildschirm bedecken.
+
+1,5–4,5 s: Die Flammen verflüchtigen sich zu @Image2, frontale Weitwinkel-Fahrt aus der Untersicht, die Schönheit schreitet vorwärts und wirft ihren rot-goldenen Umhang schwungvoll nach rechts, hinter ihr ein brüllender Feuerlöwe; der Umhang streift über das Objektiv und verwandelt sich in grünen Rauch.
+
+4,5–7,5 s: Der Rauch lichtet sich zu @Image3, die Kamera umkreist auf eine 45-Grad-Perspektive von hinten-seitlich, die Schönheit blickt zurück und hebt den Zauberstab; ein Trankkessel bricht aus, eine riesige smaragdgrüne Schlange windet sich um eine Steinsäule, der Schlangenschatten huscht über das Objektiv und wird zu einem blauen Geist.
+
+7,5–9,75 s: Wechsel zu @Image4, diagonale Vogelperspektive mit kreisender Kamerabewegung im Uhrzeigersinn, sie breitet die Arme aus und dreht sich, der blau-silberne Rock schwingt weit auf; Geister und Sternenlicht tanzen, Adlerflügel streifen über das Objektiv und verwandeln sich in goldene Blätter.
+
+9,75–12 s: Wechsel zu @Image5, seitliche Schwenkfahrt, sie geht und schwingt dabei den Zauberstab, eine schwarze Katze läuft vorbei, Kürbisranken wuchern wild, Kürbislaternen erheben sich eine nach der anderen; ein gigantischer Kürbis kracht ins Objektiv, das Licht erlischt schlagartig, schwarzer Flash.
+
+12–14,3 s: Ein Blitz beim maximalen Drop zerreißt die Dunkelheit, Wechsel zu @Image6; ultraschneller Rückzug aus extremer Froschperspektive, die Queen schwebt, die Krone senkt sich herab, gewaltige schwarze Flügel entfalten sich plötzlich, der Vollmond wird zum Blutmond, Fledermäuse steigen auf, Kürbisse brennen in silberweißem Feuer.
+
+14,3–15 s: Sie richtet den Zauberstab kraftvoll direkt auf das Objektiv, ein silberner Magie-Einschlag und schwarze Federn füllen den Bildschirm – als Echo zur Augenmaske vom Anfang entsteht ein perfekter Loop.
+
+Anforderungen: Jedes Mal erst vollständige Verdeckung (Occlusion), dann sofortiger Outfitwechsel; durchgehende Bewegung, wechselnde Einstellungsgrößen und Kamerapositionen, klar erkennbare Kostüme, realistische Stoff- und Haardynamik; intensive Halloween-Atmosphäre, wobei der Charakter stets das visuelle Zentrum bleibt. Verboten sind langsam schmelzende Kleidung, verrutschende Gesichter, deformierte Gliedmaßen, billige Effekte, Untertitel und Wasserzeichen.
+```
+
+<img src="https://cms-assets.youmind.com/media/1792907864427_qpq5sj_HVaRqRyWUAADs0j.jpg" width="600" alt="Seedance 2.0 Halloween Hogwarts Dark Magic Transformation Video Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13004)**
+
+**Autor:** [麻酱AI实验室](https://x.com/zhongying14) | **Quelle:** [Link](https://x.com/zhongying14/status/2114038007435055604) | **Veröffentlicht:** Oct 24, 2026
+
+---
+### Samurai und Oni-Geisha Clay Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt für die Erstellung eines temporeichen Comedy-Videos im Claymation-Stil, das einen Samurai und eine Oni-Geisha zeigt, die mit physischem Humor und Stop-Motion-Ästhetik interagieren.
+
+#### 📝 Prompt
+
+```
+15-sekündiger, rasanter und niedlicher Knetanimations-Sketch. Verwende exakt die Charakterdesigns aus der Vorlage: den riesigen, strengen blauen Knet-Samurai und die winzige, elegante rote Oni/Geisha. Handgemachte Stop-Motion-Knet-Ästhetik, ausdrucksstarkes Squash-and-Stretch, verspielte Slapstick-Comedy. Keine Dialoge. Keine Leerlaufzeiten.
+
+0–4 Sek.: Der Samurai zieht mit übertriebener Ernsthaftigkeit dramatisch sein Katana — SCHWIIING! Er nimmt eine einschüchternde Kampfpose ein. Die winzige Oni-Geisha wirkt völlig unbeeindruckt, zückt beiläufig einen kleinen roten Fächer und schlägt damit ZACK auf die flache Seite seines Schwerts nach unten.
+
+4–8 Sek.: Der Samurai erstarrt fassungslos. Die Oni-Geisha stolziert selbstgefällig an ihm vorbei. Schnell stellt er sich ihr in den Weg und vollführt eine absurd aufwendige Abfolge blitzschneller Schwertwirbel, bei denen Ärmel und blauer Umhang nur so peitschen — WUSCH, SCHWING, SCHWING! Sie duckt sich mühelos unter jedem Hieb weg und setzt ihren winzigen, anmutigen Gang fort, ohne ihn auch nur eines Blickes zu würdigen.
+
+8–12 Sek.: Frustriert holt der Samurai zu einem gewaltigen Überkopfschlag aus. Die Oni-Geisha macht einfach einen winzigen Schritt zur Seite. BUMM! Sein Katana bohrt sich tief in den Knetboden. Er zerrt verzweifelt daran; das Schwert rührt sich keinen Millimeter. Vor lauter Anstrengung dehnt sich sein riesiger Körper urkomisch in die Länge.
+
+8–15 Sek.: Die Oni-Geisha tippt mit ihrem Fächer einmal ganz ruhig auf den Schwertgriff — TOCK! Sofort schnellt das Schwert heraus und katapultiert den Samurai rückwärts in einen absurden Knet-Purzelbaum. Er landet sitzend, völlig benommen. Die Oni-Geisha verbeugt sich leicht und selbstgefällig vor ihm und lässt ihren Fächer aufschnappen. Sofortiges Ende mit dem peinlich berührten, wütenden Blick des Samurais.
+
+Audio: Energetische, niedliche Percussion im japanischen Stil und gezupfte Saitenmusik, perfekt auf die Comedy abgestimmt; übertriebene Knet-Fußschritte, das Ziehen des Schwerts, metallisches Rauschen, Fächerschläge, Aufprallgeräusche und komödiantische Plopp-Laute. Keine Sprache, kein Gesang.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114022336512905216/img/5DAPE8_KuJC9gE29.jpg" width="600" alt="Samurai und Oni-Geisha Clay Animation">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13002)**
+
+**Autor:** [Keskin](https://x.com/craftian_keskin) | **Quelle:** [Link](https://x.com/craftian_keskin/status/2114028393347883491) | **Veröffentlicht:** Oct 24, 2026
+
+---
+### Alltäglicher Ablauf: Pommes zum Mittagessen – Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt, der Seedance 2.0 und Kling 4.0 beim alltäglichen Abholen von Essen vergleicht.
+
+#### 📝 Prompt
+
+```
+eine alltägliche Abfolge: eine Bestellung abholen, sich eine Pommes schnappen, einen Schluck nehmen und mit einem Freund lachen
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113867563771842560/img/u8Iuas8eesjV9cba.jpg" width="600" alt="Alltäglicher Ablauf: Pommes zum Mittagessen – Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13001)**
+
+**Autor:** [Jayden Douglass 💭 | AI Coach](https://x.com/JaydenCoach) | **Quelle:** [Link](https://x.com/JaydenCoach/status/2113867722786259116) | **Veröffentlicht:** Oct 24, 2026
+
+---
 ### Cineastischer Krieger-Video-Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -4614,556 +4718,6 @@ Teleportation
 **Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2106388571863253309) | **Veröffentlicht:** Oct 3, 2026
 
 ---
-### High-Fashion Fußballschuh-Werbeprompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Erstellung einer 15-sekündigen High-Fashion-Werbung für Fußballschuhe mit Seedance 2.0, featuring cineastische Aufnahmen von goldfarbenen metallischen Stollen auf einem offenen Feld.
-
-#### 📝 Prompt
-
-```
-Erstellen Sie eine 15-sekündige High-Fashion-Werbung für Fußballschuhe unter Verwendung der hochgeladenen Referenzbilder für die goldfarbenen metallischen Fußballstollen, die weißen kniehohen Socken und das vintage feminine Fußball-Styling. Halten Sie das Design, die Farben, die Texturen und die Proportionen des Schuhwerks während des gesamten Videos konsistent.
-
-Umgebung: Ein riesiges offenes Outdoor-Fußballfeld, bedeckt mit üppigem natürlichem grünen Gras, mit einem vollständig offenen Horizont und einem wunderschönen traumhaften pastellblau-rosa Himmel. Das Feld sollte sich weitläufig und unberührt anfühlen. Kein Stadion, keine Zuschauer, keine Gebäude, keine Tribünen, keine Innenräume, keine nahen Zäune.
-
-0–3 Sek.: Weitwinkel-Cineastik-Aufnahme einer jungen erwachsenen Fußballerin, die allein in der Mitte des weiten offenen Feldes steht. Sie trägt dasselbe elegante, vom Vintage inspirierte Outfit aus den Referenzbildern mit weißen kniehohen Socken und den goldfarbenen metallischen Fußballstollen. Sie legt sanft einen Fuß auf einen Fußball. Die Kamera bewegt sich langsam auf sie zu, während das Sonnenlicht wunderschön von den Stollen reflektiert wird.
-
-3–6 Sek.: Schnitt zu dramatischen Nahaufnahmen der goldenen Stollen. Ihr Fuß tritt fest auf das Gras, die Stollen drücken sich natürlich in den Rasen, und sie zieht die Schnürsenkel fest. Makro-Kamerabewegungen enthüllen die metallische Textur, die Nähte, die Sohle und die Stollen. Machen Sie die Schuhe zum visuellen Helden.
-
-6–10 Sek.: Sie beginnt, über das vollständig offene Feld Fußball zu spielen, dribbelt den Ball schnell und selbstbewusst. Verwenden Sie eine Tiefwinkel-Tracking-Kamera, fokussiert auf ihre Füße und Stollen, während sie die Richtung wechselt, beschleunigt und den Ball kontrolliert. Ihr fließendes Outfit bewegt sich natürlich mit ihrer Bewegung.
-
-10–13 Sek.: Sie nimmt einen kraftvollen Anlauf und schlägt den Fußball mit dem goldenen Stollen. Erfassen Sie den Tritt in cineastischer Zeitlupe, zeigen Sie den Kontakt des Schuhs mit dem Ball, natürlich fliegende Grasteilchen und den Ball, der über das offene Feld geschossen wird.
-
-13–15 Sek.: Premium-Hero-Shot. Der Fußball rollt neben ihren goldenen Stollen zum Stillstand. Sie steht im Hintergrund selbstbewusst auf dem weiten grünen Feld, während warmes Sonnenlicht die metallischen Schuhe einfängt. Die Kamera schiebt sich langsam auf die Stollen zu und endet mit einer scharfen, produktfokussierten Nahaufnahme.
-
-Visueller Stil: Luxus-Sportmode-Kampagne, traumhafte Editorial-Fotografie, cineastisches natürliches Licht, realistische Fußballbewegung, realistische Grasphysik, elegantes feminines Styling, dynamische Kamerabewegung, Makro-Schuhdetails, geringe Schärfentiefe, kommerzielle Premium-Qualität, fotorealistisch, subtiler Filmtextur-Effekt.
-
-Wichtig: Halten Sie die goldenen Fußballstollen während des gesamten Videos identisch. Keine Änderung des Schuhdesigns, keine verzerrten Füße, keine zusätzlichen Gliedmaßen, kein verformter Fußball, kein künstliches CGI-Aussehen. Das gesamte Video spielt draußen auf einem einzigen weiten offenen Fußballfeld.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106319331823165440/img/HRw0Mc4qjR1ZtqNR.jpg" width="600" alt="High-Fashion Fußballschuh-Werbeprompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11849)**
-
-**Autor:** [Soulful Ai](https://x.com/soulful__ai) | **Quelle:** [Link](https://x.com/soulful__ai/status/2106321511212544372) | **Veröffentlicht:** Oct 3, 2026
-
----
-### Episches Xianxia-Schlacht-Video-Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein detaillierter Prompt zur Generierung einer hochwertigen 3D-CG-Animation einer Schwertkämpferin, die in einem schwebenden himmlischen Reich gegen Monsterhorden kämpft, mit spezifischen visuellen Effekten und Kamerabewegungen.
-
-#### 📝 Prompt
-
-```
-[Globale Bildqualitäts-Einstellungen]
-
-UE5.4 Path Tracing, Lumen Global Illumination, Nanite, PBR Physical Materials. Hochwertige chinesische Xianxia-3D-CG-Animation, 8K, HDR, ACES Farbmanagement, kinematografische Kameraarbeit, 60fps Hochgeschwindigkeitsflüssigkeit.
-
-Chaos Physics Destruction, realistische starre Trümmer mit Gravitationsbögen, Cloth Simulation, volumetrisches Licht, Godrays, Contact Shadows, Ray-Traced Reflections.
-
-Über den neun Himmeln vor der Morgendämmerung schweben zahlreiche unsterbliche Inseln in einem endlosen Wolkenmeer.
-
-Die Szene besteht hauptsächlich aus:
-
-Brücken aus weißem Jade
-Zerbrochenen unsterblichen Palästen
-Schwebenden Steinplattformen
-Riesigen zerbrochenen Statuen
-Wolkenmeer
-Sternenhimmel-Rissen
-Hochgelegenen unsterblichen Inselgruppen
-
-Die Draufsicht bleibt ein tiefer Sternenhimmel, während am fernen Horizont das erste goldene Licht der Dämmerung erscheint.
-
-Verwenden Sie insgesamt entsättigte Indigo-Grau-, Mondweiß-, Eisblau- und Dunklgold-Töne.
-
-Große Fertigkeiten haben unterschiedliche Element-Lichtfarben, behalten aber immer Hanjins eisblaue und dunkelgoldene visuelle Basis als einheitliches Fundament bei.
-
-Durch Kämpfe verursachte Risse, Eisschichten, Brandspuren, zerbrochene Brücken, riesige Krater, Schwerthiebe und Monstertrümmer akkumulieren kontinuierlich und erholen sich nicht automatisch.
-
-Kies, weiße Jadesplitter und Monsterganzteile folgen der echten Schwerkraft und Trägheit.
-
-Das Wolkenmeer erfährt volumetrische Wälzbewegungen durch Stoßwellen, Stürme und große Energiefertigkeiten.
-
-Charakterhaare, Roben und Quasten werden immer von Hochgeschwindigkeitsbewegungen und dem Luftstrom in großer Höhe beeinflusst.
-
-16:9.
-
-[Protagonist | Senior Sister · Hanjin Schwertkämpferin]
-
-Charakter-Asset @Image1.
-
-Strikt beibehalten:
-
-Kaltes östliches weibliches Gesicht.
-
-Schwarzer hoher Pferdeschwanz mit langem Haar.
-
-Drei blaue Mustermarkierungen auf der Stirn.
-
-Tiefblau-schwarze geschichtete Kampfroben und Rüstung.
-
-Dunkelsilberne, kupfergoldene geschnitzte Strukturen.
-
-Blaue Quasten und Jadeornamente.
-
-Multi-Winkel-Charakterreferenzen gehören zur selben Rolle.
-
-Nur eine Senior Sister im gesamten Film.
-
-Verboten: Gesichtswechsel, Frisurenänderung, Änderung der Stirnmarkierung, Körpermodifikation, zufälliger Outfitwechsel oder das Erzeugen von Charakterklonen.
-
-[Waffe | Hanjin]
-
-Waffen-Asset @Image2.
-
-Hanjin ist die einzige Waffe im gesamten Film.
-
-Beibehalten: Eisblauer transparenter Kristallklinge, Eissprünge, dunkelsilberner geschnitzter Parierstange, blauer Edelstein, dunkler Griff und blaue Quaste.
-
-Hanjin ist immer der Kern aller großen Fertigungsaktivierungen.
-
-Unterschiedliche Elemente können die externen Lichteffekte und die Umgebungsfärbung des Schwertes ändern, aber das physische Waffendesign nicht neu gestalten.
-
-Verboten: Duplizierung, Zweihandkampf, zufällige Farbänderungen, Änderung der Schwertform oder das Erzeugen der Scheide als zweite Waffe.
-
-[Monster | Sternenverschlingende Horde]
-
-Auf dem Schlachtfeld gibt es viele einheitlich gestaltete sternverschlingende Monster.
-
-Gewöhnliche Minions bestehen hauptsächlich aus:
-
-Obsidian-Void-Körper + gesichtslose Obsidian-Hülle + purpurner Sternenkern + Klauen.
-
-Schnell fliegende sternverschlingende Kreaturen existieren in der Luft.
-
-Große Einheiten sind deutlich größer als unsterbliche Palastgebäude und greifen mit riesigen Handflächen, Obsidian-Felsbrocken und Sternenkernenergie an.
-
-Monsterwellen füllen sich nach aus:
-
-Sternenhimmel-Rissen.
-
-Rückseite der schwebenden Inseln.
-
-Unterhalb des Wolkenmeeres.
-
-Ruinen der unsterblichen Paläste.
-
-Monster müssen aktiv:
-
-Verfolgen.
-
-Töten.
-
-Einkesseln.
-
-Luftangriffe durchführen.
-
-Fernunterdrückung ausüben.
-
-Sie dürfen nicht einfach still um die Protagonistin herumstehen und darauf warten, zerstört zu werden.
-
-Wenn sie besiegt werden, zerfallen Monster in Obsidiansplitter, purpurnen Sternenstaub und erloschene Sternkerne.
-
-Trümmer fallen auf schwebende Inseln und Ruinen und bleiben dort liegen.
-
-[Globale Kampfregeln]
-
-30-sekündiges Hochgeschwindigkeits-1vN-Xianxia-Hack-and-Slash.
-
-Keine Dialoge.
-
-Keine Kampfschreie.
-
-Kein Ausrufen von Fertigungsnamen.
-
-Keine Zeitlupe.
-
-Keine Standbilder.
-
-Kein Hit-Stop.
-
-Hauptkampfelemente sind:
-
-Hochgeschwindigkeitsbewegung + Riesige Fertigkeiten + Großskalige Monsterwellen-Beseitigung.
-
-Der gesamte Film enthält zehn große Fertigungs-Ausbrüche.
-
-Zehn Arten von Fertigkeiten müssen eindeutige visuelle Konzepte haben, nicht nur dieselbe Schwert-Qi mit geänderten Farben.
-
-Das Elementsystem für Fertigkeiten kann abdecken:
-
-Sternenfluss.
-
-Donner.
-
-Sturm.
-
-Himmelskörper-Sturz.
-
-Mondlicht und Spiegellicht.
-
-Sonnenphänomen.
-
-Großes Schwert-Array.
-
-Raumriss.
-
-Aurora-Himmelsvorhang.
-
-Himmelskuppel-Abschlussphänomen.
-
-Diese Elemente müssen nicht in der Reihenfolge ausgeführt werden, in der sie im Text erscheinen.
-
-Unterschiedliche Elemente müssen klare visuelle Unterschiede aufweisen.
-
-[Hochgeschwindigkeitsbewegung]
-
-Senior Sister ist immer in einem hochmobilen Zustand.
-
-Hauptbewegungsmethoden umfassen:
-
-Bodenstreifender Ansturm.
-
-Hochgeschwindigkeitsseitlicher Richtungswechsel.
-
-Springen zwischen schwebenden Inseln.
-
-Kurzstrecken-Teleportation.
-
-Vertikaler Aufstieg.
-
-Tauchgang.
-
-Seitliches Kreisen.
-
-Richtungswechsel in der Luft.
-
-Kurzstrecken-Teleportation behält eisblaue und dunkelgoldene Nachbilder mit klarem Endpunkt bei.
-
-Der Charakter setzt den Kampf sofort fort, wenn er den Endpunkt erreicht.
-
-Nachbilder sind keine physischen Klone.
-
-Verboten: Den Charakter lange Zeit in unerkennbare Energielinien verwandeln.
-
-[Kleine Fertigkeiten]
-
-Zwischen großen Fertigkeiten werden nur extrem kurze Hilfsaktionen verwendet.
-
-Inklusive:
-
-Kurzstrecken-Schwert-Qi.
-
-Positionssprung.
-
-Hochgeschwindigkeits-Kombinationshiebe.
-
-Punkt-Schuss-artiger Schwertlichtstrahl.
-
-Diese Aktionen dienen hauptsächlich dazu:
-
-Nahkampfmonster zu erledigen.
-
-Die räumliche Position anzupassen.
-
-Zur nächsten großen Fertigkeit überzuleiten.
-
-Verwenden Sie nicht viele normale Angriffe, um Zeit zu verzögern.
-
-[Riesiges Fertigungssystem]
-
-Sternenfluss-Serie
-
-Hanjin kann den hochgelegenen Sternenfluss mobilisieren.
-
-Enorme eisblaue Sternenfluss-Energie strömt vom Himmelsgewölbe ins Schlachtfeld und bildet einen massiven Strom zwischen schwebenden Inseln und Brücken.
-
-Monsterhorden werden vom Sternenfluss-Strom verstreut, und das Wolkenmeer wälzt sich nach dem Aufprall zur Seite.
-
-Das Schlachtfeld kann gefrorene Sternenfluss-Spuren oder eisblaue Energiebänder hinterlassen.
-
-Donner-Serie
-
-Himmelsdonnerwolken reagieren auf Hanjin.
-
-Massive Blitze schlagen im Kernkriegsgebiet ein.
-
-Blitze können bilden:
-
-Donnerschwerter.
-
-Donnersäulen.
-
-Lichtbogen-Netzwerke.
-
-Große Schwert-Arrays.
-
-Monsterhorden verlieren das Gleichgewicht und werden in dichten Blitzen kontinuierlich weggeschleudert.
-
-Oberflächen der schwebenden Inseln zeigen verkohlte, elektrisierte und rissige Markierungen.
-
-Sturm-Serie
-
-Hanjin schwingt das Schwert und erzeugt einen großen eisblauen Sturm.
-
-Mehrere riesige Wirbelwinde spannen sich über schwebende Inseln und das Wolkenmeer.
-
-Der Sturm kann gleichzeitig hochwirbeln:
-
-Monster.
-
-Kies.
-
-Wolkennebel.
-
-Unsterbliche Palast-Trümmer.
-
-Senior Sister rast durch das Innere des Sturms und setzt die Verfolgung fort.
-
-Die Umgebung zeigt offensichtliche Winderosion und rotierende Schäden.
-
-Himmelskörper-Serie
-
-Anomalien treten im hochgelegenen Sternenfluss auf.
-
-Viele Himmelskörper mit Eiskristallen, Sternenlicht oder dunkelgoldener Energie fallen schnell vom Himmel.
-
-Verschiedene schwebende Inseln erleiden kontinuierliche große Einschläge.
-
-Produzieren:
-
-Riesige Krater.
-
-Kaltnebel.
-
-Kies.
-
-Stoßwellen.
-
-Großskalige Auflösung der Monsterwellen.
-
-Mondlicht-Serie
-
-Großskalige mondweiße visuelle Phänomene erscheinen auf dem Schlachtfeld.
-
-Erreichbar durch:
-
-Mondlichtspiegel.
-
-Eiskristallreflexion.
-
-Multidirektionale gebrochene Schwertlichtstrahlen.
-
-Bildung eines großflächigen Schnittnetzwerks.
-
-Schnittlichter schneiden aus mehreren Richtungen gleichzeitig durch die Monsterwellen.
-
-Einige Mondlichtstrukturen bleiben nach Ende der Fertigkeit in der Umgebung erhalten.
-
-Sonnenserie
-
-Da die Dämmerung näher rückt, fällt das erste Sonnenlicht ins Schlachtfeld.
-
-Hanjin kann dunkelgoldene Sonnenenergie mobilisieren.
-
-Riesige goldene Göttervögel, lodernde Sonnenschwertfeuer oder großskalige goldene Himmelsphänomene durchqueren die Inselgruppe.
-
-Eisblau und Dunkelgold bilden eine starke kalt-warme Überlagerung.
-
-Viele Monsterhorden zerfallen unter Sonnenenergie zu Sternenstaub.
-
-Schwert-Array-Serie
-
-Große Plätze der unsterblichen Paläste oder schwebende Inselböden werden durch Hanjins Schwertabsicht aktiviert.
-
-Viele eisblaue Riesenschwerter tauchen aus Gebäuden, Eisschichten oder dem Boden auf.
-
-Die Größe der Schwerter ist weit größer als die normaler Waffen.
-
-Der gesamte Bereich bildet schnell einen großen Schwertwald oder ein Array.
-
-Senior Sister bewegt sich hochschnell innerhalb des Schwertarrays.
-
-Monster werden nacheinander weggeschlagen, von Energiekörpern durchbohrt oder aus verschiedenen Positionen in die Luft geworfen.
-
-Riss-Serie
-
-Hanjin kann kurzzeitig den Raum des Schlachtfeldes aufreißen.
-
-Riesige schwarze Raumrisse bilden sich zwischen Himmel oder schwebenden Inseln.
-
-Risskanten werden von eisblauer und dunkelgoldener Energie umrandet.
-
-Viele Schwertlichter oder Raumschnitte breiten sich entlang der Risskanten nach außen aus.
-
-Senior Sister kann schnell Positionen um den Riss herum wechseln.
-
-Offensichtliche visuelle Residuen bleiben nach Ende der Raumrisse zurück.
-
-Verboten: Gewöhnliche Schwarze Löcher zum Verschlingen verwenden, statt Raumrisse.
-
-Aurora-Serie
-
-Großflächige eisblaue, mondweiße und blassgoldene Auroras erscheinen im hohen Himmel.
-
-Auroras steigen vom Himmelsgewölbe herab und bedecken mehrere schwebende Inseln.
-
-Auroravorhänge haben enorme Tiefe und räumliche Skalierung.
-
-Monster, die eintreten:
-
-Einfrieren.
-
-Gleichgewicht verlieren.
-
-Zu Energie zerfallen.
-
-Senior Sister pendelt hochschnell zwischen verschiedenen Aurora-Schichten.
-
-Diese Phase führt das gesamte Schlachtfeld allmählich zum finalen Höhepunkt.
-
-[Finale Phase]
-
-Visuelle Spuren früherer Kämpfe existieren weiterhin in der Szene.
-
-Zum Beispiel:
-
-Eisschichten.
-
-Brandspuren.
-
-Winderosion.
-
-Einschlagkrater.
-
-Spiegelfragmente.
-
-Schwertwälder.
-
-Raumrisse.
-
-Aurora-Nachglühen.
-
-Monstertrümmer.
-
-In der finalen Phase müssen diese visuellen Elemente nicht alle direkt zu derselben Fertigkeit werden, sollten aber eine gewisse Umweltresonanz erzeugen.
-
-Hanjin wird zum finalen Energiekern.
-
-Senior Sister löst ein großskaliges Abschlussphänomen aus, das die Kern-Inselgruppe und den Himmel bedeckt.
-
-Manifestierbar als:
-
-Riesige Sternringe.
-
-Mehrschichtige Himmelsgewölbe-Stoßwellen.
-
-Eisblaue und dunkelgoldene ringförmige Schwertlichter.
-
-Großskalige Ausbreitung von Sternenenergie.
-
-Die Skala der Abschlussfertigkeit muss deutlich höher sein als die der vorherigen Einzel-Element-Fertigkeiten.
-
-Sternenfluss, Blitz, Sonne/Mond und Aurora-Visuelles können kurzzeitig im Abschlussphänomen erscheinen, dürfen aber frühere Fertigkeiten nicht vollständig replizieren.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105684524055322625/img/NCD7cVCLLuAfyOyU.jpg" width="600" alt="Episches Xianxia-Schlacht-Video-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11850)**
-
-**Autor:** [Arvin](https://x.com/Arvin010717) | **Quelle:** [Link](https://x.com/Arvin010717/status/2106241257895084452) | **Veröffentlicht:** Oct 3, 2026
-
----
-### Eismonster-Angriff in der Skihütte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für einen Horror-Thriller-Kurzfilm, der in einer Skihütte spielt. Während eines Schneesturms bricht ein Wesen aus Eis ein und wird von den Mitarbeitern mit heißem Wasser und Feuer bekämpft.
-
-#### 📝 Prompt
-
-```
-Cinematic horror-thriller short film set at a mountain ski resort lodge during a snowstorm, opens with an immediate hook, grounded realistic style, maximum dynamic camera work. Setting: a cozy wooden lodge interior with a fireplace, large windows looking out to falling snow, guests relaxing with hot drinks. CHARACTER LOCK: the main character is a lodge staff member, a woman in her late 20s, red ski jacket, consistent in every shot. Muted cold-toned color grading, natural diegetic sound throughout, tension score entering immediately.
->
-> **[0-1s]** Harter Schnitt: Das große Hüttenfenster beschlägt sofort von außen, Eiskristalle breiten sich unnatürlich schnell über das Glas aus.
->
-> **[1-2s]** Es zerbricht nach innen, ein humanoides Wesen aus gezacktem Eis und Frostkristall tritt hindurch, sein Atem ist als Dampf in der plötzlichen Kälte sichtbar.
->
-> **[2-3s]** Nahe Gäste schnappen nach Luft, weichen von ihren Tischen neben dem Kamin zurück.
->
-> **[3-4s]** Es bewegt sich auf den nächsten Gast zu, eine dünne Schicht Frost breitet sich auf allem aus, was es berührt.
->
-> **[4-5s]** Er stolpert zurück, sein Ärmel gefriert dort, wo er ihn gestreift hat.
->
-> **[5-6s]** Panik breitet sich in der Hütte aus, Gäste eilen zum hinteren Ende des Raumes.
->
-> **[6-7s]** Die Mitarbeiterin greift nach einem Kaminhaken neben dem Feuer, stellt sich zwischen das Wesen und die fliehenden Gäste.
->
-> **[7-8s]** Es dreht sich ihr zu, kristalline Züge fangen das Feuerscheinlicht ein.
->
-> **[8-9s]** Sie schwingt den Haken; er trifft, ein Riss splittert über seine eisige Schulter.
->
-> **[9-10s]** Es weicht zurück, der Frost zieht sich leicht vom Einschlagpunkt zurück.
->
-> **[10-11s]** Ein zweiter Mitarbeiter greift nach einer Thermoskanne mit heißem Wasser und schleudert sie direkt auf das Wesen.
->
-> **[11-12s]** Dampf steigt auf, wo das Wasser trifft, das Eis schwächt sich sichtbar am Berührungspunkt.
->
-> **[12-13s]** Es taumelt, kurzzeitig destabilisiert, Frostmuster flackern über seine Gestalt.
->
-> **[13-14s]** Die Mitarbeiterin nutzt den Vorteil, schlägt erneut mit dem Haken zu.
->
-> **[14-15s]** Weitwinkel: Gäste erreichen den langen Flur, einige blicken ängstlich zurück.
->
-> **[15-16s]** Das Wesen springt auf sie zu, eisige Klauen strecken sich aus.
->
-> **[16-17s]** Sie duckt sich tief, entgeht dem Schlag knapp, rollt sich zum Kamin hin.
->
-> **[17-18s]** Sie greift mit behandschuhten Händen direkt nach einem brennenden Scheit aus dem Feuer.
->
-> **[18-19s]** ZEITLUPE-Einblendung: Sie schwingt es im Bogen gegen die Brust des Wesens.
->
-> **[19-20s]** Kontakt sendet eine Schockwelle aus knackendem Eis durch seinen gesamten Körper.
->
-> **[20-21s]** Es erstarrt mitten in der Bewegung, Risse breiten sich schnell über seine kristalline Form aus.
->
-> **[21-22s]** ZEITLUPE: Es zerfällt in streuende Eisfragmente und kalten Nebel.
->
-> **[22-24s]** Weitwinkel: Fragmente schmelzen schnell nahe dem Kaminfeuer.
->
-> **[24-25s]** Nur noch Pfützen bleiben auf dem Boden, während Schnee durch das gebrochene Fenster hereinweht.
-```
-
-<img src="https://pbs.twimg.com/media/HTrZ4CDbUAAdA-T.jpg" width="600" alt="Eismonster-Angriff in der Skihütte">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11813)**
-
-**Autor:** [auqib](https://x.com/auqibhabib) | **Quelle:** [Link](https://x.com/auqibhabib/status/2106235341548273915) | **Veröffentlicht:** Oct 3, 2026
-
----
-### Cineastische Kindheitserinnerung an Straßenfußball
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung eines nostalgischen, ultrarealistischen Videos von Kindern, die im goldenen Licht des Sonnenuntergangs Straßenfußball spielen, mit dynamischen Kamerabewegungen und Zeitlupen-Jubelszenen.
-
-#### 📝 Prompt
-
-```
-Erstelle eine cineastische, ultrarealistische Live-Action-Sequenz in einer warmen, staubigen Nachbarschaft zur goldenen Stunde. Beginne mit einer Luftaufnahme eines lebhaften Wohngebiets → Nahaufnahme eines Kindes, das einen abgenutzten Fußball auf den staubigen Boden legt → Kinder beginnen ein intensives Straßenfußballspiel → dynamische Aufnahmen aus niedriger Perspektive von schnellen Dribblings, Ballführung und dem durch die Luft fliegenden Ball → Ende mit einer cineastischen Zeitlupenaufnahme der jubelnden Kinder nach einem Torerfolg. Warmes goldenes Sonnenlicht, realistische Staubpartikel, natürliche Bewegungen, Handkamera-Gefühl, geringe Schärfentiefe, detaillierte Umgebungen, authentische Emotionen, sanfte cineastische Übergänge, fotorealistischer Live-Action-Stil, nostalgische Coming-of-Age-Atmosphäre. Kein Text, keine Untertitel, keine Logos oder Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106206604773437440/img/CTdbn4tRQamgI8cz.jpg" width="600" alt="Cineastische Kindheitserinnerung an Straßenfußball">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11815)**
-
-**Autor:** [Aynah](https://x.com/AynahhX) | **Quelle:** [Link](https://x.com/AynahhX/status/2106206660582850732) | **Veröffentlicht:** Oct 3, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -5225,6 +4779,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-25T03:43:00.460Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-25T09:12:44.169Z</sub>
 
 </div>

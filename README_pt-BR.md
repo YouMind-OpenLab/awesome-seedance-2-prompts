@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6587** |
+| 📝 Total de prompts | **6591** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-10-25** |
 
@@ -361,6 +361,110 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Congelamento do Caos no Corredor da Escola
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico para uma cena de corredor escolar onde uma mulher calma congela lutas caóticas atrás dela em câmera lenta.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo cinematográfico e ultrarrealista em 4K ambientado no corredor de uma escola moderna. Uma jovem de cabelos castanhos presos em um coque bagunçado, vestindo um suéter creme de gola alta e fones de ouvido com fio, caminha tranquilamente pelo corredor enquanto pessoas mascaradas lutam em câmera lenta atrás dela. Papéis, carteiras e latinhas vermelhas de refrigerante voam pelos ares quando ela ergue uma das mãos e, misteriosamente, congela tudo ao seu redor. Ela permanece completamente calma e sem expressar qualquer emoção enquanto o caos para instantaneamente. Iluminação cinematográfica quente, expressões faciais realistas, movimento detalhado dos fios de cabelo, profundidade de campo reduzida, aproximação suave da câmera, câmera lenta dramática, física natural, color grading com qualidade de cinema, formato widescreen 16:9, 15 segundos, sem diálogos, sem texto, sem marca d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114222867823124480/img/Dh_-novuM4GOJWVn.jpg" width="600" alt="Congelamento do Caos no Corredor da Escola">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13003)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2114222906867888426) | **Publicado:** Oct 25, 2026
+
+---
+### Prompt de Vídeo Seedance 2.0: Transformação de Magia Negra no Halloween de Hogwarts
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt altamente detalhado para geração de vídeo com o Seedance 2.0, criando um curta vertical cinematográfico de 15 segundos com tema de transformação de fantasia de magia negra, mesclando estéticas de Halloween e Hogwarts. O prompt especifica consistência de personagem, mudanças de roupa sincronizadas com as batidas da música, movimentos de câmera e efeitos visuais específicos usando imagens de referência.
+
+#### 📝 Prompt
+
+```
+15 segundos, tela vertical 9:16, curta-metragem live-action cinematográfico de troca de figurino com a temática Halloween x magia negra de Hogwarts. @Image1 é o template principal da personagem, @Image2 Vermelho Dourado, @Image3 Verde Esmeralda, @Image4 Azul Prata, @Image5 Preto Dourado, @Image6 Rainha Preto Prata, aparecendo nessa ordem. Sempre a mesma mulher adulta e deslumbrante, longos cabelos pretos cacheados, lábios vermelho-vinho, máscara tipo venda de renda preta nos olhos, nunca removida, sem nenhuma troca de rosto ao longo do vídeo. As imagens de referência servem para os figurinos e para a personagem; não basta apenas costurar imagens estáticas.
+
+Música: Phonk sinfônico sombrio a 160 BPM, introdução com sino gótico, bateria pesada, trocas instantâneas de figurino nos tempos fortes em 1,5/4,5/7,5/9,75/12 segundos, Drop máximo aos 12 segundos; as transformações usam um flash de oclusão de 0,2 segundo, com sincronia perfeita entre áudio e vídeo.
+
+0–1,5s: Close-up extremo na máscara e nos lábios vermelhos de @Image1, as pontas dos dedos tocam a máscara, a câmera recua rapidamente; surgem uma lua cheia alaranjada, morcegos, um castelo e abóboras de Halloween (jack-o'-lanterns), as abóboras cospem chamas vermelho-douradas que cobrem a tela inteira.
+
+1,5–4,5s: As chamas se dissipam revelando @Image2, travelling frontal amplo em contra-plongée, a bela avança a passos firmes e gira violentamente a capa vermelho-dourada para a direita, com um leão de fogo rugindo atrás dela; a capa passa pela lente e se transforma em fumaça verde.
+
+4,5–7,5s: A fumaça se dissipa revelando @Image3, a câmera orbita para as costas em ângulo de 45 graus, a bela olha para trás erguendo a varinha; um caldeirão de poções entra em erupção, uma serpente esmeralda gigante se enrola em uma coluna de pedra, a sombra da cobra cruza a lente e vira um fantasma azul.
+
+7,5–9,75s: Muda para @Image4, órbita diagonal no sentido horário vista de cima em plongée, ela abre os braços girando, a saia azul-prateada se abre; fantasmas e luzes estelares dançam, asas de águia cruzam a lente e se transformam em folhas douradas.
+
+9,75–12s: Muda para @Image5, travelling lateral em panorâmica, ela caminha enquanto agita a varinha, um gato preto passa correndo, vinhas de abóbora crescem descontroladamente, jack-o'-lanterns surgem uma após a outra; uma abóbora gigante colide com a lente, as luzes se apagam de repente, flash negro.
+
+12–14,3s: Um relâmpago com o Drop máximo rasga a escuridão, mudando para @Image6; recuo rápido em ângulo ultra baixo, a rainha flutua, a coroa desce, asas negras gigantescas se abrem subitamente, a lua cheia vira uma lua de sangue, morcegos levantam voo, abóboras ardem em fogo branco-prateado.
+
+14,3–15s: Ela aponta a varinha violentamente para a lente, um impacto de magia prateada e penas negras cobrem a tela, fazendo um espelhamento com a máscara do início e formando um loop perfeito.
+
+Requisitos: Em cada transição, oculte totalmente a imagem primeiro e só então faça a troca instantânea de figurino, movimento contínuo, variação de planos e posições de câmera, figurinos nítidos e bem visíveis, movimento realista de tecidos e cabelos; atmosfera intensa de Halloween, mas mantendo a personagem como o centro visual absoluto. Proibido: roupas derretendo lentamente, distorção facial, deformidades nos membros, efeitos baratos, legendas ou marcas d'água.
+```
+
+<img src="https://cms-assets.youmind.com/media/1792907864427_qpq5sj_HVaRqRyWUAADs0j.jpg" width="600" alt="Prompt de Vídeo Seedance 2.0: Transformação de Magia Negra no Halloween de Hogwarts">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13004)**
+
+**Autor:** [麻酱AI实验室](https://x.com/zhongying14) | **Fonte:** [Link](https://x.com/zhongying14/status/2114038007435055604) | **Publicado:** Oct 24, 2026
+
+---
+### Animação em Clay de Samurai e Oni Geisha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para criar um vídeo de comédia no estilo claymation, dinâmico e rápido, apresentando a interação entre um Samurai e uma Oni Geisha com humor físico e estética stop-motion.
+
+#### 📝 Prompt
+
+```
+Esquete fofa de animação em massinha com ritmo acelerado e 15 segundos de duração. Use exatamente os designs de personagens da referência: o enorme e sisudo Samurai azul de massinha e a minúscula e elegante Oni/Geisha vermelha. Estética artesanal de stop-motion em massinha, squash-and-stretch expressivo, comédia física divertida. Sem diálogos. Sem tempo morto.
+
+0–4 s: O Samurai desembainha sua katana de forma dramática, com uma seriedade exagerada — SHIIING! Ele assume uma pose de batalha intimidadora. A pequena Oni-Geisha não se impressiona nem um pouco, puxa casualmente um leque vermelho dobrável e dá uma LEQUEADA na lateral plana da espada dele, empurrando-a para baixo.
+
+4–8 s: O Samurai congela, sem acreditar. A Oni-Geisha passa por ele toda convencida. Ele rapidamente se coloca à frente dela e executa uma sequência absurdamente elaborada de giros de espada ultrarrápidos, com as mangas e o manto azul voando por todos os lados — VUSH, SWISH, SWISH! Ela se abaixa sem esforço algum a cada golpe, mantendo seu passinho gracioso sem sequer olhar para ele.
+
+8–12 s: Frustrado, o Samurai aposta tudo em um golpe gigantesco de cima para baixo. A Oni-Geisha simplesmente dá um passinho mínimo para o lado. PÁ! A katana crava fundo no chão de massinha. Ele puxa desesperadamente; a espada não cede nem um milímetro. Seu corpo gigante estica de forma cômica com o esforço.
+
+12–15 s: A Oni-Geisha bate calmamente uma vez no cabo da espada com o leque — TOC! A espada solta na mesma hora, arremessando o Samurai para trás em um tombo ridículo de massinha. Ele aterrissa sentado, atordoado. A Oni-Geisha faz uma reverência curta e cheia de marra, abrindo o leque com um estalo. Corte imediato no olhar constrangido do Samurai.
+
+Áudio: percussão fofa e energética de inspiração japonesa e música de cordas dedilhadas, perfeitamente sincronizada com a comédia; passos exagerados na massinha, espada sendo desembainhada, assobios metálicos, batidas de leque, sons de impacto e estalos cômicos. Sem falas, sem vocais.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114022336512905216/img/5DAPE8_KuJC9gE29.jpg" width="600" alt="Animação em Clay de Samurai e Oni Geisha">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13002)**
+
+**Autor:** [Keskin](https://x.com/craftian_keskin) | **Fonte:** [Link](https://x.com/craftian_keskin/status/2114028393347883491) | **Publicado:** Oct 24, 2026
+
+---
+### Prompt para Almoço com Batatas Fritas Sequenciais do Dia a Dia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt comparando o Seedance 2.0 e o Kling 4.0 em uma sequência cotidiana de pegar comida.
+
+#### 📝 Prompt
+
+```
+uma sequência do dia a dia: pegar o pedido, roubar uma batatinha, dar um gole e cair na gargalhada com um amigo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113867563771842560/img/u8Iuas8eesjV9cba.jpg" width="600" alt="Prompt para Almoço com Batatas Fritas Sequenciais do Dia a Dia">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13001)**
+
+**Autor:** [Jayden Douglass 💭 | AI Coach](https://x.com/JaydenCoach) | **Fonte:** [Link](https://x.com/JaydenCoach/status/2113867722786259116) | **Publicado:** Oct 24, 2026
+
+---
 ### Prompt de Vídeo Cinematográfico de Guerreiro
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -4616,560 +4720,6 @@ Teletransporte
 **Autor:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2106388571863253309) | **Publicado:** Oct 3, 2026
 
 ---
-### Prompt de Vídeo para Anúncio de Chuteira de Futebol Alta Moda
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar um anúncio de chuteira de futebol de alta moda com 15 segundos usando Seedance 2.0, apresentando cenas cinematográficas de chuteiras metálicas douradas em um campo aberto.
-
-#### 📝 Prompt
-
-```
-Crie um anúncio de chuteira de futebol de alta moda com 15 segundos de duração, utilizando as imagens de referência enviadas para as chuteiras metálicas douradas, meias brancas até o joelho e o estilo feminino vintage de futebol. Mantenha o design do calçado, cores, texturas e proporções consistentes durante todo o vídeo.
-
-Ambiente: Um enorme campo de futebol ao ar livre, coberto por grama natural verde exuberante, com um horizonte completamente aberto e um céu azul-rosa pastel dos sonhos. O campo deve parecer espaçoso e intocado. Sem estádio, sem espectadores, sem prédios, sem arquibancadas, sem ambiente interno, sem cercas próximas.
-
-0–3 seg: Cena cinematográfica ampla de uma jovem adulta jogadora de futebol parada sozinha no meio do vasto campo aberto. Ela veste a mesma roupa elegante inspirada no vintage das imagens de referência, com meias brancas até o joelho e as chuteiras metálicas douradas. Ela coloca delicadamente um pé sobre uma bola de futebol. A câmera se move lentamente em direção a ela enquanto a luz do sol reflete lindamente nas chuteiras.
-
-3–6 seg: Corte para close-ups dramáticos das chuteiras douradas. Seu pisa firmemente na grama, os travões pressionam naturalmente o gramado e ela aperta os cadarços. O movimento macro da câmera revela a textura metálica, costuras, sola e travões. Faça dos sapatos o herói visual.
-
-6–10 seg: Ela começa a jogar futebol pelo campo completamente aberto, driblando a bola rapidamente e com confiança. Use uma câmera de rastreamento em ângulo baixo focada nos pés e nas chuteiras enquanto ela muda de direção, acelera e controla a bola. Sua roupa fluida se move naturalmente com seus movimentos.
-
-10–13 seg: Ela faz uma corrida forte e chuta a bola de futebol com a chuteira dourada. Capture o chute em câmera lenta cinematográfica, mostrando o sapato fazendo contato com a bola, partículas de grama voando naturalmente e a bola lançando-se pelo campo aberto.
-
-13–15 seg: Cena heroica premium. A bola de futebol rola até parar ao lado de suas chuteiras douradas. Ela fica confiante ao fundo no vasto campo verde enquanto a luz quente do sol captura os sapatos metálicos. A câmera avança lentamente em direção às chuteiras e termina em um close-up nítido focado no produto.
-
-Estilo visual: campanha de moda esportiva de luxo, fotografia editorial dos sonhos, iluminação natural cinematográfica, movimento realista de futebol, física realista da grama, estilo feminino elegante, movimento dinâmico da câmera, detalhes macro dos sapatos, profundidade de campo rasa, qualidade comercial premium, fotorrealismo, textura sutil de filme.
-
-Importante: Mantenha as chuteiras douradas idênticas durante todo o vídeo. Sem mudar o design do sapato, sem pés distorcidos, sem membros extras, sem bola deformada, sem aparência CGI artificial. Todo o vídeo ocorre ao ar livre em um único campo de futebol vasto e aberto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106319331823165440/img/HRw0Mc4qjR1ZtqNR.jpg" width="600" alt="Prompt de Vídeo para Anúncio de Chuteira de Futebol Alta Moda">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11849)**
-
-**Autor:** [Soulful Ai](https://x.com/soulful__ai) | **Fonte:** [Link](https://x.com/soulful__ai/status/2106321511212544372) | **Publicado:** Oct 3, 2026
-
----
-### Prompt de Vídeo de Batalha Épica Xianxia
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt detalhado para gerar uma animação 3D CG de alta qualidade, mostrando uma espadachim feminina lutando contra hordas de monstros em um reino celestial flutuante, com efeitos visuais específicos e movimentos de câmera.
-
-#### 📝 Prompt
-
-```
-[Configurações Globais de Qualidade da Imagem]
-
-UE5.4 Path Tracing, Lumen Global Illumination, Nanite, Materiais Físicos PBR. Animação 3D CG estilo Xianxia chinês de alta qualidade, 8K, HDR, gerenciamento de cores ACES, trabalho de câmera cinematográfico, suavidade de alta velocidade a 60fps.
-
-Destruição física Chaos, detritos rígidos realistas com arcos gravitacionais, simulação de tecido, iluminação volumétrica, raios de luz (godrays), sombras de contato, reflexos traçados por raio.
-
-Acima dos nove céus antes do amanhecer, numerosas ilhas imortais flutuantes pairam em meio a um mar infinito de nuvens.
-
-A cena consiste principalmente em:
-
-Pontes de jade branco
-Palácios imortais quebrados
-Plataformas de pedra flutuantes
-Estatuetas gigantes quebradas
-Mar de nuvens
-Fendas no céu estrelado
-Grupos de ilhas imortais em alta altitude
-
-A visão superior permanece como um rio estelar profundo, enquanto o horizonte distante revela a primeira luz dourada do amanhecer.
-
-Use tons gerais de índigo cinza de baixa saturação, branco lua, azul gelo e dourado escuro.
-
-Grandes habilidades têm diferentes cores de luz elementais, mas sempre mantenha o visual azul-gelo e dourado-escuro de Hanjin como base unificada.
-
-Rachaduras causadas pela batalha, camadas de gelo, marcas de queimadura, pontes quebradas, crateras gigantes, marcas de espada e destroços de monstros se acumulam continuamente e não se recuperam automaticamente.
-
-Cascalho, fragmentos de jade branco e conchas de monstros seguem a gravidade e inércia reais.
-
-O mar de nuvens experimentará rolagem volumétrica devido a ondas de choque, tempestades e grandes habilidades de energia.
-
-Os cabelos, vestes e pendões dos personagens são sempre afetados pelo movimento em alta velocidade e pelo fluxo de ar em alta altitude.
-
-16:9.
-
-[Protagonista | Irmã Sênior · Espadachim Hanjin]
-
-Asset de personagem @Image1.
-
-Mantenha estritamente:
-
-Rosto feminino oriental frio.
-
-Cabelo longo preto preso em rabo de cavalo alto.
-
-Três marcas azuis de padrão na testa.
-
-Veste de batalha e armadura em camadas azul-marinho profundo.
-
-Estrutura entalhada em prata escura e ouro cobre.
-
-Pendões azuis e ornamentos de jade.
-
-Referências de personagem em múltiplos ângulos pertencem ao mesmo papel.
-
-Apenas uma irmã sênior em todo o filme.
-
-Proibido: troca de rosto, mudança de penteado, alteração das marcas da testa, modificação do tipo corporal, mudança aleatória de roupa ou geração de clones de personagem.
-
-[Arma | Hanjin]
-
-Asset de arma @Image2.
-
-Hanjin é a única arma em todo o filme.
-
-Mantenha a lâmina de cristal transparente azul-gelo, rachaduras de gelo, guarda entalhada em prata escura, gema azul, cabo de espada escuro e pendão azul.
-
-Hanjin é sempre o núcleo de todas as ativações de grandes habilidades.
-
-Diferentes elementos podem alterar os efeitos de luz externos e a coloração ambiental da espada, mas não podem redesenhar a arma física.
-
-Proibido: duplicação, uso de duas mãos, mudanças aleatórias de cor, alteração da forma da espada ou gerar a bainha como uma segunda arma.
-
-[Monstros | Horda Devoradora de Estrelas]
-
-Há muitos monstros devoradores de estrelas com design uniforme no campo de batalha.
-
-Servos comuns consistem principalmente em:
-
-Corpo vazio de obsidiana + casca de obsidiana sem rosto + núcleo estelar roxo + garras.
-
-Criaturas devoradoras de estrelas de voo rápido existem no ar.
-
-Unidades grandes têm tamanho significativamente maior que os prédios dos palácios imortais, atacando com palmas gigantes, rochas de obsidiana e energia de núcleo estelar.
-
-As marés de monstros se reabastecem de:
-
-Fendas no céu estrelado.
-
-Parte traseira das ilhas flutuantes.
-
-Abaixo do mar de nuvens.
-
-Ruínas dos palácios imortais.
-
-Os monstros devem ativamente:
-
-Perseguir.
-
-Matar.
-
-Cerco.
-
-Ataque aéreo.
-
-Supressão de longo alcance.
-
-Não podem apenas ficar parados ao redor da protagonista esperando serem destruídos.
-
-Quando derrotados, os monstros se desintegram em fragmentos de obsidiana, poeira estelar roxa e núcleos estelares extintos.
-
-Os destroços caem nas ilhas flutuantes e ruínas e persistem.
-
-[Regras Globais de Batalha]
-
-Hack-and-slash Xianxia 1vN de alta velocidade de 30 segundos.
-
-Sem diálogo.
-
-Sem gritos de guerra.
-
-Sem gritar nomes de habilidades.
-
-Sem câmera lenta.
-
-Sem quadros congelados.
-
-Sem pausa de impacto (hit-stop).
-
-Os principais elementos de combate são:
-
-Movimento em alta velocidade + Grandes habilidades + Limpeza em larga escala de marés de monstros.
-
-O filme inteiro inclui dez explosões de grandes habilidades.
-
-Dez tipos de habilidades devem ter conceitos visuais distintos, não apenas o mesmo qi de espada com cores alteradas.
-
-O sistema de elementos de habilidade pode cobrir:
-
-Rio Estelar.
-
-Trovão.
-
-Tempestade.
-
-Queda de Corpo Celestial.
-
-Luz da Lua e Luz do Espelho.
-
-Fenômeno Solar.
-
-Grande Formação de Espadas.
-
-Fenda Espacial.
-
-Cortina Aurora do Céu.
-
-Fenômeno de Terminação da Cúpula Celeste.
-
-Esses elementos não precisam ser executados na ordem em que aparecem no texto.
-
-Diferentes elementos devem ter diferenças visuais claras.
-
-[Movimento em Alta Velocidade]
-
-A Irmã Sênior está sempre em estado de alta mobilidade.
-
-Os principais métodos de movimento incluem:
-
-Investida rasante no solo.
-
-Retorno lateral em alta velocidade.
-
-Saltos entre ilhas flutuantes.
-
-Teletransporte de curta distância.
-
-Ascensão vertical.
-
-Mergulho.
-
-Circulação lateral.
-
-Mudança de direção no ar.
-
-O teletransporte de curta distância mantém imagens residuais azul-gelo e dourado-escuro com um ponto final claro.
-
-O personagem continua lutando imediatamente ao atingir o ponto final.
-
-As imagens residuais não são clones físicos.
-
-Proibido: transformar o personagem em linhas de energia irreconhecíveis por um longo tempo.
-
-[Habilidades Pequenas]
-
-Apenas ações auxiliares extremamente curtas são usadas entre as grandes habilidades.
-
-Incluindo:
-
-Qi de espada de curta distância.
-
-Mudança de posição com passo.
-
-Golpes consecutivos em alta velocidade.
-
-Luz de espada estilo tiro pontual.
-
-Essas ações servem principalmente para:
-
-Lidar com monstros de curto alcance.
-
-Ajustar a posição espacial.
-
-Conectar à próxima grande habilidade.
-
-Não use muitos ataques normais para atrasar o tempo.
-
-[Sistema de Habilidades Gigantes]
-
-Série Rio Estelar
-
-Hanjin pode mobilizar o rio estelar de alta altitude.
-
-Enorme energia do rio estelar azul-gelo entra no campo de batalha a partir da cúpula celeste, formando um fluxo massivo entre ilhas flutuantes e pontes.
-
-Hordas de monstros são dispersas pelo torrente do rio estelar, e o mar de nuvens rola para ambos os lados após o impacto.
-
-O campo de batalha pode deixar rastros de rio estelar congelado ou faixas de energia azul-gelo.
-
-Série Trovão
-
-Nuvens de trovão celeste respondem a Hanjin.
-
-Relâmpagos massivos descem sobre a zona central de guerra.
-
-Relâmpagos podem formar:
-
-Espadas de trovão.
-
-Pilares de trovão.
-
-Redes de arco elétrico.
-
-Grandes formações de espadas.
-
-Hordas de monstros perdem o equilíbrio e são lançadas continuamente em relâmpagos densos.
-
-Superfícies das ilhas flutuantes mostram marcas carbonizadas, de choque elétrico e rachaduras.
-
-Série Tempestade
-
-Hanjin gira a espada causando uma grande tempestade azul-gelo.
-
-Múltiplos tornados gigantes varrem ilhas flutuantes e o mar de nuvens.
-
-A tempestade pode simultaneamente levantar:
-
-Monstros.
-
-Cascalho.
-
-Névoa de nuvens.
-
-Destroços de palácios imortais.
-
-A Irmã Sênior acelera através do interior da tempestade continuando a perseguição.
-
-O ambiente mostra erosão e danos rotacionais óbvios pelo vento.
-
-Série Corpo Celestial
-
-Anomalias ocorrem no rio estelar de alta altitude.
-
-Muitos corpos celestiais com cristais de gelo, luz estelar ou energia dourada escura caem rapidamente do céu.
-
-Diferentes ilhas flutuantes sofrem impactos contínuos e grandes.
-
-Produzindo:
-
-Crateras gigantes.
-
-Neblina fria.
-
-Cascalho.
-
-Ondas de choque.
-
-Desintegração em larga escala de marés de monstros.
-
-Série Luz da Lua
-
-Fenômenos visuais em larga escala de branco-lua aparecem no campo de batalha.
-
-Pode ser alcançado através de:
-
-Espelhos de luz da lua.
-
-Reflexão de cristais de gelo.
-
-Luz de espada refratada multidirecional.
-
-Formando uma rede de corte de grande área.
-
-Luzes de corte atravessam marés de monstros de múltiplas direções simultaneamente.
-
-Algumas estruturas de luz da lua permanecem no ambiente após o fim da habilidade.
-
-Série Sol
-
-À medida que o amanhecer se aproxima, a primeira luz solar entra no campo de batalha.
-
-Hanjin pode mobilizar energia solar dourada escura.
-
-Gigantescas aves divinas douradas, fogo de espada sol abrasador ou fenômenos celestes dourados em larga escala percorrem o grupo de ilhas flutuantes.
-
-Azul-gelo e dourado-escuro formam uma forte sobreposição frio-quente.
-
-Muitas hordas de monstros se desintegram em poeira estelar sob a energia solar.
-
-Série Formação de Espadas
-
-Grandes praças de palácios imortais ou terrenos de ilhas flutuantes são ativados pela intenção de espada de Hanjin.
-
-Muitas espadas gigantes azul-gelo emergem de edifícios, camadas de gelo ou do solo.
-
-A escala da espada é muito maior que armas normais.
-
-Toda a área rapidamente forma uma grande floresta ou formação de espadas.
-
-A Irmã Sênior move-se em alta velocidade dentro da formação de espadas.
-
-Monstros são consecutivamente afastados, perfurados por corpos de energia ou lançados ao ar de diferentes posições.
-
-Série Fenda
-
-Hanjin pode brevemente rasgar o espaço do campo de batalha.
-
-Enormes fendas espaciais negras se formam entre o céu ou ilhas flutuantes.
-
-Bordas das fendas são delineadas por energia azul-gelo e dourado-escuro.
-
-Muitas luzes de espada ou cortes espaciais se espalham para fora ao longo das bordas das fendas.
-
-A Irmã Sênior pode mudar rapidamente de posições ao redor da fenda.
-
-Resíduos visuais óbvios permanecem após o fim das fendas espaciais.
-
-Proibido: usar buraco negro ordinário engolindo em vez de fendas espaciais.
-
-Série Aurora
-
-Auroras de grande área em azul-gelo, branco-lua e dourado pálido aparecem no céu alto.
-
-Auroras descem da cúpula celeste, cobrindo múltiplas ilhas flutuantes.
-
-Cortinas de aurora têm enorme profundidade e escala espacial.
-
-Monstros que entram nelas:
-
-Congelam.
-
-Perdem o equilíbrio.
-
-Se desintegram em energia.
-
-A Irmã Sênior transita em alta velocidade entre diferentes camadas de aurora.
-
-Esta etapa gradualmente leva todo o campo de batalha ao clímax final.
-
-[Fase Final]
-
-Visuais deixados pelas batalhas anteriores ainda existem na cena.
-
-Por exemplo:
-
-Camadas de gelo.
-
-Marcas de queimadura.
-
-Erosão pelo vento.
-
-Crateras de impacto.
-
-Fragmentos de espelho.
-
-Florestas de espadas.
-
-Rachaduras espaciais.
-
-Brilho residual de aurora.
-
-Destroços de monstros.
-
-Na fase final, esses elementos visuais não precisam todos se tornar a mesma habilidade diretamente, mas devem produzir algum grau de ressonância ambiental.
-
-Hanjin torna-se o núcleo de energia final.
-
-A Irmã Sênior libera um fenômeno de terminação em larga escala cobrindo o grupo central de ilhas flutuantes e o céu.
-
-Pode ser manifestado como:
-
-Anéis estelares gigantes.
-
-Ondas de choque multi-camada da cúpula celeste.
-
-Luz de espada em anel azul-gelo e dourado-escuro.
-
-Expansão de energia do céu estrelado em grande escala.
-
-A escala da habilidade de terminação deve ser claramente maior que as habilidades de elemento único anteriores.
-
-Rio estelar, relâmpago, sol/lua e auroras visuais podem aparecer brevemente no efeito de terminação, mas não podem reproduzir completamente as habilidades anteriores.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105684524055322625/img/NCD7cVCLLuAfyOyU.jpg" width="600" alt="Prompt de Vídeo de Batalha Épica Xianxia">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11850)**
-
-**Autor:** [Arvin](https://x.com/Arvin010717) | **Fonte:** [Link](https://x.com/Arvin010717/status/2106241257895084452) | **Publicado:** Oct 3, 2026
-
----
-### Ataque do Monstro de Gelo na Estalagem de Esqui
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para um curta de terror e suspense ambientado em uma estalagem de esqui, onde uma criatura feita de gelo invade durante uma tempestade de neve e é enfrentada pela equipe usando água quente e fogo.
-
-#### 📝 Prompt
-
-```
-Curta-metragem cinematográfico de terror e suspense, ambientado em uma estalagem de resort de esqui nas montanhas durante uma tempestade de neve. Abre com um gancho imediato, estilo realista fundamentado e trabalho de câmera dinâmico ao máximo. Cenário: interior acolhedor de uma estalagem de madeira com lareira, grandes janelas voltadas para a neve caindo, hóspedes relaxando com bebidas quentes. TRAVA DE PERSONAGEM: a protagonista é uma funcionária da estalagem, mulher no final dos vinte anos, jaqueta de esqui vermelha, consistente em todas as cenas. Color grading frio e suave, som diegético natural durante todo o filme, trilha sonora de tensão entrando imediatamente.
->
-> **[0-1s]** Corte seco: a grande janela da estalagem congela instantaneamente por fora, cristais de gelo se espalhando de forma antinaturalmente rápida pelo vidro.
->
-> **[1-2s]** Ela se estilhaça para dentro, uma criatura humanoide de gelo irregular e cristal de geada atravessando, respiração visível como vapor no frio súbito.
->
-> **[2-3s]** Hóspedes próximos ofegam, recuando de suas mesas perto da lareira.
->
-> **[3-4s]** A criatura avança em direção ao hóspede mais próximo, uma fina camada de geada se espalhando sobre tudo que toca.
->
-> **[4-5s]** Ele tropeça para trás, sua manga congelando onde a criatura o tocou.
->
-> **[5-6s]** O pânico se espalha pela estalagem, hóspedes correndo em direção à extremidade oposta do salão.
->
-> **[6-7s]** A funcionária pega um atiçador de lareira ao lado do fogo, posicionando-se entre a criatura e os hóspedes em fuga.
->
-> **[7-8s]** A criatura vira-se para ela, seus traços cristalinos refletindo a luz do fogo.
->
-> **[8-9s]** Ela gira o atiçador; ele acerta, uma rachadura se espalhando pelo ombro gelado da criatura.
->
-> **[9-10s]** A criatura recua, a geada diminuindo ligeiramente no ponto de impacto.
->
-> **[10-11s]** Uma segunda funcionária pega uma garrafa térmica com água quente, arremessando-a diretamente contra a criatura.
->
-> **[11-12s]** Vapor explode onde a água atinge, o gelo enfraquecendo visivelmente no ponto de contato.
->
-> **[12-13s]** A criatura cambaleia, momentaneamente desestabilizada, padrões de geada tremeluzindo sobre sua forma.
->
-> **[13-14s]** A funcionária aproveita a vantagem, atacando novamente com o atiçador.
->
-> **[14-15s]** Plano aberto: os hóspedes alcançam o corredor distante, alguns olhando para trás com medo.
->
-> **[15-16s]** A criatura avança ferozmente em direção a ela, garras geladas estendidas.
->
-> **[16-17s]** Ela abaixa-se rapidamente, evitando o golpe por pouco, rolando em direção à lareira.
->
-> **[17-18s]** Ela pega um tronco em chamas diretamente da lareira com luvas.
->
-> **[18-19s]** Câmera lenta: ela gira o tronco em arco em direção ao peito da criatura.
->
-> **[19-20s]** O impacto envia uma onda de choque através do corpo inteiro da criatura, rachaduras se espalhando pelo gelo.
->
-> **[20-21s]** A criatura congela no meio do movimento, rachaduras cristalinas cobrindo toda a superfície.
->
-> **[21-22s]** Câmera lenta: a criatura se estilhaça em milhares de fragmentos de gelo, nuvens de vapor preenchendo o ar.
->
-> **[22-23s]** Plano detalhe: fragmentos de gelo derretendo no chão de madeira, poças douradas refletindo a luz da lareira.
->
-> **[23-24s]** A funcionária respira pesadamente, ainda segurando o atiçador, observando os últimos pedaços derreterem.
->
-> **[24-25s]** Os hóspedes começam a retornar lentamente, olhares misturando alívio e incredulidade.
->
-> **[25-26s]** Plano final: a janela quebrada mostra a tempestade continuando lá fora, enquanto a lareira mantém o calor dentro.
-```
-
-<img src="https://pbs.twimg.com/media/HTrZ4CDbUAAdA-T.jpg" width="600" alt="Ataque do Monstro de Gelo na Estalagem de Esqui">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11813)**
-
-**Autor:** [auqib](https://x.com/auqibhabib) | **Fonte:** [Link](https://x.com/auqibhabib/status/2106235341548273915) | **Publicado:** Oct 3, 2026
-
----
-### Memória Cinematográfica da Infância no Futebol de Rua
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para gerar um vídeo nostálgico e ultra-realista de crianças jogando futebol de rua na hora dourada, com movimentos dinâmicos de câmera e celebrações em câmera lenta.
-
-#### 📝 Prompt
-
-```
-Crie uma sequência cinematográfica ultra-realista em live-action, ambientada em um bairro quente e empoeirado durante a hora dourada. Comece com uma vista aérea de uma área residencial animada → close-up de uma criança colocando uma bola de futebol desgastada no chão poeirento → as crianças começam a jogar uma intensa partida de futebol de rua → planos dinâmicos em ângulo baixo mostrando dribles rápidos, técnica de pés e a bola voando pelo ar → termine com um plano cinematográfico em câmera lenta das crianças celebrando após marcar um gol. Luz solar dourada e quente, partículas realistas de poeira, movimento natural, sensação de câmera na mão, profundidade de campo rasa, ambientes detalhados, emoções autênticas, transições cinematográficas suaves, live-action fotorrealista, atmosfera nostálgica de amadurecimento. Sem texto, legendas, logotipos ou marcas d'água.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106206604773437440/img/CTdbn4tRQamgI8cz.jpg" width="600" alt="Memória Cinematográfica da Infância no Futebol de Rua">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11815)**
-
-**Autor:** [Aynah](https://x.com/AynahhX) | **Fonte:** [Link](https://x.com/AynahhX/status/2106206660582850732) | **Publicado:** Oct 3, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -5231,6 +4781,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-25T03:43:04.655Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-25T09:12:47.686Z</sub>
 
 </div>

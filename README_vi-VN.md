@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6587** |
+| 📝 Tổng số prompt | **6591** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-10-25** |
 
@@ -361,6 +361,110 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Đóng băng hỗn loạn ở hành lang trường học
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt điện ảnh cho cảnh hành lang trường học, nơi một người phụ nữ điềm tĩnh làm đông cứng cuộc hỗn chiến phía sau cô trong chuyển động chậm.
+
+#### 📝 Prompt
+
+```
+Tạo một video 4K siêu chân thực mang đậm chất điện ảnh, bối cảnh tại hành lang của một ngôi trường hiện đại. Một cô gái trẻ tóc nâu búi cao hơi rối, mặc áo len cổ lọ màu kem và đeo tai nghe có dây, bước đi điềm tĩnh dọc theo hành lang trong khi phía sau lưng cô, những người đeo mặt nạ đang lao vào đánh nhau dưới hiệu ứng chuyển động chậm (slow motion). Giấy tờ, bàn ghế và những lon nước ngọt màu đỏ bay tung tóe giữa không trung khi cô giơ một tay lên và bí ẩn đóng băng mọi thứ xung quanh mình. Cô vẫn giữ vẻ mặt hoàn toàn bình thản, không chút biểu cảm, trong khi khung cảnh hỗn loạn lập tức dừng lại. Ánh sáng điện ảnh tông ấm, biểu cảm gương mặt chân thực, từng lọn tóc chuyển động chi tiết, độ sâu trường ảnh mỏng, góc máy tiến lại gần mượt mà, slow motion đầy kịch tính, vật lý tự nhiên, chỉnh màu chuẩn chất lượng phim điện ảnh, khung hình rộng 16:9, thời lượng 15 giây, không thoại, không chữ, không watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114222867823124480/img/Dh_-novuM4GOJWVn.jpg" width="600" alt="Đóng băng hỗn loạn ở hành lang trường học">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13003)**
+
+**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2114222906867888426) | **Đã xuất bản:** Oct 25, 2026
+
+---
+### Prompt Video Biến Đổi Ma Thuật Hắc Ám Halloween Hogwarts Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt tạo video chi tiết cao cho Seedance 2.0, tạo ra một video ngắn dọc điện ảnh 15 giây với chủ đề biến đổi trang phục ma thuật hắc ám, kết hợp thẩm mỹ Halloween và Hogwarts. Prompt chỉ định sự nhất quán của nhân vật, thay đổi trang phục đồng bộ với nhịp nhạc, chuyển động camera và các hiệu ứng hình ảnh cụ thể sử dụng hình ảnh tham chiếu.
+
+#### 📝 Prompt
+
+```
+Thời lượng 15 giây, khung hình dọc 9:16, phim ngắn người thật đóng mang phong cách điện ảnh, chủ đề biến trang phục ma thuật hắc ám Halloween x Hogwarts. @Image1 là mẫu nhân vật gốc, @Image2 Đỏ Vàng, @Image3 Xanh Ngọc Lục Bảo, @Image4 Xanh Bạc, @Image5 Đen Vàng, @Image6 Nữ Hoàng Đen Bạc, xuất hiện theo đúng thứ tự. Xuyên suốt vẫn là một mỹ nhân trưởng thành duy nhất, tóc đen dài xoăn, môi đỏ rượu vang, bịt mắt ren đen che mặt, không bao giờ tháo ra, tuyệt đối không thay đổi khuôn mặt trong toàn bộ video. Hình ảnh tham khảo chỉ dùng để định hướng trang phục và nhân vật; không ghép nối thô các ảnh tĩnh lại với nhau.
+
+Âm nhạc: Phonk giao hưởng hắc ám 160 BPM, mở đầu bằng tiếng chuông Gothic, trống dồn dập mạnh mẽ, biến trang phục tức thì ngay nhịp xuống (downbeat) tại các mốc 1.5/4.5/7.5/9.75/12 giây, đạt cao trào Drop tối đa ở giây thứ 12; các pha biến hình sử dụng hiệu ứng chớp che khuất 0.2 giây, đồng bộ hoàn hảo giữa âm thanh và hình ảnh.
+
+0–1.5s: Cận cảnh cực đại vào bịt mắt và đôi môi đỏ của @Image1, đầu ngón tay chạm nhẹ vào mặt nạ, camera giật lùi nhanh; trăng tròn màu cam, bầy dơi, lâu đài và đèn lồng bí ngô lần lượt hiện ra, những quả bí ngô phun lửa đỏ vàng phủ kín màn hình.
+
+1.5–4.5s: Ngọn lửa tan đi hóa thành @Image2, cú máy tracking rộng từ góc thấp phía trước, mỹ nhân sải bước tiến lên và vung mạnh áo choàng đỏ vàng sang phải, phía sau là chú sư tử lửa gầm thét; tà áo choàng quét qua ống kính, biến thành làn khói xanh.
+
+4.5–7.5s: Khói tan lộ ra @Image3, camera xoay quỹ đạo ra phía sau góc 45 độ, mỹ nhân ngoái lại giơ đũa phép; vạc thuốc nổ tung, con rắn lục khổng lồ quấn quanh cột đá, bóng rắn lướt qua ống kính hóa thành bóng ma xanh dương.
+
+7.5–9.75s: Chuyển sang @Image4, camera bay chéo trên cao xoay quỹ đạo theo chiều kim đồng hồ, cô dang rộng hai tay xoay vòng, váy xanh bạc xòe tung; bóng ma và ánh sao nhảy múa, cánh đại bàng quét qua ống kính hóa thành những chiếc lá vàng.
+
+9.75–12s: Chuyển sang @Image5, cú máy panning tracking ngang, cô vừa bước đi vừa vẫy đũa phép, mèo đen chạy vụt qua, dây leo bí ngô mọc hoang dại, từng chiếc đèn lồng bí ngô nhô lên; quả bí ngô khổng lồ lao thẳng vào ống kính, ánh sáng vụt tắt, chớp đen.
+
+12–14.3s: Tia sét xé toạc bóng tối cùng nhịp Drop cực đại, chuyển sang @Image6; camera góc siêu thấp giật lùi nhanh, nữ hoàng lơ lửng, vương miện hạ xuống, đôi cánh đen khổng lồ đột ngột xòe rộng, trăng tròn hóa huyết nguyệt, bầy dơi vỗ cánh bay lên, bí ngô bùng cháy ngọn lửa trắng bạc.
+
+14.3–15s: Cô chĩa thẳng đũa phép vào ống kính đầy uy lực, ma thuật bạc va chạm cùng lông vũ đen phủ kín màn hình,呼应 lại hình ảnh bịt mắt lúc mở đầu, tạo thành một vòng lặp hoàn chỉnh.
+
+Yêu cầu: Mỗi lần chuyển cảnh phải che khuất hoàn toàn trước rồi mới biến trang phục tức thì, chuyển động liên tục, thay đổi linh hoạt cỡ cảnh và góc máy, trang phục rõ nét, chất liệu vải và tóc chuyển động chân thực; không khí Halloween mãnh liệt nhưng nhân vật luôn là tâm điểm thị giác. Cấm hiệu ứng quần áo chảy nhão chậm chạp, lệch mặt, biến dạng tay chân, kỹ xảo rẻ tiền, phụ đề và watermark.
+```
+
+<img src="https://cms-assets.youmind.com/media/1792907864427_qpq5sj_HVaRqRyWUAADs0j.jpg" width="600" alt="Prompt Video Biến Đổi Ma Thuật Hắc Ám Halloween Hogwarts Seedance 2.0">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13004)**
+
+**Tác giả:** [麻酱AI实验室](https://x.com/zhongying14) | **Nguồn:** [Link](https://x.com/zhongying14/status/2114038007435055604) | **Đã xuất bản:** Oct 24, 2026
+
+---
+### Hoạt Hình Đất Sét Samurai Và Oni Geisha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt chi tiết để tạo video hài hước phong cách claymation nhịp độ nhanh, với sự tương tác giữa một Samurai và một Oni Geisha thông qua yếu tố hài hình thể và thẩm mỹ stop-motion.
+
+#### 📝 Prompt
+
+```
+Phác thảo hoạt hình đất sét dễ thương nhịp độ nhanh dài 15 giây. Sử dụng chính xác thiết kế nhân vật từ bản tham khảo: Samurai đất sét màu xanh khổng lồ nghiêm nghị và Oni/Geisha màu đỏ nhỏ bé thanh lịch. Thẩm mỹ đất sét stop-motion thủ công, hiệu ứng co giãn (squash-and-stretch) đầy biểu cảm, hài kịch hình thể vui nhộn. Không thoại. Không có khoảng chết.
+
+0–4 giây: Samurai rút katana đầy kịch tính với vẻ nghiêm trọng thái quá — SHIIING! Anh ta tạo dáng chiến đấu đầy uy hiếp. Cô nàng Oni-Geisha tí hon chẳng hề nao núng, thong thả rút ra một chiếc quạt xếp nhỏ màu đỏ rồi ĐẬP mạnh mặt phẳng của thanh kiếm xuống dưới.
+
+4–8 giây: Samurai đứng sững vì không tin nổi. Oni-Geisha đắc ý bước qua mặt anh ta. Anh vội vàng lao tới chắn trước mặt cô và múa một chuỗi đường kiếm nhanh như chớp cực kỳ rườm rà đến mức phi lý, tay áo và bộ lam bào xanh bay phần phật — VÙ, VÚT, VÚT! Cô nhẹ nhàng cúi người né từng nhát chém trong khi vẫn tiếp tục bước đi những bước nhỏ nhắn duyên dáng mà chẳng thèm liếc nhìn anh.
+
+8–12 giây: Bực bội, Samurai dồn sức tung một cú bổ từ trên cao xuống cực mạnh. Oni-Geisha chỉ đơn giản là bước sang ngang một bước thật nhỏ. RẦM! Thanh katana cắm sâu xuống sàn đất sét. Anh tuyệt vọng kéo lên; thanh kiếm nhất quyết không nhúc nhích. Thân hình khổng lồ của anh bị kéo giãn ra trông vô cùng buồn cười vì dùng quá nhiều sức.
+
+12–15 giây: Oni-Geisha bình tĩnh gõ chiếc quạt vào chuôi kiếm đúng một lần — CỐC! Thanh kiếm lập tức bật ra, hất văng Samurai về phía sau thành một cú ngã lăn lóc bằng đất sét cực kỳ ngớ ngẩn. Anh hạ cánh ở tư thế ngồi thẳng lưng, đờ đẫn. Oni-Geisha khẽ cúi chào anh một cái đầy kiêu hãnh rồi xòe quạt đánh tách. Kết thúc ngay tại ánh mắt ngượng ngùng của Samurai.
+
+Âm thanh: nhạc cụ gõ và đàn gảy dây lấy cảm hứng từ Nhật Bản mang âm hưởng dễ thương, tràn đầy năng lượng, được đồng bộ hóa chặt chẽ với các tình huống hài hước; tiếng bước chân trên đất sét phóng đại, tiếng rút kiếm, tiếng kim loại vút gió, tiếng quạt đập, âm thanh va chạm và những tiếng "bốp" gây cười. Không lời nói, không giọng hát.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114022336512905216/img/5DAPE8_KuJC9gE29.jpg" width="600" alt="Hoạt Hình Đất Sét Samurai Và Oni Geisha">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13002)**
+
+**Tác giả:** [Keskin](https://x.com/craftian_keskin) | **Nguồn:** [Link](https://x.com/craftian_keskin/status/2114028393347883491) | **Đã xuất bản:** Oct 24, 2026
+
+---
+### Prompt Bữa Trưa Với Chuỗi Hành Động Mua Khoai Chiên
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt so sánh Seedance 2.0 và Kling 4.0 trong một chuỗi hành động đời thường khi đi mua đồ ăn.
+
+#### 📝 Prompt
+
+```
+một chuỗi khoảnh khắc thường ngày: nhận phần ăn, nhón lấy miếng khoai tây chiên, nhấp một ngụm nước rồi cười đùa cùng bạn bè
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113867563771842560/img/u8Iuas8eesjV9cba.jpg" width="600" alt="Prompt Bữa Trưa Với Chuỗi Hành Động Mua Khoai Chiên">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13001)**
+
+**Tác giả:** [Jayden Douglass 💭 | AI Coach](https://x.com/JaydenCoach) | **Nguồn:** [Link](https://x.com/JaydenCoach/status/2113867722786259116) | **Đã xuất bản:** Oct 24, 2026
+
+---
 ### Prompt Video Chiến Binh Điện Ảnh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -4607,556 +4711,6 @@ Dịch chuyển tức thời
 **Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2106388571863253309) | **Đã xuất bản:** Oct 3, 2026
 
 ---
-### Prompt Video Quảng Cáo Giày Bóng Đá Thời Trang Cao Cấp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt chi tiết để tạo video quảng cáo giày bóng đá thời trang cao cấp dài 15 giây bằng Seedance 2.0, với các cảnh quay điện ảnh về đôi giày đinh màu vàng kim loại trên sân bóng rộng mở.
-
-#### 📝 Prompt
-
-```
-Tạo một video quảng cáo giày bóng đá thời trang cao cấp dài 15 giây sử dụng hình ảnh tham khảo đã tải lên cho đôi giày đinh bóng đá màu vàng kim loại, tất trắng cao quá gối và phong cách bóng đá nữ tính cổ điển. Giữ nguyên thiết kế, màu sắc, kết cấu và tỷ lệ của giày trong suốt toàn bộ video.
-
-Môi trường: Một sân bóng đá ngoài trời rộng lớn, phủ đầy cỏ xanh tự nhiên tươi tốt, với đường chân trời hoàn toàn thoáng đãng và bầu trời xanh hồng pastel mơ màng tuyệt đẹp. Sân bóng phải mang lại cảm giác rộng rãi và hoang sơ. Không có sân vận động, không có khán giả, không có tòa nhà, không có khán đài, không có môi trường trong nhà, không có hàng rào gần.
-
-0–3 giây: Cảnh quay điện ảnh góc rộng của một nữ cầu thủ trẻ đứng một mình giữa sân bóng rộng lớn. Cô ấy mặc cùng bộ trang phục lấy cảm hứng từ vintage thanh lịch như trong hình ảnh tham khảo, đi tất trắng cao quá gối và giày đinh bóng đá màu vàng kim loại. Cô ấy nhẹ nhàng đặt một chân lên quả bóng. Camera di chuyển chậm về phía cô trong khi ánh nắng phản chiếu rực rỡ trên đôi giày.
-
-3–6 giây: Chuyển sang các cảnh quay cận cảnh kịch tính của đôi giày vàng kim loại. Chân cô ấy đạp mạnh xuống cỏ, các đinh giày nhấn tự nhiên vào mặt sân, và cô ấy thắt dây giày. Chuyển động camera macro làm nổi bật kết cấu kim loại, đường may, đế và đinh giày. Hãy biến đôi giày thành nhân vật chính về mặt thị giác.
-
-6–10 giây: Cô ấy bắt đầu chơi bóng đá trên sân bóng hoàn toàn thoáng đãng, rê bóng nhanh chóng và tự tin. Sử dụng camera tracking góc thấp tập trung vào đôi chân và giày đinh khi cô ấy đổi hướng, tăng tốc và kiểm soát bóng. Trang phục bay bổng của cô ấy di chuyển tự nhiên theo từng động tác.
-
-10–13 giây: Cô ấy chạy đà mạnh mẽ và sút quả bóng bằng giày đinh vàng kim loại. Quay cảnh sút bóng ở chế độ slow-motion điện ảnh, cho thấy giày tiếp xúc với bóng, các hạt cỏ bay lên tự nhiên và quả bóng lao vút qua sân bóng rộng lớn.
-
-13–15 giây: Cảnh quay hero shot cao cấp. Quả bóng lăn đến dừng lại bên cạnh đôi giày đinh vàng kim loại của cô ấy. Cô ấy đứng tự tin ở hậu cảnh trên sân cỏ xanh rộng lớn khi ánh nắng ấm áp chiếu vào đôi giày kim loại. Camera đẩy chậm về phía đôi giày và kết thúc bằng một cảnh quay cận cảnh tập trung vào sản phẩm.
-
-Phong cách hình ảnh: chiến dịch thời trang thể thao xa xỉ, nhiếp ảnh biên tập mơ màng, ánh sáng tự nhiên điện ảnh, chuyển động bóng đá thực tế, vật lý cỏ thực tế, phong cách nữ tính thanh lịch, chuyển động camera năng động, chi tiết giày macro, độ sâu trường ảnh nông, chất lượng thương mại cao cấp, siêu thực, kết cấu phim tinh tế.
-
-Quan trọng: Giữ nguyên đôi giày đinh bóng đá vàng kim loại giống hệt nhau trong suốt video. Không thay đổi thiết kế giày, không biến dạng bàn chân, không thừa chi, không méo mó quả bóng, không xuất hiện CGI giả tạo. Toàn bộ video diễn ra ngoài trời trên một sân bóng đá rộng lớn duy nhất.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106319331823165440/img/HRw0Mc4qjR1ZtqNR.jpg" width="600" alt="Prompt Video Quảng Cáo Giày Bóng Đá Thời Trang Cao Cấp">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11849)**
-
-**Tác giả:** [Soulful Ai](https://x.com/soulful__ai) | **Nguồn:** [Link](https://x.com/soulful__ai/status/2106321511212544372) | **Đã xuất bản:** Oct 3, 2026
-
----
-### Prompt Video Trận Chiến Tiên Hiệp Epic
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một prompt chi tiết để tạo ra hoạt hình 3D CG chất lượng cao về một nữ kiếm sĩ chiến đấu với bầy quái vật trong cõi trời tiên cảnh lơ lửng, nổi bật với các hiệu ứng hình ảnh và chuyển động camera cụ thể.
-
-#### 📝 Prompt
-
-```
-[Cài Đặt Chất Lượng Hình Ảnh Toàn Cục]
-
-UE5.4 Path Tracing, Lumen Global Illumination, Nanite, Vật liệu PBR Physical. Hoạt hình 3D CG phong cách Tiên hiệp Trung Quốc chất lượng cao, 8K, HDR, quản lý màu ACES, quay phim điện ảnh, độ mượt cao tốc 60fps.
-
-Phá hủy vật lý Chaos, mảnh vỡ cứng thực tế với quỹ đạo trọng lực, mô phỏng vải, chiếu sáng thể tích (volumetric lighting), tia sáng thần (godrays), bóng đổ tiếp xúc (contact shadows), phản xạ ray-traced.
-
-Trên chín tầng trời trước bình minh, vô số đảo bất tử lơ lửng giữa biển mây mênh mông.
-
-Cảnh bao gồm chủ yếu:
-
-Cầu ngọc trắng
-Điện phủ bất tử đổ nát
-Bệ đá lơ lửng
-Tượng lớn bị phá hủy
-Biển mây
-Vết nứt bầu trời sao
-Nhóm đảo bất tử trên cao
-
-Góc nhìn từ trên cao vẫn là dòng sông sao sâu thẳm, trong khi chân trời xa lộ ra ánh vàng đầu tiên của bình minh.
-
-Tổng thể sử dụng tông màu xám chàm bão hòa thấp, trắng trăng, xanh băng và vàng tối.
-
-Các kỹ năng lớn có màu sắc ánh sáng nguyên tố khác nhau, nhưng luôn duy trì tông xanh băng và vàng tối của Hanjin làm nền tảng thống nhất.
-
-Các vết nứt do chiến đấu gây ra, lớp băng, dấu cháy, cầu gãy, hố lớn, vết kiếm và xác quái vật tích tụ liên tục và không tự phục hồi.
-
-Sỏi đá, mảnh ngọc trắng và vỏ quái vật tuân theo trọng lực và quán tính thực tế.
-
-Biển mây sẽ trải qua sự cuộn xoáy thể tích do sóng xung kích, bão và các kỹ năng năng lượng lớn.
-
-Tóc, áo choàng và tua rua của nhân vật luôn chịu tác động của chuyển động tốc độ cao và luồng khí ở độ cao lớn.
-
-16:9.
-
-[Nhân Vật Chính | Đại Sư Tỷ · Kiếm Sĩ Hanjin]
-
-Tài sản nhân vật @Image1.
-
-Duy trì nghiêm ngặt:
-
-Khuôn mặt nữ phương Đông lạnh lùng.
-
-Tóc đen dài buộc đuôi ngựa cao.
-
-Ba dấu hoa văn xanh trên trán.
-
-Áo giáp chiến đấu nhiều lớp màu xanh đen đậm.
-
-Cấu trúc chạm khắc bạc tối, đồng vàng.
-
-Tua rua xanh và trang sức ngọc.
-
-Các tham chiếu nhân vật đa góc thuộc cùng một vai diễn.
-
-Chỉ có một đại sư tỷ trong toàn bộ phim.
-
-Cấm: đổi mặt, thay đổi kiểu tóc, thay đổi dấu trên trán, sửa đổi dáng người, thay đổi trang phục ngẫu nhiên hoặc tạo bản sao nhân vật.
-
-[Vũ Khí | Hanjin]
-
-Tài sản vũ khí @Image2.
-
-Hanjin là vũ khí duy nhất trong toàn bộ phim.
-
-Duy trì lưỡi kiếm pha lê trong suốt xanh băng, vết nứt băng, chắn tay chạm khắc bạc tối, đá quý xanh, chuôi kiếm tối và tua rua xanh.
-
-Hanjin luôn là cốt lõi của mọi lần kích hoạt kỹ năng lớn.
-
-Các nguyên tố khác nhau có thể thay đổi hiệu ứng ánh sáng bên ngoài và màu sắc môi trường của thanh kiếm, nhưng không được thiết kế lại vũ khí vật lý.
-
-Cấm: nhân đôi, cầm hai tay, thay đổi màu ngẫu nhiên, thay đổi hình dạng kiếm hoặc tạo vỏ kiếm thành vũ khí thứ hai.
-
-[Quái Vật | Bầy Quái Ăn Sao]
-
-Có nhiều quái vật ăn sao được thiết kế đồng nhất trên chiến trường.
-
-Lính thường chủ yếu bao gồm:
-
-Cơ thể hư không obsidian + vỏ obsidian không mặt + lõi sao tím + móng vuốt.
-
-Sinh vật ăn sao bay nhanh tồn tại trên không.
-
-Đơn vị lớn có kích thước lớn hơn đáng kể so với các tòa điện phủ bất tử, tấn công bằng lòng bàn tay khổng lồ, đá tảng obsidian và năng lượng lõi sao.
-
-Thủy triều quái vật bổ sung từ:
-
-Vết nứt bầu trời sao.
-
-Phía sau các đảo lơ lửng.
-
-Dưới biển mây.
-
-Tàn tích điện phủ bất tử.
-
-Quái vật phải chủ động:
-
-Truy đuổi.
-
-Giết chóc.
-
-Bao vây.
-
-Không kích.
-
-Khống chế tầm xa.
-
-Không thể chỉ đứng yên quanh nhân vật chính chờ bị tiêu diệt.
-
-Khi bị đánh bại, quái vật tan rã thành mảnh obsidian, bụi sao tím và lõi sao tắt ngấm.
-
-Mảnh vỡ rơi xuống các đảo lơ lửng và tàn tích và tồn tại dai dẳng.
-
-[Quy Tắc Chiến Đấu Toàn Cục]
-
-Hack-and-slash Tiên hiệp 1vN tốc độ cao kéo dài 30 giây.
-
-Không có thoại.
-
-Không có tiếng hét chiến đấu.
-
-Không hô tên kỹ năng.
-
-Không slow motion.
-
-Không freeze frames.
-
-Không hit-stop.
-
-Các yếu tố chiến đấu chính là:
-
-Chuyển động tốc độ cao + Kỹ năng khổng lồ + Dọn sạch thủy triều quái vật quy mô lớn.
-
-Toàn bộ phim bao gồm mười đợt bùng nổ kỹ năng lớn.
-
-Mười loại kỹ năng phải có khái niệm hình ảnh riêng biệt, không chỉ là cùng một kiếm khí đổi màu.
-
-Hệ thống nguyên tố kỹ năng có thể bao gồm:
-
-Sông Sao.
-
-Sấm Sét.
-
-Bão.
-
-Rơi Thiên Thể.
-
-Ánh Trăng và Ánh Gương.
-
-Hiện Tượng Mặt Trời.
-
-Đại Trận Kiếm.
-
-Vết Nứt Không Gian.
-
-Màn Cực Quang.
-
-Hiện Tượng Kết Thúc Vòm Trời.
-
-Những nguyên tố này không cần được thực hiện theo thứ tự xuất hiện trong văn bản.
-
-Các nguyên tố khác nhau phải có sự khác biệt hình ảnh rõ ràng.
-
-[Chuyển Động Tốc Độ Cao]
-
-Đại Sư Tỷ luôn ở trạng thái di động cao.
-
-Các phương pháp di chuyển chính bao gồm:
-
-Xung phong lướt sát đất.
-
-Quay ngược lateral tốc độ cao.
-
-Nhảy giữa các đảo lơ lửng.
-
-Dịch chuyển ngắn khoảng cách.
-
-Leo thẳng đứng.
-
-Lặn xuống.
-
-Vòng tròn bên cạnh.
-
-Đổi hướng giữa không trung.
-
-Dịch chuyển ngắn khoảng cách giữ lại dư ảnh xanh băng và vàng tối với điểm kết thúc rõ ràng.
-
-Nhân vật tiếp tục chiến đấu ngay lập tức khi đến điểm kết thúc.
-
-Dư ảnh không phải là bản sao vật lý.
-
-Cấm: biến nhân vật thành đường năng lượng không thể nhận dạng trong thời gian dài.
-
-[Kỹ Năng Nhỏ]
-
-Chỉ sử dụng các hành động phụ cực ngắn giữa các kỹ năng lớn.
-
-Bao gồm:
-
-Kiếm khí tầm gần.
-
-Thay đổi vị trí bằng bước chân.
-
-Đánh liên tiếp tốc độ cao.
-
-Ánh sáng kiếm kiểu bắn điểm.
-
-Những hành động này chủ yếu phục vụ để:
-
-Xử lý quái vật tầm gần.
-
-Điều chỉnh vị trí không gian.
-
-Kết nối với kỹ năng lớn tiếp theo.
-
-Không sử dụng nhiều đòn tấn công thường để câu giờ.
-
-[Hệ Thống Kỹ Năng Khổng Lồ]
-
-Loạt Sông Sao
-
-Hanjin có thể huy động sông sao trên cao.
-
-Năng lượng sông sao xanh băng khổng lồ đi vào chiến trường từ vòm trời, tạo thành dòng chảy lớn giữa các đảo lơ lửng và cầu.
-
-Bầy quái vật bị phân tán bởi dòng thác sông sao, và biển mây cuộn sang hai bên sau va chạm.
-
-Chiến trường có thể để lại dấu vết sông sao đóng băng hoặc dải năng lượng xanh băng.
-
-Loạt Sấm Sét
-
-Mây sấm trên trời đáp lại Hanjin.
-
-Sét khổng lồ giáng xuống khu vực chiến tranh cốt lõi.
-
-Sét có thể tạo thành:
-
-Kiếm sấm.
-
-Cột sấm.
-
-Mạng hồ quang.
-
-Đại trận kiếm.
-
-Bầy quái vật mất thăng bằng và bị ném liên tục trong mưa dày đặc.
-
-Bề mặt đảo lơ lửng hiển thị dấu vết cháy xém, sốc điện và nứt nẻ.
-
-Loạt Bão
-
-Hanjin vung kiếm tạo ra một cơn bão xanh băng lớn.
-
-Nhiều xoáy thuận khổng lồ quét qua các đảo lơ lửng và biển mây.
-
-Bão có thể cuốn lên đồng thời:
-
-Quái vật.
-
-Sỏi đá.
-
-Sương mù.
-
-Mảnh vỡ điện phủ bất tử.
-
-Đại Sư Tỷ lao nhanh bên trong cơn bão để tiếp tục truy đuổi.
-
-Môi trường hiển thị xói mòn gió và thiệt hại xoáy rõ rệt.
-
-Loạt Thiên Thể
-
-Bất thường xảy ra trong sông sao trên cao.
-
-Nhiều thiên thể với tinh thể băng, ánh sao hoặc năng lượng vàng tối rơi nhanh từ bầu trời.
-
-Nhiều đảo lơ lửng chịu những cú va chạm lớn liên tục.
-
-Sản sinh ra:
-
-Hố lớn.
-
-Sương lạnh.
-
-Sỏi đá.
-
-Sóng xung kích.
-
-Tan rã thủy triều quái vật quy mô lớn.
-
-Loạt Ánh Trăng
-
-Hiện tượng hình ảnh trắng trăng quy mô lớn xuất hiện trên chiến trường.
-
-Có thể đạt được thông qua:
-
-Gương ánh trăng.
-
-Phản xạ tinh thể băng.
-
-Ánh sáng kiếm khúc xạ đa hướng.
-
-Tạo thành mạng lưới chém diện rộng.
-
-Ánh sáng chém cắt xuyên thủy triều quái vật từ nhiều hướng đồng thời.
-
-Một số cấu trúc ánh trăng vẫn còn trong môi trường sau khi kỹ năng kết thúc.
-
-Loạt Mặt Trời
-
-Khi bình minh đến gần, ánh nắng đầu tiên đi vào chiến trường.
-
-Hanjin có thể huy động năng lượng mặt trời vàng tối.
-
-Chim thần vàng khổng lồ, lửa kiếm mặt trời rực rỡ hoặc hiện tượng thiên thể vàng quy mô lớn đi ngang qua nhóm đảo lơ lửng.
-
-Xanh băng và vàng tối tạo thành lớp phủ lạnh-nóng mạnh mẽ.
-
-Nhiều bầy quái vật tan rã thành bụi sao dưới năng lượng mặt trời.
-
-Loạt Trận Kiếm
-
-Quảng trường điện phủ bất tử lớn hoặc sân đảo lơ lửng được kích hoạt bởi ý chí kiếm của Hanjin.
-
-Nhiều kiếm xanh băng khổng lồ trồi lên từ các tòa nhà, lớp băng hoặc mặt đất.
-
-Kích thước kiếm lớn hơn nhiều so với vũ khí bình thường.
-
-Toàn bộ khu vực nhanh chóng hình thành rừng kiếm hoặc trận đồ lớn.
-
-Đại Sư Tỷ di chuyển tốc độ cao bên trong trận kiếm.
-
-Quái vật bị đẩy văng liên tiếp, bị xuyên qua bởi cơ thể năng lượng hoặc bị ném lên không trung từ các vị trí khác nhau.
-
-Loạt Vết Nứt
-
-Hanjin có thể tạm thời xé toạc không gian chiến trường.
-
-Vết nứt không gian đen khổng lồ hình thành giữa bầu trời hoặc các đảo lơ lửng.
-
-Viền vết nứt được viền bằng năng lượng xanh băng và vàng tối.
-
-Nhiều ánh sáng kiếm hoặc vết cắt không gian lan ra ngoài dọc theo viền vết nứt.
-
-Đại Sư Tỷ có thể nhanh chóng thay đổi vị trí xung quanh vết nứt.
-
-Dư ảnh trực quan rõ ràng vẫn còn sau khi vết nứt không gian kết thúc.
-
-Cấm: sử dụng lỗ đen nuốt chửng thông thường thay vì vết nứt không gian.
-
-Loạt Cực Quang
-
-Cực quang xanh băng, trắng trăng và vàng nhạt diện rộng xuất hiện trên bầu trời cao.
-
-Cực quang hạ xuống từ vòm trời, bao phủ nhiều đảo lơ lửng.
-
-Màn cực quang có độ sâu và quy mô không gian khổng lồ.
-
-Quái vật đi vào chúng:
-
-Đóng băng.
-
-Mất thăng bằng.
-
-Tan rã thành năng lượng.
-
-Đại Sư Tỷ shuttle tốc độ cao giữa các lớp cực quang khác nhau.
-
-Giai đoạn này dần đưa toàn bộ chiến trường đến cao trào cuối cùng.
-
-[Giai Đoạn Cuối Cùng]
-
-Hình ảnh để lại bởi các trận chiến trước vẫn tồn tại trong cảnh.
-
-Ví dụ:
-
-Lớp băng.
-
-Dấu cháy.
-
-Xói mòn gió.
-
-Hố va chạm.
-
-Mảnh gương.
-
-Rừng kiếm.
-
-Vết nứt không gian.
-
-Dư quang cực quang.
-
-Mảnh vỡ quái vật.
-
-Trong giai đoạn cuối, những yếu tố hình ảnh này không cần tất cả trở thành cùng một kỹ năng trực tiếp, nhưng nên tạo ra một mức độ cộng hưởng môi trường nào đó.
-
-Hanjin trở thành lõi năng lượng cuối cùng.
-
-Đại Sư Tỷ giải phóng một hiện tượng kết thúc quy mô lớn bao phủ nhóm đảo lơ lửng cốt lõi và bầu trời.
-
-Có thể biểu hiện dưới dạng:
-
-Vành sao khổng lồ.
-
-Sóng xung kích vòm trời nhiều lớp.
-
-Ánh sáng kiếm hình vòng xanh băng và vàng tối.
-
-Mở rộng năng lượng bầu trời sao phạm vi lớn.
-
-Quy mô kỹ năng kết thúc phải rõ ràng cao hơn các kỹ năng đơn nguyên tố trước đó.
-
-Sông sao, sét, mặt trời/trăng và hình ảnh cực quang có thể xuất hiện ngắn gọn trong hiệu ứng kết thúc, nhưng không thể phát lại đầy đủ các kỹ năng trước đó.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105684524055322625/img/NCD7cVCLLuAfyOyU.jpg" width="600" alt="Prompt Video Trận Chiến Tiên Hiệp Epic">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11850)**
-
-**Tác giả:** [Arvin](https://x.com/Arvin010717) | **Nguồn:** [Link](https://x.com/Arvin010717/status/2106241257895084452) | **Đã xuất bản:** Oct 3, 2026
-
----
-### Cuộc Tấn Công Của Quái Vật Băng Tại Nhà Nghỉ Trượt Tuyết
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt cho phim ngắn kinh dị - giật gân lấy bối cảnh tại một khu nghỉ dưỡng trượt tuyết, nơi một sinh vật làm từ băng phá cửa xông vào giữa trận bão tuyết và bị các nhân viên đẩy lùi bằng nước nóng và lửa.
-
-#### 📝 Prompt
-
-```
-Phim ngắn kinh dị - giật gân mang phong cách điện ảnh, lấy bối cảnh tại nhà nghỉ của một khu resort trượt tuyết trên núi trong một trận bão tuyết. Mở đầu với điểm nhấn hook ngay lập tức, phong cách chân thực, góc quay động tối đa. Bối cảnh: nội thất ấm cúng của nhà nghỉ bằng gỗ với lò sưởi, những ô cửa sổ lớn nhìn ra tuyết rơi, khách thư giãn bên những ly đồ uống nóng. CHARACTER LOCK (Khóa nhân vật): Nhân vật chính là một nữ nhân viên nhà nghỉ, ngoài 20 tuổi, mặc áo khoác trượt tuyết màu đỏ, nhất quán trong mọi khung hình. Tone màu lạnh nhẹ nhàng, âm thanh diegetic tự nhiên xuyên suốt, nhạc nền căng thẳng bắt đầu ngay lập tức.
->
-> **[0-1s]** Cắt cảnh đột ngột: ô cửa sổ lớn của nhà nghỉ đóng băng ngay lập tức từ bên ngoài, các tinh thể băng lan rộng bất thường nhanh chóng trên mặt kính.
->
-> **[1-2s]** Kính vỡ tung vào trong, một sinh vật hình người được tạo thành từ băng sắc nhọn và tinh thể sương giá bước qua, hơi thở hiện ra như làn khói trong cái lạnh đột ngột.
->
-> **[2-3s]** Những vị khách gần đó há hốc miệng kinh hãi, lùi xa khỏi bàn ngồi cạnh lò sưởi.
->
-> **[3-4s]** Nó tiến về phía vị khách gần nhất, một lớp sương mỏng lan tỏa trên bất cứ thứ gì nó chạm vào.
->
-> **[4-5s]** Anh ta loạng choạng lùi lại, tay áo đóng băng ở chỗ vừa bị nó quệt phải.
->
-> **[5-6s]** Sự hoảng loạn lan khắp nhà nghỉ, các vị khách vội vã chạy về phía cuối phòng.
->
-> **[6-7s]** Nữ nhân viên cầm lấy cây sắt cời lửa bên cạnh lò sưởi, đứng chắn giữa sinh vật và những vị khách đang bỏ chạy.
->
-> **[7-8s]** Nó quay sang cô, các đặc điểm pha lê phản chiếu ánh lửa.
->
-> **[8-9s]** Cô vung cây sắt; cú đánh trúng đích, một vết nứt rạn lan ra trên vai băng của nó.
->
-> **[9-10s]** Nó co giật lại, sương giá tan bớt tại điểm va chạm.
->
-> **[10-11s]** Một nhân viên khác cầm bình giữ nhiệt chứa nước nóng, ném thẳng vào sinh vật.
->
-> **[11-12s]** Hơi nước bốc lên dữ dội khi nước tiếp xúc, băng rõ ràng suy yếu tại điểm va chạm.
->
-> **[12-13s]** Nó loạng choạng, mất thăng bằng tạm thời, các hoa văn sương giá nhấp nháy trên cơ thể nó.
->
-> **[13-14s]** Nữ nhân viên tận dụng lợi thế, tấn công lần nữa bằng cây sắt.
->
-> **[14-15s]** Góc máy rộng: các vị khách đến được hành lang phía xa, vài người ngoái lại đầy sợ hãi.
->
-> **[15-16s]** Sinh vật lao về phía cô, móng vuốt băng vươn ra.
->
-> **[16-17s]** Cô cúi thấp, tránh cú đánh trong gang tấc, lăn về phía lò sưởi.
->
-> **[17-18s]** Cô dùng tay đeo găng nhặt một khúc củi đang cháy trực tiếp từ lò lửa.
->
-> **[18-19s]** Slow motion (quay chậm): cô vung nó theo vòng cung hướng về ngực sinh vật.
->
-> **[19-20s]** Cú va chạm tạo ra một sóng xung kích làm nứt vỡ toàn bộ cơ thể băng của nó.
->
-> **[20-21s]** Nó đông cứng giữa chừng, các vết nứt lan rộng khắp cơ thể pha lê.
->
-> **[21-22s]** Slow motion: nó vỡ tan thành từng mảnh băng bay tứ tung.
->
-> **[22-24s]** Góc máy rộng: các mảnh băng tan chảy dưới hơi ấm, chỉ còn lại một vũng nước trên sàn.
->
-> **[24-26s]** Các vị khách từ từ tiến lại gần, nhìn quanh với vẻ khó tin.
-```
-
-<img src="https://pbs.twimg.com/media/HTrZ4CDbUAAdA-T.jpg" width="600" alt="Cuộc Tấn Công Của Quái Vật Băng Tại Nhà Nghỉ Trượt Tuyết">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11813)**
-
-**Tác giả:** [auqib](https://x.com/auqibhabib) | **Nguồn:** [Link](https://x.com/auqibhabib/status/2106235341548273915) | **Đã xuất bản:** Oct 3, 2026
-
----
-### Kỷ niệm tuổi thơ bóng đá đường phố điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video siêu thực, hoài cổ về trẻ em chơi bóng đá đường phố vào giờ vàng với các chuyển động camera năng động và cảnh ăn mừng quay chậm.
-
-#### 📝 Prompt
-
-```
-Tạo một chuỗi hành động trực tiếp (live-action) mang tính điện ảnh, siêu thực, được đặt trong một khu dân cư ấm áp, đầy bụi vào giờ vàng. Bắt đầu với góc nhìn từ trên cao của một khu dân cư sôi động → cận cảnh một đứa trẻ đặt quả bóng đá cũ kỹ xuống mặt đất bụi bặm → bọn trẻ bắt đầu chơi một trận bóng đá đường phố kịch liệt → các cú máy góc thấp năng động ghi lại những pha rê bóng nhanh, kỹ thuật chân và quả bóng bay qua không trung → kết thúc bằng cảnh quay chậm mang tính điện ảnh khi bọn trẻ ăn mừng sau khi ghi bàn. Ánh nắng vàng ấm áp, các hạt bụi chân thực, chuyển động tự nhiên, cảm giác cầm tay máy quay, độ sâu trường ảnh nông, môi trường chi tiết, cảm xúc chân thật, các chuyển cảnh mượt mà kiểu điện ảnh, hình ảnh live-action siêu thực, bầu không khí hoài niệm tuổi trưởng thành. Không có văn bản, phụ đề, logo hay watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106206604773437440/img/CTdbn4tRQamgI8cz.jpg" width="600" alt="Kỷ niệm tuổi thơ bóng đá đường phố điện ảnh">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11815)**
-
-**Tác giả:** [Aynah](https://x.com/AynahhX) | **Nguồn:** [Link](https://x.com/AynahhX/status/2106206660582850732) | **Đã xuất bản:** Oct 3, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -5218,6 +4772,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-25T03:42:55.871Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-25T09:12:38.397Z</sub>
 
 </div>

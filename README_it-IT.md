@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6587** |
+| 📝 Totale prompt | **6591** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-10-25** |
 
@@ -361,6 +361,110 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Congelamento del Caos nel Corridoio della Scuola
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico per una scena nel corridoio di una scuola, in cui una donna calma congela una rissa caotica alle sue spalle in slow motion.
+
+#### 📝 Prompt
+
+```
+Crea un video cinematografico e ultra-realistico in 4K ambientato nel corridoio di una scuola moderna. Una giovane donna con i capelli castani raccolti in uno chignon disordinato, che indossa un maglione a collo alto color panna e auricolari con il filo, cammina con calma lungo il corridoio mentre alle sue spalle alcune persone mascherate lottano al rallentatore. Fogli, banchi e lattine rosse di bibita volano in aria mentre lei alza una mano e blocca misteriosamente tutto ciò che la circonda. Resta completamente impassibile e priva di emozioni mentre il caos si ferma all'istante. Illuminazione cinematografica calda, espressioni facciali realistiche, movimenti dei capelli dettagliati, profondità di campo ridotta, lento e fluido avvicinamento della camera, slow motion drammatico, fisica naturale, color grading di qualità cinematografica, formato widescreen 16:9, 15 secondi, nessun dialogo, nessun testo, nessun watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114222867823124480/img/Dh_-novuM4GOJWVn.jpg" width="600" alt="Congelamento del Caos nel Corridoio della Scuola">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13003)**
+
+**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2114222906867888426) | **Pubblicato:** Oct 25, 2026
+
+---
+### Prompt Video Seedance 2.0: Trasformazione Magia Oscura Hogwarts Halloween
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt dettagliato per la generazione video con Seedance 2.0: crea un cortometraggio verticale cinematografico di 15 secondi, a tema trasformazione magica oscura, fondendo l'estetica di Halloween e Hogwarts. Il prompt definisce coerenza del personaggio, cambi d'abito sincronizzati al ritmo musicale, movimenti di camera ed effetti visivi specifici tramite immagini di riferimento.
+
+#### 📝 Prompt
+
+```
+15 secondi, formato verticale 9:16, cortometraggio live-action in stile cinematografico con cambio d'abito a tema magia oscura Halloween x Hogwarts. @Image1 è il template base del personaggio, @Image2 Rosso Oro, @Image3 Verde Smeraldo, @Image4 Blu Argento, @Image5 Nero Oro, @Image6 Regina Nero Argento, che compaiono in quest'ordine. Sempre la stessa donna adulta e bellissima, lunghi capelli neri ricci, labbra color rosso vino, mascherina per gli occhi in pizzo nero, mai rimossa, nessun face swap per tutta la durata. Le immagini di riferimento servono per costumi e personaggi; non limitarti a montare insieme immagini statiche.
+
+Musica: Phonk sinfonico dark a 160 BPM, intro con campane gotiche, batteria potente, cambi d'abito istantanei sui tempi forti a 1,5/4,5/7,5/9,75/12 secondi, Drop massimo a 12 secondi; le trasformazioni usano un flash di occlusione da 0,2 secondi, perfetta sincronia audio-visiva.
+
+0–1,5s: Primissimo piano della mascherina e delle labbra rosse di @Image1, i polpastrelli sfiorano la maschera, la camera arretra rapidamente; compaiono una luna piena arancione, pipistrelli, un castello e lanterne zucca, le zucche sputano fiamme rosso-oro che invadono l'inquadratura.
+
+1,5–4,5s: Le fiamme si dissolvono rivelando @Image2, carrellata frontale ampia dal basso verso l'alto, la protagonista avanza a grandi passi e fa roteare con forza il mantello rosso-oro verso destra, un leone di fuoco ruggente alle sue spalle; il mantello spazza l'obiettivo trasformandosi in fumo verde.
+
+4,5–7,5s: Il fumo si dirada rivelando @Image3, la camera orbita fino a posizionarsi a 45 gradi sul retro, la protagonista si volta indietro alzando la bacchetta; un calderone di pozioni esplode, un gigantesco serpente smeraldo si avvolge attorno a un pilastro di pietra, l'ombra del serpente attraversa l'obiettivo trasformandosi in un fantasma blu.
+
+7,5–9,75s: Cambio su @Image4, orbita oraria dall'alto con inquadratura obliqua, lei apre le braccia ruotando su se stessa, la gonna blu-argento si gonfia; fantasmi e luce stellare danzano, ali d'aquila attraversano l'obiettivo trasformandosi in foglie dorate.
+
+9,75–12s: Cambio su @Image5, carrellata laterale, lei cammina agitando la bacchetta, un gatto nero le corre accanto, i tralci di zucca crescono rigogliosi, le lanterne zucca si sollevano una dopo l'altra; una zucca gigante si schianta contro l'obiettivo, le luci si spengono all'improvviso, flash nero.
+
+12–14,3s: Un fulmine accompagnato dal Drop massimo squarcia il buio, cambio su @Image6; rapida carrellata all'indietro con angolazione estremamente bassa, la regina fluttua, la corona scende sul suo capo, enormi ali nere si spiegano all'improvviso, la luna piena diventa rossa come il sangue, i pipistrelli prendono il volo, le zucche bruciano con fiamme bianco-argentee.
+
+14,3–15s: Punta con violenza la bacchetta verso l'obiettivo, un impatto magico argentato e piume nere riempiono lo schermo, richiamando la mascherina iniziale e chiudendo il loop.
+
+Requisiti: Ogni volta prima un'occlusione totale dell'inquadratura, poi un cambio d'abito istantaneo, movimento continuo, variazione dei piani e delle posizioni della camera, costumi nitidi e ben visibili, movimenti realistici di tessuti e capelli; atmosfera Halloween intensa ma il personaggio deve restare sempre il centro visivo. Vietati vestiti che si sciolgono lentamente, deformazioni del viso, arti deformati, effetti dozzinali, sottotitoli e watermark.
+```
+
+<img src="https://cms-assets.youmind.com/media/1792907864427_qpq5sj_HVaRqRyWUAADs0j.jpg" width="600" alt="Prompt Video Seedance 2.0: Trasformazione Magia Oscura Hogwarts Halloween">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13004)**
+
+**Autore:** [麻酱AI实验室](https://x.com/zhongying14) | **Fonte:** [Link](https://x.com/zhongying14/status/2114038007435055604) | **Pubblicato:** Oct 24, 2026
+
+---
+### Animazione in argilla di Samurai e Oni Geisha
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per creare un video comico frenetico in stile claymation, con un Samurai e una Oni Geisha che interagiscono attraverso umorismo fisico ed estetica stop-motion.
+
+#### 📝 Prompt
+
+```
+Sketch in claymation carino e dal ritmo incalzante di 15 secondi. Usa esattamente i design dei personaggi del riferimento: l'enorme e severo Samurai di plastilina blu e la minuscola ed elegante Oni/Geisha rossa. Estetica artigianale della plastilina in stop-motion, squash-and-stretch espressivo, comicità fisica giocosa. Nessun dialogo. Nessun tempo morto.
+
+0–4 sec: Il Samurai sfodera la katana con teatrale serietà esagerata — SHIIING! Assume una posa da combattimento intimidatoria. La minuscola Oni-Geisha non sembra minimamente colpita: tira fuori con nonchalance un piccolo ventaglio rosso pieghevole e colpisce con un THWACK il lato piatto della spada, spingendola verso il basso.
+
+4–8 sec: Il Samurai si immobilizza, incredulo. L'Oni-Geisha gli passa davanti con aria compiaciuta. Lui le si para rapidamente davanti e si esibisce in una sequenza assurdamente elaborata di volteggi fulminei con la spada, mentre maniche e veste blu sferzano l'aria — WHOOSH, SWISH, SWISH! Lei schiva ogni fendente senza sforzo, continuando la sua camminatina aggraziata senza nemmeno degnarlo di uno sguardo.
+
+8–12 sec: Frustrato, il Samurai si lancia in un unico, gigantesco fendente dall'alto. L'Oni-Geisha fa semplicemente un passettino laterale. WHAM! La katana si conficca a fondo nel pavimento di plastilina. Lui tira disperatamente, ma la spada non vuole saperne di muoversi. Il suo corpo enorme si allunga in modo comico per lo sforzo.
+
+12–15 sec: L'Oni-Geisha dà un colpetto calmo all'elsa con il ventaglio — TOK! La spada si libera all'istante, catapultando il Samurai all'indietro in una ridicola capriola nella plastilina. Atterra seduto e dritto, completamente stordito. L'Oni-Geisha gli rivolge un minuscolo inchino compiaciuto e apre il ventaglio con uno scatto secco. Chiudi subito sull'espressione imbarazzata e furiosa del Samurai.
+
+Audio: percussioni energiche e carine di ispirazione giapponese e musica con strumenti a corda pizzicata, perfettamente sincronizzate con la comicità; passi esagerati sulla plastilina, suono della spada che viene sfoderata, sibili metallici, colpi di ventaglio, rumori d'impatto e scoppiettii comici. Nessuna voce parlata, nessun canto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114022336512905216/img/5DAPE8_KuJC9gE29.jpg" width="600" alt="Animazione in argilla di Samurai e Oni Geisha">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13002)**
+
+**Autore:** [Keskin](https://x.com/craftian_keskin) | **Fonte:** [Link](https://x.com/craftian_keskin/status/2114028393347883491) | **Pubblicato:** Oct 24, 2026
+
+---
+### Prompt per la sequenza quotidiana di patatine fritte a pranzo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt che confronta Seedance 2.0 e Kling 4.0 su una sequenza quotidiana di ritiro del cibo.
+
+#### 📝 Prompt
+
+```
+una sequenza di tutti i giorni: ritirare un ordine, rubare una patatina, fare un sorso e ridere con un amico
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113867563771842560/img/u8Iuas8eesjV9cba.jpg" width="600" alt="Prompt per la sequenza quotidiana di patatine fritte a pranzo">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13001)**
+
+**Autore:** [Jayden Douglass 💭 | AI Coach](https://x.com/JaydenCoach) | **Fonte:** [Link](https://x.com/JaydenCoach/status/2113867722786259116) | **Pubblicato:** Oct 24, 2026
+
+---
 ### Prompt Video Cinematografico Guerriero
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -4606,556 +4710,6 @@ Teletrasporto
 **Autore:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2106388571863253309) | **Pubblicato:** Oct 3, 2026
 
 ---
-### Prompt Video Pubblicità Scarpe da Calcio High-Fashion
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato per generare una pubblicità di scarpe da calcio high-fashion di 15 secondi utilizzando Seedance 2.0, con inquadrature cinematografiche di scarpini metallici dorati su un campo aperto.
-
-#### 📝 Prompt
-
-```
-Crea una pubblicità di scarpe da calcio high-fashion di 15 secondi utilizzando le immagini di riferimento caricate per gli scarpini da calcio metallici dorati, i calzettoni bianchi al ginocchio e lo stile femminile vintage del calcio. Mantieni il design della calzatura, i colori, le texture e le proporzioni coerenti per l'intera durata del video.
-
-Ambiente: Un enorme campo da calcio esterno aperto, coperto da erba verde naturale rigogliosa, con un orizzonte completamente libero e un cielo pastello blu e rosa da sogno. Il campo deve apparire spazioso e intatto. Niente stadio, niente spettatori, niente edifici, niente tribune, niente ambienti interni, niente recinzioni ravvicinate.
-
-0–3 sec: Inquadratura cinematografica ampia di una giovane calciatrice adulta in piedi sola nel mezzo del vasto campo aperto. Indossa lo stesso elegante outfit ispirato al vintage delle immagini di riferimento, con calzettoni bianchi al ginocchio e scarpini da calcio metallici dorati. Appoggia delicatamente un piede su un pallone da calcio. La telecamera si muove lentamente verso di lei mentre la luce del sole si riflette magnificamente sugli scarpini.
-
-3–6 sec: Taglio su inquadrature ravvicinate drammatiche degli scarpini dorati. Il suo piede preme saldamente sull'erba, i tacchetti affondano naturalmente nel terreno e lei stringe i lacci. Il movimento macro della telecamera rivela la texture metallica, le cuciture, la suola e i tacchetti. Rendi le scarpe l'eroe visivo.
-
-6–10 sec: Inizia a giocare a calcio attraverso il campo completamente aperto, dribblando la palla velocemente e con sicurezza. Usa una telecamera di tracking a basso angolo focalizzata sui suoi piedi e sugli scarpini mentre cambia direzione, accelera e controlla la palla. Il suo outfit fluente si muove naturalmente con i suoi movimenti.
-
-10–13 sec: Esegue una potente rincorsa e colpisce il pallone da calcio con lo scarpino dorato. Cattura il tiro in slow motion cinematografico, mostrando la scarpa che entra in contatto con la palla, particelle di erba che volano naturalmente e la palla che parte attraverso il campo aperto.
-
-13–15 sec: Inquadratura hero premium. Il pallone da calcio rotola fino a fermarsi accanto ai suoi scarpini dorati. Lei sta in piedi con sicurezza sullo sfondo sul vasto campo verde mentre la calda luce del sole cattura le scarpe metalliche. La telecamera avanza lentamente verso gli scarpini e termina con un primo piano nitido focalizzato sul prodotto.
-
-Stile visivo: campagna di moda sportiva di lusso, fotografia editoriale da sogno, illuminazione naturale cinematografica, movimento realistico del calcio, fisica dell'erba realistica, styling femminile elegante, movimento dinamico della telecamera, dettagli macro delle scarpe, profondità di campo ridotta, qualità commerciale premium, fotorealistico, sottile texture filmica.
-
-Importante: Mantieni gli scarpini da calcio dorati identici per tutto il video. Nessun cambiamento nel design delle scarpe, nessun piede distorto, nessun arto extra, nessun pallone deformato, nessun aspetto CGI artificiale. L'intero video si svolge all'aperto su un unico vasto campo da calcio aperto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106319331823165440/img/HRw0Mc4qjR1ZtqNR.jpg" width="600" alt="Prompt Video Pubblicità Scarpe da Calcio High-Fashion">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11849)**
-
-**Autore:** [Soulful Ai](https://x.com/soulful__ai) | **Fonte:** [Link](https://x.com/soulful__ai/status/2106321511212544372) | **Pubblicato:** Oct 3, 2026
-
----
-### Prompt Video per Battaglia Xianxia Epica
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt dettagliato per generare un'animazione 3D CG di alta qualità che ritrae una spadaccina femminile mentre combatte orde di mostri in un reame celeste fluttuante, caratterizzato da effetti visivi specifici e movimenti di camera.
-
-#### 📝 Prompt
-
-```
-[Impostazioni Globali della Qualità dell'Immagine]
-
-UE5.4 Path Tracing, Lumen Global Illumination, Nanite, Materiali Fisici PBR. Animazione 3D CG di alta qualità in stile cinese Xianxia, 8K, HDR, gestione del colore ACES, riprese cinematografiche, fluidità ad alta velocità a 60fps.
-
-Distruzione fisica Chaos, detriti rigidi realistici con archi gravitazionali, simulazione dei tessuti, illuminazione volumetrica, raggi divini (godrays), ombre di contatto, riflessi tracciati tramite ray-tracing.
-
-Sopra i nove cieli prima dell'alba, numerose isole immortali fluttuanti si librano in mezzo a un mare di nuvole senza fine.
-
-La scena è composta principalmente da:
-
-Ponti di giada bianca
-Palazzi immortali in rovina
-Piattaforme di pietra fluttuanti
-Gigantesche statue rotte
-Mare di nuvole
-Fessure nel cielo stellato
-Gruppi di isole immortali ad alta quota
-
-La vista dall'alto rimane un profondo fiume stellato, mentre l'orizzonte lontano rivela la prima luce dorata dell'alba.
-
-Usare complessivamente tonalità a bassa saturazione: grigio indaco, bianco luna, blu ghiaccio e oro scuro.
-
-Le abilità potenti hanno colori di luce elementale diversi, ma mantengono sempre il blu ghiaccio e l'oro scuro di Hanjin come base visiva unificata.
-
-Crepe causate dalla battaglia, strati di ghiaccio, segni di bruciatura, ponti rotti, crateri giganti, segni di spada e detriti dei mostri si accumulano continuamente e non si ripristinano automaticamente.
-
-Ghiaia, frammenti di giada bianca e gusci dei mostri seguono la gravità reale e l'inerzia.
-
-Il mare di nuvole subirà rotolamenti volumetrici dovuti a onde d'urto, tempeste e grandi abilità energetiche.
-
-I capelli, le vesti e i nappe del personaggio sono sempre influenzati dal movimento ad alta velocità e dalle correnti d'aria ad alta quota.
-
-16:9.
-
-[Protagonista | Sorella Maggiore · Spadaccina Hanjin]
-
-Asset del personaggio @Image1.
-
-Mantenere rigorosamente:
-
-Volto orientale freddo e femminile.
-
-Capelli lunghi neri raccolti in una coda alta.
-
-Tre marchi blu sulla fronte.
-
-Veste da battaglia stratificata blu scuro-nero e armatura.
-
-Struttura intagliata in argento scuro e oro rame.
-
-Nappe blu e ornamenti di giada.
-
-Riferimenti del personaggio da più angolazioni appartengono allo stesso ruolo.
-
-Solo una sorella maggiore in tutto il film.
-
-Vietato: scambio di volto, cambio di acconciatura, modifica dei marchi sulla fronte, alterazione del tipo di corpo, cambio casuale dell'abbigliamento o generazione di cloni del personaggio.
-
-[Arma | Hanjin]
-
-Asset dell'arma @Image2.
-
-Hanjin è l'unica arma in tutto il film.
-
-Mantenere la lama cristallina trasparente blu ghiaccio, crepe di ghiaccio, guardia intagliata in argento scuro, gemma blu, impugnatura scura e nappa blu.
-
-Hanjin è sempre il nucleo di tutte le attivazioni delle abilità potenti.
-
-Elementi diversi possono cambiare gli effetti luminosi esterni e la colorazione ambientale della spada, ma non possono riprogettare l'arma fisica.
-
-Vietato: duplicazione, doppio impiego, cambi casuali di colore, modifica della forma della spada o generazione del fodero come seconda arma.
-
-[Mostri | Orde Divora-Stelle]
-
-Ci sono molti mostri divora-stelle con design uniforme sul campo di battaglia.
-
-I minion comuni consistono principalmente di:
-
-Corpo vuoto in ossidiana + guscio in ossidiana senza volto + nucleo stellare viola + artigli.
-
-Creature divora-stelle volanti veloci esistono nell'aria.
-
-Le unità grandi hanno dimensioni significativamente maggiori degli edifici dei palazzi immortali, attaccando con palmi giganti, massi di ossidiana ed energia del nucleo stellare.
-
-Le maree di mostri si riforniscono da:
-
-Fessure nel cielo stellato.
-
-Parte posteriore delle isole fluttuanti.
-
-Sotto il mare di nuvole.
-
-Rovine dei palazzi immortali.
-
-I mostri devono attivamente:
-
-Inseguire.
-
-Uccidere.
-
-Circondare.
-
-Effettuare raid aerei.
-
-Supprimere a lungo raggio.
-
-Non possono semplicemente stare fermi intorno alla protagonista aspettando di essere distrutti.
-
-Quando sconfitti, i mostri si disintegrano in schegge di ossidiana, polvere di stelle viola e nuclei stellari spenti.
-
-I detriti cadono sulle isole fluttuanti e sulle rovine e persistono.
-
-[Regole Globali della Battaglia]
-
-Hack-and-slash Xianxia 1vN ad alta velocità di 30 secondi.
-
-Nessun dialogo.
-
-Nessun grido di battaglia.
-
-Nessun urlo del nome dell'abilità.
-
-Nessun rallentatore (slow motion).
-
-Nessun fermo immagine (freeze frame).
-
-Nessun arresto al colpo (hit-stop).
-
-Gli elementi principali del combattimento sono:
-
-Movimento ad alta velocità + Abilità giganti + Eliminazione su larga scala delle maree di mostri.
-
-L'intero film include dieci esplosioni di abilità potenti.
-
-Dieci tipi di abilità devono avere concetti visivi distinti, non solo lo stesso qi della spada con colori cambiati.
-
-Il sistema di elementi delle abilità può coprire:
-
-Fiume Stellare.
-
-Tuono.
-
-Tempesta.
-
-Caduta dei Corpi Celesti.
-
-Luce Lunare e Luce dello Specchio.
-
-Fenomeno Solare.
-
-Grande Schiera di Spade.
-
-Fessura Spaziale.
-
-Tenda Aurora del Cielo.
-
-Fenomeno Terminale della Cupola del Cielo.
-
-Questi elementi non devono essere eseguiti nell'ordine in cui appaiono nel testo.
-
-Gli elementi diversi devono avere chiare differenze visive.
-
-[Movimento ad Alta Velocità]
-
-La Sorella Maggiore è sempre in uno stato di alta mobilità.
-
-I metodi principali di movimento includono:
-
-Carica radente al suolo.
-
-Virata laterale ad alta velocità.
-
-Salti tra isole fluttuanti.
-
-Teleportazione a breve distanza.
-
-Ascesa verticale.
-
-Picchiata.
-
-Cerchio laterale.
-
-Cambio di direzione in aria.
-
-La teleportazione a breve distanza mantiene immagini residue blu ghiaccio e oro scuro con un punto finale chiaro.
-
-Il personaggio continua a combattere immediatamente dopo aver raggiunto il punto finale.
-
-Le immagini residue non sono cloni fisici.
-
-Vietato: trasformare il personaggio in linee di energia irriconoscibili per un lungo periodo.
-
-[Abilità Minori]
-
-Vengono usate solo azioni ausiliarie estremamente brevi tra le abilità potenti.
-
-Includendo:
-
-Qi della spada a breve distanza.
-
-Cambio di posizione con passo.
-
-Colpi consecutivi ad alta velocità.
-
-Luce di spada stile shot-point.
-
-Queste azioni servono principalmente a:
-
-Gestire i mostri a corto raggio.
-
-Regolare la posizione spaziale.
-
-Connettersi alla prossima abilità potente.
-
-Non usare molti attacchi normali per ritardare il tempo.
-
-[Sistema di Abilità Giganti]
-
-Serie Fiume Stellare
-
-Hanjin può mobilitare il fiume stellare ad alta quota.
-
-Enorme energia del fiume stellare blu ghiaccio entra nel campo di battaglia dalla cupola del cielo, formando un flusso massiccio tra isole fluttuanti e ponti.
-
-Le orde di mostri vengono sparse dalla corrente del fiume stellare, e il mare di nuvole rotola verso entrambi i lati dopo l'impatto.
-
-Il campo di battaglia può lasciare tracce di fiume stellare congelato o bande di energia blu ghiaccio.
-
-Serie Tuono
-
-Le nuvole di tuono del cielo rispondono a Hanjin.
-
-Massicci fulmini scendono sulla zona centrale della guerra.
-
-I fulmini possono formare:
-
-Spade di tuono.
-
-Pilastri di tuono.
-
-Reti di archi elettrici.
-
-Grandi schiere di spade.
-
-Le orde di mostri perdono equilibrio e vengono lanciate continuamente nei densi fulmini.
-
-Le superfici delle isole fluttuanti mostrano segni di bruciatura, scarica elettrica e crepe.
-
-Serie Tempesta
-
-Hanjin brandisce la spada causando una grande tempesta blu ghiaccio.
-
-Multipli vortici giganti attraversano le isole fluttuanti e il mare di nuvole.
-
-La tempesta può contemporaneamente sollevare:
-
-Mostri.
-
-Ghiaia.
-
-Nebbia di nuvole.
-
-Detriti dei palazzi immortali.
-
-La Sorella Maggiore si muove velocemente all'interno della tempesta continuando l'inseguimento.
-
-L'ambiente mostra evidenti erosioni dal vento e danni rotazionali.
-
-Serie Corpi Celesti
-
-Anomalie si verificano nel fiume stellare ad alta quota.
-
-Molti corpi celesti con cristalli di ghiaccio, luce stellare o energia oro scuro cadono rapidamente dal cielo.
-
-Diverse isole fluttuanti subiscono continui grandi impatti.
-
-Producendo:
-
-Crateri giganti.
-
-Nebbia fredda.
-
-Ghiaia.
-
-Onde d'urto.
-
-Disintegrazione su larga scala delle maree di mostri.
-
-Serie Luce Lunare
-
-Grandi fenomeni visivi bianco luna appaiono sul campo di battaglia.
-
-Possono essere ottenuti attraverso:
-
-Specchi di luce lunare.
-
-Riflessione di cristalli di ghiaccio.
-
-Luce di spada rifratta multidirezionale.
-
-Formando una rete di taglio su ampia area.
-
-Le luci di taglio attraversano le maree di mostri da più direzioni simultaneamente.
-
-Alcune strutture di luce lunare rimangono nell'ambiente dopo la fine dell'abilità.
-
-Serie Sole
-
-Man mano che l'alba si avvicina, la prima luce solare entra nel campo di battaglia.
-
-Hanjin può mobilitare l'energia solare oro scuro.
-
-Giganteschi uccelli divini dorati, fuoco della spada sole ardente, o grandi fenomeni celesti dorati attraversano il gruppo di isole fluttuanti.
-
-Blu ghiaccio e oro scuro formano una forte sovrapposizione freddo-caldo.
-
-Molte orde di mostri si disintegrano in polvere di stelle sotto l'energia solare.
-
-Serie Schiera di Spade
-
-Grandi piazze dei palazzi immortali o terreni delle isole fluttuanti sono attivati dall'intento della spada di Hanjin.
-
-Molte spade giganti blu ghiaccio emergono dagli edifici, dagli strati di ghiaccio o dal terreno.
-
-La scala della spada è molto più grande delle armi normali.
-
-L'intera area forma rapidamente una grande foresta di spade o una schiera.
-
-La Sorella Maggiore si muove ad alta velocità all'interno della schiera di spade.
-
-I mostri vengono consecutivamente respinti, perforati da corpi energetici o lanciati in aria da diverse posizioni.
-
-Serie Fessura
-
-Hanjin può brevemente squarciare lo spazio del campo di battaglia.
-
-Enormi fessure spaziali nere si formano tra il cielo o le isole fluttuanti.
-
-I bordi delle fessure sono delineati da energia blu ghiaccio e oro scuro.
-
-Molte luci di spada o tagli spaziali si diffondono verso l'esterno lungo i bordi delle fessure.
-
-La Sorella Maggiore può cambiare rapidamente posizione attorno alla fessura.
-
-Evidenti residui visivi rimangono dopo la fine delle fessure spaziali.
-
-Vietato: usare un normale buco nero che inghiotte invece delle fessure spaziali.
-
-Serie Aurora
-
-Ampie aree di aurora blu ghiaccio, bianco luna e oro pallido appaiono nel cielo alto.
-
-Le aurore scendono dalla cupola del cielo, coprendo multiple isole fluttuanti.
-
-Le tende di aurora hanno enorme profondità e scala spaziale.
-
-I mostri che entrano in esse:
-
-Si congelano.
-
-Perdono equilibrio.
-
-Si disintegrano in energia.
-
-La Sorella Maggiore si muove ad alta velocità tra diversi strati di aurora.
-
-Questa fase porta gradualmente l'intero campo di battaglia al climax finale.
-
-[Fase Finale]
-
-I visivi lasciati dalle battaglie precedenti esistono ancora nella scena.
-
-Ad esempio:
-
-Strati di ghiaccio.
-
-Segni di bruciatura.
-
-Erosione dal vento.
-
-Crateri da impatto.
-
-Frammenti di specchi.
-
-Foreste di spade.
-
-Crepe spaziali.
-
-Riverbero di aurora.
-
-Detriti dei mostri.
-
-Nella fase finale, questi elementi visivi non devono tutti diventare direttamente la stessa abilità, ma dovrebbero produrre un certo grado di risonanza ambientale.
-
-Hanjin diventa il nucleo energetico finale.
-
-La Sorella Maggiore rilascia un fenomeno terminale su larga scala che copre il gruppo centrale di isole fluttuanti e il cielo.
-
-Può manifestarsi come:
-
-Anelli stellari giganti.
-
-Onde d'urto multistrato della cupola del cielo.
-
-Luce di spada anulare blu ghiaccio e oro scuro.
-
-Espansione su larga scala dell'energia del cielo stellato.
-
-La scala dell'abilità terminale deve essere chiaramente superiore alle singole abilità elementali precedenti.
-
-Visivi di fiume stellare, fulmini, sole/luna e aurora possono apparire brevemente nell'effetto terminale, ma non possono riprodurre completamente le abilità precedenti.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105684524055322625/img/NCD7cVCLLuAfyOyU.jpg" width="600" alt="Prompt Video per Battaglia Xianxia Epica">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11850)**
-
-**Autore:** [Arvin](https://x.com/Arvin010717) | **Fonte:** [Link](https://x.com/Arvin010717/status/2106241257895084452) | **Pubblicato:** Oct 3, 2026
-
----
-### Attacco del Mostro di Ghiaccio nella Chalet Sciistica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per un cortometraggio horror-thriller ambientato in una chalet sciistica, dove una creatura di ghiaccio irrompe durante una tempesta di neve e viene respinta dal personale con acqua calda e fuoco.
-
-#### 📝 Prompt
-
-```
-Cortometraggio horror-thriller cinematografico ambientato in una chalet di un resort sciistico montano durante una tempesta di neve. Si apre con un hook immediato, stile realistico concreto, massima dinamicità della camera. Ambientazione: interno accogliente di una chalet in legno con camino, grandi finestre affacciate sulla neve che cade, ospiti rilassati con bevande calde. CHARACTER LOCK: il personaggio principale è una membro dello staff della chalet, una donna sui ventotto anni, giacca da sci rossa, coerente in ogni inquadratura. Color grading freddo e desaturato, suono diegetico naturale per tutta la durata, colonna sonora tensiva che entra immediatamente.
->
-> **[0-1s]** Stacco netto: la grande finestra della chalet si appanna istantaneamente dall'esterno, cristalli di ghiaccio si diffondono innaturalmente veloci sul vetro.
->
-> **[1-2s]** Il vetro si frantuma verso l'interno, una creatura umanoide fatta di ghiaccio frastagliato e cristalli di brina fa un passo avanti, il respiro visibile come vapore nel freddo improvviso.
->
-> **[2-3s]** Gli ospiti vicini restano senza fiato, arretrando dai tavoli vicino al camino.
->
-> **[3-4s]** La creatura si muove verso l'ospite più vicino, uno strato sottile di brina si diffonde su tutto ciò che tocca.
->
-> **[4-5s]** L'uomo inciampa all'indietro, la manica si copre di brina dove la creatura lo ha sfiorato.
->
-> **[5-6s]** Il panico si diffonde nella chalet, gli ospiti corrono verso il fondo della stanza.
->
-> **[6-7s]** La membro dello staff afferra un attizzatoio accanto al camino, posizionandosi tra la creatura e gli ospiti in fuga.
->
-> **[7-8s]** La creatura si gira verso di lei, i tratti cristallini catturano la luce del fuoco.
->
-> **[8-9s]** Lei colpisce con l'attizzatoio; va a segno, una crepa si propaga attraverso la spalla ghiacciata.
->
-> **[9-10s]** La creatura indietreggia, la brina si ritira leggermente dal punto d'impatto.
->
-> **[10-11s]** Un secondo membro dello staff afferra un thermos di acqua calda, scagliandolo direttamente contro la creatura.
->
-> **[11-12s]** Vapore erutta dove l'acqua colpisce, il ghiaccio si indebolisce visibilmente al punto di contatto.
->
-> **[12-13s]** La creatura barcolla, momentaneamente destabilizzata, pattern di brina lampeggiano sulla sua forma.
->
-> **[13-14s]** La membro dello staff sfrutta il vantaggio, colpendo di nuovo con l'attizzatoio.
->
-> **[14-15s]** Campo largo: gli ospiti raggiungono il corridoio lontano, alcuni si voltano indietro spaventati.
->
-> **[15-16s]** La creatura si avventa verso di lei, artigli di ghiaccio protesi.
->
-> **[16-17s]** Lei si abbassa, evitando per un pelo il colpo, rotolando verso il camino.
->
-> **[17-18s]** Afferra un ceppo ardente direttamente dal fuoco con mani guantate.
->
-> **[18-19s]** RALLENTATORE: lo swingia in arco verso la creatura.
->
-> **[19-20s]** Impatto provoca onde d'urto che crepano il corpo ghiacciato.
->
-> **[20-21s]** La creatura si blocca, fratture si propagano rapidamente sulla forma cristallina.
->
-> **[21-22s]** RALLENTATORE: esplode in frammenti di ghiaccio che fondono in schegge sparse.
->
-> **[22-23s]** I pezzi cadono a terra, sciogliendosi rapidamente in pozze d'acqua.
->
-> **[23-24s]** Silenzio improvviso, solo il crepitio del camino e il vento esterno.
-```
-
-<img src="https://pbs.twimg.com/media/HTrZ4CDbUAAdA-T.jpg" width="600" alt="Attacco del Mostro di Ghiaccio nella Chalet Sciistica">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11813)**
-
-**Autore:** [auqib](https://x.com/auqibhabib) | **Fonte:** [Link](https://x.com/auqibhabib/status/2106235341548273915) | **Pubblicato:** Oct 3, 2026
-
----
-### Ricordo d'Infanzia di Calcio Stradale Cinematografico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per generare un video nostalgico e ultra-realistico di bambini che giocano a calcio in strada durante l'ora dorata, con movimenti di camera dinamici e celebrazioni al rallentatore.
-
-#### 📝 Prompt
-
-```
-Crea una sequenza live-action cinematografica e ultra-realistica ambientata in un quartiere caldo e polveroso durante l'ora dorata. Inizia con una vista aerea di una vivace zona residenziale → primo piano di un bambino che posiziona un pallone da calcio consumato sul terreno polveroso → i bambini iniziano una partita intensa di calcio in strada → riprese dinamiche dal basso di dribbling rapidi, giocoleria del piede e il pallone che vola nell'aria → termina con una ripresa cinematografica al rallentatore dei bambini che festeggiano dopo aver segnato. Luce solare calda e dorata, particelle di polvere realistiche, movimento naturale, sensazione di camera a mano, profondità di campo ridotta, ambienti dettagliati, emozioni autentiche, transizioni cinematografiche fluide, live-action fotorealistico, atmosfera nostalgica di passaggio all'età adulta. Nessun testo, sottotitoli, loghi o filigrana.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106206604773437440/img/CTdbn4tRQamgI8cz.jpg" width="600" alt="Ricordo d'Infanzia di Calcio Stradale Cinematografico">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11815)**
-
-**Autore:** [Aynah](https://x.com/AynahhX) | **Fonte:** [Link](https://x.com/AynahhX/status/2106206660582850732) | **Pubblicato:** Oct 3, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -5217,6 +4771,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-25T03:43:03.351Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-25T09:12:46.614Z</sub>
 
 </div>

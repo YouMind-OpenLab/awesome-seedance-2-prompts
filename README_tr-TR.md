@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6587** |
+| 📝 Toplam İstem | **6591** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-10-25** |
 
@@ -361,6 +361,110 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Okul Koridoru Kaos Dondurması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sakin bir kadının arkasındaki kaotik kavgayı yavaş çekimde dondurduğu sinematik bir okul koridoru sahnesi için prompt.
+
+#### 📝 İstem
+
+```
+Modern bir okul koridorunda geçen sinematik, ultra gerçekçi 4K bir video oluşturun. Kahverengi saçlarını dağınık bir topuz yapmış, krem rengi boğazlı kazak ve kablolu kulaklık takan genç bir kadın, arkasında maskeli insanlar ağır çekimde kavga ederken koridorda sakin adımlarla ilerler. Havada kağıtlar, sıralar ve kırmızı gazoz kutuları uçuşurken kadın bir elini kaldırır ve gizemli bir şekilde etrafındaki her şeyi dondurur. Kaos bir anda dururken o tamamen sakin ve duygusuz kalır. Sıcak sinematik aydınlatma, gerçekçi yüz ifadeleri, detaylı saç hareketleri, sığ alan derinliği, yumuşak kamera yaklaşımı (push-in), dramatik ağır çekim, doğal fizik kuralları, film kalitesinde renk düzenlemesi, 16:9 geniş ekran, 15 saniye, diyalog yok, metin yok, filigran yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114222867823124480/img/Dh_-novuM4GOJWVn.jpg" width="600" alt="Okul Koridoru Kaos Dondurması">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13003)**
+
+**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2114222906867888426) | **Yayınlandı:** Oct 25, 2026
+
+---
+### Seedance 2.0 Cadılar Bayramı Hogwarts Karanlık Büyü Dönüşüm Video İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Cadılar Bayramı ve Hogwarts estetiğini harmanlayan karanlık büyü kostüm dönüşümü temalı, 15 saniyelik sinematik dikey kısa video oluşturmak için Seedance 2.0'a yönelik son derece detaylı bir video üretim istemi. İstem; karakter tutarlılığı, müzik ritimleriyle senkronize kıyafet değişiklikleri, kamera hareketleri ve referans görseller kullanılarak uygulanan özel görsel efektler gibi unsurları belirtir.
+
+#### 📝 İstem
+
+```
+15 saniye, 9:16 dikey ekran, canlı çekim sinematik Cadılar Bayramı x Hogwarts kara büyü kostüm değişimi kısa filmi. @Image1 karakter ana şablonudur; ardından sırasıyla @Image2 Kırmızı Altın, @Image3 Zümrüt Yeşili, @Image4 Mavi Gümüş, @Image5 Siyah Altın ve @Image6 Siyah Gümüş Kraliçe görünür. Başından sonuna kadar aynı yetişkin güzel; uzun siyah kıvırcık saçlar, şarap kırmızısı dudaklar, siyah dantel göz bandı maskesi asla çıkarılmaz, video boyunca yüz değiştirme yapılmaz. Referans görseller yalnızca kostüm ve karakter tasarımı içindir; durağan görseller basitçe yan yana dizilmemelidir.
+
+Müzik: 160 BPM karanlık senfonik Phonk, Gotik çan girişi, güçlü davullar. 1,5/4,5/7,5/9,75/12. saniyelerde vuruş başlarında anında kostüm değişimleri, 12. saniyede maksimum Drop; dönüşümlerde 0,2 saniyelik karartma flaşı kullanılır, ses-görüntü tam senkronize olmalıdır.
+
+0–1,5 sn: @Image1'in göz maskesi ve kırmızı dudaklarının aşırı yakın çekimi, parmak uçları maskeye dokunur, kamera hızla geri çekilir; turuncu dolunay, yarasalar, kale ve balkabağı fenerleri belirir, balkabakları ekranı kaplayan kırmızı-altın alevler püskürtür.
+
+1,5–4,5 sn: Alevler dağılarak @Image2'ye dönüşür, alt açıdan geniş ön takip çekimi; güzel kararlı adımlarla ilerler ve kırmızı-altın pelerini şiddetle sağa savurur, arkasında kükreyen bir alev aslanı vardır; pelerin lensin üzerinden geçerek yeşil dumana dönüşür.
+
+4,5–7,5 sn: Duman çekilerek @Image3'e dönüşür, kamera 45 derecelik arka-yan açıya döner, güzel asasını kaldırarak arkasına bakar; iksir kazanı patlar, dev zümrüt yılan taş sütunun etrafına dolanır, yılan gölgesi lensin üzerinden geçerek mavi bir hayalet haline gelir.
+
+7,5–9,75 sn: @Image4'e geçiş, üst açıdan eğik tepe saat yönünde dairesel çekim; kollarını iki yana açarak döner, mavi-gümüş eteği kabarır; hayaletler ve yıldız ışığı dans eder, kartal kanatları lensin üzerinden geçerek altın sarısı yapraklara dönüşür.
+
+9,75–12 sn: @Image5'e geçiş, yandan kaydırmalı takip çekimi; asasını sallayarak yürür, siyah bir kedi yanından geçer, balkabağı sarmaşıkları çılgınca büyür, balkabağı fenerleri tek tek yükselir; dev bir balkabağı lense çarpar, ışıklar aniden söner, siyah karartma.
+
+12–14,3 sn: Maksimum Drop ile çakan şimşek karanlığı yarar ve @Image6'ya geçilir; ultra alt açıdan hızlı geri çekilme, kraliçe havada süzülür, taç başına iner, devasa siyah kanatlar aniden açılır, dolunay kan rengine bürünür, yarasalar uçuşur, balkabakları gümüş-beyaz ateşle yanar.
+
+14,3–15 sn: Asasını şiddetle lense doğrultur, gümüş büyü patlaması ve siyah tüyler ekranı kaplar; açılıştaki göz maskesiyle bütünleşerek kusursuz bir döngü oluşturur.
+
+Gereksinimler: Her seferinde önce tam karartma yapılmalı, ardından anında kostüm değişimi gerçekleşmelidir. Hareket kesintisiz olmalı; çekim ölçekleri ve kamera açıları çeşitlenmeli, kostümler net görünmeli, kumaş ve saç hareketleri gerçekçi olmalıdır. Yoğun bir Cadılar Bayramı atmosferi yaratılmalı ancak karakter her zaman görsel odak noktası olarak kalmalıdır. Yavaşça eriyen kıyafetler, yüz kayması, uzuv bozulmaları, ucuz efektler, altyazılar ve filigranlar kesinlikle yasaktır.
+```
+
+<img src="https://cms-assets.youmind.com/media/1792907864427_qpq5sj_HVaRqRyWUAADs0j.jpg" width="600" alt="Seedance 2.0 Cadılar Bayramı Hogwarts Karanlık Büyü Dönüşüm Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13004)**
+
+**Yazar:** [麻酱AI实验室](https://x.com/zhongying14) | **Kaynak:** [Link](https://x.com/zhongying14/status/2114038007435055604) | **Yayınlandı:** Oct 24, 2026
+
+---
+### Samuray ve Oni Geisha Kil Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Samuray ve Oni Geisha'nın fiziksel mizah ve stop-motion estetiğiyle etkileşime geçtiği, hızlı tempolu bir kil animasyon tarzı komedi videosu oluşturmak için detaylı bir prompt.
+
+#### 📝 İstem
+
+```
+15 saniyelik, tempolu ve sevimli bir kil animasyonu skeci. Referanstaki karakter tasarımlarını birebir kullan: devasa, sert mavi kil Samuray ve minicik, zarif kırmızı Oni/Geisha. El yapımı stop-motion kil estetiği, etkileyici esneme-büzülme (squash-and-stretch) hareketleri, eğlenceli fiziksel komedi. Diyalog yok. Boş an yok.
+
+0–4 sn: Samuray, abartılı bir ciddiyetle katanasını dramatik bir şekilde çeker — ŞIIIING! Göz korkutucu bir savaş pozu verir. Minicik Oni-Geisha ise hiç etkilenmemiş görünür; sakince küçük kırmızı bir yelpaze çıkarır ve adamın kılıcının yassı tarafına TAK diye vurarak onu aşağı indirir.
+
+4–8 sn: Samuray inanamayarak donakalır. Oni-Geisha kendinden emin bir tavırla yanından süzülüp geçer. Adam hızla önüne atlayıp şimşek gibi kılıç çevirme hareketlerinden oluşan absürt derecede gösterişli bir seri sergiler; kolları ve mavi cübbesi havada uçuşur — VUUUŞ, VIŞŞ, VIŞŞ! Kadın ona bakmadan bile, zarif ve minik adımlarla yürümeye devam ederken her bir savuruştan zahmetsizce eğilerek kaçar.
+
+8–12 sn: Çileden çıkan Samuray, tüm gücüyle devasa bir yukarıdan aşağı vuruşa girişir. Oni-Geisha sadece küçücük bir adım yana çekilir. GÜM! Katanası kil zemine derinlemesine saplanır. Umutsuzca çekiştirir ama kılıç yerinden kıpırdamaz. Dev gövdesi bu çabadan komik bir şekilde uzar.
+
+12–15 sn: Oni-Geisha sakin bir şekilde yelpazesiyle kılıcın kabzasına bir kez TIK diye vurur! Kılıç anında yerinden fırlar ve Samuray'ı geriye doğru savurarak gülünç bir kil taklası attırır. Adam sersemlemiş hâlde dik oturur vaziyette yere düşer. Oni-Geisha ona küçücük, kendini beğenmiş bir selam verir ve yelpazesini şık diye açar. Sahne, Samuray'ın mahcup bakışlarıyla anında son bulur.
+
+Ses: Komediyle kusursuz senkronize edilmiş, enerjik ve sevimli, Japon esintili perküsyon ile telli çalgı müziği; abartılı kil ayak sesleri, kılıç çekme sesi, metalik vınlamalar, yelpaze vuruşları, çarpma sesleri ve komik patlama efektleri. Konuşma yok, vokal yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114022336512905216/img/5DAPE8_KuJC9gE29.jpg" width="600" alt="Samuray ve Oni Geisha Kil Animasyonu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13002)**
+
+**Yazar:** [Keskin](https://x.com/craftian_keskin) | **Kaynak:** [Link](https://x.com/craftian_keskin/status/2114028393347883491) | **Yayınlandı:** Oct 24, 2026
+
+---
+### Günlük Yemek Alma Sırası İçin Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 ve Kling 4.0'ı, yemek alma gibi günlük bir sıralama üzerinden karşılaştıran bir prompt.
+
+#### 📝 İstem
+
+```
+sıradan bir an: siparişi almak, bir patates kızartması kapmak, bir yudum içmek ve bir arkadaşla birlikte gülmek
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2113867563771842560/img/u8Iuas8eesjV9cba.jpg" width="600" alt="Günlük Yemek Alma Sırası İçin Prompt">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13001)**
+
+**Yazar:** [Jayden Douglass 💭 | AI Coach](https://x.com/JaydenCoach) | **Kaynak:** [Link](https://x.com/JaydenCoach/status/2113867722786259116) | **Yayınlandı:** Oct 24, 2026
+
+---
 ### Sinematik Savaşçı Video İstemi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -4587,568 +4691,6 @@ Işınlama (Teleportasyon)
 **Yazar:** [Soran](https://x.com/Soranlan) | **Kaynak:** [Link](https://x.com/Soranlan/status/2106388571863253309) | **Yayınlandı:** Oct 3, 2026
 
 ---
-### Yüksek Moda Futbol Ayakkabısı Reklam Videosu İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Altın metalik kramponların geniş bir sahada sinematik çekimlerle öne çıktığı, Seedance 2.0 kullanılarak oluşturulacak 15 saniyelik yüksek moda futbol ayakkabısı reklamı için detaylı istem.
-
-#### 📝 İstem
-
-```
-Altın metalik futbol kramponları, beyaz diz üstü çoraplar ve vintage kadın futbol stili için yüklenen referans görselleri kullanarak 15 saniyelik yüksek moda futbol ayakkabısı reklamı oluşturun. Video boyunca ayakkabı tasarımı, renkleri, dokuları ve oranları tutarlı tutun.
-
-Ortam: Muhteşem pastel mavi-pembe gökyüzü altında tamamen açık ufuk çizgisine sahip, yemyeşil doğal çimlerle kaplı devasa açık hava futbol sahası. Saha ferah ve bakir hissettirmeli. Stadyum yok, seyirci yok, bina yok, tribün yok, kapalı alan yok, yakın mesafede çit yok.
-
-0–3 sn: Geniş sinematik çekim; genç yetişkin bir kadın futbolcu, uçsuz bucaksız açık sahanın tam ortasında tek başına duruyor. Referans görsellerdeki aynı zarif vintage tarzı kıyafeti, beyaz diz üstü çorapları ve altın metalik futbol kramponlarını giyiyor. Ayağını nazikçe topun üzerine koyuyor. Kamera ona doğru yavaşça ilerlerken güneş ışığı kramponlardan güzelce yansıyor.
-
-3–6 sn: Altın kramponların dramatik yakın plan çekimlerine geçiş. Ayağı çime sağlamca basıyor, krampon dişleri çimlere doğal şekilde giriyor ve bağcıklarını sıkılaştırıyor. Makro kamera hareketiyle metalik doku, dikişler, taban ve dişler ortaya çıkıyor. Ayakkabıları görsel kahraman yapın.
-
-6–10 sn: Tamamen açık sahada futbol oynamaya başlıyor, topu hızlı ve kendinden emin şekilde sürüyor. Yön değiştirirken, hızlanırken ve topa hakim olurken ayaklarına ve kramponlarına odaklanan düşük açı takip kamerası kullanın. Akıcı kıyafeti hareketleriyle doğal uyum içinde dalgalanıyor.
-
-10–13 sn: Güçlü bir koşu hamlesi yapıp topa altın kramponla vuruyor. Vuruşu sinematik ağır çekimde yakalayın; ayakkabının topa temasını, havaya uçuşan çim parçacıklarını ve topun açık sahada fırlamasını gösterin.
-
-13–15 sn: Premium ana görüntü. Futbol topu, altın kramponlarının yanında duruyor. Sıcak güneş ışığı metalik ayakkabıları aydınlatırken, o geniş yeşil sahanın arka planında kendinden emin şekilde duruyor. Kamera yavaşça kramponlara doğru itiliyor ve keskin, ürün odaklı bir yakın planla son buluyor.
-
-Görsel stil: Lüks spor moda kampanyası, rüyamsı editoryal fotoğrafçılık, sinematik doğal ışıklandırma, gerçekçi futbol hareketleri, gerçekçi çim fiziği, zarif kadın stili, dinamik kamera hareketleri, makro ayakkabı detayları, sığ alan derinliği, premium ticari kalite, fotogerçekçi, hafif film dokusu.
-
-Önemli: Altın futbol kramponlarını video boyunca birebir aynı tutun. Ayakkabı tasarımında değişiklik yok, bozuk ayaklar yok, ekstra uzuvlar yok, deforme olmuş top yok, yapay CGI görünümü yok. Tüm video, tek bir devasa açık futbol sahasında dış mekanda gerçekleşiyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106319331823165440/img/HRw0Mc4qjR1ZtqNR.jpg" width="600" alt="Yüksek Moda Futbol Ayakkabısı Reklam Videosu İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11849)**
-
-**Yazar:** [Soulful Ai](https://x.com/soulful__ai) | **Kaynak:** [Link](https://x.com/soulful__ai/status/2106321511212544372) | **Yayınlandı:** Oct 3, 2026
-
----
-### Epik Xianxia Savaş Videosu İstemi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Gökyüzünde süzülen adalarda canavar sürülerine karşı savaşan bir kadın kılıç ustasının yüksek kaliteli 3D CG animasyonunu oluşturmak için detaylı bir istem. Belirli görsel efektler ve kamera hareketleri içerir.
-
-#### 📝 İstem
-
-```
-[Küresel Görüntü Kalitesi Ayarları]
-
-UE5.4 Path Tracing, Lumen Küresel Aydınlatma, Nanite, PBR Fiziksel Malzemeler. Yüksek kaliteli Çin tarzı Xianxia 3D CG animasyonu, 8K, HDR, ACES renk yönetimi, sinematik kamera çalışması, 60fps yüksek hızlı akıcılık.
-
-Chaos fizik yıkımı, yerçekimi yaylarıyla gerçekçi rijit cisim enkazı, kumaş simülasyonu, hacimsel aydınlatma, tanrı ışınları (godrays), temas gölgeleri, ışın izlemeli yansımalar.
-
-Şafaktan önce dokuz kat göğün üzerinde, sonsuz bulut denizi arasında sayısız ölümsüz ada süzülüyor.
-
-Sahne ağırlıklı olarak şunlardan oluşuyor:
-
-Beyaz yeşim köprüleri
-Yıkık ölümsüz sarayları
-Süzülen taş platformlar
-Dev kırık heykeller
-Bulut denizi
-Yıldızlı gök çatlakları
-Yüksek irtifalı ölümsüz ada grupları
-
-Üstten görünüm derin yıldızlı nehir olarak kalırken, uzak ufukta şafağın ilk altın ışığı beliriyor.
-
-Genel olarak düşük doygunlukta indigo gri, ay beyazı, buz mavisi ve koyu altın tonları kullanılıyor.
-
-Büyük yeteneklerin farklı element ışık renkleri var, ancak Hanjin'in buz mavisi ve koyu altın görselini her zaman birleşik temel olarak koruyun.
-
-Savaşın neden olduğu çatlaklar, buz tabakaları, yanık izleri, kırık köprüler, dev çukurlar, kılıç izleri ve canavar enkazları sürekli birikir ve otomatik olarak iyileşmez.
-
-Çakıl, beyaz yeşim parçaları ve canavar kabukları gerçek yerçekimine ve ataletlere uyar.
-
-Bulut denizi, şok dalgaları, fırtınalar ve büyük enerji yetenekleri nedeniyle hacimsel yuvarlanmalar yaşayacak.
-
-Karakter saçları, cübbeleri ve püskülleri her zaman yüksek hızlı hareket ve yüksek irtifa hava akışından etkilenir.
-
-16:9.
-
-[Protagonist | Kıdemli Abla · Hanjin Kılıç Ustası]
-
-Karakter varlığı @Image1.
-
-Şunları kesinlikle koruyun:
-
-Soğuk Doğu Asyalı kadın yüzü.
-
-Siyah at kuyruğu uzun saç.
-
-Alında üç mavi desen işareti.
-
-Derin mavi-siyah katmanlı savaş cübbesi ve zırhı.
-
-Koyu gümüş, bakır altın oyma yapı.
-
-Mavi püsküller ve yeşim süslemeler.
-
-Çok açılı karakter referansları aynı role aittir.
-
-Tüm filmde yalnızca bir kıdemli abla bulunur.
-
-Yasaklar: Yüz değiştirme, saç modeli değişikliği, alın işaretinin değişmesi, vücut tipi modifikasyonu, rastgele kıyafet değişikliği veya karakter klonları oluşturma.
-
-[Silah | Hanjin]
-
-Silah varlığı @Image2.
-
-Hanjin tüm filmdeki tek silahtır.
-
-Buz mavisi şeffaf kristal bıçak, buz çatlakları, koyu gümüş oyma kabza, mavi mücevher, koyu kılıç sapı ve mavi püskülü koruyun.
-
-Hanjin her zaman tüm büyük yetenek aktivasyonlarının çekirdeğidir.
-
-Farklı elementler kılıcın dış ışık efektlerini ve çevresel renklendirmesini değiştirebilir, ancak fiziksel silahı yeniden tasarlayamaz.
-
-Yasaklar: Çoğaltma, çift tutuş, rastgele renk değişiklikleri, kılıç şeklini değiştirme veya kını ikinci bir silah olarak üretme.
-
-[Canavarlar | Yıldız Yutan Sürü]
-
-Savaş alanında birçok homojen tasarımlı yıldız yutan canavar vardır.
-
-Ortak piyonlar ağırlıklı olarak şunlardan oluşur:
-
-Obsidyen boşluk gövdesi + yüzsüz obsidyen kabuk + mor yıldız çekirdeği + pençeler.
-
-Havada hızlı uçan yıldız yutan yaratıklar bulunur.
-
-Büyük birimler, ölümsüz saray binalarından önemli ölçüde daha büyüktür; dev avuçlar, obsidyen kayalar ve yıldız çekirdek enerjisiyle saldırırlar.
-
-Canavar dalgaları şuralardan takviye alır:
-
-Yıldızlı gök çatlakları.
-
-Süzülen adaların arkası.
-
-Bulut denizinin altı.
-
-Ölümsüz saray harabeleri.
-
-Canavarlar aktif olarak şunları yapmalıdır:
-
-Kovalamak.
-
-Öldürmek.
-
-Sarmalamak.
-
-Hava bombardımanı.
-
-Uzun menzilli baskılama.
-
-Sadece protagonistin etrafında durup yok edilmeyi bekleyemezler.
-
-Yenildiklerinde, canavarlar obsidyen parçalara, mor yıldız tozuna ve sönmüş yıldız çekirdeklerine ayrışır.
-
-Enkaz, süzülen adalara ve harabelere düşer ve kalıcı olur.
-
-[Küresel Savaş Kuralları]
-
-30 saniyelik yüksek hızlı 1vN Xianxia hack-and-slash.
-
-Diyalog yok.
-
-Savaş naraları yok.
-
-Yetenek adı bağırma yok.
-
-Ağır çekim yok.
-
-Donmuş kareler yok.
-
-Vuruş duraksaması (hit-stop) yok.
-
-Ana savaş unsurları şunlardır:
-
-Yüksek hızlı hareket + Dev yetenekler + Büyük ölçekli canavar dalgası temizleme.
-
-Tüm film on büyük yetenek patlaması içerir.
-
-On tür yetenek, sadece rengi değiştirilmiş aynı kılıç qi'si değil, net görsel kavramlara sahip olmalıdır.
-
-Yetenek element sistemi şunları kapsayabilir:
-
-Yıldız Nehri.
-
-Gök Gürültüsü.
-
-Fırtına.
-
-Göksel Cisim Düşüşü.
-
-Ay Işığı ve Ayna Işığı.
-
-Güneş Olayı.
-
-Büyük Kılıç Dizilimi.
-
-Uzay Çatlağı.
-
-Kutup Işığı Gökyüzü Perdesi.
-
-Gök Kubbesi Sonlandırma Olayı.
-
-Bu elementlerin metinde göründükleri sırayla uygulanmasına gerek yoktur.
-
-Farklı elementlerin net görsel farklılıkları olmalıdır.
-
-[Yüksek Hızlı Hareket]
-
-Kıdemli Abla her zaman yüksek mobilite durumundadır.
-
-Ana hareket yöntemleri şunları içerir:
-
-Zemin süzülerek hücum.
-
-Yüksek hızlı yan dönüş.
-
-Süzülen adalar arasında atlama.
-
-Kısa mesafe ışınlanma.
-
-Dikey yükseliş.
-
-Dalış.
-
-Yan daire çizme.
-
-Havada yön değiştirme.
-
-Kısa mesafe ışınlanma, net bir bitiş noktasıyla buz mavisi ve koyu altın artçı görüntüler bırakır.
-
-Karakter, bitiş noktasına ulaştığında hemen dövüşmeye devam eder.
-
-Artçı görüntüler fiziksel klonlar değildir.
-
-Yasak: Karakteri uzun süre tanınamaz enerji çizgilerine dönüştürme.
-
-[Küçük Yetenekler]
-
-Büyük yetenekler arasında yalnızca son derece kısa yardımcı eylemler kullanılır.
-
-Bunlar şunları içerir:
-
-Kısa mesafe kılıç qi'si.
-
-Adım değişikliği pozisyonu.
-
-Yüksek hızlı ardışık kesikler.
-
-Tek atış tarzı kılıç ışığı.
-
-Bu eylemler ağırlıklı olarak şunlara hizmet eder:
-
-Yakın mesafe canavarlarla ilgilenmek.
-
-Mekansal pozisyonu ayarlamak.
-
-Bir sonraki büyük yeteneğe bağlanmak.
-
-Zamanı geciktirmek için çok sayıda normal saldırı kullanmayın.
-
-[Dev Yetenek Sistemi]
-
-Yıldız Nehri Serisi
-
-Hanjin yüksek irtifa yıldız nehrini harekete geçirebilir.
-
-Devasa buz mavisi yıldız nehri enerjisi gök kubbeden savaş alanına girer, süzülen adalar ve köprüler arasında muazzam bir akış oluşturur.
-
-Canavar sürüleri yıldız nehri seli tarafından dağıtılır ve bulut denizi çarpışmadan sonra iki yana yuvarlanır.
-
-Savaş alanı donmuş yıldız nehri izleri veya buz mavisi enerji bantları bırakabilir.
-
-Gök Gürültüsü Serisi
-
-Gök gürültüsü bulutları Hanjin'e karşılık verir.
-
-Muazzam yıldırımlar ana savaş bölgesine iner.
-
-Yıldırımlar şunları oluşturabilir:
-
-Yıldırım kılıçları.
-
-Yıldırım sütunları.
-
-Ark ağları.
-
-Büyük kılıç dizilimleri.
-
-Canavar sürüleri yoğun yıldırımlarda dengelerini kaybeder ve sürekli savrulur.
-
-Süzülen ada yüzeylerinde yanmış, elektrik çarpması ve çatlak izleri görülür.
-
-Fırtına Serisi
-
-Hanjin kılıcıyla devasa bir buz mavisi fırtına başlatır.
-
-Birden fazla dev kasırga süzülen adalar ve bulut denizi boyunca uzanır.
-
-Fırtına aynı anda şunları süpürebilir:
-
-Canavarlar.
-
-Çakıl.
-
-Bulut sisi.
-
-Ölümsüz saray enkazı.
-
-Kıdemli Abla, fırtınanın içinden hızla geçerek takibe devam eder.
-
-Çevre belirgin rüzgar aşınması ve dönel hasar gösterir.
-
-Göksel Cisim Serisi
-
-Yüksek irtifa yıldız nehrinde anomaliler meydana gelir.
-
-Buz kristalleri, yıldız ışığı veya koyu altın enerjiye sahip birçok göksel cisim gökten hızla düşer.
-
-Farklı süzülen adalar sürekli büyük çarpışmalara maruz kalır.
-
-Şunları üretir:
-
-Dev çukurlar.
-
-Soğuk sis.
-
-Çakıl.
-
-Şok dalgaları.
-
-Büyük ölçekli canavar dalgası ayrışması.
-
-Ay Işığı Serisi
-
-Savaş alanında büyük ölçekli ay beyazı görsel olaylar ortaya çıkar.
-
-Şunlarla başarılabilir:
-
-Ay ışığı aynaları.
-
-Buz kristali yansıması.
-
-Çok yönlü kırılan kılıç ışığı.
-
-Geniş alanlı bir kesme ağı oluşturarak.
-
-Kesme ışıkları canavar dalgalarını birden fazla yönden aynı anda keser.
-
-Bazı ay ışığı yapıları yetenek bittikten sonra çevrede kalır.
-
-Güneş Serisi
-
-Şafak yaklaşırken, ilk güneş ışığı savaş alanına girer.
-
-Hanjin koyu altın güneş enerjisini harekete geçirebilir.
-
-Devasa altın ilahi kuşlar, alevli güneş kılıç ateşi veya büyük ölçekli altın göksel olaylar süzülen ada grubunu geçer.
-
-Buz mavisi ve koyu altın güçlü soğuk-sıcak örtüşme oluşturur.
-
-Birçok canavar sürüsü güneş enerjisi altında yıldız tozuna ayrışır.
-
-Kılıç Dizilimi Serisi
-
-Büyük ölümsüz saray meydanları veya süzülen ada zeminleri Hanjin'in kılıç niyetiyle aktive edilir.
-
-Birçok buz mavisi dev kılıç binalardan, buz tabakalarından veya zeminden ortaya çıkar.
-
-Kılıç ölçeği normal silahlardan çok daha büyüktür.
-
-Tüm alan hızla büyük bir kılıç ormanı veya dizilimi oluşturur.
-
-Kıdemli Abla kılıç dizilimi içinde yüksek hızda hareket eder.
-
-Canavarlar farklı konumlardan art arda savrulur, enerji cisimleriyle delinir veya havaya fırlatılır.
-
-Çatlak Serisi
-
-Hanjin savaş alanı uzayını kısaca yırtabilir.
-
-Gök veya süzülen adalar arasında devasa siyah uzay çatlakları oluşur.
-
-Çatlak kenarları buz mavisi ve koyu altın enerjiyle çevrilidir.
-
-Birçok kılıç ışığı veya uzay kesimi çatlak kenarları boyunca dışa doğru yayılır.
-
-Kıdemli Abla çatlağın etrafında hızla pozisyon değiştirebilir.
-
-Uzay çatlakları bittikten sonra belirgin görsel kalıntılar kalır.
-
-Yasak: Uzay çatlakları yerine sıradan kara delik yutma kullanma.
-
-Kutup Işığı Serisi
-
-Yüksek gökyüzünde geniş alanlı buz mavisi, ay beyazı ve soluk altın kutup ışıkları belirir.
-
-Kutup ışıkları gök kubbeden iner, birden fazla süzülen adayı kaplar.
-
-Kutup ışığı perdeleri muazzam derinlik ve mekansal ölçeğe sahiptir.
-
-İçlerine giren canavarlar:
-
-Donar.
-
-Dengelerini kaybeder.
-
-Enerjiye ayrışır.
-
-Kıdemli Abla farklı kutup ışığı katmanları arasında yüksek hızda gidip gelir.
-
-Bu aşama tüm savaş alanını yavaşça final doruğuna taşır.
-
-[Final Aşaması]
-
-Önceki savaşlardan kalan görseller sahnede hala mevcuttur.
-
-Örneğin:
-
-Buz tabakaları.
-
-Yanık izleri.
-
-Rüzgar aşınması.
-
-Çarpma kraterleri.
-
-Ayna parçaları.
-
-Kılıç ormanları.
-
-Uzay çatlakları.
-
-Kutup ışığı artığı.
-
-Canavar enkazı.
-
-Final aşamasında, bu görsel unsurların hepsinin doğrudan aynı yeteneğe dönüşmesine gerek yoktur, ancak bazı düzeylerde çevresel rezonans üretmelidirler.
-
-Hanjin nihai enerji çekirdeği haline gelir.
-
-Kıdemli Abla, ana süzülen ada grubunu ve gökyüzünü kaplayan büyük ölçekli bir sonlandırma olayı serbest bırakır.
-
-Şunlarla tezahür edebilir:
-
-Devasa yıldız halkaları.
-
-Çok katmanlı gök kubbe şok dalgaları.
-
-Buz mavisi ve koyu altın halka şeklinde kılıç ışığı.
-
-Büyük menzilli yıldızlı gök enerjisi genişlemesi.
-
-Sonlandırma yeteneğinin ölçeği, önceki tek elementli yeteneklerden açıkça daha yüksek olmalıdır.
-
-Yıldız nehri, yıldırım, güneş/ay ve kutup ışığı görselleri sonlandırma efektinde kısaca görünebilir, ancak önceki yetenekleri tam olarak tekrar oynayamaz.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2105684524055322625/img/NCD7cVCLLuAfyOyU.jpg" width="600" alt="Epik Xianxia Savaş Videosu İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11850)**
-
-**Yazar:** [Arvin](https://x.com/Arvin010717) | **Kaynak:** [Link](https://x.com/Arvin010717/status/2106241257895084452) | **Yayınlandı:** Oct 3, 2026
-
----
-### Kayak Kulübesinde Buz Canavarı Saldırısı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kar fırtınası sırasında bir kayak kulübesine buzdan yaratığın girdiği ve personelin sıcak su ile ateş kullanarak onu püskürttüğü korku-gerilim kısa filmi için prompt.
-
-#### 📝 İstem
-
-```
-Dağ kayak merkezindeki bir kulübede geçen sinematik korku-gerilim kısa filmi, kar fırtınası sırasında anında dikkat çeken bir girişle başlar, gerçekçi üslup ve maksimum dinamik kamera hareketleri. Mekan: şömineli, dışarıda yağan karı gösteren büyük pencereli, misafirlerin sıcak içeceklerle keyif yaptığı samimi ahşap bir kulübe içi. KARAKTER SABİTLEMESİ: Ana karakter, kulübe çalışanı, yirmili yaşlarının sonunda bir kadın, kırmızı kayak ceketi, her çekimde tutarlı görünüm. Soluk soğuk tonlu renk düzenlemesi, doğal diegetik ses kullanımı, gerilim müziği hemen devreye girer.
->
-> **[0-1s]** Ani kesme: Kulübenin büyük penceresi dışarıdan anında donar, buz kristalleri cam üzerinde doğaüstü hızla yayılır.
->
-> **[1-2s]** Cam içeriye doğru kırılır, sivri buz parçaları ve don kristallerinden oluşan insansı bir yaratık içeri adım atar, ani soğukta nefesi buhar olarak görünür.
->
-> **[2-3s]** Yakındaki misafirler nefeslerini tutar, şömine yanındaki masalarından geri çekilir.
->
-> **[3-4s]** Yaratık en yakın misafire doğru ilerler, dokunduğu her şeyde ince bir don tabakası oluşur.
->
-> **[4-5s]** Misafir sendeler, kolunun temas ettiği yerdeki kolu buzla kaplanır.
->
-> **[5-6s]** Panik kulübeye yayılır, misafirler odanın uzak köşesine doğru koşuşturur.
->
-> **[6-7s]** Personel, şömine yanındaki demir çubuğu alır, yaratıkla kaçan misafirler arasına girer.
->
-> **[7-8s]** Yaratık ona döner, kristalimsi yüz hatları ateş ışığını yansıtır.
->
-> **[8-9s]** Kadın çubuğu savurur; darbe isabet eder, buzlu omzunda çatlamalar görülür.
->
-> **[9-10s]** Yaratık geri çekilir, darbe noktasından buz hafifçe erir.
->
-> **[10-11s]** İkinci personel, sıcak su dolu termosu alıp doğrudan yaratığa fırlatır.
->
-> **[11-12s]** Suyun değdiği yerde buhar yükselir, temas noktasında buz belirgin şekilde zayıflar.
->
-> **[12-13s]** Yaratık sendeler, dengesini geçici olarak kaybeder, formundaki buz desenleri titrer.
->
-> **[13-14s]** Personel avantajı kullanır, çubukla tekrar vurur.
->
-> **[14-15s]** Geniş açı: Misafirler koridorun sonuna ulaşır, birkaçı korkuyla arkasına bakar.
->
-> **[15-16s]** Yaratık kadına hamle yapar, buzlu pençelerini uzatır.
->
-> **[16-17s]** Kadın eğilir, darbeyi kıl payı atlatır, şömineye doğru yuvarlanır.
->
-> **[17-18s]** Eldivenli elleriyle şömine ateşinden yanan bir kütük alır.
->
-> **[18-19s]** YAVAŞ ÇEKİM: Kütüğü yaratığın göğsüne doğru arc şeklinde savurur.
->
-> **[19-20s]** Temas anında buzda şok dalgası gibi çatlaklar yayılır.
->
-> **[20-21s]** Yaratık hareketsiz kalır, kristalimsi formunda çatlaklar hızla büyür.
->
-> **[21-22s]** Yaratık parçalanır, buz parçaları etrafa saçılır.
->
-> **[22-23s]** Kalan buz parçaları erimeye başlar, su damlaları zemine düşer.
->
-> **[23-24s]** Personel derin bir nefes alır, elindeki çubuğu bırakır.
->
-> **[24-25s]** Misafirler temkinli şekilde öne çıkar, durumu kontrol eder.
->
-> **[25-26s]** Dışarıdaki kar fırtınası devam eder, içeride sessizlik hakim olur.
->
-> **[26-27s]** Kamera, eriyen buz havuzcuğuna odaklanır.
->
-> **[27-28s]** Yavaşça yukarı kayar, şömine ateşinin huzurlu dansını gösterir.
->
-> **[28-29s]** Son çekim: Kulübenin dış cephesi, fırtına içinde güvenli bir sığınak gibi durur.
->
-> **[29-30s]** Ekran kararır.
-```
-
-<img src="https://pbs.twimg.com/media/HTrZ4CDbUAAdA-T.jpg" width="600" alt="Kayak Kulübesinde Buz Canavarı Saldırısı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11813)**
-
-**Yazar:** [auqib](https://x.com/auqibhabib) | **Kaynak:** [Link](https://x.com/auqibhabib/status/2106235341548273915) | **Yayınlandı:** Oct 3, 2026
-
----
-### Sinematik Sokak Futbolu Çocukluk Anısı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Altın saatte sokakta futbol oynayan çocukların nostaljik, ultra gerçekçi videosunu oluşturmak için dinamik kamera hareketleri ve yavaş çekim kutlamaları içeren bir istem.
-
-#### 📝 İstem
-
-```
-Sıcak, tozlu bir mahallede altın saatte geçen sinematik, ultra gerçekçi canlı aksiyon sekansı oluşturun. Hareketli bir konut bölgesinin havadan görünümüyle başlayın → Yıpranmış bir futbol topunu tozlu zemine bırakan bir çocuğun yakın çekimi → Çocuklar yoğun bir sokak futbolu maçına başlar → Hızlı driplinglerin, ayak işlerinin ve havada uçan topun dinamik düşük açı çekimleri → Gol attıktan sonra kutlama yapan çocukların sinematik yavaş çekim görüntüsüyle bitirin. Sıcak altın rengi güneş ışığı, gerçekçi toz parçacıkları, doğal hareket, el kamerası hissi, sığ alan derinliği, detaylı ortamlar, otantik duygular, pürüzsüz sinematik geçişler, fotogerçekçi canlı aksiyon, nostaljik büyüme çağı atmosferi. Metin, altyazı, logo veya filigran yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106206604773437440/img/CTdbn4tRQamgI8cz.jpg" width="600" alt="Sinematik Sokak Futbolu Çocukluk Anısı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11815)**
-
-**Yazar:** [Aynah](https://x.com/AynahhX) | **Kaynak:** [Link](https://x.com/AynahhX/status/2106206660582850732) | **Yayınlandı:** Oct 3, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -5210,6 +4752,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-25T03:43:07.222Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-25T09:12:50.063Z</sub>
 
 </div>
