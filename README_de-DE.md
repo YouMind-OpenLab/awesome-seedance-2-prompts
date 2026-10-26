@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6591** |
+| 📝 Gesamtanzahl Prompts | **6598** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-10-26** |
 
@@ -361,6 +361,257 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Cinematic Luxury Car Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines hochwertigen Werbevideos für ein Luxusauto, das eine elegante Limousine bei goldenem Licht durch die Stadt fahren zeigt.
+
+#### 📝 Prompt
+
+```
+Erstelle ein cineastisches Luxusauto-Video, in dem ein elegantes Premium-Fahrzeug zur Goldenen Stunde durch eine wunderschöne Stadt gleitet. Nutze fließende Kamerafahrten, dramatische Lichtstimmung, spiegelnde Reflexionen, stilvolle Kamerabewegungen, realistische Details und eine luxuriöse Atmosphäre. Ergänze Zeitlupensequenzen, eine geringe Schärfentiefe und ultrarealistische 4K-Qualität. Das Video soll elegant, kraftvoll und professionell wirken – wie ein hochwertiger Werbespot einer Premium-Automarke.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114590476737351680/img/kQI-v6EFDOPArwLi.jpg" width="600" alt="Cinematic Luxury Car Video Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13046)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2114590512208638086) | **Veröffentlicht:** Oct 26, 2026
+
+---
+### Begegnung in der Golden Hour
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines kinematischen Videos einer Frau, die während der goldenen Stunde auf einer Wohnstraße einem Rollerfahrer begegnet.
+
+#### 📝 Prompt
+
+```
+Erstelle ein 30-sekündiges, ultrarealistisches Video im Kinostil auf einer ruhigen Wohnstraße, beleuchtet vom warmen Licht der Golden Hour. Eine schöne junge Frau mit kurzen, hellblauen Haaren geht in einem weißen Minikleid, einer hellblauen Strickjacke und weißen Sneakern auf die Kamera zu. Plötzlich bemerkt sie etwas, dreht sich um und läuft auf einen kleinen Gegenstand zu, der auf der Straße liegt. Dabei verliert sie versehentlich das Gleichgewicht – direkt neben einem jungen Mann, der auf einem gelben E-Scooter fährt. Der Mann in einem roten Sweatshirt und schwarzer Hose bremst seinen Scooter sofort ab, als die Frau auf ihn zuläuft. Er verliert das Gleichgewicht und stürzt auf die Straße, während der Scooter neben ihm zur Seite kippt. Die Frau bleibt besorgt vor ihm stehen, als er beginnt, sich wieder aufzurappeln und den Scooter vom Boden aufzuheben. Er steht auf, stellt den Scooter gerade und blickt zu der Frau, die ihn ruhig beobachtet. Dann wendet sie sich ab und geht mit entspanntem Gesichtsausdruck die Straße hinunter auf die Kamera zu. Verwende flüssige Kamerafahrten im Filmstil, realistische Körperbewegungen, natürliche Gesichtsausdrücke, detaillierte Stofftexturen, warmes Sonnenlicht, weiche Schatten und eine geringe Tiefenschärfe für eine hochwertige, lebensechte Kinoästhetik.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114561073164800000/img/1oWqWOdW3ql0CX1u.jpg" width="600" alt="Begegnung in der Golden Hour">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13044)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2114561253398261881) | **Veröffentlicht:** Oct 26, 2026
+
+---
+### Seedance 2.0 Küchen-Vlog-Prompt mit Charakterkonsistenz
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Prompt zur Erstellung eines 10-sekündigen vertikalen Küchen-Vlogs mit Seedance 2.0. Er legt Wert auf konsistente Charakterdarstellung über verschiedene Szenen hinweg, den Einsatz von Requisiten (Lebensmittelzange/Wender), Lichtverhältnisse und Kamerabewegungen für ein authentisches Heimvideo.
+
+#### 📝 Prompt
+
+```
+Charakter:
+Gesicht: Aussehen, Gesichtszüge, Frisur, Haarfarbe und Make-up richten sich strikt nach dem Porträt-Referenzbild.
+Kleidung und Körper: Outfit, Accessoires und Körperproportionen richten sich strikt nach dem Referenzbild des cremeweißen Schmetterlingskleides (schulterfreies cremefarbenes Kleid + Schmetterlings-Haarschmuck); die Rückenansicht in Shot 2 stimmt mit dem Outfit der Vorderansicht überein.
+Konsistenz: Dieselbe Person in allen 4 Shots; Gesicht und Kleidung bleiben durchgehend konsistent, keine Veränderungen nach den Schnitten; auch das Spiegelbild in Shot 2 zeigt dieselbe Person im selben Outfit.
+
+Requisiten:
+Shot 1: Eine schwarze Küchenzange.
+Shot 4: Ein schwarzer Pfannenwender.
+
+Szene:
+Eine Wohnküche, die über eine Türöffnung mit dem Wohnzimmer verbunden ist.
+
+Küche: Weiße Fliesenwände mit Marmorstruktur, schwarzer Herd mit Wok, Gewürzflaschen, Messerblock auf der Arbeitsplatte; weiße Küchentür, rote Laternen nahe der Decke hängend.
+Wohnzimmer: Heller Holzboden, Ganzkörperspiegel hinter der Tür, schwarze Katze auf dem Boden.
+
+Beleuchtung:
+Natürliches Tageslicht im Innenraum, weich und gleichmäßig, kühler weißgrauer Farbton, klar und transparent.
+
+Storyboard
+Shot 1 | 0,00–3,27s | Weitwinkel-Nahaufnahme, Interaktion mit der Kamera unter Verwendung der Küchenzange
+
+Kameraführung: Smartphone sehr nah am Motiv, leicht erhöhte Perspektive, Weitwinkelobjektiv, rahmt Gesicht und Oberkörper ein, Hintergrund zeigt Fliesenwand, weiße Tür, schwarzen Wok auf dem Herd.
+0,00–0,60s: Das Motiv blickt mit einem leichten Lächeln nach unten; die linke Hand hält die schwarze Küchenzange im linken unteren Bildbereich.
+0,60–1,00s: Das Motiv hebt den Kopf und blickt in die Kamera, die Kamera bewegt sich etwas näher heran.
+1,00–1,60s: Das Motiv schaut in die Kamera, die Mundwinkel heben sich, die Küchenzange bewegt sich zum linken Bildrand.
+1,60–2,00s: Das Motiv streckt die Küchenzange in Richtung Kamera, die Zangenköpfe erscheinen im linken Vordergrund mit Bokeh-Effekt.
+2,00–2,60s: Das Motiv öffnet und schließt die Küchenzange mehrmals vor der Kamera, die Augen verengen sich leicht, verspieltes Lächeln.
+2,60–3,27s: Die Küchenzange wird zur linken Seite zurückgezogen, das Motiv lächelt in die Kamera, elegante und gefasste Bewegung. 0,3s Crossfade-Übergang bei 3,27s.
+
+Shot 2 | 3,27–4,70s | Szene am Ganzkörperspiegel, Rücken zur Kamera, dann Umdrehen
+
+Kameraführung: Hinter dem Motiv leicht rechts, auf Augenhöhe, Halbtotale. Die linke Hälfte zeigt die frontale Spiegelung, die rechte Hälfte den Rücken des Motivs; schwarze Katze auf dem Holzboden.
+3,27–4,00s: Das Motiv steht mit dem Rücken zur Kamera vor dem Spiegel, eine Hand in der Hüfte, die andere berührt den Spiegelrand; das Spiegelbild betrachtet sich selbst.
+4,00–4,20s: Das Motiv dreht den Kopf über die Schulter und blickt in die Kamera.
+4,20–4,70s: Das Motiv wendet sich direkt der Kamera zu, mit ruhigem Gesichtsausdruck; das Spiegelbild wechselt ins Profil, elegante Bewegung. 0,3s Crossfade-Übergang bei 4,70s.
+
+Shot 3 | 4,70–5,50s | Aufsicht aus erhöhter Perspektive, stehend am Herd
+
+Kameraführung: Von einer hohen Ecke der Küche nach unten gerichtet, Ganzkörperaufnahme, Weitwinkelobjektiv zeigt schwarzen Herd, Wok, Gewürze, weiße Tür.
+4,70–5,50s: Das Motiv steht mit Händen auf dem Rücken am Herd, blickt lächelnd nach oben in die Kamera, der Körper wiegt sich leicht, elegante Bewegung. 0,3s Crossfade-Übergang bei 5,50s.
+
+Shot 4 | 5,50–10,00s | Hält einen Pfannenwender, Nahaufnahme der Gesichtsausdrücke
+
+Kameraführung: Smartphone nah am Motiv, leicht erhöhte Perspektive, Weitwinkelobjektiv rahmt ab Brusthöhe ein. Der Hintergrund zeigt weiße Tür, Türklinke, Marmorfliesen, schwarzen Wok, rote Laternen.
+5,50–6,00s: Das Motiv hält den schwarzen Pfannenwender auf Schulterhöhe, den Kopf erhoben, und lächelt in die Kamera.
+6,00–8,00s: Das Motiv spricht den Satz „Is this spatula easy to use?“ und lächelt dabei.
+8,00–8,40s: Das Motiv zieht die Augenbrauen hoch und blickt in die Kamera, die Mundwinkel heben sich natürlich.
+8,40–10,00s: Das Motiv behält ein warmes, entspanntes Lächeln bei und blickt in die Kamera, der Pfannenwender wird neben der Schulter gehalten, das Lächeln bleibt bis zum abschließenden Freeze-Frame bestehen. Übergänge sind fließend und nahtlos, keine übersprungenen Frames oder plötzlichen Posenwechsel.
+
+Stil:
+TikTok/Xiaohongshu Home-Vlog-Stil, originale Weitwinkel-Kameraqualität eines Smartphones, Beauty-Filter/Hautglättung angewendet, helle, transluzente Haut. Natürliches Tageslicht, kühler Weißton, fotorealistisch, HD, lebendige, natürliche Gesichtsausdrücke; insgesamt elegant und gefasst, langsame, fließende Bewegungen, nicht übertrieben oder hektisch.
+
+Audio:
+Durchgehende fröhliche Musik (Ukulele/Akkordeon, helles Instrumentalstück), Crossfades an den Schnitten ohne Unterbrechung. In Shot 4 eine klare, natürliche Stimme, die „Is this spatula easy to use?“ sagt, wobei die Musik leiser wird, aber die Stimme nicht übertönt. Keine weiteren menschlichen Stimmen, Schreie, Lachen oder seltsame Geräusche außer diesem Satz.
+
+Parameter:
+9:16 Hochformat, 10,00 Sekunden, 30fps, fotorealistisch, 4 Shots.
+
+Negative Prompt: Face swap, clothing change, character appearance change after cuts, mirror reflection inconsistent with actual person, reflection becoming different person, distorted features, frowning, sad face, pursed lips, deformed fingers, deformed food tongs/spatula, extra arms, severe wide-angle distortion, flickering, low resolution, watermarks, subtitles, frame skipping, sudden motion jumps, abrupt pose changes, strange human voices, screams, unexplained laughter
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114557197678182400/img/dvzcO0zc7JT-ziP5.jpg" width="600" alt="Seedance 2.0 Küchen-Vlog-Prompt mit Charakterkonsistenz">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13048)**
+
+**Autor:** [单引号](https://x.com/DengYH803) | **Quelle:** [Link](https://x.com/DengYH803/status/2114557242569867559) | **Veröffentlicht:** Oct 26, 2026
+
+---
+### Video einer tanzenden anthropomorphen Katze
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Generierung eines fotorealistischen Videos einer anthropomorphen Katze, die in Hemd und Hose tanzt, mit Fokus auf anatomische Stabilität und rhythmische Bewegung.
+
+#### 📝 Prompt
+
+```
+**DAUER:** 8 Sekunden  
+**FORMAT:** Vertikal 9:16, filmischer Fotorealismus  
+**REFERENZ:** Verwende das hochgeladene Katzenbild als exakte Referenz für das erste Frame und den Charakter.
+
+**CHARAKTERKONSISTENZ:** Exakt dieselbe orange-cremefarbene getigerte Katze, die dasselbe lässige rosa Button-up-Hemd und dieselbe beigefarbene Hose trägt. Gesicht, Augenform, Ohren, Fellzeichnung, Körperproportionen, Outfit und Schwanz müssen über das gesamte Video hinweg unverändert bleiben.
+
+**MUSIK:** Cooler, rhythmischer Contemporary-Dance-Pop-Instrumentaltrack mit tiefem, groovigem Bass, knackiger Percussion und stylischen Club-Beats. Die Musik setzt sofort ein. Die Tanzbewegungen müssen exakt auf den Beat abgestimmt sein.
+
+**TANZCHOREOGRAFIE:**
+
+**0–2 Sekunden:** Die Katze beginnt in einer entspannten, selbstbewussten Stehpose. Sie führt eine fließende Schulterrolle, eine subtile Brustisolation und kontrollierte Hüftbewegungen von Seite zu Seite aus, während sie den Blickkontakt zur Kamera hält.
+
+**2–4 Sekunden:** Die Katze zeigt saubere, stylische Footwork-Bewegungen, tritt nach rechts und links und bewegt dabei ihre Arme rhythmisch vor dem Oberkörper. Natürliche Handgelenksbewegungen, lockere Ellbogen und kontrollierte Grooves im Oberkörper.
+
+**4–6 Sekunden:** Die Katze führt einen fließenden Body Wave, einen selbstbewussten Two-Step und koordinierte Armschwünge aus. Oberkörper und Hüfte bewegen sich unabhängig voneinander in einem physikalisch stimmigen, menschenähnlichen Tanzstil.
+
+**6–8 Sekunden:** Die Katze macht zwei präzise, beatgenaue Schritte, einen fließenden Shoulder Pop und endet in einer coolen, selbstbewussten Pose mit Blick zur Kamera.
+
+**KRITISCHE KOPF- UND HALSKONTROLLE:** Der Kopf der Katze bleibt anatomisch stabil und natürlich mit dem Hals verbunden. Erlaubt sind lediglich subtile, realistische Kopfbewegungen und kleine, beat-synchrone Neigungen. Der Kopf darf NIEMALS um 360 Grad rotieren, nach hinten kippen, sich unnatürlich verdrehen, sich vom Körper lösen oder unabhängig vom Körper drehen. Augen, Ohren, Schnauze und Gesichtsstruktur müssen in jedem einzelnen Frame konsistent bleiben.
+
+**REALISMUS-SICHERUNG:** Natürliche Gewichtsverlagerung, fest am Boden stehende Füße, glaubwürdige Balance, fließende Übergänge zwischen den Tanzbewegungen, realistische Fell- und Stoffphysik, konsistente Schatten, durchgehende Bewegung und stabile Anatomie. Eine einzige, ununterbrochene Einstellung mit ruhiger Ganzkörperkamera ohne plötzliche Kamerabewegungen.
+
+**NEGATIVE VORGABEN:** Keine Cartoon-Bewegungen, kein kindliches Tanzen, keine übertriebenen Gesichtsausdrücke, keine gummiartigen Gliedmaßen, keine unnatürliche Biegung der Wirbelsäule, kein Verdrehen des Halses, kein Kreisen des Kopfes, keine zusätzlichen Gliedmaßen, keine Gesichtsverformungen (Morphing), keine Outfit-Wechsel, kein Schweben, kein Flackern, keine abrupten Posenwechsel, keine künstlich wirkenden Bewegungen.
+
+**ENDERGEBNIS:** Eine stylische, selbstbewusste Tanzperformance im erwachsenen Stil derselben fotorealistischen, anthropomorphen Katze – mit fließender Choreografie, natürlichen Kopfbewegungen und überzeugender körperlicher Dynamik.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114406485530972160/img/3zdH9KBkn5jnuVy0.jpg" width="600" alt="Video einer tanzenden anthropomorphen Katze">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13047)**
+
+**Autor:** [M. Asif](https://x.com/meAsifAi) | **Quelle:** [Link](https://x.com/meAsifAi/status/2114406947558764575) | **Veröffentlicht:** Oct 25, 2026
+
+---
+### Sera Nyx Canyon-Flug
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine Prompt-Beschreibung für eine Szene mit Sera Nyx, einem fliegenden Wesen und einer Canyon-Schwung-Sequenz.
+
+#### 📝 Prompt
+
+```
+Wieder Sera Nyx, und diesmal fliegt ihre Kreatur. Eine Schlucht, eine Schaukel an einem Seil über einer Steinbrücke, Ruinen – und am Ende die beiden gemeinsam.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2114387121637113856/pu/img/MKXPTBojpRRF8Run.jpg" width="600" alt="Sera Nyx Canyon-Flug">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13045)**
+
+**Autor:** [MxCaptures | AI VFX & Cinematic AI Artist](https://x.com/MxCaptures) | **Quelle:** [Link](https://x.com/MxCaptures/status/2114387454757134521) | **Veröffentlicht:** Oct 25, 2026
+
+---
+### Seedance 2.0 Cinematic Sequence: Alter Palast-Eingang
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein cineastischer Prompt zur Generierung einer dramatischen Eingangsszene in einem alten chinesischen Palast. Er umfasst mehrere Charaktere mit festgelegten Identitäten, präzise räumliche Beziehungen und eine schrittweise Enthüllung der Macht Hierarchie durch Kamerabewegungen.
+
+#### 📝 Prompt
+
+```
+Östliche historische Kostüme, fotorealistische Kinoqualität; nächtlicher Prunksaal, kühle Farbgebung; authentische Texturen für Haut/Haar/Stoff/Metall; dunkle Palette mit geringer Sättigung, starkes Chiaroscuro; spannungsgeladene Intrige, beklemmende Atmosphäre; CG-/Plastik-Ästhetik strengstens untersagt; nur Umgebungsgeräusche: hallende Schritte, raschelnde Gewänder, leises Knistern der Kerzen
+[Charakter-Fixierung] Hauptdarstellerin A: Bild 1; Nebenrolle B: Bild 2; Nebenrolle C: Bild 3
+[Requisiten-Fixierung] Einzelnes Langschwert (zunächst von B gehalten, später an A übergeben, quer über die Schulter gelegt)
+[Szenen-Fixierung] Nächtlicher königlicher Ratssaal: Steinboden, Säulen, hohe Fenster, Kandelaber, Laternen, zentraler erhöhter Thronsessel
+[Räumliche Beziehungen] C steht mittig rechts im Saal; B kauert im Vordergrund, anfangs völlig unscharf; A nimmt den tief im Zentrum gelegenen Thron ein, in den ersten drei Einstellungen unsichtbar
+[Räumliche Logik] Die Machthierarchie enthüllt sich schrittweise von nah zu fern durch eine seitliche Dolly-Fahrt nach hinten und oben, die den Raum Schicht für Schicht erweitert – zuerst C (Saalmitte), dann B (Hinterhalt im Vordergrund), schließlich A, die das Zentrum an sich reißt; strikte Fokusreihenfolge: C→B→A→Totale
+[Licht & Atmosphäre] Kaltes Mondlicht fällt schräg durch hohe Fenster, warme Kerzenakzente; insgesamt kalte Beleuchtung mit geringer Sättigung und hohem Kontrast
+
+[Storyboard]
+[Einstellung 01][Dauer] 0–3s [Bildausschnitt] Beginn als Halbtotale [Kameraführung] Zunächst ruhig, dann langsamer Kameraschwenk im Linksbogen [Inhalt] Im Inneren des Saals steht C abgewandt, den Kopf nachdenklich gesenkt; hebt plötzlich den Blick, hochmütiger, direkter Starren, verächtlich und distanziert; der Vordergrund bleibt als unscharfe Zone reserviert (Position von B), stabiler Fokus auf C, klare Tiefentrennung [Kontinuitäts-Fixierung] Eröffnung: C erscheint; B ist lediglich ein verschwommener Schatten ohne Gesichtszüge
+
+[Einstellung 02][Dauer] 3–5s [Bildausschnitt] Extreme Detailaufnahme, gesichtsfüllend [Kameraführung] Fortgesetzte Linksbewegung, schneller Schärfenverlagerung (Rack Focus) in den Vordergrund [Inhalt] Das zuvor unscharfe B im Vordergrund reißt den Kopf herum, Untersicht, gesichtsfüllende extreme Detailaufnahme, kalter, verächtlicher Blick direkt in die Kamera; Hintergrund C vollständig im Bokeh, intensive räumliche Spannung [Kontinuitäts-Fixierung] Übergang per Schärfenverlagerung: Fokus wechselt von C→B; B ist die Person im Hinterhalt, nicht die Protagonistin
+
+[Einstellung 03][Dauer] 5–7s [Bildausschnitt] Halbtotale [Kameraführung] Schneller Rückzug, kontinuierliches leichtes seitliches Wackeln [Inhalt] Bs Gesicht weicht zur Seite und schrumpft zur Halbtotalen, während die Kamera zurückfährt; B steht kampfbereit mit dem Schwert; A schreitet abrupt von links ins Bild, dominiert den Rahmen, greift an B vorbei, nimmt das Langschwert, hebt es über die Schulter, herablassendes Grinsen, blickt auf die Kamera herab; der finale Fokus rastet auf As Frontalgesicht ein [Kontinuitäts-Fixierung] Machtübernahme abgeschlossen: Schwert geht an A über, bildliche Dominanz erreicht; B wird zum Statisten im Hintergrund degradiert
+
+[Einstellung 04][Dauer] 7–10s [Bildausschnitt] Große Totale zum Abschluss [Kameraführung] Diagonaler Rückzug, kontinuierlicher Aufstieg [Inhalt] Die Kamera zieht sich diagonal nach hinten und oben zurück und erweitert den Raum schrittweise; der vollständige Rückzug etabliert ein erstarrtes Machttableau: kalte mondbeschienene Fenster, flackernde Kerzen, harter Kontrast, Dunkelheit mit geringer Sättigung, maximale Beklemmung [Kontinuitäts-Fixierung] Auflösung: Die wahre Autorität tritt zuletzt hervor; die dreigliedrige Machtstruktur kristallisiert sich heraus
+
+[Negative Vorgaben] Absolut keine Hintergrundmusik/Untertitel; kein überflüssiger Text/Wasserzeichen/moderne Elemente (keine Anzüge/Brillen/Autos/Basebälle); keine Charakterduplikationen/anatomischen Fehler/Identitätsverlust/Gesicht-von-A-wird-zu-B-oder-C/Verletzungen der Fokusreihenfolge/verschwindende Schwerter/Zeitlupen-Ruckeln; A/B/C behalten ihre festen Positionen durchgehend bei
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114347927615533056/img/LKCLXLhtlEtIrKN_.jpg" width="600" alt="Seedance 2.0 Cinematic Sequence: Alter Palast-Eingang">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13049)**
+
+**Autor:** [灰度笔记](https://x.com/GrayNoteLab) | **Quelle:** [Link](https://x.com/GrayNoteLab/status/2114348037862719796) | **Veröffentlicht:** Oct 25, 2026
+
+---
+### Seedance 2.0 Comedy-Szene im antiken Schlafzimmer
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein humorvolles narratives Prompt-Setting in einem antiken chinesischen Schlafzimmer, das dialoggetriebene Aktionen zwischen drei Charakteren und einer Katze zeigt. Nutzt warme Kerzenlicht-Töne und komödiantisches Timing innerhalb eines beengten häuslichen Raums.
+
+#### 📝 Prompt
+
+```
+Text-to-Video-Prompt: Östliche historische Kostüme, fotorealistische Kinoqualität; Boudoir bei Kerzenschein, warme Farbgebung; authentische Texturen für Haut/Haar/Stoffe/schnitztes Holz; Color Grading in Filmqualität; leichte Komödie; CG-/Plastik-Ästhetik verboten
+[Charakter-Fixierung] Hauptdarstellerin A: Bild 1; Hauptdarsteller B (Zhao Mingcheng): Bild 2; Nebenrolle C (Schwester): Bild 3; Oranger Getigerter Kater
+[Wichtiges Setup] C versteckt sich im Kleiderschrank
+[Szenen-Fixierung] Boudoir im antiken Stil: geschnitztes Holzbett, Schminktisch mit Bronzespiegel, Kerzenständer, Laternen, großer geschnitzter Kleiderschrank
+[Räumliche Beziehungen] A steht vor dem Bett; B sitzt zusammengesunken auf der Bettkante; Kleiderschrank auf der gegenüberliegenden Seite; C im Kleiderschrank
+[Räumliche Logik] Einziger Schauplatz; Weg von A: vor dem Bett → zum Schrank drehen → Tür öffnen; die Katze verlässt nie B's Schulter
+[Licht und Atmosphäre] Warmes Kerzenlicht, weiche Ausleuchtung der Gesichter
+
+[Storyboard]
+[Shot 01][Dauer] 0–3,5s [Einstellung] Halbtotale [Kamera] Statisch [Inhalt] A überragt ihn und schimpft von oben herab; B sitzt mit gesenktem Kopf auf der Bettkante [Dialog] A(~0,5–2s): „Als wir heirateten, habe ich 100.000 Tael Brautpreis verlangt"; A(~2–3,5s): „90.000 davon hat dir meine Schwester geliehen", gleichzeitig tätschelt die Pfote des orangen Katers B's Kopf [Kontinuitäts-Fixierung] Eröffnung: A dominiert das Schimpfen;
+
+[Shot 02][Dauer] 3,5–7s [Einstellung] Halbtotale [Kamera] Statisch [Inhalt] A wird wütender und zeigt mit dem Finger auf B; B senkt den Kopf noch tiefer, Katze ruhig auf der Schulter [Dialog] A(~3,5–5s): „Jetzt habe ich dir auch noch dein Amt verschafft"; A(~6–7s): „Zhao Mingcheng ist wirklich undankbar, oder?" [Kontinuitäts-Fixierung] A zählt die Verdienste der Schwester auf; B schweigt wehrlos
+
+[Shot 03][Dauer] 7–8,5s [Einstellung] Nahaufnahme [Kamera] Statisch [Inhalt] B mit gesenktem Kopf murmelt eine Entschuldigung, Katze blickt ausdruckslos nach vorn [Dialog] B schuldbewusst(~7,5–8,3s): „Xiaowan, es tut mir leid" [Kontinuitäts-Fixierung] B gibt auf; kein zusätzlicher Dialog
+
+[Shot 04][Dauer] 8,5–12,5s [Einstellung] Halbtotale [Kamera] Seitliche Kamerafahrt [Inhalt] A dreht sich um und schreitet fluchend auf den Schrank zu, hält an der Tür inne, Hand am Griff [Dialog] A(~9–11s): „Während ich weg war, kam meine Schwester zu Besuch, und du hast sie im Schrank eingesperrt"; A(~12s): „Bist du überhaupt noch ein Mensch?" [Kontinuitäts-Fixierung] Annäherung an den Schrank = Countdown zur Enthüllung; B erstarrt auf der Bettkante
+
+[Shot 05][Dauer] 12,5–15s [Einstellung] Halbtotale [Kamera] Statisch [Inhalt] A reißt den Schrank auf: C steht darin, winkt verlegen lächelnd und sagt „Hi~"; Standbild [Kontinuitäts-Fixierung] Auflösung
+
+[Negative Einschränkungen] Absolut keine Hintergrundmusik; kein überflüssiger Text/Wasserzeichen/Charakter-Duplikationen/anatomische Fehler/moderne Elemente (keine elektrischen Lichter/keine modernen Möbel)/Identitätsverlust/A's Gesicht wechselt zu B oder C/Katze verlässt B's Schulter/Verzerrung des Katzenmusters/vermischte Dialoge/Zeitlupen-Effekte
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114281752583897088/img/f5RxqlYYYQlBpeLf.jpg" width="600" alt="Seedance 2.0 Comedy-Szene im antiken Schlafzimmer">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13050)**
+
+**Autor:** [灰度笔记](https://x.com/GrayNoteLab) | **Quelle:** [Link](https://x.com/GrayNoteLab/status/2114281882687066484) | **Veröffentlicht:** Oct 25, 2026
+
+---
 ### Schulflur-Chaos in Zeitlupe
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3626,1098 +3877,6 @@ Fotorealistische harte Science-Fiction, spektakuläre Asteroidenumgebungen, gnad
 **Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Quelle:** [Link](https://x.com/AllaAisling/status/2106852107114418554) | **Veröffentlicht:** Oct 4, 2026
 
 ---
-### Seedance 2.0 Mini Kinematografischer Eskorten-Kampf-Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein detaillierter Prompt zur Generierung eines 15-sekündigen kinematografischen Videos mit Seedance 2.0 Mini, der eine mobile Eskorten-Schlacht in einem antiken chinesischen Xianxia-Setting darstellt, mit strikter Verankerung von Charakteren und Orten basierend auf Referenzbildern.
-
-#### 📝 Prompt
-
-```
-Kinematografische fotorealistische Textur, reiner antiker chinesischer Xianxia-Actionfilm, 15 Sekunden, 16:9, Seedance 2.0 Mini.
-Diese Runde ist kein stationäres Duell und wiederholt auch nicht das alte Muster "Wechsel zu einer neuen Waffe → Protagonist studiert → Konter → Schwert stoppt am Hals".
-Das zentrale Aktionsmotiv ist:
-Eine mobile Eskorten-Schlacht, die auf der echten hochgelegenen kaiserlichen Straße stattfindet, wie sie im aktuellen Referenzbild gezeigt wird.
-Dieselbe Senior Sister (Ältere Schwester) und Junior Sister (Jüngere Schwester) müssen kontinuierlich vorrücken, während sie den verletzten Meister, die Schüler und die evakuierenden Zivilisten hinter sich schützen.
-Das eigentliche Ziel der Feinde ist nicht unbedingt, die beiden Protagonisten zu besiegen.
-Was sie tun wollen, ist:
-Die Verteidigungslinie der beiden Protagonisten zu durchbrechen;
-In die evakuierende Menge einzudringen;
-Den Weg für das weitere Vorrücken zu versperren.
-Daher ist der Kern dieser gesamten Schlacht:
-**Die Blockade vorne brechen
-Verfolger hinten blockieren
-Die beiden Protagonisten tauschen ständig ihre vorderen und hinteren Positionen
-Immer wieder den Weg freimachen.**
-Aktionen streben nach Seidigkeit, dürfen aber niemals weich sein.
-Seidigkeit bedeutet:
-Die vorherige Aktion führt natürlich zur nächsten;
-Charaktere sind immer in Bewegung;
-Angriff und Verteidigung setzen nie auf null zurück;
-Waffenausrichtung und Charakterrundung sind immer verständlich;
-Nach Schnitten weiß man noch, wer vorne, wer hinten ist und wer von wo angreift.
-Kraft entsteht aus:
-Plötzlichem Start;
-Offensichtlicher Beschleunigung;
-Echten Kollisionen;
-Schwerpunktverschiebungen;
-Kraftausgleichen;
-Ungleichgewicht;
-Trägheit;
-Gegen-Griffen;
-Harten Stopps;
-Sofortigem Neustart.
-Verbot von weicher, tanzender Schwertkunst.
-Verbot des Zurücksetzens der Pose nach einem Schlag.
-Feinde müssen echtes Urteilsvermögen haben.
-Nachdem die erste Strategie gescheitert ist, müssen sie Ziele wechseln, Angriffswege ändern, verfolgen, Wege sperren, flankieren oder aktiv die beiden Protagonisten trennen.
-Verbot, dass sich Feinde aufstellen, um Angriffe anzubieten.
-[Core Character Lock]
-Strikt nur @Image 1 und @Image 2 als die zwei Kern-Protagonisten zusammen mit ihren jeweiligen Hauptwaffen fixieren.
-@Image 1 ist immer dieselbe Sword Immortal Senior Sister wie zuvor:
-Identität als erwachsene ostasiatische Frau;
-25–30 Jahre alt;
-Dasselbe Gesicht;
-Schwarze lange Haare halb gebunden;
-Weiße Jade-Haarnadel;
-Große und schlanke Proportionen;
-Weiße bestickte Seiden-Hanfu;
-Halbtransparente geschichtete weite Ärmel;
-Silberner Taillengurt;
-Jade-Anhänger;
-Weiße Stoffstiefel;
-Das einzige silberne Geradschwert im gesamten Film.
-@Image 2 ist immer dieselbe Junior Sister wie zuvor:
-Identität als erwachsene ostasiatische Frau;
-20–25 Jahre alt;
-Dasselbe Gesicht;
-Schwarzes geflochtenes Haar;
-Zierliche Proportionen;
-Cyan-grüne Leinen-Hanfu;
-Dunkler Gürtel;
-Holz-Haarnadel;
-Schwarze Stoffschuhe;
-Das einzige dunkle Stahlschwert im gesamten Film.
-Feinde, Meister, Schüler, Zivilisten und Zuschauer sind lediglich funktionale Nebenfiguren.
-Verschwenden Sie keine Generierungs-Aufmerksamkeit damit, Gesichter, Frisuren und komplexe Kleidung der Nebenfiguren strikt zu fixieren.
-Stellen Sie einfach sicher, dass Charaktertypen, Positionen, Waffen und Aktionsfunktionen innerhalb des Shots logisch kontinuierlich bleiben.
-[Round-Specific Scene Hard Anchor | Highest Priority]
-Der hochgeladene Hintergrund-Referenz für diese Runde zeigt bereits einen vollständigen, sehr erkennbaren Ort.
-Daher geht diese Runde direkt über in:
-HARD LOCATION ANCHOR (Feste Ortsverankerung).
-Das Referenzbild ist keine Stil-Inspiration.
-Das gesamte Video muss tatsächlich auf derselben hochgelegenen himmlischen Palast-Kaiserstraße stattfinden, die im Referenzbild gezeigt wird.
-Verbot, es in einen "ähnlichen Xianxia-Ort" umzugestalten.
-Muss kontinuierlich folgende Ortsidentitäten beibehalten:
-Die zentrale Achse des Bildes enthält immer dieselbe extrem lange, gerade, blassweiße hochgelegene Kaiserstraße, die vom Vordergrund zum fernen Zentrum reicht.
-Die Kaiserstraße behält immer eine offensichtliche enge Tiefe; Charaktere bewegen sich primär entlang der Vor-Zurück-Richtung; Verbot, sie in eine kreisförmige Arena, einen riesigen Innenhof oder eine breite Plaza zu erweitern.
-Die linken und rechten Seiten der Kaiserstraße behalten immer denselben massiven hochgelegenen Abgrund, die milchig weiße Wolkenmeer und kontinuierliche große Wasserfälle bei.
-Im Mittelgrund links und rechts befinden sich weiterhin dieselbe Gruppe riesiger traditioneller Paläste, die ursprüngliche Links-Rechts-Positionen, Volumen und räumliche Beziehung zur Kaiserstraße beibehalten.
-Im linken Vordergrund bleibt weiterhin dasselbe extrem prominente große dunkle Ausleger-Holzkonstruktionsgebäude erhalten; dichte Holzstrukturen dürfen nicht verschwinden oder zu gewöhnlichen kleinen Gebäuden schrumpfen.
-Unterhalb der Kaiserstraße und unter dem Nebel bleibt weiterhin dieselbe Skala an dichter alter Stadt erhalten.
-Im fernsten Zentrum befindet sich weiterhin derselbe riesige Bergkörper / Superstruktur.
-Im fernen Zentrum bleibt weiterhin derselbe riesige ringförmige Tor-/Ringbau erhalten.
-Charaktere sind immer viel kleiner als die Kaiserstraße, Paläste, Wasserfälle, die darunterliegende Stadt und die fernen Superstrukturen.
-Beibehaltung desselben hellen kühlweiß-grauen, blassen warmgoldenen, niedriggesättigten Tages-/Morgenlichts, milchig weißen Luftnebel und riesiger Tiefe wie im Original-Referenzbild.
-Der ferne riesige Ring muss immer sehr weit weg bleiben.
-Verbot, ihn plötzlich näher zu ziehen, um ein gewöhnliches Bergtor zu werden.
-Verbot, die aktuelle Kaiserstraße neu zu generieren als:
-Kreisförmige Arena;
-Gewöhnlicher Innenhof;
-Breite Plaza;
-Andere Wolkenbrücke;
-Neue schwebende Plattform;
-Neues Bergtor;
-Neue schwebende Insel;
-Neue Klippe;
-Neuer Palasteingang;
-Neue große Treppe.
-Verbot, die Kaiserstraße plötzlich für bequemen Kampf zu verbreitern.
-Verbot, Tag in Nacht zu verwandeln.
-Verbot, das aktuelle weiche Wetter durch stürmische dunkle Wolken zu ersetzen.
-Alle Aktionen und Kameras müssen sich an die aktuelle echte Kaiserstraße anpassen.
-Verbot, die Szene zugunsten der Aktion umzugestalten.
-[Background Dynamics | Must be alive, but default non-participatory in plot]
-Szene bewegt sich kontinuierlich natürlich.
-Ferne Wolken bewegen sich langsam.
-Riesige Wasserfälle fallen kontinuierlich realistisch nach unten.
-Wasserdunst am Fuß der Wasserfälle wirbelt kontinuierlich und verschmilzt mit dem bestehenden Wolkenmeer.
-Wolken- und Nebelschichten in verschiedenen Entfernungen behalten leicht unterschiedliche Geschwindigkeiten bei, was realistische Parallaxe erzeugt.
-Hochgelegener natürlicher Wind beeinflusst kontinuierlich das schwarze Haar, die weiten Ärmel, den Saum, die Quasten und Accessoires der beiden Protagonisten.
-Dünner Nebel zwischen der fernen alten Stadt und den Palästen bewegt sich kontinuierlich langsam.
-Atmosphärische Perspektive erzeugt kontinuierlich subtile Änderungen.
-Einige ferne Figuren können sich natürlich in Bereichen bewegen, die bereits im Referenzbild existieren.
-Jedoch:
-Die Umgebung ist erzählerisch standardmäßig neutral.
-Wasserfälle können niemandem plötzlich helfen.
-Nebel kann Feinde nicht aktiv verdecken.
-Wind kann Schwertpfade nicht ändern.
-Gebäude können nicht von selbst einstürzen.
-Die Kaiserstraße kann nicht brechen.
-Der ferne Ring kann nicht plötzlich Zauber aktivieren.
-Die Umgebung kann den Kampf nicht aktiv lösen.
-Nur wenn Charaktere wirklich treten, hart stoppen oder mit Waffen kollidieren, erlauben Sie leichten Steinstaub, Kratzer, Metallfunken, Stoffverdrängung und Sohlenreibungsreste.
-Bereits erscheinende offensichtliche Spuren sollten vernünftigerweise bestehen bleiben.
-[0–5s | Hook: Cannot Retreat]
-0.0–1.0s.
-Verwenden Sie 24mm Ultraweitwinkel-Zentralachse-Grand-Panorama.
-Reproduzieren Sie zuerst den Ort; Orts-Priorität ist höher als komplexe Aktion.
-Der erste Blick muss bestätigen:
-Dieselbe lange weiße Kaiserstraße;
-Dieselben riesigen Wasserfälle links und rechts;
-Dieselben großen Paläste links und rechts;
-Dasselbe große Holzkonstruktionsgebäude links;
-Dieselbe alte Stadt darunter;
-Derselbe riesige ferne Ring.
-Die beiden Protagonisten behalten kleine Skala innerhalb der riesigen Umgebung bei.
-Senior Sister ist vorne.
-Junior Sister ist einen halben Schritt dahinter.
-Weiter hinten in Abstand setzt ein verletzter älterer Meister, mehrere Schüler und einige Zivilisten fort, entlang derselben Kaiserstraße vorzurücken.
-Zwei feindliche Schwertkämpfer blockieren den Weg voraus.
-Der führende Feind blockiert den effektiven Durchgangsbereich mit einem horizontalen Schwert:
-"Wenn du sie beschützt, kommst du nicht durch."
-Senior Sister hält überhaupt nicht an:
-"Wer hat gesagt, dass wir uns zurückziehen?"
-Sobald das letzte Wort fällt.
-Startet der Feind ohne Warnung.
-Die Kamera wechselt sofort von festem Grand Panorama zu ca. 32–35mm Tracking Shot, das entlang der Kaiserstraßenachse zurückweicht.
-Der erste Feind ergreift schnell Senior Sisters Mittellinie.
-Senior Sister zieht sich niemals rückwärts zurück.
-Bis zum letzten Moment verschiebt sie sich nur diagonal um eine halbe Körperbreite und verwendet dasselbe silberne Geradschwert, um eine kurze, harte, echte Kollision abzuschließen, die das Feindschwert aus der zentralen Achse der Kaiserstraße drückt.
-Kein Folgeschlag.
-Keine Pose.
-Sie setzt sofort weiter vorwärts vorbei an der Schulter des Feindes.
-Fast gleichzeitig.
-Der zweite Feind schneidet von der entgegengesetzten Richtung auf Junior Sister zu, versucht, sie zu umgehen, um die Menge dahinter anzugreifen.
-Junior Sister verfolgt Feinde nicht wild.
-Sie stürzt direkt in die Position zwischen dem Feind und der evakuierenden Menge, ändert nur kurz die Angriffslinie des Gegners mit dem dunklen Stahlschwert und setzt dann weiter vorwärts.
-Ein Feind passiert schnell nahe der Kamera, der Körper füllt sofort den Bildschirm, bildet den ersten natürlichen versteckten Schnitt.
-Bis Ende der 0–5 Sekunden muss das Publikum klar verstehen:
-Sie bleiben nicht, um zu gewinnen.
-Sie erobern den Weg zurück.
-[5–10s | Upgrade: Enemies Start Attacking True Targets]
-Behalten Sie völlig identische Kaiserstraße, linke/rechte Paläste, Wasserfälle, fernen Ring und Weltskala bei.
-Verwenden Sie ca. 35mm Medium Shot Tracking, das sich entlang der Brückenachse bewegt.
-Nachdem der erste Angriff gescheitert ist, müssen Feinde proaktiv die Strategie ändern.
-Der Feindführer besteht nicht mehr darauf, Senior Sister im Kopf-an-Kopf-Duell zu besiegen.
-Er wechselt plötzlich das Ziel, versucht aktiv, Senior Sister zu umgehen, schneidet zwischen Junior Sister und die evakuierende Menge.
-Ein anderer Feind drängt gleichzeitig Senior Sister von der entgegengesetzten Seite, versucht, die beiden Protagonisten wirklich zu trennen.
-Aktionen bilden eine kontinuierliche Kausalkette:
-Horizontaler Hieb des Feindes zwingt Senior Sister, kurz von der Kaiserstraßen-Mittellinie abzuweichen;
-Senior Sister führt nur eine kurze Kraftfreigabe aus, keine Fortsetzung des Verwickelns;
-Die bereits investierte Aufprall-Trägheit des Feindes lässt seinen Körper leicht über die optimale Angriffsposition hinausschießen;
-Junior Sister setzt weiter vorwärts.
-Der führende Feind schneidet plötzlich diagonal von Junior Sisters rechter Front.
-Junior Sister fängt den ersten Schlag.
-Der Feind pausiert nicht, ändert sofort zu einem zweiten Tiefpositionsangriff.
-Junior Sister wird gezwungen, einen halben Schritt zur Kaiserstraßen-Mittellinie hin zu schrumpfen.
-Genau in dem Moment, in dem der Feind urteilt, dass sie abgeschnitten wurde ——
-Stürzt Senior Sister plötzlich schnell von hinter Junior Sister auf die andere Seite.
-Die beiden schließen den ersten extrem schnellen Vorder-Hinter-Positionswechsel ab.
-Keine Doppelrotation.
-Keine synchronisierte Pose.
-Sondern ein kompakter Schulterkreuzungs-Positionswechsel unter Beibehaltung der Vorwärtsbewegung.
-Senior Sister übernimmt direkt den Feind, der ursprünglich Junior Sister bedrängte.
-Junior Sister setzt weiter vorwärts entlang des halb geöffneten Pfades, wird die neue vordere Position.
-Die Kamera führt nur eine kurze seitliche Bewegung aufgrund des echten Positionswechsels der beiden durch.
-Ein Feindschwert streift an der Linse vorbei, bildet einen natürlichen Okklusionsübergang.
-Verbot von unbegründetem Orbiting.
-An diesem Punkt.
-Kommen schnelle Verfolgungsschritte von hinten.
-Ein funktionaler Verfolger, der ursprünglich weiter zurückfiel, ist angekommen.
-Jemand blockiert den Weg voraus.
-Jemand verfolgt von hinten.
-Die beiden Frauen sind zum ersten Mal wirklich in der gefährlichsten Situation der engen Kaiserstraße gefangen:
-Vorder- und Hinter-Zange.
-[10–15s | Flip: Don't Guard People, Guard the Path]
-Erweitern Sie wieder auf ca. 28–32mm bewegtes Medium Shot.
-Verwenden Sie fast 1 Sekunde, um den aktuellen Raum vollständig zu erklären:
-Junior Sister ist vorne;
-Senior Sister ist etwa eine Körperlänge dahinter;
-Frontaler Feindführer nimmt die Mittellinie wieder ein;
-Hintere Verfolger nähern sich schnell;
-Evakuierender Meister, Schüler und Zivilisten bewegen sich immer noch in sichereren Positionen weiter entfernt.
-Alle bleiben auf derselben echten Kaiserstraße aus dem Referenzbild.
-Verbot, plötzlich auf andere Plattformen zu schneiden.
-Frontale Feinde und hintere Verfolger starten fast gleichzeitig.
-Junior Sister will instinktiv umdrehen.
-Senior Sister sagt nur:
-"Beschütze mich nicht."
-Junior Sister hört auf, umzudrehen.
-Senior Sister folgt sofort mit:
-"Beschütze den Weg."
-Die beiden explodieren fast gleichzeitig.
-Junior Sister dreht sich nicht um, um Senior Sister zu retten.
-Sie setzt weiter vorwärts, verwendet eine kurze und harte dunkle Stahlschwert-Kollision, um die Klingenschneide des frontalalen Feindes gewaltsam aus der zentralen Achse der Kaiserstraße zu drücken.
-Senior Sister behandelt gleichzeitig den hinteren Verfolger.
-Sie gibt absichtlich einen halben Schritt nach, lässt den Feind wirklich in Angriffsreichweite eintreten.
-Genau in dem Moment, in dem die Körperkraft des Gegners investiert wurde, schneidet sie plötzlich diagonal aus der Angriffsachse heraus.
-Die eigene Vorwärts-Trägheit des Verfolgers lässt seinen Körper um eine halbe Körperlänge hinausschießen.
-Senior Sister verfolgt nicht.
-Beschleunigt sofort wieder vorwärts.
-An diesem Punkt hat Junior Sister den frontalalen Feind bereits eine halbe Körperlänge von der Mittellinie weggedrückt.
-Die beiden Protagonisten nähern sich schnell.
-Schulterlinien streifen sich in extrem naher Distanz.
-Schließen den zweiten Vorder-Hinter-Positionswechsel ab.
-Diesmal schauen sie einander überhaupt nicht an.
-Junior Sister fällt natürlich in die hintere Position, übernimmt den Feind, der sich umgedreht hat, um erneut zu verfolgen.
-Senior Sister wird wieder die vordere Position, konfrontiert den führenden Feind, der immer noch den Weg blockiert.
-Ein Feindschwert fegt über den Kameravorgrund, füllt sofort den Bildschirm, bildet den explizitesten Waffen-Okklusions-Hartschnitt des ganzen Films.
-Schnitt zu einer etwas niedrigeren Rückwärts-Kameraposition.
-Senior Sister führt nur eine extrem kurze, extrem wilde Auswärts-Ablenkung mit dem Silber-Schwert durch.
-Der Schwertpfad des Führers wird gründlich aus der zentralen Achse der Kaiserstraße gedrückt.
-Weil sein Körpergewicht bereits vorwärts investiert war, trägt seine eigene Trägheit seinen Körper seitlich um etwa zwei Körperlängen.
-Feinde können nicht von der Brücke fallen.
-Können nicht übertrieben weggeblasen werden.
-Brauchen nicht komplett Kampffähigkeit zu verlieren.
-Nur den Weg öffnen ist genug.
-Senior Sister und Junior Sister halten absolut nicht an, um Todesstöße zu liefern.
-Die beiden gehen direkt zwischen den Feinden hindurch, setzen entlang derselben weißen Kaiserstraße zum fernen riesigen Ring fort.
-Die hintere evakuierende Menge beginnt ebenfalls, entlang des wieder geöffneten Pfades vorzurücken.
-Der Feindführer dreht sich um und schreit wütend:
-"Ihr könnt nicht gewinnen!"
-Nicht auf heroische frontale Nahaufnahmen schneiden.
-Die Kamera folgt weiterhin den beiden Frauen, die von der Seite-hinten vorrücken.
-Junior Sister stellt immer noch ihre Atmung ein:
-"Wir waren nie hier, um zu gewinnen."
-Senior Sister schaut immer auf den Weg voraus:
-"Solange der Weg da ist, reicht das."
-Lassen Sie nur einen extrem kurzen Beat.
-Tiefer unten auf derselben fernen Kaiserstraße beginnen mehrere funktionale Feinde, die ursprünglich in der fernen Figurenschicht existierten, sich langsam auszubreiten, nehmen nächste Runde Wegblockaden-Positionen ein.
-Verbot, sie aus dem Nichts im Nebel zu generieren.
-Verbot, sie plötzlich aus Gebäuden aufzufrischen.
-Sie existierten von Anfang an in der echten Entfernung, enthüllen nur Feindseligkeit durch Bewegung an diesem Punkt.
-Die beiden Protagonisten verlangsamen überhaupt nicht.
-Silber-Schwert und dunkles Stahlschwert behalten natürliche Tiefpositions-Bereitschaft bei.
-Die Kamera weicht weiterhin entlang der Kaiserstraßenachse zurück.
-Schwarzes Haar, Säume, Wasserfälle, Nebel, Wolken, ferne Paläste und die riesige Welt bewegen sich immer natürlich.
-Im Zustand, in dem die beiden immer noch aktiv auf die nächste Gruppe Feinde zugehen:
-Direkter Schnitt zu Schwarz.
-[Camera & Editing]
-Drei narrative Segmente, aber absolut nicht mechanisch gleich drei Shots.
-Der ganze Film verwendet eine kleine Menge echt funktionaler Schnitte.
-Hauptkamera-Routen:
-24mm Zentralachsen-Grand Panorama bestätigt echten Ort → 32–35mm Tracking weicht entlang bestehender Kaiserstraßenachse zurück → Menschlicher Körper passiert Linse bildet versteckten Schnitt → Waffe streift Linse bildet Okklusionsschnitt → Wenn Vorder-Hinter-Zange auftritt, erweitern Sie Shot, um Raum zu erklären → Endlich Seite-hinten folgen kontinuierlich den beiden Protagonisten, die zum fernen Ring vorrücken.
-Alle Schnitte können nur natürlich durch folgende Ereignisse ausgelöst werden:
-Charakter-Okklusion;
-Waffen-Okklusion;
-Echte Waffenkollision;
-Offensichtliche Änderung der Bewegungsrichtung;
-Offensichtliches Körper-Ungleichgewicht;
-Plötzliche Geschwindigkeitsänderung.
-Verbot von mechanischem fragmentarischem Schneiden.
-Verbot, dass die Kamera unruhiger ist als die Aktion.
-Verbot von sinnlosem ORBIT.
-Verbot, Positionen von Kaiserstraße, Palästen, Wasserfällen und fernen Ringen für Kamerabewegung zu ändern.
-Aktion treibt die Kamera.
-Die Kamera kann Szenenverformung nicht treiben.
-[Sound]
-Eröffnung etabliert zuerst:
-Hochgelegener natürlicher Wind;
-Niederfrequentes Grollen riesiger Wasserfälle, die kontinuierlich in der Ferne existieren;
-Schritte auf hellem Stein-Kaiserstraße;
-Extrem ferne alte Stadt Umgebungsgeräuschpegel.
-Nach Kampfausbruch hinzufügen:
-Kurzer scharfer Schwert-Windschnitt;
-Harte, scharfe Metallkollisionen;
-Schuhsohlenreibung;
-Seidenstoff-Zucken;
-Schnelle Schritte von Verfolgern;
-Allmählich schwereres Atmen der Charaktere.
-Wenn Vorder-Hinter-Zange sich formt, senken Sie Musik und breites Umgebungs-Soundfeld temporär.
-Hervorheben:
-Schritte;
-Atmung;
-Waffenausrichtungen.
-Nachdem der Weg wieder geöffnet ist, verblassen Kampfsounds allmählich hinter den Charakteren.
-Finaler Dialog muss klar sein:
-"Wir waren nie hier, um zu gewinnen."
-"Solange der Weg da ist, reicht das."
-Nach Ende des Dialogs:
-Wasserfall;
-Hochgelegener Wind;
-Kontinuierliche vorwärtsschreitende Schritte
-Besetzen das Haupt-Soundfeld wieder.
-Musik darf niemals Aktionsdetails und Dialog übertönen.
-[Seedance 2.0 Mini Generation Priorities]
-P0: Die Ortsidentität des hochgeladenen Hintergrund-Referenzbildes darf absolut nicht ändern.
-P0: Identitätsstabilität von @Image 1 und @Image 2 Kern-Charakteren.
-P1: Zuschreibungs- und Kontinuitätsstabilität von silbernem Geradschwert und dunklem Stahlschwert.
-P1: Klare Vorder-Hinter-räumliche Beziehung auf derselben Kaiserstraße.
-P1: Kontinuierliche Charakter-Vorwärtsrichtung, Feind-Angriffsrichtung und Kameraachse.
-P2: Spezifische Gesichter und komplexe Kleidung von Feinden, Meistern, Schülern und Zivilisten.
-Wenn Modellkomplexität reduziert werden muss:
-Reduzieren Sie zuerst Details der Nebenfiguren;
-Dann reduzieren Sie zusätzliche Angriffsbewegungen;
-Als nächstes reduzieren Sie dekorative visuelle Effekte.
-Absolut nicht opfern:
-Referenzbild-Ortsidentität;
-Kern-Protagonisten-Identität;
-Aktionskausalität;
-Räumliche Kontinuität.
-[Negative Constraints]
-Verbot, die aktuelle hochgelegene Kaiserstraße in eine kreisförmige Arena zu verwandeln. Verbot, in einen gewöhnlichen Innenhof zu ändern. Verbot, in eine breite Plaza zu ändern. Verbot, eine andere Wolkenbrücke hinzuzufügen. Verbot, ein unabhängiges Bergtor hinzuzufügen. Verbot, eine schwebende Insel hinzuzufügen. Verbot, eine Kampfplattform hinzuzufügen. Verbot, linke/rechte riesige Wasserfälle zu löschen. Verbot, linke/rechte große Paläste zu löschen. Verbot, linkes großes Ausleger-Holzkonstruktionsgebäude zu löschen. Verbot, darunterliegende dichte alte Stadt zu löschen. Verbot, fernen riesigen Ringstruktur zu löschen. Verbot, fernen riesigen Ring näher zu ziehen, um ein gewöhnliches Torturm zu werden. Verbot, relative Positionen von fernen Palästen und Mittelgrundgebäuden zu ändern. Verbot, Tag plötzlich in Nacht zu verwandeln. Verbot, stürmische dunkle Wolken durch aktuelles weiches Wetter zu ersetzen. Verbot, Kaiserstraße für Aktion zu verbreitern. Verbot, Kaiserstraßenbreite nach Schnitten zu ändern. Verbot, dass Umgebung aktiv an Handlung teilnimmt. Verbot, plötzliche gebrochene Brücke. Verbot, dass Gebäude von selbst einstürzen. Verbot, dass Nebel Feinde aktiv verdeckt. Verbot, dass Wasserfall plötzlich Angriff ändert. Verbot, dass Wind plötzlich Schwertpfad ändert. Verbot, dass Charaktere ohne Trajektorie teleportieren. Verbot, dass beide Protagonisten Positionen aus dem Nichts tauschen. Verbot von zufälligem großflächigem Schwert-Qi. Verbot von Energie-Wellen-Kollisionen. Verbot von Lichtverschmutzung. Verbot, dass Feinde sich aufstellen, um Angriffe anzubieten. Verbot, dass Feinde lange passiv sind. Verbot von langdauerndem Waffenschieben. Verbot, dass Charaktere nach einer Bewegung anhalten, um zu warten. Verbot von sinnlosen Rotationen. Verbot von sinnlosen Posen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106728656399970304/img/DeUvkEJCnbRcNZ9b.jpg" width="600" alt="Seedance 2.0 Mini Kinematografischer Eskorten-Kampf-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11921)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2106728692986843641) | **Veröffentlicht:** Oct 4, 2026
-
----
-### Seedance 2.0 Fake Duel Trap Action Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein Prompt zur Generierung einer cineastischen Xianxia-Action-Sequenz, in der zwei Schwertkämpferinnen einen Duell-Vortäuschung inszenieren, um versteckte Attentäter zu entlarven. Der Fokus liegt auf dynamischem Kampfverlauf und strikter Konsistenz von Charakteren und Umgebung.
-
-#### 📝 Prompt
-
-```
-Cineastische fotorealistische Textur, reiner altchinesischer Xianxia-Hochspannungs-Schwertkampf-Film.
-
-Vollständiger Bruch mit bisherigen Mustern:
-
-Waffenwechsel der Seniorin zum Kontern
-Durchbruch auf allen Wegen
-Komplementäre blinde Flecken im Doppel
-
-Kernidee:
-
-Die Seniorin und die Juniorin scheinen sich in einem gefährlichen Duell zu befinden, nutzen es jedoch tatsächlich dazu, lauernde Attentäter zur Enttarnung zu zwingen.
-
-Dreischichtige Erzählziele
-Ebene 1 Hook: Das Publikum glauben lassen, dass sie wirklich kämpfen
-Ebene 2 Twist: Enthüllung, dass sie den Raum durch gegenseitige Schwungimpulse kontrolliert haben
-Endhook: Spannung hinterlassen, dass eine zweite Welle von Feinden noch nicht erschienen ist
-
-Allgemeines Aktionsprinzip
-
-Aktionen müssen flüssig sein, aber niemals weich.
-
-Flüssigkeit
-
-Definiert als:
-Vorherige Aktion erzeugt natürlich die nächste
-
-Bewegungsrichtung setzt sich kontinuierlich fort
-Klare Kausalität zwischen Kamera, Körper und Schwertbahn
-Kraftgefühl
-
-Definiert als:
-Plötzlicher Start
-
-Gewaltsame Berührung
-Kraftablenkung
-Körperliches Ungleichgewicht
-Trägheitsfortsetzung
-Abruptes Stoppen
-Charakter & Waffen-Lock
-
-Nur @image 1 und @image 2 Kerncharaktere und exklusive Waffen werden streng gelockt.
-
-@image 1 | Schwertunsterbliche Seniorin
-
-Die gleiche @image 1 Seniorin behält immer bei:
-
-Gleiches erwachsenes ostasiatisches weibliches Gesicht
-Erscheinungsbild 25–30 Jahre
-
-Langes schwarzes Haar halb gebunden
-Weißer Jade-Haarstab
-Große schlanke Proportionen
-Weiße bestickte Seiden-Hanfu
-Halbdurchsichtige weite Ärmel
-Silberner Hüftgürtel
-Jade-Anhänger
-Weiße Stoffstiefel
-Einzigartiges silbernes gerades Schwert
-@image 2 | Juniorin
-Die gleiche @image 2 Juniorin behält immer bei:
-
-Gleiches erwachsene ostasiatische weibliche Gesicht
-Erscheinungsbild 20–25 Jahre
-
-Geflochtenes schwarzes Haar
-Petite Proportionen
-Blau-grüne Leinen-Hanfu
-Dunkler Gürtel
-Holz-Haarstab
-Schwarze Stoffschuhe
-Einzigartiges dunkles Stahl-Schwert
-Andere Charaktere
-Attentäter, Meister, Schüler, Passanten sind nur funktional, ohne strenge Gesichts-/Kleidungslöcke wie bei den Protagonistinnen.
-
-Rundenszenen-Kontrolle | Höchste Priorität
-Der hochgeladene Hintergrund zeigt deutlich einen vollständigen, sehr erkennbaren Ort. HARD LOCATION ANCHOR Modus aktivieren.
-Referenzbild ist tatsächlicher Handlungsort, keine visuelle Inspiration.
-
-Muss ursprüngliche räumliche Elemente beibehalten
-
-Große Vordergrund-Steinplattform
-
-Kontinuierliche Steingeländer am Rand
-
-Großflächiger Nebel in der Tiefe jenseits der Geländer
-Mittlerer Bereich dichte alte Stadtdächer
-Zentrale Halle
-Entfernter hochgelegener großer Palastkomplex
-Starke Distanzhierarchie zwischen Stadt und fernerem Palast
-Kühl graublauer Himmel und niedriger Nebel
-Warmes Licht vom fernen Palast
-Makroskala: winzige Charaktere, riesige Stadt/Palast
-Wichtige harte Einschränkungen
-Der entfernteste höchste Palast muss immer bleiben:
-Sehr weit weg
-
-Sehr groß
-visuelle Skala.
-
-Verboten, den fernen Palast während Mittelaufnahmen nah hinter die Charaktere als nahes Tor zu ziehen.
-Ortsbeschränkung
-
-Der gesamte 15s-Kampf findet strikt statt auf:
-
-Großer Steinplattform explizit vorhanden in Referenz
-
-Und direkt verbundenen Bereichen
-
-Verboten zu generieren:
-Schwebende Steinbrücken
-
-Wolkenbrücken
-Unabhängige Tore
-
-Inseln
-Neue Klippen
-Neue Palasteingänge
-Neue Treppen
-Neue Kampfplattformen
-Jedes große Gebäude, das die Ortsidentität ändert
-Räumliche Kontinuitätsanforderung
-Nach jedem Schnitt bleiben diese Beziehungen stabil:
-Plattform
-Geländer
-
-Stadtschichten
-
-Zentralgebäude
-
-Ferner Palast
-Skyline
-Aktionen/Kameras passen sich an Plattform an.
-Ändere niemals Plattformform für textbeschriebene Aktionen.
-Hintergrundzustand
-Hintergrund lebt natürlich:
-Großer niedriger Nebel bewegt sich langsam zwischen Stadtschichten
-Hohe Wolken ändern sich natürlich
-
-Warmes Licht des fernen Palastes beeinflusst durch Luft/Nebel
-Haar/Seidensaum bewegen sich mit Plattformwind
-
-Lufttiefe, Reflexionen, wenige ferne Figuren mikrobewegen sich
-
-Nur bei echtem:
-
-Tritt
-
-Waffenkollision
-Schneller Kleiderdurchgang
-Erlaube lokales Feedback:
-Minor Stein Staub
-Funken
-
-Saumverschiebung
-
-Strikt verboten
-Nebel plötzlich versteckt Feinde
-Geländer brechen
-
-Paläste ändern sich selbst
-
-Hintergrund hilft irgendeiner Seite beim Vollzug des Twists
-Segmentstruktur
-0–5s | Falsches Duell: Publikum täuschen
-
-0.0–1.0s
-Nutze 24mm feste Weitwinkel-Aufnahme.
-Muss behalten:
-Große Steinplattform
-Volle Ferne Palast/Stadt Tiefe
-
-Publikum kennt gleichen Ort aus Referenz.
-
-Gleiche weiß gekleidete Seniorin und blau gekleidete Juniorin stehen sich Meter entfernt gegenüber.
-
-Sicherer Bereich in der Entfernung hat:
-
-Wenige Schüler
-Gewöhnliche Zuschauer
-
-Gleicher älterer Meister
-
-Aber sie sind nur Hintergrund.
-Dialog
-
-Juniorin flüstert:
-
-"Beißen sie wirklich an?"
-
-Seniorin antwortet:
-
-"Erstmal hereinlegen."
-Letztes Wort fällt, beide explodieren gleichzeitig ohne Warnung.
-Kamera geht über zu ~35mm bewegter Mittelaufnahme von fester Weitwinkel.
-
-Erste Runde Falsches Duell
-
-Seniorins erstes Schwert schnell genug, um wie ein Treffer auf Juniorin auszusehen
-Junior streift außerhalb der Schwertkante bis zum letzten Moment
-
-Dann niedriger Konter mit dunklem Stahlschwert
-Senior dreht sich, um auszuweichen
-
-Silberne und dunkle Stahlschwerter haben erste sehr kurze, harte echte Metallkollision
-
-Wichtige Anforderungen
-Keine Pose
-
-Umkehrung in nächste Bewegung sofort nach Kollision
-Weiße weite Ärmel wischen schnell an Kamera vorbei, bilden ersten kaum bemerkbaren natürlichen versteckten Schnitt.
-Effekt erforderlich
-Publikum zweifeln lassen:
-Spielen sie oder kämpfen sie wirklich?
-5–10s | Ebene 1 Twist: Echte Feinde erscheinen
-
-Behalte:
-Identische Plattform
-Stadt
-
-Ferne Palastskala
-
-Schwertbesitz
-Nutze 35–40mm seitliches Tracking, Kampf entwickelt sich horizontal/diagonal auf Vordergrundplattform, keine neuen Orte.
-
-Kontinuierliche Offensive/Verteidigung
-
-Schwestern vervollständigen hochschnelle aber räumlich klare Sequenz:
-
-Senior stößt vor
-
-Junior lenkt ab
-
-Junior kontert sofort entlang Seite freigelegt durch Senior
-Senior duckt sich unter Schwert
-Hochgeschwindigkeitskreuz, tauschen ursprüngliche Positionen
-Aktionsregeln
-
-Alle Bewegungen verketten sich natürlich.
-Vorheriger Schlag erzeugt nächsten.
-Kein Zurücksetzen der Haltung nach einer Bewegung.
-
-Erster Attentäter enthüllt
-Gerade wenn Schwerter kreuzen <0.5s, bricht ein funktioneller Attentäter gemischt in ferner Menge heraus, greift aus Seniors blindem Fleck an.
-
-Wichtige Anforderungen
-Nie pausiere falsches Duell.
-Senior bemerkt Gefahr nur via Juniors kurzem Augenwechsel.
-Junior schwingt weiter, als würde er Senior angreifen.
-Senior duckt sich unter Juniors Schwert im letzten Moment.
-Juniors Schwert wischt an Schulter vorbei, schlägt gewaltsam Attentäters Waffe von hinten weg.
-Diese Sekunde muss Publikum erkennen lassen:
-Duell war Köder.
-Zweiter Attentäter enthüllt
-Fast keine Atempause.
-Zweiter Attentäter rast Junior von gegenüber an.
-
-Senior nutzt Rotations-Trägheit vom Kreuz, schneidet an Juniors Schulter vorbei, eine kurze Silberschwert-Kollision ändert zweiten Attentäters Pfad.
-
-Ergebnis
-Falsches Duell wandelt sich natürlich in echten Vier-Weg-Kampf während Bewegung.
-
-Strikt verboten
-Irgendjemand hält an zum Erklären
-
-Attentäter stehen Schlange
-
-Meister beobachtet stillschweigend aus Entfernung
-10–15s | Ebene 2 Twist: Kein Halten zurück zwischen ihnen
-Zwei Attentäter ändern Strategie bei Enttarnung.
-Beschleunigen aus zwei Richtungen, versuchen Frauen wirklich zu trennen.
-
-Nutze etwas weitere bewegte Aufnahme.
-Zeige komplette Positionsbeziehung von vier auf großer Plattform, Hintergrund zeigt immer noch alte Stadt/fernen Palast.
-Doppeltes Kreuz-Tausch
-
-Schwestern ziehen sich nicht nach außen zurück.
-Stürmen aufeinander zu mit hoher Geschwindigkeit.
-Schulterlinien streifen eng bei voller Geschwindigkeit, tauschen sofort vorne/hinten.
-Kreuz muss glatt, nahtlos sein.
-Im Streifmoment:
-
-Junior nimmt Attentäter, der Seniors blinden Fleck angreift
-
-Senior nimmt Attentäter, der auf Junior zustürmt
-
-Kein Blickkontakt throughout.
-Eine Attentäters Waffe wischt gewaltsam durch Kamerarahmen, bildet klarsten natürlichen waffen-verdeckten harten Schnitt.
-Schnitt zu neuer Gegenachse.
-Protagonistinnen komplett getauscht.
-Finale Durchbruch-Bewegungen
-Jede führt eine extrem kurze, direkte Gegenkonter.
-Strikt verboten
-
-Riesige Schwert-Qi
-
-Hübsche Drehungen
-
-Zeitlupe
-Ergebnisse:
-
-Eine Attentäters Waffepfad geändert durch Junior, Körper gleitet nach außen wegen eigener Trägheit
-Anderer Angriffsachse geändert durch Seniors Silberschwert, gezwungen über optimalen Bereich hinaus
-
-Beide Attentäter lebendig, haben nur Chance dieser Runde verloren.
-Tonabschaltung
-
-Kampfsound verengt sich plötzlich.
-Nur:
-
-Atmung von vier Personen
-Leichte Vibration der Schwerter der beiden Protagonistinnen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106642529160749056/img/ifDPxtnGu3ym2xT4.jpg" width="600" alt="Seedance 2.0 Fake Duel Trap Action Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11922)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2106643465094431201) | **Veröffentlicht:** Oct 4, 2026
-
----
-### Sci-Fi-Krieger: Schlacht im Korridor – Bild-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für eine ultra-realistische, cineastische Sci-Fi-Action-Szene mit einem Krieger, der einen industriellen Korridor entlangrennt und eine Energiewaffe schwingt.
-
-#### 📝 Prompt
-
-```
-Ultra-realistische cineastische Sci-Fi-Action-Szene, ein kraftvoller Krieger in fließendem beigem futuristischem Outfit rennt durch einen riesigen industriellen Korridor und schwingt eine leuchtend blaue Energieklinge, zwei gepanzerte Feinde nähern sich von vorne, dramatischer gekippter Kamerawinkel, intensive Bewegung, dynamische Action, realistische Stoffdetails, metallische futuristische Architektur, atmosphärische Beleuchtung, volumetrische Schatten, cineastische Tiefenschärfe, hoher Kontrast, fotorealistisch, 8K, epische Hollywood-Sci-Fi-Filmästhetik, 35-mm-Objektiv, vertikale 9:16-Komposition.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106610479351365632/img/ZHmFCfa_f0mlJa67.jpg" width="600" alt="Sci-Fi-Krieger: Schlacht im Korridor – Bild-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11851)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2106610541636837770) | **Veröffentlicht:** Oct 4, 2026
-
----
-### Fantasy-Video-Prompt: Den Himmel stricken
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für ein 15-sekündiges Video, in dem eine ältere Frau einen Schal strickt, der sich in den Nachthimmel verwandelt, generiert mit Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Den Himmel stricken
-0–5s: Eine ältere Frau mit silbergrauem Haar sitzt allein nachts in einem hölzernen Schaukelstuhl neben einem offenen Fenster und strickt mit zwei Holzstricknadeln. Ein langer dunkelblauer Schal fällt von ihrem Schoß auf den Holzboden. Warmes bernsteinfarbenes Lampenlicht, weiche Schatten. Mittlere Einstellung.
-5–10s: Die Kamera rückt näher an ihre Hände und den Schal heran; das dunkle Garn enthüllt winzige leuchtende Sterne und langsam wirbelnde Galaxien, die in die Maschen eingewoben sind. Ein Stern verfängt sich an der Spitze ihrer Nadel und funkelt. Ihr Gesicht wird sanft zu einem stillen Lächeln. Nahaufnahme.
-10–15s: Sie schließt die letzte Masche ab und wirft den Schal vorsichtig aus dem offenen Fenster, wo er sich über die Dächer hinweg nach oben entrollt und zum echten Nachthimmel wird, während sich die Sterne an ihren Platz setzen. Weite Aufnahme von außerhalb des Hauses nach oben blickend, unten das warme Fensterlicht, oben der tiefblaue Himmel.
-Negativ-Prompt: zusätzliche Finger, zusätzliche Hände, deformierte Hände, verschmolzene Finger, mehr als zwei Stricknadeln, schmelzende Nadeln, verzerrtes Garn, zweite Frau, doppelte Person, Kind, moderne Möbel, Fernseher, Telefon, hartes weißes Licht, Neonfarben, Cartoon-Stil, Anime-Stil, plastische Haut, verzerrtes Gesicht, Flackern, Glitch-Artefakte, Text, Wasserzeichen, Logo, schnelle Kamerawackler, Zeitlupe, Schal wird fest, leuchtendes Gesicht, übermäßiges Funkeln, übertriebenes Lens Flare, Feuerwerk, Taghimmel
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106558771078029312/img/hZPtgXieC5nDSGJi.jpg" width="600" alt="Fantasy-Video-Prompt: Den Himmel stricken">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11848)**
-
-**Autor:** [DeCat](https://x.com/DeCat2025) | **Quelle:** [Link](https://x.com/DeCat2025/status/2106559472432795987) | **Veröffentlicht:** Oct 4, 2026
-
----
-### Anime-Reinigungstransformation Video-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Generierung eines 15-sekündigen vertikalen Anime-Videos, das eine befriedigende Reinigungstransformation einer schmutzigen Schuhsohle mittels Sprühschaum und Schrubben zeigt.
-
-#### 📝 Prompt
-
-```
-15-sekündiges vertikales 9:16 japanisches 2D-Anime-Kurzvideo, befriedigende Reinigungstransformation. Handgezeichneter Cel-Animations-Look, saubere schwarze Tintenumrisse, lebendige Farben, weiches Cel-Shading, Manga-Stil-Schnitt mit Geschwindigkeitslinien, Halbton-Rasterpunkte, Funkel-Effekte und weiße Blitzlichter bei Aufprall. Studioqualität Anime-Produktion, flüssige Bewegung, 24fps. Motiv: Eine abgenutzte, schmutzige Schuhsohle (braun-goldene Flecken, Fußabdruck) liegt auf einer gebürsteten Edelstahl-Theke, aufgenommen von oben. Eine Anime-Stil-Hand (kein Gesicht, kein Körper, nur Hand und Unterarm sichtbar) hält eine kleine schwarze Sprayflasche mit grünem Verschluss. Kühler silberner Hintergrund mit weichem Fensterlicht und winzigen Wassertropfen. Shot 1: Feste Top-Down-Aufnahme, 3 Sekunden. Die schmutzige Sohle liegt auf der Stahltheke, eine Hand drückt sie flach. Staubpartikel schweben, dezente Halbton-Vignette an den Ecken, dünne Geschwindigkeitslinien driften von den Rändern herein. Shot 2: Nahaufnahme von oben, 3 Sekunden. Die Sprayflasche sprüht einen feinen Nebel auf die Sohle, dicker weißer Schaum bricht nach außen hervor und breitet sich über die Oberfläche aus, Blasen fangen Glitzer ein. Ein Einzelbild-Blitzlicht bei Aufprall mit radialen Tintenlinien beim ersten Schaumausbruch. Shot 3: Enge Überkopf-Aufnahme, 3 Sekunden. Die Hand reibt den Schaum in kreisenden Bewegungen, der braun-goldene Schmutz löst sich im weißen Schaum auf und strömt in wirbelnden tintenartigen Schwüngen zum Rand. Dynamische Bewegungslinien folgen der Hand. Shot 4: Überkopf-Aufnahme, 3 Sekunden. Eine Spülung mit klarem Wasser wäscht den Schaum weg, die Sohle wird in einer schnellen Peitschenbewegung umgedreht und enthüllt eine helle, saubere weiße Oberfläche. Glitzernde Funken und Lichtstreifen poppen darüber auf. Shot 5: Langsamer Push-In von oben, 3 Sekunden. Die makellose weiße Sohle glänzt auf der Stahltheke, die Hand stellt die Flasche in der Ecke ab. Letzter Funkenausbruch, sanftes Leuchten, Manga-Stil-Raster-Vignette, gehalten für den letzten Moment wie ein Manga-Cover-Panel. Audio: Knackiges Spray-Zischen, knisternder Schaum, rhythmisches Schrubben, fließendes Wasser, ein helles Funkel-Chime bei jedem Glanzeffekt, ein sanfter upbeat japanischer Lo-Fi-Beat darunter. Keine Sprache, kein Gesang. Vermeiden: Gesichter, realistischer Live-Action-Look, 3D-Render, Text, Untertitel, Logos, Markennamen, zusätzliche Finger, deformierte Hände, Flackern. 15-sekündiges vertikales 9:16 japanisches 2D-Anime, befriedigende Reinigungstransformation, Top-Down-Aufnahme. Eine Anime-Stil-Hand (kein Gesicht) sprüht Schaum auf eine schmutzige braune Schuhsohle auf einer Edelstahl-Theke, schrubbt den Schaum in Kreisen, spült ihn ab, und die Sohle wird hell sauber weiß mit Funkel-Effekten. Manga-Stil-Geschwindigkeitslinien, Halbtonpunkte und ein weißer Blitzlichteffekt beim ersten Schaumausbruch. Audio: Spray-Zischen, Schaumknistern, Schrubben, Wasser, leichte Funkel-Chimes, sanfter Lo-Fi-Beat. Keine Gesichter, kein Text, keine Logos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106554700040679424/img/6e1kkIefx27oeGQA.jpg" width="600" alt="Anime-Reinigungstransformation Video-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11847)**
-
-**Autor:** [Nadya](https://x.com/nadyamaje) | **Quelle:** [Link](https://x.com/nadyamaje/status/2106554883235356947) | **Veröffentlicht:** Oct 4, 2026
-
----
-### Bleach Bypass: Der Filmprojektionist
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für die Text-zu-Video-Generierung, der einen älteren Projektionisten in einem abgerissenen Kino zeigt, stilisiert mit Bleach-Bypass-Filmverarbeitung und spezifischen kinematografischen Anweisungen.
-
-#### 📝 Prompt
-
-```
-In einem verlassenen Stadtteil-Kino, das gerade abgerissen wird, sitzt ein älterer Projektionist allein mitten im zerstörten Zuschauerraum und schaut den letzten Film, bevor das Gebäude verschwindet. Reihen von staubigen Samt-Sitzen umgeben ihn, Teile der Decke fehlen, Tageslicht fällt durch ein großes Loch in der Wand herein, Baumaschinen sind draußen sichtbar. Der Projektor läuft weiter, sein Lichtstrahl schneidet durch dicke Staubwolken. Die Kamera bewegt sich langsam vom zerstörten Eingang entlang des Ganges auf den Projektionisten zu, kreist dann hinter ihn, um das projizierte Bild auf der beschädigten Leinwand zu zeigen. Realistische Live-Action-Kinematografie, Bleach-Bypass-Filmverarbeitung, verblichenes Burgunderrot und Gold fast bis ins Graue reduziert, tiefe Schwarztöne, brillante silberne Highlights, starker Kontrast, starkes 35-mm-Korn, subtile Kratzer und Belichtungsvariationen, emotional zurückhaltend, ohne Melodramatik.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106514798942752768/img/wF54JkcWicweR581.jpg" width="600" alt="Bleach Bypass: Der Filmprojektionist">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11916)**
-
-**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Quelle:** [Link](https://x.com/AllaAisling/status/2106515375559217226) | **Veröffentlicht:** Oct 3, 2026
-
----
-### Seedance 2.0 Mini Wuxia Kampfszenen-Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein detaillierter Prompt zur Generierung einer spannungsgeladenen Wuxia-Kampfszene zwischen zwei weiblichen Schwertkultivierern mit Seedance 2.0 Mini, fokussiert auf synchronisierte taktische Bewegungen und kinematografische Kontinuität.
-
-#### 📝 Prompt
-
-```
-Kino-photorealistische Textur, reine antike chinesische Xianxia-Hochspannungs-Duellkampfszene.
-
-Dieses Mal brechen wir vollständig aus den vorherigen Modi aus:
-
-Ständiger Waffenwechsel
-Einzelkampf-Aufbrechen
-
-Der Kern wird zu:
-Die beiden Protagonistinnen selbst sind ein kontinuierlich bewegtes duales Taktiksystem.
-Eine absorbiert Druck von vorne
-
-Die andere verändert die Situation von der Flanke
-Sofortige Rollenwechsel in der nächsten Sekunde
-Der wahre Nervenkitzel liegt nicht in spektakulärem Schwert-Qi, sondern darin, dass die beiden Protagonistinnen sich fast nicht umdrehen müssen, um zu bestätigen, dass sie ständig die blinden Flecken des anderen abdecken und so eine immer stärkere stille Übereinstimmung und Spannung bilden.
-
-Charakter- und Asset-Locking
-
-Nur @image 1 und @image 2 als die zwei Kerncharaktere strikt sperren.
-
-@image 1 | Schwert-Unsterbliche Senior-Schwester
-
-Bild 1 Schwert-Unsterbliche Senior-Schwester behält immer das Original bei:
-
-Erwachsene ostasiatische weibliche Identität
-Gesicht
-
-Schwarzes langes Haar halb hochgesteckt
-Weißer Jade-Haarnadel
-Große schlanke Proportion
-Weiße bestickte Seiden-Hanfu
-Halbdurchsichtige geschichtete weite Ärmel
-Silberne Gürtelschließe
-Jade-Anhänger
-Weiße Stoffstiefel
-Nur ein silbernes gerades Schwert
-@image 2 | Junior-Schwester
-Bild 2 Junior-Schwester behält immer das Original bei:
-
-Erwachsene ostasiatische weibliche Identität
-Gesicht
-
-Geflochtenes schwarzes Haar
-Grüne Leinen-Hanfu
-Dunkler Gürtel
-Hölzerne Haarnadel
-Schwarze Stoffschuhe
-Nur ein dunkles Stahl-Schwert
-Andere Charaktere
-Feinde, Meister, Passanten sind nur funktionale Charaktere, kein komplexes Gesichts-Locking oder Kleidung-Locking erforderlich.
-
-Umgebungs-DNA
-Alle hochgeladenen Hintergrund- und Ortsreferenzbilder dieser Runde bestimmen gemeinsam denselben Satz Umgebungs-DNA.
-
-Vor der formellen Generierung still analysieren Sie kompatible Elemente unter ihnen:
-
-Gelände
-
-Architektur
-
-Höhenunterschiede
-
-Räumlicher Maßstab
-Materialalter
-Vegetation
-Gewässer
-Wetter
-Bergnebel
-Beleuchtung
-Reflexionen
-Lufttiefe
-Von Charakteren passierbare Routen
-Dann rekombinieren Sie diese zu einem einzigartigen, aber glaubwürdigen neuen Raum für diese Runde.
-Raum- und Routenprinzipien
-Die gesamten 15 Sekunden müssen in einer kontinuierlichen verständlichen Kampfroute stattfinden, können nicht plötzlich in eine andere Welt wechseln.
-
-Der Hintergrund bleibt dynamisch aktiv, aber narrativ neutral:
-
-Wind
-
-Wasser
-
-Nebel
-
-Blätter
-
-Kleidersäume
-Reflexionen
-Entfernte Figuren
-Immer natürlich aktiv.
-Nur wenn Charaktere wirklich:
-Treten
-Kollidieren
-
-Streifen
-
-Waffen berühren die Umgebung
-
-Erscheinen diese:
-Staub
-Wellen
-Trümmer
-
-Kratzer
-
-Kleiderverschiebung
-usw. passive physische Rückmeldungen.
-Streng verboten
-Brücke bricht plötzlich
-Nebel rettet plötzlich Menschen
-
-Baum blockiert plötzlich Schwert
-
-Gebäude stürzt von selbst ein, um einer Seite zu helfen
-Segmentierte Struktur
-0–5s | Weitwinkel geht in Mittelaufnahme über
-Dieselbe weiß gekleidete Schwert-Unsterbliche Senior-Schwester und dieselbe grün gekleidete Junior-Schwester stehen Rücken an Rücken.
-Drei feindliche Schwertkämpfer, die nur Kampffunktion tragen, drängen aktiv aus verschiedenen Richtungen vor.
-0–1s
-
-Verwenden Sie 24mm feste Weitpanorama, damit das Publikum sofort versteht:
-
-Positionen der fünf Personen
-
-Angriffsrichtungen
-
-Für Bewegung verfügbare Räume als nächstes
-Junior-Schwester senkt die Stimme, sagt nur eine Zeile:
-
-"Diesmal dreh dich nicht um, um mich zu retten."
-Senior-Schwester dreht sich nie um, antwortet ruhig:
-
-"Gut."
-Sobald das letzte Wort fällt, starten die Feinde gleichzeitig ohne Warnung.
-Die Kamera bewegt sich schnell vom festen 24mm in die 35mm Mittel-Nahaufnahme-Bewegung, wackelt aber nicht zufällig, sondern wird durch die echten Bewegungslinien der Charaktere gebracht.
-
-Erste Engagement-Runde
-
-Ein Feind greift Senior-Schwester von oben an
-
-Ein anderer Feind schneidet gleichzeitig in die blinde Seite der Junior-Schwester
-
-Die beiden Frauen explodieren fast augenblicklich in entgegengesetzte Richtungen:
-
-Senior-Schwester ändert kurz die Angriffslinie des ersten Schwertes und rückt direkt vor
-
-Junior-Schwester senkt den Schwerpunkt, streift den zweiten Angriff, kontert nur den Waffenweg des Feindes, hält nicht an, um zu posieren
-
-Beide beginnen sofort, entlang der Routen vorwärts zu migrieren, die tatsächlich in der Referenzumgebung existieren.
-Ein schneller Vordergrund-Vorbeiflug eines Feindkörpers füllt kurz die Linse, nutzt diese echte Verdeckung, um den ersten versteckten Schnitt abzuschließen, das Publikum spürt kaum, dass sich die Kameraposition geändert hat.
-5–10s | Mittelaufnahme kontinuierliche Verfolgung
-Aufrechterhalten:
-
-Derselbe Raum
-Dieselben zwei Protagonisten
-
-Dasselbe Waffenbesitzrecht
-
-Feinde können absolut nicht Schlange stehen, um Züge zu senden, sie tun kontinuierlich:
-Verfolgen
-
-Umzingeln
-
-Abfangen
-Zu diesem Zeitpunkt:
-Senior-Schwester trägt kontinuierlichen Druck von zwei Feinden
-Junior-Schwester steht einem weiteren Feind gegenüber
-
-Den Bildschirm nicht in "zwei kämpfen getrennt" teilen, muss zwei Kampflinien ständig verweben lassen.
-
-Erste taktische Ergänzung
-Senior-Schwester weicht absichtlich einen halben Schritt zurück, bringt einen verfolgenden Feind in die vorrückende Angriffslinie der Junior-Schwester.
-Junior-Schwester schaut überhaupt nicht zur Senior-Schwester, nur im Augenblick, als die Schwertspitze des Feindes ihren Raum betritt, fängt sie kurz und ändert die Waffenrichtung mit dem dunklen Stahl-Schwert, lässt sofort los, behandelt weiter die Person vor ihr.
-
-Zweite taktische Ergänzung
-Weniger als eine Sekunde später passiert genau das Gegenteil erneut.
-Ein weiterer Feind startet einen echten Angriff von hinten gegen die Junior-Schwester.
-Dieselbe weiß gekleidete Schwert-Unsterbliche dreht sich nicht einmal um, die Silber-Schwertspitze tritt von der anderen Seite des Bildes mit hoher Geschwindigkeit ein, nutzt nur einen extrem kurzen Metallimpakt, um dieses Schwert aus der gefährlichen Linie hinter der Junior-Schwester zu schieben, dann verlässt das Silber-Schwert sofort das Bild, Senior-Schwester setzt ihren eigenen Kampf fort.
-
-Kernzustand
-
-Die beiden bestätigen niemals die Position des anderen, wissen aber genau, wo der andere ist.
-Die Kamera gleitet sanft zwischen Vorder- und Mittelgrund, nutzt folgende Elemente, die mit hoher Geschwindigkeit über die Linse streifen, um 2-3 extrem natürliche versteckte Übergänge zu bilden:
-
-Feindschultern
-
-Weite weiße Ärmel
-Grüner Kleidersaum
-
-Waffen
-Rhythmusanforderungen
-Der Aktionsrhythmus ist nicht von Anfang bis Ende gleich schnell, sondern:
-Zwei schnelle Austausche
-
-Ein echt gewichteter Waffenimpakt
-
-Halbtakt Stille
-Dann plötzliche Explosion
-Derselbe ältere Meister bleibt in der entfernten sicheren Zone beobachtend, handelt von Anfang bis Ende nicht, löst keine Probleme für jemanden.
-10–15s | Nahaufnahme geht in finale breitere Mittelaufnahme über
-
-Drei Feinde entdecken, dass einzelne Verfolgung wirkungslos ist, ändern zum ersten Mal gleichzeitig ihre Strategie, komprimieren den Raum aus drei Richtungen, zwingen Senior-Schwester und Junior-Schwester in denselben zentralen Bereich.
-Bilden eine offensichtliche Pattsituation.
-
-Die beiden setzen den Rückzug nicht fort.
-Dieselbe weiß gekleidete Schwert-Unsterbliche und dieselbe grün gekleidete Junior-Schwester brechen plötzlich gleichzeitig sprintend aufeinander zu.
-Die Kamera schneidet nicht sofort, lässt das Publikum vollständig sehen:
-Zwei Schulterlinien streifen mit hoher Geschwindigkeit, Körper kreuzen sich mit minimalem Abstand.
-Im Moment der Kreuzung tauschen beide vollständig die Vorder-Hinter-Positionen.
-Und keiner schaut zum anderen.
-
-Taktischer Flip nach dem Swap
-
-Senior-Schwester übernimmt beim Vorbeigehen an der Junior-Schwester direkt den Feind, der ursprünglich die blinde Seite der Junior-Schwester angriff
-
-Junior-Schwester schneidet gleichzeitig in die Linie des Feindes, der ursprünglich die Senior-Schwester verfolgte
-
-Ein langer Feindschwertstreif fegt über die gesamte Kamera mit hoher Geschwindigkeit, bildet nur einen offensichtlichen Waffenverdeckungs-Hardschnitt.
-
-Schnitt auf neue Gegenachse:
-
-Senior-Schwester steht nun an der Position, die die Junior-Schwester gerade verlassen hat
-
-Junior-Schwester steht auch an der Position, die die Senior-Schwester gerade verlassen hat
-
-Beide vervollständigen sofort zwei extrem kurze, extrem direkte, keine prahlerischen Rotations-Gegenbrüche:
-Silber-Schwertspitze stoppt sicher fingerbreit vor dem Kinn eines Feindes
-
-Dunkles Stahl-Schwert stoppt gleichzeitig sicher außerhalb des schwertschwingenden Handgelenks eines anderen Feindes
-Der dritte Feind bereitet sich auf einen weiteren Schlag vor, findet aber, dass beide effektiven Angriffslinien vollständig durch die Position des Gefährten blockiert sind, kann nur gezwungen zurückweichen.
-
-Plötzlicher Stop-Moment
-Zuvor dicht:
-Sausrufe
-
-Metallimpakte
-
-Sohlenschlurfgeräusche
-
-Zusammenbruch plötzlich in diesem Moment.
-Lässt nur übrig:
-
-Das echte Atmen der beiden Frauen
-
-Extrem leichte Restvibration der Schwerter
-Seidenkleidersäume fallen allmählich
-
-Senior-Schwester schaut immer noch auf den Feind vor ihr, fragt ohne Kopfumdrehen:
-
-"Noch am Leben?"
-Junior-Schwester pausiert fast nicht:
-
-"Leichter als du."
-Der Mundwinkel der Senior-Schwester zeigt nur einen extrem kurzen, extrem leichten Hauch eines Lächelns.
-Der entfernte derselbe Meister atmet endlich leicht den Atem aus, den er die ganze Zeit angehalten hatte, predigt aber nicht, erklärt nicht die Beziehung zwischen den beiden.
-
-Endzustand
-
-Nach Bestätigung des Sieges absolut keine Siegerposen.
-
-Die beiden Frauen senken gleichzeitig die Schwertspitzen, behalten das ursprüngliche Tempo bei, fahren durch denselben Raum vorwärts; drei Feinde weichen instinktiv den Weg frei.
-Haar, Kleidersäume, Umweltwind, Wassernebel, Trümmer setzen natürliche Bewegung fort, das Bild endet direkt, während die Charaktere noch vorwärts bewegen.
-Kamera- und Bearbeitungsanforderungen
-
-Strikte Gesamtdauer 15 Sekunden
-
-16:9 Querformat
-
-Behalten Sie 0–5s / 5–10s / 10–15s drei klare narrative Segmente bei
-
-Visuell dominiert von einem kontinuierlichen seidigen Kamerapfad
-
-Der gesamte Film erlaubt nur etwa 4-5 versteckte Schnitte oder Schnitte, die wirklich durch Impakte ausgelöst werden
-
-Verbot von verrücktem fragmentiertem Schneiden für "Aktionsgefühl"
-
-Seedance 2.0 Mini Ausführungs-Fokus
-Für Seedance 2.0 Mini steuern Sie aktiv das Prompt-Budget.
-
-Am wichtigsten ist:
-
-Bild 1, Bild 2 zwei Protagonistenidentitäten stabil
-
-Besitzrecht der zwei Schwerter stabil
-
-Hände und Körper kontinuierlich
-
-Räumliche Beziehung der beiden Personen kontinuierlich
-Kern-Umweltroute kontinuierlich
-Drei Feinde müssen nur beibehalten:
-Antikstil-Feindschwertkämpfer
-Grundlegende funktionale Erscheinung
-Das reicht, verschwenden Sie keine Modellattention für striktes Locking von Gesichtern, Kleidern und Details.
-
-Ton- und Bewegungsanforderungen
-
-Natives synchronisiertes Mandarin-Dialog
-
-Natives synchronisiertes räumliches Audioeffekt
-
-Fokusverstärkung:
-
-Kurzes Sausen der Schwertspitze
-Echte Metallimpakte
-Sohlenreibung
-Zucken der Seidenkleidersäume
-Echtes Atmen der Charaktere
-
-Finaler plötzlicher ruhiger Klangkontrast
-
-Bewegungsstruktur
-24fps Kino-Bewegungsstruktur
-
-Natürliche Bewegungsunschärfe
-
-Aktionen müssen klar haben:
-Start
-Beschleunigung
-Kraftanwendung
-Linienänderung
-Trägheit
-Bremsen
-
-Streng verboten
-Teleportation
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106386731285245952/img/oyhTyHCArGSxRsNP.jpg" width="600" alt="Seedance 2.0 Mini Wuxia Kampfszenen-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11852)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2106388571863253309) | **Veröffentlicht:** Oct 3, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -4779,6 +3938,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-26T03:43:47.417Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-26T10:00:47.704Z</sub>
 
 </div>

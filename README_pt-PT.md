@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6591** |
+| 📝 Total de prompts | **6598** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-10-26** |
 
@@ -361,6 +361,257 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Prompt de Vídeo Cinematográfico de Carro de Luxo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para gerar um vídeo publicitário de automóvel de luxo, destacando um carro elegante percorrendo a cidade na hora dourada.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo cinematográfico de um carro de luxo, mostrando um veículo premium e aerodinâmico a percorrer uma cidade deslumbrante durante a golden hour. Utilize planos de acompanhamento suaves, iluminação dramática, reflexos brilhantes, movimentos de câmara elegantes, detalhes realistas e uma atmosfera luxuosa. Adicione momentos em câmara lenta, profundidade de campo reduzida e qualidade 4K ultrarrealista. O vídeo deve ter um visual elegante, imponente e profissional, como num anúncio automóvel de alta gama.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114590476737351680/img/kQI-v6EFDOPArwLi.jpg" width="600" alt="Prompt de Vídeo Cinematográfico de Carro de Luxo">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13046)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2114590512208638086) | **Publicado:** Oct 26, 2026
+
+---
+### Encontro na Rua Durante a Golden Hour
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar um vídeo cinematográfico de uma mulher encontrando um motociclista em uma rua residencial durante a golden hour.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo cinematográfico ultrarrealista de 30 segundos em uma rua residencial tranquila, sob a luz quente e dourada do fim de tarde. Uma jovem bonita, de cabelo curto azul-claro, caminha em direção à câmera usando um minivestido branco, um cardigã azul-claro e tênis brancos. De repente, ela nota algo, vira-se e corre até um pequeno objeto caído na rua, perdendo o equilíbrio sem querer perto de um rapaz que passa em uma scooter elétrica amarela. O homem, vestindo um moletom vermelho e calça preta, freia a scooter imediatamente quando a mulher se aproxima. Ele perde o equilíbrio e cai na rua, enquanto a scooter tomba de lado ao seu lado. A mulher para diante dele, com expressão preocupada, enquanto ele começa a se levantar e ergue a scooter do chão. Ele fica de pé, estabiliza a scooter e olha para a mulher, que o observa com calma. Em seguida, ela dá as costas e continua caminhando pela rua em direção à câmera, com uma expressão relaxada. Use um acompanhamento de câmera suave e cinematográfico, movimentos corporais realistas, expressões faciais naturais, texturas detalhadas nas roupas, luz solar quente, sombras suaves e profundidade de campo reduzida para garantir uma estética de filme polida e extremamente realista.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114561073164800000/img/1oWqWOdW3ql0CX1u.jpg" width="600" alt="Encontro na Rua Durante a Golden Hour">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13044)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2114561253398261881) | **Publicado:** Oct 26, 2026
+
+---
+### Prompt de Vlog de Cozinha Seedance 2.0 com Consistência de Personagem
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt detalhado para gerar um vídeo vertical de vlog de cozinha de 10 segundos usando Seedance 2.0. Especifica a consistência dos personagens entre as cenas, o uso de adereços (pinças/espátula), condições de iluminação e movimentos de câmera para criar um vídeo curto realista com estilo caseiro.
+
+#### 📝 Prompt
+
+```
+Personagem:
+Rosto: Aparência, traços, penteado, cor do cabelo e maquiagem seguem rigorosamente a imagem de referência do retrato.
+Roupas e Corpo: O traje, os acessórios e as proporções corporais seguem rigorosamente a imagem de referência do vestido branco-creme com borboletas (vestido creme ombro a ombro + acessório de cabelo em formato de borboleta); a vista traseira no Plano 2 corresponde à roupa da vista frontal.
+Consistência: A mesma pessoa nos 4 planos; o rosto e a roupa mantêm-se consistentes ao longo de todo o vídeo, sem alterações após os cortes; o reflexo no espelho no Plano 2 também é da mesma pessoa e com a mesma roupa.
+
+Adereços:
+Plano 1: Um par de pinças de cozinha pretas para alimentos.
+Plano 4: Uma espátula preta.
+
+Cenário:
+Uma cozinha doméstica ligada à sala de estar através de uma porta.
+
+Cozinha: Paredes revestidas com azulejos brancos texturizados que imitam mármore, fogão preto com uma wok, frascos de condimentos e bloco de facas na bancada; porta branca da cozinha, lanternas vermelhas penduradas perto do teto.
+Sala de Estar: Piso de madeira clara, espelho de corpo inteiro atrás da porta, gato preto no chão.
+
+Iluminação:
+Luz natural interior, suave e uniforme, tom branco-acinzentado frio, limpa e transparente.
+
+Storyboard
+Plano 1 | 0,00–3,27s | Grande angular em close-up, interagindo com a câmara enquanto segura as pinças de cozinha
+
+Posição da câmara: Telemóvel muito próximo da personagem, ângulo ligeiramente elevado, lente grande angular, enquadrando o rosto e a parte superior do corpo; o fundo mostra a parede de azulejos, a porta branca e a wok preta no fogão.
+0,00–0,60s: A personagem olha para baixo com um leve sorriso; a mão esquerda segura as pinças pretas no canto inferior esquerdo do enquadramento.
+0,60–1,00s: A personagem levanta a cabeça para olhar para a câmara, a câmara aproxima-se ligeiramente.
+1,00–1,60s: A personagem olha para a câmara, os cantos da boca sobem, as pinças movem-se para a margem esquerda do enquadramento.
+1,60–2,00s: A personagem estende as pinças na direção da câmara, as pontas das pinças aparecem no primeiro plano à esquerda com efeito bokeh.
+2,00–2,60s: A personagem abre e fecha as pinças várias vezes em frente à câmara, os olhos semicerram-se ligeiramente, sorriso divertido.
+2,60–3,27s: As pinças recuam para o lado esquerdo, a personagem sorri para a câmara, movimento elegante e sereno. Transição por fusão cruzada (crossfade) de 0,3s aos 3,27s.
+
+Plano 2 | 3,27–4,70s | Cena no espelho de corpo inteiro, de costas para a câmara e depois virando-se
+
+Posição da câmara: Atrás da personagem, ligeiramente à direita, ao nível dos olhos, plano médio. A metade esquerda mostra o reflexo frontal no espelho, a metade direita mostra as costas da personagem; gato preto no piso de madeira.
+3,27–4,00s: A personagem está de pé, de costas para a câmara e virada para o espelho, uma mão na anca, a outra a tocar na borda do espelho; o reflexo olha para si mesma.
+4,00–4,20s: A personagem vira a cabeça por cima do ombro para olhar para a câmara.
+4,20–4,70s: A personagem fica diretamente virada para a câmara com uma expressão calma; o reflexo vira-se de perfil, movimento elegante. Transição por fusão cruzada (crossfade) de 0,3s aos 4,70s.
+
+Plano 3 | 4,70–5,50s | Plano aéreo em ângulo alto, de pé junto ao fogão
+
+Posição da câmara: De um canto elevado da cozinha, olhando para baixo e mostrando o corpo inteiro, lente grande angular que revela o fogão preto, a wok, os condimentos e a porta branca.
+4,70–5,50s: A personagem está de pé junto ao fogão com as mãos atrás das costas, olha para cima e sorri para a câmara, o corpo balança ligeiramente, movimento elegante. Transição por fusão cruzada (crossfade) de 0,3s aos 5,50s.
+
+Plano 4 | 5,50–10,00s | Segurando a espátula, close-up nas expressões faciais
+
+Posição da câmara: Telemóvel próximo da personagem, ângulo ligeiramente elevado, lente grande angular enquadrando do peito para cima. O fundo mostra a porta branca, o puxador, os azulejos de mármore, a wok preta e as lanternas vermelhas.
+5,50–6,00s: A personagem segura a espátula preta à altura do ombro com a cabeça erguida, sorrindo para a câmara.
+6,00–8,00s: A personagem diz a frase "Esta espátula é fácil de usar?" enquanto sorri.
+8,00–8,40s: A personagem levanta as sobrancelhas olhando para a câmara, os cantos da boca sobem naturalmente.
+8,40–10,00s: A personagem mantém um sorriso caloroso e relaxado olhando para a câmara, a espátula segurada ao lado do ombro, o sorriso persiste até ao fotograma final congelado. Transições suaves e contínuas, sem saltos de fotogramas ou mudanças bruscas de pose.
+
+Estilo:
+Estilo de vlog caseiro do TikTok/Xiaohongshu, qualidade original da câmara grande angular do telemóvel, filtro de beleza/suavização de pele aplicado, pele clara e translúcida. Luz natural, tom branco frio, fotorrealista, HD, expressões vivas e naturais; aspeto geral elegante e sereno, movimentos lentos e fluidos, nada exagerados ou apressados.
+
+Áudio:
+Música animada contínua (instrumental alegre de ukulele/acordeão), fusões cruzadas nos cortes sem interrupção. No Plano 4, voz natural e nítida dizendo "Esta espátula é fácil de usar?", música mais baixa, mas sem abafar a voz. Nenhuma outra voz humana, gritos, risadas ou sons estranhos além desta frase.
+
+Parâmetros:
+Ecrã vertical 9:16, 10,00 segundos, 30fps, fotorrealista, 4 planos.
+
+Prompt Negativo: Troca de rosto, mudança de roupa, alteração na aparência da personagem após os cortes, reflexo no espelho inconsistente com a pessoa real, reflexo transformando-se noutra pessoa, traços distorcidos, testa franzida, rosto triste, lábios apertados, dedos deformados, pinças/espátula deformadas, braços extra, distorção severa de grande angular, cintilação, baixa resolução, marcas d'água, legendas, salto de fotogramas, saltos bruscos de movimento, mudanças abruptas de pose, vozes humanas estranhas, gritos, risadas inexplicáveis
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114557197678182400/img/dvzcO0zc7JT-ziP5.jpg" width="600" alt="Prompt de Vlog de Cozinha Seedance 2.0 com Consistência de Personagem">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13048)**
+
+**Autor:** [单引号](https://x.com/DengYH803) | **Fonte:** [Link](https://x.com/DengYH803/status/2114557242569867559) | **Publicado:** Oct 26, 2026
+
+---
+### Vídeo de Gato Antropomórfico Dançando
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para gerar um vídeo fotorrealista de um gato antropomórfico dançando com camisa e calças, enfatizando a estabilidade anatômica e o movimento rítmico.
+
+#### 📝 Prompt
+
+```
+**DURAÇÃO:** 8 segundos  
+**FORMATO:** Vertical 9:16, fotorrealismo cinematográfico  
+**REFERÊNCIA:** Use a imagem do gato enviada como referência exata para o primeiro quadro e para o personagem.
+
+**CONSISTÊNCIA DO PERSONAGEM:** Exatamente o mesmo gato malhado laranja e creme, vestindo a mesma camisa casual rosa de botões e calça bege. Mantenha o rosto original, o formato dos olhos, as orelhas, as marcações da pelagem, as proporções corporais, a roupa e a cauda intactos durante todo o vídeo.
+
+**MÚSICA:** Instrumental contemporâneo de dance-pop com uma pegada cool e rítmica, grave profundo e envolvente, percussão nítida e batidas de clube cheias de estilo. A música começa imediatamente. Os movimentos de dança devem acompanhar perfeitamente a batida.
+
+**COREOGRAFIA:**
+
+**0–2 segundos:** O gato começa em uma pose de pé relaxada e confiante. Executa um giro de ombros suave, uma sutil isolada de peito e um movimento controlado de quadril de um lado para o outro, mantendo contato visual com a câmera.
+
+**2–4 segundos:** O gato executa um jogo de pés limpo e estiloso, pisando para a direita e para a esquerda enquanto move os braços ritmicamente na frente do tronco. Movimentos naturais de pulso, cotovelos relaxados e grooves controlados na parte superior do corpo.
+
+**4–6 segundos:** O gato faz uma onda corporal (body wave) fluida, um two-step cheio de atitude e movimentos coordenados de braços. Seu tronco e quadril se movem de forma independente, em um estilo de dança fisicamente coerente e humano.
+
+**6–8 segundos:** O gato executa dois passos marcados e precisos no ritmo da batida, um shoulder pop suave e finaliza com uma pose descolada e confiante, olhando diretamente para a câmera.
+
+**CONTROLE CRÍTICO DE CABEÇA E PESCOÇO:** A cabeça do gato deve permanecer anatomicamente estável e naturalmente conectada ao pescoço. São permitidos apenas leves inclinações realistas e pequenos movimentos sincronizados com a batida. A cabeça NUNCA deve girar 360 graus, virar para trás, torcer de forma antinatural, se soltar ou girar de maneira independente do corpo. Mantenha os olhos, as orelhas, o focinho e a estrutura facial consistentes em todos os quadros.
+
+**TRAVA DE REALISMO:** Transferência natural de peso, pés firmes no chão, equilíbrio convincente, transições suaves entre os movimentos de dança, física realista para pelos e tecidos, sombras consistentes, movimento contínuo e anatomia estável. Um único plano ininterrupto, com a câmera fixa enquadrando o corpo inteiro e sem movimentos bruscos.
+
+**RESTRIÇÕES NEGATIVAS:** Sem movimentos de desenho animado, sem dancinhas infantis, sem expressões faciais exageradas, sem membros com aspecto de borracha, sem curvaturas antinaturais da coluna, sem torção de pescoço, sem giros de cabeça, sem membros extras, sem deformação facial, sem troca de roupa, sem flutuação, sem cintilação, sem saltos abruptos de pose e sem movimentos artificiais.
+
+**RESULTADO FINAL:** Uma performance de dança estilosa, confiante e com pegada adulta, executada pelo mesmo gato antropomórfico fotorrealista, com coreografia fluida, movimentos naturais de cabeça e física corporal totalmente convincente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114406485530972160/img/3zdH9KBkn5jnuVy0.jpg" width="600" alt="Vídeo de Gato Antropomórfico Dançando">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13047)**
+
+**Autor:** [M. Asif](https://x.com/meAsifAi) | **Fonte:** [Link](https://x.com/meAsifAi/status/2114406947558764575) | **Publicado:** Oct 25, 2026
+
+---
+### Voo de Sera Nyx pelo Cânion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Descrição de prompt para uma cena envolvendo Sera Nyx, uma criatura voadora e uma sequência de balanço no cânion.
+
+#### 📝 Prompt
+
+```
+Sera Nyx de novo e, desta vez, a criatura dela voa. Um desfiladeiro, um balanço pendurado num cabo sobre uma ponte de pedra, ruínas e os dois juntos no final.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2114387121637113856/pu/img/MKXPTBojpRRF8Run.jpg" width="600" alt="Voo de Sera Nyx pelo Cânion">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13045)**
+
+**Autor:** [MxCaptures | AI VFX & Cinematic AI Artist](https://x.com/MxCaptures) | **Fonte:** [Link](https://x.com/MxCaptures/status/2114387454757134521) | **Publicado:** Oct 25, 2026
+
+---
+### Sequência Cinematográfica de Entrada no Palácio Antigo Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt cinematográfico para gerar uma sequência dramática de entrada em um cenário de palácio chinês antigo. Apresenta múltiplos personagens com identidades fixas, relações espaciais precisas e revelação progressiva da hierarquia de poder através de movimentos de câmera.
+
+#### 📝 Prompt
+
+```
+Traje antigo oriental, qualidade cinematográfica fotorrealista; grande salão de madrugada em tons frios; texturas autênticas de pele/cabelo/tecido/metal; paleta escura de baixa saturação com forte claro-escuro; atmosfera opressiva de intriga e suspense; proibida estética CG/plástico; apenas som ambiente: eco de passos, farfalhar de roupas, estalos suaves de velas
+[Bloqueio de Personagem] Protagonista Feminina A: Imagem 1; Coadjuvante B: Imagem 2; Coadjuvante C: Imagem 3
+[Bloqueio de Adereço] Uma única espada longa (inicialmente segurada por B, depois transferida para A, apoiada sobre o ombro)
+[Bloqueio de Cenário] Sala do conselho real de madrugada: piso de pedra, pilares, janelas altas, candelabros, lanternas, trono elevado ao centro
+[Relações Espaciais] C está no meio à direita do salão; B agachado em primeiro plano, inicialmente totalmente desfocado; A ocupa o trono no fundo central, invisível nos três primeiros planos
+[Lógica Espacial] Hierarquia de poder revelada progressivamente do perto para o longe através de um movimento lateral de dolly para trás e para cima, expandindo o espaço camada por camada — primeiro C (meio do salão), depois B (emboscada em primeiro plano) e, por fim, A tomando o centro; ordem estrita de foco: C→B→A→plano geral
+[Iluminação e Atmosfera] Luz fria da lua entrando pelas janelas altas, acentos quentes das velas; iluminação geral fria, de baixa saturação e alto contraste
+
+[Storyboard]
+[Plano 01][Duração] 0–3s [Enquadramento] Início em plano médio [Movimento] Suave no início, depois panorâmica lenta em arco para a esquerda [Conteúdo] Dentro do salão, C está de pé, angulado, cabeça baixa, contemplativo; de repente ergue os olhos num olhar direto e arrogante, desdenhoso e distante; primeiro plano reservado como zona desfocada (posição de B), foco estável em C com separação nítida de profundidade [Bloqueio de Continuidade] Abertura: C aparece; B é apenas uma sombra borrada, sem rosto
+
+[Plano 02][Duração] 3–5s [Enquadramento] Primeiríssimo plano preenchendo o rosto [Movimento] Continuação para a esquerda, rápida mudança de foco (rack focus) para o primeiro plano [Conteúdo] B, antes desfocado no primeiro plano, vira a cabeça bruscamente; primeiríssimo plano em contra-plongée preenchendo o rosto, olhar frio e desdenhoso fixado na câmera; C no fundo completamente em bokeh, intensa tensão espacial [Bloqueio de Continuidade] Transição por mudança de foco: o foco passa de C→B; B é o agente da emboscada, não o protagonista
+
+[Plano 03][Duração] 5–7s [Enquadramento] Plano médio [Movimento] Recuo rápido contínuo com leve tremor lateral [Conteúdo] O rosto de B sai de cena, encolhendo para um plano médio enquanto a câmera recua; B levanta-se com a espada pronta; A entra abruptamente pela esquerda dominando o quadro, passa por B, pega a espada longa e a ergue sobre o ombro com um sorriso condescendente olhando俯视para a câmera; o foco final trava no rosto frontal de A [Bloqueio de Continuidade] Tomada de poder concluída: a espada passa para A, domínio do quadro alcançado; B rebaixado a figurante
+
+[Plano 04][Duração] 7–10s [Enquadramento] Grande plano geral de encerramento [Movimento] Recuo diagonal para trás com ascensão contínua [Conteúdo] A câmera recua continuamente em diagonal ascendente, expandindo o espaço progressivamente; o recuo total estabelece um tableau de poder congelado: janelas sob o luar frio, velas tremeluzentes, contraste marcante, escuridão de baixa saturação, opressão máxima [Bloqueio de Continuidade] Resolução: a verdadeira autoridade surge por último; a estrutura de poder em tríade cristaliza-se
+
+[Restrições Negativas] Absolutamente nenhuma música de fundo/legendas; nenhum texto estranho/marcas d'água/elementos modernos (sem ternos/óculos/carros/bolas de beisebol); nenhuma duplicação de personagens/erros anatômicos/perda de identidade/o rosto de A tornar-se B ou C/violações da ordem de foco/desaparecimento de espadas/arrasto em câmera lenta; A/B/C mantêm posições fixas durante toda a sequência
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114347927615533056/img/LKCLXLhtlEtIrKN_.jpg" width="600" alt="Sequência Cinematográfica de Entrada no Palácio Antigo Seedance 2.0">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13049)**
+
+**Autor:** [灰度笔记](https://x.com/GrayNoteLab) | **Fonte:** [Link](https://x.com/GrayNoteLab/status/2114348037862719796) | **Publicado:** Oct 25, 2026
+
+---
+### Cena Cômica Seedance 2.0 no Quarto Antigo
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt narrativo humorístico ambientado em um quarto antigo chinês, apresentando ação baseada em diálogos entre três personagens e um gato. Utiliza tons de luz quente de velas e timing cômico dentro de um espaço doméstico confinado.
+
+#### 📝 Prompt
+
+```
+Prompt de texto para vídeo: traje antigo oriental, cinema fotorrealista de alta qualidade; tom quente de luz de velas no boudoir; texturas autênticas de pele/cabelo/tecido/madeira entalhada; color grading de nível cinematográfico; comédia leve; proibido estética CG/plástico
+[Bloqueio de Personagem] Protagonista Feminina A: Imagem 1; Protagonista Masculino B (Zhao Mingcheng): Imagem 2; Coadjuvante C (Irmã): Imagem 3; Gato Laranja Malhado
+[Configuração Principal] C escondida dentro do guarda-roupa
+[Bloqueio de Cenário] Boudoir de estilo antigo: cama de madeira entalhada, penteadeira com espelho de bronze, candelabros, lanternas, grande guarda-roupa entalhado
+[Relações Espaciais] A está de pé diante da cama; B está sentado, curvado na beira da cama; guarda-roupa no lado oposto; C dentro do guarda-roupa
+[Lógica Espacial] Local único; trajeto de A: frente da cama→virar-se para o guarda-roupa→abrir a porta; o gato nunca sai do ombro de B
+[Atmosfera de Iluminação] Luz de velas quente, iluminação suave nos rostos
+
+[Storyboard]
+[Tomada 01][Duração] 0–3,5s [Enquadramento] Plano médio [Movimento] Estático [Conteúdo] A está de pé, imponente, dando uma bronca olhando para baixo; B está sentado na beira da cama, de cabeça baixa [Diálogo] A (~0,5–2s): "Quando nos casamos, exigi 100 mil taéis de dote"; A (~2–3,5s): "Minha irmã te emprestou 90 mil disso", ao mesmo tempo o gato laranja dá um tapa com a pata na cabeça de B [Bloqueio de Continuidade] Abertura: A domina a cena repreendendo;
+
+[Tomada 02][Duração] 3,5–7s [Enquadramento] Plano médio [Movimento] Estático [Conteúdo] A fica mais irritada, apontando o dedo para B; a cabeça de B se abaixa ainda mais, o gato firme no ombro [Diálogo] A (~3,5–5s): "Agora até consegui seu cargo oficial também"; A (~6–7s): "Zhao Mingcheng é um ingrato, não é?" [Bloqueio de Continuidade] A enumera as contribuições da irmã; B calado, sem defesa
+
+[Tomada 03][Duração] 7–8,5s [Enquadramento] Close-up [Movimento] Estático [Conteúdo] B de cabeça baixa pede desculpas murmurando, o gato com expressão vazia olhando para frente [Diálogo] B, culpado (~7,5–8,3s): "Xiaowan, eu errei" [Bloqueio de Continuidade] B se rende; nenhum diálogo extra
+
+[Tomada 04][Duração] 8,5–12,5s [Enquadramento] Plano médio [Movimento] Travelling lateral [Conteúdo] A gira e caminha a passos largos em direção ao guarda-roupa, xingando pelo caminho, para na porta com a mão na maçaneta [Diálogo] A (~9–11s): "Enquanto você estava fora, minha irmã veio me visitar e você a trancou no guarda-roupa"; A (~12s): "Você ainda é humano?" [Bloqueio de Continuidade] Aproximação do guarda-roupa = contagem regressiva para a revelação; B paralisado na beira da cama
+
+[Tomada 05][Duração] 12,5–15s [Enquadramento] Plano médio [Movimento] Estático [Conteúdo] A escancara o guarda-roupa: C está lá dentro de pé, acenando desajeitadamente, sorrindo e dizendo "Oi~"; freeze-frame [Bloqueio de Continuidade] Resolução
+
+[Restrições Negativas] Absolutamente nenhuma música de fundo; sem textos estranhos/marcas d'água/duplicação de personagens/erros anatômicos/elementos modernos (sem luzes elétricas/sem móveis modernos)/perda de identidade/rosto de A mudando para B ou C/gato saindo do ombro de B/distorção das manchas do gato/troca de diálogos/arrasto em câmera lenta
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114281752583897088/img/f5RxqlYYYQlBpeLf.jpg" width="600" alt="Cena Cômica Seedance 2.0 no Quarto Antigo">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13050)**
+
+**Autor:** [灰度笔记](https://x.com/GrayNoteLab) | **Fonte:** [Link](https://x.com/GrayNoteLab/status/2114281882687066484) | **Publicado:** Oct 25, 2026
+
+---
 ### Congelamento do Caos no Corredor da Escola
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3619,1097 +3870,6 @@ Ficção científica hard fotorrealista, ambientes espetaculares de asteroides, 
 **Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fonte:** [Link](https://x.com/AllaAisling/status/2106852107114418554) | **Publicado:** Oct 4, 2026
 
 ---
-### Prompt de Batalha de Escolta Cinematográfica Seedance 2.0 Mini
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt detalhado para gerar um vídeo cinematográfico de 15 segundos usando o Seedance 2.0 Mini, retratando uma batalha móvel de escolta em um cenário Xianxia da China antiga, com ancoragem rigorosa de personagens e locais baseada em imagens de referência.
-
-#### 📝 Prompt
-
-```
-Textura cinematográfica fotorrealista, filme de ação puro estilo Xianxia da China antiga, 15 segundos, proporção 16:9, Seedance 2.0 Mini.
-Esta rodada não é um duelo estacionário, nem continua a repetir o velho padrão de "trocar para uma nova arma → protagonista estuda → contra-ataca → espada para na garganta".
-O motivo central da ação é:
-Uma batalha de escolta móvel ocorrendo na estrada imperial real de alta altitude mostrada na imagem de referência atual.
-A mesma Irmã Sênior e a Irmã Júnior devem avançar continuamente para frente enquanto protegem o Mestre ferido, os discípulos e as pessoas comuns evacuando atrás delas.
-O verdadeiro objetivo dos inimigos não é necessariamente derrotar as duas protagonistas.
-O que elas querem fazer é:
-Romper a linha defensiva formada pelas duas protagonistas;
-Invadir a multidão em evacuação;
-Selar o caminho para o avanço contínuo.
-Portanto, o núcleo desta batalha inteira é:
-**Quebrar o bloqueio à frente
-Bloquear os perseguidores atrás
-As duas protagonistas trocam continuamente posições frontal e traseira
-Sempre reabrir o caminho.**
-As ações buscam fluidez, mas nunca devem ser suaves.
-Fluidez significa:
-A ação anterior leva naturalmente à próxima;
-Os personagens estão sempre se movendo;
-Ataque e defesa nunca reiniciam do zero;
-A direção da arma e a direção do personagem são sempre compreensíveis;
-Após cortes, ainda se sabe quem está na frente, quem está atrás e quem está atacando de onde.
-O poder vem de:
-Início súbito;
-Aceleração óbvia;
-Colisões reais;
-Mudanças no centro de gravidade;
-Compensação de força;
-Desequilíbrio;
-Inércia;
-Contra-agarramentos;
-Paradas bruscas;
-Reinícios imediatos.
-Proibido esgrima suave e dançante.
-Proibido reiniciar poses após golpear uma vez.
-Os inimigos devem ter julgamento real.
-Após a primeira estratégia falhar, eles devem mudar alvos, rotas de ataque, perseguir, selar caminhos, flanquear ou separar ativamente as duas protagonistas.
-Proibido inimigos alinharem-se para oferecer ataques.
-[Trava Central de Personagens]
-Trave estritamente apenas @Image 1 e @Image 2 como as duas protagonistas centrais, junto com suas armas primárias respectivas.
-@Image 1 é sempre a mesma Irmã Sênior Imortal da Espada como antes:
-Mesma identidade feminina adulta do Leste Asiático;
-25–30 anos;
-Mesmo rosto;
-Cabelo preto longo meio preso;
-Pente de jade branco;
-Proporções altas e esbeltas;
-Hanfu de seda branca bordada;
-Mangas largas semi-transparentes em camadas;
-Faixa prateada na cintura;
-Pendente de jade;
-Botas de pano branco;
-A única espada reta prateada em todo o filme.
-@Image 2 é sempre a mesma Irmã Júnior como antes:
-Mesma identidade feminina adulta do Leste Asiático;
-20–25 anos;
-Mesmo rosto;
-Cabelo preto trançado;
-Proporções pequenas;
-Hanfu de linho verde-ciano;
-Cinto escuro;
-Pente de madeira;
-Sapatos de pano preto;
-A única espada de aço escuro em todo o filme.
-Inimigos, Mestres, discípulos, pessoas comuns e espectadores são todos apenas personagens secundários funcionais.
-Não desperdice atenção de geração travando estritamente rostos, penteados e roupas complexas dos personagens secundários.
-Garanta apenas que tipos de personagens, posições, armas e funções de ação permaneçam logicamente contínuos dentro do plano.
-[Ancoragem Rígida de Cena Específica da Rodada | Prioridade Máxima]
-A referência de fundo enviada para esta rodada já exibe uma localização completa e altamente reconhecível.
-Portanto, esta rodada entra diretamente em:
-ANCORAGEM DE LOCALIZAÇÃO RÍGIDA.
-A imagem de referência não é inspiração de estilo.
-Todo o vídeo deve realmente ocorrer na mesma estrada imperial celestial de palácio de alta altitude mostrada na imagem de referência.
-Proibido redesenhá-la em uma "localização Xianxia semelhante".
-Deve manter continuamente as seguintes identidades de localização:
-O eixo central do quadro sempre contém a mesma estrada imperial extremamente longa, reta e pálida de alta altitude, estendendo-se do primeiro plano em direção ao centro distante.
-A estrada imperial sempre mantém profundidade estreita óbvia; os personagens se movem principalmente na direção frente-trás; proibido expandi-la em uma arena circular, pátio enorme ou praça larga.
-Os lados esquerdo e direito da estrada imperial sempre mantêm a mesma queda massiva de alta altitude, mar de nuvens leitosas brancas e cachoeiras grandes contínuas.
-O plano médio esquerdo e direito continua a conter o mesmo grupo de palácios tradicionais enormes, mantendo posições originais esquerda-direita, volume e relação espacial com a estrada imperial.
-O primeiro plano esquerdo continua a reter a mesma estrutura proeminente de madeira escura em balanço; estruturas densas de madeira não devem desaparecer ou encolher em pequenos edifícios comuns.
-Abaixo da estrada imperial e sob a névoa, continue a manter a mesma escala de cidade antiga densa.
-O centro mais distante continua a conter o mesmo corpo de montanha gigante / superestrutura.
-O centro distante continua a reter o mesmo portão em forma de anel enorme / edifício em anel.
-Os personagens são sempre muito menores que a estrada imperial, palácios, cachoeiras, cidade subjacente e superestruturas distantes.
-Mantenha a mesma luz diurna/manhã brilhante de tom branco-acinzentado frio, ouro quente pálido, baixa saturação, névoa de ar branca leitosa e grande profundidade como a imagem de referência original.
-O anel distante enorme deve sempre permanecer muito longe.
-Proibido puxá-lo subitamente para perto para se tornar um portão de montanha comum.
-Proibido regenerar a atual estrada imperial em:
-Arena circular;
-Pátio comum;
-Praça larga;
-Outra ponte de nuvem;
-Nova plataforma flutuante;
-Novo portão de montanha;
-Nova ilha flutuante;
-Novo penhasco;
-Nova entrada de palácio;
-Nova grande escadaria.
-Proibido alargar subitamente a estrada imperial para facilitar o combate.
-Proibido dia transformar-se em noite.
-Proibido substituir o clima suave atual por nuvens escuras tempestuosas.
-Todas as ações e câmeras devem adaptar-se à atual estrada imperial real.
-Proibido redesenhar a cena pelo bem da ação.
-[Dinâmica de Fundo | Deve estar viva, mas por padrão não participativa na trama]
-A cena move-se continuamente de forma natural.
-Nuvens distantes movem-se lentamente.
-Grandes cachoeiras caem continuamente de forma realista para baixo.
-A névoa d'água na base das cachoeiras gira continuamente e se funde com o existente mar de nuvens.
-Camadas de nuvens e camadas de neblina em diferentes distâncias mantêm velocidades ligeiramente diferentes, criando paralaxe realista.
-Vento natural de alta altitude afeta continuamente os cabelos pretos, mangas largas, bainhas, borlas e acessórios das duas protagonistas.
-Névoa fina entre a cidade antiga distante e os palácios move-se continuamente devagar.
-Perspectiva atmosférica produz mudanças sutis continuamente.
-Algumas figuras distantes podem mover-se naturalmente dentro de áreas já existentes na imagem de referência.
-No entanto:
-O ambiente é narrativamente neutro por padrão.
-Cachoeiras não podem subitamente ajudar ninguém.
-Névoa não pode obstruir ativamente os inimigos.
-Vento não pode mudar trajetórias de espadas.
-Edifícios não podem desabar sozinhos.
-A estrada imperial não pode quebrar.
-O anel distante não pode ativar feitiços subitamente.
-O ambiente não pode resolver ativamente o combate.
-Somente quando os personagens pisam, param bruscamente ou colidem com armas, permita leve poeira de pedra, arranhões, faíscas metálicas, deslocamento de tecido e detritos de atrito de solas.
-Rastros óbvios já aparecidos devem persistir razoavelmente.
-[0–5s | Gancho: Não Pode Recuar]
-0.0–1.0s.
-Use ângulo ultra-grande de 24mm panorama grandioso do eixo central.
-Primeiro reproduza a localização; prioridade de localização é maior que ação complexa.
-O primeiro olhar deve confirmar:
-A mesma longa estrada imperial branca;
-Mesmas grandes cachoeiras à esquerda e direita;
-Mesmos grandes palácios à esquerda e direita;
-Mesma grande estrutura de madeira à esquerda;
-Mesma cidade antiga abaixo;
-Mesmo grande anel distante.
-As duas protagonistas mantêm escala pequena dentro do ambiente enorme.
-Irmã Sênior está na frente.
-Irmã Júnior está meio passo atrás.
-Mais atrás a uma distância, um Mestre idoso ferido, vários discípulos e algumas pessoas comuns continuam avançando pela mesma estrada imperial.
-Dois espadachins inimigos bloqueiam o caminho à frente.
-O inimigo líder bloqueia a área de passagem eficaz com uma espada horizontal:
-"Protegendo-os, vocês não podem passar."
-Irmã Sênior não para de jeito nenhum:
-"Quem disse que estávamos recuando?"
-Assim que a última palavra cai.
-O inimigo lança sem aviso.
-A câmera imediatamente transita de panorama grandioso fixo para aproximadamente 32–35mm plano de acompanhamento recuando ao longo do eixo da estrada imperial.
-O primeiro inimigo rapidamente apodera-se da linha central da Irmã Sênior.
-Irmã Sênior nunca recua para trás.
-Até o último momento, ela apenas desloca diagonalmente meia largura de corpo, usando a mesma espada reta prateada para completar uma colisão curta, dura e real, empurrando a espada do inimigo para fora do eixo central da estrada imperial.
-Sem golpe de seguimento.
-Sem pose.
-Ela imediatamente continua para frente passando pelo ombro do inimigo.
-Quase simultaneamente.
-O segundo inimigo corta em direção à Irmã Júnior da direção oposta, tentando contorná-la para atacar a multidão atrás.
-Irmã Júnior não persegue inimigos selvagemente.
-Ela corre diretamente para a posição entre o inimigo e a multidão em evacuação, mudando brevemente apenas a linha de ataque do oponente com a espada de aço escuro, então continua para frente.
-Um inimigo passa rapidamente perto da câmera, corpo instantaneamente preenchendo a tela, formando o primeiro corte oculto natural.
-Até o final dos 0–5 segundos, o público deve entender claramente:
-Elas não estão ficando para vencer.
-Estão recuperando o caminho.
-[5–10s | Upgrade: Inimigos Começam Atacando Verdadeiros Alvos]
-Mantenha completamente idênticos estrada imperial, palácios esquerdo/direito, cachoeiras, anel distante e escala do mundo.
-Use aproximadamente 35mm plano médio de acompanhamento movendo ao longo do eixo da ponte.
-Após o primeiro ataque falhar, os inimigos devem mudar proativamente a estratégia.
-O líder inimigo não insiste mais em vencer cara a cara contra a Irmã Sênior.
-Ele subitamente muda de alvo, tentando ativamente contornar a Irmã Sênior, cortando entre a Irmã Júnior e a multidão em evacuação.
-Outro inimigo simultaneamente pressiona a Irmã Sênior da direção oposta, tentando verdadeiramente separar as duas protagonistas.
-As ações formam uma cadeia causal contínua:
-Corte horizontal do inimigo força a Irmã Sênior a desviar brevemente da linha central da estrada imperial;
-Irmã Sênior realiza apenas uma liberação breve de força, não continuando o entrelaçamento;
-A inércia de impacto já investida pelo inimigo faz seu corpo ultrapassar ligeiramente a posição ótima de ataque;
-Irmã Júnior continua para frente.
-O inimigo líder subitamente corta diagonalmente da frente direita da Irmã Júnior.
-Irmã Júnior pega o primeiro golpe.
-O inimigo não pausa, imediatamente mudando para um segundo ataque de posição baixa.
-Irmã Júnior é forçada a encolher meio passo em direção à linha central da estrada imperial.
-Justamente no momento em que o inimigo julga que ela foi selada ——
-Irmã Sênior subitamente corre rápido de trás da Irmã Júnior para o outro lado.
-As duas completam a primeira troca extremamente rápida de posições frente-trás.
-Não é uma rotação dupla.
-Não é uma pose sincronizada.
-Mas uma troca compacta de posição cruzando ombros enquanto mantém movimento para frente.
-Irmã Sênior diretamente assume o inimigo originalmente pressionando a Irmã Júnior.
-Irmã Júnior continua para frente ao longo do meio-caminho aberto, tornando-se a nova posição frontal.
-A câmera apenas realiza um curto movimento lateral devido à troca real de posições das duas.
-Uma espada inimiga raspa pela lente, formando uma transição de oclusão natural.
-Proibido orbitar sem razão.
-Neste momento.
-Passos de perseguição em alta velocidade vêm de trás.
-Um perseguidor funcional originalmente caindo mais atrás chegou.
-Alguém bloqueando o caminho à frente.
-Alguém perseguindo de trás.
-As duas mulheres estão verdadeiramente presas pela primeira vez na situação mais perigosa da estreita estrada imperial:
-Ataque pinça frente e trás.
-[10–15s | Virada: Não Proteja Pessoas, Proteja o Caminho]
-Re-alargue para aproximadamente 28–32mm plano médio em movimento.
-Use quase 1 segundo para explicar totalmente o espaço atual:
-Irmã Júnior está na frente;
-Irmã Sênior está cerca de um comprimento de corpo atrás;
-Líder inimigo frontal reassume a linha central;
-Perseguidores traseiros aproximando-se rápido;
-Mestre em evacuação, discípulos e pessoas comuns ainda estão se movendo em posições mais seguras mais afastadas.
-Todos permanecem na mesma estrada imperial real da imagem de referência.
-Proibido cortar subitamente para outras plataformas.
-Inimigos frontais e perseguidores traseiros lançam quase simultaneamente.
-Irmã Júnior instintivamente quer virar para trás.
-Irmã Sênior apenas diz:
-"Não me proteja."
-Irmã Júnior para de virar para trás.
-Irmã Sênior imediatamente segue com:
-"Proteja o caminho."
-As duas explodem quase simultaneamente.
-Irmã Júnior não vira para trás para salvar a Irmã Sênior.
-Ela continua para frente, usando uma colisão curta e dura de espada de aço escuro para forçadamente empurrar a lâmina do inimigo frontal para fora do eixo central da estrada imperial.
-Irmã Sênior simultaneamente lida com o perseguidor traseiro.
-Ela intencionalmente cede meio passo, deixando o inimigo verdadeiramente entrar no alcance de ataque.
-Justamente no momento em que a força corporal do oponente foi investida, ela subitamente corta diagonalmente para fora do eixo de ataque.
-O próprio impulso para frente do perseguidor faz seu corpo ultrapassar meio comprimento de corpo.
-Irmã Sênior não persegue.
-Imediatamente acelera para frente novamente.
-Neste momento, Irmã Júnior já empurrou o inimigo frontal meio comprimento de corpo para longe da linha central.
-As duas protagonistas aproximam-se em alta velocidade.
-Linhas de ombros raspam a distância extremamente próxima.
-Completam a segunda troca de posições frente-trás.
-Desta vez, elas não olham uma para a outra de jeito nenhum.
-Irmã Júnior naturalmente cai para a posição traseira, assumindo o inimigo que virou para perseguir novamente.
-Irmã Sênior torna-se a posição frontal novamente, enfrentando o inimigo líder ainda bloqueando o caminho.
-Uma espada inimiga varre o primeiro plano da câmera, instantaneamente preenchendo a tela, formando o corte duro de oclusão de arma mais explícito de todo o filme.
-Cut para uma posição de câmera reversa ligeiramente mais baixa.
-Irmã Sênior apenas realiza uma deflexão externa extremamente curta e extremamente feroz com a espada prateada.
-A trajetória da espada do líder é totalmente empurrada para fora do eixo central da estrada imperial.
-Porque o peso corporal dele já estava investido para frente, sua própria inércia carrega seu corpo lateralmente por cerca de dois comprimentos de corpo.
-Inimigos não podem cair da ponte.
-Não podem ser exageradamente soprados para longe.
-Não precisam perder completamente a capacidade de combate.
-Apenas abrir o caminho é suficiente.
-Irmã Sênior e Irmã Júnior absolutamente não param para dar golpes finais.
-As duas passam diretamente entre os inimigos, continuando ao longo da mesma estrada imperial branca em direção ao grande anel distante.
-A multidão em evacuação traseira também começa a avançar ao longo da rota reaberta.
-O líder inimigo vira e grita furiosamente:
-"Vocês não podem vencer!"
-Não corte para close-ups frontais heroicos.
-A câmera continua a seguir as duas mulheres avançando da lateral-traseira.
-Irmã Júnior ainda está ajustando sua respiração:
-"Nós nunca viemos aqui para vencer."
-Irmã Sênior sempre olha para o caminho à frente:
-"Desde que o caminho esteja lá, isso é suficiente."
-Deixe apenas uma batida extremamente curta.
-Mais profundamente na mesma estrada imperial distante, vários inimigos funcionais originalmente existentes na camada de figuras distantes começam a espalhar-se lentamente, entrando em posições de bloqueio de caminho da próxima rodada.
-Proibido gerá-los do nada na névoa.
-Proibido renová-los subitamente de edifícios.
-Eles existiram na distância real desde o início, apenas revelando hostilidade através do movimento neste momento.
-As duas protagonistas não desaceleram de jeito nenhum.
-Espada prateada e espada de aço escuro mantêm prontidão natural de posição baixa.
-A câmera continua a recuar ao longo do eixo da estrada imperial.
-Cabelos pretos, bainhas, cachoeiras, névoa, nuvens, palácios distantes e o mundo enorme sempre se movem naturalmente.
-No estado em que as duas ainda estão ativamente caminhando em direção ao próximo lote de inimigos:
-Cut direto para preto.
-[Câmera & Edição]
-Três segmentos narrativos, mas absolutamente não mecanicamente iguais a três planos.
-Todo o filme usa uma pequena quantidade de cortes verdadeiramente funcionais.
-Rotas principais da câmera:
-Panorama grandioso do eixo central de 24mm confirmando localização real → 32–35mm plano de acompanhamento recuando ao longo do eixo da estrada imperial existente → Corpo humano passando pela lente forma corte oculto → Arma raspando pela lente forma corte de oclusão → Quando ataque pinça frente-trás ocorre, re-alargue plano para explicar espaço → Finalmente lateral-traseira continuamente seguindo as duas protagonistas avançando em direção ao anel distante.
-Todos os cortes só podem ser disparados naturalmente pelos seguintes eventos:
-Oclusão de personagem;
-Oclusão de arma;
-Colisão real de arma;
-Mudança óbvia na direção do movimento;
-Desequilíbrio corporal óbvio;
-Mudança súbita na velocidade.
-Proibido corte fragmentado mecânico.
-Proibido câmera sendo mais inquieta que a ação.
-Proibido ORBIT sem sentido.
-Proibido mudar posições de estrada imperial, palácios, cachoeiras e anéis distantes para movimento de câmera.
-Ação dirige a câmera.
-A câmera não pode dirigir deformação de cena.
-[Som]
-Abertura primeiro estabelece:
-Vento natural de alta altitude;
-Rumbe grave de baixas frequências de grandes cachoeiras existentes continuamente à distância;
-Passos na estrada imperial de pedra clara;
-Piso de ruído ambiental extremamente distante da cidade antiga.
-Após explosão de combate adicione:
-Vento de espada curto e agudo rompendo o ar;
-Colisões metálicas duras e agudas;
-Atrito de sola de sapato;
-Tremor de tecido de seda;
-Passos rápidos de perseguidores;
-Respiração de personagem gradualmente pesando.
-Quando ataque pinça frente-trás forma, temporariamente abaixe música e campo sonoro ambiental largo.
-Destaque:
-Passos;
-Respiração;
-Direções de arma.
-Após o caminho ser reaberto, sons de combate gradualmente desaparecem atrás dos personagens.
-Diálogo final deve ser claro:
-"Nós nunca viemos aqui para vencer."
-"Desde que o caminho esteja lá, isso é suficiente."
-Após diálogo terminar:
-Cacheira;
-Vento de alta altitude;
-Passos contínuos para frente
-Reocupam o campo sonoro principal.
-Música nunca deve sobrepujar detalhes de ação e diálogo.
-[Prioridades de Geração Seedance 2.0 Mini]
-P0: A identidade de localização da imagem de referência de fundo enviada absolutamente não pode mudar.
-P0: Estabilidade de identidade dos personagens centrais @Image 1 e @Image 2.
-P1: Estabilidade de atribuição e continuidade da espada reta prateada e da espada de aço escuro.
-P1: Relação espacial clara frente-trás na mesma estrada imperial.
-P1: Direção contínua para frente dos personagens, direção de ataque do inimigo e eixo da câmera.
-P2: Rostos específicos e roupas complexas de inimigos, Mestres, discípulos e pessoas comuns.
-Se a complexidade do modelo precisar ser reduzida:
-Primeiro reduza detalhes de personagens secundários;
-Então reduza movimentos de ataque extras;
-Próximo reduza efeitos visuais decorativos.
-Absolutamente não pode sacrificar:
-Identidade de localização da imagem de referência;
-Identidade da protagonista central;
-Causalidade de ação;
-Continuidade espacial.
-[Restrições Negativas]
-Proibido transformar atual estrada imperial de alta altitude em arena circular. Proibido mudar para pátio comum. Proibido mudar para praça larga. Proibido adicionar outra ponte de nuvem. Proibido adicionar portão de montanha independente. Proibido adicionar ilha flutuante. Proibido adicionar plataforma de combate. Proibido deletar grandes cachoeiras esquerda/direita. Proibido deletar grandes palácios esquerda/direita. Proibido deletar grande estrutura de madeira em balanço à esquerda. Proibido deletar cidade antiga densa subjacente. Proibido deletar estrutura de anel gigante distante. Proibido puxar anel gigante distante para perto para se tornar torre de portão comum. Proibido mudar posições relativas de palácios distantes e edifícios de plano médio. Proibido dia subitamente transformar-se em noite. Proibido nuvens escuras tempestuosas substituindo clima suave atual. Proibido alargar estrada imperial para ação. Proibido mudar largura da estrada imperial após cortes. Proibido ambiente participando ativamente da trama. Proibido ponte quebrada subitamente. Proibido edifícios desabando sozinhos. Proibido névoa obstruindo ativamente inimigos. Proibido cachoeira subitamente mudando ataque. Proibido vento subitamente mudando trajetória de espada. Proibido personagens teleportando sem trajetória. Proibido duas protagonistas trocando posições do nada. Proibido qi de espada aleatório em grande área. Proibido ondas de energia colidindo. Proibido poluição luminosa. Proibido inimigos alinhando-se para oferecer ataques. Proibido inimigos sendo passivos por longos períodos. Proibido empurrão de arma de longa duração. Proibido personagens parando para esperar após um movimento. Proibido rotações sem sentido. Proibido Poses sem sentido.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106728656399970304/img/DeUvkEJCnbRcNZ9b.jpg" width="600" alt="Prompt de Batalha de Escolta Cinematográfica Seedance 2.0 Mini">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11921)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2106728692986843641) | **Publicado:** Oct 4, 2026
-
----
-### Prompt de Ação: Armadilha do Falso Duelo Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt para gerar uma sequência cinematográfica de ação Xianxia onde duas espadachinas fingem um duelo para expor assassinos ocultos, focando no fluxo dinâmico de combate e na consistência rigorosa de personagens e ambiente.
-
-#### 📝 Prompt
-
-```
-Textura fotorealista cinematográfica, filme de ação de espadas Xianxia chinês antigo de alta tensão.
-
-Quebra completa dos padrões anteriores:
-
-Troca de arma da irmã sênior para contra-ataque
-Ruptura total das defesas
-Pontos cegos complementares duplos
-
-O núcleo torna-se:
-
-As irmãs sênior e júnior parecem estar em um duelo genuinamente perigoso, usando-o na verdade para forçar os assassinos ocultos a se revelarem.
-
-Objetivos Narrativos em Três Camadas
-Camada 1 (Gancho): Fazer o público acreditar que elas estão realmente lutando
-Camada 2 (Virada): Revelar que elas estavam controlando o espaço através do momento mútuo das espadas
-Gancho Final: Deixar a suspense de que a segunda leva de inimigos ainda não apareceu
-
-Princípio Geral de Ação
-
-As ações devem ser fluidas, mas nunca suaves.
-
-Fluidez
-
-Definida como:
-Cada ação anterior cria naturalmente a próxima
-
-A direção do movimento se estende continuamente
-Causalidade clara entre câmera, corpo e trajetória da espada
-Sensação de Poder
-
-Definida como:
-Início súbito
-
-Contato violento
-Desvio de força
-Desequilíbrio corporal
-Continuação por inércia
-Parada abrupta
-Trava de Personagem e Arma
-
-Bloqueie estritamente apenas os personagens principais @image 1 e @image 2 e suas armas exclusivas.
-
-@image 1 | Irmã Sênior Espadachim Imortal
-
-A mesma Irmã Sênior @image 1 mantém sempre:
-
-Mesmo rosto feminino adulto asiático oriental
-Aparência de 25–30 anos
-
-Cabelo preto longo meio preso
-Grampo de cabelo de jade branco
-Proporções altas e esbeltas
-Hanfu de seda branca bordada
-Mangas largas semitransparentes
-Faixa prateada na cintura
-Pingente de jade
-Botas de tecido branco
-Espada reta prateada única
-@image 2 | Irmã Júnior
-A mesma Irmã Júnior @image 2 mantém sempre:
-
-Mesmo rosto feminino adulto asiático oriental
-Aparência de 20–25 anos
-
-Cabelo preto trançado
-Proporções pequenas
-Hanfu de linho azul-esverdeado
-Cinto escuro
-Grampo de cabelo de madeira
-Sapatos de tecido preto
-Espada de aço escuro única
-Outros Personagens
-Assassinos, mestre, discípulos e passantes são apenas funcionais, sem trava estrita de rosto/roupa como as protagonistas.
-
-Controle de Cena Circular | Prioridade Máxima
-O fundo carregado mostra claramente uma localização completa e altamente reconhecível. Entre no modo HARD LOCATION ANCHOR (Âncora de Localização Rígida).
-A imagem de referência é a localização real da história, não inspiração visual.
-
-Deve Manter Elementos Espaciais Originais
-
-Enorme plataforma de pedra em primeiro plano
-
-Corrimãos de pedra contínuos na borda
-
-Névoa baixa em grande escala além dos corrimãos
-Telhados densos da cidade antiga no plano médio
-Salão central
-Complexo palaciano distante em posição elevada
-Forte hierarquia de distância entre a cidade e o palácio distante
-Céu cinza-azulado frio e névoa baixa
-Luz quente vinda do palácio distante
-Escala macro: personagens minúsculos, cidade/palácio enormes
-Restrições Rígidas Principais
-O palácio mais distante deve permanecer sempre:
-Muito longe
-
-Visualmente muito grande
-
-Proibido puxar o palácio distante para trás dos personagens como portão próximo durante planos médios.
-Limitação do Local
-Toda a luta de 15s ocorre estritamente na:
-
-Enorme plataforma de pedra explicitamente presente na referência
-
-E áreas diretamente conectadas
-
-Proibido gerar:
-Pontes de pedra flutuantes
-
-Pontes de nuvens
-Portões independentes
-
-Ilhas
-Novos penhascos
-Novas entradas de palácio
-Novas escadas
-Novas plataformas de combate
-Qualquer grande edifício que altere a identidade do local
-Requisito de Continuidade Espacial
-Após cada corte, essas relações permanecem estáveis:
-Plataforma
-Corrimãos
-
-Camadas da cidade
-
-Edifícios centrais
-
-Palácio distante
-Skyline
-As ações/câmeras se adaptam à plataforma.
-Nunca mude a forma da plataforma para ações descritas no texto.
-Estado do Fundo
-O fundo vive naturalmente:
-Névoa baixa grande move-se lentamente entre as camadas da cidade
-Nuvens altas mudam naturalmente
-
-A luz quente do palácio distante é afetada pelo ar/névoa
-Cabelos/bainhas de seda movem-se com o vento da plataforma
-
-Profundidade do ar, reflexos, poucas figuras distantes micro-movem
-
-Apenas em eventos reais:
-
-Passos
-
-Colisão de armas
-Passagem rápida de roupas
-Permitir feedback local:
-Poeira de pedra menor
-Faíscas
-
-Deslocamento da bainha
-
-Estritamente Proibido
-Névoa escondendo subitamente inimigos
-Corrimãos quebrando
-
-Palácios mudando sozinhos
-
-Fundo ajudando qualquer lado a completar a virada
-Estrutura de Segmentos
-0–5s | Falso Duelo: Enganar o Público
-
-0.0–1.0s
-Use plano aberto fixo de 24mm.
-Deve manter:
-Enorme plataforma de pedra
-Profundidade total do palácio distante/cidade
-
-O público reconhece o mesmo local da referência.
-
-As mesmas irmãs sênior vestidas de branco e júnior vestidas de azul enfrentam-se a metros de distância.
-
-Área segura ao fundo tem:
-
-Alguns discípulos
-Espectadores comuns
-
-O mesmo mestre idoso
-
-Mas eles são apenas fundo.
-Diálogo
-
-Irmã júnior sussurra:
-
-"Eles vão cair mesmo?"
-
-Irmã sênior responde:
-
-"Engane-os primeiro."
-Quando a última palavra cai, ambas explodem simultaneamente sem aviso.
-A câmera entra em plano médio móvel de ~35mm vindo do plano aberto fixo.
-
-Primeira Rodada de Falso Duelo
-
-A primeira espada da irmã sênior é rápida o suficiente para parecer atingir a júnior
-A júnior roça a borda externa da espada até o último momento
-
-Então contra-ataca baixo com a espada de aço escuro
-A sênior gira para evitar
-
-As espadas prateada e de aço escuro têm a primeira colisão metálica real, muito breve e dura
-
-Requisitos Chave
-Nenhuma posa
-
-Reversão imediata para o próximo movimento após a colisão
-Mangas brancas largas varrem rapidamente a câmera, formando o primeiro corte oculto natural mal perceptível.
-Efeito Necessário
-Fazer o público duvidar:
-Elas estão atuando ou realmente lutando?
-5–10s | Virada da Camada 1: Inimigos Reais Aparecem
-
-Manter:
-Plataforma idêntica
-Cidade
-
-Escala do palácio distante
-
-Posse das espadas
-Use rastreamento lateral de 35–40mm, a luta se desenvolve horizontal/diagonal na plataforma em primeiro plano, sem novos locais.
-
-Ofensiva/Defensiva Contínua
-
-As irmãs completam uma sequência de alta velocidade, mas espacialmente clara:
-
-Sênior avança
-
-Júnior desvia
-
-Júnior imediatamente contra-desliza ao longo do lado exposto pela sênior
-Sênior abaixa-se sob a espada
-Cruzamento em alta velocidade, trocando posições originais
-Regras de Ação
-
-Todos os movimentos encadeiam naturalmente.
-Cada golpe anterior cria o próximo.
-Sem redefinir postura após um movimento.
-
-Primeiro Assassino Revelado
-Justamente quando as espadas cruzam <0.5s, um assassino funcional misturado na multidão distante rompe, atacando do ponto cego da sênior.
-
-Requisitos Chave
-Nunca pausar o falso duelo.
-A sênior percebe o perigo apenas via mudança breve nos olhos da júnior.
-A júnior continua balançando a espada como se atacasse a sênior.
-A sênior abaixa-se sob a espada da júnior no último momento.
-A espada da júnior varre o ombro, derrubando violentamente a arma do assassino que vem por trás.
-Este segundo deve fazer o público perceber:
-O duelo era isca.
-Segundo Assassino Revelado
-Quase sem respiração.
-O segundo assassino ataca a júnior pela frente oposta.
-
-A sênior usa a inércia rotacional do cruzamento, corta passando pelo ombro da júnior, uma breve colisão da espada prateada altera a trajetória do segundo assassino.
-
-Resultado
-O falso duelo converte-se naturalmente em uma luta real de quatro vias durante o movimento.
-
-Estritamente Proibido
-Qualquer um parando para explicar
-
-Assassinos na fila
-
-Mestre observando silenciosamente de longe
-10–15s | Virada da Camada 2: Sem Regras Entre Elas
-Dois assassinos mudam a estratégia após serem expostos.
-Aceleram de duas direções, tentando realmente separar as mulheres.
-
-Use plano móvel ligeiramente mais amplo.
-Mostre a relação posicional completa de quatro pessoas na enorme plataforma, o fundo ainda mostra a cidade antiga/palácio distante.
-Troca Cruzada Dupla
-
-As irmãs não recuam para fora.
-Avançam uma em direção à outra em alta velocidade.
-Linhas dos ombros roçam de perto em velocidade total, trocando instantaneamente frente/trás.
-O cruzamento deve ser fluido, sem costuras.
-No momento do roçar:
-
-A júnior assume o assassino atacando o ponto cego da sênior
-
-A sênior assume o assassino avançando contra a júnior
-
-Sem contato visual durante todo o processo.
-A arma de um assassino varre o quadro da câmera violentamente, formando o corte duro natural mais claro obscurecido pela arma.
-
-Corte para novo eixo reverso.
-Protagonistas totalmente trocadas.
-Movimentos Finais de Quebra
-Cada uma executa um contra-ataque reverso extremamente curto e direto.
-Estritamente Proibido
-
-Qi de espada gigante
-
-Giros bonitos
-
-Câmera lenta
-Resultados:
-
-A trajetória da arma de um assassino é alterada pela júnior, seu corpo desliza para fora devido à própria inércia
-O eixo de ataque do outro é alterado pela espada prateada da sênior, forçado para além do alcance ideal
-
-Ambos os assassinos vivos, apenas perderam a chance desta rodada.
-Corte de Som
-O som da batalha estreita subitamente.
-Somente:
-
-Respiração das quatro pessoas
-Vibração leve das espadas das duas protagonistas
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106642529160749056/img/ifDPxtnGu3ym2xT4.jpg" width="600" alt="Prompt de Ação: Armadilha do Falso Duelo Seedance 2.0">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11922)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2106643465094431201) | **Publicado:** Oct 4, 2026
-
----
-### Prompt de Batalha no Corredor do Guerreiro Sci-Fi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para uma cena de ação cinematográfica ultra-realista de ficção científica, com um guerreiro correndo por um corredor industrial empunhando uma lâmina de energia.
-
-#### 📝 Prompt
-
-```
-Cena de ação cinematográfica ultra-realista de ficção científica, um guerreiro poderoso vestindo um traje futurista fluido bege correndo por um enorme corredor industrial enquanto empunha uma lâmina de energia azul brilhante, dois inimigos blindados se aproximando à frente, ângulo de câmera dramático e inclinado, movimento intenso, dinâmica fluida, detalhes realistas do tecido, arquitetura metálica futurista, iluminação atmosférica, sombras volumétricas, profundidade de campo cinematográfica, alto contraste, fotorrealismo, 8K, estética épica de filme de Hollywood de sci-fi, lente de 35mm, composição vertical 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106610479351365632/img/ZHmFCfa_f0mlJa67.jpg" width="600" alt="Prompt de Batalha no Corredor do Guerreiro Sci-Fi">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11851)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2106610541636837770) | **Publicado:** Oct 4, 2026
-
----
-### Prompt de Vídeo Fantasia: Tricotando o Céu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para um vídeo de 15 segundos onde uma senhora tricota um cachecol que se transforma no céu noturno, gerado com Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Tricotando o Céu
-0–5s: Uma senhora idosa de cabelos prateados está sentada sozinha em uma cadeira de balanço de madeira ao lado de uma janela aberta à noite, tricotando com duas agulhas de madeira. Um longo cachecol azul-escuro cai do seu colo pelo chão de madeira. Luz âmbar quente da lampada, sombras suaves. Plano médio.
-5–10s: O espectador se aproxima das mãos dela e do cachecol, e o fio escuro revela pequenas estrelas brilhantes e galáxias girando lentamente tecidas nos pontos. Uma estrela prende na ponta da agulha e brilha. Seu rosto suaviza-se em um sorriso quieto. Close-up.
-10–15s: Ela finaliza o último ponto e lança gentilmente o cachecol pela janela aberta, onde ele se desenrola para cima sobre os telhados e se torna o verdadeiro céu noturno, com as estrelas se acomodando em seus lugares. Plano aberto de fora da casa olhando para cima, com o brilho quente da janela abaixo e o céu azul profundo acima.
-Negative Prompt: dedos extras, mãos extras, mãos deformadas, dedos fundidos, mais de duas agulhas de tricô, agulhas derretendo, fio distorcido, segunda mulher, pessoa duplicada, criança, móveis modernos, televisão, telefone, iluminação branca forte, cores neon, estilo cartoon, estilo anime, pele plástica, rosto distorcido, tremulação, artefatos de glitch, texto, marca d'água, logo, tremor rápido da câmera, câmera lenta, cachecol solidificando, rosto brilhante, excesso de brilhos, spam de lens flare, fogos de artifício, céu diurno
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106558771078029312/img/hZPtgXieC5nDSGJi.jpg" width="600" alt="Prompt de Vídeo Fantasia: Tricotando o Céu">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11848)**
-
-**Autor:** [DeCat](https://x.com/DeCat2025) | **Fonte:** [Link](https://x.com/DeCat2025/status/2106559472432795987) | **Publicado:** Oct 4, 2026
-
----
-### Prompt de Vídeo de Transformação de Limpeza em Estilo Anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar um vídeo vertical de 15 segundos em estilo anime, mostrando uma transformação satisfatória na limpeza de uma palmilha suja de sapato usando espuma spray e esfregão.
-
-#### 📝 Prompt
-
-```
-Curta-metragem japonês 2D estilo anime, vertical 9:16, 15 segundos, transformação satisfatória de limpeza. Aparência de animação cel desenhada à mão, contornos pretos limpos, cores vívidas, sombreamento suave tipo cel, edição estilo mangá com linhas de velocidade, pontos de screentone meio-tom, efeitos de brilho e flashes brancos de impacto. Produção de anime com qualidade de estúdio, movimento fluido, 24fps. Sujeito: uma palmilha de sapato desgastada e suja (manchas marrom-douradas, impressão de pegada) sobre uma bancada de aço escovado, filmada diretamente de cima. Uma mão em estilo anime (sem rosto, sem corpo, apenas mão e antebraço visíveis) segura um pequeno frasco de spray preto com tampa verde. Fundo prateado frio com luz suave de janela e pequenas gotas d'água. Cena 1: Plano superior fixo, 3 segundos. A palmilha suja está sobre a bancada de aço, uma mão a pressiona contra a superfície. Partículas de poeira flutuam, vinheta sutil de meio-tom nos cantos, finas linhas de velocidade entram pelas bordas. Cena 2: Close-up superior, 3 segundos. O frasco de spray libera uma névoa fina sobre a palmilha, uma espuma branca espessa explode para fora e se espalha pela superfície, bolhas capturando brilhos. Um flash branco de impacto de um único quadro com linhas de tinta radiais no primeiro jato de espuma. Cena 3: Plano superior apertado, 3 segundos. A mão esfrega a espuma em movimentos circulares, a sujeira marrom-dourada se dissolve na espuma branca e corre para as bordas em redemoinhos curvos que lembram tinta. Linhas de movimento dinâmicas seguem a mão. Cena 4: Plano superior, 3 segundos. Um enxágue com água clara lava a espuma, a palmilha é virada em um movimento rápido de chicote, revelando uma superfície branca brilhante e limpa. Brilhos cintilantes e riscos de luz surgem sobre ela. Cena 5: Push-in lento de cima, 3 segundos. A palmilha branca impecável brilha sobre a bancada de aço, a mão coloca o frasco no canto. Explosão final de brilho, luz suave e luminosa, vinheta de screentone estilo mangá, mantida no último momento como uma capa de mangá. Áudio: chiado nítido do spray, crepitar da espuma efervescente, esfregar rítmico, água corrente, um sino de brilho claro em cada efeito de luz, batida lo-fi japonesa suave e alegre ao fundo. Sem fala, sem canto. Evitar: rostos, aparência realista live-action, renderização 3D, texto, legendas, logotipos, nomes de marcas, dedos extras, mãos deformadas, flicker. Curta-metragem japonês 2D estilo anime, vertical 9:16, 15 segundos, transformação satisfatória de limpeza, plano superior. Uma mão em estilo anime (sem rosto) aplica espuma sobre uma palmilha de sapato marrom suja em uma bancada de aço inoxidável, esfrega a espuma em círculos, enxágua e a palmilha fica branca brilhante e limpa com efeitos de brilho. Linhas de velocidade estilo mangá, pontos de meio-tom e um flash branco de impacto no primeiro jato de espuma. Áudio: chiado do spray, crepitar da espuma, esfregar, água, sinos de brilho leves, batida lo-fi suave. Sem rostos, sem texto, sem logotipos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106554700040679424/img/6e1kkIefx27oeGQA.jpg" width="600" alt="Prompt de Vídeo de Transformação de Limpeza em Estilo Anime">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11847)**
-
-**Autor:** [Nadya](https://x.com/nadyamaje) | **Fonte:** [Link](https://x.com/nadyamaje/status/2106554883235356947) | **Publicado:** Oct 4, 2026
-
----
-### Projeção de Cinema com Efeito Bleach Bypass
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para geração de texto-vídeo apresentando um projetista idoso em um cinema demolido, estilizado com processamento de filme bleach-bypass e instruções cinematográficas específicas.
-
-#### 📝 Prompt
-
-```
-Dentro de um cinema de bairro abandonado sendo demolido, um projetista idoso está sozinho no meio do auditório arruinado assistindo ao último filme antes que o prédio desapareça. Fileiras de assentos de veludo empoeirados o cercam, seções do teto estão faltando, a luz do dia entra por um grande buraco na parede, máquinas de construção visíveis do lado de fora. O projetor continua funcionando, seu feixe cortando espessas nuvens de poeira. A câmera viaja lentamente da entrada arruinada pelo corredor em direção ao projetista, depois circula atrás dele para revelar a imagem projetada na tela danificada. Cinematografia realista live-action, processamento de filme bleach-bypass, bordô desbotado e dourado reduzidos quase a cinza, pretos profundos, destaques prateados brilhantes, contraste severo, granulação pesada de 35mm, riscos sutis e variação de exposição, emocionalmente contido, sem melodrama.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106514798942752768/img/wF54JkcWicweR581.jpg" width="600" alt="Projeção de Cinema com Efeito Bleach Bypass">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11916)**
-
-**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fonte:** [Link](https://x.com/AllaAisling/status/2106515375559217226) | **Publicado:** Oct 3, 2026
-
----
-### Prompt de Combate Wuxia Seedance 2.0 Mini
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt detalhado para gerar uma cena de batalha wuxia de alta tensão entre duas cultivadoras de espada femininas usando o Seedance 2.0 Mini, focando em movimentos táticos sincronizados e continuidade cinematográfica.
-
-#### 📝 Prompt
-
-```
-Textura fotorealista cinematográfica, combate duplo de alta tensão Xianxia chinês antigo puro.
-
-Desta vez, quebre completamente os modos anteriores:
-
-Trocas constantes de armas
-Quebra do combate individual
-
-O núcleo passa a ser:
-As duas protagonistas são elas mesmas um sistema tático duplo em movimento contínuo.
-Uma absorve a pressão da frente
-
-A outra muda a situação pela lateral
-Imediatamente trocam de papéis no segundo seguinte
-A verdadeira emoção não está na qi de espada chamativa, mas no fato de que as duas protagonistas quase não precisam se virar para confirmar, podendo cobrir constantemente os pontos cegos uma da outra, formando uma compreensão tácita e tensão cada vez mais fortes.
-
-Bloqueio de Personagens e Ativos
-
-Bloqueie estritamente apenas @image 1 e @image 2 como os dois personagens centrais.
-
-@image 1 | Irmã Sênior Imortal da Espada
-
-A Irmã Sênior Imortal da Espada da Imagem 1 sempre mantém o original:
-
-Identidade feminina adulta do Leste Asiático
-Rosto
-
-Cabelo preto longo meio preso
-Pente de cabelo de jade branco
-Proporção alta e esbelta
-Hanfu de seda branca bordada
-Mangas largas em camadas semitransparentes
-Selo de cintura prateado
-Pingente de jade
-Botas de tecido branco
-Apenas uma espada reta prateada
-@image 2 | Irmã Júnior
-A Irmã Júnior da Imagem 2 sempre mantém o original:
-
-Identidade feminina adulta do Leste Asiático
-Rosto
-
-Cabelo preto trançado
-Hanfu de linho verde
-Cinto escuro
-Pente de cabelo de madeira
-Sapatos de tecido preto
-Apenas uma espada de aço escuro
-Outros Personagens
-Inimigos, Mestre e Passantes são todos personagens funcionais apenas, sem necessidade de bloqueio complexo de rosto ou roupa.
-
-DNA do Ambiente
-Todas as imagens de fundo e referência de local enviadas nesta rodada determinam conjuntamente o mesmo conjunto de DNA do Ambiente.
-
-Antes da geração formal, analise silenciosamente os elementos compatíveis entre eles:
-
-Terreno
-
-Arquitetura
-
-Diferenças de altura
-
-Escala espacial
-Idade dos materiais
-Vegetação
-Corpos d'água
-Clima
-Névoa das montanhas
-Iluminação
-Reflexos
-Profundidade do ar
-Rotas transitáveis pelos personagens
-Depois recombinem em um novo espaço único, mas crível, para esta rodada.
-Princípios de Espaço e Rota
-Os 15 segundos inteiros devem ocorrer em uma rota de combate contínua e compreensível, não pode mudar subitamente para outro mundo.
-
-O fundo permanece dinamicamente ativo, mas narrativamente neutro:
-
-Vento
-
-Água
-
-Névoa
-
-Folhas
-
-Bainhas das roupas
-Reflexos
-Figuras distantes
-Sempre naturalmente ativos.
-Somente quando os personagens realmente:
-Pisam
-Colidem
-
-Roçam
-
-Armas tocando o ambiente
-
-É que aparecem:
-Poeira
-Ondulações
-Detritos
-
-Arranhões
-
-Deslocamento das roupas
-etc. feedback físico passivo.
-Estritamente Proibido
-Ponte quebrando subitamente
-Névoa salvando pessoas subitamente
-
-Árvore bloqueando espada subitamente
-
-Edifício desmoronando sozinho para ajudar qualquer lado
-Estrutura Segmentada
-0–5s | Plano aberto entrando em plano médio
-A mesma Irmã Sênior Imortal da Espada vestida de branco e a mesma Irmã Júnior vestida de verde estão de costas uma para a outra.
-Três espadachins inimigos que só têm função de combate avançam ativamente de direções diferentes.
-0–1s
-
-Use panorama fixo de 24mm, deixando o público entender de imediato:
-
-Posições das cinco pessoas
-
-Direções de ataque
-
-Espaço disponível para movimento em seguida
-A Irmã Júnior baixa a voz, diz apenas uma linha:
-
-"Desta vez, não se vire para me salvar."
-A Irmã Sênior nunca se vira durante todo o tempo, responde calmamente:
-
-"Certo."
-Assim que a última palavra cai, os inimigos lançam ataques simultaneamente sem aviso.
-A câmera move-se rapidamente de 24mm fixo para movimento de close médio de 35mm, mas não treme aleatoriamente, sendo trazida pelas linhas de movimento reais dos personagens.
-
-Primeiro Engajamento
-
-Um inimigo ataca a Irmã Sênior por cima
-
-Outro inimigo corta para o lado cego da Irmã Júnior simultaneamente
-
-As duas mulheres explodem em direções opostas quase instantaneamente:
-
-A Irmã Sênior brevemente muda a linha de ataque da primeira espada e então avança diretamente a posição
-
-A Irmã Júnior abaixa o centro de gravidade roçando o segundo ataque, contra-ataca apenas o caminho da arma do inimigo, não para para posar
-
-Duas imediatamente começam a migrar para frente ao longo de rotas que realmente existem no ambiente de referência.
-Um corpo de inimigo passando em primeiro plano em alta velocidade preenche brevemente a lente, usando essa oclusão real para completar o primeiro corte oculto, o público mal sente que a posição da câmera mudou.
-5–10s | Seguida contínua em plano médio
-Mantenha:
-
-Mesmo espaço
-Mesmas duas protagonistas
-
-Mesma propriedade das armas
-
-Os inimigos absolutamente não podem formar fila para enviar golpes, eles continuamente:
-
-Perseguem
-
-Cercam
-
-Interceptam
-Neste momento:
-A Irmã Sênior suporta pressão contínua de dois inimigos
-A Irmã Júnior enfrenta outro inimigo
-
-Não pode dividir a tela em "duas lutando separadamente", deve deixar as duas linhas de combate entrelaçarem-se constantemente.
-
-Primeiro Complemento Tático
-A Irmã Sênior deliberadamente cede meio passo, trazendo um inimigo perseguidor para a linha de ataque avançante da Irmã Júnior.
-A Irmã Júnior não olha para a Irmã Sênior de forma alguma, apenas no instante em que a ponta da espada do inimigo entra realmente em seu espaço, ela brevemente agarra e muda a direção da arma com a espada de aço escuro, imediatamente solta, continua lidando com a pessoa à frente.
-
-Segundo Complemento Tático
-Menos de um segundo depois, exatamente o oposto acontece novamente.
-Outro inimigo lança um ataque verdadeiro por trás da Irmã Júnior.
-A mesma Imortal da Espada vestida de branco nem sequer se vira, a ponta da espada prateada entra do outro lado do quadro em alta velocidade, usa apenas um impacto metálico extremamente curto para empurrar aquela espada para fora da linha perigosa atrás da Irmã Júnior, então a espada prateada imediatamente sai do quadro, a Irmã Sênior continua sua própria luta.
-
-Estado Central
-
-As duas nunca confirmam as posições uma da outra, ainda assim sabem precisamente onde a outra está.
-A câmera desliza suavemente entre primeiro e segundo plano, utilizando os seguintes elementos varrendo a lente em alta velocidade para formar 2-3 transições ocultas extremamente naturais:
-
-Ombros dos inimigos
-
-Mangas brancas largas
-Bainhas de roupas verdes
-
-Armas
-Requisitos de Ritmo
-O ritmo da ação não é uma velocidade única do início ao fim, mas:
-Duas trocas rápidas
-
-Uma colisão de arma verdadeiramente ponderada
-
-Meio compasso de silêncio
-Então explosão súbita
-O mesmo Mestre mais velho permanece na zona segura distante observando, não age do início ao fim, não resolve problemas para ninguém.
-10–15s | Close entrando em plano médio final mais amplo
-
-Os três inimigos descobrem que a perseguição única é ineficaz, pela primeira vez mudam a estratégia simultaneamente, comprimindo o espaço de três direções, forçando a Irmã Sênior e a Irmã Júnior para a mesma área central.
-Formam um impasse óbvio.
-
-As duas não continuam recuando.
-A mesma Imortal da Espada vestida de branco e a mesma Irmã Júnior vestida de verde subitamente explodem em corrida uma em direção à outra simultaneamente.
-A câmera não corta imediatamente, deixa o público ver totalmente:
-As duas linhas dos ombros roçam em alta velocidade, os corpos cruzam um pelo outro com distância mínima.
-No momento do cruzamento, as duas trocam completamente as posições frente-trás.
-E nenhuma olha para a outra.
-
-Virada Tática Após a Troca
-
-A Irmã Sênior enquanto passa pela Irmã Júnior, diretamente assume o inimigo que originalmente atacava o lado cego da Irmã Júnior
-
-A Irmã Júnior simultaneamente corta para a linha do inimigo que originalmente perseguia a Irmã Sênior
-
-Uma espada longa de um inimigo varre toda a câmera em alta velocidade, formando apenas um corte duro de oclusão de arma óbvio.
-
-Corta para um novo eixo reverso:
-
-A Irmã Sênior agora está na posição que a Irmã Júnior acabou de deixar
-
-A Irmã Júnior também está na posição que a Irmã Sênior acabou de deixar
-
-Ambas imediatamente completam duas quebras reversas extremamente curtas, extremamente diretas, sem rotação exibicionista:
-A ponta da espada prateada para com segurança a um dedo de largura antes do queixo de um inimigo
-
-A espada de aço escuro simultaneamente para com segurança fora do pulso empunhando a espada de outro inimigo
-O terceiro inimigo prepara-se para golpear novamente, mas descobre que ambas as linhas de ataque eficazes estão completamente bloqueadas pela posição do companheiro, só podendo forçar a retirada.
-
-Momento de Parada Súbita
-Previamente denso:
-Sons de assobio
-
-Colisões metálicas
-
-Sons de deslizamento das solas dos sapatos
-
-Colapso neste momento.
-Deixando apenas:
-
-Respiração verdadeira das duas mulheres
-
-Vibração residual extremamente leve das espadas
-Bainhas de roupas de seda gradualmente caindo
-
-A Irmã Sênior ainda olhando para o inimigo à frente, pergunta sem virar a cabeça:
-
-"Ainda vivo?"
-A Irmã Júnior pausa quase nenhuma:
-
-"Mais fácil que você."
-Canto da boca da Irmã Sênior mostra apenas uma dica extremamente breve, extremamente leve de sorriso.
-O mesmo Mestre distante finalmente exala levemente o fôlego que segurou durante todo o tempo, mas não prega, não explica a relação entre as duas.
-
-Estado Final
-
-Após a vitória confirmada, absolutamente nenhuma pose de vitória.
-
-As duas mulheres baixam as pontas das espadas simultaneamente, mantêm o ritmo original continuando para frente através do mesmo espaço; os três inimigos instintivamente cedem o caminho.
-Cabelos, bainhas das roupas, vento ambiental, névoa d'água, detritos continuam o movimento natural, a imagem termina diretamente enquanto os personagens ainda estão se movendo para frente.
-Requisitos de Câmera e Edição
-
-Duração total estrita de 15 segundos
-
-16:9 paisagem
-
-Mantenha 0–5s / 5–10s / 10–15s três segmentos narrativos claros
-
-Visualmente dominado por um caminho de câmera contínuo e sedoso
-
-Todo o filme permite apenas cerca de 4-5 cortes ocultos ou cortes realmente disparados por impactos
-
-Proíba cortes fragmentados loucos para "sensação de ação"
-
-Foco de Execução do Seedance 2.0 Mini
-Para o Seedance 2.0 Mini, controle ativamente o orçamento do prompt.
-
-O mais importante é:
-
-Imagem 1, Imagem 2 identidades dos dois protagonistas estáveis
-
-Propriedade das duas espadas estável
-
-Mãos e corpos contínuos
-
-Relação espacial das duas pessoas contínua
-Rota do ambiente central contínua
-Os três inimigos só precisam manter:
-Espadachins inimigos estilo antigo
-Aparência funcional básica
-Isso é suficiente, não desperdice a atenção do modelo bloqueando estritamente rostos, roupas e detalhes.
-
-Requisitos de Som e Movimento
-
-Diálogo nativo sincronizado em mandarim
-
-Efeitos de áudio espacial nativos sincronizados
-
-Fortalecimento do foco:
-
-Assobio breve da ponta da espada
-Colisões metálicas reais
-Fricção das solas dos sapatos
-Tremor das bainhas das roupas de seda
-Respiração verdadeira dos personagens
-
-Contraste sonoro de quietude súbita final
-
-Textura de Movimento
-Textura de movimento cinematográfico de 24fps
-
-Desfoque de movimento natural
-
-As ações devem ter claramente:
-Início
-Aceleração
-Aplicação de força
-Mudança de linha
-Inércia
-Freio
-
-Estritamente Proibido
-Teletransporte
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106386731285245952/img/oyhTyHCArGSxRsNP.jpg" width="600" alt="Prompt de Combate Wuxia Seedance 2.0 Mini">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11852)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2106388571863253309) | **Publicado:** Oct 3, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -4771,6 +3931,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-26T03:43:52.740Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-26T10:00:52.712Z</sub>
 
 </div>

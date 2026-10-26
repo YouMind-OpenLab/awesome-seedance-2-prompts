@@ -68,7 +68,7 @@ ByteDance के Seedance 2.0 के लिए उच्च गुणवत्�
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **6591** |
+| 📝 कुल प्रॉम्पट्स | **6598** |
 | ⭐ विशेष प्रॉम्पट्स | **6** |
 | 🔄 अंतिम अपडेट | **2026-10-26** |
 
@@ -361,6 +361,257 @@ Seedance 2.0 का उपयोग करके रात में सिन�
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### सिनेमैटिक लक्जरी कार वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक उच्च-अंत ऑटोमोबाइल विज्ञापन वीडियो जनरेट करने के लिए एक प्रॉम्प्ट, जिसमें गोल्डन आवर में शहर से होकर गुजरती एक स्लीक कार दिखाई गई है।
+
+#### 📝 प्रॉम्पट
+
+```
+एक सिनेमैटिक लक्ज़री कार वीडियो बनाएं, जिसमें एक स्लीक और प्रीमियम वाहन गोल्डन आवर के दौरान किसी खूबसूरत शहर से गुज़र रही हो। इसमें स्मूथ ट्रैकिंग शॉट्स, ड्रामेटिक लाइटिंग, ग्लॉसी रिफ्लेक्शन्स, स्टाइलिश कैमरा मूवमेंट्स, रियलिस्टिक डिटेल्स और एक लग्ज़रियस माहौल का इस्तेमाल करें। साथ ही स्लो-मोशन मोमेंट्स, शैलो डेप्थ ऑफ फील्ड और अल्ट्रा-रियलिस्टिक 4K क्वालिटी जोड़ें। वीडियो को इतना एलिगेंट, पावरफुल और प्रोफेशनल बनाएं कि वह किसी हाई-एंड ऑटोमोबाइल विज्ञापन जैसा लगे।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114590476737351680/img/kQI-v6EFDOPArwLi.jpg" width="600" alt="सिनेमैटिक लक्जरी कार वीडियो प्रॉम्प्ट">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=13046)**
+
+**लेखक:** [AIwithMinal](https://x.com/AIwithMinal) | **स्रोत:** [Link](https://x.com/AIwithMinal/status/2114590512208638086) | **प्रकाशित:** Oct 26, 2026
+
+---
+### गोल्डन आवर स्ट्रीट एन्काउंटर
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> गोल्डन आवर में एक आवासीय सड़क पर एक महिला और स्कूटर चालक के बीच मुलाकात को दर्शाने वाले सिनेमाई वीडियो बनाने के लिए प्रॉम्प्ट।
+
+#### 📝 प्रॉम्पट
+
+```
+गोल्डन आवर की गर्म सुनहरी रोशनी में, एक शांत रिहायशी सड़क पर 30 सेकंड का अल्ट्रा-रियलिस्टिक सिनेमैटिक वीडियो बनाएं। हल्के नीले रंग के छोटे बालों वाली एक खूबसूरत युवती सफेद मिनी ड्रेस, हल्का नीला कार्डिगन और सफेद स्नीकर्स पहने कैमरे की ओर चल रही है। अचानक उसकी नज़र किसी चीज़ पर पड़ती है, वह मुड़ती है और सड़क पर पड़ी एक छोटी सी वस्तु की तरफ दौड़ लगा देती है। इसी दौरान, पीले इलेक्ट्रिक स्कूटर चला रहे एक युवक के पास पहुँचकर उसका संतुलन बिगड़ जाता है। लाल स्वेटशर्ट और काली पैंट पहने वह शख्स जैसे ही महिला को अपनी तरफ आते देखता है, तुरंत अपना स्कूटर रोक देता है। लेकिन उसका भी संतुलन बिगड़ जाता है और वह सड़क पर गिर पड़ता है, जबकि उसका स्कूटर बगल में एक तरफ लुढ़क जाता है। महिला चिंता भरी नज़रों से उसके सामने रुक जाती है, जबकि वह उठने की कोशिश करता है और ज़मीन से अपना स्कूटर उठाता है। वह खड़ा होता है, स्कूटर को संभालता है और महिला की तरफ देखता है, जो उसे बड़े इत्मीनान से देख रही होती है। फिर वह मुड़ती है और चेहरे पर सुकून भरे भाव लिए सड़क पर कैमरे की दिशा में चल देती है। एक बेहतरीन और बिल्कुल असली लगने वाले फ़िल्मी अनुभव के लिए स्मूथ सिनेमैटिक कैमरा ट्रैकिंग, यथार्थवादी शारीरिक हरकतें, स्वाभाविक चेहरे के हाव-भाव, कपड़ों की बारीक टेक्सचर, गर्म धूप, हल्की छाया और शैलो डेप्थ ऑफ फील्ड (shallow depth of field) का इस्तेमाल करें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114561073164800000/img/1oWqWOdW3ql0CX1u.jpg" width="600" alt="गोल्डन आवर स्ट्रीट एन्काउंटर">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=13044)**
+
+**लेखक:** [Maha](https://x.com/Aiwithmaha) | **स्रोत:** [Link](https://x.com/Aiwithmaha/status/2114561253398261881) | **प्रकाशित:** Oct 26, 2026
+
+---
+### Seedance 2.0 किचन व्लॉग प्रॉम्प्ट: किरदार की निरंतरता के साथ
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 का उपयोग करके 10 सेकंड की वर्टिकल किचन व्लॉग वीडियो बनाने के लिए एक विस्तृत प्रॉम्प्ट। यह शॉट्स के बीच किरदार की निरंतरता, प्रॉप्स का उपयोग (फूड टोंग्स/स्पैटुला), लाइटिंग की स्थितियां और कैमरा मूवमेंट को निर्दिष्ट करता है ताकि एक यथार्थवादी होम-स्टाइल शॉर्ट वीडियो बनाया जा सके।
+
+#### 📝 प्रॉम्पट
+
+```
+कैरेक्टर:
+चेहरा: दिखावट, नैन-नक्श, हेयरस्टाइल, बालों का रंग और मेकअप पूरी तरह से हेडशॉट रेफरेंस इमेज के अनुसार होना चाहिए।
+कपड़े और शरीर: आउटफिट, एक्सेसरीज़ और शरीर के अनुपात पूरी तरह से क्रीम-व्हाइट बटरफ्लाई ड्रेस रेफरेंस इमेज (ऑफ़-शोल्डर क्रीम ड्रेस + बटरफ्लाई हेयर एक्सेसरी) के अनुसार हों; शॉट 2 का बैक व्यू फ्रंट व्यू वाले आउटफिट से मेल खाना चाहिए।
+एकरूपता: चारों शॉट्स में एक ही व्यक्ति; चेहरा और कपड़े पूरे वीडियो में एक जैसे रहने चाहिए, कट के बाद कोई बदलाव नहीं; शॉट 2 में शीशे का प्रतिबिंब भी उसी व्यक्ति और उसी आउटफिट का होना चाहिए।
+
+प्रॉप्स:
+शॉट 1: किचन में इस्तेमाल होने वाला एक जोड़ा काला फूड टॉन्ग्स।
+शॉट 4: एक काला स्पैटुला।
+
+सीन:
+एक घर का किचन जो दरवाज़े के ज़रिए लिविंग रूम से जुड़ा हुआ है।
+
+किचन: सफेद मार्बल टेक्सचर वाली टाइल्स की दीवारें, कड़ाही रखी हुई काला स्टोव, मसालों की बोतलें, काउंटर पर नाइफ ब्लॉक; सफेद किचन का दरवाज़ा, छत के पास लटकती लाल लालटेनें।
+लिविंग रूम: हल्के रंग की लकड़ी का फ्लोर, दरवाज़े के पीछे फुल-लेंथ मिरर, फर्श पर एक काली बिल्ली।
+
+लाइटिंग:
+घर के अंदर की प्राकृतिक दिन की रोशनी, कोमल और समान रूप से फैली हुई, ठंडा सफेद-धूसर टोन, साफ़ और पारदर्शी।
+
+स्टोरीबोर्ड
+शॉट 1 | 0.00–3.27s | वाइड-एंगल क्लोज़-अप, फूड टॉन्ग्स पकड़कर कैमरे के साथ इंटरैक्ट करते हुए
+
+कैमरा पोज़िशन: फोन सब्जेक्ट के बहुत करीब, थोड़ा ऊपर से एंगल, वाइड लेंस, चेहरे और ऊपरी शरीर को फ्रेम करता हुआ, बैकग्राउंड में टाइल वाली दीवार, सफेद दरवाज़ा, स्टोव पर रखा काला कड़ाही दिख रहा है।
+0.00–0.60s: सब्जेक्ट हल्की मुस्कान के साथ नीचे देखता है; बायां हाथ फ्रेम के निचले-बाएं हिस्से में काले फूड टॉन्ग्स को पकड़े हुए है।
+0.60–1.00s: सब्जेक्ट कैमरे की तरफ देखने के लिए सिर उठाता है, कैमरा थोड़ा और करीब आता है।
+1.00–1.60s: सब्जेक्ट कैमरे की तरफ देखता है, होंठों के कोने ऊपर उठते हैं, फूड टॉन्ग्स फ्रेम के बाएं किनारे की ओर जाते हैं।
+1.60–2.00s: सब्जेक्ट फूड टॉन्ग्स को कैमरे की तरफ बढ़ाता है, टॉन्ग्स के सिरे बाएं फोरग्राउंड में बोकेह इफेक्ट के साथ दिखाई देते हैं।
+2.00–2.60s: सब्जेक्ट कैमरे के सामने फूड टॉन्ग्स को कई बार खोलता और बंद करता है, आंखें थोड़ी सिकुड़ती हैं, शरारती मुस्कान।
+2.60–3.27s: फूड टॉन्ग्स बाईं ओर वापस आते हैं, सब्जेक्ट कैमरे की तरफ मुस्कुराता है, हरकतें बेहद सलीकेदार और संयत। 3.27s पर 0.3s का क्रॉसफेड ट्रांज़िशन।
+
+शॉट 2 | 3.27–4.70s | फुल-लेंथ मिरर सीन, पहले कैमरे की तरफ पीठ और फिर घूमना
+
+कैमरा पोज़िशन: सब्जेक्ट के पीछे थोड़ा दाईं ओर, आई-लेवल, मीडियम शॉट। बायां आधा हिस्सा शीशे में सामने का प्रतिबिंब दिखाता है, दायां आधा हिस्सा सब्जेक्ट की पीठ दिखाता है; लकड़ी के फर्श पर काली बिल्ली।
+3.27–4.00s: सब्जेक्ट शीशे की तरफ मुंह करके कैमरे की ओर पीठ किए खड़ा है, एक हाथ कमर पर, दूसरा शीशे के किनारे को छू रहा है; प्रतिबिंब खुद को देख रहा है।
+4.00–4.20s: सब्जेक्ट कैमरे की तरफ देखने के लिए कंधे के ऊपर से सिर घुमाता है।
+4.20–4.70s: सब्जेक्ट शांत भाव के साथ सीधे कैमरे की तरफ मुंह करता है; प्रतिबिंब प्रोफाइल की तरफ मुड़ता है, हरकतें सलीकेदार। 4.70s पर 0.3s का क्रॉसफेड ट्रांज़िशन।
+
+शॉट 3 | 4.70–5.50s | स्टोव के पास खड़े होने का हाई-एंगल ओवरहेड शॉट
+
+कैमरा पोज़िशन: किचन के ऊपरी कोने से नीचे की तरफ पूरा शरीर दिखता हुआ, वाइड लेंस काला स्टोव, कड़ाही, मसाले, सफेद दरवाज़ा दिखा रहा है।
+4.70–5.50s: सब्जेक्ट हाथ पीछे बांधे स्टोव के पास खड़ा है, कैमरे की तरफ देखकर मुस्कुराता है, शरीर हल्का सा झूलता है, हरकतें सलीकेदार। 5.50s पर 0.3s का क्रॉसफेड ट्रांज़िशन।
+
+शॉट 4 | 5.50–10.00s | स्पैटुला पकड़े हुए, चेहरे के भावों का क्लोज़-अप
+
+कैमरा पोज़िशन: फोन सब्जेक्ट के करीब, थोड़ा ऊपर से एंगल, वाइड लेंस छाती से ऊपर तक को फ्रेम करता हुआ। बैकग्राउंड में सफेद दरवाज़ा, हैंडल, मार्बल टाइल्स, काला कड़ाही, लाल लालटेनें दिख रही हैं।
+5.50–6.00s: सब्जेक्ट सिर ऊपर करके कंधे की ऊंचाई पर काला स्पैटुला पकड़े हुए है, कैमरे की तरफ मुस्कुरा रहा है।
+6.00–8.00s: सब्जेक्ट मुस्कुराते हुए 'Is this spatula easy to use?' डायलॉग बोलता है।
+8.00–8.40s: सब्जेक्ट कैमरे की तरफ देखते हुए भौंहें उठाता है, होंठों के कोने स्वाभाविक रूप से ऊपर उठते हैं।
+8.40–10.00s: सब्जेक्ट कैमरे की तरफ देखते हुए एक गर्मजोशी भरी, सहज मुस्कान बनाए रखता है, स्पैटुला कंधे के पास पकड़ा हुआ है, अंत के फ्रीज़-फ्रेम तक मुस्कान बनी रहती है। ट्रांज़िशन स्मूथ और लगातार, कोई फ्रेम स्किप या अचानक पोज़ में बदलाव नहीं।
+
+स्टाइल:
+TikTok/Xiaohongshu होम व्लॉग स्टाइल, फोन के वाइड-एंगल ओरिजिनल कैमरे की क्वालिटी, ब्यूटी फिल्टर/स्किन स्मूदिंग लागू, गोरी और पारदर्शी त्वचा। प्राकृतिक दिन की रोशनी, ठंडा सफेद टोन, फोटोरियलिस्टिक, HD, जीवंत और स्वाभाविक हाव-भाव; कुल मिलाकर सलीकेदार और संयत, धीमी और तरल हरकतें, न तो अतिरंजित और न ही जल्दबाजी वाली।
+
+ऑडियो:
+लगातार चलता उत्साहवर्धक संगीत (यूकेलेले/एकॉर्डियन ब्राइट इंस्ट्रूमेंटल), कट्स पर बिना किसी रुकावट के क्रॉसफेड। शॉट 4 में, साफ़ और स्वाभाविक आवाज़ में 'Is this spatula easy to use?' कहा जाता है, संगीत की आवाज़ कम कर दी जाती है लेकिन यह आवाज़ पर हावी नहीं होती। इस डायलॉग के अलावा कोई अन्य इंसानी आवाज़, चीख, हंसी या अजीब आवाज़ें नहीं।
+
+पैरामीटर्स:
+9:16 वर्टिकल स्क्रीन, 10.00 सेकंड, 30fps, फोटोरियलिस्टिक, 4 शॉट्स।
+
+नेगेटिव प्रॉम्प्ट: फेस स्वैप, कपड़ों में बदलाव, कट्स के बाद कैरेक्टर की दिखावट में बदलाव, शीशे का प्रतिबिंब असली व्यक्ति से मेल न खाना, प्रतिबिंब का किसी और व्यक्ति में बदल जाना, बिगड़े हुए नैन-नक्श, त्योरी चढ़ाना, उदास चेहरा, सिकुड़े हुए होंठ, विकृत उंगलियां, विकृत फूड टॉन्ग्स/स्पैटुला, अतिरिक्त हाथ, गंभीर वाइड-एंगल डिस्टॉर्शन, फ्लिकरिंग, लो रिज़ॉल्यूशन, वॉटरमार्क, सबटाइटल, फ्रेम स्किपिंग, अचानक मोशन जंप, पोज़ में अचानक बदलाव, अजीब इंसानी आवाज़ें, चीखें, बिना कारण की हंसी
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114557197678182400/img/dvzcO0zc7JT-ziP5.jpg" width="600" alt="Seedance 2.0 किचन व्लॉग प्रॉम्प्ट: किरदार की निरंतरता के साथ">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=13048)**
+
+**लेखक:** [单引号](https://x.com/DengYH803) | **स्रोत:** [Link](https://x.com/DengYH803/status/2114557242569867559) | **प्रकाशित:** Oct 26, 2026
+
+---
+### नृत्य करता हुआ एंथ्रोपोमॉर्फिक बिल्ली का वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> शर्ट और पैंट पहने एंथ्रोपोमॉर्फिक बिल्ली के नृत्य करते हुए फोटो-रियलिस्टिक वीडियो जनरेट करने के लिए एक विस्तृत प्रॉम्प्ट, जो शारीरिक स्थिरता और लयबद्ध गति पर जोर देता है।
+
+#### 📝 प्रॉम्पट
+
+```
+**अवधि:** 8 सेकंड  
+**फॉर्मेट:** वर्टिकल 9:16, सिनेमैटिक फोटोरियलिज़्म  
+**संदर्भ (REFERENCE):** अपलोड की गई बिल्ली की तस्वीर का इस्तेमाल बिल्कुल पहले फ्रेम और कैरेक्टर रेफरेंस के रूप में करें।
+
+**कैरेक्टर कंसिस्टेंसी:** वही ऑरेंज-एंड-क्रीम रंग की टैबी बिल्ली, जिसने वही पिंक कैज़ुअल बटन-अप शर्ट और बेज रंग की ट्राउज़र पहनी हुई है। पूरे वीडियो में उसके चेहरे की बनावट, आँखों का आकार, कान, फर के निशान, शरीर के अनुपात, कपड़े और पूँछ को बिल्कुल वैसा ही बनाए रखें।
+
+**संगीत (MUSIC):** एक कूल, लयबद्ध कंटेम्पररी डांस-पॉप इंस्ट्रूमेंटल ट्रैक, जिसमें गहरी, ग्रूवी बास, क्रिस्प पर्कशन और स्टाइलिश क्लब बीट्स हों। संगीत तुरंत शुरू होना चाहिए। डांस मूवमेंट्स बिल्कुल बीट के साथ तालमेल में होने चाहिए।
+
+**डांस कोरियोग्राफी:**
+
+**0–2 सेकंड:** बिल्ली एक रिलैक्स्ड और कॉन्फिडेंट पोज़ में खड़ी होती है। वह कैमरे से नज़रें मिलाते हुए एक स्मूथ शोल्डर रोल, हल्का चेस्ट आइसोलेशन और कंट्रोल्ड साइड-टू-साइड हिप मूवमेंट करती है।
+
+**2–4 सेकंड:** बिल्ली एकदम सटीक और स्टाइलिश फुटवर्क करती है — दाएँ और बाएँ कदम बढ़ाते हुए अपनी बाहों को धड़ पर लयबद्ध तरीके से घुमाती है। कलाइयों की नेचुरल हरकतें, रिलैक्स्ड कोहनियाँ और ऊपरी शरीर के कंट्रोल्ड ग्रूव्स।
+
+**4–6 सेकंड:** बिल्ली एक स्मूथ बॉडी वेव, एक कॉन्फिडेंट टू-स्टेप और कोऑर्डिनेटेड आर्म स्वीप्स करती है। उसका धड़ और कमर एक-दूसरे से स्वतंत्र रूप से ऐसे हिलते हैं, जैसे कोई इंसान असल में डांस कर रहा हो।
+
+**6–8 सेकंड:** बिल्ली बीट के साथ दो तेज़ और शार्प स्टेप्स लेती है, एक स्मूथ शोल्डर पॉप करती है और कैमरे की तरफ देखते हुए एक कूल, कॉन्फिडेंट पोज़ के साथ डांस खत्म करती है।
+
+**सिर और गर्दन का अत्यंत महत्वपूर्ण नियंत्रण:** बिल्ली का सिर एनाटॉमिकली स्थिर रहना चाहिए और गर्दन से नेचुरल तरीके से जुड़ा होना चाहिए। सिर्फ हल्के और यथार्थवादी हेड टिल्ट्स तथा बीट के साथ छोटे-छोटे मूवमेंट्स ही मान्य हैं। सिर को कभी भी 360 डिग्री नहीं घूमना चाहिए, पीछे की तरफ नहीं मुड़ना चाहिए, अजीब तरीके से नहीं ऐंठना चाहिए, शरीर से अलग नहीं होना चाहिए या शरीर से स्वतंत्र रूप से नहीं घूमना चाहिए। हर फ्रेम में आँखें, कान, थूथन और चेहरे की बनावट एक जैसी होनी चाहिए।
+
+**रियलिज़्म लॉक:** नेचुरल वेट ट्रांसफर, ज़मीन पर टिके पैर, विश्वसनीय संतुलन, डांस मूव्स के बीच स्मूथ ट्रांज़िशन, फर और कपड़ों का रियलिस्टिक फिज़िक्स, एक जैसी छायाएँ, लगातार मूवमेंट और स्थिर एनाटॉमी। बिना किसी कट के एक ही शॉट, जिसमें फुल-बॉडी कैमरा स्थिर रहे और कैमरे में कोई अचानक हलचल न हो।
+
+**नेगेटिव कंस्ट्रेंट्स (क्या नहीं होना चाहिए):** कोई कार्टून जैसा मूवमेंट नहीं, कोई बच्चों वाला डांस नहीं, चेहरे पर अतिरंजित भाव नहीं, रबर जैसे लचीले हाथ-पैर नहीं, रीढ़ की हड्डी का अस्वाभाविक झुकना नहीं, गर्दन का ऐंठना नहीं, सिर का घूमना नहीं, कोई अतिरिक्त अंग नहीं, चेहरे का बदलना नहीं, कपड़ों का बदलना नहीं, हवा में तैरना नहीं, फ्लिकरिंग नहीं, पोज़ में अचानक छलाँग नहीं, और कोई भी ऐसा मूवमेंट नहीं जो नकली लगे।
+
+**अंतिम परिणाम:** उसी फोटोरियलिस्टिक एंथ्रोपोमॉर्फिक बिल्ली द्वारा एक स्टाइलिश, कॉन्फिडेंट और एडल्ट-इंस्पायर्ड डांस परफॉर्मेंस, जिसमें स्मूथ कोरियोग्राफी, नेचुरल हेड मूवमेंट और बिल्कुल असली लगने वाले फिज़िकल मूवमेंट्स हों।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114406485530972160/img/3zdH9KBkn5jnuVy0.jpg" width="600" alt="नृत्य करता हुआ एंथ्रोपोमॉर्फिक बिल्ली का वीडियो">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=13047)**
+
+**लेखक:** [M. Asif](https://x.com/meAsifAi) | **स्रोत:** [Link](https://x.com/meAsifAi/status/2114406947558764575) | **प्रकाशित:** Oct 25, 2026
+
+---
+### सेरा निक्स कैन्यन फ्लाइट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sera Nyx, एक उड़ने वाले प्राणी और कैनियन स्विंग अनुक्रम को शामिल करने वाले दृश्य के लिए एक प्रॉम्प्ट विवरण।
+
+#### 📝 प्रॉम्पट
+
+```
+फिर से Sera Nyx, और इस बार उसका जीव उड़ान भरता है। एक घाटी, पत्थर के पुल पर तार से लटकता एक झूला, खंडहर, और अंत में वे दोनों साथ-साथ।
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2114387121637113856/pu/img/MKXPTBojpRRF8Run.jpg" width="600" alt="सेरा निक्स कैन्यन फ्लाइट">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=13045)**
+
+**लेखक:** [MxCaptures | AI VFX & Cinematic AI Artist](https://x.com/MxCaptures) | **स्रोत:** [Link](https://x.com/MxCaptures/status/2114387454757134521) | **प्रकाशित:** Oct 25, 2026
+
+---
+### Seedance 2.0 प्राचीन महल प्रवेश सिनेमाई अनुक्रम
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> प्राचीन चीनी महल सेटिंग में नाटकीय प्रवेश अनुक्रम उत्पन्न करने के लिए एक सिनेमाई प्रॉम्प्ट। इसमें लॉक की गई पहचान वाले कई पात्र, सटीक स्थानिक संबंध और कैमरा मूवमेंट के माध्यम से शक्ति पदानुक्रम की क्रमिक रिवील शामिल हैं।
+
+#### 📝 प्रॉम्पट
+
+```
+पूर्वी प्राचीन पोशाक, फोटोरियलिस्टिक सिनेमा क्वालिटी; देर रात का भव्य हॉल, ठंडा टोन; त्वचा/बालों/कपड़े/धातु की प्रामाणिक बनावट (टेक्सचर); कम सैचुरेशन वाला डार्क पैलेट, मजबूत क्लेरोस्क्यूरो (chiaroscuro); रहस्यमयी और दमघोंटू माहौल; CG/प्लास्टिक जैसी दिखने वाली एस्थेटिक्स पर प्रतिबंध; केवल एम्बिएंट साउंड: कदमों की गूंज, कपड़ों की सरसराहट, मोमबत्ती की हल्की चटकने की आवाज़
+[कैरेक्टर लॉक] मुख्य अभिनेत्री A: Image 1; सहायक B: Image 2; सहायक C: Image 3
+[प्रॉप लॉक] एक ही लंबी तलवार (शुरुआत में B के हाथ में, बाद में A को दी जाती है जो इसे कंधे पर टिका लेती है)
+[सीन लॉक] देर रात का शाही दरबार कक्ष: पत्थर का फर्श, स्तंभ, ऊंची खिड़कियां, कैंडेलब्रा, लालटेन, बीच में ऊंचा सिंहासन
+[स्थानिक संबंध] C हॉल के बीच-दाईं ओर खड़ा है; B फोरग्राउंड में झुका हुआ है, शुरुआत में पूरी तरह से डिफोकस; A पहले तीन शॉट्स में गहराई में बीच वाले सिंहासन पर बैठा है और दिखाई नहीं देता
+[स्थानिक तर्क] पावर का क्रम धीरे-धीरे सामने से पीछे की ओर खुलता है — कैमरा बगल से पीछे और ऊपर की ओर (lateral dolly-back-and-up) जाता है, जिससे स्पेस परत-दर-परत फैलता है—पहले C (हॉल के बीच में), फिर B (फोरग्राउंड में घात लगाए हुए), और अंत में A जो केंद्र पर कब्जा कर लेता है; फोकस का सख्त क्रम: C→B→A→वाइड-शॉट
+[लाइटिंग और माहौल] ऊंची खिड़कियों से आती ठंडी चांदनी, मोमबत्तियों की गर्म रोशनी; कुल मिलाकर ठंडी, कम सैचुरेशन और उच्च कंट्रास्ट वाली लाइटिंग
+
+[स्टोरीबोर्ड]
+[शॉट 01][अवधि] 0–3s [फ्रेमिंग] मीडियम शुरुआत [मूवमेंट] शुरू में सहज, फिर बाईं ओर धीमा आर्क पैन [कंटेंट] हॉल के अंदर C तिरछा खड़ा है, सिर झुका हुआ, सोच में डूबा; अचानक आंखें उठाता है, घमंडी और सीधी नज़र, उपेक्षापूर्ण और बेपरवाह; फोरग्राउंड में रिजर्व्ड डिफोकस ज़ोन (B की जगह), C पर स्थिर फोकस, गहराई का स्पष्ट अंतर [कंटिन्यूटी लॉक] शुरुआत: C दिखाई देता है; B केवल एक धुंधली परछाई है, बिना चेहरे के
+
+[शॉट 02][अवधि] 3–5s [फ्रेमिंग] एक्सट्रीम क्लोज़-अप, पूरा चेहरा फ्रेम में [मूवमेंट] बाईं ओर जारी, तेज़ी से फोरग्राउंड रैक-फोकस [कंटेंट] पहले डिफोकस रहे फोरग्राउंड में B अचानक सिर घुमाता है, लो-एंगल, चेहरा भरने वाला एक्सट्रीम CU, ठंडी और उपेक्षापूर्ण नज़र सीधे कैमरे पर टिकी हुई; बैकग्राउंड में C पूरी तरह बोकेह, तीव्र स्थानिक तनाव [कंटिन्यूटी लॉक] रैक-फोकस ट्रांज़िशन: फोकस C→B पर शिफ्ट होता है; B घात लगाने वाला है, नायक नहीं
+
+[शॉट 03][अवधि] 5–7s [फ्रेमिंग] मीडियम [मूवमेंट] तेज़ी से पीछे खिंचना, लगातार हल्का बगल का कंपन [कंटेंट] कैमरा पीछे हटते ही B का चेहरा किनारे होकर मीडियम शॉट में सिकुड़ जाता है, B तलवार लिए खड़ा है; A अचानक बाईं ओर से फ्रेम में प्रवेश करता है, पूरे फ्रेम पर छा जाता है, B को पार करते हुए लंबी तलवार छीन लेता है, उसे कंधे पर टिकाता है और नीचे देखते हुए (俯视) कैमरे की ओर उपेक्षापूर्ण मुस्कान देता है; अंतिम फोकस A के सामने वाले चेहरे पर लॉक होता है [कंटिन्यूटी लॉक] सत्ता पर कब्जा पूरा: तलवार A के पास जाती है, फ्रेम पर उसका वर्चस्व स्थापित; B बैकड्रॉप में सिमट जाता है
+
+[शॉट 04][अवधि] 7–10s [फ्रेमिंग] ग्रैंड वाइड समापन [मूवमेंट] विकर्ण रूप से पीछे हटना, लगातार ऊपर की ओर [कंटेंट] कैमरा लगातार विकर्ण रूप से पीछे और ऊपर जाता है, स्पेस को धीरे-धीरे फैलाता है; पूरी तरह पीछे हटने पर सत्ता का एक जमा हुआ दृश्य (tableau) बनता है: ठंडी चांदनी वाली खिड़कियां, टिमटिमाती मोमबत्तियां, तीखा कंट्रास्ट, कम सैचुरेशन वाला अंधेरा, अधिकतम दबाव [कंटिन्यूटी लॉक] समापन: असली ताकत सबसे अंत में सामने आती है; तीन लोगों की सत्ता संरचना पूरी तरह स्पष्ट हो जाती है
+
+[नकारात्मक प्रतिबंध] बिल्कुल कोई बैकग्राउंड म्यूजिक/सबटाइटल नहीं; कोई अतिरिक्त टेक्स्ट/वॉटरमार्क/आधुनिक तत्व नहीं (कोई सूट/चश्मा/कार/बेसबॉल नहीं); कोई कैरेक्टर डुप्लीकेशन/शारीरिक बनावट की गलतियां/पहचान बदलना/A का चेहरा B या C बन जाना/फोकस क्रम का उल्लंघन/तलवार का गायब होना/स्लो-मोशन खिंचाव नहीं; A/B/C पूरे समय अपनी निर्धारित जगह पर ही रहेंगे
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114347927615533056/img/LKCLXLhtlEtIrKN_.jpg" width="600" alt="Seedance 2.0 प्राचीन महल प्रवेश सिनेमाई अनुक्रम">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=13049)**
+
+**लेखक:** [灰度笔记](https://x.com/GrayNoteLab) | **स्रोत:** [Link](https://x.com/GrayNoteLab/status/2114348037862719796) | **प्रकाशित:** Oct 25, 2026
+
+---
+### प्राचीन बेडरूम में Seedance 2.0 कॉमेडी सीन
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> प्राचीन चीनी बेडरूम में सेट एक हास्यपूर्ण नैरेटिव प्रॉम्प्ट, जिसमें तीन पात्रों और एक बिल्ली के बीच संवाद-आधारित कार्रवाई दिखाई गई है। इसमें सीमित घरेलू स्थान में गर्म मोमबत्ती की रोशनी के रंग और कॉमेडी टाइमिंग का उपयोग किया गया है।
+
+#### 📝 प्रॉम्पट
+
+```
+टेक्स्ट-टू-वीडियो प्रॉम्प्ट: पूर्वी प्राचीन पोशाक, फोटोरियलिस्टिक सिनेमा क्वालिटी; शयनकक्ष की मोमबत्ती की रोशनी वाला वार्म टोन; त्वचा/बालों/कपड़े/नक्काशीदार लकड़ी की असली बनावट; फिल्म-ग्रेड कलर ग्रेडिंग; हल्की कॉमेडी; CG/प्लास्टिक जैसी दिखने वाली बनावट पर प्रतिबंध
+[कैरेक्टर लॉक] मुख्य अभिनेत्री A: इमेज 1; मुख्य अभिनेता B (झाओ मिंगचेंग): इमेज 2; सहायक C (बहन): इमेज 3; नारंगी टैबी बिल्ली
+[मुख्य सेटअप] C अलमारी के अंदर छिपी हुई है
+[सीन लॉक] प्राचीन शैली का शयनकक्ष: नक्काशीदार लकड़ी का बिस्तर, वैनिटी टेबल जिस पर कांसे का आईना, मोमबत्ती के दीपाधार, लालटेन, बड़ी नक्काशीदार अलमारी
+[स्थानिक संबंध] A बिस्तर के सामने खड़ी है; B बिस्तर के किनारे झुका हुआ बैठा है; अलमारी विपरीत दिशा में है; C अलमारी के अंदर है
+[स्थानिक तर्क] एक ही स्थान; A का रास्ता: बिस्तर के सामने→अलमारी की ओर मुड़ना→दरवाज़ा खोलना; बिल्ली कभी B के कंधे से नहीं हटती
+[लाइटिंग और माहौल] मोमबत्ती की गर्म रोशनी, चेहरे पर कोमल प्रकाश
+
+[स्टोरीबोर्ड]
+[शॉट 01][अवधि] 0–3.5s [फ़्रेमिंग] मीडियम [मूवमेंट] स्थिर [सामग्री] A ऊँचे से नीचे देखकर डाँटते हुए खड़ी है; B सिर झुकाए बिस्तर के किनारे बैठा है [संवाद] A(~0.5–2s): "जब हमारी शादी हुई थी, तो मैंने 1 लाख ताएल दहेज माँगा था"; A(~2–3.5s): "उसमें से 90 हज़ार मेरी बहन ने तुम्हें उधार दिए थे" इसी बीच नारंगी बिल्ली अपने पंजे से B के सिर पर हल्की थप्पड़ मारती है [कंटिन्यूइटी लॉक] शुरुआत: A हावी होकर डाँट रही है;
+
+[शॉट 02][अवधि] 3.5–7s [फ़्रेमिंग] मीडियम [मूवमेंट] स्थिर [सामग्री] A और गुस्से में आ जाती है और B की तरफ उँगली दिखाती है; B का सिर और झुक जाता है, बिल्ली कंधे पर स्थिर है [संवाद] A(~3.5–5s): "अब तुम्हारी सरकारी नौकरी भी लगवा दी"; A(~6–7s): "झाओ मिंगचेंग कितना नाशुक्रा है, है ना?" [कंटिन्यूइटी लॉक] A अपनी बहन के योगदान गिना रही है; B चुपचाप बैठा है, कोई बचाव नहीं कर रहा
+
+[शॉट 03][अवधि] 7–8.5s [फ़्रेमिंग] क्लोज़-अप [मूवमेंट] स्थिर [सामग्री] B सिर झुकाए बुदबुदाकर माफ़ी माँग रहा है, बिल्ली भावहीन चेहरे के साथ सीधे आगे देख रही है [संवाद] B अपराधबोध में(~7.5–8.3s): "शियाओवान, मुझसे गलती हो गई" [कंटिन्यूइटी लॉक] B हार मान लेता है; कोई अतिरिक्त संवाद नहीं
+
+[शॉट 04][अवधि] 8.5–12.5s [फ़्रेमिंग] मीडियम [मूवमेंट] लैटरल ट्रैकिंग [सामग्री] A घूमकर अलमारी की तरफ तेज़ कदमों से बढ़ती है, रास्ते में भला-बुरा कहती है, दरवाज़े पर रुककर हैंडल पर हाथ रखती है [संवाद] A(~9–11s): "मेरे बाहर होने पर मेरी बहन मिलने आती है, और तुमने उसे अलमारी में बंद कर दिया"; A(~12s): "क्या तुम इंसान भी हो?" [कंटिन्यूइटी लॉक] अलमारी की ओर बढ़ना = खुलासे की उलटी गिनती; B बिस्तर के किनारे जमा हुआ है
+
+[शॉट 05][अवधि] 12.5–15s [फ़्रेमिंग] मीडियम [मूवमेंट] स्थिर [सामग्री] A अलमारी का दरवाज़ा झटके से खोलती है: C अंदर खड़ी है, झेंपते हुए हाथ हिला रही है, मुस्कुराते हुए कह रही है "हाय~"; फ़्रीज़-फ़्रेम [कंटिन्यूइटी लॉक] समापन
+
+[नेगेटिव कंस्ट्रेंट्स] बिल्कुल कोई बैकग्राउंड म्यूज़िक नहीं; कोई अतिरिक्त टेक्स्ट/वॉटरमार्क/कैरेक्टर की डुप्लीकेशन/शारीरिक बनावट में गलतियाँ/आधुनिक तत्व (कोई इलेक्ट्रिक लाइट नहीं/कोई आधुनिक फ़र्नीचर नहीं)/पहचान में बदलाव/A का चेहरा B या C में बदलना/बिल्ली का B के कंधे से हटना/बिल्ली के पैटर्न में विकृति/संवादों का आपस में मिल जाना/स्लो-मोशन खिंचाव
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114281752583897088/img/f5RxqlYYYQlBpeLf.jpg" width="600" alt="प्राचीन बेडरूम में Seedance 2.0 कॉमेडी सीन">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=13050)**
+
+**लेखक:** [灰度笔记](https://x.com/GrayNoteLab) | **स्रोत:** [Link](https://x.com/GrayNoteLab/status/2114281882687066484) | **प्रकाशित:** Oct 25, 2026
+
+---
 ### स्कूल हॉलवे में अराजकता का स्थगन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3654,1102 +3905,6 @@ Vertical 9:16 composition, cinematic framing, consistent character appearance th
 **लेखक:** [Alexandra Aisling](https://x.com/AllaAisling) | **स्रोत:** [Link](https://x.com/AllaAisling/status/2106852107114418554) | **प्रकाशित:** Oct 4, 2026
 
 ---
-### Seedance 2.0 Mini सिनेमैटिक एस्कॉर्ट बैटल प्रॉम्प्ट
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 Mini का उपयोग करते हुए 15 सेकंड के सिनेमैटिक वीडियो को जनरेट करने के लिए एक विस्तृत प्रॉम्प्ट, जो प्राचीन चीनी Xianxia सेटिंग में मोबाइल एस्कॉर्ट बैटल को दर्शाता है और संदर्भ छवियों पर आधारित सख्त किरदार और स्थान एंकरिंग शामिल करता है।
-
-#### 📝 प्रॉम्पट
-
-```
-Cinematic photorealistic texture, pure ancient Chinese Xianxia action film, 15 seconds, 16:9, Seedance 2.0 Mini.
-This round is not a stationary duel, nor does it continue to repeat the old pattern of "switch to a new weapon → protagonist studies → counter → sword stops at throat".
-The core action motif is:
-A mobile escort battle occurring on the real high-altitude imperial road shown in the current reference image.
-The same Senior Sister and Junior Sister must continuously advance forward while protecting the injured Master, disciples, and ordinary people evacuating behind them.
-The enemies' true goal is not necessarily to defeat the two protagonists.
-What they want to do is:
-Break through the defensive line formed by the two protagonists;
-Cut into the evacuating crowd;
-Seal off the path for continued advancement.
-Therefore, the core of this entire battle is:
-**Break the blockade ahead
-Block pursuers behind
-The two protagonists continuously swap front and back positions
-Always reopen the path.**
-Actions pursue silkiness but must never be soft.
-Silkiness means:
-The previous action naturally leads to the next;
-Characters are always moving;
-Attack and defense never reset to zero;
-Weapon direction and character direction are always understandable;
-After cuts, one still knows who is in front, who is behind, and who is attacking from where.
-Power comes from:
-Sudden initiation;
-Obvious acceleration;
-Real collisions;
-Center of gravity changes;
-Force offsets;
-Imbalance;
-Inertia;
-Counter-grabs;
-Hard stops;
-Immediate restarts.
-Prohibit soft, dance-like swordsmanship.
-Prohibit resetting poses after striking once.
-Enemies must have real judgment.
-After the first strategy fails, they must change targets, attack routes, pursue, seal paths, flank, or actively separate the two protagonists.
-Prohibit enemies lining up to offer attacks.
-[Core Character Lock]
-Strictly lock only @Image 1 and @Image 2 as the two core protagonists along with their respective primary weapons.
-@Image 1 is always the same Sword Immortal Senior Sister as before:
-Same adult East Asian female identity;
-25–30 years old;
-Same face;
-Black long hair half-tied;
-White jade hairpin;
-Tall and slender proportions;
-White embroidered silk Hanfu;
-Semi-transparent layered wide sleeves;
-Silver waist sash;
-Jade pendant;
-White cloth boots;
-The only silver straight sword in the entire film.
-@Image 2 is always the same Junior Sister as before:
-Same adult East Asian female identity;
-20–25 years old;
-Same face;
-Black braided hair;
-Petite proportions;
-Cyan-green linen Hanfu;
-Dark belt;
-Wooden hairpin;
-Black cloth shoes;
-The only dark steel sword in the entire film.
-Enemies, Masters, disciples, ordinary people, and bystanders are all merely functional supporting characters.
-Do not waste generation attention strictly locking supporting characters' faces, hairstyles, and complex clothing.
-Just ensure that character types, positions, weapons, and action functions remain logically continuous within the shot.
-[Round-Specific Scene Hard Anchor | Highest Priority]
-The uploaded background reference for this round already displays a complete, highly recognizable location.
-Therefore, this round directly enters:
-HARD LOCATION ANCHOR.
-The reference image is not style inspiration.
-The entire video must truly take place on the same high-altitude celestial palace imperial road shown in the reference image.
-Prohibit redesigning it into a "similar Xianxia location".
-Must continuously maintain the following location identities:
-The central axis of the frame always contains the same extremely long, straight, pale white high-altitude imperial road, extending from the foreground towards the distant center.
-The imperial road always maintains obvious narrow depth; characters primarily move along the front-back direction; prohibit expanding it into a circular arena, huge courtyard, or wide plaza.
-The left and right sides of the imperial road always maintain the same massive high-altitude drop, milky white sea of clouds, and continuous large waterfalls.
-The mid-ground left and right continue to contain the same group of huge traditional palaces, maintaining original left-right positions, volume, and spatial relationship with the imperial road.
-The left foreground continues to retain the same extremely prominent large dark cantilevered wooden structure building; dense wood structures must not disappear or shrink into ordinary small buildings.
-Below the imperial road and under the mist, continue to maintain the same scale of dense ancient city.
-The farthest center continues to contain the same giant mountain body / superstructure.
-The distant center continues to retain the same huge ring-shaped gate / ring building.
-Characters are always much smaller than the imperial road, palaces, waterfalls, underlying city, and distant superstructures.
-Maintain the same bright cool white-grey, pale warm gold, low saturation daytime/morning light, milky white air haze, and huge depth as the original reference image.
-The distant huge ring must always remain very far away.
-Prohibit suddenly pulling it closer to become an ordinary mountain gate.
-Prohibit regenerating the current imperial road into:
-Circular arena;
-Ordinary courtyard;
-Wide plaza;
-Another cloud bridge;
-New floating platform;
-New mountain gate;
-New floating island;
-New cliff;
-New palace entrance;
-New large staircase.
-Prohibit suddenly widening the imperial road for convenient combat.
-Prohibit day turning into night.
-Prohibit replacing current soft weather with stormy dark clouds.
-All actions and cameras must adapt to the current real imperial road.
-Prohibit redesigning the scene for the sake of action.
-[Background Dynamics | Must be alive, but default non-participatory in plot]
-Scene continuously moves naturally.
-Distant clouds slowly move.
-Huge waterfalls continuously fall realistically downwards.
-Water mist at the bottom of waterfalls continuously swirls and merges with the existing sea of clouds.
-Cloud layers and fog layers at different distances maintain slightly different speeds, creating realistic parallax.
-High-altitude natural wind continuously affects the black hair, wide sleeves, hem, tassels, and accessories of the two protagonists.
-Thin mist between the distant ancient city and palaces continuously moves slowly.
-Atmospheric perspective continuously produces subtle changes.
-A few distant figures can naturally move within areas already existing in the reference image.
-However:
-The environment is narratively neutral by default.
-Waterfalls cannot suddenly help anyone.
-Mist cannot actively obscure enemies.
-Wind cannot change sword paths.
-Buildings cannot collapse on their own.
-The imperial road cannot break.
-The distant ring cannot suddenly activate spells.
-The environment cannot actively resolve combat.
-Only when characters truly step, hard stop, or collide with weapons, allow slight stone dust, scratches, metal sparks, fabric displacement, and sole friction debris.
-Already appearing obvious traces should reasonably persist.
-[0–5s | Hook: Cannot Retreat]
-0.0–1.0s.
-Use 24mm ultra-wide angle central axis grand panorama.
-First reproduce the location; location priority is higher than complex action.
-The first glance must confirm:
-The same long white imperial road;
-Same huge waterfalls on left and right;
-Same large palaces on left and right;
-Same huge wooden structure on the left;
-Same ancient city below;
-Same huge distant ring.
-The two protagonists maintain small scale within the huge environment.
-Senior Sister is in front.
-Junior Sister is half a step behind.
-Further back at a distance, an injured elderly Master, several disciples, and a few ordinary people are continuing to advance along the same imperial road.
-Two enemy swordsmen block the path ahead.
-The leading enemy blocks the effective passage area with a horizontal sword:
-"Protecting them, you can't pass."
-Senior Sister does not stop at all:
-"Who said we were retreating?"
-As soon as the last word falls.
-The enemy launches without warning.
-The camera immediately transitions from fixed grand panorama to approx. 32–35mm tracking shot retreating along the imperial road axis.
-The first enemy quickly seizes Senior Sister's center line.
-Senior Sister never retreats backwards.
-Until the last moment, she only shifts diagonally by half a body width, using the same silver straight sword to complete a short, hard, real collision, pushing the enemy sword out of the imperial road's central axis.
-No follow-up strike.
-No posing.
-She immediately continues forward past the enemy's shoulder.
-Almost simultaneously.
-The second enemy cuts towards Junior Sister from the opposite direction, trying to bypass her to attack the crowd behind.
-Junior Sister does not chase enemies wildly.
-She directly rushes into the position between the enemy and the evacuating crowd, only briefly changing the opponent's attack line with the dark steel sword, then continues forward.
-An enemy passes quickly near the camera, body instantly filling the screen, forming the first natural hidden cut.
-By the end of 0–5 seconds, the audience must clearly understand:
-They are not staying to win.
-They are reclaiming the path.
-[5–10s | Upgrade: Enemies Start Attacking True Targets]
-Maintain completely identical imperial road, left/right palaces, waterfalls, distant ring, and world scale.
-Use approx. 35mm medium shot tracking moving along the bridge axis.
-After the first attack fails, enemies must proactively change strategy.
-The enemy leader no longer insists on winning head-to-head against Senior Sister.
-He suddenly changes target, actively trying to bypass Senior Sister, cutting between Junior Sister and the evacuating crowd.
-Another enemy simultaneously presses Senior Sister from the opposite direction, trying to truly separate the two protagonists.
-Actions form a continuous causal chain:
-Enemy horizontal slash forces Senior Sister to briefly deviate from the imperial road center line;
-Senior Sister only performs one brief force release, not continuing entanglement;
-The impact inertia already invested by the enemy causes their body to slightly overshoot the optimal attack position;
-Junior Sister continues forward.
-The leading enemy suddenly cuts diagonally from Junior Sister's right front.
-Junior Sister catches the first strike.
-The enemy does not pause, immediately changing to a second low-position attack.
-Junior Sister is forced to shrink half a step towards the imperial road center line.
-Just at the moment the enemy judges she has been sealed off ——
-Senior Sister suddenly rushes fast from behind Junior Sister to the other side.
-The two complete the first extremely fast front-back position exchange.
-Not a double rotation.
-Not a synchronized pose.
-But a compact shoulder-crossing position swap while maintaining forward motion.
-Senior Sister directly takes over the enemy originally pressing Junior Sister.
-Junior Sister continues forward along the half-path opened up, becoming the new front position.
-The camera only performs a short lateral move due to the two's real position swap.
-An enemy sword grazes past the lens, forming a natural occlusion transition.
-Prohibit unreasoned orbiting.
-At this moment.
-High-speed pursuit footsteps come from behind.
-A functional pursuer originally falling further back has arrived.
-Someone blocking the path ahead.
-Someone pursuing from behind.
-The two women are truly trapped for the first time in the most dangerous situation of the narrow imperial road:
-Front and rear pincer attack.
-[10–15s | Flip: Don't Guard People, Guard the Path]
-Re-widen to approx. 28–32mm moving medium shot.
-Use nearly 1 second to fully explain current space:
-Junior Sister is in front;
-Senior Sister is about one body length behind;
-Front enemy leader reoccupies center line;
-Rear pursuers approaching fast;
-Evacuating Master, disciples, and ordinary people are still moving in safer positions further away.
-Everyone remains on the same real imperial road from the reference image.
-Prohibit suddenly cutting to other platforms.
-Front enemies and rear pursuers launch almost simultaneously.
-Junior Sister instinctively wants to turn back.
-Senior Sister only says:
-"Don't guard me."
-Junior Sister stops turning back.
-Senior Sister immediately follows with:
-"Guard the path."
-The two explode almost simultaneously.
-Junior Sister does not turn back to save Senior Sister.
-She continues forward, using a short and hard dark steel sword collision to forcibly push the front enemy's blade edge out of the imperial road's central axis.
-Senior Sister simultaneously handles the rear pursuer.
-She intentionally yields half a step, letting the enemy truly enter attack range.
-Just at the moment the opponent's body strength has been invested, she suddenly cuts diagonally out of the attack axis.
-The pursuer's own forward momentum causes their body to overshoot by half a body length.
-Senior Sister does not chase.
-Immediately accelerates forward again.
-At this moment, Junior Sister has already pushed the front enemy half a body length away from the center line.
-The two protagonists approach at high speed.
-Shoulder lines graze at extremely close distance.
-Complete the second front-back position exchange.
-This time, they don't look at each other at all.
-Junior Sister naturally falls to the rear position, taking over the enemy who has turned around to pursue again.
-Senior Sister becomes the front position again, facing the leading enemy still blocking the path.
-An enemy sword sweeps across the camera foreground, instantly filling the screen, forming the most explicit weapon-occlusion hard cut of the whole film.
-Cut to a slightly lower reverse camera position.
-Senior Sister only performs one extremely short, extremely fierce outward deflection with the silver sword.
-The leader's sword path is thoroughly pushed out of the imperial road's central axis.
-Because his body weight was already invested forward, his own inertia carries his body sideways by about two body lengths.
-Enemies cannot fall off the bridge.
-Cannot be exaggeratedly blown away.
-Do not need to completely lose combat ability.
-Just opening the path is enough.
-Senior Sister and Junior Sister absolutely do not stop to deliver finishing blows.
-The two pass directly between the enemies, continuing along the same white imperial road towards the distant huge ring.
-The rear evacuating crowd also begins to advance along the reopened route.
-The enemy leader turns back and shouts angrily:
-"You can't win!"
-Do not cut to heroic frontal close-ups.
-The camera continues to follow the two women advancing from the side-rear.
-Junior Sister is still adjusting her breathing:
-"We were never here to win."
-Senior Sister always looks at the road ahead:
-"As long as the road is there, that's enough."
-Leave only an extremely short beat.
-Deeper down the same distant imperial road, several functional enemies originally existing in the distant figure layer begin to slowly spread out, entering next-round path-blocking positions.
-Prohibit generating them from thin air in the mist.
-Prohibit refreshing them suddenly from buildings.
-They existed in the real distance from the beginning, only revealing hostility through movement at this moment.
-The two protagonists do not slow down at all.
-Silver sword and dark steel sword maintain natural low-position readiness.
-The camera continues to retreat along the imperial road axis.
-Black hair, hems, waterfalls, mist, clouds, distant palaces, and the huge world always move naturally.
-In the state where the two are still actively walking towards the next batch of enemies:
-Direct cut to black.
-[Camera & Editing]
-Three narrative segments, but absolutely not mechanically equal to three shots.
-The whole film uses a small amount of truly functional cuts.
-Main camera routes:
-24mm central axis grand panorama confirming real location → 32–35mm tracking retreating along existing imperial road axis → Human body passing lens forms hidden cut → Weapon grazing lens forms occlusion cut → When front-rear pincer occurs, re-widen shot to explain space → Finally side-rear continuously following two protagonists advancing towards distant ring.
-All cuts can only be triggered naturally by the following events:
-Character occlusion;
-Weapon occlusion;
-Real weapon collision;
-Obvious change in movement direction;
-Obvious body imbalance;
-Sudden change in speed.
-Prohibit mechanical fragmented cutting.
-Prohibit camera being more restless than the action.
-Prohibit meaningless ORBIT.
-Prohibit changing positions of imperial road, palaces, waterfalls, and distant rings for camera movement.
-Action drives the camera.
-The camera cannot drive scene deformation.
-[Sound]
-Opening first establishes:
-High-altitude natural wind;
-Low-frequency rumble of huge waterfalls existing continuously at a distance;
-Footsteps on light-colored stone imperial road;
-Extremely distant ancient city environmental noise floor.
-After combat explosion add:
-Short sharp sword wind-breaking;
-Hard, sharp metal collisions;
-Shoe sole friction;
-Silk fabric twitching;
-Fast footsteps of pursuers;
-Gradually heavyening character breathing.
-When front-rear pincer forms, temporarily lower music and wide environmental sound field.
-Highlight:
-Footsteps;
-Breathing;
-Weapon directions.
-After the path is reopened, combat sounds gradually fade behind the characters.
-Final dialogue must be clear:
-"We were never here to win."
-"As long as the road is there, that's enough."
-After dialogue ends:
-Waterfall;
-High-altitude wind;
-Continuous forward footsteps
-Reoccupy the main sound field.
-Music must never overpower action details and dialogue.
-[Seedance 2.0 Mini Generation Priorities]
-P0: The location identity of the uploaded background reference image absolutely cannot change.
-P0: Identity stability of @Image 1 and @Image 2 core characters.
-P1: Attribution and continuity stability of silver straight sword and dark steel sword.
-P1: Clear front-back spatial relationship on the same imperial road.
-P1: Continuous character forward direction, enemy attack direction, and camera axis.
-P2: Specific faces and complex clothing of enemies, Masters, disciples, and ordinary people.
-If model complexity needs reduction:
-First reduce supporting character details;
-Then reduce extra attack moves;
-Next reduce decorative visual effects.
-Absolutely cannot sacrifice:
-Reference image location identity;
-Core protagonist identity;
-Action causality;
-Spatial continuity.
-[Negative Constraints]
-Prohibit turning current high-altitude imperial road into circular arena. Prohibit changing to ordinary courtyard. Prohibit changing to wide plaza. Prohibit adding another cloud bridge. Prohibit adding independent mountain gate. Prohibit adding floating island. Prohibit adding combat platform. Prohibit deleting left/right huge waterfalls. Prohibit deleting left/right large palaces. Prohibit deleting left huge cantilevered wooden structure. Prohibit deleting underlying dense ancient city. Prohibit deleting distant huge ring structure. Prohibit pulling distant huge ring closer to become ordinary gate tower. Prohibit changing relative positions of distant palaces and mid-ground buildings. Prohibit day suddenly turning into night. Prohibit stormy dark clouds replacing current soft weather. Prohibit widening imperial road for action. Prohibit changing imperial road width after cuts. Prohibit environment actively participating in plot. Prohibit sudden broken bridge. Prohibit buildings collapsing on their own. Prohibit mist actively obscuring enemies. Prohibit waterfall suddenly changing attack. Prohibit wind suddenly changing sword path. Prohibit characters teleporting without trajectory. Prohibit two protagonists swapping positions out of nowhere. Prohibit random large-area sword qi. Prohibit energy waves colliding. Prohibit light pollution. Prohibit enemies lining up to offer attacks. Prohibit enemies being passive for long periods. Prohibit long-duration weapon shoving. Prohibit characters stopping to wait after one move. Prohibit meaningless rotations. Prohibit meaningless Poses. Prohibit slow motion. Prohibit bullet time. Prohibit hit-stop. Prohibit severe Motion Blur obscuring characters and weapons. Prohibit frantic camera shaking. Prohibit continuous facial close-ups instead of real action. Prohibit arm, finger, and weapon clipping through models during action. Prohibit protagonist weapon duplication. Prohibit character face swapping. Prohibit random costume changes. Prohibit background sudden drift. Prohibit subtitles.
-blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106728656399970304/img/DeUvkEJCnbRcNZ9b.jpg" width="600" alt="Seedance 2.0 Mini सिनेमैटिक एस्कॉर्ट बैटल प्रॉम्प्ट">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=11921)**
-
-**लेखक:** [Soran](https://x.com/Soranlan) | **स्रोत:** [Link](https://x.com/Soranlan/status/2106728692986843641) | **प्रकाशित:** Oct 4, 2026
-
----
-### Seedance 2.0 नकली दुएल ट्रैप एक्शन प्रॉम्प्ट
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> सिनेमाई ज़ियाशिया (Xianxia) एक्शन सीक्वेंस उत्पन्न करने के लिए एक प्रॉम्प्ट, जिसमें दो तलवारबाज़ महिलाएं छिपे हुए हत्यारों को उजागर करने के लिए एक झूठे युद्ध का नाटक करती हैं, जिसमें गतिशील लड़ाई की धारा और सख्त पात्र/पर्यावरण सुसंगतता पर ध्यान केंद्रित किया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-सिनेमाई फोटो-रियलिस्टिक टेक्सचर, शुद्ध प्राचीन चीनी ज़ियाशिया हाई-टेंशन तलवारबाज़ी एक्शन फिल्म।
-
-पिछले पैटर्न से पूरी तरह अलग:
-
-सीनियर सिस्टर के लिए हथियार बदलें
-हर तरह से ब्रेकथ्रू करें
-दोनों पूरक ब्लाइंड स्पॉट्स
-
-कोर अवधारणा:
-
-सीनियर और जूनियर सिस्टर वास्तव में खतरनाक दुएल में लगती हैं, लेकिन असल में वे छिपे हुए हत्यारों को खुलासा करने के लिए इसका उपयोग कर रही हैं।
-
-तीन-स्तरीय नैरेटिव लक्ष्य
-Layer 1 Hook: दर्शकों को विश्वास दिलाएं कि वे वास्तव में लड़ रहे हैं
-Layer 2 Twist: पता चले कि उन्होंने आपसी तलवार के मोमेंटम के माध्यम से स्थान को नियंत्रित किया है
-Ending Hook: यह संदेह छोड़ें कि दूसरा बैच शत्रु अभी तक नहीं आया है
-
-सामान्य एक्शन सिद्धांत
-
-क्रियाएं मस्जृद होनी चाहिए, लेकिन कभी भी नरम नहीं।
-
-Smoothness
-
-परिभाषा:
-पिछली क्रिया स्वाभाविक रूप से अगली बनाती है
-
-गति की दिशा लगातार बढ़ती है
-कैमरा, शरीर और तलवार के मार्ग के बीच स्पष्ट कारणता
-Power Sense
-
-परिभाषा:
-अचानक शुरुआत
-
-हिंसक टकराव
-बल का विक्षेपण
-शरीर का असंतुलन
-जड़त्व की निरंतरता
-अचानक रुकना
-Character & Weapon Lock
-
-केवल @image 1 और @image 2 मुख्य पात्रों और विशेष हथियारों को ही सख्ती से लॉक करें।
-
-@image 1 | Sword Immortal Senior Sister
-
-वही @image 1 Senior Sister हमेशा बनाए रखती है:
-
-वही वयस्क पूर्वी एशियाई महिला चेहरा
-25–30 वर्ष की आयु दिखाई देती है
-
-काले लंबे बाल आधे बंधे हुए
-सफेद जेड हेयरपिन
-लंबी और दुबली अनुपात
-सफेद कढ़ाई वाला रेशम हानफू
-अर्ध-पारदर्शी चौड़े स्लीव्स
-चांदी की कमर की पट्टी
-जेड पेंडेंट
-सफेद कपड़े के जूते
-विशिष्ट चांदी की सीधी तलवार
-@image 2 | Junior Sister
-वही @image 2 Junior Sister हमेशा बनाए रखती है:
-
-वही वयस्क पूर्वी एशियाई महिला चेहरा
-20–25 वर्ष की आयु दिखाई देती है
-
-काले बालों की चोटी
-छोटे अनुपात
-नीले-हरे लिनेन हानफू
-गहरे रंग की पट्टी
-लकड़ी का हेयरपिन
-काले कपड़े के जूते
-विशिष्ट गहरे स्टील की तलवार
-अन्य पात्र
-हत्यारे, मास्टर, शिष्य, राहगीर केवल कार्यात्मक हैं, मुख्य पात्रों की तरह कोई सख्त चेहरा/कपड़ा लॉक नहीं है।
-
-Round Scene Control | Highest Priority
-अपलोड की गई पृष्ठभूमि स्पष्ट रूप से एक पूर्ण, अत्यधिक पहचानने योग्य स्थान दिखाती है। HARD LOCATION ANCHOR मोड में जाएं।
-संदर्भ छवि वास्तविक कहानी का स्थान है, दृश्य प्रेरणा नहीं।
-
-मूल स्थानिक तत्वों को बनाए रखना अनिवार्य है
-
-विशाल अग्रभूमि पत्थर का मंच
-
-किनारे पर लगातार पत्थर की रेलिंग
-
-रेलिंग के बाद व्यापक कम घने कोहरे की गहराई
-मध्यभूमि में घने प्राचीन शहर की छतें
-केंद्रीय हॉल
-दूरस्थ ऊंचे स्थान पर विशाल महल परिसर
-शहर और दूर के महल के बीच मजबूत दूरी का पदानुक्रम
-ठंडा ग्रे-नीला आकाश और कम घना कोहरा
-दूर के महल से गर्म रोशनी
-Macro scale: छोटे पात्र, विशाल शहर/महल
-Key Hard Constraints
-दूरस्थ सबसे ऊंचा महल हमेशा रहना चाहिए:
-बहुत दूर
-
-बहुत विशाल
-दृश्य स्केल।
-
-मिड-शॉट्स के दौरान दूर के महल को पात्रों के पीछे पास के गेट के रूप में खींचना वर्जित है।
-Venue Limitation
-
-पूरा 15s का युद्ध सख्ती से इन पर होता है:
-
-संदर्भ में स्पष्ट रूप से मौजूद विशाल पत्थर का मंच
-
-और सीधे जुड़े हुए क्षेत्र
-
-निम्नलिखित उत्पन्न करना वर्जित है:
-तैरते हुए पत्थर के पुल
-
-बादल के पुल
-स्वतंत्र गेट
-
-द्वीप
-नई चट्टानें
-नए महल के प्रवेश द्वार
-नई सीढ़ियाँ
-नए युद्ध मंच
-कोई भी बड़ी इमारत जो स्थान की पहचान बदल दे
-Spatial Continuity Requirement
-हर कट के बाद, ये संबंध स्थिर रहें:
-मंच
-रेलिंग
-
-शहर की परतें
-
-केंद्रीय इमारतें
-
-दूर का महल
-
-आकाश रेखा
-क्रियाएं/कैमरे मंच के अनुसार ढलते हैं।
-टेक्स्ट द्वारा वर्णित क्रियाओं के लिए कभी भी मंच का आकार न बदलें।
-Background State
-पृष्ठभूमि स्वाभाविक रूप से जीवंत रहती है:
-शहर की परतों के बीच बड़ा कम घना कोहरा धीरे-धीरे चलता है
-ऊंचे बादल स्वाभाविक रूप से बदलते हैं
-
-दूर के महल की गर्म रोशनी हवा/कोहरे से प्रभावित होती है
-बाल/रेशम के किनारे मंच की हवा के साथ हिलते हैं
-
-हवा की गहराई, प्रतिबिंब, कुछ दूरस्थ आकृतियाँ सूक्ष्म गति करती हैं
-
-केवल वास्तविक:
-
-चलने पर
-
-हथियारों के टकराने पर
-तेज कपड़ों के गुजरने पर
-स्थानीय फीडबैक की अनुमति दें:
-थोड़ा पत्थर का धूल
-चिंगारी
-
-किनारे का विस्थापन
-
-Strictly Forbidden
-कोहरा अचानक दुश्मनों को छिपा दे
-रेलिंग टूट जाना
-
-महल अपने आप बदल जाना
-
-पृष्ठभूमि किसी भी पक्ष को ट्विस्ट पूरा करने में मदद करना
-Segment Structure
-0–5s | Fake Duel: Trick Audience
-
-0.0–1.0s
-24mm फिक्स्ड वाइड शॉट का उपयोग करें।
-इनको बनाए रखना अनिवार्य है:
-विशाल पत्थर का मंच
-पूर्ण दूर के महल/शहर की गहराई
-
-दर्शक संदर्भ से उसी स्थान को जानते हैं।
-
-वही सफेद वस्त्र वाली सीनियर और नीले वस्त्र वाली जूनियर सिस्टर मीटरों की दूरी पर आमने-सामने हैं।
-
-दूरी में सुरक्षित क्षेत्र में:
-
-कुछ शिष्य
-साधारण दर्शक
-
-वही बुजुर्ग मास्टर
-
-लेकिन वे केवल पृष्ठभूमि में हैं।
-Dialogue
-
-जूनियर सिस्टर फुसफुसाती है:
-
-"क्या वे सच में काटेंगे?"
-
-सीनियर सिस्टर जवाब देती है:
-
-"पहले उन्हें बेवकूफ बनाओ।"
-
-आखिरी शब्द गिरने पर, दोनों बिना किसी चेतावनी के एक साथ फट पड़ती हैं।
-कैमरा फिक्स्ड वाइड से ~35mm मूविंग मिड-शॉट में प्रवेश करता है।
-
-First Round Fake Duel
-
-सीनियर सिस्टर की पहली तलवार इतनी तेज है कि जूनियर को हिट करती हुई लगती है
-जूनियर अंतिम क्षण तक तलवार के बाहरी किनारे को छूती है
-
-फिर गहरे स्टील की तलवार से निचली काउंटर
-सीनियर बचने के लिए घूमती है
-
-चांदी और गहरे स्टील की तलवारों का पहला बहुत छोटा, कठोर वास्तविक धातु टकराव होता है
-
-Key Requirements
-कोई भी पोज़ नहीं लेता
-
-टकराव के तुरंत बाद अगली चाल में उल्टा जाता है
-सफेद चौड़े स्लीव्स कैमरे के पास से तेजी से गुजरते हैं, पहला मुश्किल से noticeable प्राकृतिक छिपा हुआ कट बनाते हैं।
-Effect Required
-दर्शकों को संदेह हो:
-क्या वे अभिनय कर रहे हैं या वास्तव में लड़ रहे हैं?
-5–10s | Layer 1 Twist: Real Enemies Appear
-
-इनको बनाए रखें:
-एक समान मंच
-शहर
-
-दूर के महल का स्केल
-
-तलवार का स्वामित्व
-35–40mm लैटरल ट्रैकिंग का उपयोग करें, लड़ाई अग्रभूमि मंच पर क्षैतिज/त्रिज्यावर्तमान रूप से विकसित होती है, कोई नए स्थान नहीं।
-
-Continuous Offense/Defense
-
-सिस्टर्स उच्च गति लेकिन स्थानिक रूप से स्पष्ट अनुक्रम पूरा करती हैं:
-
-सीनियर थ्रस्ट करती है
-
-जूनियर डिफ्लेक्ट करती है
-जूनियर तुरंत सीनियर द्वारा उजागर किए गए किनारे के साथ काउंटर-स्लिप करती है
-सीनियर तलवार के नीचे झुकती है
-उच्च गति क्रॉस, मूल स्थानों को अदला-बदली करते हुए
-Action Rules
-
-सभी चालें स्वाभाविक रूप से चेन होती हैं।
-पिछला स्ट्राइक अगला बनाता है।
-एक चाल के बाद स्टैंस रीसेट न करें।
-
-First Assassin Revealed
-जैसे ही तलवारें <0.5s में क्रॉस होती हैं, दूर की भीड़ में मिले एक कार्यात्मक हत्यारे बाहर निकलते हैं, सीनियर के ब्लाइंड स्पॉट से हमला करते हैं।
-
-Key Requirements
-नकली दुएल कभी न रोकें।
-सीनियर खतरे को केवल जूनियर की क्षणिक आंखों के बदलाव से नोटिस करती है।
-जूनियर जैसे सीनियर पर हमला कर रही हो वैसे ही झूलती रहती है।
-सीनियर अंतिम क्षण में जूनियर की तलवार के नीचे झुक जाती है।
-जूनियर की तलवार कंधे के पास से गुजरती है, पीछे से आ रहे हत्यारे के हथियार को हिंसक रूप से दूर कर देती है।
-यह क्षण दर्शकों को एहसास कराएगा:
-दुएल एक चारा था।
-Second Assassin Revealed
-लगभग कोई सांस नहीं।
-दूसरा हत्यारा विपरीत दिशा से जूनियर पर दौड़ता है।
-
-सीनियर क्रॉस से घूर्णी जड़त्व का उपयोग करती है, जूनियर के कंधे के पार काटती है, एक छोटी चांदी की तलवार टकराव दूसरे हत्यारे के मार्ग को बदल देती है।
-
-Result
-गति के दौरान नकली दुएल स्वाभाविक रूप से वास्तविक चार-तरफा लड़ाई में बदल जाती है।
-
-Strictly Forbidden
-कोई भी समझाने के लिए रुके
-
-हत्यारे कतार में खड़े हों
-
-मास्टर दूर से चुपचाप देख रहा हो
-10–15s | Layer 2 Twist: No Holds Barred Between Them
-प्रकटीकरण के बाद दो हत्यारे रणनीति बदलते हैं।
-दो दिशाओं से तेज होते हैं, महिलाओं को वास्तव में अलग करने की कोशिश करते हैं।
-
-थोड़ा वाइडर मूविंग शॉट का उपयोग करें।
-विशाल मंच पर चारों की पूर्ण स्थिति संबंध दिखाएं, पृष्ठभूमि अब भी प्राचीन शहर/दूर के महल को दिखाती है।
-Dual Cross Swap
-
-सिस्टर्स बाहर की ओर पीछे नहीं हटती हैं।
-उच्च गति पर एक-दूसरे की ओर दौड़ती हैं।
-कंधे की रेखाएं पूर्ण गति पर करीब से टकराती हैं, तुरंत आगे/पीछे अदला-बदली करती हैं।
-क्रॉस मस्जृद और निर्बाध होना चाहिए।
-टकराव के क्षण:
-
-जूनियर सीनियर के ब्लाइंड स्पॉट पर हमला करने वाले हत्यारे को लेती है
-
-सीनियर जूनियर पर दौड़ते हत्यारे को लेती है
-
-पूरे समय कोई आंखों का संपर्क नहीं।
-एक हत्यारे का हथियार कैमरे के फ्रेम को हिंसक रूप से झाड़ देता है, सबसे स्पष्ट प्राकृतिक हथियार-छिपा हुआ कट बनाता है।
-
-नए रिवर्स अक्ष पर कट करें।
-मुख्य पात्र पूरी तरह अदला-बदल हो गए हैं।
-Final Break Moves
-प्रत्येक एक अत्यंत छोटा, सीधा रिवर्स काउंटर करता है।
-Strictly Forbidden
-
-विशाल तलवार का qi
-
-सुंदर स्पिन
-
-स्लो मोशन
-परिणाम:
-
-एक हत्यारे का हथियार मार्ग जूनियर द्वारा बदल दिया जाता है, शरीर अपने जड़त्व के कारण बाहर की ओर फिसलता है
-दूसरे का हमला अक्ष सीनियर की चांदी की तलवार द्वारा बदल दिया जाता है, इष्टतम सीमा से बाहर धकेला जाता है
-
-दोनों हत्यारे जीवित हैं, बस इस राउंड का मौका खो दिया है।
-Sound Cutoff
-
-युद्ध की आवाज अचानक संकीर्ण हो जाती है।
-केवल:
-
-चार लोगों की सांसें
-दो मुख्य पात्रों की तलवारों का हल्का कंपन
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106642529160749056/img/ifDPxtnGu3ym2xT4.jpg" width="600" alt="Seedance 2.0 नकली दुएल ट्रैप एक्शन प्रॉम्प्ट">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=11922)**
-
-**लेखक:** [Soran](https://x.com/Soranlan) | **स्रोत:** [Link](https://x.com/Soranlan/status/2106643465094431201) | **प्रकाशित:** Oct 4, 2026
-
----
-### साइ-फाई योद्धा गलियारे युद्ध प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अल्ट्रा-रियलिस्टिक सिनेमाई साइ-फाई एक्शन सीन के लिए प्रॉम्प्ट जिसमें एक योद्धा ऊर्जा ब्लेड के साथ औद्योगिक गलियारे में दौड़ रहा है।
-
-#### 📝 प्रॉम्पट
-
-```
-अल्ट्रा-रियलिस्टिक सिनेमाई साइ-फाई एक्शन सीन, एक शक्तिशाली योद्धा जो बहते हुए बेज रंग के भविष्यवादी पोशाक में विशाल औद्योगिक गलियारे से होकर दौड़ रहा है और चमकदार नीले ऊर्जा ब्लेड का उपयोग कर रहा है, दो कवचधारी दुश्मन आगे बढ़ रहे हैं, नाटकीय टिल्टेड कैमरा कोण, तीव्र गति, गतिशील आंदोलन, वास्तविक कपड़े की विवरण, धातु भविष्यवादी वास्तुकला, वातावरणीय प्रकाश व्यवस्था, वॉल्यूमेटरिक छाया, सिनेमाई डेप्थ ऑफ फील्ड, उच्च कंट्रास्ट, फोटोरियलिस्टिक, 8K, महान हॉलीवुड साइ-फाई फिल्म सौंदर्य, 35mm लेंस, वर्टिकल 9:16 संरचना।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106610479351365632/img/ZHmFCfa_f0mlJa67.jpg" width="600" alt="साइ-फाई योद्धा गलियारे युद्ध प्रॉम्प्ट">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=11851)**
-
-**लेखक:** [AIwithMinal](https://x.com/AIwithMinal) | **स्रोत:** [Link](https://x.com/AIwithMinal/status/2106610541636837770) | **प्रकाशित:** Oct 4, 2026
-
----
-### आसमान बुनने का फैंटेसी वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 से तैयार किया गया एक विस्तृत प्रॉम्प्ट, जिसमें एक बुजुर्ग महिला स्कार्फ बुनती हैं जो रात के आसमान में बदल जाता है (15-सेकंड का वीडियो)।
-
-#### 📝 प्रॉम्पट
-
-```
-आसमान बुनना
-0–5s: एक बुजुर्ग महिला, जिसके बाल चांदी जैसे सफेद हैं, रात के समय खुली खिड़की के पास लकड़ी की रॉकिंग कुर्सी पर अकेली बैठी दो लकड़ी की सुइयों से बुनाई कर रही है। उसकी गोद से एक लंबा गहरा नीला स्कार्फ लकड़ी के फर्श पर फैला हुआ है। गर्म एम्बर रोशनी और कोमल छायाएँ। मध्यम शॉट।
-5–10s: दर्शक उसके हाथों और स्कार्फ के करीब जाते हैं, और गहरे रंग का धागा बुनाई में बुने हुए छोटे चमकते हुए तारों और धीरे-धीरे घूमती हुई आकाशगंगाओं को दिखाता है। एक तारा उसकी सुई के सिरे पर फंसकर चमकता है। उसका चेहरा शांत मुस्कान में नरम हो जाता है। क्लोज़-अप।
-10–15s: वह अंतिम गांठ लगाती है और स्कार्फ को हल्के से खुली खिड़की से बाहर फेंक देती है, जहाँ यह छतों के ऊपर ऊपर की ओर खुलता है और वास्तविक रात का आसमान बन जाता है, तारे अपनी जगह पर स्थिर हो जाते हैं। घर के बाहर से ऊपर देखते हुए वाइड शॉट, नीचे गर्म खिड़की की चमक, ऊपर गहरा नीला आसमान।
-Negative Prompt: extra fingers, extra hands, deformed hands, fused fingers, more than two knitting needles, melting needles, warped yarn, second woman, duplicate person, child, modern furniture, television, phone, harsh white lighting, neon colors, cartoon style, anime style, plastic skin, distorted face, flickering, glitch artifacts, text, watermark, logo, fast camera shake, slow motion, scarf turning solid, glowing face, sparkle overload, lens flare spam, fireworks, daytime sky
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106558771078029312/img/hZPtgXieC5nDSGJi.jpg" width="600" alt="आसमान बुनने का फैंटेसी वीडियो प्रॉम्प्ट">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=11848)**
-
-**लेखक:** [DeCat](https://x.com/DeCat2025) | **स्रोत:** [Link](https://x.com/DeCat2025/status/2106559472432795987) | **प्रकाशित:** Oct 4, 2026
-
----
-### एनीमे सफाई ट्रांसफॉर्मेशन वीडियो प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> गंदे जूते के इनसोल को स्प्रे फोम और स्क्रबिंग से साफ करने की संतुष्टिदायक ट्रांसफॉर्मेशन दिखाने वाले 15-सेकंड के वर्टिकल एनीमे-शैली वीडियो के लिए एक विस्तृत प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-15-सेकंड का वर्टिकल 9:16 जापानी 2D एनीमे शॉर्ट, संतुष्टिदायक सफाई ट्रांसफॉर्मेशन। हाथ से बनाया गया सेल एनिमेशन लुक, साफ काली स्याही की आउटलाइन, जीवंत रंग, नरम सेल शेडिंग, गति रेखाओं के साथ मंगा-शैली एडिटिंग, हलफटोन स्क्रीनटोन डॉट्स, चमकदार इफेक्ट्स और सफेद इम्पैक्ट फ्लैश। स्टूडियो-क्वालिटी एनीमे प्रोडक्शन, स्मूथ मोशन, 24fps। विषय: एक घिसा हुआ, गंदा जूते का इनसोल (भूरे-सुनहरे दाग, पैर की छाप) ब्रश्ड स्टेनलेस स्टील काउंटर पर रखा है, ऊपर से सीधे शॉट लिया गया है। एक एनीमे-शैली का हाथ (कोई चेहरा नहीं, कोई शरीर नहीं, केवल हाथ और अग्रबाहु दिखाई दे रहा है) एक छोटी काली स्प्रे बोतल पकड़े हुए है जिस पर हरा कैप है। ठंडा चांदी का बैकग्राउंड, खिड़की से आती नरम रोशनी और छोटे पानी के बूंदों के साथ। शॉट 1: लॉक्ड टॉप-डाउन शॉट, 3 सेकंड। गंदा इनसोल स्टील काउंटर पर पड़ा है, एक हाथ उसे चपटा दबाता है। धूल के कण तैर रहे हैं, कोनों पर सूक्ष्म हलफटोन विनेट, किनारों से पतली गति रेखाएं अंदर आ रही हैं। शॉट 2: क्लोज टॉप-डाउन शॉट, 3 सेकंड। स्प्रे बोतल इनसोल पर एक बारीक धुंध छोड़ती है, मोटा सफेद फोम बाहर की ओर फटता है और सतह पर फैल जाता है, बुलबुले चमक पकड़ते हैं। पहली बार फोम फटने पर रेडियल स्याही की रेखाओं के साथ एक-फ्रेम सफेद इम्पैक्ट फ्लैश। शॉट 3: टाइट ओवरहेड शॉट, 3 सेकंड। हाथ गोलाकार गति में फोम को रगड़ता है, भूरे-सुनहरे गंदगी सफेद फोम में घुल जाती है और मुड़ी हुई स्याही जैसी घुमावों में किनारे की ओर बहती है। गतिशील मोशन लाइन्स हाथ का पीछा करती हैं। शॉट 4: ओवरहेड शॉट, 3 सेकंड। साफ पानी का राइंस फोम को धो देता है, इनसोल को एक तेज व्हिप मोशन में पलटा जाता है, जिससे एक चमकदार साफ सफेद सतह सामने आती है। चमकदार स्पार्कल्स और शाइन स्ट्रीक्स उस पर उभरते हैं। शॉट 5: ऊपर से स्लो पुश-इन, 3 सेकंड। बेदाग सफेद इनसोल स्टील काउंटर पर चमकता है, हाथ कोने में बोतल रख देता है। अंतिम स्पार्कल बर्स्ट, नरम चमकती रोशनी, मंगा-शैली स्क्रीनटोन विनेट, अंतिम बीट तक जैसे मंगा कवर पैनल हो, रोका हुआ। ऑडियो: क्रिस्प स्प्रे हिस्स, फिजिंग फोम क्रैकल, रिदमिक स्क्रबिंग, बहता पानी, हर शाइन इफेक्ट पर एक चमकदार स्पार्कल चिम, नीचे एक नरम अपबीट जापानी लो-फाई बीट। कोई भाषण नहीं, कोई गायन नहीं। बचें: चेहरे, यथार्थवादी लाइव-एक्शन लुक, 3D रेंडर, टेक्स्ट, सबटाइटल, लोगो, ब्रांड नाम, अतिरिक्त उंगलियाँ, विकृत हाथ, फ्लिकर। 15-सेकंड का वर्टिकल 9:16 जापानी 2D एनीमे, संतुष्टिदायक सफाई ट्रांसफॉर्मेशन, टॉप-डाउन शॉट। एक एनीमे-शैली का हाथ (कोई चेहरा नहीं) स्टेनलेस स्टील काउंटर पर एक गंदे भूरे जूते के इनसोल पर फोम स्प्रे करता है, गोलाकार गति में फोम को रगड़ता है, उसे धोता है, और इनसोल स्पार्कल इफेक्ट्स के साथ चमकदार साफ सफेद हो जाता है। मंगा-शैली गति रेखाएं, हलफटोन डॉट्स, और पहली बार फोम फटने पर एक सफेद इम्पैक्ट फ्लैश। ऑडियो: स्प्रे हिस्स, फोम क्रैकल, स्क्रबिंग, पानी, हल्के स्पार्कल चिम्स, नरम लो-फाई बीट। कोई चेहरे नहीं, कोई टेक्स्ट नहीं, कोई लोगो नहीं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106554700040679424/img/6e1kkIefx27oeGQA.jpg" width="600" alt="एनीमे सफाई ट्रांसफॉर्मेशन वीडियो प्रॉम्प्ट">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=11847)**
-
-**लेखक:** [Nadya](https://x.com/nadyamaje) | **स्रोत:** [Link](https://x.com/nadyamaje/status/2106554883235356947) | **प्रकाशित:** Oct 4, 2026
-
----
-### Bleach Bypass सिनेमा प्रोजेक्शनिस्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक टेक्स्ट-टू-वीडियो जनरेशन के लिए एक प्रॉम्प्ट जिसमें एक ध्वस्त सिनेमा में एक बुजुर्ग प्रोजेक्शनिस्ट दिखाई देता है, जिसे bleach-bypass फिल्म प्रोसेसिंग और विशिष्ट सिनेमेटोग्राफिक निर्देशों के साथ स्टाइल किया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-ध्वस्त हो रहे एक पड़ोस के अंडरबैंडेड सिनेमा के अंदर, एक बुजुर्ग प्रोजेक्शनिस्ट खंडहर ऑडिटोरियम के बीचोंबीच अकेला बैठा है और इमारत गायब होने से पहले आखिरी फिल्म देख रहा है। उसके चारों ओर धूल भरे वेलवेट सीटों की कतारें हैं, छत के कुछ हिस्से गायब हैं, दीवार में बड़े से छेद से दिन की रोशनी अंदर आ रही है, बाहर निर्माण मशीनरी दिखाई दे रही है। प्रोजेक्टर चलता रहता है, उसकी बीम मोटी धूल के बादलों को काटती हुई निकलती है। कैमरा ध्वस्त प्रवेश द्वार से शुरू होकर गलियारे के नीचे प्रोजेक्शनिस्ट की ओर धीरे-धीरे यात्रा करता है, फिर उसके पीछे घूमता है और क्षतिग्रस्त स्क्रीन पर प्रोजेक्ट की गई छवि को दिखाता है। यथार्थवादी लाइव-एक्शन सिनेमेटोग्राफी, bleach-bypass फिल्म प्रोसेसिंग, फीका बर्गंडी और सुनहरा रंग लगभग ग्रे तक कम हो गया है, गहरे ब्लैक, चमकदार सिल्वर हाइलाइट्स, तीव्र कंट्रास्ट, भारी 35mm ग्रेन, सूक्ष्म स्क्रैच और एक्सपोजर वेरिएशन, भावनात्मक रूप से संयमित, कोई मेलोड्रामा नहीं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106514798942752768/img/wF54JkcWicweR581.jpg" width="600" alt="Bleach Bypass सिनेमा प्रोजेक्शनिस्ट">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=11916)**
-
-**लेखक:** [Alexandra Aisling](https://x.com/AllaAisling) | **स्रोत:** [Link](https://x.com/AllaAisling/status/2106515375559217226) | **प्रकाशित:** Oct 3, 2026
-
----
-### Seedance 2.0 Mini वुक्सिया युद्ध प्रॉम्प्ट
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 Mini का उपयोग करके दो महिला तलवार साधकों के बीच एक उच्च-तनाव वाले वुक्सिया युद्ध दृश्य को उत्पन्न करने के लिए एक विस्तृत प्रॉम्प्ट, जो समकालिक रणनीतिक गतिविधियों और सिनेमाई निरंतरता पर केंद्रित है।
-
-#### 📝 प्रॉम्पट
-
-```
-सिनेमैटिक फोटोरियलिस्टिक बनावट, शुद्ध प्राचीन चीनी ज़ियान्शिया (Xianxia) उच्च-तनाव द्वंद्व युद्ध।
-
-इस बार पिछले मोड्स से पूरी तरह बाहर निकलें:
-
-लगातार हथियार बदलाव
-एकल लड़ाई में टूट-फूट
-
-कोर बन जाता है:
-दो मुख्य पात्र स्वयं एक लगातार चलती हुई द्वंद्व रणनीतिक प्रणाली हैं।
-एक सामने से दबाव अवशोषित करती है
-
-दूसरी पार्श्व से स्थिति बदल देती है
-अगले ही क्षण भूमिकाएं तुरंत अदला-बदली हो जाती हैं
-वास्तविक रोमांच चमकीली तलवार की ऊर्जा (sword qi) नहीं है, बल्कि यह है कि दोनों नायिकाओं को लगभग पीछे मुड़कर पुष्टि करने की आवश्यकता नहीं होती, वे लगातार एक-दूसरे के अंधे धब्बों (blind spots) को कवर कर सकती हैं, जिससे मजबूत और मजबूत मौन सहयोग और तनाव बनता है।
-
-पात्र और संपत्ति लॉकिंग
-
-केवल @image 1 और @image 2 को दो मुख्य पात्रों के रूप में सख्त लॉक करें।
-
-@image 1 | तलवार अपराजित सीनियर सिस्टर
-
-Image 1 तलवार अपराजित सीनियर सिस्टर हमेशा मूल स्वरूप बनाए रखती है:
-
-वयस्क पूर्वी एशियाई महिला पहचान
-चेहरा
-
-काले लंबे बाल आधे खुले
-सफेद जेड हेयरपिन
-लंबा और दुबला अनुपात
-सफेद कढ़ाई वाली रेशमी हानफू
-अर्ध-पारदर्शी परतदार चौड़ी आस्तीन
-चांदी का कमर का सिक्का
-जेड पेंडेंट
-सफेद कपड़े के बुट्स
-केवल एक चांदी की सीधी तलवार
-@image 2 | जूनियर सिस्टर
-Image 2 जूनियर सिस्टर हमेशा मूल स्वरूप बनाए रखती है:
-
-वयस्क पूर्वी एशियाई महिला पहचान
-चेहरा
-
-बुना हुआ काला बाल
-हरे रंग का लिनन हानफू
-गहरे रंग की पट्टी
-लकड़ी का हेयरपिन
-काले कपड़े के जूते
-केवल एक गहरे रंग की स्टील तलवार
-अन्य पात्र
-शत्रु, गुरु, और राहगीर सभी केवल कार्यात्मक पात्र हैं, उन्हें जटिल चेहरे या कपड़ों की लॉकिंग की आवश्यकता नहीं है।
-
-पर्यावरण डीएनए
-इस दौर में अपलोड किए गए सभी पृष्ठभूमि और स्थान संदर्भ छवियां मिलकर एक ही सेट Environment DNA निर्धारित करते हैं।
-
-औपचारिक जनरेशन से पहले, उनमें संगत तत्वों का चुपचाप विश्लेषण करें:
-
-भूभाग
-
-वास्तुकला
-
-ऊंचाई के अंतर
-
-स्थानिक पैमाना
-सामग्री की आयु
-वनस्पति
-जल निकाय
-मौसम
-पहाड़ी कुहासा
-प्रकाश व्यवस्था
-प्रतिबिंब
-वायु की गहराई
-पात्रों द्वारा पार की जा सकने वाली मार्गें
-फिर इसे इस दौर के लिए एक अनोखे लेकिन विश्वसनीय नए स्थान में पुनः संयोजित करें।
-स्थान और मार्ग सिद्धांत
-पूरे 15 सेकंड एक निरंतर समझने योग्य युद्ध मार्ग में होने चाहिए, अचानक किसी अन्य दुनिया में स्विच नहीं किया जा सकता।
-
-पृष्ठभूमि गतिशील रूप से सक्रिय रहती है लेकिन कहानी के दृष्टिकोण से तटस्थ:
-
-हवा
-
-पानी
-
-कुहासा
-
-पत्तियाँ
-
-कपड़ों की किनारे
-प्रतिबिंब
-दूर की आकृतियाँ
-हमेशा स्वाभाविक रूप से सक्रिय रहती हैं।
-केवल तभी जब पात्र वास्तव में:
-कदम बढ़ाते हैं
-टकराते हैं
-
-छूते हैं
-
-हथियार पर्यावरण को छूते हैं
-
-तो ये दिखाई देते हैं:
-धूल
-तरंगें
-मलबा
-
-खरोंचें
-
-कपड़ों का विस्थापन
-आदि निष्क्रिय भौतिक प्रतिक्रिया।
-कड़ाई से वर्जित
-पुल का अचानक टूटना
-कुहासा का अचानक लोगों को बचाना
-
-पेड़ का अचानक तलवार को रोकना
-
-इमारत का अपने आप ढहकर किसी पक्ष की मदद करना
-खंडित संरचना
-0–5s | वाइड शॉट से मीडियम शॉट में प्रवेश
-उसी सफेद वस्त्र धारी तलवार अपराजित सीनियर सिस्टर और उसी हरे वस्त्र धारी जूनियर सिस्टर पीठ-से-पीठ खड़ी हैं।
-तीन शत्रु तलवारबाज़ जो केवल युद्ध कार्य वहन करते हैं, विभिन्न दिशाओं से सक्रिय रूप से आगे बढ़ रहे हैं।
-0–1s
-
-24mm फिक्स्ड वाइड पैनोरमा का उपयोग करें, दर्शकों को एक बार में समझने दें:
-
-पांच लोगों की स्थिति
-
-आक्रमण की दिशाएं
-
-अगले चरण के लिए उपलब्ध स्थान
-जूनियर सिस्टर अपनी आवाज़ धीमी करती है, केवल एक लाइन कहती है:
-
-"इस बार, मुझे बचाने के लिए पीछे मत मुड़ना।"
-सीनियर सिस्टर पूरे समय पीछे नहीं मुड़ती, शांति से उत्तर देती है:
-
-"ठीक है।"
-जैसे ही अंतिम शब्द गिरता है, शत्रु बिना पूर्व चेतावनी के एक साथ हमला करते हैं।
-कैमरा तेजी से फिक्स्ड 24mm से 35mm मीडियम-क्लोज रेंज मोशन में जाता है, लेकिन बेतरतीब ढंग से नहीं हिलता, बल्कि पात्रों की वास्तविक गति रेखाओं द्वारा लाया जाता है।
-
-पहला राउंड संलग्न
-
-एक शत्रु सीनियर सिस्टर पर ऊपर से हमला करता है
-
-दूसरा शत्रु एक ही समय में जूनियर सिस्टर के अंधे पक्ष में कटता है
-
-दोनों महिलाएं लगभग तुरंत विपरीत दिशाओं में विस्फोट करती हैं:
-
-सीनियर सिस्टर पहली तलवार के हमले की रेखा को थोड़ा बदलती है और फिर सीधे स्थिति आगे बढ़ाती है
-
-जूनियर सिस्टर दूसरे हमले को नीचे झुककर टालती है, केवल शत्रु के हथियार के पथ पर पलटवार करती है, रुककर पोज़ नहीं देती
-
-दोनों तुरंत संदर्भ पर्यावरण में वास्तव में मौजूद मार्गों के साथ आगे की ओर स्थानांतरित होना शुरू कर देती हैं।
-एक तेज़ गति वाला अग्रभूमि शत्रु का शरीर संक्षिप्त रूप से लेंस को भर देता है, इस वास्तविक ओक्लूज़न का उपयोग करके पहला छिपा हुआ कट पूरा होता है, दर्शक barely महसूस करते हैं कि कैमरा की स्थिति बदल गई है।
-5–10s | मीडियम शॉट निरंतर फॉलो
-बनाए रखें:
-
-वही स्थान
-वही दो मुख्य पात्र
-
-वही हथियारों का स्वामित्व
-
-शत्रु बिल्कुल भी कतार में चालें भेज नहीं सकते, वे लगातार:
-
-पीछा करते हैं
-
-घेरते हैं
-
-रोकते हैं
-इस समय:
-सीनियर सिस्टर दो शत्रुओं से लगातार दबाव सहन करती है
-जूनियर सिस्टर एक अन्य शत्रु का सामना करती है
-
-स्क्रीन को "दो अलग-अलग लड़ रही हैं" में विभाजित नहीं करना है, दोनों युद्ध रेखाओं को लगातार बुनने दें।
-
-पहला रणनीतिक पूरक
-सीनियर सिस्टर जानबूझकर आधा कदम पीछे हटती है, एक पीछा करने वाले शत्रु को जूनियर सिस्टर की आगे बढ़ती हमला रेखा में लाती है।
-जूनियर सिस्टर सीनियर सिस्टर को बिल्कुल नहीं देखती, केवल उस क्षण जब शत्रु की तलवार की नोक वास्तव में उसके स्थान में प्रवेश करती है, गहरे रंग की स्टील तलवार से हथियार की दिशा को थोड़ा पकड़ती और बदलती है, तुरंत छोड़ देती है, सामने वाले व्यक्ति को संभालती रहती है।
-
-दूसरा रणनीतिक पूरक
-एक सेकंड से भी कम समय बाद, ठीक विपरीत घटना फिर से होती है।
-एक अन्य शत्रु जूनियर सिस्टर के पीछे से वास्तविक हमला करता है।
-उसी सफेद वस्त्र धारी तलवार अपराजित ने पीछे तक नहीं मुड़ना है, चांदी की तलवार की नोक फ्रेम के दूसरी ओर से तेज़ गति से प्रवेश करती है, केवल एक अत्यंत छोटे धातु के टकराव का उपयोग करके उस तलवार को जूनियर सिस्टर के पीछे खतरे की रेखा से बाहर धकेलती है, फिर चांदी की तलवार तुरंत फ्रेम से बाहर चली जाती है, सीनियर सिस्टर अपना युद्ध जारी रखती है।
-
-कोर अवस्था
-
-दोनों लोग कभी भी एक-दूसरे की स्थिति की पुष्टि नहीं करते, फिर भी सटीक रूप से जानते हैं कि दूसरा कहाँ है।
-कैमरा अग्रभूमि और मध्यभूमि के बीच चिकनी ग्लाइडिंग करता है, निम्नलिखित तत्वों का उपयोग करके जो तेज़ गति से लेंस के सामने से गुजरते हैं, 2-3 अत्यंत प्राकृतिक छिपे हुए संक्रमण बनाता है:
-
-शत्रु के कंधे
-
-सफेद चौड़ी आस्तीन
-हरे कपड़ों का किनारा
-
-हथियार
-लय आवश्यकताएँ
-कार्रवाई का लय एक गति से शुरू से अंत तक नहीं है, बल्कि:
-दो तेज़ विनिमय
-
-एक वास्तविक भारी हथियार का टकराव
-
-आधे बीट की मौनता
-फिर अचानक विस्फोट
-उसी वृद्ध गुरु दूर सुरक्षित क्षेत्र में अवलोकन करते रहते हैं, शुरू से अंत तक कोई कार्रवाई नहीं करते, किसी के लिए समस्याएं हल नहीं करते।
-10–15s | क्लोज शॉट से अंतिम व्यापक मीडियम शॉट में प्रवेश
-
-तीन शत्रु पाते हैं कि अकेला पीछा प्रभावी नहीं है, पहली बार वे एक साथ रणनीति बदलते हैं, तीन दिशाओं से स्थान को सिकोड़ते हैं, सीनियर सिस्टर और जूनियर सिस्टर को एक ही केंद्रीय क्षेत्र की ओर मजबूर करते हैं।
-स्पष्ट गतिरोध बनता है।
-
-दोनों पीछे हटना जारी नहीं रखतीं।
-उसी सफेद वस्त्र धारी तलवार अपराजित और उसी हरे वस्त्र धारी जूनियर सिस्टर अचानक एक-दूसरे की ओर दौड़ पड़ती हैं।
-कैमरा तुरंत कट नहीं करता, दर्शकों को पूरी तरह देखने देता है:
-दोनों के कंधों की रेखाएं तेज़ गति से एक-दूसरे को छूती हैं, शरीर न्यूनतम दूरी के साथ एक-दूसरे से गुजरते हैं।
-गुजरने के क्षण में, दोनों पूरी तरह आगे-पीछे की स्थिति अदला-बदली कर लेती हैं।
-और कोई भी दूसरे को नहीं देखता।
-
-अदला-बदली के बाद रणनीतिक पलटा
-
-सीनियर सिस्टर जूनियर सिस्टर को पार करते समय, सीधे उस शत्रु को संभाल लेती है जो मूल रूप से जूनियर सिस्टर के अंधे पक्ष पर हमला कर रहा था
-
-जूनियर सिस्टर उसी समय उस शत्रु की रेखा में कटती है जो मूल रूप से सीनियर सिस्टर का पीछा कर रहा था
-
-एक शत्रु की लंबी तलवार पूरे कैमरे पर तेज़ गति से झाड़ती है, केवल एक स्पष्ट हथियार ओक्लूज़न हार्ड कट बनाती है।
-
-बिल्कुल नए रिवर्स अक्ष पर कट:
-
-सीनियर सिस्टर अब उस स्थान पर खड़ी है जहाँ जूनियर सिस्टर अभी थी
-
-जूनियर सिस्टर भी उस स्थान पर खड़ी है जहाँ सीनियर सिस्टर अभी थी
-
-दोनों तुरंत दो अत्यंत छोटे, अत्यंत सीधे, बिना दिखावे वाले रिवर्स ब्रेक पूरे करते हैं:
-चांदी की तलवार की नोक एक शत्रु की ठुड्डी से एक उंगली की चौड़ाई पहले सुरक्षित रूप से रुक जाती है
-
-गहरी स्टील तलवार उसी समय एक अन्य शत्रु की तलवार पकड़े हुए कलाई के बाहर सुरक्षित रूप से रुक जाती है
-तीसरा शत्रु फिर से हमला करने की तैयारी करता है, लेकिन पाता है कि दोनों प्रभावी हमला रेखाएं पूरी तरह साथी की स्थिति द्वारा अवरुद्ध हैं, उसे केवल जबरन पीछे हटना पड़ता है।
-
-अचानक रुकने का क्षण
-पहले घने:
-सरसराने की आवाज़ें
-
-धातु के टकराव
-
-जूते के तलवे फिसलने की आवाज़ें
-
-ढहना इस क्षण अचानक रुक जाता है।
-केवल छोड़ देता है:
-
-दोनों महिलाओं की वास्तविक सांसें
-
-तलवारों की अत्यंत हल्की अवशिष्ट कंपन
-रेशमी कपड़ों के किनारे धीरे-धीरे नीचे गिरते हैं
-
-सीनियर सिस्टर अभी भी सामने वाले शत्रु को देख रही है, बिना सिर घुमाए पूछती है:
-
-"अभी जीवित हो?"
-जूनियर सिस्टर लगभग बिना रुके उत्तर देती है:
-
-"तुमसे आसान।"
-सीनियर सिस्टर के कोने में केवल अत्यंत संक्षिप्त, अत्यंत हल्की मुस्कान की झलक दिखाई देती है।
-दूर का वही गुरु अंत में हल्की सांस छोड़ता है जो उसने पूरे समय रोकी थी, लेकिन उपदेश नहीं देता, दोनों के बीच संबंध की व्याख्या नहीं करता।
-
-अंतिम अवस्था
-
-जीत की पुष्टि के बाद, बिल्कुल भी जीत के पोज़ नहीं।
-
-दोनों महिलाएं एक साथ तलवारों की नोकें नीचे करती हैं, उसी गति से उसी स्थान के माध्यम से आगे बढ़ती रहती हैं; तीन शत्रु सहज रूप से रास्ता दे देते हैं।
-बाल, कपड़ों के किनारे, पर्यावरणीय हवा, जल कुहासा, मलबा प्राकृतिक गति जारी रखते हैं, चित्र सीधे समाप्त होता है जबकि पात्र अभी भी आगे बढ़ रहे हैं।
-कैमरा और संपादन आवश्यकताएँ
-
-सख्त कुल अवधि 15 सेकंड
-
-16:9 लैंडस्केप
-
-0–5s / 5–10s / 10–15s तीन स्पष्ट कहानी खंड बनाए रखें
-
-दृश्य रूप से एक निरंतर रेशमी कैमरा पथ द्वारा प्रभुत्व
-
-पूरी फिल्म में केवल लगभग 4-5 छिपे हुए कट या टकराव द्वारा ट्रिगर किए गए कट की अनुमति है
-
-"एक्शन फील" के लिए पागल खंडित कटिंग प्रतिबंधित
-
-Seedance 2.0 Mini निष्पादन फोकस
-Seedance 2.0 Mini के लिए, सक्रिय रूप से प्रॉम्प्ट बजट को नियंत्रित करें।
-
-सबसे महत्वपूर्ण है:
-
-Image 1, Image 2 दो मुख्य पात्रों की पहचान स्थिर
-
-दो तलवारों का स्वामित्व स्थिर
-
-हाथ और शरीर निरंतर
-
-दोनों लोगों की स्थानिक संबंध निरंतर
-कोर पर्यावरण मार्ग निरंतर
-तीन शत्रुओं को केवल बनाए रखने की आवश्यकता है:
-प्राचीन शैली के शत्रु तलवारबाज़
-मूल कार्यात्मक उपस्थिति
-बस इतना ही, मॉडल का ध्यान चेहरे, कपड़ों और विवरणों को सख्त लॉक करने में बर्बाद न करें।
-
-ध्वनि और गति आवश्यकताएँ
-
-नेटिव सिंक मैन्डरिन डायलॉग
-
-नेटिव सिंक स्थानिक ऑडियो प्रभाव
-
-फोकस मजबूत करना:
-
-तलवार की नोक का संक्षिप्त सरसराहट
-वास्तविक धातु के टकराव
-जूते के तलवे का घर्षण
-रेशमी कपड़ों के किनारे का हिलना
-पात्रों की वास्तविक सांसें
-
-अंतिम अचानक मौन ध्वनि विरोधाभास
-
-गति बनावट
-24fps सिनेमैटिक गति बनावट
-
-प्राकृतिक गति धुंधलापन
-
-कार्रवाई में स्पष्ट होना चाहिए:
-शुरू
-त्वरण
-बल लगाना
-रेखा परिवर्तन
-जड़त्व
-ब्रेकिंग
-
-कड़ाई से वर्जित
-टेलीपोर्टेशन
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106386731285245952/img/oyhTyHCArGSxRsNP.jpg" width="600" alt="Seedance 2.0 Mini वुक्सिया युद्ध प्रॉम्प्ट">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=11852)**
-
-**लेखक:** [Soran](https://x.com/Soranlan) | **स्रोत:** [Link](https://x.com/Soranlan/status/2106388571863253309) | **प्रकाशित:** Oct 3, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
@@ -4811,6 +3966,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-10-26T03:43:42.952Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-10-26T10:00:43.795Z</sub>
 
 </div>
