@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6598** |
+| 📝 Totale prompt | **6599** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-10-27** |
 
@@ -361,6 +361,25 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Annuncio del siero labbra alla ciliegia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt pubblicitario cinematografico per Seedance 2.0 che presenta un siero labbra alla ciliegia in uno studio rosa da sogno.
+
+#### 📝 Prompt
+
+```
+Crea una pubblicità cinematografica ultra-realistica di 10 secondi con il Glaze2Glow Cherry Soda Lip Serum, ambientata in uno studio rosa da sogno con tessuti di raso lucido, oggetti di scena in vetro scintillante e ciliegie rosse fresche. Inizia con un'inquadratura hero centrale del siero labbra color borgogna posizionato su una piattaforma trasparente in acrilico, decorata con un fiocco a quadretti bianchi e rossi e un grazioso charm a forma di ciliegia. Avvicina lentamente la telecamera al prodotto, mettendo in risalto l'eleganza del packaging e il lucido applicatore metallico. Passa poi a primissimi piani macro estremi del charm a ciliegia sospeso, delle perline rosse lucide e delle delicate foglie verdi, catturando ogni minimo dettaglio. Mostra l'applicatore argentato mentre eroga un siero denso e traslucido rosso ciliegia che cola lentamente formando una pozza lucida. Esalta la texture vellutata del siero, il suo riflesso bagnato e i bellissimi giochi di luce sotto le morbide luci dello studio. Stacca su un primo piano di labbra naturalmente carnose durante l'applicazione delicata del prodotto, che le lascia idratate, visibilmente più voluminose e intensamente brillanti. Concludi con un'inquadratura lussuosa del prodotto appoggiato su raso rosa accanto a cristalli scintillanti e ciliegie fresche, per poi tornare alla composizione hero verticale iniziale. Utilizza movimenti di camera fluidi, una ridotta profondità di campo, delicati riflessi rosa, texture realistiche e un'estetica premium da beauty commercial, mantenendo un design del prodotto coerente dall'inizio alla fine, senza testi aggiuntivi o distorsioni del packaging.
+```
+
+<img src="https://cms-assets.youmind.com/media/1793080709276_92a8ge_HVi6P5tawAArfSE.jpg" width="600" alt="Annuncio del siero labbra alla ciliegia">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13099)**
+
+**Autore:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2114644821101171101) | **Pubblicato:** Oct 26, 2026
+
+---
 ### Prompt Video Cinematografico Auto di Lusso
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3834,41 +3853,6 @@ Una ragazza che fa skateboard ad alta velocità attraverso una strada urbana aff
 **Autore:** [Zidan 子丹](https://x.com/liluocheng13) | **Fonte:** [Link](https://x.com/liluocheng13/status/2106922065240731732) | **Pubblicato:** Oct 5, 2026
 
 ---
-### Difesa Asteroidi della Città Spaziale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt dettagliato per un cortometraggio sci-fi cinematografico di 15 secondi su una città spaziale in movimento che manipola gli asteroidi per creare uno scudo difensivo contro una flotta nemica.
-
-#### 📝 Prompt
-
-```
-Cortometraggio d'azione fantascientifico fotorealistico e cinematografico, 16:9.
-Una gigantesca città futuristica viaggia nello spazio profondo all'interno di un'enorme tempesta di asteroidi.
-Migliaia di astronavi volano accanto ad essa, manipolando attivamente gli asteroidi per formare uno scudo difensivo in continuo movimento.
-Improvvisamente, una flotta nemica attacca.
-Centinaia di caccia si tuffano nel campo di asteroidi.
-La città accelera.
-Gli asteroidi si schiantano sulle navi attaccanti.
-Le astronavi difensive sfrecciano tra enormi rocce, spingendole verso nuove traiettorie.
-Un'enorme nave da guerra nemica attraversa lo scudo di asteroidi e spara direttamente sulla città.
-L'intera città cambia improvvisamente direzione.
-Il campo di asteroidi si muove con essa.
-Milioni di rocce si dispongono in formazione attorno alla città come un gigantesco organismo meccanico.
-La nave da guerra attaccante realizza troppo tardi che il campo di asteroidi è l'arma stessa della città.
-Un impatto colossale riempie lo schermo.
-Finale con la città che scompare nella tempesta in movimento.
-
-Fantascienza hard fotorealistica, spettacolari ambienti di asteroidi, combattimento incessante, strutture mobili massive, movimenti di camera rapidi, astronavi dettagliate, scala enorme, azione cinematografica, nessun testo, nessun logo, no anime, no cartoni animati.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106842175623344128/img/8HYLYow99mg-lBVf.jpg" width="600" alt="Difesa Asteroidi della Città Spaziale">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11919)**
-
-**Autore:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fonte:** [Link](https://x.com/AllaAisling/status/2106852107114418554) | **Pubblicato:** Oct 4, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -3930,6 +3914,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-27T04:26:59.730Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-27T09:59:16.062Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6598** |
+| 📝 Gesamtanzahl Prompts | **6599** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-10-27** |
 
@@ -361,6 +361,25 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Kirsch-Lippen-Serum-Werbung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cinematischer Werbe-Prompt für Seedance 2.0 mit einem Kirsch-Lippen-Serum in einem traumhaften rosa Studio.
+
+#### 📝 Prompt
+
+```
+Erstelle einen 10-sekündigen, ultrarealistischen Kino-Werbespot mit einem Glaze2Glow Cherry Soda Lip Serum in einem verträumten pinkfarbenen Studio mit glänzendem Satinstoff, funkelnden Glasrequisiten und frischen roten Kirschen. Beginne mit einer zentrierten Hero-Aufnahme des burgunderroten Lippen-Serums auf einer transparenten Acrylplattform, dekoriert mit einer rot-weiß karierten Schleife und einem niedlichen Kirsch-Anhänger. Fahre die Kamera langsam auf das Produkt zu, um die elegante Verpackung und den glänzenden Metallapplikator hervorzuheben. Gehe dann über in extreme Makro-Nahaufnahmen des baumelnden Kirsch-Anhängers, der glänzenden roten Perlen und der filigranen grünen Blätter, wobei jedes noch so kleine Detail eingefangen wird. Zeige, wie der silberne Applikator ein dickflüssiges, transluzentes kirschrotes Serum abgibt, das langsam in eine glänzende Pfütze tropft. Halte die geschmeidige Textur des Serums, seinen feuchten Glanz und die wunderschönen Reflexionen unter weichem Studiolicht fest. Schneide zu einer Nahaufnahme natürlich voller Lippen, auf die das Serum sanft aufgetragen wird – sie wirken danach gepflegt, praller und intensiv glänzend. Beende den Spot mit einer luxuriösen Produktaufnahme auf rosa Satin neben funkelndem Glasgeschirr und frischen Kirschen und kehre anschließend zur ursprünglichen, aufrechten Hero-Komposition zurück. Verwende durchgehend fließende Kamerabewegungen, eine geringe Schärfentiefe, weiche pinkfarbene Lichtakzente, realistische Texturen und die Ästhetik eines hochwertigen Beauty-Werbespots bei konstantem Produktdesign – ohne zusätzlichen Text oder verzerrte Verpackungen.
+```
+
+<img src="https://cms-assets.youmind.com/media/1793080709276_92a8ge_HVi6P5tawAArfSE.jpg" width="600" alt="Kirsch-Lippen-Serum-Werbung">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13099)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2114644821101171101) | **Veröffentlicht:** Oct 26, 2026
+
+---
 ### Cinematic Luxury Car Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3842,41 +3861,6 @@ Ein Mädchen, das mit hoher Geschwindigkeit durch eine belebte Stadtstraße skat
 **Autor:** [Zidan 子丹](https://x.com/liluocheng13) | **Quelle:** [Link](https://x.com/liluocheng13/status/2106922065240731732) | **Veröffentlicht:** Oct 5, 2026
 
 ---
-### Weltraumstadt: Asteroiden-Verteidigung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für einen 15-sekündigen cineastischen Sci-Fi-Kurzfilm über eine bewegliche Weltraumstadt, die Asteroiden zu einem Schutzschild gegen eine feindliche Flotte umlenkt.
-
-#### 📝 Prompt
-
-```
-15-sekündiger cineastischer fotorealistischer Science-Fiction-Action-Kurzfilm, 16:9.
-Eine gigantische futuristische Stadt reist durch den tiefen Weltraum inmitten eines enormen Asteroidensturms.
-Tausende von Raumschiffen fliegen neben ihr und lenken die Asteroiden aktiv in einen sich ständig bewegenden Verteidigungsschild.
-Plötzlich greift eine feindliche Flotte an.
-Hunderte von Jägern tauchen in das Asteroidenfeld ein.
-Die Stadt beschleunigt.
-Asteroiden prallen auf angreifende Schiffe.
-Verteidigungsraumschiffe rasen zwischen riesigen Felsbrocken hindurch und drücken sie in neue Flugbahnen.
-Ein massives feindliches Kriegsschiff bricht durch den Asteroidenschild und feuert direkt auf die Stadt.
-Die gesamte Stadt ändert plötzlich ihre Richtung.
-Das Asteroidenfeld bewegt sich mit ihr.
-Millionen von Felsen schwenken wie ein gigantisches mechanisches Organismus um die Stadt in Formation.
-Das angreifende Kriegsschiff erkennt zu spät, dass das Asteroidenfeld selbst die Waffe der Stadt ist.
-Eine kolossale Explosion füllt den Bildschirm.
-Ende mit der Stadt, die im beweglichen Sturm verschwindet.
-
-Fotorealistische harte Science-Fiction, spektakuläre Asteroidenumgebungen, gnadenloser Kampf, massive bewegliche Strukturen, schnelle Kamerabewegungen, detaillierte Raumschiffe, enorme Maßstäbe, cineastische Action, kein Text, keine Logos, kein Anime, kein Cartoon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106842175623344128/img/8HYLYow99mg-lBVf.jpg" width="600" alt="Weltraumstadt: Asteroiden-Verteidigung">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11919)**
-
-**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Quelle:** [Link](https://x.com/AllaAisling/status/2106852107114418554) | **Veröffentlicht:** Oct 4, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -3938,6 +3922,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-27T04:26:57.849Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-27T09:59:13.600Z</sub>
 
 </div>

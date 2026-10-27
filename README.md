@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6598** |
+| 📝 Total Prompts | **6599** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-10-27** |
 
@@ -365,11 +365,30 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Cinematic Luxury Car Video Prompt
+### Cherry Lip Serum Ad
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a high-end automobile advertisement video featuring a sleek car cruising through a city at golden hour.
+> A cinematic advertisement prompt for Seedance 2.0 featuring a cherry lip serum in a dreamy pink studio.
+
+#### 📝 Prompt
+
+```
+Create a 10-second ultra-realistic cinematic advertisement featuring a Glaze2Glow Cherry Soda Lip Serum in a dreamy pink studio with glossy satin fabric, sparkling glass props, and fresh red cherries. Start with a centered hero shot of the burgundy lip serum standing on a transparent acrylic platform, decorated with a red-and-white gingham bow and a cute cherry charm. Slowly push the camera toward the product, highlighting its elegant packaging and shiny metallic applicator. Transition into extreme macro close-ups of the dangling cherry charm, glossy red beads, and delicate green leaves, capturing every tiny detail. Show the silver applicator dispensing a thick, translucent cherry-red serum that drips slowly into a glossy pool. Capture the serum’s smooth texture, wet shine, and beautiful reflections under soft studio lighting. Cut to a close-up of naturally full lips as the serum is gently applied, leaving them moisturized, plump-looking, and intensely glossy. Finish with a luxurious product shot resting on pink satin beside sparkling glassware and fresh cherries, then return to the original upright hero composition. Use smooth camera movements, shallow depth of field, soft pink highlights, realistic textures, premium beauty-commercial aesthetics, and consistent product design throughout, with no extra text or distorted packaging.
+```
+
+<img src="https://cms-assets.youmind.com/media/1793080709276_92a8ge_HVi6P5tawAArfSE.jpg" width="600" alt="Cherry Lip Serum Ad">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13099)**
+
+**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2114644821101171101) | **Published:** Oct 26, 2026
+
+---
+### Cinematic Luxury Car Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for creating a high-end automobile advertisement video featuring a luxury car at golden hour.
 
 #### 📝 Prompt
 
@@ -377,18 +396,18 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 Create a cinematic luxury car video featuring a sleek, premium vehicle cruising through a beautiful city at golden hour. Use smooth tracking shots, dramatic lighting, glossy reflections, stylish camera movements, realistic details, and a luxurious atmosphere. Add slow-motion moments, shallow depth of field, and ultra-realistic 4K quality. Make the video look elegant, powerful, and professional, like a high-end automobile advertisement.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114590476737351680/img/kQI-v6EFDOPArwLi.jpg" width="600" alt="Cinematic Luxury Car Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114590476737351680/img/kQI-v6EFDOPArwLi.jpg" width="600" alt="Cinematic Luxury Car Video">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13046)**
 
 **Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2114590512208638086) | **Published:** Oct 26, 2026
 
 ---
-### Golden Hour Street Encounter
+### Street Encounter Cinematic Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a cinematic video of a woman encountering a scooter rider on a residential street during golden hour.
+> A 30-second cinematic video prompt for Seedance 2.0 depicting a woman losing balance near a scooter rider.
 
 #### 📝 Prompt
 
@@ -396,7 +415,7 @@ Create a cinematic luxury car video featuring a sleek, premium vehicle cruising 
 Create a 30-second ultra-realistic cinematic video on a quiet residential street during warm golden-hour lighting. A beautiful young woman with short, light-blue hair walks toward the camera, wearing a white mini dress, a light-blue cardigan, and white sneakers. She suddenly notices something, turns around, and runs toward a small object lying on the road, accidentally losing her balance near a young man riding a yellow electric scooter. The man in a red sweatshirt and black pants stops his scooter immediately as the woman approaches him. He loses his balance and falls onto the street while the scooter tips sideways beside him. The woman stops in front of him, looking concerned as he begins to get back up and lifts the scooter from the ground. He stands up, steadies the scooter, and looks toward the woman as she watches him calmly. She then turns away and walks down the street toward the camera with a relaxed expression. Use smooth cinematic camera tracking, realistic body movements, natural facial expressions, detailed clothing textures, warm sunlight, soft shadows, and a shallow depth of field for a polished, lifelike film aesthetic.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114561073164800000/img/1oWqWOdW3ql0CX1u.jpg" width="600" alt="Golden Hour Street Encounter">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114561073164800000/img/1oWqWOdW3ql0CX1u.jpg" width="600" alt="Street Encounter Cinematic Video">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13044)**
 
@@ -3859,41 +3878,6 @@ A girl skating at high speed through a crowded urban street, dodging people, jum
 **Author:** [Zidan 子丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2106922065240731732) | **Published:** Oct 5, 2026
 
 ---
-### Asteroid Field Space Battle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for a 15-second sci-fi short about a city traveling through an asteroid storm and using asteroids as weapons against an enemy fleet.
-
-#### 📝 Prompt
-
-```
-15-second cinematic photorealistic science-fiction action short, 16:9.
-A gigantic futuristic city travels through deep space inside an enormous asteroid storm.
-Thousands of spacecraft fly alongside it, actively manipulating the asteroids into a constantly moving defensive shield.
-Suddenly an enemy fleet attacks.
-Hundreds of fighters dive into the asteroid field.
-The city accelerates.
-Asteroids slam into attacking ships.
-Defensive spacecraft race between enormous rocks, pushing them into new trajectories.
-A massive enemy warship breaks through the asteroid shield and fires directly at the city.
-The entire city suddenly changes direction.
-The asteroid field moves with it.
-Millions of rocks swing into formation around the city like a gigantic mechanical organism.
-The attacking warship realizes too late that the asteroid field itself is the city's weapon.
-A colossal impact fills the screen.
-End on the city disappearing into the moving storm.
-
-Photorealistic hard science fiction, spectacular asteroid environments, relentless combat, massive moving structures, fast camera movement, detailed spacecraft, huge scale, cinematic action, no text, no logos, no anime, no cartoon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106842175623344128/img/8HYLYow99mg-lBVf.jpg" width="600" alt="Asteroid Field Space Battle">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11919)**
-
-**Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2106852107114418554) | **Published:** Oct 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -3955,6 +3939,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-27T04:26:47.781Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-27T09:59:00.504Z</sub>
 
 </div>

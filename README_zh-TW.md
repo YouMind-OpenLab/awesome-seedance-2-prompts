@@ -68,7 +68,7 @@
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **6598** |
+| 📝 提示詞總數 | **6599** |
 | ⭐ 精選提示詞 | **6** |
 | 🔄 最後更新 | **2026-10-27** |
 
@@ -361,6 +361,25 @@
 
 > 📝 按發布日期排序（最新優先）
 
+### 櫻桃唇部精華液廣告
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 為 Seedance 2.0 打造的電影感廣告提示詞，呈現夢幻粉色攝影棚中的櫻桃唇部精華液。
+
+#### 📝 提示詞
+
+```
+製作一支 10 秒的超寫實電影級廣告，場景設定在夢幻的粉色攝影棚內，搭配光澤緞面布料、閃耀的玻璃道具與新鮮紅櫻桃，展示 Glaze2Glow Cherry Soda Lip Serum。開場以置中的主視覺鏡頭呈現這款酒紅色唇部精華，產品直立於透明壓克力平台上，並點綴紅白格紋蝴蝶結與可愛的櫻桃吊飾。接著緩慢將鏡頭推向產品，突顯其優雅包裝與閃亮的金屬塗抹頭。隨後切換至極致微距特寫，捕捉垂掛的櫻桃吊飾、亮澤紅珠與細緻綠葉，不放過任何微小細節。畫面呈現銀色塗抹頭擠出濃稠透亮的櫻桃紅精華液，緩緩滴落匯聚成光澤水窪。在柔和的攝影棚燈光下，完美展現精華液的滑順質地、濕潤光澤與迷人反光。接著切至自然豐潤雙唇的特寫，輕柔塗抹精華後，雙唇顯得水潤飽滿、光澤感十足。最後以奢華的產品鏡頭收尾，讓唇部精華靜置於粉色緞面上，一旁擺放閃爍的玻璃器皿與新鮮櫻桃，再回到最初的直立主視覺構圖。全片需採用流暢的運鏡、淺景深、柔和粉色高光、擬真材質質感與頂級美妝廣告美學，並全程維持一致的產品設計，不得出現多餘文字或變形的包裝。
+```
+
+<img src="https://cms-assets.youmind.com/media/1793080709276_92a8ge_HVi6P5tawAArfSE.jpg" width="600" alt="櫻桃唇部精華液廣告">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=13099)**
+
+**作者:** [Maha](https://x.com/Aiwithmaha) | **來源:** [Link](https://x.com/Aiwithmaha/status/2114644821101171101) | **發布時間:** Oct 26, 2026
+
+---
 ### 電影感豪華汽車影片提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3738,41 +3757,6 @@ blurry, bad quality, low quality, low resolution, blurry face, distorted face, e
 **作者:** [Zidan 子丹](https://x.com/liluocheng13) | **來源:** [Link](https://x.com/liluocheng13/status/2106922065240731732) | **發布時間:** Oct 5, 2026
 
 ---
-### 太空城市小行星防禦戰
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段詳細的提示詞，用於生成一部 15 秒的電影級科幻短片，講述一座移動中的太空城市如何操控小行星形成防禦盾，以抵禦敵方艦隊。
-
-#### 📝 提示詞
-
-```
-15 秒電影級寫實科幻動作短片，16:9。
-一座巨大的未來主義城市在深空中穿行於一場規模龐大的小行星風暴之中。
-數千艘太空飛船伴隨其側，積極地將小行星重新排列成一道不斷變化的防禦護盾。
-突然間，敵方艦隊發動攻擊。
-數百架戰鬥機衝入小行星帶。
-城市加速前進。
-小行星猛烈撞擊襲來的飛船。
-防禦型太空飛船在巨石之間高速穿梭，將其推入新的軌道。
-一艘巨大的敵方戰艦突破小行星護盾，直接向城市開火。
-整座城市突然改變方向。
-小行星帶隨之移動。
-數百萬塊岩石在城市周圍迅速組陣，宛如一個巨大的機械生命體。
-襲來的戰艦為時已晚才意識到，這片小行星帶本身就是城市的武器。
-一次毀滅性的巨大衝擊填滿整個螢幕。
-結尾處，城市消失在流動的風暴之中。
-
-寫實硬科幻風格，壯觀的小行星環境，激烈的戰鬥場面，龐大的移動結構，快速的鏡頭運動，細節豐富的太空飛船，宏大尺度，電影級動作感，無文字，無標誌，非動漫風格，非卡通風格。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106842175623344128/img/8HYLYow99mg-lBVf.jpg" width="600" alt="太空城市小行星防禦戰">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=11919)**
-
-**作者:** [Alexandra Aisling](https://x.com/AllaAisling) | **來源:** [Link](https://x.com/AllaAisling/status/2106852107114418554) | **發布時間:** Oct 4, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -3834,6 +3818,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-10-27T04:26:49.734Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-10-27T09:59:03.000Z</sub>
 
 </div>

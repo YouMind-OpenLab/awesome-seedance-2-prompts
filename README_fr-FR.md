@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6598** |
+| 📝 Total des prompts | **6599** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-10-27** |
 
@@ -361,6 +361,25 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Publicité Sérum à Lèvres Cerise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt publicitaire cinématographique pour Seedance 2.0 mettant en scène un sérum à lèvres cerise dans un studio rose onirique.
+
+#### 📝 Prompt
+
+```
+Créez une publicité cinématographique ultra-réaliste de 10 secondes mettant en scène le sérum à lèvres Glaze2Glow Cherry Soda dans un studio rose onirique, orné de satin brillant, d'accessoires en verre scintillant et de cerises rouges fraîches. Ouvrez sur un plan principal centré du sérum bordeaux posé sur un socle en acrylique transparent, décoré d'un nœud vichy rouge et blanc et d'une charmante breloque en forme de cerise. Avancez lentement la caméra vers le produit pour mettre en valeur son emballage élégant et son applicateur métallique étincelant. Enchaînez avec des plans macro extrêmes de la breloque cerise qui se balance, des perles rouges luisantes et des délicates feuilles vertes, afin de capturer chaque détail infime. Montrez l'applicateur argenté délivrant un sérum épais et translucide rouge cerise qui s'écoule lentement pour former une flaque brillante. Saisissez la texture lisse du sérum, son éclat humide et ses magnifiques reflets sous un éclairage de studio doux. Passez ensuite à un gros plan sur des lèvres naturellement pulpeuses lors de l'application délicate du soin, qui les laisse hydratées, repulpées et intensément glossy. Terminez par un plan produit luxueux où le sérum repose sur du satin rose, entouré de verrerie scintillante et de cerises fraîches, puis revenez à la composition principale verticale du début. Utilisez des mouvements de caméra fluides, une faible profondeur de champ, des reflets rose tendre, des textures réalistes et une esthétique haut de gamme digne des publicités beauté, tout en conservant un design produit cohérent du début à la fin, sans aucun texte superflu ni emballage déformé.
+```
+
+<img src="https://cms-assets.youmind.com/media/1793080709276_92a8ge_HVi6P5tawAArfSE.jpg" width="600" alt="Publicité Sérum à Lèvres Cerise">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13099)**
+
+**Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2114644821101171101) | **Publié:** Oct 26, 2026
+
+---
 ### Prompt Vidéo Automobile Luxueuse Cinématographique
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3778,41 +3797,6 @@ Une fille faisant du skate à grande vitesse dans une rue urbaine bondée, esqui
 **Auteur:** [Zidan 子丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2106922065240731732) | **Publié:** Oct 5, 2026
 
 ---
-### Défense contre les astéroïdes de la cité spatiale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour un court-métrage de science-fiction cinématographique de 15 secondes, mettant en scène une cité spatiale mobile qui manipule des astéroïdes pour former un bouclier défensif contre une flotte ennemie.
-
-#### 📝 Prompt
-
-```
-Court-métrage d'action de science-fiction photoréaliste et cinématographique de 15 secondes, format 16:9.
-Une gigantesque cité futuriste voyage à travers l'espace profond au cœur d'une immense tempête d'astéroïdes.
-Des milliers de vaisseaux spatiaux volent à ses côtés, manipulant activement les astéroïdes pour former un bouclier défensif en mouvement constant.
-Soudain, une flotte ennemie attaque.
-Des centaines de chasseurs plongent dans le champ d'astéroïdes.
-La cité accélère.
-Les astéroïdes percutent les vaisseaux attaquants.
-Les vaisseaux de défense se faufilent entre d'énormes roches, les poussant vers de nouvelles trajectoires.
-Un énorme vaisseau de guerre ennemi perce le bouclier d'astéroïdes et tire directement sur la cité.
-L'intégralité de la cité change soudainement de direction.
-Le champ d'astéroïdes se déplace avec elle.
-Des millions de rochers s'alignent autour de la cité comme un organisme mécanique géant.
-Le vaisseau de guerre attaquant comprend trop tard que le champ d'astéroïdes est lui-même l'arme de la cité.
-Un impact colossal remplit l'écran.
-Fin sur la cité disparaissant dans la tempête en mouvement.
-
-Science-fiction hard-boiled photoréaliste, environnements d'astéroïdes spectaculaires, combat sans relâche, structures massives en mouvement, mouvements de caméra rapides, vaisseaux spatiaux détaillés, échelle monumentale, action cinématographique, pas de texte, pas de logos, pas d'anime, pas de dessin animé.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106842175623344128/img/8HYLYow99mg-lBVf.jpg" width="600" alt="Défense contre les astéroïdes de la cité spatiale">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11919)**
-
-**Auteur:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2106852107114418554) | **Publié:** Oct 4, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -3874,6 +3858,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-27T04:26:58.647Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-27T09:59:14.840Z</sub>
 
 </div>

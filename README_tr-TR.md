@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6598** |
+| 📝 Toplam İstem | **6599** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-10-27** |
 
@@ -361,6 +361,25 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Kiraz Dudak Serumu Reklamı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hayali pembe bir stüdyoda kiraz dudak serumunu öne çıkaran, Seedance 2.0 için sinematik bir reklam istemi.
+
+#### 📝 İstem
+
+```
+Glaze2Gloss Cherry Soda Lip Serum ürününün yer aldığı, parlak saten kumaşlar, ışıltılı cam aksesuarlar ve taptaze kırmızı kirazlarla süslenmiş rüya gibi pembe bir stüdyoda geçen 10 saniyelik, ultra gerçekçi sinematik bir reklam filmi oluşturun. Videonun açılışını; kırmızı-beyaz pikeli bir kurdele ve sevimli bir kiraz figürüyle süslenmiş şeffaf bir akrilik platform üzerinde duran bordo renkli dudak serumunun tam ortada yer aldığı bir ana çekimle yapın. Kamerayı ürüne doğru yavaşça yaklaştırarak zarif ambalajını ve parlak metalik aplikatörünü ön plana çıkarın. Ardından sarkan kiraz figürünün, parlak kırmızı boncukların ve narin yeşil yaprakların her bir ince detayını yakalayan aşırı makro yakın çekimlere geçiş yapın. Gümüş aplikatörün yoğun, yarı saydam kiraz kırmızısı rengindeki serumu sıkışını ve bu serumun yavaşça parlak bir gölcük oluşturacak şekilde damlayışını gösterin. Yumuşak stüdyo ışığı altında serumun pürüzsüz dokusunu, ıslak parlaklığını ve göz alıcı yansımalarını kadraja alın. Daha sonra, serumun nazikçe sürüldüğü doğal dolgunluktaki dudakların yakın çekimine geçerek dudakların nemlenmiş, daha dolgun görünümlü ve son derece parlak hale gelişini yansıtın. Finali; pembe saten üzerinde, ışıltılı cam eşyalar ve taze kirazların yanında konumlandırılmış lüks bir ürün çekimiyle yapın ve ardından başlangıçtaki dik ana kompozisyona geri dönün. Tüm video boyunca akıcı kamera hareketleri, sığ alan derinliği, yumuşak pembe vurgular, gerçekçi dokular ve premium güzellik reklamı estetiği kullanın; ürün tasarımını tutarlı tutun ve ekstra metin ya da deforme olmuş ambalaj görüntülerine kesinlikle yer vermeyin.
+```
+
+<img src="https://cms-assets.youmind.com/media/1793080709276_92a8ge_HVi6P5tawAArfSE.jpg" width="600" alt="Kiraz Dudak Serumu Reklamı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13099)**
+
+**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2114644821101171101) | **Yayınlandı:** Oct 26, 2026
+
+---
 ### Sinematik Lüks Otomobil Video Promptu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3814,41 +3833,6 @@ Bir kızın kalabalık bir şehir sokağında yüksek hızda kaykay yaptığı, 
 **Yazar:** [Zidan 子丹](https://x.com/liluocheng13) | **Kaynak:** [Link](https://x.com/liluocheng13/status/2106922065240731732) | **Yayınlandı:** Oct 5, 2026
 
 ---
-### Uzay Şehri Asteroid Savunması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hareket halindeki bir uzay şehrinin, düşman filosuna karşı asteroidleri savunma kalkanına dönüştürmesini konu alan 15 saniyelik sinematik bilim kurgu kısa filmi için detaylı istem.
-
-#### 📝 İstem
-
-```
-16:9 en-boy oranında, 15 saniyelik sinematik, fotogerçekçi bilim kurgu aksiyon kısa filmi.
-Devasa bir fütüristik şehir, derin uzayda muazzam bir asteroid fırtınasının içinde yol alır.
-Binlerce uzay aracı şehrin yanında uçar ve asteroidleri sürekli hareket halinde olan bir savunma kalkanına dönüştürmek için aktif olarak manipüle eder.
-Aniden bir düşman filosu saldırır.
-Yüzlerce savaş gemisi asteroid alanına dalış yapar.
-Şehir hızlanır.
-Asteroidler saldıran gemilere çarpar.
-Savunma uzay araçları devasa kayalar arasında yarışarak onları yeni yörüngelere iter.
-Büyük bir düşman savaş gemisi asteroid kalkanını kırar ve doğrudan şehre ateş eder.
-Tüm şehir aniden yön değiştirir.
-Asteroid alanı da onunla birlikte hareket eder.
-Milyonlarca kaya, devasa mekanik bir organizma gibi şehrin etrafında dizilime geçer.
-Saldıran savaş gemisi, asteroid alanının kendisinin şehrin silahı olduğunu anlamak için çok geç kalır.
-Devasa bir çarpışma ekranı doldurur.
-Şehrin hareket eden fırtınanın içine kaybolmasıyla sona erer.
-
-Fotogerçekçi sert bilim kurgu, gösterişli asteroid ortamları, amansız çatışma, devasa hareketli yapılar, hızlı kamera hareketleri, detaylı uzay araçları, büyük ölçek, sinematik aksiyon, metin yok, logo yok, anime yok, çizgi film yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106842175623344128/img/8HYLYow99mg-lBVf.jpg" width="600" alt="Uzay Şehri Asteroid Savunması">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11919)**
-
-**Yazar:** [Alexandra Aisling](https://x.com/AllaAisling) | **Kaynak:** [Link](https://x.com/AllaAisling/status/2106852107114418554) | **Yayınlandı:** Oct 4, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3910,6 +3894,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-27T04:27:02.663Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-27T09:59:19.600Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6598** |
+| 📝 Total de prompts | **6599** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-10-27** |
 
@@ -361,6 +361,25 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Anuncio de Sérum Labial de Cereza
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de anuncio cinematográfico para Seedance 2.0 que presenta un sérum labial de cereza en un estudio rosa de ensueño.
+
+#### 📝 Prompt
+
+```
+Crea un anuncio cinematográfico ultrarrealista de 10 segundos protagonizado por el Glaze2Glow Cherry Soda Lip Serum en un estudio rosa de ensueño, con telas de satén brillante, atrezo de cristal reluciente y cerezas rojas frescas. Comienza con un plano principal centrado del sérum labial burdeos sobre una plataforma de acrílico transparente, decorada con un lazo de cuadros rojos y blancos y un encantador dije de cereza. Acerca lentamente la cámara hacia el producto para resaltar su elegante envase y su aplicador metálico brillante. Pasa a primeros planos macro extremos del dije de cereza colgante, las cuentas rojas lustrosas y las delicadas hojas verdes, capturando hasta el más mínimo detalle. Muestra cómo el aplicador plateado dispensa un sérum espeso y translúcido de color rojo cereza que gotea lentamente hasta formar un charco brillante. Capta la textura suave del sérum, su brillo húmedo y los hermosos reflejos bajo la iluminación tenue del estudio. Corta a un primer plano de unos labios naturalmente voluminosos mientras se aplica el sérum con suavidad, dejándolos hidratados, con aspecto más relleno y un brillo intenso. Termina con un plano de producto lujoso sobre satén rosa, junto a cristalería centelleante y cerezas frescas, y vuelve después a la composición principal vertical original. Utiliza movimientos de cámara fluidos, poca profundidad de campo, destellos rosas suaves, texturas realistas y una estética propia de un anuncio de belleza premium, manteniendo un diseño de producto coherente durante todo el vídeo, sin textos adicionales ni deformaciones en el envase.
+```
+
+<img src="https://cms-assets.youmind.com/media/1793080709276_92a8ge_HVi6P5tawAArfSE.jpg" width="600" alt="Anuncio de Sérum Labial de Cereza">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13099)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fuente:** [Link](https://x.com/Aiwithmaha/status/2114644821101171101) | **Publicado:** Oct 26, 2026
+
+---
 ### Prompt de Video Cinematográfico de Auto de Lujo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3857,41 +3876,6 @@ Una chica patinando a alta velocidad por una calle urbana concurrida, esquivando
 **Autor:** [Zidan 子丹](https://x.com/liluocheng13) | **Fuente:** [Link](https://x.com/liluocheng13/status/2106922065240731732) | **Publicado:** Oct 5, 2026
 
 ---
-### Defensa de Ciudad Espacial contra Asteroides
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt detallado para un corto cinematográfico de ciencia ficción de 15 segundos sobre una ciudad espacial móvil que manipula asteroides para formar un escudo defensivo contra una flota enemiga.
-
-#### 📝 Prompt
-
-```
-Corto de acción de ciencia ficción fotorealista y cinematográfico de 15 segundos, formato 16:9.
-Una gigantesca ciudad futurista viaja por el espacio profundo en medio de una enorme tormenta de asteroides.
-Miles de naves espaciales vuelan junto a ella, manipulando activamente los asteroides para crear un escudo defensivo en constante movimiento.
-De repente, una flota enemiga ataca.
-Cientos de cazas se lanzan hacia el campo de asteroides.
-La ciudad acelera.
-Los asteroides impactan contra las naves atacantes.
-Las naves defensivas se mueven rápidamente entre rocas enormes, empujándolas hacia nuevas trayectorias.
-Un acorazado enemigo masivo rompe el escudo de asteroides y dispara directamente contra la ciudad.
-Toda la ciudad cambia de dirección repentinamente.
-El campo de asteroides se mueve con ella.
-Millones de rocas se disponen en formación alrededor de la ciudad como un organismo mecánico gigante.
-El acorazado atacante se da cuenta demasiado tarde de que el propio campo de asteroides es el arma de la ciudad.
-Un impacto colosal llena la pantalla.
-Fin con la ciudad desapareciendo en la tormenta en movimiento.
-
-Ciencia ficción dura fotorealista, entornos espectaculares de asteroides, combate implacable, estructuras móviles masivas, movimientos de cámara rápidos, naves espaciales detalladas, gran escala, acción cinematográfica, sin texto, sin logotipos, sin anime, sin dibujos animados.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106842175623344128/img/8HYLYow99mg-lBVf.jpg" width="600" alt="Defensa de Ciudad Espacial contra Asteroides">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11919)**
-
-**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fuente:** [Link](https://x.com/AllaAisling/status/2106852107114418554) | **Publicado:** Oct 4, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -3953,6 +3937,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-27T04:26:55.984Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-27T09:59:10.301Z</sub>
 
 </div>
