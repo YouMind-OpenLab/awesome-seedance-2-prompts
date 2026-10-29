@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6599** |
+| 📝 Total Prompts | **6603** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-10-29** |
 
@@ -365,6 +365,309 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Seedance 2.0 Mini Ancient Xianxia Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for generating a 15-second cinematic video in the ancient Chinese Xianxia style using Seedance 2.0 Mini, featuring character consistency and narrative structure.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | Ancient Xianxia "The Only One Who Failed"
+
+Model: Seedance 2.0 Mini
+Duration: Strictly 15 seconds
+Aspect Ratio: 16:9 Landscape
+Structure: Three continuous, clear shots with different narrative functions
+I. Prompt | Overall Style and Creative Direction
+Cinematic realistic texture, pure ancient Chinese Xianxia aesthetics.
+Core elements:
+Psychological suspense
+Restrained social satire
+Precise micro-acting
+High-level martial arts scene scheduling
+Adopt:
+Natural volumetric lighting
+Realistic skin texture
+Delicate silk movement
+Cinematic depth of field
+Creative Background
+Inspired by real-world controversies regarding tampered exam scores, but the plot is completely reconstructed as a fictional ancient sect sword trial.
+II. Core Plot and Twist
+Everyone assumes the junior sister who failed lacks ability, but the problem lies with the exam itself.
+Others can buy fake qualifications to pass, while she chooses to face her true level.
+Three-layer Narrative Progression
+Layer 1: Public Humiliation
+150 disciples participate in the sword trial; only the junior sister fails.
+Layer 2: Institutional Reversal
+The examiner offers to modify results for spirit stones, implying others' qualifications were also tampered with.
+Layer 3: Active Choice
+The junior sister refuses to buy qualification, abandoning false certificates to continue practicing swords.
+Core Emotions
+First half: Humiliation, confusion, suppression
+Middle: Shock, cognitive reversal
+Second half: Clarity, restraint, re-determination
+III. Character and Asset Locking
+@Image1 | Sword Immortal Senior Sister
+Same Senior Sister:
+25-30 yo East Asian female
+Pale oval face
+Dark almond eyes
+Black long hair half-up with white jade hairpin
+Tall and slender figure
+Same white embroidered silk Hanfu
+Semi-transparent layered wide sleeves
+Silver waistband
+Jade pendant
+White cloth boots
+Carrying one silver longsword
+@Image2 | Junior Sister
+Same Junior Sister:
+20-25 yo East Asian female
+Round lively face
+Black braided hair
+Petite figure
+Same blue-green linen Hanfu
+Dark belt
+Wooden hairpin
+Black cloth shoes
+Carrying one dark steel sword
+Other Characters
+Elder Examiner
+Hosts the sect sword trial, announces results, and proposes modifying qualifications.
+Passed Disciples
+Several disciples stand on one side holding identical red-stamped qualification documents.
+Other characters serve only necessary narrative functions.
+IV. Environment DNA and Spatial Planning
+All newly uploaded background/location reference images determine the physical world.
+Scene Locking
+Preserve recognizable features from references:
+Terrain
+Main architectural spatial relationships
+Spatial scale
+Materials
+Weather
+Vegetation
+Lighting
+Air depth
+Naturally place a simple ancient sect assessment desk based on existing space.
+Do not reset the world arbitrarily.
+Living Background Principle
+Environment remains alive:
+Breeze flows naturally
+Clouds change continuously
+Vegetation sways naturally
+Distant figures maintain subtle activity
+Sleeves move with character actions and natural wind
+Spatial ambient sound persists
+Narrative Neutrality
+Background remains narratively neutral.
+Must not actively influence:
+Exam results
+Examiner behavior
+Character choices
+Plot twists
+V. 15-Second Complete Storyboard Structure
+0-5s | Shot 1: Wide Shot | Public Humiliation, Establish Suspense
+Camera Design
+Slow push-in from medium-long shot of the sword trial site.
+Space and Character Relations
+An elder examiner stands by the assessment desk.
+Several passed disciples stand on one side holding red-stamped qualification documents.
+The junior sister stands alone on the other side.
+The senior sister stands diagonally behind her.
+Action and Dialogue
+The examiner announces publicly:
+[Examiner] "Out of 150 people, only you failed."
+Surrounding disciples show slight murmurs and suppressed laughter.
+The junior sister does not defend herself, slowly lowering her eyes.
+The senior sister remains calm, not immediately stepping forward.
+Visual Contrast
+Form distinct contrast through:
+Red-stamped qualification documents in other disciples' hands
+The junior sister's empty hands
+Shot 1 Narrative Goal
+Must make viewers naturally question:
+Why did only she fail?
+5-10s | Shot 2: Medium Close-Up | From Failure to Institutional Reversal
+Continuity Requirements
+Maintain continuity of:
+Character identities
+Props
+Spatial positions
+Examiner's covert actions
+Seeing attention shift, the examiner leans slightly down.
+He retrieves an unstamped qualification document from under the desk, quietly pushing it toward the junior sister.
+Dialogue
+Examiner whispers:
+[Examiner] "Ten spirit stones, I'll fix it for you."
+The junior sister looks up sharply.
+Junior Sister's Reaction
+She doesn't get angry immediately.
+First looks at the red-stamped documents in others' hands, then asks slowly:
+[Junior Sister] "Did they cheat too?"
+The examiner doesn't answer.
+Only gives a very light, unmistakable nod.
+Camera and Performance
+Camera stays on the junior sister's face.
+Her true shock isn't failing the exam.
+It's realizing those enviable scores might not be earned by skill.
+Information Reversal Principle
+At this point:
+No flashbacks needed
+No explanation of cheating process needed
+The same red-stamped documents, examiner's hint, and that nod are enough to complete the information reversal.
+10-15s | Shot 3: Character Close-Up | Active Choice, Emotional Landing
+Key Action 1: Refusing Qualification
+The junior sister's hand slowly reaches for the qualification document on the desk.
+Just before fingertips touch the paper, she stops.
+Then, she gently pushes the document back toward the examiner.
+Performance Restrictions
+No:
+Throwing things
+Drawing sword threats
+Shouting accusations
+Core Dialogue
+Looking at the examiner, she only asks:
+[Junior Sister] "When demons come, who will fix it for me?"
+The examiner freezes, speechless for the first time.
+Key Action 2: Senior Sister Steps In
+The senior sister steps forward half a step from behind the junior sister, coming to her side.
+The senior sister does NOT:
+Declare she is truly first
+Demand a passing rank for her
+Only lightly touches the scabbard at the junior sister's waist with her fingertip.
+Calmly says:
+[Senior Sister] "Let's go, practice swords."
+Junior Sister's Emotional Change
+The junior sister looks up at her.
+Her tense expression gradually relaxes.
+She turns and leaves the assessment desk with the senior sister.
+Final Image and Emotional Resonance
+Camera retains a brief final emotional resonance:
+The examiner still stands in place
+The purchasable qualification document on the desk remains unclaimed
+Final Narrative Landing
+She didn't suddenly pass the exam, nor receive hidden rewards.
+She is still the one who failed the sword trial.
+But she finally knows what to do next.
+VI. Seedance 2.0 Mini Execution Requirements
+Basic Specs
+Must generate a 15-second Seedance 2.0 Mini video
+Strict total duration: 15 seconds
+Aspect ratio: 16:9 landscape
+Three continuous, clear shots with different narrative functions
+Model Generation Focus
+Emphasize Seedance 2.0 Mini's:
+Dual protagonist identity consistency
+Clear visual hierarchy
+Few but precise action nodes
+Stable camera movement
+Realistic character micro-expressions
+Synchronized dialogue and spatial audio
+VII. Dialogue and Lip Sync
+Dialogue uses natural Mandarin.
+All characters must match lip movements precisely when speaking.
+Speaker Requirements
+When examiner speaks, only examiner lip-syncs
+When junior sister speaks, only junior sister lip-syncs
+When senior sister speaks, only senior sister lip-syncs
+For non-dialogue moments, express emotion via:
+Eye contact
+Pauses
+Hand gestures
+Spatial blocking
+VIII. Character, Prop, and Space Continuity
+Maintain consistency of:
+Characters
+Face shape
+Hairstyle
+Clothing
+Body proportions
+Weapons
+Senior Sister's single silver longsword
+Junior Sister's single dark steel sword
+Props
+Red-stamped qualification document
+Unstamped qualification document
+Ancient sect assessment desk
+Space
+Examiner's position
+Other disciples' positions
+Relative positions of senior and junior sisters
+Main building and terrain relations
+IX. Sound and Cinematic Quality
+Sound Design
+Ensure synchronization of:
+Mandarin dialogue
+Paper sliding sounds
+Fabric friction sounds
+Soft scabbard taps
+Natural spatial ambience
+Performance and Photography
+Restrained action count
+Highlight micro-expressions
+Stable camera movement
+Clear visual hierarchy
+Realistic character relations and spatial blocking
+Background Requirements
+Background remains naturally alive.
+But has no autonomous causal relationship with exam cheating or character choices.
+X. Strict Prohibitions
+No subtitles generated
+Do not require model to generate readable exam score text
+Do not arbitrarily reset reference environment
+No actions unrelated to plot
+Do not use environmental events to drive exam fraud twist
+Do not change characters, weapons,
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115629215962083328/img/7RQmm82Z4u7eouLi.jpg" width="600" alt="Seedance 2.0 Mini Ancient Xianxia Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13129)**
+
+**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2115629293430788360) | **Published:** Oct 29, 2026
+
+---
+### Marigold Resin Floor Renovation Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a photorealistic renovation video showing the creation of a mirror-glossy floor with embedded orange marigolds in resin.
+
+#### 📝 Prompt
+
+```
+A bearded man in denim overalls and yellow gloves rakes a huge mound of orange marigold flowers on the concrete floor of an empty white room with a large window overlooking green trees, spreading the blossoms into a flat even layer covering the whole floor. A blonde woman in red overalls and black rubber boots pours thick white epoxy resin from a white bucket over the flowers, then rakes the liquid outward until the entire floor is coated in glossy resin with marigolds suspended inside. A worker in a yellow high-visibility vest polishes the cured floor with a rotary buffer machine, creating a mirror-smooth transparent surface with bright orange flowers embedded beneath. Two women in black business suits carry in a light wooden bed frame, place a mattress on it, dress the bed with cream bedding, pillows and a small nightstand with a lamp, then exit. The final shot reveals the finished bedroom: a neatly made bed standing on a stunning mirror-glossy floor filled with thousands of preserved orange marigolds under clear resin, soft sunlight streaming through the window. Satisfying renovation process video, photorealistic style, smooth cinematic camera, warm natural lighting.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115508821292396544/img/jYmX2uIXftEV4Ibi.jpg" width="600" alt="Marigold Resin Floor Renovation Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13126)**
+
+**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2115508874803400848) | **Published:** Oct 28, 2026
+
+---
+### Epoxy Floor Renovation Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for Seedance 2.0 to generate a realistic home renovation video featuring epoxy floor application and interior design.
+
+#### 📝 Prompt
+
+```
+Static camera framed through a doorway looking into an empty bedroom with white paneled walls, crown molding and a bright window. A man in a black t-shirt, black cap and work gloves enters carrying a red bucket, pours glossy red epoxy onto the gray concrete floor and spreads it evenly with a wide floor squeegee until the entire floor gleams deep red. He then pours white liquid from a white bucket into several round puddles across the red surface; the white pigment blooms and spreads organically into intricate fractal lightning-like branches that stretch across the whole floor. Next he pours a clear topcoat and pulls it smooth with the squeegee, then buffs the surface with a rotary floor polishing machine until mirror-glossy. Fast time-lapse follows: workers carry in a white upholstered bed with red pillows, nightstands, red patterned curtains, matching red tree-branch artwork and table lamps. Final shot holds on the finished luxury bedroom: brilliant red floor with white fractal veins reflecting the window, crisp white bedding with red accents, symmetrical decor, soft natural daylight, realistic home renovation video style, smooth motion, high detail.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115506523380092928/img/Zn2zgeM8PTRThRYx.jpg" width="600" alt="Epoxy Floor Renovation Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13127)**
+
+**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2115506584159969679) | **Published:** Oct 28, 2026
+
+---
 ### Cherry Lip Serum Ad
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -595,6 +898,51 @@ Eastern ancient costume photorealistic cinema quality; late-night grand hall col
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13049)**
 
 **Author:** [灰度笔记](https://x.com/GrayNoteLab) | **Source:** [Link](https://x.com/GrayNoteLab/status/2114348037862719796) | **Published:** Oct 25, 2026
+
+---
+### Seedance 2.5 DV Home Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A highly detailed prompt for generating a realistic early 2000s home DV video featuring a young East Asian woman in a bedroom on a hot summer afternoon. Includes specific instructions for character consistency, action timeline, camera stability, and audio environment.
+
+#### 📝 Prompt
+
+```
+Image 1 is the first frame of the video; the scene starts from Image 1, with scene, composition, lighting, clothing, props, and their positions all based on Image 1.
+Image 2 is the character reference, used only to lock in the person's face, facial proportions, face shape, and hair color. Do not use the gray background, clothing, or three-view layout from Image 2.
+
+Create a 30-second, hyper-realistic early 2000s home DV recording capturing a young East Asian woman spending a muggy summer afternoon in an old residential apartment bedroom. Pure observational perspective, no dialogue, no narrative arc, just the rhythm of daily life.
+
+Character
+Appearance matches Image 2; clothing and hairstyle match Image 1: bare-faced, loose bun on top of head, light blue loose T-shirt, white cotton shorts, barefoot. Maintain consistent face, clothing, hairstyle, and body shape throughout.
+
+Action Timeline (each action performed once, no repetition)
+00:00–00:06 — She lies half-reclined against a pillow, slowly fanning herself with the fan from Image 1 in her right hand, staring at the ceiling blankly, occasionally blinking.
+00:06–00:11 — She stops fanning, places the fan on the bamboo mat beside her, pushes up to sit on the bed, and turns toward the fan on the bedside stool.
+00:11–00:16 — She picks up the soda bottle from the stool, takes a sip through the straw, then puts the bottle back in its original spot.
+00:16–00:22 — She leans close to the front of the fan, opens her mouth, and drags out a long "Ah—" into the blades; the sound trembles against the spinning blades, stray hairs blown by the wind. Keep a safe distance between face and blades, do not touch the fan.
+00:22–00:26 — She laughs at herself, briefly glances back at the camera with a shy smile, saying nothing.
+00:26–00:30 — She falls backward onto the pillow, covers her face with the fan, and stays still. The fan continues to spin, then cut to black.
+
+Consistency
+Positions of fan, soda bottle, fan unit, and stool remain constant; no objects appear or disappear spontaneously. Only one fan and one soda bottle in the frame; fan style identical to Image 1. Fan orientation fixed, no oscillation; blade shape stable. Bamboo curtain light/shadow stripes stable. Actions proceed in real-time pace, unhurried.
+
+Cinematography & Quality
+Fixed camera angle matching Image 1; no movement, zoom, or pan throughout. Light source is only natural afternoon light through bamboo curtains, slightly overexposed. DV noise, slight color shift, vignette, occasional autofocus breathing. Orange date stamp "2003 08 02" in bottom right corner remains fixed throughout.
+
+Audio
+Ambient sounds dominate: hum of fan, soft rustle of fanning, cicadas outside window, distant bicycle bell, creaking of bamboo mat under pressure, sound of drinking soda through straw. Only human voices are the trembling "Ah—" directed at the fan and a light laugh. No background music.
+
+Prohibited
+No subtitles, no soundtrack, no slow motion, no cinematic color grading, no camera moves, no shallow depth of field, no gray studio background, no text or brand logos (except date stamp). 30s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114326843423858688/img/d8LQ-l3HkxbHuPZH.jpg" width="600" alt="Seedance 2.5 DV Home Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13128)**
+
+**Author:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2114328135420293145) | **Published:** Oct 25, 2026
 
 ---
 ### Seedance 2.0 Comedy Scene in Ancient Bedroom
@@ -3797,87 +4145,6 @@ No subtitles, date stamps, explanatory text, or watermarks.
 **Author:** [探路AI](https://x.com/TanLuAI) | **Source:** [Link](https://x.com/TanLuAI/status/2106955448352231762) | **Published:** Oct 5, 2026
 
 ---
-### Cinematic Tiger Warrior Action Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video generation prompt for creating a high-energy cinematic action sequence featuring an anthropomorphic tiger warrior fighting in a destroyed city with special effects.
-
-#### 📝 Prompt
-
-```
-Create a cinematic 14.6-second action scene featuring a powerful anthropomorphic orange tiger warrior in a destroyed city surrounded by smoke, fire, and collapsing buildings. The tiger aggressively faces an opponent in the opening shot, then suddenly leaps high into the air with dynamic martial-arts movement as the camera follows the jump dramatically. Cut to an intense close-up of the tiger’s realistic face, focusing on sharp eyes, detailed orange fur, whiskers, and a fierce expression. Show the tiger continuing the fight against a human-like opponent with fast punches and kicks, maintaining consistent character appearance and anatomy. A powerful blue energy impact appears during the attack, followed by a huge fiery explosion in the ruined city. Show flames, flying debris, thick smoke, sparks, and realistic destruction spreading across the environment. The tiger lands confidently in the foreground while the burning ruins glow behind it, creating a dramatic heroic silhouette. Use smooth cinematic camera movement, realistic physics, dramatic lighting, detailed textures, strong action choreography, and high-quality 3D animation throughout, with no text, watermark, or character distortion.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106938524784328704/img/pXh4xaDoupeUx4Bw.jpg" width="600" alt="Cinematic Tiger Warrior Action Scene">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11914)**
-
-**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2106938584431526162) | **Published:** Oct 5, 2026
-
----
-### Ink Wash Style Wuxia Video Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed video generation prompt for Seedance 2.0 creating a 15-second ink-wash style wuxia scene with specific camera movements, particle effects, and dynamic motion blur.
-
-#### 📝 Prompt
-
-```
-[0–3s] Camera: Rapid push-in from a close-up of the blade's glint, while the camera rotates clockwise at 180°/s, cutting into the silhouette of a bamboo hat (douli). Visuals: Close-up of ink-wash blade light, particle sparks bursting outward; the douli silhouette emerges from billowing ink clouds. Effects: Motion blur, ink brushstroke trails, particle effects.
-[3–6s] Camera: High-speed 360° orbit centered on the character (270°/s), following the trajectory of the sword swing. Visuals: Medium shot of the character swinging the blade, robes billowing, ink brushstrokes flowing with the motion. Effects: Dynamic ink smoke, motion blur on the robes, visual drag caused by the rotation.
-[6–9s] Camera: High-speed lateral tracking shot (left → right), while the camera tilts and rotates counterclockwise at 90°/s, locked onto the blade's path. Visuals: The blade's trajectory line, particle sparks bursting outward, ink brushstroke trails. Effects: Motion blur, particle effects, ink ghosting trails.
-[9–12s] Camera: Low-angle upward shot with a fast crane-up, while the camera spirals at 225°/s, rising from the ink marks on the ground to the character's upper body. Visuals: Ink marks on the ground, the character mid-swing (upper body), rolling ink clouds in the background. Effects: Dynamic ink clouds, motion blur during the rise, ink-colored vortex created by the rotation.
-[12–15s] Camera: Slow-motion close-up, with the camera rotating slowly clockwise at 15°/s as the blade light freezes in place. Visuals: Close-up of the blade light, crisp and clear particle effects, the character's gaze beneath the shadow of the douli (optional). Effects: Slow motion, particles dissipating, subtle camera shake.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106931329535459328/img/XKp-5If8NQ95ETQI.jpg" width="600" alt="Ink Wash Style Wuxia Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11986)**
-
-**Author:** [Zidan 子丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2106931613427028260) | **Published:** Oct 5, 2026
-
----
-### Epic Cinematic Trailer Video Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A prompt for Seedance 2.0 to create an epic cinematic trailer based on a reference image, with specific style constraints and negative prompts.
-
-#### 📝 Prompt
-
-```
-Use reference image 1 to create an epic cinematic video.
-: Epic cinematic trailer aesthetic, live-action style, IMAX, 16K, hyper-detailed rendering, full-frame dynamic particle effects, Unreal Engine 5, ray tracing, explosive details. Style requirements: aesthetic, morbid beauty, grand momentum, decadent beauty, fragmented beauty, tragic, with sadness. [Constraints & Negatives] Low saturation cold grey + amber accent, physics-based fluid motion. Negative: Low quality, stutter, face/body collapse, over-bright, excessive gore, stiff motion, watermark, T-pose, bright palette, flashy VFX, rigid camera, lack of speed/blur, weak kills.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106923772372738048/img/p-_o3Q13K4Hbb2lw.jpg" width="600" alt="Epic Cinematic Trailer Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11915)**
-
-**Author:** [Zidan 子丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2106923884931166241) | **Published:** Oct 5, 2026
-
----
-### Urban Street Skating Speed
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A prompt for Seedance 2.0 to generate a video of a girl skating fast through a crowded urban street with motion blur and energetic vibes.
-
-#### 📝 Prompt
-
-```
-A girl skating at high speed through a crowded urban street, dodging people, jumping over small obstacles, passing cars and bikes, fast cuts, motion blur, handheld camera feel, energetic vibe, realistic environment, high detail.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106921938576883712/img/9S6CRhiy0KGRQiZh.jpg" width="600" alt="Urban Street Skating Speed">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11917)**
-
-**Author:** [Zidan 子丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2106922065240731732) | **Published:** Oct 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -3939,6 +4206,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-29T04:48:26.308Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-29T15:13:20.925Z</sub>
 
 </div>

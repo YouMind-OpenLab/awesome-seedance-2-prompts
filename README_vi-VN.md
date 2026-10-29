@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6599** |
+| 📝 Tổng số prompt | **6603** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-10-29** |
 
@@ -361,6 +361,309 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Seedance 2.0 Mini Ancient Xianxia Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Mô tả chi tiết về prompt tạo video điện ảnh 15 giây theo phong cách tiên hiệp cổ đại Trung Quốc bằng Seedance 2.0 Mini, đảm bảo tính nhất quán của nhân vật và cấu trúc kể chuyện.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | Tiên hiệp cổ trang "Người duy nhất trượt"
+
+Mô hình: Seedance 2.0 Mini
+Thời lượng: Chính xác 15 giây
+Tỷ lệ khung hình: 16:9 Ngang
+Cấu trúc: Ba cảnh quay liên tục, rõ ràng với các chức năng kể chuyện khác nhau
+I. Prompt | Phong cách tổng thể và Định hướng sáng tạo
+Chất liệu điện ảnh chân thực, thẩm mỹ tiên hiệp Trung Hoa cổ đại thuần túy.
+Các yếu tố cốt lõi:
+Hồi hộp tâm lý
+Châm biếm xã hội tiết chế
+Diễn xuất vi mô chính xác
+Điều phối cảnh võ thuật đỉnh cao
+Áp dụng:
+Ánh sáng thể tích tự nhiên
+Kết cấu da chân thực
+Chuyển động lụa tinh tế
+Độ sâu trường ảnh điện ảnh
+Bối cảnh sáng tạo
+Lấy cảm hứng từ những tranh cãi ngoài đời thực về việc sửa điểm thi, nhưng cốt truyện được tái cấu trúc hoàn toàn thành một kỳ khảo kiếm hư cấu tại một tông môn cổ đại.
+II. Cốt truyện cốt lõi và Cú twist
+Ai cũng cho rằng tiểu sư muội trượt khảo hạch là do kém cỏi, nhưng vấn đề lại nằm ở chính kỳ thi.
+Kẻ khác có thể mua bằng giả để đỗ đạt, còn nàng chọn đối diện với thực lực thật của mình.
+Tiến trình kể chuyện ba lớp
+Lớp 1: Bẽ mặt trước đám đông
+150 đệ tử tham gia khảo kiếm; chỉ có tiểu sư muội trượt.
+Lớp 2: Sự đảo chiều từ thể chế
+Giám khảo ngỏ ý sửa kết quả đổi lấy linh thạch, ngầm ám chỉ tư cách của những người khác cũng đã bị can thiệp.
+Lớp 3: Lựa chọn chủ động
+Tiểu sư muội từ chối mua tư cách, vứt bỏ chứng nhận giả dối để tiếp tục luyện kiếm.
+Cảm xúc cốt lõi
+Nửa đầu: Nhục nhã, hoang mang, kìm nén
+Phần giữa: Sốc, đảo lộn nhận thức
+Nửa sau: Sáng tỏ, tiết chế, quyết tâm trở lại
+III. Khóa nhân vật và Tài nguyên
+@Image1 | Kiếm Tiên Đại Sư Tỷ
+Cùng một Đại Sư Tỷ:
+Nữ giới Đông Á 25-30 tuổi
+Khuôn mặt trái xoan nhợt nhạt
+Đôi mắt hạnh đen láy
+Tóc đen dài búi nửa đầu cài trâm ngọc trắng
+Dáng người cao ráo thanh mảnh
+Cùng bộ Hán phục lụa thêu màu trắng
+Tay áo rộng xếp lớp bán trong suốt
+Thắt lưng bạc
+Ngọc bội
+Ủng vải trắng
+Mang theo một thanh trường kiếm bạc
+@Image2 | Tiểu Sư Muội
+Cùng một Tiểu Sư Muội:
+Nữ giới Đông Á 20-25 tuổi
+Khuôn mặt tròn đầy sức sống
+Tóc đen tết bím
+Dáng người nhỏ nhắn
+Cùng bộ Hán phục vải lanh xanh lục đậm
+Thắt lưng tối màu
+Trâm gỗ
+Giày vải đen
+Mang theo một thanh hắc cương kiếm
+Các nhân vật khác
+Trưởng lão Giám khảo
+Chủ trì kỳ khảo kiếm của tông môn, công bố kết quả và đề nghị sửa đổi tư cách.
+Các đệ tử trúng tuyển
+Vài đệ tử đứng một bên cầm trên tay những tờ văn thư tư cách đóng dấu đỏ giống hệt nhau.
+Các nhân vật khác chỉ đảm nhận những chức năng kể chuyện cần thiết.
+IV. DNA Môi trường và Quy hoạch Không gian
+Tất cả hình ảnh tham chiếu bối cảnh/địa điểm mới tải lên sẽ quyết định thế giới vật lý.
+Khóa cảnh
+Giữ nguyên các đặc điểm dễ nhận biết từ tài liệu tham chiếu:
+Địa hình
+Mối quan hệ không gian kiến trúc chính
+Quy mô không gian
+Chất liệu
+Thời tiết
+Thảm thực vật
+Ánh sáng
+Độ sâu không khí
+Đặt một chiếc bàn khảo hạch tông môn cổ đại đơn giản một cách tự nhiên dựa trên không gian hiện có.
+Không tùy tiện thiết lập lại thế giới.
+Nguyên tắc bối cảnh sống
+Môi trường luôn duy trì sức sống:
+Gió nhẹ thổi tự nhiên
+Mây liên tục biến đổi
+Thảm thực vật lay động tự nhiên
+Các bóng người phía xa duy trì hoạt động tinh tế
+Tay áo chuyển động theo hành động của nhân vật và gió tự nhiên
+Âm thanh môi trường không gian duy trì liên tục
+Tính trung lập trong kể chuyện
+Bối cảnh giữ vai trò trung lập về mặt kể chuyện.
+Không được chủ động tác động đến:
+Kết quả khảo hạch
+Hành vi của giám khảo
+Lựa chọn của nhân vật
+Các cú twist của cốt truyện
+V. Cấu trúc Storyboard hoàn chỉnh 15 giây
+0-5s | Cảnh 1: Toàn cảnh | Bẽ mặt trước đám đông, Thiết lập sự hồi hộp
+Thiết kế máy quay
+Đẩy chậm từ cảnh trung-toàn tại địa điểm khảo kiếm.
+Không gian và Mối quan hệ nhân vật
+Một vị trưởng lão giám khảo đứng cạnh bàn khảo hạch.
+Vài đệ tử trúng tuyển đứng một bên cầm văn thư tư cách đóng dấu đỏ.
+Tiểu sư muội đứng lẻ loi ở phía bên kia.
+Đại sư tỷ đứng chéo phía sau nàng.
+Hành động và Lời thoại
+Giám khảo công khai tuyên bố:
+[Giám khảo] "Trong 150 người, chỉ có ngươi trượt."
+Các đệ tử xung quanh xì xào khe khẽ và cười khẩy kìm nén.
+Tiểu sư muội không biện bạch, từ từ cụp mắt xuống.
+Đại sư tỷ vẫn bình thản, không vội bước tới.
+Tương phản thị giác
+Tạo sự tương phản rõ rệt thông qua:
+Những tờ văn thư tư cách đóng dấu đỏ trên tay các đệ tử khác
+Đôi tay trống không của tiểu sư muội
+Mục tiêu kể chuyện của Cảnh 1
+Phải khiến người xem tự nhiên đặt câu hỏi:
+Tại sao chỉ có mình nàng trượt?
+5-10s | Cảnh 2: Cận cảnh trung | Từ thất bại đến sự đảo chiều từ thể chế
+Yêu cầu tính liên tục
+Duy trì sự liền mạch của:
+Danh tính nhân vật
+Đạo cụ
+Vị trí không gian
+Hành động lén lút của giám khảo
+Thấy mọi người chú ý chuyển hướng, viên giám khảo hơi cúi người xuống.
+Hắn rút ra một tờ văn thư tư cách chưa đóng dấu từ dưới gầm bàn, lặng lẽ đẩy về phía tiểu sư muội.
+Lời thoại
+Giám khảo thì thầm:
+[Giám khảo] "Mười linh thạch, ta lo liệu cho ngươi."
+Tiểu sư muội ngẩng phắt lên.
+Phản ứng của Tiểu Sư Muội
+Nàng không nổi giận ngay.
+Thoạt tiên nhìn những tờ văn thư đóng dấu đỏ trên tay người khác, rồi chậm rãi hỏi:
+[Tiểu Sư Muội] "Bọn họ cũng gian lận sao?"
+Viên giám khảo không đáp.
+Chỉ gật đầu một cái rất nhẹ, nhưng không thể nhầm lẫn.
+Máy quay và Diễn xuất
+Máy quay giữ nguyên trên gương mặt tiểu sư muội.
+Cú sốc thật sự của nàng không phải là việc trượt khảo hạch.
+Mà là nhận ra những điểm số đáng ghen tị kia có lẽ chẳng đến từ thực lực.
+Nguyên tắc đảo chiều thông tin
+Tại thời điểm này:
+Không cần hồi tưởng (flashback)
+Không cần giải thích quá trình gian lận
+Chính những tờ văn thư đóng dấu đỏ ấy, lời gợi ý của giám khảo và cái gật đầu kia đã đủ để hoàn tất cú đảo chiều thông tin.
+10-15s | Cảnh 3: Cận cảnh nhân vật | Lựa chọn chủ động, Điểm tựa cảm xúc
+Hành động then chốt 1: Từ chối tư cách
+Tay tiểu sư muội chậm rãi vươn về phía tờ văn thư tư cách trên bàn.
+Ngay trước khi đầu ngón tay chạm vào giấy, nàng dừng lại.
+Rồi nhẹ nhàng đẩy tờ văn thư ngược về phía giám khảo.
+Giới hạn diễn xuất
+Không:
+Ném đồ đạc
+Rút kiếm đe dọa
+Lớn tiếng buộc tội
+Lời thoại cốt lõi
+Nhìn thẳng vào giám khảo, nàng chỉ hỏi:
+[Tiểu Sư Muội] "Khi yêu ma ập đến, ai sẽ lo liệu cho ta?"
+Viên giám khảo sững người, lần đầu tiên câm nín.
+Hành động then chốt 2: Đại Sư Tỷ bước tới
+Đại sư tỷ tiến lên nửa bước từ phía sau tiểu sư muội, sánh ngang bên cạnh nàng.
+Đại sư tỷ KHÔNG:
+Tuyên bố mình mới là người đứng đầu thực sự
+Đòi hỏi thứ hạng trúng tuyển cho nàng
+Chỉ dùng đầu ngón tay gõ nhẹ lên vỏ kiếm nơi thắt lưng tiểu sư muội.
+Bình thản nói:
+[Đại Sư Tỷ] "Đi thôi, luyện kiếm."
+Biến chuyển cảm xúc của Tiểu Sư Muội
+Tiểu sư muội ngước nhìn nàng.
+Gương mặt căng thẳng dần giãn ra.
+Nàng xoay người rời khỏi bàn khảo hạch cùng đại sư tỷ.
+Hình ảnh cuối và Dư âm cảm xúc
+Máy quay lưu lại một khoảnh khắc dư âm cảm xúc ngắn ngủi cuối cùng:
+Viên giám khảo vẫn đứng chôn chân tại chỗ
+Tờ văn thư tư cách có thể mua được trên bàn vẫn nằm đó, không ai nhận
+Điểm hạ cánh cuối cùng của câu chuyện
+Nàng không đột nhiên đỗ đạt, cũng chẳng nhận được phần thưởng bí mật nào.
+Nàng vẫn là kẻ trượt kỳ khảo kiếm.
+Nhưng cuối cùng nàng đã biết mình phải làm gì tiếp theo.
+VI. Yêu cầu thực thi với Seedance 2.0 Mini
+Thông số cơ bản
+Phải tạo ra video Seedance 2.0 Mini dài 15 giây
+Tổng thời lượng nghiêm ngặt: 15 giây
+Tỷ lệ khung hình: 16:9 ngang
+Ba cảnh quay liên tục, rõ ràng với các chức năng kể chuyện khác nhau
+Trọng tâm tạo sinh của mô hình
+Nhấn mạnh khả năng của Seedance 2.0 Mini về:
+Tính nhất quán danh tính hai nhân vật chính
+Phân cấp thị giác rõ ràng
+Ít nhưng chính xác các nút hành động
+Chuyển động máy quay ổn định
+Biểu cảm vi mô chân thực của nhân vật
+Đồng bộ lời thoại và âm thanh không gian
+VII. Lời thoại và Đồng bộ khẩu hình
+Lời thoại sử dụng tiếng Quan Thoại tự nhiên.
+Tất cả nhân vật phải khớp chính xác cử động môi khi nói.
+Yêu cầu cho người nói
+Khi giám khảo nói, chỉ có môi giám khảo mấp máy
+Khi tiểu sư muội nói, chỉ có môi tiểu sư muội mấp máy
+Khi đại sư tỷ nói, chỉ có môi đại sư tỷ mấp máy
+Với những khoảnh khắc không có lời thoại, truyền tải cảm xúc qua:
+Ánh mắt
+Khoảng dừng
+Cử chỉ tay
+Điều phối không gian
+VIII. Tính liên tục của Nhân vật, Đạo cụ và Không gian
+Duy trì sự nhất quán của:
+Nhân vật
+Hình dáng khuôn mặt
+Kiểu tóc
+Trang phục
+Tỷ lệ cơ thể
+Vũ khí
+Một thanh trường kiếm bạc của Đại sư tỷ
+Một thanh hắc cương kiếm của Tiểu sư muội
+Đạo cụ
+Văn thư tư cách đóng dấu đỏ
+Văn thư tư cách chưa đóng dấu
+Bàn khảo hạch tông môn cổ đại
+Không gian
+Vị trí của giám khảo
+Vị trí của các đệ tử khác
+Vị trí tương đối giữa đại sư tỷ và tiểu sư muội
+Mối quan hệ giữa tòa nhà chính và địa hình
+IX. Âm thanh và Chất lượng điện ảnh
+Thiết kế âm thanh
+Đảm bảo đồng bộ:
+Lời thoại tiếng Quan Thoại
+Tiếng giấy trượt trên bàn
+Tiếng vải cọ xát
+Tiếng gõ nhẹ lên vỏ kiếm
+Âm hưởng không gian tự nhiên
+Diễn xuất và Quay phim
+Số lượng hành động tiết chế
+Làm nổi bật biểu cảm vi mô
+Chuyển động máy quay ổn định
+Phân cấp thị giác rõ ràng
+Mối quan hệ nhân vật và điều phối không gian chân thực
+Yêu cầu bối cảnh
+Bối cảnh duy trì sức sống tự nhiên.
+Nhưng không có mối quan hệ nhân quả độc lập nào với việc gian lận thi cử hay lựa chọn của nhân vật.
+X. Những điều cấm tuyệt đối
+Không tạo phụ đề
+Không yêu cầu mô hình tạo ra văn bản điểm thi có thể đọc được
+Không tùy tiện thiết lập lại môi trường tham chiếu
+Không có hành động nào không liên quan đến cốt truyện
+Không dùng các sự kiện môi trường để thúc đẩy cú twist gian lận thi cử
+Không thay đổi nhân vật, vũ khí,
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115629215962083328/img/7RQmm82Z4u7eouLi.jpg" width="600" alt="Seedance 2.0 Mini Ancient Xianxia Video Prompt">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13129)**
+
+**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2115629293430788360) | **Đã xuất bản:** Oct 29, 2026
+
+---
+### Video Cải Tạo Sàn Nhựa Resin Hoa Cúc Vạn Thọ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Câu lệnh tạo video cải tạo sàn siêu thực, hiển thị quy trình tạo bề mặt sàn bóng gương với hoa cúc vạn thọ màu cam được nhúng trong nhựa resin.
+
+#### 📝 Prompt
+
+```
+Một người đàn ông để râu mặc quần yếm denim và đeo găng tay vàng đang cào một đống lớn hoa cúc vạn thọ màu cam trên nền bê tông của một căn phòng trắng trống trải, có khung cửa sổ lớn nhìn ra hàng cây xanh, dàn đều những bông hoa thành một lớp phẳng phủ kín toàn bộ sàn nhà. Một phụ nữ tóc vàng mặc quần yếm đỏ và đi ủng cao su đen đổ lớp nhựa epoxy trắng đặc từ chiếc xô trắng lên trên những bông hoa, sau đó dùng cào gạt chất lỏng lan ra xung quanh cho đến khi toàn bộ mặt sàn được phủ một lớp nhựa bóng loáng với những đóa cúc vạn thọ nằm lơ lửng bên trong. Một công nhân mặc áo phản quang màu vàng đánh bóng mặt sàn đã khô cứng bằng máy chà sàn xoay, tạo nên bề mặt trong suốt nhẵn mịn như gương với những bông hoa cam rực rỡ ẩn sâu bên dưới. Hai người phụ nữ mặc vest công sở màu đen khiêng vào một khung giường gỗ sáng màu, đặt nệm lên trên, trải ga giường màu kem cùng gối và kê thêm một chiếc tủ đầu giường nhỏ có đèn ngủ, rồi bước ra ngoài. Cảnh quay cuối cùng hé lộ phòng ngủ đã hoàn thiện: chiếc giường được dọn ngăn nắp đặt trên mặt sàn bóng bẩy như gương tuyệt đẹp, nơi hàng ngàn bông cúc vạn thọ cam được bảo quản nguyên vẹn dưới lớp nhựa trong suốt, cùng ánh nắng dịu nhẹ len qua khung cửa sổ. Video quy trình cải tạo đầy thỏa mãn, phong cách chân thực như ảnh chụp, góc máy điện ảnh mượt mà, ánh sáng tự nhiên ấm áp.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115508821292396544/img/jYmX2uIXftEV4Ibi.jpg" width="600" alt="Video Cải Tạo Sàn Nhựa Resin Hoa Cúc Vạn Thọ">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13126)**
+
+**Tác giả:** [Ruslan Ai](https://x.com/Ruslanchain) | **Nguồn:** [Link](https://x.com/Ruslanchain/status/2115508874803400848) | **Đã xuất bản:** Oct 28, 2026
+
+---
+### Video Cải Tạo Sàn Epoxy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết cho Seedance 2.0 để tạo video cải tạo nhà thực tế, tập trung vào thi công sàn epoxy và thiết kế nội thất.
+
+#### 📝 Prompt
+
+```
+Camera cố định đặt qua khung cửa, hướng vào một phòng ngủ trống với những bức tường ốp gỗ sơn trắng, đường phào chỉ trần và một ô cửa sổ sáng rực. Một người đàn ông mặc áo thun đen, đội mũ lưỡi trai đen và đeo găng tay bảo hộ bước vào, xách theo chiếc xô màu đỏ. Anh đổ lớp epoxy đỏ bóng xuống nền bê tông xám rồi dùng cây gạt sàn bản rộng dàn đều cho đến khi toàn bộ mặt sàn ánh lên sắc đỏ thẫm. Tiếp đó, anh rót chất lỏng màu trắng từ một chiếc xô trắng thành nhiều vũng tròn trên bề mặt đỏ; sắc tố trắng loang ra và lan tỏa tự nhiên thành những nhánh rẽ fractal phức tạp tựa như tia chớp, trải dài khắp sàn. Kế đến, anh phủ một lớp topcoat trong suốt, dùng cây gạt kéo phẳng mịn, rồi đánh bóng bề mặt bằng máy chà sàn xoay cho đến khi nhẵn bóng như gương. Đoạn time-lapse tua nhanh tiếp nối: các thợ thi công khiêng vào một chiếc giường bọc nệm trắng cùng gối đỏ, tủ đầu giường, rèm cửa hoa văn màu đỏ, tranh nghệ thuật hình cành cây đồng điệu sắc đỏ và đèn bàn. Cảnh cuối dừng lại ở phòng ngủ sang trọng đã hoàn thiện: sàn nhà đỏ rực rỡ với những đường vân fractal trắng phản chiếu ánh sáng từ cửa sổ, ga trải giường trắng tinh khôi điểm xuyết sắc đỏ, nội thất trang trí đối xứng, ánh sáng ban ngày tự nhiên dịu nhẹ, phong cách video cải tạo nhà chân thực, chuyển động mượt mà, chi tiết cao.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115506523380092928/img/Zn2zgeM8PTRThRYx.jpg" width="600" alt="Video Cải Tạo Sàn Epoxy">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13127)**
+
+**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2115506584159969679) | **Đã xuất bản:** Oct 28, 2026
+
+---
 ### Quảng cáo Tinh chất Dưỡng Môi Anh Đào
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -591,6 +894,51 @@ Trang phục cổ trang phương Đông, chất lượng điện ảnh chân th�
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13049)**
 
 **Tác giả:** [灰度笔记](https://x.com/GrayNoteLab) | **Nguồn:** [Link](https://x.com/GrayNoteLab/status/2114348037862719796) | **Đã xuất bản:** Oct 25, 2026
+
+---
+### Seedance 2.5 Prompt Video Gia Đình Định Dạng DV
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt chi tiết cao để tạo video gia đình DV phong cách đầu những năm 2000, chân thực, với một phụ nữ trẻ Đông Á trong phòng ngủ vào buổi chiều mùa hè nóng bức. Bao gồm các hướng dẫn cụ thể về tính nhất quán của nhân vật, dòng thời gian hành động, độ ổn định của máy quay và môi trường âm thanh.
+
+#### 📝 Prompt
+
+```
+Hình 1 là khung hình đầu tiên của video; cảnh quay bắt đầu từ Hình 1, với bối cảnh, bố cục, ánh sáng, trang phục, đạo cụ và vị trí của chúng đều dựa trên Hình 1.
+Hình 2 là ảnh tham khảo nhân vật, chỉ dùng để cố định gương mặt, tỷ lệ khuôn mặt, dáng mặt và màu tóc của người đó. Không sử dụng nền xám, trang phục hay bố cục ba góc nhìn (three-view) từ Hình 2.
+
+Tạo một đoạn video dài 30 giây, siêu chân thực, mô phỏng phong cách quay bằng máy DV gia đình đầu những năm 2000, ghi lại cảnh một cô gái trẻ Đông Á trải qua buổi trưa hè oi bức trong phòng ngủ của một căn hộ chung cư cũ. Góc nhìn quan sát thuần túy, không thoại, không tuyến truyện, chỉ có nhịp điệu đời thường.
+
+Nhân vật
+Ngoại hình giống Hình 2; trang phục và kiểu tóc giống Hình 1: mặt mộc, búi tóc lỏng trên đỉnh đầu, áo phông rộng màu xanh dương nhạt, quần đùi cotton trắng, đi chân trần. Giữ nguyên nhất quán gương mặt, trang phục, kiểu tóc và vóc dáng xuyên suốt video.
+
+Trình tự hành động (mỗi hành động chỉ thực hiện một lần, không lặp lại)
+00:00–00:06 — Cô nằm tựa nửa người vào gối, tay phải cầm chiếc quạt trong Hình 1 phe phẩy chậm rãi, mắt nhìn trân trân lên trần nhà, thỉnh thoảng chớp mắt.
+00:06–00:11 — Cô ngừng quạt, đặt chiếc quạt xuống chiếu trúc bên cạnh, chống tay ngồi dậy trên giường rồi quay người về phía chiếc quạt máy đang đặt trên ghế đẩu đầu giường.
+00:11–00:16 — Cô cầm chai nước ngọt trên ghế lên, hút một ngụm qua ống hút rồi đặt chai nước về đúng vị trí cũ.
+00:16–00:22 — Cô ghé sát mặt vào lồng quạt phía trước, há miệng kéo dài một tiếng "A—" vào cánh quạt; âm thanh rung lên theo vòng xoay của cánh quạt, vài sợi tóc bay lất phất trong gió. Giữ khoảng cách an toàn giữa mặt và cánh quạt, tuyệt đối không chạm vào quạt.
+00:22–00:26 — Cô tự cười chính mình, liếc nhanh về phía camera với nụ cười bẽn lẽn, không nói gì.
+00:26–00:30 — Cô ngả lưng ra sau, nằm xuống gối, lấy chiếc quạt che mặt rồi giữ nguyên tư thế. Quạt máy vẫn tiếp tục quay, sau đó chuyển sang màn hình đen.
+
+Tính nhất quán
+Vị trí của quạt nan, chai nước ngọt, quạt máy và ghế đẩu luôn cố định; không có đồ vật nào tự nhiên xuất hiện hay biến mất. Trong khung hình chỉ có duy nhất một chiếc quạt nan và một chai nước ngọt; kiểu dáng quạt nan giống hệt Hình 1. Hướng quạt máy cố định, không xoay đảo chiều; hình dáng cánh quạt ổn định. Các vệt sáng tối xen kẽ từ mành trúc giữ nguyên không đổi. Nhịp độ hành động diễn ra theo thời gian thực, thong thả, không vội vã.
+
+Quay phim & Chất lượng
+Góc máy cố định giống Hình 1; không di chuyển, không zoom, không lia máy xuyên suốt video. Nguồn sáng duy nhất là ánh nắng ban mai buổi chiều xuyên qua mành trúc, hơi cháy sáng nhẹ. Nhiễu hạt đặc trưng của băng DV, lệch màu nhẹ, viền tối bốn góc (vignette), thỉnh thoảng lấy nét tự động bị thở (focus breathing). Dòng chữ ngày tháng màu cam "2003 08 02" ở góc dưới bên phải luôn cố định trong suốt video.
+
+Âm thanh
+Chủ yếu là âm thanh môi trường: tiếng vo ve của quạt máy, tiếng quạt nan phe phẩy khe khẽ, tiếng ve kêu ngoài cửa sổ, tiếng chuông xe đạp vọng lại từ xa, tiếng chiếu trúc kêu cọt kẹt khi tì đè, tiếng hút nước ngọt qua ống hút. Âm thanh con người duy nhất là tiếng "A—" rung rung hướng vào quạt máy và một tiếng cười khúc khích. Không có nhạc nền.
+
+Những điều cấm kỵ
+Không phụ đề, không nhạc nền, không slow motion, không chỉnh màu điện ảnh, không di chuyển camera, không xóa phông mờ hậu cảnh, không dùng nền xám studio, không có chữ viết hay logo thương hiệu (ngoại trừ dấu ngày tháng). 30s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114326843423858688/img/d8LQ-l3HkxbHuPZH.jpg" width="600" alt="Seedance 2.5 Prompt Video Gia Đình Định Dạng DV">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13128)**
+
+**Tác giả:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Nguồn:** [Link](https://x.com/Adam38363368936/status/2114328135420293145) | **Đã xuất bản:** Oct 25, 2026
 
 ---
 ### Cảnh hài kịch Seedance 2.0 trong phòng ngủ cổ đại
@@ -3772,87 +4120,6 @@ Không có lời dẫn truyện, không có nhạc nền.
 **Tác giả:** [探路AI](https://x.com/TanLuAI) | **Nguồn:** [Link](https://x.com/TanLuAI/status/2106955448352231762) | **Đã xuất bản:** Oct 5, 2026
 
 ---
-### Cảnh Hành Động Điện Ảnh Hào Hùng Của Chiến Binh Hổ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video chi tiết để xây dựng một phân cảnh hành động điện ảnh đầy năng lượng, với chiến binh hổ nhân hóa chiến đấu trong thành phố đổ nát cùng hiệu ứng đặc sắc.
-
-#### 📝 Prompt
-
-```
-Tạo một cảnh hành động điện ảnh dài 14.6 giây, nổi bật với chiến binh hổ cam nhân hóa mạnh mẽ trong thành phố bị phá hủy, bao quanh bởi khói lửa và các tòa nhà đang sụp đổ. Ở cú quay mở đầu, con hổ hung hãn đối mặt với đối thủ, rồi bất ngờ nhảy lên cao với động tác võ thuật uyển chuyển khi camera theo dõi pha nhảy một cách kịch tính. Cắt sang cận cảnh khuôn mặt chân thực của con hổ, tập trung vào đôi mắt sắc sảo, bộ lông cam chi tiết, ria mép và biểu cảm dữ tợn. Tiếp tục thể hiện trận chiến giữa con hổ và đối thủ giống người với những cú đấm và đá nhanh, duy trì ngoại hình và giải phẫu nhất quán cho nhân vật. Một vụ va chạm năng lượng xanh mạnh mẽ xuất hiện trong lúc tấn công, tiếp theo là vụ nổ lửa khổng lồ trong thành phố hoang tàn. Hiển thị ngọn lửa, mảnh vỡ bay tứ tung, khói dày đặc, tia lửa và sự phá hủy chân thực lan rộng khắp môi trường. Con hổ hạ cánh tự tin ở tiền cảnh trong khi những tàn tích cháy rực phía sau, tạo nên bóng dáng anh hùng đầy kịch tính. Sử dụng chuyển động camera mượt mà mang phong cách điện ảnh, vật lý chân thực, ánh sáng kịch tính, kết cấu chi tiết, biên đạo hành động mạnh mẽ và hoạt hình 3D chất lượng cao xuyên suốt, không có văn bản, watermark hay biến dạng nhân vật.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106938524784328704/img/pXh4xaDoupeUx4Bw.jpg" width="600" alt="Cảnh Hành Động Điện Ảnh Hào Hùng Của Chiến Binh Hổ">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11914)**
-
-**Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2106938584431526162) | **Đã xuất bản:** Oct 5, 2026
-
----
-### Prompt Video Phong Cách Tranh Mực Wuxia
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt tạo video chi tiết cho Seedance 2.0, xây dựng cảnh wuxia phong cách tranh mực dài 15 giây với các chuyển động máy quay cụ thể, hiệu ứng hạt và motion blur động.
-
-#### 📝 Prompt
-
-```
-[0–3s] Máy quay: Đẩy nhanh từ cận cảnh ánh sáng lấp lánh trên lưỡi kiếm, đồng thời xoay theo chiều kim đồng hồ ở tốc độ 180°/s, cắt vào bóng dáng của chiếc nón lá (douli). Hình ảnh: Cận cảnh ánh sáng lưỡi kiếm kiểu tranh mực, tia lửa hạt bắn ra ngoài; bóng dáng douli hiện lên từ những đám mây mực cuộn trào. Hiệu ứng: Motion blur, vệt nét bút mực, hiệu ứng hạt.
-[3–6s] Máy quay: Quỹ đạo 360° tốc độ cao tập trung vào nhân vật (270°/s), bám theo quỹ đạo vung kiếm. Hình ảnh: Trung cảnh nhân vật vung kiếm, áo bào bay phất, nét bút mực chảy theo chuyển động. Hiệu ứng: Khói mực động, motion blur trên áo bào, lực kéo hình ảnh do chuyển động xoay.
-[6–9s] Máy quay: Cảnh tracking ngang tốc độ cao (trái → phải), đồng thời nghiêng và xoay ngược chiều kim đồng hồ ở tốc độ 90°/s, khóa chặt vào đường đi của lưỡi kiếm. Hình ảnh: Đường cong quỹ đạo lưỡi kiếm, tia lửa hạt bắn ra ngoài, vệt nét bút mực. Hiệu ứng: Motion blur, hiệu ứng hạt, vệt mờ mực ma.
-[9–12s] Máy quay: Góc thấp hướng lên với cần cẩu nâng nhanh, đồng thời xoắn ốc ở tốc độ 225°/s, nâng từ vết mực trên mặt đất lên phần thân trên của nhân vật. Hình ảnh: Vết mực trên mặt đất, nhân vật đang giữa động tác vung kiếm (thân trên), mây mực cuộn trong nền. Hiệu ứng: Mây mực động, motion blur khi nâng lên, xoáy nước màu mực tạo bởi chuyển động xoay.
-[12–15s] Máy quay: Cận cảnh slow-motion, với máy quay xoay chậm theo chiều kim đồng hồ ở tốc độ 15°/s khi ánh sáng lưỡi kiếm đóng băng tại chỗ. Hình ảnh: Cận cảnh ánh sáng lưỡi kiếm, hiệu ứng hạt sắc nét và rõ ràng, ánh mắt nhân vật dưới bóng của douli (tùy chọn). Hiệu ứng: Slow motion, hạt tan biến, rung nhẹ máy quay.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106931329535459328/img/XKp-5If8NQ95ETQI.jpg" width="600" alt="Prompt Video Phong Cách Tranh Mực Wuxia">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11986)**
-
-**Tác giả:** [Zidan 子丹](https://x.com/liluocheng13) | **Nguồn:** [Link](https://x.com/liluocheng13/status/2106931613427028260) | **Đã xuất bản:** Oct 5, 2026
-
----
-### Video Phong Cách Trailer Điện Ảnh Hùng Tráng
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt tạo video phong cách trailer điện ảnh hùng tráng bằng hình ảnh tham chiếu, nhấn mạnh kết xuất siêu chi tiết, thẩm mỹ Unreal Engine 5 và các ràng buộc tiêu cực cụ thể để kiểm soát chất lượng.
-
-#### 📝 Prompt
-
-```
-Sử dụng hình ảnh tham chiếu 1 để tạo một video điện ảnh hùng tráng.
-：Thẩm mỹ trailer điện ảnh hùng tráng, phong cách quay người thật, IMAX, 16K, kết xuất siêu chi tiết, hiệu ứng hạt động toàn khung hình, Unreal Engine 5, ray tracing, chi tiết bùng nổ. Yêu cầu về phong cách: Vẻ đẹp thẩm mỹ, vẻ đẹp bệnh hoạn, khí thế hùng vĩ, vẻ đẹp suy tàn, vẻ đẹp vỡ vụn, sự bi tráng, kèm theo nỗi buồn. [Ràng buộc & Tiêu cực] Xám lạnh bão hòa thấp + điểm nhấn màu hổ phách, chuyển động lưu chất dựa trên vật lý. Tiêu cực: Chất lượng thấp, giật lag, khuôn mặt/cơ thể biến dạng, quá sáng, máu me quá mức, chuyển động cứng nhắc, watermark, tư thế T-pose, bảng màu rực rỡ, VFX lòe loẹt, máy quay cứng nhắc, thiếu tốc độ/blur, đòn tấn công yếu.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106923772372738048/img/p-_o3Q13K4Hbb2lw.jpg" width="600" alt="Video Phong Cách Trailer Điện Ảnh Hùng Tráng">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11915)**
-
-**Tác giả:** [Zidan 子丹](https://x.com/liluocheng13) | **Nguồn:** [Link](https://x.com/liluocheng13/status/2106923884931166241) | **Đã xuất bản:** Oct 5, 2026
-
----
-### Trượt Ván Tốc Độ Cao Trong Đô Thị
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt 'lười' đơn giản để tạo video trượt ván tốc độ cao qua phố đông đúc với hiệu ứng mờ chuyển động chân thực và cảm giác quay cầm tay.
-
-#### 📝 Prompt
-
-```
-Một cô gái trượt ván tốc độ cao xuyên qua con phố đô thị đông đúc, lách qua đám người, nhảy qua các chướng ngại vật nhỏ, vượt qua ô tô và xe đạp, cắt cảnh nhanh, hiệu ứng mờ chuyển động, cảm giác quay cầm tay, năng lượng tràn đầy, môi trường chân thực, chi tiết cao.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106921938576883712/img/9S6CRhiy0KGRQiZh.jpg" width="600" alt="Trượt Ván Tốc Độ Cao Trong Đô Thị">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11917)**
-
-**Tác giả:** [Zidan 子丹](https://x.com/liluocheng13) | **Nguồn:** [Link](https://x.com/liluocheng13/status/2106922065240731732) | **Đã xuất bản:** Oct 5, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -3914,6 +4181,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-29T04:48:34.760Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-29T15:13:28.024Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6599** |
+| 📝 Totale prompt | **6603** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-10-29** |
 
@@ -361,6 +361,309 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Prompt Video Xianxia Antico Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt dettagliato per generare un video cinematografico di 15 secondi in stile Xianxia antico cinese utilizzando Seedance 2.0 Mini, con coerenza dei personaggi e struttura narrativa.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | Xianxia antico "L'unica che ha fallito"
+
+Modello: Seedance 2.0 Mini
+Durata: Rigorosamente 15 secondi
+Rapporto d'aspetto: 16:9 Orizzontale
+Struttura: Tre inquadrature continue e nitide con funzioni narrative diverse
+I. Prompt | Stile generale e direzione creativa
+Texture realistica cinematografica, estetica pura dello Xianxia cinese antico.
+Elementi chiave:
+Suspense psicologico
+Satira sociale misurata
+Recitazione di precisione nei micro-dettagli
+Regia di alto livello per le scene di arti marziali
+Adottare:
+Illuminazione volumetrica naturale
+Texture della pelle realistica
+Movimento delicato della seta
+Profondità di campo cinematografica
+Contesto creativo
+Ispirato alle controversie reali sulla manipolazione dei punteggi degli esami, ma la trama è completamente ricostruita come una fittizia prova di spada in un'antica setta.
+II. Trama principale e colpo di scena
+Tutti credono che la sorella minore bocciata non abbia talento, ma il problema risiede nell'esame stesso.
+Gli altri possono comprare attestati falsi per superarlo, mentre lei sceglie di affrontare il proprio vero livello.
+Progressione narrativa a tre livelli
+Livello 1: Umiliazione pubblica
+150 discepoli partecipano alla prova di spada; solo la sorella minore viene bocciata.
+Livello 2: Ribaltamento istituzionale
+L'esaminatore offre di modificare i risultati in cambio di pietre spirituali, lasciando intendere che anche gli attestati degli altri siano stati manomessi.
+Livello 3: Scelta attiva
+La sorella minore rifiuta di comprare l'idoneità, rinunciando ai certificati falsi per continuare ad allenarsi con la spada.
+Emozioni chiave
+Prima metà: Umiliazione, confusione, oppressione
+Parte centrale: Shock, ribaltamento cognitivo
+Seconda metà: Lucidità, autocontrollo, nuova determinazione
+III. Blocco personaggi e asset
+@Image1 | Sorella maggiore Immortale della Spada
+Stessa Sorella Maggiore:
+Donna dell'Asia orientale, 25-30 anni
+Viso ovale pallido
+Occhi scuri a mandorla
+Capelli neri lunghi, semi-raccolti con fermaglio in giada bianca
+Figura alta e slanciata
+Stesso Hanfu in seta bianca ricamata
+Ampie maniche stratificate semitrasparenti
+Fascia in vita argentata
+Ciondolo di giada
+Stivali in tessuto bianco
+Impugna una spada lunga argentata
+@Image2 | Sorella minore
+Stessa Sorella Minore:
+Donna dell'Asia orientale, 20-25 anni
+Viso rotondo e vivace
+Capelli neri intrecciati
+Figura minuta
+Stesso Hanfu in lino verde-azzurro
+Cintura scura
+Fermaglio per capelli in legno
+Scarpe in tessuto nero
+Impugna una spada in acciaio scuro
+Altri personaggi
+Anziano esaminatore
+Presiede la prova di spada della setta, annuncia i risultati e propone di modificare gli attestati.
+Discepoli promossi
+Diversi discepoli in piedi da un lato reggono documenti di idoneità identici timbrati in rosso.
+Gli altri personaggi svolgono esclusivamente le funzioni narrative necessarie.
+IV. DNA ambientale e pianificazione spaziale
+Tutte le immagini di riferimento di sfondi/ambientazioni appena caricate determinano il mondo fisico.
+Blocco della scena
+Preservare gli elementi riconoscibili dai riferimenti:
+Terreno
+Relazioni spaziali delle architetture principali
+Scala spaziale
+Materiali
+Condizioni meteo
+Vegetazione
+Illuminazione
+Profondità atmosferica
+Posizionare naturalmente una semplice postazione di valutazione di un'antica setta basandosi sullo spazio esistente.
+Non reimpostare arbitrariamente il mondo.
+Principio dello sfondo vivo
+L'ambiente resta vivo:
+La brezza scorre naturalmente
+Le nuvole cambiano continuamente
+La vegetazione ondeggia in modo naturale
+Le figure in lontananza mantengono movimenti sottili
+Le maniche si muovono seguendo le azioni dei personaggi e il vento naturale
+Il suono ambientale spaziale persiste
+Neutralità narrativa
+Lo sfondo rimane narrativamente neutrale.
+Non deve influenzare attivamente:
+I risultati dell'esame
+Il comportamento dell'esaminatore
+Le scelte dei personaggi
+I colpi di scena
+V. Struttura completa dello storyboard di 15 secondi
+0-5s | Inquadratura 1: Campo lungo | Umiliazione pubblica, creazione del suspense
+Design della camera
+Lenta carrellata in avanti da un campo medio-lungo sul luogo della prova di spada.
+Spazio e relazioni tra i personaggi
+Un anziano esaminatore è in piedi accanto alla postazione di valutazione.
+Diversi discepoli promossi sono in piedi da un lato con in mano documenti di idoneità timbrati in rosso.
+La sorella minore è in piedi da sola dall'altro lato.
+La sorella maggiore è in piedi diagonalmente dietro di lei.
+Azione e dialoghi
+L'esaminatore annuncia pubblicamente:
+[Esaminatore] "Su 150 persone, solo tu sei stata bocciata."
+I discepoli circostanti mormorano leggermente e soffocano qualche risata.
+La sorella minore non si difende, abbassando lentamente lo sguardo.
+La sorella maggiore resta impassibile, senza farsi subito avanti.
+Contrasto visivo
+Creare un netto contrasto attraverso:
+I documenti di idoneità timbrati in rosso nelle mani degli altri discepoli
+Le mani vuote della sorella minore
+Obiettivo narrativo dell'inquadratura 1
+Deve portare lo spettatore a chiedersi spontaneamente:
+Perché solo lei è stata bocciata?
+5-10s | Inquadratura 2: Mezzo primo piano | Dal fallimento al ribaltamento istituzionale
+Requisiti di continuità
+Mantenere la continuità di:
+Identità dei personaggi
+Oggetti di scena
+Posizioni spaziali
+Azioni nascoste dell'esaminatore
+Notando che l'attenzione si sposta, l'esaminatore si china leggermente.
+Prende un documento di idoneità non timbrato da sotto il tavolo e lo spinge silenziosamente verso la sorella minore.
+Dialoghi
+L'esaminatore sussurra:
+[Esaminatore] "Dieci pietre spirituali, e sistemo tutto io."
+La sorella minore alza bruscamente lo sguardo.
+Reazione della sorella minore
+Non si arrabbia immediatamente.
+Prima guarda i documenti timbrati in rosso nelle mani degli altri, poi chiede lentamente:
+[Sorella minore] "Hanno barato anche loro?"
+L'esaminatore non risponde.
+Fa solo un cenno del capo leggerissimo, ma inequivocabile.
+Camera e recitazione
+La camera resta fissa sul viso della sorella minore.
+Il suo vero shock non è aver fallito l'esame.
+È rendersi conto che quei punteggi tanto invidiati potrebbero non essere frutto del talento.
+Principio del ribaltamento informativo
+A questo punto:
+Nessun flashback necessario
+Nessuna spiegazione del metodo di imbroglio necessaria
+Gli stessi documenti timbrati in rosso, l'allusione dell'esaminatore e quel cenno del capo bastano a completare il ribaltamento informativo.
+10-15s | Inquadratura 3: Primo piano del personaggio | Scelta attiva, approdo emotivo
+Azione chiave 1: Rifiuto dell'idoneità
+La mano della sorella minore si allunga lentamente verso il documento di idoneità sul tavolo.
+Un istante prima che le dita tocchino la carta, si ferma.
+Poi, spinge delicatamente il documento indietro verso l'esaminatore.
+Limiti di recitazione
+Vietato:
+Lanciare oggetti
+Sguainare la spada per minacciare
+Urlare accuse
+Dialogo chiave
+Guardando l'esaminatore, chiede soltanto:
+[Sorella minore] "Quando arriveranno i demoni, chi sistemerà le cose per me?"
+L'esaminatore si blocca, per la prima volta senza parole.
+Azione chiave 2: L'intervento della sorella maggiore
+La sorella maggiore fa mezzo passo avanti da dietro la sorella minore, portandosi al suo fianco.
+La sorella maggiore NON:
+Dichiara che sia lei la vera prima classificata
+Pretende un voto di promozione per lei
+Si limita a sfiorare con la punta del dito il fodero alla cintura della sorella minore.
+Dice con calma:
+[Sorella maggiore] "Andiamo, alleniamoci con la spada."
+Cambiamento emotivo della sorella minore
+La sorella minore alza lo sguardo verso di lei.
+La sua espressione tesa si distende gradualmente.
+Si volta e lascia la postazione di valutazione insieme alla sorella maggiore.
+Immagine finale e risonanza emotiva
+La camera trattiene una breve risonanza emotiva finale:
+L'esaminatore è ancora fermo al suo posto
+Il documento di idoneità acquistabile sul tavolo resta lì, ignorato
+Approdo narrativo finale
+Non ha superato improvvisamente l'esame, né ha ricevuto premi nascosti.
+Resta colei che ha fallito la prova di spada.
+Ma ora sa finalmente cosa fare.
+VI. Requisiti di esecuzione per Seedance 2.0 Mini
+Specifiche di base
+Deve generare un video Seedance 2.0 Mini di 15 secondi
+Durata totale rigorosa: 15 secondi
+Rapporto d'aspetto: 16:9 orizzontale
+Tre inquadrature continue e nitide con funzioni narrative diverse
+Focus della generazione del modello
+Enfatizzare di Seedance 2.0 Mini:
+La coerenza dell'identità delle due protagoniste
+Una chiara gerarchia visiva
+Pochi nodi d'azione, ma precisi
+Movimenti di camera stabili
+Microespressioni realistiche dei personaggi
+Sincronizzazione tra dialoghi e audio spaziale
+VII. Dialoghi e lip sync
+I dialoghi utilizzano un mandarino naturale.
+Tutti i personaggi devono far corrispondere perfettamente i movimenti labbiali quando parlano.
+Requisiti per chi parla
+Quando parla l'esaminatore, solo lui muove le labbra
+Quando parla la sorella minore, solo lei muove le labbra
+Quando parla la sorella maggiore, solo lei muove le labbra
+Nei momenti senza dialogo, esprimere le emozioni tramite:
+Contatto visivo
+Pause
+Gesti delle mani
+Disposizione nello spazio
+VIII. Continuità di personaggi, oggetti e spazio
+Mantenere la coerenza di:
+Personaggi
+Forma del viso
+Acconciatura
+Abbigliamento
+Proporzioni corporee
+Armi
+L'unica spada lunga argentata della sorella maggiore
+L'unica spada in acciaio scuro della sorella minore
+Oggetti di scena
+Documento di idoneità timbrato in rosso
+Documento di idoneità non timbrato
+Postazione di valutazione dell'antica setta
+Spazio
+Posizione dell'esaminatore
+Posizione degli altri discepoli
+Posizioni relative delle sorelle maggiore e minore
+Relazioni tra edificio principale e terreno
+IX. Audio e qualità cinematografica
+Sound design
+Garantire la sincronizzazione di:
+Dialoghi in mandarino
+Rumore della carta che scivola
+Fruscio dei tessuti
+Leggeri tocchi sul fodero
+Ambiente spaziale naturale
+Recitazione e fotografia
+Numero di azioni contenuto
+Risalto alle microespressioni
+Movimenti di camera stabili
+Gerarchia visiva chiara
+Relazioni tra i personaggi e disposizione spaziale realistiche
+Requisiti dello sfondo
+Lo sfondo resta naturalmente vivo.
+Ma non ha alcun rapporto causale autonomo con l'imbroglio dell'esame o le scelte dei personaggi.
+X. Divieti rigorosi
+Nessun sottotitolo generato
+Non richiedere al modello di generare testo leggibile sui punteggi dell'esame
+Non reimpostare arbitrariamente l'ambiente di riferimento
+Nessuna azione estranea alla trama
+Non usare eventi ambientali per innescare il colpo di scena della frode all'esame
+Non cambiare personaggi, armi,
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115629215962083328/img/7RQmm82Z4u7eouLi.jpg" width="600" alt="Prompt Video Xianxia Antico Seedance 2.0 Mini">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13129)**
+
+**Autore:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2115629293430788360) | **Pubblicato:** Oct 29, 2026
+
+---
+### Video di Ristrutturazione del Pavimento in Resina con Calendule
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare un video di ristrutturazione fotorealistico che mostra la creazione di un pavimento a specchio lucido con calendule arancioni incorporate nella resina.
+
+#### 📝 Prompt
+
+```
+Un uomo con la barba, in salopette di jeans e guanti gialli, rastrella un enorme cumulo di fiori di calendula arancioni sul pavimento di cemento di una stanza bianca vuota, dotata di un'ampia finestra affacciata su alberi verdi, distribuendo i petali fino a formare uno strato piatto e uniforme che ricopre l'intera superficie. Una donna bionda in salopette rossa e stivali di gomma nera versa sui fiori una densa resina epossidica bianca da un secchio bianco, per poi spanderla verso l'esterno con il rastrello finché tutto il pavimento non è rivestito da uno strato lucido di resina con le calendule sospese all'interno. Un operaio con un gilet giallo ad alta visibilità lucida il pavimento indurito con una monospazzola rotante, creando una superficie trasparente e liscia come uno specchio, con i vivaci fiori arancioni incastonati sotto. Due donne in tailleur nero portano dentro una struttura del letto in legno chiaro, vi appoggiano un materasso, preparano il letto con lenzuola color panna e cuscini, sistemano un piccolo comodino con una lampada ed escono dalla stanza. L'inquadratura finale svela la camera da letto completata: un letto perfettamente rifatto che si erge su uno splendido pavimento lucido a specchio, riempito di migliaia di calendule arancioni conservate sotto la resina trasparente, mentre una luce solare morbida filtra dalla finestra. Video soddisfacente di un processo di ristrutturazione, stile fotorealistico, movimenti di macchina fluidi e cinematografici, illuminazione naturale e calda.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115508821292396544/img/jYmX2uIXftEV4Ibi.jpg" width="600" alt="Video di Ristrutturazione del Pavimento in Resina con Calendule">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13126)**
+
+**Autore:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2115508874803400848) | **Pubblicato:** Oct 28, 2026
+
+---
+### Video di Ristrutturazione del Pavimento in Resina Epossidica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt dettagliato per Seedance 2.0 per generare un video realistico di ristrutturazione domestica che mostra l'applicazione di pavimenti in resina epossidica e il design degli interni.
+
+#### 📝 Prompt
+
+```
+Telecamera fissa inquadrata attraverso una porta che si affaccia su una camera da letto vuota, con pareti bianche a pannelli, cornici decorative e una finestra luminosa. Un uomo con t-shirt nera, cappellino nero e guanti da lavoro entra portando un secchio rosso, versa resina epossidica rossa lucida sul pavimento in cemento grigio e la distribuisce uniformemente con una spatola larga per pavimenti, finché l'intera superficie non risplende di un rosso intenso. Poi versa del liquido bianco da un secchio bianco formando diverse pozze circolari sulla superficie rossa; il pigmento bianco sboccia e si espande in modo organico, creando intricati rami frattali simili a fulmini che si diramano su tutto il pavimento. Successivamente applica uno strato trasparente di finitura e lo livella con la spatola, quindi lucida la superficie con una monospazzola rotante fino a ottenere un effetto a specchio. Segue un rapido time-lapse: gli operai portano dentro un letto imbottito bianco con cuscini rossi, comodini, tende rosse a fantasia, quadri coordinati con rami rossi e lampade da tavolo. L'inquadratura finale si sofferma sulla camera da letto di lusso completata: pavimento rosso brillante con venature frattali bianche che riflettono la finestra, lenzuola bianchissime con dettagli rossi, arredi simmetrici, morbida luce naturale diurna, stile realistico da video di ristrutturazione domestica, movimenti fluidi, alto livello di dettaglio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115506523380092928/img/Zn2zgeM8PTRThRYx.jpg" width="600" alt="Video di Ristrutturazione del Pavimento in Resina Epossidica">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13127)**
+
+**Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2115506584159969679) | **Pubblicato:** Oct 28, 2026
+
+---
 ### Annuncio del siero labbra alla ciliegia
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -591,6 +894,51 @@ Costume antico orientale, qualità cinematografica fotorealistica; sala maestosa
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13049)**
 
 **Autore:** [灰度笔记](https://x.com/GrayNoteLab) | **Fonte:** [Link](https://x.com/GrayNoteLab/status/2114348037862719796) | **Pubblicato:** Oct 25, 2026
+
+---
+### Prompt per video casalingo DV Seedance 2.5
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt altamente dettagliato per generare un realistico video casalingo DV dei primi anni 2000, con una giovane donna dell'Asia orientale in una camera da letto durante un caldo pomeriggio estivo. Include istruzioni specifiche per la coerenza del personaggio, la sequenza temporale delle azioni, la stabilità della telecamera e l'ambiente audio.
+
+#### 📝 Prompt
+
+```
+L'Immagine 1 è il primo fotogramma del video; la scena parte dall'Immagine 1, con ambientazione, composizione, illuminazione, abbigliamento, oggetti di scena e relative posizioni tutti basati sull'Immagine 1.
+L'Immagine 2 è il riferimento per il personaggio, da usare esclusivamente per fissare il volto, le proporzioni facciali, la forma del viso e il colore dei capelli. Non utilizzare lo sfondo grigio, l'abbigliamento o la disposizione a tre viste dell'Immagine 2.
+
+Crea una registrazione domestica in DV dei primi anni 2000, iperrealistica e della durata di 30 secondi, che ritragga una giovane donna dell'Asia orientale mentre trascorre un afoso pomeriggio estivo nella camera da letto di un vecchio appartamento residenziale. Prospettiva puramente osservativa, nessun dialogo, nessuna struttura narrativa: solo il ritmo della vita quotidiana.
+
+Personaggio
+L'aspetto corrisponde all'Immagine 2; abbigliamento e acconciatura corrispondono all'Immagine 1: senza trucco, chignon morbido sulla sommità della testa, T-shirt ampia azzurra, pantaloncini bianchi di cotone, piedi nudi. Mantenere costanti volto, abbigliamento, acconciatura e corporatura per tutta la durata.
+
+Sequenza delle azioni (ogni azione eseguita una sola volta, senza ripetizioni)
+00:00–00:06 — È semisdraiata contro un cuscino, si fa lentamente aria con il ventaglio dell'Immagine 1 tenuto nella mano destra, fissa il soffitto con sguardo assente, sbattendo le palpebre di tanto in tanto.
+00:06–00:11 — Smette di farsi aria, appoggia il ventaglio sulla stuoia di bambù accanto a sé, si spinge su per sedersi sul letto e si gira verso il ventilatore posato sullo sgabello del comodino.
+00:11–00:16 — Prende la bottiglietta di bibita dallo sgabello, beve un sorso con la cannuccia, poi rimette la bottiglia esattamente dov'era.
+00:16–00:22 — Si avvicina alla parte anteriore del ventilatore, apre la bocca ed emette un lungo "Ah—" prolungato verso le pale; il suono vibra contro le pale in rotazione, con qualche ciocca di capelli mossa dal vento. Mantenere una distanza di sicurezza tra il viso e le pale, senza toccare il ventilatore.
+00:22–00:26 — Ride di se stessa, lancia un breve sguardo alla telecamera con un sorriso timido, senza dire nulla.
+00:26–00:30 — Si lascia cadere all'indietro sul cuscino, si copre il viso con il ventaglio e resta immobile. Il ventilatore continua a girare, poi dissolvenza al nero.
+
+Coerenza
+Le posizioni del ventilatore, della bottiglietta di bibita, del gruppo ventola e dello sgabello restano invariate; nessun oggetto appare o scompare spontaneamente. Nell'inquadratura sono presenti un solo ventilatore e una sola bottiglietta di bibita; lo stile del ventaglio è identico a quello dell'Immagine 1. L'orientamento del ventilatore è fisso, senza oscillazione; la forma delle pale è stabile. Le strisce di luce e ombra della tenda di bambù restano stabili. Le azioni si svolgono a ritmo naturale, senza fretta.
+
+Ripresa e qualità
+Angolo di ripresa fisso, corrispondente all'Immagine 1; nessun movimento, zoom o panoramica per tutta la durata. L'unica fonte di luce è quella naturale del pomeriggio che filtra dalle tende di bambù, leggermente sovraesposta. Rumore tipico del DV, lieve slittamento cromatico, vignettatura, occasionale effetto di focus breathing dell'autofocus. La data arancione "2003 08 02" nell'angolo in basso a destra rimane fissa per tutta la durata.
+
+Audio
+Dominano i suoni ambientali: il ronzio del ventilatore, il fruscio leggero del ventaglio, le cicale fuori dalla finestra, il campanello di una bicicletta in lontananza, lo scricchiolio della stuoia di bambù sotto il peso, il rumore della bibita aspirata con la cannuccia. Le uniche voci umane sono quel tremolante "Ah—" rivolto al ventilatore e una risatina leggera. Nessuna musica di sottofondo.
+
+Vietato
+Nessun sottotitolo, nessuna colonna sonora, nessun rallentatore, nessuna color correction cinematografica, nessun movimento di camera, nessuna profondità di campo ridotta, nessuno sfondo grigio da studio, nessun testo o logo di marchi (ad eccezione della data). 30s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114326843423858688/img/d8LQ-l3HkxbHuPZH.jpg" width="600" alt="Prompt per video casalingo DV Seedance 2.5">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13128)**
+
+**Autore:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fonte:** [Link](https://x.com/Adam38363368936/status/2114328135420293145) | **Pubblicato:** Oct 25, 2026
 
 ---
 ### Scena Comica Seedance 2.0 nella Camera da Letto Antica
@@ -3772,87 +4120,6 @@ Nessuna narrazione, nessuna musica di sottofondo.
 **Autore:** [探路AI](https://x.com/TanLuAI) | **Fonte:** [Link](https://x.com/TanLuAI/status/2106955448352231762) | **Pubblicato:** Oct 5, 2026
 
 ---
-### Scena d'Azione Cinematografica del Guerriero Tigre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato per la generazione di video, progettato per creare una sequenza d'azione cinematografica ad alta energia che presenta un guerriero tigre antropomorfo in combattimento in una città distrutta con effetti speciali.
-
-#### 📝 Prompt
-
-```
-Crea una scena d'azione cinematografica di 14,6 secondi che presenta un potente guerriero tigre arancione antropomorfo in una città distrutta circondata da fumo, fuoco ed edifici in fase di crollo. Il tiger affronta aggressivamente un avversario nella prima inquadratura, poi salta improvvisamente in alto nell'aria con un movimento dinamico di arti marziali mentre la telecamera segue il salto in modo drammatico. Taglio su un intenso primo piano del volto realistico della tigre, focalizzandosi sugli occhi acuti, sul pelo arancione dettagliato, sui baffi e su un'espressione feroce. Mostra la tigre che continua a combattere contro un avversario umanoide con pugni e calci veloci, mantenendo un aspetto del personaggio e un'anatomia coerenti. Un potente impatto di energia blu appare durante l'attacco, seguito da una gigantesca esplosione infuocata nella città in rovina. Mostra fiamme, detriti volanti, fumo denso, scintille e distruzione realistica che si diffonde nell'ambiente. La tigre atterra con sicurezza in primo piano mentre le rovine in fiamme brillano dietro di essa, creando una silhouette eroica drammatica. Usa movimenti fluidi della telecamera cinematografica, fisica realistica, illuminazione drammatica, texture dettagliate, coreografia d'azione forte e animazione 3D di alta qualità per tutta la durata, senza testo, filigrana o distorsioni dei personaggi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106938524784328704/img/pXh4xaDoupeUx4Bw.jpg" width="600" alt="Scena d'Azione Cinematografica del Guerriero Tigre">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11914)**
-
-**Autore:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2106938584431526162) | **Pubblicato:** Oct 5, 2026
-
----
-### Prompt Video Wuxia Stile Inchiostro
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt dettagliato per la generazione video con Seedance 2.0, che crea una scena wuxia di 15 secondi in stile inchiostro, con movimenti di camera specifici, effetti particellari e motion blur dinamico.
-
-#### 📝 Prompt
-
-```
-[0–3s] Camera: Zoom rapido da un primo piano del bagliore della lama, mentre la camera ruota in senso orario a 180°/s, tagliando verso la silhouette di un cappello di bambù (douli). Visuals: Primo piano del bagliore della lama in stile inchiostro, scintille particellari che esplodono verso l'esterno; la silhouette del douli emerge da nuvole d'inchiostro vorticanti. Effetti: Motion blur, scie di pennellate d'inchiostro, effetti particellari.
-[3–6s] Camera: Orbita ad alta velocità a 360° centrata sul personaggio (270°/s), seguendo la traiettoria della spallata della spada. Visuals: Piano medio del personaggio che brandisce la lama, vesti svolazzanti, pennellate d'inchiostro che fluiscono con il movimento. Effetti: Fumo d'inchiostro dinamico, motion blur sulle vesti, trascinamento visivo causato dalla rotazione.
-[6–9s] Camera: Panoramica laterale ad alta velocità (da sinistra a destra), mentre la camera si inclina e ruota in senso antiorario a 90°/s, bloccata sulla traiettoria della lama. Visuals: La linea di traiettoria della lama, scintille particellari che esplodono verso l'esterno, scie di pennellate d'inchiostro. Effetti: Motion blur, effetti particellari, scie fantasma d'inchiostro.
-[9–12s] Camera: Ripresa dal basso verso l'alto con un rapido movimento di gru, mentre la camera spiraleggia a 225°/s, salendo dalle macchie d'inchiostro sul terreno al busto del personaggio. Visuals: Macchie d'inchiostro sul terreno, il personaggio a metà spallata (busto superiore), nuvole d'inchiostro rotolanti sullo sfondo. Effetti: Nuvole d'inchiostro dinamiche, motion blur durante la salita, vortice colorato d'inchiostro creato dalla rotazione.
-[12–15s] Camera: Primo piano in slow-motion, con la camera che ruota lentamente in senso orario a 15°/s mentre il bagliore della lama si congela. Visuals: Primo piano del bagliore della lama, effetti particellari nitidi e chiari, lo sguardo del personaggio sotto l'ombra del douli (opzionale). Effetti: Slow motion, dissoluzione delle particelle, lieve tremolio della camera.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106931329535459328/img/XKp-5If8NQ95ETQI.jpg" width="600" alt="Prompt Video Wuxia Stile Inchiostro">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11986)**
-
-**Autore:** [Zidan 子丹](https://x.com/liluocheng13) | **Fonte:** [Link](https://x.com/liluocheng13/status/2106931613427028260) | **Pubblicato:** Oct 5, 2026
-
----
-### Video Stile Trailer Cinematografico Epico
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt per generare un video epico in stile trailer cinematografico utilizzando un'immagine di riferimento, con enfasi su rendering iperdettagliato, estetica Unreal Engine 5 e vincoli negativi specifici per il controllo della qualità.
-
-#### 📝 Prompt
-
-```
-Usa l'immagine di riferimento 1 per creare un video cinematografico epico.
-: Estetica da trailer cinematografico epico, stile live-action, IMAX, 16K, rendering iperdettagliato, effetti particellari dinamici a tutto campo, Unreal Engine 5, ray tracing, dettagli esplosivi. Requisiti di stile: Bellezza estetica, bellezza patologica, slancio grandioso, bellezza decadente, bellezza frammentata, grandiosità tragica, con tristezza. [Vincoli & Negativi] Grigio freddo a bassa saturazione + accento ambra, movimento fluido basato sulla fisica. Negativo: Bassa qualità, scatti, collasso del volto/corpo, eccessiva luminosità, gore eccessivo, movimenti rigidi, filigrana, T-pose, palette luminosa, VFX appariscenti, camera rigida, mancanza di velocità/sfocatura, uccisioni deboli.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106923772372738048/img/p-_o3Q13K4Hbb2lw.jpg" width="600" alt="Video Stile Trailer Cinematografico Epico">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11915)**
-
-**Autore:** [Zidan 子丹](https://x.com/liluocheng13) | **Fonte:** [Link](https://x.com/liluocheng13/status/2106923884931166241) | **Pubblicato:** Oct 5, 2026
-
----
-### Skateboard Urbano ad Alta Velocità
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt 'lazy' semplice per generare un video di skateboard ad alta velocità attraverso una strada urbana affollata, con motion blur realistico e sensazione di camera a mano.
-
-#### 📝 Prompt
-
-```
-Una ragazza che fa skateboard ad alta velocità attraverso una strada urbana affollata, schivando persone, saltando piccoli ostacoli, passando accanto a auto e bici, tagli rapidi, motion blur, sensazione di camera a mano, atmosfera energica, ambiente realistico, alto livello di dettaglio.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106921938576883712/img/9S6CRhiy0KGRQiZh.jpg" width="600" alt="Skateboard Urbano ad Alta Velocità">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11917)**
-
-**Autore:** [Zidan 子丹](https://x.com/liluocheng13) | **Fonte:** [Link](https://x.com/liluocheng13/status/2106922065240731732) | **Pubblicato:** Oct 5, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -3914,6 +4181,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-29T04:48:42.365Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-29T15:13:35.542Z</sub>
 
 </div>

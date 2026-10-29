@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6599** |
+| 📝 Gesamtanzahl Prompts | **6603** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-10-29** |
 
@@ -361,6 +361,309 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Seedance 2.0 Mini Prompt für antikes Xianxia-Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Prompt zur Generierung eines 15-sekündigen kinematografischen Videos im Stil des antiken chinesischen Xianxia mit Seedance 2.0 Mini, der Charakterkonsistenz und narrative Struktur betont.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | Antikes Xianxia „Die Einzige, die durchgefallen ist“
+
+Modell: Seedance 2.0 Mini
+Dauer: Exakt 15 Sekunden
+Seitenverhältnis: 16:9 Querformat
+Struktur: Drei fortlaufende, klare Einstellungen mit unterschiedlichen narrativen Funktionen
+I. Prompt | Gesamtstil und kreative Ausrichtung
+Kinoreife, realistische Textur, reine Ästhetik des antiken chinesischen Xianxia.
+Kernelemente:
+Psychologischer Suspense
+Zurückhaltende Gesellschaftssatire
+Präzises Mikroschauspiel
+Hochwertige Choreografie der Kampfkunstszene
+Einzusetzen sind:
+Natürliches Volumenlicht
+Realistische Hauttextur
+Feine Seidenbewegungen
+Kinematografische Tiefenschärfe
+Kreativer Hintergrund
+Inspiriert von realen Kontroversen um manipulierte Prüfungsergebnisse, wobei die Handlung vollständig als fiktive Schwertprüfung eines antiken Ordens neu konstruiert wurde.
+II. Kernhandlung und Wendepunkt
+Alle gehen davon aus, dass der jüngeren Schwester, die durchgefallen ist, das Talent fehlt – doch das Problem liegt in der Prüfung selbst.
+Andere können sich falsche Qualifikationen kaufen, um zu bestehen, während sie sich entscheidet, ihrem wahren Können ins Auge zu blicken.
+Dreistufiger narrativer Aufbau
+Stufe 1: Öffentliche Demütigung
+150 Schüler nehmen an der Schwertprüfung teil; nur die jüngere Schwester fällt durch.
+Stufe 2: Institutionelle Umkehrung
+Der Prüfer bietet an, die Ergebnisse gegen Geiststeine zu ändern, was andeutet, dass auch die Qualifikationen der anderen manipuliert wurden.
+Stufe 3: Aktive Entscheidung
+Die jüngere Schwester weigert sich, die Qualifikation zu kaufen, verwirft die falschen Zertifikate und übt weiter am Schwert.
+Kernemotionen
+Erste Hälfte: Demütigung, Verwirrung, Unterdrückung
+Mitte: Schock, kognitive Umkehrung
+Zweite Hälfte: Klarheit, Zurückhaltung, neue Entschlossenheit
+III. Charakter- und Asset-Fixierung
+@Image1 | Schwert-Unsterbliche ältere Schwester
+Dieselbe ältere Schwester:
+25–30 Jahre alte ostasiatische Frau
+Blasses ovales Gesicht
+Dunkle mandelförmige Augen
+Langes schwarzes Haar, halb hochgesteckt mit weißer Jade-Haarnadel
+Große, schlanke Figur
+Dasselbe weiße, bestickte Seiden-Hanfu
+Halbtransparente, geschichtete weite Ärmel
+Silberner Taillengürtel
+Jade-Anhänger
+Weiße Stoffstiefel
+Trägt ein silbernes Langschwert
+@Image2 | Jüngere Schwester
+Dieselbe jüngere Schwester:
+20–25 Jahre alte ostasiatische Frau
+Rundes, lebhaftes Gesicht
+Schwarzes geflochtenes Haar
+Zierliche Figur
+Dasselbe blaugrüne Leinen-Hanfu
+Dunkler Gürtel
+Hölzerne Haarnadel
+Schwarze Stoffschuhe
+Trägt ein dunkles Stahlschwert
+Weitere Charaktere
+Älterer Prüfer
+Leitet die Schwertprüfung des Ordens, verkündet die Ergebnisse und schlägt vor, die Qualifikationen zu ändern.
+Bestandene Schüler
+Mehrere Schüler stehen auf einer Seite und halten identische Qualifikationsdokumente mit rotem Siegel.
+Andere Charaktere erfüllen ausschließlich notwendige narrative Funktionen.
+IV. Umgebungs-DNA und Raumplanung
+Alle neu hochgeladenen Referenzbilder für Hintergründe/Schauplätze bestimmen die physische Welt.
+Szenen-Fixierung
+Erkennbare Merkmale aus den Referenzen beibehalten:
+Gelände
+Räumliche Beziehungen der Hauptarchitektur
+Räumlicher Maßstab
+Materialien
+Wetter
+Vegetation
+Beleuchtung
+Lufttiefe
+Einen einfachen antiken Prüfungsplatz des Ordens basierend auf dem bestehenden Raum natürlich platzieren.
+Die Welt darf nicht willkürlich zurückgesetzt werden.
+Prinzip des lebendigen Hintergrunds
+Die Umgebung bleibt lebendig:
+Eine leichte Brise weht natürlich
+Wolken verändern sich kontinuierlich
+Vegetation wiegt sich natürlich
+Figuren im Hintergrund zeigen subtile Aktivität
+Ärmel bewegen sich passend zu den Aktionen der Charaktere und zum natürlichen Wind
+Räumlicher Ambient-Sound bleibt bestehen
+Narrative Neutralität
+Der Hintergrund bleibt narrativ neutral.
+Er darf Folgendes nicht aktiv beeinflussen:
+Prüfungsergebnisse
+Verhalten des Prüfers
+Entscheidungen der Charaktere
+Handlungswendungen
+V. Vollständige Storyboard-Struktur für 15 Sekunden
+0–5s | Einstellung 1: Totale | Öffentliche Demütigung, Spannungsaufbau
+Kameraführung
+Langsamer Push-in von einer Halbtotale des Ortes der Schwertprüfung.
+Raum und Charakterbeziehungen
+Ein älterer Prüfer steht am Prüfungsplatz.
+Mehrere bestandene Schüler stehen auf einer Seite und halten Qualifikationsdokumente mit rotem Siegel.
+Die jüngere Schwester steht allein auf der anderen Seite.
+Die ältere Schwester steht diagonal hinter ihr.
+Aktion und Dialog
+Der Prüfer verkündet öffentlich:
+[Prüfer] „Von 150 Personen bist nur du durchgefallen.“
+Die umstehenden Schüler murmeln leise und unterdrücken ihr Lachen.
+Die jüngere Schwester verteidigt sich nicht und senkt langsam den Blick.
+Die ältere Schwester bleibt ruhig und tritt nicht sofort nach vorn.
+Visueller Kontrast
+Einen deutlichen Kontrast erzeugen durch:
+Die Qualifikationsdokumente mit rotem Siegel in den Händen der anderen Schüler
+Die leeren Hände der jüngeren Schwester
+Narratives Ziel von Einstellung 1
+Muss die Zuschauer ganz natürlich dazu bringen, sich zu fragen:
+Warum ist nur sie durchgefallen?
+5–10s | Einstellung 2: Amerikanisch | Vom Scheitern zur institutionellen Umkehrung
+Kontinuitätsanforderungen
+Folgende Kontinuität muss gewahrt bleiben:
+Charakteridentitäten
+Requisiten
+Räumliche Positionen
+Heimliche Handlungen des Prüfers
+Als er bemerkt, dass sich die Aufmerksamkeit verlagert, beugt sich der Prüfer leicht nach unten.
+Er holt ein ungestempeltes Qualifikationsdokument unter dem Tisch hervor und schiebt es leise in Richtung der jüngeren Schwester.
+Dialog
+Der Prüfer flüstert:
+[Prüfer] „Zehn Geiststeine, und ich regle das für dich.“
+Die jüngere Schwester blickt abrupt auf.
+Reaktion der jüngeren Schwester
+Sie wird nicht sofort wütend.
+Zuerst sieht sie sich die Dokumente mit rotem Siegel in den Händen der anderen an, dann fragt sie langsam:
+[Jüngere Schwester] „Haben sie auch betrogen?“
+Der Prüfer antwortet nicht.
+Er nickt nur sehr leicht, aber unmissverständlich.
+Kamera und Schauspiel
+Die Kamera bleibt auf dem Gesicht der jüngeren Schwester.
+Ihr wahrer Schock gilt nicht dem Durchfallen bei der Prüfung.
+Es ist die Erkenntnis, dass diese beneidenswerten Ergebnisse vielleicht gar nicht durch Können verdient wurden.
+Prinzip der Informationsumkehrung
+An diesem Punkt:
+Keine Rückblenden nötig
+Keine Erklärung des Betrugsablaufs nötig
+Dieselben Dokumente mit rotem Siegel, der Hinweis des Prüfers und dieses Nicken reichen völlig aus, um die Informationsumkehrung abzuschließen.
+10–15s | Einstellung 3: Nahaufnahme des Charakters | Aktive Entscheidung, emotionale Landung
+Schlüsselaktion 1: Ablehnung der Qualifikation
+Die Hand der jüngeren Schwester greift langsam nach dem Qualifikationsdokument auf dem Tisch.
+Kurz bevor ihre Fingerspitzen das Papier berühren, hält sie inne.
+Dann schiebt sie das Dokument sanft zurück zum Prüfer.
+Schauspielerische Einschränkungen
+Nicht erlaubt:
+Gegenstände werfen
+Mit dem Schwert drohen
+Vorwürfe herausschreien
+Kerndialog
+Sie sieht den Prüfer an und fragt nur:
+[Jüngere Schwester] „Wenn Dämonen kommen, wer regelt das dann für mich?“
+Der Prüfer erstarrt und ist zum ersten Mal sprachlos.
+Schlüsselaktion 2: Die ältere Schwester greift ein
+Die ältere Schwester tritt einen halben Schritt hinter der jüngeren Schwester hervor und stellt sich an ihre Seite.
+Die ältere Schwester tut NICHT Folgendes:
+Verkünden, dass sie in Wahrheit die Erste ist
+Einen bestandenen Rang für sie fordern
+Sie berührt lediglich mit der Fingerspitze leicht die Schwertscheide an der Taille der jüngeren Schwester.
+Und sagt ruhig:
+[Ältere Schwester] „Lass uns gehen, Schwerter üben.“
+Emotionaler Wandel der jüngeren Schwester
+Die jüngere Schwester blickt zu ihr auf.
+Ihr angespannter Gesichtsausdruck entspannt sich allmählich.
+Sie dreht sich um und verlässt gemeinsam mit der älteren Schwester den Prüfungsplatz.
+Schlussbild und emotionale Resonanz
+Die Kamera hält eine kurze finale emotionale Resonanz fest:
+Der Prüfer steht noch immer an seinem Platz
+Das käufliche Qualifikationsdokument auf dem Tisch bleibt liegen
+Narrativer Abschluss
+Sie hat die Prüfung nicht plötzlich bestanden und auch keine versteckte Belohnung erhalten.
+Sie ist immer noch diejenige, die bei der Schwertprüfung durchgefallen ist.
+Aber sie weiß endlich, was als Nächstes zu tun ist.
+VI. Ausführungsanforderungen für Seedance 2.0 Mini
+Grundlegende Spezifikationen
+Es muss ein 15-sekündiges Seedance 2.0 Mini Video generiert werden
+Strenge Gesamtdauer: 15 Sekunden
+Seitenverhältnis: 16:9 Querformat
+Drei fortlaufende, klare Einstellungen mit unterschiedlichen narrativen Funktionen
+Fokus der Modellgenerierung
+Folgende Stärken von Seedance 2.0 Mini betonen:
+Identitätskonsistenz der beiden Protagonistinnen
+Klare visuelle Hierarchie
+Wenige, aber präzise Aktionspunkte
+Stabile Kamerabewegung
+Realistische Mikroexpressionen der Charaktere
+Synchronisierter Dialog und räumliches Audio
+VII. Dialog und Lippensynchronisation
+Die Dialoge verwenden natürliches Mandarin.
+Alle Charaktere müssen beim Sprechen exakt lippensynchron sein.
+Anforderungen an die Sprecher
+Wenn der Prüfer spricht, bewegt nur der Prüfer die Lippen synchron
+Wenn die jüngere Schwester spricht, bewegt nur die jüngere Schwester die Lippen synchron
+Wenn die ältere Schwester spricht, bewegt nur die ältere Schwester die Lippen synchron
+In Momenten ohne Dialog sind Emotionen auszudrücken durch:
+Blickkontakt
+Pausen
+Handgesten
+Räumliche Blockbildung (Blocking)
+VIII. Kontinuität von Charakteren, Requisiten und Raum
+Folgende Konsistenz muss gewahrt bleiben:
+Charaktere
+Gesichtsform
+Frisur
+Kleidung
+Körperproportionen
+Waffen
+Das einzelne silberne Langschwert der älteren Schwester
+Das einzelne dunkle Stahlschwert der jüngeren Schwester
+Requisiten
+Qualifikationsdokument mit rotem Siegel
+Ungestempeltes Qualifikationsdokument
+Antiker Prüfungsplatz des Ordens
+Raum
+Position des Prüfers
+Positionen der anderen Schüler
+Relative Positionen der älteren und jüngeren Schwester
+Beziehungen zwischen Hauptgebäude und Gelände
+IX. Sound und filmische Qualität
+Sounddesign
+Folgende Synchronisation sicherstellen:
+Mandarin-Dialoge
+Geräusche von gleitendem Papier
+Stoffreibungsgeräusche
+Sanfte Schläge auf die Schwertscheide
+Natürliche räumliche Atmosphäre
+Schauspiel und Kameraführung
+Zurückhaltende Anzahl an Aktionen
+Mikroexpressionen hervorheben
+Stabile Kamerabewegung
+Klare visuelle Hierarchie
+Realistische Charakterbeziehungen und räumliches Blocking
+Anforderungen an den Hintergrund
+Der Hintergrund bleibt natürlich lebendig.
+Er hat jedoch keinen eigenständigen kausalen Zusammenhang mit dem Prüfungsbetrug oder den Entscheidungen der Charaktere.
+X. Strikte Verbote
+Keine Untertitel generieren
+Das Modell darf keinen lesbaren Text für Prüfungsergebnisse generieren
+Die Referenzumgebung darf nicht willkürlich zurückgesetzt werden
+Keine handlungsunabhängigen Aktionen
+Umgebungsereignisse dürfen nicht genutzt werden, um die Wendung des Prüfungsbetrugs voranzutreiben
+Charaktere, Waffen,
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115629215962083328/img/7RQmm82Z4u7eouLi.jpg" width="600" alt="Seedance 2.0 Mini Prompt für antikes Xianxia-Video">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13129)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2115629293430788360) | **Veröffentlicht:** Oct 29, 2026
+
+---
+### Marigold Harzboden Renovierungsvideo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines fotorealistischen Renovierungsvideos, das die Herstellung eines spiegelglatten Bodens mit eingebetteten orangefarbenen Ringelblumen in Harz zeigt.
+
+#### 📝 Prompt
+
+```
+Ein bärtiger Mann in Jeans-Latzhose und gelben Handschuhen verteilt mit einem Rechen einen riesigen Haufen orangefarbener Ringelblumen auf dem Betonboden eines leeren weißen Raums mit großem Fenster und Blick auf grüne Bäume. Er breitet die Blüten zu einer flachen, gleichmäßigen Schicht aus, die den gesamten Boden bedeckt. Eine blonde Frau in rotem Overall und schwarzen Gummistiefeln gießt dickflüssiges weißes Epoxidharz aus einem weißen Eimer über die Blumen und verteilt die Flüssigkeit anschließend mit dem Rechen nach außen, bis der gesamte Boden mit glänzendem Harz überzogen ist, in dem die Ringelblumen schweben. Ein Arbeiter in gelber Warnweste poliert den ausgehärteten Boden mit einer Einscheibenmaschine und erzeugt so eine spiegelglatte, transparente Oberfläche, unter der leuchtend orangefarbene Blüten eingebettet sind. Zwei Frauen in schwarzen Business-Anzügen tragen ein helles Holz-Bettgestell herein, legen eine Matratze darauf, beziehen das Bett mit cremefarbener Bettwäsche und Kissen, stellen einen kleinen Nachttisch mit Lampe daneben und verlassen den Raum wieder. Die letzte Einstellung zeigt das fertige Schlafzimmer: ein ordentlich gemachtes Bett auf einem atemberaubenden, spiegelglatten Boden, in dem Tausende konservierte orangefarbene Ringelblumen unter klarem Harz eingelassen sind, während sanftes Sonnenlicht durch das Fenster fällt. Befriedigendes Renovierungs-Video, fotorealistischer Stil, fließende kinematografische Kameraführung, warmes natürliches Licht.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115508821292396544/img/jYmX2uIXftEV4Ibi.jpg" width="600" alt="Marigold Harzboden Renovierungsvideo">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13126)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2115508874803400848) | **Veröffentlicht:** Oct 28, 2026
+
+---
+### Video zur Renovierung von Epoxidharzböden
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt für Seedance 2.0 zur Erstellung eines realistischen Videos über eine Heimrenovierung, das die Anwendung von Epoxidharzböden und Inneneinrichtung zeigt.
+
+#### 📝 Prompt
+
+```
+Statische Kamera, gerahmt durch eine Türöffnung, mit Blick in ein leeres Schlafzimmer mit weiß getäfelten Wänden, Stuckleiste und einem hellen Fenster. Ein Mann in schwarzem T-Shirt, schwarzer Kappe und Arbeitshandschuhen betritt den Raum und trägt einen roten Eimer. Er gießt glänzendes rotes Epoxidharz auf den grauen Betonboden und verteilt es gleichmäßig mit einem breiten Bodenschieber, bis der gesamte Boden tiefrot schimmert. Anschließend gießt er weiße Flüssigkeit aus einem weißen Eimer in mehrere runde Pfützen auf der roten Oberfläche; das weiße Pigment blüht auf und breitet sich organisch zu filigranen, blitzartigen Fraktalverästelungen aus, die sich über den ganzen Boden ziehen. Danach trägt er einen klaren Decklack auf und zieht ihn mit dem Schieber glatt, bevor er die Fläche mit einer Einscheiben-Poliermaschine auf Hochglanz poliert. Es folgt ein schneller Zeitraffer: Arbeiter tragen ein weiß gepolstertes Bett mit roten Kissen herein, dazu Nachttische, rot gemusterte Vorhänge, passende Wandbilder mit roten Baumzweigen und Tischlampen. Die letzte Einstellung verweilt auf dem fertigen Luxus-Schlafzimmer: leuchtend roter Boden mit weißen Fraktaladern, in dem sich das Fenster spiegelt, strahlend weiße Bettwäsche mit roten Akzenten, symmetrisches Dekor, weiches natürliches Tageslicht, realistische Home-Renovierung-Videoästhetik, flüssige Bewegungen, hoher Detailgrad.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115506523380092928/img/Zn2zgeM8PTRThRYx.jpg" width="600" alt="Video zur Renovierung von Epoxidharzböden">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13127)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2115506584159969679) | **Veröffentlicht:** Oct 28, 2026
+
+---
 ### Kirsch-Lippen-Serum-Werbung
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -591,6 +894,51 @@ Wieder Sera Nyx, und diesmal fliegt ihre Kreatur. Eine Schlucht, eine Schaukel a
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13049)**
 
 **Autor:** [灰度笔记](https://x.com/GrayNoteLab) | **Quelle:** [Link](https://x.com/GrayNoteLab/status/2114348037862719796) | **Veröffentlicht:** Oct 25, 2026
+
+---
+### Seedance 2.5 DV-Heimvideo-Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein hochdetaillierter Prompt zur Generierung eines realistischen Heim-DV-Videos aus den frühen 2000er Jahren, das eine junge ostasiatische Frau in einem Schlafzimmer an einem heißen Sommernachmittag zeigt. Enthält spezifische Anweisungen für Charakterkonsistenz, Aktionsablauf, Kamerastabilität und Audio-Umgebung.
+
+#### 📝 Prompt
+
+```
+Bild 1 ist das erste Frame des Videos; die Szene beginnt mit Bild 1, wobei Szenerie, Bildkomposition, Licht, Kleidung, Requisiten und deren Positionen vollständig auf Bild 1 basieren.
+Bild 2 dient als Charakterreferenz und wird ausschließlich genutzt, um Gesicht, Gesichtsproportionen, Gesichtsform und Haarfarbe der Person festzulegen. Der graue Hintergrund, die Kleidung oder die Drei-Ansichten-Darstellung aus Bild 2 dürfen nicht übernommen werden.
+
+Erstelle eine 30-sekündige, hyperrealistische Heimvideo-Aufnahme im DV-Stil der frühen 2000er Jahre, die eine junge ostasiatische Frau an einem schwülen Sommernachmittag im Schlafzimmer einer alten Wohnung zeigt. Rein beobachtende Perspektive, keine Dialoge, kein erzählerischer Spannungsbogen – nur der Rhythmus des Alltags.
+
+Charakter
+Das Aussehen entspricht Bild 2; Kleidung und Frisur entsprechen Bild 1: ungeschminkt, lockerer Dutt auf dem Kopf, hellblaues, weites T-Shirt, weiße Baumwollshorts, barfuß. Gesicht, Kleidung, Frisur und Körperform müssen durchgehend konsistent bleiben.
+
+Ablauf der Handlung (jede Aktion wird genau einmal ausgeführt, ohne Wiederholung)
+00:00–00:06 — Sie liegt halb zurückgelehnt an einem Kissen, fächelt sich langsam mit dem Fächer aus Bild 1 in ihrer rechten Hand Luft zu, starrt leer an die Decke und blinzelt gelegentlich.
+00:06–00:11 — Sie hört auf zu fächeln, legt den Fächer auf die Bambusmatte neben sich, drückt sich hoch, um sich aufs Bett zu setzen, und dreht sich zum Ventilator auf dem Nachttischhocker.
+00:11–00:16 — Sie nimmt die Limonadenflasche vom Hocker, trinkt einen Schluck durch den Strohhalm und stellt die Flasche wieder an ihren ursprünglichen Platz zurück.
+00:16–00:22 — Sie beugt sich nah an die Vorderseite des Ventilators, öffnet den Mund und zieht ein langes „Ah—" in Richtung der Rotorblätter; der Ton vibriert durch die drehenden Flügel, einzelne Haarsträhnen wehen im Luftzug. Ein sicherer Abstand zwischen Gesicht und Rotorblättern muss gewahrt bleiben, der Ventilator darf nicht berührt werden.
+00:22–00:26 — Sie lacht über sich selbst, blickt kurz mit einem schüchternen Lächeln zur Kamera, sagt aber nichts.
+00:26–00:30 — Sie lässt sich rückwärts aufs Kissen fallen, bedeckt ihr Gesicht mit dem Fächer und bleibt reglos liegen. Der Ventilator dreht sich weiter, dann Schnitt ins Schwarze.
+
+Konsistenz
+Die Positionen von Fächer, Limonadenflasche, Ventilator und Hocker bleiben unverändert; es tauchen keine Gegenstände spontan auf oder verschwinden. Im Bild befinden sich immer nur ein Ventilator und eine Limonadenflasche; der Stil des Fächers ist identisch mit Bild 1. Die Ausrichtung des Ventilators ist fixiert, er schwenkt nicht; die Form der Rotorblätter bleibt stabil. Die Licht- und Schattenstreifen der Bambusjalousie sind konstant. Die Handlungen laufen in Echtzeit ab, ohne Hektik.
+
+Kameraführung & Qualität
+Fester Kamerawinkel entsprechend Bild 1; während der gesamten Aufnahme keine Bewegung, kein Zoom und kein Schwenk. Als Lichtquelle dient ausschließlich das natürliche Nachmittagslicht durch die Bambusjalousien, leicht überbelichtet. Typisches DV-Rauschen, leichte Farbverschiebungen, Vignettierung, gelegentliches Pumpen des Autofokus. Der orangefarbene Datumsstempel „2003 08 02" in der unteren rechten Ecke bleibt durchgehend an derselben Stelle.
+
+Audio
+Umgebungsgeräusche dominieren: das Summen des Ventilators, das leise Rascheln beim Fächeln, Zikaden vor dem Fenster, eine entfernte Fahrradklingel, das Knarren der Bambusmatte unter dem Gewicht, das Geräusch beim Trinken durch den Strohhalm. Die einzigen menschlichen Laute sind das vibrierende „Ah—" in Richtung des Ventilators und ein leises Lachen. Keine Hintergrundmusik.
+
+Nicht erlaubt
+Keine Untertitel, kein Soundtrack, keine Zeitlupe, kein filmisches Color Grading, keine Kamerabewegungen, keine geringe Schärfentiefe, kein grauer Studiohintergrund, keine Texte oder Markenlogos (mit Ausnahme des Datumsstempels). 30 s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114326843423858688/img/d8LQ-l3HkxbHuPZH.jpg" width="600" alt="Seedance 2.5 DV-Heimvideo-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13128)**
+
+**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Quelle:** [Link](https://x.com/Adam38363368936/status/2114328135420293145) | **Veröffentlicht:** Oct 25, 2026
 
 ---
 ### Seedance 2.0 Comedy-Szene im antiken Schlafzimmer
@@ -3780,87 +4128,6 @@ Keine Erzählung, keine Hintergrundmusik.
 **Autor:** [探路AI](https://x.com/TanLuAI) | **Quelle:** [Link](https://x.com/TanLuAI/status/2106955448352231762) | **Veröffentlicht:** Oct 5, 2026
 
 ---
-### Cinematic Tiger Warrior Action Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Video-Generierung für eine actionreiche cineastische Sequenz mit einem anthropomorphen Tiger-Krieger, der in einer zerstörten Stadt mit Spezialeffekten kämpft.
-
-#### 📝 Prompt
-
-```
-Erstelle eine cineastische 14,6-sekündige Action-Szene mit einem kraftvollen anthropomorphen orangefarbenen Tiger-Krieger in einer zerstörten Stadt, umgeben von Rauch, Feuer und einstürzenden Gebäuden. Der Tiger stellt sich im ersten Shot aggressiv einem Gegner gegenüber, springt dann plötzlich mit dynamischen Kampfsportbewegungen hoch in die Luft, während die Kamera den Sprung dramatisch verfolgt. Schnitt auf ein intensives Close-up des realistischen Gesichts des Tigers, fokussiert auf scharfe Augen, detailliertes orangefarbenes Fell, Schnurrhaare und einen wilden Ausdruck. Zeige den Tiger, wie er den Kampf gegen einen menschenähnlichen Gegner mit schnellen Schlägen und Tritten fortsetzt, wobei das konsistente Aussehen und die Anatomie des Charakters beibehalten werden. Ein starker blauer Energie-Impact erscheint während des Angriffs, gefolgt von einer riesigen feurigen Explosion in der Ruinenstadt. Zeige Flammen, fliegende Trümmer, dicken Rauch, Funken und realistische Zerstörung, die sich über die Umgebung ausbreitet. Der Tiger landet selbstbewusst im Vordergrund, während die brennenden Ruinen dahinter leuchten und eine dramatische heroische Silhouette erzeugen. Verwende durchgehend sanfte cineastische Kamerabewegungen, realistische Physik, dramatische Beleuchtung, detaillierte Texturen, starke Action-Choreografie und hochwertige 3D-Animation, ohne Text, Wasserzeichen oder Verzerrungen der Charaktere.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106938524784328704/img/pXh4xaDoupeUx4Bw.jpg" width="600" alt="Cinematic Tiger Warrior Action Scene">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11914)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2106938584431526162) | **Veröffentlicht:** Oct 5, 2026
-
----
-### Tusche-Stil Wuxia Video-Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein detaillierter Prompt für die Videogenerierung mit Seedance 2.0, der eine 15-sekündige Wuxia-Szene im Tusche-Stil mit spezifischen Kamerabewegungen, Partikeleffekten und dynamischer Bewegungsunschärfe erstellt.
-
-#### 📝 Prompt
-
-```
-[0–3s] Kamera: Schneller Push-in von einer Nahaufnahme des Klingen-Glanzes, während sich die Kamera mit 180°/s im Uhrzeigersinn dreht und in die Silhouette eines Bambushuts (Douli) schneidet. Visuals: Nahaufnahme des Tusche-Klingenglitzerns, nach außen explodierende Partikel-Funken; die Douli-Silhouette taucht aus wallenden Tuschewolken auf. Effekte: Bewegungsunschärfe, Tuschepinsel-Spuren, Partikeleffekte.
-[3–6s] Kamera: Hochgeschwindigkeits-360°-Orbit um den Charakter zentriert (270°/s), folgt der Trajektorie des Schwunges. Visuals: Mittlere Einstellung des Charakters beim Schwingen der Klinge, wehende Roben, Tuschepinselstriche fließen mit der Bewegung. Effekte: Dynamischer Tuscherauch, Bewegungsunschärfe auf den Roben, visueller Drag durch die Rotation.
-[6–9s] Kamera: Hochgeschwindigkeits-Seitliches Tracking-Shot (links → rechts), während die Kamera neigt und gegen den Uhrzeigersinn mit 90°/s rotiert, fixiert auf den Pfad der Klinge. Visuals: Die Trajektorienlinie der Klinge, nach außen explodierende Partikel-Funken, Tuschepinsel-Spuren. Effekte: Bewegungsunschärfe, Partikeleffekte, Tuschengeister-Spuren.
-[9–12s] Kamera: Low-Angle-Aufwärtsaufnahme mit schnellem Crane-Up, während die Kamera mit 225°/s spiraliert, steigt von den Tuscheflecken am Boden zum Oberkörper des Charakters. Visuals: Tuscheflecken am Boden, der Charakter mitten im Schwung (Oberkörper), rollende Tuschewolken im Hintergrund. Effekte: Dynamische Tuschewolken, Bewegungsunschärfe während des Aufstiegs, tintfarbener Wirbel erzeugt durch die Rotation.
-[12–15s] Kamera: Zeitlupen-Nahaufnahme, mit langsamer Drehung der Kamera im Uhrzeigersinn mit 15°/s, während das Klingenlicht an Ort und Stelle einfriert. Visuals: Nahaufnahme des Klingenlichts, scharfe und klare Partikeleffekte, der Blick des Charakters unter dem Schatten des Douli (optional). Effekte: Zeitlupe, sich auflösende Partikel, subtile Kamerawackeln.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106931329535459328/img/XKp-5If8NQ95ETQI.jpg" width="600" alt="Tusche-Stil Wuxia Video-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11986)**
-
-**Autor:** [Zidan 子丹](https://x.com/liluocheng13) | **Quelle:** [Link](https://x.com/liluocheng13/status/2106931613427028260) | **Veröffentlicht:** Oct 5, 2026
-
----
-### Epischer Kinotrailer-Stil Video
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein Prompt zur Generierung eines epischen Videos im Stil eines Kinotrailers unter Verwendung eines Referenzbildes, der hyperdetaillierte Rendering-Techniken, Unreal Engine 5 Ästhetik und spezifische Negativ-Kriterien zur Qualitätskontrolle betont.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie Referenzbild 1, um ein episches Kino-Video zu erstellen.
-: Epische Kinotrailer-Ästhetik, Realfilm-Stil, IMAX, 16K, hyperdetailliertes Rendering, vollformatige dynamische Partikeleffekte, Unreal Engine 5, Raytracing, explosive Details. Stil-Anforderungen: Ästhetische Schönheit, pathologische Schönheit, grandiose Wucht, dekadente Schönheit, fragmentierte Schönheit, tragische Erhabenheit mit Melancholie. [Einschränkungen & Negativ-Prompts] Niedrige Sättigung, kühles Grau + Bernstein-Akzent, physikalisch basierte flüssige Bewegung. Negativ: Geringe Qualität, Ruckeln, Gesichts-/Körperverzerrung, überbelichtet, übermäßiges Blut, steife Bewegung, Wasserzeichen, T-Pose, helle Farbpalette, grelle VFX, starre Kamera, fehlende Geschwindigkeit/Unscharfzeichnung, schwache Kill-Szenen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106923772372738048/img/p-_o3Q13K4Hbb2lw.jpg" width="600" alt="Epischer Kinotrailer-Stil Video">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11915)**
-
-**Autor:** [Zidan 子丹](https://x.com/liluocheng13) | **Quelle:** [Link](https://x.com/liluocheng13/status/2106923884931166241) | **Veröffentlicht:** Oct 5, 2026
-
----
-### Urbanes Skateboarding in Hochgeschwindigkeit
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein einfacher 'fauler' Prompt zur Generierung eines hochdynamischen Skateboard-Videos durch eine belebte Stadtstraße mit realistischer Bewegungsunschärfe und Handkamera-Gefühl.
-
-#### 📝 Prompt
-
-```
-Ein Mädchen, das mit hoher Geschwindigkeit durch eine belebte Stadtstraße skatet, Menschen ausweicht, über kleine Hindernisse springt, an Autos und Fahrrädern vorbeifährt, schnelle Schnitte, Bewegungsunschärfe, Handkamera-Feeling, energetische Atmosphäre, realistische Umgebung, hohe Detailtreue.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106921938576883712/img/9S6CRhiy0KGRQiZh.jpg" width="600" alt="Urbanes Skateboarding in Hochgeschwindigkeit">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11917)**
-
-**Autor:** [Zidan 子丹](https://x.com/liluocheng13) | **Quelle:** [Link](https://x.com/liluocheng13/status/2106922065240731732) | **Veröffentlicht:** Oct 5, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -3922,6 +4189,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-29T04:48:39.869Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-29T15:13:33.049Z</sub>
 
 </div>

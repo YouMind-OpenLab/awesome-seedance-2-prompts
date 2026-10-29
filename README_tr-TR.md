@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6599** |
+| 📝 Toplam İstem | **6603** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-10-29** |
 
@@ -361,6 +361,309 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Seedance 2.0 Mini Antik Xianxia Video İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 Mini kullanarak, karakter tutarlılığı ve anlatı yapısına sahip, antik Çin Xianxia tarzında 15 saniyelik sinematik bir video oluşturmak için detaylı istem.
+
+#### 📝 İstem
+
+```
+Seedance 2.0 Mini | Antik Xianxia "Başarısız Olan Tek Kişi"
+
+Model: Seedance 2.0 Mini
+Süre: Kesinlikle 15 saniye
+En Boy Oranı: 16:9 Yatay
+Yapı: Farklı anlatı işlevlerine sahip, birbirine bağlı üç net çekim
+I. Prompt | Genel Tarz ve Yaratıcı Yön
+Sinematik gerçekçi doku, saf antik Çin Xianxia estetiği.
+Temel unsurlar:
+Psikolojik gerilim
+Ölçülü toplumsal hiciv
+Kusursuz mikro oyunculuk
+Üst düzey dövüş sanatları sahne koreografisi
+Şunlar kullanılmalı:
+Doğal hacimsel aydınlatma
+Gerçekçi cilt dokusu
+İnce ipek hareketleri
+Sinematik alan derinliği
+Yaratıcı Arka Plan
+Gerçek dünyadaki sınav sonuçlarıyla oynanması skandallarından ilham alınmıştır; ancak olay örgüsü tamamen kurgusal bir antik tarikat kılıç sınavı olarak yeniden inşa edilmiştir.
+II. Temel Olay Örgüsü ve Sürpriz Dönüm Noktası
+Herkes başarısız olan küçük kız kardeşin (junior sister) yeteneksiz olduğunu düşünür, oysa asıl sorun sınavın kendisindedir.
+Diğerleri sahte belgeler satın alarak geçerken, o kendi gerçek seviyesiyle yüzleşmeyi seçer.
+Üç Katmanlı Anlatı İlerleyişi
+Katman 1: Herkesin Önünde Aşağılanma
+Kılıç sınavına 150 mürit katılır; yalnızca küçük kız kardeş başarısız olur.
+Katman 2: Kurumsal Ters Köşe
+Sınav görevlisi, ruh taşları karşılığında sonuçları değiştirmeyi teklif ederek diğerlerinin de belgeleriyle oynandığına ima eder.
+Katman 3: Bilinçli Tercih
+Küçük kız kardeş belge satın almayı reddeder, sahte sertifikaları elinin tersiyle iterek kılıç çalışmaya devam etmeyi seçer.
+Temel Duygular
+İlk yarı: Aşağılanma, şaşkınlık, baskılanmışlık
+Orta bölüm: Şok, algısal kırılma
+İkinci yarı: Berraklık, ölçülülük, yeniden kararlılık
+III. Karakter ve Varlık Kilidi
+@Image1 | Kılıç Ölümsüzü Büyük Kız Kardeş (Senior Sister)
+Aynı Büyük Kız Kardeş:
+25-30 yaşlarında Doğu Asyalı kadın
+Solgun oval yüz
+Koyu badem gözler
+Beyaz yeşim tokalı, yarısı toplanmış uzun siyah saçlar
+Uzun ve ince yapılı
+Aynı beyaz işlemeli ipek Hanfu
+Yarı saydam katmanlı geniş kollar
+Gümüş kuşak
+Yeşim kolye ucu
+Beyaz bez çizmeler
+Bir adet gümüş uzun kılıç taşıyor
+@Image2 | Küçük Kız Kardeş
+Aynı Küçük Kız Kardeş:
+20-25 yaşlarında Doğu Asyalı kadın
+Yuvarlak, canlı yüz hatları
+Örülmüş siyah saçlar
+Minyon yapılı
+Aynı mavi-yeşil keten Hanfu
+Koyu renkli kuşak
+Ahşap saç tokası
+Siyah bez ayakkabılar
+Bir adet koyu çelik kılıç taşıyor
+Diğer Karakterler
+Yaşlı Sınav Görevlisi
+Tarikatın kılıç sınavını yönetir, sonuçları açıklar ve belgeleri değiştirme teklifinde bulunur.
+Başarılı Müritler
+Birkaç mürit, ellerinde aynı kırmızı mühürlü yeterlilik belgeleriyle bir kenarda durmaktadır.
+Diğer karakterler yalnızca hikâyenin gerektirdiği temel işlevleri yerine getirir.
+IV. Çevre DNA'sı ve Mekânsal Planlama
+Yeni yüklenen tüm arka plan/konum referans görselleri fiziksel dünyayı belirler.
+Sahne Kilidi
+Referanslardaki tanınabilir özellikler korunmalıdır:
+Arazi
+Ana mimari mekânsal ilişkiler
+Mekânsal ölçek
+Malzemeler
+Hava durumu
+Bitki örtüsü
+Aydınlatma
+Hava derinliği
+Mevcut mekâna uygun şekilde sade bir antik tarikat değerlendirme masası yerleştirilmelidir.
+Dünya keyfi olarak baştan yaratılmamalıdır.
+Canlı Arka Plan İlkesi
+Çevre her zaman canlı kalmalıdır:
+Esinti doğal akmalı
+Bulutlar sürekli şekil değiştirmeli
+Bitki örtüsü doğal biçimde sallanmalı
+Uzaktaki figürler hafif bir hareketlilik sergilemeli
+Kollar, karakterlerin hareketleriyle ve doğal rüzgârla uyumlu dalgalanmalı
+Mekânsal ortam sesi kesintisiz sürmeli
+Anlatısal Tarafsızlık
+Arka plan anlatı açısından tarafsız kalmalıdır.
+Şunları aktif olarak etkilememelidir:
+Sınav sonuçları
+Sınav görevlisinin davranışları
+Karakterlerin tercihleri
+Olay örgüsündeki dönüm noktaları
+V. 15 Saniyelik Eksiksiz Storyboard Yapısı
+0-5s | Çekim 1: Geniş Açı | Herkesin Önünde Aşağılanma, Gerilimi Kurma
+Kamera Tasarımı
+Kılıç sınavı alanının orta-geniş açılı çekiminden yavaşça içeri doğru yaklaşma (push-in).
+Mekân ve Karakter İlişkileri
+Yaşlı bir sınav görevlisi değerlendirme masasının yanında durmaktadır.
+Birkaç başarılı mürit, ellerinde kırmızı mühürlü yeterlilik belgeleriyle bir kenarda beklemektedir.
+Küçük kız kardeş karşı tarafta tek başına durmaktadır.
+Büyük kız kardeş onun çapraz arkasında yer almaktadır.
+Eylem ve Diyalog
+Sınav görevlisi herkesin duyacağı şekilde açıklar:
+[Sınav Görevlisi] "150 kişi arasından sadece sen kaldın."
+Çevredeki müritlerden hafif fısıltılar ve bastırılmış gülüşmeler yükselir.
+Küçük kız kardeş kendini savunmaz, yavaşça gözlerini yere eğer.
+Büyük kız kardeş sakinliğini korur, hemen öne çıkmaz.
+Görsel Kontrast
+Şunlar aracılığıyla belirgin bir zıtlık oluşturulmalıdır:
+Diğer müritlerin elindeki kırmızı mühürlü yeterlilik belgeleri
+Küçük kız kardeşin boş elleri
+Çekim 1 Anlatı Hedefi
+İzleyicinin doğal olarak şu soruyu sormasını sağlamalıdır:
+Neden sadece o başarısız oldu?
+5-10s | Çekim 2: Orta Yakın Çekim | Başarısızlıktan Kurumsal Ters Köşeye
+Devamlılık Gereksinimleri
+Şunların sürekliliği korunmalıdır:
+Karakter kimlikleri
+Objeler
+Mekânsal konumlar
+Sınav görevlisinin gizli hamleleri
+İlgilerin üzerine kaydığını fark eden sınav görevlisi hafifçe eğilir.
+Masanın altından mühürsüz bir yeterlilik belgesi çıkarıp sessizce küçük kız kardeşe doğru iter.
+Diyalog
+Sınav görevlisi fısıldar:
+[Sınav Görevlisi] "On ruh taşı ver, hallederim."
+Küçük kız kardeş aniden başını kaldırır.
+Küçük Kız Kardeşin Tepkisi
+Hemen öfkelenmez.
+Önce diğerlerinin elindeki kırmızı mühürlü belgelere bakar, ardından yavaşça sorar:
+[Küçük Kız Kardeş] "Onlar da mı hile yaptı?"
+Sınav görevlisi cevap vermez.
+Yalnızca çok hafif ama kesin bir baş sallama hareketi yapar.
+Kamera ve Oyunculuk
+Kamera küçük kız kardeşin yüzüne sabitlenir.
+Asıl şoku sınavda başarısız olması değildir.
+Gıptayla bakılan o başarıların gerçekten beceriyle kazanılmadığını fark etmesidir.
+Bilgi Ters Köşe İlkesi
+Bu noktada:
+Geriye dönüşlere (flashback) gerek yoktur
+Hile sürecinin açıklanmasına gerek yoktur
+Aynı kırmızı mühürlü belgeler, görevlinin iması ve o baş sallama, bilgi ters köşesini tamamlamak için yeterlidir.
+10-15s | Çekim 3: Karakter Yakın Çekimi | Bilinçli Tercih, Duygusal Final
+Temel Eylem 1: Belgeyi Reddetmek
+Küçük kız kardeşin eli yavaşça masadaki yeterlilik belgesine uzanır.
+Parmak uçları kâğıda değecekken duraksar.
+Sonra belgeyi nazikçe sınav görevlisine doğru geri iter.
+Oyunculuk Sınırlamaları
+Şunlar yapılmamalıdır:
+Eşya fırlatmak
+Kılıç çekip tehdit etmek
+Bağırarak suçlamak
+Temel Diyalog
+Sınav görevlisine bakarak yalnızca şunu sorar:
+[Küçük Kız Kardeş] "Şeytanlar geldiğinde, benim için kim halledecek?"
+Sınav görevlisi donup kalır, hayatında ilk kez söyleyecek söz bulamaz.
+Temel Eylem 2: Büyük Kız Kardeş Devreye Girer
+Büyük kız kardeş, küçük kız kardeşin arkasından yarım adım öne çıkarak yanına gelir.
+Büyük kız kardeş şunları YAPMAZ:
+Aslında birincinin kendisi olduğunu ilan etmek
+Onun için geçer not talep etmek
+Yalnızca parmak ucuyla küçük kız kardeşin belindeki kılıfına hafifçe dokunur.
+Sakin bir sesle der ki:
+[Büyük Kız Kardeş] "Hadi gidelim, kılıç çalışalım."
+Küçük Kız Kardeşin Duygusal Değişimi
+Küçük kız kardeş ona bakar.
+Gergin ifadesi yavaş yavaş yumuşar.
+Dönüp büyük kız kardeşle birlikte değerlendirme masasından uzaklaşır.
+Final Görüntüsü ve Duygusal Yankı
+Kamera kısa bir final duygusal yankısı bırakır:
+Sınav görevlisi hâlâ olduğu yerde dikilmektedir
+Masadaki satın alınabilir yeterlilik belgesi sahipsiz kalmıştır
+Son Anlatı Vurgusu
+Birdenbire sınavı geçmedi ya da gizli bir ödül almadı.
+Hâlâ kılıç sınavında başarısız olan kişidir.
+Ama artık bundan sonra ne yapması gerektiğini biliyor.
+VI. Seedance 2.0 Mini Uygulama Gereksinimleri
+Temel Özellikler
+Mutlaka 15 saniyelik bir Seedance 2.0 Mini videosu üretilmelidir
+Kesin toplam süre: 15 saniye
+En boy oranı: 16:9 yatay
+Farklı anlatı işlevlerine sahip, birbirine bağlı üç net çekim
+Model Üretim Odak Noktaları
+Seedance 2.0 Mini'nin şu özellikleri vurgulanmalıdır:
+İki ana karakterin kimlik tutarlılığı
+Net görsel hiyerarşi
+Az ama kusursuz eylem düğümleri
+Stabil kamera hareketi
+Gerçekçi karakter mikro ifadeleri
+Senkronize diyalog ve mekânsal ses
+VII. Diyalog ve Dudak Senkronizasyonu
+Diyaloglarda doğal Mandarin kullanılır.
+Tüm karakterler konuşurken dudak hareketleri kusursuz eşleşmelidir.
+Konuşmacı Gereksinimleri
+Sınav görevlisi konuştuğunda yalnızca onun dudakları senkronize olmalıdır
+Küçük kız kardeş konuştuğunda yalnızca onun dudakları senkronize olmalıdır
+Büyük kız kardeş konuştuğunda yalnızca onun dudakları senkronize olmalıdır
+Diyalog olmayan anlarda duygu şu yollarla aktarılmalıdır:
+Göz teması
+Duraksamalar
+El hareketleri
+Mekânsal yerleşim (blocking)
+VIII. Karakter, Obje ve Mekân Sürekliliği
+Şunların tutarlılığı korunmalıdır:
+Karakterler
+Yüz şekli
+Saç modeli
+Kıyafetler
+Vücut oranları
+Silahlar
+Büyük kız kardeşin tek gümüş uzun kılıcı
+Küçük kız kardeşin tek koyu çelik kılıcı
+Objeler
+Kırmızı mühürlü yeterlilik belgesi
+Mühürsüz yeterlilik belgesi
+Antik tarikat değerlendirme masası
+Mekân
+Sınav görevlisinin konumu
+Diğer müritlerin konumları
+Büyük ve küçük kız kardeşin birbirine göre konumları
+Ana bina ve arazi ilişkileri
+IX. Ses ve Sinematik Kalite
+Ses Tasarımı
+Şunların senkronizasyonu sağlanmalıdır:
+Mandarin diyaloglar
+Kâğıt kayma sesleri
+Kumaş sürtünme sesleri
+Hafif kılıf vuruşları
+Doğal mekânsal ambiyans
+Oyunculuk ve Görüntü Yönetimi
+Kısıtlı sayıda eylem
+Mikro ifadelerin ön plana çıkarılması
+Stabil kamera hareketi
+Net görsel hiyerarşi
+Gerçekçi karakter ilişkileri ve mekânsal yerleşim
+Arka Plan Gereksinimleri
+Arka plan doğal bir şekilde canlı kalmalıdır.
+Ancak sınav hilesi veya karakter tercihleriyle doğrudan bir nedensellik bağı kurmamalıdır.
+X. Kesin Yasaklar
+Altyazı üretilmemelidir
+Modelden okunabilir sınav sonucu metni üretmesi istenmemelidir
+Referans çevre keyfi olarak baştan yaratılmamalıdır
+Olay örgüsüyle ilgisi olmayan eylemler yapılmamalıdır
+Sınav hilesi dönüm noktasını tetiklemek için çevresel olaylar kullanılmamalıdır
+Karakterler, silahlar değiştirilmemelidir,
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115629215962083328/img/7RQmm82Z4u7eouLi.jpg" width="600" alt="Seedance 2.0 Mini Antik Xianxia Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13129)**
+
+**Yazar:** [Soran](https://x.com/Soranlan) | **Kaynak:** [Link](https://x.com/Soranlan/status/2115629293430788360) | **Yayınlandı:** Oct 29, 2026
+
+---
+### Kadife Çiçeği Reçine Zemin Yenileme Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Reçine içinde gömülü turuncu kadife çiçekleriyle ayna parlaklığında bir zemin oluşturulmasını gösteren fotogerçekçi bir yenileme videosu üretmek için istem.
+
+#### 📝 İstem
+
+```
+Kot tulum giymiş, sarı eldivenli sakallı bir adam; yeşil ağaçlara bakan büyük bir penceresi olan boş, beyaz bir odanın beton zemininde devasa bir turuncu kadife çiçeği yığınını tırmıkla yayarak, tüm zemini kaplayan düz ve eşit bir çiçek tabakası oluşturuyor. Kırmızı tulum ve siyah lastik çizmeler giymiş sarışın bir kadın, beyaz bir kovadan çiçeklerin üzerine yoğun kıvamlı beyaz epoksi reçine döküyor, ardından sıvıyı dışa doğru tırmıkla yayarak tüm zeminin içinde kadife çiçekleri asılı duran parlak reçineyle kaplanmasını sağlıyor. Sarı fosforlu yelek giymiş bir işçi, kuruyan zemini döner cilalama makinesiyle parlatarak altında canlı turuncu çiçeklerin gömülü olduğu ayna gibi pürüzsüz, şeffaf bir yüzey elde ediyor. Siyah takım elbise giymiş iki kadın, açık renkli ahşap bir karyola iskeletini içeri taşıyıp üzerine bir yatak yerleştiriyor; krem rengi nevresim takımı ve yastıklarla yatağı hazırladıktan sonra lambalı küçük bir komodin ekleyerek odadan çıkıyor. Son sahnede bitmiş yatak odası gözler önüne seriliyor: Şeffaf reçinenin altında koruma altına alınmış binlerce turuncu kadife çiçeğiyle dolu, göz alıcı ayna parlaklığındaki bir zemin üzerinde özenle yapılmış bir yatak ve pencereden süzülen yumuşak güneş ışığı. Tatmin edici tadilat süreci videosu, fotogerçekçi tarz, akıcı sinematik kamera hareketi, sıcak doğal aydınlatma.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115508821292396544/img/jYmX2uIXftEV4Ibi.jpg" width="600" alt="Kadife Çiçeği Reçine Zemin Yenileme Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13126)**
+
+**Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2115508874803400848) | **Yayınlandı:** Oct 28, 2026
+
+---
+### Epoksi Zemin Yenileme Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Epoksi zemin uygulaması ve iç tasarım özellikli gerçekçi bir ev yenileme videosu oluşturmak için Seedance 2.0'a yönelik ayrıntılı istem.
+
+#### 📝 İstem
+
+```
+Sabit kamera, kapı aralığından beyaz lambri duvarları, kartonpiyeri ve aydınlık bir penceresi olan boş bir yatak odasına bakacak şekilde çerçevelenmiştir. Siyah tişörtlü, siyah şapkalı ve iş eldivenli bir adam elinde kırmızı bir kovayla içeri girer, gri beton zemine parlak kırmızı epoksi döker ve geniş bir zemin çekçekleriyle tüm zemin koyu kırmızı bir şekilde parlayana dek eşit biçimde yayar. Ardından beyaz bir kovadan kırmızı yüzeyin üzerine birkaç yuvarlak gölcük oluşturacak şekilde beyaz sıvı döker; beyaz pigment açılarak organik biçimde yayılır ve tüm zemini saran, yıldırım şeklindeki karmaşık fraktal dallara dönüşür. Sonrasında şeffaf bir son kat döker ve çekçeçle pürüzsüzce çeker, ardından yüzeyi döner başlıklı zemin cilalama makinesiyle ayna gibi parlak olana kadar parlatır. Hızlı bir time-lapse sahnesi gelir: İşçiler kırmızı yastıklı beyaz döşemeli bir yatak, komodinler, kırmızı desenli perdeler, uyumlu kırmızı ağaç dalı motifli tablo ve masa lambaları taşır. Son kare, tamamlanmış lüks yatak odasında sabitlenir: Pencereyi yansıtan, beyaz fraktal damarlı göz alıcı kırmızı zemin, kırmızı detaylarla süslenmiş bembeyaz nevresim takımı, simetrik dekorasyon, yumuşak doğal gün ışığı, gerçekçi ev tadilat videosu tarzı, akıcı hareket, yüksek detay.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115506523380092928/img/Zn2zgeM8PTRThRYx.jpg" width="600" alt="Epoksi Zemin Yenileme Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13127)**
+
+**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2115506584159969679) | **Yayınlandı:** Oct 28, 2026
+
+---
 ### Kiraz Dudak Serumu Reklamı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -591,6 +894,51 @@ Doğu antik kostümlü, fotogerçekçi sinema kalitesi; gece yarısı görkemli 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13049)**
 
 **Yazar:** [灰度笔记](https://x.com/GrayNoteLab) | **Kaynak:** [Link](https://x.com/GrayNoteLab/status/2114348037862719796) | **Yayınlandı:** Oct 25, 2026
+
+---
+### Seedance 2.5 DV Ev Videosu İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Sıcak bir yaz öğleden sonra yatak odasında genç bir Doğu Asyalı kadını gösteren, gerçekçi bir erken 2000'ler DV ev videosu oluşturmak için son derece detaylı bir istem. Karakter tutarlılığı, eylem zaman çizelgesi, kamera stabilitesi ve ses ortamı için özel talimatlar içerir.
+
+#### 📝 İstem
+
+```
+Görsel 1, videonun ilk karesidir; sahne Görsel 1'den başlar. Sahne tasarımı, kompozisyon, ışıklandırma, kıyafetler, aksesuarlar ve bunların konumları tamamen Görsel 1'e dayanır.
+Görsel 2 karakter referansıdır; yalnızca kişinin yüzünü, yüz oranlarını, yüz şeklini ve saç rengini sabitlemek için kullanılır. Görsel 2'deki gri arka planı, kıyafeti veya üç farklı açıdan gösterim düzenini kullanmayın.
+
+2000'lerin başına ait, hiper gerçekçi bir ev tipi DV kaydı hissi veren 30 saniyelik bir video oluşturun. Videoda genç bir Doğu Asyalı kadın, eski bir apartman dairesinin yatak odasında bunaltıcı bir yaz öğleden sonrasını geçirmektedir. Tamamen gözlemci bir bakış açısı; diyalog yok, hikâye örgüsü yok, sadece günlük hayatın doğal akışı var.
+
+Karakter
+Yüz hatları Görsel 2 ile eşleşir; kıyafet ve saç modeli Görsel 1 ile aynıdır: makyajsız, tepede gevşek bir topuz, açık mavi bol tişört, beyaz pamuklu şort, çıplak ayak. Yüz, kıyafet, saç modeli ve vücut yapısı video boyunca tutarlı kalmalıdır.
+
+Hareket Zaman Çizelgesi (her hareket yalnızca bir kez yapılır, tekrar edilmez)
+00:00–00:06 — Yastığa yarım yaslanmış şekilde uzanır, sağ elindeki Görsel 1'de yer alan yelpazeyle kendini yavaşça serinletir, boş gözlerle tavana bakar ve ara sıra göz kırpar.
+00:06–00:11 — Yelpazeyi bırakır, onu yanındaki bambu hasırın üzerine koyar, ellerinden destek alarak yatakta oturur pozisyona geçer ve taburenin üzerindeki vantilatöre doğru döner.
+00:11–00:16 — Tabureden gazoz şişesini alır, pipetle bir yudum içer ve şişeyi tekrar eski yerine koyar.
+00:16–00:22 — Vantilatörün önüne doğru eğilir, ağzını açar ve pervanelere doğru uzun bir "Ahh—" sesi çıkarır; ses dönen kanatlarda titrerken rüzgâr dağınık saç tellerini savurur. Yüz ile kanatlar arasında güvenli bir mesafe bırakılmalı, vantilatöre kesinlikle dokunulmamalıdır.
+00:22–00:26 — Kendi haline güler, utangaç bir gülümsemeyle kısa bir an kameraya bakar, hiçbir şey söylemez.
+00:26–00:30 — Geriye doğru yastığın üzerine düşer, yüzünü yelpazeyle kapatır ve hareketsiz kalır. Vantilatör dönmeye devam eder, ardından görüntü kararır.
+
+Tutarlılık
+Vantilatör, gazoz şişesi ve taburenin konumları sabit kalır; hiçbir nesne kendiliğinden belirip kaybolmaz. Kadrajda yalnızca bir yelpaze ve bir gazoz şişesi bulunur; yelpazenin tarzı Görsel 1 ile birebir aynıdır. Vantilatörün yönü sabittir, sağa sola dönmez; kanat şekli değişmez. Bambu perdeden süzülen ışık/gölge çizgileri sabit kalır. Hareketler telaşsız, gerçek zamanlı bir tempoda ilerler.
+
+Sinematografi ve Kalite
+Kamera açısı sabittir ve Görsel 1 ile eşleşir; video boyunca hiçbir kamera hareketi, yakınlaştırma veya kaydırma yapılmaz. Işık kaynağı yalnızca bambu perdelerden süzülen doğal öğleden sonra ışığıdır, hafif aşırı pozlanmıştır. DV gürültüsü, hafif renk kayması, vignette (köşe kararması) ve ara sıra görülen otomatik odaklama dalgalanması (breathing) efektleri bulunur. Sağ alt köşedeki turuncu tarih damgası "2003 08 02" video boyunca sabit kalır.
+
+Ses
+Ortam sesleri baskındır: vantilatörün uğultusu, yelpazelenmenin yumuşak hışırtısı, pencerenin dışındaki cırcır böcekleri, uzaktan gelen bisiklet zili sesi, ağırlık altında bambu hasırın gıcırtısı ve pipetle gazoz içme sesi. Duyulan tek insan sesleri, vantilatöre yöneltilen titrek "Ahh—" sesi ve hafif bir kahkahadır. Arka plan müziği yoktur.
+
+Yasaklar
+Altyazı yok, film müziği yok, ağır çekim yok, sinematik renk düzenlemesi yok, kamera hareketi yok, sığ alan derinliği yok, gri stüdyo arka planı yok, metin veya marka logosu yok (tarih damgası hariç). 30s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114326843423858688/img/d8LQ-l3HkxbHuPZH.jpg" width="600" alt="Seedance 2.5 DV Ev Videosu İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13128)**
+
+**Yazar:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Kaynak:** [Link](https://x.com/Adam38363368936/status/2114328135420293145) | **Yayınlandı:** Oct 25, 2026
 
 ---
 ### Seedance 2.0 Antik Yatak Odası Komedi Sahnesi
@@ -3752,87 +4100,6 @@ Anlatıcı yoktur, arka plan müziği yoktur.
 **Yazar:** [探路AI](https://x.com/TanLuAI) | **Kaynak:** [Link](https://x.com/TanLuAI/status/2106955448352231762) | **Yayınlandı:** Oct 5, 2026
 
 ---
-### Sinematik Kaplan Savaşçı Aksiyon Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yıkılmış bir şehirde özel efektlerle dövüşen antropomorfik bir kaplan savaşçısını içeren yüksek enerjili sinematik aksiyon sekansı oluşturmak için detaylı video üretim istemi.
-
-#### 📝 İstem
-
-```
-Duman, ateş ve çöken binalarla çevrili yıkık bir şehirde güçlü, antropomorfik turuncu bir kaplan savaşçısını öne çıkaran 14.6 saniyelik sinematik bir aksiyon sahnesi oluşturun. Açılış çekiminde kaplan rakibine agresif şekilde yüz verirken, kamera bu sıçramayı dramatik biçimde takip ederken dinamik bir dövüş sanatları hareketiyle aniden havaya yükselir. Keskin gözler, detaylı turuncu kürk, bıyıklar ve vahşi ifadeye odaklanan, kaplanın gerçekçi yüzünün yoğun bir yakın planına geçiş yapın. Kaplanın karakter görünümünü ve anatomisini tutarlı bir şekilde koruyarak insan benzeri bir rakibe karşı hızlı yumruk ve tekmelerle dövüşmeye devam ettiğini gösterin. Saldırı sırasında güçlü mavi enerji etkisi belirir, ardından yıkık şehirde devasa alevli bir patlama yaşanır. Ortamda yayılan alevleri, uçan enkaz parçalarını, yoğun dumanı, kıvılcımları ve gerçekçi yıkımı gösterin. Kaplan ön planda kendinden emin bir şekilde yere basarken, arkasında yanmış harabeler parlar ve dramatik bir kahraman silüeti oluşturur. Metin, filigran veya karakter bozulması olmadan; akıcı sinematik kamera hareketleri, gerçekçi fizik, dramatik aydınlatma, detaylı dokular, güçlü aksiyon koreografisi ve yüksek kaliteli 3D animasyon kullanın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106938524784328704/img/pXh4xaDoupeUx4Bw.jpg" width="600" alt="Sinematik Kaplan Savaşçı Aksiyon Sahnesi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11914)**
-
-**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2106938584431526162) | **Yayınlandı:** Oct 5, 2026
-
----
-### Mürekkep Yıkama Tarzı Wuxia Video İstemcisi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 için, özel kamera hareketleri, parçacık efektleri ve dinamik hareket bulanıklığı içeren 15 saniyelik mürekkep yıkama tarzı bir wuxia sahnesi oluşturan ayrıntılı bir video üretim istemcisidir.
-
-#### 📝 İstem
-
-```
-[0–3s] Kamera: Kılıcın parlak ışığının yakın çekiminden hızlı ileri zoom yapılırken, kamera saat yönünde 180°/s hızla döner ve bambu şapkasının (douli) siluetine keskin geçiş yapar. Görseller: Mürekkep yıkama tarzı kılıç ışığı yakın çekimi, dışa doğru patlayan kıvılcım parçacıkları; douli silueti dalgalanan mürekkep bulutlarından belirir. Efektler: Hareket bulanıklığı, mürekkep fırça izleri, parçacık efektleri.
-[3–6s] Kamera: Karakterin etrafında yüksek hızlı 360° yörünge hareketi (270°/s), kılıç savurma yörüngesini takip eder. Görseller: Kılıcı savuran karakterin orta çekimi, uçuşan cübbeler, hareketle akan mürekkep fırça darbeleri. Efektler: Dinamik mürekkep dumanı, cübbelerde hareket bulanıklığı, dönüşten kaynaklanan görsel sürüklenme.
-[6–9s] Kamera: Yüksek hızlı yanlamasına takip çekimi (sol → sağ), kamera eğilirken ve saat yönünün tersine 90°/s hızla dönerken, kılıcın yoluna kilitlenir. Görseller: Kılıcın yörünge çizgisi, dışa doğru patlayan kıvılcım parçacıkları, mürekkep fırça izleri. Efektler: Hareket bulanıklığı, parçacık efektleri, mürekkep hayalet izleri.
-[9–12s] Kamera: Hızlı vinç yukarı hareketiyle düşük açıdan yukarı çekim, kamera 225°/s hızla spiral çizerken, yerdeki mürekkep lekelerinden karakterin üst vücuduna yükselir. Görseller: Yerdeki mürekkep lekeleri, savurma anındaki karakter (üst vücut), arka planda yuvarlanan mürekkep bulutları. Efektler: Dinamik mürekkep bulutları, yükseliş sırasında hareket bulanıklığı, dönüşten oluşan mürekkep renginde girdap.
-[12–15s] Kamera: Yavaş çekim yakın plan, kılıç ışığı sabitlenirken kamera saat yönünde yavaşça 15°/s döner. Görseller: Kılıç ışığının yakın çekimi, net ve berrak parçacık efektleri, douli gölgesinin altındaki karakter bakışı (isteğe bağlı). Efektler: Yavaş çekim, dağılan parçacıklar, hafif kamera sarsıntısı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106931329535459328/img/XKp-5If8NQ95ETQI.jpg" width="600" alt="Mürekkep Yıkama Tarzı Wuxia Video İstemcisi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11986)**
-
-**Yazar:** [Zidan 子丹](https://x.com/liluocheng13) | **Kaynak:** [Link](https://x.com/liluocheng13/status/2106931613427028260) | **Yayınlandı:** Oct 5, 2026
-
----
-### Epik Sinematik Trailer Tarzı Video
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Referans görüntü kullanarak, hiper detaylı renderlama, Unreal Engine 5 estetiği ve kalite kontrolüne yönelik spesifik negatif kısıtlamaları vurgulayan epik sinematik trailer tarzı bir video oluşturmak için istem.
-
-#### 📝 İstem
-
-```
-1. referans görüntüyü kullanarak epik sinematik bir video oluşturun.
-: Epik sinematik trailer estetiği, canlı aksiyon tarzı, IMAX, 16K, hiper detaylı renderlama, tam kare dinamik parçacık efektleri, Unreal Engine 5, ışın izleme (ray tracing), patlayıcı detaylar. Stil gereksinimleri: Estetik güzellik, patolojik güzellik, görkemli momentum, çöküş güzelliği, parçalanmış güzellik, trajik ihtişam, hüzünle birlikte. [Kısıtlamalar & Negatifler] Düşük doygunlukta soğuk gri + kehribar vurgu, fizik tabanlı akışkan hareket. Negatif: Düşük kalite, takılma, yüz/vücut bozulması, aşırı parlaklık, abartılı kan/gore, sert hareket, filigran, T-pozu, parlak palet, gösterişli VFX, katı kamera, hız/blur eksikliği, zayıf öldürme anları.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106923772372738048/img/p-_o3Q13K4Hbb2lw.jpg" width="600" alt="Epik Sinematik Trailer Tarzı Video">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11915)**
-
-**Yazar:** [Zidan 子丹](https://x.com/liluocheng13) | **Kaynak:** [Link](https://x.com/liluocheng13/status/2106923884931166241) | **Yayınlandı:** Oct 5, 2026
-
----
-### Şehirde Yüksek Hızda Kaykay
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Kalabalık bir şehir sokağında gerçekçi hareket bulanıklığı ve el kamerası hissi ile yüksek hızlı kaykay videosu oluşturmak için basit, 'tembel' bir istem.
-
-#### 📝 İstem
-
-```
-Bir kızın kalabalık bir şehir sokağında yüksek hızda kaykay yaptığı, insanlardan kaçtığı, küçük engellerin üzerinden atladığı, arabalar ve bisikletlerin yanından geçtiği anlar; hızlı kesimler, hareket bulanıklığı, el kamerası hissi, enerjik atmosfer, gerçekçi ortam, yüksek detay.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106921938576883712/img/9S6CRhiy0KGRQiZh.jpg" width="600" alt="Şehirde Yüksek Hızda Kaykay">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11917)**
-
-**Yazar:** [Zidan 子丹](https://x.com/liluocheng13) | **Kaynak:** [Link](https://x.com/liluocheng13/status/2106922065240731732) | **Yayınlandı:** Oct 5, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3894,6 +4161,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-29T04:48:46.077Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-29T15:13:39.313Z</sub>
 
 </div>

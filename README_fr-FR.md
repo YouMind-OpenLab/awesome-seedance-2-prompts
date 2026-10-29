@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6599** |
+| 📝 Total des prompts | **6603** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-10-29** |
 
@@ -361,6 +361,321 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Prompt Vidéo Xianxia Ancien pour Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt détaillé pour générer une vidéo cinématographique de 15 secondes dans le style Xianxia chinois ancien avec Seedance 2.0 Mini, mettant en avant la cohérence des personnages et la structure narrative.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | Xianxia antique « La seule à avoir échoué »
+
+Modèle : Seedance 2.0 Mini
+Durée : Strictement 15 secondes
+Format : 16:9 Paysage
+Structure : Trois plans continus et distincts, remplissant des fonctions narratives différentes
+
+I. Prompt | Style global et direction créative
+Texture réaliste cinématographique, esthétique pure du Xianxia chinois antique.
+Éléments centraux :
+Suspense psychologique
+Satire sociale tout en retenue
+Micro-jeu d'acteur millimétré
+Mise en scène de haut vol pour les séquences d'arts martiaux
+À adopter :
+Éclairage volumétrique naturel
+Texture de peau réaliste
+Mouvement délicat de la soie
+Profondeur de champ cinématographique
+Contexte créatif
+Inspiré des polémiques réelles autour de notes d'examen falsifiées, mais l'intrigue est entièrement repensée sous la forme d'une épreuve de sabre fictive au sein d'une secte antique.
+
+II. Intrigue centrale et retournement
+Tout le monde suppose que la jeune disciple qui a échoué manque de talent, alors que le problème vient de l'examen lui-même.
+Les autres peuvent acheter de faux diplômes pour réussir, tandis qu'elle choisit d'affronter son véritable niveau.
+Progression narrative en trois temps
+Niveau 1 : L'humiliation publique
+150 disciples participent à l'épreuve de sabre ; seule la jeune disciple échoue.
+Niveau 2 : Le basculement institutionnel
+L'examinateur propose de modifier les résultats contre des pierres spirituelles, laissant entendre que les qualifications des autres ont également été trafiquées.
+Niveau 3 : Le choix assumé
+La jeune disciple refuse d'acheter sa qualification, renonce aux faux certificats et retourne s'entraîner au sabre.
+Émotions clés
+Première moitié : Humiliation, confusion, oppression
+Milieu : Choc, renversement de perspective
+Seconde moitié : Clarté, retenue, nouvelle détermination
+
+III. Verrouillage des personnages et des assets
+@Image1 | Sœur aînée Immortelle de l'Épée
+Même Sœur aînée :
+Femme est-asiatique de 25-30 ans
+Visage ovale et pâle
+Yeux sombres en amande
+Longs cheveux noirs à demi attachés par une épingle en jade blanc
+Silhouette grande et élancée
+Même Hanfu en soie blanche brodée
+Manches larges superposées semi-transparentes
+Ceinture argentée
+Pendentif en jade
+Bottes en tissu blanc
+Porte une longue épée argentée
+@Image2 | Jeune disciple (Sœur cadette)
+Même Jeune disciple :
+Femme est-asiatique de 20-25 ans
+Visage rond et expressif
+Cheveux noirs tressés
+Silhouette menue
+Même Hanfu en lin bleu-vert
+Ceinture sombre
+Épingle à cheveux en bois
+Chaussures en tissu noir
+Porte une épée en acier sombre
+Autres personnages
+L'Ancien examinateur
+Préside l'épreuve de sabre de la secte, annonce les résultats et propose de falsifier les qualifications.
+Les disciples reçus
+Plusieurs disciples se tiennent d'un côté, tenant des certificats de qualification identiques tamponnés de rouge.
+Les autres personnages n'assurent que les fonctions strictement nécessaires au récit.
+
+IV. ADN environnemental et aménagement spatial
+Toutes les images de référence d'arrière-plan ou de lieux nouvellement importées définissent le monde physique.
+Verrouillage du décor
+Conserver les éléments reconnaissables des références :
+Relief
+Relations spatiales entre les bâtiments principaux
+Échelle spatiale
+Matériaux
+Météo
+Végétation
+Éclairage
+Profondeur atmosphérique
+Intégrer naturellement un simple bureau d'évaluation de secte antique dans l'espace existant.
+Ne pas réinitialiser le monde de manière arbitraire.
+Principe de décor vivant
+L'environnement reste vivant :
+La brise souffle naturellement
+Les nuages évoluent en continu
+La végétation ondoie doucement
+Les silhouettes lointaines conservent une activité subtile
+Les manches accompagnent les mouvements des personnages et le vent naturel
+Le son ambiant spatial persiste
+Neutralité narrative
+L'arrière-plan demeure narrativement neutre.
+Il ne doit influencer activement ni :
+Les résultats de l'examen
+Le comportement de l'examinateur
+Les choix des personnages
+Les rebondissements de l'intrigue
+
+V. Structure complète du storyboard de 15 secondes
+0-5s | Plan 1 : Plan large | Humiliation publique, installation du suspense
+Mouvement de caméra
+Lent travelling avant depuis un plan moyen-large du site de l'épreuve de sabre.
+Espace et relations entre les personnages
+Un ancien examinateur se tient près du bureau d'évaluation.
+Plusieurs disciples reçus se tiennent d'un côté, tenant leurs certificats tamponnés de rouge.
+La jeune disciple se tient seule de l'autre côté.
+La sœur aînée se trouve légèrement en retrait, en diagonale derrière elle.
+Action et dialogues
+L'examinateur annonce publiquement :
+[Examinateur] « Sur 150 personnes, tu es la seule à avoir échoué. »
+Les disciples alentour laissent échapper de légers murmures et des rires étouffés.
+La jeune disciple ne se défend pas et baisse lentement les yeux.
+La sœur aînée reste impassible, sans intervenir immédiatement.
+Contraste visuel
+Créer un contraste marqué grâce :
+Aux certificats tamponnés de rouge dans les mains des autres disciples
+Aux mains vides de la jeune disciple
+Objectif narratif du Plan 1
+Amener naturellement le spectateur à se demander :
+Pourquoi est-elle la seule à avoir échoué ?
+
+5-10s | Plan 2 : Plan rapproché | De l'échec au basculement institutionnel
+Exigences de continuité
+Maintenir la cohérence :
+De l'identité des personnages
+Des accessoires
+Des positions spatiales
+Des gestes discrets de l'examinateur
+Sentant l'attention se tourner vers lui, l'examinateur se penche légèrement.
+Il sort un certificat non tamponné de sous le bureau et le pousse discrètement vers la jeune disciple.
+Dialogue
+L'examinateur murmure :
+[Examinateur] « Dix pierres spirituelles, et je règle ça pour toi. »
+La jeune disciple relève brusquement la tête.
+Réaction de la jeune disciple
+Elle ne s'emporte pas immédiatement.
+Elle regarde d'abord les certificats tamponnés de rouge dans les mains des autres, puis demande lentement :
+[Jeune disciple] « Ont-ils triché eux aussi ? »
+L'examinateur ne répond pas.
+Il se contente d'un hochement de tête très léger, mais sans équivoque.
+Caméra et jeu d'acteur
+La caméra reste fixée sur le visage de la jeune disciple.
+Son véritable choc ne vient pas de son échec.
+Mais de la prise de conscience que ces notes tant enviées n'ont peut-être pas été obtenues par le mérite.
+Principe de renversement de l'information
+À ce stade :
+Aucun flashback n'est nécessaire
+Aucune explication du processus de triche n'est requise
+Ces mêmes certificats tamponnés de rouge, l'allusion de l'examinateur et ce hochement de tête suffisent à opérer le renversement.
+
+10-15s | Plan 3 : Gros plan personnage | Choix assumé, ancrage émotionnel
+Action clé 1 : Le refus de la qualification
+La main de la jeune disciple s'avance lentement vers le certificat posé sur le bureau.
+Juste avant que ses doigts ne touchent le papier, elle s'arrête.
+Puis, elle repousse doucement le document vers l'examinateur.
+Restrictions de jeu
+Interdit :
+De jeter des objets
+De dégainer son épée pour menacer
+De hurler des accusations
+Dialogue central
+Regardant l'examinateur, elle demande simplement :
+[Jeune disciple] « Quand les démons viendront, qui réglera ça pour moi ? »
+L'examinateur se fige, réduit au silence pour la première fois.
+Action clé 2 : L'intervention de la sœur aînée
+La sœur aînée avance d'un demi-pas depuis sa position en retrait pour se placer à ses côtés.
+La sœur aînée NE DOIT PAS :
+Déclarer qu'elle est la véritable première
+Exiger une place parmi les reçus pour sa cadette
+Elle effleure seulement du bout du doigt le fourreau accroché à la taille de la jeune disciple.
+Et dit calmement :
+[Sœur aînée] « Viens, allons nous entraîner au sabre. »
+Évolution émotionnelle de la jeune disciple
+La jeune disciple lève les yeux vers elle.
+L'expression crispée de son visage s'apaise peu à peu.
+Elle tourne les talons et quitte le bureau d'évaluation avec la sœur aînée.
+Image finale et résonance émotionnelle
+La caméra s'attarde brièvement pour une dernière résonance émotionnelle :
+L'examinateur est toujours debout, immobile
+Le certificat monnayable sur le bureau reste sans preneur
+Conclusion narrative
+Elle n'a pas réussi l'examen par magie, ni reçu de récompense cachée.
+Elle reste celle qui a échoué à l'épreuve de sabre.
+Mais elle sait enfin quoi faire ensuite.
+
+VI. Exigences d'exécution pour Seedance 2.0 Mini
+Spécifications de base
+Générer impérativement une vidéo Seedance 2.0 Mini de 15 secondes
+Durée totale stricte : 15 secondes
+Format : 16:9 paysage
+Trois plans continus et distincts, remplissant des fonctions narratives différentes
+Points d'attention pour la génération par le modèle
+Mettre en valeur les capacités de Seedance 2.0 Mini concernant :
+La cohérence de l'identité des deux protagonistes
+Une hiérarchie visuelle claire
+Des points d'action rares mais précis
+Des mouvements de caméra stables
+Des micro-expressions faciales réalistes
+Une synchronisation parfaite entre dialogues et audio spatial
+
+VII. Dialogues et synchronisation labiale
+Les dialogues sont en mandarin naturel.
+Tous les personnages doivent synchroniser parfaitement le mouvement de leurs lèvres lorsqu'ils parlent.
+Règles pour les locuteurs
+Quand l'examinateur parle, seul l'examinateur synchronise ses lèvres
+Quand la jeune disciple parle, seule la jeune disciple synchronise ses lèvres
+Quand la sœur aînée parle, seule la sœur aînée synchronise ses lèvres
+En dehors des dialogues, exprimer les émotions par :
+Les regards
+Les silences
+Les gestes des mains
+Le placement dans l'espace
+
+VIII. Continuité des personnages, accessoires et espaces
+Maintenir la cohérence :
+Des personnages
+Forme du visage
+Coiffure
+Vêtements
+Proportions corporelles
+Des armes
+L'unique longue épée argentée de la sœur aînée
+L'unique épée en acier sombre de la jeune disciple
+Des accessoires
+Certificat de qualification tamponné de rouge
+Certificat de qualification non tamponné
+Bureau d'évaluation de la secte antique
+De l'espace
+Position de l'examinateur
+Position des autres disciples
+Positions relatives des deux sœurs
+Relations entre le bâtiment principal et le relief
+
+IX. Son et qualité cinématographique
+Design sonore
+Assurer la synchronisation :
+Des dialogues en mandarin
+Du glissement du papier
+Du froissement des tissus
+Des légers tapotements sur le fourreau
+De l'ambiance spatiale naturelle
+Jeu d'acteur et photographie
+Nombre d'actions restreint
+Mise en valeur des micro-expressions
+Mouvements de caméra stables
+Hiérarchie visuelle claire
+Relations entre personnages et placements spatiaux réalistes
+Exigences pour l'arrière-plan
+L'arrière-plan doit rester naturellement vivant.
+Mais il n'entretient aucun lien de causalité autonome avec la tricherie à l'examen ou les choix des personnages.
+
+X. Interdictions strictes
+Aucun sous-titre généré
+Ne pas exiger du modèle qu'il génère du texte de note d'examen lisible
+Ne pas réinitialiser arbitrairement l'environnement de référence
+Aucune action étrangère à l'intrigue
+Ne pas utiliser d'événements environnementaux pour déclencher le rebondissement lié à la fraude
+Ne pas modifier les personnages, les armes,
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115629215962083328/img/7RQmm82Z4u7eouLi.jpg" width="600" alt="Prompt Vidéo Xianxia Ancien pour Seedance 2.0 Mini">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13129)**
+
+**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2115629293430788360) | **Publié:** Oct 29, 2026
+
+---
+### Vidéo de rénovation de sol en résine avec fleurs de souci
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une vidéo photoréaliste montrant la création d'un sol brillant comme un miroir, intégrant des fleurs de souci orange dans la résine.
+
+#### 📝 Prompt
+
+```
+Un homme barbu vêtu d'une salopette en jean et de gants jaunes ratisse un immense tas de fleurs d'œillets d'Inde orangées sur le sol en béton d'une pièce blanche vide, dotée d'une grande fenêtre donnant sur des arbres verdoyants. Il étale les fleurs pour former une couche plate et uniforme recouvrant l'intégralité du sol. Une femme blonde portant une salopette rouge et des bottes en caoutchouc noires verse une épaisse résine époxy blanche depuis un seau blanc sur les fleurs, puis racle le liquide vers l'extérieur jusqu'à ce que tout le sol soit enduit d'une résine brillante dans laquelle les œillets d'Inde restent en suspension. Un ouvrier équipé d'un gilet jaune haute visibilité polit le sol durci à l'aide d'une monobrosse rotative, créant ainsi une surface transparente lisse comme un miroir sous laquelle sont incrustées des fleurs d'un orange éclatant. Deux femmes en tailleur noir apportent un cadre de lit en bois clair, y posent un matelas, habillent le lit d'une parure crème et d'oreillers, installent une petite table de nuit avec une lampe, puis sortent de la pièce. Le plan final dévoile la chambre terminée : un lit parfaitement fait, dressé sur un sol spectaculaire au brillant miroir où des milliers d'œillets d'Inde orangés préservés reposent sous une résine transparente, baignés par la douce lumière du soleil qui traverse la fenêtre. Vidéo satisfaisante d'un processus de rénovation, style photoréaliste, mouvements de caméra cinématographiques fluides, éclairage naturel chaleureux.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115508821292396544/img/jYmX2uIXftEV4Ibi.jpg" width="600" alt="Vidéo de rénovation de sol en résine avec fleurs de souci">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13126)**
+
+**Auteur:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2115508874803400848) | **Publié:** Oct 28, 2026
+
+---
+### Vidéo de Rénovation de Sol Époxy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour Seedance 2.0 afin de générer une vidéo réaliste de rénovation domiciliaire mettant en vedette l'application d'un revêtement de sol époxy et le design d'intérieur.
+
+#### 📝 Prompt
+
+```
+Caméra fixe cadrée depuis l'encadrement d'une porte, plongeant dans une chambre vide aux murs lambrissés blancs, ornés de moulures et baignés par la lumière d'une fenêtre éclatante. Un homme vêtu d'un t-shirt noir, d'une casquette noire et de gants de travail entre en portant un seau rouge, verse une résine époxy rouge brillante sur le sol en béton gris et l'étale uniformément à l'aide d'une large raclette jusqu'à ce que toute la surface resplendisse d'un rouge profond. Il verse ensuite un liquide blanc depuis un seau blanc pour former plusieurs flaques rondes sur la surface rouge ; le pigment blanc s'épanouit et se déploie naturellement en ramifications fractales complexes semblables à des éclairs, qui s'étendent sur tout le sol. Puis il applique une couche de finition transparente qu'il lisse à la raclette, avant de polir la surface avec une monobrosse jusqu'à obtenir un brillant miroir. S'ensuit un accéléré rapide : des ouvriers apportent un lit tapissé de blanc garni d'oreillers rouges, des tables de chevet, des rideaux rouges à motifs, une œuvre d'art assortie représentant des branches d'arbre rouges et des lampes de table. Le plan final s'attarde sur la chambre de luxe achevée : un sol rouge éclatant parcouru de veines blanches fractales reflétant la fenêtre, une literie d'un blanc immaculé rehaussée de touches rouges, une décoration symétrique, une douce lumière naturelle du jour, style vidéo de rénovation domestique réaliste, mouvements fluides, niveau de détail élevé.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115506523380092928/img/Zn2zgeM8PTRThRYx.jpg" width="600" alt="Vidéo de Rénovation de Sol Époxy">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13127)**
+
+**Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2115506584159969679) | **Publié:** Oct 28, 2026
+
+---
 ### Publicité Sérum à Lèvres Cerise
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -591,6 +906,51 @@ Costumes anciens d'Orient, rendu photoréaliste, qualité cinématographique ; g
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13049)**
 
 **Auteur:** [灰度笔记](https://x.com/GrayNoteLab) | **Source:** [Link](https://x.com/GrayNoteLab/status/2114348037862719796) | **Publié:** Oct 25, 2026
+
+---
+### Prompt Vidéo DV Domestique Seedance 2.5
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt très détaillé pour générer une vidéo DV domestique réaliste du début des années 2000, mettant en scène une jeune femme est-asiatique dans une chambre par un après-midi d'été chaud. Inclut des instructions spécifiques pour la cohérence du personnage, la chronologie des actions, la stabilité de la caméra et l'environnement sonore.
+
+#### 📝 Prompt
+
+```
+L'image 1 correspond au premier plan de la vidéo ; la scène débute à partir de l'image 1, et le décor, la composition, l'éclairage, les vêtements, les accessoires ainsi que leur positionnement s'appuient tous sur l'image 1.
+L'image 2 sert de référence pour le personnage : elle est utilisée uniquement pour figer le visage, les proportions faciales, la forme du visage et la couleur des cheveux. Ne reprenez ni le fond gris, ni les vêtements, ni la présentation en trois vues de l'image 2.
+
+Créez un enregistrement hyper-réaliste de 30 secondes, façon caméra DV amateur du début des années 2000, montrant une jeune femme d'origine est-asiatique passant un après-midi d'été étouffant dans la chambre d'un vieil appartement résidentiel. Point de vue purement observateur, aucun dialogue, aucune trame narrative : simplement le rythme du quotidien.
+
+Personnage
+Apparence conforme à l'image 2 ; vêtements et coiffure conformes à l'image 1 : sans maquillage, chignon lâche sur le haut de la tête, T-shirt ample bleu clair, short en coton blanc, pieds nus. Le visage, les vêtements, la coiffure et la silhouette doivent rester parfaitement cohérents tout au long de la vidéo.
+
+Chronologie des actions (chaque action n'est effectuée qu'une seule fois, sans répétition)
+00:00–00:06 — À demi allongée contre un oreiller, elle s'évente lentement avec l'éventail de l'image 1 tenu dans sa main droite, le regard perdu vers le plafond, clignant des yeux de temps à autre.
+00:06–00:11 — Elle cesse de s'éventer, pose l'éventail sur la natte en bambou à côté d'elle, prend appui pour s'asseoir sur le lit et se tourne vers le ventilateur posé sur le tabouret de chevet.
+00:11–00:16 — Elle attrape la bouteille de soda sur le tabouret, boit une gorgée à la paille, puis remet la bouteille exactement à sa place.
+00:16–00:22 — Elle s'approche de la grille du ventilateur, ouvre la bouche et laisse échapper un long « Ah— » en direction des pales ; le son vibre au contact des pales en rotation, quelques mèches de cheveux voletant sous le souffle. Maintenez une distance de sécurité entre le visage et les pales, sans jamais toucher le ventilateur.
+00:22–00:26 — Amusée par son propre geste, elle jette un bref regard à la caméra avec un sourire timide, sans dire un mot.
+00:26–00:30 — Elle se laisse tomber en arrière sur l'oreiller, se couvre le visage avec l'éventail et reste immobile. Le ventilateur continue de tourner, puis fondu au noir.
+
+Cohérence
+La position du ventilateur, de la bouteille de soda, de l'éventail et du tabouret reste fixe ; aucun objet n'apparaît ni ne disparaît spontanément. Un seul éventail et une seule bouteille de soda sont visibles dans le cadre ; le style de l'éventail est identique à celui de l'image 1. L'orientation du ventilateur est fixe, sans oscillation ; la forme des pales reste stable. Les bandes d'ombre et de lumière projetées par le store en bambou demeurent stables. Les actions se déroulent à un rythme naturel, sans précipitation.
+
+Cadrage et qualité
+Angle de caméra fixe, identique à celui de l'image 1 ; aucun mouvement, zoom ou panoramique pendant toute la durée. La seule source lumineuse est la lumière naturelle de l'après-midi filtrant à travers les stores en bambou, légèrement surexposée. Grain typique des caméras DV, légère dérive colorimétrique, vignettage, pompage occasionnel de l'autofocus. L'horodatage orange « 2003 08 02 » dans le coin inférieur droit reste parfaitement fixe du début à la fin.
+
+Audio
+Les sons d'ambiance dominent : bourdonnement du ventilateur, doux bruissement de l'éventail, chant des cigales à l'extérieur, tintement lointain d'une sonnette de vélo, craquement de la natte en bambou sous le poids, bruit du soda aspiré à la paille. Les seules voix humaines sont le « Ah— » vibrant adressé au ventilateur et un léger rire. Aucune musique de fond.
+
+Interdictions
+Aucun sous-titre, aucune bande-son, aucun ralenti, aucun étalonnage cinématographique, aucun mouvement de caméra, aucune faible profondeur de champ, aucun fond de studio gris, aucun texte ni logo de marque (à l'exception de l'horodatage). 30 s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114326843423858688/img/d8LQ-l3HkxbHuPZH.jpg" width="600" alt="Prompt Vidéo DV Domestique Seedance 2.5">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13128)**
+
+**Auteur:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2114328135420293145) | **Publié:** Oct 25, 2026
 
 ---
 ### Scène comique Seedance 2.0 dans une chambre ancienne
@@ -3716,87 +4076,6 @@ Pas de narration, pas de musique de fond.
 **Auteur:** [探路AI](https://x.com/TanLuAI) | **Source:** [Link](https://x.com/TanLuAI/status/2106955448352231762) | **Publié:** Oct 5, 2026
 
 ---
-### Scène d'Action Cinématographique : Le Guerrier Tigre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt détaillé pour la génération de vidéo, conçu pour créer une séquence d'action cinématographique à haute énergie mettant en scène un guerrier tigre anthropomorphe se battant dans une ville dévastée avec des effets spéciaux.
-
-#### 📝 Prompt
-
-```
-Créez une scène d'action cinématographique de 14,6 secondes mettant en vedette un puissant guerrier tigre orange anthropomorphe dans une ville détruite, entouré de fumée, de feu et de bâtiments en effondrement. Dans le plan d'ouverture, le tigre affronte agressivement un adversaire, puis s'élance soudainement très haut dans les airs avec un mouvement dynamique d'arts martiaux, tandis que la caméra suit le saut de manière dramatique. Coupez sur un gros plan intense du visage réaliste du tigre, mettant l'accent sur ses yeux perçants, son pelage orange détaillé, ses moustaches et son expression féroce. Montrez le tigre continuant le combat contre un adversaire humanoïde avec des coups de poing et des coups de pied rapides, en maintenant une apparence et une anatomie cohérentes du personnage. Un impact d'énergie bleue puissant apparaît lors de l'attaque, suivi d'une énorme explosion de feu dans la ville en ruines. Montrez des flammes, des débris volants, une fumée épaisse, des étincelles et une destruction réaliste qui se propagent dans l'environnement. Le tigre atterrit avec assurance au premier plan tandis que les ruines enflammées brillent derrière lui, créant une silhouette héroïque dramatique. Utilisez des mouvements de caméra cinématographiques fluides, une physique réaliste, un éclairage dramatique, des textures détaillées, une chorégraphie d'action solide et une animation 3D de haute qualité tout au long de la scène, sans texte, filigrane ni distorsion du personnage.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106938524784328704/img/pXh4xaDoupeUx4Bw.jpg" width="600" alt="Scène d'Action Cinématographique : Le Guerrier Tigre">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11914)**
-
-**Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2106938584431526162) | **Publié:** Oct 5, 2026
-
----
-### Prompt vidéo style encre de Chine Wuxia
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt détaillé pour la génération vidéo avec Seedance 2.0, créant une scène wuxia de 15 secondes au style encre de Chine, avec des mouvements de caméra spécifiques, des effets de particules et un flou de mouvement dynamique.
-
-#### 📝 Prompt
-
-```
-[0–3s] Caméra : Mouvement de zoom rapide depuis un gros plan sur l'éclat de la lame, tandis que la caméra effectue une rotation horaire à 180°/s, plongeant dans la silhouette d'un chapeau de bambou (douli). Visuels : Gros plan sur la lumière de la lame peinte à l'encre, éclats de particules jaillissant vers l'extérieur ; la silhouette du douli émerge de nuages d'encre tourbillonnants. Effets : Flou de mouvement, traînées de coups de pinceau à l'encre, effets de particules.
-[3–6s] Caméra : Orbite circulaire haute vitesse à 360° centrée sur le personnage (270°/s), suivant la trajectoire du coup de sabre. Visuels : Plan moyen du personnage brandissant la lame, robes flottantes, traits de pinceau à l'encre coulant avec le mouvement. Effets : Fumée d'encre dynamique, flou de mouvement sur les robes, distorsion visuelle causée par la rotation.
-[6–9s] Caméra : Travelling latéral rapide (gauche → droite), tandis que la caméra s'incline et tourne dans le sens antihoraire à 90°/s, verrouillée sur la trajectoire de la lame. Visuels : Ligne de trajectoire de la lame, éclats de particules jaillissant vers l'extérieur, traînées de coups de pinceau à l'encre. Effets : Flou de mouvement, effets de particules, rémanences fantômes d'encre.
-[9–12s] Caméra : Contre-plongée avec montée rapide de grue, tandis que la caméra effectue une spirale à 225°/s, s'élevant des marques d'encre au sol jusqu'au buste du personnage. Visuels : Marques d'encre au sol, personnage en plein coup de sabre (buste), nuages d'encre roulants en arrière-plan. Effets : Nuages d'encre dynamiques, flou de mouvement pendant la montée, vortex coloré d'encre créé par la rotation.
-[12–15s] Caméra : Gros plan en ralenti, avec une rotation lente de la caméra dans le sens horaire à 15°/s alors que la lumière de la lame se fige. Visuels : Gros plan sur la lumière de la lame, effets de particules nets et clairs, regard du personnage sous l'ombre du douli (optionnel). Effets : Ralenti, dissipation des particules, léger tremblement de caméra.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106931329535459328/img/XKp-5If8NQ95ETQI.jpg" width="600" alt="Prompt vidéo style encre de Chine Wuxia">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11986)**
-
-**Auteur:** [Zidan 子丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2106931613427028260) | **Publié:** Oct 5, 2026
-
----
-### Vidéo de bande-annonce cinématographique épique
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt pour générer une vidéo au style de bande-annonce cinématographique épique à partir d'une image de référence, mettant l'accent sur un rendu hyper-détaillé, les esthétiques Unreal Engine 5 et des contraintes négatives spécifiques pour le contrôle qualité.
-
-#### 📝 Prompt
-
-```
-Utilisez l'image de référence 1 pour créer une vidéo cinématographique épique.
-: Esthétique de bande-annonce cinématographique épique, style live-action, IMAX, 16K, rendu hyper-détaillé, effets de particules dynamiques plein cadre, Unreal Engine 5, ray tracing, détails explosifs. Exigences stylistiques : Beauté esthétique, beauté pathologique, élan grandiose, beauté décadente, beauté fragmentée, grandeur tragique, avec tristesse. [Contraintes & Négatifs] Gris froid à faible saturation + accent ambre, mouvement fluide basé sur la physique. Négatif : Basse qualité, saccades, effondrement du visage/corps, surexposition, gore excessif, mouvements rigides, filigrane, pose en T, palette lumineuse, VFX clinquants, caméra rigide, manque de vitesse/flou de mouvement, coups faibles.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106923772372738048/img/p-_o3Q13K4Hbb2lw.jpg" width="600" alt="Vidéo de bande-annonce cinématographique épique">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11915)**
-
-**Auteur:** [Zidan 子丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2106923884931166241) | **Publié:** Oct 5, 2026
-
----
-### Skate urbain à grande vitesse
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt simple et 'paresseux' pour générer une vidéo de skate à grande vitesse dans une rue urbaine bondée, avec un flou de mouvement réaliste et une sensation de caméra à main levée.
-
-#### 📝 Prompt
-
-```
-Une fille faisant du skate à grande vitesse dans une rue urbaine bondée, esquivant les passants, sautant par-dessus de petits obstacles, dépassant des voitures et des vélos, montages rapides, flou de mouvement, sensation de caméra à main levée, ambiance énergique, environnement réaliste, haute fidélité.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106921938576883712/img/9S6CRhiy0KGRQiZh.jpg" width="600" alt="Skate urbain à grande vitesse">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11917)**
-
-**Auteur:** [Zidan 子丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2106922065240731732) | **Publié:** Oct 5, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -3858,6 +4137,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-29T04:48:41.155Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-29T15:13:34.284Z</sub>
 
 </div>
