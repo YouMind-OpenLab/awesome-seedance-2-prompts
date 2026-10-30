@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6603** |
+| 📝 Tổng số prompt | **6609** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-10-30** |
 
@@ -361,6 +361,137 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Prompt Video Nhảy Douyin Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt chi tiết để tạo video nhảy dọc dài 15 giây bằng Seedance 2.0, bao gồm các chỉ dẫn cụ thể về chuyển động máy quay, bước vũ đạo và tính nhất quán của nhân vật.
+
+#### 📝 Prompt
+
+```
+Thời lượng 15 giây, tỷ lệ khung hình 9:16, video ngắn quay một người phụ nữ thật đang nhảy trên Douyin (phong cách TikTok). Một cú máy liền mạch duy nhất, giữ nguyên ngoại hình, trang phục và bối cảnh của người mẫu tham chiếu. Tay không bao giờ đưa cao quá đầu. Hướng trái và phải được tính theo góc nhìn của chính người nhảy.
+
+Tổng thể màn trình diễn: Hai tổ hợp động tác nhảy riêng biệt nối tiếp nhau, được liên kết bằng chuyển động "tay phải chộp/kéo ống kính lại sát mặt, tay trái vung ra xa kéo ống kính lùi lại". Người nhảy tiếp tục nhún nhảy trong cùng một khu vực, vai, hông và cánh tay di chuyển đồng bộ. Các động tác tạo sự tương phản giữa những nhịp vươn rộng và thu về nhanh, đoạn này dẫn trực tiếp vào đoạn kế tiếp.
+
+[0-3s | Tổ hợp 1: Chống hông & Vươn tay]
+GÓC MÁY: Cảnh trung diện chính diện, lấy từ đỉnh đầu đến ngay trên đầu gối, thể hiện trọn vẹn vai, eo, hông và cánh tay.
+
+Động tác nhảy đã bắt đầu. Tay trái chống hông, lòng bàn tay phải vươn về phía ống kính rồi thu về trước vai, phối hợp với thân nghiêng sang phải sau đó trở về bên trái; đầu gối có độ đàn hồi, đường vai nghiêng theo nhịp đổi hướng của hông. Nhịp vươn đầu tiên mở rộng, nhịp thu thứ hai dứt khoát; khi tay vừa thu về, cơ thể đã bắt đầu chuyển hướng cho nhịp tiếp theo. Đầu lắc lư nhẹ theo thân, ban đầu thả lỏng nhìn thẳng vào ống kính, nở nụ cười nhẹ khi thu tay lần thứ hai.
+
+[3-6s | Đan tay hạ trọng tâm, Đẩy lòng bàn tay đổi hướng]
+Tay phải buông tự nhiên xuống trước bụng, tay trái rời khỏi eo, hai cẳng tay đan chéo trước vùng eo/bụng, đầu gối hơi khuỵu, thân hạ thấp theo; ngay sau đó, hai tay mở rộng, thân người nâng lên trở về phía bên trái.
+
+Lòng bàn tay trái chạm ngực, lòng bàn tay phải đẩy từ ngực hướng ra phía trước-bên phải, vai/ngực hơi xoay chéo theo lực đẩy; thu tay về thì thân cũng trở lại tư thế thẳng đứng. Sau đó đẩy tới thêm một lần nữa, hông đồng thời đổi hướng. Lòng bàn tay luôn giữ hướng rõ ràng, nhịp đẩy và thu tạo thành một cụm động tác ngắn hoàn chỉnh.
+Nhịp đẩy cuối cùng chuyển hóa tự nhiên thành động tác vươn tay về phía ống kính.
+
+[6-8s | Chộp kéo ống kính sát mặt, Vung tay ra xa]
+Tay phải vươn về phía ống kính, các ngón tay khép lại tạo dáng nắm hờ rõ nét; ngay sau đó, khuỷu tay phải giật mạnh ra sau, nắm tay lướt dọc theo cạnh mặt thu về trước vai phải, vai và ngực ngả theo ra sau.
+
+GÓC MÁY: Giữ nguyên khoảng cách lúc tay vươn tới và kéo sát; ngay khoảnh khắc khuỷu tay phải bắt đầu giật về, ống kính đồng loạt lao nhanh vào cận cảnh khuôn mặt, giảm tốc ngay trước mặt. Chuyển động của máy quay kết thúc cùng lúc với nhịp kéo tay này.
+
+Ngay lúc ống kính áp sát mặt, cô ấy hơi nghiêng đầu, ánh mắt bắt chuẩn xác vào ống kính, khóe miệng nhếch lên. Nhịp điệu cơ thể vẫn tiếp diễn, tay phải hạ dọc trước ngực, tay trái lập tức vung từ trước ngực sang bên trái, bàn tay và vai cùng phối hợp tạo lực vung.
+
+GÓC MÁY: Ngay khoảnh khắc tay trái vung ra, ống kính nhanh chóng lùi lại, trả về cảnh trung từ đỉnh đầu đến trên đầu gối, nhân vật luôn nằm ở trung tâm khung hình.
+
+[8-11s | Lùi máy kết hợp vào Tổ hợp 2: Luân phiên hai tay trước vai]
+Trong lúc ống kính đang lùi, cánh tay trái vừa vung ra đã gập khuỷu để thu về, tay phải đồng thời nâng lên, hai bàn tay nắm hờ dừng lại dưới tầm vai.
+
+Hai vai luân phiên đẩy ra trước theo nhịp trái - phải, khuỷu tay gập di chuyển so le trước - sau ăn khớp với vai; hông phối hợp chuyển trọng tâm qua lại hai bên, đầu gối tiếp tục nhún nảy nhẹ nhàng. Sau khi hoàn thành một lượt luân phiên trái/phải, hai tay hạ xuống đan chéo trước eo, rồi lập tức mở sang hai bên, tạo ra nhịp hạ - nâng trọng tâm rõ rệt. Các động tác liền mạch, nhịp đan tay đóng vai trò lấy đà cho lần vươn mở tiếp theo.
+
+Biểu cảm giãn ra tự nhiên từ nụ cười lúc cận mặt, đầu nghiêng nhẹ theo đường vai, ánh mắt nhìn thẳng lại vào ống kính khi hai tay mở ra.
+
+[11-15s | Chỉ tay gần mặt, Mở rộng ở tầm thấp]
+Tiếp nối nhịp mở tay, tay phải thu về cạnh mặt tạo dáng giơ một ngón tay rõ nét, cẳng tay trái giữ nguyên trước vùng eo/bụng. Chân trái bước một bước nhỏ đặt xuống bên trái dồn trọng tâm, hông đẩy sang trái, đường vai nghiêng ngược lại; khi cơ thể đổi hướng, cẳng tay trái mở rộng sang ngang, tay phải tạm giữ nguyên dáng cạnh mặt.
+
+Sau đó tay phải hạ dọc trước ngực, đan chéo với cẳng tay trái trước vùng eo/bụng, đầu gối hơi khuỵu; lập tức tách tay ra, khuỷu tay ép sát hai bên eo, cẳng tay mở rộng sang hai bên, phối hợp cùng hai nhịp chuyển trọng tâm trái - phải liên tiếp. Đầu lắc lư nhẹ theo nhịp đổi hướng, cuối cùng quay mặt nhìn thẳng vào ống kính, nụ cười xuất hiện trở lại.
+
+Video kết thúc khi động tác chuyển trọng tâm ngang và nảy người cuối cùng vẫn đang thực hiện, giữ trọn đà nhảy.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115996669972021248/img/_zjzCiZJtxgkOXLV.jpg" width="600" alt="Prompt Video Nhảy Douyin Seedance 2.0">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13173)**
+
+**Tác giả:** [kollectionca](https://x.com/kollectionca) | **Nguồn:** [Link](https://x.com/kollectionca/status/2115996967851675935) | **Đã xuất bản:** Oct 30, 2026
+
+---
+### Chìa khóa tạo nên sàn phòng ngủ trong mơ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video điện ảnh chân thực về cảnh một người đàn ông biến đống chìa khóa cổ thành sàn phòng ngủ bóng loáng phong cách terrazzo bằng nhựa epoxy và đánh bóng.
+
+#### 📝 Prompt
+
+```
+Một video điện ảnh chân thực quay bên trong căn phòng trống sáng sủa với những bức tường trắng, sàn bê tông trần và một khung cửa sổ lớn. Cảnh mở đầu là một người đàn ông để râu mặc quần yếm denim xanh dương, tay cầm xẻng đứng cạnh một đống khổng lồ gồm hàng ngàn chiếc chìa khóa cổ bằng đồng thau và sắt. Anh ta xúc và cào đống chìa khóa, dàn chúng thành một lớp đều đặn phủ kín toàn bộ mặt sàn như một tấm thảm kim loại. Tiếp đó, một người phụ nữ mặc quần yếm đỏ đổ lớp nhựa epoxy tự san phẳng màu trắng đặc sánh từ một xô nhựa lớn, dòng chất lỏng bóng loáng lan rộng ra thành từng vòng tròn cho đến khi nhấn chìm hoàn toàn những chiếc chìa khóa. Kế tiếp, một công nhân mặc áo phản quang màu vàng và đội mũ lưỡi trai đẩy máy đánh bóng sàn qua lại trên bề mặt đã khô cứng, mài nhẵn cho đến khi sàn nhà trở nên trắng bóng như gương, với phần đầu chìa khóa ánh vàng lấp ló xuyên qua lớp nhựa tựa như nền đá terrazzo. Cuối cùng, hai công nhân mặc đồ đen nhanh chóng lắp ráp khung giường gỗ óc chó sẫm màu, đặt nệm trắng lên trên, xếp thêm gối, một tấm chăn vắt vai màu be có tua rua cùng hai chiếc tủ đầu giường bằng gỗ kèm đèn gốm. Video khép lại bằng một cảnh tĩnh góc rộng ghi hình trọn vẹn phòng ngủ thiết kế vừa hoàn thiện, ánh nắng phản chiếu lấp lánh trên mặt sàn bóng loáng khảm đầy chìa khóa. Góc máy mượt mà, ánh sáng ban ngày tự nhiên, mang cảm giác time-lapse cải tạo không gian đầy thỏa mãn, siêu chi tiết, chân thực như ảnh chụp, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115913993273442304/img/6R-0vM0H07l2Nzj-.jpg" width="600" alt="Chìa khóa tạo nên sàn phòng ngủ trong mơ">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13169)**
+
+**Tác giả:** [Ruslan Ai](https://x.com/Ruslanchain) | **Nguồn:** [Link](https://x.com/Ruslanchain/status/2115914032884613494) | **Đã xuất bản:** Oct 29, 2026
+
+---
+### Sàn Phòng Ngủ Terrazzo Thủy Tinh Biển
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Câu lệnh tạo video phong cách tài liệu về quá trình cải tạo, trong đó mảnh thủy tinh biển nhiều màu được nhúng vào nhựa epoxy để tạo sàn terrazzo lấp lánh cho phòng ngủ mới.
+
+#### 📝 Prompt
+
+```
+Video dọc, căn phòng trống sáng sủa với những bức tường trắng, một khung cửa sổ lớn viền đen và sàn bê tông thô. Một người đàn ông mặc quần yếm xanh navy và áo phông đen đang cào đống thủy tinh biển khổng lồ đủ màu sắc với các sắc độ xanh dương, xanh lá và trong suốt, dàn đều khắp mặt sàn. Một người phụ nữ mặc quần yếm đỏ quỳ xuống, rót nhựa epoxy trắng sữa từ những chiếc xô trắng lên lớp kính, trong khi anh dùng bàn gạt để trải đều. Chuyển cảnh time-lapse khi lớp nhựa khô lại thành bề mặt bóng loáng. Các công nhân mặc áo đen, riêng một người khoác áo bảo hộ vàng neon, tiến hành mài và đánh bóng sàn bằng máy mài đẩy tay kèm máy hút bụi, để lộ ra mặt sàn nhẵn mịn tựa terrazzo lấp lánh những mảnh kính dưới ánh sáng ban ngày. Cảnh lắp ráp tua nhanh: hai công nhân đóng khung giường gỗ, xếp thanh nan, đặt nệm và bộ ga gối màu be trung tính. Cảnh tĩnh cuối cùng khép lại với phòng ngủ ấm cúng đã hoàn thiện: sàn kính tái chế lấp lánh, giường gỗ, tủ đầu giường, đèn ngủ và những tán cây xanh mướt hiện rõ qua khung cửa sổ. Phong cách phim tài liệu chân thực, ánh sáng tự nhiên, góc máy mượt mà, quá trình cải tạo đầy thỏa mãn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115913011823083520/img/i026LEQVmCZad7rf.jpg" width="600" alt="Sàn Phòng Ngủ Terrazzo Thủy Tinh Biển">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13170)**
+
+**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2115913066776785313) | **Đã xuất bản:** Oct 29, 2026
+
+---
+### Biến Đổi Sàn Từ Đá Cuội Sang Terrazzo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả video time-lapse về quy trình biến đổi những viên đá cuội màu cam thành sàn phòng ngủ phong cách terrazzo bóng loáng bằng nhựa epoxy, bao gồm cả quá trình lắp ráp không gian.
+
+#### 📝 Prompt
+
+```
+Video dọc quay trong một căn phòng trống sáng sủa với những bức tường trắng và khung cửa sổ lớn nhìn ra hàng cây xanh mướt bên ngoài. Một người đàn ông mặc bộ đồ bảo hộ màu xanh dương đang cào đống sỏi cam bóng loáng khổng lồ trên nền bê tông trần, rải đều chúng khắp cả căn phòng. Những người công nhân mặc đồ bảo hộ màu đỏ đổ nhựa epoxy tự san phẳng màu trắng từ các xô lên lớp sỏi, sau đó dùng bàn gạt và con lăn sơn dàn trải cho đến khi bề mặt phẳng lì, nhẵn mịn và bóng bẩy. Đoạn time-lapse ghi lại cảnh một công nhân mặc áo phản quang màu vàng và đeo mặt nạ phòng độc đang mài sàn đã khô cứng bằng máy đánh bóng, để lộ ra bề mặt trông như đá terrazzo điểm xuyết những viên sỏi cam tròn trịa. Đoạn time-lapse tua nhanh quá trình lắp đặt nội thất cho căn phòng: khung giường gỗ được dựng lên, trải ga giường trắng cùng những chiếc gối màu be, thêm một chiếc tủ đầu giường có đèn ngủ và treo tranh nghệ thuật trừu tượng đóng khung lên tường. Cảnh tĩnh cuối cùng cho thấy một phòng ngủ hoàn thiện ấm cúng với sàn sỏi cam được đánh bóng sáng lấp lánh dưới ánh sáng tự nhiên dịu nhẹ. Chân thực như ảnh chụp, video time-lapse cải tạo nhà cực kỳ mãn nhãn, chuyển động camera mượt mà, ánh sáng tự nhiên ấm áp.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115798362968424448/img/9CgbjQwDDoeZVfXq.jpg" width="600" alt="Biến Đổi Sàn Từ Đá Cuội Sang Terrazzo">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13168)**
+
+**Tác giả:** [Ruslan Ai](https://x.com/Ruslanchain) | **Nguồn:** [Link](https://x.com/Ruslanchain/status/2115798407444918459) | **Đã xuất bản:** Oct 29, 2026
+
+---
+### Sàn Gương Từ Phụ Kiện Xe Hơi Gỉ Sét
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả chi tiết cho video ASMR cải tạo, trong đó các bộ phận xe hơi gỉ sét được phủ bằng nhựa epoxy và đánh bóng để lộ ra sàn nhà sáng bóng như gương với những hình bóng chìm bên trong, tiếp theo là quá trình lắp đặt phòng ngủ.
+
+#### 📝 Prompt
+
+```
+Video ASMR cải tạo phòng cực đã mắt trong một căn phòng trống sáng sủa với những bức tường trắng, cửa sổ lớn nhìn ra hàng cây xanh mướt và nền bê tông thô. Một người đàn ông để râu mặc quần yếm màu xanh dương dùng chiếc cào dài dàn đều một đống lớn gồm cánh cửa, nắp capo và các tấm ốp xe hơi rỉ sét khắp mặt sàn, xếp chúng nằm phẳng cạnh nhau. Sau đó, một người phụ nữ mặc quần yếm đỏ đổ lớp epoxy resin tự san phẳng màu trắng đặc sánh từ xô lên trên những mảnh kim loại rỉ sét; chất lỏng bóng loáng lan rộng, bao phủ mọi thứ thành một bề mặt mịn màng trắng sữa. Khi lớp epoxy đã khô cứng, một công nhân mặc áo phản quang màu vàng đẩy máy mài đánh bóng sàn lướt qua bề mặt, dần làm lộ rõ những đường nét sắc sảo của các chi tiết xe hơi ẩn bên dưới lớp sàn trắng bóng gương phản chiếu ánh sáng ban ngày. Cuối cùng, hai công nhân mặc đồng phục đen đeo găng tay hồng khiêng vào một khung giường kim loại màu đen, đặt nệm lên rồi trải ga gối màu xám, hoàn thiện một phòng ngủ hiện đại. Góc máy lia mượt mà và zoom nhẹ theo từng thao tác, ánh sáng tự nhiên ban ngày, chi tiết siêu chân thực, chuỗi cảnh biến hình đầy thỏa mãn, định dạng dọc.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115797448610242561/img/8FXa9w6moNFSBAWO.jpg" width="600" alt="Sàn Gương Từ Phụ Kiện Xe Hơi Gỉ Sét">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13171)**
+
+**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2115797490725273924) | **Đã xuất bản:** Oct 29, 2026
+
+---
 ### Seedance 2.0 Mini Ancient Xianxia Video Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -624,6 +755,29 @@ Không thay đổi nhân vật, vũ khí,
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13129)**
 
 **Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2115629293430788360) | **Đã xuất bản:** Oct 29, 2026
+
+---
+### Prompt Trailer Điện Ảnh Phong Cách GTA 6
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Phân tích chi tiết về prompt dùng để tạo trailer điện ảnh phong cách GTA 6 chân thực với Seedance 2.0, bao gồm các thành phố neon, cảnh rượt đuổi bằng xe hơi và góc quay từ trực thăng.
+
+#### 📝 Prompt
+
+```
+Mở đầu bằng cú máy flyway hoàng hôn ngoạn mục, một thành phố nhiệt đới ngập tràn ánh neon, những hàng cọ lấp lánh in bóng trên nền trời. Sau đó, ống kính chuyển cảnh sang chiếc siêu xe thể thao màu đỏ lao vun vút qua con phố ướt nhẹp phản chiếu ánh đèn, hai bên san sát những biển hiệu neon rực rỡ sắc màu. Cuộc sống về đêm, dòng người đông đúc, các câu lạc bộ, tất cả hòa quyện trong sự cuồng nhiệt và năng lượng bùng nổ.
+
+Khi xe cảnh sát bắt đầu truy đuổi, không khí càng thêm căng thẳng. Những pha drift tốc độ cao, hiệu ứng mờ chuyển động (motion blur), ánh sáng thể tích (volumetric lighting) — mọi thứ đều đậm chất điện ảnh và tràn đầy sức sống.
+
+Kết thúc bằng góc quay hero shot đầy kịch tính bao trọn toàn cảnh thành phố, cùng chiếc trực thăng xé gió băng ngang bầu trời.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2115613087944634369/pu/img/Xt4oFu3EHB78xvtZ.jpg" width="600" alt="Prompt Trailer Điện Ảnh Phong Cách GTA 6">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13172)**
+
+**Tác giả:** [财经世界观](https://x.com/CaijingView) | **Nguồn:** [Link](https://x.com/CaijingView/status/2115613143519096838) | **Đã xuất bản:** Oct 29, 2026
 
 ---
 ### Video Cải Tạo Sàn Nhựa Resin Hoa Cúc Vạn Thọ
@@ -3955,171 +4109,6 @@ Hẻm dịch vụ phía sau tòa nhà dẫn đến cửa hàng quần áo hướ
 **Tác giả:** [探路AI](https://x.com/TanLuAI) | **Nguồn:** [Link](https://x.com/TanLuAI/status/2107763438747521348) | **Đã xuất bản:** Oct 7, 2026
 
 ---
-### Cảnh ăn trưa trong căng-tin trường học phong cách điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video điện ảnh siêu thực về một nữ sinh cầm khay cơm trong căng-tin trường học Hàn Quốc. Tập trung vào chi tiết chân thực, ánh sáng và bố cục.
-
-#### 📝 Prompt
-
-```
-Cảnh quay điện ảnh siêu thực của một nữ sinh Đông Á trẻ tuổi đứng trong căng-tin trường học Hàn Quốc sáng sủa, mặc áo sơ mi đồng phục trắng gọn gàng với cà vạt kẻ caro xanh dương và váy navy tối màu, cầm khay cơm bằng thép không gỉ hướng về phía máy quay. Khay cơm gồm cơm trắng nóng hổi, canh cay đỏ, xúc xích, rau củ và các món ăn kèm truyền thống. Các học sinh khác ngồi ở bàn trong hậu cảnh được làm mờ nhẹ nhàng. Ánh sáng tự nhiên trong nhà, kết cấu thức ăn chân thực, độ sâu trường ảnh nông, bokeh mượt mà, bố cục điện ảnh, chi tiết da và vải rõ nét, ống kính 85mm, f/1.8, HDR, siêu thực, 8K, bố cục dọc 9:16, bầu không khí đời thường ấm áp và chân thực của cuộc sống học đường
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107699321319858176/img/Jphi94bk2Oh7lRFB.jpg" width="600" alt="Cảnh ăn trưa trong căng-tin trường học phong cách điện ảnh">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12053)**
-
-**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2107699358762422759) | **Đã xuất bản:** Oct 7, 2026
-
----
-### Cảnh Phim Điện Ảnh Tại Sân Ga Đường Sắt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hướng dẫn tạo video chi tiết để dựng một cảnh phim điện ảnh dài 15 giây về một người đàn ông chờ đợi trên sân ga trong mưa. Kịch bản này quy định rõ các chuyển động camera, ánh sáng, chỉnh màu và hiệu ứng âm thanh nhằm xây dựng một mạch truyện giàu cảm xúc.
-
-#### 📝 Prompt
-
-```
-Cảnh phim điện ảnh dọc tỷ lệ 9:16 kéo dài 15 giây, tốc độ khung hình 24fps, phong cách ống kính anamorphic 35mm, mang tông màu u buồn và giàu cảm xúc.
-0-3s (thiết lập): Ban đêm, một sân ga đường sắt vắng lặng dưới cơn mưa nhẹ. Một chàng trai trẻ mặc áo khoác dài đứng cô đơn, tay cầm một chiếc phong bì cũ, hơi thở hiện rõ trong không khí lạnh. Camera di chuyển chậm dolly-in từ phía sau lưng anh.
-3-7s (căng thẳng): Cận cảnh khuôn mặt khi anh nhìn vào phong bì, rồi ngước lên phía ánh đèn tàu hỏa ở xa đang dần hiện ra qua màn sương mù. Đôi tay anh run rẩy nhẹ. Chuyển tiêu điểm (rack focus) từ phong bì sang đôi mắt của anh.
-7-11s (bước ngoặt): Tàu đến kèm theo luồng gió mạnh. Áo khoác và tóc của anh bị thổi bay sang bên. Anh do dự, rồi để chiếc phong bì trượt khỏi ngón tay rơi xuống nền sân ga ướt sũng. Hiệu ứng slow-motion, những giọt nước lơ lửng trong không trung.
-11-15s (kết thúc): Cửa tàu mở ra, ánh sáng vàng ấm áp tràn ngập khuôn mặt anh. Anh bước lên tàu mà không ngoái lại. Camera giữ nguyên khung hình tập trung vào chiếc phong bì nằm trên sân ga khi con tàu rời đi, sau đó mờ dần sang đen.
-Phong cách hình ảnh: Chỉnh màu teal và amber, bóng đổ sâu, ánh sáng thực tế mềm mại, hạt phim tinh tế, độ sâu trường ảnh nông.
-Âm thanh: Tiếng mưa rơi nhẹ, tiếng gầm của tàu từ xa tăng dần cường độ, một nốt piano duy nhất kéo dài vang lên khi tàu đến, sự tĩnh lặng tuyệt đối ở cảnh fade cuối cùng. Không có lời thoại.
-Văn bản: Không có.
-Ngôn ngữ: Không có giọng nói và không có văn bản trên màn hình, nên không gặp vấn đề về ngôn ngữ.
-Tránh: Bàn tay biến dạng, khuôn mặt méo mó, nhấp nháy, văn bản lỗi, watermark, thừa chi tay chân.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107427869517590528/img/Ca8Q0vKPSHYSNxix.jpg" width="600" alt="Cảnh Phim Điện Ảnh Tại Sân Ga Đường Sắt">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12054)**
-
-**Tác giả:** [ORHAN](https://x.com/OrhanGhazi65942) | **Nguồn:** [Link](https://x.com/OrhanGhazi65942/status/2107427996705718600) | **Đã xuất bản:** Oct 6, 2026
-
----
-### Cảnh bóng rổ vui nhộn với linh vật chú chó
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video siêu thực về một cô gái Hàn Quốc chơi bóng rổ cùng linh vật chó khổng lồ, với các chuyển động camera mượt mà và phong cách thẩm mỹ lấy cảm hứng từ phim truyền hình Hàn Quốc (K-drama).
-
-#### 📝 Prompt
-
-```
-Một cô gái Hàn Quốc xinh đẹp với mái tóc đen dài, mặc áo ba lỗ đen ôm sát, quần short thể thao màu đen và giày sneaker trắng, đang chơi bóng rổ trên sân bóng rổ ngoài trời màu cam được bao quanh bởi những tán cây xanh mướt. Một linh vật chú chó hoạt hình màu trắng quá khổ dễ thương với đôi tai đen rủ xuống đang đứng đối diện cô, cầm và nảy quả bóng rổ. Cảnh quay bắt đầu bằng một góc máy điện ảnh rộng cho thấy cô gái đang đối mặt với nhân vật chú chó khổng lồ gần vành bóng rổ. Cô tương tác vui vẻ với linh vật trong khi dẫn bóng, tạo ra một bầu không khí thú vị và quyến rũ. Camera di chuyển mượt mà giữa các cảnh quay rộng và cận trung, nắm bắt biểu cảm tự nhiên của cô gái, mái tóc bay bổng, chuyển động cơ thể chân thực và phản ứng đáng yêu của linh vật. Ở giữa video, cô gái bước lại gần camera hơn trong khi cầm bóng rổ, trông tự tin và hơi tinh nghịch. Nhân vật chú chó khổng lồ vẫn hiện diện ở phía sau, phản ứng hài hước với các động tác của cô. Về cuối, cô di chuyển trở lại phía vành bóng rổ và chuẩn bị cho một khoảnh khắc bóng rổ vui nhộn khác trong khi linh vật xuất hiện ở tiền cảnh. Cô gái Hàn Quốc siêu thực, kết cấu da tự nhiên, đặc điểm khuôn mặt chân thực, danh tính nhất quán, chi tiết từng sợi tóc, chuyển động thể thao chân thực, ánh sáng ngoài trời mang tính điện ảnh, ánh sáng ban ngày dịu nhẹ nhiều mây, độ sâu trường ảnh nông, chuyển động camera cầm tay mượt mà, kết cấu sân bóng rổ chân thực, bóng đổ tự nhiên, chất lượng điện ảnh 4K chi tiết cao, phong cách hình ảnh vui nhộn lấy cảm hứng từ K-drama, không biến dạng khuôn mặt, không thừa ngón tay, không có chuyển động cơ thể bất thường, không có văn bản hoặc watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107339831844171776/img/4LsCyW9rPzzslP5o.jpg" width="600" alt="Cảnh bóng rổ vui nhộn với linh vật chú chó">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11984)**
-
-**Tác giả:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Nguồn:** [Link](https://x.com/ayzalnooor24521/status/2107340030536741222) | **Đã xuất bản:** Oct 6, 2026
-
----
-### Cuộc tấn công của quái vật tại khu phố ngoại ô
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt cho một cảnh quay điện ảnh nặng về VFX, nơi một sinh vật khổng lồ trồi lên từ mặt đất trong bối cảnh ngoại ô lúc hoàng hôn.
-
-#### 📝 Prompt
-
-```
-Cảnh quay điện ảnh siêu thực tại một khu phố ngoại ô lúc hoàng hôn. Một vật thể phát sáng bí ẩn xuất hiện trên bãi cỏ khi một sinh vật xanh khổng lồ, kỳ dị đột ngột trồi lên từ mặt đất. Cơ thể to lớn, kết cấu nhầy nhụa, đôi mắt biểu cảm đầy giận dữ, chi tiết da chân thực. Bụi và mảnh vỡ bay tung trong không khí. Một người đàn ông kinh hãi đứng nhìn từ xa. Phía sau là ngôi nhà sang trọng kiểu ngoại ô. Ánh sáng giờ vàng kịch tính, sương mù bao phủ, chuyển động máy quay điện ảnh, độ sâu trường ảnh nông, hiệu ứng hình ảnh (VFX) siêu thực, cực kỳ chi tiết, 8K, bóng đổ chân thực, phong cách phim Hollywood hoành tráng, bố cục dọc 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107333865253773312/img/OglQcBBKfBfaKX1l.jpg" width="600" alt="Cuộc tấn công của quái vật tại khu phố ngoại ô">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11985)**
-
-**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2107333962402341067) | **Đã xuất bản:** Oct 6, 2026
-
----
-### Cyberpunk Woman Neon Alley
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating an ultra-realistic cyberpunk scene of a young woman walking through a neon-lit alley, focusing on fashion details, lighting, and camera specs.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic cyberpunk scene of a fierce young woman walking confidently through a dark neon-lit city alley at night. She has long dark hair, an intense expression, and wears a futuristic white oversized jacket over a red cropped top, black tactical pants, gloves, and utility accessories. Wet streets reflecting red and warm city lights, atmospheric mist, glowing signs, dramatic shadows, shallow depth of field, cinematic bokeh, dynamic camera movement, realistic skin and fabric textures, high detail, moody action-film atmosphere, 85mm lens, f/1.4, HDR, 8K, photorealistic, vertical 9:16 composition.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106972520972947456/img/0SDQbYzRuv36V6Vl.jpg" width="600" alt="Cyberpunk Woman Neon Alley">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11918)**
-
-**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2106972552119963744) | **Đã xuất bản:** Oct 5, 2026
-
----
-### Prompt Video Seedance cho Câu chuyện Hài hước về Đám cưới
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một prompt tạo video chi tiết cho Seedance, tạo ra một câu chuyện hài hước dài 15 giây về việc một cô gái yêu cầu bạn trai nhuộm tóc xanh lá nếu anh ấy tham dự đám cưới tương lai của cô với người khác. Prompt bao gồm hướng dẫn về tính nhất quán của nhân vật, chuyển cảnh, chuyển động máy quay và lời thoại cụ thể.
-
-#### 📝 Prompt
-
-```
-15 giây, tỷ lệ khung hình ngang 16:9, kết cấu chân thực như phim người đóng (live-action), bối cảnh đô thị hiện đại Trung Quốc. Nửa đầu là cuộc trò chuyện tự nhiên và thân mật giữa một cặp đôi; nửa sau cắt cứng sang một đám cưới phong cách phương Tây tại một khách sạn trong tương lai. Máy quay từ từ lùi lại, dần dần tiết lộ những nam khách mời với màu tóc khác nhau, tạo nên một cú twist hài hước và ngượng ngùng phi lý. Diễn xuất của nhân vật được kiểm soát tinh tế; môi trường, da, trang phục và ánh sáng đều chân thực và tự nhiên.
-[Nhân vật và Tính nhất quán]
-Nữ chính là một phụ nữ Trung Quốc trẻ tuổi @image (31). Cô dâu trong đám cưới tương lai phải là cùng một người phụ nữ này, duy trì các đặc điểm khuôn mặt và đường nét nhất quán, chỉ thay đổi kiểu tóc, trang điểm và trang phục.
-Nam chính là một thanh niên Trung Quốc trẻ tuổi, bắt đầu với mái tóc đen ngắn bình thường và trang phục hàng ngày thoải mái. Tại đám cưới tương lai, các đặc điểm khuôn mặt, hình dáng mặt,体型 (dáng người) và đường nét kiểu tóc vẫn giữ nguyên, nhưng anh mặc bộ vest vừa vặn và đã nhuộm tóc màu xanh lá rõ rệt, đáp ứng yêu cầu mà cô gái đưa ra ở đầu video. Anh không được phép thay đổi thành một khuôn mặt khác do sự thay đổi của cảnh hoặc màu tóc.
-Chú rể là một người đàn ông Trung Quốc trưởng thành khác, hơi mũm mĩm, tóc đen, ngoại hình rõ ràng khác biệt so với nam chính, mặc trang phục chú rể trang trọng.
-Có nhiều nam khách mời trưởng thành tại địa điểm tổ chức đám cưới, mỗi người có tóc màu đỏ, xanh dương, tím, vàng hoặc cam, bao gồm một người đàn ông khác cũng có tóc màu xanh lá. Ngoại hình, chiều cao, dáng người, kiểu tóc và vest của họ đều khác nhau. Tóc nhuộm giữ lại các sợi tóc thật, chân tóc và độ bóng, trông không giống tóc giả màu sắc hay phát sáng.
-[0-7s: Cuộc trò chuyện hàng ngày của cặp đôi]
-Công viên thành phố bình thường hoặc khu vực dưới tầng chung cư, buổi tối, ánh sáng tự nhiên dịu nhẹ, có chút âm thanh sinh hoạt nền trong trẻo.
-Cô gái và chàng trai ngồi cạnh nhau trên ghế băng. Sử dụng cận cảnh trung (medium close-up) hai người, nhận diện rõ ràng khuôn mặt của họ. Cô gái quay sang nhìn chàng trai, nắm tay anh, nói chuyện một cách âu yếm, nghiêm túc, với một chút nũng nịu, như thể tình cờ nhắc đến điều gì đó lãng mạn. Chàng trai nhìn cô sâu lắng.
-Cô gái nói hoàn toàn rõ ràng:
-"Anh ơi, nếu người cưới em trong tương lai không phải là anh, thì anh phải nhuộm tóc xanh lá để đi dự đám cưới của em, để em có thể nhận ra anh ngay lập tức."
-Được nói với nhịp điệu hàng ngày tự nhiên, hơi nhanh, mạch lạc, không cố tình kéo dài, không nuốt chữ, không tăng tốc cơ học. Trong khi cô gái nói, chàng trai nhìn cô lắng nghe, thể hiện một nụ cười mờ nhạt vừa cảm động vừa bối rối, không thêm lời hồi đáp.
-Duy trì diễn xuất liên tục, thiết lập rõ ràng khuôn mặt của nam chính. Cô gái không cười khẩy trước, không nháy mắt vào camera, không báo trước cú twist sau đó.
-[7-9s: Cắt cứng sang Đám cưới Tương lai, Đầu tiên thấy Cùng Khuôn mặt, Sau đó là Tóc Xanh]
-Ngay khi cô gái kết thúc từ cuối cùng "em", lập tức cắt cứng sang cảnh đám cưới tại khách sạn. Âm thanh môi trường đồng bộ chuyển từ âm thanh sinh hoạt ngoài trời sang tiếng vỗ tay và giọng nói mơ hồ trong phòng tiệc.
-Cắt sang cận cảnh phía trước khuôn mặt của cùng một nam chính. Mép trên của khung hình ban đầu bị cắt dưới đường viền chân tóc, tạm thời che giấu mái tóc, để khán giả nhận ra anh là chàng trai từ khoảnh khắc trước.
-Anh ngồi trong chỗ ngồi của khách mời đám cưới, mặc vest, với biểu cảm hơi gò bó, mang theo sự kỳ vọng phức tạp, ánh mắt hướng về lối đi vào.
-Máy quay sau đó di chuyển chậm rãi và ổn định về phía sau, dần dần tiết lộ toàn bộ đầu của anh—anh đã nhuộm tóc xanh lá.
-Màu xanh lá được khán giả nhìn thấy lần đầu tiên tại khoảnh khắc này. Anh đã có tóc xanh ngay từ khi bắt đầu bước vào cảnh đám cưới, không có hiệu ứng đổi màu tại chỗ nào xuất hiện.
-[9-12s: Chú Rể và Cô Dâu Xuất Hiện, Các Màu Tóc Khác Dần Xuất Hiện]
-Máy quay tiếp tục di chuyển về phía sau, mở rộng từ cận cảnh sang trung cảnh, thực hiện các điều chỉnh ngang nhẹ để giữ nam chính tóc xanh ở một bên khung hình, dần dần tiết lộ lối đi trung tâm của đám cưới.
-Cảnh là một phòng tiệc khách sạn thực được bố trí cho một đám cưới phong cách phương Tây, với các sắp xếp hoa màu sáng, ghế trắng hoặc be, đèn trần ấm áp và lối đi vào trải thảm. Ánh sáng có nguồn rõ ràng, váy cưới giữ lại các chi tiết vải, không có hiệu ứng xứ sở thần tiên mơ mộng.
-Trên lối đi nền, cô gái từ phần mở đầu mặc váy cưới, khoác tay chú rể hơi mũm mĩm, bước vào chậm rãi. Ngoại hình và dáng người của chú rể rõ ràng khác với nam chính tóc xanh.
-Nam chính ban đầu nhìn cô dâu, cố gắng giữ một nụ cười mờ nhạt. Khi máy quay lùi lại, một nam khách mời tóc đỏ và một nam khách mời tóc xanh dương lần lượt xuất hiện trong khung hình gần anh.
-Anh vô tình liếc nhìn người đàn ông tóc đỏ bên cạnh, nụ cười của anh dừng lại một chút, sau đó nhìn sang người đàn ông tóc xanh lá ở phía bên kia, lông mày khẽ động, bắt đầu cảm thấy có điều gì đó không ổn.
-[12-15s: Tiết Lộ Thêm Nhiều Người Đàn Ông Tóc Màu, Nam Chính Ngạc Nhiên Nhìn Quanh]
-Máy quay tiếp tục di chuyển về phía sau theo cùng quỹ đạo, mở rộng sang góc nhìn rộng hơn chứa nam chính, các hàng khách mời xung quanh và lối đi đám cưới. Phần đám cưới vẫn liên tục, không còn cắt nữa.
-Thêm nhiều nam khách mời với các màu tóc khác nhau dần xuất hiện trong khung hình: tím, vàng, cam và một người đàn ông tóc đỏ khác khác biệt với nam chính về ngoại hình, dáng người và kiểu tóc.
-Bao gồm cả nam chính, khoảng sáu đến tám người đàn ông có tóc màu rải rác ngồi ở các hàng liền kề, xen kẽ với các khách mời tóc đen bình thường. Không phải tất cả khách mời đều nhuộm tóc, và họ cũng không tạo thành một hàng cầu vồng gọn gàng.
-Họ đều khác nhau: một số gầy, một số chắc khỏe, một số hơi mũm mĩm; một số cắt cua, một số rẽ ngôi ngắn, một số hơi xoăn. Vest màu đen, xanh đậm, xám, nâu, với sự khác biệt rõ ràng về độ vừa vặn, cà vạt và phối sơ mi, trông giống như những khách mời đám cưới thực sự được mời độc lập.
-Những người này đã ngồi ở vị trí ban đầu của họ kể từ khi bắt đầu cảnh quay đám cưới, chỉ bị che khuất bởi bố cục chặt chẽ ban đầu, trở nên khả kiến khi máy quay di chuyển về phía sau, không thể xuất hiện từ hư không hoặc đột ngột nhuộm tóc.
-Nam chính nhìn sang trái trước, rồi sang phải, cuối cùng quay nhẹ để nhìn chéo ra phía sau, phát hiện một người đàn ông tóc xanh lá khác. Biểu cảm của anh thay đổi từ bối rối sang ngạc nhiên và lúng túng, môi hơi hé mở, như thể cuối cùng nhận ra rằng anh có thể không phải là người duy nhất nhận được lời hứa như vậy.
-Các người đàn ông tóc màu khác chủ yếu tiếp tục xem đám cưới, một số có thể giao tiếp bằng mắt ngắn gọn với anh, không đồng loạt quay đầu hoặc phản ứng cùng lúc.
-Phần kết thúc đồng thời bảo lưu cái nhìn ngạc nhiên quanh quất của nam chính, những người đàn ông xung quanh với các màu tóc khác nhau, và cô dâu chú rể tiếp tục bước vào ở hậu cảnh. Màn hình kết thúc tự nhiên, không có lời thoại thừa để giải thích punchline.
-[Quay phim, Diễn xuất và Bầu không khí Chân thực]
-Mở đầu sử dụng ánh sáng ban ngày tự nhiên, đám cưới sử dụng ánh sáng nội thất khách sạn ấm áp. Tông màu da bình thường, giữ lại kết cấu da, vest có nếp nhăn thực tế, váy cưới có trọng lượng, tóc nhuộm có các lớp sáng tối tự nhiên.
-Nửa đầu cảm giác như một cặp đôi thực sự đang trò chuyện ngẫu hứng, nửa sau cảm giác như một khám phá ngượng ngùng xảy ra tại một cảnh đám cưới thực tế. Nam chính biểu đạt cảm xúc qua giao tiếp bằng mắt, vi biểu cảm và nhìn sang trái phải, không có hành động trợn mắt to cartoonish, há miệng hoặc che mặt.
-Việc lùi máy quay trong đám cưới sử dụng chuyển động lùi thực tế của máy quay, tốc độ ổn định, sắp xếp vị trí khách mời trước để các màu tóc khác nhau xuất hiện trong khung hình theo thứ tự. Sau khi lùi lại, dần tăng độ sâu trường ảnh, đảm bảo mối quan hệ giữa nam chính, các khách mời tóc màu và cặp đôi mới cưới ở hậu cảnh có thể phân biệt được, không bao giờ làm mờ các nhân vật xung quanh thành các khối màu.
-Không có chất lượng DV retro, rung tay quá mức, ống kính fisheye, zoom đột ngột, quỹ đạo tốc độ cao, slow motion, da nhựa hoặc bộ lọc nặng nề.
-[Âm thanh]
-Mở đầu giữ lại lời thoại của cô gái và âm thanh sinh hoạt ngoài trời nhẹ nhàng. Sau khi cắt cứng, nhập vào tiếng vỗ tay tự nhiên, tiếng sột soạt của vải, tiếng kêu cót két của ghế và các cuộc trò chuyện mơ hồ trong phòng tiệc khách sạn.
-Lời thoại khớp chính xác với cử động môi của cô gái, nam chính không nói thay cô hoặc ngắt lời. Không thêm lời thoại rõ ràng trong phần đám cưới.
-Không có lời dẫn truyện, không có nhạc nền.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106953873076486145/img/IOpYXcKBoJQlAILi.jpg" width="600" alt="Prompt Video Seedance cho Câu chuyện Hài hước về Đám cưới">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11920)**
-
-**Tác giả:** [探路AI](https://x.com/TanLuAI) | **Nguồn:** [Link](https://x.com/TanLuAI/status/2106955448352231762) | **Đã xuất bản:** Oct 5, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -4181,6 +4170,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-30T04:53:24.419Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-30T15:16:21.211Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6603** |
+| 📝 Gesamtanzahl Prompts | **6609** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-10-30** |
 
@@ -361,6 +361,137 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Seedance 2.0 Douyin-Tanzvideo-Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Prompt zur Generierung eines 15-sekündigen vertikalen Tanzvideos mit Seedance 2.0, einschließlich spezifischer Kamerabewegungen, Choreographieschritte und Anweisungen zur Konsistenz der Charaktere.
+
+#### 📝 Prompt
+
+```
+15 Sekunden, Seitenverhältnis 9:16, kurzes Video einer realen Frau, die auf Douyin tanzt (im TikTok-Stil). Eine einzige durchgehende Einstellung, bei der Aussehen, Kleidung und Szene der Referenzperson beibehalten werden. Die Handbewegungen gehen niemals über den Kopf hinaus. „Links“ und „rechts“ beziehen sich auf die eigene linke und rechte Seite der Tänzerin.
+
+Gesamtablauf: Zwei deutlich voneinander abgegrenzte, aufeinanderfolgende Tanzsequenzen, verbunden durch den Übergang „rechte Hand greift/zieht die Kamera nah ans Gesicht, linke Hand schwingt nach außen und zieht die Kamera wieder zurück“. Die Person bewegt sich weiterhin hüpfend im selben Tanzbereich, wobei Schultern, Hüfte und Arme synchron arbeiten. Die Bewegungen leben vom Kontrast zwischen weiten, ausladenden Streckungen und schnellen Rückholbewegungen, wobei jeder Abschnitt direkt in den nächsten übergeht.
+
+[0–3s | Erster Teil: Hüftstütze & Streckung]
+KAMERAPERSPEKTIVE: Frontale Halbtotale, vom Scheitel bis knapp über die Knie, sodass Schultern, Taille, Hüfte und Arme vollständig zu sehen sind.
+
+Der Tanz hat bereits begonnen. Die linke Hand stützt die Hüfte, die rechte Handfläche streckt sich der Kamera entgegen und wird dann vor die Schulter zurückgezogen – abgestimmt darauf neigt sich der Körper erst nach rechts und kehrt dann nach links zurück. Die Knie federn elastisch, die Schulterlinie kippt mit dem Richtungswechsel der Hüfte. Die erste Streckung ist weit und ausladend, das Zurückziehen erfolgt schnell; wenn der Arm zurückgeht, hat der Körper den nächsten Richtungswechsel bereits eingeleitet. Der Kopf schwingt locker mit dem Körper mit, der Blick ist anfangs entspannt auf die Kamera gerichtet, beim zweiten Zurückziehen der Hand zeigt sich ein leichtes Lächeln.
+
+[3–6s | Überkreuztes Absinken, Handflächenstoß mit Richtungswechsel]
+Die rechte Hand sinkt natürlich vor den Bauch, die linke löst sich von der Taille, beide Unterarme überkreuzen sich vor Taille bzw. Bauch. Die Knie beugen sich leicht, der Körper sinkt entsprechend mit. Unmittelbar danach öffnen sich die Arme weit und der Körper richtet sich wieder zur linken Seite hin auf.
+
+Die linke Handfläche berührt die Brust, die rechte stößt von der Brust nach rechts vorne, Schultern und Brustkorb drehen sich durch den Stoß leicht schräg; beim Zurückziehen der Hand richtet sich der Körper wieder auf. Danach folgt ein weiterer Stoß nach vorn, zeitgleich wechselt die Hüfte die Richtung. Die Handflächen behalten stets eine klare Ausrichtung, Stoßen und Zurückziehen bilden eine vollständige, kurze Bewegungsphrase.
+Der letzte Stoß geht fließend in eine Bewegung über, die zur Kamera greift.
+
+[6–8s | Greifen und ans Gesicht ziehen, Hand wegschwingen]
+Die rechte Hand greift zur Kamera, die Finger schließen sich deutlich sichtbar zu einem lockeren Griff. Sofort danach zieht der rechte Ellbogen scharf nach hinten, die Faust gleitet seitlich am Gesicht vorbei zurück vor die rechte Schulter, Schultern und Brustkorb werden dabei nach hinten mitgenommen.
+
+KAMERAPERSPEKTIVE: Während des Greifens und Heranziehens bleibt der Abstand zunächst gleich. In dem Moment, in dem der rechte Ellbogen zurückzieht, fährt die Kamera synchron und schnell auf eine Gesichts-Nahaufnahme zu und bremst vor dem Gesicht ab. Die Kamerabewegung endet exakt gleichzeitig mit dieser Zugbewegung.
+
+Im Moment der Nahaufnahme dreht sie den Kopf leicht, ihr Blick fängt die Kamera präzise ein, die Mundwinkel heben sich. Der Körperrhythmus läuft weiter: Die rechte Hand senkt sich vor der Brust herab, die linke schwingt sofort von der Brustmitte nach links heraus – Hand und Schulter führen diesen Schwung gemeinsam aus.
+
+KAMERAPERSPEKTIVE: Sobald die linke Hand ausschwingt, schnell zurückziehen und wieder die Halbtotale vom Scheitel bis knapp über die Knie herstellen. Die Person bleibt durchgehend zentriert.
+
+[8–11s | Zurückziehen beim Übergang zum zweiten Teil: Abwechselnde Arme auf Schulterhöhe]
+Während die Kamera zurückfährt, hat der ausgeschwungene linke Arm den Ellbogen bereits zum Zurückholen gebeugt. Gleichzeitig hebt sich der rechte Arm, sodass beide locker geschlossenen Hände unterhalb der Schulterhöhe ankommen.
+
+Die Schultern stoßen abwechselnd nach links und rechts vor, die gebeugten Ellbogen reagieren spiegelbildlich – einer vorn, einer hinten. Die Hüfte unterstützt die Gewichtsverlagerung nach links und rechts, die Knie federn locker weiter. Nach einem kompletten Links-Rechts-Wechsel fallen die Hände zusammen und überkreuzen sich vor der Taille, um sich sofort wieder zu den Seiten zu öffnen – daraus entsteht ein deutliches Absinken und Aufrichten. Die Abläufe sind fließend, das Überkreuzen dient als Spannungsaufbau für die nächste Öffnung.
+
+Der Gesichtsausdruck entspannt sich ganz natürlich aus dem Lächeln der Nahaufnahme heraus, der Kopf neigt sich leicht mit der Schulterlinie. Wenn sich die Arme öffnen, geht der Blick wieder geradeaus in die Kamera.
+
+[11–15s | Zeigen am Gesicht, weite Bewegung aus tiefer Position]
+Nachdem sich die Arme geöffnet haben, zieht sich die rechte Hand seitlich ans Gesicht zurück und formt dort ein klares Bild mit erhobenem Zeigefinger, während der linke Unterarm vor Taille/Bauch bleibt. Der linke Fuß macht einen kleinen Schritt und landet links mit Gewichtsübernahme. Die Hüfte drückt nach links, die Schulterlinie kippt entgegengesetzt. Beim Richtungswechsel des Körpers öffnet sich der linke Unterarm zur Seite, die rechte Hand behält ihre Pose am Gesicht kurz bei.
+
+Anschließend gleitet die rechte Hand vor der Brust herab und überkreuzt sich mit dem linken Unterarm vor Taille/Bauch, die Knie beugen sich leicht. Sofort lösen sich die Arme wieder: Die Ellbogen bleiben nah an den Körperseiten, die Unterarme öffnen sich zu beiden Seiten, passend zu zwei aufeinanderfolgenden Gewichtsverlagerungen nach links und rechts. Der Kopf schwingt leicht mit dem Richtungswechsel mit, am Ende dreht sie das Gesicht zur Kamera, das Lächeln kehrt zurück.
+
+Das Video endet, während die letzte Seitwärtsbewegung samt Rückfederung noch ausklingt – so bleibt die Dynamik des Tanzes erhalten.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115996669972021248/img/_zjzCiZJtxgkOXLV.jpg" width="600" alt="Seedance 2.0 Douyin-Tanzvideo-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13173)**
+
+**Autor:** [kollectionca](https://x.com/kollectionca) | **Quelle:** [Link](https://x.com/kollectionca/status/2115996967851675935) | **Veröffentlicht:** Oct 30, 2026
+
+---
+### Schlüssel zum perfekten Traumschlafzimmer-Boden
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines realistischen, kinoreifen Videos eines Mannes, der einen Haufen antiker Schlüssel mit Epoxidharz und Politur in einen glänzenden Terrazzo-Boden für ein Schlafzimmer verwandelt.
+
+#### 📝 Prompt
+
+```
+Ein realistisches, cineastisches Video in einem hellen, leeren Raum mit weißen Wänden, nacktem Betonboden und einem großen Fenster. Es beginnt mit einem bärtigen Mann in einer blauen Jeans-Latzhose, der eine Schaufel neben einem riesigen Berg aus Tausenden antiken Messing- und Eisenschlüsseln hält. Er schaufelt und harkt den Haufen und verteilt die Schlüssel zu einer gleichmäßigen Schicht, die den gesamten Boden wie ein metallischer Teppich bedeckt. Anschließend gießt eine Frau in einer roten Latzhose dickflüssiges, weißes, selbstnivellierendes Epoxidharz aus einem großen Plastikeimer; die glänzende Flüssigkeit breitet sich kreisförmig aus, bis sie die Schlüssel vollständig umschließt. Danach schiebt ein Arbeiter in gelber Warnweste und Kappe eine Bodenpoliermaschine über die ausgehärtete Oberfläche hin und her und poliert sie zu einem spiegelglatten weißen Boden, durch dessen Harz die goldenen Schlüsselköpfe wie bei Terrazzo hindurchschimmern. Zum Schluss montieren zwei schwarz gekleidete Arbeiter zügig ein dunkles Nussbaum-Bettgestell, legen eine weiße Matratze darauf und dekorieren es mit Kissen, einer beigefarbenen Fransen-Tagesdecke sowie zwei hölzernen Nachttischen mit Keramiklampen. Das Video endet mit einer weiten, statischen Einstellung des fertigen Designer-Schlafzimmers, in dem sich das Sonnenlicht auf dem glänzenden, mit Schlüsseln versehenen Boden spiegelt. Fließende Kameraführung, natürliches Tageslicht, befriedigender Renovierungs-Zeitrraffer-Look, hyperdetailliert, fotorealistisch, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115913993273442304/img/6R-0vM0H07l2Nzj-.jpg" width="600" alt="Schlüssel zum perfekten Traumschlafzimmer-Boden">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13169)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2115914032884613494) | **Veröffentlicht:** Oct 29, 2026
+
+---
+### Meerglas-Terrazzo-Boden im Schlafzimmer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung eines dokumentarischen Videos über einen Renovierungsprozess, bei dem farbiges Meerglas in Epoxidharz eingebettet wird, um einen funkelnden Terrazzoboden in einem neuen Schlafzimmer zu schaffen.
+
+#### 📝 Prompt
+
+```
+Hochformat-Video, heller leerer Raum mit weißen Wänden, einem großen Fenster mit schwarzem Rahmen und einem rohen Betonboden. Ein Mann in marineblauer Latzhose und schwarzem T-Shirt harkt einen riesigen Haufen buntes Meerglas in Blau-, Grün- und Klarglastönen zusammen und verteilt es gleichmäßig auf dem Boden. Eine Frau in roter Latzhose kniet sich hin und gießt milchig weißes Epoxidharz aus weißen Eimern über das Glas, während er es mit einer Rakel verteilt. Zeitraffer-Übergang, während das Harz zu einer glänzenden Oberfläche aushärtet. Arbeiter in schwarzen Shirts und einer in einer neon-gelben Warnweste schleifen und polieren den Boden mit einer handgeführten Schleifmaschine und einem Staubsauger – zum Vorschein kommt ein glatter, terrazzoartiger Boden voller Glassplitter, der im Tageslicht funkelt. Schneller Aufbau im Zeitraffer: Zwei Arbeiter montieren ein hölzernes Bettgestell, legen Lattenrost, Matratze und neutrale beigefarbene Bettwäsche darauf. Abschließende statische Einstellung des fertigen, gemütlichen Schlafzimmers mit dem schimmernden Boden aus recyceltem Glas, Holzbett, Nachttischen, Lampen und grünen Bäumen, die durch das Fenster sichtbar sind. Realistischer Dokumentarstil, natürliches Licht, ruhige Kameraführung, befriedigender Renovierungsprozess.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115913011823083520/img/i026LEQVmCZad7rf.jpg" width="600" alt="Meerglas-Terrazzo-Boden im Schlafzimmer">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13170)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2115913066776785313) | **Veröffentlicht:** Oct 29, 2026
+
+---
+### Verwandlung von Kies in Terrazzo-Boden
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Zeitraffer-Video-Prompt, der den Prozess zeigt, wie orangefarbene Kieselsteine mit Epoxidharz zu einem polierten Terrazzo-Boden im Schlafzimmer verwandelt werden, einschließlich Raummontage.
+
+#### 📝 Prompt
+
+```
+Hochformat-Video in einem hellen, leeren Raum mit weißen Wänden und einem großen Fenster, durch das grüne Bäume zu sehen sind. Ein Mann in blauem Overall harkt einen riesigen Haufen glänzender orangefarbener Kieselsteine auf dem nackten Betonboden zusammen und verteilt sie gleichmäßig im gesamten Raum. Arbeiter in roten Overalls gießen weiße, selbstnivellierende Epoxidharzmasse aus Eimern über die Kiesel und verteilen sie anschließend mit Rakeln und Farbrollern, bis die Oberfläche flach, glatt und glänzend ist. Zeitraffer eines Arbeiters in gelber Warnweste und Atemschutzmaske, der den ausgehärteten Boden mit einer Schleifmaschine bearbeitet, wodurch eine terrazzoähnliche Oberfläche mit runden, orangefarbenen Kieseln zum Vorschein kommt. Schneller Zeitraffer der Raumeinrichtung: Ein Bettgestell aus Holz wird aufgebaut, mit weißer Bettwäsche und beigefarbenen Kissen bezogen, ein Nachttisch mit Lampe hinzugefügt und gerahmte abstrakte Kunst an der Wand aufgehängt. Abschließende statische Einstellung eines gemütlichen, fertig eingerichteten Schlafzimmers, in dem der polierte Orangenkiesel-Boden im sanften natürlichen Tageslicht erstrahlt. Fotorealistisch, befriedigender Renovierungs-Zeitraffer, fließende Kamerabewegung, warmes natürliches Licht.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115798362968424448/img/9CgbjQwDDoeZVfXq.jpg" width="600" alt="Verwandlung von Kies in Terrazzo-Boden">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13168)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2115798407444918459) | **Veröffentlicht:** Oct 29, 2026
+
+---
+### Rostige Autoteile Spiegelboden
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für ein ASMR-Renovierungsvideo, das zeigt, wie rostige Autoteile mit Epoxidharz überzogen und poliert werden, um einen spiegelnden Boden mit eingebetteten Silhouetten zu enthüllen, gefolgt von der Montage des Schlafzimmers.
+
+#### 📝 Prompt
+
+```
+Befriedigendes ASMR-Renovierungsvideo in einem hellen, leeren Raum mit weißen Wänden, einem großen Fenster mit Blick auf grüne Bäume und nacktem Betonboden. Ein bärtiger Mann in blauem Overall verteilt mit einem langen Rechen einen riesigen Haufen rostiger Autotüren, Motorhauben und Karosserieteile gleichmäßig auf dem Boden und legt sie flach Seite an Seite aus. Anschließend gießt eine Frau in rotem Overall dickflüssiges, weißes selbstverlaufendes Epoxidharz aus einem Eimer über die rostigen Metallteile; die glänzende Flüssigkeit breitet sich aus und verwandelt alles in eine glatte, milchige Oberfläche. Nach dem Aushärten schiebt ein Arbeiter in gelber Warnweste eine Bodenschleif- und Poliermaschine über die Fläche und legt nach und nach die klaren Silhouetten der Autoteile frei, die unter einem spiegelglatten weißen Boden eingebettet sind, der das Tageslicht reflektiert. Zum Schluss tragen zwei Arbeiter in schwarzen Uniformen mit pinkfarbenen Handschuhen ein schwarzes Metallbettgestell herein, legen eine Matratze darauf und beziehen das Bett mit grauer Bettwäsche und Kissen – fertig ist das moderne Schlafzimmer. Sanfte Kameraschwenks und behutsame Zooms begleiten das Geschehen, natürliches Tageslicht, hyperrealistische Details, befriedigende Transformations-Montage, vertikales Format.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115797448610242561/img/8FXa9w6moNFSBAWO.jpg" width="600" alt="Rostige Autoteile Spiegelboden">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13171)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2115797490725273924) | **Veröffentlicht:** Oct 29, 2026
+
+---
 ### Seedance 2.0 Mini Prompt für antikes Xianxia-Video
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -624,6 +755,29 @@ Charaktere, Waffen,
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13129)**
 
 **Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2115629293430788360) | **Veröffentlicht:** Oct 29, 2026
+
+---
+### GTA 6 Stil Cinematic Trailer Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Eine detaillierte Aufschlüsselung eines Prompts zur Generierung eines realistischen GTA-6-Cinematic-Trailers mit Seedance 2.0, der Neon-Städte, Verfolgungsjagden und Hubschrauber-Aufnahmen zeigt.
+
+#### 📝 Prompt
+
+```
+Beginnt mit einer atemberaubenden Luftaufnahme eines Sonnenuntergangs, einer neongetränkten Tropenstadt, Palmen, die vor dem Himmel glitzern. Dann schneidet die Kamera auf einen luxuriösen roten Sportwagen, der über nasse, spiegelnde Straßen rast, gesäumt von bunten Leuchtreklamen. Nachtleben, Menschenmassen, Clubs – pures Chaos und grenzenlose Energie.
+
+Als Polizeiwagen die Verfolgung aufnehmen, steigt die Spannung. High-Speed-Drifts, Bewegungsunschärfe, volumetrische Beleuchtung – alles voller cineastischer Atmosphäre und Lebendigkeit.
+
+Endet mit einem dramatischen Hero-Shot über der gesamten Stadt, während ein Helikopter durch den Himmel streift.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2115613087944634369/pu/img/Xt4oFu3EHB78xvtZ.jpg" width="600" alt="GTA 6 Stil Cinematic Trailer Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13172)**
+
+**Autor:** [财经世界观](https://x.com/CaijingView) | **Quelle:** [Link](https://x.com/CaijingView/status/2115613143519096838) | **Veröffentlicht:** Oct 29, 2026
 
 ---
 ### Marigold Harzboden Renovierungsvideo
@@ -3963,171 +4117,6 @@ Die Servicegasse hinter dem Gebäude führt direkt zur Straßenfront des Bekleid
 **Autor:** [探路AI](https://x.com/TanLuAI) | **Quelle:** [Link](https://x.com/TanLuAI/status/2107763438747521348) | **Veröffentlicht:** Oct 7, 2026
 
 ---
-### Kinematografische Szene: Mittagessen in der Schulkantine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung eines ultrarealistischen, kinematografischen Videos einer Schülerin in einer koreanischen Schulkantine mit einem Essensfach. Fokus auf fotorealistische Details, Beleuchtung und Komposition.
-
-#### 📝 Prompt
-
-```
-Ultrarealistische kinematografische Szene einer jungen ostasiatischen Schülerin, die in einer hellen koreanischen Schulkantine steht. Sie trägt ein ordentliches weißes Schuluniformhemd mit einer blau karierten Krawatte und einem dunkelblauen Rock und hält ein Edelstahl-Essensfach in Richtung Kamera. Das Fach enthält fluffigen gedämpften weißen Reis, rote scharfe Suppe, Würstchen, Gemüse und traditionelle Beilagen. Andere Schüler sitzen im weichgezeichneten Hintergrund an Tischen. Natürliche Innenbeleuchtung, realistische Essenstexturen, geringe Schärfentiefe, cremiges Bokeh, kinematografische Komposition, detaillierte Haut- und Stofftextur, 85-mm-Objektiv, f/1.8, HDR, fotorealistisch, 8K, vertikale 9:16-Komposition, warme authentische Atmosphäre des Schullebens.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107699321319858176/img/Jphi94bk2Oh7lRFB.jpg" width="600" alt="Kinematografische Szene: Mittagessen in der Schulkantine">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12053)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2107699358762422759) | **Veröffentlicht:** Oct 7, 2026
-
----
-### Cinematische Bahnhof-Plattform-Szene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Videoerstellung für eine 15-sekündige cinematische Szene eines Mannes, der auf einer regnerischen Bahnsteigplattform wartet. Er spezifiziert Kamerabewegungen, Beleuchtung, Color Grading und Audio-Hinweise, um einen emotionalen Erzählbogen zu schaffen.
-
-#### 📝 Prompt
-
-```
-Eine 15-sekündige vertikale 9:16 cinematische Story-Szene, 24fps, im Look von 35mm anamorph, stimmungsvoll und emotional.
-0-3s (Aufbau): Nacht, ein ruhiger, leerer Bahnsteig bei leichtem Regen. Ein junger Mann in einem langen Mantel steht allein und hält einen alten Umschlag, sein Atem ist in der kalten Luft sichtbar. Langsame Dolly-Bewegung von hinten auf ihn zu.
-3-7s (Spannung): Nahaufnahme seines Gesichts, während er den Umschlag betrachtet, dann nach oben zu einem fernen Zuglicht schaut, das durch den Nebel wächst. Seine Hände zittern leicht. Rack-Fokus vom Umschlag zu seinen Augen.
-7-11s (Wende): Der Zug trifft mit einem Windstoß ein. Sein Mantel und Haar peitschen zur Seite. Er zögert, lässt dann den Umschlag aus seinen Fingern auf den nassen Bahnsteig gleiten. Zeitlupe, Tropfen in der Luft.
-11-15s (Ende): Die Türen öffnen sich, warmes gelbes Licht fällt auf sein Gesicht. Er steigt ein, ohne sich umzublicken. Die Kamera bleibt auf dem Umschlag auf dem Bahnsteig, während der Zug abfährt, dann blendet es zu Schwarz.
-Look: Teal-und-Amber-Color-Grade, tiefe Schatten, weiches praktisches Licht, feines Filmkorn, geringe Schärfentiefe.
-Audio: Leiser Regen, anschwellendes fernes Zugrauschen, ein einzelner gehaltener Klavierton bei der Ankunft des Zuges, Stille beim letzten Fade-Out. Kein Dialog.
-Text: Keiner.
-Sprache: Keine Sprache und kein Bildschirmtext, daher keine Sprachprobleme.
-Vermeiden: Verzerrte Hände, verzerrte Gesichter, Flackern, unlesbarer Text, Wasserzeichen, zusätzliche Gliedmaßen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107427869517590528/img/Ca8Q0vKPSHYSNxix.jpg" width="600" alt="Cinematische Bahnhof-Plattform-Szene">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12054)**
-
-**Autor:** [ORHAN](https://x.com/OrhanGhazi65942) | **Quelle:** [Link](https://x.com/OrhanGhazi65942/status/2107427996705718600) | **Veröffentlicht:** Oct 6, 2026
-
----
-### Verspielte Basketball-Szene mit Hund-Maskottchen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für ein fotorealistisches Video eines koreanischen Mädchens, das Basketball mit einem riesigen Hund-Maskottchen spielt, mit sanften Kamerabewegungen und einer von K-Dramen inspirierten Ästhetik.
-
-#### 📝 Prompt
-
-```
-Eine schöne Koreanerin mit langen dunklen Haaren, die ein eng anliegendes schwarzes ärmelloses Top, schwarze Shorts und weiße Sneaker trägt, spielt Basketball auf einem orangefarbenen Outdoor-Basketballplatz, umgeben von üppig grünen Bäumen. Ein niedliches übergroßes weißes Cartoon-Hund-Maskottchen mit schwarzen Schlappohren steht ihr gegenüber und hält einen Basketball, den es aufprellt. Die Szene beginnt mit einer weiten kinematografischen Aufnahme, in der das Mädchen dem riesigen Hund-Charakter nahe am Basketballkorb zugewandt ist. Sie interagiert spielerisch mit dem Maskottchen, während sie den Ball dribbelt, was eine lustige und charmante Atmosphäre erzeugt. Die Kamera bewegt sich sanft zwischen Weitwinkel- und Halbnaheinstellungen, fängt die natürlichen Gesichtsausdrücke des Mädchens, ihre fließenden Haare, realistische Körperbewegungen und die niedlichen Reaktionen des Maskottchens ein. In der Mitte des Videos tritt das Mädchen näher an die Kamera heran, hält den Basketball und blickt selbstbewusst und leicht verspielt. Der riesige Hund-Charakter bleibt im Hintergrund sichtbar und reagiert humorvoll auf ihre Bewegungen. Gegen Ende bewegt sie sich zurück zum Basketballkorb und bereitet sich auf einen weiteren spielerischen Basketball-Moment vor, während das Maskottchen im Vordergrund zu sehen ist. Fotorealistische Koreanerin, natürliche Hauttextur, realistische Gesichtszüge, konsistente Identität, detaillierte Haarsträhnen, realistische athletische Bewegung, kinematografisches Outdoor-Licht, weiches bedecktes Tageslicht, geringe Schärfentiefe, sanfte Handkamera-Bewegung, realistische Basketballplatz-Texturen, natürliche Schatten, hochdetaillierte 4K-Kinoqualität, verspielter visuellem Stil inspiriert von K-Dramen, keine Gesichtsverzerrung, keine zusätzlichen Finger, keine unnatürlichen Körperbewegungen, kein Text oder Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107339831844171776/img/4LsCyW9rPzzslP5o.jpg" width="600" alt="Verspielte Basketball-Szene mit Hund-Maskottchen">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11984)**
-
-**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Quelle:** [Link](https://x.com/ayzalnooor24521/status/2107340030536741222) | **Veröffentlicht:** Oct 6, 2026
-
----
-### Monsterangriff in einer Vorstadtsiedlung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für eine cineastische, VFX-lastige Szene, in der ein riesiges Wesen bei Sonnenuntergang aus dem Boden einer Vorstadt auftaucht.
-
-#### 📝 Prompt
-
-```
-Ultra-realistische cineastische Szene einer Vorstadtsiedlung bei Sonnenuntergang. Ein mysteriöses, leuchtendes Objekt erscheint auf einem grasbewachsenen Rasen, als plötzlich ein riesiges, groteskes grünes Wesen aus dem Boden bricht. Enormer schleimiger Körper mit detaillierter Textur, wütende ausdrucksstarke Augen, realistische Hautdetails, Staub und Trümmer fliegen durch die Luft. Ein schockierter Mann beobachtet das Geschehen aus sicherer Entfernung. Im Hintergrund steht ein luxuriöses Vorstadthaus. Dramatisches Licht der goldenen Stunde, atmosphärischer Dunst, cineastische Kamerabewegung, geringe Schärfentiefe, fotorealistische VFX, hochdetailliert, 8K, realistische Schatten, epischer Hollywood-Filmstil, vertikale 9:16-Komposition.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107333865253773312/img/OglQcBBKfBfaKX1l.jpg" width="600" alt="Monsterangriff in einer Vorstadtsiedlung">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11985)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2107333962402341067) | **Veröffentlicht:** Oct 6, 2026
-
----
-### Cyberpunk-Frau in Neon-Gasse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung einer ultrarealistischen Cyberpunk-Szene, die eine junge Frau zeigt, wie sie durch eine neonbeleuchtete Gasse geht. Der Fokus liegt auf Modedetails, Beleuchtung und Kameraparametern.
-
-#### 📝 Prompt
-
-```
-Ultrarealistische cineastische Cyberpunk-Szene einer entschlossenen jungen Frau, die selbstbewusst durch eine dunkle, neonbeleuchtete Stadtgasse bei Nacht geht. Sie hat langes dunkles Haar, einen intensiven Ausdruck und trägt eine futuristische weiße oversized Jacke über einem roten Crop-Top, schwarze taktische Hosen, Handschuhe und Utility-Zubehör. Nasse Straßen reflektieren rotes und warmes Stadtlicht, atmosphärischer Nebel, leuchtende Schilder, dramatische Schatten, geringe Schärfentiefe, cineastisches Bokeh, dynamische Kamerabewegung, realistische Haut- und Stofftexturen, hohe Detailtreue, stimmungsvolle Actionfilm-Atmosphäre, 85mm Objektiv, f/1.4, HDR, 8K, fotorealistisch, vertikale 9:16 Komposition.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106972520972947456/img/0SDQbYzRuv36V6Vl.jpg" width="600" alt="Cyberpunk-Frau in Neon-Gasse">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11918)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2106972552119963744) | **Veröffentlicht:** Oct 5, 2026
-
----
-### Seedance Video-Prompt für eine komödiantische Hochzeitsgeschichte
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein detaillierter Prompt zur Videogenerierung mit Seedance für eine 15-sekündige Komödiengeschichte über eine Frau, die ihren Freund bittet, sich die Haare grün zu färben, falls er ihrer zukünftigen Hochzeit mit einem anderen beiwohnt. Der Prompt enthält Anweisungen zur Charakterkonsistenz, Szenenübergänge, Kamerabewegungen und spezifische Dialoge.
-
-#### 📝 Prompt
-
-```
-15 Sekunden, 16:9 horizontales Seitenverhältnis, realistische Live-Action-Textur, modernes chinesisches Stadtumfeld. Die erste Hälfte zeigt ein natürliches und intimes Gespräch zwischen einem Paar; die zweite Hälfte schneidet hart auf eine westlich anmutende Hochzeit in einem zukünftigen Hotel. Die Kamera fährt langsam zurück und enthüllt nach und nach männliche Gäste mit unterschiedlichen Haarfarben, was zu einer absurden und peinlichen Comedy-Wendung führt. Die Darstellungen der Charaktere sind dezent gehalten; Umgebung, Haut, Kleidung und Beleuchtung wirken realistisch und natürlich.
-[Charaktere und Kontinuität]
-Die weibliche Hauptfigur ist eine junge erwachsene chinesische Frau @image (31). Die Braut bei der zukünftigen Hochzeit muss dieselbe Frau sein, mit konsistenten Gesichtszügen und Konturen, wobei nur Frisur, Make-up und Kleidung geändert werden.
-Der männliche Hauptdarsteller ist ein junger erwachsener chinesischer Mann, der mit normalem kurzem schwarzem Haar und lässiger Alltagskleidung beginnt. Bei der zukünftigen Hochzeit bleiben seine Gesichtszüge, Gesichtsform, Statur und Haarkontur konsistent, aber er trägt einen maßgeschneiderten Anzug und hat seine Haare offensichtlich grün gefärbt, um die Bitte der Frau vom Anfang zu erfüllen. Er darf aufgrund von Szenen- oder Haarfarbänderungen nicht das Gesicht wechseln.
-Der Bräutigam ist ein anderer erwachsener chinesischer Mann, etwas rundlicher, mit schwarzen Haaren, deutlich anders im Aussehen als der männliche Hauptdarsteller, gekleidet in formelle Bräutigamskleidung.
-Es gibt mehrere erwachsene männliche Gäste am Hochzeitsort, jeder mit roten, blauen, violetten, gelben oder orangefarbenen Haaren, einschließlich eines weiteren Mannes mit grünen Haaren. Ihr Aussehen, ihre Größe, ihre Statur, ihre Frisuren und ihre Anzüge sind alle unterschiedlich. Gefärbte Haare behalten echte Strähnen, Ansätze und Glanz bei und sehen nicht aus wie farbige Perücken oder leuchtend.
-[0–7s: Tägliches Paargespräch]
-Gewöhnlicher Stadtpark oder Wohngebietsvorplatz, Abend, natürliches weiches Licht, leichte Umgebungsgeräusche des Lebens im Hintergrund.
-Das Mädchen und der Junge sitzen nebeneinander auf einer Bank. Verwenden Sie eine mittlere Nahaufnahme von zwei Personen, die ihre Gesichter klar identifiziert. Das Mädchen dreht sich zum Jungen, hält seine Hand, spricht liebevoll, ernst, mit einem Hauch von Koketterie, als ob sie beiläufig etwas Romantisches erwähnt. Der Junge sieht sie tief an.
-Das Mädchen sagt vollständig und deutlich:
-"Schatz, wenn derjenige, der mich heiratet, nicht du bist, dann musst du dir die Haare grün färben, um meiner Hochzeit beizuwohnen, damit ich dich auf einen Blick erkennen kann."
-Gesprochen in einem natürlichen, leicht schnellen, kohärenten alltäglichen Tempo, nicht absichtlich gedehnt, keine verschluckten Wörter, keine mechanische Beschleunigung. Während das Mädchen spricht, sieht der Junge sie an und hört zu, zeigt ein schwaches Lächeln, das sowohl gerührt als auch verwirrt wirkt, ohne eine Antwort hinzuzufügen.
-Kontinuierliche Darstellung beibehalten, das Gesicht des männlichen Hauptdarstellers klar etablieren. Das Mädchen grinst nicht vorzeitig, zwinkert nicht in die Kamera, deutet die spätere Wendung nicht an.
-[7–9s: Hartes Schneiden zur zukünftigen Hochzeit, erst dasselbe Gesicht sehen, dann grüne Haare]
-Sobald das Mädchen das letzte Wort "du" beendet hat, sofort hart auf die Hotelszene der Hochzeit schneiden. Umgebungsgeräusche wechseln synchron von Outdoor-Lebensgeräuschen zu Applaus und verschwommenen Stimmen im Ballsaal.
-Schneiden auf eine frontale Nahaufnahme desselben Gesichts des männlichen Hauptdarstellers. Der obere Rand des ersten Bildes ist unterhalb des Haaransatzes beschnitten, verdeckt vorübergehend das Haar und lässt das Publikum ihn als den Jungen von gerade eben erkennen.
-Er sitzt auf den Hochzeitsgastplätzen, trägt einen Anzug, mit einem leicht angespannten Ausdruck, trägt komplexe Erwartungshaltung, Augen auf den Eingangsgang gerichtet.
-Die Kamera bewegt sich dann langsam und stetig rückwärts und enthüllt allmählich seinen ganzen Kopf – er hat grüne Haare.
-Die grüne Farbe wird vom Publikum in diesem Moment zum ersten Mal gesehen. Er war bereits seit dem Betreten der Hochzeitsaufnahme grünhaarig, es erscheint kein Vor-Ort-Farbwechsel-Effekt.
-[9–12s: Einzug von Braut und Bräutigam, andere Haarfarben erscheinen allmählich]
-Die Kamera bewegt sich weiter rückwärts, erweitert von Nahaufnahme auf mittlere Einstellung, nimmt leichte horizontale Anpassungen vor, um den grünhaarigen männlichen Hauptdarsteller auf einer Seite des Bildes zu halten, und enthüllt allmählich den zentralen Hochzeitsgang.
-Die Szene ist ein echter Hotel-Ballsaal, der für eine westliche Hochzeit arrangiert wurde, mit hellen Blumenarrangements, weißen oder beigen Stühlen, warmen Deckenleuchten und einem Teppichgang. Die Beleuchtung hat klare Quellen, das Hochzeitskleid behält Stoffdetails bei, keine traumhaften Märchenland-Effekte.
-Im Hintergrundgang trägt das Mädchen vom Anfang ein Hochzeitskleid, hält Arm in Arm mit dem etwas rundlichen Bräutigam, tritt langsam ein. Das Aussehen und die Statur des Bräutigams unterscheiden sich deutlich vom grünhaarigen männlichen Hauptdarsteller.
-Der männliche Hauptdarsteller sah ursprünglich die Braut an, hielt kaum ein schwaches Lächeln aufrecht. Als die Kamera zurückfährt, betreten nacheinander ein männlicher Gast mit roten Haaren und ein männlicher Gast mit blauen Haaren den Rahmen neben ihm.
-Er wirft versehentlich einen Blick auf den rothaarigen Mann neben ihm, sein Lächeln pausiert leicht, dann sieht er den grünhaarigen Mann auf der anderen Seite, hebt leicht die Augenbrauen, beginnt zu ahnen, dass etwas nicht stimmt.
-[12–15s: Enthüllung weiterer Männer mit farbigen Haaren, männlicher Hauptdarsteller schaut überrascht umher]
-Die Kamera fährt weiterhin auf derselben Trajektorie rückwärts, erweitert auf eine breitere Ansicht, die den männlichen Hauptdarsteller, umgebende Reihen von Gästen und den Hochzeitsgang enthält. Der Hochzeitsabschnitt bleibt kontinuierlich, keine weiteren Schnitte.
-Weitere männliche Gäste mit unterschiedlichen Haarfarben treten allmählich in den Rahmen: violett, gelb, orange und ein weiterer rothaariger Mann, der sich im Aussehen, in der Statur und in der Frisur vom männlichen Hauptdarsteller unterscheidet.
-Inklusive des männlichen Hauptdarstellers sitzen etwa sechs bis acht Männer mit farbigen Haaren verstreut in angrenzenden Reihen, abwechselnd mit gewöhnlichen schwarzhaarigen Gästen. Nicht alle Gäste haben gefärbte Haare, noch bilden sie eine ordentliche Regenbogenlinie.
-Sie sind alle unterschiedlich: einige dünn, einige kräftig, einige etwas rundlich; einige Kurzhaarschnitte, einige seitlich gescheiteltes kurzes Haar, einige leicht lockig. Anzüge sind schwarz, dunkelblau, grau, braun, mit offensichtlichen Unterschieden in Passform, Krawatten und Hemdkombinationen, sehen aus wie unabhängig eingeladene echte Hochzeitsgäste.
-Diese Leute saßen seit Beginn der Hochzeitsaufnahme auf ihren ursprünglichen Plätzen, waren nur durch die anfängliche enge Komposition verdeckt, werden sichtbar, wenn die Kamera rückwärts fährt, können nicht aus dem Nichts auftauchen oder plötzlich ihre Haare färben.
-Der männliche Hauptdarsteller schaut zuerst nach links, dann nach rechts, schließlich dreht er sich leicht diagonal nach hinten, entdeckt einen weiteren grünhaarigen Mann. Sein Ausdruck wechselt von Verwirrung zu Überraschung und Verlegenheit, Lippen leicht geöffnet, als ob er endlich erkennt, dass er möglicherweise nicht der Einzige ist, der ein solches Versprechen erhalten hat.
-Andere Männer mit farbigen Haaren schauen hauptsächlich weiter der Hochzeit zu, einige könnten kurz Blickkontakt mit ihm aufnehmen, drehen nicht kollektiv die Köpfe oder reagieren synchron.
-Das Ende bewahrt gleichzeitig den überraschten Blick des männlichen Hauptdarstellers umher, umgebende Männer mit unterschiedlichen Haarfarben und die fortgesetzte Ankunft von Braut und Bräutigam im Hintergrund. Der Bildschirm endet natürlich, kein zusätzlicher Dialog zur Erklärung der Pointe.
-[Kamerakunst, Darstellung und realistische Atmosphäre]
-Der Anfang verwendet natürliches Tageslicht, die Hochzeit verwendet warmes Innenraum-Hotel-Licht. Hauttöne sind normal, behalten Hauttextur bei, Anzüge haben echte Falten, das Hochzeitskleid hat Gewicht, gefärbte Haare haben natürliche helle und dunkle Schichten.
-Die erste Hälfte fühlt sich an wie ein echtes Paar, das locker plaudert, die zweite Hälfte fühlt sich an wie eine peinliche Entdeckung, die bei einer echten Hochzeitszeremonie passiert. Der männliche Hauptdarsteller drückt Emotionen durch Blickkontakt, Mikroexpressionen und Umschauen aus, keine cartoonartigen weit aufgerissenen Augen, Mundöffnungen oder Gesichtsbedeckungen.
-Der Rückwärtsfahrt der Hochzeit nutzt tatsächliche Kamerarückwärtsbewegung, gleichmäßige Geschwindigkeit, Gastpositionen im Voraus angeordnet, sodass verschiedene Haarfarben nacheinander in den Rahmen eintreten. Nach dem Zurückfahren allmählich die Tiefenschärfe erhöhen, sicherstellen, dass die Beziehung zwischen dem männlichen Hauptdarsteller, den Gästen mit farbigen Haaren und den Neuvermählten im Hintergrund erkennbar ist, niemals umgebende Charaktere zu Farbklumpen verschwimmen lassen.
-Keine Retro-DV-Qualität, übertriebenes Zittern der Hände, Fischaugenobjektiv, plötzlicher Zoom, schnelle Umlaufbahn, Zeitlupe, plastische Haut oder schwere Filter.
-[Ton]
-Der Anfang behält den Dialog des Mädchens und leichte Outdoor-Lebensgeräusche bei. Nach dem harten Schnitt treten natürlicher Applaus, Rascheln von Stoff, Knarren von Stühlen und verschwommene Gespräche im Hotel-Ballsaal auf.
-Dialog passt genau zu den Lippenbewegungen des Mädchens, der männliche Hauptdarsteller spricht nicht für sie oder unterbricht sie. Kein klarer Dialog im Hochzeitsabschnitt hinzugefügt.
-Keine Erzählung, keine Hintergrundmusik.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106953873076486145/img/IOpYXcKBoJQlAILi.jpg" width="600" alt="Seedance Video-Prompt für eine komödiantische Hochzeitsgeschichte">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11920)**
-
-**Autor:** [探路AI](https://x.com/TanLuAI) | **Quelle:** [Link](https://x.com/TanLuAI/status/2106955448352231762) | **Veröffentlicht:** Oct 5, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -4189,6 +4178,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-30T04:53:29.953Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-30T15:16:27.271Z</sub>
 
 </div>

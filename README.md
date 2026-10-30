@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6603** |
+| 📝 Total Prompts | **6609** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-10-30** |
 
@@ -365,6 +365,137 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Seedance 2.0 Douyin Dance Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for generating a 15-second vertical dance video using Seedance 2.0, featuring specific camera movements, choreography steps, and character consistency instructions.
+
+#### 📝 Prompt
+
+```
+15 seconds, 9:16 aspect ratio, short video of a real woman dancing on Douyin (TikTok style). Single continuous shot, maintaining the reference person's appearance, clothing, and scene. Hand movements never go above the head. Left and right refer to the dancer's own left and right.
+
+Overall performance: Two distinct consecutive dance routines, connected by "right hand grabbing/pulling the lens close to face, left hand swinging away pulling the lens back". The person continues bouncing within the same dance area, with shoulders, hips, and arms moving in sync. Movements feature a contrast between expansive stretches and quick retracts, with each segment directly leading into the next.
+
+[0-3s | First Set: Hip Support & Extension]
+CAMERA POV: Frontal medium shot, from top of head to just above knees, fully presenting shoulders, waist, hips, and arms.
+
+Dancing already started. Left hand supports hip, right palm extends toward the lens then retracts to shoulder front, coordinating with body tilting right then returning left; knees have elasticity, shoulder line tilts as hips change direction. First extension is expansive, second retract is quick; when arm retracts, body has already begun the next directional change. Head sways lightly with body, initially relaxed looking at the lens, showing a slight smile when retracting hand the second time.
+
+[3-6s | Overlap Sink, Palm Push Direction Change]
+Right hand naturally falls to abdomen front, left hand leaves waist side, both forearms overlap in front of waist/abdomen, knees slightly bend, body sinks accordingly; immediately after, arms open wide, body rises back to left side.
+
+Left palm touches chest, right palm pushes from chest towards right-front, shoulders/chest turn slightly oblique with the push; return to upright when retracting palm. Then push forward once more, hips changing direction simultaneously. Palms always have clear orientation, push and retract form a complete short phrase.
+The final push naturally extends into an action reaching towards the lens.
+
+[6-8s | Grab Pull Face Close, Swing Hand Away]
+Right hand reaches towards the lens, fingers clearly closing into a loose grab; immediately after, right elbow sharply retracts behind, fist pulled along face side back to right shoulder front, shoulders/chest carried backward.
+
+CAMERA POV: Maintain distance during reach and close; the instant the right elbow starts pulling back, the lens synchronously rushes quickly to a facial close-up, decelerating in front of the face. Lens movement completes simultaneously with this pull.
+
+At the moment of face-close, she slightly turns her head, eyes accurately catching the lens, corners of mouth lifting. Body rhythm continues, right hand lowers along chest front, left hand immediately swings out from chest front to left side, hand and shoulder bringing out this swing together.
+
+CAMERA POV: The instant left hand swings out, quickly pull back, restoring medium shot from top of head to just above knees, person remains centered throughout.
+
+[8-11s | Pull Back While Entering Second Set: Alternating Arms at Shoulders]
+While the lens is pulling back, the swung-out left arm has already bent elbow to retract, right arm simultaneously lifts up, two loosely clenched hands arrive below shoulder level.
+
+Shoulders alternate pushing forward left and right, bent elbows respond one front one back with shoulders; hips coordinate weight shifting left and right, knees continue light bouncing. After completing one set of alternating left/right, hands drop to overlap in front of waist, then immediately open to sides, bringing out a clear sink and rise. Actions are coherent, overlap serves as buildup for the next expansion.
+
+Expression relaxes naturally from the smile during face-close, head tilts lightly with shoulder line, looking straight at the lens again when arms open.
+
+[11-15s | Point Near Face, Low Position Expansion]
+Following arms opening, right hand retracts to face side forming a clear single-finger-up shape, left forearm stays in front of waist/abdomen. Left foot takes small step landing left bearing weight, hips push left, shoulder line tilts opposite; when body changes direction, left forearm expands sideways, right hand briefly maintains face-side shape.
+
+Right hand subsequently drops along chest front, overlapping with left forearm in front of waist/abdomen, knees slightly bend; immediately un-overlap, elbows near waist sides, forearms expand to both sides, coordinating with two consecutive left-right weight shifts. Head sways lightly with direction change, finally turning face to look at the lens, smile reappearing.
+
+Video ends while still completing the last lateral shift and rebound, retaining dance momentum.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115996669972021248/img/_zjzCiZJtxgkOXLV.jpg" width="600" alt="Seedance 2.0 Douyin Dance Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13173)**
+
+**Author:** [kollectionca](https://x.com/kollectionca) | **Source:** [Link](https://x.com/kollectionca/status/2115996967851675935) | **Published:** Oct 30, 2026
+
+---
+### Keys to Dream Bedroom Floor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a realistic cinematic video of a man turning a pile of antique keys into a glossy terrazzo-style bedroom floor using epoxy resin and polishing.
+
+#### 📝 Prompt
+
+```
+A realistic cinematic video inside a bright empty room with white walls, a bare concrete floor and a large window. It opens on a bearded man in blue denim overalls holding a shovel next to an enormous mound of thousands of antique brass and iron keys. He shovels and rakes the pile, spreading the keys into an even layer that covers the entire floor like a metallic carpet. A woman in red overalls then pours thick white self-leveling epoxy resin from a large plastic bucket, the glossy liquid spreading outward in circles until it completely submerges the keys. Next, a worker in a yellow high-visibility vest and cap pushes a floor polishing machine back and forth across the cured surface, buffing it into a mirror-shine white floor with golden key heads glinting through the resin like terrazzo. Finally, two workers in black quickly assemble a dark walnut bed frame, set a white mattress on it, add pillows, a beige fringed throw blanket and two wooden nightstands with ceramic lamps. The video closes with a wide static shot of the finished designer bedroom, sunlight reflecting off the glossy key-embedded floor. Smooth camera work, natural daylight, satisfying renovation time-lapse feel, hyper-detailed, photorealistic, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115913993273442304/img/6R-0vM0H07l2Nzj-.jpg" width="600" alt="Keys to Dream Bedroom Floor">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13169)**
+
+**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2115914032884613494) | **Published:** Oct 29, 2026
+
+---
+### Sea Glass Terrazzo Bedroom Floor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a documentary-style video of a renovation process where colorful sea glass is embedded in epoxy resin to create a sparkling terrazzo floor in a new bedroom.
+
+#### 📝 Prompt
+
+```
+Vertical video, bright empty room with white walls, a large black-framed window and a raw concrete floor. A man in navy overalls and a black t-shirt rakes a huge pile of colorful sea glass in blue, green and clear tones, spreading it evenly across the floor. A woman in red overalls kneels and pours milky white epoxy resin from white buckets over the glass while he spreads it with a squeegee. Time-lapse transition as the resin cures into a glossy surface. Workers in black shirts and one in a neon yellow safety vest grind and polish the floor with a walk-behind grinder and a vacuum, revealing a smooth terrazzo-like floor full of glass chips that sparkles under daylight. Fast-motion assembly: two workers build a wooden bed frame, place slats, mattress and neutral beige bedding. Final static shot of the finished cozy bedroom with the shimmering recycled glass floor, wooden bed, nightstands, lamps and green trees visible through the window. Realistic documentary style, natural lighting, smooth camera, satisfying renovation process.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115913011823083520/img/i026LEQVmCZad7rf.jpg" width="600" alt="Sea Glass Terrazzo Bedroom Floor">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13170)**
+
+**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2115913066776785313) | **Published:** Oct 29, 2026
+
+---
+### Pebble to Terrazzo Floor Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A time-lapse video prompt showing the process of turning orange pebbles into a polished terrazzo-style bedroom floor with epoxy resin, including room assembly.
+
+#### 📝 Prompt
+
+```
+Vertical video in a bright empty room with white walls and a large window showing green trees outside. A man in blue overalls rakes a huge pile of glossy orange pebbles on the bare concrete floor, spreading them evenly across the entire room. Workers in red overalls pour white self-leveling epoxy resin from buckets over the pebbles, then spread it with squeegees and paint rollers until the surface is flat, smooth and glossy. Time-lapse of a worker in a yellow hi-vis vest and respirator grinding the cured floor with a polishing machine, revealing a terrazzo-like surface dotted with round orange pebbles. Fast time-lapse of room assembly: a wooden bed frame is built, dressed with white bedding and beige pillows, a nightstand with a lamp is added and framed abstract art hangs on the wall. Final static shot of a cozy finished bedroom with the polished orange pebble floor shining in soft natural daylight. Photorealistic, satisfying renovation time-lapse, smooth camera movement, warm natural lighting.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115798362968424448/img/9CgbjQwDDoeZVfXq.jpg" width="600" alt="Pebble to Terrazzo Floor Transformation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13168)**
+
+**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2115798407444918459) | **Published:** Oct 29, 2026
+
+---
+### Rusty Car Parts Mirror Floor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for an ASMR renovation video showing rusty car parts being covered in epoxy resin and polished to reveal a mirror-like floor with embedded silhouettes, followed by bedroom assembly.
+
+#### 📝 Prompt
+
+```
+Satisfying ASMR renovation video in a bright empty room with white walls, a large window showing green trees, and a bare concrete floor. A bearded man in blue overalls uses a long rake to spread a huge pile of rusty car doors, hoods and panels evenly across the floor, arranging them flat side by side. A woman in red overalls then pours thick white self-leveling epoxy resin from a bucket over the rusty metal pieces; the glossy liquid flows outward and covers everything into a smooth milky surface. Once cured, a worker in a yellow high-visibility vest pushes a floor grinding and polishing machine across the surface, gradually revealing crisp silhouettes of the car parts embedded beneath a mirror-glossy white floor that reflects daylight. Finally, two workers in black uniforms with pink gloves carry in a black metal bed frame, set a mattress on it and dress the bed with gray bedding and pillows, completing a modern bedroom. Smooth camera pans and gentle zooms follow the action, natural daylight, hyper-realistic detail, satisfying transformation montage, vertical format.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115797448610242561/img/8FXa9w6moNFSBAWO.jpg" width="600" alt="Rusty Car Parts Mirror Floor">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13171)**
+
+**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2115797490725273924) | **Published:** Oct 29, 2026
+
+---
 ### Seedance 2.0 Mini Ancient Xianxia Video Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -628,6 +759,29 @@ Do not change characters, weapons,
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13129)**
 
 **Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2115629293430788360) | **Published:** Oct 29, 2026
+
+---
+### GTA 6 Style Cinematic Trailer Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A descriptive breakdown of a prompt used to generate a realistic GTA 6 style cinematic trailer with Seedance 2.0, featuring neon cities, car chases, and helicopter shots.
+
+#### 📝 Prompt
+
+```
+Opens with a breathtaking sunset aerial shot, a neon-soaked tropical city, palm trees sparkling against the sky. Then the camera cuts to a luxury red sports car speeding through wet reflective streets lined with colorful neon signs. Nightlife, crowds, clubs, pure chaos and energy.
+
+As police cars begin chasing, tension escalates. High-speed drifting, motion blur, volumetric lighting, everything full of cinematic feel and vitality.
+
+Ends with a dramatic hero shot overlooking the entire city, a helicopter sweeping across the sky.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2115613087944634369/pu/img/Xt4oFu3EHB78xvtZ.jpg" width="600" alt="GTA 6 Style Cinematic Trailer Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13172)**
+
+**Author:** [财经世界观](https://x.com/CaijingView) | **Source:** [Link](https://x.com/CaijingView/status/2115613143519096838) | **Published:** Oct 29, 2026
 
 ---
 ### Marigold Resin Floor Renovation Video
@@ -3974,177 +4128,6 @@ The service alley behind the building leads to the street where the clothing sto
 **Author:** [探路AI](https://x.com/TanLuAI) | **Source:** [Link](https://x.com/TanLuAI/status/2107763438747521348) | **Published:** Oct 7, 2026
 
 ---
-### School Cafeteria Lunch Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating an ultra-realistic cinematic scene of a female student in a Korean school cafeteria holding a lunch tray.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic scene of a young East Asian female student standing in a bright Korean school cafeteria, wearing a neat white school uniform shirt with a blue plaid tie and dark navy skirt, holding a stainless-steel lunch tray toward the camera. The tray contains fluffy steamed white rice, red spicy soup, sausages, vegetables, and traditional side dishes. Other students are seated at tables in the softly blurred background. Natural indoor lighting, realistic food textures, shallow depth of field, creamy bokeh, cinematic composition, detailed skin and fabric texture, 85mm lens, f/1.8, HDR, photorealistic, 8K, vertical 9:16 composition, warm authentic school-life atmosphere
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107699321319858176/img/Jphi94bk2Oh7lRFB.jpg" width="600" alt="School Cafeteria Lunch Scene">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12053)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2107699358762422759) | **Published:** Oct 7, 2026
-
----
-### Cinematic Railway Platform Story Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video generation prompt for creating a 15-second cinematic scene of a man waiting on a rainy railway platform. It specifies camera movements, lighting, color grading, and audio cues to create an emotional narrative arc.
-
-#### 📝 Prompt
-
-```
-A 15-second vertical 9:16 cinematic story scene, 24fps, shot on 35mm anamorphic look, moody and emotional.
-0-3s (setup): Night, a quiet empty railway platform in light rain. A young man in a long coat stands alone holding an old envelope, breath visible in the cold air. Slow dolly-in from behind him.
-3-7s (tension): Close-up on his face as he looks at the envelope, then up at a distant train light growing through the fog. His hands tremble slightly. Rack focus from the envelope to his eyes.
-7-11s (turn): The train arrives with a rush of wind. His coat and hair whip sideways. He hesitates, then lets the envelope slip from his fingers onto the wet platform. Slow motion, droplets in the air.
-11-15s (ending): The doors open, warm yellow light spills onto his face. He steps in without looking back. Camera holds on the envelope on the platform as the train pulls away, then fades to black.
-Look: Teal and amber color grade, deep shadows, soft practical lighting, fine film grain, shallow depth of field.
-Audio: Soft rain, distant train rumble building, a single sustained piano note at the train's arrival, silence at the final fade. No dialogue.
-Text: None.
-Language: No speech and no on-screen text, so no language issues.
-Avoid: Warped hands, distorted faces, flicker, garbled text, watermarks, extra limbs.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107427869517590528/img/Ca8Q0vKPSHYSNxix.jpg" width="600" alt="Cinematic Railway Platform Story Scene">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12054)**
-
-**Author:** [ORHAN](https://x.com/OrhanGhazi65942) | **Source:** [Link](https://x.com/OrhanGhazi65942/status/2107427996705718600) | **Published:** Oct 6, 2026
-
----
-### Playful Basketball Scene with Dog Mascot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a photorealistic video of a Korean girl playing basketball with a giant dog mascot, featuring smooth camera transitions and K-drama inspired aesthetics.
-
-#### 📝 Prompt
-
-```
-A beautiful Korean girl with long dark hair, wearing a fitted black sleeveless top, black athletic shorts, and white sneakers, is playing basketball on an outdoor orange-colored basketball court surrounded by lush green trees. A cute oversized white cartoon-style dog mascot with black floppy ears is standing opposite her, holding and bouncing a basketball. The scene begins with a wide cinematic shot showing the girl facing the giant dog character near the basketball hoop. She playfully interacts with the mascot while dribbling the basketball, creating a fun and charming atmosphere. The camera smoothly moves between wide shots and medium close-ups, capturing the girl's natural expressions, flowing hair, realistic body movement, and the mascot's cute reactions. At the middle of the video, the girl steps closer to the camera while holding the basketball, looking confident and slightly playful. The giant dog character remains visible in the background, reacting humorously to her movements. Toward the end, she moves back toward the basketball hoop and prepares for another playful basketball moment while the mascot is seen in the foreground. Photorealistic Korean girl, natural skin texture, realistic facial features, consistent identity, detailed hair strands, realistic athletic movement, cinematic outdoor lighting, soft overcast daylight, shallow depth of field, smooth handheld camera movement, realistic basketball court textures, natural shadows, high-detail 4K cinematic quality, playful K-drama-inspired visual style, no face distortion, no extra fingers, no unnatural body movement, no text or watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107339831844171776/img/4LsCyW9rPzzslP5o.jpg" width="600" alt="Playful Basketball Scene with Dog Mascot">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11984)**
-
-**Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2107340030536741222) | **Published:** Oct 6, 2026
-
----
-### Cinematic Creature Emergence in Suburbs
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Seedance 2.0 that creates a hyper-realistic cinematic scene where a giant green creature emerges from the ground in a suburban neighborhood at sunset.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic scene of a suburban neighborhood at sunset, a mysterious glowing object appears on a grassy lawn as a giant grotesque green creature suddenly emerges from the ground, enormous slimy textured body, angry expressive eyes, realistic skin details, dust and debris flying through the air, a shocked man watching from a distance, luxury suburban house in the background, dramatic golden-hour lighting, atmospheric haze, cinematic camera movement, shallow depth of field, photorealistic VFX, highly detailed, 8K, realistic shadows, epic Hollywood movie style, vertical 9:16 composition
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107333865253773312/img/OglQcBBKfBfaKX1l.jpg" width="600" alt="Cinematic Creature Emergence in Suburbs">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11985)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2107333962402341067) | **Published:** Oct 6, 2026
-
----
-### Cyberpunk Woman Walking Neon Alley
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a cyberpunk-style video featuring a woman walking through a neon-lit alley with realistic textures and moody lighting.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic cyberpunk scene of a fierce young woman walking confidently through a dark neon-lit city alley at night. She has long dark hair, an intense expression, and wears a futuristic white oversized jacket over a red cropped top, black tactical pants, gloves, and utility accessories. Wet streets reflecting red and warm city lights, atmospheric mist, glowing signs, dramatic shadows, shallow depth of field, cinematic bokeh, dynamic camera movement, realistic skin and fabric textures, high detail, moody action-film atmosphere, 85mm lens, f/1.4, HDR, 8K, photorealistic, vertical 9:16 composition.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106972520972947456/img/0SDQbYzRuv36V6Vl.jpg" width="600" alt="Cyberpunk Woman Walking Neon Alley">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11918)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2106972552119963744) | **Published:** Oct 5, 2026
-
----
-### Seedance Comedy Story Video Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed prompt for generating a 15-second comedic story video using Seedance, involving a couple's dialogue and a wedding scene with green-haired guests.
-
-#### 📝 Prompt
-
-```
-15 seconds, 16:9 aspect ratio, realistic live-action texture, modern Chinese urban background. The first half features natural intimate dialogue between a couple; the second half hard cuts to a Western-style wedding in a future hotel. The camera slowly pulls back to gradually reveal male guests with different colored hair, forming an absurd and awkward comedy twist. Character performances are restrained; environment, skin, fabric, and lighting are realistic and natural.
-[Characters and Continuity]
-The female lead is a young adult Chinese girl @image (31). In the future wedding, the bride must be the same girl, maintaining facial features and contours, only changing hairstyle, makeup, and clothing.
-The male lead is a young adult Chinese man, starting with normal black short hair and daily casual clothes. In the future wedding, his facial features, face shape, body type, and hairstyle contour remain consistent, but he wears a well-fitted suit and dyes his hair distinctly green, fulfilling the girl's request from the opening. He must not look like a different person due to scene/hair changes.
-The groom is another adult Chinese man, slightly chubby, with black hair, clearly different appearance from the male lead, wearing formal groom attire.
-There are multiple adult male guests at the wedding site, dyed red, blue, purple, yellow, orange, and one other green-haired man. Their appearances, heights, builds, hairstyles, and suits are all distinct. Hair dye retains real hair strands, roots, and luster, looking like natural dyed hair rather than wigs or glowing colors.
-[0–7s: Daily Couple Dialogue]
-Ordinary city park or residential area downstairs, evening, soft natural light, slight ambient life sounds in the background.
-The girl and boy sit side by side on a bench. Medium close-up shot, clearly recognizable faces. The girl turns to look at the boy, holding his hand, speaking affectionately, seriously, with a touch of coquettishness, as if casually mentioning something romantic. The boy looks at her deeply.
-The girl speaks completely and clearly:
-"Baby, if you're not the one marrying me in the future, you must dye your hair green to come to my wedding, so I can spot you at a glance."
-Spoken at a natural, slightly fast, coherent daily pace, not deliberately dragged out, no swallowed words, no mechanical acceleration. While the girl speaks, the boy listens, showing a faint smile moved yet puzzled, adding no response.
-Maintain continuous performance, clearly establishing the male lead's appearance. The girl does not smirk early, wink at the camera, or foreshadow the twist.
-[7–9s: Hard Cut to Future Wedding, See Same Face Then Green Hair]
-Immediately after the girl says "you", hard cut to the hotel wedding scene. Ambient sound switches synchronously from outdoor life sounds to banquet hall applause and blurred voices.
-Cut to a frontal close-up of the same male lead's face. Initial frame top edge cropped below the hairline, temporarily hiding hair, letting viewers recognize him as the previous boy.
-He sits in the wedding guest seats, wearing a suit, expression slightly reserved with complex anticipation, gaze towards the entrance aisle.
-The camera then slowly, steadily moves backward, gradually revealing his full head—he has dyed his hair green.
-The green is seen clearly by viewers for the first time. He was already green-haired when entering the wedding shot; no live color-change effect occurs.
-[9–12s: Bride and Groom Entrance, Other Colors Appear]
-Camera continues moving back, expanding from close-up to medium shot, adjusting horizontally to keep the green-haired male lead on one side and gradually reveal the central wedding aisle.
-The site is a real hotel banquet hall arranged for a Western wedding, with light-colored floral arrangements, white/beige chairs, warm ceiling lights, and carpeted entrance aisles. Lighting has clear sources; wedding dress retains fabric details, avoiding dreamy fairy-tale effects.
-In the background aisle, the opening girl enters in a wedding dress, arm-in-arm with the slightly chubby groom. The groom's appearance and build are clearly different from the green-haired male lead.
-The male lead originally watches the bride, forcing a faint smile. As the camera pulls back, a red-haired male guest and a blue-haired male guest enter the frame near him.
-He inadvertently glances at the red-haired man beside him, smile pausing slightly, then looks at the green-haired man on the other side, brow twitching, starting to feel something is wrong.
-[12–15s: Reveal More Colored-Hair Men, Male Lead Looks Around in Surprise]
-Camera continues moving back along the same trajectory, expanding to a wider frame containing the male lead, several rows of surrounding guests, and the wedding aisle. The wedding segment remains continuous, no further cuts.
-More male guests with different hair colors gradually enter the frame: purple, yellow, orange, and another red-haired man distinct from the male lead in appearance, build, and hairstyle.
-Including the male lead, about six to eight colored-hair men are scattered across adjacent rows, intermingled with ordinary black-haired guests. Not all guests have dyed hair, nor are they arranged in a neat rainbow line.
-They vary: some thin, some sturdy, some chubby; some buzz cuts, some short side parts, some curly. Suits are black, dark blue, gray, brown, with obvious differences in fit, ties, and shirt combinations, resembling independent real wedding guests.
-These people were seated in place from the start of the wedding shot, merely hidden by the initial tight framing, becoming visible as the camera pulled back; they cannot appear suddenly or change hair color abruptly.
-The male lead looks left, then right, finally turning slightly back to see another green-haired man. His expression shifts from confusion to surprise and embarrassment, lips parting slightly, realizing he might not be the only one who received such a promise.
-Other colored-hair men mostly continue watching the wedding; a few may briefly exchange glances with him, not collectively turning heads or reacting in sync.
-The ending simultaneously retains the male lead's surprised look-around, surrounding differently colored-hair male guests, and the bride/groom continuing to enter in the background. The screen ends naturally, without extra dialogue explaining the joke.
-[Cinematography, Performance, and Realistic Atmosphere]
-Opening uses natural daylight; wedding uses hotel warm indoor lighting. Skin tones are normal, retaining texture; suits have real wrinkles; wedding dress has weight; dyed hair has natural shading layers.
-The first half feels like real couples chatting casually; the second half feels like an awkward discovery happening at a real wedding. The male lead expresses emotions through eyes, micro-expressions, and looking around, avoiding cartoonish eye-widening, mouth-opening, or face-covering actions.
-The wedding pull-back uses actual camera movement, steady speed, with pre-arranged guest positions so different hair colors enter sequentially. Depth of field increases gradually after pull-back, ensuring relationships between male lead, colored-hair guests, and background newlyweds are discernible; do not blur surrounding people into color blocks throughout.
-Avoid retro DV quality, exaggerated shaking, fisheye, sudden zooms, high-speed orbits, slow motion, plastic skin, or heavy filters.
-[Sound]
-Opening retains girl's dialogue and slight outdoor life sounds. After hard cut, enter natural applause, fabric rustle, chair creaks, and blurred conversation of the hotel banquet hall.
-Dialogue accurately matches girl's lip movements; male lead does not speak for her or interrupt. No clear dialogue added in wedding segment.
-No narration, background music, canned laughter, twist alert sounds, or explanatory subtitles.
-[Core Constraints]
-Total length 15 seconds. The only hard cut occurs after the girl finishes her line, switching from daily couple scene to future wedding. Wedding part starts with male lead's facial close-up, continuously pulling back slowly.
-Information revelation order fixed: Same boy's face -> His green hair -> Same girl and different groom entering -> Surrounding gradual appearance of different colored-hair male guests -> Male lead discovers another green-haired man, looks around in surprise.
-Girl's line requests "dye hair green"; male lead indeed dyes hair green in future, consistent.
-Bride is same person as opening girl; green-haired male lead is same person as opening boy; groom is different person. Other guests have independent faces, no cloned faces, face swaps, abrupt hair color changes, or sudden appearances.
-No subtitles, date stamps, explanatory text, or watermarks.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106953873076486145/img/IOpYXcKBoJQlAILi.jpg" width="600" alt="Seedance Comedy Story Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11920)**
-
-**Author:** [探路AI](https://x.com/TanLuAI) | **Source:** [Link](https://x.com/TanLuAI/status/2106955448352231762) | **Published:** Oct 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -4206,6 +4189,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-30T04:53:16.705Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-30T15:16:12.340Z</sub>
 
 </div>

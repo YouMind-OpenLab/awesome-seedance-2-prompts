@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6603** |
+| 📝 Totale prompt | **6609** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-10-30** |
 
@@ -361,6 +361,137 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Prompt Video di Ballo Douyin Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt dettagliato per generare un video di ballo verticale di 15 secondi utilizzando Seedance 2.0, con movimenti di camera specifici, sequenze coreografiche e istruzioni per la coerenza del personaggio.
+
+#### 📝 Prompt
+
+```
+15 secondi, formato 9:16, breve video di una donna reale che balla su Douyin (stile TikTok). Unica ripresa continua, mantenendo l'aspetto, l'abbigliamento e l'ambientazione della persona di riferimento. Le mani non superano mai l'altezza della testa. "Sinistra" e "destra" si riferiscono alla sinistra e alla destra della ballerina stessa.
+
+Esecuzione generale: due sequenze di ballo distinte e consecutive, collegate dal movimento "la mano destra afferra/tira l'obiettivo avvicinandolo al viso, la mano sinistra oscilla verso l'esterno allontanando l'obiettivo". La persona continua a rimbalzare nella stessa area di ballo, con spalle, fianchi e braccia che si muovono in sincronia. I movimenti giocano sul contrasto tra ampie estensioni e rapidi rientri, con ogni segmento che sfocia direttamente nel successivo.
+
+[0-3s | Prima sequenza: supporto dell'anca ed estensione]
+INQUADRATURA: piano medio frontale, dalla sommità della testa fino a poco sopra le ginocchia, mostrando interamente spalle, vita, fianchi e braccia.
+
+Il ballo è già iniziato. La mano sinistra sostiene il fianco, il palmo destro si estende verso l'obiettivo per poi ritirarsi davanti alla spalla, coordinandosi con il corpo che si inclina a destra e poi torna a sinistra; le ginocchia sono elastiche, la linea delle spalle si inclina quando i fianchi cambiano direzione. La prima estensione è ampia, il secondo rientro è rapido; quando il braccio si ritrae, il corpo ha già iniziato il cambio di direzione successivo. La testa ondeggia leggermente insieme al corpo, inizialmente rilassata e rivolta verso l'obiettivo, mostrando un lieve sorriso durante il secondo rientro della mano.
+
+[3-6s | Sovrapposizione e abbassamento, spinta del palmo e cambio di direzione]
+La mano destra scende naturalmente davanti all'addome, la mano sinistra lascia il fianco, entrambi gli avambracci si sovrappongono davanti alla vita/addome, le ginocchia si piegano leggermente e il corpo si abbassa di conseguenza; subito dopo, le braccia si aprono ampiamente e il corpo risale tornando verso sinistra.
+
+Il palmo sinistro tocca il petto, il palmo destro spinge dal petto verso destra-avanti, spalle e petto ruotano leggermente in diagonale seguendo la spinta; il busto torna dritto quando il palmo si ritrae. Poi un'ulteriore spinta in avanti, con i fianchi che cambiano direzione simultaneamente. I palmi mantengono sempre un orientamento chiaro, spinta e rientro formano una breve frase motoria completa.
+L'ultima spinta si prolunga naturalmente in un gesto che raggiunge l'obiettivo.
+
+[6-8s | Afferrare e tirare vicino al viso, oscillare via la mano]
+La mano destra si protende verso l'obiettivo, le dita si chiudono chiaramente in una presa morbida; subito dopo, il gomito destro si ritrae bruscamente all'indietro, il pugno viene trascinato lungo il lato del viso fino a tornare davanti alla spalla destra, trascinando con sé spalle e petto all'indietro.
+
+INQUADRATURA: mantenere la distanza durante l'allungamento e l'avvicinamento; nell'istante in cui il gomito destro inizia a tirare indietro, l'obiettivo si precipita rapidamente e in modo sincronizzato verso un primo piano del viso, decelerando davanti al volto. Il movimento della camera si conclude contemporaneamente a questa trazione.
+
+Nel momento del primo piano, lei gira leggermente la testa, lo sguardo aggancia con precisione l'obiettivo, gli angoli della bocca si sollevano. Il ritmo del corpo continua, la mano destra scende lungo il petto, la mano sinistra oscilla immediatamente dal petto verso sinistra, mano e spalla generano insieme questo slancio.
+
+INQUADRATURA: nell'istante in cui la mano sinistra oscilla verso l'esterno, stacco rapido all'indietro, ripristinando il piano medio dalla sommità della testa a poco sopra le ginocchia; la persona resta sempre centrata.
+
+[8-11s | Allontanamento mentre si entra nella seconda sequenza: braccia alternate alle spalle]
+Mentre l'obiettivo si allontana, il braccio sinistro appena slanciato ha già piegato il gomito per rientrare, il braccio destro si solleva simultaneamente e le due mani, leggermente chiuse a pugno, arrivano sotto il livello delle spalle.
+
+Le spalle si spingono alternativamente in avanti a sinistra e a destra, i gomiti piegati rispondono uno avanti e uno indietro seguendo le spalle; i fianchi assecondano il trasferimento del peso da un lato all'altro, le ginocchia continuano a rimbalzare leggermente. Dopo aver completato un ciclo di alternanza sinistra/destra, le mani scendono sovrapponendosi davanti alla vita, per poi aprirsi immediatamente ai lati, generando un chiaro movimento di abbassamento e risalita. I gesti sono fluidi, la sovrapposizione funge da preparazione per l'apertura successiva.
+
+L'espressione si rilassa naturalmente partendo dal sorriso del primo piano, la testa si inclina leggermente seguendo la linea delle spalle, tornando a guardare dritta in camera quando le braccia si aprono.
+
+[11-15s | Dito puntato vicino al viso, apertura in posizione bassa]
+Dopo l'apertura delle braccia, la mano destra rientra accanto al viso formando chiaramente la figura di un singolo dito alzato, l'avambraccio sinistro resta davanti alla vita/addome. Il piede sinistro fa un piccolo passo atterrando a sinistra per sostenere il peso, i fianchi spingono a sinistra, la linea delle spalle si inclina nella direzione opposta; quando il corpo cambia direzione, l'avambraccio sinistro si apre lateralmente, mentre la mano destra mantiene brevemente la posizione accanto al viso.
+
+Successivamente la mano destra scende lungo il petto, sovrapponendosi all'avambraccio sinistro davanti alla vita/addome, le ginocchia si piegano leggermente; subito dopo le mani si separano, i gomiti vicini ai fianchi, gli avambracci si aprono su entrambi i lati, coordinandosi con due consecutivi trasferimenti di peso sinistra-destra. La testa ondeggia leggermente seguendo il cambio di direzione, infine il viso si gira verso l'obiettivo e il sorriso riappare.
+
+Il video termina mentre si sta ancora completando l'ultimo spostamento laterale e relativo rimbalzo, mantenendo intatto lo slancio del ballo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115996669972021248/img/_zjzCiZJtxgkOXLV.jpg" width="600" alt="Prompt Video di Ballo Douyin Seedance 2.0">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13173)**
+
+**Autore:** [kollectionca](https://x.com/kollectionca) | **Fonte:** [Link](https://x.com/kollectionca/status/2115996967851675935) | **Pubblicato:** Oct 30, 2026
+
+---
+### Chiavi per il pavimento da camera dei sogni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per generare un video cinematografico realistico di un uomo che trasforma un mucchio di chiavi antiche in un pavimento lucido in stile terrazzo, utilizzando resina epossidica e lucidatura.
+
+#### 📝 Prompt
+
+```
+Un video cinematografico realistico ambientato in una stanza vuota e luminosa, con pareti bianche, pavimento in cemento grezzo e un'ampia finestra. L'inquadratura si apre su un uomo barbuto in salopette di jeans blu che impugna una pala accanto a un enorme cumulo formato da migliaia di antiche chiavi in ottone e ferro. Con la pala rastrella il mucchio, distribuendo le chiavi in uno strato uniforme che ricopre l'intero pavimento come un tappeto metallico. Subito dopo, una donna in salopette rossa versa da un grande secchio di plastica una densa resina epossidica autolivellante bianca: il liquido lucido si espande in cerchi concentrici fino a sommergere completamente le chiavi. A seguire, un operaio con gilet ad alta visibilità giallo e cappellino spinge avanti e indietro una levigatrice per pavimenti sulla superficie ormai indurita, lucidandola fino a trasformarla in un pavimento bianco a specchio, in cui le teste dorate delle chiavi brillano attraverso la resina come in un terrazzo veneziano. Infine, due operai vestiti di nero assemblano rapidamente un giroletto in noce scuro, vi appoggiano un materasso bianco e aggiungono cuscini, un plaid beige con frange e due comodini in legno con lampade in ceramica. Il video si chiude con un'ampia inquadratura fissa della camera da letto di design finita, mentre la luce del sole si riflette sul pavimento lucido con le chiavi incastonate. Riprese fluide, luce naturale diurna, atmosfera appagante da time-lapse di ristrutturazione, iper-dettagliato, fotorealistico, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115913993273442304/img/6R-0vM0H07l2Nzj-.jpg" width="600" alt="Chiavi per il pavimento da camera dei sogni">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13169)**
+
+**Autore:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2115914032884613494) | **Pubblicato:** Oct 29, 2026
+
+---
+### Pavimento in Terrazzo con Vetro Marino per Camera da Letto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare un video in stile documentaristico di un processo di ristrutturazione, dove il vetro marino colorato viene incorporato nella resina epossidica per creare un pavimento in terrazzo scintillante in una nuova camera da letto.
+
+#### 📝 Prompt
+
+```
+Video verticale, stanza vuota e luminosa con pareti bianche, un'ampia finestra con cornice nera e pavimento in cemento grezzo. Un uomo con salopette blu navy e t-shirt nera rastrella un enorme cumulo di vetri di mare colorati nelle tonalità del blu, del verde e trasparenti, distribuendoli uniformemente sul pavimento. Una donna con salopette rossa si inginocchia e versa resina epossidica bianco latte da secchi bianchi sui vetri, mentre lui la stende con una spatola. Transizione in time-lapse mentre la resina indurisce trasformandosi in una superficie lucida. Operai con magliette nere, uno dei quali indossa un gilet antinfortunistico giallo fluo, levigano e lucidano il pavimento con una levigatrice a spinta e un aspiratore, rivelando un pavimento liscio simile al terrazzo, ricco di frammenti di vetro che brillano alla luce del giorno. Montaggio accelerato: due operai assemblano una struttura letto in legno, posizionano le doghe, il materasso e lenzuola beige neutre. Inquadratura fissa finale della camera da letto accogliente appena completata, con il pavimento scintillante in vetro riciclato, il letto in legno, i comodini, le lampade e gli alberi verdi visibili attraverso la finestra. Stile documentaristico realistico, illuminazione naturale, movimenti di camera fluidi, processo di ristrutturazione appagante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115913011823083520/img/i026LEQVmCZad7rf.jpg" width="600" alt="Pavimento in Terrazzo con Vetro Marino per Camera da Letto">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13170)**
+
+**Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2115913066776785313) | **Pubblicato:** Oct 29, 2026
+
+---
+### Trasformazione del Pavimento: Da Ciottoli a Terrazzo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per video time-lapse che mostra il processo di trasformazione di ciottoli arancioni in un pavimento da camera da letto lucido in stile terrazzo con resina epossidica, inclusa l'assemblaggio della stanza.
+
+#### 📝 Prompt
+
+```
+Video verticale in una stanza luminosa e vuota, con pareti bianche e un'ampia finestra da cui si vedono alberi verdi all'esterno. Un uomo in tuta blu rastrella un enorme mucchio di ciottoli arancioni lucidi sul pavimento in cemento grezzo, distribuendoli uniformemente in tutta la stanza. Degli operai in tuta rossa versano dai secchi una resina epossidica autolivellante bianca sui ciottoli, per poi stenderla con spatole e rulli fino a ottenere una superficie piatta, liscia e lucida. Time-lapse di un operaio con gilet giallo ad alta visibilità e respiratore che leviga il pavimento indurito con una lucidatrice, rivelando una superficie simile al terrazzo alla veneziana, punteggiata di ciottoli arancioni rotondi. Time-lapse accelerato dell'allestimento della stanza: viene montata una struttura del letto in legno, rifatta con lenzuola bianche e cuscini beige, si aggiunge un comodino con lampada e alle pareti vengono appesi quadri astratti incorniciati. Inquadratura fissa finale di un'accogliente camera da letto finita, con il pavimento lucido di ciottoli arancioni che risplende sotto la morbida luce naturale del giorno. Fotorealistico, time-lapse di ristrutturazione appagante, movimenti di camera fluidi, illuminazione naturale calda.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115798362968424448/img/9CgbjQwDDoeZVfXq.jpg" width="600" alt="Trasformazione del Pavimento: Da Ciottoli a Terrazzo">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13168)**
+
+**Autore:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2115798407444918459) | **Pubblicato:** Oct 29, 2026
+
+---
+### Pavimento Specchiato con Ricambi Auto Arrugginiti
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per un video ASMR di ristrutturazione che mostra parti di auto arrugginite ricoperte di resina epossidica e lucidate fino a rivelare un pavimento a specchio con silhouette incorporate, seguito dall'assemblaggio della camera da letto.
+
+#### 📝 Prompt
+
+```
+Soddisfacente video ASMR di ristrutturazione in una stanza vuota e luminosa con pareti bianche, un'ampia finestra che si affaccia su alberi verdi e un pavimento in cemento grezzo. Un uomo barbuto con una salopette blu usa un lungo rastrello per distribuire uniformemente sul pavimento un enorme cumulo di portiere, cofani e pannelli arrugginiti di automobili, disponendoli piatti uno accanto all'altro. Una donna con una salopette rossa versa poi da un secchio una densa resina epossidica autolivellante bianca sui pezzi di metallo arrugginito; il liquido lucido si espande e ricopre tutto, creando una superficie liscia e lattiginosa. Una volta indurita, un operaio con un gilet giallo ad alta visibilità spinge una macchina levigatrice e lucidatrice per pavimenti sulla superficie, rivelando gradualmente i contorni nitidi dei componenti auto incastonati sotto un pavimento bianco lucido a specchio che riflette la luce del giorno. Infine, due operai in uniforme nera e guanti rosa portano dentro una struttura del letto in metallo nero, vi appoggiano un materasso e preparano il letto con lenzuola e cuscini grigi, completando una camera da letto moderna. Panoramiche fluide e zoom delicati seguono l'azione, luce naturale diurna, dettagli iperrealistici, montaggio di trasformazione soddisfacente, formato verticale.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115797448610242561/img/8FXa9w6moNFSBAWO.jpg" width="600" alt="Pavimento Specchiato con Ricambi Auto Arrugginiti">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13171)**
+
+**Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2115797490725273924) | **Pubblicato:** Oct 29, 2026
+
+---
 ### Prompt Video Xianxia Antico Seedance 2.0 Mini
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -624,6 +755,29 @@ Non cambiare personaggi, armi,
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13129)**
 
 **Autore:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2115629293430788360) | **Pubblicato:** Oct 29, 2026
+
+---
+### Prompt Trailer Cinematografico Stile GTA 6
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Analisi descrittiva di un prompt per generare un trailer cinematografico realistico in stile GTA 6 con Seedance 2.0, caratterizzato da città al neon, inseguimenti in auto e riprese dall'elicottero.
+
+#### 📝 Prompt
+
+```
+Si apre con una spettacolare ripresa aerea al tramonto: una città tropicale immersa nei neon, con le palme che brillano contro il cielo. Poi lo stacco su un'auto sportiva rossa di lusso che sfreccia lungo strade bagnate e riflettenti, fiancheggiate da insegne al neon colorate. Vita notturna, folla, club: puro caos ed energia allo stato puro.
+
+Quando partono gli inseguimenti della polizia, la tensione sale alle stelle. Derapate ad alta velocità, motion blur, illuminazione volumetrica: ogni fotogramma trasuda atmosfera cinematografica e vitalità.
+
+Il finale è un hero shot mozzafiato che domina l'intera città, mentre un elicottero solca il cielo.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2115613087944634369/pu/img/Xt4oFu3EHB78xvtZ.jpg" width="600" alt="Prompt Trailer Cinematografico Stile GTA 6">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13172)**
+
+**Autore:** [财经世界观](https://x.com/CaijingView) | **Fonte:** [Link](https://x.com/CaijingView/status/2115613143519096838) | **Pubblicato:** Oct 29, 2026
 
 ---
 ### Video di Ristrutturazione del Pavimento in Resina con Calendule
@@ -3955,171 +4109,6 @@ Il vicolo di servizio dietro l'edificio conduce direttamente al retro del negozi
 **Autore:** [探路AI](https://x.com/TanLuAI) | **Fonte:** [Link](https://x.com/TanLuAI/status/2107763438747521348) | **Pubblicato:** Oct 7, 2026
 
 ---
-### Scena Cinematografica del Pranzo nella Mensa Scolastica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per generare un video cinematografico ultra-realistico di una studentessa in una mensa scolastica coreana che tiene un vassoio del pranzo. Si concentra su dettagli fotorealistici, illuminazione e composizione.
-
-#### 📝 Prompt
-
-```
-Scena cinematografica ultra-realistica di una giovane studentessa dell'Asia orientale in piedi in una luminosa mensa scolastica coreana, indossa una camicia bianca ordinata della divisa scolastica con cravatta a quadri blu e gonna blu navy scuro, tenendo verso la camera un vassoio del pranzo in acciaio inox. Il vassoio contiene riso bianco al vapore soffice, zuppa rossa piccante, salsicce, verdure e contorni tradizionali. Altri studenti sono seduti ai tavoli sullo sfondo leggermente sfocato. Illuminazione interna naturale, texture realistiche del cibo, profondità di campo ridotta, bokeh cremoso, composizione cinematografica, dettagli sulla pelle e sulle texture dei tessuti, obiettivo 85mm, f/1.8, HDR, fotorealistico, 8K, composizione verticale 9:16, atmosfera calda e autentica della vita scolastica
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107699321319858176/img/Jphi94bk2Oh7lRFB.jpg" width="600" alt="Scena Cinematografica del Pranzo nella Mensa Scolastica">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12053)**
-
-**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2107699358762422759) | **Pubblicato:** Oct 7, 2026
-
----
-### Scena Narrativa Cinematografica sulla Banchina Ferroviaria
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt dettagliato per la generazione di un video che crea una scena cinematografica di 15 secondi con un uomo in attesa su una banchina ferroviaria sotto la pioggia. Specifica movimenti della camera, illuminazione, color grading e indicazioni audio per costruire un arco narrativo emotivo.
-
-#### 📝 Prompt
-
-```
-Scena narrativa cinematografica verticale 9:16 di 15 secondi, 24fps, look anamorfico da 35mm, atmosfera cupa ed emotiva.
-0-3s (introduzione): Notte, una banchina ferroviaria silenziosa e vuota sotto una leggera pioggia. Un giovane uomo in un cappotto lungo sta solo, tenendo una vecchia busta; il suo respiro è visibile nell'aria fredda. Lento dolly-in alle sue spalle.
-3-7s (tensione): Primo piano sul suo viso mentre guarda la busta, poi alza lo sguardo verso la luce di un treno lontano che cresce attraverso la nebbia. Le sue mani tremano leggermente. Rack focus dalla busta ai suoi occhi.
-7-11s (svolta): Il treno arriva con un soffio di vento. Il suo cappotto e i capelli vengono sferzati lateralmente. Esita, poi lascia scivolare la busta dalle sue dita sulla banchina bagnata. Slow motion, gocce sospese nell'aria.
-11-15s (finale): Le porte si aprono, una luce calda gialla si riversa sul suo viso. Sale a bordo senza voltarsi. La camera rimane fissa sulla busta sulla banchina mentre il treno si allontana, poi dissolvenza al nero.
-Look: Color grading teal e amber, ombre profonde, illuminazione pratica morbida, grana fine del film, profondità di campo ridotta.
-Audio: Pioggia leggera, rombo del treno distante che aumenta, una singola nota sostenuta di pianoforte all'arrivo del treno, silenzio nella dissolvenza finale. Nessun dialogo.
-Testo: Nessuno.
-Lingua: Nessun parlato e nessun testo sullo schermo, quindi nessuna questione linguistica.
-Evitare: Mani deformate, volti distorti, sfarfallio, testo illeggibile, filigrane, arti extra.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107427869517590528/img/Ca8Q0vKPSHYSNxix.jpg" width="600" alt="Scena Narrativa Cinematografica sulla Banchina Ferroviaria">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12054)**
-
-**Autore:** [ORHAN](https://x.com/OrhanGhazi65942) | **Fonte:** [Link](https://x.com/OrhanGhazi65942/status/2107427996705718600) | **Pubblicato:** Oct 6, 2026
-
----
-### Scena di basket giocosa con mascotte cane
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per un video fotorealistico di una ragazza coreana che gioca a basket con una gigantesca mascotte cane, caratterizzato da transizioni fluide della telecamera e estetica ispirata ai K-drama.
-
-#### 📝 Prompt
-
-```
-Una bella ragazza coreana dai lunghi capelli scuri, indossa una canotta nera aderente, pantaloncini sportivi neri e scarpe da ginnastica bianche, sta giocando a basket su un campo da basket esterno color arancione circondato da rigogliosi alberi verdi. Una tenera mascotte gigante in stile cartone animato bianco, con orecchie nere flosce, è in piedi di fronte a lei, tiene e rimbalza un pallone da basket. La scena inizia con un'inquadratura cinematografica ampia che mostra la ragazza rivolta verso il personaggio del cane gigante vicino al canestro. Interagisce giocosamente con la mascotte mentre palleggia il pallone da basket, creando un'atmosfera divertente e affascinante. La telecamera si muove fluidamente tra inquadrature ampie e primi piani medi, catturando le espressioni naturali della ragazza, i capelli fluenti, i movimenti realistici del corpo e le reazioni carine della mascotte. A metà del video, la ragazza si avvicina alla telecamera tenendo il pallone da basket, apparendo sicura di sé e leggermente giocosa. Il personaggio del cane gigante rimane visibile sullo sfondo, reagendo con umorismo ai suoi movimenti. Verso la fine, si sposta di nuovo verso il canestro e si prepara per un altro momento giocoso di basket, mentre la mascotte è vista in primo piano. Ragazza coreana fotorealistica, texture naturale della pelle, tratti somatici realistici, identità coerente, ciocche di capelli dettagliate, movimento atletico realistico, illuminazione esterna cinematografica, luce diurna soffusa e nuvolosa, profondità di campo ridotta, movimento fluido della telecamera a mano libera, texture realistiche del campo da basket, ombre naturali, qualità cinematografica 4K ad alta definizione, stile visivo giocoso ispirato ai K-drama, nessuna distorsione del viso, nessun dito extra, nessun movimento corporeo innaturale, nessun testo o filigrana.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107339831844171776/img/4LsCyW9rPzzslP5o.jpg" width="600" alt="Scena di basket giocosa con mascotte cane">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11984)**
-
-**Autore:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fonte:** [Link](https://x.com/ayzalnooor24521/status/2107340030536741222) | **Pubblicato:** Oct 6, 2026
-
----
-### Attacco di un mostro in un quartiere suburbano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per una scena cinematografica ricca di effetti visivi (VFX) in cui una creatura gigante emerge dal terreno in un contesto suburbano al tramonto.
-
-#### 📝 Prompt
-
-```
-Scena cinematografica ultra-realistica di un quartiere suburbano al tramonto, un misterioso oggetto luminoso appare su un prato erboso mentre una gigantesca e grottesca creatura verde emerge improvvisamente dal terreno, corpo enorme con texture viscida, occhi espressivi e furiosi, dettagli realistici della pelle, polvere e detriti che volano nell'aria, un uomo sotto shock osserva da lontano, una lussuosa casa suburbana sullo sfondo, illuminazione drammatica dell'ora d'oro, foschia atmosferica, movimento di camera cinematografico, profondità di campo ridotta, VFX fotorealistici, altamente dettagliato, 8K, ombre realistiche, stile epico da blockbuster hollywoodiano, composizione verticale 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107333865253773312/img/OglQcBBKfBfaKX1l.jpg" width="600" alt="Attacco di un mostro in un quartiere suburbano">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11985)**
-
-**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2107333962402341067) | **Pubblicato:** Oct 6, 2026
-
----
-### Cyberpunk Woman Neon Alley
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per generare una scena cyberpunk ultra-realistica di una giovane donna che cammina in un vicolo illuminato al neon, con focus su dettagli della moda, illuminazione e specifiche della fotocamera.
-
-#### 📝 Prompt
-
-```
-Scena cinematografica cyberpunk ultra-realistica di una giovane donna feroce che cammina con sicurezza attraverso un oscuro vicolo cittadino illuminato al neon di notte. Ha lunghi capelli scuri, un'espressione intensa e indossa una giacca bianca oversize futuristica sopra un top corto rosso, pantaloni tattici neri, guanti e accessori utility. Strade bagnate che riflettono luci rosse e calde della città, nebbia atmosferica, insegne luminose, ombre drammatiche, profondità di campo ridotta, bokeh cinematografico, movimento dinamico della camera, texture realistiche di pelle e tessuto, alto dettaglio, atmosfera moody da film d'azione, obiettivo 85mm, f/1.4, HDR, 8K, fotorealistico, composizione verticale 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106972520972947456/img/0SDQbYzRuv36V6Vl.jpg" width="600" alt="Cyberpunk Woman Neon Alley">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11918)**
-
-**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2106972552119963744) | **Pubblicato:** Oct 5, 2026
-
----
-### Prompt Video Seedance per una Storia Comica di Matrimonio
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt dettagliato per la generazione video con Seedance, che crea una storia comica di 15 secondi su una donna che chiede al fidanzato di tingere i capelli di verde se parteciperà al suo futuro matrimonio con un altro uomo. Il prompt include istruzioni per la coerenza dei personaggi, transizioni di scena, movimenti della camera e dialoghi specifici.
-
-#### 📝 Prompt
-
-```
-15 secondi, formato orizzontale 16:9, texture realistica live-action, sfondo urbano cinese moderno. La prima metà è una conversazione naturale e intima tra una coppia; la seconda metà taglia bruscamente a un matrimonio in stile occidentale in un hotel del futuro. La camera si allontana lentamente, rivelando gradualmente ospiti maschili con diversi colori di capelli, creando un assurdo e imbarazzante colpo di scena comico. Le performance dei personaggi sono sobrie; ambiente, pelle, vestiti e illuminazione sono realistici e naturali.
-[Personaggi e Continuità]
-La protagonista femminile è una giovane donna adulta cinese @image (31). La sposa al matrimonio futuro deve essere la stessa donna, mantenendo lineamenti e contorni del viso coerenti, cambiando solo acconciatura, trucco e vestiti.
-Il protagonista maschile è un giovane uomo adulto cinese, inizialmente con normali capelli corti neri e abiti casual quotidiani. Al matrimonio futuro, i suoi lineamenti, forma del viso, corporatura e contorno dell'acconciatura rimangono coerenti, ma indossa un abito aderente e ha tinto i capelli di un verde evidente, esaudendo la richiesta fatta dalla donna all'inizio. Non deve cambiare volto a causa delle modifiche alla scena o al colore dei capelli.
-Lo sposo è un altro uomo adulto cinese, leggermente paffuto, con capelli neri, chiaramente diverso nell'aspetto dal protagonista maschile, che indossa un abito formale da sposo.
-Ci sono più ospiti maschili adulti nel luogo del matrimonio, ognuno con capelli rossi, blu, viola, gialli o arancioni, incluso un altro uomo con capelli verdi. I loro aspetti, altezze, corporature, acconciature e completi sono tutti diversi. I capelli tinti mantengono ciocche reali, radici e lucentezza, non sembrano parrucche colorate o luminosi.
-[0-7s: Conversazione Quotidiana della Coppia]
-Parco cittadino ordinario o area residenziale sotto casa, sera, luce naturale soffusa, leggeri suoni ambientali di vita quotidiana in sottofondo.
-La ragazza e il ragazzo siedono fianco a fianco su una panchina. Usa un primo piano medio di due persone, identificando chiaramente i loro volti. La ragazza si gira verso il ragazzo, tenendogli la mano, parlando affettuosamente, seriamente, con un po' di civetteria, come se menzionasse casualmente qualcosa di romantico. Il ragazzo la guarda intensamente.
-La ragazza dice completamente e chiaramente:
-"Amore, se la persona che mi sposerà in futuro non sei tu, allora devi tingerti i capelli di verde per partecipare al mio matrimonio, così potrò individuarti a colpo d'occhio."
-Parlato a un ritmo naturale, leggermente veloce, coerente e quotidiano, non deliberatamente prolungato, senza parole mangiate, nessuna accelerazione meccanica. Mentre la ragazza parla, il ragazzo la guarda ascoltando, mostrando un debole sorriso che è sia commosso che confuso, senza aggiungere una risposta.
-Mantieni una performance continua, stabilendo chiaramente il volto del protagonista maschile. La ragazza non ghigna in anticipo, non fa l'occhiolino alla camera, non anticipa il colpo di scena successivo.
-[7-9s: Taglio Brusco al Matrimonio Futuro, Prima Visto lo Stesso Volto, Poi Capelli Verdi]
-Appena la ragazza finisce l'ultima parola "tu", taglia immediatamente alla scena del matrimonio in hotel. Il suono ambientale passa sincronizzato dai suoni esterni di vita quotidiana agli applausi e alle voci ovattate nella sala banchetti.
-Taglia a un primo piano frontale dello stesso volto del protagonista maschile. Il bordo superiore dell'iniziale inquadratura è ritagliato sotto la linea dei capelli, nascondendo temporaneamente i capelli, lasciando che il pubblico lo riconosca come il ragazzo di poco prima.
-Siede nei posti degli ospiti del matrimonio, indossando un completo, con un'espressione leggermente contratta, portando un'anticipazione complessa, gli occhi diretti verso la navata d'ingresso.
-La camera poi si muove lentamente e costantemente indietro, rivelando gradualmente la sua testa intera—ha i capelli tinti di verde.
-Il colore verde viene visto dal pubblico per la prima volta in questo momento. Era già con i capelli verdi dall'inizio dell'ingresso nella ripresa del matrimonio, nessun effetto di cambio colore sul posto appare.
-[9-12s: Ingresso Sposa e Sposo, Altri Colori di Capelli Appaiono Gradualmente]
-La camera continua a muoversi indietro, espandendosi da un primo piano a un'inquadratura media, facendo lievi aggiustamenti orizzontali per mantenere il protagonista maschile con i capelli verdi su un lato dell'inquadratura, rivelando gradualmente la navata centrale del matrimonio.
-La scena è una vera sala banchetti di hotel allestita per un matrimonio occidentale, con composizioni floreali di colore chiaro, sedie bianche o beige, luci calde del soffitto e una navata d'ingresso tappetizzata. L'illuminazione ha fonti chiare, l'abito da sposa mantiene i dettagli del tessuto, nessun effetto da terra delle fate onirico.
-Sulla navata sullo sfondo, la ragazza dell'inizio indossa un abito da sposa, tenendo il braccio con lo sposo leggermente paffuto, entrando lentamente. L'aspetto e la corporatura dello sposo sono chiaramente diversi dal protagonista maschile con i capelli verdi.
-Il protagonista maschile originariamente guardava la sposa, mantenendo a malapena un debole sorriso. Man mano che la camera si allontana, un ospite maschile con i capelli rossi e un ospite maschile con i capelli blu entrano nell'inquadratura vicino a lui successivamente.
-Lui dà un'occhiata involontaria all'uomo con i capelli rossi accanto a lui, il suo sorriso si ferma leggermente, poi guarda l'uomo con i capelli verdi dall'altra parte, le sopracciglia si muovono leggermente, iniziando a sentire che qualcosa non va.
-[12-15s: Rivelare Più Uomini con Capelli Colorati, Protagonista Maschile Guarda Intorno Sorpreso]
-La camera continua a muoversi indietro lungo la stessa traiettoria, espandendosi a una vista più ampia contenente il protagonista maschile, file circostanti di ospiti e la navata del matrimonio. La sezione del matrimonio rimane continua, nessun ulteriore taglio.
-Più ospiti maschili con diversi colori di capelli entrano gradualmente nell'inquadratura: viola, giallo, arancione e un altro uomo con i capelli rossi che differisce dal protagonista maschile nell'aspetto, corporatura e acconciatura.
-Incluso il protagonista maschile, circa sei-otto uomini con capelli colorati sono sparsi seduti in file adiacenti, intervallati con ospiti comuni con capelli neri. Non tutti gli ospiti hanno i capelli tinti, né formano una linea arcobaleno ordinata.
-Sono tutti diversi: alcuni magri, alcuni robusti, alcuni leggermente paffuti; alcuni rasati, alcuni corti con riga laterale, alcuni leggermente ricci. I completi sono neri, blu scuro, grigi, marroni, con differenze evidenti nella vestibilità, cravatte e combinazioni di camicie, sembrando veri ospiti invitati indipendentemente al matrimonio.
-Queste persone sono state sedute nelle loro posizioni originali dall'inizio della ripresa del matrimonio, appena bloccate dalla composizione iniziale stretta, diventando visibili man mano che la camera si muove indietro, non possono apparire dal nulla o tingersi improvvisamente i capelli.
-Il protagonista maschile guarda prima a sinistra, poi a destra, infine girandosi leggermente per guardare diagonalmente dietro, scoprendo un altro uomo con i capelli verdi. La sua espressione cambia da confusione a sorpresa e imbarazzo, labbra leggermente aperte, come se finalmente realizzasse che potrebbe non essere l'unico ad aver ricevuto tale promessa.
-Gli altri uomini con capelli colorati principalmente continuano a guardare il matrimonio, alcuni possono brevemente incrociare lo sguardo con lui, non girando collettivamente la testa o reagendo in sincronia.
-Il finale preserva simultaneamente lo sguardo sorpreso del protagonista maschile intorno, gli uomini circostanti con diversi colori di capelli, e la sposa e lo sposo che continuano a entrare sullo sfondo. Lo schermo termina naturalmente, nessun dialogo extra per spiegare la battuta.
-[Cinematografia, Performance e Atmosfera Realistica]
-L'apertura usa luce naturale diurna, il matrimonio usa illuminazione interna calda dell'hotel. I toni della pelle sono normali, mantenendo la texture della pelle, i completi hanno pieghe reali, l'abito da sposa ha peso, i capelli tinti hanno strati naturali di luce e buio.
-La prima metà sembra una vera coppia che chatta casualmente, la seconda metà sembra una scoperta imbarazzante che accade in una vera scena di matrimonio. Il protagonista maschile esprime emozioni attraverso il contatto visivo, micro-espressioni e guardando a sinistra e destra, nessun sguardo spalancato cartoonesco, bocca aperta o azioni di coprirsi il viso.
-L'allontanamento del matrimonio usa un movimento reale della camera all'indietro, velocità costante, disponendo le posizioni degli ospiti in anticipo così che diversi colori di capelli entrino nell'inquadratura sequenzialmente. Dopo l'allontanamento, aumenta gradualmente la profondità di campo, assicurando che la relazione tra il protagonista maschile, gli ospiti con capelli colorati e gli sposi sullo sfondo sia discernibile, non sfocando mai i personaggi circostanti in blocchi di colore.
-Nessuna qualità DV retrò, tremolio esagerato della mano, fisheye, zoom improvviso, orbita ad alta velocità, slow motion, pelle plastica o filtri pesanti.
-[Sonoro]
-L'apertura mantiene il dialogo della ragazza e leggeri suoni esterni di vita quotidiana. Dopo il taglio brusco, entra applauso naturale, fruscio di tessuti, cigolio di sedie e conversazioni ovattate nella sala banchetti dell'hotel.
-Il dialogo corrisponde accuratamente ai movimenti delle labbra della ragazza, il protagonista maschile non parla per lei o interrompe. Nessun dialogo chiaro aggiunto nella sezione del matrimonio.
-Nessuna narrazione, nessuna musica di sottofondo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106953873076486145/img/IOpYXcKBoJQlAILi.jpg" width="600" alt="Prompt Video Seedance per una Storia Comica di Matrimonio">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11920)**
-
-**Autore:** [探路AI](https://x.com/TanLuAI) | **Fonte:** [Link](https://x.com/TanLuAI/status/2106955448352231762) | **Pubblicato:** Oct 5, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -4181,6 +4170,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-30T04:53:32.456Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-30T15:16:29.955Z</sub>
 
 </div>

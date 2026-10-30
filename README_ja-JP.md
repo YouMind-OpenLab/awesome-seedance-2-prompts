@@ -68,7 +68,7 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **6603** |
+| 📝 プロンプト総数 | **6609** |
 | ⭐ おすすめプロンプト | **6** |
 | 🔄 最終更新 | **2026-10-30** |
 
@@ -361,6 +361,136 @@ Seedance 2.0 を使用して、夜のシネマティックなストリートレ�
 
 > 📝 公開日でソート（新しい順）
 
+### Seedance 2.0 Douyin ダンス動画プロンプト
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 を使用して15秒の縦型ダンス動画を生成するための詳細なプロンプト。具体的なカメラワーク、振り付けの手順、キャラクターの一貫性を保つための指示が含まれています。
+
+#### 📝 プロンプト
+
+```
+15 秒、アスペクト比 9:16 、 Douyin （ TikTok スタイル）で実在の女性が踊るショート動画。ワンカットで構成し、リファレンスとなる人物の外見、衣装、シーンを維持します。手の動きは頭より上には上げません。左右はダンサー本人から見た左右を指します。
+
+全体の演出：明確に異なる 2 つのダンスシークエンスを連続させ、「右手でレンズを掴むように引き寄せて顔に近づけ、左手を外へ振り抜いてレンズを引き戻す」動きでつなぎます。同じダンスエリア内でバウンス（上下動）を継続し、肩、腰、腕が連動して動きます。大きく伸びる動きと素早く引く動きのコントラストを特徴とし、各セクションが途切れなく次の動作へと直結します。
+
+[0-3s | 第 1 シークエンス：腰を支えて伸ばす]
+カメラ POV ：正面からのミディアムショット。頭頂部から膝上までを捉え、肩、腰、ヒップ、腕をすべて画面内に収めます。
+
+すでにダンスが始まっている状態です。左手は腰に添え、右手のひらをレンズに向かって伸ばしてから肩の前へ引き戻します。この動きに合わせて体を右へ傾け、左へ戻します。膝には弾力を持たせ、ヒップの切り返しに合わせてショルダーラインを傾けます。1 回目の伸展は大きく広げ、2 回目の引きは素早く行います。腕を引き戻した時点で、体はすでに次の方向転換に入っています。頭は体の動きに合わせて軽く揺れ、最初はリラックスした表情でレンズを見つめ、2 回目に手を引く際にわずかに微笑みます。
+
+[3-6s | 腕を重ねて沈み込み、手のひらで押して切り返す]
+右手は自然に腹部の前へ下ろし、左手は腰から離します。両前腕を腰〜腹部の前で交差させて重ね、膝を軽く曲げて重心を沈めます。直後に両腕を大きく開き、体を持ち上げながら左側へ戻します。
+
+左手のひらを胸に当て、右手のひらを胸から右斜め前へ押し出します。押す動きに合わせて肩と胸をやや斜めに開き、手を引くときに正面へ戻します。さらにもう一度前方へ押し出し、同時にヒップの向きを切り替えます。手のひらの向きは常に明確にし、押して引く一連の動きで短いフレーズを完結させます。最後のプッシュは、そのままレンズへ手を伸ばす動きへと自然につながります。
+
+[6-8s | 掴んで顔へ引き寄せ、手を振り抜く]
+右手をレンズへ伸ばし、指を緩やかに握るように閉じます。直後に右肘を鋭く後ろへ引き、拳を顔の横を通って右肩の前まで引き戻し、肩と胸も後方へ引かれます。
+
+カメラ POV ：手を伸ばして近づく間は距離を保ちます。右肘が引き始められた瞬間、レンズも同期して一気に顔のクローズアップへ迫り、顔の前で減速します。レンズの移動は、この引きの動作と同時に完了します。
+
+顔に近づいた瞬間、彼女はわずかに首を傾け、視線を正確にレンズへ合わせ、口角を上げます。体のリズムは途切れず、右手は胸の前を下り、左手はすぐに胸の前から左側へ大きく振り抜きます。手と肩が一体となってこのスイングを生み出します。
+
+カメラ POV ：左手が振り抜かれた瞬間に素早く引き、頭頂部から膝上までのミディアムショットに戻します。人物は終始センターに配置します。
+
+[8-11s | 引きながら第 2 シークエンスへ：肩の高さで腕を交互に動かす]
+レンズが引いている最中に、振り抜いた左腕はすでに肘を曲げて引き戻され、同時に右腕が上がります。軽く握った両手が肩の高さまで到達します。
+
+肩を左右交互に前に押し出し、曲げた肘は肩の動きに合わせて前後に連動します。ヒップは左右への体重移動に連動し、膝は軽いバウンスを続けます。左右 1 セットの交互運動が終わると、両手を下ろして腰の前で重ね、すぐに左右へ開いて、明確な沈み込みと浮き上がりを作ります。動きは滑らかにつながり、手を重ねる動作が次の展開へのタメとなります。
+
+表情は顔に近づいた際の笑顔から自然に和らぎ、頭はショルダーラインに合わせて軽く傾きます。腕を開くタイミングで、再びレンズを真っ直ぐに見つめます。
+
+[11-15s | 顔のそばで指差し、低い位置での展開]
+腕を開いた流れで、右手を顔の横へ引き、人差し指を立てた形を明確に作ります。左前腕は腰〜腹部の前に留めます。左足を小さく踏み出して左へ体重を乗せ、ヒップを左へ押し出し、ショルダーラインは反対側へ傾けます。体が切り返すタイミングで、左前腕を横へ大きく開き、右手は一瞬だけ顔の横の形を保ちます。
+
+続いて右手を胸の前から下ろし、腰〜腹部の前で左前腕と重ねて膝を軽く曲げます。すぐに重ねを解き、肘を腰の横に寄せたまま両前腕を左右へ開きます。この動きを、左右 2 回の体重移動に連動させます。頭は切り返しに合わせて軽く揺れ、最後に顔をレンズへ向けて再び微笑みます。
+
+最後の横移動とリバウンドを完了する途中で動画を終了し、ダンスの勢いを残したまま終わります。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115996669972021248/img/_zjzCiZJtxgkOXLV.jpg" width="600" alt="Seedance 2.0 Douyin ダンス動画プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=13173)**
+
+**作者:** [kollectionca](https://x.com/kollectionca) | **ソース:** [Link](https://x.com/kollectionca/status/2115996967851675935) | **公開日:** Oct 30, 2026
+
+---
+### 夢の寝室床への鍵
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> エポキシ樹脂と研磨を用いて、アンティークの鍵の山を光沢のあるテラゾー調の寝室床に変換する男性のリアルなシネマティック動画生成用プロンプト。
+
+#### 📝 プロンプト
+
+```
+白い壁、むき出しのコンクリート床、大きな窓がある明るく何もない部屋の中で撮影された、リアルなシネマティック映像。青いデニムのオーバーオールを着たひげを生やした男性がシャベルを持ち、何千本ものアンティーク調の真鍮製および鉄製の鍵が山積みになった巨大な山の隣に立っているシーンから始まります。彼はシャベルとレーキを使ってその山を崩し、鍵を均一に広げて、金属のカーペットのように床全体を覆い尽くします。次に、赤いオーバーオールを着た女性が大きなプラスチックバケツから粘度の高い白いセルフレベリングエポキシ樹脂を流し込みます。光沢のある液体が円を描くように外側へ広がり、やがて鍵を完全に覆い隠します。続いて、黄色い高視認性ベストとキャップ帽を着用した作業員が、硬化した表面の上で床面研磨機を前後に動かし、鏡のように輝く白い床へと磨き上げます。樹脂越しに金色の鍵頭がテラゾのようにきらめきます。最後に、黒い服を着た 2 人の作業員がダークウォールナット色のベッドフレームを手早く組み立て、白いマットレスを置き、枕、ベージュのフリンジ付きスローブランケット、そしてセラミックランプを載せた木製ナイトテーブル 2 台を配置します。映像は、完成したデザイナーズベッドルームを広く捉えた固定ショットで締めくくられ、鍵が埋め込まれた光沢のある床に太陽の光が反射しています。滑らかなカメラワーク、自然な昼光、見応えのあるリノベーションタイムラップのような雰囲気、超精細、写実的、4K。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115913993273442304/img/6R-0vM0H07l2Nzj-.jpg" width="600" alt="夢の寝室床への鍵">
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=13169)**
+
+**作者:** [Ruslan Ai](https://x.com/Ruslanchain) | **ソース:** [Link](https://x.com/Ruslanchain/status/2115914032884613494) | **公開日:** Oct 29, 2026
+
+---
+### シーグラス テラゾ ベッドルーム フロア
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 新しいベッドルームで、カラフルなシーグラスをエポキシ樹脂に埋め込み、キラキラ輝くテラゾフロアを作るリノベーション過程をドキュメンタリー調の動画として生成するためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+縦型動画。白壁の明るく何もない部屋に、黒いフレームの大きな窓と打ちっぱなしのコンクリート床が広がる。ネイビーのオーバーオールに黒 T シャツ姿の男性が、青・緑・透明の色合いが鮮やかなシーグラスの巨大な山をレーキでならし、床全体に均一に広げていく。赤いオーバーオールの女性が膝をつき、白いバケツから乳白色のエポキシ樹脂をグラスの上に流し込み、男性がスキージーでそれを伸ばしていく。樹脂が硬化して光沢のある表面へと変わる様子をタイムラプスで描写。黒いシャツの作業員たちと、ネオンイエローの安全ベストを着た 1 人が、ウォークビハインド型のグラインダーと掃除機を使って床を研磨・磨き上げると、自然光を受けてきらめくガラスチップが散りばめられた、テラゾのような滑らかな床が姿を現す。早送りでの組み立てシーン：2 人の作業員が木製ベッドフレームを組み立て、すのこ、マットレス、ニュートラルなベージュの寝具をセットする。最後の固定ショットでは、リサイクルガラスがきらめく床、木製ベッド、ナイトスタンド、ランプ、そして窓越しに見える緑の木々が揃った、居心地の良い完成した寝室を映し出す。リアルなドキュメンタリースタイル、自然光、スムーズなカメラワーク、見ていて気持ちの良いリノベーションプロセス。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115913011823083520/img/i026LEQVmCZad7rf.jpg" width="600" alt="シーグラス テラゾ ベッドルーム フロア">
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=13170)**
+
+**作者:** [Linh Ai](https://x.com/Rajrana12476547) | **ソース:** [Link](https://x.com/Rajrana12476547/status/2115913066776785313) | **公開日:** Oct 29, 2026
+
+---
+### 小石からテラゾフロアへの変身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> オレンジ色の小石をエポキシ樹脂でテラゾ風ベッドルームフロアに変身させるプロセスと、部屋全体の組み立て工程をタイムラプス動画プロンプトで解説
+
+#### 📝 プロンプト
+
+```
+白い壁と大きな窓から外の緑の木々が見える、明るく何もない部屋での縦型動画。青いつなぎを着た男性が、むき出しのコンクリート床に山積みされた光沢のあるオレンジ色の小石をレーキでならし、部屋全体に均等に広げていきます。赤いつなぎを着た作業員たちが、バケツから白いセルフレベリングエポキシ樹脂を小石の上に流し込み、スキージーとペイントローラーで表面が平らで滑らか、そして光沢が出るまで伸ばしていきます。黄色い高視認性ベストと防塵マスクを着用した作業員が、硬化した床をポリッシャーで研磨するタイムラプス映像。丸いオレンジ色の小石が散りばめられたテラゾのような美しい表面が姿を現します。部屋の設営を早回しで映したタイムラプス。木製のベッドフレームが組み立てられ、白い寝具とベージュの枕がセットされます。ランプ付きのナイトスタンドが配置され、額装された抽象画が壁に飾られます。最後の固定ショットでは、柔らかな自然光を受けて磨き上げられたオレンジ色の小石の床が輝く、居心地の良い完成した寝室が映し出されます。写実的、見ていて気持ちの良いリノベーションタイムラプス、スムーズなカメラワーク、温かみのある自然なライティング。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115798362968424448/img/9CgbjQwDDoeZVfXq.jpg" width="600" alt="小石からテラゾフロアへの変身">
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=13168)**
+
+**作者:** [Ruslan Ai](https://x.com/Ruslanchain) | **ソース:** [Link](https://x.com/Ruslanchain/status/2115798407444918459) | **公開日:** Oct 29, 2026
+
+---
+### 錆びた自動車部品で作るミラーフロア
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ASMR リノベーション動画のプロンプト。錆びた自動車部品をエポキシ樹脂で覆い、研磨してシルエットが埋め込まれた鏡のようなフロアを仕上げ、その後ベッドルームを組み立てます。
+
+#### 📝 プロンプト
+
+```
+白い壁に囲まれた明るい空き部屋、緑の木々が映る大きな窓、そしてむき出しのコンクリート床。見ているだけで心地よい ASMR リノベーション動画です。青いつなぎを着たひげの男性が長いレーキを使い、錆びた車のドア、ボンネット、パネルの巨大な山を床全体に均等にならし、平らにして隙間なく並べていきます。続いて赤いつなぎを着た女性が、バケツからとろみのある白いセルフレベリングエポキシ樹脂を錆びた金属片の上へ流し込みます。つややかな液体が外側へと広がり、すべてを滑らかなミルキーホワイトの表面で覆い尽くします。硬化後、黄色の高視認性ベストを着た作業員が床用の研磨ポリッシャーを押しながら表面を磨き上げると、自然光を反射する鏡のように艶やかな白い床の下に、埋め込まれた車のパーツのくっきりとした輪郭が徐々に浮かび上がります。最後に、黒いユニフォームにピンクの手袋姿の 2 人の作業員が黒いメタルベッドフレームを運び入れ、マットレスを置き、グレーの寝具と枕でベッドメイキングを施して、モダンな寝室が完成します。滑らかなカメラパンと穏やかなズームが作業の一部始終を追います。自然光、超写実的なディテール、心地よいビフォーアフターのモンタージュ、縦型フォーマット。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115797448610242561/img/8FXa9w6moNFSBAWO.jpg" width="600" alt="錆びた自動車部品で作るミラーフロア">
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=13171)**
+
+**作者:** [Linh Ai](https://x.com/Rajrana12476547) | **ソース:** [Link](https://x.com/Rajrana12476547/status/2115797490725273924) | **公開日:** Oct 29, 2026
+
+---
 ### Seedance 2.0 Mini 古代中国仙侠動画プロンプト
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -624,6 +754,29 @@ X. 厳格な禁止事項
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=13129)**
 
 **作者:** [Soran](https://x.com/Soranlan) | **ソース:** [Link](https://x.com/Soranlan/status/2115629293430788360) | **公開日:** Oct 29, 2026
+
+---
+### GTA 6 スタイル シネマティック トレーラー プロンプト
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 を使用して、ネオン都市、カーチェイス、ヘリコプターショットを特徴とするリアルな GTA 6 スタイルのシネマティックトレーラーを生成するためのプロンプトの詳細な解説。
+
+#### 📝 プロンプト
+
+```
+息を呑むような夕暮れの空撮から幕を開ける。ネオンに染まったトロピカルな街並み、夜空に映えてきらめくヤシの木。カメラが切り替わると、色鮮やかなネオンサインが立ち並ぶ濡れた路面を反射させながら、高級な赤いスポーツカーが猛スピードで駆け抜けていく。ナイトライフ、群衆、クラブ——純粋なカオスとエネルギーが渦巻く世界。
+
+パトカーが追跡を始めると、緊張感は一気に高まる。高速ドリフト、モーションブラー、ボリュメトリックライティング。すべてが映画のような質感と生命力に満ちあふれている。
+
+クライマックスは、街全体を見下ろすドラマチックなヒーローショット。ヘリコプターが空を横切っていき、映像が締めくくられる。
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2115613087944634369/pu/img/Xt4oFu3EHB78xvtZ.jpg" width="600" alt="GTA 6 スタイル シネマティック トレーラー プロンプト">
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=13172)**
+
+**作者:** [财经世界观](https://x.com/CaijingView) | **ソース:** [Link](https://x.com/CaijingView/status/2115613143519096838) | **公開日:** Oct 29, 2026
 
 ---
 ### マリーゴールド レジン床 リフォーム動画
@@ -3991,171 +4144,6 @@ AI Video Prompt: シネマティックな格闘訓練
 **作者:** [探路AI](https://x.com/TanLuAI) | **ソース:** [Link](https://x.com/TanLuAI/status/2107763438747521348) | **公開日:** Oct 7, 2026
 
 ---
-### シネマティックな学校食堂のランチシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 韓国の学校食堂でランチトレイを持つ生徒を描いた、超リアルなシネマティック動画生成用プロンプト。フォトリアリスティックなディテール、ライティング、構図に焦点を当てています。
-
-#### 📝 プロンプト
-
-```
-明るい韓国の学校食堂に立つ若い東アジア人女子生徒の超リアルなシネマティックシーン。清潔感のある白い学校制服シャツに青いチェック柄ネクタイ、濃紺のスカートを着用し、カメラに向かってステンレス製のランチトレイを持っています。トレイにはふっくらとした蒸し白米、赤い辛いスープ、ソーセージ、野菜、伝統的なおかずが盛られています。背景では他の生徒たちがテーブルに座っており、柔らかくぼかされています。自然な室内照明、リアルな食感、浅い被写界深度、クリーミーなボケ、シネマティックな構図、詳細な肌と布地の質感、85mm レンズ、f/1.8、HDR、フォトリアリスティック、8K、縦型 9:16 構図、温かく本格的な学校生活の雰囲気
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107699321319858176/img/Jphi94bk2Oh7lRFB.jpg" width="600" alt="シネマティックな学校食堂のランチシーン">
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=12053)**
-
-**作者:** [AIwithMinal](https://x.com/AIwithMinal) | **ソース:** [Link](https://x.com/AIwithMinal/status/2107699358762422759) | **公開日:** Oct 7, 2026
-
----
-### シネマティックな鉄道プラットフォームのストーリーシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 雨の鉄道プラットフォームで男が待つ15秒のシネマティックシーンを生成するための詳細な動画プロンプト。カメラワーク、ライティング、カラーグレーディング、音響効果など、感情的な物語構造を構築する要素を指定しています。
-
-#### 📝 プロンプト
-
-```
-15秒の縦型9:16シネマティックストーリーシーン、24fps、35mmアナモルフィックレンズ風のルック、ムードがあり感情豊かな映像。
-0-3s（導入）：夜、小雨が降る静かで無人の鉄道プラットフォーム。ロングコートを着た若い男性が古い封筒を手に一人立っており、冷たい空気の中で吐息が見える。彼の背後からゆっくりとドリーイン。
-3-7s（緊張）：顔のクローズアップ。彼は封筒を見つめ、その後霧の中から近づいてくる遠い列車のライトを見上げる。手がわずかに震えている。封筒から目元へラックフォーカス。
-7-11s（転換）：風を伴って列車が到着する。コートと髪が横に激しくなびく。彼はためらい、指先から封筒を滑り落とし濡れたプラットフォーム上に落とす。スローモーションで空中の水滴を捉える。
-11-15s（結末）：ドアが開き、暖かい黄色い光が彼の顔を照らす。彼は振り返らずに乗車する。カメラはプラットフォーム上の封筒を捉え続け、列車が去るとともにフェードアウトして黒画面になる。
-ルック：ティール＆アンバーのカラーグレーディング、深いシャドウ、ソフトな実用照明、細かなフィルムグレイン、浅い被写界深度。
-オーディオ：柔らかな雨音、遠くから徐々に強まる列車の轟音、列車到着時の持続的なピアノの単音、最後のフェード時の静寂。セリフなし。
-テキスト：なし。
-言語：音声および画面上のテキストがないため、言語の問題はありません。
-回避事項：歪んだ手、変形した顔、フリッカー、文字化け、ウォーターマーク、余分な四肢。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107427869517590528/img/Ca8Q0vKPSHYSNxix.jpg" width="600" alt="シネマティックな鉄道プラットフォームのストーリーシーン">
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=12054)**
-
-**作者:** [ORHAN](https://x.com/OrhanGhazi65942) | **ソース:** [Link](https://x.com/OrhanGhazi65942/status/2107427996705718600) | **公開日:** Oct 6, 2026
-
----
-### 犬マスコットと遊ぶ楽しいバスケットボールシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 韓国人の女の子が巨大な犬のマスコットと一緒にバスケットボールをするリアルな動画のプロンプト。滑らかなカメラワークとKドラマ風の美学を特徴としています。
-
-#### 📝 プロンプト
-
-```
-長い黒髪をした美しい韓国人の女の子は、体にフィットした黒いノースリーブトップ、黒いスポーツショーツ、白いスニーカーを着用し、緑豊かな木々に囲まれた屋外のオレンジ色のバスケットボールコートでバスケットボールをしています。彼女の向かいには、垂れ耳の黒い愛らしいオーバーサイズの白いカートゥーン風犬マスコットが立ち、バスケットボールを持ってバウンドさせています。シーンは、バスケットゴール付近で巨大な犬キャラクターと向き合う女の子を捉えたワイドなシネマティックショットから始まります。彼女はドリブルをしながらマスコットと楽しそうに交流し、楽しく魅力的な雰囲気を醸し出します。カメラはワイドショットとミディアムクローズアップの間をスムーズに行き来し、女の子の自然な表情、流れるような髪、リアルな体の動き、そしてマスコットの愛らしい反応を捉えます。動画の中盤では、女の子はバスケットボールを持ったままカメラに近づき、自信があり少し遊び心のある様子を見せます。背景では巨大な犬キャラクターが見え続け、彼女の動きに対してユーモラスな反応を示します。終盤では、彼女は再びバスケットゴールの方へ戻り、前景に見えるマスコットとともに次の楽しいバスケットボールの瞬間に備えます。フォトリアリスティックな韓国人の女の子、自然な肌の質感、リアルな顔の特徴、一貫したアイデンティティ、詳細な髪の一本一本、リアルなアスリートの動き、シネマティックな屋外ライティング、柔らかな曇天の日光、浅い被写界深度、スムーズなハンドヘルドカメラワーク、リアルなバスケットボールコートのテクスチャ、自然な影、高詳細4Kシネマティック品質、遊び心あるKドラマ風のビジュアルスタイル、顔の歪みなし、余分な指なし、不自然な体の動きなし、テキストや透かしなし。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107339831844171776/img/4LsCyW9rPzzslP5o.jpg" width="600" alt="犬マスコットと遊ぶ楽しいバスケットボールシーン">
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11984)**
-
-**作者:** [ayzalnoor](https://x.com/ayzalnooor24521) | **ソース:** [Link](https://x.com/ayzalnooor24521/status/2107340030536741222) | **公開日:** Oct 6, 2026
-
----
-### 郊外住宅地のモンスター襲撃
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 夕暮れの郊外で巨大な生物が地中から出現する、VFXを多用したシネマティックなシーンのプロンプト。
-
-#### 📝 プロンプト
-
-```
-夕暮れの郊外住宅地を舞台にした超リアルなシネマティックシーン。芝生の庭に謎の発光物体が現れ、巨大で不気味な緑色の生物が突然地中から這い出します。ぬめりとした質感を持つ膨大な体躯、怒りに満ちた表情豊かな目、リアルな皮膚の詳細、空中に舞い上がる粉塵と瓦礫、遠くから衝撃を受けた様子で見つめる男性、背景には高級郊外住宅、ドラマチックなゴールデンアワーの照明、大気の霞み、シネマティックなカメラワーク、浅い被写界深度、フォトリアリスティックな VFX、高解像度、8K、リアルな影、エピックなハリウッド映画スタイル、縦型 9:16 の構図。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107333865253773312/img/OglQcBBKfBfaKX1l.jpg" width="600" alt="郊外住宅地のモンスター襲撃">
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11985)**
-
-**作者:** [AIwithMinal](https://x.com/AIwithMinal) | **ソース:** [Link](https://x.com/AIwithMinal/status/2107333962402341067) | **公開日:** Oct 6, 2026
-
----
-### サイバーパンク女性 ネオン路地
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ネオンに照らされた路地を歩く若い女性の超リアルなサイバーパンクシーンを生成するためのプロンプト。ファッションディテール、ライティング、カメラ仕様を中心に構成されています。
-
-#### 📝 プロンプト
-
-```
-夜間の暗いネオン街路地を自信満々に歩く、獰猛な若い女性の超リアルなシネマティック・サイバーパンクシーン。彼女は長い黒髪と鋭い表情をしており、未来的な白いオーバーサイズジャケットの下に赤いクロップドトップス、ブラック戦術パンツ、グローブ、ユーティリティアクセサリーを着用しています。濡れた路面には赤や暖色系の都市照明が反射し、大気中の霧、光る看板、ドラマチックな影、浅い被写界深度、シネマティックなボケ、ダイナミックなカメラワーク、リアルな肌や布地の質感、高解像度ディテール、ムードあるアクション映画のような雰囲気が漂います。85mm レンズ、f/1.4、HDR、8K、フォトリアリスティック、縦長 9:16 コンポジション。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106972520972947456/img/0SDQbYzRuv36V6Vl.jpg" width="600" alt="サイバーパンク女性 ネオン路地">
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11918)**
-
-**作者:** [AIwithMinal](https://x.com/AIwithMinal) | **ソース:** [Link](https://x.com/AIwithMinal/status/2106972552119963744) | **公開日:** Oct 5, 2026
-
----
-### Seedance Video Prompt for Comedy Wedding Story
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed video generation prompt for Seedance creating a 15-second comedic story about a woman asking her boyfriend to dye his hair green if he attends her future wedding with someone else. The prompt includes character consistency instructions, scene transitions, camera movements, and specific dialogue.
-
-#### 📝 プロンプト
-
-```
-15 seconds, 16:9 horizontal aspect ratio, realistic live-action texture, modern Chinese urban background. The first half is a natural and intimate conversation between a couple; the second half hard-cuts to a Western-style wedding in a future hotel. The camera slowly pulls back, gradually revealing male guests with different hair colors, forming an absurd and awkward comedy twist. Character performances are restrained; environment, skin, clothing, and lighting are realistic and natural.
-[Characters and Continuity]
-The female lead is a young adult Chinese woman @image (31). The bride at the future wedding must be the same woman, maintaining consistent facial features and contours, changing only hairstyle, makeup, and clothing.
-The male lead is a young adult Chinese man, starting with normal short black hair and daily casual clothes. At the future wedding, his facial features, face shape, body type, and hairstyle contour remain consistent, but he wears a fitted suit and has dyed his hair obviously green, fulfilling the request made by the woman at the beginning. He must not change into a different face due to scene or hair color changes.
-The groom is another adult Chinese man, slightly chubby, with black hair, clearly different in appearance from the male lead, wearing formal groom attire.
-There are multiple adult male guests at the wedding venue, each with red, blue, purple, yellow, or orange hair, including another man with green hair. Their appearances, heights, body types, hairstyles, and suits are all different. Dyed hair retains real strands, roots, and luster, not looking like colored wigs or glowing.
-[0-7s: Daily Couple Conversation]
-Ordinary city park or residential area downstairs, evening, natural soft light, slight ambient life sounds in the background.
-The girl and boy sit side by side on a bench. Use a medium close-up of two people, clearly identifying their faces. The girl turns to look at the boy, holding his hand, speaking affectionately, seriously, with a bit of coquettishness, as if casually mentioning something romantic. The boy looks at her deeply.
-The girl says completely and clearly:
-"Baby, if the person marrying me in the future isn't you, then you must dye your hair green to attend my wedding, so I can spot you at a glance."
-Spoken at a natural, slightly fast, coherent daily pace, not deliberately drawn out, no swallowed words, no mechanical acceleration. While the girl speaks, the boy looks at her listening, showing a faint smile that is both touched and puzzled, without adding a reply.
-Maintain continuous performance, clearly establishing the male lead's face. The girl does not smirk ahead of time, does not wink at the camera, does not preview the later twist.
-[7-9s: Hard Cut to Future Wedding, First See Same Face, Then Green Hair]
-As soon as the girl finishes the last word "you", immediately hard cut to the hotel wedding scene. Ambient sound synchronously switches from outdoor life sounds to applause and blurred voices in the banquet hall.
-Cut to a frontal close-up of the same male lead's face. The top edge of the initial frame is cropped below the hairline, temporarily hiding the hair, letting the audience recognize him as the boy from just before.
-He sits in the wedding guest seats, wearing a suit, with a slightly constrained expression, carrying complex anticipation, eyes directed towards the entrance aisle.
-The camera then slowly and steadily moves backward, gradually revealing his full head—he has dyed green hair.
-The green color is seen by the audience for the first time at this moment. He was already green-haired from the start of entering the wedding shot, no on-site color-changing effect appears.
-[9-12s: Bride and Groom Entrance, Other Hair Colors Gradually Appear]
-The camera continues to move backward, expanding from close-up to medium shot, making slight horizontal adjustments to keep the green-haired male lead on one side of the frame, gradually revealing the central wedding aisle.
-The scene is a real hotel banquet hall arranged for a Western wedding, with light-colored floral arrangements, white or beige chairs, warm ceiling lights, and a carpeted entrance aisle. Lighting has clear sources, the wedding dress retains fabric details, no dreamy fairyland effects.
-On the background aisle, the girl from the opening wears a wedding dress, holding arms with the slightly chubby groom, entering slowly. The groom's appearance and body type are clearly different from the green-haired male lead.
-The male lead originally looked at the bride, barely maintaining a faint smile. As the camera pulls back, a male guest with red hair and a male guest with blue hair enter the frame near him successively.
-He inadvertently glances at the red-haired man beside him, his smile pauses slightly, then looks at the green-haired man on the other side, eyebrows moving lightly, starting to feel something is wrong.
-[12-15s: Revealing More Colored-Hair Men, Male Lead Looks Around in Surprise]
-The camera continues to move backward along the same trajectory, expanding to a wider view containing the male lead, surrounding rows of guests, and the wedding aisle. The wedding segment remains continuous, no more cuts.
-More male guests with different hair colors gradually enter the frame: purple, yellow, orange, and another red-haired man who differs from the male lead in appearance, body type, and hairstyle.
-Including the male lead, about six to eight men with colored hair are scattered sitting in adjacent rows, interleaved with ordinary black-haired guests. Not all guests have dyed hair, nor do they form a neat rainbow line.
-They are all different: some thin, some sturdy, some slightly chubby; some buzz cuts, some side-parted short hair, some slightly curly. Suits are black, dark blue, gray, brown, with obvious differences in fit, ties, and shirt combinations, looking like independently invited real wedding guests.
-These people have been sitting in their original positions since the start of the wedding shot, just blocked from the initial tight composition, becoming visible as the camera moves backward, cannot appear out of nowhere or suddenly dye their hair.
-The male lead looks left first, then right, finally turning slightly to look diagonally behind, discovering another green-haired man. His expression changes from confusion to surprise and embarrassment, lips slightly parted, as if finally realizing he might not be the only one who received such a promise.
-Other colored-hair men mainly continue watching the wedding, some may briefly make eye contact with him, not collectively turning heads or reacting in sync.
-The ending simultaneously preserves the male lead's surprised look around, surrounding men with different hair colors, and the bride and groom continuing to enter in the background. The screen ends naturally, no extra dialogue to explain the punchline.
-[Cinematography, Performance, and Realistic Atmosphere]
-Opening uses natural daylight, wedding uses warm indoor hotel lighting. Skin tones are normal, retaining skin texture, suits have real wrinkles, wedding dress has weight, dyed hair has natural light and dark layers.
-The first half feels like a real couple chatting casually, the second half feels like an awkward discovery happening at a real wedding scene. The male lead expresses emotions through eye contact, micro-expressions, and looking left and right, no cartoonish wide-eyed staring, mouth-opening, or face-covering actions.
-The wedding pull-back uses actual camera backward movement, steady speed, arranging guest positions in advance so different hair colors enter the frame sequentially. After pulling back, gradually increase depth of field, ensuring the relationship between the male lead, colored-hair guests, and background newlyweds is discernible, never blurring surrounding characters into color blocks.
-No retro DV quality, exaggerated hand shake, fisheye, sudden zoom, high-speed orbit, slow motion, plastic skin, or heavy filters.
-[Sound]
-Opening retains the girl's dialogue and slight outdoor life sounds. After hard cut, enter natural applause, fabric rustling, chair creaking, and blurred conversations in the hotel banquet hall.
-Dialogue accurately matches the girl's lip movements, male lead does not speak for her or interrupt. No clear dialogue added in the wedding segment.
-No narration, no background music.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106953873076486145/img/IOpYXcKBoJQlAILi.jpg" width="600" alt="Seedance Video Prompt for Comedy Wedding Story">
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=11920)**
-
-**作者:** [探路AI](https://x.com/TanLuAI) | **ソース:** [Link](https://x.com/TanLuAI/status/2106955448352231762) | **公開日:** Oct 5, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -4217,6 +4205,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-30T04:53:20.400Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-10-30T15:16:16.934Z</sub>
 
 </div>

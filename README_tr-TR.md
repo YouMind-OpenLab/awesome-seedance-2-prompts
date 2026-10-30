@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6603** |
+| 📝 Toplam İstem | **6609** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-10-30** |
 
@@ -361,6 +361,137 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Seedance 2.0 Douyin Dans Videosu İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 kullanarak, belirli kamera hareketleri, koreografi adımları ve karakter tutarlılığı talimatları içeren 15 saniyelik dikey bir dans videosu oluşturmak için detaylı bir istem.
+
+#### 📝 İstem
+
+```
+15 saniye, 9:16 en boy oranı, Douyin'de (TikTok tarzı) dans eden gerçek bir kadının kısa videosu. Referans alınan kişinin görünümünü, kıyafetini ve sahnesini koruyan tek kesintisiz çekim. El hareketleri hiçbir zaman başın üzerine çıkmaz. Sol ve sağ ifadeleri, dansçının kendi solunu ve sağını belirtir.
+
+Genel performans: "Sağ elin kamerayı kavrayıp yüze doğru çekmesi, sol elin yana açılarak kamerayı geri itmesi" geçişiyle birbirine bağlanan, art arda gelen iki farklı dans rutini. Kişi aynı dans alanında omuzları, kalçası ve kolları uyum içinde hareket ederek zıplamaya devam eder. Hareketler geniş açılmalar ile hızlı toplanmalar arasındaki kontrastı yansıtır; her bölüm doğrudan bir sonrakine geçer.
+
+[0-3s | Birinci Set: Kalça Desteği ve Uzama]
+KAMERA AÇISI: Önden orta plan çekim; başın tepesinden dizlerin hemen üstüne kadar olan alan, omuzları, beli, kalçayı ve kolları eksiksiz şekilde gösterir.
+
+Dans çoktan başlamıştır. Sol el kalçayı destekler, sağ avuç kameraya doğru uzanıp ardından omuz hizasına geri çekilir; bu hareket gövdenin sağa yatıp tekrar sola dönmesiyle eşzamanlıdır. Dizler esnektir, kalça yön değiştirdikçe omuz çizgisi de eğilir. İlk uzanma geniştir, ikinci toplanma ise hızlıdır; kol geri çekilirken gövde çoktan bir sonraki yön değişimine başlamıştır. Baş gövdeyle birlikte hafifçe sallanır, başlangıçta rahat bir ifadeyle kameraya bakar ve eli ikinci kez çekerken hafifçe gülümser.
+
+[3-6s | Üst Üste Binen Kollar, Avuç İtişiyle Yön Değişimi]
+Sağ el doğal bir şekilde karın önüne düşer, sol el bel yanından ayrılır, her iki ön kol bel/karın önünde üst üste biner, dizler hafifçe bükülür ve gövde buna bağlı olarak aşağı iner. Hemen ardından kollar iki yana açılır ve gövde tekrar sol tarafa yükselir.
+
+Sol avuç göğse değer, sağ avuç göğüsten sağ-ön tarafa doğru iter; bu itme hareketiyle omuzlar/göğüs hafifçe çapraz döner. Avuç geri çekilirken dik pozisyona dönülür. Ardından bir kez daha öne itilir, bu sırada kalça da eşzamanlı olarak yön değiştirir. Avuçların yönelimi her zaman nettir; itme ve çekme hareketleri kısa ama tam bir hareket cümlesi oluşturur.
+Son itiş, doğal bir şekilde kameraya doğru uzanan bir harekete dönüşür.
+
+[6-8s | Kamerayı Kavrayıp Yüze Çekme, Eli Yana Açma]
+Sağ el kameraya doğru uzanır, parmaklar belirgin biçimde gevşek bir kavrama şeklinde kapanır. Hemen ardından sağ dirsek keskin bir şekilde geriye çekilir, yumruk yüzün yanından geçerek sağ omuz önüne gelir ve omuzlar/göğüs bu hareketle geriye taşınır.
+
+KAMERA AÇISI: Uzanma ve yaklaşma sırasında mesafe korunur; sağ dirsek geriye çekilmeye başladığı anda kamera senkronize biçimde hızla yüz yakın çekimine girer ve yüzün önünde yavaşlar. Kamera hareketi, bu çekme hareketiyle aynı anda tamamlanır.
+
+Yüz yakın çekimi anında kadın başını hafifçe çevirir, gözleri kamerayı tam olarak yakalar ve dudak kenarları yukarı kalkar. Gövde ritmi devam eder, sağ el göğüs önünden aşağı iner, sol el ise anında göğüs önünden sol tarafa doğru açılır; el ve omuz bu savurma hareketini birlikte gerçekleştirir.
+
+KAMERA AÇISI: Sol el yana açıldığı anda hızla geri çekilerek başın tepesinden dizlerin hemen üstüne kadar olan orta plan çekime dönülür; kişi tüm süreç boyunca merkezde kalır.
+
+[8-11s | Geri Çekilirken İkinci Sete Geçiş: Omuz Hizasında Sıralı Kol Hareketleri]
+Kamera geri çekilirken, yana açılan sol kol çoktan dirsekten bükülerek toplanmaya başlamıştır; sağ kol da eşzamanlı olarak kalkar ve gevşekçe yumruk yapılmış iki el omuz hizasının altına gelir.
+
+Omuzlar sırayla sağa ve sola öne çıkar, bükülü dirsekler omuzlarla uyumlu olarak biri önde diğeri arkada olacak şekilde karşılık verir. Kalça ağırlığın sağa ve sola aktarılmasına eşlik eder, dizler hafif zıplamayı sürdürür. Bir sağ/sol sıralaması tamamlandıktan sonra eller bel önünde üst üste binmek üzere düşer, ardından hemen iki yana açılarak net bir aşağı inip yukarı çıkma hareketi yaratır. Hareketler akıcıdır; kolların üst üste binmesi bir sonraki açılma için hazırlık niteliği taşır.
+
+Yüz yakın çekimindeki gülümseme doğal bir şekilde rahatlar, baş omuz çizgisiyle birlikte hafifçe eğilir ve kollar açıldığında bakışlar yeniden doğrudan kameraya yönelir.
+
+[11-15s | Yüz Yanında İşaret Parmağı, Alçak Pozisyonda Açılma]
+Kolların açılmasının ardından sağ el yüzün yanına çekilerek net bir işaret parmağı havada duruşu alır, sol ön kol bel/karın önünde kalır. Sol ayak küçük bir adım atarak sola basar ve ağırlığı taşır, kalça sola itilir, omuz çizgisi ters yöne eğilir. Gövde yön değiştirdiğinde sol ön kol yana doğru açılır, sağ el ise kısa bir süre yüz yanındaki şeklini korur.
+
+Ardından sağ el göğüs önünden aşağı inerek sol ön kolla bel/karın önünde üst üste biner, dizler hafifçe bükülür. Hemen sonrasında kollar ayrılır, dirsekler belin iki yanına yaklaşır, ön kollar iki yana açılır ve bu hareket art arda gelen iki sağ-sol ağırlık aktarımıyla uyumludur. Baş yön değişimiyle birlikte hafifçe sallanır, sonunda yüz kameraya döner ve gülümseme yeniden belirir.
+
+Video, son yana kayma ve geri sekme hareketi henüz tamamlanırken sona erer ve dansın ivmesi korunur.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115996669972021248/img/_zjzCiZJtxgkOXLV.jpg" width="600" alt="Seedance 2.0 Douyin Dans Videosu İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13173)**
+
+**Yazar:** [kollectionca](https://x.com/kollectionca) | **Kaynak:** [Link](https://x.com/kollectionca/status/2115996967851675935) | **Yayınlandı:** Oct 30, 2026
+
+---
+### Hayallerdeki Yatak Odası Zemininin Anahtarları
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir adamın eski anahtar yığınını epoksi reçine ve cilalama kullanarak parlak terrazzo tarzı bir yatak odası zeminine dönüştürdüğü gerçekçi sinematik bir video oluşturmak için prompt.
+
+#### 📝 İstem
+
+```
+Beyaz duvarları, çıplak beton zemini ve büyük bir penceresi olan aydınlık, boş bir odada geçen gerçekçi sinematik bir video. Görüntü, binlerce antika pirinç ve demir anahtardan oluşan devasa bir yığının yanında elinde kürek tutan, mavi kot tulumlu sakallı bir adamla açılıyor. Adam yığını kürekle eşeleyip yayarak anahtarları tüm zemini metalik bir halı gibi kaplayan düzgün bir katman hâline getiriyor. Ardından kırmızı tulumlu bir kadın, büyük bir plastik kovadan yoğun beyaz kendiliğinden yayılan epoksi reçineyi döküyor; parlak sıvı halkalar hâlinde yayılarak anahtarları tamamen içine gömüyor. Sonrasında sarı fosforlu yelek ve şapka giyen bir işçi, sertleşmiş yüzeyde bir zemin cilalama makinesini ileri geri hareket ettirerek zemini, altın rengi anahtar başlarının terrazzo gibi reçinenin altından parladığı ayna parlaklığında beyaz bir zemine dönüştürüyor. En sonunda siyah giyimli iki işçi hızla koyu ceviz rengi bir karyola iskeleti kuruyor, üzerine beyaz bir yatak yerleştiriyor, yastıklar, bej saçaklı bir battaniye ve seramik lambalı iki ahşap komodin ekliyor. Video, güneş ışığının anahtarların gömülü olduğu parlak zeminde yansıdığı, tamamlanmış tasarımcı yatak odasının geniş ve sabit bir çekimiyle kapanıyor. Akıcı kamera çalışması, doğal gün ışığı, tatmin edici yenileme time-lapse hissi, hiper detaylı, fotogerçekçi, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115913993273442304/img/6R-0vM0H07l2Nzj-.jpg" width="600" alt="Hayallerdeki Yatak Odası Zemininin Anahtarları">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13169)**
+
+**Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2115914032884613494) | **Yayınlandı:** Oct 29, 2026
+
+---
+### Deniz Camı Terrazzo Yatak Odası Zemin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yeni bir yatak odasında, renkli deniz camlarının epoksi reçineye gömülerek parlayan bir terrazzo zemin oluşturulduğu yenileme sürecini belgeleyen tarzda bir video üretmek için kullanılan istem.
+
+#### 📝 İstem
+
+```
+Dikey video, beyaz duvarları olan aydınlık ve boş bir oda, büyük siyah çerçeveli bir pencere ve ham beton zemin. Lacivert tulum ve siyah tişört giyen bir adam; mavi, yeşil ve şeffaf tonlarda devasa bir renkli deniz camı yığınını tırmıkla yayarak zemine eşit şekilde dağıtıyor. Kırmızı tulumlu bir kadın diz çöküyor ve beyaz kovalardan camların üzerine süt beyazı epoksi reçine dökerken, adam da bunu bir spatulayla yayıyor. Reçinenin parlak bir yüzeye dönüştüğü hızlandırılmış çekim geçişi. Siyah tişörtlü işçiler ve neon sarısı güvenlik yeleği giyen bir işçi, arkadan yürünen bir taşlama makinesi ve elektrikli süpürgeyle zemini taşlayıp parlatıyor; gün ışığında parıldayan cam kırıklarıyla dolu, pürüzsüz ve terazzo benzeri bir zemin ortaya çıkıyor. Hızlı çekim montaj: iki işçi ahşap bir yatak iskeleti kuruyor, çıtaları yerleştiriyor, ardından şilte ve nötr bej rengi nevresim takımı seriliyor. Parlayan geri dönüştürülmüş cam zemin, ahşap yatak, komodinler, lambalar ve pencereden görünen yeşil ağaçlarla tamamlanmış, sıcak ve samimi yatak odasının son sabit çekimi. Gerçekçi belgesel tarzı, doğal aydınlatma, akıcı kamera hareketleri, izlemesi keyifli bir yenileme süreci.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115913011823083520/img/i026LEQVmCZad7rf.jpg" width="600" alt="Deniz Camı Terrazzo Yatak Odası Zemin">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13170)**
+
+**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2115913066776785313) | **Yayınlandı:** Oct 29, 2026
+
+---
+### Çakıl Taşından Terrazzo Zemin Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Turuncu çakıl taşlarının epoksi reçine ile cilalı bir terrazzo tarzı yatak odası zeminine dönüştürülme sürecini ve oda montajını gösteren zaman atlamalı video istemi.
+
+#### 📝 İstem
+
+```
+Beyaz duvarları ve dışarıdaki yeşil ağaçları gösteren büyük bir penceresi bulunan, aydınlık ve boş bir odada çekilmiş dikey video. Mavi tulumlu bir adam, çıplak beton zemindeki devasa parlak turuncu çakıl taşları yığınını tırmıkla yayarak tüm odaya eşit şekilde dağıtıyor. Kırmızı tulumlu işçiler, kovalardaki beyaz kendinden yayılan epoksi reçineyi çakıl taşlarının üzerine döküyor; ardından yüzey dümdüz, pürüzsüz ve parlak olana kadar spatula ve boya rulolarıyla yayıyorlar. Sarı fosforlu yelekli ve maskeli bir işçinin, sertleşmiş zemini cilalama makinesiyle zımparaladığı ve yuvarlak turuncu çakıl taşlarıyla bezeli terazzo benzeri bir yüzeyin ortaya çıktığı hızlandırılmış çekim. Odanın döşenme sürecinin hızlı çekim (time-lapse) görüntüleri: Ahşap bir yatak iskeleti kuruluyor, beyaz nevresimler ve bej yastıklarla donatılıyor, lambalı bir komodin ekleniyor ve duvara çerçeveli soyut bir tablo asılıyor. Yumuşak doğal gün ışığında parlayan cilalı turuncu çakıl taşlı zeminle tamamlanmış, sıcak ve davetkar yatak odasının son sabit çekimi. Fotogerçekçi, izlemesi keyif veren yenileme time-lapse'i, akıcı kamera hareketi, sıcak doğal aydınlatma.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115798362968424448/img/9CgbjQwDDoeZVfXq.jpg" width="600" alt="Çakıl Taşından Terrazzo Zemin Dönüşümü">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13168)**
+
+**Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2115798407444918459) | **Yayınlandı:** Oct 29, 2026
+
+---
+### Paslı Araba Parçalarından Ayna Zemin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Paslı araba parçalarının epoksi reçine ile kaplanıp ayna gibi bir zemin oluşturacak şekilde cilalanmasını ve gömülü silüetlerin ortaya çıkarılmasını, ardından yatak odası montajını gösteren ASMR yenileme videosu için bir istem.
+
+#### 📝 İstem
+
+```
+Beyaz duvarları olan aydınlık ve boş bir odada, yeşil ağaçları gösteren büyük bir pencerenin önünde ve çıplak beton zeminde çekilmiş, izlemesi son derece tatmin edici bir ASMR tadilat videosu. Mavi tulumlu sakallı bir adam, uzun bir tırmık kullanarak devasa bir paslı araba kapısı, kaput ve panel yığınını zemine eşit şekilde yayıyor; parçaları düz bir biçimde yan yana diziyor. Ardından kırmızı tulumlu bir kadın, kovadaki yoğun beyaz kendiliğinden yayılan epoksi reçineyi bu paslı metal parçaların üzerine döküyor; parlak sıvı dışa doğru yayılarak her şeyi pürüzsüz, sütsü bir yüzeye dönüştürüyor. Reçine kuruduktan sonra, sarı fosforlu yelekli bir işçi zemin taşlama ve cilalama makinesini yüzeyde gezdirerek, gün ışığını yansıtan ayna gibi bembeyaz zeminin altına gömülen araba parçalarının net silüetlerini yavaş yavaş ortaya çıkarıyor. Son olarak, siyah üniformalı ve pembe eldivenli iki işçi siyah metal bir karyola iskeletini içeri taşıyor, üzerine bir yatak yerleştirip gri nevresim takımı ve yastıklarla döşeyerek modern bir yatak odasını tamamlıyor. Akıcı kamera kaydırmaları ve yumuşak yakın çekimler tüm süreci takip ediyor; doğal gün ışığı, hiper gerçekçi detaylar, tatmin edici dönüşüm montajı, dikey format.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115797448610242561/img/8FXa9w6moNFSBAWO.jpg" width="600" alt="Paslı Araba Parçalarından Ayna Zemin">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13171)**
+
+**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2115797490725273924) | **Yayınlandı:** Oct 29, 2026
+
+---
 ### Seedance 2.0 Mini Antik Xianxia Video İstemi
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -624,6 +755,29 @@ Karakterler, silahlar değiştirilmemelidir,
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13129)**
 
 **Yazar:** [Soran](https://x.com/Soranlan) | **Kaynak:** [Link](https://x.com/Soranlan/status/2115629293430788360) | **Yayınlandı:** Oct 29, 2026
+
+---
+### GTA 6 Tarzı Sinematik Fragman İstemleri
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 ile neon şehirler, araç kovalamacaları ve helikopter çekimlerini içeren gerçekçi bir GTA 6 tarzı sinematik fragman oluşturmak için kullanılan istemin detaylı açıklaması.
+
+#### 📝 İstem
+
+```
+Nefes kesen bir gün batımı hava çekimiyle açılıyor: Neon ışıklara bürünmüş tropikal bir şehir, gökyüzüne karşı parlayan palmiye ağaçları. Ardından kamera, rengarenk neon tabelalarla süslü, ıslak ve yansımalı sokaklarda hızla ilerleyen lüks kırmızı bir spor arabaya geçiyor. Gece hayatı, kalabalıklar, kulüpler; tam anlamıyla saf kaos ve enerji.
+
+Polis araçları takibe başladığında gerilim tırmanıyor. Yüksek hızlı driftler, hareket bulanıklığı, hacimsel aydınlatma... Her şey sinematik bir his ve canlılıkla dolu.
+
+Tüm şehre tepeden bakan dramatik bir kahraman çekimi ve gökyüzünü tarayan bir helikopterle son buluyor.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2115613087944634369/pu/img/Xt4oFu3EHB78xvtZ.jpg" width="600" alt="GTA 6 Tarzı Sinematik Fragman İstemleri">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13172)**
+
+**Yazar:** [财经世界观](https://x.com/CaijingView) | **Kaynak:** [Link](https://x.com/CaijingView/status/2115613143519096838) | **Yayınlandı:** Oct 29, 2026
 
 ---
 ### Kadife Çiçeği Reçine Zemin Yenileme Videosu
@@ -3935,171 +4089,6 @@ Binanın arkasındaki hizmet sokağı, giyim mağazasının bulunduğu sokağa a
 **Yazar:** [探路AI](https://x.com/TanLuAI) | **Kaynak:** [Link](https://x.com/TanLuAI/status/2107763438747521348) | **Yayınlandı:** Oct 7, 2026
 
 ---
-### Sinematik Okul Kantini Öğle Yemeği Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Koreli bir okul kantininde yemek tepsisi tutan bir öğrencinin ultra gerçekçi sinematik videosunu oluşturmak için bir istem. Fotoğrafik detaylara, ışıklandırmaya ve kompozisyona odaklanır.
-
-#### 📝 İstem
-
-```
-Parlak bir Kore okul kantininde duran genç Doğu Asyalı bir kız öğrencinin ultra gerçekçi sinematik sahnesi; düzgün beyaz okul gömleği, mavi ekose kravat ve koyu lacivert etek giymiş, kameraya doğru paslanmaz çelik bir yemek tepsisi tutuyor. Tepsi kabarık buharda pişmiş beyaz pirinç, kırmızı acılı çorba, sosisler, sebzeler ve geleneksel yan lezzetler içeriyor. Arka planda diğer öğrenciler yumuşak bulanıklıkla masalarda oturuyor. Doğal iç mekan aydınlatması, gerçekçi yiyecek dokuları, sığ alan derinliği, kremamsı bokeh, sinematik kompozisyon, detaylı cilt ve kumaş dokusu, 85mm lens, f/1.8, HDR, fotoğraflık, 8K, dikey 9:16 kompozisyon, sıcak ve otantik okul yaşamı atmosferi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107699321319858176/img/Jphi94bk2Oh7lRFB.jpg" width="600" alt="Sinematik Okul Kantini Öğle Yemeği Sahnesi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12053)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2107699358762422759) | **Yayınlandı:** Oct 7, 2026
-
----
-### Sinematik Tren İstasyonu Hikaye Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yağmurlu bir tren istasyonunda bekleyen bir adamın 15 saniyelik sinematik sahnesini oluşturmak için detaylı bir video üretim promptu. Kamera hareketleri, aydınlatma, renk düzenleme ve ses ipuçlarını belirterek duygusal bir anlatı yayı oluşturur.
-
-#### 📝 İstem
-
-```
-15 saniyelik dikey 9:16 sinematik hikaye sahnesi, 24fps, 35mm anamorfik görünümle çekilmiş, kasvetli ve duygusal.
-0-3s (kurulum): Gece, hafif yağmurda sessiz, boş bir tren istasyonu platformu. Uzun paltolu genç bir adam, soğuk havada nefesi görülecek şekilde, eski bir zarf tutarak yalnız başına duruyor. Arkasından yavaş dolly-in.
-3-7s (gerilim): Zarfına baktığı yüzünün yakın çekimi, ardından sisin içinden büyüyen uzak bir tren ışığına bakıyor. Elleri hafifçe titriyor. Odak geçişi (rack focus) zarftan gözlerine.
-7-11s (dönüm noktası): Rüzgarla birlikte tren gelir. Paltosu ve saçları yana savrulur. Tereddüt eder, sonra zarf parmaklarından kayıp ıslak platforma düşer. Yavaş çekim, havadaki damlalar.
-11-15s (bitiş): Kapılar açılır, sıcak sarı ışık yüzüne vurur. Geriye bakmadan içeri adım atar. Kamera, tren uzaklaşırken platformdaki zarfta kalır, ardından siyaha geçer.
-Görünüm: Teal ve kehribar renk düzenlemesi, derin gölgeler, yumuşak pratik aydınlatma, ince film greni, sığ alan derinliği.
-Ses: Hafif yağmur, yaklaşan tren uğultusu, trenin varışında tek bir uzun piyano notası, son karartmada sessizlik. Diyalog yok.
-Metin: Yok.
-Dil: Konuşma ve ekran metni olmadığından dil sorunu yok.
-Kaçınılacaklar: Bozuk eller, çarpık yüzler, titreme, bozuk metinler, filigranlar, fazla uzuvlar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107427869517590528/img/Ca8Q0vKPSHYSNxix.jpg" width="600" alt="Sinematik Tren İstasyonu Hikaye Sahnesi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12054)**
-
-**Yazar:** [ORHAN](https://x.com/OrhanGhazi65942) | **Kaynak:** [Link](https://x.com/OrhanGhazi65942/status/2107427996705718600) | **Yayınlandı:** Oct 6, 2026
-
----
-### Köpek Maskotu ile Eğlenceli Basketbol Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Giant dog maskotuyla basketbol oynayan Koreli bir kızın, akıcı kamera geçişleri ve K-drama estetiği içeren fotogerçekçi video promptu.
-
-#### 📝 İstem
-
-```
-Uzun koyu saçlı, dar kesim siyah kolsuz üst, siyah spor şort ve beyaz spor ayakkabı giyen güzel bir Koreli kız, etrafı yemyeşil ağaçlarla çevrili dışarıdaki turuncu renkli basketbol sahasında basketbol oynuyor. Siyah sarkık kulaklı sevimli, abartılı boyutlarda beyaz çizgi film tarzı köpek maskotu, onun karşısında durarak elinde tuttuğu basketbol topunu sektiriyor. Sahne, kızın basketbol potası yakınındaki devasa köpek karakterine baktığı geniş sinematik bir çekimle başlıyor. Kız, basketbol topunu sürerken maskotla eğlenceli etkileşime girerek neşeli ve büyüleyici bir atmosfer yaratıyor. Kamera, geniş açılar ile orta yakın çekimler arasında yumuşakça hareket ederek kızın doğal ifadelerini, uçuşan saçlarını, gerçekçi vücut hareketlerini ve maskotun sevimli tepkilerini yakalıyor. Videonun ortasında kız, basketbol topunu tutarak kameraya doğru yaklaşır, kendinden emin ve hafif oyunbaz görünür. Devasa köpek karakteri arka planda görünmeye devam eder ve kızın hareketlerine mizahi tepkiler verir. Sonlara doğru kız, basketbol potasına geri döner ve maskot ön plandayken başka bir eğlenceli basketbol anına hazırlanır. Fotogerçekçi Koreli kız, doğal cilt dokusu, gerçekçi yüz hatları, tutarlı kimlik, detaylı saç telleri, gerçekçi atletik hareketler, sinematik dış mekan ışıklandırması, yumuşak bulutlu gün ışığı, sığ alan derinliği, yumuşak el kamerası hareketi, gerçekçi basketbol sahası dokuları, doğal gölgeler, yüksek detaylı 4K sinematik kalite, eğlenceli K-drama ilhamlı görsel stil, yüz bozulması yok, ekstra parmak yok, doğaüstü vücut hareketi yok, metin veya filigran yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107339831844171776/img/4LsCyW9rPzzslP5o.jpg" width="600" alt="Köpek Maskotu ile Eğlenceli Basketbol Sahnesi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11984)**
-
-**Yazar:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Kaynak:** [Link](https://x.com/ayzalnooor24521/status/2107340030536741222) | **Yayınlandı:** Oct 6, 2026
-
----
-### Banliyö Mahallesinde Canavar Saldırısı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gün batımında banliyö ortamında yerden devasa bir yaratığın ortaya çıktığı, sinematik ve yoğun VFX içeren bir sahne için prompt.
-
-#### 📝 İstem
-
-```
-Gün batımında ultra gerçekçi sinematik banliyö mahallesi sahnesi, çimenli bir bahçede gizemli parlayan bir nesne belirir ve aniden yerden devasa, iğrenç yeşil bir yaratık çıkar; devasa sümüksü dokulu gövde, öfkeli ve ifade dolu gözler, gerçekçi cilt detayları, havada uçuşan toz ve enkaz, uzaktan şok olmuş bir adam izliyor, arka planda lüks banliyö evi, dramatik altın saat ışıkları, atmosferik pus, sinematik kamera hareketi, sığ alan derinliği, fotogerçekçi VFX, son derece detaylı, 8K, gerçekçi gölgeler, epik Hollywood film tarzı, dikey 9:16 kompozisyon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107333865253773312/img/OglQcBBKfBfaKX1l.jpg" width="600" alt="Banliyö Mahallesinde Canavar Saldırısı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11985)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2107333962402341067) | **Yayınlandı:** Oct 6, 2026
-
----
-### Siberpunk Kadın Neon Sokak
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genç bir kadının neon ışıklı bir sokakta yürüdüğü, moda detaylarına, ışıklandırmaya ve kamera özelliklerine odaklanan ultra gerçekçi bir siberpunk sahne oluşturmak için bir istem.
-
-#### 📝 İstem
-
-```
-Gece karanlık neon ışıklı şehir sokağında kendinden emin adımlarla yürüyen cesur genç bir kadının ultra gerçekçi sinematik siberpunk sahnesi. Uzun koyu renk saçları, yoğun ifadesi ve kırmızı kısa üstün üzerine giydiği fütüristik beyaz büyük beden ceket, siyah taktik pantolon, eldivenler ve aksesuarlar takıyor. Islak yollarda yansıyan kırmızı ve sıcak şehir ışıkları, atmosferik sis, parlayan tabelalar, dramatik gölgeler, sığ alan derinliği, sinematik bokeh, dinamik kamera hareketleri, gerçekçi cilt ve kumaş dokuları, yüksek detay, kasvetli aksiyon filmi havası, 85mm lens, f/1.4, HDR, 8K, fotogerçekçi, dikey 9:16 kompozisyon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106972520972947456/img/0SDQbYzRuv36V6Vl.jpg" width="600" alt="Siberpunk Kadın Neon Sokak">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11918)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2106972552119963744) | **Yayınlandı:** Oct 5, 2026
-
----
-### Komik Düğün Hikayesi İçin Seedance Video Promptu
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance için, bir kadının sevgilisine gelecekteki düğününe başka biriyle katılması durumunda saçlarını yeşile boyamasını istediği 15 saniyelik komik hikayeyi oluşturan detaylı bir video üretim promptu. Prompt; karakter tutarlılığı talimatları, sahne geçişleri, kamera hareketleri ve spesifik diyaloglar içerir.
-
-#### 📝 İstem
-
-```
-15 saniye, 16:9 yatay en-boy oranı, gerçekçi canlı aksiyon dokusu, modern Çin kentsel arka planı. İlk yarıda çiftler arasında doğal ve samimi bir sohbet; ikinci yarıda ise gelecekteki bir otelde gerçekleşen Batı tarzı bir düğüne ani kesme (hard-cut). Kamera yavaşça geri çekilir ve farklı saç renklerine sahip erkek misafirleri kademeli olarak ortaya çıkararak absürt ve garip bir komedi dönüşü oluşturur. Karakter performansları ölçülüdür; ortam, cilt, kıyafetler ve aydınlatma gerçekçi ve doğaldır.
-[Karakterler ve Tutarlılık]
-Başroldeki kadın genç bir Çinli kadındır @image (31). Gelecekteki düğündeki gelin aynı kadın olmalı, yüz hatları ve konturları tutarlı kalmalı, yalnızca saç modeli, makyaj ve kıyafet değişmelidir.
-Başroldeki erkek genç bir Çinli erkektir; normal kısa siyah saçlarla ve günlük rahat kıyafetlerle başlar. Gelecekteki düğünde yüz hatları, yüz şekli, vücut tipi ve saç modeli konturu tutarlı kalır, ancak dar kesim bir takım elbise giyer ve saçlarını belirgin şekilde yeşile boyamıştır; böylece kadının başlangıçta yaptığı isteği yerine getirir. Sahne veya saç rengi değişiklikleri nedeniyle farklı bir yüze dönüşmemelidir.
-Damadı, başroldeki erkekten görünüş olarak açıkça farklı olan, hafif kilolu, siyah saçlı başka bir yetişkin Çinli erkektir ve resmi damat kıyafeti giymektedir.
-Düğün mekanında birden fazla yetişkin erkek misafir vardır; her biri kırmızı, mavi, mor, sarı veya turuncu saçlara sahiptir ve bunların arasında başka bir yeşil saçlı adam da bulunur. Görünüşleri, boyları, vücut tipleri, saç modelleri ve takım elbiseleri hepsi farklıdır. Boyalı saçlar gerçek telleri, kökleri ve parlaklığı korur; renkli peruk gibi veya parlıyor gibi görünmez.
-[0-7s: Günlük Çift Sohbeti]
-Sıradan bir şehir parkı veya apartman altı, akşam, doğal yumuşak ışık, arka planda hafif yaşam sesleri.
-Kız ve oğlan bir bankta yan yana oturuyor. İki kişinin yüzlerini net gösteren orta yakın çekim kullanın. Kız, oğlana dönüp elini tutar; şefkatli, ciddi ve biraz cilveli konuşur, sanki romantik bir şeyden tesadüfen bahsediyormuş gibi. Oğlan ona derinden bakar.
-Kız tamamen ve net bir şekilde şunu söyler:
-"Sevgilim, gelecekte benimle evlenecek kişi sen olmazsan, düğünüme saçlarını yeşile boyayıp gelmelisin ki seni tek bakışta tanıyabileyim."
-Doğal, biraz hızlı, akıcı günlük bir tempoda söylenir; kasıtlı olarak uzatılmaz, yutulan kelime yoktur, mekanik hızlanma yoktur. Kız konuşurken, oğlan onu dinler, hem duygulanmış hem de şaşkın görünen hafif bir gülümseme sergiler, cevap vermez.
-Performansı sürekli tutun, başroldeki erkeğin yüzünü net kurun. Kız önceden sırıtmaz, kameraya göz kırpmaz, sonraki twist'i önceden hissettirmez.
-[7-9s: Gelecekteki Düğüne Ani Kesme, Önce Aynı Yüzü Sonra Yeşil Saçı Görme]
-Kız son kelimeyi "sen" dediği anda, hemen otel düğün sahnesine ani kesme yapılır. Ortam sesi, dışarıdaki yaşam seslerinden balo salonundaki alkış ve bulanık seslere senkronize olarak geçer.
-Aynı başroldeki erkeğin yüzünün ön cephe yakın çekimine geçilir. İlk karelerin üst kenarı saç çizgisinin altında kesilir, saçı geçici olarak gizler, izleyicinin onu az önceki oğlan olarak tanımasını sağlar.
-Düğün misafir koltuklarında oturur, takım elbise giyer, hafif gergin bir ifade taşır, karışık bir beklenti içindedir, gözleri giriş koridoruna yöneliktir.
-Kamera ardından yavaşça ve sabitçe geri gider, tüm kafasını kademeli olarak ortaya çıkarır—saçlarını yeşile boyamıştır.
-Yeşil renk bu anda izleyici tarafından ilk kez görülür. Düğün çekiminin başından itibaren zaten yeşil saçlıydı, mekanda renk değiştirme efekti yoktur.
-[9-12s: Gelin ve Damat Girişi, Diğer Saç Renkleri Kademeli Olarak Belirir]
-Kamera geri gitmeye devam eder, yakın çekimden orta çekime genişler, yeşil saçlı başroldeki erkeği karede bir tarafta tutmak için hafif yatay ayarlamalar yapar ve merkezi düğün koridorunu kademeli olarak ortaya çıkarır.
-Sahne, Batı tarzı bir düğün için düzenlenmiş gerçek bir otel balo salonudur; açık renkli çiçek düzenlemeleri, beyaz veya bej sandalyeler, sıcak tavan ışıkları ve halılı giriş koridoru vardır. Aydınlatmanın net kaynakları vardır, gelinlik kumaş detaylarını korur, rüyamsı peri diyarı efektleri yoktur.
-Arka plan koridorunda, açılıştaki kız gelinlik giyer, hafif kilolu damatla kol kola girer, yavaşça ilerler. Damadın görünüşü ve vücut tipi yeşil saçlı başroldeki erkekten açıkça farklıdır.
-Başroldeki erkek aslında gelinine bakıyordu, zar zor hafif bir gülümseme koruyordu. Kamera geri çektikçe, yanında kırmızı saçlı bir erkek misafir ve ardından mavi saçlı bir erkek misafir kareye girer.
-Yanındaki kırmızı saçlı adama farkında olmadan bakar, gülümsemesi hafifçe duraksar, sonra diğer taraftaki yeşil saçlı adama bakar, kaşları hafifçe oynar, bir şeylerin yanlış olduğunu hissetmeye başlar.
-[12-15s: Daha Fazla Renkli Saçlı Erkeği Ortaya Çıkarma, Başroldeki Erkek Şaşkınlıkla Etrafına Bakınır]
-Kamera aynı yörüngede geri gitmeye devam eder, başroldeki erkeği, çevresindeki sıralardaki misafirleri ve düğün koridorunu içeren daha geniş bir görünüme genişler. Düğün bölümü kesintisizdir, artık kesme yapılmaz.
-Farklı saç renklerine sahip daha fazla erkek misafir kademeli olarak kareye girer: mor, sarı, turuncu ve başroldeki erkekten görünüş, vücut tipi ve saç modeli açısından farklı olan başka bir kırmızı saçlı adam.
-Başroldeki erkek dahil olmak üzere, yaklaşık altı-sekiz renkli saçlı erkek, bitişik sıralarda dağılmış oturur, sıradan siyah saçlı misafirlerle harmanlanır. Tüm misafirlerin boyalı saçı yoktur ve düzgün bir gökkuşağı hattı oluşturmazlar.
-Hepsi farklıdır: bazıları zayıf, bazıları iri, bazıları hafif kilolu; bazıları kazıtılmış, bazıları yan ayrık kısa saçlı, bazıları hafif kıvırcık. Takım elbiseler siyah, lacivert, gri, kahverengidir; kesim, kravat ve gömlek kombinasyonlarında belirgin farklılıklar vardır, bağımsız davet edilmiş gerçek düğün misafirleri gibi görünürler.
-Bu kişiler, düğün çekiminin başından beri orijinal pozisyonlarında oturmuşlardır, sadece ilk sıkı kompozisyondan engellenmişlerdi, kamera geri çektikçe görünür hale gelirler, yoktan var olamazlar veya aniden saçlarını boyayamazlar.
-Başroldeki erkek önce sola, sonra sağa bakar, sonunda hafifçe arkaya doğru döner ve başka bir yeşil saçlı adamı keşfeder. İfadesi kafa karışıklığından şaşkınlığa ve utanmaya dönüşür, dudakları hafifçe aralanır, sanki böyle bir söz alan tek kişi olmayabileceğini nihayet fark ediyormuş gibi.
-Diğer renkli saçlı erkekler çoğunlukla düğünü izlemeye devam eder, bazıları onunla kısa süreli göz teması kurabilir, kolektif olarak başlarını çevirmez veya senkronize tepki vermezler.
-Son, başroldeki erkeğin şaşkın etrafına bakışını, çevresindeki farklı saç renklerine sahip erkekleri ve arka planda girmeye devam eden gelin ve damadı aynı anda korur. Ekran doğal olarak biter, punchline'ı açıklamak için ekstra diyalog yoktur.
-[Sinematografi, Performans ve Gerçekçi Atmosfer]
-Açılışta doğal gün ışığı, düğünde sıcak iç otel aydınlatması kullanılır. Ten tonları normaldir, cilt dokusu korunur, takım elbiselerde gerçek kırışıklıklar vardır, gelinlik ağırlığı vardır, boyalı saçlarda doğal açık-koyu katmanlar vardır.
-İlk yarı gerçek bir çiftin tesadüfi sohbeti gibi hissedilir, ikinci yarı gerçek bir düğün sahnesinde yaşanan garip bir keşif gibi hissedilir. Başroldeki erkek duyguları göz teması, mikro ifadeler ve sola-sağa bakışlarla ifade eder; karikatürize büyük gözlerle dikilme, ağzı açma veya yüzü kapatma eylemleri yoktur.
-Düğün geri çekilmesi gerçek kamera geri hareketini kullanır, sabit hız, farklı saç renklerinin sırayla kareye girmesini sağlamak için misafir pozisyonlarını önceden ayarlar. Geri çekildikten sonra, alan derinliğini kademeli olarak artırır, başroldeki erkek, renkli saçlı misafirler ve arka plandaki yeni evliler arasındaki ilişkinin algılanabilir olmasını sağlar, çevredeki karakterleri renk bloklarına dönüştürerek bulanıklaştırmaz.
-Retro DV kalitesi, abartılı el titremesi, balık gözü lens, ani zoom, yüksek hızlı yörünge, ağır çekim, plastik cilt veya ağır filtreler yoktur.
-[Ses]
-Açılışta kızın diyalogu ve hafif dış yaşam sesleri korunur. Ani kesmeden sonra, otel balo salonunda doğal alkış, kumaş hışırtısı, sandalye gıcırtısı ve bulanık sohbetler devreye girer.
-Diyalog, kızın dudak hareketleriyle tam eşleşir, başroldeki erkek onun yerine konuşmaz veya sözünü kesmez. Düğün bölümünde net diyalog eklenmez.
-Anlatıcı yoktur, arka plan müziği yoktur.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106953873076486145/img/IOpYXcKBoJQlAILi.jpg" width="600" alt="Komik Düğün Hikayesi İçin Seedance Video Promptu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11920)**
-
-**Yazar:** [探路AI](https://x.com/TanLuAI) | **Kaynak:** [Link](https://x.com/TanLuAI/status/2106955448352231762) | **Yayınlandı:** Oct 5, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -4161,6 +4150,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-30T04:53:35.655Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-30T15:16:33.896Z</sub>
 
 </div>
