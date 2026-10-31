@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6609** |
+| 📝 Toplam İstem | **6620** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-10-31** |
 
@@ -361,6 +361,242 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Romantik Akşam Yemeğinden Gece Yarısı Atıştırmalığına Komedi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir çiftin romantik akşam yemeğini ve ardından evde gerçekleşen komik gece yarısı atıştırma macerasını konu alan, yüksek kaliteli 3D animasyonlu bir komedi videosu oluşturmak için prompt.
+
+#### 📝 İstem
+
+```
+Şık ve lüks bir restoranda romantik bir akşam yemeğinin tadını çıkaran sevimli genç bir çiftin yer aldığı, yüksek kaliteli, sinematik bir 3D animasyonlu komedi videosu oluştur. Yakışıklı genç adam şık siyah bir smokin giyerken, güzel genç kız saçlarını zarif bir topuz yapmış şekilde göz alıcı siyah bir gece elbisesi taşıyor. Sıcak altın rengi aydınlatmayla özenle dekore edilmiş bir masada yan yana oturuyorlar; çıtır patates kızartması ve sebzeler eşliğinde nefis bir fırın hindinin tadını çıkarıyorlar. Genç kız tatlı tatlı ona bir lokma uzatıyor ve ikisi de birbirine romantik, içten gülümsemeler atıyor. Yemekten sonra çift, arka planda parlayan sokak lambaları ve büyüleyici binalarla gece vakti güzel bir şehrin içinden geçerek eve doğru sürüyor. Genç kız lüks evine varıyor, sessizce içeri girip soluğu mutfakta alıyor. Buzdolabını açıyor ve heyecanla devasa bir fırın hindi, patates cipsi, çikolatalar, kurabiyeler, hamburgerler ve bolca lezzetli atıştırmalık kapıyor. Bir sonraki sahnede, etrafı dağ gibi yığılmış abur cuburlarla çevrili lüks bir kanepede rahatça oturuyor, yüzünde kocaman bir gülümsemeyle her şeyi afiyetle yiyor. Videoyu, atıştırmalıklar ve yiyeceklerle dolup taşan tüm oturma odasını gösteren geniş sinematik bir çekimle bitir; böylece komik ve sevimli bir "gece yarısı yemek krizi" anı yaratılmış olsun. Etkileyici karikatür tarzı yüz animasyonları, detaylı yiyecek dokuları, akıcı karakter hareketleri, gerçekçi aydınlatma, güzel kamera geçişleri ve premium Pixar ilhamlı 3D animasyon kalitesi kullan. Karakterlerin görünümünü video boyunca tutarlı tut; karakter çoğaltması, şekil bozulması (morphing) veya görsel hatalar kesinlikle olmasın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116402410939953152/img/TVH4s-ff4Ws4U4x-.jpg" width="600" alt="Romantik Akşam Yemeğinden Gece Yarısı Atıştırmalığına Komedi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13215)**
+
+**Yazar:** [liana](https://x.com/Lianaalane) | **Kaynak:** [Link](https://x.com/Lianaalane/status/2116402455315718306) | **Yayınlandı:** Oct 31, 2026
+
+---
+### Lüks Motorsporları Moda Reklamı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yarış tulumu giyen bir kadın ve parfüm şişesinin yer aldığı lüks motorsporları moda reklamı için sinematik video istemi.
+
+#### 📝 İstem
+
+```
+Güzel genç bir kadının, profesyonel yarış botları ve eldivenleriyle birlikte beyaz, siyah ve kırmızı renklerde premium bir yarış tulumu giydiği; ultra gerçekçi, sinematik bir lüks motor sporları moda reklamı oluştur. Kadın, güçlü siyah spor arabalarla, atmosferik dumanla ve parlayan kırmızı LED ışıklarla çevrili etkileyici bir yeraltı yarış garajında kendinden emin adımlarla yürüyor.
+
+Kadının elinde bir yarış kaskıyla kameraya doğru özgüvenle yürüdüğü sinematik bir geniş açı çekimle başla. Yarış kıyafetinin, işlenmiş logoların, kask detaylarının ve kendinden emin yüz ifadesinin dramatik yakın çekimlerini göster.
+
+Hafif bir duman, yansımalar ve sinematik aydınlatmayla çevrili, dramatik bir yakın çekimde sergilenen premium kırmızı-siyah lüks bir parfüm şişesine yer ver.
+
+Akıcı kamera hareketleri, ağır çekim yürüyüş sahneleri, dinamik yakın çekimler, gerçekçi kumaş dokuları, parlak yansımalar, dramatik gölgeler ve profesyonel reklam sinematografisi kullan.
+
+Görsel Stil: Fotogerçekçi, lüks motor sporları estetiği, cesur kırmızı aydınlatma, 8K detaylar, HDR, sığ alan derinliği, sinematik atmosfer, dikey 9:16 kompozisyon.
+
+Önemli: Video boyunca karakter kimliğini, kıyafet tasarımını, ürün görünümünü ve gerçekçi oranları tutarlı bir şekilde koru.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116387135221895168/img/scDHw0t1q9tIdAym.jpg" width="600" alt="Lüks Motorsporları Moda Reklamı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13216)**
+
+**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2116387165341110470) | **Yayınlandı:** Oct 31, 2026
+
+---
+### Seedance 2.0 Sinematik Kılıç Dövüşü İstemi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Seedance 2.0 kullanarak, beyaz saçlı ve kedi kulaklı kadın kılıç ustası karakter referansıyla 15 saniyelik yüksek hızlı sinematik bir kılıç dövüşü videosu oluşturmak için detaylı istem.
+
+#### 📝 İstem
+
+```
+# Seedance 2.0 | 15 Saniyelik Yüksek Hızlı Sinematik Kılıç Dövüşü Aksiyon Videosu İçin Prompt
+
+## I. Karakter Referans Görseli (Character Reference)
+
+**Karakter A: Beyaz Saçlı, Kedi Kulaklı Kadın Kılıç Ustası**
+
+Referans Görsel 1, Karakter A'nın görünüm ayarları için tek ve kesin referans noktasıdır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116275450024800256/img/qHqeHGd6ipOOpWgP.jpg" width="600" alt="Seedance 2.0 Sinematik Kılıç Dövüşü İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13224)**
+
+**Yazar:** [テト@おっさんの異世界転生 Uncle in ISEKAI](https://x.com/ojisan__isekai) | **Kaynak:** [Link](https://x.com/ojisan__isekai/status/2116276599264084192) | **Yayınlandı:** Oct 30, 2026
+
+---
+### Kalamar Epoksi Zemin Yenileme İstemcisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 ile oluşturulan, kalamarları benzersiz bir epoksi zemin tasarımına dönüştüren istemci.
+
+#### 📝 İstem
+
+```
+Kot tulum giymiş sakallı bir adam, büyük pencereli boş ve beyaz bir yatak odasının çıplak beton zemininde devasa bir taze mürekkep balığı yığınını tırmıkla yayarak tüm zemini kaplayan kusursuz, tek katmanlı eşit bir tabaka haline getiriyor. Kırmızı tulum ve beyaz tişört giymiş sarışın bir kadın, büyük bir plastik kovadan yoğun beyaz epoksi reçineyi döküyor; süt gibi sıvı mürekkep balıklarının üzerinden akarak onları duvardan duvara yayılan parlak, kendiliğinden düzleşen bir katmanın altına gömüyor. Sarı fosforlu yelekli bir işçi, sertleşmekte olan yüzeyde bir zemin cilalama makinesini ileri geri iterek yüzeyi ayna parlaklığında pürüzsüz hale getiriyor; yüzlerce mürekkep balığı, tıpkı terrazzo gibi şeffaf reçinenin içinde kalıcı olarak asılı duruyor. Ardından siyah tişört ve şapka giyen iki adam, bitmiş zeminin üzerine başlıklı ceviz ağacından bir karyola iskeleti kuruyor, yatağı yerleştirip tertemiz beyaz çarşaflar ve yastıklarla döşüyor. Final sahnesi: Yüzeyinin altında mürekkep balıkları gömülü muhteşem parlak beyaz zeminiyle aydınlık, minimalist bir yatak odası ve pencereden süzülen doğal gün ışığı. Dikey video, hiper gerçekçi belgesel tarzı, tatmin edici yenileme dönüşümü, akıcı el kamerası çekimi, parlak doğal aydınlatma.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116233841467645952/img/LQmCwKu2c9PoXtM5.jpg" width="600" alt="Kalamar Epoksi Zemin Yenileme İstemcisi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13221)**
+
+**Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2116233884077556111) | **Yayınlandı:** Oct 30, 2026
+
+---
+### Deniz Kabuğu Terrazzo Yatak Odası Zemin İstem Prompt'u
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 ile oluşturulan, deniz kabukları ve epoksi reçine kullanarak çarpıcı bir yatak odası zemini tasarlamak için prompt.
+
+#### 📝 İstem
+
+```
+Kot tulum ve gri tişört giyen bir adam, büyük ve aydınlık bir penceresi olan boş beyaz bir odada, çıplak beton zemindeki devasa deniz kabuğu yığınının yanında duruyor. Bir tırmık alarak kabukları tüm zemine eşit şekilde yayıyor. Kırmızı tulum ve beyaz tişört giyen bir kadın, gri metal bir kova taşıyarak kabukların üzerine yoğun beyaz epoksi reçine döküyor; sıvı dışa doğru yayılarak tüm zemini pürüzsüz, parlak bir tabaka halinde kaplıyor. Ardından sarı fosforlu yelek ve siyah şapka takan bir işçi, sertleşen yüzeyi bir zemin cilalama makinesiyle parlatıyor ve gün ışığını yakalayan, içine renkli deniz kabukları gömülü muhteşem beyaz terrazzo zemini yavaş yavaş ortaya çıkarıyor. Tulumlu adam geri dönerek açık renkli ahşap bir yatak çerçevesini monte ediyor, başlığını takıyor, ızgara tahtalarını yerleştiriyor, beyaz bir yatak koyuyor ve yatağı tertemiz beyaz çarşaflar ile bej ve gri yastıklarla süslüyor. Son sahne: Pencereden süzülen güneş ışığıyla aydınlanan, parlak minimalist bir yatak odasında, ışıl ışıl deniz kabuklu terrazzo zeminin tam ortasına yerleştirilmiş sıcak tonlarda ahşap bir yatak. Akıcı time-lapse tarzı geçişler, gerçekçi doğal aydınlatma, tatmin edici ev yenileme dönüşümü, dikey format, fotogerçekçi detaylar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116232894100201472/img/pez4WVohMBybMbBD.jpg" width="600" alt="Deniz Kabuğu Terrazzo Yatak Odası Zemin İstem Prompt'u">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13219)**
+
+**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2116232943790141574) | **Yayınlandı:** Oct 30, 2026
+
+---
+### Vinil Plak Epoksi Zemin Promptu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 ile oluşturulan, eski plaklar ve epoksi kullanarak şık bir yatak odası zemini tasarlamak için hazır prompt.
+
+#### 📝 İstem
+
+```
+Dikey video, yeşil ağaçların göründüğü büyük bir pencereye sahip boş beyaz bir odanın sabit geniş açı çekimi. Mavi tulum ve iş eldiveni giyen bir adam, çıplak beton zemindeki devasa siyah plak yığınını tırmıkla yayarak plakları renkli karolar gibi tüm zemine düz ve eşit şekilde dağıtıyor. Kırmızı tulum, siyah tişört ve yeşil kauçuk eldiven giyen bir kadın elinde beyaz bir kova ile içeri giriyor ve plakların üzerine yoğun, kremamsı beyaz kendinden yayılan epoksi reçine döküyor; parlak sıvı dışarı doğru yayılarak tüm zemini bembeyaz bir tabakayla kaplıyor. Görüntü sertleşmiş zemine geçiyor: Sarı fosforlu yelek, kırmızı pantolon ve lastik çizme giyen bir işçi, döner zemin cilalama makinesiyle yüzeyi parlatıyor ve kristal berraklığında parlak bir epoksi katmanının altına gömülen plakların renkli etiketleri ışıl ışıl ortaya çıkıyor. Son olarak siyah giyimli iki adam ahşap bir karyola iskeletini içeri taşıyor, odanın ortasında kuruyor, ardından beyaz bir yatak, yastıklar ve gri bir yorgan yerleştirerek plak zeminli şık bir yatak odasını tamamlıyor. Parlak doğal gün ışığı, temiz minimalist estetik, tatmin edici DIY tadilat hızlandırılmış çekim tarzı, akıcı geçişler, fotogerçekçi detaylar, 4K kalite.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116161341782130688/img/m2enr1Dp9OgXTYoR.jpg" width="600" alt="Vinil Plak Epoksi Zemin Promptu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13222)**
+
+**Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2116161380516601859) | **Yayınlandı:** Oct 30, 2026
+
+---
+### Kreide Terrazzo Zemin Yenileme İstem Metni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 ile oluşturulan, kreideleri terrazzo zemine dönüştüren hiper gerçekçi bir yenileme zaman atlamalı istem metni.
+
+#### 📝 İstem
+
+```
+Beyaz duvarları ve büyük bir penceresi olan aydınlık, boş bir odada çekilmiş, hiper gerçekçi ve izlemesi son derece tatmin edici bir yenileme timelapse videosu. Mavi tulum giyen bir adam, çıplak beton zemindeki binlerce renkli boya kaleminden oluşan devasa yığını bir tırmıkla tarıyor; uzun ve akıcı hareketlerle kalemleri tüm odaya eşit şekilde yayıyor. Ardından kırmızı tulumlu ve yeşil eldivenli bir kadın, siyah bir kovadan dağınık haldeki kalemlerin üzerine yoğun, parlak beyaz epoksi reçine döküyor. Kremsi sıvı dışa doğru yayılarak kendi kendine düzleşiyor ve sonunda tüm zemini kaplıyor. Sarı fosforlu yelek giyen işçiler daha sonra sertleşen yüzeyi döner tabanlı bir zemin cilalama makinesiyle parlatıyor. Bu işlem sırasında, içinde binlerce renkli boya kalemi parçasının asılı kaldığı, cilalı taşı andıran parlaklığıyla pencereden gelen ışığı yansıtan muhteşem, terazzo tarzı parlak bir zemin yavaş yavaş ortaya çıkıyor. Siyah üniforma ve şapka giyen iki işçi ahşap bir karyola iskeletini içeri taşıyıp monte ediyor, üzerine beyaz bir yatak yerleştiriyor ve beyaz nevresim ile yastıklarla yatağı özenle topladıktan sonra odadan ayrılıyor. Son sahne: Ayna gibi parlayan boya kalemi terazzo zeminin yumuşak doğal gün ışığında pırıl pırıl olduğu, zarif minimalist bir yatak odası; akıcı sinematik kamera hareketleri, net ve gerçekçi detaylar, izlemesi son derece tatmin edici ASMR tarzı bir dönüşüm videosu, 4K kalite.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116158972063277056/img/97D3lQjT3kQuVTvK.jpg" width="600" alt="Kreide Terrazzo Zemin Yenileme İstem Metni">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13220)**
+
+**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2116159013410701811) | **Yayınlandı:** Oct 30, 2026
+
+---
+### Sonbahar Yaprakları Epoksi Zemin Renovasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sonbahar yapraklarının büyülü bir epoksi zeminli yatak odasına dönüştürüldüğü oda renovasyonunu gösteren bir zaman atlamalı video istemi.
+
+#### 📝 İstem
+
+```
+Dikey 9:16 formatında, bir oda yenilemesini gösteren fotogerçekçi timelapse. Beyaz duvarları olan aydınlık ve boş bir oda, çıplak beton zemin, süpürgelikler boyunca uzanan mavi maskeleme bandı ve dışarıda yeşil ağaçların göründüğü büyük bir pencere. Mavi tulumlu bir adam, turuncu ve yeşil sonbahar yapraklarından oluşan büyük bir yığını tırmıkla yayarak tüm zemine eşit şekilde dağıtıyor. Ardından yeni işçiler katılıyor: siyah tulumlu bir işçi ile kırmızı tulumlu üç işçi, metal kovalardan yaprakların üzerine şeffaf kendiliğinden yayılan epoksi reçine döküyor ve uzun saplı çekçeklerle her bir yaprak parlak, şeffaf bir katmanın altına hapsolana kadar reçineyi yayıyor. Sarı fosforlu yelekli ve kulaklıklı bir işçi, donmuş zemini döner zemin cilalama makinesiyle parlatıyor; böylece zemin kusursuz pürüzsüzlükte ve ayna gibi parlak bir hale gelirken, sonbahar yaprakları camın altında bir orman tabanını andırır şekilde asılı kalıyor. Son olarak siyah üniformalı ve kulak koruyuculu işçiler hızla ahşap bir yatak çerçevesini monte ediyor, beyaz bir yatak, yastıklar ve bej rengi bir örtü yerleştirip pirinç lambalı ahşap komodinleri ekliyor. Final sahnesi: Doğal gün ışığıyla yıkanmış, samimi ve minimalist bir yatak odası; pencereyi ve yatağı yansıtan, yapraklarla dolu göz alıcı parlak epoksi zemin. Akıcı ve hızlı timelapse hareketi, tatmin edici yenileme tarzı, doğal aydınlatma, net ve gerçekçi detaylar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116103244116086784/img/JCsSRmsvGdknmXVv.jpg" width="600" alt="Sonbahar Yaprakları Epoksi Zemin Renovasyonu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13218)**
+
+**Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2116103283274088875) | **Yayınlandı:** Oct 30, 2026
+
+---
+### Sakız Topu Terrazzo Zemin Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 ile oluşturulan, sakız topları kullanarak muhteşem bir terrazzo zemin yapmak için prompt.
+
+#### 📝 İstem
+
+```
+Dikey video, beyaz duvarları ve beton zemini olan, büyük bir pencereden güneş ışığı alan aydınlık boş bir oda. Mavi tulumlu bir adam, yere yayılmış devasa renkli sakız toplarından oluşan yığını tırmıkla tarayarak odanın tamamını kaplayacak şekilde düzgün sıralar hâline getiriyor. Kırmızı tulum ve siyah tişört giyen bir kadın, büyük gri bir kovadan yoğun beyaz kendiliğinden yayılan epoksi reçineyi döküyor; parlak sıvı dışa doğru yayılarak sakız toplarının üzerini tamamen kapatıyor. Sarı fosforlu yelek ve siyah şapka takan bir işçi, kuruyan yüzeyi profesyonel bir zemin taşlama makinesiyle parlatıyor ve bu işlem sırasında içine gömülmüş renkli şeker benekleriyle pürüzsüz, parlak beyaz bir terrazzo zemin yavaş yavaş ortaya çıkıyor. Koyu renk üniforma giyen iki işçi ahşap bir karyola iskeletini içeri taşıyor, üzerine beyaz bir yatak yerleştirip beyaz nevresimleri seriyor ve yastıkları özenle diziyor. Doğal güneş ışığında parlayan, göz alıcı şeker benekli terrazzo zeminiyle minimalist bir yatak odasını gösteren geniş açılı kapanış çekimi. Fotogerçekçi, akıcı kamera hareketleri, tatmin edici adım adım yenileme dönüşümü, aydınlık doğal ışıklandırma.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116102290763378688/img/fJE7OoTkM7RQVZFZ.jpg" width="600" alt="Sakız Topu Terrazzo Zemin Prompt">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13223)**
+
+**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2116102340839092598) | **Yayınlandı:** Oct 30, 2026
+
+---
+### Mekanik Örümcekten Spor Arabaya Dönüşüm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karanlık bir garajda mekanik bir örümceğin lüks bir spor arabaya dönüştüğünü anlatan sinematik bir video istemi.
+
+#### 📝 İstem
+
+```
+Karanlık bir yeraltı otoparkının içinde geçen, hiper gerçekçi ve sinematik bir dönüşüm sahnesi. Gizemli, parlak siyah, mekanik örümceği andıran bir yaratık beton zeminde sürünerek küçük metalik bir nesneye doğru ilerliyor. Yaratık aniden dönüşmeye başlıyor; çok sayıdaki uzun metalik bacakları dışa doğru açılarak karmaşık mekanik parçalara katlanıyor. Tüm yapı hızla şekil değiştirerek Porsche 911'i andıran, aerodinamik ve saldırgan görünümlü siyah bir lüks spor arabaya dönüşüyor. Mekanik parçalar kusursuzca içeri çekiliyor, tekerlekler oluşuyor, kaporta panelleri bir araya geliyor ve farlar göz alıcı bir şekilde yanıyor. Bu dönüşüm pürüzsüz, fütüristik ve görsel olarak büyüleyici. Tamamlanan siyah spor araba, güçlü farlarıyla karanlık otoparkı aydınlatarak yavaşça ileri doğru hareket ediyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116095481600516096/img/ee3WLr4woRgzmEf1.jpg" width="600" alt="Mekanik Örümcekten Spor Arabaya Dönüşüm">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13217)**
+
+**Yazar:** [Zarnish](https://x.com/ZarnishNael) | **Kaynak:** [Link](https://x.com/ZarnishNael/status/2116095524357181578) | **Yayınlandı:** Oct 30, 2026
+
+---
+### Koreli Kız Yaşam Tarzı Vlog İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uyanma, Seul'de yürüyüş, bir kafede vakit geçirme ve gün batımını izleme gibi birden fazla sahneyi içeren, tutarlı karakter görünümüne sahip 15 saniyelik sinematik bir Koreli kız yaşam tarzı mini vlog'u oluşturmak için detaylı istem.
+
+#### 📝 İstem
+
+```
+Güzel, 15 saniyelik sinematik bir Koreli kız yaşam tarzı mini vlog videosu oluştur. Doğal güzelliğe sahip, uzun siyah saçlı, yumuşak kahküllü, oversize bordo kapüşonlu sweatshirt, bol pantolon ve kanvas omuz çantası giyen tutarlı görünümlü 24 yaşında bir Koreli kadın yer alsın.
+
+Sahne 1 (0–3s): Sıcak ve samimi yatak odasında uyanır, güneş ışığı yüzüne yumuşakça vurur. Gözlerini yavaşça açar ve gülümser.
+Sahne 2 (3–5s): Aynanın karşısında hazırlanır, saçlarını toplar ve omuz çantasını alır.
+Sahne 3 (5–7s): Etrafına sonbahar yaprakları dökülürken Seul'ün güzel bir sokağında yürür; sinematik takip çekimi.
+Sahne 4 (7–10s): Sıcak ve samimi bir Kore kafesine girer, buzlu kahve sipariş eder, pencere kenarına oturur ve huzurlu bir yudum alır.
+Sahne 5 (10–12s): Müzik dinlerken defterine bir şeyler yazdığı yakın çekim görüntüsü.
+Sahne 6 (12–15s): Seul üzerinde muhteşem turuncu bir gün batımını izler, kameraya doğru döner ve doğal, yumuşak bir şekilde gülümser.
+
+Ultra gerçekçi sinematik görseller, doğal yüz ifadeleri, gerçekçi cilt dokusu, estetik kamera hareketleri, yumuşak altın rengi aydınlatma, sığ alan derinliği, nostaljik 2000'lerin başı MiniDV estetiği, akıcı geçişler, gerçekçi Kore yaşam tarzı atmosferi.
+
+Her sahnede aynı yüzü, saç stilini, kıyafeti ve vücut oranlarını birebir koru. Kimlik kayması olmasın, yapay güzellik filtresi olmasın, metin olmasın, logo olmasın, filigran olmasın. Dikey 9:16 format, toplam süre tam olarak 15 saniye.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116042683164827648/img/F7YIS8NIKpe5n7Gq.jpg" width="600" alt="Koreli Kız Yaşam Tarzı Vlog İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13214)**
+
+**Yazar:** [liana](https://x.com/Lianaalane) | **Kaynak:** [Link](https://x.com/Lianaalane/status/2116042775007474169) | **Yayınlandı:** Oct 30, 2026
+
+---
 ### Seedance 2.0 Douyin Dans Videosu İstemi
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -3824,271 +4060,6 @@ Stil: premium Pixar tarzı 3D animasyon, sevimli karakter tasarımları, ifade d
 **Yazar:** [Neo-phyte](https://x.com/Deadmeatz) | **Kaynak:** [Link](https://x.com/Deadmeatz/status/2108654687151145239) | **Yayınlandı:** Oct 9, 2026
 
 ---
-### Hindistan Cevizi Terrazzo Zemin Dönüşüm Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 için, hindistan cevizlerinin taranıp sütle kaplanarak parlak bir terrazzo zemine dönüştürülmesini gösteren, zaman atlamalı inşaat sürecini içeren sürreal ve hiper-gerçekçi bir video istemi.
-
-#### 📝 İstem
-
-```
-Dikey 9:16 en boy oranında sürreal ve hiper-gerçekçi video; sabit önden geniş açı çekim; beyaz duvarlı, beton zeminli ve dışarıda tropik palmiye ağaçlarını gösteren büyük bir penceresi olan boş bir odada geçen tek ve kesintisiz bir sahne; doğal gün ışığı.
-
-Çekim 1: Mavi kot tulum giyen kaslı bir adam, tüylü kahverengi hindistan cevizi yığınını tarayarak tüm zemine tek katman halinde eşit şekilde yayıyor; hindistan cevizleri gerçekçi fizik kurallarına uygun olarak yuvarlanıp kayıyor.
-
-Çekim 2: Kırmızı tulum giyen bir kadın, devasa bir kova ile yoğun kremamsı beyaz hindistan cevizi sütünü hindistan cevizleriyle kaplı zemine döküyor; beyaz sıvı akıyor, yayılıyor ve reçine gibi hindistan cevizlerini yavaşça örtüyor.
-
-Çekim 3: Sarı yüksek görünürlük yeleği giyen bir işçi, sertleşmiş yüzeyi zemin taşlama makinesiyle cilalıyor; içinde kesitleri gömülü, cilalı taşa benzeyen parlak beyaz terrazzo zemin ortaya çıkıyor.
-
-Çekim 4: Siyah üniformalı iki taşıma görevlisi ahşap bir yatak çerçevesini içeri getiriyor, beyaz bir şilte yerleştiriyor ve yatağı beyaz çarşaflarla yastıkları düzenli şekilde düzeltiyor.
-
-Son çekim: Parlak, minimalist yatak odası; pencere ışığını yansıtan hindistan cevizi dilimleriyle desenlenmiş, ayna parlaklığında beyaz terrazzo zemin. Sinematik aydınlatma, fotogerçekçi detaylar, aşamalar arasında pürüzsüz zaman atlamalı geçişler, tatmin edici ASMR tarzı inşaat süreci, metin yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108559194227965953/img/NioKBNgsFTbCTl_S.jpg" width="600" alt="Hindistan Cevizi Terrazzo Zemin Dönüşüm Videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12236)**
-
-**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2108559226452750458) | **Yayınlandı:** Oct 9, 2026
-
----
-### Taş Avluda Bebek Ejderha ve Kadın
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Rustik taş avluda bir kadın ve minik bir bebek ejderhanın etkileşimini içeren, kumaş fiziği, karakter tutarlılığı ve duygusal anlatım için özel talimatlar barındıran, Seedance 2.0 için optimize edilmiş 25 saniyelik fantastik video promptu.
-
-#### 📝 İstem
-
-```
-Uzun, koyu kahverengi saçları olan, zarif krem rengi ortaçağ elbisesi ve koyu kahverengi şal giyen güzel genç bir kadını konu alan, 25 saniyelik sinematik ve ultra gerçekçi bir fantastik video oluşturun. Kadın, huzurlu bir kırsal köydeki eski taş kulübenin yanındaki rustik taş avluda durmaktadır. Çevrede hava koşullarına maruz kalmış taş duvarlar, ahşap pencereler, çamurlu taş yol, karla kaplı herdem yeşil ağaçlar ve yumuşak, bulutlu gökyüzünün altında uzaktaki sisli dağlar yer alır. Soluk pembe-beyaz tenli, devasa parlak gözlere, küçük boynuzlara, narin kulaklara, minik ayaklara, ince bir kuyruğa ve yarı saydam pembe kanatlara sahip sevimli, minik bir bebek ejderha onun ayaklarının yanında durmaktadır. Video, kadının geleneksel ahşap çamaşır ipine büyük, krem rengi keten bir bez asarken gösterildiği doğal, sinematik geniş bir çekimle başlasın. Hafif bir rüzgar, uzun saçlarını ve kumaşı doğal şekilde hareket ettirsin. Kadın aniden yanındaki minik ejderhayı fark eder ve meraklı, şaşkın ve sevgi dolu bir ifadeyle ona aşağı bakar. Bebek ejderha ona yukarı bakıp devasa gözlerini kırptığında ve narin pembe kanatlarını usulca açtığında kamera yavaşça yaklaşsın. Karmaşık, şeffaf kanat zarlarını, gerçekçi cilt dokusunu, minik pençeleri ve ince vücut hareketlerini güzel detaylarla gösterin. Kadın sıcak bir gülümsemeyle küçük yaratığa doğru eğilir; ejderha kanatlarını çırpıp taş avluda birkaç minik adım atarken onu merakla izler. Aniden, bir rüzgar esintisi üzerlerinde gevşekçe asılı duran keten bezi yakalar, bezi çamaşır ipinden kaydırarak bebek ejderhanın üzerine nazikçe düşürür. Minik yaratık, aşırı büyük krem rengi kumaşla tamamen örtülür ve ileri yürümeye çalışırken komik, hareketli bir şekil oluşturur. Kadın oyuncu bir şaşkınlıkla tepki verir ve hemen diz çökerek yardım etmeye çalışır. Kumaş, ejderhanın minik vücudunun etrafında, yerde sendeleyerek yürürken doğal şekilde hareket eder; minik ayakları kumaşın altından görünür. Kadın dikkatlice kumaşı yüzünden kaldırır ve şaşkınlıkla gözlerini kırpıştırıp doğrudan ona bakan sevimli ejderhayı ortaya çıkarır. Küçük yaratığı iki eliyle nazikçe tutar ve yüzüne yaklaştırır. Ejderha yarı saydam pembe kanatlarını vücuduna katlar, kafasını yana yatırır ve burnunu usulca kadının yanağına değdirir. Kadın, küçük başını okşarken devasa parlak gözlerinin içine sevgiyle bakar ve gülümser. Video, huzurlu taş avluda kalpten gelen sıcak bir an paylaşan kadın ve bebek ejderhanın güzel bir yakın çekimiyle sona ersin; arka planda kulübe ve sisli kırsal alan yumuşakça bulanıklaşsın. Tüm video boyunca tutarlı yüz özellikleri, saç stili, kıyafet, yaratık tasarımı, oranlar ve renkleri koruyun. Doğal vücut hareketleri, gerçekçi kumaş fiziği, detaylı dokular, yumuşak dağınık gün ışığı ve sinematik derinlik kullanın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108503353022193665/img/rNaXyfICWppbQJGj.jpg" width="600" alt="Taş Avluda Bebek Ejderha ve Kadın">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12239)**
-
-**Yazar:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Kaynak:** [Link](https://x.com/ayzalnooor24521/status/2108503425277391053) | **Yayınlandı:** Oct 9, 2026
-
----
-### Spider-Man Baba Bebek Duygusal Animasyon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 mini ile oluşturulan, Spider-Man temalı bir kazak giyen baba ve kızının duygusal sarılmasıyla sonlanan 20 saniyelik 3D animasyonlu aile sahnesi için hazırlanmış prompt.
-
-#### 📝 İstem
-
-```
-Sıcak bir akşamda, rahat bir ev ofisinde geçen, yürek ısıtan sinematik tarzda 20 saniyelik 3D animasyonlu bir aile sahnesi oluşturun.
-
-Kıvırcık kahverengi saçlı, ifade dolu kaşlara sahip ve kırmızı-mavi Spider-Man temalı bir kazak giyen genç bir baba, ahşap masasında dizüstü bilgisayarında çalışmaktadır. Yanında, bej renkli örgü kıyafet ve sevimli ayı kulaklı kış şapkası takan tatlı küçük kız bebeği oturmaktadır.
-
-Bebek, babası çalışırken onu dikkatle izler. Baba zaman zaman yorgun ama sevgi dolu bir ifadeyle ona bakar, beyaz kahve kupasından içer ve bilgisayarda yazmaya devam eder. Bebek, yanında küçük bir mama sandalyesinde oturarak her şeyi merakla gözlemler.
-
-Babanın, bebeğin masadaki küçük kırmızı oyuncak araba ve yemek tabağıyla etkileşime geçmesiyle dikkatinin dağıldığını gösterin. Doğal yüz ifadeleri, ince göz hareketleri, nazik el jestleri ve gerçekçi ebeveyn-çocuk etkileşimi ekleyin.
-
-Daha sonra bebek, ikisinin birlikte olduğu ve üzerinde kalp bulunan el yapımı çizimini gururla babasına gösterir. Babanın ifadesi yorgun ve stresli olmaktan çıkarak duygusal, şaşkın ve derinden etkilenmiş bir hale dönüşür.
-
-Sahne, babanın sıcak gülümsemesiyle, kızına dönüp onu sevgiyle kucaklaması ve ona yumuşak bir sarılma vermesiyle sonlanır.
-
-Stil: Yüksek kaliteli sinematik 3D animasyon, Pixar ilhamlı aile filmi estetiği, yumuşak sıcak iç mekan ışığı, detaylı ve ifade yüklü yüzler, gerçekçi kumaş ve saç dokuları, samimi atmosfer, sığ alan derinliği, akıcı karakter animasyonu, doğal kamera hareketleri, duygusal hikaye anlatımı.
-
-Dikey 9:16 kompozisyon, sinematik çerçeveleme, tutarlı karakter görünümü, akıcı geçişler, detaylı ortam, sağlıklı ve duygusal final.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108494585232285696/img/oWcQX4Xg4aDqpY61.jpg" width="600" alt="Spider-Man Baba Bebek Duygusal Animasyon">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12241)**
-
-**Yazar:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Kaynak:** [Link](https://x.com/AiwithBloodline/status/2108495280912134418) | **Yayınlandı:** Oct 9, 2026
-
----
-### Taktiksel Kadın Kalabalık Dövüşü Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini 3.5 ve Seedance 2.0 mini ile üretilen, yağmurda bir kalabalıkla dövüşen taktiksel bir kadının 10 saniyelik ultra fotogerçekçi sinematik aksiyon videosu için yüksek detaylı istem.
-
-#### 📝 İstem
-
-```
-Profesyonel bir sinema kamerasıyla çekilmiş gerçek görüntülerine benzeyen, dikey 9:16 formatında, 10 saniyelik ultra fotogerçekçi sinematik aksiyon videosu oluşturun.
-
-SAHNE: Güçlü bir yetişkin kadın, pratik siyah taktiksel kıyafetler içinde, alacakaranlıkta yağmurla ıslanmış modern bir şehir sokağında sıkışıp kalmıştır. Yetişkin saldırganlardan oluşan büyük bir kalabalık ona birden fazla yönden koşarak yaklaşır. Sakin, zeki, korkusuz ve son derece çeviktir.
-
-0–3 saniye: Geniş kurulum çekimi. Kalabalık hafif yağmurun içinden ona doğru hücum eder. Onların hareketlerini inceler, savunma pozisyonu alır ve ilk saldırgandan gerçekçi zamanlamayla kaçınır.
-
-3–7 saniye: Pürüzsüz el kamerası takip çekimi. İnandırıcı dövüş sanatları hareketleri yapar, saldırıları bloklar, rakiplerin yanından geçer ve kontrollü, grafik olmayan düşürme teknikleri kullanır. Her hareket gerçekçi insan ağırlığına, doğru vücut mekaniğine, doğal ayak temasına ve tutarlı anatomie sahiptir. Kalabalık bağımsız hareket eder; tekrar eden bedenler veya senkronize robotik hareketler yoktur.
-
-7–10 saniye: Kalabalığın arasından geçerek parlak şekilde aydınlatılmış bir bina girişine ulaşır. Geride kalan saldırganlar arkasında durur. Kameraya döner, doğal olarak nefes alır ve zafer işareti olarak bir elini özgüvenle kaldırır. Keskin, güçlü bir sinematik yakın çekimle bitirin.
-
-GÖRSEL KALİTE: Fotogerçekçi insan yüzleri, doğal cilt gözenekleri, gerçekçi ıslak kumaşlar, detaylı gözler, fiziksel olarak doğru yağmur ve yansımalar, dengeli HDR ışıklandırma, keskin odak, doğal hareket bulanıklığı, sinematik kontrast, gerçekçi alan derinliği, 4K tarzı detay, stabil karakter kimliği, pürüzsüz sürekli hareket, profesyonel aksiyon filmi sinematografisi.
-
-SES: Orijinal senkronize çevresel sesler oluşturun: Islak kaldırımda doğal adımlar, gerçekçi yağmur sesi, kıyafet hışırtısı, ince nefes alma sesleri, inandırıcı çarpma sesleri ve uzaktan gelen kalabalık bağırışları. Net ve özgüvenli konuşulan tek bir orijinal kadın repliği ekleyin: “Beni durdurabilirsiniz ama asla kıramazsınız!” Doğru dudak senkronizasyonu, doğal insan sesi, temiz diyalog, dengeli ses seviyeleri, patlama (clipping) yok, yapay robotik ses yok, aksiyonu bastıran arka plan müziği yok.
-
-STRICT NEGATIVE CONSTRAINTS: Animasyon yok, çizgi film görünümü yok, CGI gibi görünen cilt yok, ekstra parmak yok, deforme olmuş uzuvlar yok, havada süzülen bedenler yok, doğaüstü dövüş yok, ışınlanma yok, titreme yok, jiter yok, aşırı kamera sarsıntısı yok, görsel gürültü yok, sıkıştırma artefaktları yok, bozuk yüzler yok, altyazı yok, metin yok, logo yok, filigran yok, kanlı sahneler yok.
-
-Temiz görseller, gerçekçi hareketler, orijinal senkronize ses ve premium sinematik kalite ile tutarlı, 10 saniyelik canlı aksiyon tarzı bir video teslim edin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108484389932023808/img/QLeLb3Uapw5u0vrf.jpg" width="600" alt="Taktiksel Kadın Kalabalık Dövüşü Videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12240)**
-
-**Yazar:** [Rizi](https://x.com/Rizi_ru) | **Kaynak:** [Link](https://x.com/Rizi_ru/status/2108484437973377242) | **Yayınlandı:** Oct 9, 2026
-
----
-### Meyve Pazarı Polis Kovalamacası Aksiyon Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Avrupa şehir sokaklarında koşan bir adamın, yavaş çekimde portakalların havaya uçtuğu bir meyve pazarına çarptığı ve polis tarafından kovalandığı sinematik bir aksiyon sahnesi için prompt. Gerçekçi fizik ve kamera hareketlerini test etmek amacıyla Seedance 2.0 için tasarlanmıştır.
-
-#### 📝 İstem
-
-```
-Yoğun bir Avrupa şehir sokağında geçen sinematik bir aksiyon sahnesi. Siyah ceketli genç bir adam, polis memurları onu kovalarken kalabalık sokakta çaresizce koşmaktadır. Renkli bir meyve pazarına çarparak portakalları dramatik yavaş çekimde her yana savurur. Sendeler, kaldırıma düşer, hızla ayağa kalkar ve arkasından yaklaşan polislere rağmen koşmaya devam eder. Gerçekçi insan hareketleri, dinamik takip çekimleri, el kamerası hissi, doğal bulutlu ışıklandırma, detaylı kentsel ortam, sinematik renk düzenlemesi, gerçekçi fizik, yoğun aksiyon filmi atmosferi, 4K kalite, metin yok, filigran yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108437782851211264/img/_ifDleSe0dTsFDc0.jpg" width="600" alt="Meyve Pazarı Polis Kovalamacası Aksiyon Sahnesi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12237)**
-
-**Yazar:** [Zarnish](https://x.com/ZarnishNael) | **Kaynak:** [Link](https://x.com/ZarnishNael/status/2108437844004143142) | **Yayınlandı:** Oct 9, 2026
-
----
-### Gece Sokakları Gerilim Kovuşturma Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karanlık bir şehir sokağında gece vakti geçen gizemli bir kovuşturma ve dövüş sahnesini içeren ultra gerçekçi sinematik aksiyon sahnesi için istem.
-
-#### 📝 İstem
-
-```
-Gece karanlık bir şehir sokağında ultra gerçekçi sinematik aksiyon sahnesi. Uzun kahverengi saçlı, zarif beyaz kıyafet giyen gizemli genç bir kadın, park edilmiş araçlar ve teslimat kamyonlarının yakınında siyah giyimli birkaç erkek tarafından kuşatılmıştır. Siyah takım elbiseli yakışıklı genç bir adam, gergin bir dövüş yaşanırken onu korumak için devreye girer. Kadın sokakta koşarken adamlar zorlanır ve yoğun bir gerilim atmosferi yaratılır. Sıcak kehribar renkli sokak lambalarını yansıtan ıslak kaldırımlar, dramatik gölgeler, gerçekçi yüz ifadeleri, dalgalanan saçlar, dinamik aksiyon pozları, sinematik kamera hareketleri, sığ alan derinliği, kasvetli aydınlatma, Hollywood aksiyon filmi estetiği, fotogerçekçi cilt dokuları, ultra detaylı ortam, 4K çözünürlük, profesyonel sinematografi, gerçekçi hareket bulanıklığı, dikey 9:16 kompozisyon. Metin yok, filigran yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108430636805681152/img/7krFjZDXQrgXEPm6.jpg" width="600" alt="Gece Sokakları Gerilim Kovuşturma Videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12199)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2108430677226242083) | **Yayınlandı:** Oct 9, 2026
-
----
-### Fantastik Savaşçı vs Ejderhalar Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 Mini ile oluşturulan, sisli bir ormanda ejderhalarla savaşan kadın savaşçının 10 saniyelik videosu için istem.
-
-#### 📝 İstem
-
-```
-Uzun, dalgalanan kahverengi saçlara sahip, kırmızı-siyah fantastik savaşçı kıyafeti giyen güzel ve fotogerçekçi genç bir İngiliz kadın, antik ve sisli bir orman boyunca koşar. Aniden, arkasında devasa boyutlarda ateş püskürten birçok ejderha belirir ve ona saldırır. Kadın derhal parlayan çelik kılıcını çeker ve inanılmaz bir hızla korkusuzca savaşır. Nefes kesici yüksek sıçramalar, havada dönüşler, şimşek hızında kılıç darbeleri, çevik taklalar ve güçlü hava saldırıları gerçekleştirir. Yan tarafa atlayarak ejderha alevlerini savuşturur ve hassas, akıcı kılıç hareketleriyle karşı saldırıya geçer. Birer birer, etkileyici sinematik savaşlarda ejderhalar yenilir. Son ejderha ona hamle yapar; kadın havaya yüksekçe zıplar, kesin bir bitirici darbe indirir ve zarif bir şekilde yere iner, arkasında ejderha yıkılır. Saçları ve kıyafetleri her harekette doğal olarak hareket eder. Ultra gerçekçi insan anatomisi, otantik yüz ifadeleri, inandırıcı fizik kuralları, kusursuz hızlı tempolu koreografi, detaylı ejderha pulları, sinematik takip çekimleri, dramatik ışıklandırma, uçan kıvılcımlar, duman, ateş ve gerçekçi ses efektleri. Orijinal fantastik sahne, canlı aksiyon filmi gerçekçiliği, 4K kalite, çizgi film tarzı yok, yapay görünümlü karakterler yok, kan veya vahşet yok. Dikey 9:16 format, 10 saniye, sürekli aksiyon, son derece hızlı dövüş, tutarlı karakter görünümü.
-```
-
-<img src="https://pbs.twimg.com/media/HUHo-GlagAAulBx.jpg" width="600" alt="Fantastik Savaşçı vs Ejderhalar Videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12200)**
-
-**Yazar:** [Rizi](https://x.com/Rizi_ru) | **Kaynak:** [Link](https://x.com/Rizi_ru/status/2108222263267148241) | **Yayınlandı:** Oct 8, 2026
-
----
-### Sinema Salonunda Bir Adam
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lüks bir sinema salonunda dinlenen genç bir Doğu Asyalı erkeğin sinematik sahnesini oluşturmak için gerçekçi ışıklandırma ve kompozisyona odaklanan bir istem.
-
-#### 📝 İstem
-
-```
-Lüks bir sinema salonunda rahatça oturan genç bir Doğu Asyalı erkeğin ultra gerçekçi sinematik sahnesi; hafif gevşetilmiş siyah takım elbise, beyaz gömlek ve koyu çizgili kravat giyiyor. Sakin ve hafif eğlenceli bir ifadeyle kırmızı koltukta geriye yaslanmış, dağınık koyu kızıl kahverengi saçları var. Yüzünü aydınlatan film ekranından gelen yumuşak sinematik ışıklandırma. Arka planda derin kırmızı koltuk sıraları ve hafif bulanık seyirciler, gerçekçi sinema atmosferi, sığ alan derinliği, doğal cilt dokusu, dramatik film ışığı, 85mm lens, f/1.4, HDR, fotogerçekçi, 8K, dikey 9:16 kompozisyon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108053500269895680/img/bufO_qQFhPGo51Sp.jpg" width="600" alt="Sinema Salonunda Bir Adam">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12116)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2108053559485104592) | **Yayınlandı:** Oct 8, 2026
-
----
-### Lüks Güzellik Reklamı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 için tasarlanmış, pembe stüdyoda bir model ve dudak kremi uygulamasını içeren 20 saniyelik ultra gerçekçi lüks güzellik reklamı için detaylı istem.
-
-#### 📝 İstem
-
-```
-Baştan sona parlak pembe ve mercan estetiğine sahip, dikey 9:16 formatında 20 saniyelik ultra gerçekçi bir lüks güzellik reklamı oluşturun. Yansıtıcı pembe bir yüzey üzerinde duran ve tabanı etrafında yumuşak bir sıçrama efekti bulunan Next Level dudak kreminin yakın çekimiyle başlayın, ardından doğal dokulu parlak dudakların aşırı yakın çekimine pürüzsüz bir geçiş yapın. Dudakların hafifçe açılıp doğal hareketlerini gösterin, ardından kadraja giren dudak kremi aplikatörünün mercan-pembe ürünü dudaklara dikkatlice uyguladığını sergileyin. Gerçekçi dudak dokusunu, kremsi ürün parlaklığını, ince gözenekleri ve zarif vurguları yakalamak için detaylı makro sinematografi kullanın. Modern pembe bir stüdyoda kameraya doğru yavaşça yürüyen, şık toz-pembe dikilmiş bir pantolon takımı giyen özgüvenli genç Doğu Asyalı bir kadının stilize tam vücut çekimine geçiş yapın. Görünümünü yumuşak makyaj ve hafif bir gülümseme ile doğal, bakımlı ve gerçekçi tutun. Arka planda dramatik mercan-pembe sıvı sıçramalarıyla, yansıtıcı parlak bir yüzey üzerinde dizilmiş birden fazla dudak kremi tonunu gösteren premium bir ürün ana çekimiyle bitirin. Pürüzsüz kamera hareketleri, sığ alan derinliği, yumuşak stüdyo aydınlatması, gerçekçi yansımalar, sinematik odak geçişleri, üst düzey kozmetik reklam kalitesi ve kusursuz geçişler kullanın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108042715267244032/img/Xwh6OIik3Z_3OmKe.jpg" width="600" alt="Lüks Güzellik Reklamı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12117)**
-
-**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2108042777556857230) | **Yayınlandı:** Oct 8, 2026
-
----
-### Seedance Harry Potter Büyücü Düellosu Hataları
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Malfoy'a karşı Ron ve Hermione'nin yer aldığı, Seedance ile oluşturulan bir büyücü düellosu sahnesini paylaşarak yapay zeka hatalarını ve kamera çalışmasının kalitesini tartışıyor.
-
-#### 📝 İstem
-
-```
-Hermione önden saldırırken Ron yandan kuşatır; Malfoy karşı hamle yapmak için telaşla hareket eder, bu da Ron'un sırtındaki beyaz bayrağı kapmasına ve henüz net bir kazananın olmadığı çılgın bir kovalamacaya dönüşmesine olanak tanır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107818284699779073/img/pnMAKn8U89a8V3BJ.jpg" width="600" alt="Seedance Harry Potter Büyücü Düellosu Hataları">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12118)**
-
-**Yazar:** [零崎業萌](https://x.com/zerozakiyamo) | **Kaynak:** [Link](https://x.com/zerozakiyamo/status/2107819839847010747) | **Yayınlandı:** Oct 7, 2026
-
----
-### Seedance 2.0 Şehir Kovalamacası Sahne İstemi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Karakter tutarlılığı ve spesifik çevresel ipuçları içeren sinematik bir kovalamaca sahnesi için Seedance 2.0'a yönelik detaylı video üretim istemi.
-
-#### 📝 İstem
-
-```
-[Temel Ayar]
-16:9 yatay formatında, 30 saniyelik, canlı aksiyon kalitesinde modern şehir kovalamacası kısa filmi oluşturun.
-Hikaye, ABD'nin Doğu Yakası'ndaki büyük bir şehrin eski sanayi bölgesinde, gün batımından sonraki mavi saatte geçiyor. Ufukta soluk sıcak bir ışık kalırken, sokaklar ve binalar daha soğuk gece renklerine bürünmüş durumda.
-Diş başrol karakteri, sağlanan pembe kadın general görseline sıkı sıkıya referans verir: Yetişkin sarışın bir kadın; aynı yüzü, uzun altın örgülerini, gri-pembe Çin tarzı giysilerini, eski metal zırhını ve kırmızı püsküllü pembe mızrağını korumalıdır.
-İki Amerikalı üniformalı polis memuru tarafından sürekli takip edilirken sokak engellerini aşar, yangın merdivenlerine tırmanır, mızrağını kullanarak yüksek katlı bir çatıdan kutup atlama hareketiyle bitişik binalar arasındaki dar boşluğu geçer, ardından mesafe kazanmak için geçen bir yük trenine atlar. Daha sonra trenden iner, binanın arkasındaki hizmet sokağından geçer ve bir giyim mağazasına dalar.
-Mağazaya girdikten sonra hemen bir sonraki çekime geçin: Aynı diş başrol karakteri, genç bir Amerikan kızının gündelik kıyafetlerini değiştirmiş, beyzbol şapkası takmış, mağaza kapısından sakin bir şekilde dışarı çıkar, uzun altın örgüleri hâlâ yerindedir. Son olarak kameraya bakar ve doğal, oyunbaz tek göz kırpması yapar.
-Mağaza içinde herhangi bir değişim süreci göstermeyin. İlk 26 saniye kovalamaca, atlama ve giyim mağazasına dalma için; son 4 saniye ise değişim sonrası mağazadan çıkış ve göz kırpma için ayrılmalıdır.
-İlk yarı gerilimli ve heyecanlı, final ise hafif ve esprili olmalı. Geçmişini veya polisin neden kovaladığını açıklamayın. Tüm film boyunca okçuluk, yay, çekiş halatları, vinç cihazları veya gölge saldırıları bulunmamaktadır.
-
-[Şehir Ortamı ve Kaçış Rotası]
-Sahne, kırmızı tuğla depolar, eski apartmanlar, çelik dış yangın merdivenleri, çatı havalandırma ekipmanları ve küçük yol kenarı dükkânlarının harmanlandığı, ABD'de kurgusal bir eski sanayi bölgesidir. Yolun her iki tarafında arabalar, kutu kamyonlar ve çöp toplama araçları park edilmiştir. Kavşakta İngilizce trafik işaretleri, kırmızı bir yangın musluğu, metal aydınlatma direkleri ve solmuş zebralar bulunmaktadır.
-Tüm kaçış rotası mekansal olarak birbirine bağlanır:
-Sokak ile park etmiş araçlar arasındaki dar boşluklar → Depo dışındaki yükleme/boşaltma kanalları → Çelik yangın merdivenleri ve bakım platformları → Bitişik yüksek katlı sanayi binalarının çatıları → Yükseltilmiş demiryollarına yakın alçak çatılar → Yük treni çatısı → Sabit bakım platformu ve inen merdivenler → Binanın arkasındaki hizmet sokağı → Sokak cephesindeki giyim mağazası.
-Pole vault (kutup atlama) hareketi, iki bitişik yüksek katlı sanayi binasının çatılarında gerçekleşir. Aşağıdaki sokak, cephedeki pencereler ve dış yangın merdivenleri aracılığıyla yükseklik hissi verin. İki bina arasındaki boşluk, sinematik dublörlük pole vault'u için uygun olup geniş bir caddeyi geçmekten biraz daha dardır. Karşı çatı biraz daha alçaktır.
-İkinci binada birbirine bağlı basamaklı çatılar vardır; demiryolu tarafındaki çatı, kamyon çatısından yalnızca biraz daha yüksektir. Başrol karakterinin yüksek noktadan alçak çatıya koştuğunu göstermek için kısa geniş çekimler ve kesintisiz aksiyon kullanın; karakter yüksek binanın tepesinden aniden trenin yanına beliremez.
-Demiryolu, üst hat telleri olmayan endüstriyel bir yük hattıdır. Tren, şehir bölgesinden orta hızda geçer; çatıda yolcu veya yoğun, sürekli engel yoktur. Öndeki sabit bakım platformu, tren çatısının yüksekliğine yakındır ve inen merdivenlere bağlanır.
-Binanın arkasındaki hizmet sokağı, giyim mağazasının bulunduğu sokağa açılır. Mağaza vitrini sıcak ışıklarla aydınlatılmıştır; sıradan tişörtler, kot pantolonlar, günlük ceketler ve beyzbol şapkaları görünmektedir. Giriş ve çıkış aynı mağazada olmalı, kapı çerçeveleri, vitrin düzenlemeleri ve aydınlatma tutarlılık göstermelidir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107762351541989376/img/urF1j9XjdVcAsMJY.jpg" width="600" alt="Seedance 2.0 Şehir Kovalamacası Sahne İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12119)**
-
-**Yazar:** [探路AI](https://x.com/TanLuAI) | **Kaynak:** [Link](https://x.com/TanLuAI/status/2107763438747521348) | **Yayınlandı:** Oct 7, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -4150,6 +4121,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-31T04:37:06.038Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-31T14:39:44.511Z</sub>
 
 </div>

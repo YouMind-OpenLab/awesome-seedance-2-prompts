@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6609** |
+| 📝 Total Prompts | **6620** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-10-31** |
 
@@ -365,55 +365,286 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Seedance 2.0 Douyin Dance Video Prompt
+### Romantic Dinner to Midnight Snack Comedy
 
-![中文](https://img.shields.io/badge/lang-中文-red)
+![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a 15-second vertical dance video using Seedance 2.0, featuring specific camera movements, choreography steps, and character consistency instructions.
+> A prompt for creating a high-quality 3D animated comedy video featuring a couple's romantic dinner followed by a humorous midnight food-craving adventure at home.
 
 #### 📝 Prompt
 
 ```
-15 seconds, 9:16 aspect ratio, short video of a real woman dancing on Douyin (TikTok style). Single continuous shot, maintaining the reference person's appearance, clothing, and scene. Hand movements never go above the head. Left and right refer to the dancer's own left and right.
-
-Overall performance: Two distinct consecutive dance routines, connected by "right hand grabbing/pulling the lens close to face, left hand swinging away pulling the lens back". The person continues bouncing within the same dance area, with shoulders, hips, and arms moving in sync. Movements feature a contrast between expansive stretches and quick retracts, with each segment directly leading into the next.
-
-[0-3s | First Set: Hip Support & Extension]
-CAMERA POV: Frontal medium shot, from top of head to just above knees, fully presenting shoulders, waist, hips, and arms.
-
-Dancing already started. Left hand supports hip, right palm extends toward the lens then retracts to shoulder front, coordinating with body tilting right then returning left; knees have elasticity, shoulder line tilts as hips change direction. First extension is expansive, second retract is quick; when arm retracts, body has already begun the next directional change. Head sways lightly with body, initially relaxed looking at the lens, showing a slight smile when retracting hand the second time.
-
-[3-6s | Overlap Sink, Palm Push Direction Change]
-Right hand naturally falls to abdomen front, left hand leaves waist side, both forearms overlap in front of waist/abdomen, knees slightly bend, body sinks accordingly; immediately after, arms open wide, body rises back to left side.
-
-Left palm touches chest, right palm pushes from chest towards right-front, shoulders/chest turn slightly oblique with the push; return to upright when retracting palm. Then push forward once more, hips changing direction simultaneously. Palms always have clear orientation, push and retract form a complete short phrase.
-The final push naturally extends into an action reaching towards the lens.
-
-[6-8s | Grab Pull Face Close, Swing Hand Away]
-Right hand reaches towards the lens, fingers clearly closing into a loose grab; immediately after, right elbow sharply retracts behind, fist pulled along face side back to right shoulder front, shoulders/chest carried backward.
-
-CAMERA POV: Maintain distance during reach and close; the instant the right elbow starts pulling back, the lens synchronously rushes quickly to a facial close-up, decelerating in front of the face. Lens movement completes simultaneously with this pull.
-
-At the moment of face-close, she slightly turns her head, eyes accurately catching the lens, corners of mouth lifting. Body rhythm continues, right hand lowers along chest front, left hand immediately swings out from chest front to left side, hand and shoulder bringing out this swing together.
-
-CAMERA POV: The instant left hand swings out, quickly pull back, restoring medium shot from top of head to just above knees, person remains centered throughout.
-
-[8-11s | Pull Back While Entering Second Set: Alternating Arms at Shoulders]
-While the lens is pulling back, the swung-out left arm has already bent elbow to retract, right arm simultaneously lifts up, two loosely clenched hands arrive below shoulder level.
-
-Shoulders alternate pushing forward left and right, bent elbows respond one front one back with shoulders; hips coordinate weight shifting left and right, knees continue light bouncing. After completing one set of alternating left/right, hands drop to overlap in front of waist, then immediately open to sides, bringing out a clear sink and rise. Actions are coherent, overlap serves as buildup for the next expansion.
-
-Expression relaxes naturally from the smile during face-close, head tilts lightly with shoulder line, looking straight at the lens again when arms open.
-
-[11-15s | Point Near Face, Low Position Expansion]
-Following arms opening, right hand retracts to face side forming a clear single-finger-up shape, left forearm stays in front of waist/abdomen. Left foot takes small step landing left bearing weight, hips push left, shoulder line tilts opposite; when body changes direction, left forearm expands sideways, right hand briefly maintains face-side shape.
-
-Right hand subsequently drops along chest front, overlapping with left forearm in front of waist/abdomen, knees slightly bend; immediately un-overlap, elbows near waist sides, forearms expand to both sides, coordinating with two consecutive left-right weight shifts. Head sways lightly with direction change, finally turning face to look at the lens, smile reappearing.
-
-Video ends while still completing the last lateral shift and rebound, retaining dance momentum.
+Create a high-quality, cinematic 3D animated comedy video featuring a cute young couple enjoying a romantic dinner at an elegant luxury restaurant. The handsome young man wears a stylish black tuxedo, while the beautiful girl wears a glamorous black evening gown with her hair tied in an elegant bun. They sit together at a beautifully decorated table with warm golden lighting, enjoying a delicious roasted turkey with crispy fries and vegetables. The girl playfully offers him a bite of food, and they exchange sweet, romantic smiles. After dinner, the couple drives home through a beautiful city at night, with glowing streetlights and charming buildings in the background. The girl arrives at her luxurious home, quietly enters the house, and heads straight to the kitchen. She opens the refrigerator and excitedly grabs a huge roasted turkey, potato chips, chocolates, cookies, burgers, and plenty of delicious snacks. In the next scene, she sits comfortably on a luxurious sofa surrounded by mountains of junk food, happily eating everything with a big smile on her face. End with a wide cinematic shot revealing the entire living room filled with snacks and food, creating a funny and adorable midnight food-craving moment. Use expressive cartoon facial animations, detailed food textures, smooth character movements, realistic lighting, beautiful camera transitions, and premium Pixar-inspired 3D animation quality. Keep the characters' appearance consistent throughout the video, with no character duplication, morphing, or visual glitches.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115996669972021248/img/_zjzCiZJtxgkOXLV.jpg" width="600" alt="Seedance 2.0 Douyin Dance Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116402410939953152/img/TVH4s-ff4Ws4U4x-.jpg" width="600" alt="Romantic Dinner to Midnight Snack Comedy">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13215)**
+
+**Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2116402455315718306) | **Published:** Oct 31, 2026
+
+---
+### Luxury Motorsport Fashion Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for a luxury motorsport fashion commercial featuring a woman in a racing suit and perfume bottle.
+
+#### 📝 Prompt
+
+```
+Create an ultra-realistic, cinematic luxury motorsport fashion commercial featuring a beautiful young woman wearing a premium white, black, and red racing suit with professional racing boots and gloves. She confidently walks through a dramatic underground racing garage surrounded by powerful black sports cars, atmospheric smoke, and glowing red LED lights.
+Begin with a cinematic wide shot as she walks confidently toward the camera, holding a racing helmet. Show dramatic close-ups of her racing outfit, embroidered logos, helmet details, and confident facial expression.
+Include a premium red-and-black luxury perfume bottle displayed in a dramatic close-up, surrounded by subtle smoke, reflections, and cinematic lighting.
+Use smooth camera movements, slow-motion walking shots, dynamic close-ups, realistic fabric textures, glossy reflections, dramatic shadows, and professional commercial cinematography.
+Visual Style: Photorealistic, luxury motorsport aesthetic, bold red lighting, 8K details, HDR, shallow depth of field, cinematic atmosphere, vertical 9:16 composition.
+Important: Maintain consistent character identity, outfit design, product appearance, and realistic proportions throughout the video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116387135221895168/img/scDHw0t1q9tIdAym.jpg" width="600" alt="Luxury Motorsport Fashion Commercial">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13216)**
+
+**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2116387165341110470) | **Published:** Oct 31, 2026
+
+---
+### Seedance 2.0 Cinematic Sword Fight Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed prompt for generating a 15-second high-speed cinematic sword fight video using Seedance 2.0, featuring a white-haired cat-eared female swordsman character reference.
+
+#### 📝 Prompt
+
+```
+# Seedance 2.0 | Prompt for 15-second High-Speed Cinematic Sword Fight Action Video
+
+## I. Character Reference Image (Character Reference)
+
+**Character A: White-haired, Cat-eared Female Swordsman**
+
+Reference Image 1 serves as the sole and strict basis for Character A's appearance settings.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116275450024800256/img/qHqeHGd6ipOOpWgP.jpg" width="600" alt="Seedance 2.0 Cinematic Sword Fight Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13224)**
+
+**Author:** [テト@おっさんの異世界転生 Uncle in ISEKAI](https://x.com/ojisan__isekai) | **Source:** [Link](https://x.com/ojisan__isekai/status/2116276599264084192) | **Published:** Oct 30, 2026
+
+---
+### Squid Epoxy Floor Renovation Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for transforming squids into a unique epoxy floor design, generated with Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+A bearded man in denim overalls rakes a massive pile of fresh squids across the bare concrete floor of an empty white bedroom with a large window, spreading them into a perfectly even single layer covering the entire floor. A blonde woman in red overalls and a white t-shirt pours thick white epoxy resin from a large plastic bucket, the milky liquid flowing over the squids and submerging them under a glossy self-leveling flood that spreads wall to wall. A worker in a yellow high-visibility vest pushes a floor buffer polisher machine across the curing surface, smoothing it into a mirror-gloss finish with hundreds of squids permanently suspended inside the clear resin like terrazzo. Two men in black t-shirts and caps then assemble a walnut wood bed frame with headboard over the finished floor, drop in a mattress, and dress it with crisp white bedding and pillows. Final reveal: a bright minimalist bedroom where the stunning glossy white floor has squids embedded beneath the surface, natural daylight streaming through the window. Vertical video, hyper-realistic documentary style, satisfying renovation transformation, smooth handheld camera work, bright natural lighting.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116233841467645952/img/LQmCwKu2c9PoXtM5.jpg" width="600" alt="Squid Epoxy Floor Renovation Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13221)**
+
+**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116233884077556111) | **Published:** Oct 30, 2026
+
+---
+### Seashell Terrazzo Bedroom Floor Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for creating a stunning bedroom floor using seashells and epoxy resin, generated with Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+A man in denim overalls and a gray t-shirt stands in an empty white room with a large bright window, next to a huge pile of seashells on a bare concrete floor. He grabs a rake and spreads the shells evenly across the entire floor. A woman in red overalls and a white t-shirt carries a gray metal bucket and pours thick white epoxy resin over the shells, the liquid flowing outward until it covers the whole floor in a smooth glossy layer. A worker in a yellow high-visibility vest and black cap then polishes the cured surface with a floor buffing machine, gradually revealing a stunning white terrazzo floor with colorful seashells embedded inside, catching the daylight. The man in overalls returns and assembles a light wooden bed frame, attaches the headboard, lays the slats, places a white mattress, and dresses the bed with crisp white bedding, beige and gray pillows. Final shot: a bright minimalist bedroom with the warm wooden bed centered on the gleaming seashell terrazzo floor, sunlight streaming through the window. Smooth time-lapse style transitions, realistic natural lighting, satisfying home renovation transformation, vertical format, photorealistic detail.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116232894100201472/img/pez4WVohMBybMbBD.jpg" width="600" alt="Seashell Terrazzo Bedroom Floor Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13219)**
+
+**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116232943790141574) | **Published:** Oct 30, 2026
+
+---
+### Vinyl Record Epoxy Floor Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for creating a stylish bedroom floor using old vinyl records and epoxy, generated with Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Vertical video, static wide shot of an empty white room with a large window showing green trees. A man in blue overalls and work gloves rakes a huge mound of black vinyl records on the bare concrete floor, spreading the records flat and evenly across the entire floor like colorful tiles. A woman in red overalls, black t-shirt and green rubber gloves enters carrying a white bucket and pours thick creamy white self-leveling epoxy resin over the records; the glossy liquid flows outward until the whole floor is submerged in bright white. Cut to the cured floor: a worker in a yellow hi-vis vest, red pants and rubber boots polishes the surface with a rotary floor buffer, revealing the vinyl records embedded under a crystal-clear glossy epoxy layer, their colorful labels shining through. Finally two men dressed in black carry in a wooden bed frame, assemble it in the center of the room, then place a white mattress, pillows and a gray duvet, completing a stylish bedroom with a vinyl record floor. Bright natural daylight, clean minimalist aesthetic, satisfying DIY renovation timelapse style, smooth transitions, photorealistic detail, 4K quality.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116161341782130688/img/m2enr1Dp9OgXTYoR.jpg" width="600" alt="Vinyl Record Epoxy Floor Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13222)**
+
+**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116161380516601859) | **Published:** Oct 30, 2026
+
+---
+### Crayon Terrazzo Floor Renovation Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A hyper-realistic renovation timelapse prompt turning crayons into a terrazzo floor, generated with Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+A hyper-realistic satisfying renovation timelapse in a bright empty room with white walls and a large window. A man in blue overalls rakes a huge mound of thousands of colorful crayons on the bare concrete floor, spreading them evenly across the entire room with long smooth rake strokes. A woman in red overalls with green gloves pours thick glossy white epoxy resin from a black bucket over the scattered crayons, the creamy liquid flowing outward and self-leveling until it covers the whole floor. Workers in yellow high-visibility vests then polish the cured surface with a rotary floor buffer machine, gradually revealing a stunning glossy terrazzo-style floor with thousands of colorful crayon pieces suspended inside, shining like polished stone and reflecting the window light. Two workers in black uniforms and caps carry in a wooden bed frame, assemble it, place a white mattress, and neatly make the bed with a white duvet and pillows, then walk away. Final shot: a beautiful minimalist bedroom with the mirror-like crayon terrazzo floor glowing in soft natural daylight, smooth cinematic camera movement, crisp realistic details, satisfying ASMR-style transformation video, 4K quality.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116158972063277056/img/97D3lQjT3kQuVTvK.jpg" width="600" alt="Crayon Terrazzo Floor Renovation Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13220)**
+
+**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116159013410701811) | **Published:** Oct 30, 2026
+
+---
+### Autumn Leaves Epoxy Floor Renovation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A timelapse video prompt showing a room renovation where autumn leaves are turned into a magical epoxy floor bedroom.
+
+#### 📝 Prompt
+
+```
+Vertical 9:16 photorealistic timelapse of a room renovation. Bright empty room with white walls, bare concrete floor, blue painter tape along the baseboards and a large window with green trees outside. A man in blue coveralls rakes a large pile of orange and green autumn leaves, spreading them evenly across the entire floor. More workers join: one in black coveralls and three in red coveralls pour clear self-leveling epoxy resin from metal buckets over the leaves and spread it with long-handled squeegees until every leaf is sealed under a glossy transparent layer. A worker in a yellow high-visibility vest and ear defenders polishes the cured floor with a rotary floor buffer, making it perfectly smooth and mirror-like with the autumn leaves suspended inside like a forest floor under glass. Finally workers in black uniforms with ear protection quickly assemble a wooden bed frame, place a white mattress, pillows and a beige throw blanket, and add wooden nightstands with brass lamps. Final reveal: a cozy minimalist bedroom bathed in natural daylight, the stunning glossy leaf-filled epoxy floor reflecting the window and the bed. Smooth fast timelapse motion, satisfying renovation style, natural lighting, crisp realistic details.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116103244116086784/img/JCsSRmsvGdknmXVv.jpg" width="600" alt="Autumn Leaves Epoxy Floor Renovation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13218)**
+
+**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116103283274088875) | **Published:** Oct 30, 2026
+
+---
+### Gumball Terrazzo Floor Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for making a gorgeous terrazzo floor using gumballs, generated with Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Vertical video, bright empty room with white walls, concrete floor and a large sunlit window. A man in blue overalls rakes a huge pile of colorful gumballs spread across the floor, pulling them into even rows that cover the whole room. A woman in red overalls and a black t-shirt pours thick white self-leveling epoxy resin from a large gray bucket, the glossy liquid flows outward and completely covers the gumballs. A worker in a yellow high-visibility vest and black cap polishes the cured surface with a professional floor grinding machine, gradually revealing a smooth glossy white terrazzo floor with colorful candy speckles embedded inside. Two workers in dark uniforms carry in a wooden bed frame, set down a white mattress, spread white bedding and arrange pillows neatly. Closing wide shot of a minimalist bedroom with the stunning candy-speckled terrazzo floor glowing in natural sunlight. Photorealistic, smooth camera work, satisfying step-by-step renovation transformation, bright natural lighting.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116102290763378688/img/fJE7OoTkM7RQVZFZ.jpg" width="600" alt="Gumball Terrazzo Floor Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13223)**
+
+**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116102340839092598) | **Published:** Oct 30, 2026
+
+---
+### Mechanical Spider to Sports Car Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing a mechanical spider transforming into a luxury sports car in a dark garage.
+
+#### 📝 Prompt
+
+```
+A hyper-realistic cinematic transformation scene inside a dark underground parking garage. A mysterious glossy black mechanical spider-like creature crawls across the concrete floor toward a small metallic object. Suddenly, the creature begins transforming, its multiple long metallic legs spreading outward and folding into complex mechanical components. The entire structure rapidly morphs into a sleek, aggressive black luxury sports car resembling a Porsche 911. Mechanical parts smoothly retract, wheels form, body panels assemble, and headlights illuminate brightly. The transformation is seamless, futuristic, and visually stunning. The finished black sports car slowly moves forward with powerful headlights shining through the dark garage.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116095481600516096/img/ee3WLr4woRgzmEf1.jpg" width="600" alt="Mechanical Spider to Sports Car Transformation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13217)**
+
+**Author:** [Zarnish](https://x.com/ZarnishNael) | **Source:** [Link](https://x.com/ZarnishNael/status/2116095524357181578) | **Published:** Oct 30, 2026
+
+---
+### Korean Girl Lifestyle Vlog Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a 15-second cinematic Korean girl lifestyle mini vlog featuring consistent character appearance across multiple scenes including waking up, walking in Seoul, visiting a cafe, and watching sunset.
+
+#### 📝 Prompt
+
+```
+Create a video, a beautiful 15-second cinematic Korean girl lifestyle mini vlog. Feature a consistent 24-year-old Korean woman with natural beauty, long black hair, soft bangs, wearing an oversized maroon hoodie, loose pants, and a canvas shoulder bag.
+
+Scene 1 (0–3s): She wakes up in her cozy bedroom, sunlight falling softly on her face. She slowly opens her eyes and smiles.
+Scene 2 (3–5s): She gets ready in front of the mirror, ties her hair, and picks up her shoulder bag.
+Scene 3 (5–7s): She walks through a beautiful Seoul street with autumn leaves falling around her, cinematic tracking shot.
+Scene 4 (7–10s): She enters a cozy Korean café, orders iced coffee, sits beside the window, and takes a peaceful sip.
+Scene 5 (10–12s): Close-up of her writing in her notebook while listening to music.
+Scene 6 (12–15s): She watches a beautiful orange sunset over Seoul, turns toward the camera, and gives a gentle natural smile.
+
+Ultra-realistic cinematic visuals, natural facial expressions, realistic skin texture, beautiful camera movements, soft golden lighting, shallow depth of field, nostalgic early 2000s MiniDV aesthetic, smooth transitions, realistic Korean lifestyle atmosphere.
+
+Maintain exactly the same face, hairstyle, outfit, and body proportions in every scene. No identity drift, no artificial beauty filters, no text, no logos, no watermark. Vertical 9:16, total duration exactly 15 seconds.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116042683164827648/img/F7YIS8NIKpe5n7Gq.jpg" width="600" alt="Korean Girl Lifestyle Vlog Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13214)**
+
+**Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2116042775007474169) | **Published:** Oct 30, 2026
+
+---
+### Seedance 2.0 Realistic Female Dance Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for generating a 15-second vertical video of a woman dancing using Seedance 2.0. It specifies camera movements, choreography details, and maintains character consistency.
+
+#### 📝 Prompt
+
+```
+15 seconds, 9:16 aspect ratio, realistic female TikTok dance short video. One continuous shot, maintaining the reference character's appearance, clothing, and scene. Hand movements do not go above the head throughout. Left and right refer to the dancer's own left and right.
+
+Overall performance: Two distinct continuous dance routines, connected by 'right hand grabs/pulls lens close to face, left hand throws open pulling lens away'. The character continues jumping within the same dance area, with shoulders, hips, and arms synchronized. Movements have a contrast between expansive and quick retraction, each segment directly leading into the next.
+
+[0-3s | First Routine: Hip Support Extension & Retraction]
+CAMERA POV: Frontal medium shot, from top of head to above knees, fully presenting shoulders, waist, hips, and arms.
+
+Already dancing at the start. Left hand supports hip, right palm extends towards the lens then retracts to front of shoulder, coordinating with body tilting right and swinging back left; knees are elastic, shoulder line tilts as hips change direction. First extension is expansive, second retraction is quick, body starts next direction change during arm retraction. Head sways lightly with body, initially relaxed looking at lens, showing a slight smile when retracting hand the second time.
+
+[3-6s | Crossed Sinking, Palm Push Direction Change]
+Right hand naturally falls to front of abdomen, left hand leaves side of waist, both forearms cross in front of waist/abdomen, knees bend slightly, body sinks down; immediately after, arms open, body rises back to left side.
+
+Left palm touches chest, right palm pushes from chest towards front-right, shoulders/chest turn into slight oblique side with push; return to upright when retracting palm. Then push forward again once more, hips change direction simultaneously. Palms always have clear orientation, push and retract form one complete short phrase.
+
+The last push naturally extends into reaching towards the lens.
+
+[6-8s | Grab Pull Close to Face, Throw Hand Away Pull Lens Back]
+Right hand reaches towards lens, five fingers clearly close into a loose grab; immediately after, right elbow sharply pulls back behind, fist pulls along side of face back to front of right shoulder, shoulders/chest pulled back accordingly.
+
+CAMERA POV: Maintain distance when reaching/grabbing; the moment right elbow starts pulling back, lens synchronously rapidly zooms into facial close-up, decelerating in front of face. Lens movement completes simultaneously with this pull.
+
+At the moment of closeness to face, she slightly turns head, eyes accurately catch the lens, corners of mouth lift up. Body rhythm continues, right hand lowers along chest, left hand immediately throws open from chest towards left side, hands and shoulders together bring out this throw.
+
+CAMERA POV: The moment left hand throws open, rapidly pull back, restore medium shot from top of head to above knees, character remains centered throughout.
+
+[8-11s | Entering Second Routine During Pull Back: Alternating Arms at Shoulder Side]
+While lens is pulling back, thrown-out left arm has already bent elbow to retract, right arm simultaneously lifts up, two loosely gripped hands arrive below shoulder level.
+
+Shoulders alternate pushing forward left and right, bent elbows respond front-to-back with shoulders; hips coordinate weight shifting left and right, knees continue light bouncing. After completing one set of left-right alternation, hands drop to cross in front of waist, then immediately open to sides, bringing out a clear sink and rise. Movements are coherent, crossing becomes momentum storage for next expansion.
+
+Expression naturally relaxes from the smile at face-close moment, head lightly tilts with shoulder line, looking straight at lens again when arms open.
+
+[11-15s | Pointing Near Face, Low Position Expansion]\nFollowing arms opening, right hand retracts to side of face forming a clear single finger pointing up shape, left forearm stays in front of waist/abdomen. Left foot takes small step landing on left side bearing weight, hips send left, shoulder line tilts opposite; when body changes direction, left forearm expands sideways, right hand briefly maintains face-side shape.
+
+Right hand then drops along chest, crosses with left forearm in front of waist/abdomen, knees bend slightly; immediately uncross, elbows approach waist sides, forearms expand to both sides, coordinating with two consecutive left-right weight shifts. Head sways lightly with direction change, finally turning face to look at lens, smile appearing again.
+
+When the frame ends, still completing the last lateral move and rebound, retaining dance momentum.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115996669972021248/img/_zjzCiZJtxgkOXLV.jpg" width="600" alt="Seedance 2.0 Realistic Female Dance Video Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13173)**
 
@@ -3863,271 +4094,6 @@ Style: premium Pixar-inspired 3D animation, adorable character designs, expressi
 **Author:** [Neo-phyte](https://x.com/Deadmeatz) | **Source:** [Link](https://x.com/Deadmeatz/status/2108654687151145239) | **Published:** Oct 9, 2026
 
 ---
-### Coconut Floor Terrazzo Transformation Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal hyper-realistic video prompt for Seedance 2.0 showing a time-lapse construction process where coconuts are raked, covered in milk, and polished into a glossy terrazzo floor.
-
-#### 📝 Prompt
-
-```
-Vertical 9:16 surreal hyper-realistic video, fixed frontal wide shot, one continuous scene in an empty room with white walls, concrete floor and a large window showing tropical palm trees outside, natural daylight.
-
-Shot 1: A muscular man in blue denim overalls rakes a huge pile of hairy brown coconuts, spreading them evenly in one dense layer across the entire floor, coconuts rolling and shifting with realistic physics.
-
-Shot 2: A woman in red overalls pours thick creamy white coconut milk from a giant bucket onto the coconut-covered floor; the white liquid flows, spreads and slowly covers the coconuts like resin.
-
-Shot 3: A worker in a yellow high-visibility vest polishes the hardened surface with a floor grinding machine; the glossy white terrazzo floor is revealed with coconut cross-sections embedded inside, like polished stone.
-
-Shot 4: Two movers in black uniforms carry in a wooden bed frame, set down a white mattress, and neatly make the bed with white sheets and pillows.
-
-Final shot: bright minimalist bedroom, mirror-glossy white terrazzo floor patterned with coconut slices reflecting the window light. Cinematic lighting, photorealistic detail, smooth timelapse-style transitions between stages, satisfying ASMR construction process, no text.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108559194227965953/img/NioKBNgsFTbCTl_S.jpg" width="600" alt="Coconut Floor Terrazzo Transformation Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12236)**
-
-**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2108559226452750458) | **Published:** Oct 9, 2026
-
----
-### Baby Dragon and Woman in Stone Courtyard
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for a 25-second fantasy video featuring a woman interacting with a tiny baby dragon in a rustic stone courtyard. Includes specific instructions for cloth physics, character consistency, and emotional storytelling, optimized for Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Create a 25-second cinematic, ultra-realistic fantasy video featuring a beautiful young adult woman with long, dark brown hair, wearing an elegant cream-colored medieval dress and a dark brown shawl. She is standing in a rustic stone courtyard beside an old stone cottage in a peaceful countryside village. The surroundings feature weathered stone walls, wooden windows, a muddy stone pathway, snow-covered evergreen trees, and misty mountains in the distance under a soft, overcast sky. A tiny, adorable baby dragon with pale pinkish-white skin, enormous glossy eyes, tiny horns, delicate ears, small feet, a slender tail, and translucent pink wings is standing near her feet. Begin with a natural cinematic wide shot showing the woman hanging a large cream-colored linen cloth on a traditional wooden clothesline. A gentle breeze moves her long hair and the fabric naturally. She suddenly notices the tiny dragon beside her and looks down at it with a curious, surprised, and affectionate expression. The camera slowly moves closer as the baby dragon looks up at her, blinks its enormous eyes, and gently spreads its delicate pink wings. Show the intricate transparent wing membranes, realistic skin texture, tiny claws, and subtle body movements in beautiful detail. The woman bends down toward the little creature with a warm smile, watching it curiously as it flutters its wings and takes a few tiny steps across the stone courtyard. Suddenly, a gust of wind catches the loose linen cloth hanging above them, causing it to slip off the clothesline and fall gently over the baby dragon. The tiny creature becomes completely covered by the oversized cream-colored fabric, creating a funny, moving shape as it tries to walk forward. The woman reacts with playful surprise and quickly kneels down to help it. The cloth moves naturally around the dragon's tiny body as it waddles across the ground, its little feet visible beneath the fabric. The woman carefully lifts the cloth away from its face, revealing the adorable dragon blinking in confusion and looking directly at her. She gently holds the tiny creature with both hands and brings it closer to her face. The dragon folds its translucent pink wings against its body, tilts its head, and softly touches its nose against her cheek. The woman smiles affectionately, looking into its enormous glossy eyes while gently stroking its little head. End with a beautiful close-up of the woman and the baby dragon sharing a heartwarming moment in the peaceful stone courtyard, with the cottage and misty countryside softly blurred in the background. Maintain consistent facial features, hairstyle, clothing, creature design, proportions, and colors throughout the entire video. Use natural body movements, realistic cloth physics, detailed textures, soft diffused daylight, cinematic depth.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108503353022193665/img/rNaXyfICWppbQJGj.jpg" width="600" alt="Baby Dragon and Woman in Stone Courtyard">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12239)**
-
-**Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2108503425277391053) | **Published:** Oct 9, 2026
-
----
-### Spider-Man Dad Baby Heartwarming Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a 20-second 3D animated family scene featuring a father in a Spider-Man inspired sweater and his baby daughter, ending with an emotional hug. Created with Seedance 2.0 mini.
-
-#### 📝 Prompt
-
-```
-Create a heartwarming cinematic 20-second 3D animated family scene in a cozy home office during a warm evening.
-
-A young father with curly brown hair, expressive eyebrows, and a red-and-blue Spider-Man inspired sweater sits at a wooden desk working on a laptop. Beside him is his adorable little baby girl wearing a beige knitted outfit and a cute bear-ear winter hat.
-
-The baby watches her father closely while he works. The father occasionally looks at her with a tired but loving expression, drinks from a white coffee mug, and continues typing on his laptop. The baby sits beside him in a small high chair, curiously observing everything.
-
-Show the father becoming distracted when the baby interacts with a small red toy car and a plate of food on the desk. Include natural facial expressions, subtle eye movements, gentle hand gestures, and realistic parent-child interaction.
-
-Later, the baby proudly shows her father a handmade drawing of the two of them together with a heart. The father's expression changes from tired and stressed to emotional, surprised, and deeply touched.
-
-End with the father smiling warmly, turning toward his daughter, embracing her lovingly, and giving her a gentle hug.
-
-Style: high-quality cinematic 3D animation, Pixar-inspired family-film aesthetic, soft warm indoor lighting, detailed expressive faces, realistic fabric and hair textures, cozy atmosphere, shallow depth of field, smooth character animation, natural camera movement, emotional storytelling.
-
-Vertical 9:16 composition, cinematic framing, consistent character appearance throughout, smooth transitions, detailed environment, wholesome emotional ending.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108494585232285696/img/oWcQX4Xg4aDqpY61.jpg" width="600" alt="Spider-Man Dad Baby Heartwarming Animation">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12241)**
-
-**Author:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2108495280912134418) | **Published:** Oct 9, 2026
-
----
-### Tactical Woman Crowd Fight Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed prompt for generating a 10-second ultra-photorealistic cinematic action video of a tactical woman fighting off a crowd in the rain, specifically noting generation by Gemini 3.5 and Seedance 2.0 mini.
-
-#### 📝 Prompt
-
-```
-Generate a 10-second ultra-photorealistic cinematic action video in vertical 9:16 format, resembling real live-action footage shot on a professional cinema camera.
-
-SCENE: A powerful adult woman in practical black tactical clothing is trapped in a rain-soaked modern city street at dusk. A large crowd of adult attackers rushes toward her from multiple directions. She remains calm, intelligent, fearless, and highly agile.
-
-0–3 seconds: Wide establishing shot. The crowd charges toward her through light rain. She studies their movements, takes a defensive stance, and dodges the first attacker with realistic timing.
-
-3–7 seconds: Smooth handheld tracking shot. She performs believable martial arts movements, blocks attacks, sidesteps opponents, and uses controlled non-graphic takedowns. Every movement has realistic human weight, accurate body mechanics, natural foot contact, and consistent anatomy. The crowd moves independently, with no duplicated bodies or synchronized robotic movements.
-
-7–10 seconds: She breaks through the crowd and reaches a brightly illuminated building entrance. The remaining attackers stop behind her. She turns toward the camera, breathes naturally, and raises one hand in a confident victory gesture. End on a sharp, powerful cinematic close-up.
-
-VISUAL QUALITY: Photorealistic human faces, natural skin pores, realistic wet fabric, detailed eyes, physically accurate rain and reflections, balanced HDR lighting, sharp focus, natural motion blur, cinematic contrast, realistic depth of field, 4K-style detail, stable character identity, smooth continuous motion, professional action-film cinematography.
-
-AUDIO: Generate original synchronized environmental audio: natural footsteps on wet pavement, realistic rain, clothing movement, subtle breathing, believable impacts, and distant crowd shouts. Include one original female dialogue line, spoken clearly and confidently: “You can stop me, but you can never break me!” Accurate lip synchronization, natural human voice, clean dialogue, balanced sound levels, no clipping, no artificial robotic voice, no background music overpowering the action.
-
-STRICT NEGATIVE CONSTRAINTS: No animation, no cartoon appearance, no CGI-looking skin, no extra fingers, no deformed limbs, no floating bodies, no unnatural fighting, no teleportation, no flickering, no jitter, no excessive camera shake, no visual noise, no compression artifacts, no distorted faces, no subtitles, no text, no logos, no watermark, no gore.
-
-Deliver a coherent 10-second live-action-style video with clean visuals, realistic movement, original synchronized audio, and premium cinematic quality.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108484389932023808/img/QLeLb3Uapw5u0vrf.jpg" width="600" alt="Tactical Woman Crowd Fight Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12240)**
-
-**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2108484437973377242) | **Published:** Oct 9, 2026
-
----
-### Fruit Market Police Chase Action Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a cinematic action sequence involving a man running through a European city street, crashing into a fruit market with oranges flying in slow motion, and being chased by police. Designed for Seedance 2.0 to test realistic physics and camera movement.
-
-#### 📝 Prompt
-
-```
-A cinematic action sequence set on a busy European city street. A young man in a black jacket runs desperately through a crowded street while police officers chase him. He crashes into a colorful fruit market, sending oranges flying everywhere in dramatic slow motion. He stumbles, falls to the pavement, quickly gets back up, and continues running as police close in behind him. Realistic human movement, dynamic tracking shots, handheld camera feel, natural overcast lighting, detailed urban environment, cinematic color grading, realistic physics, intense action movie atmosphere, 4K quality, no text, no watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108437782851211264/img/_ifDleSe0dTsFDc0.jpg" width="600" alt="Fruit Market Police Chase Action Sequence">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12237)**
-
-**Author:** [Zarnish](https://x.com/ZarnishNael) | **Source:** [Link](https://x.com/ZarnishNael/status/2108437844004143142) | **Published:** Oct 9, 2026
-
----
-### Night Alley Thriller Fight Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for an ultra-realistic cinematic action scene in a dark urban alley at night, featuring a fight between a mysterious woman and men in black, protected by a man in a suit. Focuses on moody lighting and thriller atmosphere for Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic action scene in a dark urban alley at night, a mysterious young woman with long brown hair wearing an elegant white outfit is surrounded by several men dressed in black near parked vehicles and delivery trucks. A handsome young man in a black suit steps in to protect her as a tense fight unfolds. The woman runs through the alley while the men struggle, creating an intense thriller atmosphere. Wet pavement reflecting warm amber streetlights, dramatic shadows, realistic facial expressions, flowing hair, dynamic action poses, cinematic camera movements, shallow depth of field, moody lighting, Hollywood action movie aesthetic, photorealistic skin textures, ultra-detailed environment, 4K resolution, professional cinematography, realistic motion blur, vertical 9:16 composition. No text, no watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108430636805681152/img/7krFjZDXQrgXEPm6.jpg" width="600" alt="Night Alley Thriller Fight Scene">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12199)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2108430677226242083) | **Published:** Oct 9, 2026
-
----
-### Fantasy Warrior vs Dragons Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a 10-second video of a female warrior fighting dragons in a misty forest, generated with Seedance 2.0 Mini.
-
-#### 📝 Prompt
-
-```
-A beautiful, photorealistic young adult English woman with long flowing brown hair, wearing a red-and-black fantasy warrior outfit, runs through an ancient misty forest. Suddenly, multiple enormous fire-breathing dragons emerge behind her and attack. She instantly draws her gleaming steel sword and fights fearlessly at incredible speed. She performs breathtaking high jumps, aerial spins, lightning-fast sword strikes, agile flips, and powerful midair attacks. She dodges streams of dragon fire by leaping sideways and counterattacks with precise, fluid sword movements. One by one, the dragons are defeated in spectacular cinematic battles. The final dragon lunges at her, and she jumps high into the air, delivers a decisive finishing strike, and lands gracefully as the dragon collapses behind her. Her hair and clothing move naturally with every action. Ultra-realistic human anatomy, authentic facial expressions, believable physics, seamless fast-paced choreography, detailed dragon scales, cinematic tracking shots, dramatic lighting, flying sparks, smoke, fire, and realistic sound effects. Original fantasy scene, live-action movie realism, 4K quality, no cartoon style, no artificial-looking characters, no blood or gore. Vertical 9:16, 10 seconds, continuous action, extremely fast combat, consistent character appearance.
-```
-
-<img src="https://pbs.twimg.com/media/HUHo-GlagAAulBx.jpg" width="600" alt="Fantasy Warrior vs Dragons Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12200)**
-
-**Author:** [Rizi](https://x.com/Rizi_ru) | **Source:** [Link](https://x.com/Rizi_ru/status/2108222263267148241) | **Published:** Oct 8, 2026
-
----
-### Man in Movie Theater
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a cinematic scene of a young East Asian man relaxing in a luxurious movie theater, focusing on realistic lighting and composition.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic scene of a young East Asian man sitting relaxed in a luxurious movie theater, wearing a slightly loosened black suit, white dress shirt and dark striped tie. He leans back comfortably across a red cinema seat with a calm, slightly amused expression, tousled dark reddish-brown hair, soft cinematic lighting from the movie screen illuminating his face. Rows of deep red theater seats and softly blurred audience members in the background, realistic movie-theater atmosphere, shallow depth of field, natural skin texture, dramatic film lighting, 85mm lens, f/1.4, HDR, photorealistic, 8K, vertical 9:16 composition.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108053500269895680/img/bufO_qQFhPGo51Sp.jpg" width="600" alt="Man in Movie Theater">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12116)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2108053559485104592) | **Published:** Oct 8, 2026
-
----
-### Luxury Beauty Commercial Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for creating a 20-second ultra-realistic luxury beauty commercial featuring glossy lips, coral aesthetics, and product application scenes.
-
-#### 📝 Prompt
-
-```
-Create a 20-second ultra-realistic luxury beauty commercial in vertical 9:16 format, featuring a glossy pink and coral aesthetic throughout. Start with a close-up of a Next Level lip cream standing on a reflective pink surface with a soft splash effect around the base, then smoothly transition into an extreme close-up of naturally textured glossy lips. Show the lips gently opening and moving naturally before introducing the lip cream applicator entering the frame and carefully applying the coral-pink product across the lips. Use detailed macro cinematography to capture realistic lip texture, creamy product shine, soft skin pores, and subtle highlights. Transition into a stylish full-body shot of a confident young East Asian woman wearing an elegant dusty-pink tailored pantsuit, walking slowly toward the camera in a modern pink studio. Keep her appearance natural, polished, and realistic with soft makeup and a subtle smile. Finish with a premium product hero shot showing multiple lip cream shades arranged on a glossy reflective surface, with dramatic coral-pink liquid splashes in the background. Use smooth camera movements, shallow depth of field, soft studio lighting, realistic reflections, cinematic focus pulls, high-end cosmetic advertisement quality, and seamless transitions.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108042715267244032/img/Xwh6OIik3Z_3OmKe.jpg" width="600" alt="Luxury Beauty Commercial Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12117)**
-
-**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2108042777556857230) | **Published:** Oct 8, 2026
-
----
-### Seedance Harry Potter Wizard Duel Glitches
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Shares a wizard duel scene generated with Seedance featuring Malfoy vs Ron & Hermione, discussing AI glitches and camera work quality.
-
-#### 📝 Prompt
-
-```
-Hermione attacks from the front while Ron flanks; Malfoy scrambles to counter, allowing Ron to snatch the white flag from his back, turning it into a frantic chase with no clear winner yet.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107818284699779073/img/pnMAKn8U89a8V3BJ.jpg" width="600" alt="Seedance Harry Potter Wizard Duel Glitches">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12118)**
-
-**Author:** [零崎業萌](https://x.com/zerozakiyamo) | **Source:** [Link](https://x.com/zerozakiyamo/status/2107819839847010747) | **Published:** Oct 7, 2026
-
----
-### Seedance 2.0 Urban Chase Scene Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed video generation prompt for Seedance 2.0 featuring a cinematic chase scene with character consistency and specific environmental cues.
-
-#### 📝 Prompt
-
-```
-[Basic Setting]
-Create a 30-second, 16:9 landscape, live-action quality modern urban chase short film.
-The story takes place in an old industrial district of a major city on the US East Coast, during the blue hour after sunset. A faint warm light remains on the horizon, while streets and buildings have entered the cooler night colors.
-The female protagonist strictly references the provided image of the pink female general: an adult blonde woman, retaining the same face, long golden braids, gray-pink Chinese-style robes, old metal armor, and a pink spear with red tassels.
-She is chased by two American uniformed police officers, continuously navigating street obstacles, climbing fire escapes, performing a pole vault from a high-rise rooftop using her spear to cross a narrow gap between adjacent buildings, then jumping onto a passing freight train to create distance. Afterwards, she leaves the train, passes through a service alley behind the building, and rushes into a clothing store.
-After entering the store, immediately cut to the next shot: the same female protagonist has changed into casual everyday clothes of a young American girl, wearing a baseball cap, walking out of the store door calmly, with her long golden braids still retained. Finally, she looks at the camera and gives a natural, playful single-eye wink.
-Do not show any changing process inside the store. The first 26 seconds are for chasing, jumping, and rushing into the clothing store; the last 4 seconds are for exiting the store after changing and the wink.
-The first half is tight and thrilling, the ending is light and witty. Do not explain her background or the reason for the police chase. There is no archery, bows, traction ropes, winch devices, or shadow attacks in the entire film.
-
-[Urban Environment and Escape Route]
-The scene is a fictional old industrial area in a US city, blending red brick warehouses, old apartments, steel external fire escapes, rooftop ventilation equipment, and small street-side shops. Cars, box trucks, and garbage collection vehicles are parked along both sides of the road. At the intersection, there are English traffic signs, a red fire hydrant, metal lamp posts, and faded zebra crossings.
-The entire escape route connects spatially:
-Narrow gaps between the street and parked vehicles → Loading/unloading channels outside the warehouse → Steel fire escapes and maintenance platforms → Rooftops of adjacent high-rise industrial buildings → Lower roofs near elevated railways → Freight train roof → Fixed maintenance platform and descending stairs → Service alley behind the building → Street-facing clothing store.
-The pole vault occurs on the rooftops of two adjacent high-rise industrial buildings. Establish a sense of height through the street below, facade windows, and external fire escapes. The gap between the two buildings is suitable for cinematic stunt pole-vaulting, slightly narrower than crossing a wide street. The opposite roof is slightly lower.
-The second building has connected stepped roofs, with the railway-side roof only slightly higher than the truck roof. Use brief wide shots and continuous action to show the protagonist running from the high point to the lower roof; she cannot instantly appear next to the train from the top of the tall building.
-The railway is an industrial freight branch line without overhead wires. The train passes through the urban area at a moderate speed, with no passengers or dense continuous obstacles on the roof. The fixed maintenance platform ahead is close to the train roof height and connects to descending stairs.
-The service alley behind the building leads to the street where the clothing store is located. The store window has warm lighting, revealing ordinary T-shirts, jeans, casual jackets, and baseball caps. Entering and exiting must be the same store, with consistent door frames, window displays, and lighting.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107762351541989376/img/urF1j9XjdVcAsMJY.jpg" width="600" alt="Seedance 2.0 Urban Chase Scene Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12119)**
-
-**Author:** [探路AI](https://x.com/TanLuAI) | **Source:** [Link](https://x.com/TanLuAI/status/2107763438747521348) | **Published:** Oct 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -4189,6 +4155,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-31T04:36:46.124Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-31T14:39:25.220Z</sub>
 
 </div>

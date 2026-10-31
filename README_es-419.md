@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6609** |
+| 📝 Total de prompts | **6620** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-10-31** |
 
@@ -361,6 +361,242 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### De Cena Romántica a Antojos Nocturnos: Comedia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para crear un video de comedia animada en 3D de alta calidad que muestra una cena romántica entre una pareja, seguida de una divertida aventura nocturna por antojos de comida en casa.
+
+#### 📝 Prompt
+
+```
+Crea un video de comedia animada en 3D de alta calidad y estilo cinematográfico, protagonizado por una tierna pareja de jóvenes que disfruta de una cena romántica en un elegante restaurante de lujo. El apuesto joven viste un esmoquin negro muy a la moda, mientras que la hermosa chica lleva un glamuroso vestido de noche negro con el cabello recogido en un elegante moño. Ambos están sentados juntos en una mesa bellamente decorada, iluminada por una cálida luz dorada, saboreando un delicioso pavo asado acompañado de papas fritas crujientes y vegetales. La chica le ofrece un bocado de forma juguetona y se intercambian sonrisas dulces y románticas. Después de la cena, la pareja regresa a casa conduciendo por una hermosa ciudad de noche, con faroles brillantes y edificios encantadores de fondo. La chica llega a su lujosa casa, entra sigilosamente y va directo a la cocina. Abre el refrigerador y, llena de emoción, saca un enorme pavo asado, papas fritas, chocolates, galletas, hamburguesas y muchísimos snacks deliciosos. En la siguiente escena, aparece cómodamente sentada en un sofá de lujo, rodeada de montañas de comida chatarra, devorando todo felizmente con una gran sonrisa en el rostro. Termina con una toma amplia y cinematográfica que revela toda la sala repleta de snacks y comida, creando un momento de antojo nocturno divertido y adorable. Utiliza expresivas animaciones faciales estilo caricatura, texturas detalladas en los alimentos, movimientos fluidos de los personajes, iluminación realista, hermosas transiciones de cámara y una calidad de animación 3D premium inspirada en Pixar. Mantén la apariencia de los personajes consistente durante todo el video, sin personajes duplicados, deformaciones ni errores visuales.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116402410939953152/img/TVH4s-ff4Ws4U4x-.jpg" width="600" alt="De Cena Romántica a Antojos Nocturnos: Comedia">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13215)**
+
+**Autor:** [liana](https://x.com/Lianaalane) | **Fuente:** [Link](https://x.com/Lianaalane/status/2116402455315718306) | **Publicado:** Oct 31, 2026
+
+---
+### Comercial de Moda de Lujo en Automovilismo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico para un comercial de moda de lujo en el automovilismo, que presenta a una mujer con traje de carreras y un frasco de perfume.
+
+#### 📝 Prompt
+
+```
+Crea un comercial de moda de automovilismo de lujo, ultrarrealista y cinematográfico, protagonizado por una hermosa joven que lleva un traje de carreras premium en blanco, negro y rojo, con botas y guantes profesionales de competición. Camina con seguridad por un espectacular garaje subterráneo de carreras, rodeada de imponentes autos deportivos negros, humo ambiental y luces LED rojas brillantes.
+
+Comienza con una toma amplia cinematográfica mientras ella avanza con confianza hacia la cámara sosteniendo un casco de carreras. Incluye primeros planos dramáticos de su atuendo de competición, los logotipos bordados, los detalles del casco y su expresión facial segura.
+
+Muestra un lujoso frasco de perfume premium en rojo y negro en un primer plano impactante, envuelto en un sutil humo, reflejos e iluminación cinematográfica.
+
+Utiliza movimientos de cámara fluidos, tomas de caminata en cámara lenta, primeros planos dinámicos, texturas de tela realistas, reflejos brillantes, sombras dramáticas y una fotografía profesional propia de un comercial.
+
+Estilo visual: fotorrealista, estética de automovilismo de lujo, iluminación roja intensa, detalles en 8K, HDR, poca profundidad de campo, atmósfera cinematográfica, composición vertical 9:16.
+
+Importante: mantén constante la identidad del personaje, el diseño del atuendo, la apariencia del producto y las proporciones realistas durante todo el video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116387135221895168/img/scDHw0t1q9tIdAym.jpg" width="600" alt="Comercial de Moda de Lujo en Automovilismo">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13216)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2116387165341110470) | **Publicado:** Oct 31, 2026
+
+---
+### Prompt Cinematográfico de Combate con Espadas para Seedance 2.0
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt detallado para generar un video cinematográfico de combate con espadas a alta velocidad de 15 segundos usando Seedance 2.0, con una referencia de personaje: espadachina felina de cabello blanco.
+
+#### 📝 Prompt
+
+```
+# Seedance 2.0 | Prompt para video de acción cinematográfica de pelea de espadas a alta velocidad de 15 segundos
+
+## I. Imagen de referencia del personaje (Character Reference)
+
+**Personaje A: Espadachina de cabello blanco y orejas de gato**
+
+La Imagen de referencia 1 es la única base estricta para definir la apariencia del Personaje A.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116275450024800256/img/qHqeHGd6ipOOpWgP.jpg" width="600" alt="Prompt Cinematográfico de Combate con Espadas para Seedance 2.0">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13224)**
+
+**Autor:** [テト@おっさんの異世界転生 Uncle in ISEKAI](https://x.com/ojisan__isekai) | **Fuente:** [Link](https://x.com/ojisan__isekai/status/2116276599264084192) | **Publicado:** Oct 30, 2026
+
+---
+### Prompt de Renovación de Piso Epóxico de Calamar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para transformar calamares en un diseño único de piso epóxico, generado con Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Un hombre con barba y overol de denim rastrilla una enorme pila de calamares frescos sobre el piso de concreto desnudo de una habitación vacía, blanca y con un gran ventanal, esparciéndolos hasta formar una capa única y perfectamente uniforme que cubre todo el suelo. Una mujer rubia con overol rojo y camiseta blanca vierte resina epoxi blanca y espesa desde un balde de plástico grande; el líquido lechoso fluye sobre los calamares y los sumerge bajo una inundación brillante autonivelante que se extiende de pared a pared. Un trabajador con chaleco amarillo de alta visibilidad empuja una pulidora de pisos sobre la superficie en proceso de curado, alisándola hasta lograr un acabado de brillo espejo, con cientos de calamares suspendidos permanentemente dentro de la resina transparente, como si fuera terrazo. Luego, dos hombres con camisetas y gorras negras arman una base de cama de madera de nogal con cabecera sobre el piso terminado, colocan un colchón y lo visten con sábanas y almohadas blancas impecables. Revelación final: una habitación minimalista y luminosa donde el espectacular piso blanco brillante tiene calamares incrustados bajo la superficie, mientras la luz natural del día entra por el ventanal. Video vertical, estilo documental hiperrealista, transformación de remodelación satisfactoria, cámara en mano con movimientos suaves, iluminación natural brillante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116233841467645952/img/LQmCwKu2c9PoXtM5.jpg" width="600" alt="Prompt de Renovación de Piso Epóxico de Calamar">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13221)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fuente:** [Link](https://x.com/Ruslanchain/status/2116233884077556111) | **Publicado:** Oct 30, 2026
+
+---
+### Prompt de Piso Terrazo Conchas Marinas para Dormitorio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para crear un suelo de dormitorio espectacular usando conchas marinas y resina epoxi, generado con Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Un hombre con overol de mezclilla y camiseta gris está de pie en una habitación blanca vacía con un ventanal muy iluminado, junto a un enorme montón de conchas marinas sobre un piso de concreto desnudo. Toma un rastrillo y esparce las conchas de manera uniforme por todo el suelo. Una mujer con overol rojo y camiseta blanca lleva un balde metálico gris y vierte resina epoxi blanca y espesa sobre las conchas; el líquido se expande hasta cubrir todo el piso con una capa lisa y brillante. Luego, un trabajador con chaleco reflectante amarillo y gorra negra pule la superficie ya curada con una pulidora de pisos, revelando poco a poco un espectacular piso de terrazo blanco con coloridas conchas marinas incrustadas que reflejan la luz del día. El hombre del overol regresa y arma una estructura de cama de madera clara, coloca la cabecera, pone los listones, ubica un colchón blanco y viste la cama con sábanas blancas impecables y almohadas beige y grises. Toma final: un dormitorio minimalista y luminoso con la cálida cama de madera centrada sobre el reluciente piso de terrazo con conchas, mientras la luz del sol entra por la ventana. Transiciones fluidas al estilo time-lapse, iluminación natural realista, satisfactoria transformación de remodelación del hogar, formato vertical, detalle fotorrealista.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116232894100201472/img/pez4WVohMBybMbBD.jpg" width="600" alt="Prompt de Piso Terrazo Conchas Marinas para Dormitorio">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13219)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2116232943790141574) | **Publicado:** Oct 30, 2026
+
+---
+### Prompt de Suelo Epóxico con Discos de Vinilo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para crear un suelo de dormitorio con estilo utilizando vinilos antiguos y resina epoxi, generado con Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Video vertical, plano general fijo de una habitación blanca vacía con un ventanal que deja ver árboles verdes. Un hombre con overol azul y guantes de trabajo rastrilla un enorme montón de discos de vinilo negros sobre el piso de concreto desnudo, extendiéndolos de forma plana y uniforme por toda la superficie como si fueran azulejos de colores. Entra una mujer con overol rojo, camiseta negra y guantes de goma verde llevando un balde blanco, y vierte una resina epoxi autonivelante blanca, espesa y cremosa sobre los discos; el líquido brillante se esparce hasta cubrir todo el piso en un blanco intenso. Corte al piso ya curado: un trabajador con chaleco reflectante amarillo, pantalones rojos y botas de goma pule la superficie con una pulidora rotativa, dejando a la vista los discos de vinilo incrustados bajo una capa de epoxi transparente y brillante, con sus coloridas etiquetas asomando. Por último, dos hombres vestidos de negro entran con la estructura de madera de una cama, la arman en el centro de la habitación y colocan un colchón blanco, almohadas y un edredón gris, completando así un dormitorio elegante con piso de discos de vinilo. Luz natural intensa, estética minimalista y limpia, estilo timelapse satisfactorio de remodelación DIY, transiciones suaves, detalle fotorrealista, calidad 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116161341782130688/img/m2enr1Dp9OgXTYoR.jpg" width="600" alt="Prompt de Suelo Epóxico con Discos de Vinilo">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13222)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fuente:** [Link](https://x.com/Ruslanchain/status/2116161380516601859) | **Publicado:** Oct 30, 2026
+
+---
+### Prompt para Renovación de Piso Terrazo con Crayones
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de timelapse hiperrealista de renovación que transforma crayones en un piso terrazo, generado con Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Un timelapse hiperrealista y satisfactorio de una remodelación en una habitación vacía y luminosa, con paredes blancas y un ventanal. Un hombre con overol azul rastrilla un enorme montículo de miles de crayones de colores sobre el piso de concreto desnudo, esparciéndolos de manera uniforme por todo el cuarto con pasadas largas y suaves del rastrillo. Una mujer con overol rojo y guantes verdes vierte una resina epoxi blanca, espesa y brillante, desde una cubeta negra sobre los crayones dispersos; el líquido cremoso se expande y se autonivela hasta cubrir todo el piso. Luego, unos trabajadores con chalecos amarillos de alta visibilidad pulen la superficie ya curada con una pulidora rotativa, revelando poco a poco un espectacular piso brillante estilo terrazo con miles de trozos de crayones de colores incrustados, que brillan como piedra pulida y reflejan la luz de la ventana. Dos trabajadores con uniforme y gorra negros entran una base de cama de madera, la arman, colocan un colchón blanco y tienden la cama impecablemente con un edredón y almohadas blancas, para después retirarse. Toma final: un hermoso dormitorio minimalista donde el piso de terrazo de crayones, similar a un espejo, resplandece bajo la suave luz natural del día, movimiento de cámara cinematográfico y fluido, detalles nítidos y realistas, video de transformación satisfactorio estilo ASMR, calidad 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116158972063277056/img/97D3lQjT3kQuVTvK.jpg" width="600" alt="Prompt para Renovación de Piso Terrazo con Crayones">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13220)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2116159013410701811) | **Publicado:** Oct 30, 2026
+
+---
+### Renovación de Piso Epóxico con Hojas de Otoño
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video en timelapse que muestra la renovación de una habitación, donde las hojas de otoño se transforman en un mágico piso de resina epóxica para el dormitorio.
+
+#### 📝 Prompt
+
+```
+Timelapse fotorrealista vertical 9:16 de la remodelación de una habitación. Habitación vacía y luminosa con paredes blancas, piso de concreto desnudo, cinta azul de pintor a lo largo de los zócalos y un ventanal con árboles verdes al exterior. Un hombre con overol azul rastrilla un gran montón de hojas otoñales naranjas y verdes, esparciéndolas de manera uniforme por todo el piso. Se suman más trabajadores: uno con overol negro y tres con overol rojo vierten resina epoxi autonivelante transparente desde cubetas metálicas sobre las hojas y la extienden con escobillas de mango largo hasta que cada hoja queda sellada bajo una capa brillante y transparente. Un trabajador con chaleco amarillo de alta visibilidad y protección auditiva pule el piso ya curado con una pulidora rotativa, dejándolo perfectamente liso y con efecto espejo, con las hojas otoñales suspendidas en su interior como si fuera el suelo de un bosque bajo cristal. Por último, unos trabajadores con uniformes negros y protección auditiva arman rápidamente una base de cama de madera, colocan un colchón blanco, almohadas y una manta decorativa beige, y añaden mesas de noche de madera con lámparas de latón. Revelación final: una acogedora habitación minimalista bañada en luz natural, donde el espectacular piso de epoxi brillante con hojas incrustadas refleja el ventanal y la cama. Movimiento de timelapse rápido y fluido, estilo de remodelación satisfactoria, iluminación natural, detalles nítidos y realistas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116103244116086784/img/JCsSRmsvGdknmXVv.jpg" width="600" alt="Renovación de Piso Epóxico con Hojas de Otoño">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13218)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fuente:** [Link](https://x.com/Ruslanchain/status/2116103283274088875) | **Publicado:** Oct 30, 2026
+
+---
+### Prompt de Piso Terrazzo con Chicles
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para crear un hermoso piso terrazzo usando chicles, generado con Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Video vertical, habitación vacía y luminosa con paredes blancas, piso de concreto y un gran ventanal iluminado por el sol. Un hombre con overol azul rastrilla una enorme pila de gumballs de colores esparcidos por el suelo, acomodándolos en hileras uniformes que cubren toda la habitación. Una mujer con overol rojo y camiseta negra vierte una espesa resina epoxi autonivelante blanca desde un balde gris grande; el líquido brillante se expande y cubre por completo los gumballs. Un trabajador con chaleco amarillo de alta visibilidad y gorra negra pule la superficie ya curada con una pulidora de pisos profesional, revelando poco a poco un liso y brillante piso de terrazo blanco con coloridos trocitos de dulces incrustados. Dos trabajadores con uniformes oscuros entran una base de cama de madera, colocan un colchón blanco, tienden sábanas blancas y acomodan las almohadas con cuidado. Plano general final de un dormitorio minimalista donde el espectacular piso de terrazo con destellos de dulces brilla bajo la luz natural del sol. Fotorrealista, movimientos de cámara fluidos, transformación de renovación paso a paso muy satisfactoria, iluminación natural brillante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116102290763378688/img/fJE7OoTkM7RQVZFZ.jpg" width="600" alt="Prompt de Piso Terrazzo con Chicles">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13223)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2116102340839092598) | **Publicado:** Oct 30, 2026
+
+---
+### Transformación de Araña Mecánica a Auto Deportivo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de video cinematográfico que describe la transformación de una araña mecánica en un auto deportivo de lujo en un garaje oscuro.
+
+#### 📝 Prompt
+
+```
+Una escena de transformación cinematográfica hiperrealista en el interior de un estacionamiento subterráneo oscuro. Una misteriosa criatura mecánica con forma de araña, de color negro brillante, se arrastra por el piso de concreto hacia un pequeño objeto metálico. De repente, la criatura comienza a transformarse: sus múltiples y largas patas metálicas se extienden hacia los lados y se pliegan para formar complejos componentes mecánicos. Toda la estructura se transforma rápidamente en un elegante y agresivo auto deportivo de lujo negro, muy parecido a un Porsche 911. Las piezas mecánicas se retraen con fluidez, las ruedas toman forma, los paneles de la carrocería se ensamblan y los faros se encienden con gran intensidad. La transformación es impecable, futurista y visualmente impactante. El auto deportivo negro ya terminado avanza lentamente, mientras sus potentes faros iluminan la oscuridad del estacionamiento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116095481600516096/img/ee3WLr4woRgzmEf1.jpg" width="600" alt="Transformación de Araña Mecánica a Auto Deportivo">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13217)**
+
+**Autor:** [Zarnish](https://x.com/ZarnishNael) | **Fuente:** [Link](https://x.com/ZarnishNael/status/2116095524357181578) | **Publicado:** Oct 30, 2026
+
+---
+### Prompt de Vlog de Estilo de Vida de Chica Coreana
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para generar un mini vlog cinematográfico de 15 segundos sobre el estilo de vida de una chica coreana, con apariencia consistente del personaje en múltiples escenas: despertar, caminar por Seúl, visitar una cafetería y ver la puesta de sol.
+
+#### 📝 Prompt
+
+```
+Crea un video, un hermoso mini vlog cinematográfico de 15 segundos sobre el estilo de vida de una chica coreana. Presenta a una mujer coreana de 24 años con rasgos consistentes, belleza natural, cabello negro largo y flequillo suave, que lleva una sudadera con capucha color vino oversize, pantalones holgados y un bolso de lona cruzado.
+
+Escena 1 (0–3 s): Se despierta en su acogedora habitación, con la luz del sol cayendo suavemente sobre su rostro. Abre los ojos despacio y sonríe.
+Escena 2 (3–5 s): Se arregla frente al espejo, se recoge el cabello y toma su bolso cruzado.
+Escena 3 (5–7 s): Camina por una hermosa calle de Seúl mientras las hojas de otoño caen a su alrededor; plano secuencia cinematográfico.
+Escena 4 (7–10 s): Entra a una cafetería coreana acogedora, pide un café helado, se sienta junto a la ventana y da un sorbo tranquilo.
+Escena 5 (10–12 s): Primer plano de ella escribiendo en su cuaderno mientras escucha música.
+Escena 6 (12–15 s): Contempla un hermoso atardecer anaranjado sobre Seúl, gira hacia la cámara y regala una sonrisa suave y natural.
+
+Visuales cinematográficos ultrarrealistas, expresiones faciales naturales, textura de piel realista, movimientos de cámara hermosos, iluminación dorada y suave, poca profundidad de campo, estética nostálgica de MiniDV de principios de los 2000, transiciones fluidas, atmósfera realista del estilo de vida coreano.
+
+Mantén exactamente el mismo rostro, peinado, atuendo y proporciones corporales en cada escena. Sin variaciones de identidad, sin filtros de belleza artificiales, sin texto, sin logotipos ni marcas de agua. Formato vertical 9:16, duración total de exactamente 15 segundos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116042683164827648/img/F7YIS8NIKpe5n7Gq.jpg" width="600" alt="Prompt de Vlog de Estilo de Vida de Chica Coreana">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13214)**
+
+**Autor:** [liana](https://x.com/Lianaalane) | **Fuente:** [Link](https://x.com/Lianaalane/status/2116042775007474169) | **Publicado:** Oct 30, 2026
+
+---
 ### Prompt de Video de Baile Douyin con Seedance 2.0
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -3834,271 +4070,6 @@ Estilo: Animación 3D premium inspirada en Pixar, diseños de personajes adorabl
 **Autor:** [Neo-phyte](https://x.com/Deadmeatz) | **Fuente:** [Link](https://x.com/Deadmeatz/status/2108654687151145239) | **Publicado:** Oct 9, 2026
 
 ---
-### Video de Transformación de Piso Terrazo con Coco
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de video surrealista hiperrealista para Seedance 2.0 que muestra un proceso de construcción en time-lapse donde se rastrillan cocos, se cubren con leche y se pulen hasta convertirlos en un piso terrazo brillante.
-
-#### 📝 Prompt
-
-```
-Video vertical 9:16 surrealista e hiperrealista, toma frontal fija y amplia, una escena continua en una habitación vacía con paredes blancas, suelo de concreto y una gran ventana que muestra palmeras tropicales afuera, luz natural del día.
-
-Toma 1: Un hombre musculoso con overoles de mezclilla azul rastrilla un enorme montón de cocos marrones peludos, distribuyéndolos uniformemente en una capa densa sobre todo el suelo; los cocos ruedan y se mueven con física realista.
-
-Toma 2: Una mujer con overoles rojos vierte espesa leche de coco cremosa desde un balde gigante sobre el suelo cubierto de cocos; el líquido blanco fluye, se extiende y cubre lentamente los cocos como si fuera resina.
-
-Toma 3: Un trabajador con chaleco reflectante amarillo pule la superficie endurecida con una máquina pulidora de pisos; se revela un brillante piso terrazo blanco con secciones transversales de coco incrustadas dentro, similar a piedra pulida.
-
-Toma 4: Dos mudancistas con uniformes negros traen un marco de cama de madera, colocan un colchón blanco y hacen la cama prolijamente con sábanas y almohadas blancas.
-
-Toma final: dormitorio minimalista luminoso, piso terrazo blanco con brillo espejo, estampado con rodajas de coco que reflejan la luz de la ventana. Iluminación cinematográfica, detalle fotorrealista, transiciones suaves estilo time-lapse entre etapas, satisfactorio proceso de construcción tipo ASMR, sin texto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108559194227965953/img/NioKBNgsFTbCTl_S.jpg" width="600" alt="Video de Transformación de Piso Terrazo con Coco">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12236)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2108559226452750458) | **Publicado:** Oct 9, 2026
-
----
-### Dragón bebé y mujer en un patio de piedra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt detallado para un video de fantasía de 25 segundos que muestra a una mujer interactuando con un pequeño dragón bebé en un patio de piedra rústico. Incluye instrucciones específicas sobre la física de la tela, la consistencia del personaje y la narrativa emocional, optimizado para Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Crea un video cinematográfico ultra realista de fantasía de 25 segundos que muestre a una joven adulta hermosa con cabello largo y castaño oscuro, vistiendo un elegante vestido medieval color crema y un chal marrón oscuro. Ella está de pie en un patio de piedra rústico junto a una antigua cabaña de piedra en una tranquila aldea rural. El entorno presenta paredes de piedra desgastadas por el tiempo, ventanas de madera, un sendero de piedra embarrado, árboles perennes cubiertos de nieve y montañas neblinosas a lo lejos bajo un cielo nublado y suave. Un pequeño y adorable dragón bebé con piel rosada blanquecina, ojos enormes y brillantes, cuernos diminutos, orejas delicadas, patitas pequeñas, una cola esbelta y alas translúcidas rosadas está cerca de sus pies. Comienza con una toma amplia natural cinematográfica que muestra a la mujer colgando una gran tela de lino color crema en un tendedero tradicional de madera. Una brisa suave mueve su cabello largo y la tela de manera natural. De repente, ella nota al pequeño dragón a su lado y lo mira hacia abajo con una expresión curiosa, sorprendida y cariñosa. La cámara se acerca lentamente mientras el dragón bebé la mira hacia arriba, parpadea sus enormes ojos y extiende suavemente sus delicadas alas rosadas. Muestra las intrincadas membranas transparentes de las alas, la textura realista de la piel, las garras diminutas y los sutiles movimientos corporales con hermosos detalles. La mujer se agacha hacia la pequeña criatura con una sonrisa cálida, observándola con curiosidad mientras aletea sus alas y da unos pequeños pasos por el patio de piedra. De repente, una ráfaga de viento atrapa la tela de lino suelta que cuelga sobre ellos, haciendo que se deslice del tendedero y caiga suavemente sobre el dragón bebé. La pequeña criatura queda completamente cubierta por la tela oversized color crema, creando una forma graciosa y conmovedora mientras intenta caminar hacia adelante. La mujer reacciona con sorpresa juguetona y rápidamente se arrodilla para ayudarlo. La tela se mueve naturalmente alrededor del cuerpo diminuto del dragón mientras camina tambaleándose por el suelo, con sus pequeñas patas visibles debajo de la tela. La mujer levanta cuidadosamente la tela de su cara, revelando al adorable dragón parpadeando confundido y mirándola directamente. Ella sostiene suavemente a la pequeña criatura con ambas manos y la acerca a su rostro. El dragón pliega sus alas translúcidas rosadas contra su cuerpo, inclina la cabeza y toca suavemente su nariz contra la mejilla de ella. La mujer sonríe afectuosamente, mirando en sus enormes ojos brillantes mientras acaricia suavemente su cabecita. Termina con un hermoso primer plano de la mujer y el dragón bebé compartiendo un momento conmovedor en el tranquilo patio de piedra, con la cabaña y el campo nebuloso suavemente desenfocados en el fondo. Mantén rasgos faciales consistentes, peinado, ropa, diseño de la criatura, proporciones y colores durante todo el video. Usa movimientos corporales naturales, física realista de la tela, texturas detalladas, luz diurna suave y difusa, profundidad cinematográfica.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108503353022193665/img/rNaXyfICWppbQJGj.jpg" width="600" alt="Dragón bebé y mujer en un patio de piedra">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12239)**
-
-**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fuente:** [Link](https://x.com/ayzalnooor24521/status/2108503425277391053) | **Publicado:** Oct 9, 2026
-
----
-### Animación tierna de papá Spider-Man y su bebé
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para una escena familiar animada en 3D de 20 segundos, que muestra a un padre con un suéter inspirado en Spider-Man y su hija bebé, culminando con un abrazo emotivo. Creado con Seedance 2.0 mini.
-
-#### 📝 Prompt
-
-```
-Crea una escena familiar cinematográfica y conmovedora animada en 3D de 20 segundos, ambientada en una acogedora oficina en casa durante una cálida velada.
-
-Un joven padre con cabello rizado castaño, cejas expresivas y un suéter rojo y azul inspirado en Spider-Man está sentado en un escritorio de madera trabajando en una laptop. A su lado se encuentra su adorable hija bebé, vestida con un conjunto beige de punto y un gorro de invierno con orejas de oso.
-
-La bebé observa atentamente a su padre mientras él trabaja. El padre la mira ocasionalmente con una expresión cansada pero llena de amor, toma sorbos de una taza blanca de café y continúa escribiendo en su laptop. La bebé está sentada junto a él en una silla alta pequeña, observando todo con curiosidad.
-
-Muestra cómo el padre se distrae cuando la bebé interactúa con un pequeño coche de juguete rojo y un plato de comida sobre el escritorio. Incluye expresiones faciales naturales, movimientos sutiles de los ojos, gestos suaves de las manos y una interacción realista entre padre e hija.
-
-Más tarde, la bebé muestra orgullosa a su padre un dibujo hecho a mano de ambos juntos con un corazón. La expresión del padre cambia de cansancio y estrés a emoción, sorpresa y profunda ternura.
-
-Termina con el padre sonriendo cálidamente, girándose hacia su hija, abrazándola con amor y dándole un suave abrazo.
-
-Estilo: animación 3D cinematográfica de alta calidad, estética de película familiar inspirada en Pixar, iluminación interior suave y cálida, rostros detallados y expresivos, texturas realistas de tela y cabello, atmósfera acogedora, profundidad de campo reducida, animación fluida de personajes, movimiento natural de cámara, narrativa emocional.
-
-Composición vertical 9:16, encuadre cinematográfico, apariencia consistente de los personajes durante toda la escena, transiciones suaves, entorno detallado y final emocional y entrañable.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108494585232285696/img/oWcQX4Xg4aDqpY61.jpg" width="600" alt="Animación tierna de papá Spider-Man y su bebé">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12241)**
-
-**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fuente:** [Link](https://x.com/AiwithBloodline/status/2108495280912134418) | **Publicado:** Oct 9, 2026
-
----
-### Video de Pelea Táctica: Mujer Contra Multitud
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt altamente detallado para generar un video de acción cinematográfico ultra-fotorrealista de 10 segundos, donde una mujer táctica se defiende de una multitud bajo la lluvia, especificando su generación mediante Gemini 3.5 y Seedance 2.0 mini.
-
-#### 📝 Prompt
-
-```
-Genera un video de acción cinematográfico ultra-fotorrealista de 10 segundos en formato vertical 9:16, que asemeje metraje real capturado con una cámara profesional de cine.
-
-ESCENA: Una mujer adulta poderosa, vestida con ropa táctica negra práctica, está atrapada en una calle urbana moderna empapada por la lluvia al anochecer. Una gran multitud de atacantes adultos se abalanza hacia ella desde múltiples direcciones. Ella permanece tranquila, inteligente, intrépida y muy ágil.
-
-0–3 segundos: Plano general de establecimiento. La multitud avanza hacia ella a través de una lluvia ligera. Ella estudia sus movimientos, adopta una postura defensiva y esquiva al primer atacante con tiempos realistas.
-
-3–7 segundos: Toma de seguimiento suave con cámara en mano. Realiza movimientos creíbles de artes marciales, bloquea ataques, esquiva oponentes y ejecuta derribos controlados no gráficos. Cada movimiento tiene peso humano realista, mecánica corporal precisa, contacto natural de los pies y anatomía consistente. La multitud se mueve de forma independiente, sin cuerpos duplicados ni movimientos robóticos sincronizados.
-
-7–10 segundos: Rompe el cerco de la multitud y llega a la entrada iluminada de un edificio. Los atacantes restantes se detienen detrás de ella. Se gira hacia la cámara, respira naturalmente y levanta una mano en un gesto de victoria confiado. Termina con un primer plano cinematográfico nítido y potente.
-
-CALIDAD VISUAL: Rostros humanos fotorrealistas, poros naturales de la piel, tela mojada realista, ojos detallados, lluvia y reflejos físicamente precisos, iluminación HDR equilibrada, enfoque nítido, desenfoque de movimiento natural, contraste cinematográfico, profundidad de campo realista, detalle estilo 4K, identidad de personaje estable, movimiento continuo fluido, cinematografía profesional de película de acción.
-
-AUDIO: Genera audio ambiental original sincronizado: pasos naturales sobre pavimento mojado, lluvia realista, movimiento de ropa, respiración sutil, impactos creíbles y gritos distantes de la multitud. Incluye una línea de diálogo femenina original, hablada clara y con confianza: “Pueden detenerme, pero nunca podrán romperme”. Sincronización labial precisa, voz humana natural, diálogo limpio, niveles de sonido balanceados, sin saturación, sin voz robótica artificial, sin música de fondo que opaque la acción.
-
-RESTRICCIONES NEGATIVAS ESTRICTAS: Sin animación, sin apariencia de caricatura, sin piel que parezca CGI, sin dedos extra, sin extremidades deformadas, sin cuerpos flotantes, sin peleas antinaturales, sin teletransportación, sin parpadeos, sin temblores, sin sacudidas excesivas de cámara, sin ruido visual, sin artefactos de compresión, sin rostros distorsionados, sin subtítulos, sin texto, sin logotipos, sin marcas de agua, sin gore.
-
-Entrega un video coherente de 10 segundos estilo live-action con visuales limpios, movimiento realista, audio original sincronizado y calidad cinematográfica premium.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108484389932023808/img/QLeLb3Uapw5u0vrf.jpg" width="600" alt="Video de Pelea Táctica: Mujer Contra Multitud">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12240)**
-
-**Autor:** [Rizi](https://x.com/Rizi_ru) | **Fuente:** [Link](https://x.com/Rizi_ru/status/2108484437973377242) | **Publicado:** Oct 9, 2026
-
----
-### Secuencia de acción: persecución policial en el mercado de frutas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para una secuencia de acción cinematográfica que muestra a un hombre corriendo por una calle europea, chocando contra un mercado de frutas con naranjas volando en cámara lenta y siendo perseguido por la policía. Diseñado para Seedance 2.0 para probar física realista y movimientos de cámara.
-
-#### 📝 Prompt
-
-```
-Secuencia de acción cinematográfica ambientada en una bulliciosa calle de una ciudad europea. Un joven con chaqueta negra corre desesperadamente por una calle abarrotada mientras oficiales de policía lo persiguen. Choca contra un colorido mercado de frutas, haciendo que las naranjas salgan volando por todas partes en dramática cámara lenta. Tropieza, cae al pavimento, se levanta rápidamente y continúa corriendo mientras la policía se acerca detrás de él. Movimiento humano realista, tomas de seguimiento dinámicas, sensación de cámara en mano, iluminación natural nublada, entorno urbano detallado, gradación de color cinematográfica, física realista, intensa atmósfera de película de acción, calidad 4K, sin texto, sin marca de agua.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108437782851211264/img/_ifDleSe0dTsFDc0.jpg" width="600" alt="Secuencia de acción: persecución policial en el mercado de frutas">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12237)**
-
-**Autor:** [Zarnish](https://x.com/ZarnishNael) | **Fuente:** [Link](https://x.com/ZarnishNael/status/2108437844004143142) | **Publicado:** Oct 9, 2026
-
----
-### Video de persecución en callejón nocturno
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para una escena de acción cinematográfica ultra realista que involucra una misteriosa persecución y pelea en un oscuro callejón urbano por la noche.
-
-#### 📝 Prompt
-
-```
-Escena de acción cinematográfica ultra realista en un oscuro callejón urbano por la noche. Una misteriosa joven de cabello largo castaño, vestida con un elegante conjunto blanco, es rodeada por varios hombres vestidos de negro cerca de vehículos estacionados y camiones de reparto. Un apuesto joven con traje negro interviene para protegerla mientras se desarrolla una tensa pelea. La mujer corre por el callejón mientras los hombres luchan, creando una intensa atmósfera de thriller. Pavimento mojado reflejando luces cálidas ámbar de farolas, sombras dramáticas, expresiones faciales realistas, cabello al viento, poses dinámicas de acción, movimientos de cámara cinematográficos, profundidad de campo reducida, iluminación atmosférica, estética de película de acción de Hollywood, texturas de piel fotorrealistas, entorno ultradetallado, resolución 4K, cinematografía profesional, desenfoque de movimiento realista, composición vertical 9:16. Sin texto, sin marca de agua.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108430636805681152/img/7krFjZDXQrgXEPm6.jpg" width="600" alt="Video de persecución en callejón nocturno">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12199)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2108430677226242083) | **Publicado:** Oct 9, 2026
-
----
-### Video de Guerrera Fantástica vs Dragones
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para un video de 10 segundos de una guerrera luchando contra dragones en un bosque neblinoso, generado con Seedance 2.0 Mini.
-
-#### 📝 Prompt
-
-```
-Una joven adulta inglesa hermosa y fotorrealista, con cabello largo y castaño ondeante, viste un atuendo de guerrera fantástica rojo y negro mientras corre a través de un antiguo bosque neblinoso. De repente, varios dragones enormes que escupen fuego emergen detrás de ella y atacan. Ella desenvaina instantáneamente su brillante espada de acero y lucha sin miedo a una velocidad increíble. Realiza saltos altos impresionantes, giros aéreos, estocadas de espada ultrarrápidas, volteretas ágiles y ataques poderosos en el aire. Esquiva las llamas de los dragones saltando hacia los lados y contraataca con movimientos de espada precisos y fluidos. Uno por uno, los dragones son derrotados en batallas cinematográficas espectaculares. El último dragón se lanza sobre ella, y ella salta alto en el aire, asesta un golpe final decisivo y aterriza con gracia mientras el dragón colapsa detrás de ella. Su cabello y ropa se mueven naturalmente con cada acción. Anatomía humana ultra realista, expresiones faciales auténticas, física creíble, coreografía rápida y perfecta, escamas detalladas de dragón, tomas de seguimiento cinematográficas, iluminación dramática, chispas voladoras, humo, fuego y efectos de sonido realistas. Escena fantástica original, realismo de película live-action, calidad 4K, sin estilo caricaturesco, sin personajes de apariencia artificial, sin sangre ni gore. Vertical 9:16, 10 segundos, acción continua, combate extremadamente rápido, apariencia consistente del personaje.
-```
-
-<img src="https://pbs.twimg.com/media/HUHo-GlagAAulBx.jpg" width="600" alt="Video de Guerrera Fantástica vs Dragones">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12200)**
-
-**Autor:** [Rizi](https://x.com/Rizi_ru) | **Fuente:** [Link](https://x.com/Rizi_ru/status/2108222263267148241) | **Publicado:** Oct 8, 2026
-
----
-### Hombre en un cine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para generar una escena cinematográfica de un joven hombre del este de Asia relajándose en un lujoso cine, con enfoque en iluminación y composición realistas.
-
-#### 📝 Prompt
-
-```
-Escena cinematográfica ultra-realista de un joven hombre del este de Asia sentado relajado en un lujoso cine, vistiendo un traje negro ligeramente desabrochado, camisa blanca de vestir y corbata a rayas oscuras. Se recuesta cómodamente en un asiento rojo de cine con una expresión tranquila y ligeramente divertida, cabello oscuro castaño rojizo despeinado, iluminación cinematográfica suave proveniente de la pantalla que ilumina su rostro. Filas de asientos de teatro rojo intenso y espectadores suavemente desenfocados al fondo, atmósfera realista de sala de cine, profundidad de campo reducida, textura natural de la piel, iluminación dramática de película, lente de 85mm, f/1.4, HDR, fotorealista, 8K, composición vertical 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108053500269895680/img/bufO_qQFhPGo51Sp.jpg" width="600" alt="Hombre en un cine">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12116)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2108053559485104592) | **Publicado:** Oct 8, 2026
-
----
-### Comercial de Belleza de Lujo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para un comercial de belleza de lujo ultra-realista de 20 segundos, que muestra la aplicación de crema labial y una modelo en un estudio rosa, diseñado para Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Crea un comercial de belleza de lujo ultra-realista de 20 segundos en formato vertical 9:16, con una estética brillante en tonos rosados y coral a lo largo de todo el video. Comienza con un primer plano de la crema labial Next Level sobre una superficie rosa reflectante, con un suave efecto de salpicadura alrededor de la base, luego realiza una transición fluida hacia un extremo primer plano de unos labios brillantes con textura natural. Muestra los labios abriéndose y moviéndose suavemente de forma natural antes de introducir el aplicador de la crema labial entrando en cuadro y aplicando cuidadosamente el producto en tono rosa-coral sobre los labios. Utiliza cinematografía macro detallada para capturar la textura realista de los labios, el brillo cremoso del producto, los poros suaves de la piel y los reflejos sutiles. Transiciona hacia una toma elegante de cuerpo entero de una joven mujer asiática oriental segura de sí misma, vistiendo un traje sastre de pantalón en color rosa empolvado, caminando lentamente hacia la cámara en un moderno estudio rosa. Mantén su apariencia natural, pulida y realista, con maquillaje suave y una sonrisa sutil. Finaliza con una toma heroica premium del producto mostrando varios tonos de crema labial dispuestos sobre una superficie reflectante brillante, con dramáticas salpicaduras de líquido rosa-coral en el fondo. Utiliza movimientos de cámara suaves, profundidad de campo reducida, iluminación de estudio suave, reflejos realistas, cambios de foco cinematográficos, calidad publicitaria de cosméticos de gama alta y transiciones sin costuras.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108042715267244032/img/Xwh6OIik3Z_3OmKe.jpg" width="600" alt="Comercial de Belleza de Lujo">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12117)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fuente:** [Link](https://x.com/Aiwithmaha/status/2108042777556857230) | **Publicado:** Oct 8, 2026
-
----
-### Glitches en el Duelo de Magos de Harry Potter con Seedance
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Comparte una escena de duelo de magos generada con Seedance que muestra a Malfoy contra Ron y Hermione, analizando los fallos de la IA y la calidad del trabajo de cámara.
-
-#### 📝 Prompt
-
-```
-Hermione ataca desde el frente mientras Ron flanquea; Malfoy se apresura a contrarrestar, lo que permite a Ron arrebatarle la bandera blanca de su espalda, convirtiendo la situación en una persecución frenética sin un ganador claro aún.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107818284699779073/img/pnMAKn8U89a8V3BJ.jpg" width="600" alt="Glitches en el Duelo de Magos de Harry Potter con Seedance">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12118)**
-
-**Autor:** [零崎業萌](https://x.com/zerozakiyamo) | **Fuente:** [Link](https://x.com/zerozakiyamo/status/2107819839847010747) | **Publicado:** Oct 7, 2026
-
----
-### Prompt de Escena de Persecución Urbana para Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt detallado para la generación de video con Seedance 2.0, que presenta una escena de persecución cinematográfica con consistencia de personaje y directrices ambientales específicas.
-
-#### 📝 Prompt
-
-```
-[Configuración Básica]
-Crea un cortometraje de persecución urbana moderna de 30 segundos, en formato horizontal 16:9, con calidad de acción real.
-La historia transcurre en un antiguo distrito industrial de una gran ciudad de la Costa Este de EE. UU., durante la hora azul después del atardecer. Una tenue luz cálida permanece en el horizonte, mientras las calles y edificios han adoptado los colores más fríos de la noche.
-La protagonista femenina hace referencia estricta a la imagen proporcionada de la general rosa: una mujer adulta rubia, conservando el mismo rostro, largas trenzas doradas, túnicas grises y rosas de estilo chino, armadura metálica antigua y una lanza rosa con borlas rojas.
-Es perseguida por dos oficiales de policía estadounidenses uniformados, navegando continuamente por obstáculos callejeros, trepando escaleras de emergencia, realizando un salto con pértiga desde la azotea de un edificio alto usando su lanza para cruzar un hueco estrecho entre edificios adyacentes, luego saltando sobre un tren de carga en movimiento para ganar distancia. Después, abandona el tren, atraviesa un callejón de servicio detrás del edificio y entra corriendo en una tienda de ropa.
-Tras entrar en la tienda, corta inmediatamente al siguiente plano: la misma protagonista ha cambiado a ropa casual cotidiana de una joven estadounidense, llevando una gorra de béisbol, saliendo tranquilamente de la puerta de la tienda, conservando aún sus largas trenzas doradas. Finalmente, mira a la cámara y guiña un ojo de forma natural y juguetona.
-No muestres ningún proceso de cambio dentro de la tienda. Los primeros 26 segundos son para la persecución, los saltos y la entrada en la tienda; los últimos 4 segundos son para salir de la tienda tras cambiarse y el guiño.
-La primera mitad es tensa y emocionante, el final es ligero e ingenioso. No expliques su trasfondo ni la razón de la persecución policial. No hay arquería, arcos, cuerdas de tracción, dispositivos de winche ni ataques de sombra en toda la película.
-
-[Entorno Urbano y Ruta de Escape]
-La escena es una zona industrial antigua ficticia en una ciudad de EE. UU., mezclando almacenes de ladrillo rojo, apartamentos antiguos, escaleras de emergencia externas de acero, equipos de ventilación en azoteas y pequeñas tiendas callejeras. Coches, camiones de caja y vehículos de recolección de basura están estacionados a ambos lados de la carretera. En la intersección, hay señales de tráfico en inglés, un hidrante rojo, postes de luz metálicos y pasos de cebra descoloridos.
-Toda la ruta de escape conecta espacialmente:
-Huecos estrechos entre la calle y los vehículos estacionados → Canales de carga/descarga fuera del almacén → Escaleras de emergencia de acero y plataformas de mantenimiento → Azoteas de edificios industriales altos adyacentes → Techos inferiores cerca de vías férreas elevadas → Techo del tren de carga → Plataforma fija de mantenimiento y escaleras descendentes → Callejón de servicio detrás del edificio → Tienda de ropa frente a la calle.
-El salto con pértiga ocurre en las azoteas de dos edificios industriales altos adyacentes. Establece una sensación de altura mediante la calle debajo, las ventanas de la fachada y las escaleras de emergencia externas. El hueco entre los dos edificios es adecuado para un salto con pértiga cinematográfico, ligeramente más estrecho que cruzar una calle ancha. La azotea opuesta está ligeramente más baja.
-El segundo edificio tiene techos escalonados conectados, con el techo cercano a la vía férrea solo ligeramente más alto que el techo del camión. Usa planos breves y acción continua para mostrar a la protagonista corriendo desde el punto alto hacia el techo inferior; no puede aparecer instantáneamente junto al tren desde la cima del edificio alto.
-La vía férrea es una línea secundaria industrial sin cables aéreos. El tren pasa a velocidad moderada, sin obstrucciones continuas en el techo. La plataforma fija de mantenimiento está a la altura del techo del tren y conecta con escaleras descendentes.
-El callejón de servicio detrás del edificio conduce directamente a la tienda de ropa ubicada en la calle principal.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2107762351541989376/img/urF1j9XjdVcAsMJY.jpg" width="600" alt="Prompt de Escena de Persecución Urbana para Seedance 2.0">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12119)**
-
-**Autor:** [探路AI](https://x.com/TanLuAI) | **Fuente:** [Link](https://x.com/TanLuAI/status/2107763438747521348) | **Publicado:** Oct 7, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -4160,6 +4131,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-31T04:36:58.264Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-31T14:39:36.877Z</sub>
 
 </div>
