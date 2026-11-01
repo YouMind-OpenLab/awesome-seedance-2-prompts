@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6620** |
+| 📝 Tổng số prompt | **6624** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-11-01** |
 
@@ -361,6 +361,82 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Video cải tạo sàn Terrazzo Jelly Bean
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video cải tạo thực tế với kẹo jelly bean rải trên sàn, phủ nhựa epoxy để tạo hiệu ứng terrazzo nhiều màu sắc, kết thúc bằng bố trí nội thất phòng ngủ.
+
+#### 📝 Prompt
+
+```
+Một người đàn ông mặc quần yếm denim xanh và áo phông xám đang cào một núi kẹo jelly beans đủ màu khổng lồ trên nền sàn trống của căn phòng trắng sáng, không có đồ đạc gì, với khung cửa sổ lớn ngập nắng. Anh rải đều những viên kẹo ra xung quanh thành một lớp phẳng hoàn hảo phủ kín cả mặt sàn. Tiếp đó, một người phụ nữ mặc quần yếm đỏ đổ nhựa epoxy trắng bóng đặc sệt từ một chiếc xô lớn lên trên lớp kẹo, dòng chất lỏng trắng đục chảy tràn và lan rộng cho đến khi bao phủ kín mít từng viên jelly beans từ mép này sang mép kia. Sau đó, một công nhân mặc áo bảo hộ màu vàng kéo thanh gạt sàn bản rộng lướt qua bề mặt rồi đánh bóng bằng máy chà sàn, để lộ ra một mặt sàn trong suốt bóng loáng như gương với hàng ngàn viên kẹo rực rỡ sắc màu lơ lửng bên trong tựa như nền terrazzo đầy màu sắc. Cuối cùng, hai người thợ chuyển nhà mặc áo thun đen và đội mũ lưỡi trai khiêng vào một khung giường gỗ, lắp ráp rồi trải nệm, gối trắng và bộ ga giường màu kem, hoàn thiện một phòng ngủ ấm cúng ngay trên nền sàn kẹo ngọt. Ánh nắng ấm áp xuyên qua khung cửa sổ, những vệt phản chiếu nhảy múa trên bề mặt sàn bóng bẩy, chân thực như ảnh chụp, góc máy liền mạch mượt mà, video biến hình cải tạo không gian cực kỳ mãn nhãn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116534129743282176/img/4h_0ekgG8AglI3M-.jpg" width="600" alt="Video cải tạo sàn Terrazzo Jelly Bean">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13293)**
+
+**Tác giả:** [Ruslan Ai](https://x.com/Ruslanchain) | **Nguồn:** [Link](https://x.com/Ruslanchain/status/2116534169773723824) | **Đã xuất bản:** Oct 31, 2026
+
+---
+### Video Sơn Cửa Gương Crom Lỏng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video DIY chân thực, trong đó một người đàn ông sơn cửa nội thất bằng sơn crom lỏng, biến nó thành bề mặt gương phản chiếu hoàn hảo.
+
+#### 📝 Prompt
+
+```
+Video dọc chân thực như ảnh chụp, bối cảnh nội thất ngôi nhà hiện đại ngập tràn ánh sáng. Một người đàn ông mặc áo thun xám ôm dáng, quần jeans xanh và đeo đồng hồ thông minh đang quỳ trên tấm bạt nhựa có viền băng keo vàng. Anh nhúng cây cọ sơn lớn màu vàng đen vào thùng sơn chrome lỏng đặc sánh đang mở nắp, mắt liếc nhìn chiếc smartphone. Cận cảnh cực đại: lớp sơn bạc nóng chảy từ từ nhỏ giọt từ đầu lông cọ xuống thùng sơn gợn sóng, mặt nước lấp lánh như gương. Chuyển cảnh sang cánh cửa nội thất màu trắng sáu ô: bàn tay anh lướt cọ qua một ô cửa, chất chrome lỏng lan ra tạo thành bề mặt gương phản chiếu hoàn hảo không tì vết, mỗi đường cọ mượt mà lại phủ thêm một vùng diện tích mới. Các cảnh quay liên tiếp cho thấy từng ô cửa, thanh đố và mép cạnh lần lượt được sơn, cho đến khi toàn bộ cánh cửa sáng bóng như kim loại đánh bóng, phản chiếu đèn trần và không gian căn phòng xung quanh. Cảnh rộng cuối cùng: cánh cửa đã hoàn thiện trở thành một tấm gương hoàn hảo, soi rõ hình ảnh người đàn ông đang cầm điện thoại và cọ sơn, chiếc camera trên chân máy cùng hành lang phía sau lưng anh. Màn biến hóa DIY đầy thỏa mãn, ánh sáng ban ngày tự nhiên, chi tiết sắc nét, hiệu ứng phản chiếu kim loại chân thực, góc máy cầm tay vững vàng với những cú zoom chậm dần vào từng đường cọ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116533216941101056/img/yCgCLf7sk1HLopxM.jpg" width="600" alt="Video Sơn Cửa Gương Crom Lỏng">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13292)**
+
+**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2116533263543984512) | **Đã xuất bản:** Oct 31, 2026
+
+---
+### Biến Hóa Sàn Nhựa Epoxy Hình Hoa Hướng Dương
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video dọc thỏa mãn thị giác, mô tả từng bước thi công sàn nhựa epoxy hình hoa hướng dương trong phòng ngủ.
+
+#### 📝 Prompt
+
+```
+Video dọc quay trong một căn phòng trống sáng sủa với những bức tường trắng, một khung cửa sổ lớn và sàn gỗ thô chưa qua xử lý. Một người đàn ông mặc quần yếm xanh dương, đeo găng tay bảo hộ lao động đang cào một đống hoa hướng dương tươi lớn, dùng những đường quét mượt mà để rải đều chúng khắp mặt sàn cho đến khi cả căn phòng ngập tràn sắc hoa. Tiếp đó, hai người phụ nữ mặc quần yếm đỏ xách những chiếc xô trắng, đổ lớp nhựa epoxy trắng đặc sánh lên trên đám hoa hướng dương; chất lỏng lan tỏa ra xung quanh và từ từ nhấn chìm những bông hoa. Kế tiếp, một công nhân mặc áo phản quang dùng máy chà sàn xoay đánh bóng bề mặt đã đông cứng, làm lộ ra lớp sàn nhựa trong suốt bóng loáng với những bông hoa hướng dương rực rỡ được lưu giữ bên trong, tựa như một cánh đồng hoa đóng băng dưới lớp kính. Cuối cùng, hai người phụ nữ khiêng vào một bộ khung giường gỗ, đặt nệm, trải chăn và gối màu trắng, rồi kê thêm tủ đầu giường cùng những chiếc đèn tỏa ánh sáng ấm áp. Video kết thúc bằng cú lia máy chậm rãi lướt qua căn phòng ngủ ấm cúng vừa hoàn thiện, ánh nắng chan hòa xuyên qua khung cửa sổ, mặt sàn hoa hướng dương phẳng lì như gương phản chiếu hình ảnh chiếc giường. Phong cách chân thực, chuyển động máy quay mượt mà, quá trình biến đổi từng bước đầy thỏa mãn, ánh sáng tự nhiên ban ngày rực rỡ, độ chi tiết cao.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116426390618697728/img/vsk1exATGuXDM7K5.jpg" width="600" alt="Biến Hóa Sàn Nhựa Epoxy Hình Hoa Hướng Dương">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13295)**
+
+**Tác giả:** [Ruslan Ai](https://x.com/Ruslanchain) | **Nguồn:** [Link](https://x.com/Ruslanchain/status/2116426434025504817) | **Đã xuất bản:** Oct 31, 2026
+
+---
+### Video sàn phòng ngủ terrazzo từ dừa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video cải tạo biến đống dừa và nước cốt dừa thành sàn terrazzo phong cách cho phòng ngủ chủ đề nhiệt đới.
+
+#### 📝 Prompt
+
+```
+Video dọc quay bên trong một căn phòng trống với những bức tường trắng và khung cửa sổ lớn nhìn ra hàng cọ nhiệt đới xanh mướt. Một người đàn ông mặc quần yếm denim đang cào đống lớn gồm hàng trăm quả dừa nâu, rải đều chúng khắp nền bê tông trần cho đến khi tạo thành một lớp dày đặc. Tiếp đó, một người phụ nữ mặc quần yếm đỏ đổ nước cốt dừa trắng kem sánh mịn từ một chiếc xô lớn, làm ngập sàn nhà và phủ kín những quả dừa bằng một lớp trắng muốt mượt mà. Kế đến, một công nhân mặc áo phản quang màu vàng đẩy máy mài và đánh bóng sàn, mài nhẵn bề mặt đã đông cứng để lộ ra nền terrazzo bóng loáng được khảm từ những lát cắt ngang của quả dừa. Cuối cùng, hai người thợ chuyển đồ mặc đồng phục đen khiêng khung giường gỗ vào, đặt nệm lên và trải ga giường cùng gối trắng tinh tươm. Video kết thúc bằng cảnh hé lộ một phòng ngủ sáng sủa, đầy phong cách, nổi bật với nền terrazzo dừa đánh bóng độc đáo đang phản chiếu ánh sáng từ khung cửa sổ. Chuyển cảnh mượt mà chân thực, ánh sáng ban ngày tự nhiên, phong cách biến đổi công trình đầy thỏa mãn, chi tiết chân thực như ảnh chụp.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116425489967411200/img/eISADImu1dHFuzRh.jpg" width="600" alt="Video sàn phòng ngủ terrazzo từ dừa">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13294)**
+
+**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2116425542874378504) | **Đã xuất bản:** Oct 31, 2026
+
+---
 ### Hài kịch từ bữa tối lãng mạn đến món ăn khuya
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3956,130 +4032,6 @@ Tạo một đoạn phim giả tưởng thời trung cổ siêu thực, kinh ph�
 **Tác giả:** [Ayat](https://x.com/aiwithaayat) | **Nguồn:** [Link](https://x.com/aiwithaayat/status/2109123171408560343) | **Đã xuất bản:** Oct 11, 2026
 
 ---
-### Prompt Vlog Làng Ven Biển Hàn Quốc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết để tạo một vlog phong cách sống điện ảnh dài 30 giây, quay cảnh một cô gái trẻ đi bộ qua ngôi làng ven biển truyền thống của Hàn Quốc lúc hoàng hôn, nhấn mạnh vào chuyển động và ánh sáng chân thực.
-
-#### 📝 Prompt
-
-```
-Tạo một vlog phong cách sống điện ảnh siêu chân thực dài 30 giây, với hình ảnh một cô gái Hàn Quốc trẻ trung xinh đẹp, trang điểm tự nhiên, tóc đen dài buộc đuôi ngựa. Cô mặc áo khoác màu kem rộng rãi, quần màu be, giày thể thao trắng, đeo túi xách vai màu nâu, tay cầm điện thoại thông minh và một chiếc túi giấy nhỏ màu nâu.
-
-Cảnh 1 (0–5 giây): Bắt đầu bằng góc máy toàn cảnh rộng của một ngôi làng ven biển truyền thống tại Hàn Quốc. Cô gái bước ra khỏi một ngôi nhà cổ trong làng trong khi đang kiểm tra điện thoại. Những lối đi hẹp lát đá, cánh cửa gỗ cũ kỹ, chậu hoa và kiến trúc mộc mạc tạo nên bầu không khí chân thực.
-
-Cảnh 2 (5–10 giây): Quay từ phía sau khi cô chậm rãi đi qua con hẻm làng hẹp. Cô nhận thấy một chiếc diều cầu vồng nhiều màu sắc tựa vào hàng rào, dừng lại ngắm nhìn và nhẹ nhàng đưa tay về phía nó. Tóc và áo khoác rộng của cô bay phấp phới tự nhiên trong gió biển.
-
-Cảnh 3 (10–17 giây): Ghi lại các cận cảnh và trung cảnh tự nhiên khi cô tiếp tục đi bộ qua khu phố yên bình. Cho thấy cô cầm điện thoại và túi giấy, đi ngang qua những ngôi nhà cũ, tường đá, cây nở hoa và các chi tiết thú vị của làng quê. Sử dụng chuyển động camera cầm tay tinh tế và độ sâu trường ảnh chân thực.
-
-Cảnh 4 (17–24 giây): Chuyển sang lối đi ven biển tuyệt đẹp bên đại dương. Camera theo dõi từ phía sau khi cô đi dọc theo con đường lát đá, với những tảng đá núi lửa tối màu và sóng vỗ nhẹ ở một bên, cùng những ngôi nhà làng truyền thống ở bên kia. Túi xách vai đung đưa tự nhiên theo mỗi bước chân.
-
-Cảnh 5 (24–30 giây): Kết thúc bằng cảnh quay điện ảnh rộng của cô gái đi về phía hoàng hôn rực rỡ bên bờ biển. Ánh nắng vàng chiếu sáng mái tóc và chiếc áo khoác màu kem của cô. Đại dương phản chiếu ánh sáng ấm áp của buổi chiều tà khi cô chậm lại để ngắm cảnh, tạo nên một kết thúc bình yên, đẹp đẽ và đầy hoài niệm.
-
-Phong cách hình ảnh: Phim phong cách sống Hàn Quốc siêu thực, ánh sáng giờ vàng tự nhiên, tông màu ấm dịu nhẹ, bầu không khí làng ven biển chân thực, kết cấu da thật, các cú tracking shot cầm tay nhẹ nhàng, chuyển động camera tự nhiên, chất lượng 4K, tốc độ khung hình 24 FPS, bố cục điện ảnh, chuyển động và vật lý con người chân thực.
-
-Âm thanh: Tiếng sóng biển tự nhiên, gió biển nhẹ nhàng, tiếng bước chân trên đường đá và âm thanh môi trường làng quê tinh tế. Không có nhạc nền, không có lời kể, không có phụ đề, không có văn bản, không có logo và không có watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109121015112667136/img/fLkLHTsqM6vemF7q.jpg" width="600" alt="Prompt Vlog Làng Ven Biển Hàn Quốc">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12302)**
-
-**Tác giả:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Nguồn:** [Link](https://x.com/ayzalnooor24521/status/2109121097803374790) | **Đã xuất bản:** Oct 11, 2026
-
----
-### Prompt Video Hài Tiên Hiệp Cho Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt chi tiết để tạo video hài hước tiên hiệp dài 10 giây với hai nhân vật, được thiết kế riêng cho khả năng tạo đa cảnh và âm thanh không gian của Seedance 2.0. Bao gồm khóa nhân vật, mô tả cảnh, hội thoại và các ràng buộc tiêu cực.
-
-#### 📝 Prompt
-
-```
-Video 10 giây. [Phong cách] Hài kịch tiên hiệp thơ mộng với cú twist bất ngờ kiểu mặt lạnh (deadpan), kết cấu điện ảnh chân thực độ phân giải cao, bố cục không gian kiến trúc cổ điển Trung Hoa, biểu diễn tiết chế, sương núi mát mẻ, ánh sáng viền buổi chiều ấm áp, tông màu ngọc bích và ngà voi bão hòa thấp, hạt phim mịn; hoàn thiện cú twist qua tường thuật âm thanh "thiết lập-lừa dối-bất ngờ ngoài khung hình". Được thiết kế cho tính năng khóa ảnh tham chiếu, tạo liên tục đa cảnh và đồng bộ hóa âm thanh không gian của Seedance 2.0. Chỉ có hai nhân vật xuất hiện trong suốt video, xây dựng một thế giới cổ đại Trung Hoa thuần túy không có yếu tố hiện đại.
-
-[Nhân vật]
-Nhân vật A được khóa chặt bằng @Image 1: Cùng một sư tỷ kiếm tiên Đông Á tuổi 25-30, khuôn mặt trái xoan, da trắng, mắt hạnh đen, tóc đen nửa buộc cố định bằng trâm ngọc trắng, dáng người cao gầy, mặc Hán phục lụa thêu trắng, tay áo rộng nhiều lớp bán trong suốt, thắt lưng bạc, ngọc bội và giày vải trắng.
-Nhân vật B được khóa chặt bằng @Image 2: Cùng một sư muội Đông Á tuổi 20-25, khuôn mặt tròn sống động, tóc đen tết bím, dáng người nhỏ nhắn, mặc Hán phục vải lanh xanh lục nhạt, thắt lưng vải tối màu, trâm gỗ và giày vải đen.
-
-[Cảnh 1 | 0-3s | Góc quay thấp toàn cảnh di chuyển ngang]
-Một đài đá tĩnh lặng của môn phái trên biển mây. Lan can đá, bức tường vang vọng cổ, chín chuông đồng treo, thông cổ cuộn xoắn, dải cầu nguyện bay phấp phới trong gió và mái ngói xa xăm thiết lập mối quan hệ không gian ổn định rõ ràng. Sư tỷ kiếm tiên mặc Hán phục lụa thêu trắng đứng cạnh sư muội áo xanh, thận trọng nhìn quanh với vẻ tự tin sẵn sàng chia sẻ bí mật; gió núi nhẹ nhàng lay động tóc, tay áo, dải cầu nguyện và sương mù.
-
-[Cảnh 2 | 3-6s | Cận cảnh trung hai người]
-Sư tỷ giơ hai ngón tay, tạo ấn truyền âm nhỏ tại miệng và thì thầm: "Ta kể ngươi nghe một bí mật, đêm qua sư phụ đã ăn ba miếng bánh hoa quế." Một sóng âm thanh mỏng màu xanh nhạt bay chính xác đến tai sư muội; cô ấy ngay lập tức mở to mắt, lấy tay che miệng, cố gắng kìm nén tiếng cười.
-
-[Cảnh 3 | 6-10s | Cận cảnh theo dõi tiết lộ đến cận cảnh cực gần]
-Cùng một sóng âm đó không dừng lại kịp lúc, vượt qua sư muội và va vào bức tường vang vọng cổ, sau đó bật lần lượt qua chín chuông đồng, lan tỏa những lời thì thầm thành tiếng vang lớn khắp thung lũng: "Đêm qua sư phụ đã ăn ba miếng bánh hoa quế—" Chín chuông đồng rung lên lần lượt, chim trên mái ngói xa giật mình bay tán loạn. Từ hướng chính đường vang lên tiếng ho nhẹ của một trưởng lão vô hình, tiếp theo là câu hỏi bình thản: "Ai đã ăn miếng thứ tư?" Sư tỷ và sư muội cùng lúc đông cứng. Cận cảnh cực gần: Hai ngón tay giơ lên của sư tỷ từ từ co lại, một bên lông mày khẽ giật, cô ấy lặng lẽ nhìn sư muội; má sư muội phồng lên rõ rệt. Kết thúc bằng một tiếng nuốt nước bọt rất nhẹ đầy tội lỗi.
-
-[Yêu cầu kỹ thuật]
-Tổng thời lượng nghiêm ngặt 10 giây, khung hình ngang 16:9, ba cảnh rõ ràng, hội thoại tiếng Quan Thoại bản địa, khớp môi chính xác, lời thì thầm có hướng di chuyển rõ ràng, các lớp tiếng vang chuông đồng tách biệt, khuôn mặt và trang phục nhân vật ổn định, hướng chuyển động mạch lạc. Sương núi, lụa, tóc, chuông đồng, dải cầu nguyện và sóng âm thanh di chuyển tự nhiên. Không tạo phụ đề, không thêm nhân vật hiển thị bổ sung.
-
-[Từ tiêu cực]
-blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background glitching cuts, disappearing props
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108920849994821632/img/FVH4RLpzE6YKZlgi.jpg" width="600" alt="Prompt Video Hài Tiên Hiệp Cho Seedance 2.0">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12305)**
-
-**Tác giả:** [superfang119](https://x.com/superfang119) | **Nguồn:** [Link](https://x.com/superfang119/status/2108921025098584072) | **Đã xuất bản:** Oct 10, 2026
-
----
-### Sinh vật len đan đi trên mái nhà mưa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bài viết so sánh chia sẻ một prompt cụ thể được sử dụng trên nhiều mô hình video AI, bao gồm Seedance 2.5, với hình ảnh sinh vật len đan trên mái nhà.
-
-#### 📝 Prompt
-
-```
-một sinh vật nhỏ bằng len đan với ba mắt cúc áo và cánh tay dài như sợi mì kiễng chân đi qua mái nhà neon sáng đèn trong đêm mưa, dừng lại, nhìn thẳng vào camera, rồi mở ra một chiếc ô mini làm từ lá cây
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108687552165359616/img/UJcNTYyE79TlkLNe.jpg" width="600" alt="Sinh vật len đan đi trên mái nhà mưa">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12263)**
-
-**Tác giả:** [Korpi AI](https://x.com/KorpiAi) | **Nguồn:** [Link](https://x.com/KorpiAi/status/2108687594913738792) | **Đã xuất bản:** Oct 9, 2026
-
----
-### Cảnh hoạt hình đám mây cho trẻ em
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo hoạt hình ngắn về một đứa trẻ chơi với đám mây, so sánh kết quả từ Seedance 2.0 và Muse Spark 1.3.
-
-#### 📝 Prompt
-
-```
-Cảnh 1 (0-5 giây)
-Hình ảnh: Một đứa trẻ nhỏ đứng trên cánh đồng xanh mướt, ngước nhìn bầu trời xanh trong. Một đám mây trắng nhỏ, mềm mại trôi xuống ngay trước mặt em.
-Lời kể/Chữ hiển thị: "Xin chào, đám mây nhỏ!"
-Âm thanh: Tiếng chuông gió nhẹ nhàng và tiếng cười khúc khích vui vẻ.
-
-Cảnh 2 (6-10 giây)
-Hình ảnh: Đám mây biến thành một chiếc đệm mềm mại, đàn hồi. Đứa trẻ nhảy lên đám mây, và nó từ từ nâng em lên khỏi mặt đất một chút.
-Lời kể/Chữ hiển thị: "Cùng chơi nhé!"
-Âm thanh: Tiếng nảy nhẹ nhàng và nhạc nền vui tươi.
-
-Cảnh 3 (11-15 giây)
-Hình ảnh: Đám mây nhẹ nhàng đặt đứa trẻ trở lại trên cỏ, rắc vài giọt mưa lấp lánh li ti, và để lại một cầu vồng mini tuyệt đẹp khi vẫy tay tạm biệt.
-Lời kể/Chữ hiển thị: "Hẹn gặp lại vào ngày mai, bạn mây bông của tôi."
-Âm thanh: Tiếng leng keng kỳ ảo dần biến mất.
-
-Phong cách: hoạt hình 3D cao cấp lấy cảm hứng từ Pixar, thiết kế nhân vật đáng yêu, biểu cảm khuôn mặt sinh động, hiệu ứng nước chân thực, thảm thực vật nhiệt đới xanh tốt, chuyển động máy quay điện ảnh, màu sắc rực rỡ, ánh sáng tự nhiên dịu nhẹ, chi tiết bề mặt tinh tế, hoạt cảnh nhân vật mượt mà, các góc quay rộng mang tính điện ảnh xen kẽ cận cảnh, chuyển cảnh liền mạch, tỷ lệ khung hình 16:9, chất lượng 4K. Giữ nguyên sự nhất quán về hình ảnh của cậu bé và đám mây xuyên suốt. Không có chữ, không phụ đề, không watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108653898302926848/img/Td-PgupWPBozkfAq.jpg" width="600" alt="Cảnh hoạt hình đám mây cho trẻ em">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12238)**
-
-**Tác giả:** [Neo-phyte](https://x.com/Deadmeatz) | **Nguồn:** [Link](https://x.com/Deadmeatz/status/2108654687151145239) | **Đã xuất bản:** Oct 9, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -4141,6 +4093,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-01T04:50:55.742Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-01T15:05:56.815Z</sub>
 
 </div>

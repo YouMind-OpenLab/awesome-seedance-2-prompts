@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6620** |
+| 📝 Toplam İstem | **6624** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-11-01** |
 
@@ -361,6 +361,82 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Jelly Bean Terrazzo Zemin Yenileme Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Zemine jelly bean'lerin serpilip epoksi reçine ile kaplanarak renkli bir terrazzo efekti oluşturulduğu ve yatak odası mobilya kurulumuyla sonlanan gerçekçi bir yenileme videosu üretmek için istem.
+
+#### 📝 İstem
+
+```
+Mavi kot tulum ve gri tişört giyen bir adam, büyük güneşli bir penceresi olan aydınlık, boş beyaz bir odanın çıplak zemininde devasa bir renkli jelibon dağını tırmıkla yayarak şekerleri tüm zemini kaplayacak şekilde kusursuz ve eşit bir tabaka halinde dağıtıyor. Ardından kırmızı tulumlu bir kadın, büyük bir kovadan şekerlerin üzerine yoğun, parlak beyaz epoksi reçine döküyor; sütsü sıvı akıp yayılarak jelibonları uçtan uca tamamen kaplıyor. Daha sonra sarı güvenlik yeleği giyen bir işçi, geniş bir çekçekle yüzeyi düzeltiyor ve bir zemin cilalama makinesiyle parlatarak içinde binlerce canlı rengin asılı kaldığı, renkli bir terrazzo gibi görünen ayna parlaklığında şeffaf bir zemini ortaya çıkarıyor. Son olarak siyah tişört ve şapka giyen iki nakliyeci ahşap bir karyola iskeletini içeri taşıyıp kuruyor, üzerine bir yatak, beyaz yastıklar ve krem rengi nevresim takımı yerleştirerek bu şeker zeminin üzerinde sıcacık bir yatak odasını tamamlıyor. Pencereden süzülen sıcak güneş ışığı, cilalı yüzeyde dans eden yansımalar, fotogerçekçi, kesintisiz akıcı çekimler, tatmin edici bir yenileme dönüşüm videosu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116534129743282176/img/4h_0ekgG8AglI3M-.jpg" width="600" alt="Jelly Bean Terrazzo Zemin Yenileme Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13293)**
+
+**Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2116534169773723824) | **Yayınlandı:** Oct 31, 2026
+
+---
+### Sıvı Krom Ayna Kapı Boyama Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir erkeğin iç kapıyı sıvı krom boya ile boyayarak onu mükemmel yansıtıcı bir ayna yüzeyine dönüştürdüğü, fotogerçekçi DIY videosu oluşturmak için bir istem.
+
+#### 📝 İstem
+
+```
+Aydınlık ve modern bir ev iç mekanında dikey, fotogerçekçi video. Üzerinde vücuda oturan gri bir tişört, mavi kot pantolon ve akıllı saat bulunan bir adam, kenarları sarı bantla çevrili plastik bir koruyucu örtünün üzerine diz çökmüş; elindeki büyük sarı-siyah fırçayı yoğun kıvamlı sıvı krom dolu açık bir kutuya daldırırken bir yandan da akıllı telefonuna göz atıyor. Aşırı yakın çekim: Erimiş gümüş rengi boya, fırça kıllarından yavaşça süzülerek dalgalanan, ayna gibi parlayan kutunun içine geri damlıyor. Görüntü beyaz, altı panelli bir iç kapıya geçiyor: Adamın eli fırçayı panelin üzerinde gezdirirken sıvı krom kusursuz, yansıtıcı bir ayna yüzeyine dönüşüyor; her pürüzsüz darbeyle daha geniş bir alan kaplanıyor. Ardışık çekimlerde paneller, dikey çerçeveler ve kenarlar boyanıyor; ta ki tüm kapı cilalı metal gibi parlayana, tavan lambalarını ve etrafındaki odayı yansıtmaya başlayana kadar. Son geniş açı çekimi: Tamamlanan kapı kusursuz bir aynaya dönüşmüş; adamın elindeki telefonu ve fırçasını, tripod üzerindeki kamerayı ve arkasındaki koridoru net bir şekilde yansıtıyor. Tatmin edici bir "kendin yap" (DIY) dönüşümü, doğal gün ışığı, keskin dokular, gerçekçi metalik yansımalar; fırça darbelerine doğru yavaşça yaklaşan sabit bir el kamerası.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116533216941101056/img/yCgCLf7sk1HLopxM.jpg" width="600" alt="Sıvı Krom Ayna Kapı Boyama Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13292)**
+
+**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2116533263543984512) | **Yayınlandı:** Oct 31, 2026
+
+---
+### Aydın Çekirdeği Epoksi Reçine Zemin Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yatak odasında aydın çekirdeği reçine zemininin adım adım oluşturulmasını gösteren tatmin edici bir dikey video üretmek için bir istem.
+
+#### 📝 İstem
+
+```
+Beyaz duvarları, büyük bir penceresi ve ham ahşap alt döşemesi olan aydınlık, boş bir odada çekilmiş dikey video. Mavi tulumlu ve iş eldivenli bir adam, taze ayçiçeklerinden oluşan büyük bir yığını tırmıkla alıyor; pürüzsüz süpürme hareketleriyle onları tüm zemine eşit şekilde yayarak odanın tamamını çiçeklerle kaplıyor. Ardından kırmızı tulumlu iki kadın beyaz kovalarla gelip ayçiçeklerinin üzerine yoğun, kremamsı beyaz epoksi reçine döküyor; sıvı dışa doğru yayılarak çiçekleri yavaşça içine gömüyor. Sonrasında fosforlu yelekli bir işçi, sertleşmiş yüzeyi döner zemin makinesiyle parlatıyor ve camın altında donmuş bir tarlayı andıran, içine canlı ayçiçekleri hapsedilmiş parlak, şeffaf reçine bir zemin ortaya çıkıyor. Son olarak iki kadın ahşap bir yatak iskeletini içeri taşıyor, yatağı yerleştiriyor, beyaz bir nevresim ve yastıkları seriyor, ardından yanlara sıcak ışıklı lambaların olduğu komodinleri ekliyor. Video, tamamlanmış bu sıcak yatak odasında yapılan yavaş bir kamera kaydırmasıyla sona eriyor; güneş ışığı pencereden süzülürken ayna gibi parlayan ayçiçeği zemin yatağı yansıtıyor. Gerçekçi tarz, akıcı kamera hareketi, tatmin edici adım adım dönüşüm, parlak doğal gün ışığı, yüksek detay.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116426390618697728/img/vsk1exATGuXDM7K5.jpg" width="600" alt="Aydın Çekirdeği Epoksi Reçine Zemin Dönüşümü">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13295)**
+
+**Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2116426434025504817) | **Yayınlandı:** Oct 31, 2026
+
+---
+### Hindistan Cevizi Terrazzo Yatak Odası Zemin Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir yığın hindistan cevizi ve hindistan cevizi sütünü, tropikal temalı bir yatak odası için şık bir terrazzo zemine dönüştüren bir yenileme videosu oluşturmak için istem.
+
+#### 📝 İstem
+
+```
+Beyaz duvarları ve yemyeşil tropikal palmiye ağaçlarına bakan büyük bir penceresi olan boş bir odada çekilmiş dikey video. Kot tulum giyen bir adam, yüzlerce kahverengi hindistan cevizinden oluşan devasa bir yığını tırmıkla yayarak çıplak beton zemin üzerinde eşit şekilde dağıtıyor ve yoğun bir tabaka oluşturana kadar seriyor. Ardından kırmızı tulumlu bir kadın, büyük bir kovadan koyu kıvamlı, kremamsı beyaz hindistan cevizi sütünü dökerek zemini kaplıyor ve hindistan cevizlerinin üzerini pürüzsüz beyaz bir katmanla örtüyor. Sonrasında sarı fosforlu yelek giyen bir işçi, zemin taşlama ve cilalama makinesini iterek sertleşmiş yüzeyi zımparalıyor ve dilimlenmiş hindistan cevizi kesitleriyle bezeli parlak bir terrazzo zemini ortaya çıkarıyor. En sonunda siyah üniformalı iki nakliyeci ahşap bir karyola iskeletini içeri taşıyor, üzerine bir yatak yerleştiriyor ve tertemiz beyaz çarşaflar ile yastıklarla yatağı hazırlıyor. Video, pencereden gelen ışığı yansıtan benzersiz cilalı hindistan cevizli terrazzo zeminin ön plana çıktığı aydınlık ve şık bir yatak odası görüntüsüyle sona eriyor. Akıcı ve gerçekçi geçişler, doğal gün ışığı, tatmin edici inşaat dönüşümü tarzı, fotogerçekçi detaylar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116425489967411200/img/eISADImu1dHFuzRh.jpg" width="600" alt="Hindistan Cevizi Terrazzo Yatak Odası Zemin Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13294)**
+
+**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2116425542874378504) | **Yayınlandı:** Oct 31, 2026
+
+---
 ### Romantik Akşam Yemeğinden Gece Yarısı Atıştırmalığına Komedi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3936,130 +4012,6 @@ Uzun, gevşek kahverengi saçlı; tarihsel olarak ilham veren koyu kahverengi de
 **Yazar:** [Ayat](https://x.com/aiwithaayat) | **Kaynak:** [Link](https://x.com/aiwithaayat/status/2109123171408560343) | **Yayınlandı:** Oct 11, 2026
 
 ---
-### Koreli Kıyı Köyü Vlog İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gün batımında geleneksel bir Kore kıyı köyünde yürüyen genç bir kadını konu alan, gerçekçi hareket ve ışıklandırmaya vurgu yapan 30 saniyelik sinematik yaşam tarzı vlog'u oluşturmak için detaylı bir istem.
-
-#### 📝 İstem
-
-```
-Doğal makyajlı, uzun koyu saçları at kuyruğu yapılmış güzel genç bir Koreli kadının yer aldığı, 30 saniyelik ultra-gerçekçi sinematik bir yaşam tarzı vlog'u oluşturun. Üzerinde bol kesim krem rengi bir ceket, bej pantolon ve beyaz spor ayakkabılar var; omzunda kahverengi bir çanta, elinde ise akıllı telefonu ve küçük kahverengi bir kağıt torba taşıyor.
-
-Sahne 1 (0–5 saniye): Geleneksel bir Kore kıyı köyünün geniş açılı kurulum çekimiyle başlayın. Kız, telefonunu kontrol ederken eski bir köy evinden dışarı adım atıyor. Dar taş patikalar, yıpranmış ahşap kapılar, saksı çiçekleri ve rustik mimari otantik bir atmosfer yaratıyor.
-
-Sahne 2 (5–10 saniye): Onu dar köy sokağında yavaşça yürürken arkadan takip edin. Bir çite yaslanmış renkli gökkuşağı uçurtmasını fark ediyor, durup ona bakıyor ve nazikçe uzanıyor. Saçları ve bol ceketi deniz melteminde doğal bir şekilde dalgalanıyor.
-
-Sahne 3 (10–17 saniye): Huzurlu mahallede yürümeye devam ederken doğal yakın plan ve orta plan çekimler yapın. Elinde telefon ve kağıt torbayla tutarken eski evlerin, taş duvarların, çiçekli bitkilerin ve sevimli köy detaylarının yanından geçişini gösterin. Hafif el kamerası hareketleri ve gerçekçi alan derinliği kullanın.
-
-Sahne 4 (17–24 saniye): Okyanusun yanındaki güzel bir kıyı yürüyüş yoluna geçiş yapın. Kamera onu arkadan takip ederken taş yolda yürüyor; bir tarafta koyu volkanik kayalar ve hafif dalgalar, diğer tarafta geleneksel köy evleri var. Omuz çantası her adımda doğal olarak sallanıyor.
-
-Sahne 5 (24–30 saniye): Kızın deniz kenarında parlayan gün batımına doğru yürüdüğü geniş sinematik bir çekimle bitirin. Altın rengi güneş ışığı saçlarını ve krem rengi ceketini aydınlatıyor. Manzarayı hayranlıkla izlemek için yavaşladığında okyanus sıcak akşam ışığını yansıtıyor, bu da sakin, güzel ve nostaljik bir son oluşturuyor.
-
-Görsel stil: Fotogerçekçi Kore yaşam tarzı filmi, doğal altın saat ışığı, sıcak soluk renkler, otantik kıyı köyü atmosferi, gerçekçi cilt dokusu, nazik el takibi çekimleri, doğal kamera hareketi, 4K kalite, 24 FPS, sinematik kompozisyon, gerçekçi insan hareketi ve fizik.
-
-Ses: Doğal okyanus dalgaları, yumuşak deniz meltemi, taş yoldaki ayak sesleri ve ince köy ambiyansı. Arka plan müziği yok, anlatıcı yok, altyazı yok, metin yok, logo yok ve filigran yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109121015112667136/img/fLkLHTsqM6vemF7q.jpg" width="600" alt="Koreli Kıyı Köyü Vlog İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12302)**
-
-**Yazar:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Kaynak:** [Link](https://x.com/ayzalnooor24521/status/2109121097803374790) | **Yayınlandı:** Oct 11, 2026
-
----
-### Seedance 2.0 için Xianxia Komedi Video İstemi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0'nın çoklu çekim üretimi ve uzamsal ses özelliklerine özel olarak tasarlanmış, iki karakterli 10 saniyelik bir Xianxia (kültivasyon) komedi videosu oluşturmak için detaylı bir istem. Karakter kilitleme, sahne açıklamaları, diyaloglar ve negatif kısıtlamalar içerir.
-
-#### 📝 İstem
-
-```
-10 saniyelik video. [Stil] Şiirsel Xianxia soğuk kanlı ters köşe komedisi, gerçekçi yüksek çözünürlüklü sinematik doku, klasik Çin mimari mekansal kompozisyon, ölçülü performans, serin dağ sisi, sıcak akşam kenar ışığı, düşük doygunlukta yeşim yeşili ve fildişi tonları, ince film greni; "kurulum-yanıltma-sahne dışı sürpriz" ses anlatısıyla ters köşeyi tamamlar. Seedance 2.0'ın referans görüntü kilitleme, çoklu çekim sürekli üretim ve senkronize uzamsal ses özellikleri için tasarlanmıştır. Tüm sahnede yalnızca iki görünür karakter yer alır, modern unsurlar içermeyen saf antik Çin dünyası kurulur.
-
-[Karakterler]
-Karakter A @Image 1 kullanılarak kesinlikle kilitlenmiştir: Aynı 25-30 yaşlarında Doğu Asyalı kılıç ölümsüz abla, oval yüz, beyaz ten, koyu kayısı rengi gözler, siyah saçların yarısı beyaz yeşim tokayla toplanmış, uzun ve zarif yapılı, beyaz işlemeli ipek Hanfu giyiyor, katmanlı yarı saydam geniş kolluklar, gümüş bel mührü, yeşim kolye ve beyaz bez çizmeler.
-Karakter B @Image 2 kullanılarak kesinlikle kilitlenmiştir: Aynı 20-25 yaşlarında Doğu Asyalı kız kardeş, yuvarlak canlı yüz, siyah örgü saçlar, minyon yapılı, camgöbeği keten Hanfu giyiyor, koyu renk bez kemer, ahşap tokak ve siyah bez ayakkabılar.
-
-[Çekim 1 | 0-3s | Düşük açı panoramik yan takip]
-Bulut denizi üzerinde sessiz bir tarikat taş platformu. Taş korkuluklar, eski bir yankı duvarı, dokuz asılı bronz çan, kıvrılmış çam ağaçları, rüzgarda dalgalanan dua şeritleri ve uzak kiremit çatılar net ve kararlı bir mekansal ilişki kurar. Beyaz işlemeli ipek Hanfu giyen kılıç ölümsüz abla, camgöbeği renkli kız kardeşinin yanında duruyor, gizli bir sır paylaşmaya hazır kendinden emin bir ifadeyle etrafına temkinli bakıyor; dağ esintisi saçlarını, kollarını, şeritleri ve sisi hafifçe hareket ettiriyor.
-
-[Çekim 2 | 3-6s | İki kişilik orta plan]
-Abla iki parmağını kaldırır, ağzında küçük bir ses iletim mührü oluşturur ve fısıldar: "Sana bir sır vereyim, Usta dün gece üç parça osmanthus keki yedi." İnce açık mavi bir ses dalgası tam olarak kız kardeşin kulağına gider; o an gözlerini kocaman açar, elini ağzına kapatır, gülmemek için kendini zor tutar.
-
-[Çekim 3 | 6-10s | Yakın plan takiple ortaya çıkıştan aşırı yakın plana]
-Aynı ses dalgası zamanında durmaz, kız kardeşi geçer ve eski yankı duvarına çarpar, ardından dokuz bronz çandan sırayla seker ve fısıldanan sözleri vadiye büyük bir yankı olarak yayılır: "Usta dün gece üç parça osmanthus keki yedi—" Dokuz bronz çan sırayla titreşir, uzak çatı sırtlarındaki kuşlar ürküp dağılır. Ana salon yönünden görünmez bir büyüğün hafif öksürüğü gelir, ardından sakin bir soru: "Dördüncü parçayı kim yedi?" Abla ve kız kardeş aynı anda donup kalır. Aşırı yakın plan: Ablanın kaldırdığı iki parmağı yavaşça kıvrılır, bir kaşı hafifçe seğirir, sessizce kız kardeşe bakar; kız kardeşin yanakları belirgin şekilde şişer. Çok hafif, suçlu bir yutkunma sesiyle biter.
-
-[Teknik Gereksinimler]
-Kesin toplam süre 10 saniye, 16:9 yatay format, üç net çekim, ana dil Mandarin diyalog, doğru dudak senkronizasyonu, fısıldanan sözcüklerde net yönlü hareket, bronz çan yankı katmanları ayırt edici, karakterlerin yüzleri ve kıyafetleri stabil, hareket yönleri tutarlı. Dağ sisi, ipek kumaş, saçlar, bakır çanlar, dua şeritleri ve ses dalgaları doğal hareket eder. Altyazı üretilmez, ek görünür karakter eklenmez.
-
-[Negatif Kelimeler]
-bulanık, kötü kalite, düşük kalite, düşük çözünürlük, gürültülü, jpeg artefaktları, filigran, metin, hata; deforme, mutasyona uğramış, kötü anatomi, kötü çizilmiş eller, kötü kompozisyon, kadraj dışı, bozuk; tutarsız karakter, değişen kıyafetler, yüz morfini, arka plan glitch kesmeleri, kaybolan aksesuarlar
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108920849994821632/img/FVH4RLpzE6YKZlgi.jpg" width="600" alt="Seedance 2.0 için Xianxia Komedi Video İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12305)**
-
-**Yazar:** [superfang119](https://x.com/superfang119) | **Kaynak:** [Link](https://x.com/superfang119/status/2108921025098584072) | **Yayınlandı:** Oct 10, 2026
-
----
-### Örgü Yaratığın Yağmurlu Çatı Yürüyüşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.5 dahil olmak üzere çeşitli AI video modellerinde kullanılan belirli bir istemi paylaşan karşılaştırma gönderisi; yağmurlu bir çatıda örgü bir yaratık içeriyor.
-
-#### 📝 İstem
-
-```
-Üç düğme gözü ve uzun noodle kolları olan minik örgü yün yaratık, gece neon ışıklarıyla aydınlatılmış yağmurlu bir çatıda parmak uçlarında yürüyor, duruyor, doğrudan kameraya bakıyor ve yapraklardan yapılmış mini şemsiyesini açıyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108687552165359616/img/UJcNTYyE79TlkLNe.jpg" width="600" alt="Örgü Yaratığın Yağmurlu Çatı Yürüyüşü">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12263)**
-
-**Yazar:** [Korpi AI](https://x.com/KorpiAi) | **Kaynak:** [Link](https://x.com/KorpiAi/status/2108687594913738792) | **Yayınlandı:** Oct 9, 2026
-
----
-### Çocuk Animasyonu Bulut Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir çocuğun bulutla oynadığı kısa bir animasyon oluşturmak için kullanılan prompt; Seedance 2.0 ve Muse Spark 1.3 sonuçlarının karşılaştırması.
-
-#### 📝 İstem
-
-```
-Sahne 1 (0-5 saniye)
-Görsel: Küçük bir çocuk yeşil bir çayırda duruyor, parlak mavi gökyüzüne bakıyor. Minik, pamuk gibi beyaz bir bulut tam önlerine doğru süzülüyor.
-Anlatım/Metin: "Merhaba küçük bulut!"
-Ses: Hafif rüzgar çanları ve mutlu bir kıkırdama.
-
-Sahne 2 (6-10 saniye)
-Görsel: Bulut yumuşak, zıplayan bir yastık şekline dönüşür. Çocuk bulutun üzerine atlar ve bulut onu yavaşça yerden hafifçe kaldırır.
-Anlatım/Metin: "Hadi birlikte oynayalım!"
-Ses: Yumuşak zıplama sesleri ve neşeli müzik.
-
-Sahne 3 (11-15 saniye)
-Görsel: Bulut çocuğu nazikçe çimlere bırakır, birkaç minik, parlayan damlacık serper ve veda ederken arkasında güzel bir mini gökkuşağı bırakır.
-Anlatım/Metin: "Yarın görüşürüz, tüylü arkadaşım."
-Ses: Kaybolan sihirli bir çınlama sesi.
-
-Stil: premium Pixar tarzı 3D animasyon, sevimli karakter tasarımları, ifade dolu yüzler, gerçekçi su fiziği, yemyeşil tropikal bitki örtüsü, sinematik kamera hareketleri, canlı renkler, yumuşak doğal güneş ışığı, detaylı dokular, akıcı karakter animasyonu, geniş sinematik çekimler ve yakın planların karışımı, kusursuz sahne geçişleri, 16:9 en-boy oranı, 4K kalite. Erkek çocuğu ve bulutu tüm sahneler boyunca görsel olarak tutarlı tutun. Metin yok, altyazı yok, filigran yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108653898302926848/img/Td-PgupWPBozkfAq.jpg" width="600" alt="Çocuk Animasyonu Bulut Sahnesi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12238)**
-
-**Yazar:** [Neo-phyte](https://x.com/Deadmeatz) | **Kaynak:** [Link](https://x.com/Deadmeatz/status/2108654687151145239) | **Yayınlandı:** Oct 9, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -4121,6 +4073,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-01T04:51:06.906Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-01T15:06:08.467Z</sub>
 
 </div>

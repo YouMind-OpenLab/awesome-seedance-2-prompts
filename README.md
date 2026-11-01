@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6620** |
+| 📝 Total Prompts | **6624** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-11-01** |
 
@@ -365,11 +365,87 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Romantic Dinner to Midnight Snack Comedy
+### Jelly Bean Terrazzo Floor Renovation Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for creating a high-quality 3D animated comedy video featuring a couple's romantic dinner followed by a humorous midnight food-craving adventure at home.
+> A prompt for generating a realistic renovation video where jelly beans are spread on the floor and covered with epoxy resin to create a colorful terrazzo effect, ending with bedroom furniture setup.
+
+#### 📝 Prompt
+
+```
+A man in blue denim overalls and a gray t-shirt rakes a huge mountain of colorful jelly beans across the bare floor of a bright empty white room with a large sunny window, spreading the candy outward into a perfectly even layer that covers the whole floor. Next, a woman in red overalls pours thick glossy white epoxy resin from a big bucket over the candy, the milky liquid flowing and spreading until it completely covers the jelly beans edge to edge. A worker in a yellow safety vest then drags a wide squeegee across the surface and buffs it with a floor polishing machine, revealing a mirror-glossy transparent floor with thousands of vivid candies suspended inside like colorful terrazzo. Finally, two movers in black shirts and caps carry in a wooden bed frame, assemble it, and dress it with a mattress, white pillows and cream bedding, finishing a cozy bedroom above the candy floor. Warm sunlight streams through the window, reflections dance on the polished surface, photorealistic, smooth continuous shots, satisfying renovation transformation video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116534129743282176/img/4h_0ekgG8AglI3M-.jpg" width="600" alt="Jelly Bean Terrazzo Floor Renovation Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13293)**
+
+**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116534169773723824) | **Published:** Oct 31, 2026
+
+---
+### Liquid Chrome Mirror Door Painting Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a photorealistic DIY video where a man paints an interior door with liquid chrome paint, transforming it into a perfect reflective mirror surface.
+
+#### 📝 Prompt
+
+```
+Vertical photorealistic video in a bright modern home interior. A man in a fitted gray t-shirt, blue jeans and a smartwatch kneels on a plastic drop cloth bordered with yellow tape, dipping a large yellow-and-black paintbrush into an open can of thick liquid chrome while glancing at his smartphone. Extreme close-up: molten silver paint drips slowly off the bristles back into the rippling mirror-like can. Cut to a white six-panel interior door: his hand sweeps the brush across a panel and the liquid chrome spreads into a flawless reflective mirror finish, each smooth stroke coating more surface. Sequential shots show the panels, stiles and edges being painted until the entire door gleams like polished metal, reflecting ceiling lights and the room around it. Final wide shot: the completed door is a perfect mirror showing the man holding his phone and brush, a camera on a tripod and the hallway behind him. Satisfying DIY transformation, natural daylight, crisp textures, realistic metallic reflections, steady handheld camera with slow push-ins on the brush strokes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116533216941101056/img/yCgCLf7sk1HLopxM.jpg" width="600" alt="Liquid Chrome Mirror Door Painting Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13292)**
+
+**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116533263543984512) | **Published:** Oct 31, 2026
+
+---
+### Sunflower Epoxy Resin Floor Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a satisfying vertical video showing the step-by-step creation of a sunflower resin floor in a bedroom.
+
+#### 📝 Prompt
+
+```
+Vertical video in a bright empty room with white walls, a large window and a raw wooden subfloor. A man in blue overalls and work gloves rakes a big pile of fresh sunflowers, spreading them evenly across the entire floor with smooth sweeping motions until the whole room is covered in blooms. Two women in red overalls then carry white buckets and pour thick creamy white epoxy resin over the sunflowers, the liquid flowing outward and slowly submerging the flowers. Next, a worker in a high-visibility vest polishes the hardened surface with a rotary floor machine, revealing a glossy clear resin floor with vivid sunflowers embedded inside like a field frozen under glass. Finally, two women carry in a wooden bed frame, place the mattress, spread a white duvet and pillows, and add nightstands with warm lamps. The video ends with a slow pan across the finished cozy bedroom, sunlight streaming through the window, the mirror-like sunflower floor reflecting the bed. Realistic style, smooth camera movement, satisfying step-by-step transformation, bright natural daylight, high detail.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116426390618697728/img/vsk1exATGuXDM7K5.jpg" width="600" alt="Sunflower Epoxy Resin Floor Transformation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13295)**
+
+**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116426434025504817) | **Published:** Oct 31, 2026
+
+---
+### Coconut Terrazzo Bedroom Floor Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for creating a renovation video that turns a pile of coconuts and coconut milk into a stylish terrazzo floor for a tropical-themed bedroom.
+
+#### 📝 Prompt
+
+```
+Vertical video inside an empty room with white walls and a large window overlooking lush tropical palm trees. A man in denim overalls rakes a huge pile of hundreds of brown coconuts, spreading them evenly across the bare concrete floor until they form a dense layer. A woman in red overalls then pours thick creamy white coconut milk from a large bucket, flooding the floor and covering the coconuts in a smooth white layer. Next, a worker in a yellow high-visibility vest pushes a floor grinding and polishing machine, sanding the hardened surface to reveal a glossy terrazzo floor embedded with sliced coconut cross sections. Finally, two movers in black uniforms carry in a wooden bed frame, place a mattress, and dress the bed with crisp white sheets and pillows. The video ends with a bright, stylish bedroom reveal showcasing the unique polished coconut terrazzo floor reflecting light from the window. Smooth realistic transitions, natural daylight, satisfying construction transformation style, photorealistic detail.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116425489967411200/img/eISADImu1dHFuzRh.jpg" width="600" alt="Coconut Terrazzo Bedroom Floor Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13294)**
+
+**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116425542874378504) | **Published:** Oct 31, 2026
+
+---
+### Romantic Dinner to Midnight Food Adventure
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a cinematic 3D animated comedy video featuring a couple's transition from a fancy dinner to a funny midnight snack binge.
 
 #### 📝 Prompt
 
@@ -377,7 +453,7 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 Create a high-quality, cinematic 3D animated comedy video featuring a cute young couple enjoying a romantic dinner at an elegant luxury restaurant. The handsome young man wears a stylish black tuxedo, while the beautiful girl wears a glamorous black evening gown with her hair tied in an elegant bun. They sit together at a beautifully decorated table with warm golden lighting, enjoying a delicious roasted turkey with crispy fries and vegetables. The girl playfully offers him a bite of food, and they exchange sweet, romantic smiles. After dinner, the couple drives home through a beautiful city at night, with glowing streetlights and charming buildings in the background. The girl arrives at her luxurious home, quietly enters the house, and heads straight to the kitchen. She opens the refrigerator and excitedly grabs a huge roasted turkey, potato chips, chocolates, cookies, burgers, and plenty of delicious snacks. In the next scene, she sits comfortably on a luxurious sofa surrounded by mountains of junk food, happily eating everything with a big smile on her face. End with a wide cinematic shot revealing the entire living room filled with snacks and food, creating a funny and adorable midnight food-craving moment. Use expressive cartoon facial animations, detailed food textures, smooth character movements, realistic lighting, beautiful camera transitions, and premium Pixar-inspired 3D animation quality. Keep the characters' appearance consistent throughout the video, with no character duplication, morphing, or visual glitches.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116402410939953152/img/TVH4s-ff4Ws4U4x-.jpg" width="600" alt="Romantic Dinner to Midnight Snack Comedy">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116402410939953152/img/TVH4s-ff4Ws4U4x-.jpg" width="600" alt="Romantic Dinner to Midnight Food Adventure">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13215)**
 
@@ -3970,130 +4046,6 @@ Create a 15-second ultra-realistic, high-budget medieval fantasy film featuring 
 **Author:** [Ayat](https://x.com/aiwithaayat) | **Source:** [Link](https://x.com/aiwithaayat/status/2109123171408560343) | **Published:** Oct 11, 2026
 
 ---
-### Korean Coastal Village Vlog Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a 30-second cinematic lifestyle vlog featuring a young woman walking through a traditional Korean coastal village at sunset, emphasizing realistic motion and lighting.
-
-#### 📝 Prompt
-
-```
-Create a 30-second ultra-realistic cinematic lifestyle vlog featuring a beautiful young Korean woman with natural makeup and long dark hair tied in a ponytail. She wears a loose cream-colored jacket, beige trousers, white sneakers, and carries a brown shoulder bag while holding her smartphone and a small brown paper bag.
-
-Scene 1 (0–5 seconds): Start with a wide establishing shot of a traditional Korean coastal village. The girl steps out of an old village house while checking her phone. Narrow stone pathways, weathered wooden doors, potted flowers, and rustic architecture create an authentic atmosphere.
-
-Scene 2 (5–10 seconds): Follow her from behind as she walks slowly through the narrow village alley. She notices a colorful rainbow kite leaning against a fence, pauses to look at it, and gently reaches toward it. Her hair and loose jacket move naturally in the sea breeze.
-
-Scene 3 (10–17 seconds): Capture natural close-up and medium shots as she continues walking through the peaceful neighborhood. Show her holding her phone and paper bag, passing old houses, stone walls, flowering plants, and charming village details. Use subtle handheld camera movements and realistic depth of field.
-
-Scene 4 (17–24 seconds): Transition to a beautiful coastal walkway beside the ocean. The camera follows her from behind as she walks along the stone path, with dark volcanic rocks and gentle waves on one side and traditional village houses on the other. Her shoulder bag swings naturally with each step.
-
-Scene 5 (24–30 seconds): End with a wide cinematic shot of the girl walking toward the glowing sunset beside the sea. Golden sunlight illuminates her hair and cream-colored jacket. The ocean reflects the warm evening light as she slows down to admire the view, creating a calm, beautiful, nostalgic ending.
-
-Visual style: Photorealistic Korean lifestyle film, natural golden-hour lighting, warm muted colors, authentic coastal village atmosphere, realistic skin texture, gentle handheld tracking shots, natural camera movement, 4K quality, 24 FPS, cinematic composition, realistic human motion and physics.
-
-Audio: Natural ocean waves, soft sea breeze, footsteps on the stone path, and subtle village ambience. No background music, no narration, no subtitles, no text, no logos, and no watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109121015112667136/img/fLkLHTsqM6vemF7q.jpg" width="600" alt="Korean Coastal Village Vlog Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12302)**
-
-**Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2109121097803374790) | **Published:** Oct 11, 2026
-
----
-### Xianxia Comedy Video Prompt for Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed prompt for generating a 10-second Xianxia (cultivation) comedy video with two characters, designed specifically for Seedance 2.0's multi-shot generation and spatial audio capabilities. Includes character locks, scene descriptions, dialogue, and negative constraints.
-
-#### 📝 Prompt
-
-```
-10-second video. [Style] Poetic Xianxia deadpan reversal comedy, realistic high-definition cinematic texture, classical Chinese architectural spatial composition, restrained performance, cool mountain mist, warm evening rim lighting, low-saturation jade green and ivory tones, fine film grain; completes the reversal through "setup-misdirection-off-screen twist" sound narrative. Designed for Seedance 2.0's reference image locking, multi-shot continuous generation, and synchronized spatial audio. Only two visible characters appear throughout, establishing a pure ancient Chinese world with no modern elements.
-
-[Characters]
-Character A strictly locked using @Image 1: The same 25-30 year old East Asian sword immortal senior sister, oval face, fair skin, dark apricot eyes, black hair half-tied secured with a white jade hairpin, tall and slender figure, wearing white embroidered silk Hanfu, layered semi-transparent wide sleeves, silver waist seal, jade pendant, and white cloth boots.
-Character B strictly locked using @Image 2: The same 20-25 year old East Asian junior sister, round lively face, black braided hair, petite figure, wearing cyan-green linen Hanfu, dark cloth belt, wooden hairpin, and black cloth shoes.
-
-[Shot 1 | 0-3s | Low-angle panoramic lateral tracking]
-A quiet sect stone platform above the sea of clouds. Stone railings, an ancient echo wall, nine hanging bronze bells, coiled ancient pines, prayer strips fluttering in the wind, and distant tiled roofs establish a clear stable spatial relationship. The sword immortal senior sister in white embroidered silk Hanfu stands beside the cyan-robed junior sister, cautiously looking around with a confident expression ready to share a secret; mountain breeze gently moves their hair, sleeves, strips, and mist.
-
-[Shot 2 | 3-6s | Two-person medium shot]
-The senior sister raises two fingers, forms a small voice-transmission seal at her mouth, and whispers: "I'll tell you a secret, Master ate three pieces of osmanthus cake last night." A thin light-blue sound wave flies precisely to the junior sister's ear; she instantly widens her eyes, covers her mouth with her hand, struggling to hold back laughter.
-
-[Shot 3 | 6-10s | Close-up following reveal to extreme close-up]
-The same sound wave doesn't stop in time, passes over the junior sister and hits the ancient echo wall, then bounces sequentially through the nine bronze bells, spreading the whispered words as a huge echo across the valley: "Master ate three pieces of osmanthus cake last night—" The nine bronze bells vibrate in sequence, birds on distant roof ridges startle and scatter. From the main hall direction comes a light cough from an invisible elder, followed by a calm question: "Who ate the fourth piece?" The senior and junior sisters freeze simultaneously. Extreme close-up: The senior sister's raised two fingers slowly curl, one eyebrow twitches slightly, she silently looks at the junior sister; the junior sister's cheeks puff out visibly. Ends with a very light, guilty swallowing sound.
-
-[Technical Requirements]
-Strict total duration 10 seconds, 16:9 landscape, three clear shots, native Mandarin dialogue, accurate lip-sync, whispered words have clear directional movement, bronze bell echo layers are distinct, character faces and clothing remain stable, motion directions are coherent. Mountain mist, silk fabric, hair, copper bells, prayer strips, and sound waves move naturally. No subtitles generated, no additional visible characters added.
-
-[Negative Words]
-blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background glitching cuts, disappearing props
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108920849994821632/img/FVH4RLpzE6YKZlgi.jpg" width="600" alt="Xianxia Comedy Video Prompt for Seedance 2.0">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12305)**
-
-**Author:** [superfang119](https://x.com/superfang119) | **Source:** [Link](https://x.com/superfang119/status/2108921025098584072) | **Published:** Oct 10, 2026
-
----
-### Knitted Wool Creature Rainy Rooftop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comparison post testing five video models (including Seedance 2.0) with the same prompt about a tiny knitted wool creature tiptoeing on a rainy neon rooftop. The prompt is explicitly shared in the text.
-
-#### 📝 Prompt
-
-```
-a tiny knitted wool creature with three button eyes and long noodle arms tiptoes across a rainy neon-lit rooftop at night, stops, looks straight at the camera, and pops open a miniature umbrella made from a leaf
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108687552165359616/img/UJcNTYyE79TlkLNe.jpg" width="600" alt="Knitted Wool Creature Rainy Rooftop">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12263)**
-
-**Author:** [Korpi AI](https://x.com/KorpiAi) | **Source:** [Link](https://x.com/KorpiAi/status/2108687594913738792) | **Published:** Oct 9, 2026
-
----
-### Kid Animation Cloud Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a short animation of a child playing with a cloud, comparing results from Seedance 2.0 and Muse Spark 1.3.
-
-#### 📝 Prompt
-
-```
-Scene 1 (0-5 seconds)
-Visual: A small child stands in a green field, looking up at a bright blue sky. A tiny, fluffy white cloud floats down right in front of them.
-Narration/Text: "Hello, little cloud!"
-Sound: Gentle wind chimes and a happy giggle.
-
-Scene 2 (6-10 seconds)
-Visual: The cloud shapes itself into a soft, bouncy cushion. The child jumps onto the cloud, and it slowly lifts them slightly off the ground.
-Narration/Text: "Let's play together!"
-Sound: Soft bouncing sounds and cheerful music.
-
-Scene 3 (11-15 seconds)
-Visual: The cloud gently places the child back on the grass, sprinkles a few tiny, sparkling raindrops, and leaves a beautiful mini rainbow as it waves goodbye.
-Narration/Text: "See you tomorrow, my fluffy friend."
-Sound: A magical twinkling sound fading out.
-
-Style: premium Pixar-inspired 3D animation, adorable character designs, expressive faces, realistic water physics, lush tropical vegetation, cinematic camera movements, vibrant colors, soft natural sunlight, detailed textures, smooth character animation, wide cinematic shots mixed with close-ups, seamless scene transitions, 16:9 aspect ratio, 4K quality. Keep the boy and cloud visually consistent throughout. No text, no subtitles, no watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108653898302926848/img/Td-PgupWPBozkfAq.jpg" width="600" alt="Kid Animation Cloud Scene">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12238)**
-
-**Author:** [Neo-phyte](https://x.com/Deadmeatz) | **Source:** [Link](https://x.com/Deadmeatz/status/2108654687151145239) | **Published:** Oct 9, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -4155,6 +4107,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-01T04:50:48.272Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-01T15:05:48.714Z</sub>
 
 </div>

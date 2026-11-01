@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6620** |
+| 📝 Total de prompts | **6624** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-11-01** |
 
@@ -361,6 +361,82 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Vídeo de Renovação de Piso Terrazzo com Balas Jelly Bean
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar um vídeo realista de renovação onde balas de goma Jelly Bean são espalhadas no chão e cobertas com resina epóxi para criar um efeito terrazzo colorido, terminando com a configuração dos móveis do quarto.
+
+#### 📝 Prompt
+
+```
+Um homem de macacão jeans azul e camiseta cinza espalha com um ancinho uma montanha enorme de jujubas coloridas pelo chão nu de uma sala branca, vazia e iluminada, com uma grande janela ensolarada, distribuindo os doces para fora até formar uma camada perfeitamente uniforme que cobre todo o piso. Em seguida, uma mulher de macacão vermelho despeja resina epóxi branca, espessa e brilhante, de um balde grande sobre os doces; o líquido leitoso escorre e se espalha até cobrir completamente as jujubas, de ponta a ponta. Um operário de colete de segurança amarelo passa então um rodo largo pela superfície e faz o polimento com uma enceradeira, revelando um piso transparente com brilho de espelho e milhares de doces vibrantes suspensos no interior, como um terrazzo colorido. Por fim, dois carregadores de camisetas e bonés pretos trazem uma estrutura de cama de madeira, montam-na e preparam-na com um colchão, travesseiros brancos e roupa de cama creme, concluindo um quarto aconchegante sobre o piso de doces. A luz quente do sol entra pela janela, os reflexos dançam na superfície polida, fotorrealista, planos contínuos e suaves, vídeo satisfatório de transformação e reforma.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116534129743282176/img/4h_0ekgG8AglI3M-.jpg" width="600" alt="Vídeo de Renovação de Piso Terrazzo com Balas Jelly Bean">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13293)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2116534169773723824) | **Publicado:** Oct 31, 2026
+
+---
+### Vídeo de Pintura de Porta com Efeito Espelho Cromado Líquido
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar um vídeo DIY fotorrealista onde um homem pinta uma porta interna com tinta cromada líquida, transformando-a em uma superfície espelhada perfeitamente reflexiva.
+
+#### 📝 Prompt
+
+```
+Vídeo vertical fotorrealista no interior de uma casa moderna e bem iluminada. Um homem vestindo camiseta cinza ajustada, jeans azul e smartwatch está ajoelhado sobre uma lona plástica delimitada por fita amarela, mergulhando um pincel grande amarelo e preto em uma lata aberta de cromo líquido espesso enquanto dá uma olhada no smartphone. Close-up extremo: a tinta prateada fundida escorre lentamente das cerdas de volta para a lata, que ondula como um espelho. Corte para uma porta interna branca de seis painéis: a mão dele desliza o pincel por um dos painéis e o cromo líquido se espalha, criando um acabamento espelhado impecável e reflexivo, com cada passada suave cobrindo mais superfície. Planos sequenciais mostram os painéis, as travessas e as bordas sendo pintados até que a porta inteira brilhe como metal polido, refletindo as luzes do teto e o ambiente ao redor. Plano aberto final: a porta pronta funciona como um espelho perfeito, mostrando o homem segurando o celular e o pincel, uma câmera em um tripé e o corredor atrás dele. Transformação DIY satisfatória, luz natural do dia, texturas nítidas, reflexos metálicos realistas, câmera na mão estável com aproximações lentas nas pinceladas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116533216941101056/img/yCgCLf7sk1HLopxM.jpg" width="600" alt="Vídeo de Pintura de Porta com Efeito Espelho Cromado Líquido">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13292)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2116533263543984512) | **Publicado:** Oct 31, 2026
+
+---
+### Transformação de Piso com Resina Epóxi e Girassol
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar um vídeo vertical satisfatório mostrando a criação passo a passo de um piso de resina epóxi com girassóis em um quarto.
+
+#### 📝 Prompt
+
+```
+Vídeo vertical num quarto vazio e luminoso, com paredes brancas, uma janela grande e um soalho de madeira em bruto. Um homem vestido com um macacão azul e luvas de trabalho junta com um ancinho uma grande pilha de girassóis frescos, espalhando-os uniformemente por todo o chão com movimentos suaves e contínuos, até que a sala inteira fique coberta de flores. De seguida, duas mulheres de macacão vermelho transportam baldes brancos e despejam uma resina epóxi branca, espessa e cremosa, sobre os girassóis; o líquido espalha-se lentamente, submergindo as flores aos poucos. Depois, um trabalhador com colete refletor faz o polimento da superfície endurecida com uma máquina rotativa de pavimentos, revelando um piso de resina transparente e brilhante, com girassóis vibrantes incrustados no interior, como um campo congelado sob vidro. Por fim, duas mulheres trazem uma estrutura de cama em madeira, colocam o colchão, estendem um edredão branco e almofadas, e acrescentam mesas de cabeceira com candeeiros de luz quente. O vídeo termina com um movimento lento da câmara pelo quarto acolhedor já pronto, com a luz do sol a entrar pela janela e o piso de girassóis, semelhante a um espelho, a refletir a cama. Estilo realista, movimentos de câmara fluidos, transformação passo a passo satisfatória, luz natural intensa, elevado nível de detalhe.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116426390618697728/img/vsk1exATGuXDM7K5.jpg" width="600" alt="Transformação de Piso com Resina Epóxi e Girassol">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13295)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2116426434025504817) | **Publicado:** Oct 31, 2026
+
+---
+### Vídeo de Piso de Terrazzo de Coco para Quarto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para criar um vídeo de reforma que transforma uma pilha de cocos e leite de coco em um elegante piso de terrazzo para um quarto com tema tropical.
+
+#### 📝 Prompt
+
+```
+Vídeo vertical dentro de uma sala vazia com paredes brancas e uma grande janela com vista para exuberantes palmeiras tropicais. Um homem de macacão jeans usa um ancinho para espalhar uma enorme pilha de centenas de cocos marrons, distribuindo-os uniformemente pelo chão de concreto nu até formarem uma camada densa. Em seguida, uma mulher de macacão vermelho despeja um leite de coco branco, espesso e cremoso a partir de um balde grande, inundando o piso e cobrindo os cocos com uma camada branca e lisa. Depois, um operário com colete amarelo de alta visibilidade empurra uma máquina de lixar e polir pisos, desbastando a superfície endurecida para revelar um brilhante piso de terrazzo com fatias transversais de coco incrustadas. Por fim, dois carregadores de uniforme preto trazem uma estrutura de cama de madeira, colocam o colchão e arrumam a cama com lençóis e travesseiros brancos impecáveis. O vídeo termina com a revelação de um quarto claro e estiloso, destacando o exclusivo piso de terrazzo de coco polido que reflete a luz da janela. Transições suaves e realistas, luz natural do dia, estilo satisfatório de transformação de obra, detalhes fotorrealistas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116425489967411200/img/eISADImu1dHFuzRh.jpg" width="600" alt="Vídeo de Piso de Terrazzo de Coco para Quarto">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13294)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2116425542874378504) | **Publicado:** Oct 31, 2026
+
+---
 ### Comédia do Jantar Romântico ao Lanche da Meia-Noite
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3957,130 +4033,6 @@ Crie um filme de fantasia medieval ultra-realista e com alto orçamento de 15 se
 **Autor:** [Ayat](https://x.com/aiwithaayat) | **Fonte:** [Link](https://x.com/aiwithaayat/status/2109123171408560343) | **Publicado:** Oct 11, 2026
 
 ---
-### Prompt de Vlog de Vila Costeira Coreana
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar um vlog cinematográfico de estilo de vida de 30 segundos, destacando uma jovem caminhando por uma tradicional vila costeira coreana ao pôr do sol, com ênfase em movimento e iluminação realistas.
-
-#### 📝 Prompt
-
-```
-Crie um vlog cinematográfico ultra-realista de estilo de vida com 30 segundos de duração, apresentando uma bela jovem coreana com maquiagem natural e cabelos longos e escuros presos em um rabo de cavalo. Ela veste um casaco largo na cor creme, calças bege, tênis brancos e carrega uma bolsa marrom no ombro, enquanto segura seu smartphone e uma pequena sacola de papel marrom.
-
-Cena 1 (0–5 segundos): Comece com uma tomada ampla de estabelecimento de uma tradicional vila costeira coreana. A garota sai de uma antiga casa da vila enquanto verifica o celular. Caminhos estreitos de pedra, portas de madeira desgastadas pelo tempo, flores em vasos e arquitetura rústica criam uma atmosfera autêntica.
-
-Cena 2 (5–10 segundos): Siga-a por trás enquanto ela caminha lentamente pelo beco estreito da vila. Ela percebe uma pipa colorida em formato de arco-íris encostada em uma cerca, pausa para olhar e estende a mão suavemente em sua direção. Seus cabelos e o casaco largo se movem naturalmente com a brisa do mar.
-
-Cena 3 (10–17 segundos): Capture close-ups naturais e planos médios enquanto ela continua caminhando pelo bairro tranquilo. Mostre-a segurando o celular e a sacola de papel, passando por casas antigas, muros de pedra, plantas floridas e detalhes charmosos da vila. Use movimentos sutis de câmera na mão e profundidade de campo realista.
-
-Cena 4 (17–24 segundos): Transição para um belo caminho à beira-mar. A câmera a segue por trás enquanto ela caminha pela trilha de pedra, com rochas vulcânicas escuras e ondas suaves de um lado e casas tradicionais da vila do outro. Sua bolsa no ombro balança naturalmente a cada passo.
-
-Cena 5 (24–30 segundos): Termine com uma tomada cinematográfica ampla da garota caminhando em direção ao pôr do sol brilhante à beira-mar. A luz dourada do sol ilumina seus cabelos e o casaco na cor creme. O oceano reflete a luz quente do entardecer enquanto ela desacelera para admirar a vista, criando um final calmo, bonito e nostálgico.
-
-Estilo visual: Filme de estilo de vida coreano fotorrealista, iluminação natural da hora dourada, cores quentes e suaves, atmosfera autêntica de vila costeira, textura de pele realista, planos de acompanhamento suaves com câmera na mão, movimento natural de câmera, qualidade 4K, 24 FPS, composição cinematográfica, movimento humano e física realistas.
-
-Áudio: Ondas naturais do oceano, brisa suave do mar, passos na trilha de pedra e ambiente sutil da vila. Sem música de fundo, sem narração, sem legendas, sem texto, sem logotipos e sem marca d'água.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109121015112667136/img/fLkLHTsqM6vemF7q.jpg" width="600" alt="Prompt de Vlog de Vila Costeira Coreana">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12302)**
-
-**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fonte:** [Link](https://x.com/ayzalnooor24521/status/2109121097803374790) | **Publicado:** Oct 11, 2026
-
----
-### Prompt de Vídeo Comédia Xianxia para Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt detalhado para gerar um vídeo de comédia Xianxia (cultivo) de 10 segundos com dois personagens, projetado especificamente para as capacidades de geração multi-shot e áudio espacial do Seedance 2.0. Inclui travas de personagem, descrições de cena, diálogos e restrições negativas.
-
-#### 📝 Prompt
-
-```
-Vídeo de 10 segundos. [Estilo] Comédia de reviravolta seca e poética no estilo Xianxia, textura cinematográfica realista em alta definição, composição espacial arquitetônica clássica chinesa, atuação contida, névoa fria da montanha, iluminação de contorno quente ao anoitecer, tons de verde jade e marfim de baixa saturação, granulação fina de filme; completa a reviravolta através da narrativa sonora "configuração-desvio-reviravolta fora de cena". Projetado para o bloqueio de imagem de referência, geração contínua multi-shot e áudio espacial sincronizado do Seedance 2.0. Apenas dois personagens visíveis aparecem durante todo o vídeo, estabelecendo um mundo antigo chinês puro sem elementos modernos.
-
-[Personagens]
-Personagem A estritamente travado usando @Image 1: A mesma irmã sênior imortal espadachim leste-asiática de 25-30 anos, rosto oval, pele clara, olhos cor de damasco escuro, cabelo preto meio preso com um grampo de jade branco, figura alta e esbelta, vestindo Hanfu de seda branca bordada, mangas largas semi-transparentes em camadas, selo de cintura prateado, pingente de jade e botas de tecido branco.
-Personagem B estritamente travado usando @Image 2: A mesma irmã júnior leste-asiática de 20-25 anos, rosto redondo e animado, cabelo preto trançado, figura pequena, vestindo Hanfu de linho verde-ciano, cinto de tecido escuro, grampo de madeira e sapatos de tecido preto.
-
-[Cena 1 | 0-3s | Panorâmica lateral de baixo ângulo com tracking]
-Uma plataforma de pedra silenciosa da seita acima do mar de nuvens. Corrimãos de pedra, uma parede de eco antiga, nove sinos de bronze pendurados, pinheiros antigos retorcidos, tiras de oração tremulando ao vento e telhados de telhas distantes estabelecem uma relação espacial clara e estável. A irmã sênior imortal espadachim em Hanfu de seda branca bordada fica ao lado da irmã júnior de túnica ciano, olhando ao redor cautelosamente com uma expressão confiante pronta para compartilhar um segredo; a brisa da montanha move suavemente seus cabelos, mangas, tiras e a névoa.
-
-[Cena 2 | 3-6s | Plano médio de duas pessoas]
-A irmã sênior levanta dois dedos, forma um pequeno selo de transmissão de voz na boca e sussurra: "Vou te contar um segredo, o Mestre comeu três pedaços de bolo de osmanthus ontem à noite." Uma onda sonora fina azul-clara voa precisamente para o ouvido da irmã júnior; ela instantaneamente arregala os olhos, cobre a boca com a mão, lutando para conter o riso.
-
-[Cena 3 | 6-10s | Close-up seguindo a revelação até extreme close-up]
-A mesma onda sonora não para a tempo, passa por cima da irmã júnior e atinge a parede de eco antiga, então quica sequencialmente pelos nove sinos de bronze, espalhando as palavras sussurradas como um enorme eco pelo vale: "O Mestre comeu três pedaços de bolo de osmanthus ontem à noite—" Os nove sinos de bronze vibram em sequência, pássaros nos cumes dos telhados distantes se assustam e se dispersam. Da direção do salão principal vem uma tosse leve de um ancião invisível, seguida por uma pergunta calma: "Quem comeu o quarto pedaço?" As irmãs sênior e júnior congelam simultaneamente. Extreme close-up: Os dois dedos levantados da irmã sênior lentamente se curvam, uma sobrancelha treme ligeiramente, ela olha silenciosamente para a irmã júnior; as bochechas da irmã júnior incham visivelmente. Termina com um som muito leve e culpado de engolir em seco.
-
-[Requisitos Técnicos]
-Duração total estrita de 10 segundos, formato paisagem 16:9, três cenas claras, diálogo nativo em mandarim, sincronização labial precisa, palavras sussurradas têm movimento direcional claro, camadas de eco dos sinos de bronze são distintas, rostos e roupas dos personagens permanecem estáveis, direções de movimento são coerentes. Névoa da montanha, tecido de seda, cabelo, sinos de cobre, tiras de oração e ondas sonoras se movem naturalmente. Sem legendas geradas, sem adição de personagens visíveis extras.
-
-[Palavras Negativas]
-borrado, má qualidade, baixa qualidade, baixa resolução, ruidoso, artefatos jpeg, marca d'água, texto, erro; deformado, mutante, anatomia ruim, mãos mal desenhadas, má composição, fora do quadro, desfigurado; personagem inconsistente, mudança de roupa, morphing facial, fundo alterado.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108920849994821632/img/FVH4RLpzE6YKZlgi.jpg" width="600" alt="Prompt de Vídeo Comédia Xianxia para Seedance 2.0">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12305)**
-
-**Autor:** [superfang119](https://x.com/superfang119) | **Fonte:** [Link](https://x.com/superfang119/status/2108921025098584072) | **Publicado:** Oct 10, 2026
-
----
-### Criatura de Lã Tricotada Caminhando em Telhado Chuvoso
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Post comparativo compartilhando um prompt específico utilizado em vários modelos de vídeo com IA, incluindo Seedance 2.5, apresentando uma criatura tricotada em um telhado.
-
-#### 📝 Prompt
-
-```
-uma pequena criatura de lã tricotada com três olhos de botão e braços longos como macarrão caminha na ponta dos pés por um telhado chuvoso iluminado por neon à noite, para, olha diretamente para a câmera e abre um guarda-chuva miniatura feito de uma folha
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108687552165359616/img/UJcNTYyE79TlkLNe.jpg" width="600" alt="Criatura de Lã Tricotada Caminhando em Telhado Chuvoso">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12263)**
-
-**Autor:** [Korpi AI](https://x.com/KorpiAi) | **Fonte:** [Link](https://x.com/KorpiAi/status/2108687594913738792) | **Publicado:** Oct 9, 2026
-
----
-### Cena de Nuvem para Animação Infantil
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para gerar uma curta animação de uma criança brincando com uma nuvem, comparando os resultados do Seedance 2.0 e do Muse Spark 1.3.
-
-#### 📝 Prompt
-
-```
-Cena 1 (0-5 segundos)
-Visual: Uma pequena criança está em um campo verde, olhando para cima para um céu azul brilhante. Uma nuvenzinha branca e fofa flutua bem na frente dela.
-Narração/Texto: "Olá, nuvenzinha!"
-Som: Sininhos de vento suaves e uma risadinha feliz.
-
-Cena 2 (6-10 segundos)
-Visual: A nuvem se transforma em uma almofada macia e saltitante. A criança pula na nuvem, e ela a eleva lentamente um pouco acima do chão.
-Narração/Texto: "Vamos brincar juntos!"
-Som: Sons suaves de pulos e música alegre.
-
-Cena 3 (11-15 segundos)
-Visual: A nuvem coloca delicadamente a criança de volta na grama, espalha algumas gotinhas de chuva cintilantes e deixa um lindo mini arco-íris enquanto acena adeus.
-Narração/Texto: "Até amanhã, minha amiga fofinha."
-Som: Um som mágico de cintilação desaparecendo aos poucos.
-
-Estilo: animação 3D premium inspirada na Pixar, designs de personagens adoráveis, rostos expressivos, física realista da água, vegetação tropical exuberante, movimentos de câmera cinematográficos, cores vibrantes, luz natural suave, texturas detalhadas, animação fluida dos personagens, planos abertos cinematográficos misturados com close-ups, transições de cena perfeitas, proporção 16:9, qualidade 4K. Mantenha o menino e a nuvem visualmente consistentes durante toda a cena. Sem texto, sem legendas, sem marca d'água.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108653898302926848/img/Td-PgupWPBozkfAq.jpg" width="600" alt="Cena de Nuvem para Animação Infantil">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12238)**
-
-**Autor:** [Neo-phyte](https://x.com/Deadmeatz) | **Fonte:** [Link](https://x.com/Deadmeatz/status/2108654687151145239) | **Publicado:** Oct 9, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -4142,6 +4094,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-01T04:51:05.524Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-01T15:06:06.862Z</sub>
 
 </div>

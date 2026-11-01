@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6620** |
+| 📝 Total des prompts | **6624** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-11-01** |
 
@@ -361,6 +361,82 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Vidéo de rénovation d'un sol en terrazzo Jelly Bean
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une vidéo de rénovation réaliste où des bonbons Jelly Bean sont étalés sur le sol et recouverts de résine époxy pour créer un effet terrazzo coloré, se terminant par l'aménagement du mobilier de la chambre.
+
+#### 📝 Prompt
+
+```
+Un homme vêtu d'une salopette en jean bleu et d'un t-shirt gris ratisse une immense montagne de jelly beans colorés sur le sol nu d'une pièce blanche, vide et lumineuse, percée d'une grande fenêtre baignée de soleil. Il étale les bonbons vers l'extérieur pour former une couche parfaitement uniforme qui recouvre l'intégralité du sol. Ensuite, une femme en salopette rouge verse une épaisse résine époxy blanche et brillante depuis un grand seau directement sur les confiseries ; le liquide laiteux s'écoule et se répand jusqu'à recouvrir entièrement les jelly beans d'un bord à l'autre. Un ouvrier portant un gilet de sécurité jaune passe alors une large raclette sur la surface, puis la lustre à l'aide d'une polisseuse à sol, révélant un plancher transparent à l'éclat miroir dans lequel des milliers de bonbons éclatants sont suspendus, comme un terrazzo multicolore. Enfin, deux déménageurs en t-shirts et casquettes noirs apportent un cadre de lit en bois, l'assemblent et y installent un matelas, des oreillers blancs et une literie crème, achevant ainsi une chambre douillette au-dessus de ce sol de bonbons. Une lumière chaude du soleil traverse la fenêtre, les reflets dansent sur la surface polie, rendu photoréaliste, plans fluides et continus, vidéo satisfaisante de transformation et de rénovation.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116534129743282176/img/4h_0ekgG8AglI3M-.jpg" width="600" alt="Vidéo de rénovation d'un sol en terrazzo Jelly Bean">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13293)**
+
+**Auteur:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116534169773723824) | **Publié:** Oct 31, 2026
+
+---
+### Vidéo de Peinture Chrome Liquide Effet Miroir sur Porte
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une vidéo DIY photoréaliste où un homme peint une porte intérieure avec de la peinture chrome liquide, la transformant en une surface miroir parfaitement réfléchissante.
+
+#### 📝 Prompt
+
+```
+Vidéo verticale photoréaliste dans l'intérieur lumineux d'une maison moderne. Un homme vêtu d'un t-shirt gris ajusté, d'un jean bleu et d'une smartwatch est agenouillé sur une bâche plastique délimitée par du ruban adhésif jaune. Il plonge un gros pinceau jaune et noir dans un pot ouvert de chrome liquide épais, tout en jetant un œil à son smartphone. Plan très rapproché : la peinture argentée fondue s'égoutte lentement des poils pour retomber dans le pot dont la surface miroitante ondule. Cut vers une porte intérieure blanche à six panneaux : sa main balaie un panneau avec le pinceau, et le chrome liquide se déploie en une finition miroir parfaitement réfléchissante et sans défaut, chaque passage fluide recouvrant un peu plus de surface. Une succession de plans montre les panneaux, les montants et les chants en train d'être peints, jusqu'à ce que la porte entière brille comme du métal poli, reflétant les lumières du plafond et la pièce qui l'entoure. Plan large final : la porte achevée forme un miroir parfait où l'on distingue l'homme tenant son téléphone et son pinceau, une caméra sur trépied ainsi que le couloir derrière lui. Transformation DIY ultra-satisfaisante, lumière naturelle du jour, textures nettes, reflets métalliques réalistes, caméra à l'épaule stable avec de lents travellings avant sur les coups de pinceau.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116533216941101056/img/yCgCLf7sk1HLopxM.jpg" width="600" alt="Vidéo de Peinture Chrome Liquide Effet Miroir sur Porte">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13292)**
+
+**Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116533263543984512) | **Publié:** Oct 31, 2026
+
+---
+### Transformation de Sol en Résine Époxy Motif Tournesol
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une vidéo verticale satisfaisante montrant la création étape par étape d'un sol en résine époxy motif tournesol dans une chambre à coucher.
+
+#### 📝 Prompt
+
+```
+Vidéo verticale dans une pièce vide et lumineuse aux murs blancs, dotée d'une grande fenêtre et d'un plancher en bois brut. Un homme vêtu d'une salopette bleue et de gants de travail ratisse un grand tas de tournesols frais, les répartissant uniformément sur toute la surface du sol par de larges mouvements fluides, jusqu'à ce que la pièce entière soit recouverte de fleurs. Deux femmes en salopettes rouges apportent ensuite des seaux blancs et y versent une résine époxy blanche, épaisse et crémeuse, sur les tournesols ; le liquide s'étale lentement et submerge peu à peu les fleurs. Puis, un ouvrier portant un gilet haute visibilité polit la surface durcie à l'aide d'une monobrosse, révélant un sol en résine transparente et brillante où les tournesols éclatants sont incrustés, comme un champ figé sous verre. Enfin, deux femmes installent un cadre de lit en bois, posent le matelas, disposent une couette et des oreillers blancs, puis ajoutent des tables de nuit équipées de lampes à la lumière chaleureuse. La vidéo se termine par un panoramique lent sur cette chambre douillette enfin achevée : la lumière du soleil inonde la pièce à travers la fenêtre, tandis que le sol miroir orné de tournesols reflète le lit. Style réaliste, mouvements de caméra fluides, transformation étape par étape particulièrement satisfaisante, lumière naturelle éclatante, niveau de détail élevé.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116426390618697728/img/vsk1exATGuXDM7K5.jpg" width="600" alt="Transformation de Sol en Résine Époxy Motif Tournesol">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13295)**
+
+**Auteur:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116426434025504817) | **Publié:** Oct 31, 2026
+
+---
+### Vidéo de sol en terrazzo de noix de coco pour chambre à coucher
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour créer une vidéo de rénovation qui transforme un tas de noix de coco et du lait de coco en un sol en terrazzo élégant pour une chambre à thème tropical.
+
+#### 📝 Prompt
+
+```
+Vidéo verticale à l'intérieur d'une pièce vide aux murs blancs, dotée d'une grande fenêtre donnant sur de luxuriants palmiers tropicaux. Un homme en salopette en jean ratisse un immense tas de centaines de noix de coco brunes et les répartit uniformément sur le sol en béton brut jusqu'à former une couche dense. Une femme en salopette rouge verse ensuite un lait de coco blanc, épais et crémeux, depuis un grand seau : le liquide inonde le sol et recouvre les noix de coco d'une fine pellicule blanche et lisse. Ensuite, un ouvrier vêtu d'un gilet jaune haute visibilité pousse une ponceuse-polisseuse de sol pour poncer la surface durcie, révélant ainsi un terrazzo brillant incrusté de rondelles de noix de coco coupées en tranches. Enfin, deux déménageurs en uniforme noir apportent un cadre de lit en bois, y posent un matelas et dressent le lit avec des draps et des oreillers d'un blanc immaculé. La vidéo s'achève sur la révélation d'une chambre lumineuse et élégante, mettant en valeur ce terrazzo de noix de coco poli si singulier qui reflète la lumière de la fenêtre. Transitions fluides et réalistes, lumière naturelle du jour, style de transformation de chantier ultra-satisfaisant, détails photoréalistes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116425489967411200/img/eISADImu1dHFuzRh.jpg" width="600" alt="Vidéo de sol en terrazzo de noix de coco pour chambre à coucher">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13294)**
+
+**Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116425542874378504) | **Publié:** Oct 31, 2026
+
+---
 ### Comédie : Dîner romantique et collation de minuit
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3912,130 +3988,6 @@ Créez un film de fantasy médiévale ultra-réaliste à gros budget de 15 secon
 **Auteur:** [Ayat](https://x.com/aiwithaayat) | **Source:** [Link](https://x.com/aiwithaayat/status/2109123171408560343) | **Publié:** Oct 11, 2026
 
 ---
-### Prompt de Vlog sur un Village Côtier Coréen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour générer un vlog lifestyle cinématographique de 30 secondes mettant en scène une jeune femme marchant dans un village côtier coréen traditionnel au coucher du soleil, avec un accent particulier sur le réalisme des mouvements et de l'éclairage.
-
-#### 📝 Prompt
-
-```
-Créez un vlog lifestyle cinématographique ultra-réaliste de 30 secondes mettant en scène une belle jeune femme coréenne au maquillage naturel et aux longs cheveux bruns attachés en queue de cheval. Elle porte une veste ample couleur crème, un pantalon beige, des baskets blanches, et transporte un sac à bandoulière marron tout en tenant son smartphone et une petite pochette en papier kraft.
-
-Scène 1 (0–5 secondes) : Commencez par un plan large d'ensemble d'un village côtier coréen traditionnel. La jeune femme sort d'une ancienne maison du village tout en consultant son téléphone. Des ruelles étroites pavées de pierre, des portes en bois patinées, des fleurs en pot et une architecture rustique créent une atmosphère authentique.
-
-Scène 2 (5–10 secondes) : Suivez-la de dos alors qu'elle marche lentement dans la ruelle étroite du village. Elle remarque un cerf-volant arc-en-ciel coloré appuyé contre une clôture, s'arrête pour l'observer et tend doucement la main vers lui. Ses cheveux et sa veste ample bougent naturellement sous la brise marine.
-
-Scène 3 (10–17 secondes) : Capturez des gros plans naturels et des plans moyens alors qu'elle continue de traverser le quartier paisible. Montrez-la tenant son téléphone et sa pochette en papier, passant devant de vieilles maisons, des murs de pierre, des plantes fleuries et des détails charmants du village. Utilisez des mouvements subtils de caméra à l'épaule et une profondeur de champ réaliste.
-
-Scène 4 (17–24 secondes) : Transitionnez vers une magnifique promenade côtière bordant l'océan. La caméra la suit de dos alors qu'elle marche le long du chemin de pierre, avec des roches volcaniques sombres et des vagues douces d'un côté et des maisons traditionnelles du village de l'autre. Son sac à bandoulière se balance naturellement à chaque pas.
-
-Scène 5 (24–30 secondes) : Terminez par un plan large cinématographique de la jeune femme marchant vers le coucher de soleil lumineux au bord de la mer. La lumière dorée illumine ses cheveux et sa veste couleur crème. L'océan reflète la lumière chaude du soir alors qu'elle ralentit pour admirer la vue, créant une fin calme, belle et nostalgique.
-
-Style visuel : Film lifestyle coréen photoréaliste, éclairage naturel de l'heure dorée, couleurs chaudes et adoucies, atmosphère authentique de village côtier, texture de peau réaliste, travellings doux à l'épaule, mouvement de caméra naturel, qualité 4K, 24 FPS, composition cinématographique, mouvement humain et physique réalistes.
-
-Audio : Vagues océaniques naturelles, douce brise marine, pas sur le chemin de pierre et ambiance subtile du village. Pas de musique de fond, pas de narration, pas de sous-titres, pas de texte, pas de logos et pas de filigrane.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109121015112667136/img/fLkLHTsqM6vemF7q.jpg" width="600" alt="Prompt de Vlog sur un Village Côtier Coréen">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12302)**
-
-**Auteur:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2109121097803374790) | **Publié:** Oct 11, 2026
-
----
-### Prompt Vidéo Comique Xianxia pour Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt détaillé pour générer une vidéo comique Xianxia (cultivation) de 10 secondes avec deux personnages, conçu spécifiquement pour les capacités de génération multi-plans et d'audio spatial de Seedance 2.0. Inclut des verrouillages de personnages, des descriptions de scènes, des dialogues et des contraintes négatives.
-
-#### 📝 Prompt
-
-```
-Vidéo de 10 secondes. [Style] Comédie à contretemps poétique du genre Xianxia, texture cinématographique réaliste haute définition, composition spatiale architecturale chinoise classique, jeu sobre, brume froide de montagne, éclairage chaud en contre-jour au crépuscule, tons jade vert et ivoire désaturés, grain fin de pellicule ; la chute est construite par une narration sonore « mise en place - égarement - retournement hors champ ». Conçu pour le verrouillage d'image de référence, la génération continue multi-plans et l'audio spatial synchronisé de Seedance 2.0. Seuls deux personnages visibles apparaissent tout au long, établissant un monde ancien chinois pur sans éléments modernes.
-
-[Personnages]
-Personnage A strictement verrouillé via @Image 1 : La même sœur aînée immortelle épéiste est-asiatique âgée de 25 à 30 ans, visage ovale, peau claire, yeux couleur abricot foncé, cheveux noirs mi-attachés maintenus par une épingle à cheveux en jade blanc, silhouette grande et élancée, portant un Hanfu en soie blanche brodée, manches larges semi-transparentes superposées, sceau de taille argenté, pendentif en jade et bottines en tissu blanc.
-Personnage B strictement verrouillé via @Image 2 : La même sœur cadette est-asiatique âgée de 20 à 25 ans, visage rond et vif, cheveux noirs tressés, petite stature, portant un Hanfu en lin vert cyan, ceinture en tissu sombre, épingle à cheveux en bois et chaussures en tissu noir.
-
-[Plan 1 | 0-3s | Panoramique latéral en travelling bas angle]
-Une plateforme de pierre silencieuse de secte au-dessus d'une mer de nuages. Des garde-fous en pierre, un mur d'écho ancien, neuf cloches en bronze suspendues, des pins anciens noueux, des banderoles de prière flottant au vent et des toits tuilés lointains établissent une relation spatiale claire et stable. La sœur aînée immortelle épéiste en Hanfu de soie blanche brodée se tient aux côtés de la sœur cadette en robe cyan, regardant autour avec assurance et prête à partager un secret ; la brise de montagne fait doucement bouger leurs cheveux, manches, banderoles et la brume.
-
-[Plan 2 | 3-6s | Plan moyen à deux]
-La sœur aînée lève deux doigts, forme un petit sceau de transmission vocale près de sa bouche et murmure : « Je vais te confier un secret, Maître a mangé trois morceaux de gâteau aux osmanthus hier soir. » Une fine onde sonore bleu clair vole précisément vers l'oreille de la sœur cadette ; elle écarquille instantanément les yeux, porte la main à sa bouche, luttant pour retenir son rire.
-
-[Plan 3 | 6-10s | Gros plan suivant la révélation jusqu'à très gros plan]
-La même onde sonore ne s'arrête pas à temps, passe au-dessus de la sœur cadette et frappe le mur d'écho ancien, puis rebondit séquentiellement à travers les neuf cloches en bronze, propageant les mots murmurés comme un énorme écho à travers la vallée : « Maître a mangé trois morceaux de gâteau aux osmanthus hier soir— » Les neuf cloches en bronze vibrent en séquence, les oiseaux sur les crêtes de toit lointaines sont effrayés et dispersés. Depuis la direction du hall principal vient une légère toux d'un ancien invisible, suivie d'une question calme : « Qui a mangé le quatrième morceau ? » Les sœurs aînée et cadette se figent simultanément. Très gros plan : Les deux doigts levés de la sœur aînée se replient lentement, un sourcil tressaute légèrement, elle regarde silencieusement la sœur cadette ; les joues de la sœur cadette se gonflent visiblement. Se termine par un bruit de déglutition très léger et coupable.
-
-[Exigences Techniques]
-Durée totale stricte de 10 secondes, format paysage 16:9, trois plans clairs, dialogue natif en mandarin, synchronisation labiale précise, les mots murmurés ont un mouvement directionnel clair, les couches d'écho des cloches en bronze sont distinctes, les visages et vêtements des personnages restent stables, les directions de mouvement sont cohérentes. La brume de montagne, la soie, les cheveux, les cloches en cuivre, les banderoles de prière et les ondes sonores se déplacent naturellement. Aucun sous-titre généré, aucun personnage visible supplémentaire ajouté.
-
-[Mots Négatifs]
-flou, mauvaise qualité, basse qualité, basse résolution, bruit, artefacts jpeg, filigrane, texte, erreur ; déformé, muté, anatomie incorrecte, mains mal dessinées, mauvaise composition, hors cadre, disloqué ; incohérence de personnage, changement de vêtements, morphing facial, glitch de fond lors des coupures, props disparaissants
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108920849994821632/img/FVH4RLpzE6YKZlgi.jpg" width="600" alt="Prompt Vidéo Comique Xianxia pour Seedance 2.0">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12305)**
-
-**Auteur:** [superfang119](https://x.com/superfang119) | **Source:** [Link](https://x.com/superfang119/status/2108921025098584072) | **Publié:** Oct 10, 2026
-
----
-### Balade d'une créature en laine tricotée sur un toit pluvieux
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un article comparatif partageant un prompt spécifique utilisé sur plusieurs modèles de vidéo IA, y compris Seedance 2.5, mettant en scène une créature tricotée sur un toit.
-
-#### 📝 Prompt
-
-```
-une petite créature en laine tricotée avec trois yeux-boutons et de longs bras nouilles marche sur la pointe des pieds sur un toit néon illuminé sous la pluie la nuit, s'arrête, regarde directement la caméra, et ouvre un mini-parapluie fabriqué à partir d'une feuille
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108687552165359616/img/UJcNTYyE79TlkLNe.jpg" width="600" alt="Balade d'une créature en laine tricotée sur un toit pluvieux">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12263)**
-
-**Auteur:** [Korpi AI](https://x.com/KorpiAi) | **Source:** [Link](https://x.com/KorpiAi/status/2108687594913738792) | **Publié:** Oct 9, 2026
-
----
-### Scène d'animation pour enfants : Nuage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une courte animation d'un enfant jouant avec un nuage, en comparant les résultats de Seedance 2.0 et Muse Spark 1.3.
-
-#### 📝 Prompt
-
-```
-Scène 1 (0-5 secondes)
-Visuel : Un petit enfant se tient dans un champ verdoyant, regardant vers un ciel bleu vif. Un petit nuage blanc duveteux descend juste devant lui.
-Narration/Texte : "Bonjour, petit nuage !"
-Son : Carillons doux et un rire joyeux.
-
-Scène 2 (6-10 secondes)
-Visuel : Le nuage prend la forme d'un coussin moelleux et rebondissant. L'enfant saute sur le nuage, qui le soulève lentement légèrement au-dessus du sol.
-Narration/Texte : "Jouons ensemble !"
-Son : Sons de rebonds doux et musique entraînante.
-
-Scène 3 (11-15 secondes)
-Visuel : Le nuage dépose délicatement l'enfant sur l'herbe, fait pleuvoir quelques minuscules gouttes scintillantes, puis laisse un beau mini-arc-en-ciel avant de dire au revoir.
-Narration/Texte : "À demain, mon ami tout doux."
-Son : Un son magique et cristallin qui s'estompe progressivement.
-
-Style : Animation 3D haut de gamme inspirée de Pixar, designs de personnages adorables, expressions faciales expressives, physique réaliste de l'eau, végétation tropicale luxuriante, mouvements de caméra cinématographiques, couleurs vibrantes, lumière naturelle douce, textures détaillées, animation fluide des personnages, plans larges cinématographiques alternés avec gros plans, transitions fluides entre les scènes, format 16:9, qualité 4K. Maintenir une cohérence visuelle du garçon et du nuage tout au long de la vidéo. Pas de texte, pas de sous-titres, pas de filigrane.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108653898302926848/img/Td-PgupWPBozkfAq.jpg" width="600" alt="Scène d'animation pour enfants : Nuage">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12238)**
-
-**Auteur:** [Neo-phyte](https://x.com/Deadmeatz) | **Source:** [Link](https://x.com/Deadmeatz/status/2108654687151145239) | **Publié:** Oct 9, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -4097,6 +4049,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-01T04:51:01.995Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-01T15:06:03.142Z</sub>
 
 </div>

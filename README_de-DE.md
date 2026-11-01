@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6620** |
+| 📝 Gesamtanzahl Prompts | **6624** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-11-01** |
 
@@ -361,6 +361,82 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Jelly Bean Terrazzo-Bodenrenovierung Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines realistischen Renovierungsvideos, in dem Jelly Beans auf dem Boden verteilt und mit Epoxidharz überzogen werden, um einen bunten Terrazzo-Effekt zu erzeugen. Das Video endet mit der Einrichtung des Schlafzimmers.
+
+#### 📝 Prompt
+
+```
+Ein Mann in blauer Jeanslatzhose und grauem T-Shirt harkt einen riesigen Berg bunter Jelly Beans über den nackten Boden eines hellen, leeren weißen Raums mit großem, sonnendurchflutetem Fenster. Er verteilt die Süßigkeiten gleichmäßig nach außen, bis sie eine perfekt ebene Schicht bilden, die den gesamten Boden bedeckt. Anschließend gießt eine Frau in roter Latzhose dickflüssiges, glänzend weißes Epoxidharz aus einem großen Eimer über die Süßigkeiten. Die milchige Flüssigkeit fließt und breitet sich aus, bis sie die Jelly Beans von Rand zu Rand vollständig bedeckt. Ein Arbeiter in gelber Warnweste zieht daraufhin einen breiten Rakel über die Oberfläche und poliert sie mit einer Bodenschleifmaschine auf – zum Vorschein kommt ein spiegelglatter, transparenter Boden, in dem Tausende leuchtender Süßigkeiten wie buntes Terrazzo eingeschlossen sind. Zum Schluss tragen zwei Möbelpacker in schwarzen Shirts und Caps ein hölzernes Bettgestell herein, bauen es zusammen und beziehen es mit Matratze, weißen Kissen und cremefarbener Bettwäsche. So entsteht ein gemütliches Schlafzimmer direkt über dem Jelly-Bean-Boden. Warmes Sonnenlicht fällt durch das Fenster, Reflexionen tanzen über die polierte Oberfläche, fotorealistisch, fließende Kamerafahrten ohne Schnitte, befriedigendes Renovierungs-Transformationsvideo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116534129743282176/img/4h_0ekgG8AglI3M-.jpg" width="600" alt="Jelly Bean Terrazzo-Bodenrenovierung Video">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13293)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2116534169773723824) | **Veröffentlicht:** Oct 31, 2026
+
+---
+### Flüssig-Chrom-Spiegeltür – Lackier-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines fotorealistischen DIY-Videos, in dem ein Mann eine Innentür mit flüssigem Chromlack streicht und sie so in eine perfekt spiegelnde Oberfläche verwandelt.
+
+#### 📝 Prompt
+
+```
+Vertikales, fotorealistisches Video in einem hellen, modernen Wohninterieur. Ein Mann in eng anliegendem grauem T-Shirt, blauer Jeans und mit Smartwatch kniet auf einer Plastikabdeckplane, die mit gelbem Klebeband abgegrenzt ist. Er taucht einen großen gelb-schwarzen Pinsel in eine offene Dose dickflüssiges Flüssigchrom und wirft dabei einen Blick auf sein Smartphone. Extreme Nahaufnahme: Silbrig glänzende Farbe tropft langsam von den Borsten zurück in die Dose, deren spiegelglatte Oberfläche sanfte Wellen schlägt. Schnitt zu einer weißen Innentür mit sechs Füllungen: Seine Hand führt den Pinsel über ein Türfeld, und das Flüssigchrom breitet sich zu einer makellosen, spiegelnden Oberfläche aus – jeder gleichmäßige Pinselstrich bedeckt mehr Fläche. In einer Sequenz von Einstellungen werden die Füllungen, Rahmen und Kanten gestrichen, bis die gesamte Tür wie poliertes Metall glänzt und die Deckenleuchten sowie den umliegenden Raum reflektiert. Abschließende Totale: Die fertige Tür ist ein perfekter Spiegel und zeigt den Mann mit Handy und Pinsel, eine Kamera auf Stativ sowie den Flur hinter ihm. Befriedigende DIY-Transformation, natürliches Tageslicht, klare Texturen, realistische metallische Reflexionen, ruhige Handkamera mit langsamen Zoomfahrten auf die Pinselstriche.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116533216941101056/img/yCgCLf7sk1HLopxM.jpg" width="600" alt="Flüssig-Chrom-Spiegeltür – Lackier-Video">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13292)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2116533263543984512) | **Veröffentlicht:** Oct 31, 2026
+
+---
+### Sonnenblumen-Epoxidharz-Boden: Die Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines befriedigenden vertikalen Videos, das die schrittweise Gestaltung eines Sonnenblumen-Epoxidharzbodens in einem Schlafzimmer zeigt.
+
+#### 📝 Prompt
+
+```
+Vertikales Video in einem hellen, leeren Raum mit weißen Wänden, einem großen Fenster und einem rohen Holzunterboden. Ein Mann in blauem Overall und Arbeitshandschuhen verteilt mit einer Harke einen großen Haufen frischer Sonnenblumen und breitet sie mit gleichmäßigen, schwungvollen Bewegungen auf dem gesamten Boden aus, bis der ganze Raum von Blüten bedeckt ist. Anschließend tragen zwei Frauen in roten Overalls weiße Eimer herein und gießen dickflüssiges, cremeweißes Epoxidharz über die Sonnenblumen. Die Flüssigkeit breitet sich aus und umschließt die Blumen langsam. Danach poliert ein Arbeiter in Warnweste die ausgehärtete Oberfläche mit einer Einscheibenmaschine, wodurch ein glänzender, transparenter Harzboden zum Vorschein kommt, in den leuchtende Sonnenblumen eingebettet sind – wie eine Wiese, eingefroren unter Glas. Zum Schluss tragen zwei Frauen ein hölzernes Bettgestell herein, legen die Matratze auf, verteilen eine weiße Bettdecke samt Kissen und stellen Nachttische mit warm leuchtenden Lampen auf. Das Video endet mit einem langsamen Kameraschwenk über das fertige, gemütliche Schlafzimmer: Sonnenlicht fällt durch das Fenster, und der spiegelglatte Sonnenblumenboden reflektiert das Bett. Realistischer Stil, fließende Kamerabewegungen, befriedigende Schritt-für-Schritt-Verwandlung, helles natürliches Tageslicht, hoher Detailgrad.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116426390618697728/img/vsk1exATGuXDM7K5.jpg" width="600" alt="Sonnenblumen-Epoxidharz-Boden: Die Transformation">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13295)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2116426434025504817) | **Veröffentlicht:** Oct 31, 2026
+
+---
+### Kokos-Terrazzo-Schlafzimmerboden-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines Renovierungsvideos, das eine Ansammlung von Kokosnüssen und Kokosmilch in einen stilvollen Terrazzo-Boden für ein tropisch gestaltetes Schlafzimmer verwandelt.
+
+#### 📝 Prompt
+
+```
+Hochformat-Video in einem leeren Raum mit weißen Wänden und einem großen Fenster, das den Blick auf üppige tropische Palmen freigibt. Ein Mann in einer Jeans-Latzhose harkt einen riesigen Haufen aus Hunderten braunen Kokosnüssen zusammen und verteilt sie gleichmäßig auf dem nackten Betonboden, bis sie eine dichte Schicht bilden. Anschließend gießt eine Frau in einer roten Latzhose dickflüssige, cremig-weiße Kokosmilch aus einem großen Eimer darüber, flutet den Boden und überzieht die Kokosnüsse mit einer glatten weißen Schicht. Danach schiebt ein Arbeiter in einer gelben Warnweste eine Bodenschleif- und Poliermaschine über die Fläche und schleift die ausgehärtete Oberfläche ab, sodass ein glänzender Terrazzoboden zum Vorschein kommt, in den aufgeschnittene Kokosnussscheiben eingelassen sind. Zum Schluss tragen zwei Möbelpacker in schwarzen Uniformen ein hölzernes Bettgestell herein, legen eine Matratze darauf und beziehen das Bett mit frisch gebügelten weißen Laken und Kissen. Das Video endet mit der Enthüllung eines hellen, stilvoll eingerichteten Schlafzimmers, in dem der einzigartige, polierte Kokosnuss-Terrazzoboden das Licht aus dem Fenster reflektiert. Fließende, realistische Übergänge, natürliches Tageslicht, befriedigender Renovierungs-Stil, fotorealistische Details.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116425489967411200/img/eISADImu1dHFuzRh.jpg" width="600" alt="Kokos-Terrazzo-Schlafzimmerboden-Video">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13294)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2116425542874378504) | **Veröffentlicht:** Oct 31, 2026
+
+---
 ### Romantisches Dinner bis Mitternachtssnack-Komödie
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3964,130 +4040,6 @@ Erstelle einen 15-sekündigen, ultrarealistischen mittelalterlichen Fantasy-Film
 **Autor:** [Ayat](https://x.com/aiwithaayat) | **Quelle:** [Link](https://x.com/aiwithaayat/status/2109123171408560343) | **Veröffentlicht:** Oct 11, 2026
 
 ---
-### Prompt für einen Vlog über ein koreanisches Küstendorf
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Generierung eines 30-sekündigen, cineastischen Lifestyle-Vlogs, der eine junge Frau zeigt, die bei Sonnenuntergang durch ein traditionelles koreanisches Küstendorf spaziert, mit Fokus auf realistische Bewegung und Beleuchtung.
-
-#### 📝 Prompt
-
-```
-Erstellen Sie einen 30-sekündigen, ultra-realistischen cineastischen Lifestyle-Vlog, der eine schöne junge Koreanerin mit natürlichem Make-up und langem dunklem Haar in einem Pferdeschwanz zeigt. Sie trägt eine lockere cremefarbene Jacke, beige Hosen, weiße Sneaker und hat eine braune Umhängetasche dabei, während sie ihr Smartphone und eine kleine braune Papiertüte hält.
-
-Szene 1 (0–5 Sekunden): Beginnen Sie mit einer weiten Establishing-Shot eines traditionellen koreanischen Küstendorfes. Das Mädchen verlässt ein altes Dorfhaus, während es auf sein Telefon schaut. Schmale Steinwege, verwitterte Holztüren, Blumentöpfe und rustikale Architektur schaffen eine authentische Atmosphäre.
-
-Szene 2 (5–10 Sekunden): Folgen Sie ihr von hinten, als sie langsam durch die enge Dorfgasse geht. Sie bemerkt einen bunten Regenbogen-Drachen, der an einem Zaun lehnt, hält inne, um ihn anzuschauen, und streckt sanft die Hand danach aus. Ihr Haar und ihre lockere Jacke bewegen sich natürlich im Seewind.
-
-Szene 3 (10–17 Sekunden): Erfassen Sie natürliche Nahaufnahmen und mittlere Einstellungen, während sie weiter durch das friedliche Viertel geht. Zeigen Sie sie, wie sie ihr Telefon und die Papiertüte hält, an alten Häusern, Steinmauern, blühenden Pflanzen und charmanten Dorfdetails vorbeigeht. Verwenden Sie subtile Handkamera-Bewegungen und eine realistische Tiefenschärfe.
-
-Szene 4 (17–24 Sekunden): Wechseln Sie zu einem schönen Küstenweg neben dem Ozean. Die Kamera folgt ihr von hinten, während sie den Steinpfad entlanggeht, mit dunklen Vulkanfelsen und sanften Wellen auf der einen Seite und traditionellen Dorfhäusern auf der anderen. Ihre Umhängetasche schwingt natürlich mit jedem Schritt.
-
-Szene 5 (24–30 Sekunden): Beenden Sie mit einer weiten cineastischen Aufnahme des Mädchens, das zum leuchtenden Sonnenuntergang am Meer geht. Goldenes Sonnenlicht beleuchtet ihr Haar und die cremefarbene Jacke. Der Ozean reflektiert das warme Abendlicht, während sie langsamer wird, um die Aussicht zu genießen, was ein ruhiges, schönes und nostalgisches Ende schafft.
-
-Visueller Stil: Fotorealistischer koreanischer Lifestyle-Film, natürliches Licht der goldenen Stunde, warme gedämpfte Farben, authentische Küstendorf-Atmosphäre, realistische Hauttextur, sanfte Handkamera-Tracking-Aufnahmen, natürliche Kamerabewegung, 4K-Qualität, 24 FPS, cineastische Komposition, realistische menschliche Bewegung und Physik.
-
-Audio: Natürliche Meereswellen, sanfter Seewind, Schritte auf dem Steinpfad und dezente Dorfgeräusche. Keine Hintergrundmusik, keine Erzählung, keine Untertitel, kein Text, keine Logos und kein Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109121015112667136/img/fLkLHTsqM6vemF7q.jpg" width="600" alt="Prompt für einen Vlog über ein koreanisches Küstendorf">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12302)**
-
-**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Quelle:** [Link](https://x.com/ayzalnooor24521/status/2109121097803374790) | **Veröffentlicht:** Oct 11, 2026
-
----
-### Xianxia-Komödien-Video-Prompt für Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein detaillierter Prompt zur Generierung eines 10-sekündigen Xianxia-Komödie-Videos mit zwei Charakteren, speziell konzipiert für die Multi-Shot-Generierung und räumliche Audio-Funktionen von Seedance 2.0. Enthält Charakter-Locks, Szenenbeschreibungen, Dialoge und negative Constraints.
-
-#### 📝 Prompt
-
-```
-10-Sekunden-Video. [Stil] Poetische Xianxia-Trockenhumor-Komödie mit unerwarteter Wendung, realistische hochauflösende kinematografische Textur, klassische chinesische architektonische Raumkomposition, zurückhaltende Darstellung, kühler Bergnebel, warmes Abendlicht mit Randbeleuchtung, entsättigte Jadegrün- und Elfenbeintöne, feines Filmkorn; die Wendung wird durch eine "Aufbau-Irrführung-Außerhalb-des-Bildes-Wendung" Klangnarrative vervollständigt. Entwickelt für Seedance 2.0s Referenzbild-Locking, Multi-Shot-Kontinuitätsgenerierung und synchronisierte räumliche Audio. Nur zwei sichtbare Charaktere erscheinen während des gesamten Videos und etablieren eine reine altchinesische Welt ohne moderne Elemente.
-
-[Charaktere]
-Charakter A strikt gesperrt über @Image 1: Derselbe 25-30-jährige ostasiatische Schwertunsterblichkeits-Senior-Schwester, ovales Gesicht, helle Haut, dunkle Aprikosenaugen, schwarzes halbgebundenes Haar mit einem weißen Jade-Haarstab fixiert, große schlanke Figur, trägt weiße bestickte Seiden-Hanfu, mehrschichtige halbtransparente weite Ärmel, silberner Gürtelverschluss, Jade-Anhänger und weiße Stoffstiefel.
-Charakter B strikt gesperrt über @Image 2: Derselbe 20-25-jährige ostasiatische Junior-Schwester, rundes lebhaftes Gesicht, schwarze geflochtene Haare, petite Figur, trägt cyan-grüne Leinen-Hanfu, dunkler Stoffgürtel, Holzhaarstab und schwarze Stoffschuhe.
-
-[Shot 1 | 0-3s | Tiefwinkel-Panorama-Seitliches Tracking]
-Eine ruhige Sekten-Steinplattform über dem Wolkenmeer. Steingeländer, eine alte Echo-Mauer, neun hängende Bronzeglocken, gewundene alte Kiefern, im Wind flatternde Gebetsstreifen und entfernte Ziegeldächer etablieren ein klares stabiles räumliches Verhältnis. Die Schwertunsterblichkeits-Senior-Schwester in weißer bestickter Seiden-Hanfu steht neben der cyan-roten Junior-Schwester, blickt vorsichtig um sich mit einem selbstbewussten Ausdruck, bereit ein Geheimnis zu teilen; Bergwind bewegt sanft ihre Haare, Ärmel, Streifen und Nebel.
-
-[Shot 2 | 3-6s | Zwei-Personen-Mittelschuss]
-Die Senior-Schwester hebt zwei Finger, formt ein kleines Stimmübertragungs-Siegel an ihrem Mund und flüstert: "Ich erzähle dir ein Geheimnis, Meister hat letzte Nacht drei Stücke Osmanthus-Kuchen gegessen." Eine dünne hellblaue Schallwelle fliegt präzise zum Ohr der Junior-Schwester; sie weitet sofort die Augen, bedeckt ihren Mund mit der Hand und kämpft darum, das Lachen zu unterdrücken.
-
-[Shot 3 | 6-10s | Nahaufnahme folgt der Enthüllung bis zur Extreme Nahaufnahme]
-Dieselbe Schallwelle stoppt nicht rechtzeitig, passiert über der Junior-Schwester und trifft die alte Echo-Mauer, dann springt sequenziell durch die neun Bronzeglocken und verbreitet die geflüsterten Worte als großes Echo über das Tal: "Meister hat letzte Nacht drei Stücke Osmanthus-Kuchen gegessen—" Die neun Bronzeglocken vibrieren sequenziell, Vögel auf entfernten Dachfirsten erschrecken und zerstreuen sich. Aus Richtung der Haupthalle kommt ein leichtes Husten eines unsichtbaren Ältesten, gefolgt von einer ruhigen Frage: "Wer hat das vierte Stück gegessen?" Die Senior- und Junior-Schwestern erstarren gleichzeitig. Extreme Nahaufnahme: Die erhobenen zwei Finger der Senior-Schwester rollen sich langsam zusammen, eine Augenbraue zuckt leicht, sie blickt stumm zur Junior-Schwester; die Wangen der Junior-Schwester blähen sich sichtbar auf. Endet mit einem sehr leichten, schuldbewussten Schluckgeräusch.
-
-[Technische Anforderungen]
-Strikte Gesamtdauer 10 Sekunden, 16:9 Querformat, drei klare Shots, natives Mandarin-Dialog, genaue Lippen-Synchronisation, geflüsterte Worte haben klare gerichtete Bewegung, Bronzeglocken-Echo-Schichten sind unterscheidbar, Gesichter und Kleidung der Charaktere bleiben stabil, Bewegungsrichtungen sind kohärent. Bergnebel, Seidenstoff, Haare, Kupferglocken, Gebetsstreifen und Schallwellen bewegen sich natürlich. Keine Untertitel generiert, keine zusätzlichen sichtbaren Charaktere hinzugefügt.
-
-[Negative Words]
-blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background glitching
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108920849994821632/img/FVH4RLpzE6YKZlgi.jpg" width="600" alt="Xianxia-Komödien-Video-Prompt für Seedance 2.0">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12305)**
-
-**Autor:** [superfang119](https://x.com/superfang119) | **Quelle:** [Link](https://x.com/superfang119/status/2108921025098584072) | **Veröffentlicht:** Oct 10, 2026
-
----
-### Gestricktes Wollwesen spaziert über ein regennasses Dach
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Vergleichsbeitrag, der einen spezifischen Prompt für mehrere KI-Videomodelle teilt, darunter Seedance 2.5, mit einem gestrickten Wesen auf einem Dach.
-
-#### 📝 Prompt
-
-```
-ein winziges gestricktes Wollwesen mit drei Knopf-Augen und langen Nudel-Armen schleicht sich nachts über ein regennasses, neonbeleuchtetes Dach, bleibt stehen, blickt direkt in die Kamera und öffnet einen Miniatur-Regenschirm aus einem Blatt
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108687552165359616/img/UJcNTYyE79TlkLNe.jpg" width="600" alt="Gestricktes Wollwesen spaziert über ein regennasses Dach">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12263)**
-
-**Autor:** [Korpi AI](https://x.com/KorpiAi) | **Quelle:** [Link](https://x.com/KorpiAi/status/2108687594913738792) | **Veröffentlicht:** Oct 9, 2026
-
----
-### Kinder-Animations-Szene mit Wolke
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung einer kurzen Animation eines Kindes, das mit einer Wolke spielt, mit einem Vergleich der Ergebnisse von Seedance 2.0 und Muse Spark 1.3.
-
-#### 📝 Prompt
-
-```
-Szene 1 (0–5 Sekunden)
-Visuell: Ein kleines Kind steht auf einer grünen Wiese und blickt in einen strahlend blauen Himmel. Eine kleine, flauschige weiße Wolke schwebt direkt vor ihm herab.
-Erzählung/Text: "Hallo, kleine Wolke!"
-Ton: Sanfte Windspielklänge und ein glückliches Lachen.
-
-Szene 2 (6–10 Sekunden)
-Visuell: Die Wolke formt sich zu einem weichen, federnden Kissen. Das Kind springt auf die Wolke, und sie hebt es langsam leicht vom Boden ab.
-Erzählung/Text: "Lass uns zusammen spielen!"
-Ton: Leise Hüpfgeräusche und fröhliche Musik.
-
-Szene 3 (11–15 Sekunden)
-Visuell: Die Wolke setzt das Kind sanft wieder im Gras ab, streut einige winzige, funkelnde Regentropfen und hinterlässt einen schönen Mini-Regenbogen, während sie zum Abschied winkt.
-Erzählung/Text: "Bis morgen, mein flauschiger Freund."
-Ton: Ein magisches Glitzern, das allmählich verklingt.
-
-Stil: Hochwertige Pixar-inspirierte 3D-Animation, niedliche Charakterdesigns, ausdrucksstarke Gesichter, realistische Wasserphysik, üppige tropische Vegetation, kinematische Kamerabewegungen, lebendige Farben, weiches natürliches Sonnenlicht, detaillierte Texturen, flüssige Charakteranimation, breite kinematische Aufnahmen im Wechsel mit Nahaufnahmen, nahtlose Szenenübergänge, 16:9-Seitenverhältnis, 4K-Qualität. Der Junge und die Wolke sollten visuell durchgehend konsistent bleiben. Kein Text, keine Untertitel, kein Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2108653898302926848/img/Td-PgupWPBozkfAq.jpg" width="600" alt="Kinder-Animations-Szene mit Wolke">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12238)**
-
-**Autor:** [Neo-phyte](https://x.com/Deadmeatz) | **Quelle:** [Link](https://x.com/Deadmeatz/status/2108654687151145239) | **Veröffentlicht:** Oct 9, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -4149,6 +4101,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-01T04:51:00.691Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-01T15:06:01.763Z</sub>
 
 </div>
