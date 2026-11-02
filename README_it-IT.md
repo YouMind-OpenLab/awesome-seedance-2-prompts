@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6624** |
+| 📝 Totale prompt | **6633** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-11-02** |
 
@@ -361,6 +361,757 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Prompt per Cortometraggio Xianxia Antico con Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt completo per la generazione video di Seedance 2.0 Mini, che crea una scena cinematografica di 15 secondi ambientata in un mondo fantasy cinese antico. Dettaglia la coerenza dei personaggi tramite immagini di riferimento, specifici movimenti di camera (panoramica, tracking), condizioni di illuminazione e un colpo di scena narrativo legato a una truffa da mostro falso.
+
+#### 📝 Prompt
+
+```
+Modello: Seedance 2.0 Mini
+Durata: Rigorosamente 15 secondi
+Rapporto d'aspetto: 16:9 Orizzontale
+Genere: Xianxia cinese antico puro / Colpo di scena thriller / Satira sociale / Dramma relazionale tra i personaggi
+Struttura: Tre inquadrature cinematografiche consecutive e nitide, ciascuna con una funzione narrativa diversa.
+
+I. Prompt | Stile generale e direzione creativa
+Realismo cinematografico live-action, estetica Xianxia cinese antica pura.
+Direzione generale:
+Narrazione thriller matura
+Recitazione misurata dei personaggi
+Inganno visivo preciso
+Satira sociale con risonanza nel mondo reale
+Per le immagini utilizzare:
+Texture naturale della fotografia cinematografica
+Dettagli del viso nitidi
+Texture della pelle realistica
+Tessuti in seta pregiati
+Luce volumetrica naturale
+Composizione con profondità spaziale
+
+II. Trama centrale e meccanismo del colpo di scena
+Il cuore di questa storia è:
+Un venditore di talismani inscena un mostro per convincere la gente che stanno arrivando spiriti maligni.
+Primo livello di suspense
+Inizialmente il pubblico teme che:
+La madre e il bambino vengano attaccati dai mostri
+La madre spenda i soldi delle medicine del figlio per un talismano salvavita?
+Secondo livello di colpo di scena
+Poi si scopre che:
+Il cosiddetto mostro è solo un meccanismo a burattini manovrato dal venditore.
+Vero conflitto emotivo
+Il vero conflitto non è il mostro, ma:
+Una madre costretta a scegliere tra i soldi per le medicine del figlio e una falsa sicurezza.
+Principi narrativi
+Il colpo di scena si compie interamente attraverso:
+Osservazione dei personaggi
+Oggetti reali
+Azioni specifiche
+Causalità fisica
+Evitare rigorosamente:
+Attacchi improvvisi di veri mostri
+Manifestazioni divine di talismani
+Spiegazioni prolisse
+Finali moralistici
+
+III. Personaggi e blocco dell'identità
+Personaggio A | @Image1 | Sorella Maggiore
+Mantenere l'identità di donna adulta dell'Asia orientale, la forma del viso, i lineamenti, l'acconciatura, gli accessori e l'abito bianco Xianxia dell'immagine di riferimento originale.
+Caratteristiche fisse:
+Donna adulta dell'Asia orientale
+Stesso volto dell'immagine di riferimento originale
+Struttura ossea naturale
+Abito in seta bianca ricamata
+Ornamento in argento alla cintura
+Spada originale
+Texture della pelle realistica
+Struttura corporea naturale
+Temperamento classico ed elegante
+Requisiti di continuità:
+Mantenere la texture realistica della pelle
+Non modificare l'abbigliamento
+Mantenere stabile l'identità del personaggio
+Non ridisegnare i personaggi
+
+Personaggio B | @Image2 | Sorella Minore
+Mantenere l'identità di donna adulta dell'Asia orientale, il viso tondo e vivace, gli occhi luminosi, le trecce nere originali e l'antico costume verde-azzurro dell'immagine di riferimento.
+Caratteristiche fisse:
+Donna adulta dell'Asia orientale
+Viso tondo e vivace
+Occhi luminosi
+Trecce di capelli neri
+Antico costume verde-azzurro
+Porta la stessa spada lunga scura
+Requisiti di continuità:
+Mantenere tratti del viso distinti da quelli della Sorella Maggiore
+Mantenere stabile l'abbigliamento
+Mantenere stabile l'identità del personaggio
+
+Limiti comuni per le due protagoniste
+Entrambe le protagoniste mantengono le proprie identità indipendenti.
+Rigorosamente vietato:
+Scambio di volti
+Fusione dei lineamenti
+Cambi di abbigliamento
+Deriva dell'identità
+Nuovi ruoli secondari
+
+Uomo di mezza età, fangshi del jianghu
+Vecchia veste marrone scuro
+Espressione astuta
+Responsabile della vendita dei talismani
+
+Comune donna del villaggio
+Vestiti logori
+Tiene in braccio un bambino malato
+
+Altri personaggi di sfondo
+Gli altri frequentatori del mercato formano solo un adeguato sfondo di vita quotidiana in lontananza
+Non devono rubare il focus narrativo principale
+
+IV. Ambiente e DNA della location
+Le immagini di sfondo e di riferimento della location caricate rappresentano il mondo fisico reale.
+Pianificazione dell'ambiente prima della composizione formale
+Mantenere i seguenti attributi della location di riferimento:
+Terreno
+Relazioni spaziali architettoniche
+Punti di riferimento principali
+Scala
+Materiali
+Vegetazione
+Specchi d'acqua
+Meteo
+Nebbia
+Illuminazione
+Profondità atmosferica
+Allestire naturalmente una piccola bancarella di talismani in stile antico in base alle condizioni reali della scena.
+
+V. Struttura della bancarella e del meccanismo
+Bancarella dei talismani
+La bancarella è composta da:
+Struttura in legno
+Tenda di stoffa
+Asta di bambù
+Talismani di carta gialla appesi
+
+Meccanismo nascosto
+Dietro la bancarella si nasconde un semplice meccanismo:
+Sagoma di un mostro realizzata con stoffa nera
+Fissata su un telaio di bambù rotante
+Un sottile filo rosso va dal telaio di bambù alla mano del fangshi
+Quando il fangshi tira la corda, l'ombra del mostro si solleva
+
+Requisiti di continuità del meccanismo
+Il meccanismo mantiene la stessa struttura, posizione e logica fisica per tutta la durata.
+
+VI. Sfondo vivo e neutralità narrativa
+Lo sfondo rimane vibrante.
+Movimento naturale:
+Vento
+Acqua
+Nuvole/Nebbia
+Vegetazione
+Figure in lontananza
+Capelli
+Maniche
+Movimento naturale continuo.
+
+Principio ambientale
+L'ambiente è vibrante ma narrativamente neutrale.
+L'ambiente non deve mai:
+Creare attivamente colpi di scena
+Emettere giudizi al posto dei personaggi
+Innescare miracoli improvvisi
+Modificare la causalità della trama
+
+VII. Storyboard completo di 15 secondi
+
+0–5s | Prima inquadratura: Campo lungo | Dieci liang per salvare una vita
+Compito narrativo
+Far preoccupare subito il pubblico per il bambino.
+Design della camera
+La camera avanza lentamente da una posizione leggermente ribassata.
+La profondità spaziale dell'antico mercato si svela con chiarezza.
+Livelli visivi
+Primo piano:
+Piccola bancarella coperta di talismani di carta gialla
+Piano medio:
+Una donna del villaggio vestita poveramente che tiene in braccio un bambino malato
+Stato del bambino:
+Appoggiato alla spalla della madre
+Letargico
+Oggetto di scena della madre:
+Stringe in mano alcuni pezzi d'argento spezzato
+Primo dialogo
+Il fangshi alza un talismano giallo, tono sicuro:
+[Fangshi] "Talismano, dieci liang per una vita!"
+La donna del villaggio guarda l'argento che ha in mano, voce tesa:
+[Donna del villaggio] "Sono i soldi per le medicine di mio figlio."
+Stato emotivo
+Non paga immediatamente.
+Lo sguardo del fangshi cade sull'argento.
+Suspense visiva stabilita
+Nelle ombre dietro la tenda di stoffa, appare debolmente la sagoma feroce di un mostro.
+La donna del villaggio stringe istintivamente il bambino più forte.
+Ingresso delle protagoniste
+Ai margini dell'inquadratura, la Sorella Maggiore (bianco) e la Sorella Minore (blu) passano per caso, notando l'anomalia alla bancarella.
+Fine della prima inquadratura
+La suspense viene mantenuta fino alla fine dell'inquadratura:
+La madre dovrebbe spendere i soldi delle medicine salvavita per il talismano?
+
+5–10s | Seconda inquadratura: Piano medio | Il mostro è opera umana
+Compito narrativo
+Attraverso una singola azione, ribaltare completamente il giudizio del pubblico.
+Inizio dell'inquadratura
+Passaggio a un piano medio sul profilo a tre quarti della Sorella Minore.
+La Sorella Minore stava guardando la donna del villaggio.
+In quel momento, nota la mano del fangshi, nascosta sotto la manica, stringersi all'improvviso.
+Guida dello sguardo
+La camera segue la sua linea di vista, inquadrando un sottile filo rosso teso.
+Un'estremità del filo rosso è collegata al meccanismo di bambù dietro la bancarella.
+Attivazione dell'ombra del falso mostro
+Il fangshi tira segretamente il filo rosso.
+L'ombra del mostro di stoffa nera si solleva improvvisamente dietro la tenda.
+Accompagnato da un suono stridulo e innaturale prodotto dal meccanismo, la donna del villaggio indietreggia violentemente.
+La sua mano sta quasi per consegnare l'argento al fangshi.
+La Sorella Minore capisce tutto
+La Sorella Minore ora ha capito.
+Non spiega nulla.
+Fa semplicemente un passo avanti.
+La mano destra estrae la spada.
+Azione chiave
+Un fendente diagonale rapido, pulito e preciso.
+La lama taglia il filo rosso teso.
+Il filo si spezza, il telaio di bambù perde istantaneamente sostegno.
+L'ombra del mostro di stoffa nera cade verso il basso.
+Verità smascherata
+Una maschera vuota di stoffa a forma di mostro, insieme ad aste di bambù e telai di legno, viene esposta davanti a tutti.
+Mentre il telaio di bambù colpisce il suolo con un tintinnio secco, il precedente ruggito terrificante si interrompe bruscamente.
+La mano del fangshi resta nella posizione in cui tirava la corda.
+Si blocca.
+La donna del villaggio guarda il meccanismo smontato, poi il proprio argento.
+Tutti capiscono.
+Principio di esecuzione della seconda inquadratura
+Questa inquadratura non richiede dialoghi.
+Il colpo di scena si compie affidandosi a:
+Oggetti di scena
+Movimenti delle mani
+Guida dello sguardo
+Feedback fisico reale
+
+10–15s | Terza inquadratura: Primo piano | Vendi la sua paura
+Compito narrativo
+Smashera la truffa, lasciando che l'emozione arrivi davvero alle persone comuni.
+Camera e profondità di campo
+L'inquadratura passa a un primo piano dei personaggi.
+Usare una reale profondità di campo ridotta per creare livelli spaziali netti tra:
+Il fangshi
+Le sorelle
+La donna del villaggio con il bambino
+La difesa del fangshi
+Il fangshi cerca di riprendere il controllo.
+Guarda il meccanismo smontato, si difende precipitosamente:
+[Fangshi] "Io vendo sicurezza!"
+Il giudizio della Sorella Maggiore
+La Sorella Maggiore in bianco non estrae la spada.
+Prima guarda il finto mostro a terra.
+Poi rivolge lo sguardo alla donna del villaggio ancora spaventata.
+Tono calmo ma tagliente:
+[Sorella Maggiore] "Tu vendi la sua paura."
+Chiusura dell'azione della Sorella Minore
+La camera segue la mano della Sorella Minore.
+Si avvicina alla donna del villaggio.
+Raccoglie delicatamente l'argento che la donna stava per pagare, rimettendolo nel suo palmo.
+Alza lo sguardo verso la donna:
+[Sorella Minore] "Prima cura il bambino."
+Approdo emotivo della donna del villaggio
+La donna del villaggio guarda l'argento che ha in mano.
+Finalmente sospira di sollievo.
+Poi tiene saldo il bambino e si allontana dalla bancarella.
+La Sorella Minore si fa da parte con naturalezza, liberandole il passaggio.
+Stato finale del fangshi
+Il fangshi resta lì, senza parole.
+Ultimo mezzo secondo di inquadratura
+L'inquadratura resta sul telaio di bambù smontato e sul talismano giallo.
+Il finto mostro di stoffa è completamente esposto.
+Nessuno compra più talismani.
+Retrogusto finale
+Il mostro è finto.
+Ma la preoccupazione della madre per suo figlio è reale.
+
+VIII. Requisiti di cinematografia e recitazione
+Specifiche di base
+Rigorosamente 15 secondi
+16:9 orizzontale
+Tre inquadrature cinematografiche complete con tagli diversi
+Continuità spaziale e d'azione
+
+Requisiti dell'inquadratura 1
+La prima inquadratura utilizza:
+Posizione della camera più bassa
+Avanzamento lento (push-in)
+Per far percepire al pubblico:
+L'impotenza della donna del villaggio
+L'atmosfera opprimente della bancarella
+
+Requisiti dell'inquadratura 2
+La seconda inquadratura usa la linea di vista della Sorella Minore come guida narrativa.
+L'ordine narrativo deve essere:
+Prima vedere la mano del fangshi
+Poi vedere il filo rosso teso
+Poi...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117123424669855744/img/gVtUer8oWA9GeKDL.jpg" width="600" alt="Prompt per Cortometraggio Xianxia Antico con Seedance 2.0 Mini">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13371)**
+
+**Autore:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2117124345281810678) | **Pubblicato:** Nov 2, 2026
+
+---
+### Strega in volo sopra una città di notte
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per creare un video fantasy cinematografico ultra-realistico di una strega che vola su una scopa attraverso una città illuminata al neon di notte.
+
+#### 📝 Prompt
+
+```
+Crea un video fantasy cinematografico ultra realistico con una misteriosa giovane strega che vola su una scopa magica attraverso una città buia, sotto il bagliore di una luna piena. Mostra nuvole drammatiche, fumo magico blu e un'atmosfera notturna avvolta nel mistero. La strega indossa un cappello a punta nero e un elegante outfit scuro, con lunghi capelli mossi dal vento. Riprendila mentre sfreccia tra alti edifici e si tuffa in picchiata lungo strade affollate illuminate dai neon. Aggiungi movimenti realistici, effetti magici luminosi, riprese cinematografiche, luci drammatiche e dettagli visivi mozzafiato. Stile da film fantasy di altissimo livello, 4K, fotorealistico, animazione fluida.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117120887447252992/img/jnp-YCYdCxX9r0VE.jpg" width="600" alt="Strega in volo sopra una città di notte">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13368)**
+
+**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2117120914139619479) | **Pubblicato:** Nov 2, 2026
+
+---
+### Seedance 2.0 Mini: Prompt per Scena di Rifiuto Romantico Xianxia
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt completo per Seedance 2.0 Mini che genera un drama emotivo di 15 secondi ambientato in un contesto Xianxia dell'antica Cina. Si concentra sul rifiuto durante una cerimonia nuziale, con recitazione sottile, interazioni specifiche con gli oggetti di scena (talismani di giada) e riprese cinematografiche.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | "Dieci anni e il resto della vita"
+
+Modello: Seedance 2.0 Mini
+Durata: Rigorosamente 15 secondi
+Rapporto d'aspetto: 16:9 Orizzontale
+Genere: Puro Xianxia cinese antico / Colpo di scena emotivo / Dramma relazionale tra personaggi maturi
+Struttura: Tre inquadrature cinematografiche continue, nitide e narrativamente distinte
+I. Prompt | Stile generale e direzione creativa
+Texture realistica da live-action cinematografico, estetica pura dello Xianxia cinese antico.
+Direzione generale:
+Colpo di scena emotivo maturo e trattenuto, dramma relazionale con reale profondità psicologica.
+Adottare:
+Messa in scena classica dei personaggi di alto livello
+Texture fotografica cinematografica Arri Alexa
+Texture della pelle realistica e definita
+Luce volumetrica naturale
+Grana della pellicola delicata
+Movimento realistico della seta
+II. Trama centrale e colpo di scena emotivo
+Due coltivatori hanno praticato insieme per dieci anni, raggiungendo finalmente il giorno in cui diventano ufficialmente compagni del Dao.
+Tutti credono che questo sia il traguardo di una relazione perfetta.
+Ma la Sorella Minore si rifiuta improvvisamente di suggellare il legame durante la cerimonia.
+Primo livello di suspense
+Il pubblico inizialmente si aspetta:
+Tradimento
+Segreti
+Qualcuno che ha commesso un errore imperdonabile
+Vero colpo di scena
+Nessuno dei due è diventato cattivo, né ha smesso di dare valore al passato; semplicemente, non riescono più a camminare verso lo stesso futuro.
+Dieci anni di sincerità restano sincerità.
+Ma il resto della vita non dovrebbe diventare il prezzo da pagare per il passato.
+Principi emotivi e narrativi
+La storia deve compiersi in modo naturale attraverso:
+Azioni dei personaggi
+Espressioni sottili
+Pause
+Dialoghi
+Evitare rigorosamente
+Spiegazioni lunghe
+Sentimentalismo improvviso
+Villainizzazione forzata
+Finali moralistici
+III. Identità dei personaggi e blocco degli asset
+Ruolo A | @Image1 | Sorella Maggiore Immortale della Spada
+Sempre la stessa Sorella Maggiore Immortale della Spada:
+Donna dell'Asia orientale di 25-30 anni
+Viso ovale e delicato
+Luminosi occhi a mandorla
+Lunghi capelli neri semi-raccolti
+Fissati con una forcina di giada bianca
+Alta e slanciata
+Stesso Hanfu di seta bianco ricamato
+Ampie maniche stratificate semitrasparenti
+Fascia argentata in vita
+Ciondolo di giada
+Stivali di stoffa bianca
+Impugna l'unica spada lunga d'argento
+Funzione del ruolo in questo segmento
+La Sorella Maggiore vestita di bianco esprime le relazioni principalmente attraverso:
+Osservazione
+Contatto visivo
+Reazioni trattenute
+Restrizioni chiave
+Non prendere decisioni al posto della Sorella Minore
+Non rubare lo spazio drammatico principale
+Ruolo B | @Image2 | Sorella Minore
+Sempre la stessa Sorella Minore:
+Donna dell'Asia orientale di 20-25 anni
+Viso rotondo e vivace
+Capelli neri intrecciati
+Stesso Hanfu antico verde
+Cintura scura
+Forcina di legno
+Scarpe di stoffa nera
+Impugna l'unica spada di acciaio scuro
+Posizionamento del ruolo in questo segmento
+La Sorella Minore è la protagonista emotiva di questa trama.
+Nuovo personaggio secondario | Coltivatore maschio
+Uomo adulto
+Indossa un'antica veste blu scuro
+Aspetto ordinario
+Temperamento equilibrato
+Ha praticato con la Sorella Minore per dieci anni
+Predestinato compagno del Dao della Sorella Minore
+Requisiti di continuità del personaggio
+Il coltivatore maschio deve mantenere:
+Identità indipendente
+Abbigliamento stabile
+Recitazione realistica del personaggio
+Non deve essere confuso con i protagonisti.
+Altri personaggi secondari
+Maestro Anziano
+Presiede la cerimonia del legame.
+Discepoli della Setta
+Un piccolo gruppo di discepoli come testimoni in lontananza.
+IV. DNA di sfondi e ambienti
+Tutte le immagini di riferimento caricate per sfondi e location determinano il mondo fisico reale.
+Pianificazione ambientale prima della composizione formale
+Completare silenziosamente un primo giro di pianificazione ambientale.
+Analizzare in modo completo nelle immagini di riferimento:
+Terreno
+Disposizione architettonica
+Scala spaziale
+Età dei materiali
+Ecologia vegetale
+Specchi d'acqua
+Nuvole e nebbia
+Condizioni meteo
+Direzione della luce principale
+Relazioni cromatiche
+Superfici riflettenti
+Profondità atmosferica
+Purché si mantenga la coerenza di:
+Identità della location
+Relazioni spaziali
+Logica fisica
+Trovare aree aperte naturali adatte, riorganizzandole in uno spazio cerimoniale con:
+Scala cinematografica
+Profondità spaziale
+Composizione unica
+V. Scena della cerimonia e oggetti di scena centrali
+Il luogo della cerimonia richiede solo:
+Un antico tavolo di pietra
+Due pegni di giada del contratto matrimoniale uniti da una corda rossa
+Pegni di giada del contratto matrimoniale
+Due ciondoli di giada
+Una corda di seta rossa che collega i due ciondoli
+Mantenere la texture reale della giada
+Mantenere la struttura fisica reale della corda rossa
+Altri oggetti di scena chiave
+Antico sigillo del capo della setta che simboleggia l'autorità
+Piccolo bagaglio già preparato dalla Sorella Minore
+VI. Sfondo vivo e neutralità narrativa
+Lo sfondo è sempre vibrante.
+Movimento naturale
+Il vento muove naturalmente maniche e vegetazione
+Le nuvole si spostano lentamente
+La nebbia montana scorre seguendo il terreno
+Gli specchi d'acqua mantengono il loro movimento dove presenti nelle immagini di riferimento
+Gli edifici lontani mantengono la prospettiva corretta
+I riflessi cambiano naturalmente con l'angolazione della camera
+Velocità e ampiezza dei movimenti ambientali devono variare in base alla profondità di campo.
+Principi di narrazione ambientale
+Tutti i movimenti dello sfondo esistono indipendentemente dalla trama.
+L'ambiente non deve mai:
+Creare conflitti
+Innescare colpi di scena
+Compiere scelte al posto dei personaggi
+VII. Struttura completa dello storyboard di 15 secondi
+0–5s | Prima inquadratura: Campo lungo | Rifiuto pubblico
+Design dell'inquadratura
+La camera esegue una lenta panoramica sul luogo dell'antica cerimonia.
+Stabilire relazioni spaziali chiare attraverso questi livelli:
+Tavolo di pietra in primo piano
+Personaggi nel piano intermedio
+Imponente architettura lontana, montagne o altri punti di riferimento centrali tratti dalle immagini di riferimento
+Posizioni iniziali dei personaggi
+Maestro Anziano
+In piedi dietro il tavolo cerimoniale di pietra.
+Coltivatore maschio
+Indossa una veste blu scuro, in piedi su un lato del tavolo di pietra.
+Tiene in mano uno dei pegni di giada del contratto matrimoniale.
+Sorella Minore in veste verde
+In piedi sull'altro lato del tavolo di pietra.
+Sorella Maggiore Immortale della Spada in veste bianca
+In piedi alcuni passi dietro la Sorella Minore, in diagonale, osserva in silenzio.
+Stato dell'oggetto di scena centrale
+Una corda di seta rossa collega i due ciondoli di giada.
+Inizio della cerimonia
+Il Maestro annuncia solennemente:
+[Maestro] "Contratto matrimoniale decennale, oggi lo suggelliamo."
+La Sorella Minore abbassa lo sguardo sulla corda di seta rossa.
+Non allunga la mano per prendere il suo ciondolo di giada.
+Invece, alza lentamente la testa per guardare l'uomo davanti a lei.
+Primo livello del colpo di scena
+[Sorella Minore] "Non lo farò."
+La cerimonia, fino a quel momento solenne, piomba improvvisamente nel silenzio.
+Reazione del coltivatore maschio
+La camera cattura il genuino stupore del coltivatore maschio in quell'istante.
+Requisiti di recitazione e ritmo
+Nessun urlo esagerato
+Nessuna folla che li circonda improvvisamente
+Creare suspense attraverso le pause dei personaggi e il silenzio spaziale.
+5–10s | Seconda inquadratura: Mezzo primo piano | Vera divergenza
+Requisiti di continuità
+Mantenere esattamente identici:
+Scena
+Personaggi
+Abbigliamento
+Posizione dei ciondoli di giada
+Design della camera
+La camera passa a un mezzo primo piano a due dei soggetti ripresi a tre quarti.
+Reazione del coltivatore maschio
+Il coltivatore maschio non si arrabbia.
+Né si chiede improvvisamente se lei abbia cambiato idea.
+Guarda seriamente la Sorella Minore, come se intuisse vagamente la risposta.
+Chiede dolcemente:
+[Coltivatore maschio] "Scenderai comunque dalla montagna?"
+Risposta della Sorella Minore
+La Sorella Minore lo guarda, altrettanto calma:
+[Sorella Minore] "E tu continuerai a custodirla?"
+Emozione e sguardo
+La camera usa sguardi sottili per rivelare le loro scelte diverse, maturate nel tempo.
+Contrasto visivo degli oggetti di scena
+Accanto al coltivatore maschio
+Giace l'antico sigillo del capo della setta che simboleggia l'autorità.
+Ai piedi della Sorella Minore
+Si trova il piccolo bagaglio già preparato.
+Relazione visiva
+Questi due oggetti creano un chiaro contrasto visivo:
+Una persona ha deciso di restare.
+L'altra è pronta a viaggiare lontano.
+Nessuno dei due sbaglia.
+Semplicemente non possono più camminare verso la stessa meta.
+Stato della Sorella Maggiore e dell'ambiente
+La Sorella Maggiore in veste bianca non interviene mai.
+Lo sfondo continua il suo movimento naturale e indipendente di:
+Vento
+Acqua
+Nuvole e nebbia
+Vegetazione
+Tessuti
+Riflessi
+10–15s | Terza inquadratura: Primo piano | Dieci anni e il resto della vita
+Ultima domanda del Maestro
+Il Maestro pone l'ultima domanda dal lato del tavolo di pietra:
+[Maestro] "E quei dieci anni?"
+Primo piano della Sorella Minore
+La camera passa a un primo piano della Sorella Minore.
+Non risponde immediatamente.
+Occhi appena lucidi, ma senza lacrime.
+Voce ferma, che porta con sé una vera riluttanza.
+[Sorella Minore] "Li custodirò nel cuore."
+Pausa emotiva
+Pausa piena di mezzo battito.
+Poi pronuncia la battuta finale:
+[Sorella Minore] "Non posso ripagare il passato con il resto della mia vita."
+Vero climax emotivo: sciogliere la corda rossa
+La camera si sposta rapidamente e naturalmente sulle mani del coltivatore maschio.
+Lui abbassa lo sguardo sulla corda di seta rossa che collega i due ciondoli di giada.
+Dopo una breve esitazione, non strappa la corda con rabbia.
+Invece, scioglie lentamente il nodo con le dita.
+Requisito vincolante per l'azione
+Questa azione deve essere reale, chiara e completa.
+Separazione dei ciondoli di giada
+Il coltivatore maschio appoggia delicatamente il ciondolo della Sorella Minore sul tavolo.
+Tiene l'altro per sé.
+Entrambi i ciondoli di giada sono intatti.
+Semplicemente non sono più collegati.
+Reazioni finali dei personaggi
+La Sorella Minore lo guarda.
+L'uomo alza gli occhi, facendole un cenno del capo quasi impercettibile.
+Questo cenno esprime:
+Comprensione
+Rimpianto
+Composizione cinematografica finale
+L'immagine finale si sofferma sui due ciondoli di giada sul tavolo:
+Intatti, ma ormai separati.
+Dietro, con una ridotta profondità di campo:
+Due persone che mantengono la giusta distanza
+La Sorella Maggiore in piedi dietro la Sorella Minore
+Gli occhi della Sorella Maggiore calmi e comprensivi
+Restrizioni per il finale
+Niente:
+Abbracci
+Riconciliazioni improvvise
+Cattivi
+Verdetti di vittoria/sconfitta
+Approdo emotivo finale
+Dieci anni non sono stati sprecati, semplicemente non c'è più bisogno di viaggiare insieme.
+VIII. Requisiti di esecuzione per Seedance 2.0 Mini
+Specifiche di base
+Modello: Seedance 2.0 Mini
+Durata totale rigorosa: 15 secondi
+Rapporto d'aspetto: 16:9 orizzontale
+Tre inquadrature cinematografiche continue, nitide e narrativamente distinte
+Tre funzioni narrative
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117112122387918848/img/FNMfOO9Jg3bQP4IZ.jpg" width="600" alt="Seedance 2.0 Mini: Prompt per Scena di Rifiuto Romantico Xianxia">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13374)**
+
+**Autore:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2117112170395914599) | **Pubblicato:** Nov 2, 2026
+
+---
+### Seedance 2.0 Fast: Pioggia nella Dinastia Qing
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un video comparativo che include Seedance 2.0 Fast. Il prompt è per la generazione i2v (da immagine a video) di una scena notturna con pioggia nel palazzo della dinastia Qing, con elementi ASMR.
+
+#### 📝 Prompt
+
+```
+Pioggia notturna nel palazzo della Dinastia Qing × Pioggia che batte su foglie e fiori di loto × Pesci koi e gracidare di rane × Fulmini e tuoni in lontananza × Cantante d'opera del Giardino dei Peri che prova un'aria × ASMR immersivo
+
+8 secondi, formato verticale 9:16, immagini cinematografiche realistiche.
+
+Notte d'estate, una pioggia sottile cade sul corridoio affacciato sull'acqua di un palazzo della Dinastia Qing. Grandi foglie di loto crescono nello stagno accanto al corridoio; vicino alle foglie spunta un fiore di loto rosa pallido semiaperto, con i petali bagnati dalla pioggia. Una lanterna di palazzo giallo caldo è appesa sotto la gronda, la sua luce si riflette nella bassa vasca di pietra e nell'acqua dello stagno.
+
+Una foglia di loto vicina è leggermente inclinata, con l'acqua piovana raccolta sulla superficie. Una piccola rana è accovacciata su una pietra a bordo vasca, mentre un pesce koi appare di tanto in tanto appena visibile nell'acqua bassa, con la sagoma parzialmente nascosta dalle gocce di pioggia e dalle ombre della lanterna.
+
+I pilastri di legno scuro e i corridoi in lontananza sono avvolti dalla notte piovosa. In fondo al corridoio si intravede il Giardino dei Peri debolmente illuminato: una figura umana sfocata si proietta sulla carta di riso della finestra, muovendosi lentamente di tanto in tanto. Le fredde tonalità blu della notte si fondono naturalmente con la luce calda della lanterna del palazzo.
+
+La telecamera è vicina alle foglie di loto e alla superficie dell'acqua, avanzando in modo estremamente lento da un'angolazione ribassata. Le foglie di loto vicine, i fiori e l'acqua che gocciola dalla gronda sono chiaramente visibili; una parte della lanterna del palazzo compare nella porzione superiore dell'inquadratura, mentre le ombre della finestra del lontano Giardino dei Peri restano sfumate. L'inquadratura presenta una netta profondità di campo, preservando silenziosi spazi d'ombra.
+
+0-2s: La pioggia sottile cade incessantemente sulle foglie di loto, producendo un fruscio fitto e morbido. Le foglie di loto tremano dolcemente, le gocce si raccolgono sulla loro superficie. L'acqua della gronda cade a intervalli nella vasca di pietra, emettendo un limpido ticchettio. Una piccola rana grida una o due volte a bordo vasca.
+
+2-4s: Dal lontano Giardino dei Peri arriva il suono di un cantante d'opera che prova un'aria; una voce melodiosa e delicata, senza parole, attraversa il velo di pioggia. La figura sfocata sulla carta di riso solleva lentamente una manica. Un pesce koi nuota piano sotto una foglia di loto, con la sagoma parzialmente nascosta dalle increspature dell'acqua e dal riflesso della lanterna.
+
+4-6s: Un breve lampo squarcia il cielo in lontananza; il bagliore bianco e freddo illumina le foglie di loto, i fiori e i fili di pioggia, per poi lasciare spazio alle calde tonalità scure della notte. Dopo una breve pausa, si sente un tuono basso e prolungato provenire da lontano, mentre la voce del cantante si fa temporaneamente più flebile.
+
+6-8s: Il tuono sfuma gradualmente. L'acqua piovana accumulata sulla foglia di loto inclinata scivola lungo il bordo finendo nello stagno, generando un suono d'acqua continuo e delicato, con increspature che attraversano il riflesso della lanterna. Il canto in lontananza è appena percettibile, la rana grida di nuovo a bordo vasca. Il suono della pioggia prosegue fino alla fine.
+
+[Sound Design]
+
+Per tutta la durata della clip, l'attenzione sonora è incentrata principalmente sul fruscio fitto della pioggia che colpisce le foglie di loto vicine e sul ticchettio intermittente dell'acqua che cade dalla gronda nella vasca di pietra. Il suono dell'acqua che scivola dalle foglie di loto nello stagno è limpido e delicato.
+
+Il gracidare della rana proviene dal bordo della vasca; il canto lirico dal lontano Giardino dei Peri; il tuono dal cielo ancora più distante. I suoni si alternano in modo naturale, con una chiara percezione delle distanze, mantenendo intatto il senso spaziale di una vera notte di pioggia.
+
+Prima appare il lampo, poi segue il tuono. Le gocce di pioggia, il tremolio delle foglie, lo scorrere dell'acqua e le increspature sono perfettamente sincronizzati con i suoni. Il tuono è basso e soffuso, ideale per un ascolto rilassato.
+
+Il canto lirico è delicato e profondo, presentato come una vocalizzazione senza parole. Nessun accompagnamento strumentale, nessuna musica di sottofondo, nessun dialogo.
+
+I movimenti delle foglie di loto, dei fiori, delle rane, dei pesci koi e delle figure in lontananza sono lenti e naturali. Il pesce koi resta sott'acqua, le ombre sulla finestra sono sfocate e nebulose, mentre l'acqua piovana, i riflessi e le luci risultano realistici e credibili.
+
+Firma fissa nell'angolo in basso a sinistra: prima un punto pieno blu scuro, seguito dalla scritta bianca in stile calligrafico "DeepBlue". La firma è piccola e nitida, con posizione e stile costanti per tutto il video, senza oscurare il soggetto principale, 9:16
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116920195797090304/img/Jkq7FrCBlu0TsKjW.jpg" width="600" alt="Seedance 2.0 Fast: Pioggia nella Dinastia Qing">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13372)**
+
+**Autore:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Fonte:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **Pubblicato:** Nov 1, 2026
+
+---
+### Video Ristrutturazione Pavimento Terrazzo Sughero
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per generare un video verticale che mostra la trasformazione di sughero da vino in un pavimento terrazzo lucido in una camera da letto, con passaggi di ristrutturazione e visivi di costruzione soddisfacenti.
+
+#### 📝 Prompt
+
+```
+Video verticale ambientato in una stanza vuota dalle pareti bianche, con un'unica finestra luminosa e una porta aperta. Un uomo in salopette blu e t-shirt scura rastrella un enorme cumulo di tappi di sughero sul pavimento, distribuendoli fino a formare uno strato piatto e uniforme che ricopre l'intera stanza. Subito dopo, una donna in salopette rossa versa da un grande secchio una densa resina epossidica bianca: il liquido lucido cola sui tappi e inonda tutto il pavimento, sommergendolo completamente. A seguire, alcuni operai con gilet antinfortunistici giallo fluo spingono avanti e indietro pesanti levigatrici per pavimenti, carteggiando la superficie indurita per far emergere gradualmente uno splendido motivo in stile terrazzo, con i frammenti di sughero sospesi nella resina bianca e liscia, lucidata a specchio. Infine, due uomini vestiti di nero portano dentro una struttura del letto in legno, la montano e la preparano con un materasso, cuscini bianchi e un plaid beige. Il video si chiude con un'inquadratura ampia della camera da letto finita, dove il luminoso pavimento in terrazzo di sughero riflette la luce del giorno. Stile timelapse di ristrutturazione appagante, transizioni fluide, luce naturale, texture realistiche, atmosfera da cantiere oddly satisfying.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116909245618692096/img/TSdqYOWdWORLvaVM.jpg" width="600" alt="Video Ristrutturazione Pavimento Terrazzo Sughero">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13369)**
+
+**Autore:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2116909289004556620) | **Pubblicato:** Nov 1, 2026
+
+---
+### Video artigianale: Realizza un lavandino in cemento con un ombrello
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per generare un video tutorial realistico di fai-da-te che mostra come trasformare un ombrello in un lavandino in cemento utilizzando cemento e ciottoli.
+
+#### 📝 Prompt
+
+```
+Un video di fai-da-te realistico, girato sotto un portico coperto con una parete in cemento e una porta di legno sullo sfondo. Un uomo con maglietta grigia e cappellino nero è in piedi davanti a un tavolo di legno rustico, su cui un ombrello giallo aperto è capovolto come fosse uno stampo. Con una cazzuola preleva del cemento grigio bagnato da un secchio nero e riempie l'ombrello, poi affonda una ciotola di plastica blu al centro dell'impasto e livella la superficie con le mani. Dispone dei ciottoli di fiume lisci formando un anello attorno alla ciotola, premendoli nel cemento. Una volta indurito il calcestruzzo, estrae la ciotola blu, rimuove il tessuto giallo dell'ombrello e svela un lavandino ottagonale in cemento con i ciottoli incastonati lungo il bordo. Pratica un foro di scarico al centro con un trapano a batteria, pulisce la vasca con un panno, vernicia l'intero lavandino di bianco usando un pennello e infine spruzza sui ciottoli una vernice blu lucida. La scena finale mostra il lavandino di design ormai completato, installato in un bagno moderno con rubinetto cromato, mentre l'uomo si lava le mani sotto l'acqua corrente. Ripresa fluida a mano libera, luce naturale del giorno, trasformazione appagante, stile tutorial.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116908302177009664/img/tOwAXa3GGvl22aee.jpg" width="600" alt="Video artigianale: Realizza un lavandino in cemento con un ombrello">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13366)**
+
+**Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2116908365364256821) | **Pubblicato:** Nov 1, 2026
+
+---
+### Video del Pavimento Terrazzo in Marmo per Camera da Letto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per creare un video verticale che mostra il processo di trasformazione delle biglie di vetro in un pavimento terrazzo lucido all'interno di una camera da letto moderna.
+
+#### 📝 Prompt
+
+```
+Video verticale, stile fotorealistico, stanza luminosa e vuota con pareti bianche e un'ampia finestra. Un uomo in salopette di jeans blu rastrella un enorme cumulo di migliaia di biglie di vetro colorate su un pavimento in cemento, distribuendole uniformemente in tutta la stanza. Una donna in salopette rossa versa da un grande secchio una densa resina epossidica autolivellante bianca sulle biglie: il liquido lucido scorre e le ricopre, mentre lei lo stende in modo uniforme con un rastrello. Un operaio con gilet giallo ad alta visibilità utilizza una levigatrice per pavimenti per smerigliare e lucidare la superficie, rivelando uno splendido pavimento lucido con puntini tondi di biglie colorate incastonati come pietre levigate. Due operai montano una struttura del letto in legno, posizionano un materasso bianco e preparano il letto con lenzuola bianche, cuscini beige e una coperta plaid. Inquadratura finale ampia di un'accogliente camera da letto moderna con l'esclusivo pavimento in terrazzo di marmo che risplende alla luce naturale del giorno. Riprese fluide, trasformazione di ristrutturazione appagante, atmosfera ASMR, illuminazione realistica, alto livello di dettaglio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116880395002138624/img/jdcG-y-8Shk4Au0c.jpg" width="600" alt="Video del Pavimento Terrazzo in Marmo per Camera da Letto">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13370)**
+
+**Autore:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **Pubblicato:** Nov 1, 2026
+
+---
+### Pavimento della Camera da Letto Terrazzo con Fette di Cetriolo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare un video di ristrutturazione iperrealistico in cui le fette di cetriolo vengono utilizzate come aggregato in un pavimento in resina bianca, trasformandosi in una camera da letto di lusso.
+
+#### 📝 Prompt
+
+```
+Video verticale in una stanza vuota e luminosa con pareti bianche, pavimento in cemento grezzo e un'ampia finestra da cui entra la luce del giorno. Un uomo in tuta arancione e maglietta nera rastrella un enorme cumulo di fette di cetriolo fresco, distribuendole fino a formare uno strato piatto e uniforme su tutto il pavimento. Una donna in tuta rossa lo raggiunge e insieme versano delle secchiate di resina bianca densa sulle fette, stendendola con delle spatole finché ogni fetta non è completamente sommersa sotto una superficie bianca e lucida. Una squadra con gilet gialli ad alta visibilità e cuffie antirumore leviga e lucida quindi il pavimento con le macchine e aspira la polvere, carteggiando la superficie per rivelare le fette di cetriolo traslucide incastonate nel pavimento bianco, simile al terrazzo, come pois verdi. Un operaio in tuta arancione si inginocchia per pulire il pavimento a mano, mentre le lucidatrici gli conferiscono una brillantezza a specchio. Infine, due traslocatori portano dentro un letto beige con lenzuola bianche e un comodino rotondo in legno con un vaso e dei libri, trasformando lo spazio in una camera da letto dal design minimalista. Inquadratura finale d'effetto: lenta panoramica sul pavimento bianco e lucido punteggiato dalle fette di cetriolo incastonate, luce naturale morbida, ristrutturazione appagante in stile ASMR, dettagli fotorealistici, movimento di macchina fluido e cinematografico.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116879474146820096/img/9EVrV0bsiBxieDBp.jpg" width="600" alt="Pavimento della Camera da Letto Terrazzo con Fette di Cetriolo">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13367)**
+
+**Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2116879515527905597) | **Pubblicato:** Nov 1, 2026
+
+---
 ### Video di Ristrutturazione del Pavimento Terrazzo con Jelly Bean
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1128,6 +1879,30 @@ Telecamera fissa inquadrata attraverso una porta che si affaccia su una camera d
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13127)**
 
 **Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2115506584159969679) | **Pubblicato:** Oct 28, 2026
+
+---
+### Confronto sulla Generazione Video ASMR: Seedance 2.0 Mini vs Altri
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt dettagliato per generare un video in stile ASMR che mostra una donna mentre taglia e mangia una torta travestita da pietra, utilizzato per confrontare Seedance 2.0 Mini con altri modelli di AI video come Gemini, Meta Muse e Grok.
+
+#### 📝 Prompt
+
+```
+Su una coperta da picnic lungo il fiume, un sassolino grigio-marrone riposa al centro di un piatto di legno. Presenta venature naturali sulla superficie e una forma arrotondata, ed è quasi identico alle vere pietre lì accanto.
+
+Una giovane donna dell'Asia orientale, dal fisico a clessidra, allunga la mano per raccoglierlo, lo picchietta con cautela e poi lo taglia in due con un coltello. Il guscio di cioccolato sottile e croccante si spezza, rivelando strati compatti di torta al matcha e alla vaniglia. Si ferma un istante, ne prende metà e le dà un morso, sporcandosi leggermente le labbra di crema, senza riuscire a trattenere un sorriso.
+
+Concentrarsi sul catturare il suono croccante della lama che frantuma il guscio, il morbido fruscio del taglio della torta e il leggero scricchiolio delle briciole quando viene morsa. In lontananza si percepiscono il debole scorrere dell'acqua e il canto degli uccelli.
+Luce naturale, atmosfera tipica di uno scatto all'aperto con smartphone, texture realistiche, movimenti naturali. Nessun dialogo, nessuna musica di sottofondo, formato 9:16, 10 secondi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115347738091286529/img/NyA_vpwalRjR94Rz.jpg" width="600" alt="Confronto sulla Generazione Video ASMR: Seedance 2.0 Mini vs Altri">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13373)**
+
+**Autore:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Fonte:** [Link](https://x.com/DeepBlueX0/status/2115347819557261557) | **Pubblicato:** Oct 28, 2026
 
 ---
 ### Annuncio del siero labbra alla ciliegia
@@ -3734,303 +4509,6 @@ Crea un video cinematografico ultra-realistico di 30 secondi che presenta una be
 **Autore:** [liana](https://x.com/Lianaalane) | **Fonte:** [Link](https://x.com/Lianaalane/status/2109876446089134244) | **Pubblicato:** Oct 13, 2026
 
 ---
-### Scena notturna di ramen in un convenience store coreano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per generare un video cinematografico di 30 secondi che ritrae tre donne coreane mentre gustano ramen istantaneo in un convenience store, con texture cutanee realistiche, streetwear casual e un'atmosfera notturna suggestiva.
-
-#### 📝 Prompt
-
-```
-Video da 30 secondi creato. Bellissime ragazze coreane si godono una pausa notturna a base di ramen in un convenience store coreano. Tre giovani donne coreane stilose, dotate di bellezza naturale, texture cutanee realistiche, occhi scuri ed espressivi e streetwear casual, si riuniscono attorno al bancone del ramen sotto le luci fluorescenti intense. Una indossa una giacca sportiva blu e nera con pantaloni della tuta larghi color navy; la seconda ha capelli corti grigio argento e una giacca nera; la terza porta un outfit casual scuro con capelli neri lisci. Preparano il ramen istantaneo, tengono in mano latte al cioccolato e snack, condividendo un pasto rilassato nel cuore della notte. Includere primi piani cinematografici delle tazze di ramen fumanti, bacchette che sollevano gli spaghetti, una ragazza che soffia delicatamente sui noodles caldi prima di mangiarli e amiche che gustano il cibo chiacchierando naturalmente. Transizione verso un'inquadratura più ampia delle ragazze sedute a un piccolo tavolo rotondo accanto alla vetrina del convenience store, con le luci della città che brillano all'esterno e riflessi sul vetro. Verso la fine, una ragazza si alza, sistema lo zaino e si dirige verso l'ingresso in vetro, mentre le altre restano sedute. Catturare l'autentica cultura dei convenience store coreani, momenti di amicizia spontanei, espressioni facciali sottili, movimenti naturali, texture alimentari realistiche e vapore, movimento della telecamera a mano, profondità di campo ridotta, color grading cinematografico freddo e bluastro, riflessi morbidi, atmosfera notturna suggestiva, cinematografia live-action ultra-realistica, personaggi coerenti, dettagliate texture degli abiti, transizioni fluide, formato verticale 9:16, qualità 4K, senza sottotitoli, senza testo, senza watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109852123366297600/img/HkCxcaBcWv0hhLJg.jpg" width="600" alt="Scena notturna di ramen in un convenience store coreano">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12481)**
-
-**Autore:** [Ayat](https://x.com/aiwithaayat) | **Fonte:** [Link](https://x.com/aiwithaayat/status/2109852187186827283) | **Pubblicato:** Oct 13, 2026
-
----
-### Riflesso nel Finestrino della Metropolitana: Micro MV K-Pop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt di movimento dettagliato per Seedance 2.0 Fast per generare una scena fotorealistica di un micro video musicale K-pop, in cui un'artista osserva il proprio riflesso nel finestrino della metropolitana, catturando un'intima romance urbana notturna e specifici effetti di illuminazione.
-
-#### 📝 Prompt
-
-```
-Narrativa cinematografica fotorealistica, micro video musicale K-pop, verticale 9:16, esattamente la stessa identità adulta fittizia/le stesse identità fittizie adulte e gli stessi abiti dell'immagine iniziale. Movimento umano naturale e anatomia stabile, ambiente reale fotografato, nessun testo, nessun logo, nessuna nuova persona, nessun canto o sincronizzazione labiale. MAGNETAR. Basato sui testi 'Il mio viso riflesso nel finestrino della metropolitana / un po' più audace del solito.' Inizia con la stessa Lea in giacca di pelle rosso ciliegia nella metropolitana notturna. 0-4s piano medio con un singolo riflesso nel finestrino fisicamente accurato: le luci della galleria scorrono, lei studia il suo viso, respiro lento e spalle che si raddrizzano con risolutezza. 4-7s abbassa lo sguardo sul telefono, effettua un tocco decisivo come se scegliesse di fare il primo passo; l'espressione diventa silenziosamente coraggiosa. 7-10s la camera descrive un arco sottile verso un primo piano frontale a tre quarti, lei solleva lo sguardo verso le porte del treno e regala un piccolo sorriso sicuro. Mantieni il riflesso sincronizzato, preserva i capelli rosa e il viso esatto, niente sfocature rapide o duplicazioni della persona. Intima romance urbana notturna con illuminazione fredda acciaio/rosso.
-Impostazioni: Seedance 2.0 Fast / 720p / 9:16 / sorgente da 10 secondi / audio generato disattivato. Traccia Suno originale aggiunta tramite FFmpeg.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109757910226255872/img/d5uON0jYhMBaPmsJ.jpg" width="600" alt="Riflesso nel Finestrino della Metropolitana: Micro MV K-Pop">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12482)**
-
-**Autore:** [🇰🇷Dave_Joe_9377🇦🇺](https://x.com/Dave_Joe_9377) | **Fonte:** [Link](https://x.com/Dave_Joe_9377/status/2109758263797727608) | **Pubblicato:** Oct 12, 2026
-
----
-### Interruzione comica all'incoronazione medievale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per una commedia cinematografica di 20 secondi in cui un uomo moderno interrompe una cerimonia di incoronazione medievale per rimuovere il cartellino del prezzo dalla corona.
-
-#### 📝 Prompt
-
-```
-L'INCORONAZIONE — COMMEDIA CINEMATOGRAFICA DI 20 SECONDI
-
-MODELLO: Seedance 2.5
-DURATA: 20 secondi
-RAPPORTO D'ASPECT: 16:9
-STILE: Film fantasy medievale live-action fotorealistico con sottile comicità assurda.
-IMMAGINI DI RIFERIMENTO E BLOCCO DEI PERSONAGGI
-Utilizzare le schede dei personaggi caricati (Re, Principe e Uomo Casuale) come riferimenti visivi definitivi.
-Re: Preservare esattamente il suo volto, i capelli striati di grigio, la barba, la corona e l'abito reale bordeaux.
-
-Principe: Preservare esattamente il suo volto, l'acconciatura, l'abito da incoronazione blu navy e oro, il mantello blu e la corona una volta posizionata.
-
-Uomo Casuale: Preservare esattamente il suo volto, l'acconciatura, l'abbigliamento casual moderno e le proporzioni del corpo.
-
-Mantenere identità dei personaggi, costumi, illuminazione e layout della sala del trono coerenti per tutta la durata del video.
-LOCATION E ATMOSFERA
-Un'enorme sala del trono reale medievale con imponenti colonne di pietra, lampadari dorati, alte vetrate colorate, stendardi in velluto rosso e un magnifico trono d'oro. La corte reale è in piedi silenziosa su entrambi i lati di un tappeto rosso.
-
-L'atmosfera è estremamente seria ed emotivamente grandiosa, come il climax di un film epico fantasy. Una calda luce solare dorata filtra attraverso le finestre. La musica è maestosa, con una partitura orchestrale completa.
-
-L'uomo moderno deve apparire completamente fuori posto in questo ambiente medievale.
-
-SCENA 1 — IL MOMENTO DELL'INCORONAZIONE
-
-0–5 secondi
-
-Piano sequenza cinematografico ampio della sala del trono reale. Il principe è inginocchiato su un cuscino davanti al re. Il re sta solennemente di fronte a lui, tenendo una corona d'oro ornata con entrambe le mani.
-
-La corte osserva in assoluto silenzio.
-Taglio su un primo piano medio del re che solleva lentamente la corona sopra la testa del principe.
-
-Il re parla con voce profonda e solenne:
-
-RE: "Oggi diventerai re."
-
-La musica orchestrale cresce drammaticamente. Il principe china la testa con totale serietà.
-
-SCENA 2 — L'UOMO SBAGLIATO ENTRA
-
-5–9 secondi
-
-Proprio mentre il re sta per abbassare la corona, un uomo moderno vestito in modo casual, con felpa scura con cappuccio, jeans e scarpe da ginnastica, entra nella cerimonia reale dal lato della sala.
-
-Cammina direttamente tra il re e il principe come se appartenesse lì.
-Il re si blocca con la corona sospesa a mezz'aria. Il principe rimane inginocchiato, guardando leggermente confuso. I cortigieri fissano increduli in silenzio.
-
-L'uomo moderno barely acknowledges anyone. He notices the crown, looks at it critically, and gives a small disapproving shake of his head.
-
-La musica orchestrale si attenua bruscamente in una nota sostenuta imbarazzante.
-
-SCENA 3 — LA RIPARAZIONE INASPETTATA
-
-9–14 secondi
-
-In un'unica azione continua e chiaramente visibile, l'uomo moderno prende casualmente la corona dalle mani del re.
-
-Nota un piccolo cartellino del prezzo di carta appeso alla corona, lo rimuove e lo infila in tasca. Poi raddrizza delicatamente il colletto storto del principe e sposta il trono reale di pochi centimetri per allinearlo meglio con il tappeto.
-I suoi movimenti sono pratici, rapidi e completamente indifferente.
-
-Il re rimane immobile, visibilmente sconcertato ma cercando di preservare la sua dignità reale. Il principe guarda dall'uomo al padre, incerto sul fatto che gli sia permesso muoversi.
-
-L'uomo fa un passo indietro, esamina il suo lavoro e dà un cenno soddisfatto.
-
-UOMO CASUALE: "Molto meglio."
-
-Consegnare la battuta in modo casuale, con una voce conversazionale naturale, senza pause drammatiche o consegne comiche esagerate.
-
-SCENA 4 — SI TORNA AL LAVORO
-
-14–17 secondi
-
-L'uomo moderno si gira e cammina casualmente fuori dalla sala del trono nello stesso modo in cui è entrato.
-
-Nessuno lo ferma. Nessuno parla.
-Il re segue lentamente con gli occhi, poi guarda la corona nelle sue mani come se cercasse di capire cosa appena successo.
-
-Il principe rimane inginocchiato nella stessa identica posizione.
-
-L'uomo esce completamente dall'inquadratura.
-
-SCENA 5 — L'INCORONAZIONE CONTINUA
-
-17–20 secondi
-
-Taglio su un primo piano medio cinematografico del re che prende un respiro profondo, recupera la compostezza e si posiziona attentamente per continuare la cerimonia.
-
-Solleva di nuovo la corona.
-Il principe china la testa.
-
-La musica orchestrale riprende la sua intensità maestosa originale, come se l'interruzione non fosse mai avvenuta.
-
-RE: "Oggi… diventerai re."
-
-Terminare immediatamente sul volto perfettamente serio del re.
-
-Taglio al nero.
-
-FOTOCAMERA E MONTAGGIO
-
-Utilizzare inquadrature cinematografiche professionali, movimenti di camera fluidi e controllati, profondità di campo realistica, micro-espressioni facciali naturali e tagli puliti in stile film. Stabilire la stanza prima di passare a piani medi e primi piani. Rendere l'ingresso dell'uomo moderno e le sue azioni pratiche facilmente visibili.
-
-Mantenere la comicità sobria e guidata dal timing, dal silenzio imbarazzante e dal contrasto tra la cerimonia epica e il comportamento mondano dell'uomo.
-
-DESIGN AUDIO
-
-Musica orchestrale maestosa durante l'incoronazione, passi leggeri e movimento dei vestiti, una leggera interruzione musicale quando l'uomo entra, un fruscio di carta morbido mentre rimuove il cartellino del prezzo, e un ritorno alla grandiosità orchestrale completa per la battuta finale.
-
-Tutti i dialoghi devono essere chiaramente udibili, pronunciati naturalmente in inglese e non eccessivamente teatrali.
-
-VINCOLI NEGATIVI STRETTI
-
-NON generare sottotitoli, didascalie, sovrapposizioni di testo, filigrane, loghi o testi sullo schermo di alcun tipo.
-NON mostrare le battute pronunciate come testo scritto sullo schermo.
-I dialoghi devono esistere solo come audio parlato, mai come tipografia visibile.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109652073189097472/img/WVJ7tQSgnKUnJfqs.jpg" width="600" alt="Interruzione comica all'incoronazione medievale">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12392)**
-
-**Autore:** [Caden Flux](https://x.com/Caden_Flux) | **Fonte:** [Link](https://x.com/Caden_Flux/status/2109652904864829898) | **Pubblicato:** Oct 12, 2026
-
----
-### Prompt per Cortometraggio in Stile Pixar: Frutteto di Mango
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt dettagliato per la generazione video con Seedance 2.0, progettato per creare un cortometraggio animato di 12 secondi in stile Pixar che ritrae un contadino in un frutteto di mango.
-
-#### 📝 Prompt
-
-```
-Cortometraggio animato di 12 secondi, stile cartoon 3D Pixar, illuminazione pastorale luminosa, caldi raggi del sole pomeridiano che filtrano attraverso le foglie. Un contadino di mezza età indossa un cappello di paglia a tesa larga, una camicia kaki chiara con maniche arrotolate, pantaloni scuri e una piccola borsa di stoffa alla vita; si trova in un rigoglioso frutteto di mango, toccando delicatamente i manghi verdi e polposi sui rami con un lieve sorriso. Sullo sfondo, colline ondulate, cielo azzurro e nuvole bianche.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109650656302972929/img/mtXPkMSZfdrAx-sF.jpg" width="600" alt="Prompt per Cortometraggio in Stile Pixar: Frutteto di Mango">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12395)**
-
-**Autore:** [Jackzhao](https://x.com/Jackzhaoh6ob) | **Fonte:** [Link](https://x.com/Jackzhaoh6ob/status/2109651272303550940) | **Pubblicato:** Oct 12, 2026
-
----
-### Video di una routine alla trave per ginnasta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per un video cinematografico ultra-realistico di una ginnasta che esegue una routine elegante sulla trave in una palestra al coperto.
-
-#### 📝 Prompt
-
-```
-Video cinematografico ultra-realistico di una giovane e talentuosa ginnasta che esegue una routine elegante sulla trave all'interno di una tradizionale palestra di ginnastica. Indossa un body bordeaux a maniche lunghe, con i capelli castani raccolti ordinatamente. Cammina con grazia lungo la trave, estende le braccia per mantenere l'equilibrio ed esegue uno spettacolare spaccato completo con perfetta flessibilità e controllo. In background, un pubblico seduto osserva attentamente. Illuminazione interna calda, texture della pelle realistica, movimenti naturali del corpo, tracking fluido della camera cinematografica, profondità di campo ridotta, bokeh morbido dello sfondo, fotografia sportiva professionale, movimento realistico, 4K UHD, 24fps, composizione verticale 9:16, altamente dettagliato, fotorealistico.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109510154567974912/img/KvPK7VQYYAV2EzZm.jpg" width="600" alt="Video di una routine alla trave per ginnasta">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12358)**
-
-**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2109510249573191819) | **Pubblicato:** Oct 12, 2026
-
----
-### Video Fantasy Cinematografico con Drago Rosa e Donna in Cabina
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt dettagliato per generare un video fantasy cinematografico ultra-realistico di 36 secondi, che mostra una giovane donna interagire con un adorabile baby drago rosa all'interno di una cabina di legno innevata.
-
-#### 📝 Prompt
-
-```
-Crea un fantastico video fantasy cinematografico ultra-realistico di 36 secondi, che mostri una bella giovane donna dai lunghi capelli scuri e mossi, indossando un comodo maglione beige a maglia, mentre interagisce con un adorabile baby drago rosa all'interno di una rustica cabina di legno circondata da montagne innevate. La donna prepara delicatamente cibo fresco, sorride alla piccola creatura e la nutre amorevolmente mentre i suoi grandi occhi dorati brillano di curiosità. L'adorabile drago muove le sue piccole ali, dimena la coda e si accuccia tra le braccia della donna, illuminato dalla calda luce del camino. All'esterno delle finestre della cabina cade la neve, creando un'atmosfera invernale magica con paesaggi mozzafiato. Includi bellissimi primi piani delle delicate squame rosa del drago, delle frange traslucide e degli occhi espressivi, insieme alle espressioni naturali del viso della donna. Aggiungi movimenti fluidi della cinepresa cinematografica, interazioni realistiche, interni in legno dettagliati, illuminazione soffusa e transizioni di scena senza soluzione di continuità. La donna coccola teneramente la creatura accanto al camino acceso mentre il drago la guarda affettuosamente dal basso verso l'alto. Mantieni una perfetta coerenza dei personaggi, texture fotorealistiche, movimenti naturali, cinematografia professionale in 4K e un'atmosfera fantasy emotivamente coinvolgente, priva di testo, loghi o filigrane.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109456966603161600/img/yQObaARfkE7CuA3p.jpg" width="600" alt="Video Fantasy Cinematografico con Drago Rosa e Donna in Cabina">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12356)**
-
-**Autore:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2109457141174247789) | **Pubblicato:** Oct 12, 2026
-
----
-### Allenamento di Arti Marziali Cinematografico in un Dojo Giapponese
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per generare una scena di allenamento di arti marziali ultra-realistica e cinematografica, con due donne che praticano il combattimento corpo a corpo in un tradizionale dojo giapponese in legno.
-
-#### 📝 Prompt
-
-```
-Prompt Video AI: Allenamento di Arti Marziali Cinematografico
-
-Crea una scena di allenamento di arti marziali ultra-realistica e cinematografica che ritrae due giovani donne esperte mentre praticano il combattimento corpo a corpo in un tradizionale dojo giapponese in legno, circondato da un rigoglioso giardino verde. Una donna ha i capelli castani raccolti in una coda di cavallo e indossa una maglietta da allenamento marrone a maniche lunghe con pantaloni scuri. L'altra ha i capelli neri corti e ricci e indossa un abito da arti marziali beige chiaro con pantaloni scuri.
-
-Eseguono pugni, parate, movimenti difensivi e contrattacchi realistici con velocità, precisione ed equilibrio impressionanti. I loro movimenti devono fluire naturalmente, con una meccanica corporea accurata, un footwork realistico, espressioni facciali vivide e coreografie autentiche di arti marziali. La luce naturale soffusa filtra attraverso il padiglione in legno, illuminando il pavimento lucido e il paesaggio verde.
-
-Fotocamera: Inquadrature medie-larghe cinematografiche, movimenti di tracking fluidi, occasionali primi piani, motion blur realistico e angolazioni dinamiche.
-
-Stile visivo: Fotorealistico, qualità cinematografica 4K, illuminazione naturale, texture dei tessuti dettagliate, profondità di campo ridotta, leggera grana del film, cinematografia professionale da film d'azione.
-
-Atmosfera: Intensa, disciplinata, elegante, potente e concentrata.
-
-Formato: Verticale 9:16, movimento continuo realistico, aspetto dei personaggi coerente, nessun taglio che interrompa la coreografia, nessuna anatomia distorta, nessun arto extra, nessun testo, nessun watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109200093870219264/img/VT3q4u7Y8J729LDG.jpg" width="600" alt="Allenamento di Arti Marziali Cinematografico in un Dojo Giapponese">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12357)**
-
-**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2109200265534718164) | **Pubblicato:** Oct 11, 2026
-
----
-### Video d'azione cinematografico di una guerriera donna in fiamme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt dettagliato per generare un video d'azione fantasy cinematografico ultra-realistico di 15 secondi, che ritrae una guerriera donna dai capelli argentati e occhi luminosi, armata di lancia in mezzo a fiamme ardenti su un campo di battaglia buio.
-
-#### 📝 Prompt
-
-```
-Creato un video d'azione fantasy cinematografico ultra-realistico di 15 secondi che presenta una potente guerriera donna con lunghi capelli argentati, occhi dorati luminosi e un elegante outfit da combattimento nero, mentre impugna una massiccia lancia circondata da fiamme arancioni ardenti. Si precipita in avanti attraverso un campo di battaglia buio, eseguendo attacchi rapidi e potenti con scie infuocate e scintille volanti. La telecamera segue i suoi movimenti fluidamente, catturando primi piani drammatici, inquadrature d'azione ampie e momenti di combattimento intensi. Salta in alto nell'aria, facendo roteare la sua lancia mentre energia magica di fuoco si accumula attorno al suo corpo. Colpisce il terreno con forza incredibile, creando una massiccia esplosione di fiamme, fumo e braci luminose. I suoi capelli argentati fluttuano naturalmente nel vento mentre i suoi occhi dorati brillano di fiera determinazione. Il campo di battaglia si illumina di energia arancione mentre i nemici scompaiono nel fumo. Termina con una posa eroica drammatica, la sua lancia brilla intensamente mentre il fuoco vortica intorno a lei. Mantieni dettagli del personaggio coerenti, movimento realistico, illuminazione cinematografica, transizioni fluide e effetti visivi mozzafiato di alta qualità per tutta la durata del video.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109136974116499456/img/snE8D7hQi20LDhvy.jpg" width="600" alt="Video d'azione cinematografico di una guerriera donna in fiamme">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12303)**
-
-**Autore:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2109137173224337478) | **Pubblicato:** Oct 11, 2026
-
----
-### Arciera Medievale Femminile a Cavallo nella Foresta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt dettagliato per un film fantasy medievale di 15 secondi che presenta una arciera femmina a cavallo in una foresta di pini avvolta nella nebbia, mentre tende l'arco e arriva in un campo. Include istruzioni specifiche sulla cinematografia e sulla fisica.
-
-#### 📝 Prompt
-
-```
-Crea un film fantasy medievale ultra-realistico ad alto budget di 15 secondi, con una bella e feroce arciera femmina dai lunghi capelli castani sciolti, vestita con un'armatura in pelle marrone scuro ispirata alla storia, spalle bordate di pelliccia, un abbigliamento medievale robusto, una cintura di cuoio e una faretra piena di frecce legata sulla schiena. Cavalca un muscoloso cavallo nero attraverso una densa antica foresta di pini, immersa in una spessa nebbia atmosferica, con il terreno coperto di muschio, rocce sparse e alberi imponenti. Inizia immediatamente con un ampio piano cinematografico posteriore della guerriera a cavallo lungo un sentiero stretto della foresta, mentre la calda luce dorata del sole filtra tra gli alberi, creando raggi luminosi volumetrici drammatici e un'atmosfera misteriosa. La camera segue fluidamente dietro il cavallo mentre gli zoccoli si muovono naturalmente sul terreno irregolare, disturbando piccole foglie, terra e muschio. Passa a un primo piano laterale drammatico dal basso angolo della guerriera che tiene un arco tradizionale curvo nero, tendendo la corda dell'arco all'indietro con una singola freccia e mirando con intensa concentrazione. I muscoli delle sue braccia si tendono naturalmente, l'arco si piega sotto una tensione realistica, e i suoi capelli e i vestiti bordati di pelliccia reagiscono alla fresca brezza della foresta. Cattura la sua espressione facciale determinata, la texture realistica della pelle, l'armatura in pelle dettagliata e le singole frecce nella sua faretra. Negli ultimi secondi, passa a un ampio piano sequenza posteriore mentre cavalca verso un accampamento medievale nascosto circondato da sempreverdi imponenti, tende rustiche, strutture in legno e gruppi di guerrieri vestiti con autentici abiti e armature medievali. I guerrieri si voltano verso il suo arrivo, creando l'atmosfera di una leggendaria capotribù che torna al suo popolo. Mantieni un'identità coerente del personaggio, l'abbigliamento, l'aspetto del cavallo e proporzioni corporee realistiche in ogni inquadratura. Usa transizioni cinematografiche della camera, locomozione naturale del cavallo, anatomia equestre accurata, gravità realistica, inerzia, movimento muscolare, simulazione dei tessuti e illuminazione fisicamente credibile. Cinematografia premium di Hollywood per il fantasy medievale, texture fotorealistiche, nebbia atmosferica, colori terrosi smorzati, illuminazione naturale drammatica, leggera grana del film, profondità di campo ridotta, qualità 4K, 24 FPS, effetti sonori ambientali immersivi degli zoccoli del cavallo, movimento del cuoio, vento tra i pini e ambienza lontana dell'accampamento. Nessun oggetto moderno, nessun effetto cartone animato, nessun sottotitolo, nessun testo, nessun logo e nessuna filigrana.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109123010812870656/img/EHX4CdPkZ_XLXU_e.jpg" width="600" alt="Arciera Medievale Femminile a Cavallo nella Foresta">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12304)**
-
-**Autore:** [Ayat](https://x.com/aiwithaayat) | **Fonte:** [Link](https://x.com/aiwithaayat/status/2109123171408560343) | **Pubblicato:** Oct 11, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -4092,6 +4570,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-02T05:01:33.582Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-02T18:12:49.352Z</sub>
 
 </div>

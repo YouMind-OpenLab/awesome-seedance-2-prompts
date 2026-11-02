@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6624** |
+| 📝 Tổng số prompt | **6633** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-11-02** |
 
@@ -361,6 +361,773 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Prompt Phim Ngắn Tiên Hiệp Cổ Trang Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Hướng dẫn tạo video toàn diện cho Seedance 2.0 Mini, xây dựng cảnh quay điện ảnh 15 giây trong bối cảnh tiên hiệp cổ trang Trung Quốc. Tài liệu chi tiết về tính nhất quán nhân vật với hình ảnh tham chiếu, các chuyển động máy quay cụ thể (quét ngang, theo dõi), điều kiện ánh sáng và một nút thắt kịch tính liên quan đến chiêu trò lừa đảo quái vật giả.
+
+#### 📝 Prompt
+
+```
+Mô hình: Seedance 2.0 Mini
+Thời lượng: Chính xác 15 giây
+Tỷ lệ khung hình: 16:9 Ngang
+Thể loại: Tiên hiệp cổ trang Trung Quốc thuần túy / Cú twist kịch tính / Châm biếm xã hội / Kịch tính quan hệ nhân vật
+Cấu trúc: Ba cảnh phim liên tiếp, rõ ràng với các chức năng tự sự khác nhau.
+
+I. Prompt | Phong cách tổng thể và Định hướng sáng tạo
+Phong cách điện ảnh chân thực như người đóng (live-action), thẩm mỹ Tiên hiệp cổ trang Trung Quốc thuần túy.
+Định hướng tổng thể:
+Lối kể chuyện kịch tính trưởng thành
+Diễn xuất nhân vật tiết chế
+Đánh lừa thị giác một cách chính xác
+Châm biếm xã hội mang tính thời sự, gần gũi với đời thực
+Hình ảnh sử dụng:
+Chất liệu nhiếp ảnh điện ảnh tự nhiên
+Chi tiết khuôn mặt sắc nét
+Kết cấu da chân thực
+Chất liệu lụa tinh xảo
+Ánh sáng khối (volumetric light) tự nhiên
+Bố cục có chiều sâu không gian
+
+II. Cốt truyện cốt lõi và Cơ chế Twist
+Cốt lõi của câu chuyện này là:
+Một kẻ bán bùa ngải tạo ra màn hù dọa quái vật để thuyết phục mọi người rằng tà ma đang đến.
+Lớp kịch tính thứ nhất
+Khán giả ban đầu lo lắng:
+Hai mẹ con sẽ bị quái vật tấn công
+Liệu người mẹ có tiêu số tiền thuốc của con mình để mua lá bùa cứu mạng?
+Lớp twist thứ hai
+Sau đó sự thật được phơi bày:
+Con quái vật kia chỉ là một cỗ máy rối do gã bán hàng điều khiển.
+Xung đột cảm xúc thực sự
+Xung đột thật sự không nằm ở con quái vật, mà ở chỗ:
+Một người mẹ bị ép phải lựa chọn giữa tiền thuốc chữa bệnh cho con và một sự an toàn giả tạo.
+Nguyên tắc tự sự
+Cú twist được hoàn thành hoàn toàn thông qua:
+Sự quan sát của nhân vật
+Vật thể thực tế
+Hành động cụ thể
+Quan hệ nhân quả vật lý
+Nghiêm ngặt tránh:
+Quái vật thật bất ngờ tấn công
+Thần phù hiển linh
+Giải thích dài dòng
+Kết thúc mang tính giáo điều, rao giảng đạo lý
+
+III. Khóa nhân vật và Danh tính
+Nhân vật A | @Image1 | Sư tỷ
+Giữ nguyên danh tính nữ Đông Á trưởng thành, dáng mặt, đường nét, kiểu tóc, phụ kiện và trang phục Tiên hiệp màu trắng từ hình ảnh tham chiếu gốc.
+Đặc điểm cố định
+Nữ Đông Á trưởng thành
+Khuôn mặt giống hệt hình ảnh tham chiếu gốc
+Cấu trúc xương tự nhiên
+Trang phục lụa thêu màu trắng
+Phụ kiện thắt lưng bằng bạc
+Thanh kiếm gốc
+Kết cấu da chân thực
+Cấu trúc cơ thể tự nhiên
+Khí chất thanh tao, cổ điển
+Yêu cầu về tính liên tục
+Duy trì kết cấu da chân thực
+Giữ nguyên trang phục
+Duy trì danh tính nhân vật ổn định
+Không thiết kế lại nhân vật
+
+Nhân vật B | @Image2 | Sư muội
+Giữ nguyên danh tính nữ Đông Á trưởng thành, khuôn mặt tròn trịa sinh động, đôi mắt sáng, mái tóc đen tết bím và trang phục cổ trang màu xanh lục từ hình ảnh tham chiếu.
+Đặc điểm cố định
+Nữ Đông Á trưởng thành
+Khuôn mặt tròn trịa, sinh động
+Đôi mắt sáng
+Tóc đen tết bím
+Trang phục cổ trang màu xanh lục
+Mang theo cùng một thanh trường kiếm sẫm màu
+Yêu cầu về tính liên tục
+Duy trì các đường nét khuôn mặt khác biệt so với Sư tỷ
+Giữ trang phục ổn định
+Duy trì danh tính nhân vật ổn định
+
+Giới hạn chung cho hai nhân vật chính
+Cả hai nhân vật chính đều duy trì danh tính độc lập của mình.
+Nghiêm cấm:
+Tráo đổi khuôn mặt
+Pha trộn đường nét
+Thay đổi trang phục
+Sai lệch danh tính
+Thêm vai phụ mới
+
+Nam giới trung niên, phương sĩ giang hồ
+Trường bào cũ màu nâu sẫm
+Vẻ mặt ranh mãnh
+Đảm nhận việc bán bùa
+
+Người phụ nữ thôn quê bình thường
+Quần áo sờn rách
+Đang bế một đứa trẻ ốm yếu
+
+Các nhân vật nền khác
+Những người đi chợ còn lại chỉ tạo nên bối cảnh sinh hoạt phù hợp ở phía xa
+Không được cướp mất tiêu điểm tự sự chính
+
+IV. DNA Môi trường và Địa điểm
+Các hình ảnh tham chiếu bối cảnh và địa điểm đã tải lên đại diện cho thế giới vật lý thực tế.
+Quy hoạch môi trường trước khi bố cục chính thức
+Duy trì các thuộc tính sau của địa điểm tham chiếu:
+Địa hình
+Mối quan hệ không gian kiến trúc
+Các mốc địa danh chính
+Tỷ lệ
+Vật liệu
+Thảm thực vật
+Mặt nước
+Thời tiết
+Sương mù
+Ánh sáng
+Chiều sâu bầu không khí
+Thiết lập tự nhiên một quầy bán bùa nhỏ phong cách cổ trang dựa trên điều kiện thực tế của bối cảnh.
+
+V. Cấu trúc Quầy hàng và Cơ chế
+Quầy bán bùa
+Quầy hàng bao gồm:
+Khung gỗ
+Rèm vải
+Sào tre
+Treo những lá bùa giấy vàng
+
+Cơ chế ẩn
+Phía sau quầy hàng giấu một cơ chế đơn giản:
+Bóng quái vật làm bằng vải đen
+Cố định trên một giá tre có thể xoay
+Một sợi dây đỏ mỏng nối từ giá tre đến tay phương sĩ
+Khi phương sĩ kéo dây, bóng quái vật sẽ nhô lên
+
+Yêu cầu tính liên tục của cơ chế
+Cơ chế phải giữ nguyên cấu trúc, vị trí và logic vật lý trong suốt quá trình.
+
+VI. Bối cảnh sống động và Tính trung lập trong tự sự
+Bối cảnh luôn tràn đầy sức sống.
+Chuyển động tự nhiên
+Gió
+Nước
+Mây/Sương mù
+Thảm thực vật
+Bóng người phía xa
+Tóc
+Tay áo
+Chuyển động tự nhiên liên tục.
+
+Nguyên tắc môi trường
+Môi trường sống động nhưng trung lập về mặt tự sự.
+Môi trường tuyệt đối không được:
+Chủ động tạo ra cú twist
+Đưa ra phán xét thay cho nhân vật
+Đột ngột kích hoạt phép màu
+Thay đổi quan hệ nhân quả của cốt truyện
+
+VII. Storyboard hoàn chỉnh 15 giây
+
+0–5s | Cảnh 1: Toàn cảnh | Mười lượng bạc đổi mạng
+Nhiệm vụ tự sự
+Khiến khán giả lo lắng cho đứa trẻ trước tiên.
+Thiết kế góc máy
+Máy quay tiến chậm về phía trước từ vị trí hơi thấp.
+Chiều sâu không gian của khu chợ cổ dần hiện ra rõ ràng.
+Các lớp hình ảnh
+Tiền cảnh:
+Quầy hàng nhỏ treo đầy bùa giấy vàng
+Trung cảnh:
+Một người phụ nữ thôn quê ăn mặc nghèo khó đang bế đứa con ốm
+Trạng thái đứa trẻ:
+Ngả đầu vào vai mẹ
+Lờ đờ, mệt mỏi
+Đạo cụ của người mẹ
+Tay cầm vài mảnh bạc vụn
+
+Thoại đầu tiên
+Phương sĩ giơ cao lá bùa vàng, giọng điệu chắc nịch:
+[Phương sĩ] "Bùa đây, mười lượng bạc đổi lấy mạng!"
+Người phụ nữ cúi nhìn số bạc trong tay, giọng nghẹn lại:
+[Người phụ nữ] "Đó là tiền thuốc của con tôi."
+Trạng thái cảm xúc
+Cô không trả tiền ngay.
+Ánh mắt phương sĩ dán chặt vào số bạc.
+
+Kịch tính thị giác được thiết lập
+Trong bóng tối phía sau rèm vải, lờ mờ hiện ra hình dáng hung tợn của một con quái vật.
+Người phụ nữ theo bản năng ôm chặt con hơn.
+
+Nhân vật chính xuất hiện
+Ở rìa khung hình, Sư tỷ (trang phục trắng) và Sư muội (trang phục xanh) tình cờ đi ngang qua, để ý thấy điều bất thường tại quầy hàng.
+
+Kết thúc cảnh 1
+Sự hồi hộp được giữ lại ở cuối cảnh:
+Liệu người mẹ có nên dùng tiền thuốc cứu mạng con để mua lá bùa?
+
+5–10s | Cảnh 2: Trung cảnh | Quái vật do người tạo ra
+Nhiệm vụ tự sự
+Thông qua một hành động, lật ngược hoàn toàn phán đoán của khán giả.
+Bắt đầu cảnh
+Chuyển sang trung cảnh góc nghiêng ba phần tư của Sư muội.
+Sư muội vốn đang nhìn người phụ nữ thôn quê.
+Ngay lúc này, cô nhận ra bàn tay phương sĩ giấu dưới ống tay áo bỗng siết chặt lại.
+Dẫn dắt ánh nhìn
+Máy quay đi theo tầm mắt của cô, bắt trọn một sợi dây đỏ mỏng đang căng cứng.
+Một đầu sợi dây đỏ nối với cơ chế bằng tre phía sau quầy hàng.
+
+Bóng quái vật giả bị kích hoạt
+Phương sĩ lén kéo sợi dây đỏ.
+Bóng quái vật bằng vải đen đột ngột nhô lên phía sau rèm.
+Kèm theo tiếng kêu thô ráp kỳ lạ phát ra từ cơ chế, người phụ nữ giật mình lùi lại.
+Tay cô suýt nữa thì đưa số bạc cho phương sĩ.
+
+Sư muội nhìn thấu sự việc
+Sư muội lúc này đã hiểu ra mọi chuyện.
+Cô không giải thích.
+Chỉ bước lên trước một bước.
+Tay phải rút kiếm.
+
+Hành động then chốt
+Một nhát chém chéo nhanh, gọn, chuẩn xác.
+Lưỡi kiếm cắt đứt sợi dây đỏ đang căng.
+Dây đứt, giá tre lập tức mất điểm tựa.
+Bóng quái vật bằng vải đen đổ sụp xuống.
+
+Sự thật phơi bày
+Một chiếc mặt nạ quái vật bằng vải rỗng ruột, cùng với sào tre và khung gỗ, phơi bày trước mặt mọi người.
+Khi giá tre đập xuống đất phát ra tiếng loảng xoảng giòn giã, tiếng gầm rú đáng sợ trước đó đột ngột tắt lịm.
+Tay phương sĩ vẫn giữ nguyên tư thế kéo dây.
+Hắn chết lặng.
+Người phụ nữ nhìn đống cơ chế vương vãi, rồi nhìn lại số bạc của mình.
+Tất cả đều đã hiểu.
+
+Nguyên tắc thực thi cảnh 2
+Cảnh này không cần lời thoại.
+Cú twist được hoàn thành nhờ vào:
+Đạo cụ
+Cử động tay
+Dẫn dắt ánh nhìn
+Phản hồi vật lý thực tế
+
+10–15s | Cảnh 3: Cận cảnh | Ngươi bán nỗi sợ của cô ấy
+Nhiệm vụ tự sự
+Vạch trần trò lừa đảo, để cảm xúc thực sự chạm đến những con người bình thường.
+Góc máy và độ sâu trường ảnh
+Cảnh chuyển sang cận cảnh các nhân vật.
+Sử dụng độ sâu trường ảnh nông thực tế để tạo ra các lớp không gian rõ ràng giữa:
+Phương sĩ
+Hai sư tỷ muội
+Người phụ nữ đang bế con
+
+Lời biện bạch của phương sĩ
+Phương sĩ cố gắng giành lại quyền kiểm soát.
+Hắn nhìn đống cơ chế vương vãi, vội vàng chống chế:
+[Phương sĩ] "Ta bán sự an toàn!"
+
+Phán quyết của Sư tỷ
+Sư tỷ áo trắng không rút kiếm.
+Cô nhìn con quái vật giả dưới đất trước.
+Rồi chuyển ánh mắt sang người phụ nữ vẫn còn chưa hết hoảng sợ.
+Giọng bình thản nhưng sắc lẹm:
+[Sư tỷ] "Ngươi bán nỗi sợ của cô ấy."
+
+Hành động khép lại của Sư muội
+Máy quay di chuyển theo tay Sư muội.
+Cô bước tới chỗ người phụ nữ.
+Nhẹ nhàng gom lại số bạc mà người phụ nữ suýt đưa, đặt vào lòng bàn tay cô.
+Ngước nhìn người phụ nữ:
+[Sư muội] "Chữa bệnh cho con trước đã."
+
+Cảm xúc của người phụ nữ hạ cánh
+Người phụ nữ cúi nhìn số bạc trong tay.
+Cuối cùng cô cũng thở phào nhẹ nhõm.
+Rồi bế vững đứa con, quay lưng rời khỏi quầy hàng.
+Sư muội tự nhiên né sang một bên, nhường lối cho cô.
+
+Trạng thái kết thúc của phương sĩ
+Phương sĩ đứng chôn chân tại chỗ, câm nín.
+
+Nửa giây cuối cùng
+Góc máy dừng lại ở giá tre vương vãi và lá bùa vàng.
+Con quái vật bằng vải phơi bày toàn bộ.
+Không còn ai mua bùa nữa.
+
+Dư âm cuối cùng
+Quái vật là giả.
+Nhưng nỗi lo của người mẹ dành cho con là thật.
+
+VIII. Yêu cầu về Quay phim và Diễn xuất
+Thông số cơ bản
+Chính xác 15 giây
+16:9 ngang
+Ba cảnh phim hoàn chỉnh với các cỡ cảnh khác nhau
+Tính liên tục về không gian và hành động
+
+Yêu cầu Cảnh 1
+Cảnh đầu tiên sử dụng:
+Vị trí máy quay thấp
+Push-in (tiến vào) chậm rãi
+Để khán giả cảm nhận được:
+Sự bất lực của người phụ nữ
+Bầu không khí ngột ngạt của quầy hàng
+
+Yêu cầu Cảnh 2
+Cảnh thứ hai sử dụng tầm mắt của Sư muội làm kim chỉ nam dẫn dắt câu chuyện.
+Trình tự tự sự bắt buộc phải là:
+Thấy tay phương sĩ trước
+Rồi thấy sợi dây đỏ căng cứng
+Sau đó...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117123424669855744/img/gVtUer8oWA9GeKDL.jpg" width="600" alt="Prompt Phim Ngắn Tiên Hiệp Cổ Trang Seedance 2.0 Mini">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13371)**
+
+**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2117124345281810678) | **Đã xuất bản:** Nov 2, 2026
+
+---
+### Phù Thủy Bay Qua Thành Phố Đêm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video giả tưởng điện ảnh siêu thực về một phù thủy cưỡi chổi bay qua thành phố lung linh ánh đèn neon vào ban đêm.
+
+#### 📝 Prompt
+
+```
+Tạo một video fantasy điện ảnh siêu chân thực, khắc họa hình ảnh một nữ phù thủy trẻ bí ẩn cưỡi chổi thần bay qua thành phố chìm trong bóng tối dưới ánh trăng tròn rực sáng. Thể hiện những tầng mây cuồn cuộn đầy kịch tính, làn khói ma thuật xanh biếc cùng bầu không khí đêm huyền bí. Nữ phù thủy đội chiếc mũ chóp nhọn màu đen, khoác trên mình bộ trang phục tối màu sành điệu và để mái tóc dài tung bay trong gió. Ghi lại khoảnh khắc cô luồn lách giữa những tòa nhà cao tầng rồi lao vút xuống các con phố nhộn nhịp ngập tràn ánh đèn neon. Bổ sung chuyển động chân thực, hiệu ứng ma thuật phát sáng, góc máy điện ảnh linh hoạt, ánh sáng đầy kịch tính cùng những chi tiết thị giác tuyệt mỹ. Phong cách phim fantasy đỉnh cao, 4K, chân thực như ảnh chụp, hoạt ảnh mượt mà.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117120887447252992/img/jnp-YCYdCxX9r0VE.jpg" width="600" alt="Phù Thủy Bay Qua Thành Phố Đêm">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13368)**
+
+**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2117120914139619479) | **Đã xuất bản:** Nov 2, 2026
+
+---
+### Seedance 2.0 Mini: Prompt Cảnh Từ Chối Tình Yêu Tiên Hiệp
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt toàn diện cho Seedance 2.0 Mini tạo ra đoạn phim kịch tính cảm xúc dài 15 giây trong bối cảnh tiên hiệp cổ đại Trung Quốc. Tập trung vào cảnh từ chối hôn lễ với diễn xuất tinh tế, tương tác đạo cụ cụ thể (ngọc bội) và kỹ thuật quay phim điện ảnh.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | "Mười Năm Và Phần Đời Còn Lại"
+
+Mô hình: Seedance 2.0 Mini
+Thời lượng: Chính xác 15 giây
+Tỷ lệ khung hình: 16:9 Ngang
+Thể loại: Tiên hiệp cổ trang Trung Quốc thuần túy / Cú twist cảm xúc / Kịch tính mối quan hệ nhân vật trưởng thành
+Cấu trúc: Ba cảnh quay điện ảnh liên tục, rõ ràng và tách biệt về mặt tự sự
+I. Prompt | Phong cách tổng thể và Định hướng sáng tạo
+Chất liệu live-action chân thực mang đậm tính điện ảnh, thẩm mỹ tiên hiệp cổ trang Trung Quốc thuần túy.
+Định hướng tổng thể:
+Cú twist cảm xúc trưởng thành, tiết chế; kịch tính mối quan hệ có chiều sâu tâm lý thực tế.
+Áp dụng:
+Cách sắp đặt nhân vật cổ điển ở đẳng cấp cao
+Chất liệu nhiếp ảnh điện ảnh Arri Alexa
+Kết cấu da chân thực, sắc nét
+Ánh sáng khối (volumetric light) tự nhiên
+Hạt phim (film grain) tinh tế
+Chuyển động của lụa chân thực
+II. Cốt truyện cốt lõi và Cú twist cảm xúc
+Hai tu sĩ đã cùng nhau tu luyện suốt mười năm, cuối cùng cũng đến ngày chính thức kết thành đạo lữ.
+Ai cũng nghĩ đây là cái kết viên mãn cho một mối tình hoàn hảo.
+Nhưng Tiểu sư muội bỗng từ chối kết ấn trong buổi lễ.
+Lớp kịch tính thứ nhất
+Khán giả ban đầu sẽ kỳ vọng:
+Sự phản bội
+Những bí mật bị che giấu
+Một ai đó mắc phải sai lầm không thể tha thứ
+Cú twist thực sự
+Không ai trở nên tồi tệ, cũng chẳng ai phủ nhận quá khứ; chỉ đơn giản là họ không thể cùng bước về chung một tương lai.
+Mười năm chân thành vẫn mãi là chân thành.
+Nhưng phần đời còn lại không nên trở thành cái giá phải trả cho quá khứ.
+Nguyên tắc Cảm xúc và Tự sự
+Câu chuyện phải được kể trọn vẹn một cách tự nhiên thông qua:
+Hành động của nhân vật
+Biểu cảm tinh tế
+Những khoảng lặng
+Lời thoại
+Nghiêm ngặt tránh:
+Giải thích dài dòng
+Ủ dột, sướt mướt đột ngột
+Ép buộc nhân vật trở thành kẻ xấu
+Kết thúc mang tính giáo điều, rao giảng
+III. Danh tính nhân vật và Khóa tài nguyên (Asset Locking)
+Vai A | @Image1 | Đại sư tỷ Kiếm Tiên
+Luôn giữ nguyên hình tượng Đại sư tỷ Kiếm Tiên:
+Nữ giới Đông Á, 25-30 tuổi
+Khuôn mặt trái xoan thanh tú
+Đôi mắt hạnh sáng ngời
+Tóc đen dài buộc nửa
+Cố định bằng trâm bạch ngọc
+Dáng người cao ráo, mảnh mai
+Cùng bộ Hán phục lụa trắng thêu hoa
+Tay áo rộng xếp lớp bán trong suốt
+Thắt lưng bạc
+Ngọc bội
+Bốt vải trắng
+Mang theo duy nhất một thanh trường kiếm bạc
+Vai trò của nhân vật trong phân đoạn này
+Đại sư tỷ áo trắng chủ yếu thể hiện các mối quan hệ thông qua:
+Sự quan sát
+Ánh mắt giao tiếp
+Những phản ứng tiết chế
+Giới hạn cốt lõi
+Không quyết định thay Tiểu sư muội
+Không chiếm đoạt không gian kịch tính chính
+Vai B | @Image2 | Tiểu sư muội
+Luôn giữ nguyên hình tượng Tiểu sư muội:
+Nữ giới Đông Á, 20-25 tuổi
+Khuôn mặt tròn đầy sức sống
+Tóc đen tết bím
+Cùng bộ Hán phục cổ màu xanh lục
+Thắt lưng tối màu
+Trâm gỗ
+Giày vải đen
+Mang theo duy nhất một thanh kiếm thép tối màu
+Định vị nhân vật trong phân đoạn này
+Tiểu sư muội là nhân vật trung tâm về mặt cảm xúc của mạch truyện này.
+Nhân vật phụ mới | Nam tu sĩ
+Nam giới trưởng thành
+Mặc cổ bào xanh lam đậm
+Ngoại hình bình thường
+Khí chất điềm đạm
+Đã cùng Tiểu sư muội tu luyện mười năm
+Đạo lữ tiền định của Tiểu sư muội
+Yêu cầu về tính liên tục của nhân vật
+Nam tu sĩ phải duy trì:
+Danh tính độc lập
+Trang phục ổn định
+Diễn xuất nhân vật chân thực
+Tuyệt đối không để bị nhầm lẫn với các nhân vật chính.
+Các nhân vật phụ khác
+Sư trưởng
+Người chủ trì nghi lễ kết ấn.
+Đệ tử trong tông môn
+Một nhóm nhỏ đệ tử làm chứng từ xa.
+IV. DNA Bối cảnh và Môi trường
+Toàn bộ hình ảnh tham khảo về bối cảnh và địa điểm được tải lên sẽ quyết định thế giới vật lý thực tế.
+Lập kế hoạch môi trường trước khi bố cục chính thức
+Hãy âm thầm hoàn tất một lượt quy hoạch môi trường trước.
+Phân tích toàn diện trong các hình ảnh tham khảo:
+Địa hình
+Bố cục kiến trúc
+Quy mô không gian
+Độ cũ kỹ của vật liệu
+Hệ sinh thái thực vật
+Mặt nước
+Mây mù
+Thời tiết
+Hướng ánh sáng chính
+Mối quan hệ màu sắc
+Các bề mặt phản chiếu
+Độ sâu không khí
+Trên cơ sở đảm bảo tính nhất quán về:
+Đặc trưng địa điểm
+Quan hệ không gian
+Logic vật lý
+Hãy tìm những khoảng không gian mở tự nhiên phù hợp, tái tổ chức thành một địa điểm cử hành nghi lễ với:
+Quy mô điện ảnh
+Chiều sâu không gian
+Bố cục độc đáo
+V. Khung cảnh Nghi lễ và Đạo cụ cốt lõi
+Địa điểm cử hành nghi lễ chỉ cần:
+Một chiếc bàn đá cổ
+Hai tín vật khế ước hôn nhân bằng ngọc được nối với nhau bằng sợi dây đỏ
+Tín vật khế ước hôn nhân bằng ngọc
+Hai miếng ngọc bội
+Một sợi dây lụa đỏ nối liền hai miếng ngọc
+Giữ nguyên chất liệu ngọc thật
+Giữ nguyên cấu trúc vật lý của sợi dây đỏ thật
+Các đạo cụ quan trọng khác
+Ấn chương chưởng môn cổ đại tượng trưng cho quyền uy
+Hành lý nhỏ đã được Tiểu sư muội thu xếp sẵn
+VI. Bối cảnh sống động và Tính trung lập trong tự sự
+Bối cảnh luôn tràn đầy sức sống.
+Chuyển động tự nhiên
+Gió thổi tà áo và thảm thực vật một cách tự nhiên
+Mây trôi chậm rãi
+Sương núi cuộn chảy thuận theo địa hình
+Mặt nước tiếp tục chuyển động tại những nơi có trong hình ảnh tham khảo
+Các công trình phía xa duy trì luật phối cảnh chuẩn xác
+Hình ảnh phản chiếu thay đổi tự nhiên theo góc máy
+Tốc độ và biên độ chuyển động của môi trường phải khác nhau tùy theo độ sâu trường ảnh.
+Nguyên tắc tự sự của môi trường
+Mọi chuyển động nền đều tồn tại độc lập với cốt truyện.
+Môi trường tuyệt đối không được:
+Tạo ra xung đột
+Kích hoạt các cú twist
+Đưa ra lựa chọn thay cho nhân vật
+VII. Cấu trúc Storyboard hoàn chỉnh 15 giây
+0–5s | Cảnh 1: Toàn cảnh | Lời từ chối giữa thanh thiên bạch nhật
+Thiết kế cảnh quay
+Máy quay lia chậm qua địa điểm cử hành nghi lễ cổ kính.
+Thiết lập mối quan hệ không gian rõ ràng qua các lớp:
+Bàn đá ở tiền cảnh
+Nhân vật ở trung cảnh
+Kiến trúc hùng vĩ, núi non hoặc các địa danh cốt lõi khác từ hình ảnh tham khảo ở hậu cảnh
+Vị trí nhân vật ban đầu
+Sư trưởng
+Đứng sau bàn đá cử hành nghi lễ.
+Nam tu sĩ
+Mặc cổ bào xanh lam đậm, đứng một bên bàn đá.
+Tay cầm một tín vật khế ước bằng ngọc.
+Tiểu sư muội áo xanh
+Đứng ở phía bên kia bàn đá.
+Đại sư tỷ Kiếm Tiên áo trắng
+Đứng lùi lại vài bước theo đường chéo phía sau Tiểu sư muội, lặng lẽ quan sát.
+Trạng thái đạo cụ cốt lõi
+Một sợi dây lụa đỏ nối liền hai miếng ngọc bội.
+Nghi lễ bắt đầu
+Sư trưởng trang nghiêm tuyên bố:
+[Sư trưởng] "Khế ước mười năm, hôm nay viên thành."
+Tiểu sư muội cúi nhìn sợi dây lụa đỏ.
+Nàng không đưa tay nhận lấy ngọc bội của mình.
+Thay vào đó, nàng từ từ ngẩng đầu nhìn người đàn ông trước mặt.
+Lớp kịch tính thứ nhất
+[Tiểu sư muội] "Muội không làm đâu."
+Buổi lễ vốn đang trang nghiêm bỗng chốc chìm vào tĩnh lặng.
+Phản ứng của nam tu sĩ
+Máy quay lưu giữ khoảnh khắc sững sờ chân thực của nam tu sĩ ngay lúc đó.
+Yêu cầu về diễn xuất và nhịp điệu
+Không la hét cường điệu
+Không để đám đông bất ngờ vây quanh
+Tạo kịch tính thông qua những khoảng dừng của nhân vật và sự tĩnh lặng của không gian.
+5–10s | Cảnh 2: Cận cảnh trung | Sự rẽ lối đích thực
+Yêu cầu về tính liên tục
+Giữ nguyên giống hệt:
+Bối cảnh
+Nhân vật
+Trang phục
+Vị trí ngọc bội
+Thiết kế máy quay
+Máy quay chuyển sang góc máy trung hai người (medium two-shot), chụp nghiêng ba phần tư khuôn mặt các nhân vật.
+Phản ứng của nam tu sĩ
+Nam tu sĩ không hề tức giận.
+Cũng không đột ngột tra vấn xem nàng có thay lòng hay không.
+Anh nhìn Tiểu sư muội đầy nghiêm túc, như thể đã mơ hồ biết trước câu trả lời.
+Rồi khẽ hỏi:
+[Nam tu sĩ] "Muội vẫn muốn xuống núi sao?"
+Câu trả lời của Tiểu sư muội
+Tiểu sư muội nhìn anh, bình thản không kém:
+[Tiểu sư muội] "Huynh vẫn muốn trấn giữ ngọn núi này chứ?"
+Cảm xúc và Ánh mắt
+Máy quay sử dụng những ánh mắt tinh tế để hé lộ những lựa chọn khác biệt đã tồn tại từ lâu giữa họ.
+Sự tương phản thị giác qua đạo cụ
+Bên cạnh nam tu sĩ
+Là chiếc ấn chương chưởng môn cổ đại tượng trưng cho quyền uy.
+Dưới chân Tiểu sư muội
+Là bọc hành lý nhỏ đã thu xếp xong.
+Mối quan hệ thị giác
+Hai đạo cụ này tạo nên sự tương phản thị giác rõ rệt:
+Một người quyết định ở lại.
+Người kia đã sẵn sàng đi xa.
+Không ai sai cả.
+Chỉ là họ không thể cùng bước đến chung một đích nữa thôi.
+Trạng thái của Đại sư tỷ và Môi trường
+Đại sư tỷ áo trắng tuyệt đối không can thiệp.
+Bối cảnh tiếp tục những chuyển động tự nhiên độc lập của:
+Gió
+Nước
+Mây mù
+Thực vật
+Vải vóc
+Hình ảnh phản chiếu
+10–15s | Cảnh 3: Đặc tả | Mười năm và phần đời còn lại
+Câu hỏi cuối cùng của Sư trưởng
+Sư trưởng cất lời hỏi lần cuối từ bên cạnh bàn đá:
+[Sư trưởng] "Vậy mười năm qua thì sao?"
+Đặc tả Tiểu sư muội
+Máy quay chuyển sang đặc tả gương mặt Tiểu sư muội.
+Nàng không trả lời ngay.
+Khóe mắt hơi rớm ướt, nhưng không rơi lệ.
+Giọng nói vững vàng, ẩn chứa sự lưu luyến chân thành.
+[Tiểu sư muội] "Hãy trân trọng nó."
+Khoảng lặng cảm xúc
+Dừng hẳn lại nửa nhịp.
+Rồi buông câu thoại cuối cùng:
+[Tiểu sư muội] "Không thể lấy phần đời còn lại để đền đáp quá khứ."
+Cao trào cảm xúc thực sự: Tháo sợi dây đỏ
+Máy quay nhanh chóng và tự nhiên chuyển hướng về phía đôi tay nam tu sĩ.
+Anh cúi nhìn sợi dây lụa đỏ đang nối hai miếng ngọc bội.
+Sau một thoáng do dự, anh không phẫn nộ giật đứt sợi dây.
+Thay vào đó, anh dùng ngón tay từ từ tháo nút thắt.
+Yêu cầu bắt buộc về hành động
+Hành động này phải chân thực, rõ ràng và trọn vẹn.
+Ngọc bội chia ly
+Nam tu sĩ nhẹ nhàng đặt miếng ngọc bội của Tiểu sư muội trở lại bàn.
+Giữ lại miếng của mình.
+Cả hai miếng ngọc đều nguyên vẹn.
+Chỉ là không còn gắn kết với nhau nữa.
+Phản ứng cuối cùng của nhân vật
+Tiểu sư muội nhìn anh.
+Người đàn ông ngước mắt lên, khẽ gật đầu với nàng.
+Cái gật đầu ấy bày tỏ:
+Sự thấu hiểu
+Niềm tiếc nuối
+Bố cục điện ảnh kết thúc
+Khung hình cuối cùng đọng lại trên hai miếng ngọc bội trên bàn:
+Nguyên vẹn, nhưng đã chia lìa.
+Phía sau, trong vùng xóa phông nông:
+Hai người giữ một khoảng cách vừa đủ
+Đại sư tỷ đứng phía sau Tiểu sư muội
+Ánh mắt Đại sư tỷ điềm tĩnh và thấu hiểu
+Giới hạn cho đoạn kết
+Không có:
+Những cái ôm
+Sự hàn gắn đột ngột
+Kẻ xấu
+Phán xét thắng thua
+Điểm hạ cánh cảm xúc cuối cùng
+Mười năm qua không hề uổng phí, chỉ là không cần đồng hành cùng nhau nữa mà thôi.
+VIII. Yêu cầu thực thi với Seedance 2.0 Mini
+Thông số cơ bản
+Mô hình: Seedance 2.0 Mini
+Tổng thời lượng chính xác: 15 giây
+Tỷ lệ khung hình: 16:9 ngang
+Ba cảnh quay điện ảnh liên tục, rõ ràng và tách biệt về mặt tự sự
+Ba chức năng tự sự
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117112122387918848/img/FNMfOO9Jg3bQP4IZ.jpg" width="600" alt="Seedance 2.0 Mini: Prompt Cảnh Từ Chối Tình Yêu Tiên Hiệp">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13374)**
+
+**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2117112170395914599) | **Đã xuất bản:** Nov 2, 2026
+
+---
+### Seedance 2.0 Fast Mưa Đêm Thời Nhà Thanh
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Video so sánh bao gồm Seedance 2.0 Fast. Prompt được dùng để tạo video từ hình ảnh (i2v) cảnh mưa đêm trong cung điện thời nhà Thanh với các yếu tố ASMR.
+
+#### 📝 Prompt
+
+```
+Mưa đêm cung đình triều Thanh × Mưa gõ lá sen hoa × Cá Koi và ếch kêu × Sấm chớp xa xăm × Nghệ nhân Lê Viên luyện giọng × ASMR nhập vai
+
+8 giây, định dạng dọc 9:16, hình ảnh điện ảnh chân thực.
+
+Đêm hè, mưa bụi giăng trên hành lang ven hồ trong cung điện triều Thanh. Những phiến lá sen lớn vươn lên từ mặt ao cạnh hành lang, một đóa sen hồng nhạt hé nở nép mình bên lá, cánh hoa ướt đẫm nước mưa. Chiếc đèn lồng cung đình ánh vàng ấm áp treo dưới mái hiên, hắt bóng xuống máng đá nông và mặt nước ao.
+
+Lá sen gần đó hơi nghiêng, đọng lại vũng nước mưa trên bề mặt. Một chú ếch nhỏ ngồi thu lu trên phiến đá ven bờ, đàn cá Koi thỉnh thoảng thấp thoáng dưới làn nước nông, dáng hình mờ ảo sau màn mưa và bóng đèn lồng.
+
+Những hàng cột gỗ sẫm màu cùng dãy hành lang hun hút chìm vào màn mưa đêm. Cuối hành lang là Lê Viên leo lét ánh đèn, bóng người mờ nhạt in trên giấy dán cửa sổ, chốc chốc lại khẽ lay động. Sắc xanh lạnh lẽo của màn đêm hòa quyện tự nhiên cùng ánh sáng ấm áp từ đèn lồng cung đình.
+
+Góc máy đặt sát lá sen và mặt nước, tiến về phía trước cực kỳ chậm rãi từ góc thấp. Lá sen, đóa hoa gần kề cùng những giọt nước rơi từ mái hiên hiện lên rõ nét; một phần chiếc đèn lồng cung đình lọt vào khung hình phía trên, bóng cửa sổ Lê Viên phía xa mờ ảo. Bố cục phân lớp rành mạch, giữ trọn những khoảng tối tĩnh lặng.
+
+0-2s: Mưa bụi không ngớt gõ lên lá sen, tạo nên tiếng xào xạc êm dịu, dày đặc. Lá sen khẽ rung rinh, từng giọt mưa tụ lại trên mặt lá. Nước từ mái hiên nhỏ giọt ngắt quãng xuống máng đá, vang lên tiếng tí tách trong trẻo. Chú ếch nhỏ ven bờ cất tiếng kêu một hai nhịp.
+
+2-4s: Tiếng nghệ nhân luyện giọng vọng ra từ Lê Viên phía xa, khúc ngâm nga không lời du dương xuyên qua màn mưa. Bóng người mờ ảo trên giấy dán cửa sổ từ từ nâng tay áo. Đàn cá Koi lững lờ bơi dưới tán lá sen, dáng hình nửa ẩn nửa hiện sau gợn sóng nước và ánh phản chiếu từ đèn lồng.
+
+4-6s: Bầu trời xa chợt lóe sáng, tia chớp trắng lạnh quét qua lá sen, đóa hoa và màn mưa, rồi nhanh chóng nhường chỗ cho sắc đêm ấm áp, trầm mặc. Một nhịp ngưng ngắn ngủi, tiếng sầm ì ầm kéo dài vọng lại từ xa, khúc hát tạm thời lắng xuống.
+
+6-8s: Tiếng sấm nhạt dần. Vũng nước mưa đọng trên phiến lá sen nghiêng trượt theo mép lá đổ xuống ao, tạo nên âm thanh róc rách êm tai liên hồi, gợn sóng lan qua bóng phản chiếu của đèn lồng. Khúc hát xa xăm vẫn văng vẳng, chú ếch ven bờ lại cất tiếng kêu. Tiếng mưa rơi ngân nga đến tận cuối video.
+
+[Thiết kế âm thanh]
+
+Xuyên suốt đoạn phim, điểm nhấn là tiếng mưa rào rào gõ lên lá sen gần kề cùng tiếng nước từ mái hiên tí tách rơi xuống máng đá. Âm thanh dòng nước từ lá sen chảy xuống ao nghe thật trong trẻo và mềm mại.
+
+Tiếng ếch kêu vọng từ ven bờ; khúc hát tuồng phát ra từ Lê Viên xa xăm; tiếng sấm rền nơi chân trời tít tắp. Các tầng âm thanh đan xen tự nhiên, phân định rõ độ xa gần, tái hiện trọn vẹn không gian của một đêm mưa thực thụ.
+
+Chớp lóe lên trước, sấm rền theo sau. Giọt mưa, lá rung, dòng nước chảy và gợn sóng đều đồng bộ hoàn hảo với âm thanh. Tiếng sấm trầm và nhẹ, rất thích hợp để thư giãn tĩnh tâm.
+
+Khúc hát tuồng êm ái, vang xa, được thể hiện dưới dạng ngâm nga không lời. Không nhạc cụ đệm, không nhạc nền, không thoại.
+
+Nhịp chuyển động của lá sen, đóa hoa, chú ếch, đàn cá Koi và bóng người phía xa đều chậm rãi, tự nhiên. Cá Koi luôn ở dưới mặt nước, bóng cửa sổ mờ ảo hư thực, còn nước mưa, ánh phản chiếu và ánh đèn đều chân thực, sống động.
+
+Góc dưới bên trái cố định chữ ký: Chấm tròn màu xanh đậm xuất hiện trước, theo sau là dòng chữ viết tay màu trắng "DeepBlue". Chữ ký nhỏ gọn, sắc nét, giữ nguyên vị trí và phong cách xuyên suốt video, không che khuất chủ thể chính, tỷ lệ 9:16
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116920195797090304/img/Jkq7FrCBlu0TsKjW.jpg" width="600" alt="Seedance 2.0 Fast Mưa Đêm Thời Nhà Thanh">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13372)**
+
+**Tác giả:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Nguồn:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **Đã xuất bản:** Nov 1, 2026
+
+---
+### Video Cải Tạo Sàn Terrazzo Từ Nút Chai Rượu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video dọc thể hiện quá trình biến đổi nút chai rượu thành sàn terrazzo bóng bẩy trong phòng ngủ, bao gồm các bước cải tạo và hình ảnh thi công thỏa mãn.
+
+#### 📝 Prompt
+
+```
+Video dọc quay bên trong một căn phòng trống màu trắng với một ô cửa sổ sáng rực và khung cửa mở toang. Một người đàn ông mặc quần yếm xanh dương và áo phông tối màu đang cào một đống nút bần rượu vang khổng lồ trên sàn, dàn đều chúng thành một lớp phẳng lì phủ kín cả căn phòng. Tiếp đó, một người phụ nữ mặc quần yếm đỏ đổ nhựa epoxy trắng đặc sệt từ một chiếc xô lớn, dòng chất lỏng bóng loáng chảy tràn qua các nút bần và ngập khắp mặt sàn cho đến khi nhấn chìm hoàn toàn. Kế đến, những người thợ mặc áo bảo hộ phản quang màu vàng neon đẩy máy đánh bóng sàn hạng nặng qua lại, mài nhẵn bề mặt đã đông cứng để dần hé lộ họa tiết terrazzo tuyệt đẹp với những mảnh nút bần lơ lửng trong lớp nhựa trắng mịn màng, được đánh bóng sáng loáng như gương. Cuối cùng, hai người đàn ông mặc đồ đen khiêng vào một bộ khung giường gỗ, lắp ráp rồi trải nệm, gối trắng và một chiếc chăn vắt màu be. Video khép lại bằng góc máy toàn cảnh căn phòng ngủ đã hoàn thiện, nơi nền nhà terrazzo nút bần phát sáng phản chiếu ánh nắng ban ngày. Phong thước timelapse cải tạo đầy thỏa mãn, chuyển cảnh mượt mà, ánh sáng tự nhiên, kết cấu chân thực, mang lại cảm giác thi công "oddly satisfying" vô cùng cuốn hút.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116909245618692096/img/TSdqYOWdWORLvaVM.jpg" width="600" alt="Video Cải Tạo Sàn Terrazzo Từ Nút Chai Rượu">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13369)**
+
+**Tác giả:** [Ruslan Ai](https://x.com/Ruslanchain) | **Nguồn:** [Link](https://x.com/Ruslanchain/status/2116909289004556620) | **Đã xuất bản:** Nov 1, 2026
+
+---
+### Video Hướng Dẫn Tự Làm Bồn Rửa Mặt Bằng Bê Tông Từ Ô
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Câu lệnh tạo video hướng dẫn DIY chân thực, minh họa cách biến một chiếc ô thành bồn rửa mặt bằng bê tông sử dụng xi măng và đá cuội.
+
+#### 📝 Prompt
+
+```
+Một video hướng dẫn tự làm đồ thủ công chân thực, được quay tại hiên nhà có mái che với bức tường bê tông và cánh cửa gỗ phía sau. Một người đàn ông mặc áo thun xám, đội mũ lưỡi trai đen đang đứng bên chiếc bàn gỗ mộc mạc, trên bàn là một chiếc ô màu vàng đang mở, lật ngược lại trông như một chiếc khuôn đúc. Anh dùng bay xúc xi măng xám ướt từ một chiếc xô đen rồi đổ đầy vào lòng ô, sau đó ấn một chiếc bát nhựa màu xanh xuống giữa lớp xi măng và dùng tay xoa phẳng bề mặt. Anh xếp những viên sỏi sông nhẵn bóng thành một vòng tròn quanh chiếc bát, ấn chúng lún xuống lớp xi măng. Khi bê tông đã đông cứng, anh nhấc chiếc bát xanh ra, bóc lớp vải ô vàng và để lộ một chiếc bồn rửa bê tông hình bát giác với những viên sỏi được khảm quanh vành. Anh dùng máy khoan pin khoan lỗ thoát nước ở chính giữa, lấy khăn lau sạch bồn, dùng cọ quét sơn trắng toàn bộ bồn rửa, rồi phun sơn phủ bóng màu xanh lên những viên sỏi. Cảnh cuối cho thấy chiếc bồn rửa thiết kế hoàn thiện được lắp đặt trong một phòng tắm hiện đại cùng vòi nước mạ crôm, người đàn ông rửa tay dưới dòng nước chảy. Góc máy cầm tay mượt mà, ánh sáng tự nhiên ban ngày, màn biến đổi đầy mãn nhãn, phong cách video hướng dẫn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116908302177009664/img/tOwAXa3GGvl22aee.jpg" width="600" alt="Video Hướng Dẫn Tự Làm Bồn Rửa Mặt Bằng Bê Tông Từ Ô">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13366)**
+
+**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2116908365364256821) | **Đã xuất bản:** Nov 1, 2026
+
+---
+### Video Sàn Phòng Ngủ Terrazzo Đá Cẩm Thạch
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) để tạo video dọc mô tả quá trình biến các viên bi thủy tinh thành sàn terrazzo bóng loáng trong không gian phòng ngủ hiện đại.
+
+#### 📝 Prompt
+
+```
+Video dọc, phong cách chân thực như ảnh chụp, căn phòng trống sáng sủa với những bức tường trắng và một khung cửa sổ lớn. Một người đàn ông mặc quần yếm denim màu xanh dương đang cào đống hàng ngàn viên bi thủy tinh đủ màu sắc khổng lồ trên nền bê tông, rải đều chúng khắp căn phòng. Một người phụ nữ mặc quần yếm đỏ đổ lớp nhựa epoxy tự san phẳng màu trắng đặc sánh từ một chiếc xô lớn lên trên những viên bi, chất lỏng bóng loáng chảy tràn bao phủ lấy chúng, rồi cô dùng cào dàn trải thật mịn màng. Một công nhân mặc áo phản quang bảo hộ màu vàng sử dụng máy mài sàn để mài nhẵn và đánh bóng bề mặt, làm lộ ra một mặt sàn bóng bẩy tuyệt đẹp với những chấm bi tròn nhiều màu được khảm vào như đá mài. Hai người thợ lắp ráp khung giường gỗ, đặt nệm trắng và trải ga giường màu trắng cùng gối màu be và một tấm chăn mỏng. Cảnh quay toàn cảnh cuối cùng cho thấy một phòng ngủ hiện đại ấm cúng với mặt sàn terrazzo độc đáo tỏa sáng dưới ánh sáng tự nhiên. Góc máy mượt mà, quá trình cải tạo mãn nhãn, không khí ASMR, ánh sáng chân thực, độ chi tiết cao.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116880395002138624/img/jdcG-y-8Shk4Au0c.jpg" width="600" alt="Video Sàn Phòng Ngủ Terrazzo Đá Cẩm Thạch">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13370)**
+
+**Tác giả:** [Ruslan Ai](https://x.com/Ruslanchain) | **Nguồn:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **Đã xuất bản:** Nov 1, 2026
+
+---
+### Sàn Phòng Ngủ Terrazzo Với Miếng Dưa Chuột
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video cải tạo siêu thực tế, sử dụng lát dưa chuột làm cốt liệu trong sàn nhựa thông trắng, biến đổi thành một phòng ngủ sang trọng.
+
+#### 📝 Prompt
+
+```
+Video dọc quay trong một căn phòng trống sáng sủa với những bức tường trắng, sàn bê tông thô và một khung cửa sổ lớn tràn ngập ánh sáng tự nhiên. Một người đàn ông mặc bộ đồ bảo hộ màu cam cùng áo phông đen đang cào một đống lớn lát dưa chuột tươi, dàn đều chúng thành một lớp phẳng lì trải khắp mặt sàn. Một người phụ nữ mặc bộ đồ bảo hộ màu đỏ bước vào hỗ trợ, cả hai đổ nhựa resin trắng đặc từ các xô lên trên những lát dưa chuột, dùng cây gạt để dàn đều cho đến khi mọi lát dưa đều chìm hẳn dưới lớp bề mặt trắng bóng. Sau đó, một nhóm thợ mặc áo phản quang màu vàng và đeo bịt tai tiến hành mài, đánh bóng sàn bằng máy móc và hút sạch bụi, chà nhẵn bề mặt để lộ ra những lát dưa chuột trong mờ được khảm vào nền sàn tựa như terrazzo trắng, trông hệt như những chấm bi xanh lá. Một người thợ mặc đồ bảo hộ màu cam quỳ xuống lau sàn thủ công trong khi các máy đánh bóng giúp mặt sàn sáng loáng như gương. Cuối cùng, hai người thợ chuyển đồ khiêng vào một chiếc giường màu be với ga trải giường trắng, cùng một chiếc bàn gỗ tròn nhỏ cạnh giường đặt lọ hoa và sách, biến không gian này thành một phòng ngủ thiết kế tối giản. Cảnh kết đẹp mắt: góc máy lia chậm qua mặt sàn trắng bóng điểm xuyết những lát dưa chuột được khảm bên trong, ánh sáng tự nhiên dịu nhẹ, phong cách cải tạo ASMR đầy thỏa mãn, chi tiết chân thực như ảnh chụp, chuyển động máy quay mượt mà đậm chất điện ảnh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116879474146820096/img/9EVrV0bsiBxieDBp.jpg" width="600" alt="Sàn Phòng Ngủ Terrazzo Với Miếng Dưa Chuột">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13367)**
+
+**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2116879515527905597) | **Đã xuất bản:** Nov 1, 2026
+
+---
 ### Video cải tạo sàn Terrazzo Jelly Bean
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1128,6 +1895,30 @@ Camera cố định đặt qua khung cửa, hướng vào một phòng ngủ tr�
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13127)**
 
 **Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2115506584159969679) | **Đã xuất bản:** Oct 28, 2026
+
+---
+### So sánh tạo video ASMR: Seedance 2.0 Mini vs Các mô hình khác
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Hướng dẫn chi tiết để tạo video ASMR với cảnh một người phụ nữ cắt và ăn chiếc bánh được ngụy trang như đá, dùng để so sánh Seedance 2.0 Mini với các mô hình AI video khác như Gemini, Meta Muse và Grok.
+
+#### 📝 Prompt
+
+```
+Trên tấm thảm picnic bên bờ sông, một viên sỏi màu nâu xám nằm ngay giữa chiếc đĩa gỗ. Bề mặt viên sỏi có những đường vân tự nhiên, hình dáng tròn trịa, trông gần như giống hệt những hòn đá thật xung quanh.
+
+Một cô gái trẻ Đông Á với vóc dáng đồng hồ cát vươn tay nhặt viên sỏi lên, gõ nhẹ thử rồi dùng dao cắt đôi. Lớp vỏ sô-cô-la mỏng giòn vỡ ra, để lộ bên trong những lớp bánh matcha và vani đặc mịn. Cô dừng lại một chút, lấy nửa miếng cắn thử, một ít kem vương trên môi khiến cô bất giác mỉm cười.
+
+Tập trung thu lại âm thanh giòn tan khi lưỡi dao phá vỡ lớp vỏ, tiếng ma sát êm lúc cắt qua lớp bánh, cùng tiếng vụn nhỏ lạo xạo khi cắn. Từ xa vọng lại tiếng nước chảy róc rách và tiếng chim hót líu lo.
+Ánh sáng tự nhiên ban ngày, cảm giác ảnh chụp nhanh ngoài trời bằng điện thoại, chất liệu chân thực, chuyển động tự nhiên. Không lời thoại, không nhạc nền, tỷ lệ khung hình 9:16, 10 giây.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115347738091286529/img/NyA_vpwalRjR94Rz.jpg" width="600" alt="So sánh tạo video ASMR: Seedance 2.0 Mini vs Các mô hình khác">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13373)**
+
+**Tác giả:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Nguồn:** [Link](https://x.com/DeepBlueX0/status/2115347819557261557) | **Đã xuất bản:** Oct 28, 2026
 
 ---
 ### Quảng cáo Tinh chất Dưỡng Môi Anh Đào
@@ -3735,303 +4526,6 @@ Tạo một video điện ảnh siêu thực tế dài 30 giây, mô tả một 
 **Tác giả:** [liana](https://x.com/Lianaalane) | **Nguồn:** [Link](https://x.com/Lianaalane/status/2109876446089134244) | **Đã xuất bản:** Oct 13, 2026
 
 ---
-### Cảnh ramen tại cửa hàng tiện lợi Hàn Quốc lúc nửa đêm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video điện ảnh 30 giây về ba cô gái Hàn Quốc thưởng thức mì ăn liền tại cửa hàng tiện lợi, với kết cấu da chân thực, trang phục đường phố thoải mái và bầu không khí ban đêm trầm mặc.
-
-#### 📝 Prompt
-
-```
-Tạo một video dài 30 giây, những cô gái Hàn Quốc xinh đẹp đang tận hưởng bữa mì ramen khuya tại một cửa hàng tiện lợi Hàn Quốc. Ba cô gái trẻ phong cách với vẻ đẹp tự nhiên đặc trưng của Hàn Quốc, kết cấu da chân thực, đôi mắt đen biểu cảm và trang phục đường phố thoải mái quây quần bên quầy mì dưới ánh đèn huỳnh quang sáng rực. Một cô mặc áo khoác thể thao xanh dương-đen cùng quần jogger navy rộng, một cô có tóc ngắn màu xám bạc và áo khoác đen, còn cô thứ ba mặc bộ đồ tối màu đơn giản với tóc đen thẳng. Họ chuẩn bị mì ăn liền, cầm sữa sô-cô-la và đồ ăn vặt, cùng nhau chia sẻ bữa ăn khuya thư giãn. Hiển thị các cảnh quay cận cảnh điện ảnh của những cốc mì bốc khói, đũa gắp mì, một cô gái nhẹ nhàng thổi cho nguội sợi mì nóng trước khi ăn, và bạn bè vừa ăn vừa trò chuyện tự nhiên. Chuyển sang góc quay rộng hơn khi các cô gái ngồi quanh chiếc bàn tròn nhỏ cạnh cửa sổ cửa hàng tiện lợi, với ánh đèn thành phố lung linh bên ngoài và phản chiếu trên kính. Gần cuối, một cô gái đứng dậy, chỉnh lại balo và đi về phía cửa kính trong khi những người khác vẫn ngồi lại. Ghi lại văn hóa cửa hàng tiện lợi Hàn Quốc chân thực, những khoảnh khắc tình bạn tự nhiên, biểu cảm khuôn mặt tinh tế, chuyển động tự nhiên, kết cấu thức ăn và hơi nước chân thực, chuyển động máy quay cầm tay, độ sâu trường ảnh nông, tông màu xanh điện ảnh lạnh, phản chiếu mềm mại, bầu không khí ban đêm trầm mặc, quay phim live-action siêu chân thực, nhân vật nhất quán, chi tiết vải vóc rõ nét, chuyển cảnh mượt mà, tỷ lệ khung hình dọc 9:16, chất lượng 4K, không phụ đề, không chữ, không watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109852123366297600/img/HkCxcaBcWv0hhLJg.jpg" width="600" alt="Cảnh ramen tại cửa hàng tiện lợi Hàn Quốc lúc nửa đêm">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12481)**
-
-**Tác giả:** [Ayat](https://x.com/aiwithaayat) | **Nguồn:** [Link](https://x.com/aiwithaayat/status/2109852187186827283) | **Đã xuất bản:** Oct 13, 2026
-
----
-### Phản Chiếu Cửa Sổ Tàu Điện Ngầm Trong Micro MV K-Pop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hướng dẫn chuyển động chi tiết cho Seedance 2.0 Fast để tạo ra cảnh quay photorealistic trong micro music video K-pop, nơi một nghệ sĩ nhìn vào phản chiếu của mình trên cửa sổ tàu điện ngầm, khắc họa lãng mạn đêm thành phố thân mật và các hiệu ứng ánh sáng cụ thể.
-
-#### 📝 Prompt
-
-```
-Micro music video K-pop với phong cách kể chuyện điện ảnh chân thực (photorealistic), tỷ lệ dọc 9:16, giữ nguyên danh tính hư cấu người trưởng thành và trang phục giống hệt hình ảnh đầu vào. Chuyển động con người tự nhiên, giải phẫu ổn định, môi trường được chụp thật, không có văn bản, không có logo, không xuất hiện thêm nhân vật mới, không hát hoặc nhép miệng. MAGNETAR. Dựa trên lời bài hát 'My face reflected in the subway window / a little bolder than usual.' Bắt đầu với Lea mặc áo khoác da màu đỏ anh đào trên tàu điện ngầm ban đêm. 0-4s: Quay trung cảnh với phản chiếu chính xác về mặt vật lý trên một cửa sổ duy nhất: đèn đường hầm di chuyển, cô ấy ngắm nhìn khuôn mặt mình, hơi thở chậm lại và vai thẳng lên đầy quyết tâm. 4-7s: Cô ấy cúi xuống nhìn điện thoại, thực hiện một cú chạm dứt khoát như thể chọn chủ động liên lạc trước; biểu cảm trở nên dũng cảm nhẹ nhàng. 7-10s: Máy ảnh vòng cung tinh tế sang cận cảnh ba phần tư phía trước, cô ấy nâng ánh mắt hướng về phía cửa tàu và nở một nụ cười nhỏ tự tin. Giữ cho phản chiếu đồng bộ, bảo toàn mái tóc hồng và khuôn mặt chính xác, không làm mờ nhanh hay tạo ra người trùng lặp. Lãng mạn đêm thành phố thân mật với ánh sáng thép lạnh/đỏ.
-Thiết lập: Seedance 2.0 Fast / 720p / 9:16 / nguồn 10 giây / tắt âm thanh được tạo. Bản nhạc Suno gốc được thêm bằng FFmpeg.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109757910226255872/img/d5uON0jYhMBaPmsJ.jpg" width="600" alt="Phản Chiếu Cửa Sổ Tàu Điện Ngầm Trong Micro MV K-Pop">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12482)**
-
-**Tác giả:** [🇰🇷Dave_Joe_9377🇦🇺](https://x.com/Dave_Joe_9377) | **Nguồn:** [Link](https://x.com/Dave_Joe_9377/status/2109758263797727608) | **Đã xuất bản:** Oct 12, 2026
-
----
-### Sự Gián Đoạn Hài Kịch Trong Lễ Đăng Quang Thời Trung Cổ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt cho một đoạn phim hài kịch điện ảnh dài 20 giây, nơi một người đàn ông hiện đại chen ngang vào buổi lễ đăng quang thời trung cổ để gỡ thẻ giá trên vương miện.
-
-#### 📝 Prompt
-
-```
-LỄ ĐĂNG QUANG — PHIM HÀI ĐIỆN ẢNH 20 GIÂY
-
-MODEL: Seedance 2.5
-DURATION: 20 giây
-ASPECT RATIO: 16:9
-STYLE: Phim giả tưởng trung cổ quay bằng người thật với phong cách siêu thực (photorealistic), kết hợp yếu tố hài phi lý tinh tế.
-HÌNH THAM KHẢO VÀ KHÓA NHÂN VẬT
-Sử dụng bảng nhân vật Nhà vua, Hoàng tử và Người Đàn Ông Ngẫu Nhiên đã tải lên làm tài liệu tham khảo hình ảnh chính thức.
-Nhà vua: Giữ nguyên khuôn mặt, mái tóc điểm bạc, râu, vương miện và bộ trang phục hoàng gia màu đỏ rượu vang (burgundy).
-
-Hoàng tử: Giữ nguyên khuôn mặt, kiểu tóc, bộ trang phục đăng quang xanh navy pha vàng, áo choàng xanh dương và vương miện khi được đội.
-
-Người Đàn Ông Ngẫu Nhiên: Giữ nguyên khuôn mặt, kiểu tóc, trang phục thường ngày hiện đại và tỷ lệ cơ thể.
-
-Duy trì sự nhất quán về danh tính nhân vật, trang phục, ánh sáng và bố cục phòng ngai vàng trong suốt toàn bộ video.
-ĐỊA ĐIỂM VÀ BẦU KHÔNG KHÍ
-Một phòng ngai vàng hoàng gia trung cổ khổng lồ với những cột đá cao vút, đèn chùm vàng, cửa sổ kính màu cao, cờ hiệu nhung đỏ và ngai vàng tráng lệ. Triều đình đứng im lặng hai bên thảm đỏ.
-
-Bầu không khí cực kỳ nghiêm túc và grandiose về cảm xúc, giống như cao trào của một bộ phim giả tưởng sử thi. Ánh nắng vàng ấm áp chiếu qua các cửa sổ. Âm nhạc hùng tráng với dàn nhạc giao hưởng đầy đủ.
-
-Người đàn ông hiện đại phải trông hoàn toàn lạc lõng trong bối cảnh trung cổ này.
-
-CẢNH 1 — KHOẢNH KHẮC LỄ ĐĂNG QUANG
-
-0–5 giây
-
-Góc máy rộng thiết lập bối cảnh phòng ngai vàng hoàng gia. Hoàng tử quỳ gối trên đệm trước mặt nhà vua. Nhà vua đứng trang nghiêm phía trước, nâng chiếc vương miện vàng chạm trổ phức tạp bằng cả hai tay.
-
-Triều đình theo dõi trong sự im lặng tuyệt đối.
-Cắt sang cận cảnh trung bình của nhà vua từ từ nâng vương miện lên đầu hoàng tử.
-
-Nhà vua nói với giọng trầm, trang nghiêm:
-
-NHÀ VUA: "Hôm nay, con sẽ trở thành vua."
-
-Âm nhạc giao hưởng dâng lên mạnh mẽ. Hoàng tử cúi đầu với vẻ nghiêm túc hoàn toàn.
-
-CẢNH 2 — NGƯỜI ĐÀN ÔNG SAI XUẤT HIỆN
-
-5–9 giây
-
-Ngay khi nhà vua sắp hạ vương miện xuống, một người đàn ông hiện đại ăn mặc giản dị với hoodie tối màu, quần jean và giày sneaker bước vào nghi lễ hoàng gia từ bên cạnh sảnh.
-
-Anh ta đi thẳng giữa nhà vua và hoàng tử như thể mình thuộc về nơi đó.
-Nhà vua đông cứng lại với vương miện lơ lửng giữa không trung. Hoàng tử vẫn quỳ, trông hơi bối rối. Các quan hầu cận nhìn chằm chằm với sự khó tin thầm lặng.
-
-Người đàn ông hiện đại hầu như không chú ý đến ai. Anh ta nhận ra chiếc vương miện, nhìn nó một cách phê phán và lắc đầu nhẹ với vẻ không tán thành.
-
-Âm nhạc giao hưởng đột ngột dịu xuống thành một nốt kéo dài ngượng ngùng.
-
-CẢNH 3 — SỬA CHỮA BẤT NGỜ
-
-9–14 giây
-
-Trong một hành động liên tục và rõ ràng, người đàn ông hiện đại thản nhiên lấy vương miện khỏi tay nhà vua.
-
-Anh ta nhận thấy một thẻ giá giấy nhỏ treo trên vương miện, gỡ nó ra và nhét vào túi. Sau đó, anh ta chỉnh lại cổ áo lệch của hoàng tử và đẩy ngai vàng hoàng gia vài inch cho thẳng hàng hơn với thảm.
-Các chuyển động của anh ta mang tính thực tế, nhanh chóng và hoàn toàn ung dung.
-
-Nhà vua đứng bất động, rõ ràng là hoang mang nhưng cố giữ phẩm giá hoàng gia. Hoàng tử nhìn từ người đàn ông sang cha mình, không chắc liệu có được phép di chuyển hay không.
-
-Người đàn ông lùi lại, xem xét công việc của mình và gật đầu hài lòng một cái.
-
-NGƯỜI ĐÀN ÔNG NGẪU NHIÊN: "Tốt hơn nhiều rồi."
-
-Đọc câu thoại một cách tự nhiên, với giọng điệu trò chuyện thông thường, không có khoảng dừng kịch tính hay diễn xuất hài hước quá mức.
-
-CẢNH 4 — QUAY LẠI CÔNG VIỆC
-
-14–17 giây
-
-Người đàn ông hiện đại quay lại và thản nhiên bước ra khỏi phòng ngai vàng theo đúng lối anh ta đã vào.
-
-Không ai ngăn cản anh ta. Không ai lên tiếng.
-Nhà vua từ từ dõi mắt theo anh ta, sau đó nhìn xuống vương miện trong tay như đang cố hiểu điều gì vừa xảy ra.
-
-Hoàng tử vẫn quỳ ở tư thế y hệt.
-
-Người đàn ông rời khỏi khung hình hoàn toàn.
-
-CẢNH 5 — LỄ ĐĂNG QUANG TIẾP DIỄN
-
-17–20 giây
-
-Cắt sang cận cảnh trung bình điện ảnh của nhà vua hít thở sâu, lấy lại bình tĩnh và cẩn thận định vị lại bản thân để tiếp tục nghi lễ.
-
-Ông nâng vương miện lên lần nữa.
-Hoàng tử cúi đầu.
-
-Âm nhạc giao hưởng trở lại cường độ hùng tráng ban đầu, như thể sự gián đoạn chưa từng xảy ra.
-
-NHÀ VUA: "Hôm nay… con sẽ trở thành vua."
-
-Kết thúc ngay lập tức trên khuôn mặt nghiêm túc hoàn hảo của nhà vua.
-
-Chuyển sang màn đen.
-
-MÁY QUAY VÀ BIÊN TẬP
-
-Sử dụng khung hình điện ảnh chuyên nghiệp, chuyển động máy quay mượt mà có kiểm soát, độ sâu trường ảnh (depth of field) chân thực, biểu cảm vi mô khuôn mặt tự nhiên và các cắt cảnh sạch sẽ theo phong cách điện ảnh. Thiết lập bối cảnh phòng trước khi chuyển sang các góc máy trung và cận. Làm cho sự xuất hiện và các hành động thực tế của người đàn ông hiện đại dễ dàng quan sát.
-
-Giữ yếu tố hài hước tinh tế, dựa vào thời điểm, sự im lặng ngượng ngùng và sự tương phản giữa nghi lễ sử thi và hành vi đời thường của người đàn ông.
-
-THIẾT KẾ ÂM THANH
-
-Âm nhạc giao hưởng hùng tráng trong suốt lễ đăng quang, tiếng bước chân và chuyển động quần áo tinh tế, một sự gián đoạn âm nhạc nhẹ nhàng khi người đàn ông bước vào, tiếng sột soạt giấy mềm mại khi anh ta gỡ thẻ giá, và sự trở lại của âm nhạc giao hưởng hoành tráng cho câu thoại cuối cùng.
-
-Tất cả lời thoại phải rõ ràng, được nói tự nhiên bằng tiếng Anh và không quá kịch tính.
-
-RÀNG BUỘC TIÊU CỰC NGHIÊM NGẶT
-
-KHÔNG tạo bất kỳ phụ đề, chú thích, lớp phủ văn bản, watermark, logo hoặc văn bản trên màn hình dưới bất kỳ hình thức nào.
-KHÔNG hiển thị các dòng thoại dưới dạng văn bản viết trên màn hình.
-Lời thoại chỉ tồn tại dưới dạng âm thanh được nói, không bao giờ dưới dạng typography hiển thị.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109652073189097472/img/WVJ7tQSgnKUnJfqs.jpg" width="600" alt="Sự Gián Đoạn Hài Kịch Trong Lễ Đăng Quang Thời Trung Cổ">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12392)**
-
-**Tác giả:** [Caden Flux](https://x.com/Caden_Flux) | **Nguồn:** [Link](https://x.com/Caden_Flux/status/2109652904864829898) | **Đã xuất bản:** Oct 12, 2026
-
----
-### Prompt phim ngắn vườn xoài phong cách Pixar
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt tạo video chi tiết cho Seedance 2.0 để tạo ra một phim ngắn hoạt hình phong cách Pixar dài 12 giây, với nhân vật chính là một nông dân trong vườn xoài.
-
-#### 📝 Prompt
-
-```
-Phim ngắn hoạt hình 12 giây, phong cách hoạt hình 3D của Pixar, ánh sáng đồng quê rực rỡ, những tia nắng chiều ấm áp xuyên qua kẽ lá. Một người nông dân trung niên đội mũ rơm rộng vành, mặc áo sơ mi kaki nhạt xắn tay, quần tối màu và đeo một chiếc túi vải nhỏ bên hông, đứng giữa vườn xoài xanh mướt, nhẹ nhàng chạm vào những quả xoài xanh căng mọng trên cành với nụ cười hiền hậu. Phông nền là những ngọn đồi thoai thoải, bầu trời xanh và mây trắng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109650656302972929/img/mtXPkMSZfdrAx-sF.jpg" width="600" alt="Prompt phim ngắn vườn xoài phong cách Pixar">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12395)**
-
-**Tác giả:** [Jackzhao](https://x.com/Jackzhaoh6ob) | **Nguồn:** [Link](https://x.com/Jackzhaoh6ob/status/2109651272303550940) | **Đã xuất bản:** Oct 12, 2026
-
----
-### Video Bài Tập Cân Bằng Trên Vạch Ngựa Của Nữ Vận Động Viên Thể Dục Dụng Cụ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt cho video điện ảnh siêu thực về một nữ vận động viên thể dục dụng cụ biểu diễn bài tập thanh lịch trên vạch cân bằng trong nhà thi đấu.
-
-#### 📝 Prompt
-
-```
-Video điện ảnh siêu thực về một nữ vận động viên thể dục dụng cụ trẻ tài năng đang biểu diễn bài tập thanh lịch trên vạch cân bằng bên trong nhà thi đấu thể dục dụng cụ truyền thống. Cô mặc bộ đồ leotard dài tay màu đỏ rượu vang, tóc nâu được buộc gọn gàng phía sau. Cô ấy đi uyển chuyển dọc theo vạch cân bằng, dang rộng hai cánh tay để giữ thăng bằng và thực hiện động tác chẻ đôi hoàn hảo với độ dẻo dai và khả năng kiểm soát tuyệt vời. Khán giả ngồi xem chăm chú ở hậu cảnh. Ánh sáng ấm áp trong nhà, kết cấu da chân thực, chuyển động cơ thể tự nhiên, camera quay điện ảnh mượt mà, độ sâu trường ảnh nông, hiệu ứng bokeh mờ nhẹ ở hậu cảnh, nhiếp ảnh thể thao chuyên nghiệp, chuyển động chân thực, 4K UHD, 24fps, bố cục dọc 9:16, chi tiết cao, chân thực như ảnh chụp.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109510154567974912/img/KvPK7VQYYAV2EzZm.jpg" width="600" alt="Video Bài Tập Cân Bằng Trên Vạch Ngựa Của Nữ Vận Động Viên Thể Dục Dụng Cụ">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12358)**
-
-**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2109510249573191819) | **Đã xuất bản:** Oct 12, 2026
-
----
-### Video Fantasy Điện Ảnh với Rồng Hồng và Người Phụ Nữ trong Cabin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết để tạo video fantasy điện ảnh siêu thực dài 36 giây, mô tả một cô gái trẻ tương tác với chú rồng con màu hồng đáng yêu bên trong cabin gỗ phủ tuyết.
-
-#### 📝 Prompt
-
-```
-Tạo một video fantasy điện ảnh siêu thực dài 36 giây tuyệt đẹp, nổi bật với hình ảnh một cô gái trẻ xinh đẹp có mái tóc đen dài gợn sóng, mặc áo len đan màu be ấm áp, đang tương tác với một chú rồng con màu hồng đáng yêu bên trong một cabin gỗ mộc mạc giữa những ngọn núi phủ tuyết. Cô gái nhẹ nhàng chuẩn bị thức ăn tươi, mỉm cười với sinh vật nhỏ bé và âu yếm cho nó ăn khi đôi mắt vàng to tròn của nó lấp lánh sự tò mò. Chú rồng dễ thương cử động đôi cánh nhỏ, vẫy đuôi và nép vào vòng tay cô dưới ánh lửa ấm áp từ lò sưởi chiếu sáng khuôn mặt họ. Tuyết rơi ngoài cửa sổ cabin, tạo nên bầu không khí mùa đông kỳ diệu với cảnh tượng ngoạn mục. Hiển thị các cảnh quay cận cảnh tuyệt đẹp về lớp vảy hồng tinh tế, diềm răng cưa bán trong suốt và đôi mắt biểu cảm của chú rồng, cùng với những biểu cảm tự nhiên trên khuôn mặt cô gái. Bao gồm các chuyển động máy quay điện ảnh mượt mà, tương tác chân thực, nội thất gỗ chi tiết, ánh sáng dịu nhẹ và các chuyển cảnh liền mạch. Cô gái nhẹ nhàng ôm sinh vật này bên cạnh lò sưởi rực rỡ khi nó ngước nhìn cô đầy trìu mến. Duy trì tính nhất quán hoàn hảo của nhân vật, kết cấu siêu thực, chuyển động tự nhiên, quay phim chuyên nghiệp độ phân giải 4K và bầu không khí fantasy cuốn hút về mặt cảm xúc, không có văn bản, logo hoặc watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109456966603161600/img/yQObaARfkE7CuA3p.jpg" width="600" alt="Video Fantasy Điện Ảnh với Rồng Hồng và Người Phụ Nữ trong Cabin">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12356)**
-
-**Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2109457141174247789) | **Đã xuất bản:** Oct 12, 2026
-
----
-### Huấn luyện võ thuật điện ảnh trong dojo kiểu Nhật
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo cảnh huấn luyện võ thuật điện ảnh siêu thực, mô tả hai phụ nữ tập chiến đấu tay không trong một dojo gỗ truyền thống của Nhật Bản.
-
-#### 📝 Prompt
-
-```
-AI Video Prompt: Huấn luyện võ thuật điện ảnh
-
-Tạo một cảnh huấn luyện võ thuật điện ảnh siêu thực với hai cô gái trẻ thành thạo đang tập chiến đấu tay không trong một dojo bằng gỗ truyền thống của Nhật Bản, được bao quanh bởi khu vườn xanh mướt. Một người có tóc màu hạt dẻ buộc đuôi ngựa, mặc áo tập dài tay màu nâu và quần tối màu. Người kia có mái tóc đen xoăn ngắn, mặc bộ đồ võ thuật màu be nhạt và quần tối màu.
-
-Họ thực hiện các cú đấm, đỡ đòn, động tác phòng thủ và phản công chân thực với tốc độ, độ chính xác và sự cân bằng ấn tượng. Chuyển động cần tự nhiên, cơ thể vận hành đúng kỹ thuật, bước di chuyển chân thực, biểu cảm khuôn mặt sinh động và vũ đạo võ thuật chuẩn xác. Ánh sáng ban ngày dịu nhẹ xuyên qua gian đình bằng gỗ, chiếu sáng sàn nhà bóng loáng và khung cảnh xanh mát.
-
-Máy quay: Góc trung-cận rộng mang tính điện ảnh, chuyển động mượt mà, thỉnh thoảng cận cảnh, hiệu ứng mờ chuyển động (motion blur) chân thực và góc quay năng động.
-
-Phong cách hình ảnh: Siêu thực, chất lượng điện ảnh 4K, ánh sáng tự nhiên, kết cấu vải chi tiết, độ sâu trường ảnh nông, hạt phim tinh tế, quay phim hành động chuyên nghiệp.
-
-Không khí: Căng thẳng, kỷ luật, uyển chuyển, mạnh mẽ và tập trung.
-
-Định dạng: Dọc 9:16, chuyển động liên tục chân thực, ngoại hình nhân vật nhất quán, không cắt cảnh làm gián đoạn vũ đạo, không biến dạng giải phẫu, không thừa chi, không văn bản, không watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109200093870219264/img/VT3q4u7Y8J729LDG.jpg" width="600" alt="Huấn luyện võ thuật điện ảnh trong dojo kiểu Nhật">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12357)**
-
-**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2109200265534718164) | **Đã xuất bản:** Oct 11, 2026
-
----
-### Video Hành Động Điện Ảnh Nữ Chiến Binh Lửa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết để tạo video hành động giả tưởng điện ảnh siêu thực 15 giây, với nữ chiến binh tóc bạc mắt phát sáng, cầm giáo giữa biển lửa trên chiến trường tối.
-
-#### 📝 Prompt
-
-```
-Tạo video hành động giả tưởng điện ảnh siêu thực dài 15 giây, nổi bật với một nữ chiến binh mạnh mẽ có mái tóc bạc dài, đôi mắt vàng phát sáng và bộ trang phục chiến đấu đen phong cách. Cô cầm một cây giáo khổng lồ, bao quanh bởi những ngọn lửa cam rực cháy. Cô lao nhanh về phía trước qua chiến trường tối, thực hiện các đòn tấn công vũ khí nhanh và mạnh mẽ với vệt lửa phát sáng và tia lửa bay tung tóe. Camera theo dõi chuyển động của cô một cách mượt mà, ghi lại cận cảnh kịch tính, góc quay hành động rộng và khoảnh khắc chiến đấu căng thẳng. Cô nhảy cao lên không trung, xoay giáo khi năng lượng lửa ma thuật tụ tập quanh cơ thể. Cô đập xuống đất với lực kinh hoàng, tạo ra vụ nổ lớn gồm lửa, khói và tàn tro phát sáng. Mái tóc bạc của cô bay tự nhiên trong gió trong khi đôi mắt vàng tỏa sáng với quyết tâm dữ dội. Chiến trường bừng sáng với năng lượng cam khi kẻ thù biến mất vào làn khói. Kết thúc bằng tư thế anh hùng kịch tính, giáo của cô phát sáng rực rỡ khi lửa xoáy quanh người. Duy trì chi tiết nhân vật nhất quán, chuyển động chân thực, ánh sáng điện ảnh, chuyển cảnh mượt mà và hiệu ứng hình ảnh chất lượng cao tuyệt đẹp xuyên suốt toàn bộ video.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109136974116499456/img/snE8D7hQi20LDhvy.jpg" width="600" alt="Video Hành Động Điện Ảnh Nữ Chiến Binh Lửa">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12303)**
-
-**Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2109137173224337478) | **Đã xuất bản:** Oct 11, 2026
-
----
-### Nữ Cung Thủ Thời Trung Cổ Cưỡi Ngựa Qua Rừng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết cho một đoạn phim giả tưởng thời trung cổ dài 15 giây, mô tả một nữ cung thủ cưỡi ngựa xuyên qua rừng thông sương mù, giương cung và đến trại. Bao gồm các chỉ dẫn cụ thể về quay phim và vật lý.
-
-#### 📝 Prompt
-
-```
-Tạo một đoạn phim giả tưởng thời trung cổ siêu thực, kinh phí cao, dài 15 giây, với nhân vật chính là một nữ cung thủ xinh đẹp và dữ dội, mái tóc nâu dài buông xõa, mặc áo giáp da màu nâu sẫm lấy cảm hứng từ lịch sử, vai có viền lông thú, trang phục thô mộc kiểu trung cổ, thắt lưng da và túi tên đầy mũi tên đeo chéo trên lưng. Cô cưỡi một con ngựa đen cơ bắp xuyên qua khu rừng thông cổ thụ rậm rạp, phủ đầy sương mù dày đặc, mặt đất phủ rêu, đá rải rác và những cây cao vút. Bắt đầu ngay bằng cảnh quay rộng phía sau theo phong cách điện ảnh, ghi lại hình ảnh chiến binh cưỡi ngựa dọc theo lối mòn hẹp trong rừng, khi ánh nắng vàng ấm áp chiếu xuyên qua tán cây, tạo ra những tia sáng volumetric kịch tính và bầu không khí bí ẩn. Camera di chuyển mượt mà theo sau con ngựa, trong khi móng guốc chạm xuống mặt đất gồ ghề một cách tự nhiên, làm xáo trộn lá nhỏ, bụi đất và rêu. Chuyển sang cận cảnh góc thấp từ bên cạnh đầy kịch tính, tập trung vào nữ chiến binh đang cầm cây cung cong truyền thống màu đen, kéo dây cung về phía sau với một mũi tên duy nhất và ngắm bắn với sự tập trung cao độ. Cơ bắp cánh tay cô căng cứng tự nhiên, cung uốn cong dưới lực kéo thực tế, tóc và trang phục viền lông thú phản ứng với làn gió mát của rừng. Ghi lại biểu cảm khuôn mặt kiên định, kết cấu da chân thực, áo giáp da chi tiết và từng mũi tên trong túi tên. Trong những giây cuối cùng, chuyển sang cảnh quay tracking rộng phía sau khi cô tiến vào một khu trại trung cổ ẩn mình giữa những cây thường xanh cao chót vót, lều trại mộc mạc, công trình gỗ và nhóm chiến binh mặc trang phục và áo giáp trung cổ đích thực. Các chiến binh quay về phía cô khi cô xuất hiện, tạo nên bầu không khí của một thủ lĩnh huyền thoại trở về với bộ lạc của mình. Duy trì sự nhất quán về danh tính nhân vật, trang phục, ngoại hình ngựa và tỷ lệ cơ thể thực tế trong mọi cảnh quay. Sử dụng các chuyển động camera điện ảnh, cách di chuyển tự nhiên của ngựa, giải phẫu kỵ mã chính xác, trọng lực, quán tính, chuyển động cơ bắp, mô phỏng vải và ánh sáng vật lý đáng tin cậy. Phong cách quay phim giả tưởng trung cổ đẳng cấp Hollywood, kết cấu photorealistic, sương mù khí quyển, tông màu đất trầm, ánh sáng tự nhiên kịch tính, hiệu ứng hạt phim tinh tế, trường sâu nông, chất lượng 4K, tốc độ khung hình 24 FPS, hiệu ứng âm thanh môi trường sống động bao gồm tiếng móng guốc, tiếng da cọ xát, tiếng gió thổi qua rừng thông và âm thanh xa xăm của khu trại. Không có đồ vật hiện đại, không có hiệu ứng hoạt hình, không phụ đề, không chữ viết, không logo và không watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109123010812870656/img/EHX4CdPkZ_XLXU_e.jpg" width="600" alt="Nữ Cung Thủ Thời Trung Cổ Cưỡi Ngựa Qua Rừng">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12304)**
-
-**Tác giả:** [Ayat](https://x.com/aiwithaayat) | **Nguồn:** [Link](https://x.com/aiwithaayat/status/2109123171408560343) | **Đã xuất bản:** Oct 11, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -4093,6 +4587,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-02T05:01:27.724Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-02T18:12:41.441Z</sub>
 
 </div>

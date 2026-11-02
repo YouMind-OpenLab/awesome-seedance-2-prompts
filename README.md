@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6624** |
+| 📝 Total Prompts | **6633** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-11-02** |
 
@@ -365,6 +365,736 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Seedance 2.0 Mini Ancient Xianxia Short Film Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A comprehensive video generation prompt for Seedance 2.0 Mini, creating a 15-second cinematic scene in an ancient Chinese fantasy setting. It details character consistency with reference images, specific camera movements (panning, tracking), lighting conditions, and a narrative twist involving a fake monster scam.
+
+#### 📝 Prompt
+
+```
+Model: Seedance 2.0 Mini
+Duration: Strictly 15 seconds
+Aspect Ratio: 16:9 Landscape
+Type: Pure Ancient Chinese Xianxia / Suspense Twist / Social Satire / Character Relationship Drama
+Structure: Three consecutive, clear movie shots with different narrative functions.
+I. Prompt | Overall Style and Creative Direction
+Cinematic live-action realism, pure ancient Chinese Xianxia aesthetics.
+Overall direction:
+Mature suspense narrative
+Restrained character performance
+Precise visual misdirection
+Social satire with real-world resonance
+Visuals use:
+Natural cinematic photography texture
+Clear facial details
+Realistic skin texture
+Exquisite silk materials
+Natural volumetric light
+Composition with spatial depth
+II. Core Plot and Twist Mechanism
+The core of this story is:
+A talisman seller creates a monster scare to convince people that evil spirits are coming.
+First layer of suspense
+Audience initially worries:
+Mother and child will be attacked by monsters
+Will the mother spend her child's medicine money on a life-saving talisman?
+Second layer of twist
+Then it is revealed:
+The so-called monster is just a puppet mechanism manipulated by the vendor.
+True emotional conflict
+The real conflict is not the monster, but:
+A mother forced to choose between her child's medicine money and false security.
+Narrative principles
+The twist is completed entirely through:
+Character observation
+Real objects
+Specific actions
+Physical causality
+Strictly avoid
+Real monster sudden attack
+Divine talisman manifestation
+Lengthy explanations
+Preachy endings
+III. Character and Identity Locking
+Character A | @Image1 | Senior Sister
+Maintain the adult East Asian female identity, face shape, features, hairstyle, accessories, and white Xianxia clothing from the original reference image.
+Fixed features
+Adult East Asian female
+Same face as original reference image
+Natural bone structure
+White embroidered silk clothing
+Silver waist ornament
+Original sword
+Realistic skin texture
+Natural body structure
+Classical elegant temperament
+Continuity requirements
+Maintain realistic skin texture
+Keep clothing unchanged
+Maintain stable character identity
+Do not redesign characters
+Character B | @Image2 | Junior Sister
+Maintain the adult East Asian female identity, round lively face, bright eyes, original black hair braids, and blue-green ancient costume from the reference image.
+Fixed features
+Adult East Asian female
+Round lively face
+Bright eyes
+Black hair braids
+Blue-green ancient costume
+Carrying the same dark long sword
+Continuity requirements
+Maintain distinct facial features from Senior Sister
+Keep clothing stable
+Maintain stable character identity
+Dual protagonist common limits
+Both protagonists maintain their independent identities.
+Strictly forbidden
+Face swapping
+Feature blending
+Clothing changes
+Identity drift
+New supporting roles
+Middle-aged male jianghu fangshi
+Dark brown old robe
+Shrewd expression
+Responsible for selling talismans
+Ordinary village woman
+Worn-out clothes
+Holding a sick young child
+Other background characters
+Remaining market-goers only form appropriate life background in the distance
+Do not steal main narrative focus
+IV. Environment and Location DNA
+The uploaded background and location reference images represent the actual physical world.
+Environment planning before formal composition
+Maintain the following attributes of the reference location:
+Terrain
+Architectural spatial relationships
+Main landmarks
+Scale
+Materials
+Vegetation
+Water bodies
+Weather
+Fog
+Lighting
+Atmospheric depth
+Naturally set up a small ancient-style talisman stall according to actual scene conditions.
+V. Stall and Mechanism Structure
+Talisman stall
+The stall consists of:
+Wooden frame
+Cloth curtain
+Bamboo pole
+Hanging yellow paper talismans
+Hidden mechanism
+Behind the stall hides a simple mechanism:
+Monster silhouette made of black cloth
+Fixed on a rotatable bamboo rack
+A thin red string leads from the bamboo rack to the fangshi's hand
+When the fangshi pulls the rope, the monster shadow rises
+Mechanism continuity requirements
+The mechanism maintains the same structure, position, and physical logic throughout.
+VI. Living Background and Narrative Neutrality
+Background remains vibrant.
+Natural movement
+Wind
+Water
+Clouds/Mist
+Vegetation
+Distant figures
+Hair
+Sleeves
+Continuous natural movement.
+Environmental principle
+Environment is vibrant but narratively neutral.
+The environment must never:
+Actively create twists
+Complete judgment instead of characters
+Suddenly trigger miracles
+Change plot causality
+VII. 15-Second Complete Storyboard
+0–5s | First Shot: Full View | Ten Liang Life-Saving
+Narrative task
+Make the audience worry about the child first.
+Camera design
+Camera moves slowly forward from a slightly low position.
+Ancient market spatial depth unfolds clearly.
+Visual layers
+Foreground:
+Small stall covered with yellow paper talismans
+Midground:
+A poorly dressed village woman holding a sick child
+Child state:
+Leaning on mother's shoulder
+Lethargic
+Mother's prop
+Holding a few pieces of broken silver in hand
+First dialogue
+Fangshi raises a yellow talisman, tone confident:
+[Fangshi] "Talisman, ten liang for life!"
+Village woman looks down at silver in hand, voice tight:
+[Village Woman] "That's my child's medicine money."
+Emotional state
+She does not pay immediately.
+Fangshi's gaze falls on the silver.
+Visual suspense established
+In the shadows behind the cloth curtain, a ferocious monster outline faintly appears.
+Village woman instinctively hugs child tighter.
+Protagonist entrance
+At the edge of the frame, Senior Sister (white) and Junior Sister (blue) happen to pass by, noticing the anomaly at the stall.
+End of first shot
+Suspense retained at end of shot:
+Should the mother spend life-saving medicine money on the talisman?
+5–10s | Second Shot: Medium View | Monster Is Man-Made
+Narrative task
+Through one action, completely flip the audience's judgment.
+Shot start
+Switch to medium view of Junior Sister's three-quarter side profile.
+Junior Sister was originally looking at the village woman.
+At this moment, she notices the Fangshi's hand hidden under his sleeve suddenly tighten.
+Gaze guidance
+Camera follows her line of sight, capturing a taut thin red string.
+One end of the red string connects to the bamboo mechanism behind the stall.
+Fake monster shadow triggered
+Fangshi secretly pulls the red string.
+Black cloth monster shadow suddenly rises behind the curtain.
+Accompanied by a rough strange sound from the mechanism, the village woman recoils violently.
+Her hand almost hands over the silver to the Fangshi.
+Junior Sister sees through it
+Junior Sister has now understood.
+She does not explain.
+Just steps forward one pace.
+Right hand draws sword.
+Key action
+A quick, clean, precise diagonal sword swing.
+Sword blade cuts the taut red string.
+Red string breaks, bamboo rack instantly loses support.
+Black cloth monster shadow falls downward.
+Truth exposed
+A hollow cloth monster mask, along with bamboo poles and wooden frames, is exposed before everyone.
+As the bamboo rack hits the ground with a crisp clang, the previous terrifying roar abruptly stops.
+Fangshi's hand remains at the rope-pulling position.
+He freezes.
+Village woman looks at scattered mechanism, then at her own silver.
+Everyone understands.
+Second shot execution principle
+This shot requires no dialogue.
+Twist completed relying on:
+Props
+Hand movements
+Gaze guidance
+Real physical feedback
+10–15s | Third Shot: Close-up | You Sell Her Fear
+Narrative task
+Expose the scam, let emotion truly land on ordinary people.
+Camera and depth of field
+Shot switches to close-up of characters.
+Use real shallow depth of field to create clear spatial layers among:
+Fangshi
+Sisters
+Village woman holding child
+Fangshi's defense
+Fangshi tries to regain control.
+He looks at scattered mechanism, hastily defends:
+[Fangshi] "I sell safety!"
+Senior Sister's judgment
+Senior Sister in white does not draw sword.
+She first looks at the fake monster on the ground.
+Then turns gaze to still-frightened village woman.
+Tone calm yet sharp:
+[Senior Sister] "You sell her fear."
+Junior Sister's action closure
+Camera follows Junior Sister's hand.
+She walks to the village woman.
+Gently gathers the silver the village woman was about to pay back into her palm.
+Looks up at village woman:
+[Junior Sister] "Treat the child first."
+Village woman's emotional landing
+Village woman looks down at silver in her hand.
+She finally sighs in relief.
+Then holds child steady, turns away from stall.
+Junior Sister naturally steps aside, clearing path for her.
+Fangshi's ending state
+Fangshi stands there, speechless.
+Final half-second frame
+Shot stays on scattered bamboo rack and yellow talisman.
+Cloth fake monster fully exposed.
+No one buys talismans anymore.
+Final aftertaste
+The monster is fake.
+But the mother's concern for her child is real.
+VIII. Cinematography and Performance Requirements
+Basic specs
+Strictly 15 seconds
+16:9 landscape
+Three complete movie shots with different framing
+Spatial and action continuity
+Shot 1 requirements
+First shot uses:
+Lower camera position
+Slow push-in
+Let audience feel:
+Village woman's helplessness
+Stall's oppressive atmosphere
+Shot 2 requirements
+Second shot uses Junior Sister's line of sight as narrative guide.
+Narrative order must be:
+See Fangshi's hand first
+Then see taut red string
+Then...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117123424669855744/img/gVtUer8oWA9GeKDL.jpg" width="600" alt="Seedance 2.0 Mini Ancient Xianxia Short Film Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13371)**
+
+**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2117124345281810678) | **Published:** Nov 2, 2026
+
+---
+### Witch Flying Through City Night
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for creating an ultra-realistic cinematic fantasy video of a witch flying on a broomstick through a neon-lit city at night.
+
+#### 📝 Prompt
+
+```
+Create an ultra-realistic cinematic fantasy video featuring a mysterious young witch flying through a dark city on a magical broomstick under a glowing full moon. Show dramatic clouds, blue magical smoke, and a mysterious night atmosphere. The witch wears a black pointed hat, a stylish dark outfit, and has long flowing hair. Capture her flying between tall buildings and swooping down through busy neon-lit streets. Add realistic motion, glowing magical effects, cinematic camera movements, dramatic lighting, and stunning visual details. High-end fantasy movie style, 4K, photorealistic, smooth animation.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117120887447252992/img/jnp-YCYdCxX9r0VE.jpg" width="600" alt="Witch Flying Through City Night">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13368)**
+
+**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2117120914139619479) | **Published:** Nov 2, 2026
+
+---
+### Seedance 2.0 Mini: Xianxia Romance Rejection Scene Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A comprehensive prompt for Seedance 2.0 Mini generating a 15-second emotional drama in ancient Chinese Xianxia setting. Focuses on a wedding ceremony rejection with subtle acting, specific prop interactions (jade tokens), and cinematic camera work.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | "Ten Years and the Rest of Life"
+
+Model: Seedance 2.0 Mini
+Duration: Strictly 15 seconds
+Aspect Ratio: 16:9 Landscape
+Type: Pure Ancient Chinese Xianxia / Emotional Twist / Mature Character Relationship Drama
+Structure: Three continuous, clear, narratively distinct cinematic shots
+I. Prompt | Overall Style and Creative Direction
+Cinematic realistic live-action texture, pure ancient Chinese Xianxia aesthetics.
+Overall direction:
+Mature restrained emotional twist, relationship drama with real psychological depth.
+Adopt:
+High-level classical character staging
+Arri Alexa cinematic photography texture
+Clear realistic skin texture
+Natural volumetric light
+Delicate film grain texture
+Realistic silk movement
+II. Core Plot and Emotional Twist
+Two cultivators have practiced together for ten years, finally reaching the day they formally become Dao companions.
+Everyone thinks this is the endpoint of a perfect relationship.
+But the Junior Sister suddenly refuses to seal the bond during the ceremony.
+First Layer of Suspense
+Audience initially expects:
+Betrayal
+Secrets
+Someone committing an unforgivable mistake
+True Twist
+Neither of them became bad, nor did they fail to cherish the past; they simply cannot move towards the same future.
+Ten years of sincerity is still sincerity.
+But the rest of life should not become a price paid for the past.
+Emotion and Narrative Principles
+Story must be completed naturally through:
+Character actions
+Subtle expressions
+Pauses
+Dialogue
+Strictly Avoid
+Long explanations
+Sudden sentimentality
+Forcing villainization
+Preachy endings
+III. Character Identity and Asset Locking
+Role A | @Image1 | Sword Immortal Senior Sister
+Always the same Sword Immortal Senior Sister:
+25-30 year old East Asian female
+Soft oval face
+Bright almond eyes
+Black long hair half-tied
+Fixed with white jade hairpin
+Tall and slender
+Same white embroidered silk Hanfu
+Semi-transparent layered wide sleeves
+Silver waist sash
+Jade pendant
+White cloth boots
+Carrying the only silver long sword
+Role Function in This Segment
+White-robed Senior Sister mainly expresses relationships through:
+Observation
+Eye contact
+Restrained reactions
+Key Restrictions
+Do not make decisions for Junior Sister
+Do not steal main dramatic space
+Role B | @Image2 | Junior Sister
+Always the same Junior Sister:
+20-25 year old East Asian female
+Round lively face
+Black braided hair
+Same green ancient Hanfu
+Dark belt
+Wooden hairpin
+Black cloth shoes
+Carrying the only dark steel sword
+Role Positioning in This Segment
+Junior Sister is the emotional protagonist of this plot.
+New Supporting Character | Male Cultivator
+Adult male
+Wearing deep blue ancient robe
+Regular appearance
+Steady temperament
+Practiced with Junior Sister for ten years
+Junior Sister's predestined Dao companion
+Character Continuity Requirements
+Male cultivator must maintain:
+Independent identity
+Stable clothing
+Realistic character performance
+Must not be confused with protagonists.
+Other Supporting Characters
+Elder Master
+Presiding over the bonding ceremony.
+Sect Disciples
+Small number of disciples as distant witnesses.
+IV. Background and Environment DNA
+All uploaded background and location reference images determine the actual physical world.
+Environment Planning Before Formal Composition
+Silently complete a round of environment planning first.
+Comprehensively analyze in reference images:
+Terrain
+Architectural layout
+Spatial scale
+Material age
+Vegetation ecology
+Water bodies
+Clouds and mist
+Weather
+Main light direction
+Color relationships
+Reflective surfaces
+Air depth
+Under the premise of maintaining consistency in:
+Location identity
+Spatial relationships
+Physical logic
+Find suitable natural open areas, reorganize into a ceremonial venue with:
+Cinematic scale
+Spatial depth
+Unique composition
+V. Ceremony Scene and Core Props
+Ceremony site only needs:
+One ancient stone table
+Two jade marriage contract tokens connected by a red rope
+Jade Marriage Contract Tokens
+Two jade pendants
+A red silk rope connecting the two jade pendants
+Maintain real jade material
+Maintain real red rope physical structure
+Other Key Props
+Ancient sect leader seal symbolizing authority
+Small luggage already packed by Junior Sister
+VI. Living Background and Narrative Neutrality
+Background always vibrant.
+Natural Motion
+Wind naturally blowing sleeves and vegetation
+Clouds moving slowly
+Mountain mist flowing according to terrain
+Water bodies continuing motion where present in reference images
+Distant buildings maintaining correct perspective
+Reflections changing naturally with camera angle
+Environmental motion speed and amplitude should differ by depth of field.
+Environmental Narrative Principles
+All background motion exists independently of the plot.
+Environment must never:
+Create conflict
+Trigger twists
+Complete choices on behalf of characters
+VII. 15-Second Complete Storyboard Structure
+0–5s | First Shot: Wide Shot | Public Rejection
+Shot Design
+Camera pans slowly across the ancient ceremony venue.
+Establish clear spatial relationships through these layers:
+Foreground stone table
+Midground characters
+Distant grand architecture, mountains, or other core landmarks from reference images
+Initial Character Positions
+Elder Master
+Standing behind the ceremonial stone table.
+Male Cultivator
+Wearing deep blue robe, standing on one side of the stone table.
+Holding one jade marriage contract token in hand.
+Green-robed Junior Sister
+Standing on the other side of the stone table.
+White-robed Sword Immortal Senior Sister
+Standing several steps diagonally behind Junior Sister, observing quietly.
+Core Prop State
+A red silk rope connects the two jade pendants.
+Ceremony Begins
+Master solemnly announces:
+[Master] "Ten-year marriage contract, today we fulfill it."
+Junior Sister looks down at the red silk rope.
+She does not reach out to take her jade pendant.
+Instead, she slowly raises her head to look at the man in front of her.
+First Layer of Twist
+[Junior Sister] "I won't do it."
+The originally solemn ceremony suddenly goes quiet.
+Male Cultivator's Reaction
+Camera retains the male cultivator's genuine shock in that instant.
+Performance and Rhythm Requirements
+No exaggerated screams
+No crowd suddenly surrounding them
+Create suspense through character pauses and spatial silence.
+5–10s | Second Shot: Medium Close-up | True Divergence
+Continuity Requirements
+Maintain exactly identical:
+Scene
+Characters
+Clothing
+Jade pendant positions
+Camera Design
+Camera switches to a medium two-shot of the parties in three-quarter profile.
+Male Cultivator's Reaction
+Male cultivator is not angry.
+Nor does he suddenly question if she changed her heart.
+He looks seriously at Junior Sister, as if he vaguely knows the answer.
+Asks softly:
+[Male Cultivator] "Are you still going down the mountain?"
+Junior Sister's Answer
+Junior Sister looks at him, equally calm:
+[Junior Sister] "Are you still guarding the mountain?"
+Emotion and Gaze
+Camera uses subtle gazes to reveal their long-standing different choices.
+Prop Visual Contrast
+Beside Male Cultivator
+Lies the ancient sect leader seal symbolizing authority.
+At Junior Sister's Feet
+Is the small luggage already packed.
+Visual Relationship
+These two props form a clear visual contrast:
+One person decided to stay.
+The other is ready to travel far.
+Neither is wrong.
+They just can no longer walk to the same place.
+Senior Sister and Environmental State
+White-robed Senior Sister never intervenes.
+Background continues independent natural motion of:
+Wind
+Water
+Clouds and mist
+Vegetation
+Fabric
+Reflections
+10–15s | Third Shot: Close-up | Ten Years and the Rest of Life
+Master's Final Question
+Master asks the last question from beside the stone table:
+[Master] "What about those ten years?"
+Junior Sister Close-up
+Camera switches to close-up of Junior Sister.
+She doesn't answer immediately.
+Very slight moisture in eyes, but no tears.
+Voice steady, carrying true reluctance.
+[Junior Sister] "Cherish it."
+Emotional Pause
+Full pause for half a beat.
+Then delivers the final line:
+[Junior Sister] "Can't repay the past with the rest of my life."
+True Emotional Climax: Untying the Red Rope
+Camera quickly and naturally shifts to male cultivator's hands.
+He looks down at the red silk rope connecting the two jade pendants.
+After a brief hesitation, he doesn't angrily tear the rope.
+Instead, he slowly unties the knot with his fingers.
+Action Hard Requirement
+This action must be real, clear, and complete.
+Jade Pendant Separation
+Male cultivator gently places Junior Sister's jade pendant back on the table.
+Keeps the other one for himself.
+Both jade pendants are undamaged.
+Just no longer connected.
+Final Character Reactions
+Junior Sister looks at him.
+Man raises his eyes, giving her a very slight nod.
+This nod expresses:
+Understanding
+Regret
+Final Cinematic Composition
+Final image rests on the two jade pendants on the table:
+Intact, but already separated.
+Behind in shallow depth of field:
+Two people maintaining appropriate distance
+Senior Sister standing behind Junior Sister
+Senior Sister's eyes calm and understanding
+Ending Restrictions
+No:
+Hugs
+Sudden reconciliation
+Villains
+Verdict of victory/defeat
+Final Emotional Landing
+Ten years were not wasted, just no need to travel together anymore.
+VIII. Seedance 2.0 Mini Execution Requirements
+Basic Specifications
+Model: Seedance 2.0 Mini
+Strict total duration: 15 seconds
+Aspect ratio: 16:9 landscape
+Three continuous, clear, narratively distinct cinematic shots
+Three narrative functions
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117112122387918848/img/FNMfOO9Jg3bQP4IZ.jpg" width="600" alt="Seedance 2.0 Mini: Xianxia Romance Rejection Scene Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13374)**
+
+**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2117112170395914599) | **Published:** Nov 2, 2026
+
+---
+### Seedance 2.0 Fast Qing Dynasty Rain
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A comparison video including Seedance 2.0 Fast. The prompt is for an i2v (image-to-video) generation of a Qing dynasty palace night rain scene with ASMR elements.
+
+#### 📝 Prompt
+
+```
+Qing Dynasty Palace Night Rain × Rain Hitting Lotus Leaves and Flowers × Koi Fish and Frog Croaking × Lightning and Distant Thunder × Pear Garden Opera Singer Practicing Tune × Immersive ASMR
+
+8 seconds, 9:16 vertical format, realistic cinematic visuals.
+
+Summer night, fine rain falling on waterside corridor of Qing Dynasty palace. Large lotus leaves growing in pond by corridor, a half-open pale pink lotus flower near leaves, petals wetted by rain. Warm yellow palace lantern hanging under eaves, light reflecting in shallow stone trough and pond water.
+
+Nearby lotus leaf slightly tilted, rainwater accumulated on surface. Small frog squatting on stone by pool edge, koi fish occasionally faintly visible in shallow water, figure partially obscured by raindrops and lamp shadows.
+
+Dark wooden pillars and corridors in distance hidden in rainy night. End of corridor is dimly lit pear garden, blurred human figure projected on window paper, moving slowly occasionally. Cold blue night colors naturally blending with warm palace lantern light.
+
+Camera close to lotus leaves and water surface, moving extremely slowly forward from low angle. Nearby lotus leaves, flowers, and dripping eave water clearly visible; partial palace lantern appears in upper frame, distant pear garden window shadows hazy. Clear layering in frame, retaining quiet dark spaces.
+
+0-2s: Fine rain continuously falls on lotus leaves, producing dense soft rustling sounds. Lotus leaves tremble gently, raindrops gather on surfaces. Eave water drops intermittently into stone trough, clear ticking sounds heard. Small frog croaks once or twice by pool edge.
+
+2-4s: Sound of opera singer practicing tune comes from distant pear garden, gentle melodious wordless singing voice passes through rain curtain. Blurred figure on window paper slowly raises sleeve. Koi fish swims slowly under lotus leaf, figure partially obscured by water ripples and palace lantern reflection.
+
+4-6s: Brief flash of light in distant sky, cold white flash illuminates lotus leaves, flowers, and rain threads, then returns to warm dark night colors. Short pause, low prolonged thunder rumble heard from distance, singing voice temporarily softer.
+
+6-8s: Thunder gradually fades. Accumulated rainwater on tilted lotus leaf flows along edge into pond, producing soft continuous water sounds, ripples pass through palace lantern reflection. Distant singing voice faintly audible, frog croaks again by pool edge. Rain sound continues until end.
+
+[Sound Design]
+
+Primarily focused on dense rustling of rain hitting nearby lotus leaves and intermittent ticking of eave water falling into stone trough, throughout entire clip. Sound of lotus leaf water flowing into pond clear and soft.
+
+Frog croaking from pool edge; opera singing from distant pear garden; thunder from farther sky. Sounds naturally staggered, distinct proximity/distance, retaining spatial sense of real rainy night.
+
+Flash appears first, thunder follows later. Raindrops, leaf trembling, water flow, and ripples synchronized with sounds. Thunder low and soft, suitable for quiet listening.
+
+Opera singing gentle and far-reaching, presented as wordless chanting. No instrumental accompaniment, no background music, no dialogue.
+
+Activities of lotus leaves, flowers, frogs, koi, and distant figures slow and natural. Koi remains underwater, window shadows blurry and hazy, rainwater, reflections, and lights realistic and credible.
+
+Fixed signature bottom-left corner: Dark blue solid dot first, white handwritten "DeepBlue" after. Signature small and clear, stable position and style throughout video, does not obscure main subject, 9:16
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116920195797090304/img/Jkq7FrCBlu0TsKjW.jpg" width="600" alt="Seedance 2.0 Fast Qing Dynasty Rain">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13372)**
+
+**Author:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Source:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **Published:** Nov 1, 2026
+
+---
+### Wine Cork Terrazzo Floor Renovation Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a vertical video showing the transformation of wine corks into a polished terrazzo floor in a bedroom, featuring renovation steps and satisfying construction visuals.
+
+#### 📝 Prompt
+
+```
+Vertical video inside an empty white room with one bright window and an open doorway. A man in blue overalls and a dark t-shirt rakes a massive mound of wine corks on the floor, spreading the corks into a flat, even layer that covers the entire room. A woman in red overalls then pours thick white epoxy resin from a large bucket, the glossy liquid flowing over the corks and flooding the whole floor until it is fully submerged. Next, workers in neon yellow safety vests push heavy floor polishing machines back and forth, sanding the cured surface to gradually reveal a stunning terrazzo pattern of cork pieces suspended in smooth white resin, polished to a mirror shine. Finally, two men in black carry in a wooden bed frame, assemble it, and dress it with a mattress, white pillows, and a beige throw blanket. The video ends on a wide shot of the finished bedroom, the glowing cork terrazzo floor reflecting daylight. Satisfying renovation timelapse style, smooth transitions, natural daylight, realistic textures, oddly satisfying construction vibe.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116909245618692096/img/TSdqYOWdWORLvaVM.jpg" width="600" alt="Wine Cork Terrazzo Floor Renovation Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13369)**
+
+**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116909289004556620) | **Published:** Nov 1, 2026
+
+---
+### DIY Umbrella Concrete Sink Craft Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a realistic DIY tutorial video showing how to turn an umbrella into a concrete sink using cement and pebbles.
+
+#### 📝 Prompt
+
+```
+A realistic DIY craft video filmed on a covered patio with a concrete wall and wooden door in the background. A man in a gray t-shirt and black cap stands at a rustic wooden table where an open yellow umbrella lies upside down like a mold. He scoops wet gray cement from a black bucket with a trowel and fills the umbrella, then presses a blue plastic bowl into the center of the cement and smooths the surface with his hands. He arranges smooth river pebbles in a ring around the bowl, pressing them into the cement. After the concrete sets, he lifts out the blue bowl, peels away the yellow umbrella fabric, and reveals an octagonal concrete sink with pebbles embedded around its rim. He drills a drain hole in the center with a cordless drill, wipes the basin clean with a cloth, paints the whole sink white with a brush, then spray paints the pebbles glossy blue. Final scene shows the finished designer sink installed in a modern bathroom with a chrome faucet, where the man washes his hands under running water. Smooth handheld camera, natural daylight, satisfying transformation, tutorial style.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116908302177009664/img/tOwAXa3GGvl22aee.jpg" width="600" alt="DIY Umbrella Concrete Sink Craft Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13366)**
+
+**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116908365364256821) | **Published:** Nov 1, 2026
+
+---
+### Marble Terrazzo Bedroom Floor Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for creating a vertical video depicting the process of turning glass marbles into a glossy terrazzo floor within a modern bedroom setting.
+
+#### 📝 Prompt
+
+```
+Vertical video, photorealistic style, bright empty room with white walls and a large window. A man in blue denim overalls rakes a huge pile of thousands of colorful glass marbles on a concrete floor, spreading them evenly across the entire room. A woman in red overalls pours thick white self-leveling epoxy resin from a large bucket over the marbles, the glossy liquid flows and covers them, and she spreads it smoothly with a rake. A worker in a yellow safety vest uses a floor polishing machine to grind and polish the surface, revealing a stunning glossy floor with colorful round marble dots embedded like polished stones. Two workers assemble a wooden bed frame, place a white mattress, and dress the bed with white bedding, beige pillows and a throw blanket. Final wide shot of a cozy modern bedroom with the unique terrazzo marble floor glowing in natural daylight. Smooth camera work, satisfying renovation transformation, ASMR mood, realistic lighting, high detail.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116880395002138624/img/jdcG-y-8Shk4Au0c.jpg" width="600" alt="Marble Terrazzo Bedroom Floor Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13370)**
+
+**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **Published:** Nov 1, 2026
+
+---
+### Cucumber Slice Terrazzo Bedroom Floor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a hyper-realistic renovation video where cucumber slices are used as aggregate in a white resin floor, transforming into a luxury bedroom.
+
+#### 📝 Prompt
+
+```
+Vertical video in a bright empty room with white walls, bare concrete floor and a large window with daylight. A man in orange overalls and a black t-shirt rakes a huge mound of fresh cucumber slices, spreading them into a flat even layer across the whole floor. A woman in red overalls joins him and they pour thick white resin from buckets over the slices, spreading it with squeegees until every slice is submerged under a glossy white surface. A crew in yellow high-visibility vests and ear defenders then grinds and polishes the floor with machines and vacuums the dust, sanding the surface down to reveal translucent cucumber slices embedded in the white terrazzo-like floor like green polka dots. A worker in orange overalls kneels wiping the floor by hand while polishing machines bring it to a mirror shine. Finally two movers carry in a beige bed with white bedding, a round wooden side table with a vase and books, turning the space into a minimalist designer bedroom. Closing beauty shot: slow pan across the glossy white floor dotted with embedded cucumber slices, soft natural light, satisfying ASMR-style renovation, photorealistic detail, smooth cinematic camera movement.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116879474146820096/img/9EVrV0bsiBxieDBp.jpg" width="600" alt="Cucumber Slice Terrazzo Bedroom Floor">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13367)**
+
+**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116879515527905597) | **Published:** Nov 1, 2026
+
+---
 ### Jelly Bean Terrazzo Floor Renovation Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1127,6 +1857,30 @@ Static camera framed through a doorway looking into an empty bedroom with white 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13127)**
 
 **Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2115506584159969679) | **Published:** Oct 28, 2026
+
+---
+### ASMR Video Generation Comparison: Seedance 2.0 Mini vs Others
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for generating an ASMR-style video featuring a woman cutting and eating a cake disguised as a stone, used to compare Seedance 2.0 Mini against other AI video models like Gemini, Meta Muse, and Grok.
+
+#### 📝 Prompt
+
+```
+On a picnic blanket by the river, a gray-brown pebble sits in the center of a wooden plate. It has natural patterns on its surface, a rounded shape, and looks almost identical to the real stones nearby.
+
+A young East Asian adult woman with an hourglass figure reaches out to pick it up, tentatively taps it, then cuts it open with a knife. The thin, crisp chocolate shell cracks open, revealing layers of dense matcha and vanilla cake inside. She pauses for a moment, takes half and bites into it, getting a bit of cream on her lips, and can't help but smile.
+
+Focus on capturing the crisp sound of the blade crushing the shell, the soft friction of the cake being cut, and the fine crumbling sounds when bitten. In the distance, there is faint flowing water and birdsong.
+Natural daylight, outdoor smartphone snapshot feel, realistic textures, natural movements. No speech, no background music, 9:16 aspect ratio, 10 seconds.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115347738091286529/img/NyA_vpwalRjR94Rz.jpg" width="600" alt="ASMR Video Generation Comparison: Seedance 2.0 Mini vs Others">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13373)**
+
+**Author:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Source:** [Link](https://x.com/DeepBlueX0/status/2115347819557261557) | **Published:** Oct 28, 2026
 
 ---
 ### Cherry Lip Serum Ad
@@ -3749,303 +4503,6 @@ Create a 30-second, ultra-realistic cinematic video featuring a beautiful young 
 **Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2109876446089134244) | **Published:** Oct 13, 2026
 
 ---
-### Late-Night Korean Convenience Store Ramen Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a cinematic 30-second video of three Korean women enjoying instant ramen at a convenience store, featuring realistic skin textures, casual streetwear, and moody nighttime atmosphere.
-
-#### 📝 Prompt
-
-```
-Created a video 30 seconds, Beautiful Korean girls enjoying a late-night ramen break at a Korean convenience store. Three stylish young Korean women with natural Korean beauty, realistic skin texture, dark expressive eyes, and casual streetwear gather around a ramen counter under bright fluorescent lights. One girl wears a blue-and-black sporty jacket with loose navy track pants, another has short silver-gray hair and a black jacket, and the third wears a dark casual outfit with straight black hair. They prepare instant ramen, hold chocolate milk and snacks, and share a relaxed late-night meal together. Show cinematic close-up shots of steaming ramen cups, chopsticks lifting noodles, a girl gently blowing on hot noodles before eating, and friends enjoying their food while chatting naturally. Transition to a wider shot of the girls sitting at a small round table beside the convenience store window, with city lights glowing outside and reflections on the glass. Near the end, one girl gets up, adjusts her backpack, and heads toward the glass entrance while the others remain seated. Capture authentic Korean convenience-store culture, candid friendship moments, subtle facial expressions, natural movements, realistic food textures and steam, handheld camera motion, shallow depth of field, cool blue cinematic color grading, soft reflections, moody nighttime atmosphere, ultra-realistic live-action cinematography, consistent characters, detailed clothing textures, smooth transitions, vertical 9:16 aspect ratio, 4K quality, no subtitles, no text, no watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109852123366297600/img/HkCxcaBcWv0hhLJg.jpg" width="600" alt="Late-Night Korean Convenience Store Ramen Scene">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12481)**
-
-**Author:** [Ayat](https://x.com/aiwithaayat) | **Source:** [Link](https://x.com/aiwithaayat/status/2109852187186827283) | **Published:** Oct 13, 2026
-
----
-### K-Pop Micro MV Subway Window Reflection
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed motion prompt for Seedance 2.0 Fast to generate a photorealistic K-pop micro music video scene where a performer looks at her reflection in a subway window, capturing intimate city-night romance and specific lighting effects.
-
-#### 📝 Prompt
-
-```
-Photorealistic cinematic narrative K-pop micro music video, vertical 9:16, exactly the same fictional adult identity/identities and clothing as start image. Natural human movement and stable anatomy, real photographed environment, no text, no logos, no new people, no singing or lip-sync. MAGNETAR. Based on lyrics 'My face reflected in the subway window / a little bolder than usual.' Begin with same Lea in cherry-red leather jacket on the night subway. 0-4s medium shot with physically accurate single window reflection: tunnel lights move, she studies her face, slow breath and shoulders straighten with resolve. 4-7s she looks down at her phone, makes one decisive tap as if choosing to reach out first; expression turns quietly brave. 7-10s camera arcs subtly toward frontal three-quarter close-up, she lifts her gaze toward train doors and gives a confident small smile. Keep reflection synchronized, preserve rose hair and exact face, no fast blur or duplicate person. Intimate city-night romance with cool steel/red lighting.
-Settings: Seedance 2.0 Fast / 720p / 9:16 / 10-second source / generated audio off. Original Suno track added in FFmpeg.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109757910226255872/img/d5uON0jYhMBaPmsJ.jpg" width="600" alt="K-Pop Micro MV Subway Window Reflection">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12482)**
-
-**Author:** [🇰🇷Dave_Joe_9377🇦🇺](https://x.com/Dave_Joe_9377) | **Source:** [Link](https://x.com/Dave_Joe_9377/status/2109758263797727608) | **Published:** Oct 12, 2026
-
----
-### Medieval Coronation Comedy Interruption
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a 20-second cinematic comedy where a modern man interrupts a medieval coronation ceremony to fix the crown's price tag.
-
-#### 📝 Prompt
-
-```
-THE CORONATION — 20-SECOND CINEMATIC COMEDY
-
-MODEL: Seedance 2.5
-DURATION: 20 seconds
-ASPECT RATIO: 16:9
-STYLE: Photorealistic live-action medieval fantasy film with subtle absurdist comedy.
-REFERENCE IMAGES AND CHARACTER LOCK
-Use the uploaded King character sheet, Prince character sheet, and Random Man character sheet as the definitive visual references.
-King: Preserve his exact face, gray-streaked hair, beard, crown, and burgundy royal outfit.
-
-Prince: Preserve his exact face, hairstyle, navy-and-gold coronation outfit, blue cloak, and crown once placed.
-
-Random Man: Preserve his exact face, hairstyle, modern casual outfit, and body proportions.
-
-Maintain consistent character identities, costumes, lighting, and the layout of the throne room throughout the entire video.
-LOCATION AND ATMOSPHERE
-An enormous medieval royal throne room with towering stone pillars, golden chandeliers, tall stained-glass windows, red velvet banners, and a magnificent golden throne. The royal court stands silently on either side of a red carpet.
-
-The atmosphere is extremely serious and emotionally grand, like the climax of an epic fantasy film. Warm golden sunlight streams through the windows. The music is majestic, with a full orchestral score.
-
-The modern man must look completely out of place in this medieval setting.
-
-SHOT 1 — THE MOMENT OF CORONATION
-
-0–5 seconds
-
-Wide cinematic establishing shot of the royal throne room. The prince kneels on a cushion before the king. The king stands solemnly in front of him, holding an ornate golden crown with both hands.
-
-The court watches in absolute silence.
-Cut to a medium close-up of the king slowly raising the crown above the prince's head.
-
-The king speaks in a deep, solemn voice:
-
-KING: "Today, you become king."
-
-The orchestral music swells dramatically. The prince bows his head with complete seriousness.
-
-SHOT 2 — THE WRONG MAN ENTERS
-
-5–9 seconds
-
-Just as the king is about to lower the crown, a casually dressed modern man in a dark hoodie, jeans, and sneakers walks into the royal ceremony from the side of the hall.
-
-He walks directly between the king and prince as though he belongs there.
-The king freezes with the crown suspended in midair. The prince remains kneeling, looking slightly confused. The courtiers stare in silent disbelief.
-
-The modern man barely acknowledges anyone. He notices the crown, looks at it critically, and gives a small disapproving shake of his head.
-
-The orchestral music abruptly softens into an awkward, sustained note.
-
-SHOT 3 — THE UNEXPECTED FIX
-
-9–14 seconds
-
-In one continuous, clearly visible action, the modern man casually takes the crown from the king's hands.
-
-He notices a small paper price tag hanging from the crown, removes it, and slips it into his pocket. He then gently straightens the prince's crooked collar and nudges the royal throne a few inches into better alignment with the carpet.
-His movements are practical, quick, and completely unbothered.
-
-The king stands frozen, visibly bewildered but trying to preserve his royal dignity. The prince looks from the man to his father, unsure whether he is allowed to move.
-
-The man steps back, examines his work, and gives one satisfied nod.
-
-RANDOM MAN: "Much better."
-
-Deliver the line casually, in a natural conversational voice, without a dramatic pause or exaggerated comic delivery.
-
-SHOT 4 — BACK TO BUSINESS
-
-14–17 seconds
-
-The modern man turns around and casually walks out of the throne room the same way he entered.
-
-No one stops him. Nobody speaks.
-The king slowly follows him with his eyes, then looks down at the crown in his hands as if trying to understand what just happened.
-
-The prince remains kneeling in the exact same position.
-
-The man exits the frame completely.
-
-SHOT 5 — THE CORONATION CONTINUES
-
-17–20 seconds
-
-Cut to a cinematic medium close-up of the king taking a slow breath, regaining his composure, and carefully positioning himself to continue the ceremony.
-
-He raises the crown again.
-The prince bows his head.
-
-The orchestral music resumes its original majestic intensity, as if the interruption never happened.
-
-KING: "Today… you become king."
-
-End immediately on the king's perfectly serious face.
-
-Cut to black.
-
-CAMERA AND EDITING
-
-Use professional cinematic framing, smooth controlled camera movements, realistic depth of field, natural facial micro-expressions, and clean film-style cuts. Establish the room before moving into medium shots and close-ups. Make the modern man's entrance and practical actions easy to see.
-
-Keep the comedy understated and driven by timing, awkward silence, and the contrast between the epic ceremony and the man's mundane behavior.
-
-AUDIO DESIGN
-
-Majestic orchestral music during the coronation, subtle footsteps and clothing movement, a slight musical interruption when the man enters, a soft paper rustle as he removes the price tag, and a return to full orchestral grandeur for the final line.
-
-All dialogue must be clearly audible, naturally spoken in English, and not overly theatrical.
-
-STRICT NEGATIVE CONSTRAINTS
-
-Do NOT generate any subtitles, captions, text overlays, watermarks, logos, or on-screen text of any kind.
-Do NOT display the spoken lines as written text on screen.
-Dialogue must exist only as spoken audio, never as visible typography.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109652073189097472/img/WVJ7tQSgnKUnJfqs.jpg" width="600" alt="Medieval Coronation Comedy Interruption">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12392)**
-
-**Author:** [Caden Flux](https://x.com/Caden_Flux) | **Source:** [Link](https://x.com/Caden_Flux/status/2109652904864829898) | **Published:** Oct 12, 2026
-
----
-### Pixar Style Mango Orchard Short Film Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed video generation prompt for Seedance 2.0 to create a 12-second Pixar-style animated short film featuring a farmer in a mango orchard.
-
-#### 📝 Prompt
-
-```
-12-second animated short film, Pixar 3D cartoon style, bright pastoral lighting, warm afternoon sunbeams filtering through leaves. A middle-aged farmer wearing a wide-brimmed straw hat, a light khaki shirt with rolled-up sleeves, dark trousers, and a small cloth bag at his waist, stands in a lush mango orchard, gently touching plump green mangoes on the branches with a mild smile. Background of rolling hills, blue sky, and white clouds.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109650656302972929/img/mtXPkMSZfdrAx-sF.jpg" width="600" alt="Pixar Style Mango Orchard Short Film Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12395)**
-
-**Author:** [Jackzhao](https://x.com/Jackzhaoh6ob) | **Source:** [Link](https://x.com/Jackzhaoh6ob/status/2109651272303550940) | **Published:** Oct 12, 2026
-
----
-### Gymnast Balance Beam Routine Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for an ultra-realistic cinematic video of a female gymnast performing an elegant routine on a balance beam in an indoor hall.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic video of a talented young female gymnast performing an elegant routine on a balance beam inside a traditional indoor gymnastics hall. She wears a burgundy long-sleeve leotard, with her brown hair tied back neatly. She gracefully walks along the beam, extends her arms for balance, and performs a stunning full split with perfect flexibility and control. A seated audience watches attentively in the background. Warm indoor lighting, realistic skin texture, natural body movements, smooth cinematic camera tracking, shallow depth of field, soft background bokeh, professional sports photography, realistic motion, 4K UHD, 24fps, vertical 9:16 composition, highly detailed, photorealistic.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109510154567974912/img/KvPK7VQYYAV2EzZm.jpg" width="600" alt="Gymnast Balance Beam Routine Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12358)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2109510249573191819) | **Published:** Oct 12, 2026
-
----
-### Cinematic Fantasy Video with Pink Dragon and Woman in Cabin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a 36-second ultra-realistic cinematic fantasy video featuring a young woman interacting with an adorable pink baby dragon inside a snowy wooden cabin.
-
-#### 📝 Prompt
-
-```
-Create a fantastic 36-second ultra-realistic cinematic fantasy video featuring a beautiful young woman with long, wavy dark hair wearing a cozy beige knitted sweater, interacting with an adorable pink baby dragon inside a rustic wooden cabin surrounded by snowy mountains. The woman gently prepares fresh food, smiles at the tiny creature, and lovingly feeds it as its big golden eyes sparkle with curiosity. The adorable dragon moves its tiny wings, wiggles its tail, and snuggles into her arms while warm fireplace light illuminates their faces. Snow falls outside the cabin windows, creating a magical winter atmosphere with breathtaking scenery. Show beautiful close-up shots of the dragon’s delicate pink scales, translucent frills, and expressive eyes, along with the woman’s natural facial expressions. Include smooth cinematic camera movements, realistic interactions, detailed wooden interiors, soft lighting, and seamless scene transitions. The woman gently cuddles the creature beside the glowing fireplace as it looks up at her affectionately. Maintain perfect character consistency, photorealistic textures, natural movements, professional 4K cinematography, and an emotionally captivating fantasy atmosphere with no text, logos, or watermarks.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109456966603161600/img/yQObaARfkE7CuA3p.jpg" width="600" alt="Cinematic Fantasy Video with Pink Dragon and Woman in Cabin">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12356)**
-
-**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2109457141174247789) | **Published:** Oct 12, 2026
-
----
-### Cinematic Martial Arts Training in Japanese Dojo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating an ultra-realistic cinematic martial arts training scene featuring two women practicing hand-to-hand combat in a traditional Japanese wooden dojo.
-
-#### 📝 Prompt
-
-```
-AI Video Prompt: Cinematic Martial Arts Training
-
-Create an ultra-realistic cinematic martial arts training scene featuring two skilled young women practicing hand-to-hand combat in a traditional Japanese wooden dojo surrounded by a lush green garden. One woman has auburn hair tied in a ponytail and wears a brown long-sleeved training top with dark pants. The other has short, curly black hair and wears a light beige martial arts outfit with dark trousers.
-
-They perform realistic punches, blocks, defensive movements, and counterattacks with impressive speed, precision, and balance. Their movements should flow naturally, with accurate body mechanics, realistic footwork, expressive faces, and authentic martial arts choreography. Soft natural daylight filters through the wooden pavilion, illuminating the polished floor and green scenery.
-
-Camera: Cinematic medium-wide shots, smooth tracking movements, occasional close-ups, realistic motion blur, and dynamic angles.
-
-Visual style: Photorealistic, 4K cinematic quality, natural lighting, detailed fabric textures, shallow depth of field, subtle film grain, professional action-movie cinematography.
-
-Mood: Intense, disciplined, graceful, powerful, and focused.
-
-Format: Vertical 9:16, continuous realistic motion, consistent character appearances, no cuts that disrupt the choreography, no distorted anatomy, no extra limbs, no text, no watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109200093870219264/img/VT3q4u7Y8J729LDG.jpg" width="600" alt="Cinematic Martial Arts Training in Japanese Dojo">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12357)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2109200265534718164) | **Published:** Oct 11, 2026
-
----
-### Fiery Warrior Action Video with Glowing Spear
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for creating a 15-second ultra-realistic cinematic fantasy action video featuring a female warrior with silver hair and glowing eyes wielding a fiery spear on a battlefield.
-
-#### 📝 Prompt
-
-```
-Created a 15-second ultra-realistic cinematic fantasy action video featuring a powerful female warrior with long silver hair, glowing golden eyes, and a stylish black battle outfit, holding a massive spear surrounded by blazing orange flames. She rushes forward across a dark battlefield, performing fast and powerful weapon attacks with glowing fiery trails and flying sparks. The camera follows her movements smoothly, capturing dramatic close-ups, wide action shots, and intense combat moments. She jumps high into the air, spinning her spear as magical fire energy gathers around her body. She strikes the ground with incredible force, creating a massive explosion of flames, smoke, and glowing embers. Her silver hair flows naturally in the wind while her golden eyes shine with fierce determination. The battlefield lights up with orange energy as enemies disappear into the smoke. End with a dramatic heroic pose, her spear glowing brightly as fire swirls around her. Maintain consistent character details, realistic movement, cinematic lighting, smooth transitions, and stunning high-quality visual effects throughout the entire video.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109136974116499456/img/snE8D7hQi20LDhvy.jpg" width="600" alt="Fiery Warrior Action Video with Glowing Spear">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12303)**
-
-**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2109137173224337478) | **Published:** Oct 11, 2026
-
----
-### Medieval Fantasy Archer Riding Through Misty Forest
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for creating a 15-second high-budget medieval fantasy film featuring a female archer riding a black horse through a foggy pine forest, transitioning to a hidden encampment.
-
-#### 📝 Prompt
-
-```
-Create a 15-second ultra-realistic, high-budget medieval fantasy film featuring a beautiful, fierce female archer with long, loose brown hair, wearing historically inspired dark brown leather armor, fur-trimmed shoulders, a rugged medieval outfit, a leather belt, and a quiver full of arrows strapped across her back. She rides a muscular black horse through a dense ancient pine forest filled with thick atmospheric fog, moss-covered ground, scattered rocks, and towering trees. Begin immediately with a wide cinematic rear shot of the warrior riding her horse along a narrow forest trail as warm golden sunlight pierces through the trees, creating dramatic volumetric light rays and a mysterious atmosphere. The camera follows smoothly behind the horse as its hooves move naturally over the uneven ground, disturbing small leaves, dirt, and moss. Transition into a dramatic low-angle side close-up of the female warrior holding a traditional curved black bow, drawing the bowstring backward with a single arrow, and aiming with intense concentration. Her arm muscles tense naturally, the bow bends under realistic tension, and her hair and fur-trimmed clothing respond to the cool forest breeze. Capture her determined facial expression, realistic skin texture, detailed leather armor, and the individual arrows in her quiver. In the final seconds, transition to a wide rear tracking shot as she rides into a hidden medieval encampment surrounded by towering evergreen trees, rustic tents, wooden structures, and groups of warriors wearing authentic medieval clothing and armor. The warriors turn toward her arrival, creating the atmosphere of a legendary chieftain returning to her people. Maintain consistent character identity, outfit, horse appearance, and realistic body proportions throughout every shot. Use cinematic camera transitions, natural horse locomotion, accurate equestrian anatomy, realistic gravity, inertia, muscle movement, cloth simulation, and physically believable lighting. Premium Hollywood medieval fantasy cinematography, photorealistic textures, atmospheric fog, muted earthy colors, dramatic natural lighting, subtle film grain, shallow depth of field, 4K quality, 24 FPS, immersive environmental sound effects of horse hooves, leather movement, wind through pine trees, and distant camp ambience. No modern objects, no cartoon effects, no subtitles, no text, no logos, and no watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109123010812870656/img/EHX4CdPkZ_XLXU_e.jpg" width="600" alt="Medieval Fantasy Archer Riding Through Misty Forest">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12304)**
-
-**Author:** [Ayat](https://x.com/aiwithaayat) | **Source:** [Link](https://x.com/aiwithaayat/status/2109123171408560343) | **Published:** Oct 11, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -4107,6 +4564,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-02T05:01:21.598Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-02T18:12:33.646Z</sub>
 
 </div>

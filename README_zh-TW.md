@@ -68,7 +68,7 @@
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **6624** |
+| 📝 提示詞總數 | **6633** |
 | ⭐ 精選提示詞 | **6** |
 | 🔄 最後更新 | **2026-11-02** |
 
@@ -361,6 +361,759 @@
 
 > 📝 按發布日期排序（最新優先）
 
+### Seedance 2.0 Mini 古風仙俠短片提示詞
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 為 Seedance 2.0 Mini 打造的完整影片生成提示詞，能創作出一段 15 秒、以古代中國奇幻為背景的電影級場景。內容詳述如何透過參考圖片維持角色一致性、特定的鏡頭運動（如平移、跟拍）、光影條件，以及涉及假怪物騙局的劇情反轉。
+
+#### 📝 提示詞
+
+```
+模型：Seedance 2.0 Mini
+時長：嚴格限制 15 秒
+比例：16:9 橫向
+類型：純古風仙俠 / 懸疑反轉 / 社會諷刺 / 人物關係劇情
+結構：三個連續且清晰的電影鏡頭，各自具備不同的敘事功能。
+
+I. Prompt | 整體風格與創作方向
+電影級真人寫實質感，純正中國古風仙俠美學。
+整體方向：
+成熟的懸疑敘事
+克制的人物表演
+精準的視覺誤導
+能引發現實共鳴的社會諷刺
+視覺呈現採用：
+自然的電影攝影質感
+清晰的面部細節
+寫實的皮膚紋理
+精緻的絲綢材質
+自然的體積光
+具備空間深度的構圖
+
+II. 核心情節與反轉機制
+本故事的核心為：
+賣符小販製造妖物恐慌，藉此說服眾人惡靈將至。
+第一層懸疑
+觀眾最初的擔憂：
+母子會遭妖物襲擊
+母親是否會拿孩子的救命藥錢去買保命符？
+第二層反轉
+隨後真相揭曉：
+所謂的妖物，只是小販暗中操縱的機關傀儡。
+真正的情感衝突
+真正的衝突並非妖物，而是：
+一位母親被迫在孩子的藥錢與虛假的安全感之間做出抉擇。
+敘事原則
+反轉必須完全透過以下方式完成：
+人物的觀察
+實體物件
+具體動作
+物理因果關係
+嚴格避免
+真實妖物突襲
+神符顯靈
+冗長的解釋
+說教式結局
+
+III. 角色與身分鎖定
+角色 A | @Image1 | 師姐
+維持原參考圖中的成年東亞女性身分、臉型、五官、髮型、配飾及白色仙俠服飾。
+固定特徵
+成年東亞女性
+與原參考圖相同的面容
+自然的骨骼結構
+白色刺繡絲綢服飾
+銀色腰飾
+原有的佩劍
+寫實的皮膚紋理
+自然的身體結構
+古典優雅的氣質
+連貫性要求
+維持寫實的皮膚紋理
+服裝保持不變
+維持穩定的角色身分
+切勿重新設計角色
+
+角色 B | @Image2 | 師妹
+維持參考圖中的成年東亞女性身分、圓潤靈動的臉龐、明亮的雙眼、原有的黑色髮辮及青藍色古裝。
+固定特徵
+成年東亞女性
+圓潤靈動的臉龐
+明亮的雙眼
+黑色髮辮
+青藍色古裝
+佩戴同一把深色長劍
+連貫性要求
+維持與師姐截然不同的面部特徵
+服裝保持穩定
+維持穩定的角色身分
+
+雙主角共同限制
+兩位主角皆須維持各自獨立的身分。
+嚴格禁止
+換臉
+五官融合
+更換服裝
+身分偏移
+新增配角
+
+中年男性江湖方士
+深褐色舊袍
+精明算計的神情
+負責兜售符籙
+
+普通村婦
+衣著破舊
+抱著生病的幼童
+
+其他背景人物
+其餘市集路人僅作為遠處的生活化背景
+不可搶走主要敘事焦點
+
+IV. 環境與場景 DNA
+上傳的背景與場景參考圖即代表真實的物理世界。
+正式構圖前的環境規劃
+維持參考場景的以下屬性：
+地形
+建築的空間關係
+主要地標
+比例
+材質
+植被
+水體
+天氣
+霧氣
+光影
+大氣透視深度
+根據實際場景條件，自然地搭建一個小型古風符攤。
+
+V. 攤位與機關結構
+符攤
+攤位由以下元素組成：
+木架
+布簾
+竹竿
+懸掛的黃紙符籙
+隱藏機關
+攤位後方藏有一個簡易機關：
+黑布製成的妖物剪影
+固定在可旋轉的竹架上
+一根細紅線從竹架延伸至方士手中
+方士拉動繩索時，妖物黑影便會升起
+機關連貫性要求
+機關在整段影片中須維持相同的結構、位置與物理邏輯。
+
+VI. 生活化背景與敘事中立性
+背景須保持生機盎然。
+自然動態
+風
+水流
+雲/霧
+植被
+遠處人影
+髮絲
+衣袖
+持續的自然動態。
+環境原則
+環境充滿生氣，但在敘事上保持中立。
+環境絕對不可：
+主動製造反轉
+代替角色做出判斷
+突然觸發奇蹟
+改變情節的因果關係
+
+VII. 15 秒完整分鏡
+0–5s | 第一顆鏡頭：全景 | 十兩買命
+敘事任務
+先讓觀眾為孩子感到擔憂。
+運鏡設計
+鏡頭從略低的角度緩慢向前推進。
+古代市集的空間深度清晰展開。
+視覺層次
+前景：
+掛滿黃紙符籙的小攤位
+中景：
+一名衣著破舊的村婦抱著生病的孩子
+孩子狀態：
+靠在母親肩上
+精神萎靡
+母親道具
+手中緊握幾塊碎銀
+第一段對話
+方士舉起一張黃符，語氣篤定：
+[方士]「此符，十兩買命！」
+村婦低頭看著手中的碎銀，聲音緊繃：
+[村婦]「這是我兒子的藥錢。」
+情緒狀態
+她沒有立刻付錢。
+方士的目光落在碎銀上。
+視覺懸疑建立
+布簾後方的陰影中，隱約浮現猙獰的妖物輪廓。
+村婦本能地將孩子抱得更緊。
+主角登場
+畫面邊緣，師姐（白衣）與師妹（青衣）恰好路過，察覺到攤位的異狀。
+第一顆鏡頭結尾
+鏡頭結束時保留懸疑：
+母親該不該拿救命的藥錢去買這張符？
+
+5–10s | 第二顆鏡頭：中景 | 妖為人作
+敘事任務
+透過一個動作，徹底翻轉觀眾的判斷。
+鏡頭起始
+切換至師妹四分之三側臉的中景。
+師妹原本正注視著村婦。
+此時，她注意到方士藏在袖下的手突然收緊。
+視線引導
+鏡頭順著她的視線，捕捉到一根繃緊的細紅線。
+紅線的一端連接著攤位後方的竹製機關。
+假妖影觸發
+方士暗中拉扯紅線。
+黑布妖影猛然從布簾後方升起。
+伴隨著機關發出的粗糙怪聲，村婦劇烈地向後退縮。
+她的手幾乎要將碎銀遞給方士。
+師妹看穿一切
+師妹此刻已明白真相。
+她沒有多作解釋。
+只是向前邁出一步。
+右手拔劍。
+關鍵動作
+一記俐落、精準的斜劈。
+劍刃斬斷繃緊的紅線。
+紅線斷裂，竹架瞬間失去支撐。
+黑布妖影向下墜落。
+真相大白
+一個中空的布製妖物面具，連同竹竿與木架，就這樣暴露在眾人眼前。
+竹架落地發出清脆的撞擊聲，先前恐怖的嘶吼聲也戛然而止。
+方士的手還停留在拉繩的姿勢。
+他整個人僵住了。
+村婦看看散落一地的機關，再看看自己手中的碎銀。
+所有人都明白了。
+第二顆鏡頭執行原則
+這顆鏡頭不需要任何對白。
+反轉完全依賴以下元素完成：
+道具
+手部動作
+視線引導
+真實的物理反饋
+
+10–15s | 第三顆鏡頭：特寫 | 你賣的是她的恐懼
+敘事任務
+揭穿騙局，讓情感真正落在普通人身上。
+運鏡與景深
+鏡頭切換至人物特寫。
+運用真實的淺景深，在以下對象間營造清晰的空間層次：
+方士
+師姐妹
+抱著孩子的村婦
+方士的辯解
+方士試圖挽回局面。
+他看著散落的機關，慌忙辯解：
+[方士]「我賣的是平安！」
+師姐的審判
+身穿白衣的師姐並未拔劍。
+她先是看了一眼地上的假妖物。
+接著將目光轉向仍驚魂未定的村婦。
+語氣平靜卻字字如刀：
+[師姐]「你賣的是她的恐懼。」
+師妹的動作收尾
+鏡頭跟隨師妹的手。
+她走向村婦。
+輕輕將村婦差點交出去的碎銀收回她的掌心。
+抬頭看著村婦：
+[師妹]「先帶孩子去看病。」
+村婦的情緒落地
+村婦低頭看著手中的碎銀。
+終於鬆了一口氣。
+隨後穩穩抱住孩子，轉身離開攤位。
+師妹自然地側身讓開，為她清出一條路。
+方士的最終狀態
+方士呆立原地，啞口無言。
+最後半秒的定格
+鏡頭停留在散落的竹架與黃符上。
+布製假妖物徹底暴露在外。
+再也沒有人會買他的符了。
+最終餘韻
+妖物是假的。
+但母親對孩子的牽掛是真的。
+
+VIII. 攝影與表演要求
+基本規格
+嚴格限制 15 秒
+16:9 橫向
+三個完整的電影鏡頭，採用不同景別
+空間與動作的連貫性
+第一顆鏡頭要求
+第一顆鏡頭採用：
+較低的機位
+緩慢推軌
+讓觀眾感受到：
+村婦的無助
+攤位帶來的壓迫感
+第二顆鏡頭要求
+第二顆鏡頭以師妹的視線作為敘事引導。
+敘事順序必須為：
+先看到方士的手
+再看到繃緊的紅線
+接著...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117123424669855744/img/gVtUer8oWA9GeKDL.jpg" width="600" alt="Seedance 2.0 Mini 古風仙俠短片提示詞">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=13371)**
+
+**作者:** [Soran](https://x.com/Soranlan) | **來源:** [Link](https://x.com/Soranlan/status/2117124345281810678) | **發布時間:** Nov 2, 2026
+
+---
+### 女巫夜飛穿越城市
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成超寫實電影感奇幻影片的提示詞，描繪女巫騎著掃帚飛越霓虹閃爍的夜色城市。
+
+#### 📝 提示詞
+
+```
+製作一段超寫實的電影級奇幻影片，畫面中一位神祕的年輕女巫在皎潔滿月下，騎著魔法掃帚飛越黑暗的城市。呈現戲劇性的雲層、藍色魔法煙霧與神祕的夜晚氛圍。女巫頭戴黑色尖帽、身穿時尚深色服裝，長髮隨風飄逸。捕捉她穿梭於高樓之間、俯衝掠過霓虹閃爍的熱鬧街道的畫面。加入逼真的動態效果、發光的魔法特效、電影級運鏡、戲劇性光影以及令人驚豔的視覺細節。頂級奇幻電影風格、 4K 、照片級寫實、流暢動畫。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117120887447252992/img/jnp-YCYdCxX9r0VE.jpg" width="600" alt="女巫夜飛穿越城市">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=13368)**
+
+**作者:** [AIwithMinal](https://x.com/AIwithMinal) | **來源:** [Link](https://x.com/AIwithMinal/status/2117120914139619479) | **發布時間:** Nov 2, 2026
+
+---
+### Seedance 2.0 Mini：仙俠愛情拒婚場景提示詞
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 Mini 的完整提示詞，用於生成 15 秒的古風仙俠情感劇。重點在於婚禮拒婚場景，包含細膩演技、特定道具互動（玉佩）以及電影級運鏡技巧。
+
+#### 📝 提示詞
+
+```
+Seedance 2.0 Mini | 「十年與餘生」
+
+模型：Seedance 2.0 Mini
+時長：嚴格 15 秒
+比例：16:9 橫向
+類型：純古風仙俠 / 情感反轉 / 成熟人物關係劇
+結構：三個連續、清晰且敘事分明的電影級鏡頭
+
+I. 提示詞 | 整體風格與創作方向
+電影級寫實真人質感，純正中國古風仙俠美學。
+整體方向：
+成熟克制的情感反轉，具備真實心理深度的人物關係劇。
+採用：
+高水準的古典人物調度
+Arri Alexa 電影攝影質感
+清晰的寫實肌膚紋理
+自然的體積光
+細膩的底片顆粒感
+寫實的絲綢動態
+
+II. 核心劇情與情感反轉
+兩位修仙者同修十載，終於迎來正式結為道侶之日。
+所有人都以為，這是一段完美關係的終點。
+但師妹卻在儀式上突然拒絕結契。
+第一層懸念
+觀眾最初的預期：
+背叛
+隱瞞的秘密
+有人犯下不可原諒的過錯
+真正的反轉
+他們誰也沒有變壞，也沒有不珍惜過去；只是無法再走向同一個未來。
+十年的真心，依然是真心。
+但餘生，不該成為償還過去的代價。
+情感與敘事原則
+故事必須透過以下方式自然完成：
+人物動作
+細微表情
+停頓
+對白
+嚴格避免：
+冗長的解釋
+突如其來的煽情
+強行黑化角色
+說教式的結局
+
+III. 角色身分與素材鎖定
+角色 A | @Image1 | 劍仙師姐
+始終是同一位劍仙師姐：
+25-30 歲東亞女性
+柔和的鵝蛋臉
+明亮的杏眼
+黑色長髮半束
+以白玉髮簪固定
+身形高挑纖細
+同款白色刺繡絲質漢服
+半透明層次寬袖
+銀色腰帶
+玉佩
+白布靴
+佩戴唯一的銀色長劍
+本段落中的角色功能
+白衣師姐主要透過以下方式表達關係：
+觀察
+眼神交會
+克制的反應
+關鍵限制：
+不得替師妹做決定
+不得搶走主要的戲劇空間
+角色 B | @Image2 | 師妹
+始終是同一位師妹：
+20-25 歲東亞女性
+圓潤靈動的臉龐
+黑色辮髮
+同款青色古風漢服
+深色腰帶
+木簪
+黑布鞋
+佩戴唯一的暗鋼長劍
+本段落中的角色定位
+師妹是本段劇情的情感主角。
+新配角 | 男修
+成年男性
+身穿深藍色古袍
+相貌端正
+氣質沉穩
+與師妹同修十載
+師妹命定的道侶
+角色連貫性要求
+男修必須維持：
+獨立的身分
+穩定的服裝
+寫實的角色表現
+絕不可與主角混淆。
+其他配角
+掌門長老
+主持結契儀式。
+宗門弟子
+少數弟子作為遠處的見證者。
+
+IV. 背景與環境 DNA
+所有上傳的背景與場景參考圖，即決定了實際的物理世界。
+正式構圖前的環境規劃
+先靜默完成一輪環境規劃。
+全面分析參考圖中的：
+地形
+建築佈局
+空間尺度
+材質年代感
+植被生態
+水體
+雲霧
+天氣
+主光源方向
+色彩關係
+反射面
+空氣透視深度
+在維持以下項目一致性的前提下：
+場景身分
+空間關係
+物理邏輯
+尋找合適的自然開闊地，重新組織成具備以下條件的儀式場地：
+電影級尺度
+空間深度
+獨特的構圖
+
+V. 儀式場景與核心道具
+儀式場地僅需：
+一張古石桌
+兩枚以紅繩相繫的玉製婚契信物
+玉製婚契信物
+兩枚玉佩
+一條連接兩枚玉佩的紅絲繩
+維持真實的玉石材質
+維持真實的紅繩物理結構
+其他關鍵道具
+象徵權柄的古樸掌門印
+師妹已打包好的小件行囊
+
+VI. 活態背景與敘事中立性
+背景須始終充滿生氣。
+自然動態
+風自然吹動衣袖與植被
+雲朵緩慢移動
+山間雲霧依地形流動
+若參考圖中有水體，則維持水流動態
+遠處建築保持正確透視
+倒影隨鏡頭角度自然變化
+環境動態的速度與幅度應隨景深而異。
+環境敘事原則
+所有背景動態皆獨立於劇情之外存在。
+環境絕不可：
+製造衝突
+觸發反轉
+代替角色做出選擇
+
+VII. 15 秒完整分鏡結構
+0–5 秒 | 第一鏡：全景 | 當眾拒婚
+鏡頭設計
+鏡頭緩慢橫移掃過古老的儀式場地。
+透過以下層次建立清晰的空間關係：
+前景的石桌
+中景的人物
+遠景的宏偉建築、群山或參考圖中的其他核心地標
+初始人物站位
+掌門長老
+立於儀式石桌後方。
+男修
+身穿深藍古袍，立於石桌一側。
+手中握著一枚玉製婚契信物。
+青衣師妹
+立於石桌另一側。
+白衣劍仙師姐
+立於師妹斜後方數步之遙，靜靜觀察。
+核心道具狀態
+一條紅絲繩連接兩枚玉佩。
+儀式開始
+長老莊嚴宣告：
+[長老]「十年婚契，今日圓滿。」
+師妹低頭看著紅絲繩。
+她沒有伸手接過自己的玉佩。
+而是緩緩抬頭，望向眼前的男子。
+第一層反轉
+[師妹]「我不結了。」
+原本莊嚴的儀式瞬間陷入寂靜。
+男修的反應
+鏡頭捕捉男修在那一瞬間真實的震驚。
+表演與節奏要求
+無誇張的驚呼
+無群眾突然圍攏
+透過人物的停頓與空間的寂靜營造懸念。
+5–10 秒 | 第二鏡：中近景 | 真正的分歧
+連貫性要求
+維持完全一致的：
+場景
+人物
+服裝
+玉佩位置
+鏡頭設計
+鏡頭切換至雙方四分之三側面的中景雙人鏡頭。
+男修的反應
+男修並未動怒。
+也沒有突然質問她是否變心。
+他認真地看著師妹，彷彿早已隱約知道答案。
+輕聲問道：
+[男修]「你還是要下山？」
+師妹的回答
+師妹望著他，同樣平靜：
+[師妹]「你還是要守山？」
+情感與眼神
+鏡頭以細微的眼神，揭示兩人由來已久的不同抉擇。
+道具視覺對比
+男修身旁
+放著象徵權柄的古樸掌門印。
+師妹腳邊
+是早已打包好的小件行囊。
+視覺關係
+這兩件道具形成鮮明的視覺對比：
+一人決定留下。
+一人準備遠行。
+誰都沒有錯。
+只是再也無法走向同一個地方。
+師姐與環境狀態
+白衣師姐始終不曾介入。
+背景持續獨立的自然動態：
+風
+水
+雲霧
+植被
+布料
+倒影
+10–15 秒 | 第三鏡：特寫 | 十年與餘生
+長老的最後一問
+長老在石桌旁問出最後一句話：
+[長老]「那這十年呢？」
+師妹特寫
+鏡頭切換至師妹特寫。
+她沒有立刻回答。
+眼中泛起極輕微的水光，但未落淚。
+聲音平穩，帶著真正的不捨。
+[師妹]「珍重。」
+情感停頓
+完整停頓半拍。
+接著說出最後一句台詞：
+[師妹]「不能用餘生去還過去。」
+真正的情感高潮：解開紅繩
+鏡頭迅速且自然地移至男修的雙手。
+他低頭看著連接兩枚玉佩的紅絲繩。
+短暫遲疑後，他並未憤怒地扯斷繩索。
+而是用手指緩緩解開了繩結。
+動作硬性要求
+此動作必須真實、清晰且完整。
+玉佩分離
+男修輕輕將師妹的玉佩放回桌上。
+自己留下了另一枚。
+兩枚玉佩皆完好無損。
+只是不再相連。
+最終人物反應
+師妹望向他。
+男子抬眼，給了她一個極輕微的點頭。
+這個點頭傳達了：
+理解
+遺憾
+最終電影級構圖
+最後的畫面停留在桌上的兩枚玉佩：
+完好，卻已分離。
+後方淺景深中：
+兩人保持著適當的距離
+師姐站在師妹身後
+師姐的眼神平靜而理解
+結尾限制
+不得出現：
+擁抱
+突然和解
+反派
+勝負定論
+最終情感落點
+十年並未白費，只是無需再同行。
+
+VIII. Seedance 2.0 Mini 執行要求
+基本規格
+模型：Seedance 2.0 Mini
+嚴格總時長：15 秒
+畫面比例：16:9 橫向
+三個連續、清晰且敘事分明的電影級鏡頭
+三種敘事功能
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117112122387918848/img/FNMfOO9Jg3bQP4IZ.jpg" width="600" alt="Seedance 2.0 Mini：仙俠愛情拒婚場景提示詞">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=13374)**
+
+**作者:** [Soran](https://x.com/Soranlan) | **來源:** [Link](https://x.com/Soranlan/status/2117112170395914599) | **發布時間:** Nov 2, 2026
+
+---
+### Seedance 2.0 Fast 清代雨夜
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 包含 Seedance 2.0 Fast 的比較影片。提示詞用於生成 i2v（圖生影片）的清代宮廷雨夜場景，並融入 ASMR 元素。
+
+#### 📝 提示詞
+
+```
+清代宮廷夜雨 × 雨打荷葉荷花 × 錦鯉與蛙鳴 × 閃電與遠雷 × 梨園戲子練腔 × 沉浸式 ASMR
+
+8 秒，9:16 直式比例，寫實電影級畫面。
+
+夏夜，細雨落在清代宮廷的水榭迴廊上。廊邊池塘裡長著大片荷葉，葉旁一朵淡粉色荷花半開，花瓣被雨水沾濕。簷下掛著暖黃色宮燈，燈光倒映在淺石槽與池水之中。
+
+近處的荷葉微微傾斜，葉面蓄著雨水。一隻小青蛙蹲在池畔的石頭上，淺水中偶爾隱約可見錦鯉游動，身影被雨滴與燈影遮掩了大半。
+
+深色的木柱與遠處迴廊隱沒在雨夜裡。迴廊盡頭是燈光昏暗的梨園，窗紙上映出模糊的人影，偶爾緩緩移動。清冷的藍色夜景與溫暖的宮燈光線自然交融。
+
+鏡頭貼近荷葉與水面，以極低角度緩慢向前推進。近處的荷葉、花朵與簷下滴水清晰可見；畫面上方露出部分宮燈，遠處梨園的窗影則朦朧不清。畫面層次分明，保留了幽靜的暗部空間。
+
+0-2 秒：細雨不斷打在荷葉上，發出綿密柔軟的沙沙聲。荷葉輕輕顫動，雨滴在葉面上匯聚。簷水斷斷續續滴入石槽，傳來清脆的滴答聲。池畔的小青蛙叫了一兩聲。
+
+2-4 秒：遠處梨園傳來戲子練腔的聲音，溫柔悠揚的無詞吟唱穿透雨幕。窗紙上的模糊人影緩緩揚起水袖。一尾錦鯉在荷葉下慢慢游動，身影被水波與宮燈倒影遮去一半。
+
+4-6 秒：遠方天空短暫閃過一道光，冷白色的閃電照亮荷葉、花朵與雨絲，隨即又回到溫暖暗沉的夜色中。稍作停頓後，遠方傳來低沉綿長的雷聲，吟唱聲也暫時變得更輕柔。
+
+6-8 秒：雷聲漸漸消散。傾斜荷葉上積蓄的雨水順著葉緣流入池中，發出柔和連續的水聲，漣漪穿過宮燈的倒影。遠處的吟唱聲隱約可聞，池畔的青蛙又叫了一聲。雨聲持續到最後。
+
+[聲音設計]
+
+整段影片以近處雨打荷葉的綿密沙沙聲，以及簷水滴落石槽的間歇滴答聲為主。荷葉積水流入池中的聲音清晰而柔和。
+
+蛙鳴來自池畔；戲曲吟唱來自遠處的梨園；雷聲則從更遠的天際傳來。各種聲音自然交錯，遠近層次分明，保留真實雨夜的空間感。
+
+先見閃電，後聞雷聲。雨滴、葉片顫動、水流與漣漪皆與聲音同步。雷聲低沉柔和，適合靜心聆聽。
+
+戲曲吟唱溫柔悠遠，以無詞哼唱的方式呈現。沒有樂器伴奏、沒有背景音樂、也沒有對白。
+
+荷葉、花朵、青蛙、錦鯉與遠處人影的動作都緩慢而自然。錦鯉始終待在水下，窗影模糊朦朧，雨水、倒影與光線皆寫實可信。
+
+左下角固定簽名：先是一個深藍色實心圓點，接著是白色手寫的「DeepBlue」。簽名小巧清晰，在整段影片中位置與風格保持不變，不會遮擋主體，9:16
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116920195797090304/img/Jkq7FrCBlu0TsKjW.jpg" width="600" alt="Seedance 2.0 Fast 清代雨夜">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=13372)**
+
+**作者:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **來源:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **發布時間:** Nov 1, 2026
+
+---
+### 葡萄酒軟木塞磨石子地板翻新影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成直式影片的提示詞，展示將葡萄酒軟木塞轉化為臥室中精緻磨石子地板的過程，包含翻新步驟與療癒的施工視覺效果。
+
+#### 📝 提示詞
+
+```
+直式影片，場景位於一間空蕩的白色房間內，房裡有一扇明亮的窗戶與一道敞開的門。一名身穿藍色吊帶工作褲、深色 T 恤的男子正用耙子整理地上堆積如山的葡萄酒軟木塞，將它們均勻攤平，鋪滿整個房間的地面。接著，一名穿著紅色吊帶工作褲的女子從大桶中倒下濃稠的白色環氧樹脂，光澤流動的液體漫過軟木塞、淹沒整片地板，直到所有軟木塞完全被覆蓋。隨後，幾名穿著螢光黃安全背心的工人來回推動沉重的地板拋光機，打磨已固化的表面，逐漸顯露出令人驚豔的水磨石紋理——軟木碎片懸浮在平滑的白色樹脂中，被打磨得如鏡面般光亮。最後，兩名黑衣男子搬進一組木製床架並完成組裝，再鋪上床墊、白色枕頭與米色蓋毯。影片以完工臥室的全景鏡頭作結，閃閃發亮的軟木水磨石地板映照著自然日光。療癒系裝潢縮時攝影風格、流暢轉場、自然日光、擬真材質質感，散發出一種莫名舒壓的施工氛圍。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116909245618692096/img/TSdqYOWdWORLvaVM.jpg" width="600" alt="葡萄酒軟木塞磨石子地板翻新影片">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=13369)**
+
+**作者:** [Ruslan Ai](https://x.com/Ruslanchain) | **來源:** [Link](https://x.com/Ruslanchain/status/2116909289004556620) | **發布時間:** Nov 1, 2026
+
+---
+### DIY 雨傘水泥水槽製作教學影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成逼真 DIY 教學影片的提示詞，展示如何利用水泥與鵝卵石將雨傘改造成水泥水槽。
+
+#### 📝 提示詞
+
+```
+一段寫實的 DIY 手作影片，拍攝地點為有遮頂的露台，背景是水泥牆與木門。一名身穿灰色 T 恤、戴著黑色帽子的男子站在質樸的木桌前，桌上有一把倒放的黃色雨傘，像模具一樣敞開著。他用抹刀從黑色水桶中舀起濕潤的灰色水泥填入雨傘內，接著將一個藍色塑膠碗壓入水泥中央，並用雙手將表面抹平。他在碗的周圍排上一圈光滑的鵝卵石，並將它們一一壓進水泥裡。待水泥凝固後，他取出藍色塑膠碗、剝開黃色雨傘布，露出一個邊緣鑲嵌著鵝卵石的八角形水泥洗手台。他以無線電鑽在中央鑽出排水孔，用抹布將盆體擦拭乾淨，再用刷子把整個洗手台漆成白色，最後以噴漆將鵝卵石噴上亮面藍色。結尾畫面呈現這款完成的設計師款洗手台安裝在現代風浴室中，搭配鍍鉻水龍頭，男子正在流水下洗手。流暢的手持鏡頭、自然日光、療癒的改造過程、教學風格。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116908302177009664/img/tOwAXa3GGvl22aee.jpg" width="600" alt="DIY 雨傘水泥水槽製作教學影片">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=13366)**
+
+**作者:** [Linh Ai](https://x.com/Rajrana12476547) | **來源:** [Link](https://x.com/Rajrana12476547/status/2116908365364256821) | **發布時間:** Nov 1, 2026
+
+---
+### 大理石水磨石臥室地板影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於製作垂直影片的提示詞，描繪在現代臥室環境中將玻璃彈珠轉化為光亮水磨石地板的過程。
+
+#### 📝 提示詞
+
+```
+直式影片，擬真攝影風格，明亮的空房間，白色牆面搭配一扇大窗。一名身穿藍色牛仔吊帶褲的男子，用耙子將混凝土地板上一大堆數以千計的彩色玻璃彈珠均勻鋪滿整個房間。一名身穿紅色吊帶褲的女子，從大桶中將濃稠的白色自流平環氧樹脂倒在彈珠上，光澤流動的液體順勢覆蓋彈珠，她再用耙子將其平滑推開。一名穿著黃色安全背心的工人使用地板拋光機研磨拋光表面，展現出令人驚豔的光亮地坪，彩色的圓形彈珠如打磨過的寶石般鑲嵌其中。兩名工人組裝木製床架、放上白色床墊，並鋪上白色寢具、米色枕頭與一條蓋毯。最後的廣角鏡頭呈現一間溫馨的現代臥室，獨特的水磨石彈珠地坪在自然日光下閃耀光芒。流暢的運鏡、療癒的改造過程、ASMR 氛圍、寫實光影、高細節呈現。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116880395002138624/img/jdcG-y-8Shk4Au0c.jpg" width="600" alt="大理石水磨石臥室地板影片">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=13370)**
+
+**作者:** [Ruslan Ai](https://x.com/Ruslanchain) | **來源:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **發布時間:** Nov 1, 2026
+
+---
+### 小黃瓜切片磨石地板臥室
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 生成超逼真翻新影片的提示詞，將小黃瓜切片作為骨料融入白色樹脂地板，並轉化為豪華臥室。
+
+#### 📝 提示詞
+
+```
+直式影片，場景為一間明亮空曠的房間，牆面純白、水泥地板裸露，並有一扇透進自然光的大窗戶。一名身穿橘色工作吊帶褲與黑色 T 恤的男子，正用耙子將堆積如山的新鮮小黃瓜片攤開，均勻平鋪成薄薄一層，覆蓋整片地板。接著，一名穿著紅色工作吊帶褲的女子加入他，兩人從水桶中倒出濃稠的白色樹脂淋在小黃瓜片上，並以刮板將其抹勻，直到每一片小黃瓜都完全沒入光滑亮白的表面之下。隨後，一群身穿黃色反光背心、戴著防噪耳罩的工作人員使用機器研磨拋光地板，並吸除粉塵；經過打磨後，半透明的小黃瓜片逐漸顯現，宛如綠色圓點般嵌在白色水磨石質感的地板中。一名穿著橘色工作吊帶褲的工人跪在地上手工擦拭地板，同時拋光機將地面打磨至如鏡面般光亮。最後，兩名搬運工抬進一張鋪著白色寢具的米色床鋪，以及一張擺有花瓶與書籍的圓形木製床頭櫃，瞬間將這個空間化身為極簡風格的設計感臥室。結尾唯美鏡頭：緩慢平移拍攝佈滿小黃瓜片的亮白地板，柔和的自然光線，療癒舒壓的 ASMR 風格裝潢過程，照片級擬真細節，流暢的電影級運鏡。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116879474146820096/img/9EVrV0bsiBxieDBp.jpg" width="600" alt="小黃瓜切片磨石地板臥室">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=13367)**
+
+**作者:** [Linh Ai](https://x.com/Rajrana12476547) | **來源:** [Link](https://x.com/Rajrana12476547/status/2116879515527905597) | **發布時間:** Nov 1, 2026
+
+---
 ### 果凍豆磨石子地板翻新影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1139,6 +1892,30 @@ Seedance 2.0 Mini | 古風仙俠「唯一落榜的人」
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=13127)**
 
 **作者:** [Linh Ai](https://x.com/Rajrana12476547) | **來源:** [Link](https://x.com/Rajrana12476547/status/2115506584159969679) | **發布時間:** Oct 28, 2026
+
+---
+### ASMR 影片生成比較：Seedance 2.0 Mini vs Others
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 詳細提示詞，用於生成 ASMR 風格影片，內容為一名女子切割並食用偽裝成石頭的蛋糕，旨在將 Seedance 2.0 Mini 與 Gemini、Meta Muse 及 Grok 等其他 AI 影片模型進行比較。
+
+#### 📝 提示詞
+
+```
+河邊的野餐墊上，木盤中央放著一顆灰褐色的鵝卵石。石頭表面帶有天然紋理、形狀圓潤，看起來跟旁邊真正的石頭幾乎一模一樣。
+
+一位身材玲瓏有致的東亞年輕女子伸手將它拿起，試探性地輕敲幾下，接著用刀切開。薄脆的巧克力外殼應聲裂開，露出裡頭層層疊疊、口感扎實的抹茶與香草蛋糕。她停頓片刻，拿起一半咬了一口，嘴角沾上一點奶油，忍不住笑了出來。
+
+重點捕捉刀刃壓碎外殼的清脆聲響、切開蛋糕時的柔軟摩擦聲，以及咬下時細碎的掉屑聲。遠處隱約傳來流水聲與鳥鳴。
+自然日光、戶外手機隨拍質感、寫實材質紋理、動作自然流暢。無對白、無背景音樂，9:16 比例，10 秒。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115347738091286529/img/NyA_vpwalRjR94Rz.jpg" width="600" alt="ASMR 影片生成比較：Seedance 2.0 Mini vs Others">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=13373)**
+
+**作者:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **來源:** [Link](https://x.com/DeepBlueX0/status/2115347819557261557) | **發布時間:** Oct 28, 2026
 
 ---
 ### 櫻桃唇部精華液廣告
@@ -3650,303 +4427,6 @@ SHOT 5（12至15秒）：極廣角鏡頭，16mm 鏡頭，鯨魚升入天空並�
 **作者:** [liana](https://x.com/Lianaalane) | **來源:** [Link](https://x.com/Lianaalane/status/2109876446089134244) | **發布時間:** Oct 13, 2026
 
 ---
-### 深夜韓國便利商店拉麵場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成一段 30 秒電影感影片的提示詞，描繪三位韓國女性在便利商店享用即食拉麵的場景，具備逼真的皮膚質感、休閒街頭服飾以及充滿氛圍感的夜晚環境。
-
-#### 📝 提示詞
-
-```
-製作了一段 30 秒的影片，展現美麗的韓國女孩在韓國便利商店享受深夜拉麵時光。三位時尚年輕的韓國女性擁有自然的韓式美感、逼真的皮膚質感、深邃富有表現力的眼睛以及休閒街頭服飾，聚集在明亮螢光燈下的拉麵吧檯旁。其中一位穿著藍黑相間的運動夾克搭配寬鬆的海軍藍運動褲，另一位留著銀灰色短髮並穿著黑色夾克，第三位則穿著深色休閒服裝搭配直順的黑髮。她們準備即食拉麵，手持巧克力牛奶和零食，一起輕鬆地享用這頓深夜餐點。呈現拉麵杯冒熱氣的電影感特寫鏡頭、筷子夾起麵條、女孩吃麵前輕輕吹涼熱麵，以及朋友們邊聊天邊自然享受美食的畫面。轉場至較廣角的鏡頭，顯示女孩們坐在便利商店窗邊的小圓桌旁，窗外城市燈光閃爍，玻璃上映出倒影。接近尾聲時，一位女孩起身調整背包，走向玻璃入口，其他人則繼續坐著。捕捉真實的韓國便利商店文化、坦率真摯的友誼時刻、細微的面部表情、自然的動作、逼真的食物質感和蒸汽、手持攝影機動態、淺景深效果、冷藍色調的電影級色彩分級、柔和的反光、充滿情緒的夜晚氛圍、超寫實的真人電影攝影風格、角色一致性、細節豐富的服裝質感、流暢的轉場、垂直 9:16 長寬比、4K 畫質、無字幕、無文字、無浮水印。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109852123366297600/img/HkCxcaBcWv0hhLJg.jpg" width="600" alt="深夜韓國便利商店拉麵場景">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=12481)**
-
-**作者:** [Ayat](https://x.com/aiwithaayat) | **來源:** [Link](https://x.com/aiwithaayat/status/2109852187186827283) | **發布時間:** Oct 13, 2026
-
----
-### K-Pop 微 MV 地鐵車窗倒影
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 為 Seedance 2.0 Fast 設計的詳細動態提示詞，用於生成寫實風格的 K-Pop 微音樂錄影帶場景：表演者凝視地鐵車窗中的倒影，捕捉親密的都市夜色浪漫與特定的光影效果。
-
-#### 📝 提示詞
-
-```
-寫實電影敘事風格 K-Pop 微音樂錄影帶，垂直 9:16 比例，角色身份（虛構成人）與服裝必須與起始圖片完全一致。自然的人體動作與穩定的解剖結構，真實拍攝環境，無文字、無標誌、無新增人物、無歌唱或口型同步。MAGNETAR。基於歌詞「我的臉映在地鐵車窗上 / 比平常更勇敢一點」。開場為身穿櫻桃紅皮革夾克的 Lea 在夜間地鐵中。0-4 秒中景鏡頭，呈現物理準確的單一車窗倒影：隧道燈光移動，她審視自己的臉龐，緩慢呼吸並挺直肩膀展現決心。4-7 秒她低頭看手機，做出一次果斷的點擊動作，彷彿決定主動聯繫；表情轉為安靜的勇敢。7-10 秒攝影機微妙地弧形移動至正面四分之三側面特寫，她抬起目光望向列車門，露出自信的微笑。保持倒影同步，保留玫瑰色頭髮與精確的面部特徵，無快速模糊或重複人物。結合冷調鋼色/紅色燈光的親密都市夜色浪漫。
-設定：Seedance 2.0 Fast / 720p / 9:16 / 10 秒源素材 / 生成音訊關閉。原始 Suno 曲目透過 FFmpeg 添加。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109757910226255872/img/d5uON0jYhMBaPmsJ.jpg" width="600" alt="K-Pop 微 MV 地鐵車窗倒影">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=12482)**
-
-**作者:** [🇰🇷Dave_Joe_9377🇦🇺](https://x.com/Dave_Joe_9377) | **來源:** [Link](https://x.com/Dave_Joe_9377/status/2109758263797727608) | **發布時間:** Oct 12, 2026
-
----
-### 中世紀加冕禮喜劇打斷
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段 20 秒電影級喜劇的提示詞，講述一名現代男子打斷中世紀加冕儀式，只為了撕掉王冠上的價格標籤。
-
-#### 📝 提示詞
-
-```
-THE CORONATION — 20-SECOND CINEMATIC COMEDY
-
-MODEL: Seedance 2.5
-DURATION: 20 seconds
-ASPECT RATIO: 16:9
-STYLE: Photorealistic live-action medieval fantasy film with subtle absurdist comedy.
-REFERENCE IMAGES AND CHARACTER LOCK
-Use the uploaded King character sheet, Prince character sheet, and Random Man character sheet as the definitive visual references.
-King: Preserve his exact face, gray-streaked hair, beard, crown, and burgundy royal outfit.
-
-Prince: Preserve his exact face, hairstyle, navy-and-gold coronation outfit, blue cloak, and crown once placed.
-
-Random Man: Preserve his exact face, hairstyle, modern casual outfit, and body proportions.
-
-Maintain consistent character identities, costumes, lighting, and the layout of the throne room throughout the entire video.
-LOCATION AND ATMOSPHERE
-An enormous medieval royal throne room with towering stone pillars, golden chandeliers, tall stained-glass windows, red velvet banners, and a magnificent golden throne. The royal court stands silently on either side of a red carpet.
-
-The atmosphere is extremely serious and emotionally grand, like the climax of an epic fantasy film. Warm golden sunlight streams through the windows. The music is majestic, with a full orchestral score.
-
-The modern man must look completely out of place in this medieval setting.
-
-SHOT 1 — THE MOMENT OF CORONATION
-
-0–5 seconds
-
-Wide cinematic establishing shot of the royal throne room. The prince kneels on a cushion before the king. The king stands solemnly in front of him, holding an ornate golden crown with both hands.
-
-The court watches in absolute silence.
-Cut to a medium close-up of the king slowly raising the crown above the prince's head.
-
-The king speaks in a deep, solemn voice:
-
-KING: "Today, you become king."
-
-The orchestral music swells dramatically. The prince bows his head with complete seriousness.
-
-SHOT 2 — THE WRONG MAN ENTERS
-
-5–9 seconds
-
-Just as the king is about to lower the crown, a casually dressed modern man in a dark hoodie, jeans, and sneakers walks into the royal ceremony from the side of the hall.
-
-He walks directly between the king and prince as though he belongs there.
-The king freezes with the crown suspended in midair. The prince remains kneeling, looking slightly confused. The courtiers stare in silent disbelief.
-
-The modern man barely acknowledges anyone. He notices the crown, looks at it critically, and gives a small disapproving shake of his head.
-
-The orchestral music abruptly softens into an awkward, sustained note.
-
-SHOT 3 — THE UNEXPECTED FIX
-
-9–14 seconds
-
-In one continuous, clearly visible action, the modern man casually takes the crown from the king's hands.
-
-He notices a small paper price tag hanging from the crown, removes it, and slips it into his pocket. He then gently straightens the prince's crooked collar and nudges the royal throne a few inches into better alignment with the carpet.
-His movements are practical, quick, and completely unbothered.
-
-The king stands frozen, visibly bewildered but trying to preserve his royal dignity. The prince looks from the man to his father, unsure whether he is allowed to move.
-
-The man steps back, examines his work, and gives one satisfied nod.
-
-RANDOM MAN: "Much better."
-
-Deliver the line casually, in a natural conversational voice, without a dramatic pause or exaggerated comic delivery.
-
-SHOT 4 — BACK TO BUSINESS
-
-14–17 seconds
-
-The modern man turns around and casually walks out of the throne room the same way he entered.
-
-No one stops him. Nobody speaks.
-The king slowly follows him with his eyes, then looks down at the crown in his hands as if trying to understand what just happened.
-
-The prince remains kneeling in the exact same position.
-
-The man exits the frame completely.
-
-SHOT 5 — THE CORONATION CONTINUES
-
-17–20 seconds
-
-Cut to a cinematic medium close-up of the king taking a slow breath, regaining his composure, and carefully positioning himself to continue the ceremony.
-
-He raises the crown again.
-The prince bows his head.
-
-The orchestral music resumes its original majestic intensity, as if the interruption never happened.
-
-KING: "Today… you become king."
-
-End immediately on the king's perfectly serious face.
-
-Cut to black.
-
-CAMERA AND EDITING
-
-Use professional cinematic framing, smooth controlled camera movements, realistic depth of field, natural facial micro-expressions, and clean film-style cuts. Establish the room before moving into medium shots and close-ups. Make the modern man's entrance and practical actions easy to see.
-
-Keep the comedy understated and driven by timing, awkward silence, and the contrast between the epic ceremony and the man's mundane behavior.
-
-AUDIO DESIGN
-
-Majestic orchestral music during the coronation, subtle footsteps and clothing movement, a slight musical interruption when the man enters, a soft paper rustle as he removes the price tag, and a return to full orchestral grandeur for the final line.
-
-All dialogue must be clearly audible, naturally spoken in English, and not overly theatrical.
-
-STRICT NEGATIVE CONSTRAINTS
-
-Do NOT generate any subtitles, captions, text overlays, watermarks, logos, or on-screen text of any kind.
-Do NOT display the spoken lines as written text on screen.
-Dialogue must exist only as spoken audio, never as visible typography.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109652073189097472/img/WVJ7tQSgnKUnJfqs.jpg" width="600" alt="中世紀加冕禮喜劇打斷">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=12392)**
-
-**作者:** [Caden Flux](https://x.com/Caden_Flux) | **來源:** [Link](https://x.com/Caden_Flux/status/2109652904864829898) | **發布時間:** Oct 12, 2026
-
----
-### 皮克斯風格芒果園短片提示詞
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 適用於 Seedance 2.0 的詳細影片生成提示詞，用於創作一部以果園農夫為主角的 12 秒皮克斯風格動畫短片。
-
-#### 📝 提示詞
-
-```
-12 秒動畫短片，皮克斯 3D 卡通風格，明亮的田園光線，溫暖的午後陽光透過樹葉灑下。一位中年農夫戴著寬邊草帽，身穿捲起袖子的淺卡其色襯衫、深色長褲，腰間繫著一個小布袋，站在鬱鬱蔥蔥的芒果園中，面帶溫和微笑，輕輕觸摸枝頭飽滿的青芒果。背景是起伏的山丘、藍天與白雲。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109650656302972929/img/mtXPkMSZfdrAx-sF.jpg" width="600" alt="皮克斯風格芒果園短片提示詞">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=12395)**
-
-**作者:** [Jackzhao](https://x.com/Jackzhaoh6ob) | **來源:** [Link](https://x.com/Jackzhaoh6ob/status/2109651272303550940) | **發布時間:** Oct 12, 2026
-
----
-### 體操平衡木表演視頻
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段超寫實電影級視頻提示詞，展示女體操運動員在室內場館中於平衡木上進行優雅表演。
-
-#### 📝 提示詞
-
-```
-一段超寫實電影級視頻，展現一位才華橫溢的年輕女體操運動員在傳統室內體操館的平衡木上進行優雅表演。她身穿酒紅色長袖連身體操服，棕色頭髮整齊地向後紮起。她優雅地沿著平衡木行走，伸展雙臂保持平衡，並展現出令人驚嘆的完美劈叉動作，體現極佳的柔韌性與控制力。背景中坐著的觀眾專注觀看。溫暖的室內燈光、真實的皮膚質感、自然的肢體動作、流暢的電影級鏡頭追蹤、淺景深效果、柔和的背景散景、專業體育攝影風格、逼真的動態表現、4K UHD 解析度、24fps 幀率、垂直 9:16 構圖、高度細節呈現、照片級寫實風格。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109510154567974912/img/KvPK7VQYYAV2EzZm.jpg" width="600" alt="體操平衡木表演視頻">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=12358)**
-
-**作者:** [AIwithMinal](https://x.com/AIwithMinal) | **來源:** [Link](https://x.com/AIwithMinal/status/2109510249573191819) | **發布時間:** Oct 12, 2026
-
----
-### 粉紅幼龍與木屋女子的電影感奇幻影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成一段 36 秒超寫實電影感奇幻影片的詳細提示詞，內容為一名年輕女子在雪景木屋中與一隻可愛粉紅幼龍互動。
-
-#### 📝 提示詞
-
-```
-創建一段 36 秒的超寫實電影感奇幻影片，主角是一名擁有長波浪深色頭髮、身穿舒適米色針織毛衣的美麗年輕女子，她在被雪山環繞的質樸木屋中與一隻可愛的粉紅幼龍互動。女子溫柔地準備新鮮食物，對著這隻小生物微笑，並充滿愛意地餵食牠，而牠那雙巨大的金色眼睛閃爍著好奇的光芒。這隻可愛的幼龍揮動小小的翅膀，搖擺尾巴，並依偎在她懷裡，溫暖的壁爐光照亮了他們的臉龐。窗外雪花紛飛，營造出帶有壯麗景色的魔法冬季氛圍。展示幼龍精緻的粉紅色鱗片、半透明的褶邊和富有表現力的眼睛，以及女子自然的面部表情特寫鏡頭。包含流暢的電影級攝影機運動、逼真的互動、細節豐富的木製室內裝飾、柔和的光線以及無縫的場景轉換。女子在發光的壁爐旁溫柔地擁抱這隻生物，而牠深情地抬頭看著她。保持完美的角色一致性、照片級真實紋理、自然的動作、專業 4K 電影攝影，以及情感引人入勝的奇幻氛圍，且畫面中不得出現任何文字、標誌或浮水印。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109456966603161600/img/yQObaARfkE7CuA3p.jpg" width="600" alt="粉紅幼龍與木屋女子的電影感奇幻影片">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=12356)**
-
-**作者:** [Maha](https://x.com/Aiwithmaha) | **來源:** [Link](https://x.com/Aiwithmaha/status/2109457141174247789) | **發布時間:** Oct 12, 2026
-
----
-### 日式道場電影感武術訓練
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 生成超寫實電影感武術訓練場景的提示詞，描繪兩名女性在傳統日式木造道場進行徒手格鬥練習。
-
-#### 📝 提示詞
-
-```
-AI 影片提示詞：電影感武術訓練
-
-創建一個超寫實的電影感武術訓練場景，展現兩位技藝嫻熟的年輕女性在傳統日式木造道場中進行徒手格鬥練習，道場周圍環繞著鬱鬱蔥蔥的花園。其中一位女性將紅褐色頭髮紮成馬尾，身穿棕色長袖訓練上衣搭配深色褲子；另一位則留著短捲黑髮，穿著淺米色武術服搭配深色長褲。
-
-她們以令人驚嘆的速度、精準度和平衡感，展現真實的拳擊、防禦動作及反擊技巧。動作應流暢自然，具備準確的身體力學、逼真的步法、生動的臉部表情以及正宗的武術套路編排。柔和的自然光透過木製亭閣灑入，照亮拋光地板與綠色景致。
-
-鏡頭：電影感中廣角鏡頭、平滑跟拍移動、偶爾特寫、逼真動態模糊及動態角度。
-
-視覺風格：照片級寫實、4K 電影品質、自然光照、細緻布料紋理、淺景深、微妙底片顆粒感、專業動作電影攝影手法。
-
-氛圍：緊張嚴肅、紀律嚴明、優雅有力且專注。
-
-格式：垂直 9:16、連續真實動態、角色外觀一致、無打斷套路的剪輯、無解剖結構扭曲、無多餘肢體、無文字、無浮水印。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109200093870219264/img/VT3q4u7Y8J729LDG.jpg" width="600" alt="日式道場電影感武術訓練">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=12357)**
-
-**作者:** [AIwithMinal](https://x.com/AIwithMinal) | **來源:** [Link](https://x.com/AIwithMinal/status/2109200265534718164) | **發布時間:** Oct 11, 2026
-
----
-### 熾熱女戰士電影級動作影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成一段 15 秒超寫實電影級奇幻動作影片的詳細提示詞，內容為一位銀髮且雙眼發光的女戰士，在黑暗戰場上手持長矛，置身於熊熊烈火之中。
-
-#### 📝 提示詞
-
-```
-製作了一段 15 秒的超寫實電影級奇幻動作影片，主角是一位強大的女戰士，她擁有長銀髮、發光的金色雙眼，身穿時尚的黑色戰鬥服裝，手持巨大長矛，周圍環繞著熾熱的橙色火焰。她在黑暗的戰場上向前衝鋒，施展快速而強力的武器攻擊，伴隨著發光的火跡與飛濺的火花。鏡頭流暢地跟隨她的動作，捕捉戲劇性的特寫、廣角動作鏡頭以及激烈的戰鬥瞬間。她高高躍起，旋轉長矛，讓魔法火焰能量聚集在周身。她以驚人的力量擊打地面，引發巨大的火焰、濃煙與發光餘燼爆炸。她的銀髮在風中自然飄揚，金色的雙眼閃耀著堅定的鬥志。戰場被橙色能量照亮，敵人消失在煙霧之中。影片以一個充滿英雄氣概的戲劇性姿勢作結，她的長矛發出耀眼的光芒，火焰在她周圍迴旋。整部影片保持角色細節一致、動作真實、電影級燈光效果、流暢的轉場以及令人驚嘆的高品質視覺特效。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109136974116499456/img/snE8D7hQi20LDhvy.jpg" width="600" alt="熾熱女戰士電影級動作影片">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=12303)**
-
-**作者:** [Maha](https://x.com/Aiwithmaha) | **來源:** [Link](https://x.com/Aiwithmaha/status/2109137173224337478) | **發布時間:** Oct 11, 2026
-
----
-### 中世紀女弓箭手森林騎行
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個高度詳細的提示詞，用於製作一部 15 秒的中世紀奇幻電影，描繪一名女弓箭手騎馬穿過霧氣瀰漫的松林、拉弓射箭並抵達營地的場景。包含特定的攝影和物理指令。
-
-#### 📝 提示詞
-
-```
-創作一部 15 秒的超寫實、高預算中世紀奇幻電影，主角是一名美麗而兇悍的女弓箭手，她留著長而鬆散的棕色頭髮，身穿歷史感十足的深棕色皮革盔甲、毛皮裝飾的肩膀、粗獷的中世紀服裝、皮帶，以及背上綁著裝滿箭矢的箭袋。她騎著一匹肌肉發達的黑馬，穿過一片濃霧瀰漫、佈滿苔蘚、散落岩石和高聳樹木的古老茂密松林。立即以一個寬廣的电影化後方鏡頭開始，展示這名戰士騎馬沿著狹窄的林間小徑前行，溫暖的金色陽光穿透樹木，創造出戲劇性的體積光和神秘氛圍。鏡頭平滑地跟隨在馬後，马蹄自然地在不平坦的地面上移動，擾動小葉子、泥土和苔蘚。過渡到一個戲劇性的低角度側面特寫，展示這名女戰士手持傳統彎曲的黑色弓，單支箭矢向後拉開弓弦，並全神貫注地瞄準。她的手臂肌肉自然緊繃，弓在現實張力下彎曲，她的頭髮和毛皮裝飾的衣服隨著涼爽的森林微風飄動。捕捉她堅定的面部表情、真實的皮膚紋理、細節豐富的皮革盔甲，以及箭袋中的個別箭矢。在最後幾秒，過渡到一個寬廣的後方追蹤鏡頭，展示她騎入一個被高聳常綠樹木、簡陋帳篷、木製結構和一群穿著正宗中世紀服裝和盔甲的戰士包圍的隱藏中世紀營地。戰士們轉向她的到來，營造出一位傳奇酋長回歸族人身邊的氛圍。在每個鏡頭中保持一致的角色身份、服裝、馬的外觀和真實的身體比例。使用电影化的鏡頭轉換、自然的馬匹運動、準確的馬術解剖學、現實的重力、慣性、肌肉運動、布料模擬和物理上可信的光照。頂級好莱坞中世紀奇幻摄影風格、照片級別的真实紋理、大氣霧氣、柔和的大地色調、戲劇性的自然光照、細微的膠片顆粒、淺景深、4K 畫質、24 FPS，以及沉浸式的環境音效，包括马蹄聲、皮革摩擦聲、松樹間的風聲和遠處的營地氛圍。無現代物品、無卡通效果、無字幕、無文字、無標誌、無浮水印。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109123010812870656/img/EHX4CdPkZ_XLXU_e.jpg" width="600" alt="中世紀女弓箭手森林騎行">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=12304)**
-
-**作者:** [Ayat](https://x.com/aiwithaayat) | **來源:** [Link](https://x.com/aiwithaayat/status/2109123171408560343) | **發布時間:** Oct 11, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -4008,6 +4488,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-02T05:01:23.568Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-02T18:12:36.148Z</sub>
 
 </div>
