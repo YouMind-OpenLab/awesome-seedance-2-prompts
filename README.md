@@ -4046,6 +4046,439 @@ Create a 15-second ultra-realistic, high-budget medieval fantasy film featuring 
 **Author:** [Ayat](https://x.com/aiwithaayat) | **Source:** [Link](https://x.com/aiwithaayat/status/2109123171408560343) | **Published:** Oct 11, 2026
 
 ---
+### 30-second Pixar-style toddler animation from one Seedance prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A short 3D animation of a laughing toddler, generated in Seedance 2.5 from a single sentence.
+
+#### 📝 Prompt
+
+```
+Joyful pixar toddler with wild spiked blonde hair eyes closed laughing while waving purple scissors in a sunny white living room
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101617354665070592/img/ZTlpz1tCevL6ukaH.jpg" width="600" alt="30-second Pixar-style toddler animation from one Seedance prompt">
+
+**Author:** [kar4arodon](https://x.com/kar4arodon) | **Source:** [Link](https://x.com/kar4arodon/status/2101664675155017864) | **Published:** Sep 20, 2026 | **Source: Behind the Gen:** [Workflow](https://behindthegen.com/w/30-second-pixar-style-toddler-animation-from-one-seedance-prompt)
+
+---
+### Woodland arena fight from a text-only Seedance prompt on Supercool
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A hand-to-hand fight between two warriors in a root-ringed woodland arena, generated in Seedance on Supercool from a text prompt with no reference images.
+
+#### 📝 Prompt
+
+```
+CAMERA: Stay close to action using ground-level tracking, face push-ins, short body arcs, Dutch tilts, fists/boots crossing foreground, camera lowering with rolls and sudden extreme-wide shots during lifts and throws; keep impacts and grappling readable and avoid excessive cuts.
+
+ENVIRONMENT: Circular woodland arena surrounded by enormous ancient tree roots, compacted ochre-brown dirt, footprints, loose soil, low wooden barriers, rope rails, stairs, multi-level stands, vines, old wooden gate, barrels, crates and coiled rope.
+
+Blurred spectators remain behind the upper railings only; no spectator enters the fight and no audience face is emphasized.
+
+Lighting stays consistent: cool cyan-white volumetric shafts from canopy openings plus warm orange torch/brazier rim light; palette = earth brown, desaturated forest green, cyan shafts and orange fire.
+
+Arena geography, roots, gate, torches and props remain fixed throughout.
+
+CHARACTER A: Exactly one adult female warrior, about 28, medium height, lean athletic build, fair skin, light freckles, green eyes, mature face, copper-red hair with small upper bun and short wavy lower strands.
+
+A wears a dark forest-green/near-black fitted long-sleeve combat bodysuit, high collar, narrow seams, black belt, closed hip pouch, black fingerless gloves and flat black combat boots; no logos.
+
+CHARACTER B: Exactly one adult male warrior, about 35, one head taller than A, much broader and muscular, warm skin, short swept-back dark-brown hair, a few loose forehead strands and short neat beard.
+
+B wears an open brown sleeveless leather vest, thick grey-brown fur collar, exposed torso, short tooth-shaped necklace, brown leather wrist guards, dark-brown trousers, heavy belt and strapped leather boots.
+
+A short closed sheath stays fixed at B's rear waist as an unused accessory only; neither fighter uses any weapon.
+
+Maintain identical faces, body proportions, hairstyles, clothing, gloves, fur collar and belt accessories in every shot.
+
+0.00-1.90: Very low wide shot with A left and B right several metres apart; quick close-up on A's eyes and tense jaw, then both immediately sprint; track low beside A's boots, reverse push toward B's charging face, finish medium-wide as they meet.
+
+1.90-3.80: A throws a short hand combination, B blocks with forearms and closes distance; B drives a front knee/boot into A's abdomen, clear contact first, then A folds backward, catches briefly with both hands, rolls over shoulder/back and slides chest-down through dirt while B resets.
+
+3.80-4.50: Ground-level push toward A as she plants palms, draws knees underneath and raises her head; B is already approaching from background; keep this recovery brief.
+
+4.50-6.30: Low Dutch angle, B swings one heavy arm strike past A's head, A leans away then ducks; B clamps her upper torso/head-shoulder area and both roll sideways in one connected grapple, ending with B on top and A on her back with knees bent.
+
+6.30-8.10: Low side camera; B pins A from above using knee/hand support and forearm pressure across upper shoulder/neck/collar; A grips his wrist/forearm with both hands and pushes while twisting and struggling; no frozen pose.
+
+8.10-9.50: B raises one hand to strike downward, A turns her face away and catches his wrist, pulls it toward her mouth and gives one brief bite near the palm base; B reacts, withdraws the hand and leans back; no blood.
+
+9.50-11.50: A grabs B's fur collar and upper arm, raises one leg and turns her hips to roll him sideways; both remain physically connected, B lands side-first then stomach-down, A naturally follows behind and above his shoulder.
+
+11.50-13.00: A controls B from his upper back, pressing his head then pulling his hair upward; B braces both palms on dirt, raises neck/shoulders and struggles; one sustained head-control action only.
+
+13.00-16.10: B twists underneath A, grabs her hips/legs and rises, carrying her horizontally across his shoulder/back; pull to extreme-wide showing the full arena; A loops an arm around his neck, B grabs her forearm, A slides down his side, both feet visibly return to ground, then B catches her in a rear waist grip.
+
+16.10-19.70: A lands one hard backward elbow into B's jaw, breaking the waist grip; she immediately turns into a sweeping horizontal strike across his face, B loses balance and drops lower; A grabs the side of his jaw, turns his head/shoulder and guides his momentum into a forward throw; B rolls away across the dirt.
+
+19.70-21.30: A chases low behind her boots while B rises from hands-and-knees to one knee; A leaps into an airborne knee/leg attack, B raises both forearms to cover his head, impact lands clearly on the forearm guard, then A drops back into close range.
+
+21.30-24.60: Continuous semicircular camera around them; B throws wide head-height punch, A blocks and redirects; A straight-punches B's cheek; B throws high arcing punch, A ducks underneath; A counters, B slips sideways; B throws another sweeping arm strike, A ducks again; B lowers into a wide stance and extends one leg, A plants hands and shoulder-rolls outside the leg to escape.
+
+24.60-25.50: Wide low shot follows A finishing her roll and pushing up on hands and one knee while B remains several metres away; rapid push toward B's focused face as he lowers his shoulders to charge; A is already rising.
+
+25.50-28.50: B explosively charges, lowers and secures A around hips/legs, one arm supporting leg and one supporting torso; establish grip first, then lift A horizontally above shoulder height; pull extreme-wide showing B planted with A fully off the ground; B rotates hips, bends forward and slams A toward the front-side direction; A impacts shoulder/upper back/side-back first, legs land after, dust erupts from the real impact point.
+
+28.50-30.00: Low wide shot stabilizes; A lies on her back in foreground with one leg bent and hands raised protectively, breathing and moving slightly to show she is conscious; B steadies in mid-ground and takes one step toward her; end exactly at 30.00 with B standing and A grounded but responsive.
+
+ACTION LOCK: Fast, continuous, weighty combat; every strike follows attack → contact → reaction, every dodge shows the attack physically passing beside the body, every fall has visible imbalance and landing, every rise uses hands/feet/knees for support.
+
+Do not add extra attacks, kicks, flips, teleporting, position swaps, missing transitions or weightless fast-forward motion.
+
+No prolonged slow motion, bullet-time or freeze frames; only very brief impact accents if needed.
+
+Do not remove the ground grapple, bite, rear elbow, spinning strike, blocked airborne leg attack or final lift-and-slam.
+
+Exactly two principal fighters only; no duplicates, extra limbs, distorted joints, changing outfits, changing hairstyles or changing accessories.
+
+AUDIO: Synchronized footsteps, dirt scraping, body impacts, punch/kick/forearm contact, leather/fur movement, rolling dirt, heavy breathing, nonverbal exertion/pain grunts, distant indistinct crowd ambience and fire sounds.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101367655080804352/img/1S_gjkH5Uh968BL7.jpg" width="600" alt="Woodland arena fight from a text-only Seedance prompt on Supercool">
+
+**Author:** [MadMax_Series](https://x.com/MadMax_Series) | **Source:** [Link](https://x.com/MadMax_Series/status/2101367994395893812) | **Published:** Sep 19, 2026 | **Source: Behind the Gen:** [Workflow](https://behindthegen.com/w/woodland-arena-fight-from-a-text-only-seedance-prompt-on-supercool)
+
+---
+### Handheld NYC city-walk vlog from a single Seedance 2.5 prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A candid, shaky-cam vlog of a woman walking through New York, written as one detailed prompt for Seedance 2.5 on Flova.
+
+#### 📝 Prompt
+
+```
+Handheld, slightly shaky vlog-style footage following a young woman with long curly dark hair, oversized tortoiseshell sunglasses, and gold hoop earrings as she walks through New York City. She wears a cream shearling teddy coat with black leather trim and toggle buttons over a short black skirt, black sheer tights, and black platform sneakers, with a black crossbody bag. The sequence opens with her exiting a building through glass revolving doors onto a sidewalk lined with storefronts, then cuts to her walking away from camera down a busy street past pedestrians in suits, then a close-up of her sipping from a plastic water bottle at a crosswalk with a yellow NYC taxi passing behind her, and finally her walking away from camera down a sunlit, tree-lined path in a park scattered with autumn leaves, benches on either side. Natural daylight, golden-hour warmth in the park shots, candid documentary energy, 9:16 or 16:9 handheld camera movement, realistic skin and fabric texture, shallow depth of field on close-ups.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100474578674008064/img/na6o1amr2Ic9Rhf_.jpg" width="600" alt="Handheld NYC city-walk vlog from a single Seedance 2.5 prompt">
+
+**Author:** [CaliraVal](https://x.com/CaliraVal) | **Source:** [Link](https://x.com/CaliraVal/status/2100476402940215610) | **Published:** Sep 17, 2026 | **Source: Behind the Gen:** [Workflow](https://behindthegen.com/w/handheld-nyc-city-walk-vlog-from-a-single-seedance-25-prompt)
+
+---
+### Golden-hour New York fashion film from a single Seedance 2.5 prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A 4K street-style fashion film following a woman across New York City in golden-hour light, generated from one multi-beat prompt in Seedance 2.5.
+
+#### 📝 Prompt
+
+```
+Cinematic fashion film of a young woman with long dark wavy hair walking through New York City. She wears oversized brown tortoiseshell sunglasses, gold hoop earrings, a cream sherpa fleece jacket with black leather trim and toggle buttons, a black mini skirt, black tights, and chunky black loafers, carrying a small black shoulder bag. Sequence: she exits a glass-door building, crosses a busy intersection with yellow taxis, glances into a café window, walks the sidewalk, buys a cold water bottle from a street cart, drinks it, sits on a green park bench, then walks away. Natural daylight, golden-hour highlights, smooth handheld and tracking shots, close-ups of her face, hair, and outfit details. Aesthetic street-style, 4K, filmic color grade, shallow depth of field.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100435284303183872/img/-n8i5mImXrB07hhQ.jpg" width="600" alt="Golden-hour New York fashion film from a single Seedance 2.5 prompt">
+
+**Author:** [Zyrellix](https://x.com/Zyrellix) | **Source:** [Link](https://x.com/Zyrellix/status/2100435436128882760) | **Published:** Sep 17, 2026 | **Source: Behind the Gen:** [Workflow](https://behindthegen.com/w/golden-hour-new-york-fashion-film-from-a-single-seedance-25-prompt)
+
+---
+### Giant desert serpent chase in one continuous Seedance 2.5 prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A 30-second creature chase with a timestamped storyboard and global rules, generated as one sequence with Seedance 2.5 on Runway.
+
+#### 📝 Prompt
+
+```
+Environment: An endless sun-scorched desert at brutal midday, with enormous rolling dunes, cracked patches of earth, distant rocky formations distorted by heat haze, violent gusts carrying sheets of sand across the landscape, and absolutely nowhere for the man to hide. The chase moves continuously across the same desert geography, beginning on open dunes before descending a steep slope, crossing a narrow rocky passage, and reaching a massive cliff edge at the end.
+
+Visual style: Photorealistic cinematic survival action, enormous creature scale, harsh natural sunlight, gritty desert textures, realistic sweat and dust, intense heat distortion, physically accurate sand displacement, dynamic shadows, powerful environmental VFX, natural skin detail, realistic fabric movement, restrained motion blur, dramatic scale contrast, high-energy blockbuster creature-chase atmosphere.
+
+Camera language: Use constantly changing cinematic perspectives to communicate both the man's panic and the impossible scale of the pursuing snake, including front-facing tracking, low-angle foot tracking, over-the-shoulder chase framing, aerial wides, extreme creature close-ups, lateral tracking, ground-level perspectives, POV shots, crane movements, and enormous landscape compositions. Keep screen direction consistent so the man and snake always appear to be moving through the same continuous chase.
+
+Main character: A lone adult traveler wearing dusty desert clothing, rugged boots, lightweight trousers, a sweat-soaked shirt, and a small backpack. His face is sunburned, exhausted, covered in dust and sweat, and increasingly terrified as he realizes the creature is gaining on him. His running should feel desperate and physically exhausting rather than effortless action-hero movement.
+
+Creature: A colossal sand-colored desert serpent hundreds of feet long, with rough scales naturally matching the surrounding dunes, enormous muscular coils, dark predatory eyes, a massive head, powerful jaws, and a body thick enough to displace entire sections of sand as it moves. The serpent does not slither like an ordinary small snake. Its enormous body surges through and beneath the dunes like a living tidal wave, creating collapsing ridges, sand explosions, and huge trails behind it.
+
+Core performance: The man is already running when the sequence begins, initially believing something is following him beneath the sand. The colossal snake violently reveals itself, begins gaining ground, nearly catches him several times, forces him to change direction through increasingly dangerous terrain, and finally corners him at a massive cliff edge. With the snake seconds away from reaching him, the man realizes his only possible escape is jumping.
+
+Audio design: No dialogue-heavy exposition. Use pounding footsteps, desperate breathing, roaring wind, shifting dunes, sand impacts, deep subterranean rumbling, enormous serpent movement, creature hisses, rock impacts, heartbeat-like bass, and an escalating cinematic survival score.
+
+Negative guidance: No gore, no blood, no dismemberment, no duplicated snake, no multiple creatures, no cartoon movement, no dragon features, no legs on the snake, no inconsistent snake size, no disappearing character, no teleporting creature, no unrealistic sand physics, no excessive motion blur, no floating rocks, no changing clothing, no inconsistent desert geography.
+
+[3] TIMESTAMPED STORYBOARD
+
+[00:00-00:04] RUN: Begin with a front-facing tracking shot moving backward at full speed as the terrified man sprints directly toward the camera across the crest of a massive dune, his boots sinking into loose sand while every desperate step throws sand toward the lens. His chest heaves, sweat runs across his dust-covered face, and he repeatedly glances over his shoulder without slowing down as a deep vibration begins shaking the ground behind him. The handheld-style camera introduces subtle controlled shake matching his footsteps while he gasps, “Oh my God... I’m dead!” A huge plume of sand suddenly erupts in the distant background behind his shoulder.
+
+[00:04-00:07] THE REVEAL: Execute a violent whip pan from the running man toward the landscape behind him, revealing an enormous moving ridge cutting through the dunes at incredible speed before the colossal serpent's head explodes through the sand. Thousands of pounds of sand cascade from its scales as it rises above the dunes, opens its enormous jaws, and immediately surges forward. The camera rapidly dollies backward into an extreme wide composition showing the tiny running man in the foreground and the serpent stretching across several dunes behind him, establishing the terrifying difference in scale. SFX: massive sand eruption, deep creature hiss, roaring wind, bass impact.
+
+[00:07-00:10] IT IS GAINING: Cut to an aerial tracking shot looking diagonally downward as the man runs along the ridge of a dune while the serpent follows directly behind, its enormous body weaving through the landscape and carving a serpentine trench across the desert. The creature disappears beneath one dune for a moment before bursting through the next one much closer to him, sending an expanding wall of sand toward his back. The man loses his footing on the steep slope and begins sliding downward while desperately trying to remain upright.
+
+[00:10-00:13] DOWN THE DUNE: Switch to a low side-tracking camera racing parallel to the man as he half-runs, half-slides down the steep dune while enormous waves of sand collapse behind him. The serpent's head suddenly bursts through the dune above and dives down the slope after him, using its enormous weight to accelerate. The camera briefly moves behind the man's shoulder, allowing the audience to see the creature rapidly filling more of the frame while he looks backward and realizes how close it has become. He screams breathlessly, “GO! GO! GO!” at himself while forcing his exhausted legs faster.
+
+[00:13-00:16] ALMOST CAUGHT: Use an extreme ground-level tracking shot beside the man's boots as they hammer across hard desert ground after reaching the bottom of the dune, then rack focus behind him as the serpent's enormous jaws descend toward his position. At the final second, the man dives sideways behind a large rock formation as the snake strikes where he was running, its head smashing through the sand and sending rocks, dust, and debris exploding across the frame. The camera shakes heavily from the impact before immediately following the man scrambling back onto his feet.
+
+[00:16-00:20] THROUGH THE ROCKS: Transition into a tight over-the-shoulder chase shot as the man sprints into a narrow passage between towering desert rocks, believing the enormous creature might be unable to follow him. He looks backward for half a second and sees nothing, allowing a brief expression of relief to cross his face, but then the rock wall beside him violently shakes as the serpent begins forcing its enormous body through the passage. The creature smashes loose sections of weathered stone while pursuing him, and the camera switches to a high overhead view showing the man racing through the narrow corridor while the serpent's huge body bends around the rock formations behind him.
+
+[00:20-00:23] THE STRIKE: The man emerges from the rocky passage into another enormous open section of desert as the camera swings into a wide lateral tracking shot. Without warning, the serpent launches from behind the rocks and strikes horizontally toward him, its enormous head passing only a few feet behind his body. Brief controlled slow motion captures the man's desperate forward dive while the snake's jaws snap shut behind his backpack, tearing the bag away from his shoulders without catching him. The backpack disappears into the creature's mouth while the man hits the sand, rolls violently, and immediately forces himself upright again.
+
+[00:23-00:26] NO WAY OUT: Return to full speed with a front-facing telephoto tracking shot as the exhausted man runs toward the camera, but the camera suddenly cranes upward and backward to reveal something he cannot yet see: the desert ends ahead at an enormous canyon. He continues sprinting until he finally notices the cliff edge, skids violently through the sand, and stops only inches before falling. The camera circles around him as he looks down into the enormous canyon, then slowly turns back toward the desert while the deep rumbling behind him becomes louder.
+
+[00:26-00:28] CORNERED: Use an enormous wide shot from across the canyon as the man stands completely alone at the cliff edge while the serpent emerges over the final dune behind him, its head rising high above the landscape before slowly lowering toward its trapped prey. Instead of immediately attacking, the creature advances deliberately while its gigantic body continues pouring over the dune behind it. The man looks from the approaching serpent to the impossible drop beneath him, breathing violently as wind pulls at his dusty clothes.
+
+[00:28-00:30] JUMP: Cut to a tight close-up as fear gives way to desperate determination in the man's eyes. The serpent suddenly accelerates and launches its head forward with jaws opening behind him. At the final possible instant, the man turns and leaps from the cliff. Switch to a dramatic side-wide composition showing his tiny body falling into the enormous canyon while the serpent's jaws snap shut at the edge only inches behind him, sending a waterfall of sand cascading into the abyss. End mid-fall as the camera dives after the man, leaving his survival unknown. SFX: creature strike, massive jaw snap, rushing wind, falling sand, heartbeat stopping abruptly, hard cut to black.
+
+[4] GLOBAL SUPPLEMENT
+
+The entire sequence must feel like one continuous chase rather than disconnected action shots. Every camera angle should reveal a different part of the same event while maintaining consistent movement direction, desert geography, sunlight, character appearance, serpent design, and distance between predator and prey.
+
+The serpent must remain behind the man throughout the chase and progressively gain ground. Begin with the creature far behind him during the reveal, bring it significantly closer during the dune descent, create the first near-catch around 00:13, allow the rocks to provide only temporary protection, create an even closer strike around 00:20, then completely corner him during the final cliff sequence.
+
+Use the camera to emphasize scale repeatedly. Close shots should communicate the man's panic and physical exhaustion, while aerial and extreme-wide shots should immediately remind the viewer that he is tiny compared with the hundreds-of-feet-long creature pursuing him.
+
+Sand interaction is essential throughout the entire video. The serpent's weight must deform dunes, carve trenches, trigger cascading sand, produce enormous displacement waves, and leave a visible trail through the environment. Its movement should communicate tremendous mass rather than appearing like a normal snake enlarged digitally.
+
+Maintain escalating action without making every second equally chaotic. Use extremely fast movement during attacks and escapes, then briefly slow the pacing before major strikes so the audience can understand the geography and anticipate the danger.
+
+The final jump should remain unresolved. Do not show the man landing, dying, or being caught. End while he is falling into the canyon with the enormous serpent looking down from the cliff above, creating a cliffhanger for the next sequence.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098773878772580353/img/UGonysXNi-G8Xd6J.jpg" width="600" alt="Giant desert serpent chase in one continuous Seedance 2.5 prompt">
+
+**Author:** [azed_ai](https://x.com/azed_ai) | **Source:** [Link](https://x.com/azed_ai/status/2098773927111877067) | **Published:** Sep 12, 2026 | **Source: Behind the Gen:** [Workflow](https://behindthegen.com/w/giant-desert-serpent-chase-in-one-continuous-seedance-25-prompt)
+
+---
+### 30-second temple katana fight with ragdoll physics in Seedance 2.5
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A 30-second continuous fight in a stormy mountain temple, driven by a five-second beat prompt with camera tracking, hit-stops and ragdoll physics in Seedance 2.5 on Lovart.
+
+#### 📝 Prompt
+
+```
+Create a 30-second nonstop AAA Japanese supernatural combat cinematic, 16:9, set inside a ruined mountain temple during a violent nighttime thunderstorm. Wet reflective stone, burning torii gates, broken lanterns, dense ground mist, rain, red maple leaves, sparks and embers. KAGEONI is surrounded by numerous supernatural shinobi and corrupted samurai. No boss, no giant enemy, no pauses, no posing.
+
+0:00–0:05 — AMBUSH
+Open already in motion. 24mm ground-level tracking camera races backward as KAGEONI charges toward six attacking shinobi. Two throw shuriken. He tilts sideways to evade one, deflects another with his katana and immediately slides underneath an incoming sword.
+During the slide he draws his katana—crimson-white sword flash streaks precisely along the blade.
+
+He slashes the first enemy across the armor. Add a 2-frame hit-stop, sparks and impact distortion. The enemy does not disappear—its body violently rotates from the momentum, crashes shoulder-first onto wet stone and slides several meters before stopping.
+
+0:05–0:10 — KATANA COMBO
+Aggressive 35mm handheld orbit around KAGEONI as four enemies attack simultaneously.
+
+Parry → elbow strike → reverse katana slash → spinning kick → low sweeping slash.
+Every defeated enemy has unique physically simulated ragdoll behavior. One tumbles backward over broken timber; another spins sideways and crashes into a stone lantern; another folds over a railing before falling onto the courtyard; another loses balance and rolls across rain-covered stone.
+
+Bodies remain where they land for the rest of the scene. Never dissolve, vanish, evaporate or despawn them.
+
+Sword impacts create localized sparks, blade flashes, water spray, cloth movement and subtle shockwaves.
+
+0:10–0:15 — NINJA BLADE ATTACK
+KAGEONI suddenly switches tactics.
+
+Extreme close-up: his armored fingers rapidly pull three ninja throwing blades/shuriken from his belt.
+
+Whip-pan into an over-the-shoulder shot.
+THROW #1 — KAGEONI snaps his wrist and launches a spinning ninja blade into an approaching warrior's shoulder armor. The impact rotates the enemy backward into a wooden pillar.
+
+THROW #2 — camera briefly follows the spinning blade in 40% slow motion, flying through suspended rain droplets before striking another enemy's weapon, knocking the sword away.
+
+THROW #3 — KAGEONI throws while simultaneously performing a sideways dodge. The blade hits another attacker, whose momentum sends him tumbling down stone steps with realistic multi-contact ragdoll physics.
+
+Immediately speed-ramp back to full combat speed.
+
+0:15–0:21 — TEMPLE GAUNTLET
+KAGEONI wall-runs across a damaged temple wall while enemies chase below.
+
+Use a dramatic Dutch-angle lateral tracking camera.
+
+He leaps from the wall, throws two more ninja blades while airborne, then draws his katana before landing.
+
+Brief 360° bullet-time orbit around him: robes, cords, rain, maple leaves, shuriken and embers react naturally to momentum and wind.
+Return violently to real speed.
+
+KAGEONI lands directly between several attackers—
+
+FLASH → SLASH → PARRY → SPIN → KICK → SLASH.
+
+One enemy flies backward through a thin wooden screen. Another rolls across a table, destroying it. Another is knocked sideways into stacked barrels. Another flips backward from KAGEONI's spinning kick.
+
+All objects react through realistic collision physics.
+
+0:21–0:27 — RELENTLESS MULTI-ENEMY FIGHT
+
+More supernatural shinobi rush through the smoke from multiple directions.
+
+Camera becomes extremely dynamic: 18mm floor-level tracking → 85mm mask close-up → weapon-follow camera → overhead shot → fast 35mm orbit.
+
+KAGEONI fights continuously:
+
+katana block → shoulder strike → ninja blade throw → duck → leg sweep → upward katana slash → spinning reverse slash → kick → second ninja blade throw → rapid iaijutsu dash.
+
+Every major katana movement produces a controlled crimson-white sword flash.
+
+Use micro hit-stop + directional sparks + armor fragments + rain displacement + contact particles + camera impulse on strong hits.
+
+Critically, every defeated enemy receives a different ragdoll trajectory based on the direction and force of KAGEONI's attack rather than repeating identical death animations.
+
+The battlefield progressively fills with fallen warriors and broken environmental objects.
+
+0:27–0:30 — IAijutsu FINALE
+
+Three final shinobi charge simultaneously.
+
+KAGEONI throws two ninja blades left and right without looking. Camera rapidly tracks each projectile for fractions of a second—both enemies are knocked backward in different directions.
+
+The central attacker reaches KAGEONI.
+
+Extreme close-up on KAGEONI's mask.
+
+Silence except heartbeat + rainfall.
+
+The attacker swings.
+
+KAGEONI disappears from the camera frame only through extreme physical speed—never teleportation and performs one lightning-fast iaijutsu dash past him.
+
+25% SUPER SLOW-MOTION: brilliant crimson-white katana arc, rain splitting around the blade, fabric suspended, sparks floating through frame.
+
+The enemy's body reacts to the strike with realistic momentum, drops to its knees and collapses naturally onto the wet courtyard.
+
+KAGEONI slides several meters, stops, and sheathes his katana.
+
+CLICK.
+
+Camera performs a low-angle push toward KAGEONI while the courtyard behind him clearly shows the fallen enemies still physically present where they landed, scattered debris, broken timber and embedded ninja blades.
+
+Thunder strikes.
+
+CUT TO BLACK.
+
+Combat / Physics Rules
+
+NO BOSS. NO GIANT ENEMY. NO ENEMY DESPAWNING. NO BODY DISSOLVING. NO TELEPORTATION. Defeated enemies remain visible and accumulate naturally throughout the battlefield. Each enemy uses unique procedural ragdoll physics determined by strike direction, velocity, body orientation, collisions and environmental geometry: backward collapse, shoulder tumble, sideways spin, stair fall, wall collision, table crash, knee collapse, rolling impact, etc.
+
+KAGEONI must actively alternate between katana combat and ninja throwing blades/shuriken, including close-range blade hits and long-range throws.
+
+FX: crimson-white sword trails, metallic sparks, micro hit-stop, impact shockwaves, motion blur, rain displacement, splashing water, cloth simulation, hair physics, armor movement, flying leaves, shattered wood, stone fragments and volumetric mist.
+
+CAMERA: 18mm extreme low angles, 24mm tracking, 35mm handheld combat orbit, 50mm OTS, 85mm impact close-ups, Dutch angles, whip-pans, projectile-follow shots, overhead shots, 360° bullet-time and aggressive speed ramps. Camera shake must respond specifically to hits, landings and environmental impacts.
+
+MUSIC: relentless Japanese dark-action score — massive taiko percussion + aggressive strings + shakuhachi accents + distorted industrial bass + cinematic brass + deep sub impacts. Synchronize percussion with major strikes. Temporarily strip the score down to heartbeat/rain during the final slow-motion attack, followed by one enormous taiko hit when KAGEONI sheathes his sword.
+
+SFX: razor-sharp katana swishes, shuriken whistles and spins, metal impacts, armor crunches, body impacts, stone scraping, wood destruction, rainfall, thunder, cloth snaps, footsteps, water splashes and deep cinematic hit impacts.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097270167999004672/img/qj1D9gsE3bVQNmnG.jpg" width="600" alt="30-second temple katana fight with ragdoll physics in Seedance 2.5">
+
+**Author:** [ShamsAmin56](https://x.com/ShamsAmin56) | **Source:** [Link](https://x.com/ShamsAmin56/status/2097274066780697069) | **Published:** Sep 8, 2026 | **Source: Behind the Gen:** [Workflow](https://behindthegen.com/w/30-second-temple-katana-fight-with-ragdoll-physics-in-seedance-25)
+
+---
+### Stop-motion claymation Nutella cafe from a 5-scene Seedance 2.0 prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A plasticine diorama of a miniature Nutella cafe that builds itself layer by layer before chibi clay characters sit down for pancakes, generated in Seedance 2.0 from a five-scene prompt.
+
+#### 📝 Prompt
+
+```
+Style & Aesthetics
+3D stop-motion claymation style, plasticine texture with visible soft fingerprint smudges, warm soft-box lighting, cozy pastel brown, cream, and warm wooden tones. Miniature diorama scale, tilt-shift depth of field, playful frame-by-frame animation feel.
+Scene Sequence & Action
+Scene 1 (Base Construction): A minimalist clay base and street tile platform build themselves layer by layer on a beige studio backdrop. Streetlamps and small potted plants pop up around the corners.
+Scene 2 (Structure & Branding): A small cafe building forms with brown walls and a striped awning. A large clay Nutella jar drops smoothly onto the top, transforming into the main "Nutella" illuminated store logo and roof structure.
+Scene 3 (Interior Details): A close-up pan inside showing a miniature espresso machine, shelves lined with mini Nutella jars, and a counter featuring a stack of pancakes topped with chocolate spread, a croissant, and a coffee cup.
+Scene 4 (Character Animation): Cute, chibi-style clay characters enter. A young boy and girl sit outside at a tiny wooden table. The boy uses a small knife to spread smooth, glossy Nutella over a stack of fluffy pancakes.
+Scene 5 (Final Reveal): Camera zooms out to reveal the full animated diorama: a vibrant, bustling miniature Nutella cafe with outdoor seating, streetlamps glowing, and multiple adorable characters enjoying their treats.
+Technical Camera & Lighting
+Smooth isometric and eye-level camera transitions, macro lens perspective, warm interior glow mixed with soft ambient studio lighting, high-detail clay texture rendering, 4k resolution, 24fps stop-motion rhythm
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091397668194889728/img/1a74faZZ6xaI1Kxm.jpg" width="600" alt="Stop-motion claymation Nutella cafe from a 5-scene Seedance 2.0 prompt">
+
+**Author:** [MayaAiCreator](https://x.com/MayaAiCreator) | **Source:** [Link](https://x.com/MayaAiCreator/status/2091397686104588650) | **Published:** Aug 23, 2026 | **Source: Behind the Gen:** [Workflow](https://behindthegen.com/w/stop-motion-claymation-nutella-cafe-from-a-5-scene-seedance-20-prompt)
+
+---
+### 15-second perfume ad in five timed scenes with Seedance 2.0
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A 15-second fragrance commercial cutting between a perfume bottle and a woman in a burnt-orange satin dress across five three-second scenes, generated with Seedance 2.0 on WaveSpeed.
+
+#### 📝 Prompt
+
+```
+Luxury perfume bottle on a clean glossy black surface, warm amber lighting, subtle golden smoke, elegant dark background, soft reflections, premium fragrance advertisement, cinematic close-up, slow camera push-in, photorealistic, 4K.
+
+Scene 2 — 3–6s
+
+Prompt:
+A beautiful confident woman wearing an elegant burnt-orange satin dress, long dark hair, standing in a luxurious dark interior with soft vertical golden lights behind her. Calm confident expression, subtle smoke, cinematic medium shot, slow camera movement, photorealistic, 4K.
+
+Scene 3 — 6–9s
+
+Prompt:
+Close-up of the same woman gently spraying the perfume on her neck. Fine fragrance mist visible in the warm light, elegant expression, soft golden lighting, natural hair movement, shallow depth of field, cinematic beauty commercial, photorealistic, 4K.
+
+Scene 4 — 9–12s
+
+Prompt:
+The same woman confidently walking toward the camera through a modern luxury interior. Same burnt-orange satin dress and long dark hair, warm golden lights, clean reflective floor, subtle atmospheric smoke, smooth tracking camera, elegant feminine presence, photorealistic, 4K.
+
+Scene 5 — 12–15s
+
+Prompt:
+The same luxury perfume bottle centered on a glossy black surface, subtle amber crystals around it, soft golden smoke in the background, dramatic but clean spotlight, elegant dark background, premium fragrance advertisement, slow camera push-in, photorealistic, 4K.
+
+Character & Product Consistency
+
+Same woman throughout all scenes, identical face, hairstyle, skin tone and outfit. Same perfume bottle design in every shot. Clean luxury aesthetic, consistent warm amber lighting, realistic skin and natural movement. No extra people, no distorted hands, no duplicate objects, no unwanted text or logos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086684789286060032/img/L8YzcIEhcaz4SAjZ.jpg" width="600" alt="15-second perfume ad in five timed scenes with Seedance 2.0">
+
+**Author:** [CaliraVal](https://x.com/CaliraVal) | **Source:** [Link](https://x.com/CaliraVal/status/2086686230029402183) | **Published:** Aug 10, 2026 | **Source: Behind the Gen:** [Workflow](https://behindthegen.com/w/15-second-perfume-ad-in-five-timed-scenes-with-seedance-20)
+
+---
+### One-take scene-to-scene transition prompt for Seedance 2.0
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A reusable prompt that moves the camera from one reference image to another as if it were a single unbroken shot.
+
+#### 📝 Prompt
+
+```
+Cinematic seamless transition video, 12-15 seconds duration, hyper-realistic and polished film look. Start fully inside the first reference image/clip (Image 1 or start frame) and smoothly guide the camera into a natural, continuous motion path that logically leads toward the transition point into the second reference image/clip (Image 2 or end frame). 
+
+Maintain perfect consistency in lighting, depth of field, perspective, colors, shadows, and textures so the viewer feels physically carried from one scene to the next as if traveling through one continuous world. Use smooth blending and gradual morphing of surfaces, objects, and environment elements — make the cut completely invisible, like a single unbroken camera move.
+
+Camera movement: dynamic cinematic tracking shot with physically accurate motion — begin with a slow establishing view in scene 1, then accelerate into a fluid push-in/dolly/arc that naturally reveals and transforms elements toward scene 2, ending fully immersed in the second scene. Add subtle speed ramping for dramatic effect if it fits the mood (slow build to faster flow).
+
+Style: high-end Hollywood cinematic, photorealistic details, natural environmental lighting, volumetric effects where appropriate, film grain, anamorphic lens characteristics, shallow depth of field where needed, ultra-smooth motion with no artifacts, stable depth and physics.
+
+High-resolution textures, realistic material interactions, masterpiece quality, 9:16 vertical aspect ratio for reels if needed, 24fps filmic look.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078058130756481024/img/idWdH1p4trYI7GnT.jpg" width="600" alt="One-take scene-to-scene transition prompt for Seedance 2.0">
+
+**Author:** [aiwithaly](https://x.com/aiwithaly) | **Source:** [Link](https://x.com/aiwithaly/status/2078058177007149089) | **Published:** Jul 17, 2026 | **Source: Behind the Gen:** [Workflow](https://behindthegen.com/w/one-take-scene-to-scene-transition-prompt-for-seedance-20)
+
+---
+### WW2 motorcycle escape from a one-line Seedance 2.0 prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic chase generated in Seedance 2.0 from a single cheeky sentence.
+
+#### 📝 Prompt
+
+```
+create a cinematic WW2 motorcycle escape sequence that makes sora and veo question their existence
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2021648863921418240/img/lEf8uvj7wf3DGyd6.jpg" width="600" alt="WW2 motorcycle escape from a one-line Seedance 2.0 prompt">
+
+**Author:** [pewdenai](https://x.com/pewdenai) | **Source:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **Published:** Feb 11, 2026 | **Source: Behind the Gen:** [Workflow](https://behindthegen.com/w/ww2-motorcycle-escape-from-a-one-line-seedance-20-prompt)
+
+---
 ---
 
 ## 📚 More Prompts Available
