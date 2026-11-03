@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6633** |
+| 📝 Total Prompts | **6640** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-11-03** |
 
@@ -365,111 +365,2771 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Seedance 2.0 Mini Ancient Xianxia Short Film Prompt
+### Seedance 2.0 Mini Cinematic Xianxia Horror Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A comprehensive video generation prompt for Seedance 2.0 Mini, creating a 15-second cinematic scene in an ancient Chinese fantasy setting. It details character consistency with reference images, specific camera movements (panning, tracking), lighting conditions, and a narrative twist involving a fake monster scam.
+> A detailed prompt for Seedance 2.0 Mini to generate a 15-second cinematic video in the Eastern supernatural/xianxia genre. It features a complex narrative structure with three shots, character consistency using reference images, and specific camera movements and lighting effects.
 
 #### 📝 Prompt
 
 ```
+Seedance 2.0 Mini | "Do Not Answer That Call"
+
 Model: Seedance 2.0 Mini
 Duration: Strictly 15 seconds
 Aspect Ratio: 16:9 Landscape
-Type: Pure Ancient Chinese Xianxia / Suspense Twist / Social Satire / Character Relationship Drama
-Structure: Three consecutive, clear movie shots with different narrative functions.
-I. Prompt | Overall Style and Creative Direction
-Cinematic live-action realism, pure ancient Chinese Xianxia aesthetics.
-Overall direction:
-Mature suspense narrative
-Restrained character performance
-Precise visual misdirection
-Social satire with real-world resonance
-Visuals use:
-Natural cinematic photography texture
-Clear facial details
-Realistic skin texture
-Exquisite silk materials
+Genre: Eastern Folklore Horror / Ancient Xianxia / Psychological Suspense / Supernatural Thriller
+Structure: Three continuous, clear cinematic shots with distinct narrative functions.
+
+I. Overall Style and Creative Direction
+Cinematic-grade hyper-realistic Chinese-style Xianxia.
+This project combines:
+Eastern Folklore Horror
+Psychological Suspense
+Ancient Xianxia
+into a unified genre expression.
+
+Director's Core Concept
+Borrow suspense handling techniques from mature thriller films:
+First make the audience believe in a wrong dangerous target, then complete an information reversal through sound, gaze, and a tiny physical change.
+Horror Expression Principles
+Do not rely on characters explaining the truth at length.
+Do not rely on exaggerated monster transformations to create horror.
+The truly unsettling thing is:
+A person's instinctive reaction when hearing the most familiar voice.
+
+II. Core Plot and Suspense Reversal
+Surface Plot
+An Underworld Envoy suddenly appears.
+Claims he is here tonight to take away the White-Robed Sword Immortal.
+The Junior Sister instinctively steps forward to protect her Senior Sister.
+True Reversal
+The person the Underworld Envoy truly intends to take has been the Junior Sister from the very beginning.
+Supernatural Trap
+The Soul-Luring Lantern held by the Underworld Envoy can mimic the voices of familiar people.
+Only when the target instinctively responds does the wick release a red Soul-Binding Thread to tether their soul.
+Key Causality
+Senior Sister's voice sounds from the lantern → Junior Sister instinctively responds → Soul-Luring Lantern releases red thread → Junior Sister becomes the soul-harvesting target.
+The Senior Sister must cut the Soul-Binding Thread at this exact moment.
+Final Information Reveal
+Revealed through one sentence:
+"It waits for me to call you."
+Ending Suspense
+The Underworld Envoy does not leave.
+The short film must conclude at the point where:
+The first attack fails, but the real danger has not ended.
+
+III. Character Identity and Core Asset Locking
+Character A | @Image1 | Sword Immortal Senior Sister
+Identity
+Same adult East Asian female, aged 25–30.
+Strictly inherit the same character identity from the reference image.
+Fixed Appearance
+Fair, natural, soft oval face
+Bright dark almond eyes
+Black long hair half-tied
+Secured with a white jade hairpin
+Tall and slender figure
+Fixed Costume
+White embroidered silk Hanfu
+Semi-transparent layered wide sleeves
+Silver waist sash
+Jade pendant
+White cloth boots
+Exclusive Weapon
+The single silver longsword.
+Abilities and Performance
+The Senior Sister's strength is shown through:
+Observation
+Reaction
+Accurate judgment
+This film does not include complex continuous fighting.
+Her swordsmanship is demonstrated only through one precise action of cutting the Soul-Binding Thread.
+
+Character B | @Image2 | Junior Sister
+Identity
+Same adult East Asian female, aged 20–25.
+Strictly maintain from the reference image:
+Same face
+Facial structure
+Hairstyle
+Body shape
+Costume
+Fixed Appearance
+Round, bright, cheerful face
+Black hair in braids
+Petite stature
+Fixed Costume
+Green linen Hanfu
+Dark belt
+Wooden hairpin
+Black cloth shoes
+Exclusive Weapon
+The single dark steel sword.
+Weapon Restriction for This Segment
+The Junior Sister does not draw her sword.
+Three Core Performance Moments
+Hearing danger, actively standing in front of the Senior Sister.
+Hearing a familiar voice, instinctively turning around.
+Realizing she is the true target, shifting from shock to clarity.
+
+IV. New Supporting Characters and Soul-Luring Lantern Assets
+Underworld Envoy
+Identity
+Adult male.
+Fixed Appearance
+Deep grey-black ancient robes
+Aged bronze half-mask
+Subtle wear on the mask surface
+Character Temperament
+Cold
+Restrained movements
+Stable expression and posture
+Does not use exaggerated ghost faces common in modern horror films.
+Core Prop | Antique Bronze Soul-Luring Lantern
+The Underworld Envoy holds a small antique bronze Soul-Luring Lantern in his left hand.
+Fixed Appearance
+Bronze lantern body
+Fixed size
+Fixed color
+Fixed handle ring
+Fixed wick
+Fixed lighting effect
+Flame Setting
+Inside the lantern is a single pale white flame.
+If necessary, the flame can turn dark red.
+Asset Continuity
+It must be the same lantern throughout.
+Its shape, size, color, handle ring, wick, and lighting effects must remain consistent throughout.
+Special Ability of the Soul-Luring Lantern
+Voice Mimicry
+The Underworld Envoy can make the lantern emit a voice identical to the Senior Sister's.
+Trigger Rule
+The wick only releases the red Soul-Binding Thread when the Junior Sister responds to this voice.
+Lip-Sync Rule
+The Underworld Envoy himself does not need to open his mouth to mimic the Senior Sister.
+Other Supporting Characters
+Elder Master
+Located in the distance, acting as a natural witness.
+Two Sect Disciples
+Located in the distance, acting as natural witnesses.
+Supporting characters do not steal dramatic space from the dual protagonists and the Underworld Envoy.
+
+V. Background and Environmental DNA
+All uploaded background and location reference images collectively define a real existing Xianxia world.
+Environmental Planning
+Extract and preserve from reference images:
+Real terrain
+Architectural layout
+Main landmark relationships
+Material age
+Spatial scale
+Vegetation
+Water bodies
+Weather
+Mist/Clouds
+Main light direction
+Reflection relationships
+Color palette
+Air depth
+Camera Position and Spatial Organization
+Allowed to redesign:
+Camera position
+Depth of field
+Lens direction
+Character positioning
+But the entire 15 seconds must occur in the same continuous space.
+Living Background Principle
+Background remains naturally alive.
+Natural Dynamics
+Natural wind moves hair strands
+Natural wind moves sleeves
+Water flows continuously
+Mountain mist changes slowly
+Cloud layers change slowly
+Trees and vegetation maintain reasonable movement
+Distant figures move naturally
+Narrative Neutrality of Environment
+The background cannot actively trigger the story.
+Unique Supernatural Plot Item
+The only item that actively drives the supernatural plot in this instance is the Soul-Luring Lantern held by the Underworld Envoy.
+
+VI. Complete 15-Second Three-Shot Structure
+0–5s | Shot 1: Who Is Being Taken Tonight?
+Narrative Function
+Establish the wrong dangerous target, making the audience believe the Senior Sister is about to be taken.
+Shot Size
+Wide shot.
+Camera Movement
+Slightly low angle, slowly pushing along the line of confrontation between characters.
+Opening Space and Character Positioning
+At the start, the Senior Sister and Junior Sister stand side-by-side in a geographically logical passage area within the reference background.
+In the distance:
+Elder Master
+Two Sect Disciples
+Entrance of the Underworld Envoy
+An Underworld Envoy wearing a bronze half-mask walks slowly towards them from the front.
+His left hand holds an old bronze lantern.
+With each step, the lantern sways naturally with body inertia.
+But the pale flame inside the wick remains abnormally stable.
+Plot Point 1: Announcing the Target
+The Underworld Envoy stops a few steps ahead of the two women.
+His gaze seems to fall on the Sword Immortal Senior Sister.
+He says in a low voice:
+[Underworld Envoy] "Tonight, I am here for the White-Robed Sword Immortal."
+Plot Point 2: Junior Sister Protects Actively
+The Junior Sister hesitates almost no time.
+She steps half a step forward, blocking in front of the Senior Sister.
+Frowning slightly, she looks directly at the Envoy:
+[Junior Sister] "How dare you?"
+Plot Point 3: Visual Foreshadowing of the True Target
+The Envoy does not get angry.
+Nor does he immediately launch an attack.
+He simply slowly shifts his gaze from the White-Robed Sword Immortal.
+Finally landing on the Junior Sister's face.
+Camera Requirement
+This look should not be emphasized with exaggerated camera zooms.
+Make it a detail that is:
+Natural, but understandable in retrospect by the audience.
+End of Shot
+The camera cuts along the Envoy's arm towards the Soul-Luring Lantern.
+
+5–10s | Shot 2: That Voice Is Wrong
+Narrative Function
+Trigger the trap and complete the first information reversal through the mismatch between a familiar voice and its actual source.
+Shot Size
+Medium close-up.
+Camera Movement
+Slight lateral tracking.
+Keep the following elements in clear spatial relationship:
+Soul-Luring Lantern
+Junior Sister
+The real Senior Sister behind her
+Continuity Requirements
+Must maintain:
+Same Underworld Envoy
+Same bronze Soul-Luring Lantern
+Same location
+Plot Point 1: Senior Sister's Voice Comes From The Lantern
+The Envoy slowly raises the Soul-Luring Lantern slightly.
+He does not open his mouth.
+But suddenly an extremely familiar voice comes from the wick.
+It is the Senior Sister's voice.
+Gentle tone, like casually calling her name usually:
+[Soul-Luring Lantern · Senior Sister's Voice] "Ah Ning, turn around."
+Source and Lip Sync
+The real Senior Sister is right behind the Junior Sister.
+Her lips are not moving.
+The sound comes from the bronze lantern in the Underworld Envoy's hand.
+Plot Point 2: Junior Sister Instinctively Responds
+Because the voice is too familiar, the Junior Sister's body reacts before thought.
+She instinctively turns her head sideways.
+Answers softly:
+[Junior Sister] "Senior Sister?"
+Plot Point 3: Soul-Harvesting Trap Triggers
+Almost the instant the last word falls:
+The originally pale flame in the Soul-Luring Lantern suddenly turns dark red.
+An extremely thin dark red Soul-Binding Thread shoots out from the wick.
+Along a clear spatial path, it quickly wraps around the Junior Sister's right wrist.
+Physical State of the Soul-Binding Thread
+Red thread tightens slightly
+Junior Sister's right hand is pulled
+Body instinctively leans forward
+Body Expression Restrictions
+No:
+Exaggerated weightlessness
+Unreasonable floating
+Plot Point 4: Senior Sister Notices Anomaly
+The same White-Robed Sword Immortal immediately notices the anomaly.
+Her gaze shifts instantly from the Junior Sister's wrist to the wick.
+Her eyes become sharp abruptly.
+End of Shot
+Cut the shot at the moment the Senior Sister grips her sword hilt tightly with her right hand.
+
+10–15s | Shot 3: So It Was Me Waiting
+Narrative Function
+The Senior Sister cuts the soul-binding connection, the Junior Sister realizes she is the true target, and the unresolved danger is preserved.
+Shot Size
+Close-up.
+Transitions to character close-ups after the core action.
+Plot Point 1: Precisely Cutting the Soul-Binding Thread
+The Senior Sister immediately draws her own silver longsword.
+Does not use exaggerated sword energy.
+Uses only one swift, precise diagonal sword swing.
+Key Action
+The silver blade severs the connection:
+The dark red Soul-Binding Thread between
+The Soul-Luring Lantern wick ↔ The Junior Sister's right wrist.
+Hard Action Requirements
+Blade accurately cuts the red thread
+Does not touch the Junior Sister's skin
+Swings the sword only once
+Sword trajectory is clear
+Action has realistic physical continuity
+Soul-Binding Thread Breaks
+After breaking, the red thread instantly loses tension.
+Dissipates into tiny dark red light particles.
+The Junior Sister's right hand regains freedom.
+Plot Point 2: Senior Sister Pulls Back Junior Sister
+The Senior Sister extends her free left hand.
+Gently pulls the Junior Sister back to her side.
+She whispers:
+[Senior Sister] "Don't answer."
+Plot Point 3: Junior Sister Realizes The Danger
+The Junior Sister looks up at the Envoy.
+Her expression gradually changes:
+Fear that the Senior Sister would be taken → Shock at realizing she is the true target.
+She asks softly:
+[Junior Sister] "Is it looking for me?"
+Plot Point 4: Final Information Reveal
+The Senior Sister does not look at her.
+Her gaze remains locked on the lantern in the Underworld Envoy's hand.
+She answers very lightly:
+[Senior Sister] "It waits for me to call you."
+Plot Point 5: Danger Has Not Ended
+Brief pause.
+The Underworld Envoy slowly tilts his head.
+The gaze behind the half-mask lands on the Junior Sister again.
+The pale flame in the bronze lantern in his hand lights up again.
+State of the Soul-Binding Thread
+The severed Soul-Binding Thread does not reconnect.
+Dual Protagonist Positioning
+At this point, the Senior Sister and Junior Sister stand side-by-side.
+Both face the Envoy simultaneously.
+Emotion and Action Restrictions
+No:
+Crying together
+Sudden explosion of complex battle
+Final Shot Composition
+The shot closes on:
+The Underworld Envoy's cold bronze half-mask and the relit Soul-Luring Lantern.
+In the shallow depth of field behind:
+White-robed Senior Sister
+Green-robed Junior Sister
+Standing side-by-side.
+The Underworld Envoy does not retreat.
+Final Suspense Landing
+The audience finally understands:
+He never intended to take the White-Robed Sword Immortal from the start.
+He merely borrowed her identity and voice to make the Junior Sister answer that call herself.
+The first soul harvest failed.
+The real danger is still present.
+The screen ends here.
+
+VII. Seedance 2.0 Mini Unified Execution Requirements
+Basic Specifications
+Total Duration: Strictly 15 seconds
+Aspect Ratio: 16:9 Landscape
+Model: Seedance 2.0 Mini
+Number of Shots: Three
+Time Structure
+Time | Shot Size | Core Event
+0–5s | Wide | Underworld Envoy arrives, claims to take the Sword Immortal Senior Sister, Junior Sister blocks.
+5–10s | Medium Close-up | Soul-Luring Lantern mimics Senior Sister's voice, Junior Sister instinctively answers, red thread binds soul.
+10–15s | Close-up & Character CU | Senior Sister cuts red thread, reveals true target, enemy has not retreated.
+
+VIII. Complete Seven Lines of Dialogue and Lip-Sync
+The entire film retains only the following seven lines of dialogue.
+0–5s
+[Underworld Envoy] "Tonight, I am here for the White-Robed Sword Immortal."
+[Junior Sister] "How dare you?"
+5–10s
+[Soul-Luring Lantern · Senior Sister's Voice] "Ah Ning, turn around."
+[Junior Sister] "Senior Sister?"
+10–15s
+[Senior Sister] "Don't answer."
+[Junior Sister] "Is it looking for me?"
+[Senior Sister] "It waits for me to call you."
+Mandarin and Lip-Sync Requirements
+All characters speak Mandarin
+Precise lip-sync matching
+No audio crossover
+No temporary added dialogue
+No off-screen explanatory narration
+Special Rule for Third Line
+"Ah Ning, turn around."
+Emitted by the Soul-Luring Lantern.
+Uses a voice completely identical to the real Senior Sister.
+But:
+The Underworld Envoy does not open his mouth
+The real Senior Sister does not open her mouth
+The sound source is clearly from the bronze lantern
+Spatial audio effects must be distinguishable
+
+IX. Causal Rules for Soul-Luring Lantern and Soul-Binding Thread
+Rule 1 | Cannot Release Red Thread Early
+The red Soul-Binding Thread will not appear early.
+Only after the Junior Sister responds to the familiar voice will the Soul-Luring Lantern release the Soul-Binding Thread.
+Trigger Chain
+Lantern emits sound → Junior Sister responds → Flame turns dark red → Soul-Binding Thread shoots out.
+Rule 2 | Only One Soul-Binding Thread
+There is only one Soul-Binding Thread.
+Always connects:
+The Soul-Luring Lantern wick and the Junior Sister's right wrist.
+Rule 3 | Only One Cutting Action
+The Senior Sister swings the sword only once.
+Accurately cuts the Soul-Binding Thread.
+Rule 4 | State After Breaking
+After the Soul-Binding Thread breaks:
+Instantly loses tension
+Dissipates into tiny dark red light particles
+Junior Sister regains freedom of movement
+Rule 5 | Soul-Luring Lantern Still Exists
+The Soul-Luring Lantern still exists.
+The Underworld Envoy has not retreated either.
+But:
+The original Soul-Binding Thread cannot automatically reconnect.
+
+X. Character and Spatial Continuity
+Dual Protagonist Identity
+Strictly lock:
+@Image1
+@Image2
+Must remain consistent:
+Face
+Hairstyle
+Clothing
+Sword
+Body proportions
+Underworld Envoy
+Use throughout:
+Same bronze half-mask
+Same set of black-grey robes
+Same Soul-Luring Lantern
+Spatial Continuity
+The following must be continuous:
+Character positions
+Distance between characters
+Camera axis
+Main light direction
+All shots occur in the same location.
+Background extends naturally based on reference images.
+Do not change scene identity.
+
+XI. Cinematography and Character Performance
+First Shot
+Photographic Function
+Highlight:
+Strange visitor
+Distance relationship between characters
+Junior Sister actively blocking in front of Senior Sister
+Visual Misdirection
+Make the audience think the Senior Sister is the target.
+But the Envoy's final look at the Junior Sister must serve as a foreshadowing detail understandable in retrospect.
+Second Shot
+Photographic Function
+Utilize the positioning of the real Senior Sister behind the Junior Sister to create:
+Mismatch between sound and actual source.
+Performance Focus
+The Junior Sister's reaction upon hearing the familiar voice must be:
+Natural
+Instinctive
+Faster than rational judgment
+Third Shot
+Photographic Function
+Complete the causal reversal using one clear sword action.
+Performance Focus
+After noticing the danger, the Senior Sister's eyes tighten instantly.
+Her reaction reflects:
+Accurate judgment
+Decisive action
+Restrained power
+Global Performance Principles
+Character performances remain restrained and realistic.
+Do not arrange lengthy fights.
+Do not add:
+Large-scale magic
+Lightning
+Monster transformations
+World collapse
+
+XII. Sound Design
+Ambient Sounds
+Maintain authentic ancient-style spatial sounds.
+Including:
+Natural wind
+Flowing water
+Distant environmental activity
+Movement of hair and sleeves
+Underworld Envoy
+Focus on:
+Envoy's footsteps
+Slight friction sound of the lantern handle ring
+Soul-Luring Lantern
+Focus on:
+Abnormally clear familiar human voice from within the lantern, completely identical to the Senior Sister's timbre.
+Sound comes from the spatial position of the bronze lantern.
+Soul-Binding Thread
+Small strange sounds appear when the red thread tightens.
+Cannot use large-scale supernatural explosion sound effects.
+Silver Sword Cutting Thread
+When the Senior Sister cuts the red thread, suddenly appear:
+Short, clear sword wind-breaking sound.
+Final Dialogue
+Music quickly lowers after the red thread is cut.
+Let the last two lines of dialogue enter the audience's ears naturally:
+[Junior Sister] "Is it looking for me?"
+[Senior Sister] "It waits for me to call you."
+
+XIII. Image and Generation Restrictions
+Image Requirements
+Cinematic-grade photorealism
+Realistic human anatomy
+Clear facial features
+Realistic silk fabric movement
+Natural environmental dynamics
+Stable geographic space
+Precise sword actions
+Restrained supernatural effects
+Strict Prohibitions
+Lengthy fights
+Large-scale magic
+Lightning
+Exaggerated monster transformations
+World collapse
+Face swapping
+Clothing changes
+Confused weapon ownership
+Sudden changes in character positions
+Changes in Soul-Luring Lantern appearance
+Early appearance of Soul-Binding Thread
+Multiple Soul-Binding Threads
+Broken red threads reconnecting themselves
+Background actively triggering the story
+Titles
+Subtitles
+Explanatory text
+Extra lines
+
+XIV. Final Acceptance Criteria
+Must clearly present within the full 15 seconds:
+The Underworld Envoy arrives, claiming to take the White-Robed Sword Immortal.
+The Junior Sister actively stands in front of the Senior Sister.
+The Envoy secretly shifts his true attention to the Junior Sister.
+The Soul-Luring Lantern emits a voice completely identical to the Senior Sister's, while the real Senior Sister does not speak.
+The Junior Sister instinctively answers, causing the Soul-Luring Lantern to release the only Soul-Binding Thread.
+The red thread accurately wraps around the Junior Sister's right wrist.
+The Senior Sister draws her silver sword and cuts the red thread with one strike.
+The Junior Sister realizes she is the true target.
+The Senior Sister says: "It waits for me to call you."
+The Soul-Luring Lantern relights, the Underworld Envoy does not retreat, danger persists.
+Final Effect
+Let the audience discover:
+The most familiar voice, the easiest one to let guard down for, might also be the most dangerous part of the entire trap.
+
+XV. Negative Prompt
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117458722943553536/img/0nIGtxVQ33xlIS7U.jpg" width="600" alt="Seedance 2.0 Mini Cinematic Xianxia Horror Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13438)**
+
+**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2117463209225703771) | **Published:** Nov 3, 2026
+
+---
+### Walking in Color: Monochrome Street Awakening
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed prompt for generating a cinematic video where a woman walking through a black-and-white street brings color back to the world with her steps, specifically optimized for Seedance 2.0 (second half) and WAN 3.0 (first half).
+
+#### 📝 Prompt
+
+```
+[Output Specifications] Generate one simple character sheet. Aspect ratio is fixed at 16:9. Generate only one completed image. Do not include text, titles, labels, numbers, logos, descriptions, borders, or decorations. Do not generate poster-style designs, magazine-style designs, production processes, comparison images, or split-comparison layouts.
+[Input] Attach exactly one completed anchor image simultaneously with this instruction document. Use the attached image as the sole reference for person, face, hair, body type, and costume.
+[Purpose] Create a simple and easy-to-view 16:9 character sheet suitable for video production, while accurately maintaining the person and costume from the anchor image. This serves as a reference material to confirm the three-dimensional structure of the person and costume, as well as facial features and hair impressions.
+[Composition] Arrange a total of 6 views within one 16:9 screen. From left to center, place full-body three-view drawings horizontally in the order of 'Front Full Body / Side Full Body / Back Full Body'. On the right side of the screen, place face close-ups vertically in the order of 'Slightly Left-facing / Front-facing / Slightly Right-facing' from top to bottom.
+[Person Identity] Maintain the facial features, eyes, nose bridge, mouth, contour, age impression, skin, hairstyle, hair color, hair length, bangs, body type, height impression, head-to-body ratio, shoulder width, torso width, waist width, leg length, and leg thickness of the person in the anchor image. Naturally align all full-body three-view drawings and the three face close-ups as the same person.
+[Full-Body Three-View Drawings] Unify the full-body three-view drawings as the same person viewed from 3 directions, ensuring they fit completely from crown to feet without cropping. Using the costume in the anchor image as the primary reference, maintain consistency as much as possible regarding collar, sleeves, chest area, torso part, waist decoration, skirt/bottom length, slit position, fabric layers, color, pattern, texture, and shoe shape. The front view should be reproduced most faithfully based on the person and costume in the anchor image. The side view should be a natural true profile showing the three-dimensional structure of the person and costume. The back view should naturally reconstruct the back of the hair, shoulders, back, back of the costume, legs, and heels of shoes. For the side and back views, unseen parts in the anchor image may be estimated and supplemented, but must not contradict the front view.
+[Face Close-ups] Use the anchor image as the primary reference for face close-ups, maintaining the facial features, eyes, nose bridge, mouth, hairstyle, hair color, and atmosphere of the referenced person as much as possible. Naturally align the three face close-ups as the same person. Ensure hair flow and facial surroundings do not contradict the anchor image. Costume collars and shoulder areas may be partially visible, but prioritize facial confirmation. 'Slightly Left-facing' and 'Slightly Right-facing' should not be complete profiles, but rather light angles sufficient to discern facial features.
+[Pose] All three full-body views must have a neutral standing posture. The front view faces directly forward, arms slightly away from the body and lowered naturally, legs standing with slight spacing. The side view shows the posture from directly sideways, ensuring arms do not completely hide the torso outline. The back view faces completely backward, without turning the face towards the camera. Do not take characteristic poses; prioritize structural confirmation of the body and costume.
+[Background] Background is plain bright white or very light gray. Do not include decorations or patterns. Keep floor representation minimal to prioritize person confirmation.
+[Layout] Use approximately 3/4 of the screen width for the full-body three-view drawings and 1/4 for the vertical stack of 3 face close-ups. Ensure the three full-body figures are large enough to be the main focus by using a wide horizontal area from left to center, and arrange the three face close-ups evenly spaced vertically on the right side. Ensure no interference between full-body and face views, creating a composition that facilitates both costume and facial confirmation. Ensure adequate margins so each view is sufficiently visible.
+[Overall Tone] Simple, clean, practical. Easy to view as video production material, prioritizing structural confirmation of person and costume. Do not turn into a design poster.
+[Prohibitions] Text, titles, labels, numbers, logos, descriptions, decorative frames, background effects, poster-style effects, excessive shadow effects, different personization, costume changes, color scheme changes, oversimplification of patterns, characteristic poses, crossed legs, raised arms, layouts where full-body three-view drawings are too small, layouts where face close-ups are arranged horizontally, structures in side/back views that contradict the front view, missing limbs, overlapping persons.
+
+[DECLARATION]
+PHOTOREAL CINEMATIC FASHION FILM. Total duration 15 seconds, aspect ratio 1:1. A live-action short film of a woman walking through a colorless black-and-white city. She is the only thing in color in the world; with each step, the three colors of her skirt transfer to the city as vertical bands. Finally, when she spins, color returns throughout the city, ending in a quiet afterglow. Connect 9 cuts rhythmically.
+
+[REFERENCE]
+<image1> is the protagonist woman. This image is a setting reference depicting her alone from front, side, back, and face (3 directions). Face, hairstyle, body type, costume, and boots are as depicted in this image. Hereafter referred to as 'the protagonist'.
+
+[CONDITION]
+This is an old stone city with a round plaza ahead of cobblestone streets. Tall buildings line both sides of the street, all losing their color like old black-and-white photos. Sky, walls, cobblestones, and florist flowers are a world made only of shades of gray, with only clear daylight casting quiet shadows. The protagonist walks alone through it with calm steps. Only her figure remains in natural color, and the Rose Red, Amber Orange, and Sky Blue stripes on her skirt appear the most vivid in this city. When the protagonist's boots step on the cobblestones, straight bands of the same three colors with sharp edges emerge from underfoot, running along the ground and climbing vertically up the walls. Only within the bands does the city get dyed as if layered with color ink, with stone joints and window details remaining transparently visible. As if knowing the color will spread, the protagonist continues walking with a quiet, confident expression. The footage resembles a live-action fashion film shot on 35mm film, with fine grain and smoothly moving camera.
+
+[SHOT FLOW]
+[Shot 1 | 0.00~2.00s]
+[START]
+Wide angle looking straight down the middle of a black-and-white street. The protagonist walks towards the camera from afar. Her whole body looks small, but the three colors of the skirt stand out vividly.
+[MAIN EVENT]
+The protagonist continues walking towards the camera, and the camera slowly retreats backwards.
+[END]
+The protagonist's full body walking towards the camera.
+
+[Shot 2 | 2.00~3.60s]
+[START]
+Extreme close-up from directly sideways, just above the cobblestone floor. White boots enter from the left of the frame.
+[MAIN EVENT]
+Boots stomp firmly on the cobblestones, echoing hard footsteps. From the stepped-on spot, three-colored bands emerge and run straight into the depth of the screen across the cobblestones.
+[END]
+Three colored bands extending from the feet into the distance.
+
+[Shot 3 | 3.60~5.60s]
+[START]
+Wide angle viewing the protagonist from directly sideways, backed against a black-and-white building wall. The protagonist is walking from left to right in the frame.
+[MAIN EVENT]
+The camera moves horizontally to the right at the same speed as the protagonist. With each step, three-colored bands rise one by one from bottom to top on the wall immediately behind her.
+[END]
+The walking protagonist and the colored bands aligned on the wall to her left.
+
+[Shot 4 | 5.60~7.20s]
+[START]
+Close-up of a florist shopfront on the street. Black-and-white flowers fill buckets.
+[MAIN EVENT]
+An Amber Orange band passes from the ground over the flowers, dyeing only the flowers within the band in fresh, vibrant colors.
+[END]
+A band of colored flowers standing among gray flowers.
+
+[Shot 5 | 7.20~9.00s]
+[START]
+Close-up of the protagonist from the chest up, walking towards the camera. Black-and-white buildings line the background.
+[MAIN EVENT]
+The camera retreats backwards at the same speed. Colored bands rise one after another on the buildings deep to the left and right of the protagonist. A small smile appears on the protagonist's lips.
+[END]
+The smiling face of the protagonist and the colored bands lined up in the background.
+
+[Shot 6 | 9.00~10.00s]
+[START]
+Wide angle looking straight at a black-and-white round plaza under a gray sky. The protagonist is walking into the center of the plaza.
+[MAIN EVENT]
+The protagonist stops and stomps once firmly on the cobblestones with her boots. The camera does not move.
+[END]
+The protagonist's full body standing in the center of the plaza.
+
+[Shot 7 | 10.00~11.80s]
+[START]
+Viewing the protagonist in the center of the plaza from a slightly distant low angle. Her entire body fits in the frame from above her head to below her boots, with empty sky space above her head. Sky and buildings remain black-and-white.
+[MAIN EVENT]
+The protagonist slowly spins once in place. The hem of the pleated skirt opens widely in a circle, and the three-colored stripes spread out like a fan.
+[END]
+The protagonist's full body with the opened skirt hem rippling near the ground.
+
+[Shot 8 | 11.80~13.20s]
+[START]
+High-angle wide shot looking down at the plaza. The protagonist stands in the center, surrounded entirely by black-and-white.
+[MAIN EVENT]
+Waves of three colors spread concentrically from the protagonist's feet, crossing the cobblestones, rushing up buildings and into the sky, returning natural color to the entire city.
+[END]
+The protagonist standing in the center of the plaza which has regained its color.
+
+[Shot 9 | 13.20~15.00s]
+[START]
+Close-up from the chest up of the protagonist in the center of the plaza, facing forward. In the background, buildings and blue sky have regained natural color.
+[MAIN EVENT]
+The camera approaches very slowly. The protagonist quietly exhales and looks into the distance. Deep in the sky far beyond the protagonist, a few small petals flutter slowly.
+[END]
+The protagonist's face quietly looking into the distance amidst the light of the colored city.
+
+[SOUND]
+Single layer BGM. Light music with finger snaps and double bass, playing continuously from the first frame at 0 seconds without interruption. From the point where the protagonist spins, wind instruments join in, expanding splendidly. When color fully returns, the sound quiets down, and finally, a single note resonates long before fading silently. No dialogue or narration.
+
+[NEGATIVE]
+Text, subtitles, logos, watermarks
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117449754674417664/img/ego2_NDdp_fx5cE3.jpg" width="600" alt="Walking in Color: Monochrome Street Awakening">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13440)**
+
+**Author:** [AIライフハック](https://x.com/ai_lifehack55) | **Source:** [Link](https://x.com/ai_lifehack55/status/2117450061915578482) | **Published:** Nov 3, 2026
+
+---
+### Seedance Chinese Director Execution Prompt: The Promised Sea
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed director-style prompt for Seedance 2.0 Mini/2.5 creating a first-person POV Xianxia sword-flying short film titled 'The Promised Sea'. Includes strict continuity, physics, dialogue, and camera instructions.
+
+#### 📝 Prompt
+
+```
+Seedance Chinese Director Execution Version | "The Promised Sea"
+I. Project Basics
+Duration: Strictly 15 seconds
+Aspect Ratio: 16:9 Horizontal
+Language: Mandarin Chinese Dialogue
+Perspective: Full First-Person POV of Male Lead
+Style: Cinematic Hyper-realistic Chinese Xianxia Sword-Flying Short Film
+Model Preference: Seedance 2.0 Mini / 2.5
+II. Core Style & Narrative Goals
+Cinematic hyper-realistic texture, pure ancient Chinese Xianxia aesthetics.
+The entire segment uses the male lead's eye view; camera height approx 178cm, always bound to the male lead's body and flying sword motion. All dives, accelerations, tilts, head turns, lifts, leveling, and stable gliding must have realistic body inertia and center-of-gravity feedback.
+Core experience is not showing off skills, but:
+Immersive first-person sword flying
+Continuous spatial transition from giant celestial palace to ocean below clouds
+Gentle conclusion transitioning from "puzzlement at being teased" to "she remembers the promise"
+Camera must remain readable; no drone-like floating shots, no third-person inserts, no unmotivated whip pans.
+III. Character & Asset Locking
+Character A | Female Lead | Strictly lock @Image1
+Same adult East Asian female, same identity, facial features, face shape, skin tone, hairstyle, body proportions.
+Real skin texture, black long hair naturally wind-blown.
+Clothing fixed as one set:
+Moon-white and light-cyan Xianxia sword-flying robe
+Silver thread embroidered collar
+Tight waist sash
+Narrow-sleeve inner layer
+Silk outer robe
+Exquisite jade accessories
+Fabric has real weight and delayed swing.
+Female lead stands on her single complete flying sword throughout, feet stable on blade, character center of gravity, sword direction, and flight path always consistent.
+Character B | Male Lead | First-Person Subject
+Male lead's face does not appear.
+Bottom edge of frame must consistently show:
+Male lead's own shoe tips
+Narrow silver flying sword under his feet
+Male lead also stands on his single complete flying sword throughout, feet stable, sword length, appearance, and orientation consistent.
+IV. Environment & Spatial DNA
+Main Environment | Built based on Reference Image 2
+Background strictly built based on @Image2 maintaining same giant celestial palace environment, preserving core identities:
+Central huge circular jade sky wheel
+Symmetrical dark wood palaces left and right
+Layered upturned eaves
+Vast white stone plaza
+Suspended platforms
+Cool cyan sky
+Warm golden sunset
+Extreme scale disparity between architecture and characters.
+Based on this, naturally extend downwards:
+Ten-thousand-zhang palace cliffs
+Huge waterfalls
+Deep cloud valleys
+A vast real ocean below the clouds
+Spatial Continuity
+Audience must clearly understand this is a continuous route:
+Celestial palace high axis -> Outside giant jade wheel -> Giant palace cliffs -> Waterfall -> Cloud valley -> Piercing clouds -> Ocean below clouds
+Must not become multiple unrelated scene splices.
+Architecture, cliffs, waterfalls, clouds, and ocean must belong to one complete world.
+V. Flight & Camera Unified Rules
+First-Person Rule
+Camera always represents male lead's eye sight, moves only due to male lead's real flight.
+Camera motion sources can only be:
+Forward rush
+Dive
+Side tilt
+Following female lead's turn
+Lift
+Leveling
+Natural head turn to look at female lead
+Turning back forward
+Required Physical Feedback
+Brief weightlessness during dive
+Lateral pressure during turn
+Center-of-gravity recovery during leveling
+Space compression during cloud/waterfall piercing
+Stable but high-speed body feedback during sea surface glide
+Parallax Requirements
+Foreground architecture, eaves, stone walls, mist sweep past at high speed
+Mid-ground giant palaces retain volume clearly
+Background clouds, mountains, islands move relatively slower
+Overall spatial relationship remains clear
+VI. 15-Second Complete Storyboard
+0-3s | High-altitude parallel start: Where is the promised sea?
+Visual
+High-altitude first-person direct start.
+Male lead already hovering hundreds of meters above celestial palace central axis plaza.
+Bottom edge clearly shows male lead's shoe tips and narrow silver flying sword.
+Foreground subject is giant circular jade wheel dominating vision.
+Left and right huge palaces extend in layers at high altitude.
+Female lead stands on her own flying sword, flying parallel to male lead, approx 2m distance. Violent mountain wind pulls her long hair and silk hem naturally backwards.
+Action
+Male lead naturally looks around, then looks at female lead.
+Dialogue
+Male lead (with slight puzzlement at being teased):
+"Where is the promised sea?"
+Female lead turns side of face, corner of mouth slightly rises:
+"Below your feet. Follow me."
+Segment Closing Action
+As soon as words fall, female lead suddenly leans body forward, presses sword tip down, whole person along with flying sword rapidly dives along outside of celestial palace.
+Male lead first-person immediately follows, flying sword abruptly accelerates, body produces real brief weightlessness feedback due to dive.
+
+3-7s | Giant structure dive: Descending through waterfall along palace exterior
+Visual & Route
+First-person follows female lead descending from outside giant ring.
+Huge jade ring structure rapidly rises above head and leaves view.
+Female lead always several meters ahead, form and flight direction stable and clear.
+Two flying swords descend rapidly along giant palace exterior cliffs:
+Sweeping under huge eaves
+Flying grazing hundreds of meters high white stone building bases
+Then completing smooth rightward large arc turn outside ten-thousand-zhang waterfall
+Whole segment forms clear S-shaped aerial flight route:
+Steep dive
+Avoiding buildings
+Leaning into turn
+Continuing descent along waterfall edge
+Parallax
+Foreground huge dougong brackets, stone walls, mist sweep past at high speed.
+Distant palaces and clouds move relatively slowly.
+Sense of speed and space must be extremely strong.
+Dialogue
+Male lead shouts against wind:
+"Isn't it all clouds below?"
+Female lead briefly turns back while flying:
+"Go lower!"
+Then she presses sword tip down again, rushing towards cloud valley below waterfall.
+
+7-11s | Piercing waterfall/clouds: Complete reveal of ocean below clouds
+Visual & Route
+Female lead continues diving along waterfall edge, then lightly presses sword left, passing through wide channel between waterfall column and cloud wall.
+Male lead first-person follows closely behind.
+Camera experiences extremely brief:
+Semi-transparent white mist
+Cloud obstruction
+But obstruction must be short, transparent, readable, not chaotic or out of control.
+Then bursts out from bottom of clouds.
+Wonder Reveal
+Vision instantly opens completely.
+Below sea of clouds is truly vast deep blue ocean.
+Warm golden sunlight spreads over sea surface.
+Distance has varying size mountain islands, pale blue sea fog, and distant shadows cast by huge celestial palace buildings.
+Flight State Transition
+Female lead's flying sword gradually levels along smooth arc, converting steep dive naturally into high-speed glide close to sea surface.
+Male lead first-person raises sword accordingly, body naturally recovers to standing posture from forward lean.
+Frame shows real but restrained center-of-gravity feedback due to change in velocity direction.
+Dialogue
+No dialogue in this segment.
+Rely on sword trajectory, spatial changes, and sound changes to complete reveal.
+11-15s | Sea surface parallel flight: I didn't forget my promise to you
+Visual State
+
+Two people fly swords parallel at high speed along sea surface.
+Flying swords approx 3 meters above sea surface.
+Real waves constantly sweep backwards.
+Warm golden sunlight creates broken flashes on wave peaks.
+Flying swords sweeping low create narrow mist and weak airflow disturbance.
+Female Lead Relative Position Change
+
+Female lead reduces lateral distance along elegant arc trajectory from front, finally maintaining approx 3 meter spacing parallel flight with male lead.
+First-Person Action
+Male lead first-person naturally turns head to look at her.
+Her long hair and hem stretch backwards with airflow, strands of hair near cheek blown up by wind.
+Dialogue
+Female lead looks at male lead, previous slightly teasing expression gradually becomes unintentional gentle smile, softly says:
+"I didn't forget my promise to you."
+
+Male lead quietly looks at her briefly, then naturally turns head to look forward.
+Ending Visual
+Final frame shows:
+Boundless gold-blue ocean
+
+Distant archipelago
+Faint outline of huge celestial palace behind in high sky
+Two flying swords continue forward side-by-side in sunlight.
+Frame ends naturally while two people continue sword flying.
+Ending Continuity Anchor
+Must preserve upon ending:
+Complete heading
+Current speed
+Male lead first-person height
+Female lead relative position
+Sea surface level flight state
+Spatial continuity allowing continuation to next segment
+VII. Dialogue List (Strict Control)
+Only keep following dialogue for whole film, do not add explanatory lines:
+Male Lead: "Where is the promised sea?"
+Female Lead: "Below your feet. Follow me."
+Male Lead: "Isn't it all clouds below?"
+Female Lead: "Go lower!"
+Female Lead: "I didn't forget my promise to you."
+Dialogue Execution Requirements
+Mandarin natural colloquial
+Accurate lip-sync when female lead visible speaking
+Male lead always first-person off-screen male voice
+Clear separation of male/female voices
+No interrupting, no overlapping, no mechanical reading
+VIII. Sound Design
+First Half | Celestial Palace High Altitude
+High-altitude whistling mountain wind
+Sword-flying wind-breaking sound
+Distant waterfall roaring
+Air pressure feeling when sweeping past giant structures
+Middle Section | Piercing Clouds/Waterfall
+Wind sound becomes lower, more enveloping
+Mist penetration feeling
+Sound field suddenly opens when bursting out of clouds
+Second Half | Sea Surface Glide
+Open sea wave sounds
+Subtle mist sounds from flying sword skimming sea
+Clearer human voices
+Music
+Restrained in first half
+Naturally enters emotional climax when "ocean first fully appears"
+Returns to softness at end
+Must not overpower dialogue and environmental sounds.
+IX. Continuity & Physics Requirements
+Character Continuity
+Female lead is always same person as @Image1:
+No face swap
+No hairstyle swap
+No clothing swap
+No body proportion swap
+
+Flying Sword Continuity
+Each person has only one complete flying sword
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117186940445560832/img/aaM58O2D2io_uZ2e.jpg" width="600" alt="Seedance Chinese Director Execution Prompt: The Promised Sea">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13435)**
+
+**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2117190326528168293) | **Published:** Nov 2, 2026
+
+---
+### Seedance 2.0 Mini Ancient Chinese Xianxia Comedy Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for generating a 15-second cinematic video using Seedance 2.0 Mini. It features two female sword immortals secretly practicing while on holiday, leading to a comedic confrontation with their master. The prompt specifies realistic textures, Arri Alexa quality, and precise character actions.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | "Day Off Today"
+
+Model: Seedance 2.0 Mini
+Duration: Strictly 15 seconds
+Aspect Ratio: 16:9 Landscape
+Genre: Pure Ancient Chinese Xianxia / Plot Twist Comedy / Sect Daily Life / Two-Person Relationship Drama
+Structure: Three continuous, clear cinematic shots with different comedic functions.
+I. Overall Style and Creative Direction
+Cinematic realistic texture, pure ancient Chinese Xianxia aesthetics.
+Integrate the following comedic languages:
+Precise physical comedy from classic silent films
+British deadpan cold humor
+Hong Kong comedy's fast reaction rhythm
+Three-stage reversals generated by character behavior
+Photography and Visual Texture
+Adopt:
+Arri Alexa cinema camera texture
+Real skin textures
+Fine film grain
 Natural volumetric light
+Real silk fabric movement
+Real hair physics
+Comedy Director Principles
+Generate laughs naturally through:
+Character behavior
+Action synchronization
+Eye contact
+Brief silences
+Reaction speed
+Real spatial blocking
+Characters must not be portrayed as fools.
+Both female leads are truly high-level swordsmen, with beautiful movements and distinct personalities.
+They have strong competitiveness towards each other but maintain a close relationship.
+II. Core Plot and Comedy Mechanism
+Story Core
+The sect announces a day off, but the Senior Sister and Junior Sister secretly practice swords behind each other's backs, neither admitting they are putting in effort.
+Result:
+Both are caught red-handed by the Master simultaneously.
+The holiday directly turns into extra training.
+Comedic Conflict
+The laugh comes from a familiar human contradiction:
+Everyone agreed to rest, yet everyone worries that others will secretly progress while they rest.
+Both want to work hard secretly.
+As a result, they bump into each other.
+In the end, neither gets any benefit.
+Three-Layer Reversal Structure
+Layer 1: Day Off
+The Master explicitly announces everyone is resting, sword practice is forbidden.
+Layer 2: Mutual Catching
+Senior Sister and Junior Sister both sneak back to practice swords and bump into each other.
+Layer 3: Punishment Extra Training
+The two think they were only discovered by each other, but are finally caught by the Master simultaneously.
+Practicing two moves secretly results in one hundred moves of extra training.
+Narrative Restriction
+The entire story revolves around this single event.
+Do not add other independent plotlines.
+III. Character Identity and Core Asset Locking
+Character A | @Image1 | Sword Immortal Senior Sister
+Identity & Appearance
+The same Sword Immortal Senior Sister:
+Adult East Asian female, 25–30 years old
+Facial features strictly inherit character reference image
+Face shape strictly inherits character reference image
+Skin tone strictly inherits character reference image
+Body shape strictly inherits character reference image
+Black long hair half-tied up
+Fixed with a white jade hairpin
+Fixed Costume
+White embroidered real silk Xianxia costume
+Silver waist belt
+Exclusive Weapon
+One unique silver longsword.
+Personality & Performance
+Dignified and elegant
+Restrained expressions
+Habitually maintains Senior Sister's authority
+Competitive when facing Junior Sister
+Comedy Focus
+When the dignified Senior Sister is discovered by Junior Sister practicing secretly, she exhibits brief and genuine awkwardness.
+Character B | @Image2 | Junior Sister
+Identity & Appearance
+The same Junior Sister:
+Adult East Asian female, 20–25 years old
+Facial identity strictly inherits character reference image
+Body proportions strictly inherit character reference image
+Hairstyle strictly inherits character reference image
+Black braided long hair
+Fixed Costume
+Greenish-blue ancient style dress
+Dark belt
+Exclusive Weapon
+One unique dark steel sword.
+Personality & Performance
+Lively
+Competitive
+Unwilling to admit she works less hard than Senior Sister
+Comedy Focus
+Originally thinking she could practice secretly, upon discovering Senior Sister is also there, she immediately produces a natural reaction of surprise and reluctance.
+New Supporting Character | Elderly Master
+Only one elderly Master throughout the film.
+Character Requirements
+Appearance consistent throughout
+Costume consistent throughout
+Character position has real spatial logic
+Personality
+Serious
+Deadpan
+Has a bit of humorous insight into everything
+Performance Focus
+The Master does not need exaggerated expressions.
+His calmness forms a comedic contrast with the panic of the two heroines.
+IV. Background and Environment DNA
+All newly uploaded background/location reference images collectively define a real existing Xianxia world.
+Environment Planning
+Before formal composition, understand what the reference images collectively present:
+Terrain structure
+Architectural relationships
+Spatial scale
+Materials
+Vegetation
+Water bodies
+Clouds/Mist
+Weather
+Main light direction
+Reflections
+Atmospheric depth
+Plan an open space suitable for two people to practice swords, under the premise of conforming to actual geographical relationships.
+Location Continuity
+The three shots always occur within the same real spatial system.
+Must maintain:
+Consistent terrain relationships
+Consistent building positions
+Consistent road positions
+Consistent main light direction
+Continuous major environmental landmarks
+Key Principle
+The background itself cannot become a plot device.
+V. Living Background and Narrative Neutrality
+Natural Environment Movement
+Natural wind gently pushes continuously:
+Sleeves
+Leaves
+Other natural objects conforming to reference images
+If water bodies exist:
+Water flows naturally continuously
+If clouds/mist exist:
+Clouds/mist change slowly according to real terrain
+Simultaneously maintain:
+Natural movement of distant vegetation
+Continuous reflections
+Continuous atmospheric layers
+Environment Principle
+The entire environment must be:
+Alive
+Possessing real vitality
+Conforming to physical laws
+While simultaneously:
+Not affecting character choices or comedic reversals at all.
+VI. Complete 15-Second Shot Breakdown
+0–5s | First Shot: Wide Shot | Master Announces Day Off
+Shot Function
+Establish rules, making it clear to the audience that today should be a rest day.
+Camera
+Use widescreen panoramic shot.
+Slightly low angle.
+Fully display the real spatial depth of the current reference scene.
+Initial Character Positioning
+Master
+The same elderly Master stands in the center of the frame.
+Senior & Junior Sisters
+The same White-Robed Sword Immortal Senior Sister and the same Green-Robed Junior Sister stand side-by-side before the Master.
+Both of them:
+Have longswords sheathed in scabbards
+Stand with proper posture
+Look serious
+Master Announces Day Off
+The Master declares deadpan:
+[Master] "Today is a day off, no one is allowed to practice swords!"
+First Reaction of the Duo
+The two hear about the day off.
+Their eyes simultaneously show subtle happiness.
+But they immediately restore respectfulness.
+Synchronized Dialogue & Action
+Both salute simultaneously:
+[Senior Sister, Junior Sister] "Yes!"
+Characters Exit
+Subsequently:
+Senior Sister leaves in one direction
+Junior Sister leaves in the opposite direction
+Both walk leisurely
+The Master also walks slowly along the established road in the frame.
+Camera Requirement
+Camera remains stable.
+Narrative Goal of First Shot
+Must make it clear to the audience:
+That today was supposed to be a rest day for everyone.
+5–10s | Second Shot: Medium Shot | Two Secret Workers Caught Red-Handed
+Shot Function
+Complete the first comedic reversal through dual independent actions and synchronized awkwardness.
+Spatial Continuity
+Cut to a medium shot of the same sword practice space.
+The following content is strictly continuous with the previous shot:
+Terrain
+Buildings
+Lighting
+Spatial relationships
+First Action Segment: Senior Sister Sneaks Back
+The same White-Robed Sword Immortal Senior Sister quietly returns to the practice area.
+She first very naturally observes her surroundings.
+Confirms the Master is not nearby.
+Then draws the same silver longsword.
+Senior Sister's Sword Technique
+She quickly completes an extremely beautiful:
+Turning diagonal slash.
+Action Requirements:
+Fluid body movement
+Stable footing
+Real silk sleeves naturally swing out in elegant arcs
+Second Action Segment: Junior Sister Also Sneaks Back
+However, almost at the same time.
+The same Green-Robed Junior Sister also quietly returns from the other side of the frame.
+She similarly assumes no one else is here.
+So she draws the same dark steel sword.
+Junior Sister's Sword Technique
+Completes a:
+Clean and sharp diagonal slash.
+Dual Sword Technique Principle
+Both characters' movements are beautiful.
+Sword tips:
+No collision
+Not pointing at each other
+First Comedic Reversal: Mutual Discovery
+Until the two turn around to finish.
+They suddenly discover:
+The other person is actually here too.
+Two masters freeze simultaneously.
+Comedic Pause
+Maintain a pause that is:
+Complete
+Clear
+Slightly awkward
+First Round of Dialogue
+Junior Sister speaks first:
+[Junior Sister] "Senior Sister, you're sneaking practice too?"
+Senior Sister immediately retorts:
+[Senior Sister] "Aren't you too?"
+Silent Dual Reaction
+Both swords remain in safe positions.
+They first look down at the swords in each other's hands.
+Then look up to meet eyes.
+Comedic Information
+Two people who were originally working hard secretly suddenly cannot continue pretending they were just passing by.
+Camera Principle
+Camera maintains a complete two-person composition.
+Let the fully synchronized awkwardness of the two naturally form the laugh.
+10–15s | Third Shot: Close-Up | Holiday Directly Turns Into Extra Training
+Shot Function
+Complete the final comedic reversal through the Master's reappearance, extra training order, and synchronized dual reaction.
+Camera
+Camera slowly pushes in from the two-person medium shot.
+Master's Return Spatial Logic
+The same Master had already left along the previously established road.
+But after hearing the sound of their sword practice:
+He stops
+Turns around
+Walks back along the same road
+Senior and Junior Sisters do not notice at all.
+Master Suddenly Speaks
+Until the Master calmly says behind them:
+[Master] "Love practicing so much? Add one hundred moves of training."
+Second Synchronized Freeze of the Duo
+The two hear the voice.
+Instantly freeze simultaneously.
+Subsequently, with almost completely synchronized actions:
+Quickly sheath their respective longswords back into scabbards
+Turn around simultaneously
+Face the Master
+Salute sincerely
+Synchronized Plea Dialogue
+[Senior Sister, Junior Sister] "Master, we were wrong!"
+Master's Cold Humor Closure
+The Master's face remains unchanged.
+[Master] "Too late."
+Final Extreme Close-Up
+The two female sword immortals who just wanted to secretly surpass each other look very slowly at each other.
+They simultaneously realize:
+Practicing two moves secretly resulted in one hundred moves of extra training.
+Final Expression
+Identical helpless expressions appear on both their faces.
+They don't even need to say another word.
+Ending
+At the moment of their silent eye contact, cut precisely to black.
+VII. Three Shots and Rhythm Control
+Fixed Time Structure
+Time Shot Size Narrative Task Comedy Mechanism 0–5s Widescreen Panorama Establish sect day-off rule Deadpan rule vs hidden expectation 5–10s Two-person Medium Shot Two secretly practice swords, catch each other Behavioral mirroring & synchronized awkwardness 10–15s Close-up pushing to Extreme Close-up Master appears, announces extra training Authority intervention & final reversal
+Editing Principle
+Keep the main structure of three continuous shots throughout the film.
+The three shots respectively complete:
+Establish rules
+Break rules
+Pay the price for violation
+Comedic Rhythm
+Segment 1: Calm, orderly
+Segment 2: Sudden acceleration, beautiful swordplay, unexpected freeze
+Segment 3: Master appears calmly, two quickly apologize, final silent eye contact
+Pauses must serve comedy, do not deliberately drag for duration.
+VIII. Sword Technique Actions and Body Physics
+Senior Sister's Sword Technique
+Uses the unique silver longsword.
+Actions:
+Draw sword → Turning diagonal slash → Stable landing → Discover Junior Sister → Stop → Finally sheath sword
+Junior Sister's Sword Technique
+Uses the unique dark steel sword.
+Actions:
+Draw sword → Clean diagonal slash → Stable landing → Discover Senior Sister → Stop → Finally sheath sword
+Dual Sword Technique Requirements
+Actions are real
+Sword paths are clear
+Body movements are elegant
+Physics are reasonable
+Fabric movement is natural
+Characters possess true sword skills
+Strictly Forbidden
+Exaggerated special effects
+True duel between the two
+Accidental weapon collisions
+Meaningless weapon tricks
+IX. Character Performance and Comic Tension
+Senior Sister
+Shot 1
+Maintains the dignified, respectful Senior Sister image.
+Only subtle happiness when hearing about the day off.
+Shot 2
+Carefully observes surroundings then practices secretly.
+Swordplay is beautiful.
+When discovering Junior Sister, authority shows a brief crack.
+Still subconsciously maintains composure.
+Shot 3
+Immediately sheathes sword and apologizes upon hearing Master's voice.
+Finally looks at Junior Sister, showing restrained and obvious helplessness.
+Junior Sister
+Shot 1
+Happy but polite when hearing about the day off.
+Shot 2
+Sneaks back to practice.
+Movements equally beautiful.
+When discovering Senior Sister, surprised first, then can't help speaking.
+Shot 3
+Quickly apologizes upon hearing extra training order.
+Forms synchronized helpless expression with Senior Sister at the end.
+Master
+Shot 1
+Seriously announces day off.
+Shot 2
+Leaves along the established road.
+Shot 3
+Naturally returns after hearing practice sounds.
+Calmly announces extra training.
+Faces their pleas with unchanged expression saying:
+"Too late."
+Performance Principle
+The Master's humor comes from:
+The more serious he is, the more awkward the two become.
+X. Complete Dialogue and Lip Sync
+0–5s
+[Master] "Today is a day off, no one is allowed to practice swords!"
+[Senior Sister, Junior Sister Simultaneously] "Yes!"
+5–10s
+[Junior Sister] "Senior Sister, you're sneaking practice too?"
+[Senior Sister] "Aren't you too?"
+10–15s
+[Master] "Love practicing so much? Add one hundred moves of training."
+[Senior Sister, Junior Sister Simultaneously] "Master, we were wrong!"
+[Master] "Too late."
+Dialogue Execution Requirements
+All dialogue uses natural Mandarin
+Specified characters speak accurately
+Lip sync matches audio
+Simultaneous dialogue must be truly synchronized
+Do not add temporary explanatory lines
+Comedic Pauses
+Must preserve:
+Brief freeze after mutual discovery
+Synchronized reaction when Master suddenly appears
+Final silent eye contact of the two
+Core Principle
+Complete main narrative through character actions, gazes, and comedic pauses.
+XI. Character, Weapon, and Scene Continuity
+Dual Leads
+Must strictly maintain:
+Same facial identity
+Same face shape and features
+Same hairstyle
+Same costume
+Same body proportions
+Weapons
+Senior Sister
+Unique silver longsword.
+Junior Sister
+Unique dark steel sword.
+Weapon Status
+Shot 1:
+Both swords are in scabbards.
+Shot 2:
+Two separately draw swords to practice.
+Shot 3:
+Two simultaneously sheath their respective longswords back into scabbards.
+Master
+Maintain:
+Same character identity
+Same appearance
+Same costume
+Continuous real movement path
+Space
+Three shots must preserve:
+Same environmental identity
+Same geographical relationships
+Same architectural system
+Same lighting logic
+Same practice area
+Strict Restrictions
+Characters cannot magically:
+Appear
+Switch places
+Teleport
+XII. Sound Design
+Ambient Sound
+Maintain real spatial sounds conforming to reference environment:
+Natural wind
+Rustling leaves
+Water flow (if present in reference scene)
+Distant ambient sounds
+Real silk fabric friction
+Sword Technique Sounds
+When drawing and slashing:
+Real sword-drawing friction
+Short, clear sword-wind breaking sounds
+Sound of sleeves pulling during turns
+Real footstep landing sounds
+Comedic Sound Rhythm
+Shot 1
+Primarily natural ambient sounds and character dialogue.
+Shot 2
+Beautiful sword actions bring short wind-breaking sounds.
+After mutual discovery, preserve sufficiently clear natural pauses.
+Shot 3
+Master speaks calmly.
+Natural scabbard friction sounds when two quickly sheath swords.
+Last line:
+"Too late."
+Then, conclude with the two's silent eye contact.
+XIII. Seedance 2.0 Mini Final Execution Requirements
+Basic Specs
+Strictly complete 15 seconds
+16:9 Landscape
+Three clear narrative shots
+Core Execution Focus
+Dual lead character identities consistent
+Master's identity and movement path continuous
+Three-shot geographical space continuous
+Sword techniques real and elegant
+Two's awkward reactions naturally synchronized
+Master's cold humor performance restrained
+All Mandarin dialogue and lip sync accurate
+Environment naturally alive and narratively neutral
+Strictly Forbidden
+Sudden face changes
+Sudden costume changes
+Hairstyle changes
+Longsword duplication or ownership confusion
+Master suddenly teleporting behind them
+Sudden background location changes
+Irrelevant magic effects
+True dual weapon clashes
+Unnecessary slow motion
+Exaggerated slapstick
+Meaningless fast camera movements
+Modern elements
+Subtitles
+Titles
+Watermarks
+XIV. Final Acceptance Criteria
+Must completely present the following seven key events:
+Master explicitly announces day off, forbids sword practice.
+Senior and Junior Sisters respectfully respond and leave in opposite directions.
+Senior Sister sneaks back to practice, completing beautiful sword moves.
+Junior Sister also sneaks back, completing independent sword moves.
+The two discover each other, experiencing brief awkwardness and questioning each other.
+Master returns via original path, announcing one hundred moves of extra training.
+Two synchronize apology, told it's too late, finally look helplessly at each other before cutting to black.
+Final Comedy Landing
+The two who most feared being secretly surpassed by the other end up punished together with extra training.
+The real laugh comes from:
+Their sword skills are formidable, but their thoughts are seen clearly by the Master.
+XV. Negative Prompt
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117170492784410624/img/4xtXWA3SnTajsD5_.jpg" width="600" alt="Seedance 2.0 Mini Ancient Chinese Xianxia Comedy Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13439)**
+
+**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2117171375064719437) | **Published:** Nov 2, 2026
+
+---
+### Seedance 2.0 Mini Cinematic Xianxia Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for generating a 15-second cinematic Chinese Xianxia (immortal hero) short film using Seedance 2.0 Mini. It specifies character consistency across reference images, camera movements, lighting styles (Arri Alexa quality), and a three-act narrative structure involving memory loss and emotional reversal.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | "Recognize Each Other Again"
+
+Model: Seedance 2.0 Mini
+Duration: Strictly 15 seconds
+Aspect Ratio: 16:9 Landscape
+Type: Pure Ancient Chinese Xianxia / Emotional Twist / Psychological Suspense / Character Relationship Drama
+Structure: Three continuous, clear cinematic shots with different narrative functions.
+I. Overall Style and Creative Direction
+Cinematic-grade hyper-realistic ancient Chinese Xianxia short film.
+Construct an emotional twist with a whimsical color using the following elements:
+Grand but realistic Xianxia world
+Restrained character performance
+Strong relationship contrast
+Precise camera language
+Photography and visual texture
+Adopt:
+Arri Alexa cinema camera texture
+Realistic human skin
+Delicate silk materials
+Natural volumetric light
+Aerial perspective
+Real spatial depth
+II. Core Plot and Emotional Twist
+Story Core
+A person finally achieves immortality, but at the moment of ascending to heaven, forgets the person they least wanted to forget.
+The Sword Immortal Senior Sister is about to ascend.
+The Heavenly Envoy brings the Ascension Decree.
+The cost is:
+Sever all mortal memories.
+When the decree takes effect, the Senior Sister truly forgets the Junior Sister.
+However, she ultimately severs the ascension contract on her own initiative.
+The Real Twist
+The Senior Sister does not recover her memory.
+She simply chooses the person in front of her again.
+Final Emotional Landing Point
+"No. Let's get to know each other again."
+This line does not appear prematurely; it falls naturally only in the final close-up.
+Narrative Principle
+The entire segment drives the story through character relationships.
+Do not rely on:
+Large-scale magic
+Long explanations
+Sudden background changes
+III. Character Identity and Core Asset Lock
+Character A | @Image1 | Sword Immortal Senior Sister
+Identity
+The same adult East Asian female, aged 25-30.
+Strictly inherit the character identity and facial features from the reference image.
+Fixed Appearance
+Fair natural oval face
+Dark apricot eyes
+Black long hair half-tied
+Secured with a white jade hairpin
+Tall and slender figure
+Fixed Clothing
+White embroidered real silk Hanfu
+Semi-transparent layered wide sleeves
+Silver waist seal
+Jade pendant
+White cloth boots
+Exclusive Weapon
+The only silver long sword.
+Asset Continuity
+The following must remain consistent throughout:
+Face
+Hairstyle
+Body shape
+Clothing
+Silver sword
+Jade pendant
+Character B | @Image2 | Junior Sister
+Identity
+The same adult East Asian female, aged 20-25.
+Strictly inherit the character identity and facial features from the reference image.
+Fixed Appearance
+Round and bright face
+Black braided long hair
+Petite figure
+Fixed Clothing
+Greenish-blue linen Hanfu
+Dark belt
+Wooden hairpin
+Black cloth shoes
+Exclusive Weapon
+The only dark steel sword.
+Action Restriction for This Segment
+The Junior Sister does not need to draw her sword in this film.
+IV. New Supporting Characters
+Heavenly Envoy
+An adult ancient-style envoy with a solemn demeanor.
+Clothing
+Low-key luxurious light gold ceremonial robe.
+Core Prop
+Holding a scroll of golden silk Ascension Decree in hand.
+Performance Requirements
+His majesty comes from:
+Stable posture
+Calm voice
+No exaggerated immortal aura effects needed.
+Elder Master
+Located in the back, witnessing the choices of the two disciples.
+Sect Disciples
+Two sect disciples located further away, serving as natural witnesses in the environment.
+Common Restrictions for Supporting Characters
+All three types of supporting characters must not occupy the protagonist's performance space.
+V. Background and Environment DNA
+All background and location reference images uploaded this round jointly define the physically existing world.
+Environment Planning
+Establish unified spatial logic based on reference images.
+Must preserve:
+Terrain identity
+Architectural layout
+Material age
+Vegetation
+Water bodies
+Weather
+Cloud layers
+Main light direction
+Reflection relationships
+Overall color scheme
+Air depth
+Camera and Spatial Changes
+Allow re-searching for suitable:
+Camera positions
+Depth of field
+Character positioning
+Not every shot needs to display all landmarks simultaneously.
+But important buildings, natural terrain, and light directions must be spatially continuous.
+Living Background Principle
+Background remains continuously natural and vibrant.
+Natural Dynamics
+Wind pushing leaves
+Clouds and mist flowing naturally
+Hair strands moving with wind
+Sleeves swaying naturally
+Water bodies and reflections maintaining real motion
+Distant figures can have natural activities
+Environmental Narrative Neutrality
+The background only bears the presence of the real world.
+It does not bear the function of driving the plot.
+Only Supernatural Plot Element
+The only supernatural factor directly affecting the plot in this film is the Heavenly Ascension Decree.
+VI. Complete 15-Second Three-Shot Structure
+0-5s | Shot 1: The Cost of Ascension
+Shot Size
+Wide Shot
+Camera Movement
+Camera slowly advances along the ritual space.
+Opening State
+Starts directly into the ascension ceremony.
+The Sword Immortal Senior Sister and Junior Sister stand side by side.
+The Heavenly Envoy is in front of them, unfolding an old and luxurious golden silk Ascension Decree.
+The Master and several disciples can be seen in the distance.
+First Plot Node: Declaring the Cost
+The Envoy solemnly declares:
+[Envoy] "Accept the decree, and forget your past."
+Senior Sister's Reaction
+After hearing this, the Senior Sister shows no fear.
+She turns her head to look at the Junior Sister.
+Her gaze is gentle, carrying the familiarity of long-term coexistence.
+[Senior Sister] "A-Ning, wait for me."
+Second Plot Node: Actively Accepting the Decree
+Subsequently, the Senior Sister actively extends her right hand to accept the decree.
+An extremely fine golden light thread slowly emerges from the edge of the decree.
+The light thread naturally extends and attaches to the Senior Sister's wrist.
+At this moment, the decree begins to take effect.
+Third Plot Node: Memory Disappearance
+Do not portray it as being struck by lightning or forcibly controlled by spells.
+The Senior Sister only exhibits an extremely brief blank expression.
+The warmth in her eyes looking at the Junior Sister suddenly disappears.
+End of Shot
+Cut to the Junior Sister's eyes noticing the anomaly.
+Director Focus for Shot 1
+Show the sudden rupture from familiarity to strangeness through the eye change of the same character.
+No exaggerated magic special effects needed.
+5-10s | Shot 2: She Really Forgot
+Shot Size
+Medium Close-Up
+Camera Movement
+Slight lateral tracking to keep facial expressions and the golden light thread clear.
+Continuity Requirement
+Always maintain:
+Same space
+Same decree scroll
+Same golden light thread
+Same Sword Immortal Senior Sister
+First Plot Node: Total Strangeness
+The Senior Sister slowly turns her head to look at the Junior Sister.
+Her expression has no malice, nor demonic ferocity.
+Just complete strangeness.
+As if standing before a passerby she has never known.
+The Senior Sister asks softly:
+[Senior Sister] "Miss, who are you?"
+Junior Sister's Real Reaction
+The Junior Sister freezes instantly.
+She originally wanted to speak.
+But after her lips slightly parted, nothing came out.
+This sudden strangeness is more impactful than direct crying.
+Second Plot Node: Envoy's Urging
+The Envoy calmly says nearby:
+[Envoy] "Mortal ties are severed, please ascend the immortal path."
+Third Plot Node: Habitual Contact
+The Junior Sister looks at the Senior Sister.
+Instinctively reaching out, she gently supports the Senior Sister's sword-holding wrist, which is still trembling slightly.
+This is a natural habit formed by their long-term coexistence.
+Senior Sister's Physical Reaction
+Although the Senior Sister no longer recognizes her, she does not reject this contact.
+She unconsciously relaxes her wrist, allowing the Junior Sister to hold it.
+Brief pause.
+Fourth Plot Node: Discovering the Immortal Contract
+The Senior Sister's gaze moves from the Junior Sister's hand to the golden light thread still connecting to the decree on her own wrist.
+She realizes:
+This stranger in front of her seems to have had a very deep relationship with her.
+She makes a choice.
+End of Shot
+Cut to her hand holding the sword.
+Director Focus for Shot 2
+Complete the psychological change through these three actions:
+The Senior Sister looks completely strange when looking at the Junior Sister.
+The Junior Sister holds her wrist, and the Senior Sister instinctively relaxes.
+The Senior Sister discovers the golden light thread connecting to the decree.
+Do not arrange memory flashbacks.
+Do not let the Senior Sister suddenly regain familiar gaze.
+10-15s | Shot 3: Recognize Each Other Again
+Shot Size
+Close-up of characters, finally converging to a close-up of hands.
+First Plot Node: Actively Severing the Immortal Contract
+The Senior Sister slowly withdraws her wrist from the Junior Sister's hand.
+She does not walk towards the Heavenly Envoy.
+Instead, she draws the silver long sword with her right hand.
+The Envoy initially thought she was preparing to complete the ascension.
+But in the next instant, the Senior Sister turns the blade of the silver sword towards the golden light thread connecting her wrist.
+Key Action
+One clean, precise slash.
+The light thread breaks instantly.
+Golden thin light dissipates naturally.
+The faint glow originally emitted by the decree also extinguishes.
+Audio-Visual Processing
+Do not include:
+Big explosions
+Thunderbolts
+Exaggerated magic impacts
+Only need:
+A clear cutting action, followed by silence.
+Second Plot Node: Junior Sister Thinks Memory Is Recovered
+The Junior Sister looks at the Senior Sister.
+Hope reappears in her eyes.
+She asks softly:
+[Junior Sister] "Did you remember?"
+Pause
+Leave a full natural pause.
+Third Plot Node: The Real Twist
+The Senior Sister looks at her.
+There is no miraculous sudden recovery of all memories.
+She just calmly answers:
+[Senior Sister] "No."
+The Junior Sister's gaze dims slightly.
+Just when she thinks everything is over, the Senior Sister slowly lowers her long sword.
+Extends her empty left hand towards her.
+Voice very soft:
+[Senior Sister] "Let's get to know each other again."
+Fourth Plot Node: Re-handshake
+The Junior Sister freezes.
+Then, she finally slowly places her hand into the Senior Sister's palm.
+Performance Restrictions
+No:
+Rushing to hug
+Exaggerated crying
+Only two hands naturally clasping together.
+Background Character Status
+In the shallow depth of field behind, the Heavenly Envoy still stands in place.
+The Elder Master slowly lowers his gaze.
+Final Frame
+Camera stays on:
+Two hands naturally clasping together.
+The broken golden light thread is slowly dissipating in the air behind.
+Final Emotional Landing Point
+The Senior Sister has lost her past memories.
+But she personally chose a new beginning.
+VII. Seedance 2.0 Mini Unified Execution Requirements
+Video Specifications
+Strictly 15 seconds
+16:9 Landscape
+Three explicit shots
+Three-segment narrative structure
+Time Shot Size Core Event 0-5s Wide Shot Ascension ceremony, decree takes effect, memory starts disappearing 5-10s Medium Close-Up Senior Sister completely forgets Junior Sister, emotional relationship breaks 10-15s Close-up to Hand Close-up Senior Sister actively severs immortal contract, choosing her again without recovering memory
+VIII. Complete Dialogue and Lip Sync
+Dialogue Rules
+Native synchronized Mandarin
+Precisely match character lip movements
+Strictly keep specified characters speaking
+Do not add temporary explanatory lines
+Do not add off-screen narration
+0-5s
+[Envoy] "Accept the decree, and forget your past."
+[Senior Sister] "A-Ning, wait for me."
+5-10s
+[Senior Sister] "Miss, who are you?"
+[Envoy] "Mortal ties are severed, please ascend the immortal path."
+10-15s
+[Junior Sister] "Did you remember?"
+[Senior Sister] "No. Let's get to know each other again."
+Performance Rhythm for Last Line
+"No. Let's get to know each other again."
+Allow one natural pause in between.
+Must ensure:
+"No" expresses that memory indeed did not recover
+The pause retains the Junior Sister's sense of loss
+"Let's get to know each other again" completes the true emotional twist
+Time Limit
+The last line cannot artificially lengthen dialogue, occupying time for other actions.
+IX. Four Layers of Hard Continuity Constraints
+1. Character Continuity
+For both protagonists, the following must remain consistent throughout:
+Facial identity
+Hairstyle
+Clothing
+Body shape
+Weapon
+Special Requirement
+The Senior Sister must keep the same face before and after amnesia.
+Differentiate memory states only through subtle changes in gaze and expression.
+2. Prop Continuity
+Must always be:
+The same golden silk decree scroll
+The same golden light thread
+The same silver sword
+Immortal Contract State Change
+Decree takes effect → Light thread connects wrist → Senior Sister draws sword → Light thread cut → Light thread naturally dissipates
+After the light thread is cut, it cannot reappear in a fully connected state.
+3. Action Continuity
+The Senior Sister must complete actions in the following causal order:
+Actively accept decree
+Lose memory
+Observe Junior Sister and light thread
+Draw sword
+Cut light thread
+Reach out to Junior Sister
+All actions have clear cause-and-effect sequences.
+4. Emotional Continuity
+Characters' emotions experience sequentially:
+Familiarity and expectation → Sudden strangeness → Difficulty accepting → Re-choice → Restrained relief
+Do not allow character emotions to jump without cause.
+X. Immortal Contract Visuals and Supernatural Effects
+Golden Light Thread
+The golden light thread must be:
+Delicate
+Realistic
+Not obscuring character faces
+Maintain continuous connection with the same decree scroll
+Maintain correct spatial relationship with Senior Sister's wrist
+Cutting Effect
+After the sword tip cuts the light thread:
+Light thread breaks
+Golden thin light dissipates naturally
+Original glow of decree extinguishes accordingly
+Visual Restrictions
+Do not add:
+Large-scale light bursts
+Thunder
+Exaggerated spell impacts
+Irrelevant magic special effects
+XI. Character Micro-Performances
+Senior Sister
+Before Amnesia
+Gentle gaze
+Naturally familiar with Junior Sister
+Composed expression
+After Amnesia
+No malice
+No demonization
+Truly strange gaze
+Does not reject Junior Sister's natural contact
+Final Decision
+Actively severs immortal contract
+Does not recover memory
+Calmly chooses the Junior Sister in front of her again
+Junior Sister
+Shot 1
+Has expectations for Senior Sister's ascension.
+Shot 2
+Turns from confusion to difficulty accepting.
+Lips slightly part, but cannot speak.
+Shot 3
+Regains hope due to contract severance
+Short-lived disappointment after hearing "No"
+Re-understands Senior Sister's choice after hearing "Let's get to know each other again"
+Finally actively places hand in Senior Sister's palm
+Performance Principle
+Express through micro-expressions, eye contact, breathing, and hand movements.
+Do not create emotional climaxes through exaggerated crying or hugging.
+XII. Photography and Environmental Continuity
+Photography
+Three shots maintain explicit functions:
+Shot 1
+Establishes ascension ceremony and memory break.
+Shot 2
+Observes character emotions and golden light thread via medium close-up.
+Shot 3
+Completes active choice via close-up and hand close-up.
+Environment
+Environment remains continuously natural and vibrant.
+Including:
+Natural wind
+Leaves
+Clouds and mist
+Hair strands
+Sleeves
+Water bodies
+Reflections
+Distant figure activities
+Environment does not actively influence the plot.
+XIII. Sound Design
+Dialogue
+Native synchronized Mandarin.
+Requirements:
+Accurate Chinese lip sync
+Clear character voices
+Realistic breathing feel
+Natural dialogue
+Background Music
+Score uses extremely light Xianxia atmosphere as base tone.
+Significantly lowers after:
+"Miss, who are you?"
+Contract Severance
+At the moment of contract severance, retain only:
+One slight and clear metallic air-cutting sound
+Light thread breaking sound
+Last Line
+"Let's get to know each other again."
+Must be:
+Clear
+Clean
+With realistic breathing feel
+XIV. Strict Prohibitions
+Do not add hugs
+Do not add screaming/crying
+Do not add narration
+Do not add flashbacks
+Do not add modern elements
+Do not add extra characters
+Do not generate subtitles
+Do not perform large-scale magic displays
+Do not let environment actively drive plot
+Do not change character facial identities
+Do not change character clothing and weapons
+Do not let broken light threads reconnect
+Do not let Senior Sister suddenly recover memory
+XV. Final Generation Principles
+Audience must clearly see:
+Senior Sister actively accepts ascension decree.
+Decree truly takes away her memory of Junior Sister.
+Junior Sister's habitual contact makes Senior Sister realize they once had a deep relationship.
+Senior Sister actively severs immortal contract.
+Severing contract does not restore lost memories.
+Senior Sister still actively chooses to get to know Junior Sister again.
+The two finally shake hands naturally.
+Final Emotional Requirement
+Even if memory disappears, the two can still rebuild their relationship.
+All plot, actions, dialogues, and emotional twists strictly obey Seedance 2.0 Mini's complete 15-second duration.
+XVI. Negative Prompt
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117159174383783936/img/GrBy3y7uTplAwyq4.jpg" width="600" alt="Seedance 2.0 Mini Cinematic Xianxia Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13437)**
+
+**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2117159952251040147) | **Published:** Nov 2, 2026
+
+---
+### Seedance 2.0 Mini Xianxia Short Film Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for generating a 15-second cinematic xianxia short film using Seedance 2.0 Mini, featuring character consistency, specific lighting, and emotional narrative arcs.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | "Thirty Years of Lifespan"
+
+Model: Seedance 2.0 Mini
+Duration: Strictly 15 seconds
+Aspect Ratio: 16:9 Landscape
+Genre: Pure Ancient Chinese Xianxia / Psychological Suspense / Emotional Twist / Character Relationship Drama
+Structure: Three consecutive complete shots
+I. Prompt | Overall Style and Creative Direction
+Cinematic realistic quality, pure ancient Chinese Xianxia aesthetics.
+Overall reference:
+Mature film psychological suspense structure
+
+Wuxia character relationships
+
+Real emotional performance
+
+Restrained audiovisual scheduling
+
+Visuals use:
+
+Natural volumetric light
+Real skin micro-details
+High-quality silk and metal materials
+Cinematography with spatial depth
+
+II. Core Plot and Emotional Twist
+
+Main Storyline
+The junior sister broke through three realms in one night, thinking she could finally catch up to the senior sister, but discovered she traded thirty years of lifespan for this rapid growth.
+She ultimately voluntarily abandoned her cultivation.
+And the senior sister, whom she had always seen as her target to chase, walked towards her for the first time.
+
+True Emotional Conflict
+
+The true conflict happens within the characters.
+
+Junior Sister
+Desires strength
+Afraid of never catching up to the senior sister
+Excited by suddenly gained powerful cultivation
+Must independently make a decision after discovering the cost
+
+Lifespan-Borrowing Daoist
+The Lifespan-Borrowing Daoist exploits the junior sister's anxiety.
+
+Senior Sister
+The senior sister ultimately:
+Did not pay the price for the junior sister
+Did not persuade her with long lectures
+Did not make decisions for her
+
+She only used a specific action to tell the junior sister:
+The distance between them never needed the junior sister to desperately shorten alone.
+
+III. Characters and Asset Locking
+
+Character A | @Image1 | Sword Immortal Senior Sister
+Same Sword Immortal Senior Sister:
+25-30 year old adult East Asian female
+Fair soft oval face
+Bright natural dark apricot eyes
+Real delicate skin
+Black hair half-tied
+White jade hairpin
+Tall slender figure
+Fixed Costume
+White embroidered silk Hanfu
+Semi-transparent layered wide sleeves
+Silver waist seal
+Jade pendant
+White cloth boots
+Exclusive Weapon
+Only one silver long sword.
+Character Temperament
+Calm
+Awake
+Introverted
+Emotions conveyed through:
+Gaze
+Breathing
+Extremely subtle movements
+
+Character B | @Image2 | Junior Sister
+Same Junior Sister:
+20-25 year old adult East Asian female
+Round lively facial contours
+Black braided hair
+Real natural young female appearance
+Fixed Costume
+Blue-green linen Hanfu
+Dark belt
+Wooden hairpin
+Black cloth shoes
+Exclusive Weapon
+Only one dark steel sword.
+Character State
+At the beginning, excited because she suddenly gained powerful cultivation.
+Obviously shocked after discovering the cost.
+Then independently makes a decision.
+New Supporting Roles
+Elder Lifespan-Borrowing Daoist
+Calm expression
+With a sense of danger
+Exploits the junior sister's desire for strength
+Distant Sect Disciples
+Two distant sect disciples as quiet background witnesses.
+Supporting Role Restrictions
+Supporting roles do not steal the visual subject status of the two heroines.
+
+IV. Core Prop | Bronze Lifespan-Borrowing Scale
+
+Prop Composition
+An antique bronze Lifespan-Borrowing Scale.
+Floating above the scale:
+Three golden realm pearls of identical size and material.
+Realm Pearl Settings
+The three realm pearls correspond to the borrowed triple cultivation.
+The borrowing relationship is expressed through:
+Bronze scale
+Three realm pearls
+Changes in spiritual power on the characters
+Visual Requirements
+Do not rely on readable generated text.
+
+V. Environment DNA and Spatial Planning
+
+All newly uploaded background and location reference images determine the actual physical world.
+Environment Inheritance
+Synthesize from reference images:
+Real terrain
+Main architectural spatial relationships
+Scale
+Materials
+Vegetation
+Water bodies
+Weather
+Clouds/Mist
+Light direction
+Colors
+Reflections
+Air depth
+Naturally place the Lifespan-Borrowing Scale at positions consistent with the original scene's physical relationships.
+Hard Scene Requirements
+Do not reset the reference background into an unfamiliar generic Xianxia scene.
+Living Background Principle
+The following elements always change naturally:
+Wind
+Clouds/Mist
+Water surface
+Distant vegetation
+Clothing fabric
+Environmental sounds
+Environment remains:
+Alive
+Complete
+With real spatial vitality
+Narrative Neutral
+The environment cannot:
+Actively create conflict
+Decide character fate
+
+VI. 15-Second Complete Storyboard
+0-5s | First Shot: Long shot pushing to medium shot | Breaking Realms Overnight, Cost Exposed
+Camera Language
+Camera slowly pushes forward from a slightly low three-quarter angle.
+Foreground Props
+In the foreground is an ancient bronze scale.
+Three golden realm pearls float above the pans, emitting soft but not exaggerated golden spiritual light.
+Character Positioning
+Junior Sister stands next to the scale, eyes still retaining the surprise of breaking three realms overnight.
+Senior Sister stands behind and to the side.
+Lifespan-Borrowing Daoist stands near the scale, raising his eyes.
+First Layer Twist: Cost Exposed
+The Daoist speaks calmly unsettlingly.
+[Daoist] "One night, three realms. Thirty years of lifespan."
+Junior Sister Reaction
+Her smile instantly disappears.
+She doesn't step back immediately, but instinctively looks at the three golden realm pearls.
+[Junior Sister] "You didn't say I'd have to pay with my life!"
+Senior Sister Reaction
+The camera uses a slight focus shift to make the senior sister suddenly look at the bronze scale.
+End of First Shot
+The first shot ends with the junior sister's shock.
+Director Focus
+Reveal the huge cost immediately at the start
+Do not add meaningless magic displays
+Three realm pearls and one sentence make the audience understand what so-called genius breakthrough really means.
+
+5-10s | Second Shot: Medium Close-up | Voluntarily Returning Realms
+Camera Language
+Maintain the same axis of character movement.
+Camera cuts to the side of the bronze scale.
+The frame simultaneously contains:
+Senior Sister
+Junior Sister
+Lifespan-Borrowing Daoist
+Upper bodies of the three.
+Senior Sister Confirms Possibility of Return
+The senior sister does not blame the junior sister.
+She just looks at the Daoist and asks directly:
+[Senior Sister] "Can it be returned?"
+The Daoist nods gently.
+[Daoist] "Return the realms, repay the lifespan."
+Junior Sister's Voluntary Decision
+The junior sister looks at the three realm pearls she already possesses.
+At this moment, do not arrange for the senior sister to help her make the decision.
+The junior sister reaches out herself, takes the three realm pearls from their floating position, and places them back onto the scale pans one by one.
+[Junior Sister] "Return."
+Physical and Visual Process of Cultivation Return
+The golden light on the surface of the three realm pearls converges inward.
+The strong spiritual power originally on the junior sister flows back accordingly.
+She voluntarily loses the three realms she just gained.
+Borrowing Relationship Dissolved
+All borrowed cultivation is returned
+The debt of thirty years of lifespan is dissolved
+Character Continuity
+Characters do not suddenly:
+Age
+Deform
+Change clothes
+Director Focus
+The power of this scene comes from a voluntary choice.
+The junior sister did not:
+Return realms under the senior sister's command
+Wait for others to bear the cost for her
+She picked up the realm pearls herself and put them back herself.
+The camera expresses this process through:
+Real hand movements
+Clear spiritual power flow-back
+
+10-15s | Third Shot: Close-up Pushing to Character Special | The True Distance
+Opening State
+The three realm pearls are quietly lying in the bronze scale pans again.
+The Lifespan-Borrowing Daoist looks at the junior sister whose cultivation has returned to its original state.
+The Daoist tries to shake her resolve one last time
+[Daoist] "Then how will you catch up to her?"
+Junior Sister's True Fear
+The junior sister looks at the white-robed senior sister.
+Her fingers gripping the sword scabbard tighten slightly.
+[Junior Sister] "I..."
+Voice stops.
+She is indeed afraid.
+She once thought:
+Only by catching up to the senior sister's cultivation would she be qualified to stand by her side forever.
+True Emotional Twist: Senior Sister Walks Closer
+Just then, the senior sister does not continue standing in place.
+She voluntarily walks towards the junior sister.
+[Senior Sister] "?"
+Camera Movement
+The camera slightly follows the senior sister's movement.
+She finally stops beside the junior sister, standing on the same horizontal line as her.
+[Senior Sister] "I am right here."
+Junior Sister's Final Reaction
+The junior sister slowly raises her head.
+Emotional changes occur sequentially:
+Surprise
+Relief
+A very light, natural smile
+Performance Limits
+No:
+Hugging
+Crying
+Exaggerated declarations
+Ending State
+The bronze scale returns to calm.
+The Lifespan-Borrowing Daoist does not speak again.
+The final image stays on:
+The state of the two standing side by side.
+
+VII. Final Emotional Landing Point
+The junior sister lost the borrowed triple realms.
+The person she truly wanted to catch up to came to her side voluntarily.
+Results Must Be Truly Preserved
+After the story ends:
+Cultivation does not suddenly recover
+The Lifespan-Borrowing Daoist does not give hidden rewards
+The debt of thirty years of lifespan is dissolved
+The relationship between the two changes through real actions
+The costs and results of all choices are truly preserved.
+VIII. Seedance 2.0 Mini Execution Constraints
+Video Specifications
+Strictly 15 seconds
+16:9 Landscape
+Three consecutive complete shots
+Shot Structure
+Time | Shot Size | Narrative Function
+0-5s | Long to Medium | Breaking Realms Overnight, Cost Exposed
+5-10s | Medium Close-up | Junior Sister Voluntarily Returns Realms
+10-15s | Close-up to Special | Senior Sister Walks Closer
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117151444751290368/img/PMwAHzpHjgEfkRHF.jpg" width="600" alt="Seedance 2.0 Mini Xianxia Short Film Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13434)**
+
+**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2117152909758730271) | **Published:** Nov 2, 2026
+
+---
+### Seedance 2.0 Mini Xianxia Battle Short Film
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Detailed prompt for Seedance 2.0 Mini creating a 15-second hyper-realistic Chinese Xianxia cavalry battle short film titled 'Seizing the Order'. Focuses on physical realism, camera movement, and combat choreography without dialogue.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | 15-second Chinese-style Xianxia high-speed cavalry combat short film
+Title Feel: "Seizing the Order"
+Basic Specifications
+Duration: Strictly 15 seconds
+Aspect Ratio: 16:9 Horizontal
+Model: Seedance 2.0 Mini
+Style: Cinematic hyper-realistic Chinese-style Xianxia action short film
+No dialogue / No subtitles / No titles / No UI
+I. Overall Style and Combat Core
+Cinematic hyper-realistic Chinese-style Xianxia action short film.
+Based on the physics of real ancient cavalry speed, weapon length, warhorse inertia, and turning space, combined with Chinese Xianxia short-distance lightness skills (Qinggong), sharp swordsmanship, dynamic cinematography, and instantaneous bursts.
+Cinematography References:
+
+Classic Wuxia widescreen spatial staging
+King Hu-style sudden action editing
+Modern action film low-angle tracking, strong parallax, rapid switching of motion axes, and clear impact feedback
+Core Combat Objective
+The White-robed Sword Immortal must seize the military order flag from a heavily armored cavalry general charging at high speed, without harming the warhorse.
+Core Conflict Logic
+The cavalry general uses warhorse speed + long spear attack range to protect the military order flag.
+The Senior Sister uses short-distance directional change capabilities to actively cut into the opponent's movement route before the general completes his turn.
+Finally, successful seizure of the flag is completed through one continuous high-speed engagement.
+Must-Be-Met Action Principles
+Continuous high-speed movement throughout the film.
+The enemy must actively attack and adjust strategies.
+No standing still, no waiting for counters.
+Do not use previously repeated tropes: Disarming
+Throat suppression
+Dual sword swapping
+Weapon locking
+
+The climax comes from: Completing the task during high-speed movement.
+II. Core Assets and Character Locking
+Character A | @Image1 | Senior Sister
+Strictly use the original adult East Asian female identity and appearance from Image 1:
+Same face
+Original facial proportions
+Black hair
+White Xianxia clothing
+Silver waist ornament
+Original body proportions
+One unique silver long sword
+Requirements:
+Protagonist's face and clothing remain consistent.
+Real facial contours visible even during high-speed movement.
+Black hair has natural inertia during acceleration, sudden stops, and turns.
+Character B | @Image2 | Junior Sister
+Strictly use the original adult East Asian female identity and appearance from Image 2:
+Same face
+Black braided hair
+Teal-green ancient style clothing
+Original body proportions
+Original carried sword
+Requirements:
+This segment mainly serves as a close-range witness.
+Only participates in the emergency evasion at the opening.
+Does not undertake complex weapon engagements.
+Enemy Cavalry General
+An ancient-style cavalry general wearing dark metal armor.
+Holding a long spear (Mao).
+Riding a single tall, sturdy dark brown warhorse.
+Fixed behind the saddle is a dark red military order flag.
+The military order flag has no readable text.
+Requirements:
+Cavalry general, warhorse, long spear, and military order flag maintain necessary appearance and object continuity within this segment.
+No need for extra fine-locking of the general's face shape and armor patterns.
+Do not add a second cavalryman.
+III. Environment and Scene DNA
+All location reference images uploaded this time jointly determine the environment DNA.
+Before formal generation, deduce and unify based on reference images:
+Real terrain
+Building layout
+Vegetation
+Water bodies
+
+Materials
+Lighting
+Weather
+Mountain mist
+Spatial depth
+From areas that truly exist or can be reasonably deduced from the reference images, select a passage or open terrain sufficient for the warhorse to run and turn.
+Continuity Requirements
+The following originally existing relationships remain consistently connected:
+Main buildings
+Landforms
+Roads
+Water bodies
+Plants
+Light and shadow relationships
+The camera can observe the same location from different directions,
+but cannot suddenly switch to a new generic Xianxia scene.
+Living Background Requirements
+The following elements continue to move naturally:
+Wind
+Water flow
+Clouds and mist
+Clothing fabric
+Vegetation
+Reflections
+Distant environment
+Environmental Narrative Principle
+The environment remains narratively neutral:
+Does not suddenly create obstacles.
+Does not suddenly create opportunities.
+Does not fight for the protagonist.
+Does not decide victory or defeat for either side.
+Permitted Passive Physical Feedback:
+Warhorse stomping generates dust, mud water, road debris.
+Character movement generates hem fluttering, hair movement, landing traces.
+Continuity Requirement:
+Already generated clothing damage, hoof prints, and movement traces remain continuous.
+IV. Storyboard Script (15 Seconds)
+0–5s | Heavy Cavalry Raid: Danger from the first glance
+Shot 1 | 0.0–1.0s | 24mm Low-Angle Wide Shot
+Camera close to the road surface.
+The same real ancient-style road extends into the depth of the screen.
+Screen Relationship:
+Senior Sister stands on one side of the road holding a silver sword.
+Junior Sister is slightly behind her.
+In the distance, the heavy-armored cavalry general rides a dark brown warhorse charging at high speed.
+The dark red military order flag behind the saddle flutters violently.
+The general lowers the long spear, tip pointing directly at Senior Sister.
+The warhorse's four hooves kick the ground continuously; shoulders, neck, and mane are affected by real running inertia.
+The heavy hoofbeats of the galloping warhorse approach rapidly, creating strong scale pressure between near and far distances.
+
+Shot 2 | 1.0–2.8s | 28mm Ground-Level High-Speed Side Tracking
+The camera suddenly moves at high speed to the front-side of the warhorse.
+Hooves thunder past near the camera; dust or splashes under the hooves scatter violently backward according to real ground material.
+The screen depth simultaneously includes:
+Warhorse chest and shoulders
+General's armor pieces
+Long spear
+Red military order flag behind
+The general suddenly changes his grip angle on the spear, launching a fierce straight thrust at Senior Sister.
+The spear tip passes quickly through the foreground of the camera.
+Hard cut at the moment the weapon completely obscures the screen.
+Shot 3 | 2.8–5.0s | 35mm Side Close-Up
+Senior Sister suddenly explodes into a lateral step-cut at the last moment.
+She does not block the high-speed warhorse head-on, nor counterattack towards the horse's body.
+Action Chain:
+
+Pushes Junior Sister away from the running path with her arm while spinning to dodge the long spear.
+The silver sword only briefly alters the spear tip's motion trajectory.
+The general immediately swings the long spear back along the momentum; the blade grazes the outermost layer of Senior Sister's wide sleeve, cutting a small piece of white thin gauze.
+Silk threads are pulled backward by the high-speed airflow.
+The warhorse continues galloping forward.
+Senior Sister lands and immediately turns around, her gaze quickly locking onto the military order flag behind the saddle.
+Focus of First Segment
+Must highlight:
+Cavalry truly possesses speed advantage.
+Long weapons truly possess attack range advantage.
+Senior Sister is currently still suppressed.
+5–10s | Reverse Pursuit: From Evasion to Interception
+
+Shot 4 | 5.0–7.2s | 35mm Lateral High-Speed Tracking
+The general continues rushing forward, beginning a natural large-radius turn in an area sufficiently wide ahead on the road.
+The warhorse must adjust according to real running and turning mechanisms:
+Stride frequency
+Body tilt
+Four hoof placements
+Forbidden: Warhorse suddenly turning in place.
+Senior Sister does not chase straight behind the horse.
+After seeing the general's turning direction, she suddenly accelerates diagonally, seizing position along the inner side of the opponent's turning route.
+
+Camera tracks closely from her lower back/side at high speed.
+White wide sleeves spread violently backward; shoe soles continuously tread over real ground.
+She utilizes a brief, visibly tracked Xianxia leap (Qinggong) to cross a reasonable height difference in the original terrain or accelerate directly along the ground.
+Must retain:
+Clear take-off point
+Clear motion route
+Clear landing point
+Forbidden: Teleportation.
+Shot 5 | 7.2–8.5s | 28mm Diagonal Upward Medium-Wide Shot
+The camera quickly rises to a position where both motion routes are clearly visible.
+The screen clearly shows:
+The general continuing to turn along a larger arc.
+Senior Sister cutting in along a shorter diagonal line.
+Two motion directions intersecting.
+The dark red military order flag always fluttering violently behind the general.
+The general has realized Senior Sister is intercepting.
+He actively shortens his grip on the long spear and adjusts his posture on the horse.
+
+Shot 6 | 8.5–10.0s | 50mm High-Speed Impact Close-Up
+As Senior Sister approaches, the general actively thrusts the long spear again.
+Senior Sister raises the silver sword to meet it.
+Metal collision emits an extremely short, sharp sound.
+
+The silver sword does not bear the full charge force head-on, but only changes the spear tip's direction.
+Even so, the impact causes a noticeable force offset in Senior Sister's entire upper body.
+She quickly adjusts her steps and center of gravity.
+The enemy does not stop; the warhorse continues running.
+Both sides' motion directions begin to approach parallel.
+
+Focus of Second Segment
+Combat initiative begins to reverse, but danger remains.
+Senior Sister is not overwhelmingly winning, but competing for time and route.
+10–15s | One Sword Seizes the Order: Decisive Victory in High-Speed Movement
+Shot 7 | 10.0–12.0s | 35mm Close-Distance Parallel Tracking
+The general presses down the long spear again, attempting to block Senior Sister in front of him.
+Senior Sister does not continue attacking the general's body.
+She suddenly accelerates along the side of the warhorse.
+The camera maintains brief parallelism with the warhorse.
+The screen simultaneously shows:
+High-speed running horse legs
+General stable in the saddle
+
+Long spear controlled by the general
+Senior Sister and silver sword approaching rapidly
+The general perceives her true target is the military order flag.
+Immediately pulls back the long spear, trying to seal off her approach to the saddle position.
+At the last moment, Senior Sister suddenly changes her body height, ducking low past the long spear's attack line.
+The plane of the silver sword briefly deflects the spear tip again.
+Here, continuous heavy blocking is not needed;
+only one clear, fierce, realistic weapon contact is required.
+Shot 8 | 12.0–13.5s | 50mm Sudden Close-In, Weapon Obscuration Hard Cut
+The long spear sweeps across the front of the lens.
+Utilize weapon obscuration to complete an extremely fast hard cut.
+The next frame cuts directly to:
+Medium-close shot of Senior Sister and the general nearly parallel.
+She completes a clearly visible short-distance Qinggong acceleration;
+the silver sword swiftly cuts out from behind her body.
+The sword edge only severs the leather strap of the military order flag behind the saddle.
+Strictly Forbidden:
+Attacking the warhorse
+Attacking the general's body
+
+Damaging load-bearing parts of the tack
+A very short silver-white sword light slices along the leather strap.
+The severed ends of the strap snap apart instantly due to tension.
+The dark red military order flag abruptly detaches from the saddle.
+The flag surface is lifted backward by high-speed airflow.
+Senior Sister reaches out precisely to grab the flagpole or strap,
+naturally completing the landing during continued movement.
+The entire set of actions must be seamless;
+cannot stop to show a sword-wielding pose.
+
+Shot 9 | 13.5–15.0s | 24mm High-Speed Pull-Back to Wide Shot
+Due to original motion inertia, the general and warhorse continue running forward along the road.
+The general instinctively reaches back toward the saddle rear.
+The position where the military order flag was tied is now empty.
+He whips around violently.
+The camera does not follow him stopping, but pulls back at high speed, re-presenting the spatial relationship of the entire road and the same environment.
+Foreground of Screen:
+Senior Sister has landed stably
+but continues taking one step forward in the direction of progress
+Dark red military order flag flutters violently in the wind in her hands
+White hem, black hair, torn sleeve cuff continue moving
+Mid-to-Background:
+Junior Sister still stands at the safe position she evaded to earlier
+
+Looking at the flag in Senior Sister's hands
+Further Away:
+The general and warhorse continue receding into the depth
+Originally existing environmental elements:
+Wind sounds
+Water sounds
+Vegetation
+Mountain mist
+Still operate naturally.
+Leaving only:
+
+Gradually fading hoofbeats
+Sound of the red flag surface continuously beating against air
+Ending Requirements
+No victory poses
+No slow-motion freeze frames
+
+No explanatory dialogue added
+End naturally during continuous movement
+
+V. Global Action and Cinematography Execution
+Rhythm Segmentation
+0–5s
+
+High-speed cavalry raid, protagonist forced to evade.
+5–10s
+Proactively seizes inner line of cavalry turn, combat initiative begins to reverse.
+10–15s
+Second high-speed engagement, sword seizes order, general continues charging but has lost the target.
+Suggested Number of Shots
+Use approximately 6-8 internal cuts with clear purpose throughout the film;
+does not require mechanically equal duration splits.
+Shot Language
+
+24mm: Establishes real scale between cavalry and characters.
+28mm Low Angle: Enhances contrast of hooves, spear tips sweeping by, and foreground/background speed.
+35mm Body-Hugging Tracking: Presents protagonist running, side-stepping, diagonal dash, short-distance Qinggong.
+50mm: Emphasizes spear-sword contact, body stress, and precise seizure.
+Final return to 24mm Wide Shot: Clearly sees general, road, military order flag, and final spatial relationship.
+Camera Movement Principles
+Camera movement must be determined by the following factors:
+Character movement direction
+Warhorse speed
+
+Weapon attack lines
+
+Change in combat axis
+Allowed:
+Short whip pans
+High-speed track shots
+Push-ins
+Natural weapon-obscured cuts
+But every cut must serve real action information.
+Strictly Forbidden:
+Mechanical whip pans throughout
+Severe motion blur making characters unrecognizable
+VI. Action Physics Rules
+Warhorse
+Maintain real limb rhythm
+Real center of gravity changes
+Real muscle exertion
+Real turning radius
+
+Forbidden:
+Instantaneous turning in place
+Sudden stopping
+Backing up sliding
+General
+Gripping, regripping, lowering body, and direction changes must be continuous.
+The long spear must reflect clear length, weight, and rotational inertia.
+Senior Sister
+Xianxia Qinggong is only responsible for:
+Short-distance burst
+Changing routes
+Achieving cinematic high-speed parallelism
+Forbidden:
+Teleportation without process
+Floating sensation
+Consecutive acrobatic flips for showing off
+Weapon Contact
+All weapon contacts must have:
+Clear force application
+Clear feedback
+Brief collision
+Body offset or step correction
+Fabric and Trace Continuity
+Clothing lags when characters accelerate
+Sleeves continue moving when stopping suddenly
+Torn white cuffs remain damaged
+Military order flag cannot return to saddle after being cut
+Battle traces do not automatically recover
+VII. Sound Design
+Opening
+Warhorse hoofbeats amplify rapidly, constituting dangerous pressure.
+Weapons
+Long Spear: Low, sharp whooshing sound.
+Silver Sword: Brief, high-frequency, clear slicing sound.
+Weapon Collision: Real, brief, weighted.
+Key Prop Sounds
+When leather strap is cut: Clear but not overly exaggerated snapping sound.
+
+After military order flag detaches from saddle: Violent flag surface whipping sound.
+Ending Sound Structure
+Hoofbeats gradually fade away.
+Flag surface and natural environmental sounds remain in the foreground.
+Score Principle
+Chinese-style percussion is extremely restrained.
+Only strengthens rhythm during the two cavalry charges and the moment of seizing the order.
+Full film has no dialogue, no subtitles, no titles.
+VIII. Global Negative Prompts
+Characters and Assets
+Forbidden: Character face-swapping, costume changes, hairstyle changes, body proportion changes.
+Forbidden: Confusion of weapon ownership between Image 1 and Image 2 protagonists.
+Forbidden: Enemies duplicating out of nowhere.
+Warhorse
+Forbidden: Abnormal limbs, six legs, crossed legs, deformed head, lack of real running rhythm.
+Forbidden: Instantaneous turning in place, sudden stopping, backing up sliding.
+Forbidden: Suddenly disappearing, changing color, swapping horses.
+Forbidden: Stopping out of nowhere.
+General and Weapons
+Forbidden: General floating, leaving saddle then instantly returning.
+Forbidden: Long spear changing to sword, knife, gun, or randomly shortening.
+Forbidden: Military order flag duplicating, suddenly disappearing, auto-recovering.
+Forbidden: Flag remaining fixed after saddle strap breaks.
+Combat Logic
+Forbidden: Protagonist harming the warhorse.
+Forbidden: Attacks without body stress.
+Forbidden: Weapon contact without real feedback.
+Forbidden: Standing still hacking at each other.
+Forbidden: Enemies lining up to offer attacks.
+Forbidden: Protagonist posing continuously in place.
+Forbidden: Consecutive meaningless flips.
+Forbidden: Large-area random sword qi.
+Forbidden: Full-screen energy explosions.
+Forbidden: Random lightning and space rifts.
+Forbidden: Teleportation without trajectory.
+Forbidden: Characters continuously becoming streaks of light.
+Forbidden: Frequent slow motion, hit-stop, bullet time.
+Forbidden: Repeating the same action from multiple angles.
+Visuals and Environment
+Forbidden: Entire screen unrecognizable regarding characters and weapons.
+Forbidden: Mechanical fragmented cuts.
+Forbidden: Background suddenly changing.
+Forbidden: Environment helping the protagonist fight autonomously.
+Forbidden: Obvious traces caused by characters auto-recovering.
+Forbidden: Real blood, severed limbs, and viscera.
+Forbidden: Text, subtitles, UI, LOGOs, and extra watermarks.
+General Negative Words
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+IX. Final Combined Version (Ready for Input)
+15-second cinematic realistic Chinese-style Xianxia high-speed cavalry combat. Fix @Image1 White-robed Sword Immortal Senior Sister and @Image2 Teal-robed Junior Sister; the environment strictly inherits the physical world and spatial relationships defined jointly by this round's location reference images. A dark heavy-armored cavalry general rides a single dark brown warhorse, holding a long spear and charging at high speed, with a dark red military order flag behind the saddle. At the opening, the general suppresses Senior Sister with charge speed and spear length; Senior Sister protects Junior Sister avoiding the first impact, her white sleeve cuff is torn; subsequently, the general continues turning maintaining a real turning radius, Senior Sister identifies the difference in their motion routes, using brief Xianxia Qinggong to diagonally seize the inner line of the cavalry's turn, forming a high-speed cross-pursuit. The general perceives the intent and actively changes the long spear's attack line; both sides complete two brief, fierce weapon collisions during continuous movement. Finally, Senior Sister briefly parallels along the side of the warhorse, uses the silver sword to change the spear tip's direction, then precisely severs the leather strap of the military order flag behind the saddle with one sword stroke, catching the red military order flag and landing seamlessly. The general and warhorse continue running into the distance, only realizing the flag is lost upon looking back. The whole film highlights real horse running, cavalry speed, long weapon attack range, character short-distance bursts, clear spatial routes, strong near-far contrast, functional hard cuts, real physical feedback, and cinematic sound effects. The background remains vivid and narratively neutral; characters do not pose victoriously; flags, clothing, hair, horses, and natural environment end during continuous movement.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117142223313866754/img/OMthdgTsWVdBd4Yd.jpg" width="600" alt="Seedance 2.0 Mini Xianxia Battle Short Film">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13436)**
+
+**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2117142880922058932) | **Published:** Nov 2, 2026
+
+---
+### Seedance 2.0 Mini Social Satire Xianxia Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A complex video generation prompt for Seedance 2.0 Mini creating a 15-second Xianxia short film about fraud and social satire, with detailed storyboard and character instructions.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | "Ten Taels for Life Protection"
+
+Model: Seedance 2.0 Mini
+Duration: Strictly 15 seconds
+Aspect Ratio: 16:9 Landscape
+Genre: Pure Ancient Chinese Xianxia / Suspense Twist / Social Satire / Character Relationship Drama
+Structure: Three consecutive, clear, narratively distinct cinematic shots
+I. Prompt | Overall Style and Creative Direction
+Cinematic realism, pure ancient Chinese Xianxia aesthetics.
+Overall Direction:
+Mature suspense narrative
+
+Restrained character performance
+
+Precise visual misdirection
+
+Social satire with real-world resonance
+
+Visuals use:
+
+Natural cinematic photography quality
+Clear facial details
+Real skin texture
+Exquisite silk materials
+
+Natural volumetric light
+
 Composition with spatial depth
 II. Core Plot and Twist Mechanism
 The core of this story is:
-A talisman seller creates a monster scare to convince people that evil spirits are coming.
-First layer of suspense
+A talisman seller creates a fake monster himself to make people believe a demon is coming.
+First Layer of Suspense
 Audience initially worries:
-Mother and child will be attacked by monsters
-Will the mother spend her child's medicine money on a life-saving talisman?
-Second layer of twist
-Then it is revealed:
-The so-called monster is just a puppet mechanism manipulated by the vendor.
-True emotional conflict
-The real conflict is not the monster, but:
+
+Mother and child will be attacked by demons
+
+Will the mother trade her child's medicine money for a life-protection talisman
+
+Second Layer of Twist
+Then discovery:
+
+The so-called demon is just a puppet mechanism manipulated by the merchant.
+
+True Emotional Conflict
+
+The real conflict is not the demon, but:
 A mother forced to choose between her child's medicine money and false security.
-Narrative principles
+
+Narrative Principles
+
 The twist is completed entirely through:
 Character observation
 Real objects
 Specific actions
 Physical causality
-Strictly avoid
-Real monster sudden attack
+Strict Avoidance
+Real demon sudden attack
 Divine talisman manifestation
 Lengthy explanations
-Preachy endings
-III. Character and Identity Locking
+Preachy ending
+III. Characters and Identity Locking
+
 Character A | @Image1 | Senior Sister
-Maintain the adult East Asian female identity, face shape, features, hairstyle, accessories, and white Xianxia clothing from the original reference image.
-Fixed features
+Keep the adult East Asian female identity, face shape, features, hairstyle, accessories, and white Xianxia clothing from the original reference image.
+Fixed Features
 Adult East Asian female
-Same face as original reference image
+Same face as original reference
 Natural bone structure
 White embroidered silk clothing
 Silver waist ornament
 Original sword
-Realistic skin texture
+Real skin texture
 Natural body structure
 Classical elegant temperament
-Continuity requirements
-Maintain realistic skin texture
-Keep clothing unchanged
+Continuity Requirements
+Maintain real skin texture
+Maintain clothing unchanged
 Maintain stable character identity
-Do not redesign characters
+Do not redesign character
 Character B | @Image2 | Junior Sister
-Maintain the adult East Asian female identity, round lively face, bright eyes, original black hair braids, and blue-green ancient costume from the reference image.
-Fixed features
+Keep the adult East Asian female identity, round lively face, bright eyes, original black braided hair, and blue-green ancient style clothing from the original reference image.
+Fixed Features
 Adult East Asian female
 Round lively face
 Bright eyes
-Black hair braids
-Blue-green ancient costume
-Carrying the same dark long sword
-Continuity requirements
-Maintain distinct facial features from Senior Sister
-Keep clothing stable
+Black braided hair
+Blue-green ancient style clothing
+Carries same dark long sword
+Continuity Requirements
+Maintain clearly different facial features from Senior Sister
+Maintain stable clothing
 Maintain stable character identity
-Dual protagonist common limits
-Both protagonists maintain their independent identities.
-Strictly forbidden
+Dual Protagonist Common Restrictions
+Both protagonists maintain independent identities.
+Strictly Prohibited
 Face swapping
-Feature blending
+Feature fusion
 Clothing changes
 Identity drift
-New supporting roles
-Middle-aged male jianghu fangshi
+New Supporting Roles
+Middle-aged Jianghu Fangshi (Occultist)
 Dark brown old robe
 Shrewd expression
 Responsible for selling talismans
-Ordinary village woman
-Worn-out clothes
-Holding a sick young child
-Other background characters
-Remaining market-goers only form appropriate life background in the distance
+Ordinary Village Woman
+Old washed clothes
+Holding a sick toddler
+Other Background Characters
+Other market-goers only form appropriate life background in the distance
 Do not steal main narrative focus
 IV. Environment and Location DNA
-The uploaded background and location reference images represent the actual physical world.
-Environment planning before formal composition
-Maintain the following attributes of the reference location:
+Background and location reference images uploaded this round represent the actual physical world.
+Environment Planning Before Formal Composition
+Maintain the following attributes of reference locations:
 Terrain
 Architectural spatial relationships
 Main landmarks
@@ -479,27 +3139,27 @@ Vegetation
 Water bodies
 Weather
 Fog
-Lighting
-Atmospheric depth
+Light
+Air depth
 Naturally set up a small ancient-style talisman stall according to actual scene conditions.
 V. Stall and Mechanism Structure
-Talisman stall
-The stall consists of:
-Wooden frame
+Talisman Stall
+Stall consists of:
+Wooden rack
 Cloth curtain
-Bamboo pole
+Bamboo poles
 Hanging yellow paper talismans
-Hidden mechanism
-Behind the stall hides a simple mechanism:
-Monster silhouette made of black cloth
-Fixed on a rotatable bamboo rack
-A thin red string leads from the bamboo rack to the fangshi's hand
-When the fangshi pulls the rope, the monster shadow rises
-Mechanism continuity requirements
+Hidden Mechanism
+Hidden behind the stall is a simple mechanism:
+Black cloth demon silhouette
+Fixed on a rotatable bamboo frame
+A thin red rope leads from the bamboo frame to the Fangshi's hand
+When the Fangshi pulls the rope, the demon shadow rises
+Mechanism Continuity Requirements
 The mechanism maintains the same structure, position, and physical logic throughout.
 VI. Living Background and Narrative Neutrality
-Background remains vibrant.
-Natural movement
+Background remains alive.
+Natural Motion
 Wind
 Water
 Clouds/Mist
@@ -507,158 +3167,160 @@ Vegetation
 Distant figures
 Hair
 Sleeves
-Continuous natural movement.
-Environmental principle
-Environment is vibrant but narratively neutral.
-The environment must never:
+Continuous natural motion.
+Environment Principles
+Environment is alive but narrative neutral.
+The environment must NEVER:
 Actively create twists
-Complete judgment instead of characters
+Complete judgments for characters
 Suddenly trigger miracles
 Change plot causality
 VII. 15-Second Complete Storyboard
-0–5s | First Shot: Full View | Ten Liang Life-Saving
-Narrative task
+0-5s | First Shot: Wide Shot | Ten Taels for Life Protection
+Narrative Task
 Make the audience worry about the child first.
-Camera design
+Camera Design
 Camera moves slowly forward from a slightly low position.
 Ancient market spatial depth unfolds clearly.
-Visual layers
+Frame Layers
 Foreground:
 Small stall covered with yellow paper talismans
 Midground:
-A poorly dressed village woman holding a sick child
-Child state:
+A shabby village woman holding a sick child
+Child State:
 Leaning on mother's shoulder
-Lethargic
-Mother's prop
-Holding a few pieces of broken silver in hand
-First dialogue
-Fangshi raises a yellow talisman, tone confident:
-[Fangshi] "Talisman, ten liang for life!"
-Village woman looks down at silver in hand, voice tight:
+Listless
+Mother's Hand Prop
+Holding a few pieces of broken silver
+First Round Dialogue
+The Fangshi raises a yellow protective talisman, speaking confidently:
+[Fangshi] "Protective talisman, ten taels for life protection!"
+The village woman looks down at the silver in her hand, voice tight:
 [Village Woman] "That's my child's medicine money."
-Emotional state
+Emotional State
 She does not pay immediately.
-Fangshi's gaze falls on the silver.
-Visual suspense established
-In the shadows behind the cloth curtain, a ferocious monster outline faintly appears.
-Village woman instinctively hugs child tighter.
-Protagonist entrance
-At the edge of the frame, Senior Sister (white) and Junior Sister (blue) happen to pass by, noticing the anomaly at the stall.
-End of first shot
-Suspense retained at end of shot:
-Should the mother spend life-saving medicine money on the talisman?
-5–10s | Second Shot: Medium View | Monster Is Man-Made
-Narrative task
-Through one action, completely flip the audience's judgment.
-Shot start
-Switch to medium view of Junior Sister's three-quarter side profile.
-Junior Sister was originally looking at the village woman.
-At this moment, she notices the Fangshi's hand hidden under his sleeve suddenly tighten.
-Gaze guidance
-Camera follows her line of sight, capturing a taut thin red string.
-One end of the red string connects to the bamboo mechanism behind the stall.
-Fake monster shadow triggered
-Fangshi secretly pulls the red string.
-Black cloth monster shadow suddenly rises behind the curtain.
-Accompanied by a rough strange sound from the mechanism, the village woman recoils violently.
-Her hand almost hands over the silver to the Fangshi.
-Junior Sister sees through it
-Junior Sister has now understood.
+The Fangshi's gaze falls on the silver.
+Visual Suspense Established
+In the shadows behind the cloth curtain, a ferocious demon outline faintly appears.
+The village woman instinctively holds the child tighter.
+Protagonist Entrance Method
+At the edge of the frame, the white-robed Senior Sister and blue-robed Junior Sister happen to pass by, noticing the anomaly at the stall.
+End of First Shot
+The shot ends preserving suspense:
+Should the mother take life-saving medicine money to buy the talisman?
+
+5-10s | Second Shot: Medium Shot | The Demon Was Man-Made
+Narrative Task
+Completely flip the audience's judgment through one action.
+Shot Start
+Switch to a medium shot of the Junior Sister from a three-quarter side view.
+The Junior Sister was originally looking at the village woman.
+At this moment, she notices the Fangshi's hand hidden under his sleeve suddenly tightening.
+Line of Sight Guidance
+The camera follows her line of sight, capturing a thin red rope becoming taut.
+One end of the red rope connects to the bamboo mechanism behind the stall.
+Fake Demon Shadow Triggered
+The Fangshi secretly pulls the red rope.
+The black cloth demon shadow suddenly rises behind the cloth curtain.
+Accompanied by a rough hoarse strange cry from the mechanism, the village woman steps back violently.
+Her hand almost hands the silver to the Fangshi.
+Junior Sister Sees Through It
+The Junior Sister has understood at this point.
 She does not explain.
-Just steps forward one pace.
+She just takes a step forward.
 Right hand draws sword.
-Key action
+Key Action
 A quick, clean, precise diagonal sword swing.
-Sword blade cuts the taut red string.
-Red string breaks, bamboo rack instantly loses support.
-Black cloth monster shadow falls downward.
-Truth exposed
-A hollow cloth monster mask, along with bamboo poles and wooden frames, is exposed before everyone.
-As the bamboo rack hits the ground with a crisp clang, the previous terrifying roar abruptly stops.
-Fangshi's hand remains at the rope-pulling position.
+The sword tip cuts the taut red rope.
+The red rope breaks, the bamboo frame instantly loses support.
+The black cloth demon shadow falls downward.
+Truth Exposed
+A hollow cloth demon mask, along with bamboo poles and wooden rack, is exposed before everyone.
+As the bamboo rack hits the ground with a crisp collision, the terrifying strange cry stops abruptly.
+The Fangshi's hand remains in the pulling position.
 He freezes.
-Village woman looks at scattered mechanism, then at her own silver.
+The village woman looks at the scattered mechanism, then at her own silver.
 Everyone understands.
-Second shot execution principle
+Second Shot Execution Principles
 This shot requires no dialogue.
-Twist completed relying on:
+Completes the twist relying on:
 Props
 Hand movements
-Gaze guidance
+Line of sight guidance
 Real physical feedback
-10–15s | Third Shot: Close-up | You Sell Her Fear
-Narrative task
-Expose the scam, let emotion truly land on ordinary people.
-Camera and depth of field
-Shot switches to close-up of characters.
-Use real shallow depth of field to create clear spatial layers among:
+
+10-15s | Third Shot: Close-up | You Sell Her Fear
+Narrative Task
+Expose the fraud, let emotion truly land on ordinary people.
+Camera and Depth of Field
+Switch to close-up of characters.
+Use real shallow depth of field to create clear spatial layers for:
 Fangshi
 Sisters
 Village woman holding child
-Fangshi's defense
-Fangshi tries to regain control.
-He looks at scattered mechanism, hastily defends:
-[Fangshi] "I sell safety!"
-Senior Sister's judgment
-Senior Sister in white does not draw sword.
-She first looks at the fake monster on the ground.
-Then turns gaze to still-frightened village woman.
-Tone calm yet sharp:
+Fangshi's Defense
+The Fangshi tries to regain control.
+Looking at the scattered mechanism, he hastily defends:
+[Fangshi] "I sell peace!"
+Senior Sister's Judgment
+The white-robed Senior Sister does not draw her sword.
+She first looks at the fake demon on the ground.
+Then turns her gaze to the still-shaken village woman.
+Tone is calm but sharp:
 [Senior Sister] "You sell her fear."
-Junior Sister's action closure
-Camera follows Junior Sister's hand.
+Junior Sister's Action Convergence
+Camera follows the Junior Sister's hand.
 She walks to the village woman.
-Gently gathers the silver the village woman was about to pay back into her palm.
-Looks up at village woman:
+Gently closes the silver the village woman was about to pay back into her palm.
+Looks up at the village woman:
 [Junior Sister] "Treat the child first."
-Village woman's emotional landing
-Village woman looks down at silver in her hand.
-She finally sighs in relief.
-Then holds child steady, turns away from stall.
-Junior Sister naturally steps aside, clearing path for her.
-Fangshi's ending state
-Fangshi stands there, speechless.
-Final half-second frame
-Shot stays on scattered bamboo rack and yellow talisman.
-Cloth fake monster fully exposed.
+Village Woman's Emotional Landing
+The village woman looks down at the silver in her hand.
+She finally breathes a sigh of relief.
+Then holds the child steady and turns to leave the stall.
+The Junior Sister naturally sidesteps, making way for her.
+Fangshi's Ending State
+The Fangshi stands in place, speechless.
+Final Half-Second Frame
+The camera stays on the scattered bamboo rack and that yellow protective talisman.
+The cloth-made fake demon is completely exposed.
 No one buys talismans anymore.
-Final aftertaste
-The monster is fake.
-But the mother's concern for her child is real.
-VIII. Cinematography and Performance Requirements
-Basic specs
+Final Aftertaste
+The demon is fake.
+The mother's concern for her child is real.
+VIII. Photography and Performance Requirements
+Basic Specifications
 Strictly 15 seconds
-16:9 landscape
-Three complete movie shots with different framing
-Spatial and action continuity
-Shot 1 requirements
+16:9 Landscape
+Three complete cinematic shots with different shot sizes
+Space and action continuity
+Shot One Requirements
 First shot uses:
 Lower camera position
 Slow push-in
-Let audience feel:
-Village woman's helplessness
-Stall's oppressive atmosphere
-Shot 2 requirements
-Second shot uses Junior Sister's line of sight as narrative guide.
+To make the audience feel:
+The village woman's helplessness
+The pressure of the stall
+Shot Two Requirements
+Second shot uses the Junior Sister's line of sight as narrative direction.
 Narrative order must be:
-See Fangshi's hand first
-Then see taut red string
+See the Fangshi's hand first
+Then see the taut red rope
 Then...
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117123424669855744/img/gVtUer8oWA9GeKDL.jpg" width="600" alt="Seedance 2.0 Mini Ancient Xianxia Short Film Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117123424669855744/img/gVtUer8oWA9GeKDL.jpg" width="600" alt="Seedance 2.0 Mini Social Satire Xianxia Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13371)**
 
 **Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2117124345281810678) | **Published:** Nov 2, 2026
 
 ---
-### Witch Flying Through City Night
+### Witch Flying Over City Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for creating an ultra-realistic cinematic fantasy video of a witch flying on a broomstick through a neon-lit city at night.
+> A prompt for creating an ultra-realistic cinematic fantasy video featuring a witch flying through a neon-lit city at night using Seedance 2.0.
 
 #### 📝 Prompt
 
@@ -666,302 +3328,487 @@ Then...
 Create an ultra-realistic cinematic fantasy video featuring a mysterious young witch flying through a dark city on a magical broomstick under a glowing full moon. Show dramatic clouds, blue magical smoke, and a mysterious night atmosphere. The witch wears a black pointed hat, a stylish dark outfit, and has long flowing hair. Capture her flying between tall buildings and swooping down through busy neon-lit streets. Add realistic motion, glowing magical effects, cinematic camera movements, dramatic lighting, and stunning visual details. High-end fantasy movie style, 4K, photorealistic, smooth animation.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117120887447252992/img/jnp-YCYdCxX9r0VE.jpg" width="600" alt="Witch Flying Through City Night">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117120887447252992/img/jnp-YCYdCxX9r0VE.jpg" width="600" alt="Witch Flying Over City Video Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13368)**
 
 **Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2117120914139619479) | **Published:** Nov 2, 2026
 
 ---
-### Seedance 2.0 Mini: Xianxia Romance Rejection Scene Prompt
+### Seedance 2.0 Mini Xianxia Drama Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A comprehensive prompt for Seedance 2.0 Mini generating a 15-second emotional drama in ancient Chinese Xianxia setting. Focuses on a wedding ceremony rejection with subtle acting, specific prop interactions (jade tokens), and cinematic camera work.
+> A detailed video generation prompt for Seedance 2.0 Mini creating a 15-second cinematic scene of a Chinese xianxia romance breakup ritual, featuring three distinct camera shots and emotional nuance.
 
 #### 📝 Prompt
 
 ```
-Seedance 2.0 Mini | "Ten Years and the Rest of Life"
+Cannot spend the rest of life repaying it
+Seedance 2.0 Mini | "Ten Years and The Rest of Life"
 
 Model: Seedance 2.0 Mini
 Duration: Strictly 15 seconds
 Aspect Ratio: 16:9 Landscape
-Type: Pure Ancient Chinese Xianxia / Emotional Twist / Mature Character Relationship Drama
-Structure: Three continuous, clear, narratively distinct cinematic shots
+Type: Pure Ancient Chinese Xianxia / Emotional Reversal / Mature Relationship Drama
+Structure: Three consecutive, clear, narratively distinct cinematic shots
 I. Prompt | Overall Style and Creative Direction
-Cinematic realistic live-action texture, pure ancient Chinese Xianxia aesthetics.
+Cinematic photorealistic quality, pure ancient Chinese Xianxia aesthetics.
 Overall direction:
-Mature restrained emotional twist, relationship drama with real psychological depth.
+Mature, restrained emotional reversal, relationship drama with realistic psychological depth.
+
 Adopt:
-High-level classical character staging
+
+High-end classical character staging
+
 Arri Alexa cinematic photography texture
-Clear realistic skin texture
+
+Clear, realistic skin texture
+
 Natural volumetric light
+
 Delicate film grain texture
+
 Realistic silk movement
-II. Core Plot and Emotional Twist
-Two cultivators have practiced together for ten years, finally reaching the day they formally become Dao companions.
-Everyone thinks this is the endpoint of a perfect relationship.
-But the Junior Sister suddenly refuses to seal the bond during the ceremony.
+II. Core Plot and Emotional Reversal
+Two cultivators have practiced together for ten years, finally reaching the day to formally become Dao companions (spouses).
+Everyone assumes this is the happy ending of a complete relationship.
+The junior sister suddenly refuses to seal the contract during the ceremony.
 First Layer of Suspense
+
 Audience initially expects:
+
 Betrayal
+
 Secrets
+
 Someone committing an unforgivable mistake
-True Twist
-Neither of them became bad, nor did they fail to cherish the past; they simply cannot move towards the same future.
-Ten years of sincerity is still sincerity.
-But the rest of life should not become a price paid for the past.
-Emotion and Narrative Principles
-Story must be completed naturally through:
+
+The Real Reversal
+
+Neither has turned bad, nor do they devalue the past; they simply can no longer walk towards the same future.
+
+Ten years of sincerity remains sincere.
+
+But one should not turn the rest of their life into a cost to repay the past.
+Emotional and Narrative Principles
+The story must be completed naturally through the following elements:
+
 Character actions
+
 Subtle expressions
+
 Pauses
+
 Dialogue
 Strictly Avoid
+
 Long explanations
-Sudden sentimentality
+
+Sudden melodrama
 Forcing villainization
 Preachy endings
 III. Character Identity and Asset Locking
-Role A | @Image1 | Sword Immortal Senior Sister
+
+Character A | @Image1 | Sword Immortal Senior Sister
 Always the same Sword Immortal Senior Sister:
 25-30 year old East Asian female
 Soft oval face
 Bright almond eyes
-Black long hair half-tied
+
+Black long hair half-tied up
+
 Fixed with white jade hairpin
+
 Tall and slender
-Same white embroidered silk Hanfu
+
+Same set of white embroidered silk Hanfu
+
 Semi-transparent layered wide sleeves
 Silver waist sash
 Jade pendant
 White cloth boots
 Carrying the only silver long sword
-Role Function in This Segment
-White-robed Senior Sister mainly expresses relationships through:
+Role in this segment
+The White-robed senior sister primarily expresses relationships through:
 Observation
 Eye contact
 Restrained reactions
 Key Restrictions
-Do not make decisions for Junior Sister
-Do not steal main dramatic space
-Role B | @Image2 | Junior Sister
+
+Does not make decisions for the junior sister
+
+Does not steal the main dramatic space
+
+Character B | @Image2 | Junior Sister
 Always the same Junior Sister:
 20-25 year old East Asian female
-Round lively face
+Round, lively face
+
 Black braided hair
-Same green ancient Hanfu
+
+Same set of teal-green ancient Hanfu
 Dark belt
+
 Wooden hairpin
+
 Black cloth shoes
+
 Carrying the only dark steel sword
-Role Positioning in This Segment
-Junior Sister is the emotional protagonist of this plot.
+
+Character Positioning
+The junior sister is the emotional protagonist of this plot.
 New Supporting Character | Male Cultivator
 Adult male
-Wearing deep blue ancient robe
-Regular appearance
+Wearing deep blue ancient robes
+Respectable appearance
 Steady temperament
-Practiced with Junior Sister for ten years
-Junior Sister's predestined Dao companion
+Has cultivated with the junior sister for ten years
+
+The junior sister's predestined Dao companion
+
 Character Continuity Requirements
-Male cultivator must maintain:
+The male cultivator must maintain:
+
 Independent identity
+
 Stable clothing
 Realistic character performance
-Must not be confused with protagonists.
+Must not be confused with the protagonists.
 Other Supporting Characters
 Elder Master
-Presiding over the bonding ceremony.
+Presides over the sealing ceremony.
+
 Sect Disciples
-Small number of disciples as distant witnesses.
+
+A few disciples as distant witnesses.
+
 IV. Background and Environment DNA
-All uploaded background and location reference images determine the actual physical world.
+All background and location reference images uploaded in this round collectively determine the actual physical world.
 Environment Planning Before Formal Composition
-Silently complete a round of environment planning first.
-Comprehensively analyze in reference images:
+
+Complete a round of silent environment planning first.
+
+Comprehensively analyze the reference images for:
+
 Terrain
+
 Architectural layout
+
 Spatial scale
+
 Material age
+
 Vegetation ecology
+
 Water bodies
+
 Clouds and mist
+
 Weather
+
 Main light direction
+
 Color relationships
+
 Reflective surfaces
-Air depth
-Under the premise of maintaining consistency in:
+
+Atmospheric depth
+While maintaining consistency in the following conditions:
 Location identity
 Spatial relationships
 Physical logic
-Find suitable natural open areas, reorganize into a ceremonial venue with:
+Find suitable natural open areas, reorganize them into a ceremonial venue that possesses:
 Cinematic scale
 Spatial depth
 Unique composition
 V. Ceremony Scene and Core Props
-Ceremony site only needs:
+The ceremony site only requires:
+
 One ancient stone table
-Two jade marriage contract tokens connected by a red rope
-Jade Marriage Contract Tokens
+
+Two jade marriage tokens connected by a red cord
+Jade Marriage Tokens
 Two jade pendants
+
 A red silk rope connecting the two jade pendants
-Maintain real jade material
+
+Maintain real jade material properties
 Maintain real red rope physical structure
 Other Key Props
-Ancient sect leader seal symbolizing authority
-Small luggage already packed by Junior Sister
+
+An antique Sect Master's Seal symbolizing sect authority
+
+A small travel bag already packed by the junior sister
+
 VI. Living Background and Narrative Neutrality
-Background always vibrant.
-Natural Motion
-Wind naturally blowing sleeves and vegetation
-Clouds moving slowly
-Mountain mist flowing according to terrain
-Water bodies continuing motion where present in reference images
-Distant buildings maintaining correct perspective
-Reflections changing naturally with camera angle
-Environmental motion speed and amplitude should differ by depth of field.
-Environmental Narrative Principles
-All background motion exists independently of the plot.
-Environment must never:
+
+The background is always alive.
+
+Natural Movement
+Wind naturally moves sleeves and vegetation
+
+Clouds drift slowly
+
+Mountain mist flows according to terrain
+Water bodies continue moving where present in reference images
+Distant buildings maintain correct perspective
+Reflections change naturally with camera angle
+
+The speed and amplitude of environmental movement at different depths of field should vary.
+
+Environmental Narrative Principle
+All background movements exist independently of the plot.
+
+The environment must NEVER:
+
 Create conflict
-Trigger twists
+
+Trigger reversals
+
 Complete choices on behalf of characters
-VII. 15-Second Complete Storyboard Structure
-0–5s | First Shot: Wide Shot | Public Rejection
-Shot Design
-Camera pans slowly across the ancient ceremony venue.
+
+VII. Complete 15-Second Storyboard Structure
+0-5s | Shot 1: Wide Shot | Public Refusal
+Camera Design
+The camera pans slowly along the ancient ceremonial venue.
 Establish clear spatial relationships through these layers:
 Foreground stone table
-Midground characters
-Distant grand architecture, mountains, or other core landmarks from reference images
+
+Mid-ground characters
+
+Background grand architecture, mountains, or other core landmarks from reference images
 Initial Character Positions
+
 Elder Master
+
 Standing behind the ceremonial stone table.
 Male Cultivator
-Wearing deep blue robe, standing on one side of the stone table.
-Holding one jade marriage contract token in hand.
-Green-robed Junior Sister
+Wearing deep blue robes, standing on one side of the stone table.
+
+Holding one jade marriage token in hand.
+
+Teal-robed Junior Sister
+
 Standing on the other side of the stone table.
+
 White-robed Sword Immortal Senior Sister
-Standing several steps diagonally behind Junior Sister, observing quietly.
-Core Prop State
-A red silk rope connects the two jade pendants.
+
+Standing a few steps diagonally behind the junior sister, observing quietly.
+
+Core Prop Status
+
+Two jade pendants are connected by a red silk rope.
 Ceremony Begins
-Master solemnly announces:
-[Master] "Ten-year marriage contract, today we fulfill it."
-Junior Sister looks down at the red silk rope.
-She does not reach out to take her jade pendant.
-Instead, she slowly raises her head to look at the man in front of her.
-First Layer of Twist
-[Junior Sister] "I won't do it."
-The originally solemn ceremony suddenly goes quiet.
+The Master solemnly announces:
+
+[Master] "Ten years of marriage contract, today we complete the rites."
+
+The junior sister looks down at the red silk rope.
+
+She does not reach out to take her own jade pendant.
+
+Instead, she slowly raises her head, looking at the man before her.
+
+First Layer of Reversal
+
+[Junior Sister] "I will not marry."
+
+The originally solemn ceremony suddenly falls silent.
+
 Male Cultivator's Reaction
-Camera retains the male cultivator's genuine shock in that instant.
+
+The camera retains the male cultivator's momentary genuine shock.
+
 Performance and Rhythm Requirements
-No exaggerated screams
-No crowd suddenly surrounding them
+
+No exaggerated exclamations
+
+No sudden crowd gathering
+
 Create suspense through character pauses and spatial silence.
-5–10s | Second Shot: Medium Close-up | True Divergence
+
+5-10s | Shot 2: Medium Close-up | True Divergence
+
 Continuity Requirements
-Maintain exactly identical:
+
+Maintain exactly the same:
+
 Scene
+
 Characters
+
 Clothing
+
 Jade pendant positions
+
 Camera Design
-Camera switches to a medium two-shot of the parties in three-quarter profile.
+
+Switch to a three-quarter profile two-shot medium close-up of the two parties.
+
 Male Cultivator's Reaction
-Male cultivator is not angry.
-Nor does he suddenly question if she changed her heart.
-He looks seriously at Junior Sister, as if he vaguely knows the answer.
+
+The male cultivator is not angry.
+
+Nor does he suddenly question if she has changed her heart.
+
+He looks seriously at the junior sister, as if he already vaguely knows the answer.
 Asks softly:
-[Male Cultivator] "Are you still going down the mountain?"
+
+[Male Cultivator] "You still want to leave the mountain?"
+
 Junior Sister's Answer
-Junior Sister looks at him, equally calm:
-[Junior Sister] "Are you still guarding the mountain?"
-Emotion and Gaze
-Camera uses subtle gazes to reveal their long-standing different choices.
+
+The junior sister looks at him, equally calm:
+
+[Junior Sister] "You still want to guard the mountain."
+
+Emotion and Eye Contact
+
+The camera uses subtle gazes to reveal that their choices have long been different.
 Prop Visual Contrast
-Beside Male Cultivator
-Lies the ancient sect leader seal symbolizing authority.
-At Junior Sister's Feet
-Is the small luggage already packed.
+Beside the male cultivator
+Lies the antique Sect Master's Seal symbolizing sect authority.
+
+At the junior sister's feet
+
+Is the small travel bag already packed.
+
 Visual Relationship
+
 These two props form a clear visual contrast:
-One person decided to stay.
-The other is ready to travel far.
+
+One person decides to stay.
+
+The other is already prepared to depart far away.
+
 Neither is wrong.
-They just can no longer walk to the same place.
+
+They just cannot walk towards the same place anymore.
+
 Senior Sister and Environmental State
-White-robed Senior Sister never intervenes.
-Background continues independent natural motion of:
+
+The white-robed senior sister never intervenes.
+
+The background continues independent natural movement of:
+
 Wind
+
 Water
-Clouds and mist
+
+Clouds/Mist
+
 Vegetation
+
 Fabric
+
 Reflections
-10–15s | Third Shot: Close-up | Ten Years and the Rest of Life
+
+10-15s | Shot 3: Close-up | Ten Years and The Rest of Life
+
 Master's Final Question
-Master asks the last question from beside the stone table:
+
+The Master asks the final question from beside the stone table:
+
 [Master] "What about those ten years?"
+
 Junior Sister Close-up
-Camera switches to close-up of Junior Sister.
-She doesn't answer immediately.
-Very slight moisture in eyes, but no tears.
-Voice steady, carrying true reluctance.
-[Junior Sister] "Cherish it."
+
+Cut to a close-up of the junior sister.
+
+She does not answer immediately.
+
+There is very slight moisture in her eyes, but no tears fall.
+
+Her voice is steady, carrying genuine reluctance.
+
+[Junior Sister] "Cherished."
+
 Emotional Pause
-Full pause for half a beat.
-Then delivers the final line:
-[Junior Sister] "Can't repay the past with the rest of my life."
+
+A full beat pause.
+
+Then the final line drops:
+
+[Junior Sister] "But I cannot spend the rest of my life repaying it."
 True Emotional Climax: Untying the Red Rope
-Camera quickly and naturally shifts to male cultivator's hands.
+The camera quickly and naturally shifts to the male cultivator's hands.
 He looks down at the red silk rope connecting the two jade pendants.
-After a brief hesitation, he doesn't angrily tear the rope.
-Instead, he slowly unties the knot with his fingers.
-Action Hard Requirement
-This action must be real, clear, and complete.
-Jade Pendant Separation
-Male cultivator gently places Junior Sister's jade pendant back on the table.
+After a brief hesitation, he does not angrily tear the rope.
+Instead, he slowly unties the original knot with his fingers.
+
+Hard Action Requirement
+
+This action must be realistic, clear, and complete.
+
+Pendant Separation
+
+The male cultivator gently places the junior sister's jade pendant back on the table.
+
 Keeps the other one for himself.
-Both jade pendants are undamaged.
-Just no longer connected.
+
+The two jade pendants are undamaged.
+
+Just no longer connected from now on.
+
 Final Character Reactions
-Junior Sister looks at him.
-Man raises his eyes, giving her a very slight nod.
+
+The junior sister looks at him.
+
+The man raises his eyes, giving her a very slight nod.
+
 This nod expresses:
+
 Understanding
+
 Regret
+
 Final Cinematic Composition
-Final image rests on the two jade pendants on the table:
-Intact, but already separated.
-Behind in shallow depth of field:
-Two people maintaining appropriate distance
-Senior Sister standing behind Junior Sister
-Senior Sister's eyes calm and understanding
+
+The final frame rests on the two jade pendants on the table:
+
+Intact, yet already separated.
+
+In shallow depth of field behind:
+
+The two people maintain appropriate distance
+
+The senior sister stands behind the junior sister
+
+The senior sister's gaze is calm and understanding
+
 Ending Restrictions
-No:
+
+NO:
+
 Hugs
+
 Sudden reconciliation
+
 Villains
-Verdict of victory/defeat
-Final Emotional Landing
-Ten years were not wasted, just no need to travel together anymore.
+
+Verdicts of victory/defeat
+
+Final Emotional Landing Point
+
+The ten years were not wasted, just no need to walk together henceforth.
+
 VIII. Seedance 2.0 Mini Execution Requirements
+
 Basic Specifications
+
 Model: Seedance 2.0 Mini
-Strict total duration: 15 seconds
-Aspect ratio: 16:9 landscape
-Three continuous, clear, narratively distinct cinematic shots
+
+Strict Total Duration: 15 seconds
+
+Aspect Ratio: 16:9 Landscape
+
+Three consecutive, clear, narratively distinct cinematic shots
+
 Three narrative functions
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117112122387918848/img/FNMfOO9Jg3bQP4IZ.jpg" width="600" alt="Seedance 2.0 Mini: Xianxia Romance Rejection Scene Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117112122387918848/img/FNMfOO9Jg3bQP4IZ.jpg" width="600" alt="Seedance 2.0 Mini Xianxia Drama Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13374)**
 
@@ -3982,527 +6829,6 @@ Water drops fall back to river surface, divine dragon dissipates into thin mist.
 **Author:** [Zidan 子丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2110225020278743421) | **Published:** Oct 14, 2026
 
 ---
-### Tired Korean Office Woman Day
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed prompt for a 24-second cinematic video depicting the exhausting daily routine of a young Korean office worker.
-
-#### 📝 Prompt
-
-```
-Create a 24-second ultra-realistic cinematic video of a young Korean office woman experiencing an exhausting day in her corporate life. Show her brushing her teeth in front of a bathroom mirror, getting ready for work, walking through a crowded Korean city crosswalk in a navy business suit, and carrying a black handbag. Then show her sitting tiredly on a crowded subway with her eyes closed, working silently at a busy office desk surrounded by computers and paperwork, and eating lunch in a crowded company cafeteria while looking emotionally drained. Capture close-up shots of her exhausted face, realistic skin texture, and subtle sadness in her eyes. End with her standing tiredly inside the subway before transitioning to her lying motionless on a couch at home, still wearing her office clothes and employee ID badge. Maintain consistent facial features, hairstyle, outfit, and body proportions throughout the video. Use realistic Korean environments, natural lighting, smooth cinematic camera movements, detailed facial expressions, and a muted color palette to convey the emotional weight of a demanding work routine. Make the entire video photorealistic, with no text, subtitles, or watermarks.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110206919013199872/img/s6H_5NpANuOxYO0S.jpg" width="600" alt="Tired Korean Office Woman Day">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12483)**
-
-**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2110206983999726004) | **Published:** Oct 14, 2026
-
----
-### Seedance Ancient Xianxia Comedy Video Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed video generation prompt for Seedance creating a 30-second cinematic ancient Chinese xianxia comedy about two swordswomen escaping crowded holidays only to face night watch duties.
-
-#### 📝 Prompt
-
-```
-Ancient Xianxia Reversal Comedy | Seven-day holiday, too crowded at the foot of the mountain, must keep night watch on the mountain
-
-I. Overall Style and Creative Direction
-
-Cinematic photorealistic texture, pure ancient Chinese Xianxia world, life-like reversal comedy centered on real character relationships.
-
-Absorb:
-
-British deadpan cold humor
-Hong Kong situational comedy rhythm
-Classic silent film reaction pauses and setup-recovery structure
-
-Character performances are natural and restrained, no exaggerated expressions, no stacking of exaggerated magic, no abrupt grand scenes.
-
-Visuals have:
-
-Real ancient film optical quality
-Clear delicate facial micro-details
-Natural film grain
-Real fabric physics
-Soft volumetric light
-Clear spatial layers
-
-II. Core Plot and Comedy Main Line
-
-The entire segment has only one complete 30-second comedy main line:
-
-The Sword Immortal Senior Sister and Junior Sister finally get a seven-day holiday, excitedly go down the mountain to find peace, but find queues everywhere at scenic spots, even enemies coming to challenge must queue.
-
-Disappointed, they return to the sect early, only to find the empty sect is actually the quietest; before they can enjoy it, the Master arranges for them to keep night watch.
-
-They instantly decide to go back down the mountain.
-
-Final punchline comes from:
-
-"Complained about crowds earlier, now prefer crowds over night watch" reality contrast.
-
-Comedy Principles
-
-All jokes are driven by:
-
-Character choices
-
-Body movements
-Expression changes
-Natural dialogue
-Cannot rely on random magical accidents or environment solving problems for characters.
-
-III. Character Identity and Asset Locking
-
-Strictly use @image1 and @image2 as the sole identity anchors for the two core characters.
-
-Character ID A | Sword Immortal Senior Sister
-
-Always the same @image1 Sword Immortal Senior Sister:
-
-25-30 year old East Asian female
-
-Tall and slender
-
-Oval face
-Dark almond eyes
-Black long hair half-tied, fixed with white jade hairpin
-Always wears the same set of white embroidered silk Hanfu
-Layered wide sleeves
-Silver waistband
-Jade pendant
-White cloth boots
-Holds a unique silver long sword
-Character ID B | Junior Sister
-Always the same @image2 Junior Sister:
-
-20-25 year old East Asian female
-
-Petite figure
-
-Round lively face
-Black hair braided
-Always wears the same set of cyan-green linen Hanfu
-Dark belt
-Wooden hairpin
-Black cloth shoes
-Holds a unique dark steel sword
-Character Continuity
-The following features of the two core characters remain stable throughout:
-
-Facial bone structure
-
-Features
-
-Body proportions
-Hairstyle
-Clothing
-Exclusive weapons
-Other Characters
-Same older Master
-
-One young enemy swordsman
-
-Both serve as functional supporting roles.
-IV. Environment DNA and Spatial Planning
-
-All uploaded background and location reference images in this round jointly determine the same real visual world.
-
-Before generation, silently integrate compatible elements from each reference image:
-
-Terrain
-
-Ancient architecture
-
-Building materials
-
-Spatial scale
-Vegetation
-Water bodies
-Natural light
-Weather
-Clouds/mist
-Reflections
-Air depth
-Walking routes
-Re-plan a unique and physically reasonable spatial layout for this round.
-Geographical Continuity
-The following locations must belong to the same continuous geographical environment:
-
-Mountain Gate
-
-Mountain Road
-
-Viewing Stone Platform
-
-Living Background Principle
-Natural wind, water flow, branches/leaves, thin mist, reflections, and activities of ordinary disciples in the distance persist but remain narratively neutral, not actively creating or resolving plot points.
-Only explicitly arranged tourists and waiting challengers can carry specific dramatic functions.
-
-V. 30-Second Complete Storyboard Structure
-
-00:00–00:06 | Segment 1: Finally off duty, but Mountain Gate is crowded
-
-Shot: Wide shot slowly pushing towards Mountain Gate
-
-Scene & Environment
-
-Morning natural light, clear mountain air.
-
-Distant flowing water, branches, sleeves, and long hair all have natural movement.
-
-Character Actions & Dialogue
-
-The same older Master calmly announces:
-
-[Master] "Today begins the seven-day holiday."
-
-The same Junior Sister's eyes light up instantly, immediately turning to Senior Sister:
-
-[Junior Sister] "Sister, let's find a quiet place!"
-
-The same White-robed Senior Sister answers crisply:
-
-[Senior Sister] "Let's go."
-
-The two walk quickly towards the Mountain Gate with rare anticipation.
-
-Camera Movement
-
-Camera follows steadily, gradually revealing other ancient disciples and traveling cultivators exiting the gate, forming a natural, orderly crowd.
-
-Reaction Rhythm
-
-Both slow down simultaneously, just exchanging a slight glance, no extra explanation.
-
-00:06–00:12 | Segment 2: Cloud sea is beautiful, but full of people ahead
-
-Shot: Viewing stone platform, medium shots and reaction shots
-
-Transition Design
-
-Use passing foreground tourists for natural occlusion transition to the mountain viewing stone platform within the same reference world.
-
-Scene & Space
-
-Distant cloud sea and mountains are truly magnificent, but there is a reasonable waiting queue at the best viewing spot.
-
-Character Actions & Dialogue
-
-The same Junior Sister tiptoes lightly, trying to see past the people ahead, asking confusedly:
-
-[Junior Sister] "Sister, where is the cloud sea?"
-
-The same Senior Sister also looks seriously at the front of the queue, pauses for half a beat, answering without changing expression:
-
-[Senior Sister] "That row of people in front is blocking it."
-
-Comedy Reaction
-
-Junior Sister slowly lowers her heels, expectation fading from her face bit by bit.
-
-Give the camera enough brief visual pause for viewers to feel the gap themselves.
-
-00:12–00:18 | Segment 3: Even challenging Sword Immortals requires queuing
-
-Shot: Two-person medium shot, lateral pan and space reveal
-
-Camera Movement
-
-Camera pans naturally along their sides.
-
-Enemy Entrance
-
-The only young enemy swordsman walks up to them, solemnly draws his sword, shouting with true martial arts challenge spirit:
-
-[Enemy Swordsman] "Sword Immortal! Let's settle this today!"
-
-The same White-robed Senior Sister finally perks up, facing the opponent directly, answering:
-
-[Senior Sister] "Come."
-
-First Comedy Reversal
-
-Just as they prepare to act, the same Junior Sister naturally raises one hand between them:
-
-[Junior Sister] "Queue first."
-
-Enemy freezes on the spot:
-
-[Enemy Swordsman] "Fighting also needs queuing?"
-
-Space Reveal
-
-Camera simply reveals along Junior Sister's gaze:
-
-Two more sword-bearing challengers are quietly waiting beside the stone steps.
-
-One sitting
-
-One standing
-
-All are in realistic ancient states, no exaggerated styling, not repeating protagonist appearances.
-
-Comedy Reaction
-
-Enemy slowly lowers his long sword, speechless for the first time.
-
-Leave enough quiet reaction space, do not add extra lines.
-
-00:18–00:24 | Segment 4: Returning early, quietness becomes punishment
-Shot: Mountain Gate medium shot, stable relationship shot
-
-Transition Design
-
-Use Senior Sister's passing white wide sleeve for natural occlusion transition.
-
-Time & Scene
-
-Evening of the same day.
-
-They return to the exact same Mountain Gate architecture and terrain as the beginning.
-
-Most disciples have gone down, the sect is exceptionally quiet, but the environment is definitely not static background:
-
-Water channels continue flowing
-
-Pine branches sway in wind
-
-Distant cloud shadows change slowly
-
-Character Actions & Dialogue
-
-The same Junior Sister finally sits comfortably on familiar stone steps, relaxing and sighing:
-
-[Junior Sister] "Still quieter at the Mountain Gate."
-
-The same Senior Sister stands nearby, truly relaxing for the first time.
-
-Fully preserve about half a second of quiet, comfortable emotional pause.
-Second Comedy Reversal
-The same older Master approaches naturally from behind, holding a roll of unreadable text (normal duty roster), casually saying:
-
-[Master] "Then you two keep night watch tonight."
-
-Performance Focus
-
-Senior Sister and Junior Sister almost simultaneously turn heads slowly to look at Master, then exchange glances.
-
-No exaggerated eye-widening.
-
-No sound effect explosions.
-
-Only use complex expressions of two adults suddenly realizing they spoke wrongly to create the reversal.
-
-00:24–00:30 | Segment 5: Prefer continuing to queue rather than keeping night watch
-
-Shot: Medium stable tracking, finally staying on Master's reaction
-
-Character Actions
-
-Senior Sister and Junior Sister don't need to discuss, almost simultaneously:
-
-Stand up
-
-Re-adjust swords and clothes at waists
-
-Walk quickly towards outside the Mountain Gate
-
-Dialogue
-
-The same Master looks at them puzzled:
-
-[Master] "Didn't you complain about crowds downstairs?"
-
-The same Junior Sister doesn't look back, answering while walking:
-
-[Junior Sister] "Crowded is crowded, but no night watch needed."
-
-The same White-robed Senior Sister adds very seriously:
-[Senior Sister] "Go fast, inn rooms will be full."
-Final Camera Movement
-
-Camera does not chase the two, but stays naturally on the Master.
-
-Let the increasingly fast departing backs of the two in the distance form visual contrast with the silent reaction of the Master in the foreground.
-
-Final Comedy Landing
-
-Master finally realizes he personally sent two disciples who complained about crowds back into the crowd.
-
-He just lets out a light sigh.
-
-End precisely on this completely helpless yet very real reaction.
-
-VI. Overall Narrative and Editing Requirements
-
-Strict total duration 30 seconds
-
-16:9 landscape
-
-Five rhythmically clear, causally continuous cinematic segments
-
-All locations belong to one complete geographical space
-
-Directly complete a full audio-visual narrative
-
-Cutting Principles
-
-Camera switches only completed naturally through:
-
-Character movement
-
-Foreground occlusion
-
-Gaze relationships
-Direction continuity
-Do not make
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110182087324254208/img/MR9I6jSjF-0t_RNb.jpg" width="600" alt="Seedance Ancient Xianxia Comedy Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12488)**
-
-**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2110182891452010713) | **Published:** Oct 14, 2026
-
----
-### Car Door Epoxy Floor Design
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Creative flooring installation prompt transforming rusty car doors into a vibrant floor design.
-
-#### 📝 Prompt
-
-```
-Photorealistic vertical video 9:16, fixed wide shot from the corner of an empty white room with a large window on the right wall, bright natural daylight, bare concrete floor. A bearded worker in navy blue overalls and black gloves uses a long-handled rake to spread a huge pile of rusty old car doors across the floor, raking them flat into a neat grid covering the entire room, fast timelapse motion. Then a woman with a ponytail in red overalls pours thick milky-white self-leveling epoxy resin from a bucket over the rusty car doors; the liquid flows outward, submerging the doors until the whole floor becomes a glossy white surface with faint car door silhouettes visible underneath. Next, a man in a yellow high-visibility vest pushes a rotary floor polishing machine with a vacuum hose, grinding the cured epoxy until the embedded rusty car doors turn into a smooth decorative relief pattern in a mirror-glossy white floor. Finally, two workers in black uniforms with pink gloves carry in a black metal bed frame, place a mattress and dress the bed with grey duvet and pillows. Finished minimalist bedroom with a designer floor of vintage car doors encapsulated under clear glossy resin. Satisfying renovation timelapse, consistent lighting, steady camera, seamless continuous shot, high detail, no text, no watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110044612379242496/img/wJMIB2YQGZFr9b7E.jpg" width="600" alt="Car Door Epoxy Floor Design">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12486)**
-
-**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2110044654083162342) | **Published:** Oct 13, 2026
-
----
-### Tokyo Night City Lifestyle Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for creating a 15-second hyper-realistic cinematic lifestyle video featuring a woman navigating Tokyo streets, Shibuya crossing, and neon alleys.
-
-#### 📝 Prompt
-
-```
-Create a 15-second hyper-realistic cinematic lifestyle video using the reference woman as the exact identity reference throughout. 
-
-She is beautiful with model-like features in every scene. Preserve her face, long dark hair, skin tone, body proportions, and identity consistently. Natural skin texture, realistic movement, no morphing, no text on screen, and she never speaks. 
-
-Dress her in the outfit in her reference image, consistently for the entire video. 
-
-Use our normal fast-cut scene structure: clean 0.8–1.8 second scenes, dynamic camera movement, strong visual polish, and clear location changes. Keep the actions simple and easy for the model to follow. The tone is stylish, effortless, and urban. 
-
-Scene 1 — 0:00–0:01.8 Shibuya Crossing. She walks confidently through the crowd. Camera tracks backward in front of her. 
-
-Scene 2 — 0:01.8–0:03.2 Tight intimate portrait in a Tokyo side street. Face, neck, shoulders. Slow lateral camera move. She looks directly into the lens. 
-
-Scene 3 — 0:03.2–0:04.8 Harajuku or Cat Street. Side-follow shot as she passes storefronts and pedestrians. 
-
-Scene 4 — 0:04.8–0:06.2 She pauses at a glowing vending machine and takes a drink. Clean close-medium shot. Subtle push-in. 
-
-Scene 5 — 0:06.2–0:07.8 Tokyo train platform. She stands waiting as the train arrives behind her. Camera moves laterally. 
-
-Scene 6 — 0:07.8–0:09.3 Narrow neon alley or quiet lantern-lit lane. Rear-follow shot as she walks, then glances back slightly. 
-
-Scene 7 — 0:09.3–0:10.8 Small ramen bar or café window moment. She turns slightly, soft natural expression, shallow depth of field. 
-
-Scene 8 — 0:10.8–0:15.0 — HERO Rooftop or elevated terrace with Tokyo skyline behind her at blue hour. Start behind her shoulder, then orbit smoothly into a waist-up hero shot. She looks directly into the camera for the final moment, calm, confident, and striking. 
-
-SOUND: Minimal and natural. Tokyo street ambience, soft crowd movement, distant traffic, crossing signal sounds, light footsteps, vending machine hum, train arrival sound, subtle city air, quiet restaurant ambience. No dialogue. No music lyrics. 
-
-Keep Tokyo visually recognizable but elegant. No confusing transitions, no extra complexity, and no instability.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110001684160167936/img/Qvh3eZRr7m24EnuP.jpg" width="600" alt="Tokyo Night City Lifestyle Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12480)**
-
-**Author:** [Promethean](https://x.com/PrometheanAIX) | **Source:** [Link](https://x.com/PrometheanAIX/status/2110002369354178965) | **Published:** Oct 13, 2026
-
----
-### Turtle Shell Epoxy Floor Renovation Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal renovation video prompt where workers install a floor made of embedded tortoise shells using epoxy resin. The sequence involves raking live turtles into rows, pouring white resin over them, grinding and polishing to reveal the shell pattern, and finally assembling a bed on top. Ideal for creating oddly satisfying ASMR-style visual content.
-
-#### 📝 Prompt
-
-```
-Photorealistic surreal renovation video, vertical 9:16, single empty room with white walls and a large bright window, natural daylight, static wide shot, smooth camera.
-
-Scene 1 (0-4s): a man in blue denim overalls and grey t-shirt uses a long rake to spread a huge pile of live tortoises on the bare concrete floor, raking them into neat parallel rows that cover the entire room.
-
-Scene 2 (4-8s): a woman in red overalls pours thick white self-leveling epoxy resin from a plastic bucket over the rows of tortoises; the glossy liquid flows, levels itself and covers the shells completely.
-
-Scene 3 (8-16s): the man operates a heavy floor grinding and polishing machine, sanding the cured white resin; dust rises, and polishing gradually reveals tortoise shells embedded inside the floor, turning into a decorative glossy epoxy floor with turtle shell pattern.
-
-Scene 4 (16-24s): two workers in black t-shirts carry in a wooden bed frame, place a white mattress, pillows and beige bedding, assembling the bed on top of the turtle-shell epoxy floor.
-
-Final shot: finished cozy bedroom, shiny terrazzo-style floor made of embedded tortoise shells reflecting window light. Hyper-realistic detail, oddly satisfying ASMR style, no text.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109958755173425153/img/FCKZiXsGkdEJncn9.jpg" width="600" alt="Turtle Shell Epoxy Floor Renovation Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12477)**
-
-**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2109958787373125663) | **Published:** Oct 13, 2026
-
----
-### Halloween Gothic Fashion Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for creating a cinematic Halloween fantasy fashion video featuring a woman in gothic couture with magical elements.
-
-#### 📝 Prompt
-
-```
-Create an ultra-realistic, cinematic Halloween fantasy fashion video in vertical 9:16 format, featuring a beautiful adult woman with long, wavy auburn hair adorned with an elaborate crown of red roses, orange marigolds, miniature pumpkins, black lace, and dangling gothic ornaments. She wears an extravagant black-and-orange gothic couture dress with intricate lace, floral embroidery, pumpkin embellishments, and delicate jewelry, seated elegantly in a magical Halloween garden surrounded by glowing candles, carved jack-o’-lanterns, autumn flowers, and a large luminous full moon in the background. A basket overflowing with tiny pumpkins, Halloween candies, and adorable ghost decorations rests on her lap. She gently rests her cheek on her hand, smiles warmly at the camera, tilts her head, and gracefully interacts with the decorations while maintaining natural facial expressions and fluid movements. Glowing golden butterflies and magical fireflies flutter around her, creating sparkling trails of light, while a small black cat sits beside her. Use warm amber candlelight, rich burnt-orange and crimson tones, soft cinematic lighting, shallow depth of field, highly detailed skin textures, realistic fabric movement, smooth camera transitions, subtle slow-motion effects, and luxurious fantasy editorial photography. The atmosphere should feel enchanting, romantic, mysterious, and whimsical, with exceptional detail, photorealistic 4K quality, and a polished Halloween fashion-film aesthetic.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109922320395423744/img/VBXgQbfrVo5AiCQY.jpg" width="600" alt="Halloween Gothic Fashion Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12485)**
-
-**Author:** [Letty](https://x.com/LettyVesper) | **Source:** [Link](https://x.com/LettyVesper/status/2109923048434348416) | **Published:** Oct 13, 2026
-
----
-### Injured Dancer Studio Moment
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Detailed prompt for a cinematic video of a young Korean dancer resting after practice, highlighting injury and emotion.
-
-#### 📝 Prompt
-
-```
-Create a 30-second, ultra-realistic cinematic video featuring a beautiful young adult Korean woman inside a spacious, modern dance studio with smooth wooden flooring, large mirrors, and soft indoor lighting. At the beginning, show several dancers practicing in the background while the camera captures the girl's bare feet and black loose-fitting pants as she walks across the studio floor. She is wearing a fitted black long-sleeve top and loose black trousers, with her dark hair tied back casually and a few strands falling naturally across her face. As the video progresses, she appears tired and emotionally overwhelmed after practice, slowly sitting down against a light grey studio wall with her knees drawn close to her chest. She gently holds her injured ankle, which is wrapped in a light-colored bandage, and looks down with a quiet, sad expression. Other dancers continue practicing in the background, creating a realistic contrast between the busy studio and her lonely moment. Use a mixture of wide shots, medium shots, and intimate close-ups of her face, hands, and bandaged ankle. Her movements should feel subtle, natural, and emotionally believable, with realistic skin texture, delicate facial details, and consistent character appearance throughout the video. Use soft cinematic lighting, muted neutral colors, shallow depth of field, smooth camera movements, and a professional Korean drama aesthetic. Maintain a photorealistic look, natural body proportions, realistic studio details, and high-quality 1080p visuals in vertical 16:9 format. Avoid exaggerated expressions, artificial skin, distorted hands, extra fingers, flickering, and unwanted text or watermarks.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109876396952784896/img/U08ae2rw0nJjeYWO.jpg" width="600" alt="Injured Dancer Studio Moment">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12484)**
-
-**Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2109876446089134244) | **Published:** Oct 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -4564,6 +6890,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-03T02:23:57.466Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-03T11:55:25.368Z</sub>
 
 </div>

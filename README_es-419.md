@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6633** |
+| 📝 Total de prompts | **6640** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-11-03** |
 
@@ -361,6 +361,2655 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Prompt Cinematográfico de Terror Xianxia para Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt detallado para Seedance 2.0 Mini que genera un video cinematográfico de 15 segundos en el género sobrenatural oriental/xianxia. Incluye una estructura narrativa compleja con tres planos, consistencia de personajes mediante imágenes de referencia y movimientos de cámara específicos junto con efectos de iluminación.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | "No contestes esa llamada"
+
+Modelo: Seedance 2.0 Mini
+Duración: Estrictamente 15 segundos
+Relación de aspecto: 16:9 Horizontal
+Género: Terror folclórico oriental / Xianxia antiguo / Suspenso psicológico / Thriller sobrenatural
+Estructura: Tres planos cinematográficos continuos y nítidos, cada uno con una función narrativa distinta.
+
+I. Estilo general y dirección creativa
+Xianxia chino hiperrealista de calidad cinematográfica.
+Este proyecto combina:
+Terror folclórico oriental
+Suspenso psicológico
+Xianxia antiguo
+en una expresión de género unificada.
+
+Concepto central del director
+Tomar prestadas las técnicas de manejo del suspenso de los thrillers más consolidados:
+Primero, hacer que el público crea en un objetivo peligroso equivocado; luego, lograr un giro de información a través del sonido, la mirada y un cambio físico mínimo.
+Principios de expresión del terror
+No depender de personajes que expliquen la verdad con discursos largos.
+No depender de transformaciones monstruosas exageradas para generar terror.
+Lo verdaderamente perturbador es:
+La reacción instintiva de una persona al escuchar la voz más familiar.
+
+II. Trama central y giro de suspenso
+Trama superficial
+Aparece de repente un Emisario del Inframundo.
+Afirma que esta noche vino a llevarse a la Inmortal Espadachín de Túnica Blanca.
+La Hermana Menor da un paso al frente por instinto para proteger a su Hermana Mayor.
+El verdadero giro
+La persona a la que el Emisario del Inframundo realmente pretende llevarse ha sido la Hermana Menor desde el principio.
+Trampa sobrenatural
+La Linterna Atrapaalmas que sostiene el Emisario del Inframundo puede imitar las voces de personas conocidas.
+Solo cuando el objetivo responde por instinto, la mecha libera un Hilo Rojo Ataalmas para atar su alma.
+Causalidad clave
+La voz de la Hermana Mayor sale de la linterna → La Hermana Menor responde por instinto → La Linterna Atrapaalmas libera el hilo rojo → La Hermana Menor se convierte en el objetivo de la cosecha de almas.
+La Hermana Mayor debe cortar el Hilo Ataalmas en ese instante exacto.
+Revelación final de información
+Se revela con una sola frase:
+"Espera a que yo te llame".
+Suspenso final
+El Emisario del Inframundo no se va.
+El cortometraje debe concluir en el punto donde:
+El primer ataque falla, pero el peligro real no ha terminado.
+
+III. Identidad de los personajes y fijación de recursos principales
+Personaje A | @Image1 | Hermana Mayor Inmortal Espadachín
+Identidad
+Misma mujer adulta de Asia Oriental, de entre 25 y 30 años.
+Heredar estrictamente la misma identidad del personaje de la imagen de referencia.
+Apariencia fija
+Rostro ovalado claro, natural y suave
+Ojos almendrados oscuros y brillantes
+Cabello negro largo recogido a medias
+Sujetado con una horquilla de jade blanco
+Figura alta y esbelta
+Vestuario fijo
+Hanfu de seda blanca bordada
+Mangas anchas superpuestas semitransparentes
+Fajín plateado en la cintura
+Colgante de jade
+Botas de tela blanca
+Arma exclusiva
+Una única espada larga de plata.
+Habilidades y actuación
+La fuerza de la Hermana Mayor se demuestra a través de:
+Observación
+Reacción
+Juicio preciso
+Esta pieza no incluye combates continuos complejos.
+Su destreza con la espada se muestra únicamente mediante una acción precisa: cortar el Hilo Ataalmas.
+
+Personaje B | @Image2 | Hermana Menor
+Identidad
+Misma mujer adulta de Asia Oriental, de entre 20 y 25 años.
+Mantener estrictamente de la imagen de referencia:
+Mismo rostro
+Estructura facial
+Peinado
+Complexión
+Vestuario
+Apariencia fija
+Rostro redondo, luminoso y alegre
+Cabello negro en trenzas
+Estatura pequeña
+Vestuario fijo
+Hanfu de lino verde
+Cinturón oscuro
+Horquilla de madera
+Zapatos de tela negra
+Arma exclusiva
+Una única espada de acero oscuro.
+Restricción de armas para este segmento
+La Hermana Menor no desenvaina su espada.
+Tres momentos clave de actuación
+Al percibir el peligro, se coloca activamente frente a la Hermana Mayor.
+Al escuchar una voz familiar, gira la cabeza por instinto.
+Al darse cuenta de que ella es el verdadero objetivo, pasa de la conmoción a la lucidez.
+
+IV. Nuevos personajes secundarios y recursos de la Linterna Atrapaalmas
+Emisario del Inframundo
+Identidad
+Hombre adulto.
+Apariencia fija
+Antiguas túnicas gris oscuro casi negras
+Media máscara de bronce envejecido
+Desgaste sutil en la superficie de la máscara
+Temperamento del personaje
+Frío
+Movimientos contenidos
+Expresión y postura estables
+No usa rostros fantasmales exagerados, típicos de las películas de terror modernas.
+Requisito principal | Antigua Linterna Atrapaalmas de bronce
+El Emisario del Inframundo sostiene una pequeña y antigua Linterna Atrapaalmas de bronce en la mano izquierda.
+Apariencia fija
+Cuerpo de linterna de bronce
+Tamaño fijo
+Color fijo
+Anilla del asa fija
+Mecha fija
+Efecto de iluminación fijo
+Configuración de la llama
+Dentro de la linterna hay una única llama blanca pálida.
+Si es necesario, la llama puede volverse rojo oscuro.
+Continuidad del recurso
+Debe ser la misma linterna en todo momento.
+Su forma, tamaño, color, anilla del asa, mecha y efectos de iluminación deben mantenerse consistentes durante toda la pieza.
+Habilidad especial de la Linterna Atrapaalmas
+Imitación de voz
+El Emisario del Inframundo puede hacer que la linterna emita una voz idéntica a la de la Hermana Mayor.
+Regla de activación
+La mecha solo libera el Hilo Ataalmas rojo cuando la Hermana Menor responde a esta voz.
+Regla de sincronización labial
+El propio Emisario del Inframundo no necesita abrir la boca para imitar a la Hermana Mayor.
+Otros personajes secundarios
+Maestro Anciano
+Ubicado a lo lejos, actuando como testigo natural.
+Dos discípulos de la secta
+Ubicados a lo lejos, actuando como testigos naturales.
+Los personajes secundarios no le roban espacio dramático a las dos protagonistas ni al Emisario del Inframundo.
+
+V. ADN del fondo y el entorno
+Todas las imágenes de referencia de fondos y locaciones subidas definen en conjunto un mundo Xianxia real y existente.
+Planificación del entorno
+Extraer y preservar de las imágenes de referencia:
+Terreno real
+Distribución arquitectónica
+Relaciones entre los puntos de referencia principales
+Antigüedad de los materiales
+Escala espacial
+Vegetación
+Cuerpos de agua
+Clima
+Niebla/nubes
+Dirección de la luz principal
+Relaciones de reflejos
+Paleta de colores
+Profundidad atmosférica
+Posición de cámara y organización espacial
+Se permite rediseñar:
+Posición de la cámara
+Profundidad de campo
+Dirección del lente
+Ubicación de los personajes
+Pero los 15 segundos completos deben ocurrir en el mismo espacio continuo.
+Principio de fondo vivo
+El fondo permanece naturalmente vivo.
+Dinámicas naturales
+El viento natural mueve mechones de cabello
+El viento natural mueve las mangas
+El agua fluye de manera continua
+La niebla de la montaña cambia lentamente
+Las capas de nubes cambian lentamente
+Los árboles y la vegetación mantienen un movimiento razonable
+Las figuras lejanas se mueven con naturalidad
+Neutralidad narrativa del entorno
+El fondo no puede desencadenar activamente la historia.
+Elemento sobrenatural único de la trama
+El único elemento que impulsa activamente la trama sobrenatural en esta ocasión es la Linterna Atrapaalmas que sostiene el Emisario del Inframundo.
+
+VI. Estructura completa de tres planos en 15 segundos
+0–5 s | Plano 1: ¿A quién se llevan esta noche?
+Función narrativa
+Establecer el objetivo peligroso equivocado, haciendo que el público crea que la Hermana Mayor está a punto de ser llevada.
+Tamaño del plano
+Plano general.
+Movimiento de cámara
+Ángulo ligeramente contrapicado, avanzando lentamente a lo largo de la línea de confrontación entre los personajes.
+Espacio inicial y ubicación de los personajes
+Al inicio, la Hermana Mayor y la Hermana Menor están de pie, una al lado de la otra, en una zona de paso geográficamente lógica dentro del fondo de referencia.
+A lo lejos:
+Maestro Anciano
+Dos discípulos de la secta
+Entrada del Emisario del Inframundo
+Un Emisario del Inframundo con media máscara de bronce camina lentamente hacia ellas desde el frente.
+Su mano izquierda sostiene una vieja linterna de bronce.
+Con cada paso, la linterna se balancea de forma natural por la inercia del cuerpo.
+Pero la llama pálida de la mecha se mantiene extrañamente estable.
+Punto de trama 1: Anunciar el objetivo
+El Emisario del Inframundo se detiene unos pasos delante de las dos mujeres.
+Su mirada parece posarse sobre la Hermana Mayor Inmortal Espadachín.
+Dice en voz baja:
+[Emisario del Inframundo] "Esta noche vengo por la Inmortal Espadachín de Túnica Blanca".
+Punto de trama 2: La Hermana Menor protege activamente
+La Hermana Menor no duda ni un instante.
+Da medio paso al frente, interponiéndose delante de la Hermana Mayor.
+Frunciendo ligeramente el ceño, mira directamente al Emisario:
+[Hermana Menor] "¿Cómo te atreves?".
+Punto de trama 3: Presagio visual del verdadero objetivo
+El Emisario no se enfurece.
+Tampoco lanza un ataque inmediato.
+Simplemente aparta lentamente la mirada de la Inmortal Espadachín de Túnica Blanca.
+Para finalmente posarla en el rostro de la Hermana Menor.
+Requisito de cámara
+Esta mirada no debe enfatizarse con acercamientos de cámara exagerados.
+Debe ser un detalle:
+Natural, pero comprensible para el público en retrospectiva.
+Final del plano
+La cámara corta siguiendo el brazo del Emisario hacia la Linterna Atrapaalmas.
+
+5–10 s | Plano 2: Esa voz está mal
+Función narrativa
+Activar la trampa y completar el primer giro de información mediante la discordancia entre una voz familiar y su fuente real.
+Tamaño del plano
+Plano medio corto.
+Movimiento de cámara
+Seguimiento lateral ligero.
+Mantener los siguientes elementos en una relación espacial clara:
+Linterna Atrapaalmas
+Hermana Menor
+La verdadera Hermana Mayor detrás de ella
+Requisitos de continuidad
+Debe mantenerse:
+El mismo Emisario del Inframundo
+La misma Linterna Atrapaalmas de bronce
+La misma ubicación
+Punto de trama 1: La voz de la Hermana Mayor sale de la linterna
+El Emisario levanta lentamente la Linterna Atrapaalmas un poco.
+No abre la boca.
+Pero de pronto, una voz sumamente familiar sale de la mecha.
+Es la voz de la Hermana Mayor.
+De tono suave, como cuando suele llamarla por su nombre con naturalidad:
+[Linterna Atrapaalmas · Voz de la Hermana Mayor] "Ah Ning, date la vuelta".
+Fuente y sincronización labial
+La verdadera Hermana Mayor está justo detrás de la Hermana Menor.
+Sus labios no se mueven.
+El sonido proviene de la linterna de bronce en la mano del Emisario del Inframundo.
+Punto de trama 2: La Hermana Menor responde por instinto
+Como la voz es demasiado familiar, el cuerpo de la Hermana Menor reacciona antes que su mente.
+Gira la cabeza hacia un lado por instinto.
+Responde suavemente:
+[Hermana Menor] "¿Hermana Mayor?".
+Punto de trama 3: Se activa la trampa atrapaalmas
+Casi en el instante en que cae la última palabra:
+La llama originalmente pálida de la Linterna Atrapaalmas se vuelve de repente rojo oscuro.
+Un Hilo Ataalmas rojo oscuro extremadamente fino sale disparado de la mecha.
+Siguiendo una trayectoria espacial clara, se enrolla rápidamente alrededor de la muñeca derecha de la Hermana Menor.
+Estado físico del Hilo Ataalmas
+El hilo rojo se tensa ligeramente
+La mano derecha de la Hermana Menor es jalada
+Su cuerpo se inclina hacia adelante por instinto
+Restricciones de expresión corporal
+Nada de:
+Ingravidez exagerada
+Flotación irracional
+Punto de trama 4: La Hermana Mayor nota la anomalía
+La misma Inmortal Espadachín de Túnica Blanca nota la anomalía de inmediato.
+Su mirada pasa al instante de la muñeca de la Hermana Menor a la mecha.
+Sus ojos se vuelven afilados de golpe.
+Final del plano
+Cortar el plano en el momento en que la Hermana Mayor aprieta la empuñadura de su espada con la mano derecha.
+
+10–15 s | Plano 3: Así que era a mí a quien esperaba
+Función narrativa
+La Hermana Mayor corta la conexión que ata el alma, la Hermana Menor comprende que es el verdadero objetivo y se preserva el peligro sin resolver.
+Tamaño del plano
+Primer plano.
+Transición a primeros planos de los personajes tras la acción central.
+Punto de trama 1: Cortar el Hilo Ataalmas con precisión
+La Hermana Mayor desenvaina de inmediato su propia espada larga de plata.
+No usa energía de espada exagerada.
+Utiliza únicamente un tajo diagonal rápido y preciso.
+Acción clave
+La hoja de plata corta la conexión:
+El Hilo Ataalmas rojo oscuro entre
+La mecha de la Linterna Atrapaalmas ↔ La muñeca derecha de la Hermana Menor.
+Requisitos de acción física
+La hoja corta el hilo rojo con precisión
+No toca la piel de la Hermana Menor
+Blande la espada una sola vez
+La trayectoria de la espada es clara
+La acción tiene continuidad física realista
+Rotura del Hilo Ataalmas
+Al romperse, el hilo rojo pierde tensión al instante.
+Se disipa en diminutas partículas de luz rojo oscuro.
+La mano derecha de la Hermana Menor recupera la libertad.
+Punto de trama 2: La Hermana Mayor jala a la Hermana Menor hacia atrás
+La Hermana Mayor extiende su mano izquierda libre.
+Jala suavemente a la Hermana Menor hacia su lado.
+Susurra:
+[Hermana Mayor] "No contestes".
+Punto de trama 3: La Hermana Menor comprende el peligro
+La Hermana Menor levanta la vista hacia el Emisario.
+Su expresión cambia gradualmente:
+Del miedo a que se llevaran a la Hermana Mayor → a la conmoción de descubrir que ella es el verdadero objetivo.
+Pregunta en voz baja:
+[Hermana Menor] "¿Me busca a mí?".
+Punto de trama 4: Revelación final de información
+La Hermana Mayor no la mira.
+Su mirada sigue fija en la linterna que sostiene el Emisario del Inframundo.
+Responde muy quedamente:
+[Hermana Mayor] "Espera a que yo te llame".
+Punto de trama 5: El peligro no ha terminado
+Breve pausa.
+El Emisario del Inframundo inclina lentamente la cabeza.
+La mirada detrás de la media máscara vuelve a posarse en la Hermana Menor.
+La llama pálida de la linterna de bronce en su mano se enciende de nuevo.
+Estado del Hilo Ataalmas
+El Hilo Ataalmas cortado no se vuelve a conectar.
+Posición de las dos protagonistas
+En este punto, la Hermana Mayor y la Hermana Menor están de pie, una al lado de la otra.
+Ambas miran al Emisario al mismo tiempo.
+Restricciones de emoción y acción
+Nada de:
+Llorar juntas
+Explosión repentina de una batalla compleja
+Composición del plano final
+El plano cierra en:
+La fría media máscara de bronce del Emisario del Inframundo y la Linterna Atrapaalmas recién encendida.
+En la poca profundidad de campo detrás:
+La Hermana Mayor de túnica blanca
+La Hermana Menor de túnica verde
+De pie, una junto a la otra.
+El Emisario del Inframundo no retrocede.
+Resolución del suspenso final
+El público finalmente entiende:
+Nunca tuvo la intención de llevarse a la Inmortal Espadachín de Túnica Blanca desde el principio.
+Solo tomó prestada su identidad y su voz para que la Hermana Menor contestara esa llamada por sí misma.
+La primera cosecha de almas falló.
+El peligro real sigue presente.
+La pantalla termina aquí.
+
+VII. Requisitos de ejecución unificados para Seedance 2.0 Mini
+Especificaciones básicas
+Duración total: Estrictamente 15 segundos
+Relación de aspecto: 16:9 Horizontal
+Modelo: Seedance 2.0 Mini
+Cantidad de planos: Tres
+Estructura temporal
+Tiempo | Tamaño del plano | Evento central
+0–5 s | General | Llega el Emisario del Inframundo, afirma que viene por la Hermana Mayor Inmortal Espadachín, la Hermana Menor se interpone.
+5–10 s | Medio corto | La Linterna Atrapaalmas imita la voz de la Hermana Mayor, la Hermana Menor responde por instinto, el hilo rojo ata su alma.
+10–15 s | Primer plano y PP de personaje | La Hermana Mayor corta el hilo rojo, se revela el verdadero objetivo, el enemigo no ha retrocedido.
+
+VIII. Siete líneas de diálogo completas y sincronización labial
+Toda la pieza conserva únicamente las siguientes siete líneas de diálogo.
+0–5 s
+[Emisario del Inframundo] "Esta noche vengo por la Inmortal Espadachín de Túnica Blanca".
+[Hermana Menor] "¿Cómo te atreves?".
+5–10 s
+[Linterna Atrapaalmas · Voz de la Hermana Mayor] "Ah Ning, date la vuelta".
+[Hermana Menor] "¿Hermana Mayor?".
+10–15 s
+[Hermana Mayor] "No contestes".
+[Hermana Menor] "¿Me busca a mí?".
+[Hermana Mayor] "Espera a que yo te llame".
+Requisitos de mandarín y sincronización labial
+Todos los personajes hablan mandarín
+Sincronización labial precisa
+Sin cruce de audio
+Sin diálogos añadidos temporalmente
+Sin narración explicativa fuera de pantalla
+Regla especial para la tercera línea
+"Ah Ning, date la vuelta".
+Emitida por la Linterna Atrapaalmas.
+Usa una voz completamente idéntica a la de la verdadera Hermana Mayor.
+Pero:
+El Emisario del Inframundo no abre la boca
+La verdadera Hermana Mayor no abre la boca
+La fuente del sonido proviene claramente de la linterna de bronce
+Los efectos de audio espacial deben ser distinguibles
+
+IX. Reglas causales para la Linterna Atrapaalmas y el Hilo Ataalmas
+Regla 1 | No puede liberar el hilo rojo antes de tiempo
+El Hilo Ataalmas rojo no aparecerá antes de tiempo.
+Solo después de que la Hermana Menor responda a la voz familiar, la Linterna Atrapaalmas liberará el Hilo Ataalmas.
+Cadena de activación
+La linterna emite sonido → La Hermana Menor responde → La llama se vuelve rojo oscuro → Sale disparado el Hilo Ataalmas.
+Regla 2 | Solo un Hilo Ataalmas
+Hay un único Hilo Ataalmas.
+Siempre conecta:
+La mecha de la Linterna Atrapaalmas y la muñeca derecha de la Hermana Menor.
+Regla 3 | Solo una acción de corte
+La Hermana Mayor blande la espada una sola vez.
+Corta el Hilo Ataalmas con precisión.
+Regla 4 | Estado tras la rotura
+Cuando el Hilo Ataalmas se rompe:
+Pierde tensión al instante
+Se disipa en diminutas partículas de luz rojo oscuro
+La Hermana Menor recupera la libertad de movimiento
+Regla 5 | La Linterna Atrapaalmas sigue existiendo
+La Linterna Atrapaalmas sigue ahí.
+El Emisario del Inframundo tampoco ha retrocedido.
+Pero:
+El Hilo Ataalmas original no puede reconectarse automáticamente.
+
+X. Continuidad de personajes y espacio
+Identidad de las dos protagonistas
+Fijar estrictamente:
+@Image1
+@Image2
+Debe mantenerse consistente:
+Rostro
+Peinado
+Vestimenta
+Espada
+Proporciones corporales
+Emisario del Inframundo
+Usar en todo momento:
+La misma media máscara de bronce
+El mismo conjunto de túnicas negro-grisáceas
+La misma Linterna Atrapaalmas
+Continuidad espacial
+Lo siguiente debe ser continuo:
+Posiciones de los personajes
+Distancia entre los personajes
+Eje de cámara
+Dirección de la luz principal
+Todos los planos ocurren en la misma ubicación.
+El fondo se extiende de forma natural basándose en las imágenes de referencia.
+No cambiar la identidad de la escena.
+
+XI. Cinematografía y actuación de los personajes
+Primer plano
+Función fotográfica
+Destacar:
+Visitante extraño
+Relación de distancia entre los personajes
+La Hermana Menor interponiéndose activamente frente a la Hermana Mayor
+Ilusionismo visual
+Hacer que el público piense que la Hermana Mayor es el objetivo.
+Pero la última mirada del Emisario a la Hermana Menor debe funcionar como un detalle de presagio comprensible en retrospectiva.
+Segundo plano
+Función fotográfica
+Aprovechar la posición de la verdadera Hermana Mayor detrás de la Hermana Menor para crear:
+Discordancia entre el sonido y su fuente real.
+Enfoque de actuación
+La reacción de la Hermana Menor al escuchar la voz familiar debe ser:
+Natural
+Instintiva
+Más rápida que el juicio racional
+Tercer plano
+Función fotográfica
+Completar el giro causal mediante una acción de espada clara.
+Enfoque de actuación
+Tras notar el peligro, los ojos de la Hermana Mayor se entrecierran al instante.
+Su reacción refleja:
+Juicio preciso
+Acción decisiva
+Poder contenido
+Principios globales de actuación
+Las actuaciones de los personajes se mantienen contenidas y realistas.
+No organizar peleas largas.
+No añadir:
+Magia a gran escala
+Rayos
+Transformaciones monstruosas
+Colapso del mundo
+
+XII. Diseño sonoro
+Sonidos ambientales
+Mantener sonidos espaciales auténticos de estilo antiguo.
+Incluyendo:
+Viento natural
+Agua corriendo
+Actividad ambiental lejana
+Movimiento del cabello y las mangas
+Emisario del Inframundo
+Enfocarse en:
+Pasos del Emisario
+Ligero sonido de fricción de la anilla del asa de la linterna
+Linterna Atrapaalmas
+Enfocarse en:
+Voz humana familiar extrañamente nítida proveniente del interior de la linterna, completamente idéntica al timbre de la Hermana Mayor.
+El sonido proviene de la posición espacial de la linterna de bronce.
+Hilo Ataalmas
+Aparecen pequeños sonidos extraños cuando el hilo rojo se tensa.
+No usar efectos de sonido de explosiones sobrenaturales a gran escala.
+Espada de plata cortando el hilo
+Cuando la Hermana Mayor corta el hilo rojo, aparece de repente:
+Un sonido breve y nítido de la espada cortando el aire.
+Diálogo final
+La música baja rápidamente después de que se corta el hilo rojo.
+Permitir que las dos últimas líneas de diálogo lleguen a los oídos del público de forma natural:
+[Hermana Menor] "¿Me busca a mí?".
+[Hermana Mayor] "Espera a que yo te llame".
+
+XIII. Restricciones de imagen y generación
+Requisitos de imagen
+Fotorrealismo de calidad cinematográfica
+Anatomía humana realista
+Rasgos faciales claros
+Movimiento realista de telas de seda
+Dinámicas ambientales naturales
+Espacio geográfico estable
+Acciones de espada precisas
+Efectos sobrenaturales contenidos
+Prohibiciones estrictas
+Peleas largas
+Magia a gran escala
+Rayos
+Transformaciones monstruosas exageradas
+Colapso del mundo
+Intercambio de rostros
+Cambios de vestuario
+Confusión sobre quién posee qué arma
+Cambios repentinos en las posiciones de los personajes
+Cambios en la apariencia de la Linterna Atrapaalmas
+Aparición prematura del Hilo Ataalmas
+Múltiples Hilos Ataalmas
+Hilos rojos rotos que se reconectan solos
+El fondo desencadenando activamente la historia
+Títulos
+Subtítulos
+Texto explicativo
+Líneas adicionales
+
+XIV. Criterios finales de aceptación
+Debe presentarse claramente dentro de los 15 segundos completos:
+Llega el Emisario del Inframundo afirmando que viene por la Inmortal Espadachín de Túnica Blanca.
+La Hermana Menor se coloca activamente frente a la Hermana Mayor.
+El Emisario desvía en secreto su verdadera atención hacia la Hermana Menor.
+La Linterna Atrapaalmas emite una voz completamente idéntica a la de la Hermana Mayor, mientras que la verdadera Hermana Mayor no habla.
+La Hermana Menor responde por instinto, provocando que la Linterna Atrapaalmas libere el único Hilo Ataalmas.
+El hilo rojo se enrolla con precisión alrededor de la muñeca derecha de la Hermana Menor.
+La Hermana Mayor desenvaina su espada de plata y corta el hilo rojo de un solo tajo.
+La Hermana Menor comprende que ella es el verdadero objetivo.
+La Hermana Mayor dice: "Espera a que yo te llame".
+La Linterna Atrapaalmas se vuelve a encender, el Emisario del Inframundo no retrocede, el peligro persiste.
+Efecto final
+Hacer que el público descubra:
+La voz más familiar, aquella ante la que es más fácil bajar la guardia, también podría ser la parte más peligrosa de toda la trampa.
+
+XV. Prompt negativo
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117458722943553536/img/0nIGtxVQ33xlIS7U.jpg" width="600" alt="Prompt Cinematográfico de Terror Xianxia para Seedance 2.0 Mini">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13438)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2117463209225703771) | **Publicado:** Nov 3, 2026
+
+---
+### Caminando entre Colores: El Despertar de la Calle Monocromática
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt detallado para generar un video cinematográfico donde una mujer camina por una calle en blanco y negro, devolviendo el color al mundo con cada paso. Optimizado específicamente para Seedance 2.0 (segunda mitad) y WAN 3.0 (primera mitad).
+
+#### 📝 Prompt
+
+```
+[Especificaciones de salida] Generar una sola hoja de personaje sencilla. La relación de aspecto es fija en 16:9. Generar únicamente una imagen terminada. No incluir texto, títulos, etiquetas, números, logotipos, descripciones, bordes ni decoraciones. No generar diseños estilo póster, diseños estilo revista, procesos de producción, imágenes comparativas ni composiciones divididas para comparación.
+[Entrada] Adjuntar exactamente una imagen de referencia (anchor) terminada de forma simultánea con este documento de instrucciones. Usar la imagen adjunta como única referencia para la persona, el rostro, el cabello, el tipo de cuerpo y el vestuario.
+[Propósito] Crear una hoja de personaje sencilla y fácil de consultar en formato 16:9, apta para producción de video, manteniendo con precisión a la persona y el vestuario de la imagen de referencia. Esto sirve como material de consulta para confirmar la estructura tridimensional de la persona y del vestuario, así como los rasgos faciales y la impresión general del cabello.
+[Composición] Distribuir un total de 6 vistas dentro de una sola pantalla de 16:9. De izquierda al centro, colocar las vistas de cuerpo completo en tres ángulos de forma horizontal, en el orden 'Cuerpo completo frontal / Cuerpo completo lateral / Cuerpo completo posterior'. En el lado derecho de la pantalla, colocar los primeros planos del rostro de forma vertical, en el orden 'Ligeramente hacia la izquierda / Frontal / Ligeramente hacia la derecha' de arriba hacia abajo.
+[Identidad de la persona] Mantener los rasgos faciales, ojos, puente nasal, boca, contorno, impresión de edad, piel, peinado, color de cabello, largo del cabello, flequillo, tipo de cuerpo, impresión de altura, proporción cabeza-cuerpo, ancho de hombros, ancho del torso, ancho de cintura, largo de piernas y grosor de piernas de la persona que aparece en la imagen de referencia. Alinear de manera natural todas las vistas de cuerpo completo y los tres primeros planos del rostro para que correspondan a la misma persona.
+[Vistas de cuerpo completo en tres ángulos] Unificar las vistas de cuerpo completo para que representen a la misma persona vista desde 3 direcciones, asegurando que encajen por completo desde la coronilla hasta los pies sin recortes. Tomando el vestuario de la imagen de referencia como guía principal, mantener la mayor coherencia posible en cuanto a cuello, mangas, zona del pecho, parte del torso, decoración de la cintura, largo de falda o pantalón, posición de las aberturas, capas de tela, color, patrón, textura y forma de los zapatos. La vista frontal debe reproducirse con la mayor fidelidad posible basándose en la persona y el vestuario de la imagen de referencia. La vista lateral debe ser un perfil real y natural que muestre la estructura tridimensional de la persona y del vestuario. La vista posterior debe reconstruir de forma natural la parte trasera del cabello, los hombros, la espalda, la parte posterior del vestuario, las piernas y los talones de los zapatos. Para las vistas lateral y posterior, las partes no visibles en la imagen de referencia pueden estimarse y complementarse, pero nunca deben contradecir la vista frontal.
+[Primeros planos del rostro] Usar la imagen de referencia como guía principal para los primeros planos del rostro, manteniendo en la mayor medida posible los rasgos faciales, ojos, puente nasal, boca, peinado, color de cabello y atmósfera de la persona referenciada. Alinear de manera natural los tres primeros planos del rostro para que correspondan a la misma persona. Asegurar que la caída del cabello y el entorno facial no contradigan la imagen de referencia. Los cuellos del vestuario y la zona de los hombros pueden ser parcialmente visibles, pero se debe priorizar la confirmación del rostro. Las vistas 'Ligeramente hacia la izquierda' y 'Ligeramente hacia la derecha' no deben ser perfiles completos, sino ángulos suaves suficientes para distinguir los rasgos faciales.
+[Postura] Las tres vistas de cuerpo completo deben tener una postura neutral de pie. La vista frontal mira directamente hacia adelante, con los brazos ligeramente separados del cuerpo y caídos de forma natural, y las piernas apoyadas con una leve separación. La vista lateral muestra la postura directamente de costado, asegurando que los brazos no oculten por completo el contorno del torso. La vista posterior mira completamente hacia atrás, sin girar el rostro hacia la cámara. No adoptar poses características; priorizar la confirmación estructural del cuerpo y del vestuario.
+[Fondo] El fondo debe ser blanco brillante liso o gris muy claro. No incluir decoraciones ni patrones. Mantener la representación del piso al mínimo para priorizar la visualización de la persona.
+[Distribución] Usar aproximadamente 3/4 del ancho de la pantalla para las vistas de cuerpo completo y 1/4 para la pila vertical de los 3 primeros planos del rostro. Asegurar que las tres figuras de cuerpo completo sean lo bastante grandes para ser el foco principal, utilizando un área horizontal amplia de izquierda al centro, y distribuir los tres primeros planos del rostro con un espaciado vertical uniforme en el lado derecho. Garantizar que no haya interferencias entre las vistas de cuerpo completo y las del rostro, creando una composición que facilite tanto la revisión del vestuario como la del rostro. Dejar márgenes adecuados para que cada vista sea claramente visible.
+[Tono general] Sencillo, limpio y práctico. Fácil de consultar como material de producción de video, priorizando la confirmación estructural de la persona y del vestuario. No convertirlo en un póster de diseño.
+[Prohibiciones] Texto, títulos, etiquetas, números, logotipos, descripciones, marcos decorativos, efectos de fondo, efectos estilo póster, efectos de sombra excesivos, alteración de la identidad de la persona, cambios de vestuario, cambios en la paleta de colores, simplificación excesiva de patrones, poses características, piernas cruzadas, brazos levantados, distribuciones donde las vistas de cuerpo completo sean demasiado pequeñas, distribuciones donde los primeros planos del rostro estén alineados horizontalmente, estructuras en las vistas lateral/posterior que contradigan la vista frontal, extremidades faltantes, personas superpuestas.
+
+[DECLARACIÓN]
+PELÍCULA DE MODA CINEMATOGRÁFICA FOTORREALISTA. Duración total de 15 segundos, relación de aspecto 1:1. Un cortometraje de acción real sobre una mujer que camina por una ciudad incolora en blanco y negro. Ella es lo único que tiene color en todo el mundo; con cada paso, los tres colores de su falda se transfieren a la ciudad en forma de bandas verticales. Finalmente, cuando ella gira, el color regresa a toda la ciudad, cerrando con un resplandor sereno. Conectar 9 cortes de manera rítmica.
+
+[REFERENCIA]
+<image1> es la mujer protagonista. Esta imagen es una referencia de configuración que la muestra sola desde el frente, el costado, la espalda y el rostro (3 direcciones). El rostro, el peinado, el tipo de cuerpo, el vestuario y las botas son tal como se ilustran en esta imagen. En adelante, se la denominará 'la protagonista'.
+
+[CONDICIÓN]
+Se trata de una antigua ciudad de piedra con una plaza redonda al final de calles empedradas. Edificios altos bordean ambos lados de la calle, todos perdiendo su color como en viejas fotografías en blanco y negro. El cielo, los muros, los adoquines y las flores de la florería conforman un mundo hecho únicamente de tonos de gris, donde solo la luz clara del día proyecta sombras silenciosas. La protagonista camina sola por allí con pasos tranquilos. Solo su figura conserva el color natural, y las franjas Rojo Rosa, Naranja Ámbar y Azul Cielo de su falda destacan como lo más vívido de esta ciudad. Cuando las botas de la protagonista pisan los adoquines, bandas rectas de esos mismos tres colores, con bordes nítidos, emergen bajo sus pies, recorren el suelo y trepan verticalmente por los muros. Solo dentro de esas bandas la ciudad se tiñe como si estuviera cubierta con tinta de colores, manteniendo transparentes y visibles las juntas de las piedras y los detalles de las ventanas. Como si supiera que el color se va a propagar, la protagonista sigue caminando con una expresión serena y segura. El metraje se asemeja a una película de moda de acción real filmada en película de 35 mm, con grano fino y movimientos de cámara fluidos.
+
+[SECUENCIA DE TOMAS]
+[Toma 1 | 0.00~2.00s]
+[INICIO]
+Plano angular amplio mirando directamente por el centro de una calle en blanco y negro. La protagonista camina hacia la cámara desde lejos. Su cuerpo entero se ve pequeño, pero los tres colores de la falda resaltan con viveza.
+[EVENTO PRINCIPAL]
+La protagonista continúa caminando hacia la cámara, y la cámara retrocede lentamente.
+[FIN]
+El cuerpo completo de la protagonista caminando hacia la cámara.
+
+[Toma 2 | 2.00~3.60s]
+[INICIO]
+Primer plano extremo directamente de costado, justo por encima del suelo empedrado. Unas botas blancas entran por la izquierda del encuadre.
+[EVENTO PRINCIPAL]
+Las botas pisan con firmeza los adoquines, haciendo eco de pasos duros. Desde el punto pisado, emergen bandas de tres colores que corren rectas hacia la profundidad de la pantalla atravesando los adoquines.
+[FIN]
+Tres bandas de colores extendiéndose desde los pies hacia la distancia.
+
+[Toma 3 | 3.60~5.60s]
+[INICIO]
+Plano angular amplio viendo a la protagonista directamente de costado, respaldada por el muro de un edificio en blanco y negro. La protagonista camina de izquierda a derecha en el encuadre.
+[EVENTO PRINCIPAL]
+La cámara se desplaza horizontalmente hacia la derecha a la misma velocidad que la protagonista. Con cada paso, bandas de tres colores se elevan una por una de abajo hacia arriba en el muro inmediatamente detrás de ella.
+[FIN]
+La protagonista caminando y las bandas de colores alineadas en el muro a su izquierda.
+
+[Toma 4 | 5.60~7.20s]
+[INICIO]
+Primer plano de la fachada de una florería en la calle. Flores en blanco y negro llenan los cubos.
+[EVENTO PRINCIPAL]
+Una banda Naranja Ámbar pasa desde el suelo por encima de las flores, tiñendo solo las flores dentro de la banda con colores frescos y vibrantes.
+[FIN]
+Una banda de flores coloreadas destacando entre flores grises.
+
+[Toma 5 | 7.20~9.00s]
+[INICIO]
+Primer plano de la protagonista desde el pecho hacia arriba, caminando hacia la cámara. Edificios en blanco y negro bordean el fondo.
+[EVENTO PRINCIPAL]
+La cámara retrocede a la misma velocidad. Bandas de colores se elevan una tras otra en los edificios al fondo, a la izquierda y a la derecha de la protagonista. Una pequeña sonrisa aparece en los labios de la protagonista.
+[FIN]
+El rostro sonriente de la protagonista y las bandas de colores alineadas en el fondo.
+
+[Toma 6 | 9.00~10.00s]
+[INICIO]
+Plano angular amplio mirando directamente a una plaza redonda en blanco y negro bajo un cielo gris. La protagonista camina hacia el centro de la plaza.
+[EVENTO PRINCIPAL]
+La protagonista se detiene y pisa una vez con firmeza los adoquines con sus botas. La cámara no se mueve.
+[FIN]
+El cuerpo completo de la protagonista de pie en el centro de la plaza.
+
+[Toma 7 | 10.00~11.80s]
+[INICIO]
+Vista de la protagonista en el centro de la plaza desde un ángulo bajo ligeramente distante. Todo su cuerpo cabe en el encuadre, desde por encima de su cabeza hasta debajo de sus botas, con espacio de cielo vacío sobre ella. El cielo y los edificios permanecen en blanco y negro.
+[EVENTO PRINCIPAL]
+La protagonista gira lentamente una vez sobre sí misma. El ruedo de la falda plisada se abre ampliamente en círculo, y las rayas de tres colores se despliegan como un abanico.
+[FIN]
+El cuerpo completo de la protagonista con el ruedo de la falda abierto ondeando cerca del suelo.
+
+[Toma 8 | 11.80~13.20s]
+[INICIO]
+Plano general en ángulo alto mirando hacia abajo a la plaza. La protagonista está de pie en el centro, rodeada completamente de blanco y negro.
+[EVENTO PRINCIPAL]
+Olas de tres colores se extienden concéntricamente desde los pies de la protagonista, cruzando los adoquines, trepando por los edificios y hacia el cielo, devolviendo el color natural a toda la ciudad.
+[FIN]
+La protagonista de pie en el centro de la plaza que ha recuperado su color.
+
+[Toma 9 | 13.20~15.00s]
+[INICIO]
+Primer plano desde el pecho hacia arriba de la protagonista en el centro de la plaza, mirando al frente. En el fondo, los edificios y el cielo azul han recuperado su color natural.
+[EVENTO PRINCIPAL]
+La cámara se acerca muy lentamente. La protagonista exhala en silencio y mira hacia la distancia. En lo profundo del cielo, mucho más allá de la protagonista, unos pequeños pétalos revolotean lentamente.
+[FIN]
+El rostro de la protagonista mirando serenamente hacia la distancia en medio de la luz de la ciudad coloreada.
+
+[SONIDO]
+BGM de una sola capa. Música ligera con chasquidos de dedos y contrabajo, reproduciéndose continuamente desde el primer fotograma en el segundo 0 sin interrupciones. A partir del momento en que la protagonista gira, se suman instrumentos de viento, expandiéndose de forma espléndida. Cuando el color regresa por completo, el sonido se apacigua y, finalmente, una sola nota resuena largamente antes de desvanecerse en silencio. Sin diálogos ni narración.
+
+[NEGATIVO]
+Texto, subtítulos, logotipos, marcas de agua
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117449754674417664/img/ego2_NDdp_fx5cE3.jpg" width="600" alt="Caminando entre Colores: El Despertar de la Calle Monocromática">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13440)**
+
+**Autor:** [AIライフハック](https://x.com/ai_lifehack55) | **Fuente:** [Link](https://x.com/ai_lifehack55/status/2117450061915578482) | **Publicado:** Nov 3, 2026
+
+---
+### Prompt de ejecución de director chino Seedance: The Promised Sea
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt detallado estilo director para Seedance 2.0 Mini/2.5, diseñado para crear un cortometraje en primera persona del género Xianxia sobre vuelo con espadas, titulado 'The Promised Sea'. Incluye instrucciones estrictas de continuidad, física, diálogos y movimientos de cámara.
+
+#### 📝 Prompt
+
+```
+Versión de ejecución para director chino de Seedance | "El mar prometido"
+
+I. Datos básicos del proyecto
+Duración: Estrictamente 15 segundos
+Relación de aspecto: 16:9 horizontal
+Idioma: Diálogos en chino mandarín
+Perspectiva: Totalmente en primera persona (POV) del protagonista masculino
+Estilo: Cortometraje hiperrealista y cinematográfico de Xianxia chino con vuelo sobre espada
+Modelo preferido: Seedance 2.0 Mini / 2.5
+
+II. Estilo central y objetivos narrativos
+Textura hiperrealista cinematográfica, estética pura del Xianxia chino antiguo.
+Todo el segmento utiliza la vista desde los ojos del protagonista masculino; la altura de la cámara es de aproximadamente 178 cm, siempre ligada al cuerpo del protagonista y al movimiento de su espada voladora. Todas las caídas en picada, aceleraciones, inclinaciones, giros de cabeza, ascensos, nivelaciones y planeos estables deben reflejar una inercia corporal realista y retroalimentación del centro de gravedad.
+La experiencia central no consiste en presumir habilidades, sino en:
+Vuelo inmersivo sobre espada en primera persona
+Transición espacial continua desde un gigantesco palacio celestial hasta el océano bajo las nubes
+Un cierre delicado que pasa de la "confusión por ser molestado" a "ella recuerda la promesa"
+La cámara debe mantenerse legible en todo momento: sin tomas flotantes estilo dron, sin inserciones en tercera persona ni barridos rápidos sin motivación.
+
+III. Fijación de personajes y elementos
+Personaje A | Protagonista femenina | Fijar estrictamente @Image1
+Misma mujer adulta de Asia oriental, misma identidad, rasgos faciales, forma del rostro, tono de piel, peinado y proporciones corporales.
+Textura de piel real, cabello negro largo ondeando naturalmente con el viento.
+Vestuario fijo en un solo conjunto:
+Túnica Xianxia para vuelo sobre espada en blanco lunar y cian claro
+Cuello bordado con hilo de plata
+Fajín ajustado a la cintura
+Capa interior de mangas estrechas
+Túnica exterior de seda
+Exquisitos accesorios de jade
+Las telas tienen peso real y un balanceo con ligero retraso.
+La protagonista femenina se mantiene de pie sobre su única espada voladora completa durante toda la escena, con los pies firmes sobre la hoja; el centro de gravedad del personaje, la dirección de la espada y la trayectoria de vuelo siempre son coherentes.
+Personaje B | Protagonista masculino | Sujeto en primera persona
+El rostro del protagonista masculino nunca aparece.
+El borde inferior del encuadre debe mostrar constantemente:
+Las puntas de los zapatos del protagonista masculino
+La estrecha espada voladora plateada bajo sus pies
+El protagonista masculino también permanece de pie sobre su única espada voladora completa durante toda la escena, con los pies firmes y una longitud, apariencia y orientación de la espada constantes.
+
+IV. Entorno y ADN espacial
+Entorno principal | Construido a partir de la Imagen de referencia 2
+El fondo se construye estrictamente a partir de @Image2, manteniendo el mismo entorno de palacio celestial gigante y preservando sus elementos centrales:
+Enorme rueda celeste circular de jade en el centro
+Palacios simétricos de madera oscura a izquierda y derecha
+Aleros curvados hacia arriba en múltiples niveles
+Amplia plaza de piedra blanca
+Plataformas suspendidas
+Cielo cian frío
+Atardecer dorado y cálido
+Contraste extremo de escala entre la arquitectura y los personajes.
+A partir de esto, extender de forma natural hacia abajo:
+Acantilados del palacio de diez mil zhang de altura
+Cascadas gigantescas
+Profundos valles de nubes
+Un vasto océano real debajo de las nubes
+Continuidad espacial
+El público debe entender claramente que se trata de una ruta continua:
+Eje alto del palacio celestial -> Exterior de la rueda de jade gigante -> Acantilados del palacio gigante -> Cascada -> Valle de nubes -> Atravesando las nubes -> Océano bajo las nubes
+No debe convertirse en una sucesión de escenas inconexas.
+La arquitectura, los acantilados, las cascadas, las nubes y el océano deben pertenecer a un único mundo completo.
+
+V. Reglas unificadas de vuelo y cámara
+Regla de primera persona
+La cámara siempre representa la visión del protagonista masculino y se mueve únicamente debido a su vuelo real.
+Los movimientos de cámara solo pueden originarse por:
+Avance rápido hacia adelante
+Caída en picada
+Inclinación lateral
+Seguir el giro de la protagonista femenina
+Ascenso
+Nivelación
+Giro natural de la cabeza para mirar a la protagonista femenina
+Volver a mirar hacia adelante
+Retroalimentación física obligatoria
+Breve sensación de ingravidez durante la caída en picada
+Presión lateral durante los giros
+Recuperación del centro de gravedad al nivelarse
+Compresión espacial al atravesar nubes o cascadas
+Retroalimentación corporal estable pero de alta velocidad durante el planeo sobre la superficie del mar
+Requisitos de paralaje
+La arquitectura en primer plano, los aleros, los muros de piedra y la niebla pasan velozmente
+Los palacios gigantes en el plano medio conservan claramente su volumen
+Las nubes, montañas e islas del fondo se mueven relativamente más lento
+La relación espacial general permanece clara
+
+VI. Storyboard completo de 15 segundos
+0-3 s | Inicio paralelo a gran altitud: ¿Dónde está el mar prometido?
+Visual
+Inicio directo en primera persona a gran altitud.
+El protagonista masculino ya flota a cientos de metros sobre la plaza del eje central del palacio celestial.
+El borde inferior muestra claramente las puntas de sus zapatos y la estrecha espada voladora plateada.
+El sujeto en primer plano es la rueda circular de jade gigante que domina la visión.
+Enormes palacios a izquierda y derecha se extienden en niveles a gran altitud.
+La protagonista femenina va de pie sobre su propia espada voladora, volando en paralelo al protagonista masculino a unos 2 m de distancia. El violento viento de montaña tira de su cabello largo y del dobladillo de seda de forma natural hacia atrás.
+Acción
+El protagonista masculino mira alrededor con naturalidad y luego dirige la vista hacia la protagonista femenina.
+Diálogo
+Protagonista masculino (con ligera confusión por sentirse molestado):
+"¿Dónde está el mar prometido?"
+La protagonista femenina gira el rostro de perfil y la comisura de sus labios se eleva ligeramente:
+"Debajo de tus pies. Sígueme."
+Acción de cierre del segmento
+Apenas terminan sus palabras, la protagonista femenina inclina repentinamente el cuerpo hacia adelante, presiona la punta de la espada hacia abajo y, junto con ella, se lanza rápidamente en picada por el exterior del palacio celestial.
+La primera persona del protagonista masculino la sigue de inmediato, su espada voladora acelera bruscamente y el cuerpo experimenta una breve y realista sensación de ingravidez por la caída.
+
+3-7 s | Caída en estructura gigante: Descendiendo por la cascada a lo largo del exterior del palacio
+Visual y ruta
+La primera persona sigue a la protagonista femenina descendiendo por el exterior del anillo gigante.
+La enorme estructura del anillo de jade sube rápidamente por encima de la cabeza y sale del encuadre.
+La protagonista femenina siempre va varios metros adelante, con una forma y dirección de vuelo estables y claras.
+Dos espadas voladoras descienden rápidamente por los acantilados exteriores del palacio gigante:
+Pasando bajo enormes aleros
+Volando a ras de bases de edificios de piedra blanca de cientos de metros de altura
+Luego completando un suave y amplio giro en arco hacia la derecha en el exterior de la cascada de diez mil zhang
+Todo el segmento forma una clara ruta de vuelo aéreo en forma de S:
+Caída pronunciada
+Esquivando edificios
+Inclinándose en el giro
+Continuando el descenso por el borde de la cascada
+Paralaje
+Los enormes soportes dougong, los muros de piedra y la niebla en primer plano pasan a toda velocidad.
+Los palacios lejanos y las nubes se mueven con relativa lentitud.
+La sensación de velocidad y espacio debe ser sumamente intensa.
+Diálogo
+El protagonista masculino grita contra el viento:
+"¿No hay solo nubes allá abajo?"
+La protagonista femenina voltea brevemente mientras vuela:
+"¡Más abajo!"
+Luego vuelve a presionar la punta de la espada hacia abajo, lanzándose hacia el valle de nubes bajo la cascada.
+
+7-11 s | Atravesando la cascada y las nubes: Revelación total del océano bajo las nubes
+Visual y ruta
+La protagonista femenina continúa la caída por el borde de la cascada, luego presiona suavemente la espada hacia la izquierda, pasando por un amplio canal entre la columna de agua y el muro de nubes.
+La primera persona del protagonista masculino la sigue de cerca.
+La cámara experimenta algo extremadamente breve:
+Niebla blanca semitransparente
+Obstrucción de nubes
+Pero esta obstrucción debe ser corta, transparente y legible, nunca caótica ni fuera de control.
+Luego irrumpen desde la parte inferior de las nubes.
+Revelación asombrosa
+La visión se abre por completo de manera instantánea.
+Bajo el mar de nubes hay un océano azul profundo verdaderamente inmenso.
+La cálida luz dorada del sol se extiende sobre la superficie del mar.
+A lo lejos hay islas montañosas de distintos tamaños, niebla marina azul pálido y sombras lejanas proyectadas por los enormes edificios del palacio celestial.
+Transición del estado de vuelo
+La espada voladora de la protagonista femenina se nivela gradualmente siguiendo un arco suave, convirtiendo la caída pronunciada de forma natural en un planeo a alta velocidad cerca de la superficie del mar.
+La primera persona del protagonista masculino eleva su espada en consecuencia y el cuerpo recupera naturalmente la postura erguida tras la inclinación hacia adelante.
+El encuadre muestra una retroalimentación del centro de gravedad real pero contenida debido al cambio en la dirección de la velocidad.
+Diálogo
+No hay diálogos en este segmento.
+Apoyarse en la trayectoria de la espada, los cambios espaciales y las variaciones de sonido para completar la revelación.
+
+11-15 s | Vuelo paralelo sobre el mar: No olvidé mi promesa
+Estado visual
+Ambos vuelan sobre sus espadas en paralelo a alta velocidad sobre la superficie del mar.
+Las espadas voladoras van a unos 3 metros sobre el mar.
+Olas reales avanzan constantemente hacia atrás.
+La cálida luz dorada del sol crea destellos fragmentados en las crestas de las olas.
+Las espadas voladoras rozando la superficie generan una fina neblina y una leve perturbación del aire.
+Cambio de posición relativa de la protagonista femenina
+La protagonista femenina reduce la distancia lateral trazando una elegante trayectoria en arco desde adelante, hasta finalmente mantener un vuelo en paralelo con el protagonista masculino a unos 3 metros de separación.
+Acción en primera persona
+La primera persona del protagonista masculino gira la cabeza de forma natural para mirarla.
+Su cabello largo y el dobladillo se estiran hacia atrás con la corriente de aire, y algunos mechones cerca de la mejilla son levantados por el viento.
+Diálogo
+La protagonista femenina mira al protagonista masculino; su expresión anterior, ligeramente burlona, se transforma poco a poco en una sonrisa tierna e involuntaria, y dice con suavidad:
+"No olvidé mi promesa contigo."
+El protagonista masculino la observa en silencio por un instante y luego gira la cabeza con naturalidad para mirar hacia adelante.
+Visual de cierre
+El último encuadre muestra:
+Un océano dorado y azul infinito
+Un archipiélago lejano
+La silueta difusa del enorme palacio celestial detrás, en lo alto del cielo
+Dos espadas voladoras que continúan avanzando lado a lado bajo la luz del sol.
+El encuadre termina de forma natural mientras ambos siguen volando sobre sus espadas.
+Ancla de continuidad para el cierre
+Al terminar, se debe conservar:
+La dirección completa
+La velocidad actual
+La altura de la primera persona del protagonista masculino
+La posición relativa de la protagonista femenina
+El estado de vuelo nivelado sobre la superficie del mar
+La continuidad espacial que permita enlazar con el siguiente segmento
+
+VII. Lista de diálogos (Control estricto)
+Conservar únicamente los siguientes diálogos para toda la pieza, no añadir líneas explicativas:
+Protagonista masculino: "¿Dónde está el mar prometido?"
+Protagonista femenina: "Debajo de tus pies. Sígueme."
+Protagonista masculino: "¿No hay solo nubes allá abajo?"
+Protagonista femenina: "¡Más abajo!"
+Protagonista femenina: "No olvidé mi promesa contigo."
+Requisitos de ejecución de los diálogos
+Mandarín coloquial y natural
+Sincronización labial precisa cuando la protagonista femenina sea visible hablando
+El protagonista masculino siempre es una voz masculina en off en primera persona
+Separación clara entre las voces masculina y femenina
+Sin interrupciones, sin superposiciones, sin lectura mecánica
+
+VIII. Diseño sonoro
+Primera mitad | Gran altitud del palacio celestial
+Silbido del viento de montaña a gran altitud
+Sonido del viento cortado por el vuelo sobre la espada
+Rugido lejano de la cascada
+Sensación de presión del aire al pasar velozmente junto a estructuras gigantes
+Sección media | Atravesando nubes y cascada
+El sonido del viento se vuelve más grave y envolvente
+Sensación de penetrar la niebla
+El campo sonoro se abre de golpe al irrumpir desde las nubes
+Segunda mitad | Planeo sobre el mar
+Sonido de olas en mar abierto
+Sutiles sonidos de neblina generados por la espada voladora al rozar el mar
+Voces humanas más nítidas
+Música
+Contenida en la primera mitad
+Entra de forma natural en el clímax emocional cuando "el océano aparece por primera vez en su totalidad"
+Vuelve a la suavidad al final
+No debe opacar los diálogos ni los sonidos ambientales.
+
+IX. Requisitos de continuidad y física
+Continuidad del personaje
+La protagonista femenina siempre es la misma persona que en @Image1:
+Sin cambio de rostro
+Sin cambio de peinado
+Sin cambio de vestuario
+Sin cambio de proporciones corporales
+Continuidad de la espada voladora
+Cada personaje tiene únicamente una espada voladora completa
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117186940445560832/img/aaM58O2D2io_uZ2e.jpg" width="600" alt="Prompt de ejecución de director chino Seedance: The Promised Sea">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13435)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2117190326528168293) | **Publicado:** Nov 2, 2026
+
+---
+### Prompt de Video Cómico Xianxia de la Antigua China para Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt detallado para generar un video cinematográfico de 15 segundos usando Seedance 2.0 Mini. Presenta a dos inmortales espadachinas que practican en secreto durante sus vacaciones, lo que lleva a una confrontación cómica con su maestro. El prompt especifica texturas realistas, calidad Arri Alexa y acciones precisas de los personajes.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | "Hoy es día libre"
+
+Modelo: Seedance 2.0 Mini
+Duración: Estrictamente 15 segundos
+Relación de aspecto: 16:9 Horizontal
+Género: Xianxia chino antiguo puro / Comedia con giro inesperado / Vida cotidiana en la secta / Drama de relación entre dos personas
+Estructura: Tres planos cinematográficos continuos y claros, cada uno con una función cómica distinta.
+I. Estilo general y dirección creativa
+Textura realista cinematográfica, estética Xianxia china antigua pura.
+Integrar los siguientes lenguajes cómicos:
+Comedia física precisa del cine mudo clásico
+Humor seco y frío británico (deadpan)
+El ritmo ágil de reacciones de la comedia hongkonesa
+Giros en tres actos generados por el comportamiento de los personajes
+Fotografía y textura visual
+Adoptar:
+Textura de cámara de cine Arri Alexa
+Texturas de piel reales
+Grano de película fino
+Luz volumétrica natural
+Movimiento real de telas de seda
+Física de cabello real
+Principios de dirección de comedia
+Generar risas de forma natural a través de:
+El comportamiento de los personajes
+La sincronización de acciones
+El contacto visual
+Los silencios breves
+La velocidad de reacción
+La distribución espacial real en escena
+Los personajes no deben retratarse como tontos.
+Ambas protagonistas son espadachines de altísimo nivel, con movimientos hermosos y personalidades bien definidas.
+Tienen una fuerte rivalidad entre ellas, pero mantienen una relación muy cercana.
+II. Trama central y mecanismo cómico
+Núcleo de la historia
+La secta anuncia un día libre, pero la Hermana Mayor y la Hermana Menor practican espada a escondidas, sin que ninguna admita estar esforzándose.
+Resultado:
+Ambas son atrapadas con las manos en la masa al mismo tiempo por el Maestro.
+El día libre se convierte directamente en entrenamiento extra.
+Conflicto cómico
+La risa surge de una contradicción humana muy familiar:
+Todos acordaron descansar, pero a todos les preocupa que los demás avancen en secreto mientras ellos reposan.
+Ambas quieren esforzarse a escondidas.
+Como resultado, se cruzan.
+Al final, ninguna saca provecho.
+Estructura de giros en tres capas
+Capa 1: Día libre
+El Maestro anuncia claramente que todos descansarán y que practicar espada está prohibido.
+Capa 2: Descubrimiento mutuo
+La Hermana Mayor y la Hermana Menor regresan a escondidas a practicar y se encuentran.
+Capa 3: Castigo con entrenamiento extra
+Ambas creen que solo fueron descubiertas por la otra, pero finalmente el Maestro las atrapa al mismo tiempo.
+Practicar dos movimientos a escondidas resulta en cien movimientos de entrenamiento extra.
+Restricción narrativa
+Toda la historia gira en torno a este único evento.
+No agregar otras líneas argumentales independientes.
+III. Identidad de los personajes y fijación de elementos clave
+Personaje A | @Image1 | Hermana Mayor Inmortal de la Espada
+Identidad y apariencia
+La misma Hermana Mayor Inmortal de la Espada:
+Mujer adulta de Asia Oriental, de 25 a 30 años
+Rasgos faciales que heredan estrictamente la imagen de referencia del personaje
+Forma del rostro que hereda estrictamente la imagen de referencia del personaje
+Tono de piel que hereda estrictamente la imagen de referencia del personaje
+Complexión que hereda estrictamente la imagen de referencia del personaje
+Cabello negro largo recogido a medias
+Sujetado con un pasador de jade blanco
+Vestuario fijo
+Traje Xianxia de seda real bordado en color blanco
+Cinturón plateado
+Arma exclusiva
+Una espada larga plateada única.
+Personalidad y actuación
+Digna y elegante
+Expresiones contenidas
+Mantiene por costumbre la autoridad de Hermana Mayor
+Competitiva frente a la Hermana Menor
+Enfoque cómico
+Cuando la digna Hermana Mayor es descubierta practicando a escondidas por la Hermana Menor, muestra una incomodidad breve y genuina.
+Personaje B | @Image2 | Hermana Menor
+Identidad y apariencia
+La misma Hermana Menor:
+Mujer adulta de Asia Oriental, de 20 a 25 años
+Identidad facial que hereda estrictamente la imagen de referencia del personaje
+Proporciones corporales que heredan estrictamente la imagen de referencia del personaje
+Peinado que hereda estrictamente la imagen de referencia del personaje
+Cabello negro largo trenzado
+Vestuario fijo
+Vestido antiguo de tono azul verdoso
+Cinturón oscuro
+Arma exclusiva
+Una espada de acero oscuro única.
+Personalidad y actuación
+Alegre
+Competitiva
+Se niega a admitir que se esfuerza menos que la Hermana Mayor
+Enfoque cómico
+Pensando que podría practicar a escondidas, al descubrir que la Hermana Mayor también está ahí, reacciona de inmediato con sorpresa y resistencia natural.
+Nuevo personaje secundario | El viejo Maestro
+Solo hay un viejo Maestro durante toda la pieza.
+Requisitos del personaje
+Apariencia consistente en todo momento
+Vestuario consistente en todo momento
+La posición del personaje tiene una lógica espacial real
+Personalidad
+Serio
+Impasible (deadpan)
+Con un toque de perspicacia humorística sobre todo lo que ocurre
+Enfoque de actuación
+El Maestro no necesita expresiones exageradas.
+Su calma genera un contraste cómico con el pánico de las dos protagonistas.
+IV. ADN del fondo y el entorno
+Todas las imágenes de referencia de fondos y locaciones recién subidas definen en conjunto un mundo Xianxia real y existente.
+Planificación del entorno
+Antes de componer formalmente, comprender qué presentan en conjunto las imágenes de referencia:
+Estructura del terreno
+Relaciones arquitectónicas
+Escala espacial
+Materiales
+Vegetación
+Cuerpos de agua
+Nubes/niebla
+Clima
+Dirección de la luz principal
+Reflejos
+Profundidad atmosférica
+Planificar un espacio abierto adecuado para que dos personas practiquen espada, siempre respetando las relaciones geográficas reales.
+Continuidad de la locación
+Los tres planos ocurren siempre dentro del mismo sistema espacial real.
+Debe mantenerse:
+Relaciones de terreno consistentes
+Posiciones de edificios consistentes
+Posiciones de caminos consistentes
+Dirección de luz principal consistente
+Hitos ambientales principales continuos
+Principio clave
+El fondo no puede convertirse en un recurso narrativo.
+V. Entorno vivo y neutralidad narrativa
+Movimiento natural del entorno
+Un viento natural empuja suavemente y de forma continua:
+Las mangas
+Las hojas
+Otros objetos naturales acordes a las imágenes de referencia
+Si hay cuerpos de agua:
+El agua fluye de manera natural y continua
+Si hay nubes/niebla:
+Las nubes/niebla cambian lentamente según el terreno real
+Simultáneamente, mantener:
+Movimiento natural de la vegetación lejana
+Reflejos continuos
+Capas atmosféricas continuas
+Principio del entorno
+Todo el entorno debe ser:
+Vivo
+Con vitalidad real
+Acorde a las leyes de la física
+Y al mismo tiempo:
+No afectar en absoluto las decisiones de los personajes ni los giros cómicos.
+VI. Desglose completo de planos de 15 segundos
+0–5s | Primer plano: Plano general | El Maestro anuncia el día libre
+Función del plano
+Establecer las reglas, dejando claro al público que hoy debería ser un día de descanso.
+Cámara
+Usar un plano panorámico en pantalla ancha.
+Ángulo ligeramente contrapicado.
+Mostrar plenamente la profundidad espacial real de la escena de referencia actual.
+Posicionamiento inicial de los personajes
+Maestro
+El mismo viejo Maestro de pie en el centro del encuadre.
+Hermanas Mayor y Menor
+La misma Hermana Mayor Inmortal de la Espada vestida de blanco y la misma Hermana Menor vestida de verde azulado están de pie, lado a lado, frente al Maestro.
+Ambas:
+Tienen sus espadas largas envainadas
+Están de pie con postura correcta
+Lucen serias
+El Maestro anuncia el día libre
+El Maestro declara impasible:
+[Maestro] "¡Hoy es día libre, nadie tiene permitido practicar espada!"
+Primera reacción del dúo
+Ambas escuchan sobre el día libre.
+Sus ojos muestran simultáneamente una sutil alegría.
+Pero de inmediato recuperan su actitud respetuosa.
+Diálogo y acción sincronizados
+Ambas hacen una reverencia al mismo tiempo:
+[Hermana Mayor, Hermana Menor] "¡Sí!"
+Salida de los personajes
+Después:
+La Hermana Mayor se va en una dirección
+La Hermana Menor se va en la dirección opuesta
+Ambas caminan con tranquilidad
+El Maestro también camina lentamente por el camino establecido dentro del encuadre.
+Requisito de cámara
+La cámara permanece estable.
+Objetivo narrativo del primer plano
+Debe quedar claro para el público:
+Que hoy iba a ser un día de descanso para todos.
+5–10s | Segundo plano: Plano medio | Dos trabajadoras secretas atrapadas con las manos en la masa
+Función del plano
+Completar el primer giro cómico mediante acciones independientes duales y una incomodidad sincronizada.
+Continuidad espacial
+Corte a un plano medio del mismo espacio de práctica de espada.
+El siguiente contenido es estrictamente continuo con el plano anterior:
+Terreno
+Edificios
+Iluminación
+Relaciones espaciales
+Primer segmento de acción: La Hermana Mayor regresa a escondidas
+La misma Hermana Mayor Inmortal de la Espada vestida de blanco regresa sigilosamente al área de práctica.
+Primero observa su entorno con total naturalidad.
+Confirma que el Maestro no está cerca.
+Luego desenvaina la misma espada larga plateada.
+Técnica de espada de la Hermana Mayor
+Completa rápidamente un movimiento sumamente hermoso:
+Un tajo diagonal con giro.
+Requisitos de acción:
+Movimiento corporal fluido
+Base estable
+Las mangas de seda real se balancean naturalmente formando arcos elegantes
+Segundo segmento de acción: La Hermana Menor también regresa a escondidas
+Sin embargo, casi al mismo tiempo.
+La misma Hermana Menor vestida de verde azulado también regresa sigilosamente desde el otro lado del encuadre.
+Igualmente asume que no hay nadie más allí.
+Así que desenvaina la misma espada de acero oscuro.
+Técnica de espada de la Hermana Menor
+Completa un:
+Tajo diagonal limpio y afilado.
+Principio de técnica de espada dual
+Los movimientos de ambos personajes son hermosos.
+Las puntas de las espadas:
+No chocan
+No apuntan la una hacia la otra
+Primer giro cómico: Descubrimiento mutuo
+Hasta que ambas terminan de girar.
+De repente descubren:
+Que la otra también está ahí.
+Las dos maestras se congelan al mismo tiempo.
+Pausa cómica
+Mantener una pausa que sea:
+Completa
+Clara
+Ligeramente incómoda
+Primera ronda de diálogos
+La Hermana Menor habla primero:
+[Hermana Menor] "¿Hermana Mayor, tú también estás practicando a escondidas?"
+La Hermana Mayor responde de inmediato:
+[Hermana Mayor] "¿Y tú no?"
+Reacción dual silenciosa
+Ambas espadas permanecen en posiciones seguras.
+Primero miran hacia abajo, a las espadas en las manos de la otra.
+Luego levantan la vista y se cruzan de miradas.
+Información cómica
+Dos personas que se esforzaban en secreto de pronto ya no pueden seguir fingiendo que solo pasaban por ahí.
+Principio de cámara
+La cámara mantiene un encuadre completo de ambas.
+Dejar que la incomodidad perfectamente sincronizada de las dos genere la risa de forma natural.
+10–15s | Tercer plano: Primer plano | El día libre se convierte directamente en entrenamiento extra
+Función del plano
+Completar el último giro cómico mediante la reaparición del Maestro, la orden de entrenamiento extra y la reacción dual sincronizada.
+Cámara
+La cámara avanza lentamente desde el plano medio de ambas.
+Lógica espacial del regreso del Maestro
+El mismo Maestro ya se había ido por el camino previamente establecido.
+Pero tras escuchar el sonido de su práctica de espada:
+Se detiene
+Se da la vuelta
+Regresa caminando por el mismo camino
+Las Hermanas Mayor y Menor no se dan cuenta en absoluto.
+El Maestro habla de repente
+Hasta que el Maestro dice con calma detrás de ellas:
+[Maestro] "¿Les gusta tanto practicar? Sumen cien movimientos de entrenamiento."
+Segunda congelación sincronizada del dúo
+Ambas escuchan la voz.
+Se congelan instantáneamente al mismo tiempo.
+Después, con acciones casi idénticas:
+Envainan rápidamente sus respectivas espadas largas
+Se dan la vuelta simultáneamente
+Quedan frente al Maestro
+Hacen una reverencia sincera
+Diálogo de súplica sincronizado
+[Hermana Mayor, Hermana Menor] "¡Maestro, nos equivocamos!"
+Cierre de humor frío del Maestro
+El rostro del Maestro no cambia.
+[Maestro] "Demasiado tarde."
+Primer plano extremo final
+Las dos inmortales de la espada que solo querían superarse en secreto se miran muy lentamente.
+Ambas comprenden al mismo tiempo:
+Practicar dos movimientos a escondidas resultó en cien movimientos de entrenamiento extra.
+Expresión final
+Idénticas expresiones de resignación aparecen en sus rostros.
+Ni siquiera necesitan decir una palabra más.
+Final
+Justo en el momento de su contacto visual silencioso, corte preciso a negro.
+VII. Tres planos y control de ritmo
+Estructura de tiempo fija
+Tiempo Tamaño de plano Tarea narrativa Mecanismo cómico 0–5s Panorámico en pantalla ancha Establecer la regla del día libre en la secta Regla impasible vs. expectativa oculta 5–10s Plano medio de dos personas Ambas practican espada a escondidas y se descubren Espejo conductual e incomodidad sincronizada 10–15s Primer plano avanzando a primer plano extremo Aparece el Maestro y anuncia el entrenamiento extra Intervención de autoridad y giro final
+Principio de edición
+Mantener la estructura principal de tres planos continuos durante toda la pieza.
+Los tres planos completan respectivamente:
+Establecer las reglas
+Romper las reglas
+Pagar el precio por infringirlas
+Ritmo cómico
+Segmento 1: Calmado, ordenado
+Segmento 2: Aceleración repentina, juego de espadas hermoso, congelamiento inesperado
+Segmento 3: El Maestro aparece con calma, ambas se disculpan rápido, contacto visual silencioso final
+Las pausas deben servir a la comedia; no alargarlas a propósito solo para llenar tiempo.
+VIII. Acciones de técnica de espada y física corporal
+Técnica de espada de la Hermana Mayor
+Usa la espada larga plateada única.
+Acciones:
+Desenvainar → Tajo diagonal con giro → Aterrizaje estable → Descubrir a la Hermana Menor → Detenerse → Finalmente envainar
+Técnica de espada de la Hermana Menor
+Usa la espada de acero oscuro única.
+Acciones:
+Desenvainar → Tajo diagonal limpio → Aterrizaje estable → Descubrir a la Hermana Mayor → Detenerse → Finalmente envainar
+Requisitos de técnica de espada dual
+Las acciones son reales
+Las trayectorias de las espadas son claras
+Los movimientos corporales son elegantes
+La física es razonable
+El movimiento de las telas es natural
+Los personajes poseen habilidades reales con la espada
+Estrictamente prohibido
+Efectos especiales exagerados
+Un duelo real entre ambas
+Choques accidentales de armas
+Trucos con armas sin sentido
+IX. Actuación de los personajes y tensión cómica
+Hermana Mayor
+Plano 1
+Mantiene la imagen de Hermana Mayor digna y respetuosa.
+Solo muestra una sutil alegría al escuchar sobre el día libre.
+Plano 2
+Observa cuidadosamente su entorno y luego practica a escondidas.
+Su manejo de la espada es hermoso.
+Al descubrir a la Hermana Menor, su autoridad se quiebra por un instante.
+Aun así, mantiene la compostura de forma inconsciente.
+Plano 3
+Envaina la espada y se disculpa de inmediato al escuchar la voz del Maestro.
+Finalmente mira a la Hermana Menor, mostrando una resignación contenida pero evidente.
+Hermana Menor
+Plano 1
+Feliz pero educada al escuchar sobre el día libre.
+Plano 2
+Regresa a escondidas a practicar.
+Sus movimientos son igual de hermosos.
+Al descubrir a la Hermana Mayor, primero se sorprende y luego no puede evitar hablar.
+Plano 3
+Se disculpa rápidamente al escuchar la orden de entrenamiento extra.
+Forma una expresión de resignación sincronizada con la Hermana Mayor al final.
+Maestro
+Plano 1
+Anuncia seriamente el día libre.
+Plano 2
+Se va por el camino establecido.
+Plano 3
+Regresa de forma natural tras escuchar los sonidos de la práctica.
+Anuncia con calma el entrenamiento extra.
+Ante sus súplicas, sin cambiar de expresión, dice:
+"Demasiado tarde."
+Principio de actuación
+El humor del Maestro proviene de:
+Cuanto más serio es él, más incómodas se vuelven ellas.
+X. Diálogos completos y sincronización labial
+0–5s
+[Maestro] "¡Hoy es día libre, nadie tiene permitido practicar espada!"
+[Hermana Mayor, Hermana Menor simultáneamente] "¡Sí!"
+5–10s
+[Hermana Menor] "¿Hermana Mayor, tú también estás practicando a escondidas?"
+[Hermana Mayor] "¿Y tú no?"
+10–15s
+[Maestro] "¿Les gusta tanto practicar? Sumen cien movimientos de entrenamiento."
+[Hermana Mayor, Hermana Menor simultáneamente] "¡Maestro, nos equivocamos!"
+[Maestro] "Demasiado tarde."
+Requisitos de ejecución de diálogos
+Todos los diálogos usan mandarín natural
+Los personajes indicados hablan con precisión
+La sincronización labial coincide con el audio
+Los diálogos simultáneos deben estar realmente sincronizados
+No agregar líneas explicativas temporales
+Pausas cómicas
+Debe preservarse:
+El breve congelamiento tras el descubrimiento mutuo
+La reacción sincronizada cuando el Maestro aparece de repente
+El contacto visual silencioso final de ambas
+Principio central
+Completar la narrativa principal a través de las acciones, las miradas y las pausas cómicas de los personajes.
+XI. Continuidad de personajes, armas y escenas
+Protagonistas duales
+Debe mantenerse estrictamente:
+La misma identidad facial
+La misma forma de rostro y rasgos
+El mismo peinado
+El mismo vestuario
+Las mismas proporciones corporales
+Armas
+Hermana Mayor
+Espada larga plateada única.
+Hermana Menor
+Espada de acero oscuro única.
+Estado de las armas
+Plano 1:
+Ambas espadas están envainadas.
+Plano 2:
+Cada una desenvaina por separado para practicar.
+Plano 3:
+Ambas envainan simultáneamente sus respectivas espadas largas.
+Maestro
+Mantener:
+La misma identidad del personaje
+La misma apariencia
+El mismo vestuario
+Una trayectoria de movimiento real y continua
+Espacio
+Los tres planos deben preservar:
+La misma identidad ambiental
+Las mismas relaciones geográficas
+El mismo sistema arquitectónico
+La misma lógica de iluminación
+La misma área de práctica
+Restricciones estrictas
+Los personajes no pueden mágicamente:
+Aparecer
+Cambiar de lugar
+Teletransportarse
+XII. Diseño sonoro
+Sonido ambiental
+Mantener sonidos espaciales reales acordes al entorno de referencia:
+Viento natural
+Hojas crujiendo
+Flujo de agua (si está presente en la escena de referencia)
+Sonidos ambientales lejanos
+Fricción real de la tela de seda
+Sonidos de técnica de espada
+Al desenvainar y dar tajos:
+Fricción real al desenvainar
+Sonidos cortos y claros de la espada cortando el aire
+Sonido de las mangas al girar
+Sonidos reales de los pasos al aterrizar
+Ritmo sonoro cómico
+Plano 1
+Principalmente sonidos ambientales naturales y diálogos de los personajes.
+Plano 2
+Los hermosos movimientos de espada traen sonidos cortos de corte de aire.
+Tras el descubrimiento mutuo, preservar pausas naturales lo suficientemente claras.
+Plano 3
+El Maestro habla con calma.
+Sonidos naturales de fricción con la vaina cuando ambas envainan rápidamente.
+Última línea:
+"Demasiado tarde."
+Luego, concluir con el contacto visual silencioso de ambas.
+XIII. Requisitos finales de ejecución para Seedance 2.0 Mini
+Especificaciones básicas
+Completar estrictamente 15 segundos
+16:9 Horizontal
+Tres planos narrativos claros
+Enfoque central de ejecución
+Identidades de las dos protagonistas consistentes
+Identidad y trayectoria de movimiento del Maestro continuas
+Espacio geográfico continuo en los tres planos
+Técnicas de espada reales y elegantes
+Reacciones incómodas de ambas naturalmente sincronizadas
+Actuación de humor frío del Maestro contenida
+Todos los diálogos en mandarín y la sincronización labial precisos
+Entorno naturalmente vivo y narrativamente neutral
+Estrictamente prohibido
+Cambios repentinos de rostro
+Cambios repentinos de vestuario
+Cambios de peinado
+Duplicación de espadas largas o confusión sobre quién es la dueña
+El Maestro teletransportándose de repente detrás de ellas
+Cambios repentinos de locación de fondo
+Efectos mágicos irrelevantes
+Choques reales de ambas armas
+Cámara lenta innecesaria
+Comedia física exagerada
+Movimientos rápidos de cámara sin sentido
+Elementos modernos
+Subtítulos
+Títulos
+Marcas de agua
+XIV. Criterios finales de aceptación
+Debe presentar completamente los siguientes siete eventos clave:
+El Maestro anuncia claramente el día libre y prohíbe practicar espada.
+Las Hermanas Mayor y Menor responden con respeto y se van en direcciones opuestas.
+La Hermana Mayor regresa a escondidas a practicar, completando hermosos movimientos de espada.
+La Hermana Menor también regresa a escondidas, completando movimientos de espada independientes.
+Ambas se descubren, experimentan una breve incomodidad y se cuestionan mutuamente.
+El Maestro regresa por el camino original y anuncia cien movimientos de entrenamiento extra.
+Ambas se disculpan al unísono, se les dice que es demasiado tarde y finalmente se miran con resignación antes del corte a negro.
+Aterrizaje cómico final
+Aquellas que más temían ser superadas en secreto por la otra terminan castigadas juntas con entrenamiento extra.
+La verdadera risa viene de:
+Sus habilidades con la espada son formidables, pero el Maestro ve claramente lo que piensan.
+XV. Prompt negativo
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117170492784410624/img/4xtXWA3SnTajsD5_.jpg" width="600" alt="Prompt de Video Cómico Xianxia de la Antigua China para Seedance 2.0 Mini">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13439)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2117171375064719437) | **Publicado:** Nov 2, 2026
+
+---
+### Prompt de Video Cinematográfico Xianxia con Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt detallado para generar un cortometraje cinematográfico de Xianxia (héroe inmortal) chino de 15 segundos utilizando Seedance 2.0 Mini. Especifica la consistencia de personajes entre imágenes de referencia, movimientos de cámara, estilos de iluminación (calidad Arri Alexa) y una estructura narrativa de tres actos que involucra pérdida de memoria y giro emocional.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | "Volver a conocernos"
+
+Modelo: Seedance 2.0 Mini
+Duración: Estrictamente 15 segundos
+Relación de aspecto: 16:9 Horizontal
+Tipo: Xianxia chino antiguo puro / Giro emocional / Suspenso psicológico / Drama de relaciones entre personajes
+Estructura: Tres planos cinematográficos continuos y claros con distintas funciones narrativas.
+I. Estilo general y dirección creativa
+Cortometraje hiperrealista de Xianxia chino antiguo con calidad cinematográfica.
+Construir un giro emocional con un tono fantástico utilizando los siguientes elementos:
+Un mundo Xianxia grandioso pero realista
+Actuaciones contenidas de los personajes
+Fuerte contraste en las relaciones
+Lenguaje de cámara preciso
+Fotografía y textura visual
+Adoptar:
+Textura de cámara de cine Arri Alexa
+Piel humana realista
+Materiales de seda delicados
+Luz volumétrica natural
+Perspectiva aérea
+Profundidad espacial real
+II. Trama central y giro emocional
+Núcleo de la historia
+Una persona finalmente alcanza la inmortalidad, pero en el momento de ascender al cielo, olvida a quien menos quería olvidar.
+La Hermana Mayor Inmortal de la Espada está a punto de ascender.
+El Enviado Celestial trae el Decreto de Ascensión.
+El precio es:
+Renunciar a todos los recuerdos mortales.
+Cuando el decreto surte efecto, la Hermana Mayor realmente olvida a la Hermana Menor.
+Sin embargo, al final rompe por iniciativa propia el contrato de ascensión.
+El verdadero giro
+La Hermana Mayor no recupera la memoria.
+Simplemente vuelve a elegir a la persona que tiene enfrente.
+Punto de cierre emocional definitivo
+"No. Volvamos a conocernos".
+Esta frase no aparece antes de tiempo; surge de forma natural solo en el primer plano final.
+Principio narrativo
+Todo el segmento impulsa la historia a través de las relaciones entre los personajes.
+No depender de:
+Magia a gran escala
+Explicaciones largas
+Cambios repentinos de fondo
+III. Identidad de los personajes y bloqueo de recursos principales
+Personaje A | @Image1 | Hermana Mayor Inmortal de la Espada
+Identidad
+La misma mujer adulta de Asia Oriental, de entre 25 y 30 años.
+Heredar estrictamente la identidad del personaje y sus rasgos faciales de la imagen de referencia.
+Apariencia fija
+Rostro ovalado natural y claro
+Ojos oscuros color almendra
+Cabello negro largo recogido a medias
+Sujeto con una horquilla de jade blanco
+Figura alta y esbelta
+Vestimenta fija
+Hanfu de seda auténtica blanca bordada
+Mangas anchas superpuestas semitransparentes
+Sello de cintura plateado
+Colgante de jade
+Botas de tela blanca
+Arma exclusiva
+La única espada larga plateada.
+Continuidad de recursos
+Lo siguiente debe mantenerse constante en todo momento:
+Rostro
+Peinado
+Complexión física
+Vestimenta
+Espada plateada
+Colgante de jade
+Personaje B | @Image2 | Hermana Menor
+Identidad
+La misma mujer adulta de Asia Oriental, de entre 20 y 25 años.
+Heredar estrictamente la identidad del personaje y sus rasgos faciales de la imagen de referencia.
+Apariencia fija
+Rostro redondo y luminoso
+Cabello negro largo trenzado
+Figura menuda
+Vestimenta fija
+Hanfu de lino azul verdoso
+Cinturón oscuro
+Horquilla de madera
+Zapatos de tela negra
+Arma exclusiva
+La única espada de acero oscuro.
+Restricción de acción para este segmento
+La Hermana Menor no necesita desenvainar su espada en este cortometraje.
+IV. Nuevos personajes secundarios
+Enviado Celestial
+Un enviado adulto de estilo antiguo con un porte solemne.
+Vestimenta
+Túnica ceremonial dorada clara, lujosa pero discreta.
+Recurso principal
+Sostiene en la mano un pergamino de seda dorada con el Decreto de Ascensión.
+Requisitos de actuación
+Su majestuosidad proviene de:
+Postura firme
+Voz serena
+No se necesitan efectos exagerados de aura inmortal.
+Maestro Anciano
+Ubicado al fondo, presenciando las decisiones de sus dos discípulas.
+Discípulos de la secta
+Dos discípulos de la secta ubicados más lejos, que actúan como testigos naturales dentro del entorno.
+Restricciones comunes para los personajes secundarios
+Los tres tipos de personajes secundarios no deben ocupar el espacio de actuación de las protagonistas.
+V. ADN del fondo y el entorno
+Todas las imágenes de referencia de fondos y locaciones subidas en esta ronda definen en conjunto el mundo físicamente existente.
+Planificación del entorno
+Establecer una lógica espacial unificada basada en las imágenes de referencia.
+Se debe conservar:
+Identidad del terreno
+Distribución arquitectónica
+Antigüedad de los materiales
+Vegetación
+Cuerpos de agua
+Clima
+Capas de nubes
+Dirección de la luz principal
+Relaciones de reflejos
+Esquema de color general
+Profundidad atmosférica
+Cambios de cámara y espacio
+Se permite volver a buscar opciones adecuadas para:
+Posiciones de cámara
+Profundidad de campo
+Ubicación de los personajes
+No todos los planos necesitan mostrar todos los puntos de referencia al mismo tiempo.
+Pero los edificios importantes, el terreno natural y las direcciones de la luz deben tener continuidad espacial.
+Principio de fondo vivo
+El fondo se mantiene continuamente natural y vibrante.
+Dinámicas naturales
+El viento moviendo las hojas
+Las nubes y la niebla fluyendo con naturalidad
+Mechones de cabello moviéndose con el viento
+Las mangas ondeando naturalmente
+Los cuerpos de agua y los reflejos manteniendo un movimiento real
+Las figuras lejanas pueden realizar actividades naturales
+Neutralidad narrativa del entorno
+El fondo solo representa la presencia del mundo real.
+No cumple la función de impulsar la trama.
+Único elemento sobrenatural de la trama
+El único factor sobrenatural que afecta directamente la trama en este cortometraje es el Decreto de Ascensión Celestial.
+VI. Estructura completa de tres planos en 15 segundos
+0-5 s | Plano 1: El precio de la ascensión
+Tamaño del plano
+Plano general
+Movimiento de cámara
+La cámara avanza lentamente por el espacio ritual.
+Estado inicial
+Comienza directamente en la ceremonia de ascensión.
+La Hermana Mayor Inmortal de la Espada y la Hermana Menor están de pie, una al lado de la otra.
+El Enviado Celestial está frente a ellas, desplegando un antiguo y lujoso Decreto de Ascensión de seda dorada.
+El Maestro y varios discípulos se ven a lo lejos.
+Primer nodo de la trama: Declarar el precio
+El Enviado declara solemnemente:
+[Enviado] "Acepta el decreto y olvida tu pasado".
+Reacción de la Hermana Mayor
+Al escuchar esto, la Hermana Mayor no muestra miedo.
+Gira la cabeza para mirar a la Hermana Menor.
+Su mirada es tierna y refleja la familiaridad de haber convivido mucho tiempo.
+[Hermana Mayor] "A-Ning, espérame".
+Segundo nodo de la trama: Aceptar el decreto por voluntad propia
+A continuación, la Hermana Mayor extiende activamente la mano derecha para aceptar el decreto.
+Un hilo de luz dorada extremadamente fino emerge lentamente del borde del decreto.
+El hilo de luz se extiende de forma natural y se adhiere a la muñeca de la Hermana Mayor.
+En ese momento, el decreto comienza a surtir efecto.
+Tercer nodo de la trama: La desaparición de la memoria
+No representarlo como si fuera alcanzada por un rayo o controlada a la fuerza por hechizos.
+La Hermana Mayor solo muestra una expresión de vacío sumamente breve.
+La calidez en sus ojos al mirar a la Hermana Menor desaparece de repente.
+Final del plano
+Corte a los ojos de la Hermana Menor, que notan la anomalía.
+Enfoque de dirección para el Plano 1
+Mostrar la ruptura repentina de la familiaridad hacia la extrañeza a través del cambio en la mirada del mismo personaje.
+No se necesitan efectos mágicos exagerados.
+5-10 s | Plano 2: Realmente lo olvidó
+Tamaño del plano
+Plano medio corto
+Movimiento de cámara
+Ligero seguimiento lateral para mantener claras las expresiones faciales y el hilo de luz dorada.
+Requisito de continuidad
+Mantener siempre:
+El mismo espacio
+El mismo pergamino del decreto
+El mismo hilo de luz dorada
+La misma Hermana Mayor Inmortal de la Espada
+Primer nodo de la trama: Extrañeza total
+La Hermana Mayor gira lentamente la cabeza para mirar a la Hermana Menor.
+Su expresión no tiene malicia ni ferocidad demoníaca.
+Solo pura extrañeza.
+Como si estuviera frente a una desconocida con la que nunca ha hablado.
+La Hermana Mayor pregunta suavemente:
+[Hermana Mayor] "Señorita, ¿quién es usted?".
+Reacción real de la Hermana Menor
+La Hermana Menor se paraliza al instante.
+Originalmente quería hablar.
+Pero después de que sus labios se separaron ligeramente, no salió ningún sonido.
+Esta extrañeza repentina impacta más que llorar directamente.
+Segundo nodo de la trama: La insistencia del Enviado
+El Enviado dice con calma desde cerca:
+[Enviado] "Los lazos mortales se han roto; por favor, asciende al camino inmortal".
+Tercer nodo de la trama: Contacto habitual
+La Hermana Menor mira a la Hermana Mayor.
+Por instinto, extiende la mano y sostiene con suavidad la muñeca de la Hermana Mayor que empuña la espada, la cual aún tiembla ligeramente.
+Este es un hábito natural formado por su larga convivencia.
+Reacción física de la Hermana Mayor
+Aunque la Hermana Mayor ya no la reconoce, no rechaza este contacto.
+Inconscientemente relaja la muñeca, permitiendo que la Hermana Menor la sostenga.
+Breve pausa.
+Cuarto nodo de la trama: Descubrir el contrato inmortal
+La mirada de la Hermana Mayor pasa de la mano de la Hermana Menor al hilo de luz dorada que aún conecta su muñeca con el decreto.
+Se da cuenta de algo:
+Esta desconocida frente a ella parece haber tenido una relación muy profunda con ella.
+Toma una decisión.
+Final del plano
+Corte a su mano sosteniendo la espada.
+Enfoque de dirección para el Plano 2
+Completar el cambio psicológico a través de estas tres acciones:
+La Hermana Mayor mira a la Hermana Menor con total extrañeza.
+La Hermana Menor le sostiene la muñeca y la Hermana Mayor se relaja por instinto.
+La Hermana Mayor descubre el hilo de luz dorada que la conecta con el decreto.
+No incluir flashbacks de recuerdos.
+No permitir que la Hermana Mayor recupere de repente su mirada familiar.
+10-15 s | Plano 3: Volver a conocernos
+Tamaño del plano
+Primer plano de los personajes, que finalmente converge en un primer plano de las manos.
+Primer nodo de la trama: Romper activamente el contrato inmortal
+La Hermana Mayor retira lentamente la muñeca de la mano de la Hermana Menor.
+No camina hacia el Enviado Celestial.
+En cambio, desenvaina la espada larga plateada con la mano derecha.
+El Enviado inicialmente piensa que se prepara para completar la ascensión.
+Pero al instante siguiente, la Hermana Mayor dirige el filo de la espada plateada hacia el hilo de luz dorada que conecta su muñeca.
+Acción clave
+Un corte limpio y preciso.
+El hilo de luz se rompe al instante.
+La tenue luz dorada se disipa de forma natural.
+El leve resplandor que emitía originalmente el decreto también se apaga.
+Tratamiento audiovisual
+No incluir:
+Grandes explosiones
+Rayos
+Impactos mágicos exagerados
+Solo se necesita:
+Una acción de corte clara, seguida de silencio.
+Segundo nodo de la trama: La Hermana Menor cree que recuperó la memoria
+La Hermana Menor mira a la Hermana Mayor.
+La esperanza reaparece en sus ojos.
+Pregunta suavemente:
+[Hermana Menor] "¿Recordaste?".
+Pausa
+Dejar una pausa natural completa.
+Tercer nodo de la trama: El verdadero giro
+La Hermana Mayor la mira.
+No hay una recuperación milagrosa y repentina de todos los recuerdos.
+Simplemente responde con calma:
+[Hermana Mayor] "No".
+La mirada de la Hermana Menor se apaga ligeramente.
+Justo cuando cree que todo terminó, la Hermana Mayor baja lentamente su espada larga.
+Extiende su mano izquierda vacía hacia ella.
+Con voz muy suave:
+[Hermana Mayor] "Volvamos a conocernos".
+Cuarto nodo de la trama: Volver a tomarse de las manos
+La Hermana Menor se queda paralizada.
+Luego, finalmente coloca lentamente su mano en la palma de la Hermana Mayor.
+Restricciones de actuación
+No:
+Abrazos apresurados
+Llanto exagerado
+Solo dos manos entrelazándose de forma natural.
+Estado de los personajes de fondo
+En la poca profundidad de campo del fondo, el Enviado Celestial sigue de pie en su lugar.
+El Maestro Anciano baja lentamente la mirada.
+Fotograma final
+La cámara se queda en:
+Dos manos entrelazándose de forma natural.
+El hilo de luz dorada roto se disipa lentamente en el aire detrás de ellas.
+Punto de cierre emocional definitivo
+La Hermana Mayor perdió sus recuerdos del pasado.
+Pero eligió personalmente un nuevo comienzo.
+VII. Requisitos de ejecución unificados de Seedance 2.0 Mini
+Especificaciones de video
+Estrictamente 15 segundos
+16:9 Horizontal
+Tres planos explícitos
+Estructura narrativa de tres segmentos
+Tiempo Tamaño del plano Evento principal 0-5 s Plano general Ceremonia de ascensión, el decreto surte efecto, la memoria empieza a desaparecer 5-10 s Plano medio corto La Hermana Mayor olvida por completo a la Hermana Menor, la relación emocional se quiebra 10-15 s Primer plano a primer plano de manos La Hermana Mayor rompe activamente el contrato inmortal y la vuelve a elegir sin recuperar la memoria
+VIII. Diálogos completos y sincronización labial
+Reglas de diálogo
+Mandarín nativo sincronizado
+Coincidir con precisión los movimientos labiales de los personajes
+Mantener estrictamente a los personajes indicados hablando
+No agregar líneas explicativas temporales
+No agregar narración en off
+0-5 s
+[Enviado] "Acepta el decreto y olvida tu pasado".
+[Hermana Mayor] "A-Ning, espérame".
+5-10 s
+[Hermana Mayor] "Señorita, ¿quién es usted?".
+[Enviado] "Los lazos mortales se han roto; por favor, asciende al camino inmortal".
+10-15 s
+[Hermana Menor] "¿Recordaste?".
+[Hermana Mayor] "No. Volvamos a conocernos".
+Ritmo de actuación para la última línea
+"No. Volvamos a conocernos".
+Permitir una pausa natural en medio.
+Se debe garantizar que:
+"No" exprese que la memoria efectivamente no se recuperó
+La pausa conserve la sensación de pérdida de la Hermana Menor
+"Volvamos a conocernos" complete el verdadero giro emocional
+Límite de tiempo
+La última línea no puede alargar artificialmente el diálogo ocupando el tiempo de otras acciones.
+IX. Cuatro niveles de restricciones estrictas de continuidad
+1. Continuidad de personajes
+Para ambas protagonistas, lo siguiente debe mantenerse constante en todo momento:
+Identidad facial
+Peinado
+Vestimenta
+Complexión física
+Arma
+Requisito especial
+La Hermana Mayor debe mantener el mismo rostro antes y después de la amnesia.
+Diferenciar los estados de memoria únicamente mediante cambios sutiles en la mirada y la expresión.
+2. Continuidad de utilería
+Siempre debe ser:
+El mismo pergamino de seda dorada del decreto
+El mismo hilo de luz dorada
+La misma espada plateada
+Cambio de estado del contrato inmortal
+El decreto surte efecto → El hilo de luz conecta la muñeca → La Hermana Mayor desenvaina la espada → Se corta el hilo de luz → El hilo de luz se disipa de forma natural
+Después de cortar el hilo de luz, este no puede volver a aparecer completamente conectado.
+3. Continuidad de acción
+La Hermana Mayor debe completar las acciones en el siguiente orden causal:
+Aceptar el decreto por voluntad propia
+Perder la memoria
+Observar a la Hermana Menor y el hilo de luz
+Desenvainar la espada
+Cortar el hilo de luz
+Extender la mano hacia la Hermana Menor
+Todas las acciones tienen secuencias claras de causa y efecto.
+4. Continuidad emocional
+Las emociones de los personajes experimentan secuencialmente:
+Familiaridad y expectativa → Extrañeza repentina → Dificultad para aceptarlo → Nueva elección → Alivio contenido
+No permitir que las emociones de los personajes cambien sin motivo.
+X. Visuales del contrato inmortal y efectos sobrenaturales
+Hilo de luz dorada
+El hilo de luz dorada debe ser:
+Delicado
+Realista
+Que no oculte los rostros de los personajes
+Mantener una conexión continua con el mismo pergamino del decreto
+Mantener la relación espacial correcta con la muñeca de la Hermana Mayor
+Efecto de corte
+Después de que la punta de la espada corte el hilo de luz:
+El hilo de luz se rompe
+La tenue luz dorada se disipa de forma natural
+El resplandor original del decreto se apaga en consecuencia
+Restricciones visuales
+No agregar:
+Destellos de luz a gran escala
+Truenos
+Impactos de hechizos exagerados
+Efectos mágicos irrelevantes
+XI. Microactuaciones de los personajes
+Hermana Mayor
+Antes de la amnesia
+Mirada tierna
+Naturalmente familiar con la Hermana Menor
+Expresión serena
+Después de la amnesia
+Sin malicia
+Sin demonización
+Mirada genuinamente extraña
+No rechaza el contacto natural de la Hermana Menor
+Decisión final
+Rompe activamente el contrato inmortal
+No recupera la memoria
+Elige con calma nuevamente a la Hermana Menor que tiene enfrente
+Hermana Menor
+Plano 1
+Tiene expectativas sobre la ascensión de la Hermana Mayor.
+Plano 2
+Pasa de la confusión a la dificultad para aceptarlo.
+Sus labios se separan ligeramente, pero no puede hablar.
+Plano 3
+Recupera la esperanza debido a la ruptura del contrato
+Decepción pasajera tras escuchar "No"
+Vuelve a comprender la decisión de la Hermana Mayor al escuchar "Volvamos a conocernos"
+Finalmente coloca activamente su mano en la palma de la Hermana Mayor
+Principio de actuación
+Expresar a través de microexpresiones, contacto visual, respiración y movimientos de las manos.
+No crear clímax emocionales mediante llanto o abrazos exagerados.
+XII. Fotografía y continuidad del entorno
+Fotografía
+Los tres planos mantienen funciones explícitas:
+Plano 1
+Establece la ceremonia de ascensión y la ruptura de la memoria.
+Plano 2
+Observa las emociones de los personajes y el hilo de luz dorada mediante un plano medio corto.
+Plano 3
+Completa la elección activa mediante un primer plano y un primer plano de las manos.
+Entorno
+El entorno se mantiene continuamente natural y vibrante.
+Incluyendo:
+Viento natural
+Hojas
+Nubes y niebla
+Mechones de cabello
+Mangas
+Cuerpos de agua
+Reflejos
+Actividades de figuras lejanas
+El entorno no influye activamente en la trama.
+XIII. Diseño sonoro
+Diálogos
+Mandarín nativo sincronizado.
+Requisitos:
+Sincronización labial precisa en chino
+Voces claras de los personajes
+Sensación de respiración realista
+Diálogos naturales
+Música de fondo
+La banda sonora utiliza una atmósfera Xianxia extremadamente sutil como tono base.
+Baja significativamente después de:
+"Señorita, ¿quién es usted?"
+Ruptura del contrato
+En el momento de romper el contrato, conservar solo:
+Un ligero y claro sonido metálico de corte en el aire
+Sonido del hilo de luz rompiéndose
+Última línea
+"Volvamos a conocernos".
+Debe ser:
+Clara
+Limpia
+Con una sensación de respiración realista
+XIV. Prohibiciones estrictas
+No agregar abrazos
+No agregar gritos/llantos
+No agregar narración
+No agregar flashbacks
+No agregar elementos modernos
+No agregar personajes adicionales
+No generar subtítulos
+No realizar demostraciones de magia a gran escala
+No permitir que el entorno impulse activamente la trama
+No cambiar las identidades faciales de los personajes
+No cambiar la vestimenta ni las armas de los personajes
+No permitir que los hilos de luz rotos se vuelvan a conectar
+No permitir que la Hermana Mayor recupere la memoria de repente
+XV. Principios finales de generación
+El público debe ver claramente que:
+La Hermana Mayor acepta activamente el decreto de ascensión.
+El decreto realmente le arrebata el recuerdo de la Hermana Menor.
+El contacto habitual de la Hermana Menor hace que la Hermana Mayor se dé cuenta de que alguna vez tuvieron una relación profunda.
+La Hermana Mayor rompe activamente el contrato inmortal.
+Romper el contrato no restaura los recuerdos perdidos.
+La Hermana Mayor aún elige activamente volver a conocer a la Hermana Menor.
+Ambas finalmente se toman de las manos de forma natural.
+Requisito emocional final
+Incluso si la memoria desaparece, ambas aún pueden reconstruir su relación.
+Toda la trama, las acciones, los diálogos y los giros emocionales obedecen estrictamente la duración completa de 15 segundos de Seedance 2.0 Mini.
+XVI. Prompt negativo
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117159174383783936/img/GrBy3y7uTplAwyq4.jpg" width="600" alt="Prompt de Video Cinematográfico Xianxia con Seedance 2.0 Mini">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13437)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2117159952251040147) | **Publicado:** Nov 2, 2026
+
+---
+### Prompt para Cortometraje Xianxia con Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt detallado para generar un cortometraje cinematográfico de xianxia de 15 segundos usando Seedance 2.0 Mini, con consistencia de personajes, iluminación específica y arcos narrativos emocionales.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | "Treinta años de vida"
+
+Modelo: Seedance 2.0 Mini
+Duración: Estrictamente 15 segundos
+Relación de aspecto: 16:9 horizontal
+Género: Xianxia chino antiguo puro / Suspenso psicológico / Giro emocional / Drama de relaciones entre personajes
+Estructura: Tres planos completos consecutivos
+
+I. Prompt | Estilo general y dirección creativa
+Calidad realista cinematográfica, estética Xianxia china antigua pura.
+Referencia general:
+Estructura de suspenso psicológico de cine maduro
+
+Relaciones entre personajes del Wuxia
+
+Actuación emocional auténtica
+
+Puesta en escena audiovisual sobria
+
+Lo visual utiliza:
+
+Luz volumétrica natural
+Microdetalles reales de la piel
+Materiales de seda y metal de alta calidad
+Fotografía con profundidad espacial
+
+II. Trama central y giro emocional
+
+Trama principal
+La hermana menor avanzó tres reinos en una sola noche. Creyó que por fin podría alcanzar a su hermana mayor, pero descubrió que había intercambiado treinta años de vida por ese crecimiento acelerado.
+Al final, renuncia voluntariamente a su cultivo.
+Y la hermana mayor, a quien siempre vio como su meta a perseguir, camina hacia ella por primera vez.
+
+Conflicto emocional verdadero
+
+El verdadero conflicto ocurre dentro de los personajes.
+
+Hermana menor
+Desea el poder
+Teme no alcanzar nunca a su hermana mayor
+Se emociona al obtener de repente un cultivo poderoso
+Debe tomar una decisión por sí misma tras descubrir el precio
+
+Daoísta Prestavidas
+El Daoísta Prestavidas se aprovecha de la ansiedad de la hermana menor.
+
+Hermana mayor
+La hermana mayor, al final:
+No pagó el precio por la hermana menor
+No intentó convencerla con largos sermones
+No tomó decisiones por ella
+
+Solo usó una acción concreta para decirle a la hermana menor:
+La distancia entre ellas nunca requirió que la hermana menor se esforzara sola por acortarla.
+
+III. Personajes y bloqueo de recursos
+
+Personaje A | @Image1 | Hermana Mayor Inmortal de la Espada
+Misma Hermana Mayor Inmortal de la Espada:
+Mujer adulta de Asia Oriental de 25 a 30 años
+Rostro ovalado, claro y suave
+Ojos color almendra oscuro, brillantes y naturales
+Piel delicada y realista
+Cabello negro recogido a medias
+Horquilla de jade blanco
+Figura alta y esbelta
+Vestuario fijo
+Hanfu de seda blanca bordada
+Mangas anchas superpuestas semitransparentes
+Sello de cintura plateado
+Colgante de jade
+Botas de tela blanca
+Arma exclusiva
+Una única espada larga plateada.
+Temperamento del personaje
+Serena
+Consciente
+Introvertida
+Emociones transmitidas mediante:
+La mirada
+La respiración
+Movimientos extremadamente sutiles
+
+Personaje B | @Image2 | Hermana Menor
+Misma Hermana Menor:
+Mujer adulta de Asia Oriental de 20 a 25 años
+Contornos faciales redondos y expresivos
+Cabello negro trenzado
+Apariencia juvenil, natural y realista
+Vestuario fijo
+Hanfu de lino azul verdoso
+Cinturón oscuro
+Horquilla de madera
+Zapatos de tela negra
+Arma exclusiva
+Una única espada de acero oscuro.
+Estado del personaje
+Al principio, emocionada porque obtuvo de repente un cultivo poderoso.
+Visiblemente impactada tras descubrir el precio.
+Luego toma una decisión por sí misma.
+Nuevos personajes secundarios
+Anciano Daoísta Prestavidas
+Expresión serena
+Con un aire de peligro
+Se aprovecha del deseo de poder de la hermana menor
+Discípulos de la secta a lo lejos
+Dos discípulos de la secta a lo lejos como testigos silenciosos en el fondo.
+Restricciones para personajes secundarios
+Los personajes secundarios no le roban el protagonismo visual a las dos protagonistas.
+
+IV. Objeto central | Balanza de Bronce Prestavidas
+
+Composición del objeto
+Una antigua balanza de bronce Prestavidas.
+Flotando sobre la balanza:
+Tres perlas de reino doradas de idéntico tamaño y material.
+Configuración de las perlas de reino
+Las tres perlas de reino corresponden al triple cultivo prestado.
+La relación de préstamo se expresa mediante:
+La balanza de bronce
+Las tres perlas de reino
+Los cambios en el poder espiritual de los personajes
+Requisitos visuales
+No depender de texto generado legible.
+
+V. ADN del entorno y planificación espacial
+
+Todas las imágenes de referencia de fondos y locaciones recién subidas determinan el mundo físico real.
+Herencia del entorno
+Sintetizar a partir de las imágenes de referencia:
+Terreno real
+Relaciones espaciales arquitectónicas principales
+Escala
+Materiales
+Vegetación
+Cuerpos de agua
+Clima
+Nubes/niebla
+Dirección de la luz
+Colores
+Reflejos
+Profundidad atmosférica
+Ubicar de forma natural la Balanza Prestavidas en posiciones coherentes con las relaciones físicas de la escena original.
+Requisitos estrictos de escena
+No transformar el fondo de referencia en una escena genérica y desconocida de Xianxia.
+Principio de fondo vivo
+Los siguientes elementos siempre cambian de forma natural:
+Viento
+Nubes/niebla
+Superficie del agua
+Vegetación lejana
+Tela de la ropa
+Sonidos ambientales
+El entorno permanece:
+Vivo
+Completo
+Con vitalidad espacial real
+Neutralidad narrativa
+El entorno no puede:
+Crear conflictos de forma activa
+Decidir el destino de los personajes
+
+VI. Guion gráfico completo de 15 segundos
+0-5 s | Primer plano: Plano general que avanza a plano medio | Avance de reinos nocturno, el precio sale a la luz
+Lenguaje de cámara
+La cámara avanza lentamente desde un ángulo de tres cuartos ligeramente contrapicado.
+Objetos en primer plano
+En primer plano hay una antigua balanza de bronce.
+Tres perlas de reino doradas flotan sobre los platillos, emitiendo una luz espiritual dorada suave, nada exagerada.
+Posición de los personajes
+La hermana menor está de pie junto a la balanza; sus ojos aún conservan la sorpresa de haber avanzado tres reinos en una noche.
+La hermana mayor está de pie detrás y a un lado.
+El Daoísta Prestavidas está cerca de la balanza y levanta la vista.
+Primer giro: el precio sale a la luz
+El daoísta habla con una calma inquietante.
+[Daoísta] "Una noche, tres reinos. Treinta años de vida."
+Reacción de la hermana menor
+Su sonrisa desaparece al instante.
+No retrocede de inmediato, pero mira instintivamente las tres perlas de reino doradas.
+[Hermana menor] "¡No dijiste que tendría que pagar con mi vida!"
+Reacción de la hermana mayor
+La cámara usa un ligero cambio de enfoque para que la hermana mayor mire de pronto la balanza de bronce.
+Fin del primer plano
+El primer plano termina con la conmoción de la hermana menor.
+Enfoque del director
+Revelar el enorme precio de inmediato al inicio
+No añadir exhibiciones mágicas sin sentido
+Tres perlas de reino y una frase bastan para que el público entienda lo que realmente significa ese supuesto avance prodigioso.
+
+5-10 s | Segundo plano: Primer plano medio | Devolución voluntaria de los reinos
+Lenguaje de cámara
+Mantener el mismo eje de movimiento de los personajes.
+La cámara corta hacia un lateral de la balanza de bronce.
+El encuadre contiene simultáneamente:
+A la hermana mayor
+A la hermana menor
+Al Daoísta Prestavidas
+La parte superior del cuerpo de los tres.
+La hermana mayor confirma la posibilidad de devolverlos
+La hermana mayor no culpa a la hermana menor.
+Solo mira al daoísta y pregunta directamente:
+[Hermana mayor] "¿Se pueden devolver?"
+El daoísta asiente suavemente.
+[Daoísta] "Devuelve los reinos, recupera tu vida."
+Decisión voluntaria de la hermana menor
+La hermana menor mira las tres perlas de reino que ya posee.
+En este momento, no hacer que la hermana mayor tome la decisión por ella.
+La hermana menor extiende la mano por sí misma, toma las tres perlas de reino de donde flotan y las coloca de nuevo sobre los platillos de la balanza, una por una.
+[Hermana menor] "Devuélvelos."
+Proceso físico y visual de la devolución del cultivo
+La luz dorada en la superficie de las tres perlas de reino converge hacia adentro.
+El fuerte poder espiritual que tenía la hermana menor fluye de regreso en consecuencia.
+Ella pierde voluntariamente los tres reinos que acaba de obtener.
+Relación de préstamo disuelta
+Todo el cultivo prestado es devuelto
+La deuda de treinta años de vida queda disuelta
+Continuidad de los personajes
+Los personajes no sufren de repente:
+Envejecimiento
+Deformaciones
+Cambios de vestuario
+Enfoque del director
+La fuerza de esta escena proviene de una elección voluntaria.
+La hermana menor no:
+Devuelve los reinos por orden de la hermana mayor
+Espera a que otros carguen con el precio por ella
+Ella misma toma las perlas de reino y ella misma las devuelve.
+La cámara expresa este proceso mediante:
+Movimientos reales de las manos
+Un flujo de retorno del poder espiritual claramente visible
+
+10-15 s | Tercer plano: Primer plano que avanza a plano detalle | La verdadera distancia
+Estado inicial
+Las tres perlas de reino vuelven a reposar en silencio en los platillos de la balanza de bronce.
+El Daoísta Prestavidas mira a la hermana menor, cuyo cultivo volvió a su estado original.
+El daoísta intenta quebrar su determinación una última vez
+[Daoísta] "Entonces, ¿cómo vas a alcanzarla?"
+El verdadero miedo de la hermana menor
+La hermana menor mira a su hermana mayor vestida de blanco.
+Sus dedos aprietan un poco más la vaina de la espada.
+[Hermana menor] "Yo..."
+La voz se apaga.
+Realmente tiene miedo.
+Ella creía que:
+Solo alcanzando el cultivo de su hermana mayor sería digna de estar a su lado para siempre.
+Verdadero giro emocional: la hermana mayor se acerca
+Justo entonces, la hermana mayor no se queda inmóvil.
+Camina voluntariamente hacia la hermana menor.
+[Hermana mayor] "?"
+Movimiento de cámara
+La cámara sigue ligeramente el movimiento de la hermana mayor.
+Finalmente se detiene junto a la hermana menor, quedando ambas en la misma línea horizontal.
+[Hermana mayor] "Estoy justo aquí."
+Reacción final de la hermana menor
+La hermana menor levanta la cabeza lentamente.
+Los cambios emocionales ocurren en secuencia:
+Sorpresa
+Alivio
+Una sonrisa muy leve y natural
+Límites de actuación
+Nada de:
+Abrazos
+Llanto
+Declaraciones exageradas
+Estado final
+La balanza de bronce vuelve a la calma.
+El Daoísta Prestavidas no vuelve a hablar.
+La imagen final se detiene en:
+El estado de ambas de pie, lado a lado.
+
+VII. Punto de aterrizaje emocional final
+La hermana menor perdió los tres reinos prestados.
+La persona a la que realmente quería alcanzar llegó a su lado por voluntad propia.
+Las consecuencias deben preservarse fielmente
+Cuando termina la historia:
+El cultivo no se recupera de repente
+El Daoísta Prestavidas no otorga recompensas ocultas
+La deuda de treinta años de vida queda disuelta
+La relación entre ambas cambia mediante acciones reales
+Los costos y resultados de todas las decisiones se mantienen intactos.
+
+VIII. Restricciones de ejecución de Seedance 2.0 Mini
+Especificaciones de video
+Estrictamente 15 segundos
+16:9 horizontal
+Tres planos completos consecutivos
+Estructura de planos
+Tiempo | Tamaño de plano | Función narrativa
+0-5 s | General a medio | Avance de reinos nocturno, el precio sale a la luz
+5-10 s | Primer plano medio | La hermana menor devuelve los reinos voluntariamente
+10-15 s | Primer plano a detalle | La hermana mayor se acerca
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117151444751290368/img/PMwAHzpHjgEfkRHF.jpg" width="600" alt="Prompt para Cortometraje Xianxia con Seedance 2.0 Mini">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13434)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2117152909758730271) | **Publicado:** Nov 2, 2026
+
+---
+### Cortometraje de Batalla Xianxia con Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt detallado para Seedance 2.0 Mini que crea un cortometraje de batalla de caballería Xianxia china hiperrealista de 15 segundos titulado 'Seizing the Order'. Se centra en el realismo físico, los movimientos de cámara y la coreografía de combate sin diálogo.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | Cortometraje de combate de caballería a alta velocidad estilo Xianxia chino de 15 segundos
+Sensación del título: "Arrebatando la orden"
+Especificaciones básicas
+Duración: Estrictamente 15 segundos
+Relación de aspecto: 16:9 Horizontal
+Modelo: Seedance 2.0 Mini
+Estilo: Cortometraje de acción hiperrealista y cinematográfico estilo Xianxia chino
+Sin diálogos / Sin subtítulos / Sin títulos / Sin interfaz de usuario (UI)
+I. Estilo general y núcleo del combate
+Cortometraje de acción hiperrealista y cinematográfico estilo Xianxia chino.
+Basado en la física real de la velocidad de la caballería antigua, la longitud de las armas, la inercia del caballo de guerra y el espacio de giro, combinado con habilidades de ligereza (Qinggong) de corta distancia del Xianxia chino, esgrima afilada, cinematografía dinámica y ráfagas instantáneas.
+Referencias cinematográficas:
+
+Puesta en escena espacial panorámica clásica del Wuxia
+Edición de acción repentina al estilo de King Hu
+Seguimiento en ángulo bajo de películas de acción modernas, paralaje fuerte, cambio rápido de ejes de movimiento y retroalimentación de impacto clara
+Objetivo central del combate
+La Inmortal de la Espada Vestida de Blanco debe arrebatar la bandera de orden militar a un general de caballería fuertemente blindado que carga a alta velocidad, sin lastimar al caballo de guerra.
+Lógica del conflicto central
+El general de caballería usa la velocidad del caballo + el alcance de ataque de la lanza larga para proteger la bandera de orden militar.
+La Hermana Mayor utiliza su capacidad de cambio direccional a corta distancia para cortar activamente la ruta de movimiento del oponente antes de que el general complete su giro.
+Finalmente, el arrebato exitoso de la bandera se logra mediante un enfrentamiento continuo a alta velocidad.
+Principios de acción obligatorios
+Movimiento continuo a alta velocidad durante todo el cortometraje.
+El enemigo debe atacar activamente y ajustar sus estrategias.
+Nadie se queda quieto ni espera para contraatacar.
+No usar clichés repetidos anteriormente: Desarme
+Sumisión por la garganta
+Intercambio de espadas dobles
+Bloqueo de armas
+
+El clímax proviene de: Completar la misión durante el movimiento a alta velocidad.
+II. Activos principales y fijación de personajes
+Personaje A | @Image1 | Hermana Mayor
+Usar estrictamente la identidad y apariencia originales de mujer adulta asiática oriental de Image 1:
+Mismo rostro
+Proporciones faciales originales
+Cabello negro
+Ropa blanca estilo Xianxia
+Adorno plateado en la cintura
+Proporciones corporales originales
+Una única espada larga plateada
+Requisitos:
+El rostro y la ropa de la protagonista deben mantenerse consistentes.
+Los contornos faciales reales deben ser visibles incluso durante el movimiento a alta velocidad.
+El cabello negro tiene inercia natural durante la aceleración, los frenados repentinos y los giros.
+Personaje B | @Image2 | Hermana Menor
+Usar estrictamente la identidad y apariencia originales de mujer adulta asiática oriental de Image 2:
+Mismo rostro
+Cabello negro trenzado
+Ropa de estilo antiguo verde azulado
+Proporciones corporales originales
+Espada original que porta
+Requisitos:
+Este segmento sirve principalmente como testigo a corta distancia.
+Solo participa en la evasión de emergencia al inicio.
+No ejecuta enfrentamientos complejos con armas.
+General de caballería enemigo
+Un general de caballería de estilo antiguo que viste una armadura de metal oscuro.
+Sostiene una lanza larga (Mao).
+Monta un único caballo de guerra alto y robusto de color marrón oscuro.
+Fijada detrás de la silla de montar hay una bandera de orden militar rojo oscuro.
+La bandera de orden militar no tiene texto legible.
+Requisitos:
+El general de caballería, el caballo de guerra, la lanza larga y la bandera de orden militar mantienen la continuidad necesaria de apariencia y objetos dentro de este segmento.
+No es necesario fijar con precisión extra la forma del rostro del general ni los patrones de la armadura.
+No agregar un segundo jinete.
+III. Entorno y ADN de la escena
+Todas las imágenes de referencia de locación subidas esta vez determinan conjuntamente el ADN del entorno.
+Antes de la generación formal, deducir y unificar basándose en las imágenes de referencia:
+Terreno real
+Distribución de edificios
+Vegetación
+Cuerpos de agua
+
+Materiales
+Iluminación
+Clima
+Niebla de montaña
+Profundidad espacial
+A partir de áreas que realmente existen o pueden deducirse razonablemente de las imágenes de referencia, seleccionar un pasaje o terreno abierto suficiente para que el caballo de guerra corra y gire.
+Requisitos de continuidad
+Las siguientes relaciones originalmente existentes permanecen conectadas de manera consistente:
+Edificios principales
+Formas del terreno
+Caminos
+Cuerpos de agua
+Plantas
+Relaciones de luz y sombra
+La cámara puede observar la misma ubicación desde diferentes direcciones,
+pero no puede cambiar repentinamente a una nueva escena genérica de Xianxia.
+Requisitos de fondo vivo
+Los siguientes elementos continúan moviéndose de forma natural:
+Viento
+Flujo del agua
+Nubes y niebla
+Tela de la ropa
+Vegetación
+Reflejos
+Entorno distante
+Principio narrativo del entorno
+El entorno permanece narrativamente neutral:
+No crea obstáculos de repente.
+No crea oportunidades de repente.
+No pelea por la protagonista.
+No decide la victoria o derrota de ninguno de los bandos.
+Retroalimentación física pasiva permitida:
+El pisoteo del caballo de guerra genera polvo, lodo y escombros del camino.
+El movimiento de los personajes genera ondeo de los dobladillos, movimiento del cabello y marcas de aterrizaje.
+Requisito de continuidad:
+Los daños en la ropa, las huellas de los cascos y las marcas de movimiento ya generados permanecen continuos.
+IV. Guion gráfico (15 segundos)
+0–5s | Incursión de caballería pesada: Peligro desde la primera mirada
+Toma 1 | 0.0–1.0s | Plano general en ángulo bajo de 24mm
+Cámara cerca de la superficie del camino.
+El mismo camino real de estilo antiguo se extiende hacia la profundidad de la pantalla.
+Relación en pantalla:
+La Hermana Mayor está de pie a un lado del camino sosteniendo una espada plateada.
+La Hermana Menor está ligeramente detrás de ella.
+A lo lejos, el general de caballería pesada monta un caballo de guerra marrón oscuro cargando a alta velocidad.
+La bandera de orden militar rojo oscuro detrás de la silla de montar ondea violentamente.
+El general baja la lanza larga, con la punta apuntando directamente a la Hermana Mayor.
+Los cuatro cascos del caballo pisan el suelo continuamente; hombros, cuello y crin se ven afectados por la inercia real de la carrera.
+Los pesados cascos del caballo al galope se acercan rápidamente, creando una fuerte presión de escala entre las distancias cercanas y lejanas.
+
+Toma 2 | 1.0–2.8s | Seguimiento lateral a alta velocidad a nivel del suelo de 28mm
+La cámara se mueve repentinamente a alta velocidad hacia el frente-lateral del caballo de guerra.
+Los cascos retumban pasando cerca de la cámara; el polvo o las salpicaduras bajo los cascos se dispersan violentamente hacia atrás según el material real del suelo.
+La profundidad de la pantalla incluye simultáneamente:
+Pecho y hombros del caballo de guerra
+Piezas de la armadura del general
+Lanza larga
+Bandera de orden militar roja detrás
+El general cambia repentinamente el ángulo de agarre de la lanza, lanzando una estocada recta y feroz hacia la Hermana Mayor.
+La punta de la lanza pasa rápidamente por el primer plano de la cámara.
+Corte abrupto en el momento en que el arma oscurece completamente la pantalla.
+Toma 3 | 2.8–5.0s | Primer plano lateral de 35mm
+La Hermana Mayor explota repentinamente en un paso-corte lateral en el último momento.
+No bloquea al caballo de guerra a alta velocidad de frente, ni contraataca hacia el cuerpo del caballo.
+Cadena de acción:
+
+Empuja a la Hermana Menor fuera de la trayectoria de carrera con el brazo mientras gira para esquivar la lanza larga.
+La espada plateada solo altera brevemente la trayectoria de movimiento de la punta de la lanza.
+El general balancea inmediatamente la lanza larga de regreso siguiendo el impulso; la hoja roza la capa más externa de la manga ancha de la Hermana Mayor, cortando un pequeño trozo de gasa blanca fina.
+Los hilos de seda son arrastrados hacia atrás por el flujo de aire a alta velocidad.
+El caballo de guerra continúa galopando hacia adelante.
+La Hermana Mayor aterriza y se da vuelta de inmediato, su mirada fijándose rápidamente en la bandera de orden militar detrás de la silla de montar.
+Enfoque del primer segmento
+Debe destacar:
+La caballería posee realmente ventaja de velocidad.
+Las armas largas poseen realmente ventaja de alcance de ataque.
+La Hermana Mayor todavía está siendo suprimida.
+5–10s | Persecución inversa: De la evasión a la intercepción
+
+Toma 4 | 5.0–7.2s | Seguimiento lateral a alta velocidad de 35mm
+El general continúa avanzando, iniciando un giro natural de radio amplio en una zona del camino lo suficientemente ancha más adelante.
+El caballo de guerra debe ajustarse según los mecanismos reales de carrera y giro:
+Frecuencia de zancada
+Inclinación del cuerpo
+Colocación de los cuatro cascos
+Prohibido: Que el caballo de guerra gire instantáneamente sobre su propio eje.
+La Hermana Mayor no persigue directamente detrás del caballo.
+Después de ver la dirección del giro del general, acelera repentinamente en diagonal, tomando posición por el lado interior de la ruta de giro del oponente.
+
+La cámara la sigue de cerca desde la parte baja de su espalda/lateral a alta velocidad.
+Las mangas anchas blancas se despliegan violentamente hacia atrás; las suelas de los zapatos pisan continuamente el suelo real.
+Utiliza un salto breve y visiblemente rastreable de Xianxia (Qinggong) para cruzar una diferencia de altura razonable en el terreno original o acelerar directamente por el suelo.
+Debe conservar:
+Punto de despegue claro
+Ruta de movimiento clara
+Punto de aterrizaje claro
+Prohibido: Teletransportación.
+Toma 5 | 7.2–8.5s | Plano medio general diagonal ascendente de 28mm
+La cámara se eleva rápidamente a una posición donde ambas rutas de movimiento son claramente visibles.
+La pantalla muestra claramente:
+Al general continuando su giro a lo largo de un arco mayor.
+A la Hermana Mayor cortando por una línea diagonal más corta.
+Dos direcciones de movimiento intersectándose.
+La bandera de orden militar rojo oscuro siempre ondeando violentamente detrás del general.
+El general se ha dado cuenta de que la Hermana Mayor lo está interceptando.
+Acorta activamente su agarre en la lanza larga y ajusta su postura sobre el caballo.
+
+Toma 6 | 8.5–10.0s | Primer plano de impacto a alta velocidad de 50mm
+Cuando la Hermana Mayor se acerca, el general vuelve a lanzar activamente una estocada con la lanza larga.
+La Hermana Mayor levanta la espada plateada para recibirla.
+La colisión metálica emite un sonido extremadamente corto y agudo.
+
+La espada plateada no soporta de frente toda la fuerza de la carga, sino que solo cambia la dirección de la punta de la lanza.
+Aun así, el impacto provoca una desviación de fuerza notable en todo el torso de la Hermana Mayor.
+Ella ajusta rápidamente sus pasos y su centro de gravedad.
+El enemigo no se detiene; el caballo de guerra sigue corriendo.
+Las direcciones de movimiento de ambos bandos comienzan a volverse paralelas.
+
+Enfoque del segundo segmento
+La iniciativa del combate comienza a revertirse, pero el peligro persiste.
+La Hermana Mayor no está ganando de manera abrumadora, sino compitiendo por tiempo y ruta.
+10–15s | Una espada arrebata la orden: Victoria decisiva en movimiento a alta velocidad
+Toma 7 | 10.0–12.0s | Seguimiento paralelo a corta distancia de 35mm
+El general presiona hacia abajo la lanza larga nuevamente, intentando bloquear a la Hermana Mayor frente a él.
+La Hermana Mayor no continúa atacando el cuerpo del general.
+Acelera repentinamente por el costado del caballo de guerra.
+La cámara mantiene un breve paralelismo con el caballo de guerra.
+La pantalla muestra simultáneamente:
+Patas del caballo corriendo a alta velocidad
+General estable en la silla de montar
+
+Lanza larga controlada por el general
+Hermana Mayor y espada plateada acercándose rápidamente
+El general percibe que su verdadero objetivo es la bandera de orden militar.
+Inmediatamente retrae la lanza larga, intentando sellar su acceso a la posición de la silla de montar.
+En el último momento, la Hermana Mayor cambia repentinamente la altura de su cuerpo, agachándose para pasar bajo la línea de ataque de la lanza larga.
+El plano de la espada plateada desvía brevemente la punta de la lanza otra vez.
+Aquí no se necesita un bloqueo pesado continuo;
+solo se requiere un contacto de armas claro, feroz y realista.
+Toma 8 | 12.0–13.5s | Acercamiento repentino de 50mm, corte abrupto por oscurecimiento de arma
+La lanza larga barre el frente del lente.
+Utilizar el oscurecimiento por el arma para completar un corte abrupto extremadamente rápido.
+El siguiente cuadro corta directamente a:
+Plano medio corto de la Hermana Mayor y el general casi paralelos.
+Ella completa una aceleración Qinggong de corta distancia claramente visible;
+la espada plateada corta velozmente desde detrás de su cuerpo.
+El filo de la espada solo corta la correa de cuero de la bandera de orden militar detrás de la silla de montar.
+Estrictamente prohibido:
+Atacar al caballo de guerra
+Atacar el cuerpo del general
+
+Dañar las partes estructurales del equipo de montar
+Una luz de espada blanco plateado muy corta rebana a lo largo de la correa de cuero.
+Los extremos cortados de la correa se separan instantáneamente debido a la tensión.
+La bandera de orden militar rojo oscuro se desprende abruptamente de la silla de montar.
+La superficie de la bandera es levantada hacia atrás por el flujo de aire a alta velocidad.
+La Hermana Mayor extiende la mano con precisión para agarrar el asta o la correa de la bandera,
+completando naturalmente el aterrizaje durante el movimiento continuo.
+Todo el conjunto de acciones debe ser fluido;
+no puede detenerse para mostrar una pose con la espada.
+
+Toma 9 | 13.5–15.0s | Retroceso a alta velocidad a plano general de 24mm
+Debido a la inercia del movimiento original, el general y el caballo de guerra continúan corriendo hacia adelante por el camino.
+El general instintivamente alcanza hacia atrás, hacia la parte trasera de la silla de montar.
+La posición donde estaba atada la bandera de orden militar ahora está vacía.
+Se da la vuelta violentamente.
+La cámara no lo sigue deteniéndose, sino que retrocede a alta velocidad, presentando nuevamente la relación espacial de todo el camino y el mismo entorno.
+Primer plano de la pantalla:
+La Hermana Mayor ha aterrizado de manera estable
+pero continúa dando un paso hacia adelante en la dirección de avance
+La bandera de orden militar rojo oscuro ondea violentamente al viento en sus manos
+El dobladillo blanco, el cabello negro y el puño de la manga rasgada continúan moviéndose
+Plano medio a fondo:
+La Hermana Menor sigue de pie en la posición segura a la que evadió antes
+
+Mirando la bandera en las manos de la Hermana Mayor
+Más lejos:
+El general y el caballo de guerra continúan alejándose hacia la profundidad
+Elementos ambientales originalmente existentes:
+Sonidos del viento
+Sonidos del agua
+Vegetación
+Niebla de montaña
+Siguen operando de forma natural.
+Dejando solo:
+
+El sonido de los cascos desvaneciéndose gradualmente
+El sonido de la superficie de la bandera roja golpeando continuamente el aire
+Requisitos finales
+Sin poses de victoria
+Sin congelamientos de imagen en cámara lenta
+
+Sin diálogos explicativos añadidos
+Terminar de forma natural durante el movimiento continuo
+
+V. Ejecución global de acción y cinematografía
+Segmentación del ritmo
+0–5s
+
+Incursión de caballería a alta velocidad, protagonista forzada a evadir.
+5–10s
+Toma proactivamente la línea interior del giro de la caballería, la iniciativa del combate comienza a revertirse.
+10–15s
+Segundo enfrentamiento a alta velocidad, la espada arrebata la orden, el general continúa cargando pero ha perdido el objetivo.
+Número sugerido de tomas
+Usar aproximadamente 6-8 cortes internos con un propósito claro durante todo el cortometraje;
+no requiere divisiones mecánicas de duración igual.
+Lenguaje de cámara
+
+24mm: Establece la escala real entre la caballería y los personajes.
+28mm Ángulo bajo: Mejora el contraste de los cascos, las puntas de lanza barriendo y la velocidad de primer plano/fondo.
+35mm Seguimiento pegado al cuerpo: Presenta a la protagonista corriendo, dando pasos laterales, embistiendo en diagonal, Qinggong de corta distancia.
+50mm: Enfatiza el contacto lanza-espada, la tensión corporal y el arrebato preciso.
+Retorno final al plano general de 24mm: Se ve claramente al general, el camino, la bandera de orden militar y la relación espacial final.
+Principios de movimiento de cámara
+El movimiento de la cámara debe estar determinado por los siguientes factores:
+Dirección del movimiento de los personajes
+Velocidad del caballo de guerra
+
+Líneas de ataque de las armas
+
+Cambio en el eje de combate
+Permitido:
+Paneos rápidos cortos
+Travellings a alta velocidad
+Acercamientos (Push-ins)
+Cortes naturales oscurecidos por armas
+Pero cada corte debe servir a información de acción real.
+Estrictamente prohibido:
+Paneos rápidos mecánicos en todo momento
+Desenfoque de movimiento severo que haga irreconocibles a los personajes
+VI. Reglas físicas de acción
+Caballo de guerra
+Mantener ritmo real de extremidades
+Cambios reales del centro de gravedad
+Esfuerzo muscular real
+Radio de giro real
+
+Prohibido:
+Giro instantáneo sobre su propio eje
+Frenado repentino
+Retroceder deslizándose
+General
+Agarrar, reajustar el agarre, bajar el cuerpo y los cambios de dirección deben ser continuos.
+La lanza larga debe reflejar longitud, peso e inercia rotacional claros.
+Hermana Mayor
+El Qinggong de Xianxia solo es responsable de:
+Impulso de corta distancia
+Cambiar rutas
+Lograr paralelismo cinematográfico a alta velocidad
+Prohibido:
+Teletransportación sin proceso
+Sensación de flotar
+Volteretas acrobáticas consecutivas para lucirse
+Contacto de armas
+Todos los contactos de armas deben tener:
+Aplicación de fuerza clara
+Retroalimentación clara
+Colisión breve
+Desplazamiento corporal o corrección de pasos
+Continuidad de telas y rastros
+La ropa se retrasa cuando los personajes aceleran
+Las mangas continúan moviéndose al detenerse de repente
+Los puños blancos rasgados permanecen dañados
+La bandera de orden militar no puede volver a la silla de montar después de ser cortada
+Los rastros de batalla no se recuperan automáticamente
+VII. Diseño sonoro
+Inicio
+Los cascos del caballo de guerra se amplifican rápidamente, constituyendo una presión peligrosa.
+Armas
+Lanza larga: Sonido silbante grave y agudo.
+Espada plateada: Sonido de corte breve, de alta frecuencia y claro.
+Colisión de armas: Real, breve, con peso.
+Sonidos clave de utilería
+Cuando se corta la correa de cuero: Sonido de chasquido claro pero no exagerado.
+
+Después de que la bandera de orden militar se desprende de la silla: Sonido violento de la tela de la bandera azotando.
+Estructura sonora final
+Los cascos se desvanecen gradualmente.
+La tela de la bandera y los sonidos naturales del entorno permanecen en primer plano.
+Principio de la banda sonora
+La percusión de estilo chino es extremadamente contenida.
+Solo refuerza el ritmo durante las dos cargas de caballería y el momento de arrebatar la orden.
+Todo el cortometraje no tiene diálogos, ni subtítulos, ni títulos.
+VIII. Prompts negativos globales
+Personajes y activos
+Prohibido: Intercambio de rostros de personajes, cambios de vestuario, cambios de peinado, cambios de proporciones corporales.
+Prohibido: Confusión de propiedad de armas entre los protagonistas de Image 1 e Image 2.
+Prohibido: Enemigos duplicándose de la nada.
+Caballo de guerra
+Prohibido: Extremidades anormales, seis patas, patas cruzadas, cabeza deformada, falta de ritmo real de carrera.
+Prohibido: Giro instantáneo sobre su propio eje, frenado repentino, retroceder deslizándose.
+Prohibido: Desaparecer de repente, cambiar de color, intercambiar caballos.
+Prohibido: Detenerse de la nada.
+General y armas
+Prohibido: General flotando, saliendo de la silla de montar y regresando instantáneamente.
+Prohibido: Lanza larga cambiando a espada, cuchillo, arma de fuego o acortándose aleatoriamente.
+Prohibido: Bandera de orden militar duplicándose, desapareciendo de repente, recuperándose automáticamente.
+Prohibido: Bandera permaneciendo fija después de que se rompe la correa de la silla.
+Lógica de combate
+Prohibido: Protagonista lastimando al caballo de guerra.
+Prohibido: Ataques sin tensión corporal.
+Prohibido: Contacto de armas sin retroalimentación real.
+Prohibido: Quedarse quietos dándose tajos mutuamente.
+Prohibido: Enemigos haciendo fila para ofrecer ataques.
+Prohibido: Protagonista posando continuamente en el lugar.
+Prohibido: Volteretas consecutivas sin sentido.
+Prohibido: Qi de espada aleatorio en grandes áreas.
+Prohibido: Explosiones de energía en toda la pantalla.
+Prohibido: Rayos y grietas espaciales aleatorias.
+Prohibido: Teletransportación sin trayectoria.
+Prohibido: Personajes convirtiéndose continuamente en rayos de luz.
+Prohibido: Cámara lenta frecuente, hit-stop, bullet time.
+Prohibido: Repetir la misma acción desde múltiples ángulos.
+Visuales y entorno
+Prohibido: Pantalla completa irreconocible respecto a personajes y armas.
+Prohibido: Cortes fragmentados mecánicos.
+Prohibido: Fondo cambiando de repente.
+Prohibido: Entorno ayudando a la protagonista a pelear de forma autónoma.
+Prohibido: Rastros obvios causados por personajes que se recuperan automáticamente.
+Prohibido: Sangre real, extremidades amputadas y vísceras.
+Prohibido: Texto, subtítulos, UI, LOGOs y marcas de agua adicionales.
+Palabras negativas generales
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+IX. Versión combinada final (Lista para ingresar)
+Combate cinematográfico realista de caballería a alta velocidad estilo Xianxia chino de 15 segundos. Fijar @Image1 Hermana Mayor Inmortal de la Espada Vestida de Blanco y @Image2 Hermana Menor con túnica verde azulado; el entorno hereda estrictamente el mundo físico y las relaciones espaciales definidas conjuntamente por las imágenes de referencia de locación de esta ronda. Un general de caballería con armadura pesada oscura monta un único caballo de guerra marrón oscuro, sosteniendo una lanza larga y cargando a alta velocidad, con una bandera de orden militar rojo oscuro detrás de la silla de montar. Al inicio, el general suprime a la Hermana Mayor con la velocidad de carga y la longitud de la lanza; la Hermana Mayor protege a la Hermana Menor evitando el primer impacto, y el puño de su manga blanca se rasga; posteriormente, el general continúa girando manteniendo un radio de giro real, la Hermana Mayor identifica la diferencia en sus rutas de movimiento, usando un breve Qinggong de Xianxia para tomar diagonalmente la línea interior del giro de la caballería, formando una persecución cruzada a alta velocidad. El general percibe la intención y cambia activamente la línea de ataque de la lanza larga; ambos bandos completan dos colisiones de armas breves y feroces durante el movimiento continuo. Finalmente, la Hermana Mayor se coloca brevemente en paralelo por el costado del caballo de guerra, usa la espada plateada para cambiar la dirección de la punta de la lanza, luego corta con precisión la correa de cuero de la bandera de orden militar detrás de la silla de montar con un solo tajo de espada, atrapando la bandera de orden militar roja y aterrizando de manera fluida. El general y el caballo de guerra continúan corriendo hacia la distancia, dándose cuenta de que perdieron la bandera solo al mirar hacia atrás. Todo el cortometraje destaca la carrera real del caballo, la velocidad de la caballería, el alcance de ataque de las armas largas, los impulsos de corta distancia de los personajes, las rutas espaciales claras, el fuerte contraste cercano-lejano, los cortes abruptos funcionales, la retroalimentación física real y los efectos de sonido cinematográficos. El fondo permanece vivo y narrativamente neutral; los personajes no posan victoriosamente; las banderas, la ropa, el cabello, los caballos y el entorno natural terminan durante el movimiento continuo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117142223313866754/img/OMthdgTsWVdBd4Yd.jpg" width="600" alt="Cortometraje de Batalla Xianxia con Seedance 2.0 Mini">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13436)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2117142880922058932) | **Publicado:** Nov 2, 2026
+
+---
 ### Prompt de Cortometraje Xianxia Antiguos para Seedance 2.0 Mini
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -4020,494 +6669,6 @@ Las gotas de agua caen de vuelta a la superficie del río, el dragón divino se 
 **Autor:** [Zidan 子丹](https://x.com/liluocheng13) | **Fuente:** [Link](https://x.com/liluocheng13/status/2110225020278743421) | **Publicado:** Oct 14, 2026
 
 ---
-### Día de la oficinista coreana agotada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt altamente detallado para un video cinematográfico de 24 segundos que retrata la agotadora rutina diaria de una joven oficinista coreana.
-
-#### 📝 Prompt
-
-```
-Crea un video cinematográfico ultrarrealista de 24 segundos de una joven oficinista coreana experimentando un día agotador en su vida corporativa. Muéstrala cepillándose los dientes frente al espejo del baño, preparándose para el trabajo, cruzando un paso peatonal abarrotado en una ciudad coreana con un traje azul marino y cargando un bolso negro. Luego, muéstrala sentada cansada en un metro lleno con los ojos cerrados, trabajando en silencio en un escritorio ocupado rodeada de computadoras y papeles, y comiendo almuerzo en una cafetería de empresa abarrotada mientras se ve emocionalmente drenada. Captura primeros planos de su rostro exhausto, textura realista de la piel y una tristeza sutil en sus ojos. Termina con ella de pie, cansada, dentro del metro antes de transicionar a ella acostada inmóvil en un sofá en casa, aún vestida con su ropa de oficina y su credencial de empleado. Mantén rasgos faciales, peinado, atuendo y proporciones corporales consistentes durante todo el video. Usa entornos coreanos realistas, iluminación natural, movimientos de cámara cinematográficos suaves, expresiones faciales detalladas y una paleta de colores apagada para transmitir el peso emocional de una rutina laboral exigente. Haz que todo el video sea fotorrealista, sin texto, subtítulos ni marcas de agua.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110206919013199872/img/s6H_5NpANuOxYO0S.jpg" width="600" alt="Día de la oficinista coreana agotada">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12483)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fuente:** [Link](https://x.com/Aiwithmaha/status/2110206983999726004) | **Publicado:** Oct 14, 2026
-
----
-### Prompt de Video de Comedia Xianxia Antigua de Seedance
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt detallado para la generación de video con Seedance, creando una comedia cinematográfica xianxia de 30 segundos sobre dos espadachinas que escapan de las multas vacacionales solo para enfrentarse a turnos de vigilancia nocturna.
-
-#### 📝 Prompt
-
-```
-Comedia de Reversión Xianxia Antigua | Vacaciones de siete días, demasiado concurrido al pie de la montaña, deben hacer guardia nocturna en la cima
-
-I. Estilo General y Dirección Creativa
-
-Textura fotorealista cinematográfica, mundo puro de xianxia chino antiguo, comedia de reversión realista centrada en relaciones auténticas entre personajes.
-
-Inspiración:
-
-Humor seco británico (deadpan)
-Ritmo de comedia situacional hongkonesa
-Pausas de reacción y estructura de configuración-resolución del cine mudo clásico
-
-Las actuaciones son naturales y contenidas, sin expresiones exageradas, sin acumulación de magia excesiva, sin escenas grandilocuentes abruptas.
-
-Visuales con:
-
-Calidad óptica de película antigua real
-Microdetalles faciales claros y delicados
-Grano de película natural
-Física realista de telas
-Luz volumétrica suave
-Capas espaciales claras
-
-II. Trama Central y Línea Principal de Comedia
-
-El segmento completo tiene una sola línea principal de comedia de 30 segundos:
-
-La Hermana Mayor Inmortal Espadachín y la Hermana Menor finalmente obtienen vacaciones de siete días, bajan emocionadas de la montaña buscando tranquilidad, pero encuentran colas en todas partes en los puntos turísticos, incluso los enemigos que vienen a desafiarlas deben hacer fila.
-
-Decepcionadas, regresan temprano a la secta, solo para descubrir que la secta vacía es en realidad el lugar más silencioso; antes de poder disfrutarlo, el Maestro les asigna hacer guardia nocturna.
-
-Deciden instantáneamente volver a bajar de la montaña.
-
-El remate final proviene de:
-
-"Se quejaron de las multitudes antes, ahora prefieren multitudes a la guardia nocturna" contraste de realidad.
-
-Principios de Comedia
-
-Todos los chistes están impulsados por:
-
-Decisiones de los personajes
-Movimientos corporales
-Cambios de expresión
-Diálogo natural
-No se puede depender de accidentes mágicos aleatorios o del entorno resolviendo problemas por los personajes.
-
-III. Identidad de Personajes y Bloqueo de Activos
-
-Usar estrictamente @image1 y @image2 como únicos anclajes de identidad para los dos personajes principales.
-
-ID de Personaje A | Hermana Mayor Inmortal Espadachín
-
-Siempre la misma @image1 Hermana Mayor Inmortal Espadachín:
-
-Mujer asiática oriental de 25-30 años
-Alta y delgada
-Cara ovalada
-Ojos almendrados oscuros
-Cabello negro largo semirrecogido, fijado con un pasador de jade blanco
-Viste siempre el mismo conjunto de Hanfu de seda blanca bordada
-Mangas anchas superpuestas
-Cinturón plateado
-Colgante de jade
-Botas de tela blanca
-Sostiene una espada larga de plata única
-
-ID de Personaje B | Hermana Menor
-
-Siempre la misma @image2 Hermana Menor:
-
-Mujer asiática oriental de 20-25 años
-Figura pequeña
-Cara redonda y vivaz
-Cabello negro trenzado
-Viste siempre el mismo conjunto de Hanfu de lino verde azulado
-Cinturón oscuro
-Pasador de madera
-Zapatos negros de tela
-Sostiene una espada de acero oscuro única
-
-Continuidad de Personajes
-
-Las siguientes características de los dos personajes principales permanecen estables durante todo el video:
-
-Estructura ósea facial
-Rasgos
-Proporciones corporales
-Peinado
-Ropa
-Armas exclusivas
-
-Otros Personajes
-
-El mismo Maestro mayor
-
-Un joven espadachín enemigo
-
-Ambos sirven como roles secundarios funcionales.
-
-IV. ADN Ambiental y Planificación Espacial
-
-Todas las imágenes de referencia de fondo y ubicación cargadas en esta ronda determinan conjuntamente el mismo mundo visual real.
-
-Antes de la generación, integrar silenciosamente elementos compatibles de cada imagen de referencia:
-
-Terreno
-Arquitectura antigua
-Materiales de construcción
-Escala espacial
-Vegetación
-Cuerpos de agua
-Luz natural
-Clima
-Nubes/neblina
-Reflejos
-Profundidad atmosférica
-Rutas de caminata
-Replanificar un diseño espacial único y físicamente razonable para esta ronda.
-
-Continuidad Geográfica
-
-Las siguientes ubicaciones deben pertenecer al mismo entorno geográfico continuo:
-
-Puerta de la Montaña
-Camino de la Montaña
-Plataforma de Piedra Mirador
-
-Principio de Fondo Vivo
-
-El viento natural, el flujo de agua, las ramas/hojas, la neblina fina, los reflejos y las actividades de discípulos ordinarios a distancia persisten pero permanecen narrativamente neutrales, no creando ni resolviendo activamente puntos de trama.
-Solo los turistas explícitamente colocados y los retadores esperando pueden llevar funciones dramáticas específicas.
-
-V. Estructura Completa de Storyboard de 30 Segundos
-
-00:00–00:06 | Segmento 1: Finalmente libres, pero la Puerta de la Montaña está concurrida
-
-Toma: Plano general empujando lentamente hacia la Puerta de la Montaña
-
-Escena y Entorno
-
-Luz natural matutina, aire de montaña claro.
-
-Agua fluyendo a lo lejos, ramas, mangas y cabello largo tienen movimiento natural.
-
-Acciones y Diálogo de Personajes
-
-El mismo Maestro mayor anuncia calmadamente:
-[Maestro] "Hoy comienzan las vacaciones de siete días."
-
-Los ojos de la misma Hermana Menor se iluminan instantáneamente, girando inmediatamente hacia la Hermana Mayor:
-[Hermana Menor] "Hermana, ¡busquemos un lugar tranquilo!"
-
-La misma Hermana Mayor vestida de blanco responde con precisión:
-[Hermana Mayor] "Vamos."
-
-Las dos caminan rápidamente hacia la Puerta de la Montaña con rara anticipación.
-
-Movimiento de Cámara
-
-La cámara sigue con estabilidad, revelando gradualmente otros discípulos antiguos y cultivadores viajeros saliendo de la puerta, formando una multitud natural y ordenada.
-
-Ritmo de Reacción
-
-Ambas se detienen simultáneamente, intercambiando apenas una mirada breve, sin explicación adicional.
-
-00:06–00:12 | Segmento 2: El mar de nubes es hermoso, pero lleno de gente adelante
-
-Toma: Plataforma de piedra mirador, planos medios y tomas de reacción
-
-Diseño de Transición
-
-Usar turistas pasando en primer plano para transición de oclusión natural a la plataforma de piedra mirador de la montaña dentro del mismo mundo de referencia.
-
-Escena y Espacio
-
-El mar de nubes distante y las montañas son verdaderamente magníficos, pero hay una cola de espera razonable en el mejor punto de vista.
-
-Acciones y Diálogo de Personajes
-
-La misma Hermana Menor se pone de puntillas ligeramente, intentando ver más allá de la gente adelante, preguntando confundida:
-[Hermana Menor] "Hermana, ¿dónde está el mar de nubes?"
-
-La misma Hermana Mayor también mira seriamente al frente de la cola, hace una pausa de medio tiempo, respondiendo sin cambiar su expresión:
-[Hermana Mayor] "Esa fila de personas adelante lo está bloqueando."
-
-Reacción Cómica
-
-La Hermana Menor baja lentamente sus talones, la expectativa desapareciendo de su rostro poco a poco.
-
-Dar a la cámara suficiente pausa visual breve para que los espectadores sientan la brecha por sí mismos.
-
-00:12–00:18 | Segmento 3: Incluso desafiar a Inmortales Espadachines requiere hacer fila
-
-Toma: Plano medio de dos personas, paneo lateral y revelación de espacio
-
-Movimiento de Cámara
-
-La cámara panee naturalmente a lo largo de sus lados.
-
-Entrada del Enemigo
-
-El único joven espadachín enemigo se acerca a ellas, desenvaina solemnemente su espada, gritando con verdadero espíritu de desafío marcial:
-[Espadachín Enemigo] "¡Inmortales Espadachines! ¡Resolvamos esto hoy!"
-
-La misma Hermana Mayor vestida de blanco finalmente se anima, enfrentando directamente al oponente, respondiendo:
-[Hermana Mayor] "Ven."
-
-Primera Reversión Cómica
-
-Justo cuando se preparan para actuar, la misma Hermana Menor levanta naturalmente una mano entre ellos:
-[Hermana Menor] "Hagan fila primero."
-
-El enemigo se congela en el lugar:
-[Espadachín Enemigo] "¿Pelear también necesita hacer fila?"
-
-Revelación de Espacio
-
-La cámara simplemente revela siguiendo la mirada de la Hermana Menor:
-Dos retadores más portando espadas esperan silenciosamente junto a los escalones de piedra.
-Uno sentado
-Uno de pie
-Todos están en estados antiguos realistas, sin estilización exagerada, no repitiendo apariencias de protagonistas.
-
-Reacción Cómica
-
-El enemigo baja lentamente su espada larga, quedándose sin palabras por primera vez.
-
-Dejar suficiente espacio de reacción silenciosa, no añadir líneas adicionales.
-
-00:18–00:24 | Segmento 4: Regresando temprano, la quietud se convierte en castigo
-Toma: Plano medio de la Puerta de la Montaña, toma estable de relación
-
-Diseño de Transición
-
-Usar la manga ancha blanca de la Hermana Mayor pasando para transición de oclusión natural.
-
-Tiempo y Escena
-
-Anochecer del mismo día.
-
-Regresan a la arquitectura y terreno exactos de la Puerta de la Montaña del inicio.
-
-La mayoría de los discípulos han bajado, la secta es excepcionalmente tranquila, pero el ambiente definitivamente no es un fondo estático:
-Canales de agua continúan fluyendo
-Ramas de pino se balancean con el viento
-Sombras de nubes distantes cambian lentamente
-
-Acciones y Diálogo de Personajes
-
-La misma Hermana Menor finalmente se sienta cómodamente en los escalones de piedra familiares, relajándose y suspirando:
-[Hermana Menor] "Aún más tranquilo en la Puerta de la Montaña."
-
-La misma Hermana Mayor está cerca, realmente relajándose por primera vez.
-Preservar completamente aproximadamente medio segundo de pausa emocional tranquila y cómoda.
-
-Segunda Reversión Cómica
-
-El mismo Maestro mayor se acerca naturalmente desde atrás, sosteniendo un rollo de texto ilegible (lista de turnos normal), diciendo casualmente:
-[Maestro] "Entonces ustedes dos hagan guardia nocturna esta noche."
-
-Enfoque de Actuación
-
-La Hermana Mayor y la Hermana Menor casi simultáneamente giran la cabeza lentamente para mirar al Maestro, luego intercambian miradas.
-Sin ojos muy abiertos exagerados.
-Sin explosiones de efectos de sonido.
-Solo usar expresiones complejas de dos adultos que de repente se dan cuenta de que hablaron incorrectamente para crear la reversión.
-
-00:24–00:30 | Segmento 5: Prefieren seguir haciendo fila antes que hacer guardia nocturna
-
-Toma: Seguimiento medio estable, finalmente permaneciendo en la reacción del Maestro
-
-Acciones de Personajes
-
-La Hermana Mayor y la Hermana Menor no necesitan discutir, casi simultáneamente:
-Se ponen de pie
-Reajustan espadas y ropa en las cinturas
-Caminan rápidamente hacia afuera de la Puerta de la Montaña
-
-Diálogo
-
-El mismo Maestro las mira desconcertado:
-[Maestro] "¿No se quejaron de las multitudes abajo?"
-
-La misma Hermana Menor no mira hacia atrás, respondiendo mientras camina:
-[Hermana Menor] "Concurrido es concurrido, pero no se necesita guardia nocturna."
-
-La misma Hermana Mayor vestida de blanco añade muy seriamente:
-[Hermana Mayor] "Apúrense, las habitaciones de la posada estarán llenas."
-
-Movimiento Final de Cámara
-
-La cámara no persigue a las dos, sino que permanece naturalmente en el Maestro.
-
-Dejar que las espaldas que se alejan cada vez más rápido de las dos en la distancia formen contraste visual con la reacción silenciosa del Maestro en primer plano.
-
-Aterrizaje Final de Comedia
-
-El Maestro finalmente se da cuenta de que personalmente envió de vuelta a las multitudes a dos discípulas que se quejaban de las multitudes.
-
-Él solo deja escapar un ligero suspiro.
-
-Terminar precisamente en esta reacción completamente indefensa pero muy real.
-
-VI. Requisitos Generales de Narrativa y Edición
-
-Duración total estricta de 30 segundos
-Relación de aspecto 16:9
-Cinco segmentos cinematográficos rítmicamente claros y causalmente continuos
-Todas las ubicaciones pertenecen a un espacio geográfico completo
-Completar directamente una narrativa audiovisual completa
-
-Principios de Corte
-
-Los cambios de cámara solo se completan naturalmente a través de:
-Movimiento de personaje
-Oclusión de primer plano
-Relaciones de mirada
-Continuidad de dirección
-No hacer
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110182087324254208/img/MR9I6jSjF-0t_RNb.jpg" width="600" alt="Prompt de Video de Comedia Xianxia Antigua de Seedance">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12488)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2110182891452010713) | **Publicado:** Oct 14, 2026
-
----
-### Diseño de suelo epoxi con puertas de coche
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt creativo para instalación de suelos que transforma puertas de coche oxidadas en un diseño de suelo vibrante.
-
-#### 📝 Prompt
-
-```
-Vídeo vertical fotorrealista 9:16, plano general fijo desde la esquina de una habitación blanca vacía con una gran ventana en la pared derecha, luz natural brillante, suelo de hormigón desnudo. Un trabajador barbudo con monos azul marino y guantes negros usa un rastrillo de mango largo para esparcir un gran montón de viejas puertas de coche oxidadas por el suelo, alisándolas en una cuadrícula ordenada que cubre toda la habitación, movimiento rápido en timelapse. Luego, una mujer con cola de caballo y monos rojos vierte resina epoxi autonivelante espesa de color blanco lechoso desde un cubo sobre las puertas oxidadas; el líquido fluye hacia afuera, sumergiendo las puertas hasta que todo el suelo se convierte en una superficie blanca brillante con siluetas tenues de puertas de coche visibles debajo. A continuación, un hombre con chaleco reflectante amarillo empuja una pulidora rotativa de suelos con manguera de aspiración, lijando el epoxi curado hasta que las puertas oxidadas incrustadas se convierten en un patrón decorativo en relieve suave sobre un suelo blanco con acabado espejo. Finalmente, dos trabajadores con uniformes negros y guantes rosados llevan un marco de cama de metal negro, colocan un colchón y visten la cama con edredón gris y almohadas. Dormitorio minimalista terminado con un suelo de diseño de puertas de coche vintage encapsuladas bajo resina transparente brillante. Timelapse satisfactorio de renovación, iluminación consistente, cámara estable, toma continua sin cortes, alto detalle, sin texto, sin marca de agua.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110044612379242496/img/wJMIB2YQGZFr9b7E.jpg" width="600" alt="Diseño de suelo epoxi con puertas de coche">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12486)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2110044654083162342) | **Publicado:** Oct 13, 2026
-
----
-### Video de Estilo de Vida Nocturno en Tokio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para crear un video cinematográfico hiperrealista de estilo de vida de 15 segundos, mostrando a una mujer navegando por las calles de Tokio, el cruce de Shibuya y callejones de neón.
-
-#### 📝 Prompt
-
-```
-Crea un video cinematográfico hiperrealista de estilo de vida de 15 segundos utilizando la mujer de referencia como identidad exacta durante todo el clip.
-
-Ella es hermosa con rasgos de modelo en cada escena. Preserva su rostro, cabello largo oscuro, tono de piel, proporciones corporales e identidad de manera consistente. Textura de piel natural, movimiento realista, sin deformaciones, sin texto en pantalla y ella nunca habla.
-
-Vístela con la ropa de su imagen de referencia, manteniéndola consistente durante todo el video.
-
-Usa nuestra estructura normal de cortes rápidos: escenas limpias de 0.8–1.8 segundos, movimiento dinámico de cámara, fuerte pulido visual y cambios claros de ubicación. Mantén las acciones simples y fáciles para que el modelo las siga. El tono es elegante, effortless y urbano.
-
-Escena 1 — 0:00–0:01.8 Cruce de Shibuya. Ella camina con confianza a través de la multitud. La cámara retrocede frente a ella.
-
-Escena 2 — 0:01.8–0:03.2 Retrato íntimo ajustado en una calle lateral de Tokio. Rostro, cuello, hombros. Movimiento lateral lento de cámara. Ella mira directamente a la lente.
-
-Escena 3 — 0:03.2–0:04.8 Harajuku o Cat Street. Plano de seguimiento lateral mientras pasa frente a tiendas y peatones.
-
-Escena 4 — 0:04.8–0:06.2 Ella se detiene en una máquina expendedora iluminada y toma una bebida. Plano medio-corto limpio. Empuje sutil hacia adelante (push-in).
-
-Escena 5 — 0:06.2–0:07.8 Plataforma del tren en Tokio. Ella espera de pie mientras el tren llega detrás de ella. La cámara se mueve lateralmente.
-
-Escena 6 — 0:07.8–0:09.3 Callejón estrecho de neón o carril tranquilo iluminado por faroles. Plano de seguimiento trasero mientras camina, luego mira ligeramente hacia atrás.
-
-Escena 7 — 0:09.3–0:10.8 Momento en una pequeña barra de ramen o ventana de café. Ella gira ligeramente, expresión natural suave, profundidad de campo reducida.
-
-Escena 8 — 0:10.8–0:15.0 — HERO Azotea o terraza elevada con el horizonte de Tokio detrás de ella a la hora azul. Comienza detrás de su hombro, luego orbita suavemente hacia un plano heroico de cintura hacia arriba. Ella mira directamente a la cámara en el momento final, tranquila, segura y impactante.
-
-SONIDO: Mínimo y natural. Ambiente de las calles de Tokio, movimiento suave de la multitud, tráfico distante, sonidos de señales de cruce, pasos ligeros, zumbido de máquina expendedora, sonido de llegada del tren, aire sutil de la ciudad, ambiente silencioso de restaurante. Sin diálogo. Sin letras de música.
-
-Mantén Tokio visualmente reconocible pero elegante. Sin transiciones confusas, sin complejidad extra y sin inestabilidad.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110001684160167936/img/Qvh3eZRr7m24EnuP.jpg" width="600" alt="Video de Estilo de Vida Nocturno en Tokio">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12480)**
-
-**Autor:** [Promethean](https://x.com/PrometheanAIX) | **Fuente:** [Link](https://x.com/PrometheanAIX/status/2110002369354178965) | **Publicado:** Oct 13, 2026
-
----
-### Video de Renovación de Piso con Caparazones de Tortuga y Epoxi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt surrealista para video de renovación donde trabajadores instalan un piso hecho con caparazones de tortugas incrustados en resina epóxica. La secuencia incluye rastrillar tortugas vivas en filas, verter resina blanca sobre ellas, pulir y abrillantar para revelar el patrón de los caparazones, y finalmente montar una cama encima. Ideal para crear contenido visual extrañamente satisfactorio estilo ASMR.
-
-#### 📝 Prompt
-
-```
-Video de renovación surrealista fotorrealista, vertical 9:16, habitación vacía con paredes blancas y una ventana grande y luminosa, luz natural, plano general estático, cámara suave.
-
-Escena 1 (0-4s): un hombre con overol azul de mezclilla y camiseta gris usa un rastrillo largo para distribuir un gran montón de tortugas vivas sobre el piso de concreto desnudo, rastrillándolas en filas paralelas ordenadas que cubren toda la habitación.
-
-Escena 2 (4-8s): una mujer con overol rojo vierte gruesa resina epóxica blanca autonivelante desde un balde de plástico sobre las filas de tortugas; el líquido brillante fluye, se nivela solo y cubre completamente los caparazones.
-
-Escena 3 (8-16s): el hombre opera una máquina pesada de lijado y pulido de pisos, lijando la resina blanca curada; el polvo se eleva y el pulido revela gradualmente los caparazones de tortuga incrustados dentro del piso, transformándolo en un piso epóxico decorativo brillante con patrón de caparazones de tortuga.
-
-Escena 4 (16-24s): dos trabajadores con camisetas negras llevan un marco de madera para cama, colocan un colchón blanco, almohadas y ropa de cama beige, ensamblando la cama sobre el piso epóxico de caparazones de tortuga.
-
-Toma final: dormitorio acogedor terminado, piso brillante estilo terrazo hecho de caparazones de tortuga incrustados reflejando la luz de la ventana. Detalle hiperrealista, estilo ASMR extrañamente satisfactorio, sin texto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109958755173425153/img/FCKZiXsGkdEJncn9.jpg" width="600" alt="Video de Renovación de Piso con Caparazones de Tortuga y Epoxi">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12477)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2109958787373125663) | **Publicado:** Oct 13, 2026
-
----
-### Video de Moda Gótica de Halloween
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para crear un video de moda fantasmagórica cinematográfico de Halloween, protagonizado por una mujer en alta costura gótica con elementos mágicos.
-
-#### 📝 Prompt
-
-```
-Crea un video de moda fantasmagórica de Halloween ultra realista y cinematográfico en formato vertical 9:16, que presente a una hermosa mujer adulta con cabello castaño rojizo largo y ondulado, adornado con una elaborada corona de rosas rojas, caléndulas naranjas, mini calabazas, encaje negro y ornamentos góticos colgantes. Viste un extravagante vestido de alta costura gótica en negro y naranja con encajes intrincados, bordados florales, detalles de calabazas y joyería delicada, sentada elegantemente en un jardín mágico de Halloween rodeado de velas brillantes, calabazas talladas tipo jack-o’-lantern, flores otoñales y una gran luna llena luminosa al fondo. Una cesta rebosante de pequeñas calabazas, dulces de Halloween y adorables decoraciones de fantasmas descansa sobre su regazo. Apoya suavemente la mejilla en la mano, sonríe cálidamente a la cámara, inclina la cabeza e interactúa con gracia con las decoraciones manteniendo expresiones faciales naturales y movimientos fluidos. Mariposas doradas brillantes y luciérnagas mágicas revolotean a su alrededor, creando estelas de luz resplandecientes, mientras un pequeño gato negro se sienta a su lado. Utiliza la cálida luz ámbar de las velas, tonos ricos en naranja quemado y carmesí, iluminación cinematográfica suave, profundidad de campo reducida, texturas de piel altamente detalladas, movimiento realista de la tela, transiciones de cámara suaves, efectos sutiles de cámara lenta y fotografía editorial de lujo estilo fantasía. La atmósfera debe sentirse encantadora, romántica, misteriosa y caprichosa, con un detalle excepcional, calidad fotorealista 4K y una estética pulida de película de moda de Halloween.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109922320395423744/img/VBXgQbfrVo5AiCQY.jpg" width="600" alt="Video de Moda Gótica de Halloween">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12485)**
-
-**Autor:** [Letty](https://x.com/LettyVesper) | **Fuente:** [Link](https://x.com/LettyVesper/status/2109923048434348416) | **Publicado:** Oct 13, 2026
-
----
-### Momento en el estudio de una bailarina lesionada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt detallado para un video cinematográfico de una joven bailarina coreana descansando después del ensayo, destacando la lesión y la emoción.
-
-#### 📝 Prompt
-
-```
-Crea un video cinematográfico ultra realista de 30 segundos que muestre a una hermosa mujer coreana joven dentro de un amplio estudio de danza moderno con suelo de madera liso, espejos grandes e iluminación interior suave. Al inicio, muestra a varios bailarines practicando en el fondo mientras la cámara captura los pies descalzos de la chica y sus pantalones negros holgados mientras camina por el suelo del estudio. Lleva una blusa negra ajustada de manga larga y pantalones negros sueltos, con el cabello oscuro recogido casualmente y algunos mechones cayendo naturalmente sobre su rostro. A medida que avanza el video, ella parece cansada y emocionalmente abrumada después del ensayo, sentándose lentamente contra una pared gris claro del estudio con las rodillas juntas cerca del pecho. Sostiene suavemente su tobillo lesionado, envuelto en una venda de color claro, y mira hacia abajo con una expresión tranquila y triste. Otros bailarines continúan practicando en el fondo, creando un contraste realista entre el estudio ocupado y su momento solitario. Utiliza una mezcla de planos abiertos, planos medios y primeros planos íntimos de su rostro, manos y tobillo vendado. Sus movimientos deben sentirse sutiles, naturales y emocionalmente creíbles, con textura de piel realista, detalles faciales delicados y apariencia de personaje consistente durante todo el video. Usa iluminación cinematográfica suave, colores neutros apagados, profundidad de campo reducida, movimientos de cámara fluidos y una estética profesional de drama coreano. Mantén una apariencia fotorrealista, proporciones corporales naturales, detalles realistas del estudio y visuales de alta calidad en formato vertical 16:9. Evita expresiones exageradas, piel artificial, manos distorsionadas, dedos adicionales, parpadeos y texto o marcas de agua no deseadas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109876396952784896/img/U08ae2rw0nJjeYWO.jpg" width="600" alt="Momento en el estudio de una bailarina lesionada">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12484)**
-
-**Autor:** [liana](https://x.com/Lianaalane) | **Fuente:** [Link](https://x.com/Lianaalane/status/2109876446089134244) | **Publicado:** Oct 13, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -4569,6 +6730,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-03T02:24:05.383Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-03T11:55:37.563Z</sub>
 
 </div>

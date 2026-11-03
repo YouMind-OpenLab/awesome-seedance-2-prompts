@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6633** |
+| 📝 Tổng số prompt | **6640** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-11-03** |
 
@@ -361,6 +361,2658 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Prompt kinh dị tiên hiệp điện ảnh cho Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt chi tiết cho Seedance 2.0 Mini để tạo video điện ảnh dài 15 giây thuộc thể loại siêu nhiên phương Đông/xianxia. Prompt bao gồm cấu trúc kể chuyện phức tạp với ba cảnh quay, đảm bảo tính nhất quán nhân vật bằng hình ảnh tham chiếu, cùng các hiệu ứng ánh sáng và chuyển động máy quay cụ thể.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | "Đừng Trả Lời Tiếng Gọi Đó"
+
+Mô hình: Seedance 2.0 Mini
+Thời lượng: Chính xác 15 giây
+Tỷ lệ khung hình: 16:9 Ngang
+Thể loại: Kinh dị Dân gian Phương Đông / Tiên hiệp Cổ trang / Tâm lý Hồi hộp / Giật gân Siêu nhiên
+Cấu trúc: Ba cảnh quay điện ảnh liên tục, rõ ràng với các chức năng kể chuyện riêng biệt.
+
+I. Phong cách Tổng thể và Định hướng Sáng tạo
+Tiên hiệp phong cách Trung Hoa siêu thực cấp độ điện ảnh.
+Dự án này kết hợp:
+Kinh dị Dân gian Phương Đông
+Tâm lý Hồi hộp
+Tiên hiệp Cổ trang
+thành một biểu đạt thể loại thống nhất.
+
+Ý tưởng Cốt lõi của Đạo diễn
+Vay mượn kỹ thuật xử lý kịch tính từ các phim giật gân trưởng thành:
+Trước tiên khiến khán giả tin vào một mục tiêu nguy hiểm sai lệch, sau đó hoàn tất cú lật ngược thông tin thông qua âm thanh, ánh mắt và một thay đổi vật lý nhỏ.
+Nguyên tắc Biểu đạt Kinh dị
+Không dựa vào việc nhân vật giải thích dài dòng sự thật.
+Không dựa vào những màn biến hình quái vật cường điệu để tạo nỗi sợ.
+Điều thực sự gây ám ảnh là:
+Phản xạ bản năng của một người khi nghe thấy giọng nói thân thuộc nhất.
+
+II. Cốt truyện Cốt lõi và Cú Lật ngược Kịch tính
+Cốt truyện Bề mặt
+Một Sứ giả Âm giới đột ngột xuất hiện.
+Tuyên bố đêm nay đến để bắt đi Bạch Y Kiếm Tiên.
+Sư muội bản năng bước lên che chắn cho Sư tỷ.
+Lật ngược Sự thật
+Người mà Sứ giả Âm giới thực sự muốn bắt ngay từ đầu chính là Sư muội.
+Bẫy Siêu nhiên
+Chiếc Đèn Dụ Hồn trong tay Sứ giả Âm giới có thể mô phỏng giọng nói của người thân quen.
+Chỉ khi mục tiêu phản ứng theo bản năng, bấc đèn mới phóng ra một sợi Chỉ Trói Hồn màu đỏ để giam giữ linh hồn họ.
+Quan hệ Nhân quả Chủ chốt
+Giọng Sư tỷ vang lên từ chiếc đèn → Sư muội bản năng đáp lời → Đèn Dụ Hồn phóng chỉ đỏ → Sư muội trở thành mục tiêu thu hồn.
+Sư tỷ phải chém đứt sợi Chỉ Trói Hồn ngay tại khoảnh khắc đó.
+Tiết lộ Thông tin Cuối cùng
+Được hé lộ qua một câu thoại:
+"Nó đợi ta gọi muội."
+Kết thúc Hồi hộp
+Sứ giả Âm giới không rời đi.
+Bộ phim ngắn phải kết thúc ở điểm:
+Đòn tấn công đầu tiên thất bại, nhưng mối nguy thực sự chưa hề chấm dứt.
+
+III. Nhận diện Nhân vật và Khóa Tài sản Cốt lõi
+Nhân vật A | @Image1 | Sư tỷ Kiếm Tiên
+Nhận diện
+Cùng một nữ giới trưởng thành gốc Đông Á, 25–30 tuổi.
+Kế thừa nghiêm ngặt nhận diện nhân vật từ ảnh tham chiếu.
+Ngoại hình Cố định
+Khuôn mặt trái xoan trắng trẻo, tự nhiên, mềm mại
+Đôi mắt hạnh đen láy, sáng ngời
+Tóc đen dài buộc nửa đầu
+Cài bằng trâm ngọc trắng
+Dáng người cao ráo, thanh mảnh
+Trang phục Cố định
+Hán phục lụa trắng thêu hoa văn
+Tay áo rộng xếp lớp bán trong suốt
+Thắt lưng bạc
+Ngọc bội
+Ủng vải trắng
+Vũ khí Độc quyền
+Một thanh trường kiếm bạc duy nhất.
+Năng lực và Diễn xuất
+Sức mạnh của Sư tỷ được thể hiện qua:
+Khả năng quan sát
+Phản xạ
+Phán đoán chuẩn xác
+Phim này không bao gồm các pha giao chiến phức tạp liên tục.
+Kiếm pháp của nàng chỉ được phô diễn qua một động tác chém đứt Chỉ Trói Hồn chính xác duy nhất.
+
+Nhân vật B | @Image2 | Sư muội
+Nhận diện
+Cùng một nữ giới trưởng thành gốc Đông Á, 20–25 tuổi.
+Giữ nguyên nghiêm ngặt từ ảnh tham chiếu:
+Cùng khuôn mặt
+Cấu trúc gương mặt
+Kiểu tóc
+Hình thể
+Trang phục
+Ngoại hình Cố định
+Khuôn mặt tròn trịa, rạng rỡ, tươi tắn
+Tóc đen tết bím
+Dáng người nhỏ nhắn
+Trang phục Cố định
+Hán phục vải lanh xanh lục
+Thắt lưng tối màu
+Trâm gỗ
+Giày vải đen
+Vũ khí Độc quyền
+Một thanh kiếm thép tối màu duy nhất.
+Hạn chế Vũ khí trong Phân đoạn Này
+Sư muội không rút kiếm.
+Ba Khoảnh khắc Diễn xuất Cốt lõi
+Nghe thấy nguy hiểm, chủ động bước lên đứng trước mặt Sư tỷ.
+Nghe thấy giọng nói thân quen, bản năng quay đầu lại.
+Nhận ra mình mới là mục tiêu thật, chuyển từ bàng hoàng sang tỉnh táo.
+
+IV. Nhân vật Phụ Mới và Tài sản Đèn Dụ Hồn
+Sứ giả Âm giới
+Nhận diện
+Nam giới trưởng thành.
+Ngoại hình Cố định
+Cổ bào xám đen sẫm màu
+Mặt nạ nửa mặt bằng đồng cổ
+Bề mặt mặt nạ có vết mòn mờ nhạt
+Khí chất Nhân vật
+Lạnh lùng
+Cử động tiết chế
+Biểu cảm và dáng đứng vững chãi
+Không sử dụng những khuôn mặt ma quỷ cường điệu thường thấy trong phim kinh dị hiện đại.
+Đạo cụ Cốt lõi | Đèn Dụ Hồn bằng Đồng cổ
+Sứ giả Âm giới cầm một chiếc Đèn Dụ Hồn nhỏ bằng đồng cổ ở tay trái.
+Ngoại hình Cố định
+Thân đèn bằng đồng
+Kích thước cố định
+Màu sắc cố định
+Vòng quai xách cố định
+Bấc đèn cố định
+Hiệu ứng ánh sáng cố định
+Thiết lập Ngọn lửa
+Bên trong đèn là một ngọn lửa trắng nhợt duy nhất.
+Nếu cần thiết, ngọn lửa có thể chuyển sang màu đỏ sẫm.
+Tính Liên tục của Tài sản
+Phải là cùng một chiếc đèn xuyên suốt.
+Hình dáng, kích thước, màu sắc, vòng quai, bấc đèn và hiệu ứng ánh sáng phải nhất quán từ đầu đến cuối.
+Năng lực Đặc biệt của Đèn Dụ Hồn
+Mô phỏng Giọng nói
+Sứ giả Âm giới có thể khiến chiếc đèn phát ra giọng nói giống hệt Sư tỷ.
+Quy tắc Kích hoạt
+Bấc đèn chỉ phóng ra sợi Chỉ Trói Hồn màu đỏ khi Sư muội đáp lại giọng nói đó.
+Quy tắc Khẩu hình
+Bản thân Sứ giả Âm giới không cần mở miệng để mô phỏng giọng Sư tỷ.
+Các Nhân vật Phụ Khác
+Sư phụ Trưởng lão
+Đứng ở phía xa, đóng vai trò nhân chứng tự nhiên.
+Hai Đệ tử Tông môn
+Đứng ở phía xa, đóng vai trò nhân chứng tự nhiên.
+Các nhân vật phụ không chiếm đoạt không gian kịch tính của hai nhân vật chính và Sứ giả Âm giới.
+
+V. DNA Bối cảnh và Môi trường
+Tất cả ảnh tham chiếu bối cảnh và địa điểm đã tải lên cùng nhau định hình một thế giới Tiên hiệp chân thực đang tồn tại.
+Quy hoạch Môi trường
+Trích xuất và bảo tồn từ ảnh tham chiếu:
+Địa hình thực tế
+Bố cục kiến trúc
+Mối quan hệ giữa các mốc địa danh chính
+Độ cũ của vật liệu
+Tỷ lệ không gian
+Thảm thực vật
+Mặt nước
+Thời tiết
+Sương mù/Mây
+Hướng ánh sáng chính
+Mối quan hệ phản chiếu
+Bảng màu
+Độ sâu không khí
+Vị trí Máy quay và Tổ chức Không gian
+Được phép thiết kế lại:
+Vị trí máy quay
+Độ sâu trường ảnh
+Hướng ống kính
+Vị trí nhân vật
+Nhưng toàn bộ 15 giây phải diễn ra trong cùng một không gian liên tục.
+Nguyên tắc Bối cảnh Sống
+Bối cảnh luôn sống động một cách tự nhiên.
+Động lực Tự nhiên
+Gió tự nhiên làm lay động từng lọn tóc
+Gió tự nhiên làm bay tà áo
+Nước chảy liên tục
+Sương núi thay đổi chậm rãi
+Các tầng mây trôi chậm
+Cây cối và thảm thực vật chuyển động hợp lý
+Những bóng người phía xa di chuyển tự nhiên
+Tính Trung lập Kể chuyện của Môi trường
+Bối cảnh không được chủ động kích hoạt câu chuyện.
+Vật phẩm Siêu nhiên Duy nhất
+Vật phẩm duy nhất chủ động thúc đẩy cốt truyện siêu nhiên trong trường hợp này là chiếc Đèn Dụ Hồn do Sứ giả Âm giới cầm.
+
+VI. Cấu trúc Ba Cảnh Quay Hoàn chỉnh trong 15 Giây
+0–5s | Cảnh 1: Đêm Nay Ai Bị Bắt Đi?
+Chức năng Kể chuyện
+Thiết lập mục tiêu nguy hiểm sai lệch, khiến khán giả tin rằng Sư tỷ sắp bị bắt đi.
+Cỡ cảnh
+Toàn cảnh.
+Chuyển động Máy quay
+Góc hơi thấp, từ từ tiến dọc theo đường đối đầu giữa các nhân vật.
+Không gian Mở đầu và Vị trí Nhân vật
+Khi bắt đầu, Sư tỷ và Sư muội đứng cạnh nhau tại một khu vực lối đi hợp lý về mặt địa lý trong bối cảnh tham chiếu.
+Ở phía xa:
+Sư phụ Trưởng lão
+Hai Đệ tử Tông môn
+Lối vào của Sứ giả Âm giới
+Một Sứ giả Âm giới đeo mặt nạ nửa mặt bằng đồng chậm rãi bước về phía họ từ đằng trước.
+Tay trái hắn cầm một chiếc đèn đồng cũ.
+Theo mỗi bước chân, chiếc đèn đung đưa tự nhiên theo quán tính cơ thể.
+Nhưng ngọn lửa nhợt bên trong bấc đèn vẫn ổn định một cách bất thường.
+Nút thắt 1: Tuyên bố Mục tiêu
+Sứ giả Âm giới dừng lại cách hai cô gái vài bước.
+Ánh mắt hắn dường như đổ dồn vào vị Sư tỷ Kiếm Tiên.
+Hắn trầm giọng nói:
+[Sứ giả Âm giới] "Đêm nay, ta đến vì Bạch Y Kiếm Tiên."
+Nút thắt 2: Sư muội Chủ động Che chắn
+Sư muội gần như không chút do dự.
+Nàng bước lên nửa bước, chắn trước mặt Sư tỷ.
+Hơi nhíu mày, nàng nhìn thẳng vào Sứ giả:
+[Sư muội] "Ngươi to gan thật?"
+Nút thắt 3: Manh mối Thị giác về Mục tiêu Thật
+Sứ giả không nổi giận.
+Cũng không lập tức tung đòn tấn công.
+Hắn chỉ chậm rãi dời ánh mắt khỏi vị Bạch Y Kiếm Tiên.
+Cuối cùng dừng lại trên gương mặt Sư muội.
+Yêu cầu Máy quay
+Ánh nhìn này không nên được nhấn mạnh bằng những cú zoom máy quay cường điệu.
+Hãy biến nó thành một chi tiết:
+Tự nhiên, nhưng khán giả có thể hiểu ra khi hồi tưởng lại.
+Kết thúc Cảnh
+Máy quay lia dọc theo cánh tay Sứ giả hướng về chiếc Đèn Dụ Hồn.
+
+5–10s | Cảnh 2: Giọng Nói Đó Có Vấn Đề
+Chức năng Kể chuyện
+Kích hoạt cái bẫy và hoàn tất cú lật ngược thông tin đầu tiên thông qua sự lệch pha giữa giọng nói thân quen và nguồn phát thực sự.
+Cỡ cảnh
+Trung cận cảnh.
+Chuyển động Máy quay
+Di chuyển ngang nhẹ.
+Giữ các yếu tố sau trong mối quan hệ không gian rõ ràng:
+Đèn Dụ Hồn
+Sư muội
+Sư tỷ thật đang đứng phía sau nàng
+Yêu cầu Tính Liên tục
+Phải duy trì:
+Cùng một Sứ giả Âm giới
+Cùng một chiếc Đèn Dụ Hồn bằng đồng
+Cùng một địa điểm
+Nút thắt 1: Giọng Sư tỷ Vang Lên Từ Chiếc Đèn
+Sứ giả chậm rãi nâng chiếc Đèn Dụ Hồn lên một chút.
+Hắn không mở miệng.
+Nhưng đột nhiên một giọng nói vô cùng thân thuộc vang lên từ bấc đèn.
+Đó là giọng của Sư tỷ.
+Ngữ điệu dịu dàng, như đang gọi tên nàng ấy một cách bình thường:
+[Đèn Dụ Hồn · Giọng Sư tỷ] "A Ninh, quay lại đây."
+Nguồn phát và Khẩu hình
+Sư tỷ thật đang đứng ngay phía sau Sư muội.
+Môi nàng không hề mấp máy.
+Âm thanh phát ra từ chiếc đèn đồng trong tay Sứ giả Âm giới.
+Nút thắt 2: Sư muội Bản năng Đáp lời
+Vì giọng nói quá đỗi thân quen, cơ thể Sư muội phản ứng trước cả suy nghĩ.
+Nàng bản năng nghiêng đầu quay lại.
+Nhẹ nhàng đáp:
+[Sư muội] "Sư tỷ?"
+Nút thắt 3: Bẫy Thu Hồn Được Kích hoạt
+Ngay khoảnh khắc chữ cuối cùng vừa dứt:
+Ngọn lửa vốn nhợt nhạt trong Đèn Dụ Hồn đột ngột chuyển sang màu đỏ sẫm.
+Một sợi Chỉ Trói Hồn đỏ sẫm cực mảnh phóng ra từ bấc đèn.
+Theo một quỹ đạo không gian rõ ràng, nó nhanh chóng quấn chặt lấy cổ tay phải của Sư muội.
+Trạng thái Vật lý của Chỉ Trói Hồn
+Sợi chỉ đỏ siết lại nhẹ
+Tay phải Sư muội bị kéo giật
+Cơ thể bản năng chúi về phía trước
+Hạn chế Biểu đạt Cơ thể
+Không có:
+Trạng thái mất trọng lực cường điệu
+Sự bay bổng phi lý
+Nút thắt 4: Sư tỷ Phát hiện Bất thường
+Vị Bạch Y Kiếm Tiên lập tức nhận ra điều bất thường.
+Ánh mắt nàng chuyển ngay từ cổ tay Sư muội sang bấc đèn.
+Đôi mắt bỗng chốc sắc lạnh.
+Kết thúc Cảnh
+Cắt cảnh ngay khoảnh khắc tay phải Sư tỷ nắm chặt chuôi kiếm.
+
+10–15s | Cảnh 3: Hóa Ra Là Đang Chờ Ta
+Chức năng Kể chuyện
+Sư tỷ chém đứt sợi dây trói hồn, Sư muội nhận ra mình mới là mục tiêu thật, và mối nguy chưa được hóa giải vẫn còn đó.
+Cỡ cảnh
+Cận cảnh.
+Chuyển sang cận cảnh nhân vật sau hành động cốt lõi.
+Nút thắt 1: Chém Đứt Chỉ Trói Hồn Chính xác
+Sư tỷ lập tức rút thanh trường kiếm bạc của mình.
+Không dùng kiếm khí cường điệu.
+Chỉ dùng một nhát chém chéo nhanh gọn, chuẩn xác.
+Hành động Chủ chốt
+Lưỡi kiếm bạc cắt đứt mối liên kết:
+Sợi Chỉ Trói Hồn đỏ sẫm nối giữa
+Bấc Đèn Dụ Hồn ↔ Cổ tay phải của Sư muội.
+Yêu cầu Hành động Thực
+Lưỡi kiếm chém chính xác sợi chỉ đỏ
+Không chạm vào da thịt Sư muội
+Chỉ vung kiếm đúng một lần
+Quỹ đạo kiếm rõ ràng
+Hành động có tính liên tục vật lý chân thực
+Chỉ Trói Hồn Đứt
+Sau khi đứt, sợi chỉ đỏ lập tức mất lực căng.
+Tan biến thành những hạt sáng đỏ sẫm li ti.
+Tay phải Sư muội lấy lại tự do.
+Nút thắt 2: Sư tỷ Kéo Sư muội Lại
+Sư tỷ đưa tay trái đang rảnh ra.
+Nhẹ nhàng kéo Sư muội về phía mình.
+Nàng thì thầm:
+[Sư tỷ] "Đừng trả lời."
+Nút thắt 3: Sư muội Nhận ra Hiểm nguy
+Sư muội ngẩng đầu nhìn Sứ giả.
+Biểu cảm của nàng dần thay đổi:
+Từ lo sợ Sư tỷ bị bắt đi → Bàng hoàng khi nhận ra mình mới là mục tiêu thật.
+Nàng khẽ hỏi:
+[Sư muội] "Nó đang tìm muội sao?"
+Nút thắt 4: Tiết lộ Thông tin Cuối cùng
+Sư tỷ không nhìn nàng.
+Ánh mắt nàng vẫn ghim chặt vào chiếc đèn trong tay Sứ giả Âm giới.
+Nàng đáp rất khẽ:
+[Sư tỷ] "Nó đợi ta gọi muội."
+Nút thắt 5: Hiểm nguy Chưa Kết thúc
+Khoảng lặng ngắn.
+Sứ giả Âm giới chậm rãi nghiêng đầu.
+Ánh mắt sau lớp mặt nạ nửa mặt lại đổ dồn vào Sư muội.
+Ngọn lửa nhợt trong chiếc đèn đồng trên tay hắn lại bừng sáng.
+Trạng thái của Chỉ Trói Hồn
+Sợi Chỉ Trói Hồn đã đứt không tự nối lại.
+Vị trí Hai Nhân vật Chính
+Lúc này, Sư tỷ và Sư muội đứng cạnh nhau.
+Cả hai cùng lúc đối mặt với Sứ giả.
+Hạn chế Cảm xúc và Hành động
+Không có:
+Khóc lóc ôm nhau
+Sự bùng nổ đột ngột của một trận chiến phức tạp
+Bố cục Cảnh Cuối
+Cảnh quay khép lại ở:
+Chiếc mặt nạ nửa mặt bằng đồng lạnh lẽo của Sứ giả Âm giới và chiếc Đèn Dụ Hồn vừa bừng sáng trở lại.
+Trong vùng xóa phông phía sau:
+Sư tỷ áo trắng
+Sư muội áo xanh
+Đang đứng cạnh nhau.
+Sứ giả Âm giới không lùi bước.
+Điểm rơi Hồi hộp Cuối cùng
+Khán giả cuối cùng cũng hiểu ra:
+Ngay từ đầu, hắn chưa từng có ý định bắt vị Bạch Y Kiếm Tiên.
+Hắn chỉ mượn danh tính và giọng nói của nàng để khiến Sư muội tự mình đáp lại tiếng gọi đó.
+Lần thu hồn đầu tiên đã thất bại.
+Mối nguy thực sự vẫn còn đó.
+Màn hình kết thúc tại đây.
+
+VII. Yêu cầu Thực thi Thống nhất cho Seedance 2.0 Mini
+Thông số Cơ bản
+Tổng Thời lượng: Chính xác 15 giây
+Tỷ lệ khung hình: 16:9 Ngang
+Mô hình: Seedance 2.0 Mini
+Số lượng Cảnh quay: Ba
+Cấu trúc Thời gian
+Thời gian | Cỡ cảnh | Sự kiện Cốt lõi
+0–5s | Toàn cảnh | Sứ giả Âm giới xuất hiện, tuyên bố bắt Sư tỷ Kiếm Tiên, Sư muội lao ra che chắn.
+5–10s | Trung cận cảnh | Đèn Dụ Hồn mô phỏng giọng Sư tỷ, Sư muội bản năng đáp lời, chỉ đỏ trói hồn.
+10–15s | Cận cảnh & Cận cảnh Nhân vật | Sư tỷ chém đứt chỉ đỏ, hé lộ mục tiêu thật, kẻ địch chưa lui.
+
+VIII. Bảy Câu Thoại Hoàn chỉnh và Khẩu hình
+Toàn bộ phim chỉ giữ lại bảy câu thoại sau.
+0–5s
+[Sứ giả Âm giới] "Đêm nay, ta đến vì Bạch Y Kiếm Tiên."
+[Sư muội] "Ngươi to gan thật?"
+5–10s
+[Đèn Dụ Hồn · Giọng Sư tỷ] "A Ninh, quay lại đây."
+[Sư muội] "Sư tỷ?"
+10–15s
+[Sư tỷ] "Đừng trả lời."
+[Sư muội] "Nó đang tìm muội sao?"
+[Sư tỷ] "Nó đợi ta gọi muội."
+Yêu cầu Tiếng Phổ thông và Khẩu hình
+Tất cả nhân vật nói tiếng Phổ thông (Mandarin)
+Khớp khẩu hình chính xác
+Không chồng chéo âm thanh
+Không thêm thoại tạm thời
+Không có lời dẫn giải ngoài hình
+Quy tắc Đặc biệt cho Câu Thoại Thứ Ba
+"A Ninh, quay lại đây."
+Do Đèn Dụ Hồn phát ra.
+Sử dụng giọng nói giống hệt hoàn toàn với Sư tỷ thật.
+Nhưng:
+Sứ giả Âm giới không mở miệng
+Sư tỷ thật không mở miệng
+Nguồn âm thanh rõ ràng phát ra từ chiếc đèn đồng
+Hiệu ứng âm thanh không gian phải phân biệt được
+
+IX. Quy luật Nhân quả của Đèn Dụ Hồn và Chỉ Trói Hồn
+Quy luật 1 | Không Phóng Chỉ Đỏ Sớm
+Sợi Chỉ Trói Hồn màu đỏ sẽ không xuất hiện sớm.
+Chỉ sau khi Sư muội đáp lại giọng nói thân quen, Đèn Dụ Hồn mới phóng ra Chỉ Trói Hồn.
+Chuỗi Kích hoạt
+Đèn phát âm thanh → Sư muội đáp lời → Ngọn lửa chuyển đỏ sẫm → Chỉ Trói Hồn phóng ra.
+Quy luật 2 | Chỉ Một Sợi Chỉ Trói Hồn
+Chỉ có duy nhất một sợi Chỉ Trói Hồn.
+Luôn kết nối:
+Bấc Đèn Dụ Hồn và cổ tay phải của Sư muội.
+Quy luật 3 | Chỉ Một Nhát Chém
+Sư tỷ chỉ vung kiếm đúng một lần.
+Chém chính xác sợi Chỉ Trói Hồn.
+Quy luật 4 | Trạng thái Sau khi Đứt
+Sau khi Chỉ Trói Hồn đứt:
+Lập tức mất lực căng
+Tan biến thành những hạt sáng đỏ sẫm li ti
+Sư muội lấy lại khả năng cử động tự do
+Quy luật 5 | Đèn Dụ Hồn Vẫn Tồn Tại
+Đèn Dụ Hồn vẫn còn đó.
+Sứ giả Âm giới cũng chưa lui bước.
+Nhưng:
+Sợi Chỉ Trói Hồn ban đầu không thể tự động nối lại.
+
+X. Tính Liên tục của Nhân vật và Không gian
+Nhận diện Hai Nhân vật Chính
+Khóa chặt:
+@Image1
+@Image2
+Phải duy trì nhất quán:
+Khuôn mặt
+Kiểu tóc
+Trang phục
+Thanh kiếm
+Tỷ lệ cơ thể
+Sứ giả Âm giới
+Sử dụng xuyên suốt:
+Cùng một chiếc mặt nạ nửa mặt bằng đồng
+Cùng một bộ cổ bào xám đen
+Cùng một chiếc Đèn Dụ Hồn
+Tính Liên tục Không gian
+Những yếu tố sau phải liên tục:
+Vị trí nhân vật
+Khoảng cách giữa các nhân vật
+Trục máy quay
+Hướng ánh sáng chính
+Tất cả cảnh quay diễn ra tại cùng một địa điểm.
+Bối cảnh mở rộng tự nhiên dựa trên ảnh tham chiếu.
+Không thay đổi nhận diện bối cảnh.
+
+XI. Nghệ thuật Quay phim và Diễn xuất Nhân vật
+Cảnh Quay Đầu Tiên
+Chức năng Hình ảnh
+Làm nổi bật:
+Vị khách kỳ lạ
+Mối quan hệ khoảng cách giữa các nhân vật
+Sư muội chủ động lao ra che chắn cho Sư tỷ
+Đánh lạc hướng Thị giác
+Khiến khán giả nghĩ Sư tỷ là mục tiêu.
+Nhưng ánh nhìn cuối cùng của Sứ giả dành cho Sư muội phải đóng vai trò là một chi tiết cài cắm mà khán giả có thể hiểu ra khi hồi tưởng.
+Cảnh Quay Thứ Hai
+Chức năng Hình ảnh
+Tận dụng vị trí của Sư tỷ thật phía sau Sư muội để tạo ra:
+Sự lệch pha giữa âm thanh và nguồn phát thực sự.
+Trọng tâm Diễn xuất
+Phản ứng của Sư muội khi nghe thấy giọng nói thân quen phải:
+Tự nhiên
+Mang tính bản năng
+Nhanh hơn phán đoán lý trí
+Cảnh Quay Thứ Ba
+Chức năng Hình ảnh
+Hoàn tất cú lật ngược nhân quả bằng một hành động vung kiếm rõ ràng.
+Trọng tâm Diễn xuất
+Sau khi nhận ra nguy hiểm, ánh mắt Sư tỷ lập tức sắc lại.
+Phản ứng của nàng thể hiện:
+Phán đoán chuẩn xác
+Hành động quyết đoán
+Sức mạnh tiết chế
+Nguyên tắc Diễn xuất Toàn cục
+Diễn xuất của nhân vật luôn tiết chế và chân thực.
+Không dàn dựng những trận đánh dài dòng.
+Không thêm:
+Phép thuật quy mô lớn
+Sấm sét
+Biến hình quái vật
+Thế giới sụp đổ
+
+XII. Thiết kế Âm thanh
+Âm thanh Môi trường
+Duy trì âm thanh không gian cổ trang chân thực.
+Bao gồm:
+Gió tự nhiên
+Nước chảy
+Hoạt động môi trường phía xa
+Sự chuyển động của tóc và tà áo
+Sứ giả Âm giới
+Tập trung vào:
+Tiếng bước chân của Sứ giả
+Tiếng cọ xát nhẹ của vòng quai xách đèn
+Đèn Dụ Hồn
+Tập trung vào:
+Giọng người thân quen vang lên rõ mồn một một cách bất thường từ trong đèn, giống hệt hoàn toàn âm sắc của Sư tỷ.
+Âm thanh phát ra từ vị trí không gian của chiếc đèn đồng.
+Chỉ Trói Hồn
+Xuất hiện những âm thanh kỳ lạ nhỏ khi sợi chỉ đỏ siết chặt.
+Không được dùng hiệu ứng âm thanh bùng nổ siêu nhiên quy mô lớn.
+Kiếm Bạc Chém Chỉ
+Khi Sư tỷ chém đứt sợi chỉ đỏ, đột ngột xuất hiện:
+Tiếng kiếm xé gió ngắn gọn, sắc lẹm.
+Thoại Cuối cùng
+Âm nhạc hạ xuống nhanh chóng sau khi sợi chỉ đỏ bị chém đứt.
+Để hai câu thoại cuối lọt vào tai khán giả một cách tự nhiên:
+[Sư muội] "Nó đang tìm muội sao?"
+[Sư tỷ] "Nó đợi ta gọi muội."
+
+XIII. Hạn chế về Hình ảnh và Tạo sinh
+Yêu cầu Hình ảnh
+Siêu thực cấp độ điện ảnh
+Giải phẫu cơ thể người chân thực
+Đường nét khuôn mặt rõ ràng
+Chuyển động vải lụa chân thực
+Động lực môi trường tự nhiên
+Không gian địa lý ổn định
+Hành động vung kiếm chính xác
+Hiệu ứng siêu nhiên tiết chế
+Nghiêm cấm
+Đánh nhau dài dòng
+Phép thuật quy mô lớn
+Sấm sét
+Biến hình quái vật cường điệu
+Thế giới sụp đổ
+Ghép mặt (Face swapping)
+Thay đổi trang phục
+Nhầm lẫn chủ sở hữu vũ khí
+Thay đổi vị trí nhân vật đột ngột
+Thay đổi ngoại hình Đèn Dụ Hồn
+Chỉ Trói Hồn xuất hiện sớm
+Nhiều sợi Chỉ Trói Hồn
+Chỉ đỏ đứt tự nối lại
+Bối cảnh chủ động kích hoạt câu chuyện
+Tiêu đề
+Phụ đề
+Văn bản giải thích
+Câu thoại thêm
+
+XIV. Tiêu chí Nghiệm thu Cuối cùng
+Phải thể hiện rõ ràng trong trọn vẹn 15 giây:
+Sứ giả Âm giới xuất hiện, tuyên bố bắt Bạch Y Kiếm Tiên.
+Sư muội chủ động bước lên đứng trước mặt Sư tỷ.
+Sứ giả bí mật chuyển sự chú ý thực sự sang Sư muội.
+Đèn Dụ Hồn phát ra giọng nói giống hệt hoàn toàn giọng Sư tỷ, trong khi Sư tỷ thật không hề lên tiếng.
+Sư muội bản năng đáp lời, khiến Đèn Dụ Hồn phóng ra sợi Chỉ Trói Hồn duy nhất.
+Sợi chỉ đỏ quấn chính xác quanh cổ tay phải của Sư muội.
+Sư tỷ rút kiếm bạc và chém đứt sợi chỉ đỏ chỉ bằng một nhát.
+Sư muội nhận ra mình mới là mục tiêu thật.
+Sư tỷ nói: "Nó đợi ta gọi muội."
+Đèn Dụ Hồn bừng sáng trở lại, Sứ giả Âm giới không lùi bước, mối nguy vẫn còn đó.
+Hiệu quả Cuối cùng
+Để khán giả tự nhận ra:
+Giọng nói thân thuộc nhất, dễ khiến ta buông lỏng cảnh giác nhất, có thể lại chính là phần nguy hiểm nhất của toàn bộ cạm bẫy.
+
+XV. Negative Prompt
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117458722943553536/img/0nIGtxVQ33xlIS7U.jpg" width="600" alt="Prompt kinh dị tiên hiệp điện ảnh cho Seedance 2.0 Mini">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13438)**
+
+**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2117463209225703771) | **Đã xuất bản:** Nov 3, 2026
+
+---
+### Bước Đi Trong Sắc Màu: Đánh Thức Phố Cổ Đơn Sắc
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt chi tiết để tạo video điện ảnh, trong đó một người phụ nữ đi qua con phố đen trắng mang màu sắc trở lại thế giới bằng từng bước chân của mình, được tối ưu hóa cụ thể cho Seedance 2.0 (nửa sau) và WAN 3.0 (nửa đầu).
+
+#### 📝 Prompt
+
+```
+[Thông số đầu ra] Tạo một bảng nhân vật (character sheet) đơn giản. Tỷ lệ khung hình cố định ở mức 16:9. Chỉ tạo duy nhất một hình ảnh hoàn chỉnh. Không chèn văn bản, tiêu đề, nhãn, số, logo, mô tả, đường viền hay họa tiết trang trí. Không tạo các thiết kế dạng poster, thiết kế kiểu tạp chí, quy trình sản xuất, hình ảnh so sánh hoặc bố cục chia đôi để so sánh.
+[Đầu vào] Đính kèm chính xác một hình ảnh tham chiếu (anchor image) hoàn chỉnh cùng lúc với tài liệu hướng dẫn này. Sử dụng hình ảnh đính kèm làm tham chiếu duy nhất cho người, khuôn mặt, mái tóc, vóc dáng và trang phục.
+[Mục đích] Tạo một bảng nhân vật 16:9 đơn giản, dễ quan sát, phù hợp cho quá trình sản xuất video, đồng thời giữ nguyên chính xác đặc điểm người và trang phục từ hình ảnh tham chiếu. Đây là tài liệu dùng để đối chiếu cấu trúc không gian ba chiều của nhân vật và trang phục, cũng như các đường nét trên khuôn mặt và kiểu tóc.
+[Bố cục] Sắp xếp tổng cộng 6 góc nhìn trong một khung hình 16:9. Từ bên trái đến giữa khung hình, đặt các bản vẽ toàn thân theo ba hướng nằm ngang theo thứ tự 'Toàn thân mặt trước / Toàn thân mặt bên / Toàn thân mặt sau'. Ở phần bên phải khung hình, đặt các ảnh cận mặt theo chiều dọc theo thứ tự từ trên xuống dưới là 'Hơi quay sang trái / Nhìn thẳng / Hơi quay sang phải'.
+[Nhận diện nhân vật] Giữ nguyên các đường nét khuôn mặt, mắt, sống mũi, miệng, đường viền mặt, cảm nhận về độ tuổi, làn da, kiểu tóc, màu tóc, độ dài tóc, tóc mái, vóc dáng, cảm nhận về chiều cao, tỷ lệ đầu - thân, độ rộng vai, độ rộng thân mình, vòng eo, chiều dài chân và độ dày chân của người trong hình ảnh tham chiếu. Đảm bảo tất cả các bản vẽ toàn thân ba hướng và ba ảnh cận mặt trông thật tự nhiên như cùng một người.
+[Bản vẽ toàn thân ba hướng] Thống nhất các bản vẽ toàn thân ba hướng là cùng một người được nhìn từ 3 góc độ, đảm bảo hình ảnh hiển thị trọn vẹn từ đỉnh đầu đến bàn chân mà không bị cắt cúp. Lấy trang phục trong hình ảnh tham chiếu làm chuẩn chính, duy trì sự nhất quán tối đa về cổ áo, tay áo, vùng ngực, phần thân, chi tiết trang trí ở eo, độ dài váy/quần, vị trí đường xẻ, các lớp vải, màu sắc, hoa văn, chất liệu và kiểu dáng giày. Góc nhìn chính diện cần được tái hiện trung thực nhất dựa trên nhân vật và trang phục trong hình ảnh tham chiếu. Góc nhìn nghiêng phải là góc nghiêng thật tự nhiên, thể hiện rõ cấu trúc không gian ba chiều của nhân vật và trang phục. Góc nhìn từ phía sau cần tái hiện tự nhiên phần tóc phía sau, vai, lưng, mặt sau của trang phục, chân và gót giày. Đối với góc nhìn nghiêng và phía sau, những phần không thấy được trong hình ảnh tham chiếu có thể được ước lượng và bổ sung, nhưng tuyệt đối không được mâu thuẫn với góc nhìn chính diện.
+[Ảnh cận mặt] Sử dụng hình ảnh tham chiếu làm chuẩn chính cho các ảnh cận mặt, giữ nguyên tối đa các đường nét khuôn mặt, mắt, sống mũi, miệng, kiểu tóc, màu tóc và thần thái của nhân vật gốc. Đảm bảo ba ảnh cận mặt trông thật tự nhiên như cùng một người. Hướng rủ của tóc và các chi tiết quanh khuôn mặt không được mâu thuẫn với hình ảnh tham chiếu. Có thể để lộ một phần cổ áo và vùng vai của trang phục, nhưng phải ưu tiên việc nhận diện khuôn mặt. Các góc 'Hơi quay sang trái' và 'Hơi quay sang phải' không được là góc nghiêng hoàn toàn, mà chỉ là góc xoay nhẹ vừa đủ để nhận rõ các đường nét trên khuôn mặt.
+[Tư thế] Cả ba góc nhìn toàn thân đều phải ở tư thế đứng trung tính. Góc chính diện nhìn thẳng về phía trước, cánh tay hơi tách khỏi cơ thể và buông thõng tự nhiên, hai chân đứng mở rộng nhẹ. Góc nhìn nghiêng thể hiện tư thế từ ngay bên hông, đảm bảo cánh tay không che khuất hoàn toàn đường viền thân mình. Góc nhìn từ phía sau quay hẳn lưng lại, không ngoảnh mặt về phía camera. Không tạo các tư thế mang tính biểu diễn; ưu tiên việc thể hiện rõ cấu trúc cơ thể và trang phục.
+[Phông nền] Phông nền là màu trắng sáng trơn hoặc xám rất nhạt. Không thêm họa tiết trang trí hay hoa văn. Hạn chế tối đa việc thể hiện mặt sàn để ưu tiên việc nhận diện nhân vật.
+[Sắp xếp] Dành khoảng 3/4 chiều rộng khung hình cho các bản vẽ toàn thân ba hướng và 1/4 còn lại cho 3 ảnh cận mặt xếp dọc. Đảm bảo ba hình vẽ toàn thân đủ lớn để làm trọng tâm bằng cách tận dụng vùng không gian ngang rộng từ bên trái đến giữa khung hình, đồng thời sắp xếp ba ảnh cận mặt cách đều nhau theo chiều dọc ở bên phải. Đảm bảo các góc nhìn toàn thân và cận mặt không lấn át nhau, tạo nên một bố cục thuận tiện cho việc đối chiếu cả trang phục lẫn khuôn mặt. Chừa lề hợp lý để mọi góc nhìn đều hiển thị rõ ràng.
+[Sắc thái tổng thể] Đơn giản, sạch sẽ, mang tính ứng dụng cao. Dễ dàng sử dụng làm tài liệu sản xuất video, ưu tiên việc thể hiện cấu trúc nhân vật và trang phục. Không biến thành poster thiết kế.
+[Các điều cấm] Văn bản, tiêu đề, nhãn, số, logo, mô tả, khung trang trí, hiệu ứng phông nền, hiệu ứng kiểu poster, hiệu ứng đổ bóng quá mức, thay đổi nhận diện nhân vật, thay đổi trang phục, thay đổi bảng màu, lược bỏ quá nhiều chi tiết hoa văn, tư thế biểu diễn, bắt chéo chân, giơ tay, bố cục khiến bản vẽ toàn thân quá nhỏ, bố cục xếp ảnh cận mặt theo chiều ngang, cấu trúc ở góc nghiêng/sau mâu thuẫn với góc chính diện, thiếu bộ phận cơ thể, các nhân vật bị chồng lên nhau.
+
+[TUYÊN BỐ]
+PHIM THỜI TRANG ĐIỆN ẢNH CHÂN THỰC (PHOTOREAL CINEMATIC FASHION FILM). Tổng thời lượng 15 giây, tỷ lệ khung hình 1:1. Một bộ phim ngắn người thật đóng về cảnh một người phụ nữ bước đi qua một thành phố đen trắng không màu. Cô là thứ duy nhất có màu sắc trong thế giới này; mỗi bước chân cô bước qua, ba màu trên chiếc váy lại lan tỏa vào thành phố dưới dạng những dải màu dọc. Cuối cùng, khi cô xoay người, màu sắc trở lại khắp thành phố, khép lại bằng một dư âm tĩnh lặng. Nối liền 9 cảnh quay theo nhịp điệu.
+
+[THAM CHIẾU]
+<image1> là nhân vật nữ chính. Hình ảnh này là tài liệu tham chiếu bối cảnh, khắc họa cô ấy một mình ở các góc nhìn trước, bên, sau và khuôn mặt (3 hướng). Khuôn mặt, kiểu tóc, vóc dáng, trang phục và bốt đều đúng như trong hình ảnh này. Sau đây gọi là 'nhân vật chính'.
+
+[ĐIỀU KIỆN]
+Đây là một thành phố đá cổ kính với một quảng trường tròn nằm cuối con đường lát đá cuội. Những tòa nhà cao tầng san sát hai bên đường, tất cả đều phai màu như những bức ảnh đen trắng cũ kỹ. Bầu trời, tường gạch, đá cuội và hoa tại tiệm hoa đều thuộc về một thế giới chỉ có các sắc độ xám, với ánh sáng ban ngày trong trẻo hắt xuống những vệt bóng tĩnh lặng. Nhân vật chính một mình bước qua nơi đó với những bước chân điềm tĩnh. Chỉ có hình bóng cô là giữ được màu sắc tự nhiên, và những sọc màu Đỏ Hồng (Rose Red), Cam Hổ Phách (Amber Orange) cùng Xanh Da Trời (Sky Blue) trên váy cô hiện lên rực rỡ nhất trong thành phố này. Khi đôi bốt của nhân vật chính chạm xuống mặt đá cuội, những dải màu thẳng tắp mang ba sắc độ ấy với đường viền sắc nét sẽ xuất hiện từ dưới chân, chạy dọc mặt đất rồi vươn thẳng lên các bức tường. Chỉ trong phạm vi những dải màu đó, thành phố mới được nhuộm sắc như thể phủ một lớp mực màu, còn các mạch đá và chi tiết cửa sổ vẫn hiện lên trong suốt. Như thể biết trước màu sắc sẽ lan tỏa, nhân vật chính tiếp tục bước đi với vẻ mặt điềm tĩnh và đầy tự tin. Đoạn phim mang phong cách của một bộ phim thời trang người thật đóng được quay bằng phim nhựa 35mm, có độ nhiễu hạt mịn và góc máy di chuyển mượt mà.
+
+[TRÌNH TỰ CẢNH QUAY]
+[Cảnh 1 | 0.00~2.00s]
+[BẮT ĐẦU]
+Góc rộng nhìn thẳng vào giữa con phố đen trắng. Nhân vật chính bước về phía camera từ đằng xa. Toàn thân cô trông nhỏ bé, nhưng ba màu trên chiếc váy lại nổi bật rực rỡ.
+[SỰ KIỆN CHÍNH]
+Nhân vật chính tiếp tục bước về phía camera, và camera từ từ lùi lại phía sau.
+[KẾT THÚC]
+Toàn thân nhân vật chính đang bước về phía camera.
+
+[Cảnh 2 | 2.00~3.60s]
+[BẮT ĐẦU]
+Cận cảnh cực đại từ ngay bên hông, sát phía trên mặt sàn đá cuội. Đôi bốt trắng tiến vào từ mép trái khung hình.
+[SỰ KIỆN CHÍNH]
+Đôi bốt giẫm chắc nịch xuống mặt đá cuội, vang lên tiếng bước chân cứng cáp. Từ vị trí vừa giẫm xuống, ba dải màu xuất hiện và chạy thẳng vào chiều sâu khung hình xuyên qua mặt đá.
+[KẾT THÚC]
+Ba dải màu kéo dài từ dưới chân vươn ra phía xa.
+
+[Cảnh 3 | 3.60~5.60s]
+[BẮT ĐẦU]
+Góc rộng nhìn nhân vật chính từ ngay bên hông, lấy phông nền là bức tường tòa nhà đen trắng. Nhân vật chính đang bước từ trái sang phải trong khung hình.
+[SỰ KIỆN CHÍNH]
+Camera di chuyển ngang sang phải cùng tốc độ với nhân vật chính. Theo từng bước chân, ba dải màu lần lượt vươn lên từ dưới lên trên trên bức tường ngay phía sau cô.
+[KẾT THÚC]
+Nhân vật chính đang bước đi và các dải màu xếp dọc trên bức tường bên trái cô.
+
+[Cảnh 4 | 5.60~7.20s]
+[BẮT ĐẦU]
+Cận cảnh mặt tiền một tiệm hoa trên phố. Những bông hoa đen trắng cắm đầy trong xô.
+[SỰ KIỆN CHÍNH]
+Một dải màu Cam Hổ Phách lướt từ mặt đất qua những khóm hoa, nhuộm riêng các bông hoa nằm trong dải màu ấy bằng sắc tươi rực rỡ.
+[KẾT THÚC]
+Một dải hoa mang màu sắc nổi bật giữa những khóm hoa xám xịt.
+
+[Cảnh 5 | 7.20~9.00s]
+[BẮT ĐẦU]
+Cận cảnh nhân vật chính từ ngực trở lên, đang bước về phía camera. Các tòa nhà đen trắng san sát ở hậu cảnh.
+[SỰ KIỆN CHÍNH]
+Camera lùi lại phía sau với cùng tốc độ. Các dải màu liên tiếp vươn lên trên những tòa nhà nằm sâu phía bên trái và bên phải nhân vật chính. Một nụ cười khẽ nở trên môi cô.
+[KẾT THÚC]
+Khuôn mặt mỉm cười của nhân vật chính cùng các dải màu xếp hàng ở hậu cảnh.
+
+[Cảnh 6 | 9.00~10.00s]
+[BẮT ĐẦU]
+Góc rộng nhìn thẳng vào một quảng trường tròn đen trắng dưới bầu trời xám. Nhân vật chính đang bước vào giữa quảng trường.
+[SỰ KIỆN CHÍNH]
+Nhân vật chính dừng lại và giẫm mạnh một nhịp xuống mặt đá cuội bằng đôi bốt. Camera đứng yên.
+[KẾT THÚC]
+Toàn thân nhân vật chính đứng giữa quảng trường.
+
+[Cảnh 7 | 10.00~11.80s]
+[BẮT ĐẦU]
+Nhìn nhân vật chính giữa quảng trường từ góc thấp, hơi xa. Toàn thân cô lọt vào khung hình từ trên đỉnh đầu đến dưới đôi bốt, chừa lại khoảng trống bầu trời phía trên đầu. Bầu trời và các tòa nhà vẫn mang màu đen trắng.
+[SỰ KIỆN CHÍNH]
+Nhân vật chính từ từ xoay một vòng tại chỗ. Gấu váy xếp ly xòe rộng thành hình tròn, và ba sọc màu bung ra như một chiếc quạt.
+[KẾT THÚC]
+Toàn thân nhân vật chính với gấu váy xòe rộng bay lượn sát mặt đất.
+
+[Cảnh 8 | 11.80~13.20s]
+[BẮT ĐẦU]
+Cảnh rộng góc cao nhìn xuống quảng trường. Nhân vật chính đứng ở giữa, bao quanh hoàn toàn là màu đen trắng.
+[SỰ KIỆN CHÍNH]
+Những đợt sóng ba màu lan tỏa đồng tâm từ dưới chân nhân vật chính, tràn qua mặt đá cuội, vút lên các tòa nhà và hòa vào bầu trời, trả lại màu sắc tự nhiên cho toàn bộ thành phố.
+[KẾT THÚC]
+Nhân vật chính đứng giữa quảng trường đã lấy lại được màu sắc.
+
+[Cảnh 9 | 13.20~15.00s]
+[BẮT ĐẦU]
+Cận cảnh từ ngực trở lên của nhân vật chính giữa quảng trường, mặt hướng thẳng về phía trước. Ở hậu cảnh, các tòa nhà và bầu trời xanh đã khôi phục màu sắc tự nhiên.
+[SỰ KIỆN CHÍNH]
+Camera tiến lại rất chậm. Nhân vật chính khẽ thở ra và nhìn về phía xa. Sâu trong bầu trời phía xa xăm sau lưng cô, vài cánh hoa nhỏ đang chầm chậm bay lượn.
+[KẾT THÚC]
+Khuôn mặt nhân vật chính tĩnh lặng nhìn về phía xa giữa ánh sáng của thành phố ngập tràn màu sắc.
+
+[ÂM THANH]
+BGM một lớp. Nhạc nhẹ kết hợp tiếng búng tay và đàn double bass, phát liên tục không ngắt quãng từ khung hình đầu tiên ở giây 0. Từ khoảnh khắc nhân vật chính xoay người, nhạc cụ hơi tham gia, đẩy giai điệu lên rực rỡ. Khi màu sắc hoàn toàn trở lại, âm thanh lắng xuống, và cuối cùng, một nốt nhạc duy nhất ngân vang thật lâu trước khi tắt lịm trong tĩnh lặng. Không có lời thoại hay thuyết minh.
+
+[YẾU TỐ LOẠI TRỪ]
+Văn bản, phụ đề, logo, watermark
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117449754674417664/img/ego2_NDdp_fx5cE3.jpg" width="600" alt="Bước Đi Trong Sắc Màu: Đánh Thức Phố Cổ Đơn Sắc">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13440)**
+
+**Tác giả:** [AIライフハック](https://x.com/ai_lifehack55) | **Nguồn:** [Link](https://x.com/ai_lifehack55/status/2117450061915578482) | **Đã xuất bản:** Nov 3, 2026
+
+---
+### Seedance Prompt Đạo Diễn Tiếng Trung: Biển Hứa
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt phong cách đạo diễn chi tiết cho Seedance 2.0 Mini/2.5, tạo phim ngắn tiên hiệp góc nhìn thứ nhất về đề tài 'Biển Hứa'. Bao gồm các hướng dẫn nghiêm ngặt về tính liên tục, vật lý, đối thoại và máy quay.
+
+#### 📝 Prompt
+
+```
+Seedance Phiên bản Thực thi Đạo diễn Trung Quốc | "Biển Hẹn Ước"
+
+I. Thông tin cơ bản dự án
+Thời lượng: Chính xác 15 giây
+Tỷ lệ khung hình: Ngang 16:9
+Ngôn ngữ: Thoại tiếng Trung phổ thông (Mandarin)
+Góc nhìn: POV ngôi thứ nhất hoàn toàn của nam chính
+Phong cách: Phim ngắn Tiên hiệp ngự kiếm bay siêu thực điện ảnh Trung Quốc
+Model ưu tiên: Seedance 2.0 Mini / 2.5
+
+II. Phong cách cốt lõi & Mục tiêu kể chuyện
+Chất liệu siêu thực mang đậm tính điện ảnh, thuần chất mỹ học Tiên hiệp cổ trang Trung Hoa.
+Toàn bộ phân đoạn sử dụng góc nhìn từ mắt nam chính; độ cao camera khoảng 178cm, luôn gắn liền với chuyển động cơ thể và phi kiếm của nam chính. Mọi cú lao xuống, tăng tốc, nghiêng người, quay đầu, ngẩng lên, lấy lại thăng bằng và lướt ổn định đều phải có quán tính cơ thể và phản hồi trọng tâm chân thực.
+Trải nghiệm cốt lõi không phải để phô diễn kỹ xảo, mà là:
+Cảm giác ngự kiếm bay nhập vai ở ngôi thứ nhất
+Chuyển cảnh không gian liên tục từ thiên cung khổng lồ xuống đại dương dưới tầng mây
+Kết thúc nhẹ nhàng, chuyển biến từ "bối rối vì bị trêu chọc" sang "cô ấy vẫn nhớ lời hứa"
+Camera phải luôn dễ đọc; không dùng góc máy trôi nổi kiểu flycam, không chèn góc nhìn thứ ba, không lia máy nhanh vô cớ.
+
+III. Khóa nhân vật & Tài nguyên
+Nhân vật A | Nữ chính | Khóa chặt theo @Image1
+Cùng một nữ giới Đông Á trưởng thành, đồng nhất danh tính, đường nét khuôn mặt, dáng mặt, màu da, kiểu tóc và tỷ lệ cơ thể.
+Chất liệu da thật, tóc đen dài tung bay tự nhiên theo gió.
+Trang phục cố định một bộ duy nhất:
+Trường bào ngự kiếm Tiên hiệp trắng ánh trăng phối xanh nhạt
+Cổ áo thêu chỉ bạc
+Đai lưng thắt gọn
+Lớp trong tay hẹp
+Áo choàng lụa bên ngoài
+Phụ kiện ngọc tinh xảo
+Vải có độ nặng thực tế và vạt áo đung đưa có độ trễ.
+Nữ chính đứng trên đúng một thanh phi kiếm nguyên vẹn xuyên suốt, bàn chân bám chắc trên thân kiếm, trọng tâm nhân vật, hướng kiếm và quỹ đạo bay luôn đồng nhất.
+
+Nhân vật B | Nam chính | Chủ thể ngôi thứ nhất
+Không xuất hiện gương mặt nam chính.
+Cạnh dưới khung hình phải luôn hiển thị rõ:
+Mũi giày của nam chính
+Thanh phi kiếm bạc thon hẹp dưới chân
+Nam chính cũng đứng trên đúng một thanh phi kiếm nguyên vẹn xuyên suốt, chân bám chắc, chiều dài, ngoại hình và hướng kiếm luôn đồng nhất.
+
+IV. Môi trường & DNA Không gian
+Môi trường chính | Xây dựng dựa trên Ảnh tham khảo 2
+Hậu cảnh được xây dựng nghiêm ngặt dựa trên @Image2, giữ nguyên môi trường thiên cung khổng lồ, bảo tồn các đặc trưng cốt lõi:
+Bánh xe ngọc tròn khổng lồ ở trung tâm bầu trời
+Cung điện gỗ sẫm đối xứng hai bên trái phải
+Mái hiên cong vút xếp lớp
+Quảng trường đá trắng rộng lớn
+Các bệ đài lơ lửng
+Bầu trời xanh mát lạnh
+Hoàng hôn vàng ấm áp
+Sự chênh lệch tỷ lệ cực đại giữa kiến trúc và nhân vật.
+Từ đó, mở rộng tự nhiên xuống phía dưới:
+Vách núi cung điện cao vạn trượng
+Những thác nước khổng lồ
+Thung lũng mây sâu thẳm
+Một đại dương thực sự mênh mông dưới tầng mây
+
+Tính liên tục không gian
+Khán giả phải hiểu rõ đây là một hành trình liên tục:
+Trục cao thiên cung -> Bên ngoài bánh xe ngọc khổng lồ -> Vách núi cung điện -> Thác nước -> Thung lũng mây -> Xuyên qua tầng mây -> Đại dương dưới mây
+Tuyệt đối không cắt ghép thành nhiều bối cảnh rời rạc.
+Kiến trúc, vách núi, thác nước, mây và đại dương phải thuộc về cùng một thế giới hoàn chỉnh.
+
+V. Quy tắc thống nhất Bay & Camera
+Quy tắc ngôi thứ nhất
+Camera luôn đại diện cho tầm mắt nam chính, chỉ di chuyển do hoạt động bay thực tế của nam chính.
+Nguồn chuyển động của camera chỉ có thể là:
+Lao thẳng về trước
+Lao xuống
+Nghiêng ngang
+Đổi hướng theo nữ chính
+Ngẩng lên
+Lấy lại thăng bằng
+Quay đầu tự nhiên để nhìn nữ chính
+Nhìn thẳng về phía trước trở lại
+
+Phản hồi vật lý bắt buộc
+Cảm giác mất trọng lực thoáng qua khi lao xuống
+Lực ép ngang khi vào cua
+Phục hồi trọng tâm khi lấy lại thăng bằng
+Không gian bị nén lại khi xuyên qua mây/thác nước
+Phản hồi cơ thể tốc độ cao nhưng vững chãi khi lướt trên mặt biển
+
+Yêu cầu thị sai
+Kiến trúc tiền cảnh, mái hiên, tường đá, sương mù vụt qua với tốc độ cao
+Cung điện khổng lồ trung cảnh giữ nguyên khối tích rõ ràng
+Mây, núi, đảo hậu cảnh di chuyển chậm hơn tương đối
+Tổng thể mối quan hệ không gian luôn rõ ràng
+
+VI. Storyboard hoàn chỉnh 15 giây
+0-3s | Khởi đầu song song trên cao: Biển hẹn ước ở đâu?
+Hình ảnh
+Mở đầu trực diện ngôi thứ nhất trên độ cao lớn.
+Nam chính đang lơ lửng cách quảng trường trục trung tâm thiên cung hàng trăm mét.
+Cạnh dưới khung hình thấy rõ mũi giày nam chính và thanh phi kiếm bạc thon hẹp.
+Chủ thể tiền cảnh là bánh xe ngọc tròn khổng lồ chiếm trọn tầm nhìn.
+Hai bên là những cung điện khổng lồ vươn dài xếp lớp trên cao.
+Nữ chính đứng trên phi kiếm của mình, bay song song với nam chính, cách khoảng 2m. Gió núi dữ dội kéo mái tóc dài và tà áo lụa của cô bay ngược ra sau một cách tự nhiên.
+Hành động
+Nam chính tự nhiên nhìn quanh, rồi nhìn sang nữ chính.
+Thoại
+Nam chính (giọng hơi bối rối vì bị trêu):
+"Biển hẹn ước ở đâu?"
+Nữ chính nghiêng mặt, khóe miệng khẽ nhếch lên:
+"Dưới chân huynh. Theo muội."
+Hành động kết thúc phân đoạn
+Dứt lời, nữ chính đột ngột chúi người về trước, ấn mũi kiếm xuống, cả người cùng phi kiếm lao vút dọc theo mép ngoài thiên cung.
+Góc nhìn nam chính lập tức bám theo, phi kiếm tăng tốc đột ngột, cơ thể tạo ra phản hồi mất trọng lực ngắn ngủi nhưng chân thực do cú lao xuống.
+
+3-7s | Lao qua kiến trúc khổng lồ: Đổ dốc dọc thác nước bên ngoài cung điện
+Hình ảnh & Lộ trình
+Ngôi thứ nhất bám theo nữ chính đổ dốc từ bên ngoài vòng ngọc khổng lồ.
+Cấu trúc vòng ngọc khổng lồ vùn vụt dâng lên khỏi đầu rồi khuất khỏi tầm nhìn.
+Nữ chính luôn cách vài mét phía trước, hình dáng và hướng bay ổn định, rõ nét.
+Hai thanh phi kiếm lao nhanh dọc theo vách núi bên ngoài cung điện khổng lồ:
+Lướt dưới những mái hiên đồ sộ
+Bay sát chân đế công trình đá trắng cao hàng trăm mét
+Sau đó vẽ một đường cong lớn mượt mà rẽ phải bên ngoài thác nước vạn trượng
+Toàn bộ phân đoạn tạo thành lộ trình bay chữ S rõ ràng trên không:
+Lao dốc đứng
+Né tránh kiến trúc
+Nghiêng người vào cua
+Tiếp tục đổ dốc dọc mép thác nước
+Thị sai
+Đấu củng (kết cấu gỗ), tường đá, sương mù khổng lồ ở tiền cảnh vụt qua với tốc độ chóng mặt.
+Cung điện và mây xa xa di chuyển chậm hơn.
+Cảm giác tốc độ và không gian phải cực kỳ mãnh liệt.
+Thoại
+Nam chính hét lên giữa gió:
+"Phía dưới chẳng phải toàn là mây sao?"
+Nữ chính ngoái lại chớp nhoáng khi đang bay:
+"Xuống thấp nữa đi!"
+Rồi cô lại ấn mũi kiếm xuống, lao thẳng về phía thung lũng mây dưới chân thác.
+
+7-11s | Xuyên thác nước/tầng mây: Hé lộ trọn vẹn đại dương dưới mây
+Hình ảnh & Lộ trình
+Nữ chính tiếp tục lao dọc mép thác, sau đó khẽ ép kiếm sang trái, luồn qua khe hở rộng giữa cột nước và bức tường mây.
+Góc nhìn nam chính bám sát ngay phía sau.
+Camera trải qua khoảnh khắc cực ngắn:
+Sương mù trắng bán trong suốt
+Mây che khuất
+Nhưng lớp che chắn này phải ngắn, trong suốt, dễ đọc, không hỗn loạn hay mất kiểm soát.
+Sau đó phá vỡ lớp mây từ phía dưới.
+Khoảnh khắc hé lộ kỳ quan
+Tầm nhìn tức thì mở toang hoàn toàn.
+Dưới biển mây là một đại dương xanh thẳm bao la thực sự.
+Ánh nắng vàng ấm áp lan tỏa khắp mặt biển.
+Phía xa là những hòn đảo núi lớn nhỏ khác nhau, sương biển xanh nhạt và bóng mờ của tòa thiên cung khổng lồ in xuống từ đằng xa.
+Chuyển trạng thái bay
+Phi kiếm của nữ chính dần lấy lại thăng bằng theo một đường cong mượt mà, chuyển từ cú lao dốc đứng sang lướt tốc độ cao sát mặt biển một cách tự nhiên.
+Góc nhìn nam chính nâng kiếm tương ứng, cơ thể tự nhiên trở về tư thế đứng thẳng từ dáng chúi người về trước.
+Khung hình thể hiện phản hồi trọng tâm chân thực nhưng tiết chế do thay đổi hướng vận tốc.
+Thoại
+Không có thoại trong phân đoạn này.
+Dựa vào quỹ đạo kiếm, biến đổi không gian và âm thanh để hoàn tất màn hé lộ.
+
+11-15s | Bay song song trên mặt biển: Muội không quên lời hứa với huynh
+Trạng thái hình ảnh
+Hai người ngự kiếm bay song song tốc độ cao sát mặt biển.
+Phi kiếm cách mặt biển khoảng 3 mét.
+Sóng biển chân thực liên tục cuộn ngược về phía sau.
+Nắng vàng ấm áp lấp lánh vỡ vụn trên đỉnh sóng.
+Phi kiếm lướt thấp tạo ra dải sương mỏng và luồng khí nhiễu động nhẹ.
+Thay đổi vị trí tương đối của nữ chính
+Nữ chính thu hẹp khoảng cách ngang theo một quỹ đạo cong thanh lịch từ phía trước, cuối cùng bay song song cách nam chính khoảng 3 mét.
+Hành động ngôi thứ nhất
+Nam chính tự nhiên quay đầu nhìn cô.
+Mái tóc dài và tà áo của cô căng ra theo luồng khí, vài lọn tóc gần má bay tung trong gió.
+Thoại
+Nữ chính nhìn nam chính, vẻ trêu chọc ban đầu dần hóa thành nụ cười dịu dàng vô thức, khẽ nói:
+"Muội không quên lời hứa với huynh."
+Nam chính lặng lẽ nhìn cô một thoáng, rồi tự nhiên quay đầu nhìn thẳng về phía trước.
+Hình ảnh kết thúc
+Khung hình cuối hiển thị:
+Đại dương vàng-xanh vô tận
+Quần đảo xa xa
+Bóng mờ của thiên cung khổng lồ phía sau trên bầu trời cao
+Hai thanh phi kiếm tiếp tục sánh đôi tiến về phía trước trong ánh nắng.
+Khung hình kết thúc tự nhiên khi hai người vẫn đang ngự kiếm bay.
+Neo liên tục khi kết thúc
+Phải giữ nguyên khi kết thúc:
+Hướng bay hoàn chỉnh
+Tốc độ hiện tại
+Độ cao góc nhìn nam chính
+Vị trí tương đối của nữ chính
+Trạng thái bay ngang mặt biển
+Tính liên tục không gian để nối tiếp sang phân đoạn sau
+
+VII. Danh sách thoại (Kiểm soát nghiêm ngặt)
+Chỉ giữ lại các câu thoại sau cho toàn phim, không thêm lời dẫn giải:
+Nam chính: "Biển hẹn ước ở đâu?"
+Nữ chính: "Dưới chân huynh. Theo muội."
+Nam chính: "Phía dưới chẳng phải toàn là mây sao?"
+Nữ chính: "Xuống thấp nữa đi!"
+Nữ chính: "Muội không quên lời hứa với huynh."
+Yêu cầu thực hiện thoại
+Tiếng Trung phổ thông tự nhiên, đời thường
+Khẩu hình khớp chính xác khi thấy nữ chính đang nói
+Giọng nam chính luôn là giọng nam off-screen ngôi thứ nhất
+Tách bạch rõ ràng giọng nam/nữ
+Không ngắt lời, không chồng âm, không đọc như trả bài
+
+VIII. Thiết kế âm thanh
+Nửa đầu | Thiên cung trên cao
+Tiếng gió núi rít trên độ cao lớn
+Tiếng xé gió khi ngự kiếm bay
+Tiếng thác nước gầm gào từ xa
+Cảm giác áp suất không khí khi vụt qua các kiến trúc khổng lồ
+Đoạn giữa | Xuyên mây/thác nước
+Âm thanh gió trầm hơn, bao trùm hơn
+Cảm giác xuyên qua làn sương
+Trường âm thanh bỗng mở toang khi phá vỡ tầng mây
+Nửa sau | Lướt trên mặt biển
+Tiếng sóng biển khơi
+Tiếng sương mờ tinh tế khi phi kiếm lướt sát mặt biển
+Giọng người rõ ràng hơn
+Âm nhạc
+Tiết chế ở nửa đầu
+Tự nhiên đẩy lên cao trào cảm xúc khi "đại dương lần đầu hiện ra trọn vẹn"
+Trở lại êm dịu ở đoạn kết
+Tuyệt đối không lấn át thoại và âm thanh môi trường.
+
+IX. Yêu cầu về Tính liên tục & Vật lý
+Tính liên tục nhân vật
+Nữ chính luôn là cùng một người với @Image1:
+Không thay đổi khuôn mặt
+Không thay đổi kiểu tóc
+Không thay đổi trang phục
+Không thay đổi tỷ lệ cơ thể
+
+Tính liên tục phi kiếm
+Mỗi người chỉ có đúng một thanh phi kiếm nguyên vẹn
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117186940445560832/img/aaM58O2D2io_uZ2e.jpg" width="600" alt="Seedance Prompt Đạo Diễn Tiếng Trung: Biển Hứa">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13435)**
+
+**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2117190326528168293) | **Đã xuất bản:** Nov 2, 2026
+
+---
+### Seedance 2.0 Mini Cổ trang Tiên hiệp Hài hước Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt chi tiết để tạo video điện ảnh dài 15 giây bằng Seedance 2.0 Mini. Nội dung xoay quanh hai nữ kiếm tiên bí mật luyện tập trong kỳ nghỉ, dẫn đến một cuộc đối đầu hài hước với sư phụ của họ. Prompt yêu cầu kết cấu chân thực, chất lượng Arri Alexa và các hành động nhân vật chính xác.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | "Hôm Nay Nghỉ Tập"
+
+Mô hình: Seedance 2.0 Mini
+Thời lượng: Chính xác 15 giây
+Tỷ lệ khung hình: 16:9 Ngang
+Thể loại: Tiên hiệp cổ trang thuần Trung Quốc / Hài kịch đảo ngược tình huống / Đời thường tông môn / Kịch tính quan hệ hai người
+Cấu trúc: Ba cảnh quay điện ảnh liên tục, rõ ràng với các chức năng gây hài khác nhau.
+I. Phong cách tổng thể và Định hướng sáng tạo
+Chất liệu chân thực đậm chất điện ảnh, thẩm mỹ tiên hiệp cổ trang thuần Trung Quốc.
+Tích hợp các ngôn ngữ hài hước sau:
+Hài kịch hình thể chuẩn xác từ phim câm kinh điển
+Hài lạnh (deadpan) kiểu Anh
+Nhịp phản ứng nhanh của hài kịch Hồng Kông
+Ba tầng đảo ngược được tạo ra từ hành vi nhân vật
+Quay phim và Chất liệu thị giác
+Áp dụng:
+Chất liệu máy quay điện ảnh Arri Alexa
+Kết cấu da thật
+Hạt nhiễu phim mịn
+Ánh sáng khối tự nhiên
+Chuyển động của lụa thật
+Vật lý tóc thật
+Nguyên tắc Đạo diễn Hài kịch
+Tạo tiếng cười một cách tự nhiên thông qua:
+Hành vi nhân vật
+Sự đồng bộ hành động
+Giao tiếp bằng mắt
+Những khoảng lặng ngắn
+Tốc độ phản ứng
+Điều phối không gian thực tế
+Nhân vật tuyệt đối không được khắc họa như những kẻ ngốc.
+Cả hai nữ chính đều là kiếm khách cao thủ thực thụ, động tác đẹp mắt và cá tính riêng biệt.
+Họ có tính cạnh tranh gay gắt với nhau nhưng vẫn giữ mối quan hệ thân thiết.
+II. Cốt truyện cốt lõi và Cơ chế gây hài
+Cốt lõi câu chuyện
+Tông môn tuyên bố ngày nghỉ, nhưng Đại sư tỷ và Tiểu sư muội lại lén lút luyện kiếm sau lưng nhau, không ai chịu thừa nhận mình đang nỗ lực.
+Kết quả:
+Cả hai bị Sư phụ bắt quả tang cùng lúc.
+Ngày nghỉ biến thẳng thành buổi tập bổ sung.
+Xung đột hài hước
+Tiếng cười đến từ một mâu thuẫn rất đỗi con người:
+Ai cũng đồng ý nghỉ ngơi, nhưng ai cũng lo người khác sẽ âm thầm tiến bộ trong lúc mình nghỉ.
+Cả hai đều muốn lén lút chăm chỉ.
+Kết quả là họ đụng mặt nhau.
+Cuối cùng, chẳng ai được lợi gì.
+Cấu trúc đảo ngược ba tầng
+Tầng 1: Ngày nghỉ
+Sư phụ dõng dạc tuyên bố mọi người nghỉ ngơi, cấm luyện kiếm.
+Tầng 2: Bắt quả tang lẫn nhau
+Đại sư tỷ và Tiểu sư muội đều lén quay lại luyện kiếm và đụng mặt nhau.
+Tầng 3: Phạt tập bổ sung
+Hai người tưởng rằng chỉ bị đối phương phát hiện, nhưng cuối cùng lại bị Sư phụ bắt quả tang cùng lúc.
+Lén luyện hai chiêu đổi lấy một trăm chiêu tập phạt.
+Giới hạn tự sự
+Toàn bộ câu chuyện chỉ xoay quanh sự kiện duy nhất này.
+Không thêm bất kỳ tuyến truyện độc lập nào khác.
+III. Nhận diện nhân vật và Khóa tài sản cốt lõi
+Nhân vật A | @Image1 | Đại sư tỷ Kiếm Tiên
+Nhận diện & Ngoại hình
+Cùng một Đại sư tỷ Kiếm Tiên:
+Nữ giới Đông Á trưởng thành, 25–30 tuổi
+Đường nét khuôn mặt tuân thủ nghiêm ngặt hình ảnh tham chiếu nhân vật
+Khuôn mặt tuân thủ nghiêm ngặt hình ảnh tham chiếu nhân vật
+Màu da tuân thủ nghiêm ngặt hình ảnh tham chiếu nhân vật
+Hình thể tuân thủ nghiêm ngặt hình ảnh tham chiếu nhân vật
+Tóc đen dài buộc nửa đầu
+Cố định bằng trâm ngọc trắng
+Trang phục cố định
+Trang phục tiên hiệp lụa thật thêu hoa văn màu trắng
+Thắt lưng bạc
+Vũ khí độc quyền
+Một thanh trường kiếm bạc độc nhất.
+Tính cách & Diễn xuất
+Đoan trang và tao nhã
+Biểu cảm tiết chế
+Thói quen giữ uy nghiêm của Đại sư tỷ
+Có tính cạnh tranh khi đối diện Tiểu sư muội
+Trọng tâm hài kịch
+Khi vị Đại sư tỷ đoan trang bị Tiểu sư muội phát hiện đang lén luyện tập, cô bộc lộ sự bối rối ngắn ngủi nhưng vô cùng chân thật.
+Nhân vật B | @Image2 | Tiểu sư muội
+Nhận diện & Ngoại hình
+Cùng một Tiểu sư muội:
+Nữ giới Đông Á trưởng thành, 20–25 tuổi
+Nhận diện khuôn mặt tuân thủ nghiêm ngặt hình ảnh tham chiếu nhân vật
+Tỷ lệ cơ thể tuân thủ nghiêm ngặt hình ảnh tham chiếu nhân vật
+Kiểu tóc tuân thủ nghiêm ngặt hình ảnh tham chiếu nhân vật
+Tóc đen dài tết bím
+Trang phục cố định
+Váy cổ trang màu xanh lục lam
+Thắt lưng tối màu
+Vũ khí độc quyền
+Một thanh kiếm thép tối màu độc nhất.
+Tính cách & Diễn xuất
+Hoạt bát
+Hiếu thắng
+Không cam tâm thừa nhận mình kém chăm chỉ hơn Đại sư tỷ
+Trọng tâm hài kịch
+Vốn tưởng có thể lén luyện tập, nhưng khi phát hiện Đại sư tỷ cũng ở đó, cô lập tức bộc lộ phản ứng ngạc nhiên và miễn cưỡng rất tự nhiên.
+Nhân vật phụ mới | Lão sư phụ
+Chỉ có duy nhất một vị lão sư phụ xuyên suốt bộ phim.
+Yêu cầu nhân vật
+Ngoại hình nhất quán xuyên suốt
+Trang phục nhất quán xuyên suốt
+Vị trí nhân vật có logic không gian thực tế
+Tính cách
+Nghiêm túc
+Lạnh lùng (Deadpan)
+Có chút cái nhìn thấu đáo đầy hài hước về mọi thứ
+Trọng tâm diễn xuất
+Sư phụ không cần biểu cảm khoa trương.
+Sự điềm tĩnh của ông tạo nên sự tương phản hài hước với vẻ hoảng loạn của hai nữ chính.
+IV. DNA Bối cảnh và Môi trường
+Tất cả hình ảnh tham chiếu bối cảnh/địa điểm mới tải lên cùng nhau định nghĩa một thế giới tiên hiệp tồn tại thực tế.
+Quy hoạch môi trường
+Trước khi dàn cảnh chính thức, hãy hiểu những gì các hình ảnh tham chiếu cùng nhau thể hiện:
+Cấu trúc địa hình
+Mối quan hệ kiến trúc
+Tỷ lệ không gian
+Chất liệu
+Thảm thực vật
+Mặt nước
+Mây/Sương mù
+Thời tiết
+Hướng ánh sáng chính
+Phản chiếu
+Chiều sâu khí quyển
+Hãy quy hoạch một khoảng trống phù hợp cho hai người luyện kiếm, trên tiền đề tuân thủ các mối quan hệ địa lý thực tế.
+Tính liên tục địa điểm
+Ba cảnh quay luôn diễn ra trong cùng một hệ thống không gian thực.
+Phải duy trì:
+Quan hệ địa hình nhất quán
+Vị trí tòa nhà nhất quán
+Vị trí đường đi nhất quán
+Hướng ánh sáng chính nhất quán
+Các mốc môi trường lớn liên tục
+Nguyên tắc then chốt
+Bản thân bối cảnh không được trở thành công cụ dẫn dắt cốt truyện.
+V. Bối cảnh sống động và Tính trung lập tự sự
+Chuyển động môi trường tự nhiên
+Gió tự nhiên liên tục thổi nhẹ:
+Tay áo
+Lá cây
+Các vật thể tự nhiên khác phù hợp với hình ảnh tham chiếu
+Nếu có mặt nước:
+Nước chảy tự nhiên liên tục
+Nếu có mây/sương mù:
+Mây/sương mù thay đổi chậm theo địa hình thực
+Đồng thời duy trì:
+Chuyển động tự nhiên của thảm thực vật phía xa
+Phản chiếu liên tục
+Các lớp khí quyển liên tục
+Nguyên tắc môi trường
+Toàn bộ môi trường phải:
+Sống động
+Có sức sống thực sự
+Tuân thủ các định luật vật lý
+Trong khi đồng thời:
+Không hề ảnh hưởng đến lựa chọn của nhân vật hay các cú đảo ngược hài hước.
+VI. Phân tích chi tiết 15 giây
+0–5s | Cảnh 1: Toàn cảnh | Sư phụ tuyên bố ngày nghỉ
+Chức năng cảnh quay
+Thiết lập luật lệ, giúp khán giả hiểu rõ hôm nay đáng lẽ là ngày nghỉ.
+Máy quay
+Sử dụng góc toàn cảnh màn hình rộng.
+Góc hơi thấp.
+Thể hiện trọn vẹn chiều sâu không gian thực của cảnh tham chiếu hiện tại.
+Định vị nhân vật ban đầu
+Sư phụ
+Vị lão sư phụ ấy đứng ở trung tâm khung hình.
+Đại sư tỷ & Tiểu sư muội
+Đại sư tỷ Kiếm Tiên áo trắng ấy và Tiểu sư muội áo xanh ấy đứng sát cánh trước mặt Sư phụ.
+Cả hai người:
+Đều đeo trường kiếm trong vỏ
+Đứng đúng tư thế
+Vẻ mặt nghiêm túc
+Sư phụ tuyên bố ngày nghỉ
+Sư phụ dõng dạc tuyên bố với vẻ mặt lạnh tanh:
+[Sư phụ] "Hôm nay là ngày nghỉ, không ai được phép luyện kiếm!"
+Phản ứng đầu tiên của hai người
+Hai người nghe tin được nghỉ.
+Ánh mắt họ đồng loạt ánh lên niềm vui kín đáo.
+Nhưng ngay lập tức lấy lại vẻ cung kính.
+Thoại & Hành động đồng bộ
+Cả hai đồng loạt hành lễ:
+[Đại sư tỷ, Tiểu sư muội] "Vâng ạ!"
+Nhân vật rời đi
+Sau đó:
+Đại sư tỷ rời đi theo một hướng
+Tiểu sư muội rời đi theo hướng ngược lại
+Cả hai bước đi nhàn nhã
+Sư phụ cũng chậm rãi bước dọc theo con đường đã thiết lập trong khung hình.
+Yêu cầu máy quay
+Máy quay giữ ổn định.
+Mục tiêu tự sự của Cảnh 1
+Phải làm rõ với khán giả:
+Rằng hôm nay vốn dĩ là ngày nghỉ của tất cả mọi người.
+5–10s | Cảnh 2: Trung cảnh | Hai "con ong chăm chỉ" bị bắt quả tang
+Chức năng cảnh quay
+Hoàn thành cú đảo ngược hài hước đầu tiên thông qua hành động độc lập kép và sự bối rối đồng bộ.
+Tính liên tục không gian
+Chuyển sang trung cảnh của cùng một không gian luyện kiếm.
+Các yếu tố sau phải liên tục chặt chẽ với cảnh trước:
+Địa hình
+Tòa nhà
+Ánh sáng
+Mối quan hệ không gian
+Phân đoạn hành động 1: Đại sư tỷ lén quay lại
+Đại sư tỷ Kiếm Tiên áo trắng ấy lặng lẽ quay lại khu vực luyện tập.
+Cô rất tự nhiên quan sát xung quanh trước.
+Xác nhận Sư phụ không ở gần.
+Sau đó rút thanh trường kiếm bạc ấy ra.
+Kiếm pháp của Đại sư tỷ
+Cô nhanh chóng hoàn thành một động tác cực kỳ đẹp mắt:
+Xoay người chém chéo.
+Yêu cầu hành động:
+Chuyển động cơ thể mượt mà
+Bộ pháp vững vàng
+Tay áo lụa thật vung ra tự nhiên theo những đường cong tao nhã
+Phân đoạn hành động 2: Tiểu sư muội cũng lén quay lại
+Tuy nhiên, gần như cùng lúc đó.
+Tiểu sư muội áo xanh ấy cũng lặng lẽ quay lại từ phía bên kia khung hình.
+Cô cũng đinh ninh rằng không còn ai ở đây.
+Nên cô rút thanh kiếm thép tối màu ấy ra.
+Kiếm pháp của Tiểu sư muội
+Hoàn thành một cú:
+Chém chéo gọn gàng và sắc bén.
+Nguyên tắc song kiếm
+Động tác của cả hai nhân vật đều đẹp mắt.
+Mũi kiếm:
+Không va chạm
+Không chĩa vào nhau
+Cú đảo ngược hài hước 1: Phát hiện lẫn nhau
+Cho đến khi cả hai xoay người kết thúc chiêu thức.
+Họ chợt nhận ra:
+Người kia hóa ra cũng ở đây.
+Hai cao thủ đồng loạt đóng băng.
+Khoảng dừng hài hước
+Duy trì một khoảng dừng:
+Trọn vẹn
+Rõ ràng
+Hơi ngượng ngùng
+Vòng thoại đầu tiên
+Tiểu sư muội lên tiếng trước:
+[Tiểu sư muội] "Đại sư tỷ, tỷ cũng lén luyện tập sao?"
+Đại sư tỷ lập tức đáp trả:
+[Đại sư tỷ] "Muội không phải vậy sao?"
+Phản ứng kép trong im lặng
+Cả hai thanh kiếm vẫn giữ ở vị trí an toàn.
+Họ nhìn xuống thanh kiếm trong tay nhau trước.
+Rồi ngẩng lên chạm mắt.
+Thông tin hài hước
+Hai người vốn đang lén lút chăm chỉ bỗng chốc không thể tiếp tục giả vờ rằng mình chỉ tình cờ đi ngang qua.
+Nguyên tắc máy quay
+Máy quay giữ nguyên bố cục hai người trọn vẹn.
+Để sự bối rối đồng bộ hoàn toàn của cả hai tự nhiên tạo nên tiếng cười.
+10–15s | Cảnh 3: Cận cảnh | Ngày nghỉ biến thẳng thành buổi tập phạt
+Chức năng cảnh quay
+Hoàn thành cú đảo ngược hài hước cuối cùng thông qua sự tái xuất của Sư phụ, lệnh tập phạt và phản ứng kép đồng bộ.
+Máy quay
+Máy quay từ từ đẩy vào từ trung cảnh hai người.
+Logic không gian Sư phụ quay lại
+Vị Sư phụ ấy vốn đã rời đi dọc theo con đường đã thiết lập trước đó.
+Nhưng sau khi nghe tiếng luyện kiếm của họ:
+Ông dừng lại
+Quay người
+Bước ngược lại trên chính con đường đó
+Đại sư tỷ và Tiểu sư muội hoàn toàn không hay biết.
+Sư phụ bất ngờ lên tiếng
+Cho đến khi Sư phụ bình thản cất lời phía sau họ:
+[Sư phụ] "Thích luyện đến vậy sao? Tập thêm một trăm chiêu nữa."
+Lần đóng băng đồng bộ thứ hai của hai người
+Hai người nghe thấy giọng nói.
+Lập tức đồng loạt đóng băng.
+Sau đó, với những hành động gần như đồng bộ hoàn toàn:
+Nhanh chóng tra trường kiếm của mình vào vỏ
+Đồng loạt quay người
+Đối diện Sư phụ
+Thành khẩn hành lễ
+Thoại xin tha đồng bộ
+[Đại sư tỷ, Tiểu sư muội] "Sư phụ, chúng con biết lỗi rồi!"
+Cái kết hài lạnh của Sư phụ
+Gương mặt Sư phụ không đổi.
+[Sư phụ] "Muộn rồi."
+Cận cảnh đặc tả cuối cùng
+Hai nữ kiếm tiên vốn chỉ muốn lén vượt mặt nhau từ từ nhìn nhau.
+Họ đồng thời nhận ra:
+Lén luyện hai chiêu đổi lấy một trăm chiêu tập phạt.
+Biểu cảm cuối cùng
+Cùng một vẻ mặt bất lực hiện lên trên gương mặt cả hai.
+Họ thậm chí không cần nói thêm lời nào.
+Kết thúc
+Ngay khoảnh khắc giao mắt trong im lặng ấy, cắt chính xác sang màn hình đen.
+VII. Ba cảnh quay và Kiểm soát nhịp điệu
+Cấu trúc thời gian cố định
+Thời gian Cỡ cảnh Nhiệm vụ tự sự Cơ chế hài hước 0–5s Toàn cảnh màn hình rộng Thiết lập quy tắc ngày nghỉ của tông môn Luật lệ lạnh tanh đối lập kỳ vọng ngầm 5–10s Trung cảnh hai người Hai người lén luyện kiếm, bắt quả tang nhau Phản chiếu hành vi & sự bối rối đồng bộ 10–15s Cận cảnh đẩy sang Đặc tả Sư phụ xuất hiện, tuyên bố tập phạt Sự can thiệp của quyền uy & cú đảo ngược cuối cùng
+Nguyên tắc dựng phim
+Giữ nguyên cấu trúc chính gồm ba cảnh quay liên tục xuyên suốt bộ phim.
+Ba cảnh quay lần lượt hoàn thành:
+Thiết lập luật lệ
+Phá vỡ luật lệ
+Trả giá cho sự vi phạm
+Nhịp điệu hài hước
+Phân đoạn 1: Bình tĩnh, trật tự
+Phân đoạn 2: Tăng tốc đột ngột, múa kiếm đẹp mắt, đóng băng bất ngờ
+Phân đoạn 3: Sư phụ điềm tĩnh xuất hiện, hai người vội vã xin lỗi, ánh mắt im lặng cuối cùng
+Các khoảng dừng phải phục vụ mục đích gây hài, không cố tình kéo dài để đủ thời lượng.
+VIII. Động tác kiếm pháp và Vật lý cơ thể
+Kiếm pháp của Đại sư tỷ
+Sử dụng thanh trường kiếm bạc độc nhất.
+Hành động:
+Rút kiếm → Xoay người chém chéo → Hạ bộ vững vàng → Phát hiện Tiểu sư muội → Dừng lại → Cuối cùng tra kiếm vào vỏ
+Kiếm pháp của Tiểu sư muội
+Sử dụng thanh kiếm thép tối màu độc nhất.
+Hành động:
+Rút kiếm → Chém chéo gọn gàng → Hạ bộ vững vàng → Phát hiện Đại sư tỷ → Dừng lại → Cuối cùng tra kiếm vào vỏ
+Yêu cầu song kiếm
+Động tác chân thực
+Đường kiếm rõ ràng
+Chuyển động cơ thể tao nhã
+Vật lý hợp lý
+Chuyển động vải vóc tự nhiên
+Nhân vật sở hữu kiếm thuật thực thụ
+Nghiêm cấm
+Kỹ xảo khoa trương
+Đấu kiếm thực sự giữa hai người
+Va chạm vũ khí do vô tình
+Múa may vũ khí vô nghĩa
+IX. Diễn xuất nhân vật và Sức căng hài hước
+Đại sư tỷ
+Cảnh 1
+Giữ vững hình tượng Đại sư tỷ đoan trang, cung kính.
+Chỉ hé lộ niềm vui kín đáo khi nghe tin được nghỉ.
+Cảnh 2
+Cẩn thận quan sát xung quanh rồi lén luyện tập.
+Kiếm pháp đẹp mắt.
+Khi phát hiện Tiểu sư muội, uy nghiêm có chút rạn nứt ngắn ngủi.
+Vẫn vô thức giữ vẻ điềm tĩnh.
+Cảnh 3
+Nghe tiếng Sư phụ liền lập tức tra kiếm và xin lỗi.
+Cuối cùng nhìn Tiểu sư muội, bộc lộ sự bất lực tiết chế nhưng rõ ràng.
+Tiểu sư muội
+Cảnh 1
+Vui vẻ nhưng vẫn giữ lễ phép khi nghe tin được nghỉ.
+Cảnh 2
+Lén quay lại luyện tập.
+Động tác cũng đẹp mắt không kém.
+Khi phát hiện Đại sư tỷ, ngạc nhiên trước, sau đó không nhịn được phải lên tiếng.
+Cảnh 3
+Vội vã xin lỗi khi nghe lệnh tập phạt.
+Tạo nên biểu cảm bất lực đồng bộ với Đại sư tỷ ở đoạn kết.
+Sư phụ
+Cảnh 1
+Nghiêm túc tuyên bố ngày nghỉ.
+Cảnh 2
+Rời đi dọc theo con đường đã thiết lập.
+Cảnh 3
+Tự nhiên quay lại sau khi nghe tiếng luyện tập.
+Bình thản tuyên bố tập phạt.
+Đối diện lời xin lỗi của họ với vẻ mặt không đổi, nói:
+"Muộn rồi."
+Nguyên tắc diễn xuất
+Sự hài hước của Sư phụ đến từ:
+Ông càng nghiêm túc, hai người càng bối rối.
+X. Thoại hoàn chỉnh và Khớp môi
+0–5s
+[Sư phụ] "Hôm nay là ngày nghỉ, không ai được phép luyện kiếm!"
+[Đại sư tỷ, Tiểu sư muội Đồng thanh] "Vâng ạ!"
+5–10s
+[Tiểu sư muội] "Đại sư tỷ, tỷ cũng lén luyện tập sao?"
+[Đại sư tỷ] "Muội không phải vậy sao?"
+10–15s
+[Sư phụ] "Thích luyện đến vậy sao? Tập thêm một trăm chiêu nữa."
+[Đại sư tỷ, Tiểu sư muội Đồng thanh] "Sư phụ, chúng con biết lỗi rồi!"
+[Sư phụ] "Muộn rồi."
+Yêu cầu thực thi thoại
+Toàn bộ thoại sử dụng tiếng Phổ thông tự nhiên
+Nhân vật được chỉ định phải nói chính xác
+Khớp môi trùng khớp với âm thanh
+Thoại đồng thanh phải thực sự đồng bộ
+Không thêm các câu thoại giải thích tạm thời
+Khoảng dừng hài hước
+Phải giữ lại:
+Khoảng đóng băng ngắn sau khi phát hiện nhau
+Phản ứng đồng bộ khi Sư phụ bất ngờ xuất hiện
+Ánh mắt im lặng cuối cùng của hai người
+Nguyên tắc cốt lõi
+Hoàn thành mạch tự sự chính thông qua hành động, ánh mắt và các khoảng dừng hài hước của nhân vật.
+XI. Tính liên tục của Nhân vật, Vũ khí và Cảnh quay
+Hai nữ chính
+Phải duy trì nghiêm ngặt:
+Cùng một nhận diện khuôn mặt
+Cùng một dáng mặt và đường nét
+Cùng một kiểu tóc
+Cùng một trang phục
+Cùng một tỷ lệ cơ thể
+Vũ khí
+Đại sư tỷ
+Thanh trường kiếm bạc độc nhất.
+Tiểu sư muội
+Thanh kiếm thép tối màu độc nhất.
+Trạng thái vũ khí
+Cảnh 1:
+Cả hai thanh kiếm đều nằm trong vỏ.
+Cảnh 2:
+Hai người lần lượt rút kiếm để luyện tập.
+Cảnh 3:
+Hai người đồng loạt tra trường kiếm của mình vào vỏ.
+Sư phụ
+Duy trì:
+Cùng một nhận diện nhân vật
+Cùng một ngoại hình
+Cùng một trang phục
+Lộ trình di chuyển thực tế liên tục
+Không gian
+Ba cảnh quay phải giữ nguyên:
+Cùng một nhận diện môi trường
+Cùng một mối quan hệ địa lý
+Cùng một hệ thống kiến trúc
+Cùng một logic ánh sáng
+Cùng một khu vực luyện tập
+Hạn chế nghiêm ngặt
+Nhân vật không được phép thần kỳ:
+Xuất hiện
+Đổi chỗ
+Dịch chuyển tức thời
+XII. Thiết kế âm thanh
+Âm thanh môi trường
+Duy trì âm thanh không gian thực tế phù hợp với môi trường tham chiếu:
+Gió tự nhiên
+Tiếng lá xào xạc
+Tiếng nước chảy (nếu có trong cảnh tham chiếu)
+Âm thanh nền phía xa
+Tiếng ma sát của lụa thật
+Âm thanh kiếm pháp
+Khi rút kiếm và chém:
+Tiếng ma sát rút kiếm chân thực
+Tiếng xé gió ngắn, gọn của lưỡi kiếm
+Tiếng tay áo kéo căng khi xoay người
+Tiếng bước chân chạm đất chân thực
+Nhịp điệu âm thanh hài hước
+Cảnh 1
+Chủ yếu là âm thanh môi trường tự nhiên và thoại nhân vật.
+Cảnh 2
+Các động tác kiếm đẹp mắt mang lại những tiếng xé gió ngắn.
+Sau khi phát hiện nhau, giữ lại những khoảng dừng tự nhiên đủ rõ ràng.
+Cảnh 3
+Sư phụ cất lời bình thản.
+Tiếng ma sát vỏ kiếm tự nhiên khi hai người vội tra kiếm.
+Câu thoại cuối:
+"Muộn rồi."
+Sau đó, kết thúc bằng ánh mắt im lặng của hai người.
+XIII. Yêu cầu thực thi cuối cùng của Seedance 2.0 Mini
+Thông số cơ bản
+Hoàn thành chính xác 15 giây
+16:9 Ngang
+Ba cảnh quay tự sự rõ ràng
+Trọng tâm thực thi cốt lõi
+Nhận diện hai nhân vật chính nhất quán
+Nhận diện và lộ trình di chuyển của Sư phụ liên tục
+Không gian địa lý của ba cảnh quay liên tục
+Kiếm pháp chân thực và tao nhã
+Phản ứng bối rối của hai người đồng bộ tự nhiên
+Diễn xuất hài lạnh của Sư phụ tiết chế
+Toàn bộ thoại tiếng Phổ thông và khớp môi chính xác
+Môi trường sống động tự nhiên và trung lập về mặt tự sự
+Nghiêm cấm
+Thay đổi khuôn mặt đột ngột
+Thay đổi trang phục đột ngột
+Thay đổi kiểu tóc
+Nhân bản trường kiếm hoặc nhầm lẫn chủ sở hữu
+Sư phụ đột ngột dịch chuyển ra sau lưng họ
+Thay đổi bối cảnh địa điểm đột ngột
+Hiệu ứng phép thuật không liên quan
+Va chạm vũ khí thực sự giữa hai người
+Slow-motion không cần thiết
+Hài kịch hình thể khoa trương
+Chuyển động máy quay nhanh vô nghĩa
+Yếu tố hiện đại
+Phụ đề
+Tiêu đề
+Watermark
+XIV. Tiêu chí nghiệm thu cuối cùng
+Phải thể hiện trọn vẹn bảy sự kiện then chốt sau:
+Sư phụ dõng dạc tuyên bố ngày nghỉ, cấm luyện kiếm.
+Đại sư tỷ và Tiểu sư muội cung kính đáp lời và rời đi theo hai hướng ngược nhau.
+Đại sư tỷ lén quay lại luyện tập, hoàn thành những đường kiếm đẹp mắt.
+Tiểu sư muội cũng lén quay lại, hoàn thành các đường kiếm độc lập.
+Hai người phát hiện ra nhau, trải qua sự bối rối ngắn ngủi và chất vấn lẫn nhau.
+Sư phụ quay lại theo đường cũ, tuyên bố phạt thêm một trăm chiêu.
+Hai người đồng thanh xin lỗi, bị bảo là muộn rồi, cuối cùng bất lực nhìn nhau trước khi cắt sang màn hình đen.
+Điểm rơi hài kịch cuối cùng
+Hai người sợ bị đối phương lén vượt mặt nhất lại cùng nhau bị phạt tập bổ sung.
+Tiếng cười thực sự đến từ:
+Kiếm pháp của họ rất cao cường, nhưng suy nghĩ của họ lại bị Sư phụ nhìn thấu.
+XV. Negative Prompt
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117170492784410624/img/4xtXWA3SnTajsD5_.jpg" width="600" alt="Seedance 2.0 Mini Cổ trang Tiên hiệp Hài hước Video Prompt">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13439)**
+
+**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2117171375064719437) | **Đã xuất bản:** Nov 2, 2026
+
+---
+### Prompt Video Tiên Hiệp Điện Ảnh Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt chi tiết để tạo một đoạn phim ngắn tiên hiệp điện ảnh dài 15 giây bằng Seedance 2.0 Mini. Prompt này quy định tính nhất quán của nhân vật qua các hình ảnh tham chiếu, chuyển động máy quay, phong cách ánh sáng (chất lượng Arri Alexa) và cấu trúc kể chuyện ba hồi liên quan đến mất trí nhớ và sự đảo ngược cảm xúc.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | "Nhận Ra Nhau Lần Nữa"
+
+Mô hình: Seedance 2.0 Mini
+Thời lượng: Chính xác 15 giây
+Tỷ lệ khung hình: 16:9 Ngang
+Thể loại: Tiên hiệp cổ trang Trung Quốc thuần túy / Cú twist cảm xúc / Tâm lý hồi hộp / Kịch tính mối quan hệ nhân vật
+Cấu trúc: Ba cảnh phim điện ảnh liên tục, rõ ràng với các chức năng tự sự khác nhau.
+I. Phong cách tổng thể và Định hướng sáng tạo
+Phim ngắn tiên hiệp cổ trang Trung Quốc siêu thực chuẩn điện ảnh.
+Xây dựng cú twist cảm xúc mang màu sắc kỳ ảo thông qua các yếu tố sau:
+Thế giới tiên hiệp hoành tráng nhưng chân thực
+Diễn xuất tiết chế của nhân vật
+Sự tương phản mạnh mẽ trong mối quan hệ
+Ngôn ngữ máy quay chính xác
+Nhiếp ảnh và chất liệu thị giác
+Áp dụng:
+Chất liệu máy quay phim Arri Alexa
+Làn da người chân thực
+Chất liệu lụa tinh xảo
+Ánh sáng khối tự nhiên
+Hiệu ứng phối cảnh không gian (Aerial perspective)
+Độ sâu không gian thực
+II. Cốt truyện cốt lõi và Cú twist cảm xúc
+Trọng tâm câu chuyện
+Một người cuối cùng cũng đắc đạo thành tiên, nhưng ngay khoảnh khắc phi thăng, lại quên đi người mà mình không muốn quên nhất.
+Sư tỷ Kiếm Tiên sắp sửa phi thăng.
+Thiên Sứ mang theo Phi Thăng Chiếu Chỉ.
+Cái giá phải trả là:
+Xóa bỏ toàn bộ ký ức phàm trần.
+Khi chiếu chỉ có hiệu lực, Sư tỷ thực sự đã quên mất Sư muội.
+Tuy nhiên, cuối cùng nàng lại chủ động cắt đứt khế ước phi thăng.
+Cú twist thực sự
+Sư tỷ không hề khôi phục ký ức.
+Nàng chỉ đơn giản là một lần nữa chọn lấy người đang đứng trước mặt mình.
+Điểm hạ cánh cảm xúc cuối cùng
+"Không. Chúng ta hãy làm quen lại từ đầu."
+Câu thoại này không xuất hiện quá sớm; nó chỉ buông xuống thật tự nhiên ở cảnh cận cuối cùng.
+Nguyên tắc tự sự
+Toàn bộ phân đoạn dẫn dắt câu chuyện thông qua mối quan hệ giữa các nhân vật.
+Không dựa vào:
+Phép thuật quy mô lớn
+Những lời giải thích dài dòng
+Bối cảnh thay đổi đột ngột
+III. Danh tính nhân vật và Khóa tài sản cốt lõi
+Nhân vật A | @Image1 | Sư tỷ Kiếm Tiên
+Danh tính
+Cùng một nữ giới Đông Á trưởng thành, độ tuổi 25-30.
+Tuân thủ nghiêm ngặt danh tính nhân vật và đường nét khuôn mặt từ ảnh tham chiếu.
+Ngoại hình cố định
+Khuôn mặt trái xoan trắng trẻo tự nhiên
+Đôi mắt hạnh đen láy
+Tóc đen dài buộc nửa
+Cố định bằng trâm ngọc trắng
+Vóc dáng cao ráo, thanh mảnh
+Trang phục cố định
+Hán phục lụa thật thêu hoa văn màu trắng
+Tay áo rộng xếp lớp bán trong suốt
+Ấn lưng bạc
+Ngọc bội
+Ủng vải trắng
+Vũ khí độc quyền
+Thanh trường kiếm bạc duy nhất.
+Tính liên tục của tài sản
+Các yếu tố sau phải giữ nguyên sự nhất quán xuyên suốt:
+Khuôn mặt
+Kiểu tóc
+Hình thể
+Trang phục
+Kiếm bạc
+Ngọc bội
+Nhân vật B | @Image2 | Sư muội
+Danh tính
+Cùng một nữ giới Đông Á trưởng thành, độ tuổi 20-25.
+Tuân thủ nghiêm ngặt danh tính nhân vật và đường nét khuôn mặt từ ảnh tham chiếu.
+Ngoại hình cố định
+Khuôn mặt tròn đầy, sáng sủa
+Tóc đen dài tết bím
+Vóc dáng nhỏ nhắn
+Trang phục cố định
+Hán phục vải lanh màu xanh lục lam
+Thắt lưng tối màu
+Trâm gỗ
+Giày vải đen
+Vũ khí độc quyền
+Thanh kiếm thép đen duy nhất.
+Hạn chế hành động cho phân đoạn này
+Sư muội không cần rút kiếm trong thước phim này.
+IV. Nhân vật phụ mới
+Thiên Sứ
+Một sứ giả cổ trang trưởng thành với phong thái uy nghiêm.
+Trang phục
+Áo lễ nghi màu vàng kim nhạt sang trọng nhưng kín đáo.
+Đạo cụ cốt lõi
+Tay cầm cuộn Phi Thăng Chiếu Chỉ bằng lụa vàng.
+Yêu cầu diễn xuất
+Sự uy nghi của nhân vật đến từ:
+Tư thế vững chãi
+Giọng nói điềm tĩnh
+Không cần thêm hiệu ứng tiên khí cường điệu.
+Sư phụ
+Đứng phía sau, chứng kiến lựa chọn của hai đồ đệ.
+Đệ tử trong môn phái
+Hai đệ tử đứng xa hơn, đóng vai trò là những nhân chứng tự nhiên trong bối cảnh.
+Hạn chế chung cho nhân vật phụ
+Cả ba nhóm nhân vật phụ đều không được chiếm lĩnh không gian diễn xuất của nhân vật chính.
+V. DNA Bối cảnh và Môi trường
+Tất cả ảnh tham chiếu bối cảnh và địa điểm được tải lên trong vòng này cùng nhau định hình nên thế giới tồn tại về mặt vật lý.
+Quy hoạch môi trường
+Thiết lập logic không gian thống nhất dựa trên ảnh tham chiếu.
+Phải bảo toàn:
+Đặc trưng địa hình
+Bố cục kiến trúc
+Độ cũ kỹ của vật liệu
+Thảm thực vật
+Mặt nước
+Thời tiết
+Các tầng mây
+Hướng ánh sáng chính
+Mối quan hệ phản chiếu
+Bảng màu tổng thể
+Độ sâu không khí
+Máy quay và Thay đổi không gian
+Cho phép tìm kiếm lại các vị trí phù hợp cho:
+Góc máy
+Độ sâu trường ảnh
+Vị trí nhân vật
+Không phải mọi cảnh quay đều cần hiển thị tất cả các điểm mốc cùng lúc.
+Nhưng các công trình quan trọng, địa hình tự nhiên và hướng ánh sáng phải có tính liên tục về mặt không gian.
+Nguyên tắc bối cảnh sống
+Bối cảnh luôn duy trì trạng thái tự nhiên và tràn đầy sức sống.
+Động lực học tự nhiên
+Gió thổi lá bay
+Mây mù trôi chảy tự nhiên
+Tóc bay theo gió
+Tay áo lay động tự nhiên
+Mặt nước và hình ảnh phản chiếu duy trì chuyển động thực tế
+Các bóng người ở xa có thể có hoạt động tự nhiên
+Tính trung lập trong tự sự của môi trường
+Bối cảnh chỉ đảm nhận việc hiện diện như thế giới thực.
+Nó không gánh vác chức năng thúc đẩy cốt truyện.
+Yếu tố siêu nhiên duy nhất trong cốt truyện
+Yếu tố siêu nhiên duy nhất trực tiếp ảnh hưởng đến cốt truyện trong thước phim này là Thiên Đạo Phi Thăng Chiếu Chỉ.
+VI. Cấu trúc ba cảnh hoàn chỉnh trong 15 giây
+0-5s | Cảnh 1: Cái giá của sự phi thăng
+Cỡ cảnh
+Toàn cảnh (Wide Shot)
+Chuyển động máy quay
+Máy quay tiến chậm dọc theo không gian nghi lễ.
+Trạng thái mở đầu
+Bắt đầu trực tiếp vào nghi thức phi thăng.
+Sư tỷ Kiếm Tiên và Sư muội đứng cạnh nhau.
+Thiên Sứ đứng trước mặt họ, mở ra cuộn Phi Thăng Chiếu Chỉ bằng lụa vàng cổ kính và sang trọng.
+Có thể nhìn thấy Sư phụ và vài đệ tử ở phía xa.
+Nút thắt cốt truyện thứ nhất: Tuyên bố cái giá phải trả
+Thiên Sứ trang nghiêm tuyên bố:
+[Thiên Sứ] "Nhận chiếu chỉ, quên đi quá khứ."
+Phản ứng của Sư tỷ
+Nghe vậy, Sư tỷ không hề tỏ ra sợ hãi.
+Nàng quay đầu nhìn Sư muội.
+Ánh mắt dịu dàng, mang theo sự thân thuộc của những tháng ngày gắn bó.
+[Sư tỷ] "A Ninh, đợi ta."
+Nút thắt cốt truyện thứ hai: Chủ động nhận chiếu chỉ
+Sau đó, Sư tỷ chủ động đưa tay phải ra nhận chiếu chỉ.
+Một sợi quang tuyến vàng cực mảnh từ từ nhô ra từ mép chiếu chỉ.
+Sợi quang tuyến tự nhiên kéo dài và bám vào cổ tay Sư tỷ.
+Ngay lúc này, chiếu chỉ bắt đầu phát huy tác dụng.
+Nút thắt cốt truyện thứ ba: Ký ức biến mất
+Không miêu tả như bị sét đánh hay bị pháp thuật ép buộc khống chế.
+Sư tỷ chỉ lộ ra một biểu cảm trống rỗng trong tích tắc.
+Sự ấm áp trong ánh mắt khi nhìn Sư muội bỗng chốc tan biến.
+Kết thúc cảnh
+Cắt sang đôi mắt Sư muội nhận ra điều bất thường.
+Trọng tâm đạo diễn cho Cảnh 1
+Thể hiện sự đứt gãy đột ngột từ thân thuộc sang xa lạ thông qua sự thay đổi trong ánh mắt của cùng một nhân vật.
+Không cần hiệu ứng ma thuật cường điệu.
+5-10s | Cảnh 2: Nàng thực sự đã quên
+Cỡ cảnh
+Trung cận cảnh (Medium Close-Up)
+Chuyển động máy quay
+Rà ngang nhẹ để giữ rõ biểu cảm khuôn mặt và sợi quang tuyến vàng.
+Yêu cầu tính liên tục
+Luôn duy trì:
+Cùng một không gian
+Cùng một cuộn chiếu chỉ
+Cùng một sợi quang tuyến vàng
+Cùng một Sư tỷ Kiếm Tiên
+Nút thắt cốt truyện thứ nhất: Sự xa lạ hoàn toàn
+Sư tỷ từ từ quay đầu nhìn Sư muội.
+Biểu cảm của nàng không có ác ý, cũng chẳng hung tợn như ma quỷ.
+Chỉ là sự xa lạ hoàn toàn.
+Như thể đang đứng trước một người qua đường chưa từng quen biết.
+Sư tỷ khẽ hỏi:
+[Sư tỷ] "Cô nương, cô là ai?"
+Phản ứng chân thực của Sư muội
+Sư muội sững người ngay lập tức.
+Nàng vốn định cất lời.
+Nhưng khi đôi môi vừa hé mở, chẳng có âm thanh nào thoát ra.
+Sự xa lạ đột ngột này còn ám ảnh hơn cả tiếng khóc nức nở.
+Nút thắt cốt truyện thứ hai: Lời giục giã của Thiên Sứ
+Thiên Sứ bình thản nói bên cạnh:
+[Thiên Sứ] "Phàm duyên đã dứt, xin mời bước lên tiên đạo."
+Nút thắt cốt truyện thứ ba: Chạm vào nhau theo thói quen
+Sư muội nhìn Sư tỷ.
+Theo bản năng, nàng đưa tay ra đỡ nhẹ cổ tay cầm kiếm vẫn đang hơi run của Sư tỷ.
+Đây là thói quen tự nhiên hình thành sau thời gian dài gắn bó.
+Phản ứng thể chất của Sư tỷ
+Dù Sư tỷ không còn nhận ra nàng, nhưng cũng không cự tuyệt sự tiếp xúc này.
+Nàng vô thức thả lỏng cổ tay, để mặc Sư muội nắm lấy.
+Khoảng dừng ngắn.
+Nút thắt cốt truyện thứ tư: Phát hiện khế ước tiên đạo
+Ánh mắt Sư tỷ di chuyển từ bàn tay Sư muội sang sợi quang tuyến vàng vẫn đang nối liền với chiếu chỉ trên cổ tay mình.
+Nàng nhận ra:
+Người xa lạ trước mặt này dường như từng có mối quan hệ rất sâu đậm với mình.
+Nàng đưa ra quyết định.
+Kết thúc cảnh
+Cắt sang bàn tay đang cầm kiếm của nàng.
+Trọng tâm đạo diễn cho Cảnh 2
+Hoàn thiện sự chuyển biến tâm lý qua ba hành động này:
+Sư tỷ nhìn Sư muội bằng ánh mắt hoàn toàn xa lạ.
+Sư muội nắm lấy cổ tay, Sư tỷ theo bản năng thả lỏng.
+Sư tỷ phát hiện sợi quang tuyến vàng nối với chiếu chỉ.
+Không sắp xếp các cảnh hồi tưởng ký ức.
+Không để Sư tỷ đột ngột lấy lại ánh mắt thân quen.
+10-15s | Cảnh 3: Nhận ra nhau lần nữa
+Cỡ cảnh
+Cận cảnh nhân vật, cuối cùng hội tụ về cận cảnh đôi bàn tay.
+Nút thắt cốt truyện thứ nhất: Chủ động cắt đứt khế ước tiên đạo
+Sư tỷ từ từ rút cổ tay khỏi bàn tay Sư muội.
+Nàng không bước về phía Thiên Sứ.
+Thay vào đó, nàng dùng tay phải rút thanh trường kiếm bạc.
+Thiên Sứ ban đầu tưởng nàng chuẩn bị hoàn tất việc phi thăng.
+Nhưng ngay khoảnh khắc tiếp theo, Sư tỷ hướng lưỡi kiếm bạc về phía sợi quang tuyến vàng đang nối với cổ tay mình.
+Hành động then chốt
+Một nhát chém sạch sẽ, chính xác.
+Sợi quang tuyến đứt lìa ngay lập tức.
+Ánh sáng vàng mỏng manh tan biến tự nhiên.
+Quầng sáng mờ ảo tỏa ra từ chiếu chỉ cũng vụt tắt.
+Xử lý nghe nhìn
+Không bao gồm:
+Vụ nổ lớn
+Sấm sét
+Tác động ma thuật cường điệu
+Chỉ cần:
+Một hành động chém dứt khoát, theo sau là sự tĩnh lặng.
+Nút thắt cốt truyện thứ hai: Sư muội ngỡ rằng ký ức đã trở về
+Sư muội nhìn Sư tỷ.
+Hy vọng lại lóe lên trong mắt nàng.
+Nàng khẽ hỏi:
+[Sư muội] "Huynh nhớ ra rồi sao?"
+Khoảng dừng
+Để lại một khoảng dừng tự nhiên trọn vẹn.
+Nút thắt cốt truyện thứ ba: Cú twist thực sự
+Sư tỷ nhìn nàng.
+Không có phép màu nào giúp toàn bộ ký ức đột ngột ùa về.
+Nàng chỉ bình thản đáp:
+[Sư tỷ] "Không."
+Ánh mắt Sư muội hơi chùng xuống.
+Ngay khi nàng nghĩ mọi chuyện đã kết thúc, Sư tỷ từ từ hạ thanh trường kiếm.
+Đưa bàn tay trái trống không về phía nàng.
+Giọng nói rất khẽ:
+[Sư tỷ] "Chúng ta hãy làm quen lại từ đầu."
+Nút thắt cốt truyện thứ tư: Nắm tay lần nữa
+Sư muội sững người.
+Rồi cuối cùng, nàng từ từ đặt tay mình vào lòng bàn tay Sư tỷ.
+Hạn chế diễn xuất
+Không:
+Vội vã ôm chầm lấy nhau
+Khóc lóc cường điệu
+Chỉ có hai bàn tay tự nhiên đan vào nhau.
+Trạng thái nhân vật nền
+Trong vùng xóa phông nông phía sau, Thiên Sứ vẫn đứng yên tại chỗ.
+Sư phụ từ từ cụp mắt xuống.
+Khung hình cuối cùng
+Máy quay giữ lại ở:
+Hai bàn tay tự nhiên đan vào nhau.
+Sợi quang tuyến vàng đứt đoạn đang dần tan biến trong không khí phía sau.
+Điểm hạ cánh cảm xúc cuối cùng
+Sư tỷ đã đánh mất ký ức quá khứ.
+Nhưng chính nàng đã chọn một khởi đầu mới.
+VII. Yêu cầu thực thi thống nhất cho Seedance 2.0 Mini
+Thông số video
+Chính xác 15 giây
+16:9 Ngang
+Ba cảnh quay rõ ràng
+Cấu trúc tự sự ba phần
+Thời gian Cỡ cảnh Sự kiện cốt lõi 0-5s Toàn cảnh Nghi thức phi thăng, chiếu chỉ phát huy tác dụng, ký ức bắt đầu biến mất 5-10s Trung cận cảnh Sư tỷ hoàn toàn quên Sư muội, mối quan hệ cảm xúc đứt gãy 10-15s Cận cảnh chuyển sang Cận cảnh bàn tay Sư tỷ chủ động cắt đứt khế ước tiên đạo, chọn lại Sư muội dù không khôi phục ký ức
+VIII. Thoại hoàn chỉnh và Khớp khẩu hình
+Quy tắc thoại
+Tiếng Quan Thoại đồng bộ bản xứ
+Khớp chính xác với chuyển động môi của nhân vật
+Tuân thủ nghiêm ngặt việc chỉ định nhân vật phát thoại
+Không thêm các câu thoại giải thích tạm thời
+Không thêm thuyết minh ngoài màn hình
+0-5s
+[Thiên Sứ] "Nhận chiếu chỉ, quên đi quá khứ."
+[Sư tỷ] "A Ninh, đợi ta."
+5-10s
+[Sư tỷ] "Cô nương, cô là ai?"
+[Thiên Sứ] "Phàm duyên đã dứt, xin mời bước lên tiên đạo."
+10-15s
+[Sư muội] "Huynh nhớ ra rồi sao?"
+[Sư tỷ] "Không. Chúng ta hãy làm quen lại từ đầu."
+Nhịp độ diễn xuất cho câu thoại cuối
+"Không. Chúng ta hãy làm quen lại từ đầu."
+Cho phép một khoảng dừng tự nhiên ở giữa.
+Phải đảm bảo:
+"Không" thể hiện việc ký ức thực sự không hề trở lại
+Khoảng dừng giữ lại cảm giác hụt hẫng của Sư muội
+"Chúng ta hãy làm quen lại từ đầu" hoàn thiện cú twist cảm xúc thực sự
+Giới hạn thời gian
+Câu thoại cuối không được kéo dài nhân tạo, chiếm dụng thời gian của các hành động khác.
+IX. Bốn lớp ràng buộc liên tục cứng
+1. Tính liên tục của nhân vật
+Với cả hai nhân vật chính, các yếu tố sau phải nhất quán xuyên suốt:
+Đặc điểm khuôn mặt
+Kiểu tóc
+Trang phục
+Hình thể
+Vũ khí
+Yêu cầu đặc biệt
+Sư tỷ phải giữ nguyên khuôn mặt trước và sau khi mất trí nhớ.
+Chỉ phân biệt trạng thái ký ức qua những thay đổi tinh tế trong ánh mắt và biểu cảm.
+2. Tính liên tục của đạo cụ
+Phải luôn là:
+Cùng một cuộn chiếu chỉ lụa vàng
+Cùng một sợi quang tuyến vàng
+Cùng một thanh kiếm bạc
+Thay đổi trạng thái khế ước tiên đạo
+Chiếu chỉ phát huy tác dụng → Sợi quang tuyến nối vào cổ tay → Sư tỷ rút kiếm → Sợi quang tuyến bị chém đứt → Sợi quang tuyến tự nhiên tan biến
+Sau khi sợi quang tuyến bị đứt, nó không được xuất hiện lại ở trạng thái nối liền hoàn chỉnh.
+3. Tính liên tục của hành động
+Sư tỷ phải hoàn thành các hành động theo trình tự nhân quả sau:
+Chủ động nhận chiếu chỉ
+Mất ký ức
+Quan sát Sư muội và sợi quang tuyến
+Rút kiếm
+Chém đứt sợi quang tuyến
+Đưa tay về phía Sư muội
+Mọi hành động đều có chuỗi nhân quả rõ ràng.
+4. Tính liên tục của cảm xúc
+Cảm xúc nhân vật trải qua tuần tự:
+Thân thuộc và kỳ vọng → Xa lạ đột ngột → Khó chấp nhận → Lựa chọn lại → Nhẹ nhõm trong tiết chế
+Không cho phép cảm xúc nhân vật nhảy cóc vô cớ.
+X. Hình ảnh khế ước tiên đạo và Hiệu ứng siêu nhiên
+Sợi quang tuyến vàng
+Sợi quang tuyến vàng phải:
+Tinh xảo
+Chân thực
+Không che khuất khuôn mặt nhân vật
+Duy trì kết nối liên tục với cùng một cuộn chiếu chỉ
+Duy trì mối quan hệ không gian chính xác với cổ tay Sư tỷ
+Hiệu ứng chém đứt
+Sau khi mũi kiếm chém đứt sợi quang tuyến:
+Sợi quang tuyến đứt lìa
+Ánh sáng vàng mỏng manh tan biến tự nhiên
+Quầng sáng ban đầu của chiếu chỉ cũng tắt theo
+Hạn chế thị giác
+Không thêm:
+Chớp sáng quy mô lớn
+Sấm sét
+Tác động pháp thuật cường điệu
+Hiệu ứng ma thuật không liên quan
+XI. Diễn xuất vi mô của nhân vật
+Sư tỷ
+Trước khi mất trí nhớ
+Ánh mắt dịu dàng
+Tự nhiên, thân thuộc với Sư muội
+Biểu cảm điềm tĩnh
+Sau khi mất trí nhớ
+Không ác ý
+Không ma hóa
+Ánh mắt thực sự xa lạ
+Không cự tuyệt sự tiếp xúc tự nhiên của Sư muội
+Quyết định cuối cùng
+Chủ động cắt đứt khế ước tiên đạo
+Không khôi phục ký ức
+Bình thản chọn lại Sư muội đang đứng trước mặt
+Sư muội
+Cảnh 1
+Mang kỳ vọng vào sự phi thăng của Sư tỷ.
+Cảnh 2
+Chuyển từ hoang mang sang khó chấp nhận.
+Môi khẽ hé, nhưng không thốt nên lời.
+Cảnh 3
+Lấy lại hy vọng nhờ khế ước bị cắt đứt
+Thất vọng thoáng qua khi nghe chữ "Không"
+Thấu hiểu lại lựa chọn của Sư tỷ khi nghe "Chúng ta hãy làm quen lại từ đầu"
+Cuối cùng chủ động đặt tay vào lòng bàn tay Sư tỷ
+Nguyên tắc diễn xuất
+Thể hiện qua biểu cảm vi mô, giao tiếp bằng mắt, nhịp thở và cử động tay.
+Không tạo cao trào cảm xúc bằng cách khóc lóc hay ôm ấp cường điệu.
+XII. Nhiếp ảnh và Tính liên tục của môi trường
+Nhiếp ảnh
+Ba cảnh quay duy trì các chức năng rõ ràng:
+Cảnh 1
+Thiết lập nghi thức phi thăng và sự đứt gãy ký ức.
+Cảnh 2
+Quan sát cảm xúc nhân vật và sợi quang tuyến vàng qua trung cận cảnh.
+Cảnh 3
+Hoàn thiện sự lựa chọn chủ động qua cận cảnh và cận cảnh bàn tay.
+Môi trường
+Môi trường luôn duy trì trạng thái tự nhiên và tràn đầy sức sống.
+Bao gồm:
+Gió tự nhiên
+Lá cây
+Mây mù
+Tóc
+Tay áo
+Mặt nước
+Hình ảnh phản chiếu
+Hoạt động của bóng người ở xa
+Môi trường không chủ động tác động đến cốt truyện.
+XIII. Thiết kế âm thanh
+Thoại
+Tiếng Quan Thoại đồng bộ bản xứ.
+Yêu cầu:
+Khớp khẩu hình tiếng Trung chính xác
+Giọng nhân vật rõ ràng
+Cảm giác nhịp thở chân thực
+Thoại tự nhiên
+Nhạc nền
+Phần nhạc sử dụng bầu không khí tiên hiệp cực nhẹ làm tông nền.
+Giảm âm lượng đáng kể sau câu:
+"Cô nương, cô là ai?"
+Cắt đứt khế ước
+Ngay khoảnh khắc khế ước bị cắt đứt, chỉ giữ lại:
+Một tiếng xé gió kim loại nhẹ và rõ
+Tiếng sợi quang tuyến đứt lìa
+Câu thoại cuối
+"Chúng ta hãy làm quen lại từ đầu."
+Phải:
+Rõ ràng
+Sạch sẽ
+Mang cảm giác nhịp thở chân thực
+XIV. Những điều cấm kỵ nghiêm ngặt
+Không thêm cảnh ôm ấp
+Không thêm tiếng la hét/khóc lóc
+Không thêm thuyết minh
+Không thêm cảnh hồi tưởng
+Không thêm yếu tố hiện đại
+Không thêm nhân vật phụ
+Không tạo phụ đề
+Không thực hiện các màn phô diễn ma thuật quy mô lớn
+Không để môi trường chủ động thúc đẩy cốt truyện
+Không thay đổi đặc điểm khuôn mặt nhân vật
+Không thay đổi trang phục và vũ khí của nhân vật
+Không để sợi quang tuyến đứt nối lại
+Không để Sư tỷ đột ngột khôi phục ký ức
+XV. Nguyên tắc tạo sinh cuối cùng
+Khán giả phải nhìn thấy rõ:
+Sư tỷ chủ động nhận chiếu chỉ phi thăng.
+Chiếu chỉ thực sự lấy đi ký ức của nàng về Sư muội.
+Sự tiếp xúc theo thói quen của Sư muội khiến Sư tỷ nhận ra họ từng có mối quan hệ sâu đậm.
+Sư tỷ chủ động cắt đứt khế ước tiên đạo.
+Việc cắt đứt khế ước không khôi phục lại những ký ức đã mất.
+Sư tỷ vẫn chủ động chọn làm quen lại với Sư muội.
+Cả hai cuối cùng tự nhiên nắm tay nhau.
+Yêu cầu cảm xúc cuối cùng
+Ngay cả khi ký ức tan biến, hai người vẫn có thể xây dựng lại mối quan hệ.
+Mọi cốt truyện, hành động, thoại và cú twist cảm xúc đều tuân thủ nghiêm ngặt thời lượng 15 giây hoàn chỉnh của Seedance 2.0 Mini.
+XVI. Negative Prompt
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117159174383783936/img/GrBy3y7uTplAwyq4.jpg" width="600" alt="Prompt Video Tiên Hiệp Điện Ảnh Seedance 2.0 Mini">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13437)**
+
+**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2117159952251040147) | **Đã xuất bản:** Nov 2, 2026
+
+---
+### Prompt Phim Ngắn Tiên Hiệp Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt chi tiết để tạo phim ngắn tiên hiệp điện ảnh dài 15 giây bằng Seedance 2.0 Mini, nổi bật với sự nhất quán về nhân vật, ánh sáng đặc trưng và mạch truyện cảm xúc.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | "Ba Mươi Năm Thọ Mệnh"
+
+Mô hình: Seedance 2.0 Mini
+Thời lượng: Chính xác 15 giây
+Tỷ lệ khung hình: 16:9 Ngang
+Thể loại: Tiên hiệp cổ trang thuần Trung Quốc / Tâm lý ly kỳ / Cú twist cảm xúc / Kịch tính mối quan hệ nhân vật
+Cấu trúc: Ba cảnh quay hoàn chỉnh liên tiếp
+I. Prompt | Phong cách tổng thể và định hướng sáng tạo
+Chất lượng điện ảnh chân thực, thẩm mỹ tiên hiệp cổ trang thuần Trung Quốc.
+Tham chiếu tổng thể:
+Cấu trúc tâm lý ly kỳ của phim điện ảnh trưởng thành
+
+Mối quan hệ nhân vật kiểu võ hiệp
+
+Diễn xuất cảm xúc chân thực
+
+Điều phối âm thanh – hình ảnh tiết chế
+
+Phần hình ảnh sử dụng:
+
+Ánh sáng khối tự nhiên (volumetric light)
+Chi tiết vi mô trên da thật
+Chất liệu lụa và kim loại cao cấp
+Kỹ thuật quay phim có chiều sâu không gian
+
+II. Cốt truyện cốt lõi và cú twist cảm xúc
+
+Tuyến truyện chính
+Tiểu sư muội đột phá ba cảnh giới chỉ trong một đêm, ngỡ rằng cuối cùng cũng đuổi kịp đại sư tỷ, nhưng lại phát hiện ra mình đã phải đánh đổi ba mươi năm thọ mệnh cho sự thăng tiến chóng mặt này.
+Cuối cùng, cô chủ động từ bỏ tu vi.
+Và vị đại sư tỷ mà cô luôn xem là mục tiêu để theo đuổi, lần đầu tiên đã bước về phía cô.
+
+Xung đột cảm xúc thực sự
+
+Xung đột thực sự diễn ra bên trong các nhân vật.
+
+Tiểu Sư Muội
+Khao khát sức mạnh
+Sợ hãi việc mãi mãi không đuổi kịp đại sư tỷ
+Phấn khích khi bất ngờ có được tu vi cường đại
+Phải tự mình đưa ra quyết định sau khi biết cái giá phải trả
+
+Đạo Sĩ Mượn Thọ
+Đạo sĩ mượn thọ lợi dụng sự lo âu của tiểu sư muội.
+
+Đại Sư Tỷ
+Cuối cùng, đại sư tỷ:
+Không gánh chịu cái giá thay tiểu sư muội
+Không dùng những bài giảng đạo dài dòng để khuyên nhủ
+Không quyết định thay cô ấy
+
+Nàng chỉ dùng một hành động cụ thể để nói với tiểu sư muội rằng:
+Khoảng cách giữa hai người chưa bao giờ cần tiểu sư muội phải một mình liều mạng rút ngắn.
+
+III. Nhân vật và khóa tài nguyên (Asset Locking)
+
+Nhân vật A | @Image1 | Đại Sư Tỷ Kiếm Tiên
+Cùng một Đại Sư Tỷ Kiếm Tiên:
+Nữ giới Đông Á trưởng thành, 25-30 tuổi
+Khuôn mặt trái xoan trắng trẻo, mềm mại
+Đôi mắt hạnh đen tự nhiên, sáng trong
+Làn da tinh tế, chân thực
+Tóc đen buộc nửa
+Trâm bạch ngọc
+Dáng người cao ráo, thanh mảnh
+Trang phục cố định
+Hán phục lụa trắng thêu hoa
+Tay áo rộng xếp lớp bán trong suốt
+Ấn bạc đeo eo
+Ngọc bội
+Ủng vải trắng
+Vũ khí độc quyền
+Chỉ một thanh trường kiếm bạc.
+Khí chất nhân vật
+Bình tĩnh
+Tỉnh táo
+Hướng nội
+Cảm xúc được truyền tải qua:
+Ánh mắt
+Nhịp thở
+Những chuyển động cực kỳ tinh tế
+
+Nhân vật B | @Image2 | Tiểu Sư Muội
+Cùng một Tiểu Sư Muội:
+Nữ giới Đông Á trưởng thành, 20-25 tuổi
+Đường nét khuôn mặt tròn trịa, sinh động
+Tóc đen tết bím
+Ngoại hình thiếu nữ trẻ trung, tự nhiên, chân thực
+Trang phục cố định
+Hán phục vải lanh xanh lục lam
+Thắt lưng tối màu
+Trâm gỗ
+Giày vải đen
+Vũ khí độc quyền
+Chỉ một thanh kiếm thép tối màu.
+Trạng thái nhân vật
+Lúc đầu, phấn khích vì bất ngờ có được tu vi cường đại.
+Rõ ràng bàng hoàng sau khi biết cái giá phải trả.
+Sau đó tự mình đưa ra quyết định.
+Vai phụ mới
+Lão Đạo Sĩ Mượn Thọ
+Biểu cảm điềm tĩnh
+Mang lại cảm giác nguy hiểm
+Lợi dụng khao khát sức mạnh của tiểu sư muội
+Đệ tử tông môn ở xa
+Hai đệ tử tông môn đứng xa làm nhân chứng thầm lặng nơi hậu cảnh.
+Giới hạn vai phụ
+Vai phụ không được chiếm mất vị trí chủ thể thị giác của hai nữ chính.
+
+IV. Đạo cụ cốt lõi | Cân Đồng Mượn Thọ
+
+Bố cục đạo cụ
+Một chiếc cân đồng mượn thọ cổ kính.
+Lơ lửng phía trên cân:
+Ba viên châu cảnh giới màu vàng kim có cùng kích thước và chất liệu.
+Thiết lập châu cảnh giới
+Ba viên châu cảnh giới tương ứng với ba tầng tu vi đã mượn.
+Mối quan hệ vay mượn được thể hiện qua:
+Cân đồng
+Ba viên châu cảnh giới
+Sự thay đổi linh lực trên cơ thể nhân vật
+Yêu cầu thị giác
+Không dựa vào văn bản do AI tạo ra có thể đọc được.
+
+V. DNA môi trường và quy hoạch không gian
+
+Tất cả hình ảnh tham chiếu bối cảnh và địa điểm mới tải lên sẽ quyết định thế giới vật lý thực tế.
+Kế thừa môi trường
+Tổng hợp từ hình ảnh tham chiếu:
+Địa hình thực
+Quan hệ không gian kiến trúc chính
+Tỷ lệ
+Chất liệu
+Thảm thực vật
+Mặt nước
+Thời tiết
+Mây/Sương mù
+Hướng ánh sáng
+Màu sắc
+Độ phản chiếu
+Độ sâu không khí
+Đặt Cân Mượn Thọ một cách tự nhiên tại các vị trí phù hợp với quan hệ vật lý của bối cảnh gốc.
+Yêu cầu bắt buộc về cảnh
+Không được biến bối cảnh tham chiếu thành một khung cảnh tiên hiệp chung chung, xa lạ.
+Nguyên tắc bối cảnh sống
+Các yếu tố sau luôn thay đổi tự nhiên:
+Gió
+Mây/Sương mù
+Mặt nước
+Thảm thực vật phía xa
+Chất liệu vải trang phục
+Âm thanh môi trường
+Môi trường duy trì trạng thái:
+Có sức sống
+Trọn vẹn
+Mang sức sống không gian chân thực
+Trung lập trong tự sự
+Môi trường không được phép:
+Chủ động tạo ra xung đột
+Quyết định số phận nhân vật
+
+VI. Storyboard hoàn chỉnh 15 giây
+0-5s | Cảnh 1: Toàn cảnh đẩy vào trung cảnh | Đột Phá Cảnh Giới Trong Một Đêm, Cái Giá Lộ Diện
+Ngôn ngữ máy quay
+Máy quay từ từ đẩy tới từ góc ba phần tư hơi thấp.
+Đạo cụ tiền cảnh
+Tiền cảnh là một chiếc cân đồng cổ kính.
+Ba viên châu cảnh giới màu vàng kim lơ lửng trên đĩa cân, tỏa ra ánh sáng linh lực vàng dịu nhẹ, không phô trương.
+Vị trí nhân vật
+Tiểu sư muội đứng cạnh chiếc cân, ánh mắt vẫn còn lưu giữ sự kinh ngạc khi đột phá ba cảnh giới chỉ trong một đêm.
+Đại sư tỷ đứng phía sau, lệch sang một bên.
+Đạo sĩ mượn thọ đứng gần chiếc cân, ngước mắt lên.
+Cú twist lớp 1: Cái giá lộ diện
+Lão đạo sĩ cất giọng bình thản đến rợn người.
+[Đạo sĩ] "Một đêm, ba cảnh giới. Ba mươi năm thọ mệnh."
+Phản ứng của tiểu sư muội
+Nụ cười trên môi cô tắt lịm.
+Cô không lùi bước ngay, mà theo bản năng nhìn về phía ba viên châu cảnh giới vàng kim.
+[Tiểu sư muội] "Ngươi không nói rằng ta phải trả giá bằng mạng sống!"
+Phản ứng của đại sư tỷ
+Máy quay dùng hiệu ứng chuyển nét nhẹ để đại sư tỷ bất chợt nhìn xuống chiếc cân đồng.
+Kết thúc cảnh 1
+Cảnh 1 khép lại với sự bàng hoàng của tiểu sư muội.
+Lưu ý cho đạo diễn
+Vạch trần cái giá khổng lồ ngay từ những giây đầu tiên
+Không thêm các màn thi triển pháp thuật vô nghĩa
+Ba viên châu cảnh giới và một câu thoại đủ để khán giả hiểu "thiên tài đột phá" thực chất mang ý nghĩa gì.
+
+5-10s | Cảnh 2: Cận trung cảnh | Chủ Động Hoàn Trả Cảnh Giới
+Ngôn ngữ máy quay
+Giữ nguyên trục di chuyển của nhân vật.
+Máy quay cắt sang bên cạnh chiếc cân đồng.
+Khung hình đồng thời chứa:
+Đại sư tỷ
+Tiểu sư muội
+Đạo sĩ mượn thọ
+Nửa thân trên của cả ba người.
+Đại sư tỷ xác nhận khả năng hoàn trả
+Đại sư tỷ không trách cứ tiểu sư muội.
+Nàng chỉ nhìn lão đạo sĩ và hỏi thẳng:
+[Đại sư tỷ] "Có thể trả lại không?"
+Lão đạo sĩ khẽ gật đầu.
+[Đạo sĩ] "Trả cảnh giới, hoàn thọ mệnh."
+Quyết định tự nguyện của tiểu sư muội
+Tiểu sư muội nhìn ba viên châu cảnh giới mà mình đang sở hữu.
+Ở khoảnh khắc này, tuyệt đối không sắp đặt đại sư tỷ giúp cô đưa ra quyết định.
+Tiểu sư muội tự vươn tay, lấy ba viên châu cảnh giới khỏi vị trí lơ lửng và lần lượt đặt chúng trở lại đĩa cân.
+[Tiểu sư muội] "Trả lại."
+Quá trình vật lý và thị giác của việc hoàn trả tu vi
+Ánh sáng vàng kim trên bề mặt ba viên châu cảnh giới thu dần vào trong.
+Luồng linh lực cường đại vốn có trên người tiểu sư muội cũng theo đó chảy ngược trở lại.
+Cô chủ động từ bỏ ba cảnh giới vừa đạt được.
+Giải trừ quan hệ vay mượn
+Toàn bộ tu vi vay mượn được hoàn trả
+Món nợ ba mươi năm thọ mệnh được xóa bỏ
+Tính liên tục của nhân vật
+Nhân vật không đột ngột:
+Già đi
+Biến dạng
+Thay đổi trang phục
+Lưu ý cho đạo diễn
+Sức nặng của cảnh này đến từ sự lựa chọn tự nguyện.
+Tiểu sư muội không hề:
+Hoàn trả cảnh giới theo lệnh của đại sư tỷ
+Chờ đợi người khác gánh chịu cái giá thay mình
+Cô tự tay cầm lấy châu cảnh giới và tự tay đặt chúng trở lại.
+Máy quay thể hiện quá trình này qua:
+Chuyển động tay chân thực
+Luồng linh lực chảy ngược rõ ràng
+
+10-15s | Cảnh 3: Cận cảnh đẩy vào đặc tả nhân vật | Khoảng Cách Thực Sự
+Trạng thái mở đầu
+Ba viên châu cảnh giới lại nằm yên tĩnh trong đĩa cân đồng.
+Đạo sĩ mượn thọ nhìn tiểu sư muội, người mà tu vi đã trở về nguyên trạng.
+Lão đạo sĩ cố gắng lay chuyển ý chí của cô lần cuối
+[Đạo sĩ] "Vậy ngươi lấy gì để đuổi kịp nàng ta?"
+Nỗi sợ thực sự của tiểu sư muội
+Tiểu sư muội nhìn về phía đại sư tỷ áo trắng.
+Những ngón tay nắm chặt vỏ kiếm hơi siết lại.
+[Tiểu sư muội] "Ta..."
+Giọng nói khựng lại.
+Cô thực sự sợ hãi.
+Cô từng nghĩ rằng:
+Chỉ khi đuổi kịp tu vi của đại sư tỷ, cô mới đủ tư cách mãi mãi đứng cạnh nàng.
+Cú twist cảm xúc thực sự: Đại sư tỷ bước lại gần
+Ngay lúc đó, đại sư tỷ không tiếp tục đứng yên tại chỗ.
+Nàng chủ động bước về phía tiểu sư muội.
+[Đại sư tỷ] "?"
+Chuyển động máy quay
+Máy quay hơi lia theo chuyển động của đại sư tỷ.
+Nàng dừng lại bên cạnh tiểu sư muội, đứng trên cùng một đường ngang với cô.
+[Đại sư tỷ] "Ta ở ngay đây."
+Phản ứng cuối cùng của tiểu sư muội
+Tiểu sư muội chậm rãi ngẩng đầu.
+Cảm xúc thay đổi theo trình tự:
+Ngạc nhiên
+Nhẹ nhõm
+Một nụ cười rất nhẹ, tự nhiên
+Giới hạn diễn xuất
+Không có:
+Ôm ấp
+Khóc lóc
+Những lời tỏ bày khoa trương
+Trạng thái kết thúc
+Chiếc cân đồng trở lại vẻ tĩnh lặng.
+Đạo sĩ mượn thọ không nói thêm lời nào.
+Hình ảnh cuối cùng đọng lại ở:
+Khoảnh khắc hai người đứng sóng vai.
+
+VII. Điểm neo cảm xúc cuối cùng
+Tiểu sư muội đã mất đi ba cảnh giới vay mượn.
+Người mà cô thực sự muốn đuổi kịp đã chủ động bước đến bên cô.
+Kết quả phải được bảo toàn chân thực
+Sau khi câu chuyện kết thúc:
+Tu vi không đột nhiên hồi phục
+Đạo sĩ mượn thọ không ban thưởng ngầm
+Món nợ ba mươi năm thọ mệnh đã được giải trừ
+Mối quan hệ giữa hai người thay đổi thông qua hành động thực tế
+Cái giá và kết quả của mọi lựa chọn đều được bảo toàn chân thực.
+VIII. Ràng buộc thực thi của Seedance 2.0 Mini
+Thông số video
+Chính xác 15 giây
+16:9 Ngang
+Ba cảnh quay hoàn chỉnh liên tiếp
+Cấu trúc cảnh quay
+Thời gian | Cỡ cảnh | Chức năng tự sự
+0-5s | Toàn cảnh sang Trung cảnh | Đột phá cảnh giới trong một đêm, cái giá lộ diện
+5-10s | Cận trung cảnh | Tiểu sư muội chủ động hoàn trả cảnh giới
+10-15s | Cận cảnh sang Đặc tả | Đại sư tỷ bước lại gần
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117151444751290368/img/PMwAHzpHjgEfkRHF.jpg" width="600" alt="Prompt Phim Ngắn Tiên Hiệp Seedance 2.0 Mini">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13434)**
+
+**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2117152909758730271) | **Đã xuất bản:** Nov 2, 2026
+
+---
+### Phim ngắn chiến đấu Tiên Hiệp Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt chi tiết cho Seedance 2.0 Mini để tạo phim ngắn chiến đấu kỵ binh Tiên Hiệp Trung Quốc siêu thực 15 giây mang tên 'Seizing the Order'. Tập trung vào tính chân thực vật lý, chuyển động máy quay và biên đạo chiến đấu mà không có đối thoại.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | Phim ngắn hiệp chiến kỵ binh tốc độ cao phong cách Tiên hiệp Trung Hoa dài 15 giây
+Cảm giác tiêu đề: "Đoạt Lệnh"
+Thông số cơ bản
+Thời lượng: Chính xác 15 giây
+Tỷ lệ khung hình: Ngang 16:9
+Mô hình: Seedance 2.0 Mini
+Phong cách: Phim ngắn hành động Tiên hiệp Trung Hoa siêu thực chuẩn điện ảnh
+Không thoại / Không phụ đề / Không tiêu đề / Không giao diện (UI)
+I. Phong cách tổng thể và Cốt lõi giao tranh
+Phim ngắn hành động Tiên hiệp Trung Hoa siêu thực chuẩn điện ảnh.
+Dựa trên vật lý thực tế về tốc độ kỵ binh cổ đại, chiều dài vũ khí, quán tính của ngựa chiến và không gian quay đầu, kết hợp cùng khinh công (Qinggong) cự ly ngắn đặc trưng Tiên hiệp Trung Hoa, kiếm pháp sắc bén, nghệ thuật quay phim động và những pha bộc phát tức thời.
+Tham khảo góc máy:
+
+Cách dàn dựng không gian màn ảnh rộng kinh điển của phim võ hiệp
+Lối cắt cảnh hành động bất ngờ theo phong cách Hồ Kim Thuyên (King Hu)
+Góc máy thấp bám sát nhân vật, hiệu ứng thị sai mạnh, chuyển trục chuyển động nhanh và phản hồi va chạm rõ nét của phim hành động hiện đại
+Mục tiêu giao tranh cốt lõi
+Kiếm Tiên áo trắng phải đoạt được cờ lệnh quân sự từ một viên tướng kỵ binh giáp trụ nặng đang lao tới với tốc độ cao, mà không làm tổn thương ngựa chiến.
+Logic xung đột cốt lõi
+Viên tướng kỵ binh dùng tốc độ ngựa chiến + tầm đánh của trường thương để bảo vệ cờ lệnh.
+Sư tỷ sử dụng khả năng đổi hướng cự ly ngắn để chủ động cắt vào lộ trình di chuyển của đối phương trước khi viên tướng kịp hoàn thành vòng quay.
+Cuối cùng, việc đoạt cờ thành công được hoàn tất qua một chuỗi giao tranh tốc độ cao liên tục.
+Nguyên tắc hành động bắt buộc tuân thủ
+Di chuyển tốc độ cao liên tục xuyên suốt bộ phim.
+Kẻ địch phải chủ động tấn công và điều chỉnh chiến thuật.
+Không đứng yên, không chờ đợi để phản đòn.
+Không sử dụng các khuôn mẫu đã lặp lại trước đó: Tước vũ khí
+Khóa yết hầu
+Đổi kiếm hai tay
+Khóa vũ khí
+
+Cao trào đến từ việc: Hoàn thành nhiệm vụ ngay trong lúc di chuyển tốc độ cao.
+II. Tài sản cốt lõi và Khóa nhân vật
+Nhân vật A | @Image1 | Sư tỷ
+Bắt buộc sử dụng chính xác danh tính và ngoại hình nữ giới Đông Á trưởng thành gốc từ Image 1:
+Cùng khuôn mặt
+Tỷ lệ khuôn mặt gốc
+Tóc đen
+Trang phục Tiên hiệp màu trắng
+Trang sức thắt lưng bằng bạc
+Tỷ lệ cơ thể gốc
+Một thanh trường kiếm bạc độc nhất
+Yêu cầu:
+Khuôn mặt và trang phục của nhân vật chính giữ nguyên sự nhất quán.
+Đường nét khuôn mặt thật vẫn rõ ràng ngay cả khi di chuyển tốc độ cao.
+Tóc đen có quán tính tự nhiên khi tăng tốc, dừng đột ngột và rẽ hướng.
+Nhân vật B | @Image2 | Sư muội
+Bắt buộc sử dụng chính xác danh tính và ngoại hình nữ giới Đông Á trưởng thành gốc từ Image 2:
+Cùng khuôn mặt
+Tóc tết màu đen
+Trang phục cổ trang màu xanh lục lam
+Tỷ lệ cơ thể gốc
+Thanh kiếm mang theo ban đầu
+Yêu cầu:
+Phân đoạn này chủ yếu đóng vai trò là người chứng kiến ở cự ly gần.
+Chỉ tham gia pha né tránh khẩn cấp ở phần mở đầu.
+Không đảm nhận các pha giao tranh vũ khí phức tạp.
+Tướng kỵ binh địch
+Một viên tướng kỵ binh cổ đại mặc giáp kim loại tối màu.
+Cầm một cây trường thương (Mao).
+Cưỡi duy nhất một con ngựa chiến cao lớn, vạm vỡ màu nâu sẫm.
+Cố định phía sau yên ngựa là một lá cờ lệnh quân sự màu đỏ sẫm.
+Cờ lệnh không có chữ viết nào đọc được.
+Yêu cầu:
+Tướng kỵ binh, ngựa chiến, trường thương và cờ lệnh phải duy trì sự liên tục cần thiết về ngoại hình và vật thể trong phân đoạn này.
+Không cần khóa chi tiết quá mức về hình dáng khuôn mặt hay hoa văn trên giáp của viên tướng.
+Không thêm kỵ binh thứ hai.
+III. DNA Môi trường và Bối cảnh
+Tất cả hình ảnh tham khảo địa điểm được tải lên lần này sẽ cùng nhau quyết định DNA môi trường.
+Trước khi tạo sinh chính thức, hãy suy luận và đồng nhất dựa trên các hình ảnh tham khảo:
+Địa hình thực tế
+Bố cục công trình
+Thảm thực vật
+Vực nước
+
+Chất liệu
+Ánh sáng
+Thời tiết
+Sương mù miền núi
+Chiều sâu không gian
+Từ những khu vực thực sự tồn tại hoặc có thể suy luận hợp lý từ hình ảnh tham khảo, hãy chọn một lối đi hoặc vùng đất trống đủ rộng để ngựa chiến phi nước đại và quay đầu.
+Yêu cầu về tính liên tục
+Các mối quan hệ vốn có sau đây phải được duy trì kết nối nhất quán:
+Công trình chính
+Địa mạo
+Đường sá
+Vực nước
+Thực vật
+Quan hệ ánh sáng và bóng đổ
+Máy quay có thể quan sát cùng một vị trí từ nhiều hướng khác nhau,
+nhưng không được đột ngột chuyển sang một bối cảnh Tiên hiệp chung chung mới.
+Yêu cầu về hậu cảnh sống động
+Các yếu tố sau tiếp tục chuyển động tự nhiên:
+Gió
+Dòng chảy của nước
+Mây và sương mù
+Chất liệu vải trang phục
+Thảm thực vật
+Sự phản chiếu
+Môi trường phía xa
+Nguyên tắc kể chuyện qua môi trường
+Môi trường luôn trung lập về mặt kể chuyện:
+Không đột ngột tạo ra chướng ngại vật.
+Không đột ngột tạo ra cơ hội.
+Không chiến đấu thay nhân vật chính.
+Không quyết định thắng thua cho bên nào.
+Các phản hồi vật lý thụ động được phép:
+Ngựa chiến giậm chân tạo ra bụi, bùn nước, mảnh vụn trên đường.
+Chuyển động của nhân vật tạo ra tà áo bay, tóc tung, dấu vết đáp đất.
+Yêu cầu liên tục:
+Những hư hỏng trang phục, dấu móng ngựa và vết tích di chuyển đã được tạo ra phải duy trì tính liên tục.
+IV. Kịch bản Storyboard (15 Giây)
+0–5s | Kỵ binh hạng nặng tập kích: Hiểm nguy ngay từ ánh nhìn đầu tiên
+Cảnh 1 | 0.0–1.0s | Góc rộng thấp 24mm
+Máy quay sát mặt đường.
+Cùng một con đường cổ đại chân thực kéo dài vào chiều sâu khung hình.
+Quan hệ khung hình:
+Sư tỷ đứng một bên đường, tay cầm kiếm bạc.
+Sư muội đứng lùi lại phía sau một chút.
+Phía xa, viên tướng kỵ binh giáp nặng cưỡi ngựa chiến nâu sẫm đang lao tới với tốc độ cao.
+Lá cờ lệnh đỏ sẫm phía sau yên ngựa tung bay dữ dội.
+Viên tướng hạ thấp trường thương, mũi thương chĩa thẳng vào Sư tỷ.
+Bốn vó ngựa liên tục nện xuống đất; vai, cổ và bờm chịu tác động bởi quán tính chạy thực tế.
+Tiếng vó ngựa nặng nề lao tới nhanh chóng, tạo ra áp lực tỷ lệ mạnh mẽ giữa tiền cảnh và hậu cảnh.
+
+Cảnh 2 | 1.0–2.8s | Bám ngang tốc độ cao sát mặt đất 28mm
+Máy quay đột ngột di chuyển tốc độ cao ra phía trước-bên hông ngựa chiến.
+Vó ngựa gầm rú lao qua sát máy quay; bụi hoặc bùn nước dưới móng văng ngược ra sau dữ dội tùy theo chất liệu mặt đất thực tế.
+Chiều sâu khung hình đồng thời bao gồm:
+Ngực và vai ngựa chiến
+Các mảnh giáp của viên tướng
+Trường thương
+Cờ lệnh đỏ phía sau
+Viên tướng đột ngột thay đổi góc cầm thương, tung một cú đâm thẳng mãnh liệt về phía Sư tỷ.
+Mũi thương xẹt nhanh qua tiền cảnh của máy quay.
+Cắt cứng (hard cut) ngay khoảnh khắc vũ khí che khuất hoàn toàn khung hình.
+Cảnh 3 | 2.8–5.0s | Cận cảnh góc nghiêng 35mm
+Sư tỷ đột ngột bứt tốc bước chéo sang ngang vào khoảnh khắc cuối cùng.
+Cô không đỡ trực diện con ngựa đang lao tới tốc độ cao, cũng không phản công vào thân ngựa.
+Chuỗi hành động:
+
+Dùng tay đẩy Sư muội ra khỏi đường chạy trong lúc xoay người né trường thương.
+Kiếm bạc chỉ lướt qua làm lệch nhẹ quỹ đạo của mũi thương.
+Viên tướng lập tức vung trường thương ngược lại theo đà; lưỡi thương sượt qua lớp ngoài cùng của ống tay áo rộng thuộc trang phục Sư tỷ, cắt đứt một mảnh lụa mỏng màu trắng.
+Các sợi tơ bị luồng khí tốc độ cao kéo ngược về phía sau.
+Ngựa chiến tiếp tục phi về phía trước.
+Sư tỷ đáp đất và lập tức xoay người, ánh mắt nhanh chóng khóa chặt lá cờ lệnh phía sau yên ngựa.
+Trọng tâm của Phân đoạn 1
+Bắt buộc làm nổi bật:
+Kỵ binh thực sự sở hữu lợi thế tốc độ.
+Vũ khí dài thực sự sở hữu lợi thế tầm đánh.
+Sư tỷ hiện tại vẫn đang bị áp chế.
+5–10s | Truy đuổi ngược: Từ né tránh đến đánh chặn
+
+Cảnh 4 | 5.0–7.2s | Bám ngang tốc độ cao 35mm
+Viên tướng tiếp tục lao về phía trước, bắt đầu vòng cua bán kính lớn tự nhiên tại một đoạn đường đủ rộng phía trước.
+Ngựa chiến phải điều chỉnh theo cơ chế chạy và quay đầu thực tế:
+Tần suất sải chân
+Độ nghiêng thân
+Vị trí đặt bốn vó
+Nghiêm cấm: Ngựa chiến đột ngột quay đầu tại chỗ.
+Sư tỷ không đuổi theo thẳng phía sau đuôi ngựa.
+Sau khi thấy hướng rẽ của viên tướng, cô đột ngột tăng tốc theo đường chéo, chiếm vị trí dọc theo mép trong lộ trình rẽ của đối phương.
+
+Máy quay bám sát tốc độ cao từ vùng lưng dưới/bên hông cô.
+Ống tay áo trắng rộng tung bay dữ dội về phía sau; đế giày liên tục đạp trên mặt đất thực.
+Cô tận dụng một cú nhảy Tiên hiệp (khinh công) ngắn, có thể theo dõi rõ ràng để vượt qua chênh lệch độ cao hợp lý của địa hình gốc, hoặc tăng tốc trực tiếp trên mặt đất.
+Bắt buộc giữ lại:
+Điểm cất cánh rõ ràng
+Lộ trình chuyển động rõ ràng
+Điểm đáp đất rõ ràng
+Nghiêm cấm: Dịch chuyển tức thời.
+Cảnh 5 | 7.2–8.5s | Góc trung-rộng chéo hất lên 28mm
+Máy quay nhanh chóng dâng lên vị trí có thể thấy rõ cả hai lộ trình di chuyển.
+Khung hình thể hiện rõ:
+Viên tướng tiếp tục rẽ theo một cung tròn lớn hơn.
+Sư tỷ cắt vào theo một đường chéo ngắn hơn.
+Hai hướng di chuyển giao nhau.
+Lá cờ lệnh đỏ sẫm luôn tung bay dữ dội phía sau viên tướng.
+Viên tướng đã nhận ra Sư tỷ đang đánh chặn.
+Hắn chủ động thu ngắn khoảng cách cầm thương và điều chỉnh tư thế trên lưng ngựa.
+
+Cảnh 6 | 8.5–10.0s | Cận cảnh va chạm tốc độ cao 50mm
+Khi Sư tỷ áp sát, viên tướng chủ động đâm trường thương thêm một lần nữa.
+Sư tỷ nâng kiếm bạc đón đỡ.
+Kim loại va chạm phát ra âm thanh cực ngắn và sắc lạnh.
+
+Kiếm bạc không hứng trọn lực lao tới, mà chỉ làm chệch hướng mũi thương.
+Dù vậy, lực va chạm vẫn khiến toàn bộ phần thân trên của Sư tỷ bị lệch đi rõ rệt.
+Cô nhanh chóng điều chỉnh bước chân và trọng tâm.
+Kẻ địch không dừng lại; ngựa chiến tiếp tục phi nước đại.
+Hướng di chuyển của hai bên bắt đầu tiến tới song song.
+
+Trọng tâm của Phân đoạn 2
+Quyền chủ động giao tranh bắt đầu đảo chiều, nhưng hiểm nguy vẫn còn đó.
+Sư tỷ không áp đảo hoàn toàn, mà đang tranh giành từng giây và từng tấc lộ trình.
+10–15s | Nhất kiếm đoạt lệnh: Chiến thắng quyết định trong chuyển động tốc độ cao
+Cảnh 7 | 10.0–12.0s | Bám song song cự ly gần 35mm
+Viên tướng lại đè trường thương xuống, cố gắng chặn Sư tỷ ở phía trước.
+Sư tỷ không tiếp tục tấn công vào thân thể viên tướng.
+Cô đột ngột tăng tốc men theo bên hông ngựa chiến.
+Máy quay duy trì trạng thái song song ngắn ngủi với ngựa chiến.
+Khung hình đồng thời hiển thị:
+Chân ngựa đang phi tốc độ cao
+Viên tướng vững vàng trên yên
+
+Trường thương do viên tướng điều khiển
+Sư tỷ và kiếm bạc đang áp sát nhanh chóng
+Viên tướng nhận ra mục tiêu thực sự của cô là lá cờ lệnh.
+Hắn lập tức rút trường thương về, cố phong tỏa đường tiếp cận vị trí yên ngựa của cô.
+Vào khoảnh khắc cuối cùng, Sư tỷ đột ngột thay đổi độ cao cơ thể, cúi thấp người lách qua đường chém của trường thương.
+Mặt phẳng của kiếm bạc một lần nữa gạt nhẹ mũi thương.
+Ở đây, không cần những pha đỡ đòn nặng nề liên tục;
+chỉ cần một cú chạm vũ khí rõ ràng, mãnh liệt và chân thực.
+Cảnh 8 | 12.0–13.5s | Áp sát đột ngột 50mm, Cắt cứng che khuất bởi vũ khí
+Trường thương quét ngang qua trước ống kính.
+Tận dụng việc vũ khí che khuất khung hình để thực hiện một cú cắt cứng cực nhanh.
+Khung hình tiếp theo cắt thẳng sang:
+Cảnh trung-cận Sư tỷ và viên tướng gần như song song.
+Cô hoàn tất một cú tăng tốc khinh công cự ly ngắn có thể thấy rõ;
+kiếm bạc vút ra từ phía sau cơ thể.
+Lưỡi kiếm chỉ chém đứt sợi dây da buộc cờ lệnh phía sau yên ngựa.
+Nghiêm cấm:
+Tấn công ngựa chiến
+Tấn công thân thể viên tướng
+
+Làm hỏng các bộ phận chịu lực của yên cương
+Một vệt sáng kiếm bạc trắng cực ngắn xẹt dọc theo sợi dây da.
+Hai đầu dây đứt lập tức bung ra do lực căng.
+Lá cờ lệnh đỏ sẫm đột ngột tách khỏi yên ngựa.
+Mặt cờ bị luồng khí tốc độ cao cuốn ngược về phía sau.
+Sư tỷ vươn tay ra chộp lấy chính xác cán cờ hoặc sợi dây,
+tự nhiên hoàn tất việc đáp đất trong lúc vẫn tiếp tục di chuyển.
+Toàn bộ chuỗi hành động phải liền mạch;
+không được dừng lại để tạo dáng múa kiếm.
+
+Cảnh 9 | 13.5–15.0s | Góc rộng lùi máy tốc độ cao 24mm
+Do quán tính chuyển động ban đầu, viên tướng và ngựa chiến tiếp tục lao về phía trước dọc theo con đường.
+Viên tướng theo bản năng đưa tay ra sau về phía đuôi yên.
+Vị trí từng buộc cờ lệnh giờ trống trơn.
+Hắn quất ngựa quay đầu dữ dội.
+Máy quay không bám theo việc hắn dừng lại, mà lùi ra sau với tốc độ cao, tái hiện lại mối quan hệ không gian của toàn bộ con đường và cùng một môi trường đó.
+Tiền cảnh khung hình:
+Sư tỷ đã đáp đất vững vàng
+nhưng vẫn bước thêm một bước về phía trước theo hướng di chuyển
+Lá cờ lệnh đỏ sẫm tung bay dữ dội trong gió trên tay cô
+Tà áo trắng, mái tóc đen, ống tay áo rách vẫn tiếp tục chuyển động
+Trung-Hậu cảnh:
+Sư muội vẫn đứng ở vị trí an toàn mà cô đã né tới trước đó
+
+Đang nhìn lá cờ trên tay Sư tỷ
+Xa hơn nữa:
+Viên tướng và ngựa chiến tiếp tục lùi dần vào chiều sâu
+Các yếu tố môi trường vốn có:
+Tiếng gió
+Tiếng nước
+Thảm thực vật
+Sương mù miền núi
+Vẫn hoạt động tự nhiên.
+Chỉ còn lại:
+
+Tiếng vó ngựa mờ dần
+Âm thanh mặt cờ đỏ liên tục đập vào không khí
+Yêu cầu kết thúc
+Không tạo dáng chiến thắng
+Không đóng băng hình slow-motion
+
+Không thêm thoại giải thích
+Kết thúc tự nhiên trong lúc chuyển động liên tục
+
+V. Thực thi Hành động và Góc máy Toàn cục
+Phân chia nhịp điệu
+0–5s
+
+Kỵ binh tốc độ cao tập kích, nhân vật chính buộc phải né tránh.
+5–10s
+Chủ động chiếm lấy mép trong vòng rẽ của kỵ binh, quyền chủ động giao tranh bắt đầu đảo chiều.
+10–15s
+Lượt giao tranh tốc độ cao thứ hai, kiếm đoạt cờ lệnh, viên tướng tiếp tục lao tới nhưng đã mất mục tiêu.
+Số lượng cảnh quay đề xuất
+Sử dụng khoảng 6-8 cú cắt nội bộ có mục đích rõ ràng xuyên suốt bộ phim;
+không yêu cầu chia đều thời lượng một cách máy móc.
+Ngôn ngữ góc máy
+
+24mm: Thiết lập tỷ lệ thực tế giữa kỵ binh và nhân vật.
+28mm Góc thấp: Tăng cường độ tương phản của vó ngựa, mũi thương xẹt qua, và tốc độ tiền cảnh/hậu cảnh.
+35mm Bám sát cơ thể: Thể hiện nhân vật chính chạy, bước ngang, lao chéo, khinh công cự ly ngắn.
+50mm: Nhấn mạnh cú chạm thương-kiếm, áp lực lên cơ thể và pha đoạt cờ chính xác.
+Quay lại góc rộng 24mm ở cuối: Thấy rõ viên tướng, con đường, cờ lệnh và mối quan hệ không gian cuối cùng.
+Nguyên tắc chuyển động máy quay
+Chuyển động máy quay phải được quyết định bởi các yếu tố sau:
+Hướng di chuyển của nhân vật
+Tốc độ ngựa chiến
+
+Đường chém của vũ khí
+
+Sự thay đổi trục giao tranh
+Được phép:
+Lia máy nhanh (whip pan) ngắn
+Cú tracking tốc độ cao
+Đẩy máy vào (Push-in)
+Cắt cảnh tự nhiên khi vũ khí che khuất ống kính
+Nhưng mọi cú cắt đều phải phục vụ thông tin hành động thực tế.
+Nghiêm cấm:
+Lia máy liên tục một cách máy móc
+Làm nhòe chuyển động nghiêm trọng khiến không thể nhận ra nhân vật
+VI. Quy tắc Vật lý Hành động
+Ngựa chiến
+Duy trì nhịp điệu tứ chi thực tế
+Thay đổi trọng tâm thực tế
+Lực cơ bắp thực tế
+Bán kính quay đầu thực tế
+
+Nghiêm cấm:
+Quay đầu tức thì tại chỗ
+Dừng đột ngột
+Trượt lùi
+Viên tướng
+Các động tác cầm, đổi tay cầm, hạ thấp người và chuyển hướng phải liên tục.
+Trường thương phải thể hiện rõ chiều dài, trọng lượng và quán tính quay.
+Sư tỷ
+Khinh công Tiên hiệp chỉ chịu trách nhiệm cho:
+Bộc phát cự ly ngắn
+Thay đổi lộ trình
+Đạt được sự song song tốc độ cao chuẩn điện ảnh
+Nghiêm cấm:
+Dịch chuyển tức thời không có quá trình
+Cảm giác lơ lửng
+Lộn nhào liên tục chỉ để phô diễn
+Va chạm vũ khí
+Mọi cú va chạm vũ khí đều phải có:
+Lực tác dụng rõ ràng
+Phản hồi rõ ràng
+Va chạm ngắn gọn
+Cơ thể bị lệch hoặc bước chân phải điều chỉnh
+Tính liên tục của Vải và Dấu vết
+Trang phục trễ lại khi nhân vật tăng tốc
+Ống tay áo tiếp tục bay khi dừng đột ngột
+Ống tay áo trắng bị rách vẫn giữ nguyên trạng thái hư hỏng
+Cờ lệnh không thể quay lại yên ngựa sau khi bị cắt đứt
+Dấu vết giao tranh không tự động biến mất
+VII. Thiết kế Âm thanh
+Mở đầu
+Tiếng vó ngựa phóng to nhanh chóng, tạo nên áp lực nguy hiểm.
+Vũ khí
+Trường thương: Tiếng xé gió trầm, sắc.
+Kiếm bạc: Tiếng chém tần số cao, ngắn gọn, trong trẻo.
+Va chạm vũ khí: Chân thực, ngắn gọn, có trọng lượng.
+Âm thanh Đạo cụ Quan trọng
+Khi dây da bị cắt: Âm thanh đứt gãy rõ ràng nhưng không cường điệu hóa.
+
+Sau khi cờ lệnh rời khỏi yên ngựa: Tiếng mặt cờ quất vào không khí dữ dội.
+Cấu trúc Âm thanh Kết thúc
+Tiếng vó ngựa mờ dần.
+Tiếng mặt cờ và âm thanh môi trường tự nhiên giữ ở tiền cảnh.
+Nguyên tắc Nhạc nền
+Bộ gõ phong cách Trung Hoa được sử dụng cực kỳ tiết chế.
+Chỉ nhấn nhịp trong hai đợt kỵ binh lao tới và khoảnh khắc đoạt cờ.
+Toàn phim không thoại, không phụ đề, không tiêu đề.
+VIII. Prompt Phủ định Toàn cục
+Nhân vật và Tài sản
+Nghiêm cấm: Thay đổi khuôn mặt nhân vật, thay đổi trang phục, thay đổi kiểu tóc, thay đổi tỷ lệ cơ thể.
+Nghiêm cấm: Nhầm lẫn quyền sở hữu vũ khí giữa nhân vật chính Image 1 và Image 2.
+Nghiêm cấm: Kẻ địch tự nhân bản từ hư không.
+Ngựa chiến
+Nghiêm cấm: Tứ chi bất thường, sáu chân, chân bắt chéo, đầu biến dạng, thiếu nhịp điệu chạy thực tế.
+Nghiêm cấm: Quay đầu tức thì tại chỗ, dừng đột ngột, trượt lùi.
+Nghiêm cấm: Đột ngột biến mất, đổi màu, tráo đổi ngựa.
+Nghiêm cấm: Dừng lại vô cớ.
+Viên tướng và Vũ khí
+Nghiêm cấm: Viên tướng lơ lửng, rời yên rồi lập tức quay lại.
+Nghiêm cấm: Trường thương biến thành kiếm, đao, súng, hoặc tự ngắn lại ngẫu nhiên.
+Nghiêm cấm: Cờ lệnh tự nhân bản, đột ngột biến mất, tự phục hồi.
+Nghiêm cấm: Cờ vẫn nằm im sau khi dây yên bị đứt.
+Logic giao tranh
+Nghiêm cấm: Nhân vật chính làm tổn thương ngựa chiến.
+Nghiêm cấm: Tấn công mà cơ thể không chịu áp lực.
+Nghiêm cấm: Va chạm vũ khí mà không có phản hồi thực tế.
+Nghiêm cấm: Đứng yên chém nhau.
+Nghiêm cấm: Kẻ địch xếp hàng chờ bị đánh.
+Nghiêm cấm: Nhân vật chính liên tục tạo dáng tại chỗ.
+Nghiêm cấm: Lộn nhào liên tục vô nghĩa.
+Nghiêm cấm: Kiếm khí lan rộng ngẫu nhiên.
+Nghiêm cấm: Nổ năng lượng toàn màn hình.
+Nghiêm cấm: Sấm sét và khe nứt không gian ngẫu nhiên.
+Nghiêm cấm: Dịch chuyển tức thời không có quỹ đạo.
+Nghiêm cấm: Nhân vật liên tục biến thành vệt sáng.
+Nghiêm cấm: Slow motion, hit-stop, bullet time thường xuyên.
+Nghiêm cấm: Lặp lại cùng một hành động từ nhiều góc độ.
+Hình ảnh và Môi trường
+Nghiêm cấm: Toàn bộ màn hình không thể nhận ra nhân vật và vũ khí.
+Nghiêm cấm: Cắt cảnh vụn vặt một cách máy móc.
+Nghiêm cấm: Hậu cảnh đột ngột thay đổi.
+Nghiêm cấm: Môi trường tự động giúp nhân vật chính chiến đấu.
+Nghiêm cấm: Các dấu vết rõ ràng do nhân vật tự phục hồi.
+Nghiêm cấm: Máu me thực tế, đứt lìa tay chân và nội tạng.
+Nghiêm cấm: Văn bản, phụ đề, UI, LOGO và watermark thừa.
+Từ phủ định chung
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+IX. Phiên bản Tổng hợp Cuối cùng (Sẵn sàng để Nhập)
+Hiệp chiến kỵ binh tốc độ cao phong cách Tiên hiệp Trung Hoa siêu thực chuẩn điện ảnh dài 15 giây. Cố định @Image1 Sư tỷ Kiếm Tiên áo trắng và @Image2 Sư muội áo xanh lục lam; môi trường kế thừa nghiêm ngặt thế giới vật lý và các mối quan hệ không gian được xác định chung bởi loạt ảnh tham khảo địa điểm của vòng này. Một viên tướng kỵ binh giáp nặng tối màu cưỡi duy nhất một con ngựa chiến nâu sẫm, cầm trường thương lao tới với tốc độ cao, phía sau yên ngựa là lá cờ lệnh đỏ sẫm. Ở phần mở đầu, viên tướng áp chế Sư tỷ bằng tốc độ lao tới và chiều dài ngọn thương; Sư tỷ bảo vệ Sư muội né tránh cú va chạm đầu tiên, ống tay áo trắng của cô bị xé rách; sau đó, viên tướng tiếp tục rẽ duy trì bán kính quay đầu thực tế, Sư tỷ nhận ra sự khác biệt trong lộ trình di chuyển của hai người, dùng khinh công Tiên hiệp ngắn để lao chéo chiếm lấy mép trong vòng rẽ của kỵ binh, tạo thành cuộc truy đuổi đan xen tốc độ cao. Viên tướng nhận ra ý đồ và chủ động thay đổi đường chém của trường thương; hai bên hoàn tất hai cú va chạm vũ khí ngắn gọn, mãnh liệt trong lúc liên tục di chuyển. Cuối cùng, Sư tỷ song song ngắn ngủi men theo bên hông ngựa chiến, dùng kiếm bạc làm chệch hướng mũi thương, sau đó chém đứt chính xác sợi dây da buộc cờ lệnh phía sau yên ngựa chỉ bằng một nhát kiếm, chộp lấy cờ lệnh đỏ và đáp đất liền mạch. Viên tướng và ngựa chiến tiếp tục lao vào khoảng cách xa, chỉ nhận ra đã mất cờ khi ngoái đầu nhìn lại. Toàn bộ bộ phim làm nổi bật nhịp chạy thực tế của ngựa, tốc độ kỵ binh, tầm đánh của vũ khí dài, những pha bộc phát cự ly ngắn của nhân vật, lộ trình không gian rõ ràng, độ tương phản gần-xa mạnh mẽ, các cú cắt cứng mang tính chức năng, phản hồi vật lý chân thực và hiệu ứng âm thanh chuẩn điện ảnh. Hậu cảnh luôn sống động và trung lập về mặt kể chuyện; nhân vật không tạo dáng chiến thắng; cờ, trang phục, tóc, ngựa và môi trường tự nhiên kết thúc trong lúc chuyển động liên tục.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117142223313866754/img/OMthdgTsWVdBd4Yd.jpg" width="600" alt="Phim ngắn chiến đấu Tiên Hiệp Seedance 2.0 Mini">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13436)**
+
+**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2117142880922058932) | **Đã xuất bản:** Nov 2, 2026
+
+---
 ### Prompt Phim Ngắn Tiên Hiệp Cổ Trang Seedance 2.0 Mini
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -4005,527 +6657,6 @@ Giọt nước rơi trở lại mặt sông, thần long tan biến thành sươ
 **Tác giả:** [Zidan 子丹](https://x.com/liluocheng13) | **Nguồn:** [Link](https://x.com/liluocheng13/status/2110225020278743421) | **Đã xuất bản:** Oct 14, 2026
 
 ---
-### Ngày Mệt Mỏi Của Nữ Nhân Viên Văn Phòng Hàn Quốc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết cho video điện ảnh dài 24 giây mô tả thói quen hàng ngày đầy mệt mỏi của một nữ nhân viên văn phòng trẻ người Hàn Quốc.
-
-#### 📝 Prompt
-
-```
-Tạo một video điện ảnh siêu thực tế dài 24 giây về một nữ nhân viên văn phòng trẻ người Hàn Quốc trải qua một ngày làm việc kiệt sức trong môi trường công sở. Hãy thể hiện cảnh cô đánh răng trước gương phòng tắm, chuẩn bị đi làm, bước qua vạch kẻ đường đông đúc tại thành phố Hàn Quốc trong bộ vest xanh navy và cầm theo túi xách đen. Tiếp đó, hiển thị cảnh cô ngồi mệt mỏi trên tàu điện ngầm chật chội với đôi mắt nhắm nghiền, làm việc lặng lẽ tại bàn làm việc bận rộn giữa những chiếc máy tính và đống giấy tờ, rồi ăn trưa trong căng-tin công ty đông người với vẻ mặt rỗng tuếch. Ghi lại các cận cảnh khuôn mặt mệt mỏi, kết cấu da chân thực và nỗi buồn thầm kín trong ánh mắt của cô. Kết thúc bằng cảnh cô đứng uể oải trong tàu điện ngầm trước khi chuyển sang cảnh cô nằm bất động trên ghế sofa ở nhà, vẫn mặc nguyên đồ công sở và đeo thẻ nhân viên. Duy trì sự nhất quán về đặc điểm khuôn mặt, kiểu tóc, trang phục và tỷ lệ cơ thể xuyên suốt video. Sử dụng bối cảnh Hàn Quốc chân thực, ánh sáng tự nhiên, chuyển động máy quay điện ảnh mượt mà, biểu cảm khuôn mặt chi tiết và bảng màu trầm để truyền tải sức nặng cảm xúc của một lịch trình làm việc khắc nghiệt. Toàn bộ video phải đạt độ chân thực như ảnh chụp, không có văn bản, phụ đề hay hình mờ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110206919013199872/img/s6H_5NpANuOxYO0S.jpg" width="600" alt="Ngày Mệt Mỏi Của Nữ Nhân Viên Văn Phòng Hàn Quốc">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12483)**
-
-**Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2110206983999726004) | **Đã xuất bản:** Oct 14, 2026
-
----
-### Prompt Video Hài Tiên Hiệp Cổ Trang Seedance
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt tạo video chi tiết cho Seedance, dựng lên một đoạn phim hài tiên hiệp cổ trang điện ảnh dài 30 giây về hai nữ kiếm khách trốn kỳ nghỉ đông đúc nhưng lại phải trực đêm.
-
-#### 📝 Prompt
-
-```
-Hài Kịch Tiên Hiệp Cổ Trang | Kỳ nghỉ bảy ngày, chân núi quá đông, trên núi phải trực đêm
-
-I. Phong Cách Tổng Thể và Hướng Sáng Tạo
-
-Kết cấu hình ảnh chân thực mang tính điện ảnh, thế giới tiên hiệp Trung Quốc cổ đại thuần túy, kịch bản hài hước đảo ngược lấy cảm hứng từ các mối quan hệ nhân vật đời thường.
-
-Tiếp thu:
-
-Sự lạnh lùng, hài hước kiểu Anh (deadpan humor)
-Nhịp điệu hài kịch tình huống kiểu Hồng Kông
-Khoảng lặng phản ứng và cấu trúc thiết lập - hồi phục của phim câm kinh điển
-
-Diễn xuất nhân vật tự nhiên và tiết chế, không biểu cảm phóng đại, không chồng chất phép thuật cường điệu, không có những cảnh grandiose đột ngột.
-
-Hình ảnh có:
-
-Chất lượng quang học phim cổ điển chân thực
-Chi tiết vi mô khuôn mặt rõ nét, tinh tế
-Hạt phim tự nhiên
-Vật lý vải vóc chân thực
-Ánh sáng thể tích mềm mại
-Các lớp không gian rõ ràng
-
-II. Cốt Truyện Chính và Tuyến Hài Kịch
-
-Toàn bộ phân đoạn chỉ có một tuyến hài kịch chính hoàn chỉnh kéo dài 30 giây:
-
-Sư tỷ Kiếm Tiên và Sư muội cuối cùng cũng được nghỉ bảy ngày, hào hứng xuống núi tìm sự yên tĩnh, nhưng phát hiện mọi điểm tham quan đều xếp hàng dài, ngay cả kẻ thù đến khiêu chiến cũng phải xếp hàng.
-
-Thất vọng, họ quay về môn phái sớm, chỉ để nhận ra rằng môn phái vắng vẻ mới là nơi yên tĩnh nhất; chưa kịp tận hưởng, Sư phụ đã giao nhiệm vụ trực đêm cho họ.
-
-Họ lập tức quyết định quay lại xuống núi.
-
-Câu chốt hạ (punchline) cuối cùng đến từ:
-
-Sự tương phản thực tế: "Trước đây phàn nàn về đám đông, giờ lại thích đám đông hơn là trực đêm".
-
-Nguyên tắc Hài Kịch
-
-Tất cả các trò đùa đều được thúc đẩy bởi:
-
-Lựa chọn của nhân vật
-
-Chuyển động cơ thể
-Thay đổi biểu cảm
-Đối thoại tự nhiên
-Không thể dựa vào tai nạn ma thuật ngẫu nhiên hoặc môi trường giải quyết vấn đề thay cho nhân vật.
-
-III. Danh Tính Nhân Vật và Khóa Tài Sản
-
-Sử dụng nghiêm ngặt @image1 và @image2 làm neo danh tính duy nhất cho hai nhân vật chính.
-
-ID Nhân vật A | Sư Tỷ Kiếm Tiên
-
-Luôn luôn là cùng một Sư Tỷ Kiếm Tiên trong @image1:
-
-Nữ giới Đông Á, 25-30 tuổi
-
-Cao gầy
-
-Khuôn mặt trái xoan
-Mắt hạnh nhân màu sẫm
-Tóc đen dài buộc nửa, cố định bằng trâm ngọc bích trắng
-Luôn mặc cùng một bộ Hán phục lụa thêu trắng
-Tay áo rộng nhiều lớp
-Đai lưng bạc
-Mặt dây chuyền ngọc bích
-Giày vải trắng
-Cầm một thanh trường kiếm bạc độc đáo
-ID Nhân vật B | Sư Muội
-Luôn luôn là cùng một Sư Muội trong @image2:
-
-Nữ giới Đông Á, 20-25 tuổi
-
-Dáng người nhỏ nhắn
-
-Khuôn mặt tròn sống động
-Tóc đen tết bím
-Luôn mặc cùng một bộ Hán phục vải lanh xanh lục
-Đai tối màu
-Trâm gỗ
-Giày vải đen
-Cầm một thanh kiếm thép tối màu độc đáo
-Tính Liên Tục Của Nhân Vật
-Các đặc điểm sau của hai nhân vật chính vẫn ổn định xuyên suốt:
-
-Cấu trúc xương mặt
-
-Các đường nét
-
-Tỷ lệ cơ thể
-Kiểu tóc
-Quần áo
-Vũ khí độc quyền
-Nhân vật khác
-Cùng một Sư phụ lớn tuổi
-
-Một kiếm sĩ trẻ đối thủ
-
-Cả hai đóng vai trò hỗ trợ chức năng.
-IV. DNA Môi Trường và Quy Hoạch Không Gian
-
-Tất cả hình ảnh nền và tham khảo địa điểm được tải lên trong vòng này cùng xác định một thế giới hình ảnh chân thực duy nhất.
-
-Trước khi tạo, âm thầm tích hợp các yếu tố tương thích từ mỗi hình ảnh tham khảo:
-
-Địa hình
-
-Kiến trúc cổ
-
-Vật liệu xây dựng
-
-Quy mô không gian
-Thực vật
-Nguồn nước
-Ánh sáng tự nhiên
-Thời tiết
-Mây/sương mù
-Phản chiếu
-Độ sâu không khí
-Lối đi
-Lập kế hoạch lại một bố cục không gian độc đáo và hợp lý về mặt vật lý cho vòng này.
-Tính Liên Tục Địa Lý
-Các địa điểm sau phải thuộc cùng một môi trường địa lý liên tục:
-
-Cổng Núi
-
-Đường Lên Núi
-
-Đài Đá Ngắm Cảnh
-
-Nguyên Nền Sống
-Gió tự nhiên, dòng chảy nước, cành/lá, sương mỏng, phản chiếu và hoạt động của các đệ tử bình thường ở xa vẫn tồn tại nhưng giữ trung lập về mặt tường thuật, không chủ động tạo ra hoặc giải quyết các điểm nút cốt truyện.
-Chỉ du khách được sắp xếp cụ thể và những người khiêu chiến đang chờ đợi mới có thể mang chức năng kịch tính cụ thể.
-
-V. Cấu Trúc Storyboard Hoàn Chỉnh 30 Giây
-
-00:00–00:06 | Phân đoạn 1: Cuối cùng cũng được nghỉ, nhưng Cổng Núi đông đúc
-
-Cảnh quay: Góc máy toàn cảnh chậm tiến về phía Cổng Núi
-
-Cảnh & Môi Trường
-
-Ánh sáng buổi sáng tự nhiên, không khí núi trong lành.
-
-Nước chảy xa, cành cây, tay áo và tóc dài đều chuyển động tự nhiên.
-
-Hành Động & Đối Thoại Nhân Vật
-
-Cùng một Sư phụ lớn tuổi bình tĩnh thông báo:
-
-[Sư Phụ] "Hôm nay bắt đầu kỳ nghỉ bảy ngày."
-
-Mắt của cùng một Sư Muội sáng rực lên ngay lập tức, lập tức quay sang Sư Tỷ:
-
-[Sư Muội] "Sư tỷ, chúng ta đi tìm chỗ yên tĩnh nhé!"
-
-Cùng một Sư Tỷ áo trắng trả lời dứt khoát:
-
-[Sư Tỷ] "Đi thôi."
-
-Hai người nhanh chóng đi về phía Cổng Núi với sự háo hức hiếm thấy.
-
-Chuyển Động Camera
-
-Camera theo dõi ổn định, dần dần tiết lộ các đệ tử cổ xưa khác và tu sĩ du hành rời khỏi cổng, tạo thành một đám đông tự nhiên, trật tự.
-
-Nhịp Phản Ứng
-
-Cả hai đồng thời chậm lại, chỉ trao đổi một cái nhìn nhẹ, không giải thích thêm.
-
-00:06–00:12 | Phân đoạn 2: Biển mây đẹp, nhưng đầy người phía trước
-
-Cảnh quay: Đài đá ngắm cảnh, góc máy trung và góc máy phản ứng
-
-Thiết Kế Chuyển Cảnh
-
-Sử dụng du khách đi ngang qua tiền cảnh để che chắn tự nhiên, chuyển cảnh sang đài đá ngắm cảnh trên núi trong cùng một thế giới tham khảo.
-
-Cảnh & Không Gian
-
-Biển mây và núi non xa xôi thực sự tráng lệ, nhưng có một hàng đợi hợp lý tại điểm ngắm cảnh tốt nhất.
-
-Hành Động & Đối Thoại Nhân Vật
-
-Cùng một Sư Muội kiễng chân nhẹ nhàng, cố gắng nhìn qua những người phía trước, hỏi với vẻ bối rối:
-
-[Sư Muội] "Sư tỷ, biển mây đâu rồi?"
-
-Cùng một Sư Tỷ cũng nghiêm túc nhìn vào đầu hàng đợi, dừng lại nửa nhịp, trả lời mà không thay đổi biểu cảm:
-
-[Sư Tỷ] "Hàng người phía trước đó đang che mất nó."
-
-Phản Ứng Hài Kịch
-
-Sư Muội từ từ hạ gót chân xuống, kỳ vọng phai nhạt dần trên khuôn mặt.
-
-Cho camera đủ khoảng lặng ngắn để khán giả tự cảm nhận sự chênh lệch.
-
-00:12–00:18 | Phân đoạn 3: Ngay cả khiêu chiến Kiếm Tiên cũng phải xếp hàng
-
-Cảnh quay: Góc máy trung hai người, lia ngang và tiết lộ không gian
-
-Chuyển Động Camera
-
-Camera lia tự nhiên dọc theo hai bên của họ.
-
-Sự Xuất Hiện Của Kẻ Thù
-
-Kiếm sĩ trẻ đối thủ duy nhất bước tới, trang trọng rút kiếm, hét lên với tinh thần khiêu chiến võ thuật chân thực:
-
-[Kiếm Sĩ Đối Thủ] "Kiếm Tiên! Hôm nay chúng ta quyết chiến!"
-
-Cùng một Sư Tỷ áo trắng cuối cùng cũng phấn chấn, đối mặt trực tiếp với đối thủ, trả lời:
-
-[Sư Tỷ] "Được."
-
-Đảo Ngược Hài Kịch Lần Đầu Tiên
-
-Ngay khi họ chuẩn bị ra tay, cùng một Sư Muội tự nhiên giơ một tay giữa họ:
-
-[Sư Muội] "Xếp hàng trước đã."
-
-Kẻ thù đứng chết trân tại chỗ:
-
-[Kiếm Sĩ Đối Thủ] "Đánh nhau cũng cần xếp hàng sao?"
-
-Tiết Lộ Không Gian
-
-Camera đơn giản lia theo ánh mắt của Sư Muội:
-
-Hai người khiêu chiến cầm kiếm khác đang lặng lẽ chờ đợi bên cạnh bậc thang đá.
-
-Một người ngồi
-
-Một người đứng
-
-Tất cả đều ở trạng thái cổ xưa chân thực, không tạo dáng phóng đại, không lặp lại ngoại hình của nhân vật chính.
-
-Phản Ứng Hài Kịch
-
-Kẻ thù từ từ hạ trường kiếm xuống, lần đầu tiên nói không nên lời.
-
-Để lại đủ khoảng lặng phản ứng, không thêm lời thoại thừa.
-
-00:18–00:24 | Phân đoạn 4: Về sớm, sự yên tĩnh trở thành hình phạt
-Cảnh quay: Góc máy trung tại Cổng Núi, cảnh quay quan hệ ổn định
-
-Thiết Kế Chuyển Cảnh
-
-Sử dụng tay áo rộng trắng của Sư Tỷ đi ngang qua để che chắn tự nhiên.
-
-Thời Gian & Cảnh
-
-Buổi tối cùng ngày.
-
-Họ quay lại chính xác kiến trúc và địa hình Cổng Núi giống như lúc đầu.
-
-Hầu hết các đệ tử đã xuống núi, môn phái cực kỳ yên tĩnh, nhưng môi trường chắc chắn không phải là nền tĩnh:
-
-Kênh nước tiếp tục chảy
-
-Cành thông đung đưa trong gió
-
-Bóng mây xa thay đổi chậm rãi
-
-Hành Động & Đối Thoại Nhân Vật
-
-Cùng một Sư Muội cuối cùng cũng ngồi thoải mái trên bậc thang đá quen thuộc, thư giãn và thở dài:
-
-[Sư Muội] "Vẫn là yên tĩnh hơn ở Cổng Núi."
-
-Cùng một Sư Tỷ đứng gần đó, thực sự thư giãn lần đầu tiên.
-
-Bảo toàn hoàn toàn khoảng nửa giây của sự im lặng, tạm dừng cảm xúc thoải mái.
-Đảo Ngược Hài Kịch Lần Thứ Hai
-Cùng một Sư phụ lớn tuổi tiếp cận tự nhiên từ phía sau, cầm một cuộn văn bản khó đọc (danh sách trực ban bình thường), nói một cách thờ ơ:
-
-[Sư Phụ] "Vậy thì hai con trực đêm nay."
-
-Trọng Tâm Diễn Xuất
-
-Sư Tỷ và Sư Muội gần như đồng thời từ từ quay đầu nhìn Sư phụ, sau đó trao đổi ánh mắt.
-
-Không mở to mắt phóng đại.
-
-Không hiệu ứng âm thanh bùng nổ.
-
-Chỉ sử dụng biểu cảm phức tạp của hai người trưởng thành đột nhiên nhận ra mình đã nói sai để tạo ra sự đảo ngược.
-
-00:24–00:30 | Phân đoạn 5: Thích xếp hàng tiếp hơn là trực đêm
-
-Cảnh quay: Theo dõi trung ổn định, cuối cùng tập trung vào phản ứng của Sư phụ
-
-Hành Động Nhân Vật
-
-Sư Tỷ và Sư Muội không cần thảo luận, gần như đồng thời:
-
-Đứng dậy
-
-Điều chỉnh lại kiếm và quần áo ở eo
-
-Đi nhanh về phía ngoài Cổng Núi
-
-Đối Thoại
-
-Cùng một Sư phụ nhìn họ với vẻ bối rối:
-
-[Sư Phụ] "Chẳng phải các con phàn nàn về đám đông dưới kia sao?"
-
-Cùng một Sư Muội không quay đầu lại, trả lời khi đang đi:
-
-[Sư Muội] "Đông thì đông, nhưng không cần trực đêm."
-
-Cùng một Sư Tỷ áo trắng bổ sung rất nghiêm túc:
-[Sư Tỷ] "Đi nhanh lên, phòng trọ sẽ hết chỗ."
-Chuyển Động Camera Cuối Cùng
-
-Camera không đuổi theo hai người, mà ở lại tự nhiên trên Sư phụ.
-
-Hãy để những bóng lưng ngày càng nhanh rời đi của hai người ở xa tạo thành tương phản thị giác với phản ứng im lặng của Sư phụ ở tiền cảnh.
-
-Kết Thúc Hài Kịch Cuối Cùng
-
-Sư phụ cuối cùng cũng nhận ra rằng ông đã đích thân gửi hai đệ tử phàn nàn về đám đông quay trở lại đám đông.
-
-Ông chỉ thở dài nhẹ nhàng.
-
-Kết thúc chính xác ở phản ứng bất lực hoàn toàn nhưng rất chân thực này.
-
-VI. Yêu Cầu Tường Thuật Và Biên Tập Tổng Thể
-
-Tổng thời lượng nghiêm ngặt 30 giây
-
-Khung hình 16:9 ngang
-
-Năm phân đoạn điện ảnh rõ ràng về nhịp độ và liên tục về nhân quả
-
-Tất cả các địa điểm thuộc về một không gian địa lý hoàn chỉnh
-
-Hoàn thành trực tiếp một tường thuật âm thanh-hình ảnh đầy đủ
-
-Nguyên Tắc Cắt Cảnh
-
-Việc chuyển đổi camera chỉ được hoàn thành tự nhiên thông qua:
-
-Chuyển động của nhân vật
-
-Che chắn tiền cảnh
-
-Quan hệ ánh mắt
-Tính liên tục của hướng
-Không làm
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110182087324254208/img/MR9I6jSjF-0t_RNb.jpg" width="600" alt="Prompt Video Hài Tiên Hiệp Cổ Trang Seedance">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12488)**
-
-**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2110182891452010713) | **Đã xuất bản:** Oct 14, 2026
-
----
-### Thiết kế sàn epoxy từ cửa xe hơi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hướng dẫn sáng tạo về lắp đặt sàn nhà, biến đổi những cánh cửa xe gỉ sét thành một thiết kế sàn đầy sức sống.
-
-#### 📝 Prompt
-
-```
-Video dọc siêu thực 9:16, góc quay cố định rộng từ một góc của căn phòng trắng trống với cửa sổ lớn ở tường bên phải, ánh sáng ban ngày tự nhiên rực rỡ, sàn bê tông thô. Một công nhân có râu mặc bộ đồ bảo hộ màu xanh navy và găng tay đen sử dụng một chiếc cào cán dài để trải đều một đống lớn các cánh cửa xe cũ kỹ, gỉ sét trên sàn, cào phẳng chúng thành một lưới gọn gàng bao phủ toàn bộ căn phòng, chuyển động tua nhanh thời gian (timelapse). Sau đó, một phụ nữ buộc tóc đuôi ngựa mặc bộ đồ bảo hộ màu đỏ đổ nhựa epoxy tự san lấp dày đặc màu trắng sữa từ một xô lên các cánh cửa xe gỉ sét; chất lỏng lan ra ngoài, ngập chìm các cánh cửa cho đến khi toàn bộ sàn trở thành một bề mặt trắng bóng loáng với những hình bóng mờ ảo của cửa xe hiện lên bên dưới. Tiếp theo, một người đàn ông mặc áo phản quang màu vàng đẩy máy đánh bóng sàn xoay có ống hút bụi, mài lớp epoxy đã khô cho đến khi các cánh cửa xe gỉ sét được nhúng chìm biến thành một họa tiết trang trí nổi mượt mà trên nền sàn trắng bóng như gương. Cuối cùng, hai công nhân mặc đồng phục đen với găng tay hồng mang vào một khung giường kim loại đen, đặt nệm và trang trí giường với chăn ga gối màu xám. Phòng ngủ tối giản hoàn thiện với sàn thiết kế độc đáo gồm các cánh cửa xe cổ điển được encapsulate (bao bọc) dưới lớp nhựa trong suốt bóng loáng. Timelapse cải tạo thỏa mãn thị giác, ánh sáng nhất quán, camera ổn định, cảnh quay liền mạch không cắt ghép, chi tiết cao, không có văn bản, không có watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110044612379242496/img/wJMIB2YQGZFr9b7E.jpg" width="600" alt="Thiết kế sàn epoxy từ cửa xe hơi">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12486)**
-
-**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2110044654083162342) | **Đã xuất bản:** Oct 13, 2026
-
----
-### Video Phong Cách Sống Đêm Tokyo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video phong cách sống điện ảnh siêu thực 15 giây, ghi lại khoảnh khắc một người phụ nữ dạo bước qua các con phố Tokyo, ngã tư Shibuya và những ngõ hẻm neon.
-
-#### 📝 Prompt
-
-```
-Tạo một video phong cách sống điện ảnh siêu thực dài 15 giây, sử dụng người phụ nữ trong hình tham chiếu làm chuẩn nhận dạng chính xác xuyên suốt. 
-
-Cô ấy xinh đẹp với các đường nét như người mẫu trong mọi cảnh quay. Giữ nguyên khuôn mặt, mái tóc đen dài, tông da, tỷ lệ cơ thể và nhận dạng nhất quán. Kết cấu da tự nhiên, chuyển động chân thực, không biến dạng, không có văn bản trên màn hình và cô ấy không nói chuyện. 
-
-Cho cô ấy mặc bộ trang phục trong hình tham chiếu, giữ nguyên nhất quán cho toàn bộ video. 
-
-Sử dụng cấu trúc cảnh cắt nhanh tiêu chuẩn của chúng ta: các cảnh sạch từ 0.8–1.8 giây, chuyển động camera năng động, độ bóng bẩy hình ảnh cao và thay đổi địa điểm rõ ràng. Giữ các hành động đơn giản và dễ để mô hình xử lý. Tông màu là thời trang, nhẹ nhàng và đậm chất đô thị. 
-
-Cảnh 1 — 0:00–0:01.8 Ngã tư Shibuya. Cô ấy tự tin đi bộ qua đám đông. Camera lùi về phía trước mặt cô ấy. 
-
-Cảnh 2 — 0:01.8–0:03.2 Chân dung cận cảnh thân mật trong một con hẻm nhỏ ở Tokyo. Khuôn mặt, cổ, vai. Di chuyển camera ngang chậm. Cô ấy nhìn thẳng vào ống kính. 
-
-Cảnh 3 — 0:03.2–0:04.8 Harajuku hoặc Cat Street. Quay theo bên cạnh khi cô ấy đi ngang qua các cửa hàng và người đi bộ. 
-
-Cảnh 4 — 0:04.8–0:06.2 Cô ấy dừng lại tại một máy bán hàng tự động phát sáng và lấy đồ uống. Cảnh quay trung-cận sạch sẽ. Đẩy nhẹ vào (push-in). 
-
-Cảnh 5 — 0:06.2–0:07.8 Sân ga tàu điện Tokyo. Cô ấy đứng chờ khi tàu đến phía sau lưng. Camera di chuyển ngang. 
-
-Cảnh 6 — 0:07.8–0:09.3 Ngõ hẻm neon hẹp hoặc con đường yên tĩnh được thắp sáng bởi đèn lồng. Quay từ phía sau khi cô ấy đi bộ, rồi hơi ngoái lại. 
-
-Cảnh 7 — 0:09.3–0:10.8 Khoảnh khắc tại một quán ramen nhỏ hoặc cửa sổ quán cà phê. Cô ấy quay nhẹ, biểu cảm tự nhiên dịu dàng, độ sâu trường ảnh nông. 
-
-Cảnh 8 — 0:10.8–0:15.0 — HERO Sân thượng hoặc đài quan sát cao với đường chân trời Tokyo phía sau vào giờ xanh (blue hour). Bắt đầu từ sau vai cô ấy, sau đó quỹ đạo mượt mà thành cảnh quay hero từ eo trở lên. Cô ấy nhìn thẳng vào camera ở khoảnh khắc cuối cùng, bình tĩnh, tự tin và nổi bật. 
-
-ÂM THANH: Tối giản và tự nhiên. Âm thanh phố phường Tokyo, tiếng đám đông di chuyển nhẹ, tiếng giao thông xa xa, âm thanh tín hiệu qua đường, tiếng bước chân nhẹ, tiếng ồn máy bán hàng tự động, tiếng tàu đến, không khí thành phố tinh tế, âm thanh nhà hàng yên tĩnh. Không có lời thoại. Không có lời bài hát. 
-
-Giữ Tokyo dễ nhận biết về mặt hình ảnh nhưng vẫn thanh lịch. Không có chuyển cảnh gây rối, không thêm phức tạp thừa và không bất ổn định.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110001684160167936/img/Qvh3eZRr7m24EnuP.jpg" width="600" alt="Video Phong Cách Sống Đêm Tokyo">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12480)**
-
-**Tác giả:** [Promethean](https://x.com/PrometheanAIX) | **Nguồn:** [Link](https://x.com/PrometheanAIX/status/2110002369354178965) | **Đã xuất bản:** Oct 13, 2026
-
----
-### Video cải tạo sàn nhà bằng nhựa epoxy với vỏ rùa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt video cải tạo siêu thực, trong đó các công nhân lắp đặt sàn nhà làm từ vỏ rùa nhúng trong nhựa epoxy. Quy trình bao gồm việc cào những con rùa sống thành hàng, đổ nhựa resin trắng lên trên, mài và đánh bóng để lộ ra hoa văn vỏ rùa, và cuối cùng là lắp ráp một chiếc giường lên trên. Lý tưởng cho việc tạo nội dung hình ảnh ASMR kỳ lạ nhưng thỏa mãn.
-
-#### 📝 Prompt
-
-```
-Video cải tạo siêu thực phong cách photorealistic, khung dọc 9:16, một căn phòng trống đơn giản với tường trắng và cửa sổ lớn sáng sủa, ánh sáng ban ngày tự nhiên, góc quay tĩnh rộng, máy quay mượt mà.
-
-Cảnh 1 (0-4s): Một người đàn ông mặc yếm denim xanh và áo thun xám sử dụng một chiếc cào dài để dàn đều một đống lớn rùa sống trên sàn bê tông trần, cào chúng thành các hàng song song gọn gàng phủ kín toàn bộ căn phòng.
-
-Cảnh 2 (4-8s): Một người phụ nữ mặc yếm đỏ đổ dày lớp nhựa epoxy tự san phẳng màu trắng từ một xô nhựa lên các hàng rùa; chất lỏng bóng loáng chảy tràn, tự cân bằng và phủ kín hoàn toàn các mai rùa.
-
-Cảnh 3 (8-16s): Người đàn ông vận hành một máy mài và đánh bóng sàn nặng, chà nhám lớp nhựa trắng đã đông cứng; bụi bay lên, và quá trình đánh bóng dần dần lộ ra những mai rùa được nhúng bên trong sàn, biến nó thành một sàn epoxy trang trí bóng loáng với hoa văn mai rùa.
-
-Cảnh 4 (16-24s): Hai công nhân mặc áo thun đen mang vào một khung giường gỗ, đặt nệm trắng, gối và bộ đồ trải giường màu be, lắp ráp chiếc giường lên trên sàn epoxy mai rùa.
-
-Cảnh cuối: Phòng ngủ ấm cúng hoàn thiện, sàn nhà kiểu terrazzo bóng loáng làm từ mai rùa nhúng phản chiếu ánh sáng từ cửa sổ. Chi tiết siêu thực tế, phong cách ASMR kỳ lạ nhưng thỏa mãn, không có chữ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109958755173425153/img/FCKZiXsGkdEJncn9.jpg" width="600" alt="Video cải tạo sàn nhà bằng nhựa epoxy với vỏ rùa">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12477)**
-
-**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2109958787373125663) | **Đã xuất bản:** Oct 13, 2026
-
----
-### Video Thời Trang Gothic Halloween
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết để tạo video thời trang giả tưởng Halloween mang phong cách điện ảnh, với một người phụ nữ trong trang phục couture gothic cùng các yếu tố kỳ ảo.
-
-#### 📝 Prompt
-
-```
-Tạo một video thời trang giả tưởng Halloween siêu thực, mang phong cách điện ảnh ở định dạng dọc 9:16, nổi bật là một người phụ nữ trưởng thành xinh đẹp với mái tóc dài gợn sóng màu hạt dẻ đỏ, đội vương miện cầu kỳ được trang trí bằng hoa hồng đỏ, cúc vạn thọ cam, bí ngô mini, ren đen và những món đồ trang sức gothic rủ xuống. Cô mặc một chiếc váy couture gothic sang trọng màu đen và cam, với ren tinh xảo, thêu hoa, điểm xuyết hình bí ngô và trang sức mỏng manh, ngồi thanh lịch trong một khu vườn Halloween kỳ ảo được bao quanh bởi nến phát sáng, đèn bí ngô khắc (jack-o’-lantern), hoa mùa thu và một vầng trăng tròn lớn rực rỡ ở phía sau. Một chiếc giỏ tràn ngập những quả bí ngô nhỏ, kẹo Halloween và các vật trang trí ma quái dễ thương đặt trên đùi cô. Cô nhẹ nhàng tựa má vào tay, mỉm cười ấm áp với camera, nghiêng đầu và tương tác duyên dáng với các vật trang trí trong khi duy trì biểu cảm khuôn mặt tự nhiên và chuyển động mượt mà. Những con bướm vàng phát sáng và đom đóm kỳ ảo bay lượn xung quanh cô, tạo ra những vệt ánh sáng lấp lánh, trong khi một chú mèo đen nhỏ ngồi bên cạnh. Sử dụng ánh nến hổ phách ấm áp, tông màu cam cháy và đỏ thẫm đậm nét, ánh sáng điện ảnh mềm mại, độ sâu trường ảnh nông, kết cấu da cực kỳ chi tiết, chuyển động vải thực tế, chuyển cảnh máy quay mượt mà, hiệu ứng slow-motion tinh tế và phong cách chụp ảnh biên tập giả tưởng xa xỉ. Bầu không khí cần toát lên vẻ mê hoặc, lãng mạn, bí ẩn và kỳ thú, với độ chi tiết xuất sắc, chất lượng 4K chân thực như ảnh chụp và thẩm mỹ phim thời trang Halloween được trau chuốt kỹ lưỡng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109922320395423744/img/VBXgQbfrVo5AiCQY.jpg" width="600" alt="Video Thời Trang Gothic Halloween">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12485)**
-
-**Tác giả:** [Letty](https://x.com/LettyVesper) | **Nguồn:** [Link](https://x.com/LettyVesper/status/2109923048434348416) | **Đã xuất bản:** Oct 13, 2026
-
----
-### Khoảnh Khắc Tại Studio Của Vũ Công Bị Thương
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết cho một video điện ảnh về nữ vũ công Hàn Quốc trẻ tuổi nghỉ ngơi sau buổi tập, nhấn mạnh chấn thương và cảm xúc.
-
-#### 📝 Prompt
-
-```
-Tạo một video điện ảnh siêu thực tế dài 30 giây, mô tả một phụ nữ Hàn Quốc trẻ trung xinh đẹp trong một studio nhảy rộng rãi, hiện đại với sàn gỗ nhẵn bóng, gương lớn và ánh sáng nội thất dịu nhẹ. Ở phần đầu tiên, hãy hiển thị nhiều vũ công đang tập luyện ở hậu cảnh trong khi máy quay ghi lại đôi chân trần và chiếc quần đen rộng thùng thình của cô gái khi cô bước đi trên sàn studio. Cô mặc áo tay dài màu đen bó sát và quần đen rộng, tóc đen buộc hờ phía sau với vài lọn rơi tự nhiên trước mặt. Khi video tiếp diễn, cô trông mệt mỏi và quá tải cảm xúc sau buổi tập, từ từ ngồi tựa lưng vào bức tường studio màu xám nhạt với hai đầu gối co sát ngực. Cô nhẹ nhàng giữ mắt cá chân bị thương được quấn băng màu sáng, cúi đầu với vẻ buồn bã lặng lẽ. Các vũ công khác vẫn tiếp tục tập luyện ở hậu cảnh, tạo ra sự tương phản chân thực giữa studio bận rộn và khoảnh khắc cô đơn của cô. Sử dụng kết hợp các góc quay toàn cảnh, trung cảnh và cận cảnh thân mật vào khuôn mặt, bàn tay và mắt cá chân được băng bó của cô. Chuyển động của cô nên tinh tế, tự nhiên và đáng tin cậy về mặt cảm xúc, với kết cấu da chân thực, chi tiết khuôn mặt tinh xảo và ngoại hình nhân vật nhất quán xuyên suốt video. Sử dụng ánh sáng điện ảnh mềm mại, tông màu trung tính trầm, độ sâu trường ảnh nông, chuyển động máy quay mượt mà và thẩm mỹ phim truyền hình Hàn Quốc chuyên nghiệp. Duy trì giao diện siêu thực (photorealistic), tỷ lệ cơ thể tự nhiên, chi tiết studio chân thực và hình ảnh chất lượng cao 1080p theo định dạng dọc 16:9. Tránh biểu cảm phóng đại, da giả, bàn tay biến dạng, thừa ngón tay, nhấp nháy và văn bản hoặc watermark không mong muốn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109876396952784896/img/U08ae2rw0nJjeYWO.jpg" width="600" alt="Khoảnh Khắc Tại Studio Của Vũ Công Bị Thương">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12484)**
-
-**Tác giả:** [liana](https://x.com/Lianaalane) | **Nguồn:** [Link](https://x.com/Lianaalane/status/2109876446089134244) | **Đã xuất bản:** Oct 13, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -4587,6 +6718,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-03T02:24:02.591Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-03T11:55:33.489Z</sub>
 
 </div>

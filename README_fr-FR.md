@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6633** |
+| 📝 Total des prompts | **6640** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-11-03** |
 
@@ -361,6 +361,2735 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Prompt Cinéma Horreur Xianxia pour Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt détaillé pour Seedance 2.0 Mini visant à générer une vidéo cinématographique de 15 secondes dans le genre surnaturel oriental/xianxia. Il propose une structure narrative complexe en trois plans, assure la cohérence des personnages via des images de référence et précise les mouvements de caméra ainsi que les effets d'éclairage.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | « Ne réponds pas à cet appel »
+
+Modèle : Seedance 2.0 Mini
+Durée : Strictement 15 secondes
+Format : 16:9 Paysage
+Genre : Horreur folklorique orientale / Xianxia antique / Suspense psychologique / Thriller surnaturel
+Structure : Trois plans cinématographiques continus et distincts, chacun remplissant une fonction narrative précise.
+
+I. Style global et direction créative
+Xianxia chinois hyperréaliste de qualité cinématographique.
+Ce projet fusionne :
+L'horreur folklorique orientale
+Le suspense psychologique
+Le Xianxia antique
+en une expression de genre unifiée.
+
+Concept central du réalisateur
+Emprunter les techniques de gestion du suspense aux thrillers aboutis :
+amener d'abord le public à croire en une fausse cible dangereuse, puis opérer un renversement d'information par le son, le regard et un infime changement physique.
+Principes d'expression de l'horreur
+Ne pas s'appuyer sur de longues explications des personnages pour révéler la vérité.
+Ne pas recourir à des transformations monstrueuses exagérées pour susciter la peur.
+Ce qui est véritablement glaçant, c'est :
+la réaction instinctive d'une personne entendant la voix qui lui est la plus familière.
+
+II. Intrigue principale et renversement du suspense
+Intrigue apparente
+Un Émissaire des Enfers apparaît soudainement.
+Il affirme être venu cette nuit pour emporter l'Immortelle à l'Épée Vêtue de Blanc.
+La Sœur Cadette s'avance instinctivement pour protéger sa Sœur Aînée.
+Véritable renversement
+La personne que l'Émissaire des Enfers compte réellement emporter a toujours été la Sœur Cadette, depuis le tout début.
+Piège surnaturel
+La Lanterne Appeleuse d'Âmes tenue par l'Émissaire des Enfers peut imiter les voix de personnes familières.
+Ce n'est que lorsque la cible répond instinctivement que la mèche libère un Fil Liant l'Âme rouge pour entraver son âme.
+Causalité clé
+La voix de la Sœur Aînée émane de la lanterne → La Sœur Cadette répond instinctivement → La Lanterne Appeleuse d'Âmes libère le fil rouge → La Sœur Cadette devient la cible de la moisson d'âmes.
+La Sœur Aînée doit trancher le Fil Liant l'Âme à cet instant précis.
+Révélation finale de l'information
+Dévoilée en une seule phrase :
+« Il attend que je t'appelle. »
+Suspense final
+L'Émissaire des Enfers ne part pas.
+Le court-métrage doit se conclure au moment où :
+la première attaque échoue, mais le véritable danger n'est pas terminé.
+
+III. Identité des personnages et verrouillage des éléments principaux
+Personnage A | @Image1 | Sœur Aînée Immortelle à l'Épée
+Identité
+Même femme adulte d'origine est-asiatique, âgée de 25 à 30 ans.
+Reprendre strictement la même identité de personnage que sur l'image de référence.
+Apparence fixe
+Visage ovale clair, naturel et doux
+Yeux sombres en amande, lumineux
+Longs cheveux noirs à demi attachés
+Maintenus par une épingle à cheveux en jade blanc
+Silhouette grande et élancée
+Costume fixe
+Hanfu en soie blanche brodée
+Manches larges superposées semi-transparentes
+Ceinture argentée à la taille
+Pendentif en jade
+Bottes en tissu blanc
+Arme exclusive
+Une unique épée longue en argent.
+Capacités et jeu d'acteur
+La force de la Sœur Aînée se manifeste par :
+Son sens de l'observation
+Sa réactivité
+La justesse de son jugement
+Ce film ne comporte pas de combats complexes et continus.
+Sa maîtrise de l'épée ne se démontre qu'à travers un seul geste précis : trancher le Fil Liant l'Âme.
+
+Personnage B | @Image2 | Sœur Cadette
+Identité
+Même femme adulte d'origine est-asiatique, âgée de 20 à 25 ans.
+Conserver strictement à partir de l'image de référence :
+Le même visage
+La structure faciale
+La coiffure
+La morphologie
+Le costume
+Apparence fixe
+Visage rond, lumineux et joyeux
+Cheveux noirs tressés
+Petite stature
+Costume fixe
+Hanfu en lin vert
+Ceinture sombre
+Épingle à cheveux en bois
+Chaussures en tissu noir
+Arme exclusive
+Une unique épée en acier sombre.
+Restriction d'arme pour ce segment
+La Sœur Cadette ne dégaine pas son épée.
+Trois moments clés de jeu d'acteur
+Entendant le danger, elle se place activement devant la Sœur Aînée.
+Entendant une voix familière, elle tourne instinctivement la tête.
+Comprenant qu'elle est la véritable cible, elle passe de la stupeur à la lucidité.
+
+IV. Nouveaux personnages secondaires et éléments de la Lanterne Appeleuse d'Âmes
+Émissaire des Enfers
+Identité
+Homme adulte.
+Apparence fixe
+Robes antiques gris-noir profond
+Demi-masque en bronze vieilli
+Usure subtile à la surface du masque
+Tempérament du personnage
+Froid
+Mouvements mesurés
+Expression et posture stables
+N'utilise pas les visages fantomatiques exagérés typiques des films d'horreur modernes.
+Accessoire principal | Antique Lanterne Appeleuse d'Âmes en bronze
+L'Émissaire des Enfers tient une petite Lanterne Appeleuse d'Âmes antique en bronze dans sa main gauche.
+Apparence fixe
+Corps de la lanterne en bronze
+Taille fixe
+Couleur fixe
+Anneau de poignée fixe
+Mèche fixe
+Effet d'éclairage fixe
+Paramétrage de la flamme
+À l'intérieur de la lanterne brûle une unique flamme d'un blanc pâle.
+Si nécessaire, la flamme peut virer au rouge sombre.
+Continuité de l'élément
+Il doit s'agir de la même lanterne tout au long de la scène.
+Sa forme, sa taille, sa couleur, son anneau de poignée, sa mèche et ses effets d'éclairage doivent rester cohérents du début à la fin.
+Capacité spéciale de la Lanterne Appeleuse d'Âmes
+Imitation vocale
+L'Émissaire des Enfers peut faire émettre à la lanterne une voix parfaitement identique à celle de la Sœur Aînée.
+Règle de déclenchement
+La mèche ne libère le Fil Liant l'Âme rouge que lorsque la Sœur Cadette répond à cette voix.
+Règle de synchronisation labiale
+L'Émissaire des Enfers lui-même n'a pas besoin d'ouvrir la bouche pour imiter la Sœur Aînée.
+Autres personnages secondaires
+Maître Ancien
+Situé au loin, agissant comme témoin naturel.
+Deux Disciples de la Secte
+Situés au loin, agissant comme témoins naturels.
+Les personnages secondaires ne doivent pas voler l'espace dramatique des deux protagonistes et de l'Émissaire des Enfers.
+
+V. Arrière-plan et ADN environnemental
+Toutes les images de référence d'arrière-plan et de lieux téléchargées définissent collectivement un monde Xianxia réel et existant.
+Planification environnementale
+Extraire et préserver des images de référence :
+Le relief réel
+L'agencement architectural
+Les relations entre les points de repère principaux
+L'usure des matériaux
+L'échelle spatiale
+La végétation
+Les étendues d'eau
+La météo
+La brume/les nuages
+La direction de la lumière principale
+Les relations de reflets
+La palette de couleurs
+La profondeur atmosphérique
+Position de la caméra et organisation spatiale
+Il est permis de redéfinir :
+La position de la caméra
+La profondeur de champ
+L'orientation de l'objectif
+Le placement des personnages
+Mais l'intégralité des 15 secondes doit se dérouler dans le même espace continu.
+Principe d'arrière-plan vivant
+L'arrière-plan reste naturellement animé.
+Dynamiques naturelles
+Le vent naturel fait bouger les mèches de cheveux
+Le vent naturel fait flotter les manches
+L'eau s'écoule continuellement
+La brume de montagne évolue lentement
+Les couches nuageuses changent lentement
+Les arbres et la végétation conservent un mouvement raisonnable
+Les silhouettes lointaines bougent naturellement
+Neutralité narrative de l'environnement
+L'arrière-plan ne peut pas déclencher activement l'histoire.
+Élément narratif surnaturel unique
+Le seul élément qui fait avancer activement l'intrigue surnaturelle dans ce cas précis est la Lanterne Appeleuse d'Âmes tenue par l'Émissaire des Enfers.
+
+VI. Structure complète en trois plans de 15 secondes
+0–5s | Plan 1 : Qui sera emporté cette nuit ?
+Fonction narrative
+Établir la fausse cible dangereuse, faisant croire au public que la Sœur Aînée est sur le point d'être emportée.
+Taille du plan
+Plan large.
+Mouvement de caméra
+Légère contre-plongée, avancée lente le long de la ligne de confrontation entre les personnages.
+Espace d'ouverture et placement des personnages
+Au début, la Sœur Aînée et la Sœur Cadette se tiennent côte à côte dans une zone de passage géographiquement logique de l'arrière-plan de référence.
+Au loin :
+Le Maître Ancien
+Les deux Disciples de la Secte
+Entrée de l'Émissaire des Enfers
+Un Émissaire des Enfers portant un demi-masque en bronze s'avance lentement vers elles de face.
+Sa main gauche tient une vieille lanterne en bronze.
+À chaque pas, la lanterne oscille naturellement avec l'inertie du corps.
+Mais la flamme pâle de la mèche reste anormalement stable.
+Point d'intrigue 1 : Annonce de la cible
+L'Émissaire des Enfers s'arrête à quelques pas des deux femmes.
+Son regard semble se poser sur la Sœur Aînée Immortelle à l'Épée.
+Il déclare d'une voix sourde :
+[Émissaire des Enfers] « Cette nuit, je viens chercher l'Immortelle à l'Épée Vêtue de Blanc. »
+Point d'intrigue 2 : La Sœur Cadette s'interpose activement
+La Sœur Cadette n'hésite pas une seconde.
+Elle avance d'un demi-pas, s'interposant devant la Sœur Aînée.
+Les sourcils légèrement froncés, elle fixe l'Émissaire droit dans les yeux :
+[Sœur Cadette] « Comment oses-tu ? »
+Point d'intrigue 3 : Présage visuel de la véritable cible
+L'Émissaire ne se met pas en colère.
+Il ne lance pas non plus d'attaque immédiate.
+Il détourne simplement et lentement son regard de l'Immortelle à l'Épée Vêtue de Blanc.
+Pour finalement le poser sur le visage de la Sœur Cadette.
+Exigence de cadrage
+Ce regard ne doit pas être souligné par des zooms de caméra exagérés.
+Il doit constituer un détail :
+naturel, mais compréhensible rétrospectivement par le public.
+Fin du plan
+La caméra glisse le long du bras de l'Émissaire vers la Lanterne Appeleuse d'Âmes.
+
+5–10s | Plan 2 : Cette voix est fausse
+Fonction narrative
+Déclencher le piège et accomplir le premier renversement d'information grâce au décalage entre une voix familière et sa source réelle.
+Taille du plan
+Plan moyen rapproché.
+Mouvement de caméra
+Léger travelling latéral.
+Maintenir une relation spatiale claire entre les éléments suivants :
+La Lanterne Appeleuse d'Âmes
+La Sœur Cadette
+La véritable Sœur Aînée derrière elle
+Exigences de continuité
+Doivent rester identiques :
+Le même Émissaire des Enfers
+La même Lanterne Appeleuse d'Âmes en bronze
+Le même lieu
+Point d'intrigue 1 : La voix de la Sœur Aînée provient de la lanterne
+L'Émissaire soulève lentement et légèrement la Lanterne Appeleuse d'Âmes.
+Il n'ouvre pas la bouche.
+Mais soudain, une voix extrêmement familière s'échappe de la mèche.
+C'est la voix de la Sœur Aînée.
+Un ton doux, comme lorsqu'elle l'appelle habituellement sans y penser :
+[Lanterne Appeleuse d'Âmes · Voix de la Sœur Aînée] « Ah Ning, retourne-toi. »
+Source et synchronisation labiale
+La véritable Sœur Aînée se trouve juste derrière la Sœur Cadette.
+Ses lèvres ne bougent pas.
+Le son provient de la lanterne en bronze dans la main de l'Émissaire des Enfers.
+Point d'intrigue 2 : La Sœur Cadette répond instinctivement
+Parce que la voix est trop familière, le corps de la Sœur Cadette réagit avant sa pensée.
+Elle tourne instinctivement la tête sur le côté.
+Et répond doucement :
+[Sœur Cadette] « Sœur Aînée ? »
+Point d'intrigue 3 : Le piège de la moisson d'âmes se déclenche
+Presque à l'instant où le dernier mot retombe :
+La flamme initialement pâle de la Lanterne Appeleuse d'Âmes vire soudainement au rouge sombre.
+Un Fil Liant l'Âme rouge sombre extrêmement fin jaillit de la mèche.
+Suivant une trajectoire spatiale nette, il s'enroule rapidement autour du poignet droit de la Sœur Cadette.
+État physique du Fil Liant l'Âme
+Le fil rouge se tend légèrement
+La main droite de la Sœur Cadette est tirée
+Son corps bascule instinctivement vers l'avant
+Restrictions d'expression corporelle
+Interdit :
+Apesanteur exagérée
+Flottement irréaliste
+Point d'intrigue 4 : La Sœur Aînée remarque l'anomalie
+La même Immortelle à l'Épée Vêtue de Blanc perçoit immédiatement l'anomalie.
+Son regard passe instantanément du poignet de la Sœur Cadette à la mèche.
+Ses yeux se durcissent brusquement.
+Fin du plan
+Couper le plan au moment précis où la Sœur Aînée saisit fermement la poignée de son épée de la main droite.
+
+10–15s | Plan 3 : C'était donc moi qu'il attendait
+Fonction narrative
+La Sœur Aînée tranche le lien liant l'âme, la Sœur Cadette comprend qu'elle est la véritable cible, et le danger non résolu persiste.
+Taille du plan
+Gros plan.
+Transition vers des gros plans de personnages après l'action principale.
+Point d'intrigue 1 : Trancher précisément le Fil Liant l'Âme
+La Sœur Aînée dégaine immédiatement sa propre épée longue en argent.
+Sans utiliser d'énergie d'épée exagérée.
+Uniquement un coup d'épée diagonal, rapide et précis.
+Action clé
+La lame d'argent tranche le lien :
+Le Fil Liant l'Âme rouge sombre situé entre
+La mèche de la Lanterne Appeleuse d'Âmes ↔ Le poignet droit de la Sœur Cadette.
+Exigences d'action stricte
+La lame coupe précisément le fil rouge
+Sans toucher la peau de la Sœur Cadette
+Un seul mouvement d'épée
+La trajectoire de l'épée est nette
+L'action possède une continuité physique réaliste
+Rupture du Fil Liant l'Âme
+Une fois rompu, le fil rouge perd instantanément sa tension.
+Il se dissipe en minuscules particules lumineuses rouge sombre.
+La main droite de la Sœur Cadette retrouve sa liberté.
+Point d'intrigue 2 : La Sœur Aînée tire la Sœur Cadette en arrière
+La Sœur Aînée tend sa main gauche libre.
+Elle tire doucement la Sœur Cadette à ses côtés.
+Elle murmure :
+[Sœur Aînée] « Ne réponds pas. »
+Point d'intrigue 3 : La Sœur Cadette prend conscience du danger
+La Sœur Cadette lève les yeux vers l'Émissaire.
+Son expression change progressivement :
+La peur que la Sœur Aînée soit emportée → La stupeur de comprendre qu'elle est la véritable cible.
+Elle demande doucement :
+[Sœur Cadette] « C'est moi qu'il cherche ? »
+Point d'intrigue 4 : Révélation finale de l'information
+La Sœur Aînée ne la regarde pas.
+Son regard reste fixé sur la lanterne dans la main de l'Émissaire des Enfers.
+Elle répond très légèrement :
+[Sœur Aînée] « Il attend que je t'appelle. »
+Point d'intrigue 5 : Le danger n'est pas terminé
+Courte pause.
+L'Émissaire des Enfers incline lentement la tête.
+Le regard derrière le demi-masque se pose à nouveau sur la Sœur Cadette.
+La flamme pâle de la lanterne en bronze dans sa main se ravive.
+État du Fil Liant l'Âme
+Le Fil Liant l'Âme tranché ne se reconnecte pas.
+Placement des deux protagonistes
+À ce stade, la Sœur Aînée et la Sœur Cadette se tiennent côte à côte.
+Toutes deux font face à l'Émissaire simultanément.
+Restrictions d'émotion et d'action
+Interdit :
+Pleurs partagés
+Explosion soudaine d'un combat complexe
+Composition du plan final
+Le plan se referme sur :
+Le froid demi-masque en bronze de l'Émissaire des Enfers et la Lanterne Appeleuse d'Âmes rallumée.
+Dans la faible profondeur de champ en arrière-plan :
+La Sœur Aînée vêtue de blanc
+La Sœur Cadette vêtue de vert
+Se tenant côte à côte.
+L'Émissaire des Enfers ne recule pas.
+Aboutissement du suspense final
+Le public comprend enfin :
+Il n'a jamais eu l'intention d'emporter l'Immortelle à l'Épée Vêtue de Blanc depuis le début.
+Il a simplement emprunté son identité et sa voix pour que la Sœur Cadette réponde elle-même à cet appel.
+La première moisson d'âmes a échoué.
+Le véritable danger est toujours présent.
+L'écran s'arrête ici.
+
+VII. Exigences d'exécution unifiées pour Seedance 2.0 Mini
+Spécifications de base
+Durée totale : Strictement 15 secondes
+Format : 16:9 Paysage
+Modèle : Seedance 2.0 Mini
+Nombre de plans : Trois
+Structure temporelle
+Temps | Taille du plan | Événement principal
+0–5s | Plan large | L'Émissaire des Enfers arrive, prétend emporter la Sœur Aînée Immortelle à l'Épée, la Sœur Cadette s'interpose.
+5–10s | Plan moyen rapproché | La Lanterne Appeleuse d'Âmes imite la voix de la Sœur Aînée, la Sœur Cadette répond instinctivement, le fil rouge lie son âme.
+10–15s | Gros plan & GP personnage | La Sœur Aînée tranche le fil rouge, révèle la véritable cible, l'ennemi n'a pas reculé.
+
+VIII. Sept lignes de dialogue complètes et synchronisation labiale
+L'intégralité du film ne conserve que les sept lignes de dialogue suivantes.
+0–5s
+[Émissaire des Enfers] « Cette nuit, je viens chercher l'Immortelle à l'Épée Vêtue de Blanc. »
+[Sœur Cadette] « Comment oses-tu ? »
+5–10s
+[Lanterne Appeleuse d'Âmes · Voix de la Sœur Aînée] « Ah Ning, retourne-toi. »
+[Sœur Cadette] « Sœur Aînée ? »
+10–15s
+[Sœur Aînée] « Ne réponds pas. »
+[Sœur Cadette] « C'est moi qu'il cherche ? »
+[Sœur Aînée] « Il attend que je t'appelle. »
+Exigences relatives au mandarin et à la synchronisation labiale
+Tous les personnages parlent mandarin
+Synchronisation labiale précise
+Aucun chevauchement audio
+Aucun dialogue ajouté temporairement
+Aucune narration explicative hors champ
+Règle spéciale pour la troisième ligne
+« Ah Ning, retourne-toi. »
+Émise par la Lanterne Appeleuse d'Âmes.
+Utilise une voix totalement identique à celle de la véritable Sœur Aînée.
+Mais :
+L'Émissaire des Enfers n'ouvre pas la bouche
+La véritable Sœur Aînée n'ouvre pas la bouche
+La source sonore provient clairement de la lanterne en bronze
+Les effets audio spatiaux doivent être distinguables
+
+IX. Règles causales pour la Lanterne Appeleuse d'Âmes et le Fil Liant l'Âme
+Règle 1 | Impossible de libérer le fil rouge prématurément
+Le Fil Liant l'Âme rouge n'apparaîtra pas en avance.
+Ce n'est qu'après que la Sœur Cadette aura répondu à la voix familière que la Lanterne Appeleuse d'Âmes libérera le Fil Liant l'Âme.
+Chaîne de déclenchement
+La lanterne émet un son → La Sœur Cadette répond → La flamme vire au rouge sombre → Le Fil Liant l'Âme jaillit.
+Règle 2 | Un seul Fil Liant l'Âme
+Il n'y a qu'un seul Fil Liant l'Âme.
+Il relie toujours :
+La mèche de la Lanterne Appeleuse d'Âmes et le poignet droit de la Sœur Cadette.
+Règle 3 | Une seule action de coupe
+La Sœur Aînée ne donne qu'un seul coup d'épée.
+Tranche précisément le Fil Liant l'Âme.
+Règle 4 | État après la rupture
+Après la rupture du Fil Liant l'Âme :
+Il perd instantanément sa tension
+Se dissipe en minuscules particules lumineuses rouge sombre
+La Sœur Cadette retrouve sa liberté de mouvement
+Règle 5 | La Lanterne Appeleuse d'Âmes existe toujours
+La Lanterne Appeleuse d'Âmes est toujours présente.
+L'Émissaire des Enfers n'a pas reculé non plus.
+Mais :
+Le Fil Liant l'Âme initial ne peut pas se reconnecter automatiquement.
+
+X. Continuité des personnages et de l'espace
+Identité des deux protagonistes
+Verrouiller strictement :
+@Image1
+@Image2
+Doivent rester cohérents :
+Le visage
+La coiffure
+Les vêtements
+L'épée
+Les proportions corporelles
+Émissaire des Enfers
+Utiliser tout au long de la scène :
+Le même demi-masque en bronze
+Le même ensemble de robes gris-noir
+La même Lanterne Appeleuse d'Âmes
+Continuité spatiale
+Les éléments suivants doivent être continus :
+Les positions des personnages
+La distance entre les personnages
+L'axe de la caméra
+La direction de la lumière principale
+Tous les plans se déroulent au même endroit.
+L'arrière-plan s'étend naturellement sur la base des images de référence.
+Ne pas modifier l'identité du décor.
+
+XI. Cinématographie et jeu d'acteur
+Premier plan
+Fonction photographique
+Mettre en évidence :
+L'étrange visiteur
+La relation de distance entre les personnages
+La Sœur Cadette s'interposant activement devant la Sœur Aînée
+Tromperie visuelle
+Faire croire au public que la Sœur Aînée est la cible.
+Mais le dernier regard de l'Émissaire vers la Sœur Cadette doit servir de détail présageant, compréhensible rétrospectivement.
+Deuxième plan
+Fonction photographique
+Exploiter le placement de la véritable Sœur Aînée derrière la Sœur Cadette pour créer :
+Un décalage entre le son et sa source réelle.
+Focus sur le jeu d'acteur
+La réaction de la Sœur Cadette en entendant la voix familière doit être :
+Naturelle
+Instinctive
+Plus rapide que le jugement rationnel
+Troisième plan
+Fonction photographique
+Accomplir le renversement causal à l'aide d'une action d'épée claire.
+Focus sur le jeu d'acteur
+Après avoir perçu le danger, le regard de la Sœur Aînée se durcit instantanément.
+Sa réaction reflète :
+Un jugement précis
+Une action décisive
+Une puissance maîtrisée
+Principes globaux de jeu d'acteur
+Le jeu des personnages reste sobre et réaliste.
+Ne pas prévoir de longs combats.
+Ne pas ajouter :
+De magie à grande échelle
+D'éclairs
+De transformations monstrueuses
+D'effondrement du monde
+
+XII. Conception sonore
+Sons ambiants
+Maintenir des sons spatiaux authentiques de style antique.
+Notamment :
+Le vent naturel
+L'eau qui s'écoule
+L'activité environnementale lointaine
+Le mouvement des cheveux et des manches
+Émissaire des Enfers
+Se concentrer sur :
+Les pas de l'Émissaire
+Le léger bruit de frottement de l'anneau de poignée de la lanterne
+Lanterne Appeleuse d'Âmes
+Se concentrer sur :
+Une voix humaine familière anormalement claire provenant de l'intérieur de la lanterne, totalement identique au timbre de la Sœur Aînée.
+Le son provient de la position spatiale de la lanterne en bronze.
+Fil Liant l'Âme
+De petits sons étranges apparaissent lorsque le fil rouge se tend.
+Impossible d'utiliser des effets sonores d'explosion surnaturelle à grande échelle.
+Épée d'argent tranchant le fil
+Lorsque la Sœur Aînée tranche le fil rouge, doit apparaître soudainement :
+Un son bref et net de lame fendant l'air.
+Dialogue final
+La musique baisse rapidement après que le fil rouge est tranché.
+Laisser les deux dernières lignes de dialogue parvenir naturellement aux oreilles du public :
+[Sœur Cadette] « C'est moi qu'il cherche ? »
+[Sœur Aînée] « Il attend que je t'appelle. »
+
+XIII. Restrictions d'image et de génération
+Exigences d'image
+Photoréalisme de qualité cinématographique
+Anatomie humaine réaliste
+Traits du visage nets
+Mouvement réaliste des tissus en soie
+Dynamiques environnementales naturelles
+Espace géographique stable
+Actions d'épée précises
+Effets surnaturels sobres
+Interdictions strictes
+Combats prolongés
+Magie à grande échelle
+Éclairs
+Transformations monstrueuses exagérées
+Effondrement du monde
+Échange de visages (face swapping)
+Changements de vêtements
+Confusion dans l'attribution des armes
+Changements soudains de position des personnages
+Modifications de l'apparence de la Lanterne Appeleuse d'Âmes
+Apparition prématurée du Fil Liant l'Âme
+Multiples Fils Liant l'Âme
+Fils rouges rompus se reconnectant d'eux-mêmes
+Arrière-plan déclenchant activement l'histoire
+Titres
+Sous-titres
+Textes explicatifs
+Dialogues supplémentaires
+
+XIV. Critères d'acceptation finaux
+Doivent être clairement présentés au cours des 15 secondes :
+L'Émissaire des Enfers arrive, affirmant venir chercher l'Immortelle à l'Épée Vêtue de Blanc.
+La Sœur Cadette se place activement devant la Sœur Aînée.
+L'Émissaire déplace secrètement sa véritable attention vers la Sœur Cadette.
+La Lanterne Appeleuse d'Âmes émet une voix totalement identique à celle de la Sœur Aînée, tandis que la véritable Sœur Aînée ne parle pas.
+La Sœur Cadette répond instinctivement, poussant la Lanterne Appeleuse d'Âmes à libérer l'unique Fil Liant l'Âme.
+Le fil rouge s'enroule précisément autour du poignet droit de la Sœur Cadette.
+La Sœur Aînée dégaine son épée d'argent et tranche le fil rouge d'un seul coup.
+La Sœur Cadette comprend qu'elle est la véritable cible.
+La Sœur Aînée déclare : « Il attend que je t'appelle. »
+La Lanterne Appeleuse d'Âmes se rallume, l'Émissaire des Enfers ne recule pas, le danger persiste.
+Effet final
+Amener le public à découvrir que :
+la voix la plus familière, celle face à laquelle on baisse le plus facilement sa garde, pourrait bien être l'élément le plus dangereux de tout le piège.
+
+XV. Negative Prompt
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117458722943553536/img/0nIGtxVQ33xlIS7U.jpg" width="600" alt="Prompt Cinéma Horreur Xianxia pour Seedance 2.0 Mini">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13438)**
+
+**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2117463209225703771) | **Publié:** Nov 3, 2026
+
+---
+### Marcher en couleur : Éveil monochrome urbain
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt détaillé pour générer une vidéo cinématographique où une femme marchant dans une rue en noir et blanc redonne des couleurs au monde à chaque pas, spécifiquement optimisé pour Seedance 2.0 (seconde moitié) et WAN 3.0 (première moitié).
+
+#### 📝 Prompt
+
+```
+[Spécifications de sortie] Générer une seule planche de personnage simple. Le format est fixé à 16:9. Générer une seule image finalisée. Ne pas inclure de texte, titres, étiquettes, numéros, logos, descriptions, bordures ou décorations. Ne pas générer de designs de type affiche, de designs de type magazine, de processus de production, d'images comparatives ou de mises en page divisées pour comparaison.
+[Entrée] Joindre exactement une image d'ancrage finalisée en même temps que ce document d'instructions. Utiliser l'image jointe comme unique référence pour la personne, le visage, les cheveux, la morphologie et le costume.
+[Objectif] Créer une planche de personnage simple et facile à lire au format 16:9, adaptée à la production vidéo, tout en conservant fidèlement la personne et le costume de l'image d'ancrage. Elle servira de document de référence pour valider la structure tridimensionnelle de la personne et du costume, ainsi que les traits du visage et l'allure de la coiffure.
+[Composition] Disposer un total de 6 vues dans un seul cadre 16:9. De la gauche vers le centre, placer horizontalement les trois vues en pied dans l'ordre suivant : « Vue de face entière / Vue de profil entière / Vue de dos entière ». Sur la partie droite de l'image, disposer verticalement les gros plans du visage dans l'ordre suivant, de haut en bas : « Légèrement de trois quarts gauche / De face / Légèrement de trois quarts droit ».
+[Identité de la personne] Conserver les traits du visage, les yeux, l'arête du nez, la bouche, les contours, l'impression d'âge, la peau, la coiffure, la couleur des cheveux, leur longueur, la frange, la morphologie, l'impression de taille, les proportions tête-corps, la largeur des épaules, celle du buste, celle de la taille, ainsi que la longueur et l'épaisseur des jambes de la personne figurant sur l'image d'ancrage. Assurer une cohérence naturelle entre les trois vues en pied et les trois gros plans du visage afin qu'ils représentent tous la même personne.
+[Trois vues en pied] Unifier les trois vues en pied pour représenter la même personne sous 3 angles différents, en veillant à ce qu'elle soit visible intégralement, du sommet du crâne jusqu'aux pieds, sans aucun recadrage. En prenant le costume de l'image d'ancrage comme référence principale, maintenir autant que possible la cohérence du col, des manches, de la poitrine, du buste, des ornements à la taille, de la longueur de la jupe ou du bas, de la position des fentes, des superpositions de tissu, des couleurs, des motifs, des textures et de la forme des chaussures. La vue de face doit reproduire le plus fidèlement possible la personne et le costume de l'image d'ancrage. La vue de profil doit présenter un profil naturel et réaliste révélant la structure tridimensionnelle de la personne et du costume. La vue de dos doit reconstituer naturellement l'arrière de la chevelure, les épaules, le dos, l'arrière du costume, les jambes et les talons des chaussures. Pour les vues de profil et de dos, les parties invisibles sur l'image d'ancrage peuvent être estimées et complétées, à condition de ne jamais contredire la vue de face.
+[Gros plans du visage] Utiliser l'image d'ancrage comme référence principale pour les gros plans du visage, en préservant autant que possible les traits du visage, les yeux, l'arête du nez, la bouche, la coiffure, la couleur des cheveux et l'atmosphère de la personne de référence. Assurer une cohérence naturelle entre les trois gros plans afin qu'ils représentent la même personne. Veiller à ce que le mouvement des cheveux et les contours du visage ne contredisent pas l'image d'ancrage. Le col du costume et la zone des épaules peuvent être partiellement visibles, mais la priorité reste la lisibilité du visage. Les vues « Légèrement de trois quarts gauche » et « Légèrement de trois quarts droit » ne doivent pas être des profils complets, mais présenter un angle léger suffisant pour discerner les traits du visage.
+[Posture] Les trois vues en pied doivent adopter une posture debout neutre. La vue de face regarde droit devant, les bras légèrement décollés du corps et tombant naturellement, les jambes posées avec un léger écartement. La vue de profil montre la posture strictement de côté, en veillant à ce que les bras ne masquent pas entièrement la silhouette du buste. La vue de dos fait complètement face à l'arrière, sans tourner le visage vers la caméra. Éviter toute pose caractéristique ; privilégier la validation structurelle du corps et du costume.
+[Arrière-plan] L'arrière-plan doit être d'un blanc éclatant uni ou d'un gris très clair. Ne pas inclure de décorations ni de motifs. Réduire au minimum la représentation du sol afin de mettre en valeur la personne.
+[Mise en page] Utiliser environ 3/4 de la largeur de l'image pour les trois vues en pied et 1/4 pour l'empilement vertical des 3 gros plans du visage. S'assurer que les trois silhouettes en pied soient suffisamment grandes pour constituer l'élément central en exploitant une large zone horizontale de la gauche vers le centre, et répartir les trois gros plans du visage à intervalles réguliers sur la partie droite. Veiller à ce qu'il n'y ait aucune interférence entre les vues en pied et les visages, afin de créer une composition facilitant à la fois la lecture du costume et celle du visage. Prévoir des marges suffisantes pour que chaque vue soit parfaitement lisible.
+[Tonalité générale] Simple, épurée et pratique. Facile à consulter comme matériel de production vidéo, en privilégiant la validation structurelle de la personne et du costume. Ne pas transformer l'image en affiche publicitaire.
+[Interdictions] Texte, titres, étiquettes, numéros, logos, descriptions, cadres décoratifs, effets d'arrière-plan, effets de type affiche, effets d'ombrage excessifs, modification de l'identité de la personne, changement de costume, modification de la palette de couleurs, simplification excessive des motifs, poses caractéristiques, jambes croisées, bras levés, mises en page où les trois vues en pied sont trop petites, mises en page où les gros plans du visage sont disposés horizontalement, structures dans les vues de profil/dos contredisant la vue de face, membres manquants, personnages superposés.
+
+[DÉCLARATION]
+FILM DE MODE CINÉMATOGRAPHIQUE PHOTORÉALISTE. Durée totale de 15 secondes, format 1:1. Un court-métrage en prise de vues réelles montrant une femme marchant dans une ville dénuée de couleurs, en noir et blanc. Elle est la seule touche de couleur au monde ; à chacun de ses pas, les trois couleurs de sa jupe se transmettent à la ville sous forme de bandes verticales. Enfin, lorsqu'elle tournoie, la couleur envahit toute la ville, s'achevant dans une douce lumière persistante. Enchaîner 9 plans de manière rythmée.
+
+[RÉFÉRENCE]
+<image1> représente la femme protagoniste. Cette image est une référence de conception la montrant seule, de face, de profil, de dos et sous 3 angles de visage. Le visage, la coiffure, la morphologie, le costume et les bottes sont tels que représentés sur cette image. Ci-après désignée par « la protagoniste ».
+
+[CONDITIONS]
+Il s'agit d'une vieille ville de pierre dont les rues pavées mènent à une place ronde. De hauts bâtiments bordent les deux côtés de la rue, tous ayant perdu leurs couleurs comme sur de vieilles photographies en noir et blanc. Le ciel, les murs, les pavés et les fleurs du fleuriste composent un monde uniquement fait de nuances de gris, baigné par une lumière du jour claire qui projette des ombres paisibles. La protagoniste y marche seule, d'un pas calme. Seule sa silhouette conserve ses couleurs naturelles, et les rayures Rouge Rosé, Orange Ambré et Bleu Ciel de sa jupe apparaissent comme les éléments les plus éclatants de cette ville. Lorsque les bottes de la protagoniste foulent les pavés, des bandes droites aux bords nets reprenant ces trois mêmes couleurs jaillissent sous ses pas, glissant sur le sol et grimpant verticalement le long des murs. Uniquement à l'intérieur de ces bandes, la ville se teinte comme si elle était recouverte d'encre colorée, tout en laissant les joints des pierres et les détails des fenêtres visibles par transparence. Comme si elle savait que la couleur allait se propager, la protagoniste poursuit sa marche avec une expression calme et assurée. L'image ressemble à un film de mode en prise de vues réelles tourné sur pellicule 35 mm, avec un grain fin et des mouvements de caméra fluides.
+
+[DÉROULEMENT DES PLANS]
+[Plan 1 | 0,00~2,00s]
+[DÉBUT]
+Grand angle plongeant directement au milieu d'une rue en noir et blanc. La protagoniste marche vers la caméra depuis le lointain. Sa silhouette paraît petite, mais les trois couleurs de sa jupe ressortent avec éclat.
+[ACTION PRINCIPALE]
+La protagoniste continue de marcher vers la caméra, tandis que celle-ci recule lentement.
+[FIN]
+La protagoniste en pied, marchant vers la caméra.
+
+[Plan 2 | 2,00~3,60s]
+[DÉBUT]
+Très gros plan de profil strict, juste au-dessus du sol pavé. Des bottes blanches entrent dans le cadre par la gauche.
+[ACTION PRINCIPALE]
+Les bottes frappent fermement les pavés, faisant résonner des pas secs. De l'endroit foulé, des bandes tricolores émergent et filent droit vers la profondeur de l'image, traversant les pavés.
+[FIN]
+Trois bandes colorées s'étendant des pieds vers le lointain.
+
+[Plan 3 | 3,60~5,60s]
+[DÉBUT]
+Grand angle montrant la protagoniste strictement de profil, adossée au mur d'un bâtiment en noir et blanc. La protagoniste traverse le cadre de gauche à droite.
+[ACTION PRINCIPALE]
+La caméra se déplace horizontalement vers la droite à la même vitesse que la protagoniste. À chacun de ses pas, des bandes tricolores s'élèvent une à une de bas en haut sur le mur situé immédiatement derrière elle.
+[FIN]
+La protagoniste en marche et les bandes colorées alignées sur le mur à sa gauche.
+
+[Plan 4 | 5,60~7,20s]
+[DÉBUT]
+Gros plan sur la devanture d'un fleuriste dans la rue. Des fleurs en noir et blanc remplissent des seaux.
+[ACTION PRINCIPALE]
+Une bande Orange Ambré passe du sol aux fleurs, teintant uniquement celles situées dans son périmètre de couleurs fraîches et vibrantes.
+[FIN]
+Une bande de fleurs colorées se dressant parmi des fleurs grises.
+
+[Plan 5 | 7,20~9,00s]
+[DÉBUT]
+Gros plan de la protagoniste à partir de la poitrine, marchant vers la caméra. Des bâtiments en noir et blanc s'alignent en arrière-plan.
+[ACTION PRINCIPALE]
+La caméra recule à la même vitesse. Des bandes colorées s'élèvent successivement sur les bâtiments situés loin à gauche et à droite de la protagoniste. Un léger sourire apparaît sur ses lèvres.
+[FIN]
+Le visage souriant de la protagoniste et les bandes colorées alignées en arrière-plan.
+
+[Plan 6 | 9,00~10,00s]
+[DÉBUT]
+Grand angle montrant de face une place ronde en noir et blanc sous un ciel gris. La protagoniste s'avance vers le centre de la place.
+[ACTION PRINCIPALE]
+La protagoniste s'arrête et frappe une fois fermement les pavés avec ses bottes. La caméra reste immobile.
+[FIN]
+La protagoniste en pied, debout au centre de la place.
+
+[Plan 7 | 10,00~11,80s]
+[DÉBUT]
+Vue de la protagoniste au centre de la place, en légère contre-plongée et à distance. Son corps entier tient dans le cadre, du sommet de sa tête jusqu'en dessous de ses bottes, avec un espace de ciel vide au-dessus d'elle. Le ciel et les bâtiments restent en noir et blanc.
+[ACTION PRINCIPALE]
+La protagoniste effectue lentement un tour sur elle-même. L'ourlet de sa jupe plissée s'ouvre largement en cercle, et les rayures tricolores se déploient tel un éventail.
+[FIN]
+La protagoniste en pied, l'ourlet de sa jupe déployé ondulant près du sol.
+
+[Plan 8 | 11,80~13,20s]
+[DÉBUT]
+Plan large en plongée sur la place. La protagoniste se tient au centre, entièrement entourée de noir et blanc.
+[ACTION PRINCIPALE]
+Des vagues de trois couleurs se propagent de manière concentrique depuis les pieds de la protagoniste, traversant les pavés, s'élançant sur les bâtiments et dans le ciel, rendant ses couleurs naturelles à la ville entière.
+[FIN]
+La protagoniste debout au centre de la place qui a retrouvé ses couleurs.
+
+[Plan 9 | 13,20~15,00s]
+[DÉBUT]
+Gros plan de la protagoniste à partir de la poitrine, au centre de la place, regardant droit devant. En arrière-plan, les bâtiments et le ciel bleu ont retrouvé leurs couleurs naturelles.
+[ACTION PRINCIPALE]
+La caméra s'approche très lentement. La protagoniste expire doucement et regarde au loin. Tout au fond du ciel, bien au-delà d'elle, quelques petits pétales voltigent lentement.
+[FIN]
+Le visage de la protagoniste regardant paisiblement au loin, baigné par la lumière de la ville colorée.
+
+[SON]
+BGM sur une seule piste. Musique légère mêlant claquements de doigts et contrebasse, jouée en continu dès la première image à 0 seconde, sans interruption. À partir du moment où la protagoniste tournoie, des instruments à vent s'ajoutent, amplifiant magnifiquement la mélodie. Lorsque la couleur revient totalement, le son s'apaise, et finalement, une note unique résonne longuement avant de s'éteindre dans le silence. Aucun dialogue ni narration.
+
+[NÉGATIF]
+Texte, sous-titres, logos, filigranes
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117449754674417664/img/ego2_NDdp_fx5cE3.jpg" width="600" alt="Marcher en couleur : Éveil monochrome urbain">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13440)**
+
+**Auteur:** [AIライフハック](https://x.com/ai_lifehack55) | **Source:** [Link](https://x.com/ai_lifehack55/status/2117450061915578482) | **Publié:** Nov 3, 2026
+
+---
+### Prompt d'exécution de réalisateur Seedance en chinois : The Promised Sea
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt détaillé de style réalisateur pour Seedance 2.0 Mini/2.5, destiné à créer un court-métrage en POV à la première personne sur le thème du Xianxia avec vol d'épée, intitulé « The Promised Sea ». Inclut des instructions strictes concernant la continuité, la physique, les dialogues et la caméra.
+
+#### 📝 Prompt
+
+```
+Version d'exécution du réalisateur chinois Seedance | « La Mer Promise »
+
+I. Informations générales du projet
+Durée : strictement 15 secondes
+Format : 16:9 horizontal
+Langue : dialogues en mandarin
+Point de vue : POV (vue subjective) intégrale du personnage principal masculin
+Style : court-métrage hyper-réaliste et cinématographique de Xianxia chinois (vol sur épée)
+Modèle recommandé : Seedance 2.0 Mini / 2.5
+
+II. Style central et objectifs narratifs
+Texture hyper-réaliste et cinématographique, esthétique pure du Xianxia chinois antique.
+L'intégralité de la séquence est filmée à travers les yeux du personnage principal masculin ; hauteur de caméra d'environ 178 cm, constamment liée aux mouvements de son corps et de son épée volante. Chaque piqué, accélération, inclinaison, rotation de la tête, cabrage, stabilisation et vol plané doit restituer une inertie corporelle et un retour de centre de gravité réalistes.
+L'expérience centrale ne consiste pas à faire étalage de prouesses techniques, mais à offrir :
+Un vol sur épée immersif à la première personne
+Une transition spatiale continue depuis le gigantesque palais céleste jusqu'à l'océan sous les nuages
+Une conclusion tout en douceur, passant de « la perplexité face à la taquinerie » à « elle se souvient de la promesse »
+L'image doit rester parfaitement lisible : aucun plan flottant façon drone, aucune insertion en troisième personne, aucun panoramique fouetté injustifié.
+
+III. Verrouillage des personnages et des assets
+Personnage A | Héroïne | Verrouillage strict sur @Image1
+Même femme adulte d'origine est-asiatique, même identité, mêmes traits du visage, même forme du visage, même teint, même coiffure, mêmes proportions corporelles.
+Texture de peau réaliste, longs cheveux noirs naturellement balayés par le vent.
+Tenue unique et figée :
+Robe Xianxia de vol sur épée blanc de lune et cyan clair
+Col brodé de fils d'argent
+Large ceinture ajustée à la taille
+Couche intérieure à manches étroites
+Robe extérieure en soie
+Accessoires en jade raffinés
+Tissu doté d'un poids réel et d'un balancement avec temps de retard.
+L'héroïne se tient debout sur sa propre et unique épée volante intacte pendant toute la durée, les pieds stables sur la lame. Le centre de gravité du personnage, l'orientation de l'épée et la trajectoire de vol doivent toujours être cohérents.
+Personnage B | Héros | Sujet à la première personne
+Le visage du héros n'apparaît jamais.
+Le bord inférieur du cadre doit systématiquement afficher :
+Les pointes des chaussures du héros
+Son épée volante argentée et fine sous ses pieds
+Le héros se tient également debout sur sa propre et unique épée volante intacte pendant toute la durée, les pieds stables, avec une longueur, une apparence et une orientation d'épée constantes.
+
+IV. Environnement et ADN spatial
+Environnement principal | Conçu d'après l'image de référence 2
+L'arrière-plan doit être strictement construit à partir de @Image2, en conservant le même environnement de palais céleste gigantesque et ses éléments fondamentaux :
+Immense roue céleste circulaire en jade au centre
+Palais symétriques en bois sombre à gauche et à droite
+Avant-toits relevés superposés
+Vaste esplanade en pierre blanche
+Plateformes suspendues
+Ciel cyan froid
+Coucher de soleil doré et chaleureux
+Contraste d'échelle extrême entre l'architecture et les personnages.
+À partir de cette base, prolonger naturellement vers le bas :
+Falaises du palais hautes de dix mille zhang
+Cascades monumentales
+Profondes vallées de nuages
+Un vaste et véritable océan sous les nuages
+Continuité spatiale
+Le spectateur doit comprendre clairement qu'il s'agit d'un trajet continu :
+Axe supérieur du palais céleste -> Extérieur de la grande roue de jade -> Falaises du palais géant -> Cascade -> Vallée de nuages -> Percée des nuages -> Océan sous les nuages
+Il ne doit en aucun cas s'agir d'un montage de scènes disparates.
+L'architecture, les falaises, les cascades, les nuages et l'océan doivent appartenir à un seul et même monde cohérent.
+
+V. Règles unifiées pour le vol et la caméra
+Règle de la première personne
+La caméra représente en permanence le regard du héros et ne bouge qu'en raison de son vol réel.
+Les mouvements de caméra ne peuvent provenir que de :
+Ruée vers l'avant
+Piqué
+Inclinaison latérale
+Suivi de la rotation de l'héroïne
+Cabrage
+Stabilisation
+Rotation naturelle de la tête pour regarder l'héroïne
+Retour du regard vers l'avant
+Retours physiques requis
+Bref sentiment d'apesanteur lors du piqué
+Pression latérale dans les virages
+Récupération du centre de gravité lors de la stabilisation
+Compression de l'espace lors de la traversée des nuages ou de la cascade
+Sensation corporelle stable mais rapide lors du vol plané au-dessus de la mer
+Exigences de parallaxe
+L'architecture, les avant-toits, les murs de pierre et la brume au premier plan défilent à toute vitesse
+Les palais géants au second plan conservent nettement leur volume
+Les nuages, montagnes et îles en arrière-plan se déplacent relativement plus lentement
+La relation spatiale globale reste claire
+
+VI. Storyboard complet de 15 secondes
+0-3s | Départ parallèle en haute altitude : Où est la mer promise ?
+Visuel
+Démarrage direct à la première personne en haute altitude.
+Le héros survole déjà l'esplanade de l'axe central du palais céleste à plusieurs centaines de mètres de hauteur.
+Le bord inférieur montre clairement les pointes de ses chaussures et sa fine épée volante argentée.
+Au premier plan, l'immense roue circulaire en jade domine le champ de vision.
+À gauche et à droite, de vastes palais s'étendent en paliers dans les airs.
+L'héroïne se tient sur sa propre épée volante, progressant parallèlement au héros à environ 2 m de distance. Un vent de montagne violent tire naturellement ses longs cheveux et l'ourlet de soie de sa robe vers l'arrière.
+Action
+Le héros regarde naturellement autour de lui, puis pose les yeux sur l'héroïne.
+Dialogue
+Le héros (avec une légère perplexité face à la taquinerie) :
+« Où est la mer promise ? »
+L'héroïne tourne légèrement le visage, un coin de ses lèvres se soulève :
+« Sous tes pieds. Suis-moi. »
+Action de fin de segment
+Dès ces mots prononcés, l'héroïne penche brusquement le corps vers l'avant, abaisse la pointe de son épée et plonge rapidement avec celle-ci le long de l'extérieur du palais céleste.
+La vue subjective du héros suit immédiatement, son épée volante accélère d'un coup sec, provoquant un bref et réaliste retour d'apesanteur dû au piqué.
+
+3-7s | Piqué le long de la structure géante : descente via la cascade sur le flanc du palais
+Visuel et trajectoire
+La vue à la première personne suit l'héroïne qui descend depuis l'extérieur de l'anneau géant.
+L'imposante structure de jade s'élève rapidement au-dessus de la tête avant de sortir du champ.
+L'héroïne reste toujours quelques mètres devant, sa silhouette et sa direction de vol demeurent stables et nettes.
+Les deux épées volantes descendent rapidement le long des falaises extérieures du palais géant :
+Frôlant l'intérieur des immenses avant-toits
+Rasant les bases en pierre blanche des bâtiments hautes de plusieurs centaines de mètres
+Puis amorçant un large virage fluide vers la droite à l'extérieur de la cascade de dix mille zhang
+L'ensemble du segment dessine une trajectoire aérienne claire en forme de S :
+Piqué abrupt
+Évitement des bâtiments
+Inclinaison dans le virage
+Poursuite de la descente le long du bord de la cascade
+Parallaxe
+Les énormes supports dougong, les murs de pierre et la brume au premier plan défilent à toute vitesse.
+Les palais lointains et les nuages se déplacent relativement lentement.
+La sensation de vitesse et d'espace doit être extrêmement puissante.
+Dialogue
+Le héros crie pour couvrir le vent :
+« Il n'y a que des nuages en bas, non ? »
+L'héroïne tourne brièvement la tête en plein vol :
+« Descends encore ! »
+Puis elle abaisse de nouveau la pointe de son épée, fonçant vers la vallée de nuages sous la cascade.
+
+7-11s | Traversée de la cascade et des nuages : révélation totale de l'océan sous les nuages
+Visuel et trajectoire
+L'héroïne poursuit son piqué le long de la cascade, puis incline légèrement son épée vers la gauche pour s'engouffrer dans le large passage entre le rideau d'eau et le mur de nuages.
+La vue subjective du héros la suit de très près.
+La caméra traverse très brièvement :
+Une brume blanche semi-transparente
+Un voile de nuages
+Mais cet obstacle doit être court, transparent et lisible, sans jamais devenir chaotique ni incontrôlable.
+Puis elle jaillit sous la couche nuageuse.
+Révélation émerveillée
+Le champ de vision s'ouvre instantanément et totalement.
+Sous la mer de nuages s'étend un océan d'un bleu profond, véritablement immense.
+Une lumière solaire dorée et chaleureuse se répand à la surface de l'eau.
+Au loin, des îles montagneuses de tailles variées, une brume marine bleu pâle et les ombres lointaines projetées par les gigantesques bâtiments du palais céleste.
+Transition de l'état de vol
+L'épée volante de l'héroïne se stabilise progressivement selon un arc fluide, transformant naturellement le piqué abrupt en un vol plané à haute vitesse au ras de la mer.
+La vue subjective du héros cabre son épée en conséquence, le corps revenant naturellement d'une position penchée vers l'avant à une posture debout.
+Le cadre affiche un retour de centre de gravité réaliste mais mesuré, dû au changement de direction de la vitesse.
+Dialogue
+Aucun dialogue dans ce segment.
+La révélation repose entièrement sur la trajectoire des épées, les changements spatiaux et l'évolution sonore.
+
+11-15s | Vol parallèle au ras de la mer : Je n'ai pas oublié ma promesse
+État visuel
+Les deux personnages volent côte à côte à haute vitesse au-dessus de la mer.
+Les épées volantes évoluent à environ 3 mètres de la surface de l'eau.
+De véritables vagues défilent continuellement vers l'arrière.
+La lumière dorée du soleil crée des éclats fragmentés sur la crête des vagues.
+Le passage rasant des épées génère une fine brume et une légère perturbation de l'air.
+Changement de position relative de l'héroïne
+L'héroïne réduit la distance latérale en suivant une élégante trajectoire en arc depuis l'avant, pour finalement maintenir un vol parallèle à environ 3 mètres du héros.
+Action à la première personne
+Le héros tourne naturellement la tête pour la regarder.
+Ses longs cheveux et l'ourlet de sa robe s'étirent vers l'arrière sous l'effet du flux d'air, quelques mèches près de sa joue sont soulevées par le vent.
+Dialogue
+L'héroïne regarde le héros ; son expression auparavant légèrement taquine se mue peu à peu en un sourire doux et spontané, et elle murmure :
+« Je n'ai pas oublié ma promesse. »
+Le héros la regarde silencieusement un bref instant, puis tourne naturellement la tête vers l'avant.
+Visuel de fin
+Le dernier plan montre :
+Un océan infini d'or et de bleu
+Un archipel au loin
+La silhouette estompée de l'immense palais céleste derrière eux, haut dans le ciel
+Deux épées volantes poursuivant leur route côte à côte dans la lumière du soleil.
+Le plan se termine naturellement tandis que les deux personnages continuent leur vol.
+Ancrage de continuité pour la fin
+Il est impératif de préserver à la clôture du plan :
+Le cap exact
+La vitesse actuelle
+La hauteur de la vue subjective du héros
+La position relative de l'héroïne
+L'état de vol plané au niveau de la mer
+Une continuité spatiale permettant d'enchaîner sur le segment suivant
+
+VII. Liste des dialogues (contrôle strict)
+Ne conserver que les dialogues suivants pour l'ensemble du film, sans ajouter de répliques explicatives :
+Héros : « Où est la mer promise ? »
+Héroïne : « Sous tes pieds. Suis-moi. »
+Héros : « Il n'y a que des nuages en bas, non ? »
+Héroïne : « Descends encore ! »
+Héroïne : « Je n'ai pas oublié ma promesse. »
+Exigences d'exécution des dialogues
+Mandarin naturel et conversationnel
+Synchronisation labiale précise lorsque l'héroïne est visible en train de parler
+Voix masculine hors champ constante pour le héros (toujours à la première personne)
+Séparation nette des voix masculine et féminine
+Aucune interruption, aucun chevauchement, aucune lecture mécanique
+
+VIII. Conception sonore
+Première moitié | Haute altitude du palais céleste
+Sifflement du vent de montagne en haute altitude
+Bruit de fente de l'air lors du vol sur épée
+Rugissement lointain de la cascade
+Sensation de pression atmosphérique lors du passage près des structures géantes
+Section médiane | Traversée des nuages et de la cascade
+Le son du vent devient plus grave et plus enveloppant
+Sensation de pénétration dans la brume
+Le paysage sonore s'ouvre soudainement lors de la sortie des nuages
+Seconde moitié | Vol plané au-dessus de la mer
+Bruits de vagues de la mer ouverte
+Subtils chuintements de brume générés par l'épée frôlant l'eau
+Voix humaines plus claires
+Musique
+Retenue dans la première moitié
+Entre naturellement pour soutenir le climax émotionnel lors de la « première apparition complète de l'océan »
+Retourne à la douceur à la fin
+Ne doit en aucun cas écraser les dialogues et les sons d'ambiance.
+
+IX. Exigences de continuité et de physique
+Continuité des personnages
+L'héroïne reste toujours la même personne que sur @Image1 :
+Aucun changement de visage
+Aucun changement de coiffure
+Aucun changement de tenue
+Aucun changement de proportions corporelles
+Continuité des épées volantes
+Chaque personnage ne possède qu'une seule et unique épée volante intacte
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117186940445560832/img/aaM58O2D2io_uZ2e.jpg" width="600" alt="Prompt d'exécution de réalisateur Seedance en chinois : The Promised Sea">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13435)**
+
+**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2117190326528168293) | **Publié:** Nov 2, 2026
+
+---
+### Prompt Vidéo Comédie Xianxia Ancienne Chine Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt détaillé pour générer une vidéo cinématographique de 15 secondes avec Seedance 2.0 Mini. Il met en scène deux immortelles épéistes s'entraînant secrètement pendant leurs vacances, ce qui conduit à une confrontation comique avec leur maître. Le prompt spécifie des textures réalistes, une qualité Arri Alexa et des actions précises des personnages.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | « Jour de repos aujourd'hui »
+
+Modèle : Seedance 2.0 Mini
+Durée : Strictement 15 secondes
+Format : 16:9 Paysage
+Genre : Xianxia chinois antique pur / Comédie à retournement de situation / Vie quotidienne de la secte / Drame relationnel à deux personnages
+Structure : Trois plans cinématographiques continus et distincts, remplissant chacun une fonction comique différente.
+
+I. Style global et direction créative
+Texture réaliste cinématographique, esthétique Xianxia chinoise antique pure.
+Intégrer les langages comiques suivants :
+Comédie physique précise issue des films muets classiques
+Humour pince-sans-rire britannique (deadpan)
+Rythme de réaction rapide propre aux comédies hongkongaises
+Retournements en trois temps générés par le comportement des personnages
+
+Photographie et texture visuelle
+Adopter :
+Texture de caméra cinéma Arri Alexa
+Textures de peau réalistes
+Grain de film fin
+Lumière volumétrique naturelle
+Mouvement réaliste des tissus en soie
+Physique capillaire réaliste
+
+Principes de réalisation comique
+Générer le rire naturellement grâce à :
+Le comportement des personnages
+La synchronisation des actions
+Les regards échangés
+De brefs silences
+La vitesse de réaction
+Une mise en espace (blocking) réaliste
+Les personnages ne doivent en aucun cas être dépeints comme des idiots.
+Les deux rôles principaux féminins sont de véritables épéistes de haut niveau, aux mouvements gracieux et aux personnalités bien tranchées.
+Elles nourrissent un fort esprit de compétition l'une envers l'autre, tout en entretenant une relation complice.
+
+II. Intrigue principale et mécanisme comique
+Cœur de l'histoire
+La secte annonce un jour de repos, mais la Sœur Aînée et la Sœur Cadette s'entraînent secrètement à l'épée dans le dos l'une de l'autre, aucune n'admettant fournir des efforts.
+Résultat :
+Toutes deux sont prises sur le fait simultanément par le Maître.
+Le jour de congé se transforme directement en séance d'entraînement supplémentaire.
+
+Conflit comique
+Le rire naît d'une contradiction humaine universelle :
+Tout le monde a convenu de se reposer, mais chacun craint que les autres ne progressent en secret pendant ce temps.
+Toutes deux veulent s'entraîner en cachette.
+Conséquence : elles tombent nez à nez.
+Au final, aucune n'y gagne quoi que ce soit.
+
+Structure de retournement en trois couches
+Couche 1 : Le jour de repos
+Le Maître annonce explicitement que tout le monde se repose et que la pratique de l'épée est interdite.
+Couche 2 : La prise sur le fait mutuelle
+La Sœur Aînée et la Sœur Cadette reviennent toutes deux en douce pour s'entraîner et se croisent.
+Couche 3 : L'entraînement punitif
+Chacune pense n'avoir été découverte que par l'autre, mais elles sont finalement prises sur le fait par le Maître au même moment.
+Deux mouvements pratiqués en secret entraînent cent mouvements d'entraînement supplémentaire.
+
+Contrainte narrative
+Toute l'histoire tourne autour de cet unique événement.
+Ne pas ajouter d'autres intrigues indépendantes.
+
+III. Identité des personnages et verrouillage des éléments clés
+Personnage A | @Image1 | Sœur Aînée Immortelle de l'Épée
+Identité et apparence
+La même Sœur Aînée Immortelle de l'Épée :
+Femme adulte d'Asie de l'Est, 25 à 30 ans
+Les traits du visage héritent strictement de l'image de référence du personnage
+La forme du visage hérite strictement de l'image de référence du personnage
+Le teint hérite strictement de l'image de référence du personnage
+La silhouette hérite strictement de l'image de référence du personnage
+Longs cheveux noirs à demi attachés
+Maintenus par une épingle à cheveux en jade blanc
+Costume fixe
+Costume Xianxia en véritable soie blanche brodée
+Ceinture argentée à la taille
+Arme exclusive
+Une longue épée argentée unique.
+Personnalité et jeu d'acteur
+Digne et élégante
+Expressions mesurées
+Veille habituellement à maintenir son autorité de Sœur Aînée
+Compétitive face à la Sœur Cadette
+Point focal comique
+Lorsque la très digne Sœur Aînée est surprise en train de s'entraîner en secret par la Sœur Cadette, elle affiche un embarras bref mais sincère.
+
+Personnage B | @Image2 | Sœur Cadette
+Identité et apparence
+La même Sœur Cadette :
+Femme adulte d'Asie de l'Est, 20 à 25 ans
+L'identité faciale hérite strictement de l'image de référence du personnage
+Les proportions corporelles héritent strictement de l'image de référence du personnage
+La coiffure hérite strictement de l'image de référence du personnage
+Longs cheveux noirs tressés
+Costume fixe
+Robe ancienne bleu-vert
+Ceinture sombre
+Arme exclusive
+Une épée en acier sombre unique.
+Personnalité et jeu d'acteur
+Vivante
+Compétitive
+Refuse d'admettre qu'elle travaille moins dur que la Sœur Aînée
+Point focal comique
+Pensant pouvoir s'entraîner en secret, elle découvre que la Sœur Aînée est également là et produit immédiatement une réaction naturelle de surprise mêlée de dépit.
+
+Nouveau personnage secondaire | Le vieux Maître
+Un seul vieux Maître apparaît tout au long du film.
+Exigences concernant le personnage
+Apparence constante du début à la fin
+Costume constant du début à la fin
+Le positionnement du personnage obéit à une logique spatiale réelle
+Personnalité
+Sérieux
+Impassible (deadpan)
+Possède un regard légèrement amusé et perspicace sur toute chose
+Point focal du jeu d'acteur
+Le Maître n'a pas besoin d'expressions exagérées.
+Son calme crée un contraste comique avec la panique des deux héroïnes.
+
+IV. ADN de l'arrière-plan et de l'environnement
+Toutes les images de référence d'arrière-plan/lieux nouvellement importées définissent collectivement un monde Xianxia réel et existant.
+Planification de l'environnement
+Avant la composition formelle, comprendre ce que les images de référence présentent collectivement :
+Structure du terrain
+Relations architecturales
+Échelle spatiale
+Matériaux
+Végétation
+Plans d'eau
+Nuages/brume
+Météo
+Direction de la lumière principale
+Reflets
+Profondeur atmosphérique
+Planifier un espace ouvert adapté à l'entraînement à l'épée de deux personnes, tout en respectant scrupuleusement les relations géographiques réelles.
+
+Continuité des lieux
+Les trois plans se déroulent toujours au sein du même système spatial réel.
+Il faut impérativement maintenir :
+Des relations de terrain cohérentes
+Des positions de bâtiments cohérentes
+Des positions de chemins cohérentes
+Une direction de lumière principale cohérente
+Des repères environnementaux majeurs continus
+Principe clé
+L'arrière-plan lui-même ne peut en aucun cas devenir un ressort scénaristique.
+
+V. Arrière-plan vivant et neutralité narrative
+Mouvements naturels de l'environnement
+Un vent naturel pousse doucement et en continu :
+Les manches
+Les feuilles
+Les autres objets naturels conformes aux images de référence
+Si des plans d'eau sont présents :
+L'eau s'écoule naturellement et en continu
+Si des nuages/de la brume sont présents :
+Les nuages/la brume évoluent lentement selon la topographie réelle
+Maintenir simultanément :
+Le mouvement naturel de la végétation lointaine
+La continuité des reflets
+La continuité des couches atmosphériques
+Principe environnemental
+L'ensemble de l'environnement doit être :
+Vivant
+Doté d'une vitalité réelle
+Conforme aux lois de la physique
+Tout en veillant simultanément à :
+Ne pas influencer le moindre choix des personnages ni les retournements comiques.
+
+VI. Découpage complet des plans sur 15 secondes
+0–5 s | Premier plan : Plan large | Le Maître annonce le jour de repos
+Fonction du plan
+Établir les règles, afin que le public comprenne clairement qu'aujourd'hui devrait être un jour de repos.
+Caméra
+Utiliser un plan panoramique grand écran.
+Légère contre-plongée.
+Mettre pleinement en valeur la profondeur spatiale réelle de la scène de référence actuelle.
+Positionnement initial des personnages
+Le Maître
+Le même vieux Maître se tient au centre du cadre.
+Les Sœurs Aînée et Cadette
+La même Sœur Aînée Immortelle de l'Épée vêtue de blanc et la même Sœur Cadette vêtue de vert se tiennent côte à côte devant le Maître.
+Toutes deux :
+Portent leur longue épée au fourreau
+Se tiennent dans une posture irréprochable
+Ont l'air sérieux
+Le Maître annonce le jour de repos
+Le Maître déclare d'un ton impassible :
+[Maître] « Aujourd'hui est un jour de repos, personne n'est autorisé à pratiquer l'épée ! »
+Première réaction du duo
+Les deux jeunes femmes entendent parler du jour de repos.
+Leurs yeux affichent simultanément une joie subtile.
+Mais elles reprennent immédiatement leur air respectueux.
+Dialogue et action synchronisés
+Toutes deux saluent en même temps :
+[Sœur Aînée, Sœur Cadette] « Bien, Maître ! »
+Sortie des personnages
+Ensuite :
+La Sœur Aînée s'éloigne dans une direction
+La Sœur Cadette part dans la direction opposée
+Toutes deux marchent nonchalamment
+Le Maître s'éloigne également lentement le long du chemin établi dans le cadre.
+Exigence caméra
+La caméra reste parfaitement stable.
+Objectif narratif du premier plan
+Il doit être clair pour le public :
+Qu'aujourd'hui était censé être un jour de repos pour tout le monde.
+
+5–10 s | Deuxième plan : Plan moyen | Les deux acharnées prises sur le fait
+Fonction du plan
+Achever le premier retournement comique par des actions indépendantes doubles et un embarras synchronisé.
+Continuité spatiale
+Coupe vers un plan moyen du même espace d'entraînement à l'épée.
+Les éléments suivants sont strictement continus avec le plan précédent :
+Terrain
+Bâtiments
+Éclairage
+Relations spatiales
+Premier segment d'action : La Sœur Aînée revient en douce
+La même Sœur Aînée Immortelle de l'Épée vêtue de blanc retourne discrètement dans la zone d'entraînement.
+Elle observe d'abord ses alentours de manière très naturelle.
+Confirme que le Maître n'est pas dans les parages.
+Puis dégaine la même longue épée argentée.
+Technique d'épée de la Sœur Aînée
+Elle exécute rapidement un mouvement extrêmement gracieux :
+Une frappe diagonale avec pivot.
+Exigences d'action :
+Fluidité des mouvements corporels
+Appuis stables
+Les manches en véritable soie dessinent naturellement des arcs élégants
+Deuxième segment d'action : La Sœur Cadette revient aussi en douce
+Cependant, presque au même instant.
+La même Sœur Cadette vêtue de vert revient également en douce depuis l'autre côté du cadre.
+Elle suppose pareillement que personne d'autre n'est présent.
+Elle dégaine donc la même épée en acier sombre.
+Technique d'épée de la Sœur Cadette
+Elle exécute :
+Une frappe diagonale nette et tranchante.
+Principe de la double technique d'épée
+Les mouvements des deux personnages sont gracieux.
+Les pointes des épées :
+Ne s'entrechoquent pas
+Ne se pointent pas mutuellement
+Premier retournement comique : La découverte mutuelle
+Jusqu'à ce que toutes deux se retournent après avoir terminé leur mouvement.
+Elles découvrent soudain :
+Que l'autre est en fait là aussi.
+Les deux expertes se figent simultanément.
+Pause comique
+Maintenir une pause qui soit :
+Totale
+Claire
+Légèrement gênante
+Première série de dialogues
+La Sœur Cadette parle la première :
+[Sœur Cadette] « Sœur Aînée, tu t'entraînes en cachette toi aussi ? »
+La Sœur Aînée rétorque immédiatement :
+[Sœur Aînée] « Et toi donc ? »
+Double réaction silencieuse
+Les deux épées restent dans des positions inoffensives.
+Elles baissent d'abord les yeux vers l'épée que tient l'autre.
+Puis relèvent la tête pour croiser le regard.
+Information comique
+Deux personnes qui s'entraînaient dur en secret ne peuvent soudain plus faire semblant d'être simplement passées par là.
+Principe caméra
+La caméra maintient un cadrage complet des deux personnages.
+Laisser l'embarras parfaitement synchronisé des deux jeunes femmes générer naturellement le rire.
+
+10–15 s | Troisième plan : Gros plan | Le jour de congé se transforme directement en entraînement supplémentaire
+Fonction du plan
+Achever le dernier retournement comique par la réapparition du Maître, l'ordre d'entraînement supplémentaire et la double réaction synchronisée.
+Caméra
+La caméra effectue un léger travelling avant depuis le plan moyen des deux personnages.
+Logique spatiale du retour du Maître
+Le même Maître s'était déjà éloigné le long du chemin précédemment établi.
+Mais après avoir entendu le bruit de leur entraînement :
+Il s'arrête
+Se retourne
+Revient sur ses pas par le même chemin
+Les Sœurs Aînée et Cadette ne remarquent absolument rien.
+Le Maître prend soudain la parole
+Jusqu'à ce que le Maître dise calmement derrière elles :
+[Maître] « Vous aimez tant vous entraîner ? Ajoutez cent mouvements à votre séance. »
+Deuxième figement synchronisé du duo
+Les deux jeunes femmes entendent la voix.
+Et se figent instantanément en même temps.
+Ensuite, avec des gestes presque parfaitement synchronisés :
+Elles rengainent rapidement leurs longues épées respectives dans leur fourreau
+Se retournent simultanément
+Font face au Maître
+Saluent sincèrement
+Dialogue de supplication synchronisé
+[Sœur Aînée, Sœur Cadette] « Maître, nous avons eu tort ! »
+Conclusion à l'humour froid du Maître
+Le visage du Maître reste impassible.
+[Maître] « Trop tard. »
+Très gros plan final
+Les deux immortelles de l'épée, qui voulaient simplement se surpasser en secret, se regardent très lentement.
+Elles réalisent simultanément :
+Que deux mouvements pratiqués en secret ont entraîné cent mouvements d'entraînement supplémentaire.
+Expression finale
+Une expression de désarroi identique apparaît sur leurs deux visages.
+Elles n'ont même plus besoin de prononcer un mot.
+Fin
+Au moment précis de cet échange de regards silencieux, couper net au noir.
+
+VII. Les trois plans et le contrôle du rythme
+Structure temporelle fixe
+Temps Taille du plan Tâche narrative Mécanisme comique 0–5 s Panorama grand écran Établir la règle du jour de repos de la secte Règle impassible vs attente dissimulée 5–10 s Plan moyen à deux personnages Les deux s'entraînent en secret et se surprennent mutuellement Effet miroir comportemental et embarras synchronisé 10–15 s Gros plan évoluant en très gros plan Le Maître apparaît et annonce l'entraînement supplémentaire Intervention de l'autorité et retournement final
+
+Principe de montage
+Conserver la structure principale de trois plans continus tout au long du film.
+Les trois plans accomplissent respectivement :
+L'établissement des règles
+La transgression des règles
+Le prix à payer pour cette transgression
+
+Rythme comique
+Segment 1 : Calme, ordonné
+Segment 2 : Accélération soudaine, jeu d'épée gracieux, arrêt sur image inattendu
+Segment 3 : Apparition calme du Maître, excuses précipitées des deux jeunes femmes, échange de regards silencieux final
+Les pauses doivent servir la comédie ; ne pas étirer artificiellement la durée.
+
+VIII. Techniques d'épée et physique corporel
+Technique d'épée de la Sœur Aînée
+Utilise la longue épée argentée unique.
+Actions :
+Dégainer → Frappe diagonale avec pivot → Atterrissage stable → Découverte de la Sœur Cadette → Arrêt → Rengainer enfin l'épée
+
+Technique d'épée de la Sœur Cadette
+Utilise l'épée en acier sombre unique.
+Actions :
+Dégainer → Frappe diagonale nette → Atterrissage stable → Découverte de la Sœur Aînée → Arrêt → Rengainer enfin l'épée
+
+Exigences pour la double technique d'épée
+Les actions sont réalistes
+Les trajectoires des épées sont claires
+Les mouvements corporels sont élégants
+La physique est plausible
+Le mouvement des tissus est naturel
+Les personnages possèdent de véritables compétences martiales
+
+Strictement interdit
+Effets spéciaux exagérés
+Véritable duel entre les deux
+Entrechocs accidentels d'armes
+Moulinets d'armes sans intérêt
+
+IX. Jeu d'acteur et tension comique
+Sœur Aînée
+Plan 1
+Maintient l'image d'une Sœur Aînée digne et respectueuse.
+N'affiche qu'une joie subtile en entendant parler du jour de repos.
+Plan 2
+Observe prudemment les alentours puis s'entraîne en secret.
+Son maniement de l'épée est gracieux.
+En découvrant la Sœur Cadette, son autorité se fissure brièvement.
+Elle garde néanmoins inconsciemment sa contenance.
+Plan 3
+Rengaine immédiatement son épée et s'excuse dès qu'elle entend la voix du Maître.
+Regarde enfin la Sœur Cadette, affichant un désarroi contenu mais évident.
+
+Sœur Cadette
+Plan 1
+Heureuse mais polie en entendant parler du jour de repos.
+Plan 2
+Revient en douce pour s'entraîner.
+Ses mouvements sont tout aussi gracieux.
+En découvrant la Sœur Aînée, elle est d'abord surprise, puis ne peut s'empêcher de parler.
+Plan 3
+S'excuse rapidement en entendant l'ordre d'entraînement supplémentaire.
+Affiche à la fin une expression de désarroi synchronisée avec celle de la Sœur Aînée.
+
+Le Maître
+Plan 1
+Annonce sérieusement le jour de repos.
+Plan 2
+S'éloigne le long du chemin établi.
+Plan 3
+Revient naturellement après avoir entendu les bruits d'entraînement.
+Annonce calmement l'entraînement supplémentaire.
+Fait face à leurs supplications sans changer d'expression en disant :
+« Trop tard. »
+
+Principe de jeu d'acteur
+L'humour du Maître repose sur le fait que :
+Plus il est sérieux, plus les deux jeunes femmes paraissent mal à l'aise.
+
+X. Dialogues complets et synchronisation labiale
+0–5 s
+[Maître] « Aujourd'hui est un jour de repos, personne n'est autorisé à pratiquer l'épée ! »
+[Sœur Aînée, Sœur Cadette simultanément] « Bien, Maître ! »
+
+5–10 s
+[Sœur Cadette] « Sœur Aînée, tu t'entraînes en cachette toi aussi ? »
+[Sœur Aînée] « Et toi donc ? »
+
+10–15 s
+[Maître] « Vous aimez tant vous entraîner ? Ajoutez cent mouvements à votre séance. »
+[Sœur Aînée, Sœur Cadette simultanément] « Maître, nous avons eu tort ! »
+[Maître] « Trop tard. »
+
+Exigences d'exécution des dialogues
+Tous les dialogues sont en mandarin naturel
+Les personnages désignés parlent avec précision
+La synchronisation labiale correspond à l'audio
+Les dialogues simultanés doivent être véritablement synchronisés
+Ne pas ajouter de répliques explicatives temporaires
+
+Pauses comiques
+Il faut impérativement préserver :
+Le bref figement après la découverte mutuelle
+La réaction synchronisée lors de l'apparition soudaine du Maître
+L'échange de regards silencieux final entre les deux jeunes femmes
+
+Principe fondamental
+Mener à bien la narration principale par les actions des personnages, leurs regards et les pauses comiques.
+
+XI. Continuité des personnages, armes et décors
+Les deux rôles principaux
+Il faut strictement maintenir :
+La même identité faciale
+La même forme de visage et les mêmes traits
+La même coiffure
+Le même costume
+Les mêmes proportions corporelles
+
+Armes
+Sœur Aînée
+Longue épée argentée unique.
+Sœur Cadette
+Épée en acier sombre unique.
+
+État des armes
+Plan 1 :
+Les deux épées sont au fourreau.
+Plan 2 :
+Chacune dégaine séparément son épée pour s'entraîner.
+Plan 3 :
+Toutes deux rengainent simultanément leurs longues épées respectives dans leur fourreau.
+
+Le Maître
+Maintenir :
+La même identité de personnage
+La même apparence
+Le même costume
+Un trajet de déplacement réel et continu
+
+Espace
+Les trois plans doivent préserver :
+La même identité environnementale
+Les mêmes relations géographiques
+Le même système architectural
+La même logique d'éclairage
+La même zone d'entraînement
+
+Restrictions strictes
+Les personnages ne peuvent pas magiquement :
+Apparaître
+Échanger leurs places
+Se téléporter
+
+XII. Conception sonore
+Son d'ambiance
+Maintenir des sons spatiaux réalistes conformes à l'environnement de référence :
+Vent naturel
+Bruissement des feuilles
+Écoulement de l'eau (si présent dans la scène de référence)
+Sons ambiants lointains
+Frottement réaliste des tissus en soie
+
+Sons des techniques d'épée
+Lors du dégainage et des frappes :
+Frottement réaliste de la lame sortant du fourreau
+Sons brefs et nets de l'épée fendant l'air
+Bruit des manches tirées lors des pivots
+Sons réalistes des pas à l'atterrissage
+
+Rythme sonore comique
+Plan 1
+Principalement des sons ambiants naturels et les dialogues des personnages.
+Plan 2
+Les gracieux mouvements d'épée produisent de brefs sons de l'air fendu.
+Après la découverte mutuelle, préserver des pauses naturelles suffisamment nettes.
+Plan 3
+Le Maître parle calmement.
+Sons naturels de frottement contre le fourreau lorsque les deux jeunes femmes rengainent précipitamment leurs épées.
+Dernière réplique :
+« Trop tard. »
+Puis conclure sur l'échange de regards silencieux des deux protagonistes.
+
+XIII. Exigences finales d'exécution pour Seedance 2.0 Mini
+Spécifications de base
+Respecter strictement les 15 secondes
+16:9 Paysage
+Trois plans narratifs clairs
+
+Points focaux d'exécution
+Identité constante des deux personnages principaux
+Identité et trajet de déplacement continus du Maître
+Espace géographique continu sur les trois plans
+Techniques d'épée réalistes et élégantes
+Réactions gênées des deux jeunes femmes naturellement synchronisées
+Jeu d'acteur à l'humour froid et contenu pour le Maître
+Dialogues en mandarin et synchronisation labiale parfaitement exacts
+Environnement naturellement vivant et narrativement neutre
+
+Strictement interdit
+Changements soudains de visage
+Changements soudains de costume
+Changements de coiffure
+Duplication de la longue épée ou confusion sur sa propriétaire
+Téléportation soudaine du Maître derrière elles
+Changements soudains de lieu en arrière-plan
+Effets magiques hors sujet
+Véritables chocs entre les deux armes
+Ralenti inutile
+Slapstick exagéré
+Mouvements de caméra rapides sans intérêt
+Éléments modernes
+Sous-titres
+Titres
+Filigranes (watermarks)
+
+XIV. Critères d'acceptation finaux
+Doivent être intégralement présentés les sept événements clés suivants :
+Le Maître annonce explicitement le jour de repos et interdit la pratique de l'épée.
+Les Sœurs Aînée et Cadette répondent respectueusement et s'éloignent dans des directions opposées.
+La Sœur Aînée revient en douce pour s'entraîner et exécute de gracieux mouvements d'épée.
+La Sœur Cadette revient également en douce et exécute ses propres mouvements d'épée.
+Les deux jeunes femmes se découvrent mutuellement, vivent un bref moment de gêne et s'interpellent.
+Le Maître revient par le chemin initial et annonce cent mouvements d'entraînement supplémentaire.
+Les deux s'excusent en parfaite synchronisation, s'entendent dire qu'il est trop tard, puis se regardent avec désarroi avant la coupe au noir.
+
+Aboutissement comique final
+Celles qui redoutaient le plus d'être dépassées en secret par l'autre finissent punies ensemble par un entraînement supplémentaire.
+Le véritable rire provient du fait que :
+Leurs compétences à l'épée sont redoutables, mais leurs petites manigances ont été percées à jour par le Maître.
+
+XV. Prompt négatif
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117170492784410624/img/4xtXWA3SnTajsD5_.jpg" width="600" alt="Prompt Vidéo Comédie Xianxia Ancienne Chine Seedance 2.0 Mini">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13439)**
+
+**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2117171375064719437) | **Publié:** Nov 2, 2026
+
+---
+### Prompt vidéo cinématographique Xianxia pour Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt détaillé pour générer un court-métrage cinématographique chinois de genre Xianxia (héros immortel) de 15 secondes à l'aide de Seedance 2.0 Mini. Il précise la cohérence des personnages entre les images de référence, les mouvements de caméra, le style d'éclairage (qualité Arri Alexa) et une structure narrative en trois actes impliquant une perte de mémoire et un renversement émotionnel.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | « Se reconnaître à nouveau »
+
+Modèle : Seedance 2.0 Mini
+Durée : Strictement 15 secondes
+Format : 16:9 Paysage
+Genre : Xianxia chinois antique pur / Retournement émotionnel / Suspense psychologique / Drame relationnel
+Structure : Trois plans cinématographiques continus et distincts, aux fonctions narratives différentes.
+
+I. Style global et direction créative
+Court-métrage hyper-réaliste de qualité cinématographique, ancré dans l'univers du Xianxia chinois antique.
+Construire un retournement émotionnel teinté de poésie onirique à travers les éléments suivants :
+Un monde Xianxia grandiose mais réaliste
+Un jeu d'acteur tout en retenue
+Un contraste relationnel saisissant
+Un langage caméra précis
+Photographie et texture visuelle
+Adopter :
+La texture des caméras cinéma Arri Alexa
+Une peau humaine réaliste
+Des matières en soie délicates
+Une lumière volumétrique naturelle
+Une perspective aérienne
+Une profondeur spatiale réelle
+
+II. Intrigue principale et retournement émotionnel
+Cœur de l'histoire
+Une personne atteint enfin l'immortalité, mais au moment précis de son ascension céleste, elle oublie celle qu'elle voulait le moins oublier.
+La Sœur Aînée Immortelle de l'Épée est sur le point de s'élever.
+L'Envoyé Céleste apporte le Décret d'Ascension.
+Le prix à payer :
+Effacer tous les souvenirs mortels.
+Lorsque le décret prend effet, la Sœur Aînée oublie véritablement la Sœur Cadette.
+Pourtant, elle finit par rompre d'elle-même le pacte d'ascension.
+Le véritable retournement
+La Sœur Aînée ne recouvre pas la mémoire.
+Elle choisit simplement, une fois de plus, la personne qui se tient devant elle.
+Point d'ancrage émotionnel final
+« Non. Apprenons à nous connaître à nouveau. »
+Cette réplique n'apparaît pas prématurément ; elle surgit naturellement lors du dernier gros plan.
+Principe narratif
+L'intégralité de la séquence fait avancer l'histoire par les relations entre les personnages.
+Ne pas s'appuyer sur :
+De la magie à grande échelle
+De longues explications
+Des changements de décor soudains
+
+III. Identité des personnages et verrouillage des assets principaux
+Personnage A | @Image1 | Sœur Aînée Immortelle de l'Épée
+Identité
+Même femme adulte d'origine est-asiatique, âgée de 25 à 30 ans.
+Respecter strictement l'identité et les traits du visage de l'image de référence.
+Apparence fixe
+Visage ovale clair et naturel
+Yeux sombres en amande
+Longs cheveux noirs à demi attachés
+Maintenus par une épingle en jade blanc
+Silhouette grande et élancée
+Tenue fixe
+Hanfu en véritable soie blanche brodée
+Manches larges superposées semi-transparentes
+Sceau de taille en argent
+Pendentif en jade
+Bottines en tissu blanc
+Arme exclusive
+L'unique épée longue en argent.
+Continuité des assets
+Les éléments suivants doivent rester cohérents tout au long de la vidéo :
+Visage
+Coiffure
+Silhouette
+Vêtements
+Épée en argent
+Pendentif en jade
+
+Personnage B | @Image2 | Sœur Cadette
+Identité
+Même femme adulte d'origine est-asiatique, âgée de 20 à 25 ans.
+Respecter strictement l'identité et les traits du visage de l'image de référence.
+Apparence fixe
+Visage rond et lumineux
+Longs cheveux noirs tressés
+Silhouette menue
+Tenue fixe
+Hanfu en lin bleu-vert
+Ceinture sombre
+Épingle à cheveux en bois
+Chaussures en tissu noir
+Arme exclusive
+L'unique épée en acier sombre.
+Restriction d'action pour cette séquence
+La Sœur Cadette n'a pas besoin de dégainer son épée dans ce film.
+
+IV. Nouveaux personnages secondaires
+Envoyé Céleste
+Un émissaire adulte au style antique, à l'allure solennelle.
+Tenue
+Robe de cérémonie or clair, luxueuse mais discrète.
+Accessoire principal
+Tient en main un rouleau de soie dorée : le Décret d'Ascension.
+Exigences de jeu
+Sa prestance repose sur :
+Une posture stable
+Une voix posée
+Aucun effet d'aura immortelle exagéré n'est nécessaire.
+Maître Ancien
+Placé en arrière-plan, il assiste aux choix de ses deux disciples.
+Disciples de la secte
+Deux disciples situés plus loin, servant de témoins naturels intégrés à l'environnement.
+Restrictions communes aux personnages secondaires
+Ces trois types de personnages secondaires ne doivent en aucun cas empiéter sur l'espace de jeu des protagonistes.
+
+V. ADN des décors et de l'environnement
+Toutes les images de référence de décors et de lieux téléchargées lors de cette session définissent conjointement un monde physiquement existant.
+Planification de l'environnement
+Établir une logique spatiale unifiée à partir des images de référence.
+Il faut impérativement conserver :
+L'identité du relief
+L'agencement architectural
+L'usure des matériaux
+La végétation
+Les étendues d'eau
+La météo
+Les couches nuageuses
+La direction de la lumière principale
+Les jeux de reflets
+La palette chromatique globale
+La profondeur atmosphérique
+Caméra et variations spatiales
+Il est permis de rechercher à nouveau des éléments adaptés :
+Positions de caméra
+Profondeur de champ
+Placement des personnages
+Chaque plan n'a pas besoin d'afficher simultanément tous les points de repère.
+Toutefois, les bâtiments importants, le relief naturel et les directions de lumière doivent présenter une continuité spatiale.
+Principe de décor vivant
+L'arrière-plan doit rester continuellement naturel et vibrant.
+Dynamiques naturelles
+Le vent qui pousse les feuilles
+Les nuages et la brume qui s'écoulent naturellement
+Les mèches de cheveux qui bougent avec le vent
+Les manches qui ondulent naturellement
+Les étendues d'eau et leurs reflets conservant un mouvement réaliste
+Les silhouettes lointaines pouvant avoir des activités naturelles
+Neutralité narrative de l'environnement
+L'arrière-plan ne sert qu'à ancrer la présence du monde réel.
+Il n'a pas pour fonction de faire avancer l'intrigue.
+Unique élément surnaturel de l'intrigue
+Le seul facteur surnaturel influençant directement l'intrigue de ce film est le Décret d'Ascension Céleste.
+
+VI. Structure complète en trois plans de 15 secondes
+0-5s | Plan 1 : Le prix de l'ascension
+Taille du plan
+Plan large
+Mouvement de caméra
+La caméra avance lentement le long de l'espace rituel.
+État initial
+Entrée directe dans la cérémonie d'ascension.
+La Sœur Aînée Immortelle de l'Épée et la Sœur Cadette se tiennent côte à côte.
+L'Envoyé Céleste est devant elles, déroulant un ancien et luxueux Décret d'Ascension en soie dorée.
+Le Maître et quelques disciples sont visibles au loin.
+Premier nœud narratif : L'annonce du prix
+L'Envoyé déclare solennellement :
+[Envoyé] « Accepte le décret, et oublie ton passé. »
+Réaction de la Sœur Aînée
+En entendant cela, la Sœur Aînée ne montre aucune peur.
+Elle tourne la tête vers la Sœur Cadette.
+Son regard est doux, empreint de la familiarité d'une longue vie commune.
+[Sœur Aînée] « A-Ning, attends-moi. »
+Deuxième nœud narratif : L'acceptation volontaire du décret
+Puis, la Sœur Aînée tend activement la main droite pour accepter le décret.
+Un fil de lumière dorée extrêmement fin émerge lentement du bord du parchemin.
+Le fil de lumière s'étire naturellement et vient se fixer au poignet de la Sœur Aînée.
+À cet instant, le décret commence à prendre effet.
+Troisième nœud narratif : La disparition des souvenirs
+Ne pas représenter cela comme un coup de foudre ou un contrôle forcé par un sortilège.
+La Sœur Aînée affiche seulement une expression vide extrêmement brève.
+La chaleur de son regard envers la Sœur Cadette disparaît soudainement.
+Fin du plan
+Coupe sur les yeux de la Sœur Cadette qui remarquent l'anomalie.
+Focus réalisateur pour le Plan 1
+Montrer la rupture soudaine entre familiarité et étrangeté à travers le changement de regard d'un même personnage.
+Aucun effet spécial magique exagéré n'est nécessaire.
+
+5-10s | Plan 2 : Elle a vraiment oublié
+Taille du plan
+Plan moyen rapproché
+Mouvement de caméra
+Léger travelling latéral pour garder nets les expressions faciales et le fil de lumière dorée.
+Exigence de continuité
+Toujours maintenir :
+Le même espace
+Le même rouleau de décret
+Le même fil de lumière dorée
+La même Sœur Aînée Immortelle de l'Épée
+Premier nœud narratif : L'étrangeté totale
+La Sœur Aînée tourne lentement la tête vers la Sœur Cadette.
+Son expression n'a rien de malveillant, ni de férocité démoniaque.
+Juste une étrangeté absolue.
+Comme si elle se tenait devant une passante qu'elle n'a jamais connue.
+La Sœur Aînée demande doucement :
+[Sœur Aînée] « Mademoiselle, qui êtes-vous ? »
+Véritable réaction de la Sœur Cadette
+La Sœur Cadette se fige instantanément.
+Elle voulait parler.
+Mais après que ses lèvres se soient légèrement entrouvertes, aucun son ne sort.
+Cette étrangeté soudaine est plus percutante que des pleurs directs.
+Deuxième nœud narratif : L'insistance de l'Envoyé
+L'Envoyé dit calmement à proximité :
+[Envoyé] « Les liens mortels sont rompus, veuillez emprunter la voie de l'immortalité. »
+Troisième nœud narratif : Le contact habituel
+La Sœur Cadette regarde la Sœur Aînée.
+Par instinct, elle tend la main et soutient doucement le poignet tenant l'épée de la Sœur Aînée, qui tremble encore légèrement.
+C'est une habitude naturelle née de leur longue vie commune.
+Réaction physique de la Sœur Aînée
+Bien que la Sœur Aînée ne la reconnaisse plus, elle ne rejette pas ce contact.
+Elle relâche inconsciemment son poignet, laissant la Sœur Cadette le tenir.
+Brève pause.
+Quatrième nœud narratif : La découverte du pacte immortel
+Le regard de la Sœur Aînée glisse de la main de la Sœur Cadette vers le fil de lumière dorée qui relie toujours son propre poignet au décret.
+Elle réalise :
+Cette inconnue devant elle semble avoir eu un lien très profond avec elle.
+Elle fait un choix.
+Fin du plan
+Coupe sur sa main tenant l'épée.
+Focus réalisateur pour le Plan 2
+Accomplir le basculement psychologique à travers ces trois actions :
+La Sœur Aînée regarde la Sœur Cadette avec une étrangeté totale.
+La Sœur Cadette lui tient le poignet, et la Sœur Aînée se détend instinctivement.
+La Sœur Aînée découvre le fil de lumière dorée relié au décret.
+Ne pas insérer de flashbacks mémoriels.
+Ne pas laisser la Sœur Aînée retrouver soudainement un regard familier.
+
+10-15s | Plan 3 : Se reconnaître à nouveau
+Taille du plan
+Gros plan sur les personnages, convergeant finalement sur un gros plan des mains.
+Premier nœud narratif : La rupture volontaire du pacte immortel
+La Sœur Aînée retire lentement son poignet de la main de la Sœur Cadette.
+Elle ne se dirige pas vers l'Envoyé Céleste.
+Au lieu de cela, elle dégaine l'épée longue en argent de la main droite.
+L'Envoyé croit d'abord qu'elle se prépare à achever l'ascension.
+Mais l'instant d'après, la Sœur Aînée tourne la lame de l'épée d'argent vers le fil de lumière dorée reliant son poignet.
+Action clé
+Une entaille nette et précise.
+Le fil de lumière se brise instantanément.
+La fine lueur dorée se dissipe naturellement.
+La faible lueur émise par le décret s'éteint également.
+Traitement audiovisuel
+Ne pas inclure :
+De grandes explosions
+Des coups de tonnerre
+Des impacts magiques exagérés
+Seulement :
+Une action de coupe claire, suivie de silence.
+Deuxième nœud narratif : La Sœur Cadette croit au retour de la mémoire
+La Sœur Cadette regarde la Sœur Aînée.
+L'espoir renaît dans ses yeux.
+Elle demande doucement :
+[Sœur Cadette] « Tu t'es souvenue ? »
+Pause
+Laisser une pause naturelle complète.
+Troisième nœud narratif : Le véritable retournement
+La Sœur Aînée la regarde.
+Il n'y a pas de récupération miraculeuse et soudaine de tous ses souvenirs.
+Elle répond simplement avec calme :
+[Sœur Aînée] « Non. »
+Le regard de la Sœur Cadette s'assombrit légèrement.
+Alors qu'elle pense que tout est fini, la Sœur Aînée abaisse lentement son épée longue.
+Elle tend sa main gauche vide vers elle.
+Voix très douce :
+[Sœur Aînée] « Apprenons à nous connaître à nouveau. »
+Quatrième nœud narratif : La nouvelle poignée de main
+La Sœur Cadette se fige.
+Puis, elle pose enfin lentement sa main dans la paume de la Sœur Aînée.
+Restrictions de jeu
+Pas de :
+Précipitation pour une étreinte
+Pleurs exagérés
+Seulement deux mains qui s'entrelacent naturellement.
+Statut des personnages en arrière-plan
+Dans la faible profondeur de champ derrière elles, l'Envoyé Céleste reste immobile.
+Le Maître Ancien baisse lentement le regard.
+Dernière image
+La caméra reste fixée sur :
+Deux mains qui s'entrelacent naturellement.
+Le fil de lumière dorée brisé se dissipe lentement dans l'air en arrière-plan.
+Point d'ancrage émotionnel final
+La Sœur Aînée a perdu ses souvenirs passés.
+Mais elle a choisi personnellement un nouveau départ.
+
+VII. Exigences d'exécution unifiées pour Seedance 2.0 Mini
+Spécifications vidéo
+Strictement 15 secondes
+16:9 Paysage
+Trois plans explicites
+Structure narrative en trois segments
+
+| Temps | Taille du plan | Événement principal |
+|---|---|---|
+| 0-5s | Plan large | Cérémonie d'ascension, le décret prend effet, les souvenirs commencent à disparaître |
+| 5-10s | Plan moyen rapproché | La Sœur Aînée oublie totalement la Sœur Cadette, rupture du lien émotionnel |
+| 10-15s | Gros plan puis Gros plan sur les mains | La Sœur Aînée rompt volontairement le pacte immortel, la choisit à nouveau sans avoir retrouvé la mémoire |
+
+VIII. Dialogues complets et synchronisation labiale
+Règles des dialogues
+Mandarin natif synchronisé
+Correspondance exacte avec les mouvements des lèvres des personnages
+Respecter strictement les personnages désignés pour chaque réplique
+Ne pas ajouter de lignes explicatives temporaires
+Ne pas ajouter de narration hors champ
+
+0-5s
+[Envoyé] « Accepte le décret, et oublie ton passé. »
+[Sœur Aînée] « A-Ning, attends-moi. »
+
+5-10s
+[Sœur Aînée] « Mademoiselle, qui êtes-vous ? »
+[Envoyé] « Les liens mortels sont rompus, veuillez emprunter la voie de l'immortalité. »
+
+10-15s
+[Sœur Cadette] « Tu t'es souvenue ? »
+[Sœur Aînée] « Non. Apprenons à nous connaître à nouveau. »
+
+Rythme de jeu pour la dernière réplique
+« Non. Apprenons à nous connaître à nouveau. »
+Autoriser une pause naturelle entre les deux phrases.
+Il faut garantir que :
+« Non » exprime clairement que la mémoire n'est effectivement pas revenue
+La pause préserve le sentiment de perte de la Sœur Cadette
+« Apprenons à nous connaître à nouveau » accomplit le véritable retournement émotionnel
+Limite de temps
+La dernière réplique ne doit pas allonger artificiellement le dialogue au détriment du temps alloué aux autres actions.
+
+IX. Quatre niveaux de contraintes strictes de continuité
+1. Continuité des personnages
+Pour les deux protagonistes, les éléments suivants doivent rester cohérents tout au long de la vidéo :
+Identité faciale
+Coiffure
+Vêtements
+Silhouette
+Arme
+Exigence particulière
+La Sœur Aînée doit conserver exactement le même visage avant et après l'amnésie.
+Différencier les états de mémoire uniquement par de subtils changements de regard et d'expression.
+
+2. Continuité des accessoires
+Doivent toujours être :
+Le même rouleau de décret en soie dorée
+Le même fil de lumière dorée
+La même épée en argent
+Changement d'état du pacte immortel
+Le décret prend effet → Le fil de lumière se connecte au poignet → La Sœur Aînée dégaine l'épée → Le fil est tranché → Le fil se dissipe naturellement
+Une fois le fil tranché, il ne peut pas réapparaître entièrement reconnecté.
+
+3. Continuité des actions
+La Sœur Aînée doit accomplir les actions dans l'ordre causal suivant :
+Accepter volontairement le décret
+Perdre la mémoire
+Observer la Sœur Cadette et le fil de lumière
+Dégainer l'épée
+Trancher le fil de lumière
+Tendre la main à la Sœur Cadette
+Toutes les actions suivent une séquence claire de cause à effet.
+
+4. Continuité émotionnelle
+Les émotions des personnages évoluent séquentiellement :
+Familiarité et attente → Étrangeté soudaine → Difficulté à accepter → Nouveau choix → Soulagement contenu
+Ne pas permettre de sauts émotionnels injustifiés chez les personnages.
+
+X. Visuels du pacte immortel et effets surnaturels
+Fil de lumière dorée
+Le fil de lumière dorée doit être :
+Délicat
+Réaliste
+Ne masquant pas les visages des personnages
+Maintenir une connexion continue avec le même rouleau de décret
+Maintenir une relation spatiale correcte avec le poignet de la Sœur Aînée
+Effet de coupe
+Après que la pointe de l'épée a tranché le fil de lumière :
+Le fil se brise
+La fine lueur dorée se dissipe naturellement
+La lueur initiale du décret s'éteint en conséquence
+Restrictions visuelles
+Ne pas ajouter :
+De grandes explosions lumineuses
+De tonnerre
+D'impacts de sorts exagérés
+D'effets spéciaux magiques non pertinents
+
+XI. Micro-interprétations des personnages
+Sœur Aînée
+Avant l'amnésie
+Regard doux
+Naturellement familière avec la Sœur Cadette
+Expression posée
+Après l'amnésie
+Aucune malveillance
+Aucune diabolisation
+Un regard véritablement étranger
+Ne rejette pas le contact naturel de la Sœur Cadette
+Décision finale
+Rompt volontairement le pacte immortel
+Ne retrouve pas la mémoire
+Choisit calmement, une fois de plus, la Sœur Cadette devant elle
+
+Sœur Cadette
+Plan 1
+Nourrit des attentes quant à l'ascension de la Sœur Aînée.
+Plan 2
+Passe de la confusion à la difficulté d'accepter la situation.
+Les lèvres s'entrouvrent, mais aucun mot ne sort.
+Plan 3
+Retrouve l'espoir grâce à la rupture du pacte
+Déception éphémère après avoir entendu « Non »
+Comprend à nouveau le choix de la Sœur Aînée après avoir entendu « Apprenons à nous connaître à nouveau »
+Place finalement activement sa main dans la paume de la Sœur Aînée
+Principe de jeu
+S'exprimer à travers les micro-expressions, les contacts visuels, la respiration et les mouvements des mains.
+Ne pas créer de climax émotionnels par des pleurs ou des étreintes exagérées.
+
+XII. Photographie et continuité environnementale
+Photographie
+Les trois plans maintiennent des fonctions explicites :
+Plan 1
+Établit la cérémonie d'ascension et la rupture mémorielle.
+Plan 2
+Observe les émotions des personnages et le fil de lumière dorée via un plan moyen rapproché.
+Plan 3
+Accomplit le choix volontaire via un gros plan et un gros plan sur les mains.
+Environnement
+L'environnement reste continuellement naturel et vibrant.
+Incluant :
+Vent naturel
+Feuilles
+Nuages et brume
+Mèches de cheveux
+Manches
+Étendues d'eau
+Reflets
+Activités des silhouettes lointaines
+L'environnement n'influence pas activement l'intrigue.
+
+XIII. Conception sonore
+Dialogues
+Mandarin natif synchronisé.
+Exigences :
+Synchronisation labiale chinoise précise
+Voix des personnages claires
+Sensation de respiration réaliste
+Dialogue naturel
+Musique de fond
+La bande originale utilise une atmosphère Xianxia extrêmement légère comme tonalité de base.
+Elle baisse significativement après :
+« Mademoiselle, qui êtes-vous ? »
+Rupture du pacte
+Au moment de la rupture du pacte, ne conserver que :
+Un léger et net bruit métallique de lame fendant l'air
+Le bruit du fil de lumière qui se brise
+Dernière réplique
+« Apprenons à nous connaître à nouveau. »
+Doit être :
+Claire
+Nette
+Avec une sensation de respiration réaliste
+
+XIV. Interdictions strictes
+Ne pas ajouter d'étreintes
+Ne pas ajouter de cris/pleurs
+Ne pas ajouter de narration
+Ne pas ajouter de flashbacks
+Ne pas ajouter d'éléments modernes
+Ne pas ajouter de personnages supplémentaires
+Ne pas générer de sous-titres
+Ne pas réaliser de démonstrations magiques à grande échelle
+Ne pas laisser l'environnement faire avancer activement l'intrigue
+Ne pas modifier l'identité faciale des personnages
+Ne pas modifier les vêtements et armes des personnages
+Ne pas laisser les fils de lumière brisés se reconnecter
+Ne pas laisser la Sœur Aînée retrouver soudainement la mémoire
+
+XV. Principes de génération finale
+Le public doit voir clairement que :
+La Sœur Aînée accepte volontairement le décret d'ascension.
+Le décret lui ôte véritablement le souvenir de la Sœur Cadette.
+Le contact habituel de la Sœur Cadette fait réaliser à la Sœur Aînée qu'elles ont autrefois partagé un lien profond.
+La Sœur Aînée rompt volontairement le pacte immortel.
+La rupture du pacte ne restaure pas les souvenirs perdus.
+La Sœur Aînée choisit malgré tout activement d'apprendre à connaître à nouveau la Sœur Cadette.
+Les deux finissent par se tenir la main naturellement.
+Exigence émotionnelle finale
+Même si la mémoire disparaît, les deux peuvent toujours reconstruire leur relation.
+Toute l'intrigue, les actions, les dialogues et les retournements émotionnels obéissent strictement à la durée complète de 15 secondes de Seedance 2.0 Mini.
+
+XVI. Negative Prompt
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117159174383783936/img/GrBy3y7uTplAwyq4.jpg" width="600" alt="Prompt vidéo cinématographique Xianxia pour Seedance 2.0 Mini">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13437)**
+
+**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2117159952251040147) | **Publié:** Nov 2, 2026
+
+---
+### Prompt de court-métrage Xianxia avec Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt détaillé pour générer un court-métrage cinématographique xianxia de 15 secondes à l'aide de Seedance 2.0 Mini, mettant en avant la cohérence des personnages, un éclairage spécifique et des arcs narratifs émotionnels.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | « Trente ans d'espérance de vie »
+
+Modèle : Seedance 2.0 Mini
+Durée : Strictement 15 secondes
+Format : 16:9 Paysage
+Genre : Xianxia chinois antique pur / Suspense psychologique / Retournement émotionnel / Drame relationnel
+Structure : Trois plans complets consécutifs
+
+I. Prompt | Style global et direction créative
+Qualité réaliste cinématographique, esthétique Xianxia chinoise antique pure.
+Références globales :
+Structure de suspense psychologique propre au cinéma d'auteur mature
+
+Relations entre personnages de Wuxia
+
+Jeu d'acteur authentique et chargé d'émotion
+
+Mise en scène audiovisuelle tout en retenue
+
+L'image exploite :
+
+Une lumière volumétrique naturelle
+Les micro-détails réalistes de la peau
+Des matériaux de haute qualité (soie et métal)
+Une photographie dotée de profondeur spatiale
+
+II. Intrigue principale et retournement émotionnel
+
+Intrigue principale
+La disciple cadette franchit trois royaumes en une seule nuit. Persuadée de pouvoir enfin rattraper sa sœur aînée, elle découvre qu'elle a échangé trente ans d'espérance de vie contre cette progression fulgurante.
+Elle finit par renoncer volontairement à sa cultivation.
+Et la sœur aînée, qu'elle considérait depuis toujours comme un but à atteindre, s'avance vers elle pour la toute première fois.
+
+Le véritable conflit émotionnel
+
+Le vrai conflit se joue à l'intérieur des personnages.
+
+Disciple cadette
+Aspire à la puissance
+Craint de ne jamais rattraper sa sœur aînée
+Est grisée par la force soudainement acquise
+Doit prendre seule sa décision après avoir découvert le prix à payer
+
+Le Daoïste Voleur de Vie
+Le Daoïste Voleur de Vie exploite l'anxiété de la disciple cadette.
+
+Sœur aînée
+Au final, la sœur aînée :
+Ne paie pas le prix à la place de la cadette
+Ne tente pas de la convaincre par de longs discours moralisateurs
+Ne prend pas les décisions à sa place
+
+Elle se contente d'un geste précis pour lui faire comprendre :
+la distance qui les sépare n'a jamais eu besoin d'être comblée par la seule obstination désespérée de la cadette.
+
+III. Personnages et verrouillage des assets
+
+Personnage A | @Image1 | Sœur aînée Immortelle de l'Épée
+Même Sœur aînée Immortelle de l'Épée :
+Femme adulte est-asiatique de 25 à 30 ans
+Visage ovale, clair et doux
+Yeux en amande naturellement sombres et lumineux
+Peau délicate et réaliste
+Cheveux noirs à demi attachés
+Épingle à cheveux en jade blanc
+Silhouette grande et élancée
+Costume fixe
+Hanfu en soie blanche brodée
+Manches larges superposées semi-transparentes
+Sceau de ceinture en argent
+Pendentif en jade
+Bottes en tissu blanc
+Arme exclusive
+Une unique épée longue en argent.
+Tempérament du personnage
+Calme
+Lucide
+Introvertie
+Émotions transmises par :
+Le regard
+La respiration
+Des mouvements extrêmement subtils
+
+Personnage B | @Image2 | Disciple cadette
+Même disciple cadette :
+Femme adulte est-asiatique de 20 à 25 ans
+Traits du visage ronds et expressifs
+Cheveux noirs tressés
+Apparence naturelle et réaliste de jeune femme
+Costume fixe
+Hanfu en lin bleu-vert
+Ceinture sombre
+Épingle à cheveux en bois
+Chaussures en tissu noir
+Arme exclusive
+Une unique épée en acier sombre.
+État du personnage
+Au début, exaltée par la puissance soudainement acquise.
+Visiblement sous le choc après avoir découvert le prix à payer.
+Puis prend sa décision de manière autonome.
+Nouveaux rôles secondaires
+Vieux Daoïste Voleur de Vie
+Expression calme
+Dégage un sentiment de danger
+Exploite la soif de puissance de la disciple cadette
+Disciples de la secte en arrière-plan
+Deux disciples de la secte au loin, témoins silencieux de la scène.
+Contraintes des rôles secondaires
+Les rôles secondaires ne doivent en aucun cas voler la vedette visuelle aux deux héroïnes.
+
+IV. Accessoire central | Balance de Bronze Voleuse de Vie
+
+Composition de l'accessoire
+Une antique Balance de Bronze Voleuse de Vie.
+Flottant au-dessus de la balance :
+Trois perles de royaume dorées, de taille et de matériau identiques.
+Paramètres des perles de royaume
+Les trois perles correspondent à la triple cultivation empruntée.
+Cette relation d'emprunt s'exprime par :
+La balance de bronze
+Les trois perles de royaume
+Les variations de puissance spirituelle sur les personnages
+Exigences visuelles
+Ne pas s'appuyer sur du texte généré lisible.
+
+V. ADN environnemental et aménagement spatial
+
+Toutes les images de référence de décors et de lieux nouvellement importées définissent le monde physique réel.
+Héritage environnemental
+Synthétiser à partir des images de référence :
+Le relief réel
+Les relations spatiales architecturales principales
+L'échelle
+Les matériaux
+La végétation
+Les étendues d'eau
+La météo
+Les nuages/brumes
+La direction de la lumière
+Les couleurs
+Les reflets
+La profondeur atmosphérique
+Placer naturellement la Balance Voleuse de Vie à des emplacements cohérents avec les relations physiques de la scène d'origine.
+Contraintes strictes de décor
+Ne pas transformer le décor de référence en un paysage Xianxia générique et méconnaissable.
+Principe du décor vivant
+Les éléments suivants évoluent constamment de façon naturelle :
+Le vent
+Les nuages/brumes
+La surface de l'eau
+La végétation lointaine
+Le tissu des vêtements
+Les sons ambiants
+L'environnement reste :
+Vivant
+Complet
+Doté d'une vitalité spatiale réelle
+Neutralité narrative
+L'environnement ne peut pas :
+Créer activement de conflit
+Décider du sort des personnages
+
+VI. Storyboard complet de 15 secondes
+0-5s | Premier plan : Plan large resserré en plan moyen | Franchissement nocturne des royaumes, le prix révélé
+Langage caméra
+La caméra avance lentement depuis un angle trois-quarts légèrement en contre-plongée.
+Accessoires au premier plan
+Au premier plan, une antique balance de bronze.
+Trois perles de royaume dorées flottent au-dessus des plateaux, émettant une lumière spirituelle dorée douce, sans excès.
+Positionnement des personnages
+La disciple cadette se tient près de la balance, le regard encore empreint de la surprise d'avoir franchi trois royaumes en une nuit.
+La sœur aînée se tient derrière, légèrement sur le côté.
+Le Daoïste Voleur de Vie se tient près de la balance et lève les yeux.
+Premier retournement : le prix révélé
+Le Daoïste parle d'une voix calme et troublante.
+[Daoïste] « Une nuit, trois royaumes. Trente ans d'espérance de vie. »
+Réaction de la disciple cadette
+Son sourire s'efface instantanément.
+Elle ne recule pas immédiatement, mais son regard se porte instinctivement sur les trois perles de royaume dorées.
+[Cadette] « Vous n'aviez pas dit que je devrais payer de ma vie ! »
+Réaction de la sœur aînée
+La caméra utilise un léger changement de mise au point pour capter le regard de la sœur aînée qui se pose soudain sur la balance de bronze.
+Fin du premier plan
+Le premier plan s'achève sur le choc de la disciple cadette.
+Focus réalisateur
+Révéler l'immensité du prix à payer dès les premiers instants
+Ne pas ajouter de démonstrations magiques inutiles
+Trois perles de royaume et une phrase suffisent pour faire comprendre au public ce que signifie réellement ce soi-disant prodige.
+
+5-10s | Deuxième plan : Plan rapproché | Le renoncement volontaire aux royaumes
+Langage caméra
+Maintenir le même axe de mouvement des personnages.
+La caméra se déplace sur le côté de la balance de bronze.
+Le cadre englobe simultanément :
+La sœur aînée
+La disciple cadette
+Le Daoïste Voleur de Vie
+Le haut du corps des trois personnages.
+La sœur aînée confirme la possibilité d'un retour
+La sœur aînée ne blâme pas la cadette.
+Elle regarde simplement le Daoïste et demande directement :
+[Aînée] « Peut-on les rendre ? »
+Le Daoïste hoche doucement la tête.
+[Daoïste] « Rendre les royaumes, récupérer l'espérance de vie. »
+La décision volontaire de la disciple cadette
+La disciple cadette contemple les trois perles de royaume désormais en sa possession.
+À cet instant, la sœur aînée ne doit en aucun cas prendre la décision à sa place.
+La cadette tend elle-même la main, saisit les trois perles là où elles flottent et les replace une à une sur les plateaux de la balance.
+[Cadette] « Je les rends. »
+Processus physique et visuel du retour de cultivation
+La lumière dorée à la surface des trois perles converge vers l'intérieur.
+La puissante énergie spirituelle qui habitait la cadette reflue en conséquence.
+Elle abandonne volontairement les trois royaumes qu'elle venait d'acquérir.
+Dissolution du pacte d'emprunt
+Toute la cultivation empruntée est restituée
+La dette de trente ans d'espérance de vie est effacée
+Continuité des personnages
+Les personnages ne subissent soudainement aucune :
+Vieillissement
+Déformation
+Changement de vêtement
+Focus réalisateur
+La force de cette scène repose sur un choix volontaire.
+La disciple cadette n'a pas :
+Rendu les royaumes sur ordre de sa sœur aînée
+Attendu que quelqu'un d'autre paie le prix à sa place
+Elle a pris les perles elle-même et les a replacées elle-même.
+La caméra traduit ce processus par :
+Des mouvements de mains réalistes
+Un reflux d'énergie spirituelle clairement visible
+
+10-15s | Troisième plan : Gros plan resserré en très gros plan | La véritable distance
+État initial
+Les trois perles de royaume reposent à nouveau silencieusement dans les plateaux de bronze.
+Le Daoïste Voleur de Vie observe la disciple cadette, dont la cultivation est revenue à son état d'origine.
+Il tente une dernière fois d'ébranler sa résolution.
+[Daoïste] « Et comment comptes-tu la rattraper, alors ? »
+La véritable peur de la disciple cadette
+La cadette regarde sa sœur aînée vêtue de blanc.
+Ses doigts crispés sur le fourreau de son épée se resserrent légèrement.
+[Cadette] « Je... »
+Sa voix s'éteint.
+Elle a bel et bien peur.
+Elle a longtemps cru :
+que seul un niveau de cultivation égal à celui de son aînée lui donnerait le droit de rester éternellement à ses côtés.
+Véritable retournement émotionnel : la sœur aînée s'approche
+À cet instant précis, la sœur aînée ne reste pas immobile.
+Elle s'avance volontairement vers la cadette.
+[Aînée] « ? »
+Mouvement de caméra
+La caméra accompagne légèrement le mouvement de la sœur aînée.
+Elle finit par s'arrêter à côté de la cadette, exactement sur la même ligne horizontale.
+[Aînée] « Je suis juste là. »
+Réaction finale de la disciple cadette
+La cadette relève lentement la tête.
+Les émotions se succèdent dans cet ordre :
+Surprise
+Soulagement
+Un sourire très léger et naturel
+Limites de jeu d'acteur
+Aucun :
+Enlacement
+Pleur
+Déclaration grandiloquente
+État final
+La balance de bronze retrouve son immobilité.
+Le Daoïste Voleur de Vie ne prononce plus un mot.
+L'image finale s'attarde sur :
+Les deux jeunes femmes debout côte à côte.
+
+VII. Résolution émotionnelle finale
+La disciple cadette a perdu les trois royaumes empruntés.
+Celle qu'elle voulait tant rattraper est venue se placer à ses côtés de son plein gré.
+Les conséquences doivent être scrupuleusement respectées
+À la fin de l'histoire :
+La cultivation ne revient pas par magie
+Le Daoïste Voleur de Vie n'accorde aucune récompense cachée
+La dette de trente ans d'espérance de vie est définitivement effacée
+La relation entre les deux femmes évolue par des actes concrets
+Le coût et les conséquences de chaque choix sont intégralement assumés.
+
+VIII. Contraintes d'exécution pour Seedance 2.0 Mini
+Spécifications vidéo
+Strictement 15 secondes
+16:9 Paysage
+Trois plans complets consécutifs
+Structure des plans
+Temps | Taille du plan | Fonction narrative
+0-5s | Large à moyen | Franchissement nocturne des royaumes, le prix révélé
+5-10s | Plan rapproché | La cadette renonce volontairement aux royaumes
+10-15s | Gros plan à très gros plan | La sœur aînée s'approche
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117151444751290368/img/PMwAHzpHjgEfkRHF.jpg" width="600" alt="Prompt de court-métrage Xianxia avec Seedance 2.0 Mini">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13434)**
+
+**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2117152909758730271) | **Publié:** Nov 2, 2026
+
+---
+### Court-métrage de bataille Xianxia Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt détaillé pour Seedance 2.0 Mini créant un court-métrage de 15 secondes en style réaliste hyper-réaliste, mettant en scène une bataille de cavalerie chinoise Xianxia intitulée « Saisir l'Ordre ». L'accent est mis sur le réalisme physique, les mouvements de caméra et la chorégraphie des combats, sans dialogue.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | Court-métrage de combat de cavalerie à grande vitesse Xianxia chinois de 15 secondes
+Impression du titre : « S'emparer de l'Ordre »
+Spécifications de base
+Durée : Strictement 15 secondes
+Format : 16:9 Horizontal
+Modèle : Seedance 2.0 Mini
+Style : Court-métrage d'action Xianxia chinois hyper-réaliste et cinématographique
+Aucun dialogue / Aucun sous-titre / Aucun titre / Aucune interface utilisateur (UI)
+I. Style global et cœur du combat
+Court-métrage d'action Xianxia chinois hyper-réaliste et cinématographique.
+Basé sur la physique réelle de la vitesse de la cavalerie antique, la longueur des armes, l'inertie des chevaux de guerre et l'espace nécessaire aux virages, combinée aux techniques de légèreté (Qinggong) sur courte distance du Xianxia chinois, à une escrime acérée, à une photographie dynamique et à des accélérations instantanées.
+Références cinématographiques :
+
+Mise en scène spatiale classique en écran large du Wuxia
+Montage d'action soudain dans le style de King Hu
+Suivi en contre-plongée des films d'action modernes, forte parallaxe, changement rapide des axes de mouvement et retour d'impact clair
+Objectif central du combat
+L'Immortelle à l'épée vêtue de blanc doit arracher le drapeau d'ordre militaire des mains d'un général de cavalerie lourdement armé chargeant à pleine vitesse, sans blesser le cheval de guerre.
+Logique du conflit central
+Le général de cavalerie utilise la vitesse de son cheval + la portée de sa longue lance pour protéger le drapeau d'ordre militaire.
+La Sœur Aînée exploite sa capacité à changer de direction sur de courtes distances pour s'insérer activement sur la trajectoire de l'adversaire avant que le général n'ait terminé son virage.
+Enfin, la prise du drapeau s'accomplit au cours d'un unique engagement continu à grande vitesse.
+Principes d'action impératifs
+Mouvement continu à grande vitesse tout au long du film.
+L'ennemi doit attaquer activement et ajuster sa stratégie.
+Aucune immobilité, aucune attente pour contrer.
+Ne pas utiliser les clichés déjà employés : Désarmement
+Étranglement
+Échange de doubles épées
+Blocage d'arme
+
+Le point culminant provient de : L'accomplissement de la mission en plein mouvement à grande vitesse.
+II. Éléments centraux et verrouillage des personnages
+Personnage A | @Image1 | Sœur Aînée
+Utiliser strictement l'identité et l'apparence de la femme adulte est-asiatique originale de l'Image 1 :
+Même visage
+Proportions faciales d'origine
+Cheveux noirs
+Tenue Xianxia blanche
+Ornement de taille argenté
+Proportions corporelles d'origine
+Une longue épée argentée unique
+Exigences :
+Le visage et les vêtements de la protagoniste restent cohérents.
+Les contours réels du visage doivent être visibles même lors des mouvements à grande vitesse.
+Les cheveux noirs obéissent à une inertie naturelle lors des accélérations, des arrêts brusques et des virages.
+Personnage B | @Image2 | Sœur Cadette
+Utiliser strictement l'identité et l'apparence de la femme adulte est-asiatique originale de l'Image 2 :
+Même visage
+Cheveux noirs tressés
+Tenue ancienne vert sarcelle
+Proportions corporelles d'origine
+Épée portée d'origine
+Exigences :
+Ce segment sert principalement de témoin à courte distance.
+Elle ne participe qu'à l'esquive d'urgence de l'ouverture.
+Elle n'effectue aucun engagement complexe avec son arme.
+Général de cavalerie ennemi
+Un général de cavalerie de style ancien portant une armure de métal sombre.
+Tenant une longue lance (Mao).
+Montant un unique cheval de guerre brun foncé, grand et robuste.
+Fixé derrière la selle se trouve un drapeau d'ordre militaire rouge foncé.
+Le drapeau d'ordre militaire ne comporte aucun texte lisible.
+Exigences :
+Le général de cavalerie, le cheval de guerre, la longue lance et le drapeau d'ordre militaire maintiennent la continuité d'apparence et d'objet nécessaire au sein de ce segment.
+Inutile de verrouiller finement la forme du visage du général ou les motifs de son armure.
+Ne pas ajouter de deuxième cavalier.
+III. Environnement et ADN du décor
+Toutes les images de référence de lieux téléchargées cette fois-ci déterminent conjointement l'ADN de l'environnement.
+Avant la génération officielle, déduire et unifier à partir des images de référence :
+Terrain réel
+Disposition des bâtiments
+Végétation
+Plans d'eau
+
+Matériaux
+Éclairage
+Météo
+Brume de montagne
+Profondeur spatiale
+À partir de zones qui existent réellement ou qui peuvent être raisonnablement déduites des images de référence, sélectionner un passage ou un terrain dégagé suffisant pour que le cheval de guerre puisse courir et tourner.
+Exigences de continuité
+Les relations existantes suivantes restent constamment connectées :
+Bâtiments principaux
+Reliefs
+Routes
+Plans d'eau
+Plantes
+Rapports d'ombre et de lumière
+La caméra peut observer le même lieu sous différents angles,
+mais ne peut pas basculer soudainement vers un nouveau décor Xianxia générique.
+Exigences pour l'arrière-plan vivant
+Les éléments suivants continuent de bouger naturellement :
+Vent
+Courant de l'eau
+Nuages et brume
+Tissu des vêtements
+Végétation
+Reflets
+Environnement lointain
+Principe narratif environnemental
+L'environnement reste neutre sur le plan narratif :
+Il ne crée pas soudainement d'obstacles.
+Il ne crée pas soudainement d'opportunités.
+Il ne se bat pas à la place de la protagoniste.
+Il ne décide de la victoire ou de la défaite d'aucun camp.
+Retours physiques passifs autorisés :
+Le piétinement du cheval soulève de la poussière, de la boue et des débris de route.
+Le mouvement des personnages fait flotter les ourlets, vole les cheveux et laisse des traces au sol.
+Exigence de continuité :
+Les dommages vestimentaires, les empreintes de sabots et les traces de mouvement déjà générés restent continus.
+IV. Scénario du storyboard (15 secondes)
+0–5s | Raid de cavalerie lourde : Le danger dès le premier regard
+Plan 1 | 0.0–1.0s | Plan large en contre-plongée 24mm
+Caméra proche de la surface de la route.
+La même route ancienne et réaliste s'étend vers la profondeur de l'écran.
+Relation à l'écran :
+La Sœur Aînée se tient d'un côté de la route, tenant une épée argentée.
+La Sœur Cadette est légèrement derrière elle.
+Au loin, le général de cavalerie lourdement armé chevauche un cheval brun foncé chargeant à toute vitesse.
+Le drapeau d'ordre militaire rouge foncé derrière la selle flotte violemment.
+Le général abaisse sa longue lance, la pointe dirigée droit vers la Sœur Aînée.
+Les quatre sabots du cheval frappent le sol en continu ; les épaules, le cou et la crinière subissent l'inertie réelle de la course.
+Le martèlement lourd des sabots du cheval au galop se rapproche rapidement, créant une forte pression d'échelle entre le premier plan et l'arrière-plan.
+
+Plan 2 | 1.0–2.8s | Suivi latéral à grande vitesse au niveau du sol 28mm
+La caméra se déplace soudainement à grande vitesse vers l'avant-latéral du cheval.
+Les sabots tonnent près de la caméra ; la poussière ou les éclaboussures sous les sabots sont projetées violemment vers l'arrière selon la nature réelle du sol.
+La profondeur de l'écran inclut simultanément :
+Le poitrail et les épaules du cheval
+Les pièces d'armure du général
+La longue lance
+Le drapeau d'ordre militaire rouge derrière
+Le général modifie soudainement l'angle de sa prise sur la lance, lançant une violente estocade droite vers la Sœur Aînée.
+La pointe de la lance traverse rapidement le premier plan de la caméra.
+Coupe franche au moment où l'arme masque entièrement l'écran.
+Plan 3 | 2.8–5.0s | Gros plan latéral 35mm
+La Sœur Aînée explose soudainement dans un pas latéral coupé au dernier moment.
+Elle ne bloque pas frontalement le cheval lancé à pleine vitesse, ni ne contre-attaque vers le corps de l'animal.
+Chaîne d'action :
+
+Elle repousse la Sœur Cadette hors de la trajectoire de course avec son bras tout en pivotant pour esquiver la longue lance.
+L'épée argentée ne fait que modifier brièvement la trajectoire de la pointe de la lance.
+Le général ramène immédiatement la longue lance dans le sens de son élan ; la lame frôle la couche la plus externe de la large manche de la Sœur Aînée, tranchant un petit morceau de gaze blanche fine.
+Les fils de soie sont tirés vers l'arrière par le flux d'air à grande vitesse.
+Le cheval continue de galoper vers l'avant.
+La Sœur Aînée atterrit et se retourne immédiatement, son regard se verrouillant rapidement sur le drapeau d'ordre militaire derrière la selle.
+Point focal du premier segment
+Doit mettre en évidence :
+La cavalerie possède véritablement l'avantage de la vitesse.
+Les armes longues possèdent véritablement l'avantage de la portée.
+La Sœur Aînée est pour l'instant toujours dominée.
+5–10s | Poursuite inversée : De l'esquive à l'interception
+
+Plan 4 | 5.0–7.2s | Suivi latéral à grande vitesse 35mm
+Le général continue de foncer vers l'avant, amorçant un virage naturel à grand rayon dans une zone suffisamment large de la route devant lui.
+Le cheval doit s'ajuster selon les mécanismes réels de course et de virage :
+Fréquence de foulée
+Inclinaison du corps
+Placement des quatre sabots
+Interdit : Virage sur place instantané du cheval.
+La Sœur Aînée ne poursuit pas directement derrière le cheval.
+Après avoir vu la direction du virage du général, elle accélère soudainement en diagonale, prenant position le long du côté intérieur de la trajectoire de virage de l'adversaire.
+
+La caméra la suit de près depuis le bas de son dos/sur le côté à grande vitesse.
+Ses larges manches blanches se déploient violemment vers l'arrière ; ses semelles foulent continuellement le sol réel.
+Elle utilise un bref bond Xianxia (Qinggong) visiblement tracé pour franchir une différence de hauteur raisonnable du terrain d'origine, ou accélère directement au ras du sol.
+Doit conserver :
+Un point de décollage clair
+Une trajectoire claire
+Un point d'atterrissage clair
+Interdit : Téléportation.
+Plan 5 | 7.2–8.5s | Plan moyen-large diagonal ascendant 28mm
+La caméra s'élève rapidement jusqu'à une position où les deux trajectoires sont clairement visibles.
+L'écran montre distinctement :
+Le général continuant de tourner selon un arc plus large.
+La Sœur Aînée s'insérant le long d'une ligne diagonale plus courte.
+Les deux directions de mouvement s'intersectant.
+Le drapeau d'ordre militaire rouge foncé flottant toujours violemment derrière le général.
+Le général a compris que la Sœur Aînée tente une interception.
+Il raccourcit activement sa prise sur la longue lance et ajuste sa posture sur le cheval.
+
+Plan 6 | 8.5–10.0s | Gros plan d'impact à grande vitesse 50mm
+Alors que la Sœur Aînée approche, le général donne activement un nouveau coup d'estoc avec sa longue lance.
+La Sœur Aînée lève l'épée argentée pour le recevoir.
+La collision métallique émet un son extrêmement court et aigu.
+
+L'épée argentée n'encaisse pas frontalement toute la force de la charge, mais modifie uniquement la direction de la pointe de la lance.
+Malgré cela, l'impact provoque un décalage de force notable sur tout le haut du corps de la Sœur Aînée.
+Elle ajuste rapidement ses appuis et son centre de gravité.
+L'ennemi ne s'arrête pas ; le cheval continue de courir.
+Les directions de mouvement des deux camps commencent à devenir parallèles.
+
+Point focal du deuxième segment
+L'initiative du combat commence à s'inverser, mais le danger demeure.
+La Sœur Aînée ne domine pas outrageusement, elle se bat pour gagner du temps et de la trajectoire.
+10–15s | Une épée saisit l'Ordre : Victoire décisive en plein mouvement
+Plan 7 | 10.0–12.0s | Suivi parallèle à courte distance 35mm
+Le général abaisse à nouveau sa longue lance, tentant de bloquer la Sœur Aînée devant lui.
+La Sœur Aînée ne continue pas d'attaquer le corps du général.
+Elle accélère soudainement le long du flanc du cheval.
+La caméra maintient un bref parallélisme avec le cheval.
+L'écran montre simultanément :
+Les pattes du cheval courant à grande vitesse
+Le général stable sur sa selle
+
+La longue lance contrôlée par le général
+La Sœur Aînée et son épée argentée approchant rapidement
+Le général perçoit que sa véritable cible est le drapeau d'ordre militaire.
+Il ramène immédiatement la longue lance, essayant de lui couper l'accès à la position de la selle.
+Au dernier moment, la Sœur Aînée modifie soudainement la hauteur de son corps, se baissant pour passer sous la ligne d'attaque de la lance.
+Le plat de l'épée argentée dévie à nouveau brièvement la pointe de la lance.
+Ici, aucun blocage lourd et continu n'est nécessaire ;
+un seul contact d'arme clair, féroce et réaliste est requis.
+Plan 8 | 12.0–13.5s | Rapprochement soudain 50mm, coupe franche par masquage d'arme
+La longue lance balaie l'avant de l'objectif.
+Utiliser le masquage par l'arme pour effectuer une coupe franche extrêmement rapide.
+L'image suivante coupe directement sur :
+Un plan moyen-rapproché de la Sœur Aînée et du général presque parallèles.
+Elle exécute une accélération Qinggong à courte distance clairement visible ;
+l'épée argentée tranche rapidement depuis l'arrière de son corps.
+Le tranchant de l'épée ne fait que sectionner la lanière de cuir du drapeau d'ordre militaire derrière la selle.
+Strictement interdit :
+Attaquer le cheval de guerre
+Attaquer le corps du général
+
+Endommager les parties porteuses du harnachement
+Un très court éclat d'épée blanc argenté glisse le long de la lanière de cuir.
+Les extrémités coupées de la lanière claquent et se séparent instantanément sous la tension.
+Le drapeau d'ordre militaire rouge foncé se détache brusquement de la selle.
+La surface du drapeau est soulevée vers l'arrière par le flux d'air à grande vitesse.
+La Sœur Aînée tend précisément la main pour saisir la hampe ou la lanière du drapeau,
+complétant naturellement son atterrissage tout en poursuivant son mouvement.
+L'ensemble de ces actions doit être fluide ;
+impossible de s'arrêter pour prendre une pose avec l'épée.
+
+Plan 9 | 13.5–15.0s | Recul rapide à grande vitesse vers un plan large 24mm
+En raison de l'inertie de leur mouvement initial, le général et le cheval continuent de courir vers l'avant le long de la route.
+Le général tend instinctivement la main vers l'arrière de la selle.
+L'emplacement où le drapeau était attaché est désormais vide.
+Il se retourne violemment.
+La caméra ne le suit pas dans son arrêt, mais recule à grande vitesse, révélant à nouveau la relation spatiale de l'ensemble de la route et du même environnement.
+Premier plan de l'écran :
+La Sœur Aînée a atterri de manière stable
+mais continue de faire un pas en avant dans la direction de sa progression
+Le drapeau d'ordre militaire rouge foncé claque violemment au vent dans ses mains
+Son ourlet blanc, ses cheveux noirs et sa manche déchirée continuent de bouger
+Plan moyen et arrière-plan :
+La Sœur Cadette se tient toujours à la position sûre où elle avait esquivé plus tôt
+
+Regardant le drapeau dans les mains de la Sœur Aînée
+Plus loin :
+Le général et le cheval continuent de s'éloigner vers la profondeur
+Les éléments environnementaux préexistants :
+Bruits du vent
+Bruits de l'eau
+Végétation
+Brume de montagne
+Continuent de fonctionner naturellement.
+Ne laissant que :
+
+Le martèlement des sabots qui s'estompe progressivement
+Le bruit de la surface du drapeau rouge battant continuellement l'air
+Exigences de fin
+Aucune pose de victoire
+Aucun arrêt sur image au ralenti
+
+Aucun dialogue explicatif ajouté
+Fin naturelle pendant le mouvement continu
+
+V. Exécution globale de l'action et de la cinématographie
+Segmentation du rythme
+0–5s
+
+Raid de cavalerie à grande vitesse, la protagoniste est forcée d'esquiver.
+5–10s
+S'empare proactivement de la corde intérieure du virage de la cavalerie, l'initiative du combat commence à s'inverser.
+10–15s
+Deuxième engagement à grande vitesse, l'épée saisit l'ordre, le général continue de charger mais a perdu sa cible.
+Nombre de plans suggéré
+Utiliser environ 6 à 8 coupes internes ayant un objectif clair tout au long du film ;
+ne nécessite pas de divisions de durée mécaniquement égales.
+Langage des plans
+
+24mm : Établit l'échelle réelle entre la cavalerie et les personnages.
+28mm en contre-plongée : Renforce le contraste des sabots, des pointes de lance balayant le cadre, et de la vitesse premier plan/arrière-plan.
+35mm en suivi collé au corps : Présente la course, les pas de côté, les dashs diagonaux et le Qinggong à courte distance de la protagoniste.
+50mm : Met l'accent sur le contact lance-épée, la tension corporelle et la saisie précise.
+Retour final au plan large 24mm : Permet de voir clairement le général, la route, le drapeau d'ordre militaire et la relation spatiale finale.
+Principes de mouvement de caméra
+Le mouvement de la caméra doit être déterminé par les facteurs suivants :
+Direction du mouvement des personnages
+Vitesse du cheval de guerre
+
+Lignes d'attaque des armes
+
+Changement d'axe de combat
+Autorisé :
+Panoramiques fouettés courts
+Travellings à grande vitesse
+Mouvements d'approche
+Coupes naturelles masquées par les armes
+Mais chaque coupe doit servir une information d'action réelle.
+Strictement interdit :
+Panoramiques fouettés mécaniques tout au long du film
+Flou de mouvement sévère rendant les personnages méconnaissables
+VI. Règles physiques de l'action
+Cheval de guerre
+Maintenir un rythme de membres réel
+De vrais changements de centre de gravité
+Une véritable tension musculaire
+Un rayon de braquage réel
+
+Interdit :
+Virage sur place instantané
+Arrêt brusque
+Recul en glissant
+Général
+La prise, la reprise, l'abaissement du corps et les changements de direction doivent être continus.
+La longue lance doit refléter une longueur, un poids et une inertie de rotation clairs.
+Sœur Aînée
+Le Qinggong Xianxia ne sert qu'à :
+Accélération explosive sur courte distance
+Changement de trajectoire
+Atteindre un parallélisme cinématographique à grande vitesse
+Interdit :
+Téléportation sans transition
+Sensation de flottement
+Saltos acrobatiques consécutifs pour frimer
+Contact des armes
+Tous les contacts d'armes doivent comporter :
+Une application de force claire
+Un retour clair
+Une collision brève
+Un décalage corporel ou une correction d'appui
+Continuité des tissus et des traces
+Les vêtements prennent du retard lorsque les personnages accélèrent
+Les manches continuent de bouger lors d'un arrêt brusque
+Les poignets blancs déchirés restent endommagés
+Le drapeau d'ordre militaire ne peut pas retourner sur la selle après avoir été coupé
+Les traces de bataille ne disparaissent pas automatiquement
+VII. Conception sonore
+Ouverture
+Le martèlement des sabots s'amplifie rapidement, constituant une pression menaçante.
+Armes
+Longue Lance : Sifflement grave et tranchant.
+Épée Argentée : Son de tranchant bref, haute fréquence et clair.
+Collision d'armes : Réelle, brève, pondérée.
+Sons des accessoires clés
+Lorsque la lanière de cuir est coupée : Son de claquement clair mais pas excessivement exagéré.
+
+Après le détachement du drapeau de la selle : Claquement violent de la toile du drapeau.
+Structure sonore de fin
+Le martèlement des sabots s'estompe progressivement.
+La toile du drapeau et les sons naturels de l'environnement restent au premier plan.
+Principe musical
+Les percussions chinoises sont extrêmement retenues.
+Elles ne renforcent le rythme que lors des deux charges de cavalerie et au moment de la saisie de l'ordre.
+Le film entier n'a aucun dialogue, aucun sous-titre, aucun titre.
+VIII. Prompts négatifs globaux
+Personnages et éléments
+Interdit : Remplacement de visage, changement de costume, changement de coiffure, modification des proportions corporelles.
+Interdit : Confusion de l'attribution des armes entre les protagonistes de l'Image 1 et de l'Image 2.
+Interdit : Ennemis dupliqués sortis de nulle part.
+Cheval de guerre
+Interdit : Membres anormaux, six pattes, pattes croisées, tête déformée, absence de rythme de course réel.
+Interdit : Virage sur place instantané, arrêt brusque, recul en glissant.
+Interdit : Disparition soudaine, changement de couleur, échange de cheval.
+Interdit : Arrêt sorti de nulle part.
+Général et armes
+Interdit : Général flottant, quittant la selle puis y retournant instantanément.
+Interdit : Longue lance se transformant en épée, couteau, pistolet, ou raccourcissant aléatoirement.
+Interdit : Duplication, disparition soudaine ou récupération automatique du drapeau d'ordre militaire.
+Interdit : Drapeau restant fixe après la rupture de la lanière de la selle.
+Logique de combat
+Interdit : Protagoniste blessant le cheval de guerre.
+Interdit : Attaques sans tension corporelle.
+Interdit : Contact d'arme sans retour physique réel.
+Interdit : Combattants immobiles s'entaillant mutuellement.
+Interdit : Ennemis faisant la queue pour offrir leurs attaques.
+Interdit : Protagoniste posant continuellement sur place.
+Interdit : Saltos consécutifs sans but.
+Interdit : Qi d'épée aléatoire sur de grandes surfaces.
+Interdit : Explosions d'énergie plein écran.
+Interdit : Éclairs et failles spatiales aléatoires.
+Interdit : Téléportation sans trajectoire.
+Interdit : Personnages devenant continuellement des traînées de lumière.
+Interdit : Ralenti fréquent, hit-stop, bullet time.
+Interdit : Répétition de la même action sous plusieurs angles.
+Visuels et environnement
+Interdit : Écran entier où les personnages et les armes sont méconnaissables.
+Interdit : Coupes fragmentées mécaniques.
+Interdit : Arrière-plan changeant soudainement.
+Interdit : Environnement aidant la protagoniste à combattre de manière autonome.
+Interdit : Traces évidentes causées par la récupération automatique des personnages.
+Interdit : Sang réel, membres sectionnés et viscères.
+Interdit : Texte, sous-titres, UI, LOGOs et filigranes supplémentaires.
+Mots négatifs généraux
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+IX. Version finale combinée (Prête pour saisie)
+Combat de cavalerie à grande vitesse Xianxia chinois réaliste et cinématographique de 15 secondes. Fixer @Image1 la Sœur Aînée Immortelle à l'épée vêtue de blanc et @Image2 la Sœur Cadette vêtue de vert sarcelle ; l'environnement hérite strictement du monde physique et des relations spatiales définis conjointement par les images de référence de lieux de cette session. Un général de cavalerie lourdement armé de sombre monte un unique cheval de guerre brun foncé, tenant une longue lance et chargeant à grande vitesse, avec un drapeau d'ordre militaire rouge foncé derrière la selle. À l'ouverture, le général domine la Sœur Aînée grâce à la vitesse de sa charge et à la longueur de sa lance ; la Sœur Aînée protège la Sœur Cadette en évitant le premier impact, sa manche blanche est déchirée ; par la suite, le général continue de tourner en maintenant un rayon de braquage réel, la Sœur Aînée identifie la différence entre leurs trajectoires, utilisant un bref Qinggong Xianxia pour s'emparer en diagonale de la corde intérieure du virage de la cavalerie, formant une poursuite croisée à grande vitesse. Le général perçoit l'intention et modifie activement la ligne d'attaque de sa longue lance ; les deux camps effectuent deux collisions d'armes brèves et féroces pendant le mouvement continu. Enfin, la Sœur Aînée se met brièvement en parallèle le long du flanc du cheval, utilise l'épée argentée pour changer la direction de la pointe de la lance, puis sectionne précisément la lanière de cuir du drapeau d'ordre militaire derrière la selle d'un seul coup d'épée, attrapant le drapeau rouge et atterrissant de manière fluide. Le général et le cheval continuent de courir au loin, réalisant seulement en se retournant que le drapeau est perdu. L'ensemble du film met en valeur la course réelle du cheval, la vitesse de la cavalerie, la portée des armes longues, les accélérations explosives des personnages sur courte distance, des trajectoires spatiales claires, un fort contraste de profondeur, des coupes franches fonctionnelles, un retour physique réel et des effets sonores cinématographiques. L'arrière-plan reste vivant et narrativement neutre ; les personnages ne prennent pas de pose victorieuse ; les drapeaux, vêtements, cheveux, chevaux et l'environnement naturel terminent le film en mouvement continu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117142223313866754/img/OMthdgTsWVdBd4Yd.jpg" width="600" alt="Court-métrage de bataille Xianxia Seedance 2.0 Mini">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13436)**
+
+**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2117142880922058932) | **Publié:** Nov 2, 2026
+
+---
 ### Prompt de court-métrage Xianxia ancien avec Seedance 2.0 Mini
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -4040,457 +6769,6 @@ Les gouttes d'eau retombent sur la surface de la rivière, le dragon divin se di
 **Auteur:** [Zidan 子丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2110225020278743421) | **Publié:** Oct 14, 2026
 
 ---
-### Journée épuisante d'une employée de bureau coréenne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt détaillé pour une vidéo cinématographique de 24 secondes illustrant la routine quotidienne épuisante d'une jeune employée de bureau coréenne.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo cinématographique ultra-réaliste de 24 secondes montrant une jeune employée de bureau coréenne vivant une journée épuisante dans sa vie professionnelle. Montrez-la se brossant les dents devant le miroir de la salle de bain, se préparant pour le travail, traversant un passage piéton bondé dans une ville coréenne en costume d'affaires bleu marine, portant un sac à main noir. Puis montrez-la assise fatiguée dans un métro bondé, les yeux fermés, travaillant silencieusement à un bureau encombré entouré d'ordinateurs et de paperasse, et mangeant son déjeuner dans une cantine d'entreprise bondée avec une expression émotionnellement vidée. Capturez des gros plans de son visage épuisé, de la texture réaliste de sa peau et de la tristesse subtile dans ses yeux. Terminez par elle debout, fatiguée, dans le métro avant de passer à une scène où elle est allongée sans mouvement sur un canapé chez elle, toujours vêtue de ses vêtements de bureau et portant son badge d'employé. Maintenez des traits faciaux, une coiffure, une tenue et des proportions corporelles cohérentes tout au long de la vidéo. Utilisez des environnements coréens réalistes, un éclairage naturel, des mouvements de caméra cinématographiques fluides, des expressions faciales détaillées et une palette de couleurs atténuées pour transmettre le poids émotionnel d'une routine de travail exigeante. Rendez l'ensemble de la vidéo photoréaliste, sans texte, sous-titres ni filigranes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110206919013199872/img/s6H_5NpANuOxYO0S.jpg" width="600" alt="Journée épuisante d'une employée de bureau coréenne">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12483)**
-
-**Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2110206983999726004) | **Publié:** Oct 14, 2026
-
----
-### Prompt Vidéo Comédie Xianxia Ancienne Seedance
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt détaillé pour la génération de vidéo avec Seedance, créant une comédie cinématographique xianxia ancienne de 30 secondes sur deux épéistes qui fuient les foules des vacances pour se retrouver confrontées aux gardes de nuit.
-
-#### 📝 Prompt
-
-```
-Comédie à Rebondissements Xianxia Ancien | Vacances de sept jours, trop de monde au pied de la montagne, obligation de faire la garde de nuit en haut
-
-I. Style Global et Direction Artistique
-
-Texture photoréaliste cinématographique, univers pur du xianxia chinois ancien, comédie à rebondissements réaliste centrée sur les relations authentiques entre les personnages.
-
-Inspirations :
-
-Humour froid et sec britannique
-Rythme de la comédie situationnelle hongkongaise
-Pauses de réaction et structure setup-punchline du cinéma muet classique
-
-Les performances des personnages sont naturelles et sobres : pas d'expressions exagérées, pas d'accumulation de magie spectaculaire, pas de scènes grandioses abruptes.
-
-Visuels comportant :
-
-Qualité optique réelle de film ancien
-Micro-détails faciaux clairs et délicats
-Grain de film naturel
-Physique des tissus réaliste
-Lumière volumétrique douce
-Couches spatiales nettes
-
-II. Intrigue Principale et Fil Conducteur Comique
-
-Le segment entier ne contient qu'une seule ligne principale comique complète de 30 secondes :
-
-La Sœur Aînée Immortelle de l'Épée et sa Jeune Sœur obtiennent enfin leurs vacances de sept jours. Elles descendent joyeusement la montagne pour trouver le calme, mais découvrent des files d'attente partout dans les sites touristiques, même les ennemis venus défier doivent faire la queue.
-
-Déçues, elles retournent tôt à leur secte, seulement pour découvrir que la secte vide est en réalité le lieu le plus silencieux ; avant qu'elles ne puissent en profiter, le Maître leur assigne la garde de nuit.
-
-Elles décident instantanément de redescendre la montagne.
-
-La chute finale vient de :
-
-Le contraste réel entre "se plaindre des foules plus tôt" et "préférer maintenant les foules à la garde de nuit".
-
-Principes Comiques
-
-Toutes les blagues sont portées par :
-
-Les choix des personnages
-Les mouvements corporels
-Les changements d'expression
-Les dialogues naturels
-Ne comptez pas sur des accidents magiques aléatoires ou sur l'environnement pour résoudre les problèmes des personnages.
-
-III. Identité des Personnages et Verrouillage des Assets
-
-Utilisez strictement @image1 et @image2 comme seuls ancres d'identité pour les deux personnages principaux.
-
-ID Personnage A | Sœur Aînée Immortelle de l'Épée
-
-Toujours la même Sœur Aînée Immortelle de l'Épée de @image1 :
-
-Femme asiatique de 25-30 ans
-Grande et mince
-Visage ovale
-Yeux amandes foncés
-Cheveux noirs longs attachés en partie, fixés avec une épingle à cheveux en jade blanc
-Porte toujours le même ensemble de Hanfu en soie blanche brodée
-Manches larges superposées
-Ceinture argentée
-Pendentif en jade
-Bottes en tissu blanc
-Tient une longue épée en argent unique
-
-ID Personnage B | Jeune Sœur
-
-Toujours la même Jeune Sœur de @image2 :
-
-Femme asiatique de 20-25 ans
-Petite stature
-Visage rond et vif
-Cheveux noirs tressés
-Porte toujours le même ensemble de Hanfu en lin vert cyan
-Ceinture sombre
-Épingle à cheveux en bois
-Chaussures noires en tissu
-Tient une épée unique en acier sombre
-
-Continuité des Personnages
-Les caractéristiques suivantes des deux personnages principaux restent stables tout au long :
-
-Structure osseuse du visage
-Traits
-Proportions du corps
-Coiffure
-Vêtements
-Armes exclusives
-
-Autres Personnages
-Même Maître âgé
-Un jeune épéiste ennemi
-Servent tous deux de rôles secondaires fonctionnels.
-
-IV. ADN Environnemental et Planification Spatiale
-
-Toutes les images de référence de fond et de localisation téléchargées lors de cette ronde déterminent conjointement le même monde visuel réel.
-
-Avant la génération, intégrez silencieusement les éléments compatibles de chaque image de référence :
-
-Terrain
-Architecture ancienne
-Matériaux de construction
-Échelle spatiale
-Végétation
-Plans d'eau
-Lumière naturelle
-Météo
-Nuages/brume
-Réflexions
-Profondeur atmosphérique
-Itinéraires de marche
-Replanifiez une disposition spatiale unique et physiquement raisonnable pour cette ronde.
-
-Continuité Géographique
-Les lieux suivants doivent appartenir au même environnement géographique continu :
-
-Porte de la Montagne
-Route de la Montagne
-Plateforme d'Observation des Pierres
-
-Principe de Fond Vivant
-Le vent naturel, le flux d'eau, les branches/feuilles, la brume fine, les réflexions et les activités des disciples ordinaires au loin persistent mais restent narrativement neutres, ne créant ni ne résolvant activement des points de trama.
-Seuls les touristes explicitement placés et les challengers en attente peuvent porter des fonctions dramatiques spécifiques.
-
-V. Structure Complète du Storyboard de 30 Secondes
-
-00:00–00:06 | Segment 1 : Enfin en congé, mais la Porte de la Montagne est bondée
-
-Plan : Plan large avançant lentement vers la Porte de la Montagne
-
-Scène & Environnement
-Lumière naturelle du matin, air de montagne clair.
-Au loin, l'eau qui coule, les branches, les manches et les cheveux longs ont tous un mouvement naturel.
-
-Actions & Dialogues des Personnages
-Le même Maître âgé annonce calmement :
-[Maître] "Aujourd'hui commencent les vacances de sept jours."
-
-Les yeux de la même Jeune Sœur s'illuminent instantanément, elle se tourne immédiatement vers la Sœur Aînée :
-[Jeune Sœur] "Sœur, allons trouver un endroit calme !"
-
-La même Sœur Aînée en robe blanche répond avec vivacité :
-[Sœur Aînée] "Allons-y."
-
-Les deux marchent rapidement vers la Porte de la Montagne avec une rare anticipation.
-
-Mouvement de Caméra
-La caméra suit régulièrement, révélant progressivement d'autres disciples anciens et cultivateurs voyageurs sortant de la porte, formant une foule naturelle et ordonnée.
-
-Rythme de Réaction
-Les deux ralentissent simultanément, échangeant simplement un léger regard, sans explication supplémentaire.
-
-00:06–00:12 | Segment 2 : La mer de nuages est belle, mais pleine de gens devant
-
-Plan : Plateforme d'observation des pierres, plans moyens et plans de réaction
-
-Design de Transition
-Utilisez les touristes passant au premier plan pour une transition d'occlusion naturelle vers la plateforme d'observation des pierres de la montagne dans le même monde de référence.
-
-Scène & Espace
-La mer de nuages lointaine et les montagnes sont véritablement magnifiques, mais il y a une file d'attente raisonnable au meilleur point de vue.
-
-Actions & Dialogues des Personnages
-La même Jeune Sœur se met légèrement sur la pointe des pieds, essayant de voir par-dessus les personnes devant, demandant confusément :
-[Jeune Sœur] "Sœur, où est la mer de nuages ?"
-
-La même Sœur Aînée regarde aussi sérieusement le début de la file, marque une pause d'un demi-temps, répondant sans changer d'expression :
-[Sœur Aînée] "Cette rangée de personnes devant bloque la vue."
-
-Réaction Comique
-La Jeune Sœur abaisse lentement ses talons, l'attente disparaissant peu à peu de son visage.
-Donnez à la caméra une pause visuelle brève suffisante pour que les spectateurs ressentent eux-mêmes le décalage.
-
-00:12–00:18 | Segment 3 : Même défier les Immortels de l'Épée nécessite de faire la queue
-
-Plan : Plan moyen à deux, panoramique latéral et révélation de l'espace
-
-Mouvement de Caméra
-La caméra panote naturellement le long de leurs côtés.
-Entrée de l'Ennemi
-Le seul jeune épéiste ennemi s'avance vers eux, dégaine solennellement son épée, criant avec un vrai esprit de défi martial :
-[Épéiste Ennemi] "Immortel de l'Épée ! Réglons cela aujourd'hui !"
-
-La même Sœur Aînée en robe blanche se redresse enfin, faisant face directement à l'adversaire, répondant :
-[Sœur Aînée] "Viens."
-
-Premier Rebondissement Comique
-Juste alors qu'ils se préparent à agir, la même Jeune Sœur lève naturellement une main entre eux :
-[Jeune Sœur] "Faites la queue d'abord."
-
-L'ennemi se fige sur place :
-[Épéiste Ennemi] "Se battre nécessite aussi de faire la queue ?"
-
-Révélation de l'Espace
-La caméra révèle simplement selon le regard de la Jeune Sœur :
-Deux autres challengers portant des épées attendent silencieusement à côté des marches en pierre.
-Un assis
-Un debout
-Tous sont dans des états anciens réalistes, sans stylisation exagérée, ne répétant pas les apparitions des protagonistes.
-
-Réaction Comique
-L'ennemi abaisse lentement sa longue épée, à court de mots pour la première fois.
-Laissez suffisamment d'espace de réaction silencieux, n'ajoutez pas de lignes supplémentaires.
-
-00:18–00:24 | Segment 4 : Retour anticipé, le silence devient punition
-
-Plan : Plan moyen de la Porte de la Montagne, plan stable de relation
-
-Design de Transition
-Utilisez la manche blanche large passante de la Sœur Aînée pour une transition d'occlusion naturelle.
-
-Temps & Scène
-Soirée du même jour.
-Elles retournent à l'exacte même architecture et terrain de la Porte de la Montagne qu'au début.
-La plupart des disciples sont descendus, la secte est exceptionnellement silencieuse, mais l'environnement n'est certainement pas un fond statique :
-Les canaux d'eau continuent de couler
-Les branches de pin oscillent au vent
-Les ombres des nuages lointains changent lentement
-
-Actions & Dialogues des Personnages
-La même Jeune Sœur s'assoit enfin confortablement sur les marches en pierre familières, se détendant et soupirant :
-[Jeune Sœur] "Il fait encore plus calme à la Porte de la Montagne."
-
-La même Sœur Aînée se tient à proximité, se détendant vraiment pour la première fois.
-Préservez entièrement environ une demi-seconde de pause émotionnelle calme et confortable.
-
-Second Rebondissement Comique
-Le même Maître âgé s'approche naturellement par derrière, tenant un rouleau de texte illisible (liste de service normale), disant négligemment :
-[Maître] "Alors vous deux faites la garde de nuit ce soir."
-
-Focus Performance
-La Sœur Aînée et la Jeune Sœur tournent presque simultanément la tête lentement pour regarder le Maître, puis échangent des regards.
-Pas d'yeux écarquillés exagérés.
-Pas d'explosions d'effets sonores.
-Utilisez uniquement les expressions complexes de deux adultes réalisant soudainement qu'elles ont mal parlé pour créer le rebondissement.
-
-00:24–00:30 | Segment 5 : Préfèrent continuer à faire la queue plutôt que de garder la nuit
-
-Plan : Suivi moyen stable, finissant sur la réaction du Maître
-
-Actions des Personnages
-La Sœur Aînée et la Jeune Sœur n'ont pas besoin de discuter, presque simultanément :
-Se lèvent
-Réajustent les épées et les vêtements à la taille
-Marchent rapidement vers l'extérieur de la Porte de la Montagne
-
-Dialogues
-Le même Maître les regarde perplexe :
-[Maître] "N'avez-vous pas plaint les foules en bas ?"
-
-La même Jeune Sœur ne se retourne pas, répondant tout en marchant :
-[Jeune Sœur] "Bondé c'est bondé, mais pas de garde de nuit nécessaire."
-
-La même Sœur Aînée en robe blanche ajoute très sérieusement :
-[Sœur Aînée] "Dépêchez-vous, les chambres d'auberge seront pleines."
-
-Mouvement Final de Caméra
-La caméra ne poursuit pas les deux, mais reste naturellement sur le Maître.
-Laissez les dos s'éloignant de plus en plus vite des deux au loin former un contraste visuel avec la réaction silencieuse du Maître au premier plan.
-
-Atterrissage Comique Final
-Le Maître réalise enfin qu'il a personnellement renvoyé deux disciples qui se plaignaient des foules directement dans la foule.
-Il laisse échapper juste un léger soupir.
-Terminez précisément sur cette réaction complètement impuissante mais très réelle.
-
-VI. Exigences Narratives et de Montage Globales
-
-Durée totale stricte de 30 secondes
-Format paysage 16:9
-Cinq segments cinématographiques rythmiquement clairs et causalement continus
-Tous les lieux appartiennent à un espace géographique complet direct
-Compléter directement une narration audiovisuelle complète
-
-Principes de Coupe
-Les changements de caméra ne sont complétés naturellement que par :
-Mouvement des personnages
-Occlusion au premier plan
-Relations de regard
-Continuité directionnelle
-Ne faites pas
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110182087324254208/img/MR9I6jSjF-0t_RNb.jpg" width="600" alt="Prompt Vidéo Comédie Xianxia Ancienne Seedance">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12488)**
-
-**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2110182891452010713) | **Publié:** Oct 14, 2026
-
----
-### Design de sol en résine époxy avec portes de voiture
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt créatif pour l'installation d'un sol transformant des portes de voitures rouillées en un design de sol vibrant.
-
-#### 📝 Prompt
-
-```
-Vidéo verticale photoréaliste au format 9:16, plan fixe large depuis le coin d'une chambre blanche vide avec une grande fenêtre sur le mur droit, lumière naturelle vive, sol en béton brut. Un ouvrier barbu portant une salopette bleu marine et des gants noirs utilise un râteau à long manche pour étaler un grand tas de vieilles portes de voitures rouillées sur le sol, les aplatissant en une grille ordonnée couvrant toute la pièce, mouvement accéléré (timelapse). Ensuite, une femme avec une queue de cheval, vêtue d'une salopette rouge, verse une résine époxy auto-nivelante épaisse et blanc laiteux depuis un seau sur les portes de voitures rouillées ; le liquide s'étale, submergeant les portes jusqu'à ce que tout le sol devienne une surface blanche brillante avec de faibles silhouettes de portes de voitures visibles en dessous. Puis, un homme dans un gilet jaune haute visibilité pousse une polisseuse rotative de sol avec un tuyau d'aspiration, ponçant l'époxy durci jusqu'à ce que les portes de voitures rouillées intégrées deviennent un motif décoratif en relief lisse dans un sol blanc miroir brillant. Enfin, deux ouvriers en uniformes noirs avec des gants roses apportent un cadre de lit en métal noir, placent un matelas et habillent le lit avec une couette grise et des oreillers. Chambre minimaliste finie avec un sol designer de portes de voitures vintage encapsulées sous une résine transparente brillante. Timelapse de rénovation satisfaisant, éclairage constant, caméra stable, prise continue sans couture, haute définition, pas de texte, pas de filigrane.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110044612379242496/img/wJMIB2YQGZFr9b7E.jpg" width="600" alt="Design de sol en résine époxy avec portes de voiture">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12486)**
-
-**Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2110044654083162342) | **Publié:** Oct 13, 2026
-
----
-### Vidéo Lifestyle de la Vie Nocturne à Tokyo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour créer une vidéo lifestyle cinématographique hyper-réaliste de 15 secondes, mettant en scène une femme se promenant dans les rues de Tokyo, le passage piéton de Shibuya et les ruelles néon.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo lifestyle cinématographique hyper-réaliste de 15 secondes en utilisant la femme de référence comme identité exacte tout au long du clip.
-
-Elle est belle avec des traits de mannequin dans chaque scène. Préservez son visage, ses longs cheveux foncés, son teint, ses proportions corporelles et son identité de manière cohérente. Texture de peau naturelle, mouvement réaliste, pas de morphing, aucun texte à l'écran, et elle ne parle jamais.
-
-Habillez-la avec la tenue de son image de référence, de manière cohérente pour toute la vidéo.
-
-Utilisez notre structure de scènes à coupe rapide habituelle : scènes propres de 0,8 à 1,8 seconde, mouvements de caméra dynamiques, finition visuelle soignée et changements de lieu clairs. Gardez les actions simples et faciles à suivre pour le modèle. Le ton est stylé, décontracté et urbain.
-
-Scène 1 — 0:00–0:01.8 Passage piéton de Shibuya. Elle marche avec assurance à travers la foule. La caméra recule devant elle.
-
-Scène 2 — 0:01.8–0:03.2 Portrait intime serré dans une rue latérale de Tokyo. Visage, cou, épaules. Mouvement latéral lent de la caméra. Elle regarde directement l'objectif.
-
-Scène 3 — 0:03.2–0:04.8 Harajuku ou Cat Street. Plan de suivi latéral alors qu'elle passe devant les vitrines et les piétons.
-
-Scène 4 — 0:04.8–0:06.2 Elle s'arrête devant une distributeur automatique lumineux et prend une boisson. Plan rapproché moyen propre. Léger zoom avant.
-
-Scène 5 — 0:06.2–0:07.8 Quai de gare à Tokyo. Elle attend debout tandis que le train arrive derrière elle. La caméra effectue un mouvement latéral.
-
-Scène 6 — 0:07.8–0:09.3 Ruelle étroite aux néons ou allée tranquille éclairée par des lanternes. Plan de suivi arrière alors qu'elle marche, puis jette un coup d'œil en arrière légèrement.
-
-Scène 7 — 0:09.3–0:10.8 Petit bar à ramen ou moment devant la fenêtre d'un café. Elle se tourne légèrement, expression douce et naturelle, faible profondeur de champ.
-
-Scène 8 — 0:10.8–0:15.0 — HÉROÏNE Toit ou terrasse surélevée avec la skyline de Tokyo derrière elle à l'heure bleue. Commencez derrière son épaule, puis orbitez doucement vers un plan héroïque taille haute. Elle regarde directement la caméra pour le dernier moment, calme, confiante et frappante.
-
-SON : Minimaliste et naturel. Ambiance des rues de Tokyo, mouvement doux de la foule, trafic lointain, sons des feux de circulation, pas légers, bourdonnement du distributeur automatique, bruit d'arrivée du train, air subtil de la ville, ambiance tranquille du restaurant. Pas de dialogue. Pas de paroles de musique.
-
-Gardez Tokyo visuellement reconnaissable mais élégant. Pas de transitions déroutantes, pas de complexité supplémentaire et pas d'instabilité.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110001684160167936/img/Qvh3eZRr7m24EnuP.jpg" width="600" alt="Vidéo Lifestyle de la Vie Nocturne à Tokyo">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12480)**
-
-**Auteur:** [Promethean](https://x.com/PrometheanAIX) | **Source:** [Link](https://x.com/PrometheanAIX/status/2110002369354178965) | **Publié:** Oct 13, 2026
-
----
-### Vidéo de Rénovation de Sol en Époxy avec Carapaces de Tortue
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une vidéo de rénovation surréaliste où des ouvriers installent un sol en résine époxy intégrant des carapaces de tortues. La séquence comprend le rassemblement de tortues vivantes en rangées, le coulage de résine blanche par-dessus, le ponçage et le polissage pour révéler les motifs des carapaces, puis l'assemblage d'un lit par-dessus. Idéal pour créer du contenu visuel ASMR étrangement satisfaisant.
-
-#### 📝 Prompt
-
-```
-Vidéo de rénovation surréaliste photoréaliste, format vertical 9:16, une pièce vide unique aux murs blancs et à la grande fenêtre lumineuse, lumière naturelle du jour, plan large fixe, caméra fluide.
-
-Scène 1 (0-4s) : un homme portant une salopette en denim bleu et un t-shirt gris utilise un long râteau pour étaler un énorme tas de tortues vivantes sur le sol brut en béton, les alignant en rangées parallèles nettes qui couvrent toute la pièce.
-
-Scène 2 (4-8s) : une femme en salopette rouge verse une épaisse résine époxy blanche autonivelante depuis un seau en plastique sur les rangées de tortues ; le liquide brillant s'écoule, se nivelle seul et recouvre complètement les carapaces.
-
-Scène 3 (8-16s) : l'homme opère une lourde machine de meulage et de polissage de sol, ponce la résine blanche durcie ; la poussière s'élève, et le polissage révèle progressivement les carapaces de tortue intégrées dans le sol, transformant le tout en un sol époxy décoratif et brillant avec motif de carapace de tortue.
-
-Scène 4 (16-24s) : deux ouvriers en t-shirts noirs apportent un cadre de lit en bois, placent un matelas blanc, des oreillers et une literie beige, assemblant le lit par-dessus le sol époxy à carapaces de tortue.
-
-Plan final : chambre à coucher finie et confortable, sol brillant de style terrazzo fait de carapaces de tortue intégrées reflétant la lumière de la fenêtre. Détails hyper-réalistes, style ASMR étrangement satisfaisant, sans texte.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109958755173425153/img/FCKZiXsGkdEJncn9.jpg" width="600" alt="Vidéo de Rénovation de Sol en Époxy avec Carapaces de Tortue">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12477)**
-
-**Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2109958787373125663) | **Publié:** Oct 13, 2026
-
----
-### Vidéo de Mode Gothique pour Halloween
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour créer une vidéo de mode fantaisie cinématographique d'Halloween mettant en scène une femme dans une haute couture gothique avec des éléments magiques.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo de mode fantaisie ultra-réaliste et cinématographique sur le thème d'Halloween, au format vertical 9:16. Elle met en scène une belle femme adulte aux longs cheveux auburn ondulés, ornés d'une couronne élaborée composée de roses rouges, de soucis orange, de mini-citrouilles, de dentelle noire et d'ornements gothiques suspendus. Elle porte une robe extravagante de haute couture gothique noir et orange, dotée de dentelles complexes, de broderies florales, d'embellissements en forme de citrouille et de bijoux délicats. Elle est assise élégamment dans un jardin magique d'Halloween, entourée de bougies lumineuses, de jack-o'-lanterns sculptés, de fleurs d'automne et d'une grande pleine lune lumineuse en arrière-plan. Un panier débordant de petites citrouilles, de bonbons d'Halloween et de décorations fantômes adorables repose sur ses genoux. Elle pose doucement sa joue sur sa main, sourit chaleureusement à la caméra, incline la tête et interagit gracieusement avec les décorations tout en maintenant des expressions faciales naturelles et des mouvements fluides. Des papillons dorés lumineux et des lucioles magiques volètent autour d'elle, créant des traînées scintillantes de lumière, tandis qu'un petit chat noir est assis à côté d'elle. Utilisez une lumière chaude de bougie ambre, des tons riches en orange brûlé et en cramoisi, un éclairage cinématographique doux, une faible profondeur de champ, des textures de peau très détaillées, un mouvement réaliste des tissus, des transitions de caméra fluides, des effets subtils de ralenti et une photographie éditoriale luxueuse de fantaisie. L'atmosphère doit être envoûtante, romantique, mystérieuse et capricieuse, avec un détail exceptionnel, une qualité photoréaliste 4K et une esthétique soignée de film de mode d'Halloween.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109922320395423744/img/VBXgQbfrVo5AiCQY.jpg" width="600" alt="Vidéo de Mode Gothique pour Halloween">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12485)**
-
-**Auteur:** [Letty](https://x.com/LettyVesper) | **Source:** [Link](https://x.com/LettyVesper/status/2109923048434348416) | **Publié:** Oct 13, 2026
-
----
-### Moment de Studio : Danseuse Blessée
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt détaillé pour une vidéo cinématographique d'une jeune danseuse coréenne se reposant après l'entraînement, mettant en évidence la blessure et l'émotion.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo cinématographique ultra-réaliste de 30 secondes mettant en scène une belle jeune femme coréenne dans un studio de danse spacieux et moderne, doté d'un sol en bois lisse, de grands miroirs et d'un éclairage intérieur doux. Au début, montrez plusieurs danseuses s'entraînant à l'arrière-plan tandis que la caméra capture les pieds nus de la jeune fille et son pantalon noir ample alors qu'elle traverse le sol du studio. Elle porte un haut noir ajusté à manches longues et un pantalon noir ample, ses cheveux foncés sont attachés négligemment avec quelques mèches tombant naturellement sur son visage. À mesure que la vidéo progresse, elle semble fatiguée et émotionnellement submergée après l'entraînement, s'asseyant lentement contre un mur gris clair du studio, les genoux repliés contre sa poitrine. Elle tient doucement sa cheville blessée, enveloppée dans un bandage de couleur claire, et regarde vers le bas avec une expression silencieuse et triste. D'autres danseuses continuent de s'entraîner à l'arrière-plan, créant un contraste réaliste entre le studio animé et son moment de solitude. Utilisez un mélange de plans larges, de plans moyens et de gros plans intimes de son visage, de ses mains et de sa cheville bandée. Ses mouvements doivent paraître subtils, naturels et émotionnellement crédibles, avec une texture de peau réaliste, des détails faciaux délicats et une apparence de personnage cohérente tout au long de la vidéo. Utilisez un éclairage cinématographique doux, des couleurs neutres atténuées, une faible profondeur de champ, des mouvements de caméra fluides et une esthétique professionnelle de drama coréen. Maintenez un aspect photoréaliste, des proportions corporelles naturelles, des détails réalistes du studio et des visuels de haute qualité en 1080p au format vertical 9:16 (note : le texte source indique 'vertical 16:9', ce qui est techniquement contradictoire ; pour un format vertical standard, utilisez 9:16, ou conservez 'format vertical' si l'aspect ratio exact n'est pas critique). Évitez les expressions exagérées, la peau artificielle, les mains déformées, les doigts supplémentaires, le scintillement et tout texte ou filigrane indésirable.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109876396952784896/img/U08ae2rw0nJjeYWO.jpg" width="600" alt="Moment de Studio : Danseuse Blessée">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12484)**
-
-**Auteur:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2109876446089134244) | **Publié:** Oct 13, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -4552,6 +6830,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-03T02:24:07.286Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-03T11:55:40.089Z</sub>
 
 </div>
