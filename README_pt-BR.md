@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6640** |
+| 📝 Total de prompts | **6649** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-11-04** |
 
@@ -361,6 +361,269 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Prompt de Vídeo Selfie Fashion Seedance 2.5
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt altamente detalhado para gerar um vídeo vertical de selfie fashion, com instruções específicas sobre ângulos de câmera, iluminação e cronograma.
+
+#### 📝 Prompt
+
+```
+Tela vertical 9:16, 6.0 segundos, 30fps, live-action realista, vídeo curto de look com perspectiva de selfie no espelho pelo celular. A pessoa da @Image1, usando o styling e as roupas do diagrama de três vistas da @Image2, agachada de frente para a lente em um closet branco minimalista e bem iluminado. Mão direita segurando o celular para a selfie no espelho, aparelho na altura do peito no lado direito do quadro, tela virada para fora e acesa, mostrando a própria imagem da pessoa. Mão esquerda apoiada no joelho. O fundo tem armários embutidos brancos, prateleiras com alguns pares de sapatos, spots de luz branca quente no teto e piso de porcelanato branco brilhante com reflexo. Luz suave high-key, iluminação frontal, ambiente bem claro, levemente superexposto. Pele translúcida e suavizada com textura de filtro de beleza, tons de branco frios, cores das roupas saturadas. Leve tremor de câmera na mão durante todo o vídeo, cabelo longo e cacheado caindo naturalmente, expressão divertida e preguiçosa, olhos sempre olhando para a lente.
+
+Storyboard
+
+Tempo Plano/Movimento de Câmera Ação e Expressão Composição
+0.0–0.2s Extreme close-up do rosto, na altura dos olhos, leve inclinação para baixo Fixo Fazendo biquinho, olhos encarando direto a lente Rosto no centro superior do quadro, cerca de 45% da altura; celular à direita, visível do peito até o meio do quadro
+0.2–0.5s Extreme close-up Panorâmica para a direita aprox. 3% Inclina a cabeça para a esquerda aprox. 15°, projeta o corpo para frente, começa a fazer biquinho Rosto se move para o terço esquerdo do quadro
+0.5–0.9s Extreme close-up, parcialmente fora do quadro Continua a panorâmica para a direita aprox. 3% Biquinho como se fosse dar um beijo, olhos semicerrados, bochecha perto da lente, metade esquerda do rosto fora do quadro Apenas a metade direita do rosto e os lábios ficam visíveis
+0.9–1.2s Extreme close-up Volta ao centro Cabeça se endireita, lábios relaxam, olhos abertos olhando para a lente Rosto volta para o centro-esquerda
+1.2–1.6s Close-up para plano médio Começa a afastar (pull back), velocidade lenta Cabeça inclina levemente para a direita, cabelo longo cai sobre o ombro esquerdo Gola e colar entram no quadro
+1.6–2.2s Plano médio para plano geral Afastamento suave, total aprox. 1.8x Corpo inclina para a direita aprox. 10°, mantém o agachamento Roupas, pernas e sapatos são revelados em sequência, a pessoa ocupa aprox. 80% da altura
+2.2–2.7s Plano geral, agachada Fixo, leve tremor Aos 2.3s inclina a cabeça para a direita aprox. 20°, aos 2.4s pisca o olho direito, canto da boca levantado Celular no meio direito do quadro
+2.7–3.9s (Corte seco aos 2.7s) Plano médio lateral em ângulo baixo de 45°, do peito à coxa Zoom in muito lento aprox. 3%, com leve movimento simultâneo para a direita Vira o corpo para a esquerda, joga todo o cabelo longo para o ombro mais próximo da lente, ondas grandes descendo até a cintura; queixo recolhido, vira o rosto de lado para a lente, lábios levemente entreabertos, piscada suave aos 3.3s Pessoa nos 2/3 esquerdos do quadro; visão das costas visível no espelho ao fundo à direita, fundo com portas de armário brancas e spots de luz
+3.9–4.7s (Corte seco aos 3.9s) Plano médio frontal agachada, mesma câmera dos 2.2s Fixo, tremor de câmera na mão Retoma a selfie no espelho; de 4.0 a 4.5s balança a cabeça para a direita e para a esquerda aprox. 8° cada, expressão relaxada, olhos na lente Pessoa no centro do quadro, aprox. 80% da altura
+4.7–5.2s Plano médio para corpo inteiro Afasta enquanto eleva a câmera aprox. 10%, tornando-se um ângulo alto Aos 4.8s a mão esquerda sai do joelho e sobe até o peito Spots do teto visíveis acima, pontas dos sapatos visíveis abaixo
+5.2–5.6s Corpo inteiro, agachada Afastamento desacelerando Mão esquerda erguida na frente do queixo, dedo indicador para cima, os outros fechados Pessoa ocupa aprox. 60% da altura, borda esquerda do espelho entra no quadro
+5.6–6.0s Corpo inteiro, agachada, leve ângulo alto Para, congela após 5.7s Dedo indicador nos lábios fazendo "shh", inclina a cabeça para a esquerda aprox. 10°, olhar divertido para a lente, sorriso leve Moldura branca do espelho, armários e spots totalmente visíveis, pessoa na parte central inferior
+
+Prompts Negativos
+
+Rosto inconsistente com a @Image1, roupas inconsistentes com a @Image2, distorção de traços, dedos extras, deformidade nas mãos, deformação do celular, alteração de cor nas roupas, salto de textura, distorção de fundo, cintilação, marcas d'água/legendas, baixa nitidez
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117815051021389825/img/ClZkhqCtjIBtMNQW.jpg" width="600" alt="Prompt de Vídeo Selfie Fashion Seedance 2.5">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13485)**
+
+**Autor:** [潇潇](https://x.com/beizhi606) | **Fonte:** [Link](https://x.com/beizhi606/status/2117815219762467083) | **Publicado:** Nov 4, 2026
+
+---
+### Prompt de Dança Multi-Personagem do Seedance
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt detalhado para geração de vídeo com o Seedance, apresentando Sam Altman e Dario Amodei dançando com uma mulher, incluindo instruções específicas para evitar a distorção facial e garantir movimentos sincronizados.
+
+#### 📝 Prompt
+
+```
+Centro: uma mulher deslumbrante e glamourosa em um vestido preto elegante; Esquerda: Sam Altman com traços reconhecíveis usando um clássico suéter cinza estilo tech; Direita: Dario Amodei de óculos e blazer casual. movimentos de dança de apoio rítmicos e sincronizados, jogo de pés dinâmico espelhado, balanço fluido do tronco, física de movimento natural, plano cinematográfico amplo de estúdio em 35 mm, plano médio inteiro, iluminação principal quente de estúdio, sem distorção facial, identidade individual consistente ao longo dos 15 segundos
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117801780943753216/img/vLWJZlhNnzU5ul-o.jpg" width="600" alt="Prompt de Dança Multi-Personagem do Seedance">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13486)**
+
+**Autor:** [AYi](https://x.com/AYi_AInotes) | **Fonte:** [Link](https://x.com/AYi_AInotes/status/2117810237314826563) | **Publicado:** Nov 4, 2026
+
+---
+### Batalha entre Dragão de Gelo e Fênix de Fogo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar um vídeo cinematográfico de batalha de fantasia, apresentando guerreiros elementais de gelo e fogo e criaturas míticas em uma arena antiga.
+
+#### 📝 Prompt
+
+```
+Crie uma batalha de fantasia cinematográfica e ultrarrealista entre dois poderosos guerreiros de artes marciais em uma arena antiga e mística.
+
+Cena 1: Uma revelação dramática e cinematográfica do título, com um gigantesco dragão de gelo azul à esquerda e uma magnífica fênix de fogo dourada à direita, cercados por raios, chamas, nuvens escuras de tempestade e rochas flutuantes.
+
+Cena 2: Dois lutadores de artes marciais — um vestindo um traje branco com energia de gelo azul brilhante e o outro usando um traje branco com energia de fogo laranja incandescente — iniciam uma intensa batalha de kung fu. Eles executam chutes potentes, socos, ataques aéreos e golpes sobrenaturais de energia.
+
+Cena 3: Ambos os guerreiros saltam alto no céu, disparando feixes de energia azuis e laranjas massivos pelas mãos. Rochas flutuantes gigantes os cercam enquanto as duas forças energéticas colidem.
+
+Cena 4: O dragão de gelo azul surge atrás do guerreiro azul, enquanto a fênix de fogo dourada aparece atrás do guerreiro laranja. Ambas as criaturas míticas rugem e liberam seus poderes supremos.
+
+Cena 5: Uma enorme explosão de energia azul e laranja toma conta do céu, criando uma onda de choque cinematográfica espetacular, com destroços voando, partículas mágicas, fogo, gelo e raios.
+
+Estilo visual: CGI 3D hiper-realista, cinematografia épica de filme de fantasia, qualidade Unreal Engine 5, personagens ultradetalhados, iluminação volumétrica, movimentos de câmera dramáticos, ação em câmera lenta, física realista, resolução 4K, proporção vertical 9:16.
+
+Sem estilo cartoon, sem rostos borrados, sem corpos distorcidos, sem membros extras, sem marca d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117760528592539648/img/9TZsqtkp7ydGDl8b.jpg" width="600" alt="Batalha entre Dragão de Gelo e Fênix de Fogo">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13483)**
+
+**Autor:** [Zaviaan](https://x.com/zaviaanroy) | **Fonte:** [Link](https://x.com/zaviaanroy/status/2117760569201848392) | **Publicado:** Nov 3, 2026
+
+---
+### Prompt de Movimento de Câmera Seedance: Pavilhão do Lago Antigo
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt para gerar um vídeo cinematográfico em estilo chinês antigo com movimentos de câmera específicos (inclinação para cima, recuo, aproximação) revelando uma personagem feminina em um pavilhão à beira do lago envolto em névoa.
+
+#### 📝 Prompt
+
+```
+Curta-metragem live-action realista em estilo chinês antigo. Dia nublado, pavilhão à beira do lago envolto em névoa, tons frios de cinza com baixa saturação, luz natural suave e difusa, superfície calma do lago com leves ondulações, paisagem distante desfocada pela neblina. Sem diálogos do início ao fim. Áudio: sem BGM, sem canto, apenas som ambiente — vento suave, ondas delicadas na água, cantos distantes de andorinhas e o farfalhar dos tecidos.
+
+[Trava de Personagem]
+Protagonista Feminina A: Imagem 1;
+
+[Relação Espacial]
+A se apoia no parapeito de madeira do lado do pavilhão voltado para a água, corpo virado para o lago, uma mão estendida sobre o parapeito pairando acima da superfície da água; a câmera fica posicionada inteiramente do lado do lago filmando-a, o pavilhão e os salgueiros da margem oposta servem apenas como fundo desfocado, água diretamente abaixo do parapeito, nenhuma rua, pátio ou outro espaço aparece.
+
+Plano 01 [Duração] 2,8s
+[Movimento de Câmera] Tilt Vertical para Cima: posição da câmera fixa, a lente sobe lentamente de baixo para cima, dos pés/chão até a cabeça/céu. Este plano começa com um close-up da mão próxima à superfície da água, a câmera faz um tilt para cima acompanhando o braço de A estendido sobre o parapeito, passando pelas mangas largas, ombros/pescoço e pelos longos cabelos soltos em cascata, terminando de forma estável em um close-up de seu perfil abaixado.
+[Visual] A mão de A paira sobre a superfície do lago, as pontas dos dedos quase tocando a água, ondulações concêntricas se espalhando logo abaixo deles, sombras de carpas vermelho-alaranjadas flutuando lentamente sob a água; a câmera sobe, passando pelas mangas largas bordadas com flores em rosa e branco e pelos longos cabelos caindo à frente, até finalmente focar em seu perfil abaixado: olhos voltados para a água, cílios baixos, lábios levemente entreabertos, as borlas do ornamento de cabelo balançando suavemente, expressão serena e sonhadora.
+
+Plano 02 [Duração] 3,9s
+[Movimento de Câmera] Recuo (Pull Back): a câmera recua lentamente, abrindo gradualmente o enquadramento do close-up do sujeito para revelar por completo o ambiente ao redor e a situação. Este plano começa com um plano médio do tronco de A apoiado no parapeito, a câmera recua devagar, revelando progressivamente os beirais do pavilhão acima, os pilares de madeira ao lado e a superfície do lago coberta de névoa, terminando em um plano americano que inclui o ambiente.
+[Visual] A se inclina para a frente apoiada no parapeito, sustentando o peso com uma das mãos, o tronco levemente projetado adiante; a brisa do lago sopra, os cabelos na altura da cintura e as mangas largas são jogados totalmente para trás, esvoaçando com força; silhuetas de 3 a 4 andorinhas cruzam o céu enevoado partindo do lado esquerdo do quadro, ela ergue lentamente a cabeça, o olhar acompanhando as aves em direção à parte superior esquerda, lábios levemente entreabertos; o fundo mostra os salgueiros desfocados da margem oposta e um céu cinza-esbranquiçado e nevoento.
+
+Plano 03 [Duração] 3,4s
+[Movimento de Câmera] Avanço (Push In): a câmera avança lentamente para frente, aproximando-se gradualmente do sujeito a partir de um plano médio, até parar em um close-up do rosto ou em um detalhe importante. Este plano começa com um close-up do perfil de A olhando para o lago, a câmera avança em linha reta, terminando em um close-up de seu rosto agora virado para a frente; é A quem vira a própria cabeça, a câmera não orbita nem muda de posição.
+[Visual] A inicialmente está de costas, com o perfil esquerdo voltado para o lago distante, os longos cabelos soprados para trás, a borla do ornamento balançando de leve; como se pressentisse algo, ela vira a cabeça lentamente, o olhar finalmente caindo direto na lente, cílios tremendo sutilmente, lábios levemente entreabertos, expressão carregando um leve ar de perplexidade vazia; o fundo traz as sombras enevoadas do pavilhão e dos salgueiros da margem oposta, altamente desfocadas.
+
+[Trava de Continuidade] Mesma pessoa, mesma roupa e mesmos acessórios de cabelo durante toda a cena, A permanece no parapeito do pavilhão sem sair do lugar; o perfil abaixado no final do Plano 01 está voltado para o lado esquerdo do quadro, coerente com a orientação do perfil no início do Plano 03; a direção do vento é constante do início ao fim, os longos cabelos e as mangas sempre soprados para trás; a iluminação é difusa e nublada durante toda a cena, sem luz solar direta.
+
+[Restrições Negativas] Sem BGM, sem canto; sem diálogos, sem sincronia labial de fala; sem câmera tremida ou movimentos rápidos, sem órbitas ao redor da personagem; sem troca de rosto (face-swap), sem pessoas extras; sem desaparecimento ou deformação dos acessórios de cabelo; sem cabelos estáticos; sem céus azuis ensolarados ou luz solar intensa; sem legendas, textos ou marcas d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117639095640072192/img/3W8_CFU_HqWfvLcD.jpg" width="600" alt="Prompt de Movimento de Câmera Seedance: Pavilhão do Lago Antigo">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13484)**
+
+**Autor:** [灰度笔记](https://x.com/GrayNoteLab) | **Fonte:** [Link](https://x.com/GrayNoteLab/status/2117639219208405349) | **Publicado:** Nov 3, 2026
+
+---
+### Reforma de Piso com Fatias de Madeira e Epóxi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar um vídeo em timelapse de reforma, onde fatias de tronco de madeira são transformadas em um piso de epóxi em um quarto usando o Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Vídeo de reforma vertical em estilo timelapse, plano aberto fixo de um cômodo vazio e iluminado com paredes brancas, uma janela grande à direita e fita crepe azul ao longo dos rodapés. Um operário de macacão laranja despeja uma pilha de discos redondos de toras de madeira no chão nu e os espalha com um rodo, organizando as fatias com a face para cima em um mosaico uniforme. Vários outros trabalhadores, também de macacão laranja, se ajoelham para encaixar as peças bem juntas e, em seguida, derramam resina epóxi leitosa e transparente de baldes, espalhando-a com rodos até que cada fresta fique preenchida como vidro líquido. Um funcionário usando protetor auricular passa uma politriz na superfície em cura, enquanto outro nivela as bordas perto das paredes; cortes em câmera rápida mostram a resina úmida se autonivelando e ganhando brilho, selando os anéis ambarinos da madeira em um piso polido e sem emendas. Transição suave para o quarto pronto: o mesmo ambiente agora decorado com uma cama de carvalho claro vestida com lençóis brancos, uma mesa de cabeceira com uma luminária pequena e um quadro emoldurado acima da cabeceira, luz do sol entrando pela janela e o piso de epóxi com fatias de madeira reluzindo com reflexos espelhados. Estilo documentário realista, luz natural quente, transformação antes e depois extremamente satisfatória.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117620219015307264/img/KHmURK_Zud9o8jMl.jpg" width="600" alt="Reforma de Piso com Fatias de Madeira e Epóxi">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13481)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2117620262606614546) | **Publicado:** Nov 3, 2026
+
+---
+### Time-lapse de Renovação de Piso de Epóxi com Pedras
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para gerar um vídeo time-lapse realista de renovação, onde pedras são transformadas em piso de epóxi em um quarto usando Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Um homem de macacão azul usa um ancinho longo para espalhar uniformemente uma grande pilha de pedrinhas lisas e coloridas pelo piso de concreto de uma sala vazia e iluminada pelo sol, com paredes brancas e uma janela ampla, enquanto as pedras brilham em tons de verde-azulado, roxo e bronze. Em seguida, uma mulher de macacão vermelho despeja uma resina epóxi branca e espessa de um balde grande, e o líquido leitoso escorre e se autonivela sobre as pedrinhas até cobrir todo o chão. Depois, um trabalhador de uniforme azul e colete amarelo de alta visibilidade faz o polimento da superfície já curada com uma politriz de piso, revelando um acabamento transparente e brilhante, com as pedrinhas coloridas suspensas por baixo, como no terrazzo. Por fim, dois homens de camiseta preta trazem uma base de cama baixa de madeira, colocam um colchão branco sobre ela e arrumam a cama com lençóis e travesseiros brancos bem esticados. O vídeo termina com um plano aberto do quarto minimalista pronto, com a luz do sol entrando pela janela e refletindo no piso de epóxi com pedrinhas, liso como um espelho. Ritmo fluido de timelapse, iluminação realista, processo de reforma satisfatório, formato de vídeo vertical.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117619228731731968/img/atVG1KSc_qBxyRI3.jpg" width="600" alt="Time-lapse de Renovação de Piso de Epóxi com Pedras">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13479)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2117619279042363438) | **Publicado:** Nov 3, 2026
+
+---
+### Renovação de Piso com Seixos de Quartzo Rosa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de timelapse fotorealista de renovação, onde seixos de quartzo rosa se transformam em um piso de terrazzo em um quarto, gerado com Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Timelapse fotorrealista de reforma em formato vertical 9:16. Em um quarto vazio, claro e branco, com uma janela grande iluminada pelo sol e fita crepe azul nas bordas do piso, um homem barbado vestindo macacão azul espalha com um ancinho uma enorme pilha de seixos polidos de quartzo rosa, distribuindo-os uniformemente por todo o chão. Dois trabalhadores de macacão vermelho e luvas pretas despejam resina epóxi branca leitosa de baldes metálicos sobre as pedras e a alisam com o ancinho até que todos os seixos fiquem submersos. Em seguida, uma equipe usando coletes amarelos de alta visibilidade lixa a superfície já curada com politrizes de piso e aspira toda a poeira, revelando um piso brilhante de terrazzo branco com pedras arredondadas de quartzo rosa incrustadas; inclua um close-up dos círculos rosados polidos reluzindo. Depois, os trabalhadores montam uma estrutura de cama em carvalho claro, colocam um colchão com roupas de cama em tons rosa-blush e creme, criados-mudos de madeira, uma luminária de mesa, um vaso com folhagens e quadros emoldurados acima da cabeceira. Termine com uma panorâmica lenta pelo quarto minimalista pronto, onde o piso de seixos rosados com brilho espelhado reflete a suave luz do dia, transições fluidas e satisfatórias, iluminação natural da janela, sem sobreposição de texto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117571124670115840/img/8GrfiG-mX2vE1E09.jpg" width="600" alt="Renovação de Piso com Seixos de Quartzo Rosa">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13482)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2117571161642893460) | **Publicado:** Nov 3, 2026
+
+---
+### Timelapse de Renovação de Piso Terrazzo com Gemas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para um vídeo timelapse em movimento acelerado mostrando a criação de um piso terrazzo com gemas em um quarto usando Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Vídeo vertical 9:16, estilo timelapse em câmera rápida, em um cômodo vazio e iluminado com paredes brancas, piso de concreto aparente e uma janela grande com vegetação do lado de fora. Um homem de macacão azul e camiseta branca usa um ancinho largo para espalhar pelo chão uma enorme pilha em formato de pirâmide feita de pedras acrílicas brilhantes em formato de diamante, nas cores azul e roxa; ele se move em velocidade acelerada, com leve desfoque de movimento, e depois se ajoelha para nivelar as pedras com o ancinho até cobrir todo o piso de forma uniforme. Uma mulher de macacão vermelho despeja cimento autonivelante branco de um balde grande sobre as pedras, formando filetes contínuos e suaves, enquanto o homem espalha e organiza as peças à mão; por perto, há um balde branco, um borrifador e uma desempenadeira dentada, e fita crepe azul protege os rodapés. Em seguida, ela espalha a massa branca de maneira uniforme sobre as pedras usando um rodo. Depois, um homem de colete amarelo de alta visibilidade e protetor auricular opera uma politriz pesada de piso, fazendo passadas de polimento enquanto a mulher aspira o pó com um aspirador industrial; a superfície se transforma em um terrazzo branco polido, com as pedras azuis e roxas incrustadas e reluzentes, e um segundo operário se junta ao trabalho com uma politriz menor. Por fim, os trabalhadores desaparecem em um borrão enquanto o quarto se mobilia sozinho: uma cama plataforma baixa de madeira com roupas de cama brancas e azul-marinho, criados-mudos suspensos, luminárias de luz quente e um tapete cinza surgem sobre o piso brilhante de terrazzo com pedrarias, encerrando a cena com a revelação serena e ensolarada de um quarto de luxo. A câmera mantém um ângulo aberto e estático durante toda a sequência, com luz natural realista, detalhes nítidos e aquela estética satisfatória de timelapse de reforma.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117570182914732032/img/i5zcKupSfTcwXhkg.jpg" width="600" alt="Timelapse de Renovação de Piso Terrazzo com Gemas">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13480)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2117570244390629582) | **Publicado:** Nov 3, 2026
+
+---
+### Prompt de Efeitos de Voo Xianxia Seedance
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt detalhado para gerar efeitos cinematográficos de voo xianxia, com movimentos de câmera específicos e interações entre personagens.
+
+#### 📝 Prompt
+
+```
+Textura de filme Xianxia live-action realista, dia claro e branco, acima da superfície infinita do mar, montanhas nevadas e nuvens ao longe. A protagonista A voa em velocidade extrema sobre a espada rente à superfície do mar: nadando ao lado de golfinhos, rasando sobre baleias saltando, encarando ondas gigantes imponentes, cortando a parede de água com um único golpe de espada, atravessando o corredor de águas abertas e, ao sair dele, parando bruscamente sobre o mar calmo. A linha de base de velocidade é a velocidade de cruzeiro extrema: medida pelo comprimento do rastro sob a espada (dezenas de vezes o tamanho do corpo dela), pelo tempo de saída em câmera fixa e pela velocidade de ampliação dos objetos de referência abaixo; o plano de acompanhamento tem uma leve correção de atraso. A linha de base da velocidade de reprodução é a velocidade normal; apenas o plano 05 tem uma transição de 0,5s em câmera lenta (única câmera lenta de todo o filme, ponto de impacto visual), os demais planos nunca ficam em câmera lenta. Sem diálogos, sem BGM, sem canto em todo o filme, apenas efeitos sonoros ambientes (ondas, corte do ar, respingos, cantos de baleia, farfalhar das roupas); nenhum texto gerado na tela.
+
+[Travamento de Personagem]
+Protagonista A: Imagem 1. Expressão fria e decidida.
+Duas espadas voadoras idênticas: espada longa branco-prateada, empunhadura escura com guarda dourada, borla azul. Uma sob os pés de A para o voo em pé, nunca se separa dos pés; a outra segurada na mão direita de A a partir do plano 08, permanecendo na mão. O formato da espada sob os pés é travado como uma espada longa reta e rígida: lâmina reta e plana, espessura uniforme, ponta afiada, guarda/empunhadura/borla completas, pés apoiados um à frente e outro atrás no meio da lâmina; a lâmina não deve dobrar, alargar ou amolecer. As duas espadas mantêm suas posições, sem fusão, troca ou surgimento de uma terceira espada.
+
+[Linha de Base da Postura de Voo]
+Todo o filme apresenta a postura de voo em pé sobre a espada: os pés de A sempre na espada, ponta para frente, a espada nunca se separa dos pés em nenhum plano. Exceção no trecho de corrida do plano 03: corpo abaixado em posição agachada, joelhos flexionados sobre a espada, tronco inclinado para frente, braços para trás. A partir do plano 08, adiciona-se a ação de empunhar a espada: a mão direita segura a segunda espada, corta a onda e depois a traz para o lado — os pés permanecem na primeira espada, as duas coexistem. Recuperação de postura na parada brusca final: do mergulho para frente até a posição ereta natural. Cabelos longos, mangas largas e saia puxados horizontalmente para trás pelo fluxo de ar em alta velocidade, dinâmica secundária ininterrupta; na parada brusca, a inércia os lança para frente e depois se acomodam lentamente.
+
+[Relações Espaciais]
+A superfície do mar é a referência de altura: quando A voa rente ao mar, a ponta da espada fica a menos de 1m da água, a pressão do vento cria um rastro branco e uma trilha de névoa, e a névoa só se espalha depois que ela passa. A montanha nevada está sempre do mesmo lado, ao longe. A onda gigante surge ao longe a partir do plano 06; no plano 08, ela corta a parede de água — o corredor de águas abertas é resultado desse corte, primeiro o golpe, depois o corredor, que existe na rota dela a partir do plano 10; ela entra voando por uma extremidade e sai pela outra, mantendo o rumo constante, sem voltar. A visão frontal do plano 11 vem de um corte seco de câmera (corta para a frente dela), e não de uma virada da personagem.
+
+[Storyboard]
+Plano 01 (~1,4s)
+[Visual] Plano médio lateral: A voa rápido em pé sobre a espada rente ao mar, longa trilha de névoa branca atrás da espada, o mar recuando rapidamente abaixo.
+[Câmera] Plano de acompanhamento sincronizado com o sujeito, mantendo posição e tamanho constantes (acompanhamento lateral).
+[Ação/FX] Leve atraso no acompanhamento: ela avança meio corpo para frente, a câmera alcança e estabiliza; A com as mãos nas costas, olhando para frente, serena; cabelo/saia horizontais para trás; a ponta da espada corta uma névoa fina, o rastro arrasta sobre a água.
+
+Plano 02 (~2,8s)
+[Visual] Plano geral distante: A se torna uma figura minúscula entre o céu e o mar, voando da esquerda para a direita em direção ao horizonte, deixando um rastro branco reto; neve/nuvens quase não se movem ao longe.
+[Câmera] Plano de acompanhamento sincronizado com o sujeito, mantendo posição/tamanho constantes (acompanhamento lateral, versão distante: escala do sujeito inalterada, paralaxe do recuo rápido do mar versus o movimento lento da montanha).
+[Ação/FX] Apenas a textura do mar correndo para trás comprova a velocidade; rastro branco dezenas de vezes o tamanho do corpo, persistente, alargando lentamente.
+
+Plano 03 (~2,7s)
+[Visual] Close-up lateral: A abaixa o corpo para a postura agachada de corrida, voando rápido, 2-3 golfinhos saltando ao lado na mesma direção, montanha nevada ao fundo.
+[Câmera] Plano de acompanhamento sincronizado com o sujeito, mantendo posição/tamanho constantes (acompanhamento lateral).
+[Ação/FX] Leve correção de atraso: ela acelera um pouco enquanto os golfinhos saltam, a câmera alcança meio tempo depois; golfinhos saltam/mergulham na mesma velocidade, respingos lançados para trás; tronco de A para frente, braços para trás, cabelo totalmente horizontal para trás; ela olha de relance para os golfinhos, expressão inalterada.
+
+Plano 04 (~2,9s)
+[Visual] Plano geral fixo: Uma baleia-jubarte salta alto, seu corpo imenso preenche o centro, cortina de água caindo; a figura minúscula de A se aproxima do fundo, acima da baleia.
+[Câmera] Totalmente estática, sem mudança de posição/foco, apenas mudanças internas de ação/luz/vento (câmera fixa).
+[Ação/FX] O tamanho da baleia é a referência de escala, A se aproxima rápido, fina trilha de névoa atrás da espada; no fim do plano, a baleia atinge o ápice do salto, A acaba de passar sobre a cabeça dela, ponto de transição para o próximo close-up em câmera lenta.
+
+Plano 05 (~0,5s)
+[Visual] Close-up em câmera lenta: A raspa sobre a cabeça da baleia-jubarte, close-up junto à baleia — gotas de água caindo da pele suspensas no ar, cabelo/saia desdobrando camadas em câmera lenta, olho da baleia e perfil dela no enquadramento.
+[Câmera] Plano de acompanhamento sincronizado com o sujeito, mantendo posição/tamanho constantes (acompanhamento lateral, este plano é em câmera lenta ~0,5s, única câmera lenta do filme).
+[Ação/FX] Curva de velocidade: desaceleração súbita da velocidade máxima para quase estagnação — mas ainda em movimento, o fundo continua deslizando, não congelado; retorna imediatamente à velocidade normal após 0,5s, disparando para fora do quadro. O contraste entre o lento e o rápido é o ponto de impacto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117525388457082880/img/HqhTVVSe0cNgKkSe.jpg" width="600" alt="Prompt de Efeitos de Voo Xianxia Seedance">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13487)**
+
+**Autor:** [灰度笔记](https://x.com/GrayNoteLab) | **Fonte:** [Link](https://x.com/GrayNoteLab/status/2117525735158276381) | **Publicado:** Nov 3, 2026
+
+---
 ### Prompt Cinematográfico de Horror Xianxia para Seedance 2.0 Mini
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -6478,229 +6741,6 @@ Apenas esta mulher no quadro. Sem duplicatas, fantasmas, distorção facial, cli
 **Autor:** [Eli Ha](https://x.com/FromSummerF) | **Fonte:** [Link](https://x.com/FromSummerF/status/2111107921316852127) | **Publicado:** Oct 16, 2026
 
 ---
-### Prompt de Vídeo de Produto em Loop Contínuo
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt detalhado para gerar um vídeo orbital em loop contínuo de 8 segundos de um produto, adequado para o Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Gere um vídeo orbital em loop contínuo de 8 segundos com base na imagem de referência do produto enviada. O objeto permanece completamente estático; o produto não gira. A câmera orbita 360 graus ao redor do objeto seguindo uma trajetória circular horizontal a velocidade, altura e distância constantes. De 0–2s: da frente para o lado direito. De 2–4s: do lado direito para trás. De 4–6s: de trás para o lado esquerdo. De 6–8s: do lado esquerdo de volta à frente. No 8º segundo, retorne precisamente à posição inicial da câmera e composição para garantir um loop perfeito. Proíba movimentos de aproximação/afastamento, zoom, tremores, cortes bruscos, rotação do objeto ou deformação de partes. Mantenha iluminação, materiais, fundo e reflexos contínuos e consistentes. Sem legendas, texto, marcas d'água ou narração.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111022723648692224/img/jigbacq0gScBd5Nl.jpg" width="600" alt="Prompt de Vídeo de Produto em Loop Contínuo">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12634)**
-
-**Autor:** [fdc888](https://x.com/laohong0606) | **Fonte:** [Link](https://x.com/laohong0606/status/2111023579156680963) | **Publicado:** Oct 16, 2026
-
----
-### Vídeo Cinematográfico Surrealista de Figuras Desaparecendo em Janelas Azuis
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para geração de vídeo, projetado para criar uma sequência cinematográfica surrealista onde figuras humanas flutuam e se dissolvem em fumaça dentro de janelas azuis brilhantes contra um fundo escuro.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo de arte cinematográfica surrealista de 12,8 segundos no formato 16:9, com um fundo preto profundo, janelas azul-elétricas e fumaça monocromática.
-
-PLANO 1 (0:00–0:01): Uma única janela azul brilhante de quatro painéis contém uma figura humana flutuando horizontalmente acima de uma saliência rochosa tênue.
-
-PLANO 2 (0:01–0:03): A janela se dissolve na escuridão, deixando a mesma figura humana flutuante em tons de cinza enquanto finos fios de fumaça surgem ao redor do corpo.
-
-PLANO 3 (0:03–0:05): Filamentos de fumaça semelhantes a penas enrolam-se formando um anel elíptico alongado ao redor da figura suspensa.
-
-PLANO 4 (0:05–0:07): Fitas de fumaça cinza-branca varrem horizontalmente ao redor do corpo, esticando-se e fluindo através do ambiente negro.
-
-PLANO 5 (0:07–0:08): A fumaça se dissolve enquanto uma janela azul brilhante reaparece suavemente atrás da figura flutuante.
-
-PLANO 6 (0:08–0:10): A janela única expande-se em múltiplas janelas azuis dispostas irregularmente, cada uma contendo uma figura humana em uma pose de flutuação diferente.
-
-PLANO 7 (0:10–0:12.8): Revela a instalação completa de janelas azuis brilhantes contra um fundo escuro texturizado, com figuras suspensas e luz sutilmente cintilante.
-
-ESTILO & MOVIMENTO: Cinematografia surrealista de belas-artes, pretos profundos, iluminação azul fria, figuras em tons de cinza, fumaça delicada, iluminação volumétrica, granulação de filme sutil, transições de morphing suaves, câmera ampla estável, anatomia e vestimenta humanas consistentes.
-
-PROMPT NEGATIVO: Sem olhos, globos oculares, neon colorido, quartos brilhantes, cortes súbitos, giros rápidos, zooms abruptos, anatomia distorcida, membros extras, duplicação não intencional, texto, logotipos ou marcas d'água.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110947855406080000/img/h_AHjQJABwOETClb.jpg" width="600" alt="Vídeo Cinematográfico Surrealista de Figuras Desaparecendo em Janelas Azuis">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12582)**
-
-**Autor:** [Sᴀɪʀᴀ](https://x.com/itsSaira_1) | **Fonte:** [Link](https://x.com/itsSaira_1/status/2110947923412566187) | **Publicado:** Oct 16, 2026
-
----
-### Prompt de Vídeo Cinematográfico: Banho em Gato Gigante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar um vídeo realista e engraçado de um gato Ragdoll gigante sendo banhado e secado por uma mulher, com iluminação cinematográfica e transições suaves.
-
-#### 📝 Prompt
-
-```
-Prompt de vídeo cinematográfico ultra-realista de 30 segundos: Crie um vídeo de 30 segundos emocionante, engraçado e visualmente deslumbrante, apresentando um enorme e peludo gato Ragdoll branco e cinza, com lindos olhos azuis, nariz rosa e pelo extremamente macio e espesso, sentado do lado de fora de uma casa moderna. Uma jovem coreana bonita, com cabelos longos, lisos e escuros, sorriso natural e roupa casual azul-marinho, aproxima-se do gato gigante em uma tarde ensolarada. Ela borrifa água suavemente sobre o gato usando uma mangueira de jardim verde, molhando seu pelo espesso enquanto o gato permanece calmo e adorável. Mostre gotas de água realistas caindo do pelo, com detalhes de pelos molhados e expressões felinas naturais. A mulher sorri e ri enquanto lava cuidadosamente o gato gigante na entrada da garagem, cercada por vegetação e luz solar quente. Faça uma transição suave para uma cena aconchegante na garagem, onde ela usa um secador de cabelo portátil para secar o pelo volumoso do gato enorme. O gato fecha os olhos feliz enquanto o ar quente passa pelo seu pelo, fazendo-o parecer ainda maior e mais engraçado. Use movimentos animais realistas, expressões humanas naturais, ângulos de câmera cinematográficos, iluminação suave da hora dourada, física detalhada do pelo e transições perfeitas. Mantenha a consistência das aparências dos personagens ao longo do vídeo, com qualidade fotorrealista, sons ambientes naturais e sem texto, logotipos ou marcas d'água.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110921791401295872/img/LTge8nSIPaG23dMW.jpg" width="600" alt="Prompt de Vídeo Cinematográfico: Banho em Gato Gigante">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12583)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2110921969420177453) | **Publicado:** Oct 16, 2026
-
----
-### Prompt de Combate em Armazém Industrial para Seedance 2.5
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt detalhado para gerar uma sequência de luta surrealista em um armazém industrial.
-
-#### 📝 Prompt
-
-```
-Crie uma sequência cinematográfica de combate surrealista de 15 segundos dentro de um armazém industrial mal iluminado à noite, exibindo um confronto intenso entre dois lutadores adultos habilidosos, combinando ação explosiva em tempo real com momentos dramáticos de impacto em ultra câmera lenta. O ar está cheio de poeira, detritos de concreto espalhados pelo chão, luzes do teto piscam levemente e a luz fria entra pelas janelas altas do armazém. [00:00-00:03] Abordagem: Comece com um plano de acompanhamento handheld em ângulo baixo enquanto o Lutador A avança em direção ao Lutador B. O Lutador B dá um passo à frente e rapidamente lança um soco direito. O Lutador A desvia por pouco para o lado, o punho passando centímetros de seu rosto, enquanto a câmera orbita rapidamente ao redor dos dois lutadores. Mantenha a ação rápida, realista e fisicamente crível. [00:03-00:06] Primeira Câmera Lenta: O Lutador A imediatamente contra-ataca com um chute giratório poderoso. Conforme a perna se aproxima do Lutador B, transicione suavemente para extrema câmera lenta. Acompanhe o chute de um ângulo lateral próximo, mostrando as roupas esticando devido à força rotacional, cabelos flutuando no ar e partículas de poeira girando ao redor deles. O Lutador B levanta um braço para bloquear. O chute atinge a defesa, comprimindo o tecido e empurrando naturalmente o corpo do defensor para fora do centro devido ao impacto. A poeira explode das mangas e a câmera circula suavemente este momento congelado. [00:06-00:09] Combo: Retorne naturalmente à velocidade em tempo real. O Lutador B tropeça um passo, recupera o equilíbrio, abaixa-se sob outro golpe e então contra-ataca rapidamente na região média do corpo. O Lutador A bloqueia, agarra o braço atacante, usa o impulso do oponente para girá-lo e redirecioná-lo em direção a um pilar de concreto próximo. A câmera segue de perto, movendo-se dinamicamente na altura dos ombros, mantendo clara consciência espacial e coreografia legível. [00:09-00:12] Segunda Câmera Lenta: O Lutador B empurra o chão, invertendo o impulso, e inicia um chute reverso varredor. Transicione para câmera lenta durante a rotação. A câmera baixa até o nível do chão, passando logo acima da perna enquanto ela varre a poeira flutuante. O Lutador A salta sobre o chute, corpo brevemente suspenso acima da perna rotativa, com roupas soltas, cabelos, poeira e pequenos detritos respondendo naturalmente ao movimento. A câmera passa por baixo do lutador no ar, então a velocidade começa a se recuperar. [00:12-00:15] Troca Final: Enquanto o Lutador A aterrissa, retorne explosivamente ao tempo real, virando imediatamente para entregar um golpe final de controle, que o Lutador B bloqueia com ambos os braços. Entre brevemente em câmera lenta no momento do contato, enfatizando a compressão física, tensão muscular, poeira voando e a transferência de poder através de ambos os corpos. Eles se separam e deslizam para trás pelo chão empoeirado, mantendo contato visual, enquanto a câmera abre. Use fortes gradientes de velocidade entre a ação em tempo real e os impactos em ultra câmera lenta, em vez de manter toda a luta lenta. A coreografia deve permanecer contínua, legível, realista e fisicamente coerente. Mantenha consistência nos lutadores, roupas, lesões, ambiente, iluminação, posições e direções de movimento ao longo de tudo. Represente realisticamente o impulso, equilíbrio, posicionamento dos pés, reações defensivas, física dos tecidos, física dos cabelos, compressão de impacto, poeira suspensa no ar, desfoque de movimento natural e paralaxe cinematográfica da lente. Proíba teletransporte, rotações corporais impossíveis, rotações anatomicamente incorretas, anatomias flutuantes, movimentos sem gravidade, destruição excessiva, sangue, armas, cortes desnecessários, legendas ou logotipos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110910614545829888/img/T0-jMgo59G91jzE2.jpg" width="600" alt="Prompt de Combate em Armazém Industrial para Seedance 2.5">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12633)**
-
-**Autor:** [hxhxhx0916](https://x.com/hxhxhx0916) | **Fonte:** [Link](https://x.com/hxhxhx0916/status/2110911411295748373) | **Publicado:** Oct 16, 2026
-
----
-### Prompt de Vídeo: Salto de Helicóptero em Trampolim
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt complexo para geração de vídeo com Seedance 2.0, criando uma cena cinematográfica de salto de helicóptero em trampolim com diálogos.
-
-#### 📝 Prompt
-
-```
-[Imagem de Referência Prioritária e Fixação de Nomes]
-@image1 = Nome da Descrição: Protagonista
-Padrões de aparência do Protagonista: identidade, rosto, estilo de cabelo, tipo físico, fantasia, acessórios, equipamento e calçados.
-Use apenas os nomes fixados acima no texto a seguir.
-15 segundos, proporção de tela 3:4, estilo live-action fotorrealista, vídeo contínuo com áudio ambientado sobre um mar azul brilhante durante o dia. Sem cortes de tela ao longo do vídeo. Use a imagem de referência apenas para a aparência do protagonista; não incorpore layouts de diagramas de três vistas ou layouts de texto/exemplos no vídeo. Mantenha a identidade, fantasia, acessórios e físico do protagonista consistentes do início ao fim. Sem BGM, legendas, títulos ou logotipos.
-Personagens incluem Protagonista, Tripulante A, Tripulante B, Tripulante C (total de 4). Helicóptero de filmagem civil de médio porte com corpo branco e linhas azuis. Trem de pouso esqui preto, porta deslizante lateral larga aberta, degraus externos para embarque/desembarque, interior cinza escuro. O helicóptero mantém altitude constante acima do nível do mar do início ao fim. Litoral visível à distância; trampolim circular instalado bem abaixo na superfície do mar. O Protagonista está de pé no degrau externo da porta aberta, olhando para o trampolim distante. Tripulante A está perto da porta, vestindo jaqueta corta-vento azul, colete salva-vidas preto, headset de aviação. Tripulante B está dentro, perto da porta, vestindo jaqueta corta-vento laranja, colete salva-vidas preto, headset de aviação. Tripulante C está no fundo da cabine, vestindo jaqueta corta-vento verde, colete salva-vidas preto, headset de aviação. Os rostos dos 3 tripulantes são visíveis. A câmera começa na mesma posição perto da porta do helicóptero, ligeiramente grande-angular capturando o Protagonista, os 3 tripulantes e o mar além da porta. A posição da câmera permanece fixa, inclinando-se para cima/baixo conforme a queda e ascensão. Ruídos de vento e sons do rotor continuam naturalmente ao longo de toda a cena.
-0.0–3.0s: Tripulante A olha para o Protagonista, sorri, pergunta "Pronto?". O Protagonista acena positivamente para o Tripulante A, então olha diretamente para a lente da câmera, mostrando tensão e empolgação no sorriso, diz energicamente em japonês natural "Certo, estou indo!". Movimentos labiais correspondem ao texto completo do diálogo. Tripulante B sorri, levanta levemente o punho; Tripulante C ri feliz, inclina-se ligeiramente para fora, acena com a cabeça. Após falar, o Protagonista respira fundo, olha para baixo no trampolim circular, chuta o degrau externo e salta.
-3.0–6.2s: No momento em que o Protagonista salta do helicóptero, Tripulante B grita "Vai!" em direção ao Protagonista. A câmera inclina rapidamente para baixo mantendo a posição lateral da porta, rastreando o Protagonista caindo próximo ao centro do quadro. O Protagonista estica o corpo enquanto cai, tornando-se menor conforme a distância aumenta. O trampolim circular abaixo torna-se visível, o Protagonista se aproxima mirando o centro. Enquanto a câmera aponta para baixo, os 3 tripulantes estão fora do quadro, mas aplausos alegres são ouvidos de dentro. Sons do rotor e do vento continuam.
-6.2–7.7s: O Protagonista pousa próximo ao centro do trampolim circular na superfície do mar. A superfície de salto esticada afunda significativamente sob o peso, para a descida, então rebate fortemente para cima. A câmera permanece apontada para baixo, mostrando a sequência contínua de pouso, afundamento e reversão para ascensão. Sons de impacto e rebote são ouvidos.
-7.7–11.6s: O Protagonista quica alto em direção ao helicóptero pela força do rebote, puxa os joelhos para o peito, encolhe o corpo, gira vigorosamente no ar. A câmera inclina para cima acompanhando o Protagonista ascendente da mesma posição. O Protagonista cresce maior ao se aproximar, a porta aberta e o degrau externo tornam-se visíveis novamente. Desfaz a rotação, estende as pernas, retorna ambos os pés ao mesmo degrau externo de onde saltou, ficando estável na mesma posição inicial, orientação e postura. Altitude do helicóptero inalterada.
-11.6–15.0s: A câmera retorna à orientação inicial lateral da porta. Tripulante A aplaude sorrindo em direção ao Protagonista. Tripulante B levanta o punho alegremente, curto grito "Yay!". Tripulante C aplaude sorrindo olhando para o Protagonista. O Protagonista, respirando pesadamente, vira o rosto para a lente da câmera, olhos brilhando, fala brilhante e naturalmente com excitação e alegria pelo retorno seguro "Incrível! Incrível, foi o melhor!". Movimentos labiais correspondem ao texto completo do diálogo para Tripulante B e Protagonista. Quadro final: Protagonista de pé no degrau externo original, terminou de falar para a câmera, expressão excitada, Tripulantes A e C aplaudindo atrás, Tripulante B comemorando. Aplausos e sons do rotor continuam até o final aos 15s.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110874497792573441/img/JxHJnlKIe6vqYRbF.jpg" width="600" alt="Prompt de Vídeo: Salto de Helicóptero em Trampolim">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12587)**
-
-**Autor:** [M7［mi7］AI](https://x.com/mi7_crypto) | **Fonte:** [Link](https://x.com/mi7_crypto/status/2110875842343768404) | **Publicado:** Oct 15, 2026
-
----
-### Prompt de Vídeo Vlog Noturno em Tóquio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar um vídeo cinematográfico estilo vlog de viagem, mostrando uma mulher explorando Tóquio à noite, com luzes de neon, lojas de conveniência e pontos turísticos.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo de viagem cinematográfico ultra-realista de 26 segundos, apresentando uma jovem coreana bonita explorando as ruas de Tóquio, Japão, à noite e durante o pôr do sol, vestindo uma jaqueta de couro preta estilosa, maquiagem natural e cabelos pretos ondulados e suaves. Comece com uma tomada por trás dela atravessando um cruzamento movimentado em Tóquio, cercada por letreiros de neon coloridos, ruas molhadas e luzes da cidade brilhantes. Mostre-a sorrindo calorosamente enquanto segura um onigiri japonês fofo dentro de uma loja de conveniência bem iluminada, seguido por um momento espontâneo dela comprando uma bebida em uma máquina de venda automática. Capture-a caminhando sob um tradicional portão torii vermelho japonês, depois virando-se em direção à câmera com um sorriso brincalhão em uma rua estreita decorada com lanternas japonesas luminosas. Mostre-a tirando uma selfie casual em uma rua residencial tranquila e aproveitando a paisagem à beira do rio enquanto um trem passa ao fundo. Inclua uma cena acolhedora em uma livraria onde ela abre empolgada um livro de viagens e sorri para a câmera, seguida por um momento tranquilo de pôr do sol sentada ao lado do rio com uma bebida para levar. Termine com belas luzes noturnas da cidade, uma selfie alegre feita na mão em uma ponte elevada e ela sorrindo com o horizonte de Tóquio atrás dela. Use movimentos naturais de câmera de smartphone na mão, transições cinematográficas suaves, expressões espontâneas autênticas, textura realista da pele, grão de filme suave, estética nostálgica de MiniDV dos anos 2000, tons noturnos azul-esverdeados melancólicos, iluminação quente do pôr do sol e profundidade de campo rasa. Mantenha identidade facial, penteado, roupa e proporções corporais consistentes durante todo o vídeo, com movimentos realistas e uma sensação espontânea de diário de viagem, em uma proporção de tela widescreen 16:9.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110596831482900480/img/pEzoaxwQMjlLhpl9.jpg" width="600" alt="Prompt de Vídeo Vlog Noturno em Tóquio">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12584)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2110597035502272787) | **Publicado:** Oct 15, 2026
-
----
-### Prompt de Vídeo: Experimento de Laboratório de Terror Sci-Fi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar uma cena cinematográfica de terror sci-fi em um laboratório, apresentando uma cientista, uma entidade misteriosa e efeitos dramáticos de iluminação.
-
-#### 📝 Prompt
-
-```
-Cena ultra-realista e cinematográfica de terror sci-fi dentro de um laboratório de pesquisa futurista de alta segurança. Uma jovem cientista vestindo um jaleco branco conduz cuidadosamente um experimento misterioso em um laboratório estéril repleto de câmaras de vidro, equipamentos científicos avançados, monitores azuis brilhantes e superfícies metálicas reflexivas. Ela examina um estranho espécime biológico e, subitamente, percebe algo aterrorizante. Uma entidade humanoide pálida e misteriosa, com olhos escuros afundados e uma expressão perturbadora, aparece dentro do laboratório. Sua aparência é inquietante, porém realista, com movimentos faciais sutis e textura de pele vívida.
-
-As luzes do laboratório começam a piscar enquanto um alarme vermelho de emergência é ativado. Cientistas correm por um corredor de vidro enquanto vapor branco irrompe de uma câmara de contenção. A cientista se vira em choque quando a instalação entra em lockdown. Luzes vermelhas de alerta iluminam o corredor escuro, criando reflexos dramáticos nas paredes de vidro. A entidade misteriosa permanece visível atrás do vidro reforçado no final do corredor.
-
-Estilo visual: Thriller de ficção científica fotorrealista, atmosfera de horror cinematográfico, laboratório de biotecnologia futurista, iluminação volumétrica, expressões faciais realistas, névoa atmosférica, iluminação dramática em vermelho e ciano, texturas detalhadas, profundidade de campo rasa, movimentos de câmera lentos e cinematográficos, ritmo suspense, qualidade profissional de filme de Hollywood, detalhes em 4K, composição vertical 9:16.
-
-Prompt negativo: Cartoon, anime, baixa resolução, rostos borrados, anatomia distorcida, membros extras, movimento irreal, cores super saturadas, sobreposições de texto, marcas d'água, personagens inconsistentes, artefatos visuais piscantes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110596340640296960/img/NlEEzAkreEllPatu.jpg" width="600" alt="Prompt de Vídeo: Experimento de Laboratório de Terror Sci-Fi">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12585)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2110596402556608827) | **Publicado:** Oct 15, 2026
-
----
-### Vídeo de Apresentação de Produto com Diálogo por IA
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gera um vídeo realista de apresentação de produto, destacando uma mulher segurando um produto específico a partir de imagens de referência, preservando detalhes exatos e adicionando diálogos naturais.
-
-#### 📝 Prompt
-
-```
-Uma mulher confiante e atraente da Imagem 1 segura o produto da Imagem 2 para uma apresentação. Preserve a aparência exata do produto, seu design, cores e detalhes sem alterações. Gere diálogo natural em inglês adequado ao cenário, com expressões realistas e movimentos suaves.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110586692981923840/img/O9ggPIEmigfihsdm.jpg" width="600" alt="Vídeo de Apresentação de Produto com Diálogo por IA">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12581)**
-
-**Autor:** [Meenakshi Yadav](https://x.com/MeenakshiYACS) | **Fonte:** [Link](https://x.com/MeenakshiYACS/status/2110586865426546858) | **Publicado:** Oct 15, 2026
-
----
-### Cena de Batalha: Espadachim de Vestes Brancas vs. Dragão
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt de vídeo detalhado, cena a cena, para uma batalha cinematográfica entre um espadachim de vestes brancas e um dragão aquático, gerado com Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Espadachim de Vestes Brancas: Confronto no Abismo do Dragão
-[Ato 1 | Invocação 0-10s]
-0-3s: Um guerreiro de vestes brancas está parado nas águas rasas da margem de um rio em um cânion escuro, cercado por penhascos negros, com bancos de areia pálidos ao fundo. A luz fria da lua cai através das fendas no topo; a superfície da água está úmida, permeada por névoa. O guerreiro segura uma espada longa desembainhada em posição de prontidão, com relâmpagos azul-branco fluindo ao longo da lâmina. Plano médio, dolly lento para dentro. Partículas de relâmpago, qi da espada, névoa da cachoeira.
-3-5s: O guerreiro gira rapidamente e balança a espada, arcos de relâmpago se esticando, então avança carregando, explosões de relâmpago. Órbita de acompanhamento transformando-se em vista distante angular ampla. Rastros de relâmpago, imagens residuais, respingos de água explodindo, ondas de choque de estrondo sônico.
-5-7.5s: Um gigante dragão aquático emerge da superfície, esqueleto se formando, corpo de água tomando forma. Dolly plano médio. Efeitos fluidos, bigodes do dragão tremulando, arcos elétricos envolvendo-o.
-7.5-10s: O dragão aquático circula o guerreiro em alta velocidade, avança em direção à câmera, depois retorna para o lado. Olhos do dragão brilham, respingos de água voam. Acompanhamento lateral transformando-se em plano baixo ascendente. Vórtice do dragão aquático, névoa, partículas de fluxo de água.
-[Ato 2 | Batalha Final 10-27s]
-10-11.5s | Mergulho da Cabeça do Dragão: A cabeça do dragão mergulha para baixo, o guerreiro explode para cima de meio ajoelhado, onda de choque levantando as vestes brancas e a superfície da água, espada nua irrompendo com relâmpagos, contra-golpeando para cima. Plano ultra-baixo ascendente, subindo dos pés perto da superfície da água, câmera passando pela luz da espada. Explosão radial da superfície da água, relâmpago superexposto, rastros de luz branca.
-11.5-13s | Colisão Frontal: Ponta da espada colide com a cabeça do dragão, onda de choque anelar levanta a água rasa. Guerreiro vira no ar, corta três vezes raspando a cabeça do dragão, comprimido em três momentos de flash. Plano extremo baixo ascendente, girando 180° com o personagem, cortando para plano vertical superior de 90°. Corpo do dragão e relâmpagos formam uma enorme espiral na superfície da água.
-13-15s | Perseguição pelo Corpo do Dragão: Guerreiro corre ao longo do corpo do dragão, teletransporte estilo relâmpago, pontas dos dedos tocam a água causando respingos. Cauda do dragão varre horizontalmente, guerreiro dobra a cintura para desviar, inverte o giro e corta lateralmente. Seguimento lateral rápido ultra-ampla de 24mm, cauda do dragão bloqueia a lente, câmera rola. Imagens residuais, respingos de água, rastros de relâmpago.
-15-17s | Mergulho Extremo: Guerreiro salta para terreno alto no cânion, encolhe para um ponto branco na escuridão, então cai verticalmente de cabeça para baixo como um raio branco mirando a cabeça do dragão. Plano vertical superior de 90° caindo na mesma velocidade, últimos 0.2s cortam para plano ultra-baixo perto da superfície da água. Chão, superfície da água, corpo do dragão aumentando rapidamente.
-17-19s | Combate Próximo: Cabeça do dragão vira para morder, presas raspam a lente. Guerreiro teletransporta-se, corte de costas atravessando o pescoço do dragão, corpo do dragão explode em fluxo de água então se remonta. Ângulo extremo amplo de 14-18mm, forte perspectiva, câmera passa pela boca do dragão, velocidade em tempo real durante todo o trecho. Explosão de fluxo de água, gotas dispersas.
-19-21.5s | Duelo Circundante: Dragão aquático espirala ao redor do guerreiro formando um enorme vórtice de dragão aquático. Guerreiro no centro da tempestade, pisca para quatro posições cortando uma espada cada vez, quatro luzes frias de espada branca se cruzam como padrões de relâmpago. Órbita 360° de alta velocidade, altura muda continuamente, subida súbita da superfície da água então mergulho vertical. Vórtice do dragão aquático, padrões de relâmpago, imagens residuais.
-21.5-23.5s | Investida Direta: Dragão gigante investe ao longo de todo o comprimento do cânion, tamanho preenche a tela. Guerreiro investe explosivamente de volta, distância zero, desaparece pouco antes da colisão. Composição frontal de ângulo ultra-baixo, guerreiro como pequena sombra branca no centro. Linhas de velocidade, ondas de choque na superfície da água.
-23.5-25.5s | Corte Reverso na Cabeça do Dragão: Guerreiro teletransporta-se acima da cabeça do dragão, vira no ar, segura a espada com ambas as mãos e golpeia para baixo, relâmpago penetra todo o corpo de água. Plano extremo ascendente diretamente abaixo da cabeça do dragão em direção ao céu, câmera bate verticalmente em direção à superfície da água seguindo a ponta da espada. Penetração de relâmpago, silhueta contraluz.
-25.5-27s | Explosão Aquática Definitiva: Luz da espada toca a água, águas rasas explodem em enorme explosão circular de água. Corpo do dragão cortado em incontáveis gotas de água flutuantes, brevemente congeladas então todas se dispersam. Corte instantâneo para vista aérea extrema de 90° de grande altitude, contraste de escala. Gotas flutuantes, explosão de água anelar.
-[Ato 3 | Retorno ao Silêncio 27-30s]
-Gotas de água caem de volta na superfície do rio, dragão divino dissipa-se em névoa fina. Guerreiro fica parado no centro da água rasa, de costas para a câmera, mão direita naturalmente abaixada, relâmpago residual na lâmina da espada gradualmente extingue-se, veste branca e cabelo balançam suavemente no vento. Recuo lento de trás do personagem, revelando águas vazias do cânion escuro, apenas a última ondulação permanece. Névoa fina, ondulações, relâmpago desvanecendo.
-[Travamento Forçado] Durante todo o vídeo, mantenha apenas uma espada longa desembainhada, sem bainha, sem ações de sacar/guardar na bainha. Mantenha consistência do estilo do guerreiro de vestes brancas e ambiente do cânion escuro. Sem diálogo, sem personagens extras, sem novas armas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110224806838947841/img/HEhGP4a5I8PkfJHX.jpg" width="600" alt="Cena de Batalha: Espadachim de Vestes Brancas vs. Dragão">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12487)**
-
-**Autor:** [Zidan 子丹](https://x.com/liluocheng13) | **Fonte:** [Link](https://x.com/liluocheng13/status/2110225020278743421) | **Publicado:** Oct 14, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -6762,6 +6802,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-04T00:48:06.632Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-04T12:11:33.316Z</sub>
 
 </div>

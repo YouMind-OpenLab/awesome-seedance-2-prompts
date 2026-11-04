@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6640** |
+| 📝 Totale prompt | **6649** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-11-04** |
 
@@ -361,6 +361,269 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Prompt per Video Selfie di Moda Seedance 2.5
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt altamente dettagliato per generare un video selfie verticale di moda con istruzioni specifiche su angolazioni della fotocamera, illuminazione e tempistica.
+
+#### 📝 Prompt
+
+```
+Schermo verticale 9:16, 6.0 secondi, 30 fps, live-action realistico, video breve di outfit ripreso dalla prospettiva di un selfie allo specchio con il telefono. La persona in @Image1, che indossa lo styling e gli abiti del disegno a tre viste in @Image2, è accovacciata rivolta verso l'obiettivo all'interno di una luminosa cabina armadio minimalista bianca. La mano destra regge il telefono per il selfie allo specchio, posizionato all'altezza del petto sul lato destro dell'inquadratura, con lo schermo rivolto verso l'esterno e illuminato, mostrando il riflesso della persona stessa. La mano sinistra appoggiata sul ginocchio. Lo sfondo presenta armadi a muro bianchi, mensole con diverse paia di scarpe e faretti bianco caldo sul soffitto; il pavimento è in piastrelle bianche lucide con effetto riflettente. Luce morbida high-key, illuminazione frontale, atmosfera complessivamente luminosa e leggermente sovraesposta. Pelle traslucida e sfocata con texture da filtro bellezza, tonalità bianco freddo, colori degli abiti saturi. Leggero tremolio tipico delle riprese a mano per tutta la durata, lunghi capelli ricci che si muovono naturalmente, espressione giocosa e rilassata, sguardo sempre fisso sull'obiettivo.
+
+Storyboard
+
+Tempo Inquadratura/Movimento di camera Azione ed Espressione Composizione
+0.0–0.2s Primissimo piano del viso, altezza occhi, leggera inclinazione verso il basso Fissa Labbra leggermente imbronciate, sguardo dritto in obiettivo Viso nella parte medio-alta dell'inquadratura, circa il 45% dell'altezza; telefono a destra, visibile dal petto fino al centro dell'inquadratura
+0.2–0.5s Primissimo piano Panoramica a destra di circa il 3% Inclina la testa a sinistra di circa 15°, si sporge in avanti, inizia a fare il broncio Il viso si sposta nel terzo sinistro dell'inquadratura
+0.5–0.9s Primissimo piano, parzialmente fuori campo Continua la panoramica a destra di circa il 3% Broncio come per un bacio, occhi socchiusi, guancia vicina all'obiettivo, metà sinistra del viso fuori campo Visibili solo la metà destra del viso e le labbra
+0.9–1.2s Primissimo piano Ritorno al centro La testa si raddrizza, le labbra si distendono, gli occhi si aprono guardando l'obiettivo Il viso torna al centro-sinistra
+1.2–1.6s Da primo piano a figura media Inizia ad arretrare, velocità lenta La testa si inclina leggermente a destra, i capelli lunghi scendono sulla spalla sinistra Collo e collana entrano nell'inquadratura
+1.6–2.2s Da figura media a campo lungo Arretra fluidamente, zoom out totale di circa 1.8x Il corpo si inclina a destra di circa 10°, mantenendo la posizione accovacciata Abiti, gambe e scarpe vengono rivelati in sequenza, la persona occupa circa l'80% dell'altezza
+2.2–2.7s Campo largo, posizione accovacciata Fissa, leggero tremolio A 2.3s inclina la testa a destra di circa 20°, a 2.4s fa l'occhiolino con l'occhio destro, angolo della bocca sollevato Telefono nella parte centrale destra dell'inquadratura
+2.7–3.9s (Stacco netto a 2.7s) Figura media laterale a 45° dal basso, dal petto alla coscia Avvicinamento molto lento di circa il 3%, con simultaneo leggero spostamento a destra Ruota il corpo a sinistra, raccoglie tutti i capelli lunghi sulla spalla più vicina all'obiettivo, grandi onde fino alla vita; mento abbassato, gira il viso di profilo verso l'obiettivo, labbra leggermente dischiuse, battito di ciglia delicato a 3.3s Persona nei 2/3 sinistri dell'inquadratura; vista posteriore visibile nello specchio in fondo a destra, lo sfondo mostra ante bianche dell'armadio e faretti
+3.9–4.7s (Stacco netto a 3.9s) Figura media frontale accovacciata, stessa inquadratura di 2.2s Fissa, tremolio da ripresa a mano Riprende il selfie allo specchio; da 4.0 a 4.5s dondola la testa a destra e sinistra di circa 8° per lato, espressione rilassata, occhi fissi sull'obiettivo Persona al centro dell'inquadratura, circa l'80% dell'altezza
+4.7–5.2s Da figura media a figura intera Arretra alzando la camera di circa il 10%, passando a un'inquadratura dall'alto A 4.8s la mano sinistra lascia il ginocchio e si solleva verso il petto Faretti sul soffitto visibili in alto, punte delle scarpe visibili in basso
+5.2–5.6s Figura intera accovacciata Arretra rallentando Mano sinistra sollevata davanti al mento, indice puntato verso l'alto, altre dita chiuse a pugno La persona occupa circa il 60% dell'altezza, entra in scena la cornice sinistra dello specchio
+5.6–6.0s Figura intera accovacciata, leggera inquadratura dall'alto Si ferma, immagine congelata dopo 5.7s Indice sulle labbra nel gesto "shh", inclina la testa a sinistra di circa 10°, sguardo giocoso verso l'obiettivo, leggero sorriso Cornice bianca dello specchio, armadi e faretti completamente visibili, persona nella parte medio-bassa
+
+Prompt negativi
+
+Viso non coerente con @Image1, abbigliamento non coerente con @Image2, alterazione dei tratti somatici, dita extra, deformità delle mani, deformazione del telefono, variazioni cromatiche negli abiti, salti di texture, distorsione dello sfondo, sfarfallio, filigrane/sottotitoli, bassa definizione
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117815051021389825/img/ClZkhqCtjIBtMNQW.jpg" width="600" alt="Prompt per Video Selfie di Moda Seedance 2.5">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13485)**
+
+**Autore:** [潇潇](https://x.com/beizhi606) | **Fonte:** [Link](https://x.com/beizhi606/status/2117815219762467083) | **Pubblicato:** Nov 4, 2026
+
+---
+### Prompt di danza multi-personaggio Seedance
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt dettagliato per la generazione video Seedance che mostra Sam Altman e Dario Amodei ballare con una donna, incluse istruzioni specifiche per prevenire il morphing facciale e garantire movimenti sincronizzati.
+
+#### 📝 Prompt
+
+```
+Centro: una donna affascinante e bellissima con un elegante abito nero chic; Sinistra: Sam Altman con i suoi tratti riconoscibili in un classico maglione grigio da tech; Destra: Dario Amodei con gli occhiali in un blazer casual. Movimenti di danza di accompagnamento ritmici e sincronizzati, gioco di piedi dinamico a specchio, movimento fluido del busto, fisica del movimento naturale, inquadratura cinematografica grandangolare 35 mm in studio, piano medio intero, luce chiave calda da studio, nessuna alterazione dei volti, identità individuale coerente per tutti i 15 secondi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117801780943753216/img/vLWJZlhNnzU5ul-o.jpg" width="600" alt="Prompt di danza multi-personaggio Seedance">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13486)**
+
+**Autore:** [AYi](https://x.com/AYi_AInotes) | **Fonte:** [Link](https://x.com/AYi_AInotes/status/2117810237314826563) | **Pubblicato:** Nov 4, 2026
+
+---
+### Battaglia tra Drago di Ghiaccio e Fenice di Fuoco
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare un video fantasy cinematografico che presenta guerrieri elementali del ghiaccio e del fuoco e creature mitiche in un'arena antica.
+
+#### 📝 Prompt
+
+```
+Crea una battaglia fantasy cinematografica e ultra-realistica tra due potenti guerrieri di arti marziali all'interno di un'antica arena mistica.
+
+Scena 1: Una rivelazione del titolo drammatica e cinematografica con un gigantesco drago di ghiaccio blu a sinistra e una magnifica fenice di fuoco dorata a destra, circondati da fulmini, fiamme, oscure nubi temporalesche e rocce fluttuanti.
+
+Scena 2: Due combattenti di arti marziali, uno con un abito bianco avvolto da un'energia glaciale blu luminescente e l'altro con un abito bianco pervaso da un'energia infuocata arancione e fiammeggiante, danno inizio a un intenso scontro di kung fu. Eseguono calci devastanti, pugni potenti, attacchi in volo e colpi di energia soprannaturale.
+
+Scena 3: Entrambi i guerrieri spiccano un salto altissimo nel cielo, sprigionando dalle mani enormi raggi di energia blu e arancione. Rocce giganti fluttuano intorno a loro mentre le due forze energetiche si scontrano.
+
+Scena 4: Il drago di ghiaccio blu emerge alle spalle del guerriero blu, mentre la fenice di fuoco dorata appare dietro al guerriero arancione. Entrambe le creature mitologiche ruggiscono e scatenano i loro poteri supremi.
+
+Scena 5: Un'enorme esplosione di energia blu e arancione riempie il cielo, generando una spettacolare onda d'urto cinematografica con detriti in volo, particelle magiche, fuoco, ghiaccio e fulmini.
+
+Stile visivo: CGI 3D iper-realistico, fotografia da film fantasy epico, qualità Unreal Engine 5, personaggi ultra-dettagliati, illuminazione volumetrica, movimenti di camera drammatici, azione al rallentatore, fisica realistica, risoluzione 4K, formato verticale 9:16.
+
+Niente stile cartoon, niente volti sfocati, niente corpi deformati, niente arti in eccesso, niente watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117760528592539648/img/9TZsqtkp7ydGDl8b.jpg" width="600" alt="Battaglia tra Drago di Ghiaccio e Fenice di Fuoco">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13483)**
+
+**Autore:** [Zaviaan](https://x.com/zaviaanroy) | **Fonte:** [Link](https://x.com/zaviaanroy/status/2117760569201848392) | **Pubblicato:** Nov 3, 2026
+
+---
+### Prompt Seedance Camera Movement: Padiglione sul Lago Antico
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt per generare un video cinematografico in stile antico cinese con movimenti di camera specifici (tilt up, pull back, push in) che rivelano un personaggio femminile in un padiglione nebbioso sul lago.
+
+#### 📝 Prompt
+
+```
+Cortometraggio live-action realistico in stile cinese antico. Giornata nuvolosa, padiglione sul lago avvolto nella nebbia, tonalità fredde grigio-basse saturazione, luce del cielo diffusa e morbida, superficie del lago calma con lievi increspature, paesaggio lontano sfocato dalla foschia. Nessun dialogo per tutta la durata. Audio: nessuna musica di sottofondo (BGM), nessun canto, solo suoni ambientali — vento leggero, dolci onde d'acqua, richiami lontani di rondini e fruscio dei tessuti.
+
+[Blocco Personaggio]
+Protagonista femminile A: Immagine 1;
+
+[Relazione Spaziale]
+A è appoggiata alla ringhiera di legno sul lato del padiglione che dà sull'acqua, il corpo rivolto verso il lago, una mano protesa oltre la ringhiera sospesa sopra la superficie dell'acqua; la telecamera è posizionata interamente dal lato del lago e la riprende, mentre il padiglione e i salici sulla sponda opposta fungono unicamente da sfondo sfocato. L'acqua si trova direttamente sotto la ringhiera; non compaiono strade, cortili o altri spazi.
+
+Inquadratura 01 [Durata] 2,8s
+[Movimento di camera] Tilt verticale verso l'alto (Vertical Tilt Up): posizione della telecamera fissa, l'obiettivo sale lentamente dal basso verso l'alto, dai piedi/terra alla testa/cielo. L'inquadratura inizia con un primo piano della mano vicina alla superficie dell'acqua, la telecamera esegue un tilt verso l'alto seguendo il braccio di A proteso oltre la ringhiera, scorrendo lungo le ampie maniche, le spalle/il collo e la lunga chioma fluente, per poi fermarsi stabilmente su un primo piano del suo profilo abbassato.
+[Elementi visivi] La mano di A è sospesa sopra la superficie del lago, le punte delle dita quasi la sfiorano, increspature concentriche si allargano sull'acqua proprio sotto le dita, ombre di carpe koi rosso-arancio scivolano lente sott'acqua; la telecamera sale con un tilt, scorrendo sulle ampie maniche ricamate con fiori bianco-rosa e sui lunghi capelli che ricadono in avanti, per soffermarsi infine sul suo profilo chinato: occhi rivolti verso l'acqua, ciglia abbassate, labbra leggermente dischiuse, nappe dell'ornamento per capelli che oscillano dolcemente, espressione silenziosa e sognante.
+
+Inquadratura 02 [Durata] 3,9s
+[Movimento di camera] Carrellata indietro (Pull Back): la telecamera arretra lentamente, allargando gradualmente l'inquadratura dal primo piano del soggetto fino a rivelare completamente l'ambiente circostante e la situazione. L'inquadratura inizia con un piano medio del busto di A appoggiato alla ringhiera, la telecamera indietreggia lentamente mostrando progressivamente le gronde del padiglione in alto, i pilastri di legno di fianco e la superficie del lago avvolta nella nebbia, terminando su un mezzo busto che include l'ambiente.
+[Elementi visivi] A si sporge in avanti appoggiandosi alla ringhiera, sostenendosi con una mano, il busto leggermente proteso; soffia la brezza del lago, i capelli lunghi fino alla vita e le ampie maniche vengono spinti completamente all'indietro, sventolando con vigore; le sagome di 3-4 rondini attraversano il cielo nebbioso provenendo dal lato sinistro dell'inquadratura, lei alza lentamente la testa, lo sguardo segue le rondini verso l'angolo in alto a sinistra, le labbra leggermente dischiuse; sullo sfondo, i salici sfocati della sponda opposta e un cielo grigio-bianco velato di foschia.
+
+Inquadratura 03 [Durata] 3,4s
+[Movimento di camera] Carrellata in avanti (Push In): la telecamera avanza lentamente, avvicinandosi gradualmente al soggetto partendo da un piano medio, per poi fermarsi su un primo piano del volto o su un dettaglio chiave. L'inquadratura inizia con un primo piano del profilo di A che guarda il lago, la telecamera avanza in linea retta, terminando su un primo piano del suo viso ora rivolto in avanti; è A stessa a girare la testa, la telecamera non ruota attorno a lei né cambia posizione.
+[Elementi visivi] Inizialmente A è rivolta altrove, con il profilo sinistro che osserva il lago in lontananza, i lunghi capelli mossi all'indietro dal vento, la nappa dell'ornamento che oscilla leggera; come se percepisse qualcosa, gira lentamente la testa, lo sguardo finisce per fissare dritto nell'obiettivo, le ciglia fremono appena, le labbra sono leggermente dischiuse, l'espressione tradisce un vago senso di smarrimento; sullo sfondo, le sagome nebbiose del padiglione e dei salici sulla sponda opposta, fortemente sfocate.
+
+[Blocco Continuità] Stessa persona, stesso abito e stessi accessori per capelli per tutta la durata; A resta immobile alla ringhiera del padiglione; il profilo abbassato finale dell'Inquadratura 01 è rivolto verso il lato sinistro dell'inquadratura, coerente con l'orientamento del profilo iniziale dell'Inquadratura 03; la direzione del vento è costante per tutta la scena, i lunghi capelli e le maniche sono sempre spinti all'indietro; l'illuminazione è sempre quella diffusa di una giornata nuvolosa, senza luce solare diretta.
+
+[Vincoli Negativi] Nessuna musica di sottofondo (BGM), nessun canto; nessun dialogo, nessun labiale parlato; nessuna telecamera tremolante o movimenti rapidi, nessuna rotazione attorno al personaggio; nessun face-swap, nessuna persona aggiuntiva; gli accessori per capelli non devono scomparire né deformarsi; i capelli non devono essere statici; niente cieli azzurri e soleggiati o luce solare intensa; nessun sottotitolo, testo o filigrana (watermark).
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117639095640072192/img/3W8_CFU_HqWfvLcD.jpg" width="600" alt="Prompt Seedance Camera Movement: Padiglione sul Lago Antico">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13484)**
+
+**Autore:** [灰度笔记](https://x.com/GrayNoteLab) | **Fonte:** [Link](https://x.com/GrayNoteLab/status/2117639219208405349) | **Pubblicato:** Nov 3, 2026
+
+---
+### Ristrutturazione del Pavimento con Fette di Legno e Resina Epossidica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per generare un video timelapse di ristrutturazione in cui fette di tronchi vengono trasformate in un pavimento in resina epossidica in una camera da letto utilizzando Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Video verticale di ristrutturazione in stile timelapse, inquadratura fissa grandangolare di una stanza vuota e luminosa con pareti bianche, un'ampia finestra sulla destra e nastro carta blu lungo i battiscopa. Un operaio in tuta arancione rovescia un mucchio di dischi ricavati da tronchi tagliati a fette sul pavimento nudo e li spiana distribuendoli uniformemente, disponendo le rondelle di legno con la faccia rivolta verso l'alto per formare un mosaico regolare. Diversi altri operai in tuta arancione si inginocchiano per accostare perfettamente le fette tra loro, poi versano resina epossidica trasparente e lattiginosa da alcuni secchi e la stendono con delle spatole fino a riempire ogni fessura come se fosse vetro liquido. Un operaio con cuffie antirumore passa una lucidatrice sulla superficie in fase di indurimento, mentre un altro rifinisce i bordi vicino alle pareti; dei tagli in accelerata mostrano la resina fresca che si livella da sola diventando lucida, inglobando gli anelli ambrati del legno in un pavimento levigato e senza giunture. Transizione fluida alla camera da letto finita: la stessa stanza ora arredata con un letto in rovere chiaro vestito di lenzuola bianche, un comodino con una piccola lampada e una stampa incorniciata sopra la testiera, la luce del sole che entra dalla finestra e il pavimento in resina epossidica con fette di legno che risplende con riflessi a specchio. Stile documentaristico realistico, luce naturale calda, trasformazione prima-e-dopo estremamente appagante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117620219015307264/img/KHmURK_Zud9o8jMl.jpg" width="600" alt="Ristrutturazione del Pavimento con Fette di Legno e Resina Epossidica">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13481)**
+
+**Autore:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2117620262606614546) | **Pubblicato:** Nov 3, 2026
+
+---
+### Timelapse di Ristrutturazione del Pavimento in Resina Epossidica con Ciottoli
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per generare un video timelapse realistico di ristrutturazione, dove i ciottoli vengono trasformati in un pavimento in resina epossidica in una camera da letto utilizzando Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Un uomo in tuta blu utilizza un lungo rastrello per distribuire uniformemente un grande cumulo di ciottoli lisci e colorati sul pavimento in cemento di una stanza vuota e inondata di luce, con pareti bianche e un'ampia finestra; le pietre brillano nelle tonalità del verde acqua, del viola e del bronzo. Successivamente, una donna in tuta rossa versa da un grande secchio una densa resina epossidica bianca: il liquido lattiginoso scorre e si livella da solo sui ciottoli fino a ricoprire l'intero pavimento. Poi un operaio in uniforme blu e gilet giallo ad alta visibilità lucida la superficie indurita con una monospazzola, rivelando una finitura trasparente e brillante con i ciottoli colorati sospesi al di sotto, come nel terrazzo veneziano. Infine, due uomini in maglietta nera portano dentro una struttura letto bassa in legno, vi appoggiano un materasso bianco e preparano il letto con lenzuola e cuscini bianchi e freschi di bucato. Il video si chiude con un'inquadratura ampia della camera da letto minimalista finita, mentre la luce del sole filtra dalla finestra riflettendosi sul pavimento in resina epossidica con ciottoli, liscio come uno specchio. Ritmo fluido in timelapse, illuminazione realistica, processo di ristrutturazione appagante, formato video verticale.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117619228731731968/img/atVG1KSc_qBxyRI3.jpg" width="600" alt="Timelapse di Ristrutturazione del Pavimento in Resina Epossidica con Ciottoli">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13479)**
+
+**Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2117619279042363438) | **Pubblicato:** Nov 3, 2026
+
+---
+### Ristrutturazione del pavimento in ciottoli di quarzo rosa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per un timelapse fotorealistico di ristrutturazione che mostra la trasformazione dei ciottoli di quarzo rosa in un pavimento in terrazzo in una camera da letto, generato con Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Timelapse fotorealistico di una ristrutturazione in formato verticale 9:16. In una camera da letto vuota, luminosa e completamente bianca, con un'ampia finestra inondata di sole e nastro carta blu lungo i bordi del pavimento, un uomo con la barba e una salopette blu rastrella un enorme cumulo di ciottoli levigati di quarzo rosa, distribuendoli uniformemente su tutta la superficie. Due operai in salopette rossa e guanti neri versano resina epossidica bianco latte da secchi metallici sopra le pietre e la livellano con il rastrello fino a sommergere ogni singolo ciottolo. Successivamente, una squadra con gilet gialli ad alta visibilità leviga la superficie indurita con macchine lucidatrici per pavimenti e aspira la polvere, rivelando un pavimento in terrazzo bianco lucido con pietre tonde di quarzo rosa incastonate all'interno; includere un primo piano dei cerchi rosa lucidi che brillano. Gli operai montano poi una struttura letto in rovere chiaro e posizionano un materasso con lenzuola rosa cipria e color crema, comodini in legno, una lampada da tavolo, un vaso con piante verdi e quadri incorniciati sopra la testiera. Concludere con una lenta panoramica della camera da letto minimalista finita, dove il pavimento di ciottoli rosa lucido come uno specchio riflette la morbida luce del giorno, transizioni fluide e appaganti, luce naturale dalla finestra, nessuna sovrimpressione di testo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117571124670115840/img/8GrfiG-mX2vE1E09.jpg" width="600" alt="Ristrutturazione del pavimento in ciottoli di quarzo rosa">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13482)**
+
+**Autore:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2117571161642893460) | **Pubblicato:** Nov 3, 2026
+
+---
+### Timelapse della Ristrutturazione del Pavimento in Terrazzo Gem
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per un video timelapse a velocità accelerata che mostra la creazione di un pavimento in terrazzo con gemme in una camera da letto utilizzando Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Video verticale 9:16, stile timelapse in movimento accelerato, ambientato in una stanza luminosa e vuota con pareti bianche, pavimento in cemento grezzo e un'ampia finestra affacciata sul verde. Un uomo con salopette blu e t-shirt bianca usa un rastrello largo per spargere sul pavimento un'enorme montagna di gemme acriliche a forma di diamante, lucide, nei toni del blu e del viola; si muove a velocità accelerata con un leggero effetto mosso, poi si inginocchia per distribuire le gemme con il rastrello fino a creare uno strato uniforme che ricopre l'intero pavimento. Una donna in salopette rossa versa da un grande secchio dell'autolivellante cementizio bianco sulle gemme, facendolo colare in flussi continui e fluidi, mentre l'uomo distribuisce e sistema le pietre a mano; nelle vicinanze si trovano un secchio bianco, uno spruzzino e una spatola dentata, mentre i battiscopa sono delimitati da nastro carta blu. La donna stende quindi il composto bianco in modo uniforme sulle gemme usando una spatola tira-acqua. Subito dopo, un uomo con gilet ad alta visibilità giallo e cuffie antirumore manovra una pesante levigatrice per pavimenti, lucidando la superficie con passate successive, mentre la donna aspira la polvere con un aspiratore professionale; la superficie si trasforma in un terrazzo bianco lucido con gemme blu e viola incastonate e scintillanti, e un secondo operaio interviene con una lucidatrice più piccola. Infine, gli operai svaniscono in un turbinio sfocato mentre la stanza si arreda da sola: un letto basso con pedana in legno e biancheria bianca e blu navy, comodini sospesi, lampade dalla luce calda e un tappeto grigio compaiono sopra il luminoso pavimento in terrazzo con gemme, fino alla rivelazione finale di una serena e lussuosa camera da letto inondata di sole. L'inquadratura mantiene un angolo ampio e fisso per tutta la durata, luce naturale realistica, dettagli nitidi ed estetica appagante tipica dei timelapse di ristrutturazione.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117570182914732032/img/i5zcKupSfTcwXhkg.jpg" width="600" alt="Timelapse della Ristrutturazione del Pavimento in Terrazzo Gem">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13480)**
+
+**Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2117570244390629582) | **Pubblicato:** Nov 3, 2026
+
+---
+### Prompt Effetti di Volo Xianxia Seedance
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt dettagliato per generare effetti di volo cinematici in stile xianxia, con movimenti di camera specifici e interazioni tra personaggi.
+
+#### 📝 Prompt
+
+```
+Texture cinematografica live-action realistica in stile Xianxia, giorno limpido e luminoso, sopra una distesa marina sconfinata, montagne innevate e nuvole in lontananza. La protagonista femminile A vola a velocità estrema sulla spada sfiorando la superficie del mare: nuota affiancata ai delfini, sorvola balene in salto, affronta onde giganti torreggianti, squarcia il muro d'acqua con un solo fendente, attraversa il corridoio aperto tra le acque e, all'uscita, si arresta di colpo sul mare calmo. Il riferimento base della velocità è quello di una crociera estrema: misurato dalla lunghezza della scia sotto la spada (decine di volte la sua altezza corporea), dal tempo di uscita nell'inquadratura fissa e dalla velocità di ingrandimento degli oggetti di riferimento sottostanti; la carrellata presenta una leggera correzione di ritardo. La velocità di riproduzione di base è quella normale: solo l'inquadratura 05 ha una rampa di slow-motion da 0,5 s (l'unico rallentatore dell'intero film, il punto di massimo impatto visivo); nelle altre inquadrature non c'è mai slow-motion. Nessun dialogo, nessuna musica di sottofondo (BGM), nessun canto in tutto il film, solo effetti sonori ambientali (onde, fendenti nell'aria, spruzzi, richiami delle balene, fruscio dei vestiti); nessun testo generato sullo schermo.
+
+[Blocco Personaggio]
+Protagonista femminile A: Immagine 1. Espressione fredda e risoluta.
+Due spade volanti identiche: spada lunga bianco-argento, impugnatura scura con guardia dorata, nappa blu. Una sotto i piedi di A per il volo in posizione eretta, non si stacca mai dai piedi; l'altra tenuta nella mano destra di A dall'inquadratura 08 in poi, resta in mano. La forma della spada sotto i piedi è bloccata come una spada lunga rigida e dritta: lama piatta e rettilinea, spessore uniforme, punta affilata, guardia/impugnatura/nappa complete, piedi posizionati uno davanti e uno dietro al centro della lama; la lama non deve piegarsi, allargarsi o ammorbidirsi. Le due spade mantengono la loro posizione, senza fondersi, scambiarsi o far comparire una terza spada.
+
+[Riferimento Postura di Volo]
+Tutto il film prevede la postura in piedi sulla spada: i piedi di A sono sempre sulla spada, con la punta rivolta in avanti, e la spada non si stacca mai dai piedi in nessuna inquadratura. Eccezione nel segmento di gara dell'inquadratura 03: il corpo si abbassa in posizione accovacciata, ginocchia piegate sulla spada, busto proteso in avanti, braccia all'indietro. Dall'inquadratura 08 si aggiunge l'azione di impugnare la spada: la mano destra regge la seconda spada, fende l'onda e poi la porta di lato — i piedi restano sulla prima spada, le due spade coesistono. Recupero della postura nell'arresto brusco finale: da tuffo in avanti a posizione eretta naturale. Capelli lunghi, maniche ampie e gonna tirati orizzontalmente all'indietro dal flusso d'aria ad alta velocità, dinamiche secondarie ininterrotte; durante l'arresto brusco l'inerzia li proietta in avanti per poi farli assestare lentamente.
+
+[Relazioni Spaziali]
+La superficie del mare è il riferimento di quota: quando A sfiora il mare, la punta della spada è a meno di 1 m dall'acqua, la pressione del vento crea una scia bianca e una traccia di nebbia che si espande solo dopo il suo passaggio. La montagna innevata è sempre in lontananza dallo stesso lato. L'onda gigante si alza in lontananza dall'inquadratura 06; nell'inquadratura 08 lei squarcia il muro d'acqua — il corridoio tra le acque è il risultato del fendente, prima il taglio e poi il corridoio, che esiste sul suo percorso dall'inquadratura 10; entra in volo da un'estremità ed esce dall'altra, rotta costante, senza tornare indietro. L'inquadratura frontale 11 deriva da uno stacco netto di camera (taglio sul suo fronte), non da un suo cambio di direzione.
+
+[Storyboard]
+Inquadratura 01 (~1,4 s)
+[Visivo] Piano medio laterale: A sta in piedi sulla spada volando veloce a filo d'acqua, lunga scia di nebbia bianca dietro la spada, mare che sfugge rapidamente verso il basso.
+[Camera] Carrellata sincronizzata col soggetto, mantenendo costanti posizione e dimensioni (carrellata laterale).
+[Azione/FX] Leggero ritardo nella carrellata: lei scatta in avanti di mezza lunghezza corporea, la camera recupera e si stabilizza; A ha le mani dietro la schiena, guarda avanti, calma; capelli/gonna orizzontali all'indietro; la punta della spada taglia una nebbia sottile, la scia trascina sull'acqua.
+
+Inquadratura 02 (~2,8 s)
+[Visivo] Campo lungo distante: A diventa una figura minuscola tra cielo e mare, vola da sinistra a destra verso l'orizzonte, lasciando una scia bianca dritta; neve/nuvole quasi immobili in lontananza.
+[Camera] Carrellata sincronizzata col soggetto, mantenendo costanti posizione/dimensioni (carrellata laterale, versione lontana: scala del soggetto invariata, parallasse dovuta alla rapida fuga del mare rispetto al lento movimento della montagna).
+[Azione/FX] Solo la texture del mare che scorre all'indietro dimostra la velocità; scia bianca decine di volte la lunghezza del corpo, persistente, che si allarga lentamente.
+
+Inquadratura 03 (~2,7 s)
+[Visivo] Primo piano laterale: A abbassa il corpo in postura accovacciata da gara, vola veloce, 2-3 delfini saltano affiancati nella stessa direzione, sfondo con montagna innevata.
+[Camera] Carrellata sincronizzata col soggetto, mantenendo costanti posizione/dimensioni (carrellata laterale).
+[Azione/FX] Leggera correzione di ritardo: accelera leggermente mentre i delfini saltano, la camera recupera con mezzo battito di ritardo; i delfini saltano/si tuffano alla stessa velocità, gli spruzzi vengono spinti all'indietro; busto di A in avanti, braccia indietro, capelli completamente orizzontali all'indietro; lancia un'occhiata ai delfini, espressione immutata.
+
+Inquadratura 04 (~2,9 s)
+[Visivo] Campo lungo fisso: una megattera salta in alto, il corpo massiccio riempie il centro, cortina d'acqua che ricade; la minuscola figura di A si avvicina dallo sfondo sopra la balena.
+[Camera] Completamente statica, nessun cambio di posizione/focale, solo variazioni interne di azione/luce/vento (camera fissa).
+[Azione/FX] Le dimensioni della balena fanno da riferimento di scala, A si avvicina velocemente, sottile scia di nebbia dietro la spada; a fine inquadratura la balena raggiunge l'apice del salto, A passa appena sopra la sua testa, punto di transizione per il successivo primo piano al rallentatore.
+
+Inquadratura 05 (~0,5 s)
+[Visivo] Primo piano al rallentatore: A sfiora la testa della megattera, primo piano condiviso con la balena — gocce d'acqua che cadono dalla pelle sospese in aria, capelli/gonna che si aprono a strati in slow-motion, occhio della balena e profilo di lei nell'inquadratura.
+[Camera] Carrellata sincronizzata col soggetto, mantenendo costanti posizione/dimensioni (carrellata laterale, questa inquadratura è in slow-motion ~0,5 s, l'unico rallentatore del film).
+[Azione/FX] Curva di velocità: decelerazione improvvisa dalla piena velocità alla quasi immobilità — ma ancora in movimento, lo sfondo continua a scorrere, non è congelato; torna immediatamente alla velocità normale dopo 0,5 s, uscendo di slancio dall'inquadratura. Il contrasto tra lento e veloce è il punto di impatto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117525388457082880/img/HqhTVVSe0cNgKkSe.jpg" width="600" alt="Prompt Effetti di Volo Xianxia Seedance">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13487)**
+
+**Autore:** [灰度笔记](https://x.com/GrayNoteLab) | **Fonte:** [Link](https://x.com/GrayNoteLab/status/2117525735158276381) | **Pubblicato:** Nov 3, 2026
+
+---
 ### Prompt Horror Cinematografico Xianxia per Seedance 2.0 Mini
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -6456,229 +6719,6 @@ Solo questa donna nell'inquadratura. Nessun duplicato, fantasmi, distorsioni fac
 **Autore:** [Eli Ha](https://x.com/FromSummerF) | **Fonte:** [Link](https://x.com/FromSummerF/status/2111107921316852127) | **Pubblicato:** Oct 16, 2026
 
 ---
-### Prompt per Video di Prodotto a Loop Continuo
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt dettagliato per generare un video orbitale di prodotto a loop continuo di 8 secondi, adatto per Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Genera un video orbitale di prodotto a loop continuo di 8 secondi basato sull'immagine di riferimento del prodotto caricata. Il soggetto è completamente fermo; il prodotto non ruota. La telecamera orbita a 360 gradi attorno al soggetto lungo una traiettoria circolare orizzontale a velocità, altezza e distanza costanti. Da 0–2s: dal fronte al lato destro. Da 2–4s: dal lato destro al retro. Da 4–6s: dal retro al lato sinistro. Da 6–8s: dal lato sinistro ritorno al fronte. All'ottavo secondo, ritorna esattamente alla posizione iniziale della telecamera e alla composizione per un loop perfetto. Vietati movimenti di push/pull, zoom, tremolii, jump cut, rotazione del soggetto o deformazioni delle parti. Mantieni illuminazione, materiali, sfondo e riflessi continui e coerenti. Nessun sottotitolo, testo, filigrana o narrazione.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111022723648692224/img/jigbacq0gScBd5Nl.jpg" width="600" alt="Prompt per Video di Prodotto a Loop Continuo">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12634)**
-
-**Autore:** [fdc888](https://x.com/laohong0606) | **Fonte:** [Link](https://x.com/laohong0606/status/2111023579156680963) | **Pubblicato:** Oct 16, 2026
-
----
-### Video cinematografico surreale di figure che scompaiono in finestre blu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato per la generazione di video per creare una sequenza cinematografica surreale in cui le figure umane fluttuano e si dissolvono in fumo all'interno di finestre luminose blu su uno sfondo scuro.
-
-#### 📝 Prompt
-
-```
-Crea un video d'arte cinematografica surrealista di 12,8 secondi in formato 16:9, con uno sfondo nero profondo, finestre blu elettrico e fumo monocromatico.
-
-SCENA 1 (0:00–0:01): Una singola finestra luminosa blu a quattro pannelli contiene una figura umana che fluttua orizzontalmente sopra una debole cornice rocciosa.
-
-SCENA 2 (0:01–0:03): La finestra si dissolve nell'oscurità, lasciando la stessa figura umana fluttuante in scala di grigi mentre sottili filamenti di fumo emergono attorno al corpo.
-
-SCENA 3 (0:03–0:05): Filamenti di fumo simili a piume si arricciano formando un anello ellittico allungato attorno alla figura sospesa.
-
-SCENA 4 (0:05–0:07): Nastri di fumo grigio-bianco spazzano orizzontalmente attorno al corpo, stirandosi e fluendo attraverso l'ambiente nero.
-
-SCENA 5 (0:07–0:08): Il fumo si dissolve mentre una finestra luminosa blu riappare fluidamente dietro la figura fluttuante.
-
-SCENA 6 (0:08–0:10): La singola finestra si espande in multiple finestre blu disposte irregolarmente, ciascuna contenente una figura umana in una diversa posa fluttuante.
-
-SCENA 7 (0:10–0:12.8): Rivelazione dell'installazione completa di finestre luminose blu contro uno sfondo scuro e strutturato, con figure sospese e luce che brilla sottilmente.
-
-STILE E MOVIMENTO: Cinematografia surrealista d'arte fine, neri profondi, illuminazione blu fredda, figure in scala di grigi, fumo delicato, illuminazione volumetrica, leggera grana del film, transizioni morphing fluide, camera fissa grandangolare, anatomia e abbigliamento umani coerenti.
-
-PROMPT NEGATIVO: No occhi, bulbi oculari, neon colorati, stanze luminose, tagli improvvisi, rotazioni rapide, zoom bruschi, anatomia distorta, arti extra, duplicazioni indesiderate, testo, loghi o filigrane.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110947855406080000/img/h_AHjQJABwOETClb.jpg" width="600" alt="Video cinematografico surreale di figure che scompaiono in finestre blu">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12582)**
-
-**Autore:** [Sᴀɪʀᴀ](https://x.com/itsSaira_1) | **Fonte:** [Link](https://x.com/itsSaira_1/status/2110947923412566187) | **Pubblicato:** Oct 16, 2026
-
----
-### Prompt Video Cinematografico: Bagnetto per un Gatto Gigante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato per generare un video realistico e divertente di un gatto Ragdoll gigante che viene lavato e asciugato da una donna, con illuminazione cinematografica e transizioni fluide.
-
-#### 📝 Prompt
-
-```
-Prompt per video cinematografico ultra-realistico di 30 secondi: Crea un video di 30 secondi toccante, divertente e visivamente spettacolare, featuring un enorme e soffice gatto Ragdoll bianco e grigio con bellissimi occhi blu, naso rosa e pelo estremamente morbido e folto, seduto all'esterno di una casa moderna. Una bella giovane donna coreana con lunghi capelli scuri lisci, un sorriso naturale e un outfit casual blu navy si avvicina al gatto gigante in un pomeriggio soleggiato. Spruzza delicatamente acqua sul gatto utilizzando un tubo da giardino verde, bagnando il suo pelo folto mentre il gatto rimane calmo e adorabile. Mostra gocce d'acqua realistiche che cadono dal pelo, con dettagli del bagnato e espressioni feline naturali. La donna sorride e ride mentre lava accuratamente il gatto gigante nel vialetto, circondata dal verde e dalla luce calda del sole. Transizione fluida verso una scena accogliente nel garage dove usa un asciugacapelli portatile per asciugare la pelliccia soffice dell'enorme gatto. Il gatto chiude gli occhi felice mentre l'aria calda soffia attraverso il pelo, facendolo sembrare ancora più grande e buffo. Usa movimenti animali realistici, espressioni umane naturali, angolazioni della camera cinematografiche, illuminazione soft dell'ora dorata, fisica del pelo dettagliata e transizioni senza soluzione di continuità. Mantieni l'aspetto dei personaggi coerente per tutto il video, con qualità fotorealistica, suoni ambientali naturali e senza testo, loghi o filigrane.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110921791401295872/img/LTge8nSIPaG23dMW.jpg" width="600" alt="Prompt Video Cinematografico: Bagnetto per un Gatto Gigante">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12583)**
-
-**Autore:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2110921969420177453) | **Pubblicato:** Oct 16, 2026
-
----
-### Prompt Seedance 2.5 per Combattimento in Magazzino Industriale
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt dettagliato per generare una sequenza di combattimento surrealista in un magazzino industriale.
-
-#### 📝 Prompt
-
-```
-Crea una sequenza di combattimento cinematografico surrealista di 15 secondi all'interno di un magazzino industriale scarsamente illuminato di notte, mostrando un confronto intenso tra due combattenti adulti esperti, combinando azione esplosiva in tempo reale con momenti d'impatto drammatici in ultra slow motion. L'aria è piena di polvere, detriti di cemento coprono il pavimento, le luci a soffitto sfarfallano leggermente e la luce fredda filtra attraverso le alte finestre del magazzino. [00:00-00:03] Avvicinamento: Inizia con una ripresa a mano bassa angolazione che segue il Combattente A mentre carica verso il Combattente B. Il Combattente B fa un passo avanti e lancia rapidamente un pugno destro. Il Combattente A si schiva appena di lato, il pugno passa a pochi centimetri dal suo viso, mentre la camera orbita rapidamente attorno a entrambi i combattenti. Mantieni l'azione veloce, realistica e fisicamente credibile. [00:03-00:06] Primo Slow-Motion: Il Combattente A contrattacca immediatamente con un potente calcio rotante. Mentre la gamba si avvicina al Combattente B, transisci dolcemente in estremo slow motion. Segui il calcio da un angolo laterale ravvicinato, mostrando gli indumenti che si tendono a causa della forza rotazionale, i capelli che fluttuano nell'aria e le particelle di polvere che vorticano attorno a loro. Il Combattente B alza un braccio per bloccare. Il calcio colpisce la difesa, comprimendo il tessuto e spingendo naturalmente il corpo del difensore fuori centro a causa dell'impatto. La polvere esplode dai polsini e la camera circola dolcemente questo momento congelato. [00:06-00:09] Combo: Passa naturalmente alla velocità in tempo reale. Il Combattente B inciampa di un passo, recupera l'equilibrio, si abbassa sotto un altro colpo, poi contrattacca rapidamente al tronco. Il Combattente A blocca, afferra il braccio attaccante, usa lo slancio dell'avversario per ruotarlo e deviarlo verso una colonna di cemento vicina. La camera segue da vicino, muovendosi dinamicamente all'altezza delle spalle mantenendo una chiara consapevolezza spaziale e coreografia leggibile. [00:09-00:12] Secondo Slow-Motion: Il Combattente B spinge da terra, invertendo lo slancio, e inizia un calcio rovesciato radente. Transisci in slow motion durante la rotazione. La camera scende al livello del pavimento, sfiorando appena sopra la gamba mentre attraversa la polvere fluttuante. Il Combattente A salta oltre il calcio, il corpo brevemente sospeso sopra la gamba rotante, con indumenti larghi, capelli, polvere e piccoli detriti che rispondono naturalmente al movimento. La camera passa sotto il combattente in aria, poi la velocità inizia a recuperare. [00:12-00:15] Scambio Finale: Mentre il Combattente A atterra, ritorna esplosivamente in tempo reale, girandosi immediatamente per sferrare un colpo finale di controllo, che il Combattente B blocca con entrambe le braccia. Entra brevemente in slow motion nel momento del contatto, enfatizzando la compressione fisica, la tensione muscolare, la polvere volante e il trasferimento di potenza attraverso entrambi i corpi. Si separano e scivolano all'indietro sul pavimento polveroso, mantenendo il contatto visivo, mentre la camera si allarga. Usa forti gradienti di velocità tra l'azione in tempo reale e gli impatti in ultra slow-motion piuttosto che mantenere l'intero combattimento lento. La coreografia deve rimanere continua, leggibile, realistica e fisicamente coerente. Mantieni combattenti, indumenti, ferite, ambiente, illuminazione, posizioni e direzioni di movimento costanti per tutta la durata. Rappresenta realisticamente lo slancio, l'equilibrio, il posizionamento dei piedi, le reazioni difensive, la fisica dei tessuti, la fisica dei capelli, la compressione dell'impatto, la polvere in sospensione, la sfocatura naturale del movimento e la parallasse dell'obiettivo cinematografico. Proibisci teletrasporto, rotazioni corporee impossibili, arti duplicati, dita extra, anatomia disintegrata, personaggi fluttuanti, movimento a gravità zero, distruzione eccessiva, gore, sangue, armi, abilità da supereroe, tagli non necessari, sottotitoli, testo o loghi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110910614545829888/img/T0-jMgo59G91jzE2.jpg" width="600" alt="Prompt Seedance 2.5 per Combattimento in Magazzino Industriale">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12633)**
-
-**Autore:** [hxhxhx0916](https://x.com/hxhxhx0916) | **Fonte:** [Link](https://x.com/hxhxhx0916/status/2110911411295748373) | **Pubblicato:** Oct 16, 2026
-
----
-### Prompt Video: Salto dal Trampolino dall'Elicottero
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt complesso per la generazione video con Seedance 2.0, che crea una scena cinematografica di un salto dal trampolino da un elicottero, completo di dialoghi.
-
-#### 📝 Prompt
-
-```
-[Immagine di riferimento prioritaria e fissaggio dei nomi]
-@image1 = Nome descrittivo: Protagonista
-Standard per l'identità, il volto, l'acconciatura, la corporatura, il costume, gli accessori, l'attrezzatura e l'aspetto delle scarpe del Protagonista.
-Utilizzare esclusivamente i nomi fissati sopra nel testo seguente.
-Durata 15 secondi, formato 3:4, stile live-action fotorealistico, video continuo con audio ambientato su un mare blu intenso durante il giorno. Nessun taglio di schermo per tutta la durata. Utilizzare l'immagine di riferimento solo per l'aspetto del Protagonista; non incorporare layout a tre viste o testi/layout di esempio nel video. Mantenere l'identità, il costume, gli accessori e la corporatura del Protagonista costanti. Niente BGM, sottotitoli, didascalie o loghi.
-I personaggi includono Protagonista, Equipaggio A, Equipaggio B, Equipaggio C (totale 4). Elicottero civile di medie dimensioni per riprese, con fusoliera bianca e linee blu. Carrello d'atterraggio nero, porta scorrevole laterale larga aperta, gradini esterni per salire/scendere, interni grigio scuro. L'elicottero mantiene un'altitudine costante sopra il livello del mare dall'inizio alla fine. Costiera visibile in lontananza; trampolino circolare installato molto più in basso sulla superficie del mare. Il Protagonista è in piedi sul gradino esterno della porta aperta, guarda verso il trampolino lontano. L'Equipaggio A è vicino alla porta, indossa giacca antivento blu, giubbotto di salvataggio nero, cuffie aviation. L'Equipaggio B è all'interno vicino alla porta, indossa giacca antivento arancione, giubbotto di salvataggio nero, cuffie aviation. L'Equipaggio C è in fondo all'interno, indossa giacca antivento verde, giubbotto di salvataggio nero, cuffie aviation. I volti di tutti e 3 i membri dell'equipaggio sono visibili. La telecamera parte dalla stessa posizione vicino alla porta dell'elicottero, grandangolo leggero che cattura il Protagonista, i 3 membri dell'equipaggio e il mare oltre la porta. La posizione della telecamera rimane fissa, inclinandosi su/giù secondo la caduta e la risalita. Rumori del vento e rotori continuano naturalmente per tutto il tempo.
-0.0–3.0s: L'Equipaggio A guarda il Protagonista, sorride, chiede "Pronto?". Il Protagonista annuisce verso l'Equipaggio A, poi guarda direttamente nell'obiettivo della telecamera, mostrando tensione ed eccitazione nel sorriso, dice energicamente in giapponese naturale "Bene, ci vado!". I movimenti delle labbra corrispondono al testo completo del dialogo. L'Equipaggio B sorride, alza leggermente il pugno; L'Equipaggio C ride felice, si sporge leggermente, annuisce. Dopo aver parlato, il Protagonista fa un respiro profondo, guarda verso il basso il trampolino circolare, stacca il piede dal gradino esterno e salta fuori.
-3.0–6.2s: Nel momento in cui il Protagonista salta dall'elicottero, L'Equipaggio B grida "Vai!" verso il Protagonista. La telecamera si inclina rapidamente verso il basso mantenendo la posizione lato porta, tracciando il Protagonista in caduta vicino al centro dell'inquadratura. Il Protagonista si allunga nella caduta, diventando più piccolo man mano che la distanza aumenta. Il trampolino circolare sotto diventa visibile, il Protagonista si avvicina mirando al centro. Mentre la telecamera è rivolta verso il basso, i 3 membri dell'equipaggio sono fuori inquadratura ma si sentono allegre esultanze provenire dall'interno. Suoni di rotore e vento continuano.
-6.2–7.7s: Il Protagonista atterra vicino al centro del trampolino circolare sulla superficie del mare. La superficie elastica si affonda significativamente sotto il peso, ferma la discesa, poi rimbalza fortemente verso l'alto. La telecamera rimane rivolta verso il basso, mostrando una sequenza continua di atterraggio, affondamento e inversione verso la risalita. Si sentono i suoni dell'impatto e del rimbalzo.
-7.7–11.6s: Il Protagonista rimbalza in alto verso l'elicottero grazie alla forza del rimbalzo, ritira le ginocchia al petto, rannicchia il corpo, ruota vigorosamente in aria. La telecamera si inclina verso l'alto seguendo il Protagonista in risalita dalla stessa posizione. Il Protagonista diventa più grande avvicinandosi, la porta aperta e il gradino esterno diventano di nuovo visibili. Srotola la rotazione, estende le gambe, riporta entrambi i piedi sullo stesso gradino esterno da cui era saltato, stando stabilmente nella stessa posizione iniziale, orientamento e postura. L'altitudine dell'elicottero è invariata.
-11.6–15.0s: La telecamera torna all'orientamento iniziale lato porta. L'Equipaggio A applaude sorridendo verso il Protagonista. L'Equipaggio B alza il pugno gioiosamente, breve grido "Yay!". L'Equipaggio C applaude sorridendo guardando il Protagonista. Il Protagonista, respirando pesantemente, gira il viso verso l'obiettivo della telecamera, occhi brillanti, parla luminosamente e naturalmente con l'eccitazione e la gioia del ritorno sicuro "Fantastico! Fantastico, è stato il migliore!". I movimenti delle labbra corrispondono al testo completo del dialogo per L'Equipaggio B e il Protagonista. Inquadratura finale: Protagonista in piedi sull'originale gradino esterno, ha finito di parlare.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110874497792573441/img/JxHJnlKIe6vqYRbF.jpg" width="600" alt="Prompt Video: Salto dal Trampolino dall'Elicottero">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12587)**
-
-**Autore:** [M7［mi7］AI](https://x.com/mi7_crypto) | **Fonte:** [Link](https://x.com/mi7_crypto/status/2110875842343768404) | **Pubblicato:** Oct 15, 2026
-
----
-### Prompt per video vlog di viaggio notturno a Tokyo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato per generare un video in stile vlog di viaggio cinematografico che mostra una donna esplorare Tokyo di notte, con luci al neon, minimarket e luoghi panoramici.
-
-#### 📝 Prompt
-
-```
-Crea un video di viaggio cinematografico ultra-realistico di 26 secondi che mostra una bella giovane donna coreana mentre esplora le strade di Tokyo, in Giappone, durante la notte e al tramonto. Indossa una giacca nera in pelle elegante, ha un trucco naturale e capelli neri morbidi e mossi. Inizia con una ripresa da dietro mentre attraversa un incrocio affollato di Tokyo circondato da insegne al neon colorate, strade bagnate e luci cittadine luminose. Mostrala sorridere calorosamente mentre tiene in mano un delizioso onigiri (polpetta di riso) all'interno di un minimarket ben illuminato, seguito da un momento spontaneo in cui compra una bevanda da un distributore automatico. Riprendila mentre cammina sotto un tradizionale torii rosso giapponese, poi si gira verso la telecamera con un sorriso giocoso in una strada stretta decorata con lanterne giapponesi luminose. Mostrala mentre scatta un selfie casuale su una tranquilla via residenziale e gode della vista sul fiume mentre un treno passa sullo sfondo. Includi una scena accogliente in una libreria dove apre entusiasta un libro di viaggio e sorride alla telecamera, seguita da un momento sereno al tramonto seduta accanto al fiume con una bevanda da asporto. Termina con bellissime luci cittadine notturne, un allegro selfie handheld su un ponte sopraelevato e lei che sorride con lo skyline di Tokyo alle spalle. Usa movimenti naturali della fotocamera dello smartphone, transizioni cinematografiche fluide, espressioni spontanee autentiche, texture della pelle realistica, grana filmica soft, estetica nostalgica MiniDV dei primi anni 2000, toni notturni teal-verde cupi, illuminazione calda del tramonto e profondità di campo ridotta. Mantieni un'identità facciale, acconciatura, outfit e proporzioni corporee costanti per tutto il video, con movimenti realistici e una sensazione spontanea di diario di viaggio, in formato widescreen 16:9.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110596831482900480/img/pEzoaxwQMjlLhpl9.jpg" width="600" alt="Prompt per video vlog di viaggio notturno a Tokyo">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12584)**
-
-**Autore:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2110597035502272787) | **Pubblicato:** Oct 15, 2026
-
----
-### Prompt Video per Esperimento di Laboratorio Horror Sci-Fi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato per generare una scena cinematografica horror fantascientifica in un laboratorio, caratterizzata da una scienziata, un'entità misteriosa e effetti di illuminazione drammatici.
-
-#### 📝 Prompt
-
-```
-Scena horror fantascientifica ultra-realistica e cinematografica all'interno di un laboratorio di ricerca futuristico ad alta sicurezza. Una giovane scienziata indossa un camice bianco e conduce con attenzione un esperimento misterioso in un laboratorio sterile pieno di camere di vetro, attrezzature scientifiche avanzate, monitor blu luminosi e superfici metalliche riflettenti. Esamina uno strano campione biologico, poi nota improvvisamente qualcosa di terrificante. Un'entità umanoide pallida e misteriosa con occhi scuri infossati ed un'espressione inquietante appare dentro il laboratorio. Il suo aspetto è disturbante ma realistico, con sottili movimenti facciali e una texture della pelle vivida.
-
-Le luci del laboratorio iniziano a tremolare mentre si attiva l'allarme rosso d'emergenza. Gli scienziati corrono attraverso un corridoio di vetro mentre vapore bianco fuoriesce da una camera di contenimento. La scienziata si volta di scatto sotto shock mentre la struttura entra in lockdown. Le luci rosse di avvertimento illuminano il corridoio buio, creando riflessi drammatici sulle pareti di vetro. L'entità misteriosa rimane visibile dietro il vetro rinforzato alla fine del corridoio.
-
-Stile visivo: Thriller fantascientifico fotorealistico, atmosfera horror cinematografica, laboratorio di biotecnologie futuristiche, illuminazione volumetrica, espressioni facciali realistiche, nebbia atmosferica, illuminazione drammatica rossa e ciano, texture dettagliate, profondità di campo ridotta, movimenti di macchina cinematografici lenti, ritmo sospeso, qualità professionale da film hollywoodiano, dettaglio 4K, composizione verticale 9:16.
-
-Prompt negativo: Cartone animato, anime, bassa risoluzione, volti sfocati, anatomia distorta, arti extra, movimento irrealistico, colori sovrasaturi, sovrapposizioni di testo, filigrane, personaggi incoerenti, artefatti visivi tremolanti.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110596340640296960/img/NlEEzAkreEllPatu.jpg" width="600" alt="Prompt Video per Esperimento di Laboratorio Horror Sci-Fi">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12585)**
-
-**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2110596402556608827) | **Pubblicato:** Oct 15, 2026
-
----
-### Video di Presentazione del Prodotto con Dialogo AI
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genera un video di presentazione del prodotto realistico con una donna che tiene in mano un prodotto specifico dalle immagini di riferimento, preservando i dettagli esatti e aggiungendo dialoghi naturali.
-
-#### 📝 Prompt
-
-```
-Una donna sicura di sé e attraente dell'Immagine 1 tiene il prodotto dell'Immagine 2 per una presentazione. Preserva l'aspetto esatto, il design, i colori e i dettagli del prodotto senza alterazioni. Genera dialoghi naturali in inglese adatti allo scenario, con espressioni realistiche e movimenti fluidi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110586692981923840/img/O9ggPIEmigfihsdm.jpg" width="600" alt="Video di Presentazione del Prodotto con Dialogo AI">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12581)**
-
-**Autore:** [Meenakshi Yadav](https://x.com/MeenakshiYACS) | **Fonte:** [Link](https://x.com/MeenakshiYACS/status/2110586865426546858) | **Pubblicato:** Oct 15, 2026
-
----
-### Scena di Battaglia del Cavaliere dalla Roba Bianca contro il Drago
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt video dettagliato scena per scena per una battaglia cinematografica tra un cavaliere dalla roba bianca e un drago d'acqua, generato con Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Cavaliere dalla Roba Bianca: Scontro nell'Abisso del Drago
-[Atto 1 | Evocazione 0-10s]
-0-3s: Un guerriero in robe bianche si trova nelle acque basse della riva di un canyon buio, circondato da scogliere nere, con banchi di sabbia pallida in lontananza. La fredda luce lunare filtra attraverso le fessure nella parte superiore; la superficie dell'acqua è umida, permeata di nebbia. Il guerriero impugna una spada lunga sguainata in posizione di guardia, con fulmini blu-bianchi che scorrono lungo la lama. Piano medio, carrellata lenta in avanti. Particelle di fulmine, aura della spada, nebbia della cascata.
-3-5s: Il guerriero ruota rapidamente e brandisce la spada, archi di fulmine si estendono, poi carica in avanti con esplosioni di elettricità. Ripresa orbitale di tracciamento che diventa una vista grandangolare a distanza. Scie di fulmine, immagini residue, schizzi d'acqua esplosivi, onde d'urto del boom sonico.
-5-7.5s: Un gigantesco drago d'acqua emerge dalla superficie, lo scheletro si forma, il corpo d'acqua prende forma. Carrellata media. Effetti fluidi, baffi del drago che svolazzano, archi elettrici che avvolgono la figura.
-7.5-10s: Il drago d'acqua circonda il guerriero ad alta velocità, si precipita verso la telecamera, poi torna lateralmente. Gli occhi del drago brillano, schizzi d'acqua volano. Tracciamento laterale che diventa una ripresa dal basso verso l'alto. Vortice del drago d'acqua, nebbia, particelle di flusso d'acqua.
-[Atto 2 | Battaglia Finale 10-27s]
-10-11.5s | Picchiata della Testa del Drago: La testa del drago si tuffa verso il basso, il guerriero esplode verso l'alto da una mezza ginocchiata, l'onda d'urto solleva le vesti bianche e la superficie dell'acqua, la spada nuda sprigiona fulmini, contrattacco verso l'alto. Angolazione ultra-bassa dal basso verso l'alto, che sale dai piedi vicino alla superficie dell'acqua, la telecamera passa attraverso la luce della spada. Esplosione radiale della superficie dell'acqua, fulmini sovraesposti, scie di luce bianca.
-11.5-13s | Collisione Frontale: La punta della spada collide con la testa del drago, un'onda d'urto ad anello solleva l'acqua bassa. Il guerriero fa una capriola a mezz'aria, sferra tre colpi radenti sulla testa del drago, compressi in tre momenti di flash. Angolazione estrema dal basso verso l'alto, rotazione di 180° con il personaggio, taglio su una ripresa verticale dall'alto a 90°. Il corpo del drago e i fulmini formano un enorme spirale sulla superficie dell'acqua.
-13-15s | Inseguimento sul Corpo del Drago: Il guerriero corre lungo il corpo del drago, teletrasporto stile fulmine, le punte dei piedi toccano l'acqua causando schizzi. La coda del drago spazza orizzontalmente, il guerriero piega la vita per schivare, inverte la rotazione e sferra un colpo laterale. Seguito laterale ad alta velocità ultra-grandangolare 24mm, la coda del drago blocca l'obiettivo, la telecamera ruota. Immagini residue, schizzi d'acqua, scie di fulmine.
-15-17s | Picchiata Estrema: Il guerriero salta verso un punto elevato nel canyon, si rimpicciolisce fino a diventare un punto bianco nell'oscurità, poi cade verticalmente a testa in giù come un fulmine bianco mirando alla testa del drago. Ripresa verticale dall'alto a 90° che cade alla stessa velocità, negli ultimi 0.2s taglia su un'angolazione ultra-bassa vicino alla superficie dell'acqua. Terreno, superficie dell'acqua, corpo del drago si ingrandiscono rapidamente.
-17-19s | Combattimento Ravvicinato: La testa del drago gira per mordere, le zanne sfiorano l'obiettivo. Il guerriero si teletrasporta via, colpisce con un fendente all'indietro sul collo del drago, il corpo del drago esplode in flussi d'acqua e poi si ricompone. Angolo estremo grandangolare 14-18mm, forte prospettiva, la telecamera passa attraverso la bocca del drago, velocità reale durante tutta la sequenza. Esplosione del flusso d'acqua, gocce sparse.
-19-21.5s | Duello Circolare: Il drago d'acqua si avvolge attorno al guerriero formando un enorme vortice d'acqua. Il guerriero è al centro della tempesta, lampeggia in quattro posizioni sferrando un colpo di spada ogni volta, quattro luci fredde di spada si intersecano come schemi di fulmini. Orbita ad alta velocità a 360°, l'altezza cambia continuamente, ascesa improvvisa dalla superficie dell'acqua seguita da una picchiata verticale. Vortice del drago d'acqua, schemi di fulmini, immagini residue.
-21.5-23.5s | Carica Frontale: Il drago gigante si precipita lungo l'intera lunghezza del canyon, le sue dimensioni riempiono lo schermo. Il guerriero carica in modo esplosivo all'indietro, la distanza è zero, scompare appena prima della collisione. Composizione frontale ad angolo ultra-basso, il guerriero appare come una piccola ombra bianca al centro. Linee di velocità, onde d'urto sulla superficie dell'acqua.
-23.5-25.5s | Fendente Inverso sulla Testa del Drago: Il guerriero si teletrasporta sopra la testa del drago, fa una capriola in aria, afferra la spada con entrambe le mani e colpisce verso il basso, i fulmini penetrano l'intero corpo d'acqua. Ripresa estrema dal basso verso l'alto direttamente sotto la testa del drago verso il cielo, la telecamera si abbatte verticalmente verso la superficie dell'acqua seguendo la punta della spada. Penetrazione dei fulmini, silhouette controluce.
-25.5-27s | Esplosione d'Acqua Definitiva: La luce della spada tocca l'acqua, i bassi fondali esplodono in un'enorme esplosione circolare d'acqua. Il corpo del drago viene tagliato in innumerevoli gocce d'acqua fluttuanti, brevemente congelate poi tutte disperse. Taglio istantaneo su una vista dall'alto a 90° ad altitudine estrema, contrasto di scala. Gocce fluttuanti, esplosione d'acqua ad anello.
-[Atto 3 | Ritorno al Silenzio 27-30s]
-Le gocce d'acqua cadono indietro sulla superficie del fiume, il drago divino si dissipa in una sottile nebbia. Il guerriero sta al centro delle acque basse, di spalle rispetto alla telecamera, la mano destra abbassata naturalmente, i residui di fulmine sulla lama della spada si estinguono gradualmente, la veste bianca e i capelli oscillano dolcemente nel vento. Lento allontanamento da dietro il personaggio, rivelando le acque vuote e buie del canyon, rimane solo l'ultima increspatura. Nebbia sottile, increspature, fulmini svanenti.
-[Blocco Forzato] Durante tutta la sequenza, tenere solo una spada lunga sguainata, senza fodero, nessuna azione di estrazione o riponimento. Mantenere la coerenza dello stile del guerriero in robe bianche e dell'ambiente del canyon buio. Nessun dialogo, nessun personaggio extra, nessuna nuova arma.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110224806838947841/img/HEhGP4a5I8PkfJHX.jpg" width="600" alt="Scena di Battaglia del Cavaliere dalla Roba Bianca contro il Drago">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12487)**
-
-**Autore:** [Zidan 子丹](https://x.com/liluocheng13) | **Fonte:** [Link](https://x.com/liluocheng13/status/2110225020278743421) | **Pubblicato:** Oct 14, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -6740,6 +6780,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-04T00:48:05.199Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-04T12:11:32.256Z</sub>
 
 </div>

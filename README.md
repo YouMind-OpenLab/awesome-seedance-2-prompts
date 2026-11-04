@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6640** |
+| 📝 Total Prompts | **6649** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-11-04** |
 
@@ -365,173 +365,484 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Seedance 2.0 Mini Cinematic Xianxia Horror Prompt
+### Seedance 2.5 Fashion Selfie Video Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed prompt for Seedance 2.0 Mini to generate a 15-second cinematic video in the Eastern supernatural/xianxia genre. It features a complex narrative structure with three shots, character consistency using reference images, and specific camera movements and lighting effects.
+> A highly detailed prompt for generating a vertical fashion selfie video with specific camera angles, lighting, and timeline instructions.
 
 #### 📝 Prompt
 
 ```
-Seedance 2.0 Mini | "Do Not Answer That Call"
+9:16 vertical screen, 6.0 seconds, 30fps, realistic live-action, outfit short video from a phone mirror selfie perspective. The person in @Image1, wearing the styling and clothes from the three-view diagram in @Image2, crouches facing the lens in a bright minimalist white walk-in closet. Right hand holding phone for mirror selfie, phone at chest height on the right side of the frame, screen facing outward and lit, showing the person's own image. Left hand resting on knee. Background is white built-in cabinets, shelves with several pairs of shoes, warm white spotlights on ceiling, floor is glossy white tiles with reflection. High-key soft light, frontal lighting, overall bright, slightly overexposed. Skin is translucent and soft-focused with beauty filter texture, cool white tones, saturated clothing colors. Slight handheld shake throughout, long curly hair naturally flowing, expression playful and lazy, eyes always looking at the lens.
+
+Storyboard
+
+Time Shot/Camera Movement Action & Expression Composition
+0.0–0.2s Extreme close-up of face, eye-level, slight tilt down Fixed Pouting lips slightly, eyes staring directly at lens Face in upper middle of frame, approx 45% of height; phone on right, visible from chest to mid-frame
+0.2–0.5s Extreme close-up Pan right approx 3% Tilt head left approx 15°, lean forward, start pouting Face moves to left third of frame
+0.5–0.9s Extreme close-up, partial out-of-frame Continue pan right approx 3% Kiss-like pout, eyes half-closed, cheek close to lens, left half of face out of frame Only right half of face and lips visible
+0.9–1.2s Extreme close-up Return to center Head straightens, lips relax, eyes open looking at lens Face returns to center-left
+1.2–1.6s Close-up to medium shot Start pulling back, slow speed Head tilts slightly right, long hair falls over left shoulder Collar and necklace enter frame
+1.6–2.2s Medium shot to wide shot Smooth pull back, total approx 1.8x Body tilts right approx 10°, maintains crouch Clothing, legs, and shoes revealed sequentially, person occupies approx 80% of height
+2.2–2.7s Wide shot crouch Fixed, slight shake At 2.3s tilt head right approx 20°, at 2.4s blink right eye, corner of mouth up Phone in middle right of frame
+2.7–3.9s (Hard cut at 2.7s) Side 45° low angle medium shot, chest to thigh Very slow push in approx 3%, simultaneous slight move right Turn body left, sweep all long hair to shoulder closest to lens, big waves down to waist; chin tucked, turn face sideways to lens, lips slightly parted, gentle blink at 3.3s Person in left 2/3 of frame; back view visible in mirror at rear right, background is white cabinet doors and spotlights
+3.9–4.7s (Hard cut at 3.9s) Frontal medium shot crouch, same camera as 2.2s Fixed, handheld shake Resume mirror selfie; 4.0-4.5s swing head right and left approx 8° each, relaxed expression, eyes on lens Person in center of frame, approx 80% of height
+4.7–5.2s Medium to full body Pull back while raising camera approx 10%, becoming high angle At 4.8s left hand leaves knee, raises to chest Ceiling spotlights visible above, shoe tips visible below
+5.2–5.6s Full body crouch Pull back slowing Left hand raised to before chin, index finger up, others clenched Person occupies approx 60% of height, left mirror frame enters
+5.6–6.0s Full body crouch, slight high angle Stop, freeze after 5.7s Index finger to lips "shh", tilt head left approx 10°, playful gaze at lens, slight smile White mirror frame, cabinets, and spotlights fully visible, person in lower middle
+
+Negative Prompts
+
+Face inconsistent with @Image1, clothing inconsistent with @Image2, feature drift, extra fingers, hand deformity, phone deformation, color shift in clothes, texture jumping, background distortion, flickering, watermarks/subtitles, low clarity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117815051021389825/img/ClZkhqCtjIBtMNQW.jpg" width="600" alt="Seedance 2.5 Fashion Selfie Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13485)**
+
+**Author:** [潇潇](https://x.com/beizhi606) | **Source:** [Link](https://x.com/beizhi606/status/2117815219762467083) | **Published:** Nov 4, 2026
+
+---
+### Seedance Multi-Character Dance Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed video generation prompt for Seedance featuring Sam Altman and Dario Amodei dancing with a woman, including specific instructions to prevent face morphing and ensure synchronized movements.
+
+#### 📝 Prompt
+
+```
+Center: a stunning glamorous woman in black chic dress; Left: Sam Altman with recognizable features in a classic grey tech sweater; Right: Dario Amodei with glasses in casual blazer. synchronized rhythmic backup dance movements, mirrored dynamic footwork, fluid torso groove, natural motion physics, 35mm wide cinematic studio shot, medium full shot, warm studio key lighting, no face morphing, consistent individual identity throughout 15 seconds
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117801780943753216/img/vLWJZlhNnzU5ul-o.jpg" width="600" alt="Seedance Multi-Character Dance Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13486)**
+
+**Author:** [AYi](https://x.com/AYi_AInotes) | **Source:** [Link](https://x.com/AYi_AInotes/status/2117810237314826563) | **Published:** Nov 4, 2026
+
+---
+### Ice Dragon vs Fire Phoenix Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a cinematic fantasy battle video featuring ice and fire elemental warriors and mythical creatures in an ancient arena.
+
+#### 📝 Prompt
+
+```
+Create an ultra-realistic, cinematic fantasy battle between two powerful martial arts warriors in a mystical ancient arena.
+
+Scene 1: A dramatic cinematic title reveal featuring a gigantic blue ice dragon on the left and a magnificent golden fire phoenix on the right, surrounded by lightning, flames, dark storm clouds, and floating rocks.
+
+Scene 2: Two martial arts fighters, one wearing a white outfit with glowing blue ice energy and the other wearing a white outfit with blazing orange fire energy, begin an intense kung fu battle. They perform powerful kicks, punches, flying attacks, and supernatural energy strikes.
+
+Scene 3: Both warriors jump high into the sky, releasing massive blue and orange energy beams from their hands. Giant floating rocks surround them as the two energy powers collide.
+
+Scene 4: The blue ice dragon emerges behind the blue warrior while the golden fire phoenix appears behind the orange warrior. Both mythical creatures roar and unleash their ultimate powers.
+
+Scene 5: An enormous blue-and-orange energy explosion fills the sky, creating a spectacular cinematic shockwave with flying debris, magical particles, fire, ice, and lightning.
+
+Visual style: Hyper-realistic 3D CGI, epic fantasy movie cinematography, Unreal Engine 5 quality, ultra-detailed characters, volumetric lighting, dramatic camera movements, slow motion action, realistic physics, 4K resolution, vertical 9:16 aspect ratio.
+
+No cartoon style, no blurry faces, no distorted bodies, no extra limbs, no watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117760528592539648/img/9TZsqtkp7ydGDl8b.jpg" width="600" alt="Ice Dragon vs Fire Phoenix Battle">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13483)**
+
+**Author:** [Zaviaan](https://x.com/zaviaanroy) | **Source:** [Link](https://x.com/zaviaanroy/status/2117760569201848392) | **Published:** Nov 3, 2026
+
+---
+### Seedance Camera Movement Prompt: Ancient Lake Pavilion
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A prompt for generating a cinematic ancient Chinese style video with specific camera movements (tilt up, pull back, push in) revealing a female character in a misty lakeside pavilion.
+
+#### 📝 Prompt
+
+```
+Realistic live-action ancient Chinese style short film. Overcast day, mist-filled lakeside pavilion, low-saturation cool grey tones, soft diffused skylight, calm lake surface with slight ripples, distant scenery blurred through fog. No dialogue throughout. Sound: No BGM, no singing, only ambient audio—soft wind, gentle water waves, distant swallow calls, and fabric rustling.
+
+[Character Lock]
+Female Lead A: Image 1;
+
+[Spatial Relationship]
+A leans against wooden railing on water-side of pavilion, body facing lake, one hand extended over railing hovering above water surface; camera positioned entirely on lake side filming her, opposite bank pavilion and willows serve only as blurred background, water directly below railing, no streets, courtyards, or other spaces appear.
+
+Shot 01 [Duration] 2.8s
+[Camera Move] Vertical Tilt Up: Camera position fixed, lens slowly rises from bottom to top, from feet/ground to head/sky. This shot starts with close-up of hand near water surface, camera tilts up along A's arm extending over railing, sweeping past wide sleeves, shoulders/neck, and cascading long hair, ending steadily on close-up of her lowered profile.
+[Visuals] A's hand hovers above lake surface, fingertips almost touching, concentric ripples spreading on water below fingertips, orange-red koi shadows drifting slowly underwater; camera tilts up, sweeping past wide sleeves embroidered with pink-white flowers and long hair falling in front, finally landing on her lowered profile: eyes cast down at water, eyelashes lowered, lips slightly parted, tassels of hair ornament swaying gently, expression quiet and dreamy.
+
+Shot 02 [Duration] 3.9s
+[Camera Move] Pull Back: Camera slowly retreats, gradually widening from subject close-up to reveal complete surrounding environment and situation. This shot starts with medium shot of A's upper body leaning on railing, camera slowly pulls back, progressively revealing pavilion eaves overhead, wooden pillars beside, and mist-filled lake surface, ending on half-body shot with environment.
+[Visuals] A bends forward leaning on railing, one hand supporting, upper body slightly probing forward; lake breeze blows, waist-length hair and wide sleeves blown entirely backward, fluttering vigorously; silhouettes of 3-4 swallows sweep across misty sky from left side of frame, she slowly raises head, gaze following swallows toward upper-left, lips slightly parted; background is blurred willows on opposite bank and grey-white misty sky.
+
+Shot 03 [Duration] 3.4s
+[Camera Move] Push In: Camera slowly advances forward, gradually approaching subject from medium shot, finally stopping on facial close-up or key detail. This shot starts with close-up of A's profile looking at lake, camera pushes forward in straight line, ending on close-up of her turned-forward face; it is A turning her own head, camera does not orbit or change position.
+[Visuals] A initially faces away with left profile looking at distant lake, long hair blown backward, hair tassel swaying lightly; as if sensing something, she slowly turns head, gaze finally falling directly into lens, eyelashes trembling slightly, lips slightly parted, expression carrying a hint of blank bewilderment; background is misty shadows of opposite bank pavilion and willows, highly blurred.
+
+[Continuity Lock] Same person, same outfit and hair accessories throughout, A stays at pavilion railing without moving; Shot 01 ending lowered profile faces left side of frame, consistent with Shot 03 starting profile orientation; wind direction consistent throughout, long hair and sleeves always blown backward; lighting is overcast diffused light throughout, no direct sunlight.
+
+[Negative Constraints] No BGM, no singing; no dialogue, no speaking lip-sync; no shaky camera or fast moves, no orbiting around character; no face-swapping, no extra people; no hair accessory disappearance or deformation; no static hair; no sunny blue skies or strong sunlight; no subtitles, text, or watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117639095640072192/img/3W8_CFU_HqWfvLcD.jpg" width="600" alt="Seedance Camera Movement Prompt: Ancient Lake Pavilion">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13484)**
+
+**Author:** [灰度笔记](https://x.com/GrayNoteLab) | **Source:** [Link](https://x.com/GrayNoteLab/status/2117639219208405349) | **Published:** Nov 3, 2026
+
+---
+### Wood Slice Epoxy Floor Renovation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a renovation timelapse video where wood log slices are turned into an epoxy floor in a bedroom using Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Vertical timelapse-style renovation video, fixed wide shot of a bright empty room with white walls, a large window on the right and blue painter's tape along the skirting boards. A workman in orange overalls dumps a heap of round log-slice discs onto the bare floor and rakes them out flat, arranging the wooden rounds face-up into an even mosaic pattern. Several more workers in orange overalls kneel down fitting the slices tightly together, then pour milky-clear epoxy resin from buckets and spread it with squeegees until every gap fills like liquid glass. One worker wearing ear defenders runs a floor buffing machine across the curing surface while another smooths the edges near the walls; fast-motion cuts show the wet resin self-leveling and turning glossy, locking the amber wood rings into a seamless polished floor. Smooth transition to the finished bedroom: the same room now styled with a light oak bed dressed in white linen, a bedside table with a small lamp and a framed print above the headboard, sunlight streaming through the window, the wood-slice epoxy floor gleaming with mirror-like reflections. Realistic documentary style, warm natural light, satisfying before-and-after transformation.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117620219015307264/img/KHmURK_Zud9o8jMl.jpg" width="600" alt="Wood Slice Epoxy Floor Renovation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13481)**
+
+**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2117620262606614546) | **Published:** Nov 3, 2026
+
+---
+### Pebble Epoxy Floor Renovation Timelapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a realistic renovation timelapse video where pebbles are turned into an epoxy floor in a bedroom using Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+A man in blue overalls uses a long rake to spread a large pile of smooth colorful pebbles evenly across the concrete floor of an empty sunlit room with white walls and a large window, the stones shimmering in teal, purple and bronze tones. Next, a woman in red overalls pours thick white epoxy resin from a large bucket, the milky liquid flowing and self-leveling over the pebbles until it covers the entire floor. Then a worker in a blue uniform and yellow high-visibility vest polishes the cured surface with a floor buffing machine, revealing a glossy clear finish with colorful pebbles suspended beneath like terrazzo. Finally, two men in black t-shirts carry in a low wooden bed frame, set a white mattress on it and dress the bed with crisp white bedding and pillows. The video ends with a wide shot of the finished minimalist bedroom, sunlight streaming through the window onto the mirror-like pebble epoxy floor. Smooth timelapse pacing, realistic lighting, satisfying renovation process, vertical video format.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117619228731731968/img/atVG1KSc_qBxyRI3.jpg" width="600" alt="Pebble Epoxy Floor Renovation Timelapse">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13479)**
+
+**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2117619279042363438) | **Published:** Nov 3, 2026
+
+---
+### Rose Quartz Pebble Floor Renovation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A photorealistic renovation timelapse prompt featuring rose quartz pebbles becoming a terrazzo floor in a bedroom, generated with Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Vertical 9:16 photorealistic renovation timelapse. In a bright empty white bedroom with a large sunlit window and blue painter tape along the floor edges, a bearded man in blue overalls rakes a huge mound of polished rose quartz pebbles, spreading them evenly across the entire floor. Two workers in red overalls and black gloves pour milky white epoxy resin from metal buckets over the stones and rake it smooth until every pebble is submerged. Next, a crew in high-visibility yellow vests grind the cured surface with floor polishing machines and vacuum away dust, revealing a glossy white terrazzo floor with round rose quartz stones embedded inside; include a close-up of the polished pink circles gleaming. Workers then assemble a light oak bed frame, place a mattress with blush pink and cream bedding, wooden nightstands, a table lamp, a vase of greenery and framed artwork above the headboard. End with a slow pan across the finished minimalist bedroom, the mirror-glossy pink pebble floor reflecting soft daylight, satisfying smooth transitions, natural window light, no text overlays.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117571124670115840/img/8GrfiG-mX2vE1E09.jpg" width="600" alt="Rose Quartz Pebble Floor Renovation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13482)**
+
+**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2117571161642893460) | **Published:** Nov 3, 2026
+
+---
+### Gem Terrazzo Floor Renovation Timelapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a fast-motion timelapse video showing the creation of a gem-filled terrazzo floor in a bedroom using Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Vertical 9:16 video, fast-motion timelapse style in a bright empty room with white walls, bare concrete floor and a large window with greenery outside. A man in blue overalls and a white t-shirt uses a wide rake to spread a huge pyramid-shaped pile of glossy blue and purple acrylic diamond gems across the floor, moving in fast motion with slight motion blur, then kneels to rake the gems into an even layer covering the whole floor. A woman in red overalls pours white self-leveling cement from a large bucket over the gems in smooth streams while the man spreads and arranges the gems by hand; a white bucket, spray bottle and notched trowel sit nearby, blue painter's tape lines the baseboards. She then squeegees the white compound evenly over the gems. Next, a man in a yellow high-visibility vest and ear defenders operates a heavy floor grinding machine, polishing in passes while the woman vacuums dust with a shop vacuum; the surface transforms into polished white terrazzo with blue and purple gems embedded and gleaming, and a second worker joins with a smaller polisher. Finally the workers vanish in a blur as the room furnishes itself: a low wooden platform bed with white and navy bedding, floating nightstands, warm lamps and a gray rug appear over the glowing gem terrazzo floor, ending on a serene sunlit luxury bedroom reveal. Camera holds a wide static angle throughout, realistic daylight, crisp details, satisfying renovation timelapse aesthetic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117570182914732032/img/i5zcKupSfTcwXhkg.jpg" width="600" alt="Gem Terrazzo Floor Renovation Timelapse">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13480)**
+
+**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2117570244390629582) | **Published:** Nov 3, 2026
+
+---
+### Seedance Xianxia Flying Effects Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for generating cinematic xianxia flying effects with specific camera movements and character interactions.
+
+#### 📝 Prompt
+
+```
+Realistic live-action Xianxia movie texture, clear white day, above endless sea surface, snow mountains and clouds in distance. Female lead A flies extremely fast on sword hugging sea surface: swimming alongside dolphins, skimming over leaping whales, facing towering giant waves, slashing wave wall with one sword strike, passing through split-water corridor, exiting corridor to stop sharply on calm sea. Speed baseline is extreme cruise speed: measured by length of wake under sword (dozens times her body length), exit time in fixed camera, and enlargement speed of reference objects below; tracking shot has slight lag correction. Playback speed baseline is normal speed, only shot 05 has 0.5s slow-motion ramp (only slow-motion in whole film, visual impact point), other shots never slow motion. No dialogue, no BGM, no singing in whole film, only ambient sound effects (waves, air cutting, splashes, whale calls, rustling clothes); no text generated on screen.
+
+[Character Lock]
+Female lead A: Image 1. Cold and decisive expression.
+Two identical flying swords: silver-white long sword, dark hilt with gold guard, blue tassel. One under A's feet for standing flight, never leaves feet; another held in A's right hand from shot 08 onwards, stays in hand. Shape of sword under feet locked as straight rigid long sword: blade straight flat, uniform thickness, sharp tip, complete guard/hilt/tassel, feet stepping front and back on middle of blade; blade must not bend, widen, or soften. Two swords stay in position, no merging, swapping, or third sword.
+
+[Flying Posture Baseline]
+Whole film is standing-on-sword posture: A's feet always on sword, tip forward, sword never leaves feet in any shot. Exception in shot 03 race segment: body lowered to crouch, knees bent on sword, upper body forward, arms back. From shot 08 adds sword-holding action: right hand holds second sword, slashes wave then draws to side—feet remain on first sword, two swords coexist. Ending sharp stop posture recovery: from forward dive to natural upright stance. Long hair, wide sleeves, skirt pulled backward horizontally by high-speed airflow, secondary dynamics uninterrupted; at sharp stop inertia throws them forward then slowly settles.
+
+[Spatial Relations]
+Sea surface is height reference: when A hugs sea, sword tip less than 1m from water, wind pressure creates white wake and mist trail, mist spreads only after she passes. Snow mountain always on same side in distance. Giant wave rises in distance from shot 06; in shot 08 she slashes wave wall—split-water corridor is result of slash, slash first, corridor later, corridor exists on her route from shot 10; she flies in from one end, out from other, consistent heading, no turning back. Shot 11 frontal view comes from hard camera switch (cut to her front), not her turning.
+
+[Storyboard]
+Shot 01 (~1.4s)
+[Visual] Side medium shot: A stands on sword flying fast hugging sea, long white mist trail behind sword, sea receding rapidly below.
+[Camera] Tracking shot syncing with subject, keeping subject position and size constant (side tracking).
+[Action/FX] Slight lag in tracking: she shoots forward half-body length, camera catches up and stabilizes; A hands behind back, looking forward, calm; hair/skirt horizontal back; sword tip cuts thin mist, trail drags along water.
+
+Shot 02 (~2.8s)
+[Visual] Far wide shot: A becomes tiny figure between sky and sea, flying left to right toward horizon, leaving straight white wake; snow/clouds barely move in distance.
+[Camera] Tracking shot syncing with subject, keeping position/size constant (side tracking, far version: subject scale unchanged, parallax from rapid sea recession vs slow mountain movement).
+[Action/FX] Only sea texture rushing back proves speed; white wake dozens times body length, lingering, widening slowly.
+
+Shot 03 (~2.7s)
+[Visual] Side close-up: A lowers body to crouch racing posture, flying fast, 2-3 dolphins jumping alongside in same direction, snow mountain background.
+[Camera] Tracking shot syncing with subject, keeping position/size constant (side tracking).
+[Action/FX] Slight lag correction: she accelerates slightly as dolphins jump, camera catches up half-beat late; dolphins jump/dive at same speed, splashes thrown back; A upper body forward, arms back, hair fully horizontal back; glances at dolphins, expression unchanged.
+
+Shot 04 (~2.9s)
+[Visual] Fixed wide shot: Humpback whale leaps high, massive body fills center, water curtain falls; A's tiny figure approaches from background above whale.
+[Camera] Completely static, no position/focal change, only internal action/light/wind changes (fixed camera).
+[Action/FX] Whale size is scale reference, A approaches fast, thin mist trail behind sword; end of shot whale reaches peak leap, A just passes above whale head, transition point for next slow-motion close-up.
+
+Shot 05 (~0.5s)
+[Visual] Slow-motion close-up: A skims over humpback whale head, close-up with whale—water droplets falling from skin suspended in air, hair/skirt unfolding layers in slow motion, whale eye and her profile in frame.
+[Camera] Tracking shot syncing with subject, keeping position/size constant (side tracking, this shot is slow-motion ~0.5s, only slow-motion in film).
+[Action/FX] Speed slope: sudden slowdown from full speed to near stagnation—but still moving, background still drifting, not frozen; immediately returns to normal speed after 0.5s, rushes out of frame. Contrast between slow and fast is impact point.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117525388457082880/img/HqhTVVSe0cNgKkSe.jpg" width="600" alt="Seedance Xianxia Flying Effects Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13487)**
+
+**Author:** [灰度笔记](https://x.com/GrayNoteLab) | **Source:** [Link](https://x.com/GrayNoteLab/status/2117525735158276381) | **Published:** Nov 3, 2026
+
+---
+### Seedance 2.0 Mini Xianxia Horror Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A suspenseful ancient Chinese fantasy prompt involving soul-luring lanterns and psychological horror elements.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | "Don't Answer That Call"
 
 Model: Seedance 2.0 Mini
 Duration: Strictly 15 seconds
 Aspect Ratio: 16:9 Landscape
-Genre: Eastern Folklore Horror / Ancient Xianxia / Psychological Suspense / Supernatural Thriller
+Genre: Eastern Gothic / Ancient Xianxia / Psychological Suspense / Supernatural Thriller
 Structure: Three continuous, clear cinematic shots with distinct narrative functions.
-
 I. Overall Style and Creative Direction
 Cinematic-grade hyper-realistic Chinese-style Xianxia.
-This project combines:
-Eastern Folklore Horror
-Psychological Suspense
-Ancient Xianxia
-into a unified genre expression.
+This time adopts:
+Eastern Gothic
 
-Director's Core Concept
-Borrow suspense handling techniques from mature thriller films:
-First make the audience believe in a wrong dangerous target, then complete an information reversal through sound, gaze, and a tiny physical change.
+Psychological Suspense
+
+Ancient Xianxia
+
+Combined genre expression.
+
+Director's Core
+
+Borrow suspense handling methods from mature thriller films:
+First make the audience believe in a wrong dangerous object, then complete information reversal through sound, gaze, and an extremely small physical change.
 Horror Expression Principles
+
 Do not rely on characters explaining the truth at length.
-Do not rely on exaggerated monster transformations to create horror.
-The truly unsettling thing is:
-A person's instinctive reaction when hearing the most familiar voice.
+
+Do not rely on exaggerated ghost deformations to create horror.
+
+What is truly unsettling is:
+
+A person's subconscious reaction when hearing the most familiar voice.
 
 II. Core Plot and Suspense Reversal
+
 Surface Plot
-An Underworld Envoy suddenly appears.
-Claims he is here tonight to take away the White-Robed Sword Immortal.
+
+The Netherworld Envoy suddenly appears.
+
+Claims to take away the White-Robed Sword Immortal tonight.
+
 The Junior Sister instinctively steps forward to protect her Senior Sister.
+
 True Reversal
-The person the Underworld Envoy truly intends to take has been the Junior Sister from the very beginning.
+
+The person the Netherworld Envoy truly wants to take away has been the Junior Sister from the beginning.
+
 Supernatural Trap
-The Soul-Luring Lantern held by the Underworld Envoy can mimic the voices of familiar people.
-Only when the target instinctively responds does the wick release a red Soul-Binding Thread to tether their soul.
+
+The Soul-Luring Lantern held by the Netherworld Envoy can mimic the voices of familiar people.
+
+Only when the target subconsciously responds does the lamp wick release a red soul-binding thread, tethering the other party's soul.
+
 Key Causality
-Senior Sister's voice sounds from the lantern → Junior Sister instinctively responds → Soul-Luring Lantern releases red thread → Junior Sister becomes the soul-harvesting target.
-The Senior Sister must cut the Soul-Binding Thread at this exact moment.
-Final Information Reveal
+
+Senior Sister's voice sounds in the lantern → Junior Sister instinctively responds → Soul-Luring Lantern releases red thread → Junior Sister becomes the soul-harvesting target.
+
+The Senior Sister must cut the soul-binding thread at this moment.
+
+Final Information Reversal
+
 Revealed through one sentence:
+
 "It waits for me to call you."
+
 Ending Suspense
-The Underworld Envoy does not leave.
-The short film must conclude at the point where:
-The first attack fails, but the real danger has not ended.
+
+The Netherworld Envoy does not leave.
+
+The short film must conclude at:
+
+The first attack failed, but the real danger has not ended.
 
 III. Character Identity and Core Asset Locking
+
 Character A | @Image1 | Sword Immortal Senior Sister
-Identity
-Same adult East Asian female, aged 25–30.
+
+Character Identity
+
+Same adult East Asian female, 25-30 years old.
 Strictly inherit the same character identity from the reference image.
 Fixed Appearance
-Fair, natural, soft oval face
-Bright dark almond eyes
-Black long hair half-tied
-Secured with a white jade hairpin
+Fair natural soft oval face
+Bright dark apricot eyes
+Black long hair half-tied up
+Fixed by white jade hairpin
 Tall and slender figure
-Fixed Costume
+Fixed Clothing
 White embroidered silk Hanfu
 Semi-transparent layered wide sleeves
 Silver waist sash
 Jade pendant
 White cloth boots
 Exclusive Weapon
-The single silver longsword.
-Abilities and Performance
-The Senior Sister's strength is shown through:
+The only silver long sword.
+Character Ability and Performance
+The Senior Sister's strength is reflected in:
 Observation
 Reaction
 Accurate judgment
-This film does not include complex continuous fighting.
-Her swordsmanship is demonstrated only through one precise action of cutting the Soul-Binding Thread.
+This film does not arrange complex continuous fighting.
+Only demonstrate her swordsmanship ability through one precise action of cutting the soul-binding thread.
 
 Character B | @Image2 | Junior Sister
-Identity
-Same adult East Asian female, aged 20–25.
+
+Character Identity
+
+Same adult East Asian female, 20-25 years old.
 Strictly maintain from the reference image:
-Same face
+The same face
 Facial structure
 Hairstyle
-Body shape
-Costume
+Figure
+Clothing
 Fixed Appearance
-Round, bright, cheerful face
-Black hair in braids
-Petite stature
-Fixed Costume
+Round bright face
+Black braided hair
+Petite figure
+Fixed Clothing
 Green linen Hanfu
 Dark belt
 Wooden hairpin
 Black cloth shoes
 Exclusive Weapon
-The single dark steel sword.
+The only dark steel sword.
 Weapon Restriction for This Segment
 The Junior Sister does not draw her sword.
 Three Core Performance Moments
-Hearing danger, actively standing in front of the Senior Sister.
-Hearing a familiar voice, instinctively turning around.
-Realizing she is the true target, shifting from shock to clarity.
+When hearing danger, actively block in front of the Senior Sister.
+When hearing a familiar voice, subconsciously turn head.
+When realizing she is the true target, change from shock to clarity.
 
 IV. New Supporting Characters and Soul-Luring Lantern Assets
-Underworld Envoy
-Identity
+
+Netherworld Envoy
+
+Character Identity
+
 Adult male.
+
 Fixed Appearance
-Deep grey-black ancient robes
-Aged bronze half-mask
-Subtle wear on the mask surface
+
+Deep gray-black ancient robe
+Ancient bronze half-mask
+Mask surface with slight wear
+
 Character Temperament
+
 Cold
-Restrained movements
+Restrained actions
 Stable expression and posture
-Does not use exaggerated ghost faces common in modern horror films.
-Core Prop | Antique Bronze Soul-Luring Lantern
-The Underworld Envoy holds a small antique bronze Soul-Luring Lantern in his left hand.
+Do not use exaggerated ghost faces common in modern horror films.
+
+Core Prop | Ancient Bronze Soul-Luring Lantern
+
+The Netherworld Envoy holds a small ancient bronze Soul-Luring Lantern in his left hand.
 Fixed Appearance
-Bronze lantern body
+Ancient bronze body
 Fixed size
 Fixed color
-Fixed handle ring
+Fixed handle
 Fixed wick
 Fixed lighting effect
 Flame Setting
-Inside the lantern is a single pale white flame.
+Inside the Soul-Luring Lantern, there is only a cluster of pale white flame.
 If necessary, the flame can turn dark red.
 Asset Continuity
-It must be the same lantern throughout.
-Its shape, size, color, handle ring, wick, and lighting effects must remain consistent throughout.
-Special Ability of the Soul-Luring Lantern
+The entire segment must feature the same Soul-Luring Lantern.
+Its shape, size, color, handle, wick, and lighting effect remain consistent throughout.
+Special Abilities of the Soul-Luring Lantern
 Voice Mimicry
-The Underworld Envoy can make the lantern emit a voice identical to the Senior Sister's.
+The Netherworld Envoy can make the Soul-Luring Lantern emit a voice completely identical to the Senior Sister's.
 Trigger Rule
-The wick only releases the red Soul-Binding Thread when the Junior Sister responds to this voice.
-Lip-Sync Rule
-The Underworld Envoy himself does not need to open his mouth to mimic the Senior Sister.
+Only when the Junior Sister responds to this voice will the lamp wick release the red soul-binding thread.
+Lip Sync Rule
+The Netherworld Envoy himself does not need to open his mouth to mimic the Senior Sister.
+
 Other Supporting Characters
+
 Elder Master
-Located in the distance, acting as a natural witness.
+
+Located further away as a natural witness.
+
 Two Sect Disciples
-Located in the distance, acting as natural witnesses.
-Supporting characters do not steal dramatic space from the dual protagonists and the Underworld Envoy.
+
+Located further away as natural witnesses.
+
+Supporting characters do not occupy the main dramatic space of the dual protagonists and the Netherworld Envoy.
 
 V. Background and Environmental DNA
-All uploaded background and location reference images collectively define a real existing Xianxia world.
+
+All background and location reference images uploaded this round jointly define a real existing Xianxia world.
+
 Environmental Planning
-Extract and preserve from reference images:
+Extract and retain from reference images:
 Real terrain
-Architectural layout
+Building layout
 Main landmark relationships
 Material age
 Spatial scale
 Vegetation
 Water bodies
 Weather
-Mist/Clouds
+Clouds and mist
 Main light direction
 Reflection relationships
-Color palette
+Color
 Air depth
 Camera Position and Spatial Organization
 Allowed to redesign:
@@ -541,261 +852,273 @@ Lens direction
 Character positioning
 But the entire 15 seconds must occur in the same continuous space.
 Living Background Principle
-Background remains naturally alive.
+Background remains naturally fresh and alive.
 Natural Dynamics
-Natural wind moves hair strands
-Natural wind moves sleeves
+Natural wind pushes hair strands
+Natural wind pushes sleeves
 Water flows continuously
 Mountain mist changes slowly
 Cloud layers change slowly
-Trees and vegetation maintain reasonable movement
-Distant figures move naturally
-Narrative Neutrality of Environment
+Trees and vegetation maintain reasonable dynamics
+Distant characters move naturally
+Environmental Narrative Neutrality
 The background cannot actively trigger the story.
-Unique Supernatural Plot Item
-The only item that actively drives the supernatural plot in this instance is the Soul-Luring Lantern held by the Underworld Envoy.
+Only Supernatural Plot Item
+The only item actively driving the supernatural plot this time is the Soul-Luring Lantern held by the Netherworld Envoy.
 
 VI. Complete 15-Second Three-Shot Structure
-0–5s | Shot 1: Who Is Being Taken Tonight?
+
+0–5s | Shot 1: Who Are You Here For Tonight?
+
 Narrative Function
-Establish the wrong dangerous target, making the audience believe the Senior Sister is about to be taken.
+Establish the wrong dangerous object, making the audience think the Senior Sister is about to be taken away.
 Shot Size
 Wide shot.
 Camera Movement
-Slightly low angle, slowly pushing along the line of confrontation between characters.
+Slightly low angle, slowly advancing along the confrontation line between characters.
 Opening Space and Character Positioning
-At the start, the Senior Sister and Junior Sister stand side-by-side in a geographically logical passage area within the reference background.
-In the distance:
+At the start of the screen, the Senior Sister and Junior Sister stand side by side in a passable area within the reference background that conforms to geographical logic.
+In the distance are:
 Elder Master
 Two Sect Disciples
-Entrance of the Underworld Envoy
-An Underworld Envoy wearing a bronze half-mask walks slowly towards them from the front.
-His left hand holds an old bronze lantern.
-With each step, the lantern sways naturally with body inertia.
-But the pale flame inside the wick remains abnormally stable.
-Plot Point 1: Announcing the Target
-The Underworld Envoy stops a few steps ahead of the two women.
+Netherworld Envoy Entrance
+A Netherworld Envoy wearing a bronze half-mask walks slowly towards them from directly ahead.
+His left hand holds an ancient copper lantern.
+With every step, the copper lantern sways naturally with body inertia.
+But the pale white flame inside the wick remains abnormally stable.
+First Plot Node: Announce Soul-Harvesting Target
+The Netherworld Envoy stops a few steps in front of the two women.
 His gaze seems to fall on the Sword Immortal Senior Sister.
 He says in a low voice:
-[Underworld Envoy] "Tonight, I am here for the White-Robed Sword Immortal."
-Plot Point 2: Junior Sister Protects Actively
+[Netherworld Envoy] "Tonight, here to take the White-Robed Sword Immortal."
+Second Plot Node: Junior Sister Actively Protects
 The Junior Sister hesitates almost no time.
-She steps half a step forward, blocking in front of the Senior Sister.
-Frowning slightly, she looks directly at the Envoy:
+She takes half a step forward, blocking in front of the Senior Sister.
+Frowning slightly, she stares directly at the envoy:
 [Junior Sister] "How dare you?"
-Plot Point 3: Visual Foreshadowing of the True Target
-The Envoy does not get angry.
+Third Plot Node: Visual Foreshadowing of the True Target
+The envoy does not get angry.
 Nor does he immediately launch an attack.
-He simply slowly shifts his gaze from the White-Robed Sword Immortal.
+He just slowly shifts his gaze from the White-Robed Sword Immortal.
 Finally landing on the Junior Sister's face.
-Camera Requirement
-This look should not be emphasized with exaggerated camera zooms.
+Camera Requirements
+This glance should not be emphasized by exaggerated camera push-ins.
 Make it a detail that is:
-Natural, but understandable in retrospect by the audience.
+Natural, but understandable retrospectively by the audience.
 End of Shot
-The camera cuts along the Envoy's arm towards the Soul-Luring Lantern.
+The camera cuts along the envoy's arm to the Soul-Luring Lantern.
 
 5–10s | Shot 2: That Voice Is Wrong
+
 Narrative Function
-Trigger the trap and complete the first information reversal through the mismatch between a familiar voice and its actual source.
+Trigger the trap and complete the first information reversal through the mismatch between the familiar voice and the actual sound source.
 Shot Size
 Medium close-up.
 Camera Movement
 Slight lateral tracking.
-Keep the following elements in clear spatial relationship:
+Keep clear spatial relationships between the following elements:
 Soul-Luring Lantern
 Junior Sister
-The real Senior Sister behind her
+The real Senior Sister behind
 Continuity Requirements
 Must maintain:
-Same Underworld Envoy
-Same bronze Soul-Luring Lantern
-Same location
-Plot Point 1: Senior Sister's Voice Comes From The Lantern
-The Envoy slowly raises the Soul-Luring Lantern slightly.
+The same Netherworld Envoy
+The same bronze Soul-Luring Lantern
+The same location
+First Plot Node: Senior Sister's Voice Comes From The Lantern
+The envoy slowly raises the Soul-Luring Lantern a bit.
 He does not open his mouth.
 But suddenly an extremely familiar voice comes from the wick.
-It is the Senior Sister's voice.
-Gentle tone, like casually calling her name usually:
-[Soul-Luring Lantern · Senior Sister's Voice] "Ah Ning, turn around."
-Source and Lip Sync
-The real Senior Sister is right behind the Junior Sister.
+That is the Senior Sister's voice.
+Tone gentle, like casually calling her name usually:
+[Soul-Luring Lantern · Senior Sister Timbre] "An Ning, look back."
+Sound Source and Character Lip Sync
+The real Senior Sister is right behind the Junior Sister at this moment.
 Her lips are not moving.
-The sound comes from the bronze lantern in the Underworld Envoy's hand.
-Plot Point 2: Junior Sister Instinctively Responds
+The sound comes from the copper lantern in the Netherworld Envoy's hand.
+Second Plot Node: Junior Sister Instinctively Responds
 Because the voice is too familiar, the Junior Sister's body reacts before thought.
-She instinctively turns her head sideways.
+She subconsciously turns her head sideways.
 Answers softly:
 [Junior Sister] "Senior Sister?"
-Plot Point 3: Soul-Harvesting Trap Triggers
+Third Plot Node: Soul-Harvesting Trap Triggered
 Almost the instant the last word falls:
-The originally pale flame in the Soul-Luring Lantern suddenly turns dark red.
-An extremely thin dark red Soul-Binding Thread shoots out from the wick.
+The originally pale white flame in the Soul-Luring Lantern suddenly turns dark red.
+An extremely thin dark red soul-binding thread shoots out from the wick.
 Along a clear spatial path, it quickly wraps around the Junior Sister's right wrist.
-Physical State of the Soul-Binding Thread
-Red thread tightens slightly
-Junior Sister's right hand is pulled
-Body instinctively leans forward
+Physical State of Soul-Binding Thread
+Red thread slightly taut
+Junior Sister's right hand pulled
+Body subconsciously leans forward
 Body Expression Restrictions
 No:
 Exaggerated weightlessness
 Unreasonable floating
-Plot Point 4: Senior Sister Notices Anomaly
-The same White-Robed Sword Immortal immediately notices the anomaly.
-Her gaze shifts instantly from the Junior Sister's wrist to the wick.
-Her eyes become sharp abruptly.
+Fourth Plot Node: Senior Sister Discovers Abnormality
+The same White-Robed Sword Immortal immediately discovers the abnormality.
+Her gaze instantly shifts from the Junior Sister's wrist to the wick.
+Her eyes suddenly become sharp.
 End of Shot
-Cut the shot at the moment the Senior Sister grips her sword hilt tightly with her right hand.
+Cut the scene at the moment the Senior Sister grips her sword hilt tightly with her right hand.
 
-10–15s | Shot 3: So It Was Me Waiting
+10–15s | Shot 3: So It Was Waiting For Me
+
 Narrative Function
-The Senior Sister cuts the soul-binding connection, the Junior Sister realizes she is the true target, and the unresolved danger is preserved.
+The Senior Sister cuts the soul-harvesting connection, the Junior Sister realizes the true target, finally preserving the unfinished danger.
 Shot Size
 Close-up.
-Transitions to character close-ups after the core action.
-Plot Point 1: Precisely Cutting the Soul-Binding Thread
-The Senior Sister immediately draws her own silver longsword.
-Does not use exaggerated sword energy.
-Uses only one swift, precise diagonal sword swing.
+After the core action, transition to character close-ups.
+First Plot Node: Precisely Cut The Soul-Binding Thread
+The Senior Sister immediately draws her own silver long sword.
+Does not use exaggerated sword qi.
+Only uses one quick, precise diagonal sword swing.
 Key Action
-The silver blade severs the connection:
-The dark red Soul-Binding Thread between
-The Soul-Luring Lantern wick ↔ The Junior Sister's right wrist.
+The silver blade edge cuts the connection:
+The dark red soul-binding thread between the Soul-Luring Lantern wick ↔ Junior Sister's right wrist.
 Hard Action Requirements
 Blade accurately cuts the red thread
 Does not touch the Junior Sister's skin
 Swings the sword only once
-Sword trajectory is clear
+Blade trajectory clear
 Action has realistic physical continuity
 Soul-Binding Thread Breaks
 After breaking, the red thread instantly loses tension.
-Dissipates into tiny dark red light particles.
+Dissipates into tiny dark red light points.
 The Junior Sister's right hand regains freedom.
-Plot Point 2: Senior Sister Pulls Back Junior Sister
-The Senior Sister extends her free left hand.
+Second Plot Node: Senior Sister Pulls Back Junior Sister
+The Senior Sister extends her empty left hand smoothly.
 Gently pulls the Junior Sister back to her side.
-She whispers:
+She says in a low voice:
 [Senior Sister] "Don't answer."
-Plot Point 3: Junior Sister Realizes The Danger
-The Junior Sister looks up at the Envoy.
+Third Plot Node: Junior Sister Realizes Danger
+The Junior Sister looks up at the envoy.
 Her expression gradually changes:
-Fear that the Senior Sister would be taken → Shock at realizing she is the true target.
+Fear that the Senior Sister would be taken away → Shock at discovering she is the true target.
 She asks softly:
 [Junior Sister] "Is it looking for me?"
-Plot Point 4: Final Information Reveal
+Fourth Plot Node: Final Information Revelation
 The Senior Sister does not look at her.
-Her gaze remains locked on the lantern in the Underworld Envoy's hand.
+Her gaze remains locked on the lantern in the Netherworld Envoy's hand.
 She answers very lightly:
 [Senior Sister] "It waits for me to call you."
-Plot Point 5: Danger Has Not Ended
+Fifth Plot Node: Danger Has Not Ended
 Brief pause.
-The Underworld Envoy slowly tilts his head.
-The gaze behind the half-mask lands on the Junior Sister again.
-The pale flame in the bronze lantern in his hand lights up again.
-State of the Soul-Binding Thread
-The severed Soul-Binding Thread does not reconnect.
+The Netherworld Envoy slowly tilts his head.
+The gaze behind the half-mask lands again on the Junior Sister.
+The pale white flame of the copper lantern in his hand lights up again.
+Soul-Binding Thread Status
+The cut soul-binding thread does not reconnect.
 Dual Protagonist Positioning
-At this point, the Senior Sister and Junior Sister stand side-by-side.
-Both face the Envoy simultaneously.
+At this point, the Senior Sister and Junior Sister are standing side by side.
+Both facing the envoy simultaneously.
 Emotion and Action Restrictions
 No:
 Crying together
-Sudden explosion of complex battle
+Sudden outbreak of complex battles
 Final Shot Composition
-The shot closes on:
-The Underworld Envoy's cold bronze half-mask and the relit Soul-Luring Lantern.
+The camera converges on:
+The cold bronze half-mask of the Netherworld Envoy and the re-lit Soul-Luring Lantern.
 In the shallow depth of field behind:
 White-robed Senior Sister
 Green-robed Junior Sister
-Standing side-by-side.
-The Underworld Envoy does not retreat.
-Final Suspense Landing
+Standing side by side.
+The Netherworld Envoy does not retreat.
+Final Suspense Landing Point
 The audience finally understands:
-He never intended to take the White-Robed Sword Immortal from the start.
-He merely borrowed her identity and voice to make the Junior Sister answer that call herself.
-The first soul harvest failed.
+From the beginning, he never intended to take the White-Robed Sword Immortal.
+He merely borrowed her identity and voice to make the Junior Sister personally answer that call.
+The first soul-harvesting attempt failed.
 The real danger is still present.
-The screen ends here.
+The picture ends here.
 
 VII. Seedance 2.0 Mini Unified Execution Requirements
-Basic Specifications
-Total Duration: Strictly 15 seconds
-Aspect Ratio: 16:9 Landscape
-Model: Seedance 2.0 Mini
-Number of Shots: Three
-Time Structure
-Time | Shot Size | Core Event
-0–5s | Wide | Underworld Envoy arrives, claims to take the Sword Immortal Senior Sister, Junior Sister blocks.
-5–10s | Medium Close-up | Soul-Luring Lantern mimics Senior Sister's voice, Junior Sister instinctively answers, red thread binds soul.
-10–15s | Close-up & Character CU | Senior Sister cuts red thread, reveals true target, enemy has not retreated.
 
-VIII. Complete Seven Lines of Dialogue and Lip-Sync
+Basic Specifications
+Total duration: Strictly 15 seconds
+Aspect ratio: 16:9 landscape
+Model: Seedance 2.0 Mini
+Number of shots: Three
+Time Structure
+Time Shot Size Core Event 0–5s Wide Shot Netherworld Envoy arrives, claims to take Sword Immortal Senior Sister, Junior Sister actively blocks 5–10s Medium Close-Up Soul-Luring Lantern mimics Senior Sister's voice, Junior Sister instinctively responds, red thread locks soul 10–15s Close-Up & Character Close-Up Senior Sister cuts red thread, reveals true target, enemy still hasn't retreated
+
+VIII. Complete Seven Lines of Dialogue and Lip Sync
+
 The entire film retains only the following seven lines of dialogue.
+
 0–5s
-[Underworld Envoy] "Tonight, I am here for the White-Robed Sword Immortal."
+
+[Netherworld Envoy] "Tonight, here to take the White-Robed Sword Immortal."
+
 [Junior Sister] "How dare you?"
+
 5–10s
-[Soul-Luring Lantern · Senior Sister's Voice] "Ah Ning, turn around."
+
+[Soul-Luring Lantern · Senior Sister Timbre] "An Ning, look back."
+
 [Junior Sister] "Senior Sister?"
+
 10–15s
+
 [Senior Sister] "Don't answer."
+
 [Junior Sister] "Is it looking for me?"
 [Senior Sister] "It waits for me to call you."
-Mandarin and Lip-Sync Requirements
+
+Mandarin and Lip Sync Requirements
 All characters speak Mandarin
-Precise lip-sync matching
-No audio crossover
+Precisely match lip sync
+No cross-talk
 No temporary added dialogue
 No off-screen explanatory narration
 Special Rule for Third Line
-"Ah Ning, turn around."
+"An Ning, look back."
 Emitted by the Soul-Luring Lantern.
-Uses a voice completely identical to the real Senior Sister.
+Uses a voice completely identical to the real Senior Sister's.
 But:
-The Underworld Envoy does not open his mouth
+The Netherworld Envoy does not open his mouth
 The real Senior Sister does not open her mouth
-The sound source is clearly from the bronze lantern
-Spatial audio effects must be distinguishable
+Sound source clearly from the copper lantern
+Spatial audio effects must be discernible
 
 IX. Causal Rules for Soul-Luring Lantern and Soul-Binding Thread
-Rule 1 | Cannot Release Red Thread Early
-The red Soul-Binding Thread will not appear early.
-Only after the Junior Sister responds to the familiar voice will the Soul-Luring Lantern release the Soul-Binding Thread.
+
+Rule 1 | Cannot Release Red Thread Prematurely
+The red soul-binding thread will not appear prematurely.
+Only after the Junior Sister responds to the familiar voice will the Soul-Luring Lantern release the soul-binding thread.
 Trigger Chain
-Lantern emits sound → Junior Sister responds → Flame turns dark red → Soul-Binding Thread shoots out.
+Sound in lantern → Junior Sister responds → Flame turns dark red → Soul-binding thread shoots out.
 Rule 2 | Only One Soul-Binding Thread
-There is only one Soul-Binding Thread.
-Always connects:
+There is only one soul-binding thread.
+Always connecting:
 The Soul-Luring Lantern wick and the Junior Sister's right wrist.
 Rule 3 | Only One Cutting Action
 The Senior Sister swings the sword only once.
-Accurately cuts the Soul-Binding Thread.
+Accurately cuts the soul-binding thread.
 Rule 4 | State After Breaking
-After the Soul-Binding Thread breaks:
+After the soul-binding thread breaks:
 Instantly loses tension
-Dissipates into tiny dark red light particles
+Dissipates into tiny dark red light points
 Junior Sister regains freedom of movement
 Rule 5 | Soul-Luring Lantern Still Exists
 The Soul-Luring Lantern still exists.
-The Underworld Envoy has not retreated either.
+The Netherworld Envoy has not retreated either.
 But:
-The original Soul-Binding Thread cannot automatically reconnect.
-
+The original soul-binding thread cannot automatically reconnect.
 X. Character and Spatial Continuity
 Dual Protagonist Identity
 Strictly lock:
 @Image1
 @Image2
-Must remain consistent:
+Must maintain consistency in:
 Face
 Hairstyle
-Clothing
+Clothes
 Sword
 Body proportions
-Underworld Envoy
+Netherworld Envoy
 Use throughout:
 Same bronze half-mask
-Same set of black-grey robes
+Same set of black-gray robes
 Same Soul-Luring Lantern
 Spatial Continuity
 The following must be continuous:
@@ -806,21 +1129,20 @@ Main light direction
 All shots occur in the same location.
 Background extends naturally based on reference images.
 Do not change scene identity.
-
 XI. Cinematography and Character Performance
 First Shot
 Photographic Function
 Highlight:
 Strange visitor
 Distance relationship between characters
-Junior Sister actively blocking in front of Senior Sister
+Junior Sister actively blocks in front of Senior Sister
 Visual Misdirection
 Make the audience think the Senior Sister is the target.
-But the Envoy's final look at the Junior Sister must serve as a foreshadowing detail understandable in retrospect.
+But the envoy's final glance at the Junior Sister must become a foreshadowing that can be understood retrospectively.
 Second Shot
 Photographic Function
-Utilize the positioning of the real Senior Sister behind the Junior Sister to create:
-Mismatch between sound and actual source.
+Utilize the positioning where the real Senior Sister is behind the Junior Sister to create:
+Mismatch between sound and actual sound source.
 Performance Focus
 The Junior Sister's reaction upon hearing the familiar voice must be:
 Natural
@@ -828,101 +1150,98 @@ Instinctive
 Faster than rational judgment
 Third Shot
 Photographic Function
-Complete the causal reversal using one clear sword action.
+Complete causal reversal using one clear sword-blade action.
 Performance Focus
-After noticing the danger, the Senior Sister's eyes tighten instantly.
+After perceiving danger, the Senior Sister's eyes tighten instantly.
 Her reaction reflects:
 Accurate judgment
 Decisive action
 Restrained power
-Global Performance Principles
+Global Performance Principle
 Character performances remain restrained and realistic.
 Do not arrange lengthy fights.
 Do not add:
-Large-scale magic
+Large-scale magic techniques
 Lightning
-Monster transformations
+Ghost deformations
 World collapse
-
 XII. Sound Design
-Ambient Sounds
+Environmental Sounds
 Maintain authentic ancient-style spatial sounds.
 Including:
 Natural wind
-Flowing water
+Water flow
 Distant environmental activity
 Movement of hair and sleeves
-Underworld Envoy
-Focus on:
+Netherworld Envoy
+Highlight:
 Envoy's footsteps
-Slight friction sound of the lantern handle ring
+Slight friction sound of copper lantern handle
 Soul-Luring Lantern
-Focus on:
-Abnormally clear familiar human voice from within the lantern, completely identical to the Senior Sister's timbre.
-Sound comes from the spatial position of the bronze lantern.
+Highlight:
+Extremely clear familiar human voice from within the lantern, completely consistent with Senior Sister's timbre.
+Sound comes from the spatial position of the copper lantern.
 Soul-Binding Thread
-Small strange sounds appear when the red thread tightens.
+Small abnormal sounds appear when the red thread tightens.
 Cannot use large-scale supernatural explosion sound effects.
 Silver Sword Cutting Thread
 When the Senior Sister cuts the red thread, suddenly appear:
-Short, clear sword wind-breaking sound.
+Short, clear sound of sword blade breaking wind.
 Final Dialogue
 Music quickly lowers after the red thread is cut.
-Let the last two lines of dialogue enter the audience's ears naturally:
+Let the last two lines of dialogue naturally enter the audience's ears:
 [Junior Sister] "Is it looking for me?"
 [Senior Sister] "It waits for me to call you."
-
 XIII. Image and Generation Restrictions
 Image Requirements
-Cinematic-grade photorealism
-Realistic human anatomy
+Cinematic-grade live-action realism
+Realistic human body structure
 Clear facial features
 Realistic silk fabric movement
-Natural environmental dynamics
+Natural environment dynamics
 Stable geographic space
-Precise sword actions
+Precise sword-blade actions
 Restrained supernatural effects
-Strict Prohibitions
+Strictly Prohibited
 Lengthy fights
-Large-scale magic
+Large-scale magic techniques
 Lightning
-Exaggerated monster transformations
+Exaggerated ghost deformations
 World collapse
-Face swapping
+Character face swapping
 Clothing changes
-Confused weapon ownership
+Weapon ownership confusion
 Sudden changes in character positions
 Changes in Soul-Luring Lantern appearance
-Early appearance of Soul-Binding Thread
-Multiple Soul-Binding Threads
-Broken red threads reconnecting themselves
-Background actively triggering the story
+Premature appearance of soul-binding thread
+Multiple soul-binding threads
+Broken red thread reconnecting itself
+Background actively triggering story
 Titles
 Subtitles
-Explanatory text
+Descriptive text
 Extra lines
-
 XIV. Final Acceptance Criteria
 Must clearly present within the full 15 seconds:
-The Underworld Envoy arrives, claiming to take the White-Robed Sword Immortal.
-The Junior Sister actively stands in front of the Senior Sister.
-The Envoy secretly shifts his true attention to the Junior Sister.
+The Netherworld Envoy arrives, claiming to take the White-Robed Sword Immortal.
+The Junior Sister actively blocks in front of the Senior Sister.
+The envoy secretly shifts true attention to the Junior Sister.
 The Soul-Luring Lantern emits a voice completely identical to the Senior Sister's, while the real Senior Sister does not speak.
-The Junior Sister instinctively answers, causing the Soul-Luring Lantern to release the only Soul-Binding Thread.
+The Junior Sister instinctively responds, causing the Soul-Luring Lantern to release the only soul-binding thread.
 The red thread accurately wraps around the Junior Sister's right wrist.
-The Senior Sister draws her silver sword and cuts the red thread with one strike.
-The Junior Sister realizes she is the true target.
+The Senior Sister draws the silver sword, cutting the red thread with one stroke.
+The Junior Sister discovers she is the true target.
 The Senior Sister says: "It waits for me to call you."
-The Soul-Luring Lantern relights, the Underworld Envoy does not retreat, danger persists.
+The Soul-Luring Lantern lights up again, the Netherworld Envoy does not retreat, danger persists.
 Final Effect
 Let the audience discover:
-The most familiar voice, the easiest one to let guard down for, might also be the most dangerous part of the entire trap.
+A most familiar voice, easiest to lower guard against, might also be the most dangerous part of the entire trap.
 
 XV. Negative Prompt
 blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117458722943553536/img/0nIGtxVQ33xlIS7U.jpg" width="600" alt="Seedance 2.0 Mini Cinematic Xianxia Horror Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117458722943553536/img/0nIGtxVQ33xlIS7U.jpg" width="600" alt="Seedance 2.0 Mini Xianxia Horror Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13438)**
 
@@ -6606,229 +6925,6 @@ Only this one woman in the frame. No duplicates, ghosts, facial distortion, clip
 **Author:** [Eli Ha](https://x.com/FromSummerF) | **Source:** [Link](https://x.com/FromSummerF/status/2111107921316852127) | **Published:** Oct 16, 2026
 
 ---
-### Seamless Loop Product Video Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed prompt for generating an 8-second seamless loop orbiting video of a product, suitable for Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Generate an 8-second seamless loop orbiting video based on the uploaded product reference image. The subject is completely frozen; the product does not rotate. The camera orbits 360 degrees around the subject along a horizontal circular track at a constant speed, height, and distance. From 0–2s: front to right side. From 2–4s: right side to back. From 4–6s: back to left side. From 6–8s: left side back to front. At the 8th second, precisely return to the starting camera position and composition for a seamless loop. Prohibit push/pull, zoom, shake, jump cuts, subject rotation, or part deformation. Keep lighting, materials, background, and reflections continuous and consistent. No subtitles, text, watermarks, or narration.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111022723648692224/img/jigbacq0gScBd5Nl.jpg" width="600" alt="Seamless Loop Product Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12634)**
-
-**Author:** [fdc888](https://x.com/laohong0606) | **Source:** [Link](https://x.com/laohong0606/status/2111023579156680963) | **Published:** Oct 16, 2026
-
----
-### Surreal Blue Window Art Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex multi-shot prompt for generating a surreal cinematic art video featuring floating figures, smoke, and glowing blue windows.
-
-#### 📝 Prompt
-
-```
-Create a 12.8-second surreal cinematic art video in 16:9 format, with a deep black background, electric-blue windows, and monochromatic smoke.
-
-SHOT 1 (0:00–0:01): A single glowing blue four-pane window contains a human figure floating horizontally above a faint rocky ledge.
-
-SHOT 2 (0:01–0:03): The window dissolves into darkness, leaving the same floating human figure in grayscale as thin smoky strands emerge around the body.
-
-SHOT 3 (0:03–0:05): Feather-like smoke filaments curl into an elongated elliptical ring around the suspended figure.
-
-SHOT 4 (0:05–0:07): Gray-white smoky ribbons sweep horizontally around the body, stretching and flowing through the black environment.
-
-SHOT 5 (0:07–0:08): The smoke dissolves as a glowing blue window smoothly reappears behind the floating figure.
-
-SHOT 6 (0:08–0:10): The single window expands into multiple irregularly arranged blue windows, each containing a human figure in a different floating pose.
-
-SHOT 7 (0:10–0:12.8): Reveal the complete installation of glowing blue windows against a dark textured background, with suspended figures and subtly shimmering light.
-
-STYLE & MOTION: Surreal fine-art cinematography, deep blacks, cold blue illumination, grayscale figures, delicate smoke, volumetric lighting, subtle film grain, smooth morphing transitions, steady wide camera, consistent human anatomy and clothing.
-
-NEGATIVE PROMPT: No eyes, eyeballs, colorful neon, bright rooms, sudden cuts, fast spins, abrupt zooms, distorted anatomy, extra limbs, unintended duplication, text, logos, or watermarks.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110947855406080000/img/h_AHjQJABwOETClb.jpg" width="600" alt="Surreal Blue Window Art Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12582)**
-
-**Author:** [Sᴀɪʀᴀ](https://x.com/itsSaira_1) | **Source:** [Link](https://x.com/itsSaira_1/status/2110947923412566187) | **Published:** Oct 16, 2026
-
----
-### Giant Cat Bathing Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A humorous and detailed prompt for creating a video of a Korean woman bathing and drying an enormous fluffy Ragdoll cat.
-
-#### 📝 Prompt
-
-```
-30-second ultra-realistic cinematic video prompt: Create a heartwarming, funny, and visually stunning 30-second video featuring an enormous, fluffy white-and-gray Ragdoll cat with beautiful blue eyes, a pink nose, and extremely soft, thick fur, sitting outside a modern house. A beautiful young Korean woman with long, straight dark hair, a natural smile, and a casual navy-blue outfit approaches the giant cat on a sunny afternoon. She gently sprays water over the cat using a green garden hose, soaking its thick fur while the cat remains calm and adorable. Show realistic water droplets falling from its fur, with detailed wet hair and natural feline expressions. The woman smiles and laughs while carefully washing the giant cat in the driveway, surrounded by greenery and warm sunlight. Transition smoothly to a cozy garage scene where she uses a handheld hair dryer to dry the enormous cat's fluffy coat. The cat closes its eyes happily as warm air blows through its fur, making it look even bigger and funnier. Use realistic animal movements, natural human expressions, cinematic camera angles, soft golden-hour lighting, detailed fur physics, and seamless transitions. Maintain consistent character appearances throughout the video, with photorealistic quality, natural ambient sounds, and no text, logos, or watermarks.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110921791401295872/img/LTge8nSIPaG23dMW.jpg" width="600" alt="Giant Cat Bathing Scene">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12583)**
-
-**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2110921969420177453) | **Published:** Oct 16, 2026
-
----
-### Seedance 2.5 Industrial Warehouse Fight Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Detailed prompt for generating a surrealistic fight sequence in an industrial warehouse.
-
-#### 📝 Prompt
-
-```
-Create a 15-second surrealist cinematic combat sequence inside a dimly lit industrial warehouse at night, showcasing an intense confrontation between two skilled adult fighters, combining explosive real-time action with dramatic ultra-slow-motion impact moments. The air is filled with dust, concrete debris litters the floor, overhead lights flicker slightly, and cold light streams through high warehouse windows. [00:00-00:03] Approach: Start with a low-angle handheld tracking shot as Fighter A charges toward Fighter B. Fighter B steps forward and quickly throws a right punch. Fighter A barely dodges sideways, the fist passing centimeters from his face, while the camera rapidly orbits around both fighters. Keep the action fast, realistic, and physically credible. [00:03-00:06] First Slow-Motion: Fighter A immediately counters with a powerful spinning kick. As the leg approaches Fighter B, smoothly transition to extreme slow motion. Track the kick from a close-up side angle, showing clothing stretching due to rotational force, hair floating in the air, and dust particles swirling around them. Fighter B raises an arm to block. The kick hits the defense, compressing the fabric and naturally pushing the defender's body off-center due to impact. Dust bursts from the cuffs, and the camera smoothly circles this frozen moment. [00:06-00:09] Combo: Naturally switch back to real-time speed. Fighter B stumbles a step, regains balance, ducks under another strike, then quickly counters to the midsection. Fighter A blocks, grabs the attacking arm, uses the opponent's momentum to spin and redirect him toward a nearby concrete pillar. The camera follows closely, moving dynamically at shoulder height while maintaining clear spatial awareness and readable choreography. [00:09-00:12] Second Slow-Motion: Fighter B pushes off the ground, reversing momentum, and initiates a sweeping reverse kick. Transition to slow motion during the rotation. The camera drops to floor level, skimming just above the leg as it sweeps through floating dust. Fighter A leaps over the kick, body briefly suspended above the rotating leg, with loose clothing, hair, dust, and small debris responding naturally to the movement. The camera passes beneath the airborne fighter, then speed begins to recover. [00:12-00:15] Final Exchange: As Fighter A lands, explosively return to real-time, immediately turning to deliver a final controlling strike, which Fighter B blocks with both arms. Briefly enter slow motion at the moment of contact, emphasizing physical compression, muscle tension, flying dust, and the transfer of power through both bodies. They separate and slide backward across the dusty floor, maintaining eye contact, as the camera widens out. Use strong velocity gradients between real-time action and ultra-slow-motion impacts rather than keeping the entire fight slow. Choreography must remain continuous, readable, realistic, and physically coherent. Maintain consistent fighters, clothing, injuries, environment, lighting, positions, and movement directions throughout. Realistically depict momentum, balance, foot placement, defensive reactions, cloth physics, hair physics, impact compression, airborne dust, natural motion blur, and cinematic lens parallax. Prohibit teleportation, impossible body rotations, duplicate limbs, extra fingers, disintegrating anatomy, floating characters, zero-gravity movement, excessive destruction, gore, blood, weapons, superhero abilities, unnecessary cuts, subtitles, text, or logos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110910614545829888/img/T0-jMgo59G91jzE2.jpg" width="600" alt="Seedance 2.5 Industrial Warehouse Fight Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12633)**
-
-**Author:** [hxhxhx0916](https://x.com/hxhxhx0916) | **Source:** [Link](https://x.com/hxhxhx0916/status/2110911411295748373) | **Published:** Oct 16, 2026
-
----
-### Seedance 2.0 Helicopter Trampoline Stunt Video Prompt
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A detailed prompt for generating a 15-second realistic video using Seedance 2.0, depicting a protagonist jumping from a helicopter onto a trampoline and bouncing back up, with specific camera movements, character actions, and dialogue instructions.
-
-#### 📝 Prompt
-
-```
-[Priority Reference Image & Name Lock]
-@image1 = Descriptor Name: Protagonist
-Establish the protagonist's identity, face, hairstyle, body type, clothing, accessories, equipment, and shoe appearance standards.
-In the subsequent text, use only the names fixed above.
-15 seconds, 3:4 aspect ratio, photorealistic live-action, set on a bright blue sea during daytime, continuous video with audio. No scene cuts throughout. Use the reference image only for the protagonist's appearance; do not incorporate three-view diagrams, text, or sample layouts into the video. Maintain the character's identity, clothing, accessories, and physique throughout. No BGM, subtitles, captions, or logos.
-Characters: Protagonist, Crew A, Crew B, Crew C (4 total). A medium-sized civilian filming helicopter with a white body and blue lines. Black skid landing gear, wide open side sliding door, external step for boarding, dark gray interior. The helicopter maintains a constant altitude above the sea surface from start to finish. Coastline visible in the distance, circular trampoline placed far below on the sea surface. The protagonist stands on the external step outside the open door, looking down at the distant trampoline. Crew A stands near the door wearing a blue windbreaker, black life vest, and aviation communication headset. Crew B stands inside near the door wearing an orange windbreaker, black life vest, and aviation communication headset. Crew C is deeper inside the cabin wearing a green windbreaker, black life vest, and aviation communication headset. Faces of all three crew members are visible. Camera starts from the same shooting position near the helicopter door, slightly wide-angle, capturing the protagonist, three crew members, and the sea beyond the door. Keep the camera installation position fixed, adjusting orientation up/down according to falling and rising motions. Wind noise and helicopter rotor sounds continue naturally throughout.
-0.0-3.0s: Crew A looks at the protagonist, smiles, and asks "Ready?". The protagonist turns to Crew A, nods, then looks directly into the camera lens, smiling with tension and excitement, and says energetically in natural Japanese "Okay, I'm going!". Visible mouth movements match full dialogue for both. Crew B smiles and lightly raises fist, Crew C laughs happily, leans forward slightly and nods. After speaking, the protagonist takes a deep breath, looks down at the circular trampoline, kicks off the external step, and jumps out.
-3.0-6.2s: As the protagonist jumps out of the helicopter, Crew B shouts "Go!" towards them. Camera quickly tilts down while maintaining position near the door, tracking the protagonist falling into the sea, centered in frame. Protagonist extends body while falling, becoming smaller as distance increases. Circular trampoline below becomes visible, protagonist approaches its center. While camera points down, three crew members are out of frame, but cheerful cheers are heard from inside the cabin. Rotor and wind sounds continue.
-6.2-7.7s: Protagonist lands near the center of the circular trampoline on the sea surface. Taut jumping surface sinks deeply under protagonist's weight, strongly rebounds immediately after descent stops. Camera remains pointing down, showing landing, sinking of jumping surface, and reversal into upward bounce as one continuous motion. Landing impact sound and rebound sound are audible.
-7.7-11.6s: Protagonist bounces high towards helicopter due to rebound momentum, pulls knees to chest, folds body small, rotates vigorously in mid-air. Camera adjusts orientation upward to match rising protagonist from same shooting position. Protagonist grows larger in frame as they approach, open door and external step become visible again. Protagonist unwinds rotation, extends legs, returns both feet to the same external step they jumped from, standing stably in same position, body orientation, and stance as beginning. Helicopter altitude above sea remains unchanged.
-11.6-15.0s: Camera returns to initial orientation around the door. Crew A claps smilingly towards protagonist. Crew B joyfully raises fist, shouting short "Yay!!". Crew C sees protagonist, smiles and claps hands. Protagonist faces camera lens with bouncing breath, eyes shining, expressing excitement and joy of safe return, saying brightly in natural voice "Whoa! Whoa, that was the best!". During speech by Crew B and protagonist, match mouth movements to full dialogue. Final frame shows protagonist standing on same initial external step, having finished speaking to camera with excited expression, Crew A and C clapping behind, Crew B rejoicing. End at 15 seconds with continuing crew applause and rotor sounds.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110874497792573441/img/JxHJnlKIe6vqYRbF.jpg" width="600" alt="Seedance 2.0 Helicopter Trampoline Stunt Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12587)**
-
-**Author:** [M7［mi7］AI](https://x.com/mi7_crypto) | **Source:** [Link](https://x.com/mi7_crypto/status/2110875842343768404) | **Published:** Oct 15, 2026
-
----
-### Tokyo Night Travel Vlog Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a cinematic travel vlog-style video of a woman exploring Tokyo at night, featuring neon lights, convenience stores, and scenic spots.
-
-#### 📝 Prompt
-
-```
-Create a 26-second ultra-realistic cinematic travel video featuring a beautiful young Korean woman exploring the streets of Tokyo, Japan, at night and during sunset, wearing a stylish black leather jacket with natural makeup and soft, wavy black hair. Begin with a rear-view shot of her walking across a busy Tokyo intersection surrounded by colorful neon signs, wet streets, and glowing city lights. Show her smiling warmly while holding a cute Japanese rice ball inside a brightly lit convenience store, followed by a candid moment of her buying a drink from a vending machine. Capture her walking beneath a traditional red Japanese torii gate, then turning back toward the camera with a playful smile in a narrow street decorated with glowing Japanese lanterns. Show her taking a casual selfie on a peaceful residential street and enjoying the riverside scenery as a train passes in the background. Include a cozy bookstore scene where she excitedly opens a travel book and smiles at the camera, followed by a peaceful sunset moment sitting beside the river with a takeaway drink. End with beautiful nighttime city lights, a joyful handheld selfie on an elevated bridge, and her smiling with the Tokyo skyline behind her. Use natural handheld smartphone camera movements, smooth cinematic transitions, authentic candid expressions, realistic skin texture, soft film grain, nostalgic early-2000s MiniDV aesthetics, moody teal-green night tones, warm sunset lighting, and shallow depth of field. Maintain consistent facial identity, hairstyle, outfit, and body proportions throughout the entire video, with realistic movements and a spontaneous travel-diary feeling, in a 16:9 widescreen aspect ratio.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110596831482900480/img/pEzoaxwQMjlLhpl9.jpg" width="600" alt="Tokyo Night Travel Vlog Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12584)**
-
-**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2110597035502272787) | **Published:** Oct 15, 2026
-
----
-### Sci-Fi Horror Lab Experiment Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a cinematic sci-fi horror scene in a laboratory, featuring a scientist, a mysterious entity, and dramatic lighting effects.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic sci-fi horror scene inside a futuristic high-security research laboratory. A young female scientist wearing a white lab coat carefully conducts a mysterious experiment in a sterile laboratory filled with glass chambers, advanced scientific equipment, glowing blue monitors, and reflective metallic surfaces. She examines a strange biological specimen, then suddenly notices something terrifying. A pale, mysterious humanoid entity with sunken dark eyes and an unsettling expression appears inside the laboratory. Its appearance is disturbing yet realistic, with subtle facial movements and lifelike skin texture.
-
-The laboratory lights begin flickering as a red emergency alarm activates. Scientists rush through a glass corridor while white vapor bursts from a containment chamber. The female scientist turns in shock as the facility enters lockdown. Red warning lights illuminate the dark hallway, creating dramatic reflections on the glass walls. The mysterious entity remains visible behind reinforced glass at the end of the corridor.
-
-Visual style: Photorealistic science-fiction thriller, cinematic horror atmosphere, futuristic biotechnology laboratory, volumetric lighting, realistic facial expressions, atmospheric fog, dramatic red and cyan lighting, detailed textures, shallow depth of field, slow cinematic camera movements, suspenseful pacing, professional Hollywood film quality, 4K detail, vertical 9:16 composition.
-
-Negative prompt: Cartoon, anime, low resolution, blurry faces, distorted anatomy, extra limbs, unrealistic movement, oversaturated colors, text overlays, watermarks, inconsistent characters, flickering visual artifacts.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110596340640296960/img/NlEEzAkreEllPatu.jpg" width="600" alt="Sci-Fi Horror Lab Experiment Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12585)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2110596402556608827) | **Published:** Oct 15, 2026
-
----
-### Product Presentation Video with AI Dialogue
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a realistic product presentation video featuring a woman holding a specific product from reference images, preserving exact details and adding natural dialogue.
-
-#### 📝 Prompt
-
-```
-A confident, attractive woman from Image 1 holds the product from Image 2 for a presentation. Preserve the product’s exact appearance, design, colors, and details without alterations. Generate natural English dialogue suited to the scenario, with realistic expressions and smooth movements.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110586692981923840/img/O9ggPIEmigfihsdm.jpg" width="600" alt="Product Presentation Video with AI Dialogue">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12581)**
-
-**Author:** [Meenakshi Yadav](https://x.com/MeenakshiYACS) | **Source:** [Link](https://x.com/MeenakshiYACS/status/2110586865426546858) | **Published:** Oct 15, 2026
-
----
-### White Robe Swordsman Dragon Battle Scene
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Detailed shot-by-shot video prompt for a cinematic battle between a white-robed swordsman and a water dragon, generated with Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-White Robed Swordsman: Dragon Abyss Showdown
-[Act 1 | Summoning 0-10s]
-0-3s: A white-robed warrior stands in the shallow waters of a dark canyon riverbank, surrounded by black cliffs, with pale sandbars in the distance. Cold moonlight falls through cracks at the top; the water surface is damp, mist permeates. The warrior holds an unsheathed long sword in a ready stance, blue-white lightning flowing along the blade. Medium shot, slow dolly in. Lightning particles, sword qi, waterfall mist.
-3-5s: The warrior spins rapidly and swings the sword, lightning arcs stretching out, then charges forward, lightning bursts. Tracking orbit turning into wide-angle distant view. Lightning trails, afterimages, exploding water splashes, sonic boom shockwaves.
-5-7.5s: A giant water dragon rises from the surface, skeleton forming, water body taking shape. Medium shot dolly. Fluid effects, dragon whiskers fluttering, electric arcs wrapping around.
-7.5-10s: The water dragon circles the warrior at high speed, rushes toward the camera, then turns back to the side. Dragon eyes glow, water splashes fly. Side tracking turning into low-angle upward shot. Water dragon vortex, mist, water flow particles.
-[Act 2 | Final Battle 10-27s]
-10-11.5s | Dragon Head Dive: The dragon head dives down, the warrior explodes up from a half-kneel, shockwave lifting white robes and water surface, bare sword bursting with lightning, counter-thrusting upwards. Ultra-low angle upward shot, rising from feet near water surface, camera passing through sword light. Radial explosion of water surface, overexposed lightning, white light trails.
-11.5-13s | Frontal Collision: Sword tip collides with dragon head, ring-shaped shockwave lifts shallow water. Warrior flips in mid-air, slashes three times grazing the dragon head, compressed into three flash moments. Extreme low angle upward shot, rotating 180° with character, cutting to 90° vertical overhead shot. Dragon body and lightning form a huge spiral on water surface.
-13-15s | Dragon Body Chase: Warrior races along dragon body, lightning-style teleportation, toes touch water causing splashes. Dragon tail sweeps horizontally, warrior bends waist to dodge, reverses spin and slashes sideways. 24mm ultra-wide high-speed side follow, dragon tail blocks lens, camera rolls. Afterimages, water splashes, lightning trails.
-15-17s | Extreme Dive: Warrior jumps to high ground in canyon, shrinks to a white dot in darkness, then falls vertically head-down like a white thunderbolt targeting dragon head. Top 90° vertical overhead shot falling at same speed, last 0.2s cuts to ultra-low angle near water surface. Ground, water surface, dragon body rapidly enlarging.
-17-19s | Close Combat: Dragon head turns to bite, fangs graze lens. Warrior teleports away, backhand slash across dragon neck, dragon body explodes into water flow then reassembles. 14-18mm extreme wide angle, strong perspective, camera passes through dragon mouth, real-time speed throughout. Water flow explosion, scattered droplets.
-19-21.5s | Surrounding Duel: Water dragon spirals around warrior forming huge water dragon vortex. Warrior at storm center, flashes to four positions slashing one sword each time, four cold white sword lights intersect as lightning patterns. High-speed 360° orbit, height continuously changes, sudden rise from water surface then vertical dive. Water dragon vortex, lightning patterns, afterimages.
-21.5-23.5s | Head-on Charge: Giant dragon rushes along entire canyon length, size fills screen. Warrior charges back explosively, distance zero, disappears just before collision. Ultra-low angle frontal composition, warrior as tiny white shadow in center. Speed lines, water surface shockwaves.
-23.5-25.5s | Reverse Slash Dragon Head: Warrior teleports above dragon head, flips in air, grips sword with both hands and strikes downwards, lightning penetrates entire water body. Extreme upward shot from directly below dragon head towards sky, camera slams vertically towards water surface following sword tip. Lightning penetration, backlight silhouette.
-25.5-27s | Ultimate Water Explosion: Sword light touches water, shallows explode into huge circular water burst. Dragon body cut into countless floating water droplets, briefly freeze then all scatter. Instant cut to extreme high altitude 90° bird's eye view, scale contrast. Floating droplets, ring-shaped water explosion.
-[Act 3 | Return to Silence 27-30s]
-Water drops fall back to river surface, divine dragon dissipates into thin mist. Warrior stands in center of shallow water, back to camera, right hand naturally lowered, residual lightning on sword blade gradually extinguishes, white robe and hair sway gently in wind. Slow pull back from behind character, revealing empty dark canyon waters, only last ripple remains. Thin mist, ripples, fading lightning.
-[Forced Lock] Throughout, hold only one unsheathed long sword, no scabbard, no drawing/storing sheathing actions. Maintain white-robed warrior styling and dark canyon environment consistency. No dialogue, no extra characters, no new weapons.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110224806838947841/img/HEhGP4a5I8PkfJHX.jpg" width="600" alt="White Robe Swordsman Dragon Battle Scene">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12487)**
-
-**Author:** [Zidan 子丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2110225020278743421) | **Published:** Oct 14, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -6890,6 +6986,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-04T00:47:48.912Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-04T12:11:19.897Z</sub>
 
 </div>
