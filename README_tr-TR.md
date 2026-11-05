@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6649** |
+| 📝 Toplam İstem | **6654** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-11-05** |
 
@@ -361,6 +361,194 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Büyücü vs Zırhlı Devler Savaşı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 için çölde devlerle savaşan bir büyücü kadın içeren ultra gerçekçi sinematik fantastik savaş sahnesi oluşturmaya yönelik detaylı video istemi.
+
+#### 📝 İstem
+
+```
+Zarif koyu mavi büyülü bir kostüm ve sivri uçlu bir büyücü şapkası giyen güçlü genç bir büyücünün yer aldığı, ultra gerçekçi sinematik bir fantastik savaş videosu oluştur. Onu, uçsuz bucaksız bir çöl savaş meydanında korkunç zırhlı devlerden oluşan devasa bir orduyla savaşırken göster. Güçlü, parlayan kırmızı büyü enerjisini serbest bırakarak patlayıcı ateş dalgaları ve girdap şeklinde toz fırtınaları yaratsın. Destansı ordu hücumlarını, dramatik büyü sahnelerini, yoğun aksiyonu, gerçekçi karakter hareketlerini, sinematik kamera açılarını ve nefes kesen bir final sahnesini ekrana yansıt. Karanlık fantastik atmosfer, Hollywood yapımı gişe rekorları kıran film tarzı, ultra detaylı, 4K, fotogerçekçi, akıcı sinematik hareket.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118203237866299392/img/QuxxR-Pcd4_Uo3wA.jpg" width="600" alt="Büyücü vs Zırhlı Devler Savaşı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13540)**
+
+**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2118203280501465535) | **Yayınlandı:** Nov 5, 2026
+
+---
+### DIY: Araba Lastiğinden Parlayan Sehpa Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kirli bir araba lastiğinin temizlenip LED ışıklı parlayan bir sehpa dönüştürülmesini gösteren, fotogerçekçi dikey video istemi ile DIY projesi.
+
+#### 📝 İstem
+
+```
+Dikey DIY videosu, fotogerçekçi tarz. Siyah beyzbol şapkalı, gri tişörtlü ve siyah kargo pantolonlu bir adam, saksı bitkilerinin bulunduğu kırmızı tuğla duvarın yanındaki beton terasta diz çökmüş haldedir. Çamurla kaplanmış kirli bir araba lastiğine köpüren temizleyici sıkar, beyaz köpükler aşağı süzülene kadar fırçayla ovalar, ardından bir bezle lastiği tertemiz ve simsiyah hale getirir. Lastiğin içine yuvarlak bir kontrplak disk yerleştirir, sarı akülü matkapla vidaları sıkarak üç açılı ahşap bacağı takar, lastiği dik çevirip sağlam bir masa tabanına dönüştürür ve üzerine yuvarlak bir cam tabla koyar. İç kenara sıcak beyaz bir LED şeridi dolandırır, camı tekrar yerine yerleştirir ve lastiğin yanından güç kablosunu prize takar; böylece LED'ler camın altından parlar. Sahne, bej köşe koltuk, ayaklı lamba ve yuvarlak jüt halının bulunduğu, ışıldayan lastik sehpanın artık başrolde yer aldığı samimi bir gece oturma odasına geçer. Kamera yavaşça masa yüzeyine yaklaşır ve karanlığa doğru uzanan, tekrar eden altın rengi LED halkalardan oluşan büyüleyici bir sonsuz ayna tünelini gözler önüne serer. Sıcak ortam aydınlatması, akıcı kamera hareketleri, tatmin edici dönüşüm montajı, yüksek detay, gerçekçi dokular ve yansımalar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118023563340840960/img/PDNKVzSwDXpYGSVu.jpg" width="600" alt="DIY: Araba Lastiğinden Parlayan Sehpa Dönüşümü">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13541)**
+
+**Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2118023608815571361) | **Yayınlandı:** Nov 4, 2026
+
+---
+### Minimalist Yatak Odası Terrazzo Zemin Vitrini
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Benzersiz terrazzo zemin desenleri ve yumuşak doğal ışıklandırmaya sahip aydınlık, minimalist bir yatak odasına odaklanan sinematik iç tasarım video istemi.
+
+#### 📝 İstem
+
+```
+Beyaz duvarları olan ve sağdaki büyük penceresinden yumuşak doğal gün ışığı alan aydınlık, minimalist bir yatak odasının yavaş, akıcı ve sinematik bir yakınlaşma (push-in) çekimi. Sahnenin odak noktası; kanallı kapitone başlıklı, bej döşemeli, tertemiz beyaz çarşaflarla donatılmış, iki adet yanık turuncu dekoratif yastık ve ayak ucuna serilmiş dokulu terakota-turuncu bir yatak örtüsü bulunan bir yatak. Sol tarafta, parlayan seramik bir masa lambası ve minik yeşil bir bitkinin yer aldığı küçük ahşap bir komodin duruyor. Yatağın üzerinde ise sıcak bej ve turuncu tonlarında çerçeveli soyut bir sanat baskısı asılı. Pencereye yakın köşede, beyaz bir saksı içindeki yapraklı zeytin ağacı mekâna doğal bir doku katıyor. Zemin ise sahnenin yıldızı: Işığı yansıtan, yoğun turuncu ve yeşil yonca şeklinde motiflerle kaplı parlak cilalı terrazzo karolar. Hafif kamera hareketi, ince yumuşak gölgeler, sıcak ve huzurlu atmosfer, fotogerçekçi iç tasarım sunumu, 4K kalite, insan yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118022345185013760/img/dIURjjiLlBdkI0uC.jpg" width="600" alt="Minimalist Yatak Odası Terrazzo Zemin Vitrini">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13543)**
+
+**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2118022390194098208) | **Yayınlandı:** Nov 4, 2026
+
+---
+### Absürt Tavşan Müzik Videosu
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Çince şarkı söyleyen dönen bir tavşan karakterini içeren, belirli ses ve görsel yönergelerle sürrealist animasyonlu bir müzik kısa filmi oluşturmak için kullanılan istem.
+
+#### 📝 İstem
+
+```
+10 saniyelik, dikey ekran formatında absürt bir animasyonlu müzik kısa filmi oluştur. Sahne; düşük doygunluklu soğuk gri tonlara sahip, gri, loş ve boş bir iç mekândır. Duvarlar ve zemin sade ama bunaltıcı bir his verirken, kamera sabit birinci şahıs perspektifindedir. Ana karakter, klasik animasyon tarzında tasarlanmış özgün bir tavşandır. Tavşanın tüm vücudu pürüzsüz ve tüysüz bir deriyle kaplıdır; ten rengi saf grimsi beyaz, gözleri hafifçe büyümüş ve yüzünde donuk bir gülümseme vardır. Genel tasarım, mevcut hiçbir IP karakterini andırmamaktadır. Açılışta tavşan kameraya çok yakın ve doğrudan ona dönük şekilde durur; yarım saniye boyunca havada hareketsiz asılı kalır ve duygusuz, boğuk, hafifçe bozulmuş bir sesle net bir biçimde şu cümleyi söyler: "Merhaba dostum." Bir saniye sonra tavşan aniden yukarı fırlar ve son derece hızlı, çılgınca, kesintisiz bir dönüşe geçerek havada kendi dikey ekseni etrafında yüksek hızda dönmeye başlar. Bu hareket bulanık bir dönüş izi oluştururken, grimsi beyaz tüysüz tavşan silueti hâlâ seçilebilir durumdadır. Kamera boyunca birinci şahıs perspektifini korur ve hızla tavşanı takip ederek dönen karakteri her zaman kare merkezinde tutar. Arka plandaki oda güçlü bir dönme hissi ve hafif bir kamera sarsıntısı yaratırken, sahneye absürt, gergin ve hipnotik derecede tuhaf bir ritim hâkim olur. Yüksek hızda dönerken tavşan, boğuk bir şarkı sesiyle sürekli olarak şu sözleri söyler: "Bu anılar girdabı ~ beni yutmak üzere ~ lütfen beni bırakma ~" Vokal net bir şekilde duyulur; hızlı davul vuruşları, düşük frekanslı bas davullar ve elektronik eşlik ile desteklenir. Müziğin ritmi, dönüş hızıyla senkronize ilerler. Herhangi bir altyazı, metin, stilize yazı, filigran veya arayüz öğesi kesinlikle bulunmamalıdır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117995379132452864/img/Mo9ma7Oh-4KWWzvv.jpg" width="600" alt="Absürt Tavşan Müzik Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13542)**
+
+**Yazar:** [小喆（XiaoZhe）](https://x.com/XiaoZhe1984) | **Kaynak:** [Link](https://x.com/XiaoZhe1984/status/2117995741616721964) | **Yayınlandı:** Nov 4, 2026
+
+---
+### Seedance 2.0 Ev Ürünü Reklam Videosu İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 kullanarak sinematik bir ev ürünü reklamı oluşturmak için detaylı istem; fan ışığı estetiğine ve aile sahnelerine odaklanır.
+
+#### 📝 İstem
+
+```
+[Parametreler]
+16:9 yatay format, 15 saniye süre, tam referans kapasitesi.
+Ürün genel planları, yakın çekimler, malzeme detayları, bir kişinin vantilatörü açması, tüm ailenin kullanım sahnesi ve marka kapanış kartı dahil olmak üzere eksiksiz, sinematik bir ev ürün reklamını tek seferde oluşturun.
+İlk yarı: Keskin geçişler, hassas kamera hareketleri. İkinci yarı: Sıcak ve rahatlatıcı.
+
+[Referans Materyalleri]
+@Image1, vantilatörlü lambanın görünümü için tek referans kaynağıdır. Beş siyah kanadın, siyah dairesel gövdenin, gümüş çerçeve halkasının ve beyaz dairesel ışık yüzeyinin yapısını, şeklini, malzemesini ve oranlarını kesinlikle koruyun. Ürünü yeniden tasarlamayın.
+@Image2 yalnızca oturma odası mekânsal düzeni, bej kanepe, açık ahşap mobilyalar, boydan boya pencereler ve parlak doğal ışık için referans olarak kullanılacaktır. Görseldeki hava akışı çizgilerini, mavi okları veya kurulum şemalarını kopyalamayın.
+
+[Genel Görsellik]
+Gerçekçi, sinematik reklam kalitesi; aydınlık ve berrak; yumuşak doğal yan aydınlatma ile iç mekân aydınlatmasının birleşimi.
+Bej ve açık ahşap tonlarındaki ortam, siyah ürünle kontrast oluşturur. Siyah kabuk ince bir dokuya sahiptir, gümüş çerçevenin yansımaları abartısızdır, beyaz ışık yüzeyi katmanlarını koruyarak yumuşak bir şekilde parlar ve aşırı pozlanarak dümdüz beyaz bir lekeye dönüşmez.
+Kişilerin cildi gerçekçi ve doğaldır; cilt pürüzsüzleştirme efekti, yoğun turuncu-sarı filtreler kullanılmaz.
+Sabit kompozisyon, hassas kamera hareketleri, doğal alan derinliği. Abartılı haleler, karanlık teknoloji arka planları, havada süzülen partiküller veya görselleştirilmiş hava akışı yoktur.
+
+[Mekân ve Ürün Durumu]
+Tüm çekimler aynı modern aile oturma odasında geçer.
+Bej kumaş kanepe, açık renkli ahşap sehpa, hafif perdeler, birkaç yeşil bitki; düzenli ve gerçekten yaşanmış bir his veren bir ortam.
+Vantilatörlü lamba normal şekilde oturma odası tavanına sabitlenmiştir; ürün boyutu ve mekân oranları makuldür, ürün havada asılı durmaz ve kurulum süreci gösterilmez.
+Başlangıçta ışık yüzeyi zaten açıktır, kanatlar hareketsizdir; kişi vantilatörü çalıştırdıktan sonra kanatlar doğal bir şekilde döner, ışığın parlaklığı değişmeden kalır.
+Ürün görünümü, mekânsal düzen ve aydınlatma yönü tüm çekimlerde tutarlı kalır.
+
+[Karakterler]
+Doğal ve gerçekçi Çinli üç kişilik bir aile.
+Yaklaşık 30 yaşında anne; açık mavi keten gömlek, bej pantolon, omuz hizasında koyu renk saç, doğal ve hafif makyaj.
+Yaklaşık 35 yaşında baba; bej pamuklu kısa kollu tişört, koyu gri pantolon, kısa saç.
+Yaklaşık 6 yaşında çocuk; açık sarı pamuklu kısa kollu tişört, açık renkli pantolon.
+Kıyafetler günlük hayata uygun ve sadedir, hareketler basit ve doğaldır, karakterler kameraya bakmaz, abartılı reklam gülümsemeleri yapılmaz.
+
+[Sahne Akışı]
+
+Çekim 1 (0-2s):
+Oturma odasını hafifçe ileri doğru tarayan yatay geniş plan.
+Vantilatörlü lamba ilk karede net bir şekilde görünür; ürün ekranın üst orta kısmında yer alarak belirgin bir görsel merkez oluşturur, altında bej kanepe ve açık ahşap sehpa bulunur.
+Kamera ürüne doğru ilerleyerek vantilatörlü lamba ile oturma odası arasındaki ilişkiyi gösterir. Açılış pencerelerle, boş duvarlarla veya diğer boş karelerle yapılmamalıdır. Tavanda çok fazla boşluk bırakmayın.
+
+Çekim 2 (2-4s):
+Ürünün çapraz yakın çekimine sert geçiş, küçük yatay kaydırma.
+Beş siyah kanadın, dairesel gövdenin ve gümüş çerçeve halkasının yapısal ilişkisini net bir şekilde gösterin. Yumuşak yan aydınlatma ürünün hatlarını belirginleştirirken, arka plandaki oturma odası doğal bir şekilde bulanıklaşır.
+Kanatlar hâlâ hareketsizdir, ürün şekli sabittir; tam daire şeklinde dönüş veya hızlı kamçı panoramik çekimleri yapılmaz.
+
+Çekim 3 (4-7s):
+Lamba gövdesi ve gümüş çerçeve halkasının malzeme yakın çekimine sert geçiş, çerçeve halkası boyunca kısa mesafeli yatay hareket.
+Önce siyah kabuk ile gümüş çerçeve halkası arasındaki bağlantıyı gösterin, ardından yumuşak bir şekilde parlayan dairesel ışık yüzeyini kadraja alın.
+Gerçekçi, ince işlenmiş malzemeler ve abartısız yansımalar; mekanik iç aksamları göstermeyin, var olmayan parçalar uydurmayın, ışık yüzeyini aşırı pozlamayın. Geçişler müzik ritmine uygundur, görseller temiz ve keskindir.
+
+Çekim 4 (7-9s):
+Sabit orta yakın çekime sert geçiş.
+Anne kanepenin yanında durur, kadraj dışındaki bir kontrol cihazına uzanır, kısa ve net bir çalıştırma hareketi yapar, ardından doğal bir şekilde dönerek ailesine bakar.
+Kontrol cihazı ve parmakla butona basma detayları kadraja girmez; kurgusal uzaktan kumandalar oluşturmayın, buton yakın çekimleri yapmayın, doğrulanmamış çalışma işlevlerini göstermeyin.
+
+Çekim 5 (9-15s):
+Oturma odasının sabit yatay geniş planına geçiş, yavaşça geri çekilme.
+Vantilatörlü lamba ekranın üst orta kısmındadır, kanatlar orta düzeyde hareket bulanıklığıyla doğal bir şekilde dönerken siyah gövde, ışık yüzeyi ve gümüş çerçeve halkası sabit ve net kalır.
+Aşağıda üç kişilik aile kanepede oturmaktadır; çocuk anne babasının arasında oturup resimli bir kitap okur, ebeveynler birlikte bakmak için başlarını hafifçe eğer ve zaman zaman birbirlerine doğal bir şekilde gülümserler. Annenin saç uçları hafifçe hareket eder, abartılı bir şekilde savrulmaz.
+Vantilatörlü lamba ve aile net bir dikey katman oluşturur, her zaman aynı karede yer alır ve ürün çok küçülemez.
+Sahne sıcak, konforlu ve uyumludur; sarılma, eşya uzatma, sayfa çevirme yakın çekimi gibi karmaşık hareketler eklemeyin.
+Son 3 saniyede kompozisyonu sabit tutun, marka reklam metni için alt kısımda yeterli temiz arka plan bırakın, yüzleri veya ürünü kapatmayın.
+Kapanış, çalışan vantilatörlü lamba ile aile sahnesinin aynı karede olduğu görüntüde kalır; başka sahne geçişi yapılmaz, aniden kararma efekti uygulanmaz.
+
+[Kapanış Reklam Metni]
+12. saniyeden itibaren, alt ortada yer alan eksiksiz bir reklam sloganı yumuşak bir şekilde belirir:
+"Adam makes life more comfortable"
+
+Yukarıdaki metin eksiksiz gösterilmelidir; 'Adam' kelimesindeki 'A' büyük, diğer harfler küçük yazılır; ekleme, çıkarma veya değiştirme yapılmaz.
+Sade, net ve modern bir reklam fontu kullanın; metin rengi arka planla yeterli kontrast oluşturmalı, yazı boyutu net bir şekilde okunabilir olmalı ve tipografi sabit kalmalıdır.
+Metin 15. saniyenin sonuna kadar ekranda kalır; titreme, deformasyon, dönme veya uçuş efektleri olmaz.
+Metin yalnızca görüntünün üzerine bindirilir; ürün kabuğuna, duvarlara veya kişilerin kıyafetlerine basılmaz.
+Bu reklam sloganı dışında başka hiçbir metin yer almaz.
+
+[Müzik ve Seslendirme]
+İlk yarıda temiz, ritmik, modern ve hafif elektronik bir film müziği kullanılır; geçişler ritim vuruşlarına denk gelir.
+9. saniyede aile genel planına geçildikten sonra müzik yumuşar ve ısınır, ritim doğal bir şekilde yavaşlar.
+Az miktarda gerçekçi iç mekân ortam sesi bulunur; abartılı rüzgar sesleri, mekanik uğultular veya teknolojik ses efektleri kullanılmaz.
+Karakter diyaloğu yoktur.
+
+12-15. saniyeler arasında, sıcak, net ve tok bir yetişkin kadın sesiyle şu ifade tamamen söylenir:
+"Adam, makes life more comfortable."
+
+Adam ismi İngilizce telaffuzu olan /ˈædəm/ şeklinde okunur, vurgu ilk hecededir, harfler tek tek hecelenmez.
+Cümlenin tamamı yaklaşık 3 saniye sürer; ton doğal ve sakindir, uzatılmaz, bağırarak tanıtım yapılmaz, kasıtlı olarak duygusallaştırılmaz.
+Seslendirme başladığında, marka adının ve sloganın net bir şekilde duyulabilmesi için müzik seviyesi düşürülür.
+Reklam metni seslendirmeyle senkronize olur, müzik doğal bir şekilde sona erer.
+
+[Kesin Kurallar]
+Tüm çekimlerde aynı ürün, aynı oturma odası ve aynı aydınlatma yönü kesinlikle korunur.
+Her zaman beş kanat bulunur; kanat sayısı artırılamaz, azaltılamaz ve şekli değiştirilemez.
+Yalnızca kanatlar döner; lamba gövdesi, ışık yüzeyi, gümüş çerçeve halkası ve montaj parçaları dönmez.
+Kanatlar çalıştırılmadan önce hareketsizdir; çalıştırıldıktan sonraki durum geçişle gösterilir, hızlanma sürecini göstermek için sürekli yakın çekim yapılması gerekmez.
+Doğrulanmamış kısma, algılama, sessiz mod, enerji tasarrufu veya diğer performans göstergelerini eklemeyin.
+Ürün deformasyonu, havada asılı kalma, parça sökülmesi veya patlatılmış görünümler (exploded view) olmaz.
+Hava akışı çizgileri, mavi oklar, havada süzülen partiküller veya abartılı güçlü rüzgar efektleri yoktur.
+Kişilerin elleri doğal görünür; fazladan parmak veya uzuvların birbirine karışması durumu olmaz.
+Filigran, ekstra altyazı veya başka marka logoları bulunmaz.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117895646497898496/img/P_KLY38ljWxKfI20.jpg" width="600" alt="Seedance 2.0 Ev Ürünü Reklam Videosu İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13544)**
+
+**Yazar:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Kaynak:** [Link](https://x.com/Adam38363368936/status/2117895898999210440) | **Yayınlandı:** Nov 4, 2026
+
+---
 ### Seedance 2.5 Moda Özçekim Video İstemi
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -6537,154 +6725,6 @@ Devasa boyutlardaki günlük bir dünyada yolculuk yapan küçük, atletik bir k
 **Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2111311551710007388) | **Yayınlandı:** Oct 17, 2026
 
 ---
-### Kiraz Çiçeği Okul Kızının Yürüyüşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Demiryolu yakınında kiraz çiçekleri altında yürüyen bir Japon okul kızının 30 saniyelik sinematik videosunu oluşturmak için detaylı istem.
-
-#### 📝 İstem
-
-```
-Tam çiçek açmış nefes kesici kiraz ağaçlarıyla çevrili bir demiryolu geçidinde yürüyen genç bir Japon okul kızının 30 saniyelik ultra gerçekçi sinematik videosunu oluşturun. Geleneksel, beyaz çizgili lacivert Japon denizci tarzı okul üniforması, uyumlu pileli etek, siyah ayakkabılar ve siyah omuz çantası giyiyor; düzgün kısa siyah bob saç modeli ve siyah yüz maskesi takıyor. Videoyu, hassas soluk pembe ve beyaz çiçeklerle çevrili olarak demiryolu raylarının yanında yavaşça yürürken arkadan çekilen geniş bir sinematik açıyla başlatın. Kamera onu arkadan nazikçe takip ederken, hafif rüzgar ağaçların arasından geçtikçe saçlarının, okul üniformasının ve çantasının doğal hareketini yakalasın. O, başının üstündeki kiraz çiçeklerini sessizce hayranlıkla izlerken omuzlarına, saç modeline ve üniformasına ait güzel yakın plan çekimlere geçiş yapın. Sığ alan derinliği ve gerçekçi sinematik renk düzenlemesiyle karmaşık yaprakları, narin dalları ve yumuşak doğal gün ışığını yakalayın. Kamerayı yavaşça yukarı doğru eğerek gökyüzüne uzanan düşsel bir kiraz çiçeği örtüsünü ortaya çıkarın. Kızı, raylar ve sonsuz çiçek açan ağaçlarla çerçevelenmiş şekilde demiryolu geçidi yakınında yürürken gösteren yüksekten geniş bir havadan çekim tarzıyla bitirin. Tüm 30 saniyelik video boyunca tutarlı karakter görünümü, gerçekçi anatomi, akıcı kamera hareketleri, doğal ışıklandırma ve huzurlu nostaljik bir Japon film atmosferini koruyun; metin, logo veya filigran bulunmasın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111294112578273280/img/lARGZKv52YTw6qaB.jpg" width="600" alt="Kiraz Çiçeği Okul Kızının Yürüyüşü">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12630)**
-
-**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2111294203095629930) | **Yayınlandı:** Oct 17, 2026
-
----
-### Uzay Filosunun Yıldız Uyanışı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ölmekte olan bir yıldızın yakınında savaşan uzay filolarının ve uyanan bir varlığın ortaya çıkışını konu alan, 15 saniyelik sinematik bir video için bilim kurgu aksiyon prompt'u.
-
-#### 📝 İstem
-
-```
-16:9 en-boy oranında, 15 saniyelik sinematik, fotogerçekçi bilim kurgu aksiyon kısa filmi.
-İki devasa uzay filosu, ölmekte olan kırmızı bir deve doğru yarışır.
-Birinci filo yıldıza ulaşmaya çalışırken,
-İkinci filo onlara varmadan önce yok etmeye çalışır.
-Yüzlerce avcı gemi çarpışırken, her iki filo da doğrudan yıldızın dış atmosferine dalar.
-Gemiler, kolosal güneş patlamaları arasında manevra yapar.
-Füzeler plazma nehirlerinde kaybolur.
-Küçük bir uzay aracı savaştan ayrılır ve yıldızın yüzeyine doğru dalışa geçer.
-Bir düşman avcı gemisi onu takip eder.
-İki gemi parlayan yüzeyin altında kaybolur.
-Aniden her şey sessizleşir.
-Kamera, yıldızın içinde gizlenmiş devasa geometrik bir yapıyı ortaya çıkarır.
-Yapının yüzeyi açılmaya başlar.
-Göz alıcı bir ışın dışarıya fışkırır.
-Yıldız ölmüyordu.
-Onun içindeki bir şey yeni uyanmıştı.
-Fotogerçekçi yıldız fiziği, aşırı ölçek, agresif uzay savaşı, hızlı takip, plazma ortamları, dramatik keşif anı, sinematik kamera hareketleri, detaylı uzay araçları, metin yok, logo yok, anime yok, çizgi film yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111183606764736512/img/D3t4ZuH6oSsNn1Zi.jpg" width="600" alt="Uzay Filosunun Yıldız Uyanışı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12632)**
-
-**Yazar:** [Alexandra Aisling](https://x.com/AllaAisling) | **Kaynak:** [Link](https://x.com/AllaAisling/status/2111216112566153340) | **Yayınlandı:** Oct 16, 2026
-
----
-### Akçaağaç Yaprağı Epoksi Zemin Yenileme Video İstemcisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sonbahar akçaağaç yaprakları ve epoksi reçine kullanılarak bir oda zemininin yenilenmesini gösteren hiper gerçekçi bir zaman atlamalı video oluşturmak için detaylı istem. Sıra, yaprakların serilmesi, reçinenin dökülmesi, şeffaflığa kadar parlatılması ve mobilyaların yerleştirilmesini kapsar; sonuç, parlak kehribar benzeri bir zemindir.
-
-#### 📝 İstem
-
-```
-Dikey 9:16 oranında, yumuşak geçişlerle hızlı zaman atlamalı stilinde hiper gerçekçi tatmin edici yenileme videosu. Boş beyaz bir oda, beton zemin, pencereden içeri süzülen sıcak güneş ışığı.
-
-Çekim 1: Siyah uzun kollu gömlek ve kot tulum giyen bir adam, zemindeki canlı turuncu ve kırmızı sonbahar akçaağaç yapraklarından oluşan büyük yığını tarakla düzeltir; yaprakları pürüzsüz süpürme hareketleriyle tüm odaya eşit şekilde yayar.
-
-Çekim 2: Kırmızı tulum giyen bir kadın, büyük bir kovalan kalın beyaz epoksi reçine döker; parlak beyaz sıvı genişleyen bir daire şeklinde yayılır ve tüm yaprakları kaplayarak bütün zemini beyaza boyar.
-
-Çekim 3: Sarı yüksek görünürlük yeleği ve şapkası olan bir işçi, sertleşmiş beyaz yüzeyi zemin cilalama makinesiyle parlatır; cila işlemi sırasında katman kristal berraklığında ve şeffaf hale gelir, parlak epoksinin içinde kehribar gibi asılı duran canlı akçaağaç yapraklarını ortaya çıkarır.
-
-Çekim 4: Bir elin rulo ile son parlak üst katmanı uyguladığı yakın çekim; zemin, pencere yansımalarıyla ayna gibi parlak hale gelir.
-
-Çekim 5: Siyah üniforma ve şapka giyen iki taşıma personeli, hızlı ileri sarmada açık renk ahşap bir yatak çerçevesini monte eder, yatağı, beyaz nevresimi ve yastıkları yerleştirir.
-
-Son çekim: Tamamlanmış minimalist yatak odası — dondurulmuş turuncu sonbahar yapraklarıyla dolu çarpıcı parlak epoksi zemin, ortada beyaz yatak, cilalanmış yüzeyde dans eden güneş ışığı yansımaları.
-
-Stil: Foto-gerçekçi, tatmin edici ASMR yenileme içeriği, sıcak sonbahar renk paleti, doğal gün ışığı, pürüzsüz hızlı kesimler, yüksek detay, 4K kalite.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111145355043602432/img/Z6CVCEHHPYhcMwnR.jpg" width="600" alt="Akçaağaç Yaprağı Epoksi Zemin Yenileme Video İstemcisi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12628)**
-
-**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2111145392444162432) | **Yayınlandı:** Oct 16, 2026
-
----
-### Hidrolik Pres Yumurta Ezme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Şeffaf bir hazne içinde haşlanmış yumurtaları ezen hidrolik presin yer aldığı, tatmin edici ASMR video istemi.
-
-#### 📝 İstem
-
-```
-Dikey 9:16 fotogerçekçi video, sabit önden yakın çekim. Cilalı krom kolonlara ve çelik pistonlu güçlü endüstriyel bir hidrolik pres, parlak sarıları kameraya dönük ikiye bölünmüş haşlanmış yumurtalarla dolu şeffaf akrilik silindirik haznenin üzerine yavaşça iner. Ağır metal plaka aşağı bastıkça yumurtalar sıkışır, çatlar ve patlar; kremamsı açık sarı yumurta karışımı alttaki çelik çıkıştan sızarak aşağıdaki yuvarlak paslanmaz çelik kaseye kalın, kremamsı bir akış halinde akar. Parlak ve temiz endüstriyel fabrika arka planı, yumuşak floresan tavan ışıkları, bulanık atölye iç mekanı. Tatmin edici ASMR hidrolik pres ezme stili, ultra detaylı dokular, gerçekçi sıvı fiziği, pürüzsüz yavaş baskı hareketi, sığ alan derinliği, 4K kalite.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111144307516116992/img/rLOvgdK5WZsB3ir9.jpg" width="600" alt="Hidrolik Pres Yumurta Ezme">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12631)**
-
-**Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2111144330228277497) | **Yayınlandı:** Oct 16, 2026
-
----
-### Değişken Hızlı İtme Sinematik Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 gibi üst düzey video modelleri için tasarlanmış, değişken hızda kamera hareketine sahip, son derece detaylı bir metro sahnesi sinematik prompt'u.
-
-#### 📝 İstem
-
-```
-Karakter görünümü ve kimlik referansı [Görsel 1]. Gece geç saatlerde metro vagonu, hareket halindeki son vagon, ondan başka yolcu yok. Yalnız oturuyor, başı öne eğik, elleri kucağında doğal şekilde kavuşmuş. Amber rengi tavan ışıkları onu aydınlatırken, çevredeki vagonlar derin camgöbeği-gri-mavi tonlarda; sakin ve baskıcı bir atmosfer yaratıyor.
-
-Toplam süre 10 saniye, tek kesintisiz çekim, kurgu yok. 50mm Cooke Speed Panchro vintage lens dokusu kullanın, yumuşak vurgular, ölçülü halo efektleri. Sabit odak uzunluğu, kamera karaktere dönük eksen boyunca gerçekten ileri doğru itiyor, odak sürekli olarak karakterin yüzünü takip ediyor.
-
-0–3s: Neredeyse sabit.
-Karakterin oturma pozisyonunu ve kavuşmuş ellerini gösteren orta mesafe çekimle başlayın. Kamera son derece yavaş, neredeyse algılanamayacak kadar az ilerliyor. O, başı öne eğik, omuzları gevşek, sadece ince doğal nefes alarak sessizce oturuyor. Ses öncelikle düşük frekanslı metro uğultusundan oluşuyor, melodi veya davul içermeyen, neredeyse duyulmaz ortam müziği eşliğinde.
-3–6s: Ani yüksek hızlı yaklaşma.
-Kamera aynı eksen boyunca ona doğru aniden önemli ölçüde hızlanarak yüksek hızla yaklaşıyor. Karakter kadrajda hızla büyüyor, kamera ileri doğru hareket ettikçe vagon perspektifi doğal olarak değişiyor, güçlü bir frontal baskı oluşturuyor. Hızlanma kararlı, hareket sürekli; tüm süreç boyunca uniform veya nazik bir itme olarak işlenemez. O hâlâ başını öne eğik tutuyor, nefesi giderek sığlaşıyor, omuz ve boyun hafifçe geriliyor, kavuşmuş parmaklar yavaşça sıkışıyor. Düşük frekanslı uğultu itme ile birlikte hızla artıyor, ölçülü tutuluyor, çevresel sesleri bastırmıyor.
-
-6–6.2s: Ani frenleme, ani duruş.
-Kamera yaklaşık 0.2 saniye içinde ani bir frenlemeyle duruyor, tam bir yüz yakın planında, alın ve çene tamamen korunarak biraz boşluk bırakılarak aniden duruyor. Durmadan önce hız hâlâ belirgin, frenleme kısa ve kuvvetli; yüksek hızlı hareketin aniden kesilmesinin etkisini sunuyor. Erken yumuşama yok, yüze yapışma yok, yüze aceleci giriş yok. Durduktan sonra kamera konumu hemen stabilize oluyor, kayma, sekme veya titreme yok; karakterin nefes alma ve hareketleri doğal olarak devam ediyor, görüntü donmamalı.
-Frenleme anında, çevredeki camgöbeği-gri-mavi ortam ışığı hızla azalıyor, yüzündeki amber sıcak ışık kalıyor, stilize edilmiş ışık-karanlık birleşimi oluşturuyor, karanlık alanlar hâlâ vagon yapısını solukça ortaya koyuyor. Sadece ışıklandırma ve tonal katmanları değiştirin, vagon yapısı, nesne konumları ve malzemeler sürekli ve tutarlı kalsın.
-
-Kamera durmasıyla eşzamanlı olarak, ortam müziği temiz bir şekilde kesilir, ses efekti vuruşları veya reverb kuyrukları yoktur. Metro uğultusu devam eder, yalnızca kameranın durduğunu, trenin hâlâ hareket halinde olduğunu açıkça belirtir.
-6.2–6.7s: Kısa duraksama.
-Kamera tamamen sabit. O hâlâ başını öne eğik tutuyor, pozunu kısa süre koruyor, sadece ince nefes alma var. Sadece düşük frekanslı metro uğultusu ve karakterin nefesi kalır, müzik tekrar girmez.
-6.7–9s: Yavaşça baş kaldırma.
-Yavaşça başını kaldırır, bakışı doğal olarak merceğe kayar, sonunda doğrudan kameraya bakar. Çene, boyun ve omuz hareketleri koordineli, eylemler ölçülü ve tutarlı, omuz ve boyun hâlâ gerginlik taşıyor. Onun yavaş hareketi, önceki hızlı itme ile belirgin bir ritmik kontrast oluşturur.
-
-9–10s: Bakış.
-Sabit yakın planı koruyun. Doğrudan kameraya bakmaya devam ediyor, sadece ince nefes alma, sessiz ancak baskılı bir duygusal duraksama bırakıyor. Müzik, ani ses efektleri veya diğer eylemler eklemeyin.
-
-4K Ultra HD, 3840x2160, 16:9 yatay. Gerçekçi sinematik fotoğrafçılık dokusu, doğal cilt dokusu, saç ve kumaş detaylarını koruyarak, yumuşak vurgular, katmanlı gölgeler. Yüksek hızlı itme fazında doğal hareket bulanıklığına izin verin, ani duruştan sonra gözler ve yüz özellikleri net olsun. Karakter kimliği, yüz oranları ve yapısı her zaman tutarlı, ifadeler eylemlerle doğal olarak değişiyor, el yapıları doğru.
-Kadrajda sadece bu kadın var. Tekrarlar, hayaletler, yüz bozulmaları, kırpma, takılma, aşırı keskinleştirme, cilt pürüzsüzleştirme veya HDR hissi yok. Diyalog, altyazı, filigran veya logo yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111107336794460160/img/8bg4v5s440luFfpg.jpg" width="600" alt="Değişken Hızlı İtme Sinematik Prompt">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12635)**
-
-**Yazar:** [Eli Ha](https://x.com/FromSummerF) | **Kaynak:** [Link](https://x.com/FromSummerF/status/2111107921316852127) | **Yayınlandı:** Oct 16, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -6746,6 +6786,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-05T01:07:53.802Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-05T12:10:28.588Z</sub>
 
 </div>

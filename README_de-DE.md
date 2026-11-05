@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6649** |
+| 📝 Gesamtanzahl Prompts | **6654** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-11-05** |
 
@@ -361,6 +361,194 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Zauberin gegen gepanzerte Riesen: Kampf
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-Prompt für die Erstellung einer ultrarealistischen, kinoreifen Fantasy-Kampfszene mit einer Zauberin, die in der Wüste gegen Riesen kämpft, speziell für Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Erstelle ein ultrarealistisches, cineastisches Fantasy-Kampfvideo mit einer mächtigen jungen Zauberin in einem eleganten dunkelblauen Magiergewand und spitzem Hexenhut. Zeige sie im Kampf gegen eine gewaltige Armee furchteinflößender, gepanzerter Riesen auf einem riesigen Schlachtfeld in der Wüste. Sie entfesselt mächtige, rot leuchtende magische Energie, die explosive Feuerwellen und wirbelnde Sandstürme erzeugt. Zeige epische Sturmangriffe der Armeen, dramatische Zauberszenen, intensive Action, realistische Charakterbewegungen, filmreife Kameraperspektiven und eine atemberaubende Schlussszene. Dark-Fantasy-Atmosphäre, Hollywood-Blockbuster-Stil, ultra-detailliert, 4K, fotorealistisch, flüssige cineastische Bewegungen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118203237866299392/img/QuxxR-Pcd4_Uo3wA.jpg" width="600" alt="Zauberin gegen gepanzerte Riesen: Kampf">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13540)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2118203280501465535) | **Veröffentlicht:** Nov 5, 2026
+
+---
+### DIY-Umbau: Vom Autoreifen zum leuchtenden Couchtisch
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein fotorealistischer vertikaler Video-Prompt, der ein DIY-Projekt zeigt, bei dem ein schmutziger Autoreifen gereinigt und in einen leuchtenden Couchtisch mit LED-Beleuchtung verwandelt wird.
+
+#### 📝 Prompt
+
+```
+Vertikales DIY-Video im fotorealistischen Stil. Ein Mann mit schwarzer Baseballkappe, grauem T-Shirt und schwarzer Cargo-Hose kniet auf einer Betonterrasse neben einer roten Backsteinwand mit Topfpflanzen. Er sprüht Schaumreiniger auf einen völlig verdreckten, schlammverkrusteten Autoreifen, schrubbelt ihn mit einer Bürste ab, bis weißer Schaum herabläuft, und wischt den Reifen anschließend mit einem Tuch tiefschwarz und makellos sauber. Er passt eine runde Sperrholzplatte in das Innere des Reifens ein, dreht Schrauben mit einem gelben Akkuschrauber fest, montiert drei schräg angesetzte Holzbeine, stellt den Reifen aufrecht als stabilen Tischfuß hin und legt eine runde Glasplatte darauf. Er wickelt einen warmweißen LED-Streifen um die innere Felge, setzt das Glas wieder auf und steckt ein Stromkabel seitlich am Reifen an, sodass die LEDs durch das Glas leuchten. Die Szene wechselt zu einem gemütlichen Wohnzimmer bei Nacht mit einem beigen Ecksofa, einer Stehlampe und einem runden Juteteppich – hier steht der leuchtende Reifen-Couchtisch nun als zentrales Highlight. Die Kamera fährt langsam auf die Tischplatte zu und enthüllt einen hypnotischen Infinity-Spiegel-Tunnel aus sich wiederholenden goldenen LED-Ringen, die sich in der Dunkelheit verlieren. Warmes Umgebungslicht, sanfte Kamerabewegungen, befriedigende Verwandlungs-Montage, hohe Detailtiefe, realistische Texturen und Reflexionen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118023563340840960/img/PDNKVzSwDXpYGSVu.jpg" width="600" alt="DIY-Umbau: Vom Autoreifen zum leuchtenden Couchtisch">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13541)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2118023608815571361) | **Veröffentlicht:** Nov 4, 2026
+
+---
+### Minimalistisches Schlafzimmer: Terrazzo-Boden im Fokus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt für Interior Design, der sich auf ein helles minimalistisches Schlafzimmer mit einzigartigem Terrazzo-Bodenmuster und weichem natürlichem Licht konzentriert.
+
+#### 📝 Prompt
+
+```
+Eine langsame, sanfte Kamerafahrt nach vorn im cineastischen Stil durch ein helles, minimalistisches Schlafzimmer mit weißen Wänden und einem großen Fenster auf der rechten Seite, das weiches, natürliches Tageslicht hereinlässt. Im Mittelpunkt steht ein beigefarbenes Polsterbett mit einem vertikal gesteppten Kopfteil, bezogen mit strahlend weißer Bettwäsche, zwei Zierkissen in kräftigem Rostorange und einer strukturierten Überwurfdecke in Terrakotta-Orange am Fußende. Links daneben befindet sich ein kleiner Nachttisch aus Holz mit einer leuchtenden Keramik-Tischlampe und einer winzigen grünen Pflanze. Über dem Bett hängt ein gerahmter Kunstdruck mit abstrakten Motiven in warmen Beige- und Orangetönen. In der Ecke am Fenster sorgt ein Olivenbaum mit dichtem Blattwerk in einem weißen Topf für eine natürliche Textur. Der Boden ist der eigentliche Star: glänzend polierte Terrazzo-Fliesen, überzogen mit einem dichten Muster aus orangefarbenen und grünen Kleeblatt-Motiven, die das Licht reflektieren. Sanfte Kamerabewegung, subtile weiche Schatten, warme und ruhige Atmosphäre, fotorealistische Präsentation von Innenarchitektur, 4K-Qualität, keine Personen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118022345185013760/img/dIURjjiLlBdkI0uC.jpg" width="600" alt="Minimalistisches Schlafzimmer: Terrazzo-Boden im Fokus">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13543)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2118022390194098208) | **Veröffentlicht:** Nov 4, 2026
+
+---
+### Absurdes Hasen-Musikvideo
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein Prompt zur Erstellung eines surrealen animierten Musik-Kurzfilms mit einem sich drehenden Hasen, der auf Chinesisch singt, inklusive spezifischer Audio- und visueller Anweisungen.
+
+#### 📝 Prompt
+
+```
+Erstelle einen 10-sekündigen, vertikalen, absurden animierten Musik-Kurzfilm. Die Szene zeigt einen grauen, düsteren, leeren Innenraum in einem kühlen Grauton mit geringer Sättigung; Wände und Boden wirken schlicht und bedrückend, die Kamera nimmt eine feste Ego-Perspektive ein. Hauptmotiv ist eine originelle Kaninchenfigur im Stil klassischer Animationen: Der gesamte Körper hat glatte, haarlose Haut in reinem Grauweiß, die Augen sind leicht geweitet, das Lächeln wirkt starr. Das Gesamtdesign ähnelt keiner bestehenden IP-Figur. Zu Beginn befindet sich das Kaninchen nah an der Kamera und blickt direkt hinein, verharrt eine halbe Sekunde reglos in der Luft und sagt mit klarer, emotionsloser, rauer und leicht verzerrter Stimme: „Hallo, mein Freund." In der nächsten Sekunde schießt das Kaninchen plötzlich nach oben und verfällt in eine extrem schnelle, rasende, ununterbrochene Drehung in der Luft. Sein Körper rotiert mit hoher Geschwindigkeit um die eigene Hochachse und erzeugt dabei ein verschwommenes Bewegungs-Nachbild, während die grauweiße Silhouette des haarlosen Kaninchens stets erkennbar bleibt. Die Kamera behält durchgehend die Ego-Perspektive bei, folgt der Bewegung schnell und hält das rotierende Kaninchen immer exakt in der Bildmitte fixiert. Der Raum im Hintergrund vermittelt ein starkes Rotationsgefühl sowie leichte Kamerawackler – der Rhythmus wirkt absurd, angespannt und hypnotisch-bizarr. Während der schnellen Rotation singt das Kaninchen ununterbrochen mit rauer Stimme: „Dieser Strudel aus Erinnerungen ~ droht mich zu verschlingen ~ bitte verlass mich nicht ~" Der Gesang ist deutlich verständlich, begleitet von schnellen Drumbeats, tiefen Bässen und elektronischen Klängen, wobei der Musikrhythmus exakt mit der Rotationsgeschwindigkeit synchronisiert ist. Keine Untertitel, Texte, stilisierten Einblendungen, Wasserzeichen oder Interface-Elemente jeglicher Art.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117995379132452864/img/Mo9ma7Oh-4KWWzvv.jpg" width="600" alt="Absurdes Hasen-Musikvideo">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13542)**
+
+**Autor:** [小喆（XiaoZhe）](https://x.com/XiaoZhe1984) | **Quelle:** [Link](https://x.com/XiaoZhe1984/status/2117995741616721964) | **Veröffentlicht:** Nov 4, 2026
+
+---
+### Seedance 2.0 Video-Prompt für Heimprodukt-Werbung
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Prompt zur Erstellung einer cineastischen Produktwerbung für Heimgeräte mit Seedance 2.0, fokussiert auf die Ästhetik von Deckenventilatoren und Familienszenen.
+
+#### 📝 Prompt
+
+```
+[Parameter]
+16:9 Querformat, 15 Sekunden Dauer, vollständige Referenzfähigkeit.
+Erstelle in einem Durchgang einen kompletten, cineastischen Werbespot für ein Haushaltsprodukt – inklusive Produkt-Totalen, Nahaufnahmen, Materialdetails, einer Person, die den Ventilator einschaltet, einer Szene mit der ganzen Familie und einer Brand End Card.
+Erste Hälfte: harte Schnitte, präzise Kameraführung. Zweite Hälfte: warm und entspannt.
+
+[Referenzmaterialien]
+@Image1 ist die alleinige optische Grundlage für die Ventilatorleuchte. Struktur, Form, Material und Proportionen der fünf schwarzen Flügel, des schwarzen runden Gehäuses, des silbernen Zierrings und der weißen runden Leuchtfläche müssen strikt beibehalten werden. Das Produkt darf nicht neu gestaltet werden.
+@Image2 dient ausschließlich als Referenz für die Raumaufteilung des Wohnzimmers, das beigefarbene Sofa, die hellen Holzmöbel, die bodentiefen Fenster und das helle natürliche Licht. Luftstromlinien, blaue Pfeile oder Installationsdiagramme aus dem Bild dürfen nicht übernommen werden.
+
+[Gesamtbild]
+Realistische, cineastische Werbequalität, hell und klar, weiches natürliches Seitenlicht in Kombination mit Innenbeleuchtung.
+Die Umgebung in Beige und hellem Holz bildet einen Kontrast zum schwarzen Produkt. Das schwarze Gehäuse hat eine feine Textur, die Glanzlichter des silbernen Rings sind dezent, die weiße Leuchtfläche strahlt sanft mit erhaltenen Abstufungen und überstrahlt nicht zu rein weißen Flecken.
+Die Haut der Personen wirkt realistisch und natürlich, keine Hautglättung, keine starken orange-gelben Filter.
+Stabiler Bildaufbau, präzise Kameraführung, natürliche Schärfentiefe. Keine übertriebenen Lichthöfe, dunklen Tech-Hintergründe, schwebenden Partikel oder visualisierten Luftströme.
+
+[Raum und Produktzustand]
+Alle Einstellungen spielen im selben modernen Familienwohnzimmer.
+Beigefarbenes Stoffsofa, Couchtisch aus hellem Holz, leichte Vorhänge, einige Grünpflanzen – aufgeräumt, aber mit echtem Wohngefühl.
+Die Ventilatorleuchte ist regulär an der Wohnzimmerdecke montiert; Produktgröße und Raumproportionen sind stimmig, sie schwebt nicht, es wird kein Installationsvorgang gezeigt.
+Zu Beginn leuchtet die Leuchtfläche bereits, die Flügel stehen still. Nachdem die Person den Ventilator eingeschaltet hat, drehen sich die Flügel natürlich, die Helligkeit des Lichts bleibt unverändert.
+Produkterscheinung, Raumaufteilung und Lichtrichtung bleiben über alle Einstellungen hinweg konsistent.
+
+[Figuren]
+Natürliche, realistische chinesische dreiköpfige Familie.
+Mutter etwa 30 Jahre alt, trägt ein hellblaues Leinenhemd, beigefarbene Hose, schulterlanges dunkles Haar, natürliches leichtes Make-up.
+Vater etwa 35 Jahre alt, trägt ein beigefarbenes Baumwoll-Kurzarmshirt, dunkelgraue Hose, kurze Haare.
+Kind etwa 6 Jahre alt, trägt ein hellgelbes Baumwoll-Kurzarmshirt, helle Hose.
+Die Kleidung ist alltagstauglich und passend, die Bewegungen sind einfach und natürlich, kein Blick in die Kamera, kein übertriebenes Werbelächeln.
+
+[Storyboard]
+
+Einstellung 1 (0–2 s):
+Leicht vorwärtsfahrende Totale des Wohnzimmers im Querformat.
+Die Ventilatorleuchte ist direkt im ersten Frame deutlich sichtbar, das Produkt befindet sich im oberen mittleren Bildbereich als klarer visueller Mittelpunkt, darunter das beigefarbene Sofa und der Couchtisch aus hellem Holz.
+Die Kamera bewegt sich auf das Produkt zu und zeigt das Verhältnis zwischen Ventilatorleuchte und Wohnzimmer. Nicht mit Fenstern, leeren Wänden oder anderen leeren Einstellungen beginnen. Nicht zu viel leere Decke im Bild lassen.
+
+Einstellung 2 (2–4 s):
+Harter Schnitt zur schrägen Nahaufnahme des Produkts, kleiner horizontaler Schwenk.
+Das strukturelle Zusammenspiel der fünf schwarzen Flügel, des runden Gehäuses und des silbernen Zierrings klar zeigen. Weiches Seitenlicht zeichnet die Produktkonturen nach, das Wohnzimmer im Hintergrund ist natürlich unscharf.
+Flügel weiterhin stillstehend, Produktform stabil, keine komplette Umkreisung, keine Reißschwenks.
+
+Einstellung 3 (4–7 s):
+Harter Schnitt zur Material-Nahaufnahme von Leuchtenkörper und silbernem Zierring, kurze horizontale Fahrt entlang des Rings.
+Zuerst die Verbindung zwischen schwarzem Gehäuse und silbernem Zierring zeigen, dann die sanft leuchtende runde Leuchtfläche ins Bild holen.
+Realistische, feine Materialien und dezente Glanzlichter; keine mechanischen Innenteile zeigen, keine Bauteile erfinden, die Leuchtfläche nicht überstrahlen lassen. Die Schnitte folgen dem Takt der Musik, klare und präzise Bilder.
+
+Einstellung 4 (7–9 s):
+Harter Schnitt zur festen Halbnahaufnahme.
+Die Mutter steht neben dem Sofa, greift nach einem Bedienelement außerhalb des Bildausschnitts, führt eine knappe Einschaltbewegung aus und wendet sich dann natürlich der Familie zu.
+Details des Bedienelements und der Finger dürfen nicht ins Bild kommen, keine fiktiven Fernbedienungen generieren, keine Nahaufnahmen von Tasten drehen, keine unbestätigten Bedienfunktionen zeigen.
+
+Einstellung 5 (9–15 s):
+Schnitt zur stabilen Totalen des Wohnzimmers im Querformat, langsamer Rückzug.
+Die Ventilatorleuchte befindet sich im oberen mittleren Bildbereich, die Flügel drehen sich natürlich mit moderater Bewegungsunschärfe, während schwarzes Gehäuse, Leuchtfläche und silberner Zierring fest und klar bleiben.
+Darunter sitzt die dreiköpfige Familie auf dem Sofa, das Kind sitzt zwischen den Eltern und liest ein Bilderbuch, die Eltern beugen die Köpfe leicht vor, um gemeinsam zu schauen, und lächeln sich gelegentlich ganz natürlich an. Die Haarspitzen der Mutter bewegen sich leicht, werden aber nicht übertrieben aufgewirbelt.
+Ventilatorleuchte und Familie bilden eine klare vertikale Ebene und sind immer im selben Frame zu sehen, das Produkt darf nicht zu klein werden.
+Die Szene ist warm, gemütlich und harmonisch; keine komplexen Handlungen wie Umarmungen, Gegenstände reichen oder Nahaufnahmen vom Umblättern hinzufügen.
+Den Bildaufbau in den letzten 3 Sekunden stabil halten, unten ausreichend sauberen Hintergrund für den Marken-Werbetext freilassen, Gesichter oder Produkt nicht verdecken.
+Das Ende bleibt bei der Familienszene mit laufender Ventilatorleuchte im selben Frame, keine weiteren Szenenwechsel, kein plötzliches Ausblenden zu Schwarz.
+
+[Werbetext am Ende]
+Ab Sekunde 12 mittig am unteren Rand weich eine vollständige Werbezeile einblenden:
+"Adam makes life more comfortable"
+
+Der obige Text muss exakt dargestellt werden: „A“ in Adam großgeschrieben, der Rest klein, ohne Ergänzungen, Auslassungen oder Ersetzungen.
+Eine prägnante, klare moderne Werbeschrift verwenden, die Textfarbe muss sich ausreichend vom Hintergrund abheben, Schriftgröße gut lesbar, ruhige Typografie.
+Der Text bleibt bis zum Ende von Sekunde 15 stehen, kein Flackern, Verformen, Drehen oder Einfliegen.
+Der Text wird nur über das Bild gelegt, nicht auf das Produktgehäuse, Wände oder die Kleidung der Personen gedruckt.
+Kein weiterer Text außer dieser Werbezeile.
+
+[Musik und Voiceover]
+Die erste Hälfte nutzt einen klaren, rhythmischen modernen, leichten Electronic-Soundtrack, die Schnitte erfolgen taktgenau.
+Nach dem Wechsel zur Familien-Totalen in Sekunde 9 wird die Musik weich und warm, der Rhythmus entspannt sich natürlich.
+Dezente, echte Raumakustik, keine übertriebenen Windgeräusche, kein mechanisches Dröhnen oder Tech-Soundeffekte.
+Keine Dialoge der Figuren.
+
+Sekunden 12–15: warmes, klares, ausdrucksstarkes Voiceover einer erwachsenen Frau, spricht vollständig:
+"Adam, makes life more comfortable."
+
+Adam wird wie der englische Name /ˈædəm/ ausgesprochen, Betonung auf der ersten Silbe, die Buchstaben nicht einzeln buchstabieren.
+Der gesamte Satz dauert etwa 3 Sekunden, Tonfall natürlich und ruhig, nicht gezogen, kein werbliches Rufen, nicht künstlich sentimental.
+Wenn das Voiceover einsetzt, die Lautstärke des Soundtracks senken, damit Markenname und Slogan klar verständlich sind.
+Werbetext und Voiceover laufen synchron, die Musik klingt natürlich aus.
+
+[Strikte Vorgaben]
+In allen Einstellungen strikt dasselbe Produkt, dasselbe Wohnzimmer, dieselbe Lichtrichtung beibehalten.
+Immer fünf Flügel zeigen, weder mehr noch weniger, die Flügelform darf sich nicht ändern.
+Nur die Flügel drehen sich, Leuchtenkörper, Leuchtfläche, silberner Zierring und Befestigungsteile drehen sich nicht.
+Vor dem Einschalten stehen die Flügel still, der laufende Zustand wird nach dem Einschalten per Schnitt gezeigt; keine durchgehende Nahaufnahme nötig, um das Hochfahren zu zeigen.
+Keine unbestätigten Funktionen wie Dimmen, Sensorik, Silent-Modus, Energiesparen oder andere Leistungsmerkmale hinzufügen.
+Keine Produktverformung, kein Schweben, keine Demontage von Teilen oder Explosionszeichnungen.
+Keine Luftstromlinien, blauen Pfeile, schwebenden Partikel oder übertrieben starke Winde.
+Die Hände der Personen müssen natürlich sein, keine zusätzlichen Finger, keine verschmolzenen Gliedmaßen.
+Keine Wasserzeichen, keine zusätzlichen Untertitel, keine anderen Markenlogos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117895646497898496/img/P_KLY38ljWxKfI20.jpg" width="600" alt="Seedance 2.0 Video-Prompt für Heimprodukt-Werbung">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13544)**
+
+**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Quelle:** [Link](https://x.com/Adam38363368936/status/2117895898999210440) | **Veröffentlicht:** Nov 4, 2026
+
+---
 ### Seedance 2.5 Mode-Selfie-Video-Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -6575,154 +6763,6 @@ Erstelle ein ultra-realistisches cineastisches Miniatur-Abenteuer mit einer klei
 **Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2111311551710007388) | **Veröffentlicht:** Oct 17, 2026
 
 ---
-### Schülerin unter Kirschblüten
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für die Erstellung eines 30-sekündigen cineastischen Videos einer japanischen Schülerin, die unter Kirschblüten in der Nähe von Bahngleisen spaziert.
-
-#### 📝 Prompt
-
-```
-Erstelle ein 30-sekündiges ultra-realistisches cineastisches Video einer jungen japanischen Schülerin, die entlang eines Bahnübergangs spaziert, umgeben von atemberaubenden, voll erblühten Kirschbäumen. Sie trägt eine traditionelle marineblaue Schuluniform im japanischen Matrosenstil mit weißen Streifen, einen passenden Faltenrock, schwarze Schuhe und eine schwarze Umhängetasche. Ihr Haar ist als ordentlicher kurzer schwarzer Bob geschnitten, und sie trägt eine schwarze Gesichtsmaske. Beginne mit einer weiten cineastischen Aufnahme von hinten, während sie langsam neben den Bahngleisen geht, umgeben von zarten blassrosa und weißen Blüten. Die Kamera folgt ihr sanft von hinten und erfasst die natürliche Bewegung ihrer Haare, Schuluniform und Tasche, wenn eine leichte Brise durch die Bäume streicht. Übergang zu schönen Nahaufnahmen ihrer Schultern, Frisur und Uniform, während sie still die Kirschblüten über sich bewundert. Erfasse die filigranen Blütenblätter, die zarten Zweige und das weiche natürliche Tageslicht mit geringer Schärfentiefe und realistischer cineastischer Farbkorrektur. Neige die Kamera langsam nach oben, um ein traumhaftes Blütendach aus Kirschblüten zu enthüllen, das sich über den Himmel erstreckt. Beende das Video mit einer erhöhten Weitwinkel-Aufnahme im Luftaufnahme-Stil, die das Mädchen zeigt, wie sie nahe dem Bahnübergang läuft, gerahmt von den Gleisen und endlosen blühenden Bäumen. Wähle konsistente Charakterdarstellung, realistische Anatomie, flüssige Kamerabewegungen, natürliches Licht und eine friedliche, nostalgische japanische Filmatmosphäre während des gesamten 30-Sekunden-Videos, ohne Text, Logos oder Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111294112578273280/img/lARGZKv52YTw6qaB.jpg" width="600" alt="Schülerin unter Kirschblüten">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12630)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2111294203095629930) | **Veröffentlicht:** Oct 17, 2026
-
----
-### Raumflotte: Erwachen des Sterns
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Sci-Fi-Action-Prompt für ein 15-sekündiges kinematisches Video, das Raumflotten zeigt, die in der Nähe eines sterbenden Sterns kämpfen und eine erwachende Entität enthüllen.
-
-#### 📝 Prompt
-
-```
-15-sekündiger kinematischer, fotorealistischer Science-Fiction-Action-Kurzfilm, 16:9.
-Zwei gewaltige Raumflotten rasen auf einen sterbenden roten Riesen zu.
-Die erste Flotte versucht, den Stern zu erreichen.
-Die zweite Flotte versucht, sie vor ihrer Ankunft zu vernichten.
-Hunderte von Jägern kollidieren im Kampf, während beide Flotten direkt in die äußere Atmosphäre des Sterns eintauchen.
-Schiffe manövrieren zwischen kolossalen Sonneneruptionen.
-Raketen verschwinden in Plasmaströmen.
-Ein kleines Raumschiff löst sich aus dem Gefecht und stürzt auf die Oberfläche des Sterns zu.
-Ein feindlicher Jäger folgt ihm.
-Beide Schiffe verschwinden unter der glühenden Oberfläche.
-Plötzlich wird alles still.
-Die Kamera offenbart eine enorme geometrische Struktur, verborgen im Inneren des Sterns.
-Ihre Oberfläche beginnt sich zu öffnen.
-Ein blendender Strahl bricht nach außen hervor.
-Der Stern stirbt nicht.
-Etwas in seinem Inneren hat gerade erwacht.
-Fotorealistische Sternenphysik, extreme Maßstäbe, aggressiver Weltraumkampf, schnelle Verfolgungsjagden, Plasmawelten, dramatische Enthüllung, kinematische Kamerabewegung, detaillierte Raumschiffe, kein Text, keine Logos, kein Anime, keine Cartoon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111183606764736512/img/D3t4ZuH6oSsNn1Zi.jpg" width="600" alt="Raumflotte: Erwachen des Sterns">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12632)**
-
-**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Quelle:** [Link](https://x.com/AllaAisling/status/2111216112566153340) | **Veröffentlicht:** Oct 16, 2026
-
----
-### Video-Prompt für Ahornblatt-Epoxidboden-Renovierung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Generierung eines hyperrealistischen Zeitraffervideos, das die Renovierung eines Fußbodens mit Herbstahornblättern und Epoxidharz zeigt. Die Sequenz umfasst das Ausbreiten der Blätter, das Gießen des Harzes, das Polieren bis zur Transparenz und das Aufstellen von Möbeln, was zu einem glänzenden, bernsteinartigen Boden führt.
-
-#### 📝 Prompt
-
-```
-Vertikales 9:16 hyperrealistisches, befriedigendes Renovierungsvideo im schnellen Zeitrafferstil mit sanften Übergängen. Ein leerer weißer Raum, Betonboden, warmes Sonnenlicht strömt durch ein Fenster.
-
-Shot 1: Ein Mann in einem schwarzen Langarmshirt und Jeans-Latzhose harkt einen großen Haufen leuchtend orangefarbener und roter Herbstahornblätter auf den Boden und verteilt sie gleichmäßig im gesamten Raum mit fließenden Wischbewegungen.
-
-Shot 2: Eine Frau in roten Latzhosen gießt dickflüssiges weißes Epoxidharz aus einem großen Eimer; die glänzende weiße Flüssigkeit breitet sich in einem wachsenden Kreis aus und bedeckt alle Blätter, bis der gesamte Boden weiß überzogen ist.
-
-Shot 3: Ein Arbeiter in einer gelben Warnweste und einer Kappe poliert die ausgehärtete weiße Oberfläche mit einer Bodenpoliermaschine; während er poliert, wird die Schicht kristallklar und transparent, sodass lebendige Ahornblätter sichtbar werden, die wie in Bernstein eingebettet im glänzenden Epoxidharz schweben.
-
-Shot 4: Nahaufnahme einer Hand, die mit einer Rolle eine letzte glänzende Deckschicht aufträgt; der Boden wird spiegelglatt mit Fensterreflexionen.
-
-Shot 5: Zwei Umzugshelfer in schwarzen Uniformen und Kappen bauen schnell ein helles Holz-Bettgestell zusammen, legen eine Matratze, eine weiße Bettdecke und Kissen im Zeitraffer an ihren Platz.
-
-Letzter Shot: Fertiges minimalistisches Schlafzimmer – atemberaubender glänzender Epoxidboden gefüllt mit eingefrorenen orangefarbenen Herbstblättern, ein weißes Bett in der Mitte, Sonnenlichtreflexionen tanzen auf der polierten Oberfläche.
-
-Stil: fotorealistisch, befriedigende ASMR-Renovierungsinhalte, warme Herbstfarbpalette, natürliches Tageslicht, schnelle Schnitte, hohe Detailtreue, 4K-Qualität.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111145355043602432/img/Z6CVCEHHPYhcMwnR.jpg" width="600" alt="Video-Prompt für Ahornblatt-Epoxidboden-Renovierung">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12628)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2111145392444162432) | **Veröffentlicht:** Oct 16, 2026
-
----
-### Hydraulische Presse zerquetscht Eier
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein befriedigender ASMR-Video-Prompt, der eine hydraulische Presse zeigt, die hartgekochte Eier in einer transparenten Kammer zerquetscht.
-
-#### 📝 Prompt
-
-```
-Vertikales 9:16 fotorealistisches Video, statische frontale Nahaufnahme. Eine leistungsstarke industrielle hydraulische Presse mit polierten Chromsäulen und einem Stahlkolben senkt sich langsam auf eine transparente Acryl-Zylinderkammer, die mit halbierten hartgekochten Eiern gefüllt ist, wobei die glänzenden gelben Eigelbseiten zur Kamera zeigen. Während die schwere Metallplatte nach unten drückt, werden die Eier komprimiert, brechen und platzen, wobei cremige hellgelbe Ei-Mischung durch einen Stahlauslauf am Boden herausgepresst wird und in einem dicken, cremigen Strom in eine runde Edelstahl-Schüssel darunter fließt. Heller, sauberer industrieller Fabrikhintergrund, weiche Leuchtstoffdeckenbeleuchtung, unscharfe Werkstatt-Innenaufnahme. Befriedigender ASMR-Stil mit hydraulischer Presse, ultra-detaillierte Texturen, realistische Fluidphysik, sanfte langsame Pressbewegung, geringe Schärfentiefe, 4K-Qualität.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111144307516116992/img/rLOvgdK5WZsB3ir9.jpg" width="600" alt="Hydraulische Presse zerquetscht Eier">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12631)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2111144330228277497) | **Veröffentlicht:** Oct 16, 2026
-
----
-### Variabel Geschwindigkeits-Push-in-Cineastischer-Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein hochdetaillierter cineastischer Prompt für eine U-Bahn-Szene mit variabler Kamerageschwindigkeit, entwickelt für High-End-Videomodelle wie Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Referenz für Aussehen und Identität der Figur [Bild 1]. Späte Nacht in einem U-Bahn-Wagen, letzter Wagen in Bewegung, keine weiteren Passagiere außer ihr. Sie sitzt allein, Kopf gesenkt, Hände natürlich im Schoß gefaltet. Bernsteinfarbene Deckenlampen beleuchten sie, während die umliegenden Wagen in tiefem Cyan-Grau-Blau getaucht sind, was eine stille und bedrückende Atmosphäre erzeugt.
-
-Gesamtdauer 10 Sekunden, eine durchgehende Einstellung, keine Schnitte. Verwenden Sie die Textur eines 50mm Cooke Speed Panchro Vintage-Objektivs, weiche Highlights, dezente Halos. Feste Brennweite, die Kamera schiebt tatsächlich entlang der Achse auf die Figur zu, der Fokus folgt kontinuierlich dem Gesicht der Figur.
-
-0–3s: Nahezu statisch.
-Beginnen Sie mit einer mittleren Einstellung, die die Sitzhaltung und die gefalteten Hände der Figur zeigt. Die Kamera bewegt sich extrem langsam vorwärts, kaum wahrnehmbar. Sie sitzt ruhig mit gesenktem Kopf, entspannten Schultern, nur subtiler natürlicher Atmung. Der Ton besteht hauptsächlich aus niedrigfrequentem U-Bahn-Rumpeln, mit nahezu unhörbarer Ambient-Musik ohne Melodie oder Trommeln.
-3–6s: Plötzliche Hochgeschwindigkeitsannäherung.
-Die Kamera beschleunigt plötzlich erheblich und nähert sich ihr entlang derselben Achse mit hoher Geschwindigkeit. Die Figur wird im Bild schnell größer, die Perspektive des Wagens ändert sich natürlich, wenn die Kamera vorrückt, was einen starken frontal Druck erzeugt. Die Beschleunigung ist entscheidend, die Bewegung kontinuierlich, kann nicht als gleichmäßiger oder sanfter Push während des gesamten Ablaufs verarbeitet werden. Sie hält weiterhin den Kopf gesenkt, die Atmung wird allmählich flacher, Schulter und Nacken spannen leicht an, die gefalteten Finger pressen sanft zusammen. Das niedrigfrequente Dröhnen nimmt mit dem Vorrücken schnell zu, bleibt aber dezent und überlagert nicht die Umgebungsgeräusche.
-
-6–6,2s: Abruptes Bremsen, plötzlicher Stopp.
-Die Kamera bremst innerhalb von ca. 0,2 Sekunden abrupt ab und stoppt plötzlich bei einer Nahaufnahme des Gesichts, wobei Stirn und Kinn vollständig erhalten bleiben und etwas Raum vorhanden ist. Die Geschwindigkeit ist vor dem Stop noch deutlich sichtbar, das Bremsen ist kurz und kraftvoll und stellt die Wirkung einer plötzlich unterbrochenen Hochgeschwindigkeitsbewegung dar. Kein frühes Abbremsen, kein klebendes Gesicht, kein hastiges Heranrücken ans Gesicht. Nach dem Stop stabilisiert sich die Kameraposition sofort, kein Gleiten, Zurückfedern oder Wackeln; die Atmung und Bewegungen der Figur setzen sich natürlich fort, das Bild darf nicht einfrieren.
-Im Moment des Bremsens zerfällt das umgebende cyan-grau-blaue Ambient-Licht schnell, das bernsteinfarbene warme Licht auf ihrem Gesicht bleibt bestehen und bildet eine stilisierte Hell-Dunkel-Konvergenz, dunkle Bereiche lassen die Struktur des Wagens noch schwach erkennen. Ändern Sie nur Beleuchtung und tonale Schichten, halten Sie die Struktur des Wagens, die Positionen der Objekte und die Materialien kontinuierlich und konsistent.
-
-Gleichzeitig mit dem Stopp der Kamera schneidet die Ambient-Musik sauber ab, keine Sound-Effekt-Hits oder Hall-Schwänze. Das U-Bahn-Rumpeln geht weiter und zeigt deutlich an, dass nur die Kamera gestoppt hat, der Zug noch fährt.
-6,2–6,7s: Kurze Pause.
-Kamera vollständig statisch. Sie hält weiterhin den Kopf gesenkt, bewahrt kurz die Haltung, nur subtile Atmung. Es bleiben nur das niedrigfrequente U-Bahn-Rumpeln und die Atmung der Figur übrig, die Musik setzt nicht wieder ein.
-6,7–9s: Langsam den Kopf heben.
-Sie hebt langsam den Kopf, der Blick verschiebt sich natürlich zur Linse, schließlich sieht sie direkt in die Kamera. Kiefer-, Nacken- und Schulterbewegungen sind koordiniert, die Aktionen sind dezent und kohärent, Schulter und Nacken tragen immer noch Spannung. Ihre langsame Bewegung bildet einen deutlichen rhythmischen Kontrast zum vorherigen schnellen Push.
-
-9–10s: Blick.
-Statische Nahaufnahme beibehalten. Sie sieht weiterhin direkt in die Kamera, nur subtile Atmung, hinterlässt eine stille, doch druckvolle emotionale Pause. Fügen Sie keine Musik, keine plötzlichen Sound-Effekte oder andere Aktionen hinzu.
-
-4K Ultra HD, 3840x2160, 16:9 Querformat. Realistische cineastische Fotografie-Textur, natürliche Hauttextur, Haare und Stoffdetails bewahren, weiche Highlights, geschichtete Schatten. Erlauben Sie natürliche Bewegungsunschärfe während der Phase des schnellen Vorrückens, Augen und Gesichtsmerkmale nach dem abrupten Stop klar. Identität der Figur, Gesichtsproportionen und Struktur immer konsistent, Ausdrücke ändern sich natürlich mit den Aktionen, Handstrukturen korrekt.
-Nur diese eine Frau im Bild. Keine Duplikate, Geister, Gesichtsverzerrungen, Clipping, Stottern, Über-Schärfung, Glättung der Haut oder HDR-Gefühl. Kein Dialog, keine Untertitel, keine Wasserzeichen oder Logos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111107336794460160/img/8bg4v5s440luFfpg.jpg" width="600" alt="Variabel Geschwindigkeits-Push-in-Cineastischer-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12635)**
-
-**Autor:** [Eli Ha](https://x.com/FromSummerF) | **Quelle:** [Link](https://x.com/FromSummerF/status/2111107921316852127) | **Veröffentlicht:** Oct 16, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -6784,6 +6824,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-05T01:07:48.256Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-05T12:10:22.579Z</sub>
 
 </div>

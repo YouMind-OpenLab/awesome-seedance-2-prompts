@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6649** |
+| 📝 Tổng số prompt | **6654** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-11-05** |
 
@@ -361,6 +361,194 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Trận chiến giữa Pháp sư và Khổng lồ Giáp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả video chi tiết để tạo cảnh chiến đấu giả tưởng điện ảnh siêu thực, với pháp sư đối đầu khổng lồ trong sa mạc, dành riêng cho Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Tạo một video trận chiến kỳ ảo mang đậm chất điện ảnh, chân thực đến từng chi tiết, với nhân vật chính là một nữ pháp sư trẻ đầy quyền năng trong bộ trang phục ma thuật màu xanh dương đậm thanh lịch cùng chiếc mũ phù thủy chóp nhọn. Hãy khắc họa cảnh nàng đơn thương độc mã đối đầu với đội quân khổng lồ gồm những gã giáp trụ khổng lồ đáng sợ trên chiến trường sa mạc mênh mông. Nàng tung ra nguồn năng lượng ma thuật đỏ rực phát sáng đầy uy lực, tạo nên những đợt sóng lửa bùng nổ và các cơn bão cát cuộn xoáy dữ dội. Thể hiện những pha xung trận hoành tráng của đại quân, màn thi triển phép thuật đầy kịch tính, nhịp độ hành động căng thẳng tột độ, chuyển động nhân vật chân thực, góc máy chuẩn điện ảnh cùng một phân cảnh kết thúc đẹp đến nghẹt thở. Bầu không khí dark fantasy, phong cách bom tấn Hollywood, siêu chi tiết, 4K, chân thực như ảnh chụp, chuyển động điện ảnh mượt mà.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118203237866299392/img/QuxxR-Pcd4_Uo3wA.jpg" width="600" alt="Trận chiến giữa Pháp sư và Khổng lồ Giáp">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13540)**
+
+**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2118203280501465535) | **Đã xuất bản:** Nov 5, 2026
+
+---
+### Biến lốp xe cũ thành bàn cà phê phát sáng lung linh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video dọc siêu thực minh họa dự án DIY biến chiếc lốp xe bẩn thành bàn cà phê phát sáng với đèn LED.
+
+#### 📝 Prompt
+
+```
+Video DIY dọc, phong cách chân thực như ảnh chụp. Một người đàn ông đội mũ lưỡi trai đen, mặc áo thun xám và quần túi hộp màu đen đang quỳ trên hiên bê tông cạnh bức tường gạch đỏ có đặt vài chậu cây. Anh xịt dung dịch tẩy rửa tạo bọt lên chiếc lốp xe ô tô bám đầy bùn đất bẩn thỉu, dùng bàn chải cọ mạnh cho đến khi lớp bọt trắng chảy ròng ròng, rồi lấy khăn lau sạch bong để lộ lớp cao su đen bóng. Anh lồng một tấm gỗ ép hình tròn vào bên trong lốp, dùng máy khoan pin màu vàng bắt vít cố định, lắp thêm ba chân gỗ vát nghiêng, lật đứng chiếc lốp lên thành một đế bàn vững chãi và đặt mặt kính tròn lên trên. Anh quấn dải đèn LED ánh sáng trắng ấm quanh vành trong, đặt lại mặt kính lên trên rồi cắm dây nguồn từ hông lốp để ánh đèn LED hắt sáng xuyên qua mặt kính. Cảnh quay chuyển sang một phòng khách ấm cúng về đêm với bộ sofa góc màu be, đèn cây và thảm đay tròn, nơi chiếc bàn trà lốp xe phát sáng giờ đây trở thành tâm điểm của căn phòng. Camera từ từ tiến lại gần mặt bàn, hé lộ một đường hầm gương vô cực đầy mê hoặc với những vòng LED vàng lặp đi lặp nhau hút sâu vào bóng tối. Ánh sáng môi trường ấm áp, chuyển động camera mượt mà, chuỗi cảnh biến đổi thỏa mãn thị giác, chi tiết sắc nét, chất liệu và độ phản chiếu chân thực.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118023563340840960/img/PDNKVzSwDXpYGSVu.jpg" width="600" alt="Biến lốp xe cũ thành bàn cà phê phát sáng lung linh">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13541)**
+
+**Tác giả:** [Ruslan Ai](https://x.com/Ruslanchain) | **Nguồn:** [Link](https://x.com/Ruslanchain/status/2118023608815571361) | **Đã xuất bản:** Nov 4, 2026
+
+---
+### Trưng Bày Sàn Terrazzo Cho Phòng Ngủ Tối Giản
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video thiết kế nội thất phong cách điện ảnh, tập trung vào phòng ngủ tối giản sáng sủa với họa tiết sàn terrazzo độc đáo và ánh sáng tự nhiên dịu nhẹ.
+
+#### 📝 Prompt
+
+```
+Cảnh quay cinematic đẩy máy chậm rãi, mượt mà vào một phòng ngủ tối giản ngập tràn ánh sáng với những bức tường trắng và khung cửa sổ lớn bên phải đón ánh nắng tự nhiên dịu nhẹ. Điểm nhấn trung tâm là chiếc giường bọc nệm màu be với đầu giường chần múi dọc, phủ ga trải giường trắng tinh tươm, hai chiếc gối điểm xuyết màu cam cháy cùng một tấm khăn trang trí dệt nổi màu cam đất vắt ngang cuối giường. Bên trái là chiếc tủ đầu giường nhỏ bằng gỗ, đặt trên đó là ngọn đèn gốm tỏa ánh sáng ấm áp và một chậu cây xanh tí hon. Phía trên giường treo bức tranh nghệ thuật trừu tượng lồng khung với tông màu be và cam ấm áp. Nơi góc phòng gần cửa sổ, cây ô liu xanh tốt trồng trong chậu trắng mang đến nét mộc mạc đầy sức sống. Sàn nhà mới thực sự là ngôi sao của khung hình: những viên gạch terrazzo đánh bóng loáng phủ kín họa tiết dày đặc hình cỏ ba lá màu cam và xanh lục phản chiếu ánh sáng lấp lánh. Chuyển động máy quay nhẹ nhàng, đổ bóng mềm mại tinh tế, không khí ấm áp và thanh bình, giới thiệu thiết kế nội thất chân thực như ảnh chụp, chất lượng 4K, không có người.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118022345185013760/img/dIURjjiLlBdkI0uC.jpg" width="600" alt="Trưng Bày Sàn Terrazzo Cho Phòng Ngủ Tối Giản">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13543)**
+
+**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2118022390194098208) | **Đã xuất bản:** Nov 4, 2026
+
+---
+### Video Âm Nhạc Thỏ Phi Thường
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt tạo video âm nhạc hoạt hình siêu thực với nhân vật thỏ xoay tròn hát bằng tiếng Trung, kèm hướng dẫn cụ thể về âm thanh và hình ảnh.
+
+#### 📝 Prompt
+
+```
+Tạo một phim hoạt hình âm nhạc ngắn dài 10 giây, khổ dọc, mang phong cách phi lý. Bối cảnh là một căn phòng trống trong nhà, xám xịt, tối tăm với tông màu xám lạnh độ bão hòa thấp; tường và sàn đơn điệu, tạo cảm giác ngột ngạt, góc máy cố định ở ngôi thứ nhất. Nhân vật chính là một chú thỏ được thiết kế nguyên bản theo phong cách hoạt hình cổ điển: toàn thân nhẵn bóng không lông, da trắng xám thuần khiết, mắt hơi mở to, nụ cười cứng đờ; tổng thể thiết kế không trùng khớp với bất kỳ nhân vật IP nào hiện có. Ở cảnh mở đầu, chú thỏ tiến sát ống kính và nhìn thẳng vào đó, lơ lửng bất động nửa giây rồi cất giọng khàn đặc, vô cảm, hơi méo tiếng nói rõ ràng: "Xin chào, bạn của tôi." Ngay giây tiếp theo, chú thỏ đột ngột bay vút lên cao và bắt đầu xoay tròn liên tục giữa không trung với tốc độ cực nhanh, điên cuồng, cơ thể quay tít quanh trục dọc của chính mình, tạo thành vệt mờ ảo nhưng vẫn giữ nguyên đường nét của chú thỏ trắng xám không lông. Góc máy duy trì ngôi thứ nhất xuyên suốt, bám theo thật nhanh và luôn khóa chặt chú thỏ đang xoay ở trung tâm khung hình; bối cảnh căn phòng phía sau tạo ra hiệu ứng chuyển động xoáy mạnh cùng độ rung lắc nhẹ của camera, mang đến nhịp điệu phi lý, căng thẳng và kỳ dị đầy tính thôi miên. Trong lúc xoay tít, chú thỏ liên tục hát bằng chất giọng khàn đặc: "Vòng xoáy ký ức này ~ sắp nuốt chửng tôi ~ xin đừng bỏ rơi tôi ~" Giọng hát vang lên rõ ràng, hòa cùng tiếng trống dồn dập, tiếng trống trầm tần số thấp và phần nhạc đệm điện tử, nhịp điệu âm nhạc đồng bộ hoàn toàn với tốc độ xoay. Không chứa phụ đề, văn bản, tiêu đề cách điệu, watermark hay bất kỳ yếu tố giao diện nào.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117995379132452864/img/Mo9ma7Oh-4KWWzvv.jpg" width="600" alt="Video Âm Nhạc Thỏ Phi Thường">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13542)**
+
+**Tác giả:** [小喆（XiaoZhe）](https://x.com/XiaoZhe1984) | **Nguồn:** [Link](https://x.com/XiaoZhe1984/status/2117995741616721964) | **Đã xuất bản:** Nov 4, 2026
+
+---
+### Seedance 2.0 Home Product Ad Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt chi tiết để tạo video quảng cáo sản phẩm gia dụng điện ảnh bằng Seedance 2.0, tập trung vào thẩm mỹ ánh sáng và các cảnh sinh hoạt gia đình.
+
+#### 📝 Prompt
+
+```
+[Thông số]
+Tỷ lệ 16:9 ngang, thời lượng 15 giây, sử dụng toàn bộ khả năng tham chiếu (reference).
+Tạo một video quảng cáo sản phẩm gia dụng mang đậm chất điện ảnh hoàn chỉnh trong một lần tạo, bao gồm: cảnh toàn sản phẩm, cảnh cận, chi tiết chất liệu, cảnh người bật quạt, cảnh cả gia đình cùng sử dụng và end card thương hiệu.
+Nửa đầu: cắt cảnh dứt khoát, chuyển động máy quay chính xác. Nửa sau: ấm áp và thư giãn.
+
+[Tài liệu tham chiếu]
+@Image1 là cơ sở duy nhất về ngoại hình của chiếc quạt trần đèn. Giữ nguyên tuyệt đối cấu trúc, hình dáng, chất liệu và tỷ lệ của 5 cánh quạt màu đen, thân tròn màu đen, viền bạc và mặt đèn tròn màu trắng. Không được thiết kế lại sản phẩm.
+@Image2 chỉ dùng để tham khảo bố cục không gian phòng khách, sofa màu be, nội thất gỗ sáng màu, cửa sổ sát trần và ánh sáng tự nhiên rực rỡ. Không sao chép các đường luồng khí, mũi tên xanh hay sơ đồ lắp đặt từ hình ảnh này.
+
+[Hình ảnh tổng thể]
+Chất lượng quảng cáo điện ảnh chân thực, sáng sủa và trong trẻo, ánh sáng tự nhiên hắt ngang dịu nhẹ kết hợp cùng ánh sáng trong nhà.
+Không gian tông màu be và gỗ sáng làm nền tương phản với sản phẩm màu đen. Vỏ đen có độ nhám tinh tế, phần phản chiếu trên viền bạc tiết chế vừa đủ, mặt đèn trắng phát sáng dịu nhẹ giữ được các lớp chi tiết, không bị cháy sáng thành đốm trắng xóa.
+Da người chân thực, tự nhiên, không làm mịn da quá mức, không phủ filter cam vàng đậm.
+Bố cục vững chãi, chuyển động máy quay chuẩn xác, độ sâu trường ảnh tự nhiên. Không thêm quầng sáng cường điệu, phông nền công nghệ tối, hạt bụi bay lơ lửng hay hình tượng hóa luồng gió.
+
+[Không gian và trạng thái sản phẩm]
+Toàn bộ cảnh quay đều diễn ra trong cùng một phòng khách gia đình hiện đại.
+Sofa vải màu be, bàn trà gỗ sáng màu, rèm mỏng, vài chậu cây xanh, gọn gàng và mang hơi thở sinh hoạt đời thường chân thực.
+Quạt trần đèn được lắp cố định bình thường trên trần phòng khách, kích thước sản phẩm và tỷ lệ không gian hợp lý, không lơ lửng, không thể hiện quá trình lắp đặt.
+Ở đầu video, mặt đèn đã sáng sẵn, cánh quạt đứng yên; sau khi nhân vật bật quạt, cánh quạt bắt đầu quay tự nhiên, độ sáng của đèn giữ nguyên không đổi.
+Ngoại hình sản phẩm, bố cục không gian và hướng ánh sáng phải đồng nhất xuyên suốt mọi cảnh quay.
+
+[Nhân vật]
+Gia đình 3 người gốc Á chân thực, tự nhiên.
+Người mẹ khoảng 30 tuổi, mặc áo sơ mi linen xanh nhạt, quần dài màu be, tóc đen dài ngang vai, trang điểm nhẹ nhàng tự nhiên.
+Người cha khoảng 35 tuổi, mặc áo cotton ngắn tay màu be, quần dài xám đậm, tóc ngắn.
+Em bé khoảng 6 tuổi, mặc áo cotton ngắn tay vàng nhạt, quần dài màu sáng.
+Trang phục thường ngày, phù hợp bối cảnh; hành động đơn giản, tự nhiên, không nhìn thẳng vào ống kính, không cười gượng kiểu quảng cáo.
+
+[Kịch bản phân cảnh]
+
+Cảnh 1 (0-2s):
+Cảnh toàn phòng khách theo chiều ngang, máy quay tiến tới nhẹ nhàng.
+Quạt trần đèn xuất hiện rõ nét ngay từ khung hình đầu tiên, sản phẩm nằm ở vùng giữa phía trên màn hình đóng vai trò trung tâm thị giác, bên dưới là sofa màu be và bàn trà gỗ sáng.
+Máy quay hướng về phía sản phẩm, thể hiện mối liên hệ giữa quạt trần đèn và không gian phòng khách. Không mở đầu bằng cửa sổ, mảng tường trống hay các cảnh vô nghĩa khác. Không để trần nhà chiếm quá nhiều khoảng trống.
+
+Cảnh 2 (2-4s):
+Cắt cứng sang góc cận chéo sản phẩm, lia máy ngang một đoạn ngắn.
+Thể hiện rõ cấu trúc của 5 cánh quạt đen, thân tròn và viền bạc. Ánh sáng hắt ngang dịu nhẹ tôn lên đường nét sản phẩm, phông nền phòng khách mờ đi tự nhiên.
+Cánh quạt vẫn đứng yên, hình dáng sản phẩm ổn định, không lia máy vòng tròn 360 độ, không lia máy nhanh đột ngột.
+
+Cảnh 3 (4-7s):
+Cắt cứng sang cảnh cận chất liệu thân đèn và viền bạc, di chuyển ngang cự ly ngắn dọc theo viền.
+Trước tiên thể hiện điểm giao nhau giữa vỏ đen và viền bạc, sau đó đưa vào mặt đèn tròn đang tỏa sáng dịu nhẹ.
+Chất liệu chân thực, tinh xảo và phần phản chiếu tiết chế; không lộ cấu trúc cơ khí bên trong, không tự ý thêm chi tiết, không làm cháy sáng mặt đèn. Nhịp cắt khớp với nhạc, hình ảnh sạch sẽ, sắc sảo.
+
+Cảnh 4 (7-9s):
+Cắt cứng sang cảnh trung cận cố định.
+Người mẹ đứng cạnh sofa, vươn tay về phía một thiết bị điều khiển nằm ngoài khung hình, thực hiện thao tác bật nhanh gọn rồi tự nhiên quay lại hướng về phía gia đình.
+Không đưa thiết bị điều khiển hay chi tiết ngón tay bấm nút vào khung hình, không tự tạo ra remote hư cấu, không quay cận cảnh nút bấm, không thể hiện các tính năng chưa được xác nhận.
+
+Cảnh 5 (9-15s):
+Chuyển sang cảnh toàn phòng khách theo chiều ngang, máy quay lùi lại chậm rãi.
+Quạt trần đèn nằm ở vùng giữa phía trên màn hình, cánh quạt quay tự nhiên với độ nhòe chuyển động vừa phải; thân đen, mặt đèn và viền bạc luôn cố định, rõ nét.
+Phía dưới, gia đình ba người đang ngồi trên sofa, em bé ngồi giữa bố mẹ đọc sách tranh, bố mẹ hơi cúi đầu xem cùng, thỉnh thoảng mỉm cười tự nhiên với nhau. Đuôi tóc người mẹ lay động nhẹ, không bị thổi tung cường điệu.
+Quạt trần đèn và gia đình tạo thành một lớp chiều dọc rõ ràng, luôn nằm trong cùng một khung hình, sản phẩm không được thu nhỏ quá mức.
+Khung cảnh ấm áp, thoải mái, hòa thuận; không thêm các hành động phức tạp như ôm ấp, chuyền đồ hay quay cận cảnh lật trang sách.
+Giữ bố cục ổn định trong 3 giây cuối, chừa đủ khoảng nền sạch phía dưới cho dòng chữ quảng cáo thương hiệu, không che khuất khuôn mặt hay sản phẩm.
+Kết thúc giữ nguyên cảnh gia đình cùng chiếc quạt trần đèn đang hoạt động trong một khung hình, không chuyển cảnh thêm, không đột ngột chuyển đen.
+
+[Chữ quảng cáo cuối video]
+Từ giây thứ 12, mờ dần (fade in) một dòng quảng cáo hoàn chỉnh căn giữa phía dưới:
+"Adam makes life more comfortable"
+
+Phải hiển thị chính xác dòng chữ trên, chữ 'A' trong Adam viết hoa, các chữ còn lại viết thường, không thêm, bớt hay thay thế bất kỳ ký tự nào.
+Dùng font chữ quảng cáo hiện đại, tối giản, rõ ràng; màu chữ tương phản tốt với phông nền, cỡ chữ dễ đọc, bố cục chữ vững chãi.
+Dòng chữ giữ nguyên đến hết giây thứ 15, không nhấp nháy, biến dạng, xoay hay bay vào.
+Chữ chỉ được ghép đè lên hình ảnh, không in lên vỏ sản phẩm, tường hay quần áo nhân vật.
+Không xuất hiện bất kỳ văn bản nào khác ngoài dòng quảng cáo này.
+
+[Âm nhạc và Lồng tiếng]
+Nửa đầu dùng nhạc nền electronic nhẹ nhàng, hiện đại, tiết tấu sạch sẽ; nhịp cắt khớp với phách nhạc.
+Sau khi bước vào cảnh toàn gia đình ở giây thứ 9, nhạc chuyển sang êm ái, ấm áp, nhịp điệu thả lỏng tự nhiên.
+Thêm chút âm thanh môi trường trong nhà chân thực, không dùng tiếng gió rít cường điệu, tiếng máy móc gầm rú hay hiệu ứng âm thanh công nghệ.
+Không có lời thoại của nhân vật.
+
+Từ giây 12-15, giọng nữ trưởng thành ấm áp, trong trẻo, có chiều sâu, đọc trọn vẹn câu:
+"Adam, makes life more comfortable."
+
+Từ "Adam" phát âm theo tên tiếng Anh /ˈædəm/, nhấn trọng âm ở âm tiết đầu, không đánh vần từng chữ cái.
+Cả câu kéo dài khoảng 3 giây, ngữ điệu tự nhiên, điềm tĩnh, không lê thê, không hô hào kiểu quảng cáo, không cố tỏ ra mùi mẫn.
+Khi giọng lồng tiếng xuất hiện, giảm âm lượng nhạc nền để đảm bảo nghe rõ tên thương hiệu và slogan.
+Dòng chữ quảng cáo đồng bộ với giọng đọc, nhạc kết thúc tự nhiên.
+
+[Ràng buộc bắt buộc]
+Mọi cảnh quay phải giữ nguyên cùng một sản phẩm, cùng một phòng khách, cùng một hướng ánh sáng.
+Luôn giữ đúng 5 cánh quạt, không tăng, không giảm, không thay đổi hình dáng cánh.
+Chỉ có cánh quạt quay; thân đèn, mặt đèn, viền bạc và bộ phận treo cố định không quay.
+Cánh quạt đứng yên trước khi vận hành, thể hiện trạng thái hoạt động qua cú cắt sau khi bật; không yêu cầu cảnh cận liên tục để diễn tả quá trình tăng tốc khởi động.
+Không tự ý thêm các tính năng chưa được xác nhận như điều chỉnh độ sáng, cảm biến, chế độ im lặng, tiết kiệm điện hay bất kỳ thông số hiệu năng nào khác.
+Không làm biến dạng sản phẩm, không để sản phẩm lơ lửng, không tháo rời chi tiết hay dùng hình ảnh phân rã (exploded view).
+Không có đường luồng khí, mũi tên xanh, hạt bụi bay lơ lửng hay những cơn gió mạnh cường điệu.
+Tay nhân vật tự nhiên, không thừa ngón, không dính liền chi thể.
+Không watermark, không phụ đề thừa, không logo thương hiệu nào khác.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117895646497898496/img/P_KLY38ljWxKfI20.jpg" width="600" alt="Seedance 2.0 Home Product Ad Video Prompt">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13544)**
+
+**Tác giả:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Nguồn:** [Link](https://x.com/Adam38363368936/status/2117895898999210440) | **Đã xuất bản:** Nov 4, 2026
+
+---
 ### Prompt Video Selfie Thời Trang Seedance 2.5
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -6550,154 +6738,6 @@ Tạo một video phiêu lưu điện ảnh siêu thực về thế giới thu n
 **Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2111311551710007388) | **Đã xuất bản:** Oct 17, 2026
 
 ---
-### Cô Gái Học Sinh Đi Bộ Dưới Hoa Anh Đào
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt chi tiết để tạo video điện ảnh dài 30 giây về một nữ sinh Nhật Bản đi bộ dưới tán hoa anh đào gần đường ray xe lửa.
-
-#### 📝 Prompt
-
-```
-Tạo một video điện ảnh siêu thực tế dài 30 giây về một nữ sinh Nhật Bản trẻ tuổi đang đi bộ dọc theo đoạn giao cắt đường sắt, được bao quanh bởi những cây hoa anh đào nở rộ tuyệt đẹp. Cô mặc đồng phục thủy thủ kiểu Nhật truyền thống màu xanh navy với sọc trắng, váy xếp ly cùng màu, giày đen và túi đeo vai màu đen, với kiểu tóc bob ngắn gọn gàng màu đen và đeo khẩu trang đen. Bắt đầu bằng cảnh quay rộng từ phía sau khi cô đi chậm rãi bên cạnh đường ray, xung quanh là những bông hoa anh đào tinh tế màu hồng nhạt và trắng. Máy quay nhẹ nhàng theo dõi cô từ phía sau, ghi lại chuyển động tự nhiên của mái tóc, đồng phục và chiếc túi khi làn gió nhẹ thổi qua những hàng cây. Chuyển sang các cảnh quay cận cảnh đẹp mắt vào đôi vai, kiểu tóc và đồng phục của cô trong khi cô lặng lẽ ngắm nhìn những bông hoa anh đào phía trên. Ghi lại những cánh hoa phức tạp, những cành cây mảnh mai và ánh sáng ban ngày tự nhiên mềm mại với độ sâu trường ảnh nông và hiệu chỉnh màu sắc điện ảnh chân thực. Từ từ nghiêng máy quay lên trên để lộ ra một tán hoa anh đào mơ màng trải dài khắp bầu trời. Kết thúc bằng cảnh quay rộng từ trên cao kiểu flycam cho thấy cô gái đang đi bộ gần đoạn giao cắt đường sắt, được khung hình hóa bởi đường ray và những hàng cây nở hoa vô tận. Duy trì ngoại hình nhân vật nhất quán, giải phẫu học chân thực, chuyển động máy quay mượt mà, ánh sáng tự nhiên và không khí phim Nhật Bản hoài niệm yên bình xuyên suốt toàn bộ video 30 giây, không có văn bản, logo hay watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111294112578273280/img/lARGZKv52YTw6qaB.jpg" width="600" alt="Cô Gái Học Sinh Đi Bộ Dưới Hoa Anh Đào">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12630)**
-
-**Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2111294203095629930) | **Đã xuất bản:** Oct 17, 2026
-
----
-### Sự thức tỉnh của Hạm đội Không gian
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt hành động khoa học viễn tưởng cho video điện ảnh 15 giây, mô tả các hạm đội không gian chiến đấu gần một ngôi sao đang lụi tàn và tiết lộ một thực thể vừa thức tỉnh.
-
-#### 📝 Prompt
-
-```
-Video ngắn hành động khoa học viễn tưởng chân thực như ảnh chụp, độ dài 15 giây, tỷ lệ khung hình 16:9.
-Hai hạm đội không gian khổng lồ lao về phía một sao đỏ đang lụi tàn.
-Hạm đội thứ nhất cố gắng tiếp cận ngôi sao.
-Hạm đội thứ hai tìm cách tiêu diệt họ trước khi đến nơi.
-Hàng trăm tiêm kích giao chiến dữ dội trong khi cả hai hạm đội lao thẳng vào tầng khí quyển ngoài của ngôi sao.
-Các tàu vũ trụ luồn lách giữa những vụ phun trào mặt trời khổng lồ.
-Tên lửa biến mất trong dòng plasma nóng chảy.
-Một tàu vũ trụ nhỏ tách khỏi trận chiến và lao xuống bề mặt ngôi sao.
-Một tiêm kích địch bám theo.
-Hai con tàu biến mất dưới lớp vỏ phát sáng.
-Đột nhiên, mọi thứ chìm vào tĩnh lặng.
-Camera hé lộ một cấu trúc hình học khổng lồ ẩn sâu bên trong ngôi sao.
-Bề mặt của nó bắt đầu mở ra.
-Một chùm tia sáng chói lòa bắn ra ngoài.
-Ngôi sao không hề lụi tàn.
-Một thứ gì đó bên trong nó vừa mới thức tỉnh.
-Vật lý thiên văn chân thực, quy mô cực đại, chiến đấu không gian quyết liệt, truy đuổi nhanh, môi trường plasma, khoảnh khắc tiết lộ kịch tính, chuyển động camera điện ảnh, chi tiết tàu vũ trụ sắc nét, không có chữ, không có logo, không phong cách anime, không hoạt hình.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111183606764736512/img/D3t4ZuH6oSsNn1Zi.jpg" width="600" alt="Sự thức tỉnh của Hạm đội Không gian">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12632)**
-
-**Tác giả:** [Alexandra Aisling](https://x.com/AllaAisling) | **Nguồn:** [Link](https://x.com/AllaAisling/status/2111216112566153340) | **Đã xuất bản:** Oct 16, 2026
-
----
-### Câu lệnh Video Cải tạo Sàn Epoxy Lá Phong
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chi tiết để tạo video tua nhanh siêu thực về việc cải tạo sàn nhà bằng lá phong mùa thu và nhựa epoxy. Quy trình bao gồm trải lá, đổ nhựa, đánh bóng đến độ trong suốt và lắp ráp nội thất, tạo ra một mặt sàn bóng loáng như hổ phách.
-
-#### 📝 Prompt
-
-```
-Video cải tạo thỏa mãn (satisfying) siêu thực theo tỷ lệ dọc 9:16, phong cách tua nhanh thời gian với các chuyển cảnh mượt mà. Một căn phòng trống màu trắng, sàn bê tông, ánh nắng ấm áp chiếu qua cửa sổ.
-
-Cảnh 1: Một người đàn ông mặc áo sơ mi dài tay màu đen và quần yếm denim dùng cào để gom một đống lớn lá phong mùa thu màu cam và đỏ rực rỡ trên sàn, trải đều lá khắp toàn bộ căn phòng bằng những động tác quét mượt mà.
-
-Cảnh 2: Một phụ nữ mặc quần yếm màu đỏ đổ nhựa epoxy trắng đặc từ một thùng lớn; chất lỏng trắng bóng lan rộng thành hình tròn, phủ kín tất cả các lá cho đến khi toàn bộ mặt sàn được phủ một lớp trắng.
-
-Cảnh 3: Một công nhân mặc áo phản quang màu vàng và đội mũ dùng máy đánh bóng sàn để mài bề mặt trắng đã cứng lại; khi anh ta đánh bóng, lớp phủ trở nên trong suốt như pha lê, lộ ra những chiếc lá phong sống động bị lơ lửng bên trong lớp epoxy bóng loáng giống như hổ phách.
-
-Cảnh 4: Cận cảnh bàn tay đang lăn một lớp phủ bóng hoàn thiện cuối cùng, mặt sàn trở nên bóng như gương với những phản chiếu từ cửa sổ.
-
-Cảnh 5: Hai người thợ vận chuyển mặc đồng phục đen và đội mũ nhanh chóng lắp ráp khung giường gỗ sáng màu, đặt nệm, chăn ga gối màu trắng với tốc độ tua nhanh.
-
-Cảnh cuối: Phòng ngủ tối giản hoàn thiện — mặt sàn epoxy bóng loáng tuyệt đẹp chứa đầy những chiếc lá phong mùa thu màu cam bị đóng băng, chiếc giường trắng ở trung tâm, những tia phản chiếu của ánh nắng nhảy múa trên bề mặt đã được đánh bóng.
-
-Phong cách: chân thực như ảnh chụp (photorealistic), nội dung cải tạo ASMR thỏa mãn, bảng màu mùa thu ấm áp, ánh sáng ban ngày tự nhiên, cắt cảnh nhanh mượt mà, chi tiết cao, chất lượng 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111145355043602432/img/Z6CVCEHHPYhcMwnR.jpg" width="600" alt="Câu lệnh Video Cải tạo Sàn Epoxy Lá Phong">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12628)**
-
-**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2111145392444162432) | **Đã xuất bản:** Oct 16, 2026
-
----
-### Máy Ép Thủy Lực Nghiền Trứng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc video ASMR thỏa mãn, mô tả cảnh máy ép thủy lực nghiền nát trứng luộc chín trong buồng chứa trong suốt.
-
-#### 📝 Prompt
-
-```
-Video siêu thực dọc tỷ lệ 9:16, quay cận cảnh tĩnh từ phía trước. Một máy ép thủy lực công nghiệp mạnh mẽ với các cột crom bóng loáng và piston thép từ từ hạ xuống trên một buồng hình trụ bằng acrylic trong suốt chứa đầy những quả trứng luộc đã cắt đôi, lòng đỏ vàng óng hướng về phía camera. Khi tấm kim loại nặng ép xuống, trứng bị nén, nứt vỡ và bung ra, giải phóng hỗn hợp trứng kem màu vàng nhạt chảy qua một vòi thép ở đáy, tạo thành dòng chảy dày đặc vào một chiếc bát inox tròn bên dưới. Nền nhà máy công nghiệp sáng sủa, sạch sẽ, ánh đèn huỳnh quang trần dịu nhẹ, nội thất xưởng mờ ảo. Phong cách máy ép thủy lực ASMR thỏa mãn, kết cấu cực kỳ chi tiết, vật lý chất lỏng chân thực, chuyển động ép chậm mượt mà, độ sâu trường ảnh nông, chất lượng 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111144307516116992/img/rLOvgdK5WZsB3ir9.jpg" width="600" alt="Máy Ép Thủy Lực Nghiền Trứng">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12631)**
-
-**Tác giả:** [Ruslan Ai](https://x.com/Ruslanchain) | **Nguồn:** [Link](https://x.com/Ruslanchain/status/2111144330228277497) | **Đã xuất bản:** Oct 16, 2026
-
----
-### Prompt Điện Ảnh Push-in Với Tốc Độ Thay Đổi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một prompt điện ảnh chi tiết cao cho cảnh tàu điện ngầm với chuyển động máy quay có tốc độ thay đổi, được thiết kế cho các mô hình video cao cấp như Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Tham chiếu ngoại hình và danh tính nhân vật [Image 1]. Toa tàu điện ngầm lúc nửa đêm, toa cuối cùng đang di chuyển, không có hành khách nào khác ngoài cô ấy. Cô ngồi một mình, đầu cúi xuống, hai tay đan chéo tự nhiên trên đùi. Ánh đèn trần màu hổ phách chiếu sáng cô, trong khi các toa xung quanh mang tông xanh xám đậm, tạo nên bầu không khí tĩnh lặng và ngột ngạt.
-
-Tổng thời lượng 10 giây, một cú quay liên tục, không cắt cảnh. Sử dụng kết cấu của ống kính vintage Cooke Speed Panchro 50mm, điểm sáng mềm mại, quầng sáng tinh tế. Tiêu cự cố định, máy quay thực sự đẩy tới dọc theo trục hướng về phía nhân vật, tiêu điểm liên tục bám theo khuôn mặt của nhân vật.
-
-0–3s: Gần như tĩnh.
-Bắt đầu từ góc trung cảnh hiển thị tư thế ngồi và đôi tay đan chéo của nhân vật. Máy quay tiến về phía trước cực kỳ chậm, gần như không thể nhận ra. Cô ngồi yên với đầu cúi, vai thả lỏng, chỉ có hơi thở tự nhiên nhẹ nhàng. Âm thanh chủ yếu là tiếng gầm tần số thấp của tàu điện ngầm, kèm nhạc nền môi trường gần như không nghe thấy, không giai điệu hay trống.
-3–6s: Tiếp cận nhanh đột ngột.
-Máy quay bất ngờ tăng tốc đáng kể, tiếp cận cô với tốc độ cao dọc theo cùng trục. Nhân vật lớn lên nhanh chóng trong khung hình, phối cảnh toa tàu thay đổi tự nhiên khi máy quay tiến tới, tạo áp lực trực diện mạnh mẽ. Gia tốc quyết đoán, chuyển động liền mạch, không thể xử lý như một cú push đều hoặc nhẹ nhàng xuyên suốt. Cô vẫn giữ đầu cúi, hơi thở dần nông hơn, vai và cổ căng nhẹ, các ngón tay đan chặt lại. Tiếng drone tần số thấp tăng nhanh cùng với cú push, giữ mức kiểm soát, không lấn át âm thanh môi trường.
-
-6–6.2s: Phanh gấp, dừng đột ngột.
-Máy quay phanh gấp trong khoảng 0.2 giây, dừng đột ngột ở cận cảnh khuôn mặt, bảo toàn hoàn toàn trán và cằm với một chút không gian. Tốc độ vẫn rõ ràng trước khi dừng, việc phanh ngắn gọn và mạnh mẽ, thể hiện tác động của chuyển động tốc độ cao bị cắt đứt đột ngột. Không giảm tốc sớm, không ôm sát mặt, không lao vào mặt. Sau khi dừng, vị trí máy quay ổn định ngay lập tức, không trượt, nảy lại hay rung lắc; hơi thở và chuyển động của nhân vật tiếp tục tự nhiên, hình ảnh không được đóng băng.
-Tại thời điểm phanh, ánh sáng môi trường xanh xám đậm xung quanh suy giảm nhanh chóng, ánh sáng ấm màu hổ phách trên mặt cô vẫn còn, tạo thành sự hội tụ ánh sáng - bóng tối mang phong cách, các vùng tối vẫn hé lộ mờ nhạt cấu trúc toa tàu. Chỉ thay đổi lớp ánh sáng và tông màu, giữ nguyên cấu trúc toa, vị trí đồ vật và vật liệu liên tục và nhất quán.
-
-Đồng thời với việc máy quay dừng, nhạc nền môi trường cắt sạch sẽ, không có hiệu ứng âm thanh va chạm hay đuôi vang (reverb tails). Tiếng gầm tàu điện ngầm tiếp tục, chỉ rõ rằng chỉ máy quay đã dừng, tàu vẫn đang chạy.
-6.2–6.7s: Ngưng đọng ngắn.
-Máy quay hoàn toàn tĩnh. Cô vẫn giữ đầu cúi, duy trì tư thế trong chốc lát, chỉ có hơi thở nhẹ. Chỉ còn tiếng gầm tần số thấp của tàu điện ngầm và hơi thở của nhân vật, nhạc không quay lại.
-6.7–9s: Từ từ ngẩng đầu.
-Cô từ từ ngẩng đầu lên, ánh mắt tự nhiên chuyển sang ống kính, cuối cùng nhìn thẳng vào camera. Chuyển động của hàm, cổ và vai phối hợp nhịp nhàng, hành động kiềm chế và liền mạch, vai và cổ vẫn còn căng. Chuyển động chậm của cô tạo nên sự tương phản nhịp điệu rõ rệt với cú push nhanh trước đó.
-
-9–10s: Ánh mắt.
-Duy trì cận cảnh tĩnh. Cô tiếp tục nhìn thẳng vào camera, chỉ có hơi thở nhẹ, để lại một khoảng lặng cảm xúc tĩnh nhưng đầy áp lực. Không thêm nhạc, hiệu ứng âm thanh đột ngột hoặc các hành động khác.
-
-4K Ultra HD, 3840x2160, tỷ lệ ngang 16:9. Kết cấu nhiếp ảnh điện ảnh chân thực, giữ nguyên kết cấu da tự nhiên, tóc và chi tiết vải, điểm sáng mềm mại, bóng đổ phân lớp. Cho phép mờ chuyển động (motion blur) tự nhiên trong giai đoạn push tốc độ cao, mắt và đặc điểm khuôn mặt rõ nét sau khi dừng đột ngột. Danh tính nhân vật, tỷ lệ và cấu trúc khuôn mặt luôn nhất quán, biểu cảm thay đổi tự nhiên theo hành động, cấu trúc bàn tay chính xác.
-Chỉ có một phụ nữ này trong khung hình. Không có bản sao, bóng ma, biến dạng khuôn mặt, clipping, giật lag, làm sắc nét quá mức, làm mịn da hoặc cảm giác HDR. Không có đối thoại, phụ đề, watermark hoặc logo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111107336794460160/img/8bg4v5s440luFfpg.jpg" width="600" alt="Prompt Điện Ảnh Push-in Với Tốc Độ Thay Đổi">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12635)**
-
-**Tác giả:** [Eli Ha](https://x.com/FromSummerF) | **Nguồn:** [Link](https://x.com/FromSummerF/status/2111107921316852127) | **Đã xuất bản:** Oct 16, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -6759,6 +6799,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-05T01:07:43.704Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-05T12:10:17.705Z</sub>
 
 </div>

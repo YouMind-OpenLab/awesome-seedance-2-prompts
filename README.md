@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6649** |
+| 📝 Total Prompts | **6654** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-11-05** |
 
@@ -365,6 +365,194 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Sorceress vs Armored Giants Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for creating an ultra-realistic cinematic fantasy battle scene featuring a sorceress fighting giants in a desert, specifically for Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Create an ultra-realistic cinematic fantasy battle video featuring a powerful young sorceress wearing an elegant dark-blue magical outfit and pointed wizard hat. Show her fighting a massive army of terrifying armored giants across a vast desert battlefield. She unleashes powerful glowing red magical energy, creating explosive fire waves and swirling dust storms. Show epic army charges, dramatic spellcasting, intense action, realistic character movements, cinematic camera angles, and a breathtaking final scene. Dark fantasy atmosphere, Hollywood blockbuster style, ultra-detailed, 4K, photorealistic, smooth cinematic motion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118203237866299392/img/QuxxR-Pcd4_Uo3wA.jpg" width="600" alt="Sorceress vs Armored Giants Battle">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13540)**
+
+**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2118203280501465535) | **Published:** Nov 5, 2026
+
+---
+### DIY Tire to Glowing Coffee Table Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A photorealistic vertical video prompt demonstrating a DIY project where a dirty car tire is cleaned and converted into a glowing coffee table with LED lights.
+
+#### 📝 Prompt
+
+```
+Vertical DIY video, photorealistic style. A man in a black baseball cap, gray t-shirt and black cargo pants kneels on a concrete patio beside a red brick wall with potted plants. He sprays foaming cleaner onto a filthy mud-caked car tire, scrubs it with a brush until white foam drips down, then wipes the tire spotless black with a cloth. He fits a round plywood disc inside the tire, drives screws with a yellow cordless drill, attaches three angled wooden legs, flips the tire upright into a sturdy table base and sets a round glass top on it. He coils a warm white LED strip around the inner rim, places the glass back on top, and plugs in a power cord from the side of the tire so the LEDs glow through the glass. The scene transitions to a cozy living room at night with a beige sectional sofa, a floor lamp and a round jute rug, where the glowing tire coffee table now sits as the centerpiece. The camera slowly pushes in on the tabletop, revealing a hypnotic infinite mirror tunnel of repeating golden LED rings receding into darkness. Warm ambient lighting, smooth camera movements, satisfying transformation montage, high detail, realistic textures and reflections.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118023563340840960/img/PDNKVzSwDXpYGSVu.jpg" width="600" alt="DIY Tire to Glowing Coffee Table Transformation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13541)**
+
+**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2118023608815571361) | **Published:** Nov 4, 2026
+
+---
+### Minimalist Bedroom Terrazzo Floor Showcase
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic interior design video prompt focusing on a bright minimalist bedroom with unique terrazzo flooring patterns and soft natural lighting.
+
+#### 📝 Prompt
+
+```
+A slow, smooth cinematic push-in shot of a bright minimalist bedroom with white walls and a large window on the right letting in soft natural daylight. The centerpiece is a beige upholstered bed with a channel-tufted headboard, dressed in crisp white bedding, two burnt-orange accent pillows, and a textured terracotta-orange throw runner across the foot. To the left stands a small wooden nightstand with a glowing ceramic table lamp and a tiny green plant. Above the bed hangs a framed abstract art print in warm beige and orange tones. In the corner near the window, a leafy olive tree in a white pot adds organic texture. The floor is the star: glossy polished terrazzo tiles covered in a dense pattern of orange and green clover-shaped motifs that reflect the light. Gentle camera movement, subtle soft shadows, warm serene atmosphere, photorealistic interior design showcase, 4K quality, no people.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118022345185013760/img/dIURjjiLlBdkI0uC.jpg" width="600" alt="Minimalist Bedroom Terrazzo Floor Showcase">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13543)**
+
+**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2118022390194098208) | **Published:** Nov 4, 2026
+
+---
+### Absurd Rabbit Music Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A prompt for generating a surreal animated music short featuring a spinning rabbit character singing in Chinese, with specific audio and visual directions.
+
+#### 📝 Prompt
+
+```
+Generate a 10-second vertical-screen absurd animated music short film. The scene is a gray, dim, empty indoor room with a low-saturation cool gray tone; the walls and floor are simple and oppressive, with a fixed first-person camera perspective. The main subject is an original classic-animation-style rabbit character, with smooth hairless skin all over, pure grayish-white skin, slightly widened eyes, and a stiff smile; the overall design does not correspond to any existing IP character. At the opening, the rabbit is close to the camera and facing it directly, suspended motionless for half a second, and says clearly in an emotionless, hoarse, slightly distorted voice: "Hello, my friend." The next second, the rabbit suddenly flies upward and enters an extremely fast, frantic, continuous midair spin, with its body rotating at high speed around its own vertical axis, forming a blurred spinning afterimage while still maintaining the grayish-white hairless rabbit outline. The camera maintains the first-person perspective throughout and follows quickly, always keeping the spinning rabbit locked at the center of the frame; the background room produces a strong sense of rotational motion and slight camera shake, with an absurd, tense, and hypnotically bizarre rhythm. While spinning at high speed, the rabbit continuously sings in a hoarse singing voice: "This vortex of memories ~ about to swallow me ~ please don't leave me ~" The vocals are clear, accompanied by fast drumbeats, low-frequency drums, and electronic accompaniment, and the music rhythm is synchronized with the rotation speed. No subtitles, text, stylized captions, watermarks, or interface elements of any kind.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117995379132452864/img/Mo9ma7Oh-4KWWzvv.jpg" width="600" alt="Absurd Rabbit Music Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13542)**
+
+**Author:** [小喆（XiaoZhe）](https://x.com/XiaoZhe1984) | **Source:** [Link](https://x.com/XiaoZhe1984/status/2117995741616721964) | **Published:** Nov 4, 2026
+
+---
+### Seedance 2.0 Home Product Ad Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for generating a cinematic home product advertisement using Seedance 2.0, focusing on fan light aesthetics and family scenes.
+
+#### 📝 Prompt
+
+```
+[Parameters]
+16:9 landscape, 15 seconds duration, full reference capability.
+Generate a complete cinematic home product advertisement in one go, including product wide shots, close-ups, material details, person turning on the fan, whole family usage scene, and brand end card.
+First half: sharp cuts, precise camera movement. Second half: warm and relaxed.
+
+[Reference Materials]
+@Image1 is the sole appearance basis for the fan light. Strictly maintain the structure, shape, material, and proportions of the five black blades, black circular body, silver trim ring, and white circular light face. Do not redesign the product.
+@Image2 only references the living room spatial layout, beige sofa, light wood furniture, floor-to-ceiling windows, and bright natural light. Do not copy airflow lines, blue arrows, or installation diagrams from the image.
+
+[Overall Visuals]
+Realistic cinematic advertising quality, bright and transparent, soft natural side lighting combined with indoor lighting.
+Beige and light wood environment contrasts with the black product. Black shell has delicate texture, silver trim highlights are restrained, white light face glows softly with retained layers, not overexposed into pure white spots.
+People's skin is realistic and natural, no skin smoothing, no heavy orange-yellow filters.
+Stable composition, precise camera movement, natural depth of field. No exaggerated halos, dark tech backgrounds, floating particles, or visualized airflow.
+
+[Space and Product State]
+All shots are in the same modern family living room.
+Beige fabric sofa, light wood coffee table, light curtains, some green plants, tidy with a real lived-in feel.
+The fan light is normally fixed to the living room ceiling, product size and space proportions are reasonable, not floating, no installation process shown.
+At the start, the light face is already on, blades are static; after the person turns on the fan, blades rotate naturally, light brightness remains unchanged.
+Product appearance, spatial layout, and lighting direction remain consistent across all shots.
+
+[Characters]
+Natural and realistic Chinese family of three.
+Mother around 30 years old, wearing light blue linen shirt, beige trousers, shoulder-length dark hair, natural light makeup.
+Father around 35 years old, wearing beige cotton short-sleeve, dark grey trousers, short hair.
+Child around 6 years old, wearing light yellow cotton short-sleeve, light colored trousers.
+Clothing is daily and appropriate, actions are simple and natural, not looking at the camera, no exaggerated advertising smiles.
+
+[Storyboard]
+
+Shot 1 (0-2s):
+Lightly advancing landscape wide shot of the living room.
+Fan light clearly visible in the first frame, product located in the upper-middle part of the screen as the clear visual center, beige sofa and light wood coffee table below.
+Camera moves towards the product, showing the relationship between the fan light and the living room. Do not open with windows, empty walls, or other empty shots. Do not leave too much blank ceiling.
+
+Shot 2 (2-4s):
+Hard cut to oblique close-up of the product, small horizontal slide.
+Clearly show the structural relationship of the five black blades, circular body, and silver trim ring. Soft side lighting outlines the product contour, background living room naturally blurred.
+Blades still static, product shape stable, no full circle orbiting, no whip pans.
+
+Shot 3 (4-7s):
+Hard cut to material close-up of the light body and silver trim ring, short distance horizontal move along the trim ring.
+First show the connection between the black shell and silver trim ring, then bring in the softly glowing circular light face.
+Realistic delicate materials and restrained highlights, do not show mechanical internals, do not invent parts, do not overexpose the light face. Cuts follow music beats, clean and sharp visuals.
+
+Shot 4 (7-9s):
+Hard cut to fixed medium close-up.
+Mother stands beside the sofa, reaches out to an off-screen control device, completes a concise activation action, then naturally turns to face the family.
+Control device and finger button details do not enter the frame, do not generate fictional remote controls, do not shoot button close-ups, do not show unconfirmed operational functions.
+
+Shot 5 (9-15s):
+Cut to stable landscape wide shot of the living room, slowly pulling back.
+Fan light is in the upper-middle part of the screen, blades are rotating naturally with moderate motion blur, black body, light face, and silver trim ring remain fixed and clear.
+Below, the family of three is sitting on the sofa, child sits between parents reading a picture book, parents slightly lower heads to watch together, occasionally smiling naturally at each other. Mother's hair tips move slightly, not exaggeratedly blown up.
+Fan light and family form a clear vertical layer, always in the same frame, product cannot shrink too small.
+Scene is warm, comfortable, harmonious, do not add complex actions like hugging, passing items, page-turning close-ups.
+Keep composition stable for the last 3 seconds, leave enough clean background below for brand ad text, do not obscure faces or product.
+Ending stays on the family scene with the running fan light in the same frame, no more scene switches, no sudden fade to black.
+
+[End Ad Text]
+Starting from second 12, softly fade in a complete ad line centered at the bottom:
+"Adam makes life more comfortable"
+
+Must accurately display the above text, 'A' in Adam capitalized, rest lowercase, no additions, omissions, or replacements.
+Use a concise and clear modern advertising font, text color forms sufficient contrast with background, font size clearly readable, steady typography.
+Text remains until second 15 ends, no flickering, deformation, rotation, or fly-ins.
+Text is only overlaid on the image, not printed on product shell, walls, or people's clothes.
+No other text besides this ad line.
+
+[Music and Voiceover]
+First half uses clean, rhythmic modern light electronic soundtrack, cuts correspond to beats.
+After entering the family panorama at second 9, music turns soft and warm, rhythm naturally relaxes.
+Small amount of real indoor ambient sound, no exaggerated wind sounds, mechanical roars, or tech sound effects.
+No character dialogue.
+
+Seconds 12-15, warm, clear, textured adult female voiceover, completely says:
+"Adam, makes life more comfortable."
+
+Adam pronounced as English name /ˈædəm/, stress on first syllable, do not spell out letters.
+Whole sentence about 3 seconds, tone natural and calm, not dragging, not promotional shouting, not deliberately sentimental.
+When voiceover appears, lower soundtrack volume to ensure brand name and slogan are clearly audible.
+Ad text syncs with voiceover, music naturally concludes.
+
+[Hard Constraints]
+All shots strictly maintain the same product, same living room, same lighting direction.
+Always keep five blades, no increase, no decrease, no change in blade shape.
+Only blades rotate, light body, light face, silver trim ring, and mounting parts do not rotate.
+Blades static before operation, show running state via cut after operation, do not require continuous close-up to show startup acceleration.
+Do not add unconfirmed dimming, sensing, silent mode, energy saving, or other performance displays.
+No product deformation, floating, part disassembly, or exploded views.
+No airflow lines, blue arrows, floating particles, or exaggerated strong winds.
+People's hands are natural, no extra fingers, no limb fusion.
+No watermarks, no extra subtitles, no other brand logos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117895646497898496/img/P_KLY38ljWxKfI20.jpg" width="600" alt="Seedance 2.0 Home Product Ad Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13544)**
+
+**Author:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2117895898999210440) | **Published:** Nov 4, 2026
+
+---
 ### Seedance 2.5 Fashion Selfie Video Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -6763,168 +6951,6 @@ Create an ultra-realistic cinematic miniature adventure featuring a tiny athleti
 **Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2111311551710007388) | **Published:** Oct 17, 2026
 
 ---
-### Cherry Blossom Railway Walk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a nostalgic, cinematic video of a Japanese schoolgirl walking past cherry blossoms near railway tracks, emphasizing soft lighting and film-like atmosphere.
-
-#### 📝 Prompt
-
-```
-Create a 30-second ultra-realistic cinematic video of a young Japanese schoolgirl walking along a railway crossing surrounded by breathtaking cherry blossom trees in full bloom. She wears a traditional navy-blue Japanese sailor-style school uniform with white stripes, a matching pleated skirt, black shoes, and a black shoulder bag, with a neat short black bob hairstyle and a black face mask. Begin with a wide cinematic shot from behind as she walks slowly beside the railway tracks, surrounded by delicate pale-pink and white blossoms. The camera gently follows her from behind, capturing the natural movement of her hair, school uniform, and bag as a soft breeze moves through the trees. Transition into beautiful close-up shots of her shoulders, hairstyle, and uniform while she quietly admires the cherry blossoms above her. Capture the intricate petals, delicate branches, and soft natural daylight with shallow depth of field and realistic cinematic color grading. Slowly tilt the camera upward to reveal a dreamy canopy of cherry blossoms stretching across the sky. Finish with an elevated wide aerial-style shot showing the girl walking near the railway crossing, framed by the tracks and endless blooming trees. Maintain consistent character appearance, realistic anatomy, smooth camera movements, natural lighting, and a peaceful nostalgic Japanese film atmosphere throughout the entire 30-second video, with no text, logos, or watermarks.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111294112578273280/img/lARGZKv52YTw6qaB.jpg" width="600" alt="Cherry Blossom Railway Walk">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12630)**
-
-**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2111294203095629930) | **Published:** Oct 17, 2026
-
----
-### Space Fleet Star Awakening
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A sci-fi action prompt for a 15-second cinematic video featuring space fleets fighting near a dying star that reveals an awakening entity.
-
-#### 📝 Prompt
-
-```
-15-second cinematic photorealistic science-fiction action short, 16:9.
-Two enormous space fleets race toward a dying red giant.
-The first fleet is trying to reach the star.
-The second fleet is trying to destroy them before they arrive.
-Hundreds of fighters collide in combat while both fleets plunge directly into the star's outer atmosphere.
-Ships weave between colossal solar eruptions.
-Missiles vanish inside rivers of plasma.
-A small spacecraft breaks away from the battle and dives toward the star's surface.
-An enemy fighter follows.
-The two ships disappear beneath the glowing surface.
-Suddenly everything becomes silent.
-The camera reveals an enormous geometric structure hidden inside the star.
-Its surface begins opening.
-A blinding beam erupts outward.
-The star isn't dying.
-Something inside it has just awakened.
-Photorealistic stellar physics, extreme scale, aggressive space combat, fast pursuit, plasma environments, dramatic reveal, cinematic camera movement, detailed spacecraft, no text, no logos, no anime, no cartoon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111183606764736512/img/D3t4ZuH6oSsNn1Zi.jpg" width="600" alt="Space Fleet Star Awakening">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12632)**
-
-**Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2111216112566153340) | **Published:** Oct 16, 2026
-
----
-### Maple Leaf Epoxy Floor Renovation Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a hyper-realistic time-lapse video of renovating a room floor using autumn maple leaves and epoxy resin. The sequence covers spreading leaves, pouring resin, polishing to transparency, and assembling furniture, resulting in a glossy amber-like floor.
-
-#### 📝 Prompt
-
-```
-Vertical 9:16 hyper-realistic satisfying renovation video, fast time-lapse style 
-with smooth transitions. An empty white room, concrete floor, warm sunlight 
-streaming through a window.
-
-Shot 1: A man in a black long-sleeve shirt and denim overalls rakes a huge mound 
-of vivid orange and red autumn maple leaves on the floor, spreading the leaves 
-evenly across the entire room in smooth sweeping motions.
-
-Shot 2: A woman in red overalls pours thick white epoxy resin from a large bucket; 
-the glossy white liquid spreads in an expanding circle, covering all the leaves 
-until the whole floor is coated white.
-
-Shot 3: A worker in a yellow high-visibility vest and cap polishes the hardened 
-white surface with a floor buffing machine; as he polishes, the layer turns 
-crystal-clear and transparent, revealing vibrant maple leaves suspended inside 
-the glossy epoxy like amber.
-
-Shot 4: Close shot of a hand applying a final glossy topcoat with a roller, 
-the floor becomes mirror-glossy with window reflections.
-
-Shot 5: Two movers in black uniforms and caps quickly assemble a light wooden 
-bed frame, place a mattress, white duvet and pillows in fast-forward motion.
-
-Final shot: Finished minimalist bedroom — stunning glossy epoxy floor filled 
-with frozen orange autumn leaves, white bed in the center, sunlight reflections 
-dancing on the polished surface.
-
-Style: photorealistic, satisfying ASMR renovation content, warm autumn color 
-palette, natural daylight, smooth fast cuts, high detail, 4K quality.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111145355043602432/img/Z6CVCEHHPYhcMwnR.jpg" width="600" alt="Maple Leaf Epoxy Floor Renovation Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12628)**
-
-**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2111145392444162432) | **Published:** Oct 16, 2026
-
----
-### Hydraulic Press Egg Crush
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A satisfying ASMR video prompt featuring a hydraulic press crushing hard-boiled eggs inside a transparent chamber.
-
-#### 📝 Prompt
-
-```
-Vertical 9:16 photorealistic video, static frontal close-up shot. A powerful industrial hydraulic press with polished chrome columns and a steel piston slowly descends onto a transparent acrylic cylinder chamber filled with halved hard-boiled eggs, glossy yellow yolks facing the camera. As the heavy metal plate presses down, the eggs compress, crack and burst, releasing creamy pale-yellow egg mixture that squeezes out through a steel spout at the bottom, flowing in a thick creamy stream into a round stainless steel bowl below. Bright clean industrial factory background, soft fluorescent ceiling lights, blurred workshop interior. Satisfying ASMR hydraulic press crushing style, ultra-detailed textures, realistic fluid physics, smooth slow pressing motion, shallow depth of field, 4K quality.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111144307516116992/img/rLOvgdK5WZsB3ir9.jpg" width="600" alt="Hydraulic Press Egg Crush">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12631)**
-
-**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2111144330228277497) | **Published:** Oct 16, 2026
-
----
-### Variable Speed Push-in Cinematic Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A highly detailed cinematic prompt for a subway scene with variable speed camera movement, designed for high-end video models like Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Character appearance and identity reference [Image 1]. Late-night subway car, last carriage in motion, no other passengers except her. She sits alone, head down, hands naturally crossed on her lap. Amber overhead lights illuminate her, while the surrounding carriages are deep cyan-grey-blue, creating a quiet and oppressive atmosphere.
-
-Total duration 10 seconds, one continuous shot, no cuts. Use the texture of a 50mm Cooke Speed Panchro vintage lens, soft highlights, restrained halos. Fixed focal length, the camera actually pushes forward along the axis facing the character, focus continuously follows the character's face.
-
-0–3s: Almost static.
-Start from a medium shot showing the character's sitting posture and crossed hands. The camera moves forward extremely slowly, almost imperceptibly. She sits quietly with head down, shoulders relaxed, only subtle natural breathing. Audio is primarily low-frequency subway rumble, with nearly inaudible ambient music without melody or drums.
-3–6s: Sudden high-speed approach.
-The camera suddenly accelerates significantly, approaching her at high speed along the same axis. The character rapidly grows larger in the frame, carriage perspective changes naturally as the camera moves forward, creating strong frontal pressure. Acceleration is decisive, motion continuous, cannot be processed as uniform or gentle push throughout. She still keeps her head down, breathing gradually shallow, shoulder and neck tensing slightly, crossed fingers tightening gently. Low-frequency drone increases rapidly with the push, kept restrained, not overpowering environmental sounds.
-
-6–6.2s: Abrupt braking, sudden stop.
-The camera brakes abruptly within approx 0.2 seconds, stopping suddenly at a facial close-up, fully preserving forehead and chin with some space. Speed is still evident before stopping, braking is short and forceful, presenting the impact of high-speed motion being suddenly cut off. No early easing, no face-hugging, no rushing into the face. After stopping, camera position stabilizes immediately, no sliding, rebound, or shaking; character's breathing and movements continue naturally, image must not freeze.
-At the moment of braking, surrounding cyan-grey-blue ambient light decays rapidly, amber warm light on her face remains, forming stylized light-dark convergence, dark areas still faintly reveal carriage structure. Only change lighting and tonal layers, keep carriage structure, object positions, and materials continuous and consistent.
-
-Simultaneously with the camera stop, ambient music cuts cleanly, no sound effect hits or reverb tails. Subway rumble continues, clearly indicating only the camera stopped, train is still moving.
-6.2–6.7s: Brief pause.
-Camera completely static. She still keeps her head down, briefly maintaining posture, only subtle breathing. Only low-frequency subway rumble and character's breathing remain, music does not enter again.
-6.7–9s: Slowly raising head.
-She slowly raises her head, gaze naturally shifts to the lens, finally looking directly at the camera. Jaw, neck, and shoulder movements are coordinated, actions restrained and coherent, shoulder and neck still carrying tension. Her slow movement forms a distinct rhythmic contrast with the previous rapid push.
-
-9–10s: Gaze.
-Maintain static close-up. She continues to look directly at the camera, only subtle breathing, leaving a quiet yet pressurized emotional pause. Do not add music, sudden sound effects, or other actions.
-
-4K Ultra HD, 3840x2160, 16:9 landscape. Realistic cinematic photography texture, preserving natural skin texture, hair, and fabric details, soft highlights, layered shadows. Allow natural motion blur during high-speed push phase, eyes and facial features clear after abrupt stop. Character identity, facial proportions, and structure always consistent, expressions change naturally with actions, hand structures correct.
-Only this one woman in the frame. No duplicates, ghosts, facial distortion, clipping, stuttering, over-sharpening, skin smoothing, or HDR feel. No dialogue, subtitles, watermarks, or logos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111107336794460160/img/8bg4v5s440luFfpg.jpg" width="600" alt="Variable Speed Push-in Cinematic Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12635)**
-
-**Author:** [Eli Ha](https://x.com/FromSummerF) | **Source:** [Link](https://x.com/FromSummerF/status/2111107921316852127) | **Published:** Oct 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -6986,6 +7012,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-05T01:07:36.717Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-05T12:10:09.465Z</sub>
 
 </div>

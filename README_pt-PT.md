@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6649** |
+| 📝 Total de prompts | **6654** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-11-05** |
 
@@ -361,6 +361,194 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Batalha: Feiticeira vs. Gigantes Blindados
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de vídeo detalhado para criar uma cena de batalha cinematográfica de fantasia ultra-realista, apresentando uma feiticeira lutando contra gigantes em um deserto, especificamente para o Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo de batalha de fantasia cinematográfica ultrarrealista com uma poderosa jovem feiticeira vestindo um elegante traje mágico azul-escuro e o clássico chapéu pontudo de bruxa. Mostre-a enfrentando um exército colossal de gigantes aterrorizantes e blindados em um vasto campo de batalha no deserto. Ela libera uma intensa energia mágica vermelha e brilhante, gerando ondas de fogo explosivas e tempestades de areia em redemoinho. Inclua investidas épicas do exército, conjuração de feitiços dramática, ação frenética, movimentos realistas dos personagens, ângulos de câmera cinematográficos e uma cena final de tirar o fôlego. Atmosfera de dark fantasy, estilo blockbuster de Hollywood, nível de detalhe extremo, 4K, fotorrealista, movimentação cinematográfica fluida.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118203237866299392/img/QuxxR-Pcd4_Uo3wA.jpg" width="600" alt="Batalha: Feiticeira vs. Gigantes Blindados">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13540)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2118203280501465535) | **Publicado:** Nov 5, 2026
+
+---
+### Transformação DIY: De Pneu a Mesa de Centro Iluminada
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de vídeo vertical fotorrealista demonstrando um projeto DIY onde um pneu de carro sujo é limpo e convertido em uma mesa de centro iluminada com luzes LED.
+
+#### 📝 Prompt
+
+```
+Vídeo DIY na vertical, estilo fotorrealista. Um homem de boné preto, camiseta cinza e calça cargo preta está ajoelhado em um piso de concreto ao lado de uma parede de tijolos vermelhos com vasos de plantas. Ele aplica um limpador em espuma sobre um pneu de carro sujo e coberto de lama, esfrega com uma escova até a espuma branca escorrer e, em seguida, passa um pano para deixar o pneu impecável e totalmente preto. Ele encaixa um disco redondo de compensado dentro do pneu, aperta os parafusos com uma furadeira sem fio amarela, fixa três pernas de madeira anguladas, vira o pneu para cima para formar uma base de mesa resistente e coloca um tampo de vidro redondo por cima. Ele enrola uma fita de LED branco quente na borda interna, recoloca o vidro no lugar e conecta um cabo de energia na lateral do pneu, fazendo com que os LEDs brilhem através do vidro. A cena faz uma transição para uma sala de estar aconchegante à noite, com um sofá modular bege, uma luminária de chão e um tapete redondo de juta, onde a mesa de centro feita de pneu iluminada agora é o destaque do ambiente. A câmera avança lentamente em direção ao tampo da mesa, revelando um hipnotizante túnel de espelho infinito com anéis de LED dourados que se repetem e desaparecem na escuridão. Iluminação ambiente acolhedora, movimentos de câmera suaves, montagem de transformação satisfatória, alto nível de detalhes, texturas e reflexos realistas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118023563340840960/img/PDNKVzSwDXpYGSVu.jpg" width="600" alt="Transformação DIY: De Pneu a Mesa de Centro Iluminada">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13541)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2118023608815571361) | **Publicado:** Nov 4, 2026
+
+---
+### Vitrine de Piso Terrazzo para Quarto Minimalista
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de vídeo cinematográfico de design de interiores focado em um quarto minimalista iluminado com padrões únicos de piso terrazzo e luz natural suave.
+
+#### 📝 Prompt
+
+```
+Um travelling de aproximação lento e suave, com estética cinematográfica, num quarto minimalista e luminoso, com paredes brancas e uma grande janela à direita que deixa entrar uma luz natural suave. O ponto central é uma cama estofada em bege, com cabeceira capitonê em canaletas, vestida com roupa de cama branca impecável, duas almofadas decorativas em laranja queimado e um caminho de pé de cama texturizado em tom terracota alaranjado. À esquerda, encontra-se uma pequena mesa de cabeceira em madeira com um candeeiro de mesa em cerâmica acesa e uma plantinha verde. Por cima da cama, está pendurado um quadro com uma gravura abstrata em tons quentes de bege e laranja. No canto junto à janela, uma oliveira frondosa num vaso branco acrescenta textura orgânica. O chão é o verdadeiro protagonista: ladrilhos de terrazzo polidos e brilhantes, cobertos por um padrão denso de motivos em forma de trevo nas cores laranja e verde que refletem a luz. Movimento de câmara delicado, sombras suaves e subtis, atmosfera serena e acolhedora, apresentação fotorrealista de design de interiores, qualidade 4K, sem pessoas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118022345185013760/img/dIURjjiLlBdkI0uC.jpg" width="600" alt="Vitrine de Piso Terrazzo para Quarto Minimalista">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13543)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2118022390194098208) | **Publicado:** Nov 4, 2026
+
+---
+### Videoclipe Musical do Coelho Absurdo
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt para gerar um curta-metragem musical animado surreal, apresentando um coelho girando e cantando em chinês, com diretrizes específicas de áudio e visual.
+
+#### 📝 Prompt
+
+```
+Gere um curta-metragem musical animado e absurdo de 10 segundos em formato vertical. A cena se passa em uma sala interna vazia, cinza e mal iluminada, com tons frios de cinza de baixa saturação; as paredes e o chão são simples e opressivos, com a câmera fixa em perspectiva de primeira pessoa. O personagem principal é um coelho original no estilo de animação clássica, com a pele lisa e sem pelos por todo o corpo, num tom puramente branco-acinzentado, olhos levemente arregalados e um sorriso rígido; o design geral não corresponde a nenhum personagem de IP existente. Na abertura, o coelho está bem perto da câmera e virado diretamente para ela, suspenso e imóvel por meio segundo, e diz claramente, com uma voz rouca, sem emoção e levemente distorcida: "Olá, meu amigo." No segundo seguinte, o coelho de repente voa para cima e entra em um giro contínuo, frenético e extremamente rápido no ar, com o corpo girando em alta velocidade em torno do próprio eixo vertical, formando um rastro giratório desfocado, mas mantendo a silhueta do coelho sem pelos branco-acinzentado. A câmera mantém a perspectiva de primeira pessoa o tempo todo e acompanha rapidamente, sempre travando o coelho em rotação no centro do enquadramento; a sala ao fundo transmite uma forte sensação de movimento rotacional e um leve tremor de câmera, criando um ritmo absurdo, tenso e hipnoticamente bizarro. Enquanto gira em alta velocidade, o coelho canta continuamente com uma voz rouca: "Este vórtice de memórias ~ prestes a me engolir ~ por favor, não me deixe ~" Os vocais são nítidos, acompanhados por batidas rápidas de bateria, tambores de baixa frequência e arranjos eletrônicos, e o ritmo da música é sincronizado com a velocidade da rotação. Sem legendas, textos, letreiros estilizados, marcas d'água ou qualquer tipo de elemento de interface.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117995379132452864/img/Mo9ma7Oh-4KWWzvv.jpg" width="600" alt="Videoclipe Musical do Coelho Absurdo">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13542)**
+
+**Autor:** [小喆（XiaoZhe）](https://x.com/XiaoZhe1984) | **Fonte:** [Link](https://x.com/XiaoZhe1984/status/2117995741616721964) | **Publicado:** Nov 4, 2026
+
+---
+### Prompt de Vídeo Anúncio de Produto Doméstico Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt detalhado para gerar um anúncio cinematográfico de produto doméstico usando o Seedance 2.0, com foco na estética da luz do ventilador e cenas familiares.
+
+#### 📝 Prompt
+
+```
+[Parâmetros]
+Formato paisagem 16:9, duração de 15 segundos, capacidade total de referência.
+Gere um anúncio cinematográfico completo do produto para casa de uma só vez, incluindo planos gerais do produto, close-ups, detalhes dos materiais, uma pessoa ligando o ventilador, cena de uso com toda a família e cartão final da marca.
+Primeira metade: cortes secos, movimentos de câmera precisos. Segunda metade: clima acolhedor e descontraído.
+
+[Materiais de Referência]
+@Image1 é a única base visual para o ventilador de teto com luz. Mantenha rigorosamente a estrutura, o formato, o material e as proporções das cinco pás pretas, do corpo circular preto, do anel de acabamento prateado e da superfície de luz circular branca. Não redesenhe o produto.
+@Image2 serve apenas como referência para a disposição espacial da sala, o sofá bege, os móveis de madeira clara, as janelas do piso ao teto e a luz natural abundante. Não copie linhas de fluxo de ar, setas azuis ou diagramas de instalação presentes na imagem.
+
+[Visual Geral]
+Qualidade publicitária cinematográfica realista, luminosa e transparente, iluminação lateral natural suave combinada com a luz ambiente interna.
+O ambiente em tons de bege e madeira clara contrasta com o produto preto. A carcaça preta tem textura refinada, os reflexos no acabamento prateado são discretos e a superfície de luz branca brilha suavemente, preservando as camadas de luz sem estourar em manchas brancas puras.
+A pele das pessoas é realista e natural, sem efeito de pele lisa nem filtros alaranjados intensos.
+Enquadramento estável, movimentos de câmera precisos, profundidade de campo natural. Sem halos exagerados, fundos tecnológicos escuros, partículas flutuantes ou fluxo de ar visualizado.
+
+[Espaço e Estado do Produto]
+Todos os planos ocorrem na mesma sala de estar moderna de uma família.
+Sofá de tecido bege, mesa de centro de madeira clara, cortinas leves, algumas plantas verdes; ambiente organizado, mas com aspecto autêntico de lar vivido.
+O ventilador de teto com luz está fixado normalmente no teto da sala, com tamanho do produto e proporções espaciais coerentes, sem parecer flutuar e sem mostrar o processo de instalação.
+No início, a superfície de luz já está acesa e as pás estão paradas; depois que a pessoa liga o ventilador, as pás giram naturalmente e o brilho da luz permanece inalterado.
+A aparência do produto, a disposição do espaço e a direção da luz mantêm-se consistentes em todos os planos.
+
+[Personagens]
+Família chinesa de três pessoas, com aparência natural e realista.
+Mãe com cerca de 30 anos, vestindo camisa de linho azul-clara, calça bege, cabelo escuro na altura dos ombros e maquiagem leve e natural.
+Pai com cerca de 35 anos, vestindo camiseta de algodão bege de manga curta, calça cinza-escuro e cabelo curto.
+Criança com cerca de 6 anos, vestindo camiseta de algodão amarelo-clara de manga curta e calça de cor clara.
+As roupas são casuais e adequadas ao dia a dia, os gestos são simples e naturais, ninguém olha para a câmera e não há sorrisos publicitários exagerados.
+
+[Storyboard]
+
+Plano 1 (0-2s):
+Plano geral paisagem da sala de estar, com avanço suave da câmera.
+O ventilador de teto com luz deve ser claramente visível no primeiro quadro, posicionado na parte superior central da tela como centro visual evidente, com o sofá bege e a mesa de centro de madeira clara abaixo.
+A câmera avança em direção ao produto, mostrando a relação entre o ventilador e a sala. Não comece com janelas, paredes vazias ou outros planos sem elementos. Não deixe excesso de teto vazio no enquadramento.
+
+Plano 2 (2-4s):
+Corte seco para close-up diagonal do produto, com leve movimento horizontal.
+Mostre claramente a relação estrutural entre as cinco pás pretas, o corpo circular e o anel de acabamento prateado. A iluminação lateral suave delineia o contorno do produto, enquanto a sala ao fundo fica naturalmente desfocada.
+As pás continuam paradas, o formato do produto permanece estável, sem órbitas completas ao redor dele nem movimentos rápidos de chicote (whip pans).
+
+Plano 3 (4-7s):
+Corte seco para close-up de texturas do corpo de luz e do anel de acabamento prateado, com breve movimento horizontal acompanhando o anel.
+Primeiro mostre a junção entre a carcaça preta e o anel prateado, revelando em seguida a superfície de luz circular com brilho suave.
+Materiais realistas e refinados, com reflexos contidos; não mostre componentes mecânicos internos, não invente peças e não superexponha a superfície de luz. Os cortes acompanham as batidas da música, com visuais limpos e nítidos.
+
+Plano 4 (7-9s):
+Corte seco para plano médio fechado fixo.
+A mãe está de pé ao lado do sofá, estende a mão para um dispositivo de controle fora de quadro, realiza um gesto breve de ativação e, em seguida, vira-se naturalmente para a família.
+Os detalhes do dispositivo de controle e do dedo apertando o botão não devem entrar no quadro; não gere controles remotos fictícios, não faça close-ups de botões e não mostre funções operacionais não confirmadas.
+
+Plano 5 (9-15s):
+Corte para plano geral paisagem estável da sala, com recuo lento da câmera.
+O ventilador de teto com luz fica na parte superior central da tela, com as pás girando naturalmente e leve desfoque de movimento, enquanto o corpo preto, a superfície de luz e o anel prateado permanecem fixos e nítidos.
+Abaixo, a família de três pessoas está sentada no sofá; a criança fica entre os pais lendo um livro ilustrado, os pais abaixam levemente a cabeça para acompanhar a leitura juntos e, de vez em quando, sorriem naturalmente um para o outro. As pontas do cabelo da mãe se movem sutilmente, sem serem sopradas de forma exagerada.
+O ventilador e a família formam uma camada vertical clara, sempre no mesmo quadro, e o produto não pode ficar pequeno demais.
+A cena é acolhedora, confortável e harmoniosa; não adicione ações complexas como abraços, troca de objetos ou close-ups virando páginas.
+Mantenha o enquadramento estável nos últimos 3 segundos, deixando espaço limpo suficiente na parte inferior para o texto publicitário da marca, sem cobrir rostos ou o produto.
+O encerramento permanece na cena da família com o ventilador em funcionamento no mesmo quadro, sem mais trocas de cena nem corte abrupto para preto.
+
+[Texto Final do Anúncio]
+A partir do segundo 12, exiba suavemente (fade in) uma frase publicitária completa, centralizada na parte inferior:
+"Adam makes life more comfortable"
+
+O texto acima deve ser exibido com exatidão: "A" de Adam maiúsculo e o restante em minúsculas, sem acréscimos, omissões ou substituições.
+Use uma fonte publicitária moderna, limpa e legível; a cor do texto deve ter contraste suficiente com o fundo, o tamanho deve ser claramente legível e a tipografia, estável.
+O texto permanece até o fim do segundo 15, sem piscar, deformar, girar ou surgir voando.
+O texto deve ser apenas sobreposto à imagem, e não impresso na carcaça do produto, nas paredes ou nas roupas das pessoas.
+Não inclua nenhum outro texto além desta frase publicitária.
+
+[Música e Locução]
+A primeira metade usa uma trilha eletrônica leve, moderna, limpa e rítmica, com os cortes sincronizados às batidas.
+Ao entrar no plano geral da família no segundo 9, a música torna-se suave e acolhedora, e o ritmo relaxa naturalmente.
+Inclua uma pequena quantidade de som ambiente interno realista, sem sons de vento exagerados, ruídos mecânicos ou efeitos sonoros tecnológicos.
+Sem diálogos entre os personagens.
+
+Dos segundos 12 a 15, locução feminina adulta, acolhedora, clara e com boa textura vocal, dizendo integralmente:
+"Adam, makes life more comfortable."
+
+Adam pronunciado como nome em inglês /ˈædəm/, com ênfase na primeira sílaba, sem soletrar as letras.
+A frase inteira dura cerca de 3 segundos, com tom natural e sereno, sem arrastar as palavras, sem gritos promocionais e sem sentimentalismo forçado.
+Quando a locução começar, reduza o volume da trilha sonora para garantir que o nome da marca e o slogan sejam claramente audíveis.
+O texto do anúncio sincroniza-se com a locução e a música encerra de forma natural.
+
+[Restrições Rígidas]
+Todos os planos devem manter rigorosamente o mesmo produto, a mesma sala e a mesma direção de luz.
+Mantenha sempre cinco pás, sem aumentar, diminuir ou alterar o formato delas.
+Apenas as pás giram; o corpo de luz, a superfície de luz, o anel de acabamento prateado e as peças de fixação não giram.
+As pás ficam paradas antes da ativação; mostre o estado de funcionamento por meio de corte após a ativação, sem exigir close-ups contínuos para mostrar a aceleração inicial.
+Não adicione demonstrações de recursos não confirmados, como ajuste de luminosidade, sensores, modo silencioso ou economia de energia.
+Sem deformação do produto, flutuação, desmontagem de peças ou vistas explodidas.
+Sem linhas de fluxo de ar, setas azuis, partículas flutuantes ou ventos fortes exagerados.
+As mãos das pessoas devem ser naturais, sem dedos extras nem fusão de membros.
+Sem marcas d'água, legendas adicionais ou logotipos de outras marcas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117895646497898496/img/P_KLY38ljWxKfI20.jpg" width="600" alt="Prompt de Vídeo Anúncio de Produto Doméstico Seedance 2.0">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13544)**
+
+**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fonte:** [Link](https://x.com/Adam38363368936/status/2117895898999210440) | **Publicado:** Nov 4, 2026
+
+---
 ### Prompt de Vídeo Selfie Fashion Seedance 2.5
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -6595,168 +6783,6 @@ Crie uma aventura cinematográfica ultra-realista em miniatura, apresentando uma
 **Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2111311551710007388) | **Publicado:** Oct 17, 2026
 
 ---
-### Passeio de Estudante sob Flores de Cerejeira
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt detalhado para criar um vídeo cinematográfico de 30 segundos de uma estudante japonesa caminhando sob flores de cerejeira perto de trilhos de trem.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo cinematográfico ultra-realista de 30 segundos mostrando uma jovem estudante japonesa caminhando por uma passagem de nível cercada por magníficas cerejeiras em plena floração. Ela veste um uniforme escolar tradicional japonês estilo marinheiro azul-marinho com listras brancas, saia plissada combinando, sapatos pretos e bolsa preta de ombro, com cabelo curto preto no estilo bob e máscara facial preta. Comece com uma tomada cinematográfica ampla de trás enquanto ela caminha lentamente ao lado dos trilhos, rodeada por delicadas flores rosa-pálido e brancas. A câmera segue suavemente por trás, capturando o movimento natural do cabelo, do uniforme e da bolsa enquanto uma brisa suave atravessa as árvores. Transicione para belos close-ups dos ombros, penteado e uniforme enquanto ela admira silenciosamente as flores de cerejeira acima dela. Capture as pétalas intrincadas, galhos delicados e luz natural suave com profundidade de campo rasa e correção de cor cinematográfica realista. Incline lentamente a câmera para cima para revelar um dossel onírico de flores de cerejeira estendendo-se pelo céu. Termine com uma tomada aérea elevada mostrando a menina caminhando perto da passagem de nível, enquadrada pelos trilhos e árvores infinitas em flor. Mantenha aparência consistente do personagem, anatomia realista, movimentos de câmera suaves, iluminação natural e uma atmosfera nostálgica e pacífica de filme japonês durante todo o vídeo de 30 segundos, sem texto, logotipos ou marcas d'água.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111294112578273280/img/lARGZKv52YTw6qaB.jpg" width="600" alt="Passeio de Estudante sob Flores de Cerejeira">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12630)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2111294203095629930) | **Publicado:** Oct 17, 2026
-
----
-### Despertar da Frota Estelar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de ação sci-fi para um vídeo cinematográfico de 15 segundos, apresentando frotas espaciais lutando perto de uma estrela moribunda que revela uma entidade em despertar.
-
-#### 📝 Prompt
-
-```
-Curta-metragem cinematográfico de ação de ficção científica fotorealista de 15 segundos, proporção 16:9.
-Duas enormes frotas espaciais correm em direção a uma gigante vermelha moribunda.
-A primeira frota tenta alcançar a estrela.
-A segunda frota tenta destruí-las antes que cheguem lá.
-Centenas de caças colidem em combate enquanto ambas as frotas mergulham diretamente na atmosfera externa da estrela.
-Naves manobram entre erupções solares colossais.
-Mísseis desaparecem dentro de rios de plasma.
-Uma pequena nave espacial se desliga da batalha e mergulha em direção à superfície da estrela.
-Um caça inimigo a segue.
-As duas naves desaparecem sob a superfície brilhante.
-De repente, tudo fica silencioso.
-A câmera revela uma enorme estrutura geométrica escondida dentro da estrela.
-Sua superfície começa a se abrir.
-Um feixe ofuscante irrompe para fora.
-A estrela não está morrendo.
-Algo dentro dela acabou de despertar.
-Física estelar fotorealista, escala extrema, combate espacial agressivo, perseguição rápida, ambientes de plasma, revelação dramática, movimento de câmera cinematográfico, naves espaciais detalhadas, sem texto, sem logotipos, sem anime, sem desenho animado.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111183606764736512/img/D3t4ZuH6oSsNn1Zi.jpg" width="600" alt="Despertar da Frota Estelar">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12632)**
-
-**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fonte:** [Link](https://x.com/AllaAisling/status/2111216112566153340) | **Publicado:** Oct 16, 2026
-
----
-### Prompt de Vídeo para Renovação de Piso Epóxi com Folhas de Bordo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar um vídeo em time-lapse hiper-realista da renovação do piso de um cômodo usando folhas de bordo outonais e resina epóxi. A sequência cobre a espalhamento das folhas, o despejo da resina, o polimento até a transparência e a montagem dos móveis, resultando em um piso brilhante com aparência âmbar.
-
-#### 📝 Prompt
-
-```
-Vídeo vertical 9:16 hiper-realista de renovação satisfatória, estilo time-lapse rápido 
-com transições suaves. Um quarto branco vazio, piso de concreto, luz solar quente 
-entrando pela janela.
-
-Cena 1: Um homem vestindo uma camisa preta de manga longa e macacão jeans recolhe um grande monte 
-de folhas de bordo outonais vivas em tons de laranja e vermelho no chão, espalhando as folhas 
-uniformemente por todo o cômodo com movimentos amplos e suaves.
-
-Cena 2: Uma mulher vestindo macacão vermelho despeja resina epóxi branca espessa de um balde grande; 
-o líquido branco brilhante se espalha em um círculo expansivo, cobrindo todas as folhas 
-até que todo o piso esteja revestido de branco.
-
-Cena 3: Um trabalhador vestindo colete amarelo de alta visibilidade e boné polimenta a superfície 
-branca endurecida com uma máquina de polimento de piso; enquanto ele polimenta, a camada fica 
-cristalina e transparente, revelando folhas de bordo vibrantes suspensas dentro 
-da resina epóxi brilhante como âmbar.
-
-Cena 4: Close de uma mão aplicando uma última camada final brilhante com um rolo, 
-o piso torna-se espelhado com reflexos da janela.
-
-Cena 5: Dois carregadores uniformizados de preto e bonés montam rapidamente uma estrutura de cama 
-de madeira clara, colocam um colchão, edredom branco e travesseiros em movimento acelerado.
-
-Cena final: Quarto minimalista terminado — piso epóxi brilhante deslumbrante preenchido 
-com folhas de bordo outonais congeladas, cama branca no centro, reflexos da luz do sol dançando 
-sobre a superfície polida.
-
-Estilo: fotorrealista, conteúdo de renovação ASMR satisfatório, paleta de cores outonais quentes, 
-luz natural, cortes rápidos suaves, alto nível de detalhe, qualidade 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111145355043602432/img/Z6CVCEHHPYhcMwnR.jpg" width="600" alt="Prompt de Vídeo para Renovação de Piso Epóxi com Folhas de Bordo">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12628)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2111145392444162432) | **Publicado:** Oct 16, 2026
-
----
-### Esmagamento de Ovos com Prensa Hidráulica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo ASMR satisfatório que apresenta uma prensa hidráulica esmagando ovos cozidos dentro de uma câmara transparente.
-
-#### 📝 Prompt
-
-```
-Vídeo fotorealista vertical 9:16, plano frontal estático em close-up. Uma poderosa prensa hidráulica industrial com colunas de cromo polido e um pistão de aço desce lentamente sobre uma câmara cilíndrica de acrílico transparente cheia de ovos cozidos cortados ao meio, com gemas amarelas brilhantes voltadas para a câmera. À medida que a pesada placa de metal pressiona para baixo, os ovos se comprimem, racham e explodem, liberando uma mistura cremosa de ovo amarelo-pálido que é espremida através de um bico de aço na parte inferior, fluindo em um jato espesso e cremoso para uma tigela redonda de aço inoxidável abaixo. Fundo de fábrica industrial limpo e brilhante, luzes fluorescentes suaves do teto, interior de oficina desfocado. Estilo satisfatório de esmagamento com prensa hidráulica ASMR, texturas ultra-detalhadas, física de fluidos realista, movimento lento e suave de pressão, profundidade de campo rasa, qualidade 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111144307516116992/img/rLOvgdK5WZsB3ir9.jpg" width="600" alt="Esmagamento de Ovos com Prensa Hidráulica">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12631)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2111144330228277497) | **Publicado:** Oct 16, 2026
-
----
-### Prompt Cinematográfico de Push-in com Velocidade Variável
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt cinematográfico altamente detalhado para uma cena de metrô com movimento de câmera de velocidade variável, projetado para modelos de vídeo de alta qualidade como Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Referência de aparência e identidade da personagem [Imagem 1]. Vagão de metrô à noite, último vagão em movimento, sem outros passageiros além dela. Ela está sentada sozinha, cabeça baixa, mãos cruzadas naturalmente no colo. Luzes âmbar do teto a iluminam, enquanto os vagões ao redor são de um azul-cinza-ciano profundo, criando uma atmosfera silenciosa e opressiva.
-
-Duração total de 10 segundos, plano contínuo único, sem cortes. Use a textura de uma lente vintage Cooke Speed Panchro de 50mm, realces suaves, halos discretos. Distância focal fixa; a câmera avança (push-in) ao longo do eixo em direção à personagem, com o foco seguindo continuamente o rosto dela.
-
-0–3s: Quase estático.
-Comece com um plano médio mostrando a postura sentada da personagem e as mãos cruzadas. A câmera avança extremamente devagar, quase imperceptivelmente. Ela permanece quieta com a cabeça baixa, ombros relaxados, apenas respiração natural sutil. O áudio é dominado pelo ronco de baixa frequência do metrô, com música ambiente quase inaudível, sem melodia ou bateria.
-3–6s: Aproximação súbita em alta velocidade.
-A câmera acelera significativamente de repente, aproximando-se dela em alta velocidade ao longo do mesmo eixo. A personagem cresce rapidamente no quadro, a perspectiva do vagão muda naturalmente conforme a câmera avança, criando forte pressão frontal. A aceleração é decisiva, o movimento é contínuo; não pode ser processado como um push-in uniforme ou suave durante todo o trecho. Ela ainda mantém a cabeça baixa, a respiração fica gradualmente mais curta, ombros e pescoço tensionam levemente, dedos cruzados apertam suavemente. O drone de baixa frequência aumenta rapidamente com o avanço, mantido contido, sem sobrepujar os sons ambientais.
-
-6–6.2s: Freagem abrupta, parada súbita.
-A câmera freia abruptamente em cerca de 0,2 segundos, parando subitamente em um close-up facial, preservando totalmente a testa e o queixo com algum espaço. A velocidade ainda é evidente antes da parada; a frenagem é curta e vigorosa, apresentando o impacto do movimento rápido sendo subitamente interrompido. Sem desaceleração antecipada, sem colar na face, sem invadir o rosto. Após parar, a posição da câmera estabiliza imediatamente, sem deslizamento, rebote ou tremor; a respiração e os movimentos da personagem continuam naturalmente, a imagem não deve congelar.
-No momento da frenagem, a luz ambiente ciano-cinza-azulada ao redor decai rapidamente, a luz quente âmbar no rosto dela permanece, formando uma convergência estilizada de claro-escuro; áreas escuras ainda revelam fracamente a estrutura do vagão. Altere apenas iluminação e camadas tonais, mantendo a estrutura do vagão, posições dos objetos e materiais contínuos e consistentes.
-
-Simultaneamente à parada da câmera, a música ambiente corta limpo, sem hits de efeitos sonoros ou caudas de reverb. O ronco do metrô continua, indicando claramente que apenas a câmera parou, o trem ainda está em movimento.
-6.2–6.7s: Breve pausa.
-Câmera completamente estática. Ela ainda mantém a cabeça baixa, sustentando a postura por um instante, apenas respiração sutil. Permanecem apenas o ronco de baixa frequência do metrô e a respiração da personagem; a música não retorna.
-6.7–9s: Levantando a cabeça lentamente.
-Ela levanta a cabeça lentamente, o olhar desloca-se naturalmente para a lente, finalmente olhando diretamente para a câmera. Movimentos de mandíbula, pescoço e ombros são coordenados, ações contidas e coerentes, ombros e pescoço ainda carregando tensão. Seu movimento lento forma um contraste rítmico distinto com o push-in rápido anterior.
-
-9–10s: Olhar.
-Mantenha o close-up estático. Ela continua olhando diretamente para a câmera, apenas respiração sutil, deixando uma pausa emocional quieta, porém pressurizada. Não adicione música, efeitos sonoros súbitos ou outras ações.
-
-4K Ultra HD, 3840x2160, paisagem 16:9. Textura fotográfica cinematográfica realista, preservando textura natural da pele, cabelo e detalhes do tecido, realces suaves, sombras em camadas. Permita desfoque de movimento natural durante a fase de push-in em alta velocidade; olhos e traços faciais nítidos após a parada abrupta. Identidade da personagem, proporções e estrutura facial sempre consistentes; expressões mudam naturalmente com as ações, estruturas das mãos corretas.
-Apenas esta mulher no quadro. Sem duplicatas, fantasmas, distorção facial, clipping, gagueira, super-nitidez, suavização de pele ou sensação HDR. Sem diálogo, legendas, marcas d'água ou logos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111107336794460160/img/8bg4v5s440luFfpg.jpg" width="600" alt="Prompt Cinematográfico de Push-in com Velocidade Variável">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=12635)**
-
-**Autor:** [Eli Ha](https://x.com/FromSummerF) | **Fonte:** [Link](https://x.com/FromSummerF/status/2111107921316852127) | **Publicado:** Oct 16, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -6818,6 +6844,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-05T01:07:52.770Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-05T12:10:27.330Z</sub>
 
 </div>
