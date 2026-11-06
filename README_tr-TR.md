@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6654** |
+| 📝 Toplam İstem | **6657** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-11-06** |
 
@@ -361,6 +361,81 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Fütüristik Spor Ayakkabı Parçalama Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Fütüristik bir spor ayakkabının katmanlı yapısını ve montajını gösteren sinematik bir video oluşturmak için hazırlanmış istem.
+
+#### 📝 İstem
+
+```
+Premium, fütüristik bir spor ayakkabı; dramatik spot ışıklarıyla aydınlatılmış, parlak ve yansıtıcı siyah zemine sahip karanlık, minimalist bir stüdyoda havada süzülüyor. Ayakkabı yavaşça birbirinden ayrılarak çok sayıda katmana bölünüyor ve gelişmiş iç yapısını gözler önüne seriyor: şık üst file, siyah yastıklama katmanı, beyaz orta taban ve canlı turuncu renkte, fütüristik petek dokusundan ilham alan dış taban.
+
+Her bir parça kusursuz bir hizalamayla ayrı ayrı havada süzülürken kamera akıcı bir şekilde yaklaşıyor; ince işçilik gerektiren mühendisliği ve yenilikçi tasarımı tüm detaylarıyla ortaya koyuyor.
+
+Turuncu tabanın benzersiz boşluklu yastıklama yapısına, detaylı dikişlere, nefes alan fileye ve premium malzemelere odaklanan aşırı makro çekimlere geçiş. Siyah eldivenli eller esnek tabanı özenle tutarak tanıtıyor ve yenilikçi darbe emici teknolojisini vurguluyor.
+
+Ardından, ellerin spor ayakkabıyı hassas mekanik hareketlerle katman katman bir araya getirişi gösteriliyor. Sahne, tamamen monte edilmiş ayakkabının karanlık stüdyonun tam ortasında zarifçe havada süzülmesi ve dramatik sinematik ışıklar altında yavaşça dönmesiyle son buluyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118559782529593345/img/xsAOLwOXlU3OXxIl.jpg" width="600" alt="Fütüristik Spor Ayakkabı Parçalama Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13567)**
+
+**Yazar:** [Zarnish](https://x.com/ZarnishNael) | **Kaynak:** [Link](https://x.com/ZarnishNael/status/2118559810035593407) | **Yayınlandı:** Nov 6, 2026
+
+---
+### Siberpunk Mekanik Sinek Makro Sinematik
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dış güzelliğin iç mekanizma karmaşıklığına geçişini gösteren, siberpunk tarzı mekanik bir sineğin makro sinematik çekimini oluşturmak için detaylı video istemi.
+
+#### 📝 İstem
+
+```
+Siberpunk mekanik bir sinek üzerinde makro sinematik yaklaşım; temiz, ürün tanıtımı tarzında estetik bir çekimle başlayıp ardından iç saat mekanizması sistemlerinin istilacı ve cerrahi bir keşfine dönüşen bir sahne.
+
+Sahne: Yumuşak bej tonunda kesintisiz bir fonun yer aldığı minimalist stüdyo ortamı. Üst düzey ürün aydınlatması, kontrollü yansımalar ve ince kontur ışıkları, hiper detaylı siberpunk mekanik sineği belirginleştiriyor. Atmosfer temiz, steril ve sessiz; tıpkı fütüristik bir laboratuvar ya da tasarım vitrini gibi.
+
+Özne: Hibrit bir estetiğe sahip robotik bir sinek: parlak siyah krom dış iskelet, zarif mavi-beyaz porselen kabuk segmentleriyle kaynaşmış durumda. Petek gözleri yumuşak mavi bir iç ışıkla parlıyor. İnce metalik bacaklar kusursuz bir hassasiyetle hareket ederken, yarı saydam mekanik kanatlar mikro titreşimlerle hafifçe çırpılıyor.
+
+Aksiyon: Sinek büyük ölçüde hareketsiz duruyor, ancak gerçekçi mikro ayarlamalar yapıyor: bacakların seğirmesi, başın hafifçe eğilmesi, kanatların usulca titremesi. Ağır ve kasıtlı bir kamera yaklaşımı, başa ve göğüs bölgesine doğru ilerliyor. Kamera yaklaştıkça dış kabuk katmanlı mekanik bölümler halinde ayrılıp geriye doğru açılarak karmaşık iç sistemleri gözler önüne seriyor. Kamera bu açıklıktan içeri doğru ilerlemeye devam ediyor ve dışarıdan içeriye kesintisiz bir geçiş sağlanıyor. İçeride birbirine kenetlenmiş dişliler, dönen jiroskoplar, ritmik çalışan mikro pistonlar, dönen halkalar ve parlayan mavi enerji çekirdekleri senkronize bir hareket içinde çalışıyor. Kamera makinenin derinliklerine doğru ilerledikçe minik bileşenler hassas bir mekanik koreografiyle ses çıkararak dönüyor ve yer değiştiriyor.
+
+Ses: Yüksek frekanslı servo vızıltıları, mikro tıkırtılar ve zarif tik-tak sesleriyle bezeli yumuşak bir mekanik ambiyans. Kamera içeri girdikçe ince bir elektrik uğultusu yükseliyor. Birbirine kenetlenen tıkırtılar, dönen mekanizmalar ve hafif hidrolik atışlardan oluşan katmanlı saat mekanizması ritmi giderek daha sürükleyici ve neredeyse müzikal bir hal alıyor.
+
+Ton: Klinik, büyüleyici, hipnotize edici. Mühendislik harikası bir güzellik ve gizli karmaşıklık. Keşif ve hassasiyet odaklı, yavaş ve kontrollü bir tempo. Dış yüzeyden iç mekana geçiş, makinenin içindeki başka bir dünyaya adım atıyormuş hissi verecek kadar kesintisiz olmalı.
+
+Kamera: Sığ alan derinliği ve ürün çekimi tarzı perspektif sıkıştırması için 100 mm makro hissiyatıyla başlayın, ardından mekanizmanın içinde imkânsız bir prob lens perspektifine geçiş yapın. Ultra akıcı, yavaş yaklaşım; el kamerası titremesi kesinlikle olmamalı. Her katman açıldığında mikro odak kaydırmaları. Derinlik hissini artırmak için içeride hafif paralaks kayması.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118360013643071488/img/qiCxpfe3qBk4aB2p.jpg" width="600" alt="Siberpunk Mekanik Sinek Makro Sinematik">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13566)**
+
+**Yazar:** [Pan](https://x.com/sebatheepan) | **Kaynak:** [Link](https://x.com/sebatheepan/status/2118360399057756590) | **Yayınlandı:** Nov 5, 2026
+
+---
+### Kağıt Kesim Tilki Sonbahar Çiçeği
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kağıt sanatı üzerinde yürüyen bir tilkinin altın sonbahar renk dalgasını tetiklediği Seedance 2.0 videosu için bir istem.
+
+#### 📝 İstem
+
+```
+3D kağıt kesim sanatı stili, katmanlı kağıt heykel estetiği, her kesim kenarında yumuşak tüylü tutamlarla hacimli pamuk ve keçe lif dokusu. Fildişi beyazı kabartma heykel dünyası: sol üstte çiçeklerle kaplı büyük bir kağıt ağaç, sağ kenarda küçük bir kabartma çiçek ağacı, ön planda süzülen oyulmuş kağıt dalgalar, etrafa saçılmış kağıt çiçekler ve soluk kayalar; hepsi krem ve açık gri tonlarında. Tek bir kızıl tilki, kadrajın solundaki beyaz bir kağıt kayanın üzerinde oturuyor. Tilki başını kaldırıyor, patilerinin üzerine doğruluyor ve oyulmuş çıkıntı boyunca sağa doğru yürümeye başlıyor. İlk patisi kağıt zemine değdiği anda, patilerinin altında sıcak altın rengi bir ışık alevleniyor ve pürüzsüz, genişleyen bir halka olarak dışarıya doğru yayılıyor; kabartmanın oyulmuş oluklarına altın ışığı dolduruyor, yerden altın kıvılcımlar ve parlayan tozlar yükseliyor. Işığın geçtiği yerde fildişi kağıt renge bürünüyor: oyulmuş dalgalar kehribar ve kızıla koyulaşıyor, çiçekler beyazdan sonbahar turuncusuna, altına ve sıcak karmen rengine dönüyor, gövdeler karamel tonunda ısınıyor ve gerçek sonbahar yaprakları kağıt dallardan koparak süzülerek yavaşça aşağı düşüyor. Renk, yürüyen tilkinin arkasında soldan sağa ilerleyen bir dalga gibi yayılıyor ve sağ kenardaki son fildişi köşe de geçerken altına dönüşüyor. Kamera tilkiyle birlikte yavaşça sağa kayıyor, kabartma katmanlar arasında hafif bir paralaks etkisi, fildişi zemin üzerinde sıcak sonbahar renk paleti, sinematik aydınlatma, akıcı büyülü hareket
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118324585275817984/img/UD5zrPxHL-Q37KMs.jpg" width="600" alt="Kağıt Kesim Tilki Sonbahar Çiçeği">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13568)**
+
+**Yazar:** [Viki](https://x.com/churvikv) | **Kaynak:** [Link](https://x.com/churvikv/status/2118324800305111137) | **Yayınlandı:** Nov 5, 2026
+
+---
 ### Büyücü vs Zırhlı Devler Savaşı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6656,75 +6731,6 @@ Uzun, koyu renk, hafif dalgalı saçları olan, beyaz bluz ve koyu renk pantolon
 **Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2111646777187450940) | **Yayınlandı:** Oct 18, 2026
 
 ---
-### Seedance 2.0 Sinematik Okyanus Kovalamacası İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Fırtınalı bir gün batımında, deniz kobra tarafından kovalanan ve su üzerinde koşan bir kadının hiper gerçekçi sinematik videosunu oluşturmak için bir istem.
-
-#### 📝 İstem
-
-```
-4K ultra gerçekçi görseller, fırtınalı bir gün batımı, devasa bir deniz kobrası tarafından kovalanırken suyun üzerinde koşan bir kadın. Tam bir kaos. Saf sinema.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111455018046164992/img/o4eANHhCPJrryvOA.jpg" width="600" alt="Seedance 2.0 Sinematik Okyanus Kovalamacası İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12816)**
-
-**Yazar:** [Liam Ai](https://x.com/imLiamAi) | **Kaynak:** [Link](https://x.com/imLiamAi/status/2111457980969603467) | **Yayınlandı:** Oct 17, 2026
-
----
-### Kalp Şekilli Şeker Zemin Yenileme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kalp şekillerinin epoksi reçineye gömülerek terrazzo tarzı bir zemin oluşturduğu, tatmin edici bir yenileme sekansı üretmek için video istemi.
-
-#### 📝 İstem
-
-```
-Dikey 9:16 video, fotogerçekçi ve tatmin edici yenileme süreci, akıcı hareketler, parlak doğal gün ışığı. Beyaz duvarlı boş oda, solda pencere, çıplak beton zemin.
-
-Çekim 1: Mavi iş tulumu giyen bir adam, uzun saplı kürekle büyük yığın halindeki küçük turuncu ve yeşil kalp şekilli şekerleri yayarak zemini düzleştirir ve tüm alana eşit bir katman halinde serer.
-
-Çekim 2: Kırmızı tulum giyen bir kadın, beyaz kovadan kalın ve parlak beyaz kendinden seviyelenen epoksi reçine döker; sıvı akar ve şeker katmanının üzerine yayılarak kalpleri yavaşça kaplar.
-
-Çekim 3: Sarı reflektif yelek giyen bir işçi, profesyonel zemin parlatma makinesiyle sertleşmiş zemini taşlar ve parlatır; böylece parlak beyaz reçinenin altında gömülü turuncu ve yeşil kalpler, renkli bir terrazzo gibi ortaya çıkar.
-
-Çekim 4: İki işçi, yeni zeminde ahşap bir yatak çerçevesi kurar, beyaz bir yatak, yastıklar ve nevresimler yerleştirir.
-
-Son çekim: Bitmiş yatak odası üzerinde aşağı doğru yavaş kamera eğimi; düzenli yapılmış yatağın yanındaki benzersiz parlak kalp desenli epoksi zemin gösterilir.
-
-Dökülen sıvı ve gevşek şekerlerin gerçekçi fiziği, tutarlı aydınlatma, çekimler arasında kesintisiz geçişler, yüksek detay, metin yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111457403719831552/img/uNO-3LOiA-tvoKwh.jpg" width="600" alt="Kalp Şekilli Şeker Zemin Yenileme">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12676)**
-
-**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2111457454894526493) | **Yayınlandı:** Oct 17, 2026
-
----
-### Tiny Runner Sinematik Macera
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dev bir gündelik dünyada yolculuk yapan küçük, atletik bir kadını konu alan sinematik minyatür macera videosu oluşturmak için bir prompt.
-
-#### 📝 İstem
-
-```
-Devasa boyutlardaki günlük bir dünyada yolculuk yapan küçük, atletik bir kadının ultra gerçekçi sinematik minyatür macerasını oluşturun. Bir masanın üzerinde koşar, devasa bir cam kavanoza tırmanır, renkli kumaş yığınlarını keşfeder, asılı duran kıyafetlere çıkar ve aşırı büyük ev aletlerinin arasında gezinir. Devasa bir şişe kapağına tırmanışını, çamaşır makinesinin altından sürünerek geçişini ve minyatür bir engel parkurunda ilerleyişini gösterin. Onun küçücük insan ölçeği ile devasa nesneler arasındaki dramatik kontrastı vurgulayın. Sıcak sinematik ışıklandırma, gerçekçi dokular, sığ alan derinliği, makro fotoğrafçılık, akıcı takip çekimleri, doğal insan hareketleri, yumuşak gölgeler, fotogerçekçi detaylar, yaratıcı hikaye anlatımı, premium ticari estetik, dikey 9:16 format, 4K kalite.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111311504519872513/img/XjUA1H4ax_wXi_Eq.jpg" width="600" alt="Tiny Runner Sinematik Macera">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12629)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2111311551710007388) | **Yayınlandı:** Oct 17, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -6786,6 +6792,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-06T01:04:35.956Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-06T12:11:24.684Z</sub>
 
 </div>

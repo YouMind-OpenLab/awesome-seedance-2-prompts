@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6654** |
+| 📝 Tổng số prompt | **6657** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-11-06** |
 
@@ -361,6 +361,81 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Video Tháo Rời Giày Sneaker Tương Lai
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh để tạo video điện ảnh thể hiện cấu trúc nhiều lớp và quy trình lắp ráp của một đôi giày sneaker tương lai.
+
+#### 📝 Prompt
+
+```
+Một đôi sneaker cao cấp mang phong cách tương lai lơ lửng giữa studio tối giản, chìm trong ánh đèn spotlight đầy kịch tính và mặt sàn đen bóng loáng phản chiếu mọi chi tiết. Đôi giày từ từ tách ra thành nhiều lớp riêng biệt, phô diễn cấu trúc bên trong vô cùng tân tiến: phần upper lưới thanh thoát, lớp đệm màu đen, đế giữa (midsole) trắng tinh và bộ đế ngoài màu cam rực rỡ lấy cảm hứng từ cấu trúc tổ ong đậm chất viễn tưởng.
+
+Ống kính nhẹ nhàng tiến lại gần khi từng bộ phận trôi nổi độc lập nhưng vẫn giữ đúng vị trí hoàn hảo, tôn vinh kỹ thuật chế tác tỉ mỉ cùng thiết kế đột phá.
+
+Chuyển cảnh sang những góc quay macro cực cận vào cấu trúc đệm rỗng độc đáo của phần đế cam, từng đường kim mũi chỉ sắc sảo, lớp lưới thoáng khí và chất liệu thượng hạng. Đôi bàn tay đeo găng đen cẩn thận nâng niu và uốn thử độ dẻo của đế giày, làm nổi bật công nghệ giảm chấn tiên tiến.
+
+Tiếp đó, đôi tay lần lượt lắp ráp từng lớp của đôi sneaker bằng những chuyển động chuẩn xác như máy móc. Cảnh phim khép lại với hình ảnh đôi giày đã hoàn thiện lơ lửng đầy kiêu hãnh ngay trung tâm studio tối, chậm rãi xoay mình dưới luồng sáng điện ảnh đầy mê hoặc.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118559782529593345/img/xsAOLwOXlU3OXxIl.jpg" width="600" alt="Video Tháo Rời Giày Sneaker Tương Lai">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13567)**
+
+**Tác giả:** [Zarnish](https://x.com/ZarnishNael) | **Nguồn:** [Link](https://x.com/ZarnishNael/status/2118559810035593407) | **Đã xuất bản:** Nov 6, 2026
+
+---
+### Cảnh Quay Điện Ảnh Cận Cảnh Ruồi Cơ Khí Cyberpunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video chi tiết để tạo cảnh quay điện ảnh cận cảnh một con ruồi cơ khí cyberpunk, chuyển đổi từ vẻ đẹp bên ngoài sang sự phức tạp của bộ máy đồng hồ bên trong.
+
+#### 📝 Prompt
+
+```
+Cảnh quay macro cinematic push-in (đẩy máy cận cảnh) vào một con ruồi máy phong cách cyberpunk, bắt đầu bằng một góc quay beauty shot chuẩn mực như khi chụp ảnh sản phẩm, sau đó chuyển dần thành hành trình khám phá mang tính xâm nhập, tỉ mỉ như phẫu thuật vào hệ thống bánh răng đồng hồ bên trong.
+
+Bối cảnh: Không gian studio tối giản với phông nền liền mạch màu be nhạt. Ánh sáng sản phẩm cao cấp, phản xạ được kiểm soát chặt chẽ cùng những đường viền sáng rim light tinh tế làm nổi bật từng chi tiết siêu thực của con ruồi máy cyberpunk. Bầu không khí sạch sẽ, vô trùng và tĩnh lặng — tựa như một phòng thí nghiệm tương lai hay một buổi trưng bày thiết kế.
+
+Chủ thể: Một con ruồi robot mang vẻ đẹp lai tạo: lớp vỏ ngoài bằng chrome đen bóng loáng hòa quyện cùng những mảng vỏ sứ xanh trắng mỏng manh. Đôi mắt kép phát ra ánh sáng xanh dịu nhẹ từ bên trong. Những chiếc chân kim loại thanh mảnh cử động khớp nối chính xác đến từng milimet, còn đôi cánh máy trong suốt rung lên khe khẽ với những chuyển động vi mô.
+
+Hành động: Con ruồi gần như bất động, chỉ thực hiện những điều chỉnh vi mô sống động như thật — chân khẽ giật, đầu hơi nghiêng, cánh rung nhè nhẹ. Ống kính từ từ, có chủ đích đẩy sâu về phía phần đầu và ngực. Khi camera tiến lại gần, lớp vỏ ngoài tách ra và lật mở theo từng tầng cơ khí, phơi bày hệ thống nội thất phức tạp bên trong. Camera tiếp tục tiến qua khe hở đó, chuyển cảnh mượt mà từ bề mặt ngoài vào không gian bên trong. Tại đây, các bánh răng ăn khớp, con quay hồi chuyển xoay tít, piston vi mô nhịp nhàng co duỗi, những vòng tròn xoay liên tục và lõi năng lượng xanh phát sáng hoạt động đồng bộ tuyệt đối. Các linh kiện tí hon lách cách, xoay vần và dịch chuyển theo một vũ điệu cơ khí chính xác khi camera len lỏi ngày càng sâu vào trung tâm cỗ máy.
+
+Âm thanh: Âm hưởng cơ khí êm dịu với tiếng rì rì tần số cao của servo, những tiếng click vi mô và tiếng tích tắc thanh tao. Tiếng ù điện nhẹ dần dâng lên khi camera đi vào bên trong. Nhịp điệu đồng hồ xếp lớp — tiếng tích tắc đan xen, âm thanh của các cơ cấu đang quay và những nhịp thủy lực mờ ảo — trở nên cuốn hút hơn bao giờ hết, gần như mang đậm chất nhạc.
+
+Sắc thái: Lạnh lùng chuẩn xác, đầy mê hoặc và thôi miên. Vẻ đẹp của kỹ thuật chế tác đỉnh cao ẩn chứa sự phức tạp khó lường. Nhịp độ chậm rãi, kiểm soát chặt chẽ, tập trung vào hành trình khám phá và độ chính xác. Quá trình chuyển đổi từ bề mặt vào sâu bên trong phải thật mượt mà, tựa như bước vào một thế giới khác nằm gọn trong lòng cỗ máy.
+
+Camera: Khởi đầu với tiêu cự 100mm macro để tạo độ sâu trường ảnh mỏng và hiệu ứng nén hình ảnh chuẩn phong cách quay sản phẩm, sau đó chuyển sang góc nhìn "bất khả thi" của ống kính probe ngay bên trong cơ cấu máy. Cảnh push-in cực kỳ mượt mà và chậm rãi, tuyệt đối không dùng chuyển động cầm tay (handheld). Lấy nét micro mỗi khi một lớp cấu trúc mới lộ diện. Dịch chuyển thị sai nhẹ ở không gian bên trong để tăng cường chiều sâu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118360013643071488/img/qiCxpfe3qBk4aB2p.jpg" width="600" alt="Cảnh Quay Điện Ảnh Cận Cảnh Ruồi Cơ Khí Cyberpunk">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13566)**
+
+**Tác giả:** [Pan](https://x.com/sebatheepan) | **Nguồn:** [Link](https://x.com/sebatheepan/status/2118360399057756590) | **Đã xuất bản:** Nov 5, 2026
+
+---
+### Cáo Cắt Giấy Nở Rộ Mùa Thu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt cho video Seedance 2.0, trong đó một con cáo bước đi trên nền nghệ thuật cắt giấy kích hoạt làn sóng màu vàng thu.
+
+#### 📝 Prompt
+
+```
+Phong cách nghệ thuật cắt giấy 3D, thẩm mỹ điêu khắc giấy xếp lớp, chất liệu bông xốp và sợi nỉ nổi khối với những dải tơ mềm mại bồng bềnh dọc theo từng mép cắt. Thế giới phù điêu được tạc từ giấy trắng ngà: một cây giấy lớn phủ đầy hoa ở góc trên bên trái, một cây hoa nhỏ được tạo hình sát mép phải, những đợt sóng giấy chạm khắc cuộn chảy khắp tiền cảnh, hoa giấy rải rác cùng các phiến đá nhạt màu, tất cả đều mang sắc kem và xám nhạt. Một chú cáo đỏ duy nhất ngồi trên phiến đá giấy trắng ở phía bên trái khung hình. Cáo ngẩng đầu, vươn mình đứng dậy trên bốn chân và bắt đầu bước sang phải dọc theo gờ phù điêu. Ngay khoảnh khắc bàn chân đầu tiên chạm xuống mặt giấy, ánh sáng vàng ấm áp bùng lên dưới chân rồi lan tỏa thành một vòng tròn mượt mà mở rộng dần, rót ánh kim vào từng rãnh chạm khắc của bức phù điêu, làm tung lên những tia lửa vàng và lớp bụi phát sáng bay bổng khỏi mặt đất. Nơi ánh sáng lướt qua, lớp giấy ngà liền khoác lên mình màu sắc mới: những con sóng chạm khắc thẫm lại thành màu hổ phách và nâu đỏ, hoa chuyển từ trắng sang cam mùa thu, vàng óng và đỏ thắm ấm áp, thân cây nhuộm màu caramel ngọt ngào, còn những chiếc lá thu thật sự thì lìa cành giấy, chao liệng và chậm rãi rơi xuống. Sắc màu lan đi như một cơn sóng đuổi theo sau bước chân cáo từ trái sang phải, để rồi góc giấy ngà cuối cùng nơi mép phải cũng hóa vàng rực rỡ khi nó đi qua. Camera lia chậm sang phải theo bước cáo, hiệu ứng thị sai dịu nhẹ giữa các lớp điêu khắc, bảng màu thu ấm áp tương phản trên nền ngà, ánh sáng điện ảnh, chuyển động mượt mà đầy ma thuật
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118324585275817984/img/UD5zrPxHL-Q37KMs.jpg" width="600" alt="Cáo Cắt Giấy Nở Rộ Mùa Thu">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13568)**
+
+**Tác giả:** [Viki](https://x.com/churvikv) | **Nguồn:** [Link](https://x.com/churvikv/status/2118324800305111137) | **Đã xuất bản:** Nov 5, 2026
+
+---
 ### Trận chiến giữa Pháp sư và Khổng lồ Giáp
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6669,75 +6744,6 @@ Tạo một video AI siêu thực, mang phong cách điện ảnh dài 20 giây,
 **Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2111646777187450940) | **Đã xuất bản:** Oct 18, 2026
 
 ---
-### Prompt Seedance 2.0: Cuộc rượt đuổi điện ảnh trên đại dương
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video điện ảnh siêu thực về một phụ nữ chạy trên mặt nước bị săn đuổi bởi rắn biển trong bối cảnh hoàng hôn bão tố.
-
-#### 📝 Prompt
-
-```
-Hình ảnh 4K siêu chân thực, hoàng hôn bão tố, một người phụ nữ chạy trên mặt nước bị con rắn hổ mang biển khổng lồ truy đuổi. Hỗn loạn tột độ. Đậm chất điện ảnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111455018046164992/img/o4eANHhCPJrryvOA.jpg" width="600" alt="Prompt Seedance 2.0: Cuộc rượt đuổi điện ảnh trên đại dương">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12816)**
-
-**Tác giả:** [Liam Ai](https://x.com/imLiamAi) | **Nguồn:** [Link](https://x.com/imLiamAi/status/2111457980969603467) | **Đã xuất bản:** Oct 17, 2026
-
----
-### Cải tạo sàn nhà bằng kẹo hình trái tim
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Lời nhắc video để tạo ra một quy trình cải tạo thỏa mãn, trong đó những viên kẹo hình trái tim được nhúng vào nhựa epoxy để tạo ra sàn nhà phong cách terrazzo.
-
-#### 📝 Prompt
-
-```
-Video dọc tỷ lệ 9:16, quá trình cải tạo thỏa mãn chân thực như ảnh chụp, chuyển động mượt mà, ánh sáng ban ngày tự nhiên rực rỡ. Căn phòng trống với tường trắng, cửa sổ bên trái, sàn bê tông trần.
-
-Cảnh 1: Một người đàn ông mặc bộ đồ bảo hộ màu xanh dương dùng xẻng cán dài để trải đều một đống lớn những viên kẹo nhỏ hình trái tim màu cam và xanh lá cây, san phẳng chúng thành một lớp đồng đều trên toàn bộ mặt sàn.
-
-Cảnh 2: Một phụ nữ mặc bộ đồ bảo hộ màu đỏ đổ nhựa epoxy tự san phẳng màu trắng bóng đặc từ một chiếc xô trắng; chất lỏng chảy và lan rộng phủ lên lớp kẹo, dần dần che lấp các hình trái tim.
-
-Cảnh 3: Một công nhân mặc áo phản quang màu vàng mài và đánh bóng sàn đã cứng hóa bằng máy đánh bóng sàn chuyên nghiệp, làm lộ ra những hình trái tim màu cam và xanh lá cây được nhúng dưới lớp nhựa epoxy trắng bóng, giống như đá terrazzo đầy màu sắc.
-
-Cảnh 4: Hai công nhân lắp ráp khung giường gỗ trên nền sàn mới, đặt nệm trắng, gối và bộ đồ giường.
-
-Cảnh cuối: Máy quay nghiêng chậm xuống phía trên phòng ngủ hoàn thiện, cho thấy sàn epoxy bóng loáng với họa tiết trái tim độc đáo nằm cạnh chiếc giường được dọn dẹp gọn gàng.
-
-Vật lý thực tế khi đổ chất lỏng và kẹo rời, ánh sáng nhất quán, cắt cảnh liền mạch giữa các cảnh, chi tiết cao, không có văn bản.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111457403719831552/img/uNO-3LOiA-tvoKwh.jpg" width="600" alt="Cải tạo sàn nhà bằng kẹo hình trái tim">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12676)**
-
-**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2111457454894526493) | **Đã xuất bản:** Oct 17, 2026
-
----
-### Cuộc Phiêu Lưu Điện Ảnh Của Người Chạy Tí Hon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video phiêu lưu điện ảnh thu nhỏ, mô tả một nữ vận động viên tí hon khám phá thế giới đời thường với kích thước khổng lồ.
-
-#### 📝 Prompt
-
-```
-Tạo một video phiêu lưu điện ảnh siêu thực về thế giới thu nhỏ, trong đó một nữ vận động viên tí hon đang khám phá một thế giới đời thường có kích thước khổng lồ. Cô ấy chạy ngang qua bàn làm việc, leo lên một chiếc lọ thủy tinh to lớn, khám phá những chồng vải đầy màu sắc, trèo lên những bộ quần áo treo lơ lửng và vượt qua các thiết bị gia dụng quá khổ. Hãy thể hiện cảnh cô ấy leo lên nắp chai khổng lồ, bò dưới máy giặt và băng qua một chướng ngại vật mini. Nhấn mạnh sự tương phản kịch tính giữa kích thước con người nhỏ bé của cô và những đồ vật khổng lồ. Ánh sáng điện ảnh ấm áp, kết cấu chân thực, độ sâu trường ảnh nông, chụp ảnh macro, các cú quay tracking mượt mà, chuyển động tự nhiên của con người, bóng đổ mềm mại, chi tiết siêu thực, kể chuyện sáng tạo, thẩm mỹ thương mại cao cấp, định dạng dọc 9:16, chất lượng 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111311504519872513/img/XjUA1H4ax_wXi_Eq.jpg" width="600" alt="Cuộc Phiêu Lưu Điện Ảnh Của Người Chạy Tí Hon">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12629)**
-
-**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2111311551710007388) | **Đã xuất bản:** Oct 17, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -6799,6 +6805,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-06T01:04:24.722Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-06T12:11:15.641Z</sub>
 
 </div>

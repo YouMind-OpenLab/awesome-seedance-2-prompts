@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6654** |
+| 📝 Total de prompts | **6657** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-11-06** |
 
@@ -361,6 +361,81 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Vídeo de Desmontagem de Tênis Futurista
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar um vídeo cinematográfico mostrando a construção em camadas e a montagem de um tênis futurista.
+
+#### 📝 Prompt
+
+```
+Um tênis futurista premium flutua em um estúdio escuro e minimalista, com iluminação dramática de holofotes e um piso preto brilhante e reflexivo. O calçado se separa lentamente em várias camadas individuais, revelando sua construção interna avançada: um cabedal em mesh elegante, uma camada de amortecimento preta, uma entressola branca e um solado futurista laranja vibrante inspirado em formato de colmeia.
+
+A câmera se aproxima suavemente enquanto cada componente flutua separadamente em perfeito alinhamento, destacando a engenharia minuciosa e o design inovador.
+
+Corte para closes macro extremos da estrutura exclusiva de amortecimento vazada do solado laranja, das costuras detalhadas, do mesh respirável e dos materiais premium. Mãos com luvas pretas seguram e demonstram cuidadosamente a flexibilidade do solado, evidenciando sua tecnologia inovadora de absorção de impacto.
+
+Em seguida, mostre as mãos montando o tênis camada por camada, com movimentos mecânicos precisos. Finalize com o tênis totalmente montado flutuando elegantemente no centro do estúdio escuro, girando lentamente sob uma iluminação cinematográfica dramática.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118559782529593345/img/xsAOLwOXlU3OXxIl.jpg" width="600" alt="Vídeo de Desmontagem de Tênis Futurista">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13567)**
+
+**Autor:** [Zarnish](https://x.com/ZarnishNael) | **Fonte:** [Link](https://x.com/ZarnishNael/status/2118559810035593407) | **Publicado:** Nov 6, 2026
+
+---
+### Mosca Mecânica Cyberpunk - Macro Cinematográfico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo detalhado para gerar uma tomada cinematográfica macro de uma mosca mecânica cyberpunk, com transição da beleza externa para a complexidade interna do mecanismo de relógio.
+
+#### 📝 Prompt
+
+```
+Aproximação cinematográfica em macro de uma mosca mecânica cyberpunk, começando como um plano beleza limpo, no estilo de fotografia de produto, e depois transitando para uma exploração invasiva e cirúrgica de seus sistemas internos de relojoaria.
+
+Cena: Ambiente de estúdio minimalista com fundo infinito bege suave. Iluminação premium de produto, reflexos controlados e sutis contornos de luz delineiam uma mosca mecânica cyberpunk hiperdetalhada. A atmosfera é limpa, estéril e silenciosa — como um laboratório futurista ou uma vitrine de design.
+
+Sujeito: Uma mosca robótica com estética híbrida: exoesqueleto em cromo preto brilhante fundido a delicados segmentos de carapaça em porcelana azul e branca. Seus olhos compostos brilham com uma suave luz interna azul. Pernas metálicas finas se articulam com precisão, e asas mecânicas translúcidas vibram sutilmente com micromovimentos.
+
+Ação: A mosca permanece quase imóvel, executando sutis microajustes realistas — pernas tremendo levemente, cabeça inclinando-se um pouco, asas vibrando suavemente. Uma aproximação lenta e deliberada avança em direção à sua cabeça e tórax. Conforme a câmera se aproxima, a carapaça externa se separa e se abre em camadas mecânicas, revelando intrincados sistemas internos. A câmera continua avançando pela abertura, fazendo uma transição fluida do exterior para o interior. Lá dentro, engrenagens entrelaçadas, giroscópios girando, micropistões pulsando, anéis rotativos e núcleos de energia azuis brilhantes operam em movimento sincronizado. Componentes minúsculos estalam, giram e se deslocam em uma coreografia mecânica precisa enquanto a câmera navega cada vez mais fundo no núcleo da máquina.
+
+Áudio: Ambiência mecânica suave com zumbidos agudos de servomotores, microcliques e um tique-taque delicado. Um leve zunido elétrico cresce à medida que a câmera entra no interior. O ritmo de relojoaria em camadas — cliques entrelaçados, mecanismos giratórios e pulsos hidráulicos sutis — torna-se cada vez mais imersivo e quase musical.
+
+Tom: Clínico, fascinante, hipnótico. Beleza projetada e complexidade oculta. Ritmo lento e controlado, focado na descoberta e na precisão. A transição da superfície para o interior deve parecer contínua, como entrar em outro mundo dentro da máquina.
+
+Câmera: Comece com a sensação de uma lente macro 100mm para obter pouca profundidade de campo e compressão no estilo de fotografia de produto, depois faça a transição para a perspectiva impossível de uma lente probe dentro do mecanismo. Aproximação lenta ultrassuave, sem movimentos de câmera na mão. Microajustes de foco conforme cada camada é revelada. Leve deslocamento de paralaxe no interior para intensificar a profundidade.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118360013643071488/img/qiCxpfe3qBk4aB2p.jpg" width="600" alt="Mosca Mecânica Cyberpunk - Macro Cinematográfico">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13566)**
+
+**Autor:** [Pan](https://x.com/sebatheepan) | **Fonte:** [Link](https://x.com/sebatheepan/status/2118360399057756590) | **Publicado:** Nov 5, 2026
+
+---
+### Raposa em Recorte de Papel: Florescer Outonal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para um vídeo do Seedance 2.0 onde uma raposa caminhando sobre arte em papel desencadeia uma onda de cores douradas do outono.
+
+#### 📝 Prompt
+
+```
+Estilo de arte em papel recortado 3D, estética de escultura em camadas de papel, textura volumétrica de algodão e fibras feltradas com fios macios e felpudos ao longo de cada borda recortada. Mundo em relevo esculpido em papel branco-marfim: uma grande árvore de papel coberta de flores no canto superior esquerdo, uma pequena árvore florida esculpida na borda direita, ondas de papel entalhadas fluindo pelo primeiro plano, flores de papel espalhadas e pedras claras, tudo em tons de creme e cinza pálido. Uma única raposa vermelha está sentada sobre uma pedra de papel branca à esquerda do quadro. A raposa ergue a cabeça, apoia-se nas patas e começa a caminhar para a direita ao longo da saliência esculpida. No instante em que sua primeira pata toca o chão de papel, uma luz dourada e quente se acende sob as patas e irrompe para fora como um anel suave em expansão, derramando luz dourada nos sulcos entalhados do relevo, enquanto faíscas douradas e poeira luminosa se elevam do chão. Por onde a luz passa, o papel marfim ganha cor: as ondas entalhadas se aprofundam em âmbar e castanho-avermelhado, as flores passam do branco ao laranja outonal, dourado e carmesim quente, os troncos ganham tons de caramelo, e folhas reais de outono se soltam dos galhos de papel e descem lentamente, flutuando ao vento. A cor se espalha como uma onda que viaja da esquerda para a direita atrás da raposa em movimento, e o último canto marfim na borda direita se transforma em dourado à medida que ela avança. A câmera acompanha lentamente a raposa para a direita, com um leve efeito de paralaxe entre as camadas esculpidas, paleta quente de outono contrastando com o marfim, iluminação cinematográfica, movimento mágico e fluido
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118324585275817984/img/UD5zrPxHL-Q37KMs.jpg" width="600" alt="Raposa em Recorte de Papel: Florescer Outonal">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13568)**
+
+**Autor:** [Viki](https://x.com/churvikv) | **Fonte:** [Link](https://x.com/churvikv/status/2118324800305111137) | **Publicado:** Nov 5, 2026
+
+---
 ### Batalha entre Feiticeira e Gigantes Blindados
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6698,75 +6773,6 @@ Crie um vídeo de IA ultra-realista e cinematográfico de 20 segundos, apresenta
 **Autor:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2111646777187450940) | **Publicado:** Oct 18, 2026
 
 ---
-### Prompt Cinematográfico Seedance 2.0: Perseguição no Oceano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para gerar um vídeo cinematográfico hiper-realista de uma mulher correndo sobre a água, perseguida por uma cobra marinha em um cenário de pôr do sol tempestuoso.
-
-#### 📝 Prompt
-
-```
-Visuais ultrarrealistas em 4K, pôr do sol tempestuoso, uma mulher correndo sobre a água perseguida por uma cobra marinha gigante. Puro caos. Cinema puro.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111455018046164992/img/o4eANHhCPJrryvOA.jpg" width="600" alt="Prompt Cinematográfico Seedance 2.0: Perseguição no Oceano">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12816)**
-
-**Autor:** [Liam Ai](https://x.com/imLiamAi) | **Fonte:** [Link](https://x.com/imLiamAi/status/2111457980969603467) | **Publicado:** Oct 17, 2026
-
----
-### Renovação de Piso com Doces em Formato de Coração
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo para gerar uma sequência satisfatória de renovação, onde doces em formato de coração são embutidos em resina epóxi para criar um piso estilo terrazzo.
-
-#### 📝 Prompt
-
-```
-Vídeo vertical 9:16, processo de renovação satisfatório e fotorealista, movimento suave, luz natural brilhante. Quarto vazio com paredes brancas, janela à esquerda, piso de concreto cru.
-
-Cena 1: Um homem com macacão azul de trabalho usa uma pá de cabo longo para espalhar uma grande pilha de pequenos doces em formato de coração laranja e verde, nivelando-os em uma camada uniforme por todo o piso.
-
-Cena 2: Uma mulher com macacão vermelho despeja resina epóxi branca auto-nivelante espessa e brilhante de um balde branco; o líquido flui e se espalha sobre a camada de doces, cobrindo gradualmente os corações.
-
-Cena 3: Um trabalhador com colete refletivo amarelo lixa e poliu o piso endurecido com uma máquina profissional de polimento de pisos, revelando corações laranja e verde embutidos sob a resina branca brilhante, como um terrazzo colorido.
-
-Cena 4: Dois trabalhadores montam a estrutura de uma cama de madeira no novo piso, colocam um colchão branco, travesseiros e roupa de cama.
-
-Cena final: Câmera inclina lentamente para baixo sobre o quarto terminado, mostrando o exclusivo piso de resina epóxi com padrão de corações brilhantes ao lado da cama arrumada.
-
-Física realista do despejo de líquido e doces soltos, iluminação consistente, cortes perfeitos entre as cenas, alto nível de detalhe, sem texto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111457403719831552/img/uNO-3LOiA-tvoKwh.jpg" width="600" alt="Renovação de Piso com Doces em Formato de Coração">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12676)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2111457454894526493) | **Publicado:** Oct 17, 2026
-
----
-### Aventura Cinematográfica de Tiny Runner
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para gerar um vídeo cinematográfico de aventura em miniatura, destacando uma mulher atlética minúscula navegando por um mundo cotidiano superdimensionado.
-
-#### 📝 Prompt
-
-```
-Crie uma aventura cinematográfica ultra-realista em miniatura, destacando uma mulher atlética minúscula navegando por um mundo cotidiano gigantesco. Ela corre sobre uma mesa, escala um frasco de vidro gigante, explora pilhas de tecidos coloridos, sobe roupas penduradas e navega por eletrodomésticos superdimensionados. Mostre-a escalando uma tampa de garrafa massiva, rastejando debaixo de uma máquina de lavar e atravessando um circuito de obstáculos em miniatura. Enfatize o contraste dramático entre sua escala humana minúscula e os objetos gigantescos. Iluminação cinematográfica quente, texturas realistas, profundidade de campo rasa, fotografia macro, planos de acompanhamento suaves, movimento humano natural, sombras suaves, detalhes fotorrealistas, narrativa criativa, estética comercial premium, formato vertical 9:16, qualidade 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111311504519872513/img/XjUA1H4ax_wXi_Eq.jpg" width="600" alt="Aventura Cinematográfica de Tiny Runner">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12629)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2111311551710007388) | **Publicado:** Oct 17, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -6828,6 +6834,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-06T01:04:33.814Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-06T12:11:22.638Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6654** |
+| 📝 Total de prompts | **6657** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-11-06** |
 
@@ -361,6 +361,81 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Video de desmontaje de zapatillas futuristas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar un video cinematográfico que muestre la construcción por capas y el ensamblaje de una zapatilla futurista.
+
+#### 📝 Prompt
+
+```
+Una zapatilla futurista de alta gama flota en un estudio oscuro y minimalista, iluminada por focos dramáticos sobre un suelo negro brillante y reflectante. El calzado se separa lentamente en múltiples capas individuales, revelando su avanzada construcción interna: una malla superior estilizada, una capa de amortiguación negra, una entresuela blanca y una suela naranja intenso con un diseño futurista inspirado en un panal de abeja.
+
+La cámara se acerca con fluidez mientras cada componente flota por separado en perfecta alineación, mostrando la ingeniería minuciosa y el diseño innovador.
+
+Corte a planos macro extremos de la singular estructura de amortiguación hueca de la suela naranja, las costuras detalladas, la malla transpirable y los materiales premium. Unas manos con guantes negros sostienen y manipulan con cuidado la suela flexible para demostrar su innovadora tecnología de absorción de impactos.
+
+A continuación, unas manos ensamblan la zapatilla capa por capa con movimientos mecánicos precisos. El vídeo termina con la zapatilla ya completamente montada, flotando con elegancia en el centro del estudio oscuro y girando lentamente bajo una iluminación cinematográfica espectacular.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118559782529593345/img/xsAOLwOXlU3OXxIl.jpg" width="600" alt="Video de desmontaje de zapatillas futuristas">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13567)**
+
+**Autor:** [Zarnish](https://x.com/ZarnishNael) | **Fuente:** [Link](https://x.com/ZarnishNael/status/2118559810035593407) | **Publicado:** Nov 6, 2026
+
+---
+### Mosca Mecánica Cyberpunk: Macro Cinematográfico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video detallado para generar una toma cinematográfica macro de una mosca mecánica cyberpunk, que transiciona desde la belleza exterior hasta la complejidad del mecanismo de relojería interior.
+
+#### 📝 Prompt
+
+```
+Acercamiento macro cinematográfico a una mosca mecánica cyberpunk, que comienza como un plano belleza limpio al estilo de fotografía de producto y luego transita hacia una exploración invasiva y quirúrgica de sus sistemas internos de relojería.
+
+Escena: Entorno de estudio minimalista con un fondo continuo en tono beige suave. Iluminación de producto de alta gama, reflejos controlados y sutiles luces de recorte perfilan una mosca mecánica cyberpunk hiperdetallada. La atmósfera es limpia, estéril y silenciosa, como la de un laboratorio futurista o una exhibición de diseño.
+
+Sujeto: Una mosca robótica de estética híbrida: un exoesqueleto de cromo negro brillante fusionado con delicados segmentos de carcasa de porcelana azul y blanca. Sus ojos compuestos emiten un suave resplandor azulado desde su interior. Sus finas patas metálicas se articulan con precisión, y sus alas mecánicas translúcidas vibran sutilmente mediante micromovimientos.
+
+Acción: La mosca permanece casi inmóvil, ejecutando ligeros microajustes realistas: las patas se contraen, la cabeza se inclina apenas, las alas vibran suavemente. Un acercamiento lento y deliberado avanza hacia su cabeza y tórax. A medida que la cámara se aproxima, la carcasa exterior se separa y se despliega en capas mecánicas, revelando intrincados sistemas internos. La cámara sigue avanzando a través de la abertura, pasando sin cortes del exterior al interior. Dentro, engranajes entrelazados, giroscopios giratorios, micropistones pulsantes, anillos rotatorios y núcleos de energía azul luminosos operan en movimiento sincronizado. Pequeños componentes hacen clic, giran y se desplazan en una coreografía mecánica precisa mientras la cámara navega cada vez más profundo hacia el núcleo de la máquina.
+
+Audio: Suave ambiente mecánico con zumbidos de servomotores de alta frecuencia, microclics y un delicado tic-tac. Un tenue zumbido eléctrico va en aumento a medida que la cámara penetra en el interior. El ritmo de relojería superpuesto —tics entrelazados, mecanismos giratorios y leves pulsos hidráulicos— se vuelve cada vez más envolvente y casi musical.
+
+Tono: Clínico, fascinante, hipnótico. Belleza diseñada e ingeniería oculta. Ritmo lento y controlado, centrado en el descubrimiento y la precisión. La transición de la superficie al interior debe sentirse fluida, como si se entrara a otro mundo dentro de la máquina.
+
+Cámara: Comenzar con una sensación de macro 100 mm para lograr poca profundidad de campo y la compresión típica de los planos de producto, y luego pasar a la perspectiva imposible de una lente de sonda dentro del mecanismo. Acercamiento lento y ultrasuave, sin movimientos de cámara en mano. Microajustes de enfoque a medida que se revela cada capa. Ligero desplazamiento de paralaje en el interior para potenciar la profundidad.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118360013643071488/img/qiCxpfe3qBk4aB2p.jpg" width="600" alt="Mosca Mecánica Cyberpunk: Macro Cinematográfico">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13566)**
+
+**Autor:** [Pan](https://x.com/sebatheepan) | **Fuente:** [Link](https://x.com/sebatheepan/status/2118360399057756590) | **Publicado:** Nov 5, 2026
+
+---
+### Zorro de recorte de papel: floración otoñal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para un video de Seedance 2.0 donde un zorro caminando sobre arte en papel desencadena una ola de color dorado otoñal.
+
+#### 📝 Prompt
+
+```
+Estilo de arte en papel recortado 3D, estética de escultura de papel en capas, textura volumétrica de algodón y fibras afieltradas con mechones suaves y esponjosos a lo largo de cada borde cortado. Un mundo en relieve esculpido en blanco marfil: un gran árbol de papel cubierto de flores en la parte superior izquierda, un pequeño árbol florido esculpido en el borde derecho, olas de papel tallado que fluyen por el primer plano, flores de papel dispersas y rocas pálidas, todo en tonos crema y gris claro. Un único zorro rojo se posa sobre una roca de papel blanco a la izquierda del encuadre. El zorro levanta la cabeza, se incorpora sobre sus patas y comienza a caminar hacia la derecha por la repisa esculpida. En el instante en que su primera pata toca el suelo de papel, una cálida luz dorada se enciende bajo sus patas y estalla hacia afuera formando un anillo suave en expansión, derramando luz dorada por las hendiduras talladas del relieve, mientras chispas doradas y polvo luminoso se elevan del suelo. Por donde pasa la luz, el papel marfil cobra color: las olas talladas se intensifican en ámbar y castaño rojizo, las flores pasan del blanco al naranja otoñal, al dorado y al carmesí cálido, los troncos adquieren un tono caramelo, y hojas otoñales reales se desprenden de las ramas de papel y caen lentamente, revoloteando. El color se propaga como una ola que viaja de izquierda a derecha tras el zorro que camina, y el último rincón marfil del borde derecho se vuelve dorado a su paso. La cámara sigue lentamente al zorro hacia la derecha, con un suave efecto de paralaje entre las capas esculpidas, paleta otoñal cálida sobre fondo marfil, iluminación cinematográfica, movimiento mágico y fluido
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118324585275817984/img/UD5zrPxHL-Q37KMs.jpg" width="600" alt="Zorro de recorte de papel: floración otoñal">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13568)**
+
+**Autor:** [Viki](https://x.com/churvikv) | **Fuente:** [Link](https://x.com/churvikv/status/2118324800305111137) | **Publicado:** Nov 5, 2026
+
+---
 ### Batalla entre Hechicera y Gigantes Acorazados
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6697,75 +6772,6 @@ Crea un video de IA cinematográfico y ultra realista de 20 segundos que muestre
 **Autor:** [Maha](https://x.com/Aiwithmaha) | **Fuente:** [Link](https://x.com/Aiwithmaha/status/2111646777187450940) | **Publicado:** Oct 18, 2026
 
 ---
-### Prompt de persecución oceánica cinematográfica Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar un video cinematográfico hiperrealista de una mujer corriendo sobre el agua perseguida por una cobra marina en un entorno de atardecer tormentoso.
-
-#### 📝 Prompt
-
-```
-Imágenes ultrarrealistas en 4K, un atardecer tormentoso, una mujer corriendo sobre el agua mientras la persigue una cobra marina gigante. Puro caos. Cine en estado puro.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111455018046164992/img/o4eANHhCPJrryvOA.jpg" width="600" alt="Prompt de persecución oceánica cinematográfica Seedance 2.0">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12816)**
-
-**Autor:** [Liam Ai](https://x.com/imLiamAi) | **Fuente:** [Link](https://x.com/imLiamAi/status/2111457980969603467) | **Publicado:** Oct 17, 2026
-
----
-### Renovación de suelo con dulces en forma de corazón
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de video para generar una secuencia de renovación satisfactoria donde se incrustan dulces en forma de corazón en resina epoxi para crear un suelo estilo terrazo.
-
-#### 📝 Prompt
-
-```
-Video vertical 9:16, proceso de renovación satisfactorio fotorrealista, movimiento fluido, luz natural brillante. Habitación vacía con paredes blancas, ventana a la izquierda y suelo de hormigón desnudo.
-
-Plano 1: Un hombre con monos de trabajo azules usa una pala de mango largo para esparcir un gran montón de pequeños dulces en forma de corazón de color naranja y verde, nivelándolos en una capa uniforme sobre todo el suelo.
-
-Plano 2: Una mujer con monos rojos vierte resina epoxi blanca autonivelante espesa y brillante desde un cubo blanco; el líquido fluye y se extiende sobre la capa de dulces, cubriendo gradualmente los corazones.
-
-Plano 3: Un trabajador con chaleco reflectante amarillo pule y abrillanta el suelo endurecido con una máquina profesional de pulido de suelos, revelando corazones naranjas y verdes incrustados bajo la resina blanca brillante, como un terrazo colorido.
-
-Plano 4: Dos trabajadores ensamblan una estructura de cama de madera sobre el nuevo suelo, colocando un colchón blanco, almohadas y ropa de cama.
-
-Plano final: La cámara se inclina lentamente hacia abajo sobre el dormitorio terminado, mostrando el único suelo de resina epoxi brillante con patrón de corazones junto a la cama perfectamente hecha.
-
-Física realista del vertido de líquidos y dulces sueltos, iluminación consistente, cortes sin costuras entre planos, alto detalle, sin texto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111457403719831552/img/uNO-3LOiA-tvoKwh.jpg" width="600" alt="Renovación de suelo con dulces en forma de corazón">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12676)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2111457454894526493) | **Publicado:** Oct 17, 2026
-
----
-### Aventura Cinematográfica de la Pequeña Corredora
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar un video de aventura cinematográfica en miniatura que presenta a una mujer atlética diminuta navegando por un mundo cotidiano de tamaño descomunal.
-
-#### 📝 Prompt
-
-```
-Crea una aventura cinematográfica ultra realista en miniatura que presente a una mujer atlética diminuta navegando por un mundo cotidiano de tamaño descomunal. Ella corre sobre un escritorio, escala un frasco de vidrio gigante, explora montones de telas coloridas, trepa por ropa colgada y se mueve entre electrodomésticos domésticos sobredimensionados. Muestra cómo escala una tapa de botella masiva, gatea debajo de una lavadora y cruza un circuito de obstáculos en miniatura. Enfatiza el contraste dramático entre su escala humana diminuta y los objetos gigantescos. Iluminación cinematográfica cálida, texturas realistas, profundidad de campo reducida, fotografía macro, movimientos de cámara suaves, movimiento humano natural, sombras suaves, detalles fotorrealistas, narrativa creativa, estética comercial premium, formato vertical 9:16, calidad 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111311504519872513/img/XjUA1H4ax_wXi_Eq.jpg" width="600" alt="Aventura Cinematográfica de la Pequeña Corredora">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12629)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2111311551710007388) | **Publicado:** Oct 17, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -6827,6 +6833,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-06T01:04:27.671Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-06T12:11:17.399Z</sub>
 
 </div>

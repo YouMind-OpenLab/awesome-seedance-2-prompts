@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6654** |
+| 📝 Total des prompts | **6657** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-11-06** |
 
@@ -361,6 +361,78 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Vidéo de démontage de baskets futuristes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une vidéo cinématographique montrant la construction en couches et l'assemblage d'une basket futuriste.
+
+#### 📝 Prompt
+
+```
+Une sneaker futuriste haut de gamme flotte dans un studio sombre et minimaliste, baigné d'un éclairage dramatique et doté d'un sol noir brillant et réfléchissant. La chaussure se sépare lentement en plusieurs couches distinctes, révélant sa construction interne avancée : une tige en mesh épurée, une couche d'amorti noire, une semelle intermédiaire blanche et une semelle extérieure orange vif d'inspiration futuriste en nid d'abeille.
+La caméra s'approche avec fluidité tandis que chaque composant flotte séparément dans un alignement parfait, mettant en valeur l'ingénierie complexe et le design innovant.
+Coupe sur des plans macro extrêmes de la structure d'amorti creuse unique de la semelle orange, des coutures minutieuses, du mesh respirant et des matériaux premium. Des mains gantées de noir tiennent délicatement la semelle souple et en font la démonstration, soulignant sa technologie d'absorption des chocs novatrice.
+Ensuite, des mains assemblent la sneaker couche par couche avec des mouvements mécaniques d'une précision millimétrée. La séquence s'achève sur la sneaker entièrement assemblée, flottant avec élégance au centre du studio sombre, tournant lentement sous un éclairage cinématographique saisissant.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118559782529593345/img/xsAOLwOXlU3OXxIl.jpg" width="600" alt="Vidéo de démontage de baskets futuristes">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13567)**
+
+**Auteur:** [Zarnish](https://x.com/ZarnishNael) | **Source:** [Link](https://x.com/ZarnishNael/status/2118559810035593407) | **Publié:** Nov 6, 2026
+
+---
+### Cyberpunk Mécanique Vol Cinématographique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo détaillé pour générer un plan cinématographique macro d'une mouche mécanique cyberpunk, passant de la beauté extérieure à la complexité des mécanismes d'horlogerie intérieurs.
+
+#### 📝 Prompt
+
+```
+Travelling avant macro cinématographique sur une mouche mécanique cyberpunk, débutant par un plan beauté épuré de type produit, puis basculant vers une exploration invasive et chirurgicale de ses systèmes d'horlogerie internes.
+
+Décor : Environnement studio minimaliste avec un fond uni beige doux. Éclairage haut de gamme pour mise en valeur de produit, reflets maîtrisés et légers rehauts de contour soulignant une mouche mécanique cyberpunk hyper-détaillée. L'atmosphère est propre, stérile et silencieuse — à l'image d'un laboratoire futuriste ou d'une vitrine de design.
+
+Sujet : Une mouche robotique à l'esthétique hybride : un exosquelette en chrome noir brillant fusionné avec de délicats segments de carapace en porcelaine bleue et blanche. Ses yeux composés diffusent une douce lumière interne bleutée. Ses fines pattes métalliques s'articulent avec précision, tandis que ses ailes mécaniques translucides vibrent subtilement au gré de micro-mouvements.
+
+Action : La mouche reste presque immobile, effectuant de subtils micro-ajustements réalistes — pattes qui frémissent, tête légèrement inclinée, ailes vibrant doucement. Un travelling avant lent et maîtrisé se dirige vers sa tête et son thorax. À mesure que la caméra approche, la carapace externe se sépare et s'écarte en sections mécaniques superposées, révélant des systèmes internes complexes. La caméra poursuit sa progression à travers l'ouverture, passant sans transition de l'extérieur à l'intérieur. À l'intérieur, engrenages imbriqués, gyroscopes en rotation, micro-pistons pulsants, anneaux tournants et cœurs énergétiques luminescents bleus fonctionnent dans un mouvement synchronisé. De minuscules composants cliquent, pivotent et se déplacent selon une chorégraphie mécanique précise, tandis que la caméra s'enfonce plus profondément au cœur de la machine.
+
+Audio : Ambiance mécanique douce ponctuée de vrombissements de servomoteurs à haute fréquence, de micro-clics et d'un tic-tac délicat. Un léger bourdonnement électrique s'intensifie lorsque la caméra pénètre à l'intérieur. Le rythme d'horlogerie stratifié — tics imbriqués, mécanismes en rotation et faibles pulsations hydrauliques — devient de plus en plus immersif et presque musical.
+
+Ton : Clinique, fascinant, hypnotique. Beauté technologique et complexité dissimulée. Rythme lent et maîtrisé, axé sur la découverte et la précision. La transition de la surface vers l'intérieur doit paraître fluide, comme si l'on pénétrait dans un autre monde au sein de la machine.
+
+Caméra : Débuter avec un rendu macro 100 mm pour une faible profondeur de champ et une compression typique des plans produits, puis basculer vers une perspective de sonde optique impossible à l'intérieur du mécanisme. Travelling avant ultra-fluide et lent, aucun mouvement caméra à l'épaule. Micro-rack focus à chaque couche révélée. Léger décalage de parallaxe à l'intérieur pour accentuer la profondeur.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118360013643071488/img/qiCxpfe3qBk4aB2p.jpg" width="600" alt="Cyberpunk Mécanique Vol Cinématographique">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13566)**
+
+**Auteur:** [Pan](https://x.com/sebatheepan) | **Source:** [Link](https://x.com/sebatheepan/status/2118360399057756590) | **Publié:** Nov 5, 2026
+
+---
+### Renard en découpe papier, floraison automnale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt pour une vidéo Seedance 2.0 où un renard marchant sur une œuvre en papier déclenche une vague de couleurs dorées d'automne.
+
+#### 📝 Prompt
+
+```
+Style d'art en papier découpé 3D, esthétique de sculpture en papier superposé, texture volumétrique de ouate et de fibres feutrées avec de doux duvets vaporeux le long de chaque bordure découpée. Monde en relief sculpté blanc ivoire : un grand arbre en papier couvert de fleurs dans la partie supérieure gauche, un petit arbre fleuri sculpté sur le bord droit, des vagues de papier ciselé ondulant au premier plan, des fleurs en papier éparpillées et des rochers pâles, le tout dans des tons crème et gris clair. Un unique renard roux est assis sur un rocher de papier blanc à gauche du cadre. Le renard lève la tête, se dresse sur ses pattes et commence à marcher vers la droite le long de la corniche sculptée. À l'instant où sa première patte touche le sol de papier, une lumière dorée et chaleureuse s'embrase sous ses coussinets et jaillit vers l'extérieur en un anneau lisse qui s'étend, déversant une clarté dorée dans les sillons creusés du relief, tandis que des étincelles d'or et une poussière lumineuse s'élèvent du sol. Partout où passe la lumière, le papier ivoire prend vie et se colore : les vagues sculptées s'intensifient en teintes ambre et rousses, les fleurs passent du blanc à l'orange automnal, à l'or et au cramoisi chaleureux, les troncs se réchauffent en nuances caramel, et de véritables feuilles d'automne se détachent des branches de papier pour descendre lentement en voletant. La couleur se propage telle une vague voyageant de gauche à droite dans le sillage du renard qui marche, et le dernier coin ivoire sur le bord droit se pare d'or à son passage. La caméra suit lentement le renard vers la droite, léger effet de parallaxe entre les couches sculptées, palette automnale chaleureuse contrastant avec l'ivoire, éclairage cinématographique, mouvement magique et fluide
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118324585275817984/img/UD5zrPxHL-Q37KMs.jpg" width="600" alt="Renard en découpe papier, floraison automnale">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13568)**
+
+**Auteur:** [Viki](https://x.com/churvikv) | **Source:** [Link](https://x.com/churvikv/status/2118324800305111137) | **Publié:** Nov 5, 2026
+
+---
 ### Bataille entre une Sorcière et des Géants Cuirassés
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6767,75 +6839,6 @@ Créez une vidéo IA cinématique ultra-réaliste de 20 secondes mettant en scè
 **Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2111646777187450940) | **Publié:** Oct 18, 2026
 
 ---
-### Prompt de poursuite océanique cinématographique Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une vidéo cinématographique hyper-réaliste d'une femme courant sur l'eau, poursuivie par un cobra marin dans un décor de coucher de soleil orageux.
-
-#### 📝 Prompt
-
-```
-Des visuels ultra-réalistes en 4K, un coucher de soleil tempétueux, une femme qui court sur l'eau, poursuivie par un cobra marin gigantesque. Le chaos à l'état pur. Du grand cinéma.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111455018046164992/img/o4eANHhCPJrryvOA.jpg" width="600" alt="Prompt de poursuite océanique cinématographique Seedance 2.0">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12816)**
-
-**Auteur:** [Liam Ai](https://x.com/imLiamAi) | **Source:** [Link](https://x.com/imLiamAi/status/2111457980969603467) | **Publié:** Oct 17, 2026
-
----
-### Rénovation de sol en bonbons en forme de cœur
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt vidéo pour générer une séquence de rénovation satisfaisante où des bonbons en forme de cœur sont intégrés dans de la résine époxy pour créer un sol de style terrazzo.
-
-#### 📝 Prompt
-
-```
-Vidéo verticale 9:16, processus de rénovation satisfaisant photoréaliste, mouvement fluide, lumière naturelle vive. Pièce vide avec murs blancs, fenêtre à gauche, sol en béton brut.
-
-Plan 1 : Un homme portant une salopette bleue utilise une longue pelle pour étaler un grand tas de petits bonbons orange et verts en forme de cœur, les nivelant en une couche uniforme sur l'ensemble du sol.
-
-Plan 2 : Une femme portant une salopette rouge verse une résine époxy blanche auto-nivelante épaisse et brillante depuis un seau blanc ; le liquide coule et s'étale sur la couche de bonbons, recouvrant progressivement les cœurs.
-
-Plan 3 : Un ouvrier portant un gilet jaune réfléchissant ponce et polit le sol durci avec une machine professionnelle de polissage de sol, révélant des cœurs orange et verts intégrés sous une résine blanche brillante, comme un terrazzo coloré.
-
-Plan 4 : Deux ouvriers assemblent un cadre de lit en bois sur le nouveau sol, placent un matelas blanc, des oreillers et de la literie.
-
-Plan final : La caméra incline lentement vers le bas sur la chambre terminée, montrant le sol unique en résine avec motif de cœurs brillants à côté du lit soigneusement fait.
-
-Physique réaliste du liquide versé et des bonbons en vrac, éclairage cohérent, coupures fluides entre les plans, haut niveau de détail, sans texte.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111457403719831552/img/uNO-3LOiA-tvoKwh.jpg" width="600" alt="Rénovation de sol en bonbons en forme de cœur">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12676)**
-
-**Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2111457454894526493) | **Publié:** Oct 17, 2026
-
----
-### Aventure cinématographique de la petite coureuse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une vidéo d'aventure miniature cinématographique mettant en scène une petite femme athlétique naviguant dans un monde quotidien surdimensionné.
-
-#### 📝 Prompt
-
-```
-Créez une aventure miniature cinématographique ultra-réaliste mettant en scène une petite femme athlétique naviguant dans un monde quotidien gigantesque. Elle court sur un bureau, grimpe à un énorme bocal en verre, explore des piles de tissus colorés, escalade des vêtements suspendus et se faufile entre des appareils ménagers surdimensionnés. Montrez-la grimpant sur une capsule massive, rampant sous une machine à laver et traversant un parcours d'obstacles miniature. Soulignez le contraste dramatique entre son échelle humaine minuscule et les objets gigantesques. Éclairage cinématographique chaud, textures réalistes, faible profondeur de champ, photographie macro, plans suivis fluides, mouvements humains naturels, ombres douces, détails photoréalistes, narration créative, esthétique commerciale premium, format vertical 9:16, qualité 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111311504519872513/img/XjUA1H4ax_wXi_Eq.jpg" width="600" alt="Aventure cinématographique de la petite coureuse">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12629)**
-
-**Auteur:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2111311551710007388) | **Publié:** Oct 17, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -6897,6 +6900,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-06T01:04:31.300Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-06T12:11:20.603Z</sub>
 
 </div>

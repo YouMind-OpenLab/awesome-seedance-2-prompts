@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6654** |
+| 📝 Totale prompt | **6657** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-11-06** |
 
@@ -361,6 +361,81 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Video di disassemblaggio di sneaker futuristiche
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per generare un video cinematografico che mostra la costruzione a strati e l'assemblaggio di una sneaker futuristica.
+
+#### 📝 Prompt
+
+```
+Una sneaker futuristica premium fluttua in uno studio minimalista e scuro, illuminato da un faretto drammatico e con un pavimento nero lucido e riflettente. La scarpa si separa lentamente in più strati individuali, rivelando la sua avanzata struttura interna: una tomaia in mesh affusolata, uno strato ammortizzante nero, un'intersuola bianca e una suola arancione brillante dal design futuristico ispirato a un nido d'ape.
+
+La telecamera si avvicina con un movimento fluido mentre ogni componente fluttua separatamente in perfetto allineamento, mettendo in mostra l'ingegneria sofisticata e il design innovativo.
+
+Stacco su primissimi piani macro della singolare struttura ammortizzante cava della suola arancione, delle cuciture dettagliate, del mesh traspirante e dei materiali premium. Mani guantate di nero tengono e mostrano con cura la suola flessibile, evidenziandone l'innovativa tecnologia ammortizzante.
+
+Successivamente, le mani assemblano la sneaker strato dopo strato con movimenti meccanici precisi. Il video si chiude con la sneaker completamente assemblata che fluttua elegantemente al centro dello studio buio, ruotando lentamente sotto una spettacolare illuminazione cinematografica.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118559782529593345/img/xsAOLwOXlU3OXxIl.jpg" width="600" alt="Video di disassemblaggio di sneaker futuristiche">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13567)**
+
+**Autore:** [Zarnish](https://x.com/ZarnishNael) | **Fonte:** [Link](https://x.com/ZarnishNael/status/2118559810035593407) | **Pubblicato:** Nov 6, 2026
+
+---
+### Cyberpunk: Fly Meccanico – Macro Cinematografico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video dettagliato per generare una ripresa macro cinematografica di una mosca meccanica cyberpunk, con transizione dalla bellezza esterna alla complessità degli ingranaggi interni.
+
+#### 📝 Prompt
+
+```
+Avanzamento macro cinematografico su una mosca meccanica cyberpunk: si apre con un beauty shot pulito in stile prodotto, per poi trasformarsi in un'esplorazione invasiva e chirurgica dei suoi sistemi interni a orologeria.
+
+Scena: ambiente da studio minimalista con fondale continuo beige tenue. Illuminazione high-end da prodotto, riflessi controllati e sottili controluce delineano una mosca meccanica cyberpunk iper-dettagliata. L'atmosfera è pulita, sterile e silenziosa, come in un laboratorio futuristico o in una vetrina di design.
+
+Soggetto: una mosca robotica dall'estetica ibrida: un esoscheletro in cromo nero lucido fuso con delicati segmenti di guscio in porcellana bianca e blu. I suoi occhi composti brillano di una tenue luce interna blu. Le zampe metalliche sottili si articolano con precisione, mentre le ali meccaniche traslucide vibrano impercettibilmente con micro-movimenti.
+
+Azione: la mosca resta quasi immobile, compiendo lievi micro-aggiustamenti realistici: le zampe fremono, la testa si inclina leggermente, le ali vibrano piano. Un avanzamento lento e calibrato si avvicina alla testa e al torace. Man mano che la camera avanza, il guscio esterno si separa e si apre in sezioni meccaniche stratificate, rivelando complessi sistemi interni. La telecamera prosegue attraverso l'apertura, passando senza soluzione di continuità dall'esterno all'interno. Qui, ingranaggi incastrati tra loro, giroscopi in rotazione, micro-pistoni pulsanti, anelli rotanti e nuclei energetici blu luminosi operano in un movimento sincronizzato. Componenti minuscoli scattano, ruotano e si spostano in una precisa coreografia meccanica, mentre la camera si addentra sempre più nel cuore della macchina.
+
+Audio: ambientazione meccanica soffusa con ronzii ad alta frequenza dei servomotori, micro-scatti e un ticchettio delicato. Un lieve ronzio elettrico cresce man mano che la camera entra all'interno. Il ritmo stratificato dell'orologeria — ticchettii intrecciati, meccanismi in rotazione e deboli impulsi idraulici — diventa sempre più immersivo e quasi musicale.
+
+Tono: clinico, magnetico, ipnotico. Bellezza ingegnerizzata e complessità nascosta. Ritmo lento e controllato, incentrato sulla scoperta e sulla precisione. La transizione dalla superficie all'interno deve risultare fluida, come l'ingresso in un altro mondo dentro la macchina.
+
+Camera: partenza con un look macro da 100 mm per una ridotta profondità di campo e una compressione in stile prodotto, per poi passare a un'impossibile prospettiva da lente probe all'interno del meccanismo. Avanzamento lento ultra-fluido, nessun movimento a mano libera. Micro-cambi di fuoco man mano che ogni strato viene svelato. Leggero spostamento di parallasse all'interno per esaltare la profondità.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118360013643071488/img/qiCxpfe3qBk4aB2p.jpg" width="600" alt="Cyberpunk: Fly Meccanico – Macro Cinematografico">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13566)**
+
+**Autore:** [Pan](https://x.com/sebatheepan) | **Fonte:** [Link](https://x.com/sebatheepan/status/2118360399057756590) | **Pubblicato:** Nov 5, 2026
+
+---
+### Fox Autumn Bloom con tecnica di taglio della carta
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per un video Seedance 2.0 in cui una volpe che cammina su un'opera d'arte di carta scatena un'onda dorata di colori autunnali.
+
+#### 📝 Prompt
+
+```
+Stile artistico paper cut 3D, estetica da scultura di carta stratificata, texture volumetrica in ovatta e fibre infeltrite con soffici ciuffi vaporosi lungo ogni bordo tagliato. Un mondo a rilievo scolpito nel bianco avorio: un grande albero di carta ricoperto di fiori nell'angolo superiore sinistro, un piccolo albero fiorito scolpito sul margine destro, onde di carta intagliata che scorrono in primo piano, fiori di carta sparsi e rocce chiare, il tutto nelle tonalità del panna e del grigio tenue. Una singola volpe rossa è seduta su una roccia di carta bianca nella parte sinistra dell'inquadratura. La volpe solleva la testa, si alza sulle zampe e inizia a camminare verso destra lungo la sporgenza scolpita. Nell'istante in cui la sua prima zampa tocca il suolo di carta, una calda luce dorata si accende sotto le zampe ed esplode verso l'esterno come un anello luminoso in espansione, riversando bagliori d'oro nei solchi intagliati del rilievo, mentre scintille dorate e polvere luminosa si sollevano dal terreno. Dove passa la luce, la carta avorio prende colore: le onde intagliate si tingono di ambra e ruggine, i fiori passano dal bianco all'arancio autunnale, all'oro e al cremisi caldo, i tronchi assumono sfumature caramello e vere foglie autunnali si staccano dai rami di carta per planare lentamente verso il basso, volteggiando leggere. Il colore si propaga come un'onda che viaggia da sinistra a destra alle spalle della volpe in cammino, e l'ultimo angolo avorio sul margine destro si trasforma in oro al suo passaggio. La camera segue lentamente la volpe verso destra, delicato effetto parallasse tra gli strati scolpiti, palette autunnale calda in contrasto con l'avorio, illuminazione cinematografica, movimento fluido e magico
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118324585275817984/img/UD5zrPxHL-Q37KMs.jpg" width="600" alt="Fox Autumn Bloom con tecnica di taglio della carta">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13568)**
+
+**Autore:** [Viki](https://x.com/churvikv) | **Fonte:** [Link](https://x.com/churvikv/status/2118324800305111137) | **Pubblicato:** Nov 5, 2026
+
+---
 ### Battaglia tra Strega e Giganti Corazzati
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6676,75 +6751,6 @@ Crea un video AI cinematografico ultra-realistico della durata di 20 secondi che
 **Autore:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2111646777187450940) | **Pubblicato:** Oct 18, 2026
 
 ---
-### Prompt per Inseguimento Oceanico Cinematografico Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per generare un video cinematografico iperrealistico di una donna che corre sull'acqua inseguita da un cobra marino in un tramonto tempestoso.
-
-#### 📝 Prompt
-
-```
-Visuali 4K ultrarealistiche, tramonto in tempesta, una donna che corre sull'acqua inseguita da un gigantesco cobra marino. Puro caos. Cinema allo stato puro.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111455018046164992/img/o4eANHhCPJrryvOA.jpg" width="600" alt="Prompt per Inseguimento Oceanico Cinematografico Seedance 2.0">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12816)**
-
-**Autore:** [Liam Ai](https://x.com/imLiamAi) | **Fonte:** [Link](https://x.com/imLiamAi/status/2111457980969603467) | **Pubblicato:** Oct 17, 2026
-
----
-### Ristrutturazione del Pavimento con Caramelle a Forma di Cuore
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video per generare una sequenza di ristrutturazione appagante, in cui caramelle a forma di cuore vengono incorporate nella resina epossidica per creare un pavimento in stile terrazzo.
-
-#### 📝 Prompt
-
-```
-Video verticale 9:16, processo di ristrutturazione fotorealistico e appagante, movimenti fluidi, luce naturale intensa. Stanza vuota con pareti bianche, finestra sul lato sinistro, pavimento grezzo in cemento.
-
-Scena 1: Un uomo in tuta da lavoro blu usa una pala dal manico lungo per distribuire un grande mucchio di piccole caramelle arancioni e verdi a forma di cuore, livellandole in uno strato uniforme su tutto il pavimento.
-
-Scena 2: Una donna in tuta rossa versa spessa resina epossidica bianca autolivellante lucida da un secchio bianco; il liquido scorre e si diffonde sullo strato di caramelle, coprendo gradualmente i cuori.
-
-Scena 3: Un operaio con giubbotto rifrangente giallo leviga e lucida il pavimento indurito con una macchina professionale per la lucidatura dei pavimenti, rivelando cuori arancioni e verdi incorporati sotto la resina bianca lucida, come un colorato terrazzo.
-
-Scena 4: Due operai assemblano la struttura di un letto in legno sul nuovo pavimento, posizionando un materasso bianco, cuscini e biancheria da letto.
-
-Scena finale: La camera si inclina lentamente verso il basso sulla camera da letto finita, mostrando l'originale pavimento lucido in resina epossidica con motivo a cuore accanto al letto ordinatamente fatto.
-
-Fisica realistica del versamento del liquido e delle caramelle sciolte, illuminazione coerente, transizioni senza soluzione di continuità tra le scene, alto livello di dettaglio, nessun testo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111457403719831552/img/uNO-3LOiA-tvoKwh.jpg" width="600" alt="Ristrutturazione del Pavimento con Caramelle a Forma di Cuore">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12676)**
-
-**Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2111457454894526493) | **Pubblicato:** Oct 17, 2026
-
----
-### Avventura Cinematografica di Tiny Runner
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per generare un video avventura in miniatura cinematografico che presenta una donna atletica minuscola mentre si muove attraverso un mondo quotidiano sovradimensionato.
-
-#### 📝 Prompt
-
-```
-Crea un'avventura cinematografica ultra-realistica in miniatura che presenta una donna atletica minuscola mentre si muove attraverso un enorme mondo quotidiano. Corre su una scrivania, scala un barattolo di vetro gigante, esplora mucchi di tessuti colorati, arrampicandosi sui vestiti appesi e navigando tra elettrodomestici sovradimensionati. Mostrala mentre scala un tappo di bottiglia massiccio, striscia sotto una lavatrice e attraversa un percorso a ostacoli in miniatura. Enfatizza il contrasto drammatico tra la sua piccola scala umana e gli oggetti giganteschi. Illuminazione cinematografica calda, texture realistiche, profondità di campo ridotta, fotografia macro, riprese fluide con tracking shot, movimento umano naturale, ombre morbide, dettagli fotorealistici, narrazione creativa, estetica commerciale premium, formato verticale 9:16, qualità 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111311504519872513/img/XjUA1H4ax_wXi_Eq.jpg" width="600" alt="Avventura Cinematografica di Tiny Runner">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12629)**
-
-**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2111311551710007388) | **Pubblicato:** Oct 17, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -6806,6 +6812,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-06T01:04:32.693Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-06T12:11:21.615Z</sub>
 
 </div>

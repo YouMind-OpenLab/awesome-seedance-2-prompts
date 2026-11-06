@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6654** |
+| 📝 Total Prompts | **6657** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-11-06** |
 
@@ -365,6 +365,78 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Futuristic Sneaker Disassembly Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a cinematic video showing the layered construction and assembly of a futuristic sneaker.
+
+#### 📝 Prompt
+
+```
+A premium futuristic sneaker floats in a dark minimalist studio with dramatic spotlighting and a glossy reflective black floor. The shoe slowly separates into multiple individual layers, revealing its advanced internal construction: a sleek upper mesh, black cushioning layer, white midsole, and bright orange futuristic honeycomb-inspired sole.
+The camera smoothly moves closer as each component floats separately in perfect alignment, showcasing the intricate engineering and innovative design.
+Cut to extreme macro close-ups of the orange sole's unique hollow cushioning structure, detailed stitching, breathable mesh, and premium materials. Black-gloved hands carefully hold and demonstrate the flexible sole, highlighting its innovative shock-absorbing technology.
+Next, show hands assembling the sneaker layer by layer with precise mechanical movements. Finish with the fully assembled sneaker floating elegantly in the center of the dark studio, rotating slowly under dramatic cinematic lighting.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118559782529593345/img/xsAOLwOXlU3OXxIl.jpg" width="600" alt="Futuristic Sneaker Disassembly Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13567)**
+
+**Author:** [Zarnish](https://x.com/ZarnishNael) | **Source:** [Link](https://x.com/ZarnishNael/status/2118559810035593407) | **Published:** Nov 6, 2026
+
+---
+### Cyberpunk Mechanical Fly Macro Cinematic
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for generating a macro cinematic shot of a cyberpunk mechanical fly, transitioning from exterior beauty to interior clockwork complexity.
+
+#### 📝 Prompt
+
+```
+Macro cinematic push-in on a cyberpunk mechanical fly, beginning as a clean product-style beauty shot, then transitioning into an invasive, surgical exploration of its internal clockwork systems.
+
+Scene: Minimal studio environment with a soft beige seamless backdrop. High-end product lighting, controlled reflections, and subtle rim highlights outline a hyper-detailed cyberpunk mechanical fly. The atmosphere is clean, sterile, and quiet—like a futuristic lab or design showcase.
+
+Subject: A robotic fly with a hybrid aesthetic: glossy black chrome exoskeleton fused with delicate blue-and-white porcelain shell segments. Its compound eyes glow with soft blue internal light. Fine metallic legs articulate with precision, and translucent mechanical wings vibrate subtly with micro-movements.
+
+Action: The fly remains mostly still, performing subtle lifelike micro-adjustments—legs twitching, head tilting slightly, wings softly vibrating. A slow, deliberate push-in moves toward its head and thorax. As the camera approaches, the outer shell separates and peels back in layered mechanical sections, revealing intricate inner systems. The camera continues forward through the opening, transitioning seamlessly from exterior to interior. Inside, interlocking gears, spinning gyros, pulsing micro-pistons, rotating rings, and glowing blue energy cores operate in synchronized motion. Tiny components click, rotate, and shift in precise mechanical choreography as the camera navigates deeper into the machine’s core.
+
+Audio: Soft mechanical ambience with high-frequency servo whirs, micro-clicks, and delicate ticking. A subtle electric hum builds as the camera enters the interior. Layered clockwork rhythm—interlocking ticks, spinning mechanisms, and faint hydraulic pulses—becomes increasingly immersive and almost musical.
+
+Tone: Clinical, mesmerising, hypnotic. Engineered beauty and hidden complexity. Slow, controlled pacing focused on discovery and precision. The surface-to-interior transition should feel seamless, like entering another world within the machine.
+
+Camera: Start with a 100mm macro feel for shallow depth and product-style compression, then transition into an impossible probe-lens perspective inside the mechanism. Ultra-smooth slow push-in, no handheld movement. Micro focus pulls as each layer reveals. Slight parallax shift inside to enhance depth.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118360013643071488/img/qiCxpfe3qBk4aB2p.jpg" width="600" alt="Cyberpunk Mechanical Fly Macro Cinematic">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13566)**
+
+**Author:** [Pan](https://x.com/sebatheepan) | **Source:** [Link](https://x.com/sebatheepan/status/2118360399057756590) | **Published:** Nov 5, 2026
+
+---
+### Paper Cut Fox Autumn Bloom
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a Seedance 2.0 video where a fox walking on paper art triggers a golden autumn color wave.
+
+#### 📝 Prompt
+
+```
+3D paper cut art style, layered paper sculpture aesthetic, volumetric cotton-wool and felted-fibre texture with soft fluffy wisps along every cut edge. Ivory-white sculpted relief world: a large blossom-covered paper tree at the upper left, a small sculpted blossom tree at the right edge, carved paper waves flowing across the foreground, scattered paper flowers and pale rocks, all in cream and pale grey. A single red fox sits on a white paper rock at the left of the frame. The fox lifts its head, rises onto its paws and begins to walk to the right along the sculpted ledge. The instant its first paw touches the paper ground, warm golden light ignites beneath the paws and bursts outward as a smooth expanding ring, pouring golden light into the carved grooves of the relief, golden sparks and glowing dust lifting from the ground. Where the light passes, the ivory paper takes colour: the carved waves deepen into amber and russet, blossoms turn from white to autumn orange, gold and warm crimson, trunks warm to caramel, and real autumn leaves detach from the paper branches and drift slowly down, fluttering. The colour spreads as a wave travelling left to right behind the walking fox, and the last ivory corner at the right edge turns gold as it goes. Camera tracks slowly right with the fox, gentle parallax between sculpted layers, warm autumn palette against ivory, cinematic lighting, smooth magical motion
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118324585275817984/img/UD5zrPxHL-Q37KMs.jpg" width="600" alt="Paper Cut Fox Autumn Bloom">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13568)**
+
+**Author:** [Viki](https://x.com/churvikv) | **Source:** [Link](https://x.com/churvikv/status/2118324800305111137) | **Published:** Nov 5, 2026
+
+---
 ### Sorceress vs Armored Giants Battle
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6882,75 +6954,6 @@ Create a 20-second cinematic, ultra-realistic AI video featuring a young Korean 
 **Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2111646777187450940) | **Published:** Oct 18, 2026
 
 ---
-### Seedance 2.0 Cinematic Ocean Chase Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a hyper-realistic cinematic video of a woman running on water chased by a sea cobra in a stormy sunset setting.
-
-#### 📝 Prompt
-
-```
-4K ultra-realistic visuals, stormy sunset, a woman running on water chased by a massive sea cobra. Pure chaos. Pure cinema.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111455018046164992/img/o4eANHhCPJrryvOA.jpg" width="600" alt="Seedance 2.0 Cinematic Ocean Chase Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12816)**
-
-**Author:** [Liam Ai](https://x.com/imLiamAi) | **Source:** [Link](https://x.com/imLiamAi/status/2111457980969603467) | **Published:** Oct 17, 2026
-
----
-### Heart-Shaped Candy Floor Renovation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video prompt for generating a satisfying renovation sequence where heart-shaped candies are embedded in epoxy resin to create a terrazzo-style floor.
-
-#### 📝 Prompt
-
-```
-Vertical 9:16 video, photorealistic satisfying renovation process, smooth motion, bright natural daylight. Empty room with white walls, window on the left, bare concrete floor.
-
-Shot 1: A man in blue work overalls uses a long-handled shovel to spread a huge pile of small orange and green heart-shaped candies, levelling them into an even layer across the entire floor.
-
-Shot 2: A woman in red overalls pours thick glossy white self-leveling epoxy resin from a white bucket; the liquid flows and spreads over the candy layer, gradually covering the hearts.
-
-Shot 3: A worker in a yellow reflective vest grinds and polishes the hardened floor with a professional floor polishing machine, revealing orange and green hearts embedded under glossy white resin, like colorful terrazzo.
-
-Shot 4: Two workers assemble a wooden bed frame on the new floor, place a white mattress, pillows and bedding.
-
-Final shot: Slow camera tilt down over the finished bedroom, showing the unique glossy heart-pattern epoxy floor next to the neatly made bed.
-
-Realistic physics of pouring liquid and loose candy, consistent lighting, seamless cuts between shots, high detail, no text.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111457403719831552/img/uNO-3LOiA-tvoKwh.jpg" width="600" alt="Heart-Shaped Candy Floor Renovation">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12676)**
-
-**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2111457454894526493) | **Published:** Oct 17, 2026
-
----
-### Tiny Runner Miniature Adventure
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a macro-cinematic video featuring a tiny woman navigating oversized household objects like glass jars and washing machines, emphasizing scale contrast.
-
-#### 📝 Prompt
-
-```
-Create an ultra-realistic cinematic miniature adventure featuring a tiny athletic woman navigating an enormous everyday world. She runs across a desk, climbs a giant glass jar, explores piles of colorful fabric, scales hanging clothes, and navigates oversized household appliances. Show her climbing a massive bottle cap, crawling beneath a washing machine, and crossing a miniature obstacle course. Emphasize the dramatic contrast between her tiny human scale and gigantic objects. Warm cinematic lighting, realistic textures, shallow depth of field, macro photography, smooth tracking shots, natural human movement, soft shadows, photorealistic details, creative storytelling, premium commercial aesthetic, vertical 9:16 format, 4K quality.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111311504519872513/img/XjUA1H4ax_wXi_Eq.jpg" width="600" alt="Tiny Runner Miniature Adventure">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12629)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2111311551710007388) | **Published:** Oct 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -7012,6 +7015,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-06T01:04:17.178Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-06T12:11:10.708Z</sub>
 
 </div>

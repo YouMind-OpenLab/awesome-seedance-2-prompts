@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6654** |
+| 📝 Gesamtanzahl Prompts | **6657** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-11-06** |
 
@@ -361,6 +361,78 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Zukunftsweisendes Sneaker-Disassembly-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines kinematografischen Videos, das die schichtweise Konstruktion und Montage eines futuristischen Sneakers zeigt.
+
+#### 📝 Prompt
+
+```
+Ein futuristischer Premium-Sneaker schwebt in einem dunklen, minimalistischen Studio mit dramatischer Spotbeleuchtung und glänzend reflektierendem schwarzem Boden. Der Schuh zerlegt sich langsam in mehrere einzelne Schichten und gibt seinen hochentwickelten inneren Aufbau frei: ein schlankes Obermaterial aus Mesh, eine schwarze Dämpfungsschicht, eine weiße Mittelsohle sowie eine leuchtend orangefarbene, futuristische Sohle im Waben-Design.
+Die Kamera gleitet sanft näher heran, während jede Komponente perfekt ausgerichtet einzeln in der Luft schwebt und die raffinierte Konstruktion sowie das innovative Design zur Geltung bringt.
+Schnitt auf extreme Makro-Nahaufnahmen der einzigartigen hohlen Dämpfungsstruktur der orangefarbenen Sohle, der detaillierten Nähte, des atmungsaktiven Mesh-Gewebes und der hochwertigen Materialien. Hände in schwarzen Handschuhen halten und demonstrieren behutsam die flexible Sohle und heben dabei die innovative Stoßdämpfungstechnologie hervor.
+Anschließend zeigen Hände, wie der Sneaker mit präzisen, mechanischen Bewegungen Schicht für Schicht zusammengesetzt wird. Den Abschluss bildet der vollständig montierte Sneaker, der elegant in der Mitte des dunklen Studios schwebt und sich unter dramatischer, cineastischer Beleuchtung langsam dreht.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118559782529593345/img/xsAOLwOXlU3OXxIl.jpg" width="600" alt="Zukunftsweisendes Sneaker-Disassembly-Video">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13567)**
+
+**Autor:** [Zarnish](https://x.com/ZarnishNael) | **Quelle:** [Link](https://x.com/ZarnishNael/status/2118559810035593407) | **Veröffentlicht:** Nov 6, 2026
+
+---
+### Cyberpunk-Mechanische Fliege: Makro-Cinematic
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-Prompt zur Generierung eines makroskopischen Cinematic-Shots einer cyberpunk-mechanischen Fliege, der den Übergang von äußerer Schönheit zu innerer Uhrwerk-Komplexität darstellt.
+
+#### 📝 Prompt
+
+```
+Makro-kinoähnlicher Push-in auf eine Cyberpunk-Mechanikfliege, der als sauberer Beauty-Shot im Produktstil beginnt und dann in eine eindringliche, chirurgische Erkundung ihres inneren Uhrwerks übergeht.
+
+Szene: Minimales Studio-Setting mit weichem, beigem Endloshintergrund. Hochwertige Produktbeleuchtung, kontrollierte Reflexionen und dezente Kantenlichter konturieren eine hyperdetaillierte Cyberpunk-Mechanikfliege. Die Atmosphäre ist rein, steril und still – wie in einem futuristischen Labor oder bei einer Designpräsentation.
+
+Motiv: Eine Roboterfliege mit Hybrid-Ästhetik: Ein glänzendes schwarzes Chrom-Exoskelett verschmilzt mit filigranen Schalensegmenten aus blau-weißem Porzellan. Ihre Facettenaugen leuchten in sanftem Blau von innen. Feine Metallbeine bewegen sich präzise gelenkig, während die transluzenten mechanischen Flügel in Mikrobewegungen dezent vibrieren.
+
+Aktion: Die Fliege verharrt weitgehend reglos und führt subtile, lebensechte Mikrokorrekturen aus – zuckende Beine, ein leicht geneigter Kopf, sanft vibrierende Flügel. Ein langsamer, bewusster Push-in nähert sich Kopf und Thorax. Während die Kamera heranzoomt, öffnet sich die Außenhülle und klappt in geschichteten mechanischen Segmenten zurück, wodurch das komplexe Innenleben sichtbar wird. Die Kamera gleitet durch die Öffnung nach vorn und wechselt nahtlos von außen nach innen. Im Inneren arbeiten ineinandergreifende Zahnräder, rotierende Gyroskope, pulsierende Mikrokolben, drehende Ringe und blau leuchtende Energiekerne in synchronisierter Bewegung. Winzige Komponenten klicken, rotieren und verschieben sich in präziser mechanischer Choreografie, während die Kamera tiefer in den Kern der Maschine vordringt.
+
+Audio: Sanfte mechanische Atmosphäre mit hochfrequentem Servo-Surren, Mikro-Klicken und feinem Ticken. Ein subtiles elektrisches Brummen baut sich auf, sobald die Kamera ins Innere eindringt. Der vielschichtige Uhrwerk-Rhythmus – verzahntes Ticken, rotierende Mechanismen und leise hydraulische Impulse – wird zunehmend immersiv und fast schon musikalisch.
+
+Stimmung: Klinisch, faszinierend, hypnotisch. Konstruierte Schönheit und verborgene Komplexität. Langsames, kontrolliertes Tempo mit Fokus auf Entdeckung und Präzision. Der Übergang von der Oberfläche ins Innere soll nahtlos wirken – wie das Eintauchen in eine eigene Welt im Inneren der Maschine.
+
+Kamera: Beginn mit 100 mm Makro-Anmutung für geringe Schärfentiefe und produkttypische Stauchung, dann Wechsel zu einer unmöglichen Probe-Lens-Perspektive im Inneren des Mechanismus. Ultrasanfter, langsamer Push-in, keine Handkamera-Bewegung. Mikro-Fokusfahrten bei jeder neu sichtbaren Schicht. Leichter Parallaxenversatz im Inneren zur Verstärkung der Tiefenwirkung.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118360013643071488/img/qiCxpfe3qBk4aB2p.jpg" width="600" alt="Cyberpunk-Mechanische Fliege: Makro-Cinematic">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13566)**
+
+**Autor:** [Pan](https://x.com/sebatheepan) | **Quelle:** [Link](https://x.com/sebatheepan/status/2118360399057756590) | **Veröffentlicht:** Nov 5, 2026
+
+---
+### Papierfuchs im Herbstblühen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für ein Seedance-2.0-Video, in dem ein Fuchs, der über Papierkunst läuft, eine goldene Herbstfarbwelle auslöst.
+
+#### 📝 Prompt
+
+```
+3D-Scherenschnitt-Kunststil, Ästhetik einer geschichteten Papierskulptur, voluminöse Watte- und Filzfasertextur mit weichen, flauschigen Fasern entlang jeder Schnittkante. Eine elfenbeinweiße Reliefwelt aus Papier: ein großer, blütenbedeckter Papierbaum oben links, ein kleiner modellierter Blütenbaum am rechten Rand, geschnitzte Papierwellen, die sich durch den Vordergrund ziehen, verstreute Papierblumen und helle Steine – alles in Creme und Hellgrau. Ein einzelner roter Fuchs sitzt auf einem weißen Papierfelsen am linken Bildrand. Der Fuchs hebt den Kopf, erhebt sich auf seine Pfoten und beginnt, auf dem modellierten Vorsprung nach rechts zu laufen. In dem Moment, in dem seine erste Pfote den Papierboden berührt, entzündet sich unter seinen Pfoten warmes goldenes Licht und bricht als sanft wachsender Ring nach außen hervor. Es ergießt goldenes Licht in die geschnitzten Rillen des Reliefs, während goldene Funken und leuchtender Staub vom Boden aufsteigen. Wo das Licht vorbeizieht, nimmt das elfenbeinfarbene Papier Farbe an: Die geschnitzten Wellen vertiefen sich zu Bernstein und Rotbraun, die Blüten wechseln von Weiß zu herbstlichem Orange, Gold und warmem Karmesinrot, die Stämme erwärmen sich zu Karamell, und echte Herbstblätter lösen sich von den Papierästen und schweben langsam flatternd herab. Die Farbe breitet sich wie eine Welle von links nach rechts hinter dem laufenden Fuchs aus, und während er weitergeht, verwandelt sich der letzte elfenbeinfarbene Winkel am rechten Rand in Gold. Die Kamera fährt langsam mit dem Fuchs nach rechts, sanfter Parallaxeneffekt zwischen den modellierten Schichten, warme Herbstpalette vor Elfenbein, cineastische Beleuchtung, fließende magische Bewegung
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118324585275817984/img/UD5zrPxHL-Q37KMs.jpg" width="600" alt="Papierfuchs im Herbstblühen">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13568)**
+
+**Autor:** [Viki](https://x.com/churvikv) | **Quelle:** [Link](https://x.com/churvikv/status/2118324800305111137) | **Veröffentlicht:** Nov 5, 2026
+
+---
 ### Zauberin gegen gepanzerte Riesen: Kampf
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6694,75 +6766,6 @@ Erstelle ein 20-sekündiges, cineastisches, ultra-realistisches KI-Video mit ein
 **Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2111646777187450940) | **Veröffentlicht:** Oct 18, 2026
 
 ---
-### Seedance 2.0 Prompt für cineastische Ozean-Verfolgungsjagd
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung eines hyperrealistischen cineastischen Videos, in dem eine Frau auf dem Wasser flieht und von einer Seeschlange bei stürmischem Sonnenuntergang verfolgt wird.
-
-#### 📝 Prompt
-
-```
-Ultrarealistische 4K-Bilder, stürmischer Sonnenuntergang, eine Frau, die übers Wasser rennt – gejagt von einer riesigen Seekobra. Pures Chaos. Pures Kino.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111455018046164992/img/o4eANHhCPJrryvOA.jpg" width="600" alt="Seedance 2.0 Prompt für cineastische Ozean-Verfolgungsjagd">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12816)**
-
-**Autor:** [Liam Ai](https://x.com/imLiamAi) | **Quelle:** [Link](https://x.com/imLiamAi/status/2111457980969603467) | **Veröffentlicht:** Oct 17, 2026
-
----
-### Herzförmige Candy-Boden-Renovierung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt zur Generierung einer befriedigenden Renovierungssequenz, bei der herzförmige Bonbons in Epoxidharz eingebettet werden, um einen Terrazzo-Stil Boden zu schaffen.
-
-#### 📝 Prompt
-
-```
-Vertikales 9:16-Video, fotorealistischer, befriedigender Renovierungsprozess, flüssige Bewegung, helles natürliches Tageslicht. Leerer Raum mit weißen Wänden, Fenster auf der linken Seite, nackter Betonboden.
-
-Aufnahme 1: Ein Mann in blauen Arbeitsoveralls verteilt mit einer langstieligen Schaufel eine große Menge kleiner orangefarbener und grüner herzförmiger Bonbons und nivelliert sie zu einer gleichmäßigen Schicht über den gesamten Boden.
-
-Aufnahme 2: Eine Frau in roten Overalls gießt dickflüssiges, glänzendes weißes selbstnivellierendes Epoxidharz aus einem weißen Eimer; die Flüssigkeit fließt und breitet sich über die Bonbonschicht aus und bedeckt allmählich die Herzen.
-
-Aufnahme 3: Ein Arbeiter in einer gelben Warnweste schleift und poliert den gehärteten Boden mit einer professionellen Bodenpoliermaschine, wobei orangefarbene und grüne Herzen unter dem glänzenden weißen Harz sichtbar werden, ähnlich wie bunter Terrazzo.
-
-Aufnahme 4: Zwei Arbeiter montieren ein hölzernes Bettgestell auf dem neuen Boden, legen eine weiße Matratze, Kissen und Bettwäsche darauf.
-
-Letzte Aufnahme: Langsame Kamerafahrt nach unten über das fertige Schlafzimmer, die den einzigartigen glänzenden Herz-Muster-Epoxidboden neben dem ordentlich gemachten Bett zeigt.
-
-Realistische Physik beim Gießen von Flüssigkeit und losen Bonbons, konsistente Beleuchtung, nahtlose Schnitte zwischen den Aufnahmen, hohe Detailtreue, kein Text.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111457403719831552/img/uNO-3LOiA-tvoKwh.jpg" width="600" alt="Herzförmige Candy-Boden-Renovierung">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12676)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2111457454894526493) | **Veröffentlicht:** Oct 17, 2026
-
----
-### Tiny Runner – Cinematic Adventure
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung eines cineastischen Miniatur-Abenteuer-Videos mit einer kleinen athletischen Frau, die sich durch eine überdimensionale Alltagswelt bewegt.
-
-#### 📝 Prompt
-
-```
-Erstelle ein ultra-realistisches cineastisches Miniatur-Abenteuer mit einer kleinen athletischen Frau, die sich durch eine riesige Alltagswelt bewegt. Sie rennt über einen Schreibtisch, klettert auf ein gigantisches Glasgefäß, erkundet Haufen aus buntem Stoff, klettert an hängender Kleidung hoch und navigiert um übergroße Haushaltsgeräte herum. Zeige sie dabei, wie sie auf einen massiven Flaschenverschluss klettert, unter einer Waschmaschine hindurchkriecht und einen Miniatur-Hindernisparcours absolviert. Betone den dramatischen Kontrast zwischen ihrer winzigen menschlichen Größe und den gigantischen Objekten. Warme cineastische Beleuchtung, realistische Texturen, geringe Schärfentiefe, Makrofotografie, sanfte Kamerafahrten, natürliche menschliche Bewegungen, weiche Schatten, fotorealistische Details, kreatives Storytelling, Premium-Kommerzästhetik, vertikales 9:16-Format, 4K-Qualität.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111311504519872513/img/XjUA1H4ax_wXi_Eq.jpg" width="600" alt="Tiny Runner – Cinematic Adventure">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12629)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2111311551710007388) | **Veröffentlicht:** Oct 17, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -6824,6 +6827,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-06T01:04:30.044Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-06T12:11:19.628Z</sub>
 
 </div>
