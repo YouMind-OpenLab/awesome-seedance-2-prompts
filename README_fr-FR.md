@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6657** |
+| 📝 Total des prompts | **6662** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-11-07** |
 
@@ -361,6 +361,124 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Action cinétique FPV : Bagarre pour un Bun
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo en vue subjective (FPV) intense, dépeignant une bagarre entre frères et sœurs pour un petit pain sur un marché, nécessitant des références de personnages précises et un mouvement de caméra continu.
+
+#### 📝 Prompt
+
+```
+Un UNIQUE plan FPV CONTINU, sans aucune coupe, une vitesse cinétique EXTRÊME tout au long du combat. L'image ne fait JAMAIS marche arrière. AUCUN ralenti, sauf un battement d'une demi-seconde lors de la révélation, puis un retour instantané à pleine vitesse. CAMÉRA FANTÔME : INVISIBLE, aucun drone ni reflet dans le cadre. La caméra ORBITE autour des combattants au niveau de la rue et PLONGE sur chaque frappe — toujours en mouvement, sans jamais prendre de hauteur. VERROUILLAGE GÉOMÉTRIQUE : les deux se font face le long de la rue, se replaçant après chaque échange ; les coups atterrissent HORS AXE, dépassant l'objectif.
+
+RÉFÉRENCES : @Image1 est le LIEU — reproduisez-le à l'identique. @Image2 est BIG BRO — 185 cm, carrure massive, ronde et lourde, chignon haut et tresses, veste sarcelle, capteur d'épaule ; reproduisez-le à l'identique. @Image3 est LITTLE SIS — 160 cm, fine et vive, chignon et tresses, ceinture cramoisie, pantalon sarcelle ; reproduisez-la à l'identique. Sa tête lui arrive à l'épaule. Restituez l'ensemble dans le style pictural et cinématographique des références, entièrement animé.
+
+Le marché grouille de vie : vapeur, lanternes qui se balancent, poules picorant entre les étals, linge suspendu au-dessus des têtes. À un stand de brioches, le vendeur dépose la DERNIÈRE grosse brioche fumante, et deux mains s'y abattent au même instant — l'énorme paume de Big Bro et les doigts gantés de Little Sis. Il l'arrache le premier, la fourre dans sa pochette de ceinture orange et affiche un sourire narquois ; elle plisse les yeux. Quelques étals plus loin, un vieil homme assis sur un tabouret aspire bruyamment ses nouilles, observant la scène. Leur combat les entraîne le long de la rue, droit vers lui. Elle MITRAILLE sa tête de coups de pied secs ; il les repousse d'un revers de main et la pousse de la paume, tandis que les poules S'ÉPARPILLENT en caquetant sous ses bottes. Elle roule sous une charrette de fruits ; la caméra plonge sur son déluge de gestes cherchant à agripper sa pochette — il la REPOUSSE de son ventre en éclatant de rire contre l'auvent d'un étal, faisant basculer un chat surpris par-dessus bord, et elle rebondit pieds en avant vers lui. Elle prend appui sur son épaule, FRANCHIT son chignon d'un bond et le claque derrière la tête. Un gamin applaudit ; le vieil homme continue de siroter ses nouilles pendant qu'un tabouret passe en tournoyant. Son revers du poing pulvérise une caisse ; elle esquive et lui enfonce trois frappes de la paume dans le torse. LA RÉVÉLATION : un ralenti d'une demi-seconde — son coup de genou sauté glissant sous la paume défensive de Big Bro vers sa taille, la poussière en suspension — puis un RETOUR INSTANTANÉ à pleine vitesse lorsque son genou PERCUTE la pochette de ceinture et que la brioche JAILLIT, virevoltant dans les airs, rebondissant sur un auvent, puis sur une lanterne. Tous DEUX S'ÉLANCENT aussitôt à sa poursuite, le combat devenant une mêlée frénétique juste en dessous : elle fait la roue par-dessus une charrette, il fonce à travers les paniers, les étals s'effondrent comme des dominos, un tonneau d'eau éclate sur les pavés, des canards s'envolent en battant des ailes d'une caisse renversée, ils se bousculent et se font trébucher mutuellement, la caméra filant à ras du sol entre eux. La brioche retombe vers le tabouret du vieil homme ; tous deux se lancent dans une ultime plongée de tout leur corps — et à quelques centimètres de leurs doigts, ses baguettes l'attrapent en plein vol. Ils s'écrasent visage contre terre dans la poussière humide, à ses pieds. Il croque dedans à pleines dents et mâche, une poule venant se poser sur son
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118875602505850880/img/FtD4X6F6MXbfljas.jpg" width="600" alt="Action cinétique FPV : Bagarre pour un Bun">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13628)**
+
+**Auteur:** [Syed Abuthahir ∞](https://x.com/abulu8) | **Source:** [Link](https://x.com/abulu8/status/2118876172050415676) | **Publié:** Nov 7, 2026
+
+---
+### Animation Ink Tiger par Seedance 2.0
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour générer une animation au style de peinture à l'encre de Chine d'Asie de l'Est, mettant en scène un tigre et un lettré, spécifiquement créée avec Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Peinture à l'encre est-asiatique animée, mouvement expressif des coups de pinceau, encre qui fuse et se diffuse dans le papier, texture de papier de riz, espaces négatifs embrumés, mouvement à la fois puissant et serein. Étalonnage des couleurs : noir d'encre, gris doux, papier chaud, yeux dorés subtils, un sceau vermillon.
+Un tigre colossal fait d'encre fluide et de brume, ses rayures formées par de larges coups de pinceau à sec. Un lettré muni d'un parapluie sur un pont de corde au cœur d'une forêt de bambous.
+PLAN 1 (0 à 3 s) : Plan large, la patte du tigre se pose sur un sommet et l'encre se propage vers l'extérieur comme une onde de choc à travers la brume.
+PLAN 2 (3 à 6 s) : Plan moyen, objectif 35 mm, le lettré sur le pont de corde s'agrippe aux cordages tandis que le pont oscille, les bambous se courbant tout autour.
+PLAN 3 (6 à 9 s) : Gros plan, objectif 85 mm, le visage du tigre se dessine dans un tourbillon d'encre, ses yeux dorés s'ouvrent, les moustaches tracées par des coups de pinceau vifs et précis.
+PLAN 4 (9 à 12 s) : Plan large en contre-plongée, objectif 20 mm, le tigre bondit par-dessus la vallée, son corps s'étirant en longs traits de pinceau, des gouttes d'encre tombant comme la pluie.
+PLAN 5 (12 à 15 s) : Plan très large, objectif 16 mm, le tigre atterrit sur une montagne lointaine et se dissipe dans la brume, ne laissant que ses empreintes d'encre, tandis qu'un sceau vermillon vient marquer le coin du cadre.
+Vent de montagne, craquements du pont de corde, bruissement des bambous, balayage d'un pinceau sur le papier, un rugissement grave et profond résonnant dans toute la vallée, erhu et guqin, un dernier bruit sourd et feutré de tampon.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118869327478669312/img/G4xAsAw6nC7Jy6rB.jpg" width="600" alt="Animation Ink Tiger par Seedance 2.0">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13629)**
+
+**Auteur:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2118872216741749097) | **Publié:** Nov 7, 2026
+
+---
+### Timelapse de rénovation du sol jusqu'à la chambre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite vidéo en timelapse hyper-réaliste montrant un sol en béton recouvert de carreaux et poli pour obtenir une finition terrazzo, puis transformé en une chambre à coucher cosy avec assemblage de meubles.
+
+#### 📝 Prompt
+
+```
+Vidéo timelapse hyperréaliste au format vertical montrant la rénovation du sol d'une pièce vide et lumineuse, aux murs blancs, au plafond blanc et dotée d'une grande fenêtre à cadre noir. Elle s'ouvre sur un sol en béton brut avec, au centre, une haute pile de carreaux hexagonaux en terre cuite. Un homme vêtu d'une salopette en jean et de gants étale la pile à l'aide d'un long râteau, répartissant uniformément les hexagones dans toute la pièce. D'autres ouvriers en salopette le rejoignent et s'agenouillent pour aligner les carreaux hexagonaux en terre cuite selon un motif en nid d'abeille impeccable, puis versent sur les carreaux un épais ragréage autonivelant blanc contenu dans des seaux. Ils l'étalent à la taloche et à la raclette jusqu'à obtenir un sol blanc et lisse où transparaissent les hexagones. L'équipe ponce et polit ensuite la surface à l'aide de ponceuses rotatives, de meuleuses d'angle et d'aspirateurs industriels, révélant peu à peu un sol brillant façon terrazzo, où des hexagones en terre cuite sont incrustés dans le blanc. Ouvriers et machines quittent les lieux, laissant place à une pièce vide et resplendissante. Des déménageurs, filmés en accéléré, assemblent alors un sommier en bois clair qu'ils habillent d'une literie blanche et orange rouille, avant d'ajouter des tables de nuit, une lampe, un vase garni de branches et des tableaux encadrés. Plan large final sur une chambre minimaliste chaleureuse baignée d'une lumière naturelle douce, où le sol poli en carreaux hexagonaux de terre cuite scintille délicatement. Transitions fluides et continues, lumière du jour douce et constante, textures photoréalistes, qualité 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118804429054820352/img/LnGY1SsnsI11VNVb.jpg" width="600" alt="Timelapse de rénovation du sol jusqu'à la chambre">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13626)**
+
+**Auteur:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2118804474567205302) | **Publié:** Nov 6, 2026
+
+---
+### Du béton gris au plâtre marbré doré
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo ASMR en gros plan montrant une main appliquant de la peinture bleu marine veinée d'or métallique sur un mur en béton gris à l'aide d'une truelle.
+
+#### 📝 Prompt
+
+```
+Vidéo verticale au format smartphone, plan rapproché : une main saisit une large taloche à enduire en acier inoxydable dotée d'un manche noir et prélève une peinture épaisse et brillante bleu marine, marbrée de veines dorées métalliques scintillantes, dans un seau en plastique blanc posé contre un mur de béton brut gris. La taloche s'élève lentement, soulevant une généreuse quantité du mélange tourbillonnant bleu et or qui s'étire et goutte le long du bord de la lame. La main plaque ensuite la lame chargée à plat contre la surface rugueuse du béton et la tire vers le bas en un geste fluide et assuré, étalant sur le mur une haute bande verticale d'enduit décoratif bleu profond strié d'un élégant marbrage doré, révélant une texture riche et onctueuse là où la peinture rencontre le ciment granuleux. Lumière naturelle douce, ambiance ASMR apaisante, mouvements lents et maîtrisés, détails extrêmes sur la surface brillante de la peinture et les paillettes d'or, faible profondeur de champ, atmosphère réaliste de studio industriel, photoréaliste, haute résolution.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118803332890255360/img/kAIXW5_QioErVm2F.jpg" width="600" alt="Du béton gris au plâtre marbré doré">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13627)**
+
+**Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2118803488159518901) | **Publié:** Nov 6, 2026
+
+---
+### Seedance 2.5 vs Omni 1.2 Flash : Vidéo du Lac de l'Ouest à Hangzhou
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Comparaison de Seedance 2.5 et Gemini Omni 1.2 Flash à l'aide d'un prompt détaillé décrivant une jeune femme marchant au lac de l'Ouest, à Hangzhou.
+
+#### 📝 Prompt
+
+```
+10 secondes, format paysage 16:9. Début de l'été 2000, vidéo amateur tournée à la main avec un caméscope Mini DV, comme si elle avait été filmée sur le vif par une amie qui l'accompagne lors d'une promenade au lac de l'Ouest (West Lake) à Hangzhou. Fin de matinée, le lieu reste constant : le côté de la chaussée Bai, près de l'île Gushan. Des saules pleureurs frôlent des berges de pierre gris clair ; de l'autre côté du lac Beili, on aperçoit la montagne Baoshi, avec la fine pagode Baochu qui pointe au sommet de sa crête, et une barque en bois à rames qui passe au loin.
+
+L'intégralité du plan met en scène la même femme d'une vingtaine d'années originaire de Hangzhou, un personnage adulte fictif. Elle porte une robe indigo à petits motifs floraux beiges, manches courtes, col rond peu profond, deux pinces marquant naturellement la taille, ourlet sous le genou, le tissu ondulant doucement lorsqu'elle marche. Sandales plates marron ouvertes à l'avant, avec une seule bride et de fines lanières à la cheville. Cheveux noirs raides jusqu'aux épaules, coiffés en demi-queue. La partie supérieure est tirée vers l'arrière depuis les deux tempes et rassemblée en un petit chignon au centre de l'arrière de la tête, maintenu par une barrette horizontale couleur thé. La partie inférieure retombe naturellement sous la barrette jusqu'aux épaules, formant des mèches bien distinctes. Aucune pince à cheveux sur les côtés. Teint et texture de peau naturels, en conservant le même visage, les mêmes vêtements, chaussures et la même coiffure tout au long des quatre segments.
+
+0–2 s. À l'ombre des saules, elle est assise sur les marches basses en pierre au bord du lac. Son amie filme depuis l'arrière en diagonale, capturant ses cheveux mi-longs en demi-queue et la barrette horizontale couleur thé au centre de l'arrière de sa tête. Tandis que la mise au point passe des branches de saule à la barrette, elle lève la main pour appuyer sur celle-ci à l'arrière de sa tête, baisse la main, incline légèrement le visage vers le bas avec un sourire retenu. L'eau du lac est visible dans le cadre.
+
+2–5 s. Son amie la suit à pied derrière elle ; elle fait quelques pas sur le chemin de pierre longeant le lac, aperçoit un chat tigré couché sur une plateforme de pierre basse en retrait du sentier, et s'accroupit pour lui caresser doucement le dos. La lumière filtrant à travers les feuilles de saule balaie sa manche, la caméra ralentit d'un demi-pas, le mouvement capturant ses chaussures et le bas de sa tenue.
+
+5–8 s. Au bord du lac, sous les arbres, elle est assise sur un tabouret bas en bois et regarde la surface de l'eau, une tasse transparente de thé Longjing du lac de l'Ouest posée près de sa main, le fond du verre laissant voir les feuilles de thé déployées. Elle replace derrière son oreille une mèche échappée que soulève la brise du lac, le cadrage latéral à l'épaule dérive légèrement, et au loin, une barque en bois à rames passe lentement devant l'ombre de la montagne.
+
+8–10 s. Elle prend sa tasse de thé, se retourne pour regarder l'amie qui la filme, sourit brièvement, hoche légèrement la tête, puis se tourne et avance à l'ombre des saules de la chaussée Bai. Coupe franche au noir alors qu'elle est encore en plein mouvement, comme si son amie venait d'appuyer sur le bouton d'arrêt de l'enregistrement.
+
+Tremblements de la caméra visibles, légers flous occasionnels, sauts d'exposition subtils entre l'ombre des arbres et la surface de l'eau, tons chauds à faible contraste, grain fin et artefacts de compression numérique minimes typiques des débuts du numérique. Le son ne comprend que le clapotis de l'eau du lac contre les berges de pierre, le bruissement des feuilles de saule dans le vent, les pas, le ronronnement du chat et le léger tintement de la tasse en verre contre le tabouret en bois. Aucun dialogue, aucune voix off, aucune musique de fond, aucun sous-titre, aucun filigrane, aucun plan aérien ni ralenti. Aucun smartphone, écouteur sans fil ou code QR ne doit apparaître dans le cadre.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118686547251986432/img/-WvUb9ALVtoKKO9F.jpg" width="600" alt="Seedance 2.5 vs Omni 1.2 Flash : Vidéo du Lac de l'Ouest à Hangzhou">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13631)**
+
+**Auteur:** [风雪漫千山](https://x.com/fxmqs) | **Source:** [Link](https://x.com/fxmqs/status/2118686591594180730) | **Publié:** Nov 6, 2026
+
+---
 ### Vidéo de démontage de baskets futuristes
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6595,250 +6713,6 @@ Personnages : Protagoniste, Équipier A, Équipier B, Équipier C (4 au total). 
 **Auteur:** [M7［mi7］AI](https://x.com/mi7_crypto) | **Source:** [Link](https://x.com/mi7_crypto/status/2112029684594872632) | **Publié:** Oct 19, 2026
 
 ---
-### Scène de Drame Coréen : Rencontre Silencieuse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour créer une scène cinématographique et mélancolique rappelant un drama coréen, axé sur la tension et l'interaction silencieuse entre deux femmes dans le couloir d'un appartement.
-
-#### 📝 Prompt
-
-```
-Créez une séquence ultra-réaliste de 28 secondes inspirée des dramas coréens, mettant en scène deux jeunes femmes coréennes élégantes dans le couloir silencieux et faiblement éclairé d'un appartement. L'une a les cheveux longs, lisses et noirs, portant une tenue noire raffinée, tandis que l'autre arbore un tailleur-pantalon blanc sophistiqué avec un sac à main simple. Commencez par un plan mystérieux de dos montrant la femme en noir marchant lentement dans un corridor sombre illuminé par une douce lumière bleue. Transitionnez vers un couloir d'appartement richement détaillé où les deux femmes se croisent, créant une atmosphère subtile de tension et de curiosité. Utilisez des gros plans cinématographiques, des mouvements de marche naturels, des expressions faciales réalistes et un suivi fluide de la caméra pour construire le suspense. Montrez un gros plan sur une porte en bois et un mouvement subtil près du sol, suivi d'un couloir vide et de l'intérieur métallique d'un ascenseur. Capturez la femme en noir se tenant silencieusement dans l'ascenseur avec une expression sérieuse. Terminez sur la femme en blanc marchant seule dans le couloir, suivie d'un gros plan saisissant de son visage en extérieur, ses cheveux noirs bougeant doucement dans la brise. Utilisez un éclairage naturel doux, des couleurs atténuées, une faible profondeur de champ, une texture de peau réaliste, une composition cinématographique, des transitions fluides et une photographie professionnelle typique des dramas coréens. Maintenez une cohérence parfaite des identités faciales, coiffures, tenues et proportions corporelles tout au long de la vidéo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112012335745568768/img/7htU0qp0NJG1AW7B.jpg" width="600" alt="Scène de Drame Coréen : Rencontre Silencieuse">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12710)**
-
-**Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2112012480860000276) | **Publié:** Oct 19, 2026
-
----
-### Prompt Vidéo : Attaque de Crocodile au Parc Animalier
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt détaillé pour générer une vidéo réaliste et tremblante d'une attaque soudaine de crocodile dans un parc animalier, avec des références spécifiques aux personnages et des comportements de caméra.
-
-#### 📝 Prompt
-
-```
-【Spécifications Vidéo & Style Général】
-
-Écran vertical 9:16, 15 secondes, plan-séquence continu. À l'intérieur d'un parc animalier chinois, scène palpitante capturée accidentellement par un touriste avec un téléphone ordinaire. Initialement calme, le photographe est surpris avec un demi-temps de retard après qu'un crocodile géant a attaqué ; la caméra tremble, se décale, puis retrouve hâtivement la personne. Conserver le réalisme des images amateurs prises au téléphone.
-
-【Verrouillage des Personnages & Références】
-
-La protagoniste utilise le personnage féminin adulte chinois prédéfini #1 @598c0e35-7c27-4b7c-8bac-19bb206ff1c3, portant la tenue prédéfinie #2 @d57ec59a-c0a5-4eae-84f4-4f02ef21a92d. Maintenir strictement le visage, les cheveux longs, le style vestimentaire, la couleur et le matériau de la référence. #1 est la personne, #2 est la tenue ; les numéros n'apparaissent pas à l'écran.
-
-L'administrateur est un homme chinois d'environ quarante ans, aux cheveux noirs courts, portant une uniforme de travail kaki à manches courtes et un pantalon foncé, avec un badge professionnel sur la poitrine, debout derrière et sur le côté de la protagoniste.
-
-Il y a quelques touristes adultes chinois en arrière-plan, vêtus de vêtements décontractés d'été, debout naturellement échelonnés sur la passerelle.
-
-【Scène & Position de Caméra】
-
-Zone d'observation des crocodiles tropicaux, une vieille passerelle en bois s'étendant le long d'un bassin vert profond, avec bambous, palmiers et arbustes sur la rive opposée. Des garde-corps en bois épais s'étendent en diagonale du coin inférieur droit de l'image vers l'arrière-plan.
-
-Le photographe externe se tient environ un mètre derrière et sur le côté de la protagoniste, légèrement plus haut que la position de son téléphone, filmant verticalement vers le bas. Le côté droit de l'image montre la protagoniste, l'administrateur et la passerelle ; le gauche et le bas montrent le bassin.
-
-Journée humide, lumière naturelle du soleil filtrant à travers la végétation, léger reflet vert sur la surface de l'eau. Caméra principale 1x d'un téléphone ordinaire, léger tremblement de main, inclinaison, artefacts de compression, bruit dans les ombres, flou bref lors des mouvements rapides. Pas d'étalonnage colorimétrique cinématographique, de plans drone ou de bokeh portrait.
-
-【Orientation du Téléphone de la Protagoniste — Doit Être Précise】
-
-La protagoniste utilise la caméra arrière de son téléphone pour filmer le crocodile dans l'eau, ne prend pas de selfie, ni ne montre le téléphone au photographe externe.
-
-Elle tient les deux extrémités du téléphone horizontalement avec les deux mains, ses doigts évitant la caméra arrière. Le téléphone est situé sous sa poitrine, près du bord extérieur du garde-corps, avec le corps clairement incliné vers le bas. La direction de l'objectif arrière tombe précisément sur l'énorme ombre sous-marine en bas à gauche.
-
-L'écran du téléphone est orienté vers le haut et légèrement vers son visage ; le dos du téléphone et l'objectif arrière sont orientés vers le bas, vers la surface de l'eau. Elle regarde vers le bas sur l'écran, observant la cible dans l'eau à travers celui-ci.
-
-Depuis l'angle latéral-arrière légèrement surélevé du photographe externe, on doit voir principalement l'écran du téléphone et le côté du corps, et non tout le dos du téléphone et le module caméra face au photographe externe.
-
-Le contenu cadré sur l'écran correspond à la vraie surface de l'eau : la même surface d'eau et la même ombre floue peuvent être vues, sans le visage selfie de la protagoniste, des paysages irrélevants ou une mauvaise direction.
-
-Lorsque la protagoniste ajuste légèrement son poignet, l'objectif arrière suit toujours l'ombre sous-marine. Jusqu'à ce que le crocodile géant attaque, elle retire le téléphone sous le choc, perturbant son orientation.
-
-【Crocodile Géant & État de la Première Image】
-
-Un seul crocodile anormalement grand gris-noir. Lors du saut, sa tête approche la taille du buste d'un adulte, et sa gueule ouverte occupe presque la moitié du côté gauche de l'image. La taille fait référence à la vidéo originale ; ne générez pas un petit crocodile ordinaire.
-
-Dans la première image, le crocodile géant est complètement immergé, présentant seulement une énorme ombre allongée et floue, comme du bois coulé. Les reflets de l'eau et la turbidité obscurcissent les détails ; la tête, les yeux, les narines, les écailles ou les dents ne peuvent pas être clairement identifiés, et aucune partie ne brise la surface.
-
-Le crocodile géant maintient le même volume tout au long, n'augmentant pas soudainement au moment du saut.
-
-【0–2 Secondes : Filmer l'Ombre Sous-Marine】
-
-La protagoniste se tient à l'intérieur du garde-corps, penchée légèrement en avant, tenant le téléphone horizontalement avec les deux mains, pointant l'objectif arrière vers le bas sur l'énorme ombre dans l'eau en bas à gauche.
-
-Elle regarde vers le bas sur l'écran qui lui fait face ; l'ombre sur l'écran correspond à l'ombre dans le bassin. Le photographe externe capture l'écran du téléphone, le profil de la protagoniste et la surface de l'eau en dessous depuis son côté-arrière.
-
-L'administrateur rappelle sérieusement :
-
-« Madame, reculez un peu, ne vous appuyez pas sur le garde-corps ! »
-
-Il n'y a que de légères ondulations à la surface de l'eau ; le crocodile n'a pas encore émergé.
-
-【2–4 Secondes : Cible Approchant, Téléphone Suivant】
-
-L'énorme silhouette sous-marine s'approche lentement de la position de la protagoniste. Elle tourne légèrement ses poignets, gardant l'objectif arrière dirigé vers l'ombre mobile, écran face à elle, ne tournant pas le dos du téléphone vers le photographe externe.
-
-L'administrateur s'approche, tendant la main pour la soutenir, ton devenant urgent :
-
-« Ce n'est pas du bois, c'est vivant ! Ne vous penchez pas ! »
-
-La protagoniste commence à retirer son corps, mais le téléphone filme toujours la surface de l'eau. À la fin de ce segment, le bout du nez et les yeux du crocodile viennent juste de briser l'eau.
-
-【4–6 Secondes : Attaque du Crocodile Géant】
-
-Le crocodile géant surgit soudainement à travers la surface de l'eau, sa énorme tête montant le long de l'extérieur du garde-corps, sa gueule ouverte occupant instantanément presque la moitié du côté gauche de l'image, soulevant de grandes éclaboussures.
-
-La protagoniste hurle, retirant hâtivement son téléphone et ses bras. L'orientation du téléphone perd sa stabilité due au choc ; il devait avoir été correctement dirigé vers le crocodile avant cela.
-
-Le crocodile géant mord brièvement son avant-bras étendu à l'extérieur du garde-corps et le tissu nearby. L'administrateur soutient immédiatement son haut du bras et son épaule/dos, stabilisant son centre de gravité à l'intérieur du garde-corps.
-
-Le photographe externe recule d'un demi-pas sous le choc, la caméra secoue brièvement vers le haut, pas de coupe ou de gros plan des blessures.
-
-【6–9 Secondes : Fuite & Chute dans l'Eau】
-
-Le crocodile géant libère brièvement sa morsure, la tête retombe, la protagoniste profite pour retirer son avant-bras blessé, l'administrateur la tire vers l'intérieur de la passerelle. L'action doit avoir une libération claire, ne laissez pas le bras passer à travers des dents fermées.
-
-Le téléphone glisse de la main de la protagoniste, pivote et tombe dans le bassin, tombant seulement une fois.
-
-Le crocodile géant se jette de nouveau dans l'eau, soulevant des éclaboussures blanches. La protagoniste couvre son avant-bras, une petite quantité de liquide rouge suinte de la blessure, formant des traînées courtes et fines, tachant le tissu au point de contact, avec une ou deux gouttes tombant sur la passerelle en bois.
-
-Ne pas afficher de blessures profondes, pas d'aspersion, pas de saignement abondant.
-
-L'administrateur crie :
-
-« Reculez ! Ne tendez pas la main ! Ne ramassez pas le téléphone ! »
-
-【9–11 Secondes : Touristes Paniqués】
-
-La protagoniste recule au milieu de la passerelle, protégeant son avant-bras blessé, épaules tendues, respiration rapide.
-
-Les touristes voisins contractent d'abord leurs épaules et reculent, tirant leurs compagnons ; les touristes à l'arrière se retournent seulement après avoir entendu le cri, certains rangent leurs téléphones, certains s'écartent, s'exclamant successivement :
-
-« Reculez vite ! »
-
-« Ne vous appuyez pas sur le garde-corps ! »
-
-Les réactions de la foule ont des délais, ne sont pas synchronisées, pas de clipping, pas de chute dans le bassin. Le crocodile géant reste sous l'eau, pas de seconde attaque.
-
-【11–13 Secondes : Évacuation par l'Administrateur】
-
-L'administrateur se tient entre la protagoniste et le garde-corps, la protégeant alors qu'elle continue de reculer, faisant signe aux touristes de laisser passer :
-
-« Reculez ! Tout le monde, ne vous bousculez pas ! »
-
-Un touriste voisin offre des mouchoirs, la protagoniste les accepte et les presse contre la même blessure, le mouchoir se tache progressivement d'une petite quantité de rouge.
-
-Le photographe recule légèrement et corrige la composition, capturant simultanément la protagoniste, l'administrateur et les touristes paniqués qui reculent.
-
-【13–15 Secondes : Conséquences de la Peur】
-
-La protagoniste couvre son avant-bras, haletant, voix tremblante disant :
-
-« Ça m'a fait peur... Il a vraiment mordu ! »
-
-L'administrateur la protège toujours, regardant méfiantment le bassin. Les touristes en arrière-plan murmurent des avertissements :
-
-« Restez loin, ne filmez pas ! »
-
-Se termine avec la protagoniste toujours choquée, la foule reculant, les conséquences à la surface de l'eau pas encore apaisées.
-
-【Audio Sur Place】
-
-Tout l'audio est enregistré en direct sur le téléphone, dialogue en chinois, pas de musique, narration ou sous-titres.
-
-Commencez par de faibles bavardages de touristes, friction des feuilles de bambou et légers sons d'eau. La voix de l'administrateur est proche et claire, changeant de rappel sérieux à arrêt urgent lorsque le danger survient.
-
-Son d'eau lourd lorsque le crocodile émerge, cri de la protagoniste, hoquets proches ; suivi du téléphone tombant dans l'eau, impact d'éclaboussure, respiration rapide et pas désordonnés. La plus grande éclaboussure et le cri causent un écrêtage micro brief, puis le gain automatique récupère.
-
-Les voix des touristes lointains sont plus dispersées et plus légères, pas de rugissements de monstre ajoutés.
-
-【Continuité & Contraintes Clés】
-
-Au début, le téléphone de la protagoniste doit correctement filmer la cible sous-marine : écran vers le haut et face à elle, objectif arrière vers le bas dirigé vers l'emplacement du crocodile ; le photographe externe voit principalement l'écran et les côtés. Interdire que l'objectif arrière fasse face au photographe externe tout en semblant filmer la cible sous-marine.
-
-La première image n'a que l'ombre sous-marine géante floue, pas de tête de crocodile claire, yeux, écailles ou dents. Le liquide rouge apparaît seulement après la morsure.
-
-Maintenir la continuité du personnage #1, tenue #2, administrateur, crocodile géant et passerelle. La blessure est toujours sur le même avant-bras, les traînées rouges, les dommages au tissu correspondent à l'emplacement de pression du mouchoir.
-
-Un seul téléphone, ne revient pas à la main après la chute. La protagoniste et l'administrateur sont toujours à l'intérieur du garde-corps, le crocodile @d57ec59a-c0a5-4eae-84f4-4f02ef21a92d est toujours dans le bassin. Maintenir les relations causales de contact, poids, morsure, libération et actions de retrait tout au long.
-
-Pas de gros plans de blessures, pas d'amputations, pas d'affichage de tissus profonds. L'ensemble est un plan-séquence continu, pas de ralenti, rejeux, révélations studio, superpositions UI ou filigranes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111969592058818560/img/-krKiLC99wPpxCu0.jpg" width="600" alt="Prompt Vidéo : Attaque de Crocodile au Parc Animalier">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12714)**
-
-**Auteur:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2111969616419303595) | **Publié:** Oct 18, 2026
-
----
-### Prompt Vidéo pour Diorama Papercraft Baleine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt pour la création d'une vidéo animée de diorama en papercraft de 15 secondes, mettant en scène une baleine origami colossale et un village en papier, avec des plans caméra spécifiques et un design sonore détaillé.
-
-#### 📝 Prompt
-
-```
-Diorama animé en papercraft à couches superposées, fibres et plis du papier visibles, bords déchiquetés, effet de parallaxe entre les couches de papier, ombres douces, rétroéclairage chaud traversant le papier fin, mouvement artisanal doux. Étalonnage couleur : crème, bleu poussiéreux, terracotta, vert sauge, rétroéclairage doré chaud.
-Une baleine colossale faite de papier origami plié avec des arêtes nettes. Un village découpé dans du papier avec des toits et des moulins à vent, et de minuscules villageois en papier qui font voler des cerfs-volants.
-PLAN 1 (0 à 3 s) : Plan large correspondant à l'image de référence, la baleine glisse vers l'avant et ses nageoires pliées se déploient puis se replient avec des mouvements de pliage nets, des nuages en papier défilent en couches parallaxes.
-PLAN 2 (3 à 6 s) : Plan moyen, objectif 50 mm, les villageois sur une colline tirent sur les ficelles de leurs cerfs-volants alors que l'ombre de la baleine passe au-dessus d'eux, les ailes des moulins tournent plus vite dans son sillage.
-PLAN 3 (6 à 9 s) : Gros plan, objectif 85 mm, l'œil de la baleine, un petit cercle découpé, cligne lorsque le rétroéclairage traverse le papier fin de sa tête, révélant de légers textes imprimés à l'intérieur des plis.
-PLAN 4 (9 à 12 s) : Contre-plongée en travelling, objectif 24 mm, la baleine plonge vers le village et sa queue balaye une vague de confettis en papier et d'oiseaux en papier à travers les toits.
-PLAN 5 (12 à 15 s) : Très grand plan, objectif 16 mm, la baleine s'élève dans le ciel et se déplie complètement en une feuille plate qui devient un soleil géant en papier, éclairant chaleureusement tout le village.
-Froissement du papier, plis doux qui craquent, grincements des moulins, un chant de baleine doux qui ressemble à une respiration à travers le papier, rires d'enfants, boîte à musique et piano doux.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111878182143995904/img/MxkM_Z1EzpswyEpr.jpg" width="600" alt="Prompt Vidéo pour Diorama Papercraft Baleine">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12711)**
-
-**Auteur:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2111938622903800285) | **Publié:** Oct 18, 2026
-
----
-### Action de transformation en supercar rose
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour une séquence d'action surréaliste où une mini-voiture de sport rose se transforme en vraie voiture, suivie d'un dérapage dans les rues de Tokyo.
-
-#### 📝 Prompt
-
-```
-Séquence d'action cinématographique ultra-réaliste mettant en scène une jeune femme aux longs cheveux noirs, vêtue d'un T-shirt oversize noir à motif graphique et de bottes noires, assise devant une maison de banlieue tenant une miniature de supercar rose. Soudain, la voiture jouet se transforme magiquement en une véritable supercar rose grandeur nature, ultra-réaliste, et s'envole dans les airs, traversant une rue résidentielle calme avant de déboucher sur un carrefour urbain spectaculaire à la tokyoïte. La femme apparaît alors au volant tandis que la supercar rose dérape agressivement à travers la ville, tournant sur le passage piéton avec une fumée de pneus réaliste, des roues qui patinent, un flou de mouvement cinématographique et des reflets sur l'asphalte. La voiture accélère à travers le carrefour, laissant derrière elle d'épais traînées de fumée blanche, puis glisse dramatiquement vers une supérette japonaise vivement éclairée. Plan large cinématographique montrant la voiture en dérapage devant le magasin, sous le regard surpris des passants. Scène finale : la femme sort avec assurance de l'entrée de la supérette, entourée de courses éparpillées et de reflets sur le verre, tandis que la supercar rose reste visible en arrière-plan.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111703894468460544/img/Bgm8jv1RtgL6qRWR.jpg" width="600" alt="Action de transformation en supercar rose">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12713)**
-
-**Auteur:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2111703937669894630) | **Publié:** Oct 18, 2026
-
----
-### Vidéo cinématique de l'attaque d'un lion au zoo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt pour générer une vidéo cinématique terrifiante d'une femme attaquée par un lion dans un zoo, avec une physique réaliste et des angles de caméra dramatiques.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo IA cinématique ultra-réaliste de 20 secondes mettant en scène une jeune femme coréenne aux longs cheveux foncés légèrement ondulés, portant un chemisier blanc et un pantalon sombre. Commencez par un gros plan sur elle assise près d'une fenêtre, regardant son smartphone avec réflexion sous une douce lumière naturelle du jour. Transitionnez vers un décor extérieur de zoo où elle se tient près d'une balustrade, utilisant son téléphone tout en observant les environs. Montrez-la s'approchant de l'enclos des lions et levant son smartphone pour photographier un lion majestueux en contrebas. Soudain, le lion charge vers elle, créant un moment tendu et inattendu. Elle laisse tomber son téléphone et lutte pour s'échapper alors que le lion fond sur elle à l'intérieur de l'enclos. Capturez ses expressions effrayées, ses mouvements corporels réalistes, la poussière soulevée et la puissance du mouvement du lion. Utilisez des angles de caméra dynamiques, des transitions cinématiques fluides, une lumière solaire naturelle, des ombres réalistes et des textures environnementales détaillées. Maintenez une cohérence des traits du visage, de la coiffure, des vêtements et des proportions corporelles tout au long de la vidéo, avec un rythme dramatique et une qualité photoréaliste.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111646630105710593/img/tb_UxKERUj2WSE5S.jpg" width="600" alt="Vidéo cinématique de l'attaque d'un lion au zoo">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12677)**
-
-**Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2111646777187450940) | **Publié:** Oct 18, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -6900,6 +6774,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-07T05:51:09.772Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-07T15:06:56.117Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6657** |
+| 📝 Total Prompts | **6662** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-11-07** |
 
@@ -365,11 +365,123 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Futuristic Sneaker Disassembly Video
+### Bun Fight FPV Kinetic Action
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a cinematic video showing the layered construction and assembly of a futuristic sneaker.
+> An intense first-person view video prompt depicting a fight between siblings over a bun in a market, requiring precise character references and continuous camera movement.
+
+#### 📝 Prompt
+
+```
+One CONTINUOUS FPV shot, no cuts, EXTREME kinetic speed through the fight. The footage NEVER reverses. NO slow motion except one half-second beat at the reveal, then an instant snap back to full speed. GHOST CAMERA: INVISIBLE, no drone or reflection in frame. The camera ORBITS the fighters at street level and DIVES in on every strike — always moving, never climbs. GEOMETRY LOCK: the two face each other along the street, resetting after every exchange; blows land OFF-axis past the lens.
+
+REFERENCES: @Image1 is the LOCATION — match it exactly. @Image2 is BIG BRO — 185 cm, massive round heavy build, topknot and braids, teal jacket, shoulder sensor; match him exactly. @Image3 is LITTLE SIS — 160 cm, slim and quick, bun and braids, crimson sash, teal trousers; match her exactly. Her head reaches his shoulder. Render everything in the references' painterly cinematic style, fully animated.
+
+The market is alive: steam, swaying lanterns, chickens pecking between stalls, laundry overhead. At a bun stall the vendor sets down the LAST fat steaming bun, and two hands slap onto it at the same instant — Big Bro's huge palm and Little Sis's gloved fingers. He snatches it first, stuffs it into his orange belt pouch and smirks; she narrows her eyes. A few stalls down, an old man on a stool slurps noodles, watching. Their fight drives them down the street toward him. She FIRES snapping kicks at his head; he swats them aside and palm-shoves her back, chickens SCATTERING squawking from her boots. She rolls under a fruit cart; the camera dives on her flurry grabbing at his pouch — he BOUNCES her off his belly with a laugh into a stall awning, tipping a startled cat off its edge, and she rebounds feet-first back at him. She steps off his shoulder, VAULTS his topknot and slaps the back of his head. A kid cheers; the old man keeps slurping as a stool cartwheels past. His backfist splinters a crate; she ducks and drives three palms into his chest. THE REVEAL: half-second slow motion — her flying knee slipping past his blocking palm toward his waist, dust hanging — then an INSTANT SNAP back to full speed as her knee SLAMS his belt pouch and the bun POPS out, tumbling through the air, bouncing off an awning, then a lantern. Both EXPLODE after it at once, the fight now a frantic scramble beneath it: she cartwheels over a cart, he barrels through baskets, stalls collapsing like dominoes, a water barrel bursting across the stones, ducks flapping out of a toppled crate, shoving and tripping each other, the camera tearing low between them. The bun drops toward the old man's stool; both launch a final full-length dive — and an inch from their fingers his chopsticks catch it in midair. They crash face-first into the wet dust at his feet. He takes a huge bite and chews, a chicken settling on his
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118875602505850880/img/FtD4X6F6MXbfljas.jpg" width="600" alt="Bun Fight FPV Kinetic Action">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13628)**
+
+**Author:** [Syed Abuthahir ∞](https://x.com/abulu8) | **Source:** [Link](https://x.com/abulu8/status/2118876172050415676) | **Published:** Nov 7, 2026
+
+---
+### Seedance 2.0 Ink Tiger Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating an East Asian ink wash painting style animation featuring a tiger and scholar, specifically created with Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Animated East Asian ink wash painting, expressive brushstroke motion, ink bleeding and spreading into paper, rice paper texture, misty negative space, powerful yet calm movement. Color grade: ink black, soft grays, warm paper, faint gold eyes, one vermilion seal stamp.
+A colossal tiger made of flowing ink and mist, its stripes formed by bold dry brush strokes. A scholar with an umbrella on a rope bridge among bamboo forests.
+SHOT 1 (0 to 3s): Wide shot, the tiger's paw lands on a peak and ink spreads outward like a shockwave through the mist.
+SHOT 2 (3 to 6s): Medium shot, 35mm lens, the scholar on the rope bridge grips the rails as the bridge sways, bamboo bending all around.
+SHOT 3 (6 to 9s): Close-up, 85mm lens, the tiger's face forms out of swirling ink, its gold eyes opening, whiskers painted in quick sharp strokes.
+SHOT 4 (9 to 12s): Low angle wide shot, 20mm lens, the tiger leaps over the valley, its body stretching into long brushstrokes, ink droplets falling like rain.
+SHOT 5 (12 to 15s): Extreme wide shot, 16mm lens, the tiger lands on a distant mountain and dissolves into mist, leaving only its ink pawprints, as a vermilion seal stamps the corner of the frame.
+Mountain wind, creaking rope bridge, rustling bamboo, a brush sweeping across paper, a deep resonant roar that echoes through the valley, erhu and guqin, a final soft stamp sound.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118869327478669312/img/G4xAsAw6nC7Jy6rB.jpg" width="600" alt="Seedance 2.0 Ink Tiger Animation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13629)**
+
+**Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2118872216741749097) | **Published:** Nov 7, 2026
+
+---
+### Floor Renovation Timelapse to Bedroom
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A hyperrealistic timelapse video prompt showing a concrete floor being tiled and polished into a terrazzo finish, then transformed into a cozy bedroom with furniture assembly.
+
+#### 📝 Prompt
+
+```
+Vertical hyperrealistic timelapse video of a floor renovation in a bright empty room with white walls, white ceiling and a large black-framed window. It opens on a bare concrete floor with a tall pile of terracotta hexagonal tiles in the center. A man in denim overalls and gloves spreads the pile with a long rake, scattering the hexagon tiles evenly across the room. More workers in overalls join, kneeling to align the terracotta hex tiles into a neat honeycomb pattern, then pouring thick white self-leveling compound from buckets over the tiles and spreading it with trowels and squeegees until the floor is smooth white with hexagons peeking through. The crew grinds and polishes the surface with rotary floor sanders, angle grinders and industrial vacuums, gradually revealing a glossy terrazzo-like floor with terracotta hexagons embedded in white. Workers and machines exit, leaving the gleaming empty room. Fast-motion movers then assemble a light wooden bed frame, dress it with white and rust-orange bedding, add nightstands, a lamp, a vase with branches and framed art. Final wide shot of a cozy minimalist bedroom in warm natural daylight, the polished terracotta hexagon tile floor shining softly. Smooth continuous transitions, consistent soft daylight, photorealistic textures, 4K quality.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118804429054820352/img/LnGY1SsnsI11VNVb.jpg" width="600" alt="Floor Renovation Timelapse to Bedroom">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13626)**
+
+**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2118804474567205302) | **Published:** Nov 6, 2026
+
+---
+### Gray Concrete to Gold-Marbled Plaster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A close-up ASMR-style video prompt showing a hand applying navy blue paint marbled with metallic gold veins onto a gray concrete wall using a trowel.
+
+#### 📝 Prompt
+
+```
+Vertical smartphone-style video, close-up shot: a hand grips a wide stainless steel plastering trowel with a black handle and scoops thick glossy navy blue paint marbled with shimmering metallic gold veins from a white plastic bucket standing against a raw gray concrete wall. The trowel rises slowly, lifting a heavy dollop of the swirling blue and gold mixture that oozes and drips off the blade edge. The hand then presses the loaded blade flat against the rough concrete surface and pulls it downward in one smooth confident stroke, spreading a tall vertical band of deep blue decorative plaster streaked with elegant golden marbling across the wall, revealing rich creamy texture where the paint meets the gritty cement. Soft natural daylight, satisfying ASMR mood, slow deliberate movements, extreme detail on the glossy paint surface and gold flecks, shallow depth of field, realistic industrial studio atmosphere, photorealistic, high resolution.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118803332890255360/img/kAIXW5_QioErVm2F.jpg" width="600" alt="Gray Concrete to Gold-Marbled Plaster">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13627)**
+
+**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2118803488159518901) | **Published:** Nov 6, 2026
+
+---
+### Seedance 2.5 vs Omni 1.2 Flash: Hangzhou West Lake Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Compares Seedance 2.5 and Gemini Omni 1.2 Flash using a detailed prompt about a girl walking in Hangzhou West Lake.
+
+#### 📝 Prompt
+
+```
+10 seconds, landscape 16:9. Early summer of the year 2000, handheld home video shot on a Mini DV camcorder, as if filmed casually by a friend accompanying her during a walk at West Lake in Hangzhou. Late morning, location consistently on the side of Bai Causeway near Gushan Island. Weeping willows brush against light gray stone banks; across Beili Lake, Baoshi Mountain is visible, with the slender Baochu Pagoda peeking from its ridge, and a wooden paddle boat passing in the distance.
+The entire clip features the same woman in her twenties from Hangzhou, a fictional adult character. She wears an indigo dress with small beige floral patterns, short sleeves, shallow round neck, two darts naturally cinching the waist, hem below the knee, fabric swaying gently when she walks. Brown single-band open-toe flat sandals with thin ankle straps. Shoulder-length straight black hair styled in half-updo. The upper half combed back from both temples, gathered into a small bundle at the center back of the head, held by a tea-colored horizontal barrette. The lower half hangs naturally from under the barrette to shoulders, clearly separated layers. No hair clips on sides. Natural skin tone and texture, maintaining the same face, clothing, shoes, and hairstyle throughout four segments.
+0–2s. Under willow shade, she sits on low stone steps by the lake. Friend films from diagonal rear angle, capturing her half-up shoulder-length hair and tea-colored horizontal barrette at center back of head. As focus shifts from willow branches to barrette, she raises hand to press barrette at back of head, lowers hand, tilts face slightly down with suppressed smile. Lake water visible in frame.
+2–5s. Friend follows on foot behind, she walks a few steps along lakeside stone path, spots a tabby cat lying on low stone platform inside path, crouches to gently stroke its back. Light filtering through willow leaves sweeps over sleeve, camera slows half a step, movement captures her shoes and lower outfit.
+5–8s. By lake under trees, she sits on low wooden stool looking at lake surface, clear cup of West Lake Longjing tea beside her hand, glass cup bottom showing unfurled tea leaves. She tucks loose hair blown by lake breeze behind ear, side handheld composition drifts slightly, distant wooden paddle boat slowly passes before mountain shadow.
+8–10s. She picks up tea cup, turns back to look at filming friend, smiles briefly, nods lightly, turns and walks forward along Bai Causeway willow shade. Hard cut to black while still stepping, as if friend pressed stop recording button.
+Visible hand shake, occasional out-of-focus moments, slight exposure jumps between tree shade and water surface, low contrast warm tones, fine grain and minimal early digital compression artifacts. Sound only includes lake water lapping stone banks, willow leaf wind sounds, footsteps, cat purring, and glass cup lightly touching wooden stool. No dialogue, narration, background music, subtitles, watermarks, aerial shots, or slow motion. No smartphones, wireless earbuds, or QR codes in frame.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118686547251986432/img/-WvUb9ALVtoKKO9F.jpg" width="600" alt="Seedance 2.5 vs Omni 1.2 Flash: Hangzhou West Lake Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13631)**
+
+**Author:** [风雪漫千山](https://x.com/fxmqs) | **Source:** [Link](https://x.com/fxmqs/status/2118686591594180730) | **Published:** Nov 6, 2026
+
+---
+### Futuristic Sneaker Layer Separation Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a cinematic video of a futuristic sneaker separating into layers to reveal internal construction in a dark studio setting.
 
 #### 📝 Prompt
 
@@ -380,7 +492,7 @@ Cut to extreme macro close-ups of the orange sole's unique hollow cushioning str
 Next, show hands assembling the sneaker layer by layer with precise mechanical movements. Finish with the fully assembled sneaker floating elegantly in the center of the dark studio, rotating slowly under dramatic cinematic lighting.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2118559782529593345/img/xsAOLwOXlU3OXxIl.jpg" width="600" alt="Futuristic Sneaker Disassembly Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118559782529593345/img/xsAOLwOXlU3OXxIl.jpg" width="600" alt="Futuristic Sneaker Layer Separation Video">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13567)**
 
@@ -6710,250 +6822,6 @@ Characters: Protagonist, Crew A, Crew B, Crew C (4 total). A medium-sized civili
 **Author:** [M7［mi7］AI](https://x.com/mi7_crypto) | **Source:** [Link](https://x.com/mi7_crypto/status/2112029684594872632) | **Published:** Oct 19, 2026
 
 ---
-### Korean Drama Silent Encounter Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a 28-second cinematic Korean drama scene featuring two women in a dimly lit apartment hallway, emphasizing tension and subtle storytelling, created with Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Create a 28-second ultra-realistic cinematic Korean drama featuring two beautiful young Korean women in a quiet, dimly lit apartment hallway. One woman has long, straight black hair and wears an elegant black outfit, while the other wears a sophisticated white pantsuit with a simple handbag. Begin with a mysterious rear shot of the woman in black walking slowly through a dark corridor illuminated by soft blue light. Transition into a beautifully detailed apartment hallway where both women walk past each other, creating a subtle atmosphere of tension and curiosity. Use cinematic close-ups, natural walking movements, realistic facial expressions, and smooth camera tracking to build suspense. Show a close-up of a wooden doorway and a subtle movement near the floor, followed by an empty hallway and a metallic elevator interior. Capture the woman in black standing quietly inside the elevator with a serious expression. End with the woman in white walking alone through the hallway, followed by a breathtaking close-up of her face outdoors, with her black hair moving gently in the breeze. Use soft natural lighting, muted colors, shallow depth of field, realistic skin texture, cinematic composition, smooth transitions, and professional Korean drama cinematography. Maintain consistent facial identities, hairstyles, outfits, and body proportions throughout the video.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112012335745568768/img/7htU0qp0NJG1AW7B.jpg" width="600" alt="Korean Drama Silent Encounter Scene">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12710)**
-
-**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2112012480860000276) | **Published:** Oct 19, 2026
-
----
-### Seedance 2.0 Viral Crocodile Attack Video Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed prompt for generating a realistic, handheld-camera style video of a crocodile attack at a zoo using Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-[Video Specifications and Overall Style]
-
-9:16 vertical screen, 15 seconds, single continuous shot. A thrilling scene accidentally captured by a tourist with an ordinary phone inside a Chinese wildlife park. Initially calm, the photographer reacts half a beat late to a giant crocodile's ambush, causing camera shake, misalignment, and hurried re-framing of the subject. Retain the authenticity of amateur mobile footage.
-
-[Character and Reference Locking]
-
-The female protagonist uses preset adult Chinese female character #1 @598c0e35-7c27-4b7c-8bac-19bb206ff1c3, wearing preset outfit #2 @d57ec59a-c0a5-4eae-84f4-4f02ef21a92d, strictly maintaining the facial features, long hair, clothing style, color, and material from the references. #1 is the person, #2 is the outfit; numbers do not appear in the frame.
-
-The administrator is a Chinese male around forty years old, short black hair, wearing khaki short-sleeved work clothes, dark trousers, with a work badge on his chest, standing behind and to the side of the female protagonist.
-
-There are a few adult Chinese tourists in the background, wearing summer casual wear, naturally scattered along the boardwalk.
-
-[Scene and Camera Position]
-
-Tropical crocodile viewing area, old wooden boardwalk extending along a deep green pool, opposite bank lined with bamboo, palms, and shrubs. Thick wooden railing extends diagonally from bottom right to background.
-
-External photographer stands about one meter behind and to the side of the female protagonist, slightly higher than her hand-held phone position, shooting vertically downwards. The right side of the frame shows the female protagonist, administrator, and boardwalk; left and bottom show the pool.
-
-Humid daytime, natural sunlight filtering through vegetation, slight green reflection on water surface. Ordinary phone 1x main camera, slight hand shake, tilt, compression artifacts, noise in shadows, brief blur during rapid movement. No cinematic grading, drone shots, or portrait bokeh.
-
-[Female Protagonist's Phone Orientation - Must Be Accurate]
-
-The female protagonist is using the rear camera to film the crocodile in the water, not taking a selfie, nor showing the phone to the external photographer.
-
-She holds the phone horizontally with both hands at the ends, fingers avoiding the rear camera. The phone is below her chest, near the outer edge of the railing, clearly tilted downwards, with the rear lens direction accurately aimed at the huge shadow underwater in the lower left.
-
-Phone screen faces up, slightly towards her face; back and rear lens face down towards water. She looks down at the screen, observing the target in water through it.
-
-From the external photographer's slightly higher side-rear angle, mainly see the phone screen and side edges, should not clearly see the entire phone back and camera module facing the external photographer.
-
-Screen content matches real water surface: same water patch and blurry shadow visible, no selfie face, irrelevant scenery, or wrong direction.
-
-When adjusting wrists slightly, rear lens always follows underwater shadow. Only when crocodile attacks does she pull back phone in fear, disrupting orientation.
-
-[Crocodile and First Frame State]
-
-Only one abnormally large dark gray-black crocodile. When leaping, head size approaches upper body of an adult, open mouth occupies nearly half left frame, size reference original video, no small crocodile generated.
-
-First frame: crocodile fully submerged, only huge blurry long shadow like sunken wood. Water reflections and turbidity hide details, cannot clearly identify head, eyes, nostrils, scales, teeth, nothing exposed above water.
-
-Crocodile maintains same volume throughout, no sudden expansion during leap.
-
-[0-2s: Filming Underwater Shadow]
-
-Female protagonist stands inside railing, leaning forward slightly, holding phone horizontally, aiming rear lens down at huge shadow in lower left water.
-
-She looks down at screen facing her, shadow in screen corresponds to shadow in pool. External photographer captures phone screen, her profile, and water below from side-rear.
-
-Administrator seriously warns:
-
-"Ma'am, step back, don't lean on the railing!"
-
-Water has only slight ripples, crocodile still hidden.
-
-[2-4s: Target Approaches, Phone Follows]
-
-Huge underwater outline slowly approaches female protagonist's position. She adjusts wrist slightly, keeping rear lens aimed at moving shadow, screen facing her, not turning phone back to photographer.
-
-Administrator steps closer, reaching out to support her, tone urgent:
-
-"That's not wood, it's alive! Don't lean in!"
-
-She starts pulling body back but phone still filming water. End of segment: crocodile snout and eyes just breaking water surface.
-
-[4-6s: Giant Crocodile Ambush]
-
-Crocodile violently bursts water surface, huge head rises along outside of railing, open mouth instantly occupies nearly half left frame, splashing large amount of water.
-
-Female protagonist screams, hurriedly pulls back phone and arm. Phone orientation loses stability due to shock, must have been correctly aimed before.
-
-Crocodile briefly bites into her forearm extended outside railing and nearby fabric. Administrator immediately supports her upper arm and shoulder/back, stabilizing her center of gravity inside railing.
-
-External photographer retreats half step in shock, camera briefly shakes upward, no cuts or wound close-ups.
-
-[6-9s: Escape and Fall]
-
-Crocodile briefly releases grip, head drops back, female protagonist seizes chance to retract injured forearm, administrator pulls her to inner boardwalk. Action must have clear release, arm cannot pass through closed teeth.
-
-Phone slips from hand, flips once, falls into pool.
-
-Crocodile slams back into water, white splash. Female protagonist covers forearm, small amount of red liquid seeps from injury, forming short thin streaks, staining fabric at contact point, one or two drops falling onto wooden boardwalk.
-
-No deep wounds shown, no spraying, no heavy bleeding.
-
-Administrator shouts:
-
-"Step back! Don't reach out! Don't pick up phone!"
-
-[9-11s: Tourist Panic]
-
-Female protagonist retreats to middle of boardwalk, protecting injured forearm, shoulders tense, breathing rapid.
-
-Nearby tourists first shrink back, grab companions; those further away turn upon hearing scream, some put away phones, others make way, exclaiming sequentially:
-
-"Step back quickly!"
-
-"Don't lean on railing!"
-
-Crowd reaction has time lag, not synchronized, no clipping, no falling into pool. Crocodile remains underwater, no second attack.
-
-[11-13s: Administrator Evacuation]
-
-Administrator stands between female protagonist and railing, continuing to protect her retreat, gesturing for tourists to make way:
-
-"Back up! Everyone don't crowd!"
-
-A nearby tourist offers tissue, female protagonist accepts and presses same injury spot, tissue gradually stains red.
-
-Photographer retreats slightly and corrects composition, capturing female protagonist, administrator, and panicking retreating tourists.
-
-[13-15s: Aftermath]
-
-Female protagonist covers forearm, gasping, trembling voice says:
-
-"I'm scared... it really bit me!"
-
-Administrator still protects her, warily watching pool. Background tourists whisper warnings:
-
-"Stay away, stop filming!"
-
-Ends with female protagonist shaken, crowd retreating, water ripples subsiding.
-
-[Live Audio]
-
-All live audio from phone, Chinese dialogue, no music, narration, subtitles.
-
-Start includes low tourist chatter, bamboo leaf rustling, slight water sounds. Administrator voice near and clear, shifting from serious warning to urgent restraint as danger occurs.
-
-During crocodile emergence: heavy water sound, female scream, nearby gasps; followed by phone splashdown, water crash, rapid panting, chaotic footsteps. Max splash and scream cause mic clipping briefly, then auto-gain recovery.
-
-Distant tourist voices more scattered, lighter, no monster roars added.
-
-[Continuity and Key Constraints]
-
-Opening phone must correctly film underwater target: screen up facing protagonist, rear lens down aimed at crocodile; external photographer sees mainly screen/sides. Prohibit rear lens facing photographer while depicting filming underwater target.
-
-First frame only blurry huge underwater shadow, no clear crocodile head/eyes/scales/teeth. Red liquid only after bite.
-
-Maintain continuity of Character #1, Outfit #2, Administrator, Crocodile, Boardwalk. Injury always same forearm, red streaks/fabric damage/tissue press location correspond.
-
-Only one phone, does not return to hand after fall. Protagonist/Administrator always inside railing, Crocodile @d57ec59a-c0a5-4eae-84f4-4f02ef21a92d always in pool. Maintain causal relationships of contact, weight, bite, release, retreat actions throughout.
-
-No wound close-ups, dismemberment, deep tissue display. Single continuous shot, no slow motion, replays, studio reveals, UI overlays, watermarks.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111969592058818560/img/-krKiLC99wPpxCu0.jpg" width="600" alt="Seedance 2.0 Viral Crocodile Attack Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12714)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2111969616419303595) | **Published:** Oct 18, 2026
-
----
-### Origami Whale Papercraft Diorama
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Animated layered papercraft diorama featuring an origami whale, generated with Seedance 2.0 Mini.
-
-#### 📝 Prompt
-
-```
-Animated layered papercraft diorama, visible paper fibers and folds, deckled edges, parallax between paper layers, soft shadows, warm backlight glowing through thin paper, gentle handmade motion. Color grade: cream, dusty blue, terracotta, sage green, warm golden backlight.
-A colossal whale made of folded origami paper with crisp creases. A paper cut village of rooftops and windmills with tiny paper villagers flying kites.
-SHOT 1 (0 to 3s): Wide shot matching the reference image, the whale glides forward and its folded fins unfold and refold with crisp creasing motions, paper clouds sliding past in parallax layers.
-SHOT 2 (3 to 6s): Medium shot, 50mm lens, villagers on a hill tug their kite strings as the whale's shadow passes over them, windmill blades spinning faster in its wake.
-SHOT 3 (6 to 9s): Close-up, 85mm lens, the whale's eye, a small cut circle, blinks as backlight glows through the thin paper of its head, revealing faint printed text inside the folds.
-SHOT 4 (9 to 12s): Low angle tracking shot, 24mm lens, the whale dives toward the village and its tail sweeps a wave of paper confetti and paper birds out across the rooftops.
-SHOT 5 (12 to 15s): Extreme wide shot, 16mm lens, the whale rises into the sky and unfolds completely into a flat sheet that becomes a giant paper sun, lighting the whole village warmly.
-Rustling paper, soft crinkling folds, windmill creaks, a gentle whale call that sounds like a breath through paper, children laughing, music box and soft piano.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111878182143995904/img/MxkM_Z1EzpswyEpr.jpg" width="600" alt="Origami Whale Papercraft Diorama">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12711)**
-
-**Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2111938622903800285) | **Published:** Oct 18, 2026
-
----
-### Pink Supercar Transformation Action
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a surreal action sequence where a toy pink supercar transforms into a real one, leading to a drift through Tokyo streets.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic action sequence featuring a young woman with long black hair wearing a black oversized graphic T-shirt and black boots, sitting outside a suburban house holding a miniature pink supercar. Suddenly, the toy car magically transforms into a full-size, ultra-realistic pink supercar and launches into the air, flying through a quiet residential street before transitioning into a dramatic Tokyo-style urban intersection. The woman appears inside the driver's seat as the pink supercar drifts aggressively through the city, spinning across the crosswalk with realistic tire smoke, spinning wheels, cinematic motion blur, and reflections on the asphalt. The car accelerates through the intersection, leaving thick white smoke trails, then slides dramatically toward a brightly illuminated Japanese convenience store. Cut to a wide cinematic shot of the car drifting outside the store as pedestrians react in surprise. Final scene: the woman walks confidently out of the convenience store entrance, surrounded by scattered groceries and glass reflections, while the pink supercar remains visible in the background.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111703894468460544/img/Bgm8jv1RtgL6qRWR.jpg" width="600" alt="Pink Supercar Transformation Action">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12713)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2111703937669894630) | **Published:** Oct 18, 2026
-
----
-### Zoo Lion Attack Cinematic Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a tense, realistic video of a woman visiting a zoo who suddenly encounters a charging lion.
-
-#### 📝 Prompt
-
-```
-Create a 20-second cinematic, ultra-realistic AI video featuring a young Korean woman with long, dark, slightly wavy hair, wearing a white blouse and dark pants. Begin with a close-up of her sitting beside a window, looking thoughtfully at her smartphone in soft natural daylight. Transition to an outdoor zoo setting where she stands near a railing, casually using her phone while observing the surroundings. Show her approaching the lion enclosure and raising her smartphone to capture a photo of a majestic lion below. Suddenly, the lion charges toward her, creating a tense and unexpected moment. She drops her phone and struggles to escape as the lion lunges at her inside the enclosure. Capture her frightened expressions, realistic body movements, flying dust, and the lion's powerful motion. Use dynamic camera angles, smooth cinematic transitions, natural sunlight, realistic shadows, and detailed environmental textures. Maintain consistent facial features, hairstyle, clothing, and body proportions throughout the video, with dramatic pacing and photorealistic quality.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111646630105710593/img/tb_UxKERUj2WSE5S.jpg" width="600" alt="Zoo Lion Attack Cinematic Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12677)**
-
-**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2111646777187450940) | **Published:** Oct 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -7015,6 +6883,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T05:50:59.696Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-07T15:06:45.806Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6657** |
+| 📝 Toplam İstem | **6662** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-11-07** |
 
@@ -361,6 +361,124 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Bun Fight FPV Kinetik Aksiyon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir pazarda kardeşler arasında bir simit için yaşanan kavgayı tasvir eden, yoğun birinci şahıs bakış açılı (FPV) video istemi; hassas karakter referansları ve sürekli kamera hareketi gerektirir.
+
+#### 📝 İstem
+
+```
+TEK KESİNTİSİZ FPV çekim, kesme yok, dövüş boyunca AŞIRI kinetik hız. Görüntü ASLA geriye sarmaz. Sadece ortaya çıkış anında yarım saniyelik bir vuruşta ağır çekim var, ardından anında tam hıza dönüş. HELEKET KAMERA: GÖRÜNMEZ, karede ne drone ne de yansıma var. Kamera sokak seviyesinde dövüşçülerin ETRAFINDA DÖNÜYOR ve her vuruşa DOĞRU DALIŞ YAPIYOR — sürekli hareket halinde, asla yükselmiyor. GEOMETRİ KİLİDİ: ikisi sokak boyunca birbirine bakıyor, her hamleden sonra pozisyonlarını sıfırlıyor; darbeler lensin yanından, EKSEN DIŞINA isabet ediyor.
+
+REFERANSLAR: @Image1 MEKAN — birebir eşleştirin. @Image2 BÜYÜK ABİ — 185 cm, devasa, yuvarlak ve ağır yapılı, tepede topuz ve örgüler, turkuaz ceket, omuz sensörü; onu birebir eşleştirin. @Image3 KÜÇÜK KIZ KARDEŞ — 160 cm, ince ve çevik, topuz ve örgüler, kızıl kuşak, turkuaz pantolon; onu birebir eşleştirin. Başı onun omzuna kadar geliyor. Her şeyi referanslardaki resimsel sinematik tarzda, tamamen animasyonlu olarak işleyin.
+
+Pazar yerinde hayat kaynıyor: buhar, sallanan fenerler, tezgâhlar arasında yiyecek arayan tavuklar, yukarıda asılı çamaşırlar. Bir poğaça tezgâhında satıcı SON iri, dumanı tüten poğaçayı bırakır ve aynı anda iki el üzerine kapanır — Büyük Abi'nin kocaman avucu ve Küçük Kız Kardeş'in eldivenli parmakları. Önce o kapar, turuncu bel kesesine tıkar ve sırıtır; kız gözlerini kısar. Birkaç tezgâh ötede, taburede oturan yaşlı bir adam noodle'ını höpürdeterek onları izlemektedir. Dövüşleri onları sokak boyunca ona doğru sürükler. Kız kafasına ŞAKLAYAN tekmeler SAVURUR; adam bunları savuşturur ve avucuyla onu geri iter, tavuklar gıdaklayarak botlarının altından SAÇILIR. Kız bir meyve arabasının altından yuvarlanır; kamera, kızın adamın kesesini yakalamaya çalıştığı seri hamlelerine dalış yapar — adam kahkahayla onu göbeğiyle SEKTİRİR, kız bir tezgâh tentesine çarpar, kenarındaki ürkek bir kediyi düşürür ve ayakları önde adama doğru seker. Kız onun omzundan destek alarak ZIPLAR, topuzunun üzerinden ATLAR ve ensesine bir şaplak indirir. Bir çocuk tezahürat eder; yanlarından bir tabure taklalar atarak geçerken yaşlı adam höpürdetmeye devam eder. Adamın ters yumruğu bir kasayı paramparça eder; kız eğilir ve üç avuç darbesini göğsüne saplar. ORTAYA ÇIKIŞ ANI: yarım saniyelik ağır çekim — kızın uçan diz darbesi, adamın bloke eden avucunu geçip beline doğru ilerlerken havada asılı kalan toz — ardından dizinin BEL KESESİNE VURMASI ve poğaçanın FIRLAMASIYLA ANINDA tam hıza dönüş; poğaça havada yuvarlanır, önce bir tenteye, sonra bir fenere çarpar. İkisi birden peşinden PATLARCA atılır, dövüş artık poğaçanın altında çılgın bir boğuşmaya dönüşmüştür: kız bir arabanın üzerinden takla atar, adam sepetlerin arasından geçer, tezgâhlar domino taşları gibi devrilir, bir su fıçısı taşların üzerinde patlar, devrilen bir kasadan ördekler kanat çırparak çıkar, birbirlerini itip kakar ve tökezletirler, kamera aralarında alçaktan yırtarcasına ilerler. Poğaça yaşlı adamın taburesine doğru düşer; ikisi de son bir tam boy dalışa geçer — ve parmaklarına bir santim kala adamın yemek çubukları onu havada yakalar. İkisi de adamın ayaklarının dibindeki ıslak toza yüzüstü çakılır. Adam kocaman bir ısırık alır ve çiğnerken, bir tavuk onun
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118875602505850880/img/FtD4X6F6MXbfljas.jpg" width="600" alt="Bun Fight FPV Kinetik Aksiyon">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13628)**
+
+**Yazar:** [Syed Abuthahir ∞](https://x.com/abulu8) | **Kaynak:** [Link](https://x.com/abulu8/status/2118876172050415676) | **Yayınlandı:** Nov 7, 2026
+
+---
+### Seedance 2.0 Mürekkep Kaplanı Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kaplan ve bilginin yer aldığı, Seedance 2.0 ile özel olarak oluşturulmuş Doğu Asya mürekkep yıkama resim tarzında animasyon üretmek için detaylı bir istem.
+
+#### 📝 İstem
+
+```
+Animasyonlu Doğu Asya mürekkep yıkama tablosu, etkileyici fırça darbesi hareketi, kağıda yayılan ve dağılan mürekkep, pirinç kağıdı dokusu, sisli negatif alan, güçlü ama sakin bir akış. Renk paleti: mürekkep siyahı, yumuşak griler, sıcak kağıt tonu, soluk altın rengi gözler, tek bir sürmeli mühür damgası.
+Akan mürekkep ve siste şekillenen devasa bir kaplan; çizgileri cesur kuru fırça darbeleriyle oluşturulmuş. Bambu ormanları arasındaki halat köprüde, şemsiyeli bir bilge.
+ÇEKİM 1 (0-3 sn): Geniş açı, kaplanın pençesi bir zirveye basar ve mürekkep sistin içinde bir şok dalgası gibi dışa doğru yayılır.
+ÇEKİM 2 (3-6 sn): Orta çekim, 35mm lens, köprü sallanırken halat köprüdeki bilge korkuluklara tutunur, etraftaki bambular eğilir.
+ÇEKİM 3 (6-9 sn): Yakın çekim, 85mm lens, kaplanın yüzü girdap gibi dönen mürekkepten belirir, altın rengi gözleri açılır, bıyıkları hızlı ve keskin fırça darbeleriyle çizilir.
+ÇEKİM 4 (9-12 sn): Alçak açılı geniş çekim, 20mm lens, kaplan vadinin üzerinden atlar, gövdesi uzun fırça darbelerine dönüşerek uzar, mürekkep damlaları yağmur gibi düşer.
+ÇEKİM 5 (12-15 sn): Aşırı geniş çekim, 16mm lens, kaplan uzaktaki bir dağa konar ve siste kaybolur, geride yalnızca mürekkep pati izlerini bırakır; kadrajın köşesine sürmeli bir mühür damgalanır.
+Dağ rüzgarı, gıcırtılı halat köprü, hışırtılı bambular, kağıt üzerinde süzülen bir fırça, vadide yankılanan derin ve tok bir kükreme, erhu ve guqin sesleri, son olarak yumuşak bir damga sesi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118869327478669312/img/G4xAsAw6nC7Jy6rB.jpg" width="600" alt="Seedance 2.0 Mürekkep Kaplanı Animasyonu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13629)**
+
+**Yazar:** [Alexandra Aisling](https://x.com/AllaAisling) | **Kaynak:** [Link](https://x.com/AllaAisling/status/2118872216741749097) | **Yayınlandı:** Nov 7, 2026
+
+---
+### Zemin Yenileme Zaman Atlaması: Yatak Odasına Dönüşüm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Beton bir zeminin döşenip terrazzo cilasına dönüştürülmesini ve ardından mobilya montajıyla sıcak bir yatak odasına dönüşümünü gösteren hipergerçekçi bir zaman atlamalı video istemi.
+
+#### 📝 İstem
+
+```
+Beyaz duvarları, beyaz tavanı ve siyah çerçeveli büyük bir penceresi olan aydınlık, boş bir odada zemin yenileme sürecini gösteren dikey, hiper gerçekçi hızlandırılmış (timelapse) video. Görüntü, ortasında yüksek bir yığın hâlinde duran terrakota altıgen karoların bulunduğu çıplak beton zeminle açılıyor. Kot tulumlu ve eldivenli bir adam, uzun bir tırmıkla bu yığını dağıtarak altıgen karoları odaya eşit şekilde yayıyor. Tulumlu diğer işçiler de ekibe katılarak diz çöküyor ve terrakota altıgen karoları düzgün bir petek deseni oluşturacak şekilde hizalıyor; ardından kovalardan karoların üzerine yoğun kıvamlı beyaz kendiliğinden yayılan şap dökerek bunu mala ve çekçeklerle yayıyorlar. Ta ki zemin, arasından altıgenlerin göründüğü pürüzsüz beyaz bir yüzeye dönüşene kadar. Ekip, döner zemin zımpara makineleri, avuç taşlama makineleri ve endüstriyel süpürgelerle yüzeyi taşlayıp parlatıyor; böylece beyaz zemin içine gömülü terrakota altıgenleriyle terazzo benzeri parlak bir zemin yavaş yavaş ortaya çıkıyor. İşçiler ve makineler sahneden ayrılıp geride ışıl ışıl, boş bir oda bırakıyor. Ardından hızlı çekimde çalışan nakliyeciler açık renkli ahşap bir karyola iskeleti kuruyor; onu beyaz ve pas turuncusu nevresim takımıyla donatıyor, komodinler, bir lamba, dalları olan bir vazo ve çerçeveli tablolar ekliyor. Sıcak doğal gün ışığı altında, cilalı terrakota altıgen karolu zeminin usulca parladığı samimi, minimalist bir yatak odasının son geniş açı çekimiyle kapanış. Akıcı ve kesintisiz geçişler, tutarlı yumuşak gün ışığı, fotogerçekçi dokular, 4K kalite.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118804429054820352/img/LnGY1SsnsI11VNVb.jpg" width="600" alt="Zemin Yenileme Zaman Atlaması: Yatak Odasına Dönüşüm">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13626)**
+
+**Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2118804474567205302) | **Yayınlandı:** Nov 6, 2026
+
+---
+### Gri Beton Altın Damalı Sıvaya Dönüşüyor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir elin, metalik altın damarlı lacivert boyayı bir mala kullanarak gri beton duvara uyguladığı yakın çekim ASMR tarzı video istemi.
+
+#### 📝 İstem
+
+```
+Dikey, akıllı telefon formatında video, yakın çekim: Bir el, siyah saplı geniş bir paslanmaz çelik sıva malasını sıkıca kavrar ve ham gri beton duvara yaslanmış beyaz plastik kovadan, parıldayan metalik altın damarlarla mermer deseni oluşturan yoğun, parlak lacivert boyayı alır. Mala yavaşça yükselir; kenarından süzülen ve damlayan, mavi ile altının birbirine karıştığı bu ağır kıvamlı karışımı havaya kaldırır. Ardından el, boya yüklü malayı pürüzlü beton yüzeye düz bir şekilde bastırır ve tek bir akıcı, kendinden emin hareketle aşağı doğru çekerek duvar boyunca zarif altın mermer desenleriyle süslenmiş, koyu mavi dekoratif sıvadan oluşan uzun dikey bir şerit oluşturur; boyanın kumlu çimentoyla buluştuğu yerde zengin ve kremsi bir doku gözler önüne serilir. Yumuşak doğal gün ışığı, tatmin edici ASMR atmosferi, yavaş ve bilinçli hareketler, parlak boya yüzeyinde ve altın parçacıklarında aşırı detay, sığ alan derinliği, gerçekçi endüstriyel stüdyo ortamı, fotogerçekçi, yüksek çözünürlük.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118803332890255360/img/kAIXW5_QioErVm2F.jpg" width="600" alt="Gri Beton Altın Damalı Sıvaya Dönüşüyor">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13627)**
+
+**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2118803488159518901) | **Yayınlandı:** Nov 6, 2026
+
+---
+### Seedance 2.5 vs Omni 1.2 Flash: Hangzhou Batı Gölü Videosu
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.5 ve Gemini Omni 1.2 Flash, Hangzhou Batı Gölü'nde yürüyen bir kızla ilgili detaylı bir istem kullanılarak karşılaştırılıyor.
+
+#### 📝 İstem
+
+```
+10 saniye, yatay 16:9. 2000 yılının yaz başı, bir Mini DV kamerayla çekilmiş el kamerası ev videosu; sanki Hangzhou'daki Batı Gölü'nde yürüyüşüne eşlik eden bir arkadaşı tarafından öylesine, rahatça kaydedilmiş gibi. Sabahın geç saatleri, mekân tutarlı biçimde Gushan Adası yakınlarındaki Bai Geçidi kıyısında. Salkım söğütler açık gri taş kıyılara sürtünüyor; Beili Gölü'nün karşısında Baoshi Dağı görünüyor, ince yapılı Baochu Pagodası dağ sırtından usulca beliriyor ve uzakta ahşap bir kürekli kayık geçiyor.
+
+Klibin tamamında, yirmili yaşlarında aynı Hangzhoulu kadın yer alıyor; kurgusal bir yetişkin karakter. Üzerinde bej tonunda küçük çiçek desenleri olan çivit mavisi bir elbise var: kısa kollu, hafif yuvarlak yakalı, beli doğal biçimde saran iki pensli, etek ucu diz altında ve yürürken kumaşı hafifçe dalgalanan bir model. Kahverengi, tek bantlı, burnu açık düz sandaletler ve ince bilek bağcıkları. Omuz hizasında düz siyah saçlar, yarısı toplanmış şekilde şekillendirilmiş. Üst kısım her iki şakaktan geriye doğru taranıp ensenin ortasında küçük bir demet hâlinde toplanmış ve çay rengi yatay bir tokayla tutturulmuş. Alt kısım tokanın hemen altından omuzlara doğru doğal biçimde dökülüyor, katmanlar net bir şekilde birbirinden ayrılıyor. Yanlarda saç tokası yok. Doğal ten rengi ve dokusu; dört sahne boyunca yüz, kıyafet, ayakkabı ve saç modeli hiç değişmeden aynı kalıyor.
+
+0–2s. Söğüt gölgesinde, göl kenarındaki alçak taş basamaklara oturuyor. Arkadaşı çapraz arkadan çekim yapıyor; omuz hizasındaki yarısı toplu saçlarını ve ensesinin ortasındaki çay rengi yatay tokayı kadraja alıyor. Odak noktası söğüt dallarından tokaya kayarken, eliyle ensesindeki tokaya hafifçe bastırıp elini indiriyor, yüzünü biraz aşağı eğerek gülümsemesini belli etmemeye çalışıyor. Kadrajda göl suyu da görünüyor.
+
+2–5s. Arkadaşı peşinden yürüyerek onu takip ediyor; kadın göl kenarındaki taş yolda birkaç adım atıyor, yolun iç kısmında alçak bir taş platformda uzanmış tekir bir kedi fark edip çömelerek sırtını nazikçe okşuyor. Söğüt yapraklarından süzülen ışık kolunun üzerinden kayıp geçiyor, kamera yarım adım geride kalıyor ve hareket, ayakkabılarını ile kıyafetinin alt kısmını kadraja alıyor.
+
+5–8s. Ağaçların altında göl kenarında, alçak bir ahşap tabureye oturup suyun yüzeyine bakıyor; elinin yanında berrak bir bardakta West Lake Longjing çayı duruyor, cam bardağın dibinde açılmış çay yaprakları seçiliyor. Göl esintisinin dağıttığı serbest saç tellerini kulağının arkasına sıkıştırıyor, yandan yapılan el kamerası kompozisyonu hafifçe kayıyor, uzakta ahşap bir kürekli kayık dağ siluetinin önünden ağır ağır geçiyor.
+
+8–10s. Çay bardağını alıyor, dönüp kendisini çeken arkadaşına bakıyor, kısaca gülümsüyor, hafifçe başıyla selam veriyor, ardından dönüp Bai Geçidi'ndeki söğüt gölgesi boyunca ileriye doğru yürümeye devam ediyor. Tam adım atarken görüntü sert bir kesmeyle karartılıyor; sanki arkadaşı kayıt düğmesine basıp çekimi durdurmuş gibi.
+
+Görünür el titremesi, zaman zaman odak dışı kalan anlar, ağaç gölgesi ile su yüzeyi arasında hafif pozlama sıçramaları, düşük kontrastlı sıcak tonlar, ince gren ve erken dönem dijital sıkıştırma artefaktlarının en aza indirilmiş hâli. Ses yalnızca göl suyunun taş kıyılara vurma sesini, söğüt yaprakları arasından esen rüzgârı, ayak seslerini, kedinin mırıltısını ve cam bardağın ahşap tabureye hafifçe değme sesini içeriyor. Diyalog, anlatım, arka plan müziği, altyazı, filigran, hava çekimi veya ağır çekim yok. Kadrajda akıllı telefon, kablosuz kulaklık veya QR kod bulunmuyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118686547251986432/img/-WvUb9ALVtoKKO9F.jpg" width="600" alt="Seedance 2.5 vs Omni 1.2 Flash: Hangzhou Batı Gölü Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13631)**
+
+**Yazar:** [风雪漫千山](https://x.com/fxmqs) | **Kaynak:** [Link](https://x.com/fxmqs/status/2118686591594180730) | **Yayınlandı:** Nov 6, 2026
+
+---
 ### Fütüristik Spor Ayakkabı Parçalama Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6487,250 +6605,6 @@ Karakterler: Başrol, Ekip Üyesi A, Ekip Üyesi B, Ekip Üyesi C (toplam 4 kiş
 **Yazar:** [M7［mi7］AI](https://x.com/mi7_crypto) | **Kaynak:** [Link](https://x.com/mi7_crypto/status/2112029684594872632) | **Yayınlandı:** Oct 19, 2026
 
 ---
-### Sessiz Karşılaşma: Kore Dizisi Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İki kadın arasındaki gerilim ve sessiz etkileşime odaklanan, apartman koridorunda geçen, sinematik ve atmosferik bir Kore dizisi sahnesi oluşturmak için bir istem.
-
-#### 📝 İstem
-
-```
-Sakin, loş ışıklı bir apartman koridorunda bulunan iki güzel genç Koreli kadını içeren, 28 saniyelik ultra gerçekçi sinematik bir Kore dizisi sahnesi oluşturun. Kadınlardan biri uzun, düz siyah saçlara ve zarif bir siyah kıyafete sahipken, diğeri sade bir el çantasıyla şık beyaz bir takımı giymektedir. Yumuşak mavi ışığın aydınlattığı karanlık bir koridorda yavaşça yürüyen siyah giyimli kadının gizemli bir arka plan çekimiyle başlayın. Her iki kadının yan yana geçtiği, ince bir gerilim ve merak havası yaratan, detaylı bir apartman koridoruna geçiş yapın. Gerilimi artırmak için sinematik yakın çekimler, doğal yürüyüş hareketleri, gerçekçi yüz ifadeleri ve akıcı kamera takipleri kullanın. Ahşap bir kapı girişinin ve zemin yakınındaki hafif bir hareketin ardından boş bir koridorun ve metalik asansör iç mekanının yakın çekimini gösterin. Siyah giyimli kadının asansörde ciddi bir ifadeyle sessizce duruşunu yakalayın. Beyaz giyimli kadının koridorda tek başına yürüyüşüyle bitirin; ardından dışarıda, siyah saçları rüzgârda hafifçe dalgalanan nefes kesici bir yüz yakın çekimi gelmelidir. Yumuşak doğal ışıklandırma, soluk renkler, sığ alan derinliği, gerçekçi cilt dokusu, sinematik kompozisyon, akıcı geçişler ve profesyonel Kore dizisi sinematografisi kullanın. Video boyunca tutarlı yüz kimliklerini, saç stillerini, kıyafetleri ve vücut oranlarını koruyun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112012335745568768/img/7htU0qp0NJG1AW7B.jpg" width="600" alt="Sessiz Karşılaşma: Kore Dizisi Sahnesi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12710)**
-
-**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2112012480860000276) | **Yayınlandı:** Oct 19, 2026
-
----
-### Vahşi Yaşam Parkı Timsah Saldırısı Video İstemi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Belirli karakter referansları ve kamera davranışlarını içeren, vahşi yaşam parkında ani bir timsah saldırısının gerçekçi, titrek kameralı tarzda videosunu oluşturmak için detaylı bir istem.
-
-#### 📝 İstem
-
-```
-【Video Özellikleri & Genel Tarz】
-
-9:16 dikey ekran, 15 saniye, tek kesintisiz çekim. Çin'deki bir vahşi yaşam parkının içinde, sıradan bir telefonla bir turist tarafından kazara yakalanan heyecan verici bir sahne. Başlangıçta sakin olan fotoğrafçı, devasa bir timsahın saldırmasıyla yarım beat geç şaşkına döner; kamera titrer, yön değiştirir, sonra aceleyle kişiyi tekrar bulur. Amatör telefon görüntülerinin gerçekçiliğini koruyun.
-
-【Karakter & Referans Kilitleme】
-
-Kadın başrol, #598c0e35-7c27-4b7c-8bac-19bb206ff1c3 numaralı önceden ayarlanmış yetişkin Çinli kadın karakter #1'i kullanır ve #d57ec59a-c0a5-4eae-84f4-4f02ef21a92d numaralı önceden ayarlanmış kıyafet #2'yi giyer. Yüzü, uzun saçları, kıyafet stili, rengi ve malzemesini referansla sıkıca tutarlı şekilde sürdürün. #1 kişidir, #2 kıyafettir; sayılar karede görünmez.
-
-Yönetici, kırk yaşlarında, kısa siyah saçlı, haki renkli kısa kollu iş üniforması ve koyu renk pantolon giyen, göğsünde bir kimlik kartı taşıyan Çinli bir erkektir ve kadın başrolün arkasında ve yanında durmaktadır.
-
-Arka planda, yazlık rahat kıyafetler giyen ve tahta yolda doğal olarak dağınık duran birkaç yetişkin Çinli turist vardır.
-
-【Sahne & Kamera Konumu】
-
-Tropikal timsah izleme alanı, derin yeşil bir havuz boyunca uzanan eski bir ahşap tahta yol, karşı kıyıda bambular, palmiyeler ve çalılar. Kalın ahşap korkuluklar, karenin sağ alt köşesinden arka plana doğru çapraz olarak uzanır.
-
-Dışarıdaki fotoğrafçı, kadın başrolün yaklaşık bir metre arkasında ve yanında durur, onun telefonunun pozisyonundan biraz daha yüksekte, dikey olarak aşağıya doğru çeker. Karenin sağ tarafında kadın başrol, yönetici ve tahta yol; sol ve alt taraflarda ise havuz görünür.
-
-Nemli gündüz, bitki örtüsü arasından süzülen doğal güneş ışığı, su yüzeyinde hafif yeşil yansıma. Sıradan telefon 1x ana kamera, hafif el titremesi, eğilme, sıkıştırma artefaktları, gölgelerde gürültü, hızlı dönüşlerde kısa bulanıklık. Sinematik renk düzenlemesi, drone çekimleri veya portre bokeh yok.
-
-【Kadın Başrolün Telefon Yönü — Kesinlikle Doğru Olmalı】
-
-Kadın başrol, suyun içindeki timsahı filme almak için telefonunun arka kamerasını kullanıyor, selfie çekmiyor veya telefonu dışarıdaki fotoğrafçıya göstermiyor.
-
-Telefonu iki eliyle yatay olarak uçlarından tutuyor, parmakları arka kameradan uzak duruyor. Telefon, göğsünün altında, korkuluğun dış kenarına yakın yerde bulunuyor ve gövdesi net bir şekilde aşağıya doğru eğik. Arka lensin yönü, sol alttaki suyun altındaki devasa gölgeye tam olarak düşüyor.
-
-Telefon ekranı yukarı ve hafifçe yüzüne dönük; telefonun arkası ve arka lens aşağıya, su yüzeyine dönük. Ekranı aşağıdan izliyor, suyun içindeki hedefi onun üzerinden gözlemliyor.
-
-Dışarıdaki fotoğrafçının hafif yükseltilmiş yan-arka açısından bakıldığında, esas olarak telefon ekranı ve vücudun yan kısmı görülmeli, tüm telefon arkası ve dışarıdaki fotoğrafçıya bakan kamera modülü değil.
-
-Ekranda çerçevelenen içerik, gerçek su yüzeyiyle eşleşiyor: aynı su yüzeyi ve aynı bulanık gölge görünüyor, kadın başrolün selfie yüzü, alakasız manzaralar veya yanlış yön yok.
-
-Kadın başrol bileğini hafifçe ayarladığında, arka lens her zaman su altındaki gölgeyi takip eder. Devasa timsah saldırmadan önce, şok nedeniyle telefonu geri çeker ve yönünü bozar.
-
-【Devasa Timsah & İlk Kare Durumu】
-
-Sadece anormal derecede büyük, koyu gri-siyah bir timsah. Zıplarken, başı bir yetişkinin üst gövdesi boyutuna yaklaşır ve açık ağzı karenin sol tarafının neredeyse yarısını kaplar. Boyut orijinal videoya atıfta bulunur; sıradan küçük bir timsah üretmeyin.
-
-İlk karede, devasa timsah tamamen suyun altında kalır, sadece batık odun gibi devasa, bulanık, uzun bir gölge sunar. Su yansımaları ve bulanıklık detayları gizler; baş, gözler, burun delikleri, pullar veya dişler net bir şekilde tanımlanamaz ve hiçbir kısım yüzeye çıkmaz.
-
-Devasa timsah, zıplama anında ani bir büyüme göstermeden, hacmini sürekli korur.
-
-【0–2 Saniye: Su Altı Gölgesini Filmler】
-
-Kadın başrol korkuluğun içinde durur, hafifçe öne eğilir, telefonu iki eliyle yatay tutar ve arka lensi sol alttaki suyun içindeki devasa gölgeye aşağıya doğru çevirir.
-
-Kendisine bakan ekranı aşağıdan izler; ekrandaki gölge havuzdaki gölgeyle uyuşur. Dışarıdaki fotoğrafçı, yan-arkadan telefon ekranını, kadın başrolün profilini ve altındaki su yüzeyini yakalar.
-
-Yönetici ciddi bir şekilde hatırlatır:
-
-"Hanımefendi, biraz geri adım atın, korkuluğa yaslanmayın!"
-
-Su yüzeyinde sadece hafif dalgalanmalar var; timsah henüz ortaya çıkmadı.
-
-【2–4 Saniye: Hedef Yaklaşıyor, Telefon Takip Ediyor】
-
-Devasa su altı silueti yavaşça kadın başrolün konumuna yaklaşıyor. Bileklerini hafifçe çevirerek arka lensi hareket eden gölgeye odaklı tutuyor, ekran kendisine dönük, telefonun arkasını dışarıdaki fotoğrafçıya çevirmiyor.
-
-Yönetici daha da yaklaşıyor, ona destek olmak için elini uzatıyor, tonu acil hale geliyor:
-
-"Bu odun değil, canlı! Dışarıya yaslanmayın!"
-
-Kadın başrol vücudunu geri çekmeye başlıyor, ancak telefon hala su yüzeyini filme alıyor. Bu bölümün sonunda, timsahın burnu ve gözleri su yüzeyini yeni kırmaya başlıyor.
-
-【4–6 Saniye: Devasa Timsah Saldırısı】
-
-Devasa timsah aniden su yüzeyini patlatarak çıkar, devasa başı korkuluğun dış kısmı boyunca yükselir, açık ağzı anında karenin sol tarafının neredeyse yarısını kaplar ve büyük sıçramalar kaldırır.
-
-Kadın başrol çığlık atar, aceleyle telefonunu ve kollarını geri çeker. Telefonun yönü şok nedeniyle stabilitesini kaybeder; bundan önce timsaha doğru düzgün nişan alınmış olmalıydı.
-
-Devasa timsah, korkuluğun dışına uzanan ön kolunu ve yakındaki kumaşı kısa süreliğine ısırır. Yönetici hemen üst kolunu ve omuz/sırtını destekleyerek ağırlık merkezini korkuluğun içinde sabitler.
-
-Dışarıdaki fotoğrafçı şokla yarım adım geri çekilir, kamera kısa süreliğine yukarıya sarsılır, yara yakın çekimi veya kesim yoktur.
-
-【6–9 Saniye: Kaçış & Suyu Düşme】
-
-Devasa timsah ısırığını kısa süreliğine bırakır, başı geri iner, kadın başrol yaralı ön kolunu geri çekmekten faydalanır, yönetici onu tahta yolun içine çeker. Eylemde net bir bırakma olmalı, kolun kapalı dişlerin arasından geçmesine izin verilmemeli.
-
-Telefon kadın başrolün elinden kayar, takla atar ve havuza düşer, sadece bir kez düşer.
-
-Devasa timsah suya geri çarpar, beyaz sıçramalar kaldırır. Kadın başrol ön kolunu kapatır, yaradan az miktarda kırmızı sıvı sızar, kısa ve ince çizgiler oluşturur, temas noktasındaki kumaşı lekeler, bir veya iki damla ahşap tahta yola düşer.
-
-Derin yaralar göstermeyin, püskürtme yok, ağır kanama yok.
-
-Yönetici bağırır:
-
-"Geri adım atın! Uzanmayın! Telefonu almayın!"
-
-【9–11 Saniye: Turistler Panik Yapıyor】
-
-Kadın başrol tahta yolun ortasına geri çekilir, yaralı ön kolunu korur, omuzları gergin, nefes alışverişi hızlıdır.
-
-Yakındaki turistler önce omuzlarını büzer ve geri çekilir, arkadaşlarını çeker; arkadaki turistler çığlığı duyduktan sonra döner, bazıları telefonlarını kaldırır, bazıları kenara çekilir, art arda ünler:
-
-"Hemen geri çekilin!"
-
-"Korkuluğa yaslanmayın!"
-
-Kalabalık tepkilerinde zaman gecikmeleri vardır, senkronize değildir, kesinti yoktur, havuza düşme yoktur. Devasa timsah suyun altında kalır, ikinci bir saldırı yoktur.
-
-【11–13 Saniye: Yönetici Tahliye Ediyor】
-
-Yönetici, kadın başrol ile korkuluk arasında durur, geri çekilmeye devam ederken onu korur, turistlere yol vermeleri için işaret eder:
-
-"Geri çekilin! Herkes üşüşmesin!"
-
-Yakındaki bir turist mendil sunar, kadın başrol kabul eder ve aynı yaraya bastırır, mendil yavaşça az miktarda kırmızıyla leke alır.
-
-Fotoğrafçı hafifçe geri çekilir ve kompozisyonu düzeltir, kadın başrolü, yöneticiyi ve panikle geri çekilen turistleri aynı anda yakalar.
-
-【13–15 Saniye: Korkunun Ardından】
-
-Kadın başrol ön kolunu kapatır, nefes nefese, sesi titreyerek söyler:
-
-"Öldüm sandım... Gerçekten ısırdı!"
-
-Yönetici hala onu korur, havuza temkinli bakar. Arka plan turistleri uyarıları fısıldar:
-
-"Uzak durun, film çekmeyin!"
-
-Kadın başrol hala şokta, kalabalık geri çekiliyor, su yüzeyindeki olay sonrası etkiler henüz yatışmamış şekilde sona erer.
-
-【Olay Yeri Sesleri】
-
-Tüm sesler telefonda canlı olarak kaydedilir, Çince diyalog, müzik, anlatım veya altyazı yok.
-
-Düşük turist uğultusu, bambu yapraklarının sürtünmesi ve hafif su sesleriyle başlar. Yöneticinin sesi yakındır ve nettir, tehlike oluştuğunda ciddi hatırlatmadan acil durdurmaya geçer.
-
-Timsah su yüzeyine çıktığında ağır su sesi, kadın başrolün çığlığı, yakındaki nefes kesilmeleri; ardından telefonun suya düşmesi, sıçrama inişi, hızlı nefes alma ve karışık ayak sesleri gelir. En büyük sıçrama ve çığlık, mikrofonu kısa süreliğine kırpıştırır (clipping), sonra otomatik kazanç toparlanır.
-
-Uzak turist sesleri daha dağınık ve hafiftir, canavar kükremeleri eklenmemiştir.
-
-【Süreklilik & Temel Kısıtlamalar】
-
-Başlangıçta, kadın başrolün telefonu su altı hedefini doğru şekilde filme almalıdır: ekran yukarı ve ona dönük, arka lens aşağıya timsahın konumuna nişan alınmış; dışarıdaki fotoğrafçı esas olarak ekranı ve yanları görür. Su altı hedefini filme alırken arka lensin dışarıdaki fotoğrafçıya dönmesi yasaktır.
-
-İlk karede sadece bulanık devasa su altı gölgesi vardır, net timsah başı, gözler, pullar veya dişler yoktur. Kırmızı sıvı sadece ısırktan sonra belirir.
-
-Karakter #1, kıyafet #2, yönetici, devasa timsah ve tahta yolun sürekliliğini koruyun. Yaralanma her zaman aynı ön koldadır, kırmızı çizgiler, kumaş hasarı mendil basma konumuna karşılık gelir.
-
-Sadece bir telefon, düştükten sonra ele geri dönmez. Kadın başrol ve yönetici her zaman korkuluğun içinde, timsah @d57ec59a-c0a5-4eae-84f4-4f02ef21a92d her zaman havuzdadır. Temas, ağırlık, ısırma, bırakma ve geri çekilme eylemlerinin nedensellik ilişkilerini sürekli koruyun.
-
-Yara yakın çekimi yok, uzuv koparması yok, derin doku gösterimi yok. Tüm parça tek bir kesintisiz çekimdir, yavaş çekim, tekrar oynatma, stüdyo ifşaları, UI katmanları veya filigran yoktur.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111969592058818560/img/-krKiLC99wPpxCu0.jpg" width="600" alt="Vahşi Yaşam Parkı Timsah Saldırısı Video İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12714)**
-
-**Yazar:** [John](https://x.com/john87445528) | **Kaynak:** [Link](https://x.com/john87445528/status/2111969616419303595) | **Yayınlandı:** Oct 18, 2026
-
----
-### Kâğıt Oyma Balina Diyaraması Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dev bir origami balina ve kâğıttan yapılmış bir köyün yer aldığı, belirli kamera açıları ve ses tasarımı içeren 15 saniyelik animasyonlu kâğıt oyma diyarama videosu oluşturmak için bir istem.
-
-#### 📝 İstem
-
-```
-Animasyonlu katmanlı kâğıt oyma diyarama, görünen kâğıt lifleri ve kıvrımlar, düzensiz kenarlar, kâğıt katmanları arasında paralaks etkisi, yumuşak gölgeler, ince kâğıttan süzülen sıcak arka ışık, nazik el yapımı hareketler. Renk paleti: krem, toz mavisi, terracotta, adaçayı yeşili, sıcak altın rengi arka ışık.
-Keskin kırışıklara sahip katlanmış origami kâğıttan yapılmış devasa bir balina. Çatıları ve yel değirmenleriyle küçük kâğıt köylülerinin uçurtma uçurduğu kâğıttan kesilmiş bir köy.
-ÇEKİM 1 (0-3 sn): Referans görüntüyle uyumlu geniş çekim, balina ileriye doğru süzülürken katlanmış yüzgeçleri keskin kırışma hareketleriyle açılıp kapanır, paralaks katmanlarında kayan kâğıt bulutları.
-ÇEKİM 2 (3-6 sn): Orta çekim, 50mm lens, tepedeki köylüler balinanın gölgesi üzerlerinden geçerken uçurtma iplerini çekerken, yel değirmeni kanatları arkasındaki rüzgârla daha hızlı döner.
-ÇEKİM 3 (6-9 sn): Yakın çekim, 85mm lens, balinanın gözü, küçük kesilmiş bir daire, başının ince kâğıdından geçen arka ışıkla göz kırpar, kıvrımlar içindeki soluk baskılı metni ortaya çıkarır.
-ÇEKİM 4 (9-12 sn): Alçıdan takip çekimi, 24mm lens, balina köye doğru dalar ve kuyruğu çatıların üzerine bir dalga kâğıt konfeti ve kâğıt kuş savurur.
-ÇEKİM 5 (12-15 sn): Aşırı geniş çekim, 16mm lens, balina gökyüzüne yükselir ve tamamen düz bir kâğıt levhaya dönüşerek tüm köyü sıcakça aydınlatan devasa bir kâğıt güneşe dönüşür.
-Hışırtılı kâğıt sesi, yumuşak kıvrılma sesleri, yel değirmeni gıcırtısı, kâğıttan geçen nefes gibi gelen nazik bir balina çağrısı, çocuk kahkahaları, müzik kutusu ve yumuşak piyano.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111878182143995904/img/MxkM_Z1EzpswyEpr.jpg" width="600" alt="Kâğıt Oyma Balina Diyaraması Video İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12711)**
-
-**Yazar:** [Alexandra Aisling](https://x.com/AllaAisling) | **Kaynak:** [Link](https://x.com/AllaAisling/status/2111938622903800285) | **Yayınlandı:** Oct 18, 2026
-
----
-### Pembi Süper Araba Dönüşüm Aksiyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Oyuncak bir pembi süper arabanın gerçek bir arabaya dönüştüğü ve Tokyo sokaklarında drift attığı sürreal bir aksiyon sahnesi için prompt.
-
-#### 📝 İstem
-
-```
-Uzun siyah saçlı, siyah oversize grafik tişört ve siyah çizmeler giyen genç bir kadının, banliyödeki bir evin dışında oturup minyatür pembi bir süper araba tuttuğu ultra gerçekçi sinematik aksiyon sekansı. Birdenbire, oyuncak araba büyülü bir şekilde tam boyutlu, ultra gerçekçi pembi bir süper arabaya dönüşür ve havaya fırlar; sakin bir konut caddesinden geçerek dramatik bir Tokyo tarzı kentsel kavşağa doğru uçar. Pembi süper araba şehirde agresif bir şekilde drift yaparken kadın sürücü koltuğunda görünür; yaya geçidinde dönerken gerçekçi lastik dumanı, dönen tekerlekler, sinematik hareket bulanıklığı ve asfalt üzerindeki yansımalar dikkat çeker. Araba kavşağı hızla geçer, arkasında kalın beyaz duman izleri bırakır ve ardından parlak ışıklarla aydınlatılmış Japon bakkalına doğru dramatik bir şekilde kayar. Geniş sinematik çekimle, arabanın bakkalın önünde drift yaptığı ve yayaların şaşkınlıkla tepki verdiği görülür. Final sahnesi: Kadın, etrafa dağılmış market ürünleri ve cam yansımaları arasında bakkalın girişinden kendinden emin bir şekilde çıkar; arka planda pembi süper araba hala görünür durumdadır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111703894468460544/img/Bgm8jv1RtgL6qRWR.jpg" width="600" alt="Pembi Süper Araba Dönüşüm Aksiyonu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12713)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2111703937669894630) | **Yayınlandı:** Oct 18, 2026
-
----
-### Hayvanat Bahçesinde Aslan Saldırısı Sinematik Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gerçekçi fizik ve dramatik kamera açılarıyla, bir kadının hayvanat bahçesinde aslan tarafından saldırıya uğradığı korkutucu sinematik videoyu oluşturmak için bir istem.
-
-#### 📝 İstem
-
-```
-Uzun, koyu renk, hafif dalgalı saçları olan, beyaz bluz ve koyu renk pantolon giyen genç bir Koreli kadını içeren 20 saniyelik sinematik, ultra gerçekçi bir AI videosu oluşturun. Yumuşak doğal gün ışığında akıllı telefonuna düşünceli bakan pencere kenarında otururken yakın çekimle başlayın. Dışarıda hayvanat bahçesi ortamına geçiş yapın; burada korkulukların yanında duruyor, çevresini gözlemlerken rahatça telefonunu kullanıyor. Aslan kafesine yaklaşmasını ve aşağıdaki heybetli bir aslanın fotoğrafını çekmek için akıllı telefonunu kaldırmasını gösterin. Aniden, aslan ona doğru koşarak gergin ve beklenmedik bir an yaratır. Telefonunu düşürür ve aslan kafes içinde ona atılırken kaçmaya çalışır. Korkmuş ifadelerini, gerçekçi vücut hareketlerini, uçuşan tozu ve aslanın güçlü hareketini yakalayın. Dinamik kamera açıları, pürüzsüz sinematik geçişler, doğal güneş ışığı, gerçekçi gölgeler ve detaylı çevre dokuları kullanın. Videonun tamamında tutarlı yüz hatlarını, saç stilini, kıyafetleri ve vücut oranlarını koruyun; dramatik tempo ve fotogerçekçi kalite ile.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111646630105710593/img/tb_UxKERUj2WSE5S.jpg" width="600" alt="Hayvanat Bahçesinde Aslan Saldırısı Sinematik Video">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12677)**
-
-**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2111646777187450940) | **Yayınlandı:** Oct 18, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -6792,6 +6666,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-07T05:51:13.385Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-07T15:06:59.768Z</sub>
 
 </div>
