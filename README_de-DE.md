@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6662** |
+| 📝 Gesamtanzahl Prompts | **6675** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-11-08** |
 
@@ -361,6 +361,2132 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Seedance 2.0 Cyberpunk U-Bahn Kampf-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt für die Generierung einer 15-sekündigen Cyberpunk-U-Bahn-Kampfszene mit einer Frau, die eine Sense schwingt. Er beschreibt dynamische Kamerabewegungen, Lichteffekte und choreografierte Action-Sequenzen für Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Video: Seedance 2.0, 2K.
+
+Prompt: 0–3s: Instant Kill Dash
+
+In einer schmutzigen, von flackerndem Neonlicht erhellten dunklen U-Bahn-Station stürmt eine glamouröse Frau mit einer Sense aus dem Stand nach vorn. Die Kamera fährt von hinten seitlich mit extremer Geschwindigkeit vorwärts, radialer Motion Blur auf Maximum.
+
+Die Frau schwingt ihre elektrifizierte Riesensense und durchtrennt in schnellen horizontalen Hieben Skelettkrieger. Die Monster taumeln rückwärts durch die Luft, Knochensplitter und Funkenflug sprühen umher. Jeder Treffer wird von einem kurzen Kameraschütteln, einem seitlichen Schub und einer Unschärfe begleitet. Die Deckenleuchten flackern hochfrequent, Licht und Schatten zerschneiden die Silhouette der Frau.
+
+3–7s: Ultra-Fast Combo
+
+Die Monster umzingeln sie, doch die Frau weicht blitzschnell aus, rutscht über den Boden und reißt dabei goldene elektrische Funken auf. Im Moment des Herumdrehens schwingt sie die Sense beidhändig in weitreichenden horizontalen Hieben und vertikalen Schlägen; die umkreisende Kamera zeigt hochfrequente, leichte Erschütterungen, wobei der starke Motion Blur durchgehend erhalten bleibt.
+
+Die Frau spaltet den Torso eines Monsters und tritt sofort mit einem Drehkick Feinde im Nahbereich zurück. Die Kamera neigt sich vom Boden nach oben, Kleidung und Haare der Frau wehen im Wind – die Dynamik ist messerscharf, ihre Präsenz absolut dominant.
+
+7–11s: Control and Purge
+
+Neonlichter flackern hochfrequent, während die Frau ihre Riesensense schwingt und die Monsterhorde in Schach hält. Die Klinge ist von heftigen goldenen Strömen umhüllt; ein Rückwärtstritt leitet nahtlos in einen 360-Grad-Rundumschlag über, der drei Gegner mit einem einzigen Treffer wegschleudert.
+
+Monster prallen gegen Säulen, Weitwinkelkamera im Hochgeschwindigkeits-Sturzflug, Verzerrungen an den Bildrändern, starker Motion Blur.
+
+Ein schwerer Schlag löst eine ringförmige Energieschockwelle aus, die Staub, Rauch und Trümmer aufwirbelt. Der Aufprall beim Landen verursacht ein niederfrequentes Kamerazittern. Der Blick der Frau fixiert die Ziele, goldene Lichtpunkte ziehen Spuren hinter sich her, alle Bewegungen gehen nahtlos ineinander über.
+
+11–15s: Ultimate Kill
+
+Die Frau lässt ihren Körper seitlich sinken, die rechte Hand greift die zum Aufladen an die Brust gehobene Sense. Ihr ganzer Körper ist von wilden goldenen Strömen umhüllt, der Energiekern leuchtet intensiv.
+
+Die Kamera ist leicht nach unten geneigt, erfasst den gesamten Körper der Frau, Motion Blur auf Maximum.
+
+Im Bruchteil einer Sekunde startet die Frau ihren ultimativen Dash, wilde goldene Blitze ziehen als Nachbild hinter ihr her, während die Riesensense alle Monster durchbohrt. Das löst eine gewaltige Energieexplosion aus, deren Schockwelle massenhaft Trümmer und Papierfetzen aufwirbelt.
+
+Der Rauch verzieht sich allmählich, die Frau hält die Sense in der rechten Hand zu einem diagonalen Schwung zur Seite, der ein goldenes Nachglühen hinterlässt, und verharrt dann in ihrer Endposition – direkt der Kamera zugewandt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119301246331031552/img/TvALoAf3ofnIaVAA.jpg" width="600" alt="Seedance 2.0 Cyberpunk U-Bahn Kampf-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13661)**
+
+**Autor:** [Zidan 子丹](https://x.com/liluocheng13) | **Quelle:** [Link](https://x.com/liluocheng13/status/2119302185263743113) | **Veröffentlicht:** Nov 8, 2026
+
+---
+### Heute fange ich dich: Zuckerrohr-Jagd-Komödie
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein Prompt für Seedance 2.0 Mini, der einen 15-sekündigen antiken Comedy-Kurzfilm generiert, in dem Schwert-Unsterbliche an einem Zuckerrohr-Erntespiel teilnehmen. Der Film zeigt eine Rollenverwechslung, bei der der Schüler die Rolle des 'Fängers' vom älteren Parkwärter kauft.
+
+#### 📝 Prompt
+
+```
+„Heute bin ich dran, dich zu fangen“
+Seedance 2.0 Mini | 15-sekündige Realfilm-Xianxia-Komödie im antiken China mit unerwartetem Rollentausch
+
+Generierungsmodell: Seedance 2.0 Mini
+Gesamtdauer: Exakt 15 Sekunden
+Seitenverhältnis: 16:9 Querformat
+Visueller Stil: Kinorealistisches, antikes chinesisches Xianxia
+Filmgenre: Antike Situationskomödie / Unterhaltsame Verfolgungsjagd / Identitätstausch
+Erzählstruktur: Drei Haupteinstellungen
+Hauptfiguren: Schwertunsterbliche Senior-Schwester im weißen Gewand, Junior-Schwester im blauen Gewand, Alter Gärtner
+Kern-Twist: Der Gärtner, der anfangs alle jagt, wird am Ende selbst von der Schwertunsterblichen durch die Gegend gejagt.
+
+I. MASTER | Gesamtstil und Regiekonzept
+1. Allgemeines Film-Setting
+Erstelle einen 15-sekündigen Kurzfilm im 16:9-Querformat – eine kinorealistische, antike Xianxia-Komödie mit unerwartetem Rollentausch, optimiert für Seedance 2.0 Mini.
+Visueller Stil
+Reine Welt des antiken chinesischen Xianxia
+Echte erwachsene ostasiatische Darsteller
+Klassische Kostüme
+
+Kinorealistische, natürliche Beleuchtung
+
+Realistische Hauttextur
+
+Feine Filmkorn-Ästhetik
+
+Zurückhaltendes, aber ausdrucksstarkes Schauspiel
+
+Komödiantische Sprache
+
+Nutze folgende bewährte Komödien-Mechanismen:
+Klassische Situationskomödie
+Ursache-Wirkungs-Dynamik und Veränderungen in den Beziehungen der Figuren.
+Stummfilmkomödie
+Klare räumliche Inszenierung und Gags, die rein über die Handlung verständlich sind.
+Chinesischer Alltags-Humor
+Missverständnisse zwischen den Figuren, Lebensweisheiten und natürliche Reaktionen.
+
+Schauspiel-Prinzipien
+
+Keine übertriebene oder „Ghost Animal“-artige Darstellung (kein absurdes Overacting).
+
+Die Figuren dürfen nicht plötzlich modernen Internet-Slang verwenden.
+
+Kein belehrendes Ende inszenieren.
+
+2. Kernhandlung
+
+Die Geschichte dieser Runde:
+
+„Heute bin ich dran, dich zu fangen“
+
+Diese Runde greift das reale Erlebnis auf, freiwillig beim „Zuckerrohr klauen und vom Gärtner gejagt werden“ mitzumachen, und setzt es als reine, antike Xianxia-Komödie neu um.
+
+Komödiantischer Kernmechanismus
+
+Rollentausch zwischen Jäger und Gejagtem.
+
+Handlungsentwicklung
+
+Phase 1: Missverständnis
+
+Die Junior-Schwester glaubt, sie wurde beim Zuckerrohrklauen erwischt.
+
+Phase 2: Die Regeln werden enthüllt
+
+Dann stellt sie fest, dass sie bereits bezahlt hat, um an diesem besonderen Ernte-Spiel teilzunehmen.
+
+Phase 3: Aktiver Rollentausch
+
+Die sonst so ruhige und elegante schwertunsterbliche Senior-Schwester gibt tatsächlich Geld aus, um selbst zur Jägerin zu werden.
+
+Endergebnis
+
+Der anfangs so Respekt einflößende alte Gärtner wird stattdessen von der Schwertunsterblichen durch die Gegend gejagt.
+
+Komödiantischer Höhepunkt
+
+Die gesamte Geschichte erzeugt ihren Humor durch die Handlungen der Figuren, Missverständnisse und den Tausch ihrer Rollen.
+
+Alle drei Figuren müssen realistische Motive haben.
+
+II. CHARACTER LOCK | Festlegung von Identität und Assets der Figuren
+
+Figur A | @Image1 | Schwertunsterbliche Senior-Schwester im weißen Gewand
+
+Identität der Figur
+
+25–30 Jahre alte, erwachsene ostasiatische Frau.
+
+Übernehme exakt dieselbe bestätigte Figur aus @Image1.
+
+Feste Gesichtszüge
+Helles, weiches ovales Gesicht
+Dunkle mandelförmige Augen
+Filigrane, harmonische Gesichtszüge
+Realistische, natürliche Hauttextur
+
+Feste Frisur
+
+Langes schwarzes Haar, halb hochgesteckt
+Mit einer weißen Jade-Haarnadel fixiert
+
+Körperproportionen
+
+Groß
+
+Schlank
+
+Festes Kostüm
+Weißes, besticktes Seiden-Hanfu
+Halbtransparente, geschichtete weite Ärmel
+Silberne Schärpe um die Taille
+
+Jade-Anhänger
+
+Weiße Stoffstiefel
+Exklusive Waffe
+
+Das einzige silberne Langschwert.
+
+Persönlichkeit
+Elegant
+
+Ruhig
+
+Ausgeprägte Beobachtungsgabe
+Prinzip der komödiantischen Darstellung
+Die Darstellung muss zurückhaltend sein.
+Sie darf sich nicht absichtlich albern verhalten.
+Allein die Tatsache, dass sie etwas völlig Absurdes mit todernstem Gesicht tut, erzeugt den Kontrast der Figur.
+
+Figur B | @Image2 | Junior-Schwester im blauen Gewand
+
+Identität der Figur
+
+20–25 Jahre alte, erwachsene ostasiatische Frau.
+
+Übernehme exakt dieselbe bestätigte Figur aus @Image2.
+Feste Gesichtszüge
+Runde, lebhafte Gesichtskonturen
+Realistisches, natürliches Aussehen einer jungen Frau
+
+Feste Frisur
+
+Schwarzer geflochtener Zopf
+
+Holz-Haarnadel
+
+Festes Kostüm
+
+Blaugrünes Leinen-Hanfu
+
+Dunkler Gürtel
+
+Schwarze Stoffschuhe
+
+Exklusive Waffe
+
+Das einzige dunkle Stahlschwert.
+
+Persönlichkeit
+Schlagfertig
+
+Lebhaft
+
+Leicht impulsiv
+Emotionale Entwicklung
+
+Nervös → Verwirrt → Verstehend → Unerwartetes Lachen
+
+Sie wird nervös sein, weil sie plötzlich gestellt wird.
+Sie wird verwirrt sein, als sie merkt, dass die Jagd nur ein Spiel ist.
+Darstellungsprinzip
+
+Das abschließende Lächeln muss aus echter Überraschung entstehen.
+
+Sie darf nicht absichtlich niedlich wirken wollen.
+
+Figur C | Alter Gärtner
+
+Identität der Figur
+Ein chinesischer Mann aus der Antike, etwa 60–65 Jahre alt.
+Festes Aussehen und Kleidung
+
+Älterer Mann
+
+Einfache Bauernkleidung
+
+Kleidung zeigt natürliche Abnutzungsspuren
+
+Körperlich noch fit
+
+In der Lage, schnell zu rennen
+
+Exklusive Requisiten
+
+Ein kleiner Bronzegong
+
+Ein Holzschlägel
+
+Persönlichkeit
+
+Enthusiastisch
+
+Hat eine leichte theatralische Ader
+
+Interagiert gerne mit Besuchern
+
+Verfügt über normalen Menschenverstand
+Aufgabe der Figur
+Verantwortlich dafür, Besucher zu jagen, die freiwillig am Ernte-Spiel teilnehmen.
+Wichtige kognitive Grundlage
+Der Gärtner weiß ganz genau:
+
+Die Besucher haben bereits Silbermünzen bezahlt.
+
+Er fängt keine echten Diebe.
+Es steckt keine Boshaftigkeit dahinter.
+
+Er macht einfach gerne aus einer gewöhnlichen Ernte-Aktivität ein spannendes Erlebnis.
+
+Motivation am Ende
+Als die Senior-Schwester die Rolle der Fängerin kaufen möchte, findet er das sehr amüsant und spielt gerne mit.
+Die Flucht am Ende ist Teil des Spiels.
+Es ist keine echte Angst.
+
+III. ENVIRONMENT DNA | Aktuelle Szene und räumliche Beziehungen
+
+1. Allgemeine Prinzipien der Szenenreferenz
+
+Alle in dieser Runde hochgeladenen Hintergrund- und Standortbilder definieren gemeinsam die physische Welt im Video.
+
+Erkennbare Elemente aus den Referenzbildern müssen erhalten bleiben:
+
+Gelände und Anordnung der Hauptgebäude
+
+Größe der Gebäude und echte Materialien
+
+Vegetation, Gewässer und räumliche Tiefe
+
+Wetter, Wolken/Nebel, natürliches Licht und Reflexionen
+
+Durchgehende Beziehung zwischen Vordergrund, Mittelgrund und Hintergrund
+
+Boden und Wege, auf denen die Figuren realistisch laufen können
+
+2. Zuckerrohr-Erntebereich
+
+Wähle einen Randbereich innerhalb der Referenzszene, der real begehbar ist.
+
+Richte dort natürlich einen kleinen Erntebereich für Zuckerrohr im antiken Stil ein.
+
+Fall A | Referenzgelände eignet sich zum Pflanzen
+
+Am Rand kann ein kleines Zuckerrohrfeld angelegt werden.
+
+Fall B | Referenzort eignet sich nicht zum Pflanzen
+
+Nutze einen kleinen, provisorischen Erntestand mit gebündeltem Zuckerrohr.
+
+Szenen-Bedingung
+Verändere die ursprüngliche Umgebung nicht in unbekanntes Ackerland, nur um Zuckerrohr unterzubringen.
+
+3. Anfängliche räumliche Beziehungen der Figuren
+Junior-Schwester
+Befindet sich auf dem echten Weg, der vom Erntebereich nach draußen führt.
+Hält ein frisch geerntetes Zuckerrohr in den Händen.
+
+Senior-Schwester
+
+Steht etwas weiter entfernt neben der Junior-Schwester.
+
+Alter Gärtner
+
+Befindet sich anfangs hinter den beiden.
+
+Jagt sie schnell entlang des definierten echten Weges.
+
+Kamera-Prinzip
+
+Das Auftreten der Figuren, das Stehenbleiben, die Dialoge, die Übergabe des Gongs und die finale Jagd müssen alle kontinuierlich innerhalb derselben räumlichen Beziehung stattfinden.
+
+IV. PROP LOCK | Kernrequisiten und deren Zustände
+
+1. Zuckerrohr
+
+Anzahl: Eins.
+
+Ein frisch geerntetes Zuckerrohr.
+
+Anfangszustand
+
+Wird von der Junior-Schwester mit beiden Händen gehalten.
+
+Kontinuität
+
+Vom ersten Bild an immer dasselbe Zuckerrohr.
+
+Darf nicht dupliziert werden, verschwinden oder sich plötzlich verändern.
+
+2. Eintrittsmarke
+
+Anzahl: Eine.
+
+Gewöhnliche hölzerne Eintrittsmarke.
+
+Anfangsposition
+
+Hängt an der Taille der Junior-Schwester.
+
+Erzählerische Funktion
+
+Beweist, dass die Junior-Schwester am kostenpflichtigen Ernte-Spiel teilnimmt.
+
+Kontinuität
+
+Existiert ab dem ersten Bild.
+
+Darf im zweiten Bild nicht aus dem Nichts auftauchen.
+
+3. Hölzerne Sammelnapf
+
+Anzahl: Einer.
+
+Kleine Holzschale zum Sammeln von Kupfermünzen.
+
+Position
+
+An einer logischen Stelle im Erntebereich platziert, wo bezahlt wird.
+
+Erzählerische Funktion
+
+Im dritten Bild wirft die Senior-Schwester Kupfermünzen in die Schale und kauft damit aktiv die Rolle der Fängerin.
+
+4. Kleiner Bronzegong
+
+Anzahl: Einer.
+
+Ursprünglicher Besitzer
+
+Alter Gärtner.
+
+Erstes Bild
+
+Der alte Mann nutzt den Gong, um Jagdstimmung zu erzeugen.
+
+Drittes Bild
+
+Der alte Mann übergibt den Gong aktiv der Senior-Schwester.
+
+Endzustand
+
+Die Senior-Schwester hält den Gong und jagt den alten Mann.
+
+5. Holzschlägel
+
+Anzahl: Einer.
+
+Ursprünglicher Besitzer
+
+Alter Gärtner.
+
+Drittes Bild
+
+Wird zusammen mit dem Gong an die Senior-Schwester übergeben.
+
+Kontinuität
+
+Darf nicht dupliziert werden.
+
+Der Besitz darf sich nicht automatisch ändern.
+
+V. ENVIRONMENT MOTION | Dynamik der natürlichen Umgebung
+
+Die Umgebung bleibt lebendig.
+
+Wind
+
+Bewegt natürlich:
+
+Ärmel
+
+Blätter
+
+Haarsträhnen
+
+Wolken/Nebel
+
+Bewegen sich langsam.
+
+Hintergrund
+
+Figuren in der Ferne und Reflexionen auf der Wasseroberfläche verändern sich natürlich.
+
+Prinzip der Umgebungsinszenierung
+
+Die Umgebung liefert lediglich:
+
+Eine reale Welt
+
+Einen Drehort
+
+Natürliche Dynamik
+
+Sie greift nicht aktiv in die Kausalität der Geschichte ein.
+
+VI. SHOT 01 | 0–5s
+
+Hook setzen: Beim Zuckerrohrklauen erwischt?
+
+Einstellungstyp
+
+Mittellange seitliche Kamerafahrt (Tracking Shot).
+
+Erzählerisches Ziel
+
+Den Zuschauer sofort glauben lassen, die Junior-Schwester hätte wirklich etwas gestohlen.
+
+1. Anfangsbild
+
+Die Kamera startet schräg vor der Junior-Schwester.
+
+Sie hält ein frisch geerntetes Zuckerrohr.
+Sie verlässt den Erntebereich über den begehbaren Weg der Referenzszene.
+Position der Senior-Schwester
+
+Dieselbe schwertunsterbliche Senior-Schwester im weißen Gewand steht etwas weiter entfernt neben ihr.
+
+2. Der Gärtner jagt sie plötzlich
+
+Plötzlich!
+
+Ein lauter, realistischer Bronzegong ertönt aus dem Hintergrund des Bildes.
+
+Ein alter Gärtner jagt sie schnell von hinten.
+
+Während er den Gong schlägt, ruft er aufgeregt:
+
+Erste Dialogzeile
+[Gärtner | Aufgeregt, laut]
+„Erwischt! Sing ein Lied!“
+
+3. Erschrockene Junior-Schwester
+
+Die Junior-Schwester erschrickt durch den plötzlichen Ruf.
+
+Sie:
+Bleibt stehen.
+
+Dreht sich abrupt um.
+
+Lässt fast das Zuckerrohr in ihrer Hand fallen.
+
+Fängt es aber gerade noch rechtzeitig sicher auf.
+
+Zweite Dialogzeile
+
+Sie sucht sofort Hilfe bei der Senior-Schwester:
+
+[Junior-Schwester | Nervös, drängend]
+
+„Senior-Schwester! Ich habe bezahlt!“
+
+4. Senior-Schwester geht in Habachtstellung
+
+Dieselbe schwertunsterbliche Senior-Schwester im weißen Gewand sieht den heranjagenden Gärtner.
+
+Instinktiv legt sie ihre rechte Hand nahe an den Schwertgriff.
+
+Anforderungen an die Darstellung
+
+Die Bewegung ist extrem leicht.
+
+Sie darf das Schwert nicht ziehen.
+
+Bildwirkung
+
+Die Kamera nutzt diese extrem leichte Bewegung, um kurzzeitig das Gefühl einer echten Konfrontation in der Szene zu erzeugen.
+
+5. Ende der ersten Einstellung
+
+Der alte Mann bleibt vor den beiden stehen.
+
+Eröffnungs-Spannung
+
+Wird eine Schwertunsterbliche wegen eines Zuckerrohrs mit einem einfachen Gärtner aneinandergeraten?
+
+VII. SHOT 02 | 5–10s
+
+Konflikt und Eskalation: Hat man bezahlt, um gejagt zu werden?
+
+Einstellungstyp
+
+Stabile mittlere Einstellung aus der Dreiviertel-Seitenansicht.
+
+Erzählerisches Ziel
+
+Die wahren Regeln des „Diebe-Fangens“ offenbaren.
+Gleichzeitig den nächsten Twist vorbereiten.
+
+1. Räumliche Beziehung der Figuren
+Behalte die räumliche Achse der Figuren aus der vorherigen Einstellung bei.
+
+Senior-Schwester
+
+Steht neben der Junior-Schwester.
+
+Alter Gärtner
+
+Steht direkt vor den beiden.
+
+Junior-Schwester
+
+Hält immer noch fest dasselbe Zuckerrohr.
+
+2. Senior-Schwester bemerkt die Holzmarke
+
+Die Senior-Schwester zieht ihr Schwert nicht.
+
+Sie bemerkt die hölzerne Eintrittsmarke an der Taille der Junior-Schwester.
+
+Und stellt daher ruhig fest:
+
+Dritte Dialogzeile
+
+[Senior-Schwester | Ruhig, gelassen]
+
+„Sie hat eine Eintrittsmarke.“
+
+3. Der alte Mann erklärt die Regeln
+
+Der alte Mann sieht die Marke.
+
+Er wirkt überhaupt nicht schuldbewusst.
+
+Stattdessen zeigt er ein besonders natürliches, selbstgefälliges Lächeln.
+
+Vierte Dialogzeile
+
+[Gärtner | Selbstgefällig, sachlich]
+
+„Das bezahlte Geld ist DAFÜR, gejagt zu werden!“
+
+4. Die wahren Regeln werden enthüllt
+
+Tatsächlich können Besucher nach der Bezahlung erleben, wie sie vom Gärtner gejagt werden.
+
+Der alte Mann fängt keine echten Diebe.
+
+Es ist nur ein Ernte-Spiel, bei dem beide Seiten Bescheid wissen und freiwillig mitmachen.
+
+5. Reaktion der Junior-Schwester
+
+Die Junior-Schwester blickt langsam nach unten.
+
+Wirft einen Blick auf das Zuckerrohr in ihren Armen.
+
+Sie hat es noch nicht ganz begriffen.
+
+6. Senior-Schwester entdeckt eine neue Möglichkeit
+
+Die Senior-Schwester hat die Regel bereits verstanden.
+
+Entscheidende Darstellung
+
+Die Senior-Schwester lächelt nicht sofort.
+
+Sie richtet ihren Blick langsam auf den Bronzegong in der Hand des alten Mannes.
+
+In ihren Augen blitzt äußerst subtil Interesse auf.
+
+Spannung
+
+Die Zuschauer wissen nicht, was sie vorhat.
+
+Aber ihre folgenden Handlungen haben bereits eine klare kausale Grundlage.
+
+VIII. SHOT 03 | 10–15s
+
+Identitätstausch: Heute bin ich dran, dich zu fangen
+
+Einstellungstyp
+
+Mittlere, durchgehende Bewegungseinstellung.
+
+Erzählerisches Ziel
+
+Die unerwartetste und unterhaltsamste Handlung des gesamten Films soll der Senior-Schwester passieren.
+
+1. Senior-Schwester zahlt aktiv
+
+Die Senior-Schwester nimmt eine Kupfermünze aus ihrem Ärmel.
+
+Sie zieht ihr Schwert nicht.
+
+Sie streitet auch nicht weiter mit dem alten Mann.
+
+Stattdessen legt sie die Kupfermünze völlig ruhig in die kleine Holzschale daneben.
+
+Soundeffekt
+
+Klares Geräusch der Kupfermünze, die in die Schale fällt.
+
+2. Senior-Schwester schlägt ein neues Spiel vor
+
+Dann blickt die Senior-Schwester den alten Gärtner an.
+
+Fünfte Dialogzeile
+
+[Senior-Schwester | Ruhig, ernst]
+
+„Dann kaufe ich die Rolle der Fängerin.“
+
+3. Überraschter alter Mann
+
+Der alte Mann ist perplex.
+
+Er hatte eigentlich nur vor, Besucher zu jagen.
+
+Er hätte nicht erwartet, dass jemand die Rolle der Fängerin kaufen will.
+
+Veränderung der Darstellung
+
+Der alte Mann reagiert schnell.
+
+Er findet die Sache sehr amüsant.
+
+4. Übergabe des Gongs
+
+Der alte Mann übergibt sofort fröhlich seinen:
+
+Bronzegong
+
+Schlägel
+
+an die Senior-Schwester.
+
+Anforderung an die Übergabe
+
+Eine klare Requisitenübergabe vollziehen.
+
+Die Senior-Schwester empfängt ihn mit beiden Händen.
+
+Zustand der Figur
+
+Ihr Gesichtsausdruck bleibt so ernst wie beim täglichen Umgang mit dem Schwert.
+
+5. Senior-Schwester schlägt den Gong
+In der nächsten Sekunde.
+
+Die Senior-Schwester hebt plötzlich die Hand.
+
+Schlägt den Gong.
+
+Soundeffekt
+
+Bamm!
+
+Klar und laut.
+
+Sechste Dialogzeile
+
+[Senior-Schwester | Ernst, kraftvoll]
+
+„Fangt den Dieb!“
+
+6. Der alte Mann wird zum Gejagten
+
+Der alte Mann ist zunächst verdutzt.
+
+Dann begreift er, dass die Senior-Schwester die Rollen mit ihm tauschen will.
+
+Er dreht sich aufgeregt um.
+
+Rennt den ursprünglichen Weg entlang nach vorn.
+
+Verhaltensmotivation
+
+Das ist ein freiwilliges Spaßspiel.
+
+Er spielt aktiv mit der Senior-Schwester mit.
+
+7. Senior-Schwester beginnt die Jagd
+
+Die Senior-Schwester hält den Gong.
+
+Beginnt tatsächlich, den alten Mann zu jagen.
+
+Anforderungen an die Action
+
+Sauber
+
+Leicht
+
+Natürlich
+
+Echte Beschleunigung der Schritte
+
+Kontinuierliche Verlagerung des Körperschwerpunkts
+
+Verboten
+Kein Teleportieren.
+
+Kein Fliegen auf Schwertern.
+
+Die Senior-Schwester jagt ihn einfach wie jemand, der wirklich ins Spiel eingestiegen ist.
+
+8. Finale Reaktion der Junior-Schwester
+Die Junior-Schwester steht mit dem Zuckerrohr an Ort und Stelle.
+
+Sie beobachtet zuerst:
+
+Wie der stets Respekt einflößende alte Gärtner plötzlich zum Gejagten wird.
+
+Dann beobachtet sie:
+
+Wie die sonst so kühle und ernste Senior-Schwester enthusiastisch hinter ihm herjagt.
+
+Schließlich kann sie nicht anders, als laut loszulachen.
+
+Anforderungen an das Lächeln
+
+Das Lächeln ist natürlich.
+
+Entsteht aus echter Überraschung und körperlicher Entspannung.
+
+9. Finaler dreischichtiger Bildaufbau
+
+Vordergrund | Junior-Schwester
+
+Hält das Zuckerrohr.
+
+Lacht natürlich.
+
+Mittelgrund | Senior-Schwester im weißen Gewand
+
+Hält den Gong.
+
+Jagt den alten Mann.
+
+Hintergrund | Alter Gärtner
+
+Rennt lachend davon.
+
+Bewegungsrichtung der Figuren stimmt mit dem Weg in der Referenzszene überein.
+
+Räumliche Anforderung
+
+Alle Figuren bleiben im selben realen physischen Raum.
+
+10. Abschließender komödiantischer Twist
+
+Diesmal wird der Jäger zum Gejagten.
+
+Das gesamte Video endet mit dem natürlichen Lacher, der durch diesen Rollentausch entsteht.
+
+Keine zusammenfassenden Zeilen hinzufügen.
+
+Keine zusätzlichen Twists einbauen.
+
+IX. DIRECTOR'S NOTES | Regie und Darstellung
+
+1. Komödiantischer Rhythmus
+
+Phase 1 | 0–5s
+
+Eine Illusion von Gefahr erzeugen.
+
+Phase 2 | 5–10s
+
+Die absurden Spielregeln enthüllen.
+
+Phase 3 | 10–15s
+Die Senior-Schwester die Regeln aktiv nutzen lassen, um den unerwarteten Rollentausch zu vollziehen.
+Gesamter Rhythmus
+Nervosität → Verwirrung → Erkenntnis → Rollentausch → Natürliches Lachen
+Die Lacher müssen aus den Handlungen der Figuren entstehen.
+
+2. Kontrastdarstellung der Senior-Schwester
+
+Normalerweise
+
+Elegant
+
+Gelassen
+
+Entspannt
+
+Nach Beginn der Jagd
+
+Ihr Ausdruck bleibt ernst.
+
+Aber ihre Handlungen zeigen deutlich, dass sie das Spiel genießt.
+
+Komödiantischer Kern
+
+Mit der ernsten Haltung gegenüber starken Feinden an einem Diebe-Fangen-Spiel teilzunehmen.
+
+Wichtige Bedingung
+
+Sie darf nicht plötzlich zu einer übertrieben lustigen Figur werden.
+
+3. Reaktion der Junior-Schwester
+
+Anfang
+
+Echt nervös.
+
+Mitte
+
+Tatsächlich verwirrt.
+
+Ende
+
+Nachdem sie alles verstanden hat, zeigt sie ein natürliches, echtes Lächeln.
+
+Darstellungsprinzip
+
+Das Lächeln darf nicht wie ein mechanischer Schalter wirken.
+
+Es sollte sich allmählich aus dem zuvor angespannten körperlichen Zustand lösen.
+
+4. Alter Gärtner
+
+Der Gärtner ist ein normaler Mensch mit Lebenserfahrung.
+
+Er weiß, dass er ein unterhaltsames Ernte-Erlebnis anbietet.
+
+Er interagiert gerne mit Besuchern.
+
+Angesichts der Bitte der Senior-Schwester
+
+Findet er es sehr amüsant.
+
+Spielt daher gerne mit.
+
+Finale Flucht
+
+Teil des Spiels.
+
+Keine echte Angst.
+
+X. CINEMATOGRAPHY | Kamera und Schnitt
+
+SHOT 01 | Mittellange seitliche Kamerafahrt
+
+Zweck der Kameraführung
+
+Nutze den Gärtner, der plötzlich aus dem Hintergrund in den Mittelgrund tritt, um räumliche Dringlichkeit zu erzeugen.
+
+Fokus der Einstellung
+
+Junior-Schwester mit Zuckerrohr
+
+Alter Mann, der aus dem Hintergrund jagt
+
+Senior-Schwester, die leicht in Habachtstellung geht
+
+SHOT 02 | Stabile mittlere Dreiviertel-Einstellung
+
+Zweck der Kameraführung
+
+Durch:
+
+Blickkontakt der Figuren
+
+Hölzerne Eintrittsmarke
+
+Dialog der Figuren
+die Informationsenthüllung abschließen.
+
+Fokus der Einstellung
+
+Die räumliche Beziehung der drei Figuren muss klar sein.
+
+Einschränkung
+Es sind keine vielen Requisiten-Nahaufnahmen nötig.
+SHOT 03 | Durchgehende mittlere Bewegung
+
+Zweck der Kameraführung
+
+Die Gong-Übergabe abschließen.
+
+Dann dem Start der Jagd durch die Senior-Schwester folgen und den Bildausschnitt natürlich anpassen.
+
+Kernanforderung
+
+Den Rollentausch so weit wie möglich innerhalb derselben Einstellung abschließen.
+
+Letztes Bild
+
+Beibehalten:
+
+Reaktion der Junior-Schwester im Vordergrund
+
+Jagd im Hintergrund
+
+Schnittanforderungen
+
+Nur drei Haupteinstellungen.
+
+Jeder Schnitt hat einen klaren erzählerischen Zweck.
+
+Verboten
+
+Bedeutungslose schnelle Kameraschwenks
+
+Spektakuläre, aber irrelevante Übergänge
+
+Plötzliche Umkehrung der Jagdrichtung
+
+Verwirrung der räumlichen Achsen zwischen den Einstellungen
+
+Kontinuität
+
+Jagdrichtung stimmt mit der räumlichen Achse überein.
+
+XI. AUDIO MASTER | Sounddesign
+
+1. Mandarin-Dialog
+
+Der gesamte Film behält strikt sechs Zeilen Mandarin-Dialog bei.
+
+0–5s
+
+[Gärtner]
+
+„Erwischt! Sing ein Lied!“
+
+[Junior-Schwester]
+
+„Senior-Schwester! Ich habe bezahlt!“
+
+5–10s
+
+[Senior-Schwester]
+
+„Sie hat eine Eintrittsmarke.“
+
+[Gärtner]
+
+„Das bezahlte Geld ist DAFÜR, gejagt zu werden!“
+
+10–15s
+
+[Senior-Schwester]
+
+„Dann kaufe ich die Rolle der Fängerin.“
+
+[Senior-Schwester]
+„Fangt den Dieb!“
+
+2. Anforderungen an die Dialogumsetzung
+
+Dialog natürlich
+
+Aussprache präzise
+
+Artikulation klar
+
+Stimme der Figuren stabil
+
+Alle Figuren bewegen synchron zum Text die Lippen
+Keinen erklärenden Erzähler hinzufügen
+
+3. Wichtige Soundeffekte
+
+Erste Einstellung
+
+Gong wird zum ersten Mal geschlagen
+
+Real, laut.
+
+Junior-Schwester bleibt abrupt stehen
+
+Klare Schritte.
+
+Zuckerrohr berührt Stoff
+
+Leichtes, natürliches Reibungsgeräusch.
+
+Zweite Einstellung
+
+Natürliches Umgebungsrauschen beibehalten.
+
+Dialog der Figuren klar.
+
+Dritte Einstellung
+
+Münze fällt in die Schale
+
+Klares Geräusch der Kupfermünze, die auf die Holzschale trifft.
+
+Gong-Übergabe
+
+Leichtes metallisches Kontaktgeräusch.
+Senior-Schwester schlägt den Gong zum zweiten Mal
+
+Klar und laut.
+
+Finale Jagd
+
+Natürliche Laufgeräusche.
+
+Lachen der Junior-Schwester
+
+Echtes, natürliches Lachen.
+
+4. Hintergrundmusik
+Hintergrundmusik:
+Beschwingt, aber zurückhaltend.
+Musik-Bedingungen
+
+Darf Folgendes nicht übertönen:
+
+Dialog
+
+Gong-Geräusche
+
+Münze, die in die Schale fällt
+
+Wichtige Schritte
+
+Verboten
+Keine eingespielten Lacher (Canned Laughter) verwenden.
+
+XII. CONTINUITY | Kontinuität von Figuren, Requisiten und Umgebung
+
+1. Figuren-Assets
+
+@Image1 | Senior-Schwester
+
+Muss beibehalten werden:
+
+Gesicht
+
+Frisur
+
+Alterswahrnehmung
+
+Körperproportionen
+
+Weißes, besticktes Seiden-Hanfu
+
+Silbernes Langschwert
+
+@Image2 | Junior-Schwester
+
+Muss beibehalten werden:
+
+Gesicht
+
+Frisur
+
+Alterswahrnehmung
+
+Körperproportionen
+
+Blaugrünes Leinen-Hanfu
+
+Dunkles Stahlschwert
+
+Gärtner
+Trägt durchgehend dieselbe einfache Bauernkleidung.
+Räumliche Beziehung
+Positionen und Bewegungswege der drei Figuren sind klar und durchgehend.
+
+2. Kontinuität der Requisiten-Zustände
+Zuckerrohr
+
+Die Junior-Schwester hält vom ersten Bild an dasselbe Zuckerrohr.
+
+Hölzerne Eintrittsmarke
+
+Hängt vom ersten Bild an der Taille der Junior-Schwester.
+
+Bronzegong
+
+Ursprünglicher Besitzer:
+
+Gärtner.
+
+Drittes Bild:
+
+Der alte Mann übergibt ihn aktiv der Senior-Schwester.
+
+Nach Abschluss der Übergabe:
+
+Die Senior-Schwester kann den Gong schlagen.
+
+Kupfermünze
+
+Muss wirklich in die Holzschale fallen.
+
+Verboten
+
+Keine zusätzlichen Requisiten, die aus dem Nichts auftauchen.
+
+3. Szenenkontinuität
+
+Alle Szenen übernehmen strikt die in dieser Runde hochgeladenen Hintergrund- und Standortreferenzen.
+
+Darf nicht verändert werden
+
+Ursprüngliches wichtiges Gelände
+
+Gebäudebeziehungen
+
+Gebäudegröße
+
+Wetter
+
+Hauptrichtung des Lichts
+
+Erlaubt
+
+Änderungen des Kamerawinkels
+
+Orientierungspunkte im Hintergrund, die mit der Kameraposition natürlich ins Bild kommen oder es verlassen
+
+Verboten
+
+Plötzlicher Wechsel von einer Szene zu einem unbekannten Ort.
+
+4. Durchgehende natürliche Umgebungsbewegung
+
+Immer beibehalten:
+
+Natürlicher Wind
+
+Gewässer
+
+Wolken/Nebel
+Vegetation
+Reflexionen
+Aktivitäten in der Ferne
+
+Umgebungsprinzip
+
+Der Hintergrund bleibt lebendig, verändert aber nicht aktiv die Kausalität der Geschichte.
+
+XIII. SEEDANCE 2.0 MINI | Finale Ausführungsanforderungen
+
+Grundlegende Spezifikationen
+
+Gesamtdauer: Exakt 15 Sekunden
+Seitenverhältnis: 16:9
+Modell: Seedance 2.0 Mini
+Bildschirmtyp: Kinorealistische, antike Xianxia-Komödie
+Anzahl der Einstellungen: 3 Haupteinstellungen
+
+Figurenkonfiguration
+
+Hauptakteure
+
+Zwei bestätigte erwachsene ostasiatische Frauen.
+Wichtige Nebenrolle
+Ein alter Gärtner.
+Handlungsraum
+Derselbe reale Ort, der durch die Referenzbilder bestimmt wird.
+Anforderungen an die Action
+
+Physikalisch plausibel
+
+Jagdrichtung klar
+
+Interaktionen der Figuren glaubwürdig
+Jagdprozess auf einen Blick verständlich
+Darstellung der Figuren
+Gesichtsausdrücke natürlich
+Identitäten der Figuren stabil
+Lippensynchronisation der Dialoge präzise
+
+Ton
+
+Klangraum durchgehend.
+
+Verbotene zusätzliche Inhalte
+
+Keine Untertitel
+
+Keine modernen Objekte
+
+Kein zusätzlicher Erzähler
+
+Keine irrelevanten Figuren
+
+Keine irrelevanten Handlungsstränge
+
+Keine Requisitenduplikation aus dem Nichts
+
+Keine plötzlichen Szenenwechsel
+
+XIV. FINAL ACCEPTANCE | Kriterien für die Endabnahme
+
+0–3s | Erste Wahrnehmungsebene
+
+Zuschauer denken:
+
+Die Junior-Schwester hat wirklich Zuckerrohr geklaut und wurde erwischt.
+
+Muss vorkommen
+
+Junior-Schwester hält Zuckerrohr
+
+Alter Mann schlägt Gong und jagt sie
+
+Erschrockene Junior-Schwester
+
+Leicht wachsamer Senior-Schwester
+
+3–10s | Zweite Wahrnehmungsebene
+
+Zuschauer verstehen:
+
+Das ist ein bezahltes, freiwilliges Spaß-Erntespiel.
+
+Muss vorkommen
+
+Hölzerne Eintrittsmarke der Junior-Schwester
+
+Senior-Schwester weist auf die Marke hin
+
+Alter Mann erklärt die Zahlungsregeln
+Senior-Schwester bemerkt den Gong
+
+10–15s | Finaler Handlungs-Twist
+Zuschauer sehen:
+Die sonst so würdevolle Senior-Schwester kauft aktiv die Rolle der Fängerin.
+
+Muss vorkommen
+
+Senior-Schwester wirft Kupfermünze ein.
+Senior-Schwester schlägt vor, die Fänger-Rolle zu kaufen.
+
+Alter Mann übergibt aktiv Gong und Schlägel.
+
+Senior-Schwester empfängt den Gong.
+
+Senior-Schwester schlägt den Gong.
+
+Senior-Schwester ruft „Fangt den Dieb!“
+
+Alter Mann dreht sich aktiv um und flieht.
+
+Senior-Schwester jagt ihn tatsächlich den Weg entlang.
+Junior-Schwester lacht natürlich, während sie das Zuckerrohr hält.
+Finaler Bildaufbau
+Vordergrund:
+Junior-Schwester hält Zuckerrohr und lacht natürlich laut los.
+Mittelgrund:
+
+Senior-Schwester im weißen Gewand hält den Gong und jagt den Gärtner.
+
+Hintergrund:
+
+Gärtner rennt lachend den ursprünglichen Weg entlang davon.
+
+Finaler komödiantischer Effekt
+
+Die Jäger wurden zu Gejagten, und die Gejagten wurden zu Zuschauern.
+
+Das Ende landet direkt auf:
+Lachen der Junior-Schwester + durchgehende Aktion der Senior-Schwester, die den alten Mann jagt.
+Keine Figur darf den Witz für das Publikum zusammenfassen.
+
+XV. NEGATIVE PROMPT
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119294727413710848/img/706TmLLKzJEUvGA3.jpg" width="600" alt="Heute fange ich dich: Zuckerrohr-Jagd-Komödie">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13660)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2119295677381652893) | **Veröffentlicht:** Nov 8, 2026
+
+---
+### Missverstandenes Geburtstagsgeschenk: Xianxia-Komödienkurzfilm
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein umfassender Prompt für Seedance 2.0 Mini zur Generierung eines 15-sekündigen Live-Action-Xianxia-Kurzfilms mit komödiantischem Einschlag. Er enthält detaillierte Vorgaben zu Charakterkonsistenz, räumlicher Kontinuität, Requisitenmanagement und einer dreiteiligen Erzählstruktur, in der ein Meister die geheimen Geburtstagsvorbereitungen seiner Schüler missversteht.
+
+#### 📝 Prompt
+
+```
+Der Meister kommt, handelt jetzt.
+Prompt:
+„Das missverstandene Geburtstagsgeschenk" | Vollständiger chinesischer Prompt für Seedance 2.0 Mini
+
+I. Projektübersicht
+Erstelle einen 15 Sekunden langen Kurzfilm im Querformat (16:9) in Kinoqualität als Live-Action-Xianxia-Komödie mit unerwarteter Wendung, optimiert für Seedance 2.0 Mini.
+
+Allgemeine Stilvorgaben:
+Reine alte chinesische Xianxia-Welt
+Echte erwachsene ostasiatische Schauspieler
+Klassische Kostüme
+Natürliche Beleuchtung in Kinoqualität
+Realistische Hauttextur
+Feine Filmkorn-Qualität
+Zurückhaltendes und dennoch ausdrucksstarkes Schauspiel der Figuren
+Absorption von Comedy-Sprachelementen:
+Klare räumliche Inszenierung wie in klassischen Stummfilmen
+Zurückhaltende Reaktionen wie in britischen Sitcoms
+Natürlicher Humor, der aus den Missverständnissen der Figuren in chinesischen Komödien entsteht
+Imitiere keine konkreten Einstellungen oder Dialoge bestimmter Werke, sondern übernehme lediglich deren funktionierende komödiantische Mechanismen und integriere sie in die eigene Geschichte dieses Films.
+
+II. Kernhandlung
+Die Kernhandlung dieser Runde lautet wie folgt:
+
+Zwei Schwert-Unsterbliche bereiten heimlich ein Geburtstagsgeschenk für ihren Meister vor.
+Der Meister hört, wie sie geheimnisvoll „handelt jetzt" sagen, und glaubt fälschlicherweise, sie schmieden finstere Pläne.
+Er taucht früher auf, um sie zur Rede zu stellen, und entdeckt dabei versehentlich die für ihn gedachte Geburtstagsüberraschung.
+Um die Absichten seiner Schülerinnen zu würdigen, bittet er aktiv darum, „noch einmal von vorn anzufangen", und tut so, als würde er das Geschenk zum ersten Mal sehen.
+Die wahre komödiantische Wendung
+Die Person, die normalerweise am feierlichsten und autoritärsten ist,
+spielt bewusst eine extrem unbeholfene Rolle, um die Überraschung ihrer Schülerinnen nicht zu verderben.
+Hier liegt auch der emotionale Ankerpunkt des Films:
+Der Meister will nicht sein Gesicht wahren, sondern die aufrichtigen Herzen seiner beiden Schülerinnen beschützen, die eine Überraschung für ihn vorbereitet haben.
+Alle drei nehmen ihre jeweiligen Ziele ernst;
+der Humor entsteht nicht durch absichtliche Dummheit.
+
+III. Figuren-Lock
+
+Rolle A | Ältere Schwert-Unsterbliche Schwester | @Image1
+Stets dieselbe festgelegte erwachsene ostasiatische weibliche Figur.
+Streng vom Referenzbild übernehmen:
+Gesichtsidentität
+Gesichtsform
+Proportionen der Gesichtszüge
+Hauttextur
+Körperbau
+Frisur
+Konsistenz von Kostüm und persönlichen Gegenständen:
+Dasselbe weiße, bestickte Seiden-Xianxia-Gewand
+Silberner Gürtel
+Weißer Jade-Haarpin
+Langes schwarzes Haar, halb hochgebunden
+Dasselbe silberne Langschwert
+Charaktertemperament:
+Elegant und rein
+Gewohnt, die Autorität der älteren Schwester aufrechtzuerhalten
+Hauptorganisatorin dieser Geburtstagsüberraschung
+Schauspielerische Anforderungen:
+Erste Hälfte: Die Überraschung ernsthaft und zurückhaltend organisieren
+Beim Entdecken des plötzlichen Auftauchens des Meisters kurz die Fassung verlieren
+Ende: Kann sich während der unbeholfenen Vorstellung des Meisters ein Lächeln nicht verkneifen
+
+Rolle B | Jüngere Schwester | @Image2
+Stets dieselbe festgelegte erwachsene ostasiatische weibliche Figur.
+Streng vom Referenzbild übernehmen:
+Gesichtsidentität
+Körperbau
+Hautfarbe
+Frisur
+Kleidung
+Konsistenz von Kostüm und persönlichen Gegenständen:
+Dasselbe grüne Gewand im antiken Stil
+Dunkler Gürtel
+Schwarzes geflochtenes langes Haar
+Dasselbe dunkle Stahlschwert
+Persönlichkeit:
+Behände
+Schlagfertig
+Emotional ausdrucksstärker als die ältere Schwester
+Aufgabe:
+Verantwortlich für die Aufbewahrung des Geburtstagsgeschenks für den Meister
+Schauspielerische Anforderungen:
+Erste Hälfte: Das Geschenk sorgfältig bewachen
+Mitte: Das Geschenk aktiv enthüllen und so das Missverständnis auflösen
+Ende: Die direkteste und natürlichste Reaktion auf die unbeholfene Vorstellung des Meisters zeigen
+
+Rolle C | Meister
+Ein älterer ostasiatischer Mann.
+Grau-weißes Haar ordentlich hochgebunden, trägt ein realistisch texturiertes, dezent gefärbtes antikes Gewand.
+Figurenkonzept:
+Identität als Lehrer der beiden
+Normalerweise autoritär und besonnen
+Liebt seine beiden Schülerinnen in Wahrheit zutiefst
+Schauspielerische Anforderungen:
+Erste Hälfte: Muss wirklich die Ausstrahlung eines Xianxia-Ältesten besitzen
+Mitte: Eine Mischung aus Überraschung, Rührung und leichter Verlegenheit zeigen, nachdem ihm klar wird, dass er die Überraschung verdorben hat
+Ende: Der komödiantische Effekt entsteht dadurch, dass er seine Autorität bewusst ablegt und absichtlich noch einmal spielt
+Kein übertriebenes Herumalbern
+Die Darstellung des „Überrascht-Tuns" muss deutlich machen, dass die Figur absichtlich schauspielert – der gesamte Film darf dadurch nicht ins Alberne abgleiten
+
+IV. Aktueller Schauplatz und räumliche Kontinuität
+Alle in dieser Runde hochgeladenen Hintergrund- und Standort-Referenzbilder sind die reale physische Welt dieses Kurzfilms, nicht nur künstlerische Inspiration.
+Prinzip der Umgebungsetablierung
+Extrahiere zunächst 3–6 der markantesten Umgebungsanker direkt aus den Referenzbildern, z. B.:
+Tatsächliche architektonische Beziehungen
+Gelände
+Durchgänge
+Plattformen
+Vegetation
+Gewässer
+Markante Materialien
+Wetter
+Lichtrichtung
+Es muss streng dem Inhalt gefolgt werden, der in den Referenzbildern dieser Runde tatsächlich dargestellt ist.
+Wichtige Einschränkungen
+Bergtore, Paläste, Bambuswälder etc. aus früheren Runden dürfen nicht willkürlich übernommen werden.
+Die Handlung muss innerhalb des Raums abgeschlossen werden, der durch die Referenzbilder dieser Runde vorgegeben ist
+Wähle einen realen Bereich, in dem drei Personen verweilen, sprechen und gehen können
+Anfangspositionen der Figuren
+Die ältere und die jüngere Schwester stehen eng beieinander
+Der Meister befindet sich anfangs einige Schritte hinter ihnen
+Der Meister nähert sich natürlich entlang des etablierten Pfades
+Wenn die Kamera ihre Position ändert, müssen die relativen Positionen und Bewegungsrichtungen der drei Personen kontinuierlich bleiben
+
+V. Kern-Requisiten
+Nur ein einziges Geburtstagsgeschenk:
+Requisiten-Konzept
+Kleines Bambustablett
+Mit einem roten Tuch bedeckt
+Unter dem roten Tuch verbirgt sich ein einzigartiges, handgemachtes Gebäck in Form einer Langlebigkeits-Pfirsich
+Das Gebäck hat eine natürlich helle Farbe
+Leichter Rosastich auf der Oberseite
+Realistische Teigtextur
+Angemessene Größe, passend, um es mit beiden Händen zu halten
+Kontinuitätsanforderung
+Diese Requisite muss in allen drei Einstellungen stets derselbe Gegenstand sein:
+Keine Vervielfältigung erlaubt
+Kein plötzliches Verschwinden erlaubt
+Keine Formveränderung erlaubt
+Kein plötzliches Auftauchen an anderer Stelle erlaubt
+Besitz der Requisite
+In den vorderen/mittleren Abschnitten immer von der jüngeren Schwester gehalten
+Am Ende dem Meister mit beiden Händen überreicht
+Das rote Tuch bedeckt das Tablett nach dem Enthüllen im mittleren Abschnitt nicht wieder von selbst
+
+VI. Natürliche Umweltdynamik
+Tatsächliche Elemente an den Referenzschauplätzen:
+Wind
+Gewässer
+Bäume
+Gras
+Bergnebel
+Wolken
+Reflexionen
+Entfernte Figuren
+können sich natürlich und physikalisch korrekt bewegen.
+Kleidung und Haare der Figuren sollten sich natürlich mit den Körperbewegungen und dem tatsächlichen Wind verändern.
+Erzählregeln
+Alle Hintergrunddynamiken bleiben erzählerisch neutral:
+Die Geburtstagsüberraschung wird von den Figuren vorbereitet
+Das Missverständnis entsteht dadurch, dass der Meister den Dialog hört
+Die Wendung wird durch aktive Handlungen der Figuren vollendet
+Die Umgebung darf keine Zufälle für die Handlung erzeugen.
+
+VII. Segmentierte Erzählung und Einstellungsdesign
+
+0–5 s | Aufbau der Handlung: Ein „Handelt jetzt" erzeugt das Missverständnis
+Funktion der Einstellung
+Totale etabliert den Raum
+Erzeugt einen Informationsvorsprung des Publikums gegenüber dem Meister
+Visuelle Anforderungen
+Beginne mit einem Breitbild-Panorama unter natürlichem Tageslicht in Kinoqualität.
+Die Kamera bleibt ruhig, damit das Publikum die echten räumlichen Ebenen des Referenzschauplatzes erkennen kann.
+Dieselbe weiß gekleidete ältere Schwester und die grün gekleidete jüngere Schwester stehen an der Hauptposition.
+Sie stehen eng beieinander.
+Die jüngere Schwester hält das mit einem roten Tuch bedeckte Bambustablett vorsichtig auf Taillenhöhe.
+Die ältere Schwester beugt sich leicht näher heran und flüstert:
+Ältere Schwester:
+„Der Meister kommt, handelt jetzt."
+Die jüngere Schwester nickt sehr ernst.
+Sie bewacht das Bambustablett sorgfältig, als würde sie einen äußerst wichtigen Plan ausführen.
+Auftritt des Meisters
+Hinter ihnen geht derselbe ältere Meister natürlich den bereits etablierten Pfad entlang.
+Er hört zufällig die Worte der älteren Schwester.
+Seine Schritte stoppen plötzlich.
+In seinem ursprünglich ruhigen Blick zeigt sich leichte Verwirrung.
+Der Meister sieht zuerst die ältere Schwester an.
+Dann die jüngere Schwester.
+Schließlich das geheimnisvolle, mit einem roten Tuch bedeckte Tablett in den Armen der jüngeren Schwester.
+Die Kamera wechselt nicht hastig die Schnitte.
+Eine kurze visuelle Pause vollständig beibehalten.
+Erzählerischer Effekt
+Das Publikum weiß:
+Die beiden Frauen planen tatsächlich heimlich etwas
+Aber noch nicht, was
+Der Meister beginnt zu vermuten:
+Treiben sie etwas hinter meinem Rücken?
+
+5–10 s | Auflösung des Missverständnisses: Es war ein Geburtstagsgeschenk
+Funktion der Einstellung
+Halbnahe Drei-Personen-Einstellung
+Vollständige kognitive Wendung durch klare Enthüllung der Requisite
+Visuelle Anforderungen
+Schnitt auf eine klare Halbnahe mit drei Personen.
+Derselbe Meister tritt über den zuvor etablierten Pfad vor die beiden Frauen.
+Er wird weder wütend noch schreit er laut.
+Er bewahrt einfach die Autorität eines echten Sektenältesten und fragt mit tiefer Stimme:
+Meister:
+„Was habt ihr vor?"
+Die ältere und die jüngere Schwester drehen sofort die Köpfe.
+Die jüngere Schwester ist leicht erschrocken.
+Im ursprünglich eleganten Ausdruck der älteren Schwester zeigt sich kurz etwas Unnatürliches.
+Sie werfen sich schnell einen Blick zu.
+Dann ziehen sie weder Schwerter noch machen sie gefährliche Bewegungen.
+Die jüngere Schwester streckt direkt die Hand aus und hebt ganz natürlich das einzelne rote Tuch vom Tablett.
+Dasselbe Geburtstagsgebäck in Pfirsichform erscheint deutlich im Bild.
+Die beiden Schwert-Unsterblichen lächeln gleichzeitig und sagen gemeinsam:
+Ältere & jüngere Schwester:
+„Alles Gute zum Geburtstag, Meister!"
+Reaktion des Meisters
+Die Kamera hält die Beziehung zwischen den drei Personen klar erkennbar.
+Der ursprünglich ernste Gesichtsausdruck des Meisters erstarrt augenblicklich.
+Er blickt hinunter auf den Langlebigkeits-Pfirsich.
+Dann blickt er hinauf zu seinen beiden lächelnden Schülerinnen, die ihn ansehen.
+Er begreift endlich:
+Seine Schülerinnen haben heimlich eine Geburtstagsüberraschung für ihn vorbereitet
+Und seine Befragung hat die Überraschung gerade vorzeitig verdorben
+In den Augen des Meisters zeigt sich eine Mischung aus Überraschung, Rührung und leichter Verlegenheit.
+Für diesen Erkenntnisprozess eine deutliche Pause lassen.
+Der Hintergrund bleibt natürlich lebendig, greift aber in keiner Weise in die Wendung ein.
+
+10–15 s | Wendung und Wiederherstellung: Der Meister bittet, noch einmal von vorn anzufangen
+Funktion der Einstellung
+Nahaufnahme der Figur
+Aktives Nachspielen
+Der Kontrast zwischen echter Emotion und gespielter Darstellung vollendet den komödiantischen Abschluss
+Visuelle Anforderungen
+Schnitt auf eine Nahaufnahme des Meisters.
+Dem Meister fällt plötzlich eine Lösung ein.
+Er hebt sanft eine Hand und sagt ernst:
+Meister:
+„Wartet, fangen wir noch einmal von vorn an."
+Die ältere und die jüngere Schwester sind verblüfft.
+Derselbe Meister dreht sich aktiv um,
+geht zwei Schritte denselben Weg zurück, den er gekommen ist.
+Richtet leicht seine Ärmel.
+Dreht dann seinen Körper wieder um.
+Diesmal legt er sich absichtlich einen Gesichtsausdruck zu, als wüsste er absolut nichts von alledem.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119270985451102209/img/iU-nVG6UFqoc2Dcc.jpg" width="600" alt="Missverstandenes Geburtstagsgeschenk: Xianxia-Komödienkurzfilm">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13657)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2119271742443327736) | **Veröffentlicht:** Nov 8, 2026
+
+---
+### Halber Takt: Xianxia-Schwertduell-Actionsequenz
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detailliertes Choreografie-Prompt für Seedance 2.0 Mini, das einen 15-sekündigen, spannungsgeladenen Schwertkampf zwischen zwei Schülern und zwei Gegnern auf einem himmlischen Palast-Himmelsweg zeigt. Der Fokus liegt auf rhythmischen Kampfmechaniken, räumlicher Kontinuität und realistischer Physik.
+
+#### 📝 Prompt
+
+```
+Warte nicht auf sie
+prompt
+„Halber Takt“ | Seedance 2.0 Mini – Vollständiger chinesischer Prompt
+I. Projektübersicht
+Erstelle einen 15 Sekunden langen, realistischen Kurzfilm im Kinoformat (16:9 Querformat) als reine chinesische Xianxia-Action in Realfilm-Qualität.
+Modell: Seedance 2.0 Mini
+Allgemeine Stilvorgaben:
+
+Echte ostasiatische Darsteller im Erwachsenenalter
+Natürliches Tageslicht wie im Kinofilm
+Klar erkennbare Hautdetails
+Realistische Seiden- und Metalltexturen
+Feines Filmkorn
+Hochspannungsgeladener Schwertkampf
+Fließende Kameraführung mit klaren räumlichen Bezügen
+Vorgaben für die Action:
+Bewegungen müssen flüssig sein, Aufpralle dürfen jedoch nicht weich wirken
+Alle Aktionen müssen klar erkennbar sein: Einleitung
+Beschleunigung
+Waffenkontakt
+Kraftübertragung
+Verlagerung des Schwerpunkts
+Fortführung der Trägheit
+Rückkehr in die Ausgangsposition
+
+Zentrales Action-Motiv dieser Runde:
+„Halber Takt“
+Zwei feindliche Schwertkämpfer nutzen bewusst versetzte Angriffsrhythmen.
+Sie greifen niemals gleichzeitig an; stattdessen folgt der zweite Feind sofort mit einem Angriff, sobald der erste Angriff gerade abgewehrt wurde und der Protagonist seinen Schwertweg noch nicht vollständig zurückgeführt hat.
+Die beiden Protagonistinnen werden dadurch gezwungen, sich stets einen halben Takt zu spät zu verteidigen.
+Die Feinde wiederholen ihre Abläufe nicht mechanisch.
+Sobald die beiden Protagonistinnen den Rhythmus durchschauen, verändern die Feinde aktiv ihr Timing, um die Oberhand zurückzugewinnen.
+Die eigentliche Wende dieser gesamten Sequenz entsteht dadurch:
+Die ältere und die jüngere Schwester hören auf, auf den nächsten Schwerthieb des Gegners zu warten, und bestimmen selbst aktiv, wann das nächste Aufeinandertreffen stattfindet.
+Dargestellt durch:
+Körperhaltung
+Beinarbeit
+Distanz
+Waffenführung
+Angriffs-Verteidigungs-Dynamik
+um den Wechsel der Initiative auszudrücken.
+
+Keine komplizierten Erklärungen nötig.
+Kein Rückgriff auf zufällige Magie.
+Emotionales Kernthema der Figuren:
+
+Wer immer darauf wartet, dass andere zuerst handeln, ist stets einen Schritt zu spät dran.
+
+II. Feste Charakterbindung
+
+Rolle A | Ältere Schwert-Unsterbliche (Senior Sister) | @Image1
+Immer exakt dieselbe Figur wie in @Image1:
+25–30 Jahre alte ostasiatische Frau im Erwachsenenalter
+Dasselbe unverwechselbare Gesicht
+Ovales Gesicht
+Dunkle mandelförmige Augen
+Langes schwarzes Haar, halb hochgesteckt
+
+Haarnadel aus weißer Jade
+Große, schlanke Statur
+
+Weißes besticktes Seiden-Hanfu
+
+Halbtransparente, geschichtete weite Ärmel
+Silberner Taillengürtel
+Jade-Anhänger
+Weiße Stoffstiefel
+Einzigartiges silbernes gerades Schwert
+Die Figur muss durchgehend beibehalten:
+Konsistente Gesichtsidentität
+Konsistente Frisur
+Konsistente Kleidung
+Konsistente Körperproportionen
+Konsistent getragenes Schwert
+Rolle B | Jüngere Schwester (Junior Sister) | @Image2
+Immer exakt dieselbe Figur wie in @Image2:
+20–25 Jahre alte ostasiatische Frau im Erwachsenenalter
+Dasselbe unverwechselbare Gesicht
+Runde, agile Gesichtszüge
+Schwarzes geflochtenes Haar
+Zierliche Statur
+Grünes Leinen-Hanfu
+Dunkler Gürtel
+Holzhaarnadel
+Schwarze Stoffschuhe
+Einzigartiges dunkles Stahlschwert
+Die Figur muss durchgehend beibehalten:
+Konsistente Gesichtsidentität
+Konsistente Frisur
+Konsistente Kleidung
+Konsistente Körperproportionen
+Konsistent getragenes Schwert
+Zwei feindliche Schwertkämpfer
+Beide Feinde sind funktionale Nebenrollen:
+Tragen gewöhnliche dunkle antike Kriegerkleidung
+Jeder trägt ein Stahlschwert
+Kontinuität von Positionierung, Waffenbesitz und Angriffs-/Verteidigungslogik innerhalb der Einstellungen sicherstellen
+Keine komplexe Gesichtssperre (Face Lock) erforderlich
+III. Szenenidentität und dynamische Umgebung
+Alle in dieser Runde neu hochgeladenen Referenzbilder für Hintergründe und Schauplätze sind als tatsächliche physische Welt des Videos zu behandeln, nicht nur als visuelle Inspiration.
+Identifizierbare Elemente aus den Referenzbildern müssen durchgehend erhalten bleiben:
+Reales Gelände
+Architektonische Hauptbeziehungen
+Größenverhältnisse
+Materialien
+Gewässer
+Wetter
+Wolken/Nebel
+Hauptlichtrichtung
+Reflexionen
+Horizontlinie
+Gesamte Farbatmosphäre
+
+Lufttiefe
+Die Kernidentität des Schauplatzes dieser Runde muss aus folgenden Elementen bestehen:
+Extrem lange, hellweiße kaiserliche Straße in großer Höhe entlang der Mittelachse
+Makro-Gefälle, gebildet durch riesige Wasserfälle und ein Wolkenmeer auf beiden Seiten der kaiserlichen Straße
+Traditionelle Palastarchitektur der Unsterblichen in monumentalem Maßstab
+Geschichtete, freitragende Megastrukturen aus dunklem Holz auf der linken Bildseite
+Massive, dichte antike Stadt unterhalb der Wolkenschicht
+Riesige kreisförmige Ringstruktur am fernen Ende der Mittelachse der kaiserlichen Straße
+Tageslicht, bestehend aus hellem, kühlem Weißgrau, lokalem blasswarmem Gold und weichem milchig-weißem Luftnebel
+Anforderungen an die räumliche Kontinuität
+Der Film muss durchgehend dieselbe Schauplatzidentität bewahren.
+Die Kamera darf sich natürlich innerhalb des aktuellen Schauplatzes bewegen.
+Wichtige Orientierungspunkte dürfen je nach Kameraposition natürlich ins Bild eintreten oder es verlassen, Folgendes darf jedoch nicht zurückgesetzt werden:
+Relative Gebäudepositionen
+Monumentale Größenverhältnisse
+Hauptlichtrichtung
+Räumliche Logik der gesamten Szene
+Anforderungen an die Umweltdynamik
+Natürlicher Wind in großer Höhe bewegt kontinuierlich Haare und Seidenkleidung
+Riesige Wasserfälle stürzen durchgehend realistisch herab
+Wolken/Nebel in unterschiedlichen Entfernungen treiben natürlich dahin
+Entfernte gewöhnliche Figuren, Reflexionen und Umgebungsgeräusche behalten natürliche Mikrobewegungen bei
+Vordergrund, Mittelgrund und Hintergrund bilden eine echte Parallaxe
+Erzählregeln
+
+Die Umgebung verhält sich erzählerisch standardmäßig neutral.
+Wind, Wasser, Wasserfälle, Wolken/Nebel und Gebäude lösen den Kampf nicht aktiv aus, beenden ihn nicht und verändern ihn nicht.
+Nur wenn Figuren auftreten, zusammenstoßen oder Waffen sich berühren, entstehen:
+Feiner Staub
+Reibung der Schuhsohlen
+Verrutschen der Kleidung
+Geringfügige lokale Aufprallspuren
+Alle Bewegungen der Figuren müssen sich an die tatsächliche Breite und Tiefe der aktuellen kaiserlichen Straße anpassen.
+IV. Segmentierte Erzählung und Action-Design
+0–5 s | Hook: Jeder Schwerthieb einen halben Takt zu spät
+Einstellungsaufbau
+Kurze Verwendung einer 24-mm-Weitwinkelaufnahme zu Beginn.
+Originalelemente aus den Referenzbildern klar beibehalten:
+Riesige kaiserliche Straße
+Wasserfälle links/rechts
+Monumentale Architektur des Unsterblichen-Palastes
+
+Antike Stadt darunter
+Ferner riesiger Ring
+Helle Lufttiefe
+Dieselbe weiß gekleidete ältere Schwester und grün gekleidete jüngere Schwester stehen auf der kaiserlichen Straße zwei feindlichen Schwertkämpfern gegenüber.
+Die beiden Feinde sind entlang der Tiefe der kaiserlichen Straße leicht versetzt angeordnet, es wird keine neue breite Arena geschaffen, nur um es einfacher zu machen.
+Die Kamera geht natürlich in eine bewegte 35-mm-Medium-Wide-Einstellung über.
+Erster versetzter Angriff
+Der erste Feind beschleunigt plötzlich.
+Er schlägt sein Schwert heftig diagonal nach oben in Richtung der älteren Schwester.
+Die ältere Schwester hebt ihr silbernes gerades Schwert und fängt den Hieb mit einer kurzen, harten Parade ab.
+Klang!
+Das Schwert der älteren Schwester ist noch nicht vollständig in die nächste Verteidigungsposition zurückgekehrt,
+da tritt der zweite Feind bereits durch die entstandene Lücke vor und schlägt sofort diagonal von unten nach der jüngeren Schwester.
+
+Die jüngere Schwester wehrt kurz mit ihrem dunklen Stahlschwert ab.
+Doch der erste Feind greift sofort erneut an.
+Fokus auf den Rhythmus
+Die beiden Feinde erzeugen bewusst einen versetzten Rhythmus:
+Erstes Schwert leitet ein
+Zweites Schwert leicht verzögert
+Drittes Schwert baut sofort wieder Druck auf
+Die Aktionen der Protagonistinnen werden ständig vom nächsten Angriff unterbrochen, sodass sie nie wirklich die Initiative ergreifen können.
+Die Kamera führt nur notwendige kurze seitliche Schwenks aus und zeigt deutlich:
+
+Schwertbahnen
+Abstände zwischen den Figuren
+Räumliche Beziehungen der bestehenden kaiserlichen Straße
+Die jüngere Schwester erkennt das Problem zuerst
+
+Die jüngere Schwester versucht unmittelbar nach einer erfolgreichen Parade einen Gegenangriff.
+
+Doch der zweite Feind ändert aktiv seinen Angriffswinkel und zwingt sie, ihre Verteidigung neu auszurichten, bevor sie den Gegenangriff abschließen kann.
+
+Im letzten Moment weicht sie seitlich aus und entgeht dem Rückschlag.
+Der grüne weite Ärmel zuckt abrupt.
+Atemlos stößt sie hervor:
+
+Jüngere Schwester:
+„Sie sind uns immer einen Schritt voraus!“
+
+Die ältere Schwester pariert weiterhin das herannahende Langschwert und hat keine Zeit zu antworten.
+Die feindlichen Schwerter nähern sich dem Kameravordergrund und bilden einen natürlichen Schnitt durch Waffenverdeckung.
+5–10 s | Eskalation: Die Feinde ändern auch ihren eigenen Rhythmus
+Exakt dieselben Figuren, Kostüme, Waffen, geografischen Räume und dieselbe Umgebungsidentität beibehalten.
+Durchgehende bewegte Medium-Wide-Einstellung mit 35–40 mm verwenden.
+Die ältere Schwester beginnt, das Muster zu verstehen
+Die ältere Schwester hat das Muster der versetzten Hiebe der Feinde durchschaut.
+Sie ändert aktiv ihre Beinarbeit,
+gleitet einen halben Schritt diagonal außerhalb der Angriffslinie des ersten Feindes.
+
+Die Klinge des Gegners streift knapp an ihrem Oberkörper vorbei.
+Die ältere Schwester wartet nicht ab.
+Sie nutzt die neu entstandene Lücke sofort aus.
+Die Feinde ändern aktiv ihren Rhythmus
+Die Feinde wiederholen sich jedoch nicht mechanisch.
+Die beiden Schwertkämpfer bemerken, dass die ältere Schwester sich an den ursprünglichen Rhythmus anpasst, und passen ihr Angriffstiming sofort aktiv an.
+Der zweite Feind schlägt plötzlich früher zu als zuvor.
+
+Sein Stahlschwert schnellt direkt auf die vorrückende ältere Schwester zu.
+
+Die ältere Schwester muss augenblicklich die Bewegungsrichtung ihres silbernen geraden Schwertes ändern und dreht die Schulter, um dem unerwarteten Angriff zu begegnen.
+Heftiger Metallaufprall.
+
+Der Stoß überträgt sich spürbar auf:
+
+Schulter
+Arm
+
+Vorderen Fuß
+
+Der vordere Fuß der älteren Schwester rutscht leicht über die Steinoberfläche.
+Die jüngere Schwester wird erneut in die Defensive gedrängt
+Der erste Feind sieht, dass die ältere Schwester gebunden ist, wechselt sofort das Ziel und greift aktiv die jüngere Schwester an.
+Die jüngere Schwester fängt den Schlag mit einer kurzen Parade ab.
+Doch der Feind drückt mit echtem Körpergewicht weiter nach vorn und zwingt sie, einen halben Schritt zurückzuweichen.
+Beide Protagonistinnen stecken wieder in der Defensive fest.
+Kognitiver Wendepunkt
+
+Die jüngere Schwester erkennt:
+Sich den letzten Rhythmus des Feindes zu merken, bringt nichts.
+Denn die Feinde ändern ihn aktiv.
+
+In diesem Moment sagt die ältere Schwester plötzlich kurz:
+
+Ältere Schwester:
+„Warte nicht auf sie.“
+Die jüngere Schwester wirft der älteren Schwester einen extrem kurzen Blick zu.
+Die ältere Schwester geht bereits weiter auf ihren Gegner zu.
+Beide ändern gleichzeitig ihre Angriffsabsicht.
+
+Sie warten nicht länger darauf, dass die Feinde angreifen, um dann eine Verteidigung zu finden.
+Sie beginnen aktiv zu kontrollieren, welche Positionen die Feinde als Nächstes einnehmen können.
+
+Keine dramatischen Pausen.
+Keine synchronisierten Posen.
+
+10–15 s | Wende: Diesmal ziehen wir zuerst
+
+Denselben durchgehenden Schauplatz der kaiserlichen Straße und exakt dieselbe Umgebungsidentität beibehalten.
+
+Die Kamera weitet die Einstellung kurz auf, damit das Publikum die Positionen und Angriffsrichtungen aller vier Personen neu erfassen kann.
+
+Die ältere Schwester handelt zuerst
+Die beiden Feinde bereiten sich darauf vor, ihre versetzten Angriffe fortzusetzen.
+Doch diesmal, bevor der erste Feind seine Einleitung vollständig abgeschlossen hat, beschleunigt die ältere Schwester plötzlich aktiv.
+Sie schneidet direkt von außen an der Schwerthand des Feindes hinein.
+Sie greift nicht blind den Körper an.
+Stattdessen nutzt sie ihr silbernes gerades Schwert für einen kurzen, präzisen Zusammenstoß und drückt die Waffe des Feindes weiter nach außen.
+Gleichzeitig tritt sie vor und verkürzt aktiv die Distanz, die dem Feind für einen Angriff am vertrautesten ist.
+Der erste Feind versucht instinktiv, seine Klinge zur Mittellinie zurückzuziehen.
+Doch der Schwertkämpfer muss erst seine Linie wiederherstellen und kann vorerst keinen weiteren Angriff ausführen.
+
+Die jüngere Schwester handelt synchron zuerst
+Genau in diesem Moment hat auch die jüngere Schwester eigenständig ihren Sturmangriff auf den zweiten Feind beschleunigt.
+
+Der Feind greift gemäß seiner ursprünglichen Einschätzung an,
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119254834486595584/img/IinGPY7vyjirc_m8.jpg" width="600" alt="Halber Takt: Xianxia-Schwertduell-Actionsequenz">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13659)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2119254981123637638) | **Veröffentlicht:** Nov 8, 2026
+
+---
+### Cinematische Enthüllung des Horror-Sumpfmonsters
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt im Horrorthema, der ein Sumpfmonster zeigt, das aus dem Wasser steigt und ein Referenzbild nutzt.
+
+#### 📝 Prompt
+
+```
+Filmischer Horror, dunkler Sumpf bei Nacht, dichter Nebel, herabhängendes Moos, trübes Wasser. Zwei Männer in einem kleinen Holzboot rudern langsam durch den Sumpf. In der Nähe kräuselt sich das Wasser. Kameraschwenk auf herabhängende Lianen und entfernte Bäume. Harter Schnitt zurück: Das vieläugige, vieltentaklige Sumpfmonster erhebt sich triefend direkt vor dem Boot aus dem Wasser, Arme und Tentakel greifen danach, das Maul weit aufgerissen. Angespannte Atmosphäre, schwaches Licht, realistische Horrorästhetik,
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119224111079591936/img/AJtCN3buTDF1_iey.jpg" width="600" alt="Cinematische Enthüllung des Horror-Sumpfmonsters">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13654)**
+
+**Autor:** [@ScaleCheck](https://x.com/ScaleCheck) | **Quelle:** [Link](https://x.com/ScaleCheck/status/2119224144495509644) | **Veröffentlicht:** Nov 8, 2026
+
+---
+### Horror-Szene: Spinnenfrau
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Horror-Prompt mit einer Spinnenfrauen-Kreatur in einem dunklen Wald, der die Enthüllung der Verwandlung und die Verfolgungsjagd mit spezifischen Kameraperspektiven beschreibt.
+
+#### 📝 Prompt
+
+```
+Filmreifer Horror, angespannt und voller Suspense. Dunkler Wald bei Nacht, dicke Spinnennetze zwischen den Bäumen aufgespannt, Mondlicht fällt durch das Blätterdach. Eine verängstigte junge Frau in einem weißen Kleid steht allein auf einer von Netzen überzogenen Lichtung und spürt etwas hinter sich. Sie dreht sich langsam um. Hinter ihr steht reglos eine Spinnenfrau – die obere Hälfte eine bleiche Frau, die untere Hälfte der große, glänzend schwarze Körper einer Spinne. Ein plötzlicher Windstoß weht ihr langes schwarzes Haar zur Seite und gibt ihr Gesicht frei, das mit mehreren leuchtend roten Augen bedeckt ist, die sich alle gleichzeitig öffnen. Die Frau schreit auf und rennt panisch durch die Netze, während die Spinnenfrau beginnt, ihr zu folgen. Handkamera, leichte Schrägstellung (Dutch Angle), unheimliche Atmosphäre, detailreich, realistisch.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119215733842350080/img/qjkEQHCsF5NBUzWS.jpg" width="600" alt="Horror-Szene: Spinnenfrau">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13656)**
+
+**Autor:** [@ScaleCheck](https://x.com/ScaleCheck) | **Quelle:** [Link](https://x.com/ScaleCheck/status/2119220329570762887) | **Veröffentlicht:** Nov 8, 2026
+
+---
+### Seoul Sommer Heimvideo Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines realistischen, handgehaltenen Heimvideos einer jungen Koreanerin, die an einem Sommernachmittag durch ihre Nachbarschaft geht, mit Fokus auf natürliche Interaktionen und rohe Kameraästhetik.
+
+#### 📝 Prompt
+
+```
+Erstelle ein 30-sekündiges, ultrarealistisches persönliches Heimvideo in 1080p, das einen gewöhnlichen Sommernachmittag im Leben einer jungen Koreanerin zeigt. Kein Referenzbild.
+
+HAUPTPERSON
+Junge Koreanerin Anfang 20, von Natur aus hübsch, realistische Hautstruktur, kaum geschminkt, entspannte und selbstbewusste Ausstrahlung.
+Langes schwarzes Haar, locker zu einem unordentlichen Seitendutt zusammengebunden, mit ein paar losen Strähnen, die ihr ins Gesicht fallen. Sie trägt ein eng anliegendes, pastellblaues kurzes Oberteil, eine weite cremefarbene Schlafanzughose, schwarze Sneaker und eine schlichte Silberkette.
+Gesicht, Frisur, Kleidung, Körperproportionen und das gesamte Erscheinungsbild müssen während des gesamten Videos exakt gleich bleiben.
+
+KULISSE
+Ein ruhiges, älteres Wohnviertel in Seoul an einem warmen Sommernachmittag. Enge Betongassen, kleine Häuser, alte Mauern, Topfpflanzen, geparkte Fahrräder, Strommasten, Oberleitungen, Wäsche, die draußen zum Trocknen hängt, ein winziger Tante-Emma-Laden und Kinder, die auf der Straße Fußball spielen.
+Alles soll bewohnt, alltäglich und friedlich wirken. Keine Touristenattraktionen, Werbetafeln, erkennbaren Marken oder kommerziellen Aktivitäten.
+
+KAMERA / VISUELLE ÄSTHETIK
+Rohes, privates Videomaterial, das beiläufig von einem Freund mit einem handelsüblichen DV-Camcorder aus den frühen 2000er-Jahren aufgenommen wurde.
+Starkes Verwackeln durch Handkamera, unperfekter Bildausschnitt, pumpender Autofokus, Belichtungsschwankungen, gelegentliche Bewegungsunschärfe, verblasste Farben, weiche digitale Details, leichtes Rauschen, versehentliche Zooms und natürliche Kamerafehler.
+Keine Stabilisierung, keine Drohnenaufnahmen, keine Gimbal-Bewegungen, kein dramatisches Licht und keine polierte, kommerzielle Kinematografie.
+
+— VOR DEM HAUS
+Sie tritt nach draußen und trägt eine kleine wiederverwendbare Einkaufstasche.
+Sie schließt die Tür ab, richtet ihren unordentlichen Zopf und schenkt der Kamera ein entspanntes Lächeln.
+Sie beginnt, die enge Gasse des Viertels hinunterzugehen.
+Eine leichte Sommerbrise bewegt ihr Haar ganz natürlich.
+
+— BEGEGNUNG MIT DEN SCHULKINDERN
+Ein paar Schulkinder mit Rucksäcken kommen ihr aus der Gegenrichtung entgegen.
+Sie erkennt sie als Kinder aus dem Viertel.
+Sie lächelt, hebt die Hand und sagt:
+„Hey, seid ihr nicht spät dran?“
+Die Kinder lachen und gehen weiter in Richtung Schule.
+Ein Kind winkt ihr kurz zurück.
+Sie lacht und geht die Straße weiter hinunter.
+
+— FUSSBALLSPIELENDE KINDER
+Etwas weiter unten in der Gasse spielen mehrere Kinder aus der Nachbarschaft auf der Straße Fußball.
+Der Ball rollt auf sie zu und bleibt direkt vor ihren Füßen liegen.
+Sie blickt auf den Ball hinab.
+Dann schaut sie zu den Kindern.
+Ein Kind ruft:
+„Noona! Schieß ihn!“
+Sie lächelt.
+Sie stellt behutsam einen Fuß neben den Ball.
+Mit einem spielerischen Kick schießt sie den Fußball zu den Kindern zurück.
+Der Ball rollt sanft über den Beton auf sie zu.
+Die Kinder rennen ihm aufgeregt hinterher.
+Sie lacht und geht weiter.
+Nachdem sie den Ball weggeschossen hat, bleibt er bei den Kindern. Er verschwindet nicht, verdoppelt sich nicht und springt auch nicht plötzlich zu ihr zurück.
+
+— RUHIGER HEIMWEG
+Sie geht weiter bis zum Ende der Gasse.
+Sie kommt an einem kleinen Lebensmittelladen vorbei, dessen älterer Besitzer ihr freundlich zunickt. Sie hält kurz an, kauft eine Flasche Wasser und wechselt ein paar lockere Worte mit ihm. Das Gespräch ist alltäglich, aber herzlich – es geht um die Hitze, die Kinder aus dem Viertel und vielleicht darum, was es heute Abend zu essen gibt. Sie bedankt sich, nimmt das Wasser und geht weiter.
+Als sie die Ecke nahe ihrem Haus erreicht, dreht sie sich leicht zur Kamera und sagt leise:
+„Bis morgen.“
+Ihr Tonfall ist warm und vertraut, so als würde sie mit einer engen Freundin sprechen. Die Kamera verweilt noch einen Moment auf ihrem lächelnden Gesicht, bevor die Aufnahme abrupt abbricht – genau so, wie jemand mitten im Gespräch einfach aufhören würde zu filmen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118667825170763776/img/dO5twgeyjDBJ8ziW.jpg" width="600" alt="Seoul Sommer Heimvideo Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13658)**
+
+**Autor:** [ZDuo.MoreAi](https://x.com/lnxinshng252654) | **Quelle:** [Link](https://x.com/lnxinshng252654/status/2119120196896165930) | **Veröffentlicht:** Nov 7, 2026
+
+---
+### Realistischer Sci-Fi-Engel fällt in Ruinen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-Prompt zur Generierung einer cineastischen Szene eines weiß-mecha Engels, der in postapokalyptische Ruinen stürzt, umgeben von heiligen Federn und leuchtenden Kristallen.
+
+#### 📝 Prompt
+
+```
+Kernthema:
+ Realistische Sci-Fi-Choreografie, Sturz in die Ruinen, sich sammelnde heilige Federn, weißer Mecha-Engel, religiös anmutende Filmästhetik
+
+Charakterkonzept:
+ Verwendet ein Referenzgesicht bzw. eine Referenzfrisur und zeigt einen erschöpften Ausdruck mit leicht blutenden Lippen und unterdrücktem Schmerz.
+
+Schlüsselrequisite:
+ Die rechte Hand hält einen leuchtenden „Sacred Ring Crystal Core“, der hochfrequentes blauweißes Licht ausstrahlt.
+
+Ort & Umgebung:
+ Dach eines Gebäudes in einer postapokalyptischen Stadt, bewölkter Tag, andauernder Krieg, Meteore ziehen ihre Bahnen über einem graublauen Himmel voller Feuer und dichtem Rauch.
+
+Visueller Stil:
+ IMAX-Kinoästhetik (35-mm-Objektiv, Blende f/4), Filmkorn, Weichzeichnung sowie eine CG-Ästhetik, die organische und außerirdische Elemente verschmelzen lässt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119095592484024322/img/qHChbpgSy3MFDEQC.jpg" width="600" alt="Realistischer Sci-Fi-Engel fällt in Ruinen">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13652)**
+
+**Autor:** [Noshii AI ⚡](https://x.com/NoshiiAILab) | **Quelle:** [Link](https://x.com/NoshiiAILab/status/2119095636331024796) | **Veröffentlicht:** Nov 7, 2026
+
+---
+### Rosen-Epoxy-Boden im Schlafzimmer: Zeitraffer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erstellt einen Zeitraffer-Videoclip in schneller Bewegung, bei dem Tausende rote Rosen in Epoxidharz eingebettet sind, um einen glänzenden, romantischen Boden für das Schlafzimmer zu schaffen.
+
+#### 📝 Prompt
+
+```
+Ein Zeitraffer im Schnellvorlauf in einem leeren, modernen Raum mit weißen Wänden, poliertem Betonboden, eingelassenen Deckenstrahlern und einer großen Glasschiebetür mit Blick ins Grüne. Zwei Arbeiter in blauen Hemden tragen riesige Eimer voller roter Rosen herein, schütten sie in der Mitte aus und verteilen Tausende von Rosen und Blütenblättern zügig gleichmäßig auf dem gesamten Boden. Arbeiter in weißen Schutzanzügen und Atemschutzmasken gießen milchig-weißes flüssiges Epoxidharz über die Rosen und verteilen es mit Besen und Abziehschiebern, bis die Blumen vollständig bedeckt und flachgedrückt sind. Ein Team in grauen Uniformen bedient Rotations-Bodenpoliermaschinen und poliert die Oberfläche in kreisenden Bewegungen, bis das Harz zu einem glänzenden, spiegelglatten Boden aushärtet, in dem die roten Rosen dauerhaft unter einer kristallklaren Schicht eingebettet sind und das Licht reflektieren. Ein Arbeiter kniet nieder und poliert die Ränder von Hand, während die anderen stolz neben ihren Maschinen stehen. Die Szene geht dann in die Möblierung über: Arbeiter montieren ein beiges Polsterbettgestell, legen eine Bettdecke und Kissen mit rotem Rosenmuster darauf, stellen passende Nachttische mit Rosenlampen auf, hängen rote Rosenvorhänge sowie ein großes gerahmtes Gemälde mit roten Rosen über dem Kopfteil auf. Das finale cineastische Enthüllungsbild: ein atemberaubendes romantisches Schlafzimmer, dessen gesamter Boden ein glänzendes Kunstwerk aus roten Rosen in Epoxidharz ist, sanftes warmes Licht, Reflexionen, die auf dem Rosenboden schimmern, während die Kamera langsam über den fertigen luxuriösen Raum schwenkt. Fotorealistisch, hochdetailliert, fließende Zeitraffer-Übergänge, vertikales 9:16 -Format.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119093145803583488/img/RVcDP1x0WTmgT5aA.jpg" width="600" alt="Rosen-Epoxy-Boden im Schlafzimmer: Zeitraffer">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13650)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2119093181585179086) | **Veröffentlicht:** Nov 7, 2026
+
+---
+### Boden-Revamp mit Polka-Dot-Muster aus Flaschenverschlüssen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erstellen Sie ein befriedigendes Renovierungsvideo, das zeigt, wie bunte Flaschenverschlüsse in weißen Epoxidharz eingebettet werden, um einen gepunkteten Boden zu formen, der anschließend poliert und als minimalistisches Schlafzimmer eingerichtet wird.
+
+#### 📝 Prompt
+
+```
+Vertikales, befriedigendes Renovierungsvideo in einem hellen, leeren Raum mit weißen Wänden und einem sonnenbeschienenen Fenster. Ein Mann in einer Jeans-Latzhose verteilt mit einem Rechen einen riesigen Haufen aus Tausenden bunten Metall-Flaschendeckeln zu einer perfekt gleichmäßigen Schicht, die den gesamten Boden bedeckt; Nahaufnahmen zeigen ein dichtes Mosaik aus roten, blauen, gelben und grünen Deckeln. Eine Frau in einer roten Latzhose kippt einen großen Eimer und gießt dickflüssiges, cremeweißes selbstverlaufendes Epoxidharz darüber, das sanft über die Deckel fließt und sich setzt, sodass nur noch die bunten Oberseiten wie Polka Dots hindurchschimmern. Ein Arbeiter in einer gelben Warnweste führt eine rotierende Bodenschleifmaschine mit Saugschlauch über die ausgehärtete Fläche und poliert sie auf Hochglanz. Zwei Männer in Schwarz montieren auf dem neuen Boden ein helles Holz-Bettgestell, legen eine Matratze darauf, breiten eine frisch bezogene weiße Bettdecke aus, richten weiße Kissen an und treten dann zurück. Abschließende Beauty-Aufnahme des fertigen minimalistischen Schlafzimmers: glänzend weißer Boden, übersät mit leuchtenden Flaschendeckel-Punkten, weiches natürliches Tageslicht, fließende Kamerabewegungen, realistische Texturen und Details – im befriedigenden Timelapse-Stil eines ASMR-Makeovers.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119092279486902272/img/x5TsQKfbw0-y05qs.jpg" width="600" alt="Boden-Revamp mit Polka-Dot-Muster aus Flaschenverschlüssen">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13651)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2119092317059481917) | **Veröffentlicht:** Nov 7, 2026
+
+---
+### Glasperlen-Terrazzo-Bodenrenovierung Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung eines befriedigenden Zeitraffer-Videos, in dem Arbeiter einen Haufen türkisfarbener Glasperlen in einen polierten Terrazzoboden in einem modernen Raum verwandeln.
+
+#### 📝 Prompt
+
+```
+Eine feste Totale eines modernen Raumes mit schwarzen Wänden, einem großen Fenster mit Blick ins Grüne und einem Betonboden. Ein Arbeiter in orangefarbenem Overall harkt einen riesigen Berg glänzender türkisfarbener Glasmurmeln zusammen und verteilt den Haufen gleichmäßig auf dem Boden. Ein weiterer Arbeiter in rotem Overall gießt milchig-weißes Epoxidharz aus einem Eimer über die Murmeln, während der erste die Flüssigkeit mit einer Rakel verteilt; das Harz sickert zwischen die Kugeln und bedeckt den Boden von Rand zu Rand. Szenenwechsel: Arbeiter in gelben Warnwesten schleifen die ausgehärtete Oberfläche mit industriellen Schleifmaschinen und einem Sauger ab. Dabei treten kreisförmige Spiralmuster aus türkisfarbenen Murmelpunkten hervor, die sich aus dem weißen Terrazzo abheben. Sie polieren den Boden, bis er hochglänzend ist – eine glatte, spiegelnde Fläche, dicht gesprenkelt mit blaugrünen Glassteinchen. Eine Frau in Rot kniet nieder und wischt den strahlenden Boden von Hand nach. Schließlich tragen die Arbeiter ein Holz-Bettgestell herein, und im Nu verwandelt sich der Raum in ein Designer-Schlafzimmer: ein großes Polsterbett mit weißer und anthrazitfarbener Bettwäsche, ein schwarzer Nachttisch mit einer Messinglampe, ein Olivenbaum im Topf am Fenster – alles spiegelt sich im hochglänzenden, spiegelglatten türkisfarbenen Terrazzoboden. Transformation im Zeitraffer-Stil, befriedigende ASMR-Renovierungsästhetik, fotorealistisch, fließende Übergänge, vertikale Komposition.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119023453097373696/img/11m2UnnX9UL_mZzq.jpg" width="600" alt="Glasperlen-Terrazzo-Bodenrenovierung Video">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13649)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2119023496684618046) | **Veröffentlicht:** Nov 7, 2026
+
+---
+### Herz-Terrazzo-Bodenrenovierung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für ein befriedigendes DIY-Renovierungsvideo, das herzförmige Elemente mit Epoxidharz in einen glänzenden Terrazzoboden verwandelt, inklusive spezifischer Schritte und Charakteraktionen.
+
+#### 📝 Prompt
+
+```
+Ein befriedigendes DIY-Renovierungsvideo in einem hellen, leeren Raum mit weißen Wänden und einem Fenster. Ein Mann in blauem Overall harkt einen riesigen Haufen aus Tausenden kleinen orangefarbenen und grünen Herzchen zusammen, die den Boden bedecken, und verteilt sie anschließend gleichmäßig über die gesamte Fläche. Eine Frau in rotem Overall gießt dickflüssiges, glänzend weißes Epoxidharz aus einem großen Eimer; die Flüssigkeit fließt in einer sanften Welle über die verstreuten Herzen, bis diese halb darin versunken sind. Nachdem das Harz ausgehärtet ist, poliert ein Arbeiter in gelber Warnweste den Boden mit einer Einscheibenmaschine. So entsteht ein strahlender Glanz, der ein farbenfrohes Terrazzo-Muster aus orangefarbenen und grünen Herzen enthüllt, die unter dem klaren Harz eingeschlossen sind. Zwei Männer in schwarzen Shirts bauen daraufhin auf dem glänzenden Boden ein Holzbettgestell auf, montieren das Kopfteil und beziehen das Bett mit weißen Kissen und einer weichen grauen Decke. Die letzte Totale zeigt das fertige, gemütliche Schlafzimmer, das in natürliches Sonnenlicht getaucht ist, während der Boden mit dem Herzmuster erstrahlt. Sanfte Kameraschwenks und Vogelperspektiven, realistische Beleuchtung, vertikales Videoformat.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118975531525767168/img/YPPUaozZdduc5Ia5.jpg" width="600" alt="Herz-Terrazzo-Bodenrenovierung">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13655)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2118975574861336982) | **Veröffentlicht:** Nov 7, 2026
+
+---
+### Bodenrenovierung mit eingearbeiteten Chilischoten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erzeugt ein Video, in dem rote Chilischoten mit Milch oder Epoxidharz gemischt werden, um einen einzigartigen, transluzenten Boden in einem minimalistischen Schlafzimmer zu schaffen.
+
+#### 📝 Prompt
+
+```
+In einem hellen, leeren Raum mit weißen Wänden und einem sonnenbeschienenen Fenster harkt ein bärtiger Mann in blauer Latzhose einen riesigen Haufen roter Chilischoten auf einem unbehandelten Holzboden auseinander. Er verteilt die Schoten nach außen, bis sie den gesamten Boden bedecken. Eine Frau in roter Latzhose betritt den Raum mit einem Metalleimer und gießt frische weiße Milch über die Chilis. Die Flüssigkeit breitet sich im ganzen Raum aus, während sie alles glatt harkt, sodass die Schoten gleichmäßig in der weißen Schicht schwimmen. Die Szene wechselt zu einem Arbeiter in gelber Warnweste, der eine Bodenschleifmaschine über die nun aushärtende Oberfläche schiebt und sie zu einem glänzenden weißen Epoxidboden poliert, unter dessen spiegelnder Oberfläche die roten Chilischoten deutlich sichtbar eingeschlossen sind. Zum Schluss tragen zwei Arbeiter in marineblauen Uniformen ein hölzernes Bettgestell herein, stellen es ab, legen eine weiße Matratze darauf und richten Kissen sowie eine Bettdecke an. So entsteht ein fertiges, minimalistisches Schlafzimmer mit einem atemberaubenden, lichtdurchlässigen Boden voller schwebender roter Chilis. Helles natürliches Tageslicht, fließende Kamerabewegungen, befriedigender ASMR-Renovierungsstil, hyperrealistische Details, 4k vertikales Video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118974576646406144/img/-3uFFlTubN1RfKHb.jpg" width="600" alt="Bodenrenovierung mit eingearbeiteten Chilischoten">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13653)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2118974614428606537) | **Veröffentlicht:** Nov 7, 2026
+
+---
 ### Brötchen-Verfolgungsjagd in FPV – Kinetische Action
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6116,530 +8242,6 @@ Stil: Rasanter Slapstick-Humor, übertriebene, aber harmlose körperliche Gags, 
 **Autor:** [WasifAI](https://x.com/doctorwasif) | **Quelle:** [Link](https://x.com/doctorwasif/status/2112768312488902962) | **Veröffentlicht:** Oct 21, 2026
 
 ---
-### Koreanische Liebesgeschichte in 3D-Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Erstellung eines cineastischen 3D-animierten Kurzfilms über eine koreanische Liebesgeschichte von 1998 bis heute, mit Fokus auf Charakterdesign, visueller Regie und nostalgischen Elementen.
-
-#### 📝 Prompt
-
-```
-Dauer: 20 Sekunden | Cinematic 3D-Animation | Koreanische Romanze | Herbstliche Nostalgie | 16:9
-ANIMATIONSSTIL UND VISUELLE REGIE
-Erstelle einen atemberaubenden, hochwertigen animierten 3D-Kurzfilm im Kinostil, der in Südkorea spielt. Verwende anspruchsvolle Charakteranimationen, wunderschön detaillierte Umgebungen, realistische Stofftexturen, ausdrucksstarke Gesichter, feinfühlige Lichtsetzung und fließende, natürliche Bewegungen.
-Der visuelle Stil sollte den Charme eines liebevoll animierten Liebesfilms mit der emotionalen Tiefe und der filmischen Bildkomposition einer nostalgischen koreanischen Liebesgeschichte verbinden.
-Die Figuren sollten elegante, attraktive Gesichtszüge, ausdrucksvolle Augen, wunderschön animiertes Haar und dezent stilisierte Proportionen aufweisen, während eine glaubwürdige Anatomie erhalten bleibt. Haut, Strickstoff, Holz, fallendes Laub und Lichtstimmungen müssen über reiche, detailreiche Texturen verfügen.
-
-Nutze warme Herbstfarben, goldenes Sonnenlicht, burgunderrote Akzente, weiche atmosphärische Tiefe, zarte Tiefenschärfe und ein subtiles Filmkorn.
-
-Wichtig: Dies ist ein vollständig animierter 3D-Film, kein Realfilm. Vermeide flache 2D-Animationen, übertriebene Cartoon-Proportionen, kindliche Charakterdesigns, Anime-Stile oder plastisch wirkende 3D-Figuren.
-
-CHARAKTERDESIGN UND KONTINUITÄT
-
-DIE ÄLTERE FRAU – GEGENWART
-
-Eine anmutige, außergewöhnlich schöne 72-jährige Koreanerin mit feinen Gesichtszügen, ausdrucksstarken dunklen Augen, elegantem silberschwarzem Haar, das locker nach hinten gebunden ist, und natürlich detaillierten Altersfalten.
-
-Ihr Gesicht soll Güte, Weisheit, Wärme und ein Leben voller schöner Erinnerungen ausstrahlen. Ihre Falten sollten fein gezeichnet sein, nicht übertrieben. Gib ihr ein sanftes Lächeln und ausdrucksvolle Augen, die Glück und Nostalgie auch ohne Worte vermitteln können.
-
-Sie trägt eine cremefarbene Vintage-Strickjacke über einem dezent braunen Kleid.
-
-Ihr Zuhause ist ein altes, gemütliches koreanisches Holzhaus mit traditionellen Holzfenstern, verblichenen Vorhängen, Möbeln, denen man ihr Alter ansieht, einem kleinen Holzschrank, einer alten analogen Uhr und warmem Nachmittagslicht, das ins Innere strömt.
-
-Auf einem Holztisch steht eine alte Erinnerungsbox mit einem verblassten Foto und einem sorgfältig aufbewahrten, tiefroten Strickschal.
-
-DIE JUNGE FRAU – RÜCKBLICK AUF 1998
-
-Exakt dieselbe Figur im Alter von 23 Jahren.
-
-Sie ist außergewöhnlich schön, mit feinen koreanischen Gesichtszügen, großen, ausdrucksstarken dunklen Augen, glatter Haut, langem, glänzend schwarzem Haar mit weichem Pony und einem von Natur aus bezaubernden Lächeln.
-
-Ihr Charakterdesign sollte elegant, romantisch und zeitlos wirken – mit dezenter Stilisierung, detaillierten Haarsträhnen, ausdrucksstarker Gesichtsanimation und anmutigen Bewegungen.
-
-Sie trägt einen cremefarbenen Vintage-Wollmantel, eine elfenbeinfarbene Bluse, einen dunklen Faltenrock und einen wunderschönen, tiefroten Strickschal, den sie von ihrer ersten Liebe geschenkt bekommen hat.
-
-Der Schal muss detaillierte Wollfasern, sichtbare Strickmuster, weiche Falten und natürliche Bewegung aufweisen.
-
-DER FREUND – RÜCKBLICK AUF 1998
-
-Ein außergewöhnlich gutaussehender 25-jähriger Koreaner mit ausdrucksstarken dunklen Augen, einer natürlich markanten Kieferpartie, dichtem schwarzem Haar, gestylt nach der typischen koreanischen Mode der späten 1990er Jahre, und einem warmen, aufrichtigen Lächeln.
-
-Er trägt einen anthrazitfarbenen Wollmantel, einen cremefarbenen Strickpullover, eine dunkle Hose und Vintage-Lederschuhe.
-
-Seine animierten Gesichtsausdrücke sollten subtil und glaubwürdig sein. Sein Lächeln muss schüchtern, liebevoll und echt wirken.
-
-Beide Figuren müssen während des gesamten Rückblicks visuell konsistent bleiben, mit übereinstimmenden Gesichtszügen, Frisuren, Kleidung und Proportionen.
-
-SZENE 1 – DAS ERINNERUNGSSTÜCK
-
-ZEIT: 0–5 SEKUNDEN
-
-Im Inneren eines gemütlichen, alten koreanischen Holzhauses strömt goldenes Herbstsonnenlicht durch verblichene Vorhänge.
-
-Vor dem Fenster treiben rote, bernsteinfarbene und goldene Ahornblätter sanft durch die Luft.
-
-Die ältere Frau sitzt an einem Holztisch und öffnet langsam eine alte Erinnerungsbox aus Holz.
-
-Darin liegt ein verblasstes Foto ihres jüngeren Ichs neben einem gutaussehenden jungen Koreaner unter einem Ahornbaum.
-
-Unter dem Foto ruht sorgsam gefaltet ein tiefroter Strickschal.
-
-Sie hebt den Schal behutsam mit beiden Händen an. Ihre Finger gleiten sanft über die Strickstruktur.
-
-Ein kleines, liebevolles Lächeln erscheint auf ihrem Gesicht. Ihre Augen glänzen vor einer leisen Träne, als sie sich an ihre erste Liebe erinnert.
-
-Ihr Ausdruck ist friedlich, glücklich und voller Dankbarkeit.
-
-KAMERA: Langsamer, filmischer Push-in, beginnend mit einer Halbnahaufnahme der Frau, bevor die Kamera in detaillierte Nahaufnahmen ihrer Hände, des roten Schals und des verblassten Fotos übergeht.
-
-ANIMATIONSDETAILS: Subtile Handbewegungen, natürliches Blinzeln, sanfte Atembewegungen, feine Gesichtsausdrücke und sich leicht bewegende Vorhänge.
-
-LICHTSETZUNG: Warmes, bernsteinfarbenes Sonnenlicht, weiche Schatten, wunderschöne Glanzlichter auf der Strickwolle und realistisches Licht, das von den Holzmöbeln reflektiert wird.
-
-SZENE 2 – EINE GLÜCKLICHE ERINNERUNG
-
-ZEIT: 5–10 SEKUNDEN
-
-Die Kamera bewegt sich langsam auf das alte Foto zu.
-
-Das Foto füllt den Bildschirm, und das Bild verwandelt sich allmählich in eine lebendige, animierte Erinnerung.
-
-Plötzlich werden wir in den Herbst 1998 versetzt.
-
-Eine wunderschöne junge Koreanerin steht unter einem prächtigen Ahornbaum in einem friedlichen Universitätsgarten. Goldene Blätter schweben um sie herum, während eine sanfte Brise ihr langes schwarzes Haar bewegt.
-
-Sie trägt ihren cremefarbenen Wollmantel und den tiefroten Strickschal.
-
-Ihr außergewöhnlich gutaussehender Freund nähert sich und trägt eine kleine Papiertüte aus einer altmodischen koreanischen Bäckerei.
-
-Er lächelt schüchtern und richtet den Schal sanft um ihren Hals.
-
-Sie blickt zu ihm auf und lacht leise.
-
-Er streicht ihr eine lose Haarsträhne aus dem Gesicht. Sie tauschen ein warmes, liebevolles Lächeln aus.
-
-Ihre Gesichtsausdrücke sollen die Aufregung und Zärtlichkeit junger Liebe vermitteln.
-
-VISUELLER EFFEKT: Eine verträumte, sanft leuchtende Atmosphäre mit zart schwebenden Blättern, mildem Sonnenlicht, das durch das Blätterdach des Ahorns fällt, dezenter Tiefenschärfe und wunderschön gerenderten Herbstfarben.
-
-Die Erinnerung sollte warm, glücklich und kostbar wirken, als würde die ältere Frau ihren liebsten Moment noch einmal erleben.
-
-KAMERA: Sanfte Kamerafahrten, intime Nahaufnahmen und anmutige Übergänge zwischen ihren Gesichtsausdrücken.
-
-SZENE 3 – IHRE KLEINE WELT
-
-ZEIT: 10–15 SEKUNDEN
-
-Das junge Paar geht einen alten Steinweg entlang, der mit buntem, gefallenem Ahornlaub bedeckt ist.
-
-Der junge Mann tritt spielerisch auf ein trockenes Blatt, sodass es knistert.
-
-Die Frau lacht und tippt ihm leicht auf den Arm.
-
-Er greift nach ihrer Hand. Ihre Finger verschlingen sich sanft ineinander.
-
-Sie sieht ihn mit einem verspielten Lächeln an, bevor sie ihren Kopf kurz an seine Schulter lehnt.
-
-Sie halten unter dem prächtigen Ahornbaum inne.
-
-Er richtet den tiefroten Schal behutsam um ihren Hals und blickt ihr in die Augen.
-
-FREUND – NATÜRLICHER KOREANISCHER DIALOG:
-
-„Steht dir wirklich gut." (Original: „너한테 잘 어울려.")
-
-ENGLISCHER UNTERTITEL:
-
-„It looks beautiful on you."
-
-Die Frau lächelt schüchtern, senkt den Blick und sieht ihn dann wieder an.
-
-MÄDCHEN – NATÜRLICHER KOREANISCHER DIALOG:
-
-„Wirklich?" (Original: „정말?")
-
-ENGLISCHER UNTERTITEL:
-
-„Really?"
-
-Er nickt und lächelt warm.
-
-Sie lacht leise.
-
-Ein paar Ahornblätter schweben zwischen ihnen hindurch, während sie sich weiter ansehen.
-
-ANIMATIONSDETAILS: Fließende Körperbewegungen, natürlicher Blickkontakt, subtile Lächeln, sanfte Haarbewegungen, realistische Schal-Physik und Blätter, die natürlich auf die Brise reagieren.
-
-Die Szene sollte intim, verspielt, unschuldig und aufrichtig glücklich wirken.
-
-SZENE 4 – DIE BEWAHRTE ERINNERUNG
-
-ZEIT: 15–20 SEKUNDEN
-
-Eine Nahaufnahme des freudigen Lächelns der jungen Frau.
-
-Das Bild löst sich sanft auf und kehrt in die Gegenwart zurück.
-
-Die ältere Frau sitzt am Fenster ihres Holzhauses und hält denselben tiefroten Schal an ihre Brust gedrückt.
-
-Sie lächelt das Foto zärtlich an.
-
-Ihre Augen glänzen vor nostalgischen Tränen, doch sie wirkt nicht untröstlich. Stattdessen sieht sie friedlich aus und dankbar dafür, eine so wunderschöne Liebe erlebt zu haben.
-
-Sie legt den Schal vorsichtig neben das Foto und streicht behutsam dessen gefaltete Kante glatt.
-
-Vor dem Fenster treibt ein goldenes Ahornblatt vorbei.
-
-Sie blickt
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112762577499394048/img/D66RkgmWw9Cr2pjs.jpg" width="600" alt="Koreanische Liebesgeschichte in 3D-Animation">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12831)**
-
-**Autor:** [Julia Clark](https://x.com/JuliaClarky) | **Quelle:** [Link](https://x.com/JuliaClarky/status/2112763209836835000) | **Veröffentlicht:** Oct 21, 2026
-
----
-### Gurkenboden-Renovierung im Zeitraffer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung eines Multi-Shot-Zeitraffervideos, das die Verwandlung eines mit Gurkenscheiben bedeckten Bodens in eine polierte Terrazzo-Oberfläche unter Verwendung von Epoxidharz zeigt.
-
-#### 📝 Prompt
-
-```
-Mehrteiliges 9:16-Video, fotorealistischer Zeitraffer-Renovierungswerbespot, statische Kamera, heller weißer Raum mit Betonboden und Fenster:
-
-Einstellung 1 (0–3 s): Ein Mann in orangefarbenem Overall harkt einen riesigen Haufen Gurkenscheiben zusammen und verteilt sie auf dem gesamten Boden.
-
-Einstellung 2 (3–6 s): Ein Mann und eine Frau in roten Overalls gießen weiße, selbstverlaufende Epoxidharzmasse aus Eimern über die Gurken.
-
-Einstellung (6–9 s): Sie ziehen das Harz mit einem Rakel glatt; die Gurken verschwinden unter der glänzenden weißen Flüssigkeit.
-
-Einstellung 4 (9–13 s): Arbeiter in gelben Warnwesten polieren den Boden mit Schleifmaschinen – dabei kommen in weißes Terrazzo eingelassene Gurkenscheiben zum Vorschein.
-
-Einstellung 5 (13–17 s): Der Mann in Orange kniet nieder und berührt die fertige, glänzende Oberfläche.
-
-Einstellung 6 (17–20 s): Zwei Arbeiter bauen ein beiges Bett im Raum auf.
-
-Einstellung 7 (20–23 s): Das fertige, leere Schlafzimmer mit weißem Bett, Beistelltisch mit Eukalyptusvase und Designboden mit grünen Gurkenquerschnitten.
-
-Zeitlupe bzw. Zeitraffer, Bewegungsunschärfe bei Personen, durchgehend konsistente Beleuchtung und Geometrie, 4K, befriedigende ASMR-Atmosphäre.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112552471901908993/img/5j__fsJ13nRuZngH.jpg" width="600" alt="Gurkenboden-Renovierung im Zeitraffer">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12817)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2112552501195002073) | **Veröffentlicht:** Oct 20, 2026
-
----
-### Zeitraffer der Bodensanierung mit Schlüsseln
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung eines hyperrealistischen Transformationsvideos, in dem antike Schlüssel auf einem Boden verteilt, mit Epoxidharz überzogen und poliert werden, um ein goldenes Terrazzo-Muster freizulegen.
-
-#### 📝 Prompt
-
-```
-Vertikales 9:16 hyperrealistisches Transformationsvideo im Dokumentarstil, statische Weitwinkelkamera aus der Ecke eines leeren weißen Raumes mit einem hellen Fenster und nacktem Betonboden.
-
-Einstellung 1 (0–4 s): Ein bärtiger Mann in einer blauen Jeans-Latzhose und einem schwarzen Langarmshirt harkt mit einem schwarzen Laubrechen einen riesigen kegelförmigen Haufen aus Tausenden antiken Messing- und Eisenschlüsseln auseinander. Er verteilt die Schlüssel methodisch und gleichmäßig, bis der gesamte Boden mit einem dichten Teppich aus alten Schlüsseln bedeckt ist.
-
-Einstellung 2 (4–8 s): Eine Frau mit langen braunen Haaren in einer roten Latzhose und schwarzen Handschuhen gießt dickflüssiges, glänzend weißes selbstverlaufendes Epoxidharz aus einem großen weißen Plastikeimer; die milchige Flüssigkeit breitet sich in sanften Wellen aus, verschlingt die Schlüssel und überzieht den gesamten Boden mit einer spiegelglatten weißen Oberfläche, durch die noch vereinzelt Schlüsselkonturen hindurchschimmern.
-
-Einstellung 3 (8–17 s): Ein Arbeiter in gelber Warnweste, schwarzer Kappe und grauer Arbeitshose schiebt eine rot-weiße Aufsitz-Bodenschleifmaschine mit schwarzem Saugschlauch vor sich her und poliert das ausgehärtete Epoxidharz in gleichmäßigen Bahnen; goldene Schlüsselformen kommen zum Vorschein, eingebettet in den glänzenden Boden wie bei Terrazzo, während sich das Fenster und der Arbeiter auf der spiegelnden Oberfläche reflektieren.
-
-Einstellung 4 (17–23 s): Zwei Arbeiter in schwarzen Poloshirts und schwarzen Kappen montieren in der Mitte des Raumes ein dunkles Nussbaum-Bettgestell, legen eine weiße Matratze darauf, streichen weiße Bettwäsche und Kissen glatt, anschließend erscheinen auf beiden Seiten hölzerne Nachttische mit weißen Keramiklampen; das fertige Bett mit beigen Akzentkissen steht auf dem polierten, von goldenen Schlüsseln durchzogenen Boden, während die Arbeiter aus dem Bild gehen.
-
-Helles natürliches Tageslicht, weiche Schatten, befriedigende ASMR-Renovierungs-Timelapse-Stimmung, fotorealistische Texturen, fließende Bewegungen, kein Text, kein Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112551729514315777/img/4yRga5A8YnvjU2M8.jpg" width="600" alt="Zeitraffer der Bodensanierung mit Schlüsseln">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12818)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2112551758186545604) | **Veröffentlicht:** Oct 20, 2026
-
----
-### Melancholischer Beauty-Film mit Notenblättern
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für einen 15-sekündigen kinematografischen Beauty-Film, der eine Figur inmitten von Notenblättern zeigt und emotionale Ausdrucksstärke sowie Kamerabewegungen unter Verwendung von Seedance 2.0 hervorhebt.
-
-#### 📝 Prompt
-
-```
-Erstelle einen exakt 15 Sekunden langen, fotorealistischen, cineastischen Beauty-Film im Format 16:9 Full HD (1920×1080) mit 24 FPS unter Verwendung des hochgeladenen Referenzbildes und Character Sheets. Bewahre die exakte Identität der Figur, ihre Gesichtszüge, Frisur, Haarfarbe, ihr Outfit, die Körperproportionen, die Umgebung sowie die ursprüngliche visuelle Ästhetik unverändert bei.
-
-Beginne mit einer Aufsicht auf die Figur, die diagonal auf dem Boden inmitten verstreuter Notenblätter liegt und leer auf die Noten starrt. Gleite langsam mit der Kamera auf ihr Gesicht zu, während ein loses Blatt über das Objektiv treibt und so eine Paper-Wipe-Transition erzeugt. Schneide zu einer extremen Nahaufnahme ihrer Augen, Wimpern und natürlichen Hautstruktur – mit einem dezenten Blinzeln, einem entrückten Blick und einem langsamen Makro-Push-in. Match-Cut von der Spiegelung in ihrem Auge zu einem transparenten Vorhang, der sanft im kühlen Tageslicht weht, begleitet von leichten Bewegungen naher Notenblätter und einzelner Haarsträhnen.
-
-Über den sich bewegenden Vorhang hinweg in eine bodennahe Tracking-Einstellung aus der Froschperspektive übergehen, die sich von ihrer Hand, die Notenblätter hält, entlang ihres aufliegenden Unterarms bis hin zu ihrem Gesicht bewegt. Sie muss dabei völlig flach auf dem Boden liegen bleiben, die Wange ruht auf dem Unterarm und dieser Arm liegt direkt auf dem Boden. Ihre freie Hand hält locker ein Notenblatt nahe ihrem Gesicht. Nur ihre Augen richten sich zur Kamera; Kopf, Schultern und Oberkörper bleiben auf dem Boden ruhen. Bewahre ihren melancholischen, entrückten Ausdruck.
-
-Zeige in den letzten vier Sekunden eine weitere, cineastische Komposition der Figur, der verstreuten Notenblätter, des sanft wehenden Vorhangs und der vorhandenen Umgebungselemente. Ziehe langsam zurück und gleite seitlich, sodass einige Seiten natürlich im Luftzug flattern. Halte das abschließende Beauty-Bild kurz an und blende exakt bei 15 Sekunden sanft zu Schwarz ab.
-
-Nutze elegante, editoriale Bildsprache, weiches, diffuses Licht, natürliche Hauttextur, zarte Highlights im Gesicht, ausdrucksstarke Augen, geringe Schärfentiefe, dezentes Filmkorn, gedämpfte Pastelltöne, ein feines cineastisches Color Grading und geschmeidige Kamerabewegungen. Behalte die ursprüngliche Beleuchtung und Farbpalette des Referenzbildes bei, einschließlich warmer Bernstein-Highlights und kühlem blauem Tageslicht, sofern vorhanden. Erstelle fünf unterschiedliche Einstellungen mit gezielten Paper-Wipe-, Eye-Reflection-, Curtain-Wipe- und Gaze-Match-Cut-Transitions. Halte die Animation der Figur minimal und die Bewegung der Umgebung realistisch.
-
-Negative Prompt: Identitätsverlust, verändertes Gesicht, veränderte Frisur, Haarfarbe, Outfit oder Umgebung; zusätzliche Figuren; Lächeln; übertriebene Mimik; angehobener Kopf; gehobene Schultern; auf den Ellbogen gestützte Pose; angehobener Oberkörper; sitzende Position; unnatürliche Halswinkel; deformierte Hände; zusätzliche Finger; unnatürliches Greifen des Papiers; schwebende Seiten; chaotischer Wind; übermäßige Haarbewegung; unrealistische Physik; Ruckeln; Flackern; wackelige Kamera; willkürliche Zooms; abrupte Übergänge; hartes Licht; plastisch wirkende Haut; übermäßige Retusche; Cartoon; Anime; Hochformat; Text; Logos; Wasserzeichen; niedrige Auflö
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112549265092304896/img/968bzYifJfkZ9t-i.jpg" width="600" alt="Melancholischer Beauty-Film mit Notenblättern">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12821)**
-
-**Autor:** [Aria](https://x.com/ariaxawan) | **Quelle:** [Link](https://x.com/ariaxawan/status/2112549449138651280) | **Veröffentlicht:** Oct 20, 2026
-
----
-### Adidas Fußballschuh Montage Timelapse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für ein 10-sekündiges ultra-realistisches Timelapse-Video, das Miniaturarbeiter zeigt, die einen Adidas Fußballschuh in einer futuristischen Werkstatt mit Seedance 2.0 montieren.
-
-#### 📝 Prompt
-
-```
-Erstelle ein exakt 10 Sekunden langes, vertikales (9:16) ultrarealistisches Timelapse der Montage eines Adidas-Fußballschuhs in einer dunklen, futuristischen Werkstatt. Genau 8 Miniaturarbeiter in blauen Uniformen bedienen Roboterarme, Förderbänder und Präzisionswerkzeuge. Montiere einen schwarzen und elektrisch-blauen Fußballschuh mit weißen Adidas-Streifen, schwarzen Schnürsenkeln, strukturierten Panels, gepolstertem Kragen und metallischen Stollen. Zeige den gesamten Prozess chronologisch: Die Arbeiter ordnen die Komponenten an, setzen die Stollen ein, vernähen die Stoffpanels, verbinden das Obermaterial mit der Sohle, fädeln die Schnürsenkel ein und prüfen den fertigen Schuh. Die Maschinen fahren zurück, während sich die Arbeiter am Sockel versammeln. Ende mit einem hochwertigen, statischen Hero-Shot des Produkts. Feste Kamera, konsistente Geometrie, realistische Physik, kinoreife blaue Beleuchtung, detaillierte Texturen, mechanischer ASMR-Sound und energetische Musik mit 130 BPM. Keine Schnitte, kein Teleportieren, keine zusätzlichen Arbeiter, keine Kamerabewegungen, kein Text und keine Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112480536883298304/img/bCF911yYa92jhFh2.jpg" width="600" alt="Adidas Fußballschuh Montage Timelapse">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12819)**
-
-**Autor:** [Dania](https://x.com/DaniaSafvi) | **Quelle:** [Link](https://x.com/DaniaSafvi/status/2112480606420717653) | **Veröffentlicht:** Oct 20, 2026
-
----
-### Futuristisches Neon-Autobahn-Rennstunt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für ein 30-sekündiges, ultrarealistisches Sci-Fi-Rennvideo mit einer Fahrerin, die auf einer neonbeleuchteten Autobahn schwerkraftwidrige Stunts ausführt, generiert mit Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Erstelle ein 30 Sekunden langes, ultrarealistisches, cineastisches Sci-Fi-Rennvideo auf einer futuristischen Autobahn bei Nacht. Eine junge Frau in einem weißen Rennanzug mit Helm und Sicherheitsgurt steuert einen schnittigen, silbernen Sportwagen der Zukunft. Rote Neonlichter tauchen die nasse Fahrbahn in Licht, erzeugen faszinierende Spiegelungen und eine geheimnisvolle Atmosphäre. Zeige Nahaufnahmen ihres konzentrierten Gesichts, ihrer Hände am Lenkrad und des leuchtenden Armaturenbretts. Der Wagen rast auf eine gigantische vertikale Looping-Rampe zu, umgeben von futuristischen Bauwerken. Furchtlos beschleunigt sie und vollführt ein atemberaubendes, der Schwerkraft trotzendes Stuntmanöver durch den hoch aufragenden Looping. Leistungsstarke Triebwerke unter dem Fahrzeug zünden, heben es in die Luft, während cineastische Kamerawinkel diese unglaubliche Bewegung einfangen. Nutze realistische Fahrzeugphysik, dramatische Beleuchtung, Bewegungsunschärfe, detaillierte Reflexionen, immersive Motorsounds und visuelle Effekte auf Hollywood-Sci-Fi-Niveau. Das Video endet damit, dass der Wagen auf der leuchtenden Neon-Autobahn davonschießt und eine mysteriöse, filmreife Stimmung hinterlässt. Exakt 30 Sekunden, 16:9 Querformat, konsistente Darstellung von Charakter und Fahrzeug, kein Text, keine Logos, kein Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112409362761437184/img/bEbjGS65o1bBZyEP.jpg" width="600" alt="Futuristisches Neon-Autobahn-Rennstunt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12768)**
-
-**Autor:** [liana](https://x.com/Lianaalane) | **Quelle:** [Link](https://x.com/Lianaalane/status/2112409431174733909) | **Veröffentlicht:** Oct 20, 2026
-
----
-### Kinematischer Action-Kampf einer Frau gegen Feinde
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Erstellung eines 28-sekündigen vertikalen Kinematik-Action-Videos, das eine junge Koreanerin im Kampf gegen Feinde in einer chaotischen Stadt zeigt, erstellt mit Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Erstelle ein 28 Sekunden langes, vertikales (9:16), fotorealistisches Action-Video im Kinostil mit einer jungen Koreanerin mit langen schwarzen Haaren. Sie trägt ein übergroßes weißes T-Shirt und lässige Shorts und rennt durch eine moderne Stadt unter Beschuss.
-
-Zeige, wie sie über ein Dach sprintet, während mysteriöse Feinde sie verfolgen – mit realistischen Bewegungen, intensiven Gesichtsausdrücken und dramatischen Kamerafahrten.
-
-Sie springt auf ein Glasgebäude zu, durchbricht ein Fenster und landet in einem traditionellen Raum im japanischen Stil, der von warmem natürlichem Licht durchflutet ist.
-
-Zeige, wie sie blitzschnell nach einem pinkfarbenen futuristischen Gewehr greift und sich für den gefährlichen Kampf vorbereitet, der ihr bevorsteht.
-
-Wechsle dann zu einer chaotischen japanischen Straße mit beschädigten Gebäuden, umgestürzten Fahrzeugen, Verkaufsautomaten und dichtem Rauch in der Luft.
-
-Sie rennt mit gezückter Waffe durch die Straße, während hinter ihr Explosionen hochgehen – eine packende Überlebenssequenz wie aus dem Kino.
-
-Baue einen spektakulären Slow-Motion-Moment ein, in dem sie von einer gewaltigen Explosion in die Luft geschleudert wird, wobei sich ihre Haare und Kleidung völlig natürlich bewegen.
-
-Achte durchgehend auf ein konsistentes Gesicht, realistische Hauttexturen, anatomisch korrekte Hände, natürliche Körperproportionen, detailreiche Umgebungen und flüssige, kinoreife Bewegungen.
-
-Nutze dramatische Beleuchtung, realistische Physik, immersive Actionfilm-Soundeffekte, dynamische Kamerawinkel und High-End-Hollywood-Qualität.
-
-Vermeide Cartoon-Effekte, verzerrte Anatomie, zusätzliche Finger, Flackern sowie unerwünschten Text, Logos und Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112388862857334784/img/7kbItar8JG0pTY5T.jpg" width="600" alt="Kinematischer Action-Kampf einer Frau gegen Feinde">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12767)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2112389039341113538) | **Veröffentlicht:** Oct 20, 2026
-
----
-### Simurgh-Video in persischer Miniaturmalerei
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung eines kinoreifen Videos im Stil der klassischen persischen Miniaturmalerei, das den mythischen Vogel Simurgh in einer Palastgarten-Szene zeigt.
-
-#### 📝 Prompt
-
-```
-STIL: Animierter klassischer persischer Miniaturmalerei-Stil, flache, geschichtete Perspektive, filigrane florale und geometrische Muster, Blattgoldhimmel mit wirbelnden, stilisierten Wolken, kunstvolle Bordüre, zarte, anmutige Bewegungen. Farbgebung: Lapislazuliblau, Türkis, Rosa, Safrangelb, Gold.
-Ein kolossaler Simurgh mit pfauenartigem Körper, juwelenbesetzten Flügeln und einem langen, weit ausladenden Schwanz aus gemusterten Federn. Ein Palastgarten mit türkisfarbenen Kuppeln, Zypressen und Wasserbecken, Höflinge, Musiker und ein Prinz auf einem weißen Pferd.
-EINSTELLUNG 1 (0 bis 3s): Totale, passend zum Referenzbild; der Simurgh breitet seine Flügel über dem goldenen Himmel aus, während sich seine Schwanzfedern eine nach der anderen in schimmernden Mustern entfalten.
-EINSTELLUNG 2 (3 bis 6s): Halbtotale, 35mm-Objektiv; die Musiker im Innenhof hören auf zu spielen, ein Höfling lässt einen Granatapfel fallen, der über die Fliesen rollt, das Pferd des Prinzen bäumt sich auf.
-EINSTELLUNG 3 (6 bis 9s): Nahaufnahme, 85mm-Objektiv; der gekrönte Kopf des Simurgh senkt sich tief, sein Auge blitzt wie ein Saphir, goldene Muster kräuseln sich über sein Gefieder.
-EINSTELLUNG 4 (9 bis 12s): Froschperspektive, Totale, 20mm-Objektiv; der Simurgh landet im Garten, seine Flügel streichen über die Wasserbecken hinweg, Blütenblätter und Zypressennadeln werden spiralförmig in die Höhe gewirbelt.
-EINSTELLUNG 5 (12 bis 15s): Extreme Totale, 16mm-Objektiv; der Prinz reitet vorwärts und verneigt sich, der Simurgh senkt einen Flügel wie eine Treppe herab, und die wirbelnden goldenen Wolken öffnen sich zu einem Pfad quer über den Himmel.
-Plätscherndes Brunnenwasser, Vogelgezwitscher, eine Oud- und Tar-Melodie, die abrupt verstummt, ein gewaltiges, seidenweiches Flügelschlagen, ein tiefer, melodischer Vogelruf, Daf-Trommeln und Santur, die sich zu einem triumphalen Thema steigern.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112327483924070400/img/E_eeIRpAzoLb8pwr.jpg" width="600" alt="Simurgh-Video in persischer Miniaturmalerei">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12764)**
-
-**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Quelle:** [Link](https://x.com/AllaAisling/status/2112327872253706617) | **Veröffentlicht:** Oct 19, 2026
-
----
-### IGNITE Energy Drink Werbespot Skript
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detailliertes 20-Sekunden-Werbeskript und visueller Zeitplan für eine Energy-Drink-Anzeige, erstellt mit Gemini und Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-„IGNITE" — 20s Werbespot-Prompt 🏁
-Charakter: Auffallende eisblaue Augen, helle Haut, zarte Sommersprossen, blonder Messy Bun. Absolute Charakterkonsistenz durchgehend.
-Szenen- & Audio-Timeline:
- * 0:00–0:02: Düstere Garage. Erschöpft an die Reifen gelehnt, reißt sie den Kopf hoch – mit unbändigem Fokus.
-   VO: „Wenn der Druck am höchsten ist... und die Strecke dir alles abverlangt..."
- * 0:02–0:04: Makroaufnahme: Eine matt-schwarze & elektrisch-blaue „IGNITE"-Dose wird knackend geöffnet.
-   SFX: Zischen beim Öffnen der Dose.
-   VO: „Du fährst nicht einfach nur Rennen. Du entfachst das Feuer."
- * 0:04–0:06: Sie trinkt; ein dezenter blauer Puls fließt unter ihrer Haut entlang. Sie zieht den Reißverschluss eines kohlschwarzen Rennanzugs hoch.
-   VO: „Tanke Fokus..."
- * 0:06–0:10: Blick durch das Helmvisier – eisblaue Augen spiegeln die leuchtenden Cockpit-Instrumente wider.
-   VO: „Spreng alle Grenzen. Pure elektrische Power in deinen Händen!"
- * 0:10–0:14: Ihr Rennwagen überholt einen Rivalen aggressiv in einer High-Speed-Kurve – Reifen qualmen.
-   VO: „Lass alle anderen hinter dir."
- * 0:14–0:17: Cockpit-Nahaufnahme – behandschuhte Hände reißen das Lenkrad herum und schnappen sich Platz 1.
- * 0:17–0:20: Totale auf das Podium im Konfettiregen. Helm ab, strahlender Sieg, während sie Trophäe und IGNITE-Dose in die Höhe reckt.
-   VO: „IGNITE Energy – entfessle dein Finale."
-Stil: Fotorealistisches 4K, energiegeladene britische weibliche VO, schnelle kinoreife Lichtsetzung.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112295413739147264/img/BRnDAtpos2YD3VOm.jpg" width="600" alt="IGNITE Energy Drink Werbespot Skript">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12820)**
-
-**Autor:** [Millie](https://x.com/Milliekio) | **Quelle:** [Link](https://x.com/Milliekio/status/2112295460086194412) | **Veröffentlicht:** Oct 19, 2026
-
----
-### Terrazzo-Bodenrenovierung mit Muscheln
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> DIY-Renovierungsvideo, das in Epoxidharz eingebettete Muscheln auf dem Boden zeigt, erstellt mit Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Vertikales 9:16 fotorealistisches DIY-Renovierungsvideo, befriedigender ASMR-Stil.
-Heller, leerer Raum: weiße Wände, grauer Betonboden, großes Fenster mit weißem Rahmen auf der linken Seite, sanftes natürliches Tageslicht.
-
-SZENE 1 — Ein bärtiger Mann in grauem T-Shirt und blauer Jeans-Latzhose verteilt einen großen Haufen bunter Muscheln (Jakobsmuscheln, Venusmuscheln, Kegelschnecken) mit einem Landschaftsrechen gleichmäßig über den gesamten Boden. Schnelle Zeitraffer-Bewegung.
-
-SZENE 2 — Eine brünette Frau in roter Latzhose, weißem T-Shirt und Gummistiefeln gießt dickflüssiges, cremeweißes selbstnivellierendes Epoxidharz aus einem großen grauen Eimer. Die milchige Flüssigkeit fließt über die Muscheln, breitet sich aus und bedeckt sie nach und nach vollständig zu einer glänzend weißen Oberfläche.
-
-SZENE 3 — Ein Arbeiter in neon-gelber Warnweste und schwarzer Kappe schiebt eine Bodenpoliermaschine vor und zurück, schleift und poliert die Oberfläche und legt dabei Muscheln frei, die in einen glänzend weißen Terrazzo-Harzboden eingelassen sind.
-
-SZENE 4 — Der Mann in der Jeans-Latzhose baut ein Bettgestell aus heller Eiche zusammen, montiert das Kopfteil und die Lattenroste, legt eine weiße Matratze auf und richtet eine weiße Bettdecke sowie beigefarbene Kissen an. Abschließende statische Beauty-Einstellung: gemütliches, fertig eingerichtetes Schlafzimmer mit Eichenbett, weißer Bettwäsche und einem Designer-Terrazzoboden aus Muscheln, der im sanften Tageslicht erstrahlt.
-
-Stil: fotorealistisch, weiche Schnitte, Zeitraffer-Tempo während der Arbeitsphasen, natürliche, weiche Beleuchtung, detailreich, kein Text.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112171861031227392/img/xCdTYwL6rE17Si9O.jpg" width="600" alt="Terrazzo-Bodenrenovierung mit Muscheln">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12765)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2112171888801669570) | **Veröffentlicht:** Oct 19, 2026
-
----
-### Jelly Bean Candy Terrazzo Boden
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Befriedigendes Renovierungsvideo: Jelly-Bean-Bonbons in Epoxidharz-Boden eingebettet, generiert mit Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Vertikales 9:16 fotorealistisches, befriedigendes Renovierungsvideo, eine durchgehende Szene in einem hellen, leeren Raum mit weißen Wänden, nacktem Holzboden und einem großen, sonnendurchfluteten Fenster auf der rechten Seite.
-
-Einstellung 1: Ein bärtiger Mann in grauem T-Shirt und blauer Jeans-Latzhose verteilt einen riesigen kegelförmigen Haufen aus Tausenden bunten Jelly Beans energisch mit einem Rechen und breitet sie zu einer gleichmäßigen Schicht aus, die den gesamten Boden bedeckt.
-
-Einstellung 2: Eine Frau in roter Latzhose und grauem T-Shirt gießt dickflüssiges, glänzendes weißes Epoxidharz aus einem großen weißen Eimer; die cremige Flüssigkeit fließt über die Süßigkeitenschicht, breitet sich nach außen aus und bedeckt die bunten Bohnen vollständig.
-
-Einstellung 3: Ein Arbeiter in neon-gelber Warnweste und schwarzer Kappe schleift den ausgehärteten weißen Boden mit einer professionellen Bodenschleifmaschine; die obere Schicht wird abgetragen und gibt Tausende bunter Jelly Beans frei, die unter einer kristallklaren, spiegelglatten Epoxidoberfläche eingebettet sind – wie ein Terrazzo aus Süßigkeiten.
-
-Einstellung 4: Zwei Männer in schwarzen T-Shirts und schwarzen Kappen montieren im Zeitraffer blitzschnell ein hölzernes Bettgestell, legen eine weiße Matratze darauf und beziehen das Bett mit knackig weißer Bettwäsche.
-
-Schlusseinstellung: Langsame Beauty-Aufnahme des fertigen minimalistischen Schlafzimmers – ein luxuriöser, spiegelglatter Boden voller bunter Süßigkeiten unter transparentem Epoxidharz, Sonnenlicht reflektiert auf der polierten Oberfläche. Keine Personen.
-
-Stil: virales, befriedigendes DIY-Renovierungs-Zeitraffervideo, statische Weitwinkelkamera von der Tür aus, natürliches Tageslicht, ultradetailliert, flüssige, realistische Physik beim Gießen der Flüssigkeit und Rollen der Süßigkeiten.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112141996588408832/img/z_OxeJb6a15TsIZ6.jpg" width="600" alt="Jelly Bean Candy Terrazzo Boden">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12766)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2112142035826180210) | **Veröffentlicht:** Oct 19, 2026
-
----
-### Extremes Nahaufnahme-Schönheitsporträt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung eines hochdetaillierten, zeitrafferartigen kinematografischen Porträts mit Fokus auf Augenbewegungen und Hauttextur bei stimmungsvoller Beleuchtung.
-
-#### 📝 Prompt
-
-```
-Ultra-realistisches kinematografisches Extreme-Close-Up-Porträt einer schönen jungen Frau mit zarten Gesichtszügen, faszinierenden dunkelbraunen Augen, langen gewellten Wimpern, dezentem Smokey-Eye-Make-up und natürlich strahlender Porzellanhaut. Das Video beginnt mit einer extremen Makroaufnahme ihrer geschlossenen Augen, wobei lose Strähnen ihres dunklen, leicht feuchten Haares natürlich über ihr Gesicht fallen. Langsam öffnet sie ihre Augen und gibt tiefe, ausdrucksstarke braune Irisstrukturen frei, während die Kamera sanft zurückfährt, um ihr gesamtes Gesicht zu zeigen. Sie trägt elegante hängende silberne Ohrringe, mit einigen zarten Haarsträhnen, die ihre Wangen umrahmen. Ihre Lippen sind leicht geöffnet und erzeugen einen mysteriösen, emotionalen Ausdruck. Dunkler, stimmungsvoll blau-schwarzer Hintergrund, dramatische weiche Seitenbeleuchtung, subtile Lichtreflexionen in ihren Augen, realistische Poren, zarte Schatten, geringe Schärfentiefe, kinematografische Atmosphäre, Ästhetik einer Premium-Kampagne für Schönheitsprodukte, fotorealistische Details, flüssige natürliche Augenbewegungen, langsame Kamerabewegung, 85-mm-Porträtobjektiv, f/1.8, HDR, 8K-Qualität, hochdetaillierte Wimpern und Irisstrukturen, professionelle Farbkorrektur, vertikale Komposition, Seitenverhältnis 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112049335458500608/img/FIrkhU4PbyO6yYLa.jpg" width="600" alt="Extremes Nahaufnahme-Schönheitsporträt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12712)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2112049364940263843) | **Veröffentlicht:** Oct 19, 2026
-
----
-### Helikopter-Trampolin-Sprung Video-Prompt
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein detaillierter Prompt zur Generierung eines 15-sekündigen, fotorealistischen Videos einer Person, die von einem Helikopter auf ein Trampolin über dem Meer springt und zurückfedert. Speziell entwickelt für Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-[Priorisierte Referenzbild- & Namensfixierung]
-@ image1 = Beschreibungsname: Protagonist
-Die Identität, das Gesicht, die Frisur, der Körpertyp, das Kostüm, die Accessoires, die Ausrüstung und die Schuhoptik des Protagonisten sind festgelegt.
-Verwenden Sie im nachfolgenden Text ausschließlich die oben fixierten Namen.
-15 Sekunden, Seitenverhältnis 3:4, fotorealistische Live-Action-Aufnahme, tagsüber über einem hellblauen Meer, kontinuierliches Audio-Video. Keine Szenenschnitte während der gesamten Dauer. Verwenden Sie die Charakterreferenz nur für das Aussehen des Protagonisten; integrieren Sie keine Dreiseitenansichten, parallele Displays oder Text-/Musterlayouts in das Video. Bewahren Sie die Identität, die Kostüme, die Accessoires und die Statur des Charakters durchgehend bei. Keine BGM, Untertitel, Bildunterschriften oder Logos.
-Charaktere: Protagonist, Crew A, Crew B, Crew C (insgesamt 4). Ein mittelgroßer ziviler Film-Helikopter mit weißem Rumpf und blauen Linien. Schwarzes Kufen-Landegestell, offene breite Seitenschiebetür, externe Einstiegsstufen, dunkelgrauer Innenraum. Der Helikopter hält vom Anfang bis zum Ende eine konstante Höhe über der Meeresoberfläche. Eine Küstenlinie ist in der Ferne sichtbar, und ein kreisförmiges Trampolin ist weit unten auf der Meeresoberfläche platziert. Der Protagonist steht auf der externen Stufe außerhalb der offenen Tür und blickt auf das ferne Trampolin unter sich. Crew A steht nahe der Tür und trägt eine blaue Windbreaker-Jacke, eine schwarze Schwimmweste und ein Aviation-Kommunikationsheadset. Crew B steht innerhalb des Flugzeugs nahe der Tür und trägt eine orangefarbene Windbreaker-Jacke, eine schwarze Schwimmweste und ein Aviation-Kommunikationsheadset. Crew C befindet sich tief im Inneren des Flugzeugs und trägt eine grüne Windbreaker-Jacke, eine schwarze Schwimmweste und ein Aviation-Kommunikationsheadset. Die Gesichter aller drei Crew-Mitglieder sind sichtbar. Die Kamera startet von derselben Aufnahmeposition nahe der Helikoptertür und erfasst den Protagonisten, die drei Crew-Mitglieder und das Meer jenseits der Tür mit einem leicht Weitwinkelobjektiv. Ändern Sie nicht die Installationsposition der Kamera; passen Sie ihre vertikale Ausrichtung entsprechend dem Fall und Aufstieg an. Windgeräusche und Helikopter-Rotorgeräusche setzen sich natürlich fort.
-0,0–3,0 s: Crew A sieht den Protagonisten an und lächelt, fragt "Bereit?" Der Protagonist dreht sein Gesicht zu Crew A, nickt, blickt dann direkt in die Kamera und zeigt Spannung und Aufregung gemischt mit einem Lächeln, sagt energisch in natürlichem Japanisch: "Okay, ich gehe!" Die sichtbaren Mundbewegungen beider Parteien entsprechen ihrem jeweiligen vollständigen Dialog. Crew B hebt leicht eine Faust, während sie lächelt, und Crew C lächelt glücklich, lehnt sich leicht heraus und nickt. Nach dem Sprechen atmet der Protagonist tief durch, blickt auf das kreisförmige Trampolin hinab, stößt sich von der externen Stufe ab und springt hinaus.
-3,0–6,2 s: In dem Moment, als der Protagonist aus dem Helikopter springt, ruft Crew B ihm zu: "Los geht's!" Die Kamera schwenkt schnell nach unten, behält die Aufnahmeposition nahe der Tür bei und verfolgt den fallenden Protagonisten in der Mitte des Bildes. Der Protagonist streckt seinen Körper beim Fallen aus und wird im Bild kleiner, da die Distanz zunimmt. Das kreisförmige Trampolin unten wird sichtbar, und der Protagonist nähert sich diesem mit Ziel auf die Mitte. Während die Kamera nach unten gerichtet ist, sind die drei Crew-Mitglieder außerhalb des Bildes, aber fröhliche Jubelrufe sind aus dem Inneren des Flugzeugs zu hören. Rotorgeräusche und Windgeräusche setzen sich fort.
-6,2–7,7 s: Der Protagonist landet nahe der Mitte des kreisförmigen Trampolins auf der Meeresoberfläche. Die gedehnte Sprungfläche sinkt erheblich unter dem Gewicht des Protagonisten zusammen und drückt sofort nach Beendigung des Absinkens stark zurück. Die Kamera bleibt nach unten gerichtet und zeigt die Landung, das Einsinken der Sprungfläche und die Umkehrung in einen Aufwärtsimpuls aufgrund des Abprallens in einer einzigen kontinuierlichen Aufnahme. Einschlaggeräusche der Landung und des Abprallens sind hörbar.
-7,7–11,6 s: Der Protagonist federt mit dem Impuls des Abprallens hoch zum Helikopter, zieht die Knie zur Brust, um den Körper klein zu falten, und dreht sich kräftig in der Luft. Die Kamera passt sich nach oben an, um den aufsteigenden Protagonisten von derselben Aufnahmeposition aus zu folgen. Als der Protagonist näher kommt, wird er im Bild größer, und die offene Tür und die externe Stufe werden wieder sichtbar. Der Protagonist steigt rasch bis kurz vor die externe Stufe des Helikopters auf, löst schnell die Drehung auf und streckt die Beine im Moment des Erreichens der Stufe, stellt beide Füße fest auf dieselbe externe Stufe, von der er gesprungen war, ohne zu zögern. Bei der Landung absorbiert er den Stoß mit den Knien und richtet den Oberkörper sofort auf, kehrt in dieselbe Position, Körperorientierung und Stehhaltung wie am Anfang zurück. Filmen Sie die Annäherung an den Helikopter, das Auflösen der Rotation, das Aufstellen der Füße und die Rückkehr zur Haltung als eine scharfe, schnelle Serie von Bewegungen, die nahtlos mit normaler Geschwindigkeit fortgesetzt werden. Die Höhe des Helikopters über der Meeresoberfläche ändert sich nicht.
-11,6–15,0 s: Die Kamera kehrt zur ursprünglichen Ausrichtung um die Tür herum zurück. Crew A klatscht lächelnd Richtung Protagonist. Crew B stößt freudig eine Faust nach oben und ruft kurz: "Juhu--!" Crew C sieht den Protagonisten an, lächelt und klatscht in die Hände. Der Protagonist, schwer atmend, dreht sein Gesicht zur Kamera, Augen leuchtend, spricht hell und natürlich mit Aufregung und Freude über die sichere Rückkehr: "Oh wow! Oh wow, das war großartig!" Passen Sie die Mundbewegungen von Crew B und dem Protagonisten während des Sprechens an ihren jeweiligen vollständigen Dialog an. Letztes Bild: Protagonist steht auf derselben anfänglichen externen Stufe, beendet das Sprechen zur Kamera mit aufgeregt Ausdruck, hinter ihm klatschen Crew A und Crew C, und Crew B jubelt. Ende bei 15 Sekunden mit weiterem Klatschen der Crew und anhaltenden Rotorgeräuschen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112029649937252353/img/0tCnzv5dkI0fQFPc.jpg" width="600" alt="Helikopter-Trampolin-Sprung Video-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12715)**
-
-**Autor:** [M7［mi7］AI](https://x.com/mi7_crypto) | **Quelle:** [Link](https://x.com/mi7_crypto/status/2112029684594872632) | **Veröffentlicht:** Oct 19, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -6701,6 +8303,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-08T05:02:03.832Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-08T15:11:31.274Z</sub>
 
 </div>

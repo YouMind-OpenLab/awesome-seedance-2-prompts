@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6662** |
+| 📝 Totale prompt | **6675** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-11-08** |
 
@@ -361,6 +361,2092 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Prompt di combattimento nella metropolitana cyberpunk per Seedance 2.0
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per generare una scena di combattimento nella metropolitana cyberpunk della durata di 15 secondi con una donna armata di falce, specificando movimenti dinamici della telecamera, effetti di illuminazione e sequenze d'azione coreografate per Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Video: Seedance 2.0, 2K.
+
+Prompt: 0–3s: Scatto Letale Istantaneo
+
+All'interno di una metropolitana buia e sporca, illuminata dal tremolio dei neon, una donna affascinante armata di falce scatta in avanti da ferma. La telecamera, posizionata di lato e alle spalle, avanza a velocità estrema con effetto motion blur radiale al massimo.
+
+La donna brandisce un'enorme falce elettrificata, sferrando rapidi fendenti orizzontali contro guerrieri scheletrici. I mostri barcollano e vengono sbalzati all'indietro, mentre schegge d'osso e frammenti metallici incandescenti si disperdono nell'aria. Ogni colpo è accompagnato da un breve tremolio della telecamera, uno spostamento laterale e una perdita di fuoco. Le luci sul soffitto sfarfallano ad alta frequenza, mentre i giochi di luce e ombra tagliano la sagoma della donna.
+
+3–7s: Combo Ultra-Rapida
+
+I mostri la circondano; la donna li schiva con movimenti laterali fulminei ed esegue una scivolata che graffia il suolo sollevando scintille elettriche dorate. Nell'istante in cui ruota su se stessa, impugna la falce con entrambe le mani sferrando ampi fendenti orizzontali e colpi verticali. La telecamera orbita attorno a lei con lievi vibrazioni ad alta frequenza, mantenendo un forte motion blur per tutta la sequenza.
+
+La donna squarcia il busto di un mostro e sferra immediatamente un calcio rotante per respingere i nemici più vicini. La telecamera si inclina verso l'alto partendo dal suolo: gli abiti e i capelli della donna fluttuano nel vento, con un'energia tagliente e una presenza dominante.
+
+7–11s: Controllo e Sterminio
+
+Le luci al neon sfarfallano ad alta frequenza mentre la donna brandisce l'enorme falce per tenere a bada l'orda di mostri. La lama è avvolta da una violenta corrente dorata; con un calcio invertito si lancia in un fendente rotante a 360 gradi, scaraventando via tre nemici con un solo colpo.
+
+I mostri si schiantano contro i pilastri. La telecamera grandangolare si tuffa ad alta velocità, con una distorsione che deforma i bordi dell'inquadratura e un intenso motion blur.
+
+Un colpo pesante genera un'onda d'urto energetica circolare che solleva polvere, fumo e detriti. L'impatto con il suolo provoca un tremolio della telecamera a bassa frequenza. Lo sguardo della donna è fisso sui bersagli, mentre punti di luce dorata formano delle scie luminose. Tutte le azioni si susseguono senza soluzione di continuità.
+
+11–15s: Colpo Finale
+
+La donna abbassa il corpo lateralmente, con la mano destra che stringe la falce portata al petto per caricare il colpo. Tutto il suo corpo è avvolto da una violenta corrente dorata, con il nucleo energetico che brilla intensamente.
+
+La telecamera, leggermente inclinata verso il basso, inquadra l'intera figura della donna con il motion blur al massimo.
+
+In un istante, la donna scatena lo scatto finale: un violento fulmine dorato lascia una scia luminosa mentre l'enorme falce trafigge tutti i mostri, innescando una feroce esplosione energetica. L'onda d'urto solleva enormi detriti e frammenti di carta.
+
+Il fumo si dirada gradualmente. La donna, con la falce nella mano destra, sferra un fendente diagonale di lato che sprigiona un bagliore dorato residuo, per poi stabilizzarsi in piedi, rivolta verso la telecamera.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119301246331031552/img/TvALoAf3ofnIaVAA.jpg" width="600" alt="Prompt di combattimento nella metropolitana cyberpunk per Seedance 2.0">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13661)**
+
+**Autore:** [Zidan 子丹](https://x.com/liluocheng13) | **Fonte:** [Link](https://x.com/liluocheng13/status/2119302185263743113) | **Pubblicato:** Nov 8, 2026
+
+---
+### Oggi ti acchiappo: Commedia dell'inseguimento nella canna da zucchero
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt per Seedance 2.0 Mini che genera un cortometraggio comico antico di 15 secondi, in cui immortali della spada partecipano a un gioco di raccolta della canna da zucchero. Include un'inversione dei ruoli in cui il discepolo acquista il ruolo dell'"inseguitore" dal custode anziano del parco.
+
+#### 📝 Prompt
+
+```
+"Oggi tocca a me acchiapparti"
+Seedance 2.0 Mini | Commedia di ribaltamento Xianxia antico live-action da 15 secondi
+
+Modello di generazione: Seedance 2.0 Mini
+Durata totale: Rigorosamente 15 secondi
+Rapporto d'aspetto: 16:9 Orizzontale
+Stile visivo: Xianxia antico cinese realistico e cinematografico
+Genere del film: Commedia di situazione antica / Inseguimento divertente / Ribaltamento dei ruoli
+Struttura narrativa: Tre inquadrature principali
+Personaggi chiave: Sorella maggiore immortale della spada in veste bianca, Sorella minore in veste blu, Vecchio custode del giardino
+Ribaltamento centrale: Il custode del giardino che all'inizio inseguiva gli altri finisce per essere inseguito ovunque dall'immortale della spada.
+I. MASTER | Stile generale e concept registico
+1. Impostazione generale del film
+Genera un cortometraggio comico di ribaltamento Xianxia antico live-action di 15 secondi, formato 16:9 orizzontale e stile cinematografico, ottimizzato per Seedance 2.0 Mini.
+Stile visivo
+Puro mondo Xianxia antico cinese
+Attori adulti reali dell'Asia orientale
+Costumi classici
+
+Illuminazione naturale cinematografica
+
+Texture della pelle realistica
+
+Grana della pellicola delicata e raffinata
+
+Recitazione misurata ma espressiva dei personaggi
+
+Linguaggio comico
+
+Integra i seguenti meccanismi comici collaudati:
+Classica commedia di situazione
+Progressione di causa-effetto ed evoluzione delle relazioni tra i personaggi.
+Comicità del cinema muto
+Gestione chiara dello spazio scenico e gag comprensibili attraverso l'azione fisica.
+Umorismo quotidiano in stile cinese
+Malintesi tra i personaggi, saggezza popolare e reazioni naturali.
+
+Principi di recitazione
+
+Evitare recitazioni esagerate o in stile "meme frenetico".
+
+I personaggi non devono usare improvvisamente slang moderno di internet.
+
+Non inserire un finale moralistico o didascalico.
+
+2. Storia principale
+
+La storia di questa sessione:
+
+"Oggi tocca a me acchiapparti"
+
+Questa sessione prende spunto dalla divertente esperienza reale di chi partecipa volontariamente al gioco "ruba la canna da zucchero e fatti inseguire dal guardiano", rielaborandola come una pura commedia Xianxia antica.
+
+Meccanismo comico centrale
+
+Scambio di ruoli tra chi insegue e chi è inseguito.
+
+Sviluppo della storia
+
+Fase 1: Il malinteso
+
+La sorella minore crede di essere stata sorpresa a rubare la canna da zucchero.
+
+Fase 2: Le regole svelate
+
+Poi scopre di aver già pagato per partecipare a questo speciale gioco di raccolta.
+
+Fase 3: Il ribaltamento attivo
+
+La sorella maggiore immortale della spada, solitamente calma ed elegante, spende denaro per diventare colei che insegue.
+
+Risultato finale
+
+Il custode del giardino, inizialmente imponente, viene invece inseguito ovunque dall'immortale della spada.
+
+Punto di approdo comico
+
+L'intera storia genera risate attraverso le azioni dei personaggi, i malintesi e il ribaltamento dei ruoli.
+
+Tutti e tre i personaggi devono avere motivazioni realistiche.
+II. CHARACTER LOCK | Blocco identità e asset dei personaggi
+
+Personaggio A | @Image1 | Sorella maggiore immortale della spada in veste bianca
+
+Identità del personaggio
+
+Donna adulta dell'Asia orientale, 25-30 anni.
+
+Ereditare rigorosamente la stessa identità confermata in @Image1.
+
+Tratti del viso fissi
+Viso ovale chiaro e delicato
+Occhi scuri a mandorla
+Lineamenti raffinati e armoniosi
+Texture della pelle realistica e naturale
+Acconciatura fissa
+Capelli neri lunghi semi-raccolti
+Fermati con una forcina in giada bianca
+Proporzioni corporee
+Alta
+Slanciata
+Costume fisso
+Hanfu in seta bianca ricamata
+Ampie maniche stratificate semitrasparenti
+Fascia in vita argentata
+
+Ciondolo di giada
+
+Stivali in tessuto bianco
+Arma esclusiva
+
+Un'unica spada lunga d'argento.
+
+Personalità
+Elegante
+Calma
+Ottime capacità di osservazione
+Principio di recitazione comica
+La recitazione deve essere misurata.
+Non ha bisogno di fare apposta la buffona.
+È proprio l'usare un atteggiamento estremamente serio per fare qualcosa di assurdo a creare il contrasto del personaggio.
+
+Personaggio B | @Image2 | Sorella minore in veste blu
+
+Identità del personaggio
+
+Donna adulta dell'Asia orientale, 20-25 anni.
+
+Ereditare rigorosamente la stessa identità confermata in @Image2.
+Tratti del viso fissi
+Contorni del viso rotondi e vivaci
+Aspetto giovanile femminile realistico e naturale
+Acconciatura fissa
+Capelli neri intrecciati
+Forcina in legno
+Costume fisso
+Hanfu in lino verde-blu
+Cintura scura
+Scarpe in tessuto nero
+Arma esclusiva
+
+Un'unica spada in acciaio scuro.
+
+Personalità
+Sveglia
+Vivace
+Leggermente impulsiva
+Evoluzione emotiva
+
+Nervosa → Confusa → Comprensione → Risata inaspettata
+
+Sarà nervosa per essere stata improvvisamente fermata.
+Sarà anche confusa nello scoprire che l'inseguimento è solo un gioco.
+Principio di recitazione
+
+Il sorriso finale deve nascere da una genuina sorpresa.
+
+Non deve fare la carina di proposito.
+
+Personaggio C | Vecchio custode del giardino
+
+Identità del personaggio
+Uomo anziano cinese di circa 60-65 anni.
+Aspetto e abbigliamento fissi
+
+Uomo anziano
+
+Semplici abiti da contadino
+
+I vestiti mostrano una naturale usura
+
+Corpo ancora in salute
+
+Capace di correre velocemente
+
+Oggetti di scena esclusivi
+
+Un piccolo gong di bronzo
+
+Un mazzuolo di legno
+
+Personalità
+
+Entusiasta
+
+Ha un pizzico di voglia di mettersi in mostra
+
+Ama interagire con i visitatori
+
+Dotato della normale saggezza popolare
+Mansione del personaggio
+Deve inseguire i visitatori che partecipano volontariamente al gioco di raccolta.
+Impostazione cognitiva importante
+Il custode sa perfettamente che:
+
+I visitatori hanno già pagato le monete d'argento.
+
+Non sta davvero cercando di catturare dei ladri.
+Non c'è alcuna cattiveria.
+
+Gli piace solo far sembrare emozionante una normale attività di raccolta.
+
+Motivazione comportamentale finale
+Quando la sorella maggiore vuole comprare il ruolo dell'inseguitore, lui lo trova molto divertente ed è disposto a collaborare.
+La fuga finale fa parte del gioco.
+Non è vera paura.
+III. ENVIRONMENT DNA | Scena attuale e relazioni spaziali
+
+1. Principi generali per i riferimenti scenici
+
+Tutte le immagini di riferimento per sfondi e location caricate in questa sessione determinano collettivamente il mondo fisico presente nel video.
+
+Bisogna preservare gli elementi riconoscibili dalle immagini di riferimento:
+
+Terreno e relazioni tra gli edifici principali
+
+Scala degli edifici e materiali reali
+
+Vegetazione, specchi d'acqua e livelli spaziali
+
+Meteo, nuvole/nebbia, illuminazione naturale e riflessi
+
+Relazioni continue tra primo piano, piano medio e sfondo
+
+Terreno e percorsi adatti a far camminare i personaggi in modo realistico
+
+2. Area di raccolta della canna da zucchero
+
+Scegliere uno spazio marginale all'interno della scena di riferimento che offra condizioni di percorribilità reali.
+
+Allestire in modo naturale una piccola area di raccolta della canna da zucchero in stile antico.
+
+Caso A | Terreno di riferimento adatto alla coltivazione
+
+Si può allestire un piccolo appezzamento di canna da zucchero ai suoi margini.
+
+Caso B | Location di riferimento non adatta alla coltivazione
+
+Usare un piccolo banchetto temporaneo di raccolta che espone fasci di canna da zucchero.
+
+Vincolo di scena
+Non rigenerare l'ambiente originale trasformandolo in terreni agricoli sconosciuti solo per includere la canna da zucchero.
+3. Relazioni spaziali iniziali dei personaggi
+Sorella minore
+Posizionata sul percorso reale che porta dall'area di raccolta verso l'esterno.
+Tiene tra le mani una canna da zucchero appena raccolta.
+
+Sorella maggiore
+
+In piedi leggermente più distante, accanto alla sorella minore.
+
+Vecchio custode del giardino
+
+Inizialmente posizionato dietro le due.
+
+Insegue rapidamente lungo il percorso reale stabilito.
+
+Principio di ripresa
+
+L'ingresso dei personaggi, le soste, i dialoghi, il passaggio del gong e l'inseguimento finale devono avvenire tutti in continuità lungo la stessa relazione spaziale.
+IV. PROP LOCK | Oggetti di scena principali e relativi stati
+
+1. Canna da zucchero
+
+Quantità: Una.
+
+Una canna da zucchero appena raccolta.
+
+Stato iniziale
+
+Tenuta dalla sorella minore con entrambe le mani.
+
+Continuità
+
+Sempre la stessa canna da zucchero dalla prima inquadratura in poi.
+
+Non può essere duplicata, scomparire o cambiare improvvisamente.
+
+2. Gettone d'ingresso
+
+Quantità: Uno.
+
+Normale gettone d'ingresso in legno.
+
+Posizione iniziale
+
+Appeso alla cintura della sorella minore.
+
+Funzione narrativa
+
+Dimostra che la sorella minore ha partecipato al gioco di raccolta a pagamento.
+
+Continuità
+
+Presente fin dalla prima inquadratura.
+
+Non può comparire dal nulla nella seconda inquadratura.
+
+3. Ciotola di legno per le offerte
+
+Quantità: Una.
+
+Piccola ciotola di legno usata per raccogliere le monete di rame.
+
+Posizione
+
+Collocata in un punto logico per il pagamento nell'area di raccolta.
+
+Funzione narrativa
+
+Nella terza inquadratura, la sorella maggiore lascia cadere le monete di rame nella ciotola, comprando attivamente il ruolo dell'inseguitore.
+
+4. Piccolo gong di bronzo
+
+Quantità: Uno.
+
+Proprietario iniziale
+
+Vecchio custode del giardino.
+
+Prima inquadratura
+
+Il vecchio usa il gong per creare l'atmosfera dell'inseguimento.
+
+Terza inquadratura
+
+Il vecchio consegna attivamente il gong alla sorella maggiore.
+
+Stato finale
+
+La sorella maggiore tiene il gong e insegue il vecchio.
+
+5. Mazzuolo di legno
+
+Quantità: Uno.
+
+Proprietario iniziale
+
+Vecchio custode del giardino.
+
+Terza inquadratura
+
+Consegnato alla sorella maggiore insieme al gong.
+
+Continuità
+
+Non può essere duplicato.
+
+Non può cambiare proprietario automaticamente.
+V. ENVIRONMENT MOTION | Dinamiche dell'ambiente naturale
+
+L'ambiente resta vivo.
+
+Vento
+
+Muove naturalmente:
+
+Maniche
+
+Foglie
+
+Ciocche di capelli
+
+Nuvole/Nebbia
+
+Si muovono lentamente.
+
+Sfondo
+
+Figure lontane e riflessi sulla superficie dell'acqua mantengono variazioni naturali.
+
+Principio narrativo ambientale
+
+L'ambiente fornisce solo:
+
+Mondo reale
+
+Spazio per le riprese
+
+Dinamiche naturali
+
+Non partecipa attivamente alla causalità della storia.
+VI. SHOT 01 | 0–5s
+
+Creare l'aggancio: Sorpresa a rubare la canna da zucchero?
+
+Tipo di inquadratura
+
+Carrellata laterale a figura intera/media-lunga.
+
+Obiettivo narrativo
+
+Far credere istantaneamente agli spettatori che la sorella minore abbia davvero rubato qualcosa.
+
+1. Fotogramma iniziale
+
+La telecamera parte dal lato frontale della sorella minore.
+
+Tiene in mano una canna da zucchero appena raccolta.
+Sta lasciando l'area di raccolta lungo il percorso praticabile nella scena di riferimento.
+Posizione della sorella maggiore
+
+La stessa sorella maggiore immortale della spada in veste bianca è in piedi leggermente più distante accanto a lei.
+
+2. Il custode insegue all'improvviso
+
+All'improvviso!
+
+Un forte e realistico suono di gong di bronzo proviene dal fondo dell'inquadratura.
+
+Un vecchio custode del giardino insegue rapidamente da dietro.
+
+Mentre batte il gong, grida eccitato:
+
+Prima battuta di dialogo
+[Custode del giardino | Eccitato, Forte]
+"Presa! Canta una canzone!"
+
+3. La sorella minore si spaventa
+
+La sorella minore è colta di soprassalto dall'urlo improvviso.
+
+Lei:
+Smette di camminare.
+
+Si gira di scatto.
+
+Quasi fa cadere la canna da zucchero che ha in mano.
+
+Ma riesce a trattenerla saldamente in tempo.
+
+Seconda battuta di dialogo
+
+Cerca immediatamente aiuto dalla sorella maggiore:
+
+[Sorella minore | Nervosa, Urgente]
+
+"Sorella maggiore! Ho pagato la quota!"
+
+4. La sorella maggiore si mette sulla difensiva
+
+La stessa sorella maggiore immortale della spada in veste bianca vede il custode che insegue.
+
+Porta istintivamente la mano destra vicino all'elsa della spada.
+
+Requisiti di recitazione
+
+Il movimento è estremamente leggero.
+
+Non deve sguainare la spada.
+
+Effetto fotografico
+
+La telecamera sfrutta questo movimento leggerissimo per creare brevemente un senso di vero scontro nella scena.
+
+5. Fine della prima inquadratura
+
+Il vecchio si ferma davanti alle due.
+
+Suspense iniziale
+
+Un'immortale della spada entrerà in conflitto con un comune custode per una canna da zucchero?
+VII. SHOT 02 | 5–10s
+
+Conflitto ed escalation: Aveva pagato solo per farsi inseguire?
+
+Tipo di inquadratura
+
+Inquadratura media stabile di tre quarti laterale.
+
+Obiettivo narrativo
+
+Rivelare le vere regole della "caccia ai ladri".
+Preparare contemporaneamente il terreno per il prossimo ribaltamento.
+1. Relazione spaziale dei personaggi
+Mantenere l'asse spaziale dei personaggi dell'inquadratura precedente.
+
+Sorella maggiore
+
+In piedi accanto alla sorella minore.
+
+Vecchio custode del giardino
+
+In piedi esattamente davanti alle due.
+
+Sorella minore
+
+Tiene ancora stretta la stessa canna da zucchero.
+
+2. La sorella maggiore nota il gettone di legno
+
+La sorella maggiore non sguaina la spada.
+
+Nota il gettone d'ingresso in legno appeso alla cintura della sorella minore.
+
+Così fa notare con calma:
+
+Terza battuta di dialogo
+
+[Sorella maggiore | Calma, Pacata]
+
+"Ha un gettone d'ingresso in legno."
+
+3. Il vecchio rivela le regole
+
+Il vecchio vede il gettone.
+
+Per niente in colpa.
+
+Mostra invece un sorriso particolarmente naturale e compiaciuto.
+
+Quarta battuta di dialogo
+
+[Custode del giardino | Compiaciuto, Ovvio]
+
+"I soldi pagati servono PROPRIO a farsi inseguire!"
+4. Le vere regole vengono svelate
+
+In realtà, dopo aver pagato, i visitatori possono provare l'esperienza di essere inseguiti dal custode.
+
+Il vecchio non sta davvero catturando dei ladri.
+
+È solo un gioco di raccolta a cui entrambi partecipano consapevolmente e volontariamente.
+
+5. La reazione della sorella minore
+
+La sorella minore abbassa lentamente lo sguardo.
+
+Guarda la canna da zucchero tra le braccia.
+
+Non ha ancora capito del tutto la situazione.
+
+6. La sorella maggiore scopre una nuova possibilità
+
+La sorella maggiore ha già compreso la regola.
+
+Recitazione chiave
+
+La sorella maggiore non sorride subito.
+
+Sposta lentamente lo sguardo sul gong di bronzo nella mano del vecchio.
+
+Nei suoi occhi compare un interesse estremamente sottile.
+
+Suspense
+
+Gli spettatori non sanno cosa intenda fare.
+
+Ma le sue azioni successive hanno già una chiara base causale.
+VIII. SHOT 03 | 10–15s
+
+Ribaltamento dei ruoli: Oggi tocca a me acchiapparti
+
+Tipo di inquadratura
+
+Inquadratura media in movimento continuo.
+
+Obiettivo narrativo
+
+Far accadere alla sorella maggiore l'azione più inaspettata e divertente di tutto il film.
+
+1. La sorella maggiore paga attivamente
+
+La sorella maggiore tira fuori una moneta di rame dalla manica.
+
+Non sguaina la spada.
+
+Né continua a discutere con il vecchio.
+
+Invece, con molta calma, mette la moneta di rame nella piccola ciotola di legno lì vicino.
+
+Effetto sonoro
+
+Suono nitido della moneta di rame che cade nella ciotola.
+
+2. La sorella maggiore propone un nuovo gioco
+
+Poi, la sorella maggiore guarda il vecchio custode.
+
+Quinta battuta di dialogo
+
+[Sorella maggiore | Calma, Seria]
+
+"Allora compro io il ruolo dell'inseguitore."
+
+3. Il vecchio è sorpreso
+
+Il vecchio resta sbalordito.
+
+Aveva previsto solo di inseguire i visitatori.
+
+Non si aspettava che qualcuno volesse comprare il ruolo dell'inseguitore.
+
+Cambiamento nella recitazione
+
+Il vecchio reagisce in fretta.
+
+Trova la cosa molto divertente.
+
+4. Passaggio del gong
+
+Il vecchio consegna subito e felicemente il suo:
+
+Gong di bronzo
+
+Mazzuolo
+
+Alla sorella maggiore.
+
+Requisito per il passaggio
+
+Completare un chiaro passaggio dell'oggetto di scena.
+
+La sorella maggiore riceve con entrambe le mani.
+
+Stato del personaggio
+
+La sua espressione rimane seria come quando impugna quotidianamente la spada.
+
+5. La sorella maggiore batte il gong
+Il secondo successivo.
+
+La sorella maggiore alza improvvisamente la mano.
+
+Batte il gong.
+
+Effetto sonoro
+
+Bang!
+
+Nitido e forte.
+
+Sesta battuta di dialogo
+
+[Sorella maggiore | Seria, Energica]
+
+"Prendete il ladro!"
+
+6. Il vecchio diventa l'inseguito
+
+Il vecchio inizialmente è sbalordito.
+
+Poi capisce che la sorella maggiore si prepara a scambiare i ruoli con lui.
+
+Si gira eccitato.
+
+Corre in avanti lungo il percorso originale.
+
+Motivazione comportamentale
+
+Questo è un gioco divertente e volontario.
+
+Sta collaborando attivamente con la sorella maggiore.
+
+7. La sorella maggiore inizia davvero a inseguire
+
+La sorella maggiore tiene il gong.
+
+Inizia davvero a inseguire il vecchio.
+
+Requisiti d'azione
+
+Pulita
+
+Leggera
+
+Naturale
+
+Accelerazione realistica dei passi
+
+Cambi continui del baricentro del corpo
+
+Vietato
+Nessun teletrasporto.
+
+Nessun volo sulle spade.
+
+La sorella maggiore insegue semplicemente come qualcuno che si unisce davvero al gioco.
+
+8. La reazione finale della sorella minore
+La sorella minore resta sul posto tenendo la canna da zucchero.
+
+Prima osserva:
+
+Il custode, sempre così imponente, che diventa improvvisamente quello inseguito.
+
+Poi osserva:
+
+La sorella maggiore, di solito fredda e seria, che insegue entusiasta dietro di lui.
+
+Alla fine non riesce a trattenersi e scoppia a ridere.
+
+Requisiti per il sorriso
+
+Il sorriso è naturale.
+
+Prodotto da una genuina sorpresa e dal rilassamento fisico.
+
+9. Composizione finale su tre livelli
+
+Primo piano | Sorella minore
+
+Tiene la canna da zucchero.
+
+Ride in modo naturale.
+
+Piano medio | Sorella maggiore in veste bianca
+
+Tiene il gong.
+
+Insegue il vecchio.
+
+Sfondo | Vecchio custode del giardino
+
+Scappa via ridendo.
+
+Direzione del movimento dei personaggi coerente con il percorso nella scena di riferimento.
+
+Requisito spaziale
+
+Tutti i personaggi rimangono nello stesso spazio fisico reale.
+
+10. Ribaltamento comico finale
+
+Questa volta, chi veniva inseguito diventa chi insegue.
+
+L'intero video si chiude sulla naturale battuta comica generata dall'inversione dei ruoli.
+
+Nessuna battuta riassuntiva aggiunta.
+
+Nessun ulteriore ribaltamento inserito.
+IX. DIRECTOR'S NOTES | Regia e recitazione
+
+1. Ritmo comico
+
+Fase 1 | 0–5s
+
+Creare un'illusione di pericolo.
+
+Fase 2 | 5–10s
+
+Rivelare le assurde regole del gioco.
+
+Fase 3 | 10–15s
+Lasciare che la sorella maggiore usi attivamente le regole per completare l'inaspettato scambio di ruoli.
+Ritmo generale
+Tensione → Confusione → Consapevolezza → Ribaltamento dei ruoli → Risata naturale
+Le risate devono nascere dalle azioni dei personaggi.
+
+2. La recitazione per contrasto della sorella maggiore
+
+Di solito
+
+Elegante
+
+Composta
+
+Rilassata
+
+Dopo aver iniziato l'inseguimento
+
+L'espressione resta seria.
+
+Ma le azioni mostrano chiaramente che si sta godendo un po' il gioco.
+
+Cuore della comicità
+
+Partecipare a un gioco per acchiappare i ladri con la stessa serietà riservata ai nemici più potenti.
+
+Vincolo importante
+
+Non deve trasformarsi improvvisamente in un personaggio da commedia esagerata.
+
+3. La reazione della sorella minore
+
+Inizio
+
+Veramente nervosa.
+
+Parte centrale
+
+Davvero confusa.
+
+Finale
+
+Dopo aver capito tutto, mostra un sorriso naturale e autentico.
+
+Principio di recitazione
+
+Il sorriso non deve sembrare un interruttore meccanico delle espressioni.
+
+Dovrebbe derivare da un graduale rilassamento rispetto allo stato fisico teso precedente.
+
+4. Vecchio custode del giardino
+
+Il custode è una persona normale dotata di saggezza popolare.
+
+Sa di gestire un'esperienza di raccolta divertente.
+
+Ama interagire con i visitatori.
+
+Di fronte alla richiesta della sorella maggiore
+
+La trova molto interessante.
+
+Quindi è disposto a collaborare.
+
+Fuga finale
+
+Fa parte del gioco.
+
+Non è vera paura.
+X. CINEMATOGRAPHY | Fotografia e montaggio
+
+SHOT 01 | Carrellata laterale media-lunga
+
+Scopo fotografico
+
+Sfruttare il custode che entra improvvisamente nel piano medio dallo sfondo per creare urgenza spaziale.
+
+Fuoco dell'inquadratura
+
+Sorella minore che tiene la canna da zucchero
+
+Vecchio che insegue dallo sfondo
+
+Sorella maggiore che si mette leggermente sulla difensiva
+
+SHOT 02 | Inquadratura media stabile di tre quarti
+
+Scopo fotografico
+
+Attraverso:
+
+Contatto visivo tra i personaggi
+
+Gettone d'ingresso in legno
+
+Dialoghi dei personaggi
+Completare la rivelazione delle informazioni.
+
+Fuoco dell'inquadratura
+
+La relazione spaziale dei tre personaggi deve essere chiara.
+
+Limite
+Non serve tagliare su troppi primi piani degli oggetti.
+SHOT 03 | Movimento medio continuo
+
+Scopo fotografico
+
+Completare il passaggio del gong.
+
+Poi seguire l'inizio dell'inseguimento da parte della sorella maggiore, adattando naturalmente la composizione.
+
+Requisito fondamentale
+
+Completare il ribaltamento dei ruoli il più possibile all'interno della stessa inquadratura.
+
+Fotogramma finale
+
+Mantenere:
+
+La reazione della sorella minore in primo piano
+
+L'inseguimento che avviene sullo sfondo
+
+Requisiti di montaggio
+
+Solo tre inquadrature principali.
+
+Ogni taglio ha un chiaro scopo narrativo.
+
+Vietato
+
+Panoramiche rapide senza senso
+
+Transizioni spettacolari ma irrilevanti
+
+Inversioni improvvise della direzione dell'inseguimento
+
+Confusione degli assi spaziali tra le inquadrature
+
+Continuità
+
+Direzione dell'inseguimento coerente con l'asse spaziale.
+XI. AUDIO MASTER | Sound design
+
+1. Dialoghi in mandarino
+
+Tutto il film mantiene rigorosamente sei battute di dialogo in mandarino.
+
+0–5s
+
+[Custode del giardino]
+
+"Presa! Canta una canzone!"
+
+[Sorella minore]
+
+"Sorella maggiore! Ho pagato la quota!"
+
+5–10s
+
+[Sorella maggiore]
+
+"Ha un gettone d'ingresso in legno."
+
+[Custode del giardino]
+
+"I soldi pagati servono PROPRIO a farsi inseguire!"
+
+10–15s
+
+[Sorella maggiore]
+
+"Allora compro io il ruolo dell'inseguitore."
+
+[Sorella maggiore]
+"Prendete il ladro!"
+2. Requisiti per l'esecuzione dei dialoghi
+
+Dialoghi naturali
+
+Pronuncia accurata
+
+Articolazione chiara
+
+Voce dei personaggi stabile
+
+Tutti i personaggi sincronizzano il labiale quando parlano
+Non aggiungere narrazioni esplicative
+3. Effetti sonori chiave
+
+Prima inquadratura
+
+Il gong viene battuto per la prima volta
+
+Reale, forte.
+
+La sorella minore si ferma di colpo
+
+Passi nitidi.
+
+La canna da zucchero sfiora il tessuto
+
+Leggero e naturale rumore di attrito.
+
+Seconda inquadratura
+
+Mantenere il naturale rumore di fondo ambientale.
+
+Dialoghi dei personaggi chiari.
+
+Terza inquadratura
+
+Moneta che cade nella ciotola
+
+Suono nitido della moneta di rame che colpisce la ciotola di legno.
+
+Passaggio del gong
+
+Leggero suono di contatto metallico.
+La sorella maggiore batte il gong per la seconda volta
+
+Chiaro e forte.
+
+Inseguimento finale
+
+Passi di corsa naturali.
+
+La sorella minore ride
+
+Risata reale e naturale.
+
+4. Musica di sottofondo
+Musica di sottofondo:
+Allegra, ma misurata.
+Vincoli musicali
+
+Non deve coprire:
+
+Dialoghi
+
+Suoni del gong
+
+Moneta che cade nella ciotola
+
+Passi importanti
+
+Vietato
+Non usare risate registrate.
+XII. CONTINUITY | Continuità di personaggi, oggetti e ambiente
+
+1. Asset dei personaggi
+
+@Image1 | Sorella maggiore
+
+Deve mantenere:
+
+Viso
+
+Acconciatura
+
+Età percepita
+
+Proporzioni corporee
+
+Hanfu in seta bianca ricamata
+
+Spada lunga d'argento
+
+@Image2 | Sorella minore
+
+Deve mantenere:
+
+Viso
+
+Acconciatura
+
+Età percepita
+
+Proporzioni corporee
+
+Hanfu in lino verde-blu
+
+Spada in acciaio scuro
+
+Custode del giardino
+Indossa sempre gli stessi semplici abiti da contadino.
+Relazione spaziale
+Le posizioni e i percorsi d'azione dei tre personaggi sono chiari e continui.
+2. Continuità dello stato degli oggetti
+Canna da zucchero
+
+La sorella minore tiene la stessa canna da zucchero dalla prima inquadratura.
+
+Gettone d'ingresso in legno
+
+Appeso alla cintura della sorella minore dalla prima inquadratura.
+
+Gong di bronzo
+
+Proprietario iniziale:
+
+Custode del giardino.
+
+Terza inquadratura:
+
+Il vecchio lo consegna attivamente alla sorella maggiore.
+
+Dopo il completamento del passaggio:
+
+La sorella maggiore può battere il gong.
+
+Moneta di rame
+
+Deve cadere realmente nella ciotola di legno.
+
+Vietato
+
+Nessun oggetto aggiuntivo che compare dal nulla.
+
+3. Continuità della scena
+
+Tutte le scene ereditano rigorosamente gli sfondi e i riferimenti di location caricati in questa sessione.
+
+Non deve cambiare
+
+Terreno originale importante
+
+Relazioni tra gli edifici
+
+Scala degli edifici
+
+Meteo
+
+Direzione della luce principale
+
+Consentito
+
+Cambi di angolazione della telecamera
+
+Punti di riferimento sullo sfondo che entrano o escono naturalmente dall'inquadratura seguendo la posizione della telecamera
+
+Vietato
+
+Passare improvvisamente da una scena a una location sconosciuta.
+
+4. Movimento continuo dell'ambiente naturale
+
+Mantenere sempre:
+
+Vento naturale
+
+Specchi d'acqua
+
+Nuvole/Nebbia
+Vegetazione
+Riflessi
+Attività in lontananza
+
+Principio ambientale
+
+Lo sfondo resta vivo, ma non cambia attivamente la causalità della storia.
+XIII. SEEDANCE 2.0 MINI | Requisiti finali di esecuzione
+
+Specifiche di base
+
+Durata totale: Rigorosamente 15 secondi
+Rapporto d'aspetto: 16:9
+Modello: Seedance 2.0 Mini
+Tipo di schermo: Commedia Xianxia antica live-action cinematografica
+Numero di inquadrature: 3 Inquadrature principali
+
+Configurazione dei personaggi
+
+Soggetti principali
+
+Due donne adulte confermate dell'Asia orientale.
+Ruolo secondario importante
+Un vecchio custode del giardino.
+Spazio della storia
+Stessa location reale determinata dalle immagini di riferimento.
+Requisiti d'azione
+
+Fisicamente plausibili
+
+Direzione dell'inseguimento chiara
+
+Interazioni tra i personaggi credibili
+Dinamica dell'inseguimento comprensibile a colpo d'occhio
+Recitazione dei personaggi
+Espressioni facciali naturali
+Identità dei personaggi stabili
+Sincronizzazione labiale precisa nei dialoghi
+
+Audio
+
+Spazio sonoro continuo.
+
+Contenuti aggiuntivi vietati
+
+Nessun sottotitolo
+
+Nessun oggetto moderno
+
+Nessuna narrazione extra
+
+Nessun personaggio estraneo
+
+Nessuna trama estranea
+
+Nessuna duplicazione di oggetti dal nulla
+
+Nessun cambio di scena improvviso
+XIV. FINAL ACCEPTANCE | Criteri di accettazione finale
+
+0–3s | Primo livello di percezione
+
+Gli spettatori pensano:
+
+La sorella minore ha davvero rubato la canna da zucchero ed è stata scoperta.
+
+Deve comparire
+
+Sorella minore che tiene la canna da zucchero
+
+Vecchio che batte il gong e insegue
+
+Sorella minore spaventata
+
+Sorella maggiore leggermente sulla difensiva
+
+3–10s | Secondo livello di percezione
+
+Gli spettatori capiscono:
+
+Questo è un gioco di raccolta divertente, a pagamento e volontario.
+
+Deve comparire
+
+Gettone d'ingresso in legno della sorella minore
+
+Sorella maggiore che indica il gettone
+
+Vecchio che spiega le regole di pagamento
+Sorella maggiore che nota il gong
+10–15s | Ribaltamento d'azione finale
+Gli spettatori vedono:
+La sorella maggiore, solitamente dignitosa, compra attivamente il ruolo dell'inseguitore.
+
+Deve comparire
+
+Sorella maggiore che inserisce la moneta di rame.
+Sorella maggiore che propone di comprare il ruolo dell'inseguitore.
+
+Vecchio che consegna attivamente gong e mazzuolo.
+
+Sorella maggiore che riceve il gong.
+
+Sorella maggiore che batte il gong.
+
+Sorella maggiore che grida "Prendete il ladro!"
+
+Vecchio che si gira attivamente e fugge.
+
+Sorella maggiore che insegue davvero lungo il percorso.
+Sorella minore che ride naturalmente tenendo la canna da zucchero.
+Composizione finale
+Primo piano:
+Sorella minore che tiene la canna da zucchero, ridendo forte in modo naturale.
+Piano medio:
+
+Sorella maggiore in veste bianca che tiene il gong, inseguendo il custode.
+
+Sfondo:
+
+Custode che scappa ridendo lungo il percorso originale.
+
+Effetto comico finale
+
+Chi inseguiva è diventato l'inseguito, e chi era inseguito è diventato lo spettatore.
+
+Il finale si chiude direttamente su:
+La risata della sorella minore + L'azione continua della sorella maggiore che insegue il vecchio.
+Non lasciare che nessun personaggio spieghi la battuta al pubblico.
+XV. NEGATIVE PROMPT
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119294727413710848/img/706TmLLKzJEUvGA3.jpg" width="600" alt="Oggi ti acchiappo: Commedia dell'inseguimento nella canna da zucchero">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13660)**
+
+**Autore:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2119295677381652893) | **Pubblicato:** Nov 8, 2026
+
+---
+### Regalo di compleanno frainteso: Cortometraggio comico Xianxia
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt completo per Seedance 2.0 Mini per generare un cortometraggio live-action di commedia Xianxia da 15 secondi. Dettaglia il blocco dei personaggi, la continuità spaziale, la gestione degli oggetti di scena e una narrazione in tre inquadrature in cui un maestro fraintende i preparativi segreti dei suoi discepoli per il suo compleanno.
+
+#### 📝 Prompt
+
+```
+Il Maestro sta arrivando, agiamo subito.
+prompt:
+"Il regalo di compleanno frainteso" | Prompt cinese completo per Seedance 2.0 Mini
+
+I. Panoramica del progetto
+Genera un cortometraggio comico live-action Xianxia con colpo di scena, della durata di 15 secondi, in formato orizzontale 16:9 e di qualità cinematografica, adattato per Seedance 2.0 Mini.
+
+Requisiti stilistici generali:
+Puro mondo Xianxia dell'antica Cina
+Attori adulti reali di origine est-asiatica
+Costumi classici
+Illuminazione naturale di livello cinematografico
+Texture della pelle realistica
+Grana della pellicola delicata e raffinata
+Recitazione dei personaggi misurata ma espressiva
+Assimilazione del linguaggio comico:
+Gestione chiara degli spazi tipica dei classici film muti
+Reazioni trattenute in stile sitcom britanniche
+Umorismo naturale che nasce dai malintesi tra i personaggi, tipico della commedia cinese
+Non imitare inquadrature o battute di opere specifiche: limitati a prenderne in prestito i meccanismi comici efficaci, trasformandoli nella storia originale di questo film.
+
+II. Trama principale
+La trama centrale di questa sessione è la seguente:
+
+Due spade immortali preparano in segreto un regalo di compleanno per il loro Maestro.
+Il Maestro le sente dire misteriosamente "agiamo subito" e crede erroneamente che stiano tramando qualcosa.
+Si presenta in anticipo per interrogarle, scoprendo per caso la sorpresa di compleanno destinata a lui.
+Per onorare le intenzioni delle sue discepole, chiede attivamente di "ricominciare da capo", fingendo di vedere il regalo per la prima volta.
+Il vero colpo di scena comico
+La persona solitamente più solenne e autorevole
+mette in scena volontariamente una recita goffissima per assecondare la sorpresa delle discepole.
+Questo è anche il cuore caldo del film:
+il Maestro non vuole proteggere il proprio orgoglio, ma il cuore sincero delle due discepole che gli hanno preparato una sorpresa.
+Tutti e tre prendono sul serio i propri obiettivi;
+l'umorismo non nasce da una stupidità forzata.
+
+III. Blocco dei personaggi
+
+Ruolo A | Sorella maggiore spadaccina immortale | @Image1
+Sempre lo stesso personaggio femminile adulto est-asiatico confermato.
+Ereditare rigorosamente dall'immagine di riferimento:
+Identità facciale
+Forma del viso
+Proporzioni dei lineamenti
+Texture della pelle
+Corporatura
+Acconciatura
+Coerenza di costumi e oggetti personali:
+Stesso abito Xianxia in seta bianca ricamata
+Cintura argentata in vita
+Fermaglio per capelli in giada bianca
+Lunghi capelli neri semi-raccolti
+Stessa spada lunga d'argento
+Temperamento del personaggio:
+Elegante e pura
+Abituata a mantenere l'autorità di sorella maggiore
+Ideatrice principale di questa sorpresa di compleanno
+Requisiti di recitazione:
+Prima metà: organizza la sorpresa in modo serio e misurato
+Quando nota l'improvvisa apparizione del Maestro, mostra una breve perdita di compostezza
+Finale: non riesce a trattenere un sorriso durante la goffa recita del Maestro
+
+Ruolo B | Sorella minore | @Image2
+Sempre lo stesso personaggio femminile adulto est-asiatico confermato.
+Ereditare rigorosamente dall'immagine di riferimento:
+Identità facciale
+Corporatura
+Colore della pelle
+Acconciatura
+Abbigliamento
+Coerenza di costumi e oggetti personali:
+Stesso abito verde in stile antico
+Cintura scura
+Lunghi capelli neri intrecciati
+Stessa spada in acciaio scuro
+Personalità:
+Agile
+Sveglia e pronta di spirito
+Più espressiva emotivamente rispetto alla sorella maggiore
+Responsabilità:
+Custodire il regalo di compleanno per il Maestro
+Requisiti di recitazione:
+Prima metà: custodisce il regalo con cura
+Parte centrale: rivela attivamente il regalo, risolvendo il malinteso
+Finale: offre la valutazione più diretta e naturale della goffa recita del Maestro
+
+Ruolo C | Maestro
+Un uomo est-asiatico anziano.
+Capelli grigio-bianchi raccolti ordinatamente, indossa un'antica veste dai colori sobri e dalla texture realistica.
+Profilo del personaggio:
+È il maestro delle due ragazze
+Solitamente autorevole e misurato
+In realtà nutre un profondo affetto per le due discepole
+Requisiti di recitazione:
+Prima metà: deve emanare davvero l'aura di un anziano saggio Xianxia
+Parte centrale: mostra una reazione in cui si intrecciano sorpresa, emozione e leggero imbarazzo dopo aver capito di aver rovinato la sorpresa
+Finale: l'effetto comico nasce dal fatto che rinuncia attivamente alla propria autorità, rimettendosi in scena di proposito
+Nessuna buffoneria esagerata
+La recitazione del "fingere sorpresa" deve far capire chiaramente che è il personaggio a recitare volontariamente in modo falso, senza che l'intero film assuma un tono frivolo
+
+IV. Location attuale e continuità spaziale
+Tutte le immagini di sfondo e di riferimento della location caricate in questa sessione rappresentano il mondo fisico reale di questo cortometraggio, non una semplice ispirazione artistica.
+Principio di definizione dell'ambiente
+Estrarre innanzitutto dalle immagini di riferimento da 3 a 6 ancoraggi ambientali facilmente identificabili, ad esempio:
+Rapporti architettonici reali
+Morfologia del terreno
+Passaggi
+Pedane
+Vegetazione
+Specchi d'acqua
+Materiali caratteristici
+Condizioni meteo
+Direzione della luce
+È necessario attenersi rigorosamente a quanto effettivamente presente nelle immagini di riferimento di questa sessione.
+Restrizioni importanti
+Non è possibile ereditare arbitrariamente portoni di montagna, palazzi, foreste di bambù, ecc. delle sessioni precedenti.
+La trama deve svolgersi interamente nello spazio definito dalle immagini di riferimento di questa sessione
+Scegliere un'area reale in cui tre persone possano sostare, parlare e camminare
+Posizioni iniziali dei personaggi
+La sorella maggiore e la sorella minore sono vicine tra loro
+Il Maestro si trova inizialmente alcuni passi dietro di loro
+Il Maestro si avvicina naturalmente seguendo il percorso stabilito
+Quando la telecamera cambia posizione, le posizioni relative e le direzioni di movimento dei tre devono rimanere coerenti
+
+V. Oggetti di scena principali
+Un solo regalo di compleanno:
+Impostazione dell'oggetto
+Piccolo vassoio di bambù
+Coperto da un panno rosso
+Sotto il panno rosso nasconde un dolce artigianale unico a forma di pesca della longevità
+Il dolce ha un colore naturalmente chiaro
+Leggera sfumatura rosata sulla parte superiore
+Texture realistica di impasto
+Dimensioni proporzionate, adatto per essere tenuto con entrambe le mani
+Requisito di continuità
+Questo oggetto deve rimanere sempre lo stesso in tre inquadrature:
+Non sono ammessi duplicati
+Non può scomparire all'improvviso
+Non può cambiare forma
+Non può comparire dal nulla in altri punti
+Proprietà dell'oggetto
+Nella prima e nella parte centrale è sempre custodito dalla sorella minore
+Alla fine viene consegnato al Maestro con entrambe le mani
+Il panno rosso non si riposiziona automaticamente sul dolce dopo essere stato svelato nella parte centrale
+
+VI. Dinamiche ambientali naturali
+Elementi reali presenti nelle location di riferimento:
+Vento
+Specchi d'acqua
+Alberi
+Erba
+Nebbia di montagna
+Nuvole
+Riflessi
+Figure in lontananza
+Possono mantenere movimenti naturali conformi alle leggi della fisica.
+Gli abiti e i capelli dei personaggi devono muoversi in modo naturale seguendo i movimenti del corpo e il vento reale.
+Regole narrative
+Tutte le dinamiche di sfondo restano neutre ai fini della narrazione:
+La sorpresa di compleanno è preparata dai personaggi
+Il malinteso nasce dal Maestro che ascolta il dialogo
+Il colpo di scena si compie attraverso le azioni attive dei personaggi
+L'ambiente non deve generare incidenti per portare avanti la trama.
+
+VII. Narrazione segmentata e design delle inquadrature
+
+0-5s | Impostazione della trama: un "Agiamo subito" genera il malinteso
+Funzione dell'inquadratura
+Il campo lungo definisce lo spazio
+Crea un divario informativo tra il pubblico e il Maestro
+Requisiti visivi
+Apertura con una panoramica a schermo intero sotto la luce naturale del giorno, in stile cinematografico.
+La telecamera resta stabile, permettendo al pubblico di cogliere i veri livelli spaziali della location di riferimento.
+La stessa sorella maggiore in bianco e la sorella minore in verde occupano la posizione principale.
+Sono vicine tra loro.
+La sorella minore tiene con cura all'altezza della vita il vassoio di bambù coperto dal panno rosso.
+La sorella maggiore si avvicina leggermente e sussurra:
+Sorella maggiore:
+"Il Maestro sta arrivando, agiamo subito."
+La sorella minore annuisce con grande serietà.
+Custodisce il vassoio di bambù con attenzione, come se stesse eseguendo un piano importantissimo.
+L'ingresso del Maestro
+Dietro di loro, lo stesso Maestro anziano cammina naturalmente lungo il percorso già stabilito.
+Sente per caso le parole della sorella maggiore.
+I suoi passi si fermano di colpo.
+Nel suo sguardo, prima calmo, compare una leggera confusione.
+Il Maestro guarda prima la sorella maggiore.
+Poi la sorella minore.
+Infine il misterioso vassoio coperto dal panno rosso tra le braccia della sorella minore.
+La telecamera non si affretta a cambiare inquadratura.
+Mantiene pienamente una breve pausa visiva.
+Effetto narrativo
+Il pubblico sa che:
+Le due donne stanno effettivamente tramando qualcosa in segreto
+Ma non sa ancora cosa
+Il Maestro inizia a sospettare:
+Stanno forse facendo qualcosa alle mie spalle?
+
+5-10s | Il malinteso svelato: era un regalo di compleanno
+Funzione dell'inquadratura
+Inquadratura media a tre personaggi
+Completa il ribaltamento cognitivo attraverso la chiara rivelazione dell'oggetto
+Requisiti visivi
+Stacco su una chiara inquadratura media a tre.
+Lo stesso Maestro entra nell'inquadratura davanti alle due donne seguendo il percorso precedentemente stabilito.
+Non si arrabbia né alza la voce.
+Mantiene semplicemente l'autorità di un vero anziano della setta e chiede con voce profonda:
+Maestro:
+"Cosa state cercando di fare?"
+Le due sorelle girano immediatamente la testa.
+La sorella minore è leggermente sorpresa.
+L'espressione solitamente elegante della sorella maggiore mostra una breve innaturalezza.
+Si scambiano rapidamente uno sguardo.
+Poi, non sguainano le spade né compiono gesti minacciosi.
+La sorella minore allunga direttamente la mano e solleva con naturalezza l'unico panno rosso che copre il vassoio.
+Lo stesso dolce di compleanno a forma di pesca della longevità appare nitidamente nell'inquadratura.
+Le due spade immortali sorridono contemporaneamente e dicono insieme:
+Sorelle maggiore e minore:
+"Buon compleanno, Maestro!"
+La reazione del Maestro
+La telecamera mantiene chiari i rapporti spaziali tra i tre.
+L'espressione seria del Maestro si congela all'istante.
+Abbassa lo sguardo sulla pesca della longevità.
+Poi alza gli occhi verso le due discepole sorridenti che lo guardano.
+Finalmente capisce:
+Le discepole gli stavano preparando in segreto una sorpresa di compleanno
+E la sua domanda ha appena rovinato la sorpresa in anticipo
+Negli occhi del Maestro si intrecciano sorpresa, emozione e un leggero imbarazzo.
+Lasciare una pausa evidente per questo processo di comprensione.
+Lo sfondo rimane naturalmente vivido ma del tutto estraneo al colpo di scena.
+
+10-15s | Ribaltamento e recupero: il Maestro chiede di ricominciare
+Funzione dell'inquadratura
+Primo piano del personaggio
+Ripetizione attiva della scena
+Il contrasto tra l'emozione reale e la recita finta chiude il cerchio comico
+Requisiti visivi
+Stacco sul primo piano del Maestro.
+Al Maestro viene improvvisamente un'idea.
+Alza dolcemente una mano e dice con tono serio:
+Maestro:
+"Aspettate, ricominciamo da capo."
+Le due sorelle restano sbalordite.
+Lo stesso Maestro si gira attivamente,
+fa due passi indietro lungo lo stesso percorso da cui era arrivato.
+Si sistema leggermente le maniche.
+Poi si gira di nuovo.
+Questa volta, assume intenzionalmente l'espressione di chi non sa assolutamente nulla di ciò che è appena successo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119270985451102209/img/iU-nVG6UFqoc2Dcc.jpg" width="600" alt="Regalo di compleanno frainteso: Cortometraggio comico Xianxia">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13657)**
+
+**Autore:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2119271742443327736) | **Pubblicato:** Nov 8, 2026
+
+---
+### Mezzo Battito: Sequenza d'Azione di Duello con Spada Xianxia
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt dettagliato per la coreografia d'azione destinato a Seedance 2.0 Mini, che descrive un combattimento con la spada ad alta tensione della durata di 15 secondi tra due discepoli e due nemici su una passerella celestiale di un palazzo. Si concentra sulle meccaniche ritmiche del combattimento, sulla continuità spaziale e sulla fisica realistica.
+
+#### 📝 Prompt
+
+```
+Non aspettarli
+prompt
+"Mezzo tempo" | Prompt completo in cinese per Seedance 2.0 Mini
+I. Panoramica del progetto
+Genera un cortometraggio d'azione Xianxia cinese antico puro, realistico e live-action di livello cinematografico, della durata di 15 secondi, in formato orizzontale 16:9.
+Modello: Seedance 2.0 Mini
+Requisiti stilistici generali:
+
+Attori adulti reali di origine est-asiatica
+Luce naturale diurna da set cinematografico
+Dettagli della pelle nitidi
+Texture realistiche per tessuti in seta e metalli
+Grana pellicola delicata
+Scambi di scherma ad alta tensione
+Riprese fluide con rapporti spaziali chiari
+Requisiti d'azione:
+I movimenti devono essere fluidi, ma gli impatti non possono risultare morbidi
+Tutte le azioni devono presentare chiaramente: avvio
+accelerazione
+contatto tra le armi
+trasmissione della forza
+spostamento del baricentro
+prosecuzione per inerzia
+fase di recupero
+
+Motivo d'azione centrale di questa sessione:
+"Mezzo tempo"
+Due spadaccini nemici adottano ritmi d'attacco deliberatamente sfasati.
+Non attaccano mai in simultanea; al contrario, quando l'attacco del primo nemico viene appena parato e la protagonista non ha ancora riportato completamente la spada in posizione, il secondo nemico incalza immediatamente con un nuovo colpo.
+Le due protagoniste sono così costrette a difendersi sempre con mezzo tempo di ritardo.
+I nemici non ripetono meccanicamente la stessa sequenza.
+Quando le due protagoniste iniziano a intuire il ritmo d'attacco, i nemici modificano attivamente le tempistiche per riprendere il vantaggio.
+Il vero ribaltamento dell'intera sequenza nasce dal fatto che:
+La sorella maggiore e la sorella minore smettono finalmente di aspettare la prossima stoccata nemica e iniziano a decidere attivamente quando avverrà il prossimo scontro.
+Attraverso:
+Corpo
+Gioco di gambe
+Distanza
+Traiettoria dell'arma
+Rapporto attacco-difesa
+Per esprimere il passaggio dell'iniziativa.
+
+Nessuna spiegazione complessa necessaria.
+Nessun affidamento a magie casuali.
+Tema emotivo centrale dei personaggi:
+
+Aspettare sempre che siano gli altri a fare la prima mossa significa restare sempre un passo indietro.
+
+II. Blocco dei personaggi principali
+
+Ruolo A | Sorella maggiore immortale della spada | @Image1
+Sempre identica al personaggio di @Image1:
+Donna adulta est-asiatica di 25-30 anni
+Stesso volto riconoscibile
+Viso ovale
+Occhi scuri a mandorla
+Capelli neri lunghi semi-raccolti
+
+Spilla per capelli in giada bianca
+Fisico alto e slanciato
+
+Hanfu in seta bianca ricamata
+
+Maniche ampie stratificate semitrasparenti
+Fascia in vita argentata
+Ciondolo in giada
+Stivali in tessuto bianco
+Spada dritta argentata unica
+Il personaggio deve mantenere per tutta la durata:
+Identità facciale coerente
+Acconciatura coerente
+Abbigliamento coerente
+Proporzioni corporee coerenti
+Spada portata coerente
+Ruolo B | Sorella minore | @Image2
+Sempre identica al personaggio di @Image2:
+Donna adulta est-asiatica di 20-25 anni
+Stesso volto riconoscibile
+Tratti rotondi e agili
+Capelli neri intrecciati
+Fisico minuto
+Hanfu in lino verde
+Cintura scura
+Spilla per capelli in legno
+Scarpe in tessuto nero
+Spada in acciaio scuro unica
+Il personaggio deve mantenere per tutta la durata:
+Identità facciale coerente
+Acconciatura coerente
+Abbigliamento coerente
+Proporzioni corporee coerenti
+Spada portata coerente
+Due spadaccini nemici
+Entrambi i nemici sono ruoli di supporto funzionali:
+Indossano normali abiti antichi da guerriero scuri
+Ognuno porta una spada d'acciaio
+Garantire la continuità del posizionamento, dell'uso delle armi e della logica attacco-difesa all'interno delle inquadrature
+Nessun blocco facciale complesso richiesto
+III. Identità della scena e ambiente dinamico
+Considerare tutte le immagini di riferimento per sfondi e location caricate in questa sessione come il mondo fisico reale del video, non solo come ispirazione visiva.
+È necessario preservare costantemente gli elementi identificativi delle immagini di riferimento:
+Terreno reale
+Rapporti architettonici principali
+Gerarchia delle proporzioni
+Materiali
+Specchi d'acqua
+Condizioni meteo
+Nuvole/nebbia
+Direzione della luce principale
+Riflessi
+Linea dell'orizzonte
+Atmosfera cromatica generale
+
+Profondità atmosferica
+L'identità centrale della location di questa sessione deve essere composta dai seguenti elementi:
+Strada imperiale d'alta quota estremamente lunga e di un bianco tenue lungo l'asse centrale
+Dislivello macroscopico creato da enormi cascate e da un mare di nuvole su entrambi i lati della strada imperiale
+Architettura tradizionale di un palazzo degli immortali su scala monumentale
+Mega-strutture a sbalzo stratificate in legno scuro sul lato sinistro dell'inquadratura
+Massiccia e fitta città antica sotto lo strato di nuvole
+Enorme struttura ad anello circolare all'estremità lontana dell'asse centrale della strada imperiale
+Illuminazione diurna formata da un bianco-grigio freddo e luminoso, tocchi locali di oro caldo pallido e una nebbia atmosferica bianco latte morbida
+Requisiti di continuità spaziale
+Il filmato deve mantenere la stessa identità della location per tutta la sua durata.
+La telecamera può muoversi naturalmente all'interno della location attuale.
+I punti di riferimento importanti possono entrare o uscire naturalmente dall'inquadratura seguendo la posizione della telecamera, ma non è possibile reimpostare quanto segue:
+Posizioni relative degli edifici
+Rapporti dimensionali enormi
+Direzione della luce principale
+Logica spaziale dell'intera scena
+Requisiti di dinamicità ambientale
+Il vento naturale d'alta quota muove continuamente capelli e abiti in seta
+Le enormi cascate precipitano in modo continuo e realistico
+Le nuvole/la nebbia a diverse distanze si muovono in modo naturale
+Figure ordinarie in lontananza, riflessi e suoni ambientali mantengono micro-movimenti naturali
+Primo piano, piano medio e sfondo creano una vera parallasse
+Regole narrative
+
+L'ambiente è narrativamente neutro per impostazione predefinita.
+Vento, acqua, cascate, nuvole/nebbia ed edifici non innescano, risolvono né modificano attivamente il combattimento.
+Solo quando i personaggi calpestano, collidono o le armi si toccano si producono:
+Polvere sottile
+Attrito delle suole
+Spostamento degli abiti
+Piccoli segni d'impatto localizzati
+Tutti i movimenti dei personaggi devono adattarsi alla larghezza e profondità reali della strada imperiale attuale.
+IV. Narrazione segmentata e design dell'azione
+0-5s | Gancio: ogni stoccata con mezzo tempo di ritardo
+Impostazione dell'inquadratura
+Apertura breve con un campo largo a 24 mm.
+Preservare chiaramente gli elementi originali delle immagini di riferimento:
+Enorme strada imperiale
+Cascate a sinistra/destra
+Maestosa architettura del palazzo degli immortali
+
+Città antica sottostante
+Anello gigante in lontananza
+Profondità atmosferica luminosa
+La stessa sorella maggiore in bianco e la sorella minore in verde affrontano i due spadaccini nemici sulla strada imperiale.
+I due nemici sono leggermente sfalsati lungo la profondità della strada imperiale, senza creare una nuova arena ampia per comodità.
+La telecamera passa naturalmente a un campo medio-largo in movimento a 35 mm.
+Primo attacco sfasato
+Il primo nemico accelera improvvisamente.
+Vibra violentemente la spada in diagonale verso l'alto contro la sorella maggiore.
+La sorella maggiore solleva la spada dritta argentata, ricevendo il colpo con una parata corta e dura.
+Clang!
+La spada della sorella maggiore non è ancora tornata completamente nella posizione difensiva successiva,
+che il secondo nemico avanza già sfruttando la breccia creatasi nell'attacco, fendendo immediatamente la sorella minore in diagonale dal basso.
+
+La sorella minore devia il colpo con una parata corta usando la spada in acciaio scuro.
+Ma il primo nemico riprende subito l'attacco.
+Focus sul ritmo
+I due nemici creano deliberatamente un ritmo sfasato:
+La prima spada parte
+La seconda spada è leggermente in ritardo
+La terza spada applica immediatamente nuova pressione
+Le azioni delle protagoniste vengono costantemente interrotte dall'attacco successivo, impedendo loro di prendere davvero l'iniziativa.
+La telecamera esegue solo brevi e necessari movimenti laterali di inseguimento, mostrando chiaramente:
+
+Le traiettorie delle spade
+Le distanze tra i personaggi
+I rapporti spaziali della strada imperiale esistente
+La sorella minore capisce per prima il problema
+
+La sorella minore tenta un contrattacco subito dopo aver parato con successo.
+
+Ma il secondo nemico cambia attivamente angolo d'attacco, costringendola a ridefinire la difesa prima di completare il contrattacco.
+
+Schiva lateralmente all'ultimo istante evitando la stoccata di ritorno.
+L'ampia manica verde scatta improvvisamente.
+Ansima e sbotta:
+
+Sorella minore:
+"Anticipano sempre!"
+
+La sorella maggiore sta ancora parando la spada lunga in avvicinamento, senza tempo per rispondere.
+Le spade nemiche accelerano verso il primo piano della telecamera, creando un naturale taglio di montaggio tramite occultamento dell'arma.
+5-10s | Escalation: anche i nemici cambiano il proprio ritmo
+Mantenere esattamente gli stessi personaggi, costumi, armi, spazio geografico e identità ambientale.
+Usare un campo medio-largo in movimento continuo a 35-40 mm.
+La sorella maggiore inizia a capire lo schema
+La sorella maggiore ha iniziato a intuire lo schema degli attacchi sfasati dei nemici.
+Modifica attivamente il gioco di gambe,
+scivolando di mezzo passo in diagonale fuori dalla linea d'attacco del primo nemico.
+
+Il filo della spada avversaria le sfiora la parte superiore del corpo.
+La sorella maggiore non aspetta.
+Sfrutta immediatamente la nuova breccia creatasi.
+I nemici cambiano attivamente ritmo
+Tuttavia i nemici non si ripetono meccanicamente.
+I due spadaccini notano che la sorella maggiore si sta adattando al ritmo originale e aggiustano immediatamente e attivamente le tempistiche d'attacco.
+Il secondo nemico colpisce improvvisamente prima del previsto.
+
+La sua spada d'acciaio scatta direttamente verso la sorella maggiore in avanzamento.
+
+La sorella maggiore deve cambiare istantaneamente la direzione del moto della spada dritta argentata, ruotando la spalla per affrontare l'attacco inaspettato.
+Violenta collisione metallica.
+
+L'impatto si trasmette realmente a:
+
+Spalla
+Braccio
+
+Piede anteriore
+
+Il piede anteriore della sorella maggiore scivola leggermente sulla superficie di pietra.
+La sorella minore di nuovo costretta in difesa
+Il primo nemico vede la sorella maggiore bloccata, cambia immediatamente bersaglio e attacca attivamente la sorella minore.
+La sorella minore riceve il colpo con una parata corta.
+Ma il nemico continua a spingere in avanti con il peso reale del corpo, costringendola a indietreggiare di mezzo passo.
+Le due protagoniste sono di nuovo intrappolate in difesa.
+Punto di svolta cognitivo
+
+La sorella minore capisce:
+Ricordare il ritmo recente dei nemici è comunque inutile.
+Perché i nemici lo cambiano attivamente.
+
+In quel momento, la sorella maggiore dice improvvisamente e seccamente:
+
+Sorella maggiore:
+"Non aspettarli."
+La sorella minore lancia uno sguardo brevissimo alla sorella maggiore.
+La sorella maggiore sta già continuando ad avanzare verso il suo nemico.
+Entrambe cambiano simultaneamente intenzione offensiva.
+
+Non aspettano più che i nemici attacchino per poi capire come difendersi.
+Iniziano a controllare attivamente le posizioni in cui i nemici potranno entrare successivamente.
+
+Nessuna pausa drammatica.
+Nessuna posa sincronizzata.
+
+10-15s | Ribaltamento: questa volta ci muoviamo per prime
+
+Mantenere la stessa strada imperiale continua e l'esatta identità ambientale.
+
+La telecamera allarga brevemente l'inquadratura, permettendo al pubblico di comprendere nuovamente le posizioni dei quattro personaggi e le direzioni d'attacco.
+
+La sorella maggiore si muove per prima
+I due nemici si preparano a continuare gli attacchi sfasati.
+Ma questa volta, prima che il primo nemico completi del tutto l'avvio, la sorella maggiore accelera improvvisamente e attivamente.
+Si inserisce direttamente dall'esterno rispetto alla mano del nemico che impugna la spada.
+Non attacca ciecamente il corpo.
+Usa invece la spada dritta argentata per una collisione corta e precisa, spingendo l'arma nemica ancora più verso l'esterno.
+Contemporaneamente avanza, accorciando attivamente la distanza più familiare al nemico per attaccare.
+Il primo nemico cerca istintivamente di riportare il filo della spada verso la linea centrale.
+Ma lo spadaccino sta recuperando la linea, temporaneamente incapace di completare l'attacco successivo.
+
+La sorella minore si muove per prima in sincrono
+In quello stesso istante, anche la sorella minore ha accelerato indipendentemente la carica verso il secondo nemico.
+
+Il nemico, secondo il suo giudizio iniziale,
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119254834486595584/img/IinGPY7vyjirc_m8.jpg" width="600" alt="Mezzo Battito: Sequenza d'Azione di Duello con Spada Xianxia">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13659)**
+
+**Autore:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2119254981123637638) | **Pubblicato:** Nov 8, 2026
+
+---
+### Rivelazione Cinematografica del Mostro della Palude Horror
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video a tema horror che mostra un mostro della palude emergere dall'acqua, utilizzando un'immagine di riferimento.
+
+#### 📝 Prompt
+
+```
+Horror cinematografico, palude oscura di notte, nebbia fitta, muschio pendente, acque torbide. Due uomini su una piccola barca di legno remano lentamente attraverso la palude. L'acqua si increspa nelle vicinanze. Stacco di camera su liane sospese e alberi in lontananza. Taglio improvviso al punto di partenza: il mostro della palude, con molti occhi e numerosi tentacoli, emerge dall'acqua proprio davanti alla barca, grondante, con braccia e tentacoli protesi e la bocca spalancata. Atmosfera tesa, luce fioca, stile horror realistico,
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119224111079591936/img/AJtCN3buTDF1_iey.jpg" width="600" alt="Rivelazione Cinematografica del Mostro della Palude Horror">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13654)**
+
+**Autore:** [@ScaleCheck](https://x.com/ScaleCheck) | **Fonte:** [Link](https://x.com/ScaleCheck/status/2119224144495509644) | **Pubblicato:** Nov 8, 2026
+
+---
+### Scena Horror Donna Ragno
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt horror cinematografico che presenta una creatura donna-ragno in una foresta buia, dettagliando la rivelazione della trasformazione e la sequenza di inseguimento con specifiche angolazioni della camera.
+
+#### 📝 Prompt
+
+```
+Horror cinematografico, teso e carico di suspense. Foresta oscura di notte, fitte ragnatele tese tra gli alberi, la luce della luna che filtra attraverso le chiome. Una giovane donna terrorizzata in abito bianco è sola in una radura ricoperta di ragnatele e percepisce qualcosa alle sue spalle. Si volta lentamente. Dietro di lei, una donna-ragno — metà superiore di donna pallida, metà inferiore con il corpo di un grande ragno nero e lucido — resta immobile. Un'improvvisa folata di vento le sposta i lunghi capelli neri, rivelando il suo volto coperto da numerosi occhi rossi luminosi che si aprono tutti all'unisono. La donna urla e scatta in preda al panico attraverso le ragnatele, mentre la donna-ragno inizia a seguirla. Ripresa a mano libera, leggera inquadratura olandese (Dutch angle), atmosfera inquietante, alto livello di dettaglio, realistico.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119215733842350080/img/qjkEQHCsF5NBUzWS.jpg" width="600" alt="Scena Horror Donna Ragno">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13656)**
+
+**Autore:** [@ScaleCheck](https://x.com/ScaleCheck) | **Fonte:** [Link](https://x.com/ScaleCheck/status/2119220329570762887) | **Pubblicato:** Nov 8, 2026
+
+---
+### Prompt Video Domestico Estivo a Seoul
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per la creazione di un video domestico realistico in stile handheld, che ritrae una giovane donna coreana mentre cammina nel suo quartiere durante un pomeriggio estivo, con enfasi sulle interazioni naturali e sull'estetica grezza della telecamera.
+
+#### 📝 Prompt
+
+```
+Crea un video amatoriale personale di 30 secondi, in 1080p e ultra-realistico, che mostri un normale pomeriggio d'estate nella vita di una giovane donna coreana. Nessuna immagine di riferimento.
+
+SOGGETTO PRINCIPALE
+Giovane donna coreana poco più che ventenne, bella in modo naturale, texture della pelle realistica, trucco minimale, personalità rilassata e sicura di sé.
+Lunghi capelli neri raccolti morbidamente in una coda laterale disordinata, con qualche ciocca sciolta intorno al viso. Indossa un top corto aderente color azzurro pastello, pantaloni larghi color crema in stile pigiama, sneakers nere e una semplice collana d'argento.
+Mantieni lo stesso volto, la stessa acconciatura, gli stessi vestiti, le stesse proporzioni corporee e lo stesso aspetto generale per tutta la durata del video.
+
+AMBIENTAZIONE
+Un tranquillo quartiere residenziale della vecchia Seul durante un caldo pomeriggio estivo. Stretti vicoli in cemento, piccole case, muri vecchi, piante in vaso, biciclette parcheggiate, pali della luce, cavi sospesi, panni stesi ad asciugare fuori dalle abitazioni, un minuscolo minimarket e bambini che giocano a calcio per strada.
+Tutto deve trasmettere una sensazione di quotidianità vissuta, normalità e pace. Nessuna attrazione turistica, pubblicità, marchio riconoscibile o attività commerciale.
+
+TELECAMERA / ESTETICA VISIVA
+Riprese amatoriali grezze, registrate con nonchalance da un amico con una videocamera DV consumer dei primi anni 2000.
+Forte tremolio tipico delle riprese a mano libera, inquadrature imperfette, continua ricerca dell'autofocus, sbalzi di esposizione, occasionale effetto mosso, colori sbiaditi, dettagli digitali morbidi, leggero rumore video, zoom accidentali e naturali imperfezioni della telecamera.
+Nessuna stabilizzazione, nessuna ripresa con drone, nessun movimento con gimbal, illuminazione drammatica o fotografia cinematografica patinata e commerciale.
+
+— FUORI CASA
+Esce di casa portando una piccola borsa riutilizzabile per la spesa.
+Chiude la porta a chiave, si sistema la coda disordinata e rivolge alla telecamera un sorriso rilassato.
+Inizia a camminare lungo lo stretto vicolo del quartiere.
+Una leggera brezza estiva le muove i capelli in modo naturale.
+
+— L'INCONTRO CON GLI SCOLARI
+Alcuni bambini con lo zaino in spalla le vengono incontro dalla direzione opposta.
+Li riconosce: sono i ragazzini del quartiere.
+Sorride, alza una mano e dice:
+“Ehi, non siete in ritardo?”
+I bambini ridono e continuano a camminare verso la scuola.
+Uno di loro le fa un rapido cenno di saluto con la mano.
+Lei ride e prosegue lungo la strada.
+
+— I BAMBINI CHE GIOCANO A CALCIO
+Poco più avanti nel vicolo, alcuni bambini del quartiere stanno giocando a calcio per strada.
+Il pallone rotola verso di lei e si ferma esattamente davanti ai suoi piedi.
+Abbassa lo sguardo sul pallone.
+Poi guarda verso i bambini.
+Uno di loro grida:
+“Noona! Tiralo!”
+Lei sorride.
+Appoggia delicatamente un piede accanto al pallone.
+Dà un calcio leggero e scherzoso al pallone, rimandandolo verso i bambini.
+La palla rotola fluida sul cemento nella loro direzione.
+I bambini le corrono dietro entusiasti.
+Lei ride e continua a camminare.
+Dopo il suo calcio, il pallone resta ai bambini. Non scompare, non si sdoppia e non torna improvvisamente indietro verso di lei.
+
+— IL TRANQUILLO RIENTRO A CASA
+Continua a camminare verso la fine del vicolo.
+Passa davanti a un piccolo alimentari, dove l'anziano negoziante la saluta con un caloroso cenno del capo. Si ferma un momento, compra una bottiglietta d'acqua e scambia due chiacchiere. Una conversazione banale ma cordiale: il caldo, i ragazzini del quartiere, forse cosa ci sarà per cena stasera. Lo ringrazia, prende l'acqua e riprende il cammino.
+Arrivata all'angolo vicino a casa sua, si gira leggermente verso la telecamera e dice sottovoce:
+“A domani.”
+Il suo tono è caldo e familiare, come quando si parla con un amico intimo. La telecamera indugia per un istante sul suo viso sorridente prima di interrompersi bruscamente, imitando il modo in cui una persona reale smetterebbe di registrare nel bel mezzo di una conversazione.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118667825170763776/img/dO5twgeyjDBJ8ziW.jpg" width="600" alt="Prompt Video Domestico Estivo a Seoul">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13658)**
+
+**Autore:** [ZDuo.MoreAi](https://x.com/lnxinshng252654) | **Fonte:** [Link](https://x.com/lnxinshng252654/status/2119120196896165930) | **Pubblicato:** Nov 7, 2026
+
+---
+### Angelo Sci-Fi Realistico che Cade tra le Rovine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video dettagliato per generare una scena cinematografica di un angelo in mecha bianco che cade tra rovine post-apocalittiche, con piume sacre e cristalli luminosi.
+
+#### 📝 Prompt
+
+```
+Tema centrale:
+ Coreografia sci-fi realistica, caduta tra le rovine, piume sacre che si radunano, angelo mecha bianco, tono cinematografico religioso
+
+Impostazione del personaggio:
+ Utilizza un volto/acconciatura di riferimento, mostrando un'espressione stanca con le labbra leggermente sanguinanti e un dolore trattenuto.
+
+Elemento chiave:
+ La mano destra stringe un luminoso "Sacred Ring Crystal Core" che emette una luce bianco-bluastra ad alta frequenza.
+
+Luogo e ambiente:
+ Tetto di un edificio in una città post-apocalittica, giornata nuvolosa, guerra in corso, meteore che solcano un cielo grigio-blu tra fiamme e fumo denso.
+
+Stile visivo:
+ Fotografia in stile IMAX (obiettivo 35mm, apertura f/4), grana della pellicola, fuoco morbido ed estetica CG che fonde elementi organici e alieni.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119095592484024322/img/qHChbpgSy3MFDEQC.jpg" width="600" alt="Angelo Sci-Fi Realistico che Cade tra le Rovine">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13652)**
+
+**Autore:** [Noshii AI ⚡](https://x.com/NoshiiAILab) | **Fonte:** [Link](https://x.com/NoshiiAILab/status/2119095636331024796) | **Pubblicato:** Nov 7, 2026
+
+---
+### Timelapse: Pavimento Camera da Letto in Resina Epossidica con Rose
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Genera un video timelapse a velocità accelerata in cui migliaia di rose rosse vengono incorporate nella resina epossidica per creare un pavimento della camera da letto lucido e romantico.
+
+#### 📝 Prompt
+
+```
+Un timelapse accelerato all'interno di una stanza moderna vuota, con pareti bianche, pavimento in cemento lucidato, faretti a incasso nel soffitto e un'ampia porta scorrevole in vetro affacciata sul verde. Due operai in camicia blu trasportano enormi secchi pieni di rose rosse, li svuotano al centro della stanza e distribuiscono rapidamente migliaia di rose e petali in modo uniforme su tutto il pavimento. Operai in tute protettive bianche e respiratori versano resina epossidica bianco latte sulle rose, stendendola con scope e spatole tergipavimento fino a ricoprire e appiattire completamente i fiori. Una squadra in divisa grigia utilizza delle levigatrici rotanti, lucidando la superficie con movimenti circolari finché la resina non indurisce, trasformandosi in un pavimento lucido e specchiato con le rose rosse incastonate per sempre sotto una finitura trasparente come il cristallo, che riflette le luci. Un operaio si inginocchia per rifinire i bordi a mano, mentre gli altri restano in piedi, fieri accanto ai loro macchinari. La scena passa poi all'arredamento: gli operai montano la struttura di un letto imbottito beige, aggiungono un piumone e dei cuscini con fantasia di rose rosse, posizionano comodini coordinati con lampade a forma di rosa rossa, appendono tende con motivo di rose rosse e un grande quadro incorniciato raffigurante rose rosse sopra la testiera del letto. Rivelazione cinematografica finale: una splendida camera da letto romantica in cui l'intero pavimento è un'opera d'arte in resina epossidica con rose rosse lucide, illuminazione calda e soffusa, riflessi che brillano sul pavimento fiorito, con la telecamera che esegue una lenta panoramica su questo spazio lussuoso appena completato. Fotorealistico, altamente dettagliato, transizioni timelapse fluide, formato verticale 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119093145803583488/img/RVcDP1x0WTmgT5aA.jpg" width="600" alt="Timelapse: Pavimento Camera da Letto in Resina Epossidica con Rose">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13650)**
+
+**Autore:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2119093181585179086) | **Pubblicato:** Nov 7, 2026
+
+---
+### Ristrutturazione del pavimento con tappi di bottiglia a pois
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Crea un video di ristrutturazione soddisfacente che mostra come i tappi di bottiglia colorati vengono incorporati nell'epossidico bianco per formare un pavimento a pois, successivamente lucidato e arredato come una camera da letto minimalista.
+
+#### 📝 Prompt
+
+```
+Video verticale e appagante di una ristrutturazione in una stanza vuota e luminosa, con pareti bianche e una finestra inondata dal sole. Un uomo in salopette di jeans rastrella un'enorme montagna di migliaia di tappi metallici colorati, distribuendoli in uno strato perfettamente uniforme che ricopre l'intero pavimento; le riprese ravvicinate svelano un fitto mosaico di tappi rossi, blu, gialli e verdi. Una donna in salopette rossa inclina un grande secchio, versando una densa resina epossidica autolivellante bianca e cremosa che scivola fluida sui tappi e si assesta, lasciando spuntare solo le sommità colorate come tanti pois. Un operaio con gilet giallo ad alta visibilità fa scorrere una lucidatrice rotante dotata di tubo aspirante sulla superficie indurita, lucidandola fino a ottenere un effetto specchio. Due uomini vestiti di nero montano una leggera struttura letto in legno sul nuovo pavimento, vi posano un materasso, stendono un candido piumino bianco e sistemano dei cuscini bianchi, per poi allontanarsi. Inquadratura finale d'effetto della camera da letto minimalista appena completata: pavimento bianco lucido punteggiato dai vivaci tappi colorati, luce naturale morbida, movimenti di camera fluidi, texture e dettagli realistici, il tutto nello stile appagante di un timelapse makeover ASMR.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119092279486902272/img/x5TsQKfbw0-y05qs.jpg" width="600" alt="Ristrutturazione del pavimento con tappi di bottiglia a pois">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13651)**
+
+**Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2119092317059481917) | **Pubblicato:** Nov 7, 2026
+
+---
+### Video di Ristrutturazione Pavimento Terrazzo con Perle di Vetro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare un video time-lapse soddisfacente che mostra gli operai mentre trasformano un mucchio di perle di vetro turchesi in un pavimento terrazzo lucido in una stanza moderna.
+
+#### 📝 Prompt
+
+```
+Inquadratura fissa e grandangolare di una stanza moderna con pareti nere, un'ampia finestra affacciata sul verde e pavimento in cemento. Un operaio in tuta arancione rastrella un'enorme montagna di biglie di vetro turchese brillante, distribuendo il mucchio in modo uniforme sul pavimento. Un altro operaio in tuta rossa versa da un secchio della resina epossidica bianco latte sulle biglie, mentre il primo stende il liquido con una spatola: la resina si insinua tra le sfere ricoprendo l'intera superficie del pavimento da un bordo all'altro. Cambio di scena: operai in gilet gialli ad alta visibilità utilizzano levigatrici industriali e un aspiratore per carteggiare la superficie indurita, facendo emergere motivi circolari a spirale di puntini turchesi dal terrazzo bianco. Lucidano il pavimento fino a renderlo brillante, una superficie liscia e riflettente fittamente punteggiata di sassolini di vetro blu-verde. Una donna vestita di rosso si inginocchia per asciugare a mano il pavimento scintillante. Infine, gli operai portano dentro una struttura letto in legno e la stanza si trasforma istantaneamente in una camera da letto di design: un grande letto imbottito con biancheria bianca e antracite, un comodino nero con lampada in ottone, un ulivo in vaso accanto alla finestra, il tutto riflesso nel pavimento in terrazzo turchese lucido come uno specchio. Trasformazione in stile time-lapse, estetica ASMR appagante da ristrutturazione, fotorealistico, transizioni fluide, composizione verticale.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2119023453097373696/img/11m2UnnX9UL_mZzq.jpg" width="600" alt="Video di Ristrutturazione Pavimento Terrazzo con Perle di Vetro">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13649)**
+
+**Autore:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2119023496684618046) | **Pubblicato:** Nov 7, 2026
+
+---
+### Ristrutturazione del Pavimento Terrazzo a Forma di Cuore
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per un video di ristrutturazione DIY soddisfacente che trasforma pezzi a forma di cuore in un pavimento terrazzo lucido utilizzando resina epossidica, con passaggi specifici e azioni dei personaggi.
+
+#### 📝 Prompt
+
+```
+Un appagante video di ristrutturazione fai-da-te all'interno di una stanza vuota e luminosa, con pareti bianche e una finestra. Un uomo in tuta blu rastrella un enorme cumulo di migliaia di piccoli cuoricini arancioni e verdi che ricoprono il pavimento, per poi distribuirli uniformemente su tutta la superficie. Una donna in tuta rossa versa da un grande secchio una densa resina epossidica bianca e lucida: il liquido scorre come un'onda morbida sui cuori sparsi, fino a sommergerli a metà. Una volta indurita la resina, un operaio con gilet giallo ad alta visibilità lucida il pavimento con una monospazzola rotativa, facendone risaltare una brillantezza straordinaria e rivelando un colorato motivo terrazzo di cuori arancioni e verdi sospesi sotto la resina trasparente. Due uomini in maglietta nera montano quindi una struttura del letto in legno sul pavimento scintillante, fissano la testiera e completano l'allestimento con cuscini bianchi e una morbida coperta grigia. Inquadratura finale ampia della camera da letto accogliente appena ultimata, immersa nella luce naturale del sole, con il pavimento decorato a cuori che risplende. Panoramiche fluide e riprese dall'alto, illuminazione realistica, formato video verticale.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118975531525767168/img/YPPUaozZdduc5Ia5.jpg" width="600" alt="Ristrutturazione del Pavimento Terrazzo a Forma di Cuore">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13655)**
+
+**Autore:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2118975574861336982) | **Pubblicato:** Nov 7, 2026
+
+---
+### Ristrutturazione del pavimento con peperoncini incorporati
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Genera un video in cui peperoncini rossi vengono mescolati con latte/epossidico per creare un pavimento traslucido unico in una camera da letto minimalista.
+
+#### 📝 Prompt
+
+```
+In una stanza vuota e luminosa, con pareti bianche e una finestra inondata di sole, un uomo barbuto in tuta blu rastrella un enorme cumulo di peperoncini rossi su un pavimento in legno grezzo, spargendoli verso l'esterno fino a ricoprire interamente la superficie. Una donna in tuta rossa entra con un secchio di metallo e versa del latte bianco fresco sui peperoncini: il liquido si espande per tutta la stanza mentre lei lo livella con il rastrello, facendo galleggiare i peperoncini in modo uniforme nello strato bianco. La scena passa a un operaio con un gilet giallo ad alta visibilità che spinge una lucidatrice sulla superficie ormai in fase di indurimento, trasformandola in un lucido pavimento in resina epossidica bianca, sotto la cui finitura brillante si intravedono chiaramente i peperoncini rossi inglobati. Infine, due operai in divisa blu navy portano dentro la struttura di un letto in legno, la posano a terra, vi appoggiano sopra un materasso bianco e aggiungono cuscini e piumone, svelando una camera da letto minimalista finita, con uno straordinario pavimento traslucido pieno di peperoncini rossi sospesi. Luce naturale intensa, movimenti di camera fluidi, stile ristrutturazione ASMR appagante, dettagli iperrealistici, video verticale in 4k.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2118974576646406144/img/-3uFFlTubN1RfKHb.jpg" width="600" alt="Ristrutturazione del pavimento con peperoncini incorporati">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13653)**
+
+**Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2118974614428606537) | **Pubblicato:** Nov 7, 2026
+
+---
 ### Bun Fight: Azione Cinetica FPV
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -6101,530 +8187,6 @@ Stile: Commedia slapstick dal ritmo serrato, gag fisiche esagerate ma innocue, r
 **Autore:** [WasifAI](https://x.com/doctorwasif) | **Fonte:** [Link](https://x.com/doctorwasif/status/2112768312488902962) | **Pubblicato:** Oct 21, 2026
 
 ---
-### Storia d'Amore Coreana in Animazione 3D
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt dettagliato per la creazione di un cortometraggio animato 3D cinematografico su una storia d'amore coreana che si estende dal 1998 a oggi, con focus sul character design, sulla direzione visiva e sugli elementi nostalgici.
-
-#### 📝 Prompt
-
-```
-Durata: 20 secondi | Animazione 3D cinematografica | Romanzo coreano | Nostalgia autunnale | 16:9
-STILE DI ANIMAZIONE E DIREZIONE VISIVA
-Crea un cortometraggio animato in 3D di altissima qualità e dal forte impatto cinematografico, ambientato in Corea del Sud. Utilizza un'animazione dei personaggi sofisticata, ambienti splendidamente dettagliati, texture dei tessuti realistiche, volti espressivi, un'illuminazione delicata e movimenti fluidi e naturali.
-Lo stile visivo deve unire il fascino di un romantico film d'animazione alla profondità emotiva e alla composizione cinematografica tipiche di una nostalgica storia d'amore coreana.
-I personaggi devono avere lineamenti eleganti e attraenti, occhi espressivi, capelli animati con cura e proporzioni sottilmente stilizzate, mantenendo però un'anatomia credibile. La pelle, i tessuti a maglia, il legno, le foglie che cadono e l'illuminazione devono presentare texture ricche e dettagliate.
-
-Usa i caldi colori dell'autunno, la luce dorata del sole, accenti rosso borgogna, una morbida profondità atmosferica, una delicata profondità di campo e una sottile grana pellicola.
-
-Importante: si tratta di un film interamente animato in 3D, non live-action. Evita animazioni 2D piatte, proporzioni da cartone animato esagerate, design dei personaggi infantili, stili anime o personaggi 3D dall'aspetto plastificato.
-
-DESIGN DEI PERSONAGGI E CONTINUITÀ
-
-LA DONNA ANZIANA — AI GIORNI NOSTRI
-
-Un'elegante e straordinariamente bella donna coreana di 72 anni, dai lineamenti delicati, profondi occhi scuri ed espressivi, raffinati capelli nero-argento raccolti morbidamente sulla nuca e rughe d'espressione naturali e curate nei dettagli.
-
-Il suo volto deve trasmettere gentilezza, saggezza, calore e una vita intera di bellissimi ricordi. Le rughe devono essere rese con delicatezza, senza alcuna esagerazione. Donale un sorriso dolce e occhi espressivi, capaci di comunicare felicità e nostalgia anche senza parole.
-
-Indossa un cardigan vintage color crema a maglia sopra un abito marrone tenue.
-
-La sua casa è un'antica e accogliente abitazione tradizionale coreana in legno, caratterizzata da finestre in legno tradizionali, tende sbiadite, mobili vissuti, una piccola credenza in legno, un vecchio orologio analogico e la calda luce del pomeriggio che filtra all'interno.
-
-Su un tavolo di legno è appoggiata una vecchia scatola dei ricordi, che contiene una fotografia sbiadita e una sciarpa a maglia rosso intenso, conservata con estrema cura.
-
-LA GIOVANE DONNA — FLASHBACK DEL 1998
-
-Lo stesso identico personaggio, ma a 23 anni.
-
-È di una bellezza straordinaria, con delicati lineamenti coreani, grandi occhi scuri ed espressivi, pelle levigata, lunghi capelli neri e lucenti con una morbida frangia e un sorriso naturalmente affascinante.
-
-Il suo character design deve risultare elegante, romantico e senza tempo, con una leggera stilizzazione, ciocche di capelli dettagliate, un'animazione facciale espressiva e movimenti aggraziati.
-
-Indossa un cappotto vintage in lana color crema, una camicetta avorio, una gonna scura a pieghe e una splendida sciarpa a maglia rosso intenso, regalatale dal suo primo amore.
-
-La sciarpa deve mostrare fibre di lana dettagliate, motivi a maglia ben visibili, pieghe morbide e un movimento naturale.
-
-IL FIDANZATO — FLASHBACK DEL 1998
-
-Un ragazzo coreano di 25 anni, eccezionalmente bello, con occhi scuri ed espressivi, una mascella naturalmente definita, folti capelli neri acconciati secondo la moda coreana della fine degli anni '90 e un sorriso caldo e sincero.
-
-Indossa un cappotto di lana antracite, un maglione a maglia color crema, pantaloni scuri e scarpe di pelle vintage.
-
-Le sue espressioni animate devono essere sobrie e credibili. Il suo sorriso deve sembrare timido, affettuoso e genuino.
-
-Entrambi i personaggi devono mantenere una perfetta coerenza visiva per tutta la durata del flashback, con lineamenti, acconciature, abiti e proporzioni sempre corrispondenti.
-
-SCENA 1 — IL RICORDO
-
-TEMPO: 0–5 SECONDI
-
-All'interno di un'accogliente e antica casa coreana in legno, la dorata luce autunnale filtra attraverso tende sbiadite.
-
-Fuori dalla finestra, foglie d'acero rosse, ambrate e dorate fluttuano dolcemente nell'aria.
-
-La donna anziana è seduta accanto a un tavolo di legno e apre lentamente una vecchia scatola di legno dei ricordi.
-
-All'interno c'è una fotografia sbiadita che la ritrae da giovane, in piedi accanto a un bel ragazzo coreano sotto un albero di acero.
-
-Una sciarpa a maglia rosso intenso riposa con cura sotto la fotografia.
-
-Lei solleva delicatamente la sciarpa con entrambe le mani. Le sue dita sfiorano piano la trama lavorata a maglia.
-
-Un piccolo sorriso affettuoso le illumina il viso. I suoi occhi si velano di una lacrima discreta mentre ricorda il suo primo amore.
-
-La sua espressione è serena, felice e colma di gratitudine.
-
-TELECAMERA: Lenta carrellata in avanti cinematografica, che inizia con un'inquadratura a mezzo busto della donna per poi stringere su primi piani dettagliati delle sue mani, della sciarpa rossa e della fotografia sbiadita.
-
-DETTAGLI DELL'ANIMAZIONE: Movimenti impercettibili delle mani, battito di ciglia naturale, respiro leggero, espressioni facciali delicate e tende che ondeggiano dolcemente.
-
-ILLUMINAZIONE: Calda luce solare ambrata, ombre morbide, splendidi riflessi sulla lana lavorata a maglia e rimbalzi di luce realistici sui mobili in legno.
-
-SCENA 2 — UN RICORDO FELICE
-
-TEMPO: 5–10 SECONDI
-
-La telecamera si avvicina lentamente alla vecchia fotografia.
-
-L'immagine riempie lo schermo e si trasforma gradualmente in un ricordo vivo e animato.
-
-All'improvviso, veniamo trasportati nell'autunno del 1998.
-
-Una bellissima giovane donna coreana è in piedi sotto un magnifico albero di acero, nel giardino tranquillo di un'università. Foglie dorate le fluttuano attorno mentre una brezza leggera le muove i lunghi capelli neri.
-
-Indossa il suo cappotto in lana color crema e la sciarpa a maglia rosso intenso.
-
-Il suo fidanzato, bellissimo, si avvicina portando una piccola busta di carta di un'antica panetteria coreana.
-
-Sorride timidamente e le sistema con delicatezza la sciarpa intorno al collo.
-
-Lei alza lo sguardo verso di lui e ride sommessamente.
-
-Lui le sposta una ciocca ribelle dal viso. Si scambiano un sorriso caldo e pieno d'affetto.
-
-Le loro espressioni devono comunicare l'emozione e la tenerezza del primo amore.
-
-EFFETTO VISIVO: Un'atmosfera onirica e soffusamente luminosa, con foglie delicate che fluttuano, una dolce luce solare che filtra tra le chiome degli aceri, una sottile profondità di campo e colori autunnali resi in modo splendido.
-
-Il ricordo deve trasmettere calore, felicità e preziosità, come se la donna anziana stesse rivivendo il suo momento preferito.
-
-TELECAMERA: Movimento fluido della camera, primi piani intimi e transizioni aggraziate tra le loro espressioni.
-
-SCENA 3 — IL LORO PICCOLO MONDO
-
-TEMPO: 10–15 SECONDI
-
-La giovane coppia passeggia lungo un antico sentiero di pietra coperto di colorate foglie d'acero cadute.
-
-Il ragazzo pesta scherzosamente una foglia secca, facendola scricchiolare.
-
-La ragazza ride e gli dà un colpetto leggero sul braccio.
-
-Lui cerca la sua mano. Le loro dita si intrecciano dolcemente.
-
-Lei lo guarda con un sorriso malizioso, prima di appoggiare per un istante la testa sulla sua spalla.
-
-Si fermano sotto il magnifico albero di acero.
-
-Lui le sistema con cura la sciarpa rosso intenso intorno al collo e la guarda negli occhi.
-
-FIDANZATO — DIALOGO NATURALE IN COREANO:
-
-"Ti sta benissimo." (Originale: "너한테 잘 어울려.")
-
-SOTTOTITOLO IN INGLESE:
-
-"It looks beautiful on you."
-
-La ragazza sorride timidamente, abbassa lo sguardo e poi torna a guardarlo.
-
-RAGAZZA — DIALOGO NATURALE IN COREANO:
-
-"Davvero?" (Originale: "정말?")
-
-SOTTOTITOLO IN INGLESE:
-
-"Really?"
-
-Lui annuisce e sorride con calore.
-
-Lei ride sommessamente.
-
-Qualche foglia d'acero fluttua tra loro mentre continuano a guardarsi negli occhi.
-
-DETTAGLI DELL'ANIMAZIONE: Movimenti corporei fluidi, contatto visivo naturale, sorrisi discreti, capelli mossi dolcemente, fisica realistica della sciarpa e foglie che reagiscono in modo naturale alla brezza.
-
-La scena deve risultare intima, giocosa, innocente e sinceramente felice.
-
-SCENA 4 — IL RICORDO CHE HA CUSTODITO
-
-TEMPO: 15–20 SECONDI
-
-Un primo piano del sorriso gioioso della giovane donna.
-
-L'immagine sfuma dolcemente tornando ai giorni nostri.
-
-La donna anziana è seduta accanto alla finestra nella sua casa di legno e stringe al petto quella stessa sciarpa rosso intenso.
-
-Sorride teneramente alla fotografia.
-
-I suoi occhi brillano di lacrime nostalgiche, ma non ha un'espressione affranta. Al contrario, appare serena e grata per aver vissuto un amore così bello.
-
-Appoggia con cura la sciarpa accanto alla fotografia e ne liscia dolcemente il bordo piegato.
-
-Fuori dalla finestra, una foglia d'acero dorata volteggia nell'aria.
-
-Lei guarda
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112762577499394048/img/D66RkgmWw9Cr2pjs.jpg" width="600" alt="Storia d'Amore Coreana in Animazione 3D">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12831)**
-
-**Autore:** [Julia Clark](https://x.com/JuliaClarky) | **Fonte:** [Link](https://x.com/JuliaClarky/status/2112763209836835000) | **Pubblicato:** Oct 21, 2026
-
----
-### Time-lapse della ristrutturazione del pavimento con cetrioli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per generare un video time-lapse multi-inquadratura che mostra la trasformazione di un pavimento coperto di fette di cetriolo in una superficie di terrazzo lucidato utilizzando resina epossidica.
-
-#### 📝 Prompt
-
-```
-Video multi-shot 9:16, annuncio di ristrutturazione in time-lapse fotorealistico, camera fissa, stanza bianca e luminosa con pavimento in cemento e finestra:
-
-Inquadratura 1 (0-3s): un uomo in tuta arancione rastrella un enorme cumulo di fette di cetriolo, distribuendole su tutto il pavimento.
-
-Inquadratura 2 (3-6s): un uomo e una donna in tuta rossa versano resina epossidica autolivellante bianca da alcuni secchi sopra i cetrioli.
-
-Inquadratura 3 (6-9s): stendono la resina con una spatola; i cetrioli scompaiono sotto il liquido bianco e lucido.
-
-Inquadratura 4 (9-13s): gli operai con gilet gialli ad alta visibilità lucidano il pavimento con le levigatrici, rivelando le fette di cetriolo incastonate nel terrazzo bianco.
-
-Inquadratura 5 (13-17s): l'uomo in arancione si inginocchia e tocca la superficie finita e lucida.
-
-Inquadratura 6 (17-20s): due operai montano un letto beige nella stanza.
-
-Inquadratura 7 (20-23s): inquadratura finale della camera da letto vuota, letto bianco, comodino con vaso di eucalipto, pavimento di design con sezioni trasversali verdi di cetriolo.
-
-Movimento accelerato, motion blur sulle persone, illuminazione e geometrie coerenti, 4K, atmosfera ASMR appagante.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112552471901908993/img/5j__fsJ13nRuZngH.jpg" width="600" alt="Time-lapse della ristrutturazione del pavimento con cetrioli">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12817)**
-
-**Autore:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2112552501195002073) | **Pubblicato:** Oct 20, 2026
-
----
-### Time-lapse della ristrutturazione del pavimento con chiavi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per generare un video di trasformazione iperrealistico in cui chiavi antiche sono sparse sul pavimento, ricoperte con resina epossidica e lucidate per rivelare un motivo terrazzo dorato.
-
-#### 📝 Prompt
-
-```
-Video di trasformazione iperrealistica in formato verticale 9:16, stile documentario, camera grandangolare fissa posizionata nell'angolo di una stanza bianca vuota con un'unica finestra luminosa e pavimento in cemento grezzo.
-
-Inquadratura 1 (0–4s): Un uomo barbuto con salopette in denim blu e maglia nera a maniche lunghe rastrella un enorme cumulo a forma di cono composto da migliaia di antiche chiavi in ottone e ferro usando un rastrello nero per foglie; distribuisce le chiavi con metodo e uniformità fino a ricoprire l'intero pavimento con un fitto tappeto di vecchie chiavi.
-
-Inquadratura 2 (4–8s): Una donna con lunghi capelli castani, salopette rossa e guanti neri versa una densa e lucida resina epossidica autolivellante bianca da un grande secchio di plastica bianco; il liquido lattiginoso si espande in onde morbide, inghiottendo le chiavi e rivestendo tutto il pavimento con una superficie bianca liscia come uno specchio, da cui affiorano solo le sagome di qualche chiave.
-
-Inquadratura 3 (8–17s): Un operaio con gilet giallo ad alta visibilità, cappellino nero e pantaloni da lavoro grigi spinge una levigatrice per pavimenti cavalcabile rosso-bianca dotata di tubo di aspirazione nero, lucidando la resina epossidica indurita con passate fluide; emergono le sagome dorate delle chiavi incastonate nel pavimento lucido come in un terrazzo, mentre sulla superficie a specchio si riflettono la finestra e l'operaio.
-
-Inquadratura 4 (17–23s): Due operai con polo e cappellini neri montano al centro della stanza una struttura letto in noce scuro, posano un materasso bianco, sistemano lenzuola e cuscini bianchi, poi compaiono ai due lati dei comodini in legno con lampade in ceramica bianca; il letto finito, impreziosito da cuscini decorativi beige, poggia sul pavimento lucido disseminato di chiavi dorate mentre gli operai escono dall'inquadratura.
-
-Luce naturale intensa, ombre morbide, atmosfera appagante da timelapse di ristrutturazione ASMR, texture fotorealistiche, movimenti fluidi, nessun testo, nessun watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112551729514315777/img/4yRga5A8YnvjU2M8.jpg" width="600" alt="Time-lapse della ristrutturazione del pavimento con chiavi">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12818)**
-
-**Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2112551758186545604) | **Pubblicato:** Oct 20, 2026
-
----
-### Film di Bellezza Malinconica con Spartiti Musicali
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt altamente dettagliato per un film di bellezza cinematografico di 15 secondi che presenta un personaggio disteso tra spartiti musicali, enfatizzando l'espressione emotiva e le transizioni di camera utilizzando Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Crea un beauty film cinematografico fotorealistico di esattamente 15 secondi, in formato 16:9 Full HD (1920×1080) a 24 FPS, utilizzando l'immagine di riferimento e il character sheet caricati. Preserva fedelmente l'identità del personaggio, i tratti del viso, l'acconciatura, il colore dei capelli, l'outfit, le proporzioni del corpo, l'ambiente e l'estetica visiva originale.
-
-Inizia con un'inquadratura dall'alto del personaggio sdraiato in diagonale sul pavimento tra spartiti musicali sparsi, con lo sguardo perso nel vuoto sulle note. Avvicina lentamente la camera verso il suo viso mentre una pagina sciolta attraversa l'obiettivo, creando una transizione paper-wipe. Stacco su un primissimo piano degli occhi, delle ciglia e della texture naturale della pelle, con un battito di ciglia appena accennato, uno sguardo lontano e una lenta carrellata macro in avanti. Match-cut dal riflesso nel suo occhio a una tenda leggera che ondeggia dolcemente nella luce fredda del giorno, con lievi movimenti negli spartiti vicini e nelle ciocche di capelli sciolte.
-
-Passando attraverso la tenda in movimento, entra in una carrellata dal basso a livello del pavimento, che scorre dalla mano che regge lo spartito lungo l'avambraccio appoggiato fino ad arrivare al viso. Il personaggio deve rimanere completamente disteso sul pavimento, con la guancia appoggiata sull'avambraccio e quest'ultimo direttamente a terra. La mano libera tiene con nonchalance uno spartito vicino al viso. Solo gli occhi si spostano verso la camera; testa, spalle e parte superiore del corpo restano appoggiati a terra. Mantieni la sua espressione malinconica e distante.
-
-Negli ultimi quattro secondi, svela un'inquadratura cinematografica più ampia che comprende il personaggio, gli spartiti sparsi, la tenda che si muove dolcemente e gli elementi ambientali già presenti. Arretra lentamente con un leggero spostamento laterale, lasciando che alcune pagine si muovano naturalmente nella brezza. Trattieni per un istante l'ultimo beauty frame e sfuma dolcemente al nero esattamente al quindicesimo secondo.
-
-Utilizza una fotografia editoriale elegante, luci morbide e diffuse, texture naturale della pelle, delicati punti luce sul viso, occhi espressivi, profondità di campo ridotta, grana pellicola sottile, toni pastello desaturati, color grading cinematografico raffinato e movimenti di camera fluidi. Preserva l'illuminazione e la palette cromatica originali dell'immagine di riferimento, inclusi i caldi riflessi ambrati e la fredda luce bluastra del giorno, se presenti. Realizza cinque inquadrature distinte con transizioni intenzionali di tipo paper-wipe, eye-reflection, curtain-wipe e gaze-match-cut. Mantieni l'animazione del personaggio al minimo e il movimento ambientale realistico.
-
-Prompt negativo: Alterazione dell'identità, modifiche a viso, acconciatura, colore dei capelli, outfit o ambiente; personaggi aggiuntivi; sorrisi; espressioni esagerate; testa sollevata; spalle alzate; posa appoggiata sui gomiti; busto sollevato; posizione seduta; angolazioni innaturali del collo; mani deformi; dita in eccesso; presa innaturale della carta; pagine fluttuanti; vento caotico; movimento eccessivo dei capelli; fisica irrealistica; jitter; flicker; camera tremolante; zoom casuali; transizioni brusche; illuminazione dura; pelle di plastica; fotoritocco eccessivo; cartoon; anime; inquadratura verticale; testo; loghi; watermark; bassa risoluz
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112549265092304896/img/968bzYifJfkZ9t-i.jpg" width="600" alt="Film di Bellezza Malinconica con Spartiti Musicali">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12821)**
-
-**Autore:** [Aria](https://x.com/ariaxawan) | **Fonte:** [Link](https://x.com/ariaxawan/status/2112549449138651280) | **Pubblicato:** Oct 20, 2026
-
----
-### Timelapse dell'assemblaggio dello scarpino da calcio Adidas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per un video timelapse ultra-realistico di 10 secondi che mostra lavoratori in miniatura assemblare uno scarpino da calcio Adidas in un'officina futuristica utilizzando Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Crea un timelapse verticale in formato 9:16 di esattamente 10 secondi, ultra-realistico, che mostra l'assemblaggio di uno scarpino da calcio Adidas all'interno di un laboratorio futuristico e buio. Esattamente 8 operai in miniatura con uniformi blu azionano bracci robotici, nastri trasportatori e strumenti di precisione. Assembla uno scarpino da calcio nero e blu elettrico con le strisce bianche Adidas, lacci neri, pannelli testurizzati, collarino imbottito e tacchetti metallici. Mostra l'intero processo in ordine cronologico: gli operai dispongono i componenti, installano i tacchetti, cuciono i pannelli in tessuto, fissano la tomaia alla suola, infilano i lacci e ispezionano lo scarpino finito. I macchinari si ritraggono mentre gli operai si radunano vicino alla base. Concludi con una hero shot premium del prodotto fermo. Camera fissa, geometria coerente, fisica realistica, illuminazione cinematografica blu, texture dettagliate, ASMR meccanico e musica energica a 130 BPM. Nessuno stacco di montaggio, teletrasporto, operai aggiuntivi, movimento di camera, testo o watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112480536883298304/img/bCF911yYa92jhFh2.jpg" width="600" alt="Timelapse dell'assemblaggio dello scarpino da calcio Adidas">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12819)**
-
-**Autore:** [Dania](https://x.com/DaniaSafvi) | **Fonte:** [Link](https://x.com/DaniaSafvi/status/2112480606420717653) | **Pubblicato:** Oct 20, 2026
-
----
-### Corsa futuristica con stunt su autostrada al neon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per un video di corse fantascientifiche ultra-realistiche della durata di 30 secondi, con una pilota donna che esegue acrobazie antigravità su un'autostrada illuminata al neon, generato con Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Crea un video di 30 secondi in stile cinematografico ultra-realistico, dedicato a una corsa di fantascienza e ambientato di notte su un'autostrada futuristica. Una giovane donna con tuta da corsa bianca, casco e cinture di sicurezza guida un'elegante e affusolata auto sportiva futuristica color argento. Le luci al neon rosse illuminano l'asfalto bagnato, creando riflessi spettacolari e un'atmosfera misteriosa. Mostra primi piani del suo volto concentrato, delle mani sul volante e della plancia luminosa. L'auto sfreccia verso un gigantesco loop verticale circondato da strutture futuristiche. La pilota accelera senza esitazione e compie un'acrobazia mozzafiato che sfida la gravità all'interno dell'imponente anello. Potenti propulsori si attivano sotto la vettura, sollevandola in aria, mentre inquadrature cinematografiche catturano ogni dettaglio di questo movimento straordinario. Utilizza una fisica dei veicoli realistica, luci drammatiche, motion blur, riflessi dettagliati, suoni del motore immersivi ed effetti visivi degni delle migliori produzioni sci-fi di Hollywood. Concludi con l'auto che sfreccia via lungo l'autostrada illuminata dai neon, lasciando dietro di sé un'atmosfera cinematografica e misteriosa. Durata esatta: 30 secondi, formato orizzontale 16:9, personaggio e veicolo coerenti, nessun testo, nessun logo, nessun watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112409362761437184/img/bEbjGS65o1bBZyEP.jpg" width="600" alt="Corsa futuristica con stunt su autostrada al neon">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12768)**
-
-**Autore:** [liana](https://x.com/Lianaalane) | **Fonte:** [Link](https://x.com/Lianaalane/status/2112409431174733909) | **Pubblicato:** Oct 20, 2026
-
----
-### Guerriera Cinematografica in Azione contro Nemici
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt dettagliato per la generazione di un video d'azione cinematografico verticale di 28 secondi, con una giovane donna coreana che combatte contro i nemici in un contesto urbano caotico, creato con Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Crea un video d'azione cinematografico verticale in formato 9:16, fotorealistico, della durata di 28 secondi, con protagonista una giovane donna coreana dai lunghi capelli neri, che indossa una T-shirt bianca oversize e pantaloncini casual, mentre corre attraverso una città moderna sotto attacco.
-
-Mostrala sfrecciare su un tetto inseguita da nemici misteriosi, con movimenti realistici, espressioni intense e un dinamico tracciamento della telecamera.
-
-Spicca un salto verso un edificio di vetro, sfonda una finestra e atterra all'interno di una stanza in stile tradizionale giapponese, inondata da una calda luce naturale.
-
-Mostrala afferrare rapidamente un fucile futuristico rosa, preparandosi per la pericolosa battaglia che l'attende.
-
-Passa poi a una caotica strada giapponese con edifici danneggiati, veicoli ribaltati, distributori automatici e fumo che satura l'atmosfera.
-
-Corre lungo la strada impugnando l'arma mentre alle sue spalle divampano esplosioni, dando vita a un'intensa sequenza cinematografica di sopravvivenza.
-
-Inserisci uno spettacolare momento al rallentatore in cui viene scagliata in aria dalla potenza di un'esplosione, con i capelli e i vestiti che si muovono in modo naturale.
-
-Mantieni per tutta la durata del video una perfetta coerenza dei tratti del viso, una texture della pelle realistica, mani anatomicamente corrette, proporzioni corporee naturali, ambienti ricchi di dettagli e movimenti cinematografici fluidi.
-
-Utilizza un'illuminazione drammatica, una fisica realistica, effetti sonori immersivi tipici dei film d'azione, inquadrature dinamiche e una qualità visiva pari a quella delle grandi produzioni hollywoodiane.
-
-Evita effetti in stile cartone animato, anatomie distorte, dita in eccesso, sfarfallii, testi indesiderati, loghi e watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112388862857334784/img/7kbItar8JG0pTY5T.jpg" width="600" alt="Guerriera Cinematografica in Azione contro Nemici">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12767)**
-
-**Autore:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2112389039341113538) | **Pubblicato:** Oct 20, 2026
-
----
-### Video del Simurgh in stile Miniatura Persiana
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per generare un video cinematografico nello stile della pittura classica in miniatura persiana, con l'uccello mitologico Simurgh che interagisce con una scena di giardino di palazzo.
-
-#### 📝 Prompt
-
-```
-STILE: Miniatura persiana classica animata, prospettiva piatta e stratificata, intricati motivi floreali e geometrici, cielo in foglia d'oro con nuvole stilizzate a spirale, cornice riccamente decorata, movimenti delicati e aggraziati. Color grading: blu lapislazzuli, turchese, rosa, zafferano, oro.
-Un colossale Simurgh dal corpo simile a quello di un pavone, con ali tempestate di gemme e una lunga coda sinuosa di piume decorate. Un giardino di palazzo con cupole turchesi, cipressi e vasche riflettenti, cortigiani, musicisti e un principe su un cavallo bianco.
-INQUADRATURA 1 (da 0 a 3s): Campo lungo che riprende l'immagine di riferimento; il Simurgh apre le ali nel cielo dorato, mentre le penne della coda si dispiegano una dopo l'altra formando motivi scintillanti.
-INQUADRATURA 2 (da 3 a 6s): Campo medio, obiettivo 35mm; i musicisti nel cortile smettono di suonare, un cortigiano lascia cadere un melograno che rotola sulle piastrelle, il cavallo del principe si impenna.
-INQUADRATURA 3 (da 6 a 9s): Primo piano, obiettivo 85mm; la testa coronata del Simurgh si china profondamente, il suo occhio brilla come uno zaffiro, mentre motivi dorati increspano le sue piume.
-INQUADRATURA 4 (da 9 a 12s): Campo lungo dal basso, obiettivo 20mm; il Simurgh atterra nel giardino, le sue ali sfiorano le vasche riflettenti, sollevando petali e foglie dei cipressi in una spirale.
-INQUADRATURA 5 (da 12 a 15s): Campo lunghissimo, obiettivo 16mm; il principe avanza e si inchina, il Simurgh abbassa un'ala come fosse una scalinata e le nuvole dorate a spirale si aprono tracciando un sentiero nel cielo.
-L'acqua della fontana, il canto degli uccelli, una melodia di oud e tar che si interrompe all'improvviso, il fruscio maestoso di un battito d'ali setose, un profondo e melodioso richiamo d'uccello, tamburi daf e santur che si fondono in un tema trionfale.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112327483924070400/img/E_eeIRpAzoLb8pwr.jpg" width="600" alt="Video del Simurgh in stile Miniatura Persiana">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12764)**
-
-**Autore:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fonte:** [Link](https://x.com/AllaAisling/status/2112327872253706617) | **Pubblicato:** Oct 19, 2026
-
----
-### Script Commerciale IGNITE Energy Drink
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uno script pubblicitario dettagliato di 20 secondi e una timeline visiva per uno spot di una bevanda energetica, generati utilizzando Gemini e Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-"IGNITE" — Prompt per spot da 20s 🏁
-Personaggio: Sguardo magnetico con occhi blu ghiaccio, carnagione chiara, leggere lentiggini, capelli biondi raccolti in uno chignon disordinato. Massima coerenza del personaggio in ogni scena.
-Timeline scene e audio:
- * 0:00–0:02: Garage in penombra. Appoggiata esausta agli pneumatici, solleva di scatto la testa con uno sguardo carico di determinazione.
-   VO: "Quando la pressione sale... e la pista pretende tutto quello che hai..."
- * 0:02–0:04: Inquadratura macro della lattina "IGNITE" nero opaco e blu elettrico, ricoperta di brina, che viene aperta.
-   SFX: Schiocco della lattina.
-   VO: "Non ti limiti a correre. Accendi la sfida."
- * 0:04–0:06: Beve; un sottile bagliore blu pulsa sotto la sua pelle. Tira su la zip di una tuta da corsa nero carbone.
-   VO: "Alimenta la concentrazione..."
- * 0:06–0:10: Dall'interno della visiera del casco, gli occhi blu ghiaccio riflettono i quadranti luminosi dell'abitacolo.
-   VO: "Infrangi ogni limite. Pura energia elettrica nelle tue mani!"
- * 0:10–0:14: La sua auto da corsa supera con aggressività un rivale in una curva ad alta velocità, sollevando fumo dagli pneumatici.
-   VO: "Lascia tutti gli altri indietro."
- * 0:14–0:17: Dettaglio dell'abitacolo: le mani guantate eseguono una sterzata secca per conquistare il primo posto.
- * 0:17–0:20: Campo lungo sul podio sotto una pioggia di coriandoli. Casco tolto, sorride radiosa per la vittoria alzando il trofeo e la lattina di IGNITE.
-   VO: "IGNITE Energy: accendi il tuo traguardo."
-Stile: 4K fotorealistico, voce femminile britannica energica (VO), illuminazione cinematografica dal ritmo incalzante.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112295413739147264/img/BRnDAtpos2YD3VOm.jpg" width="600" alt="Script Commerciale IGNITE Energy Drink">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12820)**
-
-**Autore:** [Millie](https://x.com/Milliekio) | **Fonte:** [Link](https://x.com/Milliekio/status/2112295460086194412) | **Pubblicato:** Oct 19, 2026
-
----
-### Ristrutturazione del Pavimento in Terrazzo a Conchiglia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Video di ristrutturazione fai-da-te che mostra conchiglie incorporate in un pavimento in resina epossidica, generato con Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Video verticale 9:16 fotorealistico di ristrutturazione fai-da-te, in stile ASMR appagante.
-Stanza vuota e luminosa: pareti bianche, pavimento in cemento grigio, grande finestra con cornice bianca sulla sinistra, luce naturale morbida.
-
-SCENA 1 — Un uomo con la barba, t-shirt grigia e salopette in denim blu, rastrella un grande mucchio di conchiglie colorate (capesante, vongole, coni) con un rastrello da giardinaggio, distribuendole uniformemente su tutto il pavimento. Movimento accelerato in time-lapse.
-
-SCENA 2 — Una donna dai capelli castani con salopette rossa, t-shirt bianca e stivali di gomma versa una densa resina epossidica autolivellante bianco crema da un grande secchio grigio. Il liquido lattiginoso scorre sulle conchiglie, espandendosi fino a ricoprirle gradualmente del tutto, formando una superficie bianca e lucida.
-
-SCENA 3 — Un operaio con gilet antinfortunistico giallo fluo e cappellino nero spinge avanti e indietro una levigatrice per pavimenti, smerigliando e lucidando la superficie e rivelando le conchiglie incastonate in un pavimento in resina effetto terrazzo bianco e lucido.
-
-SCENA 4 — L'uomo in salopette di denim assembla la struttura di un letto in legno di rovere chiaro, fissa la testiera e le doghe, posiziona un materasso bianco, sistema un piumone bianco e cuscini beige. Inquadratura finale statica d'effetto: un'accogliente camera da letto finita, con letto in rovere, biancheria candida e un pavimento di design in resina terrazzo con conchiglie che risplende nella luce naturale soffusa.
-
-Stile: fotorealistico, tagli fluidi, ritmo time-lapse durante le fasi di lavoro, illuminazione naturale e morbida, alto livello di dettaglio, nessun testo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112171861031227392/img/xCdTYwL6rE17Si9O.jpg" width="600" alt="Ristrutturazione del Pavimento in Terrazzo a Conchiglia">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12765)**
-
-**Autore:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2112171888801669570) | **Pubblicato:** Oct 19, 2026
-
----
-### Pavimento Terrazzo con Caramelle Jelly Bean
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Video di ristrutturazione soddisfacente che incorpora caramelle Jelly Bean in un pavimento in resina epossidica, generato con Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Video verticale 9:16 fotorealistico e appagante di una ristrutturazione, un'unica scena continua in una stanza vuota e luminosa con pareti bianche, pavimento in legno grezzo e una grande finestra illuminata dal sole sulla destra.
-
-Inquadratura 1: Un uomo con la barba, t-shirt grigia e salopette di jeans blu rastrella con energia un enorme cumulo conico formato da migliaia di jelly bean colorate, spargendole fino a creare uno strato uniforme che ricopre l'intero pavimento.
-
-Inquadratura 2: Una donna con salopette rossa e t-shirt grigia versa una densa e lucida resina epossidica bianca da un grande secchio bianco; il liquido cremoso cola sullo strato di caramelle e si espande verso l'esterno, ricoprendo completamente le jelly bean colorate.
-
-Inquadratura 3: Un operaio con gilet ad alta visibilità giallo fluo e cappellino nero leviga il pavimento bianco ormai indurito con una lucidatrice professionale; lo strato superficiale viene rimosso, rivelando migliaia di jelly bean colorate incastonate sotto una superficie epossidica trasparente come il cristallo e lucida a specchio, simile a un terrazzo di caramelle.
-
-Inquadratura 4: Due uomini con t-shirt nera e cappellino nero montano rapidamente la struttura di un letto in legno, vi appoggiano un materasso bianco e rifanno il letto con lenzuola bianche e fresche di bucato, il tutto in movimento accelerato.
-
-Inquadratura finale: Ripresa lenta ed estetica della camera da letto minimalista finita — un lussuoso pavimento lucido a specchio pieno di caramelle colorate intrappolate sotto la resina epossidica trasparente, con la luce del sole che si riflette sulla superficie levigata. Nessuna persona presente.
-
-Stile: timelapse virale e appagante di una ristrutturazione fai-da-te, telecamera grandangolare fissa posizionata sulla soglia della porta, luce naturale diurna, dettagli ultra-realistici, fisica fluida e realistica del liquido versato e delle caramelle che rotolano.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112141996588408832/img/z_OxeJb6a15TsIZ6.jpg" width="600" alt="Pavimento Terrazzo con Caramelle Jelly Bean">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12766)**
-
-**Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2112142035826180210) | **Pubblicato:** Oct 19, 2026
-
----
-### Ritratto di Bellezza in Estremo Primo Piano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per creare un ritratto cinematografico ad alta definizione e rallentatore, focalizzato sul movimento degli occhi e sulla texture della pelle con illuminazione suggestiva.
-
-#### 📝 Prompt
-
-```
-Ritratto cinematografico ultra-realistico in estremo primo piano di una giovane donna bella dai tratti delicati, con affascinanti occhi marrone scuro, lunghe ciglia ricci, trucco occhi affumicato discreto e pelle porcellana naturalmente luminosa. Il video inizia con una macro estrema dei suoi occhi chiusi, con ciocche sciolte di capelli scuri leggermente bagnati che cadono naturalmente sul viso. Lentamente, apre gli occhi, rivelando iridi marroni profonde ed espressive, mentre la camera si allontana dolcemente per mostrare il suo intero viso. Indica eleganti orecchini d'argento pendenti, con alcune ciocche delicate che incorniciano le guance. Le sue labbra sono leggermente socchiuse, creando un'espressione misteriosa ed emotiva. Sfondo blu-nero scuro e suggestivo, illuminazione laterale morbida e drammatica, sottili riflessi negli occhi, pori realistici della pelle, ombre delicate, profondità di campo ridotta, atmosfera cinematografica, estetica premium da campagna beauty, dettagli fotorealistici, movimento naturale fluido degli occhi, movimento lento della camera, obiettivo ritratto 85mm, f/1.8, HDR, qualità 8K, ciglia e iridi altamente dettagliate, color grading professionale, composizione verticale, formato 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112049335458500608/img/FIrkhU4PbyO6yYLa.jpg" width="600" alt="Ritratto di Bellezza in Estremo Primo Piano">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12712)**
-
-**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2112049364940263843) | **Pubblicato:** Oct 19, 2026
-
----
-### Prompt Video: Salto con Trampolino dall'Elicottero
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt dettagliato per generare un video realistico di 15 secondi che mostra una persona saltare da un elicottero su un trampolino sul mare e rimbalzare verso l'alto, progettato specificamente per Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-[Immagine di riferimento prioritaria e fissaggio dei nomi]
-@ image1 = Nome descrittivo: Protagonista
-Standard per l'identità, il volto, l'acconciatura, la corporatura, il costume, gli accessori, l'attrezzatura e l'aspetto delle scarpe del protagonista.
-Utilizzare esclusivamente i nomi fissati sopra nel testo successivo.
-15 secondi, formato 3:4, live-action fotorealistico, ambientato sopra un mare blu brillante durante il giorno, audio-video continuo. Nessun taglio di scena per tutta la durata. Utilizzare il riferimento del personaggio solo per l'aspetto del protagonista; non incorporare diagrammi a tre viste, display paralleli o layout di testo/campioni nel video. Mantenere identità, costumi, accessori e fisicità del personaggio per tutto il tempo. Niente BGM, sottotitoli, didascalie o loghi.
-Personaggi: Protagonista, Equipaggio A, Equipaggio B, Equipaggio C (4 in totale). Un elicottero civile di medie dimensioni per riprese con fusoliera bianca e linee blu. Carrello d'atterraggio a sci nero, porta scorrevole laterale larga aperta, gradini esterni per l'imbarco, interni grigio scuro. L'elicottero mantiene un'altitudine costante sopra la superficie del mare dall'inizio alla fine. Una costa è visibile in lontananza e un trampolino circolare è posizionato sulla superficie del mare molto più in basso. Il protagonista sta sul gradino esterno fuori dalla porta aperta, guardando il trampolino distante sotto di lui. L'Equipaggio A sta vicino alla porta indossando una giacca a vento blu, un giubbotto di salvataggio nero e cuffie di comunicazione aviatoria. L'Equipaggio B sta all'interno dell'aereo vicino alla porta indossando una giacca a vento arancione, un giubbotto di salvataggio nero e cuffie di comunicazione aviatoria. L'Equipaggio C è profondo all'interno dell'aereo indossando una giacca a vento verde, un giubbotto di salvataggio nero e cuffie di comunicazione aviatoria. I volti di tutti e tre i membri dell'equipaggio sono visibili. La telecamera parte dalla stessa posizione di ripresa vicino alla porta dell'elicottero, catturando il protagonista, i tre membri dell'equipaggio e il mare oltre la porta con un obiettivo leggermente grandangolare. Non cambiare la posizione di installazione della telecamera; regolare la sua orientazione verticale secondo la caduta e l'ascesa. Rumore del vento e suoni del rotore dell'elicottero continuano naturalmente per tutto il tempo.
-0.0–3.0s: L'Equipaggio A guarda il protagonista e sorride, chiedendo "Pronto?". Il protagonista gira il viso verso l'Equipaggio A, annuisce, poi guarda direttamente nell'obiettivo della telecamera, mostrando tensione ed eccitazione miste a un sorriso, dicendo energicamente in giapponese naturale: "Ok, ci vado!". I movimenti visibili della bocca di entrambe le parti corrispondono ai rispettivi dialoghi completi. L'Equipaggio B alza leggermente un pugno mentre sorride, e l'Equipaggio C sorride felice, sporgendosi leggermente e annuendo. Dopo aver parlato, il protagonista fa un respiro profondo, guarda giù verso il trampolino circolare, spinge via dal gradino esterno e salta fuori.
-3.0–6.2s: Nel momento in cui il protagonista salta fuori dall'elicottero, l'Equipaggio B grida verso di lui: "Vai!". La telecamera si gira rapidamente verso il basso mantenendo la posizione di ripresa vicino alla porta, tracciando il protagonista che cade al centro dell'inquadratura. Il protagonista estende il corpo mentre cade, diventando più piccolo nell'inquadratura man mano che la distanza aumenta. Il trampolino circolare sotto diventa visibile, e il protagonista si avvicina mirando al centro. Mentre la telecamera è puntata verso il basso, i tre membri dell'equipaggio sono fuori campo, ma si possono sentire allegre esclamazioni provenire dall'interno dell'aereo. Suoni del rotore e rumori del vento continuano.
-6.2–7.7s: Il protagonista atterra vicino al centro del trampolino circolare sulla superficie del mare. La superficie elastica affonda significativamente sotto il peso del protagonista, poi spinge indietro fortemente immediatamente dopo che la discesa si ferma. La telecamera rimane puntata verso il basso, mostrando l'atterraggio, l'affondamento della superficie elastica e l'inversione dello slancio verso l'alto dovuto al rimbalzo in un unico piano sequenza. Si sentono i suoni d'impatto dell'atterraggio e del rimbalzo.
-7.7–11.6s: Il protagonista rimbalza in alto verso l'elicottero con lo slancio del rimbalzo, tirando le ginocchia al petto per rannicchiare il corpo, ruotando vigorosamente a mezz'aria. La telecamera si aggiusta verso l'alto per seguire il protagonista che sale dalla stessa posizione di ripresa. Man mano che il protagonista si avvicina, diventa più grande nell'inquadratura, e la porta aperta e il gradino esterno diventano di nuovo visibili. Il protagonista sale rapidamente fino a poco prima del gradino esterno dell'elicottero, sbloccando velocemente la rotazione ed estendendo le gambe nel momento in cui raggiunge il gradino, piantando entrambi i piedi saldamente sullo stesso gradino esterno da cui ha saltato senza esitazione. All'atterraggio, assorbe l'urto con le ginocchia e raddrizza immediatamente il busto, tornando alla stessa posizione, orientamento del corpo e postura eretta come all'inizio. Filmare l'avvicinamento all'elicottero, lo sblocco della rotazione, la posa dei piedi e il ritorno alla postura come una serie di movimenti acuti e rapidi che proseguono senza soluzione di continuità a velocità normale. L'altitudine dell'elicottero sopra la superficie del mare non cambia.
-11.6–15.0s: La telecamera torna all'orientamento iniziale attorno alla porta. L'Equipaggio A applaude sorridente verso il protagonista. L'Equipaggio B spinge gioiosamente un pugno verso l'alto e grida brevemente: "Yay--!". L'Equipaggio C guarda il protagonista, sorride e batte le mani. Il protagonista, respirando pesantemente, gira il viso verso l'obiettivo della telecamera, occhi brillanti, parlando luminosamente e naturalmente con l'eccitazione e la gioia del ritorno sicuro: "Oh wow! Oh wow, è stato fantastico!". Far coincidere i movimenti della bocca dell'Equipaggio B e del protagonista con i rispettivi dialoghi completi durante il discorso. Inquadratura finale: Protagonista in piedi sullo stesso gradino esterno iniziale, finendo di parlare alla telecamera con espressione eccitata, dietro di loro l'Equipaggio A e l'Equipaggio C stanno applaudendo, e l'Equipaggio B sta esultando. Termina a 15 secondi con applausi dell'equipaggio e suoni del rotore che continuano.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112029649937252353/img/0tCnzv5dkI0fQFPc.jpg" width="600" alt="Prompt Video: Salto con Trampolino dall'Elicottero">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12715)**
-
-**Autore:** [M7［mi7］AI](https://x.com/mi7_crypto) | **Fonte:** [Link](https://x.com/mi7_crypto/status/2112029684594872632) | **Pubblicato:** Oct 19, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -6686,6 +8248,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-08T05:02:05.701Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-08T15:11:34.023Z</sub>
 
 </div>
