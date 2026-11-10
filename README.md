@@ -70,7 +70,7 @@ Why use our gallery?
 |--------|-------|
 | 📝 Total Prompts | **6675** |
 | ⭐ Featured Prompts | **6** |
-| 🔄 Last Updated | **2026-11-09** |
+| 🔄 Last Updated | **2026-11-10** |
 
 ---
 
@@ -2251,7 +2251,7 @@ Cinematic horror, dark swamp at night, thick fog, hanging moss, murky water. Two
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic horror prompt featuring a spider-woman creature in a dark forest, detailing the transformation reveal and chase sequence with specific camera angles.
+> A prompt for generating a cinematic horror scene featuring a spider-woman chasing a victim in a dark forest using Seedance 2.0.
 
 #### 📝 Prompt
 
@@ -8457,6 +8457,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-09T05:11:40.369Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-10T02:56:42.362Z</sub>
 
 </div>
