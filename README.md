@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6675** |
+| 📝 Total Prompts | **6678** |
 | ⭐ Featured Prompts | **6** |
-| 🔄 Last Updated | **2026-11-11** |
+| 🔄 Last Updated | **2026-11-12** |
 
 ---
 
@@ -365,6 +365,1172 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Online Shopping Home Comedy
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for generating a 15-second cinematic comedy video using Seedance 2.0 Mini, featuring two women decorating a rented apartment with online purchases.
+
+#### 📝 Prompt
+
+```
+Call Seedance 2.0 Mini to generate a strict 15-second, 16:9 horizontal, live-action cinematic modern Chinese life comedy with native Mandarin audio-video synchronization.
+
+This round is inspired by the recent trend of "Shopping an Online Home".
+
+The core of this trend is: young people gradually decorate their originally empty living spaces into places they like by buying furniture, lamps, appliances, and daily necessities online.
+
+This film chooses a relatable angle:
+
+Although the house is rented, the person still wants to live well in the present moment.
+
+The story expresses this emotion through real conversations between friends, using a small life oversight to complete a comedic twist.
+
+The film adopts a modern realistic comedy style, not forced ancient style, no floating inspirational lines.
+
+Cinematography has ARRI Alexa 35 film quality, realistic East Asian female skin, clear natural features, delicate light and shadow, slight film grain, and a realistic home atmosphere.
+
+[This Round's Performance Method and Complete Story]
+
+Two close female friends meet.
+
+The older-sister-like character comes to the younger-sister-like character's newly rented house and finds many packages and unfinished furniture.
+
+The younger sister excitedly announces that she is "shopping an online home".
+
+The older sister doesn't quite understand.
+
+Why put so much effort into a rented house?
+
+The younger sister's natural rhetorical question makes the older sister suddenly understand her idea.
+
+Just as the atmosphere begins to warm up, the older sister suggests eating here tonight.
+
+The younger sister suddenly becomes embarrassed.
+
+Because she bought many decorative items, but the pot hasn't been shipped yet.
+
+The first half establishes the difference in perspectives, the middle generates emotional resonance, and the second half completes humorous recovery through specific life details.
+
+Finally forming a natural comedy with warmth and self-deprecation.
+
+[Characters and Relationships]
+
+Character A: @Image1, Older-sister friend
+
+Strictly inherit the independent facial identity from previous Image 1.
+
+Adult East Asian woman aged 25-30, tall and slender, elegant natural oval face, dark almond eyes, realistic skin texture, black semi-up long hair.
+
+Wearing ivory white casual shirt, dark gray trousers, white sneakers.
+
+Pragmatic personality, observant, speaks directly.
+
+She doesn't look down on renting, just worried about spending too much money and energy out of practical consideration.
+
+Character B: @Image2, Younger-sister friend
+
+Strictly inherit the independent facial identity from previous Image 2.
+
+Adult East Asian woman aged 20-25, rounded lively natural face shape, bright eyes, black braided long hair, petite figure, realistic skin texture.
+
+Wearing teal green knit top, beige casual trousers, white sneakers.
+
+Lively personality, likes to decorate living space herself.
+
+She knows the house is rented but hopes to live comfortably now.
+
+They are close friends who can tease each other, no real hostility.
+
+[Current Location and Spatial Relations]
+
+Prioritize using the actually uploaded background and location reference images for this round, locking down location identity, architectural relations, spatial scale, main materials, light direction, and environmental continuity.
+
+If no new location reference is provided, create a realistic modern Chinese urban rental apartment.
+
+Interior space clearly defined:
+
+Entrance door on the left.
+
+Small living area in the center.
+
+Six or seven freshly delivered cardboard boxes against the wall.
+
+Some boxes opened.
+
+An unfinished wooden side table on the floor.
+
+A small lamp being unpacked next to the table.
+
+Simple kitchen entrance visible in the back.
+
+Overall space remains realistic and lived-in, not piled up like a warehouse.
+
+Mix of natural indoor light and sunlight from outside, curtains slightly moving, distant city ambient sound.
+
+All environmental dynamics remain narratively neutral.
+
+[0-5s: Modern Joke Hook and Opening]
+
+Shot 1: Indoor full shot, facing entrance door.
+
+Camera shoots from inside the rental apartment.
+
+Door opens.
+
+Same @Image1 older-sister character enters from outside.
+
+She walks naturally forward, suddenly notices many delivery boxes and unfinished furniture in the living room.
+
+Stops involuntarily.
+
+Camera shows both her surprised expression and the boxes behind.
+
+Same @Image2 younger-sister character sits on the ground, happily unpacking a newly bought small lamp.
+
+Older sister looks at her, asks in surprise:
+
+Sister: "How much did you buy?"
+
+Younger sister looks up, smug:
+
+Sister: "Shopping an online home!"
+
+Older sister scans the room again.
+
+Eyes show surprise and some confusion.
+
+Use the original meme directly as opening hook.
+
+Let audience understand she is decorating her home via online shopping.
+
+[5-10s: Character Actions and Formal Performance]
+
+Shot 2: Stable medium shot, dual character relationship scheduling.
+
+Keep same apartment, position, and lighting.
+
+Older sister approaches boxes, picks up a small package casually.
+
+Looks at unfinished side table, then at younger sister.
+
+Asks in very natural tone between acquaintances:
+
+Sister: "Rented house, worth it?"
+
+Younger sister was unpacking lamp.
+
+Hears this, pauses briefly.
+
+Looks up at older sister, tone neither angry nor wronged.
+
+Answers directly:
+
+Sister: "Can't wait till buying a house to live properly, right?"
+
+Keep a brief but natural pause.
+
+Older sister doesn't continue arguing.
+
+Looks at items personally chosen by younger sister.
+
+Original doubts gradually turn into understanding.
+
+Gently puts down package, starts willing to help.
+
+No sentimental music.
+
+No long explanations.
+
+Show attitude change through gaze shift and putting down package action.
+
+[10-15s: Punchline, Twist and Emotional Recovery]
+
+Shot 3: Close-up of two characters, keep kitchen entrance in background.
+
+Older sister has accepted younger sister's idea.
+
+Shows natural smile, casually asks:
+
+Sister: "Okay, eat at your place tonight?"
+
+Younger sister was still excitedly holding just-unpacked small lamp.
+
+Hears this, suddenly freezes.
+
+Eyes show instant guilty conscience.
+
+Looks at older sister, then at kitchen behind.
+
+Then says awkwardly:
+
+Sister: "Pot hasn't been shipped."
+
+This line must be very natural.
+
+Don't create punchline through exaggerated actions.
+
+Camera stays quiet briefly.
+
+Older sister slowly looks at empty kitchen.
+
+Then at piles of furniture and decorations nearby.
+
+Completely speechless.
+
+Younger sister suppresses laughter, shows slightly embarrassed expression.
+
+Older sister doesn't scold, silently takes out phone to order takeout.
+
+Younger sister places small lamp beside her, can't help laughing.
+
+Older sister also amused by her.
+
+Screen ends.
+
+Ending creates light life contrast through "bought lots of decorative furniture but forgot cooking pot".
+
+No more dialogue added.
+
+[Acting and Mandarin Dialogue]
+
+Whole film strictly uses six natural Mandarin lines:
+
+Sister: "How much did you buy?"
+
+Sister: "Shopping an online home!"
+
+Sister: "Rented house, worth it?"
+
+Sister: "Can't wait till buying a house to live properly, right?"
+
+Sister: "Okay, eat at your place tonight?"
+
+Sister: "Pot hasn't been shipped."
+
+Natural speaking speed, completed separately in three time intervals, no extra explanatory lines.
+
+First part: older sister surprised, younger sister smug.
+
+Second part: older sister questions, younger sister calmly expresses thoughts.
+
+Third part: older sister understands, younger sister suddenly feels guilty, both end with natural smiles.
+
+Don't act characters as overly cute short drama roles.
+
+[Camera and Editing]
+
+Whole film uses three functionally clear shots.
+
+0-5s use full shot to show delivery and rental space relation.
+
+5-10s use dual medium shot to make perspective differences central.
+
+10-15s use dual close-up to form complete visual contrast with lamp, expressions, and kitchen.
+
+Restrained camera movement, can use slight push and natural pan.
+
+Maintain stable shooting axis and left-right character relationships.
+
+Ending shouldn't suddenly switch locations or show extra fantasy scenes.
+
+[Sound Design]
+
+Native synchronized Mandarin dialogue.
+
+All sounds must belong to correct characters, lip sync accurate.
+
+Natural environment sounds include:
+
+Door opening/closing.
+
+Slight friction of cardboard and packaging.
+
+Footsteps.
+
+Lamp packaging contact.
+
+Clothing rustle.
+
+Indoor ambient noise.
+
+Finally no canned laughter.
+
+Allow one light natural laugh between sisters.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120740975878569984/img/idzktqO2eZUN37x7.jpg" width="600" alt="Online Shopping Home Comedy">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13744)**
+
+**Author:** [𝕊𝖔ʳᵃɴ](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2120744354654691798) | **Published:** Nov 12, 2026
+
+---
+### Silent Victory Bell Scene
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A prompt for a 15-second cinematic Xianxia drama using Seedance 2.0 Mini, where a victory bell is silenced to protect sleeping survivors.
+
+#### 📝 Prompt
+
+```
+[Complete Chinese Corresponding Prompt]
+
+[Overall Style and Core Story]
+
+Work: "This Sound, Let's Owe It"
+
+15-second live-action cinematic-grade Chinese Xianxia plot twist video.
+
+16:9 horizontal screen, Seedance 2.0 Mini, native Mandarin audio-visual sync.
+
+Adopt Arri Alexa 35 cinematic photography texture, real adult East Asian actors, natural skin textures, delicate silk materials, realistic metal objects, natural volumetric lighting, and cinematic space with air depth.
+
+The overall emotion is restrained, first establishing a solemn victory ceremony, then through a very tiny action, allowing the audience to re-understand what is the most important result of this victory.
+
+Story Premise
+
+After ten years of war, the sect finally achieved a decisive victory.
+
+The Master handed the bell mallet symbolizing triumph to the Sword Immortal Senior Sister.
+
+The Senior Sister prepared to ring the huge bronze victory bell, announcing the victory to everyone.
+
+Just as the bell mallet was about to fall, the Junior Sister suddenly stopped her.
+
+In the eyes of the crowd, this was an incomprehensible act.
+
+Ten years of hard battle, finally waiting for the return.
+
+Why not even let them ring this one bell?
+
+The true answer lies behind the victory bell.
+
+The wounded and children who survived from the war have finally fallen asleep.
+
+They experienced days of fleeing, terror, and slaughter.
+
+They heard too many alarm bells, war drums, and cries for help.
+
+At this moment, the most precious thing is being able to sleep quietly.
+
+The Junior Sister did not deny the victory.
+
+She just noticed earlier than anyone else what the victory truly protected.
+
+After understanding, the Senior Sister chose to put down the bell mallet.
+
+Finally, using a silent red silk ribbon to replace the originally deafening triumphant bell.
+
+Core Twist: From "Why did she stop the celebration?" to "Actually, she was protecting the victory itself."
+
+No sudden appearance of villains.
+
+No identity reveals, fake deaths, sect conspiracies, or supernatural miracles.
+
+Let the characters' choices carry the power of the story.
+
+[Characters and Relationships]
+
+Character A: @Image1, Sword Immortal Senior Sister
+
+Strictly inherit the same previously confirmed character.
+
+25–30 year old adult East Asian female.
+
+Fair natural soft oval face, dark almond eyes, long black hair half-tied up, fixed with a white jade hairpin, tall and slender figure.
+
+Always wears the same set of white embroidered silk Hanfu, semi-transparent layered wide sleeves, silver waistband, jade pendant, and white cloth boots.
+
+Wears only one silver long sword.
+
+Never draws the sword in this film.
+
+She led the sect through long-term warfare and finally welcomed a hard-won victory.
+
+Therefore, her desire to ring the victory bell is completely real.
+
+The Senior Sister does not misunderstand the suffering of war.
+
+It is just that at this moment, her attention is focused on the finally completed victory.
+
+When the Junior Sister stops her, she first feels surprised.
+
+Then, through direct observation, she actively changes her decision.
+
+Character State Changes:
+
+Relief after ten years of waiting finally ending;
+
+Confusion after being stopped;
+
+Discovering details she had ignored;
+
+Actively giving up ringing the bell;
+
+Completing the celebration in another way.
+
+Character B: @Image2, Junior Sister
+
+Strictly inherit the same previously confirmed character.
+
+20–25 year old adult East Asian female.
+
+Round bright face, black hair braided, petite figure.
+
+Always wears green linen Hanfu, dark belt, wooden hairpin, and black cloth shoes.
+
+Wears only one dark steel sword.
+
+Never draws the sword in this film.
+
+The Junior Sister has been helping the wounded before this.
+
+She saw these people unable to sleep all night, startled awake by the war.
+
+She knows the bell sound will wake them again.
+
+Therefore, she must stop this before the Senior Sister rings the bell.
+
+She did not prepare a speech to persuade the Senior Sister beforehand.
+
+She just gently grabbed the Senior Sister's wrist.
+
+Then let her see and listen herself.
+
+She trusts that the Senior Sister will eventually understand.
+
+New Supporting Characters
+
+Elder Master:
+
+Adult East Asian male, wearing deep blue ancient robes.
+
+As the elder of the sect, he personally handed the triumphal bell mallet to the Senior Sister.
+
+He also expected the victory ceremony, so he was stunned by the Junior Sister's sudden stopping action.
+
+Subsequently, upon seeing the wounded and children resting, he actively accepted the decision not to ring the bell.
+
+Do not let the Master suddenly turn into an angry, tyrannical villain.
+
+Two Sect Disciples:
+
+Returned from battle, faces tired but with genuine joy of victory.
+
+Located in the distance.
+
+Responsible for providing crowd presence, not stealing the shot.
+
+Resting Wounded and Children:
+
+Several exhausted ordinary civilians and two children.
+
+Can have simple bandages, lying on low mats, covered with plain cloth blankets.
+
+No bloody wounds appear.
+
+They should naturally sleep like people who have truly experienced fatigue.
+
+One child gently clutches a folded small handkerchief, leaning against the shoulder of an older woman.
+
+The scene does not require a large number of extras.
+
+[Current Location and Spatial Relationships]
+
+All backgrounds and location reference images uploaded this round serve as the physical world actually existing in the video.
+
+They cannot be treated merely as visual inspiration.
+
+First establish a unified environment according to the reference images:
+
+Real terrain;
+
+Main architectural spatial relationships;
+
+Roads and passable areas;
+
+Physical scale;
+
+Material age;
+
+Vegetation and water bodies;
+
+Weather and clouds;
+
+Fog;
+
+Main light direction;
+
+Reflections;
+
+Color and air depth.
+
+Choose a stable ground area within the reference location capable of reasonably holding a temporary triumph ceremony.
+
+Do not arbitrarily change the main landmarks and building structures of the reference location.
+
+Core Space Layout
+
+A large ancient bronze victory bell hangs on a simple wooden rack.
+
+Next to the bell is a wooden bell mallet.
+
+A red triumphal silk ribbon, not yet fully unfolded, is pre-tied to the wooden rack.
+
+This red silk must genuinely exist from the first shot.
+
+Behind the victory bell, there is a simple temporary shelter area.
+
+A simple curtain and the wide circular surface of the victory bell jointly block the audience's direct view of the shelter area.
+
+The wounded and children are resting there from the opening.
+
+It is just that the initial camera does not show their full picture.
+
+The second shot reveals it to both audience and characters simultaneously through a natural lateral movement.
+
+This is not a sudden location switch, nor the sudden appearance of new crowds.
+
+Environmental Dynamics
+
+Wind naturally moves sleeves, long hair, red silk, and vegetation.
+
+Distant water bodies, clouds/mist, and background figures maintain reasonable motion.
+
+Natural light direction remains stable.
+
+Background remains lively in foreground, midground, and background throughout.
+
+But the environment does not actively create twists.
+
+This plot is driven by the characters' own actions.
+
+[Initial Judgment and Key Foreshadowing]
+
+What the audience initially sees:
+
+The victory ceremony is ready.
+
+The Master personally hands over the bell mallet.
+
+The Senior Sister solemnly prepares to ring the bell.
+
+The Junior Sister suddenly stops her.
+
+Her behavior will be understood as refusing to celebrate, or even destroying a rare honor moment after ten years.
+
+Three key details existing beforehand
+
+First: The size of the victory bell.
+
+It is large enough that the sound it produces must be loud.
+
+Therefore, stopping the bell ringing has clear practical significance.
+
+Second: The shelter area behind.
+
+Genuinely exists from the first shot, but blocked by the bronze bell and curtain.
+
+The second shot only changes the observation angle.
+
+Third: The red triumphal silk ribbon.
+
+Hanging on the bell rack from the opening.
+
+At the end, the Senior Sister takes it down and unfolds it, completing a silent report of victory.
+
+The entire twist does not use new supernatural abilities, new character secrets, or suddenly appearing important props.
+
+[0–5 Seconds: Opening Hook and Initial Conflict]
+
+Shot Size: Push-in from Full Shot to Medium Shot.
+
+Camera: 35mm lens, stable slow push-in.
+
+Opening directly enters the prepared triumph ceremony.
+
+A wide bronze victory bell hangs on a wooden rack.
+
+The bronze bell surface retains real textures from ancient casting and wear from age.
+
+A red triumphal silk ribbon is tied next to the wooden rack.
+
+The Elder Master hands the wooden bell mallet to the Sword Immortal Senior Sister.
+
+The Senior Sister reaches out and catches it.
+
+She looks at that bronze bell.
+
+Her eyes hold a kind of fatigue and relief after finally ending a long campaign.
+
+The Master says softly:
+
+Master: "Ten years, ring it."
+
+The Senior Sister slowly raises the bell mallet.
+
+All movements conform to real body mechanics.
+
+Just as the bell mallet is about to touch the bell surface—
+
+The Junior Sister suddenly steps forward half a step, reaching out gently but firmly to grab the Senior Sister's right wrist.
+
+The bell mallet stops.
+
+No impact.
+
+No bell sound.
+
+Junior Sister: "Senior Sister, don't ring it."
+
+The Master instantly freezes.
+
+The Senior Sister slowly turns her head.
+
+She is not angry.
+
+She simply didn't expect the Junior Sister to stop her at this moment.
+
+Clear confusion appears in her gaze.
+
+The camera switches when the two make eye contact.
+
+At this time, the audience should naturally wonder:
+
+Why, now that we've won, are we not allowed to ring the bell?
+
+[5–10 Seconds: Character Action and Situation Change]
+
+Shot Size: Medium Shot.
+
+Camera: Slight lateral movement, first maintaining the facial relationship between the two women, then revealing the space behind along the edge of the bronze bell.
+
+The Senior Sister's right hand still holds the bell mallet.
+
+The Junior Sister still gently grips her wrist.
+
+The Senior Sister looks at the Junior Sister:
+
+Senior Sister: "Why?"
+
+The Junior Sister doesn't rush to defend herself.
+
+She slowly releases the Senior Sister's wrist.
+
+Then raises one finger, gently bringing it close to her lips.
+
+Signaling the Senior Sister to be quiet.
+
+Junior Sister: "Listen."
+
+At this moment, the faint celebratory sounds in the distance gradually lower.
+
+Sound design allows the characters to begin noticing:
+
+Slight breathing sounds;
+
+Low and steady sleeping breaths;
+
+Small fabric friction sounds carried by the wind.
+
+The camera naturally pans laterally along the edge of the bronze victory bell.
+
+The area originally blocked by the bell body and curtain gradually appears.
+
+That is not another location.
+
+It has always been located behind the bell rack.
+
+Several wounded civilians and children are lying on temporary mats.
+
+They are sleeping deeply.
+
+One child tightly clutches a folded small handkerchief.
+
+His head naturally leans against the shoulder of the older woman beside him.
+
+No one speaks.
+
+No one cries.
+
+The audience can understand from their fatigue, bandages, and postures that they have experienced fear and fleeing for a long time.
+
+The Senior Sister's gaze moves in the direction pointed by the Junior Sister.
+
+She finally sees these people.
+
+The originally raised bell mallet stays suspended in mid-air, delaying its fall.
+
+At this moment, the Senior Sister's emotions change.
+
+She no longer just looks at the bronze bell symbolizing victory.
+
+She truly sees the people she has protected.
+
+[10–15 Seconds: Key Twist and Emotional Payoff]
+
+Shot Size: Close-up.
+
+Camera: Stable close-up composition, performing natural focus changes between character faces, the bell mallet in hand, and the red silk.
+
+Maintain the same characters, same lighting, same bronze bell, and completely consistent geographic space.
+
+The Junior Sister stands beside the Senior Sister.
+
+She says nothing more.
+
+She just quietly waits for the Senior Sister to make her own decision.
+
+The Senior Sister slowly puts down the bell mallet.
+
+The movement is very light.
+
+She carefully places the bell mallet next to the bell rack.
+
+Wood contacting the stand makes only a very subtle sound.
+
+The Elder Master has already seen the sleeping crowd behind through the edge of the bronze bell.
+
+He also says nothing.
+
+His gaze shifts from the Senior Sister to those children.
+
+His body posture, originally preparing to host the ceremony, slowly relaxes.
+
+The Senior Sister reaches out and takes the red triumphal silk ribbon that existed on the wooden rack from the opening.
+
+She gently unfolds the red silk.
+
+Then drapes it over the top of the bronze bell, letting the ribbon hang naturally.
+
+The red silk flutters slightly in the wind.
+
+The bell still does not ring.
+
+The Senior Sister looks at the sleeping children.
+
+She says extremely lightly:
+
+Senior Sister: "This sound, let's owe it."
+
+Do not say it like a heroic declaration.
+
+This sentence is just like a calm agreement between two people.
+
+The Junior Sister's originally tense shoulders finally loosen slightly.
+
+The Master stands beside them.
+
+He makes no speech.
+
+He just watches quietly.
+
+Final Frame
+
+Foreground:
+
+The huge stationary bronze victory bell hanging.
+
+The red silk ribbon symbolizing triumph hangs on the bell surface.
+
+Midground:
+
+The Sword Immortal Senior Sister and Junior Sister standing side by side.
+
+They do not raise swords, nor shout loudly.
+
+Background:
+
+The wounded and children who just survived the war are still sleeping quietly.
+
+A breeze gently blows the red silk.
+
+Natural light sweeps across the aged surface of the bronze bell.
+
+Screen ends.
+
+Ten years of war finally won.
+
+But today's victory did not emit a deafening sound.
+
+Because someone could finally sleep peacefully.
+
+[Actor Performance and Dialogue]
+
+The whole film has only five lines of native Mandarin dialogue.
+
+Master: "Ten years, ring it."
+
+Tone is low, containing the emotion of relief after a long wait.
+
+Junior Sister: "Senior Sister, don't ring it."
+
+Urgent but polite.
+
+Her purpose is to stop the immediate action, not to challenge the Senior Sister's authority.
+
+Senior Sister: "Why?"
+
+Surprised, confused, tone controlled very lightly.
+
+Junior Sister: "Listen."
+
+Lower volume, letting the other party actively discover the truth.
+
+Senior Sister: "This sound, let's owe it."
+
+Voice is light and firm.
+
+This is the decision she actively made after understanding the situation.
+
+All character dialogues are natural, clear, strictly matching the lip movements of the actual speaking role.
+
+Non-speaking characters must not open their mouths without reason.
+
+Do not add narration or explanatory extra dialogue.
+
+[Camera and Editing]
+
+The three segments have distinct visual functions.
+
+First Shot: Make the victory bell the center of the frame.
+
+Through its size, copper texture, Master handing over the mallet, and Senior Sister raising the mallet, establish the solemnity of the victory ceremony.
+
+The Junior Sister suddenly reaches out, interrupting the expectation formed by the audience.
+
+Second Shot: Change the world the audience sees through lateral movement.
+
+Do not conjure new environments out of thin air.
+
+Simply reveal the already existing shelter area as the camera moves.
+
+The visual weight shifts from the huge bronze bell symbolizing victory to the small-scale, quietly sleeping people.
+
+Third Shot: Characters complete the twist with new actions.
+
+The Senior Sister puts down the bell mallet.
+
+Takes out the pre-existing red silk.
+
+Completes the report of victory silently.
+
+Do not rely on exaggerated slow motion and complex circling.
+
+Camera is stable, clear, and continuous.
+
+Allow moderate shallow depth of field, but do not make key actions and important props unrecognizable.
+
+[Sound Design]
+
+Sound is an important part of this twist.
+
+Segment 1
+
+Natural environmental sounds and very restrained triumphant atmosphere sounds.
+
+Can have low exchanges among distant tired crowds, but no large-scale cheering.
+
+When the bell mallet is raised, do not use strong drum beats to create cheap suspense.
+
+Segment 2
+
+After the Junior Sister says "Listen," gradually lower distant human voices and score.
+
+Shift attention to the shelter area.
+
+Retain real breathing sounds, slight fabric friction sounds, and natural environmental sounds consistent with the reference location.
+
+Let the silence in the sound become part of the characters' understanding change.
+
+Segment 3
+
+No bell sound.
+
+No suddenly rising sentimental score.
+
+Only retain the light placement of the bell mallet, silk brushing against the bronze bell, breeze, and environmental sounds.
+
+The Senior Sister's last line:
+
+"This sound, let's owe it."
+
+Must have clear lip movements, real breath, and natural volume.
+
+After the dialogue ends, retain a brief silence.
+
+[Character, Prop, and Environmental Continuity]
+
+Characters:
+
+@Image1 and @Image2 maintain the same face, identical facial proportions, hairstyle, clothing, body proportions, sword, and character temperament throughout.
+
+The Senior Sister holds the bell mallet in her right hand in Shots 1 and 2.
+
+The Junior Sister approaches from the Senior Sister's right side and stops her wrist.
+
+Their positioning changes conform to real movement paths.
+
+Supporting characters enter the frame only if consistent with their on-site positions.
+
+Bell Mallet:
+
+Handed from Master to Senior Sister at the start.
+
+Raised by Senior Sister.
+
+Stopped by Junior Sister.
+
+Held by Senior Sister.
+
+Finally put down.
+
+The entire process must not involve instant hand switching, disappearance of the mallet, or shifting out of thin air.
+
+Bronze Victory Bell:
+
+Always the same bronze bell.
+
+Bell body proportions, wooden rack, material texture, hanging height, and spatial position remain consistent.
+
+The bell mallet never touches the bell surface in the entire film.
+
+Red Silk:
+
+Exists on the bell rack from the first shot.
+
+Finally unfolded by the Senior Sister herself, draped over the bronze bell.
+
+Cannot be generated out of thin air at the end.
+
+Shelter Area:
+
+Genuinely exists behind the bell rack from the opening.
+
+Bedding, number of people, child positions, and curtains maintain spatial continuity.
+
+Revealed in the second shot via camera perspective change.
+
+Sleeping children and wounded remain asleep at the end.
+
+Background:
+
+Always obeys the actual location reference images of this round.
+
+Retain terrain identity, architectural spatial relationships, main light, weather, materials, and environmental scale.
+
+Natural wind, water, mist, vegetation, hair strands, sleeves, and red silk continue to move realistically.
+
+Background does not actively create new dramatic events.
+
+[Seedance 2.0 Mini Execution Requirements]
+
+Call the seedance 2.0 mini model to generate a strict 15-second, 16:9 horizontal, live-action cinematic-grade Chinese Xianxia twist short film.
+
+Core Shot Sequence:
+
+0–5s: Master hands over mallet, Senior Sister raises mallet, Junior Sister suddenly stops.
+
+5–10s: Junior Sister asks Senior Sister to listen, camera reveals the quietly sleeping wounded and children behind.
+
+10–15s: Senior Sister puts down mallet, unfolds red silk, completes emotional payoff with the final line of dialogue.
+
+Ensure stability and continuity of camera axis, character positioning, sightlines, prop positions, light direction, and environmental space between the three shots.
+
+Focus on guaranteeing the following visibly real results:
+
+The Junior Sister must successfully stop the Senior Sister before the bell mallet touches the bronze bell.
+
+The camera must genuinely reveal the previously blocked shelter area.
+
+The Senior Sister must see the sleeping crowd with her own eyes and change her action because of it.
+
+The red silk must exist beforehand, finally actively unfolded by the Senior Sister.
+
+The bronze bell must not be rung throughout the film.
+
+The wounded and children remain quietly asleep at the end.
+
+Character micro-expressions are real and restrained.
+
+All actions are complete and reasonable.
+
+Mandarin dialogue is natively synchronized.
+
+Do not add new conflicts, identity reversals, spell effects, fights, or temporary plots.
+
+Do not generate subtitles, titles, narration, or extraneous text.
+
+Final Emotion: Make the audience realize that sometimes the most worthy victory to celebrate is precisely the one that should remain silent.
+
+[Negative Prompt]
+
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120725137213595648/img/z1VAUSwvmx61K2ub.jpg" width="600" alt="Silent Victory Bell Scene">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13745)**
+
+**Author:** [𝕊𝖔ʳᵃɴ](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2120725797229183155) | **Published:** Nov 12, 2026
+
+---
+### Seedance 2.5 Fantasy Action Movie Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A prompt for generating a 30-second fantasy action short film featuring a female guardian fighting a giant monster on a ferry dock.
+
+#### 📝 Prompt
+
+```
+Seedance 2.5 Prompt
+[Generation Requirements]
+Generate a complete 30-second live-action cinematic fantasy action short film, 16:9 landscape aspect ratio, consisting of 9 shots.
+Title Concept: "The Boat Left, She Didn't Get On".
+
+Grand scenes, intense combat, characters with realistic force application, imbalance, panting, and impact.
+Not a game cutscene, not martial arts posing, not the protagonist easily crushing the monster.
+Advance the story through clear offense/defense, spatial changes, and gradual breakthroughs; do not rely on magic, continuous explosions, or full-length slow motion.
+
+[Reference Materials]
+@Image 1: The sole character and equipment reference for the female guard. Lock in facial features, hairstyle, armor, tunic, leg gear, combat boots, and long-handled blade. Do not copy the standing pose or composition from the concept art.
+@Image 2: Scene and architecture reference for the ferry crossing. Lock in stone banks, old wooden docks, valleys, ancient cities, and the appearance of the wooden ferry.
+@Image 3: The sole visual reference for the Rock-Armored Behemoth. Lock in head outline, horn shape, layered thick armor, robust limbs, and body proportions.
+
+[Core Story]
+The last evacuation ferry is leaving shore. The female guard remains on the wooden dock, holding back the behemoth chasing the crowd.
+She must hold out until the ferry leaves the danger zone.
+In the fight, she is pushed back and knocked down, then circles around the behemoth to retreat toward the bank.
+The behemoth crushes the wooden dock as it pursues. The protagonist finally steps onto a stable stone platform. The behemoth steps onto already damaged wood sections, causing local collapse into the water, temporarily preventing further pursuit.
+After confirming safety, the protagonist looks at the receding ferry and raises her hand to signal that she is alive.
+
+[Protagonist Fixed Appearance]
+Adult female, approx. 26 years old, appearance strictly matching @Image 1.
+Maintain dual-face consistency, dark tied hair, metal armor, tunic, leg gear, combat boots, and long-handled blade.
+Do not redesign clothing, add/remove armor, or change weapons.
+Equipment is fully visible from the start; the blade is always in her hand or clearly visible by her side—never disappearing or duplicating.
+Realistic skin, worn armor and leather. Gradually accumulate wood chips, dust, and small water spots during combat; hair becomes messy over time, not automatically restored.
+Beautiful but not posed; practical movements; breathing and expressions change with the battle situation.
+
+[Behemoth Fixed Appearance]
+Strictly match the quadrupedal rock-armored behemoth in @Image 3.
+Shoulder height approx. 3 meters, heavy build, low head posture, rough layered rock armor, robust limbs.
+Maintain identical horn shapes, shell distribution, body proportions, and limb count.
+Behave like a large animal with real weight: requires braking after charging, adjusts footwork when turning, does not turn instantly, does not bounce lightly.
+Do not add wings, tentacles, extra abilities, glowing eyes, fire-breathing, or energy blasts.
+
+[Ferry Crossing Spatial Lock]
+Overall appearance references @Image 2, organizing actions with clear lateral spatial relationships:
+Left side: Stable stone bank and wide stone platform.
+Old wooden dock extends from the left stone bank toward the right water surface.
+The middle section of the dock is wider, allowing the protagonist to circle around the outside of the behemoth's body.
+The ferry departs from the outer end of the dock toward the open water on the right.
+
+Opening: Protagonist is at the farthest end of the dock, facing the behemoth approaching from the bank side.
+The behemoth is between the protagonist and the stone bank; the ferry is behind the protagonist on the water.
+The middle section must fully show the process of the protagonist circling around the outside of the behemoth and returning to the bank side. Do not swap positions abruptly after cutting.
+
+The wood section near the bank has recognizable old cracks from the start but can still bear weight.
+The boundary between the stable stone bank and the wooden dock is clear.
+Only the damaged wood structure collapses locally; the stone bank does not collapse; the protagonist ultimately stays on the intact stone platform.
+
+[Ferry Continuity]
+From the first shot, the ferry has cast off lines and is leaving the dock; no ropes connect the boat and the dock.
+Bow faces open water; stern faces the dock.
+Throughout the film, the distance between the ferry and the dock continuously increases; it cannot stop, return to original position, or suddenly sail back.
+Only a few adult passengers are on the boat, appearing as distant small figures; no complex character interactions.
+Do not arrange for the protagonist to jump onto the boat, climb ropes, or fight on the boat.
+
+[Lighting & Imagery]
+Bright overcast sky, soft skylight, left side of frame slightly brighter.
+Realistic skin tones, grey-blue water, grey stone banks, natural old wood; retain details in shadows.
+Live-action epic action movie texture; distinct material separation between metal, leather, rock armor, wood, and water.
+Medium and full shots clarify offense/defense; wide angles establish space and breakthroughs; close-ups supplement character emotion.
+Cinematography is stable but with moderate dynamism; short-distance tracking shots; restrained handheld movement, no violent shaking.
+Do not use heavy teal-orange filters, exaggerated lens flares, or sustained slow motion.
+
+[Shot Breakdown]
+
+Shot 1 (0–3s):
+Three-quarter side view wide-angle tracking shot; conflict starts immediately in the first frame.
+The behemoth's front paw smashes through a dock plank in front of the protagonist; wood chips fly upon contact. The protagonist is shaken into a one-knee kneel, long-handled blade still in hand.
+Simultaneously establish the stable stone bank on the left, cracked wood near the bank, and the ferry leaving on the right.
+Off-screen shout from adults on the boat: "Get on!"
+The protagonist looks up, staring at the behemoth, without turning around.
+
+Shot 2 (3–6s):
+Cut to side medium-full shot, framing both protagonist and behemoth.
+The behemoth advances toward the outer end of the dock, trying to bypass the protagonist to reach the ferry.
+The protagonist moves laterally, delivering a brief counter-strike with the blade against its forelimb, drawing its attention to herself.
+The behemoth turns to face her; the protagonist is forced to step back, planks bending and creaking underfoot.
+She cannot stand still and absorb all the behemoth's power.
+
+Shot 3 (6–10s):
+Cut to slightly higher side wide-angle, clearly showing one complete positional change.
+The behemoth sweeps its front claw; the protagonist dodges the attack path, circling around the outside of the behemoth's body via the wider middle section of the dock, moving to the side closer to the stone bank.
+The behemoth pivots and chases her.
+Fully display the movement trajectories of both; do not swap positions via jump cuts, do not pass under the monster's body, do not let characters clip through limbs.
+
+Shot 4 (10–14s):
+Cut to short-distance side-tracking medium shot.
+The behemoth closes in, forelimbs and shoulders pressing forward.
+The protagonist uses the blade to hook the claw edge but is grazed and loses balance, dropping to one knee and an empty hand, sliding a short distance along the planks before stopping.
+The weapon remains in the other hand or tight against the side, always visible.
+Displacement occurs only after contact; planks crack further under impact but do not collapse entirely.
+She experiences pressure and panting; no continuous rolling, no flying high.
+
+Shot 5 (14–18s):
+Cut to bank-side medium-full shot.
+The protagonist pushes herself up, retreating toward the stable stone bank, blade remaining visible.
+The behemoth steps onto the planks she just crossed; heavy beams sink, snapping sounds from the damaged area near the bank.
+She briefly glances at the broken structure underfoot, then refocuses on the behemoth.
+The distant ferry continues to depart, farther than at the start.
+No explanatory dialogue; no long contemplation close-ups.
+
+Shot 6 (18–22s):
+Stable side wide-angle; stone bank boundary, damaged wood, protagonist, and behemoth all distinguishable.
+The protagonist has retreated to the connection point with the stone bank; the behemoth charges again along the damaged wood.
+She makes a short lateral move, stepping onto the adjacent intact stone platform, landing normally on both feet.
+The behemoth's forelimbs press onto the damaged wood; beams crack under actual load, joints loosen, center of gravity drops.
+Must bear weight first, then structural failure occurs; no premature falling.
+
+Shot 7 (22–25s):
+Cut to three-quarter wide angle.
+The damaged dock section collapses downward; the behemoth loses support, falling into the water with broken beams, creating splashes consistent with its weight.
+Large timber falls according to gravity; no floating, no turning into powder.
+The protagonist remains on the intact stone platform; her body is not dragged by the collapse.
+The ferry has left the danger zone, unaffected by splashes or debris.
+No underwater fighting, no bloody death, no fireball explosions.
+
+Shot 8 (25–28s):
+Cut to protagonist side medium shot, slow slight push-in.
+She stands firm gripping the blade, shoulders heaving with rapid breath, hair and gear disheveled.
+She first confirms no new pursuit from the broken dock, then turns to look at the receding ferry.
+On the stern, only a very small adult passenger figure looks in her direction; do not shoot facial or finger details.
+
+Shot 9 (28–30s):
+Cut to protagonist frontal close-up; background valley and water naturally blurred.
+One hand still grips the blade; the free hand gently raises toward the distance, signaling safety.
+Expression is relief after exhaustion, not triumphant laughter.
+Ending rests on her real breathing, stable posture, and gaze toward the ferry; do not fade to black.
+
+[Sound]
+Heavy footsteps of the behemoth, armor friction, wood bearing stress, beam breaking, blade contact, shoe sole friction, fabric and armor sounds.
+Impact sounds sync with actual contact; do not use exaggerated bone-cracking sounds.
+Ferry departure has restrained water sounds and wooden hull structural noises.
+The only dialogue is the adult voice on the boat at the beginning
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120520856917114880/img/WasTr9Hk_PlmyXy9.jpg" width="600" alt="Seedance 2.5 Fantasy Action Movie Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13746)**
+
+**Author:** [Adamä¹Ÿå�«å�‰ç±³](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2120521214737416330) | **Published:** Nov 11, 2026
+
+---
 ### Seedance 2.0 Cyberpunk Subway Combat Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -8221,181 +9387,6 @@ Below, the dark SUV continues along the sunlit road, appearing calm amidst the c
 **Author:** [Sharon Riley](https://x.com/Just_sharon7) | **Source:** [Link](https://x.com/Just_sharon7/status/2112913908617158822) | **Published:** Oct 21, 2026
 
 ---
-### Wrong Coffee Manhattan Romance
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for a cinematic luxury editorial video set in Manhattan, involving a mix-up with coffee cups leading to a conversation, with character reference instructions.
-
-#### 📝 Prompt
-
-```
-The Wrong Coffee — Midtown Manhattan, New York
-
-Duration: 30 seconds | Aspect Ratio: 16:9 | Style: Cinematic luxury editorial
-
-Character References: Use the two supplied images strictly as character references, not starting frames. The man, Alex, is a confident, successful Manhattan finance executive. Preserve his exact face, dark tailored suit, tie, and hairstyle. The woman, Allisa, is the second character; preserve her exact identity, hairstyle, and elegant fitted outfit.
-
-Visual Continuity: Warm, slightly vintage editorial photography with amber highlights, muted contrast, subtle film grain, and realistic skin texture. Consistent color across every scene. No artificial glow or plastic skin.
-
-Environmental Accuracy: All visible signage, menus, names, and street text must be correctly spelled and legible. No gibberish.
-
-Scene 1 — Morning Coffee (0–4s)
-
-Inside an upscale Midtown Manhattan coffee shop with polished stone counters, sophisticated interiors, and busy professionals. Alex approaches the counter, composed and confident. No coffee cups are visible on the counter.
-
-Camera positioned behind Alex, looking toward the counter. A beautiful barista in her very early twenties, with striking model-like features and a naturally charismatic presence, turns slightly toward the off-camera coffee preparation area.
-
-Alex, casually: "Double espresso, please. My name is Alex."
-
-Barista, friendly: "Coming right up."
-
-Display exactly "Midtown Manhattan, New York" in the lower third, horizontally centered at the bottom of the frame, Poppins Semi-Bold 600, white (#FFFFFF), on a rounded charcoal-slate (#17212B) background at 60% opacity. No extra characters.
-
-Scene 2 — The Barista (4–7s)
-
-Camera positioned behind Alex, but a different POV from Scene 1, looking toward the counter.
-
-Barista, calling clearly: "Double espresso for Alex!"
-
-Alex remains absorbed in his phone. No coffee cups are shown in this shot.
-
-Scene 3 — The Wrong Cup (7–11s)
-
-Two takeaway coffees are placed side by side on the pickup counter by an unseen employee. One cup is clearly labeled ALEX, the other ALYSSA.
-
-Still looking at his phone, Alex reaches with his free hand and mistakenly picks up only the cup labeled ALYSSA. He walks away carrying it, unaware of the mistake. His actual coffee, labeled ALEX, remains on the counter.
-
-Scene 4 — The Sidewalk (11–14s)
-
-Outside, Alex walks briskly along a busy Midtown Manhattan sidewalk, carrying ALYSSA's coffee in one hand while continuing to look at his phone in the other.
-
-Behind him, ALYSSA exits the same café that Alex just came out of, holding his coffee and spots him ahead.
-
-Scene 5 — The Encounter (14–19s)
-
-ALYSSA catches up to Alex on the sidewalk.
-
-ALYSSA, lightly amused: "I think you grabbed my coffee."
-
-Alex looks up from his phone, stops, and glances at the cup.
-
-Alex, looking at his cup, and then ALYSSA, with an apologetic smile: "Oh, you're right. Sorry about that."
-
-They naturally exchange cups. Alex puts his phone away.
-
-Scene 6 — Same Direction (19–24s)
-
-Alex gestures down the sidewalk.
-
-Alex, casually: "Which way are you headed?"
-
-ALYSSA, pointing ahead: "Same way as you, apparently."
-
-Alex, smiling: "Well, that's convenient."
-
-They share a laugh and begin walking together, talking comfortably. A fixed camera captures them moving away down the sidewalk until they exit the frame.
-
-Scene 7 — An Unexpected Connection (24–30s)
-
-Hard cut to a fixed camera position farther down the same Midtown block. Alex and ALYSSA walk side by side, coffees in hand, enjoying an animated conversation.
-
-Allisa, playfully: "So, is this your usual morning routine?"
-
-Alex, amused: "Not usually this interesting."
-
-Allisa laughs naturally, completing her laugh without interruption. They continue walking and talking, moving toward the right side of the frame.
-
-Both characters fully exit the frame to the right. Hold the empty sidewalk for the final 0.5 seconds before ending.
-
-Direction: Natural conversational dialogue, accurate lip-sync, subtle emotional expressions, and realistic physical interactions. Alex keeps his phone in one hand throughout Scenes 2–4 and picks up only Allisa's coffee with his free hand. The ALEX cup stays behind until Allisa retrieves it. Maintain exact cup ownership and continuity. Varied cinematic tracking and close-ups, with fixed camera positions for the walking exits. Clean instantaneous hard cuts. Allow dialogue, reactions, and laughter to finish naturally. No slow motion, morphing, subtitles, or music.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112876062648483840/img/gL4XyT3GY4OLJFzR.jpg" width="600" alt="Wrong Coffee Manhattan Romance">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12876)**
-
-**Author:** [Promethean](https://x.com/PrometheanAIX) | **Source:** [Link](https://x.com/PrometheanAIX/status/2112876623032689023) | **Published:** Oct 21, 2026
-
----
-### Grandma Leopard Gangster Comedy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex prompt for a comedic video involving a grandma, a leopard, and a gangster demanding rent, with strict identity locks and prop references.
-
-#### 📝 Prompt
-
-```
-REFERENCES: Grandma = 95–100-year-old tiny hunched Korean grandmother (exact face, white bun with wooden pin, quilted indigo jeogori, grey knit scarf, plum skirt, gomusin shoes). Thug = very chubby greasy gangster (exact face with eyebrow scar, shiny black puffer jacket open, red-black floral silk shirt, gold chain, gold ring, black track pants, dirty white sneakers). Leopard = giant adult snow leopard (exact smoky grey-white coat, black rosettes, pale icy-blue eyes, long thick ringed tail). Hut = snowy thatched mountain tea hut on a hilltop with a small snowy yard, a footpath winding down the slope toward camera, and vast misty snow mountains on the right. Keep every identity, outfit, marking and set identical to refs throughout. Only these three beings exist in the scene.
-
-PROP LOCKS: PROP-STICK = gnarled dark-brown wooden walking stick, always in Grandma's right hand, she leans on it every moment. PROP-BOWL = small round brown earthenware bowl of raw red meat chunks, always in Grandma's left hand, never dropped, never changes.
-
-STAGING LOCK: Grandma stands in the snowy yard just in front of the Hut doorway, facing the footpath/camera, for the entire scene; she never walks away. Thug comes UP the footpath and stops 2 metres in front of her, his BACK to the footpath and slope. Leopard later comes up that SAME footpath from the slope behind Thug. Snow falling softly throughout.
-
-LOOK: overcast winter daylight, cool blue-white snow, warm amber glow from the hut door, low saturation, low-to-mid contrast, filmic grain, soft halation. Ambient wind, crunching snow.
-
-PACING: natural unhurried Korean delivery, short pauses between lines; never rushed.
-
-0–6s: Opening aerial FPV drone shot: high above vast misty snow mountain ranges, gliding smoothly over frosted pine ridges and drifting clouds, then diving gracefully down the slope toward the tiny snow-covered Hut on the hilltop, slowing and pushing in to a medium shot of Grandma standing in the yard, leaning on PROP-STICK, holding PROP-BOWL.
-
-6–11s: Grandma looks around the hills, calling sweetly and caringly, like to her own son:
-Grandma (sing-song, tender): 「우리 아가~ 밥 먹자… 어디 갔니, 우리 아들~」
-She calls once more, peering at the ridges, smiling.
-
-11–17s: Heavy crunching steps. Thug stomps up the footpath, panting, chin raised, and stops in front of her.
-Thug (rough, ruthless): 「할매, 이번 달 자릿세. 빨리 내놔.」
-Grandma looks at him calmly and gives a small sly smirk.
-Grandma (humble, gentle): 「잠깐만… 우리 고양이 밥 좀 주고. 그다음에 줄게.」
-
-17–22s: Thug scoffs proudly, pinching his thumb and index finger close together in front of his face to mock something tiny.
-Thug (angry, sarcastic): 「그 쪼끄만 망할 고양이 기다릴 시간 없어!」
-Grandma's eyes shift past his shoulder to the slope; a happy, satisfied smile spreads.
-Grandma (warm): 「아이고… 저기 오네.」
-
-22–30s: Thug turns around just as the giant snow leopard lunges from the slope behind him.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112833908299677696/img/2Q5Xexo0_Ulc2Edk.jpg" width="600" alt="Grandma Leopard Gangster Comedy">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12875)**
-
-**Author:** [Syed Abuthahir ∞](https://x.com/abulu8) | **Source:** [Link](https://x.com/abulu8/status/2112834308117324151) | **Published:** Oct 21, 2026
-
----
-### Sleeping Watchwoman Slapstick Comedy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a cinematic slapstick comedy scene where a sleeping watchwoman accidentally defeats thieves, requiring consistency with a reference image.
-
-#### 📝 Prompt
-
-```
-Create a cinematic, ultra-realistic slapstick comedy scene. The watchwoman’s face and outfit must match the reference image throughout.
-
-Shot 1 (0–3s): At a warehouse entrance, a night watchwoman sleeps deeply in a chair, feet on a crate, snoring with a half-eaten bag of chips on her lap. Five thieves sneak in, smirking at her.
-
-Shot 2 (3–8s): The thieves try passing her, but her unconscious movements effortlessly clothesline one, trip another into crates, and send a third crashing into a shelf. She keeps eating chips and sleepily mutters, “Too slow…”
-
-Shot 3 (8–13s): The remaining thieves nervously huddle before the leader charges her. Without opening her eyes, she elbows him in the stomach, mumbling, “Five more minutes.” He collapses beside the others.
-
-Shot 4 (13–18s): The last thief attempts to escape, but her outstretched leg trips him into boxes. All five thieves lie scattered across the warehouse while she finishes her chips, tosses the empty bag perfectly into a trash can, and uses one thief as a footrest.
-
-Shot 5 (18–23s): Police sirens approach. She briefly opens one eye, surveys the defeated thieves with a deadpan expression, mutters, “Called it,” and immediately falls back asleep. Her drool resumes as she snores.
-
-Shot 6 (23–30s): Police rush in, find the thieves defeated, and stare at the sleeping watchwoman in disbelief. An officer tries waking her, but she lazily swats his hand away. The final close-up reveals a fresh bag of chips mysteriously resting in her lap as she smiles peacefully in her sleep.
-
-Style: Fast-paced slapstick comedy, exaggerated but harmless physical gags, expressive reactions, consistent character appearance, smooth shot transitions, cinematic warehouse lighting, impeccable comedic timing, and a satisfying punchline.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112768240086859776/img/CEpXhdWMSiaYywaS.jpg" width="600" alt="Sleeping Watchwoman Slapstick Comedy">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12874)**
-
-**Author:** [WasifAI](https://x.com/doctorwasif) | **Source:** [Link](https://x.com/doctorwasif/status/2112768312488902962) | **Published:** Oct 21, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -8457,6 +9448,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-11T22:46:04.057Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-12T06:17:10.329Z</sub>
 
 </div>

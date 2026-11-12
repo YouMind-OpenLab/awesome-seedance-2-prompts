@@ -68,9 +68,9 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6675** |
+| 📝 Gesamtanzahl Prompts | **6678** |
 | ⭐ Ausgewählte Prompts | **6** |
-| 🔄 Zuletzt aktualisiert | **2026-11-11** |
+| 🔄 Zuletzt aktualisiert | **2026-11-12** |
 
 ---
 
@@ -361,6 +361,1172 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Online-Shopping-Heimkomödie
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Prompt zur Generierung eines 15-sekündigen cineastischen Comedy-Videos mit Seedance 2.0 Mini, in dem zwei Frauen eine gemietete Wohnung mit Online-Einkäufen dekorieren.
+
+#### 📝 Prompt
+
+```
+Rufe Seedance 2.0 Mini auf, um einen exakt 15 Sekunden langen, horizontalen 16:9 Realfilm-Kurzfilm im modernen chinesischen Comedy-Stil mit nativer Mandarin-Audio-Video-Synchronisation zu generieren.
+
+Diese Runde ist vom aktuellen Trend „Ein Zuhause online shoppen“ inspiriert.
+
+Der Kern dieses Trends: Junge Menschen verwandeln ihre anfangs leeren Wohnräume nach und nach in Orte, die sie lieben – indem sie Möbel, Lampen, Haushaltsgeräte und Alltagsgegenstände einfach online bestellen.
+
+Dieser Film wählt einen nahbaren Blickwinkel:
+
+Die Wohnung ist zwar nur gemietet, aber man möchte trotzdem genau jetzt gut leben.
+
+Die Geschichte transportiert dieses Gefühl durch echte Gespräche zwischen Freundinnen und nutzt ein kleines alltägliches Versehen für eine komödiantische Pointe.
+
+Der Film setzt auf einen modernen, realistischen Comedy-Stil – keine erzwungene Historien-Ästhetik, keine abgehobenen Motivationszitate.
+
+Die Bildgestaltung bietet ARRI Alexa 35 Kinoqualität, realistischer ostasiatischer Hautton, klare natürliche Gesichtszüge, feine Licht-und-Schatten-Spiele, dezentes Filmkorn und eine authentische Wohnatmosphäre.
+
+[Inszenierung und vollständige Story dieser Runde]
+
+Zwei enge Freundinnen treffen sich.
+
+Die ältere Freundin kommt in die frisch gemietete Wohnung der jüngeren und entdeckt jede Menge Pakete und noch nicht aufgebaute Möbel.
+
+Die Jüngere verkündet begeistert, dass sie gerade „ein Zuhause online shoppt“.
+
+Die Ältere versteht das nicht ganz.
+
+Warum so viel Aufwand für eine Mietwohnung?
+
+Die spontane Gegenfrage der Jüngeren lässt die Ältere ihren Gedanken plötzlich verstehen.
+
+Genau als die Stimmung wärmer wird, schlägt die Ältere vor, heute Abend hier zu essen.
+
+Die Jüngere wird schlagartig verlegen.
+
+Denn sie hat zwar unzählige Deko-Artikel gekauft – aber der Kochtopf wurde noch gar nicht verschickt.
+
+Die erste Hälfte etabliert die unterschiedlichen Sichtweisen, der Mittelteil erzeugt emotionale Resonanz und die zweite Hälfte liefert durch ein konkretes Alltagsdetail den humorvollen Abschluss.
+
+So entsteht eine natürliche Komödie voller Herzlichkeit und Selbstironie.
+
+[Figuren und Beziehungen]
+
+Figur A: @Image1, die ältere Freundin
+
+Übernimmt strikt die eigenständige Gesichtsidentität aus dem vorherigen Image 1.
+
+Erwachsene ostasiatische Frau, 25–30 Jahre alt, groß und schlank, elegantes natürliches ovales Gesicht, dunkle mandelförmige Augen, realistische Hauttextur, schwarzes halboffenes langes Haar.
+
+Trägt ein elfenbeinweißes Casual-Hemd, eine dunkelgraue Hose und weiße Sneaker.
+
+Pragmatische Persönlichkeit, aufmerksam, spricht direkt.
+
+Sie blickt nicht aufs Mieten herab, sorgt sich aber aus reiner Vernunft darum, zu viel Geld und Energie zu investieren.
+
+Figur B: @Image2, die jüngere Freundin
+
+Übernimmt strikt die eigenständige Gesichtsidentität aus dem vorherigen Image 2.
+
+Erwachsene ostasiatische Frau, 20–25 Jahre alt, rundliches, lebendiges natürliches Gesicht, strahlende Augen, schwarzer geflochtener langer Zopf, zierliche Figur, realistische Hauttextur.
+
+Trägt ein petrolgrünes Stricktop, eine beige Casual-Hose und weiße Sneaker.
+
+Lebhaftes Wesen, richtet sich ihren Wohnraum am liebsten selbst ein.
+
+Sie weiß, dass die Wohnung gemietet ist, möchte es sich aber genau jetzt gemütlich machen.
+
+Die beiden sind enge Freundinnen, die sich gerne gegenseitig aufziehen – ohne echte Feindseligkeit.
+
+[Aktueller Schauplatz und räumliche Beziehungen]
+
+Bevorzuge für diese Runde die tatsächlich hochgeladenen Hintergrund- und Location-Referenzbilder. Fixiere dabei Location-Identität, architektonische Bezüge, Raummaßstäbe, Hauptmaterialien, Lichtrichtung und Umgebungskontinuität.
+
+Falls keine neue Location-Referenz vorliegt, erschaffe eine realistische moderne chinesische Stadtwohnung zur Miete.
+
+Der Innenraum ist klar definiert:
+
+Eingangstür links.
+
+Kleiner Wohnbereich in der Mitte.
+
+Sechs oder sieben frisch gelieferte Kartons an der Wand.
+
+Einige Kartons sind geöffnet.
+
+Ein noch nicht aufgebauter Holzbeistelltisch auf dem Boden.
+
+Daneben wird gerade eine kleine Lampe ausgepackt.
+
+Im Hintergrund ist der Eingang einer einfachen Küche sichtbar.
+
+Der Gesamtraum wirkt realistisch und bewohnt, nicht wie ein zugestelltes Lager.
+
+Mischung aus natürlichem Innenlicht und Sonnenschein von draußen, Vorhänge bewegen sich leicht, entferntes Stadtambiente ist hörbar.
+
+Alle Umgebungsanimationen bleiben erzählerisch neutral.
+
+[0–5 s: Moderner Comedy-Hook und Einstieg]
+
+Einstellung 1: Totale innen, Blickrichtung Eingangstür.
+
+Die Kamera filmt aus der Mietwohnung heraus.
+
+Die Tür öffnet sich.
+
+Dieselbe @Image1-Figur (ältere Freundin) tritt von draußen ein.
+
+Sie geht natürlich nach vorn und bemerkt plötzlich die vielen Lieferkartons und unaufgebauten Möbel im Wohnzimmer.
+
+Bleibt unwillkürlich stehen.
+
+Die Kamera zeigt sowohl ihren überraschten Gesichtsausdruck als auch die Kartons dahinter.
+
+Dieselbe @Image2-Figur (jüngere Freundin) sitzt auf dem Boden und packt fröhlich eine neu gekaufte kleine Lampe aus.
+
+Die Ältere sieht sie an und fragt überrascht:
+
+Ältere: „Wie viel hast du denn gekauft?“
+
+Die Jüngere blickt auf, selbstgefällig:
+
+Jüngere: „Ich shoppe mir online ein Zuhause!“
+
+Die Ältere lässt den Blick erneut durch den Raum schweifen.
+
+In ihren Augen liegen Überraschung und etwas Ratlosigkeit.
+
+Nutze das Original-Meme direkt als Eröffnungs-Hook.
+
+So versteht das Publikum sofort, dass sie ihr Zuhause per Online-Shopping einrichtet.
+
+[5–10 s: Figurenaktionen und eigentliche Szene]
+
+Einstellung 2: Stabile Halbtotale, Inszenierung der Beziehung beider Figuren.
+
+Gleiche Wohnung, gleiche Position, gleiches Licht beibehalten.
+
+Die Ältere geht zu den Kartons und nimmt beiläufig ein kleines Paket in die Hand.
+
+Sieht zum unaufgebauten Beistelltisch, dann zur Jüngeren.
+
+Fragt in einem völlig natürlichen Ton unter Vertrauten:
+
+Ältere: „Gemietete Wohnung – lohnt sich das?“
+
+Die Jüngere war gerade beim Auspacken der Lampe.
+
+Hört das und hält kurz inne.
+
+Blickt zur Älteren auf, weder wütend noch gekränkt.
+
+Antwortet direkt:
+
+Jüngere: „Man kann doch nicht erst mit dem Leben anfangen, wenn man eine eigene Wohnung kauft, oder?“
+
+Eine kurze, aber natürliche Pause lassen.
+
+Die Ältere diskutiert nicht weiter.
+
+Sie betrachtet die Dinge, die die Jüngere persönlich ausgesucht hat.
+
+Ihre anfänglichen Zweifel weichen langsam dem Verständnis.
+
+Legt das Paket sanft ab und ist bereit zu helfen.
+
+Keine sentimentale Musik.
+
+Keine langen Erklärungen.
+
+Zeige den Einstellungswechsel über den wandernden Blick und das Ablegen des Pakets.
+
+[10–15 s: Punchline, Twist und emotionale Auflösung]
+
+Einstellung 3: Nahaufnahme beider Figuren, Kücheneingang im Hintergrund behalten.
+
+Die Ältere hat die Idee der Jüngeren akzeptiert.
+
+Lächelt natürlich und fragt beiläufig:
+
+Ältere: „Alles klar, essen wir heute Abend bei dir?“
+
+Die Jüngere hielt noch begeistert die gerade ausgepackte kleine Lampe.
+
+Hört das und erstarrt plötzlich.
+
+In ihren Augen blitzt sofort ein schlechtes Gewissen auf.
+
+Sieht die Ältere an, dann die Küche dahinter.
+
+Sagt dann verlegen:
+
+Jüngere: „Der Topf wurde noch nicht verschickt.“
+
+Dieser Satz muss absolut natürlich wirken.
+
+Die Pointe darf nicht durch übertriebene Gestik erzwungen werden.
+
+Die Kamera verharrt kurz ruhig.
+
+Die Ältere blickt langsam in die leere Küche.
+
+Dann auf die Stapel aus Möbeln und Deko neben sich.
+
+Völlig sprachlos.
+
+Die Jüngere unterdrückt ein Lachen, ihr Gesichtsausdruck ist leicht peinlich berührt.
+
+Die Ältere schimpft nicht, sondern holt stumm ihr Handy raus, um Essen zu bestellen.
+
+Die Jüngere stellt die kleine Lampe neben sich und kann sich das Lachen nicht mehr verkneifen.
+
+Auch die Ältere muss über sie schmunzeln.
+
+Bild endet.
+
+Das Ende erzeugt einen leichten Alltagskontrast durch „massenhaft Deko und Möbel gekauft, aber den Kochtopf vergessen“.
+
+Keine weiteren Dialoge hinzufügen.
+
+[Schauspiel und Mandarin-Dialoge]
+
+Der gesamte Film verwendet strikt sechs natürliche Mandarin-Sätze:
+
+Ältere: „Wie viel hast du denn gekauft?“
+
+Jüngere: „Ich shoppe mir online ein Zuhause!“
+
+Ältere: „Gemietete Wohnung – lohnt sich das?“
+
+Jüngere: „Man kann doch nicht erst mit dem Leben anfangen, wenn man eine eigene Wohnung kauft, oder?“
+
+Ältere: „Alles klar, essen wir heute Abend bei dir?“
+
+Jüngere: „Der Topf wurde noch nicht verschickt.“
+
+Natürliches Sprechtempo, verteilt auf drei Zeitabschnitte, keine zusätzlichen erklärenden Zeilen.
+
+Erster Teil: Die Ältere ist überrascht, die Jüngere selbstgefällig.
+
+Zweiter Teil: Die Ältere hinterfragt, die Jüngere äußert ihre Gedanken ruhig.
+
+Dritter Teil: Die Ältere versteht, die Jüngere bekommt plötzlich ein schlechtes Gewissen, beide enden mit einem natürlichen Lächeln.
+
+Spiele die Figuren nicht wie übertrieben niedliche Rollen aus typischen Kurz-Dramen.
+
+[Kamera und Schnitt]
+
+Der gesamte Film arbeitet mit drei funktional klaren Einstellungen.
+
+0–5 s nutzen die Totale, um das Verhältnis von Lieferung und Mietraum zu zeigen.
+
+5–10 s setzen auf eine doppelte Halbtotale, um die Perspektivunterschiede ins Zentrum zu rücken.
+
+10–15 s verwenden eine doppelte Nahaufnahme, um mit Lampe, Gesichtsausdrücken und Küche einen vollständigen visuellen Kontrast zu bilden.
+
+Zurückhaltende Kamerabewegung, leichter Push-in und natürliches Schwenken sind möglich.
+
+Stabile Aufnahmeachse sowie Links-rechts-Beziehung der Figuren beibehalten.
+
+Am Ende darf nicht plötzlich der Schauplatz wechseln oder zusätzliche Fantasieszenen auftauchen.
+
+[Sounddesign]
+
+Nativ synchronisierte Mandarin-Dialoge.
+
+Alle Geräusche müssen den korrekten Figuren zugeordnet sein, Lippensynchronität exakt.
+
+Natürliche Umgebungsgeräusche umfassen:
+
+Tür öffnen/schließen.
+
+Leichtes Rascheln von Karton und Verpackungsmaterial.
+
+Schritte.
+
+Kontakt mit der Lampenverpackung.
+
+Stoffrascheln.
+
+Raumambiente drinnen.
+
+Zum Schluss kein eingespieltes Lachen.
+
+Erlaube ein leichtes, natürliches Lachen zwischen den Freundinnen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120740975878569984/img/idzktqO2eZUN37x7.jpg" width="600" alt="Online-Shopping-Heimkomödie">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13744)**
+
+**Autor:** [𝕊𝖔ʳᵃɴ](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2120744354654691798) | **Veröffentlicht:** Nov 12, 2026
+
+---
+### Stille Siegesglocken-Szene
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein Prompt für eine 15-sekündige cineastische Xianxia-Drama-Szene mit Seedance 2.0 Mini, in der eine Siegesglocke zum Schutz schlafender Überlebender verstummt.
+
+#### 📝 Prompt
+
+```
+[Vollständiger chinesischer entsprechender Prompt]
+
+[Gesamtstil und Kernhandlung]
+
+Werk: „Diesen Klang, den schulden wir noch“
+
+15-sekündiges Live-Action-Video in Kinoqualität mit einem Plot-Twist im chinesischen Xianxia-Stil.
+
+Querformat 16:9, Seedance 2.0 Mini, native Mandarin-Audio-Visuelle-Synchronisation.
+
+Verwendung der filmischen Bildtextur einer Arri Alexa 35, echte erwachsene ostasiatische Darsteller, natürliche Hautstrukturen, feine Seidenstoffe, realistische Metallobjekte, natürliches volumetrisches Licht und ein filmischer Raum mit atmosphärischer Tiefe.
+
+Die Grundstimmung ist zurückhaltend: Zunächst wird eine feierliche Siegeszeremonie etabliert, bevor durch eine winzige Geste das Publikum begreifen lässt, was das eigentlich Wichtigste an diesem Sieg ist.
+
+Handlungsprämisse
+
+Nach zehn Jahren Krieg erringt die Sekte endlich den entscheidenden Sieg.
+
+Der Meister überreicht der Schwert-Unsterblichen Senior-Schwester den Glockenschlägel, der den Triumph symbolisiert.
+
+Die Senior-Schwester setzt an, die gewaltige bronzene Siegesglocke zu läuten, um allen den Sieg zu verkünden.
+
+Kurz bevor der Schlägel niedergeht, hält die Junior-Schwester sie plötzlich auf.
+
+In den Augen der Anwesenden ist dies ein völlig unverständlicher Akt.
+
+Zehn Jahre harter Kampf – endlich steht die Heimkehr bevor.
+
+Warum dürfen sie nicht einmal diese eine Glocke läuten?
+
+Die wahre Antwort verbirgt sich hinter der Siegesglocke.
+
+Die Verwundeten und Kinder, die den Krieg überlebt haben, sind endlich eingeschlafen.
+
+Sie haben Tage voller Flucht, Terror und Gemetzel hinter sich.
+
+Sie haben zu viele Alarmglocken, Kriegstrommeln und Hilferufe gehört.
+
+In diesem Moment ist es das Kostbarste überhaupt, einfach still schlafen zu dürfen.
+
+Die Junior-Schwester leugnet den Sieg nicht.
+
+Sie hat nur früher als alle anderen erkannt, was dieser Sieg wirklich beschützt hat.
+
+Als sie es versteht, entscheidet sich die Senior-Schwester, den Schlägel abzusetzen.
+
+Am Ende ersetzt ein stummes rotes Seidenband den ohrenbetäubenden Triumphklang der Glocke.
+
+Kern-Twist: Von „Warum stoppt sie die Feier?“ zu „Eigentlich beschützte sie den Sieg selbst.“
+
+Kein plötzliches Auftauchen von Bösewichten.
+
+Keine Enthüllungen über Identitäten, vorgetäuschte Tode, Sektenverschwörungen oder übernatürliche Wunder.
+
+Lass die Entscheidungen der Figuren die Kraft der Geschichte tragen.
+
+[Figuren und Beziehungen]
+
+Figur A: @Image1, Schwert-Unsterbliche Senior-Schwester
+
+Strikte Übernahme der zuvor bestätigten Figur.
+
+Erwachsene ostasiatische Frau, 25–30 Jahre alt.
+
+Heller, natürlicher, weicher ovaler Gesichtsschnitt, dunkle mandelförmige Augen, langes schwarzes Haar, halb hochgesteckt und mit einer weißen Jade-Haarnadel fixiert, große und schlanke Statur.
+
+Trägt durchgehend dasselbe Set aus weißem, besticktem Seiden-Hanfu, halbtransparente geschichtete weite Ärmel, silbernen Taillengurt, Jade-Anhänger und weiße Stoffstiefel.
+
+Trägt ausschließlich ein einziges silbernes Langschwert.
+
+Zieht das Schwert in diesem Film niemals.
+
+Sie führte die Sekte durch einen langen Krieg und empfängt nun einen hart erkämpften Sieg.
+
+Daher ist ihr Wunsch, die Siegesglocke zu läuten, absolut echt.
+
+Die Senior-Schwester verkennt das Leid des Krieges keineswegs.
+
+Nur richtet sich ihre Aufmerksamkeit in diesem Moment ganz auf den endlich errungenen Sieg.
+
+Als die Junior-Schwester sie aufhält, ist sie zunächst überrascht.
+
+Doch durch eigene Beobachtung ändert sie ihre Entscheidung aktiv.
+
+Entwicklungszustände der Figur:
+
+Erleichterung, nachdem zehn Jahre Warten endlich vorbei sind;
+
+Irritation, nachdem sie aufgehalten wurde;
+
+das Entdecken von Details, die sie übersehen hatte;
+
+der aktive Verzicht darauf, die Glocke zu läuten;
+
+das Vollenden der Feier auf andere Weise.
+
+Figur B: @Image2, Junior-Schwester
+
+Strikte Übernahme der zuvor bestätigten Figur.
+
+Erwachsene ostasiatische Frau, 20–25 Jahre alt.
+
+Rundes, strahlendes Gesicht, schwarzes geflochtenes Haar, zierliche Statur.
+
+Trägt durchgehend grünes Leinen-Hanfu, dunklen Gürtel, hölzerne Haarnadel und schwarze Stoffschuhe.
+
+Trägt ausschließlich ein einziges dunkles Stahlschwert.
+
+Zieht das Schwert in diesem Film niemals.
+
+Die Junior-Schwester hat sich bis dahin um die Verwundeten gekümmert.
+
+Sie hat gesehen, wie diese Menschen nachts keinen Schlaf fanden und vom Krieg immer wieder hochgeschreckt wurden.
+
+Sie weiß, dass der Glockenklang sie erneut wecken würde.
+
+Deshalb muss sie eingreifen, bevor die Senior-Schwester die Glocke läutet.
+
+Sie hat keine Rede vorbereitet, um die Senior-Schwester zu überzeugen.
+
+Sie greift lediglich sanft nach deren Handgelenk.
+
+Und lässt sie dann selbst sehen und hören.
+
+Sie vertraut darauf, dass die Senior-Schwester es am Ende verstehen wird.
+
+Neue Nebenfiguren
+
+Älterer Meister:
+
+Erwachsener ostasiatischer Mann in tiefblauen antiken Gewändern.
+
+Als Ältester der Sekte übergibt er der Senior-Schwester persönlich den Triumph-Glockenschlägel.
+
+Auch er hat die Siegeszeremonie erwartet, weshalb ihn das plötzliche Eingreifen der Junior-Schwester fassungslos macht.
+
+Als er anschließend die ruhenden Verwundeten und Kinder sieht, akzeptiert er die Entscheidung, die Glocke nicht zu läuten, von sich aus.
+
+Der Meister darf sich nicht plötzlich in einen wütenden, tyrannischen Bösewicht verwandeln.
+
+Zwei Sektenjünger:
+
+Aus der Schlacht zurückgekehrt, müde Gesichter, aber mit echter Siegesfreude.
+
+Im Hintergrund positioniert.
+
+Sorgen für Präsenz der Menge, ohne das Bild zu dominieren.
+
+Ruhende Verwundete und Kinder:
+
+Mehrere erschöpfte Zivilisten und zwei Kinder.
+
+Dürfen einfache Verbände tragen, liegen auf niedrigen Matten, bedeckt mit schlichten Stoffdecken.
+
+Es werden keine blutigen Wunden gezeigt.
+
+Sie sollen so natürlich schlafen wie Menschen, die echte Erschöpfung erlebt haben.
+
+Ein Kind umklammert sanft ein zusammengefaltetes kleines Taschentuch und lehnt sich an die Schulter einer älteren Frau.
+
+Die Szene erfordert keine große Anzahl an Statisten.
+
+[Aktueller Schauplatz und räumliche Beziehungen]
+
+Alle in dieser Runde hochgeladenen Hintergrund- und Standort-Referenzbilder dienen als physische Welt, die im Video tatsächlich existiert.
+
+Sie dürfen nicht bloß als visuelle Inspiration behandelt werden.
+
+Etabliere zunächst eine einheitliche Umgebung gemäß den Referenzbildern:
+
+Reales Gelände;
+
+Räumliche Beziehungen der Hauptarchitektur;
+
+Wege und begehbare Bereiche;
+
+Physische Maßstäbe;
+
+Alter der Materialien;
+
+Vegetation und Gewässer;
+
+Wetter und Wolken;
+
+Nebel;
+
+Hauptrichtung des Lichts;
+
+Reflexionen;
+
+Farbe und atmosphärische Tiefe.
+
+Wähle innerhalb des Referenzstandorts eine stabile Bodenfläche, die plausibel Platz für eine provisorische Triumphzeremonie bietet.
+
+Verändere die Hauptsehenswürdigkeiten und Gebäudestrukturen des Referenzstandorts nicht willkürlich.
+
+Grundlegendes Raumlayout
+
+Eine große antike bronzene Siegesglocke hängt an einem einfachen Holzgestell.
+
+Neben der Glocke liegt ein hölzerner Glockenschlägel.
+
+Ein rotes Triumph-Seidenband, noch nicht vollständig entfaltet, ist vorab am Holzgestell befestigt.
+
+Diese rote Seide muss ab der ersten Einstellung physisch existieren.
+
+Hinter der Siegesglocke befindet sich ein einfacher, provisorischer Ruhebereich.
+
+Ein schlichter Vorhang und die breite, runde Oberfläche der Siegesglocke versperren dem Publikum gemeinsam den direkten Blick auf diesen Bereich.
+
+Die Verwundeten und Kinder ruhen dort bereits seit Beginn.
+
+Nur zeigt die Kamera sie anfangs nicht vollständig.
+
+Die zweite Einstellung enthüllt sie sowohl dem Publikum als auch den Figuren gleichzeitig durch eine natürliche Seitwärtsbewegung.
+
+Dies ist kein plötzlicher Ortswechsel und kein plötzliches Auftauchen neuer Menschenmassen.
+
+Umgebungsdynamik
+
+Wind bewegt natürlich Ärmel, langes Haar, rote Seide und Vegetation.
+
+Entfernte Gewässer, Wolken/Nebel und Hintergrundfiguren behalten eine plausible Bewegung bei.
+
+Die Richtung des natürlichen Lichts bleibt stabil.
+
+Vordergrund, Mittelgrund und Hintergrund bleiben durchgehend belebt.
+
+Aber die Umgebung erzeugt nicht aktiv Wendungen.
+
+Diese Handlung wird allein durch die Aktionen der Figuren getragen.
+
+[Erste Einschätzung und wichtiges Foreshadowing]
+
+Was das Publikum zunächst sieht:
+
+Die Siegeszeremonie ist bereit.
+
+Der Meister übergibt den Schlägel persönlich.
+
+Die Senior-Schwester bereitet sich feierlich darauf vor, die Glocke zu läuten.
+
+Die Junior-Schwester hält sie plötzlich auf.
+
+Ihr Verhalten wird als Weigerung zu feiern verstanden, vielleicht sogar als Zerstörung eines seltenen Ehrenmoments nach zehn Jahren.
+
+Drei vorab existierende Schlüsseldetails
+
+Erstens: Die Größe der Siegesglocke.
+
+Sie ist groß genug, dass der erzeugte Klang zwangsläufig laut sein muss.
+
+Daher hat das Verhindern des Läutens eine klare praktische Bedeutung.
+
+Zweitens: Der Ruhebereich dahinter.
+
+Existiert ab der ersten Einstellung tatsächlich, wird aber von Bronzeglocke und Vorhang verdeckt.
+
+Die zweite Einstellung ändert lediglich den Betrachtungswinkel.
+
+Drittens: Das rote Triumph-Seidenband.
+
+Hängt von Anfang an am Glockengestell.
+
+Am Ende nimmt die Senior-Schwester es ab und entfaltet es, womit sie einen stummen Siegesbericht vollendet.
+
+Für den gesamten Twist werden keine neuen übernatürlichen Fähigkeiten, keine neuen Geheimnisse der Figuren und keine plötzlich auftauchenden wichtigen Requisiten verwendet.
+
+[0–5 Sekunden: Eröffnungs-Hook und anfänglicher Konflikt]
+
+Einstellungsgröße: Push-in von Totale auf Halbtotale.
+
+Kamera: 35-mm-Objektiv, stabiler, langsamer Push-in.
+
+Der Einstieg führt direkt in die vorbereitete Triumphzeremonie.
+
+Eine breite bronzene Siegesglocke hängt an einem Holzgestell.
+
+Die Oberfläche der Bronzeglocke bewahrt echte Texturen von altem Guss und altersbedingtem Verschleiß.
+
+Ein rotes Triumph-Seidenband ist neben dem Holzgestell angebunden.
+
+Der ältere Meister überreicht der Schwert-Unsterblichen Senior-Schwester den hölzernen Glockenschlägel.
+
+Die Senior-Schwester streckt die Hand aus und fängt ihn auf.
+
+Sie blickt auf diese Bronzeglocke.
+
+In ihren Augen liegt jene Art von Müdigkeit und Erleichterung, die folgt, wenn ein langer Feldzug endlich endet.
+
+Der Meister sagt leise:
+
+Meister: „Zehn Jahre. Läute sie.“
+
+Die Senior-Schwester hebt langsam den Glockenschlägel.
+
+Alle Bewegungen entsprechen der realen Körpermechanik.
+
+Genau als der Schlägel die Glockenoberfläche berühren will –
+
+tritt die Junior-Schwester plötzlich einen halben Schritt vor und greift sanft, aber bestimmt nach dem rechten Handgelenk der Senior-Schwester.
+
+Der Schlägel stoppt.
+
+Kein Aufprall.
+
+Kein Glockenklang.
+
+Junior-Schwester: „Senior-Schwester, läute sie nicht.“
+
+Der Meister erstarrt augenblicklich.
+
+Die Senior-Schwester dreht langsam den Kopf.
+
+Sie ist nicht wütend.
+
+Sie hat schlicht nicht erwartet, dass die Junior-Schwester sie in diesem Moment aufhält.
+
+Deutliche Irritation zeigt sich in ihrem Blick.
+
+Die Kamera wechselt, als die beiden Augenkontakt herstellen.
+
+Zu diesem Zeitpunkt sollte sich das Publikum ganz natürlich fragen:
+
+Warum dürfen wir die Glocke nicht läuten, wo wir doch gewonnen haben?
+
+[5–10 Sekunden: Aktion der Figuren und Situationswechsel]
+
+Einstellungsgröße: Halbtotale.
+
+Kamera: Leichte Seitwärtsbewegung, die zunächst die Gesichtsbeziehung zwischen den beiden Frauen beibehält und dann entlang der Kante der Bronzeglocke den Raum dahinter enthüllt.
+
+Die rechte Hand der Senior-Schwester hält noch immer den Schlägel.
+
+Die Junior-Schwester umfasst weiterhin sanft ihr Handgelenk.
+
+Die Senior-Schwester blickt die Junior-Schwester an:
+
+Senior-Schwester: „Warum?“
+
+Die Junior-Schwester beeilt sich nicht, sich zu rechtfertigen.
+
+Sie löst langsam den Griff am Handgelenk der Senior-Schwester.
+
+Dann hebt sie einen Finger und führt ihn sanft an ihre Lippen.
+
+Ein Zeichen an die Senior-Schwester, still zu sein.
+
+Junior-Schwester: „Hör zu.“
+
+In diesem Moment werden die leisen Feierklänge in der Ferne allmählich leiser.
+
+Das Sounddesign lässt die Figuren Folgendes bemerken:
+
+Leichte Atemgeräusche;
+
+tiefe und gleichmäßige Schlafatemzüge;
+
+kleine Stoffreibungsgeräusche, die der Wind trägt.
+
+Die Kamera schwenkt natürlich seitwärts entlang der Kante der bronzenen Siegesglocke.
+
+Der Bereich, der ursprünglich von Glockenkörper und Vorhang verdeckt war, wird nach und nach sichtbar.
+
+Das ist kein anderer Ort.
+
+Er befand sich schon immer hinter dem Glockengestell.
+
+Mehrere verwundete Zivilisten und Kinder liegen auf provisorischen Matten.
+
+Sie schlafen tief und fest.
+
+Ein Kind umklammert fest ein zusammengefaltetes kleines Taschentuch.
+
+Sein Kopf lehnt natürlich an der Schulter der älteren Frau neben ihm.
+
+Niemand spricht.
+
+Niemand weint.
+
+An ihrer Erschöpfung, den Verbänden und ihrer Haltung kann das Publikum erkennen, dass sie lange Zeit Angst und Flucht durchlebt haben.
+
+Der Blick der Senior-Schwester wandert in die Richtung, die die Junior-Schwester weist.
+
+Endlich sieht sie diese Menschen.
+
+Der ursprünglich erhobene Glockenschlägel verharrt in der Luft, sein Fall verzögert sich.
+
+In diesem Moment verändern sich die Emotionen der Senior-Schwester.
+
+Sie blickt nicht mehr nur auf die Bronzeglocke, die den Sieg symbolisiert.
+
+Sie sieht wirklich die Menschen, die sie beschützt hat.
+
+[10–15 Sekunden: Schlüssel-Twist und emotionale Auflösung]
+
+Einstellungsgröße: Nahaufnahme.
+
+Kamera: Stabile Nahkomposition mit natürlichen Fokuswechseln zwischen den Gesichtern der Figuren, dem Schlägel in der Hand und der roten Seide.
+
+Behalte dieselben Figuren, dasselbe Licht, dieselbe Bronzeglocke und einen völlig konsistenten geografischen Raum bei.
+
+Die Junior-Schwester steht neben der Senior-Schwester.
+
+Sie sagt nichts weiter.
+
+Sie wartet einfach still darauf, dass die Senior-Schwester ihre eigene Entscheidung trifft.
+
+Die Senior-Schwester senkt langsam den Glockenschlägel.
+
+Die Bewegung ist sehr leicht.
+
+Sie legt den Schlägel behutsam neben das Glockengestell.
+
+Holz, das auf die Halterung trifft, erzeugt nur ein äußerst dezentes Geräusch.
+
+Der ältere Meister hat die schlafende Gruppe hinter der Kante der Bronzeglocke bereits gesehen.
+
+Auch er sagt nichts.
+
+Sein Blick wandert von der Senior-Schwester zu jenen Kindern.
+
+Seine Körperhaltung, die ursprünglich darauf ausgerichtet war, die Zeremonie zu leiten, entspannt sich langsam.
+
+Die Senior-Schwester streckt die Hand aus und nimmt das rote Triumph-Seidenband, das sich von Anfang an am Holzgestell befand.
+
+Sie entfaltet die rote Seide sanft.
+
+Dann drapiert sie sie über die Oberseite der Bronzeglocke und lässt das Band natürlich herabhängen.
+
+Die rote Seide flattert leicht im Wind.
+
+Die Glocke läutet noch immer nicht.
+
+Die Senior-Schwester blickt auf die schlafenden Kinder.
+
+Sie sagt extrem leise:
+
+Senior-Schwester: „Diesen Klang, den schulden wir noch.“
+
+Sprich es nicht wie eine heldenhafte Erklärung.
+
+Dieser Satz ist wie eine ruhige Übereinkunft zwischen zwei Menschen.
+
+Die zuvor angespannten Schultern der Junior-Schwester lockern sich endlich ein wenig.
+
+Der Meister steht neben ihnen.
+
+Er hält keine Rede.
+
+Er schaut einfach still zu.
+
+Letztes Bild
+
+Vordergrund:
+
+Die riesige, unbewegte hängende bronzene Siegesglocke.
+
+Das rote Seidenband, das den Triumph symbolisiert, hängt an der Glockenoberfläche.
+
+Mittelgrund:
+
+Die Schwert-Unsterbliche Senior-Schwester und die Junior-Schwester stehen Seite an Seite.
+
+Sie erheben keine Schwerter und rufen nicht laut.
+
+Hintergrund:
+
+Die Verwundeten und Kinder, die den Krieg gerade erst überlebt haben, schlafen noch immer still.
+
+Eine leichte Brise weht sanft durch die rote Seide.
+
+Natürliches Licht gleitet über die gealterte Oberfläche der Bronzeglocke.
+
+Bildschirm endet.
+
+Zehn Jahre Krieg, endlich gewonnen.
+
+Doch der heutige Sieg erzeugte keinen ohrenbetäubenden Klang.
+
+Weil jemand endlich friedlich schlafen konnte.
+
+[Schauspielerische Leistung und Dialoge]
+
+Der gesamte Film enthält nur fünf Zeilen nativen Mandarin-Dialogs.
+
+Meister: „Zehn Jahre. Läute sie.“
+
+Der Tonfall ist tief und trägt die Emotion der Erleichterung nach langem Warten.
+
+Junior-Schwester: „Senior-Schwester, läute sie nicht.“
+
+Dringend, aber höflich.
+
+Ihr Ziel ist es, die unmittelbare Handlung zu stoppen, nicht die Autorität der Senior-Schwester infrage zu stellen.
+
+Senior-Schwester: „Warum?“
+
+Überrascht, irritiert, der Tonfall sehr leicht kontrolliert.
+
+Junior-Schwester: „Hör zu.“
+
+Geringere Lautstärke, damit die andere Person die Wahrheit selbst entdeckt.
+
+Senior-Schwester: „Diesen Klang, den schulden wir noch.“
+
+Stimme ist leicht und bestimmt.
+
+Dies ist die Entscheidung, die sie aktiv getroffen hat, nachdem sie die Situation verstand.
+
+Alle Figurendialoge sind natürlich, klar und stimmen strikt mit den Lippenbewegungen der tatsächlich sprechenden Rolle überein.
+
+Nicht sprechende Figuren dürfen ohne Grund nicht den Mund öffnen.
+
+Füge keinen Voice-over oder erklärende Zusatzdialoge hinzu.
+
+[Kamera und Schnitt]
+
+Die drei Segmente haben deutliche visuelle Funktionen.
+
+Erste Einstellung: Mache die Siegesglocke zum Zentrum des Bildes.
+
+Durch ihre Größe, die Kupfertextur, die Übergabe des Schlägels durch den Meister und das Heben des Schlägels durch die Senior-Schwester wird die Feierlichkeit der Siegeszeremonie etabliert.
+
+Die Junior-Schwester streckt plötzlich die Hand aus und unterbricht die Erwartungshaltung des Publikums.
+
+Zweite Einstellung: Verändere die Welt, die das Publikum sieht, durch eine Seitwärtsbewegung.
+
+Beschwöre keine neuen Umgebungen aus dem Nichts herbei.
+
+Enthülle einfach den bereits existierenden Ruhebereich, während sich die Kamera bewegt.
+
+Das visuelle Gewicht verlagert sich von der riesigen Bronzeglocke, die den Sieg symbolisiert, hin zu den klein wirkenden, still schlafenden Menschen.
+
+Dritte Einstellung: Die Figuren vollenden den Twist mit neuen Handlungen.
+
+Die Senior-Schwester setzt den Glockenschlägel ab.
+
+Nimmt die bereits vorhandene rote Seide.
+
+Vollendet den Siegesbericht stumm.
+
+Verlasse dich nicht auf übertriebene Zeitlupe und komplexe Kreisfahrten.
+
+Die Kameraführung ist stabil, klar und kontinuierlich.
+
+Erlaube moderate Schärfentiefe, mache aber Schlüsselaktionen und wichtige Requisiten nicht unkenntlich.
+
+[Sounddesign]
+
+Der Ton ist ein wichtiger Teil dieses Twists.
+
+Segment 1
+
+Natürliche Umgebungsgeräusche und sehr zurückhaltende Triumph-Atmosphärenklänge.
+
+Leiser Austausch unter der entfernten, müden Menge ist möglich, aber kein großflächiges Jubeln.
+
+Wenn der Glockenschlägel gehoben wird, nutze keine starken Trommelschläge, um billige Spannung zu erzeugen.
+
+Segment 2
+
+Nachdem die Junior-Schwester „Hör zu“ sagt, senke allmählich die entfernten menschlichen Stimmen und den Score.
+
+Lenke die Aufmerksamkeit auf den Ruhebereich.
+
+Bewahre echte Atemgeräusche, leichte Stoffreibungsgeräusche und natürliche Umgebungsgeräusche, die zum Referenzstandort passen.
+
+Lass die Stille im Ton Teil der Erkenntnisveränderung der Figuren werden.
+
+Segment 3
+
+Kein Glockenklang.
+
+Kein plötzlich anschwellender sentimentaler Score.
+
+Bewahre nur das leichte Ablegen des Schlägels, das Streifen der Seide an der Bronzeglocke, die Brise und die Umgebungsgeräusche.
+
+Die letzte Zeile der Senior-Schwester:
+
+„Diesen Klang, den schulden wir noch.“
+
+Muss klare Lippenbewegungen, echten Atem und natürliche Lautstärke aufweisen.
+
+Nach Ende des Dialogs bewahre eine kurze Stille.
+
+[Kontinuität von Figuren, Requisiten und Umgebung]
+
+Figuren:
+
+@Image1 und @Image2 behalten durchgehend dasselbe Gesicht, identische Gesichtsproportionen, Frisur, Kleidung, Körperproportionen, Schwert und Charaktertemperament bei.
+
+Die Senior-Schwester hält den Glockenschlägel in den Einstellungen 1 und 2 in der rechten Hand.
+
+Die Junior-Schwester nähert sich von der rechten Seite der Senior-Schwester und hält ihr Handgelenk auf.
+
+Ihre Positionswechsel folgen realen Bewegungspfaden.
+
+Nebenfiguren betreten das Bild nur, wenn es mit ihren Positionen vor Ort übereinstimmt.
+
+Glockenschlägel:
+
+Wird zu Beginn vom Meister an die Senior-Schwester übergeben.
+
+Von der Senior-Schwester gehoben.
+
+Von der Junior-Schwester gestoppt.
+
+Von der Senior-Schwester gehalten.
+
+Schließlich abgelegt.
+
+Der gesamte Prozess darf keinen sofortigen Handwechsel, kein Verschwinden des Schlägels und keine Teleportation aus dem Nichts beinhalten.
+
+Bronzene Siegesglocke:
+
+Immer dieselbe Bronzeglocke.
+
+Proportionen des Glockenkörpers, Holzgestell, Materialtextur, Hängehöhe und räumliche Position bleiben konsistent.
+
+Der Glockenschlägel berührt im gesamten Film niemals die Glockenoberfläche.
+
+Rote Seide:
+
+Existiert ab der ersten Einstellung am Glockengestell.
+
+Wird am Ende von der Senior-Schwester selbst entfaltet und über die Bronzeglocke drapiert.
+
+Darf am Ende nicht aus dem Nichts generiert werden.
+
+Ruhebereich:
+
+Existiert von Anfang an tatsächlich hinter dem Glockengestell.
+
+Bettzeug, Personenanzahl, Positionen der Kinder und Vorhänge bewahren räumliche Kontinuität.
+
+Wird in der zweiten Einstellung durch einen Perspektivwechsel der Kamera enthüllt.
+
+Die schlafenden Kinder und Verwundeten schlafen am Ende weiterhin.
+
+Hintergrund:
+
+Folgt stets den tatsächlichen Standort-Referenzbildern dieser Runde.
+
+Bewahre Geländemerkmale, architektonische räumliche Beziehungen, Hauptlicht, Wetter, Materialien und Umgebungsmaßstab.
+
+Natürlicher Wind, Wasser, Nebel, Vegetation, Haarsträhnen, Ärmel und rote Seide bewegen sich weiterhin realistisch.
+
+Der Hintergrund erzeugt nicht aktiv neue dramatische Ereignisse.
+
+[Ausführungsanforderungen für Seedance 2.0 Mini]
+
+Rufe das seedance 2.0 mini Modell auf, um einen strikten 15-sekündigen, 16:9 querformatigen Live-Action-Kurzfilm in Kinoqualität mit einem chinesischen Xianxia-Twist zu generieren.
+
+Kern-Einstellungssequenz:
+
+0–5s: Meister übergibt den Schlägel, Senior-Schwester hebt den Schlägel, Junior-Schwester stoppt plötzlich.
+
+5–10s: Junior-Schwester bittet Senior-Schwester zuzuhören, Kamera enthüllt die still schlafenden Verwundeten und Kinder dahinter.
+
+10–15s: Senior-Schwester legt den Schlägel ab, entfaltet die rote Seide, vollendet die emotionale Auflösung mit der letzten Dialogzeile.
+
+Stelle Stabilität und Kontinuität der Kameraachse, Figurenpositionierung, Blickrichtungen, Requisitenpositionen, Lichtrichtung und des Umgebungsraums zwischen den drei Einstellungen sicher.
+
+Konzentriere dich auf die Gewährleistung der folgenden sichtbar realen Ergebnisse:
+
+Die Junior-Schwester muss die Senior-Schwester erfolgreich aufhalten, bevor der Glockenschlägel die Bronzeglocke berührt.
+
+Die Kamera muss den zuvor verdeckten Ruhebereich tatsächlich enthüllen.
+
+Die Senior-Schwester muss die schlafende Gruppe mit eigenen Augen sehen und ihre Handlung deshalb ändern.
+
+Die rote Seide muss vorher existieren und am Ende aktiv von der Senior-Schwester entfaltet werden.
+
+Die Bronzeglocke darf im gesamten Film nicht geläutet werden.
+
+Die Verwundeten und Kinder schlafen am Ende weiterhin still.
+
+Mikroexpressionen der Figuren sind real und zurückhaltend.
+
+Alle Handlungen sind vollständig und plausibel.
+
+Mandarin-Dialoge sind nativ synchronisiert.
+
+Füge keine neuen Konflikte, Identitätswechsel, Zauberwirkungen, Kämpfe oder temporäre Handlungsstränge hinzu.
+
+Generiere keine Untertitel, Titel, Voice-over oder überflüssigen Text.
+
+Finale Emotion: Lass das Publikum erkennen, dass manchmal genau jener Sieg, der es am meisten wert ist, gefeiert zu werden, derjenige ist, der still bleiben sollte.
+
+[Negative Prompt]
+
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120725137213595648/img/z1VAUSwvmx61K2ub.jpg" width="600" alt="Stille Siegesglocken-Szene">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13745)**
+
+**Autor:** [𝕊𝖔ʳᵃɴ](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2120725797229183155) | **Veröffentlicht:** Nov 12, 2026
+
+---
+### Seedance 2.5 Fantasy-Action-Film-Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein Prompt zur Generierung eines 30-sekündigen Fantasy-Action-Kurzfilms, in dem eine weibliche Wächterin auf einer Fähranlegestelle gegen ein riesiges Monster kämpft.
+
+#### 📝 Prompt
+
+```
+Seedance 2.5 Prompt
+[Generierungsanforderungen]
+Erstelle einen vollständigen, 30 Sekunden langen Realfilm-Kurzfilm im Fantasy-Action-Stil mit cineastischer Optik, Querformat 16:9, bestehend aus 9 Einstellungen.
+Titelkonzept: „Das Boot legte ab, sie stieg nicht ein“.
+
+Epische Schauplätze, intensive Kämpfe, Figuren mit realistischer Kraftübertragung, Gleichgewichtsverlusten, Keuchen und Aufprallen.
+Keine Videospiel-Zwischensequenz, keine Martial-Arts-Posen, kein Protagonist, der das Monster mühelos vernichtet.
+Die Geschichte soll durch klare Angriffs-/Verteidigungsabläufe, räumliche Veränderungen und schrittweise Durchbrüche vorangetrieben werden; verzichte auf Magie, Dauerexplosionen oder durchgehende Zeitlupe.
+
+[Referenzmaterialien]
+@Image 1: Die einzige Figuren- und Ausrüstungsreferenz für die Wächterin. Fixiere Gesichtszüge, Frisur, Rüstung, Tunika, Beinschutz, Kampfstiefel und Langstielklinge. Übernimm weder die Standpose noch die Bildkomposition des Konzeptarts.
+@Image 2: Szenen- und Architektur-Referenz für die Fähranlegestelle. Fixiere steinerne Uferböschungen, alte Holzstege, Täler, antike Städte und das Aussehen der hölzernen Fähre.
+@Image 3: Die einzige visuelle Referenz für das Felspanzer-Ungetüm. Fixiere Kopfsilhouette, Hornform, geschichteten dicken Panzer, kräftige Gliedmaßen und Körperproportionen.
+
+[Kernhandlung]
+Die letzte Evakuierungsfähre legt vom Ufer ab. Die Wächterin bleibt auf dem Holzsteg zurück, um das Ungetüm aufzuhalten, das die Menge verfolgt.
+Sie muss durchhalten, bis die Fähre die Gefahrenzone verlassen hat.
+Im Kampf wird sie zurückgedrängt und zu Boden geworfen, umkreist dann das Ungetüm, um sich in Richtung Ufer zurückzuziehen.
+Das Ungetüm zertrümmert bei seiner Verfolgung den Holzsteg. Die Protagonistin erreicht schließlich eine stabile Steinplattform. Das Ungetüm tritt auf bereits beschädigte Holzbereiche, was zu einem lokalen Einsturz ins Wasser führt und die weitere Verfolgung vorübergehend stoppt.
+Nachdem sie sich der Sicherheit vergewissert hat, blickt die Protagonistin der sich entfernenden Fähre nach und hebt die Hand, um zu signalisieren, dass sie am Leben ist.
+
+[Festes Erscheinungsbild der Protagonistin]
+Erwachsene Frau, ca. 26 Jahre alt, Aussehen strikt gemäß @Image 1.
+Wahrung der Konsistenz beider Gesichtshälften, dunkles hochgebundenes Haar, Metallrüstung, Tunika, Beinschutz, Kampfstiefel und Langstielklinge.
+Kleidung darf nicht neu gestaltet, Rüstungsteile nicht hinzugefügt/entfernt und Waffen nicht gewechselt werden.
+Die Ausrüstung ist von Anfang an vollständig sichtbar; die Klinge befindet sich immer in ihrer Hand oder deutlich erkennbar an ihrer Seite – sie verschwindet oder vervielfältigt sich niemals.
+Realistische Haut, abgenutzte Rüstung und Leder. Während des Kampfes sammeln sich allmählich Holzsplitter, Staub und kleine Wasserspritzer an; das Haar wird mit der Zeit unordentlich und ordnet sich nicht von selbst wieder.
+Schön, aber ohne Posen; zweckmäßige Bewegungen; Atmung und Mimik verändern sich je nach Kampfsituation.
+
+[Festes Erscheinungsbild des Ungetüms]
+Strikte Übereinstimmung mit dem vierbeinigen felsgepanzerten Ungetüm aus @Image 3.
+Schulterhöhe ca. 3 Meter, massiger Körperbau, niedrige Kopfhaltung, raue, geschichtete Felspanzerung, kräftige Gliedmaßen.
+Identische Hornformen, Panzerverteilung, Körperproportionen und Anzahl der Gliedmaßen beibehalten.
+Verhält sich wie ein großes Tier mit echtem Gewicht: benötigt Bremsweg nach dem Ansturm, passt die Schrittarbeit beim Wenden an, dreht sich nicht augenblicklich um, hüpft nicht federleicht.
+Keine Flügel, Tentakel, Zusatzfähigkeiten, leuchtenden Augen, Feueratem oder Energieblitze hinzufügen.
+
+[Räumliche Festlegung der Fähranlegestelle]
+Das Gesamterscheinungsbild orientiert sich an @Image 2, wobei die Aktionen über klare seitliche Raumbeziehungen strukturiert werden:
+Linke Seite: Stabile Steinböschung und breite Steinplattform.
+Der alte Holzsteg erstreckt sich von der linken Steinböschung in Richtung der rechten Wasserfläche.
+Der mittlere Abschnitt des Stegs ist breiter, sodass die Protagonistin das Ungetüm außen umrunden kann.
+Die Fähre legt vom äußeren Ende des Stegs in Richtung des offenen Wassers rechts ab.
+
+Eröffnung: Die Protagonistin befindet sich am äußersten Ende des Stegs und blickt dem Ungetüm entgegen, das sich von der Uferseite nähert.
+Das Ungetüm steht zwischen der Protagonistin und der Steinböschung; die Fähre befindet sich hinter der Protagonistin auf dem Wasser.
+Der mittlere Abschnitt muss den Vorgang, bei dem die Protagonistin das Ungetüm außen umrundet und zur Uferseite zurückkehrt, vollständig zeigen. Positionen dürfen nach Schnitten nicht abrupt vertauscht werden.
+
+Der ufernahe Holzbereich weist von Anfang an erkennbare alte Risse auf, trägt aber noch Gewicht.
+Die Grenze zwischen der stabilen Steinböschung und dem Holzsteg ist klar definiert.
+Nur die beschädigte Holzkonstruktion bricht lokal ein; die Steinböschung stürzt nicht ein; die Protagonistin verbleibt letztlich auf der intakten Steinplattform.
+
+[Kontinuität der Fähre]
+Von der ersten Einstellung an hat die Fähre die Leinen losgeworfen und verlässt den Steg; keine Seile verbinden Boot und Steg.
+Der Bug zeigt zum offenen Wasser, das Heck zum Steg.
+Während des gesamten Films nimmt der Abstand zwischen Fähre und Steg kontinuierlich zu; sie darf weder stoppen, an ihre Ausgangsposition zurückkehren noch plötzlich zurückfahren.
+Es befinden sich nur wenige erwachsene Passagiere an Bord, die als entfernte kleine Figuren erscheinen; keine komplexen Interaktionen zwischen Figuren.
+Die Protagonistin darf nicht aufs Boot springen, an Seilen klettern oder auf dem Boot kämpfen.
+
+[Licht & Bildsprache]
+Heller, bedeckter Himmel, weiches Himmelslicht, linke Bildhälfte etwas heller.
+Realistische Hauttöne, graublaues Wasser, graue Steinböschungen, natürliches altes Holz; Details in den Schatten beibehalten.
+Textur eines epischen Realfilm-Actionfilms; deutliche Materialtrennung zwischen Metall, Leder, Felspanzer, Holz und Wasser.
+Halb- und Ganzkörperaufnahmen verdeutlichen Angriff/Verteidigung; Weitwinkel etablieren Raum und Durchbrüche; Nahaufnahmen ergänzen die Emotionen der Figur.
+Die Kameraführung ist stabil, aber moderat dynamisch; kurze Verfolgungsfahrten; zurückhaltende Handkamera-Bewegung, kein heftiges Wackeln.
+Keine starken Teal-and-Orange-Filter, keine übertriebenen Lens Flares oder durchgehende Zeitlupe verwenden.
+
+[Einstellungsplan]
+
+Einstellung 1 (0–3 s):
+Weitwinkel-Tracking-Shot in Dreiviertel-Seitenansicht; der Konflikt beginnt sofort im ersten Bild.
+Die Vorderpranke des Ungetüms zerschmettert eine Stegdiele direkt vor der Protagonistin; bei Kontakt fliegen Holzsplitter. Die Protagonistin wird erschüttert auf ein Knie gezwungen, die Langstielklinge weiterhin in der Hand.
+Gleichzeitig sind die stabile Steinböschung links, das rissige Holz nahe dem Ufer und die rechts ablegende Fähre zu etablieren.
+Ruf der Erwachsenen auf dem Boot aus dem Off: „Steig ein!“
+Die Protagonistin blickt auf und starrt das Ungetüm an, ohne sich umzudrehen.
+
+Einstellung 2 (3–6 s):
+Schnitt auf seitliche Halbtotale, die sowohl Protagonistin als auch Ungetüm einfängt.
+Das Ungetüm drängt zum äußeren Ende des Stegs vor und versucht, die Protagonistin zu umgehen, um die Fähre zu erreichen.
+Die Protagonistin bewegt sich seitlich und führt einen kurzen Gegenangriff mit der Klinge gegen seine Vordergliedmaße aus, um seine Aufmerksamkeit auf sich zu ziehen.
+Das Ungetüm wendet sich ihr zu; die Protagonistin wird zum Rückzug gezwungen, Dielen biegen sich und knarren unter ihren Füßen.
+Sie darf nicht stillstehen und die gesamte Wucht des Ungetüms absorbieren.
+
+Einstellung 3 (6–10 s):
+Schnitt auf leicht erhöhte seitliche Totale, die eine vollständige Positionsveränderung klar zeigt.
+Das Ungetüm schlägt mit der Vorderklaue aus; die Protagonistin weicht der Angriffslinie aus, umrundet das Ungetüm über den breiteren Mittelteil des Stegs auf dessen Außenseite und gelangt auf die Seite näher an der Steinböschung.
+Das Ungetüm dreht sich auf der Stelle und jagt ihr nach.
+Bewegungsbahnen beider vollständig darstellen; Positionen nicht per Jump Cut vertauschen, nicht unter dem Körper des Monsters hindurchgehen, Figuren dürfen nicht durch Gliedmaßen hindurchgleiten.
+
+Einstellung 4 (10–14 s):
+Schnitt auf seitliche Halbnahe mit kurzer Kamerafahrt.
+Das Ungetüm kommt näher, Vordergliedmaßen und Schultern drängen nach vorn.
+Die Protagonistin versucht, mit der Klinge den Klauenrand einzuhaken, wird jedoch gestreift, verliert das Gleichgewicht, geht auf ein Knie und stützt sich mit einer leeren Hand ab, rutscht ein kurzes Stück über die Dielen, bevor sie zum Stehen kommt.
+Die Waffe verbleibt in der anderen Hand oder eng am Körper, stets sichtbar.
+Positionsveränderung erfolgt erst nach dem Kontakt; Dielen reißen durch den Aufprall weiter ein, brechen aber nicht vollständig durch.
+Sie spürt Druck und keucht; kein fortlaufendes Rollen, kein Hochfliegen.
+
+Einstellung 5 (14–18 s):
+Schnitt auf uferseitige Halbtotale.
+Die Protagonistin stemmt sich hoch und zieht sich zur stabilen Steinböschung zurück, die Klinge bleibt sichtbar.
+Das Ungetüm betritt die Dielen, die sie gerade überquert hat; schwere Balken senken sich, Knackgeräusche aus dem beschädigten Bereich nahe dem Ufer.
+Sie wirft einen kurzen Blick auf die gebrochene Struktur unter ihren Füßen, konzentriert sich dann wieder auf das Ungetüm.
+Die entfernte Fähre fährt weiter weg, weiter entfernt als zu Beginn.
+Keine erklärenden Dialoge; keine langen, nachdenklichen Nahaufnahmen.
+
+Einstellung 6 (18–22 s):
+Stabile seitliche Totale; Steinböschungsgrenze, beschädigtes Holz, Protagonistin und Ungetüm alle unterscheidbar.
+Die Protagonistin hat sich bis zur Verbindungsstelle mit der Steinböschung zurückgezogen; das Ungetüm stürmt erneut über das beschädigte Holz vor.
+Sie macht eine kurze Seitwärtsbewegung und betritt die angrenzende intakte Steinplattform, landet normal auf beiden Füßen.
+Die Vordergliedmaßen des Ungetüms pressen sich auf das beschädigte Holz; Balken brechen unter der tatsächlichen Last, Verbindungen lösen sich, der Schwerpunkt sinkt.
+Zuerst muss das Gewicht getragen werden, dann erfolgt der Strukturbruch; kein vorzeitiges Fallen.
+
+Einstellung 7 (22–25 s):
+Schnitt auf Dreiviertel-Totale.
+Der beschädigte Stegabschnitt bricht nach unten weg; das Ungetüm verliert den Halt und stürzt mitsamt den zerbrochenen Balken ins Wasser, wobei Spritzer entstehen, die seinem Gewicht entsprechen.
+Große Holzteile fallen der Schwerkraft folgend; kein Schweben, kein Zerfallen zu Staub.
+Die Protagonistin verbleibt auf der intakten Steinplattform; ihr Körper wird vom Einsturz nicht mitgerissen.
+Die Fähre hat die Gefahrenzone verlassen, unbeeinflusst von Spritzern oder Trümmern.
+Keine Unterwasserkämpfe, kein blutiger Tod, keine Feuerball-Explosionen.
+
+Einstellung 8 (25–28 s):
+Schnitt auf seitliche Halbnahaufnahme der Protagonistin, langsamer, leichter Push-in.
+Sie steht fest, die Klinge umklammert, Schultern heben sich durch schnelles Atmen, Haar und Ausrüstung zerzaust.
+Sie vergewissert sich zunächst, dass vom zerstörten Steg keine neue Verfolgung droht, und wendet sich dann der sich entfernenden Fähre zu.
+Am Heck blickt nur eine sehr kleine erwachsene Passagierfigur in ihre Richtung; keine Gesichts- oder Fingerdetails filmen.
+
+Einstellung 9 (28–30 s):
+Schnitt auf frontale Nahaufnahme der Protagonistin; Tal und Wasser im Hintergrund natürlich unscharf.
+Eine Hand hält weiterhin die Klinge; die freie Hand hebt sich sanft in die Ferne, um Entwarnung zu signalisieren.
+Ihr Ausdruck zeigt Erleichterung nach völliger Erschöpfung, kein triumphales Lachen.
+Das Ende ruht auf ihrem echten Atem, ihrer stabilen Haltung und dem Blick zur Fähre; kein Abblenden ins Schwarze.
+
+[Ton]
+Schwere Schritte des Ungetüms, Rüstungsreiben, knarrendes Holz unter Belastung, brechende Balken, Klingenkontakt, Schuhsohlenreibung, Geräusche von Stoff und Rüstung.
+Aufprallgeräusche synchron zum tatsächlichen Kontakt; keine übertriebenen Knochenbrecher-Sounds verwenden.
+Das Ablegen der Fähre mit zurückhaltenden Wassergeräuschen und Strukturklängen des Holzrumpfs.
+Der einzige Dialog ist die Stimme des Erwachsenen auf dem Boot zu Beginn
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120520856917114880/img/WasTr9Hk_PlmyXy9.jpg" width="600" alt="Seedance 2.5 Fantasy-Action-Film-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13746)**
+
+**Autor:** [Adamä¹Ÿå�«å�‰ç±³](https://x.com/Adam38363368936) | **Quelle:** [Link](https://x.com/Adam38363368936/status/2120521214737416330) | **Veröffentlicht:** Nov 11, 2026
+
+---
 ### Seedance 2.0 Cyberpunk U-Bahn Kampf-Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -8067,181 +9233,6 @@ Darunter setzt der dunkle SUV seine Fahrt über die sonnenbeschienene Straße fo
 **Autor:** [Sharon Riley](https://x.com/Just_sharon7) | **Quelle:** [Link](https://x.com/Just_sharon7/status/2112913908617158822) | **Veröffentlicht:** Oct 21, 2026
 
 ---
-### Falscher Kaffee, Manhattan-Romantik
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für ein kinematografisches Luxus-Editorial-Video in Manhattan, bei dem eine Verwechslung von Kaffeetassen zu einem Gespräch führt, inklusive Anweisungen zur Charakterreferenz.
-
-#### 📝 Prompt
-
-```
-The Wrong Coffee — Midtown Manhattan, New York
-
-Dauer: 30 Sekunden | Seitenverhältnis: 16:9 | Stil: Cinematic Luxury Editorial
-
-Charakterreferenzen: Verwenden Sie die beiden mitgelieferten Bilder ausschließlich als Charakterreferenzen, nicht als Startframes. Der Mann, Alex, ist ein selbstbewusster, erfolgreicher Finanzmanager aus Manhattan. Behalten Sie sein exaktes Gesicht, den dunklen Maßanzug, die Krawatte und die Frisur bei. Die Frau, Allisa, ist der zweite Charakter; bewahren Sie ihre genaue Identität, Frisur und das elegante, figurbetonte Outfit.
-
-Visuelle Kontinuität: Warme, leicht vintage wirkende Editorial-Fotografie mit bernsteinfarbenen Highlights, gedämpftem Kontrast, dezenter Filmkörnung und realistischer Hauttextur. Durchgehend einheitliche Farbgebung in jeder Szene. Kein künstliches Leuchten oder plastikartige Haut.
-
-Umgebungsgenauigkeit: Alle sichtbaren Schilder, Speisekarten, Namen und Straßentexte müssen korrekt geschrieben und lesbar sein. Keine Fantasiezeichen.
-
-Szene 1 — Morgenkaffee (0–4s)
-
-Im Inneren eines gehobenen Cafés in Midtown Manhattan mit polierten Steintheken, stilvollem Interieur und geschäftigen Berufstätigen. Alex tritt gefasst und selbstbewusst an die Theke. Auf der Theke sind keine Kaffeetassen zu sehen.
-
-Die Kamera befindet sich hinter Alex und blickt in Richtung Theke. Eine wunderschöne Barista Anfang zwanzig, mit markanten Model-Zügen und einer natürlich charismatischen Ausstrahlung, dreht sich leicht zum Bereich der Kaffeezubereitung außerhalb des Bildes.
-
-Alex, beiläufig: „Double Espresso, bitte. Mein Name ist Alex."
-
-Barista, freundlich: „Kommt sofort."
-
-Zeigen Sie exakt „Midtown Manhattan, New York" im unteren Drittel an, horizontal zentriert am unteren Bildrand, Poppins Semi-Bold 600, Weiß (#FFFFFF), auf einem abgerundeten anthrazit-schiefergrauen (#17212B) Hintergrund mit 60 % Deckkraft. Keine zusätzlichen Zeichen.
-
-Szene 2 — Die Barista (4–7s)
-
-Kamera hinter Alex positioniert, jedoch aus einer anderen Perspektive als in Szene 1, mit Blick auf die Theke.
-
-Barista, ruft deutlich: „Double Espresso für Alex!"
-
-Alex bleibt in sein Handy vertieft. In dieser Einstellung sind keine Kaffeetassen zu sehen.
-
-Szene 3 — Der falsche Becher (7–11s)
-
-Zwei Takeaway-Kaffees werden von einem unsichtbaren Mitarbeiter nebeneinander auf die Abholtheke gestellt. Ein Becher ist deutlich mit ALEX beschriftet, der andere mit ALYSSA.
-
-Während er noch immer auf sein Handy schaut, greift Alex mit der freien Hand und nimmt versehentlich nur den Becher mit der Aufschrift ALYSSA. Er geht damit davon, ohne den Fehler zu bemerken. Sein eigentlicher Kaffee mit der Aufschrift ALEX bleibt auf der Theke stehen.
-
-Szene 4 — Der Bürgersteig (11–14s)
-
-Draußen geht Alex zügig einen belebten Bürgersteig in Midtown Manhattan entlang. In der einen Hand hält er ALYSSAs Kaffee, während er mit der anderen weiterhin auf sein Handy schaut.
-
-Hinter ihm verlässt ALYSSA dasselbe Café, aus dem Alex gerade gekommen ist, hält seinen Kaffee in der Hand und entdeckt ihn vor sich.
-
-Szene 5 — Die Begegnung (14–19s)
-
-ALYSSA holt Alex auf dem Bürgersteig ein.
-
-ALYSSA, leicht amüsiert: „Ich glaube, du hast meinen Kaffee genommen."
-
-Alex blickt von seinem Handy auf, bleibt stehen und schaut auf den Becher.
-
-Alex, blickt auf seinen Becher und dann auf ALYSSA, mit einem entschuldigenden Lächeln: „Oh, da hast du recht. Tut mir leid."
-
-Sie tauschen ganz natürlich die Becher. Alex steckt sein Handy weg.
-
-Szene 6 — Gleiche Richtung (19–24s)
-
-Alex deutet den Bürgersteig hinunter.
-
-Alex, beiläufig: „In welche Richtung musst du?"
-
-ALYSSA, zeigt nach vorn: „Anscheinend dieselbe wie du."
-
-Alex, lächelnd: „Na, das trifft sich ja gut."
-
-Beide lachen gemeinsam und gehen los, entspannt miteinander plaudernd. Eine feste Kamera fängt ein, wie sie sich den Bürgersteig hinunter entfernen, bis sie das Bild verlassen.
-
-Szene 7 — Eine unerwartete Verbindung (24–30s)
-
-Harter Schnitt zu einer festen Kameraposition weiter unten im selben Block in Midtown. Alex und ALYSSA gehen Seite an Seite, die Kaffees in der Hand, und führen ein lebhaftes Gespräch.
-
-Allisa, spielerisch: „Und, gehört das zu deiner üblichen Morgenroutine?"
-
-Alex, amüsiert: „Normalerweise nicht so interessant."
-
-Allisa lacht natürlich und lacht zu Ende, ohne unterbrochen zu werden. Sie gehen weiter und unterhalten sich dabei, wobei sie sich zur rechten Bildseite bewegen.
-
-Beide Figuren verlassen das Bild vollständig nach rechts. Halten Sie den leeren Bürgersteig für die letzten 0,5 Sekunden, bevor das Video endet.
-
-Regieanweisungen: Natürliche, gesprächsnahe Dialoge, präzises Lip-Sync, subtile emotionale Mimik und realistische physische Interaktionen. Alex hält in den Szenen 2–4 durchgehend sein Handy in einer Hand und nimmt mit der freien Hand nur Allisas Kaffee. Der ALEX-Becher bleibt zurück, bis Allisa ihn holt. Behalten Sie die genaue Zuordnung der Becher und die Kontinuität bei. Abwechslungsreiche cineastische Kamerafahrten und Nahaufnahmen, mit festen Kamerapositionen für die Gehsequenzen am Ende. Saubere, unmittelbare harte Schnitte. Lassen Sie Dialoge, Reaktionen und Lachen natürlich ausklingen. Keine Zeitlupe, kein Morphing, keine Untertitel und keine Musik.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112876062648483840/img/gL4XyT3GY4OLJFzR.jpg" width="600" alt="Falscher Kaffee, Manhattan-Romantik">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12876)**
-
-**Autor:** [Promethean](https://x.com/PrometheanAIX) | **Quelle:** [Link](https://x.com/PrometheanAIX/status/2112876623032689023) | **Veröffentlicht:** Oct 21, 2026
-
----
-### Oma-Leopard-Gangster-Komödie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer Prompt für ein komisches Video mit einer Oma, einem Leoparden und einem Gangster, der Miete fordert, inklusive strenger Identitätsbindung und Requisitenreferenzen.
-
-#### 📝 Prompt
-
-```
-REFERENZEN: Oma = 95–100 Jahre alte, winzige, gebeugte koreanische Großmutter (exaktes Gesicht, weißer Dutt mit Holzstab, gesteppter indigoblauer Jeogori, grauer Strickschal, pflaumenfarbener Rock, Gomusin-Schuhe). Schläger = sehr dicker, schmieriger Gangster (exaktes Gesicht mit Narbe an der Augenbraue, offene, glänzende schwarze Daunenjacke, rot-schwarzes geblümtes Seidenhemd, Goldkette, Goldring, schwarze Jogginghose, schmutzige weiße Sneaker). Leopard = ausgewachsener, riesiger Schneeleopard (exakt rauchgraues bis weißes Fell, schwarze Rosetten, blasse eisblaue Augen, langer, dicker, geringelter Schwanz). Hütte = verschneite, strohgedeckte Berg-Teestube auf einer Hügelkuppe mit einem kleinen verschneiten Hof, einem Fußweg, der sich den Hang hinab in Richtung Kamera schlängelt, und weiten, nebelverhangenen Schneebergen rechts. Alle Identitäten, Outfits, Merkmale und Sets müssen durchgehend exakt den Referenzen entsprechen. Nur diese drei Wesen existieren in der Szene.
-
-REQUISITEN-LOCKS: REQUISITE-STOCK = knorriger, dunkelbrauner Holzgehstock, immer in Omas rechter Hand; sie stützt sich jeden Moment darauf. REQUISITE-SCHALE = kleine, runde braune Steingutschale mit rohen Stücken roten Fleisches, immer in Omas linker Hand, wird nie fallen gelassen, verändert sich nie.
-
-INSZENIERUNGS-LOCK: Oma steht die gesamte Szene über im verschneiten Hof direkt vor dem Eingang der Hütte, dem Fußweg/der Kamera zugewandt; sie geht niemals weg. Der Schläger kommt den Fußweg HERAUF und bleibt 2 Meter vor ihr stehen, mit dem RÜCKEN zum Fußweg und zum Hang. Der Leopard kommt später denselben Fußweg vom Hang hinter dem Schläger herauf. Durchgehend fällt sanft Schnee.
-
-LOOK: bedecktes Winterlicht, kühler bläulich-weißer Schnee, warmes bernsteinfarbenes Leuchten aus der Hüttentür, geringe Sättigung, niedriger bis mittlerer Kontrast, filmisches Korn, weiche Halation. Umgebender Wind, knirschender Schnee.
-
-TEMPO: natürliches, gemächliches koreanisches Sprechtempo, kurze Pausen zwischen den Zeilen; niemals gehetzt.
-
-0–6s: Eröffnende FPV-Drohnen-Luftaufnahme: hoch über weiten, nebelverhangenen Schneebergketten, gleitet sanft über bereifte Kiefernkämme und ziehende Wolken, stürzt dann elegant den Hang hinab auf die winzige, schneebedeckte Hütte auf der Hügelkuppe zu, verlangsamt und fährt in eine Halbnahe von Oma heran, die im Hof steht, sich auf REQUISITE-STOCK stützt und REQUISITE-SCHALE hält.
-
-6–11s: Oma blickt sich über die Hügel um und ruft liebevoll und fürsorglich, als würde sie ihren eigenen Sohn rufen:
-Oma (singsangartig, zärtlich): 「우리 아가~ 밥 먹자… 어디 갔니, 우리 아들~」
-Sie ruft noch einmal, späht zu den Kämmen und lächelt.
-
-11–17s: Schweres Knirschen von Schritten. Der Schläger stapft keuchend den Fußweg hinauf, das Kinn erhoben, und bleibt vor ihr stehen.
-Schläger (rau, skrupellos): 「할매, 이번 달 자릿세. 빨리 내놔.」
-Oma sieht ihn ruhig an und lässt ein kleines, verschmitztes Lächeln aufblitzen.
-Oma (bescheiden, sanft): 「잠깐만… 우리 고양이 밥 좀 주고. 그다음에 줄게.」
-
-17–22s: Der Schläger schnaubt überheblich und hält Daumen und Zeigefinger dicht zusammen vor sein Gesicht, um etwas Winziges zu verspotten.
-Schläger (wütend, sarkastisch): 「그 쪼끄만 망할 고양이 기다릴 시간 없어!」
-Omas Blick wandert an seiner Schulter vorbei zum Hang; ein fröhliches, zufriedenes Lächeln breitet sich aus.
-Oma (warmherzig): 「아이고… 저기 오네.」
-
-22–30s: Der Schläger dreht sich genau in dem Moment um, als der riesige Schneeleopard vom Hang hinter ihm nach vorn springt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112833908299677696/img/2Q5Xexo0_Ulc2Edk.jpg" width="600" alt="Oma-Leopard-Gangster-Komödie">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12875)**
-
-**Autor:** [Syed Abuthahir ∞](https://x.com/abulu8) | **Quelle:** [Link](https://x.com/abulu8/status/2112834308117324151) | **Veröffentlicht:** Oct 21, 2026
-
----
-### Schlafende Wächterin – Slapstick-Komödie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für eine cineastische Slapstick-Komödienszene, in der eine schlafende Wächterin versehentlich Diebe besiegt, wobei die Konsistenz mit einem Referenzbild erforderlich ist.
-
-#### 📝 Prompt
-
-```
-Erstelle eine filmreife, ultrarealistische Slapstick-Comedy-Szene. Gesicht und Outfit der Nachtwächterin müssen durchgehend dem Referenzbild entsprechen.
-
-Einstellung 1 (0–3 s): Am Eingang eines Lagerhauses schläft eine Nachtwächterin tief und fest auf einem Stuhl. Die Füße hochgelegt auf einer Kiste, schnarcht sie vor sich hin, während eine halb gegessene Tüte Chips auf ihrem Schoß liegt. Fünf Diebe schleichen herein und grinsen sie hämisch an.
-
-Einstellung 2 (3–8 s): Die Diebe versuchen, an ihr vorbeizukommen, doch ihre unbewussten Bewegungen strecken einen mühelos mit dem ausgestreckten Arm nieder, bringen einen zweiten zu Fall, sodass er in die Kisten stürzt, und lassen einen dritten krachend gegen ein Regal prallen. Sie isst seelenruhig weiter Chips und murmelt verschlafen: „Zu langsam …“
-
-Einstellung 3 (8–13 s): Die verbliebenen Diebe kauern nervös zusammen, bevor der Anführer auf sie losstürmt. Ohne die Augen zu öffnen, rammt sie ihm den Ellbogen in den Magen und nuschelt: „Noch fünf Minuten.“ Er bricht neben den anderen zusammen.
-
-Einstellung 4 (13–18 s): Der letzte Dieb versucht zu fliehen, doch ihr ausgestrecktes Bein bringt ihn zu Fall – direkt in einen Stapel Kartons. Alle fünf Diebe liegen verstreut im Lagerhaus, während sie ihre Chips aufisst, die leere Tüte mit einem perfekten Wurf im Mülleimer versenkt und einen der Diebe als Fußstütze benutzt.
-
-Einstellung 5 (18–23 s): Polizeisirenen nähern sich. Sie öffnet kurz ein Auge, mustert die erledigten Diebe mit völlig ausdruckslosem Gesicht, murmelt „Hab ich’s doch gesagt“ und schläft sofort wieder ein. Während sie weiterschnarcht, fließt auch der Speichel wieder.
-
-Einstellung 6 (23–30 s): Die Polizei stürmt herein, findet die ausgeschalteten Diebe vor und starrt ungläubig auf die schlafende Wächterin. Ein Beamter versucht, sie zu wecken, doch sie wischt seine Hand nur faul zur Seite. Die abschließende Nahaufnahme zeigt, wie mysteriöserweise eine frische Tüte Chips auf ihrem Schoß ruht, während sie friedlich im Schlaf lächelt.
-
-Stil: Rasanter Slapstick-Humor, übertriebene, aber harmlose körperliche Gags, ausdrucksstarke Reaktionen, durchgehend einheitliches Erscheinungsbild der Figur, fließende Übergänge zwischen den Einstellungen, filmreife Beleuchtung des Lagerhauses, perfektes Comedy-Timing und ein rundum gelungener Pointen-Moment.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112768240086859776/img/CEpXhdWMSiaYywaS.jpg" width="600" alt="Schlafende Wächterin – Slapstick-Komödie">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12874)**
-
-**Autor:** [WasifAI](https://x.com/doctorwasif) | **Quelle:** [Link](https://x.com/doctorwasif/status/2112768312488902962) | **Veröffentlicht:** Oct 21, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -8303,6 +9294,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-11T22:46:16.608Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-12T06:17:25.982Z</sub>
 
 </div>

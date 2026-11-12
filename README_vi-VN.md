@@ -68,9 +68,9 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6675** |
+| 📝 Tổng số prompt | **6678** |
 | ⭐ Prompt nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **2026-11-11** |
+| 🔄 Cập nhật lần cuối | **2026-11-12** |
 
 ---
 
@@ -361,6 +361,1172 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Hài Kịch Mua Sắm Trực Tuyến Tại Nhà
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Mô tả chi tiết để tạo video hài kịch điện ảnh dài 15 giây bằng Seedance 2.0 Mini, với cảnh hai phụ nữ trang trí căn hộ thuê bằng các món đồ mua sắm trực tuyến.
+
+#### 📝 Prompt
+
+```
+Gọi Seedance 2.0 Mini để tạo một đoạn phim live-action điện ảnh dài đúng 15 giây, tỷ lệ 16:9 ngang, thể loại hài đời thường Trung Quốc hiện đại với đồng bộ âm thanh - hình ảnh tiếng Quan Thoại bản địa.
+
+Lượt này lấy cảm hứng từ trào lưu "Mua sắm cả căn nhà trên mạng" đang hot gần đây.
+
+Cốt lõi của trào lưu này là: người trẻ dần biến không gian sống trống trơn ban đầu thành nơi mình yêu thích bằng cách mua nội thất, đèn, đồ gia dụng và vật dụng sinh hoạt hàng ngày qua mạng.
+
+Bộ phim chọn một góc nhìn rất dễ đồng cảm:
+
+Dù nhà là đi thuê, vẫn muốn sống thật tử tế ở hiện tại.
+
+Câu chuyện truyền tải cảm xúc này qua những mẩu đối thoại đời thường giữa hai người bạn, dùng một chi tiết sơ suất nhỏ trong sinh hoạt để tạo cú lật hài hước.
+
+Phim mang phong cách hài hiện thực đương đại, không cố gồng theo lối cổ trang, không có những câu nói truyền cảm hứng sáo rỗng.
+
+Hình ảnh mang chất lượng phim nhựa ARRI Alexa 35, làn da phụ nữ Đông Á chân thực, đường nét tự nhiên rõ ràng, ánh sáng tinh tế, nhiễu hạt phim nhẹ, toát lên không khí tổ ấm đời thực.
+
+[Cách Thể Hiện Và Câu Chuyện Trọn Vẹn Của Lượt Này]
+
+Hai cô bạn thân gặp nhau.
+
+Người đóng vai chị đến căn nhà mới thuê của cô em, thấy la liệt thùng hàng và đống nội thất chưa lắp xong.
+
+Cô em hào hứng tuyên bố mình đang "mua sắm cả căn nhà trên mạng".
+
+Bà chị không hiểu lắm.
+
+Nhà thuê mà bày vẽ làm gì cho cực?
+
+Câu hỏi ngược lại rất tự nhiên của cô em khiến bà chị chợt hiểu ra vấn đề.
+
+Đúng lúc không khí đang ấm dần lên, bà chị rủ tối nay ăn cơm ở đây luôn.
+
+Cô em bỗng chột dạ.
+
+Vì mua bao nhiêu là đồ trang trí, nhưng cái nồi thì... chưa được giao.
+
+Nửa đầu thiết lập sự khác biệt về quan điểm, phần giữa tạo cộng hưởng cảm xúc, nửa sau chốt hạ bằng tiếng cười thông qua một chi tiết sinh hoạt cụ thể.
+
+Cuối cùng tạo nên một tiểu phẩm hài tự nhiên, vừa ấm áp vừa biết tự trào.
+
+[Nhân Vật Và Mối Quan Hệ]
+
+Nhân vật A: @Image1, Cô bạn vai chị
+
+Giữ nguyên tuyệt đối đặc điểm khuôn mặt độc lập từ Image 1 trước đó.
+
+Phụ nữ Đông Á trưởng thành 25-30 tuổi, dáng cao ráo mảnh mai, gương mặt trái xoan tự nhiên thanh tú, mắt hạnh màu tối, kết cấu da chân thực, tóc đen dài búi nửa đầu.
+
+Mặc áo sơ mi trắng ngà thoải mái, quần âu xám đậm, giày sneaker trắng.
+
+Tính cách thực tế, hay để ý, nói chuyện thẳng thắn.
+
+Không hề coi thường việc ở nhà thuê, chỉ lo lắng dưới góc độ thực dụng rằng sẽ tốn quá nhiều tiền bạc và công sức.
+
+Nhân vật B: @Image2, Cô bạn vai em
+
+Giữ nguyên tuyệt đối đặc điểm khuôn mặt độc lập từ Image 2 trước đó.
+
+Phụ nữ Đông Á trưởng thành 20-25 tuổi, gương mặt tròn trịa tươi tắn tự nhiên, mắt sáng, tóc đen dài tết bím, vóc dáng nhỏ nhắn, kết cấu da chân thực.
+
+Mặc áo len dệt kim xanh ngọc, quần vải kaki be, giày sneaker trắng.
+
+Tính cách sôi nổi, thích tự tay trang hoàng không gian sống.
+
+Biết rõ nhà là đi thuê nhưng vẫn mong được sống thoải mái ngay lúc này.
+
+Họ là bạn thân có thể trêu chọc nhau thoải mái, hoàn toàn không có ác ý.
+
+[Bối Cảnh Hiện Tại Và Quan Hệ Không Gian]
+
+Ưu tiên sử dụng các ảnh tham chiếu bối cảnh và vị trí thực tế đã tải lên cho lượt này, khóa chặt nhận diện địa điểm, quan hệ kiến trúc, tỷ lệ không gian, vật liệu chính, hướng sáng và tính liên tục của môi trường.
+
+Nếu không có ảnh tham chiếu bối cảnh mới, hãy tạo một căn hộ cho thuê hiện đại chân thực ở đô thị Trung Quốc.
+
+Không gian nội thất phân định rõ ràng:
+
+Cửa ra vào nằm bên trái.
+
+Khu vực phòng khách nhỏ ở giữa.
+
+Sáu bảy thùng carton vừa giao tới xếp dựa tường.
+
+Vài thùng đã được mở.
+
+Một chiếc bàn gỗ cạnh chưa lắp xong đặt trên sàn.
+
+Một chiếc đèn nhỏ đang được tháo dỡ ngay cạnh bàn.
+
+Phía sau nhìn thấy lối vào khu bếp đơn giản.
+
+Tổng thể không gian giữ được nét chân thực và có hơi hướng sinh hoạt, không chất đống như nhà kho.
+
+Ánh sáng tự nhiên trong nhà hòa quyện cùng nắng từ ngoài hắt vào, rèm cửa lay động nhẹ, văng vẳng tiếng ồn nền của đô thị phía xa.
+
+Mọi chuyển động môi trường đều trung tính về mặt kể chuyện.
+
+[0-5s: Mở Đầu Bằng Meme Hài Hiện Đại]
+
+Cảnh 1: Toàn cảnh trong nhà, hướng về phía cửa ra vào.
+
+Máy quay đặt từ bên trong căn hộ cho thuê.
+
+Cửa mở.
+
+Nhân vật bà chị @Image1 bước vào từ bên ngoài.
+
+Cô bước tới tự nhiên, chợt thấy vô số thùng hàng và nội thất chưa lắp xong trong phòng khách.
+
+Bất giác dừng bước.
+
+Máy quay bắt trọn vẻ ngạc nhiên của cô cùng đống thùng hàng phía sau.
+
+Cô em @Image2 đang ngồi bệt dưới đất, hí hửng tháo hộp chiếc đèn nhỏ mới mua.
+
+Bà chị nhìn cô em, ngạc nhiên hỏi:
+
+Chị: "Em mua nhiều thế à?"
+
+Cô em ngẩng lên, đắc ý:
+
+Em: "Đang mua sắm cả căn nhà trên mạng!"
+
+Bà chị lại đưa mắt nhìn quanh phòng.
+
+Ánh mắt lộ rõ sự bất ngờ xen lẫn khó hiểu.
+
+Dùng trực tiếp meme gốc làm câu dẫn mở màn.
+
+Giúp khán giả hiểu ngay cô ấy đang trang hoàng nhà cửa qua mua sắm online.
+
+[5-10s: Hành Động Nhân Vật Và Diễn Xuất Chính Thức]
+
+Cảnh 2: Trung cảnh tĩnh, dàn cảnh mối quan hệ hai nhân vật.
+
+Giữ nguyên căn hộ, vị trí và ánh sáng.
+
+Bà chị tiến lại gần đống thùng hàng, tiện tay nhấc lên một gói nhỏ.
+
+Nhìn chiếc bàn cạnh chưa lắp xong, rồi nhìn sang cô em.
+
+Hỏi bằng giọng cực kỳ tự nhiên giữa những người quen thân:
+
+Chị: "Nhà thuê thôi, có đáng không?"
+
+Cô em đang dở tay tháo hộp đèn.
+
+Nghe vậy, khựng lại một nhịp.
+
+Ngước nhìn bà chị, giọng điệu chẳng hề tức giận hay tủi thân.
+
+Trả lời thẳng thắn:
+
+Em: "Chẳng lẽ phải đợi mua được nhà mới sống đàng hoàng sao?"
+
+Giữ một khoảng lặng ngắn nhưng tự nhiên.
+
+Bà chị không cãi thêm.
+
+Nhìn những món đồ do chính tay cô em chọn lựa.
+
+Sự nghi ngại ban đầu dần chuyển thành thấu hiểu.
+
+Nhẹ nhàng đặt gói hàng xuống, bắt đầu sẵn lòng giúp đỡ.
+
+Không nhạc煽情.
+
+Không giải thích dài dòng.
+
+Thể hiện sự thay đổi thái độ qua ánh mắt và hành động đặt gói hàng xuống.
+
+[10-15s: Điểm Nhấn, Cú Lật Và Hồi Phục Cảm Xúc]
+
+Cảnh 3: Cận cảnh hai nhân vật, giữ lối vào bếp ở hậu cảnh.
+
+Bà chị đã chấp nhận suy nghĩ của cô em.
+
+Mỉm cười tự nhiên, buông lời rủ rê:
+
+Chị: "Thôi được, tối nay ăn cơm ở chỗ em nhé?"
+
+Cô em vẫn đang hào hứng cầm chiếc đèn nhỏ vừa tháo hộp.
+
+Nghe vậy, bỗng đơ người.
+
+Ánh mắt thoáng chốc lộ vẻ chột dạ.
+
+Nhìn bà chị, rồi liếc ra khu bếp phía sau.
+
+Sau đó ngượng nghịu đáp:
+
+Em: "Cái nồi chưa được giao."
+
+Câu thoại này phải thật tự nhiên.
+
+Không tạo điểm nhấn hài bằng những hành động cường điệu.
+
+Máy quay giữ tĩnh một nhịp.
+
+Bà chị từ từ nhìn về phía căn bếp trống hoác.
+
+Rồi nhìn sang đống nội thất và đồ trang trí xung quanh.
+
+Hoàn toàn cạn lời.
+
+Cô em nén cười, lộ vẻ hơi ngượng ngùng.
+
+Bà chị không mắng mỏ, lặng lẽ rút điện thoại ra đặt đồ ăn ngoài.
+
+Cô em đặt chiếc đèn nhỏ sang bên, không nhịn được cười.
+
+Bà chị cũng bị cô em làm cho buồn cười.
+
+Màn hình kết thúc.
+
+Đoạn kết tạo sự tương phản nhẹ nhàng trong đời sống qua chi tiết "mua cả đống đồ trang trí nội thất mà quên mất cái nồi nấu cơm".
+
+Không thêm bất kỳ câu thoại nào nữa.
+
+[Diễn Xuất Và Thoại Tiếng Quan Thoại]
+
+Toàn bộ phim chỉ dùng đúng sáu câu thoại tiếng Quan Thoại tự nhiên:
+
+Chị: "Em mua nhiều thế à?"
+
+Em: "Đang mua sắm cả căn nhà trên mạng!"
+
+Chị: "Nhà thuê thôi, có đáng không?"
+
+Em: "Chẳng lẽ phải đợi mua được nhà mới sống đàng hoàng sao?"
+
+Chị: "Thôi được, tối nay ăn cơm ở chỗ em nhé?"
+
+Em: "Cái nồi chưa được giao."
+
+Tốc độ nói tự nhiên, chia đều vào ba khoảng thời gian, không thêm câu thoại giải thích thừa thãi.
+
+Phần đầu: bà chị ngạc nhiên, cô em đắc ý.
+
+Phần giữa: bà chị thắc mắc, cô em bình thản bày tỏ quan điểm.
+
+Phần cuối: bà chị thấu hiểu, cô em chợt chột dạ, cả hai khép lại bằng nụ cười tự nhiên.
+
+Không diễn nhân vật theo kiểu ngọt ngào quá lố như phim ngắn mạng.
+
+[Máy Quay Và Dựng Phim]
+
+Toàn phim chỉ dùng ba cảnh quay với chức năng rõ ràng.
+
+0-5s dùng toàn cảnh để thể hiện mối quan hệ giữa hàng giao tới và không gian nhà thuê.
+
+5-10s dùng trung cảnh đôi để đặt sự khác biệt quan điểm làm trung tâm.
+
+10-15s dùng cận cảnh đôi để tạo sự tương phản thị giác trọn vẹn với chiếc đèn, biểu cảm và khu bếp.
+
+Chuyển động máy quay tiết chế, có thể đẩy máy nhẹ và lia máy tự nhiên.
+
+Giữ trục quay ổn định và quan hệ trái - phải giữa các nhân vật.
+
+Đoạn kết không đột ngột chuyển bối cảnh hay chèn thêm cảnh tưởng tượng nào.
+
+[Thiết Kế Âm Thanh]
+
+Thoại tiếng Quan Thoại đồng bộ bản địa.
+
+Mọi âm thanh phải khớp với đúng nhân vật, khẩu hình chuẩn xác.
+
+Âm thanh môi trường tự nhiên bao gồm:
+
+Tiếng mở/đóng cửa.
+
+Tiếng ma sát nhẹ của bìa carton và bao bì.
+
+Tiếng bước chân.
+
+Tiếng chạm vào vỏ hộp đèn.
+
+Tiếng sột soạt của quần áo.
+
+Tiếng ồn nền trong nhà.
+
+Cuối cùng, không dùng tiếng cười thu sẵn.
+
+Chỉ cần một tiếng cười nhẹ tự nhiên giữa hai chị em.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120740975878569984/img/idzktqO2eZUN37x7.jpg" width="600" alt="Hài Kịch Mua Sắm Trực Tuyến Tại Nhà">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13744)**
+
+**Tác giả:** [𝕊𝖔ʳᵃɴ](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2120744354654691798) | **Đã xuất bản:** Nov 12, 2026
+
+---
+### Cảnh Chuông Chiến Thắng Im Lặng
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt cho cảnh phim tiên hiệp điện ảnh dài 15 giây sử dụng Seedance 2.0 Mini, trong đó tiếng chuông chiến thắng bị im lặng để bảo vệ những người sống sót đang ngủ.
+
+#### 📝 Prompt
+
+```
+[Prompt tiếng Trung tương ứng hoàn chỉnh]
+
+[Phong cách tổng thể và cốt truyện cốt lõi]
+
+Tác phẩm: "Tiếng chuông này, chúng ta nợ lại nhé"
+
+Video live-action 15 giây chất lượng điện ảnh, thể loại Tiên hiệp Trung Quốc có cú twist (bước ngoặt) kịch tính.
+
+Màn hình ngang 16:9, Seedance 2.0 Mini, đồng bộ âm thanh - hình ảnh giọng bản ngữ tiếng Quan Thoại (Mandarin).
+
+Sử dụng chất liệu hình ảnh điện ảnh của máy quay Arri Alexa 35, diễn viên người thật trưởng thành gốc Đông Á, kết cấu da tự nhiên, chất liệu lụa tinh xảo, vật thể kim loại chân thực, ánh sáng khối tự nhiên và không gian điện ảnh có độ sâu trường ảnh.
+
+Cảm xúc tổng thể mang tính tiết chế: trước tiên thiết lập một buổi lễ chiến thắng trang nghiêm, sau đó thông qua một hành động vô cùng nhỏ bé, giúp khán giả nhận ra đâu mới là thành quả quan trọng nhất của chiến thắng này.
+
+Tiền đề câu chuyện
+
+Sau mười năm chinh chiến, tông môn cuối cùng cũng giành được chiến thắng quyết định.
+
+Sư phụ trao chiếc dùi chuông tượng trưng cho khải hoàn cho Kiếm Tiên Đại Sư Tỷ.
+
+Đại Sư Tỷ chuẩn bị gióng lên chiếc chuông đồng chiến thắng khổng lồ, báo tin vui đến mọi người.
+
+Ngay khi dùi chuông sắp chạm xuống, Tiểu Sư Muội bỗng lao tới ngăn lại.
+
+Trong mắt đám đông, đây là một hành động khó hiểu.
+
+Mười năm khổ chiến, cuối cùng cũng đợi được ngày trở về.
+
+Cớ sao ngay cả một hồi chuông cũng không cho đánh?
+
+Câu trả lời thực sự nằm ở phía sau chiếc chuông chiến thắng.
+
+Những người bị thương và lũ trẻ sống sót sau cuộc chiến cuối cùng cũng đã chìm vào giấc ngủ.
+
+Họ đã trải qua những ngày tháng chạy trốn, kinh hoàng và tàn sát.
+
+Họ đã nghe quá nhiều tiếng chuông báo động, tiếng trống trận và tiếng kêu cứu.
+
+Lúc này, điều quý giá nhất chính là được yên tĩnh ngủ một giấc.
+
+Tiểu Sư Muội không hề phủ nhận chiến thắng.
+
+Cô chỉ nhận ra sớm hơn bất kỳ ai khác rằng chiến thắng này thực chất đang bảo vệ điều gì.
+
+Sau khi hiểu ra, Đại Sư Tỷ chọn cách hạ dùi chuông xuống.
+
+Cuối cùng, dùng một dải lụa đỏ tĩnh lặng thay thế cho hồi chuông khải hoàn vốn sẽ vang dội chói tai.
+
+Cú twist cốt lõi: Từ câu hỏi "Tại sao cô ấy lại cản buổi ăn mừng?" chuyển thành "Thực ra, cô ấy đang bảo vệ chính ý nghĩa của chiến thắng."
+
+Không có phản diện xuất hiện đột ngột.
+
+Không hé lộ thân phận, giả chết, âm mưu tông môn hay phép thuật thần kỳ.
+
+Hãy để lựa chọn của nhân vật tạo nên sức nặng cho câu chuyện.
+
+[Nhân vật và các mối quan hệ]
+
+Nhân vật A: @Image1, Kiếm Tiên Đại Sư Tỷ
+
+Tuân thủ nghiêm ngặt hình mẫu nhân vật đã được xác nhận trước đó.
+
+Nữ giới trưởng thành gốc Đông Á, 25–30 tuổi.
+
+Khuôn mặt trái xoan trắng trẻo, mềm mại tự nhiên, mắt hạnh đen láy, tóc đen dài buộc nửa đầu, cài trâm ngọc trắng, dáng người cao ráo mảnh mai.
+
+Luôn mặc cùng một bộ Hán phục lụa thêu màu trắng, tay áo rộng xếp lớp bán trong suốt, đai lưng bạc, ngọc bội và giày vải trắng.
+
+Chỉ đeo duy nhất một thanh trường kiếm bằng bạc.
+
+Tuyệt đối không rút kiếm trong toàn bộ video này.
+
+Cô là người dẫn dắt tông môn vượt qua cuộc chiến trường kỳ và cuối cùng đón nhận chiến thắng来之不易.
+
+Do đó, khao khát được gióng lên hồi chuông chiến thắng của cô là hoàn toàn chân thực.
+
+Đại Sư Tỷ không hề vô cảm trước nỗi đau chiến tranh.
+
+Chỉ là ngay khoảnh khắc này, tâm trí cô đang dồn hết vào chiến thắng vừa đạt được.
+
+Khi bị Tiểu Sư Muội ngăn lại, ban đầu cô tỏ ra ngạc nhiên.
+
+Sau đó, thông qua việc trực tiếp quan sát, cô chủ động thay đổi quyết định của mình.
+
+Diễn biến trạng thái nhân vật:
+
+Nhẹ nhõm khi mười năm chờ đợi cuối cùng cũng kết thúc;
+
+Bối rối khi bị ngăn lại;
+
+Phát hiện ra chi tiết mà mình đã bỏ lỡ;
+
+Chủ động từ bỏ việc gióng chuông;
+
+Hoàn tất buổi lễ ăn mừng theo một cách khác.
+
+Nhân vật B: @Image2, Tiểu Sư Muội
+
+Tuân thủ nghiêm ngặt hình mẫu nhân vật đã được xác nhận trước đó.
+
+Nữ giới trưởng thành gốc Đông Á, 20–25 tuổi.
+
+Khuôn mặt tròn sáng sủa, tóc đen tết bím, dáng người nhỏ nhắn.
+
+Luôn mặc Hán phục vải lanh màu xanh lục, đai lưng tối màu, trâm gỗ và giày vải đen.
+
+Chỉ đeo duy nhất một thanh kiếm thép tối màu.
+
+Tuyệt đối không rút kiếm trong toàn bộ video này.
+
+Trước thời điểm này, Tiểu Sư Muội luôn túc trực chăm sóc những người bị thương.
+
+Cô đã chứng kiến họ thức trắng đêm, giật mình tỉnh giấc vì dư âm chiến tranh.
+
+Cô biết tiếng chuông sẽ lại đánh thức họ.
+
+Vì vậy, cô phải ngăn Đại Sư Tỷ lại trước khi hồi chuông vang lên.
+
+Cô không hề chuẩn bị sẵn bài diễn thuyết nào để thuyết phục Đại Sư Tỷ.
+
+Cô chỉ nhẹ nhàng nắm lấy cổ tay sư tỷ.
+
+Rồi để sư tỷ tự nhìn, tự lắng nghe.
+
+Cô tin rằng Đại Sư Tỷ rồi sẽ hiểu.
+
+Các nhân vật phụ mới
+
+Sư phụ (Trưởng lão):
+
+Nam giới trưởng thành gốc Đông Á, mặc cổ bào màu xanh lam đậm.
+
+Với tư cách là trưởng lão của tông môn, ông đích thân trao dùi chuông khải hoàn cho Đại Sư Tỷ.
+
+Ông cũng rất mong chờ buổi lễ chiến thắng, nên vô cùng sửng sốt khi Tiểu Sư Muội đột ngột ngăn lại.
+
+Sau đó, khi nhìn thấy những người bị thương và lũ trẻ đang nghỉ ngơi, ông chủ động chấp nhận quyết định không gióng chuông.
+
+Tuyệt đối không để Sư phụ đột ngột biến thành một kẻ bạo ngược, độc ác.
+
+Hai đệ tử tông môn:
+
+Vừa trở về từ chiến trường, khuôn mặt mệt mỏi nhưng ánh lên niềm vui chiến thắng chân thực.
+
+Đứng ở phía xa.
+
+Có vai trò tạo bối cảnh đám đông, không được chiếm sóng (che mất nhân vật chính).
+
+Những người bị thương và trẻ em đang nghỉ ngơi:
+
+Vài thường dân kiệt sức và hai đứa trẻ.
+
+Có thể băng bó đơn giản, nằm trên chiếu thấp, đắp chăn vải thô.
+
+Không xuất hiện vết thương đẫm máu.
+
+Họ phải ngủ một cách tự nhiên như những người thực sự đã kiệt sức.
+
+Một đứa trẻ khẽ nắm chặt chiếc khăn tay gấp nhỏ, tựa đầu vào vai một người phụ nữ lớn tuổi hơn.
+
+Cảnh quay không cần quá nhiều diễn viên quần chúng.
+
+[Bối cảnh hiện tại và quan hệ không gian]
+
+Toàn bộ phông nền và hình ảnh tham khảo địa điểm được tải lên trong lượt này chính là thế giới vật lý thực sự tồn tại trong video.
+
+Không được coi chúng chỉ là nguồn cảm hứng thị giác đơn thuần.
+
+Trước tiên, hãy thiết lập một môi trường thống nhất dựa trên các hình ảnh tham khảo:
+
+Địa hình thực tế;
+
+Quan hệ không gian của các công trình kiến trúc chính;
+
+Đường đi và các khu vực có thể di chuyển;
+
+Tỷ lệ vật lý;
+
+Độ cũ kỹ của chất liệu;
+
+Thảm thực vật và mặt nước;
+
+Thời tiết và mây;
+
+Sương mù;
+
+Hướng ánh sáng chính;
+
+Hiệu ứng phản chiếu;
+
+Màu sắc và độ sâu trường ảnh.
+
+Chọn một khu vực đất bằng phẳng, ổn định trong bối cảnh tham khảo, đủ sức chứa hợp lý một buổi lễ khải hoàn tạm thời.
+
+Không tự ý thay đổi các cột mốc chính và cấu trúc công trình của địa điểm tham khảo.
+
+Bố cục không gian cốt lõi
+
+Một chiếc chuông đồng chiến thắng cổ đại khổng lồ treo trên giá gỗ mộc mạc.
+
+Bên cạnh chuông là một chiếc dùi gỗ.
+
+Một dải lụa đỏ khải hoàn chưa bung hết đã được buộc sẵn vào giá gỗ.
+
+Dải lụa đỏ này phải thực sự tồn tại ngay từ cảnh quay đầu tiên.
+
+Phía sau chiếc chuông chiến thắng là một khu vực che chắn tạm thời đơn sơ.
+
+Một tấm rèm mỏng cùng bề mặt tròn rộng lớn của chiếc chuông cùng nhau che khuất tầm nhìn trực tiếp của khán giả vào khu vực này.
+
+Những người bị thương và lũ trẻ đã nghỉ ngơi ở đó ngay từ đầu video.
+
+Chỉ là góc máy ban đầu không cho thấy toàn cảnh của họ.
+
+Cảnh quay thứ hai sẽ hé lộ điều này cho cả khán giả lẫn nhân vật cùng lúc thông qua một cú lia máy ngang tự nhiên.
+
+Đây không phải là chuyển cảnh đột ngột, cũng không phải đám đông mới bỗng dưng xuất hiện.
+
+Động lực học môi trường
+
+Gió thổi tự nhiên làm lay động tay áo, mái tóc dài, dải lụa đỏ và thảm thực vật.
+
+Mặt nước phía xa, mây/sương mù và các nhân vật hậu cảnh duy trì chuyển động hợp lý.
+
+Hướng ánh sáng tự nhiên giữ nguyên ổn định.
+
+Hậu cảnh luôn sinh động ở cả tiền cảnh, trung cảnh và hậu cảnh xuyên suốt video.
+
+Nhưng môi trường không chủ động tạo ra các cú twist.
+
+Cốt truyện này được dẫn dắt bởi chính hành động của nhân vật.
+
+[Nhận định ban đầu và các chi tiết gợi mở then chốt]
+
+Những gì khán giả nhìn thấy ban đầu:
+
+Buổi lễ chiến thắng đã sẵn sàng.
+
+Sư phụ đích thân trao dùi chuông.
+
+Đại Sư Tỷ trang nghiêm chuẩn bị gióng chuông.
+
+Tiểu Sư Muội đột ngột ngăn lại.
+
+Hành động của cô sẽ bị hiểu lầm là từ chối ăn mừng, thậm chí là phá hỏng khoảnh khắc vinh quang hiếm hoi sau mười năm ròng rã.
+
+Ba chi tiết then chốt đã tồn tại từ trước
+
+Thứ nhất: Kích thước của chiếc chuông chiến thắng.
+
+Nó đủ lớn để âm thanh phát ra chắc chắn phải rất vang.
+
+Do đó, việc ngăn tiếng chuông vang lên mang ý nghĩa thực tiễn rõ ràng.
+
+Thứ hai: Khu vực che chắn phía sau.
+
+Thực sự tồn tại ngay từ cảnh đầu tiên, nhưng bị chiếc chuông đồng và tấm rèm che khuất.
+
+Cảnh quay thứ hai chỉ thay đổi góc quan sát.
+
+Thứ ba: Dải lụa đỏ khải hoàn.
+
+Đã treo trên giá chuông ngay từ đầu.
+
+Ở đoạn kết, Đại Sư Tỷ gỡ nó xuống và trải ra, hoàn tất một nghi thức báo tin chiến thắng trong tĩnh lặng.
+
+Toàn bộ cú twist không sử dụng năng lực siêu nhiên mới, bí mật thân phận mới hay đạo cụ quan trọng bỗng dưng xuất hiện.
+
+[0–5 Giây: Mở đầu thu hút và xung đột ban đầu]
+
+Cỡ cảnh: Đẩy máy từ Toàn cảnh (Full Shot) vào Trung cảnh (Medium Shot).
+
+Máy quay: Ống kính 35mm, đẩy máy chậm và ổn định.
+
+Mở đầu đi thẳng vào buổi lễ khải hoàn đã chuẩn bị sẵn.
+
+Chiếc chuông đồng chiến thắng rộng lớn treo trên giá gỗ.
+
+Bề mặt chuông đồng giữ nguyên kết cấu chân thực từ nghệ thuật đúc cổ đại và dấu vết mài mòn của thời gian.
+
+Một dải lụa đỏ khải hoàn được buộc cạnh giá gỗ.
+
+Vị Trưởng lão Sư phụ trao chiếc dùi chuông gỗ cho Kiếm Tiên Đại Sư Tỷ.
+
+Đại Sư Tỷ đưa tay đón lấy.
+
+Cô nhìn về phía chiếc chuông đồng ấy.
+
+Ánh mắt cô chất chứa sự mệt mỏi xen lẫn nhẹ nhõm khi cuối cùng cũng kết thúc một chiến dịch dài đằng đẵng.
+
+Sư phụ khẽ nói:
+
+Sư phụ: "Mười năm rồi, đánh chuông đi."
+
+Đại Sư Tỷ từ từ nâng dùi chuông lên.
+
+Mọi chuyển động đều tuân theo cơ sinh học thực tế của cơ thể người.
+
+Ngay khi dùi chuông sắp chạm vào bề mặt chuông—
+
+Tiểu Sư Muội bỗng bước lên nửa bước, đưa tay ra nhẹ nhàng nhưng dứt khoát nắm lấy cổ tay phải của Đại Sư Tỷ.
+
+Dùi chuông dừng lại.
+
+Không có va chạm.
+
+Không có tiếng chuông.
+
+Tiểu Sư Muội: "Sư tỷ, đừng đánh."
+
+Sư phụ lập tức sững người.
+
+Đại Sư Tỷ từ từ quay đầu lại.
+
+Cô không hề tức giận.
+
+Cô chỉ không ngờ Tiểu Sư Muội lại ngăn mình vào đúng lúc này.
+
+Sự bối rối hiện rõ trong ánh mắt cô.
+
+Góc máy chuyển đổi khi hai người nhìn thẳng vào mắt nhau.
+
+Lúc này, khán giả sẽ tự nhiên thắc mắc:
+
+Đã chiến thắng rồi, cớ sao lại không cho đánh chuông?
+
+[5–10 Giây: Hành động nhân vật và tình huống thay đổi]
+
+Cỡ cảnh: Trung cảnh (Medium Shot).
+
+Máy quay: Lia ngang nhẹ, trước tiên giữ nguyên bố cục khuôn mặt giữa hai người phụ nữ, sau đó hé lộ không gian phía sau men theo mép chiếc chuông đồng.
+
+Tay phải của Đại Sư Tỷ vẫn cầm dùi chuông.
+
+Tiểu Sư Muội vẫn nhẹ nhàng giữ lấy cổ tay cô.
+
+Đại Sư Tỷ nhìn Tiểu Sư Muội:
+
+Đại Sư Tỷ: "Sao vậy?"
+
+Tiểu Sư Muội không vội vàng giải thích.
+
+Cô từ từ buông cổ tay Đại Sư Tỷ ra.
+
+Rồi giơ một ngón tay lên, nhẹ nhàng đặt gần môi mình.
+
+Ra hiệu cho Đại Sư Tỷ giữ im lặng.
+
+Tiểu Sư Muội: "Chị nghe xem."
+
+Lúc này, những âm thanh ăn mừng mờ nhạt phía xa dần lắng xuống.
+
+Thiết kế âm thanh giúp các nhân vật bắt đầu chú ý đến:
+
+Tiếng thở khe khẽ;
+
+Nhịp thở đều đặn của giấc ngủ say;
+
+Tiếng vải cọ xát nhè nhẹ cuốn theo gió.
+
+Máy quay tự nhiên lia ngang dọc theo mép chiếc chuông đồng chiến thắng.
+
+Khu vực vốn bị thân chuông và tấm rèm che khuất dần hiện ra.
+
+Đó không phải là một bối cảnh khác.
+
+Nó luôn nằm ngay phía sau giá chuông.
+
+Vài thường dân bị thương và những đứa trẻ đang nằm trên chiếu tạm.
+
+Họ đang ngủ rất say.
+
+Một đứa trẻ nắm chặt chiếc khăn tay gấp nhỏ.
+
+Đầu em tựa tự nhiên vào vai người phụ nữ lớn tuổi bên cạnh.
+
+Không ai lên tiếng.
+
+Không ai khóc lóc.
+
+Khán giả có thể hiểu qua vẻ mệt mỏi, những vết băng bó và tư thế nằm rằng họ đã trải qua nỗi sợ hãi và cảnh chạy trốn trong một thời gian dài.
+
+Ánh mắt Đại Sư Tỷ hướng theo phía Tiểu Sư Muội chỉ.
+
+Cuối cùng cô cũng nhìn thấy những con người ấy.
+
+Chiếc dùi chuông đang giơ cao khựng lại giữa không trung, trì hoãn cú gõ xuống.
+
+Ngay khoảnh khắc này, cảm xúc của Đại Sư Tỷ thay đổi.
+
+Cô không còn chỉ nhìn vào chiếc chuông đồng tượng trưng cho chiến thắng nữa.
+
+Cô thực sự nhìn thấy những con người mà mình đã bảo vệ.
+
+[10–15 Giây: Cú twist then chốt và cao trào cảm xúc]
+
+Cỡ cảnh: Cận cảnh (Close-up).
+
+Máy quay: Bố cục cận cảnh ổn định, chuyển nét (focus) tự nhiên giữa khuôn mặt nhân vật, dùi chuông trên tay và dải lụa đỏ.
+
+Giữ nguyên nhân vật, ánh sáng, chiếc chuông đồng và không gian địa lý hoàn toàn nhất quán.
+
+Tiểu Sư Muội đứng cạnh Đại Sư Tỷ.
+
+Cô không nói thêm lời nào.
+
+Chỉ lặng lẽ chờ Đại Sư Tỷ tự đưa ra quyết định.
+
+Đại Sư Tỷ từ từ hạ dùi chuông xuống.
+
+Động tác vô cùng nhẹ nhàng.
+
+Cô cẩn thận đặt dùi chuông cạnh giá gỗ.
+
+Gỗ chạm vào giá chỉ phát ra một âm thanh cực kỳ nhỏ.
+
+Vị Trưởng lão Sư phụ cũng đã nhìn thấy đám đông đang say ngủ phía sau qua mép chiếc chuông đồng.
+
+Ông cũng không nói gì.
+
+Ánh mắt ông chuyển từ Đại Sư Tỷ sang những đứa trẻ kia.
+
+Tư thế cơ thể vốn đang chuẩn bị chủ trì buổi lễ từ từ thả lỏng.
+
+Đại Sư Tỷ đưa tay lấy dải lụa đỏ khải hoàn đã có sẵn trên giá gỗ từ cảnh mở đầu.
+
+Cô nhẹ nhàng trải dải lụa đỏ ra.
+
+Rồi khoác lên đỉnh chiếc chuông đồng, để dải lụa rủ xuống tự nhiên.
+
+Dải lụa đỏ khẽ bay trong gió.
+
+Chiếc chuông vẫn không hề vang lên.
+
+Đại Sư Tỷ nhìn những đứa trẻ đang say ngủ.
+
+Cô nói vô cùng khẽ:
+
+Đại Sư Tỷ: "Tiếng chuông này, chúng ta nợ lại nhé."
+
+Đừng đọc câu này như một lời tuyên ngôn hào hùng.
+
+Câu nói này chỉ giống như một sự đồng thuận bình thản giữa hai người.
+
+Đôi vai vốn đang căng cứng của Tiểu Sư Muội cuối cùng cũng hơi chùng xuống.
+
+Sư phụ đứng cạnh họ.
+
+Ông không phát biểu điều gì.
+
+Chỉ lặng lẽ dõi theo.
+
+Khung hình cuối cùng
+
+Tiền cảnh:
+
+Chiếc chuông đồng chiến thắng khổng lồ treo bất động.
+
+Dải lụa đỏ tượng trưng cho khải hoàn vắt ngang bề mặt chuông.
+
+Trung cảnh:
+
+Kiếm Tiên Đại Sư Tỷ và Tiểu Sư Muội đứng sát bên nhau.
+
+Họ không tuốt kiếm, cũng chẳng hô vang.
+
+Hậu cảnh:
+
+Những người bị thương và lũ trẻ vừa sống sót qua cuộc chiến vẫn đang ngủ yên.
+
+Một cơn gió nhẹ lướt qua dải lụa đỏ.
+
+Ánh sáng tự nhiên quét qua bề mặt chiếc chuông đồng nhuốm màu thời gian.
+
+Kết thúc màn hình.
+
+Mười năm chiến tranh cuối cùng cũng giành được thắng lợi.
+
+Nhưng chiến thắng hôm nay không hề phát ra âm thanh chói tai nào.
+
+Bởi vì cuối cùng cũng có người được ngủ một giấc bình yên.
+
+[Diễn xuất và thoại của diễn viên]
+
+Toàn bộ video chỉ có năm câu thoại tiếng Quan Thoại bản ngữ.
+
+Sư phụ: "Mười năm rồi, đánh chuông đi."
+
+Giọng trầm, ẩn chứa cảm xúc nhẹ nhõm sau một thời gian dài chờ đợi.
+
+Tiểu Sư Muội: "Sư tỷ, đừng đánh."
+
+Gấp gáp nhưng vẫn lễ phép.
+
+Mục đích của cô là ngăn hành động trước mắt, chứ không phải thách thức uy quyền của Đại Sư Tỷ.
+
+Đại Sư Tỷ: "Sao vậy?"
+
+Ngạc nhiên, bối rối, giọng điệu được kiểm soát rất nhẹ.
+
+Tiểu Sư Muội: "Chị nghe xem."
+
+Hạ thấp âm lượng, để đối phương tự khám phá ra sự thật.
+
+Đại Sư Tỷ: "Tiếng chuông này, chúng ta nợ lại nhé."
+
+Giọng nhẹ nhàng nhưng kiên định.
+
+Đây là quyết định cô chủ động đưa ra sau khi đã thấu hiểu tình hình.
+
+Toàn bộ thoại của nhân vật phải tự nhiên, rõ ràng, khớp tuyệt đối với khẩu hình miệng của người đang nói.
+
+Nhân vật không có thoại tuyệt đối không được há miệng vô cớ.
+
+Không thêm lời bình (voice-over) hay thoại giải thích thừa thãi.
+
+[Máy quay và dựng phim]
+
+Ba phân đoạn có chức năng thị giác riêng biệt.
+
+Cảnh 1: Lấy chiếc chuông chiến thắng làm trung tâm khung hình.
+
+Thông qua kích thước, kết cấu đồng, hành động Sư phụ trao dùi chuông và Đại Sư Tỷ nâng dùi chuông, thiết lập sự trang nghiêm của buổi lễ chiến thắng.
+
+Tiểu Sư Muội đột ngột đưa tay ra, cắt đứt kỳ vọng mà khán giả vừa hình thành.
+
+Cảnh 2: Thay đổi thế giới khán giả nhìn thấy bằng cú lia máy ngang.
+
+Không được凭空 tạo ra bối cảnh mới từ hư không.
+
+Chỉ đơn giản là hé lộ khu vực che chắn vốn đã tồn tại khi máy quay di chuyển.
+
+Trọng lượng thị giác chuyển từ chiếc chuông đồng khổng lồ tượng trưng cho chiến thắng sang những con người nhỏ bé đang say ngủ tĩnh lặng.
+
+Cảnh 3: Nhân vật hoàn tất cú twist bằng hành động mới.
+
+Đại Sư Tỷ hạ dùi chuông xuống.
+
+Lấy dải lụa đỏ đã có sẵn.
+
+Hoàn tất nghi thức báo tin chiến thắng trong im lặng.
+
+Không lạm dụng slow-motion cường điệu hay các cú xoay máy phức tạp.
+
+Máy quay phải ổn định, rõ ràng và liền mạch.
+
+Có thể dùng độ sâu trường ảnh nông (xóa phông) ở mức vừa phải, nhưng không được làm mờ các hành động then chốt và đạo cụ quan trọng đến mức không nhận ra.
+
+[Thiết kế âm thanh]
+
+Âm thanh là một phần quan trọng của cú twist này.
+
+Phân đoạn 1
+
+Âm thanh môi trường tự nhiên và bầu không khí khải hoàn vô cùng tiết chế.
+
+Có thể có tiếng xì xào nho nhỏ của đám đông mệt mỏi phía xa, nhưng không có tiếng hò reo ầm ĩ.
+
+Khi dùi chuông được nâng lên, không dùng tiếng trống dồn dập để tạo sự hồi hộp rẻ tiền.
+
+Phân đoạn 2
+
+Sau khi Tiểu Sư Muội nói "Chị nghe xem", hãy giảm dần tiếng người và nhạc nền phía xa.
+
+Chuyển sự chú ý sang khu vực che chắn.
+
+Giữ lại tiếng thở chân thực, tiếng vải cọ xát nhè nhẹ và âm thanh môi trường tự nhiên khớp với địa điểm tham khảo.
+
+Hãy để sự tĩnh lặng trong âm thanh trở thành một phần trong quá trình thay đổi nhận thức của nhân vật.
+
+Phân đoạn 3
+
+Không có tiếng chuông.
+
+Không có nhạc nền bi lụy bỗng dưng trỗi dậy.
+
+Chỉ giữ lại âm thanh đặt dùi chuông nhẹ nhàng, tiếng lụa cọ vào chuông đồng, gió thoảng và âm thanh môi trường.
+
+Câu thoại cuối cùng của Đại Sư Tỷ:
+
+"Tiếng chuông này, chúng ta nợ lại nhé."
+
+Phải có khẩu hình miệng rõ ràng, nhịp thở chân thực và âm lượng tự nhiên.
+
+Sau khi câu thoại kết thúc, giữ lại một khoảng lặng ngắn.
+
+[Tính liên tục của nhân vật, đạo cụ và môi trường]
+
+Nhân vật:
+
+@Image1 và @Image2 phải giữ nguyên khuôn mặt, tỷ lệ gương mặt, kiểu tóc, trang phục, tỷ lệ cơ thể, thanh kiếm và khí chất nhân vật xuyên suốt video.
+
+Đại Sư Tỷ cầm dùi chuông bằng tay phải ở Cảnh 1 và Cảnh 2.
+
+Tiểu Sư Muội tiến tới từ bên phải của Đại Sư Tỷ và giữ cổ tay cô lại.
+
+Sự thay đổi vị trí của họ phải tuân theo quỹ đạo di chuyển thực tế.
+
+Nhân vật phụ chỉ bước vào khung hình nếu phù hợp với vị trí của họ tại bối cảnh.
+
+Dùi chuông:
+
+Được Sư phụ trao cho Đại Sư Tỷ ở đầu video.
+
+Đại Sư Tỷ nâng lên.
+
+Tiểu Sư Muội chặn lại.
+
+Đại Sư Tỷ cầm giữ.
+
+Cuối cùng được đặt xuống.
+
+Toàn bộ quá trình tuyệt đối không được đổi tay tức thì, dùi chuông biến mất hay dịch chuyển từ hư không.
+
+Chuông đồng chiến thắng:
+
+Luôn là cùng một chiếc chuông đồng.
+
+Tỷ lệ thân chuông, giá gỗ, kết cấu chất liệu, độ cao treo và vị trí không gian phải nhất quán.
+
+Dùi chuông tuyệt đối không chạm vào bề mặt chuông trong toàn bộ video.
+
+Dải lụa đỏ:
+
+Tồn tại trên giá chuông ngay từ cảnh quay đầu tiên.
+
+Cuối cùng do chính Đại Sư Tỷ trải ra và khoác lên chuông đồng.
+
+Không được凭空 sinh ra ở đoạn kết.
+
+Khu vực che chắn:
+
+Thực sự tồn tại phía sau giá chuông ngay từ đầu.
+
+Chăn chiếu, số lượng người, vị trí trẻ em và rèm cửa phải duy trì tính liên tục về không gian.
+
+Được hé lộ ở cảnh thứ hai thông qua sự thay đổi góc máy.
+
+Những đứa trẻ và người bị thương đang ngủ vẫn giữ nguyên trạng thái ngủ ở đoạn kết.
+
+Hậu cảnh:
+
+Luôn tuân thủ các hình ảnh tham khảo địa điểm thực tế của lượt này.
+
+Giữ nguyên đặc điểm địa hình, quan hệ không gian kiến trúc, ánh sáng chính, thời tiết, chất liệu và quy mô môi trường.
+
+Gió tự nhiên, mặt nước, sương mù, thảm thực vật, lọn tóc, tay áo và dải lụa đỏ tiếp tục chuyển động chân thực.
+
+Hậu cảnh không chủ động tạo ra các sự kiện kịch tính mới.
+
+[Yêu cầu thực thi với Seedance 2.0 Mini]
+
+Gọi mô hình seedance 2.0 mini để tạo ra một bộ phim ngắn Tiên hiệp Trung Quốc live-action 15 giây, màn hình ngang 16:9, chất lượng điện ảnh, có cú twist kịch tính.
+
+Trình tự cảnh quay cốt lõi:
+
+0–5s: Sư phụ trao dùi chuông, Đại Sư Tỷ nâng dùi, Tiểu Sư Muội đột ngột ngăn lại.
+
+5–10s: Tiểu Sư Muội bảo Đại Sư Tỷ lắng nghe, máy quay hé lộ những người bị thương và trẻ em đang say ngủ phía sau.
+
+10–15s: Đại Sư Tỷ hạ dùi chuông, trải dải lụa đỏ, hoàn tất cao trào cảm xúc bằng câu thoại cuối cùng.
+
+Đảm bảo tính ổn định và liên tục của trục máy quay, vị trí nhân vật, hướng nhìn, vị trí đạo cụ, hướng sáng và không gian môi trường giữa ba cảnh quay.
+
+Tập trung đảm bảo các kết quả chân thực có thể nhìn thấy được sau:
+
+Tiểu Sư Muội phải ngăn được Đại Sư Tỷ thành công trước khi dùi chuông chạm vào chuông đồng.
+
+Máy quay phải thực sự hé lộ khu vực che chắn vốn bị khuất trước đó.
+
+Đại Sư Tỷ phải tận mắt nhìn thấy đám đông đang ngủ và thay đổi hành động vì điều đó.
+
+Dải lụa đỏ phải tồn tại từ trước, cuối cùng được chính Đại Sư Tỷ chủ động trải ra.
+
+Chiếc chuông đồng tuyệt đối không được gióng lên trong toàn bộ video.
+
+Những người bị thương và trẻ em vẫn ngủ yên ở đoạn kết.
+
+Biểu cảm vi mô của nhân vật chân thực và tiết chế.
+
+Mọi hành động đều trọn vẹn và hợp lý.
+
+Thoại tiếng Quan Thoại được đồng bộ bản ngữ.
+
+Không thêm xung đột mới, đảo ngược thân phận, hiệu ứng pháp thuật, cảnh giao chiến hay tình tiết chắp vá.
+
+Không tạo phụ đề, tiêu đề, lời bình hay văn bản thừa thãi.
+
+Cảm xúc cuối cùng: Khiến khán giả nhận ra rằng đôi khi, chiến thắng đáng để ăn mừng nhất lại chính là chiến thắng nên được giữ trong tĩnh lặng.
+
+[Negative Prompt]
+
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120725137213595648/img/z1VAUSwvmx61K2ub.jpg" width="600" alt="Cảnh Chuông Chiến Thắng Im Lặng">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13745)**
+
+**Tác giả:** [𝕊𝖔ʳᵃɴ](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2120725797229183155) | **Đã xuất bản:** Nov 12, 2026
+
+---
+### Seedance 2.5 Fantasy Action Movie Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt tạo phim ngắn hành động kỳ ảo dài 30 giây, với nữ hộ vệ chiến đấu chống lại quái vật khổng lồ tại bến phà.
+
+#### 📝 Prompt
+
+```
+Prompt Seedance 2.5
+[Yêu cầu tạo video]
+Tạo một bộ phim ngắn hành động kỳ ảo, người đóng (live-action) hoàn chỉnh dài 30 giây, tỷ lệ khung hình ngang 16:9, bao gồm 9 cảnh quay.
+Ý tưởng tiêu đề: "Thuyền đã rời bến, cô ấy không lên".
+
+Bối cảnh hoành tráng, giao tranh khốc liệt, nhân vật thể hiện lực tác động thực tế, mất thăng bằng, thở dốc và va chạm chân thực.
+Không phải cutscene game, không tạo dáng võ thuật, không phải kiểu nhân vật chính dễ dàng hạ gục quái vật.
+Đẩy câu chuyện tiến triển thông qua các nhịp tấn công/phòng thủ rõ ràng, sự thay đổi không gian và những bước đột phá dần dần; không dựa vào phép thuật, các vụ nổ liên tục hay slow-motion kéo dài suốt phim.
+
+[Tài liệu tham khảo]
+@Image 1: Tài liệu tham khảo duy nhất về nhân vật và trang bị của nữ vệ binh. Giữ nguyên đường nét khuôn mặt, kiểu tóc, áo giáp, áo chẽn, đồ bảo vệ chân, bốt chiến đấu và vũ khí cán dài. Không sao chép tư thế đứng hoặc bố cục từ bản concept art.
+@Image 2: Tài liệu tham khảo bối cảnh và kiến trúc cho bến phà. Giữ nguyên bờ đá, cầu tàu gỗ cũ, thung lũng, thành cổ và diện mạo của chiếc phà gỗ.
+@Image 3: Tài liệu tham khảo thị giác duy nhất cho Quái thú Giáp Đá. Giữ nguyên đường viền đầu, hình dạng sừng, lớp giáp dày xếp tầng, tứ chi vạm vỡ và tỷ lệ cơ thể.
+
+[Cốt truyện chính]
+Chuyến phà sơ tán cuối cùng đang rời bến. Nữ vệ binh ở lại trên cầu tàu gỗ, chặn đứng con quái thú đang rượt đuổi đám đông.
+Cô phải cầm cự cho đến khi phà ra khỏi vùng nguy hiểm.
+Trong trận chiến, cô bị đẩy lùi và đánh ngã, sau đó vòng qua con quái thú để rút lui về phía bờ.
+Quái thú nghiền nát cầu tàu gỗ khi truy đuổi. Cuối cùng, nhân vật chính đặt chân lên bệ đá vững chắc. Con quái thú giẫm lên phần gỗ đã hư hại, khiến khu vực đó sụp xuống nước, tạm thời ngăn nó tiếp tục truy đuổi.
+Sau khi xác nhận an toàn, nhân vật chính nhìn theo chuyến phà đang xa dần và giơ tay ra hiệu rằng mình vẫn còn sống.
+
+[Diện mạo cố định của nhân vật chính]
+Nữ giới trưởng thành, khoảng 26 tuổi, ngoại hình tuân thủ nghiêm ngặt @Image 1.
+Giữ nguyên tính nhất quán của khuôn mặt ở cả hai góc nghiêng, tóc tối màu buộc gọn, giáp kim loại, áo chẽn, đồ bảo vệ chân, bốt chiến đấu và vũ khí cán dài.
+Không thiết kế lại trang phục, thêm/bớt giáp hoặc thay đổi vũ khí.
+Trang bị phải hiển thị đầy đủ ngay từ đầu; lưỡi đao luôn nằm trong tay hoặc thấy rõ bên hông — không bao giờ biến mất hay tự nhân đôi.
+Làn da chân thực, giáp và đồ da có dấu hiệu hao mòn. Bụi gỗ, đất bụi và các vết nước nhỏ tích tụ dần trong lúc giao tranh; tóc rối dần theo thời gian chứ không tự động trở lại gọn gàng.
+Xinh đẹp nhưng không tạo dáng; chuyển động mang tính thực chiến; nhịp thở và biểu cảm thay đổi theo diễn biến trận đấu.
+
+[Diện mạo cố định của quái thú]
+Tuân thủ nghiêm ngặt hình ảnh quái thú bốn chân mặc giáp đá trong @Image 3.
+Chiều cao vai khoảng 3 mét, thân hình nặng nề, đầu cúi thấp, lớp giáp đá thô ráp xếp tầng, tứ chi vạm vỡ.
+Giữ nguyên hình dạng sừng, cách phân bổ lớp vỏ, tỷ lệ cơ thể và số lượng chi.
+Hành xử như một con thú lớn có trọng lượng thực: cần đà phanh sau khi lao tới, điều chỉnh bước chân khi rẽ, không xoay người tức thì, không nảy người nhẹ bẫng.
+Không thêm cánh, xúc tu, năng lực phụ, mắt phát sáng, phun lửa hay bắn tia năng lượng.
+
+[Khóa không gian bến phà]
+Diện mạo tổng thể tham chiếu @Image 2, sắp xếp hành động với quan hệ không gian trái - phải rõ ràng:
+Bên trái: Bờ đá vững chắc và bệ đá rộng.
+Cầu tàu gỗ cũ kéo dài từ bờ đá bên trái hướng ra mặt nước bên phải.
+Đoạn giữa của cầu tàu rộng hơn, cho phép nhân vật chính vòng ra phía ngoài cơ thể quái thú.
+Phà khởi hành từ đầu ngoài của cầu tàu hướng ra vùng nước mở bên phải.
+
+Mở đầu: Nhân vật chính ở vị trí xa nhất của cầu tàu, đối mặt với con quái thú đang tiến lại từ phía bờ.
+Quái thú nằm giữa nhân vật chính và bờ đá; phà ở phía sau nhân vật chính trên mặt nước.
+Đoạn giữa phải thể hiện trọn vẹn quá trình nhân vật chính vòng ra phía ngoài quái thú để quay về phía bờ. Không hoán đổi vị trí đột ngột sau khi cắt cảnh.
+
+Phần gỗ gần bờ có những vết nứt cũ dễ nhận biết ngay từ đầu nhưng vẫn chịu được sức nặng.
+Ranh giới giữa bờ đá vững chắc và cầu tàu gỗ phải rõ ràng.
+Chỉ phần kết cấu gỗ hư hại mới sụp đổ cục bộ; bờ đá không bị sập; nhân vật chính cuối cùng đứng trên bệ đá còn nguyên vẹn.
+
+[Tính liên tục của phà]
+Ngay từ cảnh đầu tiên, phà đã tháo dây neo và đang rời bến; không có sợi dây nào nối giữa thuyền và cầu tàu.
+Mũi thuyền hướng ra vùng nước mở; đuôi thuyền hướng về cầu tàu.
+Xuyên suốt bộ phim, khoảng cách giữa phà và cầu tàu liên tục tăng; thuyền không được dừng lại, quay về vị trí cũ hay bất ngờ chạy ngược lại.
+Trên thuyền chỉ có vài hành khách trưởng thành, xuất hiện dưới dạng những bóng người nhỏ bé ở xa; không có tương tác phức tạp giữa các nhân vật.
+Không để nhân vật chính nhảy lên thuyền, leo dây hay giao chiến trên thuyền.
+
+[Ánh sáng & Hình ảnh]
+Bầu trời âm u nhưng sáng, ánh sáng trời dịu, nửa trái khung hình sáng hơn một chút.
+Màu da chân thực, nước xanh xám, bờ đá xám, gỗ cũ tự nhiên; giữ lại chi tiết trong vùng tối.
+Chất liệu hình ảnh của phim hành động sử thi live-action; phân tách rõ ràng chất liệu giữa kim loại, da thuộc, giáp đá, gỗ và nước.
+Cảnh trung và toàn làm rõ nhịp tấn công/phòng thủ; góc rộng thiết lập không gian và các bước đột phá; cận cảnh bổ trợ cảm xúc nhân vật.
+Góc máy ổn định nhưng có độ động vừa phải; cú máy tracking (lia theo) cự ly ngắn; chuyển động cầm tay (handheld) tiết chế, không rung lắc dữ dội.
+Không dùng filter teal-orange đậm, lóa ống kính cường điệu hay slow-motion kéo dài.
+
+[Phân cảnh chi tiết]
+
+Cảnh 1 (0–3s):
+Góc máy tracking rộng, nhìn nghiêng ba phần tư; xung đột nổ ra ngay từ khung hình đầu tiên.
+Chân trước của quái thú đập vỡ một tấm ván trên cầu tàu ngay trước mặt nhân vật chính; dăm gỗ bắn tung khi va chạm. Nhân vật chính bị chấn động, khuỵu một gối xuống, vũ khí cán dài vẫn cầm chắc trong tay.
+Đồng thời thiết lập bờ đá vững chắc bên trái, phần gỗ nứt nẻ gần bờ và chuyến phà đang rời đi bên phải.
+Tiếng hét vọng lại từ những người trưởng thành trên thuyền (off-screen): "Lên thuyền đi!"
+Nhân vật chính ngẩng đầu, nhìn chằm chằm vào quái thú, không hề quay lưng lại.
+
+Cảnh 2 (3–6s):
+Cắt sang cảnh trung-toàn nghiêng, lấy trọn cả nhân vật chính và quái thú.
+Quái thú tiến về phía đầu ngoài của cầu tàu, cố vượt qua nhân vật chính để lao tới chiếc phà.
+Nhân vật chính di chuyển ngang, tung một đòn phản công chớp nhoáng bằng lưỡi đao vào chi trước của nó, thu hút sự chú ý về phía mình.
+Quái thú quay đầu đối mặt; nhân vật chính buộc phải lùi bước, các tấm ván oằn xuống và kêu cọt kẹt dưới chân.
+Cô không thể đứng yên hứng trọn toàn bộ sức mạnh của quái thú.
+
+Cảnh 3 (6–10s):
+Cắt sang góc rộng nghiêng, máy đặt cao hơn một chút, thể hiện rõ một lần thay đổi vị trí hoàn chỉnh.
+Quái thú quẹt móng vuốt trước; nhân vật chính né đường tấn công, vòng ra phía ngoài cơ thể nó qua đoạn giữa rộng hơn của cầu tàu, di chuyển về phía gần bờ đá.
+Quái thú xoay trục và rượt theo cô.
+Thể hiện đầy đủ quỹ đạo di chuyển của cả hai; không hoán đổi vị trí bằng jump cut, không chui qua gầm quái thú, không để nhân vật xuyên qua các chi của quái vật.
+
+Cảnh 4 (10–14s):
+Cắt sang cảnh trung, tracking ngang cự ly ngắn.
+Quái thú áp sát, chi trước và vai dồn ép về phía trước.
+Nhân vật chính dùng lưỡi đao móc vào mép móng vuốt nhưng bị sượt qua, mất thăng bằng, khuỵu một gối và chống một tay xuống đất, trượt một đoạn ngắn dọc theo ván cầu rồi mới dừng lại.
+Vũ khí vẫn nằm ở tay kia hoặc áp sát bên hông, luôn xuất hiện trong khung hình.
+Sự dịch chuyển chỉ xảy ra sau khi có va chạm; ván cầu nứt thêm do tác động nhưng không sụp đổ hoàn toàn.
+Cô chịu áp lực và thở dốc; không lăn lộn liên tục, không bay bổng lên cao.
+
+Cảnh 5 (14–18s):
+Cắt sang cảnh trung-toàn từ phía bờ.
+Nhân vật chính chống người đứng dậy, lùi về phía bờ đá vững chắc, lưỡi đao vẫn hiện rõ.
+Quái thú giẫm lên những tấm ván cô vừa đi qua; các thanh dầm nặng trĩu lún xuống, phát ra tiếng gãy răng rắc từ khu vực hư hại gần bờ.
+Cô liếc nhanh xuống phần kết cấu gãy vỡ dưới chân, rồi lập tức tập trung trở lại vào con quái thú.
+Chiếc phà phía xa vẫn tiếp tục rời đi, xa hơn so với lúc đầu.
+Không có lời thoại giải thích; không có cảnh cận mặt trầm ngâm kéo dài.
+
+Cảnh 6 (18–22s):
+Góc rộng nghiêng, máy cố định; ranh giới bờ đá, phần gỗ hư hại, nhân vật chính và quái thú đều phân biệt rõ ràng.
+Nhân vật chính đã lùi tới điểm giao nhau với bờ đá; quái thú lại lao tới dọc theo phần gỗ hư hại.
+Cô di chuyển ngang một đoạn ngắn, bước lên bệ đá nguyên vẹn liền kề, hạ cả hai chân xuống bình thường.
+Chi trước của quái thú đè lên phần gỗ hư hại; các thanh dầm nứt toác dưới sức nặng thực tế, khớp nối lỏng ra, trọng tâm hạ thấp.
+Phải chịu sức nặng trước rồi kết cấu mới hỏng; không sụp đổ sớm vô lý.
+
+Cảnh 7 (22–25s):
+Cắt sang góc rộng ba phần tư.
+Đoạn cầu tàu hư hại sụp xuống; quái thú mất điểm tựa, rơi xuống nước cùng những thanh dầm gãy, tạo ra cột nước bắn lên tương xứng với trọng lượng của nó.
+Các khối gỗ lớn rơi theo trọng lực; không lơ lửng, không tan thành bột.
+Nhân vật chính vẫn đứng trên bệ đá nguyên vẹn; cơ thể cô không bị kéo theo cú sụp đổ.
+Chiếc phà đã ra khỏi vùng nguy hiểm, không bị ảnh hưởng bởi nước bắn hay mảnh vỡ.
+Không giao chiến dưới nước, không chết chóc đẫm máu, không nổ cầu lửa.
+
+Cảnh 8 (25–28s):
+Cắt sang cảnh trung nghiêng quay nhân vật chính, máy hơi đẩy vào (push-in) chậm rãi.
+Cô đứng vững, tay nắm chặt lưỡi đao, vai nhô lên hạ xuống theo từng nhịp thở gấp, tóc và trang bị xộc xệch.
+Cô kiểm tra xem không còn mối đe dọa nào từ phần cầu tàu gãy vỡ, rồi quay đầu nhìn về chiếc phà đang xa dần.
+Ở đuôi thuyền, chỉ có một bóng người hành khách rất nhỏ đang nhìn về hướng cô; không quay cận mặt hay chi tiết ngón tay.
+
+Cảnh 9 (28–30s):
+Cắt sang cảnh cận mặt chính diện nhân vật chính; hậu cảnh thung lũng và mặt nước mờ đi tự nhiên.
+Một tay vẫn nắm chặt lưỡi đao; tay còn lại nhẹ nhàng giơ lên hướng về phía xa, ra hiệu rằng mình an toàn.
+Biểu cảm là sự nhẹ nhõm sau khi kiệt sức, không phải nụ cười đắc thắng.
+Kết thúc đọng lại ở nhịp thở thực, tư thế vững chãi và ánh mắt hướng về chiếc phà của cô; không fade to black (chuyển đen).
+
+[Âm thanh]
+Tiếng bước chân nặng nề của quái thú, tiếng ma sát của giáp, tiếng gỗ chịu lực, tiếng dầm gãy, tiếng vũ khí va chạm, tiếng đế giày cọ xát, tiếng vải và giáp.
+Âm thanh va chạm đồng bộ với điểm tiếp xúc thực tế; không dùng tiếng xương gãy cường điệu.
+Phà rời bến có tiếng nước tiết chế và tiếng động kết cấu từ thân thuyền gỗ.
+Lời thoại duy nhất là tiếng người trưởng thành trên thuyền ở đầu phim
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120520856917114880/img/WasTr9Hk_PlmyXy9.jpg" width="600" alt="Seedance 2.5 Fantasy Action Movie Prompt">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13746)**
+
+**Tác giả:** [Adamä¹Ÿå�«å�‰ç±³](https://x.com/Adam38363368936) | **Nguồn:** [Link](https://x.com/Adam38363368936/status/2120521214737416330) | **Đã xuất bản:** Nov 11, 2026
+
+---
 ### Prompt chiến đấu trong tàu điện ngầm Cyberpunk cho Seedance 2.0
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -8080,181 +9246,6 @@ Phía dưới, chiếc SUV tối màu vẫn đều đặn tiến bước trên c
 **Tác giả:** [Sharon Riley](https://x.com/Just_sharon7) | **Nguồn:** [Link](https://x.com/Just_sharon7/status/2112913908617158822) | **Đã xuất bản:** Oct 21, 2026
 
 ---
-### Lãng mạn Manhattan qua Sự Nhầm Lẫn Cà Phê
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hướng dẫn chi tiết cho video biên tập sang trọng mang phong cách điện ảnh, bối cảnh tại Manhattan, xoay quanh sự nhầm lẫn ly cà phê dẫn đến một cuộc trò chuyện, kèm theo hướng dẫn tham khảo nhân vật.
-
-#### 📝 Prompt
-
-```
-The Wrong Coffee — Midtown Manhattan, New York
-
-Thời lượng: 30 giây | Tỷ lệ khung hình: 16:9 | Phong cách: Editorial xa hoa mang đậm chất điện ảnh
-
-Tham chiếu nhân vật: Chỉ sử dụng hai hình ảnh được cung cấp làm tài liệu tham chiếu ngoại hình nhân vật, tuyệt đối không dùng làm khung hình khởi đầu. Người đàn ông tên Alex là một giám đốc tài chính thành đạt, đầy tự tin tại Manhattan. Giữ nguyên khuôn mặt, bộ vest may đo màu tối, cà vạt và kiểu tóc của anh. Người phụ nữ tên Allisa là nhân vật thứ hai; giữ nguyên đặc điểm nhận dạng, kiểu tóc cùng trang phục thanh lịch, ôm dáng của cô.
-
-Tính liên tục về thị giác: Phong cách nhiếp ảnh editorial ấm áp, hơi hướng hoài cổ với vùng sáng màu hổ phách, độ tương phản dịu, nhiễu hạt phim tinh tế và kết cấu da chân thực. Màu sắc đồng nhất xuyên suốt mọi cảnh quay. Không tạo hiệu ứng phát sáng nhân tạo hay làn da bóng nhựa thiếu tự nhiên.
-
-Độ chính xác của bối cảnh: Mọi biển hiệu, thực đơn, tên gọi và chữ viết trên đường phố xuất hiện trong khung hình đều phải đúng chính tả và dễ đọc. Không để xuất hiện các ký tự vô nghĩa.
-
-Cảnh 1 — Ly cà phê buổi sáng (0–4s)
-
-Bên trong một quán cà phê cao cấp ở Midtown Manhattan với quầy đá đánh bóng, nội thất sang trọng và những người đi làm bận rộn. Alex bước tới quầy, phong thái điềm tĩnh và tự tin. Trên quầy không có ly cà phê nào.
-
-Máy quay đặt phía sau Alex, hướng về phía quầy bar. Một nữ nhân viên pha chế xinh đẹp tầm ngoài hai mươi tuổi, sở hữu nét đẹp cuốn hút như người mẫu cùng thần thái lôi cuốn tự nhiên, khẽ xoay người về phía khu vực pha chế nằm ngoài khung hình.
-
-Alex, giọng thong thả: "Cho tôi một double espresso. Tôi tên là Alex."
-
-Nhân viên pha chế, thân thiện: "Có ngay đây ạ."
-
-Hiển thị chính xác dòng chữ "Midtown Manhattan, New York" ở vùng lower third, căn giữa theo chiều ngang ở cạnh dưới khung hình, font Poppins Semi-Bold 600, màu trắng (#FFFFFF), trên nền xám than đá phiến bo góc (#17212B) với độ mờ 60%. Không thêm bất kỳ ký tự nào khác.
-
-Cảnh 2 — Nhân viên pha chế (4–7s)
-
-Máy quay vẫn đặt phía sau Alex nhưng ở một góc nhìn khác so với Cảnh 1, hướng về phía quầy bar.
-
-Nhân viên pha chế, gọi to rõ ràng: "Double espresso cho Alex!"
-
-Alex vẫn đang mải mê nhìn vào điện thoại. Không có ly cà phê nào xuất hiện trong cảnh này.
-
-Cảnh 3 — Nhầm ly (7–11s)
-
-Hai ly cà phê mang đi được một nhân viên (không lộ diện) đặt cạnh nhau trên quầy lấy đồ. Một ly ghi rõ tên ALEX, ly còn lại ghi ALYSSA.
-
-Vẫn dán mắt vào điện thoại, Alex đưa tay còn trống ra và vô tình chỉ cầm nhầm ly ghi tên ALYSSA. Anh bước đi cùng ly cà phê đó mà không hề hay biết mình đã lấy nhầm. Ly cà phê thật của anh, ghi tên ALEX, vẫn nằm lại trên quầy.
-
-Cảnh 4 — Vỉa hè (11–14s)
-
-Bên ngoài, Alex sải bước nhanh dọc con vỉa hè đông đúc ở Midtown Manhattan, một tay cầm ly cà phê của ALYSSA, tay kia vẫn tiếp tục lướt điện thoại.
-
-Phía sau anh, ALYSSA bước ra từ chính quán cà phê mà Alex vừa rời đi, tay cầm ly cà phê của anh và chợt nhận ra anh đang đi phía trước.
-
-Cảnh 5 — Cuộc chạm trán (14–19s)
-
-ALYSSA đuổi kịp Alex trên vỉa hè.
-
-ALYSSA, giọng buồn cười nhẹ nhàng: "Hình như anh cầm nhầm cà phê của tôi rồi."
-
-Alex ngước lên khỏi màn hình điện thoại, dừng bước và liếc nhìn ly nước trên tay.
-
-Alex, nhìn xuống ly cà phê rồi ngước lên nhìn ALYSSA, nở nụ cười áy náy: "Ồ, cô nói đúng. Xin lỗi nhé."
-
-Họ tự nhiên đổi ly cho nhau. Alex cất điện thoại đi.
-
-Cảnh 6 — Cùng hướng (19–24s)
-
-Alex hất hàm về phía cuối con đường.
-
-Alex, giọng thong thả: "Cô đi hướng nào vậy?"
-
-ALYSSA, chỉ tay về phía trước: "Hình như cùng đường với anh đấy."
-
-Alex, mỉm cười: "Vậy thì tiện quá."
-
-Cả hai bật cười và bắt đầu sánh bước cùng nhau, trò chuyện thoải mái. Máy quay cố định ghi lại cảnh họ dần khuất bóng dọc vỉa hè cho đến khi ra khỏi khung hình.
-
-Cảnh 7 — Mối duyên bất ngờ (24–30s)
-
-Chuyển cảnh cắt cứng sang một vị trí máy quay cố định xa hơn trên cùng dãy phố Midtown. Alex và ALYSSA sóng bước bên nhau, tay cầm cà phê, say sưa trò chuyện đầy hào hứng.
-
-Allisa, giọng trêu đùa: "Sáng nào anh cũng có thói quen thú vị thế này sao?"
-
-Alex, thích thú: "Thường thì không thú vị đến thế đâu."
-
-Allisa bật cười tự nhiên, tiếng cười trọn vẹn không bị ngắt quãng. Họ tiếp tục vừa đi vừa trò chuyện, tiến dần về phía bên phải khung hình.
-
-Cả hai nhân vật hoàn toàn bước ra khỏi khung hình về phía bên phải. Giữ nguyên cảnh vỉa hè trống trong 0,5 giây cuối cùng trước khi kết thúc.
-
-Chỉ đạo diễn xuất: Lời thoại hội thoại tự nhiên, khẩu hình khớp chuẩn xác, biểu cảm tinh tế và tương tác vật lý chân thực. Xuyên suốt Cảnh 2–4, Alex luôn cầm điện thoại ở một tay và chỉ dùng tay còn lại để cầm ly cà phê của Allisa. Ly ghi tên ALEX nằm lại trên quầy cho đến khi Allisa lấy nó. Đảm bảo chính xác chủ sở hữu của từng ly cà phê và tính liên tục của mạch truyện. Sử dụng đa dạng các cú máy tracking và cận cảnh đậm chất điện ảnh, kết hợp máy quay cố định cho những cảnh bước đi ra khỏi khung hình. Áp dụng kỹ thuật cắt cảnh tức thời, dứt khoát. Để lời thoại, phản ứng và tiếng cười diễn ra trọn vẹn một cách tự nhiên. Không dùng chuyển động chậm, hiệu ứng biến hình, phụ đề hay âm nhạc.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112876062648483840/img/gL4XyT3GY4OLJFzR.jpg" width="600" alt="Lãng mạn Manhattan qua Sự Nhầm Lẫn Cà Phê">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12876)**
-
-**Tác giả:** [Promethean](https://x.com/PrometheanAIX) | **Nguồn:** [Link](https://x.com/PrometheanAIX/status/2112876623032689023) | **Đã xuất bản:** Oct 21, 2026
-
----
-### Hài Kịch Bà Ngoại, Báo và Xã Hội Đen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt phức tạp cho video hài hước liên quan đến bà ngoại, một con báo và tên xã hội đen đòi tiền thuê nhà, với các khóa nhận dạng chặt chẽ và tham khảo đạo cụ.
-
-#### 📝 Prompt
-
-```
-REFERENCES: Grandma = bà cụ Hàn Quốc nhỏ thó, lưng còng, 95–100 tuổi (khuôn mặt chính xác, búi tóc trắng cài trâm gỗ, áo jeogori chần bông màu chàm, khăn len xám, váy mận chín, giày gomusin). Thug = tên giang hồ béo phì, nhễ nhại dầu mỡ (khuôn mặt chính xác có sẹo ở lông mày, áo phao đen bóng mở phanh, áo lụa hoa đỏ-đen, dây chuyền vàng, nhẫn vàng, quần thể thao đen, giày sneaker trắng bẩn). Leopard = báo tuyết trưởng thành khổng lồ (bộ lông xám trắng khói chính xác, đốm hoa hồng đen, mắt xanh băng nhạt, đuôi dài dày có vằn). Hut = quán trà trên núi lợp tranh phủ đầy tuyết nằm trên đỉnh đồi với khoảng sân nhỏ ngập tuyết, một con đường mòn uốn lượn xuôi dốc hướng về phía camera, và những dãy núi tuyết mờ sương bạt ngàn bên phải. Giữ nguyên mọi đặc điểm nhận dạng, trang phục, dấu vết và bối cảnh giống hệt bản tham chiếu xuyên suốt. Chỉ có ba sinh vật này tồn tại trong cảnh.
-
-PROP LOCKS: PROP-STICK = cây gậy gỗ màu nâu sẫm sần sùi, luôn nằm trong tay phải của Grandma, bà tựa vào nó mọi lúc. PROP-BOWL = chiếc bát đất nung màu nâu tròn nhỏ đựng những tảng thịt đỏ sống, luôn nằm trong tay trái của Grandma, không bao giờ rơi, không bao giờ thay đổi.
-
-STAGING LOCK: Grandma đứng trong khoảng sân ngập tuyết ngay trước cửa Hut, hướng mặt về phía con đường mòn/camera, trong suốt toàn bộ cảnh; bà không bao giờ bước đi chỗ khác. Thug đi LÊN con đường mòn và dừng lại cách bà 2 mét, LƯNG quay về phía con đường mòn và sườn dốc. Sau đó, Leopard đi lên CHÍNH con đường mòn đó từ sườn dốc phía sau Thug. Tuyết rơi nhẹ nhàng xuyên suốt.
-
-LOOK: ánh sáng ban ngày mùa đông nhiều mây, tuyết trắng xanh lạnh lẽo, ánh sáng hổ phách ấm áp hắt ra từ cửa quán, độ bão hòa thấp, độ tương phản từ thấp đến trung bình, nhiễu hạt điện ảnh, hiệu ứng quầng sáng dịu. Tiếng gió thoảng xung quanh, tiếng tuyết kêu lạo xạo.
-
-PACING: nhịp thoại tiếng Hàn tự nhiên, khoan thai, ngắt nghỉ ngắn giữa các câu; không bao giờ vội vã.
-
-0–6s: Cảnh mở đầu bằng góc máy flycam FPV trên không: bay cao trên những dãy núi tuyết mờ sương bạt ngàn, lướt êm ái qua các rặng thông phủ sương giá và những đám mây trôi, rồi lao xuống duyên dáng dọc theo sườn dốc hướng về phía Hut nhỏ bé phủ đầy tuyết trên đỉnh đồi, giảm tốc và tiến vào cỡ cảnh trung ghi hình Grandma đang đứng trong sân, tựa vào PROP-STICK, tay cầm PROP-BOWL.
-
-6–11s: Grandma đưa mắt nhìn quanh những ngọn đồi, cất tiếng gọi ngọt ngào và âu yếm, như đang gọi con trai ruột của mình:
-Grandma (giọng ngân nga, trìu mến): 「우리 아가~ 밥 먹자… 어디 갔니, 우리 아들~」
-Bà gọi thêm một lần nữa, nheo mắt nhìn về phía các rặng núi, mỉm cười.
-
-11–17s: Tiếng bước chân nặng nề lạo xạo. Thug dậm bước lên con đường mòn, thở hổn hển, cằm hất lên, rồi dừng lại trước mặt bà.
-Thug (thô lỗ, tàn nhẫn): 「할매, 이번 달 자릿세. 빨리 내놔.」
-Grandma bình thản nhìn hắn và khẽ nhếch mép cười tinh quái.
-Grandma (nhún nhường, dịu dàng): 「잠깐만… 우리 고양이 밥 좀 주고. 그다음에 줄게.」
-
-17–22s: Thug khinh khỉnh cười phá lên, chụm ngón cái và ngón trỏ sát nhau trước mặt để chế giễu một thứ gì đó bé tí tẹo.
-Thug (tức tối, mỉa mai): 「그 쪼끄만 망할 고양이 기다릴 시간 없어!」
-Ánh mắt Grandma lướt qua vai hắn nhìn về phía sườn dốc; một nụ cười mãn nguyện, hạnh phúc lan tỏa.
-Grandma (ấm áp): 「아이고… 저기 오네.」
-
-22–30s: Thug vừa quay người lại thì cũng là lúc con báo tuyết khổng lồ lao tới từ sườn dốc phía sau hắn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112833908299677696/img/2Q5Xexo0_Ulc2Edk.jpg" width="600" alt="Hài Kịch Bà Ngoại, Báo và Xã Hội Đen">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12875)**
-
-**Tác giả:** [Syed Abuthahir ∞](https://x.com/abulu8) | **Nguồn:** [Link](https://x.com/abulu8/status/2112834308117324151) | **Đã xuất bản:** Oct 21, 2026
-
----
-### Hài Kịch Slapstick: Nữ Bảo Vệ Ngủ Gật
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả chi tiết cho một cảnh phim hài hước kiểu slapstick, trong đó một nữ bảo vệ đang ngủ vô tình đánh bại những tên trộm, yêu cầu sự nhất quán với hình ảnh tham chiếu.
-
-#### 📝 Prompt
-
-```
-Tạo một cảnh phim hài slapstick mang phong cách điện ảnh, siêu chân thực. Khuôn mặt và trang phục của nữ bảo vệ phải khớp với hình ảnh tham chiếu trong suốt toàn bộ video.
-
-Cảnh 1 (0–3s): Tại cổng kho hàng, một nữ bảo vệ ca đêm đang ngủ say sưa trên ghế, hai chân gác lên thùng gỗ, ngáy khò khò với túi khoai tây chiên ăn dở đặt trên đùi. Năm tên trộm lén lút đột nhập, nhìn cô cười khẩy.
-
-Cảnh 2 (3–8s): Bọn trộm cố lẻn qua mặt cô, nhưng những cử động vô thức của cô lại dễ dàng vung tay quật ngã một tên, ngáng chân tên khác té nhào vào đống thùng, rồi hất văng tên thứ ba đập thẳng vào kệ hàng. Cô vẫn thản nhiên nhai khoai và ngái ngủ lầm bầm: “Chậm quá…”
-
-Cảnh 3 (8–13s): Những tên còn lại run rẩy túm tụm vào nhau trước khi tên cầm đầu lao tới tấn công. Không thèm mở mắt, cô thúc cùi chỏ vào bụng hắn, lẩm bẩm: “Cho xin thêm năm phút nữa.” Hắn gục xuống nằm cạnh đồng bọn.
-
-Cảnh 4 (13–18s): Tên trộm cuối cùng định bỏ chạy, nhưng cú duỗi chân của cô đã ngáng hắn ngã nhào vào đống hộp. Cả năm tên trộm nằm la liệt khắp kho hàng trong khi cô ăn nốt chỗ khoai, ném vỏ túi chuẩn xác vào thùng rác, rồi tiện thể gác chân lên người một tên.
-
-Cảnh 5 (18–23s): Tiếng còi cảnh sát vọng lại gần. Cô hé mở một mắt, lướt nhìn đám trộm bại trận với vẻ mặt tỉnh bơ, lầm bầm: “Biết ngay mà,” rồi lập tức ngủ tiếp. Nước dãi lại chảy ra khi cô ngáy khò khò.
-
-Cảnh 6 (23–30s): Cảnh sát ập vào, thấy đám trộm đã bị hạ gục, trố mắt nhìn nữ bảo vệ đang ngủ say không tin nổi. Một cảnh sát cố đánh thức cô, nhưng cô chỉ uể oải gạt tay anh ta ra. Cảnh cận cuối cùng cho thấy một túi khoai tây chiên mới tinh bí ẩn nằm gọn trên đùi cô, trong khi cô mỉm cười bình yên trong giấc ngủ.
-
-Phong cách: Hài slapstick nhịp độ nhanh, các pha hành động cường điệu nhưng vô hại, biểu cảm sinh động, tạo hình nhân vật nhất quán, chuyển cảnh mượt mà, ánh sáng điện ảnh trong nhà kho, căn chỉnh thời điểm gây cười hoàn hảo và cái kết đầy thỏa mãn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112768240086859776/img/CEpXhdWMSiaYywaS.jpg" width="600" alt="Hài Kịch Slapstick: Nữ Bảo Vệ Ngủ Gật">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12874)**
-
-**Tác giả:** [WasifAI](https://x.com/doctorwasif) | **Nguồn:** [Link](https://x.com/doctorwasif/status/2112768312488902962) | **Đã xuất bản:** Oct 21, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -8316,6 +9307,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-11T22:46:11.684Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-12T06:17:19.874Z</sub>
 
 </div>

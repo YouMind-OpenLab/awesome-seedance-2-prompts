@@ -68,9 +68,9 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6675** |
+| 📝 Toplam İstem | **6678** |
 | ⭐ Öne Çıkan İstemler | **6** |
-| 🔄 Son Güncelleme | **2026-11-11** |
+| 🔄 Son Güncelleme | **2026-11-12** |
 
 ---
 
@@ -361,6 +361,1172 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Çevrimiçi Alışveriş Ev Komedisi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 Mini kullanılarak, iki kadının çevrimiçi alışverişle satın aldıkları ürünlerle kiralık bir daireyi dekore etmesini konu alan 15 saniyelik sinematik komedi videosu oluşturmak için detaylı istem.
+
+#### 📝 İstem
+
+```
+Seedance 2.0 Mini'yi çağırarak; yerel Mandarin ses-görüntü senkronizasyonuna sahip, tam 15 saniyelik, 16:9 yatay formatta, canlı çekim sinematik ve modern bir Çin yaşam komedisi oluşturun.
+
+Bu tur, son dönemin "İnternetten Ev Kurmak" trendinden ilham alıyor.
+
+Bu trendin özü şu: Gençler, mobilya, lamba, beyaz eşya ve günlük ihtiyaçlarını internetten satın alarak başlangıçta bomboş olan yaşam alanlarını yavaş yavaş sevdikleri bir mekâna dönüştürüyor.
+
+Bu film, herkesin kendini bulabileceği bir açı seçiyor:
+
+Ev kiralık olsa da insan yine de içinde bulunduğu anı güzel yaşamak ister.
+
+Hikâye bu duyguyu arkadaşlar arasındaki doğal diyaloglarla aktarıyor ve küçük bir hayat detayıyla komik bir ters köşe yapıyor.
+
+Film, modern ve gerçekçi bir komedi tarzını benimsiyor; zorlama tarihi temalar ya da havada kalan motivasyon cümleleri yok.
+
+Sinematografi ARRI Alexa 35 film kalitesinde; gerçekçi Doğu Asyalı kadın teni, net ve doğal yüz hatları, ince işlenmiş ışık-gölge oyunları, hafif film greni ve samimi bir ev atmosferi sunuyor.
+
+[Bu Turun Anlatım Yöntemi ve Tam Hikâyesi]
+
+İki yakın kız arkadaş buluşur.
+
+Abla gibi olan karakter, kardeşi gibi olanın yeni kiraladığı eve gelir ve birçok koliyle montajı bitmemiş mobilyalarla karşılaşır.
+
+Kardeş heyecanla "internetten ev kurduğunu" ilan eder.
+
+Abla bunu pek anlayamaz.
+
+Kiralık bir eve neden bu kadar emek verilsin ki?
+
+Kardeşin doğal bir şekilde sorduğu soru, ablanın onun bakış açısını bir anda anlamasını sağlar.
+
+Ortam ısınmaya başlamışken abla bu gece burada yemek yemeyi teklif eder.
+
+Kardeş birden mahcup olur.
+
+Çünkü bir sürü dekoratif eşya almıştır ama tencere henüz kargoya verilmemiştir.
+
+İlk yarı bakış açısı farkını kurar, orta bölüm duygusal bağı yakalar, ikinci yarı ise somut bir hayat detayıyla esprili toparlamayı tamamlar.
+
+Sonuç olarak hem iç ısıtan hem de kendimizle dalga geçebildiğimiz doğal bir komedi ortaya çıkar.
+
+[Karakterler ve İlişkiler]
+
+Karakter A: @Image1, Abla ruhlu arkadaş
+
+Önceki Image 1'deki bağımsız yüz kimliğini birebir koruyun.
+
+25-30 yaşlarında yetişkin Doğu Asyalı kadın, uzun boylu ve ince yapılı, zarif ve doğal oval yüz, koyu badem gözler, gerçekçi cilt dokusu, siyah yarım toplu uzun saç.
+
+Fildişi beyazı rahat gömlek, koyu gri pantolon, beyaz spor ayakkabı giyiyor.
+
+Ayakları yere basan, gözlemci ve dobra bir kişiliğe sahip.
+
+Kirada oturmayı küçümsemiyor, sadece pratik düşüncelerle çok fazla para ve enerji harcanmasından endişe ediyor.
+
+Karakter B: @Image2, Kardeş ruhlu arkadaş
+
+Önceki Image 2'deki bağımsız yüz kimliğini birebir koruyun.
+
+20-25 yaşlarında yetişkin Doğu Asyalı kadın, yuvarlak hatlı ve canlı doğal yüz şekli, parlak gözler, siyah örgülü uzun saç, minyon yapı, gerçekçi cilt dokusu.
+
+Petrol yeşili triko üst, bej rahat pantolon, beyaz spor ayakkabı giyiyor.
+
+Enerjik bir kişiliği var, yaşam alanını kendi elleriyle dekore etmeyi seviyor.
+
+Evin kiralık olduğunun farkında ama şimdiden rahat yaşamak istiyor.
+
+Birbirleriyle takılabilen yakın arkadaşlar, aralarında gerçek bir husumet yok.
+
+[Mevcut Mekân ve Uzamsal İlişkiler]
+
+Bu tur için öncelikli olarak gerçekten yüklenen arka plan ve mekân referans görsellerini kullanın; mekân kimliğini, mimari ilişkileri, uzamsal ölçeği, ana malzemeleri, ışık yönünü ve çevresel sürekliliği sabitleyin.
+
+Yeni bir mekân referansı sağlanmadıysa, gerçekçi ve modern bir Çin şehir içi kiralık dairesi oluşturun.
+
+İç mekân net biçimde tanımlanmalı:
+
+Giriş kapısı solda.
+
+Ortada küçük bir oturma alanı.
+
+Duvara yaslanmış altı veya yedi yeni teslim edilmiş karton koli.
+
+Bazı koliler açık.
+
+Yerde montajı bitmemiş ahşap bir sehpa.
+
+Sehpanın yanında paketi açılan küçük bir lamba.
+
+Arka tarafta sade mutfağın girişi görünüyor.
+
+Genel mekân gerçekçi ve yaşanmış hissi vermeli, depo gibi yığılmamalı.
+
+Doğal iç mekân ışığı ile dışarıdan gelen güneş ışığının karışımı, hafifçe hareket eden perdeler, uzaktan gelen şehir ambiyans sesi.
+
+Tüm çevresel dinamikler anlatı açısından nötr kalmalı.
+
+[0-5s: Modern Espri Kancası ve Açılış]
+
+Çekim 1: İç mekân geniş plan, giriş kapısına dönük.
+
+Kamera kiralık dairenin içinden çekim yapıyor.
+
+Kapı açılır.
+
+Aynı @Image1 abla karakteri dışarıdan içeri girer.
+
+Doğal adımlarla ilerler, aniden oturma odasındaki birçok teslimat kolisini ve montajı bitmemiş mobilyaları fark eder.
+
+İstemsizce durur.
+
+Kamera hem onun şaşkın ifadesini hem de arkasındaki kolileri gösterir.
+
+Aynı @Image2 kardeş karakteri yerde oturmuş, neşeyle yeni aldığı küçük lambanın paketini açıyor.
+
+Abla ona bakar, şaşkınlıkla sorar:
+
+Abla: "Ne kadar şey aldın böyle?"
+
+Kardeş başını kaldırır, gururlu bir ifadeyle:
+
+Kardeş: "İnternetten ev kuruyorum!"
+
+Abla odayı tekrar süzer.
+
+Gözlerinde şaşkınlık ve biraz da kafa karışıklığı vardır.
+
+Orijinal internet mizahını doğrudan açılış kancası olarak kullanın.
+
+Seyircinin evini online alışverişle dekore ettiğini hemen anlamasını sağlayın.
+
+[5-10s: Karakter Hareketleri ve Asıl Performans]
+
+Çekim 2: Sabit orta plan, iki karakterli ilişki mizanseni.
+
+Aynı daireyi, konumu ve ışığı koruyun.
+
+Abla kolilere yaklaşır, rastgele küçük bir paketi eline alır.
+
+Montajı bitmemiş sehpaya, sonra kardeşe bakar.
+
+Tanıdıklar arasındaki çok doğal bir tonla sorar:
+
+Abla: "Kiralık ev, değer mi bunca şeye?"
+
+Kardeş lambanın paketini açıyordu.
+
+Bunu duyunca kısa bir an duraksar.
+
+Başını kaldırıp ablasına bakar, sesi ne kızgın ne de alınmıştır.
+
+Doğrudan cevap verir:
+
+Kardeş: "Düzgün yaşamak için illa ev mi satın almamız gerekiyor?"
+
+Kısa ama doğal bir es bırakın.
+
+Abla tartışmaya devam etmez.
+
+Kardeşin bizzat seçtiği eşyalara bakar.
+
+Baştaki şüpheleri yavaş yavaş anlayışa dönüşür.
+
+Paketi usulca bırakır, yardım etmeye gönüllü hale gelir.
+
+Duygusal müzik yok.
+
+Uzun açıklamalar yok.
+
+Tutum değişimini bakışların kayması ve paketi bırakma hareketiyle gösterin.
+
+[10-15s: Vurucu Cümle, Ters Köşe ve Duygusal Toparlanma]
+
+Çekim 3: İki karakterin yakın çekimi, arka planda mutfak girişi korunmalı.
+
+Abla artık kardeşin fikrini kabullenmiştir.
+
+Doğal bir gülümsemeyle, rahatça sorar:
+
+Abla: "Tamam o zaman, bu akşam sende mi yesek?"
+
+Kardeş hâlâ heyecanla az önce paketini açtığı küçük lambayı tutuyordu.
+
+Bunu duyunca olduğu yerde donup kalır.
+
+Gözlerinde anlık bir suçluluk hissi belirir.
+
+Ablasına, sonra arkadaki mutfağa bakar.
+
+Ardından mahcup bir şekilde der:
+
+Kardeş: "Tencere daha kargoya verilmemiş."
+
+Bu replik son derece doğal olmalı.
+
+Vurucu espriyi abartılı hareketlerle yaratmayın.
+
+Kamera kısa bir süre sessiz kalır.
+
+Abla yavaşça boş mutfağa bakar.
+
+Sonra yanındaki mobilya ve dekorasyon yığınlarına.
+
+Tamamen nutku tutulur.
+
+Kardeş gülmesini bastırır, hafif utangaç bir ifade takınır.
+
+Abla onu azarlamaz, sessizce telefonunu çıkarıp yemek sipariş eder.
+
+Kardeş küçük lambayı yanına koyar, gülmekten kendini alamaz.
+
+Abla da onun haline gülümser.
+
+Ekran kararır.
+
+Final, "bir sürü dekoratif mobilya alıp tencereyi unutmak" üzerinden hafif bir hayat ironisi yaratır.
+
+Ekstra diyalog eklenmemeli.
+
+[Oyunculuk ve Mandarin Diyaloglar]
+
+Filmin tamamında yalnızca altı doğal Mandarin replik kullanılacak:
+
+Abla: "Ne kadar şey aldın böyle?"
+
+Kardeş: "İnternetten ev kuruyorum!"
+
+Abla: "Kiralık ev, değer mi bunca şeye?"
+
+Kardeş: "Düzgün yaşamak için illa ev mi satın almamız gerekiyor?"
+
+Abla: "Tamam o zaman, bu akşam sende mi yesek?"
+
+Kardeş: "Tencere daha kargoya verilmemiş."
+
+Doğal konuşma hızı, üç farklı zaman aralığında ayrı ayrı tamamlanacak, ekstra açıklayıcı replik olmayacak.
+
+İlk bölüm: abla şaşkın, kardeş gururlu.
+
+İkinci bölüm: abla sorguluyor, kardeş düşüncelerini sakin bir şekilde ifade ediyor.
+
+Üçüncü bölüm: abla anlıyor, kardeş aniden suçluluk duyuyor, ikisi de doğal gülümsemelerle sahneyi bitiriyor.
+
+Karakterleri aşırı tatlı kısa dizi rolleri gibi canlandırmayın.
+
+[Kamera ve Kurgu]
+
+Filmin tamamında işlevi net üç çekim kullanılacak.
+
+0-5s arasında teslimat ve kiralık mekân ilişkisini göstermek için geniş plan.
+
+5-10s arasında bakış açısı farklılıklarını merkeze almak için çift karakterli orta plan.
+
+10-15s arasında lamba, yüz ifadeleri ve mutfakla tam bir görsel zıtlık oluşturmak için çift yakın çekim.
+
+Kamera hareketleri ölçülü olmalı, hafif yaklaşma ve doğal kaydırmalar kullanılabilir.
+
+Sabit çekim eksenini ve karakterlerin sol-sağ konum ilişkisini koruyun.
+
+Finalde aniden mekân değiştirilmemeli veya ekstra fantezi sahneleri gösterilmemeli.
+
+[Ses Tasarımı]
+
+Yerel senkronize Mandarin diyalogları.
+
+Tüm sesler doğru karakterlere ait olmalı, dudak senkronizasyonu kusursuz olmalı.
+
+Doğal ortam sesleri şunları içerir:
+
+Kapının açılması/kapanması.
+
+Karton ve ambalajın hafif sürtünme sesi.
+
+Ayak sesleri.
+
+Lamba ambalajıyla temas sesi.
+
+Kıyafet hışırtısı.
+
+İç mekân ambiyans gürültüsü.
+
+Son olarak hazır kahkaha efekti (canned laughter) kesinlikle olmamalı.
+
+İki kız kardeş arasında bir kez hafif ve doğal bir gülüşmeye izin verin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120740975878569984/img/idzktqO2eZUN37x7.jpg" width="600" alt="Çevrimiçi Alışveriş Ev Komedisi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13744)**
+
+**Yazar:** [𝕊𝖔ʳᵃɴ](https://x.com/Soranlan) | **Kaynak:** [Link](https://x.com/Soranlan/status/2120744354654691798) | **Yayınlandı:** Nov 12, 2026
+
+---
+### Sessiz Zafer Çanı Sahnesi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 Mini kullanılarak, uyuyan hayatta kalanları korumak için zafer çanının susturulduğu 15 saniyelik sinematik bir Xianxia draması için prompt.
+
+#### 📝 İstem
+
+```
+[Tam Çince Karşılık Gelen İstem]
+
+[Genel Tarz ve Temel Hikâye]
+
+Eser: "Bu Sesi, Borçlu Kalalım"
+
+15 saniyelik, canlı çekim sinema kalitesinde, Çin Xianxia türünde sürpriz sonlu video.
+
+16:9 yatay ekran, Seedance 2.0 Mini, ana dilde Mandarin ses-görüntü senkronizasyonu.
+
+Arri Alexa 35 sinematik fotoğraf dokusunu benimseyin; gerçek yetişkin Doğu Asyalı oyuncular, doğal cilt dokuları, zarif ipek kumaşlar, gerçekçi metal objeler, doğal hacimsel aydınlatma ve hava derinliğine sahip sinematik bir mekân kullanın.
+
+Genel duygu durumu ölçülü olmalı; önce görkemli bir zafer töreni kurulmalı, ardından çok küçük bir hareketle izleyicinin bu zaferin en önemli sonucunun ne olduğunu yeniden kavraması sağlanmalıdır.
+
+Hikâye Öncülü
+
+On yıllık savaşın ardından tarikat nihayet kesin bir zafer kazandı.
+
+Üstat, zaferi simgeleyen çan tokmağını Kılıç Ölümsüzü Kıdemli Kız Kardeş'e uzattı.
+
+Kıdemli Kız Kardeş, devasa bronz zafer çanını çalarak zaferi herkese duyurmaya hazırlandı.
+
+Tam çan tokmağı inecekken, Küçük Kız Kardeş aniden onu durdurdu.
+
+Kalabalığın gözünde bu, akıl almaz bir hareketti.
+
+On yıl süren zorlu savaş, nihayet beklenen dönüşü getirmişti.
+
+Neden tek bir çanı çalmalarına bile izin verilmiyordu?
+
+Gerçek cevap, zafer çanının hemen arkasındaydı.
+
+Savaştan sağ kurtulan yaralılar ve çocuklar nihayet uykuya dalmıştı.
+
+Günlerce kaçmış, dehşet ve kıyım yaşamışlardı.
+
+Çok fazla alarm çanı, savaş davulu ve yardım çığlığı duymuşlardı.
+
+Şu anda en değerli şey, sessizce uyuyabilmekti.
+
+Küçük Kız Kardeş zaferi inkâr etmedi.
+
+Sadece zaferin aslında neyi koruduğunu herkesten önce fark etti.
+
+Durumu kavrayan Kıdemli Kız Kardeş, çan tokmağını indirmeyi seçti.
+
+Sonunda, kulakları sağır eden zafer çanının yerini sessiz bir kırmızı ipek kurdele aldı.
+
+Temel Sürpriz Son: "Kutlamayı neden durdurdu?" sorusundan "Aslında bizzat zaferin kendisini koruyordu." gerçeğine geçiş.
+
+Aniden beliren kötü karakterler yok.
+
+Kimlik ifşaları, sahte ölümler, tarikat komploları veya doğaüstü mucizeler yok.
+
+Hikâyenin gücünü karakterlerin seçimleri taşısın.
+
+[Karakterler ve İlişkiler]
+
+Karakter A: @Image1, Kılıç Ölümsüzü Kıdemli Kız Kardeş
+
+Daha önce onaylanan aynı karakteri birebir yansıtın.
+
+25-30 yaşlarında yetişkin Doğu Asyalı kadın.
+
+Açık tenli, doğal yumuşak oval yüz, koyu badem gözler, yarısı toplanmış uzun siyah saçlar, beyaz yeşim saç tokasıyla sabitlenmiş, uzun ve ince yapılı.
+
+Her zaman aynı beyaz işlemeli ipek Hanfu setini giyer; yarı saydam katmanlı geniş kollar, gümüş kemer, yeşim kolye ucu ve beyaz bez çizmeler.
+
+Yalnızca tek bir gümüş uzun kılıç taşır.
+
+Bu filmde kılıcını asla çekmez.
+
+Tarikatı uzun bir savaş boyunca yönetti ve nihayet zor kazanılmış bir zafere ulaştı.
+
+Bu nedenle zafer çanını çalma arzusu tamamen gerçektir.
+
+Kıdemli Kız Kardeş savaşın acısını yanlış anlamaz.
+
+Sadece o an dikkati, nihayet tamamlanan zafere odaklanmıştır.
+
+Küçük Kız Kardeş onu durdurduğunda önce şaşırır.
+
+Ardından, doğrudan gözlem yaparak kararını aktif biçimde değiştirir.
+
+Karakter Durum Değişimleri:
+
+On yıllık bekleyişin sona ermesinin ardından gelen rahatlama;
+
+Durdurulduktan sonra yaşanan kafa karışıklığı;
+
+Gözden kaçırdığı detayları keşfetmesi;
+
+Çanı çalmaktan aktif olarak vazgeçmesi;
+
+Kutlamayı başka bir şekilde tamamlaması.
+
+Karakter B: @Image2, Küçük Kız Kardeş
+
+Daha önce onaylanan aynı karakteri birebir yansıtın.
+
+20-25 yaşlarında yetişkin Doğu Asyalı kadın.
+
+Yuvarlak parlak yüz, örgülü siyah saçlar, minyon yapılı.
+
+Her zaman yeşil keten Hanfu, koyu renk kemer, ahşap saç tokası ve siyah bez ayakkabılar giyer.
+
+Yalnızca tek bir koyu renkli çelik kılıç taşır.
+
+Bu filmde kılıcını asla çekmez.
+
+Küçük Kız Kardeş bu olaydan önce yaralılara yardım ediyordu.
+
+Bu insanların bütün gece uyuyamadığını, savaş yüzünden irkilerek uyandığını gördü.
+
+Çan sesinin onları tekrar uyandıracağını biliyor.
+
+Bu yüzden, Kıdemli Kız Kardeş çanı çalmadan önce bunu durdurmak zorunda.
+
+Kıdemli Kız Kardeş'i ikna etmek için önceden hazırladığı bir konuşması yok.
+
+Sadece nazikçe Kıdemli Kız Kardeş'in bileğini tuttu.
+
+Sonra onun kendi gözleriyle görmesini ve kulaklarıyla duymasını sağladı.
+
+Kıdemli Kız Kardeş'in eninde sonunda anlayacağına güveniyor.
+
+Yeni Yardımcı Karakterler
+
+Yaşlı Üstat:
+
+Yetişkin Doğu Asyalı erkek, koyu mavi kadim cübbe giyiyor.
+
+Tarikatın büyüğü olarak, zafer çanı tokmağını bizzat Kıdemli Kız Kardeş'e teslim etti.
+
+O da zafer törenini bekliyordu, bu yüzden Küçük Kız Kardeş'in ani müdahalesi karşısında donup kaldı.
+
+Ardından, dinlenen yaralıları ve çocukları görünce çanın çalınmaması kararını gönüllü olarak benimsedi.
+
+Üstat'ı aniden öfkeli, zalim bir kötü karaktere dönüştürmeyin.
+
+İki Tarikat Müridi:
+
+Savaştan dönmüşler, yüzleri yorgun ama gerçek bir zafer sevinci taşıyorlar.
+
+Uzakta konumlanmışlar.
+
+Kalabalık hissini vermekten sorumlular, sahneyi çalmamalılar.
+
+Dinlenen Yaralılar ve Çocuklar:
+
+Birkaç bitkin sıradan sivil ve iki çocuk.
+
+Basit sargıları olabilir, alçak hasırların üzerinde uzanmışlar, sade bez battaniyelerle örtülmüşler.
+
+Kanlı yaralar gösterilmemeli.
+
+Gerçekten yorgunluk yaşamış insanlar gibi doğal bir şekilde uyumalılar.
+
+Bir çocuk, katlanmış küçük bir mendili hafifçe kavramış, yaşlıca bir kadının omzuna yaslanmış.
+
+Sahne için çok sayıda figürana gerek yok.
+
+[Mevcut Konum ve Mekânsal İlişkiler]
+
+Bu turda yüklenen tüm arka planlar ve konum referans görselleri, videoda gerçekten var olan fiziksel dünya olarak kabul edilmelidir.
+
+Bunlara yalnızca görsel bir ilham kaynağı olarak davranılamaz.
+
+Önce referans görsellere göre birleşik bir ortam oluşturun:
+
+Gerçek arazi;
+
+Ana mimari mekânsal ilişkiler;
+
+Yollar ve geçilebilir alanlar;
+
+Fiziksel ölçek;
+
+Malzemelerin yaşı;
+
+Bitki örtüsü ve su kütleleri;
+
+Hava durumu ve bulutlar;
+
+Sis;
+
+Ana ışık yönü;
+
+Yansımalar;
+
+Renk ve hava derinliği.
+
+Referans konum içinde, geçici bir zafer törenini mantıklı bir şekilde barındırabilecek stabil bir zemin alanı seçin.
+
+Referans konumun ana simge yapılarını ve bina strüktürlerini keyfi olarak değiştirmeyin.
+
+Temel Mekân Düzeni
+
+Büyük, kadim bir bronz zafer çanı basit bir ahşap iskeleye asılı.
+
+Çanın yanında ahşap bir çan tokmağı var.
+
+Henüz tam açılmamış kırmızı bir zafer ipek kurdelesi, ahşap iskeleye önceden bağlanmış.
+
+Bu kırmızı ipek, ilk kareden itibaren fiziksel olarak var olmalı.
+
+Zafer çanının arkasında basit, geçici bir barınak alanı bulunuyor.
+
+Basit bir perde ve zafer çanının geniş dairesel yüzeyi, izleyicinin barınak alanını doğrudan görmesini engelliyor.
+
+Yaralılar ve çocuklar açılıştan itibaren orada dinleniyor.
+
+Sadece başlangıç kamerası onların tamamını göstermiyor.
+
+İkinci çekim, doğal bir yatay hareketle bunu hem izleyiciye hem de karakterlere aynı anda ortaya çıkarıyor.
+
+Bu ani bir mekân değişikliği veya yeni bir kalabalığın aniden belirmesi değil.
+
+Çevresel Dinamikler
+
+Rüzgâr; kolları, uzun saçları, kırmızı ipeği ve bitki örtüsünü doğal bir şekilde hareket ettirir.
+
+Uzaktaki su kütleleri, bulutlar/sis ve arka plandaki figürler makul bir hareketliliği korur.
+
+Doğal ışık yönü sabit kalır.
+
+Arka plan; ön plan, orta plan ve arka plan boyunca canlılığını korur.
+
+Ancak çevre, aktif olarak sürpriz sonlar yaratmaz.
+
+Bu hikâye, karakterlerin kendi eylemleriyle ilerler.
+
+[İlk İzlenim ve Temel İpuçları]
+
+İzleyicinin başlangıçta gördükleri:
+
+Zafer töreni hazır.
+
+Üstat çan tokmağını bizzat teslim ediyor.
+
+Kıdemli Kız Kardeş büyük bir ciddiyetle çanı çalmaya hazırlanıyor.
+
+Küçük Kız Kardeş aniden onu durduruyor.
+
+Bu davranışı, kutlamayı reddetmek, hatta on yıl sonra gelen nadir bir onur anını mahvetmek olarak anlaşılacak.
+
+Baştan mevcut olan üç temel detay
+
+Birincisi: Zafer çanının boyutu.
+
+Çıkaracağı sesin mutlaka yüksek olması gereken kadar büyük.
+
+Bu nedenle çanın çalınmasını durdurmanın net bir pratik anlamı var.
+
+İkincisi: Arkadaki barınak alanı.
+
+İlk kareden itibaren gerçekten var, ancak bronz çan ve perde tarafından gizlenmiş.
+
+İkinci çekim sadece gözlem açısını değiştiriyor.
+
+Üçüncüsü: Kırmızı zafer ipek kurdelesı.
+
+Açılıştan itibaren çan iskelesinde asılı duruyor.
+
+Sonda, Kıdemli Kız Kardeş onu indirip açarak sessiz bir zafer ilanını tamamlıyor.
+
+Tüm bu sürpriz son; yeni doğaüstü yetenekler, yeni karakter sırları veya aniden beliren önemli objeler kullanmıyor.
+
+[0–5 Saniye: Açılış Kancası ve İlk Çatışma]
+
+Kare Boyutu: Tam Kare'den Orta Kare'ye yaklaşma (Push-in).
+
+Kamera: 35mm lens, stabil ve yavaş yaklaşma.
+
+Açılış doğrudan hazırlanmış zafer törenine girer.
+
+Geniş bir bronz zafer çanı ahşap bir iskelede asılıdır.
+
+Bronz çan yüzeyi, kadim dökümden gelen gerçek dokuları ve zamandan kaynaklanan yıpranmayı korur.
+
+Ahşap iskelenin yanına kırmızı bir zafer ipek kurdelesı bağlanmıştır.
+
+Yaşlı Üstat, ahşap çan tokmağını Kılıç Ölümsüzü Kıdemli Kız Kardeş'e uzatır.
+
+Kıdemli Kız Kardeş elini uzatıp yakalar.
+
+O bronz çana bakar.
+
+Gözlerinde, uzun bir seferin nihayet bitmesinin ardından gelen bir yorgunluk ve rahatlama vardır.
+
+Üstat usulca söyler:
+
+Üstat: "On yıl, çal onu."
+
+Kıdemli Kız Kardeş çan tokmağını yavaşça kaldırır.
+
+Tüm hareketler gerçek vücut mekaniğine uygundur.
+
+Tam çan tokmağı çan yüzeyine değecekken—
+
+Küçük Kız Kardeş aniden yarım adım öne çıkar, elini uzatarak Kıdemli Kız Kardeş'in sağ bileğini nazikçe ama sıkıca kavrar.
+
+Çan tokmağı durur.
+
+Darbe olmaz.
+
+Çan sesi çıkmaz.
+
+Küçük Kız Kardeş: "Kıdemli Kız Kardeş, çalma."
+
+Üstat anında donup kalır.
+
+Kıdemli Kız Kardeş yavaşça başını çevirir.
+
+Öfkeli değildir.
+
+Sadece Küçük Kız Kardeş'in onu tam bu anda durdurmasını beklemiyordur.
+
+Bakışlarında belirgin bir şaşkınlık okunur.
+
+İkisi göz göze geldiğinde kamera kesilir.
+
+Bu noktada izleyici doğal olarak şunu sorgulamalıdır:
+
+Madem kazandık, neden çanı çalmamıza izin verilmiyor?
+
+[5–10 Saniye: Karakter Eylemi ve Durum Değişikliği]
+
+Kare Boyutu: Orta Kare.
+
+Kamera: Hafif yatay hareket; önce iki kadın arasındaki yüz ilişkisini korur, ardından bronz çanın kenarından arkadaki mekânı ortaya çıkarır.
+
+Kıdemli Kız Kardeş'in sağ eli hâlâ çan tokmağını tutmaktadır.
+
+Küçük Kız Kardeş hâlâ bileğini nazikçe kavramıştır.
+
+Kıdemli Kız Kardeş, Küçük Kız Kardeş'e bakar:
+
+Kıdemli Kız Kardeş: "Neden?"
+
+Küçük Kız Kardeş kendini savunmak için acele etmez.
+
+Kıdemli Kız Kardeş'in bileğini yavaşça bırakır.
+
+Sonra bir parmağını kaldırıp nazikçe dudaklarına yaklaştırır.
+
+Kıdemli Kız Kardeş'e sessiz olmasını işaret eder.
+
+Küçük Kız Kardeş: "Dinle."
+
+Bu anda, uzaktaki silik kutlama sesleri giderek kısılır.
+
+Ses tasarımı, karakterlerin şunları fark etmeye başlamasını sağlar:
+
+Hafif nefes sesleri;
+
+Düşük ve düzenli uyku nefesleri;
+
+Rüzgârın taşıdığı hafif kumaş sürtünme sesleri.
+
+Kamera, bronz zafer çanının kenarı boyunca doğal bir şekilde yatay kayar.
+
+Başlangıçta çan gövdesi ve perde tarafından gizlenen alan yavaşça görünür hale gelir.
+
+Burası başka bir mekân değildir.
+
+Başından beri çan iskelesinin arkasındadır.
+
+Birkaç yaralı sivil ve çocuk geçici hasırların üzerinde uzanmaktadır.
+
+Derin bir uykudadırlar.
+
+Bir çocuk, katlanmış küçük bir mendili sıkıca kavramıştır.
+
+Başı, doğal bir şekilde yanındaki yaşlıca kadının omzuna yaslanmıştır.
+
+Kimse konuşmaz.
+
+Kimse ağlamaz.
+
+İzleyici; yorgunluklarından, sargılarından ve duruşlarından, uzun süredir korku ve kaçış yaşadıklarını anlayabilir.
+
+Kıdemli Kız Kardeş'in bakışları, Küçük Kız Kardeş'in işaret ettiği yöne kayar.
+
+Sonunda bu insanları görür.
+
+Havada asılı kalan çan tokmağı, inişini geciktirerek havada durmaya devam eder.
+
+Bu anda Kıdemli Kız Kardeş'in duyguları değişir.
+
+Artık sadece zaferi simgeleyen bronz çana bakmamaktadır.
+
+Koruduğu insanları gerçekten görmektedir.
+
+[10–15 Saniye: Temel Sürpriz Son ve Duygusal Doruk]
+
+Kare Boyutu: Yakın Çekim.
+
+Kamera: Stabil yakın çekim kompozisyonu; karakter yüzleri, elde tutulan çan tokmağı ve kırmızı ipek arasında doğal odak geçişleri yapar.
+
+Aynı karakterleri, aynı ışığı, aynı bronz çanı ve tamamen tutarlı coğrafi mekânı koruyun.
+
+Küçük Kız Kardeş, Kıdemli Kız Kardeş'in yanında durur.
+
+Başka bir şey söylemez.
+
+Sadece sessizce Kıdemli Kız Kardeş'in kendi kararını vermesini bekler.
+
+Kıdemli Kız Kardeş çan tokmağını yavaşça indirir.
+
+Hareketi çok hafiftir.
+
+Tokmağı dikkatlice çan iskelesinin yanına bırakır.
+
+Ahşabın standa teması sadece çok hafif bir ses çıkarır.
+
+Yaşlı Üstat, bronz çanın kenarından arkadaki uyuyan kalabalığı çoktan görmüştür.
+
+O da hiçbir şey söylemez.
+
+Bakışları Kıdemli Kız Kardeş'ten o çocuklara kayar.
+
+Töreni yönetmeye hazırlanan beden duruşu yavaşça gevşer.
+
+Kıdemli Kız Kardeş elini uzatıp, açılıştan beri ahşap iskelede duran kırmızı zafer ipek kurdelesini alır.
+
+Kırmızı ipeği nazikçe açar.
+
+Ardından bronz çanın tepesine örter, kurdele doğal bir şekilde aşağı sarkar.
+
+Kırmızı ipek rüzgârda hafifçe dalgalanır.
+
+Çan hâlâ çalmaz.
+
+Kıdemli Kız Kardeş uyuyan çocuklara bakar.
+
+Son derece usulca söyler:
+
+Kıdemli Kız Kardeş: "Bu sesi, borçlu kalalım."
+
+Bunu kahramanca bir bildiri gibi söylemeyin.
+
+Bu cümle, iki kişi arasındaki sakin bir anlaşma gibi olmalı.
+
+Küçük Kız Kardeş'in başlangıçta gergin olan omuzları nihayet hafifçe düşer.
+
+Üstat yanlarında durur.
+
+Hiçbir konuşma yapmaz.
+
+Sadece sessizce izler.
+
+Son Kare
+
+Ön Plan:
+
+Asılı duran devasa, hareketsiz bronz zafer çanı.
+
+Zaferi simgeleyen kırmızı ipek kurdele çan yüzeyinde asılı.
+
+Orta Plan:
+
+Yan yana duran Kılıç Ölümsüzü Kıdemli Kız Kardeş ve Küçük Kız Kardeş.
+
+Ne kılıçlarını kaldırırlar ne de yüksek sesle bağırırlar.
+
+Arka Plan:
+
+Savaştan yeni sağ çıkan yaralılar ve çocuklar hâlâ sessizce uyuyor.
+
+Hafif bir esinti kırmızı ipeği nazikçe dalgalandırır.
+
+Doğal ışık, bronz çanın eskimiş yüzeyinde gezinir.
+
+Ekran kararır.
+
+On yıllık savaş nihayet kazanıldı.
+
+Ancak bugünkü zafer kulakları sağır eden bir ses çıkarmadı.
+
+Çünkü biri nihayet huzurla uyuyabilirdi.
+
+[Oyuncu Performansı ve Diyaloglar]
+
+Filmin tamamında yalnızca beş satırlık ana dilde Mandarin diyalog vardır.
+
+Üstat: "On yıl, çal onu."
+
+Tonu düşüktür, uzun bir bekleyişin ardından gelen rahatlama duygusunu barındırır.
+
+Küçük Kız Kardeş: "Kıdemli Kız Kardeş, çalma."
+
+Acil ama kibardır.
+
+Amacı Kıdemli Kız Kardeş'in otoritesine meydan okumak değil, o anki eylemi durdurmaktır.
+
+Kıdemli Kız Kardeş: "Neden?"
+
+Şaşkın, kafası karışmış, tonu çok hafif kontrol altında.
+
+Küçük Kız Kardeş: "Dinle."
+
+Daha düşük ses seviyesi, karşı tarafın gerçeği kendisinin keşfetmesini sağlar.
+
+Kıdemli Kız Kardeş: "Bu sesi, borçlu kalalım."
+
+Sesi hafif ve kararlıdır.
+
+Bu, durumu kavradıktan sonra bilinçli olarak verdiği karardır.
+
+Tüm karakter diyalogları doğal, net ve fiilen konuşan rolün dudak hareketleriyle birebir eşleşmelidir.
+
+Konuşmayan karakterler nedensiz yere ağızlarını açmamalıdır.
+
+Dış ses veya açıklayıcı ek diyaloglar eklemeyin.
+
+[Kamera ve Kurgu]
+
+Üç segmentin belirgin görsel işlevleri vardır.
+
+Birinci Çekim: Zafer çanını karenin merkezi yapın.
+
+Boyutu, bakır dokusu, Üstat'ın tokmağı teslim etmesi ve Kıdemli Kız Kardeş'in tokmağı kaldırması aracılığıyla zafer töreninin görkemini kurun.
+
+Küçük Kız Kardeş'in aniden elini uzatması, izleyicide oluşan beklentiyi kesintiye uğratır.
+
+İkinci Çekim: Yatay hareketle izleyicinin gördüğü dünyayı değiştirin.
+
+Yoktan yeni ortamlar yaratmayın.
+
+Sadece kamera hareket ettikçe zaten var olan barınak alanını ortaya çıkarın.
+
+Görsel ağırlık, zaferi simgeleyen devasa bronz çandan, küçük ölçekli ve sessizce uyuyan insanlara kayar.
+
+Üçüncü Çekim: Karakterler sürpriz sonu yeni eylemlerle tamamlar.
+
+Kıdemli Kız Kardeş çan tokmağını indirir.
+
+Baştan beri var olan kırmızı ipeği alır.
+
+Zafer ilanını sessizce tamamlar.
+
+Abartılı ağır çekimlere ve karmaşık dairesel kamera hareketlerine bel bağlamayın.
+
+Kamera stabil, net ve kesintisiz olmalıdır.
+
+Makul düzeyde sığ alan derinliğine izin verin, ancak temel eylemleri ve önemli objeleri tanınmaz hale getirmeyin.
+
+[Ses Tasarımı]
+
+Ses, bu sürpriz sonun önemli bir parçasıdır.
+
+Segment 1
+
+Doğal çevre sesleri ve son derece ölçülü zafer atmosferi sesleri.
+
+Uzaktaki yorgun kalabalık arasında kısık konuşmalar olabilir, ancak büyük çaplı tezahürat olmamalıdır.
+
+Çan tokmağı kaldırıldığında, ucuz bir gerilim yaratmak için güçlü davul vuruşları kullanmayın.
+
+Segment 2
+
+Küçük Kız Kardeş "Dinle" dedikten sonra, uzaktaki insan seslerini ve müziği kademeli olarak kısın.
+
+Dikkati barınak alanına kaydırın.
+
+Gerçek nefes seslerini, hafif kumaş sürtünme seslerini ve referans konumla uyumlu doğal çevre seslerini koruyun.
+
+Sesteki sessizliğin, karakterlerin anlayış değişiminin bir parçası olmasını sağlayın.
+
+Segment 3
+
+Çan sesi yok.
+
+Aniden yükselen duygusal bir müzik yok.
+
+Sadece çan tokmağının hafifçe bırakılmasını, ipeğin bronz çana sürtünmesini, hafif esintiyi ve çevre seslerini koruyun.
+
+Kıdemli Kız Kardeş'in son repliği:
+
+"Bu sesi, borçlu kalalım."
+
+Net dudak hareketleri, gerçek nefes ve doğal bir ses seviyesine sahip olmalıdır.
+
+Diyalog bittikten sonra kısa bir sessizlik korunsun.
+
+[Karakter, Obje ve Çevre Sürekliliği]
+
+Karakterler:
+
+@Image1 ve @Image2; yüz, yüz oranları, saç stili, kıyafet, vücut oranları, kılıç ve karakter mizacı açısından baştan sona aynı kalmalıdır.
+
+Kıdemli Kız Kardeş, 1. ve 2. çekimlerde çan tokmağını sağ elinde tutar.
+
+Küçük Kız Kardeş, Kıdemli Kız Kardeş'in sağ tarafından yaklaşır ve bileğini tutar.
+
+Konum değişiklikleri gerçek hareket yollarına uygun olmalıdır.
+
+Yardımcı karakterler, yalnızca sahadaki konumlarıyla tutarlıysa kareye girer.
+
+Çan Tokmağı:
+
+Başlangıçta Üstat'tan Kıdemli Kız Kardeş'e verilir.
+
+Kıdemli Kız Kardeş tarafından kaldırılır.
+
+Küçük Kız Kardeş tarafından durdurulur.
+
+Kıdemli Kız Kardeş tarafından tutulur.
+
+Sonunda bırakılır.
+
+Tüm bu süreçte anlık el değişimi, tokmağın kaybolması veya yoktan var olması kesinlikle olmamalıdır.
+
+Bronz Zafer Çanı:
+
+Her zaman aynı bronz çan olmalıdır.
+
+Çan gövdesi oranları, ahşap iskele, malzeme dokusu, asılı olduğu yükseklik ve mekânsal konum tutarlı kalmalıdır.
+
+Filmin tamamında çan tokmağı asla çan yüzeyine değmez.
+
+Kırmızı İpek:
+
+İlk çekimden itibaren çan iskelesinde mevcuttur.
+
+Sonunda bizzat Kıdemli Kız Kardeş tarafından açılır ve bronz çanın üzerine örtülür.
+
+Sonda yoktan var edilemez.
+
+Barınak Alanı:
+
+Açılıştan itibaren çan iskelesinin arkasında gerçekten mevcuttur.
+
+Yataklar, kişi sayısı, çocukların konumları ve perdeler mekânsal sürekliliği korur.
+
+İkinci çekimde kamera perspektifi değişikliğiyle ortaya çıkar.
+
+Uyuyan çocuklar ve yaralılar, filmin sonunda da uyumaya devam eder.
+
+Arka Plan:
+
+Her zaman bu turun gerçek konum referans görsellerine uyar.
+
+Arazi kimliğini, mimari mekânsal ilişkileri, ana ışığı, hava durumunu, malzemeleri ve çevresel ölçeği koruyun.
+
+Doğal rüzgâr, su, sis, bitki örtüsü, saç telleri, kollar ve kırmızı ipek gerçekçi bir şekilde hareket etmeye devam eder.
+
+Arka plan, aktif olarak yeni dramatik olaylar yaratmaz.
+
+[Seedance 2.0 Mini Uygulama Gereksinimleri]
+
+Seedance 2.0 mini modelini çağırarak tam 15 saniyelik, 16:9 yatay formatta, canlı çekim sinema kalitesinde, Çin Xianxia türünde sürpriz sonlu bir kısa film oluşturun.
+
+Temel Çekim Dizilimi:
+
+0–5sn: Üstat tokmağı verir, Kıdemli Kız Kardeş tokmağı kaldırır, Küçük Kız Kardeş aniden durdurur.
+
+5–10sn: Küçük Kız Kardeş, Kıdemli Kız Kardeş'ten dinlemesini ister, kamera arkadaki sessizce uyuyan yaralıları ve çocukları ortaya çıkarır.
+
+10–15sn: Kıdemli Kız Kardeş tokmağı indirir, kırmızı ipeği açar, son diyalog repliğiyle duygusal doruğu tamamlar.
+
+Üç çekim arasında kamera ekseni, karakter konumlandırması, bakış yönleri, obje pozisyonları, ışık yönü ve çevresel mekânın stabilitesini ve sürekliliğini sağlayın.
+
+Aşağıdaki gözle görülür derecede gerçek sonuçların garantisine odaklanın:
+
+Küçük Kız Kardeş, çan tokmağı bronz çana değmeden önce Kıdemli Kız Kardeş'i başarıyla durdurmalıdır.
+
+Kamera, daha önce gizli olan barınak alanını gerçekten ortaya çıkarmalıdır.
+
+Kıdemli Kız Kardeş uyuyan kalabalığı kendi gözleriyle görmeli ve bu yüzden eylemini değiştirmelidir.
+
+Kırmızı ipek önceden var olmalı ve sonunda Kıdemli Kız Kardeş tarafından aktif olarak açılmalıdır.
+
+Bronz çan film boyunca kesinlikle çalınmamalıdır.
+
+Yaralılar ve çocuklar sonunda da sessizce uyumaya devam etmelidir.
+
+Karakterlerin mikro ifadeleri gerçek ve ölçülü olmalıdır.
+
+Tüm eylemler eksiksiz ve mantıklı olmalıdır.
+
+Mandarin diyaloglar ana dilde senkronize olmalıdır.
+
+Yeni çatışmalar, kimlik ters köşeleri, büyü efektleri, dövüşler veya geçici olay örgüleri eklemeyin.
+
+Altyazı, başlık, dış ses veya gereksiz metin oluşturmayın.
+
+Son Duygu: İzleyiciye bazen kutlanmaya en layık zaferin, tam da sessiz kalması gereken zafer olduğunu hissettirin.
+
+[Negatif İstem]
+
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120725137213595648/img/z1VAUSwvmx61K2ub.jpg" width="600" alt="Sessiz Zafer Çanı Sahnesi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13745)**
+
+**Yazar:** [𝕊𝖔ʳᵃɴ](https://x.com/Soranlan) | **Kaynak:** [Link](https://x.com/Soranlan/status/2120725797229183155) | **Yayınlandı:** Nov 12, 2026
+
+---
+### Seedance 2.5 Fantastik Aksiyon Filmi Promptu
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ferry iskelesinde dev bir canavarla savaşan kadın bir koruyucunun yer aldığı 30 saniyelik fantastik aksiyon kısa filmi oluşturmak için hazırlanmış prompt.
+
+#### 📝 İstem
+
+```
+Seedance 2.5 Prompt
+[Oluşturma Gereksinimleri]
+16:9 yatay en boy oranında, 9 plandan oluşan, 30 saniyelik eksiksiz bir canlı çekim sinematik fantastik aksiyon kısa filmi oluşturun.
+Başlık Konsepti: "Tekne Gitti, O Binemedi".
+
+Devasa sahneler, yoğun çatışma; karakterlerde gerçekçi kuvvet aktarımı, denge kaybı, nefes nefese kalma ve darbe etkisi.
+Bir oyun ara sahnesi değil, dövüş sanatları pozu değil, kahramanın canavarı kolayca alt ettiği bir sahne değil.
+Hikâyeyi net saldırı/savunma hamleleri, mekânsal değişimler ve kademeli ilerlemelerle anlatın; sihir, art arda gelen patlamalar veya baştan sona ağır çekime yaslanmayın.
+
+[Referans Materyaller]
+@Image 1: Kadın muhafız için tek karakter ve ekipman referansı. Yüz hatlarını, saç modelini, zırhını, tuniğini, bacak korumalarını, savaş botlarını ve uzun saplı kılıcını sabitleyin. Konsept çizimindeki duruş pozunu veya kompozisyonu birebir kopyalamayın.
+@Image 2: Feribot iskelesi için sahne ve mimari referansı. Taş kıyıları, eski ahşap iskeleleri, vadileri, antik şehirleri ve ahşap feribotun görünümünü sabitleyin.
+@Image 3: Kaya Zırhlı Dev Canavar için tek görsel referans. Baş siluetini, boynuz şeklini, katmanlı kalın zırhını, güçlü uzuvlarını ve vücut oranlarını sabitleyin.
+
+[Temel Hikâye]
+Son tahliye feribotu kıyıdan ayrılıyor. Kadın muhafız, kalabalığın peşine düşen dev canavarı durdurmak için ahşap iskelede geride kalıyor.
+Feribot tehlike bölgesinden çıkana kadar dayanmak zorunda.
+Çatışma sırasında geri itilip yere seriliyor, ardından canavarın etrafından dolaşarak kıyıya doğru çekiliyor.
+Canavar onu takip ederken ahşap iskeleyi parçalıyor. Kahraman nihayet sağlam bir taş platforma adım atıyor. Canavar ise zaten hasar görmüş ahşap bölümlere basınca yapı yerel olarak çöküp suya karışıyor ve bu durum takibi geçici olarak engelliyor.
+Güvende olduğundan emin olduktan sonra kahraman uzaklaşan feribota bakıp hayatta olduğunu bildirmek için elini kaldırıyor.
+
+[Kahramanın Sabit Görünümü]
+Yetişkin kadın, yaklaşık 26 yaşında, görünümü kesinlikle @Image 1 ile eşleşmeli.
+Yüz tutarlılığını, koyu renkli bağlı saçlarını, metal zırhını, tuniğini, bacak korumalarını, savaş botlarını ve uzun saplı kılıcını koruyun.
+Kıyafetleri yeniden tasarlamayın, zırh ekleyip çıkarmayın veya silahı değiştirmeyin.
+Ekipmanlar baştan itibaren tamamen görünür olmalı; kılıç her zaman elinde ya da yanında net şekilde görünür olmalı — asla kaybolmamalı veya çoğalmamalı.
+Gerçekçi cilt dokusu, yıpranmış zırh ve deri. Çatışma boyunca üzerine kademeli olarak talaş, toz ve küçük su lekeleri sıçramalı; saçları zamanla dağılmalı, kendiliğinden düzelmemeli.
+Güzel ama poz vermiyor; pratik hareketler; nefes alışverişi ve yüz ifadeleri savaşın gidişatına göre değişmeli.
+
+[Canavarın Sabit Görünümü]
+Kesinlikle @Image 3'teki dört ayaklı kaya zırhlı dev canavarla eşleşmeli.
+Omuz yüksekliği yaklaşık 3 metre, ağır yapılı, başı öne eğik, pürüzlü katmanlı kaya zırhı, güçlü uzuvlar.
+Aynı boynuz şekillerini, kabuk dağılımını, vücut oranlarını ve uzuv sayısını koruyun.
+Gerçek ağırlığı olan büyük bir hayvan gibi davranmalı: Hücum ettikten sonra fren yapmak zorunda kalmalı, dönerken adımlarını ayarlamalı, anında yön değiştirmemeli, hafifçe sekmeyecek şekilde hareket etmeli.
+Kanat, dokunaç, ekstra yetenek, parlayan gözler, ateş püskürtme veya enerji patlamaları eklemeyin.
+
+[Feribot İskelesi Mekânsal Sabitlemesi]
+Genel görünüm @Image 2'yi referans almalı, eylemleri net yatay mekânsal ilişkilerle düzenlemeli:
+Sol taraf: Sağlam taş kıyı ve geniş taş platform.
+Eski ahşap iskele, sol taraftaki taş kıyıdan sağdaki su yüzeyine doğru uzanıyor.
+İskelenin orta bölümü daha geniş; bu sayede kahraman canavarın gövdesinin dışından dolaşabiliyor.
+Feribot, iskelenin uç kısmından ayrılarak sağdaki açık sulara doğru yol alıyor.
+
+Açılış: Kahraman iskelenin en uç noktasında, kıyı tarafından yaklaşan canavara karşı duruyor.
+Canavar, kahraman ile taş kıyı arasında; feribot ise kahramanın arkasında, suda.
+Orta bölüm, kahramanın canavarın dışından dolanıp kıyı tarafına geri dönme sürecini eksiksiz göstermeli. Kesme sonrası konumlar aniden değiştirilmemeli.
+
+Kıyıya yakın ahşap bölümde baştan itibaren fark edilebilir eski çatlaklar var ancak yine de ağırlık taşıyabiliyor.
+Sağlam taş kıyı ile ahşap iskele arasındaki sınır net olmalı.
+Sadece hasarlı ahşap yapı yerel olarak çökmeli; taş kıyı çökmemeli; kahraman sonunda sağlam taş platform üzerinde kalmalı.
+
+[Feribot Sürekliliği]
+İlk plandan itibaren feribot halatlarını çözmüş ve iskeleden ayrılmış olmalı; tekne ile iskele arasında hiçbir ip bağlantısı olmamalı.
+Prusvası açık denize, kıçı iskeleye bakmalı.
+Film boyunca feribot ile iskele arasındaki mesafe sürekli artmalı; durmamalı, eski yerine dönmemeli veya aniden geri gelmemeli.
+Teknede sadece birkaç yetişkin yolcu bulunmalı, uzaktaki küçük silüetler olarak görünmeliler; karmaşık karakter etkileşimleri olmamalı.
+Kahramanın tekneye atlamasını, iplere tırmanmasını veya teknede savaşmasını planlamayın.
+
+[Işıklandırma ve Atmosfer]
+Parlak bulutlu gökyüzü, yumuşak gün ışığı, kadrajın sol tarafı biraz daha aydınlık.
+Gerçekçi cilt tonları, gri-mavi su, gri taş kıyılar, doğal eski ahşap; gölgelerde detayları koruyun.
+Canlı çekim epik aksiyon filmi dokusu; metal, deri, kaya zırhı, ahşap ve su arasında belirgin materyal ayrımı.
+Orta ve tam plan çekimler saldırı/savunmayı netleştirir; geniş açılar mekânı ve ilerlemeyi kurar; yakın çekimler karakter duygusunu destekler.
+Sinematografi stabil ama ölçülü bir dinamizme sahip olmalı; kısa mesafeli takip çekimleri; kontrollü el kamerası hareketi, şiddetli sarsıntı yok.
+Yoğun teal-orange (turkuaz-turuncu) filtreler, abartılı lens parlamaları veya kesintisiz ağır çekim kullanmayın.
+
+[Plan Dağılımı]
+
+Plan 1 (0–3s):
+Üç çeyrek yan açıdan geniş açılı takip çekimi; çatışma ilk karede hemen başlamalı.
+Canavarın ön pençesi, kahramanın önündeki bir iskele tahtasını parçalıyor; temas anında talaşlar havaya uçuşuyor. Kahraman sarsılarak tek dizinin üzerine çöküyor, uzun saplı kılıcı hâlâ elinde.
+Eş zamanlı olarak soldaki sağlam taş kıyıyı, kıyı yakınındaki çatlak ahşabı ve sağda ayrılan feribotu kurun.
+Teknedeki yetişkinlerden gelen ekran dışı bağırış: "Bin!"
+Kahraman başını kaldırıp canavara bakıyor, arkasını dönmüyor.
+
+Plan 2 (3–6s):
+Yan orta-tam plana geçiş, hem kahramanı hem canavarı kadraja alıyor.
+Canavar iskelenin uç kısmına doğru ilerliyor, feribota ulaşmak için kahramanı geçmeye çalışıyor.
+Kahraman yana doğru hareket edip kılıcıyla canavarın ön bacağına kısa bir karşı saldırı yaparak dikkatini kendi üzerine çekiyor.
+Canavar ona doğru dönüyor; kahraman geri adım atmak zorunda kalıyor, ayaklarının altındaki tahtalar bükülüp gıcırdıyor.
+Olduğu yerde dikilip canavarın tüm gücünü göğüsleyemez.
+
+Plan 3 (6–10s):
+Biraz daha yüksekten yan geniş açıya geçiş, eksiksiz bir konum değişikliğini net şekilde gösteriyor.
+Canavar ön pençesiyle savuruyor; kahraman saldırı hattından kaçıp iskelenin daha geniş olan orta bölümünden canavarın gövdesinin dışından dolaşarak taş kıyıya daha yakın olan tarafa geçiyor.
+Canavar kendi etrafında dönerek onun peşine düşüyor.
+Her ikisinin de hareket yörüngelerini eksiksiz gösterin; atlama kesmeleriyle konumları değiştirmeyin, canavarın altından geçirmeyin, karakterlerin uzuvların içinden geçmesine izin vermeyin.
+
+Plan 4 (10–14s):
+Kısa mesafeli yan takip orta plan çekimine geçiş.
+Canavar yaklaşıyor, ön uzuvları ve omuzları ileriye doğru baskı yapıyor.
+Kahraman kılıcıyla pençenin kenarını kancalamaya çalışıyor ancak sıyrılıp dengesini kaybediyor, bir dizi ve boş eli üzerine düşerek tahtaların üzerinde kısa bir mesafe kayıp duruyor.
+Silah diğer elinde veya vücuduna bitişik şekilde her zaman görünür olmalı.
+Yer değiştirme yalnızca temastan sonra gerçekleşmeli; tahtalar darbenin etkisiyle daha çok çatlamalı ama tamamen çökmemeli.
+Baskı hissediyor ve nefes nefese kalıyor; sürekli yuvarlanma veya havaya fırlama yok.
+
+Plan 5 (14–18s):
+Kıyı tarafı orta-tam plan çekimine geçiş.
+Kahraman kendini yukarı iterek sağlam taş kıyıya doğru çekiliyor, kılıcı görünür kalmaya devam ediyor.
+Canavar az önce geçtiği tahtalara basıyor; ağır kirişler çöküyor, kıyıya yakın hasarlı bölgeden kırılma sesleri geliyor.
+Ayaklarının altındaki kırık yapıya kısaca bakıp ardından tekrar odağını canavara çeviriyor.
+Uzaktaki feribot ayrılmaya devam ediyor, başlangıçtakinden daha uzakta.
+Açıklayıcı diyalog yok; uzun uzun düşünen yakın çekimler yok.
+
+Plan 6 (18–22s):
+Stabil yan geniş açı; taş kıyı sınırı, hasarlı ahşap, kahraman ve canavar birbirinden ayırt edilebilir olmalı.
+Kahraman taş kıyıyla birleşim noktasına kadar çekildi; canavar hasarlı ahşap üzerinde tekrar hücum ediyor.
+Kısa bir yana adım atarak bitişikteki sağlam taş platforma geçiyor ve normal şekilde iki ayağı üzerine basıyor.
+Canavarın ön uzuvları hasarlı ahşaba yükleniyor; kirişler gerçek ağırlığın altında çatlıyor, bağlantı noktaları gevşiyor, ağırlık merkezi düşüyor.
+Önce ağırlığı taşımalı, ardından yapısal çöküş gerçekleşmeli; erken düşüş olmamalı.
+
+Plan 7 (22–25s):
+Üç çeyrek geniş açıya geçiş.
+Hasarlı iskele bölümü aşağı doğru çöküyor; canavar desteğini kaybedip kırılan kirişlerle birlikte suya düşerek ağırlığıyla orantılı sıçramalar yaratıyor.
+Büyük keresteler yerçekimine uygun şekilde düşmeli; havada süzülmemeli veya toza dönüşmemeli.
+Kahraman sağlam taş platformda kalıyor; bedeni çöküşle birlikte sürüklenmiyor.
+Feribot tehlike bölgesinden çıktı, sıçrayan sulardan veya enkazdan etkilenmedi.
+Su altı savaşı yok, kanlı ölüm yok, ateş topu patlamaları yok.
+
+Plan 8 (25–28s):
+Kahramanın yan orta plan çekimine geçiş, yavaş ve hafif bir yaklaşma (push-in).
+Kılıcını sıkıca kavramış halde sağlam duruyor, omuzları hızlı nefes alıp vermekle inip kalkıyor, saçları ve ekipmanları dağılmış durumda.
+Önce kırık iskeleden yeni bir takip gelmediğinden emin oluyor, ardından dönüp uzaklaşan feribota bakıyor.
+Kıç güvertesinde, yalnızca çok küçük bir yetişkin yolcu silüeti onun olduğu yöne bakıyor; yüz veya parmak detayları çekilmemeli.
+
+Plan 9 (28–30s):
+Kahramanın önden yakın çekimine geçiş; arka plandaki vadi ve su doğal şekilde bulanık.
+Bir eli hâlâ kılıcı kavramış; serbest eli hafifçe uzağa doğru kalkarak güvende olduğuna dair işaret veriyor.
+Yüz ifadesi zafer kahkahası değil, tükenmişlik sonrası gelen rahatlama olmalı.
+Final, onun gerçek nefes alışverişine, stabil duruşuna ve feribota yönelik bakışına odaklanarak bitmeli; kararmaya (fade to black) geçmeyin.
+
+[Ses]
+Canavarın ağır ayak sesleri, zırh sürtünmesi, ahşabın yük altındaki sesi, kiriş kırılması, kılıç teması, ayakkabı tabanı sürtünmesi, kumaş ve zırh sesleri.
+Darbe sesleri gerçek temasla senkronize olmalı; abartılı kemik kırılma sesleri kullanmayın.
+Feribotun ayrılışında kontrollü su sesleri ve ahşap gövdenin yapısal gıcırtıları olmalı.
+Tek diyalog, başlangıçta tekneden gelen yetişkin sesidir
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120520856917114880/img/WasTr9Hk_PlmyXy9.jpg" width="600" alt="Seedance 2.5 Fantastik Aksiyon Filmi Promptu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13746)**
+
+**Yazar:** [Adamä¹Ÿå�«å�‰ç±³](https://x.com/Adam38363368936) | **Kaynak:** [Link](https://x.com/Adam38363368936/status/2120521214737416330) | **Yayınlandı:** Nov 11, 2026
+
+---
 ### Seedance 2.0 Cyberpunk Metro Dövüşü Prompt'u
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -8026,181 +9192,6 @@ Aşağıda, koyu renkli SUV güneş ışığıyla aydınlanan yolda ilerlemeye d
 **Yazar:** [Sharon Riley](https://x.com/Just_sharon7) | **Kaynak:** [Link](https://x.com/Just_sharon7/status/2112913908617158822) | **Yayınlandı:** Oct 21, 2026
 
 ---
-### Yanlış Kahve Manhattan Romansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Manhattan'da geçen, kahve bardaklarının karışmasıyla başlayan bir sohbeti konu alan sinematik lüks editoryal video için detaylı prompt ve karakter referans talimatları.
-
-#### 📝 İstem
-
-```
-Yanlış Kahve — Midtown Manhattan, New York
-
-Süre: 30 saniye | En Boy Oranı: 16:9 | Tarz: Sinematik lüks editoryal
-
-Karakter Referansları: Sağlanan iki görseli başlangıç karesi olarak değil, kesinlikle karakter referansı olarak kullanın. Adam, Alex, kendinden emin ve başarılı bir Manhattan finans yöneticisidir. Yüz hatlarını, koyu renk özel dikim takım elbisesini, kravatını ve saç modelini birebir koruyun. Kadın, Allisa ise ikinci karakterdir; kimliğini, saç modelini ve zarif, vücudunu saran kıyafetini birebir koruyun.
-
-Görsel Bütünlük: Kehribar vurgulara, yumuşatılmış kontrasta, hafif film grenine ve gerçekçi cilt dokusuna sahip sıcak, hafif vintage editoryal fotoğrafçılık tarzı. Her sahnede tutarlı renk paleti. Yapay parıltı veya plastik görünümlü cilt yok.
-
-Çevresel Doğruluk: Görünen tüm tabelalar, menüler, isimler ve sokak yazıları doğru yazılmalı ve okunabilir olmalıdır. Anlamsız harf dizileri kullanılmamalıdır.
-
-Sahne 1 — Sabah Kahvesi (0–4s)
-
-Cilalı taş tezgâhları, şık iç mekânı ve yoğun iş temposundaki profesyonelleriyle üst düzey bir Midtown Manhattan kafesinin içi. Alex sakin ve kendinden emin bir şekilde tezgâha yaklaşır. Tezgâhta hiçbir kahve bardağı görünmez.
-
-Kamera Alex'in arkasında konumlanmış, tezgâha doğru bakmaktadır. Yirmili yaşlarının çok başında, çarpıcı manken hatlarına ve doğal bir karizmaya sahip güzel barista, kameranın dışında kalan kahve hazırlama alanına doğru hafifçe döner.
-
-Alex, rahat bir tavırla: "Bir duble espresso lütfen. Adım Alex."
-
-Barista, samimi bir şekilde: "Hemen hazırlıyorum."
-
-Ekranın alt üçte birlik kısmında, karenin altında yatay olarak ortalanmış şekilde tam olarak "Midtown Manhattan, New York" yazısı gösterilmelidir; Poppins Semi-Bold 600 fontu, beyaz (#FFFFFF) renk, %60 opaklıkta yuvarlatılmış köşeli antrasit-slate (#17212B) arka plan üzerinde. Ekstra karakter olmamalıdır.
-
-Sahne 2 — Barista (4–7s)
-
-Kamera Alex'in arkasında konumlanmış ancak Sahne 1'den farklı bir açıdan tezgâha doğru bakmaktadır.
-
-Barista, net bir sesle seslenir: "Alex için duble espresso!"
-
-Alex telefonuna dalmış hâlde durmaktadır. Bu çekimde hiçbir kahve bardağı gösterilmez.
-
-Sahne 3 — Yanlış Bardak (7–11s)
-
-Görünmeyen bir çalışan tarafından teslimat tezgâhına yan yana iki karton kahve bardağı bırakılır. Birinin üzerinde açıkça ALEX, diğerinin üzerinde ALYSSA yazmaktadır.
-
-Hâlâ telefonuna bakan Alex, boş eliyle uzanır ve yanlışlıkla yalnızca ALYSSA yazılı bardağı alır. Hatasının farkında olmadan bardakla birlikte uzaklaşır. Üzerinde ALEX yazan asıl kahvesi tezgâhta kalır.
-
-Sahne 4 — Kaldırım (11–14s)
-
-Dışarıda Alex, bir elinde ALYSSA'nın kahvesini taşırken diğer elindeki telefonuna bakmaya devam ederek Midtown Manhattan'ın kalabalık kaldırımında hızlı adımlarla yürür.
-
-Arkalarında ALYSSA, Alex'in az önce çıktığı aynı kafeden elinde onun kahvesiyle çıkar ve onu ileride fark eder.
-
-Sahne 5 — Karşılaşma (14–19s)
-
-ALYSSA kaldırımda Alex'e yetişir.
-
-ALYSSA, hafifçe eğlenerek: "Sanırım benim kahvemi aldın."
-
-Alex gözlerini telefondan ayırır, durur ve bardağa bakar.
-
-Alex, özür dileyen bir gülümsemeyle önce bardağına sonra da ALYSSA'ya bakarak: "Ah, haklısın. Bunun için özür dilerim."
-
-Doğal bir şekilde bardakları değiş tokuş ederler. Alex telefonunu cebine koyar.
-
-Sahne 6 — Aynı Yön (19–24s)
-
-Alex eliyle kaldırım boyunca ileriyi işaret eder.
-
-Alex, rahat bir tavırla: "Hangi yöne gidiyorsun?"
-
-ALYSSA, ileriye doğru işaret ederek: "Anlaşılan seninle aynı yöne."
-
-Alex, gülümseyerek: "Ne tesadüf."
-
-Birlikte gülerler ve rahatça sohbet ederek yan yana yürümeye başlarlar. Sabit bir kamera, onlar kadrajdan çıkana kadar kaldırımda uzaklaşmalarını çeker.
-
-Sahne 7 — Beklenmedik Bir Bağ (24–30s)
-
-Aynı Midtown bloğunun biraz daha ilerisindeki sabit bir kamera açısına sert geçiş yapılır. Alex ve ALYSSA ellerinde kahveleriyle yan yana yürürken canlı bir sohbetin keyfini çıkarırlar.
-
-Allisa, şakacı bir tavırla: "Peki, bu senin olağan sabah rutinin mi?"
-
-Alex, eğlenerek: "Genelde bu kadar ilginç olmaz."
-
-Allisa doğal bir şekilde güler, gülüşü kesintiye uğramadan sonlanır. Kadrajın sağ tarafına doğru ilerleyerek yürümeye ve konuşmaya devam ederler.
-
-Her iki karakter de kadrajın sağından tamamen çıkar. Bitirmeden önce son 0,5 saniye boyunca boş kaldırımı ekranda tutun.
-
-Yönetmen Notları: Doğal, sohbet havasında diyaloglar, kusursuz dudak senkronizasyonu, ince duygusal ifadeler ve gerçekçi fiziksel etkileşimler. Alex, 2-4. Sahneler boyunca telefonunu bir elinde tutar ve sadece boş eliyle Allisa'nın kahvesini alır. ALEX yazılı bardak, Allisa onu alana kadar geride kalır. Bardak sahipliğini ve sürekliliğini birebir koruyun. Çeşitli sinematik takip çekimleri ve yakın planlar; yürüyerek kadrajdan çıkışlarda sabit kamera açıları. Temiz, anlık sert geçişler. Diyalogların, tepkilerin ve gülüşlerin doğal bir şekilde bitmesine izin verin. Ağır çekim, morflama, altyazı veya müzik kullanılmamalıdır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112876062648483840/img/gL4XyT3GY4OLJFzR.jpg" width="600" alt="Yanlış Kahve Manhattan Romansı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12876)**
-
-**Yazar:** [Promethean](https://x.com/PrometheanAIX) | **Kaynak:** [Link](https://x.com/PrometheanAIX/status/2112876623032689023) | **Yayınlandı:** Oct 21, 2026
-
----
-### Büyükanne, Leopar ve Gangster: Komedi Klipi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir büyükanne, bir leopar ve kira isteyen bir gangsterin yer aldığı komik video için karmaşık prompt. Katı kimlik kilitlemeleri ve aksesuar referansları içerir.
-
-#### 📝 İstem
-
-```
-REFERANSLAR: Büyükanne = 95–100 yaşlarında, minyon, kambur Koreli büyükanne (birebir aynı yüz, ahşap tokalı beyaz topuz, kapitone lacivert jeogori, gri örgü atkı, erik rengi etek, gomusin ayakkabılar). Haydut = aşırı kilolu, yağlı gangster (kaşında yara izi olan birebir aynı yüz, açık duran parlak siyah şişme mont, kırmızı-siyah çiçekli ipek gömlek, altın zincir, altın yüzük, siyah eşofman altı, kirli beyaz spor ayakkabılar). Leopar = devasa yetişkin kar leoparı (birebir aynı dumanlı gri-beyaz kürk, siyah rozet desenleri, soluk buz mavisi gözler, uzun, kalın ve halkalı kuyruk). Kulübe = tepede, küçük karlı bir avlusu olan, kameraya doğru yamaçtan aşağı kıvrılan bir patikası ve sağda uçsuz bucaksız sisli karlı dağların yer aldığı, karla kaplı sazdan çatılı bir dağ çay kulübesi. Tüm karakterlerin kimliklerini, kıyafetlerini, işaretlerini ve seti baştan sona referanslarla birebir aynı tut. Sahnede yalnızca bu üç varlık bulunuyor.
-
-NESNE KİLİTLERİ: NESNE-DEĞNEK = budaklı, koyu kahverengi ahşap yürüyüş değneği; her zaman Büyükanne'nin sağ elinde, her an ona yaslanıyor. NESNE-KASE = içi çiğ kırmızı et parçalarıyla dolu küçük, yuvarlak, kahverengi toprak kase; her zaman Büyükanne'nin sol elinde, asla düşürülmez, asla değişmez.
-
-SAHNELEME KİLİDİ: Büyükanne sahnenin tamamı boyunca Kulübe kapısının hemen önündeki karlı avluda durur, patikaya/kameraya dönüktür; asla uzaklaşmaz. Haydut patikadan YUKARI çıkar ve onun 2 metre önünde durur, SIRTI patikaya ve yamaca dönüktür. Leopar daha sonra Haydut'un arkasındaki yamaçtan AYNI patikadan yukarı çıkar. Boyunca usulca yağan kar.
-
-GÖRÜNTÜ: bulutlu kış gün ışığı, serin mavi-beyaz kar, kulübe kapısından yayılan sıcak kehribar rengi ışık, düşük doygunluk, düşük-orta kontrast, sinematik gren, yumuşak halelenme. Ortam rüzgârı, kar çıtırtısı.
-
-TEMPO: doğal, aceleye getirilmemiş Korece konuşma tarzı, replikler arasında kısa esler; asla aceleci değil.
-
-0–6s: Açılış havadan FPV drone çekimi: Uçsuz bucaksız sisli karlı dağ sıralarının çok üzerinde, kırağı tutmuş çam sırtları ve süzülen bulutlar üzerinden pürüzsüzce ilerler, ardından zarifçe yamaçtan aşağı, tepedeki küçücük karla kaplı Kulübe'ye doğru dalışa geçer, yavaşlayarak avluda duran, NESNE-DEĞNEK'e yaslanan ve NESNE-KASE'yi tutan Büyükanne'nin orta plan çekimine doğru yaklaşır.
-
-6–11s: Büyükanne tepelere bakınır, kendi oğluna seslenir gibi tatlı ve şefkatli bir şekilde seslenir:
-Büyükanne (ninnimsi, şefkatli): 「우리 아가~ 밥 먹자… 어디 갔니, 우리 아들~」
-Sırtlara bakarak, gülümseyerek bir kez daha seslenir.
-
-11–17s: Ağır ayak sesleri, kar çıtırtısı. Haydut patikayı ağır adımlarla tırmanır, nefes nefese, çenesi havada gelir ve onun önünde durur.
-Haydut (sert, acımasız): 「할매, 이번 달 자릿세. 빨리 내놔.」
-Büyükanne ona sakin sakin bakar ve hafif, kurnazca bir sırıtış atar.
-Büyükanne (mütevazı, nazik): 「잠깐만… 우리 고양이 밥 좀 주고. 그다음에 줄게.」
-
-17–22s: Haydut gururla alaycı bir şekilde burnundan güler, küçücük bir şeyle dalga geçmek için başparmağını ve işaret parmağını yüzünün önünde birbirine yaklaştırır.
-Haydut (öfkeli, alaycı): 「그 쪼끄만 망할 고양이 기다릴 시간 없어!」
-Büyükanne'nin gözleri onun omzunun üzerinden yamaca kayar; yüzüne mutlu, tatmin olmuş bir gülümseme yayılır.
-Büyükanne (sıcakkanlı): 「아이고… 저기 오네.」
-
-22–30s: Tam o sırada devasa kar leoparı arkasındaki yamaçtan ileriye atılırken Haydut arkasını döner.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112833908299677696/img/2Q5Xexo0_Ulc2Edk.jpg" width="600" alt="Büyükanne, Leopar ve Gangster: Komedi Klipi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12875)**
-
-**Yazar:** [Syed Abuthahir ∞](https://x.com/abulu8) | **Kaynak:** [Link](https://x.com/abulu8/status/2112834308117324151) | **Yayınlandı:** Oct 21, 2026
-
----
-### Uyuyan Bekçi Kadının Slapstick Komedisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uyuyan bir bekçi kadının hırsızları kazara yenilgiye uğrattığı sinematik slapstick komedi sahnesi için bir istem; referans görselle tutarlılık gerektirir.
-
-#### 📝 İstem
-
-```
-Sinematik, ultra gerçekçi bir slapstick komedi sahnesi oluştur. Gece bekçisi kadının yüzü ve kıyafeti baştan sona referans görselle birebir aynı olmalı.
-
-Çekim 1 (0–3 sn): Bir depo girişinde, gece bekçisi kadın sandalyede derin bir uykuya dalmış; ayakları bir kasaya uzanmış, kucağında yarısı yenmiş bir paket cipsle horlayarak uyuyor. Beş hırsız içeri süzülüyor ve ona bakarak kıkır kıkır sırıtıyorlar.
-
-Çekim 2 (3–8 sn): Hırsızlar yanından geçmeye çalışıyor ama kadının uykusundaki istemsiz hareketleri birini çabasızca ip gibi gerip yere seriyor, diğerinin ayağını kaydırıp kasaların arasına düşürüyor, üçüncüsünü ise bir rafa çarptırıyor. Kadın cipsini yemeye devam ediyor ve uykulu uykulu mırıldanıyor: “Çok yavaşsınız…”
-
-Çekim 3 (8–13 sn): Kalan hırsızlar tedirginlikle birbirine sokulurken liderleri kadına doğru atılıyor. Kadın gözlerini bile açmadan dirseğiyle adamın midesine öyle bir geçiriyor ki, ağzından “Beş dakika daha…” sözü dökülüyor. Adam da diğerlerinin yanına yığılıyor.
-
-Çekim 4 (13–18 sn): Son kalan hırsız kaçmaya yelteniyor ama kadının uzattığı bacağına takılıp kutuların arasına uçuyor. Beş hırsız da deponun dört bir yanına saçılmış yatarken, kadın cipsini bitiriyor, boş paketi kusursuz bir atışla çöp kutusuna gönderiyor ve hırsızlardan birini ayak dayama taburesi olarak kullanıyor.
-
-Çekim 5 (18–23 sn): Polis sirenleri yaklaşıyor. Kadın bir anlığına tek gözünü aralıyor, ifadesiz bir suratla alt ettiği hırsızlara şöyle bir bakıyor, “Ben demiştim,” diye mırıldanıp anında tekrar uykuya dalıyor. Horlamasıyla birlikte salyası da akmaya devam ediyor.
-
-Çekim 6 (23–30 sn): Polisler içeri dalıyor, hırsızların perişan halde yattığını görüyor ve uyuyan gece bekçisine inanamayarak bakakalıyor. Bir memur onu uyandırmaya çalışsa da kadın tembelce elini savuşturup uzaklaştırıyor. Son yakın çekimde, kadın uykusunda huzurlu bir şekilde gülümserken kucağında gizemli bir biçimde duran taptaze bir cips paketi beliriyor.
-
-Tarz: Hızlı tempolu slapstick komedi, abartılı ama zararsız fiziksel şakalar, etkileyici tepkiler, tutarlı karakter görünümü, akıcı çekim geçişleri, sinematik depo aydınlatması, kusursuz komedi zamanlaması ve tatmin edici bir final vuruşu.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112768240086859776/img/CEpXhdWMSiaYywaS.jpg" width="600" alt="Uyuyan Bekçi Kadının Slapstick Komedisi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12874)**
-
-**Yazar:** [WasifAI](https://x.com/doctorwasif) | **Kaynak:** [Link](https://x.com/doctorwasif/status/2112768312488902962) | **Yayınlandı:** Oct 21, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -8262,6 +9253,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-11T22:46:22.461Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-12T06:17:33.290Z</sub>
 
 </div>

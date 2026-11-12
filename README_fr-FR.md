@@ -68,9 +68,9 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6675** |
+| 📝 Total des prompts | **6678** |
 | ⭐ Prompts en vedette | **6** |
-| 🔄 Dernière mise à jour | **2026-11-11** |
+| 🔄 Dernière mise à jour | **2026-11-12** |
 
 ---
 
@@ -361,6 +361,1172 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Comédie sur le shopping en ligne à domicile
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt détaillé pour générer une vidéo comique cinématographique de 15 secondes avec Seedance 2.0 Mini, mettant en scène deux femmes décorant un appartement loué grâce à des achats en ligne.
+
+#### 📝 Prompt
+
+```
+Appeler Seedance 2.0 Mini pour générer une comédie cinématographique en prise de vues réelle, d'une durée stricte de 15 secondes, au format horizontal 16:9, sur la vie chinoise moderne, avec une synchronisation audio-vidéo native en mandarin.
+
+Ce round s'inspire de la tendance récente du « Shopping an Online Home » (se meubler entièrement en ligne).
+
+Le cœur de cette tendance : les jeunes aménagent peu à peu leur logement vide pour en faire un lieu qui leur ressemble, en achetant meubles, lampes, électroménager et objets du quotidien sur Internet.
+
+Ce film adopte un angle auquel chacun peut s'identifier :
+
+Même si le logement est loué, on a envie de bien vivre l'instant présent.
+
+L'histoire exprime ce sentiment à travers des conversations authentiques entre amies, en s'appuyant sur un petit oubli du quotidien pour créer un retournement comique.
+
+Le film adopte un style de comédie réaliste et contemporaine : pas de reconstitution historique forcée, ni de répliques inspirantes artificielles.
+
+La photographie offre un rendu cinéma ARRI Alexa 35, une peau féminine est-asiatique réaliste, des traits naturels et nets, un jeu de lumière délicat, un léger grain argentique et une atmosphère domestique authentique.
+
+[Méthode de jeu et histoire complète de ce round]
+
+Deux amies proches se retrouvent.
+
+Le personnage faisant office de grande sœur arrive dans le nouvel appartement loué par celui de petite sœur et découvre de nombreux colis ainsi que des meubles non montés.
+
+La cadette annonce fièrement qu'elle fait du « Shopping an Online Home ».
+
+L'aînée ne comprend pas vraiment.
+
+Pourquoi investir autant d'énergie dans un appartement en location ?
+
+La question rhétorique naturelle de la cadette fait soudain comprendre son point de vue à l'aînée.
+
+Alors que l'ambiance commence à se réchauffer, l'aînée propose de manger ici ce soir.
+
+La cadette devient soudain gênée.
+
+Car elle a acheté beaucoup d'objets décoratifs, mais la casserole n'a pas encore été expédiée.
+
+La première partie pose la différence de points de vue, le milieu crée une résonance émotionnelle, et la seconde moitié conclut avec humour grâce à un détail concret du quotidien.
+
+Le tout forme une comédie naturelle, mêlant chaleur humaine et autodérision.
+
+[Personnages et relations]
+
+Personnage A : @Image1, l'amie aînée
+
+Conserver strictement l'identité faciale indépendante de l'Image 1 précédente.
+
+Femme adulte est-asiatique de 25 à 30 ans, grande et élancée, visage ovale naturel et élégant, yeux sombres en amande, texture de peau réaliste, longs cheveux noirs semi-attachés.
+
+Porte une chemise décontractée blanc ivoire, un pantalon gris foncé et des baskets blanches.
+
+Personnalité pragmatique, observatrice, parle franchement.
+
+Elle ne méprise pas la location, mais craint simplement, par souci pratique, de dépenser trop d'argent et d'énergie.
+
+Personnage B : @Image2, l'amie cadette
+
+Conserver strictement l'identité faciale indépendante de l'Image 2 précédente.
+
+Femme adulte est-asiatique de 20 à 25 ans, visage rond et expressif aux traits naturels, yeux pétillants, longs cheveux noirs tressés, silhouette menue, texture de peau réaliste.
+
+Porte un haut en maille vert sarcelle, un pantalon décontracté beige et des baskets blanches.
+
+Personnalité vive, aime aménager elle-même son espace de vie.
+
+Elle sait que l'appartement est loué, mais espère y vivre confortablement dès maintenant.
+
+Ce sont des amies proches qui aiment se taquiner, sans aucune hostilité réelle.
+
+[Lieu actuel et relations spatiales]
+
+Privilégier l'utilisation des images de fond et de référence de lieu réellement importées pour ce round, afin de figer l'identité du lieu, les rapports architecturaux, l'échelle spatiale, les matériaux principaux, la direction de la lumière et la continuité environnementale.
+
+Si aucune nouvelle référence de lieu n'est fournie, créer un appartement locatif urbain chinois moderne et réaliste.
+
+Espace intérieur clairement défini :
+
+Porte d'entrée à gauche.
+
+Petit salon au centre.
+
+Six ou sept cartons fraîchement livrés contre le mur.
+
+Certains cartons sont ouverts.
+
+Une table d'appoint en bois non montée posée au sol.
+
+Une petite lampe en cours de déballage à côté de la table.
+
+L'entrée d'une cuisine simple visible au fond.
+
+L'espace global reste réaliste et habité, sans ressembler à un entrepôt encombré.
+
+Mélange de lumière naturelle intérieure et de soleil venant de l'extérieur, rideaux légèrement animés, bruit ambiant lointain de la ville.
+
+Toute dynamique environnementale doit rester neutre sur le plan narratif.
+
+[0-5s : Accroche comique moderne et ouverture]
+
+Plan 1 : Plan large intérieur, face à la porte d'entrée.
+
+La caméra filme depuis l'intérieur de l'appartement loué.
+
+La porte s'ouvre.
+
+Le même personnage d'aînée @Image1 entre depuis l'extérieur.
+
+Elle avance naturellement, puis remarque soudain les nombreux colis et meubles non montés dans le salon.
+
+S'arrête involontairement.
+
+La caméra capte à la fois son expression surprise et les cartons derrière elle.
+
+Le même personnage de cadette @Image2 est assise au sol, déballant joyeusement une petite lampe neuve.
+
+L'aînée la regarde et demande avec surprise :
+
+Aînée : « Tu as acheté tout ça ? »
+
+La cadette lève les yeux, l'air fier :
+
+Cadette : « Shopping an Online Home ! »
+
+L'aînée balaye de nouveau la pièce du regard.
+
+Son regard exprime la surprise et une certaine incompréhension.
+
+Utiliser directement le mème original comme accroche d'ouverture.
+
+Permettre au public de comprendre qu'elle aménage son intérieur via des achats en ligne.
+
+[5-10s : Actions des personnages et jeu formel]
+
+Plan 2 : Plan moyen stable, mise en scène relationnelle des deux personnages.
+
+Conserver le même appartement, les mêmes positions et le même éclairage.
+
+L'aînée s'approche des cartons et en soulève un petit négligemment.
+
+Elle regarde la table d'appoint non montée, puis la cadette.
+
+Demande sur un ton très naturel, propre aux personnes qui se connaissent bien :
+
+Aînée : « Un appart en location, ça vaut vraiment le coup ? »
+
+La cadette était en train de déballer la lampe.
+
+En entendant cela, elle marque une brève pause.
+
+Elle lève les yeux vers l'aînée, sur un ton ni fâché ni blessé.
+
+Répond directement :
+
+Cadette : « On ne va pas attendre d'acheter une maison pour vivre correctement, si ? »
+
+Maintenir une pause brève mais naturelle.
+
+L'aînée n'insiste pas.
+
+Elle observe les objets choisis personnellement par la cadette.
+
+Ses doutes initiaux se transforment peu à peu en compréhension.
+
+Elle repose doucement le colis, prête à donner un coup de main.
+
+Pas de musique sentimentale.
+
+Pas de longues explications.
+
+Montrer le changement d'attitude par le déplacement du regard et le geste de reposer le colis.
+
+[10-15s : Chute, retournement et retour émotionnel]
+
+Plan 3 : Gros plan sur les deux personnages, garder l'entrée de la cuisine en arrière-plan.
+
+L'aînée a accepté l'idée de la cadette.
+
+Elle affiche un sourire naturel et demande négligemment :
+
+Aînée : « D'accord, on mange chez toi ce soir ? »
+
+La cadette tenait encore avec enthousiasme la petite lampe qu'elle venait de déballer.
+
+En entendant cela, elle se fige soudain.
+
+Son regard trahit instantanément sa mauvaise conscience.
+
+Elle regarde l'aînée, puis la cuisine derrière elle.
+
+Puis dit maladroitement :
+
+Cadette : « La casserole n'a pas encore été expédiée. »
+
+Cette réplique doit être extrêmement naturelle.
+
+Ne pas créer la chute par des gestes exagérés.
+
+La caméra reste immobile un bref instant.
+
+L'aînée regarde lentement la cuisine vide.
+
+Puis les piles de meubles et de décorations autour d'elle.
+
+Complètement sans voix.
+
+La cadette retient un rire, affichant une expression légèrement embarrassée.
+
+L'aînée ne la gronde pas et sort silencieusement son téléphone pour commander à manger.
+
+La cadette pose la petite lampe à côté d'elle, incapable de retenir son rire.
+
+L'aînée est également amusée par sa réaction.
+
+Fin de l'image.
+
+La fin crée un léger contraste du quotidien à travers l'idée d'avoir « acheté plein de meubles déco mais oublié la casserole ».
+
+N'ajouter aucun autre dialogue.
+
+[Jeu d'acteur et dialogues en mandarin]
+
+L'ensemble du film utilise strictement six répliques naturelles en mandarin :
+
+Aînée : « Tu as acheté tout ça ? »
+
+Cadette : « Shopping an Online Home ! »
+
+Aînée : « Un appart en location, ça vaut vraiment le coup ? »
+
+Cadette : « On ne va pas attendre d'acheter une maison pour vivre correctement, si ? »
+
+Aînée : « D'accord, on mange chez toi ce soir ? »
+
+Cadette : « La casserole n'a pas encore été expédiée. »
+
+Débit de parole naturel, réparti sur trois intervalles temporels distincts, sans réplique explicative supplémentaire.
+
+Première partie : l'aînée est surprise, la cadette est fière.
+
+Deuxième partie : l'aînée s'interroge, la cadette expose calmement son point de vue.
+
+Troisième partie : l'aînée comprend, la cadette se sent soudain coupable, les deux terminent par un sourire naturel.
+
+Ne pas jouer les personnages comme des rôles de mini-séries exagérément mignons.
+
+[Cadrage et montage]
+
+L'ensemble du film utilise trois plans aux fonctions claires.
+
+0-5s : utiliser un plan large pour montrer la relation entre les livraisons et l'espace loué.
+
+5-10s : utiliser un plan moyen double pour placer la différence de points de vue au centre.
+
+10-15s : utiliser un gros plan double pour former un contraste visuel complet avec la lampe, les expressions et la cuisine.
+
+Mouvements de caméra sobres, possibilité d'utiliser de légers travellings avant et des panoramiques naturels.
+
+Maintenir un axe de tournage stable et les relations spatiales gauche-droite entre les personnages.
+
+La fin ne doit pas changer brusquement de lieu ni montrer de scènes fantaisistes supplémentaires.
+
+[Design sonore]
+
+Dialogues natifs synchronisés en mandarin.
+
+Tous les sons doivent correspondre aux bons personnages, avec une synchronisation labiale précise.
+
+Les sons d'ambiance naturels incluent :
+
+Ouverture/fermeture de porte.
+
+Légers frottements du carton et des emballages.
+
+Bruits de pas.
+
+Contact avec l'emballage de la lampe.
+
+Froissement des vêtements.
+
+Bruit ambiant intérieur.
+
+Enfin, aucun rire en conserve.
+
+Autoriser un seul rire naturel et léger entre les deux amies.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120740975878569984/img/idzktqO2eZUN37x7.jpg" width="600" alt="Comédie sur le shopping en ligne à domicile">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13744)**
+
+**Auteur:** [𝕊𝖔ʳᵃɴ](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2120744354654691798) | **Publié:** Nov 12, 2026
+
+---
+### Scène de la Cloche de la Victoire Silencieuse
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt pour un drame cinématographique Xianxia de 15 secondes utilisant Seedance 2.0 Mini, où une cloche de la victoire est rendue silencieuse pour protéger les survivants endormis.
+
+#### 📝 Prompt
+
+```
+[Invite chinois correspondant complet]
+
+[Style général et intrigue principale]
+
+Œuvre : « Ce son, laissons-le en suspens »
+
+Vidéo de 15 secondes en prise de vues réelles, qualité cinématographique, avec un retournement de situation typique du Xianxia chinois.
+
+Format horizontal 16:9, Seedance 2.0 Mini, synchronisation audiovisuelle native en mandarin.
+
+Adopter la texture photographique cinématographique de l'Arri Alexa 35, de véritables acteurs adultes d'Asie de l'Est, des textures de peau naturelles, des matières en soie délicates, des objets métalliques réalistes, un éclairage volumétrique naturel et un espace cinématographique doté d'une profondeur atmosphérique.
+
+L'émotion générale est contenue : on installe d'abord une cérémonie de victoire solennelle, puis, par un geste infime, on amène le public à redéfinir ce qui constitue le véritable fruit de cette victoire.
+
+Prémisse de l'histoire
+
+Après dix années de guerre, la secte a enfin remporté une victoire décisive.
+
+Le Maître remet le maillet symbolisant le triomphe à la Sœur Aînée Immortelle de l'Épée.
+
+La Sœur Aînée s'apprête à frapper l'immense cloche de bronze de la victoire pour annoncer le triomphe à tous.
+
+Juste au moment où le maillet va s'abattre, la Sœur Cadette l'arrête soudainement.
+
+Aux yeux de la foule, ce geste est incompréhensible.
+
+Dix ans de combats acharnés, et enfin l'heure du retour.
+
+Pourquoi les empêcher de faire sonner cette unique cloche ?
+
+La véritable réponse se trouve derrière la cloche de la victoire.
+
+Les blessés et les enfants ayant survécu à la guerre ont enfin trouvé le sommeil.
+
+Ils ont enduré des jours de fuite, de terreur et de massacres.
+
+Ils ont entendu trop de tocsins, de tambours de guerre et d'appels à l'aide.
+
+À cet instant, la chose la plus précieuse est de pouvoir dormir en paix.
+
+La Sœur Cadette ne renie pas la victoire.
+
+Elle a simplement compris avant tout le monde ce que cette victoire protégeait réellement.
+
+Après avoir saisi cela, la Sœur Aînée choisit de baisser le maillet.
+
+Finalement, un ruban de soie rouge silencieux remplacera le tintamarre assourdissant de la cloche du triomphe.
+
+Retournement central : passer de « Pourquoi a-t-elle interrompu les célébrations ? » à « En réalité, elle protégeait la victoire elle-même. »
+
+Aucune apparition soudaine de méchants.
+
+Aucune révélation d'identité, fausse mort, complot de secte ou miracle surnaturel.
+
+Ce sont les choix des personnages qui portent toute la force de l'histoire.
+
+[Personnages et relations]
+
+Personnage A : @Image1, la Sœur Aînée Immortelle de l'Épée
+
+Reprendre strictement le même personnage précédemment validé.
+
+Femme adulte d'Asie de l'Est, entre 25 et 30 ans.
+
+Visage ovale clair, doux et naturel, yeux sombres en amande, longs cheveux noirs à demi attachés retenus par une épingle en jade blanc, silhouette grande et élancée.
+
+Porte toujours le même ensemble Hanfu en soie blanche brodée, aux larges manches superposées semi-transparentes, avec une ceinture argentée, un pendentif en jade et des bottines en tissu blanc.
+
+Ne porte qu'une seule longue épée en argent.
+
+Ne dégaine jamais son épée dans ce film.
+
+Elle a mené la secte à travers une longue guerre et accueille enfin une victoire durement acquise.
+
+Son désir de faire sonner la cloche de la victoire est donc totalement sincère.
+
+La Sœur Aînée n'ignore pas les souffrances de la guerre.
+
+Simplement, à cet instant précis, toute son attention est concentrée sur cette victoire enfin accomplie.
+
+Lorsque la Sœur Cadette l'arrête, elle est d'abord surprise.
+
+Puis, en observant par elle-même, elle modifie activement sa décision.
+
+Évolution de l'état du personnage :
+
+Soulagement après dix années d'attente enfin achevées ;
+
+Incompréhension après avoir été arrêtée ;
+
+Découverte de détails qu'elle avait ignorés ;
+
+Renoncement volontaire à faire sonner la cloche ;
+
+Célébration accomplie d'une autre manière.
+
+Personnage B : @Image2, la Sœur Cadette
+
+Reprendre strictement le même personnage précédemment validé.
+
+Femme adulte d'Asie de l'Est, entre 20 et 25 ans.
+
+Visage rond et lumineux, cheveux noirs tressés, silhouette menue.
+
+Porte toujours un Hanfu en lin vert, une ceinture sombre, une épingle à cheveux en bois et des chaussures en tissu noir.
+
+Ne porte qu'une seule épée en acier sombre.
+
+Ne dégaine jamais son épée dans ce film.
+
+Avant cette scène, la Sœur Cadette veillait sur les blessés.
+
+Elle les a vus incapables de fermer l'œil de la nuit, réveillés en sursaut par la guerre.
+
+Elle sait que le son de la cloche les tirera à nouveau du sommeil.
+
+Elle doit donc intervenir avant que la Sœur Aînée ne frappe la cloche.
+
+Elle n'a préparé aucun discours pour convaincre la Sœur Aînée.
+
+Elle s'est contentée de lui saisir doucement le poignet.
+
+Puis de la laisser voir et entendre par elle-même.
+
+Elle a confiance : la Sœur Aînée finira par comprendre.
+
+Nouveaux personnages secondaires
+
+Le Vieux Maître :
+
+Homme adulte d'Asie de l'Est, vêtu d'anciennes robes bleu profond.
+
+En tant que doyen de la secte, il remet personnellement le maillet du triomphe à la Sœur Aînée.
+
+Il attendait lui aussi cette cérémonie avec impatience ; il est donc stupéfait par l'intervention soudaine de la Sœur Cadette.
+
+Par la suite, en apercevant les blessés et les enfants endormis, il accepte de lui-même de ne pas faire sonner la cloche.
+
+Le Maître ne doit en aucun cas se transformer soudainement en tyran furieux.
+
+Deux disciples de la secte :
+
+De retour du combat, le visage fatigué mais rayonnant d'une joie sincère.
+
+Placés au loin.
+
+Chargés d'incarner la présence de la foule, sans voler la vedette.
+
+Blessés et enfants au repos :
+
+Quelques civils ordinaires épuisés et deux enfants.
+
+Peuvent porter des bandages simples, allongés sur des nattes basses, recouverts de couvertures en tissu uni.
+
+Aucune plaie sanglante ne doit apparaître.
+
+Ils doivent dormir naturellement, comme des personnes véritablement exténuées.
+
+Un enfant serre doucement un petit mouchoir plié, la tête appuyée contre l'épaule d'une femme plus âgée.
+
+La scène ne nécessite pas un grand nombre de figurants.
+
+[Lieu actuel et relations spatiales]
+
+Tous les décors et images de référence de lieux téléchargés lors de cette session constituent le monde physique réel de la vidéo.
+
+Ils ne peuvent pas être traités comme de simples inspirations visuelles.
+
+Établissez d'abord un environnement unifié selon les images de référence :
+
+Relief réel ;
+
+Relations spatiales des bâtiments principaux ;
+
+Chemins et zones praticables ;
+
+Échelle physique ;
+
+Usure des matériaux ;
+
+Végétation et étendues d'eau ;
+
+Météo et nuages ;
+
+Brume ;
+
+Direction de la lumière principale ;
+
+Reflets ;
+
+Couleurs et profondeur atmosphérique.
+
+Choisissez une zone de sol stable au sein du lieu de référence, capable d'accueillir raisonnablement une cérémonie de triomphe temporaire.
+
+Ne modifiez pas arbitrairement les points de repère principaux ni les structures architecturales du lieu de référence.
+
+Disposition spatiale centrale
+
+Une grande et ancienne cloche de bronze de la victoire est suspendue à un support en bois rudimentaire.
+
+À côté de la cloche se trouve un maillet en bois.
+
+Un ruban de soie rouge du triomphe, pas encore entièrement déployé, est préalablement attaché au support en bois.
+
+Cette soie rouge doit exister concrètement dès le premier plan.
+
+Derrière la cloche de la victoire se trouve un abri temporaire sommaire.
+
+Un simple rideau et la large surface circulaire de la cloche masquent conjointement la vue directe du public sur cet abri.
+
+Les blessés et les enfants s'y reposent depuis le début de la scène.
+
+Simplement, la caméra initiale ne montre pas leur ensemble.
+
+Le deuxième plan les révèle simultanément au public et aux personnages grâce à un mouvement latéral naturel.
+
+Il ne s'agit ni d'un changement de décor brutal, ni de l'apparition soudaine d'une nouvelle foule.
+
+Dynamique environnementale
+
+Le vent anime naturellement les manches, les cheveux longs, la soie rouge et la végétation.
+
+Les étendues d'eau lointaines, les nuages/brumes et les personnages en arrière-plan conservent un mouvement cohérent.
+
+La direction de la lumière naturelle reste stable.
+
+L'arrière-plan demeure vivant au premier plan, au plan moyen et en arrière-plan tout au long de la scène.
+
+Mais l'environnement ne provoque aucun rebondissement.
+
+L'intrigue est uniquement portée par les actions des personnages.
+
+[Perception initiale et indices clés]
+
+Ce que le public voit au départ :
+
+La cérémonie de la victoire est prête.
+
+Le Maître remet personnellement le maillet.
+
+La Sœur Aînée s'apprête solennellement à frapper la cloche.
+
+La Sœur Cadette l'arrête soudainement.
+
+Son comportement sera perçu comme un refus de célébrer, voire comme la destruction d'un moment d'honneur rare après dix années.
+
+Trois détails clés préexistants
+
+Premièrement : la taille de la cloche de la victoire.
+
+Elle est suffisamment imposante pour que le son produit soit nécessairement puissant.
+
+Empêcher la cloche de sonner a donc une signification pratique évidente.
+
+Deuxièmement : l'abri situé derrière.
+
+Il existe réellement dès le premier plan, mais est masqué par la cloche de bronze et le rideau.
+
+Le deuxième plan ne fait que changer l'angle d'observation.
+
+Troisièmement : le ruban de soie rouge du triomphe.
+
+Suspendu au support de la cloche dès l'ouverture.
+
+À la fin, la Sœur Aînée le détache et le déploie, accomplissant ainsi une annonce silencieuse de la victoire.
+
+Tout le retournement repose sans nouveaux pouvoirs surnaturels, secrets de personnages ou accessoires importants surgis de nulle part.
+
+[0 à 5 secondes : accroche d'ouverture et conflit initial]
+
+Cadrage : travelling avant du plan d'ensemble au plan moyen.
+
+Caméra : objectif 35 mm, travelling avant lent et stable.
+
+L'ouverture plonge directement dans la cérémonie du triomphe déjà préparée.
+
+Une large cloche de victoire en bronze est suspendue à un support en bois.
+
+La surface de bronze conserve les textures authentiques de la fonte ancienne et l'usure du temps.
+
+Un ruban de soie rouge du triomphe est noué à côté du support en bois.
+
+Le Vieux Maître tend le maillet en bois à la Sœur Aînée Immortelle de l'Épée.
+
+La Sœur Aînée tend la main et le saisit.
+
+Elle regarde cette cloche de bronze.
+
+Dans ses yeux se lit une fatigue mêlée de soulagement, celle qui suit la fin d'une longue campagne.
+
+Le Maître murmure doucement :
+
+Maître : « Dix ans. Fais-la sonner. »
+
+La Sœur Aînée lève lentement le maillet.
+
+Tous les mouvements respectent la biomécanique réelle.
+
+Juste au moment où le maillet va toucher la surface de la cloche...
+
+La Sœur Cadette avance soudain d'un demi-pas et tend la main pour saisir doucement mais fermement le poignet droit de la Sœur Aînée.
+
+Le maillet s'immobilise.
+
+Aucun impact.
+
+Aucun son de cloche.
+
+Sœur Cadette : « Sœur Aînée, ne la fais pas sonner. »
+
+Le Maître se fige instantanément.
+
+La Sœur Aînée tourne lentement la tête.
+
+Elle n'est pas en colère.
+
+Elle ne s'attendait tout simplement pas à ce que la Sœur Cadette l'arrête à cet instant.
+
+Une nette incompréhension se lit dans son regard.
+
+La caméra change d'angle lorsque leurs regards se croisent.
+
+À ce moment-là, le public devrait naturellement se demander :
+
+Pourquoi nous interdire de faire sonner la cloche alors que nous avons gagné ?
+
+[5 à 10 secondes : action des personnages et basculement de la situation]
+
+Cadrage : plan moyen.
+
+Caméra : léger mouvement latéral, maintenant d'abord le rapport entre les visages des deux femmes, puis révélant l'espace derrière en longeant le bord de la cloche de bronze.
+
+La main droite de la Sœur Aînée tient toujours le maillet.
+
+La Sœur Cadette maintient doucement sa prise sur son poignet.
+
+La Sœur Aînée regarde la Sœur Cadette :
+
+Sœur Aînée : « Pourquoi ? »
+
+La Sœur Cadette ne cherche pas à se justifier précipitamment.
+
+Elle relâche lentement le poignet de la Sœur Aînée.
+
+Puis lève un doigt, l'approchant doucement de ses lèvres.
+
+Pour inviter la Sœur Aînée au silence.
+
+Sœur Cadette : « Écoute. »
+
+À cet instant, les faibles bruits de célébration au loin s'estompent progressivement.
+
+Le design sonore permet aux personnages de commencer à percevoir :
+
+De légers bruits de respiration ;
+
+Des souffles de sommeil calmes et réguliers ;
+
+De discrets frottements de tissus portés par le vent.
+
+La caméra effectue un panoramique latéral naturel le long du bord de la cloche de victoire en bronze.
+
+La zone jusqu'alors masquée par le corps de la cloche et le rideau apparaît peu à peu.
+
+Ce n'est pas un autre lieu.
+
+Il s'est toujours trouvé derrière le support de la cloche.
+
+Plusieurs civils blessés et des enfants sont allongés sur des nattes temporaires.
+
+Ils dorment profondément.
+
+Un enfant serre fermement un petit mouchoir plié.
+
+Sa tête repose naturellement contre l'épaule de la femme plus âgée à ses côtés.
+
+Personne ne parle.
+
+Personne ne pleure.
+
+Le public comprend, à leur fatigue, leurs bandages et leurs postures, qu'ils ont longtemps vécu dans la peur et la fuite.
+
+Le regard de la Sœur Aînée suit la direction indiquée par la Sœur Cadette.
+
+Elle finit par voir ces gens.
+
+Le maillet, toujours levé, reste suspendu en l'air, retardant sa chute.
+
+À cet instant, l'émotion de la Sœur Aînée bascule.
+
+Elle ne regarde plus seulement la cloche de bronze symbole de victoire.
+
+Elle voit véritablement ceux qu'elle a protégés.
+
+[10 à 15 secondes : retournement clé et aboutissement émotionnel]
+
+Cadrage : gros plan.
+
+Caméra : composition stable en gros plan, avec des transitions de mise au point naturelles entre les visages des personnages, le maillet tenu en main et la soie rouge.
+
+Conserver les mêmes personnages, le même éclairage, la même cloche de bronze et un espace géographique parfaitement cohérent.
+
+La Sœur Cadette se tient aux côtés de la Sœur Aînée.
+
+Elle n'ajoute rien.
+
+Elle attend simplement, en silence, que la Sœur Aînée prenne sa propre décision.
+
+La Sœur Aînée abaisse lentement le maillet.
+
+Le geste est très léger.
+
+Elle dépose délicatement le maillet à côté du support de la cloche.
+
+Le bois touchant le support ne produit qu'un son infime.
+
+Le Vieux Maître a déjà aperçu la foule endormie derrière, par le bord de la cloche de bronze.
+
+Il ne dit rien non plus.
+
+Son regard passe de la Sœur Aînée à ces enfants.
+
+Sa posture corporelle, d'abord prête à officier la cérémonie, se relâche lentement.
+
+La Sœur Aînée tend la main et prend le ruban de soie rouge du triomphe, présent sur le support en bois depuis l'ouverture.
+
+Elle déploie doucement la soie rouge.
+
+Puis la drape sur le sommet de la cloche de bronze, laissant le ruban retomber naturellement.
+
+La soie rouge ondoie légèrement sous le vent.
+
+La cloche ne sonne toujours pas.
+
+La Sœur Aînée regarde les enfants endormis.
+
+Elle murmure d'une voix extrêmement douce :
+
+Sœur Aînée : « Ce son, laissons-le en suspens. »
+
+Ne pas le prononcer comme une déclaration héroïque.
+
+Cette phrase ressemble simplement à un accord paisible entre deux personnes.
+
+Les épaules jusque-là tendues de la Sœur Cadette se relâchent enfin légèrement.
+
+Le Maître se tient à leurs côtés.
+
+Il ne prononce aucun discours.
+
+Il observe simplement, en silence.
+
+Plan final
+
+Premier plan :
+
+L'immense cloche de victoire en bronze, immobile et suspendue.
+
+Le ruban de soie rouge symbolisant le triomphe repose sur la surface de la cloche.
+
+Plan moyen :
+
+La Sœur Aînée Immortelle de l'Épée et la Sœur Cadette, debout côte à côte.
+
+Elles ne lèvent pas leurs épées et ne poussent aucun cri.
+
+Arrière-plan :
+
+Les blessés et les enfants qui viennent de survivre à la guerre dorment toujours paisiblement.
+
+Une brise caresse doucement la soie rouge.
+
+La lumière naturelle balaie la surface patinée de la cloche de bronze.
+
+Fin de l'image.
+
+Dix années de guerre, enfin victorieuses.
+
+Mais la victoire d'aujourd'hui n'a produit aucun son assourdissant.
+
+Parce que quelqu'un pouvait enfin dormir en paix.
+
+[Jeu d'acteur et dialogues]
+
+Le film entier ne comporte que cinq répliques en mandarin natif.
+
+Maître : « Dix ans. Fais-la sonner. »
+
+Ton grave, empreint du soulagement d'une longue attente enfin terminée.
+
+Sœur Cadette : « Sœur Aînée, ne la fais pas sonner. »
+
+Urgent mais poli.
+
+Son but est d'interrompre le geste immédiat, et non de défier l'autorité de la Sœur Aînée.
+
+Sœur Aînée : « Pourquoi ? »
+
+Surprise, confuse, le ton très maîtrisé et léger.
+
+Sœur Cadette : « Écoute. »
+
+Volume réduit, pour laisser l'autre découvrir la vérité par elle-même.
+
+Sœur Aînée : « Ce son, laissons-le en suspens. »
+
+Voix douce et ferme.
+
+C'est la décision qu'elle prend d'elle-même après avoir compris la situation.
+
+Tous les dialogues des personnages sont naturels, clairs et strictement synchronisés avec les mouvements de lèvres de celui qui parle.
+
+Les personnages muets ne doivent pas ouvrir la bouche sans raison.
+
+N'ajoutez aucune voix off ni dialogue explicatif supplémentaire.
+
+[Cadre et montage]
+
+Les trois séquences ont des fonctions visuelles distinctes.
+
+Premier plan : faire de la cloche de la victoire le centre du cadre.
+
+À travers sa taille, sa texture de cuivre, le Maître remettant le maillet et la Sœur Aînée le levant, établir la solennité de la cérémonie de la victoire.
+
+La Sœur Cadette tend soudain la main, brisant l'attente créée chez le public.
+
+Deuxième plan : modifier le monde vu par le public grâce à un mouvement latéral.
+
+Ne créez pas de nouveaux décors à partir de rien.
+
+Révélez simplement l'abri déjà existant au fil du mouvement de la caméra.
+
+Le poids visuel glisse de l'imposante cloche de bronze symbolisant la victoire vers ces quelques personnes dormant paisiblement.
+
+Troisième plan : les personnages accomplissent le retournement par de nouvelles actions.
+
+La Sœur Aînée pose le maillet.
+
+Prend la soie rouge préexistante.
+
+Annonce la victoire en silence.
+
+Ne vous appuyez pas sur des ralentis exagérés ni sur des mouvements de caméra circulaires complexes.
+
+La caméra doit rester stable, claire et continue.
+
+Une faible profondeur de champ est tolérée, mais les actions clés et les accessoires importants doivent rester parfaitement identifiables.
+
+[Design sonore]
+
+Le son joue un rôle crucial dans ce retournement.
+
+Séquence 1
+
+Sons environnementaux naturels et ambiance de triomphe très contenue.
+
+Possibilité de murmures parmi la foule fatiguée au loin, mais aucune acclamation massive.
+
+Lorsque le maillet est levé, n'utilisez pas de percussions lourdes pour créer un suspense artificiel.
+
+Séquence 2
+
+Après le « Écoute » de la Sœur Cadette, baissez progressivement les voix lointaines et la musique.
+
+Déplacez l'attention vers l'abri.
+
+Conservez les vrais bruits de respiration, les légers frottements de tissus et les sons environnementaux naturels cohérents avec le lieu de référence.
+
+Laissez le silence sonore devenir partie intégrante de la prise de conscience des personnages.
+
+Séquence 3
+
+Aucun son de cloche.
+
+Aucune montée soudaine de musique sentimentale.
+
+Conservez uniquement le léger dépôt du maillet, le froissement de la soie contre le bronze, la brise et les sons ambiants.
+
+La dernière réplique de la Sœur Aînée :
+
+« Ce son, laissons-le en suspens. »
+
+Doit présenter des mouvements de lèvres nets, un souffle réel et un volume naturel.
+
+Après la fin du dialogue, laissez un bref silence.
+
+[Continuité des personnages, accessoires et décors]
+
+Personnages :
+
+@Image1 et @Image2 conservent le même visage, des proportions faciales identiques, la même coiffure, les mêmes vêtements, les mêmes proportions corporelles, la même épée et le même tempérament tout au long de la vidéo.
+
+La Sœur Aînée tient le maillet dans sa main droite lors des plans 1 et 2.
+
+La Sœur Cadette s'approche par la droite de la Sœur Aînée et lui retient le poignet.
+
+Leurs déplacements respectent des trajectoires physiques réalistes.
+
+Les personnages secondaires n'entrent dans le cadre que si cela correspond à leur position sur place.
+
+Maillet :
+
+Remis par le Maître à la Sœur Aînée au début.
+
+Levé par la Sœur Aînée.
+
+Arrêté par la Sœur Cadette.
+
+Tenu par la Sœur Aînée.
+
+Finalement posé.
+
+Tout au long de ce processus, il ne doit y avoir aucun changement de main instantané, aucune disparition du maillet, ni aucun déplacement inexplicable.
+
+Cloche de victoire en bronze :
+
+Toujours la même cloche de bronze.
+
+Les proportions du corps de la cloche, le support en bois, la texture des matériaux, la hauteur de suspension et la position spatiale restent constants.
+
+Le maillet ne touche jamais la surface de la cloche durant tout le film.
+
+Soie rouge :
+
+Présente sur le support de la cloche dès le premier plan.
+
+Finalement déployée par la Sœur Aînée elle-même et drapée sur la cloche de bronze.
+
+Elle ne peut pas apparaître par magie à la fin.
+
+Zone d'abri :
+
+Existe réellement derrière le support de la cloche dès l'ouverture.
+
+La literie, le nombre de personnes, la position des enfants et les rideaux maintiennent une continuité spatiale.
+
+Révélée dans le deuxième plan par un changement de perspective de la caméra.
+
+Les enfants endormis et les blessés restent endormis jusqu'à la fin.
+
+Arrière-plan :
+
+Respecte toujours les images de référence réelles du lieu de cette session.
+
+Conservez l'identité du relief, les relations spatiales architecturales, la lumière principale, la météo, les matériaux et l'échelle environnementale.
+
+Le vent naturel, l'eau, la brume, la végétation, les mèches de cheveux, les manches et la soie rouge continuent de s'animer de façon réaliste.
+
+L'arrière-plan ne génère pas de nouveaux événements dramatiques.
+
+[Exigences d'exécution pour Seedance 2.0 Mini]
+
+Utiliser le modèle seedance 2.0 mini pour générer un court-métrage strict de 15 secondes, format horizontal 16:9, en prise de vues réelles de qualité cinématographique, avec un retournement de situation typique du Xianxia chinois.
+
+Séquence de plans centrale :
+
+0–5 s : le Maître remet le maillet, la Sœur Aînée le lève, la Sœur Cadette intervient soudainement.
+
+5–10 s : la Sœur Cadette demande à la Sœur Aînée d'écouter, la caméra révèle les blessés et les enfants dormant paisiblement derrière.
+
+10–15 s : la Sœur Aînée pose le maillet, déploie la soie rouge et conclut l'arc émotionnel avec la dernière réplique.
+
+Assurez la stabilité et la continuité de l'axe de la caméra, du positionnement des personnages, des lignes de regard, de la place des accessoires, de la direction de la lumière et de l'espace environnemental entre les trois plans.
+
+Veillez particulièrement à garantir les résultats visuellement réalistes suivants :
+
+La Sœur Cadette doit réussir à arrêter la Sœur Aînée avant que le maillet ne touche la cloche de bronze.
+
+La caméra doit véritablement révéler l'abri auparavant masqué.
+
+La Sœur Aînée doit voir la foule endormie de ses propres yeux et modifier son geste en conséquence.
+
+La soie rouge doit exister au préalable et être finalement déployée activement par la Sœur Aînée.
+
+La cloche de bronze ne doit pas sonner pendant tout le film.
+
+Les blessés et les enfants demeurent paisiblement endormis à la fin.
+
+Les micro-expressions des personnages sont réelles et contenues.
+
+Toutes les actions sont complètes et logiques.
+
+Les dialogues en mandarin sont nativement synchronisés.
+
+N'ajoutez aucun nouveau conflit, retournement d'identité, effet de sortilège, combat ou intrigue secondaire.
+
+Ne générez aucun sous-titre, titre, voix off ni texte superflu.
+
+Émotion finale : faire réaliser au public que parfois, la victoire la plus digne d'être célébrée est précisément celle qui doit rester silencieuse.
+
+[Prompt négatif]
+
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120725137213595648/img/z1VAUSwvmx61K2ub.jpg" width="600" alt="Scène de la Cloche de la Victoire Silencieuse">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13745)**
+
+**Auteur:** [𝕊𝖔ʳᵃɴ](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2120725797229183155) | **Publié:** Nov 12, 2026
+
+---
+### Prompt de film d'action fantastique Seedance 2.5
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt pour générer un court-métrage d'action fantastique de 30 secondes mettant en scène une gardienne combattant un monstre géant sur un quai de ferry.
+
+#### 📝 Prompt
+
+```
+Prompt Seedance 2.5
+[Exigences de génération]
+Générer un court-métrage d'action fantastique cinématographique en prises de vues réelles de 30 secondes complètes, format paysage 16:9, composé de 9 plans.
+Concept du titre : « Le bateau est parti, elle n'est pas montée à bord ».
+
+Scènes grandioses, combats intenses, personnages avec une application réaliste des forces, déséquilibres, essoufflement et impacts.
+Ce n'est ni une cinématique de jeu vidéo, ni une démonstration d'arts martiaux figée, ni un protagoniste écrasant facilement le monstre.
+Faire avancer l'histoire par des attaques/défenses claires, des changements spatiaux et des percées progressives ; ne pas s'appuyer sur la magie, des explosions continues ou des ralentis sur toute la durée.
+
+[Matériaux de référence]
+@Image 1 : Référence unique pour le personnage et l'équipement de la garde. Verrouiller les traits du visage, la coiffure, l'armure, la tunique, l'équipement des jambes, les bottes de combat et la lame à long manche. Ne pas copier la pose debout ni la composition du concept art.
+@Image 2 : Référence de décor et d'architecture pour le passage du bac. Verrouiller les berges de pierre, les vieux quais en bois, les vallées, les villes anciennes et l'apparence du bac en bois.
+@Image 3 : Référence visuelle unique pour le Béhémoth à armure de roche. Verrouiller le contour de la tête, la forme des cornes, l'armure épaisse en couches, les membres robustes et les proportions corporelles.
+
+[Histoire principale]
+Le dernier bac d'évacuation quitte le rivage. La garde reste sur le quai en bois pour retenir le béhémoth qui poursuit la foule.
+Elle doit tenir bon jusqu'à ce que le bac ait quitté la zone de danger.
+Pendant le combat, elle est repoussée et mise à terre, puis contourne le béhémoth pour reculer vers la berge.
+Le béhémoth fracasse le quai en bois dans sa poursuite. L'héroïne finit par poser le pied sur une plateforme de pierre stable. Le béhémoth marche sur des sections de bois déjà endommagées, provoquant un effondrement localisé dans l'eau qui l'empêche temporairement de poursuivre.
+Une fois la sécurité confirmée, l'héroïne regarde le bac qui s'éloigne et lève la main pour signaler qu'elle est en vie.
+
+[Apparence fixe de la protagoniste]
+Femme adulte, environ 26 ans, apparence strictement conforme à @Image 1.
+Maintenir la cohérence du visage sous tous les angles, cheveux foncés attachés, armure métallique, tunique, équipement des jambes, bottes de combat et lame à long manche.
+Ne pas redessiner les vêtements, ajouter/retirer des pièces d'armure ou changer d'arme.
+L'équipement est entièrement visible dès le début ; la lame est toujours dans sa main ou clairement visible à son côté — elle ne disparaît ni ne se dédouble jamais.
+Peau réaliste, armure et cuir usés. Accumuler progressivement copeaux de bois, poussière et petites éclaboussures pendant le combat ; les cheveux se décoiffent au fil du temps et ne se remettent pas en place magiquement.
+Belle mais sans poses artificielles ; mouvements pratiques ; la respiration et les expressions changent selon l'évolution du combat.
+
+[Apparence fixe du béhémoth]
+Respecter strictement le béhémoth quadrupède à armure de roche de @Image 3.
+Hauteur au garrot d'environ 3 mètres, corpulence lourde, tête basse, armure de roche rugueuse en couches, membres robustes.
+Maintenir des formes de cornes, une répartition de la carapace, des proportions corporelles et un nombre de membres identiques.
+Se comporter comme un grand animal doté d'un poids réel : nécessite un freinage après une charge, ajuste ses appuis dans les virages, ne pivote pas instantanément, ne rebondit pas avec légèreté.
+Ne pas ajouter d'ailes, de tentacules, de capacités supplémentaires, d'yeux brillants, de souffle de feu ou de rayons d'énergie.
+
+[Verrouillage spatial du passage du bac]
+L'apparence générale s'inspire de @Image 2, en organisant les actions selon des relations spatiales latérales claires :
+Côté gauche : berge de pierre stable et large plateforme de pierre.
+Un vieux quai en bois s'étend depuis la berge de pierre gauche vers la surface de l'eau à droite.
+La section centrale du quai est plus large, permettant à la protagoniste de contourner le béhémoth par l'extérieur.
+Le bac part de l'extrémité extérieure du quai vers les eaux libres à droite.
+
+Ouverture : la protagoniste se trouve à l'extrémité la plus éloignée du quai, face au béhémoth qui approche depuis le côté de la berge.
+Le béhémoth se situe entre la protagoniste et la berge de pierre ; le bac est derrière la protagoniste, sur l'eau.
+La section centrale doit montrer intégralement le processus par lequel la protagoniste contourne le béhémoth par l'extérieur pour revenir du côté de la berge. Ne pas intervertir brusquement les positions après une coupe.
+
+La section de bois près de la berge présente de vieilles fissures reconnaissables dès le départ, mais peut encore supporter du poids.
+La limite entre la berge de pierre stable et le quai en bois est nette.
+Seule la structure en bois endommagée s'effondre localement ; la berge de pierre ne s'effondre pas ; la protagoniste finit sur la plateforme de pierre intacte.
+
+[Continuité du bac]
+Dès le premier plan, le bac a largué ses amarres et quitte le quai ; aucune corde ne relie le bateau au quai.
+La proue fait face aux eaux libres ; la poupe fait face au quai.
+Tout au long du film, la distance entre le bac et le quai augmente continuellement ; il ne peut ni s'arrêter, ni revenir à sa position initiale, ni faire brusquement demi-tour.
+Seuls quelques passagers adultes se trouvent à bord, apparaissant comme de petites silhouettes lointaines ; aucune interaction complexe entre personnages.
+Ne pas prévoir que la protagoniste saute sur le bateau, grimpe aux cordages ou se batte sur le pont.
+
+[Éclairage et imagerie]
+Ciel couvert lumineux, lumière naturelle douce, côté gauche du cadre légèrement plus clair.
+Teints de peau réalistes, eau gris-bleu, berges de pierre grises, vieux bois naturel ; conserver les détails dans les ombres.
+Texture de film d'action épique en prises de vues réelles ; distinction nette des matériaux entre métal, cuir, armure de roche, bois et eau.
+Les plans moyens et larges clarifient l'attaque/défense ; les grands angles établissent l'espace et les percées ; les gros plans renforcent l'émotion des personnages.
+La caméra est stable mais dotée d'un dynamisme modéré ; travellings sur courte distance ; mouvements à l'épaule mesurés, sans secousses violentes.
+Ne pas utiliser de filtres bleu-orange prononcés, de lens flares exagérés ou de ralentis prolongés.
+
+[Découpage des plans]
+
+Plan 1 (0–3s) :
+Travelling grand angle de trois quarts profil ; le conflit éclate dès la première image.
+La patte avant du béhémoth fracasse une planche du quai devant la protagoniste ; des copeaux volent à l'impact. La protagoniste est projetée à genoux, sa lame à long manche toujours en main.
+Établir simultanément la berge de pierre stable à gauche, le bois fissuré près de la berge et le bac qui s'éloigne à droite.
+Cri hors champ des adultes sur le bateau : « Montez ! »
+La protagoniste lève les yeux, fixant le béhémoth, sans se retourner.
+
+Plan 2 (3–6s) :
+Coupe vers un plan moyen-large de profil, cadrant à la fois la protagoniste et le béhémoth.
+Le béhémoth avance vers l'extrémité du quai, tentant de contourner la protagoniste pour atteindre le bac.
+La protagoniste se déplace latéralement et porte une brève contre-attaque avec sa lame sur son membre antérieur, attirant son attention sur elle.
+Le béhémoth se tourne vers elle ; la protagoniste est forcée de reculer, les planches pliant et craquant sous ses pas.
+Elle ne peut pas rester immobile et absorber toute la force du béhémoth.
+
+Plan 3 (6–10s) :
+Coupe vers un grand angle de profil légèrement en plongée, montrant clairement un changement de position complet.
+Le béhémoth balaie l'air de sa griffe avant ; la protagoniste esquive la trajectoire de l'attaque, contournant le corps du béhémoth par l'extérieur via la section centrale plus large du quai, pour se déplacer du côté plus proche de la berge de pierre.
+Le béhémoth pivote et la poursuit.
+Montrer intégralement les trajectoires de déplacement des deux ; ne pas intervertir les positions par des jump cuts, ne pas passer sous le corps du monstre, ne pas laisser les personnages traverser les membres.
+
+Plan 4 (10–14s) :
+Coupe vers un plan moyen en travelling latéral rapproché.
+Le béhémoth se rapproche, membres antérieurs et épaules poussant vers l'avant.
+La protagoniste utilise sa lame pour accrocher le bord de la griffe, mais est frôlée et perd l'équilibre, tombant sur un genou et une main libre, glissant sur une courte distance le long des planches avant de s'arrêter.
+L'arme reste dans l'autre main ou collée au corps, toujours visible.
+Le déplacement ne se produit qu'après le contact ; les planches se fissurent davantage sous l'impact mais ne s'effondrent pas totalement.
+Elle subit la pression et halète ; pas de roulades continues, pas d'envols spectaculaires.
+
+Plan 5 (14–18s) :
+Coupe vers un plan moyen-large depuis la berge.
+La protagoniste se relève en prenant appui, reculant vers la berge de pierre stable, la lame restant visible.
+Le béhémoth marche sur les planches qu'elle vient de traverser ; les lourdes poutres s'enfoncent, des craquements proviennent de la zone endommagée près de la berge.
+Elle jette un bref regard à la structure brisée sous ses pieds, puis se reconcentre sur le béhémoth.
+Le bac lointain continue de s'éloigner, plus loin qu'au début.
+Aucun dialogue explicatif ; aucun gros plan de longue contemplation.
+
+Plan 6 (18–22s) :
+Grand angle de profil stable ; la limite de la berge de pierre, le bois endommagé, la protagoniste et le béhémoth sont tous distincts.
+La protagoniste a reculé jusqu'au point de jonction avec la berge de pierre ; le béhémoth charge à nouveau sur le bois endommagé.
+Elle effectue un court déplacement latéral, posant le pied sur la plateforme de pierre intacte adjacente, atterrissant normalement sur ses deux pieds.
+Les membres antérieurs du béhémoth s'appuient sur le bois endommagé ; les poutres cèdent sous la charge réelle, les jointures se disloquent, le centre de gravité s'abaisse.
+Le poids doit d'abord être supporté, puis la défaillance structurelle se produit ; pas de chute prématurée.
+
+Plan 7 (22–25s) :
+Coupe vers un grand angle de trois quarts.
+La section endommagée du quai s'effondre vers le bas ; le béhémoth perd son appui et tombe à l'eau avec les poutres brisées, créant des éclaboussures proportionnelles à son poids.
+Les grosses pièces de bois tombent selon la gravité ; rien ne flotte en apesanteur, rien ne se transforme en poussière.
+La protagoniste reste sur la plateforme de pierre intacte ; son corps n'est pas entraîné par l'effondrement.
+Le bac a quitté la zone de danger, non affecté par les éclaboussures ou les débris.
+Pas de combat sous-marin, pas de mort sanglante, pas d'explosions de boules de feu.
+
+Plan 8 (25–28s) :
+Coupe vers un plan moyen de profil de la protagoniste, léger travelling avant lent.
+Elle se tient fermement en agrippant sa lame, les épaules soulevées par une respiration rapide, les cheveux et l'équipement en désordre.
+Elle vérifie d'abord qu'aucune nouvelle menace ne surgit du quai détruit, puis se tourne pour regarder le bac qui s'éloigne.
+À la poupe, seule une très petite silhouette de passager adulte regarde dans sa direction ; ne pas filmer de détails du visage ou des doigts.
+
+Plan 9 (28–30s) :
+Coupe vers un gros plan frontal de la protagoniste ; la vallée et l'eau en arrière-plan sont naturellement floues.
+Une main agrippe toujours la lame ; la main libre se lève doucement vers le lointain pour signaler qu'elle est sauve.
+L'expression traduit le soulagement après l'épuisement, et non un rire triomphal.
+La fin repose sur sa respiration réelle, sa posture stable et son regard tourné vers le bac ; pas de fondu au noir.
+
+[Son]
+Pas lourds du béhémoth, frottements de l'armure, bois soumis à la contrainte, rupture des poutres, contacts de la lame, frottements des semelles, bruits de tissu et d'armure.
+Les bruits d'impact sont synchronisés avec les contacts réels ; ne pas utiliser de bruits d'os brisés exagérés.
+Le départ du bac comporte des bruits d'eau discrets et des craquements structurels de la coque en bois.
+Le seul dialogue est la voix de l'adulte sur le bateau au début
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120520856917114880/img/WasTr9Hk_PlmyXy9.jpg" width="600" alt="Prompt de film d'action fantastique Seedance 2.5">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13746)**
+
+**Auteur:** [Adamä¹Ÿå�«å�‰ç±³](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2120521214737416330) | **Publié:** Nov 11, 2026
+
+---
 ### Prompt de combat cyberpunk dans le métro pour Seedance 2.0
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -7817,181 +8983,6 @@ En contrebas, le SUV sombre poursuit sa route sur l'asphalte baigné de soleil, 
 **Auteur:** [Sharon Riley](https://x.com/Just_sharon7) | **Source:** [Link](https://x.com/Just_sharon7/status/2112913908617158822) | **Publié:** Oct 21, 2026
 
 ---
-### Romance à Manhattan : Le Café Échangé
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour une vidéo éditoriale de luxe cinématographique se déroulant à Manhattan, mettant en scène un échange de tasses de café qui déclenche une conversation, avec des instructions de référence pour les personnages.
-
-#### 📝 Prompt
-
-```
-The Wrong Coffee — Midtown Manhattan, New York
-
-Durée : 30 secondes | Format : 16:9 | Style : Éditorial cinématographique de luxe
-
-Références des personnages : Utilisez strictement les deux images fournies comme références pour les personnages, et non comme plans de départ. L'homme, Alex, est un cadre de la finance à Manhattan, confiant et brillant. Conservez exactement son visage, son costume sombre sur mesure, sa cravate et sa coiffure. La femme, Allisa, est le second personnage ; préservez fidèlement son identité, sa coiffure et sa tenue élégante et ajustée.
-
-Continuité visuelle : Photographie éditoriale chaleureuse et légèrement vintage, avec des reflets ambrés, un contraste atténué, un grain argentique subtil et une texture de peau réaliste. Colorimétrie homogène d'une scène à l'autre. Aucun halo artificiel ni effet « peau de plastique ».
-
-Fidélité de l'environnement : Toutes les enseignes, menus, noms et textes de rue visibles doivent être correctement orthographiés et lisibles. Aucun texte absurde ou illisible.
-
-Scène 1 — Le café du matin (0–4 s)
-
-Intérieur d'un café huppé de Midtown Manhattan, avec des comptoirs en pierre polie, une décoration raffinée et des professionnels affairés. Alex s'approche du comptoir, posé et sûr de lui. Aucun gobelet de café n'est visible sur le comptoir.
-
-Caméra placée derrière Alex, orientée vers le comptoir. Une magnifique barista d'une petite vingtaine d'années, aux traits saisissants dignes d'un mannequin et au charisme naturel, se tourne légèrement vers la zone de préparation des cafés, hors champ.
-
-Alex, d'un ton décontracté : « Un double expresso, s'il vous plaît. Je m'appelle Alex. »
-
-Barista, aimable : « Tout de suite. »
-
-Affichez exactement « Midtown Manhattan, New York » dans le tiers inférieur, centré horizontalement en bas du cadre, police Poppins Semi-Bold 600, blanc (#FFFFFF), sur un fond gris ardoise anthracite arrondi (#17212B) à 60 % d'opacité. Aucun caractère supplémentaire.
-
-Scène 2 — La barista (4–7 s)
-
-Caméra placée derrière Alex, mais selon un point de vue différent de celui de la Scène 1, orientée vers le comptoir.
-
-Barista, annonçant clairement : « Double expresso pour Alex ! »
-
-Alex reste absorbé par son téléphone. Aucun gobelet de café n'apparaît dans ce plan.
-
-Scène 3 — Le mauvais gobelet (7–11 s)
-
-Deux cafés à emporter sont posés côte à côte sur le comptoir de retrait par un employé que l'on ne voit pas. Sur l'un des gobelets est clairement inscrit ALEX, sur l'autre ALYSSA.
-
-Le regard toujours rivé sur son téléphone, Alex tend sa main libre et prend par erreur uniquement le gobelet marqué ALYSSA. Il s'éloigne en l'emportant, sans se rendre compte de sa méprise. Son propre café, marqué ALEX, reste sur le comptoir.
-
-Scène 4 — Le trottoir (11–14 s)
-
-À l'extérieur, Alex marche d'un pas rapide sur un trottoir animé de Midtown Manhattan, tenant le café d'ALYSSA d'une main tout en continuant de consulter son téléphone de l'autre.
-
-Derrière lui, ALYSSA sort du même café qu'Alex vient de quitter, tenant le café de ce dernier, et l'aperçoit devant elle.
-
-Scène 5 — La rencontre (14–19 s)
-
-ALYSSA rattrape Alex sur le trottoir.
-
-ALYSSA, légèrement amusée : « Je crois que vous avez pris mon café. »
-
-Alex lève les yeux de son téléphone, s'arrête et regarde le gobelet.
-
-Alex, regardant son gobelet puis ALYSSA, avec un sourire désolé : « Oh, c'est vrai. Toutes mes excuses. »
-
-Ils échangent naturellement leurs gobelets. Alex range son téléphone.
-
-Scène 6 — Même direction (19–24 s)
-
-Alex fait un geste en direction du trottoir.
-
-Alex, d'un ton décontracté : « Vous allez où ? »
-
-ALYSSA, pointant droit devant : « Dans la même direction que vous, apparemment. »
-
-Alex, souriant : « Eh bien, ça tombe bien. »
-
-Ils rient ensemble et commencent à marcher côte à côte, discutant avec aisance. Une caméra fixe les suit tandis qu'ils s'éloignent sur le trottoir jusqu'à sortir du cadre.
-
-Scène 7 — Une rencontre inattendue (24–30 s)
-
-Coupe franche vers une position de caméra fixe, plus loin sur le même pâté de maisons de Midtown. Alex et ALYSSA marchent côte à côte, cafés à la main, plongés dans une conversation animée.
-
-Allisa, taquine : « Alors, c'est votre routine matinale habituelle ? »
-
-Alex, amusé : « Rarement aussi intéressante. »
-
-Allisa rit naturellement, allant au bout de son rire sans être interrompue. Ils continuent de marcher et de discuter, se déplaçant vers le côté droit du cadre.
-
-Les deux personnages sortent entièrement du cadre par la droite. Maintenez le plan sur le trottoir vide pendant les 0,5 dernière seconde avant la fin.
-
-Réalisation : Dialogues naturels et fluides, synchronisation labiale précise, expressions émotionnelles subtiles et interactions physiques réalistes. Alex garde son téléphone dans une main tout au long des Scènes 2 à 4 et ne prend que le café d'Allisa avec sa main libre. Le gobelet ALEX reste sur place jusqu'à ce qu'Allisa vienne le récupérer. Respectez scrupuleusement l'attribution des gobelets et la continuité. Travellings cinématographiques et gros plans variés, avec des positions de caméra fixes pour les sorties de champ en marchant. Coupes franches nettes et instantanées. Laissez les dialogues, les réactions et les rires se terminer naturellement. Pas de ralenti, de morphing, de sous-titres ni de musique.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112876062648483840/img/gL4XyT3GY4OLJFzR.jpg" width="600" alt="Romance à Manhattan : Le Café Échangé">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12876)**
-
-**Auteur:** [Promethean](https://x.com/PrometheanAIX) | **Source:** [Link](https://x.com/PrometheanAIX/status/2112876623032689023) | **Publié:** Oct 21, 2026
-
----
-### Comédie sur le gang du léopard de la grand-mère
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt complexe pour une vidéo comique impliquant une grand-mère, un léopard et un gangster exigeant le loyer, avec des verrouillages d'identité stricts et des références aux accessoires.
-
-#### 📝 Prompt
-
-```
-RÉFÉRENCES : Grand-mère = minuscule grand-mère coréenne voûtée de 95 à 100 ans (visage exact, chignon blanc avec épingle en bois, jeogori matelassé indigo, écharpe en tricot gris, jupe prune, chaussures gomusin). Voyou = gangster très corpulent et graisseux (visage exact avec cicatrice sur le sourcil, doudoune noire brillante ouverte, chemise en soie à fleurs rouge et noire, chaîne en or, bague en or, pantalon de jogging noir, baskets blanches sales). Léopard = léopard des neiges adulte géant (pelage exact gris-blanc fumé, rosettes noires, yeux bleu glacier pâle, longue queue épaisse annelée). Cabane = cabane de thé de montagne au toit de chaume enneigé, perchée sur une colline avec une petite cour enneigée, un sentier serpentant le long de la pente vers la caméra, et de vastes montagnes enneigées brumeuses sur la droite. Conserver chaque identité, tenue, marque et décor identiques aux références tout au long de la scène. Seuls ces trois êtres existent dans la scène.
-
-BLOCAGES D'ACCESSOIRES : ACCESSOIRE-BÂTON = bâton de marche en bois noueux brun foncé, toujours dans la main droite de Grand-mère, elle s'y appuie à chaque instant. ACCESSOIRE-BOL = petit bol rond en terre cuite brune rempli de morceaux de viande rouge crue, toujours dans la main gauche de Grand-mère, jamais lâché, ne change jamais.
-
-BLOCAGE DE MISE EN SCÈNE : Grand-mère se tient dans la cour enneigée juste devant la porte de la Cabane, face au sentier/à la caméra, pendant toute la scène ; elle ne s'éloigne jamais. Le Voyou REMONTE le sentier et s'arrête à 2 mètres devant elle, le DOS tourné au sentier et à la pente. Le Léopard remonte ensuite ce MÊME sentier depuis la pente située derrière le Voyou. Neige tombant doucement tout au long de la scène.
-
-AMBIANCE VISUELLE : lumière hivernale couverte, neige bleu-blanc froid, lueur ambrée chaleureuse provenant de la porte de la cabane, faible saturation, contraste faible à moyen, grain cinématographique, halation douce. Vent ambiant, craquement de la neige.
-
-RYTHME : débit coréen naturel et posé, courtes pauses entre les répliques ; jamais précipité.
-
-0–6s : Plan d'ouverture aérien par drone FPV : très haut au-dessus de vastes chaînes de montagnes enneigées et brumeuses, glissant en douceur sur les crêtes de pins givrés et les nuages dérivants, puis plongeant gracieusement le long de la pente vers la minuscule Cabane enneigée sur la colline, ralentissant et avançant jusqu'à un plan moyen de Grand-mère debout dans la cour, appuyée sur l'ACCESSOIRE-BÂTON, tenant l'ACCESSOIRE-BOL.
-
-6–11s : Grand-mère regarde autour d'elle vers les collines, appelant avec douceur et tendresse, comme si elle s'adressait à son propre fils :
-Grand-mère (voix chantante, tendre) : 「우리 아가~ 밥 먹자… 어디 갔니, 우리 아들~」
-Elle appelle une fois de plus, scrutant les crêtes, souriante.
-
-11–17s : Lourds pas qui font craquer la neige. Le Voyou remonte le sentier à grands pas, haletant, le menton levé, et s'arrête devant elle.
-Le Voyou (brutal, impitoyable) : 「할매, 이번 달 자릿세. 빨리 내놔.」
-Grand-mère le regarde calmement et esquisse un petit sourire malicieux.
-Grand-mère (humble, douce) : 「잠깐만… 우리 고양이 밥 좀 주고. 그다음에 줄게.」
-
-17–22s : Le Voyou ricane avec arrogance, pinçant son pouce et son index rapprochés devant son visage pour se moquer de quelque chose de minuscule.
-Le Voyou (en colère, sarcastique) : 「그 쪼끄만 망할 고양이 기다릴 시간 없어!」
-Le regard de Grand-mère glisse par-dessus son épaule vers la pente ; un sourire heureux et satisfait se dessine sur ses lèvres.
-Grand-mère (chaleureuse) : 「아이고… 저기 오네.」
-
-22–30s : Le Voyou se retourne au moment précis où le léopard des neiges géant bondit depuis la pente derrière lui.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112833908299677696/img/2Q5Xexo0_Ulc2Edk.jpg" width="600" alt="Comédie sur le gang du léopard de la grand-mère">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12875)**
-
-**Auteur:** [Syed Abuthahir ∞](https://x.com/abulu8) | **Source:** [Link](https://x.com/abulu8/status/2112834308117324151) | **Publié:** Oct 21, 2026
-
----
-### Comédie Slapstick : La Gardienne Endormie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour une scène de comédie slapstick cinématographique où une gardienne endormie vainc accidentellement des voleurs, nécessitant une cohérence avec une image de référence.
-
-#### 📝 Prompt
-
-```
-Créez une scène de comédie burlesque ultra-réaliste digne d'un film. Le visage et la tenue de la gardienne doivent rester identiques à l'image de référence tout au long de la vidéo.
-
-Plan 1 (0–3 s) : À l'entrée d'un entrepôt, une gardienne de nuit dort profondément dans une chaise, les pieds posés sur une caisse. Elle ronfle, un sachet de chips à moitié vide sur les genoux. Cinq voleurs se faufilent à l'intérieur en lui lançant des sourires narquois.
-
-Plan 2 (3–8 s) : Les voleurs tentent de passer devant elle, mais ses mouvements inconscients suffisent à mettre l'un d'eux K.O. d'un coup de bras tendu, à faire trébucher un autre dans des caisses et à envoyer le troisième s'écraser contre une étagère. Elle continue de grignoter ses chips et marmonne d'une voix ensommeillée : « Trop lents… »
-
-Plan 3 (8–13 s) : Les voleurs restants se regroupent nerveusement avant que leur chef ne se jette sur elle. Sans même ouvrir les yeux, elle lui assène un coup de coude dans l'estomac en grommelant : « Encore cinq minutes. » Il s'effondre à côté des autres.
-
-Plan 4 (13–18 s) : Le dernier voleur tente de fuir, mais sa jambe étendue le fait trébucher droit dans des cartons. Les cinq malfrats gisent éparpillés dans l'entrepôt pendant qu'elle termine son sachet, lance l'emballage vide qui atterrit parfaitement dans la poubelle, puis utilise l'un des voleurs comme repose-pieds.
-
-Plan 5 (18–23 s) : Des sirènes de police se rapprochent. Elle entrouvre brièvement un œil, observe les voleurs vaincus avec un visage totalement impassible, lâche un « Je le savais », et se rendort aussitôt. Elle recommence à baver en ronflant.
-
-Plan 6 (23–30 s) : La police débarque, découvre les voleurs hors d'état de nuire et dévisage la gardienne endormie, incrédule. Un agent essaie de la réveiller, mais elle repousse sa main d'un geste paresseux. Le plan final révèle un nouveau sachet de chips mystérieusement apparu sur ses genoux, tandis qu'elle sourit paisiblement dans son sommeil.
-
-Style : Comédie burlesque au rythme effréné, cascades physiques exagérées mais inoffensives, réactions expressives, apparence du personnage constante, transitions fluides entre les plans, éclairage cinématographique d'entrepôt, timing comique impeccable et chute savoureuse.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112768240086859776/img/CEpXhdWMSiaYywaS.jpg" width="600" alt="Comédie Slapstick : La Gardienne Endormie">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12874)**
-
-**Auteur:** [WasifAI](https://x.com/doctorwasif) | **Source:** [Link](https://x.com/doctorwasif/status/2112768312488902962) | **Publié:** Oct 21, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -8053,6 +9044,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-11T22:46:17.806Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-12T06:17:27.437Z</sub>
 
 </div>

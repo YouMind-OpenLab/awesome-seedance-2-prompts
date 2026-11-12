@@ -68,9 +68,9 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6675** |
+| 📝 Total de prompts | **6678** |
 | ⭐ Prompts em destaque | **6** |
-| 🔄 Última atualização | **2026-11-11** |
+| 🔄 Última atualização | **2026-11-12** |
 
 ---
 
@@ -361,6 +361,1172 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Comédia sobre Compras Online em Casa
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt detalhado para gerar um vídeo de comédia cinematográfico de 15 segundos usando o Seedance 2.0 Mini, apresentando duas mulheres decorando um apartamento alugado com compras online.
+
+#### 📝 Prompt
+
+```
+Chame o Seedance 2.0 Mini para gerar uma comédia cinematográfica live-action estritamente de 15 segundos, na horizontal 16:9, sobre a vida chinesa moderna, com sincronização nativa de áudio e vídeo em mandarim.
+
+Esta rodada é inspirada na tendência recente de "montar uma casa pela internet".
+
+A essência dessa tendência é: jovens que, aos poucos, transformam seus espaços vazios em lugares do jeito que gostam, comprando móveis, luminárias, eletrodomésticos e itens do dia a dia online.
+
+Este filme escolhe um ângulo com o qual todo mundo se identifica:
+
+Mesmo sendo uma casa alugada, a pessoa ainda quer viver bem o momento presente.
+
+A história expressa esse sentimento por meio de conversas reais entre amigas, usando um pequeno descuido do cotidiano para criar a virada cômica.
+
+O filme adota um estilo de comédia realista moderna — nada de estética antiga forçada ou frases motivacionais desconectadas da realidade.
+
+A fotografia tem qualidade de cinema ARRI Alexa 35, pele feminina leste-asiática realista, traços naturais e nítidos, luz e sombra delicadas, leve granulação de película e uma atmosfera doméstica autêntica.
+
+[Método de Performance e História Completa Desta Rodada]
+
+Duas grandes amigas se encontram.
+
+A personagem mais velha (estilo "irmã mais velha") vai até a casa recém-alugada da mais nova (estilo "irmã mais nova") e encontra várias encomendas e móveis pela metade.
+
+A irmã mais nova anuncia, empolgada, que está "montando uma casa pela internet".
+
+A irmã mais velha não entende muito bem.
+
+Por que gastar tanta energia numa casa alugada?
+
+A pergunta retórica natural da mais nova faz a mais velha entender de repente o seu ponto de vista.
+
+Justo quando o clima começa a esquentar, a irmã mais velha sugere jantar ali mesmo naquela noite.
+
+A irmã mais nova fica sem graça na hora.
+
+Porque ela comprou um monte de itens de decoração, mas a panela ainda não foi enviada.
+
+A primeira metade estabelece a diferença de perspectivas, o meio gera identificação emocional e a segunda parte fecha o humor com detalhes específicos do dia a dia.
+
+Formando, no fim, uma comédia natural, acolhedora e com um toque de autodepreciação.
+
+[Personagens e Relacionamentos]
+
+Personagem A: @Image1, Amiga mais velha
+
+Herde rigorosamente a identidade facial independente da Imagem 1 anterior.
+
+Mulher adulta leste-asiática de 25 a 30 anos, alta e esguia, rosto oval natural e elegante, olhos amendoados escuros, textura de pele realista, cabelo preto longo meio preso.
+
+Veste camisa casual branco-marfim, calça cinza-escuro e tênis branco.
+
+Personalidade pragmática, observadora, fala o que pensa.
+
+Ela não menospreza quem mora de aluguel, só se preocupa, por puro pragmatismo, em gastar dinheiro e energia demais.
+
+Personagem B: @Image2, Amiga mais nova
+
+Herde rigorosamente a identidade facial independente da Imagem 2 anterior.
+
+Mulher adulta leste-asiática de 20 a 25 anos, rosto natural arredondado e cheio de vida, olhos brilhantes, cabelo preto longo trançado, corpo pequeno, textura de pele realista.
+
+Veste blusa de tricoto verde-azulado, calça casual bege e tênis branco.
+
+Personalidade animada, adora decorar o próprio espaço.
+
+Ela sabe que a casa é alugada, mas quer viver com conforto agora.
+
+Elas são amigas íntimas que vivem zoando uma à outra, sem nenhuma hostilidade real.
+
+[Local Atual e Relações Espaciais]
+
+Priorize o uso das imagens de fundo e referência de local realmente enviadas para esta rodada, travando a identidade do local, as relações arquitetônicas, a escala espacial, os materiais principais, a direção da luz e a continuidade ambiental.
+
+Se nenhuma nova referência de local for fornecida, crie um apartamento alugado urbano chinês moderno e realista.
+
+Espaço interno claramente definido:
+
+Porta de entrada à esquerda.
+
+Pequena área de estar no centro.
+
+Seis ou sete caixas de papelão recém-entregues encostadas na parede.
+
+Algumas caixas abertas.
+
+Uma mesinha lateral de madeira inacabada no chão.
+
+Uma luminária pequena sendo desembalada ao lado da mesa.
+
+A entrada de uma cozinha simples visível ao fundo.
+
+O espaço geral deve continuar realista e com cara de lugar onde alguém vive, não amontoado como um depósito.
+
+Mistura de luz natural interna com a luz do sol vinda de fora, cortinas balançando levemente, som ambiente distante da cidade.
+
+Toda a dinâmica ambiental deve permanecer narrativamente neutra.
+
+[0-5s: Gancho Cômico Moderno e Abertura]
+
+Plano 1: Plano geral interno, voltado para a porta de entrada.
+
+A câmera filma de dentro do apartamento alugado.
+
+A porta abre.
+
+A mesma personagem irmã mais velha @Image1 entra vindo de fora.
+
+Ela caminha naturalmente para frente e, de repente, nota as várias caixas de entrega e os móveis inacabados na sala.
+
+Para sem querer.
+
+A câmera mostra tanto sua expressão de surpresa quanto as caixas atrás dela.
+
+A mesma personagem irmã mais nova @Image2 está sentada no chão, desembalando feliz uma luminária pequena que acabou de comprar.
+
+A irmã mais velha olha para ela e pergunta, surpresa:
+
+Irmã mais velha: "Quanta coisa você comprou?"
+
+A irmã mais nova levanta o olhar, toda convencida:
+
+Irmã mais nova: "Montando uma casa pela internet!"
+
+A irmã mais velha passa os olhos pelo quarto de novo.
+
+Os olhos mostram surpresa e um pouco de confusão.
+
+Use o meme original diretamente como gancho de abertura.
+
+Faça o público entender que ela está decorando a casa por meio de compras online.
+
+[5-10s: Ações dos Personagens e Performance Principal]
+
+Plano 2: Plano médio estável, marcação de relação entre duas personagens.
+
+Mantenha o mesmo apartamento, posição e iluminação.
+
+A irmã mais velha se aproxima das caixas e pega um pacote pequeno casualmente.
+
+Olha para a mesinha inacabada, depois para a irmã mais nova.
+
+Pergunta num tom bem natural, típico de quem tem intimidade:
+
+Irmã mais velha: "Numa casa alugada, vale a pena?"
+
+A irmã mais nova estava desembalando a luminária.
+
+Ao ouvir isso, dá uma breve pausa.
+
+Levanta o olhar para a irmã mais velha, num tom nem irritado nem magoado.
+
+Responde direto:
+
+Irmã mais nova: "Não dá pra esperar comprar uma casa pra começar a viver bem, né?"
+
+Mantenha uma pausa breve, mas natural.
+
+A irmã mais velha não continua discutindo.
+
+Olha para os itens escolhidos pessoalmente pela irmã mais nova.
+
+As dúvidas originais vão, aos poucos, virando compreensão.
+
+Coloca o pacote no chão com cuidado, começando a se dispor a ajudar.
+
+Sem música sentimental.
+
+Sem longas explicações.
+
+Mostre a mudança de atitude pelo desvio do olhar e pela ação de abaixar o pacote.
+
+[10-15s: Punchline, Virada e Recuperação Emocional]
+
+Plano 3: Close-up das duas personagens, mantendo a entrada da cozinha ao fundo.
+
+A irmã mais velha aceitou a ideia da mais nova.
+
+Dá um sorriso natural e pergunta, de forma casual:
+
+Irmã mais velha: "Beleza, vamos jantar aqui hoje?"
+
+A irmã mais nova ainda segurava, empolgada, a luminária pequena que acabara de desembalar.
+
+Ao ouvir isso, congela na hora.
+
+Os olhos mostram culpa instantânea.
+
+Olha para a irmã mais velha, depois para a cozinha atrás.
+
+Então diz, sem jeito:
+
+Irmã mais nova: "A panela ainda não foi enviada."
+
+Essa fala precisa soar extremamente natural.
+
+Não construa a piada com ações exageradas.
+
+A câmera fica parada por um instante.
+
+A irmã mais velha olha lentamente para a cozinha vazia.
+
+Depois para as pilhas de móveis e decorações ali perto.
+
+Totalmente sem palavras.
+
+A irmã mais nova segura o riso, com uma expressão levemente envergonhada.
+
+A irmã mais velha não dá bronca; em silêncio, pega o celular para pedir delivery.
+
+A irmã mais nova coloca a luminária ao lado dela e não consegue segurar a risada.
+
+A irmã mais velha também acha graça nela.
+
+Fim da tela.
+
+O final cria um contraste leve da vida real através do "comprou um monte de decoração e esqueceu a panela".
+
+Não adicione mais diálogos.
+
+[Atuação e Diálogo em Mandarim]
+
+O filme inteiro usa rigorosamente seis falas naturais em mandarim:
+
+Irmã mais velha: "Quanta coisa você comprou?"
+
+Irmã mais nova: "Montando uma casa pela internet!"
+
+Irmã mais velha: "Numa casa alugada, vale a pena?"
+
+Irmã mais nova: "Não dá pra esperar comprar uma casa pra começar a viver bem, né?"
+
+Irmã mais velha: "Beleza, vamos jantar aqui hoje?"
+
+Irmã mais nova: "A panela ainda não foi enviada."
+
+Velocidade de fala natural, distribuídas separadamente nos três intervalos de tempo, sem falas explicativas extras.
+
+Primeira parte: irmã mais velha surpresa, irmã mais nova convencida.
+
+Segunda parte: irmã mais velha questiona, irmã mais nova expressa seus pensamentos com calma.
+
+Terceira parte: irmã mais velha compreende, irmã mais nova sente culpa de repente, ambas terminam com sorrisos naturais.
+
+Não interprete as personagens como aqueles papéis fofos demais de minidramas.
+
+[Câmera e Edição]
+
+O filme inteiro usa três planos com funções claras.
+
+De 0 a 5s, use plano geral para mostrar a relação entre as entregas e o espaço alugado.
+
+De 5 a 10s, use plano médio duplo para colocar a diferença de perspectivas no centro.
+
+De 10 a 15s, use close-up duplo para formar um contraste visual completo com a luminária, as expressões e a cozinha.
+
+Movimento de câmera contido, podendo usar leves aproximações e panorâmicas naturais.
+
+Mantenha um eixo de filmagem estável e as relações espaciais esquerda-direita entre as personagens.
+
+O final não deve mudar de locação de repente nem mostrar cenas fantasiosas extras.
+
+[Design de Som]
+
+Diálogo nativo sincronizado em mandarim.
+
+Todos os sons devem pertencer às personagens corretas, com sincronia labial precisa.
+
+Os sons ambientais naturais incluem:
+
+Abrir/fechar de porta.
+
+Leve atrito de papelão e embalagens.
+
+Passos.
+
+Contato com a embalagem da luminária.
+
+Rustido de roupas.
+
+Ruído ambiente interno.
+
+Por fim, sem risadas gravadas (canned laughter).
+
+Permita apenas uma risada leve e natural entre as irmãs.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120740975878569984/img/idzktqO2eZUN37x7.jpg" width="600" alt="Comédia sobre Compras Online em Casa">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13744)**
+
+**Autor:** [𝕊𝖔ʳᵃɴ](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2120744354654691798) | **Publicado:** Nov 12, 2026
+
+---
+### Cena do Sino da Vitória Silenciado
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt para uma cena cinematográfica de drama Xianxia de 15 segundos usando Seedance 2.0 Mini, onde um sino da vitória é silenciado para proteger sobreviventes adormecidos.
+
+#### 📝 Prompt
+
+```
+[Prompt correspondente completo em chinês]
+
+[Estilo geral e história central]
+
+Obra: "Este som, vamos deixar como dívida"
+
+Vídeo de 15 segundos em live-action com qualidade cinematográfica e reviravolta no estilo Xianxia chinês.
+
+Tela horizontal 16:9, Seedance 2.0 Mini, sincronia audiovisual nativa em mandarim.
+
+Adotar a textura fotográfica cinematográfica da Arri Alexa 35, atores adultos reais do leste asiático, texturas naturais de pele, tecidos de seda delicados, objetos metálicos realistas, iluminação volumétrica natural e espaço cinematográfico com profundidade atmosférica.
+
+A emoção geral é contida: primeiro estabelece-se uma cerimônia de vitória solene e, depois, por meio de um gesto mínimo, permite-se que o público compreenda novamente qual é o resultado mais importante dessa vitória.
+
+Premissa da história
+
+Após dez anos de guerra, a seita finalmente alcança uma vitória decisiva.
+
+O Mestre entrega à Irmã Mais Velha Imortal da Espada o malho do sino que simboliza o triunfo.
+
+A Irmã Mais Velha se prepara para tocar o enorme sino de bronze da vitória, anunciando o triunfo a todos.
+
+No instante em que o malho está prestes a descer, a Irmã Mais Nova a impede subitamente.
+
+Aos olhos da multidão, esse foi um ato incompreensível.
+
+Dez anos de batalhas árduas, finalmente esperando pelo retorno.
+
+Por que não deixá-los sequer tocar este único sino?
+
+A verdadeira resposta está atrás do sino da vitória.
+
+Os feridos e as crianças que sobreviveram à guerra finalmente adormeceram.
+
+Eles passaram por dias de fuga, terror e massacres.
+
+Ouviu-se sinos de alarme, tambores de guerra e gritos de socorro demais.
+
+Neste momento, a coisa mais preciosa é poder dormir em silêncio.
+
+A Irmã Mais Nova não negou a vitória.
+
+Ela apenas percebeu antes de qualquer outra pessoa o que a vitória realmente protegia.
+
+Ao compreender, a Irmã Mais Velha escolhe abaixar o malho.
+
+Por fim, usa uma fita de seda vermelha silenciosa para substituir o sino triunfal originalmente ensurdecedor.
+
+Reviravolta central: de "Por que ela interrompeu a celebração?" para "Na verdade, ela estava protegendo a própria vitória."
+
+Sem o surgimento repentino de vilões.
+
+Sem revelações de identidade, mortes falsas, conspirações da seita ou milagres sobrenaturais.
+
+Deixe que as escolhas dos personagens carreguem a força da história.
+
+[Personagens e relacionamentos]
+
+Personagem A: @Image1, Irmã Mais Velha Imortal da Espada
+
+Herdar rigorosamente o mesmo personagem previamente confirmado.
+
+Mulher adulta do leste asiático, entre 25 e 30 anos.
+
+Rosto oval claro, naturalmente suave, olhos amendoados escuros, cabelos longos e pretos semipresos, fixados com um grampo de jade branca, figura alta e esbelta.
+
+Usa sempre o mesmo conjunto de Hanfu de seda branca bordada, mangas largas em camadas semitransparentes, faixa prateada na cintura, pingente de jade e botas de tecido branco.
+
+Porta apenas uma espada longa de prata.
+
+Nunca desembainha a espada neste filme.
+
+Ela liderou a seita durante uma longa guerra e finalmente conquistou uma vitória suada.
+
+Por isso, seu desejo de tocar o sino da vitória é completamente real.
+
+A Irmã Mais Velha não ignora o sofrimento da guerra.
+
+É apenas que, neste momento, sua atenção está focada na vitória finalmente alcançada.
+
+Quando a Irmã Mais Nova a impede, ela primeiro sente surpresa.
+
+Depois, por observação direta, muda ativamente sua decisão.
+
+Mudanças de estado da personagem:
+
+Alívio após o fim de dez anos de espera;
+
+Confusão ao ser impedida;
+
+Descoberta de detalhes que havia ignorado;
+
+Desistência voluntária de tocar o sino;
+
+Conclusão da celebração de outra forma.
+
+Personagem B: @Image2, Irmã Mais Nova
+
+Herdar rigorosamente a mesma personagem previamente confirmada.
+
+Mulher adulta do leste asiático, entre 20 e 25 anos.
+
+Rosto redondo e luminoso, cabelos pretos trançados, figura pequena.
+
+Usa sempre Hanfu de linho verde, faixa escura, grampo de madeira e sapatos de tecido preto.
+
+Porta apenas uma espada de aço escuro.
+
+Nunca desembainha a espada neste filme.
+
+A Irmã Mais Nova estava ajudando os feridos antes disso.
+
+Ela viu essas pessoas passarem a noite em claro, acordando assustadas por causa da guerra.
+
+Sabe que o som do sino vai acordá-las novamente.
+
+Por isso, precisa impedir a ação antes que a Irmã Mais Velha toque o sino.
+
+Ela não preparou nenhum discurso para convencer a Irmã Mais Velha.
+
+Apenas segurou gentilmente o pulso dela.
+
+E deixou que visse e ouvisse por si mesma.
+
+Ela confia que a Irmã Mais Velha acabará entendendo.
+
+Novos personagens secundários
+
+Mestre Ancião:
+
+Homem adulto do leste asiático, vestindo túnicas antigas azul-escuras.
+
+Como ancião da seita, ele entrega pessoalmente o malho do sino triunfal à Irmã Mais Velha.
+
+Ele também aguardava a cerimônia de vitória, por isso fica surpreso com a interrupção repentina da Irmã Mais Nova.
+
+Em seguida, ao ver os feridos e as crianças descansando, aceita voluntariamente a decisão de não tocar o sino.
+
+Não transforme o Mestre subitamente em um vilão tirânico e furioso.
+
+Dois discípulos da seita:
+
+Retornaram da batalha, rostos cansados, mas com a alegria genuína da vitória.
+
+Localizados ao fundo.
+
+Responsáveis por dar presença à multidão, sem roubar a cena.
+
+Feridos e crianças descansando:
+
+Alguns civis comuns exaustos e duas crianças.
+
+Podem ter bandagens simples, deitados em esteiras baixas, cobertos por mantas de tecido liso.
+
+Não devem aparecer ferimentos sangrentos.
+
+Devem dormir naturalmente, como pessoas que realmente vivenciaram o cansaço extremo.
+
+Uma criança segura delicadamente um pequeno lenço dobrado, encostada no ombro de uma mulher mais velha.
+
+A cena não exige grande quantidade de figurantes.
+
+[Local atual e relações espaciais]
+
+Todos os cenários e imagens de referência de locação enviados nesta rodada servem como o mundo físico que realmente existe no vídeo.
+
+Não podem ser tratados apenas como inspiração visual.
+
+Primeiro, estabeleça um ambiente unificado de acordo com as imagens de referência:
+
+Terreno real;
+
+Relações espaciais das construções principais;
+
+Caminhos e áreas transitáveis;
+
+Escala física;
+
+Envelhecimento dos materiais;
+
+Vegetação e corpos d'água;
+
+Clima e nuvens;
+
+Neblina;
+
+Direção principal da luz;
+
+Reflexos;
+
+Cor e profundidade atmosférica.
+
+Escolha uma área de solo estável dentro da locação de referência capaz de comportar razoavelmente uma cerimônia de triunfo temporária.
+
+Não altere arbitrariamente os marcos principais e as estruturas arquitetônicas da locação de referência.
+
+Layout espacial central
+
+Um grande e antigo sino de bronze da vitória pendurado em uma estrutura simples de madeira.
+
+Ao lado do sino, há um malho de madeira.
+
+Uma fita de seda vermelha triunfal, ainda não totalmente desdobrada, está previamente amarrada à estrutura de madeira.
+
+Essa seda vermelha deve existir de fato desde o primeiro plano.
+
+Atrás do sino da vitória, há uma área de abrigo temporário simples.
+
+Uma cortina simples e a ampla superfície circular do sino bloqueiam juntos a visão direta do público sobre a área de abrigo.
+
+Os feridos e as crianças estão descansando lá desde o início.
+
+É apenas que a câmera inicial não mostra a imagem completa deles.
+
+O segundo plano revela isso simultaneamente ao público e aos personagens por meio de um movimento lateral natural.
+
+Isso não é uma troca repentina de locação, nem o surgimento súbito de novas multidões.
+
+Dinâmica ambiental
+
+O vento move naturalmente mangas, cabelos longos, seda vermelha e vegetação.
+
+Corpos d'água distantes, nuvens/neblina e figuras ao fundo mantêm movimentos razoáveis.
+
+A direção da luz natural permanece estável.
+
+O fundo continua vivo no primeiro plano, plano médio e plano de fundo durante toda a cena.
+
+Mas o ambiente não cria reviravoltas ativamente.
+
+Esta trama é conduzida pelas próprias ações dos personagens.
+
+[Julgamento inicial e preparação essencial]
+
+O que o público vê inicialmente:
+
+A cerimônia de vitória está pronta.
+
+O Mestre entrega pessoalmente o malho.
+
+A Irmã Mais Velha se prepara solenemente para tocar o sino.
+
+A Irmã Mais Nova a impede subitamente.
+
+Seu comportamento será interpretado como uma recusa em celebrar, ou até como a destruição de um raro momento de honra após dez anos.
+
+Três detalhes-chave já existentes
+
+Primeiro: o tamanho do sino da vitória.
+
+É grande o suficiente para que o som produzido seja necessariamente alto.
+
+Portanto, impedir o toque do sino tem um significado prático claro.
+
+Segundo: a área de abrigo atrás.
+
+Existe de fato desde o primeiro plano, mas está bloqueada pelo sino de bronze e pela cortina.
+
+O segundo plano apenas muda o ângulo de observação.
+
+Terceiro: a fita de seda vermelha triunfal.
+
+Pendurada na estrutura do sino desde o início.
+
+No final, a Irmã Mais Velha a retira e desdobra, concluindo um anúncio silencioso da vitória.
+
+Toda a reviravolta não utiliza novos poderes sobrenaturais, novos segredos de personagens ou objetos importantes que aparecem de repente.
+
+[0–5 segundos: Gancho inicial e conflito]
+
+Enquadramento: Avanço (push-in) de Plano Geral para Plano Médio.
+
+Câmera: Lente 35mm, avanço lento e estável.
+
+A abertura entra diretamente na cerimônia de triunfo preparada.
+
+Um amplo sino de bronze da vitória pendurado em uma estrutura de madeira.
+
+A superfície de bronze mantém texturas reais da fundição antiga e do desgaste do tempo.
+
+Uma fita de seda vermelha triunfal está amarrada ao lado da estrutura de madeira.
+
+O Mestre Ancião entrega o malho de madeira à Irmã Mais Velha Imortal da Espada.
+
+A Irmã Mais Velha estende a mão e o pega.
+
+Ela olha para aquele sino de bronze.
+
+Seus olhos carregam um tipo de cansaço e alívio após finalmente encerrar uma longa campanha.
+
+O Mestre diz suavemente:
+
+Mestre: "Dez anos, toque-o."
+
+A Irmã Mais Velha ergue lentamente o malho.
+
+Todos os movimentos respeitam a biomecânica real.
+
+No instante em que o malho está prestes a tocar a superfície do sino—
+
+A Irmã Mais Nova avança subitamente meio passo, estendendo a mão de forma gentil, mas firme, para segurar o pulso direito da Irmã Mais Velha.
+
+O malho para.
+
+Sem impacto.
+
+Sem som de sino.
+
+Irmã Mais Nova: "Irmã Mais Velha, não toque."
+
+O Mestre congela instantaneamente.
+
+A Irmã Mais Velha vira a cabeça lentamente.
+
+Ela não está com raiva.
+
+Simplesmente não esperava que a Irmã Mais Nova a impedisse neste momento.
+
+Uma confusão clara surge em seu olhar.
+
+A câmera corta quando as duas fazem contato visual.
+
+Nesse momento, o público deve se perguntar naturalmente:
+
+Por que, agora que vencemos, não podemos tocar o sino?
+
+[5–10 segundos: Ação dos personagens e mudança de situação]
+
+Enquadramento: Plano Médio.
+
+Câmera: Leve movimento lateral, primeiro mantendo a relação facial entre as duas mulheres, depois revelando o espaço atrás seguindo a borda do sino de bronze.
+
+A mão direita da Irmã Mais Velha ainda segura o malho.
+
+A Irmã Mais Nova ainda segura gentilmente seu pulso.
+
+A Irmã Mais Velha olha para a Irmã Mais Nova:
+
+Irmã Mais Velha: "Por quê?"
+
+A Irmã Mais Nova não se apressa em se justificar.
+
+Ela solta lentamente o pulso da Irmã Mais Velha.
+
+Depois levanta um dedo, aproximando-o suavemente dos próprios lábios.
+
+Pedindo que a Irmã Mais Velha faça silêncio.
+
+Irmã Mais Nova: "Escute."
+
+Neste momento, os fracos sons de celebração ao fundo diminuem gradualmente.
+
+O design de som permite que os personagens comecem a notar:
+
+Leves sons de respiração;
+
+Respirações de sono baixas e constantes;
+
+Pequenos sons de atrito de tecido trazidos pelo vento.
+
+A câmera faz um movimento panorâmico lateral natural ao longo da borda do sino de bronze da vitória.
+
+A área originalmente bloqueada pelo corpo do sino e pela cortina aparece gradualmente.
+
+Aquilo não é outra locação.
+
+Sempre esteve atrás da estrutura do sino.
+
+Vários civis feridos e crianças estão deitados em esteiras temporárias.
+
+Dormem profundamente.
+
+Uma criança aperta firmemente um pequeno lenço dobrado.
+
+Sua cabeça se apoia naturalmente no ombro da mulher mais velha ao seu lado.
+
+Ninguém fala.
+
+Ninguém chora.
+
+O público consegue entender, pelo cansaço, pelas bandagens e pelas posturas, que eles viveram medo e fugas por muito tempo.
+
+O olhar da Irmã Mais Velha segue a direção apontada pela Irmã Mais Nova.
+
+Ela finalmente vê essas pessoas.
+
+O malho originalmente erguido permanece suspenso no ar, atrasando sua queda.
+
+Neste momento, as emoções da Irmã Mais Velha mudam.
+
+Ela não olha mais apenas para o sino de bronze que simboliza a vitória.
+
+Ela realmente vê as pessoas que protegeu.
+
+[10–15 segundos: Reviravolta central e clímax emocional]
+
+Enquadramento: Close-up.
+
+Câmera: Composição de close-up estável, realizando mudanças naturais de foco entre os rostos dos personagens, o malho na mão e a seda vermelha.
+
+Manter os mesmos personagens, a mesma iluminação, o mesmo sino de bronze e um espaço geográfico completamente consistente.
+
+A Irmã Mais Nova está ao lado da Irmã Mais Velha.
+
+Ela não diz mais nada.
+
+Apenas espera silenciosamente que a Irmã Mais Velha tome sua própria decisão.
+
+A Irmã Mais Velha abaixa lentamente o malho.
+
+O movimento é muito leve.
+
+Ela coloca cuidadosamente o malho ao lado da estrutura do sino.
+
+A madeira tocando o suporte produz apenas um som muito sutil.
+
+O Mestre Ancião já viu a multidão adormecida atrás através da borda do sino de bronze.
+
+Ele também não diz nada.
+
+Seu olhar passa da Irmã Mais Velha para aquelas crianças.
+
+Sua postura corporal, originalmente preparada para conduzir a cerimônia, relaxa lentamente.
+
+A Irmã Mais Velha estende a mão e pega a fita de seda vermelha triunfal que existia na estrutura de madeira desde o início.
+
+Ela desdobra suavemente a seda vermelha.
+
+Depois a coloca sobre o topo do sino de bronze, deixando a fita cair naturalmente.
+
+A seda vermelha tremula levemente ao vento.
+
+O sino continua sem tocar.
+
+A Irmã Mais Velha olha para as crianças adormecidas.
+
+Ela diz de forma extremamente suave:
+
+Irmã Mais Velha: "Este som, vamos deixar como dívida."
+
+Não diga como uma declaração heroica.
+
+Esta frase é apenas como um acordo calmo entre duas pessoas.
+
+Os ombros originalmente tensos da Irmã Mais Nova finalmente relaxam um pouco.
+
+O Mestre está ao lado delas.
+
+Ele não faz nenhum discurso.
+
+Apenas observa em silêncio.
+
+Quadro final
+
+Primeiro plano:
+
+O enorme e imóvel sino de bronze da vitória pendurado.
+
+A fita de seda vermelha simbolizando o triunfo pendurada na superfície do sino.
+
+Plano médio:
+
+A Irmã Mais Velha Imortal da Espada e a Irmã Mais Nova lado a lado.
+
+Elas não erguem espadas, nem gritam alto.
+
+Plano de fundo:
+
+Os feridos e as crianças que acabaram de sobreviver à guerra continuam dormindo tranquilamente.
+
+Uma brisa sopra suavemente a seda vermelha.
+
+A luz natural percorre a superfície envelhecida do sino de bronze.
+
+Fim da tela.
+
+Dez anos de guerra finalmente vencidos.
+
+Mas a vitória de hoje não emitiu um som ensurdecedor.
+
+Porque alguém finalmente pôde dormir em paz.
+
+[Atuação e diálogos]
+
+O filme inteiro tem apenas cinco falas de diálogo nativo em mandarim.
+
+Mestre: "Dez anos, toque-o."
+
+O tom é baixo, contendo a emoção de alívio após uma longa espera.
+
+Irmã Mais Nova: "Irmã Mais Velha, não toque."
+
+Urgente, mas educada.
+
+Seu objetivo é interromper a ação imediata, não desafiar a autoridade da Irmã Mais Velha.
+
+Irmã Mais Velha: "Por quê?"
+
+Surpresa, confusa, tom controlado de forma muito leve.
+
+Irmã Mais Nova: "Escute."
+
+Volume mais baixo, deixando que a outra descubra ativamente a verdade.
+
+Irmã Mais Velha: "Este som, vamos deixar como dívida."
+
+A voz é leve e firme.
+
+Esta é a decisão que ela tomou ativamente após compreender a situação.
+
+Todos os diálogos dos personagens são naturais, claros e estritamente sincronizados com os movimentos labiais de quem realmente fala.
+
+Personagens sem fala não devem abrir a boca sem motivo.
+
+Não adicione narração ou diálogos explicativos extras.
+
+[Câmera e edição]
+
+Os três segmentos têm funções visuais distintas.
+
+Primeiro plano: Fazer do sino da vitória o centro do quadro.
+
+Por meio de seu tamanho, textura de cobre, o Mestre entregando o malho e a Irmã Mais Velha erguendo o malho, estabelecer a solenidade da cerimônia de vitória.
+
+A Irmã Mais Nova estende a mão subitamente, interrompendo a expectativa criada no público.
+
+Segundo plano: Mudar o mundo que o público vê através de um movimento lateral.
+
+Não crie novos ambientes do nada.
+
+Apenas revele a área de abrigo já existente conforme a câmera se move.
+
+O peso visual muda do enorme sino de bronze que simboliza a vitória para as pessoas de pequena escala dormindo silenciosamente.
+
+Terceiro plano: Os personagens concluem a reviravolta com novas ações.
+
+A Irmã Mais Velha abaixa o malho.
+
+Pega a seda vermelha preexistente.
+
+Conclui o anúncio da vitória em silêncio.
+
+Não dependa de câmera lenta exagerada nem de movimentos circulares complexos.
+
+A câmera é estável, clara e contínua.
+
+Permita uma profundidade de campo rasa moderada, mas não torne as ações-chave e os objetos importantes irreconhecíveis.
+
+[Design de som]
+
+O som é uma parte importante desta reviravolta.
+
+Segmento 1
+
+Sons ambientais naturais e sons de atmosfera triunfal muito contidos.
+
+Pode haver conversas baixas entre a multidão cansada ao longe, mas nenhuma comemoração em grande escala.
+
+Quando o malho for erguido, não use batidas fortes de tambor para criar suspense barato.
+
+Segmento 2
+
+Depois que a Irmã Mais Nova disser "Escute", reduza gradualmente as vozes humanas distantes e a trilha sonora.
+
+Transfira a atenção para a área de abrigo.
+
+Mantenha sons reais de respiração, leves sons de atrito de tecido e sons ambientais naturais consistentes com a locação de referência.
+
+Deixe que o silêncio no som se torne parte da mudança de compreensão dos personagens.
+
+Segmento 3
+
+Sem som de sino.
+
+Sem trilha sentimental que aumente de repente.
+
+Mantenha apenas o som leve do malho sendo colocado, a seda roçando no sino de bronze, a brisa e os sons ambientais.
+
+A última fala da Irmã Mais Velha:
+
+"Este som, vamos deixar como dívida."
+
+Deve ter movimentos labiais claros, respiração real e volume natural.
+
+Após o término do diálogo, mantenha um breve silêncio.
+
+[Continuidade de personagens, objetos e ambiente]
+
+Personagens:
+
+@Image1 e @Image2 mantêm o mesmo rosto, proporções faciais idênticas, penteado, roupas, proporções corporais, espada e temperamento de personagem durante todo o vídeo.
+
+A Irmã Mais Velha segura o malho com a mão direita nos Planos 1 e 2.
+
+A Irmã Mais Nova se aproxima pelo lado direito da Irmã Mais Velha e segura seu pulso.
+
+As mudanças de posicionamento delas respeitam trajetórias de movimento reais.
+
+Personagens secundários entram no quadro apenas se estiverem coerentes com suas posições no local.
+
+Malho do sino:
+
+Entregue pelo Mestre à Irmã Mais Velha no início.
+
+Erguido pela Irmã Mais Velha.
+
+Interrompido pela Irmã Mais Nova.
+
+Segurado pela Irmã Mais Velha.
+
+Finalmente abaixado.
+
+Todo o processo não deve envolver troca instantânea de mãos, desaparecimento do malho ou deslocamento do nada.
+
+Sino de bronze da vitória:
+
+Sempre o mesmo sino de bronze.
+
+Proporções do corpo do sino, estrutura de madeira, textura do material, altura de suspensão e posição espacial permanecem consistentes.
+
+O malho nunca toca a superfície do sino em todo o filme.
+
+Seda vermelha:
+
+Existe na estrutura do sino desde o primeiro plano.
+
+Finalmente desdobrada pela própria Irmã Mais Velha e colocada sobre o sino de bronze.
+
+Não pode ser gerada do nada no final.
+
+Área de abrigo:
+
+Existe de fato atrás da estrutura do sino desde o início.
+
+Roupas de cama, número de pessoas, posições das crianças e cortinas mantêm continuidade espacial.
+
+Revelada no segundo plano por meio da mudança de perspectiva da câmera.
+
+As crianças e os feridos adormecidos continuam dormindo no final.
+
+Plano de fundo:
+
+Sempre obedece às imagens reais de referência de locação desta rodada.
+
+Mantenha a identidade do terreno, as relações espaciais arquitetônicas, a luz principal, o clima, os materiais e a escala ambiental.
+
+Vento natural, água, neblina, vegetação, fios de cabelo, mangas e seda vermelha continuam se movendo de forma realista.
+
+O fundo não cria ativamente novos eventos dramáticos.
+
+[Requisitos de execução do Seedance 2.0 Mini]
+
+Chame o modelo seedance 2.0 mini para gerar um curta-metragem estritamente de 15 segundos, horizontal 16:9, em live-action com qualidade cinematográfica e reviravolta no estilo Xianxia chinês.
+
+Sequência central de planos:
+
+0–5s: O Mestre entrega o malho, a Irmã Mais Velha o ergue, a Irmã Mais Nova interrompe subitamente.
+
+5–10s: A Irmã Mais Nova pede que a Irmã Mais Velha escute, a câmera revela os feridos e as crianças dormindo silenciosamente atrás.
+
+10–15s: A Irmã Mais Velha abaixa o malho, desdobra a seda vermelha, conclui o clímax emocional com a última fala.
+
+Garanta estabilidade e continuidade do eixo da câmera, posicionamento dos personagens, linhas de visão, posições dos objetos, direção da luz e espaço ambiental entre os três planos.
+
+Concentre-se em garantir os seguintes resultados visivelmente reais:
+
+A Irmã Mais Nova deve conseguir impedir a Irmã Mais Velha antes que o malho toque o sino de bronze.
+
+A câmera deve revelar de fato a área de abrigo anteriormente bloqueada.
+
+A Irmã Mais Velha deve ver a multidão adormecida com os próprios olhos e mudar sua ação por causa disso.
+
+A seda vermelha deve existir previamente e, por fim, ser desdobrada ativamente pela Irmã Mais Velha.
+
+O sino de bronze não deve ser tocado em nenhum momento do filme.
+
+Os feridos e as crianças permanecem dormindo tranquilamente no final.
+
+As microexpressões dos personagens são reais e contidas.
+
+Todas as ações são completas e coerentes.
+
+O diálogo em mandarim é sincronizado nativamente.
+
+Não adicione novos conflitos, inversões de identidade, efeitos de feitiços, lutas ou tramas temporárias.
+
+Não gere legendas, títulos, narrações ou textos irrelevantes.
+
+Emoção final: Faça o público perceber que, às vezes, a vitória mais digna de celebração é justamente aquela que deve permanecer em silêncio.
+
+[Prompt negativo]
+
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120725137213595648/img/z1VAUSwvmx61K2ub.jpg" width="600" alt="Cena do Sino da Vitória Silenciado">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13745)**
+
+**Autor:** [𝕊𝖔ʳᵃɴ](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2120725797229183155) | **Publicado:** Nov 12, 2026
+
+---
+### Prompt de Filme de Ação Fantasia Seedance 2.5
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt para gerar um curta-metragem de ação e fantasia de 30 segundos, apresentando uma guardiã lutando contra um monstro gigante em um cais de balsa.
+
+#### 📝 Prompt
+
+```
+Prompt Seedance 2.5
+[Requisitos de Geração]
+Gere um curta-metragem de ação e fantasia cinematográfico em live-action completo de 30 segundos, proporção paisagem 16:9, composto por 9 planos.
+Conceito do Título: "O Barco Partiu, Ela Não Embarcou".
+
+Cenas grandiosas, combate intenso, personagens com aplicação realista de força, desequilíbrio, ofegar e impacto.
+Não é uma cutscene de jogo, não são poses de artes marciais, não é a protagonista esmagando o monstro com facilidade.
+Avance a história por meio de ataques/defesas claros, mudanças espaciais e avanços graduais; não dependa de magia, explosões contínuas ou câmera lenta durante todo o vídeo.
+
+[Materiais de Referência]
+@Imagem 1: A única referência de personagem e equipamento para a guarda. Fixe os traços faciais, penteado, armadura, túnica, proteção das pernas, botas de combate e lâmina de cabo longo. Não copie a pose de pé nem a composição da arte conceitual.
+@Imagem 2: Referência de cenário e arquitetura para a travessia da balsa. Fixe as margens de pedra, os antigos docas de madeira, os vales, as cidades antigas e a aparência da balsa de madeira.
+@Imagem 3: A única referência visual para o Behemoth de Armadura de Rocha. Fixe o contorno da cabeça, o formato dos chifres, a armadura grossa em camadas, os membros robustos e as proporções corporais.
+
+[História Central]
+A última balsa de evacuação está deixando a margem. A guarda permanece no cais de madeira, detendo o behemoth que persegue a multidão.
+Ela precisa resistir até que a balsa saia da zona de perigo.
+Durante a luta, ela é empurrada para trás e derrubada, depois contorna o behemoth para recuar em direção à margem.
+O behemoth esmaga o cais de madeira enquanto a persegue. A protagonista finalmente pisa em uma plataforma de pedra estável. O behemoth pisa em seções de madeira já danificadas, causando um colapso localizado na água, o que impede temporariamente que ele continue a perseguição.
+Após confirmar a segurança, a protagonista olha para a balsa se afastando e levanta a mão para sinalizar que está viva.
+
+[Aparência Fixa da Protagonista]
+Mulher adulta, aprox. 26 anos, aparência estritamente correspondente à @Imagem 1.
+Mantenha a consistência facial (frente e perfil), cabelo escuro preso, armadura de metal, túnica, proteção das pernas, botas de combate e lâmina de cabo longo.
+Não redesenhe as roupas, não adicione/remova partes da armadura nem troque as armas.
+O equipamento deve estar totalmente visível desde o início; a lâmina está sempre em sua mão ou claramente visível ao seu lado — nunca desaparecendo ou se duplicando.
+Pele realista, armadura e couro desgastados. Acumule gradualmente lascas de madeira, poeira e pequenas manchas de água durante o combate; o cabelo vai ficando bagunçado com o tempo, sem se arrumar automaticamente.
+Bonita, mas sem poses artificiais; movimentos práticos; a respiração e as expressões mudam conforme a situação da batalha.
+
+[Aparência Fixa do Behemoth]
+Corresponda estritamente ao behemoth quadrúpede de armadura de rocha da @Imagem 3.
+Altura nos ombros de aprox. 3 metros, constituição pesada, postura de cabeça baixa, armadura de rocha áspera em camadas, membros robustos.
+Mantenha formatos de chifres idênticos, distribuição da carapaça, proporções corporais e quantidade de membros.
+Comporte-se como um animal grande com peso real: precisa frear após investir, ajusta os passos ao virar, não muda de direção instantaneamente, não pula com leveza.
+Não adicione asas, tentáculos, habilidades extras, olhos brilhantes, cuspe de fogo ou disparos de energia.
+
+[Bloqueio Espacial da Travessia da Balsa]
+A aparência geral segue a @Imagem 2, organizando as ações com relações espaciais laterais claras:
+Lado esquerdo: Margem de pedra estável e plataforma de pedra larga.
+O antigo cais de madeira se estende da margem de pedra esquerda em direção à superfície da água à direita.
+A seção central do cais é mais larga, permitindo que a protagonista contorne o corpo do behemoth por fora.
+A balsa parte da extremidade externa do cais em direção às águas abertas à direita.
+
+Abertura: A protagonista está na extremidade mais distante do cais, de frente para o behemoth que se aproxima pelo lado da margem.
+O behemoth está entre a protagonista e a margem de pedra; a balsa está atrás da protagonista, na água.
+A seção central deve mostrar completamente o processo de a protagonista contornar o behemoth por fora e retornar ao lado da margem. Não troque as posições abruptamente após o corte.
+
+A seção de madeira perto da margem tem rachaduras antigas reconhecíveis desde o início, mas ainda suporta peso.
+A fronteira entre a margem de pedra estável e o cais de madeira é clara.
+Apenas a estrutura de madeira danificada desaba localmente; a margem de pedra não desmorona; a protagonista termina sobre a plataforma de pedra intacta.
+
+[Continuidade da Balsa]
+Desde o primeiro plano, a balsa já soltou as amarras e está deixando o cais; nenhuma corda conecta o barco ao cais.
+A proa aponta para as águas abertas; a popa aponta para o cais.
+Ao longo de todo o filme, a distância entre a balsa e o cais aumenta continuamente; ela não pode parar, voltar à posição original ou navegar repentinamente para trás.
+Há apenas alguns passageiros adultos no barco, aparecendo como pequenas figuras distantes; sem interações complexas entre personagens.
+Não faça a protagonista pular no barco, subir em cordas ou lutar dentro dele.
+
+[Iluminação e Estética]
+Céu nublado e claro, luz ambiente suave, lado esquerdo do quadro ligeiramente mais iluminado.
+Tons de pele realistas, água azul-acinzentada, margens de pedra cinza, madeira antiga natural; preserve detalhes nas sombras.
+Textura de filme épico de ação em live-action; separação distinta de materiais entre metal, couro, armadura de rocha, madeira e água.
+Planos médios e gerais esclarecem ataque/defesa; grandes angulares estabelecem o espaço e os avanços; close-ups complementam a emoção da personagem.
+A cinematografia é estável, mas com dinamismo moderado; travellings de curta distância; movimento de câmera na mão contido, sem tremores violentos.
+Não use filtros teal-orange intensos, lens flares exagerados ou câmera lenta prolongada.
+
+[Decupagem dos Planos]
+
+Plano 1 (0–3s):
+Travelling em grande angular, vista lateral de três quartos; o conflito começa imediatamente no primeiro quadro.
+A pata dianteira do behemoth esmaga uma tábua do cais à frente da protagonista; lascas de madeira voam no impacto. A protagonista é abalada e cai sobre um joelho, ainda segurando a lâmina de cabo longo.
+Simultaneamente, estabeleça a margem de pedra estável à esquerda, a madeira rachada perto da margem e a balsa partindo à direita.
+Grito fora de quadro dos adultos no barco: "Embarque!"
+A protagonista ergue o olhar, encarando o behemoth, sem se virar.
+
+Plano 2 (3–6s):
+Corte para plano médio-geral lateral, enquadrando tanto a protagonista quanto o behemoth.
+O behemoth avança em direção à extremidade externa do cais, tentando passar pela protagonista para alcançar a balsa.
+A protagonista se move lateralmente, desferindo um breve contra-ataque com a lâmina na pata dianteira dele, atraindo a atenção para si.
+O behemoth se vira para encará-la; a protagonista é forçada a recuar, com as tábuas cedendo e rangendo sob seus pés.
+Ela não pode ficar parada e absorver toda a força do behemoth.
+
+Plano 3 (6–10s):
+Corte para grande angular lateral ligeiramente mais alto, mostrando claramente uma mudança completa de posição.
+O behemoth desfere um golpe com a garra dianteira; a protagonista esquiva da trajetória do ataque, contornando o corpo do behemoth por fora através da seção central mais larga do cais, movendo-se para o lado mais próximo da margem de pedra.
+O behemoth gira sobre o próprio eixo e a persegue.
+Mostre totalmente as trajetórias de movimento de ambos; não troque posições via jump cuts, não passe por baixo do corpo do monstro, não deixe os personagens atravessarem os membros uns dos outros.
+
+Plano 4 (10–14s):
+Corte para plano médio em travelling lateral de curta distância.
+O behemoth se aproxima, patas dianteiras e ombros pressionando para frente.
+A protagonista usa a lâmina para enganchar a borda da garra, mas é raspada e perde o equilíbrio, caindo sobre um joelho e apoiando uma mão vazia, deslizando uma curta distância pelas tábuas antes de parar.
+A arma permanece na outra mão ou bem junto ao corpo, sempre visível.
+O deslocamento ocorre apenas após o contato; as tábuas racham ainda mais com o impacto, mas não desabam por completo.
+Ela sente a pressão e ofega; sem rolamentos contínuos, sem voar pelos ares.
+
+Plano 5 (14–18s):
+Corte para plano médio-geral do lado da margem.
+A protagonista se ergue, recuando em direção à margem de pedra estável, com a lâmina permanecendo visível.
+O behemoth pisa nas tábuas que ela acabou de cruzar; vigas pesadas afundam, sons de estalos vindos da área danificada perto da margem.
+Ela olha rapidamente para a estrutura quebrada sob seus pés, depois volta a focar no behemoth.
+A balsa distante continua se afastando, mais longe do que no início.
+Sem diálogos explicativos; sem close-ups longos de contemplação.
+
+Plano 6 (18–22s):
+Grande angular lateral estável; a borda da margem de pedra, a madeira danificada, a protagonista e o behemoth todos distinguíveis.
+A protagonista recuou até o ponto de conexão com a margem de pedra; o behemoth investe novamente sobre a madeira danificada.
+Ela faz um curto movimento lateral, pisando na plataforma de pedra intacta adjacente, aterrissando normalmente com os dois pés.
+As patas dianteiras do behemoth pressionam a madeira danificada; as vigas racham sob o peso real, as juntas cedem, o centro de gravidade desce.
+Deve suportar o peso primeiro, depois ocorre a falha estrutural; sem quedas prematuras.
+
+Plano 7 (22–25s):
+Corte para grande angular de três quartos.
+A seção danificada do cais desaba para baixo; o behemoth perde o apoio, caindo na água junto com as vigas quebradas, criando respingos compatíveis com o seu peso.
+Grandes pedaços de madeira caem de acordo com a gravidade; nada flutua, nada vira pó.
+A protagonista permanece na plataforma de pedra intacta; seu corpo não é arrastado pelo desmoronamento.
+A balsa já deixou a zona de perigo, sem ser afetada por respingos ou destroços.
+Sem lutas debaixo d'água, sem mortes sangrentas, sem explosões de bolas de fogo.
+
+Plano 8 (25–28s):
+Corte para plano médio lateral da protagonista, zoom in lento e sutil.
+Ela se mantém firme segurando a lâmina, ombros subindo e descendo com a respiração rápida, cabelo e equipamento desgrenhados.
+Primeiro ela confirma que não há nova perseguição vindo do cais destruído, depois se vira para olhar a balsa se afastando.
+Na popa, apenas uma figura muito pequena de um passageiro adulto olha na direção dela; não filme detalhes de rosto ou dedos.
+
+Plano 9 (28–30s):
+Corte para close-up frontal da protagonista; o vale e a água ao fundo naturalmente desfocados.
+Uma mão ainda segura a lâmina; a mão livre se ergue suavemente em direção à distância, sinalizando que está segura.
+A expressão é de alívio após a exaustão, não uma risada triunfal.
+O encerramento foca em sua respiração real, postura estável e olhar voltado para a balsa; não faça fade to black.
+
+[Som]
+Passos pesados do behemoth, atrito da armadura, madeira sob tensão, vigas quebrando, contato da lâmina, atrito das solas dos sapatos, sons de tecido e armadura.
+Sons de impacto sincronizados com o contato real; não use sons exagerados de ossos quebrando.
+A partida da balsa tem sons de água contidos e ruídos estruturais do casco de madeira.
+O único diálogo é a voz do adulto no barco no início
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120520856917114880/img/WasTr9Hk_PlmyXy9.jpg" width="600" alt="Prompt de Filme de Ação Fantasia Seedance 2.5">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13746)**
+
+**Autor:** [Adamä¹Ÿå�«å�‰ç±³](https://x.com/Adam38363368936) | **Fonte:** [Link](https://x.com/Adam38363368936/status/2120521214737416330) | **Publicado:** Nov 11, 2026
+
+---
 ### Prompt de Combate no Metrô Cyberpunk do Seedance 2.0
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -8079,181 +9245,6 @@ Abaixo, o SUV escuro segue pela estrada banhada pelo sol, transmitindo tranquili
 **Autor:** [Sharon Riley](https://x.com/Just_sharon7) | **Fonte:** [Link](https://x.com/Just_sharon7/status/2112913908617158822) | **Publicado:** Oct 21, 2026
 
 ---
-### Romance em Manhattan: O Café Errado
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para um vídeo editorial cinematográfico de luxo ambientado em Manhattan, envolvendo uma confusão com xícaras de café que leva a uma conversa, com instruções de referência de personagens.
-
-#### 📝 Prompt
-
-```
-O Café Errado — Midtown Manhattan, Nova York
-
-Duração: 30 segundos | Proporção: 16:9 | Estilo: Editorial cinematográfico de luxo
-
-Referências de Personagem: Use as duas imagens fornecidas estritamente como referências de personagem, não como quadros iniciais. O homem, Alex, é um executivo de finanças de Manhattan confiante e bem-sucedido. Preserve exatamente seu rosto, terno escuro sob medida, gravata e penteado. A mulher, Allisa, é a segunda personagem; preserve exatamente sua identidade, penteado e traje elegante e ajustado ao corpo.
-
-Continuidade Visual: Fotografia editorial quente e levemente vintage com destaques em âmbar, contraste suave, granulação sutil de filme e textura de pele realista. Cores consistentes em todas as cenas. Sem brilho artificial ou pele com aspecto de plástico.
-
-Precisão Ambiental: Todas as placas, cardápios, nomes e textos de rua visíveis devem estar grafados corretamente e legíveis. Nada de caracteres sem sentido.
-
-Cena 1 — O Café da Manhã (0–4s)
-
-Interior de uma cafeteria sofisticada em Midtown Manhattan, com balcões de pedra polida, ambiente requintado e profissionais apressados. Alex se aproxima do balcão, sereno e confiante. Não há xícaras de café visíveis no balcão.
-
-Câmera posicionada atrás de Alex, voltada para o balcão. Uma bela barista no início dos vinte anos, com traços marcantes de modelo e uma presença naturalmente carismática, vira-se levemente em direção à área de preparo de café fora de quadro.
-
-Alex, casualmente: "Um espresso duplo, por favor. Meu nome é Alex."
-
-Barista, simpática: "Saindo na hora."
-
-Exiba exatamente "Midtown Manhattan, New York" no terço inferior, centralizado horizontalmente na parte de baixo do quadro, Poppins Semi-Bold 600, branco (#FFFFFF), sobre um fundo cinza-ardósia arredondado (#17212B) com 60% de opacidade. Nenhum caractere extra.
-
-Cena 2 — A Barista (4–7s)
-
-Câmera posicionada atrás de Alex, mas com um ponto de vista diferente da Cena 1, voltada para o balcão.
-
-Barista, chamando claramente: "Espresso duplo para o Alex!"
-
-Alex continua absorto no celular. Nenhuma xícara de café aparece neste plano.
-
-Cena 3 — O Copo Errado (7–11s)
-
-Dois cafés para viagem são colocados lado a lado no balcão de retirada por um funcionário que não aparece na tela. Um copo está claramente rotulado ALEX, o outro ALYSSA.
-
-Ainda olhando para o celular, Alex estica a mão livre e, por engano, pega apenas o copo rotulado ALYSSA. Ele se afasta carregando-o, sem perceber o erro. Seu verdadeiro café, rotulado ALEX, permanece no balcão.
-
-Cena 4 — A Calçada (11–14s)
-
-Do lado de fora, Alex caminha a passos rápidos por uma calçada movimentada de Midtown Manhattan, segurando o café de ALYSSA em uma das mãos enquanto continua olhando para o celular na outra.
-
-Atrás dele, ALYSSA sai da mesma cafeteria de onde Alex acabou de sair, segurando o café dele, e o avista mais à frente.
-
-Cena 5 — O Encontro (14–19s)
-
-ALYSSA alcança Alex na calçada.
-
-ALYSSA, levemente divertida: "Acho que você pegou o meu café."
-
-Alex levanta os olhos do celular, para e dá uma olhada no copo.
-
-Alex, olhando para o copo e depois para ALYSSA, com um sorriso de desculpas: "Ah, tem razão. Desculpa por isso."
-
-Eles trocam os copos naturalmente. Alex guarda o celular.
-
-Cena 6 — Mesmo Caminho (19–24s)
-
-Alex faz um gesto indicando a calçada.
-
-Alex, casualmente: "Para onde você vai?"
-
-ALYSSA, apontando para frente: "Pelo visto, para o mesmo lado que você."
-
-Alex, sorrindo: "Bom, que coincidência."
-
-Eles dão risada juntos e começam a caminhar lado a lado, conversando à vontade. Uma câmera fixa os acompanha se afastando pela calçada até saírem de quadro.
-
-Cena 7 — Uma Conexão Inesperada (24–30s)
-
-Corte seco para uma posição de câmera fixa mais adiante na mesma quadra de Midtown. Alex e ALYSSA caminham lado a lado, com os cafés nas mãos, aproveitando uma conversa animada.
-
-Allisa, brincalhona: "Então, essa é a sua rotina matinal de sempre?"
-
-Alex, divertido: "Normalmente não é tão interessante assim."
-
-Allisa ri naturalmente, terminando a risada sem interrupções. Eles continuam caminhando e conversando, indo em direção ao lado direito do quadro.
-
-Ambos os personagens saem completamente do quadro pela direita. Mantenha a calçada vazia por 0,5 segundo final antes de encerrar.
-
-Direção: Diálogos naturais e fluidos, sincronia labial precisa, expressões emocionais sutis e interações físicas realistas. Alex mantém o celular em uma das mãos durante as Cenas 2 a 4 e pega apenas o café de Allisa com a mão livre. O copo ALEX fica para trás até que Allisa o recupere. Mantenha a posse exata dos copos e a continuidade. Movimentos de câmera cinematográficos variados e closes, com posições de câmera fixas para as saídas em caminhada. Cortes secos instantâneos e limpos. Permita que diálogos, reações e risadas terminem naturalmente. Sem câmera lenta, morphing, legendas ou música.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112876062648483840/img/gL4XyT3GY4OLJFzR.jpg" width="600" alt="Romance em Manhattan: O Café Errado">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12876)**
-
-**Autor:** [Promethean](https://x.com/PrometheanAIX) | **Fonte:** [Link](https://x.com/PrometheanAIX/status/2112876623032689023) | **Publicado:** Oct 21, 2026
-
----
-### Comédia de Gangster com Avó e Leopardo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt complexo para um vídeo cômico envolvendo uma avó, um leopardo e um gangster exigindo aluguel, com travas de identidade rigorosas e referências a adereços.
-
-#### 📝 Prompt
-
-```
-REFERÊNCIAS: Vovó = minúscula avó coreana corcunda de 95 a 100 anos (rosto exato, coque branco com palito de madeira, jeogori índigo acolchoado, cachecol de tricô cinza, saixa cor de ameixa, sapatos gomusin). Bandido = gangster muito gordo e seboso (rosto exato com cicatriz na sobrancelha, jaqueta puffer preta brilhante aberta, camisa de seda floral vermelha e preta, corrente de ouro, anel de ouro, calça de moletom preta, tênis brancos sujos). Leopardo = leopardo-das-neves adulto gigante (pelagem exata cinza-branca esfumaçada, rosetas pretas, olhos azul-gelo claros, cauda longa, grossa e anelada). Cabana = cabana de chá montanhosa coberta de palha e neve no topo de uma colina, com um pequeno quintal nevado, uma trilha sinuosa descendo a encosta em direção à câmera e vastas montanhas nevadas e enevoadas à direita. Mantenha todas as identidades, roupas, marcas e cenários idênticos às referências ao longo de toda a cena. Apenas esses três seres existem na cena.
-
-TRAVAS DE OBJETO: OBJETO-BENGALA = bengala de madeira marrom-escura e nodosa, sempre na mão direita da Vovó; ela se apoia nela o tempo todo. OBJETO-TIGELA = pequena tigela redonda de barro marrom com pedaços de carne vermelha crua, sempre na mão esquerda da Vovó, nunca cai, nunca muda.
-
-TRAVA DE ENCENAÇÃO: A Vovó fica parada no quintal nevado logo em frente à porta da Cabana, virada para a trilha/câmera, durante toda a cena; ela nunca sai andando. O Bandido SOBE pela trilha e para a 2 metros à frente dela, de COSTAS para a trilha e para a encosta. Mais tarde, o Leopardo sobe por essa MESMA trilha, vindo da encosta atrás do Bandido. Neve caindo suavemente o tempo todo.
-
-VISUAL: luz diurna de inverno nublada, neve em tom azul-branco frio, brilho âmbar quente saindo da porta da cabana, saturação baixa, contraste de baixo a médio, granulação cinematográfica, halation suave. Vento ambiente, som de neve sendo pisada.
-
-RITMO: fala coreana natural e sem pressa, pausas curtas entre as falas; nunca apressado.
-
-0–6s: Plano aéreo inicial com drone FPV: bem acima de vastas cordilheiras nevadas e enevoadas, deslizando suavemente sobre cumes de pinheiros cobertos de geada e nuvens à deriva, depois mergulhando graciosamente encosta abaixo em direção à minúscula Cabana coberta de neve no topo da colina, desacelerando e avançando até um plano médio da Vovó parada no quintal, apoiada no OBJETO-BENGALA, segurando o OBJETO-TIGELA.
-
-6–11s: A Vovó olha ao redor das colinas, chamando de forma doce e carinhosa, como se falasse com o próprio filho:
-Vovó (cantarolando, terna): 「우리 아가~ 밥 먹자… 어디 갔니, 우리 아들~」
-Ela chama mais uma vez, espiando os cumes, sorrindo.
-
-11–17s: Passos pesados amassando a neve. O Bandido sobe a trilha pisando forte, ofegante, queixo erguido, e para diante dela.
-Bandido (rude, implacável): 「할매, 이번 달 자릿세. 빨리 내놔.」
-A Vovó olha para ele com calma e dá um sorrisinho malicioso.
-Vovó (humilde, gentil): 「잠깐만… 우리 고양이 밥 좀 주고. 그다음에 줄게.」
-
-17–22s: O Bandido ri com deboche, juntando o polegar e o indicador perto do rosto para zombar de algo minúsculo.
-Bandido (irritado, sarcástico): 「그 쪼끄만 망할 고양이 기다릴 시간 없어!」
-Os olhos da Vovó passam pelo ombro dele e vão para a encosta; um sorriso feliz e satisfeito se espalha pelo seu rosto.
-Vovó (afetuosa): 「아이고… 저기 오네.」
-
-22–30s: O Bandido se vira exatamente no momento em que o gigantesco leopardo-das-neves salta da encosta atrás dele.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112833908299677696/img/2Q5Xexo0_Ulc2Edk.jpg" width="600" alt="Comédia de Gangster com Avó e Leopardo">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12875)**
-
-**Autor:** [Syed Abuthahir ∞](https://x.com/abulu8) | **Fonte:** [Link](https://x.com/abulu8/status/2112834308117324151) | **Publicado:** Oct 21, 2026
-
----
-### Comédia Slapstick da Vigilante Adormecida
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para uma cena de comédia slapstick cinematográfica onde uma vigilante adormecida derrota ladrões acidentalmente, exigindo consistência com uma imagem de referência.
-
-#### 📝 Prompt
-
-```
-Crie uma cena de comédia pastelão cinematográfica e ultrarrealista. O rosto e a roupa da vigia devem corresponder à imagem de referência o tempo todo.
-
-Plano 1 (0–3s): Na entrada de um armazém, uma vigia noturna dorme profundamente em uma cadeira, com os pés apoiados em um caixote, roncando e com um pacote de salgadinhos pela metade no colo. Cinco ladrões entram sorrateiramente, dando sorrisinhos debochados para ela.
-
-Plano 2 (3–8s): Os ladrões tentam passar por ela, mas seus movimentos inconscientes acertam um deles no pescoço sem esforço, fazem outro tropeçar e cair entre os caixotes, e lançam um terceiro contra uma prateleira. Ela continua comendo os salgadinhos e murmura, sonolenta: "Lentos demais..."
-
-Plano 3 (8–13s): Os ladrões restantes se amontoam, nervosos, até que o líder avança contra ela. Sem abrir os olhos, ela acerta uma cotovelada na barriga dele, resmungando: "Mais cinco minutinhos." Ele desaba ao lado dos outros.
-
-Plano 4 (13–18s): O último ladrão tenta fugir, mas a perna esticada dela o faz tropeçar direto nas caixas. Os cinco ladrões ficam espalhados pelo armazém enquanto ela termina os salgadinhos, arremessa o pacote vazio com precisão milimétrica dentro de uma lixeira e usa um dos bandidos como apoio para os pés.
-
-Plano 5 (18–23s): Sirenes de polícia se aproximam. Ela abre rapidamente um olho, analisa os ladrões derrotados com uma expressão totalmente inexpressiva, murmura "Eu sabia" e volta a dormir imediatamente. A baba escorre de novo enquanto ela ronca.
-
-Plano 6 (23–30s): Os policiais invadem o local, encontram os ladrões nocauteados e encaram a vigia adormecida, sem acreditar. Um policial tenta acordá-la, mas ela afasta a mão dele com preguiça. O close final revela um pacote de salgadinhos novinho misteriosamente apoiado no colo dela, enquanto sorri pacificamente durante o sono.
-
-Estilo: Comédia pastelão de ritmo acelerado, gags físicos exagerados, porém inofensivos, reações expressivas, aparência consistente do personagem, transições suaves entre os planos, iluminação cinematográfica de armazém, timing cômico impecável e um desfecho satisfatório.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112768240086859776/img/CEpXhdWMSiaYywaS.jpg" width="600" alt="Comédia Slapstick da Vigilante Adormecida">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12874)**
-
-**Autor:** [WasifAI](https://x.com/doctorwasif) | **Fonte:** [Link](https://x.com/doctorwasif/status/2112768312488902962) | **Publicado:** Oct 21, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -8315,6 +9306,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-11T22:46:20.020Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-12T06:17:30.408Z</sub>
 
 </div>

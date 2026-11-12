@@ -68,9 +68,9 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6675** |
+| 📝 Totale prompt | **6678** |
 | ⭐ Prompt in evidenza | **6** |
-| 🔄 Ultimo aggiornamento | **2026-11-11** |
+| 🔄 Ultimo aggiornamento | **2026-11-12** |
 
 ---
 
@@ -361,6 +361,1172 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Commedia domestica sullo shopping online
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt dettagliato per generare un video comico cinematografico di 15 secondi utilizzando Seedance 2.0 Mini, che mostra due donne arredare un appartamento in affitto con acquisti online.
+
+#### 📝 Prompt
+
+```
+Richiama Seedance 2.0 Mini per generare un cortometraggio rigorosamente di 15 secondi, in formato orizzontale 16:9, live-action cinematografico, una commedia sulla vita cinese contemporanea con sincronizzazione audio-video nativa in mandarino.
+
+Questo round è ispirato al recente trend del "Shopping an Online Home" (arredare casa comprando tutto online).
+
+Il cuore di questo trend è: i giovani trasformano gradualmente i loro spazi abitativi inizialmente vuoti nei luoghi che amano, acquistando online mobili, lampade, elettrodomestici e beni di prima necessità.
+
+Questo corto sceglie un punto di vista in cui tutti possono riconoscersi:
+
+Anche se la casa è in affitto, si vuole comunque vivere bene il momento presente.
+
+La storia esprime questa emozione attraverso conversazioni autentiche tra amiche, usando una piccola svista quotidiana per creare un colpo di scena comico.
+
+Il film adotta uno stile da commedia realistica moderna: niente atmosfere storiche forzate, nessuna frase motivazionale campata in aria.
+
+La fotografia ha la qualità cinematografica della ARRI Alexa 35, incarnato femminile est-asiatico realistico, tratti naturali e definiti, luci e ombre delicate, leggera grana della pellicola e un'atmosfera domestica autentica.
+
+[Stile di recitazione e storia completa di questo round]
+
+Due amiche intime si incontrano.
+
+L'amica dal ruolo di "sorella maggiore" va nella nuova casa in affitto dell'amica "sorella minore" e trova molti pacchi e mobili ancora da montare.
+
+La sorella minore annuncia entusiasta che sta facendo lo "Shopping an Online Home".
+
+La sorella maggiore non capisce bene.
+
+Perché fare tanta fatica per una casa in affitto?
+
+La domanda retorica spontanea della sorella minore fa improvvisamente capire all'altra il suo punto di vista.
+
+Proprio mentre l'atmosfera inizia a scaldarsi, la sorella maggiore propone di cenare lì quella sera.
+
+La sorella minore si imbarazza all'improvviso.
+
+Perché ha comprato tantissimi oggetti decorativi, ma la pentola non è ancora stata spedita.
+
+La prima metà stabilisce la differenza di prospettive, la parte centrale genera risonanza emotiva e la seconda metà chiude il cerchio umoristico attraverso dettagli di vita quotidiana specifici.
+
+Si forma così una commedia naturale, fatta di calore e autoironia.
+
+[Personaggi e relazioni]
+
+Personaggio A: @Image1, l'amica "sorella maggiore"
+
+Ereditare rigorosamente l'identità facciale indipendente della precedente Image 1.
+
+Donna adulta est-asiatica di 25-30 anni, alta e slanciata, viso ovale naturale ed elegante, occhi scuri a mandorla, texture della pelle realistica, capelli neri lunghi semi-raccolti.
+
+Indossa una camicia casual bianco avorio, pantaloni grigio scuro e sneakers bianche.
+
+Personalità pragmatica, osservatrice, parla in modo diretto.
+
+Non snobba l'affitto, è solo preoccupata, per puro pragmatismo, che si spendano troppi soldi ed energie.
+
+Personaggio B: @Image2, l'amica "sorella minore"
+
+Ereditare rigorosamente l'identità facciale indipendente della precedente Image 2.
+
+Donna adulta est-asiatica di 20-25 anni, viso naturale rotondo e vivace, occhi luminosi, capelli neri lunghi intrecciati, corporatura minuta, texture della pelle realistica.
+
+Indossa un top in maglia verde ottanio, pantaloni casual beige e sneakers bianche.
+
+Personalità vivace, ama arredare da sola i propri spazi.
+
+Sa che la casa è in affitto, ma spera di viverci comodamente fin da subito.
+
+Sono amiche intime che possono stuzzicarsi a vicenda, senza alcuna vera ostilità.
+
+[Ambientazione attuale e relazioni spaziali]
+
+Dare priorità alle immagini di sfondo e di riferimento della location effettivamente caricate per questo round, bloccando l'identità del luogo, le relazioni architettoniche, la scala spaziale, i materiali principali, la direzione della luce e la continuità ambientale.
+
+Se non viene fornito alcun nuovo riferimento per la location, creare un appartamento in affitto realistico in una città cinese moderna.
+
+Spazio interno chiaramente definito:
+
+Porta d'ingresso sulla sinistra.
+
+Piccola zona living al centro.
+
+Sei o sette scatoloni appena consegnati appoggiati contro il muro.
+
+Alcune scatole sono aperte.
+
+Un tavolino in legno da montare sul pavimento.
+
+Una piccola lampada in fase di spacchettamento accanto al tavolo.
+
+Sullo sfondo si intravede l'ingresso di una cucina semplice.
+
+Lo spazio complessivo deve rimanere realistico e vissuto, non accatastato come un magazzino.
+
+Mix di luce naturale interna e luce solare proveniente dall'esterno, tende leggermente in movimento, suono ambientale della città in lontananza.
+
+Tutte le dinamiche ambientali devono rimanere neutre rispetto alla narrazione.
+
+[0-5s: Gancio comico moderno e apertura]
+
+Inquadratura 1: Campo lungo interno, rivolto verso la porta d'ingresso.
+
+La camera riprende dall'interno dell'appartamento in affitto.
+
+La porta si apre.
+
+Lo stesso personaggio della sorella maggiore @Image1 entra dall'esterno.
+
+Cammina naturalmente in avanti, nota all'improvviso i tanti pacchi e i mobili da montare nel soggiorno.
+
+Si ferma involontariamente.
+
+La camera mostra sia la sua espressione sorpresa sia le scatole dietro di lei.
+
+Lo stesso personaggio della sorella minore @Image2 è seduto a terra, felice di spacchettare una piccola lampada appena comprata.
+
+La sorella maggiore la guarda e chiede sorpresa:
+
+Sorella maggiore: "Quanta roba hai comprato?"
+
+La sorella minore alza lo sguardo, con aria compiaciuta:
+
+Sorella minore: "Shopping an Online Home!"
+
+La sorella maggiore scruta di nuovo la stanza.
+
+Nei suoi occhi si leggono sorpresa e un po' di confusione.
+
+Usare direttamente il meme originale come gancio di apertura.
+
+Far capire al pubblico che sta arredando casa tramite lo shopping online.
+
+[5-10s: Azioni dei personaggi e recitazione vera e propria]
+
+Inquadratura 2: Mezzo campo stabile, messa in scena della relazione tra i due personaggi.
+
+Mantenere lo stesso appartamento, la stessa posizione e la stessa illuminazione.
+
+La sorella maggiore si avvicina alle scatole, prende un pacco piccolo con noncuranza.
+
+Guarda il tavolino da montare, poi la sorella minore.
+
+Chiede con un tono molto naturale, tipico di chi si conosce bene:
+
+Sorella maggiore: "Casa in affitto... ne vale la pena?"
+
+La sorella minore stava spacchettando la lampada.
+
+Sentendo la domanda, si ferma un istante.
+
+Alza lo sguardo verso la sorella maggiore, con un tono né arrabbiato né offeso.
+
+Risponde diretta:
+
+Sorella minore: "Non possiamo aspettare di comprare casa per vivere decentemente, no?"
+
+Mantenere una pausa breve ma naturale.
+
+La sorella maggiore non continua a discutere.
+
+Guarda gli oggetti scelti personalmente dalla sorella minore.
+
+I dubbi iniziali si trasformano gradualmente in comprensione.
+
+Appoggia delicatamente il pacco, iniziando a mostrarsi disposta ad aiutare.
+
+Nessuna musica sentimentale.
+
+Nessuna lunga spiegazione.
+
+Mostrare il cambio di atteggiamento attraverso lo spostamento dello sguardo e il gesto di appoggiare il pacco.
+
+[10-15s: Battuta finale, colpo di scena e recupero emotivo]
+
+Inquadratura 3: Primo piano dei due personaggi, mantenendo l'ingresso della cucina sullo sfondo.
+
+La sorella maggiore ha accettato l'idea della sorella minore.
+
+Sorride in modo naturale e chiede con noncuranza:
+
+Sorella maggiore: "Ok, stasera si mangia da te?"
+
+La sorella minore teneva ancora in mano, emozionata, la piccola lampada appena spacchettata.
+
+Sentendo quelle parole, si blocca all'improvviso.
+
+Nei suoi occhi compare un istantaneo senso di colpa.
+
+Guarda la sorella maggiore, poi la cucina alle sue spalle.
+
+Poi dice, imbarazzata:
+
+Sorella minore: "La pentola non è ancora stata spedita."
+
+Questa battuta deve essere estremamente naturale.
+
+Non costruire la battuta finale attraverso azioni esagerate.
+
+La camera resta ferma per un breve istante.
+
+La sorella maggiore guarda lentamente la cucina vuota.
+
+Poi le pile di mobili e decorazioni lì vicino.
+
+Completamente senza parole.
+
+La sorella minore trattiene una risata, mostrando un'espressione leggermente imbarazzata.
+
+La sorella maggiore non la rimprovera, tira fuori il telefono in silenzio per ordinare cibo da asporto.
+
+La sorella minore appoggia la piccola lampada accanto a sé, senza riuscire a trattenere le risate.
+
+Anche la sorella maggiore si diverte guardandola.
+
+Fine della scena.
+
+Il finale crea un leggero contrasto quotidiano attraverso il concetto di "ho comprato un sacco di mobili decorativi ma ho dimenticato la pentola".
+
+Non aggiungere altri dialoghi.
+
+[Recitazione e dialoghi in mandarino]
+
+L'intero corto utilizza rigorosamente sei battute naturali in mandarino:
+
+Sorella maggiore: "Quanta roba hai comprato?"
+
+Sorella minore: "Shopping an Online Home!"
+
+Sorella maggiore: "Casa in affitto... ne vale la pena?"
+
+Sorella minore: "Non possiamo aspettare di comprare casa per vivere decentemente, no?"
+
+Sorella maggiore: "Ok, stasera si mangia da te?"
+
+Sorella minore: "La pentola non è ancora stata spedita."
+
+Ritmo di parlato naturale, distribuito separatamente nei tre intervalli di tempo, senza battute esplicative extra.
+
+Prima parte: sorella maggiore sorpresa, sorella minore compiaciuta.
+
+Seconda parte: sorella maggiore dubbiosa, sorella minore che esprime con calma il proprio pensiero.
+
+Terza parte: sorella maggiore comprensiva, sorella minore improvvisamente in colpa, entrambe chiudono con un sorriso naturale.
+
+Non far recitare i personaggi come ruoli eccessivamente zuccherosi tipici delle short drama.
+
+[Camera e montaggio]
+
+L'intero corto utilizza tre inquadrature funzionalmente chiare.
+
+0-5s: usare un campo lungo per mostrare la relazione tra le consegne e lo spazio in affitto.
+
+5-10s: usare un mezzo campo a due per rendere centrali le differenze di prospettiva.
+
+10-15s: usare un primo piano a due per creare un contrasto visivo completo con la lampada, le espressioni e la cucina.
+
+Movimenti di camera sobri, si può usare una leggera carrellata in avanti e panoramiche naturali.
+
+Mantenere un asse di ripresa stabile e le relazioni spaziali destra-sinistra tra i personaggi.
+
+Il finale non deve cambiare improvvisamente location né mostrare scene fantastiche aggiuntive.
+
+[Sound design]
+
+Dialoghi nativi sincronizzati in mandarino.
+
+Tutti i suoni devono appartenere ai personaggi corretti, lip sync preciso.
+
+I suoni ambientali naturali includono:
+
+Apertura/chiusura della porta.
+
+Leggero fruscio di cartone e imballaggi.
+
+Passi.
+
+Contatto con l'imballaggio della lampada.
+
+Fruscio dei vestiti.
+
+Rumore di fondo degli interni.
+
+Infine, nessuna risata registrata.
+
+Consentire una sola risata leggera e naturale tra le due amiche.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120740975878569984/img/idzktqO2eZUN37x7.jpg" width="600" alt="Commedia domestica sullo shopping online">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13744)**
+
+**Autore:** [𝕊𝖔ʳᵃɴ](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2120744354654691798) | **Pubblicato:** Nov 12, 2026
+
+---
+### Scena della Campana del Silenzio
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt per una scena di drama Xianxia cinematografico di 15 secondi utilizzando Seedance 2.0 Mini, in cui una campana della vittoria viene silenziata per proteggere i sopravvissuti addormentati.
+
+#### 📝 Prompt
+
+```
+[Prompt cinese corrispondente completo]
+
+[Stile generale e trama principale]
+
+Opera: "Questo suono, lasciamolo in sospeso"
+
+Video live-action di 15 secondi con qualità cinematografica, genere Xianxia cinese, con colpo di scena.
+
+Formato orizzontale 16:9, Seedance 2.0 Mini, sincronizzazione audio-video nativa in mandarino.
+
+Adottare la texture fotografica cinematografica della Arri Alexa 35, attori adulti dell'Asia orientale reali, texture naturali della pelle, delicati tessuti in seta, oggetti metallici realistici, illuminazione volumetrica naturale e uno spazio cinematografico con profondità atmosferica.
+
+L'emozione generale è trattenuta: prima si stabilisce una solenne cerimonia di vittoria, poi, attraverso un gesto minuscolo, si permette al pubblico di comprendere nuovamente quale sia il risultato più importante di questa vittoria.
+
+Premessa della storia
+
+Dopo dieci anni di guerra, la setta ha finalmente ottenuto una vittoria decisiva.
+
+Il Maestro consegna alla Sorella Maggiore Immortale della Spada il batacchio che simboleggia il trionfo.
+
+La Sorella Maggiore si prepara a suonare l'enorme campana di bronzo della vittoria, per annunciare il trionfo a tutti.
+
+Proprio mentre il batacchio sta per abbattersi, la Sorella Minore la ferma all'improvviso.
+
+Agli occhi della folla, questo è un gesto incomprensibile.
+
+Dieci anni di dure battaglie, aspettando finalmente questo ritorno.
+
+Perché non permettere nemmeno di suonare questa campana?
+
+La vera risposta si nasconde dietro la campana della vittoria.
+
+I feriti e i bambini sopravvissuti alla guerra si sono finalmente addormentati.
+
+Hanno vissuto giorni di fuga, terrore e massacri.
+
+Hanno sentito troppe campane d'allarme, tamburi di guerra e grida d'aiuto.
+
+In questo momento, la cosa più preziosa è poter dormire in silenzio.
+
+La Sorella Minore non nega la vittoria.
+
+Ha semplicemente notato prima di chiunque altro ciò che la vittoria stava davvero proteggendo.
+
+Dopo aver compreso, la Sorella Maggiore sceglie di posare il batacchio.
+
+Infine, utilizza un silenzioso nastro di seta rossa per sostituire quella che sarebbe stata una campana trionfale assordante.
+
+Colpo di scena centrale: da "Perché ha fermato i festeggiamenti?" a "In realtà, stava proteggendo la vittoria stessa".
+
+Nessuna comparsa improvvisa di cattivi.
+
+Nessuna rivelazione d'identità, finte morti, complotti tra sette o miracoli soprannaturali.
+
+Lasciamo che siano le scelte dei personaggi a portare la forza della storia.
+
+[Personaggi e relazioni]
+
+Personaggio A: @Image1, Sorella Maggiore Immortale della Spada
+
+Ereditare rigorosamente lo stesso personaggio precedentemente confermato.
+
+Donna adulta dell'Asia orientale, 25-30 anni.
+
+Viso ovale chiaro, naturale e morbido, occhi scuri a mandorla, lunghi capelli neri semi-raccolti, fissati con una forcina di giada bianca, figura alta e slanciata.
+
+Indossa sempre lo stesso completo di Hanfu in seta bianca ricamata, ampie maniche stratificate semitrasparenti, fascia in vita argentata, pendente di giada e stivali di stoffa bianca.
+
+Porta con sé una sola spada lunga d'argento.
+
+Non sfodera mai la spada in questo video.
+
+Ha guidato la setta attraverso una lunga guerra, accogliendo infine una vittoria duramente conquistata.
+
+Pertanto, il suo desiderio di suonare la campana della vittoria è del tutto autentico.
+
+La Sorella Maggiore non fraintende le sofferenze della guerra.
+
+Semplicemente, in questo momento, la sua attenzione è concentrata sulla vittoria finalmente raggiunta.
+
+Quando la Sorella Minore la ferma, inizialmente prova sorpresa.
+
+Poi, attraverso l'osservazione diretta, cambia attivamente la sua decisione.
+
+Cambiamenti di stato del personaggio:
+
+Sollievo dopo la fine di un'attesa durata dieci anni;
+
+Confusione dopo essere stata fermata;
+
+Scoperta di dettagli che aveva ignorato;
+
+Rinuncia attiva a suonare la campana;
+
+Completamento della celebrazione in un altro modo.
+
+Personaggio B: @Image2, Sorella Minore
+
+Ereditare rigorosamente lo stesso personaggio precedentemente confermato.
+
+Donna adulta dell'Asia orientale, 20-25 anni.
+
+Viso rotondo e luminoso, capelli neri intrecciati, corporatura minuta.
+
+Indossa sempre un Hanfu di lino verde, cintura scura, forcina di legno e scarpe di stoffa nera.
+
+Porta con sé una sola spada in acciaio scuro.
+
+Non sfodera mai la spada in questo video.
+
+Prima di questo momento, la Sorella Minore stava assistendo i feriti.
+
+Li ha visti incapaci di dormire tutta la notte, risvegliati di soprassalto dalla guerra.
+
+Sa che il suono della campana li sveglierebbe di nuovo.
+
+Per questo deve fermare la Sorella Maggiore prima che suoni la campana.
+
+Non ha preparato alcun discorso per convincerla.
+
+Le ha semplicemente afferrato delicatamente il polso.
+
+Poi le ha lasciato vedere e ascoltare con i propri sensi.
+
+Si fida del fatto che la Sorella Maggiore capirà.
+
+Nuovi personaggi secondari
+
+Maestro Anziano:
+
+Uomo adulto dell'Asia orientale, indossa antiche vesti blu scuro.
+
+Come anziano della setta, consegna personalmente il batacchio trionfale alla Sorella Maggiore.
+
+Anche lui attendeva la cerimonia di vittoria, quindi resta sbalordito dal gesto improvviso della Sorella Minore.
+
+Successivamente, vedendo i feriti e i bambini che riposano, accetta attivamente la decisione di non suonare la campana.
+
+Il Maestro non deve trasformarsi improvvisamente in un cattivo tirannico e furioso.
+
+Due discepoli della setta:
+
+Tornati dalla battaglia, volti stanchi ma con la gioia genuina della vittoria.
+
+Posizionati in lontananza.
+
+Servono a dare presenza alla folla, senza rubare la scena.
+
+Feriti e bambini a riposo:
+
+Alcuni civili comuni esausti e due bambini.
+
+Possono avere semplici bende, sdraiati su stuoie basse, coperti da coperte di stoffa semplice.
+
+Non devono comparire ferite sanguinanti.
+
+Devono dormire naturalmente, come persone che hanno provato una vera spossatezza.
+
+Un bambino stringe delicatamente un piccolo fazzoletto piegato, appoggiato alla spalla di una donna più anziana.
+
+La scena non richiede un gran numero di comparse.
+
+[Location attuale e relazioni spaziali]
+
+Tutti gli sfondi e le immagini di riferimento delle location caricate in questa sessione costituiscono il mondo fisico realmente esistente nel video.
+
+Non possono essere trattati solo come ispirazione visiva.
+
+Stabilire prima un ambiente unificato secondo le immagini di riferimento:
+
+Terreno reale;
+
+Relazioni spaziali architettoniche principali;
+
+Strade e aree percorribili;
+
+Scala fisica;
+
+Usura dei materiali;
+
+Vegetazione e specchi d'acqua;
+
+Meteo e nuvole;
+
+Nebbia;
+
+Direzione della luce principale;
+
+Riflessi;
+
+Colore e profondità atmosferica.
+
+Scegliere un'area di terreno stabile all'interno della location di riferimento, in grado di ospitare ragionevolmente una cerimonia trionfale temporanea.
+
+Non modificare arbitrariamente i punti di riferimento principali e le strutture architettoniche della location.
+
+Disposizione dello spazio centrale
+
+Una grande e antica campana di bronzo della vittoria è appesa a una semplice struttura in legno.
+
+Accanto alla campana c'è un batacchio di legno.
+
+Un nastro di seta rossa trionfale, non ancora completamente dispiegato, è pre-legato alla struttura in legno.
+
+Questa seta rossa deve esistere realmente fin dalla prima inquadratura.
+
+Dietro la campana della vittoria c'è una semplice area rifugio temporanea.
+
+Una tenda essenziale e l'ampia superficie circolare della campana bloccano insieme la vista diretta del pubblico sull'area rifugio.
+
+I feriti e i bambini vi riposano fin dall'inizio.
+
+È solo che l'inquadratura iniziale non ne mostra l'immagine completa.
+
+La seconda inquadratura la rivela simultaneamente al pubblico e ai personaggi attraverso un naturale movimento laterale.
+
+Non si tratta di un cambio improvviso di location, né della comparsa improvvisa di nuove folle.
+
+Dinamiche ambientali
+
+Il vento muove naturalmente maniche, capelli lunghi, seta rossa e vegetazione.
+
+Specchi d'acqua lontani, nuvole/nebbia e figure sullo sfondo mantengono un movimento ragionevole.
+
+La direzione della luce naturale rimane stabile.
+
+Lo sfondo resta vivo in primo piano, piano medio e sfondo per tutta la durata.
+
+Ma l'ambiente non crea attivamente colpi di scena.
+
+Questa trama è guidata dalle azioni stesse dei personaggi.
+
+[Giudizio iniziale e anticipazioni chiave]
+
+Ciò che il pubblico vede inizialmente:
+
+La cerimonia di vittoria è pronta.
+
+Il Maestro consegna personalmente il batacchio.
+
+La Sorella Maggiore si prepara solennemente a suonare la campana.
+
+La Sorella Minore la ferma all'improvviso.
+
+Il suo comportamento verrà interpretato come un rifiuto di celebrare, o persino come la distruzione di un raro momento d'onore dopo dieci anni.
+
+Tre dettagli chiave già presenti
+
+Primo: le dimensioni della campana della vittoria.
+
+È abbastanza grande da produrre necessariamente un suono forte.
+
+Pertanto, impedire che venga suonata ha un chiaro significato pratico.
+
+Secondo: l'area rifugio alle spalle.
+
+Esiste realmente fin dalla prima inquadratura, ma è nascosta dalla campana di bronzo e dalla tenda.
+
+La seconda inquadratura cambia solo l'angolo di osservazione.
+
+Terzo: il nastro di seta rossa trionfale.
+
+Appeso alla struttura della campana fin dall'inizio.
+
+Alla fine, la Sorella Maggiore lo prende e lo dispiega, completando un annuncio silenzioso della vittoria.
+
+L'intero colpo di scena non utilizza nuovi poteri soprannaturali, segreti dei personaggi o oggetti importanti comparsi dal nulla.
+
+[0–5 secondi: Gancio iniziale e conflitto]
+
+Dimensione inquadratura: Avvicinamento da campo lungo a piano medio.
+
+Camera: Obiettivo 35mm, lenta e stabile carrellata in avanti.
+
+L'apertura entra direttamente nella cerimonia trionfale preparata.
+
+Un'ampia campana di bronzo della vittoria è appesa a una struttura in legno.
+
+La superficie bronzea conserva texture reali derivanti dall'antica fusione e dall'usura del tempo.
+
+Un nastro di seta rossa trionfale è legato accanto alla struttura in legno.
+
+Il Maestro Anziano consegna il batacchio di legno alla Sorella Maggiore Immortale della Spada.
+
+La Sorella Maggiore allunga la mano e lo afferra.
+
+Guarda quella campana di bronzo.
+
+Nei suoi occhi c'è una sorta di stanchezza e sollievo dopo aver finalmente concluso una lunga campagna.
+
+Il Maestro dice sottovoce:
+
+Maestro: "Dieci anni, suona."
+
+La Sorella Maggiore alza lentamente il batacchio.
+
+Tutti i movimenti rispettano la reale biomeccanica del corpo.
+
+Proprio mentre il batacchio sta per toccare la superficie della campana—
+
+La Sorella Minore fa improvvisamente mezzo passo avanti, allungando la mano per afferrare delicatamente ma con fermezza il polso destro della Sorella Maggiore.
+
+Il batacchio si ferma.
+
+Nessun impatto.
+
+Nessun suono di campana.
+
+Sorella Minore: "Sorella Maggiore, non suonarla."
+
+Il Maestro si immobilizza all'istante.
+
+La Sorella Maggiore gira lentamente la testa.
+
+Non è arrabbiata.
+
+Semplicemente non si aspettava che la Sorella Minore la fermasse in quel momento.
+
+Nei suoi occhi appare una chiara confusione.
+
+La camera cambia inquadratura quando le due si guardano negli occhi.
+
+A questo punto, il pubblico dovrebbe chiedersi naturalmente:
+
+Perché, ora che abbiamo vinto, non ci è permesso suonare la campana?
+
+[5–10 secondi: Azione dei personaggi e cambiamento della situazione]
+
+Dimensione inquadratura: Piano medio.
+
+Camera: Leggero movimento laterale, prima mantenendo la relazione tra i volti delle due donne, poi rivelando lo spazio retrostante lungo il bordo della campana di bronzo.
+
+La mano destra della Sorella Maggiore tiene ancora il batacchio.
+
+La Sorella Minore le stringe ancora delicatamente il polso.
+
+La Sorella Maggiore guarda la Sorella Minore:
+
+Sorella Maggiore: "Perché?"
+
+La Sorella Minore non si affretta a giustificarsi.
+
+Rilascia lentamente il polso della Sorella Maggiore.
+
+Poi alza un dito, portandolo delicatamente vicino alle labbra.
+
+Facendo segno alla Sorella Maggiore di fare silenzio.
+
+Sorella Minore: "Ascolta."
+
+In questo momento, i deboli suoni di festa in lontananza si abbassano gradualmente.
+
+Il sound design permette ai personaggi di iniziare a notare:
+
+Lievi rumori di respirazione;
+
+Respiri bassi e regolari del sonno;
+
+Piccoli fruscii di tessuto trasportati dal vento.
+
+La camera esegue una panoramica laterale naturale lungo il bordo della campana di bronzo della vittoria.
+
+L'area originariamente nascosta dal corpo della campana e dalla tenda appare gradualmente.
+
+Non è un'altra location.
+
+Si è sempre trovata dietro la struttura della campana.
+
+Diversi civili feriti e bambini sono sdraiati su stuoie temporanee.
+
+Stanno dormendo profondamente.
+
+Un bambino stringe forte un piccolo fazzoletto piegato.
+
+La sua testa poggia naturalmente sulla spalla della donna più anziana accanto a lui.
+
+Nessuno parla.
+
+Nessuno piange.
+
+Il pubblico può capire dalla loro stanchezza, dalle bende e dalle posture che hanno vissuto paura e fughe per molto tempo.
+
+Lo sguardo della Sorella Maggiore si sposta nella direzione indicata dalla Sorella Minore.
+
+Finalmente vede queste persone.
+
+Il batacchio precedentemente sollevato resta sospeso a mezz'aria, ritardando la sua caduta.
+
+In questo momento, le emozioni della Sorella Maggiore cambiano.
+
+Non guarda più solo la campana di bronzo che simboleggia la vittoria.
+
+Vede veramente le persone che ha protetto.
+
+[10–15 secondi: Colpo di scena chiave e risoluzione emotiva]
+
+Dimensione inquadratura: Primo piano.
+
+Camera: Composizione stabile in primo piano, con cambi di fuoco naturali tra i volti dei personaggi, il batacchio in mano e la seta rossa.
+
+Mantenere gli stessi personaggi, la stessa illuminazione, la stessa campana di bronzo e uno spazio geografico del tutto coerente.
+
+La Sorella Minore è in piedi accanto alla Sorella Maggiore.
+
+Non aggiunge altro.
+
+Aspetta solo in silenzio che la Sorella Maggiore prenda la propria decisione.
+
+La Sorella Maggiore abbassa lentamente il batacchio.
+
+Il movimento è leggerissimo.
+
+Posa con cura il batacchio accanto alla struttura della campana.
+
+Il legno che tocca il supporto produce solo un suono impercettibile.
+
+Il Maestro Anziano ha già visto la folla addormentata dietro, attraverso il bordo della campana di bronzo.
+
+Anche lui non dice nulla.
+
+Il suo sguardo si sposta dalla Sorella Maggiore a quei bambini.
+
+La postura del suo corpo, inizialmente pronta per officiare la cerimonia, si rilassa lentamente.
+
+La Sorella Maggiore allunga la mano e prende il nastro di seta rossa trionfale presente sulla struttura in legno fin dall'inizio.
+
+Dispiega delicatamente la seta rossa.
+
+Poi la drappeggia sulla sommità della campana di bronzo, lasciando che il nastro penda naturalmente.
+
+La seta rossa ondeggia leggermente nel vento.
+
+La campana continua a non suonare.
+
+La Sorella Maggiore guarda i bambini addormentati.
+
+Dice con estrema leggerezza:
+
+Sorella Maggiore: "Questo suono, lasciamolo in sospeso."
+
+Non pronunciarlo come una dichiarazione eroica.
+
+Questa frase è solo come un calmo accordo tra due persone.
+
+Le spalle della Sorella Minore, inizialmente tese, si rilassano finalmente un po'.
+
+Il Maestro è in piedi accanto a loro.
+
+Non fa alcun discorso.
+
+Guarda solo in silenzio.
+
+Inquadratura finale
+
+Primo piano:
+
+L'enorme e immobile campana di bronzo della vittoria appesa.
+
+Il nastro di seta rossa che simboleggia il trionfo pende sulla superficie della campana.
+
+Piano medio:
+
+La Sorella Maggiore Immortale della Spada e la Sorella Minore in piedi fianco a fianco.
+
+Non alzano le spade, né gridano forte.
+
+Sfondo:
+
+I feriti e i bambini appena sopravvissuti alla guerra stanno ancora dormendo tranquillamente.
+
+Una brezza soffia dolcemente la seta rossa.
+
+La luce naturale scorre sulla superficie invecchiata della campana di bronzo.
+
+Fine dello schermo.
+
+Dieci anni di guerra finalmente vinti.
+
+Ma la vittoria di oggi non ha emesso un suono assordante.
+
+Perché qualcuno poteva finalmente dormire in pace.
+
+[Recitazione degli attori e dialoghi]
+
+L'intero video contiene solo cinque battute di dialogo in mandarino nativo.
+
+Maestro: "Dieci anni, suona."
+
+Il tono è basso, contenente l'emozione del sollievo dopo una lunga attesa.
+
+Sorella Minore: "Sorella Maggiore, non suonarla."
+
+Urgente ma educato.
+
+Il suo scopo è fermare l'azione immediata, non sfidare l'autorità della Sorella Maggiore.
+
+Sorella Maggiore: "Perché?"
+
+Sorpreso, confuso, tono controllato e molto leggero.
+
+Sorella Minore: "Ascolta."
+
+Volume più basso, lasciando che l'altra persona scopra attivamente la verità.
+
+Sorella Maggiore: "Questo suono, lasciamolo in sospeso."
+
+Voce leggera e ferma.
+
+Questa è la decisione che ha preso attivamente dopo aver compreso la situazione.
+
+Tutti i dialoghi dei personaggi sono naturali, chiari e rigorosamente sincronizzati con i movimenti labiali di chi parla realmente.
+
+I personaggi che non parlano non devono aprire la bocca senza motivo.
+
+Non aggiungere narrazione o dialoghi extra esplicativi.
+
+[Camera e montaggio]
+
+I tre segmenti hanno funzioni visive distinte.
+
+Prima inquadratura: Rendere la campana della vittoria il centro dell'inquadratura.
+
+Attraverso le sue dimensioni, la texture del rame, il Maestro che consegna il batacchio e la Sorella Maggiore che lo solleva, stabilire la solennità della cerimonia di vittoria.
+
+La Sorella Minore allunga improvvisamente la mano, interrompendo l'aspettativa creata nel pubblico.
+
+Seconda inquadratura: Cambiare il mondo che il pubblico vede attraverso un movimento laterale.
+
+Non evocare nuovi ambienti dal nulla.
+
+Semplicemente rivelare l'area rifugio già esistente mentre la camera si muove.
+
+Il peso visivo si sposta dall'enorme campana di bronzo che simboleggia la vittoria alle persone di piccola scala che dormono silenziosamente.
+
+Terza inquadratura: I personaggi completano il colpo di scena con nuove azioni.
+
+La Sorella Maggiore posa il batacchio.
+
+Prende la seta rossa già presente.
+
+Completa l'annuncio della vittoria in silenzio.
+
+Non affidarsi a slow motion esagerati e complesse riprese circolari.
+
+La camera è stabile, chiara e continua.
+
+Consentire una moderata profondità di campo ridotta, ma non rendere irriconoscibili le azioni chiave e gli oggetti importanti.
+
+[Sound design]
+
+Il suono è una parte fondamentale di questo colpo di scena.
+
+Segmento 1
+
+Suoni ambientali naturali e atmosfere trionfali molto trattenute.
+
+Possono esserci scambi a bassa voce tra la folla stanca in lontananza, ma nessuna esultanza su larga scala.
+
+Quando il batacchio viene sollevato, non usare forti colpi di tamburo per creare suspense a buon mercato.
+
+Segmento 2
+
+Dopo che la Sorella Minore dice "Ascolta", abbassare gradualmente le voci lontane e la colonna sonora.
+
+Spostare l'attenzione sull'area rifugio.
+
+Mantenere i suoni reali del respiro, i lievi fruscii dei tessuti e i suoni ambientali naturali coerenti con la location di riferimento.
+
+Lasciare che il silenzio sonoro diventi parte del cambiamento di consapevolezza dei personaggi.
+
+Segmento 3
+
+Nessun suono di campana.
+
+Nessuna colonna sonora sentimentale che cresce improvvisamente.
+
+Mantenere solo il leggero posizionamento del batacchio, la seta che sfiora la campana di bronzo, la brezza e i suoni ambientali.
+
+L'ultima battuta della Sorella Maggiore:
+
+"Questo suono, lasciamolo in sospeso."
+
+Deve avere movimenti labiali chiari, respiro reale e volume naturale.
+
+Dopo la fine del dialogo, mantenere un breve silenzio.
+
+[Continuità di personaggi, oggetti e ambiente]
+
+Personaggi:
+
+@Image1 e @Image2 mantengono lo stesso volto, proporzioni facciali identiche, acconciatura, abbigliamento, proporzioni corporee, spada e temperamento del personaggio per tutta la durata.
+
+La Sorella Maggiore tiene il batacchio nella mano destra nelle inquadrature 1 e 2.
+
+La Sorella Minore si avvicina dal lato destro della Sorella Maggiore e le ferma il polso.
+
+I cambiamenti di posizione rispettano traiettorie di movimento reali.
+
+I personaggi secondari entrano nell'inquadratura solo se coerenti con le loro posizioni sul posto.
+
+Batacchio:
+
+Consegnato dal Maestro alla Sorella Maggiore all'inizio.
+
+Sollevato dalla Sorella Maggiore.
+
+Fermato dalla Sorella Minore.
+
+Tenuto dalla Sorella Maggiore.
+
+Infine posato.
+
+L'intero processo non deve prevedere cambi di mano istantanei, sparizioni del batacchio o spostamenti dal nulla.
+
+Campana di bronzo della vittoria:
+
+Sempre la stessa campana di bronzo.
+
+Proporzioni del corpo della campana, struttura in legno, texture dei materiali, altezza di sospensione e posizione spaziale rimangono coerenti.
+
+Il batacchio non tocca mai la superficie della campana in tutto il video.
+
+Seta rossa:
+
+Presente sulla struttura della campana fin dalla prima inquadratura.
+
+Infine dispiegata dalla Sorella Maggiore stessa e drappeggiata sulla campana di bronzo.
+
+Non può essere generata dal nulla alla fine.
+
+Area rifugio:
+
+Esiste realmente dietro la struttura della campana fin dall'inizio.
+
+Lenzuola, numero di persone, posizioni dei bambini e tende mantengono la continuità spaziale.
+
+Rivelata nella seconda inquadratura tramite il cambio di prospettiva della camera.
+
+I bambini addormentati e i feriti restano addormentati fino alla fine.
+
+Sfondo:
+
+Rispetta sempre le immagini di riferimento reali della location di questa sessione.
+
+Mantenere l'identità del terreno, le relazioni spaziali architettoniche, la luce principale, il meteo, i materiali e la scala ambientale.
+
+Vento naturale, acqua, nebbia, vegetazione, ciocche di capelli, maniche e seta rossa continuano a muoversi in modo realistico.
+
+Lo sfondo non crea attivamente nuovi eventi drammatici.
+
+[Requisiti di esecuzione per Seedance 2.0 Mini]
+
+Richiamare il modello seedance 2.0 mini per generare un cortometraggio live-action rigorosamente di 15 secondi, formato orizzontale 16:9, con qualità cinematografica, genere Xianxia cinese e colpo di scena.
+
+Sequenza di inquadrature centrale:
+
+0–5s: Il Maestro consegna il batacchio, la Sorella Maggiore lo solleva, la Sorella Minore lo ferma all'improvviso.
+
+5–10s: La Sorella Minore chiede alla Sorella Maggiore di ascoltare, la camera rivela i feriti e i bambini che dormono silenziosamente dietro.
+
+10–15s: La Sorella Maggiore posa il batacchio, dispiega la seta rossa, completa la risoluzione emotiva con l'ultima battuta di dialogo.
+
+Garantire stabilità e continuità dell'asse della camera, posizionamento dei personaggi, linee di sguardo, posizione degli oggetti, direzione della luce e spazio ambientale tra le tre inquadrature.
+
+Concentrarsi sul garantire i seguenti risultati visibilmente reali:
+
+La Sorella Minore deve riuscire a fermare la Sorella Maggiore prima che il batacchio tocchi la campana di bronzo.
+
+La camera deve rivelare realmente l'area rifugio precedentemente nascosta.
+
+La Sorella Maggiore deve vedere la folla addormentata con i propri occhi e cambiare la sua azione di conseguenza.
+
+La seta rossa deve esistere in precedenza ed essere infine dispiegata attivamente dalla Sorella Maggiore.
+
+La campana di bronzo non deve essere suonata per tutto il video.
+
+I feriti e i bambini restano addormentati in silenzio alla fine.
+
+Le microespressioni dei personaggi sono reali e trattenute.
+
+Tutte le azioni sono complete e logiche.
+
+I dialoghi in mandarino sono sincronizzati in modo nativo.
+
+Non aggiungere nuovi conflitti, ribaltamenti d'identità, effetti magici, combattimenti o trame temporanee.
+
+Non generare sottotitoli, titoli, narrazione o testi estranei.
+
+Emozione finale: Far capire al pubblico che a volte la vittoria più degna di essere celebrata è proprio quella che dovrebbe restare in silenzio.
+
+[Negative Prompt]
+
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120725137213595648/img/z1VAUSwvmx61K2ub.jpg" width="600" alt="Scena della Campana del Silenzio">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13745)**
+
+**Autore:** [𝕊𝖔ʳᵃɴ](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2120725797229183155) | **Pubblicato:** Nov 12, 2026
+
+---
+### Prompt per Film d'Azione Fantasy Seedance 2.5
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt per generare un cortometraggio d'azione fantasy di 30 secondi che vede una guardiana combattere contro un mostro gigante su un molo dei traghetti.
+
+#### 📝 Prompt
+
+```
+Prompt Seedance 2.5
+[Requisiti di generazione]
+Genera un cortometraggio d'azione fantasy cinematografico live-action completo di 30 secondi, formato panoramico 16:9, composto da 9 inquadrature.
+Concept del titolo: "La barca è partita, lei non è salita".
+
+Scene grandiose, combattimenti intensi, personaggi con applicazione realistica della forza, perdita di equilibrio, respiro affannoso e impatto fisico.
+Non una cutscene da videogioco, non pose da arti marziali, non la protagonista che sconfigge il mostro senza sforzo.
+Fai avanzare la storia attraverso attacchi/difese chiari, cambiamenti spaziali e progressi graduali; non affidarti a magia, esplosioni continue o slow motion prolungati per tutta la durata.
+
+[Materiali di riferimento]
+@Image 1: Unico riferimento per personaggio ed equipaggiamento della guardia donna. Blocca i tratti del viso, l'acconciatura, l'armatura, la tunica, le protezioni per le gambe, gli anfibi e la lama con manico lungo. Non copiare la posa in piedi o la composizione dal concept art.
+@Image 2: Riferimento per scena e architettura dell'attracco del traghetto. Blocca le sponde di pietra, i vecchi moli di legno, le valli, le città antiche e l'aspetto del traghetto in legno.
+@Image 3: Unico riferimento visivo per il Behemoth Corazzato di Roccia. Blocca il profilo della testa, la forma delle corna, la spessa armatura stratificata, gli arti robusti e le proporzioni corporee.
+
+[Storia principale]
+L'ultimo traghetto di evacuazione sta lasciando la riva. La guardia donna resta sul molo di legno per trattenere il behemoth che insegue la folla.
+Deve resistere finché il traghetto non esce dalla zona di pericolo.
+Durante lo scontro viene respinta e atterrata, poi aggira il behemoth per ritirarsi verso la sponda.
+Il behemoth sfonda il molo di legno durante l'inseguimento. La protagonista raggiunge infine una solida piattaforma di pietra. Il behemoth calpesta le sezioni di legno già danneggiate, provocando un cedimento locale nell'acqua che ne impedisce temporaneamente l'avanzata.
+Dopo essersi accertata di essere al sicuro, la protagonista guarda il traghetto che si allontana e alza la mano per segnalare di essere viva.
+
+[Aspetto fisso della protagonista]
+Donna adulta, circa 26 anni, aspetto strettamente conforme a @Image 1.
+Mantieni la coerenza del volto su entrambi i lati, capelli scuri legati, armatura metallica, tunica, protezioni per le gambe, anfibi e lama con manico lungo.
+Non ridisegnare i vestiti, non aggiungere/rimuovere parti dell'armatura e non cambiare armi.
+L'equipaggiamento deve essere completamente visibile fin dall'inizio; la lama è sempre nella sua mano o chiaramente visibile al suo fianco, senza mai scomparire né duplicarsi.
+Pelle realistica, armatura e cuoio usurati. Accumula gradualmente schegge di legno, polvere e piccoli schizzi d'acqua durante il combattimento; i capelli si scompigliano col tempo e non tornano magicamente in ordine.
+Bella ma non in posa; movimenti pratici; respirazione ed espressioni cambiano in base all'andamento dello scontro.
+
+[Aspetto fisso del Behemoth]
+Corrispondenza rigorosa con il behemoth quadrupede corazzato di roccia in @Image 3.
+Altezza al garrese di circa 3 metri, corporatura massiccia, testa tenuta bassa, ruvida armatura di roccia stratificata, arti robusti.
+Mantieni identiche la forma delle corna, la distribuzione del guscio, le proporzioni corporee e il numero degli arti.
+Comportati come un grande animale con un peso reale: deve frenare dopo una carica, aggiustare il passo nelle curve, non girarsi istantaneamente, non rimbalzare con leggerezza.
+Non aggiungere ali, tentacoli, abilità extra, occhi luminosi, soffio di fuoco o scariche di energia.
+
+[Blocco spaziale dell'attracco del traghetto]
+L'aspetto generale fa riferimento a @Image 2, organizzando le azioni con chiare relazioni spaziali laterali:
+Lato sinistro: sponda di pietra stabile e ampia piattaforma di pietra.
+Il vecchio molo di legno si estende dalla sponda di pietra sinistra verso la superficie dell'acqua a destra.
+La sezione centrale del molo è più larga, permettendo alla protagonista di aggirare il corpo del behemoth dall'esterno.
+Il traghetto parte dall'estremità esterna del molo verso l'acqua aperta a destra.
+
+Apertura: la protagonista si trova all'estremità più lontana del molo, rivolta verso il behemoth che avanza dal lato della sponda.
+Il behemoth è tra la protagonista e la sponda di pietra; il traghetto è dietro la protagonista, sull'acqua.
+La sezione centrale deve mostrare interamente il processo in cui la protagonista aggira il behemoth dall'esterno e torna verso la sponda. Non invertire bruscamente le posizioni dopo uno stacco.
+
+La sezione di legno vicino alla sponda presenta vecchie crepe riconoscibili fin dall'inizio, ma può ancora sostenere il peso.
+Il confine tra la sponda di pietra stabile e il molo di legno è netto.
+Solo la struttura di legno danneggiata crolla localmente; la sponda di pietra non crolla; la protagonista finisce sulla piattaforma di pietra intatta.
+
+[Continuità del traghetto]
+Dalla prima inquadratura, il traghetto ha mollato gli ormeggi e sta lasciando il molo; nessuna cima collega la barca al molo.
+La prua punta verso l'acqua aperta; la poppa verso il molo.
+Per tutto il film, la distanza tra il traghetto e il molo aumenta continuamente; non può fermarsi, tornare alla posizione iniziale o invertire improvvisamente la rotta.
+Sulla barca ci sono solo pochi passeggeri adulti, visibili come piccole figure in lontananza; nessuna interazione complessa tra i personaggi.
+Non far saltare la protagonista sulla barca, non farla arrampicare sulle cime e non farla combattere a bordo.
+
+[Illuminazione e atmosfera]
+Cielo nuvoloso luminoso, luce diffusa morbida, lato sinistro dell'inquadratura leggermente più chiaro.
+Incarnati realistici, acqua grigio-blu, sponde di pietra grigia, legno antico naturale; mantieni i dettagli nelle ombre.
+Texture da film d'azione epico live-action; netta separazione dei materiali tra metallo, cuoio, armatura di roccia, legno e acqua.
+Campi medi e lunghi chiariscono attacco/difesa; i grandangoli definiscono lo spazio e le svolte; i primi piani arricchiscono le emozioni dei personaggi.
+Ripresa stabile ma con moderato dinamismo; carrellate a breve distanza; camera a mano contenuta, niente scuotimenti violenti.
+Non usare filtri teal-orange pesanti, lens flare esagerati o slow motion prolungati.
+
+[Suddivisione delle inquadrature]
+
+Inquadratura 1 (0–3s):
+Carrellata grandangolare laterale a tre quarti; il conflitto inizia immediatamente nel primo fotogramma.
+La zampa anteriore del behemoth sfonda un'asse del molo davanti alla protagonista; le schegge volano all'impatto. La protagonista viene sbilanciata e cade su un ginocchio, tenendo ancora la lama con manico lungo in mano.
+Mostra contemporaneamente la sponda di pietra stabile a sinistra, il legno crepato vicino alla sponda e il traghetto che parte a destra.
+Grido fuori campo degli adulti sulla barca: "Sali!"
+La protagonista alza lo sguardo, fissando il behemoth, senza voltarsi.
+
+Inquadratura 2 (3–6s):
+Stacco su campo medio-lungo laterale, che inquadra sia la protagonista sia il behemoth.
+Il behemoth avanza verso l'estremità esterna del molo, cercando di aggirare la protagonista per raggiungere il traghetto.
+La protagonista si sposta lateralmente, sferrando un rapido contrattacco con la lama contro l'arto anteriore per attirarne l'attenzione.
+Il behemoth si gira verso di lei; la protagonista è costretta a indietreggiare, con le assi che si piegano e scricchiolano sotto i suoi piedi.
+Non può restare immobile ad assorbire tutta la forza del behemoth.
+
+Inquadratura 3 (6–10s):
+Stacco su un grandangolo laterale leggermente rialzato, che mostra chiaramente un cambio di posizione completo.
+Il behemoth spazza con l'artiglio anteriore; la protagonista schiva la traiettoria dell'attacco, aggirando il corpo del mostro dall'esterno attraverso la sezione centrale più larga del molo, spostandosi verso il lato più vicino alla sponda di pietra.
+Il behemoth piroetta e la insegue.
+Mostra interamente le traiettorie di movimento di entrambi; non invertire le posizioni con jump cut, non farla passare sotto il corpo del mostro, non far compenetrare i personaggi negli arti.
+
+Inquadratura 4 (10–14s):
+Stacco su campo medio con carrellata laterale a breve distanza.
+Il behemoth si avvicina, spingendo in avanti arti anteriori e spalle.
+La protagonista usa la lama per agganciare il bordo dell'artiglio, ma viene sfiorata e perde l'equilibrio, cadendo su un ginocchio e appoggiando una mano vuota, scivolando per un breve tratto sulle assi prima di fermarsi.
+L'arma resta nell'altra mano o aderente al fianco, sempre visibile.
+Lo spostamento avviene solo dopo il contatto; le assi si crepano ulteriormente per l'impatto ma non cedono del tutto.
+Subisce pressione fisica e ansima; niente capriole continue, niente voli in aria.
+
+Inquadratura 5 (14–18s):
+Stacco su campo medio-lungo dal lato della sponda.
+La protagonista si rialza, ritirandosi verso la sponda di pietra stabile, con la lama sempre visibile.
+Il behemoth calpesta le assi appena attraversate da lei; le travi pesanti cedono, rumori di rottura provengono dall'area danneggiata vicino alla sponda.
+Lei lancia una rapida occhiata alla struttura rotta sotto i piedi, poi torna a concentrarsi sul behemoth.
+Il traghetto in lontananza continua ad allontanarsi, più distante rispetto all'inizio.
+Nessun dialogo esplicativo; nessun primo piano contemplativo prolungato.
+
+Inquadratura 6 (18–22s):
+Grandangolo laterale stabile; il confine della sponda di pietra, il legno danneggiato, la protagonista e il behemoth sono tutti distinguibili.
+La protagonista si è ritirata fino al punto di giunzione con la sponda di pietra; il behemoth carica di nuovo lungo il legno danneggiato.
+Lei compie un breve spostamento laterale, salendo sull'adiacente piattaforma di pietra intatta e atterrando normalmente su entrambi i piedi.
+Gli arti anteriori del behemoth premono sul legno danneggiato; le travi si spezzano sotto il carico reale, i giunti cedono, il baricentro si abbassa.
+Deve prima sopportare il peso, poi avviene il cedimento strutturale; nessuna caduta prematura.
+
+Inquadratura 7 (22–25s):
+Stacco su grandangolo a tre quarti.
+La sezione danneggiata del molo crolla verso il basso; il behemoth perde l'appoggio e cade in acqua insieme alle travi spezzate, creando schizzi coerenti con il suo peso.
+I grandi tronchi cadono seguendo la gravità; niente galleggiamenti innaturali, niente polverizzazioni.
+La protagonista resta sulla piattaforma di pietra intatta; il suo corpo non viene trascinato dal crollo.
+Il traghetto ha lasciato la zona di pericolo, non toccato da schizzi o detriti.
+Niente combattimenti subacquei, niente morti cruente, niente esplosioni di palle di fuoco.
+
+Inquadratura 8 (25–28s):
+Stacco su campo medio laterale della protagonista, lenta e leggera carrellata in avanti.
+Sta ben salda impugnando la lama, le spalle che si sollevano per il respiro affannoso, capelli ed equipaggiamento scompigliati.
+Prima verifica che non ci siano nuovi inseguimenti dal molo distrutto, poi si volta a guardare il traghetto che si allontana.
+A poppa, solo una piccolissima figura di un passeggero adulto guarda nella sua direzione; non riprendere dettagli del viso o delle dita.
+
+Inquadratura 9 (28–30s):
+Stacco su primo piano frontale della protagonista; la valle e l'acqua sullo sfondo sono naturalmente sfocate.
+Una mano impugna ancora la lama; la mano libera si alza dolcemente verso la distanza, segnalando di essere al sicuro.
+L'espressione è di sollievo dopo lo sfinimento, non una risata trionfale.
+Il finale si chiude sul suo respiro reale, sulla postura stabile e sullo sguardo rivolto al traghetto; nessuna dissolvenza al nero.
+
+[Audio]
+Passi pesanti del behemoth, attrito dell'armatura, legno sotto sforzo, travi che si spezzano, contatto della lama, attrito delle suole, rumori di tessuti e armatura.
+I suoni degli impatti devono essere sincronizzati con il contatto reale; non usare effetti esagerati di ossa che si spezzano.
+La partenza del traghetto ha suoni d'acqua contenuti e rumori strutturali dello scafo in legno.
+L'unico dialogo è la voce dell'adulto sulla barca all'inizio
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120520856917114880/img/WasTr9Hk_PlmyXy9.jpg" width="600" alt="Prompt per Film d'Azione Fantasy Seedance 2.5">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13746)**
+
+**Autore:** [Adamä¹Ÿå�«å�‰ç±³](https://x.com/Adam38363368936) | **Fonte:** [Link](https://x.com/Adam38363368936/status/2120521214737416330) | **Pubblicato:** Nov 11, 2026
+
+---
 ### Prompt di combattimento nella metropolitana cyberpunk per Seedance 2.0
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -8012,181 +9178,6 @@ In basso, il SUV scuro continua a percorrere la strada illuminata dal sole, tras
 **Autore:** [Sharon Riley](https://x.com/Just_sharon7) | **Fonte:** [Link](https://x.com/Just_sharon7/status/2112913908617158822) | **Pubblicato:** Oct 21, 2026
 
 ---
-### Coffee Mix-Up: Romance a Manhattan
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt dettagliato per un video editoriale di lusso cinematografico ambientato a Manhattan, incentrato su uno scambio di tazze di caffè che porta a una conversazione, con istruzioni per il riferimento dei personaggi.
-
-#### 📝 Prompt
-
-```
-The Wrong Coffee — Midtown Manhattan, New York
-
-Durata: 30 secondi | Formato: 16:9 | Stile: Editoriale cinematografico di lusso
-
-Riferimenti dei personaggi: Utilizzare le due immagini fornite esclusivamente come riferimenti per i personaggi, non come fotogrammi iniziali. L'uomo, Alex, è un sicuro di sé e affermato dirigente finanziario di Manhattan. Mantenere inalterati il suo volto, l'abito scuro su misura, la cravatta e l'acconciatura. La donna, Allisa, è il secondo personaggio; conservarne esattamente l'identità, l'acconciatura e l'elegante abito aderente.
-
-Continuità visiva: Fotografia editoriale calda e leggermente vintage con riflessi ambrati, contrasto smorzato, grana pellicola sottile e texture della pelle realistica. Colorimetria coerente in ogni scena. Nessuna luminosità artificiale o effetto "pelle di plastica".
-
-Accuratezza ambientale: Tutte le insegne, i menu, i nomi e le scritte stradali visibili devono essere ortograficamente corretti e leggibili. Nessun testo senza senso.
-
-Scena 1 — Il caffè del mattino (0–4s)
-
-Interno di un'elegante caffetteria nel Midtown Manhattan con banconi in pietra lucida, arredi sofisticati e professionisti indaffarati. Alex si avvicina al bancone, composto e sicuro di sé. Sul bancone non sono visibili tazze di caffè.
-
-Telecamera posizionata dietro Alex, rivolta verso il bancone. Una bellissima barista poco più che ventenne, dai lineamenti da modella e una presenza naturalmente carismatica, si gira leggermente verso l'area di preparazione del caffè fuori campo.
-
-Alex, con tono disinvolto: "Un doppio espresso, per favore. Mi chiamo Alex."
-
-Barista, cordiale: "Arriva subito."
-
-Mostrare esattamente "Midtown Manhattan, New York" nel terzo inferiore, centrato orizzontalmente nella parte bassa dell'inquadratura, Poppins Semi-Bold 600, bianco (#FFFFFF), su sfondo grigio antracite arrotondato (#17212B) con opacità al 60%. Nessun carattere aggiuntivo.
-
-Scena 2 — La barista (4–7s)
-
-Telecamera posizionata dietro Alex, ma con un punto di vista diverso rispetto alla Scena 1, rivolta verso il bancone.
-
-Barista, chiamando a voce alta: "Doppio espresso per Alex!"
-
-Alex resta assorto nel telefono. In questa inquadratura non compaiono tazze di caffè.
-
-Scena 3 — La tazza sbagliata (7–11s)
-
-Due caffè da asporto vengono posati uno accanto all'altro sul bancone delle consegne da un dipendente non inquadrato. Su una tazza è chiaramente scritto ALEX, sull'altra ALYSSA.
-
-Ancora concentrato sul telefono, Alex allunga la mano libera e prende per errore solo la tazza con scritto ALYSSA. Si allontana portandola con sé, ignaro dello sbaglio. Il suo vero caffè, con la scritta ALEX, rimane sul bancone.
-
-Scena 4 — Il marciapiede (11–14s)
-
-All'esterno, Alex cammina a passo svelto lungo un affollato marciapiede del Midtown Manhattan, tenendo il caffè di ALYSSA in una mano mentre continua a guardare il telefono nell'altra.
-
-Dietro di lui, ALYSSA esce dallo stesso locale da cui è appena uscito Alex, tiene in mano il caffè di lui e lo nota poco più avanti.
-
-Scena 5 — L'incontro (14–19s)
-
-ALYSSA raggiunge Alex sul marciapiede.
-
-ALYSSA, divertita: "Credo che tu abbia preso il mio caffè."
-
-Alex alza lo sguardo dal telefono, si ferma e osserva la tazza.
-
-Alex, guardando prima la tazza e poi ALYSSA, con un sorriso di scuse: "Oh, hai ragione. Scusami."
-
-Si scambiano le tazze con naturalezza. Alex ripone il telefono.
-
-Scena 6 — Stessa direzione (19–24s)
-
-Alex fa un gesto indicando lungo il marciapiede.
-
-Alex, con disinvoltura: "Da che parte vai?"
-
-ALYSSA, indicando davanti a sé: "Nella tua stessa direzione, a quanto pare."
-
-Alex, sorridendo: "Beh, che coincidenza."
-
-Ridono insieme e iniziano a camminare fianco a fianco, conversando con naturalezza. Una telecamera fissa li riprende mentre si allontanano lungo il marciapiede fino a uscire dall'inquadratura.
-
-Scena 7 — Un incontro inaspettato (24–30s)
-
-Stacco netto su una telecamera fissa posizionata più avanti nello stesso isolato del Midtown. Alex e ALYSSA camminano fianco a fianco, caffè in mano, immersi in una conversazione animata.
-
-Allisa, scherzosa: "Quindi, è così che inizia di solito la tua mattinata?"
-
-Alex, divertito: "Di solito non è così interessante."
-
-Allisa ride in modo naturale, terminando la risata senza interruzioni. Continuano a camminare e parlare, spostandosi verso il lato destro dell'inquadratura.
-
-Entrambi i personaggi escono completamente dall'inquadratura verso destra. Mantenere l'inquadratura sul marciapiede vuoto per gli ultimi 0,5 secondi prima della fine.
-
-Regia: Dialoghi naturali e spontanei, lip-sync accurato, espressioni emotive sottili e interazioni fisiche realistiche. Alex tiene il telefono in una mano durante tutte le Scene 2–4 e prende solo il caffè di Allisa con la mano libera. La tazza con scritto ALEX resta indietro finché Allisa non la recupera. Mantenere rigorosamente la proprietà delle tazze e la continuità. Movimenti di macchina cinematografici variati e primi piani, con posizioni fisse della telecamera per le uscite di scena a piedi. Stacchi netti e istantanei. Lasciare che dialoghi, reazioni e risate si concludano in modo naturale. Nessuno slow motion, morphing, sottotitoli o musica.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112876062648483840/img/gL4XyT3GY4OLJFzR.jpg" width="600" alt="Coffee Mix-Up: Romance a Manhattan">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12876)**
-
-**Autore:** [Promethean](https://x.com/PrometheanAIX) | **Fonte:** [Link](https://x.com/PrometheanAIX/status/2112876623032689023) | **Pubblicato:** Oct 21, 2026
-
----
-### Commedia Gangster Nonna e Leopardo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt complesso per un video comico che coinvolge una nonna, un leopardo e un gangster che esige l'affitto, con vincoli rigorosi sull'identità e riferimenti agli oggetti di scena.
-
-#### 📝 Prompt
-
-```
-RIFERIMENTI: Nonna = minuscola nonnina coreana di 95-100 anni, curva (volto esatto, chignon bianco con spillone di legno, jeogori trapuntato color indaco, sciarpa grigia lavorata a maglia, gonna color prugna, scarpe gomusin). Delinquente = gangster molto grasso e unto (volto esatto con cicatrice sul sopracciglio, piumino nero lucido aperto, camicia di seta floreale rosso-nera, catena d'oro, anello d'oro, pantaloni della tuta neri, sneakers bianche sporche). Leopardo = leopardo delle nevi adulto gigante (manto esatto grigio-bianco fumé, rosette nere, occhi azzurro ghiaccio pallidi, coda lunga, spessa e inanellata). Capanna = capanna da tè di montagna innevata con tetto di paglia in cima a una collina, con un piccolo cortile innevato, un sentiero che scende serpeggiando lungo il pendio verso la telecamera e vaste montagne innevate e nebbiose sulla destra. Mantenere ogni identità, abito, segno distintivo e ambientazione identici ai riferimenti per tutta la durata. Nella scena esistono solo questi tre esseri.
-
-BLOCCO OGGETTI DI SCENA: PROP-STICK = bastone da passeggio in legno nodoso marrone scuro, sempre nella mano destra della Nonna, su cui si appoggia in ogni istante. PROP-BOWL = piccola ciotola rotonda marrone in terracotta contenente pezzi di carne rossa cruda, sempre nella mano sinistra della Nonna, mai lasciata cadere, mai modificata.
-
-BLOCCO MESSA IN SCENA: La Nonna resta in piedi nel cortile innevato proprio davanti alla porta della Capanna, rivolta verso il sentiero/la telecamera, per l'intera scena; non si allontana mai. Il Delinquente SALE lungo il sentiero e si ferma a 2 metri davanti a lei, dando le SPALLE al sentiero e al pendio. Più tardi, il Leopardo sale lungo lo STESSO sentiero dal pendio alle spalle del Delinquente. Neve che cade dolcemente per tutta la scena.
-
-ASPETTO VISIVO: luce invernale coperta, neve bianco-azzurra fredda, bagliore ambrato e caldo dalla porta della capanna, saturazione bassa, contrasto medio-basso, grana cinematografica, alone morbido (halation). Vento ambientale, rumore di neve calpestata.
-
-RITMO: recitazione coreana naturale e senza fretta, brevi pause tra le battute; mai affrettato.
-
-0–6s: Inquadratura aerea iniziale con drone FPV: dall'alto sopra vaste catene montuose innevate e nebbiose, planando dolcemente su creste di pini brinati e nuvole alla deriva, per poi tuffarsi con grazia lungo il pendio verso la minuscola Capanna coperta di neve in cima alla collina, rallentando e stringendo fino a un'inquadratura media della Nonna in piedi nel cortile, appoggiata al PROP-STICK, mentre regge il PROP-BOWL.
-
-6–11s: La Nonna guarda le colline intorno, chiamando con dolcezza e premura, come se parlasse a suo figlio:
-Nonna (cantilenante, tenera): 「우리 아가~ 밥 먹자… 어디 갔니, 우리 아들~」
-Chiama ancora una volta, scrutando le creste e sorridendo.
-
-11–17s: Passi pesanti sulla neve. Il Delinquente sale a fatica lungo il sentiero, ansimando, con il mento alzato, e si ferma davanti a lei.
-Delinquente (ruvido, spietato): 「할매, 이번 달 자릿세. 빨리 내놔.」
-La Nonna lo guarda con calma e accenna un furbesco sorrisetto.
-Nonna (umile, gentile): 「잠깐만… 우리 고양이 밥 좀 주고. 그다음에 줄게.」
-
-17–22s: Il Delinquente sbuffa con aria di superiorità, avvicinando pollice e indice davanti al viso per mimare qualcosa di minuscolo e prenderlo in giro.
-Delinquente (arrabbiato, sarcastico): 「그 쪼끄만 망할 고양이 기다릴 시간 없어!」
-Lo sguardo della Nonna scivola oltre la sua spalla verso il pendio; le si apre un sorriso felice e soddisfatto.
-Nonna (affettuosa): 「아이고… 저기 오네.」
-
-22–30s: Il Delinquente si gira proprio mentre il gigantesco leopardo delle nevi balza fuori dal pendio alle sue spalle.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112833908299677696/img/2Q5Xexo0_Ulc2Edk.jpg" width="600" alt="Commedia Gangster Nonna e Leopardo">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12875)**
-
-**Autore:** [Syed Abuthahir ∞](https://x.com/abulu8) | **Fonte:** [Link](https://x.com/abulu8/status/2112834308117324151) | **Pubblicato:** Oct 21, 2026
-
----
-### Commedia slapstick della guardia addormentata
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per una scena di commedia slapstick cinematografica in cui una guardia addormentata sconfigge accidentalmente dei ladri, richiedendo coerenza con un'immagine di riferimento.
-
-#### 📝 Prompt
-
-```
-Crea una scena comica slapstick ultra-realistica e dal taglio cinematografico. Il volto e l'abbigliamento della guardiana devono corrispondere all'immagine di riferimento per tutta la durata.
-
-Inquadratura 1 (0–3s): All'ingresso di un magazzino, una guardiana notturna dorme profondamente su una sedia, con i piedi appoggiati a una cassa; russa tenendo in grembo un sacchetto di patatine mezzo vuoto. Cinque ladri si intrufolano dentro, sogghignando nella sua direzione.
-
-Inquadratura 2 (3–8s): I ladri cercano di superarla, ma i suoi movimenti inconsci stendono uno di loro con una gomitata involontaria, fanno inciampare un altro contro delle casse e spediscono il terzo a schiantarsi contro uno scaffale. Lei continua a mangiare patatine e borbotta assonnata: "Troppo lenti..."
-
-Inquadratura 3 (8–13s): I ladri rimasti si stringono nervosamente tra loro, prima che il capo si lanci all'attacco. Senza aprire gli occhi, lei gli rifila una gomitata nello stomaco, mormorando: "Ancora cinque minuti." Lui crolla accanto agli altri.
-
-Inquadratura 4 (13–18s): L'ultimo ladro tenta la fuga, ma la gamba distesa di lei lo fa inciampare contro degli scatoloni. Tutti e cinque i ladri giacciono sparpagliati per il magazzino mentre lei finisce le patatine, lancia il sacchetto vuoto centrando perfettamente il cestino e usa uno dei ladri come poggiapiedi.
-
-Inquadratura 5 (18–23s): Si avvicinano le sirene della polizia. Lei apre brevemente un occhio, squadra i ladri fuori gioco con un'espressione impassibile, borbotta: "Lo sapevo" e ripiomba immediatamente nel sonno. Ricomincia a sbavare mentre russa.
-
-Inquadratura 6 (23–30s): La polizia irrompe, trova i ladri al tappeto e fissa incredula la guardiana addormentata. Un agente cerca di svegliarla, ma lei gli scaccia via la mano con un gesto pigro. Il primo piano finale rivela un nuovo sacchetto di patatine misteriosamente apparso sulle sue ginocchia, mentre lei sorride pacifica nel sonno.
-
-Stile: Commedia slapstick dal ritmo serrato, gag fisiche esagerate ma innocue, reazioni molto espressive, aspetto del personaggio coerente, transizioni fluide tra le inquadrature, illuminazione cinematografica del magazzino, tempismo comico impeccabile e battuta finale d'effetto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112768240086859776/img/CEpXhdWMSiaYywaS.jpg" width="600" alt="Commedia slapstick della guardia addormentata">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12874)**
-
-**Autore:** [WasifAI](https://x.com/doctorwasif) | **Fonte:** [Link](https://x.com/doctorwasif/status/2112768312488902962) | **Pubblicato:** Oct 21, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -8248,6 +9239,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-11T22:46:18.885Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-12T06:17:28.890Z</sub>
 
 </div>
