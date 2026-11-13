@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6678** |
+| 📝 Gesamtanzahl Prompts | **6684** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-11-13** |
 
@@ -361,6 +361,416 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Großer Weißer Hai wird von Orca gerettet
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt, der eine Frau auf einem Jetski zeigt, die von Haien umgeben ist und von einem Orca-Wal gerettet wird.
+
+#### 📝 Prompt
+
+```
+Filmische 4K-Actionaufnahme, Froschperspektive. Eine junge blonde Frau in Schuluniform und Schwimmweste rast auf einem Hochgeschwindigkeits-Jetski über die Meeresoberfläche. Das Gebiet wird von einem gewaltigen Kreis aus Dutzenden Weißen Haien umschlossen, die eine Offshore-Ölbohrplattform einkreisen. Der Jetski trifft auf eine Welle, sie stürzt ins Wasser und sinkt unter die Oberfläche, während die Haie dicht um sie herumkreisen. Plötzlich taucht ein riesiger Orca auf und beschützt sie, während sie zu einer Leiter der Bohrinsel schwimmt – atemlos vor Erleichterung blickt sie staunend zurück. Fotorealistische, filmische Beleuchtung, dramatische Bewegungsunschärfe, High-End-VFX-Blockbuster-Ästhetik, vertikales Seitenverhältnis 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121113285676216320/img/8aP2AJdeiMTdIeGU.jpg" width="600" alt="Großer Weißer Hai wird von Orca gerettet">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13790)**
+
+**Autor:** [Avelyrah](https://x.com/AvelyrahnAI) | **Quelle:** [Link](https://x.com/AvelyrahnAI/status/2121113408485617748) | **Veröffentlicht:** Nov 13, 2026
+
+---
+### Wuxia-Krieger gegen Schattenbestien
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine düstere Fantasy-Wuxia-Action-Szene, in der ein Krieger mit feurigen Schwerttechniken gegen Schattenbestien kämpft.
+
+#### 📝 Prompt
+
+```
+Cinematische Wuxia-Action-Szene im Dark-Fantasy-Stil, dynamische Verfolgungsfahrt aus der Froschperspektive. Ein Krieger in schwarzen Kampfgewändern und Armschienen steht auf einem Feld mit hohem Gras unter einem bedeckten grauen Himmel. Er dreht sich schwungvoll und führt einen Hieb mit einem glühenden Feuerschwert aus, das bogenförmige Spuren aus leuchtend orangefarbenem Feuer und Funken hinterlässt. Eine gewaltige Horde schwarzer Schattenbestien stürmt über das Feld. Er löst eine mächtige Bodenschockwelle aus, die Erde, Rauch und Glut in die Luft schleudert. Eine kreisförmige Matrix aus leuchtend roten Zielmarkierungen und Energielasern schießt nach außen in das Monsterheer. Danach legt der Krieger sein flammendes Schwert auf die Schulter und schreitet in Zeitlupe durch schwebende Glut, Rauch und sich auflösende schwarze Asche vorwärts. Fotorealistische VFX, Bewegungsunschärfe, 8k-Auflösung, hyperdetailliert.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120736212994641920/img/eSbJlO8WmmD0_wfZ.jpg" width="600" alt="Wuxia-Krieger gegen Schattenbestien">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13792)**
+
+**Autor:** [ZDuo.MoreAi](https://x.com/lnxinshng252654) | **Quelle:** [Link](https://x.com/lnxinshng252654/status/2121076838600487401) | **Veröffentlicht:** Nov 13, 2026
+
+---
+### Koreanische U-Bahn Action-Komödie Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-Generierungs-Prompt für Seedance 2.0, der eine realistische Szene in einer koreanischen U-Bahn erstellt, in der eine Frau Glas zerbricht, um einen Mann aus einem Zug zu ziehen.
+
+#### 📝 Prompt
+
+```
+Erstelle eine 30 Sekunden lange, ultrarealistische Action-Comedy-Szene in einer koreanischen U-Bahn in 1080p. Nutze die hochgeladenen Bilder als exakte visuelle Vorlage; halte Charaktere, Gesichter, Frisuren, Outfits und Umgebung durchgehend konsistent.
+Junge Koreanerin, Anfang 20, langes glattes schwarzes Haar, grünes kurz geschnittenes Langarmtop, locker sitzende blaue Jeans, Silberschmuck; selbstbewusst und ausdrucksstark.
+Junger Koreaner, kurze schwarze Haare, graues Knopfhemd, dunkle Hose und weiße Sneaker; zunächst verspielt, dann schockiert und peinlich berührt.
+Sie eilt die U-Bahn-Treppe hinunter zu einem wartenden Zug, doch die Türen schließen sich genau in dem Moment, als sie sie erreicht.
+Der Mann im Zug sieht sie durch das Glas und lacht sie aus; sie starrt ihn wütend an und sagt: „Lachst du da etwa wirklich?"
+Er lacht erneut, woraufhin sie plötzlich mit der Faust gegen die Scheibe neben der Tür schlägt. Das Sicherheitsglas bricht realistisch – ohne Verletzungen oder Gewaltdarstellungen.
+Sie greift durch die zerbrochene Öffnung, packt sein Hemd und zieht ihn sicher auf den Bahnsteig hinaus; er landet vor Schreck unbeholfen auf dem Boden.
+Sie klettert völlig ruhig durch dieselbe Öffnung in den Zug, richtet ihre Kleidung und geht ins Wageninnere, während fassungslose Fahrgäste zusehen.
+Der Mann bleibt draußen sitzen, wirkt verwirrt und gedemütigt, während die Fahrgäste ihn durch die Fenster anstarren.
+Ein Fahrgast beginnt zu lachen, dann bricht der ganze Wagen in Gelächter aus, während der Mann sich hilflos umblickt.
+Sie betrachtet ihn durch das Fenster, lächelt leicht und zufrieden, dann wendet sie sich beiläufig ab.
+Ultrarealistische Beleuchtung einer koreanischen U-Bahn, rauer DV-inspirierter Look, natürliche Bewegungsunschärfe, realistische Physik, typische Unperfektheiten einer Handkamera, authentische Reaktionen und atmosphärische U-Bahn-Geräusche; keine Musik.
+Keine Gewalt- oder Blutdarstellungen, keine schweren Verletzungen, kein Identitätsverlust der Figuren, keine Kleidungswechsel, keine duplizierten Personen, keine Teleportation, kein sich regenerierendes Glas, keine verzerrten Hände, kein CGI-Look, keine Untertitel, kein Text, keine Logos und keine Wasserzeichen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120725292390260736/img/qD7ndxljcz0tmW_5.jpg" width="600" alt="Koreanische U-Bahn Action-Komödie Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13791)**
+
+**Autor:** [ZDuo.MoreAi](https://x.com/lnxinshng252654) | **Quelle:** [Link](https://x.com/lnxinshng252654/status/2120917789137392073) | **Veröffentlicht:** Nov 12, 2026
+
+---
+### Seedance 2.0 Prompt für eine Regennacht-Kampfszene
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein Prompt zur Erstellung eines 15-sekündigen, realistischen cineastischen Action-Kurzfilms mit einer Regennacht-Szene und hochdichtem Nahkampf unter Verwendung von Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Erstelle einen 15 Sekunden langen, realistischen Action-Kurzfilm im 16:9-Querformat mit kinoreifer Optik in einer regnerischen Nacht – direkt aus dem Text generiert.
+
+[Kernanforderungen]
+Extrem dichte, rasante Nahkampf-Action ohne Unterbrechung – wie die intensivste Kampfszene eines erstklassigen Actionfilms. Insgesamt 4 Schlagabtausche und 10 Einstellungen.
+Das erste Bild zeigt bereits den laufenden Kampf; kein Intro, kein Herangehen, kein Abtasten, keine Posen.
+Keine Zeitlupe im gesamten Clip; alle Bewegungen laufen in Echtzeit ab.
+Jede Einstellung dauert etwa 1 bis 2 Sekunden, schließt einen klaren Angriffs-/Verteidigungszyklus ab und zeigt die Wirkung des Treffers.
+Die Aktionen gehen nahtlos ineinander über; das Ende einer Bewegung ist der Start der nächsten – ohne Pausen.
+Beide Seiten teilen aus und stecken ein. Der Hauptdarsteller wird anfangs in die Defensive gedrängt, kontert in der Mitte härter und beendet den Kampf mit einem finalen Schlag.
+
+[Figuren]
+Hauptdarsteller: Junger ostasiatischer Mann, ca. 30 Jahre alt, kurze schwarze Haare, markante Gesichtszüge, kräftiger und wendiger Körperbau. Trägt eine schwarze Kurzjacke, ein dunkelgraues T-Shirt, dunkle Cargohosen und kurze schwarze Stiefel. Vom Regen durchnässt, mit einer leichten Schürfwunde an der rechten Augenbraue. Er trägt keine Waffe.
+Gegner: Ein junger Mann, größer als der Hauptdarsteller, in einer dunklen Kapuzenjacke und dunkler Hose. In seiner rechten Hand hält er einen kurzen Metallstab.
+Im gesamten Clip sind nur diese beiden Personen zu sehen; Aussehen, Kleidung und Waffen bleiben durchgehend konsistent.
+
+[Schauplatz]
+Eine enge städtische Gasse bei starkem Regen in der Nacht. Pfützen auf dem Boden reflektieren das Licht, kaltweiße Straßenlaternen in der Gasse, eine warmgelbe Wandleuchte an der Hauswand und eine Metallmülltonne, die an der Wand steht.
+Der gesamte Clip spielt in derselben Gasse; Wände, Mülltonne und die Positionen der Figuren müssen räumlich stimmig bleiben.
+
+[Storyboard]
+
+Runde 1: In der Defensive
+
+Einstellung 1 (0–1,5 s): Halbtotale von der Seite. Der Gegner holt mit dem Metallstab zu einem horizontalen Schwung aus; der Hauptdarsteller duckt sich blitzschnell weg. Der Stab trifft die Metallmülltonne, verbeult sie und erzeugt einen lauten, scheppernden Klang.
+
+Einstellung 2 (1,5–3 s): Handkamera folgt der Bewegung. Als der Hauptdarsteller aufschaut, rammt ihn der Gegner mit einem Schulterstoß und drückt seinen Rücken hart gegen die Wand, sodass Regentropfen von der Oberfläche spritzen.
+
+Runde 2: Entwaffnung
+
+Einstellung 3 (3–4,5 s): Halbtotale von der Seite. Der Gegner hebt den Stab, um ihn auf den Kopf des Hauptdarstellers niederzuschlagen; dieser weicht seitlich aus. Der Stab trifft die Wand, Putz bröckelt herab.
+
+Einstellung 4 (4,5–6 s): Nahaufnahme. Der Hauptdarsteller packt mit beiden Händen die Handgelenke des Gegners und schlägt sie gegen die Wand. Der Metallstab entgleitet ihm und fällt in die Pfütze.
+
+Runde 3: Faustkampf
+
+Einstellung 5 (6–7,5 s): Halbtotale von der Seite. Der Gegner brüllt auf und schlägt mit rechts zu; der Hauptdarsteller blockt mit dem linken Arm und landet sofort einen Haken in die Magengrube des Gegners, der daraufhin zusammenkrümmt.
+
+Einstellung 6 (7,5–9 s): Halbtotale. Der Gegner kontert mit einem linken Haken, der die Wange des Hauptdarstellers trifft. Dessen Kopf reißt zur Seite, er taumelt zwei Schritte zurück, Wasser spritzt aus der Pfütze, doch er fängt sich schnell wieder.
+
+Runde 4: Der finale Schlag
+
+Einstellung 7 (9–10,5 s): Verfolgende Nahaufnahme. Der Hauptdarsteller macht sich klein, dringt in die Deckung des Gegners ein und landet zwei kurze Schläge gegen dessen Rippen, wodurch der Gegner nach hinten gedrängt wird.
+
+Einstellung 8 (10,5–12 s): Halbtotale. Der Gegner holt erneut zum Schlag aus; der Hauptdarsteller weicht seitlich aus und trifft ihn mit einem Aufwärtshaken am Kiefer. Der Kopf des Gegners schnellt nach hinten, er gerät ins Wanken.
+
+Einstellung 9 (12–13,5 s): Etwas weitere Halbtotale. Der Hauptdarsteller greift die Jacke des Gegners und nutzt den Schwung, um ihn seitlich zu schleudern. Der Gegner prallt gegen die Metallmülltonne und fällt mit lautem Platschen rückwärts in die Pfütze – unfähig, wieder aufzustehen.
+
+Einstellung 10 (13,5–15 s): Gesichts-Nahaufnahme des Hauptdarstellers. Er steht im Regen, seine Brust hebt und senkt sich schwer, Wasser tropft von Haaren und Gesicht, während er den am Boden liegenden Gegner mit durchdringendem Blick fixiert. Die Szene endet abrupt.
+
+[Action & Kameraführung]
+Realistische, filmreife Bildtextur, kontrastreiches Zusammenspiel von kühlem und warmem Licht in der Regennacht, deutlich sichtbare Regentropfen.
+Jeder Faustschlag und jeder Treffer mit dem Stab muss das Ziel treffen und Kraftübertragung, Zurückweichen oder Gleichgewichtsverlust auslösen. Keine Schläge ins Leere, kein Fallen ohne vorherigen Kontakt.
+Schläge zeigen Ausholbewegung und Rückstoß, die Füße stehen fest auf dem Boden, bei Treffern spritzt das Wasser aus den Pfützen, von der Kleidung fliegen Wassertropfen.
+Leichtes Kamerawackeln beim Aufprall ist erlaubt, die Trefferzone muss jedoch klar erkennbar bleiben.
+Die Links-rechts-Positionierung der Figuren bleibt zwischen aufeinanderfolgenden Einstellungen konsistent; kein Teleportieren, keine Überschneidungen, keine zusätzlichen Gliedmaßen oder Waffen.
+Der fallengelassene Metallstab bleibt auf dem Boden liegen; niemand hebt ihn auf.
+Keine Saltos, Flugtritte oder Superkräfte; keine blutigen Nahaufnahmen.
+
+[Ton]
+Durchgehender Starkregen. Die Geräusche von Stab auf Mülltonne, Rücken gegen Wand, platschendem Wasser, auftreffenden Schlägen und umkippender Mülltonne müssen perfekt mit dem Bild synchronisiert sein. Schlaggeräusche sind kurz und kraftvoll.
+Intensive, schnelle, schlagzeuglastige Actionmusik setzt ab der ersten Sekunde ein, erreicht ihren Höhepunkt beim finalen Wurf und endet mit dem Rauschen des Regens und schwerem Atmen.
+Keine Dialoge, kein Voiceover, keine Untertitel, kein Text und keine Wasserzeichen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120891252908695552/img/qL40UjZsNm2ySdzS.jpg" width="600" alt="Seedance 2.0 Prompt für eine Regennacht-Kampfszene">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13794)**
+
+**Autor:** [Adam也��米](https://x.com/Adam38363368936) | **Quelle:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **Veröffentlicht:** Nov 12, 2026
+
+---
+### Seedance 2.5 Xianxia-Komödie 'Ren Huang Bu' Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Prompt für ein 15-sekündiges komisches Xianxia-Video, das eine Schwertprüfung zeigt, bei der die Schülerin allem ausweicht, aber vergisst, ihr Schwert zu ziehen.
+
+#### 📝 Prompt
+
+```
+【Gesamtstil und Meme-Vorlage】
+
+15-sekündige Realfilm-Komödie im Kino-Look, chinesischer Xianxia-Stil mit unerwartetem Twist, 16:9 Querformat, Seedance 2.5, echte Schauspieler, realistische Haut und anatomisch korrekte Körperstrukturen, lippensynchroner Originalton auf Mandarin.
+
+Diese Runde greift das kürzlich wieder viral gegangene Internet-Meme „Ren Huang Bu“ (Kaiserschritt) auf.
+
+Der Kern des ursprünglichen Memes ist eine Bewegungstechnik, bei der plötzliche Richtungswechsel, entgegengesetzte Positionierungen und Ausweichmanöver auf engstem Raum dazu führen, dass die Angriffe des Gegners durchgehend ins Leere gehen.
+
+Diesmal wird es als Schwertkunst-Prüfung einer Sekte neu interpretiert.
+
+Der Humor der Geschichte entsteht durch einen sehr klaren kognitiven Bruch: Die jüngere Schülerin interpretiert „Angriffen ausweichen können“ als „die Schwertkunst-Prüfung bestanden haben“. Sie führt also ein spektakuläres Fußwerk vor, weicht erfolgreich allen Angriffen aus – vergisst aber von Anfang bis Ende, ihr Schwert zu ziehen.
+
+Insgesamt wird zunächst mit der ernsthaften audiovisuellen Sprache eines Wuxia-Films die Erwartung eines professionellen Duells aufgebaut, um dann schrittweise in trockene, absurde Komik überzugehen.
+
+Die Figuren selbst müssen absolut todernst bleiben und dürfen dem Publikum nicht schon vorher signalisieren: „Das hier ist ein Witz.“
+
+【Figuren und Beziehungen】
+
+@Image 1: Dieselbe weiß gekleidete Schwert-Unsterbliche (ältere Mitschülerin), erwachsene ostasiatische Frau. Das bestätigte Gesicht, die Proportionen und die Ausstrahlung sind strikt beizubehalten. Weißes, besticktes Seiden-Hanfu, schwarzes, halb hochgestecktes Haar, mit einer Jade-Haarnadel fixiert, ein silbernes Langschwert tragend. Ruhig, scharfsinnig, mit zurückhaltendem Humor.
+
+@Image 2: Dieselbe blau gekleidete jüngere Mitschülerin, erwachsene ostasiatische Frau. Das bestätigte Gesicht, die Proportionen und die Ausstrahlung sind strikt beizubehalten. Blaugrünes Hanfu, schwarzer geflochtener Zopf, ein einzelnes dunkles Stahlschwert tragend. Agile Bewegungen, wettbewerbsorientierte Persönlichkeit, leicht größenwahnsinnig.
+
+Zu den Nebenrollen gehören ein strenger, älterer Meister sowie ein männlicher Mitschüler, der ein stumpfes Holz-Übungsschwert hält.
+
+Das Ziel der jüngeren Schülerin ist es, die Schwertkunst-Prüfung zu bestehen.
+
+Der Mitschüler hofft, sie in einem regulären Duell zu besiegen.
+
+Der Meister ist dafür verantwortlich, wahre Schwertkunst zu bewerten.
+
+Die ältere Mitschülerin beobachtet vom Rand aus und bemerkt früher als alle anderen, was die Jüngere übersehen hat.
+
+【Aktueller Schauplatz und räumliche Kontinuität】
+
+Die neu hochgeladenen Referenzbilder für Hintergrund/Schauplatz stellen die physische Welt dar, in der das Video tatsächlich spielt; der reale Raum muss zwingend auf Basis dieser Vorlagen aufgebaut werden.
+
+Überprüfe zunächst das Zusammenspiel von Gelände, architektonischen Strukturen, Wegen/Plattformen, Stein-/Holzmaterialien, Vegetation, Gewässern, Wolken/Nebel, Wetter, Sonnenrichtung sowie Vorder- und Hintergrundebenen in der Szene. Richte dann innerhalb dieses bestehenden Schauplatzes einen logischen Trainingsbereich der Sekte ein.
+
+Ersetze ihn nicht willkürlich durch einen beliebigen anderen typischen Xianxia-Platz.
+
+Der Meister und die ältere Mitschülerin stehen außerhalb des Trainingsbereichs; die jüngere Mitschülerin und der herausfordernde Schüler stehen sich in der Mitte gegenüber, der Startabstand beträgt ca. 3 Meter.
+
+Alle Einstellungen spielen im selben geografischen Raum.
+
+Wind, Stoffbewegungen, Wasserfluss, Vegetation sowie Wolken/Nebel im Hintergrund bewegen sich eigenständig und natürlich und greifen zu keinem Zeitpunkt aktiv in die Prüfung ein oder erzeugen Pointen.
+
+【0–5 Sekunden: Eröffnungs-Hook und Ausgangslage der Figuren】
+
+Eine tiefe Totale etabliert die ernsthafte Atmosphäre des Sekten-Duells.
+
+Der Meister hebt eine Hand und verkündet formell:
+
+【Meister, ernst】„Schwertkunst-Prüfung, beginnt!“
+
+Der männliche Mitschüler richtet sein Holzschwert auf die jüngere Schülerin und fordert sie provozierend auf:
+
+【Mitschüler】„Zieh dein Schwert!“
+
+Die rechte Hand der jüngeren Schülerin berührt den Schwertgriff an ihrer Taille, lässt ihn aber plötzlich wieder los.
+
+Ihr Körper senkt sich leicht ab, die Füße justieren sich in eine scheinbar bizarre Ausgangsstellung.
+
+【Jüngere Mitschülerin, extrem selbstbewusst】„Ich beherrsche Ren Huang Bu!“
+
+Sie nickt sogar ernsthaft, als würde sie eine verschollene Ultimativtechnik offenbaren.
+
+Kurzer Schnitt zum Gesichtsausdruck der älteren Mitschülerin.
+
+Die ältere Mitschülerin blickt kurz auf das ungezogene Schwert der Jüngeren hinab, in ihren Augen blitzt subtile Verwirrung auf.
+
+【5–10 Sekunden: Aktionen der Figuren und Eskalation des Konflikts】
+
+Eine klare, seitliche Kamerafahrt in der Halbtotale zeigt den ganzen Körper und das Fußwerk.
+
+Der männliche Mitschüler greift ernsthaft an.
+
+Bewegung 1: Er schlägt diagonal nach unten mit dem Holzschwert; die jüngere Schülerin wechselt abrupt die Richtung und meidet die Angriffslinie durch echtes Fußwerk und tatsächliche Schwerpunktverlagerungen.
+
+Bewegung 2: Der Mitschüler zieht das Schwert schnell zurück, passt seine Schrittfolge an und stößt kurz darauf nach vorn. Die jüngere Schülerin ändert erneut ruckartig die Richtung und gleitet seitlich am Schwertarm des Gegners vorbei.
+
+Der gesamte Ablauf zeichnet sich durch klare Schwerpunktsverlagerungen, fließende Schrittfolgen und realistische Waffenabstände aus – ohne Teleportation, magische Nachbilder oder das Durchdringen von Körpern.
+
+Ihr Fußwerk wird zunehmend agiler, mit einem etwas absurden, schlangenartigen Rhythmus, doch jede Bewegung entspricht echter Körpermechanik.
+
+Der Mitschüler kann ihren Wechseln bald nicht mehr folgen.
+
+【Mitschüler, frustriert】„Hör auf auszuweichen!“
+
+Der Mitschüler stellt schließlich die Angriffe ein.
+
+Die jüngere Schülerin jedoch weicht, völlig vertieft in ihre Bewegungen, aus eigenem Antrieb noch einen weiteren Schritt aus, als würde sie immer noch gegen einen nicht existierenden Angriff kämpfen.
+
+Sie bemerkt überhaupt nicht, dass der Gegner aufgehört hat.
+
+【Jüngere Mitschülerin, selbstgefällig】„Du triffst mich nicht!“
+
+Die ältere Mitschülerin steht schweigend am Rand, doch ihr Blick fällt erneut auf die Schwertscheide an der Taille der Jüngeren.
+
+【10–15 Sekunden: Wendepunkt und dramatische Auflösung】
+
+Eine ruhige Halbnahe, die die Positionen von Meister, jüngerer und älterer Mitschülerin einfängt.
+
+Die jüngere Schülerin kommt endlich zum Stehen, leicht außer Atem, das Gesicht voller Zuversicht, bereit, das Ergebnis ihres Bestehens entgegenzunehmen.
+
+Ausdruckslos senkt der Meister seine Hand.
+
+【Meister】„Durchgefallen.“
+
+Die jüngere Schülerin erstarrt.
+
+【Jüngere Mitschülerin】„Warum?“
+
+Die weiß gekleidete ältere Mitschülerin ergreift nicht das Wort für sie, sondern hebt ruhig eine Hand und deutet auf ihre Taille.
+
+【Ältere Mitschülerin】„Wo ist das Schwert?“
+
+Schneller Schnitt zum dunklen Stahlschwert an der Taille der jüngeren Schülerin.
+
+Das Langschwert steckte von Anfang bis Ende vollständig in der Scheide, kein einziger Zentimeter wurde gezogen.
+
+Die jüngere Schülerin folgt der Geste der Älteren und blickt nach unten.
+
+Ihr selbstgefälliges Lächeln, gerade noch einen Gegner besiegt zu haben, verblasst Stück für Stück.
+
+Ihre rechte Hand kehrt langsam zum Schwertgriff zurück.
+
+In diesem Moment wird ihr klar: Die Prüfung galt der Schwertkunst, doch sie hat keinen einzigen Schlag ausgeführt.
+
+Halte die vollständige, peinlich berührte Stille als Reaktion bei.
+
+Im Hintergrund hat sich der Meister bereits abgewandt, um den nächsten Schüler aufzurufen.
+
+Der Mundwinkel der älteren Mitschülerin zuckt kaum merklich, während sie sich ein Lachen verkneift.
+
+Brich direkt ab, bevor die jüngere Schülerin den Mund öffnet, um eine Ausrede zu finden.
+
+【Schauspiel und professioneller Dialog】
+
+Alle Figuren müssen diese Prüfung im gesamten Film absolut ernst nehmen.
+
+Die anfängliche Selbstsicherheit der jüngeren Schülerin, die fast schon in Angeberei umschlägt, muss durch ihre Augen, ihre Ausgangsstellung und ihr Fußwerk transportiert werden.
+
+Im Mittelteil wird der Gegner zunehmend genervt, darf das Holzschwert aber keinesfalls wild durch die Gegend schwingen.
+
+Das abschließende „Durchgefallen“ des Meisters muss ruhig, knapp und ohne jegliche weitere Erklärung erfolgen.
+
+Das „Wo ist das Schwert?“ der älteren Mitschülerin muss wie ein völlig natürlicher Hinweis klingen, nicht wie ein absichtlich komödiantischer Tonfall.
+
+Die entscheidende komödiantische Reaktion ist der sofortige Umschwung von Selbstbewusstsein zu Peinlichkeit, als die jüngere Schülerin nach unten blickt und feststellt, dass das Schwert noch in der Scheide steckt.
+
+Kein kollektives Losprusten der Umstehenden.
+
+【Kamera und Schnitt】
+
+Phase 1: Tiefe Kameraperspektive in der Totalen etabliert die Duellposition und die Beziehungen der Figuren.
+
+Phase 2: Ruhige, seitliche Kamerafahrt zeigt die Ganzkörperaktionen zur Demonstration von Ren Huang Bu. Angriffsrichtungen des Holzschwerts, Aufsetzpunkte der Füße, Körperdrehungen und gegenseitige Abstände müssen klar erkennbar sein.
+
+Phase 3: Eine Halbnahaufnahme zeigt die Verkündung des Nichtbestehens, gefolgt von einer kurzen Nahaufnahme der Schwertscheide an der Taille, um den visuellen Twist abzuschließen.
+
+Schnitte überschreiten nicht die Handlungsachse, die Positionen der Schauspieler werden nicht zurückgesetzt, und das Umgebungslicht bleibt davor und danach konsistent.
+
+【Mandarin-Dialoge und Sounddesign】
+
+Alle Figuren sprechen mit natürlichen Originalstimmen auf Mandarin.
+
+Die tatsächlichen Textzeilen lauten exakt:
+
+Meister: „Schwertkunst-Prüfung, beginnt!“
+
+Mitschüler: „Zieh dein Schwert!“
+
+Jüngere Mitschülerin: „Ich beherrsche Ren Huang Bu!“
+
+Mitschüler: „Hör auf auszuweichen!“
+
+Jüngere Mitschülerin: „Du triffst mich nicht!“
+
+Meister: „Durchgefallen.“
+
+Jüngere Mitschülerin: „Warum?“
+
+Ältere Mitschülerin: „Wo ist das Schwert?“
+
+Kein Voice-over, keine zusätzlichen Erklärungen, keine Untertitel.
+
+Das Schwirren des Holzschwerts in der Luft, die Geräusche abrupter Richtungswechsel der Schritte, das Rascheln von Seidenstoff und die atmosphärischen Umgebungsgeräusche müssen natürlich synchronisiert sein.
+
+Am Ende wird eine kurze, zurückhaltende musikalische Pause genutzt, um die Peinlichkeit zu unterstreichen – statt übertriebenem Lachen aus der Konserve.
+
+【Kontinuität von Figuren, Requisiten und Umgebung】
+
+Die Identität der Figuren aus Image 1 und Image 2 muss strikt stabil bleiben.
+
+Das dunkle Stahlschwert der jüngeren Schülerin bleibt von Anfang bis Ende in derselben Scheide stecken.
+
+Der Gegner verwendet durchgehend ausschließlich dasselbe Holz-Übungsschwert.
+
+Die ältere Mitschülerin und der Meister bleiben außerhalb des Duellbereichs und greifen nicht in den Kampf ein.
+
+Eigenbeschuss ist verboten; das Holzschwert darf sich nicht magisch in ein echtes Schwert verwandeln; mehrere Personen dürfen nicht gleichzeitig dieselbe Waffe halten.
+
+Das Fußwerk der jüngeren Schülerin muss die umgekehrten Schrittwechsel und das schlangenartige Ausweichen klar darstellen; es reicht nicht, nur „nutze Ren Huang Bu“ zu schreiben und konkrete Aktionen durch abstrakte Effekte zu ersetzen.
+
+【Seedance 2.5 Ausführungsanforderungen】
+
+Strikt 15 Sekunden, 16:9 Querformat, Realfilm-Kinoästhetik, lippensynchroner Originalton auf Mandarin.
+
+Etabliere die Schwertkunst-Prüfung unmittelbar zu Beginn; konzentriere dich zwischen 5 und 10 Sekunden auf die Körperbewegungen; vollziehe zwischen 10 und 15 Sekunden den Twist mit der Schwertscheide und die Reaktion der Figur.
+
+Füge keine zusätzlichen Kämpfe, versteckten Fähigkeiten, Enthüllungen über die Identität der Figuren oder irrelevante Dialoge hinzu.
+
+Inszeniere das Video nicht als protziges, aber hohles Herumgefuchtel mit dem Schwert.
+
+Dies ist eine 15-sekündige Situationskomödie, die echte Wuxia-Bewegungen nutzt, um einen kognitiven Bruch zu erzeugen.
+
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120835689923362816/img/XG7UIuAaxT_xmXOJ.jpg" width="600" alt="Seedance 2.5 Xianxia-Komödie 'Ren Huang Bu' Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13793)**
+
+**Autor:** [𝕊𝖔ʳᵃɴ](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2120836163678421335) | **Veröffentlicht:** Nov 12, 2026
+
+---
+### Seedance 2.0 Mini Xianxia-Schwert-Ablenkungs-Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein prägnanter Prompt zur Generierung eines 15-sekündigen Xianxia-Action-Videos mit Seedance 2.0 Mini, in dem zwei Schwertkämpferinnen einen Hieb eines riesigen Schwertes ablenken, anstatt ihn zu blockieren.
+
+#### 📝 Prompt
+
+```
+15 Sekunden, 16:9, Realfilm-Xianxia, natives Mandarin. „Wrong Edge“: Die Klingenaura nicht blockieren, sondern umlenken. Bild 1 zeigt eine weiß gekleidete Senior-Schwester mit Jade-Haarnadel und einem silbernen Schwert; Bild 2 eine grün gekleidete Junior-Schwester mit geflochtenen Zöpfen und einem dunklen Schwert – Gesichter, Outfits und Waffen sind klar voneinander abgegrenzt. Der Gegner ist ein rot gepanzerter Großschwertkämpfer.
+Der Hintergrund ist ein realer Schauplatz: lange Treppen aus weißem Jade, ein gigantischer Wasserfall über einem Wolkenmeer, ein Unsterblichenpalast sowie Holzgebäude auf der linken Seite, eine antike Stadt darunter und in der Ferne ringförmige Berge im Sonnenlicht. Räumliche Beziehungen mechanisch beibehalten; Wind, Nebel, Wasserfall und Gewandsäume bewegen sich natürlich, erzählerisch neutral.
+0–5 s: Totale zur Etablierung des Schauplatzes, diagonale Kamerafahrt. Der Gegner schlägt von oben zu, die Senior-Schwester weicht diagonal aus, die Junior-Schwester sticht nach dem Schwertarm; der Gegner dreht das Handgelenk für einen tiefen Streichhieb, zwingt die Junior-Schwester zurück und setzt die Senior-Schwester unter Druck. Harte Aufpralle, klare Aktionen.
+5–10 s: Der Gegner täuscht einen hohen Angriff auf die Senior-Schwester an, dreht das Schwert für einen tiefen Hieb gegen die Junior-Schwester; sie stürmt vor, wird aber auf ein Bein zurückgedrängt. Die Senior-Schwester stößt mit dem Schwertknauf zu, wird durch eine Drehung des gegnerischen Schwerts jedoch aus dem Gleichgewicht gerissen. Der Gegner hebt das Schwert und sammelt rote Klingenaura: „Wirst du diesen Schlag nehmen?“
+10–15 s: Junior-Schwester: „Habe ich nicht vor.“ Sie nutzt die flache Klinge, um den Ellbogen des Gegners nach oben zu schlagen; die Senior-Schwester senkt ihren Schwerpunkt, ihr silbernes Schwert lenkt die Klinge nach oben ab, die gewaltige rote Klingenaura schießt in den Himmel, der Palast bleibt unbeschädigt. Die Junior-Schwester lenkt das Handgelenk des Gegners ab, die Senior-Schwester spaltet seine Schulterpanzerung, der Gegner kniet nieder und lässt das Schwert fallen; beide setzen ihren Weg fort. Kräfte klar erkennbar, Schnitte folgen der Action, Metall-/Wind-/Wasserfallgeräusche synchronisiert, keine Untertitel.
+unscharf, schlechte Qualität, niedrige Qualität, geringe Auflösung, verrauscht, JPEG-Artefakte, Wasserzeichen, Text, Fehler; deformiert, mutiert, schlechte Anatomie, schlecht gezeichnete Hände, schlechte Komposition, außerhalb des Bildausschnitts, entstellt; inkonsistenter Charakter, wechselnde Kleidung, Gesichtsverformungen, sich verändernder Hintergrund, fehlerhafte Schnitte, verschwindende Requisiten
+)
+Muss ein 15-sekündiges Video mit seedance 2.0 mini generieren
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120811433202192384/img/KAtid2H0P-3CYX_Y.jpg" width="600" alt="Seedance 2.0 Mini Xianxia-Schwert-Ablenkungs-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13795)**
+
+**Autor:** [��ʳᵃɴ](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2120812110653661362) | **Veröffentlicht:** Nov 12, 2026
+
+---
 ### Online-Shopping-Heimkomödie
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -9000,239 +9410,6 @@ Erstelle einen 27 Sekunden langen, fotorealistischen, cineastischen Lifestyle-Fi
 **Autor:** [liana](https://x.com/Lianaalane) | **Quelle:** [Link](https://x.com/Lianaalane/status/2113502626016825590) | **Veröffentlicht:** Oct 23, 2026
 
 ---
-### Walküre gegen Frostwyrm – Anime-Kampf
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt im Dark-Fantasy-Anime-Stil, der eine Walküre im Kampf gegen einen Frostwyrm zeigt, inklusive detaillierter Choreografie und Kamerabewegungen.
-
-#### 📝 Prompt
-
-```
-Eine kampferprobte Walküre mit platinblondem Zopf, Kriegsbemalung, geflügelter Runen-Plattenrüstung und einem von Blitzen durchzogenen Breitschwert – gerendert im cineastischen Dark-Fantasy-Anime-Stil, mit flüssiger Sakuga-Choreografie bei hoher Bildrate, ausdrucksstarken handgezeichneten Linien, intensivem Cel-Shading in kalten Farbtönen und atmosphärischer Schneesturm-Beleuchtung.
-Timeline:
-0–4s: Stürzt sich von einer senkrechten Gletscherkante in den freien Fall, während ein uralter, zerklüfteter Frostwyrm aus der Eiswand unter ihr hervorbricht; die Kamera spiralt synchron zu ihrem Sturz nach unten;
-4–10s: Nutzt ihre Flügel für eine harte Kurve durch einen dichten Hagel aus Eiszapfen-Atem, wehrt einen Schweifhieb mit ihrem Runen-Rundschild ab, klammert sich an die eisigen Schuppen der Schlange und rennt gegen orkanartige Winde ihren Rücken hinauf;
-10–15s: Kanalisiert pure Blitze in ihre Klinge und stößt sie zwischen die Hörner des Wyrms, während um sie herum Gletscherspalten detonieren; sie stößt sich in den Schneesturm ab, während das Ungetüm unter ihr in eine eisige Schlucht stürzt, und landet triumphierend auf einer zerklüfteten Bergspitze.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113351253958987776/img/j0eJvoueuYcNnKV9.jpg" width="600" alt="Walküre gegen Frostwyrm – Anime-Kampf">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12928)**
-
-**Autor:** [Iqra Saifi](https://x.com/IqrasaifiAI) | **Quelle:** [Link](https://x.com/IqrasaifiAI/status/2113351475015610871) | **Veröffentlicht:** Oct 22, 2026
-
----
-### Zebra-Chase-Bike-Ride-Adventure
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein 30-sekündiger, cineastischer Video-Prompt: Eine Frau radelt durch einen Wald und wird von Zebras gejagt – das Ende sorgt mit einem komödiantischen Anruf-Moment für Lacher.
-
-#### 📝 Prompt
-
-```
-Erstelle ein filmisches, fotorealistisches 30-Sekunden-Video einer jungen Frau, die mit dem Fahrrad über einen Feldweg durch einen sattgrünen Wald fährt. Sie trägt eine schwarze Baseballkappe, ein locker sitzendes blaues T-Shirt, schwarze Shorts und weiße Sneaker; ihr langes braunes Haar weht natürlich im Wind hinter ihr her. Selbstbewusst radelt sie mit weit ausgebreiteten Armen, blickt dann zurück und bemerkt eine große Herde Zebras, die direkt auf sie zuläuft. Völlig erschrocken greift sie hastig nach dem Lenker und tritt schneller in die Pedale, während die Zebras den Weg entlangstürmen und dabei Staubwolken aufwirbeln. Dutzende Zebras umzingeln ihr Fahrrad – so entsteht eine intensive, atemberaubende Verfolgungsjagd. Schließlich wird sie langsamer, starrt ungläubig auf ihr Smartphone und hält es sich mit weit aufgerissenen Augen und offenem Mund ans Ohr. Nutze fließende Kamerafahrten (Tracking Shots), realistische Fahrradbewegungen, natürliche Tieranimationen, detaillierte Zebra-Streifen, wehendes Haar, aufgewirbelte Staubpartikel und sanftes Tageslicht. Achte im gesamten Video auf konsistente Charaktere, realistische Physik und natürliche Gesichtsausdrücke – ohne unnatürliches Morphen, ohne Text und ohne Hintergrundmusik.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113222752371113986/img/BzYUW_lvbq3wlivV.jpg" width="600" alt="Zebra-Chase-Bike-Ride-Adventure">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12927)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2113222820570550355) | **Veröffentlicht:** Oct 22, 2026
-
----
-### Prompt für ultrarealistisches Gewürz-Werbespot-Video mit Seedance 2.0 Fast
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Generierungsprompt zur Erstellung eines 8-sekündigen, ultrarealistischen Lebensmittelwerbespots mit Gewürzzutaten und Produktenthüllung, optimiert für Seedance 2.0 Fast.
-
-#### 📝 Prompt
-
-```
-Erstelle einen 8-sekündigen Premium-Werbespot für eine Gewürzmarke namens SpiceMix. Nutze ultrarealistische Kinoqualität, den Stil einer luxuriösen Lebensmittelwerbung, fotorealistische Texturen, hochwertiges CGI, realistisches Licht, Makrokinematografie, fließende Kamerabewegungen, geringe Schärfentiefe, warme goldene Highlights und ein High-End-Farbgrading wie in der Werbung. Jede Einstellung sollte voller Energie stecken – mit schnellen Werbeschnitten, nahtlosen Übergängen und der Ästhetik einer erstklassigen Produktwerbung.
-
-0,0–0,8 s — Einführung der Hauptzutat
-
-Extreme Makroaufnahme von frischen grünen Kardamomkapseln, die in Zeitlupe auf eine dunkle, matte Oberfläche fallen. Winzige Gewürzstaubpartikel schweben durch warmes, goldenes Sonnenlicht. Schnelle Push-in-Kamerabewegung.
-
-0,8–1,6 s — Luxuriöse Gewürzsequenz
-
-Schnelle filmische Schnitte zwischen Zimtstangen, Nelken, schwarzem Pfeffer, Kreuzkümmelsamen, Koriandersamen, Sternanis, getrockneten roten Chilis und Lorbeerblättern. Jede Zutat dreht sich natürlich in der Luft – mit wunderschönem Makrofokus, edler Beleuchtung und schwebenden aromatischen Partikeln.
-
-1,6–2,8 s — Gewürzexplosion
-
-Alle Gewürze explodieren gleichzeitig in Zeitlupe nach oben und wirbeln um die Kamera herum. Dichter Gewürzstaub füllt das Bild, während die Kamera mit dynamischer Bewegung und der Energie eines Premium-Werbespots durch die schwebenden Zutaten gleitet.
-
-2,8–4,2 s — Natürliches Vermengen
-
-Die Zutaten formen sich zu einem eleganten Wirbel und verwandeln sich allmählich in farbenfrohes Gewürzpulver. Feine Partikel schimmern im warmen goldenen Licht und erzeugen ein luxuriöses, appetitanregendes Bild.
-
-4,2–5,8 s — Enthüllung des Geschmacks
-
-Das Gewürzpulver fließt anmutig über einen edlen dunklen Hintergrund und gibt den Blick frei auf frische, ganze Gewürze, die das Zentrum umrahmen. Dramatisches Licht sorgt für einen intensiven, unwiderstehlichen Look wie in einem hochwertigen Food-Werbespot.
-
-5,8–8,0 s — Hero-Shot des Produkts
-
-Die wirbelnden Gewürze legen sich und enthüllen eine hochwertige SpiceMix-Gewürzdose, die auf einer glänzenden schwarzen Spiegelfläche steht. Ganze Gewürze umrahmen die Verpackung elegant, während winzige Gewürzpartikel weiter schweben. Ein langsamer, filmischer Push-in endet auf der Verpackung mit dem Aufdruck:
-
-SpiceMix
-Naturally Made
-
-Keine Menschen. Keine Küche. Kein Besteck. Nur erstklassige Zutaten, luxuriöse Food-Werbekinematografie, Makro-Produktfotografie, energiegeladene schnelle Schnitte, nahtlose Übergänge, realistische Physik, fotorealistische Texturen, hochwertiges CGI, ein sattes, warmes Farbgrading und ein elegantes Werbe-Finish.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113142312507478016/img/PqU9UcHTkbEoHb18.jpg" width="600" alt="Prompt für ultrarealistisches Gewürz-Werbespot-Video mit Seedance 2.0 Fast">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12925)**
-
-**Autor:** [Olivia Jane](https://x.com/olivajaneAI) | **Quelle:** [Link](https://x.com/olivajaneAI/status/2113142343675297826) | **Veröffentlicht:** Oct 22, 2026
-
----
-### Realistischer Gym-Komödie-Kurz-Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein detaillierter Prompt für die Erstellung eines 15-sekündigen vertikalen Comedy-Videos mit einer Frau im Fitnessstudio, das realistische Handykamera-Ästhetik und natürliches Licht betont.
-
-#### 📝 Prompt
-
-```
-15-sekündiges, ultrarealistisches und witziges Kurzvideo, 9:16 Hochformat, authentischer Dokumentar-Look wie mit der Standard-Smartphone-Kamera gefilmt, echte Fitnessstudio-Umgebung, weiches Deckenlicht im Innenraum. Die gesamte Aufnahme wirkt so, als würde ein Freund sie ganz beiläufig begleiten – leichtes, natürliches Wackeln, extrem starker Alltagscharakter.
-
-[Charakter-Setting]
-Attraktive junge asiatische Frau, natürliches Tages-Make-up, feine und entspannte Gesichtszüge, wohlproportionierte Figur, sanftes und zugleich cooles Auftreten, wirkt wie eine echte Passantin. Die Haut behält ihre natürliche Textur samt feiner Schweißperlen – kein geglätteter Influencer-Look, kein übertriebenes „Plastik-Gesicht“, natürliche Körperproportionen. Gesicht und Körper müssen vollständig mit dem Referenzbild übereinstimmen.
-
-Einstellung 1 | 0–4 s Vorgespielte Disziplin
-Helles, sauberes Fitnessstudio, im Hintergrund sind nur wenige trainierende Personen und Geräte zu sehen. Das Mädchen macht im Freihantelbereich konzentriert und korrekt Squats, die Bewegungen sind fließend und stabil. Handgeführte Kamera folgt ihr von rechts hinten: Zuerst langsam zurückziehend, um den ganzen Körper im Bild zu halten, dann beim Aufstehen leicht nach oben schwenkend – wie ein Freund, der nebenher filmt. Das Bild hat einen leichten „Atem-Rhythmus“ und natürliches Wackeln, was die Illusion erzeugt, sie sei extrem diszipliniert und hart am Trainieren.
-
-Einstellung 2 | 4–8 s Irreführendes Weitertrainieren
-Harter Schnitt zur seitlichen Verfolgungsfahrt. Das Mädchen steht mit kleinen Kurzhanteln in der Hand und macht Bizepscurls, leicht verschwitzt, sichtbare Anstrengung, ruhiger und fokussierter Gesichtsausdruck. Die Kamera befindet sich nah an ihrer vorderen Seite, bewegt sich zuerst leicht seitlich und zoomt dann langsam auf den Oberkörper heran, während die Geräte im Hintergrund natürlich vorbeiziehen. Das Publikum denkt, es handelt sich um ein motivierendes Fitness-Video.
-
-Einstellung 3 | 8–12 s Erster Twist
-Das Mädchen legt plötzlich die Hanteln ab, ihr Ausdruck wechselt von Konzentration zu Entspannung, sie seufzt tief aus. Die Kamera folgt ihr weiterhin handgeführt zur Trainingsbank. Sie setzt sich hin, holt völlig routiniert und natürlich frittiertes Hähnchen und Eistee mit Milch aus der Tasche und reißt die Verpackung auf. Beim Herausnehmen der Sachen zoomt die Kamera schnell, aber nur leicht heran – das sorgt für einen spontan-komischen Effekt.
-
-Einstellung 4 | 12–15 s Der ultimative Twist
-Die Kamera zoomt direkt heran, sodass Gesicht, Hähnchen und Milchtee gemeinsam im Bildausschnitt sind. Das Mädchen beißt ganz selbstverständlich ins Hähnchen, trinkt vom Milchtee, schaut in die Kamera und sagt in lockerem Tonfall: „Erst satt essen, damit man Kraft zum Abnehmen hat.“ Danach bleibt ihr Ausdruck völlig ruhig, als hätte sie etwas ganz Normales gesagt. Das Ende verweilt auf diesem kontrastreichen Bild ihres gelassen kauenden Gesichts. Die handgeführte Kamera wackelt minimal vor und zurück, was den Eindruck verstärkt, ein Freund würde sie heimlich filmen.
-
-[Bildqualität]
-Ultrarealistischer Realfilm-Look, HD-Qualität wie aus der Smartphone-Kamera, echte Hauttextur, Poren, Schweißperlen und natürlicher Hautton, leichtes Umgebungsrauschen des Fitnessstudios, natürliches Deckenlicht im Innenraum – keine cineastisch perfektionierte Ausleuchtung verwenden. Die Kamerabewegung besteht hauptsächlich aus handgeführten Verfolgungsfahrten, leichtem Heranzoomen und sanften Seitwärtsbewegungen. Der Rhythmus ist beiläufig, keine glatten Gimbal-Bewegungen. Zwischen den Szenen direkte, harte Schnitte ohne verspielte Übergänge.
-
-[Ton & Soundeffekte]
-Im Hintergrund entfernte Geräusche klappernder Fitnessgeräte, leichte Schritte, die Atemgeräusche des Mädchens beim Training, das Reißen der Verpackung, Kau-Geräusche des Hähnchens, das Schlürfen durch den Strohhalm des Milchtees. Die Dialoge sind klar und natürlich, kein übertriebener Synchronisations-Klang. Nach dem Ende des Dialogs einen kurzen, leichten und humorvollen musikalischen Akzent setzen.
-
-[Negative Prompts]
-Verformte Finger, verdrehte Gliedmaßen, zusätzliche Finger, fehlende Finger, verzerrtes Gesicht, verschobene Gesichtszüge, künstliches KI-Gesicht, Plastik-Haut, übermäßiger Beauty-Filter, Silikon-Gesicht, übertriebene Kontaktlinsen, deformierter Körper, unproportionierte Verhältnisse, unnatürliches Kopf-Körper-Verhältnis, schwebende Objekte, abgeschnittene Objekte, Bildschirmflackern, driftende Objekte, Cartoon-Rendering, 3D-Animation, handgezeichnet, Illustration, Untertitel im Bild, Text, verspielte Schriftarten, Wasserzeichen, Logos, Rahmen, starke Filter, weichzeichnendes Licht, glatte Stabilisator-Bewegungen, feste Kameraposition, steife Posen, Bühnenbeleuchtung, blasses künstliches Licht, übermäßige Beleuchtung, zusätzliche Personen, chaotische oder ablenkende Unordnung, übertriebenes Schauspiel, unbeholfenes Agieren, gekünstelte Gesichtsausdrücke
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113132456224382976/img/_cUXcO0MOe8bP9Cv.jpg" width="600" alt="Realistischer Gym-Komödie-Kurz-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12878)**
-
-**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Quelle:** [Link](https://x.com/Adam38363368936/status/2113133135487713524) | **Veröffentlicht:** Oct 22, 2026
-
----
-### Cinematische Akrobatik-Performance über einem See
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Generierung eines 30-sekündigen cinematischen Videos einer weiblichen Akrobatin, die auf Holzpfählen über einem türkisfarbenen See performt, mit Fokus auf realistische Physik und Kamerabewegungen.
-
-#### 📝 Prompt
-
-```
-Erstelle ein 30-sekündiges Video mit einer atemberaubenden, filmreifen Akrobatik-Darbietung über einem wunderschönen türkisfarbenen See, umgeben von sattgrünen Bergen, nebelverhangenen Klippen und einem sanft bewölkten Himmel. Eine anmutige Akrobatin in einem fließenden weißen Outfit vollführt unglaubliche Saltos, Handstände, Drehungen in der Luft und perfekt kontrollierte Balanceakte auf einer Reihe hoher, schmaler Holzpfähle, die aus dem Wasser ragen. Die Kamera fängt ihre Bewegungen in weiten, kinoreifen Einstellungen und fließenden Verfolgungsfahrten ein und hebt dabei ihre Kraft, Flexibilität und Balance vor der beeindruckenden Naturkulisse hervor. Sie springt elegant von Pfahl zu Pfahl, wirbelt durch die Luft und landet präzise auf einer hölzernen Plattform am Seeufer, wo sie die Darbietung mit einer eleganten, von Kampfkunst inspirierten Pose und ausgestreckten Armen abschließt. Verwende realistische menschliche Anatomie, natürliche Körperbewegungen, physikalisch korrekte Abläufe, fließende Übergänge, weiches Tageslicht, atmosphärischen Bergnebel, kristallklare Spiegelungen im Wasser und ultrarealistische, filmreife Details. Gesicht, Frisur, Outfit und Körperproportionen der Akrobatin müssen während des gesamten Videos einheitlich bleiben. Das Endergebnis soll wie eine professionell gefilmte, echte Akrobatik-Vorführung wirken – mit sanften Kamerabewegungen, atemberaubender Landschaft und ohne Texte, Logos oder visuelle Verzerrungen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113128439465308160/img/HGilvSf7Uz9gtyIZ.jpg" width="600" alt="Cinematische Akrobatik-Performance über einem See">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12877)**
-
-**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Quelle:** [Link](https://x.com/ayzalnooor24521/status/2113128549930729895) | **Veröffentlicht:** Oct 22, 2026
-
----
-### Futuristische Fahr-Perspektive 2050
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für ein 10-sekündiges, ultra-fotorealistisches Video, das eine Frau im Jahr 2050 beim Autofahren zeigt, mit fliegenden Fahrzeugen über ihr, einschließlich detaillierter Beschreibungen von Charakter und Szene.
-
-#### 📝 Prompt
-
-```
-TITEL: POV — FAHREN IM JAHR 2050
-
-Erstelle ein 10-sekündiges, ultrafotorealistisches futuristisches Video, das eine schöne junge Frau zeigt, die im Jahr 2050 entspannt über einen Highway fährt, während Hunderte autonomer Flugfahrzeuge in perfekt organisierten Luftverkehrsspuren über ihr unterwegs sind.
-
-HAUPTFIGUR – STRIKTE KONSISTENZ DER IDENTITÄT
-
-Eine schöne 23-jährige Frau mit langen, glatten pastellrosa Haaren, feinen Gesichtszügen, realistischer heller Haut mit sichtbarer natürlicher Textur, zartem rosa Make-up und dezent glänzenden Lippen.
-
-Sie trägt:
-Ein eng anliegendes blaues Denim-Top ohne Ärmel.
-Eine futuristische metallic-silberne Choker-Halskette.
-Auffällige hellblaue Statement-Ohrringe.
-Einen schwarzen Sicherheitsgurt quer über der Brust.
-
-Ihr exaktes Gesicht, ihre Frisur, ihr Outfit, ihre Proportionen und Accessoires müssen durchgehend unverändert bleiben.
-
-SZENE 1 – 0:00–0:02 | IM AUTO
-Beginne mit einer fest am Armaturenbrett montierten Smartphone-Kamera, die von der Beifahrerseite auf die Frau gerichtet ist.
-
-Sie sitzt hinter dem Lenkrad eines modernen Luxusfahrzeugs und fährt völlig entspannt.
-
-Warmes Sonnenlicht der Goldenen Stunde fällt durch das Seitenfenster und taucht ihre rosa Haare und ihr Gesicht in ein sanftes Licht.
-
-Sie blickt nach vorn auf die Straße und wendet sich dann kurz mit einem dezenten, amüsierten Lächeln der Kamera zu.
-
-Der Fahrzeuginnenraum wirkt realistisch, mit schwarzen Ledersitzen, dunklem Dachhimmel und natürlichen Spiegelungen in der Windschutzscheibe.
-
-SZENE 2 – 0:02–0:04 | ENTHÜLLUNG DES FUTURISTISCHEN HIGHWAYS
-
-Harter Schnitt zu einer spektakulären Weitwinkelansicht aus erhöhter Perspektive auf einen riesigen mehrspurigen Highway bei Sonnenuntergang.
-Ein dunkler Luxus-SUV fährt über den nahezu leeren Highway.
-
-Über dem Highway schweben und fliegen Hunderte futuristischer autonomer Flugfahrzeuge in dicht organisierten Luftverkehrsspuren.
-
-Die Flugfahrzeuge haben kompakte aerodynamische Karosserien, Oberflächen in Metallic-Silber und Dunkelgrau sowie fortschrittliche, verdeckte Antriebssysteme.
-
-Sie bewegen sich geschmeidig in synchronisierten Formationen und halten dabei präzise Abstände zueinander ein.
-
-Einige fliegen direkt über dem Highway, während andere sich bis zum Horizont erstrecken und so ein dichtes futuristisches Verkehrsnetz bilden.
-
-Goldenes Sonnenlicht spiegelt sich auf ihren metallischen Oberflächen.
-
-SZENE 3 – 0:04–0:06 | ZURÜCK ZUR FAHRERIN
-
-Harter Schnitt zurück zur gleichen Kameraperspektive am Armaturenbrett.
-
-Die Frau mit den rosa Haaren fährt unbeeindruckt weiter, als wäre das außergewöhnliche Verkehrssystem draußen das Normalste der Welt.
-Sie ruht eine Hand ganz natürlich auf dem Lenkrad und blickt mit einem spielerischen, leicht beeindruckten Ausdruck zur Windschutzscheibe.
-
-Während das Fahrzeug fährt, wandert das Sonnenlicht über ihr Gesicht.
-
-Ihre Gesichtsbewegungen sind dezent, natürlich und glaubwürdig.
-
-SZENE 4 – 0:06–0:08 | MASSIVER LUFTVERKEHR
-
-Schnitt zu einer dramatischen Verfolgungsfahrt aus erhöhter Perspektive, die dem dunklen SUV über den Highway folgt.
-
-Die Kamera enthüllt eine gewaltige Formation von Flugfahrzeugen, die sich über den gesamten Himmel erstreckt.
-
-Mehrere Fahrzeuge gleiten direkt über der Kamera hinweg, während Hunderte weitere auf verschiedenen Flughöhen unterwegs sind.
-Der futuristische Verkehr wirkt technologisch hochentwickelt, aber physikalisch absolut glaubwürdig.
-
-Darunter setzt der dunkle SUV seine Fahrt über die sonnenbeschienene Straße fort und strahlt inmitten des Trubels am Himmel vollkommene Ruhe aus.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112913816610816000/img/jWaYNb3FtSMv5ePw.jpg" width="600" alt="Futuristische Fahr-Perspektive 2050">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12872)**
-
-**Autor:** [Sharon Riley](https://x.com/Just_sharon7) | **Quelle:** [Link](https://x.com/Just_sharon7/status/2112913908617158822) | **Veröffentlicht:** Oct 21, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -9294,6 +9471,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-13T01:12:45.369Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-13T12:14:26.767Z</sub>
 
 </div>

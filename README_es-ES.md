@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6678** |
+| 📝 Total de prompts | **6684** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-11-13** |
 
@@ -361,6 +361,416 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Rescate de un tiburón blanco por una orca
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de video cinematográfico que muestra a una mujer en una moto acuática rodeada de tiburones y rescatada por una orca.
+
+#### 📝 Prompt
+
+```
+Plano de acción cinematográfico en 4K, perspectiva en contrapicado. Una joven rubia con uniforme escolar y chaleco salvavidas pilota una moto de agua a toda velocidad que surca la superficie del océano. Rodeando la zona, un enorme círculo formado por decenas de tiburones blancos envuelve una plataforma petrolífera mar adentro. La moto de agua choca contra una ola, ella cae al agua y se hunde mientras los tiburones merodean cada vez más cerca. De repente, aparece una orca gigantesca que la protege mientras nada hacia la escalera de la plataforma; al mirar atrás, su rostro refleja asombro y un inmenso alivio que le devuelve el aire. Iluminación cinematográfica fotorrealista, desenfoque de movimiento dramático, estética de superproducción con VFX de alta gama, formato vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121113285676216320/img/8aP2AJdeiMTdIeGU.jpg" width="600" alt="Rescate de un tiburón blanco por una orca">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13790)**
+
+**Autor:** [Avelyrah](https://x.com/AvelyrahnAI) | **Fuente:** [Link](https://x.com/AvelyrahnAI/status/2121113408485617748) | **Publicado:** Nov 13, 2026
+
+---
+### Guerrero Wuxia contra Bestias de la Sombra
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una escena de acción wuxia de fantasía oscura con un guerrero luchando contra bestias de la sombra usando técnicas de espada ardiente.
+
+#### 📝 Prompt
+
+```
+Escena de acción wuxia de fantasía oscura cinematográfica, plano secuencia dinámico en contrapicado. Un guerrero vestido con ropas marciales negras y brazales se alza en un campo de hierba alta bajo un cielo gris y nublado. Gira con energía mientras blande una espada ígnea y resplandeciente que deja a su paso estelas en forma de arco de fuego naranja brillante y chispas. Una enorme horda de bestias de sombra negra carga a través del campo. Desata una potente onda expansiva contra el suelo que lanza tierra, humo y ascuas por los aires. Una matriz circular de retículas rojas luminosas y láseres de energía se dispara hacia la multitud de monstruos. Después, el guerrero apoya su espada llameante sobre el hombro y avanza en cámara lenta entre ascuas flotantes, humo y ceniza negra que se desvanece. VFX fotorrealistas, desenfoque de movimiento, resolución 8k, hiperdetallado.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120736212994641920/img/eSbJlO8WmmD0_wfZ.jpg" width="600" alt="Guerrero Wuxia contra Bestias de la Sombra">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13792)**
+
+**Autor:** [ZDuo.MoreAi](https://x.com/lnxinshng252654) | **Fuente:** [Link](https://x.com/lnxinshng252654/status/2121076838600487401) | **Publicado:** Nov 13, 2026
+
+---
+### Prompt de Comedia de Acción en el Metro Coreano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para la generación de video con Seedance 2.0, que crea una escena realista en el metro de Corea donde una mujer rompe un cristal para sacar a un hombre del tren.
+
+#### 📝 Prompt
+
+```
+Crea una escena de comedia de acción de 30 segundos en 1080p y estilo ultrarrealista, ambientada en el metro coreano, utilizando las imágenes subidas como referencia visual exacta; mantén la coherencia de los personajes, rostros, peinados, vestuarios y entorno.
+Mujer coreana joven, poco más de 20 años, cabello negro liso y largo, top verde de manga larga por encima del ombligo, jeans azules holgados, joyas de plata; actitud segura y expresiva.
+Hombre coreano joven, cabello negro corto, camisa gris abotonada, pantalón oscuro y zapatillas blancas; primero juguetón, luego sorprendido y avergonzado.
+Ella baja corriendo las escaleras del metro hacia un tren que la espera, pero las puertas se cierran justo cuando llega a ellas.
+El hombre que está dentro la ve a través del cristal y se ríe de ella; lo mira con rabia y le dice: "¿En serio te estás riendo?".
+Él vuelve a reírse, así que ella, de repente, golpea el cristal junto a la puerta, agrietándolo y rompiéndolo de forma realista (vidrio de seguridad), sin heridas ni escenas sangrientas.
+Ella mete el brazo por la abertura rota, lo agarra de la camisa y lo saca sano y salvo al andén; él cae al suelo de forma torpe, completamente atónito.
+Ella trepa con calma por esa misma abertura rota para entrar al tren, se acomoda la ropa y camina hacia el interior mientras los pasajeros, pasmados, la observan.
+El hombre se queda sentado afuera, con cara de confusión y humillación, mientras los pasajeros lo miran por las ventanas.
+Un pasajero empieza a reírse y, de pronto, todos estallan en carcajadas mientras el hombre mira alrededor, sin saber qué hacer.
+Ella lo observa por la ventana, esboza una leve sonrisa de satisfacción y luego aparta la mirada con total naturalidad.
+Iluminación ultrarrealista del metro coreano, estética cruda inspirada en DV, desenfoque de movimiento natural, físicas realistas, imperfecciones propias de cámara en mano, reacciones auténticas y audio ambiental del metro; sin música.
+Sin sangre, gore, heridas graves, pérdida de identidad de los personajes, cambios de vestuario, personas duplicadas, teletransportación, cristales que se regeneran, manos deformes, aspecto de CGI, subtítulos, rótulos, texto, logotipos ni marcas de agua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120725292390260736/img/qD7ndxljcz0tmW_5.jpg" width="600" alt="Prompt de Comedia de Acción en el Metro Coreano">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13791)**
+
+**Autor:** [ZDuo.MoreAi](https://x.com/lnxinshng252654) | **Fuente:** [Link](https://x.com/lnxinshng252654/status/2120917789137392073) | **Publicado:** Nov 12, 2026
+
+---
+### Prompt de escena de pelea en noche lluviosa con Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt para crear un corto de acción cinematográfico realista de 15 segundos en una noche lluviosa, con combate cuerpo a cuerpo de alta densidad utilizando Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Genera un cortometraje de acción realista y cinematográfico de 15 segundos en formato horizontal 16:9, ambientado en una noche lluviosa, creado directamente a partir de texto.
+
+[Requisitos principales]
+Combate cuerpo a cuerpo continuo, frenético y de alta densidad, como la escena de pelea más intensa de una película de acción de primer nivel, con un total de 4 rondas de intercambio y 10 planos.
+El primer fotograma ya muestra el combate en pleno desarrollo; sin introducciones, caminatas, enfrentamientos previos ni poses.
+Nada de cámara lenta en todo el clip; todas las acciones transcurren a velocidad real.
+Cada plano dura entre 1 y 2 segundos aproximadamente, completando un ciclo claro de ataque/defensa y mostrando el resultado del impacto.
+Las acciones se encadenan de forma fluida entre los planos; el resultado de una acción es el punto de partida de la siguiente, sin pausas.
+Ambos atacan y reciben golpes; el protagonista masculino empieza dominado, contraataca con más fuerza en la mitad y remata la pelea con un golpe final.
+
+[Personajes]
+Protagonista masculino: Joven asiático oriental de unos 30 años, pelo negro corto, rasgos curtidos, complexión robusta y ágil. Viste una chaqueta corta negra, camiseta gris oscuro, pantalones cargo oscuros y botines negros. Empapado por la lluvia, con un ligero corte en la ceja derecha. No lleva armas.
+Oponente: Un joven más alto que el protagonista, con una chaqueta oscura con capucha y pantalones oscuros, que sostiene una barra metálica corta en la mano derecha.
+Solo estas dos personas aparecen en todo el clip; su aspecto físico, ropa y armas deben mantenerse constantes.
+
+[Escenario]
+Un callejón estrecho de la ciudad bajo una fuerte lluvia nocturna. Los charcos del suelo reflejan la luz; farolas de luz blanca y fría en el callejón, una lámpara de pared de tono amarillo cálido y un cubo de basura metálico apoyado contra la pared.
+Toda la acción transcurre en el mismo callejón; las paredes, el cubo de basura y la posición de los personajes deben ser coherentes.
+
+[Guion gráfico]
+
+Ronda 1: Dominado
+
+Plano 1 (0-1,5 s): Plano medio lateral. El oponente lanza un golpe horizontal con la barra metálica; el protagonista se agacha bruscamente. La barra impacta contra el cubo de basura metálico, abollándolo con un fuerte estruendo.
+
+Plano 2 (1,5-3 s): Seguimiento con cámara al hombro. Cuando el protagonista levanta la vista, el oponente lo embiste con el hombro, estampándole la espalda con fuerza contra la pared y sacudiendo el agua de lluvia de la superficie.
+
+Ronda 2: Desarme
+
+Plano 3 (3-4,5 s): Plano medio lateral. El oponente levanta la barra para golpear la cabeza del protagonista desde arriba; este esquiva hacia un lado. La barra choca contra la pared, desprendiendo cascotes.
+
+Plano 4 (4,5-6 s): Primer plano. El protagonista agarra ambas muñecas del oponente y las estrella contra la pared. La barra metálica resbala de su mano y cae al charco.
+
+Ronda 3: Pelea a puño limpio
+
+Plano 5 (6-7,5 s): Plano medio lateral. El oponente ruge y lanza un derechazo; el protagonista bloquea con el brazo izquierdo e inmediatamente conecta un gancho en el abdomen del rival, obligándolo a doblarse.
+
+Plano 6 (7,5-9 s): Plano medio. El oponente responde con un gancho de izquierda que impacta en la mejilla del protagonista; este gira la cabeza por el golpe, retrocede tambaleándose dos pasos salpicando el agua del charco, pero recupera rápido el equilibrio.
+
+Ronda 4: Golpe definitivo
+
+Plano 7 (9-10,5 s): Seguimiento en primer plano. El protagonista baja el centro de gravedad y se mete dentro de la guardia del oponente, conectando dos golpes cortos en las costillas que lo hacen retroceder.
+
+Plano 8 (10,5-12 s): Plano medio. El oponente vuelve a atacar; el protagonista esquiva hacia un lado y le clava un uppercut en la mandíbula. El oponente echa la cabeza hacia atrás, trastabillando.
+
+Plano 9 (12-13,5 s): Plano medio más abierto. El protagonista agarra la chaqueta del oponente y aprovecha la inercia para lanzarlo hacia un lado. El oponente choca contra el cubo de basura metálico y cae de espaldas al charco con un gran chapoteo, incapaz de levantarse.
+
+Plano 10 (13,5-15 s): Primer plano del rostro del protagonista. De pie bajo la lluvia, con el pecho subiendo y bajando agitadamente, el agua goteando de su pelo y su cara, mira fijamente y con fiereza al oponente caído. La escena termina de forma abrupta.
+
+[Acción y cinematografía]
+Textura cinematográfica realista, iluminación contrastada fría/cálida en la noche lluviosa, gotas de lluvia visibles.
+Cada puñetazo y cada golpe con la barra debe impactar en el objetivo, provocando absorción del golpe, retroceso o pérdida de equilibrio. Nada de golpear al aire ni de caídas sin contacto previo.
+Los puñetazos muestran preparación y retroceso tras el impacto, los pies se apoyan firmemente en el suelo, los charcos salpican con cada golpe y la ropa despide gotas de agua.
+Se permite un ligero temblor de cámara en los impactos, pero el punto de contacto debe verse con claridad.
+La posición izquierda/derecha de los personajes debe mantenerse constante entre planos consecutivos; nada de teletransportaciones, objetos atravesándose, extremidades adicionales ni armas extra.
+La barra metálica caída permanece en el suelo; nadie la recoge.
+Sin acrobacias, patadas voladoras ni superpoderes; sin primeros planos sangrientos.
+
+[Sonido]
+Lluvia torrencial continua. Los sonidos de la barra golpeando el cubo, la espalda chocando contra la pared, los chapoteos, los puñetazos conectando y el vuelco del cubo de basura deben sincronizarse a la perfección con la imagen. Los sonidos de los golpes son secos y contundentes.
+Una música de acción intensa, rápida y dominada por percusión arranca desde el primer segundo, alcanza su clímax en el lanzamiento final y termina dejando solo el sonido de la lluvia y la respiración.
+Sin diálogos, narración, subtítulos, textos ni marcas de agua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120891252908695552/img/qL40UjZsNm2ySdzS.jpg" width="600" alt="Prompt de escena de pelea en noche lluviosa con Seedance 2.0">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13794)**
+
+**Autor:** [Adam也��米](https://x.com/Adam38363368936) | **Fuente:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **Publicado:** Nov 12, 2026
+
+---
+### Prompt de Seedance 2.5 para la comedia Xianxia 'Ren Huang Bu'
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt detallado para un video cómico de Xianxia de 15 segundos que presenta un examen de esgrima donde la estudiante esquiva todo pero olvida desenvainar su espada.
+
+#### 📝 Prompt
+
+```
+【Estilo general y prototipo del meme viral】
+
+Comedia de giros inesperados del género Xianxia chino, 15 segundos, imagen real con calidad cinematográfica, formato panorámico 16:9, Seedance 2.5, actores reales, piel auténtica y estructura anatómica humana precisa, sincronización audiovisual nativa en mandarín.
+
+Esta ronda se inspira en el reciente resurgimiento del meme de internet "Ren Huang Bu" (El Paso del Emperador).
+
+La esencia del meme original es una secuencia de movimientos donde los cambios bruscos de dirección, los reposicionamientos inversos y las esquivas a corta distancia hacen que el oponente falle continuamente sus ataques.
+
+En esta ocasión, lo recrearemos como un examen de esgrima de una secta.
+
+El humor de la historia nace de un desfase cognitivo muy claro: la Hermana Menor interpreta "ser capaz de esquivar los ataques" como "haber aprobado el examen de esgrima", por lo que ejecuta un juego de pies deslumbrante, logra esquivar todos los golpes, pero olvida desenvainar su espada de principio a fin.
+
+A grandes rasgos, primero hay que usar el lenguaje audiovisual propio de una película Wuxia seria para crear la expectativa de un duelo profesional, y luego transicionar gradualmente hacia una comedia absurda e inexpresiva (deadpan).
+
+Los personajes deben mantenerse completamente serios en todo momento; bajo ninguna circunstancia pueden anticiparle al público que "están bromeando".
+
+【Personajes y relaciones】
+
+@Image 1: La misma Hermana Mayor Inmortal de la Espada Vestida de Blanco, mujer adulta de Asia oriental, manteniendo estrictamente el rostro, las proporciones y el temperamento ya definidos. Hanfu de seda blanca bordado, cabello negro largo medio recogido y sujeto con una horquilla de jade, portando una espada larga plateada. Serena, perspicaz, con un humor contenido.
+
+@Image 2: La misma Hermana Menor Vestida de Azul, mujer adulta de Asia oriental, manteniendo estrictamente el rostro, las proporciones y el temperamento ya definidos. Hanfu azul verdoso, cabello negro trenzado, portando una única espada de acero oscuro. Movimientos ágiles, personalidad competitiva, ligeramente engreída.
+
+Entre los personajes secundarios hay un Maestro anciano y estricto, y un discípulo compañero que sostiene una espada de práctica de madera sin filo.
+
+El objetivo de la Hermana Menor es aprobar el examen de esgrima.
+
+El discípulo compañero espera derrotarla en un duelo normal.
+
+El Maestro se encarga de evaluar la verdadera destreza con la espada.
+
+La Hermana Mayor observa desde un lado y nota lo que la Hermana Menor pasó por alto antes que nadie.
+
+【Ubicación actual y continuidad espacial】
+
+Las imágenes de referencia de fondo/ubicación recién subidas representan el mundo físico donde transcurre realmente el video; el espacio real debe organizarse basándose en estas referencias.
+
+Primero verifica el terreno coexistente, las estructuras arquitectónicas, los caminos/plataformas, los materiales de piedra/madera, la vegetación, las masas de agua, las nubes/niebla, el clima, la dirección de la luz solar y las capas de primer plano/fondo de la escena; después, distribuye una zona de entrenamiento de la secta coherente dentro de la ubicación existente.
+
+No la sustituyas arbitrariamente por otra típica plaza genérica de Xianxia.
+
+El Maestro y la Hermana Mayor permanecen fuera de la zona de entrenamiento; la Hermana Menor y el discípulo retador se enfrentan en el centro, a una distancia inicial de aprox. 3 metros.
+
+Todos los planos ocurren en el mismo espacio geográfico.
+
+El viento, las telas, el flujo del agua, la vegetación y las nubes/niebla del fondo mantienen un movimiento natural independiente y nunca intervienen activamente en el examen ni generan situaciones cómicas.
+
+【0–5 segundos: Gancho inicial y situación de los personajes】
+
+Un plano general desde una posición baja establece la seriedad de la escena del duelo de la secta.
+
+El Maestro levanta una mano y anuncia formalmente:
+
+【Maestro, serio】"¡Examen de esgrima, comiencen!"
+
+El discípulo apunta a la Hermana Menor con su espada de madera y le dice provocativamente:
+
+【Discípulo】"¡Desenvaina tu espada!"
+
+La mano derecha de la Hermana Menor roza la empuñadura en su cintura, pero de repente la suelta.
+
+Su cuerpo desciende ligeramente y sus pies se ajustan a una postura inicial aparentemente extraña.
+
+【Hermana Menor, extremadamente segura】"¡Conozco el Ren Huang Bu!"
+
+Incluso asiente con gravedad, como si estuviera revelando una técnica suprema perdida.
+
+Corte breve a la expresión de la Hermana Mayor.
+
+La Hermana Mayor mira de reojo la espada que la Hermana Menor no ha desenvainado, y un sutil atisbo de confusión aparece en sus ojos.
+
+【5–10 segundos: Acciones de los personajes y escalada del conflicto】
+
+Un claro plano medio largo con seguimiento lateral muestra el cuerpo completo y el juego de pies.
+
+El discípulo ataca con total seriedad.
+
+Movimiento 1: Él lanza un tajo diagonal descendente con la espada de madera; la Hermana Menor cambia bruscamente de dirección, evitando la línea de ataque con un juego de pies real y cambios de centro de gravedad.
+
+Movimiento 2: El discípulo retrae rápidamente la espada, ajusta su zancada y lanza una estocada corta hacia adelante. La Hermana Menor vuelve a cambiar de dirección de urgencia, deslizándose por un costado junto al brazo armado del oponente.
+
+Todo el proceso presenta transiciones claras del centro de gravedad, conexión entre los pasos y distancias respecto al arma, sin recurrir a teletransportaciones, estelas mágicas ni cuerpos atravesándose entre sí.
+
+Su juego de pies se vuelve cada vez más ágil, con un ritmo serpenteante algo absurdo, pero cada movimiento respeta la biomecánica humana real.
+
+El discípulo ya no puede seguirle el ritmo a sus cambios.
+
+【Discípulo, frustrado】"¡Deja de esquivar!"
+
+El discípulo finalmente detiene su ataque.
+
+Sin embargo, la Hermana Menor, demasiado metida en su papel, esquiva un paso extra por inercia, como si siguiera lidiando con un ataque inexistente.
+
+No se da cuenta en absoluto de que su oponente se ha detenido.
+
+【Hermana Menor, presumida】"¡No puedes darme!"
+
+La Hermana Mayor permanece en silencio al margen, pero su mirada vuelve a caer sobre la vaina de la espada en la cintura de la Hermana Menor.
+
+【10–15 segundos: Giro clave y desenlace dramático】
+
+Plano medio estable que abarca las posiciones del Maestro, la Hermana Menor y la Hermana Mayor.
+
+La Hermana Menor por fin deja de moverse, jadeando ligeramente, con el rostro rebosante de confianza, lista para recibir el veredicto de que aprobó el examen.
+
+El Maestro baja la mano sin cambiar su expresión.
+
+【Maestro】"Reprobada."
+
+La Hermana Menor se queda petrificada.
+
+【Hermana Menor】"¿Por qué?"
+
+La misma Hermana Mayor Vestida de Blanco no intercede por ella, sino que levanta la mano con calma y señala hacia su cintura.
+
+【Hermana Mayor】"¿Dónde está la espada?"
+
+Corte rápido a la espada de acero oscuro en la cintura de la Hermana Menor.
+
+La espada larga ha estado completamente envainada de principio a fin, sin haber salido ni un centímetro.
+
+La Hermana Menor baja la mirada siguiendo el gesto de la Hermana Mayor.
+
+Su sonrisa de suficiencia por haber "derrotado" a su oponente se borra poco a poco.
+
+Su mano derecha regresa lentamente a la empuñadura.
+
+En ese instante, cae en la cuenta: el examen era de esgrima, y ella no lanzó un solo golpe.
+
+Mantén una reacción de silencio incómodo completa y prolongada.
+
+Al fondo, el Maestro ya se ha girado para llamar al siguiente discípulo.
+
+La comisura de los labios de la Hermana Mayor se contrae casi imperceptiblemente, conteniendo la risa.
+
+Termina directamente antes de que la Hermana Menor abra la boca para buscar una excusa.
+
+【Interpretación de los personajes y diálogos profesionales】
+
+Todos los personajes deben tomarse este examen en serio durante toda la pieza.
+
+La seguridad inicial de la Hermana Menor, rayando en la fanfarronería, debe transmitirse a través de su mirada, su postura inicial y su juego de pies.
+
+En la sección media, el oponente se frustra progresivamente, pero no se le permite agitar la espada de madera a lo loco.
+
+Finalmente, el "Reprobada" del Maestro debe ser calmado, breve y sin explicaciones adicionales.
+
+El "¿Dónde está la espada?" de la Hermana Mayor debe sonar como un recordatorio muy natural, no con un tono deliberadamente burlón.
+
+La reacción cómica clave es el cambio instantáneo de la confianza a la vergüenza cuando la Hermana Menor baja la mirada y descubre que la espada sigue en la vaina.
+
+Nada de carcajadas colectivas de los espectadores.
+
+【Cámara y edición】
+
+Fase 1: Plano general contrapicado para establecer la posición del duelo y las relaciones entre los personajes.
+
+Fase 2: Seguimiento lateral estable que muestre las acciones de cuerpo completo demostrando el Ren Huang Bu. Deben verse claramente las direcciones de los ataques con la espada de madera, los puntos de apoyo de los pies, los giros corporales y las distancias mutuas.
+
+Fase 3: Plano medio que muestra el anuncio de la reprobación, seguido de un breve primer plano de la vaina en la cintura para completar el giro visual.
+
+Los cortes no cruzan el eje, las posiciones de los actores no se reinician y la iluminación ambiental es consistente antes y después.
+
+【Diálogos en mandarín y diseño de sonido】
+
+Todos los personajes usan voces originales naturales en mandarín.
+
+Las líneas exactas son:
+
+Maestro: "¡Examen de esgrima, comiencen!"
+
+Discípulo: "¡Desenvaina tu espada!"
+
+Hermana Menor: "¡Conozco el Ren Huang Bu!"
+
+Discípulo: "¡Deja de esquivar!"
+
+Hermana Menor: "¡No puedes darme!"
+
+Maestro: "Reprobada."
+
+Hermana Menor: "¿Por qué?"
+
+Hermana Mayor: "¿Dónde está la espada?"
+
+Sin narración, sin explicaciones extra, sin subtítulos.
+
+El silbido de la espada de madera cortando el aire, el sonido de los cambios bruscos de dirección de los pasos, el roce de las telas de seda y el sonido ambiental del espacio deben sincronizarse de forma natural.
+
+Al final, usa una pausa musical breve y contenida para resaltar lo incómodo de la situación, en lugar de risas enlatadas exageradas.
+
+【Continuidad de personajes, utilería y entorno】
+
+La estabilidad de identidad de los personajes de Image 1 y Image 2 debe ser estricta.
+
+La espada de acero oscuro de la Hermana Menor permanece envainada en la misma funda de principio a fin.
+
+El oponente usa únicamente la misma espada de práctica de madera durante toda la escena.
+
+La Hermana Mayor y el Maestro permanecen fuera del área de duelo y no participan en el combate.
+
+Prohibido el fuego amigo; la espada de madera no debe transformarse mágicamente en una espada real; varias personas no pueden sostener la misma arma simultáneamente.
+
+El juego de pies de la Hermana Menor debe mostrar claramente los cambios de paso inversos y las esquivas serpenteantes; no basta con escribir "usa el Ren Huang Bu" y sustituir acciones concretas por efectos abstractos.
+
+【Requisitos de ejecución para Seedance 2.5】
+
+Estrictamente 15 segundos, formato panorámico 16:9, textura cinematográfica de imagen real, sincronización audiovisual nativa en mandarín.
+
+Establece el examen de esgrima inmediatamente al inicio; concéntrate en las acciones corporales entre los 5 y 10 segundos; completa el giro de la vaina y la reacción del personaje entre los 10 y 15 segundos.
+
+No añadas batallas extra, habilidades ocultas, revelaciones de identidad de personajes ni diálogos irrelevantes.
+
+No grabes el video como una exhibición de esgrima llamativa pero vacía.
+
+Se trata de una comedia de situación de 15 segundos que utiliza acciones Wuxia reales para generar un desfase cognitivo.
+
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120835689923362816/img/XG7UIuAaxT_xmXOJ.jpg" width="600" alt="Prompt de Seedance 2.5 para la comedia Xianxia 'Ren Huang Bu'">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13793)**
+
+**Autor:** [𝕊𝖔ʳᵃɴ](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2120836163678421335) | **Publicado:** Nov 12, 2026
+
+---
+### Prompt de Seedance 2.0 Mini: Desvío de Espada Xianxia
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt conciso para generar un video de acción Xianxia de 15 segundos con Seedance 2.0 Mini, donde dos espadachinas desvían el golpe de una espada gigante en lugar de bloquearlo.
+
+#### 📝 Prompt
+
+```
+15 segundos, 16:9, Xianxia de acción real, mandarín nativo. "Wrong Edge": no bloquees el aura de la espada, desvíala. La Imagen 1 es una hermana mayor con túnica blanca y un horquilla de jade sosteniendo una espada plateada; la Imagen 2 es una hermana menor con túnica verde y trenzas sosteniendo una espada oscura, con rostros, atuendos y armas bien diferenciados. El enemigo es un gran espadachín con armadura roja.
+El fondo es una ubicación real: largas escaleras de jade blanco, cascada gigante sobre un mar de nubes, palacio inmortal y estructuras de madera a la izquierda, ciudad antigua abajo, montañas anulares a lo lejos iluminadas por el sol. Mantener mecánicamente las relaciones espaciales; el viento, la niebla, la cascada y los faldones se mueven con naturalidad, tono narrativo neutro.
+0-5s: Plano general que establece la ubicación, travelling diagonal. El enemigo lanza un tajo descendente, la hermana mayor esquiva en diagonal, la hermana menor apuñala el brazo de la espada; el enemigo gira la muñeca para un barrido bajo que obliga a la hermana menor a retroceder y presiona a la hermana mayor. Impactos contundentes, acciones claras.
+5-10s: El enemigo amaga un ataque alto contra la hermana mayor y gira la espada para un tajo bajo hacia la hermana menor; ella embiste pero queda acorralada apoyada en un solo pie. La hermana mayor golpea con la empuñadura, pero pierde el equilibrio cuando el enemigo retuerce su espada. El enemigo alza la hoja acumulando un aura roja: "¿Vas a recibir este golpe?"
+10-15s: Hermana menor: "No tengo intención". Usa el plano de la espada para golpear hacia arriba el codo del enemigo; la hermana mayor baja su centro de gravedad y la espada plateada levanta la hoja enemiga hacia atrás, el enorme aura roja sale disparada al cielo y el palacio queda intacto. La hermana menor desvía la muñeca del enemigo, la hermana mayor corta la hombrera de la armadura, el enemigo cae de rodillas y suelta la espada; ambas siguen avanzando. Fuerza evidente, los cortes acompañan la acción, sonidos de metal/viento/cascada sincronizados, sin subtítulos.
+borroso, mala calidad, baja calidad, baja resolución, ruido, artefactos jpeg, marca de agua, texto, error; deformado, mutado, mala anatomía, manos mal dibujadas, mala composición, fuera de encuadre, desfigurado; personaje inconsistente, ropa cambiante, rostro deformado, cambio de fondo, cortes con fallos, objetos desaparecidos
+)
+Debe generar un video de 15 segundos con seedance 2.0 mini
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120811433202192384/img/KAtid2H0P-3CYX_Y.jpg" width="600" alt="Prompt de Seedance 2.0 Mini: Desvío de Espada Xianxia">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13795)**
+
+**Autor:** [��ʳᵃɴ](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2120812110653661362) | **Publicado:** Nov 12, 2026
+
+---
 ### Comedia sobre Compras Online en el Hogar
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -9012,240 +9422,6 @@ Crea un cortometraje cinematográfico de estilo de vida fotorrealista de 27 segu
 **Autor:** [liana](https://x.com/Lianaalane) | **Fuente:** [Link](https://x.com/Lianaalane/status/2113502626016825590) | **Publicado:** Oct 23, 2026
 
 ---
-### Valkyrie Frost Wyrm: Batalla Anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de video en estilo anime de fantasía oscura, con una valquiria luchando contra un gélido wyrm, incluyendo una cronología detallada de la coreografía de la batalla y los movimientos de cámara.
-
-#### 📝 Prompt
-
-```
-Una valquiria curtida en mil batallas, con el cabello rubio platino trenzado, pintura de guerra, armadura de placas rúnica alada y una espada ancha imbuida de relámpagos, renderizada en un estilo anime cinematográfico de fantasía oscura, con una coreografía sakuga fluida a alta tasa de fotogramas, trazos expresivos dibujados a mano, cel shading intenso de tonos fríos e iluminación atmosférica de ventisca.
-
-Línea temporal:
-0–4 s: Se lanza en caída libre desde el borde vertical de un glaciar mientras un ancestral y escarpado Frost Wyrm irrumpe desde la pared de hielo bajo sus pies; la cámara desciende en espiral acompasando su caída.
-4–10 s: Usa sus alas para virar bruscamente esquivando una densa ráfaga de aliento de carámbanos, desvía un coletazo con su rodela rúnica, se aferra a las escamas heladas de la serpiente y corre hacia arriba por su lomo enfrentándose a vientos huracanados.
-10–15 s: Canaliza puro relámpago en su hoja y la clava entre los cuernos del wyrm mientras las grietas glaciares estallan a su alrededor; se impulsa hacia la ventisca justo cuando la bestia se desploma en un abismo de hielo bajo ella, aterrizando triunfal sobre un pico escarpado.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113351253958987776/img/j0eJvoueuYcNnKV9.jpg" width="600" alt="Valkyrie Frost Wyrm: Batalla Anime">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12928)**
-
-**Autor:** [Iqra Saifi](https://x.com/IqrasaifiAI) | **Fuente:** [Link](https://x.com/IqrasaifiAI/status/2113351475015610871) | **Publicado:** Oct 22, 2026
-
----
-### Aventura en bicicleta: persecución de cebras
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de video cinematográfico de 30 segundos: una mujer pedalea por un bosque y es perseguida por cebras, terminando con un momento cómico de una llamada telefónica.
-
-#### 📝 Prompt
-
-```
-Crea un vídeo cinematográfico y fotorrealista de 30 segundos en el que una joven recorre en bicicleta un camino de tierra a través de un bosque frondoso y verde. Lleva una gorra de béisbol negra, una camiseta azul holgada, pantalones cortos negros y zapatillas blancas, con el cabello castaño largo ondeando de forma natural a su espalda. Pedalea con seguridad y los brazos extendidos hacia los lados hasta que mira atrás y descubre una gran manada de cebras corriendo en su dirección. Reacciona con sorpresa y miedo, agarra rápidamente el manillar y pedalea más rápido mientras las cebras avanzan por el camino levantando nubes de polvo. Decenas de cebras rodean su bicicleta, creando una escena de persecución intensa y emocionante. Finalmente, reduce la velocidad, mira su smartphone sin dar crédito y se lo lleva al oído con los ojos muy abiertos y la boca abierta. Utiliza planos de seguimiento fluidos, movimientos realistas de la bicicleta, animación natural de los animales, rayas detalladas en las cebras, cabello al viento, partículas de polvo y luz diurna suave. Mantén la coherencia de los personajes, una física realista y expresiones naturales durante todo el vídeo, sin deformaciones extrañas, sin texto y sin música de fondo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113222752371113986/img/BzYUW_lvbq3wlivV.jpg" width="600" alt="Aventura en bicicleta: persecución de cebras">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12927)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fuente:** [Link](https://x.com/Aiwithmaha/status/2113222820570550355) | **Publicado:** Oct 22, 2026
-
----
-### Prompt de Video Comercial Ultra Realista de Especias para Seedance 2.0 Fast
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para la generación de videos que crea un comercial de alimentos ultra realista de 8 segundos, destacando ingredientes de especias y revelación del producto, optimizado para Seedance 2.0 Fast.
-
-#### 📝 Prompt
-
-```
-Crea un anuncio publicitario premium de alimentos de 8 segundos para una marca de especias llamada SpiceMix. Utiliza calidad cinematográfica ultrarrealista, estilo de publicidad gastronómica de lujo, texturas fotorrealistas, CGI premium, iluminación realista, cinematografía macro, movimiento de cámara fluido, poca profundidad de campo, reflejos dorados cálidos y corrección de color de anuncio de alta gama. Cada plano debe transmitir energía con cortes rápidos típicos de la publicidad, transiciones fluidas y una estética de primer nivel en publicidad de productos.
-
-0.0–0.8s — Presentación del ingrediente estrella
-
-Plano macro extremo de vainas frescas de cardamomo verde cayendo sobre una superficie oscura mate en cámara lenta. Diminutas partículas de polvo de especias flotan bajo una cálida luz solar dorada. Movimiento rápido de acercamiento de la cámara (push-in).
-
-0.8–1.6s — Secuencia de especias de lujo
-
-Cortes cinematográficos rápidos entre ramas de canela, clavos de olor, granos de pimienta negra, semillas de comino, semillas de cilantro, anís estrellado, chiles rojos secos y hojas de laurel. Cada ingrediente gira de forma natural en el aire con un hermoso enfoque macro, iluminación premium y partículas aromáticas flotantes.
-
-1.6–2.8s — Explosión de ingredientes
-
-Todas las especias estallan hacia arriba al mismo tiempo en cámara lenta, girando alrededor de la cámara. Un denso polvo de especias llena el encuadre mientras la cámara atraviesa los ingredientes flotantes con un movimiento dinámico y la energía propia de un anuncio comercial de alta gama.
-
-2.8–4.2s — Mezcla natural
-
-Los ingredientes se arremolinan formando un vórtice elegante y se transforman gradualmente en un polvo de especias multicolor. Las partículas finas brillan bajo una cálida iluminación dorada, creando una imagen lujosa y apetitosa.
-
-4.2–5.8s — Revelación del sabor
-
-El polvo de especias fluye con elegancia sobre un fondo oscuro premium, revelando especias enteras y frescas que rodean el centro. Una iluminación dramática logra ese aspecto irresistible y sofisticado de los mejores anuncios de comida.
-
-5.8–8.0s — Plano protagonista del producto
-
-Las especias en movimiento se asientan y dejan ver una caja de especias premium de SpiceMix sobre una superficie negra brillante y reflectante. Especias enteras envuelven el paquete con elegancia mientras diminutas partículas siguen flotando. Un lento acercamiento cinematográfico termina enfocando el envase, que muestra:
-
-SpiceMix
-Naturally Made
-
-Sin personas. Sin cocina. Sin utensilios. Solo ingredientes premium, cinematografía de anuncio gastronómico de lujo, fotografía macro de producto, cortes rápidos y enérgicos, transiciones fluidas, física realista, texturas fotorrealistas, calidad CGI premium, corrección de color cálida e intensa y un acabado comercial elegante.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113142312507478016/img/PqU9UcHTkbEoHb18.jpg" width="600" alt="Prompt de Video Comercial Ultra Realista de Especias para Seedance 2.0 Fast">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12925)**
-
-**Autor:** [Olivia Jane](https://x.com/olivajaneAI) | **Fuente:** [Link](https://x.com/olivajaneAI/status/2113142343675297826) | **Publicado:** Oct 22, 2026
-
----
-### Prompt de Comedia Realista de Gimnasio
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt detallado para generar un video de comedia vertical de 15 segundos que muestra a una mujer en el gimnasio, enfatizando la estética realista de cámara de teléfono y la iluminación natural.
-
-#### 📝 Prompt
-
-```
-Vídeo corto y divertido de 15 segundos ultrarrealista, pantalla vertical 9:16, textura documental de cámara nativa de teléfono móvil, entorno de gimnasio real, luz cenital interior suave; todo el proceso se siente como si un amigo te estuviera grabando de forma casual, con ligeros temblores naturales y un aire muy cotidiano.
-
-[Configuración del personaje]
-Mujer joven asiática muy atractiva, maquillaje natural y ligero, rasgos faciales delicados y relajados, figura proporcionada, temperamento dulce pero con actitud cool, aspecto de auténtica transeúnte. La piel conserva su textura natural y sutiles gotas de sudor, sin retoques de influencer ni rostros exagerados por cirugía estética, con proporciones corporales naturales. El rostro y el cuerpo deben ser completamente fieles a la imagen de referencia.
-
-Plano 1 | 0-4 s Falsa disciplina
-Gimnasio luminoso y limpio, con algunas siluetas entrenando y equipamiento al fondo. La chica hace sentadillas perfectas con total seriedad en la zona de peso libre, movimientos fluidos y estables. Cámara en mano siguiéndola desde atrás a la derecha: primero retrocede lentamente para mantener el cuerpo entero en el encuadre y luego sube un poco cuando ella se levanta, como si un amigo caminara mientras graba. La imagen tiene ese leve efecto de respiración y temblor natural que crea la ilusión de que es súper disciplinada y trabajadora.
-
-Plano 2 | 4-8 s Entrenamiento engañoso
-Corte directo a un plano de seguimiento lateral. La chica está de pie haciendo curl de bíceps con mancuernas pequeñas, sudando ligeramente, esforzándose en serio, con expresión tranquila y concentrada. La cámara cerca de su perfil frontal, primero con un leve movimiento lateral y luego acercándose despacio hacia el torso, mientras el equipo del fondo pasa de forma natural. El espectador sigue creyendo que es un vídeo fitness de alguien muy constante.
-
-Plano 3 | 8-12 s Primer giro inesperado
-De repente, la chica deja las mancuernas, su expresión pasa de la concentración a la relajación y suelta un largo suspiro. La cámara en mano la sigue hasta el banco de entrenamiento. Se sienta, saca pollo frito y un té con leche helado de la bolsa con movimientos naturales y expertos, y abre el envoltorio. La cámara se acerca rápido pero suavemente justo cuando saca las cosas, logrando un efecto cómico espontáneo.
-
-Plano 4 | 12-15 s Giro definitivo
-La cámara se acerca directamente para encuadrar su cara junto con el pollo frito y el té en el mismo plano. La chica le da un mordisco natural al pollo, bebe el té, mira a cámara y dice con tono desenfadado: "Hay que comer bien para tener fuerzas y adelgazar". Después mantiene una expresión tranquila, como si hubiera dicho lo más normal del mundo. El final se queda en ese contraste de su cara impasible mientras come; la cámara en mano tiembla ligerísimamente hacia adelante y atrás, reforzando la sensación de que un amigo la está grabando a escondidas.
-
-[Calidad visual]
-Acción real ultrarrealista, calidad HD de cámara nativa, textura de piel auténtica con poros, gotas de sudor y tono natural, ligero ruido ambiental propio del gimnasio, luz cenital interior natural (evitar iluminación refinada de cine). Movimiento de cámara principalmente de seguimiento en mano, ligeros acercamientos y leves desplazamientos laterales, ritmo casual, nada de movimientos suaves con estabilizador (gimbal). Cortes directos entre escenas, sin transiciones elaboradas.
-
-[Efectos de sonido]
-Sonido lejano de pesas chocando en el gimnasio, pasos sutiles, la respiración de la chica al entrenar, el ruido al abrir el envoltorio, el crujido al masticar el pollo frito y el sonido de la pajita del té. Diálogo claro y natural, sin esa sensación de doblaje exagerado. Añadir un breve toque de música divertida y ligera justo después de que termine la frase.
-
-[Prompts negativos]
-Dedos deformes, extremidades retorcidas, dedos de más, dedos faltantes, rostro desfigurado, rasgos faciales desalineados, cara falsa generada por IA, piel de plástico, filtros de belleza excesivos, cara de silicona, lentillas exageradas, cuerpo deformado, proporciones desequilibradas, relación cabeza-cuerpo anormal, objetos flotantes, recorte de objetos, parpadeo de pantalla, objetos a la deriva, renderizado de dibujos animados, animación 3D, dibujo a mano, ilustración, subtítulos en pantalla, texto, tipografías llamativas, marcas de agua, logotipos, bordes, filtros intensos, suavizado de luz difusa, movimiento fluido de estabilizador, cámara fija, poses rígidas, iluminación de escenario, luz pálida artificial, iluminación excesiva, personas extra, desorden distractor, actuación exagerada, interpretación torpe, expresiones afectadas
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113132456224382976/img/_cUXcO0MOe8bP9Cv.jpg" width="600" alt="Prompt de Comedia Realista de Gimnasio">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12878)**
-
-**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fuente:** [Link](https://x.com/Adam38363368936/status/2113133135487713524) | **Publicado:** Oct 22, 2026
-
----
-### Actuación acrobática cinematográfica sobre un lago
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt detallado para generar un video cinematográfico de 30 segundos de una acróbata femenina actuando sobre postes de madera sobre un lago turquesa, enfatizando la física realista y el movimiento de cámara.
-
-#### 📝 Prompt
-
-```
-Crea un video de 30 segundos que muestre una impresionante actuación acrobática cinematográfica sobre un hermoso lago turquesa, rodeado de exuberantes montañas verdes, acantilados envueltos en niebla y un cielo suave y nublado. Una elegante acróbata vestida con un traje blanco y vaporoso realiza increíbles volteretas, pino, giros aéreos y movimientos de equilibrio perfectamente controlados sobre una serie de postes de madera altos y estrechos que se elevan por encima del agua. La cámara capta sus movimientos mediante amplios planos cinematográficos y suaves tomas de seguimiento, destacando su fuerza, flexibilidad y equilibrio frente al espectacular paisaje natural. Salta con gracia de un poste a otro, gira por el aire y aterriza con precisión sobre una plataforma de madera junto al lago, terminando con una elegante pose inspirada en las artes marciales y los brazos extendidos. Utiliza anatomía humana realista, movimientos corporales naturales, física precisa, transiciones fluidas, luz diurna suave, niebla atmosférica en la montaña, reflejos en aguas cristalinas y detalles cinematográficos ultrarrealistas. Mantén constante el rostro, el peinado, el atuendo y las proporciones corporales de la acróbata durante todo el video. El resultado final debe verse como una actuación acrobática real filmada profesionalmente, con movimientos de cámara fluidos, paisajes impresionantes y sin textos, logotipos ni distorsiones visuales.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113128439465308160/img/HGilvSf7Uz9gtyIZ.jpg" width="600" alt="Actuación acrobática cinematográfica sobre un lago">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12877)**
-
-**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fuente:** [Link](https://x.com/ayzalnooor24521/status/2113128549930729895) | **Publicado:** Oct 22, 2026
-
----
-### POV de conducción futurista 2050
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para un video ultra fotorrealista de 10 segundos que muestra a una mujer conduciendo en 2050 con vehículos voladores por encima, incluyendo descripciones detalladas del personaje y la escena.
-
-#### 📝 Prompt
-
-```
-TÍTULO: POV — CONDUCIENDO EN 2050
-
-Crea un video futurista de 10 segundos, ultrafotorrealista, que muestre a una joven hermosa conduciendo con total naturalidad por una autopista en el año 2050, mientras cientos de vehículos voladores autónomos surcan el cielo por encima de ella, organizados en carriles aéreos perfectamente estructurados.
-
-PERSONAJE PRINCIPAL — CONSISTENCIA ESTRICTA DE IDENTIDAD
-
-Una hermosa mujer de 23 años con cabello largo y liso de color rosa pastel, rasgos faciales delicados, piel clara realista con textura natural visible, maquillaje suave en tonos rosas y labios ligeramente brillantes.
-
-Lleva puesto:
-Un top ajustado de mezclilla azul sin mangas.
-Un collar tipo gargantilla futurista de plata metálica.
-Unos llamativos pendientes de color azul brillante.
-Un cinturón de seguridad negro cruzándole el pecho.
-
-Mantén su rostro, peinado, vestimenta, proporciones y accesorios exactamente iguales durante todo el video.
-
-ESCENA 1 — 0:00–0:02 | DENTRO DEL AUTO
-Comienza con una cámara fija de teléfono inteligente montada en el tablero, apuntando hacia la mujer desde el lado del copiloto.
-
-Ella va sentada al volante de un vehículo moderno de lujo, conduciendo con total tranquilidad.
-
-La cálida luz dorada del atardecer entra por la ventanilla lateral e ilumina su rostro y su cabello rosa.
-
-Mira hacia la carretera y luego dirige brevemente la vista a la cámara con una sonrisa sutil y divertida.
-
-El interior del vehículo es realista, con asientos de cuero negro, techo oscuro y reflejos naturales en el parabrisas.
-
-ESCENA 2 — 0:02–0:04 | LA REVELACIÓN DE LA AUTOPISTA FUTURISTA
-
-Corte directo a una espectacular toma elevada en gran angular de una enorme autopista de múltiples carriles al atardecer.
-Un SUV de lujo oscuro avanza por la autopista casi vacía.
-
-Por encima de la carretera, cientos de vehículos voladores futuristas y autónomos flotan y se desplazan por carriles aéreos perfectamente organizados.
-
-Los vehículos voladores tienen carrocerías aerodinámicas y compactas, superficies de color gris oscuro y plateado metálico, y avanzados sistemas de propulsión ocultos.
-
-Se mueven con fluidez en formaciones sincronizadas, manteniendo distancias precisas entre sí.
-
-Algunos vuelan justo sobre la autopista, mientras otros se extienden hasta el horizonte, creando una densa red de transporte futurista.
-
-La luz dorada del sol se refleja en sus superficies metálicas.
-
-ESCENA 3 — 0:04–0:06 | DE VUELTO A LA CONDUCTORA
-
-Corte directo de vuelta al mismo ángulo de la cámara del tablero.
-
-La mujer de cabello rosa sigue conduciendo, completamente impasible ante el extraordinario sistema de tráfico del exterior.
-Apoya una mano con naturalidad en el volante y mira hacia el parabrisas con una expresión juguetona y ligeramente impresionada.
-
-La luz del sol se desplaza por su rostro a medida que el vehículo avanza.
-
-Sus movimientos faciales son sutiles, naturales y creíbles.
-
-ESCENA 4 — 0:06–0:08 | TRÁFICO AÉREO MASIVO
-
-Corte a una dramática toma de seguimiento elevada que acompaña al SUV oscuro por la autopista.
-
-La cámara revela una enorme formación de vehículos voladores que se extiende por todo el cielo.
-
-Varios vehículos se deslizan justo por encima de la cámara, mientras cientos más se desplazan a través de múltiples niveles aéreos.
-El tráfico futurista luce tecnológicamente avanzado, pero físicamente creíble.
-
-Abajo, el SUV oscuro continúa su camino por la carretera iluminada por el sol, luciendo tranquilo en medio del caos que reina en lo alto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112913816610816000/img/jWaYNb3FtSMv5ePw.jpg" width="600" alt="POV de conducción futurista 2050">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12872)**
-
-**Autor:** [Sharon Riley](https://x.com/Just_sharon7) | **Fuente:** [Link](https://x.com/Just_sharon7/status/2112913908617158822) | **Publicado:** Oct 21, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -9307,6 +9483,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-13T01:12:43.034Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-13T12:14:24.880Z</sub>
 
 </div>

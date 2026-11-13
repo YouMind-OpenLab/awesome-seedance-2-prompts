@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6678** |
+| 📝 Total Prompts | **6684** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-11-13** |
 
@@ -365,6 +365,416 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Great White Shark Rescue by Orca
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt featuring a woman on a jet ski surrounded by sharks and saved by an orca whale.
+
+#### 📝 Prompt
+
+```
+Cinematic 4K action shot, low-angle perspective. A young blonde woman in a school uniform and life jacket rides a high-speed jet ski tearing across the ocean surface. Encircling the area is a massive circle of dozens of great white sharks surrounding an offshore oil rig. The jet ski hits a wave, she falls off into the water, sinking underwater as sharks circle closely. Suddenly, a massive orca whale appears, protecting her as she swims up to an oil platform ladder, looking back in awe and breathless relief. Photorealistic cinematic lighting, dramatic motion blur, high-end VFX blockbuster aesthetic, 9:16 vertical ratio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121113285676216320/img/8aP2AJdeiMTdIeGU.jpg" width="600" alt="Great White Shark Rescue by Orca">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13790)**
+
+**Author:** [Avelyrah](https://x.com/AvelyrahnAI) | **Source:** [Link](https://x.com/AvelyrahnAI/status/2121113408485617748) | **Published:** Nov 13, 2026
+
+---
+### Wuxia Warrior vs Shadow Beasts
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dark fantasy wuxia action scene with a warrior fighting shadow beasts using fiery sword techniques.
+
+#### 📝 Prompt
+
+```
+Cinematic dark fantasy wuxia action scene, low angle dynamic tracking shot. A male warrior in black martial robes and arm guards stands in a tall grass field under an overcast gray sky. He spins dynamically, slashing a glowing fiery sword that leaves arc trails of bright orange fire and sparks. A massive swarm of black shadow beasts charges across the field. He triggers a powerful ground shockwave that blasts dirt, smoke, and embers into the air. A circular matrix of glowing red target reticles and energy lasers shoots outward into the monster swarm. The warrior then rests his blazing sword on his shoulder and walks forward in slow motion through floating embers, smoke, and dissolving black ash. Photorealistic VFX, motion blur, 8k resolution, hyper-detailed.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120736212994641920/img/eSbJlO8WmmD0_wfZ.jpg" width="600" alt="Wuxia Warrior vs Shadow Beasts">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13792)**
+
+**Author:** [ZDuo.MoreAi](https://x.com/lnxinshng252654) | **Source:** [Link](https://x.com/lnxinshng252654/status/2121076838600487401) | **Published:** Nov 13, 2026
+
+---
+### Korean Subway Action Comedy Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video generation prompt for Seedance 2.0 creating a realistic Korean subway scene involving a woman breaking glass to pull a man out of a train.
+
+#### 📝 Prompt
+
+```
+Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exact visual references; keep characters, faces, hair, outfits and environment consistent.
+Young Korean woman, early 20s, long straight black hair, green cropped long-sleeve top, loose blue jeans, silver jewelry; confident and expressive.
+Young Korean man, short black hair, gray button-up shirt, dark trousers and white sneakers; playful, then shocked and embarrassed.
+She rushes down the subway stairs toward a waiting train, but the doors close just as she reaches them.
+The man inside sees her through the glass and laughs at her; she stares at him angrily and says, "Are you seriously laughing?"
+He laughs again, so she suddenly punches the glass beside the door, cracking and breaking the safety glass realistically with no injury or gore.
+She reaches through the broken opening, grabs his shirt and pulls him safely out onto the platform; he lands awkwardly on the floor in shock.
+She calmly climbs through the same broken opening into the train, straightens her clothes and walks inside as stunned passengers watch.
+The man remains sitting outside, looking confused and humiliated while passengers stare at him through the windows.
+One passenger starts laughing, then everyone bursts into laughter while the man looks around helplessly.
+She looks at him through the window, gives a tiny satisfied smile, then casually turns away.
+Ultra-realistic Korean subway lighting, gritty DV-inspired look, natural motion blur, realistic physics, handheld imperfections, authentic reactions and ambient subway audio; no music.
+No gore, blood, serious injuries, identity drift, outfit changes, duplicated people, teleportation, regenerating glass, distorted hands, CGI look, subtitles, captions, text, logos or watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120725292390260736/img/qD7ndxljcz0tmW_5.jpg" width="600" alt="Korean Subway Action Comedy Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13791)**
+
+**Author:** [ZDuo.MoreAi](https://x.com/lnxinshng252654) | **Source:** [Link](https://x.com/lnxinshng252654/status/2120917789137392073) | **Published:** Nov 12, 2026
+
+---
+### Seedance 2.0 Rainy Night Fight Scene Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A prompt for creating a 15-second realistic cinematic rainy night action short with high-density close-quarters combat using Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Generate a 15-second 16:9 horizontal realistic cinematic rainy night action short, generated directly from text.
+
+[Core Requirements]
+High-density, fast-paced continuous close-quarters combat, like the most intense fight scene in a top-tier action movie, totaling 4 rounds of exchanges and 10 shots.
+The first frame is already in combat; no intro, walking, standoff, or posing.
+No slow motion throughout the entire clip; all actions are at real-time speed.
+Each shot lasts about 1 to 2 seconds, completing a clear offense/defense cycle and showing the result of the hit.
+Actions connect tightly between shots; the result of the previous action is the start of the next, with no pauses.
+Both sides attack and take hits; the male lead is suppressed in the beginning, fights back harder in the middle, and ends the fight with a final blow.
+
+[Characters]
+Male Lead: Young East Asian male, approx. 30 years old, short black hair, rugged features, sturdy and agile build. Wearing a black short jacket, dark grey t-shirt, dark cargo pants, and black short boots. Soaked in rain, with a slight scratch on the right eyebrow. He has no weapon.
+Opponent: A taller young male than the lead, wearing a dark hooded jacket and dark trousers, holding a short metal rod in his right hand.
+Only these two people appear in the entire clip; their appearance, clothing, and weapons remain consistent.
+
+[Scene]
+A narrow city alley in heavy rain at night. Ground puddles reflect light, cold white street lamps in the alley, a warm yellow wall lamp on the wall, and a metal trash can against the wall.
+The entire clip takes place in the same alley; walls, trash can, and characters' positions must be coherent.
+
+[Storyboard]
+
+Round 1: Suppressed
+
+Shot 1 (0-1.5s): Side medium shot. Opponent swings the metal rod horizontally; male lead ducks sharply. The rod hits the metal trash can, denting it with a loud clang.
+
+Shot 2 (1.5-3s): Handheld follow. As the male lead looks up, the opponent slams him with a shoulder check, driving his back hard into the wall, shaking rainwater loose from the surface.
+
+Round 2: Disarm
+
+Shot 3 (3-4.5s): Side medium shot. Opponent raises the rod to smash down on the male lead's head; the lead dodges sideways. The rod hits the wall, scattering debris.
+
+Shot 4 (4.5-6s): Close-up. The male lead grabs the opponent's wrists with both hands, slamming them against the wall. The metal rod slips from his hand and falls into the puddle.
+
+Round 3: Bare-handed Brawl
+
+Shot 5 (6-7.5s): Side medium shot. Opponent roars and throws a right punch; the male lead blocks with his left arm and immediately lands a hook on the opponent's abdomen, causing him to bend over.
+
+Shot 6 (7.5-9s): Medium shot. The opponent counters with a left hook hitting the male lead's cheek; the lead's head snaps aside, stumbling two steps, splashing puddle water, but he quickly stabilizes.
+
+Round 4: Finisher
+
+Shot 7 (9-10.5s): Close-up follow. The male lead lowers his body and charges into the opponent's guard, landing two short punches on the ribs, pushing the opponent back.
+
+Shot 8 (10.5-12s): Medium shot. Opponent swings again; the male lead dodges sideways and lands an uppercut on the jaw. The opponent's head snaps back, staggering.
+
+Shot 9 (12-13.5s): Wider medium shot. The male lead grabs the opponent's jacket and uses the momentum to throw him sideways. The opponent crashes into the metal trash can, falling backward into the puddle with a splash, unable to get up.
+
+Shot 10 (13.5-15s): Male lead face close-up. He stands in the rain, chest heaving, rain dripping from his hair and face, staring fiercely at the fallen opponent. The scene ends abruptly.
+
+[Action and Cinematography]
+Realistic cinematic texture, contrasting cool/warm lighting in the rainy night, visible raindrops.
+Every punch and rod strike must make contact with the target, resulting in force absorption, retreat, or imbalance. No hitting air, no falling without contact.
+Punches show wind-up and recoil, feet plant firmly, puddles splash on impact, clothes fling off water droplets.
+Slight camera shake on impact is allowed, but the hit location must be clear.
+Character left/right positioning remains consistent between adjacent shots; no teleporting, clipping, extra limbs, or weapons.
+The dropped metal rod stays on the ground; no one picks it up.
+No flips, flying kicks, or superpowers; no gore close-ups.
+
+[Sound]
+Continuous heavy rain. Sounds of rod hitting bucket, back hitting wall, splashes, punches connecting, and trash can tipping must sync perfectly with visuals. Punch sounds are short and powerful.
+Intense, fast drum-heavy action music starts from the first second, peaking at the final throw, ending with rain and breathing sounds.
+No dialogue, narration, subtitles, text, or watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120891252908695552/img/qL40UjZsNm2ySdzS.jpg" width="600" alt="Seedance 2.0 Rainy Night Fight Scene Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13794)**
+
+**Author:** [Adam也��米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **Published:** Nov 12, 2026
+
+---
+### Seedance 2.5 Xianxia Comedy 'Ren Huang Bu' Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for a 15-second comedic Xianxia video featuring a sword exam where the student dodges everything but forgets to draw her sword.
+
+#### 📝 Prompt
+
+```
+【Overall Style and Hot Meme Prototype】
+
+15-second live-action movie-grade Chinese Xianxia reversal comedy, 16:9 landscape, Seedance 2.5, real actors, real skin and human body structure, native Mandarin audio-visual synchronization.
+
+This round absorbs the recently resurfaced internet meme "Ren Huang Bu" (Emperor's Step).
+
+The core of the original meme is an action behavior where sudden direction changes, reverse positioning, and close-range dodging cause opponents to continuously miss their strikes.
+
+This time, recreate it as a sect swordsmanship examination.
+
+The story's humor comes from a very clear cognitive mismatch: The junior sister interprets "being able to dodge attacks" as "having passed the swordsmanship exam," so she performs a dazzling set of footwork, successfully dodging all attacks, but forgetting to draw her sword from start to finish.
+
+Overall, first use serious Wuxia film audiovisual language to establish expectations of a professional duel, then gradually shift to deadpan absurd comedy.
+
+The characters themselves must be completely serious and cannot pre-formance "I am joking" for the audience.
+
+【Characters and Relationships】
+
+@Image 1: The same White-Robed Sword Immortal Senior Sister, adult East Asian female, strictly maintaining the confirmed face, proportions, and temperament. White embroidered silk Hanfu, black long hair half-tied and secured with a jade hairpin, carrying a silver long sword. Calm, keen, with restrained humor.
+
+@Image 2: The same Blue-Robed Junior Sister, adult East Asian female, strictly maintaining the confirmed face, proportions, and temperament. Blue-green Hanfu, black braided hair, carrying a single dark steel sword. Agile movements, competitive personality, slightly overconfident.
+
+Supporting roles include a strict elderly Master and a male fellow disciple holding a blunt wooden practice sword.
+
+The junior sister's goal is to pass the swordsmanship exam.
+
+The fellow disciple hopes to defeat her in a normal duel.
+
+The Master is responsible for verifying true swordsmanship.
+
+The Senior Sister observes from the side and notices what the Junior Sister overlooked earlier than others.
+
+【Current Location and Spatial Continuity】
+
+The newly uploaded background/location reference images represent the physical world where the video actually takes place; real space must be organized based on these references.
+
+First verify coexisting terrain, architectural structures, roads/platforms, stone/wood materials, vegetation, water bodies, clouds/mist, weather, sunlight direction, and foreground/background layers in the scene, then arrange a reasonable sect training area within the existing location.
+
+Do not arbitrarily replace it with another common Xianxia plaza.
+
+The Master and Senior Sister stand outside the training area; the Junior Sister and challenging disciple face each other in the center, starting distance approx. 3 meters.
+
+All shots are in the same geographical space.
+
+Wind, fabric, water flow, vegetation, and clouds/mist in the background maintain independent natural movement and never actively intervene in the exam or create jokes.
+
+【0–5 Seconds: Opening Hook and Character Situation】
+
+Low-position wide shot establishes the serious sect duel scene.
+
+The Master raises one hand and formally announces:
+
+【Master, Serious】"Swordsmanship exam, begin!"
+
+The male fellow disciple points his wooden sword at the Junior Sister, provokingly saying:
+
+【Disciple】"Draw your sword!"
+
+The Junior Sister's right hand touches the sword hilt at her waist but suddenly releases it.
+
+Her body sinks slightly, feet adjusting to a seemingly bizarre starting stance.
+
+【Junior Sister, Extremely Confident】"I know Ren Huang Bu!"
+
+She even nods seriously, as if revealing a lost ultimate technique.
+
+Brief cut to the Senior Sister's expression.
+
+The Senior Sister glances down at the sword the Junior Sister hasn't drawn, a subtle hint of confusion appearing in her eyes.
+
+【5–10 Seconds: Character Actions and Conflict Escalation】
+
+Clear medium-long lateral tracking shot displays full body and footwork.
+
+The male fellow disciple attacks seriously.
+
+Move 1: He slashes diagonally down with the wooden sword; the Junior Sister suddenly reverses direction, avoiding the attack line with real footwork and center-of-gravity changes.
+
+Move 2: The disciple quickly retracts the sword, adjusts stride, and thrusts forward shortly. The Junior Sister changes direction urgently again, sliding past the opponent's sword-holding arm from the side.
+
+The entire process features clear center-of-gravity transitions, step connections, and weapon distances, relying neither on teleportation, magic afterimages, nor clipping through bodies.
+
+Her footwork becomes increasingly agile, with a somewhat absurd serpentine rhythm, but every movement conforms to real body motion.
+
+The disciple can no longer keep up with her changes.
+
+【Disciple, Frustrated】"Stop dodging!"
+
+The disciple finally stops attacking.
+
+The Junior Sister, however, due to over-involvement, autonomously dodges one extra step, as if still sparring with a non-existent attack.
+
+She completely fails to notice the opponent has stopped.
+
+【Junior Sister, Smug】"You can't hit me!"
+
+The Senior Sister stands silently on the sidelines, but her gaze falls once again on the sword sheath at the Junior Sister's waist.
+
+【10–15 Seconds: Key Change and Dramatic Payoff】
+
+Stable medium shot covering the positions of the Master, Junior Sister, and Senior Sister.
+
+The Junior Sister finally stops moving, panting slightly, face full of confidence, ready to accept the result of passing the exam.
+
+The Master expressionlessly lowers his hand.
+
+【Master】"Fail."
+
+The Junior Sister freezes in place.
+
+【Junior Sister】"Why?"
+
+The same White-Robed Senior Sister does not argue for her, but calmly raises a hand, pointing to her waist side.
+
+【Senior Sister】"Where's the sword?"
+
+Quick cut to the dark steel sword at the Junior Sister's waist.
+
+The long sword has been completely inserted in the sheath from start to finish, not even an inch drawn out.
+
+The Junior Sister looks down following the Senior Sister's gesture.
+
+Her smug smile of having just defeated an opponent disappears bit by bit.
+
+Her right hand slowly returns to the sword hilt.
+
+At this moment, she realizes: The exam was for swordsmanship, yet she didn't make a single strike.
+
+Retain a complete and awkward quiet reaction.
+
+In the background, the Master has already turned to call the next disciple.
+
+The Senior Sister's corner of the mouth twitches ever so slightly, suppressing laughter.
+
+End directly before the Junior Sister opens her mouth to find an excuse.
+
+【Character Performance and Professional Dialogue】
+
+All characters throughout the film must take this exam seriously.
+
+The Junior Sister's early confidence, bordering on showing off, must be expressed through eyes, starting stance, and footwork.
+
+Mid-section, the opponent gradually gets annoyed but is not allowed to wildly swing the wooden sword.
+
+Finally, the Master's "Fail" must be calm, brief, with no extra explanation.
+
+The Senior Sister's "Where's the sword?" must sound like a very natural reminder, not deliberately joking tone.
+
+The key comedic reaction is the instantaneous change from confidence to embarrassment when the Junior Sister looks down and finds the sword still in the sheath.
+
+No collective bursting laughter from bystanders.
+
+【Camera and Editing】
+
+Phase 1: Low-angle wide shot establishes duel position and character relationships.
+
+Phase 2: Stable lateral tracking shot displays full-body actions demonstrating Ren Huang Bu. Clearly show wooden sword attack directions, foot landing points, body turns, and mutual distances.
+
+Phase 3: Medium shot shows the announcement of exam failure, followed by a brief close-up of the waist sword sheath to complete the visual reversal.
+
+Cuts do not cross the axis, actor positions are not reset, and ambient lighting is consistent before and after.
+
+【Mandarin Dialogue and Sound Design】
+
+All characters use natural Mandarin original voices.
+
+Actual lines are strictly:
+
+Master: "Swordsmanship exam, begin!"
+
+Disciple: "Draw your sword!"
+
+Junior Sister: "I know Ren Huang Bu!"
+
+Disciple: "Stop dodging!"
+
+Junior Sister: "You can't hit me!"
+
+Master: "Fail."
+
+Junior Sister: "Why?"
+
+Senior Sister: "Where's the sword?"
+
+No narration, no extra explanation, no subtitles.
+
+Wooden sword slashing wind sounds, urgent footstep direction-change sounds, silk fabric friction sounds, and spatial environmental sounds synchronize naturally.
+
+At the end, use a short, restrained musical pause to highlight the awkwardness, rather than exaggerated canned laughter.
+
+【Character, Prop, and Environment Continuity】
+
+Identity stability for Image 1 and Image 2 characters must be strict.
+
+The Junior Sister's dark steel sword remains inserted in the same sheath from beginning to end.
+
+The opponent uses only the same wooden practice sword throughout.
+
+The Senior Sister and Master remain outside the duel area and do not participate in fighting.
+
+Friendly fire is forbidden; the wooden sword must not magically become a real sword; multiple people must not hold the same weapon simultaneously.
+
+The Junior Sister's footwork must clearly present reverse step changes and serpentine dodging; do not just write "use Ren Huang Bu" and substitute abstract effects for specific actions.
+
+【Seedance 2.5 Execution Requirements】
+
+Strictly 15 seconds, 16:9 landscape, live-action movie texture, native Mandarin audio-visual synchronization.
+
+Establish the swordsmanship exam immediately at the opening; focus on body actions during 5–10 seconds; complete the sheath reversal and character reaction during 10–15 seconds.
+
+Do not add extra battles, hidden abilities, character identity reveals, or irrelevant dialogue.
+
+Do not shoot the video as flashy but hollow swordsmanship showing off.
+
+This is a 15-second situational comedy using real Wuxia actions to create cognitive mismatch.
+
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120835689923362816/img/XG7UIuAaxT_xmXOJ.jpg" width="600" alt="Seedance 2.5 Xianxia Comedy 'Ren Huang Bu' Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13793)**
+
+**Author:** [𝕊𝖔ʳᵃɴ](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2120836163678421335) | **Published:** Nov 12, 2026
+
+---
+### Seedance 2.0 Mini Xianxia Sword Deflection Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A concise prompt for generating a 15-second Xianxia action video with Seedance 2.0 Mini, featuring two swordswomen deflecting a giant blade strike instead of blocking it.
+
+#### 📝 Prompt
+
+```
+15 seconds, 16:9, live-action Xianxia, native Mandarin. "Wrong Edge": Don't block the blade aura, redirect it. Image 1 is a white-robed senior sister with a jade hairpin holding a silver sword; Image 2 is a green-robed junior sister with braids holding a dark sword, distinct faces, outfits, and weapons. Enemy is a red-armored great-swordsman.
+Background is a real location: white jade long stairs, giant waterfall sea of clouds, immortal palace and left wooden structures, ancient city below, distant ring mountains with sunlight. Mechanically maintain spatial relations; wind, mist, waterfall, and hems move naturally, narratively neutral.
+0-5s: Wide shot establishing location, diagonal tracking. Enemy slashes down, senior sister dodges diagonally, junior sister stabs at sword arm; enemy twists wrist for low sweep forcing junior sister back, pressing senior sister. Hard collisions, clear actions.
+5-10s: Enemy feints upper attack on senior sister, turns sword for low slash on junior sister; she charges in but is pressed to one foot. Senior sister stabs sword hilt, gets yanked off-balance by enemy's sword twist. Enemy raises sword gathering red blade aura: "Will you take this strike?"
+10-15s: Junior sister: "Not planning to." She uses sword flat to lift-strike enemy elbow; senior sister lowers center of gravity, silver sword lifts blade back upwards, huge red blade aura flies to sky, palace undamaged. Junior sister deflects enemy wrist, senior sister slashes shoulder armor, enemy kneels dropping sword; both continue forward. Force clear, cuts follow action, metal/wind/waterfall sounds synced, no subtitles.
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+)
+Must generate seedance 2.0 mini 15 second video
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120811433202192384/img/KAtid2H0P-3CYX_Y.jpg" width="600" alt="Seedance 2.0 Mini Xianxia Sword Deflection Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13795)**
+
+**Author:** [��ʳᵃɴ](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2120812110653661362) | **Published:** Nov 12, 2026
+
+---
 ### Online Shopping Home Comedy
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -9154,239 +9564,6 @@ Create a 27-second photorealistic cinematic lifestyle film featuring a young Kor
 **Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2113502626016825590) | **Published:** Oct 23, 2026
 
 ---
-### Valkyrie Frost Wyrm Anime Battle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dark-fantasy anime style video prompt featuring a Valkyrie fighting a Frost Wyrm, with a detailed timeline of the battle choreography and camera movements.
-
-#### 📝 Prompt
-
-```
-A battle-hardened Valkyrie with braided platinum-blonde hair, war paint, winged runic plate armor, and a lightning-infused broadsword, rendered in cinematic dark-fantasy anime style, fluid high-frame-rate sakuga choreography, expressive hand-drawn line art, intense cold-tone cel shading, and atmospheric blizzard lighting.
-Timeline:
-0–4s: Dives off a sheer glacier edge into freefall as an ancient, jagged Frost Wyrm erupts from the ice wall beneath her, camera spiraling downward in tandem with her descent;
-4–10s: Uses her wings to bank hard through a dense barrage of icicle breath, deflects a tail swipe with her runic buckler, grapples onto the serpent’s icy scales, and runs upward along its spine against gale-force winds;
-10–15s: Channels pure lightning into her blade, plunging it between the wyrm’s horns as glacial rifts detonate around them, kicking off into the blizzard while the beast collapses into an icy chasm below, landing triumphantly on a jagged peak.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113351253958987776/img/j0eJvoueuYcNnKV9.jpg" width="600" alt="Valkyrie Frost Wyrm Anime Battle">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12928)**
-
-**Author:** [Iqra Saifi](https://x.com/IqrasaifiAI) | **Source:** [Link](https://x.com/IqrasaifiAI/status/2113351475015610871) | **Published:** Oct 22, 2026
-
----
-### Zebra Chase Bike Ride Adventure
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A 30-second cinematic video prompt of a woman biking through a forest who gets chased by zebras, ending with a comedic phone call moment.
-
-#### 📝 Prompt
-
-```
-Create a cinematic, photorealistic 30-second video of a young woman riding a bicycle along a dirt road through a lush green forest. She wears a black baseball cap, a loose blue T-shirt, black shorts, and white sneakers, with long brown hair flowing naturally behind her. She rides confidently with her arms stretched outward before looking back and noticing a large herd of zebras running toward her. She reacts with shock and fear, quickly grips the handlebars, and pedals faster as the zebras charge down the road, raising clouds of dust. Dozens of zebras run around her bicycle, creating an intense and thrilling chase scene. She eventually slows down, looks at her smartphone in disbelief, and raises it to her ear with wide eyes and an open mouth. Use smooth tracking shots, realistic bicycle movement, natural animal motion, detailed zebra stripes, flowing hair, dust particles, and soft daylight. Maintain consistent characters, realistic physics, and natural expressions throughout the video, with no unnatural morphing, no text, and no background music.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113222752371113986/img/BzYUW_lvbq3wlivV.jpg" width="600" alt="Zebra Chase Bike Ride Adventure">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12927)**
-
-**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2113222820570550355) | **Published:** Oct 22, 2026
-
----
-### Ultra-Realistic Spice Commercial Video Prompt for Seedance 2.0 Fast
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video generation prompt for creating an 8-second ultra-realistic food commercial featuring spice ingredients and product reveal, optimized for Seedance 2.0 Fast.
-
-#### 📝 Prompt
-
-```
-Create an 8-second premium food commercial for a spice brand called SpiceMix. Use ultra-realistic cinematic quality, luxury food advertisement style, photorealistic textures, premium CGI, realistic lighting, macro cinematography, smooth camera motion, shallow depth of field, warm golden highlights, and high-end commercial color grading. Every shot should feel energetic with fast commercial cuts, seamless transitions, and premium product advertising aesthetics.
-
-0.0–0.8s — Hero Ingredient Introduction
-
-Extreme macro shot of fresh green cardamom pods dropping onto a dark matte surface in slow motion. Tiny spice dust particles float through warm golden sunlight. Fast push-in camera movement.
-
-0.8–1.6s — Luxury Spice Sequence
-
-Quick cinematic cuts between cinnamon sticks, cloves, black peppercorns, cumin seeds, coriander seeds, star anise, dried red chilies, and bay leaves. Each ingredient rotates naturally in mid-air with beautiful macro focus, premium lighting, and floating aromatic particles.
-
-1.6–2.8s — Ingredients Explosion
-
-All spices burst upward simultaneously in slow motion, swirling around the camera. Rich spice dust fills the frame while the camera passes through the floating ingredients with dynamic movement and premium commercial energy.
-
-2.8–4.2s — Natural Blending
-
-The ingredients spiral into an elegant vortex, gradually transforming into colorful spice powder. Fine particles shimmer under warm golden lighting, creating a luxurious and appetizing visual.
-
-4.2–5.8s — Flavor Reveal
-
-The spice powder flows beautifully across a premium dark background, revealing fresh whole spices surrounding the center. Dramatic lighting creates a rich, mouthwatering food commercial appearance.
-
-5.8–8.0s — Product Hero Shot
-
-The swirling spices settle and reveal a premium SpiceMix spice box standing on a glossy black reflective surface. Whole spices elegantly surround the package while tiny spice particles continue floating. A slow cinematic push-in ends on the packaging displaying:
-
-SpiceMix
-Naturally Made
-
-No people. No kitchen. No utensils. Only premium ingredients, luxury food-commercial cinematography, macro product photography, energetic fast cuts, seamless transitions, realistic physics, photorealistic textures, premium CGI quality, rich warm color grading, and an elegant commercial finish.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113142312507478016/img/PqU9UcHTkbEoHb18.jpg" width="600" alt="Ultra-Realistic Spice Commercial Video Prompt for Seedance 2.0 Fast">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12925)**
-
-**Author:** [Olivia Jane](https://x.com/olivajaneAI) | **Source:** [Link](https://x.com/olivajaneAI/status/2113142343675297826) | **Published:** Oct 22, 2026
-
----
-### Seedance 2.0 Gym Comedy Video Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A comprehensive prompt for generating a 15-second vertical short video using Seedance 2.0. It features a young Asian woman in a gym who appears disciplined but ultimately reveals she is eating fried chicken and milk tea, with specific instructions for camera movement, lighting, and negative prompts.
-
-#### 📝 Prompt
-
-```
-15-second ultra-realistic funny short video, 9:16 vertical screen, mobile phone original camera documentary texture, real gym environment, soft indoor top light, throughout the process it looks like a friend casually following along, slight natural shaking, very strong lifestyle feel.
-
-[Character Setting]
-High-looking young Asian girl, natural light makeup, delicate and relaxed facial features, well-proportioned figure, gentle and cool temperament, real passerby feel, skin retains natural texture and subtle sweat beads, no influencer smoothing, no exaggerated plastic surgery face, natural body proportions. Face and body completely consistent with reference image.
-
-Shot 1 | 0-4 seconds Illusion of Discipline
-Bright and clean gym, background has a few people training and equipment. Girl seriously doing standard squats in free training area, movements smooth and stable. Camera follows from right rear handheld, first slowly retreating to keep full body in frame, then slightly rising as she stands up, like a friend walking and filming, picture has slight breathing feel and natural shaking, creating illusion that she is very disciplined and hardworking.
-
-Shot 2 | 4-8 seconds Misleading Continued Training
-Hard cut to side follow shot, girl standing lifting small dumbbells doing curl training, slightly sweating, seriously exerting force, expression calm and focused. Camera close to her front side following, first slight lateral movement, then slowly pushing in to upper body, background equipment naturally sweeping past, audience thinks this is a disciplined fitness video.
-
-Shot 3 | 8-12 seconds First Layer Reversal
-Girl suddenly puts down dumbbells, expression changes from focused to relaxed, takes a long breath. Camera continues handheld following her to training bench. She sits down, takes out fried chicken and iced milk tea from carry bag, actions natural and skilled, tears open packaging bag. Camera quickly but slightly pushes in when she takes things out, forming snapshot-style comedy effect.
-
-Shot 4 | 12-15 seconds Ultimate Reversal
-Camera directly pushes to close-up of face and fried chicken/milk tea in same frame. Girl calmly and naturally bites fried chicken, then drinks milk tea, looks at camera, says in casual tone: "Eat full to have strength to lose weight." After speaking, expression is calm, like saying something normal. Ending stays on her calm eating contrast face, handheld camera has extremely slight forward-backward shaking, enhancing friend's sneaky filming feel.
-
-[Picture Texture]
-Ultra-realistic live action, original camera HD quality, real skin texture, pores, sweat beads and natural skin color, slight environmental noise in gym, natural indoor top light, do not use movie-grade exquisite lighting. Camera movement mainly handheld follow, light push-in, light lateral movement, rhythm casual, do not use stabilizer smooth movement. Direct hard cuts between scenes, no fancy transitions.
-
-[Sound Effects]
-Gym distant equipment collision sounds, slight footsteps, girl's training breathing sounds, packaging bag tearing sound, fried chicken chewing sound, milk tea straw sound. Dialogue clear and natural, do not use exaggerated dubbing feel. Add short light funny music point after dialogue ends.
-
-[Negative Prompts]
-Deformed fingers, twisted limbs, extra fingers, missing fingers, face collapse, misaligned facial features, AI fake face, plastic skin, excessive beauty filter, silicone face, exaggerated contact lenses, deformed body, disproportionate, abnormal head-body ratio, floating objects, object clipping through, picture flickering, object drifting, cartoon rendering, 3D animation, hand-drawn, illustration, screen subtitles, text, flower text, watermark, logo, border, strong filter, soft light smoothing, stabilizer smooth movement, fixed camera position, stiff posing, stage lighting, pale fake light, excessive lighting, extra characters, messy distracting clutter, exaggerated performance, awkward acting, affected expressions
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113132456224382976/img/_cUXcO0MOe8bP9Cv.jpg" width="600" alt="Seedance 2.0 Gym Comedy Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12878)**
-
-**Author:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2113133135487713524) | **Published:** Oct 22, 2026
-
----
-### Cinematic Acrobatic Performance on Poles
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a 30-second cinematic video of a female acrobat performing flips and balances on wooden poles above a turquoise lake, emphasizing realistic physics and camera movement.
-
-#### 📝 Prompt
-
-```
-Create it 30-second video featuring a breathtaking cinematic acrobatic performance above a beautiful turquoise lake surrounded by lush green mountains, misty cliffs, and soft cloudy skies. A graceful female acrobat wearing a flowing white outfit performs incredible flips, handstands, aerial rotations, and perfectly controlled balancing moves on a series of tall, narrow wooden poles rising above the water. The camera captures her movements from wide cinematic angles and smooth tracking shots, highlighting her strength, flexibility, and balance against the stunning natural landscape. She leaps gracefully from one pole to another, spins through the air, and lands with precision on a wooden platform beside the lake, finishing with an elegant martial-arts-inspired pose with her arms extended. Use realistic human anatomy, natural body movements, accurate physics, fluid transitions, soft daylight, atmospheric mountain fog, crystal-clear water reflections, and ultra-realistic cinematic details. Keep the acrobat's face, hairstyle, outfit, and body proportions consistent throughout the video. The final result should look like a professionally filmed real-life acrobatic performance, with smooth camera movement, breathtaking scenery, and no text, logos, or visual distortions.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113128439465308160/img/HGilvSf7Uz9gtyIZ.jpg" width="600" alt="Cinematic Acrobatic Performance on Poles">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12877)**
-
-**Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2113128549930729895) | **Published:** Oct 22, 2026
-
----
-### Futuristic Driving POV 2050
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a 10-second ultra-photorealistic video showing a woman driving in 2050 with flying vehicles overhead, including detailed character and scene descriptions.
-
-#### 📝 Prompt
-
-```
-TITLE: POV — DRIVING IN 2050
-
-Create a 10-second ultra-photorealistic futuristic video showing a beautiful young woman casually driving along a highway in the year 2050, while hundreds of autonomous flying vehicles travel overhead in perfectly organized aerial traffic lanes.
-
-MAIN CHARACTER — STRICT IDENTITY CONSISTENCY
-
-A beautiful 23-year-old woman with long, straight pastel-pink hair, delicate facial features, realistic fair skin with visible natural texture, soft pink makeup, and subtle glossy lips.
-
-She wears:
-A fitted blue denim sleeveless top.
-A futuristic metallic silver choker necklace.
-Bright blue statement earrings.
-A black seatbelt across her chest.
-
-Maintain her exact face, hairstyle, outfit, proportions, and accessories throughout.
-
-SCENE 1 — 0:00–0:02 | INSIDE THE CAR
-Start with a fixed dashboard-mounted smartphone camera facing the woman from the passenger side.
-
-She sits behind the steering wheel of a modern luxury vehicle, driving casually.
-
-Warm golden-hour sunlight streams through the side window, illuminating her pink hair and face.
-
-She looks ahead at the road, then briefly glances toward the camera with a subtle, amused smile.
-
-The vehicle interior is realistic, with black leather seats, a dark roof, and natural windshield reflections.
-
-SCENE 2 — 0:02–0:04 | THE FUTURISTIC HIGHWAY REVEAL
-
-Hard cut to a spectacular elevated wide-angle view of a massive multilane highway at sunset.
-A dark luxury SUV drives along the nearly empty highway.
-
-Above the highway, hundreds of futuristic autonomous flying vehicles hover and travel in tightly organized aerial traffic lanes.
-
-The flying vehicles have compact aerodynamic bodies, metallic silver and dark-gray surfaces, and advanced concealed propulsion systems.
-
-They move smoothly in synchronized formations, maintaining precise distances from one another.
-
-Some fly directly above the highway while others stretch toward the horizon, creating a dense futuristic transportation network.
-
-Golden sunlight reflects off their metallic surfaces.
-
-SCENE 3 — 0:04–0:06 | BACK TO THE DRIVER
-
-Hard cut back to the same dashboard camera angle.
-
-The pink-haired woman continues driving completely unfazed by the extraordinary traffic system outside.
-She rests one hand naturally on the steering wheel and looks toward the windshield with a playful, slightly impressed expression.
-
-Sunlight shifts across her face as the vehicle moves.
-
-Her facial movements are subtle, natural, and believable.
-
-SCENE 4 — 0:06–0:08 | MASSIVE AERIAL TRAFFIC
-
-Cut to a dramatic elevated tracking shot following the dark SUV along the highway.
-
-The camera reveals an enormous formation of flying vehicles stretching across the sky.
-
-Several vehicles glide directly above the camera while hundreds more move across multiple aerial levels.
-The futuristic traffic looks technologically advanced but physically believable.
-
-Below, the dark SUV continues along the sunlit road, appearing calm amidst the chaos above.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2112913816610816000/img/jWaYNb3FtSMv5ePw.jpg" width="600" alt="Futuristic Driving POV 2050">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12872)**
-
-**Author:** [Sharon Riley](https://x.com/Just_sharon7) | **Source:** [Link](https://x.com/Just_sharon7/status/2112913908617158822) | **Published:** Oct 21, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -9448,6 +9625,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-13T01:12:33.058Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-13T12:14:16.913Z</sub>
 
 </div>
