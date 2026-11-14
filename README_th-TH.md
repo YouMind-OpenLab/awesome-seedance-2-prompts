@@ -525,7 +525,7 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=13794)**
 
-**ผู้เขียน:** [Adam也��米](https://x.com/Adam38363368936) | **แหล่งที่มา:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **เผยแพร่เมื่อ:** Nov 12, 2026
+**ผู้เขียน:** [Adam也叫吉米](https://x.com/Adam38363368936) | **แหล่งที่มา:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **เผยแพร่เมื่อ:** Nov 12, 2026
 
 ---
 ### พรอมต์ Seedance 2.5 สำหรับวิดีโอคอมเมดี้แนวเซียนเซีย 'Ren Huang Bu'
@@ -9134,6 +9134,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-11-14T00:59:34.882Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-11-14T11:34:08.550Z</sub>
 
 </div>

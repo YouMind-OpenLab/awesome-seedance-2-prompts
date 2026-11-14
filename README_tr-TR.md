@@ -507,7 +507,7 @@ Diyalog, dış ses, altyazı, metin veya filigran kesinlikle olmamalıdır.
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13794)**
 
-**Yazar:** [Adam也��米](https://x.com/Adam38363368936) | **Kaynak:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **Yayınlandı:** Nov 12, 2026
+**Yazar:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Kaynak:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **Yayınlandı:** Nov 12, 2026
 
 ---
 ### Seedance 2.5 Xianxia Komedi 'Ren Huang Bu' İstem Metni
@@ -9429,6 +9429,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-14T00:59:46.140Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-14T11:34:15.700Z</sub>
 
 </div>

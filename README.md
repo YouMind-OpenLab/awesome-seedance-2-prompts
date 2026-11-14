@@ -365,11 +365,11 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Great White Shark Rescue by Orca
+### Great Whites vs Orca Rescue Action Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt featuring a woman on a jet ski surrounded by sharks and saved by an orca whale.
+> A prompt for generating a dramatic 4K action video where a woman on a jet ski is surrounded by sharks and saved by an orca whale.
 
 #### 📝 Prompt
 
@@ -377,7 +377,7 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 Cinematic 4K action shot, low-angle perspective. A young blonde woman in a school uniform and life jacket rides a high-speed jet ski tearing across the ocean surface. Encircling the area is a massive circle of dozens of great white sharks surrounding an offshore oil rig. The jet ski hits a wave, she falls off into the water, sinking underwater as sharks circle closely. Suddenly, a massive orca whale appears, protecting her as she swims up to an oil platform ladder, looking back in awe and breathless relief. Photorealistic cinematic lighting, dramatic motion blur, high-end VFX blockbuster aesthetic, 9:16 vertical ratio.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2121113285676216320/img/8aP2AJdeiMTdIeGU.jpg" width="600" alt="Great White Shark Rescue by Orca">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121113285676216320/img/8aP2AJdeiMTdIeGU.jpg" width="600" alt="Great Whites vs Orca Rescue Action Scene">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13790)**
 
@@ -434,84 +434,74 @@ No gore, blood, serious injuries, identity drift, outfit changes, duplicated peo
 **Author:** [ZDuo.MoreAi](https://x.com/lnxinshng252654) | **Source:** [Link](https://x.com/lnxinshng252654/status/2120917789137392073) | **Published:** Nov 12, 2026
 
 ---
-### Seedance 2.0 Rainy Night Fight Scene Prompt
+### Rainy Night Action Fight Scene Video Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A prompt for creating a 15-second realistic cinematic rainy night action short with high-density close-quarters combat using Seedance 2.0.
+> A detailed prompt for generating a realistic cinematic action short of a rainy night fight scene with choreographed moves and camera angles.
 
 #### 📝 Prompt
 
 ```
-Generate a 15-second 16:9 horizontal realistic cinematic rainy night action short, generated directly from text.
+Generate a 15-second, 16:9 landscape realistic cinematic action short film of a rainy night fight scene, generated directly from text.
 
 [Core Requirements]
-High-density, fast-paced continuous close-quarters combat, like the most intense fight scene in a top-tier action movie, totaling 4 rounds of exchanges and 10 shots.
-The first frame is already in combat; no intro, walking, standoff, or posing.
-No slow motion throughout the entire clip; all actions are at real-time speed.
-Each shot lasts about 1 to 2 seconds, completing a clear offense/defense cycle and showing the result of the hit.
-Actions connect tightly between shots; the result of the previous action is the start of the next, with no pauses.
-Both sides attack and take hits; the male lead is suppressed in the beginning, fights back harder in the middle, and ends the fight with a final blow.
+High-density, fast-paced, continuous close-quarters combat, like the most intense fight scene in a top-tier action movie, totaling 4 rounds of exchanges and 10 shots.
+The first frame is already mid-combat, no intro, walking, standoff, or posing.
+No slow motion throughout; all actions are at real-time speed.
+Each shot lasts about 1-2 seconds, completing only one clear offense/defense move, showing the result after impact.
+Actions flow tightly between shots; the result of the previous action is the start of the next, with no pauses.
+Both parties attack and get hit; the male lead is suppressed in the first half, fights back harder in the second half, ending the fight with a final blow.
 
 [Characters]
-Male Lead: Young East Asian male, approx. 30 years old, short black hair, rugged features, sturdy and agile build. Wearing a black short jacket, dark grey t-shirt, dark cargo pants, and black short boots. Soaked in rain, with a slight scratch on the right eyebrow. He has no weapon.
-Opponent: A taller young male than the lead, wearing a dark hooded jacket and dark trousers, holding a short metal rod in his right hand.
-Only these two people appear in the entire clip; their appearance, clothing, and weapons remain consistent.
+Male Lead: Adult East Asian male, approx 30 years old, short black hair, rugged features, sturdy and agile build. Wearing a black short jacket, dark grey T-shirt, dark cargo pants, black boots, completely soaked by rain, slight scrape on right eyebrow. No weapons.
+Opponent: Adult male taller than the lead, wearing a dark hooded jacket, dark trousers, holding a short metal baton in right hand.
+Only these two people in the entire video; appearance, clothing, and weapons remain consistent.
 
 [Scene]
-A narrow city alley in heavy rain at night. Ground puddles reflect light, cold white street lamps in the alley, a warm yellow wall lamp on the wall, and a metal trash can against the wall.
-The entire clip takes place in the same alley; walls, trash can, and characters' positions must be coherent.
+Narrow city alleyway during heavy rain at night. Ground water reflects light, cold white street lamp at alley entrance, warm yellow wall lamp on wall, metal trash can against wall.
+Entire video takes place in this same alley; wall, trash can, and positions of both characters remain spatially consistent.
 
 [Storyboard]
 
 Round 1: Suppressed
-
-Shot 1 (0-1.5s): Side medium shot. Opponent swings the metal rod horizontally; male lead ducks sharply. The rod hits the metal trash can, denting it with a loud clang.
-
-Shot 2 (1.5-3s): Handheld follow. As the male lead looks up, the opponent slams him with a shoulder check, driving his back hard into the wall, shaking rainwater loose from the surface.
+Shot 1 (0-1.5s): Side medium shot. Opponent swings baton horizontally, male lead ducks sharply, baton hits metal trash can, denting it with a loud clang.
+Shot 2 (1.5-3s): Handheld tracking. As male lead looks up, opponent slams shoulder into him, male lead's back hits wall hard, shaking rainwater off the wall.
 
 Round 2: Disarm
+Shot 3 (3-4.5s): Side medium shot. Opponent raises baton to strike down at male lead's head, male lead dodges sideways, baton hits wall, debris flies.
+Shot 4 (4.5-6s): Close-up. Male lead locks opponent's wrist holding the baton, slams opponent's hand against wall, baton falls loose into puddle.
 
-Shot 3 (3-4.5s): Side medium shot. Opponent raises the rod to smash down on the male lead's head; the lead dodges sideways. The rod hits the wall, scattering debris.
+Round 3: Unarmed Combat
+Shot 5 (6-7.5s): Side medium shot. Opponent roars and throws right punch, male lead blocks with left forearm, immediately punches opponent's abdomen, causing them to bend over.
+Shot 6 (7.5-9s): Medium shot. Opponent follows up with left hook hitting male lead's face side, male lead's head turns, stumbles half-step, splashing water, then stabilizes.
 
-Shot 4 (4.5-6s): Close-up. The male lead grabs the opponent's wrists with both hands, slamming them against the wall. The metal rod slips from his hand and falls into the puddle.
+Round 4: Counter-Kill
+Shot 7 (9-10.5s): Close-up tracking. Male lead lowers body and charges into opponent, delivering two short punches to ribs, pushing opponent back.
+Shot 8 (10.5-12s): Medium shot. Opponent swings again, male lead sidesteps, heavy punch hits opponent's jaw, opponent's head snaps back, staggering.
+Shot 9 (12-13.5s): Wider medium shot. Male lead grabs opponent's jacket, uses momentum to throw opponent sideways, knocking over metal trash can, opponent falls into puddle with large splash, unable to get up.
+Shot 10 (13.5-15s): Male lead face close-up. Standing in rain, chest heaving rapidly, rain dripping from hair and face, fierce gaze fixed on fallen opponent. End.
 
-Round 3: Bare-handed Brawl
-
-Shot 5 (6-7.5s): Side medium shot. Opponent roars and throws a right punch; the male lead blocks with his left arm and immediately lands a hook on the opponent's abdomen, causing him to bend over.
-
-Shot 6 (7.5-9s): Medium shot. The opponent counters with a left hook hitting the male lead's cheek; the lead's head snaps aside, stumbling two steps, splashing puddle water, but he quickly stabilizes.
-
-Round 4: Finisher
-
-Shot 7 (9-10.5s): Close-up follow. The male lead lowers his body and charges into the opponent's guard, landing two short punches on the ribs, pushing the opponent back.
-
-Shot 8 (10.5-12s): Medium shot. Opponent swings again; the male lead dodges sideways and lands an uppercut on the jaw. The opponent's head snaps back, staggering.
-
-Shot 9 (12-13.5s): Wider medium shot. The male lead grabs the opponent's jacket and uses the momentum to throw him sideways. The opponent crashes into the metal trash can, falling backward into the puddle with a splash, unable to get up.
-
-Shot 10 (13.5-15s): Male lead face close-up. He stands in the rain, chest heaving, rain dripping from his hair and face, staring fiercely at the fallen opponent. The scene ends abruptly.
-
-[Action and Cinematography]
-Realistic cinematic texture, contrasting cool/warm lighting in the rainy night, visible raindrops.
-Every punch and rod strike must make contact with the target, resulting in force absorption, retreat, or imbalance. No hitting air, no falling without contact.
-Punches show wind-up and recoil, feet plant firmly, puddles splash on impact, clothes fling off water droplets.
-Slight camera shake on impact is allowed, but the hit location must be clear.
-Character left/right positioning remains consistent between adjacent shots; no teleporting, clipping, extra limbs, or weapons.
-The dropped metal rod stays on the ground; no one picks it up.
-No flips, flying kicks, or superpowers; no gore close-ups.
+[Action & Cinematography]
+Realistic cinematic texture, cool-warm contrast lighting in rainy night, visible rain streaks.
+Every punch/baton must contact target before body reaction/recoil/imbalance occurs; no air-hits, no premature falling.
+Punches show exertion and recoil, footsteps plant firmly, impacts splash water, clothes fling droplets.
+Slight camera shake allowed on impact, but must clearly show who hit whom.
+Left/right positioning consistent between adjacent shots; no teleporting, clipping, extra limbs/weapons.
+Metal baton stays on ground once dropped; nobody picks it up.
+No flips, flying kicks, superpowers, or gore close-ups.
 
 [Sound]
-Continuous heavy rain. Sounds of rod hitting bucket, back hitting wall, splashes, punches connecting, and trash can tipping must sync perfectly with visuals. Punch sounds are short and powerful.
-Intense, fast drum-heavy action music starts from the first second, peaking at the final throw, ending with rain and breathing sounds.
-No dialogue, narration, subtitles, text, or watermarks.
+Continuous heavy rain sound. Baton hitting can, back hitting wall, baton falling in water, each punch impact, trash can tipping sounds synced accurately with visuals, punch sounds short and powerful.
+Tense, fast, drum-heavy action score from second 1, peaking at final throw, ending with rain and panting.
+No dialogue, narration, subtitles, text, or watermark.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2120891252908695552/img/qL40UjZsNm2ySdzS.jpg" width="600" alt="Seedance 2.0 Rainy Night Fight Scene Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120891252908695552/img/qL40UjZsNm2ySdzS.jpg" width="600" alt="Rainy Night Action Fight Scene Video Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13794)**
 
-**Author:** [Adam也��米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **Published:** Nov 12, 2026
+**Author:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **Published:** Nov 12, 2026
 
 ---
 ### Seedance 2.5 Xianxia Comedy 'Ren Huang Bu' Prompt
@@ -9625,6 +9615,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-14T00:59:29.067Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-14T11:34:03.772Z</sub>
 
 </div>

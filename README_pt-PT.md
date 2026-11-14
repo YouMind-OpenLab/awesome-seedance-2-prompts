@@ -519,7 +519,7 @@ Sem diálogos, narrações, legendas, textos ou marcas d'água.
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13794)**
 
-**Autor:** [Adam也��米](https://x.com/Adam38363368936) | **Fonte:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **Publicado:** Nov 12, 2026
+**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fonte:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **Publicado:** Nov 12, 2026
 
 ---
 ### Prompt Seedance 2.5 para Comédia Xianxia 'Ren Huang Bu'
@@ -9439,6 +9439,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-14T00:59:45.206Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-14T11:34:15.080Z</sub>
 
 </div>

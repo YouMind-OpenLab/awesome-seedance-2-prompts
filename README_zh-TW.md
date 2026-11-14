@@ -519,7 +519,7 @@
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=13794)**
 
-**作者:** [Adam也��米](https://x.com/Adam38363368936) | **來源:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **發布時間:** Nov 12, 2026
+**作者:** [Adam也叫吉米](https://x.com/Adam38363368936) | **來源:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **發布時間:** Nov 12, 2026
 
 ---
 ### Seedance 2.5 仙俠喜劇《人皇布》提示詞
@@ -9170,6 +9170,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-14T00:59:31.557Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-14T11:34:05.542Z</sub>
 
 </div>

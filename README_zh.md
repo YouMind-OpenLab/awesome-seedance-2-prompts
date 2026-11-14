@@ -519,7 +519,7 @@
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=13794)**
 
-**作者:** [Adam也��米](https://x.com/Adam38363368936) | **来源:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **发布时间:** Nov 12, 2026
+**作者:** [Adam也叫吉米](https://x.com/Adam38363368936) | **来源:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **发布时间:** Nov 12, 2026
 
 ---
 ### Seedance 2.5 仙侠喜剧《人皇不》提示词
@@ -9181,6 +9181,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-14T00:59:30.319Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-14T11:34:04.728Z</sub>
 
 </div>

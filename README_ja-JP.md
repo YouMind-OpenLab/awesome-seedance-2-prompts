@@ -519,7 +519,7 @@ Seedance 2.0 を使用して、夜のシネマティックなストリートレ�
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=13794)**
 
-**作者:** [Adam也��米](https://x.com/Adam38363368936) | **ソース:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **公開日:** Nov 12, 2026
+**作者:** [Adam也叫吉米](https://x.com/Adam38363368936) | **ソース:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **公開日:** Nov 12, 2026
 
 ---
 ### Seedance 2.5 仙侠コメディ「人皇布」プロンプト
@@ -9228,6 +9228,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-11-14T00:59:32.598Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-11-14T11:34:06.484Z</sub>
 
 </div>

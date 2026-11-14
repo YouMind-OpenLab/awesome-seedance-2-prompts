@@ -519,7 +519,7 @@ Seedance 2.0을 사용하여 야간 스트리트 레이싱 시퀀스를 생성�
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=13794)**
 
-**작성자:** [Adam也��米](https://x.com/Adam38363368936) | **출처:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **게시일:** Nov 12, 2026
+**작성자:** [Adam也叫吉米](https://x.com/Adam38363368936) | **출처:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **게시일:** Nov 12, 2026
 
 ---
 ### Seedance 2.5 선협 코미디 'Ren Huang Bu' 프롬프트
@@ -9151,6 +9151,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-14T00:59:33.664Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-11-14T11:34:07.466Z</sub>
 
 </div>

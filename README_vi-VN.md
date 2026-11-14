@@ -507,7 +507,7 @@ Không lời thoại, không thuyết minh, không phụ đề, không chữ vi�
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13794)**
 
-**Tác giả:** [Adam也��米](https://x.com/Adam38363368936) | **Nguồn:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **Đã xuất bản:** Nov 12, 2026
+**Tác giả:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Nguồn:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **Đã xuất bản:** Nov 12, 2026
 
 ---
 ### Prompt cho video hài tiên hiệp Seedance 2.5 'Ren Huang Bu'
@@ -9483,6 +9483,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-14T00:59:36.087Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-14T11:34:09.347Z</sub>
 
 </div>

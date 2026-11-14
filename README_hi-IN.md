@@ -519,7 +519,7 @@ Seedance 2.0 का उपयोग करके रात में सिन�
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=13794)**
 
-**लेखक:** [Adam也��米](https://x.com/Adam38363368936) | **स्रोत:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **प्रकाशित:** Nov 12, 2026
+**लेखक:** [Adam也叫吉米](https://x.com/Adam38363368936) | **स्रोत:** [Link](https://x.com/Adam38363368936/status/2120891700050903324) | **प्रकाशित:** Nov 12, 2026
 
 ---
 ### Seedance 2.5 ज़ियान्शिया कॉमेडी 'Ren Huang Bu' प्रॉम्प्ट
@@ -9566,6 +9566,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-11-14T00:59:37.444Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-11-14T11:34:10.177Z</sub>
 
 </div>
