@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6684** |
+| 📝 Total de prompts | **6686** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-11-15** |
 
@@ -361,6 +361,157 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Prompt de Ação Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt detalhado para gerar um vídeo curto de ação cinematográfico realista, com uma protagonista feminina lutando contra dois oponentes masculinos em um terraço urbano ao entardecer.
+
+#### 📝 Prompt
+
+```
+Gere um curta-metragem de ação cinematográfico realista de 15 segundos, formato paisagem 16:9, gerado diretamente a partir de texto.
+
+[Requisitos Principais]
+Combate corpo a corpo contínuo, de alta densidade e ritmo acelerado, como a cena de luta mais intensa de um filme de ação de primeira linha, com 4 rodadas de confronto e 10 planos.
+O primeiro quadro já começa no meio da luta; sem introdução, caminhada, impasse ou poses.
+Sem câmera lenta durante todo o filme; todas as ações ocorrem em velocidade real.
+Cada plano dura cerca de 1 a 2 segundos, completando um movimento claro de ataque/defesa e mostrando o resultado do golpe.
+As ações são perfeitamente conectadas entre os planos; o resultado da ação anterior é o início da próxima, sem pausas.
+A protagonista feminina luta contra dois oponentes ao mesmo tempo; eles se alternam nos ataques, sendo que apenas um ataca ativamente por vez. A protagonista fica na defensiva na primeira metade, mas se torna mais agressiva na segunda, encerrando a batalha com um golpe final.
+
+[Personagens]
+Protagonista Feminina: Uma mulher adulta do leste asiático, com cerca de 26 anos, traços bonitos, cabelos pretos na altura dos ombros, físico forte e bem proporcionado. Veste uma blusa branca cropped, shorts cargo preto de cintura alta e tênis pretos. Não usa armas.
+Oponente A: Um homem adulto alto, cabelo raspado (buzz cut), vestindo uma camiseta preta de manga curta e jeans escuro, segurando um bastão de madeira na mão direita.
+Oponente B: Um homem adulto magro, cabelo curto e cacheado, vestindo uma jaqueta esportiva vermelha e calça esportiva preta, desarmado.
+Apenas essas três pessoas aparecem em todo o filme; suas aparências, roupas e armas permanecem consistentes do início ao fim. As cores das roupas dos dois oponentes são claramente distintas.
+
+[Cenário]
+A cobertura de um prédio alto na cidade, ao entardecer. Luz dourada do pôr do sol vindo de um lado do quadro, com o horizonte da cidade visível ao fundo. Na cobertura, há uma unidade externa de ar-condicionado cinza, uma fileira de muretas de concreto na altura da cintura e piso de cerâmica cinza.
+Todo o filme acontece nesta mesma cobertura; as posições do aparelho de ar-condicionado, das muretas e dos três personagens mantêm coerência espacial do início ao fim. Todo o combate ocorre longe da borda da mureta; ninguém cai do prédio.
+
+[Storyboard]
+
+Rodada 1: Sob pressão
+Plano 1 (0-1,5s): Plano médio lateral. O Oponente A desfere um golpe horizontal com o bastão; a protagonista abaixa para desviar, e o bastão acerta a unidade de ar-condicionado, amassando a carcaça com um estrondo.
+Plano 2 (1,5-3s): Plano de acompanhamento com câmera na mão. O Oponente B avança pela lateral e acerta um soco no ombro da protagonista, fazendo-a cambalear dois passos para trás.
+
+Rodada 2: Desarmamento
+Plano 3 (3-4,5s): Plano médio. O Oponente A desce o bastão novamente; a protagonista esquiva para o lado, e o bastão bate no chão.
+Plano 4 (4,5-6s): Close-up. A protagonista pisa no bastão, aplica um golpe com a lateral da mão (faca) no pulso do Oponente A, desarmando-o, e então chuta o bastão para longe, atrás da unidade de ar-condicionado.
+
+Rodada 3: Derrubando o Oponente B primeiro
+Plano 5 (6-7,5s): Plano médio. O Oponente B lança socos; a protagonista bloqueia com o antebraço e acerta um soco de direita no abdômen dele, dobrando-o para frente.
+Plano 6 (7,5-9s): Plano médio. A protagonista agarra os ombros do Oponente B e desfere uma joelhada no peito dele, jogando-o de costas no chão, onde ele fica encolhido e incapaz de se levantar.
+
+Rodada 4: Duelo com o Oponente A
+Plano 7 (9-10,5s): Plano médio. O Oponente A agarra o braço da protagonista por trás; ela gira e lhe acerta uma cotovelada no maxilar, jogando a cabeça dele para trás.
+Plano 8 (10,5-12s): Close-up em movimento. O Oponente A desfere um soco pesado que acerta o lado do rosto da protagonista; o cabelo dela voa, ela cambaleia meio passo, recupera o equilíbrio e acerta dois jabs rápidos no abdômen do Oponente A.
+Plano 9 (12-13,5s): Plano médio mais aberto. A protagonista agarra a gola do Oponente A e usa o impulso dele para frente para arremessá-lo contra o piso. O Oponente A cai e não consegue se levantar; o Oponente B continua caído no chão, ali perto.
+Plano 10 (13,5-15s): Close-up no rosto da protagonista, delineado pela luz dourada do pôr do sol. Ela respira ofegante, com o cabelo balançando ao vento, olhando fixamente para os oponentes caídos. A imagem corta abruptamente.
+
+[Ação e Cinematografia]
+Qualidade cinematográfica realista, luz de fundo dourada do entardecer, luz de recorte nas bordas dos personagens, rostos claramente visíveis.
+Todo soco e chute deve fazer contato com o alvo primeiro, seguido pelo impacto no corpo, recuo ou perda de equilíbrio; sem socos no vazio, sem quedas prematuras antes do contato.
+Os dois oponentes atacam em turnos, não agarrando a protagonista simultaneamente; quem é derrubado não se levanta para voltar à luta.
+É permitido um leve tremor de câmera no momento dos impactos, mas deve ficar claro quem está acertando quem.
+As posições dos três personagens permanecem consistentes entre planos consecutivos; sem teletransporte, sobreposição de objetos ou mãos/personagens/armas extras.
+O bastão chutado permanece atrás da unidade de ar-condicionado; ninguém o pega novamente.
+Sem acrobacias, chutes voadores ou superpoderes; sem close-ups sangrentos. Foco na ação, evitando close-ups desnecessários em partes do corpo.
+
+[Som]
+Vento na cobertura e ruídos distantes da cidade. Os sons do bastão batendo no ar-condicionado, de cada golpe, do bastão sendo chutado e dos corpos caindo devem estar perfeitamente sincronizados com as imagens.
+Uma música de ação intensa, acelerada e com forte presença de bateria começa no primeiro segundo, atingindo intensidade máxima durante o arremesso final, e termina com o som do vento e a respiração ofegante.
+Sem diálogos, narração, legendas, textos ou marcas d'água. Proporção de tela 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121536502622740480/img/47NQuQWyR7VKTVlc.jpg" width="600" alt="Prompt de Ação Seedance 2.0">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13864)**
+
+**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fonte:** [Link](https://x.com/Adam38363368936/status/2121537568961384863) | **Publicado:** Nov 14, 2026
+
+---
+### Prompt de Cena Realista de Luta na Cozinha para Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt detalhado para geração de vídeo com o Seedance 2.0, criando uma sequência cinematográfica de ação de 15 segundos com dois homens lutando em uma cozinha estreita de restaurante, apresentando coreografia específica, ângulos de câmera e design de som.
+
+#### 📝 Prompt
+
+```
+Gere um curta-metragem de ação cinematográfico realista de 15 segundos, formato paisagem 16:9, criado diretamente a partir de texto.
+
+[Requisitos Principais]
+Combate corpo a corpo contínuo, frenético e de alta densidade, como a cena de luta mais intensa de um filme de ação de primeira linha, composto por 4 rodadas de trocas e 10 planos.
+O primeiro quadro já começa no meio da luta; sem introdução, caminhada, impasse ou poses.
+Sem câmera lenta em nenhum momento; todas as ações ocorrem em velocidade real.
+Cada plano dura cerca de 1 a 2 segundos, executando apenas um ataque ou defesa claro, com resultados visíveis após os impactos.
+As ações são perfeitamente conectadas entre os planos; o resultado do movimento anterior é o ponto de partida do próximo, sem pausas.
+Ambos atacam e sofrem danos; o protagonista é pressionado na primeira metade, reage com muito mais força na segunda e encerra o combate com um golpe final.
+
+[Personagens]
+Protagonista: Homem adulto leste-asiático, aproximadamente 32 anos, cabelo curto, traços rústicos, físico magro e musculoso. Veste uma camiseta branca de manga curta, jeans escuro e botas curtas pretas, com manchas na camiseta. Não possui armas.
+Oponente: Homem adulto corpulento vestindo um uniforme branco de cozinheiro sujo e avental preto, segurando um cutelo de cozinha na mão direita.
+Apenas essas duas pessoas aparecem durante todo o vídeo; suas aparências, roupas e armas permanecem consistentes.
+
+[Cenário]
+Uma cozinha estreita nos fundos de um restaurante noturno. Iluminação amarela quente, longas bancadas de aço inox encostadas na parede com bandejas de metal sobre elas, uma panela grande de sopa no fogão e panelas penduradas nas paredes.
+Todo o vídeo se passa nessa mesma cozinha; as posições das bancadas, da panela de sopa e dos dois personagens mantêm coerência espacial do início ao fim.
+
+[Storyboard]
+
+Rodada 1: Pressionado
+
+Plano 1 (0–1,5s): Plano médio lateral. O oponente desfere um corte horizontal com a faca; o protagonista esquiva para trás, a lâmina acerta a borda da bancada de aço inox, gerando faíscas e estalos metálicos.
+
+Plano 2 (1,5–3s): Plano de acompanhamento com câmera na mão. O oponente dá uma ombrada no protagonista, prensando a parte inferior das costas dele contra a bancada, fazendo as bandejas de metal caírem com estrondo no chão.
+
+Rodada 2: Desarmamento
+
+Plano 3 (3–4,5s): Plano médio lateral. O oponente ergue a faca para golpear de cima para baixo; o protagonista agarra o pulso armado do oponente com as duas mãos, travando a lâmina no ar entre eles.
+
+Plano 4 (4,5–6s): Close-up. O protagonista bate o pulso do oponente com força contra a borda da bancada, o cutelo escapa da mão, e ele chuta a faca para bem debaixo da bancada.
+
+Rodada 3: Briga Desarmada
+
+Plano 5 (6–7,5s): Plano médio. O oponente ruge e lança um soco pesado; o protagonista abaixa o corpo e acerta um gancho de direita no abdômen do oponente, dobrando-o para frente.
+
+Plano 6 (7,5–9s): Plano médio. O oponente agarra uma bandeja de metal e a esmaga contra o ombro do protagonista, amassando-a; o protagonista cambaleia, mas recupera o equilíbrio.
+
+Rodada 4: Contra-ataque Final
+
+Plano 7 (9–10,5s): Plano de acompanhamento em close-up. O protagonista desvia o braço do oponente, a bandeja cai, e ele desfere dois socos curtos e rápidos no maxilar e no peito do adversário, empurrando-o para trás.
+
+Plano 8 (10,5–12s): Plano médio. O oponente avança novamente; o protagonista sai pela lateral, agarra a nuca dele e pressiona seu tronco contra a bancada, batendo o peito do adversário com força na superfície.
+
+Plano 9 (12–13,5s): Plano médio ligeiramente mais aberto. O oponente tenta se levantar e reagir; o protagonista acerta um soco forte na lateral do rosto dele, jogando-o contra as panelas penduradas na parede. Ambos caem junto com as panelas, e o oponente não consegue mais se levantar.
+
+Plano 10 (13,5–15s): Close-up no rosto do protagonista. Suando muito, ofegante, encarando ferozmente o oponente caído. A imagem corta abruptamente.
+
+[Ação e Cinematografia]
+Qualidade cinematográfica realista, iluminação amarela quente, reflexos naturais nas superfícies de aço inox, leve vapor no ar.
+Cada soco e impacto precisa atingir o alvo antes de mostrar a reação corporal, o recuo ou o desequilíbrio; nada de socar o ar ou cair antes do contato.
+O espaço é apertado, as ações são compactas e em curta distância, usando a bancada e as paredes como apoio.
+É permitido um leve tremor de câmera nos impactos, mas deve ficar claro quem atingiu quem.
+O posicionamento esquerdo-direito dos personagens permanece consistente entre planos consecutivos; sem teletransporte, objetos atravessando uns aos outros ou membros/armas extras.
+O cutelo continua debaixo da bancada após ser chutado; ninguém o pega de novo, e a faca não toca o corpo de ninguém.
+Sem acrobacias, chutes voadores ou superpoderes; sem sangue ou ferimentos.
+
+[Som]
+Zumbido grave do exaustor da cozinha. Os sons da faca batendo na mesa, das bandejas caindo, do chute afastando a faca, de cada soco acertando o alvo e das panelas tombando devem estar perfeitamente sincronizados com a imagem, com estalos metálicos nítidos e altos.
+Trilha sonora de ação tensa, acelerada e com forte presença de percussão começa desde o primeiro segundo, atinge o pico de intensidade quando as panelas caem e termina com a respiração ofegante e o barulho das panelas balançando.
+Sem diálogos, sem narração, sem legendas, sem textos, sem marcas d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121237846946390016/img/rRg7Sh7Gk1HirQCt.jpg" width="600" alt="Prompt de Cena Realista de Luta na Cozinha para Seedance 2.0">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13865)**
+
+**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fonte:** [Link](https://x.com/Adam38363368936/status/2121238474523394531) | **Publicado:** Nov 13, 2026
+
+---
 ### Resgate de Tubarão-branco por Orca
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9395,44 +9546,6 @@ Crie um vídeo cinematográfico e ultrarrealista de um guerreiro destemido, com 
 **Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Publicado:** Oct 24, 2026
 
 ---
-### Queda das Ilhas Flutuantes do Sol - Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para um vídeo de queda do sol em direção a ilhas flutuantes de engrenagens, gerado com Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Caindo do sol em direção a ilhas flutuantes de engrenagens, deixando um rastro ciano atrás de si, até que um olho azul preenche toda a tela.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113525908065701888/pu/img/o4uirHvMrYyaolPq.jpg" width="600" alt="Queda das Ilhas Flutuantes do Sol - Seedance 2.0">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12968)**
-
-**Autor:** [MxCaptures | AI VFX & Cinematic AI Artist](https://x.com/MxCaptures) | **Fonte:** [Link](https://x.com/MxCaptures/status/2113525990592848305) | **Publicado:** Oct 23, 2026
-
----
-### Filme Cinematográfico Estilo de Vida em Seul
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo fotorealista de 27 segundos que retrata o dia de uma jovem coreana em Seul, transitando do escritório para a rua e depois para o terraço, com instruções específicas de câmera e iluminação.
-
-#### 📝 Prompt
-
-```
-Crie um filme cinematográfico de lifestyle fotorrealista de 27 segundos, mostrando uma jovem coreana vivendo um dia tranquilo em Seul, com uma atmosfera natural, emotiva e slice-of-life. Comece dentro de um escritório ou espaço de estudos moderno, enquanto ela se espreguiça suavemente na mesa, e depois mostre-a caminhando por um corredor iluminado pelo sol, com luz dourada quente e sombras realistas. Capture-a andando por uma rua movimentada de Seul usando um look relaxante em tons creme, com um plano aberto cinematográfico em ângulo baixo (low-angle) e um close-up dela sorrindo naturalmente para a câmera. Mostre-a esperando em uma estação de metrô, parada perto da plataforma, e checando o smartphone silenciosamente ao lado da janela do trem. Faça a transição para closes intimistas do rosto dela, com textura natural e suave da pele, expressões sutis e reflexos delicados das luzes da cidade. Em seguida, mostre-a saboreando uma bebida gelada junto à janela aconchegante de um café, apoiando a mão no rosto enquanto observa a rua lá fora. Inclua o interior acolhedor do café, um close-up dela mexendo no celular e um passeio noturno e sereno por uma rua de Seul suavemente iluminada. Termine com ela parada em um terraço durante a blue hour, aproveitando a brisa fresca da noite antes de se virar para a câmera com um sorriso doce e sincero. Use movimentos humanos realistas, identidade facial consistente, maquiagem natural, ambientes urbanos coreanos autênticos, profundidade de campo reduzida, estética cinematográfica de lente 35mm, granulação suave de película, realces quentes, tons azulados frios de fim de tarde e movimentos fluidos de câmera na mão. Mantenha a mesma personagem, penteado, traços faciais e continuidade de figurino do início ao fim, sem pele artificial, expressões exageradas, mãos distorcidas, transições bruscas ou textos e logotipos indesejados. Composição vertical 9:16, estética premium de comercial de lifestyle coreano.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113502570014822400/img/pa6RpHmgQ4rNZE4-.jpg" width="600" alt="Filme Cinematográfico Estilo de Vida em Seul">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12926)**
-
-**Autor:** [liana](https://x.com/Lianaalane) | **Fonte:** [Link](https://x.com/Lianaalane/status/2113502626016825590) | **Publicado:** Oct 23, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -9494,6 +9607,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-15T05:22:11.312Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-15T15:42:20.496Z</sub>
 
 </div>

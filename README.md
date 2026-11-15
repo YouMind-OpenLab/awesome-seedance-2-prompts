@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6684** |
+| 📝 Total Prompts | **6686** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-11-15** |
 
@@ -365,6 +365,157 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Seedance 2.0 Action Fight Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for generating a realistic cinematic action short video featuring a female protagonist fighting two male opponents on a city rooftop at dusk.
+
+#### 📝 Prompt
+
+```
+Generate a 15-second, 16:9 landscape realistic cinematic action short film, generated directly from text.
+
+[Core Requirements]
+High-density, fast-paced, continuous close-quarters combat, like the most intense fight scene in a top-tier action movie, with 4 rounds of engagement and 10 shots.
+The first frame is already mid-combat; no intro, walking, standoff, or posing.
+No slow motion throughout the entire film; all actions are at real-time speed.
+Each shot lasts about 1 to 2 seconds, completing one clear attack/defense move, showing the result of the hit.
+Actions are tightly connected between shots; the result of the previous action is the start of the next, with no pauses.
+The female protagonist fights two against one; the two opponents take turns attacking, only one actively strikes at a time. The protagonist is suppressed in the first half but becomes more aggressive in the second half, ending the battle with a final blow.
+
+[Characters]
+Female Protagonist: An adult East Asian woman around 26 years old, beautiful features, black shoulder-length hair, well-proportioned and strong physique. Wears a white cropped shirt, black high-waisted cargo shorts, and black sneakers. She has no weapons.
+Opponent A: A tall adult male, buzz cut, wearing a black short-sleeved T-shirt and dark jeans, holding a wooden stick in his right hand.
+Opponent B: A lean adult male, short curly hair, wearing a red sports jacket and black sports pants, unarmed.
+Only these three people appear in the entire film; their appearances, clothing, and weapons remain consistent throughout. The clothing colors of the two opponents are clearly distinct.
+
+[Scene]
+A city high-rise rooftop at dusk. Golden sunset backlighting from one side of the frame, distant city skyline visible. There is a gray air conditioning outdoor unit, a row of waist-high concrete railings, and gray floor tiles on the rooftop.
+The entire film takes place on this same rooftop; the positions of the AC unit, railings, and the three characters remain coherent front-to-back. All combat occurs away from the railing edge; no one falls off the building.
+
+[Storyboard]
+
+Round 1: Suppressed
+Shot 1 (0-1.5s): Side medium shot. Opponent A swings the stick horizontally; the protagonist ducks to avoid it, and the stick hits the AC unit, denting the casing with a loud noise.
+Shot 2 (1.5-3s): Handheld tracking shot. Opponent B rushes from the side, punching the protagonist's shoulder, causing her to stagger back two steps.
+
+Round 2: Disarming
+Shot 3 (3-4.5s): Medium shot. Opponent A swings the stick down again; the protagonist dodges sideways, and the stick hits the floor tiles.
+Shot 4 (4.5-6s): Close-up. The protagonist steps on the stick, chops opponent A's wrist with a knife-hand strike, disarming him, then kicks the stick far behind the AC unit.
+
+Round 3: Taking Down Opponent B First
+Shot 5 (6-7.5s): Medium shot. Opponent B throws punches; the protagonist blocks with her forearm and lands a right punch on his abdomen, bending him over.
+Shot 6 (7.5-9s): Medium shot. The protagonist grabs opponent B's shoulders and delivers a knee strike to his chest, knocking him backward onto the ground, curled up and unable to rise.
+
+Round 4: Duel with Opponent A
+Shot 7 (9-10.5s): Medium shot. Opponent A grabs the protagonist's arm from behind; she turns and elbows him in the jaw, snapping his head back.
+Shot 8 (10.5-12s): Close-up tracking. Opponent A throws a heavy punch hitting the side of the protagonist's face; her hair flies, she staggers half a step, then stabilizes and lands two quick jabs on opponent A's abdomen.
+Shot 9 (12-13.5s): Wider medium shot. The protagonist grabs opponent A's collar, using his forward-leaning momentum to throw him onto the floor tiles. Opponent A falls and cannot get up; opponent B remains lying on the ground nearby.
+Shot 10 (13.5-15s): Close-up of the protagonist's face, outlined by the golden sunset backlight. She breathes heavily, hair blowing in the wind, looking sharply at the fallen opponents. The image ends abruptly.
+
+[Action & Cinematography]
+Realistic cinematic quality, golden dusk backlighting, rim light on character edges, faces clearly visible.
+Every punch and kick must contact the target first, followed by body impact, retreat, or loss of balance; no air punches, no premature falling without contact.
+The two opponents take turns attacking, not simultaneously grappling the protagonist; those knocked down do not get up to rejoin the fight.
+Slight camera shake is allowed upon impact, but who hits whom must be clear.
+Positions of the three characters remain consistent between adjacent shots; no teleporting, clipping, or extra hands/characters/weapons.
+The kicked-away stick stays behind the AC unit; no one picks it up again.
+No flips, flying kicks, or superpowers; no bloody close-ups. Focus on action, avoiding gratuitous body part close-ups.
+
+[Sound]
+Wind on the rooftop and distant city noise. Sounds of the stick hitting the AC unit, each hit, the stick being kicked away, and bodies falling sync accurately with the visuals.
+Intense, fast-paced, drum-heavy action music starts from the first second, reaching maximum intensity during the final throw, ending with wind sounds and heavy breathing.
+No dialogue, narration, subtitles, text, or watermarks. 16:9 aspect ratio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121536502622740480/img/47NQuQWyR7VKTVlc.jpg" width="600" alt="Seedance 2.0 Action Fight Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13864)**
+
+**Author:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2121537568961384863) | **Published:** Nov 14, 2026
+
+---
+### Seedance 2.0 Realistic Kitchen Fight Scene Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed video generation prompt for Seedance 2.0 creating a 15-second cinematic action sequence of two men fighting in a narrow restaurant kitchen, featuring specific choreography, camera angles, and sound design.
+
+#### 📝 Prompt
+
+```
+Generate a 15-second, 16:9 landscape realistic cinematic action short film, generated directly from text.
+
+[Core Requirements]
+High-density, fast-paced, continuous close-quarters combat, like the most intense fight scene in a top-tier action movie, consisting of 4 rounds of exchanges and 10 shots.
+The first frame is already mid-combat; no intro, walking, standoff, or posing.
+No slow motion throughout; all actions are at real-time speed.
+Each shot lasts about 1 to 2 seconds, completing only one clear offense/defense, with visible results after hits.
+Actions are tightly connected between shots; the result of the previous action is the start of the next, with no pauses.
+Both parties attack and take damage; the protagonist is suppressed in the first half, fights back harder in the second half, and ends the battle with a final blow.
+
+[Characters]
+Protagonist: An adult East Asian male, approximately 32 years old, short hair, rugged features, lean and muscular build. Wearing a white short-sleeved T-shirt, dark jeans, and black short boots, with stains on the T-shirt. He has no weapons.
+Opponent: A burly adult male wearing a dirty white chef's uniform and black apron, holding a kitchen cleaver in his right hand.
+Only these two people appear throughout; their appearances, clothing, and weapons remain consistent.
+
+[Scene]
+A narrow back kitchen of a late-night restaurant. Warm yellow lighting, long stainless steel workstations against the wall with metal trays on them, a large soup pot on the stove, and pots hanging on the walls.
+The entire video takes place in this same kitchen; the positions of the workstations, soup pot, and the two characters remain coherent front-to-back.
+
+[Storyboard]
+
+Round 1: Suppressed
+
+Shot 1 (0–1.5s): Side medium shot. The opponent swings the knife horizontally; the protagonist dodges backward, the knife hits the edge of the stainless steel workstation, sparks and metallic sounds burst out.
+
+Shot 2 (1.5–3s): Handheld tracking shot. The opponent shoulder-checks the protagonist, hitting the protagonist's lower back against the workstation, causing metal trays on the table to clatter onto the floor.
+
+Round 2: Disarming
+
+Shot 3 (3–4.5s): Side medium shot. The opponent raises the knife to chop down; the protagonist catches the opponent's wrist holding the knife with both hands, the blade stops between them.
+
+Shot 4 (4.5–6s): Close-up. The protagonist slams the opponent's wrist hard against the edge of the workstation, the cleaver falls loose, and the protagonist kicks the knife deep under the workstation.
+
+Round 3: Unarmed Brawl
+
+Shot 5 (6–7.5s): Medium shot. The opponent roars and throws a heavy punch, the protagonist ducks, delivering a right hook to the opponent's abdomen, bending him over.
+
+Shot 6 (7.5–9s): Medium shot. The opponent grabs a metal tray and smashes it into the protagonist's shoulder, deforming the tray; the protagonist stumbles but stabilizes himself.
+
+Round 4: Counter-Kill
+
+Shot 7 (9–10.5s): Close-up tracking shot. The protagonist deflects the opponent's arm, the tray drops, he delivers two quick short punches to the opponent's jaw and chest, pushing him back.
+
+Shot 8 (10.5–12s): Medium shot. The opponent lunges again, the protagonist sidesteps, grabs the back of his neck, and presses his upper body onto the workstation, slamming his chest against the surface.
+
+Shot 9 (12–13.5s): Slightly wider medium shot. The opponent tries to rise and counter, the protagonist lands a heavy punch on his face side, knocking him into the pots hanging on the wall, falling together with the pots, unable to get up.
+
+Shot 10 (13.5–15s): Close-up of the protagonist's face. Sweating profusely, panting heavily, staring fiercely at the fallen opponent. The image ends abruptly.
+
+[Action & Cinematography]
+Realistic cinematic quality, warm yellow lighting, realistic reflections on stainless steel surfaces, slight steam in the air.
+Every punch and impact must make contact with the target before showing body force, retreat, or imbalance; no hitting air, no falling before contact.
+Space is narrow, actions are tight and close-quarters, using the workstation and walls for leverage.
+Slight camera shake is allowed upon impact, but it must be clear who hit whom.
+Left-right positioning of characters remains consistent between adjacent shots; no teleporting, clipping, or extra limbs/weapons.
+The cleaver remains under the workstation after being kicked away; no one picks it up again, and the knife does not touch anyone's body.
+No flips, flying kicks, or superpowers; no blood or wounds.
+
+[Sound]
+Low hum of the kitchen exhaust fan. Sounds of the knife hitting the table, trays scattering, the knife being kicked away, each punch landing, and pots tipping over are accurately synchronized with the visuals, with crisp and loud metallic sounds.
+Tense, fast-paced, drum-heavy action soundtrack starts from the first second, reaching peak intensity when the pots are knocked over, ending with heavy breathing and the sound of shaking pots.
+No dialogue, no narration, no subtitles, no text, no watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121237846946390016/img/rRg7Sh7Gk1HirQCt.jpg" width="600" alt="Seedance 2.0 Realistic Kitchen Fight Scene Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13865)**
+
+**Author:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2121238474523394531) | **Published:** Nov 13, 2026
+
+---
 ### Great Whites vs Orca Rescue Action Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9516,44 +9667,6 @@ Create a cinematic, ultra-realistic video of a fearless warrior with intense eye
 **Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Published:** Oct 24, 2026
 
 ---
-### Falling from Sun Floating Islands Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a video of falling from the sun towards floating islands of gears, generated with Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Falling from the sun toward floating islands of gears, a cyan trail behind her, then one blue eye filling the frame.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113525908065701888/pu/img/o4uirHvMrYyaolPq.jpg" width="600" alt="Falling from Sun Floating Islands Seedance 2.0">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12968)**
-
-**Author:** [MxCaptures | AI VFX & Cinematic AI Artist](https://x.com/MxCaptures) | **Source:** [Link](https://x.com/MxCaptures/status/2113525990592848305) | **Published:** Oct 23, 2026
-
----
-### Seoul Lifestyle Cinematic Film
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for a 27-second photorealistic cinematic lifestyle film featuring a young Korean woman experiencing a peaceful day in Seoul. Includes specific scenes like office stretching, subway waiting, café drinking, and rooftop views, emphasizing consistent character identity and natural lighting.
-
-#### 📝 Prompt
-
-```
-Create a 27-second photorealistic cinematic lifestyle film featuring a young Korean woman experiencing a peaceful day in Seoul, with a natural, emotional, slice-of-life atmosphere. Begin inside a modern office or study space as she stretches gently at her desk, then show her walking through a sunlit hallway with warm golden light and realistic shadows. Capture her walking along a busy Seoul street in a relaxed cream-colored outfit, with a cinematic low-angle wide shot and a close-up of her smiling naturally toward the camera. Show her waiting at a subway station, standing near the platform, and quietly checking her smartphone beside a train window. Transition into intimate close-ups of her face, soft natural skin texture, subtle expressions, and gentle reflections from the city lights. Next, show her enjoying an iced drink beside a cozy café window, resting her hand against her cheek while watching the street outside. Include a warm café interior, a close-up of her using her phone, and a peaceful nighttime walk through a softly illuminated Seoul street. End with her standing on a rooftop at blue hour, enjoying the cool evening breeze before turning toward the camera with a gentle, heartfelt smile. Use realistic human movement, consistent facial identity, natural makeup, authentic Korean city environments, shallow depth of field, cinematic 35mm lens aesthetics, soft film grain, warm highlights, cool blue evening tones, and smooth handheld camera movements. Maintain the same character, hairstyle, facial features, and outfit continuity throughout, with no artificial skin, exaggerated expressions, distorted hands, sudden transitions, or unwanted text and logos. Vertical 9:16 composition, premium Korean lifestyle commercial aesthetic.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113502570014822400/img/pa6RpHmgQ4rNZE4-.jpg" width="600" alt="Seoul Lifestyle Cinematic Film">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12926)**
-
-**Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2113502626016825590) | **Published:** Oct 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -9615,6 +9728,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-15T05:21:59.890Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-15T15:42:03.777Z</sub>
 
 </div>

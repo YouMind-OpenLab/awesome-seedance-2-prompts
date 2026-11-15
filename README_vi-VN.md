@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6684** |
+| 📝 Tổng số prompt | **6686** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-11-15** |
 
@@ -361,6 +361,157 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Prompt Chiến Đấu Hành Động Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt chi tiết để tạo video hành động điện ảnh ngắn chân thực, với nữ chính chiến đấu chống lại hai đối thủ nam trên sân thượng thành phố lúc hoàng hôn.
+
+#### 📝 Prompt
+
+```
+Tạo một đoạn phim ngắn hành động điện ảnh chân thực, tỷ lệ 16:9 khung hình ngang, thời lượng 15 giây, được tạo trực tiếp từ văn bản.
+
+[Yêu cầu cốt lõi]
+Mật độ hành động cao, nhịp độ nhanh, cận chiến liên tục không ngừng nghỉ, giống như phân cảnh giao tranh khốc liệt nhất trong một bộ phim hành động đỉnh cao, gồm 4 hiệp đấu và 10 cảnh quay.
+Ngay khung hình đầu tiên đã là giữa trận chiến; không có phần mở đầu, đi lại, gườm nhau hay tạo dáng.
+Không dùng chuyển động chậm (slow motion) trong toàn bộ thước phim; mọi hành động đều diễn ra ở tốc độ thời gian thực.
+Mỗi cảnh quay kéo dài khoảng 1 đến 2 giây, hoàn thành trọn vẹn một đòn tấn công/phòng thủ rõ ràng, thể hiện được kết quả của cú đánh.
+Các hành động kết nối chặt chẽ giữa các cảnh quay; kết quả của đòn trước chính là điểm khởi đầu của đòn sau, không có khoảng dừng.
+Nữ chính lấy một chọi hai; hai đối thủ luân phiên tấn công, mỗi lần chỉ có một người chủ động ra đòn. Nửa đầu nữ chính bị áp đảo nhưng nửa sau trở nên quyết liệt hơn, kết thúc trận chiến bằng một đòn hạ gục cuối cùng.
+
+[Nhân vật]
+Nữ chính: Một phụ nữ Đông Á trưởng thành khoảng 26 tuổi, đường nét xinh đẹp, tóc đen dài ngang vai, vóc dáng cân đối và khỏe khoắn. Mặc áo crop top màu trắng, quần short túi hộp cạp cao màu đen và giày thể thao màu đen. Cô không mang theo vũ khí.
+Đối thủ A: Nam giới trưởng thành cao lớn, tóc cắt cua, mặc áo thun ngắn tay màu đen và quần jeans tối màu, tay phải cầm một cây gậy gỗ.
+Đối thủ B: Nam giới trưởng thành dáng người mảnh khảnh, tóc xoăn ngắn, mặc áo khoác thể thao màu đỏ và quần thể thao màu đen, không có vũ khí.
+Chỉ có ba người này xuất hiện trong toàn bộ thước phim; ngoại hình, trang phục và vũ khí của họ giữ nguyên sự nhất quán xuyên suốt. Màu sắc trang phục của hai đối thủ phải khác biệt rõ ràng.
+
+[Bối cảnh]
+Sân thượng của một tòa nhà cao tầng trong thành phố lúc hoàng hôn. Ánh nắng vàng ngược sáng chiếu từ một bên khung hình, có thể nhìn thấy đường chân trời thành phố phía xa. Trên sân thượng có một cục nóng điều hòa màu xám, một dãy lan can bê tông cao ngang hông và nền lát gạch màu xám.
+Toàn bộ thước phim diễn ra trên cùng một sân thượng này; vị trí của cục nóng điều hòa, lan can và ba nhân vật phải duy trì tính logic về mặt không gian từ đầu đến cuối. Mọi pha giao tranh đều diễn ra cách xa mép lan can; không ai rơi khỏi tòa nhà.
+
+[Kịch bản phân cảnh]
+
+Hiệp 1: Bị áp đảo
+Cảnh 1 (0-1.5s): Cảnh trung góc nghiêng. Đối thủ A vung gậy quét ngang; nữ chính cúi người né tránh, cây gậy đập trúng cục nóng điều hòa làm móp lớp vỏ ngoài kèm theo tiếng động lớn.
+Cảnh 2 (1.5-3s): Cảnh quay bám sát kiểu cầm tay (handheld). Đối thủ B lao tới từ bên cạnh, đấm vào vai nữ chính khiến cô lảo đảo lùi lại hai bước.
+
+Hiệp 2: Tước vũ khí
+Cảnh 3 (3-4.5s): Cảnh trung. Đối thủ A vung gậy giáng xuống lần nữa; nữ chính né sang một bên, cây gậy đập xuống nền gạch.
+Cảnh 4 (4.5-6s): Cảnh cận. Nữ chính giẫm lên cây gậy, dùng cạnh bàn tay chém mạnh vào cổ tay đối thủ A để tước vũ khí, sau đó đá cây gậy văng ra xa phía sau cục nóng điều hòa.
+
+Hiệp 3: Hạ đối thủ B trước
+Cảnh 5 (6-7.5s): Cảnh trung. Đối thủ B tung những cú đấm; nữ chính dùng cẳng tay đỡ đòn rồi bồi một cú đấm tay phải vào bụng hắn, khiến hắn gập người lại.
+Cảnh 6 (7.5-9s): Cảnh trung. Nữ chính túm lấy vai đối thủ B và tung một cú gối vào ngực hắn, hất hắn ngã ngửa xuống đất, co rúm người và không thể đứng dậy.
+
+Hiệp 4: Quyết đấu với đối thủ A
+Cảnh 7 (9-10.5s): Cảnh trung. Đối thủ A túm lấy cánh tay nữ chính từ phía sau; cô xoay người thúc cùi chỏ vào hàm hắn, khiến đầu hắn bật ngược ra sau.
+Cảnh 8 (10.5-12s): Cảnh cận bám sát. Đối thủ A tung một cú đấm nặng ký trúng vào bên mặt nữ chính; tóc cô bay tung, cô lảo đảo lùi nửa bước rồi lập tức trụ vững, bồi liền hai cú đấm móc nhanh vào bụng đối thủ A.
+Cảnh 9 (12-13.5s): Cảnh trung góc rộng hơn. Nữ chính túm lấy cổ áo đối thủ A, lợi dụng đà lao tới của hắn để quật hắn ngã xuống nền gạch. Đối thủ A ngã gục không thể đứng dậy; đối thủ B vẫn nằm bất động dưới đất gần đó.
+Cảnh 10 (13.5-15s): Cảnh cận khuôn mặt nữ chính, được viền sáng bởi ánh hoàng hôn ngược màu vàng kim. Cô thở hổn hển, tóc bay trong gió, ánh mắt sắc lạnh nhìn về phía hai đối thủ đã gục ngã. Hình ảnh kết thúc đột ngột.
+
+[Hành động & Kỹ thuật quay]
+Chất lượng điện ảnh chân thực, ánh sáng ngược màu vàng kim lúc hoàng hôn, viền sáng (rim light) rõ nét trên đường nét cơ thể nhân vật, khuôn mặt hiển thị rõ ràng.
+Mọi cú đấm và cú đá đều phải chạm trúng mục tiêu trước, sau đó mới đến phản ứng chịu lực, lùi lại hoặc mất thăng bằng của cơ thể; không đấm hụt vào không khí, không ngã trước khi bị đánh trúng.
+Hai đối thủ luân phiên tấn công, không đồng thời lao vào vật lộn với nữ chính; những kẻ đã bị hạ gục sẽ không đứng dậy tham chiến lại.
+Có thể rung lắc máy quay nhẹ khi va chạm xảy ra, nhưng phải thể hiện rõ ai đang đánh ai.
+Vị trí của ba nhân vật phải nhất quán giữa các cảnh quay liền kề; không có hiện tượng dịch chuyển tức thời, lỗi xuyên vật thể, hay xuất hiện thêm tay/nhân vật/vũ khí thừa.
+Cây gậy bị đá văng nằm yên phía sau cục nóng điều hòa; không ai nhặt nó lên nữa.
+Không nhào lộn, đá bay người hay siêu năng lực; không có cảnh cận dính máu. Tập trung vào hành động, tránh lạm dụng các cảnh cận không cần thiết vào các bộ phận cơ thể.
+
+[Âm thanh]
+Tiếng gió thổi trên sân thượng và tiếng ồn ào của thành phố vọng lại từ xa. Tiếng gậy đập vào cục nóng điều hòa, tiếng từng cú đánh, tiếng cây gậy bị đá văng và tiếng cơ thể ngã xuống đất phải khớp chính xác với hình ảnh.
+Nhạc hành động dồn dập, nhịp độ nhanh, thiên về tiếng trống bắt đầu ngay từ giây đầu tiên, đạt cường độ cao nhất ở cú quật ngã cuối cùng, và kết thúc bằng tiếng gió cùng hơi thở gấp gáp.
+Không có lời thoại, thuyết minh, phụ đề, văn bản hay watermark. Tỷ lệ khung hình 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121536502622740480/img/47NQuQWyR7VKTVlc.jpg" width="600" alt="Prompt Chiến Đấu Hành Động Seedance 2.0">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13864)**
+
+**Tác giả:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Nguồn:** [Link](https://x.com/Adam38363368936/status/2121537568961384863) | **Đã xuất bản:** Nov 14, 2026
+
+---
+### Prompt cảnh chiến đấu nhà bếp chân thực Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt tạo video chi tiết cho Seedance 2.0, mô tả phân đoạn hành động điện ảnh dài 15 giây với hai người đàn ông đánh nhau trong nhà bếp nhà hàng chật hẹp, bao gồm các động tác võ thuật cụ thể, góc quay và thiết kế âm thanh.
+
+#### 📝 Prompt
+
+```
+Tạo một đoạn phim ngắn hành động điện ảnh chân thực, tỷ lệ 16:9 ngang, thời lượng 15 giây, được tạo trực tiếp từ văn bản.
+
+[Yêu cầu cốt lõi]
+Mật độ hành động dày đặc, nhịp độ nhanh, cận chiến liên tục không ngừng nghỉ, giống như phân cảnh giao tranh khốc liệt nhất trong một bộ phim hành động đỉnh cao, bao gồm 4 hiệp đấu và 10 cảnh quay.
+Khung hình đầu tiên đã ở giữa trận chiến; không có phần giới thiệu, đi lại, gườm nhau hay tạo dáng.
+Không dùng chuyển động chậm (slow motion) xuyên suốt video; mọi hành động đều diễn ra ở tốc độ thời gian thực.
+Mỗi cảnh quay kéo dài khoảng 1 đến 2 giây, chỉ hoàn thành một đòn tấn công/phòng thủ rõ ràng, thể hiện rõ kết quả sau khi trúng đòn.
+Các hành động được kết nối chặt chẽ giữa các cảnh quay; kết quả của hành động trước là điểm khởi đầu của hành động sau, không có khoảng dừng.
+Cả hai bên đều tấn công và chịu sát thương; nhân vật chính bị áp đảo trong nửa đầu, phản kháng dữ dội hơn ở nửa sau và kết thúc trận chiến bằng một đòn quyết định.
+
+[Nhân vật]
+Nhân vật chính: Nam giới trưởng thành gốc Đông Á, khoảng 32 tuổi, tóc ngắn, đường nét góc cạnh phong trần, vóc dáng gọn gàng và cơ bắp. Mặc áo thun trắng cộc tay, quần jeans tối màu và bốt cổ ngắn màu đen, áo thun có vết bẩn. Không mang theo vũ khí.
+Đối thủ: Một người đàn ông trưởng thành to lớn vạm vỡ, mặc đồng phục đầu bếp màu trắng lấm bẩn và tạp dề đen, tay phải cầm một con dao phay nhà bếp.
+Xuyên suốt video chỉ xuất hiện đúng hai người này; ngoại hình, trang phục và vũ khí của họ luôn giữ nguyên tính nhất quán.
+
+[Bối cảnh]
+Khu bếp sau chật hẹp của một nhà hàng mở cửa đêm. Ánh sáng vàng ấm áp, dãy bàn thao tác inox dài kê sát tường với các khay kim loại đặt trên đó, một nồi súp lớn trên bếp, và những chiếc xoong nồi treo trên tường.
+Toàn bộ video diễn ra trong cùng một căn bếp này; vị trí của bàn thao tác, nồi súp và hai nhân vật phải đảm bảo tính logic, liền mạch từ đầu đến cuối.
+
+[Kịch bản phân cảnh]
+
+Hiệp 1: Bị áp đảo
+
+Cảnh 1 (0–1,5s): Cảnh trung góc nghiêng. Đối thủ vung dao chém ngang; nhân vật chính ngả người né về phía sau, lưỡi dao đập vào mép bàn thao tác inox, tóe lửa kèm theo tiếng kim loại chói tai.
+
+Cảnh 2 (1,5–3s): Cảnh quay bám theo kiểu cầm tay (handheld). Đối thủ húc vai vào nhân vật chính, ép thắt lưng anh ta đập mạnh vào bàn thao tác, khiến các khay kim loại trên bàn rơi loảng xoảng xuống sàn.
+
+Hiệp 2: Tước vũ khí
+
+Cảnh 3 (3–4,5s): Cảnh trung góc nghiêng. Đối thủ giơ dao bổ xuống; nhân vật chính dùng cả hai tay chộp lấy cổ tay cầm dao của đối thủ, lưỡi dao khựng lại giữa hai người.
+
+Cảnh 4 (4,5–6s): Cảnh cận. Nhân vật chính đập mạnh cổ tay đối thủ vào mép bàn thao tác, con dao phay tuột khỏi tay, anh ta lập tức đá văng con dao lọt sâu vào gầm bàn.
+
+Hiệp 3: Tay không đối đầu
+
+Cảnh 5 (6–7,5s): Cảnh trung. Đối thủ gầm lên tung một cú đấm nặng trịch, nhân vật chính cúi người né, đáp trả bằng cú móc phải vào bụng đối thủ khiến hắn gập người lại.
+
+Cảnh 6 (7,5–9s): Cảnh trung. Đối thủ chộp lấy một khay kim loại đập mạnh vào vai nhân vật chính làm khay méo xệch; nhân vật chính lảo đảo nhưng nhanh chóng lấy lại thăng bằng.
+
+Hiệp 4: Phản đòn hạ gục
+
+Cảnh 7 (9–10,5s): Cảnh cận bám theo. Nhân vật chính gạt tay đối thủ ra, khay kim loại rơi xuống, anh ta bồi thêm hai cú đấm ngắn cực nhanh vào hàm và ngực đối thủ, đẩy hắn lùi lại.
+
+Cảnh 8 (10,5–12s): Cảnh trung. Đối thủ lao tới lần nữa, nhân vật chính né sang một bên, túm lấy gáy hắn rồi ép nửa thân trên của hắn úp xuống bàn thao tác, đập ngực hắn mạnh xuống mặt bàn.
+
+Cảnh 9 (12–13,5s): Cảnh trung hơi rộng. Đối thủ cố vùng dậy phản đòn, nhân vật chính giáng một cú đấm trời giáng vào bên mặt hắn, hất văng hắn vào đám xoong nồi treo trên tường, cả người lẫn nồi đổ nhào xuống đất, không thể gượng dậy nổi.
+
+Cảnh 10 (13,5–15s): Cận cảnh gương mặt nhân vật chính. Mồ hôi nhễ nhại, thở hổn hển, ánh mắt gườm gườm nhìn đối thủ đang nằm gục dưới sàn. Hình ảnh cắt đột ngột.
+
+[Hành động & Quay phim]
+Chất lượng điện ảnh chân thực, ánh sáng vàng ấm áp, hiệu ứng phản chiếu tự nhiên trên bề mặt inox, không khí phảng phất chút hơi nước bốc lên.
+Mọi cú đấm và va chạm đều phải chạm trúng mục tiêu trước khi thể hiện lực tác động, sự thụt lùi hay mất thăng bằng; không đấm hụt vào không khí, không ngã trước khi va chạm.
+Không gian chật hẹp, các pha hành động diễn ra sát sao, tận dụng bàn thao tác và tường để làm điểm tựa phát lực.
+Có thể rung lắc camera nhẹ khi xảy ra va chạm, nhưng phải thể hiện rõ ai đánh ai.
+Vị trí trái - phải của các nhân vật phải nhất quán giữa các cảnh quay liền kề; không dịch chuyển tức thời, không lỗi xuyên vật thể, không mọc thêm tay chân hay vũ khí.
+Con dao phay nằm yên dưới gầm bàn sau khi bị đá văng; không ai nhặt nó lên nữa, và lưỡi dao không chạm vào cơ thể bất kỳ ai.
+Không nhào lộn, không đá bay người, không siêu năng lực; không có máu me hay vết thương hở.
+
+[Âm thanh]
+Tiếng quạt hút mùi nhà bếp rì rào trầm đục. Tiếng dao đập vào bàn, khay rơi loảng xoảng, tiếng đá văng con dao, từng cú đấm giáng xuống và tiếng xoong nồi đổ ụp đều được đồng bộ chuẩn xác với hình ảnh, âm thanh kim loại vang lên sắc gọn và rõ rệt.
+Nhạc nền hành động dồn dập, căng thẳng, thiên về tiếng trống bắt đầu ngay từ giây đầu tiên, đạt cao trào khi đám xoong nồi bị hất đổ, và khép lại bằng tiếng thở dốc cùng âm thanh xoong nồi còn đang rung lắc.
+Không lời thoại, không thuyết minh, không phụ đề, không chữ viết, không watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121237846946390016/img/rRg7Sh7Gk1HirQCt.jpg" width="600" alt="Prompt cảnh chiến đấu nhà bếp chân thực Seedance 2.0">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13865)**
+
+**Tác giả:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Nguồn:** [Link](https://x.com/Adam38363368936/status/2121238474523394531) | **Đã xuất bản:** Nov 13, 2026
+
+---
 ### Cá Voi Sát Thủ Giải Cứu Cá Mập Trắng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9384,44 +9535,6 @@ Tạo một video siêu chân thực mang đậm chất điện ảnh về một
 **Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Đã xuất bản:** Oct 24, 2026
 
 ---
-### Rơi Từ Mặt Trời Xuống Đảo Nổi - Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả (prompt) cho video quay cảnh rơi từ mặt trời xuống những hòn đảo nổi chứa đầy bánh răng, được tạo bằng Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Rơi từ mặt trời về phía những hòn đảo bánh răng lơ lửng, để lại phía sau một vệt sáng xanh lục, rồi một con mắt màu xanh lam choán trọn khung hình.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113525908065701888/pu/img/o4uirHvMrYyaolPq.jpg" width="600" alt="Rơi Từ Mặt Trời Xuống Đảo Nổi - Seedance 2.0">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12968)**
-
-**Tác giả:** [MxCaptures | AI VFX & Cinematic AI Artist](https://x.com/MxCaptures) | **Nguồn:** [Link](https://x.com/MxCaptures/status/2113525990592848305) | **Đã xuất bản:** Oct 23, 2026
-
----
-### Phim điện ảnh phong cách sống Seoul
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video chân thực 27 giây khắc họa một ngày của cô gái trẻ Hàn Quốc tại Seoul, di chuyển từ văn phòng ra phố rồi lên sân thượng, kèm theo hướng dẫn cụ thể về máy quay và ánh sáng.
-
-#### 📝 Prompt
-
-```
-Tạo một đoạn phim lifestyle điện ảnh chân thực như ảnh thật dài 27 giây, khắc họa một ngày bình yên của cô gái trẻ Hàn Quốc tại Seoul, mang đậm không khí đời thường, tự nhiên và giàu cảm xúc. Mở đầu bên trong một văn phòng hoặc góc làm việc hiện đại khi cô nhẹ nhàng vươn vai tại bàn, sau đó chuyển sang cảnh cô bước dọc hành lang ngập nắng với ánh vàng ấm áp và những vệt bóng đổ chân thực. Ghi lại khoảnh khắc cô dạo bước trên con phố nhộn nhịp ở Seoul trong bộ trang phục màu kem thư thái, sử dụng góc máy rộng từ dưới lên đậm chất điện ảnh cùng cảnh cận khuôn mặt đang mỉm cười tự nhiên hướng về phía ống kính. Chuyển sang cảnh cô chờ tàu tại ga, đứng gần mép sân ga và lặng lẽ lướt smartphone bên cửa sổ toa tàu. Tiếp nối bằng những khung hình cận mặt đầy cảm xúc, lột tả làn da mộc tự nhiên, những biểu cảm tinh tế và ánh sáng phản chiếu dịu nhẹ từ đèn thành phố. Sau đó, cho thấy cô đang thưởng thức ly nước đá bên khung cửa sổ quán cà phê ấm cúng, tựa tay vào má và ngắm nhìn dòng người qua lại ngoài phố. Đưa vào không gian nội thất quán cà phê ấm áp, cảnh cận lúc cô dùng điện thoại và một buổi tản bộ đêm thanh bình trên con phố Seoul lung linh ánh đèn. Kết thúc bằng hình ảnh cô đứng trên sân thượng vào giờ xanh (blue hour), tận hưởng làn gió chiều mát lạnh trước khi quay về phía ống kính với nụ cười dịu dàng, chân thành. Sử dụng chuyển động cơ thể người chân thực, giữ nguyên đặc điểm khuôn mặt xuyên suốt, lớp trang điểm tự nhiên, bối cảnh đô thị Hàn Quốc đúng chuẩn, độ sâu trường ảnh mỏng, phong cách ống kính điện ảnh 35mm, nhiễu hạt phim mềm mại, vùng sáng ấm áp, sắc xanh lam dịu của buổi tối và những cú máy cầm tay mượt mà. Đảm bảo tính nhất quán về nhân vật, kiểu tóc, đường nét khuôn mặt và trang phục trong toàn bộ video; tuyệt đối không để da dẻ thiếu tự nhiên, biểu cảm cường điệu, bàn tay bị biến dạng, chuyển cảnh đột ngột hay xuất hiện chữ và logo ngoài ý muốn. Bố cục dọc 9:16, mang đậm phong cách quảng cáo lifestyle cao cấp của Hàn Quốc.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113502570014822400/img/pa6RpHmgQ4rNZE4-.jpg" width="600" alt="Phim điện ảnh phong cách sống Seoul">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12926)**
-
-**Tác giả:** [liana](https://x.com/Lianaalane) | **Nguồn:** [Link](https://x.com/Lianaalane/status/2113502626016825590) | **Đã xuất bản:** Oct 23, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -9483,6 +9596,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-15T05:22:05.389Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-15T15:42:11.461Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6684** |
+| 📝 Toplam İstem | **6686** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-11-15** |
 
@@ -361,6 +361,157 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Seedance 2.0 Aksiyon Dövüşü İstem Metni
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Akşam alacakaranlığında bir şehir çatısında iki erkek rakiple dövüşen kadın başrolün yer aldığı gerçekçi sinematik aksiyon kısa videosu oluşturmak için detaylı istem metni.
+
+#### 📝 İstem
+
+```
+Doğrudan metinden üretilen, 15 saniyelik, 16:9 yatay formatta, gerçekçi ve sinematik bir aksiyon kısa filmi oluşturun.
+
+[Temel Gereksinimler]
+Üst düzey bir aksiyon filmindeki en yoğun dövüş sahnesini andıran; yüksek tempolu, kesintisiz ve yakın mesafe çatışmalarla dolu bir akış. Toplamda 4 tur ve 10 çekim.
+İlk kare zaten dövüşün ortasında başlamalı; giriş, yürüme, karşı karşıya gelme veya poz verme sahneleri kesinlikle olmamalı.
+Filmin tamamında ağır çekim (slow motion) kullanılmamalı; tüm hareketler gerçek zamanlı hızda gerçekleşmeli.
+Her çekim yaklaşık 1-2 saniye sürmeli; net bir saldırı/savunma hamlesi tamamlanmalı ve darbenin sonucu gösterilmeli.
+Çekimler arasındaki aksiyonlar birbirine sıkı sıkıya bağlı olmalı; bir önceki hareketin sonucu, hiç duraksama olmadan bir sonrakini başlatmalı.
+Kadın ana karakter iki kişiye karşı tek başına savaşır. İki rakip sırayla saldırır, aynı anda yalnızca biri aktif olarak hamle yapar. Ana karakter ilk yarıda baskı altında kalır ancak ikinci yarıda daha saldırgan bir tutum sergileyerek savaşı son bir darbeyle bitirir.
+
+[Karakterler]
+Kadın Ana Karakter: Yaklaşık 26 yaşlarında yetişkin bir Doğu Asyalı kadın, güzel yüz hatları, siyah omuz hizasında saçlar, orantılı ve güçlü bir fizik. Üzerinde beyaz crop üst, siyah yüksek belli kargo şort ve siyah spor ayakkabılar var. Silah taşımıyor.
+Rakip A: Uzun boylu yetişkin bir erkek, çok kısa saçlı (buzz cut), siyah kısa kollu tişört ve koyu renk kot pantolon giyiyor, sağ elinde tahta bir sopa tutuyor.
+Rakip B: Zayıf yapılı yetişkin bir erkek, kısa kıvırcık saçlı, kırmızı spor ceket ve siyah eşofman altı giyiyor, silahsız.
+Filmin tamamında yalnızca bu üç kişi yer alır; görünümleri, kıyafetleri ve silahları baştan sona tutarlı kalmalıdır. İki rakibin kıyafet renkleri birbirinden net bir şekilde ayrılmalıdır.
+
+[Mekan]
+Alacakaranlık vaktinde bir şehir gökdeleninin çatısı. Kadrajın bir tarafından gelen altın rengi gün batımı ters ışığı, uzakta görünen şehir silüeti. Çatıda gri bir klima dış ünitesi, bel hizasında beton korkuluklar ve gri zemin karoları bulunuyor.
+Filmin tamamı bu çatıda geçer; klima ünitesinin, korkulukların ve üç karakterin konumları baştan sona mantıksal bir bütünlük içinde olmalıdır. Tüm dövüş korkuluk kenarından uzakta gerçekleşir; kimse binadan düşmez.
+
+[Senaryo Akışı]
+
+1. Tur: Baskı Altında
+Çekim 1 (0-1.5s): Yandan orta plan çekim. Rakip A sopayı yatay olarak savurur; ana karakter eğilerek kaçar ve sopa klima ünitesine çarparak büyük bir gürültüyle kasayı ezer.
+Çekim 2 (1.5-3s): El kamerasıyla takip çekimi. Rakip B yandan hızla gelip ana karakterin omzuna yumruk atarak onu iki adım geriye sendeletir.
+
+2. Tur: Silahsızlandırma
+Çekim 3 (3-4.5s): Orta plan çekim. Rakip A sopayı tekrar aşağı doğru indirir; ana karakter yana kaçarak hamleden kurtulur ve sopa zemin karolarına çarpar.
+Çekim 4 (4.5-6s): Yakın çekim. Ana karakter sopanın üzerine basar, elinin yan tarafıyla Rakip A'nın bileğine sert bir darbe indirerek onu silahsızlandırır ve sopayı klima ünitesinin çok gerisine tekmeler.
+
+3. Tur: Önce Rakip B'yi Etkisiz Hale Getirme
+Çekim 5 (6-7.5s): Orta plan çekim. Rakip B yumruklar savurur; ana karakter ön koluyla bloke eder ve sağ yumruğunu rakibin karnına saplayarak onu öne doğru ikiye katlar.
+Çekim 6 (7.5-9s): Orta plan çekim. Ana karakter Rakip B'nin omuzlarından kavrar ve göğsüne bir diz darbesi indirerek onu sırt üstü yere yıkar. Rakip B büzülmüş halde yerde kalır ve kalkamaz.
+
+4. Tur: Rakip A ile Düello
+Çekim 7 (9-10.5s): Orta plan çekim. Rakip A arkadan ana karakterin kolunu yakalar; ana karakter dönerek dirseğini rakibin çenesine geçirir ve kafasını geriye savurur.
+Çekim 8 (10.5-12s): Yakın plan takip çekimi. Rakip A sert bir yumruk atarak ana karakterin yüzünün yan tarafına isabet ettirir; saçları savrulur, yarım adım sendeler, ardından dengesini toplayıp Rakip A'nın karnına art arda iki hızlı yumruk indirir.
+Çekim 9 (12-13.5s): Biraz daha geniş orta plan çekim. Ana karakter Rakip A'nın yakasından tutar, onun öne doğru savrulma ivmesini kullanarak yere fırlatır. Rakip A düşer ve kalkamaz; Rakip B ise hemen yakınında yerde yatmaya devam eder.
+Çekim 10 (13.5-15s): Ana karakterin yüzünün yakın çekimi, altın rengi gün batımı ters ışığıyla çerçevelenmiş hali. Ağır ağır nefes alıp vermektedir, saçları rüzgarda dalgalanırken yerde yatan rakiplerine keskin bir bakış atar. Görüntü aniden kesilir.
+
+[Aksiyon ve Sinematografi]
+Gerçekçi sinematik kalite, altın rengi alacakaranlık ters ışığı, karakterlerin hatlarında rim light (kenar ışığı), yüzler net bir şekilde görünür olmalı.
+Her yumruk ve tekme önce hedefe temas etmeli, ardından vücudun sarsılması, geri çekilmesi veya dengesini kaybetmesi gelmelidir; havaya atılan yumruklar veya temas olmadan erken düşmeler kesinlikle olmamalıdır.
+İki rakip sırayla saldırır, aynı anda ana karaktere sarılmazlar; devrilen rakipler tekrar dövüşe katılmak için ayağa kalkmaz.
+Darbe anlarında hafif kamera sarsıntısı kullanılabilir ancak kimin kime vurduğu net bir şekilde anlaşılmalıdır.
+Ardışık çekimlerde üç karakterin konumları tutarlı kalmalıdır; ani ışınlanma, nesnelerin iç içe geçmesi veya fazladan el/karakter/silah gibi hatalar olmamalıdır.
+Tekmeyle uzaklaştırılan sopa klima ünitesinin arkasında kalır; kimse onu tekrar almaz.
+Takla, uçan tekme veya süper güçler yoktur; kanlı yakın çekimler kullanılmaz. Odağı aksiyonda tutun, gereksiz vücut parçası yakın çekimlerinden kaçının.
+
+[Ses]
+Çatıdaki rüzgar sesi ve uzaktan gelen şehir uğultusu. Sopa klima ünitesine çarparken çıkan ses, her darbenin sesi, sopanın tekmelenmesi ve bedenlerin yere düşme sesleri görüntülerle kusursuz bir senkronizasyon içinde olmalıdır.
+Yoğun, hızlı tempolu ve davul ağırlıklı aksiyon müziği ilk saniyeden itibaren başlar, son fırlatma sırasında zirveye ulaşır ve rüzgar sesleriyle birlikte ağır nefes alışverişleriyle sona erer.
+Diyalog, anlatım, altyazı, metin veya filigran yoktur. 16:9 en boy oranı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121536502622740480/img/47NQuQWyR7VKTVlc.jpg" width="600" alt="Seedance 2.0 Aksiyon Dövüşü İstem Metni">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13864)**
+
+**Yazar:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Kaynak:** [Link](https://x.com/Adam38363368936/status/2121537568961384863) | **Yayınlandı:** Nov 14, 2026
+
+---
+### Seedance 2.0 Gerçekçi Mutfak Kavgası Sahnesi İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 için, dar bir restoran mutfağında iki erkeğin kavga ettiği 15 saniyelik sinematik aksiyon sekansını oluşturan detaylı video üretim istemi; özel koreografi, kamera açıları ve ses tasarımı içerir.
+
+#### 📝 İstem
+
+```
+Doğrudan metinden üretilen, 15 saniyelik, 16:9 yatay formatta, gerçekçi sinematik bir aksiyon kısa filmi oluşturun.
+
+[Temel Gereksinimler]
+Üst düzey bir aksiyon filmindeki en yoğun dövüş sahnesini andıran; yüksek tempolu, kesintisiz ve yakın mesafe çatışmalarla dolu bir yapı. Toplam 4 raunt atışma ve 10 çekimden oluşmalı.
+İlk kare zaten dövüşün ortasında başlamalı; giriş, yürüme, karşı karşıya gelme veya poz verme sahneleri olmamalı.
+Baştan sona ağır çekim yok; tüm hareketler gerçek zamanlı hızda gerçekleşmeli.
+Her çekim yaklaşık 1-2 saniye sürmeli, yalnızca tek bir net saldırı/savunma hamlesi içermeli ve isabet eden darbelerin sonuçları açıkça görünmeli.
+Çekimler arasındaki hareketler birbirine sıkı sıkıya bağlı olmalı; bir önceki hamlenin sonucu, hiçbir boşluk bırakmadan bir sonrakinin başlangıcı olmalı.
+Her iki taraf da saldırmalı ve hasar almalı; ana karakter ilk yarıda baskı altında kalmalı, ikinci yarıda daha sert karşılık vermeli ve savaşı son bir darbeyle bitirmeli.
+
+[Karakterler]
+Ana Karakter: Yaklaşık 32 yaşında, kısa saçlı, sert hatlara sahip, atletik ve kaslı yapılı yetişkin bir Doğu Asyalı erkek. Üzerinde lekeler bulunan beyaz kısa kollu bir tişört, koyu renk kot pantolon ve siyah kısa botlar var. Silah taşımıyor.
+Rakip: Üzerinde kirli beyaz bir aşçı forması ve siyah önlük bulunan iri yarı yetişkin bir erkek; sağ elinde bir satır tutuyor.
+Video boyunca yalnızca bu iki kişi yer almalı; görünümleri, kıyafetleri ve silahları tutarlılığını korumalı.
+
+[Mekan]
+Gece geç saatlere kadar açık bir restoranın dar arka mutfağı. Sıcak sarı aydınlatma, duvara yaslanmış uzun paslanmaz çelik tezgâhlar ve üzerlerinde metal tepsiler, ocakta büyük bir çorba tenceresi ve duvarlarda asılı tencereler.
+Videonun tamamı bu aynı mutfakta geçmeli; tezgâhların, çorba tenceresinin ve iki karakterin konumları baştan sona tutarlı olmalı.
+
+[Senaryo Akışı]
+
+1. Raunt: Baskı Altında
+
+Çekim 1 (0–1.5 sn): Yandan orta plan çekim. Rakip bıçağı yatay olarak savurur; ana karakter geriye doğru kaçarak hamleden kurtulur, bıçak paslanmaz çelik tezgâhın kenarına çarpar, kıvılcımlar ve metalik sesler havaya karışır.
+
+Çekim 2 (1.5–3 sn): El kamerasıyla takip çekimi. Rakip omzuyla ana karaktere çarparak onun belini tezgâha vurur, bunun üzerine masadaki metal tepsiler şangırtıyla yere düşer.
+
+2. Raunt: Silahsızlandırma
+
+Çekim 3 (3–4.5 sn): Yandan orta plan çekim. Rakip bıçağı yukarı kaldırıp aşağı indirmek üzere hamle yapar; ana karakter iki eliyle rakibin bıçak tutan bileğini yakalar, bıçak ikisinin arasında durur.
+
+Çekim 4 (4.5–6 sn): Yakın çekim. Ana karakter, rakibin bileğini tezgâhın kenarına sertçe vurur, satır elinden düşer ve ana karakter bıçağı tezgâhın derinliklerine doğru tekmeleyerek uzaklaştırır.
+
+3. Raunt: Silahsız Kavga
+
+Çekim 5 (6–7.5 sn): Orta plan çekim. Rakip kükreyerek ağır bir yumruk savurur, ana karakter eğilerek kaçar ve rakibin karnına sağ kroşe indirerek onu ikiye katlar.
+
+Çekim 6 (7.5–9 sn): Orta plan çekim. Rakip bir metal tepsi kaparak ana karakterin omzuna vurur, tepsi ezilir; ana karakter sendeler ama dengesini toparlar.
+
+4. Raunt: Karşı Saldırı ve Bitiriş
+
+Çekim 7 (9–10.5 sn): Yakın plan takip çekimi. Ana karakter rakibin kolunu savuşturur, tepsi yere düşer; ardından rakibin çenesine ve göğsüne art arda iki hızlı kısa yumruk indirerek onu geriye iter.
+
+Çekim 8 (10.5–12 sn): Orta plan çekim. Rakip yeniden atılır, ana karakter yana çekilir, ensesinden kavrar ve üst bedenini tezgâha bastırarak göğsünü yüzeye çarpar.
+
+Çekim 9 (12–13.5 sn): Biraz daha geniş orta plan çekim. Rakip doğrulup karşılık vermeye çalışırken, ana karakter yüzünün yan tarafına ağır bir yumruk indirir; rakip duvarda asılı tencerelere çarparak tencerelerle birlikte yere yığılır ve kalkamaz hale gelir.
+
+Çekim 10 (13.5–15 sn): Ana karakterin yüzünün yakın çekimi. Ter içinde kalmış, nefes nefese, yerde yatan rakibine hiddetle bakmaktadır. Görüntü aniden kesilir.
+
+[Aksiyon ve Sinematografi]
+Gerçekçi sinematik kalite, sıcak sarı aydınlatma, paslanmaz çelik yüzeylerde doğal yansımalar, havada hafif bir buhar.
+Her yumruk ve darbe; vücut kuvvetini, geri çekilmeyi veya denge kaybını göstermeden önce mutlaka hedefe temas etmelidir; boşa yumruk atılmamalı, temas olmadan kimse düşmemelidir.
+Alan dar olduğu için hareketler sıkışık ve yakın mesafede olmalı, tezgâh ve duvarlardan destek alınmalıdır.
+Darbe anlarında hafif kamera sarsıntısı olabilir ancak kimin kime vurduğu her zaman net seçilmelidir.
+Ardışık çekimlerde karakterlerin sağ-sol konumları tutarlı olmalı; aniden yer değiştirme, nesnelerin içine girme veya fazladan uzuv/silah belirmesi gibi hatalar bulunmamalıdır.
+Satır tekmelenerek uzaklaştırıldıktan sonra tezgâhın altında kalmalı; kimse onu tekrar almamalı ve bıçak kimsenin vücuduna değmemelidir.
+Takla, uçan tekme veya doğaüstü güçler olmamalı; kan veya yara gösterilmemelidir.
+
+[Ses]
+Mutfak davlumbazının düşük uğultusu. Bıçağın tezgâha çarpma, tepsilerin dağılma, bıçağın tekmelenerek uzaklaşma, her yumruğun isabet etme ve tencerelerin devrilme sesleri görüntüyle kusursuz şekilde senkronize olmalı, metalik sesler net ve yüksek duyulmalıdır.
+Gergin, hızlı tempolu ve davul ağırlıklı aksiyon müziği ilk saniyeden itibaren başlamalı, tencereler devrildiğinde zirveye ulaşmalı ve ağır nefes alışverişleriyle sallanan tencerelerin sesiyle son bulmalıdır.
+Diyalog, dış ses, altyazı, metin veya filigran kesinlikle olmamalıdır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121237846946390016/img/rRg7Sh7Gk1HirQCt.jpg" width="600" alt="Seedance 2.0 Gerçekçi Mutfak Kavgası Sahnesi İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13865)**
+
+**Yazar:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Kaynak:** [Link](https://x.com/Adam38363368936/status/2121238474523394531) | **Yayınlandı:** Nov 13, 2026
+
+---
 ### Büyük Beyaz Köpekbalığının Orka tarafından Kurtarılması
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9330,44 +9481,6 @@ Keskin bakışlara, güçlü bir duruşa ve kendinden emin bir tavıra sahip kor
 **Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Yayınlandı:** Oct 24, 2026
 
 ---
-### Güneşten Düşen Yüzen Adalar Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 ile oluşturulan, dişli yüzen adalara doğru güneşten düşmeyi gösteren bir video için istem.
-
-#### 📝 İstem
-
-```
-Güneşten dişli çarklardan oluşan süzülen adalara doğru düşerken ardında camgöbeği bir iz bırakıyor, ardından tek bir mavi göz tüm kareyi kaplıyor.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113525908065701888/pu/img/o4uirHvMrYyaolPq.jpg" width="600" alt="Güneşten Düşen Yüzen Adalar Seedance 2.0">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12968)**
-
-**Yazar:** [MxCaptures | AI VFX & Cinematic AI Artist](https://x.com/MxCaptures) | **Kaynak:** [Link](https://x.com/MxCaptures/status/2113525990592848305) | **Yayınlandı:** Oct 23, 2026
-
----
-### Seul Yaşam Tarzı Sinematik Film
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genç bir Koreli kadının Seul'deki gününü ofisten sokağa ve çatıya geçişle tasvir eden, belirli kamera ve ışık talimatları içeren 27 saniyelik fotogerçekçi video istemi.
-
-#### 📝 İstem
-
-```
-Seul'de huzurlu bir gün geçiren genç bir Koreli kadını konu alan; doğal, duygusal ve günlük yaşamdan kesitler sunan bir atmosfere sahip, 27 saniyelik fotogerçekçi sinematik bir yaşam tarzı filmi oluşturun. Film, karakterin modern bir ofiste veya çalışma alanında masasında hafifçe gerinmesiyle başlasın, ardından onu sıcak altın rengi ışıkların ve gerçekçi gölgelerin süzüldüğü güneşli bir koridorda yürürken gösterin. Krem rengi rahat kıyafetleri içinde kalabalık bir Seul caddesinde yürürken, sinematik bir düşük açılı geniş plan çekimiyle ve kameraya doğru doğal bir şekilde gülümsediği yakın çekimle yakalayın. Onu bir metro istasyonunda beklerken, peronun kenarında dururken ve tren camının yanında sessizce akıllı telefonuna bakarken gösterin. Ardından yüzünün samimi yakın çekimlerine, yumuşak ve doğal cilt dokusuna, ince mimiklerine ve şehir ışıklarının yüzündeki hafif yansımalarına geçiş yapın. Sonrasında, onu şirin bir kafenin penceresi kenarında buzlu bir içeceğin tadını çıkarırken, elini yanağına dayamış dışarıdaki sokağı izlerken gösterin. Sıcak bir kafe iç mekanına, telefonunu kullanırken çekilmiş bir yakın plana ve yumuşak ışıklarla aydınlatılmış bir Seul sokağında yapılan huzurlu bir gece yürüyüşüne yer verin. Filmi, mavi saatte bir çatıda durarak serin akşam esintisinin tadını çıkardığı ve ardından kameraya dönüp içten, yumuşak bir gülümseme sunduğu sahneyle bitirin. Gerçekçi insan hareketleri, tutarlı yüz kimliği, doğal makyaj, otantik Kore şehir ortamları, sığ alan derinliği, sinematik 35mm lens estetiği, yumuşak film greni, sıcak parlak noktalar, serin mavi akşam tonları ve akıcı el kamerası hareketleri kullanın. Başından sonuna kadar aynı karakteri, saç stilini, yüz hatlarını ve kıyafet bütünlüğünü koruyun; yapay görünen cilt, abartılı ifadeler, bozulmuş eller, ani geçişler veya istenmeyen metin ve logolar kesinlikle bulunmasın. Dikey 9:16 kompozisyon, premium Kore yaşam tarzı reklam estetiği.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113502570014822400/img/pa6RpHmgQ4rNZE4-.jpg" width="600" alt="Seul Yaşam Tarzı Sinematik Film">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12926)**
-
-**Yazar:** [liana](https://x.com/Lianaalane) | **Kaynak:** [Link](https://x.com/Lianaalane/status/2113502626016825590) | **Yayınlandı:** Oct 23, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -9429,6 +9542,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-15T05:22:13.083Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-15T15:42:23.126Z</sub>
 
 </div>

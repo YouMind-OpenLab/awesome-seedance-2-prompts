@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6684** |
+| 📝 Total de prompts | **6686** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-11-15** |
 
@@ -361,6 +361,157 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Prompt de Pelea de Acción Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt detallado para generar un video corto de acción cinematográfico realista que presenta a una protagonista femenina luchando contra dos oponentes masculinos en la azotea de un edificio al atardecer.
+
+#### 📝 Prompt
+
+```
+Genera un cortometraje de acción cinematográfico realista de 15 segundos, en formato horizontal 16:9, creado directamente a partir de texto.
+
+[Requisitos principales]
+Combate cuerpo a cuerpo continuo, de alta densidad y ritmo frenético, como la escena de pelea más intensa de una película de acción de primer nivel, con 4 rondas de enfrentamiento y 10 planos.
+El primer fotograma ya muestra el combate en pleno desarrollo; sin introducciones, caminatas, momentos de tensión ni poses.
+Nada de cámara lenta en todo el cortometraje; todas las acciones ocurren a velocidad real.
+Cada plano dura entre 1 y 2 segundos aproximadamente, completando un movimiento claro de ataque o defensa y mostrando el resultado del impacto.
+Las acciones se conectan de forma fluida entre los planos; el resultado de un movimiento es el punto de partida del siguiente, sin pausas.
+La protagonista femenina lucha contra dos oponentes (dos contra uno); estos atacan por turnos, de modo que solo uno golpea activamente a la vez. La protagonista se ve dominada durante la primera mitad, pero se vuelve más agresiva en la segunda, terminando la pelea con un golpe definitivo.
+
+[Personajes]
+Protagonista femenina: Una mujer adulta de Asia oriental de unos 26 años, de facciones hermosas, cabello negro hasta los hombros y complexión fuerte y bien proporcionada. Viste una camiseta blanca corta, pantalones cortos cargo negros de tiro alto y tenis negros. No lleva armas.
+Oponente A: Un hombre adulto alto, con corte de pelo rapado, que viste una camiseta negra de manga corta y jeans oscuros, y sostiene un palo de madera en la mano derecha.
+Oponente B: Un hombre adulto delgado, de cabello corto y rizado, que viste una chaqueta deportiva roja y pantalones deportivos negros, desarmado.
+Solo estas tres personas aparecen en todo el cortometraje; su aspecto físico, ropa y armas se mantienen constantes de principio a fin. Los colores de la ropa de los dos oponentes son claramente distintos entre sí.
+
+[Escenario]
+La azotea de un edificio alto en la ciudad al atardecer. Luz dorada del sol poniente a contraluz desde un lado del encuadre, con el horizonte de la ciudad visible a lo lejos. En la azotea hay una unidad exterior de aire acondicionado gris, una fila de barandales de concreto a la altura de la cintura y piso de baldosas grises.
+Todo el cortometraje transcurre en esta misma azotea; las posiciones de la unidad de aire acondicionado, los barandales y los tres personajes mantienen coherencia espacial de principio a fin. Todo el combate ocurre lejos del borde del barandal; nadie se cae del edificio.
+
+[Guion gráfico]
+
+Ronda 1: Dominada
+Plano 1 (0-1.5 s): Plano medio lateral. El Oponente A lanza un golpe horizontal con el palo; la protagonista se agacha para esquivarlo y el palo impacta contra la unidad de aire acondicionado, abollando la carcasa con un ruido fuerte.
+Plano 2 (1.5-3 s): Plano de seguimiento con cámara en mano. El Oponente B embiste desde un costado y golpea el hombro de la protagonista, haciéndola retroceder tambaleándose dos pasos.
+
+Ronda 2: Desarme
+Plano 3 (3-4.5 s): Plano medio. El Oponente A vuelve a lanzar el palo hacia abajo; la protagonista lo esquiva hacia un lado y el palo golpea las baldosas del piso.
+Plano 4 (4.5-6 s): Primer plano. La protagonista pisa el palo, le da un golpe con el canto de la mano en la muñeca al Oponente A para desarmarlo y luego patea el palo lejos, detrás de la unidad de aire acondicionado.
+
+Ronda 3: Derribando primero al Oponente B
+Plano 5 (6-7.5 s): Plano medio. El Oponente B lanza puñetazos; la protagonista bloquea con el antebrazo y le conecta un derechazo en el abdomen que lo hace doblarse.
+Plano 6 (7.5-9 s): Plano medio. La protagonista agarra los hombros del Oponente B y le propina un rodillazo en el pecho, lanzándolo de espaldas al suelo, donde queda encogido e incapaz de levantarse.
+
+Ronda 4: Duelo con el Oponente A
+Plano 7 (9-10.5 s): Plano medio. El Oponente A agarra el brazo de la protagonista por detrás; ella gira y le da un codazo en la mandíbula, echándole la cabeza hacia atrás.
+Plano 8 (10.5-12 s): Primer plano en seguimiento. El Oponente A lanza un puñetazo pesado que impacta en un costado del rostro de la protagonista; su cabello vuela, ella retrocede medio paso tambaleándose, recupera el equilibrio y le conecta dos jabs rápidos en el abdomen al Oponente A.
+Plano 9 (12-13.5 s): Plano medio más abierto. La protagonista agarra el cuello de la camisa del Oponente A y aprovecha su impulso hacia adelante para arrojarlo contra las baldosas. El Oponente A cae y no puede levantarse; el Oponente B sigue tirado en el suelo cerca de él.
+Plano 10 (13.5-15 s): Primer plano del rostro de la protagonista, delineado por el contraluz dorado del atardecer. Respira agitada, con el cabello ondeando al viento, mirando fijamente a los oponentes caídos. La imagen termina de forma abrupta.
+
+[Acción y cinematografía]
+Calidad cinematográfica realista, contraluz dorado del atardecer, luz de recorte en los bordes de los personajes y rostros claramente visibles.
+Cada puñetazo y patada debe hacer contacto con el objetivo primero, seguido del impacto corporal, el retroceso o la pérdida de equilibrio; nada de golpes al aire ni caídas prematuras sin haber recibido un impacto.
+Los dos oponentes atacan por turnos, sin forcejear con la protagonista al mismo tiempo; quienes caen derribados no se levantan para volver a pelear.
+Se permite una ligera vibración de cámara al momento de los impactos, pero debe quedar claro quién golpea a quién.
+Las posiciones de los tres personajes se mantienen coherentes entre planos consecutivos; sin teletransportaciones, objetos atravesándose ni manos, personajes o armas adicionales.
+El palo pateado permanece detrás de la unidad de aire acondicionado; nadie lo vuelve a recoger.
+Sin acrobacias, patadas voladoras ni superpoderes; sin primeros planos sangrientos. Enfocarse en la acción, evitando tomas cerradas innecesarias de partes del cuerpo.
+
+[Sonido]
+Viento en la azotea y ruido lejano de la ciudad. Los sonidos del palo golpeando la unidad de aire acondicionado, cada impacto, el palo siendo pateado y los cuerpos cayendo deben sincronizarse con precisión con la imagen.
+Música de acción intensa, de ritmo acelerado y con predominancia de percusiones, comienza desde el primer segundo, alcanza su máxima intensidad durante el lanzamiento final y termina con el sonido del viento y la respiración agitada.
+Sin diálogos, narración, subtítulos, textos ni marcas de agua. Relación de aspecto 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121536502622740480/img/47NQuQWyR7VKTVlc.jpg" width="600" alt="Prompt de Pelea de Acción Seedance 2.0">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13864)**
+
+**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fuente:** [Link](https://x.com/Adam38363368936/status/2121537568961384863) | **Publicado:** Nov 14, 2026
+
+---
+### Prompt de escena realista de pelea en cocina para Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt detallado de generación de video para Seedance 2.0 que crea una secuencia cinematográfica de acción de 15 segundos con dos hombres peleando en una cocina estrecha de restaurante, incluyendo coreografía específica, ángulos de cámara y diseño de sonido.
+
+#### 📝 Prompt
+
+```
+Genera un cortometraje de acción cinematográfico realista de 15 segundos, en formato horizontal 16:9, creado directamente a partir de texto.
+
+[Requisitos principales]
+Combate cuerpo a cuerpo continuo, de ritmo acelerado y alta densidad, como la escena de pelea más intensa de una película de acción de primer nivel, compuesto por 4 rondas de intercambios y 10 planos.
+El primer fotograma ya muestra el combate en pleno desarrollo; sin introducciones, caminatas, enfrentamientos previos ni poses.
+Sin cámara lenta en ningún momento; todas las acciones ocurren a velocidad real.
+Cada plano dura entre 1 y 2 segundos aproximadamente, mostrando solo una acción clara de ataque o defensa, con resultados visibles tras cada impacto.
+Las acciones se conectan de forma fluida entre planos; el resultado de una acción es el punto de partida de la siguiente, sin pausas.
+Ambos personajes atacan y reciben daño; el protagonista se ve dominado en la primera mitad, contraataca con mayor fuerza en la segunda y termina la pelea con un golpe definitivo.
+
+[Personajes]
+Protagonista: Hombre adulto de Asia oriental, de unos 32 años, cabello corto, facciones curtidas y complexión delgada pero musculosa. Viste una camiseta blanca de manga corta, jeans oscuros y botines negros, con manchas en la camiseta. No lleva armas.
+Oponente: Un hombre adulto corpulento que viste un uniforme de chef blanco y sucio con un delantal negro, sosteniendo un cuchillo carnicero en la mano derecha.
+Solo estos dos personajes aparecen durante todo el video; su aspecto físico, vestimenta y armas se mantienen constantes.
+
+[Escenario]
+La estrecha cocina trasera de un restaurante nocturno. Iluminación cálida amarillenta, largas mesas de trabajo de acero inoxidable contra la pared con bandejas metálicas encima, una olla grande de sopa sobre la estufa y ollas colgadas en las paredes.
+Todo el video transcurre en esta misma cocina; la posición de las mesas de trabajo, la olla de sopa y los dos personajes mantiene coherencia espacial de principio a fin.
+
+[Guion gráfico]
+
+Ronda 1: Dominado
+
+Plano 1 (0–1.5 s): Plano medio lateral. El oponente lanza un tajo horizontal con el cuchillo; el protagonista esquiva hacia atrás, el cuchillo impacta contra el borde de la mesa de acero inoxidable, desprendiendo chispas y un estruendo metálico.
+
+Plano 2 (1.5–3 s): Plano seguimiento con cámara en mano. El oponente embiste al protagonista con el hombro, golpeándole la zona lumbar contra la mesa de trabajo, lo que hace que las bandejas metálicas caigan estrepitosamente al suelo.
+
+Ronda 2: Desarme
+
+Plano 3 (3–4.5 s): Plano medio lateral. El oponente levanta el cuchillo para asestar un tajo descendente; el protagonista le sujeta la muñeca armada con ambas manos, deteniendo la hoja entre los dos.
+
+Plano 4 (4.5–6 s): Primer plano. El protagonista estrella con fuerza la muñeca del oponente contra el borde de la mesa de trabajo, el cuchillo carnicero sale volando y el protagonista lo patea hasta dejarlo bien debajo de la mesa.
+
+Ronda 3: Pelea a puño limpio
+
+Plano 5 (6–7.5 s): Plano medio. El oponente ruge y lanza un puñetazo pesado; el protagonista se agacha y conecta un gancho de derecha en el abdomen del oponente, doblándolo por la mitad.
+
+Plano 6 (7.5–9 s): Plano medio. El oponente agarra una bandeja metálica y la estrella contra el hombro del protagonista, deformándola; el protagonista trastabilla, pero logra recuperar el equilibrio.
+
+Ronda 4: Contraataque letal
+
+Plano 7 (9–10.5 s): Plano seguimiento cercano. El protagonista desvía el brazo del oponente, la bandeja cae, y le conecta dos golpes rápidos y cortos en la mandíbula y el pecho, haciéndolo retroceder.
+
+Plano 8 (10.5–12 s): Plano medio. El oponente vuelve a abalanzarse; el protagonista se hace a un lado, lo agarra de la nuca y le aplasta el torso contra la mesa de trabajo, estampándole el pecho contra la superficie.
+
+Plano 9 (12–13.5 s): Plano medio ligeramente más abierto. El oponente intenta levantarse y contraatacar; el protagonista le asesta un fuerte puñetazo en un costado del rostro, lanzándolo contra las ollas colgadas en la pared. Cae junto con ellas, incapaz de levantarse.
+
+Plano 10 (13.5–15 s): Primer plano del rostro del protagonista. Sudando a mares, jadeando con fuerza, mira fijamente y con fiereza al oponente caído. La imagen se corta de golpe.
+
+[Acción y cinematografía]
+Calidad cinematográfica realista, iluminación cálida amarillenta, reflejos fieles a la realidad en las superficies de acero inoxidable y ligero vapor en el aire.
+Cada puñetazo e impacto debe hacer contacto con el objetivo antes de mostrar la fuerza corporal, el retroceso o la pérdida de equilibrio; no golpear al aire ni caer antes del contacto.
+El espacio es reducido, las acciones son cerradas y cuerpo a cuerpo, usando la mesa de trabajo y las paredes como apoyo.
+Se permite una ligera vibración de cámara en los impactos, pero siempre debe quedar claro quién golpea a quién.
+La posición izquierda-derecha de los personajes se mantiene constante entre planos consecutivos; sin teletransportaciones, superposiciones visuales ni extremidades o armas adicionales.
+El cuchillo carnicero permanece debajo de la mesa de trabajo después de ser pateado; nadie lo vuelve a recoger y el arma no toca el cuerpo de nadie.
+Sin piruetas, patadas voladoras ni superpoderes; sin sangre ni heridas.
+
+[Sonido]
+Zumbido grave del extractor de la cocina. Los sonidos del cuchillo golpeando la mesa, las bandejas cayendo, el cuchillo siendo pateado, cada puñetazo conectando y las ollas volteándose están sincronizados con precisión a la imagen, con efectos metálicos nítidos y fuertes.
+Una banda sonora de acción tensa, de ritmo acelerado y con predominancia de percusiones comienza desde el primer segundo, alcanza su máxima intensidad cuando las ollas caen y termina con respiraciones agitadas y el traqueteo de las ollas.
+Sin diálogos, sin narración, sin subtítulos, sin texto ni marcas de agua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121237846946390016/img/rRg7Sh7Gk1HirQCt.jpg" width="600" alt="Prompt de escena realista de pelea en cocina para Seedance 2.0">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13865)**
+
+**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fuente:** [Link](https://x.com/Adam38363368936/status/2121238474523394531) | **Publicado:** Nov 13, 2026
+
+---
 ### Rescate de un tiburón blanco por una orca
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9357,44 +9508,6 @@ Crea un video cinematográfico y ultrarrealista de un guerrero intrépido con mi
 **Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Publicado:** Oct 24, 2026
 
 ---
-### Caída desde las Islas Flotantes del Sol - Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para un video de caer desde el sol hacia islas flotantes de engranajes, generado con Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Cayendo desde el sol hacia islas flotantes de engranajes, dejando una estela cian a su paso, hasta que un ojo azul llena la pantalla.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113525908065701888/pu/img/o4uirHvMrYyaolPq.jpg" width="600" alt="Caída desde las Islas Flotantes del Sol - Seedance 2.0">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12968)**
-
-**Autor:** [MxCaptures | AI VFX & Cinematic AI Artist](https://x.com/MxCaptures) | **Fuente:** [Link](https://x.com/MxCaptures/status/2113525990592848305) | **Publicado:** Oct 23, 2026
-
----
-### Película Cinematográfica del Estilo de Vida en Seúl
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de video fotorrealista de 27 segundos que muestra el día de una joven coreana en Seúl, transitando desde la oficina hasta la calle y luego a una azotea, con instrucciones específicas de cámara e iluminación.
-
-#### 📝 Prompt
-
-```
-Crea un cortometraje cinematográfico fotorrealista de estilo de vida de 27 segundos protagonizado por una joven coreana que disfruta de un día tranquilo en Seúl, con una atmósfera natural, emotiva y costumbrista. Comienza en el interior de una oficina o espacio de estudio moderno mientras ella se estira suavemente en su escritorio; luego, muéstrala caminando por un pasillo iluminado por el sol, con una cálida luz dorada y sombras realistas. Capta su recorrido por una calle concurrida de Seúl vistiendo un atuendo relajado de color crema, mediante un plano general cinematográfico en ángulo bajo y un primer plano donde sonríe de forma natural hacia la cámara. Muéstrala esperando en una estación de metro, de pie cerca del andén, y revisando tranquilamente su smartphone junto a la ventana de un tren. Pasa a primeros planos íntimos de su rostro, con una textura de piel natural y suave, expresiones sutiles y delicados reflejos de las luces de la ciudad. Después, enséñala disfrutando de una bebida helada junto a la acogedora ventana de una cafetería, apoyando la mano en la mejilla mientras observa la calle. Incluye el cálido interior de la cafetería, un primer plano de ella usando su teléfono y un paseo nocturno apacible por una calle de Seúl suavemente iluminada. Termina con ella de pie en una azotea durante la hora azul, disfrutando de la fresca brisa vespertina antes de girar hacia la cámara con una sonrisa dulce y sincera. Utiliza movimientos humanos realistas, identidad facial consistente, maquillaje natural, entornos urbanos coreanos auténticos, poca profundidad de campo, estética cinematográfica de lente de 35 mm, grano de película suave, luces cálidas, tonos azules fríos de atardecer y movimientos fluidos de cámara en mano. Mantén la continuidad del mismo personaje, peinado, rasgos faciales y vestuario durante todo el video, sin piel artificial, expresiones exageradas, manos deformes, transiciones bruscas ni textos o logotipos no deseados. Composición vertical 9:16, estética premium de comercial de estilo de vida coreano.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113502570014822400/img/pa6RpHmgQ4rNZE4-.jpg" width="600" alt="Película Cinematográfica del Estilo de Vida en Seúl">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=12926)**
-
-**Autor:** [liana](https://x.com/Lianaalane) | **Fuente:** [Link](https://x.com/Lianaalane/status/2113502626016825590) | **Publicado:** Oct 23, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -9456,6 +9569,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-15T05:22:07.848Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-15T15:42:15.516Z</sub>
 
 </div>

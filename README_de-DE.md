@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6684** |
+| 📝 Gesamtanzahl Prompts | **6686** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-11-15** |
 
@@ -361,6 +361,157 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Seedance 2.0 Action Fight Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Prompt zur Erstellung eines realistischen, kinoreifen Action-Kurzvideos mit einer weiblichen Protagonistin, die auf einem Stadtdach in der Dämmerung gegen zwei männliche Gegner kämpft.
+
+#### 📝 Prompt
+
+```
+Erstelle einen 15-sekündigen, realistischen Action-Kurzfilm im 16:9-Querformat mit cineastischer Optik, der direkt aus dem Text generiert wird.
+
+[Kernanforderungen]
+Hochdichte, rasante und durchgehende Nahkampfaction – vergleichbar mit der intensivsten Kampfszene eines erstklassigen Actionfilms – bestehend aus 4 Kampfrunden und 10 Einstellungen.
+Das erste Bild befindet sich bereits mitten im Kampf; kein Intro, kein Herumlaufen, kein Abtasten und keine Posen.
+Keine Zeitlupe im gesamten Film; alle Bewegungen laufen in Echtzeit ab.
+Jede Einstellung dauert etwa 1 bis 2 Sekunden, zeigt eine klar erkennbare Angriffs- oder Verteidigungsaktion und macht das Ergebnis des Treffers sichtbar.
+Die Aktionen gehen nahtlos ineinander über; das Ende einer Bewegung ist der Start der nächsten, ohne jegliche Pausen.
+Die Protagonistin kämpft gegen zwei Gegner gleichzeitig (2 gegen 1). Die beiden Angreifer attackieren abwechselnd, sodass immer nur einer aktiv zuschlägt. In der ersten Hälfte wird die Protagonistin in die Defensive gedrängt, greift in der zweiten Hälfte jedoch aggressiver an und beendet den Kampf mit einem finalen Schlag.
+
+[Charaktere]
+Weibliche Protagonistin: Eine erwachsene ostasiatische Frau, etwa 26 Jahre alt, schöne Gesichtszüge, schwarzes schulterlanges Haar, wohlproportionierter und kräftiger Körperbau. Sie trägt ein weißes Crop-Top, schwarze High-Waist-Cargoshorts und schwarze Sneaker. Sie ist unbewaffnet.
+Gegner A: Ein großer erwachsener Mann mit Buzzcut, schwarzem Kurzarm-T-Shirt und dunkler Jeans. Er hält einen Holzstock in der rechten Hand.
+Gegner B: Ein schlanker erwachsener Mann mit kurzen Locken, roter Sportjacke und schwarzer Sporthose, unbewaffnet.
+Im gesamten Film treten ausschließlich diese drei Personen auf. Ihr Aussehen, ihre Kleidung und ihre Waffen bleiben durchgehend konsistent. Die Kleidungsfarben der beiden Gegner sind deutlich voneinander unterscheidbar.
+
+[Schauplatz]
+Ein Hochhausdach in der Stadt während der Abenddämmerung. Goldenes Gegenlicht der untergehenden Sonne von einer Bildseite, die Skyline der Stadt ist in der Ferne sichtbar. Auf dem Dach befinden sich eine graue Außeneinheit einer Klimaanlage, eine hüfthohe Reihe Betonbrüstungen sowie graue Bodenfliesen.
+Der gesamte Film spielt auf genau diesem Dach. Die Positionen der Klimaanlage, der Brüstungen und der drei Charaktere bleiben räumlich durchgehend logisch und konsistent. Alle Kämpfe finden mit Abstand zur Brüstungskante statt; niemand stürzt vom Gebäude.
+
+[Storyboard]
+
+Runde 1: In der Defensive
+Einstellung 1 (0–1,5 s): Halbtotale von der Seite. Gegner A schwingt den Stock horizontal; die Protagonistin duckt sich weg, der Stock trifft die Klimaanlage und verbeult das Gehäuse mit einem lauten Knall.
+Einstellung 2 (1,5–3 s): Handgeführte Verfolgungsaufnahme. Gegner B stürmt von der Seite heran und schlägt der Protagonistin auf die Schulter, wodurch sie zwei Schritte zurücktaumelt.
+
+Runde 2: Entwaffnung
+Einstellung 3 (3–4,5 s): Halbtotale. Gegner A schlägt erneut mit dem Stock nach unten; die Protagonistin weicht seitlich aus, der Stock knallt auf die Bodenfliesen.
+Einstellung 4 (4,5–6 s): Nahaufnahme. Die Protagonistin tritt auf den Stock, schlägt Gegner A mit der Handkante aufs Handgelenk, entwaffnet ihn und kickt den Stock weit hinter die Klimaanlage.
+
+Runde 3: Gegner B wird zuerst ausgeschaltet
+Einstellung 5 (6–7,5 s): Halbtotale. Gegner B teilt Schläge aus; die Protagonistin blockt mit dem Unterarm und landet einen rechten Haken in seinem Bauch, der ihn zusammenkrümmen lässt.
+Einstellung 6 (7,5–9 s): Halbtotale. Die Protagonistin packt Gegner B an den Schultern und rammt ihm einen Kniestoß in die Brust. Er fliegt rückwärts zu Boden, rollt sich zusammen und kann nicht mehr aufstehen.
+
+Runde 4: Duell mit Gegner A
+Einstellung 7 (9–10,5 s): Halbtotale. Gegner A packt den Arm der Protagonistin von hinten; sie dreht sich um und stößt ihm den Ellbogen ins Kinn, sodass sein Kopf nach hinten schnellt.
+Einstellung 8 (10,5–12 s): Nahe Verfolgungsaufnahme. Gegner A landet einen harten Schlag an der Seite ihres Gesichts; ihr Haar fliegt, sie taumelt einen halben Schritt, fängt sich aber sofort und trifft Gegner A mit zwei schnellen Jabs in den Bauch.
+Einstellung 9 (12–13,5 s): Etwas weitere Halbtotale. Die Protagonistin packt Gegner A am Kragen, nutzt seinen Vorwärtsschwung und wirft ihn auf die Bodenfliesen. Gegner A fällt hin und bleibt liegen; Gegner B liegt weiterhin zusammengerollt in der Nähe am Boden.
+Einstellung 10 (13,5–15 s): Nahaufnahme des Gesichts der Protagonistin, umrahmt vom goldenen Gegenlicht der Abendsonne. Sie atmet schwer, ihr Haar weht im Wind, ihr Blick fixiert scharf die am Boden liegenden Gegner. Das Bild bricht abrupt ab.
+
+[Action & Kameraführung]
+Realistische cineastische Qualität, goldenes Gegenlicht der Dämmerung, Kantenlicht an den Figuren, Gesichter klar erkennbar.
+Jeder Faustschlag und Tritt muss das Ziel tatsächlich treffen, bevor der Körper reagiert, zurückweicht oder das Gleichgewicht verliert. Keine Luftschläge, kein Stürzen vor dem eigentlichen Treffer.
+Die beiden Gegner greifen abwechselnd an und klammern sich nicht gleichzeitig an die Protagonistin. Wer am Boden liegt, steht nicht wieder auf, um weiterzukämpfen.
+Leichtes Kamerawackeln bei Treffern ist erlaubt, es muss jedoch stets eindeutig erkennbar bleiben, wer wen trifft.
+Die Positionen der drei Charaktere müssen zwischen aufeinanderfolgenden Einstellungen stimmig bleiben; kein Teleportieren, keine Clipping-Fehler und keine zusätzlichen Hände, Charaktere oder Waffen.
+Der weggekickte Stock bleibt hinter der Klimaanlage liegen; niemand hebt ihn wieder auf.
+Keine Saltos, Fliegenden Tritte oder Superkräfte; keine blutigen Nahaufnahmen. Der Fokus liegt auf der Action, unnötige Detailaufnahmen von Körperteilen sind zu vermeiden.
+
+[Ton]
+Wind auf dem Dach und entfernter Stadtlärm. Die Geräusche des Stocks, der die Klimaanlage trifft, jedes einzelnen Schlages, des weggekickedten Stocks und der fallenden Körper müssen exakt mit dem Bild synchronisiert sein.
+Intensive, rasante und schlagzeuglastige Actionmusik setzt ab der ersten Sekunde ein, erreicht beim finalen Wurf ihren Höhepunkt und endet mit Windgeräuschen und schwerem Atmen.
+Keine Dialoge, kein Voiceover, keine Untertitel, kein Text und keine Wasserzeichen. Seitenverhältnis 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121536502622740480/img/47NQuQWyR7VKTVlc.jpg" width="600" alt="Seedance 2.0 Action Fight Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13864)**
+
+**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Quelle:** [Link](https://x.com/Adam38363368936/status/2121537568961384863) | **Veröffentlicht:** Nov 14, 2026
+
+---
+### Seedance 2.0 Prompt für realistische Küchen-Kampfszene
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Video-Generierungsprompt für Seedance 2.0 zur Erstellung einer 15-sekündigen cineastischen Action-Sequenz mit zwei Männern, die in einer engen Restaurantküche kämpfen, inklusive spezifischer Choreografie, Kameraperspektiven und Sounddesign.
+
+#### 📝 Prompt
+
+```
+Erstelle einen 15 Sekunden langen, realistischen Action-Kurzfilm im 16:9-Querformat mit cineastischer Optik, der direkt aus dem Text generiert wird.
+
+[Kernanforderungen]
+Hochdichte, rasante und durchgehende Nahkämpfe – wie die intensivste Kampfszene in einem erstklassigen Actionfilm –, bestehend aus 4 Schlagabtauschen und 10 Einstellungen.
+Das erste Bild befindet sich bereits mitten im Kampf; kein Intro, kein Herangehen, kein Abtasten und keine Posen.
+Keine Zeitlupe im gesamten Video; alle Bewegungen laufen in Echtzeit ab.
+Jede Einstellung dauert etwa 1 bis 2 Sekunden und zeigt nur eine einzige klare Angriffs- oder Verteidigungsaktion, deren Treffer sichtbare Folgen hat.
+Die Aktionen gehen nahtlos ineinander über; das Ende einer Bewegung ist der Start der nächsten, ohne jede Pause.
+Beide Kämpfer greifen an und stecken Treffer ein; der Protagonist wird in der ersten Hälfte in die Defensive gedrängt, schlägt in der zweiten Hälfte umso härter zurück und beendet den Kampf mit einem finalen Schlag.
+
+[Charaktere]
+Protagonist: Ein erwachsener ostasiatischer Mann, etwa 32 Jahre alt, kurze Haare, markante Gesichtszüge, sehnig-muskulöse Statur. Er trägt ein weißes Kurzarm-T-Shirt mit Flecken, dunkle Jeans und schwarze Kurzstiefel. Er ist unbewaffnet.
+Gegner: Ein bulliger erwachsener Mann in einer schmutzigen weißen Kochjacke mit schwarzer Schürze, der in der rechten Hand ein Küchenbeil hält.
+Im gesamten Video treten ausschließlich diese beiden Personen auf; ihr Aussehen, ihre Kleidung und ihre Waffen bleiben durchgehend konsistent.
+
+[Szene]
+Eine enge Hinterküche eines Restaurants spät in der Nacht. Warmes, gelbliches Licht, lange Edelstahl-Arbeitstische an der Wand mit Metallblechen darauf, ein großer Suppentopf auf dem Herd sowie Töpfe, die an den Wänden hängen.
+Das gesamte Video spielt in genau dieser Küche; die Positionen der Arbeitstische, des Suppentopfs und der beiden Charaktere bleiben von Anfang bis Ende räumlich schlüssig.
+
+[Storyboard]
+
+Runde 1: In der Defensive
+
+Einstellung 1 (0–1,5 s): Seitliche Halbtotale. Der Gegner holt zu einem waagerechten Messerstreich aus; der Protagonist weicht nach hinten aus, das Messer trifft die Kante des Edelstahl-Arbeitstisches, Funken sprühen und es scheppert metallisch.
+
+Einstellung 2 (1,5–3 s): Handgeführte Verfolgungsaufnahme. Der Gegner rammt dem Protagonisten die Schulter in den Körper und drückt dessen unteren Rücken gegen den Arbeitstisch, sodass die Metallbleche klappernd zu Boden fallen.
+
+Runde 2: Entwaffnung
+
+Einstellung 3 (3–4,5 s): Seitliche Halbtotale. Der Gegner hebt das Messer zum Hieb; der Protagonist packt das Handgelenk des Gegners mit beiden Händen, die Klinge stoppt zwischen ihnen.
+
+Einstellung 4 (4,5–6 s): Nahaufnahme. Der Protagonist schlägt das Handgelenk des Gegners hart gegen die Tischkante, das Beil löst sich aus dem Griff, und der Protagonist kickt das Messer tief unter den Arbeitstisch.
+
+Runde 3: Faustkampf
+
+Einstellung 5 (6–7,5 s): Halbtotale. Der Gegner brüllt auf und schlägt wuchtig zu; der Protagonist duckt sich weg und landet einen rechten Haken in die Magengrube des Gegners, der sich daraufhin krümmt.
+
+Einstellung 6 (7,5–9 s): Halbtotale. Der Gegner greift nach einem Metallblech und schlägt es dem Protagonisten auf die Schulter, wobei sich das Blech verformt; der Protagonist taumelt, fängt sich aber wieder.
+
+Runde 4: Konter und Sieg
+
+Einstellung 7 (9–10,5 s): Nahe Verfolgungsaufnahme. Der Protagonist lenkt den Arm des Gegners ab, das Blech fällt zu Boden, er setzt zwei schnelle, kurze Schläge gegen Kiefer und Brust des Gegners und drängt ihn zurück.
+
+Einstellung 8 (10,5–12 s): Halbtotale. Der Gegner stürmt erneut vor, der Protagonist weicht seitlich aus, packt ihn im Nacken, drückt seinen Oberkörper auf den Arbeitstisch und knallt seine Brust gegen die Oberfläche.
+
+Einstellung 9 (12–13,5 s): Etwas weitere Halbtotale. Der Gegner versucht aufzustehen und zu kontern, der Protagonist landet einen schweren Schlag seitlich ins Gesicht, schleudert ihn gegen die an der Wand hängenden Töpfe, woraufhin beide samt Töpfen zu Boden gehen und der Gegner nicht mehr aufstehen kann.
+
+Einstellung 10 (13,5–15 s): Nahaufnahme des Gesichts des Protagonisten. Schweißgebadet, schwer atmend, den Blick wild auf den am Boden liegenden Gegner gerichtet. Das Bild endet abrupt.
+
+[Aktion & Kamera]
+Realistische Kinoqualität, warmes gelbliches Licht, authentische Reflexionen auf den Edelstahloberflächen, leichter Dampf in der Luft.
+Jeder Schlag und Aufprall muss das Ziel tatsächlich treffen, bevor körperlicher Einsatz, Rückstoß oder Gleichgewichtsverlust sichtbar werden; keine Luftschläge, kein Fallen vor dem Kontakt.
+Der Raum ist eng, die Aktionen sind kompakt und finden im Nahkampf statt, wobei Arbeitstisch und Wände als Hebel genutzt werden.
+Leichtes Kamerawackeln bei Treffern ist erlaubt, es muss jedoch stets klar erkennbar bleiben, wer wen getroffen hat.
+Die Links-Rechts-Positionierung der Charaktere bleibt zwischen aufeinanderfolgenden Einstellungen konsistent; kein Teleportieren, keine Überschneidungen und keine zusätzlichen Gliedmaßen oder Waffen.
+Das Beil bleibt nach dem Wegkicken unter dem Arbeitstisch liegen; niemand hebt es wieder auf, und das Messer berührt keinen Körper.
+Keine Saltos, Flugtritte oder Superkräfte; kein Blut und keine Wunden.
+
+[Ton]
+Tiefes Brummen der Küchenabzugshaube. Die Geräusche des Messers, das auf den Tisch trifft, der klappernden Bleche, des weggekickten Messers, jedes einzelnen auftreffenden Schlags und der umfallenden Töpfe sind exakt mit dem Bild synchronisiert – mit knackigen, lauten Metallklängen.
+Ein angespannter, schneller, schlagzeuglastiger Action-Soundtrack setzt ab der ersten Sekunde ein, erreicht seinen Höhepunkt, als die Töpfe umfallen, und endet mit schwerem Atmen und dem Klappern der wackelnden Töpfe.
+Keine Dialoge, kein Voiceover, keine Untertitel, kein Text, keine Wasserzeichen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121237846946390016/img/rRg7Sh7Gk1HirQCt.jpg" width="600" alt="Seedance 2.0 Prompt für realistische Küchen-Kampfszene">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13865)**
+
+**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Quelle:** [Link](https://x.com/Adam38363368936/status/2121238474523394531) | **Veröffentlicht:** Nov 13, 2026
+
+---
 ### Großer Weißer Hai wird von Orca gerettet
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9372,44 +9523,6 @@ Erstelle ein cineastisches, ultra-realistisches Video eines furchtlosen Kriegers
 **Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Veröffentlicht:** Oct 24, 2026
 
 ---
-### Absturz von den Sonnen-Schwebenden Inseln Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für ein Video, das einen Sturz von der Sonne hin zu schwebenden Inseln aus Zahnrädern zeigt, generiert mit Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Sie fällt von der Sonne hinab zu schwebenden Inseln aus Zahnrädern, eine cyanfarbene Spur hinter sich – dann füllt ein einziges blaues Auge das gesamte Bild.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2113525908065701888/pu/img/o4uirHvMrYyaolPq.jpg" width="600" alt="Absturz von den Sonnen-Schwebenden Inseln Seedance 2.0">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12968)**
-
-**Autor:** [MxCaptures | AI VFX & Cinematic AI Artist](https://x.com/MxCaptures) | **Quelle:** [Link](https://x.com/MxCaptures/status/2113525990592848305) | **Veröffentlicht:** Oct 23, 2026
-
----
-### Seoul Lifestyle – Cinematic Film
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein 27-sekündiger fotorealistischer Video-Prompt, der den Tagesablauf einer jungen Koreanerin in Seoul darstellt – vom Büro über die Straße bis zur Dachterrasse – mit spezifischen Kamera- und Lichtanweisungen.
-
-#### 📝 Prompt
-
-```
-Erstelle einen 27 Sekunden langen, fotorealistischen, cineastischen Lifestyle-Film über eine junge Koreanerin, die einen friedlichen Tag in Seoul erlebt – mit einer natürlichen, emotionalen Slice-of-Life-Atmosphäre. Beginne in einem modernen Büro oder Arbeitsbereich, wo sie sich sanft an ihrem Schreibtisch reckt, und zeige sie anschließend, wie sie durch einen sonnenüberfluteten Flur mit warmem goldenem Licht und realistischen Schatten geht. Halte fest, wie sie in einem entspannten cremefarbenen Outfit entlang einer belebten Straße in Seoul spaziert – eingefangen in einer cineastischen Weitwinkelaufnahme aus der Froschperspektive sowie in einer Nahaufnahme, in der sie natürlich in die Kamera lächelt. Zeige sie beim Warten an einer U-Bahn-Station, wie sie nahe am Bahnsteig steht und leise neben einem Zugfenster auf ihr Smartphone schaut. Gehe dann zu intimen Nahaufnahmen ihres Gesichts über: weiche, natürliche Hautstruktur, subtile Gesichtsausdrücke und sanfte Reflexionen der Stadtlichter. Als Nächstes genießt sie ein Eisgetränk am Fenster eines gemütlichen Cafés, stützt ihre Hand an die Wange und beobachtet das Treiben draußen auf der Straße. Integriere ein warmes Café-Interieur, eine Nahaufnahme, in der sie ihr Handy nutzt, sowie einen friedlichen Nachtspaziergang durch eine sanft beleuchtete Straße in Seoul. Beende den Film damit, dass sie zur blauen Stunde auf einer Dachterrasse steht, die kühle Abendbrise genießt und sich dann mit einem sanften, herzlichen Lächeln der Kamera zuwendet. Verwende realistische menschliche Bewegungen, eine konsistente Gesichtsidentität, natürliches Make-up, authentische koreanische Stadtkulissen, eine geringe Schärfentiefe, die Ästhetik eines cineastischen 35mm-Objektivs, feines Filmkorn, warme Lichter, kühle blaue Abendtöne und fließende Handkamerabewegungen. Behalte denselben Charakter, dieselbe Frisur, dieselben Gesichtszüge und eine durchgehende Outfit-Kontinuität bei – ohne künstlich wirkende Haut, übertriebene Mimik, verzerrte Hände, abrupte Übergänge oder unerwünschte Texte und Logos. Vertikales 9:16-Format, hochwertige Ästhetik eines koreanischen Lifestyle-Werbespots.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113502570014822400/img/pa6RpHmgQ4rNZE4-.jpg" width="600" alt="Seoul Lifestyle – Cinematic Film">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12926)**
-
-**Autor:** [liana](https://x.com/Lianaalane) | **Quelle:** [Link](https://x.com/Lianaalane/status/2113502626016825590) | **Veröffentlicht:** Oct 23, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -9471,6 +9584,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-15T05:22:08.757Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-15T15:42:16.814Z</sub>
 
 </div>
