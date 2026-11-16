@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6686** |
+| 📝 Gesamtanzahl Prompts | **6687** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-11-16** |
 
@@ -361,6 +361,75 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Seedance 2.0 Prompt für realistische MMA-Kampfszene
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Prompt zur Erstellung einer intensiven Mixed-Martial-Arts-Kampfszene in Seedance 2.0, mit spezifischen Charakterbeschreibungen, Kameraperspektiven und Anweisungen zum Sounddesign.
+
+#### 📝 Prompt
+
+```
+Erstelle einen 15-sekündigen, horizontalen (16:9), realistischen cineastischen Action-Kurzfilm, der direkt aus dem Text generiert wird.
+
+[Kernanforderungen]
+Hochdichte, rasante und durchgehende Nahkampfaction – wie die packendste Kampfszene in einem erstklassigen Actionfilm –, mit 4 Schlagabtauschen und 10 Einstellungen.
+Das erste Bild befindet sich bereits mitten im Kampf; kein Intro, kein Herangehen, kein Abtasten oder Posen.
+Durchgehend keine Zeitlupe; alle Bewegungen laufen in Echtzeit ab.
+Jede Einstellung dauert etwa 1–2 Sekunden, zeigt eine klare Angriffs-/Abwehraktion und das Ergebnis nach dem Treffer.
+Die Aktionen gehen nahtlos ineinander über; das Ende einer Bewegung ist der Start der nächsten, ohne Pausen.
+Beide Seiten greifen an und kassieren Treffer; die Protagonistin wird in der ersten Hälfte in die Defensive gedrängt, wehrt sich in der zweiten Hälfte erbittert und beendet den Kampf mit einem finalen Schlag.
+
+[Figuren]
+Protagonistin: Eine erwachsene ostasiatische Frau, etwa 26 Jahre alt, markante Gesichtszüge, scharfer Blick, schwarzes langes Haar zu straff am Kopf anliegenden Zöpfen geflochten, athletischer Körper mit sichtbarer Muskeldefinition. Sie trägt ein schwarzes Sport-Top, schwarze MMA-Shorts, schwarze fingerlose Handschuhe und ist barfuß.
+Gegner: Ein erwachsener Mann, deutlich massiger als die Protagonistin, Glatze, Brust-Tattoo, rote MMA-Shorts, rote fingerlose Handschuhe, barfuß.
+Im gesamten Film treten nur diese beiden Figuren auf; Aussehen und Kleidung bleiben durchgehend konsistent.
+
+[Schauplatz]
+Im Inneren eines achteckigen Drahtkäfigs in einer Untergrund-Kampfarena. Gedämpftes Umgebungslicht, starke Deckenstrahler beleuchten den Käfig, außerhalb verschwommene Silhouetten von Zuschauern und Rauch. Dunkelgraue Matten auf dem Boden des Käfigs.
+Der gesamte Film spielt im selben Käfig; das Drahtgeflecht und die Positionen der Figuren bleiben stimmig.
+
+[Storyboard]
+
+Runde 1: In der Defensive
+Einstellung 1 (0–1,5 s): Halbnah, seitlich. Der Gegner landet einen schweren Punch; die Protagonistin taucht darunter weg, der Gegner setzt mit einem tiefen Sweep-Kick gegen ihren äußeren Oberschenkel nach, wodurch sie ins Stolpern gerät.
+Einstellung 2 (1,5–3 s): Handgeführte Kamerafahrt. Der Gegner stürmt mit einem geraden Punch voran, der auf die blockenden Arme der Protagonistin trifft, sie gegen den Maschendrahtzaun drückt und diesen heftig zum Wackeln bringt.
+
+Runde 2: Befreiung
+Einstellung 3 (3–4,5 s): Nahaufnahme. Der Gegner presst die Protagonistin gegen den Zaun und holt zum Schlag aus; sie blockt mit beiden Händen, ihr Körper zuckt unter der Wucht des Aufpralls zurück.
+Einstellung 4 (4,5–6 s): Nahaufnahme. Die Protagonistin nutzt eine Lücke und rammt dem Gegner einen Kniestoß in den Bauch; er krümmt sich, sie schlüpft seitlich am Zaun vorbei heraus.
+
+Runde 3: Schlagabtausch
+Einstellung 5 (6–7,5 s): Halbnah. Die Protagonistin feuert blitzschnell einen Jab und einen Cross ab, beide treffen das Gesicht des Gegners und reißen seinen Kopf nach hinten.
+Einstellung 6 (7,5–9 s): Halbnah. Der Gegner brüllt auf und kontert mit einem Haken, der die Wange der Protagonistin trifft, ihr Zopf schwingt mit; sie stolpert, geht aber sofort wieder in die Deckung.
+
+Runde 4: Konter-K.-o.
+Einstellung 7 (9–10,5 s): Nahe Kamerafahrt. Der Gegner schlägt einen weiten Haken; die Protagonistin duckt sich darunter weg und trifft ihn mit einem Ellbogenstoß am Kiefer, sodass er taumelt.
+Einstellung 8 (10,5–12 s): Halbnah. Die Protagonistin greift den Nacken des Gegners und rammt ihm zwei schnelle Kniestöße in die Brust, wodurch er sich nach vorne beugt.
+Einstellung 9 (12–13,5 s): Etwas weitere Halbnahe. Sie lässt seinen Nacken los und landet einen schweren Punch an seinem Kiefer; seine Knie geben nach, er kracht schwer auf die Matte und kann nicht mehr aufstehen.
+Einstellung 10 (13,5–15 s): Nahaufnahme des Gesichts der Protagonistin, vom Deckenlicht angestrahlt, schweißgebadet. Ihr Brustkorb hebt und senkt sich schwer, die Fäuste noch in Deckung, der scharfe Blick fest auf den gefallenen Gegner gerichtet. Das Bild endet unmittelbar.
+
+[Action & Kameraführung]
+Realistische Kinoqualität, starkes Licht von oben, dunkle Umgebung außerhalb des Käfigs, glänzender Schweiß.
+Jeder Punch/Kick muss sichtbar treffen, bevor Kraftaufnahme, Rückzug oder Gleichgewichtsverlust gezeigt werden; keine Luftschläge, keine verfrühten Stürze.
+Die Bewegungen folgen echten MMA-Techniken; Punches haben Impulsgebung und Rückzug, die Füße stehen fest auf den Matten.
+Leichtes Kamerawackeln beim Aufprall ist erlaubt, es muss jedoch klar erkennbar bleiben, wer wen getroffen hat.
+Die Links-rechts-Positionierung der Figuren bleibt zwischen aufeinanderfolgenden Einstellungen konsistent; kein Teleportieren, kein Clipping, keine zusätzlichen Gliedmaßen oder Figuren.
+Keine Saltos, fliegenden Tritte oder Superkräfte; keine blutigen Nahaufnahmen. Der Fokus liegt auf der Action, nicht auf einzelnen Körperteilen.
+
+[Ton]
+Gedämpfte Jubelrufe der Menge im Hintergrund. Aufprallgeräusche (Zaun, Punches, Kniestöße, Stürze) sind präzise auf das Bild synchronisiert; dumpf und wuchtig.
+Spannungsgeladener, schneller, schlagzeuglastiger Action-Soundtrack ab Sekunde 1, der beim finalen Punch seinen Höhepunkt erreicht und mit dem explodierenden Jubel der Menge sowie dem Keuchen der Protagonistin endet.
+Keine Dialoge, kein Voice-over, keine Untertitel, kein Text und keine Wasserzeichen., 16:9, 15s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121951410317393920/img/aq_L0F8KWMKKc4-2.jpg" width="600" alt="Seedance 2.0 Prompt für realistische MMA-Kampfszene">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13893)**
+
+**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Quelle:** [Link](https://x.com/Adam38363368936/status/2121952543366648318) | **Veröffentlicht:** Nov 15, 2026
+
+---
 ### Seedance 2.0 Action Fight Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -9504,25 +9573,6 @@ eine alltägliche Abfolge: eine Bestellung abholen, sich eine Pommes schnappen, 
 **Autor:** [Jayden Douglass 💭 | AI Coach](https://x.com/JaydenCoach) | **Quelle:** [Link](https://x.com/JaydenCoach/status/2113867722786259116) | **Veröffentlicht:** Oct 24, 2026
 
 ---
-### Cineastischer Krieger-Video-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung eines cineastischen, ultra-realistischen Videos eines furchtlosen Kriegers mit dramatischer Beleuchtung und Slow-Motion-Effekten.
-
-#### 📝 Prompt
-
-```
-Erstelle ein cineastisches, ultra-realistisches Video eines furchtlosen Kriegers mit durchdringendem Blick, starker Präsenz und selbstbewusster Ausstrahlung. Nutze dramatische Lichtsetzung, fließende Zeitlupen-Bewegungen, detaillierte Texturen, einen dunklen, atmosphärischen Hintergrund sowie professionelles Color Grading. 4K-Qualität, gestochen scharfer Fokus, epische Stimmung und ein visuell beeindruckendes, cineastisches Finish.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113848979058470912/img/toLQfOH68vyUJD9j.jpg" width="600" alt="Cineastischer Krieger-Video-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12967)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Veröffentlicht:** Oct 24, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -9584,6 +9634,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-16T05:12:56.462Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-16T18:23:13.363Z</sub>
 
 </div>

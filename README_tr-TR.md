@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6686** |
+| 📝 Toplam İstem | **6687** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-11-16** |
 
@@ -361,6 +361,75 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Seedance 2.0 Gerçekçi MMA Dövüş Sahnesi Promptu
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0'da yüksek tempolu bir karma dövüş sanatları (MMA) sahnesi oluşturmak için detaylı bir prompt. Karakter açıklamaları, kamera açıları ve ses tasarımı talimatlarını içerir.
+
+#### 📝 İstem
+
+```
+Doğrudan metinden üretilen, 15 saniyelik, 16:9 yatay formatta, gerçekçi ve sinematik bir aksiyon kısa filmi oluştur.
+
+[Temel Gereksinimler]
+Üst düzey bir aksiyon filmindeki en heyecan verici dövüş sahnesini andıran; yüksek tempolu, kesintisiz ve yoğun yakın mesafe dövüşü. Toplam 4 atak turu ve 10 çekim.
+İlk karede dövüş çoktan başlamış olmalı; giriş, yürüyüş, bekleme veya poz verme sahneleri kesinlikle olmamalı.
+Film boyunca ağır çekim kullanılmamalı; tüm hareketler gerçek zamanlı hızda gerçekleşmeli.
+Her çekim yaklaşık 1-2 saniye sürmeli; net bir saldırı/savunma hamlesi tamamlanmalı ve darbenin ardından sonuç gösterilmeli.
+Çekimler arası geçişler kusursuz olmalı; bir önceki hareketin sonucu, bir sonrakine hiç duraksamadan bağlanmalı.
+Her iki taraf da hem saldırmalı hem de darbe almalı. Kadın ana karakter ilk yarıda baskı altında kalmalı, ikinci yarıda şiddetle karşılık vermeli ve dövüşü son bir darbeyle bitirmeli.
+
+[Karakterler]
+Kadın Ana Karakter: Yaklaşık 26 yaşında yetişkin bir Doğu Asyalı kadın. Keskin hatlı güzel bir yüz, delici bakışlar, kafasına sıkıca örülmüş uzun siyah saçlar, kas hatları belirgin fit bir vücut. Üzerinde siyah sporcu atleti, siyah MMA şortu, siyah parmaksız eldiven var ve çıplak ayaklı.
+Rakip: Kadın ana karakterden belirgin şekilde daha iri yapılı yetişkin bir erkek. Kel, göğsünde dövme var, kırmızı MMA şortu ve kırmızı parmaksız eldiven giyiyor, çıplak ayaklı.
+Film boyunca yalnızca bu iki karakter yer almalı; görünüm ve kıyafetler tutarlılığını korumalı.
+
+[Mekan]
+Yeraltı dövüş arenasında sekizgen tel bir kafesin içi. Ortam loş; kafesi aydınlatan güçlü tepe ışıkları var. Dışarıda seyircilerin bulanık silüetleri ve duman görünüyor. Kafes zemininde koyu gri matlar bulunuyor.
+Filmin tamamı aynı kafeste geçmeli; tel örgüler ve karakter konumları tutarlı olmalı.
+
+[Sahne Akışı]
+
+1. Tur: Baskı Altında
+Çekim 1 (0–1.5 sn): Yandan orta plan çekim. Rakip sert bir yumruk atar; kadın ana karakter eğilerek kaçar, rakip hemen ardından alt bölgeye bir süpürme tekmesi atarak kadının dış uyluğuna isabet ettirir ve onu sendeletir.
+Çekim 2 (1.5–3 sn): El kamerasıyla takip çekimi. Rakip düz bir yumrukla ileri atılır, yumruk kadın ana karakterin savunan kollarına çarparak onu tel çite doğru iter ve çiti şiddetle sarsar.
+
+2. Tur: Kaçış
+Çekim 3 (3–4.5 sn): Yakın çekim. Rakip, kadın ana karakteri çite sıkıştırır ve vurmak için yumruğunu kaldırır; kadın iki eliyle savunur, vücudu darbenin etkisiyle sarsılır.
+Çekim 4 (4.5–6 sn): Yakın çekim. Kadın ana karakter bir boşluk yakalayarak rakibin karnına diz darbesi indirir; rakip öne doğru eğilirken kadın çitin kenarından sıyrılıp çıkar.
+
+3. Tur: Karşılıklı Ataklar
+Çekim 5 (6–7.5 sn): Orta plan çekim. Kadın ana karakter hızla bir jab ve ardından bir cross yumruk atar; her ikisi de rakibin yüzüne isabet ederek başını geriye savurur.
+Çekim 6 (7.5–9 sn): Orta plan çekim. Rakip kükreyerek bir kroşeyle karşılık verir ve yumruk kadın ana karakterin yanağına isabet eder, örgüsü savrulur; kadın sendeler ama anında gardını alır.
+
+4. Tur: Karşı Saldırı ve Bitiriş
+Çekim 7 (9–10.5 sn): Yakın takip çekimi. Rakip geniş bir kroşe savurur; kadın ana karakter eğilerek altından geçer ve dirseğini rakibin çenesine geçirerek onu sendeletir.
+Çekim 8 (10.5–12 sn): Orta plan çekim. Kadın ana karakter rakibin boynunu kavrar ve göğsüne art arda iki diz darbesi indirerek onu öne doğru büker.
+Çekim 9 (12–13.5 sn): Biraz daha geniş orta plan. Boynu bırakır ve rakibin çenesine ağır bir yumruk indirir; rakibin dizlerinin bağı çözülür ve matın üzerine ağır bir şekilde yığılarak kalkamaz hale gelir.
+Çekim 10 (13.5–15 sn): Tepe ışığıyla aydınlanan, ter içinde kalmış kadın ana karakterin yüzünün yakın çekimi. Göğsü inip kalkıyor, yumrukları hâlâ garda, keskin bakışları yerde yatan rakibine sabitlenmiş durumda. Ekran doğrudan kararır.
+
+[Aksiyon ve Sinematografi]
+Gerçekçi sinematik kalite, güçlü tepe aydınlatması, kafesin dışı karanlık, parlayan ter damlaları.
+Her yumruk/tekme, kuvvetin emilmesi, geri çekilme veya denge kaybı gösterilmeden önce mutlaka hedefe temas etmeli; havaya giden darbeler veya erken düşmeler olmamalı.
+Hareketler gerçek MMA tekniklerine uygun olmalı; yumruklar güç üretimi ve geri çekme mekaniğine sahip olmalı, ayaklar mata sağlam basmalı.
+Darbe anlarında hafif kamera sarsıntısı kullanılabilir ancak kimin kime vurduğu net bir şekilde görünmelidir.
+Ardışık çekimlerde karakterlerin sağ/sol konumları tutarlı olmalı; ani yer değiştirme, nesnelerin iç içe geçmesi veya fazladan uzuv/karakter hatası bulunmamalı.
+Takla, uçan tekme veya doğaüstü güçler olmamalı; kan/vahşet yakın çekimleri kullanılmamalı. Odak noktası vücut parçaları değil, aksiyonun kendisi olmalı.
+
+[Ses]
+Arka planda boğuk seyirci tezahüratları. Darbe sesleri (çit, yumruk, diz, düşme) görüntüyle kusursuz senkronize olmalı; tok ve güçlü hissettirmeli.
+1. saniyeden itibaren başlayan gerilimli, hızlı ve davul ağırlıklı aksiyon müziği; son yumrukta zirveye ulaşmalı, seyircinin coşkulu patlaması ve kadın ana karakterin nefes nefese kalışıyla sona ermeli.
+Diyalog, anlatım, altyazı, metin veya filigran olmamalı., 16:9, 15s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121951410317393920/img/aq_L0F8KWMKKc4-2.jpg" width="600" alt="Seedance 2.0 Gerçekçi MMA Dövüş Sahnesi Promptu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13893)**
+
+**Yazar:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Kaynak:** [Link](https://x.com/Adam38363368936/status/2121952543366648318) | **Yayınlandı:** Nov 15, 2026
+
+---
 ### Seedance 2.0 Aksiyon Dövüşü İstem Metni
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -9462,25 +9531,6 @@ sıradan bir an: siparişi almak, bir patates kızartması kapmak, bir yudum iç
 **Yazar:** [Jayden Douglass 💭 | AI Coach](https://x.com/JaydenCoach) | **Kaynak:** [Link](https://x.com/JaydenCoach/status/2113867722786259116) | **Yayınlandı:** Oct 24, 2026
 
 ---
-### Sinematik Savaşçı Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dramatik ışıklandırma ve ağır çekim efektleriyle korkusuz bir savaşçının sinematik, ultra gerçekçi videosunu oluşturmak için bir istem.
-
-#### 📝 İstem
-
-```
-Keskin bakışlara, güçlü bir duruşa ve kendinden emin bir tavıra sahip korkusuz bir savaşçının sinematik, ultra gerçekçi bir videosunu oluşturun. Dramatik ışıklandırma, akıcı ağır çekim hareketler, detaylı dokular, karanlık ve atmosferik bir arka plan ile profesyonel renk düzenlemesi kullanın. 4K kalite, keskin odak, epik bir atmosfer ve görsel olarak büyüleyici sinematik bir final.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113848979058470912/img/toLQfOH68vyUJD9j.jpg" width="600" alt="Sinematik Savaşçı Video İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=12967)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Yayınlandı:** Oct 24, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -9542,6 +9592,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-16T05:13:02.659Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-16T18:23:17.464Z</sub>
 
 </div>

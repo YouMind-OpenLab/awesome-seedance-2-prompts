@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6686** |
+| 📝 Total Prompts | **6687** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-11-16** |
 
@@ -365,6 +365,75 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Seedance 2.0 Realistic MMA Fight Scene Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for generating a high-intensity mixed martial arts fight scene in Seedance 2.0, featuring specific character descriptions, camera angles, and sound design instructions.
+
+#### 📝 Prompt
+
+```
+Generate a 15-second, 16:9 horizontal realistic cinematic action short film, generated directly from text.
+
+[Core Requirements]
+High-density, fast-paced, continuous close-quarters combat, like the most exciting fight scene in a top-tier action movie, with 4 rounds of exchanges and 10 shots.
+The first frame is already mid-fight; no intro, walking, standoff, or posing.
+No slow motion throughout; all actions are at real-time speed.
+Each shot lasts about 1-2 seconds, completing one clear attack/defense and showing the result after impact.
+Actions connect tightly between shots; the result of the previous action is the start of the next, with no pauses.
+Both sides attack and get hit; the female protagonist is suppressed in the first half, fights back fiercely in the second half, and ends the fight with a final blow.
+
+[Characters]
+Female Protagonist: An adult East Asian woman around 26 years old, beautiful features, sharp eyes, black long hair braided tight to the scalp, fit body with muscle definition. Wearing a black sports tank top, black MMA shorts, black fingerless gloves, barefoot.
+Opponent: An adult male significantly larger than the female protagonist, bald, chest tattoo, wearing red MMA shorts, red fingerless gloves, barefoot.
+Only these two characters in the entire film; appearance and clothing remain consistent.
+
+[Scene]
+Inside an octagonal wire cage in an underground fighting arena. Dim environment, strong overhead lights illuminating the cage, blurry silhouettes of spectators and smoke outside. Dark gray mats on the cage floor.
+The entire film takes place in the same cage; wire mesh and character positions remain coherent.
+
+[Storyboard]
+
+Round 1: Suppressed
+Shot 1 (0–1.5s): Side medium shot. Opponent throws a heavy punch; female protagonist ducks, opponent follows with a low sweep kick hitting her outer thigh, causing her to stagger.
+Shot 2 (1.5–3s): Handheld tracking shot. Opponent charges with a straight punch hitting the female protagonist's blocking arms, pushing her against the wire fence, shaking it violently.
+
+Round 2: Escape
+Shot 3 (3–4.5s): Close-up. Opponent pins female protagonist against the fence, raises fist to strike; she blocks with both hands, body jolting from impact.
+Shot 4 (4.5–6s): Close-up. Female protagonist exploits a gap, delivering a knee strike to opponent's abdomen; he bends over, she slips out from the fence side.
+
+Round 3: Exchange
+Shot 5 (6–7.5s): Medium shot. Female protagonist quickly throws a jab and a cross, both hitting opponent's face, snapping his head back.
+Shot 6 (7.5–9s): Medium shot. Opponent roars and counters with a hook hitting female protagonist's cheek, braid swinging; she stumbles but immediately raises guard.
+
+Round 4: Counter-Kill
+Shot 7 (9–10.5s): Close-up tracking. Opponent swings a big hook; female protagonist ducks under, delivering an elbow to his jaw, making him stagger.
+Shot 8 (10.5–12s): Medium shot. Female protagonist grabs opponent's neck, delivers two consecutive knees to his chest, bending him forward.
+Shot 9 (12–13.5s): Slightly wider medium. She releases neck, lands a heavy punch on opponent's jaw; his knees buckle, he collapses heavily onto the mat, unable to rise.
+Shot 10 (13.5–15s): Close-up of female protagonist's face, lit by overhead light, sweat-soaked. Chest heaving, fists still guarding, sharp gaze fixed on fallen opponent. Screen ends directly.
+
+[Action & Cinematography]
+Realistic cinematic quality, strong overhead lighting, dark outside cage, sweat glistening.
+Every punch/kick must make contact before showing force absorption, retreat, or imbalance; no air hits, no premature falls.
+Actions follow real MMA techniques; punches have power generation/retraction, feet plant firmly on mats.
+Slight camera shake on impact allowed, but must clearly show who hit whom.
+Character left/right positions consistent between adjacent shots; no teleporting, clipping, or extra limbs/characters.
+No flips, flying kicks, or superpowers; no gore close-ups. Focus on action, not body parts.
+
+[Sound]
+Muffled crowd cheers as background. Impact sounds (fence, punches, knees, falls) sync accurately with visuals; dull and powerful.
+Tense, fast, drum-heavy action score from second 1, peaking at final punch, ending with crowd explosion and female protagonist's panting.
+No dialogue, narration, subtitles, text, or watermarks., 16:9, 15s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121951410317393920/img/aq_L0F8KWMKKc4-2.jpg" width="600" alt="Seedance 2.0 Realistic MMA Fight Scene Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13893)**
+
+**Author:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2121952543366648318) | **Published:** Nov 15, 2026
+
+---
 ### Seedance 2.0 Action Fight Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -9648,25 +9717,6 @@ an everyday sequence: picking up an order, grabbing a fry, taking a sip, and lau
 **Author:** [Jayden Douglass 💭 | AI Coach](https://x.com/JaydenCoach) | **Source:** [Link](https://x.com/JaydenCoach/status/2113867722786259116) | **Published:** Oct 24, 2026
 
 ---
-### Fearless Warrior Cinematic Portrait
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a cinematic, ultra-realistic video of a fearless warrior with dramatic lighting and epic mood.
-
-#### 📝 Prompt
-
-```
-Create a cinematic, ultra-realistic video of a fearless warrior with intense eyes, a powerful presence, and a confident attitude. Use dramatic lighting, smooth slow-motion movements, detailed textures, a dark atmospheric background, and professional color grading. 4K quality, sharp focus, epic mood, and a visually stunning cinematic finish.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113848979058470912/img/toLQfOH68vyUJD9j.jpg" width="600" alt="Fearless Warrior Cinematic Portrait">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12967)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Published:** Oct 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -9728,6 +9778,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-16T05:12:43.995Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-16T18:23:04.521Z</sub>
 
 </div>

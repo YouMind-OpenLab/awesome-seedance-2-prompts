@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6686** |
+| 📝 Total de prompts | **6687** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-11-16** |
 
@@ -361,6 +361,75 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Prompt de Escena de Pelea Realista de MMA para Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt detallado para generar una escena de pelea de artes marciales mixtas de alta intensidad en Seedance 2.0, que incluye descripciones específicas de personajes, ángulos de cámara e instrucciones de diseño de sonido.
+
+#### 📝 Prompt
+
+```
+Genera un cortometraje de acción cinematográfico realista de 15 segundos en formato horizontal 16:9, creado directamente a partir de texto.
+
+[Requisitos principales]
+Combate cuerpo a cuerpo continuo, frenético y de alta densidad, como la escena de pelea más intensa de una película de acción de primer nivel, con 4 rondas de intercambios y 10 planos.
+El primer fotograma ya muestra el combate en pleno desarrollo; sin introducciones, caminatas, enfrentamientos previos ni poses.
+Sin cámara lenta en ningún momento; todas las acciones ocurren a velocidad real.
+Cada plano dura entre 1 y 2 segundos aproximadamente, completando un ataque o defensa claro y mostrando el resultado tras el impacto.
+Las acciones se encadenan de forma fluida entre planos; el desenlace de un movimiento es el punto de partida del siguiente, sin pausas.
+Ambos luchadores atacan y reciben golpes; la protagonista femenina está dominada durante la primera mitad, contraataca con fiereza en la segunda y remata la pelea con un golpe definitivo.
+
+[Personajes]
+Protagonista femenina: Mujer adulta de origen asiático oriental de unos 26 años, facciones hermosas, mirada penetrante, cabello negro largo trenzado muy pegado al cuero cabelludo, cuerpo atlético con musculatura definida. Viste una camiseta deportiva negra sin mangas, pantalones cortos negros de MMA, guantes negros sin dedos y va descalza.
+Oponente: Hombre adulto considerablemente más grande que la protagonista, calvo, con un tatuaje en el pecho, viste pantalones cortos rojos de MMA, guantes rojos sin dedos y va descalzo.
+Solo aparecen estos dos personajes en todo el cortometraje; su aspecto físico y vestuario se mantienen constantes.
+
+[Escenario]
+Interior de una jaula octagonal de malla metálica en una arena de lucha clandestina. Ambiente oscuro, potentes luces cenitales que iluminan la jaula, siluetas borrosas de espectadores y humo en el exterior. El suelo de la jaula está cubierto por colchonetas gris oscuro.
+Toda la acción transcurre en la misma jaula; la malla metálica y la posición de los personajes mantienen la coherencia espacial.
+
+[Guion gráfico]
+
+Ronda 1: Dominio del rival
+Plano 1 (0–1,5 s): Plano medio lateral. El oponente lanza un puñetazo pesado; la protagonista lo esquiva agachándose, pero él encadena una patada baja de barrido que impacta en su muslo externo y la hace tambalearse.
+Plano 2 (1,5–3 s): Plano de seguimiento con cámara en mano. El oponente embiste con un golpe recto que choca contra los brazos de la protagonista mientras ella bloquea, empujándola contra la malla metálica y haciéndola vibrar violentamente.
+
+Ronda 2: Escape
+Plano 3 (3–4,5 s): Primer plano. El oponente inmoviliza a la protagonista contra la malla y levanta el puño para golpear; ella bloquea con ambas manos y su cuerpo se sacude por el impacto.
+Plano 4 (4,5–6 s): Primer plano. La protagonista aprovecha un descuido y le clava un rodillazo en el abdomen; él se dobla hacia adelante y ella se escabulle por un lado de la malla.
+
+Ronda 3: Intercambio de golpes
+Plano 5 (6–7,5 s): Plano medio. La protagonista lanza rápidamente un jab y un directo que impactan ambos en el rostro del oponente, echándole la cabeza hacia atrás.
+Plano 6 (7,5–9 s): Plano medio. El oponente ruge y responde con un gancho que golpea la mejilla de la protagonista, haciendo volar su trenza; ella tropieza, pero recupera la guardia de inmediato.
+
+Ronda 4: Contraataque letal
+Plano 7 (9–10,5 s): Seguimiento en primer plano. El oponente lanza un gancho amplio; la protagonista pasa por debajo y le conecta un codazo en la mandíbula que lo hace tambalearse.
+Plano 8 (10,5–12 s): Plano medio. La protagonista agarra al oponente por el cuello y le asesta dos rodillazos consecutivos en el pecho, obligándolo a inclinarse hacia adelante.
+Plano 9 (12–13,5 s): Plano medio ligeramente más abierto. Ella suelta el cuello y le descarga un puñetazo brutal en la mandíbula; las rodillas del oponente ceden y se desploma pesadamente sobre la lona, incapaz de levantarse.
+Plano 10 (13,5–15 s): Primer plano del rostro de la protagonista, iluminado por la luz cenital y empapado en sudor. Con el pecho subiendo y bajando agitadamente, los puños aún en guardia y la mirada afilada fija en su oponente caído. Corte directo a negro.
+
+[Acción y dirección de fotografía]
+Calidad cinematográfica realista, iluminación cenital potente, oscuridad fuera de la jaula, sudor brillante.
+Cada puñetazo o patada debe hacer contacto antes de mostrar la absorción del impacto, el retroceso o la pérdida de equilibrio; nada de golpes al aire ni caídas prematuras.
+Los movimientos siguen técnicas reales de MMA; los puñetazos muestran la generación y retracción de fuerza, y los pies se apoyan firmemente en la lona.
+Se permite una ligera vibración de cámara en los impactos, pero siempre debe quedar claro quién golpea a quién.
+La posición izquierda/derecha de los personajes debe ser coherente entre planos consecutivos; sin teletransportaciones, superposiciones visuales ni extremidades o personajes adicionales.
+Sin acrobacias, patadas voladoras ni superpoderes; sin primeros planos sangrientos. El enfoque está en la acción, no en partes aisladas del cuerpo.
+
+[Sonido]
+Vítores amortiguados del público como sonido de fondo. Los sonidos de impacto (contra la malla, puñetazos, rodillazos, caídas) están perfectamente sincronizados con la imagen; graves y contundentes.
+Banda sonora de acción tensa, rápida y dominada por percusiones desde el segundo 1, alcanzando su clímax con el último puñetazo y terminando con el estallido del público y la respiración agitada de la protagonista.
+Sin diálogos, narración, subtítulos, texto ni marcas de agua., 16:9, 15s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121951410317393920/img/aq_L0F8KWMKKc4-2.jpg" width="600" alt="Prompt de Escena de Pelea Realista de MMA para Seedance 2.0">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13893)**
+
+**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fuente:** [Link](https://x.com/Adam38363368936/status/2121952543366648318) | **Publicado:** Nov 15, 2026
+
+---
 ### Prompt de Pelea de Acción Seedance 2.0
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -9516,25 +9585,6 @@ una secuencia cotidiana: recoger un pedido, robar una papa frita, dar un sorbo y
 **Autor:** [Jayden Douglass 💭 | AI Coach](https://x.com/JaydenCoach) | **Fuente:** [Link](https://x.com/JaydenCoach/status/2113867722786259116) | **Publicado:** Oct 24, 2026
 
 ---
-### Prompt de Video Cinematográfico de Guerrero
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar un video cinematográfico y ultra realista de un guerrero intrépido con iluminación dramática y efectos de cámara lenta.
-
-#### 📝 Prompt
-
-```
-Crea un vídeo cinematográfico y ultrarrealista de un guerrero intrépido, con mirada intensa, presencia imponente y actitud segura. Utiliza iluminación dramática, movimientos fluidos en cámara lenta, texturas detalladas, un fondo oscuro y atmosférico, y etalonaje profesional. Calidad 4K, enfoque nítido, atmósfera épica y un acabado cinematográfico visualmente espectacular.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113848979058470912/img/toLQfOH68vyUJD9j.jpg" width="600" alt="Prompt de Video Cinematográfico de Guerrero">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=12967)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Publicado:** Oct 24, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -9596,6 +9646,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-16T05:12:53.605Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-16T18:23:11.821Z</sub>
 
 </div>

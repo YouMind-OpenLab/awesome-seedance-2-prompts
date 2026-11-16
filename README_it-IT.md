@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6686** |
+| 📝 Totale prompt | **6687** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-11-16** |
 
@@ -361,6 +361,75 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Prompt per scena di combattimento MMA realistico con Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt dettagliato per generare una scena di combattimento di arti marziali miste ad alta intensità in Seedance 2.0, con descrizioni specifiche dei personaggi, angolazioni della camera e istruzioni per il sound design.
+
+#### 📝 Prompt
+
+```
+Genera un cortometraggio d'azione cinematografico realistico di 15 secondi, in formato orizzontale 16:9, creato direttamente da testo.
+
+[Requisiti principali]
+Combattimento corpo a corpo continuo, frenetico e ad alta densità, come la scena di lotta più adrenalinica di un film d'azione di altissimo livello, con 4 round di scambi e 10 inquadrature.
+Il primo fotogramma mostra già il combattimento nel vivo: nessuna introduzione, camminata, stallo o posa plastica.
+Nessun rallentatore (slow motion) per tutta la durata; tutte le azioni si svolgono a velocità reale.
+Ogni inquadratura dura circa 1-2 secondi, completando un chiaro attacco/difesa e mostrando l'esito dopo l'impatto.
+Le azioni si collegano perfettamente tra un'inquadratura e l'altra; l'esito dell'azione precedente è l'inizio della successiva, senza alcuna pausa.
+Entrambi attaccano e vengono colpiti; la protagonista femminile subisce nella prima metà, contrattacca ferocemente nella seconda e chiude lo scontro con un colpo finale.
+
+[Personaggi]
+Protagonista femminile: donna adulta est asiatica di circa 26 anni, lineamenti bellissimi, sguardo tagliente, lunghi capelli neri intrecciati aderenti al cranio, fisico atletico e muscolatura definita. Indossa una canotta sportiva nera, pantaloncini MMA neri, guantini a dita libere neri, piedi scalzi.
+Avversario: uomo adulto notevolmente più massiccio della protagonista, calvo, tatuaggio sul petto, indossa pantaloncini MMA rossi, guantini a dita libere rossi, piedi scalzi.
+Solo questi due personaggi in tutto il video; aspetto e abbigliamento rimangono sempre coerenti.
+
+[Ambientazione]
+All'interno di una gabbia ottagonale di rete metallica in un'arena clandestina di combattimento. Ambiente buio, forti luci dall'alto che illuminano la gabbia, sagome sfocate di spettatori e fumo all'esterno. Tappetini grigio scuro sul pavimento della gabbia.
+L'intero video si svolge nella stessa gabbia; la rete metallica e le posizioni dei personaggi restano coerenti.
+
+[Storyboard]
+
+Round 1: Sottomissione
+Inquadratura 1 (0–1,5s): Piano medio laterale. L'avversario sferra un pugno pesante; la protagonista schiva abbassandosi, lui prosegue con un calcio basso spazzato che la colpisce alla coscia esterna, facendola barcollare.
+Inquadratura 2 (1,5–3s): Carrellata a mano. L'avversario carica con un pugno diretto che colpisce le braccia in guardia della protagonista, spingendola contro la rete metallica e facendola vibrare violentemente.
+
+Round 2: Fuga
+Inquadratura 3 (3–4,5s): Primo piano. L'avversario blocca la protagonista contro la rete, alza il pugno per colpirla; lei para con entrambe le mani, il corpo sussulta per l'impatto.
+Inquadratura 4 (4,5–6s): Primo piano. La protagonista sfrutta uno spiraglio e sferra una ginocchiata all'addome dell'avversario; lui si piega in avanti e lei sguscia via lateralmente lungo la rete.
+
+Round 3: Scambio
+Inquadratura 5 (6–7,5s): Piano medio. La protagonista tira rapidamente un jab e un cross, entrambi a segno sul viso dell'avversario, facendogli scattare la testa all'indietro.
+Inquadratura 6 (7,5–9s): Piano medio. L'avversario ruggisce e risponde con un gancio che colpisce la guancia della protagonista, facendo oscillare la treccia; lei inciampa ma rialza subito la guardia.
+
+Round 4: Contrattacco letale
+Inquadratura 7 (9–10,5s): Carrellata in primo piano. L'avversario sferra un ampio gancio; la protagonista si abbassa per schivarlo e gli pianta una gomitata alla mascella, facendolo vacillare.
+Inquadratura 8 (10,5–12s): Piano medio. La protagonista afferra il collo dell'avversario e gli assesta due ginocchiate consecutive al petto, piegandolo in avanti.
+Inquadratura 9 (12–13,5s): Piano medio leggermente più largo. Lei lascia il collo e piazza un pugno devastante sulla mascella dell'avversario; le ginocchia di lui cedono e crolla pesantemente sul tappeto, incapace di rialzarsi.
+Inquadratura 10 (13,5–15s): Primo piano del viso della protagonista, illuminato dalla luce dall'alto, madido di sudore. Petto ansimante, pugni ancora in guardia, sguardo tagliente fisso sull'avversario a terra. Il video termina direttamente su questa immagine.
+
+[Azione e regia]
+Qualità cinematografica realistica, forte illuminazione dall'alto, oscurità fuori dalla gabbia, sudore che luccica.
+Ogni pugno/calcio deve andare a segno prima di mostrare l'assorbimento del colpo, l'arretramento o lo squilibrio; nessun colpo a vuoto, nessuna caduta anticipata.
+Le azioni seguono tecniche MMA reali; i pugni hanno caricamento e rientro, i piedi sono ben piantati sui tappetini.
+È consentito un leggero tremolio della camera agli impatti, ma deve essere sempre chiaro chi colpisce chi.
+Le posizioni destra/sinistra dei personaggi devono essere coerenti tra inquadrature consecutive; niente teletrasporti, compenetrazioni o arti/personaggi extra.
+Niente capriole, calci volanti o superpoteri; nessun primo piano splatter. Focus sull'azione, non sulle singole parti del corpo.
+
+[Audio]
+Tifo ovattato del pubblico in sottofondo. I suoni degli impatti (rete, pugni, ginocchiate, cadute) sono perfettamente sincronizzati con le immagini; cupi e potenti.
+Colonna sonora d'azione tesa, veloce e dominata dalle percussioni dal secondo 1, che raggiunge il picco con il pugno finale e si chiude con l'esplosione del pubblico e il respiro affannoso della protagonista.
+Nessun dialogo, voce narrante, sottotitolo, testo o watermark., 16:9, 15s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121951410317393920/img/aq_L0F8KWMKKc4-2.jpg" width="600" alt="Prompt per scena di combattimento MMA realistico con Seedance 2.0">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13893)**
+
+**Autore:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fonte:** [Link](https://x.com/Adam38363368936/status/2121952543366648318) | **Pubblicato:** Nov 15, 2026
+
+---
 ### Prompt di combattimento Seedance 2.0
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -9448,25 +9517,6 @@ una sequenza di tutti i giorni: ritirare un ordine, rubare una patatina, fare un
 **Autore:** [Jayden Douglass 💭 | AI Coach](https://x.com/JaydenCoach) | **Fonte:** [Link](https://x.com/JaydenCoach/status/2113867722786259116) | **Pubblicato:** Oct 24, 2026
 
 ---
-### Prompt Video Cinematografico Guerriero
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per generare un video cinematografico ultra-realistico di un guerriero senza paura, con illuminazione drammatica ed effetti slow-motion.
-
-#### 📝 Prompt
-
-```
-Crea un video cinematografico e ultra-realistico di un guerriero impavido dallo sguardo intenso, una presenza imponente e un atteggiamento sicuro di sé. Utilizza un'illuminazione drammatica, movimenti fluidi al rallentatore, texture dettagliate, uno sfondo scuro e ricco di atmosfera e una color grading professionale. Qualità 4K, messa a fuoco nitida, atmosfera epica e un risultato finale cinematografico visivamente mozzafiato.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113848979058470912/img/toLQfOH68vyUJD9j.jpg" width="600" alt="Prompt Video Cinematografico Guerriero">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12967)**
-
-**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Pubblicato:** Oct 24, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -9528,6 +9578,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-16T05:12:58.972Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-16T18:23:14.989Z</sub>
 
 </div>

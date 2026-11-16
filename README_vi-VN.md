@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6686** |
+| 📝 Tổng số prompt | **6687** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-11-16** |
 
@@ -361,6 +361,75 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Prompt cảnh chiến đấu MMA chân thực cho Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt chi tiết để tạo cảnh chiến đấu võ tổng hợp cường độ cao trong Seedance 2.0, bao gồm mô tả nhân vật cụ thể, góc quay và hướng dẫn thiết kế âm thanh.
+
+#### 📝 Prompt
+
+```
+Tạo một bộ phim ngắn hành động điện ảnh chân thực, tỷ lệ 16:9 nằm ngang, thời lượng 15 giây, được tạo trực tiếp từ văn bản.
+
+[Yêu cầu cốt lõi]
+Mật độ hành động cao, nhịp độ nhanh, cận chiến liên tục không ngừng nghỉ, giống như phân cảnh giao tranh kịch tính nhất trong một bộ phim hành động đỉnh cao, gồm 4 hiệp đấu và 10 cảnh quay.
+Khung hình đầu tiên đã ở giữa trận đấu; không có phần giới thiệu, đi lại, gườm nhau hay tạo dáng.
+Không dùng chuyển động chậm (slow motion) xuyên suốt video; mọi hành động đều diễn ra ở tốc độ thời gian thực.
+Mỗi cảnh quay kéo dài khoảng 1-2 giây, hoàn thành trọn vẹn một đòn tấn công/phòng thủ rõ ràng và thể hiện kết quả ngay sau khi va chạm.
+Các hành động nối tiếp nhau chặt chẽ giữa các cảnh; kết quả của đòn trước là điểm khởi đầu của đòn sau, không có khoảng dừng.
+Cả hai bên đều tấn công và trúng đòn; nữ chính bị áp đảo trong nửa đầu, phản kháng dữ dội ở nửa sau và kết thúc trận đấu bằng một đòn quyết định.
+
+[Nhân vật]
+Nữ chính: Một phụ nữ Đông Á trưởng thành khoảng 26 tuổi, đường nét sắc sảo, ánh mắt lạnh lùng, tóc đen dài tết sát da đầu, vóc dáng săn chắc lộ rõ múi cơ. Mặc áo ba lỗ thể thao màu đen, quần đùi MMA màu đen, găng tay hở ngón màu đen, đi chân trần.
+Đối thủ: Một người đàn ông trưởng thành có thân hình to lớn hơn hẳn nữ chính, đầu trọc, ngực có hình xăm, mặc quần đùi MMA màu đỏ, găng tay hở ngón màu đỏ, đi chân trần.
+Toàn bộ phim chỉ có hai nhân vật này; ngoại hình và trang phục phải giữ nguyên sự đồng nhất.
+
+[Bối cảnh]
+Bên trong lồng sắt bát giác tại một sàn đấu ngầm. Không gian tối tăm, đèn chiếu sáng mạnh từ trên cao rọi thẳng xuống lồng, bóng khán giả mờ ảo và khói bốc lên ở phía ngoài. Sàn lồng trải thảm nệm màu xám đậm.
+Toàn bộ phim diễn ra trong cùng một lồng đấu; lưới thép và vị trí của các nhân vật phải đảm bảo tính liên tục.
+
+[Kịch bản phân cảnh]
+
+Hiệp 1: Bị áp đảo
+Cảnh 1 (0–1.5s): Cảnh trung góc nghiêng. Đối thủ tung cú đấm nặng; nữ chính né thấp, đối thủ bồi thêm cú đá quét tầm thấp trúng mặt ngoài đùi cô, khiến cô loạng choạng.
+Cảnh 2 (1.5–3s): Cảnh quay cầm tay bám theo nhân vật. Đối thủ lao tới tung cú đấm thẳng trúng vào cánh tay đang phòng thủ của nữ chính, đẩy cô đập vào hàng rào lưới sắt, làm nó rung lắc dữ dội.
+
+Hiệp 2: Thoát hiểm
+Cảnh 3 (3–4.5s): Cảnh cận. Đối thủ ép nữ chính vào hàng rào, giơ nắm đấm chuẩn bị đánh; cô dùng cả hai tay đỡ đòn, toàn thân giật nảy vì lực va chạm.
+Cảnh 4 (4.5–6s): Cảnh cận. Nữ chính chớp thời cơ hở, tung cú lên gối trúng bụng đối thủ; hắn gập người lại, cô lách ra khỏi mép hàng rào.
+
+Hiệp 3: Ăn miếng trả miếng
+Cảnh 5 (6–7.5s): Cảnh trung. Nữ chính nhanh chóng tung cú thọc (jab) rồi cú đấm thẳng tay sau (cross), cả hai đều trúng mặt đối thủ, khiến đầu hắn bật ngược ra sau.
+Cảnh 6 (7.5–9s): Cảnh trung. Đối thủ gầm lên và phản công bằng cú móc (hook) trúng má nữ chính, bím tóc văng theo cú đánh; cô lảo đảo nhưng lập tức nâng tay thủ thế.
+
+Hiệp 4: Phản đòn hạ gục
+Cảnh 7 (9–10.5s): Cảnh cận bám theo. Đối thủ vung cú móc cực mạnh; nữ chính luồn người xuống dưới, tung cùi chỏ trúng hàm hắn, khiến hắn loạng choạng.
+Cảnh 8 (10.5–12s): Cảnh trung. Nữ chính túm lấy cổ đối thủ, tung hai cú lên gối liên tiếp vào ngực hắn, ép hắn gập người về phía trước.
+Cảnh 9 (12–13.5s): Cảnh trung hơi rộng. Cô buông cổ đối thủ, giáng một cú đấm trời giáng vào hàm hắn; đầu gối hắn khuỵu xuống, đổ sập nặng nề lên thảm nệm, không thể gượng dậy.
+Cảnh 10 (13.5–15s): Cảnh cận khuôn mặt nữ chính, được đèn trên cao chiếu sáng, ướt đẫm mồ hôi. Ngực phập phồng thở dốc, hai nắm đấm vẫn giữ tư thế phòng thủ, ánh mắt sắc lẹm ghim chặt vào đối thủ đã ngã gục. Video kết thúc ngay tại đây.
+
+[Hành động & Kỹ thuật quay]
+Chất lượng điện ảnh chân thực, ánh sáng mạnh từ trên cao, không gian ngoài lồng tối đen, mồ hôi nhễ nhại phản chiếu ánh đèn.
+Mọi cú đấm/đá đều phải chạm mục tiêu trước khi thể hiện lực hấp thụ, bước lùi hoặc mất thăng bằng; không đấm gió, không ngã trước khi trúng đòn.
+Hành động tuân theo kỹ thuật MMA thực tế; các cú đấm có quá trình phát lực/thu tay về, bàn chân trụ vững trên thảm.
+Cho phép máy quay rung nhẹ khi có va chạm, nhưng phải thể hiện rõ ai đánh trúng ai.
+Vị trí trái/phải của nhân vật phải nhất quán giữa các cảnh liền kề; không dịch chuyển tức thời, không lỗi xuyên vật thể, không xuất hiện thừa tay chân hay nhân vật.
+Không nhào lộn, đá bay người hay siêu năng lực; không quay cận cảnh máu me. Tập trung vào hành động, không xoáy vào các bộ phận cơ thể.
+
+[Âm thanh]
+Tiếng hò reo của đám đông nghe trầm đục làm nền. Âm thanh va chạm (lưới sắt, cú đấm, cú gối, tiếng ngã) khớp chính xác với hình ảnh; âm sắc trầm và đầy uy lực.
+Nhạc nền hành động căng thẳng, dồn dập, thiên về tiếng trống bắt đầu từ giây thứ 1, đạt cao trào ở cú đấm cuối cùng, kết thúc bằng tiếng đám đông bùng nổ và nhịp thở hổn hển của nữ chính.
+Không có lời thoại, thuyết minh, phụ đề, chữ viết hay watermark., 16:9, 15s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121951410317393920/img/aq_L0F8KWMKKc4-2.jpg" width="600" alt="Prompt cảnh chiến đấu MMA chân thực cho Seedance 2.0">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13893)**
+
+**Tác giả:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Nguồn:** [Link](https://x.com/Adam38363368936/status/2121952543366648318) | **Đã xuất bản:** Nov 15, 2026
+
+---
 ### Prompt Chiến Đấu Hành Động Seedance 2.0
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -9516,25 +9585,6 @@ một chuỗi khoảnh khắc thường ngày: nhận phần ăn, nhón lấy mi
 **Tác giả:** [Jayden Douglass 💭 | AI Coach](https://x.com/JaydenCoach) | **Nguồn:** [Link](https://x.com/JaydenCoach/status/2113867722786259116) | **Đã xuất bản:** Oct 24, 2026
 
 ---
-### Prompt Video Chiến Binh Điện Ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video chiến binh điện ảnh siêu thực với ánh sáng kịch tính và hiệu ứng slow-motion.
-
-#### 📝 Prompt
-
-```
-Tạo một video siêu chân thực mang đậm chất điện ảnh về một chiến binh quả cảm với ánh mắt sắc lạnh, khí chất mạnh mẽ và phong thái đầy tự tin. Sử dụng ánh sáng kịch tính, các chuyển động chậm mượt mà, chi tiết bề mặt sắc nét, phông nền tối đầy tâm trạng cùng kỹ thuật chỉnh màu chuyên nghiệp. Chất lượng 4K, lấy nét chuẩn xác, không khí hào hùng và hiệu ứng thị giác điện ảnh mãn nhãn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113848979058470912/img/toLQfOH68vyUJD9j.jpg" width="600" alt="Prompt Video Chiến Binh Điện Ảnh">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12967)**
-
-**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Đã xuất bản:** Oct 24, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -9596,6 +9646,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-16T05:12:51.160Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-16T18:23:09.539Z</sub>
 
 </div>

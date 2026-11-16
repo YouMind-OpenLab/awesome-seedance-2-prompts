@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6686** |
+| 📝 Total de prompts | **6687** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-11-16** |
 
@@ -361,6 +361,75 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Prompt de Cena Realista de Luta MMA para Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt detalhado para gerar uma cena de luta de artes marciais mistas (MMA) de alta intensidade no Seedance 2.0, com descrições específicas dos personagens, ângulos de câmera e instruções de design de som.
+
+#### 📝 Prompt
+
+```
+Gere um curta-metragem de ação cinematográfico realista, horizontal (16:9), com 15 segundos de duração, criado diretamente a partir de texto.
+
+[Requisitos Principais]
+Combate corpo a corpo contínuo, de ritmo acelerado e alta densidade, como a cena de luta mais eletrizante de um filme de ação de primeira linha, com 4 rounds de trocação e 10 planos.
+O primeiro quadro já começa no meio da luta; sem introduções, caminhadas, encaradas ou poses.
+Sem câmera lenta em nenhum momento; todas as ações ocorrem em velocidade real.
+Cada plano dura cerca de 1 a 2 segundos, completando um ataque/defesa claro e mostrando o resultado após o impacto.
+As ações se conectam perfeitamente entre os planos; o resultado do movimento anterior é o ponto de partida do próximo, sem pausas.
+Ambos atacam e são atingidos; a protagonista feminina é pressionada na primeira metade, reage com ferocidade na segunda e encerra a luta com um golpe final.
+
+[Personagens]
+Protagonista Feminina: Mulher adulta leste-asiática de aproximadamente 26 anos, traços bonitos, olhar afiado, cabelo preto longo trançado bem rente ao couro cabeludo, corpo atlético com definição muscular. Veste uma regata esportiva preta, short de MMA preto, luvas pretas sem dedos, descalça.
+Adversário: Homem adulto consideravelmente maior que a protagonista, careca, tatuagem no peito, vestindo short de MMA vermelho, luvas vermelhas sem dedos, descalço.
+Apenas esses dois personagens em todo o vídeo; aparência e roupas permanecem consistentes.
+
+[Cenário]
+Interior de uma gaiola octogonal de arame em uma arena de lutas clandestinas. Ambiente escuro, luzes fortes no teto iluminando a gaiola, silhuetas desfocadas de espectadores e fumaça do lado de fora. Tatames cinza-escuros no chão da gaiola.
+Todo o vídeo se passa na mesma gaiola; a tela de arame e as posições dos personagens mantêm total coerência.
+
+[Storyboard]
+
+Round 1: Pressionada
+Plano 1 (0–1,5s): Plano médio lateral. O adversário desfere um soco pesado; a protagonista esquiva abaixando o corpo, ele emenda com um chute rasteiro que acerta a parte externa da coxa dela, fazendo-a cambalear.
+Plano 2 (1,5–3s): Plano de acompanhamento com câmera na mão. O adversário avança com um soco reto que bate nos braços em guarda da protagonista, empurrando-a contra a grade de arame, que balança violentamente.
+
+Round 2: Fuga
+Plano 3 (3–4,5s): Close-up. O adversário prensou a protagonista contra a grade, ergue o punho para golpear; ela bloqueia com as duas mãos, o corpo estremecendo com o impacto.
+Plano 4 (4,5–6s): Close-up. A protagonista aproveita uma brecha e acerta uma joelhada no abdômen do adversário; ele se curva, e ela escapa pela lateral da grade.
+
+Round 3: Trocação
+Plano 5 (6–7,5s): Plano médio. A protagonista solta rapidamente um jab e um direto, ambos acertando o rosto do adversário, jogando a cabeça dele para trás.
+Plano 6 (7,5–9s): Plano médio. O adversário ruge e contra-ataca com um gancho que acerta a bochecha da protagonista, balançando sua trança; ela tropeça, mas levanta a guarda imediatamente.
+
+Round 4: Contra-ataque Fatal
+Plano 7 (9–10,5s): Close-up em movimento. O adversário lança um gancho largo; a protagonista mergulha por baixo e acerta uma cotovelada no maxilar dele, fazendo-o cambalear.
+Plano 8 (10,5–12s): Plano médio. A protagonista agarra o pescoço do adversário e desfere duas joelhadas consecutivas no peito dele, curvando-o para frente.
+Plano 9 (12–13,5s): Plano médio ligeiramente mais aberto. Ela solta o pescoço e acerta um soco pesado no maxilar do adversário; os joelhos dele cedem e ele desaba pesadamente no tatame, incapaz de se levantar.
+Plano 10 (13,5–15s): Close-up no rosto da protagonista, iluminado pela luz do teto, encharcado de suor. Peito subindo e descendo, punhos ainda em guarda, olhar afiado fixo no adversário caído. O vídeo termina abruptamente.
+
+[Ação e Cinematografia]
+Qualidade cinematográfica realista, iluminação forte vinda de cima, área externa à gaiola escura, suor brilhando na pele.
+Todo soco/chute precisa fazer contato antes de mostrar absorção de impacto, recuo ou perda de equilíbrio; sem golpes no vazio, sem quedas prematuras.
+As ações seguem técnicas reais de MMA; os socos têm geração e recolhimento de força, os pés firmemente plantados no tatame.
+Leve tremor de câmera no impacto é permitido, mas deve ficar claro quem atingiu quem.
+As posições de esquerda/direita dos personagens devem ser consistentes entre planos consecutivos; sem teletransporte, sobreposição de objetos ou membros/personagens extras.
+Sem acrobacias, chutes voadores ou superpoderes; sem close-ups de violência extrema. Foco na ação, não em partes isoladas do corpo.
+
+[Som]
+Torcida abafada ao fundo. Sons de impacto (grade, socos, joelhadas, quedas) perfeitamente sincronizados com a imagem; graves e potentes.
+Trilha sonora de ação tensa, rápida e dominada por percussão desde o segundo 1, atingindo o clímax no soco final e terminando com a explosão da torcida e a respiração ofegante da protagonista.
+Sem diálogos, narração, legendas, textos ou marcas d'água., 16:9, 15s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121951410317393920/img/aq_L0F8KWMKKc4-2.jpg" width="600" alt="Prompt de Cena Realista de Luta MMA para Seedance 2.0">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13893)**
+
+**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fonte:** [Link](https://x.com/Adam38363368936/status/2121952543366648318) | **Publicado:** Nov 15, 2026
+
+---
 ### Prompt de Ação Seedance 2.0
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -9527,25 +9596,6 @@ uma sequência do dia a dia: pegar o pedido, roubar uma batatinha, dar um gole e
 **Autor:** [Jayden Douglass 💭 | AI Coach](https://x.com/JaydenCoach) | **Fonte:** [Link](https://x.com/JaydenCoach/status/2113867722786259116) | **Publicado:** Oct 24, 2026
 
 ---
-### Prompt de Vídeo Cinematográfico de Guerreiro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para gerar um vídeo cinematográfico ultra-realista de um guerreiro destemido, com iluminação dramática e efeitos em câmera lenta.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo cinematográfico e ultrarrealista de um guerreiro destemido, com olhar intenso, presença marcante e atitude confiante. Use iluminação dramática, movimentos fluidos em câmera lenta, texturas detalhadas, fundo escuro e atmosférico, além de color grading profissional. Qualidade 4K, foco nítido, clima épico e um acabamento cinematográfico visualmente deslumbrante.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113848979058470912/img/toLQfOH68vyUJD9j.jpg" width="600" alt="Prompt de Vídeo Cinematográfico de Guerreiro">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=12967)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Publicado:** Oct 24, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -9607,6 +9657,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-16T05:13:00.239Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-16T18:23:15.751Z</sub>
 
 </div>
