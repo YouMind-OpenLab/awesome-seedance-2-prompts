@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6687** |
+| 📝 Total de prompts | **6689** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-11-17** |
 
@@ -361,6 +361,109 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Curta-Metragem Coreano de Ação Romântica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para um curta-metragem coreano de ação romântica ultra-realista de 30 segundos, envolvendo um casal que se protege mutuamente durante um encontro na rua.
+
+#### 📝 Prompt
+
+```
+Crie um curta-metragem de ação e romance coreano ultrarrealista de 30 segundos.
+
+Cena 1 (0–10 segundos):
+Um jovem casal coreano caminha junto por uma rua tranquila de Seul à noite. Eles compartilham um momento romântico natural. De repente, um estranho se aproxima e começa a importunar a garota. O namorado dá um passo à frente com calma para protegê-la.
+
+Cena 2 (10–20 segundos):
+Uma breve e realista briga de rua começa. O namorado se defende com combate corpo a corpo natural. Socos, esquivas e movimentos realistas. Sem acrobacias exageradas ou cenas de super-herói. A namorada observa, apreensiva.
+
+Cena 3 (20–30 segundos):
+O estranho vai embora. O namorado tem um ferimento leve. A namorada examina o rosto dele com delicadeza. Eles trocam um sorriso discreto, dão as mãos e vão embora juntos sob a luz dos postes.
+
+Estilo Visual:
+Cinema coreano autêntico, atores coreanos realistas, expressões faciais naturais, romance sutil, iluminação noturna cinematográfica, ambiente realista de Seul, movimentos de câmera fluidos, fotografia de cinema profissional, texturas de pele detalhadas, movimentos corporais naturais.
+
+Áudio: Ambiência urbana natural, música de fundo cinematográfica emocional e sutil, efeitos sonoros realistas.
+
+Requisitos Importantes:
+
+- Exatamente 30 segundos.
+- Tela widescreen 16:9.
+- Sem atuações exageradas.
+- Sem lutas exageradas.
+- Sem efeitos de desenho animado ou anime.
+- Sem legendas ou texto na tela.
+- Manter rostos, roupas e personagens consistentes em todas as cenas.
+- Qualidade profissional de filme coreano.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122334588718764034/img/mxBkNujr8mERoDm1.jpg" width="600" alt="Curta-Metragem Coreano de Ação Romântica">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13936)**
+
+**Autor:** [𝐍𝐚𝐯𝐞𝐞 𝐀𝐢](https://x.com/navi_Ai2) | **Fonte:** [Link](https://x.com/navi_Ai2/status/2122335176286187925) | **Publicado:** Nov 16, 2026
+
+---
+### Cena de Luta de Thriller de Ação Coreano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para um thriller de ação coreano ultra-realista de 30 segundos intitulado 'THE WRONG TARGET', apresentando um homem solitário se defendendo contra três agressores em um beco chuvoso de Seul.
+
+#### 📝 Prompt
+
+```
+Título: O ALVO ERRADO
+
+Crie um filme de ação e suspense coreano ultrarrealista com exatamente 30 segundos de duração.
+
+Cena 1 (0–10 segundos): O Encontro
+
+Um jovem coreano caminha sozinho por uma rua estreita de Seul à noite. Três homens suspeitos bloqueiam subitamente o seu caminho. Um deles empurra-o e exige o seu telemóvel. O protagonista olha para eles com calma, sem dizer uma palavra.
+
+Cena 2 (10–20 segundos): A Luta
+
+Um dos agressores desfecha um soco. O protagonista esquiva-se e responde com um combate corpo a corpo realista. Ele bloqueia os ataques, desfere socos rápidos e utiliza movimentos defensivos práticos. A luta deve parecer intensa, física e credível, como num filme de ação profissional coreano. Sem pontapés voadores ou acrobacias irreais.
+
+Cena 3 (20–30 segundos): O Golpe Final
+
+Dois agressores recuam, enquanto o terceiro tenta atacar pelas costas. O protagonista apercebe-se, vira-se rapidamente e desequilibra o atacante. Os três batem em retirada. O protagonista apanha o telemóvel, ajeita o casaco e afasta-se calmamente pela rua chuvosa.
+
+Cinematografia:
+
+- Estilo de thriller policial sul-coreano ultrarrealista.
+- Atores coreanos autênticos.
+- Beco escuro de Seul à noite.
+- Ruas encharcadas pela chuva e iluminação cinematográfica.
+- Movimentos de câmara rápidos durante o combate.
+- Planos fechados com expressões faciais realistas.
+- Planos abertos que mostrem toda a coreografia da luta.
+- Transições suaves e edição profissional.
+
+Áudio:
+Socos realistas, passos, som ambiente de chuva e música de fundo cinematográfica intensa.
+
+Requisitos Importantes:
+
+- Exatamente 30 segundos.
+- Ecrã panorâmico 16:9.
+- Qualidade fotorrealista em 4K.
+- Sem exageros na interpretação.
+- Sem elementos sobrenaturais.
+- Sem efeitos de desenho animado.
+- Sem câmara lenta, exceto num breve momento de impacto.
+- Aspeto consistente do protagonista ao longo de todo o vídeo.
+- Sem legendas, logótipos ou texto no ecrã.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122330344359972866/img/1MGZN-yrt6gXBnQT.jpg" width="600" alt="Cena de Luta de Thriller de Ação Coreano">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13937)**
+
+**Autor:** [Hope Ai](https://x.com/Hope_Ai01) | **Fonte:** [Link](https://x.com/Hope_Ai01/status/2122330543719366996) | **Publicado:** Nov 16, 2026
+
+---
 ### Prompt de Cena Realista de Luta de MMA para Seedance 2.0
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -9493,54 +9596,6 @@ Requisitos: Em cada transição, ocultar totalmente a imagem primeiro e depois m
 **Autor:** [麻酱AI实验室](https://x.com/zhongying14) | **Fonte:** [Link](https://x.com/zhongying14/status/2114038007435055604) | **Publicado:** Oct 24, 2026
 
 ---
-### Animação em Clay de Samurai e Oni Geisha
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para criar um vídeo de comédia em estilo claymation acelerado, apresentando um Samurai e uma Oni Geisha interagindo com humor físico e estética stop-motion.
-
-#### 📝 Prompt
-
-```
-Esquete de 15 segundos em animação de massinha fofa e com ritmo acelerado. Use exatamente os designs de personagens da referência: o enorme e severo Samurai azul de massinha e a minúscula e elegante Oni/Geisha vermelha. Estética artesanal de stop-motion com massinha, squash-and-stretch expressivo, comédia física divertida. Sem diálogos. Sem tempo morto.
-
-0–4 seg: O Samurai desembainha sua katana de forma dramática, com uma seriedade exagerada — SHIIING! Ele assume uma pose de batalha intimidadora. A pequena Oni-Geisha não se impressiona nem um pouco, puxa casualmente um pequeno leque vermelho dobrável e dá uma LEQUEADA na lateral plana da espada dele, empurrando-a para baixo.
-
-4–8 seg: O Samurai congela, sem acreditar. A Oni-Geisha passa por ele toda convencida. Ele rapidamente se coloca à frente dela e executa uma sequência absurdamente elaborada de floreios de espada ultrarrápidos, com as mangas e o manto azul chicoteando o ar — VUSH, SWISH, SWISH! Ela se abaixa sem esforço a cada golpe, mantendo seu passinho gracioso, sem sequer olhar para ele.
-
-8–12 seg: Frustrado, o Samurai aposta tudo num golpe gigantesco de cima para baixo. A Oni-Geisha simplesmente dá um passinho minúsculo para o lado. PÁ! A katana dele crava fundo no chão de massinha. Ele puxa desesperadamente; a espada não cede. Seu corpo gigante se estica de forma cômica com o esforço.
-
-12–15 seg: A Oni-Geisha bate calmamente uma vez no cabo da espada com o leque — TOC! A espada se solta na mesma hora, lançando o Samurai para trás num tombo ridículo de massinha. Ele aterrissa sentado, atordoado. A Oni-Geisha faz uma reverência curta e presunçosa para ele e abre o leque com um estalo seco. Corte imediato no olhar envergonhado do Samurai.
-
-Áudio: percussão energética e fofa de inspiração japonesa e música de cordas dedilhadas, perfeitamente sincronizadas com a comédia; passos exagerados na massinha, som de espada sendo desembainhada, chiados metálicos, batidas de leque, sons de impacto e estalos cômicos. Sem falas, sem vocais.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114022336512905216/img/5DAPE8_KuJC9gE29.jpg" width="600" alt="Animação em Clay de Samurai e Oni Geisha">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13002)**
-
-**Autor:** [Keskin](https://x.com/craftian_keskin) | **Fonte:** [Link](https://x.com/craftian_keskin/status/2114028393347883491) | **Publicado:** Oct 24, 2026
-
----
-### Prompt para Almoço com Batatas Fritas Sequenciais do Dia a Dia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt que compara o Seedance 2.0 e o Kling 4.0 em uma sequência cotidiana de pegar comida.
-
-#### 📝 Prompt
-
-```
-uma sequência do dia a dia: pegar um pedido, roubar uma batata frita, dar um gole e rir com um amigo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113867563771842560/img/u8Iuas8eesjV9cba.jpg" width="600" alt="Prompt para Almoço com Batatas Fritas Sequenciais do Dia a Dia">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13001)**
-
-**Autor:** [Jayden Douglass 💭 | AI Coach](https://x.com/JaydenCoach) | **Fonte:** [Link](https://x.com/JaydenCoach/status/2113867722786259116) | **Publicado:** Oct 24, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -9602,6 +9657,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-17T03:07:26.131Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-17T13:07:24.573Z</sub>
 
 </div>

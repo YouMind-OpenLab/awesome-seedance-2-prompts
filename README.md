@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6687** |
+| 📝 Total Prompts | **6689** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-11-17** |
 
@@ -365,6 +365,109 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Korean Romantic Action Short Film
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a 30-second ultra-realistic Korean romantic action short film involving a couple protecting each other during a street encounter.
+
+#### 📝 Prompt
+
+```
+Create a 30-second ultra-realistic Korean romantic action short film.
+
+Scene 1 (0–10 seconds):
+A young Korean couple walks together on a quiet Seoul street at night. They share a natural romantic moment. Suddenly, a stranger approaches and starts bothering the girl. The boyfriend calmly steps forward to protect her.
+
+Scene 2 (10–20 seconds):
+A short, realistic street fight begins. The boyfriend defends himself with natural hand-to-hand combat. Realistic punches, dodging and movements. No exaggerated stunts or superhero action. The girlfriend watches anxiously.
+
+Scene 3 (20–30 seconds):
+The stranger leaves. The boyfriend has a minor injury. His girlfriend gently checks his face. They exchange a small smile, hold hands and walk away together under the streetlights.
+
+Visual Style:
+Authentic Korean cinema, realistic Korean actors, natural facial expressions, subtle romance, cinematic night lighting, realistic Seoul environment, smooth camera movements, professional film cinematography, detailed skin textures, natural body movements.
+
+Audio: Natural city ambience, subtle emotional cinematic background music, realistic sound effects.
+
+Important Requirements:
+
+- Exactly 30 seconds.
+- 16:9 widescreen.
+- No overacting.
+- No exaggerated fighting.
+- No cartoon or anime effects.
+- No subtitles or text on screen.
+- Maintain consistent faces, clothes and characters across all scenes.
+- Professional Korean movie quality.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122334588718764034/img/mxBkNujr8mERoDm1.jpg" width="600" alt="Korean Romantic Action Short Film">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13936)**
+
+**Author:** [𝐍𝐚𝐯𝐞𝐞 𝐀𝐢](https://x.com/navi_Ai2) | **Source:** [Link](https://x.com/navi_Ai2/status/2122335176286187925) | **Published:** Nov 16, 2026
+
+---
+### Korean Action Thriller Fight Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a 30-second ultra-realistic Korean action thriller titled 'THE WRONG TARGET', featuring a lone man defending against three attackers in a rainy Seoul alley.
+
+#### 📝 Prompt
+
+```
+Title: THE WRONG TARGET
+
+Create an exactly 30-second ultra-realistic Korean action thriller film.
+
+Scene 1 (0–10 seconds): The Encounter
+
+A young Korean man walks alone through a narrow Seoul street at night. Three suspicious men suddenly block his path. One man pushes him and demands his phone. The hero calmly looks at them without saying anything.
+
+Scene 2 (10–20 seconds): The Fight
+
+One attacker throws a punch. The hero dodges and responds with realistic hand-to-hand combat. He blocks attacks, delivers fast punches and uses practical defensive movements. The fight should feel intense, physical and believable, like a professional Korean action movie. No flying kicks or unrealistic stunts.
+
+Scene 3 (20–30 seconds): The Final Move
+
+Two attackers fall back while the third tries to attack from behind. The hero notices him, turns quickly and knocks the attacker off balance. All three retreat. The hero picks up his phone, adjusts his jacket and calmly walks away into the rainy street.
+
+Cinematography:
+
+- Ultra-realistic South Korean crime thriller style.
+- Authentic Korean actors.
+- Dark Seoul alley at night.
+- Rain-soaked streets and cinematic lighting.
+- Fast camera movements during combat.
+- Close-up shots of realistic facial expressions.
+- Wide shots showing complete fight choreography.
+- Smooth transitions and professional editing.
+
+Audio:
+Realistic punches, footsteps, rain ambience and intense cinematic background music.
+
+Important Requirements:
+
+- Exactly 30 seconds.
+- 16:9 widescreen.
+- 4K photorealistic quality.
+- No overacting.
+- No supernatural elements.
+- No cartoon effects.
+- No slow motion except one brief impact moment.
+- Consistent hero appearance throughout.
+- No subtitles, logos or text on screen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122330344359972866/img/1MGZN-yrt6gXBnQT.jpg" width="600" alt="Korean Action Thriller Fight Scene">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13937)**
+
+**Author:** [Hope Ai](https://x.com/Hope_Ai01) | **Source:** [Link](https://x.com/Hope_Ai01/status/2122330543719366996) | **Published:** Nov 16, 2026
+
+---
 ### Seedance 2.0 Realistic MMA Fight Scene Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -9669,54 +9772,6 @@ Requirements: Each time fully occlude first then instant costume change, continu
 **Author:** [麻酱AI实验室](https://x.com/zhongying14) | **Source:** [Link](https://x.com/zhongying14/status/2114038007435055604) | **Published:** Oct 24, 2026
 
 ---
-### Samurai and Oni Geisha Clay Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for creating a fast-paced claymation-style comedy video featuring a Samurai and an Oni Geisha interacting with physical humor and stop-motion aesthetics.
-
-#### 📝 Prompt
-
-```
-15-second fast-paced cute clay-animation sketch. Use the exact character designs from the reference: the huge stern blue clay Samurai and the tiny elegant red Oni/Geisha. Handmade stop-motion clay aesthetic, expressive squash-and-stretch, playful physical comedy. No dialogue. No dead time.
-
-0–4 sec: The Samurai dramatically draws his katana with exaggerated seriousness — SHIIING! He strikes an intimidating battle pose. The tiny Oni-Geisha looks completely unimpressed, casually pulls out a small red folding fan and THWACKS the flat side of his sword downward.
-
-4–8 sec: Samurai freezes in disbelief. Oni-Geisha smugly walks past him. He quickly steps in front of her and performs an absurdly elaborate sequence of lightning-fast sword flourishes, sleeves and blue robe whipping around — WHOOSH, SWISH, SWISH! She effortlessly ducks each swing while continuing her tiny graceful walk without even looking at him.
-
-8–12 sec: Frustrated, Samurai commits to one enormous overhead strike. Oni-Geisha simply takes one tiny step sideways. WHAM! His katana gets stuck deep in the clay floor. He pulls desperately; the sword refuses to move. His giant body stretches comically from the effort.
-
-12–15 sec: Oni-Geisha calmly taps the sword handle once with her fan — TOK! The sword instantly pops free, launching Samurai backward into a ridiculous clay tumble. He lands sitting upright, stunned. Oni-Geisha gives him a tiny smug bow and snaps her fan open. End immediately on Samurai’s embarrassed glare.
-
-Audio: energetic cute Japanese-inspired percussion and plucked-string music, tightly synchronized with the comedy; exaggerated clay footsteps, sword unsheathing, metallic swishes, fan thwacks, impact sounds and comedic pops. No speech, no vocals.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114022336512905216/img/5DAPE8_KuJC9gE29.jpg" width="600" alt="Samurai and Oni Geisha Clay Animation">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13002)**
-
-**Author:** [Keskin](https://x.com/craftian_keskin) | **Source:** [Link](https://x.com/craftian_keskin/status/2114028393347883491) | **Published:** Oct 24, 2026
-
----
-### Everyday Sequence Fries Lunch Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt comparing Seedance 2.0 and Kling 4.0 on an everyday sequence of picking up food.
-
-#### 📝 Prompt
-
-```
-an everyday sequence: picking up an order, grabbing a fry, taking a sip, and laughing with a friend
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113867563771842560/img/u8Iuas8eesjV9cba.jpg" width="600" alt="Everyday Sequence Fries Lunch Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13001)**
-
-**Author:** [Jayden Douglass 💭 | AI Coach](https://x.com/JaydenCoach) | **Source:** [Link](https://x.com/JaydenCoach/status/2113867722786259116) | **Published:** Oct 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -9778,6 +9833,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-17T03:07:14.375Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-17T13:07:08.671Z</sub>
 
 </div>

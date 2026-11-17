@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6687** |
+| 📝 Gesamtanzahl Prompts | **6689** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-11-17** |
 
@@ -361,6 +361,109 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Koreanischer romantischer Action-Kurzfilm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für einen 30-sekündigen, ultrarealistischen koreanischen romantischen Action-Kurzfilm über ein Paar, das sich bei einer Begegnung auf der Straße gegenseitig beschützt.
+
+#### 📝 Prompt
+
+```
+Erstelle einen 30 Sekunden langen, ultrarealistischen koreanischen Kurzfilm mit Romantik und Action.
+
+Szene 1 (0–10 Sekunden):
+Ein junges koreanisches Paar geht nachts gemeinsam durch eine ruhige Straße in Seoul. Sie erleben einen natürlichen, romantischen Moment. Plötzlich nähert sich ein Fremder und bedrängt die junge Frau. Ihr Freund stellt sich ruhig vor sie, um sie zu beschützen.
+
+Szene 2 (10–20 Sekunden):
+Ein kurzer, realistischer Straßenkampf beginnt. Der Freund verteidigt sich mit natürlichem Nahkampf. Realistische Schläge, Ausweichmanöver und Bewegungen. Keine übertriebenen Stunts oder Superhelden-Action. Die Freundin beobachtet alles voller Sorge.
+
+Szene 3 (20–30 Sekunden):
+Der Fremde zieht ab. Der Freund hat eine leichte Verletzung davongetragen. Seine Freundin untersucht behutsam sein Gesicht. Sie tauschen ein kleines Lächeln aus, nehmen sich an der Hand und gehen gemeinsam unter den Straßenlaternen davon.
+
+Visueller Stil:
+Authentisches koreanisches Kino, realistisch wirkende koreanische Darsteller, natürliche Mimik, subtile Romantik, filmische Nachtbeleuchtung, realistische Kulisse von Seoul, fließende Kamerabewegungen, professionelle Filmkinematografie, detaillierte Hauttexturen, natürliche Körperbewegungen.
+
+Audio: Natürliches Stadtambiente, dezente emotionale Filmmusik im Hintergrund, realistische Soundeffekte.
+
+Wichtige Anforderungen:
+
+- Exakt 30 Sekunden lang.
+- 16:9 Breitbildformat.
+- Kein Overacting.
+- Keine übertriebenen Kampfszenen.
+- Keine Cartoon- oder Anime-Effekte.
+- Keine Untertitel oder Texteinblendungen.
+- Durchgehend einheitliche Gesichter, Kleidung und Figuren in allen Szenen.
+- Qualität eines professionellen koreanischen Kinofilms.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122334588718764034/img/mxBkNujr8mERoDm1.jpg" width="600" alt="Koreanischer romantischer Action-Kurzfilm">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13936)**
+
+**Autor:** [𝐍𝐚𝐯𝐞𝐞 𝐀𝐢](https://x.com/navi_Ai2) | **Quelle:** [Link](https://x.com/navi_Ai2/status/2122335176286187925) | **Veröffentlicht:** Nov 16, 2026
+
+---
+### Koreanischer Action-Thriller: Kampfszene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für einen 30-sekündigen, ultrarealistischen koreanischen Action-Thriller mit dem Titel 'THE WRONG TARGET', in dem ein einzelner Mann sich in einer regnerischen Gasse in Seoul gegen drei Angreifer verteidigt.
+
+#### 📝 Prompt
+
+```
+Titel: DAS FALSCHE ZIEL
+
+Erstelle einen exakt 30 Sekunden langen, ultrarealistischen koreanischen Action-Thriller-Film.
+
+Szene 1 (0–10 Sekunden): Die Begegnung
+
+Ein junger Koreaner geht nachts allein durch eine enge Straße in Seoul. Plötzlich versperren ihm drei verdächtige Männer den Weg. Einer stößt ihn an und fordert sein Handy. Der Held sieht sie ruhig an, ohne ein Wort zu sagen.
+
+Szene 2 (10–20 Sekunden): Der Kampf
+
+Einer der Angreifer schlägt zu. Der Held weicht aus und kontert mit einem realistischen Nahkampf. Er blockt Angriffe ab, teilt schnelle Schläge aus und nutzt praxistaugliche Verteidigungsbewegungen. Der Kampf soll intensiv, körperbetont und glaubwürdig wirken – wie in einem professionellen koreanischen Actionfilm. Keine fliegenden Tritte oder unrealistischen Stunts.
+
+Szene 3 (20–30 Sekunden): Der finale Zug
+
+Zwei Angreifer taumeln zurück, während der dritte versucht, von hinten anzugreifen. Der Held bemerkt ihn, dreht sich blitzschnell um und bringt den Angreifer aus dem Gleichgewicht. Alle drei ziehen sich zurück. Der Held hebt sein Handy auf, richtet seine Jacke und geht ruhig die regennasse Straße hinunter.
+
+Kameraführung:
+
+- Ultrarealistischer Stil eines südkoreanischen Crime-Thrillers.
+- Authentische koreanische Darsteller.
+- Dunkle Gasse in Seoul bei Nacht.
+- Regennasse Straßen und cineastische Beleuchtung.
+- Schnelle Kamerabewegungen während des Kampfes.
+- Nahaufnahmen realistischer Gesichtsausdrücke.
+- Totale Einstellungen, die die gesamte Kampfchoreografie zeigen.
+- Fließende Übergänge und professioneller Schnitt.
+
+Audio:
+Realistische Schläge, Schritte, Regenatmosphäre und intensive, cineastische Hintergrundmusik.
+
+Wichtige Anforderungen:
+
+- Exakt 30 Sekunden.
+- 16:9 Breitbildformat.
+- Fotorealistische 4K-Qualität.
+- Kein Overacting.
+- Keine übernatürlichen Elemente.
+- Keine Cartoon-Effekte.
+- Keine Zeitlupe, außer bei einem kurzen Treffermoment.
+- Durchgehend einheitliches Erscheinungsbild des Helden.
+- Keine Untertitel, Logos oder Texte im Bild.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122330344359972866/img/1MGZN-yrt6gXBnQT.jpg" width="600" alt="Koreanischer Action-Thriller: Kampfszene">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13937)**
+
+**Autor:** [Hope Ai](https://x.com/Hope_Ai01) | **Quelle:** [Link](https://x.com/Hope_Ai01/status/2122330543719366996) | **Veröffentlicht:** Nov 16, 2026
+
+---
 ### Seedance 2.0 Prompt für realistische MMA-Kampfszene
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -9525,54 +9628,6 @@ Anforderungen: Jedes Mal erst vollständige Verdeckung (Occlusion), dann soforti
 **Autor:** [麻酱AI实验室](https://x.com/zhongying14) | **Quelle:** [Link](https://x.com/zhongying14/status/2114038007435055604) | **Veröffentlicht:** Oct 24, 2026
 
 ---
-### Samurai und Oni-Geisha Clay Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für die Erstellung eines temporeichen Comedy-Videos im Claymation-Stil, das einen Samurai und eine Oni-Geisha zeigt, die mit physischem Humor und Stop-Motion-Ästhetik interagieren.
-
-#### 📝 Prompt
-
-```
-15-sekündiger, rasanter und niedlicher Knetanimations-Sketch. Verwende exakt die Charakterdesigns aus der Vorlage: den riesigen, strengen blauen Knet-Samurai und die winzige, elegante rote Oni/Geisha. Handgemachte Stop-Motion-Knet-Ästhetik, ausdrucksstarkes Squash-and-Stretch, verspielte Slapstick-Comedy. Keine Dialoge. Keine Leerlaufzeiten.
-
-0–4 Sek.: Der Samurai zieht mit übertriebener Ernsthaftigkeit dramatisch sein Katana — SCHWIIING! Er nimmt eine einschüchternde Kampfpose ein. Die winzige Oni-Geisha wirkt völlig unbeeindruckt, zückt beiläufig einen kleinen roten Fächer und schlägt damit ZACK auf die flache Seite seines Schwerts nach unten.
-
-4–8 Sek.: Der Samurai erstarrt fassungslos. Die Oni-Geisha stolziert selbstgefällig an ihm vorbei. Schnell stellt er sich ihr in den Weg und vollführt eine absurd aufwendige Abfolge blitzschneller Schwertwirbel, bei denen Ärmel und blauer Umhang nur so peitschen — WUSCH, SCHWING, SCHWING! Sie duckt sich mühelos unter jedem Hieb weg und setzt ihren winzigen, anmutigen Gang fort, ohne ihn auch nur eines Blickes zu würdigen.
-
-8–12 Sek.: Frustriert holt der Samurai zu einem gewaltigen Überkopfschlag aus. Die Oni-Geisha macht einfach einen winzigen Schritt zur Seite. BUMM! Sein Katana bohrt sich tief in den Knetboden. Er zerrt verzweifelt daran; das Schwert rührt sich keinen Millimeter. Vor lauter Anstrengung dehnt sich sein riesiger Körper urkomisch in die Länge.
-
-8–15 Sek.: Die Oni-Geisha tippt mit ihrem Fächer einmal ganz ruhig auf den Schwertgriff — TOCK! Sofort schnellt das Schwert heraus und katapultiert den Samurai rückwärts in einen absurden Knet-Purzelbaum. Er landet sitzend, völlig benommen. Die Oni-Geisha verbeugt sich leicht und selbstgefällig vor ihm und lässt ihren Fächer aufschnappen. Sofortiges Ende mit dem peinlich berührten, wütenden Blick des Samurais.
-
-Audio: Energetische, niedliche Percussion im japanischen Stil und gezupfte Saitenmusik, perfekt auf die Comedy abgestimmt; übertriebene Knet-Fußschritte, das Ziehen des Schwerts, metallisches Rauschen, Fächerschläge, Aufprallgeräusche und komödiantische Plopp-Laute. Keine Sprache, kein Gesang.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114022336512905216/img/5DAPE8_KuJC9gE29.jpg" width="600" alt="Samurai und Oni-Geisha Clay Animation">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13002)**
-
-**Autor:** [Keskin](https://x.com/craftian_keskin) | **Quelle:** [Link](https://x.com/craftian_keskin/status/2114028393347883491) | **Veröffentlicht:** Oct 24, 2026
-
----
-### Alltäglicher Ablauf: Pommes zum Mittagessen – Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt, der Seedance 2.0 und Kling 4.0 beim alltäglichen Abholen von Essen vergleicht.
-
-#### 📝 Prompt
-
-```
-eine alltägliche Abfolge: eine Bestellung abholen, sich eine Pommes schnappen, einen Schluck nehmen und mit einem Freund lachen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113867563771842560/img/u8Iuas8eesjV9cba.jpg" width="600" alt="Alltäglicher Ablauf: Pommes zum Mittagessen – Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13001)**
-
-**Autor:** [Jayden Douglass 💭 | AI Coach](https://x.com/JaydenCoach) | **Quelle:** [Link](https://x.com/JaydenCoach/status/2113867722786259116) | **Veröffentlicht:** Oct 24, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -9634,6 +9689,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-17T03:07:22.523Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-17T13:07:20.317Z</sub>
 
 </div>

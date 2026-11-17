@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6687** |
+| 📝 Toplam İstem | **6689** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-11-17** |
 
@@ -361,6 +361,109 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Kore Romantik Aksiyon Kısa Filmi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sokakta yaşanan bir karşılaşma sırasında birbirini koruyan bir çifti konu alan, 30 saniyelik ultra gerçekçi Kore romantik aksiyon kısa filmi için prompt.
+
+#### 📝 İstem
+
+```
+30 saniyelik, ultra gerçekçi bir Kore romantik aksiyon kısa filmi oluştur.
+
+Sahne 1 (0–10 saniye):
+Genç bir Koreli çift, gece vakti Seul'ün sessiz bir sokağında yan yana yürür. Doğal ve romantik bir an paylaşırlar. Aniden bir yabancı yaklaşıp kızı rahatsız etmeye başlar. Erkek arkadaş onu korumak için sakin bir şekilde öne çıkar.
+
+Sahne 2 (10–20 saniye):
+Kısa ve gerçekçi bir sokak kavgası başlar. Erkek arkadaş, doğal yakın dövüş hareketleriyle kendini savunur. Gerçekçi yumruklar, savuşturmalar ve hareketler. Abartılı dublör sahneleri veya süper kahraman tarzı aksiyon yok. Kız arkadaşı endişeyle izler.
+
+Sahne 3 (20–30 saniye):
+Yabancı oradan uzaklaşır. Erkek arkadaşın hafif bir yarası vardır. Kız arkadaşı şefkatle yüzünü kontrol eder. Birbirlerine hafifçe gülümser, el ele tutuşup sokak lambalarının ışığı altında birlikte yürüyerek uzaklaşırlar.
+
+Görsel Tarz:
+Otantik Kore sineması, gerçekçi Koreli oyuncular, doğal yüz ifadeleri, ince işlenmiş romantizm, sinematik gece aydınlatması, gerçekçi Seul ortamı, akıcı kamera hareketleri, profesyonel film sinematografisi, detaylı cilt dokuları, doğal vücut hareketleri.
+
+Ses: Doğal şehir ambiyansı, duygusal ve hafif sinematik arka plan müziği, gerçekçi ses efektleri.
+
+Önemli Gereksinimler:
+
+- Tam olarak 30 saniye.
+- 16:9 geniş ekran.
+- Abartılı oyunculuk yok.
+- Abartılı dövüş sahneleri yok.
+- Çizgi film veya anime efektleri yok.
+- Ekranda altyazı veya metin yok.
+- Tüm sahnelerde yüzlerin, kıyafetlerin ve karakterlerin tutarlılığını koru.
+- Profesyonel Kore filmi kalitesi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122334588718764034/img/mxBkNujr8mERoDm1.jpg" width="600" alt="Kore Romantik Aksiyon Kısa Filmi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13936)**
+
+**Yazar:** [𝐍𝐚𝐯𝐞𝐞 𝐀𝐢](https://x.com/navi_Ai2) | **Kaynak:** [Link](https://x.com/navi_Ai2/status/2122335176286187925) | **Yayınlandı:** Nov 16, 2026
+
+---
+### Kore Aksiyon Gerilim Dövüş Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 'THE WRONG TARGET' başlıklı, yağmurlu bir Seul sokağında üç saldırgana karşı kendini savunan yalnız bir adamı konu alan 30 saniyelik ultra gerçekçi Kore aksiyon gerilimi için bir istem.
+
+#### 📝 İstem
+
+```
+Başlık: YANLIŞ HEDEF
+
+Tam olarak 30 saniye uzunluğunda, ultra gerçekçi bir Kore aksiyon gerilim filmi oluşturun.
+
+Sahne 1 (0–10 saniye): Karşılaşma
+
+Genç bir Koreli adam, gece vakti Seul'ün dar sokaklarında tek başına yürümektedir. Üç şüpheli adam aniden yolunu keser. Adamlardan biri onu iterek telefonunu ister. Kahramanımız hiçbir şey söylemeden onlara sakin bir şekilde bakar.
+
+Sahne 2 (10–20 saniye): Kavga
+
+Saldırganlardan biri yumruk atar. Kahramanımız hamleden kaçınır ve gerçekçi bir yakın dövüşle karşılık verir. Saldırıları savuşturur, seri yumruklar indirir ve pratik savunma hareketleri kullanır. Dövüş; profesyonel bir Kore aksiyon filmindeki gibi yoğun, fiziksel ve inandırıcı hissettirmelidir. Uçan tekmeler veya gerçek dışı numaralar olmamalıdır.
+
+Sahne 3 (20–30 saniye): Son Hamle
+
+İki saldırgan geri çekilirken üçüncüsü arkadan saldırmaya çalışır. Kahramanımız bunu fark eder, hızla döner ve saldırganın dengesini bozarak onu yere serer. Üçü de geri çekilir. Kahramanımız telefonunu yerden alır, ceketini düzeltir ve yağmurlu sokağın içinde sakin adımlarla uzaklaşır.
+
+Sinematografi:
+
+- Ultra gerçekçi Güney Kore suç gerilimi tarzı.
+- Gerçekçi Koreli oyuncular.
+- Gece karanlığında dar bir Seul sokağı.
+- Yağmurdan sırılsıklam olmuş sokaklar ve sinematik aydınlatma.
+- Dövüş sahnelerinde hızlı kamera hareketleri.
+- Gerçekçi yüz ifadelerini gösteren yakın çekimler.
+- Tüm dövüş koreografisini ortaya koyan geniş açılı çekimler.
+- Akıcı geçişler ve profesyonel kurgu.
+
+Ses:
+Gerçekçi yumruk sesleri, ayak sesleri, yağmur ambiyansı ve yoğun sinematik arka plan müziği.
+
+Önemli Gereksinimler:
+
+- Tam olarak 30 saniye.
+- 16:9 geniş ekran.
+- 4K fotogerçekçi kalite.
+- Abartılı oyunculuk yok.
+- Doğaüstü unsurlar yok.
+- Çizgi film efektleri yok.
+- Kısa bir darbe anı dışında ağır çekim yok.
+- Başından sonuna kadar kahramanın görünümünde tutarlılık.
+- Ekranda altyazı, logo veya metin yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122330344359972866/img/1MGZN-yrt6gXBnQT.jpg" width="600" alt="Kore Aksiyon Gerilim Dövüş Sahnesi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13937)**
+
+**Yazar:** [Hope Ai](https://x.com/Hope_Ai01) | **Kaynak:** [Link](https://x.com/Hope_Ai01/status/2122330543719366996) | **Yayınlandı:** Nov 16, 2026
+
+---
 ### Seedance 2.0 Gerçekçi MMA Dövüş Sahnesi Promptu
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -9483,54 +9586,6 @@ Gereksinimler: Her seferinde önce tam karartma yapılmalı, ardından anında k
 **Yazar:** [麻酱AI实验室](https://x.com/zhongying14) | **Kaynak:** [Link](https://x.com/zhongying14/status/2114038007435055604) | **Yayınlandı:** Oct 24, 2026
 
 ---
-### Samuray ve Oni Geisha Kil Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Samuray ve Oni Geisha'nın fiziksel mizah ve stop-motion estetiğiyle etkileşime geçtiği, hızlı tempolu bir kil animasyon tarzı komedi videosu oluşturmak için detaylı bir prompt.
-
-#### 📝 İstem
-
-```
-15 saniyelik, tempolu ve sevimli bir kil animasyonu skeci. Referanstaki karakter tasarımlarını birebir kullan: devasa, sert mavi kil Samuray ve minicik, zarif kırmızı Oni/Geisha. El yapımı stop-motion kil estetiği, etkileyici esneme-büzülme (squash-and-stretch) hareketleri, eğlenceli fiziksel komedi. Diyalog yok. Boş an yok.
-
-0–4 sn: Samuray, abartılı bir ciddiyetle katanasını dramatik bir şekilde çeker — ŞIIIING! Göz korkutucu bir savaş pozu verir. Minicik Oni-Geisha ise hiç etkilenmemiş görünür; sakince küçük kırmızı bir yelpaze çıkarır ve adamın kılıcının yassı tarafına TAK diye vurarak onu aşağı indirir.
-
-4–8 sn: Samuray inanamayarak donakalır. Oni-Geisha kendinden emin bir tavırla yanından süzülüp geçer. Adam hızla önüne atlayıp şimşek gibi kılıç çevirme hareketlerinden oluşan absürt derecede gösterişli bir seri sergiler; kolları ve mavi cübbesi havada uçuşur — VUUUŞ, VIŞŞ, VIŞŞ! Kadın ona bakmadan bile, zarif ve minik adımlarla yürümeye devam ederken her bir savuruştan zahmetsizce eğilerek kaçar.
-
-8–12 sn: Çileden çıkan Samuray, tüm gücüyle devasa bir yukarıdan aşağı vuruşa girişir. Oni-Geisha sadece küçücük bir adım yana çekilir. GÜM! Katanası kil zemine derinlemesine saplanır. Umutsuzca çekiştirir ama kılıç yerinden kıpırdamaz. Dev gövdesi bu çabadan komik bir şekilde uzar.
-
-12–15 sn: Oni-Geisha sakin bir şekilde yelpazesiyle kılıcın kabzasına bir kez TIK diye vurur! Kılıç anında yerinden fırlar ve Samuray'ı geriye doğru savurarak gülünç bir kil taklası attırır. Adam sersemlemiş hâlde dik oturur vaziyette yere düşer. Oni-Geisha ona küçücük, kendini beğenmiş bir selam verir ve yelpazesini şık diye açar. Sahne, Samuray'ın mahcup bakışlarıyla anında son bulur.
-
-Ses: Komediyle kusursuz senkronize edilmiş, enerjik ve sevimli, Japon esintili perküsyon ile telli çalgı müziği; abartılı kil ayak sesleri, kılıç çekme sesi, metalik vınlamalar, yelpaze vuruşları, çarpma sesleri ve komik patlama efektleri. Konuşma yok, vokal yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114022336512905216/img/5DAPE8_KuJC9gE29.jpg" width="600" alt="Samuray ve Oni Geisha Kil Animasyonu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13002)**
-
-**Yazar:** [Keskin](https://x.com/craftian_keskin) | **Kaynak:** [Link](https://x.com/craftian_keskin/status/2114028393347883491) | **Yayınlandı:** Oct 24, 2026
-
----
-### Günlük Yemek Alma Sırası İçin Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 ve Kling 4.0'ı, yemek alma gibi günlük bir sıralama üzerinden karşılaştıran bir prompt.
-
-#### 📝 İstem
-
-```
-sıradan bir an: siparişi almak, bir patates kızartması kapmak, bir yudum içmek ve bir arkadaşla birlikte gülmek
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113867563771842560/img/u8Iuas8eesjV9cba.jpg" width="600" alt="Günlük Yemek Alma Sırası İçin Prompt">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13001)**
-
-**Yazar:** [Jayden Douglass 💭 | AI Coach](https://x.com/JaydenCoach) | **Kaynak:** [Link](https://x.com/JaydenCoach/status/2113867722786259116) | **Yayınlandı:** Oct 24, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -9592,6 +9647,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-17T03:07:27.150Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-17T13:07:25.743Z</sub>
 
 </div>

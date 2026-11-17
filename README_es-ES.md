@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6687** |
+| 📝 Total de prompts | **6689** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-11-17** |
 
@@ -361,6 +361,109 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Cortometraje de Acción Romántica Coreana
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para un cortometraje coreano de acción romántica ultra-realista de 30 segundos, donde una pareja se protege mutuamente durante un encuentro en la calle.
+
+#### 📝 Prompt
+
+```
+Crea un cortometraje de acción y romance coreano ultrarrealista de 30 segundos.
+
+Escena 1 (0–10 segundos):
+Una joven pareja coreana camina junta por una calle tranquila de Seúl durante la noche. Comparten un momento romántico natural. De repente, un desconocido se acerca y empieza a molestar a la chica. El novio da un paso al frente con calma para protegerla.
+
+Escena 2 (10–20 segundos):
+Comienza una breve pelea callejera realista. El novio se defiende con combate cuerpo a cuerpo natural. Golpes, esquivas y movimientos realistas. Sin acrobacias exageradas ni escenas de superhéroes. La novia observa con angustia.
+
+Escena 3 (20–30 segundos):
+El desconocido se marcha. El novio tiene una herida leve. Su novia le revisa el rostro con delicadeza. Intercambian una leve sonrisa, se toman de la mano y se alejan juntos bajo las luces de la calle.
+
+Estilo visual:
+Cine coreano auténtico, actores coreanos realistas, expresiones faciales naturales, romance sutil, iluminación nocturna cinematográfica, entorno realista de Seúl, movimientos de cámara fluidos, cinematografía profesional, texturas detalladas de la piel, movimientos corporales naturales.
+
+Audio: Ambiente urbano natural, música de fondo cinematográfica sutil y emotiva, efectos de sonido realistas.
+
+Requisitos importantes:
+
+- Exactamente 30 segundos.
+- Formato panorámico 16:9.
+- Sin sobreactuación.
+- Sin peleas exageradas.
+- Sin efectos de dibujos animados ni anime.
+- Sin subtítulos ni texto en pantalla.
+- Mantener los rostros, la ropa y los personajes consistentes en todas las escenas.
+- Calidad profesional de película coreana.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122334588718764034/img/mxBkNujr8mERoDm1.jpg" width="600" alt="Cortometraje de Acción Romántica Coreana">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13936)**
+
+**Autor:** [𝐍𝐚𝐯𝐞𝐞 𝐀𝐢](https://x.com/navi_Ai2) | **Fuente:** [Link](https://x.com/navi_Ai2/status/2122335176286187925) | **Publicado:** Nov 16, 2026
+
+---
+### Escena de pelea de thriller de acción coreano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para un thriller de acción coreano ultra-realista de 30 segundos titulado 'THE WRONG TARGET', que muestra a un hombre solo defendiéndose contra tres atacantes en un callejón lluvioso de Seúl.
+
+#### 📝 Prompt
+
+```
+Título: EL OBJETIVO EQUIVOCADO
+
+Crea un thriller de acción coreano ultrarrealista de exactamente 30 segundos.
+
+Escena 1 (0–10 segundos): El encuentro
+
+Un joven coreano camina solo por una calle estrecha de Seúl durante la noche. De repente, tres hombres sospechosos le cortan el paso. Uno lo empuja y le exige el teléfono. El protagonista los mira con calma, sin decir una palabra.
+
+Escena 2 (10–20 segundos): La pelea
+
+Uno de los atacantes lanza un puñetazo. El protagonista lo esquiva y responde con un combate cuerpo a cuerpo realista. Bloquea los golpes, conecta puñetazos rápidos y utiliza movimientos defensivos prácticos. La pelea debe sentirse intensa, física y creíble, como en una película de acción coreana profesional. Nada de patadas voladoras ni acrobacias imposibles.
+
+Escena 3 (20–30 segundos): El movimiento final
+
+Dos atacantes retroceden mientras el tercero intenta golpearlo por la espalda. El protagonista se da cuenta, gira rápidamente y desequilibra al atacante. Los tres se retiran. Él recoge su teléfono, se acomoda la chaqueta y se aleja con tranquilidad por la calle bajo la lluvia.
+
+Fotografía:
+
+- Estilo de thriller criminal surcoreano ultrarrealista.
+- Actores coreanos auténticos.
+- Callejón oscuro de Seúl por la noche.
+- Calles empapadas por la lluvia e iluminación cinematográfica.
+- Movimientos de cámara rápidos durante el combate.
+- Primeros planos de expresiones faciales realistas.
+- Planos generales que muestren la coreografía completa de la pelea.
+- Transiciones fluidas y edición profesional.
+
+Audio:
+Puñetazos realistas, pasos, ambiente de lluvia y música de fondo cinematográfica intensa.
+
+Requisitos importantes:
+
+- Exactamente 30 segundos.
+- Formato panorámico 16:9.
+- Calidad fotorrealista en 4K.
+- Sin sobreactuación.
+- Sin elementos sobrenaturales.
+- Sin efectos de dibujos animados.
+- Sin cámara lenta, excepto en un breve momento de impacto.
+- Aspecto del protagonista constante durante toda la escena.
+- Sin subtítulos, logotipos ni texto en pantalla.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122330344359972866/img/1MGZN-yrt6gXBnQT.jpg" width="600" alt="Escena de pelea de thriller de acción coreano">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13937)**
+
+**Autor:** [Hope Ai](https://x.com/Hope_Ai01) | **Fuente:** [Link](https://x.com/Hope_Ai01/status/2122330543719366996) | **Publicado:** Nov 16, 2026
+
+---
 ### Prompt de Escena de Pelea Realista de MMA para Seedance 2.0
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -9537,54 +9640,6 @@ Requisitos: En cada transición, ocultar por completo la imagen primero y luego 
 **Autor:** [麻酱AI实验室](https://x.com/zhongying14) | **Fuente:** [Link](https://x.com/zhongying14/status/2114038007435055604) | **Publicado:** Oct 24, 2026
 
 ---
-### Animación en Arcilla de Samurai y Geisha Oni
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para crear un video de comedia estilo claymation con ritmo rápido, que presenta a un Samurai y una Geisha Oni interactuando con humor físico y estética de stop-motion.
-
-#### 📝 Prompt
-
-```
-Sketch de animación claymation (plastilina) tierno y de ritmo acelerado, de 15 segundos. Usa exactamente los diseños de personajes de la referencia: el enorme y severo samurái azul de plastilina y la diminuta y elegante Oni/Geisha roja. Estética artesanal de stop-motion con arcilla, expresivo efecto de squash-and-stretch (estirar y encoger), comedia física juguetona. Sin diálogos. Sin tiempos muertos.
-
-0–4 s: El Samurái desenvaina su katana con una seriedad exagerada y muy dramática — ¡SHIIING! Adopta una pose de combate intimidante. La pequeña Oni-Geisha no se inmuta lo más mínimo; saca con total tranquilidad un abanico plegable rojo y le da un golpe seco (¡ZAS!) en el plano de la espada, empujándola hacia abajo.
-
-4–8 s: El Samurái se queda congelado por la incredulidad. La Oni-Geisha pasa a su lado caminando con aire presumido. Él se planta rápidamente frente a ella y ejecuta una secuencia absurdamente elaborada de molinetes ultrarrápidos con la espada, mientras las mangas y la túnica azul ondean por todas partes — ¡FUIIISH, SWISH, SWISH! Ella esquiva cada tajo agachándose sin esfuerzo alguno, manteniendo su pasito menudo y elegante, sin siquiera mirarlo.
-
-8–12 s: Frustrado, el Samurái se lanza a un ataque descendente descomunal. La Oni-Geisha simplemente da un pasito minúsculo hacia un lado. ¡PUM! Su katana se clava profundamente en el suelo de plastilina. Tira desesperadamente, pero la espada no cede ni un milímetro. Su cuerpo gigante se estira de forma cómica por el esfuerzo.
-
-12–15 s: Con toda calma, la Oni-Geisha le da un solo toque a la empuñadura con su abanico — ¡TOC! La espada sale disparada al instante, lanzando al Samurái hacia atrás en una ridícula voltereta de plastilina. Aterriza sentado y tieso, completamente aturdido. La Oni-Geisha le hace una reverencia breve y presumida, y abre su abanico de un chasquido. Corte inmediato a la mirada avergonzada del Samurái.
-
-Audio: percusión enérgica y tierna de inspiración japonesa junto con música de cuerdas pulsadas, perfectamente sincronizada con la comedia; pasos exagerados sobre la plastilina, sonido de espada al desenvainar, silbidos metálicos, golpes de abanico, sonidos de impacto y efectos cómicos de rebote. Sin voces ni habla.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114022336512905216/img/5DAPE8_KuJC9gE29.jpg" width="600" alt="Animación en Arcilla de Samurai y Geisha Oni">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13002)**
-
-**Autor:** [Keskin](https://x.com/craftian_keskin) | **Fuente:** [Link](https://x.com/craftian_keskin/status/2114028393347883491) | **Publicado:** Oct 24, 2026
-
----
-### Prompt para la secuencia cotidiana de recoger patatas fritas al mediodía
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt que compara Seedance 2.0 y Kling 4.0 en una secuencia cotidiana de recoger comida.
-
-#### 📝 Prompt
-
-```
-una secuencia cotidiana: recoger un pedido, robar una papa frita, dar un sorbo y reírse con un amigo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113867563771842560/img/u8Iuas8eesjV9cba.jpg" width="600" alt="Prompt para la secuencia cotidiana de recoger patatas fritas al mediodía">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13001)**
-
-**Autor:** [Jayden Douglass 💭 | AI Coach](https://x.com/JaydenCoach) | **Fuente:** [Link](https://x.com/JaydenCoach/status/2113867722786259116) | **Publicado:** Oct 24, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -9646,6 +9701,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-17T03:07:20.868Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-17T13:07:17.883Z</sub>
 
 </div>
