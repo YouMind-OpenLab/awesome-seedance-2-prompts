@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6696** |
+| 📝 Gesamtanzahl Prompts | **6695** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-11-18** |
 
@@ -538,35 +538,6 @@ Erstelle ein ultrarealistisches, cineastisches Dark-Sci-Fi-Schlachtfeld-Video. E
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13969)**
 
 **Autor:** [Draaven](https://x.com/draavenai) | **Quelle:** [Link](https://x.com/draavenai/status/2122648114737840216) | **Veröffentlicht:** Nov 17, 2026
-
----
-### Fantasy-Video-Prompt: Göttlicher Kriegerengel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Generierung eines cineastischen Fantasy-Videos über die Erweckung eines Engelskriegers, speziell optimiert für Seedance 2.5.
-
-#### 📝 Prompt
-
-```
-Erstelle ein atemberaubendes, 15-sekündiges cineastisches Fantasy-Video mit einer wunderschönen weiblichen Engelskriegerin. Sie hat langes silberweißes Haar, eine leuchtende goldene Rüstung, gewaltige majestätische weiße Federschwingen und trägt ein legendäres goldenes Schwert.
-
-Szene 1: Eine Nahaufnahme ihres schönen Gesichts und ihrer leuchtenden Augen, während sie langsam in einer mystischen, violetten Fantasiewelt erwacht.
-
-Szene 2: Sie hält ein mächtiges goldenes Schwert, umgeben von magischer goldener Energie, die ihren Körper umhüllt.
-
-Szene 3: Die Kamera zoomt sanft heraus, während sich ihre riesigen Engelsflügel weit ausbreiten. Goldenes Licht erhellt den Himmel und magische Partikel schweben um sie herum.
-
-Szene 4: Sie steht heldenhaft mit ihrem Schwert da – kraftvoll und göttlich zugleich.
-
-Ultrarealistische 3D-Fantasy-Animation, beeindruckendes cineastisches Licht, detailreiche Federn, realistische Bewegungen, epische Atmosphäre, fließende Kameraübergänge, 4K-Qualität, vertikales 9:16-Format. Das Erscheinungsbild der Figur muss durchgehend einheitlich bleiben.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2122580336437858304/img/B4PToZUGGErfI0q8.jpg" width="600" alt="Fantasy-Video-Prompt: Göttlicher Kriegerengel">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13953)**
-
-**Autor:** [Ali](https://x.com/CodesWithAli) | **Quelle:** [Link](https://x.com/CodesWithAli/status/2122580427013824751) | **Veröffentlicht:** Nov 17, 2026
 
 ---
 ### Koreanischer romantischer Action-Kurzfilm
@@ -9599,6 +9570,49 @@ Negative Prompt: Face swap, clothing change, character appearance change after c
 **Autor:** [单引号](https://x.com/DengYH803) | **Quelle:** [Link](https://x.com/DengYH803/status/2114557242569867559) | **Veröffentlicht:** Oct 26, 2026
 
 ---
+### Video einer tanzenden anthropomorphen Katze
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Generierung eines fotorealistischen Videos einer anthropomorphen Katze, die in Hemd und Hose tanzt, mit Fokus auf anatomische Stabilität und rhythmische Bewegung.
+
+#### 📝 Prompt
+
+```
+**DAUER:** 8 Sekunden  
+**FORMAT:** Vertikal 9:16, filmischer Fotorealismus  
+**REFERENZ:** Verwende das hochgeladene Katzenbild als exakte Referenz für das erste Frame und den Charakter.
+
+**CHARAKTERKONSISTENZ:** Exakt dieselbe orange-cremefarbene getigerte Katze, die dasselbe lässige rosa Button-up-Hemd und dieselbe beigefarbene Hose trägt. Gesicht, Augenform, Ohren, Fellzeichnung, Körperproportionen, Outfit und Schwanz müssen über das gesamte Video hinweg unverändert bleiben.
+
+**MUSIK:** Cooler, rhythmischer Contemporary-Dance-Pop-Instrumentaltrack mit tiefem, groovigem Bass, knackiger Percussion und stylischen Club-Beats. Die Musik setzt sofort ein. Die Tanzbewegungen müssen exakt auf den Beat abgestimmt sein.
+
+**TANZCHOREOGRAFIE:**
+
+**0–2 Sekunden:** Die Katze beginnt in einer entspannten, selbstbewussten Stehpose. Sie führt eine fließende Schulterrolle, eine subtile Brustisolation und kontrollierte Hüftbewegungen von Seite zu Seite aus, während sie den Blickkontakt zur Kamera hält.
+
+**2–4 Sekunden:** Die Katze zeigt saubere, stylische Footwork-Bewegungen, tritt nach rechts und links und bewegt dabei ihre Arme rhythmisch vor dem Oberkörper. Natürliche Handgelenksbewegungen, lockere Ellbogen und kontrollierte Grooves im Oberkörper.
+
+**4–6 Sekunden:** Die Katze führt einen fließenden Body Wave, einen selbstbewussten Two-Step und koordinierte Armschwünge aus. Oberkörper und Hüfte bewegen sich unabhängig voneinander in einem physikalisch stimmigen, menschenähnlichen Tanzstil.
+
+**6–8 Sekunden:** Die Katze macht zwei präzise, beatgenaue Schritte, einen fließenden Shoulder Pop und endet in einer coolen, selbstbewussten Pose mit Blick zur Kamera.
+
+**KRITISCHE KOPF- UND HALSKONTROLLE:** Der Kopf der Katze bleibt anatomisch stabil und natürlich mit dem Hals verbunden. Erlaubt sind lediglich subtile, realistische Kopfbewegungen und kleine, beat-synchrone Neigungen. Der Kopf darf NIEMALS um 360 Grad rotieren, nach hinten kippen, sich unnatürlich verdrehen, sich vom Körper lösen oder unabhängig vom Körper drehen. Augen, Ohren, Schnauze und Gesichtsstruktur müssen in jedem einzelnen Frame konsistent bleiben.
+
+**REALISMUS-SICHERUNG:** Natürliche Gewichtsverlagerung, fest am Boden stehende Füße, glaubwürdige Balance, fließende Übergänge zwischen den Tanzbewegungen, realistische Fell- und Stoffphysik, konsistente Schatten, durchgehende Bewegung und stabile Anatomie. Eine einzige, ununterbrochene Einstellung mit ruhiger Ganzkörperkamera ohne plötzliche Kamerabewegungen.
+
+**NEGATIVE VORGABEN:** Keine Cartoon-Bewegungen, kein kindliches Tanzen, keine übertriebenen Gesichtsausdrücke, keine gummiartigen Gliedmaßen, keine unnatürliche Biegung der Wirbelsäule, kein Verdrehen des Halses, kein Kreisen des Kopfes, keine zusätzlichen Gliedmaßen, keine Gesichtsverformungen (Morphing), keine Outfit-Wechsel, kein Schweben, kein Flackern, keine abrupten Posenwechsel, keine künstlich wirkenden Bewegungen.
+
+**ENDERGEBNIS:** Eine stylische, selbstbewusste Tanzperformance im erwachsenen Stil derselben fotorealistischen, anthropomorphen Katze – mit fließender Choreografie, natürlichen Kopfbewegungen und überzeugender körperlicher Dynamik.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114406485530972160/img/3zdH9KBkn5jnuVy0.jpg" width="600" alt="Video einer tanzenden anthropomorphen Katze">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13047)**
+
+**Autor:** [M. Asif](https://x.com/meAsifAi) | **Quelle:** [Link](https://x.com/meAsifAi/status/2114406947558764575) | **Veröffentlicht:** Oct 25, 2026
+
+---
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -9660,6 +9674,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-18T06:25:42.972Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-18T17:23:52.341Z</sub>
 
 </div>

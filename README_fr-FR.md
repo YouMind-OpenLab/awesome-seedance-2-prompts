@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6696** |
+| 📝 Total des prompts | **6695** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-11-18** |
 
@@ -538,35 +538,6 @@ Créez une vidéo ultra-réaliste d'un champ de bataille de science-fiction somb
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13969)**
 
 **Auteur:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2122648114737840216) | **Publié:** Nov 17, 2026
-
----
-### Prompt Vidéo Fantasy Ange Guerrier Divin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour générer une vidéo de fantasy cinématographique d'un ange guerrier en éveil, spécifiquement optimisé pour Seedance 2.5.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo fantastique cinématographique époustouflante de 15 secondes mettant en scène une magnifique guerrière angélique aux longs cheveux blanc argenté, vêtue d'une armure dorée lumineuse, dotée d'immenses ailes majestueuses à plumes blanches et brandissant une épée dorée légendaire.
-
-Scène 1 : Montrez un gros plan sur son visage sublime et ses yeux étincelants alors qu'elle s'éveille lentement dans un monde fantastique baigné d'une lumière violette mystique.
-
-Scène 2 : Montrez-la tenant une puissante épée dorée, le corps enveloppé d'une énergie magique dorée.
-
-Scène 3 : La caméra effectue un zoom arrière fluide tandis que ses immenses ailes d'ange se déploient ; une lueur dorée illumine le ciel et des particules magiques flottent autour d'elle.
-
-Scène 4 : Montrez-la debout, héroïque, épée au poing, dégageant une aura puissante et divine.
-
-Animation 3D fantastique ultra-réaliste, éclairage cinématographique saisissant, plumes finement détaillées, mouvements réalistes, atmosphère épique, transitions de caméra fluides, qualité 4K, format vertical 9:16. Maintenez une apparence du personnage cohérente tout au long de la vidéo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2122580336437858304/img/B4PToZUGGErfI0q8.jpg" width="600" alt="Prompt Vidéo Fantasy Ange Guerrier Divin">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13953)**
-
-**Auteur:** [Ali](https://x.com/CodesWithAli) | **Source:** [Link](https://x.com/CodesWithAli/status/2122580427013824751) | **Publié:** Nov 17, 2026
 
 ---
 ### Court-métrage d'action romantique coréen
@@ -9351,6 +9322,49 @@ Prompt négatif : changement de visage, changement de tenue, modification de l'a
 **Auteur:** [单引号](https://x.com/DengYH803) | **Source:** [Link](https://x.com/DengYH803/status/2114557242569867559) | **Publié:** Oct 26, 2026
 
 ---
+### Vidéo d'un Chat Anthropomorphe Danseur
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour générer une vidéo photoréaliste d'un chat anthropomorphe dansant, vêtu d'une chemise et d'un pantalon, en mettant l'accent sur la stabilité anatomique et le rythme des mouvements.
+
+#### 📝 Prompt
+
+```
+**DURÉE :** 8 secondes  
+**FORMAT :** Vertical 9:16, photoréalisme cinématographique  
+**RÉFÉRENCE :** Utiliser l'image de chat téléversée comme référence exacte pour la première image et le personnage.
+
+**COHÉRENCE DU PERSONNAGE :** Exactement le même chat tigré orange et crème, portant la même chemise décontractée rose à boutons et le même pantalon beige. Conserver son visage d'origine, la forme de ses yeux, ses oreilles, les motifs de son pelage, ses proportions corporelles, sa tenue et sa queue tout au long de la vidéo.
+
+**MUSIQUE :** Instrumental dance-pop contemporain, cool et rythmé, avec une basse profonde et groovy, des percussions nettes et des beats club stylés. La musique commence immédiatement. Les mouvements de danse doivent être parfaitement synchronisés avec le rythme.
+
+**CHORÉGRAPHIE :**
+
+**0 à 2 secondes :** Le chat débute dans une posture debout détendue et assurée. Il exécute un roulement d'épaules fluide, une isolation subtile du buste et un mouvement latéral contrôlé des hanches, tout en maintenant le contact visuel avec la caméra.
+
+**2 à 4 secondes :** Le chat réalise un jeu de jambes net et stylé, enchaînant des pas vers la droite et la gauche tout en déplaçant rythmiquement ses bras devant son torse. Mouvements naturels des poignets, coudes relâchés et ondulations maîtrisées du haut du corps.
+
+**4 à 6 secondes :** Le chat effectue une vague corporelle (body wave) fluide, un two-step assuré et des balancements de bras coordonnés. Son buste et ses hanches bougent indépendamment, dans un style de danse physiquement cohérent et humain.
+
+**6 à 8 secondes :** Le chat exécute deux pas secs et parfaitement calés sur le beat, un shoulder pop fluide, puis termine par une pose cool et confiante face à la caméra.
+
+**CONTRÔLE CRUCIAL DE LA TÊTE ET DU COU :** La tête du chat doit rester anatomiquement stable et naturellement rattachée à son cou. Seules de légères inclinaisons réalistes de la tête et de petits mouvements synchronisés avec le rythme sont autorisés. La tête ne doit JAMAIS pivoter à 360 degrés, se renverser vers l'arrière, se tordre de manière non naturelle, se détacher ou tourner indépendamment du corps. Les yeux, les oreilles, le museau et la structure faciale doivent rester identiques sur chaque image.
+
+**VERROUILLAGE DU RÉALISME :** Transfert de poids naturel, pieds bien ancrés au sol, équilibre crédible, transitions fluides entre les mouvements de danse, physique réaliste du pelage et des tissus, ombres cohérentes, mouvement continu et anatomie stable. Un seul plan ininterrompu avec une caméra fixe cadrant le corps entier, sans aucun mouvement brusque.
+
+**CONTRAINTES NÉGATIVES :** Aucun mouvement de dessin animé, aucune danse enfantine, aucune expression faciale exagérée, aucun membre caoutchouteux, aucune flexion non naturelle de la colonne vertébrale, aucune torsion du cou, aucune rotation de la tête, aucun membre supplémentaire, aucune déformation du visage, aucun changement de tenue, aucun flottement dans les airs, aucun scintillement, aucun saut brusque de pose, aucun mouvement artificiel.
+
+**RÉSULTAT FINAL :** Une performance de danse stylée, assurée et d'inspiration adulte, réalisée par ce même chat anthropomorphe photoréaliste, avec une chorégraphie fluide, des mouvements de tête naturels et une gestuelle physique convaincante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114406485530972160/img/3zdH9KBkn5jnuVy0.jpg" width="600" alt="Vidéo d'un Chat Anthropomorphe Danseur">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13047)**
+
+**Auteur:** [M. Asif](https://x.com/meAsifAi) | **Source:** [Link](https://x.com/meAsifAi/status/2114406947558764575) | **Publié:** Oct 25, 2026
+
+---
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -9412,6 +9426,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-18T06:25:43.940Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-18T17:23:53.253Z</sub>
 
 </div>

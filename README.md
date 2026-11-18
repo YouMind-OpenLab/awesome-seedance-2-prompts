@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6696** |
+| 📝 Total Prompts | **6695** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-11-18** |
 
@@ -542,35 +542,6 @@ Create an ultra-realistic cinematic dark sci-fi battlefield video. A team of fut
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13969)**
 
 **Author:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2122648114737840216) | **Published:** Nov 17, 2026
-
----
-### Divine Angel Warrior Awakening
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a cinematic fantasy video featuring a female angel warrior awakening in a mystical world, highlighting her transformation from elegance to power.
-
-#### 📝 Prompt
-
-```
-Create a breathtaking 15-second cinematic fantasy video featuring a beautiful female angel warrior with long silver-white hair, glowing golden armor, enormous majestic white feathered wings, and a legendary golden sword.
-
-Scene 1: Show a close-up of her beautiful face and glowing eyes as she slowly awakens in a mystical purple fantasy world.
-
-Scene 2: Show her holding a powerful golden sword, with magical golden energy surrounding her body.
-
-Scene 3: Camera smoothly zooms out as her giant angel wings spread wide, glowing golden light illuminates the sky, and magical particles float around her.
-
-Scene 4: Show her standing heroically with her sword, looking powerful and divine.
-
-Ultra-realistic 3D fantasy animation, stunning cinematic lighting, detailed feathers, realistic movements, epic atmosphere, smooth camera transitions, 4K quality, vertical 9:16 format. Maintain consistent character appearance throughout.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2122580336437858304/img/B4PToZUGGErfI0q8.jpg" width="600" alt="Divine Angel Warrior Awakening">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13953)**
-
-**Author:** [Ali](https://x.com/CodesWithAli) | **Source:** [Link](https://x.com/CodesWithAli/status/2122580427013824751) | **Published:** Nov 17, 2026
 
 ---
 ### Korean Romantic Action Short Film
@@ -9743,6 +9714,49 @@ Negative Prompt: Face swap, clothing change, character appearance change after c
 **Author:** [单引号](https://x.com/DengYH803) | **Source:** [Link](https://x.com/DengYH803/status/2114557242569867559) | **Published:** Oct 26, 2026
 
 ---
+### Dancing Anthropomorphic Cat Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a photorealistic video of an anthropomorphic cat dancing in a shirt and trousers, emphasizing anatomical stability and rhythmic movement.
+
+#### 📝 Prompt
+
+```
+**DURATION:** 8 seconds  
+**FORMAT:** Vertical 9:16, cinematic photorealism  
+**REFERENCE:** Use the uploaded cat image as the exact first-frame and character reference.
+
+**CHARACTER CONSISTENCY:** The exact same orange-and-cream tabby cat wearing the same pink casual button-up shirt and beige trousers. Preserve its original face, eye shape, ears, fur markings, body proportions, outfit, and tail throughout the entire video.
+
+**MUSIC:** Cool, rhythmic contemporary dance-pop instrumental with a deep, groovy bass, crisp percussion, and stylish club beats. Music begins immediately. Dance movements must match the beat.
+
+**DANCE CHOREOGRAPHY:**
+
+**0–2 seconds:** The cat starts in a relaxed, confident standing pose. It performs a smooth shoulder roll, subtle chest isolation, and controlled side-to-side hip movement while maintaining eye contact with the camera.
+
+**2–4 seconds:** The cat executes clean, stylish footwork, stepping right and left while moving its arms rhythmically across the torso. Natural wrist movements, relaxed elbows, and controlled upper-body grooves.
+
+**4–6 seconds:** The cat performs a smooth body wave, a confident two-step, and coordinated arm sweeps. Its torso and hips move independently in a physically coherent, human-like dance style.
+
+**6–8 seconds:** The cat executes two sharp beat-matched steps, a smooth shoulder pop, and finishes with a cool, confident pose facing the camera.
+
+**CRITICAL HEAD AND NECK CONTROL:** The cat's head remains anatomically stable and naturally connected to its neck. Only subtle, realistic head tilts and small beat-synchronized movements are allowed. The head must NEVER rotate 360 degrees, flip backward, twist unnaturally, detach, or rotate independently of the body. Keep the eyes, ears, muzzle, and facial structure consistent in every frame.
+
+**REALISM LOCK:** Natural weight transfer, grounded feet, believable balance, smooth transitions between dance moves, realistic fur and fabric physics, consistent shadows, continuous motion, and stable anatomy. One uninterrupted shot with a steady full-body camera and no sudden camera movements.
+
+**NEGATIVE CONSTRAINTS:** No cartoon movement, no childish dancing, no exaggerated facial expressions, no rubber-like limbs, no unnatural spine bending, no neck twisting, no head spinning, no extra limbs, no face morphing, no outfit changes, no floating, no flickering, no sudden pose jumps, no artificial-looking motion.
+
+**FINAL RESULT:** A stylish, confident, adult-inspired dance performance by the same photorealistic anthropomorphic cat, with smooth choreography, natural head movement, and convincing physical motion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114406485530972160/img/3zdH9KBkn5jnuVy0.jpg" width="600" alt="Dancing Anthropomorphic Cat Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13047)**
+
+**Author:** [M. Asif](https://x.com/meAsifAi) | **Source:** [Link](https://x.com/meAsifAi/status/2114406947558764575) | **Published:** Oct 25, 2026
+
+---
 ---
 
 ## 📚 More Prompts Available
@@ -9804,6 +9818,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-18T06:25:32.787Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-18T17:23:43.009Z</sub>
 
 </div>

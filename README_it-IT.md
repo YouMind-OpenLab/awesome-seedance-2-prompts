@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6696** |
+| 📝 Totale prompt | **6695** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-11-18** |
 
@@ -538,35 +538,6 @@ Crea un video ultra-realistico e cinematografico di un campo di battaglia sci-fi
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13969)**
 
 **Autore:** [Draaven](https://x.com/draavenai) | **Fonte:** [Link](https://x.com/draavenai/status/2122648114737840216) | **Pubblicato:** Nov 17, 2026
-
----
-### Prompt Video Fantasy: Angelo Guerriero Divino
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt dettagliato per la generazione di un video fantasy cinematografico che ritrae il risveglio di un angelo guerriero, ottimizzato specificamente per Seedance 2.5.
-
-#### 📝 Prompt
-
-```
-Crea un video fantasy cinematografico mozzafiato di 15 secondi con una splendida guerriera angelo dai lunghi capelli bianco argento, un'armatura dorata e luminosa, enormi e maestose ali bianche piumate e una leggendaria spada d'oro.
-
-Scena 1: Inquadratura ravvicinata del suo bellissimo viso e dei suoi occhi splendenti mentre si risveglia lentamente in un mistico mondo fantasy dalle tonalità viola.
-
-Scena 2: Mostrala mentre impugna una potente spada dorata, con il corpo avvolto da una magica energia dorata.
-
-Scena 3: La camera esegue uno zoom out fluido mentre le sue gigantesche ali angeliche si spalancano; una luce dorata e brillante illumina il cielo e particelle magiche fluttuano intorno a lei.
-
-Scena 4: Mostrala in piedi, in posa eroica con la sua spada, dall'aspetto potente e divino.
-
-Animazione fantasy 3D ultra-realistica, illuminazione cinematografica spettacolare, piume dettagliate, movimenti realistici, atmosfera epica, transizioni di camera fluide, qualità 4K, formato verticale 9:16. Mantieni l'aspetto del personaggio coerente per tutta la durata del video.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2122580336437858304/img/B4PToZUGGErfI0q8.jpg" width="600" alt="Prompt Video Fantasy: Angelo Guerriero Divino">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13953)**
-
-**Autore:** [Ali](https://x.com/CodesWithAli) | **Fonte:** [Link](https://x.com/CodesWithAli/status/2122580427013824751) | **Pubblicato:** Nov 17, 2026
 
 ---
 ### Cortometraggio Romantico d'Azione Coreano
@@ -9543,6 +9514,49 @@ Prompt negativo: Cambio di volto, cambio d'abito, alterazione dell'aspetto del p
 **Autore:** [单引号](https://x.com/DengYH803) | **Fonte:** [Link](https://x.com/DengYH803/status/2114557242569867559) | **Pubblicato:** Oct 26, 2026
 
 ---
+### Video di un gatto antropomorfo che balla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt dettagliato per generare un video fotorealistico di un gatto antropomorfo che balla indossando camicia e pantaloni, con enfasi sulla stabilità anatomica e sul movimento ritmico.
+
+#### 📝 Prompt
+
+```
+**DURATA:** 8 secondi  
+**FORMATO:** Verticale 9:16, fotorealismo cinematografico  
+**RIFERIMENTO:** Usa l'immagine del gatto caricata come riferimento esatto per il primo fotogramma e per il personaggio.
+
+**COERENZA DEL PERSONAGGIO:** Esattamente lo stesso gatto soriano arancione e crema che indossa la stessa camicia casual rosa con bottoni e i pantaloni beige. Mantieni inalterati il viso originale, la forma degli occhi, le orecchie, le macchie del pelo, le proporzioni del corpo, l'outfit e la coda per tutta la durata del video.
+
+**MUSICA:** Strumentale dance-pop contemporanea dal ritmo cool e incalzante, con un basso profondo e groovy, percussioni nitide e beat da club di grande stile. La musica parte immediatamente. I movimenti di danza devono seguire perfettamente il ritmo.
+
+**COREOGRAFIA:**
+
+**0–2 secondi:** Il gatto inizia in una posa eretta, rilassata e sicura di sé. Esegue una fluida rotazione delle spalle, una sottile isolazione del torace e un movimento controllato dei fianchi da un lato all'altro, mantenendo il contatto visivo con la telecamera.
+
+**2–4 secondi:** Il gatto esegue un gioco di piedi pulito e stiloso, spostandosi a destra e a sinistra mentre muove ritmicamente le braccia lungo il busto. Movimenti naturali dei polsi, gomiti rilassati e groove della parte superiore del corpo ben controllati.
+
+**4–6 secondi:** Il gatto realizza una fluida body wave, un two-step sicuro di sé e movimenti coordinati delle braccia. Torace e fianchi si muovono in modo indipendente, dando vita a uno stile di danza fisicamente coerente e simile a quello umano.
+
+**6–8 secondi:** Il gatto esegue due passi netti perfettamente a tempo, un morbido shoulder pop e chiude con una posa cool e sicura di sé, rivolto verso la telecamera.
+
+**CONTROLLO CRUCIALE DI TESTA E COLLO:** La testa del gatto deve rimanere anatomicamente stabile e naturalmente collegata al collo. Sono ammessi solo lievi e realistici inclinamenti della testa e piccoli movimenti sincronizzati con il beat. La testa NON deve MAI ruotare di 360 gradi, piegarsi all'indietro, torcersi in modo innaturale, staccarsi o muoversi indipendentemente dal corpo. Occhi, orecchie, muso e struttura facciale devono restare coerenti in ogni singolo fotogramma.
+
+**BLOCCO REALISMO:** Trasferimento naturale del peso, piedi ben saldi a terra, equilibrio credibile, transizioni fluide tra i passi di danza, fisica realistica di pelo e tessuti, ombre coerenti, movimento continuo e anatomia stabile. Un'unica ripresa ininterrotta con inquadratura a figura intera stabile e senza movimenti di camera improvvisi.
+
+**VINCOLI NEGATIVI:** Nessuna animazione in stile cartoon, nessuna danza infantile, nessuna espressione facciale esagerata, nessun arto dall'effetto "gomma", nessuna flessione innaturale della colonna vertebrale, nessuna torsione del collo, nessuna rotazione della testa, nessun arto extra, nessun morphing del viso, nessun cambio d'abito, nessun effetto fluttuante, nessuno sfarfallio, nessun salto improvviso tra le pose, nessun movimento dall'aspetto artificiale.
+
+**RISULTATO FINALE:** Un'esibizione di danza stilosa, sicura e dalle atmosfere adulte, interpretata dallo stesso gatto antropomorfo fotorealistico, con una coreografia fluida, movimenti naturali della testa e una resa fisica assolutamente convincente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114406485530972160/img/3zdH9KBkn5jnuVy0.jpg" width="600" alt="Video di un gatto antropomorfo che balla">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13047)**
+
+**Autore:** [M. Asif](https://x.com/meAsifAi) | **Fonte:** [Link](https://x.com/meAsifAi/status/2114406947558764575) | **Pubblicato:** Oct 25, 2026
+
+---
 ---
 
 ## 📚 Altri prompt disponibili
@@ -9604,6 +9618,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-18T06:25:44.852Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-18T17:23:54.096Z</sub>
 
 </div>

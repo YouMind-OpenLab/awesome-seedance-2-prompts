@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6696** |
+| 📝 Total de prompts | **6695** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-11-18** |
 
@@ -538,35 +538,6 @@ Crea un video ultrarrealista y cinematográfico de un campo de batalla de cienci
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13969)**
 
 **Autor:** [Draaven](https://x.com/draavenai) | **Fuente:** [Link](https://x.com/draavenai/status/2122648114737840216) | **Publicado:** Nov 17, 2026
-
----
-### Prompt de Video de Fantasía: Ángel Guerrero Divino
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt detallado para generar un video de fantasía cinematográfico sobre el despertar de un ángel guerrero, optimizado específicamente para Seedance 2.5.
-
-#### 📝 Prompt
-
-```
-Crea un impresionante video de fantasía cinematográfica de 15 segundos protagonizado por una hermosa guerrera ángel con largo cabello blanco plateado, una armadura dorada resplandeciente, unas enormes y majestuosas alas blancas de plumas y una legendaria espada dorada.
-
-Escena 1: Muestra un primer plano de su hermoso rostro y sus ojos brillantes mientras despierta lentamente en un místico mundo de fantasía envuelto en tonos púrpuras.
-
-Escena 2: Muéstrala empuñando una poderosa espada dorada, con una energía mágica y dorada envolviendo todo su cuerpo.
-
-Escena 3: La cámara se aleja suavemente mientras sus gigantescas alas de ángel se despliegan por completo; una luz dorada y resplandeciente ilumina el cielo y partículas mágicas flotan a su alrededor.
-
-Escena 4: Muéstrala de pie en una pose heroica junto a su espada, proyectando un aura poderosa y divina.
-
-Animación 3D de fantasía ultrarrealista, iluminación cinematográfica espectacular, plumas detalladas, movimientos realistas, atmósfera épica, transiciones de cámara fluidas, calidad 4K, formato vertical 9:16. Mantén la apariencia del personaje constante durante toda la secuencia.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2122580336437858304/img/B4PToZUGGErfI0q8.jpg" width="600" alt="Prompt de Video de Fantasía: Ángel Guerrero Divino">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13953)**
-
-**Autor:** [Ali](https://x.com/CodesWithAli) | **Fuente:** [Link](https://x.com/CodesWithAli/status/2122580427013824751) | **Publicado:** Nov 17, 2026
 
 ---
 ### Cortometraje de Acción Romántica Coreana
@@ -9611,6 +9582,49 @@ Prompt negativo: Cambio de rostro, cambio de ropa, alteración del aspecto del p
 **Autor:** [单引号](https://x.com/DengYH803) | **Fuente:** [Link](https://x.com/DengYH803/status/2114557242569867559) | **Publicado:** Oct 26, 2026
 
 ---
+### Video de un gato antropomórfico bailando
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt detallado para generar un video fotorrealista de un gato antropomórfico bailando con camisa y pantalones, enfatizando la estabilidad anatómica y el movimiento rítmico.
+
+#### 📝 Prompt
+
+```
+**DURACIÓN:** 8 segundos  
+**FORMATO:** Vertical 9:16, fotorrealismo cinematográfico  
+**REFERENCIA:** Usa la imagen del gato subida como referencia exacta para el primer fotograma y para el personaje.
+
+**CONSISTENCIA DEL PERSONAJE:** Exactamente el mismo gato atigrado de color naranja y crema, con la misma camisa casual rosa abotonada y los mismos pantalones beige. Mantén su rostro original, la forma de los ojos, las orejas, las marcas del pelaje, las proporciones corporales, la vestimenta y la cola intactos durante todo el video.
+
+**MÚSICA:** Instrumental de dance-pop contemporáneo, rítmico y con mucho estilo, con un bajo profundo y con groove, percusión nítida y ritmos elegantes de club. La música empieza de inmediato. Los movimientos de baile deben ir al compás del ritmo.
+
+**COREOGRAFÍA:**
+
+**0–2 segundos:** El gato comienza de pie, en una postura relajada y segura. Hace un movimiento fluido de hombros, una sutil aislación de pecho y balancea las caderas de lado a lado de forma controlada, sin dejar de mirar a la cámara.
+
+**2–4 segundos:** El gato ejecuta un juego de pies limpio y con estilo, dando pasos a la derecha y a la izquierda mientras mueve los brazos rítmicamente por delante del torso. Movimientos naturales de muñecas, codos relajados y un groove controlado en la parte superior del cuerpo.
+
+**4–6 segundos:** El gato hace una onda corporal fluida, un two-step seguro y movimientos coordinados de brazos. Su torso y sus caderas se mueven de forma independiente, con un estilo de baile físicamente coherente y muy humano.
+
+**6–8 segundos:** El gato da dos pasos marcados que coinciden exactamente con el ritmo, hace un movimiento seco de hombros (shoulder pop) y termina con una pose genial y segura mirando a la cámara.
+
+**CONTROL CRÍTICO DE CABEZA Y CUELLO:** La cabeza del gato debe mantenerse anatómicamente estable y conectada de forma natural al cuello. Solo se permiten inclinaciones sutiles y realistas, además de pequeños movimientos sincronizados con el ritmo. La cabeza NUNCA debe girar 360 grados, echarse hacia atrás, torcerse de forma antinatural, desprenderse ni rotar de manera independiente al resto del cuerpo. Los ojos, las orejas, el hocico y la estructura facial deben ser consistentes en cada fotograma.
+
+**BLOQUEO DE REALISMO:** Transferencia natural del peso, pies bien apoyados en el suelo, equilibrio creíble, transiciones fluidas entre los pasos de baile, física realista del pelaje y la tela, sombras consistentes, movimiento continuo y anatomía estable. Un solo plano ininterrumpido, con la cámara fija mostrando el cuerpo entero y sin movimientos bruscos.
+
+**RESTRICCIONES NEGATIVAS:** Nada de movimientos de caricatura, ni bailes infantiles, ni expresiones faciales exageradas, ni extremidades de goma, ni flexiones antinaturales de la columna, ni torsiones de cuello, ni cabezas girando, ni extremidades extra, ni deformaciones del rostro, ni cambios de ropa, ni flotaciones, ni parpadeos visuales, ni saltos bruscos de pose, ni movimientos que parezcan artificiales.
+
+**RESULTADO FINAL:** Una actuación de baile con estilo, seguridad y aire adulto, protagonizada por el mismo gato antropomórfico fotorrealista, con una coreografía fluida, movimientos naturales de cabeza y una dinámica física totalmente convincente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114406485530972160/img/3zdH9KBkn5jnuVy0.jpg" width="600" alt="Video de un gato antropomórfico bailando">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13047)**
+
+**Autor:** [M. Asif](https://x.com/meAsifAi) | **Fuente:** [Link](https://x.com/meAsifAi/status/2114406947558764575) | **Publicado:** Oct 25, 2026
+
+---
 ---
 
 ## 📚 Más prompts disponibles
@@ -9672,6 +9686,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-18T06:25:41.126Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-18T17:23:50.687Z</sub>
 
 </div>

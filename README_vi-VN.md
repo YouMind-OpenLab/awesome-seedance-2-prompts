@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6696** |
+| 📝 Tổng số prompt | **6695** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-11-18** |
 
@@ -538,35 +538,6 @@ Tạo một video chiến trường khoa học viễn tưởng tối màu mang p
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13969)**
 
 **Tác giả:** [Draaven](https://x.com/draavenai) | **Nguồn:** [Link](https://x.com/draavenai/status/2122648114737840216) | **Đã xuất bản:** Nov 17, 2026
-
----
-### Prompt Video Fantasy Thiên Thần Chiến Binh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết để tạo video fantasy điện ảnh về sự thức tỉnh của thiên thần chiến binh, được tối ưu hóa riêng cho Seedance 2.5.
-
-#### 📝 Prompt
-
-```
-Tạo một video fantasy điện ảnh dài 15 giây đầy choáng ngợp, khắc họa hình ảnh nữ chiến binh thiên thần xinh đẹp với mái tóc dài bạc trắng, bộ giáp vàng phát sáng, đôi cánh lông vũ trắng khổng lồ uy nghi cùng thanh kiếm vàng huyền thoại.
-
-Cảnh 1: Cận cảnh gương mặt tuyệt mỹ và đôi mắt rực sáng khi nàng từ từ thức tỉnh giữa thế giới fantasy màu tím huyền bí.
-
-Cảnh 2: Nàng tay nắm chặt thanh kiếm vàng quyền năng, toàn thân bao trùm bởi luồng năng lượng ma thuật ánh vàng.
-
-Cảnh 3: Camera lùi xa mượt mà khi đôi cánh thiên thần khổng lồ dang rộng, ánh sáng vàng rực rỡ thắp sáng cả bầu trời, những hạt ma thuật lấp lánh bay lơ lửng quanh nàng.
-
-Cảnh 4: Nàng hiên ngang đứng vững cùng thanh kiếm, toát lên vẻ mạnh mẽ và thần thánh.
-
-Hoạt hình 3D fantasy siêu thực, ánh sáng điện ảnh ấn tượng, chi tiết từng chiếc lông vũ sắc nét, chuyển động chân thực, không khí hào hùng, chuyển cảnh camera mượt mà, chất lượng 4K, định dạng dọc 9:16. Giữ nguyên ngoại hình nhân vật đồng nhất xuyên suốt video.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2122580336437858304/img/B4PToZUGGErfI0q8.jpg" width="600" alt="Prompt Video Fantasy Thiên Thần Chiến Binh">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13953)**
-
-**Tác giả:** [Ali](https://x.com/CodesWithAli) | **Nguồn:** [Link](https://x.com/CodesWithAli/status/2122580427013824751) | **Đã xuất bản:** Nov 17, 2026
 
 ---
 ### Phim ngắn hành động lãng mạn Hàn Quốc
@@ -9611,6 +9582,49 @@ Negative Prompt: Thay đổi khuôn mặt, thay đổi trang phục, thay đổi
 **Tác giả:** [单引号](https://x.com/DengYH803) | **Nguồn:** [Link](https://x.com/DengYH803/status/2114557242569867559) | **Đã xuất bản:** Oct 26, 2026
 
 ---
+### Video Mèo Nhân Hóa Đang Nhảy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết để tạo video siêu thực về một chú mèo nhân hóa đang nhảy múa trong trang phục áo sơ mi và quần dài, nhấn mạnh vào sự ổn định giải phẫu và chuyển động nhịp nhàng.
+
+#### 📝 Prompt
+
+```
+**THỜI LƯỢNG:** 8 giây  
+**ĐỊNH DẠNG:** Dọc 9:16, phong cách điện ảnh chân thực như ảnh chụp (cinematic photorealism)  
+**TÀI LIỆU THAM KHẢO:** Sử dụng hình ảnh chú mèo đã tải lên làm khung hình đầu tiên và mẫu tham chiếu nhân vật chính xác.
+
+**TÍNH NHẤT QUÁN CỦA NHÂN VẬT:** Vẫn là chú mèo mướp màu cam pha kem đó, mặc chiếc áo sơ mi hồng dáng suông và quần âu màu be giống hệt. Giữ nguyên gương mặt, dáng mắt, đôi tai, hoa văn lông, tỷ lệ cơ thể, trang phục và đuôi của chú mèo trong suốt toàn bộ video.
+
+**ÂM NHẠC:** Bản nhạc instrumental dance-pop đương đại cực ngầu, tiết tấu rõ ràng với tiếng bass trầm ấm, groove cuốn hút, bộ gõ sắc nét và nhịp beat club thời thượng. Nhạc vang lên ngay lập tức. Các động tác nhảy phải khớp hoàn toàn với nhịp beat.
+
+**BIÊN ĐẠO VŨ ĐIỆU:**
+
+**0–2 giây:** Chú mèo bắt đầu với tư thế đứng thư giãn, đầy tự tin. Thực hiện động tác cuộn vai mượt mà, cô lập phần ngực (chest isolation) tinh tế và đánh hông qua lại có kiểm soát, ánh mắt luôn nhìn thẳng vào ống kính.
+
+**2–4 giây:** Chú mèo đi những bước chân chuẩn xác, sành điệu, bước sang phải rồi sang trái, kết hợp vung tay nhịp nhàng trước thân người. Cổ tay chuyển động tự nhiên, khuỷu tay thả lỏng, phần thân trên di chuyển theo groove một cách uyển chuyển.
+
+**4–6 giây:** Chú mèo thực hiện một đường body wave mềm mại, bước two-step dứt khoát cùng các cú vung tay đồng bộ. Phần thân trên và hông chuyển động độc lập, tạo nên phong cách nhảy tự nhiên, linh hoạt như con người.
+
+**6–8 giây:** Chú mèo dậm hai bước thật mạnh, dứt khoát khớp với nhịp beat, nhún vai (shoulder pop) mượt mà và chốt hạ bằng một tư thế cực ngầu, tự tin hướng thẳng về phía camera.
+
+**YÊU CẦU QUAN TRỌNG VỀ KIỂM SOÁT ĐẦU VÀ CỔ:** Phần đầu của chú mèo phải giữ đúng cấu trúc giải phẫu, gắn kết tự nhiên với cổ. Chỉ cho phép những cái nghiêng đầu nhẹ nhàng, chân thực và các chuyển động nhỏ khớp với nhịp nhạc. Phần đầu TUYỆT ĐỐI KHÔNG được xoay 360 độ, lật ngược ra sau, vặn xoắn phi lý, rời khỏi cổ hay tự xoay độc lập với cơ thể. Mắt, tai, mõm và cấu trúc khuôn mặt phải đồng nhất trong mọi khung hình.
+
+**KHÓA HIỆU ỨNG CHÂN THỰC:** Chuyển trọng lượng cơ thể tự nhiên, bàn chân bám chắc mặt đất, giữ thăng bằng hợp lý, chuyển cảnh giữa các động tác mượt mà, hiệu ứng vật lý của lông và vải chân thực, đổ bóng nhất quán, chuyển động liền mạch và cấu trúc cơ thể ổn định. Toàn bộ video là một cú máy duy nhất không ngắt quãng, góc máy toàn thân cố định, tuyệt đối không giật hay lia máy đột ngột.
+
+**CÁC YẾU TỐ CẦN LOẠI BỎ (NEGATIVE CONSTRAINTS):** Không chuyển động kiểu hoạt hình, không nhảy nhót trẻ con, không biểu cảm thái quá, không tay chân dẻo như cao su, không uốn cong cột sống phi lý, không vặn cổ, không xoay đầu, không mọc thêm chi, không biến dạng khuôn mặt, không thay đổi trang phục, không bay lơ lửng, không nhấp nháy hình, không nhảy dựng tư thế đột ngột, không có bất kỳ chuyển động nào trông giả tạo.
+
+**KẾT QUẢ CUỐI CÙNG:** Một màn trình diễn vũ đạo sành điệu, tự tin mang hơi hướng người lớn từ chính chú mèo nhân hóa chân thực như ảnh chụp đó, với các động tác mượt mà, phần đầu chuyển động tự nhiên và hiệu ứng vật lý thuyết phục.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114406485530972160/img/3zdH9KBkn5jnuVy0.jpg" width="600" alt="Video Mèo Nhân Hóa Đang Nhảy">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13047)**
+
+**Tác giả:** [M. Asif](https://x.com/meAsifAi) | **Nguồn:** [Link](https://x.com/meAsifAi/status/2114406947558764575) | **Đã xuất bản:** Oct 25, 2026
+
+---
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -9672,6 +9686,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-18T06:25:39.066Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-18T17:23:48.917Z</sub>
 
 </div>

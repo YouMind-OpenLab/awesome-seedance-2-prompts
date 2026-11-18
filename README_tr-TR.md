@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6696** |
+| 📝 Toplam İstem | **6695** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-11-18** |
 
@@ -538,35 +538,6 @@ Ultra gerçekçi, sinematik, karanlık bilim kurgu savaş alanı videosu oluştu
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13969)**
 
 **Yazar:** [Draaven](https://x.com/draavenai) | **Kaynak:** [Link](https://x.com/draavenai/status/2122648114737840216) | **Yayınlandı:** Nov 17, 2026
-
----
-### İlahi Savaşçı Melek Fantastik Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.5 için özel olarak optimize edilmiş, bir melek savaşçının uyanışını konu alan sinematik fantastik video oluşturmak için detaylı istem.
-
-#### 📝 İstem
-
-```
-Uzun gümüş-beyaz saçları, parlayan altın zırhı, devasa ve görkemli beyaz tüylü kanatları ile efsanevi bir altın kılıca sahip güzel bir kadın melek savaşçıyı konu alan, nefes kesici 15 saniyelik sinematik bir fantastik video oluşturun.
-
-Sahne 1: Mistik mor bir fantastik dünyada yavaşça gözlerini açarken, güzel yüzünün ve parlayan gözlerinin yakın çekimini gösterin.
-
-Sahne 2: Bedenini saran büyülü altın enerjisiyle birlikte, güçlü bir altın kılıcı tutarken gösterin.
-
-Sahne 3: Kamera yumuşak bir şekilde geriye doğru uzaklaşırken devasa melek kanatları genişçe açılsın, gökyüzünü aydınlatan altın rengi bir ışık huzmesi yayılsın ve etrafında büyülü parçacıklar uçuşsun.
-
-Sahne 4: Kılıcıyla kahramanca dururken, güçlü ve ilahi görünümünü yansıtın.
-
-Ultra gerçekçi 3D fantastik animasyon, çarpıcı sinematik aydınlatma, detaylı tüyler, gerçekçi hareketler, epik atmosfer, akıcı kamera geçişleri, 4K kalite, dikey 9:16 format. Karakterin görünümü baştan sona tutarlı olsun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2122580336437858304/img/B4PToZUGGErfI0q8.jpg" width="600" alt="İlahi Savaşçı Melek Fantastik Video İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13953)**
-
-**Yazar:** [Ali](https://x.com/CodesWithAli) | **Kaynak:** [Link](https://x.com/CodesWithAli/status/2122580427013824751) | **Yayınlandı:** Nov 17, 2026
 
 ---
 ### Kore Romantik Aksiyon Kısa Filmi
@@ -9557,6 +9528,49 @@ Negatif Prompt: Yüz değiştirme, kıyafet değişimi, kesmelerden sonra karakt
 **Yazar:** [单引号](https://x.com/DengYH803) | **Kaynak:** [Link](https://x.com/DengYH803/status/2114557242569867559) | **Yayınlandı:** Oct 26, 2026
 
 ---
+### Dans Eden Antropomorfik Kedi Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gömlek ve pantolon giyen antropomorfik bir kedinin dans ettiği, fotogerçekçi bir video oluşturmak için detaylı istem; anatomik stabiliteye ve ritmik harekete vurgu yapar.
+
+#### 📝 İstem
+
+```
+**SÜRE:** 8 saniye  
+**FORMAT:** Dikey 9:16, sinematik fotogerçekçilik  
+**REFERANS:** Yüklenen kedi görselini ilk kare ve karakter referansı olarak birebir kullanın.
+
+**KARAKTER TUTARLILIĞI:** Aynı turuncu-krem rengi tekir kedi; üzerinde aynı pembe günlük düğmeli gömlek ve bej pantolon olacak. Videonun tamamı boyunca yüzünü, göz şeklini, kulaklarını, tüy desenlerini, vücut oranlarını, kıyafetini ve kuyruğunu orijinal hâliyle koruyun.
+
+**MÜZİK:** Derin ve ritmik bir bas, net perküsyonlar ve şık kulüp beat'leriyle desteklenmiş, havalı, ritmik modern dans-pop enstrümantal parçası. Müzik anında başlar. Dans hareketleri ritimle tam uyumlu olmalıdır.
+
+**DANS KOREOGRAFİSİ:**
+
+**0–2 saniye:** Kedi rahat ve kendinden emin bir duruşla başlar. Kamerayla göz temasını hiç bozmadan yumuşak bir omuz çevirme, hafif bir göğüs izolasyonu ve kontrollü bir sağa-sola kalça hareketi yapar.
+
+**2–4 saniye:** Kedi temiz ve şık ayak hareketleri sergiler; sağa ve sola adım atarken kollarını gövdesinin önünde ritmik biçimde hareket ettirir. Doğal bilek hareketleri, rahat dirsekler ve kontrollü üst vücut groove'ları.
+
+**4–6 saniye:** Kedi akıcı bir body wave (dalga hareketi), kendinden emin bir two-step adımı ve koordineli kol savurmaları gerçekleştirir. Gövdesi ve kalçaları, fiziksel olarak tutarlı ve insana benzer bir dans tarzında birbirinden bağımsız hareket eder.
+
+**6–8 saniye:** Kedi ritimle tam eşleşen iki keskin adım atar, yumuşak bir shoulder pop (omuz vuruşu) yapar ve kameraya dönük havalı, kendinden emin bir pozla bitirir.
+
+**KRİTİK BAŞ VE BOYUN KONTROLÜ:** Kedinin başı anatomik olarak sabit kalmalı ve boynuna doğal bir şekilde bağlı olmalıdır. Yalnızca ince, gerçekçi baş eğmeleri ve ritimle senkronize küçük hareketlere izin verilir. Baş ASLA 360 derece dönmemeli, geriye doğru katlanmamalı, doğal olmayan şekilde bükülmemeli, gövdeden kopmamalı veya vücudundan bağımsız olarak dönmemelidir. Gözler, kulaklar, burun bölgesi ve yüz yapısı her karede tutarlı olmalıdır.
+
+**GERÇEKÇİLİK KİLİDİ:** Doğal ağırlık aktarımı, yere sağlam basan ayaklar, inandırıcı denge, dans hareketleri arasında pürüzsüz geçişler, gerçekçi tüy ve kumaş fiziği, tutarlı gölgeler, kesintisiz hareket ve stabil anatomi. Ani kamera hareketleri olmadan, sabit bir tam boy çekim kamerasıyla tek ve kesintisiz bir plan.
+
+**NEGATİF KISITLAMALAR:** Çizgi film tarzı hareket yok, çocuksu dans yok, abartılı yüz ifadeleri yok, lastik gibi uzuvlar yok, doğal olmayan omurga bükülmeleri yok, boyun burkulmaları yok, baş dönmesi yok, fazladan uzuv yok, yüz deformasyonu yok, kıyafet değişikliği yok, havada süzülme yok, titreme/flickering yok, ani poz sıçramaları yok, yapay görünen hareket yok.
+
+**NİHAİ SONUÇ:** Aynı fotogerçekçi antropomorfik kedi tarafından sergilenen; akıcı koreografi, doğal baş hareketleri ve inandırıcı fiziksel hareketlerle zenginleştirilmiş, şık, kendinden emin ve yetişkinlere yönelik bir dans performansı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2114406485530972160/img/3zdH9KBkn5jnuVy0.jpg" width="600" alt="Dans Eden Antropomorfik Kedi Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13047)**
+
+**Yazar:** [M. Asif](https://x.com/meAsifAi) | **Kaynak:** [Link](https://x.com/meAsifAi/status/2114406947558764575) | **Yayınlandı:** Oct 25, 2026
+
+---
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -9618,6 +9632,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-18T06:25:48.012Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-18T17:23:56.957Z</sub>
 
 </div>
