@@ -68,9 +68,9 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6689** |
+| 📝 Total de prompts | **6696** |
 | ⭐ Prompts destacados | **6** |
-| 🔄 Última actualización | **2026-11-17** |
+| 🔄 Última actualización | **2026-11-18** |
 
 ---
 
@@ -361,6 +361,214 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Animación de la amistad entre un elefante y un ratón
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para crear una conmovedora escena animada en 3D de un elefantito y un pequeño ratón interactuando juguetonamente en un acantilado de la sabana africana durante la hora dorada.
+
+#### 📝 Prompt
+
+```
+Una escena cinematográfica de animación 3D tierna y divertida que muestra a un elefante bebé gigante y a un ratoncito adorable sobre el estrecho borde de un acantilado cubierto de hierba en la sabana africana durante la hora dorada. El elefante observa al pequeño ratón con curiosidad, mientras este agita sus manitas asustado. Con suavidad, el elefante usa su trompa para arrancar un puñado de hierba y juega con el ratón. De repente, la trompa lo levanta por los aires y lo deja a salvo sobre la cabeza del elefante. El ratón se sienta feliz en lo alto mientras el elefante avanza tranquilamente. Hermoso atardecer anaranjado, paisaje dramático de cañones, hierba realista, partículas de polvo flotando, personajes adorables y expresivos, piel de elefante detallada, animación 3D con calidad Pixar, movimientos de cámara cinematográficos, animación fluida de los personajes, narrativa emotiva, iluminación cálida, texturas ultradetalladas, calidad 4K, formato vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122919367876947968/img/rDAY25UmiYjVVxIg.jpg" width="600" alt="Animación de la amistad entre un elefante y un ratón">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13968)**
+
+**Autor:** [Zarnish](https://x.com/ZarnishNael) | **Fuente:** [Link](https://x.com/ZarnishNael/status/2122919421635121290) | **Publicado:** Nov 18, 2026
+
+---
+### Batalla épica entre Titán y Guerrero Mono
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para generar una escena de película de acción fantástica en 3D ultrarrealista, que presenta a un titán púrpura gigante luchando contra un legendario guerrero mono en el entorno de un antiguo templo chino.
+
+#### 📝 Prompt
+
+```
+Crea una épica película de acción y fantasía en 3D ultrarrealista ambientada en un antiguo templo chino que flota entre montañas oscuras y tormentosas. Un titán púrpura gigante y musculoso, vestido con una armadura dorada y un poderoso guantelete de oro, se enfrenta a un legendario guerrero mono ataviado con una armadura de combate tradicional roja y dorada, empuñando un bastón mágico dorado. Ambos guerreros se miran cara a cara antes de que estalle una batalla intensa. El guerrero mono hace girar su brillante bastón dorado, desatando poderosas ondas de energía dorada. El titán púrpura libera una misteriosa energía de rayos violetas. Los dos guerreros chocan en un explosivo combate mágico, destrozando la antigua plataforma de piedra mientras las rocas salen volando por los aires. Planos cerrados dramáticos, coreografía de pelea impactante, cámara lenta cinematográfica, expresiones faciales realistas, efectos visuales mágicos espectaculares, iluminación volumétrica, animación 3D detallada, calidad de película de fantasía de Hollywood, resolución 4K, formato vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122907294447120384/img/VG3SQI1ZwTjrphlk.jpg" width="600" alt="Batalla épica entre Titán y Guerrero Mono">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13967)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fuente:** [Link](https://x.com/draavenai/status/2122907719191470174) | **Publicado:** Nov 18, 2026
+
+---
+### Prompt de acción de artes marciales para Seedance 2.0 Fast
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompts detallados para generar escenas realistas de acción de artes marciales en un vestíbulo de hotel usando Seedance 2.0 Fast.
+
+#### 📝 Prompt
+
+```
+Acción extrema de artes marciales en el vestíbulo de un hotel de lujo por la noche. La Imagen 1 es el protagonista. Salta hacia adelante ejecutando una potente patada voladora doble, luego gira rápidamente con una patada hacia atrás que estrella al atacante contra el mostrador de recepción. Después realiza una patada tornado de 360 grados contra dos enemigos. Lanza una patada lateral aérea contra un pilar de mármol, una patada descendente sobre un atacante gigante y remata con un rodillazo en salto y una patada lateral alta. Seguimiento cinematográfico dinámico cámara en mano, planos contrapicados, rotación de 360 grados. Física realista, lámparas de araña de cristal, suelo de mármol. Audio: patadas contundentes, impactos, ambiente del vestíbulo. Sin música. Cinematografía hollywoodense ultrarrealista.
+
+[Cámara] Movimiento de cámara cinematográfico agresivo al estilo dron FPV. La cámara orbita rápidamente alrededor del luchador. Rotaciones alternas en sentido horario y antihorario, barridos bruscos repentinos, pasadas a baja altitud, sobrevuelos cercanos y retrocesos rápidos. La cámara no se mantiene fija en el centro del luchador. Permite perder brevemente de vista al sujeto durante los movimientos extremos, reenfoque activo de la acción desde nuevos ángulos. Usa planos holandeses dinámicos, cambia la altitud de la cámara. Sincroniza la aceleración/desaceleración de la cámara con los choques de espadas, las esquivas y los ataques explosivos. Modelo Seedance 2.0 Fast. Duración 15 segundos. Relación de aspecto 4:3. Resolución 720p.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122817466569302016/img/bIUSGjdAxnbEH4i2.jpg" width="600" alt="Prompt de acción de artes marciales para Seedance 2.0 Fast">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13972)**
+
+**Autor:** [テト@おっさんの異世界転生 Uncle in ISEKAI](https://x.com/ojisan__isekai) | **Fuente:** [Link](https://x.com/ojisan__isekai/status/2122817715413139606) | **Publicado:** Nov 17, 2026
+
+---
+### Escena de pelea de kung fu realista de la era republicana
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt altamente detallado para generar un cortometraje cinematográfico realista de acción de kung fu de 15 segundos ambientado en la era de la República de China. Especifica el diseño de los personajes, la coreografía (estilo Wing Chun), los movimientos de cámara, la iluminación, los efectos de sonido y las reglas estrictas de consistencia para una pelea entre un protagonista y dos atacantes en una antigua casa de té.
+
+#### 📝 Prompt
+
+```
+Genera un cortometraje de acción de Kung Fu realista y cinematográfico, ambientado en la era de la República, de 15 segundos, formato horizontal 16:9, generado directamente a partir de texto.
+
+[Requisitos principales]
+Combate cuerpo a cuerpo continuo, frenético y de alta densidad, como la escena de pelea más intensa de las mejores películas de Kung Fu, con 4 rondas de intercambios y 10 planos.
+El primer fotograma ya está en pleno combate; sin introducciones, caminatas, enfrentamientos previos ni poses.
+Sin cámara lenta en ningún momento; todas las acciones ocurren a velocidad real.
+Cada plano dura entre 1 y 2 segundos, completando un único intercambio claro de ataque/defensa y mostrando el resultado tras el impacto.
+Las acciones se conectan de forma fluida entre planos; el resultado de una acción es el inicio de la siguiente, sin pausas.
+El protagonista lucha contra dos oponentes; los atacantes se turnan para golpear, de modo que solo uno ataca activamente a la vez. El protagonista se ve dominado en la primera mitad, lucha con más ímpetu en la segunda y remata el combate con un golpe final.
+
+[Personajes]
+Protagonista: Hombre asiático oriental de unos 30 años, cabello corto peinado hacia atrás, rostro atractivo y sereno. Viste un changshan (túnica larga) gris oscuro y zapatos de tela negra. No lleva armas y utiliza técnicas tradicionales chinas de puño a corta distancia, limpias y precisas.
+Atacante A: Hombre adulto alto y corpulento, calvo, viste una chaqueta corta negra abierta por delante y pantalones negros, y sostiene un palo de madera en la mano derecha.
+Atacante B: Hombre adulto delgado, con bigote de manillar, viste una chaqueta corta azul oscuro y pantalones grises, va desarmado.
+Solo estos tres personajes aparecen en todo el cortometraje; su aspecto, vestimenta y armas se mantienen constantes de principio a fin. Los colores de la ropa de ambos atacantes deben distinguirse claramente.
+
+[Escenario]
+El salón principal del segundo piso de una antigua casa de té de la era de la República, actualmente vacío. La cálida luz amarillenta del sol de la tarde entra en diagonal a través de celosías de madera, con finas partículas de polvo flotando en el aire. El salón contiene varias mesas cuadradas de madera y bancos largos, con teteras y tazones de té sobre ellas.
+Toda la acción transcurre en este mismo salón; la posición de las mesas, los bancos y los tres personajes debe mantenerse coherente en todo momento.
+
+[Lista de planos]
+
+Ronda 1: Dominado
+
+Plano 1 (0–1,5 s): Plano medio lateral. El Atacante A lanza un golpe horizontal con el palo de madera; el protagonista se echa hacia atrás para esquivarlo; el palo impacta contra la mesa, haciendo que teteras y tazones caigan y se hagan añicos.
+
+Plano 2 (1,5–3 s): Plano de seguimiento con cámara en mano. El Atacante B irrumpe desde un lado y golpea el hombro del protagonista; este choca contra la mesa que tiene detrás, empujándola y desplazándola.
+
+Ronda 2: Arrebatando el palo
+
+Plano 3 (3–4,5 s): Plano medio. El Atacante A levanta el palo para estrellárselo en la cabeza al protagonista; este se hace a un lado; el palo golpea un banco y lo parte en dos.
+
+Plano 4 (4,5–6 s): Primer plano. El protagonista agarra con una mano la muñeca del Atacante A que sostiene el palo y le asesta un tajo en el codo con la otra palma; el palo cae al suelo; el protagonista lo patea debajo de la mesa.
+
+Ronda 3: Primero el Atacante B
+
+Plano 5 (6–7,5 s): Plano medio. El Atacante B lanza un puñetazo; el protagonista lo bloquea con el brazo y le conecta dos rápidos golpes rectos en el pecho; el Atacante B retrocede.
+
+Plano 6 (7,5–9 s): Plano medio. El protagonista le propina una patada lateral en el abdomen al Atacante B; este cae hacia atrás, volcando un banco, y queda tendido en el suelo sin poder levantarse.
+
+Ronda 4: Duelo con el Atacante A
+
+Plano 7 (9–10,5 s): Plano medio. El Atacante A se abalanza por la espalda y golpea al protagonista en la espalda; este tropieza hacia adelante, recupera el equilibrio agarrándose al borde de la mesa, con el faldón del changshan ondeando.
+
+Plano 8 (10,5–12 s): Primer plano en movimiento. El protagonista se gira, bloquea el segundo puñetazo del Atacante A y le conecta tres golpes cortos y secos de Wing Chun en el pecho y el abdomen; el Atacante A retrocede repetidamente.
+
+Plano 9 (12–13,5 s): Plano medio ligeramente más abierto. El protagonista agarra el brazo del Atacante A, aprovecha su inercia para girar y lanzarlo por encima de una mesa; el Atacante A cae junto con la mesa, los tazones de té se hacen añicos y queda incapacitado para levantarse.
+
+Plano 10 (13,5–15 s): Primer plano del rostro del protagonista, con la luz de la ventana perfilando su silueta. Se ajusta lentamente los puños de las mangas, su respiración se estabiliza y observa con calma a los atacantes caídos. La escena termina directamente.
+
+[Acción y fotografía]
+Textura cinematográfica realista de la era de la República, iluminación lateral cálida y amarillenta propia de la tarde, texturas auténticas de madera, porcelana y tela, polvo flotando en los haces de luz.
+Cada puñetazo y patada debe hacer contacto con el objetivo antes de mostrar el impacto corporal, el retroceso o el desequilibrio; no hay golpes al aire ni caídas sin haber recibido un impacto.
+Los golpes del protagonista son cortos, precisos y limpios, usando la fuerza del rival en su contra, sin movimientos exagerados ni florituras.
+Los dos atacantes se turnan; no forcejean con el protagonista al mismo tiempo; quienes caen derribados no se levantan para reincorporarse a la pelea.
+Se permite un ligero temblor de cámara en los momentos de impacto, pero siempre debe quedar claro quién golpea a quién.
+La posición de los tres personajes debe ser coherente entre planos consecutivos; sin teletransportaciones, objetos atravesándose entre sí, ni manos, personajes o armas adicionales.
+El palo de madera permanece bajo la mesa después de ser pateado allí; nadie lo vuelve a recoger.
+Sin saltos acrobáticos, Qinggong (técnica de ligereza), carreras por las paredes, superpoderes ni primeros planos sangrientos.
+
+[Sonido]
+En la atmósfera silenciosa de la casa de té, los sonidos de los tazones rompiéndose, los bancos astillándose, el palo cayendo, cada impacto de puño o patada y las mesas volcándose están perfectamente sincronizados con la imagen; el sonido de la porcelana al quebrarse es nítido.
+Desde el primer segundo comienza una música de acción de estilo chino, tensa y trepidante, que incorpora grandes tambores y pipa, alcanzando su máxima intensidad en el lanzamiento final y terminando de forma abrupta, dejando únicamente el eco de los fragmentos de porcelana al caer.
+Sin diálogos, sin narración, sin subtítulos, sin texto y sin marcas de agua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122686669090586625/img/hxVE2nE2C7FRg1C_.jpg" width="600" alt="Escena de pelea de kung fu realista de la era republicana">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13971)**
+
+**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fuente:** [Link](https://x.com/Adam38363368936/status/2122687390368284951) | **Publicado:** Nov 17, 2026
+
+---
+### Video de Batalla de Monstruos y Superhéroes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para crear un video cinematográfico épico de superhéroes que muestra a dos héroes volando hacia un monstruo gigante que emerge del océano cerca de un puente.
+
+#### 📝 Prompt
+
+```
+Crea un video cinematográfico épico y ultrarrealista en 3D de superhéroes. Una ciudad futurista al atardecer dorado, con un joven superhéroe y un superhéroe adulto que llevan una avanzada armadura tecnológica negra y azul con núcleos de energía brillantes. Ambos héroes surcan el cielo impulsados por potentes propulsores a reacción azules y verdes. Se acercan a un monstruo gigante y misterioso que emerge dramáticamente del océano bajo un enorme puente colgante. Olas gigantescas rompen alrededor de la criatura mientras sus ojos anaranjados luminosos y las grietas de energía iluminan toda la escena. Los dos superhéroes se preparan para enfrentarse juntos al colosal monstruo. Movimientos de cámara aéreos dinámicos, planos generales impresionantes, simulación de agua realista, armaduras futuristas muy detalladas, iluminación dramática, atmósfera de película épica de Hollywood, CGI espectacular, 4K Ultra HD, formato vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122681631077216257/img/bKBJ4rUx6RnkkBoJ.jpg" width="600" alt="Video de Batalla de Monstruos y Superhéroes">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13970)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fuente:** [Link](https://x.com/draavenai/status/2122681662467371212) | **Publicado:** Nov 17, 2026
+
+---
+### Aparición del Guerrero en Campo de Batalla Sci-Fi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para crear un video de campo de batalla sci-fi oscuro ultrarrealista donde un misterioso guerrero acorazado emerge del humo tras una explosión.
+
+#### 📝 Prompt
+
+```
+Crea un video ultrarrealista y cinematográfico de un campo de batalla de ciencia ficción oscura. Un equipo de soldados futuristas con armadura se posiciona en un vasto páramo embarrado bajo un cielo dramático y nublado. En el fondo, a lo lejos, aparecen enormes vehículos blindados. Comienza con un plano cinematográfico cerrado de los soldados, pasa a una vista general del campo de batalla y continúa con una perspectiva de cámara circular y dramática que encuadra un vehículo blindado distante. Una potente explosión levanta una inmensa nube de polvo y humo a lo lejos. De repente, un misterioso guerrero de fantasía con armadura oscura emerge entre el humo, dando lugar a un tenso enfrentamiento digno del mejor cine. Movimientos de cámara dramáticos, detalles ambientales realistas, iluminación atmosférica, estética épica de película de acción, gráficos 3D de gran detalle, calidad 4K, CGI realista, diseño de sonido cinematográfico, formato vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122648053698211840/img/5MqbXboDaKb90Sza.jpg" width="600" alt="Aparición del Guerrero en Campo de Batalla Sci-Fi">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13969)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fuente:** [Link](https://x.com/draavenai/status/2122648114737840216) | **Publicado:** Nov 17, 2026
+
+---
+### Prompt de Video de Fantasía: Ángel Guerrero Divino
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt detallado para generar un video de fantasía cinematográfico sobre el despertar de un ángel guerrero, optimizado específicamente para Seedance 2.5.
+
+#### 📝 Prompt
+
+```
+Crea un impresionante video de fantasía cinematográfica de 15 segundos protagonizado por una hermosa guerrera ángel con largo cabello blanco plateado, una armadura dorada resplandeciente, unas enormes y majestuosas alas blancas de plumas y una legendaria espada dorada.
+
+Escena 1: Muestra un primer plano de su hermoso rostro y sus ojos brillantes mientras despierta lentamente en un místico mundo de fantasía envuelto en tonos púrpuras.
+
+Escena 2: Muéstrala empuñando una poderosa espada dorada, con una energía mágica y dorada envolviendo todo su cuerpo.
+
+Escena 3: La cámara se aleja suavemente mientras sus gigantescas alas de ángel se despliegan por completo; una luz dorada y resplandeciente ilumina el cielo y partículas mágicas flotan a su alrededor.
+
+Escena 4: Muéstrala de pie en una pose heroica junto a su espada, proyectando un aura poderosa y divina.
+
+Animación 3D de fantasía ultrarrealista, iluminación cinematográfica espectacular, plumas detalladas, movimientos realistas, atmósfera épica, transiciones de cámara fluidas, calidad 4K, formato vertical 9:16. Mantén la apariencia del personaje constante durante toda la secuencia.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122580336437858304/img/B4PToZUGGErfI0q8.jpg" width="600" alt="Prompt de Video de Fantasía: Ángel Guerrero Divino">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13953)**
+
+**Autor:** [Ali](https://x.com/CodesWithAli) | **Fuente:** [Link](https://x.com/CodesWithAli/status/2122580427013824751) | **Publicado:** Nov 17, 2026
+
+---
 ### Cortometraje de Acción Romántica Coreana
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9403,243 +9611,6 @@ Prompt negativo: Cambio de rostro, cambio de ropa, alteración del aspecto del p
 **Autor:** [单引号](https://x.com/DengYH803) | **Fuente:** [Link](https://x.com/DengYH803/status/2114557242569867559) | **Publicado:** Oct 26, 2026
 
 ---
-### Video de un gato antropomórfico bailando
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt detallado para generar un video fotorrealista de un gato antropomórfico bailando con camisa y pantalones, enfatizando la estabilidad anatómica y el movimiento rítmico.
-
-#### 📝 Prompt
-
-```
-**DURACIÓN:** 8 segundos  
-**FORMATO:** Vertical 9:16, fotorrealismo cinematográfico  
-**REFERENCIA:** Usa la imagen del gato subida como referencia exacta para el primer fotograma y para el personaje.
-
-**CONSISTENCIA DEL PERSONAJE:** Exactamente el mismo gato atigrado de color naranja y crema, con la misma camisa casual rosa abotonada y los mismos pantalones beige. Mantén su rostro original, la forma de los ojos, las orejas, las marcas del pelaje, las proporciones corporales, la vestimenta y la cola intactos durante todo el video.
-
-**MÚSICA:** Instrumental de dance-pop contemporáneo, rítmico y con mucho estilo, con un bajo profundo y con groove, percusión nítida y ritmos elegantes de club. La música empieza de inmediato. Los movimientos de baile deben ir al compás del ritmo.
-
-**COREOGRAFÍA:**
-
-**0–2 segundos:** El gato comienza de pie, en una postura relajada y segura. Hace un movimiento fluido de hombros, una sutil aislación de pecho y balancea las caderas de lado a lado de forma controlada, sin dejar de mirar a la cámara.
-
-**2–4 segundos:** El gato ejecuta un juego de pies limpio y con estilo, dando pasos a la derecha y a la izquierda mientras mueve los brazos rítmicamente por delante del torso. Movimientos naturales de muñecas, codos relajados y un groove controlado en la parte superior del cuerpo.
-
-**4–6 segundos:** El gato hace una onda corporal fluida, un two-step seguro y movimientos coordinados de brazos. Su torso y sus caderas se mueven de forma independiente, con un estilo de baile físicamente coherente y muy humano.
-
-**6–8 segundos:** El gato da dos pasos marcados que coinciden exactamente con el ritmo, hace un movimiento seco de hombros (shoulder pop) y termina con una pose genial y segura mirando a la cámara.
-
-**CONTROL CRÍTICO DE CABEZA Y CUELLO:** La cabeza del gato debe mantenerse anatómicamente estable y conectada de forma natural al cuello. Solo se permiten inclinaciones sutiles y realistas, además de pequeños movimientos sincronizados con el ritmo. La cabeza NUNCA debe girar 360 grados, echarse hacia atrás, torcerse de forma antinatural, desprenderse ni rotar de manera independiente al resto del cuerpo. Los ojos, las orejas, el hocico y la estructura facial deben ser consistentes en cada fotograma.
-
-**BLOQUEO DE REALISMO:** Transferencia natural del peso, pies bien apoyados en el suelo, equilibrio creíble, transiciones fluidas entre los pasos de baile, física realista del pelaje y la tela, sombras consistentes, movimiento continuo y anatomía estable. Un solo plano ininterrumpido, con la cámara fija mostrando el cuerpo entero y sin movimientos bruscos.
-
-**RESTRICCIONES NEGATIVAS:** Nada de movimientos de caricatura, ni bailes infantiles, ni expresiones faciales exageradas, ni extremidades de goma, ni flexiones antinaturales de la columna, ni torsiones de cuello, ni cabezas girando, ni extremidades extra, ni deformaciones del rostro, ni cambios de ropa, ni flotaciones, ni parpadeos visuales, ni saltos bruscos de pose, ni movimientos que parezcan artificiales.
-
-**RESULTADO FINAL:** Una actuación de baile con estilo, seguridad y aire adulto, protagonizada por el mismo gato antropomórfico fotorrealista, con una coreografía fluida, movimientos naturales de cabeza y una dinámica física totalmente convincente.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114406485530972160/img/3zdH9KBkn5jnuVy0.jpg" width="600" alt="Video de un gato antropomórfico bailando">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13047)**
-
-**Autor:** [M. Asif](https://x.com/meAsifAi) | **Fuente:** [Link](https://x.com/meAsifAi/status/2114406947558764575) | **Publicado:** Oct 25, 2026
-
----
-### Vuelo sobre el Cañón de Sera Nyx
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Descripción del prompt para una escena que involucra a Sera Nyx, una criatura voladora y una secuencia de balanceo en el cañón.
-
-#### 📝 Prompt
-
-```
-Sera Nyx de nuevo, y esta vez su criatura vuela. Un cañón, un columpio colgado de un cable sobre un puente de piedra, unas ruinas y los dos juntos al final.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2114387121637113856/pu/img/MKXPTBojpRRF8Run.jpg" width="600" alt="Vuelo sobre el Cañón de Sera Nyx">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13045)**
-
-**Autor:** [MxCaptures | AI VFX & Cinematic AI Artist](https://x.com/MxCaptures) | **Fuente:** [Link](https://x.com/MxCaptures/status/2114387454757134521) | **Publicado:** Oct 25, 2026
-
----
-### Secuencia cinematográfica de entrada al palacio antiguo con Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt cinematográfico para generar una secuencia de entrada dramática en un entorno de palacio chino antiguo. Incluye múltiples personajes con identidades fijas, relaciones espaciales precisas y una revelación progresiva de la jerarquía de poder mediante movimientos de cámara.
-
-#### 📝 Prompt
-
-```
-Traje antiguo oriental, calidad cinematográfica fotorrealista; gran salón de noche, tonos fríos; texturas auténticas de piel/cabello/tela/metal; paleta oscura de baja saturación con fuerte claroscuro; intriga tensa, atmósfera opresiva; prohibida la estética CG/plástico; solo sonido ambiental: ecos de pasos, roce de vestimentas, leve crepitar de velas
-[Bloqueo de personajes] Protagonista femenina A: Imagen 1; Secundario B: Imagen 2; Secundario C: Imagen 3
-[Bloqueo de utilería] Una sola espada larga (inicialmente en manos de B, luego transferida a A y apoyada sobre el hombro)
-[Bloqueo de escena] Sala del consejo real de noche: suelo de piedra, pilares, ventanales altos, candelabros, faroles, trono elevado en el centro
-[Relaciones espaciales] C está de pie en el centro-derecha del salón; B agachado en primer plano, inicialmente totalmente desenfocado; A ocupa el trono en el fondo central, invisible durante los tres primeros planos
-[Lógica espacial] La jerarquía de poder se revela progresivamente de cerca a lejos mediante un travelling lateral hacia atrás y arriba que expande el espacio capa por capa: primero C (centro del salón), luego B (emboscada en primer plano) y finalmente A tomando el centro; orden estricto de enfoque: C→B→A→plano general
-[Iluminación y atmósfera] Luz fría de luna filtrándose por los ventanales, acentos cálidos de las velas; iluminación general fría, de baja saturación y alto contraste
-
-[Guion gráfico]
-[Plano 01][Duración] 0–3 s [Encuadre] Inicio en plano medio [Movimiento] Fluido al principio, luego paneo lento en arco hacia la izquierda [Contenido] Dentro del salón, C está de pie en ángulo con la cabeza gacha, pensativo; de pronto alza la mirada con una expresión altiva, directa, desdeñosa y distante; primer plano reservado como zona desenfocada (posición de B), enfoque estable en C con clara separación de profundidad [Bloqueo de continuidad] Apertura: aparece C; B es solo una sombra borrosa sin rostro
-
-[Plano 02][Duración] 3–5 s [Encuadre] Primerísimo primer plano que llena el rostro [Movimiento] Continúa hacia la izquierda, cambio de foco rápido al primer plano [Contenido] B, antes desenfocado en primer plano, gira bruscamente la cabeza; primerísimo primer plano en contrapicado que llena el rostro, mirada fría y desdeñosa clavada en la cámara; C completamente en bokeh al fondo, intensa tensión espacial [Bloqueo de continuidad] Transición de cambio de foco: el enfoque pasa de C a B; B es el agente emboscado, no el protagonista
-
-[Plano 03][Duración] 5–7 s [Encuadre] Plano medio [Movimiento] Retroceso rápido con ligero temblor lateral continuo [Contenido] El rostro de B se aparta y se reduce a plano medio mientras la cámara retrocede; B se pone de pie con la espada lista; A entra de golpe caminando desde la izquierda, dominando el encuadre, pasa junto a B, toma la espada larga, la levanta apoyándola sobre el hombro y mira a la cámara desde arriba con una sonrisa condescendiente; el enfoque final se fija en el rostro frontal de A [Bloqueo de continuidad] Toma de poder completada: la espada pasa a A y se logra el dominio del encuadre; B queda relegado al fondo
-
-[Plano 04][Duración] 7–10 s [Encuadre] Gran plano general de cierre [Movimiento] Retroceso diagonal con ascenso sostenido [Contenido] La cámara retrocede continuamente en diagonal ascendente, expandiendo el espacio de forma progresiva; el retroceso total establece un cuadro de poder congelado: ventanales bañados por la luz de la luna, velas parpadeantes, contraste marcado, oscuridad de baja saturación, máxima opresión [Bloqueo de continuidad] Resolución: la verdadera autoridad emerge al final; la estructura de poder del trío queda cristalizada
-
-[Restricciones negativas] Absolutamente nada de música de fondo ni subtítulos; sin textos extraños, marcas de agua ni elementos modernos (nada de trajes/gafas/coches/pelotas de béisbol); sin duplicación de personajes, errores anatómicos, pérdida de identidad, transformación del rostro de A en B o C, violaciones del orden de enfoque, desaparición de espadas ni ralentizaciones pesadas; A/B/C mantienen posiciones fijas en todo momento
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114347927615533056/img/LKCLXLhtlEtIrKN_.jpg" width="600" alt="Secuencia cinematográfica de entrada al palacio antiguo con Seedance 2.0">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13049)**
-
-**Autor:** [灰度笔记](https://x.com/GrayNoteLab) | **Fuente:** [Link](https://x.com/GrayNoteLab/status/2114348037862719796) | **Publicado:** Oct 25, 2026
-
----
-### Prompt de Video Doméstico DV Seedance 2.5
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt altamente detallado para generar un video doméstico DV realista de principios de los años 2000, que presenta a una joven mujer del este asiático en un dormitorio durante una calurosa tarde de verano. Incluye instrucciones específicas para la consistencia del personaje, la línea de tiempo de acción, la estabilidad de la cámara y el entorno de audio.
-
-#### 📝 Prompt
-
-```
-La Imagen 1 es el primer fotograma del video; la escena parte de la Imagen 1, por lo que el entorno, la composición, la iluminación, la ropa, los objetos y sus posiciones se basan íntegramente en ella.
-La Imagen 2 es la referencia del personaje y solo sirve para fijar su rostro, las proporciones faciales, la forma de la cara y el color del cabello. No utilices el fondo gris, la ropa ni la disposición de tres vistas de la Imagen 2.
-
-Crea una grabación hiperrealista de 30 segundos con una cámara doméstica DV de principios de los años 2000 que capture a una joven asiática oriental pasando una tarde de verano bochornosa en el dormitorio de un apartamento antiguo. Perspectiva puramente observacional, sin diálogos ni arco narrativo: solo el ritmo de la vida cotidiana.
-
-Personaje
-Su aspecto coincide con la Imagen 2; la ropa y el peinado coinciden con la Imagen 1: cara lavada (sin maquillaje), moño suelto en lo alto de la cabeza, camiseta holgada azul claro, pantalones cortos de algodón blanco y descalza. Mantén el mismo rostro, ropa, peinado y complexión física durante toda la secuencia.
-
-Línea temporal de acciones (cada acción se realiza una sola vez, sin repeticiones)
-00:00–00:06 — Está recostada sobre una almohada, abanicándose lentamente con la mano derecha usando el abanico de la Imagen 1, mirando al techo con expresión ausente y parpadeando de vez en cuando.
-00:06–00:11 — Deja de abanicarse, apoya el abanico en la esterilla de bambú a su lado, se impulsa con las manos para sentarse en la cama y se gira hacia el ventilador que está sobre el taburete junto a la cama.
-00:11–00:16 — Toma la botella de refresco del taburete, da un sorbo con la pajita y vuelve a dejarla exactamente donde estaba.
-00:16–00:22 — Se acerca a la parte frontal del ventilador, abre la boca y deja escapar un largo «Ahhh...» hacia las aspas; el sonido vibra contra las aspas en movimiento mientras el aire le despeina algunos mechones. Mantén una distancia segura entre el rostro y las aspas; no debe tocar el ventilador.
-00:22–00:26 — Se ríe de sí misma, mira brevemente a la cámara con una sonrisa tímida, sin decir nada.
-00:26–00:30 — Se deja caer hacia atrás sobre la almohada, se cubre la cara con el abanico y se queda inmóvil. El ventilador sigue girando y luego fundido a negro.
-
-Consistencia
-Las posiciones del abanico, la botella de refresco, el ventilador y el taburete no cambian; ningún objeto aparece o desaparece de la nada. Solo hay un abanico y una botella de refresco en el encuadre; el estilo del abanico es idéntico al de la Imagen 1. La orientación del ventilador es fija, sin oscilación, y la forma de las aspas no varía. Las franjas de luz y sombra de la persiana de bambú permanecen estables. Las acciones transcurren a un ritmo natural, pausado y en tiempo real.
-
-Cinematografía y calidad
-Ángulo de cámara fijo que coincide con la Imagen 1; sin movimientos, zoom ni paneos en ningún momento. La única fuente de luz es la luz natural de la tarde que entra por las persianas de bambú, ligeramente sobreexpuesta. Ruido típico de DV, ligera desviación de color, viñeteo y ocasionales ajustes de enfoque automático (focus breathing). El sello de fecha naranja «2003 08 02» en la esquina inferior derecha permanece fijo durante todo el video.
-
-Audio
-Predominan los sonidos ambientales: el zumbido del ventilador, el suave roce del abanico al moverse, las cigarras fuera de la ventana, el timbre lejano de una bicicleta, el crujido de la esterilla de bambú bajo su peso y el sonido al beber refresco con la pajita. Las únicas voces humanas son ese «Ahhh...» vibrante dirigido al ventilador y una risa suave. Sin música de fondo.
-
-Prohibido
-Sin subtítulos, sin banda sonora, sin cámara lenta, sin etalonaje cinematográfico, sin movimientos de cámara, sin profundidad de campo reducida, sin fondos grises de estudio, sin texto ni logotipos de marcas (salvo el sello de fecha). 30 s, 720p
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114326843423858688/img/d8LQ-l3HkxbHuPZH.jpg" width="600" alt="Prompt de Video Doméstico DV Seedance 2.5">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13128)**
-
-**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fuente:** [Link](https://x.com/Adam38363368936/status/2114328135420293145) | **Publicado:** Oct 25, 2026
-
----
-### Escena cómica de Seedance 2.0 en un dormitorio antiguo
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt narrativo humorístico ambientado en un dormitorio chino antiguo, con acción basada en diálogos entre tres personajes y un gato. Utiliza tonos cálidos de luz de vela y timing cómico dentro de un espacio doméstico confinado.
-
-#### 📝 Prompt
-
-```
-Prompt de texto a video: vestimenta antigua oriental, calidad cinematográfica fotorrealista; tono cálido de luz de velas en alcoba; texturas auténticas de piel/cabello/tela/madera tallada; etalonaje de color de nivel cinematográfico; comedia ligera; prohibida la estética CG/plástico
-[Bloqueo de personajes] Protagonista femenina A: Imagen 1; Protagonista masculino B (Zhao Mingcheng): Imagen 2; Secundaria C (Hermana): Imagen 3; Gato atigrado naranja
-[Configuración clave] C escondida dentro del armario
-[Bloqueo de escena] Alcoba de estilo antiguo: cama de madera tallada, tocador con espejo de bronce, candelabros, faroles, gran armario tallado
-[Relaciones espaciales] A está de pie frente a la cama; B sentado y desplomado al borde de la cama; armario en el lado opuesto; C dentro del armario
-[Lógica espacial] Ubicación única; recorrido de A: frente a la cama→girar hacia el armario→abrir la puerta; el gato nunca se baja del hombro de B
-[Atmósfera e iluminación] Luz cálida de velas, iluminación suave en los rostros
-
-[Guion gráfico]
-[Toma 01][Duración] 0–3.5s [Encuadre] Plano medio [Movimiento] Estático [Contenido] A de pie, imponente, sermoneando hacia abajo; B sentado con la cabeza gacha al borde de la cama [Diálogo] A(~0.5–2s): "Cuando nos casamos exigí 100 mil taeles como dote"; A(~2–3.5s): "Mi hermana te prestó 90 mil de eso" simultáneamente el gato naranja le da un zarpazo en la cabeza a B [Bloqueo de continuidad] Apertura: A domina regañando;
-
-[Toma 02][Duración] 3.5–7s [Encuadre] Plano medio [Movimiento] Estático [Contenido] A se enfurece más y señala a B con el dedo; B baja aún más la cabeza, el gato firme en el hombro [Diálogo] A(~3.5–5s): "Ahora hasta te conseguí tu puesto oficial"; A(~6–7s): "Zhao Mingcheng es un desagradecido, ¿verdad?" [Bloqueo de continuidad] A enumera las aportaciones de su hermana; B callado y a la defensiva
-
-[Toma 03][Duración] 7–8.5s [Encuadre] Primer plano [Movimiento] Estático [Contenido] B con la cabeza baja murmura una disculpa, el gato inexpresivo mirando al frente [Diálogo] B con culpa (~7.5–8.3s): "Xiaowan, me equivoqué" [Bloqueo de continuidad] B se rinde; sin diálogos adicionales
-
-[Toma 04][Duración] 8.5–12.5s [Encuadre] Plano medio [Movimiento] Travelling lateral [Contenido] A gira sobre sus talones y camina a grandes zancadas hacia el armario maldiciendo por el camino, se detiene en la puerta con la mano en el tirador [Diálogo] A(~9–11s): "Mientras estabas fuera mi hermana vino de visita y tú la encerraste en el armario"; A(~12s): "¿Todavía eres humano?" [Bloqueo de continuidad] Acercamiento al armario = cuenta regresiva para la revelación; B paralizado al borde de la cama
-
-[Toma 05][Duración] 12.5–15s [Encuadre] Plano medio [Movimiento] Estático [Contenido] A abre el armario de golpe: C de pie adentro saluda torpemente con la mano, sonriendo y diciendo "¡Hola~"; imagen congelada [Bloqueo de continuidad] Desenlace
-
-[Restricciones negativas] Absolutamente nada de música de fondo; sin textos extraños/marcas de agua/duplicación de personajes/errores anatómicos/elementos modernos (sin luces eléctricas/sin muebles modernos)/pérdida de identidad/cambio del rostro de A por el de B o C/el gato bajándose del hombro de B/deformación del patrón del pelaje del gato/confusión de diálogos/ralentí que arrastre la acción
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114281752583897088/img/f5RxqlYYYQlBpeLf.jpg" width="600" alt="Escena cómica de Seedance 2.0 en un dormitorio antiguo">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13050)**
-
-**Autor:** [灰度笔记](https://x.com/GrayNoteLab) | **Fuente:** [Link](https://x.com/GrayNoteLab/status/2114281882687066484) | **Publicado:** Oct 25, 2026
-
----
-### Congelamiento del Caos en el Pasillo Escolar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematográfico para una escena en un pasillo escolar donde una mujer tranquila detiene el caos de una pelea a sus espaldas en cámara lenta.
-
-#### 📝 Prompt
-
-```
-Crea un vídeo cinematográfico y ultrarrealista en 4K ambientado en el pasillo de una escuela moderna. Una joven de cabello castaño recogido en un moño despeinado, con un jersey de cuello alto color crema y auriculares con cable, camina tranquilamente por el corredor mientras, a sus espaldas, varias personas enmascaradas pelean a cámara lenta. Papeles, pupitres y latas de refresco rojo vuelan por los aires hasta que ella levanta una mano y, de forma misteriosa, congela todo lo que la rodea. Mantiene una calma absoluta y el rostro inexpresivo mientras el caos se detiene al instante. Iluminación cinematográfica cálida, expresiones faciales realistas, movimiento detallado del cabello, poca profundidad de campo, suave acercamiento de cámara, cámara lenta dramática, física natural, etalonaje de color con calidad de cine, formato panorámico 16:9, 15 segundos, sin diálogos, sin texto, sin marca de agua.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114222867823124480/img/Dh_-novuM4GOJWVn.jpg" width="600" alt="Congelamiento del Caos en el Pasillo Escolar">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13003)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2114222906867888426) | **Publicado:** Oct 25, 2026
-
----
-### Prompt de Video de Transformación de Magia Oscura en Hogwarts para Halloween con Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt de generación de video altamente detallado para Seedance 2.0, que crea un corto vertical cinematográfico de 15 segundos con una transformación de disfraz de magia oscura, fusionando estéticas de Halloween y Hogwarts. El prompt especifica consistencia del personaje, cambios de vestuario sincronizados con los ritmos musicales, movimientos de cámara y efectos visuales específicos utilizando imágenes de referencia.
-
-#### 📝 Prompt
-
-```
-15 segundos, pantalla vertical 9:16, cortometraje de acción real con estética cinematográfica: cambio de vestuario de magia oscura Halloween x Hogwarts. @Image1 es la plantilla base del personaje, @Image2 Rojo Dorado, @Image3 Verde Esmeralda, @Image4 Azul Plateado, @Image5 Negro Dorado, @Image6 Reina Negro Plateado, apareciendo en ese orden. Siempre la misma mujer adulta y hermosa, largo cabello negro rizado, labios rojo vino, antifaz de encaje negro cubriendo los ojos que nunca se quita; sin cambios de rostro (face swap) en ningún momento. Las imágenes de referencia son para el vestuario y el personaje; no te limites a unir imágenes estáticas.
-
-Música: Phonk sinfónico oscuro a 160 BPM, intro con campanas góticas, batería potente. Cambios de vestuario instantáneos en los tiempos fuertes a los 1.5/4.5/7.5/9.75/12 segundos, con el Drop máximo a los 12 segundos; las transformaciones usan un destello de oclusión de 0.2 segundos, con sincronización perfecta entre audio e imagen.
-
-0–1.5 s: Primerísimo primer plano del antifaz y los labios rojos de @Image1, las yemas de los dedos tocan la máscara y la cámara retrocede rápidamente; aparecen una luna llena anaranjada, murciélagos, un castillo y calabazas de Halloween, mientras las calabazas escupen llamas rojo dorado que cubren toda la pantalla.
-
-1.5–4.5 s: Las llamas se disipan revelando a @Image2, travelling frontal amplio en contrapicado. La protagonista avanza con paso firme y agita violentamente su capa rojo dorado hacia la derecha; a sus espaldas, un león de fuego ruge. La capa barre el objetivo y se transforma en humo verde.
-
-4.5–7.5 s: El humo se despeja mostrando a @Image3, la cámara orbita hacia la espalda en un ángulo de 45 grados. Ella mira por encima del hombro levantando la varita; un caldero de pociones entra en erupción, una serpiente esmeralda gigante se enrosca alrededor de una columna de piedra y la sombra de la serpiente cruza el objetivo convirtiéndose en un fantasma azul.
-
-7.5–9.75 s: Cambio a @Image4, órbita cenital oblicua en sentido horario desde un ángulo picado. Abre los brazos y gira sobre sí misma, haciendo volar la falda azul plateada; fantasmas y luz estelar danzan a su alrededor, unas alas de águila cruzan el objetivo y se transforman en hojas doradas.
-
-9.75–12 s: Cambio a @Image5, travelling lateral. Camina mientras agita la varita, un gato negro pasa corriendo, las enredaderas de calabaza crecen descontroladamente y las calabazas de Halloween se elevan una tras otra; una calabaza gigante choca contra el objetivo, las luces se apagan de golpe y todo funde a negro.
-
-12–14.3 s: Un relámpago acompañado del Drop máximo rasga la oscuridad y aparece @Image6; retroceso rápido de cámara desde un ángulo ultra bajo. La reina flota, la corona desciende sobre su cabeza y unas enormes alas negras se despliegan de repente. La luna llena se vuelve roja como la sangre, los murciélagos alzan el vuelo y las calabazas arden con fuego blanco plateado.
-
-14.3–15 s: Apunta violentamente con la varita hacia el objetivo, un impacto de magia plateada y plumas negras cubren la pantalla, evocando el antifaz de la escena inicial y cerrando el bucle perfecto.
-
-Requisitos: En cada transición, ocultar por completo la imagen primero y luego realizar el cambio de vestuario instantáneo. Movimiento continuo, variación en los tamaños de plano y posiciones de cámara, vestuario nítido y visible, movimiento realista de las telas y el cabello. Atmósfera intensa de Halloween, pero manteniendo siempre al personaje como centro visual absoluto. Prohibido: ropa derritiéndose lentamente, deformaciones faciales, extremidades deformes, efectos baratos, subtítulos y marcas de agua.
-```
-
-<img src="https://cms-assets.youmind.com/media/1792907864427_qpq5sj_HVaRqRyWUAADs0j.jpg" width="600" alt="Prompt de Video de Transformación de Magia Oscura en Hogwarts para Halloween con Seedance 2.0">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13004)**
-
-**Autor:** [麻酱AI实验室](https://x.com/zhongying14) | **Fuente:** [Link](https://x.com/zhongying14/status/2114038007435055604) | **Publicado:** Oct 24, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -9701,6 +9672,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-17T23:45:24.069Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-18T06:25:41.126Z</sub>
 
 </div>

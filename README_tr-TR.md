@@ -68,9 +68,9 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6689** |
+| 📝 Toplam İstem | **6696** |
 | ⭐ Öne Çıkan İstemler | **6** |
-| 🔄 Son Güncelleme | **2026-11-17** |
+| 🔄 Son Güncelleme | **2026-11-18** |
 
 ---
 
@@ -361,6 +361,214 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Fil ve Fare Arkadaşlık Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Altın saatte Afrika savanası uçurumunda yavru bir fil ile minik bir farenin neşeli etkileşimini gösteren, yürek ısıtan 3D animasyon sahnesi için prompt.
+
+#### 📝 İstem
+
+```
+Afrika savanasında, altın saatlerde dar ve çimenli bir uçurum kenarında duran dev bir yavru fil ile minicik, sevimli bir farenin yer aldığı; iç ısıtan ve komik, sinematik bir 3D animasyon sahnesi. Fil meraklı gözlerle küçük fareye bakarken, fare minicik ellerini sallayarak korkmuş gibi davranır. Fil, hortumuyla nazikçe küçük bir ot demeti koparır ve fareyle oyunbaz bir şekilde etkileşime girer. Aniden fare filin hortumuyla havaya kalkar ve güvenli bir şekilde filin başına konar. Fare mutlulukla tepede otururken, fil huzurla ileri doğru yürür. Güzel turuncu gün batımı, dramatik kanyon manzarası, gerçekçi çimler, havada süzülen toz zerreleri, ifadeli sevimli karakterler, detaylı fil derisi, Pixar kalitesinde 3D animasyon, sinematik kamera hareketleri, akıcı karakter animasyonu, duygusal hikâye anlatımı, sıcak ışıklandırma, ultra detaylı dokular, 4K kalite, dikey 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122919367876947968/img/rDAY25UmiYjVVxIg.jpg" width="600" alt="Fil ve Fare Arkadaşlık Animasyonu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13968)**
+
+**Yazar:** [Zarnish](https://x.com/ZarnishNael) | **Kaynak:** [Link](https://x.com/ZarnishNael/status/2122919421635121290) | **Yayınlandı:** Nov 18, 2026
+
+---
+### Epik Titan vs Maymun Savaşçı Dövüşü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Devasa mor bir titanın efsanevi bir maymun savaşçısıyla antik bir Çin tapınağında dövüştüğü, ultra gerçekçi 3D fantastik aksiyon filmi sahnesi oluşturmak için detaylı bir istem.
+
+#### 📝 İstem
+
+```
+Karanlık ve fırtınalı dağlar arasında süzülen antik bir Çin tapınağında geçen, destansı ve ultra gerçekçi bir 3D fantastik aksiyon filmi sahnesi yarat. Altın zırh ve güçlü bir altın eldiven giyen devasa, kaslı mor bir titan; geleneksel kırmızı ve altın savaş zırhı içindeki, elinde sihirli bir altın asa tutan efsanevi maymun savaşçıyla karşı karşıya geliyor. Yoğun bir savaş başlamadan hemen önce iki savaşçı burun buruna duruyor. Maymun savaşçı, parlayan altın asasını hızla çevirerek güçlü altın enerji dalgaları oluşturuyor. Mor titan ise gizemli mor şimşek enerjisini serbest bırakıyor. Her iki savaşçı patlayıcı bir büyü düellosunda çarpışırken havada uçuşan kayalar antik taş platformu yerle bir ediyor. Dramatik yakın çekimler, etkileyici dövüş koreografisi, sinematik ağır çekim, gerçekçi yüz ifadeleri, göz alıcı büyülü görsel efektler, hacimsel aydınlatma, detaylı 3D animasyon, Hollywood fantastik film kalitesi, 4K çözünürlük, dikey 9:16 format.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122907294447120384/img/VG3SQI1ZwTjrphlk.jpg" width="600" alt="Epik Titan vs Maymun Savaşçı Dövüşü">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13967)**
+
+**Yazar:** [Draaven](https://x.com/draavenai) | **Kaynak:** [Link](https://x.com/draavenai/status/2122907719191470174) | **Yayınlandı:** Nov 18, 2026
+
+---
+### Seedance 2.0 Fast dövüş sanatları aksiyon istemi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Seedance 2.0 Fast kullanarak otel lobisinde gerçekçi dövüş sanatları aksiyon sahneleri oluşturmak için detaylı istemler.
+
+#### 📝 İstem
+
+```
+Gece vakti lüks bir otel lobisinde uç dövüş sanatları aksiyonu. 1. görseldeki kişi ana karakterdir. İleriye doğru sıçrayarak güçlü bir çift uçuş tekmesi atar, ardından hızla dönerek attığı geri tekmeyle saldırganı resepsiyon bankosuna çarpar. Sonra iki düşmana karşı 360 derecelik bir tornado tekmesi uygular. Mermer bir sütuna havadan yan tekme, devasa bir saldırgana aşağı atlama tekmesi indirir ve sahneyi zıplayarak diz darbesi ile yüksek yan tekmeyle bitirir. Dinamik el kamerasıyla sinematik takip çekimi, alt açı çekimler, 360 derece dönüş. Gerçekçi fizik, kristal avizeler, mermer zemin. Ses: etkili tekmeler, darbeler, lobi ambiyansı. Müzik yok. Ultra gerçekçi Hollywood sinematografisi.
+
+[Kamera] FPV drone tarzında agresif sinematik kamera hareketi. Kamera dövüşçünün etrafında hızla döner. Saat yönünde ve saat yönünün tersine dönüşler, ani hızlı kaydırmalar (whip pan), alçak irtifa geçişleri, yakın uçuşlar ve hızlı geri çekilmeler birbirini izler. Kamera dövüşçüyü sürekli merkezde tutmaz. Aşırı hareketler sırasında öznenin kısa süreliğine kadrajdan çıkmasına izin verin ve aksiyonu yeni açılardan aktif olarak yeniden yakalayın. Dinamik eğik (Dutch) açılar kullanın, kamera yüksekliğini değiştirin. Kamera ivmelenmesini/yavaşlamasını kılıç çarpışmaları, savuşturmalar ve patlayıcı saldırılarla senkronize edin. Model Seedance 2.0 Fast. Süre 15 saniye. En boy oranı 4:3. Çözünürlük 720p.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122817466569302016/img/bIUSGjdAxnbEH4i2.jpg" width="600" alt="Seedance 2.0 Fast dövüş sanatları aksiyon istemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13972)**
+
+**Yazar:** [テト@おっさんの異世界転生 Uncle in ISEKAI](https://x.com/ojisan__isekai) | **Kaynak:** [Link](https://x.com/ojisan__isekai/status/2122817715413139606) | **Yayınlandı:** Nov 17, 2026
+
+---
+### Gerçekçi Cumhuriyet Dönemi Kung Fu Dövüş Sahnesi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Cumhuriyet döneminde geçen, 15 saniyelik gerçekçi sinematik bir kung fu aksiyon kısa filmi oluşturmak için son derece detaylı bir prompt. Karakter tasarımlarını, koreografiyi (Wing Chun tarzı), kamera hareketlerini, ışıklandırmayı, ses efektlerini ve eski bir çayhanede bir baş karakter ile iki saldırgan arasındaki dövüş için katı tutarlılık kurallarını belirtir.
+
+#### 📝 İstem
+
+```
+Metinden doğrudan üretilen, 15 saniyelik, 16:9 yatay formatta, gerçekçi ve sinematik bir Cumhuriyet dönemi Kung Fu aksiyon kısa filmi oluşturun.
+
+[Temel Gereksinimler]
+En üst düzey Kung Fu filmlerindeki en yoğun dövüş sahnesini andıran; yüksek tempolu, kesintisiz ve yakın mesafe çatışmalarla dolu bir akış. Toplam 4 tur karşılıklı hamle ve 10 çekim.
+İlk kare zaten dövüşün ortasında başlamalı; giriş, yürüme, karşı karşıya bekleme veya poz verme sahneleri kesinlikle olmamalı.
+Film boyunca ağır çekim (slow motion) kullanılmamalı; tüm hareketler gerçek zamanlı hızda gerçekleşmeli.
+Her çekim yaklaşık 1-2 saniye sürmeli, yalnızca tek bir net saldırı/savunma hamlesini içermeli ve darbenin ardından ortaya çıkan sonucu göstermeli.
+Çekimler arasındaki hareketler kusursuz bir şekilde birbirine bağlanmalı; bir önceki hareketin sonucu, hiçbir boşluk bırakılmadan bir sonrakini başlatmalı.
+Ana karakter iki rakiple birden dövüşüyor; saldırganlar sırayla atağa geçiyor ve aynı anda yalnızca biri aktif olarak vuruyor. Ana karakter ilk yarıda baskı altında kalıyor, ikinci yarıda daha sert bir mücadele veriyor ve savaşı son bir darbeyle bitiriyor.
+
+[Karakterler]
+Ana Karakter: Yaklaşık 30 yaşlarında Doğu Asyalı bir erkek, geriye taranmış kısa saçlı, yakışıklı ve sakin bir yüze sahip. Koyu gri bir changshan (uzun gömlek) ve siyah bez ayakkabılar giyiyor. Silah taşımıyor; temiz, keskin ve geleneksel Çin yakın mesafe yumruk teknikleri kullanıyor.
+Saldırgan A: Uzun boylu, iri yapılı yetişkin bir erkek, kel, önden düğmeli siyah kısa ceket ve siyah pantolon giyiyor, sağ elinde tahta bir sopa tutuyor.
+Saldırgan B: Zayıf yapılı yetişkin bir erkek, sekiz şeklinde bıyığı var, koyu mavi kısa ceket ve gri pantolon giyiyor, silahsız.
+Film boyunca yalnızca bu üç karakter yer alıyor; görünümleri, kıyafetleri ve silahları baştan sona tutarlılığını koruyor. İki saldırganın kıyafet renkleri birbirinden net bir şekilde ayırt ediliyor.
+
+[Mekan]
+Cumhuriyet döneminden kalma, şu an boş olan eski bir çay evinin ikinci katındaki ana salon. Sıcak sarı öğleden sonra güneşi, ahşap kafesli pencerelerden çapraz olarak içeri süzülüyor ve havada ince toz zerreleri uçuşuyor. Salonda birkaç kare ahşap masa ve uzun ahşap banklar bulunuyor; masaların üzerinde çaydanlıklar ve çay kaseleri duruyor.
+Filmin tamamı bu salonda geçiyor; masaların, bankların ve üç karakterin konumları film boyunca tutarlılığını koruyor.
+
+[Çekim Listesi]
+
+1. Tur: Baskı Altında
+
+Çekim 1 (0–1.5 sn): Yandan orta plan çekim. Saldırgan A tahta sopayı yatay olarak savuruyor; ana karakter eğilerek kaçıyor; sopa masaya çarpıyor, çaydanlıklar ve kaseler düşüp parçalanıyor.
+
+Çekim 2 (1.5–3 sn): El kamerasıyla takip çekimi. Saldırgan B yandan fırlayarak ana karakterin omzuna yumruk atıyor; ana karakter arkasındaki masaya çarpıp onu sürükleyerek uzaklaştırıyor.
+
+2. Tur: Sopayı Kapmak
+
+Çekim 3 (3–4.5 sn): Orta plan çekim. Saldırgan A sopayı kaldırıp ana karakterin kafasına indirmek üzere hamle yapıyor; ana karakter yana kayarak kaçıyor; sopa bir banka çarpıp onu ikiye bölüyor.
+
+Çekim 4 (4.5–6 sn): Yakın çekim. Ana karakter tek eliyle Saldırgan A'nın sopayı tutan bileğini kavrayıp diğer avucuyla dirseğine sert bir vuruş indiriyor; sopa yere düşüyor; ana karakter sopayı tekmeyle masanın altına gönderiyor.
+
+3. Tur: Önce Saldırgan B'yi Hedef Almak
+
+Çekim 5 (6–7.5 sn): Orta plan çekim. Saldırgan B yumruk atıyor; ana karakter koluyla savunup göğsüne art arda iki hızlı düz yumruk indiriyor; Saldırgan B geri çekiliyor.
+
+Çekim 6 (7.5–9 sn): Orta plan çekim. Ana karakter, Saldırgan B'nin karnına yan tekme atıyor; Saldırgan B geriye doğru düşerken bir bankı deviriyor ve kalkamayacak halde yerde kalıyor.
+
+4. Tur: Saldırgan A ile Düello
+
+Çekim 7 (9–10.5 sn): Orta plan çekim. Saldırgan A arkadan fırlayarak ana karakterin sırtına yumruk atıyor; ana karakter sendeleyip öne düşüyor, masa kenarını tutarak dengesini sağlıyor, changshan'ının etekleri savruluyor.
+
+Çekim 8 (10.5–12 sn): Yakın plan takip çekimi. Ana karakter dönerek Saldırgan A'nın ikinci yumruğunu engelliyor ve göğsüyle karnına üç kısa, net Wing Chun vuruşu indiriyor; Saldırgan A sürekli geri adım atıyor.
+
+Çekim 9 (12–13.5 sn): Biraz daha geniş orta plan çekim. Ana karakter Saldırgan A'nın kolunu kavrayıp onun ivmesini kullanarak onu döndürüyor ve bir masanın üzerinden fırlatıyor; Saldırgan A masayla birlikte yere düşüyor, çay kaseleri parçalanıyor ve kalkamıyor.
+
+Çekim 10 (13.5–15 sn): Ana karakterin yüzünün yakın çekimi, pencereden gelen güneş ışığı profilini belirginleştiriyor. Yavaşça kol manşetlerini düzeltiyor, nefesi dengeleniyor ve yerde yatan saldırganlara sakince bakıyor. Sahne doğrudan burada sona eriyor.
+
+[Aksiyon ve Sinematografi]
+Gerçekçi Cumhuriyet dönemi film dokusu, sıcak sarı öğleden sonra yan ışığı; ahşap, porselen ve kumaşın otantik dokuları, ışık huzmelerinde uçuşan tozlar.
+Her yumruk ve tekme, bedendeki etkiyi, geri çekilmeyi veya denge kaybını göstermeden önce mutlaka hedefe temas etmeli; havaya vurulmamalı, darbe almadan düşülmemeli.
+Ana karakterin yumruk teknikleri kısa, isabetli ve temiz olmalı; abartılı gösterişli hareketler yerine güce karşı güç kullanılmalı.
+İki saldırgan sırayla saldırmalı; ana karakteri aynı anda ikisi birden tutmamalı; yere düşenler tekrar dövüşmek için ayağa kalkmamalı.
+Darbe anlarında hafif kamera sarsıntısı olabilir ancak kimin kime vurduğu net bir şekilde anlaşılmalı.
+Üç karakterin konumları ardışık çekimler arasında tutarlı kalmalı; aniden yer değiştirme, nesnelerin içinden geçme veya fazladan el/karakter/silah belirmemeli.
+Tahta sopa masanın altına tekmelendikten sonra orada kalmalı; kimse onu tekrar almamalı.
+Takla, Qinggong (hafiflik yeteneği), duvarda koşma, süper güçler veya kanlı yakın çekimler kesinlikle olmamalı.
+
+[Ses]
+Çay evinin sessiz atmosferinde; kırılan çay kaselerinin, parçalanan bankların, yere düşen sopanın, her yumruk/tekme darbesinin ve devrilen masaların sesleri görüntülerle kusursuz bir şekilde senkronize olmalı; porselen kırılma sesleri tok ve net duyulmalı.
+İlk saniyeden itibaren, büyük davullar ve pipa içeren, gerilimli ve hızlı tempolu Çin tarzı aksiyon müziği başlamalı; son fırlatma anında zirveye ulaşmalı ve aniden kesilerek yalnızca düşen porselen parçalarının yankısını bırakmalı.
+Diyalog, dış ses, altyazı, metin veya filigran kesinlikle olmamalı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122686669090586625/img/hxVE2nE2C7FRg1C_.jpg" width="600" alt="Gerçekçi Cumhuriyet Dönemi Kung Fu Dövüş Sahnesi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13971)**
+
+**Yazar:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Kaynak:** [Link](https://x.com/Adam38363368936/status/2122687390368284951) | **Yayınlandı:** Nov 17, 2026
+
+---
+### Süper Kahraman Canavar Savaşı Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Köprü yakınındaki okyanustan yükselen dev bir canavara doğru uçan iki kahramanı içeren epik bir süper kahraman sinematik videosu oluşturmak için bir istem.
+
+#### 📝 İstem
+
+```
+Destansı, ultra gerçekçi bir 3D süper kahraman sinematik videosu oluştur. Altın rengi gün batımında fütüristik bir şehir; parlayan enerji çekirdeklerine sahip gelişmiş siyah ve mavi yüksek teknolojili zırhlar giyen genç bir süper kahraman çocuk ve yetişkin bir erkek süper kahraman. Her iki kahraman da güçlü mavi ve yeşil jet iticileri kullanarak gökyüzünde uçuyor. Devasa bir asma köprünün altından okyanustan görkemli bir şekilde yükselen dev, gizemli bir canavara doğru yaklaşıyorlar. Canavarın etrafında dev dalgalar kırılırken, parlayan turuncu gözleri ve enerji çatlakları tüm sahneyi aydınlatıyor. İki süper kahraman bu dev yaratıkla birlikte yüzleşmeye hazırlanıyor. Dinamik hava kamera hareketleri, nefes kesen geniş açılı çekimler, gerçekçi su simülasyonu, detaylı fütüristik zırhlar, dramatik ışıklandırma, destansı Hollywood filmi atmosferi, göz alıcı CGI, 4K ultra HD, dikey 9:16 format.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122681631077216257/img/bKBJ4rUx6RnkkBoJ.jpg" width="600" alt="Süper Kahraman Canavar Savaşı Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13970)**
+
+**Yazar:** [Draaven](https://x.com/draavenai) | **Kaynak:** [Link](https://x.com/draavenai/status/2122681662467371212) | **Yayınlandı:** Nov 17, 2026
+
+---
+### Bilim Kurgu Savaş Alanında Savaşçı Ortaya Çıkışı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Patlamadan sonra dumanların arasından gizemli zırhlı bir savaşçının ortaya çıktığı, ultra gerçekçi karanlık bilim kurgu savaş alanı videosu oluşturmak için bir istem.
+
+#### 📝 İstem
+
+```
+Ultra gerçekçi, sinematik, karanlık bilim kurgu savaş alanı videosu oluştur. Fütüristik zırhlı askerlerden oluşan bir ekip, dramatik bulutlu bir gökyüzünün altında uzanan geniş ve çamurlu bir ıssız arazide mevzilenmiş durumda. Uzak arka planda devasa zırhlı araçlar beliriyor. Askerlerin yakın çekim sinematik bir görüntüsüyle başla, ardından savaş alanının geniş açılı bir görünümüne geç ve uzakta duran zırhlı bir aracı kadrajına alan dramatik dairesel bir kamera perspektifiyle devam et. Güçlü bir patlama, uzakta devasa bir toz ve duman bulutu yaratıyor. Aniden sislerin arasından gizemli, koyu zırhlı fantastik bir savaşçı belirerek yoğun ve sinematik bir yüzleşme sahnesi oluşturuyor. Dramatik kamera hareketleri, gerçekçi çevre detayları, atmosferik aydınlatma, epik aksiyon filmi estetiği, son derece detaylı 3D grafikler, 4K kalite, gerçekçi CGI, sinematik ses tasarımı, dikey 9:16 format.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122648053698211840/img/5MqbXboDaKb90Sza.jpg" width="600" alt="Bilim Kurgu Savaş Alanında Savaşçı Ortaya Çıkışı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13969)**
+
+**Yazar:** [Draaven](https://x.com/draavenai) | **Kaynak:** [Link](https://x.com/draavenai/status/2122648114737840216) | **Yayınlandı:** Nov 17, 2026
+
+---
+### İlahi Savaşçı Melek Fantastik Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.5 için özel olarak optimize edilmiş, bir melek savaşçının uyanışını konu alan sinematik fantastik video oluşturmak için detaylı istem.
+
+#### 📝 İstem
+
+```
+Uzun gümüş-beyaz saçları, parlayan altın zırhı, devasa ve görkemli beyaz tüylü kanatları ile efsanevi bir altın kılıca sahip güzel bir kadın melek savaşçıyı konu alan, nefes kesici 15 saniyelik sinematik bir fantastik video oluşturun.
+
+Sahne 1: Mistik mor bir fantastik dünyada yavaşça gözlerini açarken, güzel yüzünün ve parlayan gözlerinin yakın çekimini gösterin.
+
+Sahne 2: Bedenini saran büyülü altın enerjisiyle birlikte, güçlü bir altın kılıcı tutarken gösterin.
+
+Sahne 3: Kamera yumuşak bir şekilde geriye doğru uzaklaşırken devasa melek kanatları genişçe açılsın, gökyüzünü aydınlatan altın rengi bir ışık huzmesi yayılsın ve etrafında büyülü parçacıklar uçuşsun.
+
+Sahne 4: Kılıcıyla kahramanca dururken, güçlü ve ilahi görünümünü yansıtın.
+
+Ultra gerçekçi 3D fantastik animasyon, çarpıcı sinematik aydınlatma, detaylı tüyler, gerçekçi hareketler, epik atmosfer, akıcı kamera geçişleri, 4K kalite, dikey 9:16 format. Karakterin görünümü baştan sona tutarlı olsun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122580336437858304/img/B4PToZUGGErfI0q8.jpg" width="600" alt="İlahi Savaşçı Melek Fantastik Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13953)**
+
+**Yazar:** [Ali](https://x.com/CodesWithAli) | **Kaynak:** [Link](https://x.com/CodesWithAli/status/2122580427013824751) | **Yayınlandı:** Nov 17, 2026
+
+---
 ### Kore Romantik Aksiyon Kısa Filmi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9349,243 +9557,6 @@ Negatif Prompt: Yüz değiştirme, kıyafet değişimi, kesmelerden sonra karakt
 **Yazar:** [单引号](https://x.com/DengYH803) | **Kaynak:** [Link](https://x.com/DengYH803/status/2114557242569867559) | **Yayınlandı:** Oct 26, 2026
 
 ---
-### Dans Eden Antropomorfik Kedi Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gömlek ve pantolon giyen antropomorfik bir kedinin dans ettiği, fotogerçekçi bir video oluşturmak için detaylı istem; anatomik stabiliteye ve ritmik harekete vurgu yapar.
-
-#### 📝 İstem
-
-```
-**SÜRE:** 8 saniye  
-**FORMAT:** Dikey 9:16, sinematik fotogerçekçilik  
-**REFERANS:** Yüklenen kedi görselini ilk kare ve karakter referansı olarak birebir kullanın.
-
-**KARAKTER TUTARLILIĞI:** Aynı turuncu-krem rengi tekir kedi; üzerinde aynı pembe günlük düğmeli gömlek ve bej pantolon olacak. Videonun tamamı boyunca yüzünü, göz şeklini, kulaklarını, tüy desenlerini, vücut oranlarını, kıyafetini ve kuyruğunu orijinal hâliyle koruyun.
-
-**MÜZİK:** Derin ve ritmik bir bas, net perküsyonlar ve şık kulüp beat'leriyle desteklenmiş, havalı, ritmik modern dans-pop enstrümantal parçası. Müzik anında başlar. Dans hareketleri ritimle tam uyumlu olmalıdır.
-
-**DANS KOREOGRAFİSİ:**
-
-**0–2 saniye:** Kedi rahat ve kendinden emin bir duruşla başlar. Kamerayla göz temasını hiç bozmadan yumuşak bir omuz çevirme, hafif bir göğüs izolasyonu ve kontrollü bir sağa-sola kalça hareketi yapar.
-
-**2–4 saniye:** Kedi temiz ve şık ayak hareketleri sergiler; sağa ve sola adım atarken kollarını gövdesinin önünde ritmik biçimde hareket ettirir. Doğal bilek hareketleri, rahat dirsekler ve kontrollü üst vücut groove'ları.
-
-**4–6 saniye:** Kedi akıcı bir body wave (dalga hareketi), kendinden emin bir two-step adımı ve koordineli kol savurmaları gerçekleştirir. Gövdesi ve kalçaları, fiziksel olarak tutarlı ve insana benzer bir dans tarzında birbirinden bağımsız hareket eder.
-
-**6–8 saniye:** Kedi ritimle tam eşleşen iki keskin adım atar, yumuşak bir shoulder pop (omuz vuruşu) yapar ve kameraya dönük havalı, kendinden emin bir pozla bitirir.
-
-**KRİTİK BAŞ VE BOYUN KONTROLÜ:** Kedinin başı anatomik olarak sabit kalmalı ve boynuna doğal bir şekilde bağlı olmalıdır. Yalnızca ince, gerçekçi baş eğmeleri ve ritimle senkronize küçük hareketlere izin verilir. Baş ASLA 360 derece dönmemeli, geriye doğru katlanmamalı, doğal olmayan şekilde bükülmemeli, gövdeden kopmamalı veya vücudundan bağımsız olarak dönmemelidir. Gözler, kulaklar, burun bölgesi ve yüz yapısı her karede tutarlı olmalıdır.
-
-**GERÇEKÇİLİK KİLİDİ:** Doğal ağırlık aktarımı, yere sağlam basan ayaklar, inandırıcı denge, dans hareketleri arasında pürüzsüz geçişler, gerçekçi tüy ve kumaş fiziği, tutarlı gölgeler, kesintisiz hareket ve stabil anatomi. Ani kamera hareketleri olmadan, sabit bir tam boy çekim kamerasıyla tek ve kesintisiz bir plan.
-
-**NEGATİF KISITLAMALAR:** Çizgi film tarzı hareket yok, çocuksu dans yok, abartılı yüz ifadeleri yok, lastik gibi uzuvlar yok, doğal olmayan omurga bükülmeleri yok, boyun burkulmaları yok, baş dönmesi yok, fazladan uzuv yok, yüz deformasyonu yok, kıyafet değişikliği yok, havada süzülme yok, titreme/flickering yok, ani poz sıçramaları yok, yapay görünen hareket yok.
-
-**NİHAİ SONUÇ:** Aynı fotogerçekçi antropomorfik kedi tarafından sergilenen; akıcı koreografi, doğal baş hareketleri ve inandırıcı fiziksel hareketlerle zenginleştirilmiş, şık, kendinden emin ve yetişkinlere yönelik bir dans performansı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114406485530972160/img/3zdH9KBkn5jnuVy0.jpg" width="600" alt="Dans Eden Antropomorfik Kedi Videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13047)**
-
-**Yazar:** [M. Asif](https://x.com/meAsifAi) | **Kaynak:** [Link](https://x.com/meAsifAi/status/2114406947558764575) | **Yayınlandı:** Oct 25, 2026
-
----
-### Sera Nyx Kanyon Uçuşu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sera Nyx, uçan bir yaratık ve kanyon sarkacı sahnesini içeren bir istem açıklaması.
-
-#### 📝 İstem
-
-```
-Yine Sera Nyx, ama bu sefer yaratığı uçuyor. Bir kanyon, taş bir köprünün üzerinde tele asılı bir salıncak, harabeler ve sonunda ikisi yan yana.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2114387121637113856/pu/img/MKXPTBojpRRF8Run.jpg" width="600" alt="Sera Nyx Kanyon Uçuşu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13045)**
-
-**Yazar:** [MxCaptures | AI VFX & Cinematic AI Artist](https://x.com/MxCaptures) | **Kaynak:** [Link](https://x.com/MxCaptures/status/2114387454757134521) | **Yayınlandı:** Oct 25, 2026
-
----
-### Seedance 2.0 Antik Saray Girişi Sinematik Sekansı
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Antik Çin sarayı ortamında dramatik bir giriş sahnesi oluşturmak için sinematik bir prompt. Sabit kimliklere sahip birden fazla karakter, hassas mekansal ilişkiler ve kamera hareketleriyle güç hiyerarşisinin kademeli olarak ortaya çıkarılması.
-
-#### 📝 İstem
-
-```
-Doğu antik kostümlü, fotogerçekçi sinema kalitesi; gece yarısı görkemli salon, soğuk ton; otantik cilt/saç/kumaş/metal dokuları; düşük doygunluklu karanlık palet, güçlü chiaroscuro (ışık-gölge kontrastı); gerilim dolu entrika, bunaltıcı atmosfer; CG/plastik estetik kesinlikle yasak; yalnızca ortam sesi: yankılanan ayak sesleri, hışırtılı giysiler, hafif mum çıtırtıları
-[Karakter Kilidi] Kadın Başrol A: Görsel 1; Yardımcı Karakter B: Görsel 2; Yardımcı Karakter C: Görsel 3
-[Obje Kilidi] Tek uzun kılıç (başlangıçta B'nin elinde, daha sonra A'ya geçer ve omzuna dayalı durur)
-[Sahne Kilidi] Gece yarısı kraliyet meclis odası: taş zemin, sütunlar, uzun pencereler, şamdanlar, fenerler, ortada yükseltilmiş taht koltuğu
-[Mekânsal İlişkiler] C salonun orta sağında durur; B ön planda çömelmiştir, başlangıçta tamamen odak dışıdır; A derin merkezdeki tahttadır, ilk üç çekimde görünmez
-[Mekânsal Mantık] Güç hiyerarşisi, mekânı katman katman genişleten yatay geri-ve-yukarı dolly hareketiyle yakından uzağa doğru aşamalı olarak ortaya çıkar—önce C (salonun ortası), ardından B (ön plan pusu), son olarak merkezi ele geçiren A; katı odak sırası: C→B→A→geniş açı
-[Işık Atmosferi] Uzun pencerelerden süzülen soğuk ay ışığı, sıcak mum vurguları; genel olarak soğuk, düşük doygunluklu, yüksek kontrastlı aydınlatma
-
-[Hikâye Panosu]
-[Çekim 01][Süre] 0–3s [Kadraj] Orta plan başlangıç [Hareket] Akıcı başlangıç, ardından sola doğru yavaş yay pan [İçerik] Salonun içinde C açılı durur, başı eğik, düşünceli; aniden gözlerini kaldırır, kibirli, doğrudan, küçümseyici ve mesafeli bir bakış atar; ön plan odak dışı bölge için ayrılmıştır (B'nin konumu), C'de sabit odak, net derinlik ayrımı [Süreklilik Kilidi] Açılış: C belirir; B sadece bulanık, yüzü seçilmeyen bir gölgedir
-
-[Çekim 02][Süre] 3–5s [Kadraj] Aşırı yakın plan, yüz kadrajı doldurur [Hareket] Sola devam eden hızlı ön plan rack-focus (odak kaydırma) [İçerik] Daha önce odak dışı olan ön plandaki B aniden başını çevirir, alt açıyla yüzü kadrajı dolduran aşırı yakın plan, soğuk ve küçümseyici bakışı kameraya kilitlenir; arka plandaki C tamamen bokeh, yoğun mekânsal gerilim [Süreklilik Kilidi] Odak kaydırma geçişi: odak C'den B'ye geçer; B pusudaki operatif, ana karakter değil
-
-[Çekim 03][Süre] 5–7s [Kadraj] Orta plan [Hareket] Hızlı geri çekilme, sürekli hafif yatay sarsıntı [İçerik] Kamera geri çekilirken B'nin yüzü yana kayarak küçülür ve orta plana dönüşür, B kılıca hazır şekilde ayağa kalkar; A soldan ani adımlarla girerek kadrajı domine eder, B'nin yanından uzanıp uzun kılıcı alır, omzuna dayayarak kaldırır, küçümseyici bir sırıtışla kameraya yukarıdan bakar; final odağı A'nın önden yüzüne kilitlenir [Süreklilik Kilidi] Gücü ele geçirme tamamlandı: kılıç A'ya geçer, kadraj hakimiyeti sağlanır; B arka plana itilir
-
-[Çekim 04][Süre] 7–10s [Kadraj] Görkemli geniş açı kapanış [Hareket] Çapraz geri çekilme, kesintisiz yükseliş [İçerik] Kamera sürekli çapraz ve yükselerek geri çekilir, mekânı aşamalı biçimde genişletir; tam geri çekilme donmuş bir güç tablosunu oluşturur: soğuk ay ışıklı pencereler, titreyen mumlar, keskin kontrast, düşük doygunluklu karanlık, maksimum baskı hissi [Süreklilik Kilidi] Çözümleme: gerçek otorite en son ortaya çıkar; üçlü güç yapısı kristalleşir
-
-[Negatif Kısıtlamalar] Kesinlikle arka plan müziği/altyazı yok; gereksiz metin/filigran/modern unsurlar yok (takım elbise/gözlük/araba/beyzbol topu yok); karakter çoğalması/anatomik hatalar/kimlik kayması/A'nın yüzünün B veya C'ye dönüşmesi/odak sırası ihlalleri/kılıcın kaybolması/ağır çekim sürüklenmesi yok; A/B/C boyunca sabit konumlarını korur
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114347927615533056/img/LKCLXLhtlEtIrKN_.jpg" width="600" alt="Seedance 2.0 Antik Saray Girişi Sinematik Sekansı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13049)**
-
-**Yazar:** [灰度笔记](https://x.com/GrayNoteLab) | **Kaynak:** [Link](https://x.com/GrayNoteLab/status/2114348037862719796) | **Yayınlandı:** Oct 25, 2026
-
----
-### Seedance 2.5 DV Ev Videosu İstemi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Sıcak bir yaz öğleden sonra yatak odasında genç bir Doğu Asyalı kadını gösteren, gerçekçi bir erken 2000'ler DV ev videosu oluşturmak için son derece detaylı bir istem. Karakter tutarlılığı, eylem zaman çizelgesi, kamera stabilitesi ve ses ortamı için özel talimatlar içerir.
-
-#### 📝 İstem
-
-```
-Görsel 1, videonun ilk karesidir; sahne Görsel 1'den başlar. Sahne tasarımı, kompozisyon, ışıklandırma, kıyafetler, aksesuarlar ve bunların konumları tamamen Görsel 1'e dayanır.
-Görsel 2 karakter referansıdır; yalnızca kişinin yüzünü, yüz oranlarını, yüz şeklini ve saç rengini sabitlemek için kullanılır. Görsel 2'deki gri arka planı, kıyafeti veya üç farklı açıdan gösterim düzenini kullanmayın.
-
-2000'lerin başına ait, hiper gerçekçi bir ev tipi DV kaydı hissi veren 30 saniyelik bir video oluşturun. Videoda genç bir Doğu Asyalı kadın, eski bir apartman dairesinin yatak odasında bunaltıcı bir yaz öğleden sonrasını geçirmektedir. Tamamen gözlemci bir bakış açısı; diyalog yok, hikâye örgüsü yok, sadece günlük hayatın doğal akışı var.
-
-Karakter
-Yüz hatları Görsel 2 ile eşleşir; kıyafet ve saç modeli Görsel 1 ile aynıdır: makyajsız, tepede gevşek bir topuz, açık mavi bol tişört, beyaz pamuklu şort, çıplak ayak. Yüz, kıyafet, saç modeli ve vücut yapısı video boyunca tutarlı kalmalıdır.
-
-Hareket Zaman Çizelgesi (her hareket yalnızca bir kez yapılır, tekrar edilmez)
-00:00–00:06 — Yastığa yarım yaslanmış şekilde uzanır, sağ elindeki Görsel 1'de yer alan yelpazeyle kendini yavaşça serinletir, boş gözlerle tavana bakar ve ara sıra göz kırpar.
-00:06–00:11 — Yelpazeyi bırakır, onu yanındaki bambu hasırın üzerine koyar, ellerinden destek alarak yatakta oturur pozisyona geçer ve taburenin üzerindeki vantilatöre doğru döner.
-00:11–00:16 — Tabureden gazoz şişesini alır, pipetle bir yudum içer ve şişeyi tekrar eski yerine koyar.
-00:16–00:22 — Vantilatörün önüne doğru eğilir, ağzını açar ve pervanelere doğru uzun bir "Ahh—" sesi çıkarır; ses dönen kanatlarda titrerken rüzgâr dağınık saç tellerini savurur. Yüz ile kanatlar arasında güvenli bir mesafe bırakılmalı, vantilatöre kesinlikle dokunulmamalıdır.
-00:22–00:26 — Kendi haline güler, utangaç bir gülümsemeyle kısa bir an kameraya bakar, hiçbir şey söylemez.
-00:26–00:30 — Geriye doğru yastığın üzerine düşer, yüzünü yelpazeyle kapatır ve hareketsiz kalır. Vantilatör dönmeye devam eder, ardından görüntü kararır.
-
-Tutarlılık
-Vantilatör, gazoz şişesi ve taburenin konumları sabit kalır; hiçbir nesne kendiliğinden belirip kaybolmaz. Kadrajda yalnızca bir yelpaze ve bir gazoz şişesi bulunur; yelpazenin tarzı Görsel 1 ile birebir aynıdır. Vantilatörün yönü sabittir, sağa sola dönmez; kanat şekli değişmez. Bambu perdeden süzülen ışık/gölge çizgileri sabit kalır. Hareketler telaşsız, gerçek zamanlı bir tempoda ilerler.
-
-Sinematografi ve Kalite
-Kamera açısı sabittir ve Görsel 1 ile eşleşir; video boyunca hiçbir kamera hareketi, yakınlaştırma veya kaydırma yapılmaz. Işık kaynağı yalnızca bambu perdelerden süzülen doğal öğleden sonra ışığıdır, hafif aşırı pozlanmıştır. DV gürültüsü, hafif renk kayması, vignette (köşe kararması) ve ara sıra görülen otomatik odaklama dalgalanması (breathing) efektleri bulunur. Sağ alt köşedeki turuncu tarih damgası "2003 08 02" video boyunca sabit kalır.
-
-Ses
-Ortam sesleri baskındır: vantilatörün uğultusu, yelpazelenmenin yumuşak hışırtısı, pencerenin dışındaki cırcır böcekleri, uzaktan gelen bisiklet zili sesi, ağırlık altında bambu hasırın gıcırtısı ve pipetle gazoz içme sesi. Duyulan tek insan sesleri, vantilatöre yöneltilen titrek "Ahh—" sesi ve hafif bir kahkahadır. Arka plan müziği yoktur.
-
-Yasaklar
-Altyazı yok, film müziği yok, ağır çekim yok, sinematik renk düzenlemesi yok, kamera hareketi yok, sığ alan derinliği yok, gri stüdyo arka planı yok, metin veya marka logosu yok (tarih damgası hariç). 30s, 720p
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114326843423858688/img/d8LQ-l3HkxbHuPZH.jpg" width="600" alt="Seedance 2.5 DV Ev Videosu İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13128)**
-
-**Yazar:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Kaynak:** [Link](https://x.com/Adam38363368936/status/2114328135420293145) | **Yayınlandı:** Oct 25, 2026
-
----
-### Seedance 2.0 Antik Yatak Odası Komedi Sahnesi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Antik Çin yatak odasında geçen, üç karakter ve bir kedi arasındaki diyalog odaklı aksiyonu içeren mizahi bir anlatı istemi. Sıcak mum ışığı tonlarını ve kapalı ev ortamında komedi zamanlamasını kullanır.
-
-#### 📝 İstem
-
-```
-Metinden videoya promptu: Doğu antik kostümlü, fotogerçekçi sinema kalitesi; boudoir mum ışığı sıcak ton; otantik cilt/saç/kumaç/oyma ahşap dokuları; film sınıfı renk düzenleme; hafif komedi; CG/plastik estetik yasak
-[Karakter Kilidi] Kadın Başrol A: Görsel 1; Erkek Başrol B (Zhao Mingcheng): Görsel 2; Yardımcı Karakter C (Kız Kardeş): Görsel 3; Turuncu Tekir Kedi
-[Temel Kurulum] C dolabın içine saklanmış
-[Sahne Kilidi] Antik tarz boudoir: oyma ahşap yatak, bronz aynalı makyaj masası, şamdanlar, fenerler, büyük oyma gardırop
-[Mekânsal İlişkiler] A yatağın önünde duruyor; B yatağın kenarına çökmüş oturuyor; gardırop karşı tarafta; C gardırobun içinde
-[Mekânsal Mantık] Tek mekân; A'nın yolu: yatak önü→gardıroba doğru dönme→kapıyı açma; kedi asla B'nin omzundan ayrılmıyor
-[Işık Atmosferi] Sıcak mum ışığı, yumuşak yüz aydınlatması
-
-[Storyboard]
-[Çekim 01][Süre] 0–3,5 sn [Kadraj] Orta plan [Hareket] Sabit [İçerik] A dikilerek aşağıya doğru azarlıyor; B başı önde yatak kenarında oturuyor [Diyalog] A(~0,5–2 sn): "Evlenirken 100 bin tael başlık parası istedim"; A(~2–3,5 sn): "Bunun 90 binini kız kardeşim sana ödünç verdi" aynı anda turuncu kedi patisiyle B'nin kafasına vuruyor [Süreklilik Kilidi] Açılış: A baskın şekilde azarlıyor;
-
-[Çekim 02][Süre] 3,5–7 sn [Kadraj] Orta plan [Hareket] Sabit [İçerik] A daha da sinirlenip B'yi parmağıyla işaret ediyor; B'nin başı daha da eğiliyor, kedi omuzda sabit [Diyalog] A(~3,5–5 sn): "Şimdi memuriyet görevini de ben ayarladım"; A(~6–7 sn): "Zhao Mingcheng nankörün teki, değil mi?" [Süreklilik Kilidi] A kız kardeşinin iyiliklerini sayıp döküyor; B sessizce savunmasız
-
-[Çekim 03][Süre] 7–8,5 sn [Kadraj] Yakın çekim [Hareket] Sabit [İçerik] B başını eğmiş mırıldanarak özür diliyor, kedi ifadesizce ileriye bakıyor [Diyalog] B suçlulukla (~7,5–8,3 sn): "Xiaowan, haksızlık ettim" [Süreklilik Kilidi] B teslim oluyor; ekstra diyalog yok
-
-[Çekim 04][Süre] 8,5–12,5 sn [Kadraj] Orta plan [Hareket] Yatay takip [İçerik] A dönüp gardıroba doğru adımlıyor, yol boyunca sövüyor, kapıda durup kulpuna uzanıyor [Diyalog] A(~9–11 sn): "Ben yokken kız kardeşim ziyarete geliyor, sen de onu dolaba mı kapatıyorsun?"; A(~12 sn): "Sen hâlâ insan mısın?" [Süreklilik Kilidi] Gardıroba yaklaşma = sırrın ortaya çıkması için geri sayım; B yatak kenarında donmuş gibi
-
-[Çekim 05][Süre] 12,5–15 sn [Kadraj] Orta plan [Hareket] Sabit [İçerik] A gardırobun kapısını ardına kadar açıyor: C içeride ayakta, mahcup bir şekilde el sallayıp gülümseyerek "Selam~" diyor; dondurulmuş kare [Süreklilik Kilidi] Çözüm
-
-[Negatif Kısıtlamalar] Kesinlikle arka plan müziği yok; gereksiz metin/filigran/karakter çoğaltması/anatomik hatalar/modern unsurlar (elektrikli lamba yok/modern mobilya yok)/kimlik kayması/A yüzünün B veya C'ye dönüşmesi/kedinin B'nin omzundan ayrılması/kedi deseninde bozulma/diyalog karışmaları/ağır çekim sürüklenmesi yok
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114281752583897088/img/f5RxqlYYYQlBpeLf.jpg" width="600" alt="Seedance 2.0 Antik Yatak Odası Komedi Sahnesi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13050)**
-
-**Yazar:** [灰度笔记](https://x.com/GrayNoteLab) | **Kaynak:** [Link](https://x.com/GrayNoteLab/status/2114281882687066484) | **Yayınlandı:** Oct 25, 2026
-
----
-### Okul Koridoru Kaos Dondurması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sakin bir kadının arkasındaki kaotik kavgayı yavaş çekimde dondurduğu sinematik bir okul koridoru sahnesi için prompt.
-
-#### 📝 İstem
-
-```
-Modern bir okul koridorunda geçen sinematik, ultra gerçekçi 4K bir video oluşturun. Kahverengi saçlarını dağınık bir topuz yapmış, krem rengi boğazlı kazak ve kablolu kulaklık takan genç bir kadın, arkasında maskeli insanlar ağır çekimde kavga ederken koridorda sakin adımlarla ilerler. Havada kağıtlar, sıralar ve kırmızı gazoz kutuları uçuşurken kadın bir elini kaldırır ve gizemli bir şekilde etrafındaki her şeyi dondurur. Kaos bir anda dururken o tamamen sakin ve duygusuz kalır. Sıcak sinematik aydınlatma, gerçekçi yüz ifadeleri, detaylı saç hareketleri, sığ alan derinliği, yumuşak kamera yaklaşımı (push-in), dramatik ağır çekim, doğal fizik kuralları, film kalitesinde renk düzenlemesi, 16:9 geniş ekran, 15 saniye, diyalog yok, metin yok, filigran yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114222867823124480/img/Dh_-novuM4GOJWVn.jpg" width="600" alt="Okul Koridoru Kaos Dondurması">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13003)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2114222906867888426) | **Yayınlandı:** Oct 25, 2026
-
----
-### Seedance 2.0 Cadılar Bayramı Hogwarts Karanlık Büyü Dönüşüm Video İstemi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Cadılar Bayramı ve Hogwarts estetiğini harmanlayan karanlık büyü kostüm dönüşümü temalı, 15 saniyelik sinematik dikey kısa video oluşturmak için Seedance 2.0'a yönelik son derece detaylı bir video üretim istemi. İstem; karakter tutarlılığı, müzik ritimleriyle senkronize kıyafet değişiklikleri, kamera hareketleri ve referans görseller kullanılarak uygulanan özel görsel efektler gibi unsurları belirtir.
-
-#### 📝 İstem
-
-```
-15 saniye, 9:16 dikey ekran, canlı çekim sinematik Cadılar Bayramı x Hogwarts kara büyü kostüm değişimi kısa filmi. @Image1 karakter ana şablonudur; ardından sırasıyla @Image2 Kırmızı Altın, @Image3 Zümrüt Yeşili, @Image4 Mavi Gümüş, @Image5 Siyah Altın ve @Image6 Siyah Gümüş Kraliçe görünür. Başından sonuna kadar aynı yetişkin güzel; uzun siyah kıvırcık saçlar, şarap kırmızısı dudaklar, siyah dantel göz bandı maskesi asla çıkarılmaz, video boyunca yüz değiştirme yapılmaz. Referans görseller yalnızca kostüm ve karakter tasarımı içindir; durağan görseller basitçe yan yana dizilmemelidir.
-
-Müzik: 160 BPM karanlık senfonik Phonk, Gotik çan girişi, güçlü davullar. 1,5/4,5/7,5/9,75/12. saniyelerde vuruş başlarında anında kostüm değişimleri, 12. saniyede maksimum Drop; dönüşümlerde 0,2 saniyelik karartma flaşı kullanılır, ses-görüntü tam senkronize olmalıdır.
-
-0–1,5 sn: @Image1'in göz maskesi ve kırmızı dudaklarının aşırı yakın çekimi, parmak uçları maskeye dokunur, kamera hızla geri çekilir; turuncu dolunay, yarasalar, kale ve balkabağı fenerleri belirir, balkabakları ekranı kaplayan kırmızı-altın alevler püskürtür.
-
-1,5–4,5 sn: Alevler dağılarak @Image2'ye dönüşür, alt açıdan geniş ön takip çekimi; güzel kararlı adımlarla ilerler ve kırmızı-altın pelerini şiddetle sağa savurur, arkasında kükreyen bir alev aslanı vardır; pelerin lensin üzerinden geçerek yeşil dumana dönüşür.
-
-4,5–7,5 sn: Duman çekilerek @Image3'e dönüşür, kamera 45 derecelik arka-yan açıya döner, güzel asasını kaldırarak arkasına bakar; iksir kazanı patlar, dev zümrüt yılan taş sütunun etrafına dolanır, yılan gölgesi lensin üzerinden geçerek mavi bir hayalet haline gelir.
-
-7,5–9,75 sn: @Image4'e geçiş, üst açıdan eğik tepe saat yönünde dairesel çekim; kollarını iki yana açarak döner, mavi-gümüş eteği kabarır; hayaletler ve yıldız ışığı dans eder, kartal kanatları lensin üzerinden geçerek altın sarısı yapraklara dönüşür.
-
-9,75–12 sn: @Image5'e geçiş, yandan kaydırmalı takip çekimi; asasını sallayarak yürür, siyah bir kedi yanından geçer, balkabağı sarmaşıkları çılgınca büyür, balkabağı fenerleri tek tek yükselir; dev bir balkabağı lense çarpar, ışıklar aniden söner, siyah karartma.
-
-12–14,3 sn: Maksimum Drop ile çakan şimşek karanlığı yarar ve @Image6'ya geçilir; ultra alt açıdan hızlı geri çekilme, kraliçe havada süzülür, taç başına iner, devasa siyah kanatlar aniden açılır, dolunay kan rengine bürünür, yarasalar uçuşur, balkabakları gümüş-beyaz ateşle yanar.
-
-14,3–15 sn: Asasını şiddetle lense doğrultur, gümüş büyü patlaması ve siyah tüyler ekranı kaplar; açılıştaki göz maskesiyle bütünleşerek kusursuz bir döngü oluşturur.
-
-Gereksinimler: Her seferinde önce tam karartma yapılmalı, ardından anında kostüm değişimi gerçekleşmelidir. Hareket kesintisiz olmalı; çekim ölçekleri ve kamera açıları çeşitlenmeli, kostümler net görünmeli, kumaş ve saç hareketleri gerçekçi olmalıdır. Yoğun bir Cadılar Bayramı atmosferi yaratılmalı ancak karakter her zaman görsel odak noktası olarak kalmalıdır. Yavaşça eriyen kıyafetler, yüz kayması, uzuv bozulmaları, ucuz efektler, altyazılar ve filigranlar kesinlikle yasaktır.
-```
-
-<img src="https://cms-assets.youmind.com/media/1792907864427_qpq5sj_HVaRqRyWUAADs0j.jpg" width="600" alt="Seedance 2.0 Cadılar Bayramı Hogwarts Karanlık Büyü Dönüşüm Video İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13004)**
-
-**Yazar:** [麻酱AI实验室](https://x.com/zhongying14) | **Kaynak:** [Link](https://x.com/zhongying14/status/2114038007435055604) | **Yayınlandı:** Oct 24, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -9647,6 +9618,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-17T23:45:29.528Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-18T06:25:48.012Z</sub>
 
 </div>

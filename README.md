@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6689** |
+| 📝 Total Prompts | **6696** |
 | ⭐ Featured Prompts | **6** |
-| 🔄 Last Updated | **2026-11-17** |
+| 🔄 Last Updated | **2026-11-18** |
 
 ---
 
@@ -365,6 +365,214 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Elephant and Mouse Friendship Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for creating a heartwarming 3D animated scene of a baby elephant and a tiny mouse interacting playfully on an African savanna cliff during golden hour.
+
+#### 📝 Prompt
+
+```
+A heartwarming and funny cinematic 3D animated scene of a giant baby elephant and a tiny adorable mouse standing on a narrow grassy cliff edge in the African savanna during golden hour. The elephant looks curiously at the little mouse while the mouse waves its tiny hands and acts scared. The elephant gently uses its trunk to pick up a small bunch of grass and interacts playfully with the mouse. Suddenly, the mouse gets lifted by the elephant's trunk and lands safely on the elephant's head. The mouse happily sits on top while the elephant walks forward peacefully. Beautiful orange sunset, dramatic canyon landscape, realistic grass, floating dust particles, expressive cute characters, detailed elephant skin, Pixar-quality 3D animation, cinematic camera movements, smooth character animation, emotional storytelling, warm lighting, ultra-detailed textures, 4K quality, vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122919367876947968/img/rDAY25UmiYjVVxIg.jpg" width="600" alt="Elephant and Mouse Friendship Animation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13968)**
+
+**Author:** [Zarnish](https://x.com/ZarnishNael) | **Source:** [Link](https://x.com/ZarnishNael/status/2122919421635121290) | **Published:** Nov 18, 2026
+
+---
+### Epic Titan vs Monkey Warrior Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating an ultra-realistic 3D fantasy action movie scene featuring a giant purple titan battling a legendary monkey warrior in an ancient Chinese temple setting.
+
+#### 📝 Prompt
+
+```
+Create an epic ultra-realistic 3D fantasy action movie set in an ancient Chinese temple floating among dark stormy mountains. A giant muscular purple titan wearing golden armor and a powerful golden gauntlet faces a legendary monkey warrior dressed in traditional red and golden battle armor, holding a magical golden staff. The two warriors stand face to face before an intense battle begins. The monkey warrior spins his glowing golden staff, creating powerful golden energy waves. The purple titan unleashes mysterious purple lightning energy. Both warriors clash in an explosive magical battle, destroying the ancient stone platform as rocks fly through the air. Dramatic close-up shots, powerful fight choreography, cinematic slow motion, realistic facial expressions, spectacular magical visual effects, volumetric lighting, detailed 3D animation, Hollywood fantasy movie quality, 4K resolution, vertical 9:16 format.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122907294447120384/img/VG3SQI1ZwTjrphlk.jpg" width="600" alt="Epic Titan vs Monkey Warrior Battle">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13967)**
+
+**Author:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2122907719191470174) | **Published:** Nov 18, 2026
+
+---
+### Seedance 2.0 Fast martial arts action prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Detailed prompts for generating realistic martial arts action scenes in a hotel lobby using Seedance 2.0 Fast.
+
+#### 📝 Prompt
+
+```
+Extreme martial arts action in a luxury hotel lobby at night. Image 1 is the protagonist. He leaps forward performing a powerful double flying kick, then quickly spins with a back kick slamming the attacker into the reception counter. Then executes a 360-degree tornado kick against two enemies. He delivers an aerial side kick to a marble pillar, a jump-down kick to a giant attacker, finishing with a jump knee and high side kick. Dynamic handheld cinematic tracking, low-angle shots, 360-degree rotation. Realistic physics, crystal chandeliers, marble floor. Audio: impactful kicks, hits, lobby ambiance. No music. Ultra-real Hollywood cinematography.
+
+[Camera] Aggressive cinematic camera movement in FPV drone style. Camera rapidly orbits around the fighter. Alternating clockwise and counter-clockwise rotations, sudden whip pans, low altitude passes, close flybys and rapid pull-backs. Camera does not remain locked in center of fighter. Allow brief loss of subject during extreme movements, actively reacquiring action from new angles. Use dynamic Dutch angles, change camera altitude. Sync camera acceleration/deceleration with sword clashes, dodges, explosive attacks. Model Seedance 2.0 Fast. Length 15 seconds. Aspect ratio 4:3. Resolution 720p.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122817466569302016/img/bIUSGjdAxnbEH4i2.jpg" width="600" alt="Seedance 2.0 Fast martial arts action prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13972)**
+
+**Author:** [テト@おっさんの異世界転生 Uncle in ISEKAI](https://x.com/ojisan__isekai) | **Source:** [Link](https://x.com/ojisan__isekai/status/2122817715413139606) | **Published:** Nov 17, 2026
+
+---
+### Realistic Republic-era Kung Fu fight scene
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A highly detailed prompt for generating a 15-second realistic cinematic kung fu action short film set in the Republic of China era. It specifies character designs, choreography (Wing Chun style), camera movements, lighting, sound effects, and strict consistency rules for a fight between one protagonist and two attackers in an old teahouse.
+
+#### 📝 Prompt
+
+```
+Generate a 15-second, 16:9 horizontal, realistic cinematic Republic-era Kung Fu action short film, generated directly from text.
+
+[Core Requirements]
+High-density, fast-paced, continuous close-quarters combat, like the most intense fight scene in top-tier Kung Fu movies, with 4 rounds of exchanges and 10 shots.
+The first frame is already mid-combat; no intro, walking, standoff, or posing.
+No slow motion throughout; all actions are at real-time speed.
+Each shot is about 1-2 seconds, completing only one clear offense/defense exchange, showing the result after impact.
+Actions connect tightly between shots; the result of the previous action is the start of the next, with no pauses.
+The protagonist fights two opponents; the two attackers take turns attacking, with only one actively striking at a time. The protagonist is suppressed in the first half, fights harder in the second half, and ends the battle with a final strike.
+
+[Characters]
+Protagonist: An East Asian male around 30 years old, short hair slicked back, handsome and calm face. Wearing a dark grey changshan (long shirt) and black cloth shoes. He has no weapons and uses clean, sharp traditional Chinese close-range fist techniques.
+Attacker A: A tall, burly adult male, bald, wearing a black short-jacket front-opening top and black trousers, holding a wooden stick in his right hand.
+Attacker B: A lean adult male, with a figure-eight mustache, wearing a dark blue short-jacket top and grey trousers, unarmed.
+Only these three characters appear in the entire film; their appearance, clothing, and weapons remain consistent throughout. The clothing colors of the two attackers are clearly distinguished.
+
+[Scene]
+The second-floor main hall of an old teahouse from the Republic era, currently empty. Warm yellow afternoon sunlight streams diagonally through wooden lattice windows, with fine dust particles in the air. The hall contains several square wooden tables and long wooden benches, with teapots and tea bowls on the tables.
+The entire film takes place in this same hall; the positions of the tables, benches, and the three characters remain coherent throughout.
+
+[Shot List]
+
+Round 1: Suppressed
+
+Shot 1 (0–1.5s): Side medium shot. Attacker A swings the wooden stick horizontally; the protagonist leans back to dodge; the stick hits the table, causing teapots and tea bowls to fall and shatter.
+
+Shot 2 (1.5–3s): Handheld tracking shot. Attacker B rushes in from the side, punching the protagonist's shoulder; the protagonist crashes into the table behind him, sliding it away.
+
+Round 2: Seizing the Stick
+
+Shot 3 (3–4.5s): Medium shot. Attacker A raises the stick to smash down on the protagonist's head; the protagonist sidesteps; the stick hits a bench, breaking it in two.
+
+Shot 4 (4.5–6s): Close-up. The protagonist grabs Attacker A's wrist holding the stick with one hand and chops his elbow with the other palm; the stick falls to the ground; the protagonist kicks the stick under the table.
+
+Round 3: Attack Attacker B First
+
+Shot 5 (6–7.5s): Medium shot. Attacker B throws a punch; the protagonist blocks with his arm and delivers two quick straight punches to his chest; Attacker B retreats.
+
+Shot 6 (7.5–9s): Medium shot. The protagonist delivers a side kick to Attacker B's abdomen; Attacker B falls backward, knocking over a bench, and lies on the ground unable to get up.
+
+Round 4: Duel with Attacker A
+
+Shot 7 (9–10.5s): Medium shot. Attacker A lunges from behind, punching the protagonist's back; the protagonist stumbles forward, steadies himself by holding the table edge, his changshan hem swinging.
+
+Shot 8 (10.5–12s): Close-up tracking shot. The protagonist turns, blocks Attacker A's second punch, and delivers three short, crisp Wing Chun strikes to his chest and abdomen; Attacker A retreats repeatedly.
+
+Shot 9 (12–13.5s): Slightly wider medium shot. The protagonist grabs Attacker A's arm, uses his momentum to twist and throw him over a table; Attacker A falls with the table, tea bowls shattering, unable to get up.
+
+Shot 10 (13.5–15s): Close-up of the protagonist's face, sunlight from the window outlining his profile. He slowly adjusts his sleeve cuffs, breathing stabilizes, looking calmly at the fallen attackers. The scene ends directly.
+
+[Action & Cinematography]
+Realistic Republic-era film texture, warm yellow afternoon side lighting, authentic textures of wood, porcelain, and fabric, dust floating in light beams.
+Every punch and kick must make contact with the target before showing body impact, retreat, or imbalance; no hitting air, no falling without being hit.
+The protagonist's boxing is short, precise, and clean, using force against force, not exaggerated flashy moves.
+The two attackers take turns; they do not grapple the protagonist simultaneously; those knocked down do not get up to rejoin the fight.
+Slight camera shake is allowed at impact moments, but it must be clear who hit whom.
+Positions of the three characters remain consistent between adjacent shots; no teleportation, clipping, or extra hands/characters/weapons.
+The wooden stick remains under the table after being kicked there; no one picks it up again.
+No flips, Qinggong (lightness skill), wall-running, superpowers, or bloody close-ups.
+
+[Sound]
+In the quiet atmosphere of the teahouse, sounds of shattering tea bowls, breaking benches, the stick landing, each punch/kick impact, and table overturning are accurately synchronized with the visuals; porcelain breaking sounds are crisp.
+From the first second, tense, fast-paced Chinese-style action music begins, incorporating large drums and pipa, reaching peak intensity at the final throw, ending abruptly leaving the echo of falling porcelain shards.
+No dialogue, no narration, no subtitles, no text, no watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122686669090586625/img/hxVE2nE2C7FRg1C_.jpg" width="600" alt="Realistic Republic-era Kung Fu fight scene">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13971)**
+
+**Author:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2122687390368284951) | **Published:** Nov 17, 2026
+
+---
+### Superhero Monster Battle Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for creating an epic superhero cinematic video featuring two heroes flying towards a giant monster emerging from the ocean near a bridge.
+
+#### 📝 Prompt
+
+```
+Create an epic ultra-realistic 3D superhero cinematic video. A futuristic city at golden sunset, featuring a young superhero boy and an adult male superhero wearing advanced black and blue high-tech armor with glowing energy cores. Both heroes fly through the sky using powerful blue and green jet boosters. They approach a giant mysterious monster emerging dramatically from the ocean beneath a massive suspension bridge. Huge waves crash around the monster as its glowing orange eyes and energy cracks illuminate the scene. The two superheroes prepare to face the giant creature together. Dynamic aerial camera movements, breathtaking wide shots, realistic water simulation, detailed futuristic armor, dramatic lighting, epic Hollywood movie atmosphere, stunning CGI, 4K ultra HD, vertical 9:16 format.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122681631077216257/img/bKBJ4rUx6RnkkBoJ.jpg" width="600" alt="Superhero Monster Battle Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13970)**
+
+**Author:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2122681662467371212) | **Published:** Nov 17, 2026
+
+---
+### Sci-Fi Battlefield Warrior Emergence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for creating an ultra-realistic dark sci-fi battlefield video where a mysterious armored warrior emerges from smoke after an explosion.
+
+#### 📝 Prompt
+
+```
+Create an ultra-realistic cinematic dark sci-fi battlefield video. A team of futuristic armored soldiers is positioned in a vast muddy wasteland under a dramatic cloudy sky. Massive armored vehicles appear in the distant background. Start with a close-up cinematic shot of the soldiers, transition to a wide view of the battlefield, followed by a dramatic circular camera perspective framing a distant armored vehicle. A powerful explosion creates a huge cloud of dust and smoke in the distance. Suddenly, a mysterious dark-armored fantasy warrior emerges through the smoke, creating an intense cinematic standoff. Dramatic camera movements, realistic environmental details, atmospheric lighting, epic action movie aesthetics, highly detailed 3D graphics, 4K quality, realistic CGI, cinematic sound design, vertical 9:16 format.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122648053698211840/img/5MqbXboDaKb90Sza.jpg" width="600" alt="Sci-Fi Battlefield Warrior Emergence">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13969)**
+
+**Author:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2122648114737840216) | **Published:** Nov 17, 2026
+
+---
+### Divine Angel Warrior Awakening
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a cinematic fantasy video featuring a female angel warrior awakening in a mystical world, highlighting her transformation from elegance to power.
+
+#### 📝 Prompt
+
+```
+Create a breathtaking 15-second cinematic fantasy video featuring a beautiful female angel warrior with long silver-white hair, glowing golden armor, enormous majestic white feathered wings, and a legendary golden sword.
+
+Scene 1: Show a close-up of her beautiful face and glowing eyes as she slowly awakens in a mystical purple fantasy world.
+
+Scene 2: Show her holding a powerful golden sword, with magical golden energy surrounding her body.
+
+Scene 3: Camera smoothly zooms out as her giant angel wings spread wide, glowing golden light illuminates the sky, and magical particles float around her.
+
+Scene 4: Show her standing heroically with her sword, looking powerful and divine.
+
+Ultra-realistic 3D fantasy animation, stunning cinematic lighting, detailed feathers, realistic movements, epic atmosphere, smooth camera transitions, 4K quality, vertical 9:16 format. Maintain consistent character appearance throughout.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122580336437858304/img/B4PToZUGGErfI0q8.jpg" width="600" alt="Divine Angel Warrior Awakening">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13953)**
+
+**Author:** [Ali](https://x.com/CodesWithAli) | **Source:** [Link](https://x.com/CodesWithAli/status/2122580427013824751) | **Published:** Nov 17, 2026
+
+---
 ### Korean Romantic Action Short Film
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9535,243 +9743,6 @@ Negative Prompt: Face swap, clothing change, character appearance change after c
 **Author:** [单引号](https://x.com/DengYH803) | **Source:** [Link](https://x.com/DengYH803/status/2114557242569867559) | **Published:** Oct 26, 2026
 
 ---
-### Dancing Anthropomorphic Cat Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a photorealistic video of an anthropomorphic cat dancing in a shirt and trousers, emphasizing anatomical stability and rhythmic movement.
-
-#### 📝 Prompt
-
-```
-**DURATION:** 8 seconds  
-**FORMAT:** Vertical 9:16, cinematic photorealism  
-**REFERENCE:** Use the uploaded cat image as the exact first-frame and character reference.
-
-**CHARACTER CONSISTENCY:** The exact same orange-and-cream tabby cat wearing the same pink casual button-up shirt and beige trousers. Preserve its original face, eye shape, ears, fur markings, body proportions, outfit, and tail throughout the entire video.
-
-**MUSIC:** Cool, rhythmic contemporary dance-pop instrumental with a deep, groovy bass, crisp percussion, and stylish club beats. Music begins immediately. Dance movements must match the beat.
-
-**DANCE CHOREOGRAPHY:**
-
-**0–2 seconds:** The cat starts in a relaxed, confident standing pose. It performs a smooth shoulder roll, subtle chest isolation, and controlled side-to-side hip movement while maintaining eye contact with the camera.
-
-**2–4 seconds:** The cat executes clean, stylish footwork, stepping right and left while moving its arms rhythmically across the torso. Natural wrist movements, relaxed elbows, and controlled upper-body grooves.
-
-**4–6 seconds:** The cat performs a smooth body wave, a confident two-step, and coordinated arm sweeps. Its torso and hips move independently in a physically coherent, human-like dance style.
-
-**6–8 seconds:** The cat executes two sharp beat-matched steps, a smooth shoulder pop, and finishes with a cool, confident pose facing the camera.
-
-**CRITICAL HEAD AND NECK CONTROL:** The cat's head remains anatomically stable and naturally connected to its neck. Only subtle, realistic head tilts and small beat-synchronized movements are allowed. The head must NEVER rotate 360 degrees, flip backward, twist unnaturally, detach, or rotate independently of the body. Keep the eyes, ears, muzzle, and facial structure consistent in every frame.
-
-**REALISM LOCK:** Natural weight transfer, grounded feet, believable balance, smooth transitions between dance moves, realistic fur and fabric physics, consistent shadows, continuous motion, and stable anatomy. One uninterrupted shot with a steady full-body camera and no sudden camera movements.
-
-**NEGATIVE CONSTRAINTS:** No cartoon movement, no childish dancing, no exaggerated facial expressions, no rubber-like limbs, no unnatural spine bending, no neck twisting, no head spinning, no extra limbs, no face morphing, no outfit changes, no floating, no flickering, no sudden pose jumps, no artificial-looking motion.
-
-**FINAL RESULT:** A stylish, confident, adult-inspired dance performance by the same photorealistic anthropomorphic cat, with smooth choreography, natural head movement, and convincing physical motion.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114406485530972160/img/3zdH9KBkn5jnuVy0.jpg" width="600" alt="Dancing Anthropomorphic Cat Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13047)**
-
-**Author:** [M. Asif](https://x.com/meAsifAi) | **Source:** [Link](https://x.com/meAsifAi/status/2114406947558764575) | **Published:** Oct 25, 2026
-
----
-### Sera Nyx Canyon Flight
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt description for a scene involving Sera Nyx, a flying creature, and a canyon swing sequence.
-
-#### 📝 Prompt
-
-```
-Sera Nyx again, and this time her creature flies. A canyon, a swing on a cable over a stone bridge, ruins, and the two of them together at the end.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2114387121637113856/pu/img/MKXPTBojpRRF8Run.jpg" width="600" alt="Sera Nyx Canyon Flight">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13045)**
-
-**Author:** [MxCaptures | AI VFX & Cinematic AI Artist](https://x.com/MxCaptures) | **Source:** [Link](https://x.com/MxCaptures/status/2114387454757134521) | **Published:** Oct 25, 2026
-
----
-### Seedance 2.0 Ancient Palace Entrance Cinematic Sequence
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A cinematic prompt for generating a dramatic entrance sequence in an ancient Chinese palace setting. Features multiple characters with locked identities, precise spatial relationships, and progressive reveal of power hierarchy through camera movements.
-
-#### 📝 Prompt
-
-```
-Eastern ancient costume photorealistic cinema quality; late-night grand hall cold tone; authentic skin/hair/fabric/metal textures; low-saturation dark palette strong chiaroscuro; suspenseful intrigue oppressive atmosphere; prohibit CG/plastic aesthetics; ambient sound only: footstep echoes rustling garments faint candle crackles
-[Character Lock] Female Lead A: Image 1; Supporting B: Image 2; Supporting C: Image 3
-[Prop Lock] Single longsword (initially held by B later transferred to A resting across shoulder)
-[Scene Lock] Late-night royal council chamber: stone floor pillars tall windows candelabras lanterns central elevated throne chair
-[Spatial Relations] C stands mid-right in hall; B crouches foreground initially fully defocused; A occupies deep-center throne unseen first three shots
-[Spatial Logic] Power hierarchy revealed progressively near-to-far via lateral dolly-back-and-up movement expanding space layer-by-layer—first C (mid-hall) then B (foreground ambush) finally A seizing center; strict focus order: C→B→A→wide-shot
-[Lighting Atmosphere] Cold moonlight slanting through tall windows warm candle accents; overall cold low-saturation high-contrast lighting
-
-[Storyboard]
-[Shot 01][Duration] 0–3s [Framing] Medium start [Movement] Smooth initial then slow leftward arc pan [Content] Inside hall C stands angled head bowed contemplative; suddenly raises eyes haughty direct stare contemptuous detached; foreground reserved defocused zone (B's position) stable focus on C clear depth separation [Continuity Lock] Opening: C appears; B merely blurred shadow faceless
-
-[Shot 02][Duration] 3–5s [Framing] Extreme close-up face-fill [Movement] Continued leftward rapid foreground rack-focus [Content] Previously defocused foreground B snaps head-turn low-angle face-filling extreme CU cold disdainful gaze locking camera; background C completely bokeh intense spatial tension [Continuity Lock] Rack-focus transition: focus shifts C→B; B is ambush operative not protagonist
-
-[Shot 03][Duration] 5–7s [Framing] Medium [Movement] Rapid backward pull continuous slight lateral shake [Content] B's face moves aside shrinking to medium as camera retreats B stands sword-ready; A strides abruptly entering from left dominating frame reaching past B taking longsword raising it across shoulder condescending smirk俯视camera; final focus locks A's frontal face [Continuity Lock] Power seizure complete: sword transfers to A frame dominance achieved; B relegated to backdrop
-
-[Shot 04][Duration] 7–10s [Framing] Grand wide closing [Movement] Diagonal backward retreat sustained ascent [Content] Camera continuously retreats diagonally ascending expanding space progressively; full pullback establishes frozen power tableau: cold moonlit windows flickering candles stark contrast low-saturation darkness maximum oppression [Continuity Lock] Resolution: true authority emerges last; triad power structure crystallized
-
-[Negative Constraints] Absolutely no background music/subtitles; no extraneous text/watermarks/modern elements (no suits/glasses/cars/baseballs); no character duplication/anatomical errors/identity drift/A-face-becoming-B-or-C/focus-order violations/vanishing swords/slow-motion drag; A/B/C maintain fixed positions throughout
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114347927615533056/img/LKCLXLhtlEtIrKN_.jpg" width="600" alt="Seedance 2.0 Ancient Palace Entrance Cinematic Sequence">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13049)**
-
-**Author:** [灰度笔记](https://x.com/GrayNoteLab) | **Source:** [Link](https://x.com/GrayNoteLab/status/2114348037862719796) | **Published:** Oct 25, 2026
-
----
-### Seedance 2.5 DV Home Video Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A highly detailed prompt for generating a realistic early 2000s home DV video featuring a young East Asian woman in a bedroom on a hot summer afternoon. Includes specific instructions for character consistency, action timeline, camera stability, and audio environment.
-
-#### 📝 Prompt
-
-```
-Image 1 is the first frame of the video; the scene starts from Image 1, with scene, composition, lighting, clothing, props, and their positions all based on Image 1.
-Image 2 is the character reference, used only to lock in the person's face, facial proportions, face shape, and hair color. Do not use the gray background, clothing, or three-view layout from Image 2.
-
-Create a 30-second, hyper-realistic early 2000s home DV recording capturing a young East Asian woman spending a muggy summer afternoon in an old residential apartment bedroom. Pure observational perspective, no dialogue, no narrative arc, just the rhythm of daily life.
-
-Character
-Appearance matches Image 2; clothing and hairstyle match Image 1: bare-faced, loose bun on top of head, light blue loose T-shirt, white cotton shorts, barefoot. Maintain consistent face, clothing, hairstyle, and body shape throughout.
-
-Action Timeline (each action performed once, no repetition)
-00:00–00:06 — She lies half-reclined against a pillow, slowly fanning herself with the fan from Image 1 in her right hand, staring at the ceiling blankly, occasionally blinking.
-00:06–00:11 — She stops fanning, places the fan on the bamboo mat beside her, pushes up to sit on the bed, and turns toward the fan on the bedside stool.
-00:11–00:16 — She picks up the soda bottle from the stool, takes a sip through the straw, then puts the bottle back in its original spot.
-00:16–00:22 — She leans close to the front of the fan, opens her mouth, and drags out a long "Ah—" into the blades; the sound trembles against the spinning blades, stray hairs blown by the wind. Keep a safe distance between face and blades, do not touch the fan.
-00:22–00:26 — She laughs at herself, briefly glances back at the camera with a shy smile, saying nothing.
-00:26–00:30 — She falls backward onto the pillow, covers her face with the fan, and stays still. The fan continues to spin, then cut to black.
-
-Consistency
-Positions of fan, soda bottle, fan unit, and stool remain constant; no objects appear or disappear spontaneously. Only one fan and one soda bottle in the frame; fan style identical to Image 1. Fan orientation fixed, no oscillation; blade shape stable. Bamboo curtain light/shadow stripes stable. Actions proceed in real-time pace, unhurried.
-
-Cinematography & Quality
-Fixed camera angle matching Image 1; no movement, zoom, or pan throughout. Light source is only natural afternoon light through bamboo curtains, slightly overexposed. DV noise, slight color shift, vignette, occasional autofocus breathing. Orange date stamp "2003 08 02" in bottom right corner remains fixed throughout.
-
-Audio
-Ambient sounds dominate: hum of fan, soft rustle of fanning, cicadas outside window, distant bicycle bell, creaking of bamboo mat under pressure, sound of drinking soda through straw. Only human voices are the trembling "Ah—" directed at the fan and a light laugh. No background music.
-
-Prohibited
-No subtitles, no soundtrack, no slow motion, no cinematic color grading, no camera moves, no shallow depth of field, no gray studio background, no text or brand logos (except date stamp). 30s, 720p
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114326843423858688/img/d8LQ-l3HkxbHuPZH.jpg" width="600" alt="Seedance 2.5 DV Home Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13128)**
-
-**Author:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2114328135420293145) | **Published:** Oct 25, 2026
-
----
-### Seedance 2.0 Comedy Scene in Ancient Bedroom
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A humorous narrative prompt set in an ancient Chinese bedroom featuring dialogue-driven action between three characters and a cat. Uses warm candlelight tones and comedic timing within a confined domestic space.
-
-#### 📝 Prompt
-
-```
-Text-to-video prompt: Eastern ancient costume photorealistic cinema quality; boudoir candlelight warm tone; authentic skin/hair/fabric/carved-wood textures; film-grade color grading; light comedy; prohibit CG/plastic aesthetics
-[Character Lock] Female Lead A: Image 1; Male Lead B (Zhao Mingcheng): Image 2; Supporting C (Sister): Image 3; Orange Tabby Cat
-[Key Setup] C hidden inside wardrobe
-[Scene Lock] Ancient-style boudoir: carved wooden bed vanity with bronze mirror candelabra lanterns large carved wardrobe
-[Spatial Relations] A stands before bed; B sits slumped bed-edge; wardrobe opposite side; C inside wardrobe
-[Spatial Logic] Single location; A's path: bed-front→turn-toward-wardrobe→open-door; cat never leaves B's shoulder
-[Lighting Atmosphere] Warm candlelight soft facial illumination
-
-[Storyboard]
-[Shot 01][Duration] 0–3.5s [Framing] Medium [Movement] Static [Content] A stands towering lecturing downward; B seated head-down bed-edge [Dialogue] A(~0.5–2s): "When we married I demanded 100k taels bride-price"; A(~2–3.5s): "My sister lent you 90k of that" simultaneously orange-cat paw-slaps B's head [Continuity Lock] Opening: A dominates scolding;
-
-[Shot 02][Duration] 3.5–7s [Framing] Medium [Movement] Static [Content] A grows angrier finger-pointing B; B's head bows lower cat steady on shoulder [Dialogue] A(~3.5–5s): "Now arranged your official post too"; A(~6–7s): "Zhao Mingcheng ungrateful isn't he?" [Continuity Lock] A enumerates sister's contributions; B silent defense
-
-[Shot 03][Duration] 7–8.5s [Framing] Close-up [Movement] Static [Content] B head-lowered mumbled apology cat expressionless staring ahead [Dialogue] B guiltily(~7.5–8.3s): "Xiaowan I was wrong" [Continuity Lock] B surrenders; no extra dialogue
-
-[Shot 04][Duration] 8.5–12.5s [Framing] Medium [Movement] Lateral tracking [Content] A pivots striding toward wardrobe cursing en-route halts at door hand-on-handle [Dialogue] A(~9–11s): "While away my sister visits yet you imprisoned her in wardrobe"; A(~12s): "Are you still human?" [Continuity Lock] Wardrobe approach=reveal countdown; B frozen bed-edge
-
-[Shot 05][Duration] 12.5–15s [Framing] Medium [Movement] Static [Content] A flings wardrobe open: C standing inside awkwardly waving smiling saying "Hi~"; freeze-frame [Continuity Lock] Resolution
-
-[Negative Constraints] Absolutely no background music; no extraneous text/watermarks/character-duplication/anatomical-errors/modern-elements(no-electric-lights/no-modern-furniture)/identity-drift/A-face-changing-to-B-or-C/cat-leaving-B-shoulder/cat-pattern-distortion/dialogue-mixups/slow-motion-drag
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114281752583897088/img/f5RxqlYYYQlBpeLf.jpg" width="600" alt="Seedance 2.0 Comedy Scene in Ancient Bedroom">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13050)**
-
-**Author:** [灰度笔记](https://x.com/GrayNoteLab) | **Source:** [Link](https://x.com/GrayNoteLab/status/2114281882687066484) | **Published:** Oct 25, 2026
-
----
-### School Hallway Time Freeze
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt where a student freezes a chaotic fight scene in slow motion in a school hallway.
-
-#### 📝 Prompt
-
-```
-Create a cinematic, ultra-realistic 4K video set in a modern school hallway. A young woman with brown hair in a messy bun, wearing a cream turtleneck sweater and wired earphones, walks calmly through the corridor as masked people fight in slow motion behind her. Papers, desks, and red soda cans fly through the air as she raises one hand and mysteriously freezes everything around her. She remains completely calm and emotionless while chaos stops instantly. Warm cinematic lighting, realistic facial expressions, detailed hair movement, shallow depth of field, smooth camera push-in, dramatic slow motion, natural physics, film-quality color grading, 16:9 widescreen, 15 seconds, no dialogue, no text, no watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114222867823124480/img/Dh_-novuM4GOJWVn.jpg" width="600" alt="School Hallway Time Freeze">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13003)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2114222906867888426) | **Published:** Oct 25, 2026
-
----
-### Seedance 2.0 Halloween Hogwarts Dark Magic Transformation Video Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A highly detailed video generation prompt for Seedance 2.0 creating a 15-second cinematic vertical short featuring a dark magic costume transformation theme blending Halloween and Hogwarts aesthetics. The prompt specifies character consistency, outfit changes synced to music beats, camera movements, and specific visual effects using reference images.
-
-#### 📝 Prompt
-
-```
-15 seconds, 9:16 vertical screen, live-action cinematic Halloween x Hogwarts dark magic costume change short film. @Image1 is the character master template, @Image2 Red Gold, @Image3 Emerald Green, @Image4 Blue Silver, @Image5 Black Gold, @Image6 Black Silver Queen, appearing in order. Always the same adult beauty, long black curly hair, wine-red lips, black lace blindfold eye mask, never removed, no face swap throughout. Reference images are used for costumes and characters; do not simply stitch static images together.
-
-Music: 160 BPM dark symphonic Phonk, Gothic bell intro, strong drums, instant costume changes on downbeats at 1.5/4.5/7.5/9.75/12 seconds, maximum Drop at 12 seconds; transformations use 0.2 second occlusion flash, audio-visual sync.
-
-0–1.5s: Extreme close-up of @Image1's eye mask and red lips, fingertips touch the mask, camera rapidly pulls back; orange full moon, bats, castle, and jack-o'-lanterns appear, pumpkins spew red-gold flames covering the screen.
-
-1.5–4.5s: Flames dissipate into @Image2, low-angle wide front tracking shot, beauty strides forward and violently swings red-gold cape to the right, roaring flame lion behind her; cape sweeps across lens, turning into green smoke.
-
-4.5–7.5s: Smoke recedes into @Image3, camera orbits to 45-degree back side, beauty looks back raising wand; potion cauldron erupts, giant emerald serpent coils around stone pillar, snake shadow sweeps past lens turning into blue ghost.
-
-7.5–9.75s: Changes to @Image4, high-angle oblique overhead clockwise orbit, she spreads arms spinning, blue-silver skirt flares out; ghosts and starlight dance, eagle wings sweep past lens turning into golden leaves.
-
-9.75–12s: Changes to @Image5, side panning tracking shot, she walks while waving wand, black cat runs past, pumpkin vines grow wildly, jack-o'-lanterns rise one by one; giant pumpkin crashes into lens, lights suddenly extinguish, black flash.
-
-12–14.3s: Lightning with maximum Drop splits darkness, changes to @Image6; ultra-low angle rapid retreat, queen floats, crown descends, massive black wings suddenly unfold, full moon turns blood moon, bats take flight, pumpkins burn with silver-white fire.
-
-14.3–15s: She violently points wand at lens, silver magic impact and black feathers cover screen, echoing the opening eye mask, forming a loop.
-
-Requirements: Each time fully occlude first then instant costume change, continuous motion, varying shot sizes and camera positions, clear visible costumes, realistic fabric and hair movement; intense Halloween atmosphere but character remains visual center. Prohibit slow melting clothes, face drift, limb deformities, cheap effects, subtitles, watermarks.
-```
-
-<img src="https://cms-assets.youmind.com/media/1792907864427_qpq5sj_HVaRqRyWUAADs0j.jpg" width="600" alt="Seedance 2.0 Halloween Hogwarts Dark Magic Transformation Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13004)**
-
-**Author:** [麻酱AI实验室](https://x.com/zhongying14) | **Source:** [Link](https://x.com/zhongying14/status/2114038007435055604) | **Published:** Oct 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -9833,6 +9804,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-17T23:45:17.144Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-18T06:25:32.787Z</sub>
 
 </div>
