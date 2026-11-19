@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6695** |
+| 📝 Total de prompts | **6705** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-11-19** |
 
@@ -361,6 +361,474 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Pelea en tren hiperrealista: acción sobrenatural
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt complejo para una escena de pelea cinematográfica hiperrealista de 30 segundos en un tren en movimiento, que involucra a una mujer con superpoderes y a un cazador acorazado, con estrictos requisitos de consistencia de personajes y física.
+
+#### 📝 Prompt
+
+```
+Película de acción sobrenatural cinematográfica fotorrealista, horizontal 16:9, de 30 segundos.
+
+Una mujer adulta con superpoderes se enfrenta a un cazador humano blindado a bordo de un tren de servicio ficticio en movimiento, ambientado en un futuro cercano, durante la noche.
+
+Coreografía de especialistas rápida y contundente. Aceleración, peso, tracción, retroceso y recuperación realistas. Múltiples planos cinematográficos con cortes motivados. Sin poses estáticas ni animación acelerada de las extremidades.
+
+Exactamente UN pasaje cinematográfico en cámara lenta entre 00:23.5 y 00:25, durante un puñetazo que roza su rostro por poco. El resto de las acciones de los personajes transcurren a velocidad normal. Su poder temporal localizado anterior solo ralentiza el cristal.
+
+Las marcas de tiempo describen el tiempo de pantalla editado. Los cortes de continuidad pueden comprimir los desplazamientos entre posiciones establecidas. Los contactos esenciales, las recepciones, las transiciones de poder y los aterrizajes deben permanecer visibles.
+
+REFERENCIAS
+IMAGEN 1: HEROÍNA.
+Mantener exactamente a la mujer adulta que se muestra: rostro, complexión, peinado, colores del cabello, pinzas, ropa, calcetines y zapatillas. Las distintas vistas representan a un único personaje.
+
+IMAGEN 2: CAZADOR.
+Mantener exactamente el rostro del hombre, su cabello o cabeza rapada, vello facial, complexión, silueta de la armadura, placas pectorales, brazales de antebrazo, articulaciones mecánicas, traje interior y botas.
+
+Es un HUMANO que lleva puesto el exoesqueleto de referencia. Su rostro de referencia permanece descubierto. Sin casco, cabeza robótica, visor, armas añadidas ni armadura de reemplazo sobredimensionada.
+
+Las imágenes definen la apariencia, no la ubicación ni la pose. Sin fondos de estudio, paneles de referencia ni personajes duplicados.
+
+ESTILO
+Textura fotográfica de la piel, sudor, tejido de la tela, metal rayado, reflejos realistas y desenfoque de movimiento natural. Iligación práctica cinematográfica con rostros nítidos.
+
+Los movimientos del cazador evidencian el peso de la armadura y la asistencia mecánica. Sus hombros y codos mantienen una anatomía verosímil.
+
+La heroína actúa en movimiento. Su cabello y su ropa reaccionan al viento y a la inercia. Encuadres de acción neutrales en todo momento.
+
+TREN Y DISTRIBUCIÓN ESPACIAL
+El tren avanza de noche por un corredor ferroviario industrial ABIERTO. Las vías, las luces y las estructuras lejanas que pasan de largo establecen la velocidad. Sin túneles ni pasajeros.
+
+Dos vagones relevantes:
+VAGÓN TRASERO: ubicación inicial del combate.
+VAGÓN DELANTERO: el vagón inmediatamente anterior y ubicación final.
+
+Dentro del vagón trasero, disponer lo siguiente de atrás hacia adelante:
+1. La ventanilla lateral rota.
+2. Una zona de combate reducida.
+3. Un mamparo de cristal para equipos con un pasillo central abierto.
+4. Una estantería de carga y un armario cerca de la salida delantera.
+
+El mamparo tiene un marco metálico estrecho y un gran panel de cristal junto al pasillo central. El cazador puede atravesar este panel de cristal al caer sin bloquear todo el pasillo.
+
+La sombra A se encuentra junto al extremo más cercano de la estantería de carga.
+La sombra B se sitúa detrás del armario, más adelante.
+Ambas sombras deben verse en un mismo plano general tres cuartos del pasillo.
+
+Cada vagón cuenta con una plataforma exterior en sus extremos. Un puente retráctil corto conecta inicialmente ambas plataformas.
+
+La plataforma TRASERA del vagón DELANTERO es la ubicación final del combate:
+- Aproximadamente dos metros de ancho por dos de profundidad.
+- Puerta corredera central con ventanilla hacia el interior del vagón delantero.
+- Barandillas de acero a la altura de la cintura a ambos lados.
+- Borde de transferencia abierto orientado hacia atrás tras la separación.
+- Asidero fijo en la esquina y un pequeño apoyo para el pie debajo de su esquina trasera izquierda.
+- Control de separación junto a la puerta corredera.
+
+La plataforma debe verse claramente al AIRE LIBRE, con el cielo nocturno abierto y el paisaje pasando a sus lados.
+
+El sistema de separación ficticio repliega el puente vacío y libera la conexión. El vagón trasero desenganchado frena y se queda atrás.
+
+Mantener la puerta, la plataforma, los soportes de las esquinas y las barandillas en posiciones fijas.
+
+REGLAS DE PODER
+MANIPULACIÓN DEL METAL:
+Gestos específicos mueven o deforman objetos metálicos ya establecidos. Mostrar cómo el material se dobla desde su posición original. La deformación persiste después. Sin barras materializadas de la nada.
+
+ABSORCIÓN CINÉTICA:
+Exactamente dos puñetazos bloqueados cargan una tenue luz dorada ramificada bajo la piel del antebrazo de la heroína. Ella sigue retrocediendo por el impacto.
+Un golpe con la palma abierta libera toda la carga con un destello compacto en el punto de contacto. El dorado se desvanece de inmediato. Sin contornos flotantes en los brazos ni recargas posteriores.
+
+TIEMPO LOCAL:
+Solo el cristal suspendido en el aire a lo largo de su trayectoria se ralentiza dentro de una pequeña zona refractiva. Los personajes, la cámara y el tren continúan a velocidad normal.
+Los fragmentos retoman sus trayectorias y caen cuando el campo desaparece.
+
+TRÁNSITO POR SOMBRAS:
+Una desaparición completa en la sombra A seguida de una aparición desde la sombra B. Mostrar ambas ubicaciones en el mismo plano general. Sin duplicados ni transiciones ocultas detrás del cazador.
+
+GRAVEDAD PERSONAL:
+Reduce su peso durante una recuperación en el exterior. Un fuerte impulso visible con el pie produce un arco ascendente inusualmente alto y rápido. Conserva el impulso hacia adelante junto con el tren.
+Su peso normal regresa al aterrizar. Sin levitación prolongada, cambios de dirección sin apoyo ni escalada de escaleras.
+
+LÍNEA TEMPORAL
+
+00:00-00:03 | ENTRADA POR LA VENTANILLA
+Comenzar con la heroína ya iniciando su entrada por la ventanilla lateral rota.
+
+Plano de seguimiento exterior tres cuartos: una mano agarra el marco superior y un zapato se apoya contra un estrecho saliente exterior. Las vías que pasan son visibles abajo.
+
+Su mano libre tira hacia adentro. La sección LATERAL obstructiva del marco metálico se dobla hacia afuera mientras el soporte superior permanece intacto.
+
+Pasa ambas piernas por la abertura y golpea una vez la armadura pectoral del cazador con los dos zapatos.
+
+Corte de continuidad hacia el interior durante el mismo movimiento. Él retrocede tambaleándose desde la ventanilla. Ella suelta el agarre, recoge las rodillas y aterriza sobre ambos pies.
+
+Mantener visibles el contacto y el aterrizaje. Sin sentarse en el alféizar, escaladas prolongadas ni patadas repetidas.
+
+00:03-00:08 | ABSORBER Y LIBERAR
+El cazador se sitúa inicialmente entre la heroína y la parte delantera del vagón.
+
+Arremete con dos puñetazos diferenciados. Ella bloquea cada uno dando cortos pasos diagonales hacia atrás. El primero genera tenues líneas doradas; el segundo las intensifica.
+
+Durante el segundo bloqueo, ella pivota rodeando el lado atacante de él. Ambos combatientes giran de forma natural, quedando la espalda del cazador orientada hacia el mamparo de cristal cercano.
+
+Ella planta los pies y lanza un golpe con la palma abierta contra la armadura pectoral de él.
+
+Un destello dorado compacto en el punto de contacto. El brillo acumulado abandona por completo sus brazos.
+
+Él sale impulsado hacia atrás a través del panel de cristal junto al pasillo central y aterriza sobre una rodilla y una mano en el lado delantero del mamparo.
+
+Usar un ángulo medio general compartido para que el pivote, la alineación de él con el mamparo, el golpe y su caída queden claros.
+
+00:08-00:11 | PASO ENTRE EL CRISTAL
+El cristal se dispersa por el pasillo central frente a la heroína.
+
+Ella abre la mano, ralentizando los fragmentos obstructivos dentro de una zona refractiva compacta.
+
+Avanza por un hueco despejado a velocidad normal. Un plano de seguimiento lateral muestra cristales girando lentamente a su lado, mientras sus pies y el fondo conservan un movimiento normal.
+
+Una vez que supera la zona, los fragmentos caen detrás de ella.
+
+Más adelante, el cazador se impulsa visiblemente con la mano y la rodilla y se levanta con ayuda de los servomotores. Sigue por delante de ella, cerca de la estantería de carga, entre ella y la salida.
+
+00:11-00:14 | CONTRAATAQUE DESDE LAS SOMBRAS
+Un plano general tres cuartos muestra:
+A la heroína junto a la sombra A.
+Al cazador a poca distancia por delante.
+La sombra B más allá de él, más cerca de la salida.
+
+Él se abalanza hacia atrás lanzándole un puñetazo con la derecha.
+
+Ella entra en la sombra A y desaparece por completo convertida en un tenue mechón oscuro.
+
+El puño de él continúa hasta impactar la estantería junto a la posición anterior de ella. El metal se abolla y atrapa brevemente su antebrazo.
+
+Ella emerge de la sombra B detrás de él, más cerca de la salida, y corre de inmediato hacia adelante.
+
+Mostrar la desaparición y la aparición reales. El cazador nunca oculta ambas ubicaciones de las sombras.
+
+00:14-00:18 | SEPARACIÓN Y PERSECUCIÓN
+La heroína cruza el puente corto hasta la plataforma trasera del vagón delantero. Un corte de continuidad comprime únicamente su aproximación al puente.
+
+El cazador libera su antebrazo y corre tras ella.
+
+Ella aterriza fuera del puente, junto al control de separación. Un gesto breve acciona su palanca metálica.
+
+Corte
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123287389506240512/img/uxW19KzOrfj9yLQG.jpg" width="600" alt="Pelea en tren hiperrealista: acción sobrenatural">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=14020)**
+
+**Autor:** [Zentrix⌚️](https://x.com/ZentrixHQ) | **Fuente:** [Link](https://x.com/ZentrixHQ/status/2123288651018731994) | **Publicado:** Nov 19, 2026
+
+---
+### Aventura de Dragón Fantasía Anime Japonés
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para un cortometraje de fantasía anime japonés 2D de 30 segundos titulado 'The Last Baby Dragon', que presenta a una chica con cabello rosa y un bebé dragón, requiriendo consistencia estricta de personajes basada en imágenes de referencia.
+
+#### 📝 Prompt
+
+```
+Crea un cortometraje de aventura fantástica en anime 2D japonés de 30 segundos que deje sin aliento, en formato panorámico 16:9, utilizando la imagen de referencia subida como referencia visual y de personajes exacta.
+
+TÍTULO: EL ÚLTIMO BEBÉ DRAGÓN
+
+CONSISTENCIA DE LOS PERSONAJES:
+
+PERSONAJE PRINCIPAL:
+La pequeña niña de anime con cabello rosa de la imagen de referencia. Conserva su rostro kawaii exacto, sus grandes ojos azules, su corte bob corto de color rosa, sus accesorios circulares para el cabello de color crema, su camisola blanca y sus pantalones cortos a rayas blancas y azules. Debe verse exactamente igual durante todo el cortometraje.
+
+BEBÉ DRAGÓN:
+Conserva el bebé dragón azul exacto de la imagen de referencia. Mantén sus escamas azules, su vientre de color crema, sus ojos dorados, sus pequeños cuernos, sus alas y su tierno rostro. Asegúrate de que sea el mismo dragón durante todo el cortometraje.
+
+ESTILO VISUAL:
+
+Calidad premium de película de anime 2D japonesa para cines. Hermosa animación dibujada a mano, personajes expresivos, escenarios fantásticos que quitan el aliento, movimientos de cámara cinematográficos y dramáticos, bosques mágicos muy detallados, partículas doradas brillantes, cielos de un azul medianoche profundo, una iluminación preciosa y efectos visuales extraordinarios.
+
+HISTORIA Y ACCIÓN:
+
+ESCENA 1 — EL LLANTO MISTERIOSO (0–4 SEGUNDOS)
+
+En lo más profundo de un hermoso bosque encantado a medianoche, la pequeña niña de cabello rosa escucha de repente un extraño llanto.
+
+Sigue el sonido hasta llegar a un enorme árbol milenario.
+
+Una diminuta puerta dorada tallada en el árbol comienza a temblar violentamente de forma repentina.
+
+Algo intenta escapar desesperadamente desde el interior.
+
+La niña se acerca lentamente y apoya la mano sobre la puerta.
+
+ESCENA 2 — EL DESCUBRIMIENTO (4–8 SEGUNDOS)
+
+La puerta dorada se abre de golpe de repente, desatando un destello de luz mágica.
+
+En el interior, descubre a un hermoso bebé dragón azul atrapado por pesadas cadenas mágicas.
+
+El dragón la mira directamente a los ojos y estira con desesperación una de sus pequeñas garras.
+
+La niña, sorprendida, se acerca a él con delicadeza.
+
+ESCENA 3 — ALGO SE ACERCA (8–13 SEGUNDOS)
+
+Cuando la niña toca las cadenas del dragón, el bosque entero se sume de pronto en la oscuridad.
+
+Las flores luminosas se cierran. Las luciérnagas desaparecen.
+
+Entre los árboles, una sombra colosal con ojos rojos brillantes emerge lentamente.
+
+El bebé dragón se aterroriza y se esconde detrás de la niña.
+
+Ella se da la vuelta y ve cómo la gigantesca criatura se aproxima.
+
+ESCENA 4 — LA DECISIÓN VALIENTE (13–18 SEGUNDOS)
+
+La niña nota un candado dorado brillante sujeto a la cadena del dragón.
+
+Encuentra una diminuta llave dorada colgando del cuello del dragón.
+
+Abre el candado y libera las cadenas.
+
+Las cadenas caen al suelo de forma dramática.
+
+El dragón despliega sus alas por primera vez, pero no logra volar bien.
+
+La enorme sombra se abalanza de repente hacia ellos.
+
+ESCENA 5 — EL PODER INESPERADO (18–24 SEGUNDOS)
+
+La niña se planta frente al bebé dragón para protegerlo.
+
+El dragón ve que ella lo defiende y poco a poco cobra valor.
+
+Sus ojos dorados comienzan a brillar con intensidad.
+
+De repente, sus diminutas alas se transforman en enormes alas luminosas de color azul y dorado
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123271972746563584/img/_ZRb7OQVcaBGysS0.jpg" width="600" alt="Aventura de Dragón Fantasía Anime Japonés">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=14021)**
+
+**Autor:** [Cherry](https://x.com/hey_am_cherry) | **Fuente:** [Link](https://x.com/hey_am_cherry/status/2123272032599277598) | **Publicado:** Nov 19, 2026
+
+---
+### Video Cinematográfico de un Samurai Guerrero
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un video en 3D ultra realista de un samurái japonés, que presenta a un misterioso guerrero en una aldea lluviosa, culminando en un épico desenvaine de espada en cámara lenta.
+
+#### 📝 Prompt
+
+```
+Crea un video de un guerrero samurái japonés en 3D ultrarrealista y cinematográfico, de 20 segundos de duración, en formato vertical 9:16.
+
+Escena 1: Un misterioso samurái, vestido con un atuendo negro tradicional y un amplio sombrero de paja, permanece en silencio en una antigua aldea japonesa de madera durante una tarde lluviosa.
+
+Escena 2: La cámara se acerca lentamente mientras el samurái camina por un estrecho pasillo de madera. Primer plano cinematográfico de su mirada intensa, que transmite valentía y determinación.
+
+Escena 3: De repente, escucha acercarse a un enemigo. Se gira rápidamente, empuña su katana y adopta una imponente postura de combate.
+
+Escena 4: Muestra un épico desenvaine de espada en cámara lenta con movimientos de cámara dramáticos, gotas de lluvia volando por los aires y una física de telas realista.
+
+Escena 5: Termina con el samurái de pie, seguro de sí mismo y sosteniendo su espada, bajo una iluminación cinematográfica dramática.
+
+Estilo: Animación 3D hiperrealista, atmósfera histórica japonesa, iluminación oscura y envolvente, texturas detalladas, narrativa dramática, cinematografía profesional, transiciones fluidas, calidad 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123125773947256833/img/MfN493DJkhX2-QNj.jpg" width="600" alt="Video Cinematográfico de un Samurai Guerrero">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=14013)**
+
+**Autor:** [Ali](https://x.com/CodesWithAli) | **Fuente:** [Link](https://x.com/CodesWithAli/status/2123125816213299296) | **Publicado:** Nov 18, 2026
+
+---
+### Prompt de Batalla Animada: Superhéroe vs. Guerrero
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para una batalla cinematográfica animada en 3D entre un superhéroe y un guerrero con bastón, ambientada en una ciudad futurista nocturna.
+
+#### 📝 Prompt
+
+```
+Batalla de superhéroes en animación 3D cinematográfica, ambientada en una ciudad futurista de noche durante una tormenta eléctrica. Un poderoso superhéroe con ojos rojos brillantes se enfrenta a un pequeño guerrero de artes marciales vestido con un traje rojo y armado con un bastón. El diminuto guerrero hace girar su bastón a una velocidad increíble, creando anillos de fuego resplandecientes y remolinos de energía. El superhéroe surca el cielo tormentoso mientras los relámpagos caen entre los rascacielos. Combate aéreo dinámico, primeros planos dramáticos, estelas de fuego luminosas, reflejos realistas, personajes animados muy detallados, seguimiento de cámara fluido, animación 3D de alta calidad inspirada en Pixar, iluminación cinematográfica, atmósfera de acción épica, nivel de detalle extremo, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123086724494774274/img/swC3wBew9ijd1W8Y.jpg" width="600" alt="Prompt de Batalla Animada: Superhéroe vs. Guerrero">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=14016)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fuente:** [Link](https://x.com/draavenai/status/2123086782678118904) | **Publicado:** Nov 18, 2026
+
+---
+### Pelea de acción realista en Seedance 2.0 dentro de un vagón de tren
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt detallado para generar una secuencia de acción realista y de alta intensidad que presenta a una protagonista femenina luchando contra un oponente con una cadena dentro de un vagón de tren. Especifica ángulos de cámara, coreografía, iluminación y diseño sonoro.
+
+#### 📝 Prompt
+
+```
+Genera un cortometraje de acción cinematográfico realista de 15 segundos, en formato horizontal 16:9, creado directamente a partir de texto.
+
+[Requisitos principales]
+Alta densidad, ritmo vertiginoso y combate cuerpo a cuerpo continuo, como la escena de pelea más intensa de una película de acción de primer nivel. El primer fotograma ya muestra el combate en pleno desarrollo; sin introducciones, caminatas, miradas desafiantes ni poses. Nada de cámara lenta en ningún momento: todas las acciones ocurren a velocidad real. Cada plano dura aproximadamente 1,5 segundos, ejecuta un único movimiento claro de ataque o defensa y muestra el resultado del impacto. Las acciones se encadenan de forma fluida entre planos; el desenlace de un movimiento es el punto de partida del siguiente, sin pausas en todo el video.
+
+[Personajes]
+Protagonista (mujer): Una mujer adulta de origen asiático oriental de unos 27 años, cabello negro largo recogido en una coleta, mirada afilada y complexión atlética. Viste una chaqueta corta de cuero marrón oscuro, un suéter de punto negro, pantalones cargo oscuros y botas negras de caña alta. Sin armas.
+Oponente: Un hombre adulto alto, cabello corto, que lleva una vieja chaqueta de cuero negra, una sudadera con capucha gris oscuro y pantalones oscuros. Sostiene una cadena de hierro en la mano derecha.
+Solo estos dos personajes aparecen en todo el video; su aspecto físico, vestimenta y armas se mantienen constantes. La protagonista nunca termina derribada en el suelo.
+
+[Escenario]
+Interior de un vagón de tren de estilo antiguo detenido en un andén. Luz amarillenta y tenue al otro lado de la ventana, asientos de cuero verde oscuro, pasamanos metálicos desgastados, polvo y cajas de cartón dispersas por el suelo. Toda la acción transcurre cerca de la misma fila de asientos; la posición de los asientos, pasamanos, cajas y personajes debe mantenerse coherente.
+
+[Lista de planos]
+Plano 1 (0-1,5 s): Plano medio lateral. El oponente lanza la cadena en un barrido horizontal, la protagonista se agacha y la cadena impacta contra el respaldo del asiento.
+Plano 2 (1,5-3 s): Plano secuencia con cámara en mano. El oponente golpea el hombro de la protagonista con el extremo de la cadena; ella se inclina hacia atrás, recupera el centro de gravedad y no cae.
+Plano 3 (3-4,5 s): Plano medio. La protagonista esquiva la embestida del oponente y le clava un codazo en las costillas; él retrocede por el dolor.
+Plano 4 (4,5-6 s): Plano medio. El oponente agarra a la protagonista y la empuja contra el pasamanos metálico; ella siente la presión en el costado, tropieza, pero mantiene los pies firmes en el suelo y no cae.
+Plano 5 (6-7,5 s): Plano medio lateral. El oponente vuelve a lanzar la cadena, la protagonista la atrapa por el centro y ambos forcejean tirando de ella.
+Plano 6 (7,5-9 s): Primer plano. La protagonista suelta la cadena de repente y patea la rodilla del oponente; él pierde el equilibrio y la cadena cae junto al asiento, sin volver a ser recogida.
+Plano 7 (9-10,5 s): Plano medio. El oponente lanza un puñetazo, la protagonista lo bloquea y responde con una ráfaga de golpes cortos al abdomen; el oponente retrocede.
+Plano 8 (10,5-12 s): Plano medio. El oponente se abalanza intentando placarla o inmovilizarla; la protagonista gira la cadera para desviar la fuerza, presiona el hombro o cuello del rival con el antebrazo, controla su centro de gravedad y mantiene los pies en el suelo.
+Plano 9 (12-13,5 s): Plano medio ligeramente más abierto. La protagonista aprovecha el impulso del oponente para arrojarlo contra el pasamanos del asiento; él choca violentamente, cae y no se levanta.
+Plano 10 (13,5-15 s): Primer plano del rostro de la protagonista. La tenue luz de la ventana le ilumina la cara, donde se aprecian polvo y rasguños. Respira agitadamente y clava una mirada fría en el oponente caído. El video termina de inmediato.
+
+[Acción y cinematografía]
+Textura cinematográfica realista, luz amarillenta y tenue de la ventana del vagón antiguo, asientos de cuero verde oscuro, pasamanos metálicos desgastados, detalles conservados en las sombras y rostros nítidos. Cada puñetazo o patada debe hacer contacto antes de que se produzca cualquier reacción corporal, retroceso o pérdida de equilibrio; nada de golpear al aire ni de caídas sin contacto previo. Los movimientos de la protagonista son precisos y feroces, utilizando la fuerza del rival en su contra; siente dolor y tropieza al recibir impactos, pero nunca cae. Se permite una ligera vibración de cámara en los impactos, pero siempre debe quedar claro quién golpea a quién. Las posiciones izquierda/derecha deben ser coherentes entre planos consecutivos; sin teletransportaciones, objetos atravesándose entre sí, manos ni armas extra. La cadena permanece junto al asiento tras caer; nada de acrobacias, patadas voladoras, superpoderes ni primeros planos sangrientos. La cámara se centra en la acción, sin primeros planos gratuitos de partes del cuerpo.
+
+[Sonido]
+Eco vacío del vagón antiguo, ruido ambiental bajo y lejano del andén. Los sonidos de la cadena al golpear el asiento, el pasamanos o el suelo, los impactos, las caídas y el vuelco de las cajas deben sincronizarse con precisión a la imagen. Música de acción tensa, rápida y dominada por percusiones desde el segundo 1; el volumen baja ligeramente cuando la protagonista choca contra el pasamanos, estalla de nuevo tras su contraataque, alcanza su punto máximo en el choque final y termina con el sonido de su respiración y un eco metálico.
+Sin diálogos, sin narración, sin subtítulos, sin texto, sin marcas de agua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123081752596172800/img/KY85TC2PsNBOGkXI.jpg" width="600" alt="Pelea de acción realista en Seedance 2.0 dentro de un vagón de tren">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=14024)**
+
+**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fuente:** [Link](https://x.com/Adam38363368936/status/2123082060323754024) | **Publicado:** Nov 18, 2026
+
+---
+### Romance Coreano Cinematográfico en Parque de Otoño
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para una escena cinematográfica de romance coreano de 30 segundos ambientada en un parque de otoño durante la hora dorada, con dos jóvenes adultos compartiendo momentos íntimos con actuación realista y atmósfera emocional.
+
+#### 📝 Prompt
+
+```
+Crea una escena romántica coreana de estilo cinematográfico de 30 segundos, ambientada en un hermoso parque otoñal durante la hora dorada. Un joven coreano con chaqueta negra está sentado solo en un banco de madera, rodeado de hojas otoñales doradas, esperando en silencio. La cálida luz del sol se filtra entre los árboles mientras una suave brisa mece las hojas caídas. Una joven coreana con abrigo beige se acerca y se sienta a su lado. Intercambian sonrisas tímidas, comparten un momento de complicidad y se toman un selfie juntos, sonriendo con total naturalidad. Cuando el instante empieza a desvanecerse, él nota un cambio en su expresión y se gira suavemente hacia ella, como si intuyera algo que no logra decir. Ella baja la mirada con una sonrisa agridulce mientras él la observa con preocupación.
+
+Utiliza actores coreanos realistas, expresiones faciales sutiles, movimientos corporales naturales, primeros planos cinematográficos, movimientos de cámara lentos, poca profundidad de campo, iluminación dorada y cálida, tonos otoñales suaves, textura de piel realista, fotografía de calidad cinematográfica, atmósfera emotiva propia de un drama coreano y una banda sonora suave y envolvente.
+
+El final debe resultar hermoso, íntimo y ligeramente agridulce, dejando al espectador intrigado por conocer su historia. Acción real ultrarrealista, sin animación artificial, sin expresiones exageradas, sin texto ni marcas de agua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123049330886283264/img/5mfjiCc9yYnn8JSg.jpg" width="600" alt="Romance Coreano Cinematográfico en Parque de Otoño">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=14022)**
+
+**Autor:** [𝐍𝐚𝐯𝐞𝐞 𝐀𝐢](https://x.com/navi_Ai2) | **Fuente:** [Link](https://x.com/navi_Ai2/status/2123049897717035263) | **Publicado:** Nov 18, 2026
+
+---
+### Prompt de Batalla en Montaña Helada con Jinete de Dragones
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para una escena cinematográfica épica de fantasía que muestra jinetes de dragones luchando sobre montañas heladas con intensos efectos visuales.
+
+#### 📝 Prompt
+
+```
+Escena épica de fantasía cinematográfica con dos poderosos jinetes de dragón enfrentándose en los cielos sobre un reino montañoso congelado. Enormes dragones oscuros de ojos anaranjados y brillantes surcan las nubes de tormenta, mientras sus alas cortan los vientos helados. Dos guerreros acorazados chocan en pleno vuelo, empuñando espadas ardientes y resplandecientes. Los relámpagos rasgan el cielo cuando los dragones desatan llamaradas abrasadoras que iluminan las montañas nevadas y las nubes oscuras. Movimientos de cámara dramáticos, escamas de dragón realistas, armaduras medievales detalladas, cámara lenta cinematográfica, niebla volumétrica, atmósfera intensa, CGI ultrarrealista, calidad IMAX, estética de película de fantasía oscura, 4K, acción fluida, efectos visuales impresionantes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123036836973125632/img/ZqCGu0SCR2K5CpW1.jpg" width="600" alt="Prompt de Batalla en Montaña Helada con Jinete de Dragones">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=14015)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fuente:** [Link](https://x.com/draavenai/status/2123036871651704840) | **Publicado:** Nov 18, 2026
+
+---
+### Chica superheroa coreana rescata a un cachorro de los zombis
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para un video cinematográfico de acción coreana de 30 segundos donde una mujer poderosa lucha contra zombis para salvar a un cachorro. Incluye instrucciones detalladas sobre el estilo visual y la consistencia de los personajes.
+
+#### 📝 Prompt
+
+```
+Crea un video de acción cinematográfico ultrarrealista de 30 segundos con una superheroína coreana.
+
+Un cachorro pequeño y adorable está sentado en el techo de un coche rojo, en un aparcamiento vacío al atardecer. Varios zombis aterradores, con rostros espeluznantes, ropa sucia y movimientos propios de muertos vivientes, rodean el vehículo e intentan atacar y atrapar al indefenso perrito.
+
+De repente, una joven y poderosa mujer coreana, vestida con una chaqueta azul y vaqueros, irrumpe en la escena para salvarlo. Posee superpoderes increíbles, una fuerza sobrehumana y una capacidad de salto extraordinaria. Se enfrenta a los zombis con puñetazos demoledores, patadas y espectaculares saltos por los aires, derrotándolos uno tras otro.
+
+Los zombis intentan desesperadamente alcanzar al cachorro, pero la chica coreana lo protege y lucha contra ellos sin miedo. Finalmente, acaba con todos, recoge al asustado perrito y lo sostiene con ternura entre sus brazos.
+
+Estilo visual: película de acción de zombis de Hollywood, actriz coreana fotorrealista, maquillaje de zombi realista, acrobacias de superhéroe espectaculares, iluminación cinematográfica de hora dorada, movimientos de cámara dinámicos, cámara lenta dramática, físicas realistas y visuales de alta calidad en 4K.
+
+Mantén una apariencia constante de los personajes durante todo el video. Duración: exactamente 30 segundos. Relación de aspecto: 16:9. Sin texto, subtítulos ni marcas de agua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123028060517875712/img/VIP1XrK_ifQubHwY.jpg" width="600" alt="Chica superheroa coreana rescata a un cachorro de los zombis">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=14019)**
+
+**Autor:** [Wania](https://x.com/AIwithWania) | **Fuente:** [Link](https://x.com/AIwithWania/status/2123028132223688868) | **Publicado:** Nov 18, 2026
+
+---
+### Animación de Rayo de Golpe Potente
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de video cinematográfico corto que muestra a un personaje liberando un rayo de energía devastador con una visera ardiente y un vórtice radiante.
+
+#### 📝 Prompt
+
+```
+Golpe de Poder
+
+Con la visera encendiéndose de golpe y un vórtice de energía radiante acumulándose en su mano extendida, desata un rayo devastador que transforma la desesperación en control absoluto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123000428501901312/img/pcppIyF6tPha_oYV.jpg" width="600" alt="Animación de Rayo de Golpe Potente">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=14014)**
+
+**Autor:** [Nothing/AI](https://x.com/Nothingignore1) | **Fuente:** [Link](https://x.com/Nothingignore1/status/2123000476274954635) | **Publicado:** Nov 18, 2026
+
+---
+### Transformación de Jet a Robot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico que muestra un caza de combate futurista transformándose en un robot metálico gigante sobre una ciudad.
+
+#### 📝 Prompt
+
+```
+Un caza futurista se transforma en un robot metálico gigante en pleno vuelo sobre una ciudad bulliciosa, con motores azules resplandecientes, movimientos mecánicos explosivos y ángulos de cámara cinematográficos de acción.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122942117299224576/img/lUZac7YsQE9dDHWo.jpg" width="600" alt="Transformación de Jet a Robot">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13974)**
+
+**Autor:** [Tuseef](https://x.com/Aiwithtuseef) | **Fuente:** [Link](https://x.com/Aiwithtuseef/status/2122942272350409192) | **Publicado:** Nov 18, 2026
+
+---
 ### Animación de la amistad entre un elefante y un ratón
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9098,533 +9566,6 @@ Satisfactorio video ASMR de renovación en una habitación vacía y luminosa con
 **Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2115797490725273924) | **Publicado:** Oct 29, 2026
 
 ---
-### Prompt de Video Xianxia Antiguo para Seedance 2.0 Mini
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt detallado para generar un video cinematográfico de 15 segundos en el estilo Xianxia chino antiguo utilizando Seedance 2.0 Mini, con consistencia de personajes y estructura narrativa.
-
-#### 📝 Prompt
-
-```
-Seedance 2.0 Mini | Xianxia antiguo «La única que suspendió»
-
-Modelo: Seedance 2.0 Mini
-Duración: Estrictamente 15 segundos
-Relación de aspecto: 16:9 horizontal
-Estructura: Tres planos continuos y nítidos con distintas funciones narrativas
-I. Prompt | Estilo general y dirección creativa
-Textura realista cinematográfica, estética pura del Xianxia chino antiguo.
-Elementos centrales:
-Suspenso psicológico
-Sátira social contenida
-Microactuación precisa
-Coreografía de alto nivel para la escena de artes marciales
-Aplicar:
-Iluminación volumétrica natural
-Textura de piel realista
-Movimiento delicado de la seda
-Profundidad de campo cinematográfica
-Contexto creativo
-Inspirado en controversias reales sobre calificaciones de exámenes alteradas, pero la trama se reconstruye por completo como una ficticia prueba de espada en una secta antigua.
-II. Trama central y giro
-Todos asumen que la hermana menor que suspendió carece de talento, pero el problema está en el examen mismo.
-Los demás pueden comprar credenciales falsas para aprobar, mientras ella decide enfrentarse a su verdadero nivel.
-Progresión narrativa en tres capas
-Capa 1: Humillación pública
-150 discípulos participan en la prueba de espada; solo la hermana menor suspende.
-Capa 2: Giro institucional
-El examinador ofrece modificar los resultados a cambio de piedras espirituales, insinuando que las credenciales de los demás también fueron alteradas.
-Capa 3: Decisión consciente
-La hermana menor se niega a comprar la aprobación, renuncia a los certificados falsos y sigue practicando con la espada.
-Emociones centrales
-Primera mitad: Humillación, desconcierto, represión
-Parte media: Impacto, inversión cognitiva
-Segunda mitad: Claridad, contención, nueva determinación
-III. Fijación de personajes y recursos
-@Image1 | Hermana mayor, Inmortal de la Espada
-Misma hermana mayor:
-Mujer asiática oriental de 25-30 años
-Rostro ovalado y pálido
-Ojos oscuros almendrados
-Cabello negro largo, semirrecogido con un pasador de jade blanco
-Figura alta y esbelta
-Mismo Hanfu de seda blanca bordada
-Amplias mangas superpuestas semitransparentes
-Fajín plateado
-Colgante de jade
-Botas de tela blanca
-Porta una espada larga plateada
-@Image2 | Hermana menor
-Misma hermana menor:
-Mujer asiática oriental de 20-25 años
-Rostro redondo y vivaz
-Cabello negro trenzado
-Figura menuda
-Mismo Hanfu de lino azul verdoso
-Cinturón oscuro
-Pasador de madera
-Zapatos de tela negra
-Porta una espada de acero oscuro
-Otros personajes
-Examinador anciano
-Dirige la prueba de espada de la secta, anuncia los resultados y propone alterar las credenciales.
-Discípulos aprobados
-Varios discípulos permanecen a un lado sosteniendo documentos de aprobación idénticos con sello rojo.
-Los demás personajes cumplen únicamente las funciones narrativas necesarias.
-IV. ADN del entorno y planificación espacial
-Todas las imágenes de referencia de fondos o ubicaciones recién subidas definen el mundo físico.
-Fijación de escenas
-Conservar los rasgos reconocibles de las referencias:
-Terreno
-Relaciones espaciales de la arquitectura principal
-Escala espacial
-Materiales
-Clima
-Vegetación
-Iluminación
-Profundidad atmosférica
-Ubicar de forma natural un sencillo escritorio de evaluación de secta antigua dentro del espacio existente.
-No reinventar el mundo de manera arbitraria.
-Principio de fondo vivo
-El entorno permanece vivo:
-La brisa fluye con naturalidad
-Las nubes cambian sin cesar
-La vegetación se mece suavemente
-Las figuras lejanas mantienen una actividad sutil
-Las mangas se mueven según las acciones de los personajes y el viento natural
-El sonido ambiental del espacio persiste
-Neutralidad narrativa
-El fondo se mantiene narrativamente neutral.
-No debe influir activamente en:
-Los resultados del examen
-El comportamiento del examinador
-Las decisiones de los personajes
-Los giros de la trama
-V. Estructura completa del guion gráfico de 15 segundos
-0-5 s | Plano 1: Plano general | Humillación pública, establecer el suspenso
-Diseño de cámara
-Avance lento desde un plano medio largo del lugar de la prueba de espada.
-Espacio y relaciones entre personajes
-Un examinador anciano está de pie junto al escritorio de evaluación.
-Varios discípulos aprobados se encuentran a un lado sosteniendo documentos de aprobación con sello rojo.
-La hermana menor está sola al otro lado.
-La hermana mayor se sitúa detrás de ella, en diagonal.
-Acción y diálogo
-El examinador anuncia públicamente:
-[Examinador] «De 150 personas, solo tú has suspendido».
-Los discípulos alrededor murmuran por lo bajo y reprimen risas.
-La hermana menor no se defiende; baja lentamente la mirada.
-La hermana mayor se mantiene serena y no da un paso al frente de inmediato.
-Contraste visual
-Crear un contraste marcado mediante:
-Los documentos de aprobación con sello rojo en manos de los otros discípulos
-Las manos vacías de la hermana menor
-Objetivo narrativo del Plano 1
-Debe hacer que el espectador se pregunte de forma natural:
-¿Por qué fue la única que suspendió?
-5-10 s | Plano 2: Primer plano medio | Del fracaso al giro institucional
-Requisitos de continuidad
-Mantener la continuidad de:
-La identidad de los personajes
-Los objetos
-Las posiciones espaciales
-Las acciones encubiertas del examinador
-Al notar que la atención cambia, el examinador se inclina ligeramente hacia abajo.
-Saca un documento de aprobación sin sellar de debajo del escritorio y lo desliza en silencio hacia la hermana menor.
-Diálogo
-El examinador susurra:
-[Examinador] «Diez piedras espirituales y te lo arreglo».
-La hermana menor levanta la vista de golpe.
-Reacción de la hermana menor
-No se enfada de inmediato.
-Primero mira los documentos con sello rojo en manos de los demás y luego pregunta despacio:
-[Hermana menor] «¿Ellos también hicieron trampa?».
-El examinador no responde.
-Solo asiente de forma muy leve, pero inconfundible.
-Cámara e interpretación
-La cámara se fija en el rostro de la hermana menor.
-Su verdadera conmoción no es haber suspendido el examen.
-Es comprender que esas notas envidiables quizá no se ganaron con talento.
-Principio de inversión de información
-En este punto:
-No hacen falta flashbacks
-No hace falta explicar cómo se hizo la trampa
-Los mismos documentos con sello rojo, la insinuación del examinador y ese asentimiento bastan para completar la inversión de información.
-10-15 s | Plano 3: Primer plano del personaje | Decisión consciente, resolución emocional
-Acción clave 1: Rechazar la aprobación
-La mano de la hermana menor se extiende lentamente hacia el documento de aprobación sobre el escritorio.
-Justo antes de que las yemas de los dedos toquen el papel, se detiene.
-Luego, empuja con suavidad el documento de vuelta hacia el examinador.
-Restricciones de interpretación
-Nada de:
-Arrojar objetos
-Amenazar desenvainando la espada
-Gritar acusaciones
-Diálogo central
-Mirando al examinador, solo pregunta:
-[Hermana menor] «Cuando vengan los demonios, ¿quién me lo va a arreglar?».
-El examinador se queda paralizado, sin palabras por primera vez.
-Acción clave 2: La hermana mayor interviene
-La hermana mayor avanza medio paso desde detrás de la hermana menor y se coloca a su lado.
-La hermana mayor NO:
-Declara que ella es la verdadera primera
-Exige una nota de aprobado para su hermana
-Solo roza con la punta del dedo la vaina de la espada en la cintura de la hermana menor.
-Y dice con calma:
-[Hermana mayor] «Vamos, a practicar con la espada».
-Cambio emocional de la hermana menor
-La hermana menor la mira.
-Su expresión tensa se relaja poco a poco.
-Se da la vuelta y abandona el escritorio de evaluación junto a la hermana mayor.
-Imagen final y resonancia emocional
-La cámara conserva un breve instante de resonancia emocional final:
-El examinador sigue de pie en su sitio
-El documento de aprobación que podía comprarse permanece sobre el escritorio, sin reclamar
-Resolución narrativa final
-No aprueba el examen de repente ni recibe recompensas ocultas.
-Sigue siendo quien suspendió la prueba de espada.
-Pero por fin sabe qué hacer a continuación.
-VI. Requisitos de ejecución en Seedance 2.0 Mini
-Especificaciones básicas
-Debe generar un video de 15 segundos con Seedance 2.0 Mini
-Duración total estricta: 15 segundos
-Relación de aspecto: 16:9 horizontal
-Tres planos continuos y nítidos con distintas funciones narrativas
-Enfoque de generación del modelo
-Destacar de Seedance 2.0 Mini:
-La coherencia de identidad de las dos protagonistas
-Una jerarquía visual clara
-Pocos nodos de acción, pero precisos
-Movimientos de cámara estables
-Microexpresiones realistas de los personajes
-Sincronización entre diálogos y audio espacial
-VII. Diálogos y sincronización labial
-Los diálogos usan mandarín natural.
-Todos los personajes deben sincronizar perfectamente el movimiento de los labios al hablar.
-Requisitos por hablante
-Cuando habla el examinador, solo él sincroniza los labios
-Cuando habla la hermana menor, solo ella sincroniza los labios
-Cuando habla la hermana mayor, solo ella sincroniza los labios
-En los momentos sin diálogo, expresar la emoción mediante:
-Contacto visual
-Pausas
-Gestos de las manos
-Posicionamiento espacial
-VIII. Continuidad de personajes, objetos y espacio
-Mantener la coherencia de:
-Personajes
-Forma del rostro
-Peinado
-Vestimenta
-Proporciones corporales
-Armas
-La única espada larga plateada de la hermana mayor
-La única espada de acero oscuro de la hermana menor
-Objetos
-Documento de aprobación con sello rojo
-Documento de aprobación sin sellar
-Escritorio de evaluación de la secta antigua
-Espacio
-Posición del examinador
-Posiciones de los demás discípulos
-Posiciones relativas de las hermanas mayor y menor
-Relaciones entre el edificio principal y el terreno
-IX. Sonido y calidad cinematográfica
-Diseño sonoro
-Garantizar la sincronización de:
-Diálogos en mandarín
-Sonido del papel deslizándose
-Roce de las telas
-Golpes suaves en la vaina
-Ambiente espacial natural
-Interpretación y fotografía
-Cantidad de acciones contenida
-Destacar las microexpresiones
-Movimientos de cámara estables
-Jerarquía visual clara
-Relaciones entre personajes y posicionamiento espacial realistas
-Requisitos del fondo
-El fondo permanece vivo de forma natural.
-Pero no tiene ninguna relación causal autónoma con la trampa del examen ni con las decisiones de los personajes.
-X. Prohibiciones estrictas
-No generar subtítulos
-No exigir al modelo que genere texto legible con las calificaciones del examen
-No reinventar de forma arbitraria el entorno de referencia
-Ninguna acción ajena a la trama
-No usar eventos ambientales para impulsar el giro del fraude en el examen
-No cambiar personajes, armas,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115629215962083328/img/7RQmm82Z4u7eouLi.jpg" width="600" alt="Prompt de Video Xianxia Antiguo para Seedance 2.0 Mini">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13129)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2115629293430788360) | **Publicado:** Oct 29, 2026
-
----
-### Prompt de Tráiler Cinematográfico Estilo GTA 6
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un desglose descriptivo de un prompt utilizado para generar un tráiler cinematográfico realista al estilo GTA 6 con Seedance 2.0, destacando ciudades neón, persecuciones en coche y tomas desde helicóptero.
-
-#### 📝 Prompt
-
-```
-Abre con una toma aérea de un atardecer sobrecogedor: una ciudad tropical bañada en neón, con palmeras que destellan contra el cielo. Después, la cámara corta a un deportivo rojo de lujo derrapando por calles mojadas y reflectantes, flanqueadas por coloridos letreros de neón. Vida nocturna, multitudes, clubes; puro caos y energía.
-
-Cuando los coches de policía inician la persecución, la tensión se dispara. Drifts a toda velocidad, desenfoque de movimiento, iluminación volumétrica… todo rebosante de vitalidad y esencia cinematográfica.
-
-Cierra con un hero shot espectacular que domina la ciudad entera, mientras un helicóptero surca el cielo.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2115613087944634369/pu/img/Xt4oFu3EHB78xvtZ.jpg" width="600" alt="Prompt de Tráiler Cinematográfico Estilo GTA 6">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13172)**
-
-**Autor:** [财经世界观](https://x.com/CaijingView) | **Fuente:** [Link](https://x.com/CaijingView/status/2115613143519096838) | **Publicado:** Oct 29, 2026
-
----
-### Video de Renovación de Suelo de Resina con Caléndulas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar un video de renovación fotorrealista que muestra la creación de un suelo con acabado espejo y caléndulas naranjas incrustadas en resina.
-
-#### 📝 Prompt
-
-```
-Un hombre con barba, vestido con un peto vaquero y guantes amarillos, rastrilla un enorme montón de flores de caléndula naranja sobre el suelo de hormigón de una habitación blanca vacía con un gran ventanal que da a unos árboles verdes, extendiendo las flores hasta formar una capa plana y uniforme que cubre todo el suelo. Una mujer rubia con un peto rojo y botas de goma negras vierte una espesa resina epoxi blanca desde un cubo blanco sobre las flores y luego esparce el líquido hacia los bordes hasta que todo el suelo queda recubierto por una resina brillante con las caléndulas suspendidas en su interior. Un operario con un chaleco reflectante amarillo pule el suelo ya endurecido con una pulidora rotativa, logrando una superficie transparente y lisa como un espejo con las brillantes flores naranjas incrustadas debajo. Dos mujeres con traje negro de oficina entran con un somier de madera clara, colocan un colchón encima, visten la cama con ropa de cama color crema y almohadas, añaden una pequeña mesita de noche con una lámpara y salen de la habitación. El plano final revela el dormitorio terminado: una cama perfectamente hecha sobre un espectacular suelo brillante como un espejo, repleto de miles de caléndulas naranjas preservadas bajo la resina transparente, mientras una suave luz del sol entra por la ventana. Video satisfactorio de un proceso de reforma, estilo fotorrealista, cámara cinematográfica fluida, iluminación natural cálida.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115508821292396544/img/jYmX2uIXftEV4Ibi.jpg" width="600" alt="Video de Renovación de Suelo de Resina con Caléndulas">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13126)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fuente:** [Link](https://x.com/Ruslanchain/status/2115508874803400848) | **Publicado:** Oct 28, 2026
-
----
-### Video de Renovación de Piso Epóxico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para Seedance 2.0 que genera un video realista de renovación del hogar, destacando la aplicación de pisos epóxicos y el diseño de interiores.
-
-#### 📝 Prompt
-
-```
-Cámara fija encuadrada desde el marco de una puerta, mirando hacia un dormitorio vacío con paredes blancas de paneles, molduras decorativas y una ventana luminosa. Entra un hombre con camiseta negra, gorra negra y guantes de trabajo, llevando un balde rojo; vierte epoxi rojo brillante sobre el suelo de concreto gris y lo extiende de manera uniforme con una escobilla ancha para pisos hasta que toda la superficie resplandece en un rojo intenso. Luego, vierte líquido blanco desde un balde blanco formando varios charcos circulares sobre la superficie roja; el pigmento blanco florece y se expande de forma orgánica creando intrincadas ramificaciones fractales similares a relámpagos que se extienden por todo el piso. A continuación, aplica una capa transparente de acabado y la alisa con la escobilla, para después pulir la superficie con una máquina pulidora rotativa hasta lograr un brillo de espejo. Sigue un time-lapse acelerado: los trabajadores entran una cama tapizada en blanco con cojines rojos, mesas de noche, cortinas rojas estampadas, cuadros decorativos con ramas de árbol a juego en tonos rojos y lámparas de mesa. El plano final se detiene en el lujoso dormitorio terminado: un suelo rojo brillante con vetas fractales blancas que reflejan la ventana, ropa de cama blanca impecable con detalles en rojo, decoración simétrica, luz natural suave, estilo de video realista de renovación del hogar, movimientos fluidos y alto nivel de detalle.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115506523380092928/img/Zn2zgeM8PTRThRYx.jpg" width="600" alt="Video de Renovación de Piso Epóxico">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13127)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2115506584159969679) | **Publicado:** Oct 28, 2026
-
----
-### Comparación de generación de video ASMR: Seedance 2.0 Mini vs otros
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt detallado para generar un video estilo ASMR que muestra a una mujer cortando y comiendo un pastel disfrazado de piedra, utilizado para comparar Seedance 2.0 Mini con otros modelos de video de IA como Gemini, Meta Muse y Grok.
-
-#### 📝 Prompt
-
-```
-Sobre una manta de picnic junto al río, un guijarro grisáceo descansa en el centro de un plato de madera. Tiene vetas naturales en la superficie y una forma redondeada; es casi idéntico a las piedras reales que lo rodean.
-
-Una joven asiática de figura curvilínea extiende la mano para recogerlo, le da unos golpecitos con cautela y luego lo parte por la mitad con un cuchillo. La fina y crujiente cobertura de chocolate se quiebra y deja al descubierto densas capas de bizcocho de matcha y vainilla. Se detiene un instante, toma una mitad y le da un mordisco; le queda un poco de crema en los labios y no puede evitar sonreír.
-
-Concéntrate en captar el sonido nítido del filo al romper la cobertura, el roce suave del cuchillo al cortar el bizcocho y el leve crujido de las migas al morder. A lo lejos, se escucha apenas el murmullo del agua corriente y el canto de los pájaros.
-Luz natural diurna, estética de foto casual tomada con móvil al aire libre, texturas realistas, movimientos naturales. Sin diálogos, sin música de fondo, relación de aspecto 9:16, 10 segundos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115347738091286529/img/NyA_vpwalRjR94Rz.jpg" width="600" alt="Comparación de generación de video ASMR: Seedance 2.0 Mini vs otros">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13373)**
-
-**Autor:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Fuente:** [Link](https://x.com/DeepBlueX0/status/2115347819557261557) | **Publicado:** Oct 28, 2026
-
----
-### Anuncio de Sérum Labial de Cereza
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de anuncio cinematográfico para Seedance 2.0 que presenta un sérum labial de cereza en un estudio rosa de ensueño.
-
-#### 📝 Prompt
-
-```
-Crea un anuncio cinematográfico ultrarrealista de 10 segundos protagonizado por el Glaze2Glow Cherry Soda Lip Serum en un estudio rosa de ensueño, con telas de satén brillante, atrezo de cristal reluciente y cerezas rojas frescas. Comienza con un plano principal centrado del sérum labial burdeos sobre una plataforma de acrílico transparente, decorada con un lazo de cuadros rojos y blancos y un encantador dije de cereza. Acerca lentamente la cámara hacia el producto para resaltar su elegante envase y su aplicador metálico brillante. Pasa a primeros planos macro extremos del dije de cereza colgante, las cuentas rojas lustrosas y las delicadas hojas verdes, capturando hasta el más mínimo detalle. Muestra cómo el aplicador plateado dispensa un sérum espeso y translúcido de color rojo cereza que gotea lentamente hasta formar un charco brillante. Capta la textura suave del sérum, su brillo húmedo y los hermosos reflejos bajo la iluminación tenue del estudio. Corta a un primer plano de unos labios naturalmente voluminosos mientras se aplica el sérum con suavidad, dejándolos hidratados, con aspecto más relleno y un brillo intenso. Termina con un plano de producto lujoso sobre satén rosa, junto a cristalería centelleante y cerezas frescas, y vuelve después a la composición principal vertical original. Utiliza movimientos de cámara fluidos, poca profundidad de campo, destellos rosas suaves, texturas realistas y una estética propia de un anuncio de belleza premium, manteniendo un diseño de producto coherente durante todo el vídeo, sin textos adicionales ni deformaciones en el envase.
-```
-
-<img src="https://cms-assets.youmind.com/media/1793080709276_92a8ge_HVi6P5tawAArfSE.jpg" width="600" alt="Anuncio de Sérum Labial de Cereza">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13099)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fuente:** [Link](https://x.com/Aiwithmaha/status/2114644821101171101) | **Publicado:** Oct 26, 2026
-
----
-### Prompt de Video Cinematográfico de Auto de Lujo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar un video publicitario de alta gama que muestra un auto elegante circulando por la ciudad durante la hora dorada.
-
-#### 📝 Prompt
-
-```
-Crea un video cinematográfico de un coche de lujo con un vehículo elegante y premium recorriendo una hermosa ciudad durante la hora dorada. Utiliza planos de seguimiento fluidos, iluminación dramática, reflejos brillantes, movimientos de cámara estilizados, detalles realistas y una atmósfera lujosa. Añade momentos en cámara lenta, poca profundidad de campo y calidad 4K ultrarrealista. Haz que el video se vea elegante, potente y profesional, como un anuncio de automóviles de alta gama.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114590476737351680/img/kQI-v6EFDOPArwLi.jpg" width="600" alt="Prompt de Video Cinematográfico de Auto de Lujo">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13046)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2114590512208638086) | **Publicado:** Oct 26, 2026
-
----
-### Encuentro en la calle durante la hora dorada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para generar un video cinematográfico de una mujer que se encuentra con un motorista en una calle residencial durante la hora dorada.
-
-#### 📝 Prompt
-
-```
-Crea un vídeo cinematográfico ultrarrealista de 30 segundos en una tranquila calle residencial, bañada por la cálida luz de la hora dorada. Una joven hermosa de cabello corto azul claro camina hacia la cámara vistiendo un minivestido blanco, una rebeca azul claro y zapatillas blancas. De pronto se percata de algo, da media vuelta y corre hacia un pequeño objeto que hay en el suelo, perdiendo el equilibrio sin querer cerca de un joven que va en un patinete eléctrico amarillo. El chico, que lleva una sudadera roja y pantalones negros, frena el patinete de inmediato cuando ella se le acerca. Pierde el equilibrio y cae a la calle mientras el patinete se vuelca de lado a su lado. La mujer se detiene frente a él con expresión de preocupación mientras él empieza a levantarse y alza el patinete del suelo. Él se pone en pie, estabiliza el patinete y mira a la mujer, que lo observa con calma. Después, ella se da la vuelta y sigue caminando por la calle hacia la cámara con semblante relajado. Emplea un seguimiento de cámara fluido y cinematográfico, movimientos corporales realistas, expresiones faciales naturales, texturas detalladas en la ropa, luz solar cálida, sombras suaves y una profundidad de campo reducida para lograr una estética de cine pulida y muy realista.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114561073164800000/img/1oWqWOdW3ql0CX1u.jpg" width="600" alt="Encuentro en la calle durante la hora dorada">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13044)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fuente:** [Link](https://x.com/Aiwithmaha/status/2114561253398261881) | **Publicado:** Oct 26, 2026
-
----
-### Prompt de Vlog de Cocina Seedance 2.0 con Consistencia de Personaje
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt detallado para generar un vlog de cocina vertical de 10 segundos usando Seedance 2.0. Especifica la consistencia del personaje entre planos, el uso de utensilios (pinzas/espátula), las condiciones de iluminación y los movimientos de cámara para crear un video corto realista con estilo casero.
-
-#### 📝 Prompt
-
-```
-Personaje:
-Rostro: El aspecto, las facciones, el peinado, el color de cabello y el maquillaje siguen estrictamente la imagen de referencia del primer plano.
-Vestimenta y cuerpo: El atuendo, los accesorios y las proporciones corporales siguen estrictamente la imagen de referencia del vestido blanco crema con mariposas (vestido crema sin hombros + accesorio de mariposa para el cabello); la vista trasera del Plano 2 coincide con la vestimenta de la vista frontal.
-Consistencia: Es la misma persona en los 4 planos; el rostro y la ropa se mantienen constantes en todo momento, sin cambios tras los cortes; el reflejo en el espejo del Plano 2 también corresponde a la misma persona y al mismo atuendo.
-
-Atrezo:
-Plano 1: Unas pinzas de cocina negras.
-Plano 4: Una espátula negra.
-
-Escena:
-Una cocina doméstica conectada a una sala de estar a través de un vano de puerta.
-
-Cocina: Paredes con azulejos de textura de mármol blanco, estufa negra con un wok, frascos de condimentos y bloque de cuchillos sobre la encimera; puerta blanca de la cocina, farolillos rojos colgando cerca del techo.
-Sala de estar: Suelo de madera clara, espejo de cuerpo entero detrás de la puerta, gato negro en el suelo.
-
-Iluminación:
-Luz natural de interior, suave y uniforme, tono blanco grisáceo frío, limpia y transparente.
-
-Guion gráfico (Storyboard)
-Plano 1 | 0,00–3,27 s | Primer plano con gran angular, interactuando con la cámara mientras sostiene unas pinzas de cocina
-
-Posición de la cámara: Teléfono muy cerca de la protagonista, ángulo ligeramente picado, lente gran angular, encuadre del rostro y la parte superior del cuerpo; el fondo muestra la pared de azulejos, la puerta blanca y el wok negro sobre la estufa.
-0,00–0,60 s: La protagonista mira hacia abajo con una leve sonrisa; la mano izquierda sostiene las pinzas negras en la esquina inferior izquierda del encuadre.
-0,60–1,00 s: Levanta la cabeza para mirar a la cámara, que se acerca ligeramente.
-1,00–1,60 s: Mira a la cámara, las comisuras de los labios se elevan y las pinzas se desplazan hacia el borde izquierdo del encuadre.
-1,60–2,00 s: Extiende las pinzas hacia la cámara; las puntas aparecen en el primer plano izquierdo con efecto bokeh.
-2,00–2,60 s: Abre y cierra las pinzas varias veces frente a la cámara, entrecerrando ligeramente los ojos con una sonrisa juguetona.
-2,60–3,27 s: Las pinzas se retiran hacia la izquierda, la protagonista sonríe a la cámara con movimientos elegantes y serenos. Transición de fundido cruzado de 0,3 s en el segundo 3,27.
-
-Plano 2 | 3,27–4,70 s | Escena frente al espejo de cuerpo entero, de espaldas a la cámara y luego girándose
-
-Posición de la cámara: Detrás de la protagonista, ligeramente a la derecha, a la altura de los ojos, plano medio. La mitad izquierda muestra su reflejo frontal en el espejo y la derecha, su espalda; gato negro en el suelo de madera.
-3,27–4,00 s: De pie, de espaldas a la cámara y frente al espejo, con una mano en la cadera y la otra tocando el borde del espejo; su reflejo se observa a sí misma.
-4,00–4,20 s: Gira la cabeza por encima del hombro para mirar a la cámara.
-4,20–4,70 s: Queda de frente a la cámara con expresión serena; el reflejo gira hasta mostrar el perfil, con movimientos elegantes. Transición de fundido cruzado de 0,3 s en el segundo 4,70.
-
-Plano 3 | 4,70–5,50 s | Plano cenital desde un ángulo alto, de pie junto a la estufa
-
-Posición de la cámara: Desde una esquina alta de la cocina, mirando hacia abajo en plano general, con lente gran angular que muestra la estufa negra, el wok, los condimentos y la puerta blanca.
-4,70–5,50 s: De pie junto a la estufa con las manos a la espalda, levanta la mirada y sonríe a la cámara mientras balancea ligeramente el cuerpo, con movimientos elegantes. Transición de fundido cruzado de 0,3 s en el segundo 5,50.
-
-Plano 4 | 5,50–10,00 s | Sosteniendo una espátula, primeros planos de expresiones faciales
-
-Posición de la cámara: Teléfono cerca de la protagonista, ángulo ligeramente picado, lente gran angular con encuadre desde el pecho hacia arriba. El fondo muestra la puerta blanca, el tirador, los azulejos de mármol, el wok negro y los farolillos rojos.
-5,50–6,00 s: Sostiene la espátula negra a la altura del hombro con la cabeza erguida, sonriendo a la cámara.
-6,00–8,00 s: Dice la frase «¿Es fácil de usar esta espátula?» mientras sonríe.
-8,00–8,40 s: Levanta las cejas mirando a la cámara, con las comisuras de los labios elevándose de forma natural.
-8,40–10,00 s: Mantiene una sonrisa cálida y relajada mirando a la cámara, con la espátula junto al hombro; la sonrisa perdura hasta la congelación de imagen final. Transiciones fluidas y continuas, sin saltos de fotogramas ni cambios bruscos de postura.
-
-Estilo:
-Estilo vlog casero de TikTok/Xiaohongshu, calidad original de cámara de teléfono con gran angular, filtro de belleza/suavizado de piel aplicado, cutis claro y translúcido. Luz natural, tono blanco frío, fotorrealista, HD, expresiones naturales y llenas de vida; actitud general elegante y serena, movimientos lentos y fluidos, nada exagerados ni apresurados.
-
-Audio:
-Música animada continua (instrumental alegre de ukelele/acordeón), con fundidos cruzados en los cortes sin interrupciones. En el Plano 4, voz clara y natural diciendo «¿Es fácil de usar esta espátula?», con la música bajada de volumen pero sin tapar la voz. No hay otras voces humanas, gritos, risas ni sonidos extraños aparte de esta frase.
-
-Parámetros:
-Pantalla vertical 9:16, 10,00 segundos, 30 fps, fotorrealista, 4 planos.
-
-Prompt negativo: Cambio de rostro, cambio de ropa, alteración del aspecto del personaje tras los cortes, reflejo en el espejo distinto a la persona real, reflejo que se convierte en otra persona, rasgos distorsionados, ceño fruncido, cara triste, labios apretados, dedos deformes, pinzas/espátula deformes, brazos adicionales, distorsión grave por gran angular, parpadeo de imagen, baja resolución, marcas de agua, subtítulos, saltos de fotogramas, saltos bruscos de movimiento, cambios repentinos de postura, voces humanas extrañas, gritos, risas inexplicables
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114557197678182400/img/dvzcO0zc7JT-ziP5.jpg" width="600" alt="Prompt de Vlog de Cocina Seedance 2.0 con Consistencia de Personaje">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13048)**
-
-**Autor:** [单引号](https://x.com/DengYH803) | **Fuente:** [Link](https://x.com/DengYH803/status/2114557242569867559) | **Publicado:** Oct 26, 2026
-
----
-### Video de un gato antropomórfico bailando
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt detallado para generar un video fotorrealista de un gato antropomórfico bailando con camisa y pantalones, enfatizando la estabilidad anatómica y el movimiento rítmico.
-
-#### 📝 Prompt
-
-```
-**DURACIÓN:** 8 segundos  
-**FORMATO:** Vertical 9:16, fotorrealismo cinematográfico  
-**REFERENCIA:** Usa la imagen del gato subida como referencia exacta para el primer fotograma y para el personaje.
-
-**CONSISTENCIA DEL PERSONAJE:** Exactamente el mismo gato atigrado de color naranja y crema, con la misma camisa casual rosa abotonada y los mismos pantalones beige. Mantén su rostro original, la forma de los ojos, las orejas, las marcas del pelaje, las proporciones corporales, la vestimenta y la cola intactos durante todo el video.
-
-**MÚSICA:** Instrumental de dance-pop contemporáneo, rítmico y con mucho estilo, con un bajo profundo y con groove, percusión nítida y ritmos elegantes de club. La música empieza de inmediato. Los movimientos de baile deben ir al compás del ritmo.
-
-**COREOGRAFÍA:**
-
-**0–2 segundos:** El gato comienza de pie, en una postura relajada y segura. Hace un movimiento fluido de hombros, una sutil aislación de pecho y balancea las caderas de lado a lado de forma controlada, sin dejar de mirar a la cámara.
-
-**2–4 segundos:** El gato ejecuta un juego de pies limpio y con estilo, dando pasos a la derecha y a la izquierda mientras mueve los brazos rítmicamente por delante del torso. Movimientos naturales de muñecas, codos relajados y un groove controlado en la parte superior del cuerpo.
-
-**4–6 segundos:** El gato hace una onda corporal fluida, un two-step seguro y movimientos coordinados de brazos. Su torso y sus caderas se mueven de forma independiente, con un estilo de baile físicamente coherente y muy humano.
-
-**6–8 segundos:** El gato da dos pasos marcados que coinciden exactamente con el ritmo, hace un movimiento seco de hombros (shoulder pop) y termina con una pose genial y segura mirando a la cámara.
-
-**CONTROL CRÍTICO DE CABEZA Y CUELLO:** La cabeza del gato debe mantenerse anatómicamente estable y conectada de forma natural al cuello. Solo se permiten inclinaciones sutiles y realistas, además de pequeños movimientos sincronizados con el ritmo. La cabeza NUNCA debe girar 360 grados, echarse hacia atrás, torcerse de forma antinatural, desprenderse ni rotar de manera independiente al resto del cuerpo. Los ojos, las orejas, el hocico y la estructura facial deben ser consistentes en cada fotograma.
-
-**BLOQUEO DE REALISMO:** Transferencia natural del peso, pies bien apoyados en el suelo, equilibrio creíble, transiciones fluidas entre los pasos de baile, física realista del pelaje y la tela, sombras consistentes, movimiento continuo y anatomía estable. Un solo plano ininterrumpido, con la cámara fija mostrando el cuerpo entero y sin movimientos bruscos.
-
-**RESTRICCIONES NEGATIVAS:** Nada de movimientos de caricatura, ni bailes infantiles, ni expresiones faciales exageradas, ni extremidades de goma, ni flexiones antinaturales de la columna, ni torsiones de cuello, ni cabezas girando, ni extremidades extra, ni deformaciones del rostro, ni cambios de ropa, ni flotaciones, ni parpadeos visuales, ni saltos bruscos de pose, ni movimientos que parezcan artificiales.
-
-**RESULTADO FINAL:** Una actuación de baile con estilo, seguridad y aire adulto, protagonizada por el mismo gato antropomórfico fotorrealista, con una coreografía fluida, movimientos naturales de cabeza y una dinámica física totalmente convincente.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114406485530972160/img/3zdH9KBkn5jnuVy0.jpg" width="600" alt="Video de un gato antropomórfico bailando">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13047)**
-
-**Autor:** [M. Asif](https://x.com/meAsifAi) | **Fuente:** [Link](https://x.com/meAsifAi/status/2114406947558764575) | **Publicado:** Oct 25, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -9686,6 +9627,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-19T02:02:47.645Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-19T12:53:36.415Z</sub>
 
 </div>
