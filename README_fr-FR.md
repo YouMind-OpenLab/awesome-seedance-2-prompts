@@ -68,9 +68,9 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6705** |
+| 📝 Total des prompts | **6708** |
 | ⭐ Prompts en vedette | **6** |
-| 🔄 Dernière mise à jour | **2026-11-19** |
+| 🔄 Dernière mise à jour | **2026-11-20** |
 
 ---
 
@@ -361,6 +361,63 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Prompt de coup d'épée de guerrier chinois ancien
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une scène de fantasy cinématographique d'un guerrier sur une falaise effectuant un puissant coup d'épée avec des effets d'énergie magique, sur fond de coucher de soleil dramatique.
+
+#### 📝 Prompt
+
+```
+Un guerrier de fantasy chinoise antique au rendu cinématographique se tient debout sur une immense falaise rocheuse lors d'un coucher de soleil dramatique. Il porte une élégante robe de combat noire et or brodée de motifs de dragons complexes, et brandit une longue épée légendaire. De sombres montagnes s'étendent à l'horizon sous un ciel flamboyant aux teintes orange et violettes. Le guerrier lève lentement son épée tandis qu'une fumée noire mystérieuse et une énergie magique obscure tourbillonnent autour de lui. Il exécute une frappe d'épée d'une puissance redoutable, libérant une vague d'énergie surnaturelle qui fissure les rochers alentour et les fait exploser en une pluie de débris. Plans rapprochés dramatiques, mouvements de caméra dynamiques, physique des tissus réaliste, design d'épée détaillé, atmosphère d'arts martiaux épique, éclairage cinématographique, CGI 3D ultra-réaliste, qualité de film de fantasy en 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123635098079932416/img/uLefYcbYQHX-Mzt0.jpg" width="600" alt="Prompt de coup d'épée de guerrier chinois ancien">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14050)**
+
+**Auteur:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2123635495976788233) | **Publié:** Nov 20, 2026
+
+---
+### Prompt de Bataille contre un Dragon Sorcier Obscur
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une scène vidéo de dark fantasy où un sorcier éveille un dragon d'une orbe magique, mettant en vedette des effets CGI épiques et un éclairage dramatique.
+
+#### 📝 Prompt
+
+```
+Un puissant sorcier de dark fantasy, revêtu d'une majestueuse armure noire et argentée aux motifs de dragon, se tient debout sur un mystérieux champ de bataille volcanique sous un ciel d'orage. Il tient dans sa main un orbe magique incandescent d'énergie orange, renfermant un dragon miniature entouré de flammes tourbillonnantes. La caméra s'approche lentement pour révéler les détails complexes de l'armure et les symboles de dragons lumineux. Soudain, l'orbe magique libère un immense dragon de feu qui surgit derrière lui, déployant ses ailes gigantesques et ses yeux flamboyants. Des guerriers en armures sombres se rassemblent au premier plan tandis que des éclairs illuminent le champ de bataille. Atmosphère de fantasy épique, mouvements de caméra cinématographiques, effets de feu réalistes, éclairage dramatique, CGI 3D ultra-détaillée, qualité de film 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123414725770047489/img/0xROez1DAQ-Q6r1J.jpg" width="600" alt="Prompt de Bataille contre un Dragon Sorcier Obscur">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14048)**
+
+**Auteur:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2123414771961872677) | **Publié:** Nov 19, 2026
+
+---
+### Vidéo de dark fantasy : Le Guerrier Doré
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt vidéo cinématographique de dark fantasy mettant en scène un guerrier en armure dorée qui éveille son pouvoir dans un village nocturne d'inspiration chinoise ancienne, affrontant un dragon.
+
+#### 📝 Prompt
+
+```
+Une scène de dark fantasy cinématographique à couper le souffle, se déroulant de nuit dans un ancien village d'inspiration chinoise. Un guerrier mystérieux, revêtu d'une somptueuse armure noire et or ornée de motifs magiques luminescents, traverse une cour pavée de pierres baignée d'une atmosphère envoûtante. Son armure irradie une puissante énergie dorée, tandis qu'une lumière flamboyante illumine sa silhouette. En arrière-plan, un gigantesque dragon ténébreux émerge d'une brume épaisse sous l'éclat d'une pleine lune éclatante. Des temples asiatiques traditionnels, des lanternes rouges chatoyantes, des nuages d'orage dramatiques, des étincelles flottantes et des particules magiques composent une ambiance véritablement épique. Le guerrier dégaine son épée bleue incandescente et libère une attaque d'énergie dévastatrice, provoquant une spectaculaire explosion dorée. Mouvements de caméra cinématographiques fluides, gros plans saisissants, CGI 3D ultra-détaillée, éclairage réaliste, style film de fantasy, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123315199448911872/img/Eggu9RYbTrrzzBkY.jpg" width="600" alt="Vidéo de dark fantasy : Le Guerrier Doré">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14049)**
+
+**Auteur:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2123315564932223039) | **Publié:** Nov 19, 2026
+
+---
 ### Combat réaliste dans un train : action surnaturelle
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9237,63 +9294,6 @@ Une vidéo cinématographique réaliste à l'intérieur d'une pièce vide et lum
 **Auteur:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2115914032884613494) | **Publié:** Oct 29, 2026
 
 ---
-### Sol en Terrazzo Verre de Mer pour Chambre à Coucher
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une vidéo documentaire sur un processus de rénovation où du verre de mer coloré est intégré dans de la résine époxy pour créer un sol en terrazzo scintillant dans une nouvelle chambre.
-
-#### 📝 Prompt
-
-```
-Vidéo au format vertical, pièce vide et lumineuse aux murs blancs, avec une grande fenêtre à cadre noir et un sol en béton brut. Un homme vêtu d'une salopette bleu marine et d'un t-shirt noir ratisse un immense tas de verre de mer coloré dans des tons de bleu, de vert et de transparent, qu'il répartit uniformément sur le sol. Une femme en salopette rouge s'agenouille et verse de la résine époxy blanc laiteux depuis des seaux blancs sur le verre, pendant qu'il l'étale à l'aide d'une raclette. Transition en accéléré montrant la résine qui durcit pour former une surface brillante. Des ouvriers en t-shirts noirs, dont l'un porte un gilet de sécurité jaune fluo, poncent et polissent le sol avec une ponceuse autoportée et un aspirateur, révélant un sol lisse façon terrazzo, parsemé d'éclats de verre qui scintillent à la lumière du jour. Montage en accéléré : deux ouvriers assemblent un cadre de lit en bois, installent les lattes, le matelas et une literie beige aux tons neutres. Plan fixe final sur la chambre douillette achevée, avec son sol étincelant en verre recyclé, le lit en bois, les tables de nuit, les lampes et les arbres verts visibles par la fenêtre. Style documentaire réaliste, éclairage naturel, mouvements de caméra fluides, processus de rénovation satisfaisant.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115913011823083520/img/i026LEQVmCZad7rf.jpg" width="600" alt="Sol en Terrazzo Verre de Mer pour Chambre à Coucher">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13170)**
-
-**Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2115913066776785313) | **Publié:** Oct 29, 2026
-
----
-### Transformation du sol : des galets au terrazzo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo en time-lapse montrant la transformation de galets orange en un sol de chambre à coucher style terrazzo poli avec résine époxy, incluant l'assemblage de la pièce.
-
-#### 📝 Prompt
-
-```
-Vidéo verticale dans une pièce vide et lumineuse aux murs blancs, avec une grande fenêtre laissant voir des arbres verts à l'extérieur. Un homme en salopette bleue ratisse un énorme tas de galets orange brillants sur le sol en béton brut, les répartissant uniformément dans toute la pièce. Des ouvriers en salopette rouge versent de la résine époxy blanche autonivelante depuis des seaux sur les galets, puis l'étalent à l'aide de raclettes et de rouleaux de peinture jusqu'à obtenir une surface plane, lisse et brillante. Accéléré montrant un ouvrier portant un gilet jaune haute visibilité et un masque respiratoire, qui ponce le sol durci avec une polisseuse, révélant une surface façon terrazzo parsemée de galets orange ronds. Accéléré rapide de l'aménagement de la pièce : montage d'un cadre de lit en bois habillé de draps blancs et d'oreillers beiges, ajout d'une table de nuit avec lampe et accrochage d'une œuvre d'art abstrait encadrée au mur. Plan fixe final d'une chambre douillette entièrement terminée, dont le sol en galets orange polis scintille sous une douce lumière naturelle. Photoréaliste, accéléré de rénovation satisfaisant, mouvement de caméra fluide, éclairage naturel chaleureux.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115798362968424448/img/9CgbjQwDDoeZVfXq.jpg" width="600" alt="Transformation du sol : des galets au terrazzo">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13168)**
-
-**Auteur:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2115798407444918459) | **Publié:** Oct 29, 2026
-
----
-### Sol Miroir en Pièces Auto Rouillées
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour une vidéo ASMR de rénovation montrant des pièces automobiles rouillées recouvertes de résine époxy et polies pour révéler un sol miroir avec des silhouettes incrustées, suivi du montage d'une chambre à coucher.
-
-#### 📝 Prompt
-
-```
-Vidéo ASMR de rénovation ultra satisfaisante dans une pièce vide et lumineuse aux murs blancs, dotée d'une grande fenêtre laissant entrevoir des arbres verdoyants et d'un sol en béton brut. Un homme barbu vêtu d'une salopette bleue se sert d'un long râteau pour répartir uniformément un immense amas de portières, capots et panneaux de voiture rouillés sur le sol, en les alignant bien à plat côte à côte. Une femme en salopette rouge verse ensuite, depuis un seau, une épaisse résine époxy autonivelante blanche sur les pièces métalliques rouillées ; le liquide brillant s'étale et recouvre l'ensemble pour former une surface lisse et laiteuse. Une fois le durcissement terminé, un ouvrier portant un gilet jaune haute visibilité pousse une ponceuse-polisseuse de sol sur toute la surface, dévoilant peu à peu les contours nets des pièces automobiles incrustées sous un revêtement blanc miroir qui reflète la lumière du jour. Enfin, deux ouvriers en uniforme noir et gants roses apportent un sommier métallique noir, y installent un matelas et habillent le lit d'une parure de lit grise et d'oreillers, achevant ainsi une chambre moderne. Panoramiques fluides et zooms délicats accompagnent l'action, lumière naturelle, détails hyperréalistes, montage de transformation satisfaisant, format vertical.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115797448610242561/img/8FXa9w6moNFSBAWO.jpg" width="600" alt="Sol Miroir en Pièces Auto Rouillées">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13171)**
-
-**Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2115797490725273924) | **Publié:** Oct 29, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -9355,6 +9355,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-19T23:21:44.751Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-20T06:14:35.658Z</sub>
 
 </div>

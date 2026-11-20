@@ -68,9 +68,9 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6705** |
+| 📝 Total de prompts | **6708** |
 | ⭐ Prompts destacados | **6** |
-| 🔄 Última actualización | **2026-11-19** |
+| 🔄 Última actualización | **2026-11-20** |
 
 ---
 
@@ -361,6 +361,63 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Prompt de Golpe de Espada de Guerrero Chino Antiguo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar una escena fantástica cinematográfica de un guerrero en un acantilado ejecutando un poderoso golpe de espada con efectos de energía mágica, ambientada contra un dramático atardecer.
+
+#### 📝 Prompt
+
+```
+Un guerrero de fantasía de la antigua China, con estilo cinematográfico, de pie sobre un imponente acantilado rocoso durante un atardecer dramático. Viste una elegante túnica de combate negra y dorada bordada con intrincados patrones de dragones, y empuña una larga espada legendaria. Montañas oscuras se extienden por el horizonte bajo un cielo resplandeciente en tonos naranjas y púrpuras. El guerrero levanta lentamente su espada mientras un misterioso humo negro y una energía mágica oscura giran alrededor de su cuerpo. Ejecuta un poderoso tajo que libera una ola de energía sobrenatural, provocando que las rocas a su alrededor se agrieten y estallen lanzando escombros por los aires. Planos cerrados dramáticos, movimientos de cámara dinámicos, física de telas realista, diseño detallado de la espada, atmósfera épica de artes marciales, iluminación cinematográfica, CGI 3D ultrarrealista, calidad de película de fantasía en 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123635098079932416/img/uLefYcbYQHX-Mzt0.jpg" width="600" alt="Prompt de Golpe de Espada de Guerrero Chino Antiguo">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14050)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fuente:** [Link](https://x.com/draavenai/status/2123635495976788233) | **Publicado:** Nov 20, 2026
+
+---
+### Prompt de Batalla del Dragón Hechicero Oscuro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar una escena de video de fantasía oscura donde un hechicero despierta a un dragón desde un orbe mágico, con efectos CGI épicos e iluminación dramática.
+
+#### 📝 Prompt
+
+```
+Un poderoso hechicero de fantasía oscura, vestido con una majestuosa armadura negra y plateada con motivos de dragón, se alza en un misterioso campo de batalla volcánico bajo un cielo tormentoso. En su mano sostiene un brillante orbe mágico de energía naranja que encierra un dragón en miniatura envuelto en llamas arremolinadas. La cámara avanza lentamente para revelar los intrincados detalles de la armadura y los símbolos de dragón resplandecientes. De pronto, el orbe mágico libera un enorme dragón de fuego que se eleva a sus espaldas, desplegando sus alas colosales y unos ojos incandescentes. Guerreros con armaduras oscuras se congregan en primer plano mientras los relámpagos iluminan el campo de batalla. Atmósfera épica de fantasía, movimientos de cámara cinematográficos, efectos de fuego realistas, iluminación dramática, CGI 3D ultradetallado, calidad de película en 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123414725770047489/img/0xROez1DAQ-Q6r1J.jpg" width="600" alt="Prompt de Batalla del Dragón Hechicero Oscuro">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14048)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fuente:** [Link](https://x.com/draavenai/status/2123414771961872677) | **Publicado:** Nov 19, 2026
+
+---
+### Video de Fantasía Oscura: Guerrero Dorado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de video cinematográfico de fantasía oscura que presenta a un guerrero con armadura dorada despertando su poder en una aldea nocturna inspirada en la antigua China, luchando contra un dragón.
+
+#### 📝 Prompt
+
+```
+Una escena cinematográfica de fantasía oscura impresionante, ambientada de noche en una antigua aldea inspirada en China. Un guerrero misterioso con una magnífica armadura negra y dorada, adornada con patrones mágicos brillantes, camina por un patio de piedra lleno de atmósfera. Su armadura irradia una poderosa energía dorada, mientras una luz ardiente ilumina su cuerpo. Al fondo, un gigantesco dragón envuelto en sombras emerge entre una densa niebla bajo una luna llena resplandeciente. Templos asiáticos tradicionales, faroles rojos luminosos, nubes de tormenta dramáticas, chispas flotantes y partículas mágicas crean una atmósfera épica. El guerrero desenvaina su espada azul brillante y desata un poderoso ataque de energía que provoca una espectacular explosión dorada. Movimientos de cámara cinematográficos y fluidos, primeros planos dramáticos, CGI 3D ultradetallado, iluminación realista, estilo de película de fantasía, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123315199448911872/img/Eggu9RYbTrrzzBkY.jpg" width="600" alt="Video de Fantasía Oscura: Guerrero Dorado">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14049)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fuente:** [Link](https://x.com/draavenai/status/2123315564932223039) | **Publicado:** Nov 19, 2026
+
+---
 ### Acción sobrenatural en tren con combate fotorrealista
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9482,63 +9539,6 @@ Un video cinematográfico realista dentro de una habitación vacía y luminosa c
 **Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fuente:** [Link](https://x.com/Ruslanchain/status/2115914032884613494) | **Publicado:** Oct 29, 2026
 
 ---
-### Piso de Terrazo con Vidrio Marino para Dormitorio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para generar un video estilo documental del proceso de renovación, donde se incrustan vidrios marinos coloridos en resina epoxi para crear un piso de terrazo brillante en un dormitorio nuevo.
-
-#### 📝 Prompt
-
-```
-Video vertical, habitación vacía y luminosa con paredes blancas, una ventana grande con marco negro y piso de concreto pulido. Un hombre con overol azul marino y camiseta negra rastrilla un enorme montón de vidrios de mar de colores en tonos azules, verdes y transparentes, esparciéndolos de manera uniforme por el suelo. Una mujer con overol rojo se arrodilla y vierte resina epoxi blanco lechoso desde cubetas blancas sobre los vidrios, mientras él la extiende con un rodillo de goma. Transición en time-lapse mientras la resina se endurece hasta formar una superficie brillante. Trabajadores con camisetas negras y uno con chaleco de seguridad amarillo neón pulen el piso con una pulidora manual y una aspiradora, revelando un suelo liso tipo terrazo lleno de fragmentos de vidrio que destellan bajo la luz natural. Montaje en cámara rápida: dos trabajadores arman una base de cama de madera, colocan las tablillas, el colchón y ropa de cama en tono beige neutro. Toma estática final del acogedor dormitorio terminado, con el deslumbrante piso de vidrio reciclado, la cama de madera, las mesas de noche, las lámparas y unos árboles verdes que se ven a través de la ventana. Estilo documental realista, iluminación natural, cámara fluida, proceso de remodelación satisfactorio.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115913011823083520/img/i026LEQVmCZad7rf.jpg" width="600" alt="Piso de Terrazo con Vidrio Marino para Dormitorio">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13170)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2115913066776785313) | **Publicado:** Oct 29, 2026
-
----
-### Transformación de suelo de guijarros a terrazo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de video en time-lapse que muestra el proceso de convertir guijarros naranjas en un piso de dormitorio estilo terrazo pulido con resina epoxi, incluyendo la instalación de la habitación.
-
-#### 📝 Prompt
-
-```
-Video vertical en una habitación vacía y luminosa, con paredes blancas y un gran ventanal que deja ver árboles verdes afuera. Un hombre con overol azul rastrilla un enorme montón de piedras anaranjadas y brillantes sobre el piso de concreto desnudo, distribuyéndolas de manera uniforme por todo el cuarto. Trabajadores con overoles rojos vierten resina epoxi blanca autonivelante desde cubetas sobre las piedras y luego la esparcen con jaladores y rodillos hasta lograr una superficie plana, lisa y brillante. Timelapse de un trabajador con chaleco reflectante amarillo y respirador puliendo el piso ya endurecido con una máquina pulidora, lo que revela una superficie tipo terrazo salpicada de piedras redondas anaranjadas. Timelapse rápido del armado de la habitación: se arma una base de cama de madera, se viste con sábanas blancas y cojines beige, se añade una mesa de noche con lámpara y se cuelgan cuadros abstractos enmarcados en la pared. Toma final estática de una acogedora habitación terminada, donde el piso de piedras anaranjadas pulidas brilla bajo la suave luz natural del día. Fotorrealista, timelapse de remodelación satisfactorio, movimiento de cámara fluido, iluminación natural cálida.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115798362968424448/img/9CgbjQwDDoeZVfXq.jpg" width="600" alt="Transformación de suelo de guijarros a terrazo">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13168)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fuente:** [Link](https://x.com/Ruslanchain/status/2115798407444918459) | **Publicado:** Oct 29, 2026
-
----
-### Piso espejo con piezas de auto oxidadas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para un video ASMR de renovación que muestra piezas de auto oxidadas cubiertas con resina epóxica y pulidas hasta revelar un piso tipo espejo con siluetas incrustadas, seguido del montaje del dormitorio.
-
-#### 📝 Prompt
-
-```
-Satisfactorio video ASMR de renovación en una habitación vacía y luminosa con paredes blancas, un gran ventanal que deja ver árboles verdes y piso de concreto desnudo. Un hombre con barba y overol azul usa un rastrillo largo para esparcir uniformemente por el suelo una enorme pila de puertas, capós y paneles oxidados de autos, acomodándolos planos uno al lado del otro. Luego, una mujer con overol rojo vierte desde una cubeta una espesa resina epoxi autonivelante blanca sobre las piezas de metal oxidadas; el líquido brillante se expande y lo cubre todo hasta formar una superficie lisa y lechosa. Una vez seca, un trabajador con chaleco amarillo de alta visibilidad pasa una máquina pulidora y esmeriladora de pisos por la superficie, revelando poco a poco las siluetas nítidas de las autopartes incrustadas bajo un piso blanco con brillo de espejo que refleja la luz del día. Por último, dos trabajadores con uniforme negro y guantes rosas entran una base de cama metálica negra, le colocan un colchón y visten la cama con ropa de cama y almohadas grises, dando vida a un dormitorio moderno. Paneos suaves y acercamientos lentos siguen la acción, luz natural, detalles hiperrealistas, montaje de transformación satisfactorio, formato vertical.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115797448610242561/img/8FXa9w6moNFSBAWO.jpg" width="600" alt="Piso espejo con piezas de auto oxidadas">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13171)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2115797490725273924) | **Publicado:** Oct 29, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -9600,6 +9600,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-19T23:21:42.986Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-20T06:14:33.041Z</sub>
 
 </div>

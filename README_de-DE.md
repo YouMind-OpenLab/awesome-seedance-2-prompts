@@ -68,9 +68,9 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6705** |
+| 📝 Gesamtanzahl Prompts | **6708** |
 | ⭐ Ausgewählte Prompts | **6** |
-| 🔄 Zuletzt aktualisiert | **2026-11-19** |
+| 🔄 Zuletzt aktualisiert | **2026-11-20** |
 
 ---
 
@@ -361,6 +361,63 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Prompt für antiken chinesischen Krieger-Schwertangriff
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung einer cineastischen Fantasy-Szene eines Kriegers auf einer Klippe, der einen kraftvollen Schwertangriff mit magischen Energieeffekten ausführt, vor dem Hintergrund eines dramatischen Sonnenuntergangs.
+
+#### 📝 Prompt
+
+```
+Ein filmreifer, antiker chinesischer Fantasy-Krieger steht bei einem dramatischen Sonnenuntergang auf einer gewaltigen Felsklippe. Er trägt ein elegantes, schwarz-goldenes, besticktes Kampfgewand mit kunstvollen Drachenmustern und hält ein langes, legendäres Schwert in der Hand. Dunkle Berge erstrecken sich am Horizont unter einem leuchtend orange-violetten Himmel. Langsam erhebt der Krieger sein Schwert, während mysteriöser schwarzer Rauch und magische dunkle Energie um seinen Körper wirbeln. Mit einem mächtigen Schwerthieb entfesselt er eine Welle übernatürlicher Energie, die das umliegende Gestein bersten lässt und Trümmer durch die Luft schleudert. Dramatische Nahaufnahmen, dynamische Kamerabewegungen, realistische Stoffphysik, detailliertes Schwertdesign, epische Martial-Arts-Atmosphäre, cineastische Beleuchtung, ultrarealistisches 3D-CGI, 4K-Fantasy-Filmqualität.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123635098079932416/img/uLefYcbYQHX-Mzt0.jpg" width="600" alt="Prompt für antiken chinesischen Krieger-Schwertangriff">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14050)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Quelle:** [Link](https://x.com/draavenai/status/2123635495976788233) | **Veröffentlicht:** Nov 20, 2026
+
+---
+### Prompt für den Kampf eines dunklen Zauberers gegen einen Drachen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung einer düsteren Fantasy-Video-Szene, in der ein Zauberer einen Drachen aus einer magischen Kugel erweckt, mit epischen CGI-Effekten und dramatischer Beleuchtung.
+
+#### 📝 Prompt
+
+```
+Ein mächtiger Dark-Fantasy-Zauberer in majestätischer, schwarz-silberner Rüstung mit Drachenmotiven steht auf einem geheimnisvollen vulkanischen Schlachtfeld unter einem stürmischen Himmel. In seiner Hand hält er eine leuchtende magische Energiekugel in Orange, in der ein Miniaturdrache von wirbelnden Flammen umgeben ist. Die Kamera fährt langsam näher heran und offenbart filigrane Details der Rüstung sowie glühende Drachensymbole. Plötzlich entfesselt die magische Kugel einen gewaltigen Feuerdrachen, der sich hinter ihm erhebt, seine riesigen Schwingen ausbreitet und mit leuchtenden Augen herabblickt. Im Vordergrund versammeln sich dunkel gepanzerte Krieger, während Blitze das Schlachtfeld erhellen. Epische Fantasy-Atmosphäre, cineastische Kamerabewegungen, realistische Feuereffekte, dramatische Beleuchtung, ultra-detailliertes 3D-CGI, Filmqualität in 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123414725770047489/img/0xROez1DAQ-Q6r1J.jpg" width="600" alt="Prompt für den Kampf eines dunklen Zauberers gegen einen Drachen">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14048)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Quelle:** [Link](https://x.com/draavenai/status/2123414771961872677) | **Veröffentlicht:** Nov 19, 2026
+
+---
+### Goldener Krieger – Dark-Fantasy-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Dark-Fantasy-Video-Prompt, der einen Krieger in goldener Rüstung zeigt, wie er seine Kräfte in einem von altem China inspirierten Dorf bei Nacht entfesselt und gegen einen Drachen kämpft.
+
+#### 📝 Prompt
+
+```
+Eine atemberaubende, cineastische Dark-Fantasy-Szene in einem alten, von China inspirierten Dorf bei Nacht. Ein geheimnisvoller Krieger in einer prachtvollen schwarz-goldenen Rüstung mit leuchtenden magischen Mustern durchschreitet einen stimmungsvollen Steinhof. Von seiner Rüstung geht eine kraftvolle goldene Energie aus, während feuriges Licht seinen Körper erhellt. Im Hintergrund erhebt sich ein gigantischer Schattendrache durch dichten Nebel unter einem hellen Vollmond. Traditionelle asiatische Tempel, rot leuchtende Laternen, dramatische Sturmwolken, umherschwebende Funken und magische Partikel erzeugen eine epische Atmosphäre. Der Krieger zieht sein blau leuchtendes Schwert und entfesselt einen gewaltigen Energieangriff, der eine spektakuläre goldene Explosion auslöst. Fließende cineastische Kamerabewegungen, dramatische Nahaufnahmen, ultradetailliertes 3D-CGI, realistische Beleuchtung, Fantasy-Film-Stil, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123315199448911872/img/Eggu9RYbTrrzzBkY.jpg" width="600" alt="Goldener Krieger – Dark-Fantasy-Video">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14049)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Quelle:** [Link](https://x.com/draavenai/status/2123315564932223039) | **Veröffentlicht:** Nov 19, 2026
+
+---
 ### Fotorealistischer Zugkampf mit übernatürlicher Action
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9497,63 +9554,6 @@ Ein realistisches, cineastisches Video in einem hellen, leeren Raum mit weißen 
 **Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2115914032884613494) | **Veröffentlicht:** Oct 29, 2026
 
 ---
-### Meerglas-Terrazzo-Boden im Schlafzimmer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung eines dokumentarischen Videos über einen Renovierungsprozess, bei dem farbiges Meerglas in Epoxidharz eingebettet wird, um einen funkelnden Terrazzoboden in einem neuen Schlafzimmer zu schaffen.
-
-#### 📝 Prompt
-
-```
-Hochformat-Video, heller leerer Raum mit weißen Wänden, einem großen Fenster mit schwarzem Rahmen und einem rohen Betonboden. Ein Mann in marineblauer Latzhose und schwarzem T-Shirt harkt einen riesigen Haufen buntes Meerglas in Blau-, Grün- und Klarglastönen zusammen und verteilt es gleichmäßig auf dem Boden. Eine Frau in roter Latzhose kniet sich hin und gießt milchig weißes Epoxidharz aus weißen Eimern über das Glas, während er es mit einer Rakel verteilt. Zeitraffer-Übergang, während das Harz zu einer glänzenden Oberfläche aushärtet. Arbeiter in schwarzen Shirts und einer in einer neon-gelben Warnweste schleifen und polieren den Boden mit einer handgeführten Schleifmaschine und einem Staubsauger – zum Vorschein kommt ein glatter, terrazzoartiger Boden voller Glassplitter, der im Tageslicht funkelt. Schneller Aufbau im Zeitraffer: Zwei Arbeiter montieren ein hölzernes Bettgestell, legen Lattenrost, Matratze und neutrale beigefarbene Bettwäsche darauf. Abschließende statische Einstellung des fertigen, gemütlichen Schlafzimmers mit dem schimmernden Boden aus recyceltem Glas, Holzbett, Nachttischen, Lampen und grünen Bäumen, die durch das Fenster sichtbar sind. Realistischer Dokumentarstil, natürliches Licht, ruhige Kameraführung, befriedigender Renovierungsprozess.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115913011823083520/img/i026LEQVmCZad7rf.jpg" width="600" alt="Meerglas-Terrazzo-Boden im Schlafzimmer">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13170)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2115913066776785313) | **Veröffentlicht:** Oct 29, 2026
-
----
-### Verwandlung von Kies in Terrazzo-Boden
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Zeitraffer-Video-Prompt, der den Prozess zeigt, wie orangefarbene Kieselsteine mit Epoxidharz zu einem polierten Terrazzo-Boden im Schlafzimmer verwandelt werden, einschließlich Raummontage.
-
-#### 📝 Prompt
-
-```
-Hochformat-Video in einem hellen, leeren Raum mit weißen Wänden und einem großen Fenster, durch das grüne Bäume zu sehen sind. Ein Mann in blauem Overall harkt einen riesigen Haufen glänzender orangefarbener Kieselsteine auf dem nackten Betonboden zusammen und verteilt sie gleichmäßig im gesamten Raum. Arbeiter in roten Overalls gießen weiße, selbstnivellierende Epoxidharzmasse aus Eimern über die Kiesel und verteilen sie anschließend mit Rakeln und Farbrollern, bis die Oberfläche flach, glatt und glänzend ist. Zeitraffer eines Arbeiters in gelber Warnweste und Atemschutzmaske, der den ausgehärteten Boden mit einer Schleifmaschine bearbeitet, wodurch eine terrazzoähnliche Oberfläche mit runden, orangefarbenen Kieseln zum Vorschein kommt. Schneller Zeitraffer der Raumeinrichtung: Ein Bettgestell aus Holz wird aufgebaut, mit weißer Bettwäsche und beigefarbenen Kissen bezogen, ein Nachttisch mit Lampe hinzugefügt und gerahmte abstrakte Kunst an der Wand aufgehängt. Abschließende statische Einstellung eines gemütlichen, fertig eingerichteten Schlafzimmers, in dem der polierte Orangenkiesel-Boden im sanften natürlichen Tageslicht erstrahlt. Fotorealistisch, befriedigender Renovierungs-Zeitraffer, fließende Kamerabewegung, warmes natürliches Licht.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115798362968424448/img/9CgbjQwDDoeZVfXq.jpg" width="600" alt="Verwandlung von Kies in Terrazzo-Boden">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13168)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2115798407444918459) | **Veröffentlicht:** Oct 29, 2026
-
----
-### Rostige Autoteile Spiegelboden
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für ein ASMR-Renovierungsvideo, das zeigt, wie rostige Autoteile mit Epoxidharz überzogen und poliert werden, um einen spiegelnden Boden mit eingebetteten Silhouetten zu enthüllen, gefolgt von der Montage des Schlafzimmers.
-
-#### 📝 Prompt
-
-```
-Befriedigendes ASMR-Renovierungsvideo in einem hellen, leeren Raum mit weißen Wänden, einem großen Fenster mit Blick auf grüne Bäume und nacktem Betonboden. Ein bärtiger Mann in blauem Overall verteilt mit einem langen Rechen einen riesigen Haufen rostiger Autotüren, Motorhauben und Karosserieteile gleichmäßig auf dem Boden und legt sie flach Seite an Seite aus. Anschließend gießt eine Frau in rotem Overall dickflüssiges, weißes selbstverlaufendes Epoxidharz aus einem Eimer über die rostigen Metallteile; die glänzende Flüssigkeit breitet sich aus und verwandelt alles in eine glatte, milchige Oberfläche. Nach dem Aushärten schiebt ein Arbeiter in gelber Warnweste eine Bodenschleif- und Poliermaschine über die Fläche und legt nach und nach die klaren Silhouetten der Autoteile frei, die unter einem spiegelglatten weißen Boden eingebettet sind, der das Tageslicht reflektiert. Zum Schluss tragen zwei Arbeiter in schwarzen Uniformen mit pinkfarbenen Handschuhen ein schwarzes Metallbettgestell herein, legen eine Matratze darauf und beziehen das Bett mit grauer Bettwäsche und Kissen – fertig ist das moderne Schlafzimmer. Sanfte Kameraschwenks und behutsame Zooms begleiten das Geschehen, natürliches Tageslicht, hyperrealistische Details, befriedigende Transformations-Montage, vertikales Format.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115797448610242561/img/8FXa9w6moNFSBAWO.jpg" width="600" alt="Rostige Autoteile Spiegelboden">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13171)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2115797490725273924) | **Veröffentlicht:** Oct 29, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -9615,6 +9615,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-19T23:21:43.865Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-20T06:14:34.224Z</sub>
 
 </div>

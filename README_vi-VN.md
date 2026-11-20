@@ -68,9 +68,9 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6705** |
+| 📝 Tổng số prompt | **6708** |
 | ⭐ Prompt nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **2026-11-19** |
+| 🔄 Cập nhật lần cuối | **2026-11-20** |
 
 ---
 
@@ -361,6 +361,63 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Câu lệnh Đòn Chém Kiếm của Chiến Binh Cổ Đại Trung Hoa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Câu lệnh tạo cảnh kỳ ảo điện ảnh về một chiến binh đứng trên vách đá thực hiện đòn chém kiếm mạnh mẽ với hiệu ứng năng lượng ma thuật, trong bối cảnh hoàng hôn kịch tính.
+
+#### 📝 Prompt
+
+```
+Một chiến binh huyền ảo Trung Hoa cổ đại mang đậm chất điện ảnh, đứng sừng sững trên vách đá khổng lồ giữa khung cảnh hoàng hôn đầy kịch tính. Chàng khoác trên mình bộ chiến bào thêu tinh xảo hai màu đen vàng sang trọng, điểm xuyết hoa văn rồng uốn lượn cầu kỳ, tay nắm chặt thanh trường kiếm huyền thoại. Dãy núi thẫm màu trải dài tít tắp nơi đường chân trời, bên dưới bầu trời rực rỡ sắc cam và tím. Người chiến binh từ từ giương cao thanh kiếm khi những luồng khói đen bí ẩn cùng hắc ám ma lực cuộn xoáy quanh thân. Chàng tung ra một nhát chém uy mãnh, giải phóng làn sóng năng lượng siêu nhiên khiến đá tảng xung quanh nứt toác và vỡ vụn, bắn tung lên không trung. Những cú máy cận cảnh đầy kịch tính, góc máy chuyển động linh hoạt, hiệu ứng vật lý vải vóc chân thực, thiết kế kiếm tỉ mỉ đến từng chi tiết, không khí võ thuật hào hùng, ánh sáng chuẩn điện ảnh, đồ họa 3D CGI siêu thực, chất lượng phim giả tưởng 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123635098079932416/img/uLefYcbYQHX-Mzt0.jpg" width="600" alt="Câu lệnh Đòn Chém Kiếm của Chiến Binh Cổ Đại Trung Hoa">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14050)**
+
+**Tác giả:** [Draaven](https://x.com/draavenai) | **Nguồn:** [Link](https://x.com/draavenai/status/2123635495976788233) | **Đã xuất bản:** Nov 20, 2026
+
+---
+### Prompt Trận Chiến Rồng Pháp Sư Bóng Tối
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt để tạo cảnh video kỳ ảo bóng tối, trong đó một pháp sư đánh thức rồng từ quả cầu ma thuật, với hiệu ứng CGI hoành tráng và ánh sáng kịch tính.
+
+#### 📝 Prompt
+
+```
+Một pháp sư hắc ám đầy quyền năng khoác trên mình bộ giáp uy nghi màu đen bạc mang chủ đề rồng, đứng giữa chiến trường núi lửa huyền bí dưới bầu trời giông bão. Trong tay hắn nâng một quả cầu năng lượng ma thuật màu cam phát sáng, bên trong chứa một con rồng thu nhỏ được bao quanh bởi những luồng lửa cuộn xoáy. Ống kính từ từ tiến lại gần để hé lộ từng chi tiết tinh xảo của bộ giáp cùng những biểu tượng rồng rực sáng. Bất ngờ, quả cầu ma thuật phóng ra một con rồng lửa khổng lồ vươn lên phía sau lưng hắn, dang rộng đôi cánh đồ sộ với ánh mắt rực cháy. Những chiến binh mặc giáp đen tụ tập ở tiền cảnh khi tia chớp xé toạc màn đêm, soi sáng cả chiến trường. Bầu không khí giả tưởng sử thi, chuyển động máy quay đậm chất điện ảnh, hiệu ứng lửa chân thực, ánh sáng kịch tính, CGI 3D siêu chi tiết, chất lượng phim 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123414725770047489/img/0xROez1DAQ-Q6r1J.jpg" width="600" alt="Prompt Trận Chiến Rồng Pháp Sư Bóng Tối">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14048)**
+
+**Tác giả:** [Draaven](https://x.com/draavenai) | **Nguồn:** [Link](https://x.com/draavenai/status/2123414771961872677) | **Đã xuất bản:** Nov 19, 2026
+
+---
+### Video Dark Fantasy Chiến Binh Vàng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video dark fantasy điện ảnh về một chiến binh trong bộ áo giáp vàng thức tỉnh sức mạnh tại ngôi làng cổ mang phong cách Trung Hoa vào ban đêm, chiến đấu với một con rồng.
+
+#### 📝 Prompt
+
+```
+Một phân cảnh dark fantasy điện ảnh đầy choáng ngợp, lấy bối cảnh tại một ngôi làng cổ mang đậm phong cách Trung Hoa vào ban đêm. Một chiến binh bí ẩn khoác trên mình bộ giáp đen vàng lộng lẫy với những hoa văn ma thuật phát sáng, bước đi qua khoảng sân đá mờ ảo. Bộ giáp tỏa ra nguồn năng lượng vàng rực rỡ, ánh lửa bập bùng soi chiếu khắp thân hình anh. Phía sau, bóng dáng một con rồng khổng lồ ẩn hiện xuyên qua lớp sương mù dày đặc dưới ánh trăng tròn vằng vặc. Những ngôi đền châu Á cổ kính, đèn lồng đỏ rực sáng, mây bão cuộn trào dữ dội, tàn lửa bay lơ lửng cùng các hạt ma thuật lấp lánh tạo nên một bầu không khí sử thi tráng lệ. Người chiến binh rút thanh kiếm xanh phát sáng và tung ra một đòn tấn công năng lượng uy mãnh, tạo nên vụ nổ vàng rực rỡ ngoạn mục. Chuyển động máy quay điện ảnh mượt mà, góc cận cảnh đầy kịch tính, đồ họa 3D CGI siêu chi tiết, ánh sáng chân thực, phong cách phim fantasy, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123315199448911872/img/Eggu9RYbTrrzzBkY.jpg" width="600" alt="Video Dark Fantasy Chiến Binh Vàng">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14049)**
+
+**Tác giả:** [Draaven](https://x.com/draavenai) | **Nguồn:** [Link](https://x.com/draavenai/status/2123315564932223039) | **Đã xuất bản:** Nov 19, 2026
+
+---
 ### Cảnh chiến đấu siêu nhiên chân thực như ảnh chụp trên tàu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9509,63 +9566,6 @@ Một video điện ảnh chân thực quay bên trong căn phòng trống sáng
 **Tác giả:** [Ruslan Ai](https://x.com/Ruslanchain) | **Nguồn:** [Link](https://x.com/Ruslanchain/status/2115914032884613494) | **Đã xuất bản:** Oct 29, 2026
 
 ---
-### Sàn Phòng Ngủ Terrazzo Thủy Tinh Biển
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Câu lệnh tạo video phong cách tài liệu về quá trình cải tạo, trong đó mảnh thủy tinh biển nhiều màu được nhúng vào nhựa epoxy để tạo sàn terrazzo lấp lánh cho phòng ngủ mới.
-
-#### 📝 Prompt
-
-```
-Video dọc, căn phòng trống sáng sủa với những bức tường trắng, một khung cửa sổ lớn viền đen và sàn bê tông thô. Một người đàn ông mặc quần yếm xanh navy và áo phông đen đang cào đống thủy tinh biển khổng lồ đủ màu sắc với các sắc độ xanh dương, xanh lá và trong suốt, dàn đều khắp mặt sàn. Một người phụ nữ mặc quần yếm đỏ quỳ xuống, rót nhựa epoxy trắng sữa từ những chiếc xô trắng lên lớp kính, trong khi anh dùng bàn gạt để trải đều. Chuyển cảnh time-lapse khi lớp nhựa khô lại thành bề mặt bóng loáng. Các công nhân mặc áo đen, riêng một người khoác áo bảo hộ vàng neon, tiến hành mài và đánh bóng sàn bằng máy mài đẩy tay kèm máy hút bụi, để lộ ra mặt sàn nhẵn mịn tựa terrazzo lấp lánh những mảnh kính dưới ánh sáng ban ngày. Cảnh lắp ráp tua nhanh: hai công nhân đóng khung giường gỗ, xếp thanh nan, đặt nệm và bộ ga gối màu be trung tính. Cảnh tĩnh cuối cùng khép lại với phòng ngủ ấm cúng đã hoàn thiện: sàn kính tái chế lấp lánh, giường gỗ, tủ đầu giường, đèn ngủ và những tán cây xanh mướt hiện rõ qua khung cửa sổ. Phong cách phim tài liệu chân thực, ánh sáng tự nhiên, góc máy mượt mà, quá trình cải tạo đầy thỏa mãn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115913011823083520/img/i026LEQVmCZad7rf.jpg" width="600" alt="Sàn Phòng Ngủ Terrazzo Thủy Tinh Biển">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13170)**
-
-**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2115913066776785313) | **Đã xuất bản:** Oct 29, 2026
-
----
-### Biến Đổi Sàn Từ Đá Cuội Sang Terrazzo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả video time-lapse về quy trình biến đổi những viên đá cuội màu cam thành sàn phòng ngủ phong cách terrazzo bóng loáng bằng nhựa epoxy, bao gồm cả quá trình lắp ráp không gian.
-
-#### 📝 Prompt
-
-```
-Video dọc quay trong một căn phòng trống sáng sủa với những bức tường trắng và khung cửa sổ lớn nhìn ra hàng cây xanh mướt bên ngoài. Một người đàn ông mặc bộ đồ bảo hộ màu xanh dương đang cào đống sỏi cam bóng loáng khổng lồ trên nền bê tông trần, rải đều chúng khắp cả căn phòng. Những người công nhân mặc đồ bảo hộ màu đỏ đổ nhựa epoxy tự san phẳng màu trắng từ các xô lên lớp sỏi, sau đó dùng bàn gạt và con lăn sơn dàn trải cho đến khi bề mặt phẳng lì, nhẵn mịn và bóng bẩy. Đoạn time-lapse ghi lại cảnh một công nhân mặc áo phản quang màu vàng và đeo mặt nạ phòng độc đang mài sàn đã khô cứng bằng máy đánh bóng, để lộ ra bề mặt trông như đá terrazzo điểm xuyết những viên sỏi cam tròn trịa. Đoạn time-lapse tua nhanh quá trình lắp đặt nội thất cho căn phòng: khung giường gỗ được dựng lên, trải ga giường trắng cùng những chiếc gối màu be, thêm một chiếc tủ đầu giường có đèn ngủ và treo tranh nghệ thuật trừu tượng đóng khung lên tường. Cảnh tĩnh cuối cùng cho thấy một phòng ngủ hoàn thiện ấm cúng với sàn sỏi cam được đánh bóng sáng lấp lánh dưới ánh sáng tự nhiên dịu nhẹ. Chân thực như ảnh chụp, video time-lapse cải tạo nhà cực kỳ mãn nhãn, chuyển động camera mượt mà, ánh sáng tự nhiên ấm áp.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115798362968424448/img/9CgbjQwDDoeZVfXq.jpg" width="600" alt="Biến Đổi Sàn Từ Đá Cuội Sang Terrazzo">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13168)**
-
-**Tác giả:** [Ruslan Ai](https://x.com/Ruslanchain) | **Nguồn:** [Link](https://x.com/Ruslanchain/status/2115798407444918459) | **Đã xuất bản:** Oct 29, 2026
-
----
-### Sàn Gương Từ Phụ Kiện Xe Hơi Gỉ Sét
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả chi tiết cho video ASMR cải tạo, trong đó các bộ phận xe hơi gỉ sét được phủ bằng nhựa epoxy và đánh bóng để lộ ra sàn nhà sáng bóng như gương với những hình bóng chìm bên trong, tiếp theo là quá trình lắp đặt phòng ngủ.
-
-#### 📝 Prompt
-
-```
-Video ASMR cải tạo phòng cực đã mắt trong một căn phòng trống sáng sủa với những bức tường trắng, cửa sổ lớn nhìn ra hàng cây xanh mướt và nền bê tông thô. Một người đàn ông để râu mặc quần yếm màu xanh dương dùng chiếc cào dài dàn đều một đống lớn gồm cánh cửa, nắp capo và các tấm ốp xe hơi rỉ sét khắp mặt sàn, xếp chúng nằm phẳng cạnh nhau. Sau đó, một người phụ nữ mặc quần yếm đỏ đổ lớp epoxy resin tự san phẳng màu trắng đặc sánh từ xô lên trên những mảnh kim loại rỉ sét; chất lỏng bóng loáng lan rộng, bao phủ mọi thứ thành một bề mặt mịn màng trắng sữa. Khi lớp epoxy đã khô cứng, một công nhân mặc áo phản quang màu vàng đẩy máy mài đánh bóng sàn lướt qua bề mặt, dần làm lộ rõ những đường nét sắc sảo của các chi tiết xe hơi ẩn bên dưới lớp sàn trắng bóng gương phản chiếu ánh sáng ban ngày. Cuối cùng, hai công nhân mặc đồng phục đen đeo găng tay hồng khiêng vào một khung giường kim loại màu đen, đặt nệm lên rồi trải ga gối màu xám, hoàn thiện một phòng ngủ hiện đại. Góc máy lia mượt mà và zoom nhẹ theo từng thao tác, ánh sáng tự nhiên ban ngày, chi tiết siêu chân thực, chuỗi cảnh biến hình đầy thỏa mãn, định dạng dọc.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115797448610242561/img/8FXa9w6moNFSBAWO.jpg" width="600" alt="Sàn Gương Từ Phụ Kiện Xe Hơi Gỉ Sét">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13171)**
-
-**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2115797490725273924) | **Đã xuất bản:** Oct 29, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -9627,6 +9627,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-19T23:21:40.016Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-20T06:14:29.066Z</sub>
 
 </div>

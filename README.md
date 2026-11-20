@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6705** |
+| 📝 Total Prompts | **6708** |
 | ⭐ Featured Prompts | **6** |
-| 🔄 Last Updated | **2026-11-19** |
+| 🔄 Last Updated | **2026-11-20** |
 
 ---
 
@@ -365,6 +365,63 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Ancient Chinese Warrior Sword Strike Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a cinematic fantasy scene of a warrior on a cliff performing a powerful sword strike with magical energy effects, set against a dramatic sunset.
+
+#### 📝 Prompt
+
+```
+A cinematic ancient Chinese fantasy warrior standing on a massive rocky cliff during a dramatic sunset. He wears an elegant black and golden embroidered battle robe with intricate dragon patterns and holds a long legendary sword. Dark mountains stretch across the horizon beneath a glowing orange and purple sky. The warrior slowly raises his sword as mysterious black smoke and magical dark energy swirl around his body. He performs a powerful sword strike, releasing a wave of supernatural energy that causes the surrounding rocks to crack and explode into flying debris. Dramatic close-up shots, dynamic camera movements, realistic fabric physics, detailed sword design, epic martial arts atmosphere, cinematic lighting, ultra-realistic 3D CGI, 4K fantasy movie quality.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123635098079932416/img/uLefYcbYQHX-Mzt0.jpg" width="600" alt="Ancient Chinese Warrior Sword Strike Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14050)**
+
+**Author:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2123635495976788233) | **Published:** Nov 20, 2026
+
+---
+### Dark Sorcerer Dragon Battle Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a dark fantasy video scene where a sorcerer awakens a dragon from a magical orb, featuring epic CGI effects and dramatic lighting.
+
+#### 📝 Prompt
+
+```
+A powerful dark fantasy sorcerer wearing majestic black and silver dragon-themed armor stands in a mysterious volcanic battlefield under a stormy sky. He holds a glowing magical orange energy orb in his hand, containing a miniature dragon surrounded by swirling flames. The camera slowly moves closer to reveal intricate armor details and glowing dragon symbols. Suddenly, the magical orb releases an enormous fiery dragon that rises behind him, spreading its massive wings and glowing eyes. Dark armored warriors gather in the foreground as lightning illuminates the battlefield. Epic fantasy atmosphere, cinematic camera movements, realistic fire effects, dramatic lighting, ultra-detailed 3D CGI, 4K movie quality.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123414725770047489/img/0xROez1DAQ-Q6r1J.jpg" width="600" alt="Dark Sorcerer Dragon Battle Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14048)**
+
+**Author:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2123414771961872677) | **Published:** Nov 19, 2026
+
+---
+### Golden Warrior Dark Fantasy Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic dark fantasy video prompt featuring a warrior with golden armor awakening power in an ancient Chinese-inspired village at night, battling a dragon.
+
+#### 📝 Prompt
+
+```
+A breathtaking cinematic dark fantasy scene set in an ancient Chinese-inspired village at night. A mysterious warrior wearing magnificent black and golden armor with glowing magical patterns walks through an atmospheric stone courtyard. His armor radiates powerful golden energy, with fiery light illuminating his body. In the background, a gigantic shadowy dragon emerges through thick mist beneath a bright full moon. Traditional Asian temples, glowing red lanterns, dramatic storm clouds, floating sparks, and magical particles create an epic atmosphere. The warrior draws his glowing blue sword and releases a powerful energy attack, creating a spectacular golden explosion. Smooth cinematic camera movements, dramatic close-ups, ultra-detailed 3D CGI, realistic lighting, fantasy movie style, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123315199448911872/img/Eggu9RYbTrrzzBkY.jpg" width="600" alt="Golden Warrior Dark Fantasy Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14049)**
+
+**Author:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2123315564932223039) | **Published:** Nov 19, 2026
+
+---
 ### Photorealistic Train Fight Supernatural Action
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9641,63 +9698,6 @@ A realistic cinematic video inside a bright empty room with white walls, a bare 
 **Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2115914032884613494) | **Published:** Oct 29, 2026
 
 ---
-### Sea Glass Terrazzo Bedroom Floor
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a documentary-style video of a renovation process where colorful sea glass is embedded in epoxy resin to create a sparkling terrazzo floor in a new bedroom.
-
-#### 📝 Prompt
-
-```
-Vertical video, bright empty room with white walls, a large black-framed window and a raw concrete floor. A man in navy overalls and a black t-shirt rakes a huge pile of colorful sea glass in blue, green and clear tones, spreading it evenly across the floor. A woman in red overalls kneels and pours milky white epoxy resin from white buckets over the glass while he spreads it with a squeegee. Time-lapse transition as the resin cures into a glossy surface. Workers in black shirts and one in a neon yellow safety vest grind and polish the floor with a walk-behind grinder and a vacuum, revealing a smooth terrazzo-like floor full of glass chips that sparkles under daylight. Fast-motion assembly: two workers build a wooden bed frame, place slats, mattress and neutral beige bedding. Final static shot of the finished cozy bedroom with the shimmering recycled glass floor, wooden bed, nightstands, lamps and green trees visible through the window. Realistic documentary style, natural lighting, smooth camera, satisfying renovation process.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115913011823083520/img/i026LEQVmCZad7rf.jpg" width="600" alt="Sea Glass Terrazzo Bedroom Floor">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13170)**
-
-**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2115913066776785313) | **Published:** Oct 29, 2026
-
----
-### Pebble to Terrazzo Floor Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A time-lapse video prompt showing the process of turning orange pebbles into a polished terrazzo-style bedroom floor with epoxy resin, including room assembly.
-
-#### 📝 Prompt
-
-```
-Vertical video in a bright empty room with white walls and a large window showing green trees outside. A man in blue overalls rakes a huge pile of glossy orange pebbles on the bare concrete floor, spreading them evenly across the entire room. Workers in red overalls pour white self-leveling epoxy resin from buckets over the pebbles, then spread it with squeegees and paint rollers until the surface is flat, smooth and glossy. Time-lapse of a worker in a yellow hi-vis vest and respirator grinding the cured floor with a polishing machine, revealing a terrazzo-like surface dotted with round orange pebbles. Fast time-lapse of room assembly: a wooden bed frame is built, dressed with white bedding and beige pillows, a nightstand with a lamp is added and framed abstract art hangs on the wall. Final static shot of a cozy finished bedroom with the polished orange pebble floor shining in soft natural daylight. Photorealistic, satisfying renovation time-lapse, smooth camera movement, warm natural lighting.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115798362968424448/img/9CgbjQwDDoeZVfXq.jpg" width="600" alt="Pebble to Terrazzo Floor Transformation">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13168)**
-
-**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2115798407444918459) | **Published:** Oct 29, 2026
-
----
-### Rusty Car Parts Mirror Floor
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for an ASMR renovation video showing rusty car parts being covered in epoxy resin and polished to reveal a mirror-like floor with embedded silhouettes, followed by bedroom assembly.
-
-#### 📝 Prompt
-
-```
-Satisfying ASMR renovation video in a bright empty room with white walls, a large window showing green trees, and a bare concrete floor. A bearded man in blue overalls uses a long rake to spread a huge pile of rusty car doors, hoods and panels evenly across the floor, arranging them flat side by side. A woman in red overalls then pours thick white self-leveling epoxy resin from a bucket over the rusty metal pieces; the glossy liquid flows outward and covers everything into a smooth milky surface. Once cured, a worker in a yellow high-visibility vest pushes a floor grinding and polishing machine across the surface, gradually revealing crisp silhouettes of the car parts embedded beneath a mirror-glossy white floor that reflects daylight. Finally, two workers in black uniforms with pink gloves carry in a black metal bed frame, set a mattress on it and dress the bed with gray bedding and pillows, completing a modern bedroom. Smooth camera pans and gentle zooms follow the action, natural daylight, hyper-realistic detail, satisfying transformation montage, vertical format.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115797448610242561/img/8FXa9w6moNFSBAWO.jpg" width="600" alt="Rusty Car Parts Mirror Floor">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13171)**
-
-**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2115797490725273924) | **Published:** Oct 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -9759,6 +9759,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-19T23:21:33.946Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-20T06:14:21.176Z</sub>
 
 </div>

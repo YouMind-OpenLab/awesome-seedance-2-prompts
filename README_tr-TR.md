@@ -68,9 +68,9 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6705** |
+| 📝 Toplam İstem | **6708** |
 | ⭐ Öne Çıkan İstemler | **6** |
-| 🔄 Son Güncelleme | **2026-11-19** |
+| 🔄 Son Güncelleme | **2026-11-20** |
 
 ---
 
@@ -361,6 +361,63 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Antik Çinli Savaşçı Kılıç Darbesi İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dramatik bir gün batımı karşısında, bir uçurumda güçlü bir kılıç darbesi gerçekleştiren ve büyüsel enerji efektleri yayan sinematik bir fantastik savaşçı sahnesi oluşturmak için bir istem.
+
+#### 📝 İstem
+
+```
+Sinematik bir antik Çin fantastik savaşçısı, dramatik bir gün batımında devasa kayalık bir uçurumun üzerinde duruyor. Üzerinde karmaşık ejderha desenleri işlenmiş zarif siyah ve altın rengi nakışlı bir savaş cübbesi var ve elinde efsanevi uzun bir kılıç tutuyor. Parlayan turuncu ve mor gökyüzünün altında, ufuk boyunca koyu renkli dağlar uzanıyor. Savaşçı kılıcını yavaşça kaldırırken, gizemli siyah dumanlar ve büyülü karanlık enerji bedeninin etrafında dönüyor. Güçlü bir kılıç darbesi indirerek çevresindeki kayaların çatlamasına ve havaya saçılan parçalara ayrılmasına neden olan doğaüstü bir enerji dalgası yayıyor. Dramatik yakın çekimler, dinamik kamera hareketleri, gerçekçi kumaş fiziği, detaylı kılıç tasarımı, epik dövüş sanatları atmosferi, sinematik aydınlatma, ultra gerçekçi 3D CGI, 4K fantastik film kalitesi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123635098079932416/img/uLefYcbYQHX-Mzt0.jpg" width="600" alt="Antik Çinli Savaşçı Kılıç Darbesi İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14050)**
+
+**Yazar:** [Draaven](https://x.com/draavenai) | **Kaynak:** [Link](https://x.com/draavenai/status/2123635495976788233) | **Yayınlandı:** Nov 20, 2026
+
+---
+### Karanlık Büyücü Ejderha Savaşı İstem Metni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir büyücünün sihirli bir küreden ejderhayı uyandırdığı, epik CGI efektleri ve dramatik ışıklandırma içeren karanlık fantezi video sahnesi oluşturmak için istem metni.
+
+#### 📝 İstem
+
+```
+Fırtınalı bir gökyüzünün altında, gizemli bir volkanik savaş alanında duran, görkemli siyah ve gümüş ejderha temalı zırhı içindeki kudretli bir karanlık fantezi büyücüsü. Elinde, alevlerin arasında süzülen minyatür bir ejderhayı barındıran, parlayan turuncu renkli büyülü bir enerji küresi tutuyor. Kamera yavaşça yaklaşarak zırhın ince işçiliğini ve üzerindeki parlayan ejderha sembollerini gözler önüne seriyor. Bir anda büyülü küre, devasa kanatlarını açan ve gözleri parlayan kocaman bir ateş ejderhasını serbest bırakıyor; ejderha büyücünün arkasında yükseliyor. Şimşekler savaş alanını aydınlatırken, ön planda koyu zırhlı savaşçılar toplanıyor. Epik fantezi atmosferi, sinematik kamera hareketleri, gerçekçi ateş efektleri, dramatik ışıklandırma, ultra detaylı 3D CGI, 4K film kalitesi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123414725770047489/img/0xROez1DAQ-Q6r1J.jpg" width="600" alt="Karanlık Büyücü Ejderha Savaşı İstem Metni">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14048)**
+
+**Yazar:** [Draaven](https://x.com/draavenai) | **Kaynak:** [Link](https://x.com/draavenai/status/2123414771961872677) | **Yayınlandı:** Nov 19, 2026
+
+---
+### Altın Savaşçı Karanlık Fantastik Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gece vakti, eski Çin mimarisinden ilham alan bir köyde altın zırh giymiş bir savaşçının gücünü uyandırmasını ve bir ejderhayla dövüşmesini konu alan sinematik karanlık fantastik video istemi.
+
+#### 📝 İstem
+
+```
+Gece vakti, antik Çin mimarisinden ilham alan bir köyde geçen nefes kesici, sinematik bir karanlık fantezi sahnesi. Üzerinde parlayan büyülü desenler barındıran görkemli siyah ve altın rengi bir zırh giyen gizemli bir savaşçı, atmosferik taş avluda ilerliyor. Zırhından güçlü bir altın enerjisi yayılıyor; alev alev yanan ışık tüm bedenini aydınlatıyor. Arka planda, dolunayın parlak ışığı altında kalın sislerin arasından devasa, gölgeli bir ejderha yükseliyor. Geleneksel Asya tapınakları, kırmızı ışık saçan fenerler, dramatik fırtına bulutları, havada süzülen kıvılcımlar ve büyülü partiküller destansı bir atmosfer yaratıyor. Savaşçı mavi ışıkla parlayan kılıcını çekerek güçlü bir enerji saldırısı gerçekleştiriyor ve muhteşem bir altın patlamaya neden oluyor. Akıcı sinematik kamera hareketleri, dramatik yakın çekimler, ultra detaylı 3D CGI, gerçekçi aydınlatma, fantastik film stili, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123315199448911872/img/Eggu9RYbTrrzzBkY.jpg" width="600" alt="Altın Savaşçı Karanlık Fantastik Video">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14049)**
+
+**Yazar:** [Draaven](https://x.com/draavenai) | **Kaynak:** [Link](https://x.com/draavenai/status/2123315564932223039) | **Yayınlandı:** Nov 19, 2026
+
+---
 ### Fotogerçekçi Tren Dövüşü Doğaüstü Aksiyon
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9455,63 +9512,6 @@ Beyaz duvarları, çıplak beton zemini ve büyük bir penceresi olan aydınlık
 **Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2115914032884613494) | **Yayınlandı:** Oct 29, 2026
 
 ---
-### Deniz Camı Terrazzo Yatak Odası Zemin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yeni bir yatak odasında, renkli deniz camlarının epoksi reçineye gömülerek parlayan bir terrazzo zemin oluşturulduğu yenileme sürecini belgeleyen tarzda bir video üretmek için kullanılan istem.
-
-#### 📝 İstem
-
-```
-Dikey video, beyaz duvarları olan aydınlık ve boş bir oda, büyük siyah çerçeveli bir pencere ve ham beton zemin. Lacivert tulum ve siyah tişört giyen bir adam; mavi, yeşil ve şeffaf tonlarda devasa bir renkli deniz camı yığınını tırmıkla yayarak zemine eşit şekilde dağıtıyor. Kırmızı tulumlu bir kadın diz çöküyor ve beyaz kovalardan camların üzerine süt beyazı epoksi reçine dökerken, adam da bunu bir spatulayla yayıyor. Reçinenin parlak bir yüzeye dönüştüğü hızlandırılmış çekim geçişi. Siyah tişörtlü işçiler ve neon sarısı güvenlik yeleği giyen bir işçi, arkadan yürünen bir taşlama makinesi ve elektrikli süpürgeyle zemini taşlayıp parlatıyor; gün ışığında parıldayan cam kırıklarıyla dolu, pürüzsüz ve terazzo benzeri bir zemin ortaya çıkıyor. Hızlı çekim montaj: iki işçi ahşap bir yatak iskeleti kuruyor, çıtaları yerleştiriyor, ardından şilte ve nötr bej rengi nevresim takımı seriliyor. Parlayan geri dönüştürülmüş cam zemin, ahşap yatak, komodinler, lambalar ve pencereden görünen yeşil ağaçlarla tamamlanmış, sıcak ve samimi yatak odasının son sabit çekimi. Gerçekçi belgesel tarzı, doğal aydınlatma, akıcı kamera hareketleri, izlemesi keyifli bir yenileme süreci.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115913011823083520/img/i026LEQVmCZad7rf.jpg" width="600" alt="Deniz Camı Terrazzo Yatak Odası Zemin">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13170)**
-
-**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2115913066776785313) | **Yayınlandı:** Oct 29, 2026
-
----
-### Çakıl Taşından Terrazzo Zemin Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Turuncu çakıl taşlarının epoksi reçine ile cilalı bir terrazzo tarzı yatak odası zeminine dönüştürülme sürecini ve oda montajını gösteren zaman atlamalı video istemi.
-
-#### 📝 İstem
-
-```
-Beyaz duvarları ve dışarıdaki yeşil ağaçları gösteren büyük bir penceresi bulunan, aydınlık ve boş bir odada çekilmiş dikey video. Mavi tulumlu bir adam, çıplak beton zemindeki devasa parlak turuncu çakıl taşları yığınını tırmıkla yayarak tüm odaya eşit şekilde dağıtıyor. Kırmızı tulumlu işçiler, kovalardaki beyaz kendinden yayılan epoksi reçineyi çakıl taşlarının üzerine döküyor; ardından yüzey dümdüz, pürüzsüz ve parlak olana kadar spatula ve boya rulolarıyla yayıyorlar. Sarı fosforlu yelekli ve maskeli bir işçinin, sertleşmiş zemini cilalama makinesiyle zımparaladığı ve yuvarlak turuncu çakıl taşlarıyla bezeli terazzo benzeri bir yüzeyin ortaya çıktığı hızlandırılmış çekim. Odanın döşenme sürecinin hızlı çekim (time-lapse) görüntüleri: Ahşap bir yatak iskeleti kuruluyor, beyaz nevresimler ve bej yastıklarla donatılıyor, lambalı bir komodin ekleniyor ve duvara çerçeveli soyut bir tablo asılıyor. Yumuşak doğal gün ışığında parlayan cilalı turuncu çakıl taşlı zeminle tamamlanmış, sıcak ve davetkar yatak odasının son sabit çekimi. Fotogerçekçi, izlemesi keyif veren yenileme time-lapse'i, akıcı kamera hareketi, sıcak doğal aydınlatma.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115798362968424448/img/9CgbjQwDDoeZVfXq.jpg" width="600" alt="Çakıl Taşından Terrazzo Zemin Dönüşümü">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13168)**
-
-**Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2115798407444918459) | **Yayınlandı:** Oct 29, 2026
-
----
-### Paslı Araba Parçalarından Ayna Zemin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Paslı araba parçalarının epoksi reçine ile kaplanıp ayna gibi bir zemin oluşturacak şekilde cilalanmasını ve gömülü silüetlerin ortaya çıkarılmasını, ardından yatak odası montajını gösteren ASMR yenileme videosu için bir istem.
-
-#### 📝 İstem
-
-```
-Beyaz duvarları olan aydınlık ve boş bir odada, yeşil ağaçları gösteren büyük bir pencerenin önünde ve çıplak beton zeminde çekilmiş, izlemesi son derece tatmin edici bir ASMR tadilat videosu. Mavi tulumlu sakallı bir adam, uzun bir tırmık kullanarak devasa bir paslı araba kapısı, kaput ve panel yığınını zemine eşit şekilde yayıyor; parçaları düz bir biçimde yan yana diziyor. Ardından kırmızı tulumlu bir kadın, kovadaki yoğun beyaz kendiliğinden yayılan epoksi reçineyi bu paslı metal parçaların üzerine döküyor; parlak sıvı dışa doğru yayılarak her şeyi pürüzsüz, sütsü bir yüzeye dönüştürüyor. Reçine kuruduktan sonra, sarı fosforlu yelekli bir işçi zemin taşlama ve cilalama makinesini yüzeyde gezdirerek, gün ışığını yansıtan ayna gibi bembeyaz zeminin altına gömülen araba parçalarının net silüetlerini yavaş yavaş ortaya çıkarıyor. Son olarak, siyah üniformalı ve pembe eldivenli iki işçi siyah metal bir karyola iskeletini içeri taşıyor, üzerine bir yatak yerleştirip gri nevresim takımı ve yastıklarla döşeyerek modern bir yatak odasını tamamlıyor. Akıcı kamera kaydırmaları ve yumuşak yakın çekimler tüm süreci takip ediyor; doğal gün ışığı, hiper gerçekçi detaylar, tatmin edici dönüşüm montajı, dikey format.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115797448610242561/img/8FXa9w6moNFSBAWO.jpg" width="600" alt="Paslı Araba Parçalarından Ayna Zemin">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13171)**
-
-**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2115797490725273924) | **Yayınlandı:** Oct 29, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -9573,6 +9573,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-19T23:21:48.536Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-20T06:14:40.566Z</sub>
 
 </div>

@@ -68,9 +68,9 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6705** |
+| 📝 Total de prompts | **6708** |
 | ⭐ Prompts em destaque | **6** |
-| 🔄 Última atualização | **2026-11-19** |
+| 🔄 Última atualização | **2026-11-20** |
 
 ---
 
@@ -361,6 +361,63 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Prompt de Golpe de Espada de Guerreiro Chinês Antigo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar uma cena cinematográfica de fantasia de um guerreiro em um penhasco executando um golpe de espada poderoso com efeitos de energia mágica, ambientado contra um pôr do sol dramático.
+
+#### 📝 Prompt
+
+```
+Um guerreiro de fantasia da China antiga, em estilo cinematográfico, de pé sobre um imenso penhasco rochoso durante um pôr do sol dramático. Ele veste um elegante manto de batalha preto e dourado bordado, com intrincados padrões de dragões, e empunha uma longa espada lendária. Montanhas escuras se estendem pelo horizonte sob um céu incandescente em tons de laranja e roxo. O guerreiro ergue lentamente a sua espada enquanto uma fumaça negra misteriosa e uma energia sombria mágica giram ao redor do seu corpo. Ele desfere um golpe poderoso com a espada, libertando uma onda de energia sobrenatural que faz as rochas ao redor racharem e explodirem em estilhaços pelos ares. Planos fechados dramáticos, movimentos de câmara dinâmicos, física de tecidos realista, design detalhado da espada, atmosfera épica de artes marciais, iluminação cinematográfica, CGI 3D ultrarrealista, qualidade de filme de fantasia em 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123635098079932416/img/uLefYcbYQHX-Mzt0.jpg" width="600" alt="Prompt de Golpe de Espada de Guerreiro Chinês Antigo">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=14050)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fonte:** [Link](https://x.com/draavenai/status/2123635495976788233) | **Publicado:** Nov 20, 2026
+
+---
+### Prompt de Batalha: Dragão e Feiticeiro das Trevas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar uma cena de vídeo de fantasia sombria onde um feiticeiro desperta um dragão de um orbe mágico, com efeitos CGI épicos e iluminação dramática.
+
+#### 📝 Prompt
+
+```
+Um poderoso feiticeiro de dark fantasy, trajando uma armadura majestosa em preto e prata com motivos de dragão, ergue-se num misterioso campo de batalha vulcânico sob um céu tempestuoso. Na mão, segura um orbe mágico incandescente de energia laranja, que guarda no seu interior um dragão em miniatura envolto em chamas rodopiantes. A câmara aproxima-se lentamente para revelar os detalhes intrincados da armadura e os símbolos de dragão luminosos. De repente, o orbe mágico liberta um enorme dragão de fogo que se ergue atrás dele, abrindo as suas asas imponentes e revelando olhos brilhantes. Guerreiros de armaduras escuras reúnem-se em primeiro plano enquanto relâmpagos iluminam o campo de batalha. Atmosfera épica de fantasia, movimentos de câmara cinematográficos, efeitos de fogo realistas, iluminação dramática, CGI 3D ultradetalhado, qualidade de filme 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123414725770047489/img/0xROez1DAQ-Q6r1J.jpg" width="600" alt="Prompt de Batalha: Dragão e Feiticeiro das Trevas">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=14048)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fonte:** [Link](https://x.com/draavenai/status/2123414771961872677) | **Publicado:** Nov 19, 2026
+
+---
+### Vídeo de Fantasia Sombria: Guerreiro Dourado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de vídeo cinematográfico de fantasia sombria apresentando um guerreiro com armadura dourada despertando seu poder em uma vila antiga inspirada na China à noite, lutando contra um dragão.
+
+#### 📝 Prompt
+
+```
+Uma cena cinematográfica de tirar o fôlego em dark fantasy, ambientada à noite numa antiga aldeia de inspiração chinesa. Um guerreiro misterioso, vestido com uma magnífica armadura preta e dourada adornada com padrões mágicos brilhantes, caminha por um pátio de pedra envolto numa atmosfera densa. A sua armadura irradia uma poderosa energia dourada, enquanto uma luz flamejante ilumina todo o seu corpo. Ao fundo, um gigantesco dragão feito de sombras emerge através de uma névoa espessa sob uma lua cheia e luminosa. Templos asiáticos tradicionais, lanternas vermelhas acesas, nuvens de tempestade dramáticas, faíscas flutuantes e partículas mágicas criam uma atmosfera épica. O guerreiro desembainha a sua espada azul reluzente e liberta um poderoso ataque de energia, provocando uma espetacular explosão dourada. Movimentos de câmara cinematográficos e fluidos, planos fechados dramáticos, CGI 3D ultradetalhado, iluminação realista, estilo de filme de fantasia, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123315199448911872/img/Eggu9RYbTrrzzBkY.jpg" width="600" alt="Vídeo de Fantasia Sombria: Guerreiro Dourado">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=14049)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fonte:** [Link](https://x.com/draavenai/status/2123315564932223039) | **Publicado:** Nov 19, 2026
+
+---
 ### Luta Fotorrealista em Trem: Ação Sobrenatural
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9465,63 +9522,6 @@ Um vídeo cinematográfico realista dentro de uma sala vazia e luminosa, com par
 **Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2115914032884613494) | **Publicado:** Oct 29, 2026
 
 ---
-### Piso Terrazzo de Vidro Marinho para Quarto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para gerar um vídeo em estilo documentário sobre o processo de reforma, onde vidro marinho colorido é incorporado em resina epóxi para criar um piso terrazzo brilhante em um novo quarto.
-
-#### 📝 Prompt
-
-```
-Vídeo vertical, sala vazia e luminosa com paredes brancas, uma grande janela de moldura preta e piso de concreto aparente. Um homem de macacão azul-marinho e camiseta preta espalha com um ancinho uma enorme pilha de cacos de vidro de mar coloridos em tons de azul, verde e transparente, distribuindo-os uniformemente pelo chão. Uma mulher de macacão vermelho se ajoelha e despeja resina epóxi branco-leitosa de baldes brancos sobre os vidros, enquanto ele a espalha com um rodo. Transição em time-lapse mostrando a resina secando até formar uma superfície brilhante. Trabalhadores de camisetas pretas — um deles usando colete de segurança amarelo neon — lixam e polim o piso com uma politriz operada em pé e um aspirador, revelando um piso liso, semelhante ao terrazzo, repleto de fragmentos de vidro que cintilam sob a luz natural. Montagem em câmera rápida: dois trabalhadores constroem uma estrutura de cama de madeira, instalam as ripas, o colchão e a roupa de cama em tom bege neutro. Plano estático final do quarto aconchegante pronto, com o piso brilhante de vidro reciclado, a cama de madeira, criados-mudos, abajures e árvores verdes visíveis pela janela. Estilo documentário realista, iluminação natural, movimentos de câmera suaves, processo de reforma satisfatório.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115913011823083520/img/i026LEQVmCZad7rf.jpg" width="600" alt="Piso Terrazzo de Vidro Marinho para Quarto">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13170)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2115913066776785313) | **Publicado:** Oct 29, 2026
-
----
-### Transformação de Piso: De Pedra Laranja a Terrazzo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de vídeo em time-lapse mostrando o processo de transformar pedras laranja em um piso de quarto estilo terrazzo polido com resina epóxi, incluindo a montagem do ambiente.
-
-#### 📝 Prompt
-
-```
-Vídeo vertical num quarto vazio e luminoso, com paredes brancas e uma grande janela que deixa ver árvores verdes no exterior. Um homem de macacão azul passa o ancinho por uma enorme pilha de seixos laranjas brilhantes sobre o chão de betão nu, espalhando-os uniformemente por toda a divisão. Operários de macacão vermelho despejam resina epóxi branca autonivelante de baldes sobre os seixos e, em seguida, espalham-na com rodo e rolos de pintura até a superfície ficar plana, lisa e brilhante. Time-lapse de um trabalhador com colete refletor amarelo e máscara respiratória a polir o chão já curado com uma máquina de polimento, revelando uma superfície semelhante a terrazzo, salpicada de seixos redondos laranjas. Time-lapse acelerado da montagem do quarto: é montada uma estrutura de cama em madeira, vestida com roupa de cama branca e almofadas bege, acrescenta-se uma mesa de cabeceira com candeeiro e pendura-se arte abstrata emoldurada na parede. Plano estático final de um quarto acolhedor já terminado, com o chão de seixos laranjas polidos a brilhar sob a suave luz natural do dia. Fotorrealista, time-lapse de renovação satisfatório, movimento de câmara fluido, iluminação natural quente.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115798362968424448/img/9CgbjQwDDoeZVfXq.jpg" width="600" alt="Transformação de Piso: De Pedra Laranja a Terrazzo">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13168)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2115798407444918459) | **Publicado:** Oct 29, 2026
-
----
-### Piso Espelhado de Peças Enferrujadas de Carro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para um vídeo ASMR de reforma, mostrando peças enferrujadas de carro cobertas com resina epóxi e polidas até revelar um piso espelhado com silhuetas embutidas, seguido pela montagem do quarto.
-
-#### 📝 Prompt
-
-```
-Vídeo satisfatório de ASMR de reforma num quarto vazio e luminoso, com paredes brancas, uma grande janela que revela árvores verdes e chão de betão nu. Um homem de barba, vestido com um macacão azul, usa um ancinho longo para espalhar uniformemente pelo chão uma enorme pilha de portas, capôs e painéis enferrujados de carros, dispondo-os lado a lado e bem nivelados. Em seguida, uma mulher de macacão vermelho despeja, a partir de um balde, uma resina epóxi autonivelante branca e espessa sobre as peças de metal enferrujado; o líquido brilhante espalha-se e cobre tudo, formando uma superfície lisa e leitosa. Depois da cura, um trabalhador com colete amarelo de alta visibilidade empurra uma máquina de desbaste e polimento pelo chão, revelando gradualmente os contornos nítidos das peças de carro embutidas sob um piso branco com brilho espelhado que reflete a luz do dia. Por fim, dois trabalhadores de uniforme preto e luvas cor-de-rosa trazem uma estrutura de cama em metal preto, colocam-lhe um colchão e vestem-na com roupa de cama cinzenta e almofadas, concluindo assim um quarto moderno. Movimentos suaves de câmara e zooms delicados acompanham a ação, luz natural do dia, detalhes hiper-realistas, montagem de transformação satisfatória, formato vertical.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115797448610242561/img/8FXa9w6moNFSBAWO.jpg" width="600" alt="Piso Espelhado de Peças Enferrujadas de Carro">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=13171)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2115797490725273924) | **Publicado:** Oct 29, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -9583,6 +9583,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-19T23:21:47.598Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-20T06:14:39.178Z</sub>
 
 </div>

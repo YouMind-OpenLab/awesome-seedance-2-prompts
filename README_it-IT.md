@@ -68,9 +68,9 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6705** |
+| 📝 Totale prompt | **6708** |
 | ⭐ Prompt in evidenza | **6** |
-| 🔄 Ultimo aggiornamento | **2026-11-19** |
+| 🔄 Ultimo aggiornamento | **2026-11-20** |
 
 ---
 
@@ -361,6 +361,63 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Prompt di Colpo di Spada del Guerriero Antico Cinese
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare una scena fantasy cinematografica di un guerriero su una scogliera che esegue un potente colpo di spada con effetti energetici magici, ambientata contro un tramonto drammatico.
+
+#### 📝 Prompt
+
+```
+Un guerriero fantasy dell'antica Cina, in stile cinematografico, in piedi su un'imponente scogliera rocciosa durante un tramonto drammatico. Indossa un'elegante veste da battaglia nera e oro con ricami elaborati e intricati motivi di draghi, e impugna una lunga spada leggendaria. Montagne oscure si estendono lungo l'orizzonte sotto un cielo incandescente dalle sfumature arancioni e viola. Il guerriero solleva lentamente la spada mentre un misterioso fumo nero e una magica energia oscura turbinano attorno al suo corpo. Sferra un potente fendente, sprigionando un'onda di energia sovrannaturale che fa crepare le rocce circostanti, facendole esplodere in una pioggia di detriti volanti. Primi piani drammatici, movimenti di camera dinamici, fisica dei tessuti realistica, design dettagliato della spada, atmosfera epica da arti marziali, illuminazione cinematografica, CGI 3D ultrarealistica, qualità da film fantasy in 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123635098079932416/img/uLefYcbYQHX-Mzt0.jpg" width="600" alt="Prompt di Colpo di Spada del Guerriero Antico Cinese">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=14050)**
+
+**Autore:** [Draaven](https://x.com/draavenai) | **Fonte:** [Link](https://x.com/draavenai/status/2123635495976788233) | **Pubblicato:** Nov 20, 2026
+
+---
+### Prompt per Battaglia tra Stregone Oscuro e Drago
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare una scena video di dark fantasy in cui uno stregone risveglia un drago da un orbe magico, con effetti CGI epici e illuminazione drammatica.
+
+#### 📝 Prompt
+
+```
+Un potente stregone dark fantasy, avvolto in una maestosa armatura nera e argento con motivi a tema drago, si erge su un misterioso campo di battaglia vulcanico sotto un cielo in tempesta. Stringe nella mano un'incandescente sfera magica di energia arancione, al cui interno è racchiuso un drago in miniatura circondato da fiamme vorticose. La telecamera avanza lentamente per svelare i dettagli intricati dell'armatura e i simboli del drago che brillano di luce propria. All'improvviso, dalla sfera magica si sprigiona un immenso drago infuocato che si innalza alle sue spalle, spiegando le ali gigantesche e accendendo lo sguardo di bagliori. In primo piano si radunano guerrieri in armature oscure, mentre i fulmini squarciano il buio illuminando il campo di battaglia. Atmosfera fantasy epica, movimenti di camera cinematografici, effetti del fuoco realistici, luci drammatiche, CGI 3D ultra-dettagliata, qualità cinematografica 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123414725770047489/img/0xROez1DAQ-Q6r1J.jpg" width="600" alt="Prompt per Battaglia tra Stregone Oscuro e Drago">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=14048)**
+
+**Autore:** [Draaven](https://x.com/draavenai) | **Fonte:** [Link](https://x.com/draavenai/status/2123414771961872677) | **Pubblicato:** Nov 19, 2026
+
+---
+### Video Dark Fantasy del Guerriero Dorato
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video dark fantasy cinematografico che ritrae un guerriero in armatura dorata mentre risveglia il suo potere in un antico villaggio di ispirazione cinese, di notte, affrontando un drago.
+
+#### 📝 Prompt
+
+```
+Una scena cinematografica dark fantasy mozzafiato, ambientata di notte in un antico villaggio d'ispirazione cinese. Un guerriero misterioso, che indossa una magnifica armatura nera e oro attraversata da motivi magici luminescenti, avanza in un suggestivo cortile lastricato. La sua armatura irradia una potente energia dorata, mentre una luce infuocata ne avvolge il corpo. Sullo sfondo, l'imponente sagoma di un drago emerge dalla fitta nebbia sotto una luna piena e splendente. Templi tradizionali asiatici, lanterne rosse luminose, drammatiche nuvole temporalesche, scintille fluttuanti e particelle magiche danno vita a un'atmosfera epica. Il guerriero sguaina la sua spada blu incandescente e sferra un devastante attacco energetico, scatenando una spettacolare esplosione dorata. Movimenti di camera fluidi e cinematografici, primi piani intensi, CGI 3D ultra-dettagliata, illuminazione realistica, stile film fantasy, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123315199448911872/img/Eggu9RYbTrrzzBkY.jpg" width="600" alt="Video Dark Fantasy del Guerriero Dorato">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=14049)**
+
+**Autore:** [Draaven](https://x.com/draavenai) | **Fonte:** [Link](https://x.com/draavenai/status/2123315564932223039) | **Pubblicato:** Nov 19, 2026
+
+---
 ### Combattimento fotorealistico su treno: azione soprannaturale
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9441,63 +9498,6 @@ Un video cinematografico realistico ambientato in una stanza vuota e luminosa, c
 **Autore:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2115914032884613494) | **Pubblicato:** Oct 29, 2026
 
 ---
-### Pavimento in Terrazzo con Vetro Marino per Camera da Letto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per generare un video in stile documentaristico di un processo di ristrutturazione, dove il vetro marino colorato viene incorporato nella resina epossidica per creare un pavimento in terrazzo scintillante in una nuova camera da letto.
-
-#### 📝 Prompt
-
-```
-Video verticale, stanza vuota e luminosa con pareti bianche, un'ampia finestra con cornice nera e pavimento in cemento grezzo. Un uomo con salopette blu navy e t-shirt nera rastrella un enorme cumulo di vetri di mare colorati nelle tonalità del blu, del verde e trasparenti, distribuendoli uniformemente sul pavimento. Una donna con salopette rossa si inginocchia e versa resina epossidica bianco latte da secchi bianchi sui vetri, mentre lui la stende con una spatola. Transizione in time-lapse mentre la resina indurisce trasformandosi in una superficie lucida. Operai con magliette nere, uno dei quali indossa un gilet antinfortunistico giallo fluo, levigano e lucidano il pavimento con una levigatrice a spinta e un aspiratore, rivelando un pavimento liscio simile al terrazzo, ricco di frammenti di vetro che brillano alla luce del giorno. Montaggio accelerato: due operai assemblano una struttura letto in legno, posizionano le doghe, il materasso e lenzuola beige neutre. Inquadratura fissa finale della camera da letto accogliente appena completata, con il pavimento scintillante in vetro riciclato, il letto in legno, i comodini, le lampade e gli alberi verdi visibili attraverso la finestra. Stile documentaristico realistico, illuminazione naturale, movimenti di camera fluidi, processo di ristrutturazione appagante.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115913011823083520/img/i026LEQVmCZad7rf.jpg" width="600" alt="Pavimento in Terrazzo con Vetro Marino per Camera da Letto">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13170)**
-
-**Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2115913066776785313) | **Pubblicato:** Oct 29, 2026
-
----
-### Trasformazione del Pavimento: Da Ciottoli a Terrazzo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per video time-lapse che mostra il processo di trasformazione di ciottoli arancioni in un pavimento da camera da letto lucido in stile terrazzo con resina epossidica, inclusa l'assemblaggio della stanza.
-
-#### 📝 Prompt
-
-```
-Video verticale in una stanza luminosa e vuota, con pareti bianche e un'ampia finestra da cui si vedono alberi verdi all'esterno. Un uomo in tuta blu rastrella un enorme mucchio di ciottoli arancioni lucidi sul pavimento in cemento grezzo, distribuendoli uniformemente in tutta la stanza. Degli operai in tuta rossa versano dai secchi una resina epossidica autolivellante bianca sui ciottoli, per poi stenderla con spatole e rulli fino a ottenere una superficie piatta, liscia e lucida. Time-lapse di un operaio con gilet giallo ad alta visibilità e respiratore che leviga il pavimento indurito con una lucidatrice, rivelando una superficie simile al terrazzo alla veneziana, punteggiata di ciottoli arancioni rotondi. Time-lapse accelerato dell'allestimento della stanza: viene montata una struttura del letto in legno, rifatta con lenzuola bianche e cuscini beige, si aggiunge un comodino con lampada e alle pareti vengono appesi quadri astratti incorniciati. Inquadratura fissa finale di un'accogliente camera da letto finita, con il pavimento lucido di ciottoli arancioni che risplende sotto la morbida luce naturale del giorno. Fotorealistico, time-lapse di ristrutturazione appagante, movimenti di camera fluidi, illuminazione naturale calda.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115798362968424448/img/9CgbjQwDDoeZVfXq.jpg" width="600" alt="Trasformazione del Pavimento: Da Ciottoli a Terrazzo">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13168)**
-
-**Autore:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2115798407444918459) | **Pubblicato:** Oct 29, 2026
-
----
-### Pavimento Specchiato con Ricambi Auto Arrugginiti
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per un video ASMR di ristrutturazione che mostra parti di auto arrugginite ricoperte di resina epossidica e lucidate fino a rivelare un pavimento a specchio con silhouette incorporate, seguito dall'assemblaggio della camera da letto.
-
-#### 📝 Prompt
-
-```
-Soddisfacente video ASMR di ristrutturazione in una stanza vuota e luminosa con pareti bianche, un'ampia finestra che si affaccia su alberi verdi e un pavimento in cemento grezzo. Un uomo barbuto con una salopette blu usa un lungo rastrello per distribuire uniformemente sul pavimento un enorme cumulo di portiere, cofani e pannelli arrugginiti di automobili, disponendoli piatti uno accanto all'altro. Una donna con una salopette rossa versa poi da un secchio una densa resina epossidica autolivellante bianca sui pezzi di metallo arrugginito; il liquido lucido si espande e ricopre tutto, creando una superficie liscia e lattiginosa. Una volta indurita, un operaio con un gilet giallo ad alta visibilità spinge una macchina levigatrice e lucidatrice per pavimenti sulla superficie, rivelando gradualmente i contorni nitidi dei componenti auto incastonati sotto un pavimento bianco lucido a specchio che riflette la luce del giorno. Infine, due operai in uniforme nera e guanti rosa portano dentro una struttura del letto in metallo nero, vi appoggiano un materasso e preparano il letto con lenzuola e cuscini grigi, completando una camera da letto moderna. Panoramiche fluide e zoom delicati seguono l'azione, luce naturale diurna, dettagli iperrealistici, montaggio di trasformazione soddisfacente, formato verticale.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115797448610242561/img/8FXa9w6moNFSBAWO.jpg" width="600" alt="Pavimento Specchiato con Ricambi Auto Arrugginiti">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13171)**
-
-**Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2115797490725273924) | **Pubblicato:** Oct 29, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -9559,6 +9559,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-19T23:21:45.625Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-20T06:14:37.040Z</sub>
 
 </div>
