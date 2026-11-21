@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6708** |
+| 📝 Total Prompts | **6712** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-11-21** |
 
@@ -365,6 +365,114 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Warrior Protecting Child from Wolves in Forest
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for creating a dark fantasy adventure video where a female warrior defends a child from wolves using fire magic in a misty forest.
+
+#### 📝 Prompt
+
+```
+A cinematic dark fantasy adventure in a mysterious ancient forest at night. A brave young female warrior with long brown hair, wearing a dark green medieval cloak, protects a frightened little child from a pack of terrifying grey wolves. She holds a burning torch in one hand while standing fearlessly between the child and the approaching wolves. The wolves surround them in the foggy forest, their glowing eyes watching every movement. The warrior raises her torch, creating a magical circle of fire around them. Suddenly, the wolves leap forward as she prepares to defend the child. Dramatic moonlight, dense forest mist, emotional storytelling, detailed character expressions, cinematic camera angles, realistic fire effects, dark fantasy animation, ultra-detailed 3D visuals, 4K quality.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124003081230991360/img/raIP7u5p3YI9qNzZ.jpg" width="600" alt="Warrior Protecting Child from Wolves in Forest">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14093)**
+
+**Author:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2124003994762903950) | **Published:** Nov 21, 2026
+
+---
+### Luxury Perfume Commercial Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a high-end perfume advertisement video featuring a black ribbed glass bottle with gold detailing, water splashes, and smoke effects.
+
+#### 📝 Prompt
+
+```
+Create a cinematic luxury perfume commercial featuring a sophisticated black ribbed glass perfume bottle with elegant gold detailing. Begin with a dramatic splash of crystal-clear water surrounding the bottle, followed by swirling atmospheric smoke. Show an extreme macro close-up highlighting the bottle's glossy ribbed texture, gold accents, and delicate water droplets. Transition into a warm luxury interior with soft golden lighting, then create a spectacular golden liquid splash rising around the bottle in slow motion. Finish with the perfume bottle standing elegantly against a warm champagne-gold background. Ultra-realistic product photography, premium fragrance advertisement, dramatic lighting, fluid motion, 4K cinematic quality, refined luxury aesthetic. Keep the bottle design consistent throughout.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795240272903_eqto1u_HXlYYSlaIAALgE5.jpg" width="600" alt="Luxury Perfume Commercial Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14095)**
+
+**Author:** [Rubi](https://x.com/AIwithRubii) | **Source:** [Link](https://x.com/AIwithRubii/status/2123825895358279903) | **Published:** Nov 20, 2026
+
+---
+### Cinematic Fantasy Battle with Blue Lightning Warrior
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a high-quality cinematic fantasy battle scene featuring a warrior wielding blue energy against a red monster.
+
+#### 📝 Prompt
+
+```
+A breathtaking cinematic fantasy battle between a fearless young warrior and a gigantic terrifying red monster in a destroyed wasteland. The warrior wears a simple dark outfit and wields a massive sword glowing with intense electric blue energy. The enormous monster has multiple powerful tentacles, glowing red eyes, and dark armored skin. The warrior charges forward at incredible speed, swinging his energy sword and releasing powerful blue lightning waves. Massive rocks and debris fly through the air as the monster attacks with its giant tentacles. Epic aerial shots, dynamic camera movements, realistic motion, spectacular energy effects, dramatic lighting, ultra-detailed 3D CGI, Hollywood action movie style, 4K cinematic quality.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123786489360465920/img/X7g7jDg5Zg2l_KpC.jpg" width="600" alt="Cinematic Fantasy Battle with Blue Lightning Warrior">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14094)**
+
+**Author:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2123786562139984156) | **Published:** Nov 20, 2026
+
+---
+### Seedance 2.0 Action Scene Prompt: Bald Villain Fight
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A prompt for generating a 15-second realistic cinematic action sequence featuring a fight between a protagonist and a bald villain in a printing factory. Includes detailed shot breakdowns, character descriptions, and audio instructions.
+
+#### 📝 Prompt
+
+```
+Why do bad guys always have bald heads🤔
+
+Generate a 15-second, 16:9 landscape realistic cinematic action short film, generated directly from text.
+
+【Core Requirements】
+High density, fast pace, continuous close-quarters combat, like the most intense fight scene in a top-tier action movie. The first frame is already mid-engagement; no intro, walking, standoff, or posing. No slow motion throughout; all actions are at real-time speed. Each shot lasts about 1.5 seconds, completing one clear offense-defense exchange, showing the result of the hit. Actions connect tightly between shots; the result of the previous action is the start of the next; no pauses throughout the film.
+
+【Characters】
+Protagonist: Adult East Asian male, approx. 30 years old, short black hair, rugged face, muscular build. Wears black long-sleeve shirt, dark gray cargo pants, black work boots, sleeves rolled up, unarmed.
+Opponent: Tall adult male, bald, industrial-style tattoos on arms, wears dark cargo vest, black long-sleeve shirt, heavy work boots, holds a metal pipe in right hand.
+Only these two people throughout the film; appearances, clothing, and weapons remain consistent.
+
+【Scene】
+Late-night printing factory, machines shut down, cold white ceiling lights illuminate large printing presses, paper stacks, metal trays, and conveyor belts. Paper scraps on ground, fine dust in air, low hum of ventilation equipment in distance. Entire film takes place beside the same printing press; positions of machine, paper stacks, conveyors, and the two characters are spatially coherent.
+
+【Shot Breakdown】
+Shot 1 (0–1.5s): Side medium shot. Opponent sweeps metal pipe at protagonist's lower body; protagonist lifts leg to dodge; pipe hits metal tray.
+Shot 2 (1.5–3s): Handheld tracking shot. Opponent jabs protagonist's abdomen with pipe tip; protagonist retreats and crashes into paper stack.
+Shot 3 (3–4.5s): Medium shot. Protagonist dodges opponent's strike, hits opponent's ribs with elbow.
+Shot 4 (4.5–6s): Medium shot. Opponent grabs protagonist and slams his back into the printing press body.
+Shot 5 (6–7.5s): Side medium shot. Opponent swings pipe again; protagonist grabs middle of metal pipe.
+Shot 6 (7.5–9s): Close-up. Protagonist kicks opponent's knee and twists metal pipe; opponent lets go; pipe rolls to paper stack.
+Shot 7 (9–10.5s): Medium shot. Opponent punches; protagonist blocks and delivers rapid short punches to chest.
+Shot 8 (10.5–12s): Medium shot. Opponent lunges for takedown; protagonist pins his head/neck.
+Shot 9 (12–13.5s): Wider medium shot. Protagonist throws opponent into printing press body; opponent falls after impact.
+Shot 10 (13.5–15s): Protagonist face close-up, cold white light on face, dust and scratches on face, panting heavily, fierce stare at fallen opponent, screen ends directly.
+
+【Action & Cinematography】
+Realistic cinematic quality, cold white industrial lighting, metal printing press, paper scraps, dust, mechanical spatial layers, clear faces. Every punch/kick must make contact with target first, then show physical reaction, retreat, or imbalance; no hitting air, no falling early without contact. Actions are aggressive and close-quarters, utilizing printing press, paper stacks, conveyors, and metal trays for leverage; getting hit causes pain and imbalance, not invincibility. Slight camera shake allowed at impact moments, but must clearly show who hit whom. Left-right positions consistent between adjacent shots; no teleportation, no clipping, no extra hands/weapons. Metal pipe stays by paper stack after release; no one picks it up. No flips, flying kicks, or superpowers; no gore close-ups. Camera focuses on action, no deliberate body part close-ups.
+
+【Audio】
+Empty reverberation of printing factory, low hum of ventilation. Sounds of metal pipe hitting tray, jabbing abdomen, crashing into press, pipe landing, impacts, falling to ground, paper scraps flying are accurately synced with visuals. From second one, tense, fast, drum-heavy action soundtrack; music dips briefly when protagonist hits press, rhythm explodes again after reversal, peaks when opponent falls into press, ending leaves breathing and ventilation sounds.
+No dialogue, no narration, no subtitles, no text, no watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123741933101334528/img/SNi5Cv3r8wbZiWq-.jpg" width="600" alt="Seedance 2.0 Action Scene Prompt: Bald Villain Fight">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14096)**
+
+**Author:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2123742353709998574) | **Published:** Nov 20, 2026
+
+---
 ### Ancient Chinese Warrior Sword Strike Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9575,129 +9683,6 @@ Vertical video, bright empty room with white walls, concrete floor and a large s
 **Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116102340839092598) | **Published:** Oct 30, 2026
 
 ---
-### Mechanical Spider to Sports Car Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt describing a mechanical spider transforming into a luxury sports car in a dark garage.
-
-#### 📝 Prompt
-
-```
-A hyper-realistic cinematic transformation scene inside a dark underground parking garage. A mysterious glossy black mechanical spider-like creature crawls across the concrete floor toward a small metallic object. Suddenly, the creature begins transforming, its multiple long metallic legs spreading outward and folding into complex mechanical components. The entire structure rapidly morphs into a sleek, aggressive black luxury sports car resembling a Porsche 911. Mechanical parts smoothly retract, wheels form, body panels assemble, and headlights illuminate brightly. The transformation is seamless, futuristic, and visually stunning. The finished black sports car slowly moves forward with powerful headlights shining through the dark garage.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116095481600516096/img/ee3WLr4woRgzmEf1.jpg" width="600" alt="Mechanical Spider to Sports Car Transformation">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13217)**
-
-**Author:** [Zarnish](https://x.com/ZarnishNael) | **Source:** [Link](https://x.com/ZarnishNael/status/2116095524357181578) | **Published:** Oct 30, 2026
-
----
-### Korean Girl Lifestyle Vlog Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a 15-second cinematic Korean girl lifestyle mini vlog featuring consistent character appearance across multiple scenes including waking up, walking in Seoul, visiting a cafe, and watching sunset.
-
-#### 📝 Prompt
-
-```
-Create a video, a beautiful 15-second cinematic Korean girl lifestyle mini vlog. Feature a consistent 24-year-old Korean woman with natural beauty, long black hair, soft bangs, wearing an oversized maroon hoodie, loose pants, and a canvas shoulder bag.
-
-Scene 1 (0–3s): She wakes up in her cozy bedroom, sunlight falling softly on her face. She slowly opens her eyes and smiles.
-Scene 2 (3–5s): She gets ready in front of the mirror, ties her hair, and picks up her shoulder bag.
-Scene 3 (5–7s): She walks through a beautiful Seoul street with autumn leaves falling around her, cinematic tracking shot.
-Scene 4 (7–10s): She enters a cozy Korean café, orders iced coffee, sits beside the window, and takes a peaceful sip.
-Scene 5 (10–12s): Close-up of her writing in her notebook while listening to music.
-Scene 6 (12–15s): She watches a beautiful orange sunset over Seoul, turns toward the camera, and gives a gentle natural smile.
-
-Ultra-realistic cinematic visuals, natural facial expressions, realistic skin texture, beautiful camera movements, soft golden lighting, shallow depth of field, nostalgic early 2000s MiniDV aesthetic, smooth transitions, realistic Korean lifestyle atmosphere.
-
-Maintain exactly the same face, hairstyle, outfit, and body proportions in every scene. No identity drift, no artificial beauty filters, no text, no logos, no watermark. Vertical 9:16, total duration exactly 15 seconds.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116042683164827648/img/F7YIS8NIKpe5n7Gq.jpg" width="600" alt="Korean Girl Lifestyle Vlog Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13214)**
-
-**Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2116042775007474169) | **Published:** Oct 30, 2026
-
----
-### Seedance 2.0 Realistic Female Dance Video Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed prompt for generating a 15-second vertical video of a woman dancing using Seedance 2.0. It specifies camera movements, choreography details, and maintains character consistency.
-
-#### 📝 Prompt
-
-```
-15 seconds, 9:16 aspect ratio, realistic female TikTok dance short video. One continuous shot, maintaining the reference character's appearance, clothing, and scene. Hand movements do not go above the head throughout. Left and right refer to the dancer's own left and right.
-
-Overall performance: Two distinct continuous dance routines, connected by 'right hand grabs/pulls lens close to face, left hand throws open pulling lens away'. The character continues jumping within the same dance area, with shoulders, hips, and arms synchronized. Movements have a contrast between expansive and quick retraction, each segment directly leading into the next.
-
-[0-3s | First Routine: Hip Support Extension & Retraction]
-CAMERA POV: Frontal medium shot, from top of head to above knees, fully presenting shoulders, waist, hips, and arms.
-
-Already dancing at the start. Left hand supports hip, right palm extends towards the lens then retracts to front of shoulder, coordinating with body tilting right and swinging back left; knees are elastic, shoulder line tilts as hips change direction. First extension is expansive, second retraction is quick, body starts next direction change during arm retraction. Head sways lightly with body, initially relaxed looking at lens, showing a slight smile when retracting hand the second time.
-
-[3-6s | Crossed Sinking, Palm Push Direction Change]
-Right hand naturally falls to front of abdomen, left hand leaves side of waist, both forearms cross in front of waist/abdomen, knees bend slightly, body sinks down; immediately after, arms open, body rises back to left side.
-
-Left palm touches chest, right palm pushes from chest towards front-right, shoulders/chest turn into slight oblique side with push; return to upright when retracting palm. Then push forward again once more, hips change direction simultaneously. Palms always have clear orientation, push and retract form one complete short phrase.
-
-The last push naturally extends into reaching towards the lens.
-
-[6-8s | Grab Pull Close to Face, Throw Hand Away Pull Lens Back]
-Right hand reaches towards lens, five fingers clearly close into a loose grab; immediately after, right elbow sharply pulls back behind, fist pulls along side of face back to front of right shoulder, shoulders/chest pulled back accordingly.
-
-CAMERA POV: Maintain distance when reaching/grabbing; the moment right elbow starts pulling back, lens synchronously rapidly zooms into facial close-up, decelerating in front of face. Lens movement completes simultaneously with this pull.
-
-At the moment of closeness to face, she slightly turns head, eyes accurately catch the lens, corners of mouth lift up. Body rhythm continues, right hand lowers along chest, left hand immediately throws open from chest towards left side, hands and shoulders together bring out this throw.
-
-CAMERA POV: The moment left hand throws open, rapidly pull back, restore medium shot from top of head to above knees, character remains centered throughout.
-
-[8-11s | Entering Second Routine During Pull Back: Alternating Arms at Shoulder Side]
-While lens is pulling back, thrown-out left arm has already bent elbow to retract, right arm simultaneously lifts up, two loosely gripped hands arrive below shoulder level.
-
-Shoulders alternate pushing forward left and right, bent elbows respond front-to-back with shoulders; hips coordinate weight shifting left and right, knees continue light bouncing. After completing one set of left-right alternation, hands drop to cross in front of waist, then immediately open to sides, bringing out a clear sink and rise. Movements are coherent, crossing becomes momentum storage for next expansion.
-
-Expression naturally relaxes from the smile at face-close moment, head lightly tilts with shoulder line, looking straight at lens again when arms open.
-
-[11-15s | Pointing Near Face, Low Position Expansion]\nFollowing arms opening, right hand retracts to side of face forming a clear single finger pointing up shape, left forearm stays in front of waist/abdomen. Left foot takes small step landing on left side bearing weight, hips send left, shoulder line tilts opposite; when body changes direction, left forearm expands sideways, right hand briefly maintains face-side shape.
-
-Right hand then drops along chest, crosses with left forearm in front of waist/abdomen, knees bend slightly; immediately uncross, elbows approach waist sides, forearms expand to both sides, coordinating with two consecutive left-right weight shifts. Head sways lightly with direction change, finally turning face to look at lens, smile appearing again.
-
-When the frame ends, still completing the last lateral move and rebound, retaining dance momentum.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115996669972021248/img/_zjzCiZJtxgkOXLV.jpg" width="600" alt="Seedance 2.0 Realistic Female Dance Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13173)**
-
-**Author:** [kollectionca](https://x.com/kollectionca) | **Source:** [Link](https://x.com/kollectionca/status/2115996967851675935) | **Published:** Oct 30, 2026
-
----
-### Keys to Dream Bedroom Floor
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a realistic cinematic video of a man turning a pile of antique keys into a glossy terrazzo-style bedroom floor using epoxy resin and polishing.
-
-#### 📝 Prompt
-
-```
-A realistic cinematic video inside a bright empty room with white walls, a bare concrete floor and a large window. It opens on a bearded man in blue denim overalls holding a shovel next to an enormous mound of thousands of antique brass and iron keys. He shovels and rakes the pile, spreading the keys into an even layer that covers the entire floor like a metallic carpet. A woman in red overalls then pours thick white self-leveling epoxy resin from a large plastic bucket, the glossy liquid spreading outward in circles until it completely submerges the keys. Next, a worker in a yellow high-visibility vest and cap pushes a floor polishing machine back and forth across the cured surface, buffing it into a mirror-shine white floor with golden key heads glinting through the resin like terrazzo. Finally, two workers in black quickly assemble a dark walnut bed frame, set a white mattress on it, add pillows, a beige fringed throw blanket and two wooden nightstands with ceramic lamps. The video closes with a wide static shot of the finished designer bedroom, sunlight reflecting off the glossy key-embedded floor. Smooth camera work, natural daylight, satisfying renovation time-lapse feel, hyper-detailed, photorealistic, 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115913993273442304/img/6R-0vM0H07l2Nzj-.jpg" width="600" alt="Keys to Dream Bedroom Floor">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13169)**
-
-**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2115914032884613494) | **Published:** Oct 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -9759,6 +9744,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-21T01:23:33.886Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-21T12:25:20.446Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6708** |
+| 📝 Total des prompts | **6712** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-11-21** |
 
@@ -361,6 +361,114 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Guerrière protégeant un enfant des loups dans une forêt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt pour créer une vidéo d'aventure dark fantasy où une guerrière défend un enfant contre des loups en utilisant la magie du feu dans une forêt brumeuse.
+
+#### 📝 Prompt
+
+```
+Une aventure de dark fantasy cinématographique dans une mystérieuse forêt antique, en pleine nuit. Une jeune guerrière courageuse aux longs cheveux bruns, vêtue d'une cape médiévale vert sombre, protège un petit enfant terrifié d'une meute de loups gris effrayants. Elle brandit une torche enflammée d'une main, se tenant sans crainte entre l'enfant et les loups qui approchent. Les fauves les encerclent dans la forêt embrumée, leurs yeux luisants épiaient le moindre de leurs mouvements. La guerrière lève sa torche, créant autour d'eux un cercle de feu magique. Soudain, les loups bondissent vers l'avant tandis qu'elle se prépare à défendre l'enfant. Clair de lune dramatique, brume dense dans la forêt, narration poignante, expressions faciales détaillées des personnages, angles de caméra cinématographiques, effets de feu réalistes, animation dark fantasy, visuels 3D ultra-détaillés, qualité 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124003081230991360/img/raIP7u5p3YI9qNzZ.jpg" width="600" alt="Guerrière protégeant un enfant des loups dans une forêt">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14093)**
+
+**Auteur:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2124003994762903950) | **Publié:** Nov 21, 2026
+
+---
+### Prompt Vidéo Publicitaire Parfum de Luxe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt pour générer une vidéo publicitaire de parfum haut de gamme mettant en scène un flacon en verre noir côtelé avec des détails dorés, des éclaboussures d'eau et des effets de fumée.
+
+#### 📝 Prompt
+
+```
+Créez une publicité cinématographique pour un parfum de luxe mettant en scène un flacon sophistiqué en verre noir côtelé, rehaussé d'élégants détails dorés. Ouvrez sur un éclaboussement spectaculaire d'eau limpide enveloppant le flacon, suivi d'une fumée atmosphérique tourbillonnante. Enchaînez avec un plan macro extrême soulignant la texture brillante et côtelée du flacon, ses accents dorés et ses délicates gouttelettes d'eau. Basculez ensuite vers un intérieur luxueux baigné d'une douce lumière dorée, puis créez une somptueuse éclaboussure de liquide doré s'élevant autour du flacon au ralenti. Terminez sur le flacon de parfum se dressant avec élégance devant un fond chaud or champagne. Photographie de produit ultra-réaliste, publicité de fragrance haut de gamme, éclairage dramatique, mouvements fluides, qualité cinématographique 4K, esthétique raffinée et luxueuse. Conservez un design de flacon parfaitement cohérent tout au long de la vidéo.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795240272903_eqto1u_HXlYYSlaIAALgE5.jpg" width="600" alt="Prompt Vidéo Publicitaire Parfum de Luxe">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14095)**
+
+**Auteur:** [Rubi](https://x.com/AIwithRubii) | **Source:** [Link](https://x.com/AIwithRubii/status/2123825895358279903) | **Publié:** Nov 20, 2026
+
+---
+### Bataille Fantastique Cinématographique avec le Guerrier à l'Éclair Bleu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une scène de bataille fantastique cinématographique de haute qualité, mettant en vedette un guerrier maniant une énergie bleue contre un monstre rouge.
+
+#### 📝 Prompt
+
+```
+Une bataille fantastique cinématographique à couper le souffle entre un jeune guerrier intrépide et un gigantesque monstre rouge terrifiant, au cœur d'une terre désolée en ruines. Le guerrier porte une tenue sombre et sobre, et manie une épée massive irradiant une intense énergie bleu électrique. L'immense créature est dotée de multiples tentacules surpuissants, d'yeux rouges incandescents et d'une peau sombre semblable à une armure. Le guerrier s'élance à une vitesse fulgurante, brandissant son épée d'énergie pour libérer de puissantes vagues de foudre bleue. D'énormes rochers et des débris volent dans les airs tandis que le monstre frappe avec ses tentacules géants. Plans aériens épiques, mouvements de caméra dynamiques, animations réalistes, effets d'énergie spectaculaires, éclairage dramatique, CGI 3D ultra-détaillée, style de film d'action hollywoodien, qualité cinématographique 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123786489360465920/img/X7g7jDg5Zg2l_KpC.jpg" width="600" alt="Bataille Fantastique Cinématographique avec le Guerrier à l'Éclair Bleu">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14094)**
+
+**Auteur:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2123786562139984156) | **Publié:** Nov 20, 2026
+
+---
+### Prompt de scène d'action Seedance 2.0 : Combat contre un méchant chauve
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt pour générer une séquence d'action cinématographique réaliste de 15 secondes, mettant en scène un combat entre le protagoniste et un méchant chauve dans une imprimerie. Inclut des descriptions détaillées des plans, des personnages et des instructions audio.
+
+#### 📝 Prompt
+
+```
+Pourquoi les méchants sont-ils toujours chauves 🤔
+
+Génère un court-métrage d'action cinématographique réaliste de 15 secondes au format paysage 16:9, créé directement à partir du texte.
+
+【Exigences principales】
+Haute densité, rythme effréné, combat rapproché ininterrompu, digne de la scène de bagarre la plus intense d'un film d'action de premier plan. Le tout premier plan s'ouvre en plein affrontement : aucune introduction, ni marche, ni face-à-face, ni pose. Aucun ralenti du début à la fin ; toutes les actions se déroulent en temps réel. Chaque plan dure environ 1,5 seconde et illustre un échange attaque-défense clair, en montrant l'impact du coup. Les actions s'enchaînent parfaitement d'un plan à l'autre : le résultat du mouvement précédent amorce le suivant, sans la moindre pause dans tout le film.
+
+【Personnages】
+Protagoniste : Homme adulte d'origine est-asiatique, environ 30 ans, cheveux noirs courts, visage buriné, carrure musclée. Porte un t-shirt noir à manches longues, un pantalon cargo gris foncé et des bottes de travail noires, manches retroussées, sans arme.
+Adversaire : Homme adulte de grande taille, crâne rasé, tatouages de style industriel sur les bras, porte un gilet cargo sombre, un t-shirt noir à manches longues et de lourdes bottes de travail, tient un tuyau métallique dans la main droite.
+Seuls ces deux personnages apparaissent dans le film ; leur apparence, leurs vêtements et leurs armes restent constants.
+
+【Décor】
+Imprimerie en pleine nuit, machines à l'arrêt. Des néons blancs et froids éclairent de grandes presses d'imprimerie, des piles de papier, des bacs métalliques et des tapis roulants. Des bouts de papier jonchent le sol, une fine poussière flotte dans l'air, et le bourdonnement sourd du système de ventilation résonne au loin. Tout le film se déroule à côté de la même presse d'imprimerie ; les positions de la machine, des piles de papier, des convoyeurs et des deux personnages doivent rester spatialement cohérentes.
+
+【Découpage des plans】
+Plan 1 (0–1,5 s) : Plan moyen latéral. L'adversaire balaie le bas du corps du protagoniste avec le tuyau métallique ; ce dernier lève la jambe pour esquiver ; le tuyau percute un bac métallique.
+Plan 2 (1,5–3 s) : Plan en suivi caméra à l'épaule. L'adversaire frappe l'abdomen du protagoniste avec l'extrémité du tuyau ; le protagoniste recule et s'écrase contre une pile de papier.
+Plan 3 (3–4,5 s) : Plan moyen. Le protagoniste esquive le coup de l'adversaire et lui assène un coup de coude dans les côtes.
+Plan 4 (4,5–6 s) : Plan moyen. L'adversaire agrippe le protagoniste et projette son dos contre le corps de la presse.
+Plan 5 (6–7,5 s) : Plan moyen latéral. L'adversaire balance à nouveau le tuyau ; le protagoniste saisit le milieu du tube métallique.
+Plan 6 (7,5–9 s) : Gros plan. Le protagoniste frappe le genou de l'adversaire d'un coup de pied et fait pivoter le tuyau métallique ; l'adversaire lâche prise ; le tuyau roule jusqu'à la pile de papier.
+Plan 7 (9–10,5 s) : Plan moyen. L'adversaire lance un coup de poing ; le protagoniste pare l'attaque et enchaîne avec une série de coups courts et rapides au torse.
+Plan 8 (10,5–12 s) : Plan moyen. L'adversaire plonge pour tenter une mise au sol ; le protagoniste bloque sa tête et son cou.
+Plan 9 (12–13,5 s) : Plan moyen légèrement plus large. Le protagoniste projette l'adversaire contre le corps de la presse ; ce dernier s'effondre sous le choc.
+Plan 10 (13,5–15 s) : Gros plan sur le visage du protagoniste, éclairé par une lumière blanche et froide. Poussière et égratignures sur le visage, souffle court, il fixe intensément l'adversaire à terre. Fin immédiate de l'image.
+
+【Action et réalisation】
+Qualité cinématographique réaliste, éclairage industriel blanc et froid, presse d'imprimerie métallique, bouts de papier, poussière, profondeur mécanique de l'espace, visages nets. Chaque coup de poing ou de pied doit d'abord atteindre sa cible avant de montrer la réaction physique, le recul ou la perte d'équilibre ; aucun coup dans le vide, aucune chute anticipée sans contact. Les actions sont agressives et se déroulent au corps à corps, en utilisant la presse, les piles de papier, les convoyeurs et les bacs métalliques comme points d'appui ; recevoir un coup provoque douleur et déséquilibre, pas d'invincibilité. De légers tremblements de caméra sont autorisés lors des impacts, mais il doit toujours être évident de savoir qui frappe qui. Les positions gauche/droite doivent rester cohérentes entre les plans successifs ; aucune téléportation, aucun chevauchement visuel, ni main ou arme supplémentaire. Une fois lâché, le tuyau métallique reste près de la pile de papier ; personne ne le ramasse. Aucune acrobatie, coup de pied sauté ou super-pouvoir ; aucun gros plan gore. La caméra se concentre sur l'action, sans gros plans délibérés sur des parties du corps.
+
+【Audio】
+Réverbération caractéristique d'une imprimerie vide, bourdonnement sourd de la ventilation. Les bruits du tuyau métallique frappant le bac, de l'impact dans l'abdomen, du choc contre la presse, de la chute du tuyau, des coups, de la chute au sol et des bouts de papier qui voltigent sont parfaitement synchronisés avec l'image. Dès la première seconde, une bande-son d'action tendue, rapide et dominée par les percussions ; la musique baisse brièvement lorsque le protagoniste heurte la presse, le rythme explose à nouveau après le retournement de situation, atteint son apogée quand l'adversaire s'écrase contre la presse, et la fin ne laisse entendre que le souffle haletant et le bruit de la ventilation.
+Aucun dialogue, aucune voix off, aucun sous-titre, aucun texte, aucun filigrane.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123741933101334528/img/SNi5Cv3r8wbZiWq-.jpg" width="600" alt="Prompt de scène d'action Seedance 2.0 : Combat contre un méchant chauve">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14096)**
+
+**Auteur:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2123742353709998574) | **Publié:** Nov 20, 2026
+
+---
 ### Prompt de coup d'épée de guerrier chinois ancien
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9171,129 +9279,6 @@ Vidéo au format vertical, pièce vide et lumineuse aux murs blancs, sol en bét
 **Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116102340839092598) | **Publié:** Oct 30, 2026
 
 ---
-### Transformation d'une araignée mécanique en voiture de sport
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique décrivant la transformation d'une araignée mécanique en voiture de sport de luxe dans un garage sombre.
-
-#### 📝 Prompt
-
-```
-Une scène de transformation cinématographique hyper-réaliste à l'intérieur d'un parking souterrain plongé dans l'obscurité. Une mystérieuse créature mécanique noire et luisante, semblable à une araignée, rampe sur le sol en béton en direction d'un petit objet métallique. Soudain, la créature amorce sa métamorphose : ses multiples longues pattes métalliques s'écartent puis se replient pour former des composants mécaniques complexes. L'ensemble de la structure se transforme rapidement en une luxueuse voiture de sport noire, au design épuré et agressif, rappelant une Porsche 911. Les pièces mécaniques se rétractent avec fluidité, les roues prennent forme, les panneaux de carrosserie s'assemblent et les phares s'allument d'une lumière éclatante. La transformation est fluide, futuriste et visuellement époustouflante. La voiture de sport noire ainsi achevée avance lentement, ses puissants phares perçant l'obscurité du garage.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116095481600516096/img/ee3WLr4woRgzmEf1.jpg" width="600" alt="Transformation d'une araignée mécanique en voiture de sport">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13217)**
-
-**Auteur:** [Zarnish](https://x.com/ZarnishNael) | **Source:** [Link](https://x.com/ZarnishNael/status/2116095524357181578) | **Publié:** Oct 30, 2026
-
----
-### Prompt de Vlog Lifestyle Coréenne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour générer un mini-vlog lifestyle cinématique de 15 secondes mettant en scène une jeune femme coréenne, avec une apparence de personnage cohérente à travers plusieurs scènes : réveil, promenade à Séoul, visite d'un café et observation du coucher de soleil.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo, un magnifique mini vlog lifestyle cinématographique de 15 secondes mettant en scène une jeune Coréenne. Le personnage principal est une femme coréenne de 24 ans à l'apparence constante, d'une beauté naturelle, aux longs cheveux noirs avec une frange légère, portant un sweat à capuche bordeaux oversize, un pantalon ample et un sac bandoulière en toile.
-
-Scène 1 (0–3 s) : Elle se réveille dans sa chambre douillette, la lumière du soleil caressant doucement son visage. Elle ouvre lentement les yeux et sourit.
-Scène 2 (3–5 s) : Elle se prépare devant le miroir, attache ses cheveux et prend son sac bandoulière.
-Scène 3 (5–7 s) : Elle marche dans une magnifique rue de Séoul sous une pluie de feuilles d'automne, filmée en travelling cinématographique.
-Scène 4 (7–10 s) : Elle entre dans un café coréen chaleureux, commande un café glacé, s'installe près de la fenêtre et en boit une gorgée paisiblement.
-Scène 5 (10–12 s) : Plan rapproché sur elle en train d'écrire dans son carnet tout en écoutant de la musique.
-Scène 6 (12–15 s) : Elle contemple un superbe coucher de soleil orangé au-dessus de Séoul, se tourne vers la caméra et offre un sourire doux et naturel.
-
-Rendu visuel cinématographique ultra-réaliste, expressions faciales naturelles, grain de peau réaliste, mouvements de caméra fluides et élégants, éclairage doré tamisé, faible profondeur de champ, esthétique nostalgique MiniDV des années 2000, transitions fluides, atmosphère authentique du quotidien coréen.
-
-Conservez exactement le même visage, la même coiffure, la même tenue et les mêmes proportions corporelles dans chaque scène. Aucune altération de l'identité, aucun filtre de beauté artificiel, aucun texte, aucun logo, aucun filigrane. Format vertical 9:16, durée totale d'exactement 15 secondes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116042683164827648/img/F7YIS8NIKpe5n7Gq.jpg" width="600" alt="Prompt de Vlog Lifestyle Coréenne">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13214)**
-
-**Auteur:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2116042775007474169) | **Publié:** Oct 30, 2026
-
----
-### Prompt de vidéo de danse Douyin Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt détaillé pour générer une vidéo de danse verticale de 15 secondes avec Seedance 2.0, incluant des mouvements de caméra spécifiques, des étapes chorégraphiques et des instructions pour la cohérence du personnage.
-
-#### 📝 Prompt
-
-```
-15 secondes, format 9:16, vidéo courte d'une vraie femme dansant sur Douyin (style TikTok). Plan séquence unique et continu, en conservant l'apparence, les vêtements et le décor de la personne de référence. Les mains ne dépassent jamais la tête. La gauche et la droite s'entendent du point de vue de la danseuse elle-même.
-
-Performance globale : deux chorégraphies distinctes et consécutives, reliées par un mouvement de transition (« main droite qui saisit/tire l'objectif près du visage, main gauche qui balaie vers l'extérieur pour repousser l'objectif »). La personne continue de rebondir dans le même espace de danse, les épaules, les hanches et les bras bougeant de manière synchronisée. Les mouvements jouent sur le contraste entre des étirements amples et des retraits rapides, chaque segment enchaînant directement sur le suivant.
-
-[0-3s | Première séquence : appui sur la hanche et extension]
-CADRAGE CAMÉRA : plan moyen frontal, du sommet de la tête jusqu'à un peu au-dessus des genoux, mettant pleinement en valeur les épaules, la taille, les hanches et les bras.
-
-La danse a déjà commencé. La main gauche soutient la hanche, la paume droite s'étend vers l'objectif puis revient devant l'épaule, en coordination avec le buste qui penche à droite avant de revenir à gauche ; les genoux restent souples, la ligne des épaules s'incline lorsque les hanches changent de direction. La première extension est ample, le second retrait est rapide ; lorsque le bras se replie, le corps a déjà amorcé le changement de direction suivant. La tête oscille légèrement avec le corps, le regard d'abord détendu vers l'objectif, puis un léger sourire apparaît lors du deuxième retrait de la main.
-
-[3-6s | Croisement et descente, poussée de la paume et changement de direction]
-La main droite retombe naturellement devant l'abdomen, la main gauche quitte le côté de la taille, les deux avant-bras se croisent devant la taille/l'abdomen, les genoux fléchissent légèrement et le corps descend en conséquence ; aussitôt après, les bras s'ouvrent largement et le corps remonte en revenant vers la gauche.
-
-La paume gauche touche la poitrine, la paume droite pousse depuis la poitrine vers l'avant-droit, les épaules et le torse pivotent légèrement en oblique pour accompagner la poussée ; retour à la verticale lors du retrait de la paume. Puis nouvelle poussée vers l'avant, les hanches changeant de direction simultanément. L'orientation des paumes reste toujours nette, la poussée et le retrait formant une courte phrase complète.
-La dernière poussée se prolonge naturellement en un geste tendu vers l'objectif.
-
-[6-8s | Saisir-tirer vers le visage, balayer la main vers l'extérieur]
-La main droite se tend vers l'objectif, les doigts se refermant nettement en une prise souple ; immédiatement après, le coude droit se replie vivement vers l'arrière, le poing glissant le long du visage pour revenir devant l'épaule droite, entraînant les épaules et le torse vers l'arrière.
-
-CADRAGE CAMÉRA : maintenir la distance pendant l'extension et l'approche ; à l'instant précis où le coude droit amorce son retrait, l'objectif se rapproche rapidement et de façon synchrone pour un gros plan du visage, en décélérant devant celui-ci. Le mouvement de caméra s'achève en même temps que ce retrait.
-
-Au moment du gros plan, elle tourne légèrement la tête, le regard accrochant parfaitement l'objectif, les commissures des lèvres relevées. Le rythme corporel se poursuit, la main droite redescend le long de la poitrine, tandis que la main gauche balaie immédiatement depuis la poitrine vers la gauche, la main et l'épaule impulsant ensemble ce mouvement.
-
-CADRAGE CAMÉRA : dès que la main gauche balaie vers l'extérieur, recul rapide pour rétablir le plan moyen du sommet de la tête jusqu'à un peu au-dessus des genoux, la personne restant centrée tout au long de la séquence.
-
-[8-11s | Recul et entrée dans la deuxième séquence : alternance des bras aux épaules]
-Pendant le recul de l'objectif, le bras gauche projeté vers l'extérieur a déjà plié le coude pour revenir, tandis que le bras droit se soulève simultanément, les deux mains légèrement fermées arrivant sous le niveau des épaules.
-
-Les épaules alternent des poussées vers l'avant, à gauche puis à droite, les coudes pliés répondant en décalé (un devant, un derrière) ; les hanches accompagnent le transfert de poids d'un côté à l'autre, les genoux poursuivant leurs légers rebonds. Après avoir complété une série d'alternances gauche/droite, les mains redescendent pour se croiser devant la taille, puis s'ouvrent immédiatement sur les côtés, créant une descente et une remontée bien marquées. Les gestes sont fluides, le croisement servant de préparation à l'ouverture suivante.
-
-L'expression se détend naturellement à partir du sourire esquissé lors du gros plan, la tête s'inclinant légèrement avec la ligne des épaules, le regard se fixant à nouveau droit dans l'objectif lorsque les bras s'ouvrent.
-
-[11-15s | Doigt pointé près du visage, ouverture en position basse]
-Dans la continuité de l'ouverture des bras, la main droite revient près du visage en formant clairement un index levé, l'avant-bras gauche restant devant la taille/l'abdomen. Le pied gauche fait un petit pas pour se poser à gauche et supporter le poids du corps, les hanches poussent à gauche, la ligne des épaules s'inclinant dans le sens opposé ; lorsque le corps change de direction, l'avant-bras gauche s'étend sur le côté, la main droite maintenant brièvement sa position près du visage.
-
-La main droite redescend ensuite le long de la poitrine pour croiser l'avant-bras gauche devant la taille/l'abdomen, les genoux fléchissant légèrement ; aussitôt, les bras se décroisent, les coudes près des flancs, les avant-bras s'ouvrant des deux côtés, en coordination avec deux transferts de poids successifs de gauche à droite. La tête oscille légèrement au gré des changements de direction, le visage finissant par se tourner vers l'objectif, le sourire réapparaissant.
-
-La vidéo se termine alors que le dernier déplacement latéral et son rebond s'achèvent, préservant ainsi toute la dynamique de la danse.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115996669972021248/img/_zjzCiZJtxgkOXLV.jpg" width="600" alt="Prompt de vidéo de danse Douyin Seedance 2.0">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13173)**
-
-**Auteur:** [kollectionca](https://x.com/kollectionca) | **Source:** [Link](https://x.com/kollectionca/status/2115996967851675935) | **Publié:** Oct 30, 2026
-
----
-### Clés pour un Sol de Chambre de Rêve
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une vidéo cinématographique réaliste d'un homme transformant un tas de clés anciennes en un sol de chambre style terrazzo brillant, utilisant de la résine époxy et du polissage.
-
-#### 📝 Prompt
-
-```
-Une vidéo cinématographique réaliste à l'intérieur d'une pièce vide et lumineuse aux murs blancs, avec un sol en béton brut et une grande fenêtre. Elle s'ouvre sur un homme barbu vêtu d'une salopette en jean bleu, tenant une pelle à côté d'un immense tas composé de milliers de clés anciennes en laiton et en fer. Il creuse et ratisse le monticule, étalant les clés en une couche uniforme qui recouvre tout le sol tel un tapis métallique. Une femme en salopette rouge verse ensuite une épaisse résine époxy blanche autonivelante depuis un grand seau en plastique ; le liquide brillant s'étend en cercles concentriques jusqu'à submerger entièrement les clés. Ensuite, un ouvrier portant un gilet jaune haute visibilité et une casquette pousse une polisseuse de sol d'avant en arrière sur la surface durcie, la lustrant jusqu'à obtenir un plancher blanc effet miroir où les têtes dorées des clés scintillent à travers la résine comme dans du terrazzo. Enfin, deux ouvriers vêtus de noir assemblent rapidement un cadre de lit en noyer foncé, y posent un matelas blanc, ajoutent des oreillers, un plaid beige à franges et deux tables de chevet en bois équipées de lampes en céramique. La vidéo se termine sur un large plan fixe de cette chambre design achevée, la lumière du soleil se reflétant sur le sol brillant incrusté de clés. Mouvements de caméra fluides, lumière naturelle, ambiance satisfaisante de time-lapse de rénovation, hyper-détaillé, photoréaliste, 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115913993273442304/img/6R-0vM0H07l2Nzj-.jpg" width="600" alt="Clés pour un Sol de Chambre de Rêve">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13169)**
-
-**Auteur:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2115914032884613494) | **Publié:** Oct 29, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -9355,6 +9340,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-21T01:23:44.891Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-21T12:25:34.375Z</sub>
 
 </div>

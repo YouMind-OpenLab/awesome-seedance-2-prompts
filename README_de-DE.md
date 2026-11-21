@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6708** |
+| 📝 Gesamtanzahl Prompts | **6712** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-11-21** |
 
@@ -361,6 +361,114 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Kriegerin schützt Kind vor Wölfen im Wald
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines Dark-Fantasy-Abenteuervideos, in dem eine Kriegerin ein Kind mit Feuermagie in einem nebligen Wald vor Wölfen verteidigt.
+
+#### 📝 Prompt
+
+```
+Ein cineastisches Dark-Fantasy-Abenteuer in einem geheimnisvollen, uralten Wald bei Nacht. Eine mutige junge Kriegerin mit langem braunem Haar, gehüllt in einen dunkelgrünen mittelalterlichen Umhang, beschützt ein verängstigtes kleines Kind vor einem Rudel furchteinflößender grauer Wölfe. In der einen Hand hält sie eine brennende Fackel, während sie furchtlos zwischen dem Kind und den herannahenden Wölfen steht. Die Wölfe umzingeln die beiden im nebelverhangenen Wald, ihre leuchtenden Augen verfolgen jede Bewegung. Die Kriegerin hebt ihre Fackel und erschafft einen magischen Feuerring um sich und das Kind. Plötzlich springen die Wölfe nach vorn, während sie sich darauf vorbereitet, das Kind zu verteidigen. Dramatisches Mondlicht, dichter Waldnebel, emotionales Storytelling, detaillierte Gesichtsausdrücke der Charaktere, cineastische Kameraperspektiven, realistische Feuer-Effekte, Dark-Fantasy-Animation, ultra-detaillierte 3D -Visuals, 4K -Qualität.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124003081230991360/img/raIP7u5p3YI9qNzZ.jpg" width="600" alt="Kriegerin schützt Kind vor Wölfen im Wald">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14093)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Quelle:** [Link](https://x.com/draavenai/status/2124003994762903950) | **Veröffentlicht:** Nov 21, 2026
+
+---
+### Luxus-Parfüm-Werbespot Video-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines hochwertigen Werbevideos für Parfüm, das eine schwarze geriffelte Glasflasche mit goldenen Details, Wasserspritzern und Raucheffekten zeigt.
+
+#### 📝 Prompt
+
+```
+Erstelle einen cineastischen Werbespot für ein luxuriöses Parfum mit einer edlen, schwarzen gerippten Glasflasche und eleganten Golddetails. Beginne mit einem dramatischen Spritzer kristallklarem Wasser rund um die Flasche, gefolgt von wirbelndem, atmosphärischem Rauch. Zeige eine extreme Makro-Nahaufnahme, die die glänzende gerippte Textur der Flasche, die goldenen Akzente und die feinen Wassertropfen hervorhebt. Wechsle dann in ein warmes, luxuriöses Interieur mit sanfter goldener Beleuchtung und erzeuge anschließend einen spektakulären Spritzer aus goldener Flüssigkeit, der sich in Zeitlupe um die Flasche herum erhebt. Beende den Spot mit der elegant platzierten Parfumflasche vor einem warmen champagnergoldenen Hintergrund. Ultrarealistische Produktfotografie, Premium-Duftwerbung, dramatische Lichtsetzung, fließende Bewegungen, cineastische 4K-Qualität, raffinierte Luxusästhetik. Das Design der Flasche muss durchgehend einheitlich bleiben.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795240272903_eqto1u_HXlYYSlaIAALgE5.jpg" width="600" alt="Luxus-Parfüm-Werbespot Video-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14095)**
+
+**Autor:** [Rubi](https://x.com/AIwithRubii) | **Quelle:** [Link](https://x.com/AIwithRubii/status/2123825895358279903) | **Veröffentlicht:** Nov 20, 2026
+
+---
+### Epische Fantasy-Schlacht mit dem Blitze-Krieger
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung einer hochwertigen cineastischen Fantasy-Kampfszene, in der ein Krieger blaue Energie gegen ein rotes Monster einsetzt.
+
+#### 📝 Prompt
+
+```
+Eine atemberaubende, cineastische Fantasy-Schlacht zwischen einem furchtlosen jungen Krieger und einem gigantischen, furchteinflößenden roten Monster in einer zerstörten Einöde. Der Krieger trägt ein schlichtes, dunkles Gewand und führt ein gewaltiges Schwert, das vor intensiver, elektrisch blauer Energie glüht. Das riesige Ungeheuer besitzt mehrere mächtige Tentakel, rot leuchtende Augen und eine dunkle Panzerhaut. Mit unglaublicher Geschwindigkeit stürmt der Krieger nach vorn, schwingt sein Energieschwert und entfesselt gewaltige blaue Blitzwellen. Massive Felsbrocken und Trümmer fliegen durch die Luft, während das Monster mit seinen gigantischen Tentakeln angreift. Epische Luftaufnahmen, dynamische Kamerabewegungen, realistische Bewegungsabläufe, spektakuläre Energieeffekte, dramatische Lichtstimmung, ultradetailliertes 3D-CGI, Hollywood-Actionfilm-Stil, cineastische 4K-Qualität.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123786489360465920/img/X7g7jDg5Zg2l_KpC.jpg" width="600" alt="Epische Fantasy-Schlacht mit dem Blitze-Krieger">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14094)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Quelle:** [Link](https://x.com/draavenai/status/2123786562139984156) | **Veröffentlicht:** Nov 20, 2026
+
+---
+### Seedance 2.0 Action-Szenen-Prompt: Kampf gegen den kahlköpfigen Bösewicht
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein Prompt zur Generierung einer 15-sekündigen, realistischen cineastischen Action-Sequenz mit einem Kampf zwischen dem Protagonisten und einem kahlköpfigen Bösewicht in einer Druckerei. Enthält detaillierte Shot-Breakdowns, Charakterbeschreibungen und Audio-Anweisungen.
+
+#### 📝 Prompt
+
+```
+Warum sind die Bösen eigentlich immer kahlköpfig? 🤔
+
+Erstelle einen 15-sekündigen, realistischen Action-Kurzfilm im cineastischen Stil, Format 16:9 (Querformat), direkt aus diesem Text generiert.
+
+【Kernanforderungen】
+Hohe Dichte, hohes Tempo, ununterbrochener Nahkampf – wie die intensivste Kampfszene in einem erstklassigen Actionfilm. Das erste Bild setzt bereits mitten im Gefecht ein; kein Intro, kein Herumlaufen, kein Abtasten, keine Posen. Durchgehend keine Zeitlupe; alle Bewegungen laufen in Echtzeit ab. Jede Einstellung dauert etwa 1,5 Sekunden und zeigt einen klaren Angriffs-Abwehr-Austausch samt Trefferwirkung. Die Aktionen gehen nahtlos ineinander über: Das Ende einer Bewegung ist der Start der nächsten. Keine Pausen im gesamten Film.
+
+【Figuren】
+Protagonist: Erwachsener ostasiatischer Mann, ca. 30 Jahre alt, kurze schwarze Haare, markantes Gesicht, muskulöse Statur. Trägt ein schwarzes Langarmshirt, dunkelgraue Cargo-Hose, schwarze Arbeitsschuhe, Ärmel hochgekrempelt, unbewaffnet.
+Gegner: Großer erwachsener Mann, Glatze, Tattoos im Industrial-Stil auf den Armen, trägt eine dunkle Cargo-Weste, schwarzes Langarmshirt, schwere Arbeitsschuhe, hält ein Metallrohr in der rechten Hand.
+Im gesamten Film treten ausschließlich diese beiden Personen auf; Aussehen, Kleidung und Waffen bleiben durchgehend konsistent.
+
+【Szene】
+Druckerei bei Nacht, Maschinen stehen still, kaltes weißes Deckenlicht beleuchtet große Druckmaschinen, Papierstapel, Metalltabletts und Förderbänder. Papierschnipsel auf dem Boden, feiner Staub in der Luft, leises Brummen der Lüftungsanlage im Hintergrund. Der gesamte Film spielt an derselben Druckmaschine; die Positionen von Maschine, Papierstapeln, Förderbändern und den beiden Figuren bleiben räumlich schlüssig.
+
+【Einstellungsabfolge】
+Einstellung 1 (0–1,5 s): Halbtotale von der Seite. Der Gegner fegt mit dem Metallrohr nach den Beinen des Protagonisten; dieser hebt das Bein zum Ausweichen; das Rohr trifft auf ein Metalltablett.
+Einstellung 2 (1,5–3 s): Handgeführte Verfolgungsaufnahme. Der Gegner stößt dem Protagonisten die Rohrspitze in den Bauch; dieser weicht zurück und prallt gegen einen Papierstapel.
+Einstellung 3 (3–4,5 s): Halbtotale. Der Protagonist weicht dem Schlag des Gegners aus und rammt ihm den Ellbogen in die Rippen.
+Einstellung 4 (4,5–6 s): Halbtotale. Der Gegner packt den Protagonisten und knallt ihn mit dem Rücken gegen den Korpus der Druckmaschine.
+Einstellung 5 (6–7,5 s): Halbtotale von der Seite. Der Gegner schwingt erneut das Rohr; der Protagonist greift es in der Mitte.
+Einstellung 6 (7,5–9 s): Nahaufnahme. Der Protagonist tritt gegen das Knie des Gegners und verdreht das Metallrohr; der Gegner lässt los; das Rohr rollt zum Papierstapel.
+Einstellung 7 (9–10,5 s): Halbtotale. Der Gegner schlägt zu; der Protagonist blockt und landet schnelle, kurze Schläge auf dessen Brust.
+Einstellung 8 (10,5–12 s): Halbtotale. Der Gegner stürzt sich für einen Takedown nach vorn; der Protagonist fixiert seinen Kopf/Nacken.
+Einstellung 9 (12–13,5 s): Etwas weitere Halbtotale. Der Protagonist schleudert den Gegner gegen den Korpus der Druckmaschine; dieser sackt nach dem Aufprall zusammen.
+Einstellung 10 (13,5–15 s): Gesichts-Nahaufnahme des Protagonisten, kaltes weißes Licht auf seinem Gesicht, Staub und Kratzer sichtbar, er keucht schwer, wirft einen grimmigen Blick auf den am Boden liegenden Gegner, abruptes Ende.
+
+【Action & Kamera】
+Realistische Kinoqualität, kaltes weißes Industrie-Licht, metallische Druckmaschine, Papierschnipsel, Staub, mechanische Raumebenen, klar erkennbare Gesichter. Jeder Schlag/Tritt muss zuerst das Ziel treffen, bevor eine körperliche Reaktion, ein Rückzug oder ein Gleichgewichtsverlust gezeigt wird; keine Luftschläge, kein Hinfallen ohne vorherigen Kontakt. Die Actionszenen sind aggressiv und finden im Nahkampf statt, wobei Druckmaschine, Papierstapel, Förderbänder und Metalltabletts als Hebel genutzt werden; Treffer verursachen Schmerz und Gleichgewichtsverlust, niemand ist unverwundbar. Leichte Kamerawackler bei Treffern sind erlaubt, es muss aber stets klar erkennbar bleiben, wer wen getroffen hat. Die Links-rechts-Positionierung bleibt zwischen aufeinanderfolgenden Einstellungen konsistent; kein Teleportieren, kein Clipping, keine zusätzlichen Hände oder Waffen. Das Metallrohr bleibt nach dem Loslassen beim Papierstapel liegen; niemand hebt es wieder auf. Keine Saltos, Fliegenden Tritte oder Superkräfte; keine blutigen Nahaufnahmen. Die Kamera konzentriert sich auf die Action, keine gezielten Detailaufnahmen einzelner Körperteile.
+
+【Audio】
+Haller Nachhall der leeren Druckerei, tiefes Brummen der Lüftung. Geräusche wie das Auftreffen des Metallrohrs auf dem Tablett, der Stich in den Bauch, der Aufprall an der Maschine, das Fallen des Rohrs, Treffer, das Aufschlagen auf dem Boden und herumfliegende Papierschnipsel sind exakt lippensynchron zum Bild. Ab Sekunde eins: ein spannungsgeladener, schneller, trommellastiger Action-Soundtrack; die Musik wird kurz leiser, als der Protagonist gegen die Maschine prallt, der Rhythmus explodiert nach dem Konter erneut, erreicht seinen Höhepunkt, als der Gegner gegen die Maschine geschleudert wird, und am Ende bleiben nur Atem- und Lüftungsgeräusche.
+Keine Dialoge, kein Voice-over, keine Untertitel, kein Text, keine Wasserzeichen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123741933101334528/img/SNi5Cv3r8wbZiWq-.jpg" width="600" alt="Seedance 2.0 Action-Szenen-Prompt: Kampf gegen den kahlköpfigen Bösewicht">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14096)**
+
+**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Quelle:** [Link](https://x.com/Adam38363368936/status/2123742353709998574) | **Veröffentlicht:** Nov 20, 2026
+
+---
 ### Prompt für antiken chinesischen Krieger-Schwertangriff
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9431,129 +9539,6 @@ Hochformat-Video, heller leerer Raum mit weißen Wänden, Betonboden und einem g
 **Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2116102340839092598) | **Veröffentlicht:** Oct 30, 2026
 
 ---
-### Verwandlung von mechanischer Spinne zu Sportwagen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Video-Prompt, der die Verwandlung einer mechanischen Spinne in einen Luxus-Sportwagen in einer dunklen Garage beschreibt.
-
-#### 📝 Prompt
-
-```
-Eine hyperrealistische, cineastische Transformationsszene in einer dunklen Tiefgarage. Ein mysteriöses, glänzend schwarzes, spinnenartiges Maschinenwesen kriecht über den Betonboden auf einen kleinen metallischen Gegenstand zu. Plötzlich beginnt die Kreatur sich zu verwandeln: Ihre zahlreichen langen Metallbeine spreizen sich nach außen und falten sich zu komplexen mechanischen Bauteilen zusammen. Die gesamte Struktur formt sich rasant zu einem schnittigen, aggressiv wirkenden schwarzen Luxussportwagen um, der an einen Porsche 911 erinnert. Mechanische Teile gleiten geschmeidig ein, Räder formen sich, Karosseriebleche fügen sich nahtlos zusammen und die Scheinwerfer leuchten hell auf. Die Verwandlung verläuft fließend, futuristisch und visuell atemberaubend. Der fertige schwarze Sportwagen rollt langsam vorwärts, während seine kraftvollen Scheinwerfer das Dunkel der Garage durchdringen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116095481600516096/img/ee3WLr4woRgzmEf1.jpg" width="600" alt="Verwandlung von mechanischer Spinne zu Sportwagen">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13217)**
-
-**Autor:** [Zarnish](https://x.com/ZarnishNael) | **Quelle:** [Link](https://x.com/ZarnishNael/status/2116095524357181578) | **Veröffentlicht:** Oct 30, 2026
-
----
-### Prompt für Koreanisches Girl Lifestyle Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Erstellung eines 15-sekündigen, cineastischen Mini-Vlogs über den Lebensstil eines koreanischen Mädchens mit konsistenter Charakterdarstellung in mehreren Szenen wie Aufwachen, Spaziergang durch Seoul, Café-Besuch und Sonnenuntergang.
-
-#### 📝 Prompt
-
-```
-Erstelle ein Video, einen wunderschönen 15-sekündigen cineastischen Mini-Vlog über den Lifestyle eines koreanischen Mädchens. Zeige durchgehend dieselbe 24-jährige Koreanerin mit natürlicher Schönheit, langen schwarzen Haaren und weichem Pony, die einen übergroßen bordeauxroten Hoodie, weite Hosen und eine Canvas-Umhängetasche trägt.
-
-Szene 1 (0–3 s): Sie wacht in ihrem gemütlichen Schlafzimmer auf, Sonnenlicht fällt sanft auf ihr Gesicht. Sie öffnet langsam die Augen und lächelt.
-Szene 2 (3–5 s): Sie macht sich vor dem Spiegel fertig, bindet ihre Haare zusammen und nimmt ihre Umhängetasche.
-Szene 3 (5–7 s): Sie spaziert durch eine malerische Straße in Seoul, während Herbstblätter um sie herum fallen – cineastischer Kamera-Mitlauf.
-Szene 4 (7–10 s): Sie betritt ein gemütliches koreanisches Café, bestellt einen Eiskaffee, setzt sich ans Fenster und nimmt einen genussvollen Schluck.
-Szene 5 (10–12 s): Nahaufnahme, wie sie in ihr Notizbuch schreibt und dabei Musik hört.
-Szene 6 (12–15 s): Sie betrachtet einen wunderschönen orangefarbenen Sonnenuntergang über Seoul, dreht sich zur Kamera und schenkt ein sanftes, natürliches Lächeln.
-
-Ultrarealistische cineastische Bilder, natürliche Gesichtsausdrücke, realistische Hautstruktur, wunderschöne Kamerabewegungen, weiches goldenes Licht, geringe Schärfentiefe, nostalgische MiniDV-Ästhetik der frühen 2000er, fließende Übergänge, realistische koreanische Lifestyle-Atmosphäre.
-
-Behalte in jeder Szene exakt dasselbe Gesicht, dieselbe Frisur, dasselbe Outfit und dieselben Körperproportionen bei. Keine Veränderung des Gesichts, keine künstlichen Beauty-Filter, kein Text, keine Logos, kein Wasserzeichen. Vertikal 9:16, Gesamtdauer exakt 15 Sekunden.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116042683164827648/img/F7YIS8NIKpe5n7Gq.jpg" width="600" alt="Prompt für Koreanisches Girl Lifestyle Vlog">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13214)**
-
-**Autor:** [liana](https://x.com/Lianaalane) | **Quelle:** [Link](https://x.com/Lianaalane/status/2116042775007474169) | **Veröffentlicht:** Oct 30, 2026
-
----
-### Seedance 2.0 Douyin-Tanzvideo-Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein detaillierter Prompt zur Generierung eines 15-sekündigen vertikalen Tanzvideos mit Seedance 2.0, einschließlich spezifischer Kamerabewegungen, Choreographieschritte und Anweisungen zur Konsistenz der Charaktere.
-
-#### 📝 Prompt
-
-```
-15 Sekunden, Seitenverhältnis 9:16, kurzes Video einer realen Frau, die auf Douyin tanzt (im TikTok-Stil). Eine einzige durchgehende Einstellung, bei der Aussehen, Kleidung und Szene der Referenzperson beibehalten werden. Die Handbewegungen gehen niemals über den Kopf hinaus. „Links“ und „rechts“ beziehen sich auf die eigene linke und rechte Seite der Tänzerin.
-
-Gesamtablauf: Zwei deutlich voneinander abgegrenzte, aufeinanderfolgende Tanzsequenzen, verbunden durch den Übergang „rechte Hand greift/zieht die Kamera nah ans Gesicht, linke Hand schwingt nach außen und zieht die Kamera wieder zurück“. Die Person bewegt sich weiterhin hüpfend im selben Tanzbereich, wobei Schultern, Hüfte und Arme synchron arbeiten. Die Bewegungen leben vom Kontrast zwischen weiten, ausladenden Streckungen und schnellen Rückholbewegungen, wobei jeder Abschnitt direkt in den nächsten übergeht.
-
-[0–3s | Erster Teil: Hüftstütze & Streckung]
-KAMERAPERSPEKTIVE: Frontale Halbtotale, vom Scheitel bis knapp über die Knie, sodass Schultern, Taille, Hüfte und Arme vollständig zu sehen sind.
-
-Der Tanz hat bereits begonnen. Die linke Hand stützt die Hüfte, die rechte Handfläche streckt sich der Kamera entgegen und wird dann vor die Schulter zurückgezogen – abgestimmt darauf neigt sich der Körper erst nach rechts und kehrt dann nach links zurück. Die Knie federn elastisch, die Schulterlinie kippt mit dem Richtungswechsel der Hüfte. Die erste Streckung ist weit und ausladend, das Zurückziehen erfolgt schnell; wenn der Arm zurückgeht, hat der Körper den nächsten Richtungswechsel bereits eingeleitet. Der Kopf schwingt locker mit dem Körper mit, der Blick ist anfangs entspannt auf die Kamera gerichtet, beim zweiten Zurückziehen der Hand zeigt sich ein leichtes Lächeln.
-
-[3–6s | Überkreuztes Absinken, Handflächenstoß mit Richtungswechsel]
-Die rechte Hand sinkt natürlich vor den Bauch, die linke löst sich von der Taille, beide Unterarme überkreuzen sich vor Taille bzw. Bauch. Die Knie beugen sich leicht, der Körper sinkt entsprechend mit. Unmittelbar danach öffnen sich die Arme weit und der Körper richtet sich wieder zur linken Seite hin auf.
-
-Die linke Handfläche berührt die Brust, die rechte stößt von der Brust nach rechts vorne, Schultern und Brustkorb drehen sich durch den Stoß leicht schräg; beim Zurückziehen der Hand richtet sich der Körper wieder auf. Danach folgt ein weiterer Stoß nach vorn, zeitgleich wechselt die Hüfte die Richtung. Die Handflächen behalten stets eine klare Ausrichtung, Stoßen und Zurückziehen bilden eine vollständige, kurze Bewegungsphrase.
-Der letzte Stoß geht fließend in eine Bewegung über, die zur Kamera greift.
-
-[6–8s | Greifen und ans Gesicht ziehen, Hand wegschwingen]
-Die rechte Hand greift zur Kamera, die Finger schließen sich deutlich sichtbar zu einem lockeren Griff. Sofort danach zieht der rechte Ellbogen scharf nach hinten, die Faust gleitet seitlich am Gesicht vorbei zurück vor die rechte Schulter, Schultern und Brustkorb werden dabei nach hinten mitgenommen.
-
-KAMERAPERSPEKTIVE: Während des Greifens und Heranziehens bleibt der Abstand zunächst gleich. In dem Moment, in dem der rechte Ellbogen zurückzieht, fährt die Kamera synchron und schnell auf eine Gesichts-Nahaufnahme zu und bremst vor dem Gesicht ab. Die Kamerabewegung endet exakt gleichzeitig mit dieser Zugbewegung.
-
-Im Moment der Nahaufnahme dreht sie den Kopf leicht, ihr Blick fängt die Kamera präzise ein, die Mundwinkel heben sich. Der Körperrhythmus läuft weiter: Die rechte Hand senkt sich vor der Brust herab, die linke schwingt sofort von der Brustmitte nach links heraus – Hand und Schulter führen diesen Schwung gemeinsam aus.
-
-KAMERAPERSPEKTIVE: Sobald die linke Hand ausschwingt, schnell zurückziehen und wieder die Halbtotale vom Scheitel bis knapp über die Knie herstellen. Die Person bleibt durchgehend zentriert.
-
-[8–11s | Zurückziehen beim Übergang zum zweiten Teil: Abwechselnde Arme auf Schulterhöhe]
-Während die Kamera zurückfährt, hat der ausgeschwungene linke Arm den Ellbogen bereits zum Zurückholen gebeugt. Gleichzeitig hebt sich der rechte Arm, sodass beide locker geschlossenen Hände unterhalb der Schulterhöhe ankommen.
-
-Die Schultern stoßen abwechselnd nach links und rechts vor, die gebeugten Ellbogen reagieren spiegelbildlich – einer vorn, einer hinten. Die Hüfte unterstützt die Gewichtsverlagerung nach links und rechts, die Knie federn locker weiter. Nach einem kompletten Links-Rechts-Wechsel fallen die Hände zusammen und überkreuzen sich vor der Taille, um sich sofort wieder zu den Seiten zu öffnen – daraus entsteht ein deutliches Absinken und Aufrichten. Die Abläufe sind fließend, das Überkreuzen dient als Spannungsaufbau für die nächste Öffnung.
-
-Der Gesichtsausdruck entspannt sich ganz natürlich aus dem Lächeln der Nahaufnahme heraus, der Kopf neigt sich leicht mit der Schulterlinie. Wenn sich die Arme öffnen, geht der Blick wieder geradeaus in die Kamera.
-
-[11–15s | Zeigen am Gesicht, weite Bewegung aus tiefer Position]
-Nachdem sich die Arme geöffnet haben, zieht sich die rechte Hand seitlich ans Gesicht zurück und formt dort ein klares Bild mit erhobenem Zeigefinger, während der linke Unterarm vor Taille/Bauch bleibt. Der linke Fuß macht einen kleinen Schritt und landet links mit Gewichtsübernahme. Die Hüfte drückt nach links, die Schulterlinie kippt entgegengesetzt. Beim Richtungswechsel des Körpers öffnet sich der linke Unterarm zur Seite, die rechte Hand behält ihre Pose am Gesicht kurz bei.
-
-Anschließend gleitet die rechte Hand vor der Brust herab und überkreuzt sich mit dem linken Unterarm vor Taille/Bauch, die Knie beugen sich leicht. Sofort lösen sich die Arme wieder: Die Ellbogen bleiben nah an den Körperseiten, die Unterarme öffnen sich zu beiden Seiten, passend zu zwei aufeinanderfolgenden Gewichtsverlagerungen nach links und rechts. Der Kopf schwingt leicht mit dem Richtungswechsel mit, am Ende dreht sie das Gesicht zur Kamera, das Lächeln kehrt zurück.
-
-Das Video endet, während die letzte Seitwärtsbewegung samt Rückfederung noch ausklingt – so bleibt die Dynamik des Tanzes erhalten.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115996669972021248/img/_zjzCiZJtxgkOXLV.jpg" width="600" alt="Seedance 2.0 Douyin-Tanzvideo-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13173)**
-
-**Autor:** [kollectionca](https://x.com/kollectionca) | **Quelle:** [Link](https://x.com/kollectionca/status/2115996967851675935) | **Veröffentlicht:** Oct 30, 2026
-
----
-### Schlüssel zum perfekten Traumschlafzimmer-Boden
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung eines realistischen, kinoreifen Videos eines Mannes, der einen Haufen antiker Schlüssel mit Epoxidharz und Politur in einen glänzenden Terrazzo-Boden für ein Schlafzimmer verwandelt.
-
-#### 📝 Prompt
-
-```
-Ein realistisches, cineastisches Video in einem hellen, leeren Raum mit weißen Wänden, nacktem Betonboden und einem großen Fenster. Es beginnt mit einem bärtigen Mann in einer blauen Jeans-Latzhose, der eine Schaufel neben einem riesigen Berg aus Tausenden antiken Messing- und Eisenschlüsseln hält. Er schaufelt und harkt den Haufen und verteilt die Schlüssel zu einer gleichmäßigen Schicht, die den gesamten Boden wie ein metallischer Teppich bedeckt. Anschließend gießt eine Frau in einer roten Latzhose dickflüssiges, weißes, selbstnivellierendes Epoxidharz aus einem großen Plastikeimer; die glänzende Flüssigkeit breitet sich kreisförmig aus, bis sie die Schlüssel vollständig umschließt. Danach schiebt ein Arbeiter in gelber Warnweste und Kappe eine Bodenpoliermaschine über die ausgehärtete Oberfläche hin und her und poliert sie zu einem spiegelglatten weißen Boden, durch dessen Harz die goldenen Schlüsselköpfe wie bei Terrazzo hindurchschimmern. Zum Schluss montieren zwei schwarz gekleidete Arbeiter zügig ein dunkles Nussbaum-Bettgestell, legen eine weiße Matratze darauf und dekorieren es mit Kissen, einer beigefarbenen Fransen-Tagesdecke sowie zwei hölzernen Nachttischen mit Keramiklampen. Das Video endet mit einer weiten, statischen Einstellung des fertigen Designer-Schlafzimmers, in dem sich das Sonnenlicht auf dem glänzenden, mit Schlüsseln versehenen Boden spiegelt. Fließende Kameraführung, natürliches Tageslicht, befriedigender Renovierungs-Zeitrraffer-Look, hyperdetailliert, fotorealistisch, 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115913993273442304/img/6R-0vM0H07l2Nzj-.jpg" width="600" alt="Schlüssel zum perfekten Traumschlafzimmer-Boden">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13169)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2115914032884613494) | **Veröffentlicht:** Oct 29, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -9615,6 +9600,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-21T01:23:43.817Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-21T12:25:33.231Z</sub>
 
 </div>

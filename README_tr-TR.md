@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6708** |
+| 📝 Toplam İstem | **6712** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-11-21** |
 
@@ -361,6 +361,114 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Ormanda Çocukları Kurtlardan Koruyan Savaşçı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sisli bir ormanda ateş büyüsü kullanarak çocukları kurtlardan koruyan kadın savaşçının yer aldığı karanlık fantezi macera videosu oluşturmak için bir istem.
+
+#### 📝 İstem
+
+```
+Gece vakti, gizemli ve kadim bir ormanda geçen sinematik bir karanlık fantezi macerası. Uzun kahverengi saçlı, koyu yeşil renginde orta çağ pelerini giyen cesur genç kadın savaşçı, korkmuş küçük bir çocuğu ürkütücü gri kurt sürüsüne karşı koruyor. Bir elinde yanan bir meşale tutarken, çocukla kendilerine yaklaşan kurtlar arasında korkusuzca dikiliyor. Kurtlar sisli ormanda etraflarını sarıyor, parlayan gözleriyle her hareketlerini izliyor. Savaşçı meşalesini havaya kaldırarak çevrelerinde sihirli bir ateş çemberi oluşturuyor. Tam o anda, savaşçı çocuğu savunmaya hazırlanırken kurtlar ileriye doğru atılıyor. Dramatik ay ışığı, yoğun orman sisi, duygusal hikâye anlatımı, detaylı karakter ifadeleri, sinematik kamera açıları, gerçekçi ateş efektleri, karanlık fantezi animasyonu, ultra detaylı 3D görseller, 4K kalite.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124003081230991360/img/raIP7u5p3YI9qNzZ.jpg" width="600" alt="Ormanda Çocukları Kurtlardan Koruyan Savaşçı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14093)**
+
+**Yazar:** [Draaven](https://x.com/draavenai) | **Kaynak:** [Link](https://x.com/draavenai/status/2124003994762903950) | **Yayınlandı:** Nov 21, 2026
+
+---
+### Lüks Parfüm Reklam Videosu İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Siyah kabartmalı cam şişe, altın detaylar, su sıçramaları ve duman efektleri içeren üst düzey bir parfüm reklam videosu oluşturmak için istem.
+
+#### 📝 İstem
+
+```
+Zarif altın detaylara sahip, sofistike siyah yivli cam bir parfüm şişesini öne çıkaran sinematik bir lüks parfüm reklamı oluşturun. Şişeyi saran kristal berraklığında suyun dramatik sıçramasıyla başlayın ve ardından atmosferik dumanın kıvrılarak yayıldığı sahneye geçin. Şişenin parlak yivli dokusunu, altın vurgularını ve üzerindeki zarif su damlacıklarını ön plana çıkaran aşırı makro çekim bir yakın plan gösterin. Yumuşak altın ışıklandırmaya sahip sıcak ve lüks bir iç mekân atmosferine geçiş yapın; ardından ağır çekimde şişenin etrafında yükselen muhteşem bir altın rengi sıvı sıçraması yaratın. Reklamı, parfüm şişesinin sıcak şampanya-altını arka planda zarifçe durduğu bir kareyle sonlandırın. Ultra gerçekçi ürün fotoğrafçılığı, premium parfüm reklamı, dramatik ışıklandırma, akıcı hareket, 4K sinematik kalite, rafine lüks estetik. Şişe tasarımının baştan sona tutarlı olmasını sağla.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795240272903_eqto1u_HXlYYSlaIAALgE5.jpg" width="600" alt="Lüks Parfüm Reklam Videosu İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14095)**
+
+**Yazar:** [Rubi](https://x.com/AIwithRubii) | **Kaynak:** [Link](https://x.com/AIwithRubii/status/2123825895358279903) | **Yayınlandı:** Nov 20, 2026
+
+---
+### Mavi Şimşek Savaşçısı ile Sinematik Fantastik Dövüş
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mavi enerji kullanan bir savaşçının kırmızı bir canavarla savaştığı, yüksek kaliteli sinematik fantastik bir dövüş sahnesi oluşturmak için bir istem.
+
+#### 📝 İstem
+
+```
+Yıkılmış bir çorak arazide, korkusuz genç bir savaşçı ile devasa, ürkütücü kırmızı bir canavar arasında nefes kesen sinematik bir fantastik savaş. Savaşçı sade, koyu renkli bir kıyafet giyiyor ve yoğun elektrik mavisi enerjiyle parlayan devasa bir kılıç kullanıyor. Devasa canavarın çok sayıda güçlü dokunacı, parlayan kırmızı gözleri ve koyu zırhlı bir derisi var. Savaşçı inanılmaz bir hızla ileri atılarak enerji kılıcını savuruyor ve güçlü mavi yıldırım dalgaları yayıyor. Canavar dev dokunaçlarıyla saldırırken havada dev kayalar ve enkaz parçaları uçuşuyor. Epik hava çekimleri, dinamik kamera hareketleri, gerçekçi hareketler, muhteşem enerji efektleri, dramatik aydınlatma, ultra detaylı 3D CGI, Hollywood aksiyon filmi tarzı, 4K sinematik kalite.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123786489360465920/img/X7g7jDg5Zg2l_KpC.jpg" width="600" alt="Mavi Şimşek Savaşçısı ile Sinematik Fantastik Dövüş">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14094)**
+
+**Yazar:** [Draaven](https://x.com/draavenai) | **Kaynak:** [Link](https://x.com/draavenai/status/2123786562139984156) | **Yayınlandı:** Nov 20, 2026
+
+---
+### Seedance 2.0 Aksiyon Sahnesi Prompt'u: Kel Kötü Adam Dövüşü
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Bir baskı fabrikasında kahraman ile kel bir kötü adam arasındaki dövüşü içeren, 15 saniyelik gerçekçi sinematik aksiyon sekansı oluşturmak için hazırlanmış prompt. Detaylı çekim planları, karakter açıklamaları ve ses talimatlarını içerir.
+
+#### 📝 İstem
+
+```
+Kötü adamlar neden hep kel olur 🤔
+
+Doğrudan metinden üretilen, 15 saniyelik, 16:9 yatay formatta, gerçekçi sinematik bir aksiyon kısa filmi oluştur.
+
+【Temel Gereksinimler】
+Yüksek yoğunluk, hızlı tempo, kesintisiz yakın mesafe dövüş; tıpkı üst düzey bir aksiyon filmindeki en çarpıcı kavga sahnesi gibi. İlk kare zaten çatışmanın ortasında başlıyor; giriş, yürüyüş, bekleşme veya poz verme yok. Film boyunca ağır çekim kesinlikle yok; tüm hareketler gerçek zamanlı hızda. Her çekim yaklaşık 1,5 saniye sürüyor, net bir saldırı-savunma döngüsünü tamamlıyor ve darbenin sonucunu gösteriyor. Çekimler arasındaki hareketler birbirine sıkı sıkıya bağlı; bir önceki hareketin sonucu, bir sonrakini başlatıyor. Film boyunca tek bir an bile duraksama yok.
+
+【Karakterler】
+Ana Karakter: Yetişkin Doğu Asyalı erkek, yaklaşık 30 yaşında, kısa siyah saçlı, sert hatlı yüze ve kaslı bir vücuda sahip. Siyah uzun kollu gömlek, koyu gri kargo pantolon ve siyah iş botu giyiyor; kolları dirseğe kadar kıvrık, silahsız.
+Rakip: Uzun boylu yetişkin erkek, kel, kollarında endüstriyel tarzda dövmeler var. Koyu renk kargo yelek, siyah uzun kollu gömlek ve kalın tabanlı iş botu giyiyor; sağ elinde metal bir boru tutuyor.
+Film boyunca yalnızca bu iki kişi yer alıyor; görünümleri, kıyafetleri ve silahları baştan sona tutarlı kalıyor.
+
+【Mekan】
+Gece yarısı matbaası, makineler kapalı, soğuk beyaz tavan lambaları devasa baskı preslerini, kağıt yığınlarını, metal tepsileri ve konveyör bantlarını aydınlatıyor. Yerde kağıt parçaları, havada ince bir toz bulutu, uzakta havalandırma sisteminin boğuk uğultusu duyuluyor. Filmin tamamı aynı baskı presinin hemen yanında geçiyor; makinenin, kağıt yığınlarının, konveyörlerin ve iki karakterin konumları mekansal olarak tamamen tutarlı.
+
+【Çekim Planı】
+Çekim 1 (0–1,5 sn): Yan orta plan. Rakip, metal boruyu ana karakterin alt vücuduna doğru savurur; ana karakter kaçmak için bacağını kaldırır; boru metal tepsiye çarpar.
+Çekim 2 (1,5–3 sn): El kamerasıyla takip çekimi. Rakip, borunun ucuyla ana karakterin karnına saplama bir darbe indirir; ana karakter geri çekilirken bir kağıt yığınına çarpar.
+Çekim 3 (3–4,5 sn): Orta plan. Ana karakter rakibin darbesinden kaçar ve dirseğiyle rakibin kaburgalarına vurur.
+Çekim 4 (4,5–6 sn): Orta plan. Rakip ana karakteri yakalar ve sırtını baskı presinin gövdesine çarpar.
+Çekim 5 (6–7,5 sn): Yan orta plan. Rakip boruyu tekrar savurur; ana karakter metal borunun ortasından tutar.
+Çekim 6 (7,5–9 sn): Yakın plan. Ana karakter rakibin dizine tekme atar ve metal boruyu büker; rakip boruyu bırakır; boru yuvarlanarak kağıt yığınının yanına düşer.
+Çekim 7 (9–10,5 sn): Orta plan. Rakip yumruk atar; ana karakter darbeyi savuşturur ve rakibin göğsüne seri kısa yumruklar indirir.
+Çekim 8 (10,5–12 sn): Orta plan. Rakip onu yere sermek için hamle yapar; ana karakter onun başını/boynunu kilitler.
+Çekim 9 (12–13,5 sn): Biraz daha geniş orta plan. Ana karakter rakibi baskı presinin gövdesine fırlatır; rakip çarpmanın etkisiyle yere düşer.
+Çekim 10 (13,5–15 sn): Ana karakterin yüzünün yakın çekimi; soğuk beyaz ışık yüzüne vuruyor, yüzünde toz ve çizikler var, ağır ağır nefes nefese kalmış, yerde yatan rakibine öfkeli bir bakış atıyor ve ekran doğrudan karararak bitiyor.
+
+【Aksiyon ve Sinematografi】
+Gerçekçi sinematik kalite, soğuk beyaz endüstriyel aydınlatma, metal baskı presi, kağıt parçaları, toz, mekanik derinlik katmanları ve net seçilen yüzler. Her yumruk/tekme önce hedefe temas etmeli, ardından fiziksel tepki, geri çekilme veya denge kaybı gösterilmeli; havaya vurmak ya da temas olmadan erkenden düşmek kesinlikle yok. Hareketler agresif ve yakın mesafede; baskı presi, kağıt yığınları, konveyörler ve metal tepsiler destek noktası olarak kullanılıyor. Darbe almak acı ve denge kaybına yol açıyor, karakterler yenilmez değil. Darbe anlarında hafif kamera sarsıntısına izin veriliyor ancak kimin kime vurduğu net bir şekilde görünmeli. Ardışık çekimlerde sağ-sol konumları tutarlı olmalı; ani ışınlanma, nesnelerin iç içe geçmesi veya fazladan el/silah kesinlikle olmamalı. Metal boru bırakıldıktan sonra kağıt yığınının yanında kalmalı; kimse onu tekrar almamalı. Takla, uçan tekme veya süper güçler yok; kanlı yakın çekimler yok. Kamera aksiyona odaklanmalı, belirli vücut bölümlerinin bilinçli yakın çekimleri yapılmamalı.
+
+【Ses】
+Matbaanın boş yankısı, havalandırmanın boğuk uğultusu. Metal borunun tepsiye çarpma, karna inen darbe, prese çarpma, borunun düşme, vuruş sesleri, yere düşme ve kağıt parçalarının havalanma sesleri görüntülerle kusursuz bir şekilde senkronize edilmeli. İlk saniyeden itibaren gergin, hızlı ve davul ağırlıklı bir aksiyon müziği; ana karakter prese çarptığında müzik kısaca alçalıyor, durum tersine döndüğünde ritim yeniden patlıyor, rakip prese düştüğünde zirve yapıyor ve finalde yalnızca nefes ile havalandırma sesleri kalıyor.
+Diyalog yok, dış ses yok, altyazı yok, metin yok, filigran yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123741933101334528/img/SNi5Cv3r8wbZiWq-.jpg" width="600" alt="Seedance 2.0 Aksiyon Sahnesi Prompt'u: Kel Kötü Adam Dövüşü">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14096)**
+
+**Yazar:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Kaynak:** [Link](https://x.com/Adam38363368936/status/2123742353709998574) | **Yayınlandı:** Nov 20, 2026
+
+---
 ### Antik Çinli Savaşçı Kılıç Darbesi İstemi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9389,129 +9497,6 @@ Dikey video, beyaz duvarları ve beton zemini olan, büyük bir pencereden güne
 **Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2116102340839092598) | **Yayınlandı:** Oct 30, 2026
 
 ---
-### Mekanik Örümcekten Spor Arabaya Dönüşüm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karanlık bir garajda mekanik bir örümceğin lüks bir spor arabaya dönüştüğünü anlatan sinematik bir video istemi.
-
-#### 📝 İstem
-
-```
-Karanlık bir yeraltı otoparkının içinde geçen, hiper gerçekçi ve sinematik bir dönüşüm sahnesi. Gizemli, parlak siyah, mekanik örümceği andıran bir yaratık beton zeminde sürünerek küçük metalik bir nesneye doğru ilerliyor. Yaratık aniden dönüşmeye başlıyor; çok sayıdaki uzun metalik bacakları dışa doğru açılarak karmaşık mekanik parçalara katlanıyor. Tüm yapı hızla şekil değiştirerek Porsche 911'i andıran, aerodinamik ve saldırgan görünümlü siyah bir lüks spor arabaya dönüşüyor. Mekanik parçalar kusursuzca içeri çekiliyor, tekerlekler oluşuyor, kaporta panelleri bir araya geliyor ve farlar göz alıcı bir şekilde yanıyor. Bu dönüşüm pürüzsüz, fütüristik ve görsel olarak büyüleyici. Tamamlanan siyah spor araba, güçlü farlarıyla karanlık otoparkı aydınlatarak yavaşça ileri doğru hareket ediyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116095481600516096/img/ee3WLr4woRgzmEf1.jpg" width="600" alt="Mekanik Örümcekten Spor Arabaya Dönüşüm">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13217)**
-
-**Yazar:** [Zarnish](https://x.com/ZarnishNael) | **Kaynak:** [Link](https://x.com/ZarnishNael/status/2116095524357181578) | **Yayınlandı:** Oct 30, 2026
-
----
-### Koreli Kız Yaşam Tarzı Vlog İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uyanma, Seul'de yürüyüş, bir kafede vakit geçirme ve gün batımını izleme gibi birden fazla sahneyi içeren, tutarlı karakter görünümüne sahip 15 saniyelik sinematik bir Koreli kız yaşam tarzı mini vlog'u oluşturmak için detaylı istem.
-
-#### 📝 İstem
-
-```
-Güzel, 15 saniyelik sinematik bir Koreli kız yaşam tarzı mini vlog videosu oluştur. Doğal güzelliğe sahip, uzun siyah saçlı, yumuşak kahküllü, oversize bordo kapüşonlu sweatshirt, bol pantolon ve kanvas omuz çantası giyen tutarlı görünümlü 24 yaşında bir Koreli kadın yer alsın.
-
-Sahne 1 (0–3s): Sıcak ve samimi yatak odasında uyanır, güneş ışığı yüzüne yumuşakça vurur. Gözlerini yavaşça açar ve gülümser.
-Sahne 2 (3–5s): Aynanın karşısında hazırlanır, saçlarını toplar ve omuz çantasını alır.
-Sahne 3 (5–7s): Etrafına sonbahar yaprakları dökülürken Seul'ün güzel bir sokağında yürür; sinematik takip çekimi.
-Sahne 4 (7–10s): Sıcak ve samimi bir Kore kafesine girer, buzlu kahve sipariş eder, pencere kenarına oturur ve huzurlu bir yudum alır.
-Sahne 5 (10–12s): Müzik dinlerken defterine bir şeyler yazdığı yakın çekim görüntüsü.
-Sahne 6 (12–15s): Seul üzerinde muhteşem turuncu bir gün batımını izler, kameraya doğru döner ve doğal, yumuşak bir şekilde gülümser.
-
-Ultra gerçekçi sinematik görseller, doğal yüz ifadeleri, gerçekçi cilt dokusu, estetik kamera hareketleri, yumuşak altın rengi aydınlatma, sığ alan derinliği, nostaljik 2000'lerin başı MiniDV estetiği, akıcı geçişler, gerçekçi Kore yaşam tarzı atmosferi.
-
-Her sahnede aynı yüzü, saç stilini, kıyafeti ve vücut oranlarını birebir koru. Kimlik kayması olmasın, yapay güzellik filtresi olmasın, metin olmasın, logo olmasın, filigran olmasın. Dikey 9:16 format, toplam süre tam olarak 15 saniye.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116042683164827648/img/F7YIS8NIKpe5n7Gq.jpg" width="600" alt="Koreli Kız Yaşam Tarzı Vlog İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13214)**
-
-**Yazar:** [liana](https://x.com/Lianaalane) | **Kaynak:** [Link](https://x.com/Lianaalane/status/2116042775007474169) | **Yayınlandı:** Oct 30, 2026
-
----
-### Seedance 2.0 Douyin Dans Videosu İstemi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 kullanarak, belirli kamera hareketleri, koreografi adımları ve karakter tutarlılığı talimatları içeren 15 saniyelik dikey bir dans videosu oluşturmak için detaylı bir istem.
-
-#### 📝 İstem
-
-```
-15 saniye, 9:16 en boy oranı, Douyin'de (TikTok tarzı) dans eden gerçek bir kadının kısa videosu. Referans alınan kişinin görünümünü, kıyafetini ve sahnesini koruyan tek kesintisiz çekim. El hareketleri hiçbir zaman başın üzerine çıkmaz. Sol ve sağ ifadeleri, dansçının kendi solunu ve sağını belirtir.
-
-Genel performans: "Sağ elin kamerayı kavrayıp yüze doğru çekmesi, sol elin yana açılarak kamerayı geri itmesi" geçişiyle birbirine bağlanan, art arda gelen iki farklı dans rutini. Kişi aynı dans alanında omuzları, kalçası ve kolları uyum içinde hareket ederek zıplamaya devam eder. Hareketler geniş açılmalar ile hızlı toplanmalar arasındaki kontrastı yansıtır; her bölüm doğrudan bir sonrakine geçer.
-
-[0-3s | Birinci Set: Kalça Desteği ve Uzama]
-KAMERA AÇISI: Önden orta plan çekim; başın tepesinden dizlerin hemen üstüne kadar olan alan, omuzları, beli, kalçayı ve kolları eksiksiz şekilde gösterir.
-
-Dans çoktan başlamıştır. Sol el kalçayı destekler, sağ avuç kameraya doğru uzanıp ardından omuz hizasına geri çekilir; bu hareket gövdenin sağa yatıp tekrar sola dönmesiyle eşzamanlıdır. Dizler esnektir, kalça yön değiştirdikçe omuz çizgisi de eğilir. İlk uzanma geniştir, ikinci toplanma ise hızlıdır; kol geri çekilirken gövde çoktan bir sonraki yön değişimine başlamıştır. Baş gövdeyle birlikte hafifçe sallanır, başlangıçta rahat bir ifadeyle kameraya bakar ve eli ikinci kez çekerken hafifçe gülümser.
-
-[3-6s | Üst Üste Binen Kollar, Avuç İtişiyle Yön Değişimi]
-Sağ el doğal bir şekilde karın önüne düşer, sol el bel yanından ayrılır, her iki ön kol bel/karın önünde üst üste biner, dizler hafifçe bükülür ve gövde buna bağlı olarak aşağı iner. Hemen ardından kollar iki yana açılır ve gövde tekrar sol tarafa yükselir.
-
-Sol avuç göğse değer, sağ avuç göğüsten sağ-ön tarafa doğru iter; bu itme hareketiyle omuzlar/göğüs hafifçe çapraz döner. Avuç geri çekilirken dik pozisyona dönülür. Ardından bir kez daha öne itilir, bu sırada kalça da eşzamanlı olarak yön değiştirir. Avuçların yönelimi her zaman nettir; itme ve çekme hareketleri kısa ama tam bir hareket cümlesi oluşturur.
-Son itiş, doğal bir şekilde kameraya doğru uzanan bir harekete dönüşür.
-
-[6-8s | Kamerayı Kavrayıp Yüze Çekme, Eli Yana Açma]
-Sağ el kameraya doğru uzanır, parmaklar belirgin biçimde gevşek bir kavrama şeklinde kapanır. Hemen ardından sağ dirsek keskin bir şekilde geriye çekilir, yumruk yüzün yanından geçerek sağ omuz önüne gelir ve omuzlar/göğüs bu hareketle geriye taşınır.
-
-KAMERA AÇISI: Uzanma ve yaklaşma sırasında mesafe korunur; sağ dirsek geriye çekilmeye başladığı anda kamera senkronize biçimde hızla yüz yakın çekimine girer ve yüzün önünde yavaşlar. Kamera hareketi, bu çekme hareketiyle aynı anda tamamlanır.
-
-Yüz yakın çekimi anında kadın başını hafifçe çevirir, gözleri kamerayı tam olarak yakalar ve dudak kenarları yukarı kalkar. Gövde ritmi devam eder, sağ el göğüs önünden aşağı iner, sol el ise anında göğüs önünden sol tarafa doğru açılır; el ve omuz bu savurma hareketini birlikte gerçekleştirir.
-
-KAMERA AÇISI: Sol el yana açıldığı anda hızla geri çekilerek başın tepesinden dizlerin hemen üstüne kadar olan orta plan çekime dönülür; kişi tüm süreç boyunca merkezde kalır.
-
-[8-11s | Geri Çekilirken İkinci Sete Geçiş: Omuz Hizasında Sıralı Kol Hareketleri]
-Kamera geri çekilirken, yana açılan sol kol çoktan dirsekten bükülerek toplanmaya başlamıştır; sağ kol da eşzamanlı olarak kalkar ve gevşekçe yumruk yapılmış iki el omuz hizasının altına gelir.
-
-Omuzlar sırayla sağa ve sola öne çıkar, bükülü dirsekler omuzlarla uyumlu olarak biri önde diğeri arkada olacak şekilde karşılık verir. Kalça ağırlığın sağa ve sola aktarılmasına eşlik eder, dizler hafif zıplamayı sürdürür. Bir sağ/sol sıralaması tamamlandıktan sonra eller bel önünde üst üste binmek üzere düşer, ardından hemen iki yana açılarak net bir aşağı inip yukarı çıkma hareketi yaratır. Hareketler akıcıdır; kolların üst üste binmesi bir sonraki açılma için hazırlık niteliği taşır.
-
-Yüz yakın çekimindeki gülümseme doğal bir şekilde rahatlar, baş omuz çizgisiyle birlikte hafifçe eğilir ve kollar açıldığında bakışlar yeniden doğrudan kameraya yönelir.
-
-[11-15s | Yüz Yanında İşaret Parmağı, Alçak Pozisyonda Açılma]
-Kolların açılmasının ardından sağ el yüzün yanına çekilerek net bir işaret parmağı havada duruşu alır, sol ön kol bel/karın önünde kalır. Sol ayak küçük bir adım atarak sola basar ve ağırlığı taşır, kalça sola itilir, omuz çizgisi ters yöne eğilir. Gövde yön değiştirdiğinde sol ön kol yana doğru açılır, sağ el ise kısa bir süre yüz yanındaki şeklini korur.
-
-Ardından sağ el göğüs önünden aşağı inerek sol ön kolla bel/karın önünde üst üste biner, dizler hafifçe bükülür. Hemen sonrasında kollar ayrılır, dirsekler belin iki yanına yaklaşır, ön kollar iki yana açılır ve bu hareket art arda gelen iki sağ-sol ağırlık aktarımıyla uyumludur. Baş yön değişimiyle birlikte hafifçe sallanır, sonunda yüz kameraya döner ve gülümseme yeniden belirir.
-
-Video, son yana kayma ve geri sekme hareketi henüz tamamlanırken sona erer ve dansın ivmesi korunur.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115996669972021248/img/_zjzCiZJtxgkOXLV.jpg" width="600" alt="Seedance 2.0 Douyin Dans Videosu İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13173)**
-
-**Yazar:** [kollectionca](https://x.com/kollectionca) | **Kaynak:** [Link](https://x.com/kollectionca/status/2115996967851675935) | **Yayınlandı:** Oct 30, 2026
-
----
-### Hayallerdeki Yatak Odası Zemininin Anahtarları
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir adamın eski anahtar yığınını epoksi reçine ve cilalama kullanarak parlak terrazzo tarzı bir yatak odası zeminine dönüştürdüğü gerçekçi sinematik bir video oluşturmak için prompt.
-
-#### 📝 İstem
-
-```
-Beyaz duvarları, çıplak beton zemini ve büyük bir penceresi olan aydınlık, boş bir odada geçen gerçekçi sinematik bir video. Görüntü, binlerce antika pirinç ve demir anahtardan oluşan devasa bir yığının yanında elinde kürek tutan, mavi kot tulumlu sakallı bir adamla açılıyor. Adam yığını kürekle eşeleyip yayarak anahtarları tüm zemini metalik bir halı gibi kaplayan düzgün bir katman hâline getiriyor. Ardından kırmızı tulumlu bir kadın, büyük bir plastik kovadan yoğun beyaz kendiliğinden yayılan epoksi reçineyi döküyor; parlak sıvı halkalar hâlinde yayılarak anahtarları tamamen içine gömüyor. Sonrasında sarı fosforlu yelek ve şapka giyen bir işçi, sertleşmiş yüzeyde bir zemin cilalama makinesini ileri geri hareket ettirerek zemini, altın rengi anahtar başlarının terrazzo gibi reçinenin altından parladığı ayna parlaklığında beyaz bir zemine dönüştürüyor. En sonunda siyah giyimli iki işçi hızla koyu ceviz rengi bir karyola iskeleti kuruyor, üzerine beyaz bir yatak yerleştiriyor, yastıklar, bej saçaklı bir battaniye ve seramik lambalı iki ahşap komodin ekliyor. Video, güneş ışığının anahtarların gömülü olduğu parlak zeminde yansıdığı, tamamlanmış tasarımcı yatak odasının geniş ve sabit bir çekimiyle kapanıyor. Akıcı kamera çalışması, doğal gün ışığı, tatmin edici yenileme time-lapse hissi, hiper detaylı, fotogerçekçi, 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115913993273442304/img/6R-0vM0H07l2Nzj-.jpg" width="600" alt="Hayallerdeki Yatak Odası Zemininin Anahtarları">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13169)**
-
-**Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2115914032884613494) | **Yayınlandı:** Oct 29, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -9573,6 +9558,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-21T01:23:48.703Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-21T12:25:39.427Z</sub>
 
 </div>

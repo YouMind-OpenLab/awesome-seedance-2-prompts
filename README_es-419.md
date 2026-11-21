@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6708** |
+| 📝 Total de prompts | **6712** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-11-21** |
 
@@ -361,6 +361,114 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Guerrera protegiendo a un niño de los lobos en el bosque
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para crear un video de aventura de fantasía oscura donde una guerrera defiende a un niño de los lobos usando magia de fuego en un bosque brumoso.
+
+#### 📝 Prompt
+
+```
+Una aventura cinematográfica de fantasía oscura en un misterioso bosque ancestral durante la noche. Una valiente joven guerrera de largo cabello castaño, vestida con una capa medieval verde oscuro, protege a un niño asustado de una manada de aterradores lobos grises. Sostiene una antorcha encendida en una mano mientras se planta sin miedo entre el niño y los lobos que se acercan. Los lobos los rodean en el bosque envuelto en niebla, con sus ojos brillantes siguiendo cada movimiento. La guerrera levanta su antorcha y crea un círculo mágico de fuego a su alrededor. De pronto, los lobos se abalanzan hacia adelante mientras ella se prepara para defender al niño. Luz de luna dramática, densa neblina en el bosque, narrativa emotiva, expresiones faciales detalladas de los personajes, ángulos de cámara cinematográficos, efectos de fuego realistas, animación de fantasía oscura, imágenes 3D ultradetalladas, calidad 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124003081230991360/img/raIP7u5p3YI9qNzZ.jpg" width="600" alt="Guerrera protegiendo a un niño de los lobos en el bosque">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14093)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fuente:** [Link](https://x.com/draavenai/status/2124003994762903950) | **Publicado:** Nov 21, 2026
+
+---
+### Prompt de Video Comercial de Perfume de Lujo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar un video publicitario de perfume de alta gama que presenta una botella de vidrio negro acanalado con detalles dorados, salpicaduras de agua y efectos de humo.
+
+#### 📝 Prompt
+
+```
+Crea un comercial cinematográfico de un perfume de lujo que presente un sofisticado frasco de vidrio negro acanalado con elegantes detalles dorados. Comienza con una salpicadura dramática de agua cristalina que rodea el frasco, seguida de un humo atmosférico envolvente. Muestra un primer plano macro extremo que resalte la textura brillante y acanalada del frasco, los acentos dorados y las delicadas gotas de agua. Haz una transición hacia un interior lujoso y cálido con iluminación dorada suave, y luego crea una espectacular salpicadura de líquido dorado que se eleva alrededor del frasco en cámara lenta. Termina con el frasco de perfume posado elegantemente sobre un fondo cálido color champán dorado. Fotografía de producto ultrarrealista, anuncio de fragancia premium, iluminación dramática, movimiento fluido, calidad cinematográfica 4K, estética de lujo refinada. Mantén el diseño del frasco uniforme durante todo el video.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795240272903_eqto1u_HXlYYSlaIAALgE5.jpg" width="600" alt="Prompt de Video Comercial de Perfume de Lujo">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14095)**
+
+**Autor:** [Rubi](https://x.com/AIwithRubii) | **Fuente:** [Link](https://x.com/AIwithRubii/status/2123825895358279903) | **Publicado:** Nov 20, 2026
+
+---
+### Batalla de fantasía cinematográfica con guerrero de rayo azul
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar una escena de batalla de fantasía cinematográfica de alta calidad que presenta a un guerrero que empuña energía azul contra un monstruo rojo.
+
+#### 📝 Prompt
+
+```
+Una épica batalla de fantasía cinematográfica que quita el aliento entre un joven guerrero intrépido y un monstruo rojo gigante y aterrador en un páramo devastado. El guerrero viste un atuendo oscuro y sencillo, y empuña una espada colosal que resplandece con una intensa energía azul eléctrico. La enorme bestia tiene varios tentáculos poderosos, ojos rojos brillantes y una piel oscura acorazada. El guerrero se lanza hacia adelante a una velocidad increíble, blandiendo su espada de energía y desatando potentes ondas de relámpagos azules. Rocas gigantescas y escombros salen volando por los aires mientras el monstruo ataca con sus enormes tentáculos. Tomas aéreas épicas, movimientos de cámara dinámicos, animación realista, efectos de energía espectaculares, iluminación dramática, CGI 3D ultradetallado, estilo de película de acción de Hollywood, calidad cinematográfica 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123786489360465920/img/X7g7jDg5Zg2l_KpC.jpg" width="600" alt="Batalla de fantasía cinematográfica con guerrero de rayo azul">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14094)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fuente:** [Link](https://x.com/draavenai/status/2123786562139984156) | **Publicado:** Nov 20, 2026
+
+---
+### Prompt de Escena de Acción Seedance 2.0: Pelea contra Villano Calvo
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt para generar una secuencia cinematográfica realista de acción de 15 segundos que presenta una pelea entre el protagonista y un villano calvo en una imprenta. Incluye desgloses detallados de tomas, descripciones de personajes e instrucciones de audio.
+
+#### 📝 Prompt
+
+```
+¿Por qué los villanos siempre son calvos? 🤔
+
+Genera un cortometraje de acción cinematográfico realista de 15 segundos, formato horizontal 16:9, creado directamente a partir de texto.
+
+【Requisitos principales】
+Alta densidad, ritmo acelerado y combate cuerpo a cuerpo continuo, como la escena de pelea más intensa de una película de acción de primer nivel. El primer fotograma ya muestra el combate en pleno desarrollo; sin introducciones, caminatas, enfrentamientos previos ni poses. Nada de cámara lenta en todo el video; todas las acciones ocurren a velocidad real. Cada toma dura aproximadamente 1.5 segundos y completa un intercambio claro de ataque y defensa, mostrando el resultado del impacto. Las acciones se conectan de forma fluida entre tomas; el resultado de una acción es el punto de partida de la siguiente, sin pausas durante todo el cortometraje.
+
+【Personajes】
+Protagonista: Hombre adulto de Asia oriental, de unos 30 años, cabello negro corto, rostro curtido y complexión musculosa. Viste camisa negra de manga larga, pantalón cargo gris oscuro y botas de trabajo negras, con las mangas arremangadas y desarmado.
+Oponente: Hombre adulto alto, calvo, tatuajes de estilo industrial en los brazos, viste chaleco cargo oscuro, camisa negra de manga larga y botas de trabajo pesadas; sostiene un tubo metálico con la mano derecha.
+Solo estos dos personajes aparecen en todo el cortometraje; su aspecto físico, vestimenta y armas se mantienen constantes.
+
+【Escenario】
+Imprenta de madrugada, máquinas apagadas. Frías luces blancas en el techo iluminan grandes prensas de impresión, pilas de papel, bandejas metálicas y cintas transportadoras. Restos de papel en el suelo, polvo fino suspendido en el aire y el zumbido grave de los equipos de ventilación a lo lejos. Toda la acción transcurre junto a la misma prensa de impresión; la ubicación de la máquina, las pilas de papel, las cintas transportadoras y los dos personajes mantiene coherencia espacial.
+
+【Desglose de tomas】
+Toma 1 (0–1.5 s): Plano medio lateral. El oponente barre con el tubo metálico hacia la parte baja del cuerpo del protagonista; este levanta la pierna para esquivarlo y el tubo golpea una bandeja metálica.
+Toma 2 (1.5–3 s): Toma de seguimiento con cámara en mano. El oponente clava la punta del tubo en el abdomen del protagonista; este retrocede y choca contra una pila de papel.
+Toma 3 (3–4.5 s): Plano medio. El protagonista esquiva el golpe del oponente y le conecta un codazo en las costillas.
+Toma 4 (4.5–6 s): Plano medio. El oponente agarra al protagonista y le estrella la espalda contra el cuerpo de la prensa de impresión.
+Toma 5 (6–7.5 s): Plano medio lateral. El oponente vuelve a lanzar un golpe con el tubo; el protagonista lo atrapa por el centro.
+Toma 6 (7.5–9 s): Primer plano. El protagonista patea la rodilla del oponente y tuerce el tubo metálico; el oponente lo suelta y el tubo rueda hasta la pila de papel.
+Toma 7 (9–10.5 s): Plano medio. El oponente lanza un puñetazo; el protagonista lo bloquea y le descarga golpes cortos y rápidos en el pecho.
+Toma 8 (10.5–12 s): Plano medio. El oponente se abalanza para derribarlo; el protagonista le inmoviliza la cabeza y el cuello.
+Toma 9 (12–13.5 s): Plano medio más abierto. El protagonista arroja al oponente contra el cuerpo de la prensa; este cae tras el impacto.
+Toma 10 (13.5–15 s): Primer plano del rostro del protagonista, iluminado por la luz blanca y fría, con polvo y rasguños en la cara. Jadea con fuerza y clava una mirada feroz al oponente caído. La pantalla se corta de inmediato.
+
+【Acción y cinematografía】
+Calidad cinematográfica realista, iluminación industrial blanca y fría, prensa de impresión metálica, restos de papel, polvo, capas espaciales mecánicas y rostros nítidos. Cada puñetazo o patada debe hacer contacto con el objetivo primero, y luego mostrar la reacción física, el retroceso o la pérdida de equilibrio; nada de golpear el aire ni de caerse antes de recibir el impacto. Las acciones son agresivas y a corta distancia, aprovechando la prensa de impresión, las pilas de papel, las cintas transportadoras y las bandejas metálicas como apoyo; recibir un golpe causa dolor y desequilibrio, no invencibilidad. Se permite una ligera vibración de cámara en los momentos de impacto, pero debe quedar claro quién golpea a quién. Las posiciones izquierda-derecha deben ser consistentes entre tomas consecutivas; sin teletransportaciones, sin objetos atravesándose ni manos o armas extra. Una vez soltado, el tubo metálico permanece junto a la pila de papel; nadie lo recoge. Sin acrobacias, patadas voladoras ni superpoderes; sin primeros planos sangrientos. La cámara se centra en la acción, sin acercamientos deliberados a partes específicas del cuerpo.
+
+【Audio】
+Reverberación vacía de la imprenta y zumbido grave de la ventilación. Los sonidos del tubo metálico golpeando la bandeja, el impacto en el abdomen, el choque contra la prensa, la caída del tubo, los golpes, la caída al suelo y el vuelo de los restos de papel están sincronizados con precisión a la imagen. Desde el segundo uno, banda sonora de acción tensa, rápida y dominada por percusión; la música baja brevemente cuando el protagonista choca contra la prensa, el ritmo estalla de nuevo tras el contraataque y alcanza su punto máximo cuando el oponente cae contra la prensa. El cierre deja únicamente los sonidos de la respiración y la ventilación.
+Sin diálogos, sin narración, sin subtítulos, sin texto y sin marcas de agua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123741933101334528/img/SNi5Cv3r8wbZiWq-.jpg" width="600" alt="Prompt de Escena de Acción Seedance 2.0: Pelea contra Villano Calvo">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14096)**
+
+**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fuente:** [Link](https://x.com/Adam38363368936/status/2123742353709998574) | **Publicado:** Nov 20, 2026
+
+---
 ### Prompt de Golpe de Espada de Guerrero Chino Antiguo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9416,129 +9524,6 @@ Video vertical, habitación vacía y luminosa con paredes blancas, piso de concr
 **Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2116102340839092598) | **Publicado:** Oct 30, 2026
 
 ---
-### Transformación de Araña Mecánica a Auto Deportivo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de video cinematográfico que describe la transformación de una araña mecánica en un auto deportivo de lujo en un garaje oscuro.
-
-#### 📝 Prompt
-
-```
-Una escena de transformación cinematográfica hiperrealista en el interior de un estacionamiento subterráneo oscuro. Una misteriosa criatura mecánica con forma de araña, de color negro brillante, se arrastra por el piso de concreto hacia un pequeño objeto metálico. De repente, la criatura comienza a transformarse: sus múltiples y largas patas metálicas se extienden hacia los lados y se pliegan para formar complejos componentes mecánicos. Toda la estructura se transforma rápidamente en un elegante y agresivo auto deportivo de lujo negro, muy parecido a un Porsche 911. Las piezas mecánicas se retraen con fluidez, las ruedas toman forma, los paneles de la carrocería se ensamblan y los faros se encienden con gran intensidad. La transformación es impecable, futurista y visualmente impactante. El auto deportivo negro ya terminado avanza lentamente, mientras sus potentes faros iluminan la oscuridad del estacionamiento.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116095481600516096/img/ee3WLr4woRgzmEf1.jpg" width="600" alt="Transformación de Araña Mecánica a Auto Deportivo">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13217)**
-
-**Autor:** [Zarnish](https://x.com/ZarnishNael) | **Fuente:** [Link](https://x.com/ZarnishNael/status/2116095524357181578) | **Publicado:** Oct 30, 2026
-
----
-### Prompt de Vlog de Estilo de Vida de Chica Coreana
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para generar un mini vlog cinematográfico de 15 segundos sobre el estilo de vida de una chica coreana, con apariencia consistente del personaje en múltiples escenas: despertar, caminar por Seúl, visitar una cafetería y ver la puesta de sol.
-
-#### 📝 Prompt
-
-```
-Crea un video, un hermoso mini vlog cinematográfico de 15 segundos sobre el estilo de vida de una chica coreana. Presenta a una mujer coreana de 24 años con rasgos consistentes, belleza natural, cabello negro largo y flequillo suave, que lleva una sudadera con capucha color vino oversize, pantalones holgados y un bolso de lona cruzado.
-
-Escena 1 (0–3 s): Se despierta en su acogedora habitación, con la luz del sol cayendo suavemente sobre su rostro. Abre los ojos despacio y sonríe.
-Escena 2 (3–5 s): Se arregla frente al espejo, se recoge el cabello y toma su bolso cruzado.
-Escena 3 (5–7 s): Camina por una hermosa calle de Seúl mientras las hojas de otoño caen a su alrededor; plano secuencia cinematográfico.
-Escena 4 (7–10 s): Entra a una cafetería coreana acogedora, pide un café helado, se sienta junto a la ventana y da un sorbo tranquilo.
-Escena 5 (10–12 s): Primer plano de ella escribiendo en su cuaderno mientras escucha música.
-Escena 6 (12–15 s): Contempla un hermoso atardecer anaranjado sobre Seúl, gira hacia la cámara y regala una sonrisa suave y natural.
-
-Visuales cinematográficos ultrarrealistas, expresiones faciales naturales, textura de piel realista, movimientos de cámara hermosos, iluminación dorada y suave, poca profundidad de campo, estética nostálgica de MiniDV de principios de los 2000, transiciones fluidas, atmósfera realista del estilo de vida coreano.
-
-Mantén exactamente el mismo rostro, peinado, atuendo y proporciones corporales en cada escena. Sin variaciones de identidad, sin filtros de belleza artificiales, sin texto, sin logotipos ni marcas de agua. Formato vertical 9:16, duración total de exactamente 15 segundos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116042683164827648/img/F7YIS8NIKpe5n7Gq.jpg" width="600" alt="Prompt de Vlog de Estilo de Vida de Chica Coreana">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13214)**
-
-**Autor:** [liana](https://x.com/Lianaalane) | **Fuente:** [Link](https://x.com/Lianaalane/status/2116042775007474169) | **Publicado:** Oct 30, 2026
-
----
-### Prompt de Video de Baile Douyin con Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt detallado para generar un video de baile vertical de 15 segundos usando Seedance 2.0, con movimientos de cámara específicos, pasos de coreografía e instrucciones de consistencia de personajes.
-
-#### 📝 Prompt
-
-```
-15 segundos, relación de aspecto 9:16, video corto de una mujer real bailando en Douyin (estilo TikTok). Toma única y continua, manteniendo la apariencia, la ropa y el escenario de la persona de referencia. Las manos nunca se elevan por encima de la cabeza. «Izquierda» y «derecha» se refieren a la izquierda y derecha de la propia bailarina.
-
-Rendimiento general: Dos secuencias de baile distintas y consecutivas, conectadas mediante «la mano derecha agarra/jala la cámara acercándola al rostro, la mano izquierda se balancea hacia afuera alejando la cámara». La persona sigue rebotando dentro de la misma zona de baile, con hombros, caderas y brazos moviéndose al unísono. Los movimientos contrastan extensiones amplias con retracciones rápidas, y cada segmento enlaza directamente con el siguiente.
-
-[0-3s | Primera secuencia: Apoyo de cadera y extensión]
-PUNTO DE VISTA DE LA CÁMARA: Plano medio frontal, desde la coronilla hasta justo por encima de las rodillas, mostrando por completo los hombros, la cintura, las caderas y los brazos.
-
-El baile ya comenzó. La mano izquierda sostiene la cadera; la palma derecha se extiende hacia la cámara y luego retrocede hasta quedar frente al hombro, coordinándose con el cuerpo que se inclina a la derecha y vuelve a la izquierda. Las rodillas tienen elasticidad y la línea de los hombros se inclina cuando las caderas cambian de dirección. La primera extensión es amplia, la segunda retracción es rápida; cuando el brazo retrocede, el cuerpo ya inició el siguiente cambio de dirección. La cabeza se balancea suavemente con el cuerpo; al principio mira relajada a la cámara y muestra una leve sonrisa al retraer la mano por segunda vez.
-
-[3-6s | Cruce y descenso, empuje de palma para cambiar de dirección]
-La mano derecha cae de forma natural frente al abdomen, la mano izquierda se separa del costado de la cintura y ambos antebrazos se cruzan frente a la cintura/el abdomen. Las rodillas se flexionan ligeramente y el cuerpo desciende en consecuencia; de inmediato, los brazos se abren por completo y el cuerpo vuelve a elevarse hacia el lado izquierdo.
-
-La palma izquierda toca el pecho y la palma derecha empuja desde el pecho hacia el frente derecho; los hombros y el pecho giran ligeramente en diagonal siguiendo el empuje. Al retraer la palma, el cuerpo vuelve a erguirse. Luego empuja hacia adelante una vez más, mientras las caderas cambian de dirección al mismo tiempo. Las palmas siempre mantienen una orientación clara; el empuje y la retracción forman una frase corta completa.
-El último empuje se prolonga de manera natural en un movimiento que alcanza hacia la cámara.
-
-[6-8s | Agarre y tirón hacia el rostro, balanceo de la mano hacia afuera]
-La mano derecha se extiende hacia la cámara, con los dedos cerrándose claramente en un agarre flojo; de inmediato, el codo derecho retrocede bruscamente hacia atrás y el puño es arrastrado junto al rostro hasta quedar frente al hombro derecho, llevando los hombros y el pecho hacia atrás.
-
-PUNTO DE VISTA DE LA CÁMARA: Mantener la distancia durante la extensión y el acercamiento. En el instante en que el codo derecho empieza a retroceder, la cámara avanza rápidamente y de forma sincronizada hasta un primer plano del rostro, desacelerando frente a la cara. El movimiento de la cámara termina al mismo tiempo que este tirón.
-
-En el momento del acercamiento al rostro, ella gira levemente la cabeza, sus ojos captan con precisión la cámara y las comisuras de los labios se elevan. El ritmo corporal continúa: la mano derecha baja por delante del pecho y la mano izquierda se balancea de inmediato desde el pecho hacia el lado izquierdo, impulsada en conjunto por la mano y el hombro.
-
-PUNTO DE VISTA DE LA CÁMARA: En el instante en que la mano izquierda se balancea hacia afuera, retroceder rápidamente para recuperar el plano medio desde la coronilla hasta justo por encima de las rodillas; la persona permanece centrada todo el tiempo.
-
-[8-11s | Retroceso de cámara e inicio de la segunda secuencia: Brazos alternados a la altura de los hombros]
-Mientras la cámara retrocede, el brazo izquierdo que se balanceó hacia afuera ya flexionó el codo para retraerse y el brazo derecho se eleva al mismo tiempo; ambas manos, ligeramente cerradas, llegan hasta debajo de la altura de los hombros.
-
-Los hombros se empujan hacia adelante alternando izquierda y derecha, y los codos flexionados responden uno adelante y otro atrás junto con ellos. Las caderas acompañan el traslado del peso de un lado a otro, y las rodillas siguen rebotando suavemente. Tras completar una serie de alternancia izquierda/derecha, las manos bajan y se cruzan frente a la cintura; luego se abren de inmediato hacia los lados, generando un descenso y ascenso bien marcados. Los movimientos son fluidos y el cruce sirve como preparación para la siguiente expansión.
-
-La expresión se relaja de forma natural partiendo de la sonrisa del acercamiento al rostro; la cabeza se inclina suavemente siguiendo la línea de los hombros y vuelve a mirar directo a la cámara cuando los brazos se abren.
-
-[11-15s | Señalar cerca del rostro, expansión en posición baja]
-Después de abrir los brazos, la mano derecha retrocede hacia el rostro formando claramente la figura de un solo dedo levantado, mientras el antebrazo izquierdo se mantiene frente a la cintura/el abdomen. El pie izquierdo da un paso corto y aterriza a la izquierda soportando el peso; la cadera empuja hacia la izquierda y la línea de los hombros se inclina en sentido contrario. Cuando el cuerpo cambia de dirección, el antebrazo izquierdo se expande hacia un lado y la mano derecha mantiene brevemente su posición junto al rostro.
-
-Luego, la mano derecha baja por delante del pecho y se cruza con el antebrazo izquierdo frente a la cintura/el abdomen, mientras las rodillas se flexionan un poco. De inmediato, se descruzan: los codos quedan cerca de los costados de la cintura y los antebrazos se expanden hacia ambos lados, coordinándose con dos traslados de peso consecutivos de izquierda a derecha. La cabeza se balancea suavemente con cada cambio de dirección; finalmente, gira el rostro para mirar a la cámara y la sonrisa reaparece.
-
-El video termina mientras aún se completan el último desplazamiento lateral y el rebote, conservando la inercia del baile.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115996669972021248/img/_zjzCiZJtxgkOXLV.jpg" width="600" alt="Prompt de Video de Baile Douyin con Seedance 2.0">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13173)**
-
-**Autor:** [kollectionca](https://x.com/kollectionca) | **Fuente:** [Link](https://x.com/kollectionca/status/2115996967851675935) | **Publicado:** Oct 30, 2026
-
----
-### Claves para el Suelo del Dormitorio de Ensueño
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar un video cinematográfico realista de un hombre transformando un montón de llaves antiguas en un suelo de dormitorio brillante estilo terrazo, utilizando resina epoxi y pulido.
-
-#### 📝 Prompt
-
-```
-Un video cinematográfico realista dentro de una habitación vacía y luminosa con paredes blancas, piso de concreto desnudo y un ventanal grande. Comienza con un hombre barbado que lleva un overol de mezclilla azul y sostiene una pala junto a un enorme montículo de miles de llaves antiguas de bronce y hierro. Pala y rastrilla la pila, esparciendo las llaves hasta formar una capa uniforme que cubre todo el piso como si fuera una alfombra metálica. Después, una mujer con overol rojo vierte una resina epoxi autonivelante blanca y espesa desde una cubeta de plástico grande; el líquido brillante se expande en círculos hasta sumergir por completo las llaves. A continuación, un trabajador con chaleco reflectante amarillo y gorra pasa una pulidora de pisos de un lado a otro sobre la superficie ya curada, dejándola como un piso blanco con brillo de espejo donde los cabezales dorados de las llaves asoman a través de la resina como si fuera terrazo. Por último, dos trabajadores vestidos de negro arman rápidamente una base de cama de nogal oscuro, le colocan un colchón blanco, agregan almohadas, una manta beige con flecos y dos mesas de noche de madera con lámparas de cerámica. El video termina con una toma amplia y estática de la recámara de diseño terminada, con la luz del sol reflejándose en el brillante piso incrustado de llaves. Movimientos de cámara fluidos, luz natural, sensación satisfactoria de time-lapse de remodelación, hiperdetallado, fotorrealista, 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115913993273442304/img/6R-0vM0H07l2Nzj-.jpg" width="600" alt="Claves para el Suelo del Dormitorio de Ensueño">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13169)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fuente:** [Link](https://x.com/Ruslanchain/status/2115914032884613494) | **Publicado:** Oct 29, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -9600,6 +9585,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-21T01:23:42.852Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-21T12:25:31.964Z</sub>
 
 </div>

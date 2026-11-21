@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6708** |
+| 📝 Tổng số prompt | **6712** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-11-21** |
 
@@ -361,6 +361,114 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Chiến binh bảo vệ trẻ em khỏi bầy sói trong rừng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh để tạo video phiêu lưu dark fantasy, trong đó một nữ chiến binh sử dụng phép thuật lửa để bảo vệ một đứa trẻ khỏi bầy sói trong khu rừng sương mù.
+
+#### 📝 Prompt
+
+```
+Một cuộc phiêu lưu dark fantasy mang đậm chất điện ảnh diễn ra trong khu rừng cổ đại bí ẩn giữa đêm đen. Một nữ chiến binh trẻ dũng cảm với mái tóc nâu dài, khoác trên mình chiếc áo choàng trung cổ màu xanh lục sẫm, đang che chở một đứa trẻ đang hoảng sợ trước bầy sói xám hung tợn. Một tay cô cầm ngọn đuốc rực cháy, hiên ngang đứng chắn giữa đứa trẻ và bầy sói đang tiến lại gần. Bầy sói bao vây hai người trong khu rừng mù sương, những đôi mắt sáng rực dõi theo từng cử động. Nữ chiến binh giơ cao ngọn đuốc, tạo nên một vòng tròn lửa ma thuật bao bọc lấy họ. Bất chợt, bầy sói lao tới đúng lúc cô chuẩn bị tư thế bảo vệ đứa trẻ. Ánh trăng đầy kịch tính, sương mù dày đặc trong rừng, nghệ thuật kể chuyện giàu cảm xúc, biểu cảm nhân vật chi tiết, góc máy đậm chất điện ảnh, hiệu ứng lửa chân thực, hoạt hình dark fantasy, hình ảnh 3D siêu chi tiết, chất lượng 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124003081230991360/img/raIP7u5p3YI9qNzZ.jpg" width="600" alt="Chiến binh bảo vệ trẻ em khỏi bầy sói trong rừng">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14093)**
+
+**Tác giả:** [Draaven](https://x.com/draavenai) | **Nguồn:** [Link](https://x.com/draavenai/status/2124003994762903950) | **Đã xuất bản:** Nov 21, 2026
+
+---
+### Prompt Video Quảng Cáo Nước Hoa Sang Trọng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video quảng cáo nước hoa cao cấp, nổi bật với chai thủy tinh đen có vân dọc và chi tiết mạ vàng, hiệu ứng bắn nước và khói.
+
+#### 📝 Prompt
+
+```
+Tạo một đoạn quảng cáo nước hoa cao cấp mang đậm chất điện ảnh, với tâm điểm là chai nước hoa thủy tinh màu đen gân sọc đầy tinh tế, điểm xuyết những đường nét vàng kim sang trọng. Mở đầu bằng cảnh nước trong vắt tung tóe bao quanh thân chai, tiếp nối là làn khói mờ ảo cuộn trào đầy mê hoặc. Chuyển sang góc quay macro cực cận để làm nổi bật bề mặt gân sọc bóng bẩy của chai, các chi tiết mạ vàng cùng những giọt nước đọng lại li ti. Cảnh phim chuyển tiếp vào một không gian nội thất ấm áp, xa hoa ngập tràn ánh sáng vàng dịu nhẹ, sau đó tạo nên khoảnh khắc ngoạn mục khi dòng chất lỏng vàng óng bắn tung lên bao quanh chai theo hiệu ứng chuyển động chậm. Khép lại bằng hình ảnh chai nước hoa đứng kiêu hãnh trên nền vàng champagne ấm áp. Nhiếp ảnh sản phẩm chân thực đến từng chi tiết, quảng cáo hương thơm đẳng cấp, ánh sáng kịch tính, chuyển động mượt mà, chất lượng điện ảnh 4K, thẩm mỹ xa hoa và tinh tế. Giữ nguyên thiết kế chai đồng nhất xuyên suốt toàn bộ video.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795240272903_eqto1u_HXlYYSlaIAALgE5.jpg" width="600" alt="Prompt Video Quảng Cáo Nước Hoa Sang Trọng">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14095)**
+
+**Tác giả:** [Rubi](https://x.com/AIwithRubii) | **Nguồn:** [Link](https://x.com/AIwithRubii/status/2123825895358279903) | **Đã xuất bản:** Nov 20, 2026
+
+---
+### Trận Chiến Kỳ Ảo Điện Ảnh Với Chiến Binh Sấm Xanh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả (prompt) để tạo ra một cảnh chiến đấu kỳ ảo điện ảnh chất lượng cao, với hình ảnh một chiến binh sử dụng năng lượng màu xanh lam chống lại một quái vật màu đỏ.
+
+#### 📝 Prompt
+
+```
+Một trận chiến giả tưởng đậm chất điện ảnh đầy choáng ngợp giữa chàng chiến binh trẻ tuổi gan dạ và con quái vật đỏ khổng lồ đáng sợ trên vùng đất hoang tàn đổ nát. Chàng chiến binh khoác trên mình bộ trang phục tối màu giản dị, tay vung thanh kiếm khổng lồ rực sáng năng lượng xanh dương chói lòa. Con quái vật khổng lồ sở hữu vô số xúc tu mạnh mẽ, đôi mắt đỏ rực phát sáng cùng lớp da bọc giáp đen kịt. Chiến binh lao về phía trước với tốc độ phi thường, vung thanh kiếm năng lượng tung ra những đợt sóng sét xanh uy lực. Đá tảng và mảnh vỡ khổng lồ bay tung tóe khắp không trung khi con quái vật quật xuống bằng những xúc tu khổng lồ của nó. Góc quay trên không hoành tráng, chuyển động máy quay linh hoạt, chuyển động chân thực, hiệu ứng năng lượng mãn nhãn, ánh sáng kịch tính, đồ họa 3D CGI siêu chi tiết, phong cách phim hành động Hollywood, chất lượng điện ảnh 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123786489360465920/img/X7g7jDg5Zg2l_KpC.jpg" width="600" alt="Trận Chiến Kỳ Ảo Điện Ảnh Với Chiến Binh Sấm Xanh">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14094)**
+
+**Tác giả:** [Draaven](https://x.com/draavenai) | **Nguồn:** [Link](https://x.com/draavenai/status/2123786562139984156) | **Đã xuất bản:** Nov 20, 2026
+
+---
+### Prompt Cảnh Hành Động Seedance 2.0: Trận Chiến Với Phản Diện Đầu Trọc
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt tạo cảnh hành động điện ảnh chân thực dài 15 giây, mô tả cuộc chiến giữa nhân vật chính và một phản diện đầu trọc trong nhà máy in. Bao gồm phân tích chi tiết các góc quay, mô tả nhân vật và hướng dẫn âm thanh.
+
+#### 📝 Prompt
+
+```
+Sao bọn phản diện lúc nào cũng trọc lóc thế nhỉ 🤔
+
+Tạo một đoạn phim ngắn hành động điện ảnh chân thực, tỷ lệ 16:9 ngang, thời lượng 15 giây, được tạo trực tiếp từ văn bản.
+
+【Yêu cầu cốt lõi】
+Mật độ cao, nhịp độ nhanh, cận chiến liên tục không ngừng nghỉ, giống hệt phân cảnh đánh đấm căng thẳng nhất trong các siêu phẩm hành động. Khung hình đầu tiên đã ở giữa trận chiến; không dạo đầu, không đi lại, không gườm nhau hay tạo dáng. Không dùng slow motion xuyên suốt video; mọi hành động đều diễn ra ở tốc độ thực tế. Mỗi cảnh quay kéo dài khoảng 1,5 giây, hoàn thành trọn vẹn một pha công - thủ rõ ràng và thể hiện ngay kết quả của đòn đánh. Các hành động nối tiếp nhau chặt chẽ giữa các cảnh; kết quả của đòn trước chính là điểm bắt đầu của đòn sau; tuyệt đối không có khoảng dừng trong toàn bộ thước phim.
+
+【Nhân vật】
+Nhân vật chính: Nam giới Đông Á trưởng thành, khoảng 30 tuổi, tóc đen cắt ngắn, gương mặt phong trần, thân hình cơ bắp. Mặc áo dài tay màu đen, quần túi hộp xám đậm, bốt lao động màu đen, xắn tay áo, không mang vũ khí.
+Đối thủ: Nam giới trưởng thành cao lớn, đầu trọc, xăm hình phong cách công nghiệp trên cánh tay, mặc áo vest túi hộp màu tối, áo dài tay màu đen, bốt lao động hạng nặng, tay phải cầm một ống kim loại.
+Xuyên suốt bộ phim chỉ có đúng hai người này; ngoại hình, trang phục và vũ khí phải giữ nguyên tính nhất quán.
+
+【Bối cảnh】
+Nhà in lúc đêm khuya, máy móc đã tắt, ánh đèn trần trắng lạnh chiếu rọi những cỗ máy in cỡ lớn, các chồng giấy, khay kim loại và băng chuyền. Vụn giấy vương vãi trên sàn, bụi mịn lơ lửng trong không khí, tiếng ù trầm của hệ thống thông gió vọng lại từ xa. Toàn bộ thước phim diễn ra bên cạnh cùng một cỗ máy in; vị trí của máy, các chồng giấy, băng chuyền và hai nhân vật phải đảm bảo tính logic về mặt không gian.
+
+【Phân cảnh chi tiết】
+Cảnh 1 (0–1,5s): Cảnh trung góc nghiêng. Đối thủ quét ống kim loại vào hạ bàn nhân vật chính; nhân vật chính nhấc chân né; ống kim loại đập trúng khay kim loại.
+Cảnh 2 (1,5–3s): Cảnh quay tracking cầm tay. Đối thủ dùng đầu ống kim loại đâm vào bụng nhân vật chính; nhân vật chính lùi lại và va mạnh vào chồng giấy.
+Cảnh 3 (3–4,5s): Cảnh trung. Nhân vật chính né đòn của đối thủ, thúc cùi chỏ vào mạn sườn hắn.
+Cảnh 4 (4,5–6s): Cảnh trung. Đối thủ túm lấy nhân vật chính và quật lưng anh vào thân máy in.
+Cảnh 5 (6–7,5s): Cảnh trung góc nghiêng. Đối thủ vung ống kim loại lần nữa; nhân vật chính chộp lấy phần giữa ống.
+Cảnh 6 (7,5–9s): Cảnh cận. Nhân vật chính đá vào đầu gối đối thủ đồng thời vặn ống kim loại; đối thủ buông tay; ống kim loại lăn về phía chồng giấy.
+Cảnh 7 (9–10,5s): Cảnh trung. Đối thủ tung cú đấm; nhân vật chính gạt đỡ và bồi liên hoàn những cú đấm ngắn vào ngực hắn.
+Cảnh 8 (10,5–12s): Cảnh trung. Đối thủ lao vào định vật ngã; nhân vật chính khóa chặt đầu/cổ hắn.
+Cảnh 9 (12–13,5s): Cảnh trung rộng hơn. Nhân vật chính quăng đối thủ vào thân máy in; đối thủ ngã nhào sau cú va chạm.
+Cảnh 10 (13,5–15s): Cận cảnh gương mặt nhân vật chính, ánh sáng trắng lạnh hắt lên mặt, dính đầy bụi bẩn và vết xước, thở hổn hển, ánh mắt dữ dội nhìn đối thủ đang nằm dưới đất, màn hình kết thúc ngay lập tức.
+
+【Hành động & Quay phim】
+Chất lượng điện ảnh chân thực, ánh sáng công nghiệp trắng lạnh, máy in kim loại, vụn giấy, bụi bặm, các lớp không gian cơ khí, gương mặt nhân vật rõ nét. Mọi cú đấm/đá đều phải chạm trúng mục tiêu trước, sau đó mới thể hiện phản ứng vật lý, bước lùi hoặc mất thăng bằng; không đấm vào không khí, không ngã khi chưa bị tác động. Hành động mang tính tấn công áp đảo và cận chiến, tận dụng máy in, các chồng giấy, băng chuyền và khay kim loại làm điểm tựa để ra đòn; khi trúng đòn sẽ đau đớn và loạng choạng, chứ không hề bất tử. Có thể rung lắc camera nhẹ ở những khoảnh khắc va chạm, nhưng phải thể hiện rõ ai đánh ai. Vị trí trái - phải phải nhất quán giữa các cảnh liền kề; không dịch chuyển tức thời, không lỗi xuyên vật thể, không xuất hiện thêm tay hay vũ khí thừa. Ống kim loại nằm yên cạnh chồng giấy sau khi rơi; không ai nhặt nó lên. Không nhào lộn, đá bay người hay siêu năng lực; không có cảnh cận máu me. Camera tập trung vào hành động, không cố tình quay cận cảnh các bộ phận cơ thể.
+
+【Âm thanh】
+Tiếng vang trống trải của nhà in, tiếng ù trầm của hệ thống thông gió. Âm thanh ống kim loại đập vào khay, đâm vào bụng, va vào máy in, ống rơi xuống đất, các cú va chạm, tiếng ngã xuống sàn, vụn giấy bay tán loạn phải khớp chính xác với hình ảnh. Ngay từ giây đầu tiên, nhạc nền hành động dồn dập, nhanh, nặng tiếng trống; nhạc chùng xuống thoáng qua khi nhân vật chính đập vào máy in, nhịp điệu bùng nổ trở lại sau pha lật kèo, đạt đỉnh khi đối thủ va vào máy in, đoạn kết chỉ còn lại tiếng thở và tiếng quạt thông gió.
+Không thoại, không thuyết minh, không phụ đề, không chữ viết, không watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2123741933101334528/img/SNi5Cv3r8wbZiWq-.jpg" width="600" alt="Prompt Cảnh Hành Động Seedance 2.0: Trận Chiến Với Phản Diện Đầu Trọc">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14096)**
+
+**Tác giả:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Nguồn:** [Link](https://x.com/Adam38363368936/status/2123742353709998574) | **Đã xuất bản:** Nov 20, 2026
+
+---
 ### Câu lệnh Đòn Chém Kiếm của Chiến Binh Cổ Đại Trung Hoa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9443,129 +9551,6 @@ Video dọc, căn phòng trống sáng sủa với những bức tường trắn
 **Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2116102340839092598) | **Đã xuất bản:** Oct 30, 2026
 
 ---
-### Biến hình Nhện Cơ Khí thành Xe Thể Thao
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video điện ảnh mô tả quá trình biến hình từ nhện cơ khí sang xe thể thao hạng sang trong một gara tối.
-
-#### 📝 Prompt
-
-```
-Một cảnh biến hình mang đậm chất điện ảnh, chân thực đến từng chi tiết bên trong tầng hầm đỗ xe tối tăm dưới lòng đất. Một sinh vật cơ khí bí ẩn màu đen bóng loáng, có hình dáng giống loài nhện, đang bò trên nền bê tông hướng về phía một vật thể kim loại nhỏ. Đột nhiên, sinh vật này bắt đầu biến đổi: những chiếc chân kim loại dài vươn ra tứ phía rồi gập lại thành các bộ phận cơ khí phức tạp. Toàn bộ cấu trúc nhanh chóng hóa thành một chiếc siêu xe thể thao hạng sang màu đen với thiết kế khí động học và đầy vẻ hung tợn, trông giống hệt một chiếc Porsche 911. Các chi tiết máy móc thu gọn nhịp nhàng, bánh xe dần định hình, những tấm ốp thân xe lắp ráp vào nhau và đèn pha bật sáng rực rỡ. Quá trình biến hình diễn ra mượt mà không chút gián đoạn, mang đậm hơi thở tương lai và vô cùng mãn nhãn. Chiếc siêu xe thể thao màu đen hoàn thiện từ từ tiến về phía trước, hai luồng đèn pha mạnh mẽ xé toạc màn đêm của bãi đỗ xe.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116095481600516096/img/ee3WLr4woRgzmEf1.jpg" width="600" alt="Biến hình Nhện Cơ Khí thành Xe Thể Thao">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13217)**
-
-**Tác giả:** [Zarnish](https://x.com/ZarnishNael) | **Nguồn:** [Link](https://x.com/ZarnishNael/status/2116095524357181578) | **Đã xuất bản:** Oct 30, 2026
-
----
-### Prompt Vlog Phong Cách Sống Của Cô Gái Hàn Quốc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt chi tiết để tạo video vlog phong cách sống Hàn Quốc điện ảnh dài 15 giây, với nhân vật nữ nhất quán xuyên suốt các cảnh: thức dậy, dạo phố ở Seoul, ghé quán cà phê và ngắm hoàng hôn.
-
-#### 📝 Prompt
-
-```
-Tạo một video, mini vlog phong cách sống của cô gái Hàn Quốc dài 15 giây mang đậm chất điện ảnh và thật đẹp mắt. Nhân vật chính là một cô gái Hàn Quốc 24 tuổi với vẻ đẹp tự nhiên, nhất quán xuyên suốt video: mái tóc đen dài, tóc mái thưa mềm mại, mặc áo hoodie màu đỏ đô dáng rộng, quần ống suông và đeo túi vải canvas khoác vai.
-
-Cảnh 1 (0–3s): Cô thức giấc trong phòng ngủ ấm áp, ánh nắng nhẹ nhàng vương trên gương mặt. Cô từ từ mở mắt và mỉm cười.
-Cảnh 2 (3–5s): Cô chuẩn bị trước gương, buộc gọn mái tóc rồi khoác chiếc túi vải lên vai.
-Cảnh 3 (5–7s): Cô bước đi trên một con phố tuyệt đẹp ở Seoul giữa những chiếc lá thu rơi lả tả, góc máy tracking shot đậm chất điện ảnh.
-Cảnh 4 (7–10s): Cô bước vào một quán cà phê Hàn Quốc ấm cúng, gọi món cà phê đá, ngồi xuống cạnh cửa sổ và nhâm nhi một ngụm thật bình yên.
-Cảnh 5 (10–12s): Cảnh cận cô đang viết gì đó vào cuốn sổ tay trong lúc nghe nhạc.
-Cảnh 6 (12–15s): Cô ngắm nhìn hoàng hôn màu cam rực rỡ buông xuống Seoul, quay sang phía camera và nở một nụ cười dịu dàng, tự nhiên.
-
-Hình ảnh điện ảnh chân thực đến từng chi tiết, biểu cảm gương mặt tự nhiên, kết cấu da chân thực, chuyển động máy quay mượt mà đầy nghệ thuật, ánh sáng vàng dịu nhẹ, độ sâu trường ảnh mỏng, mang hơi hướng hoài cổ của băng MiniDV đầu những năm 2000, chuyển cảnh mượt mà, tái hiện trọn vẹn không khí đời thường chân thực của người Hàn Quốc.
-
-Giữ nguyên khuôn mặt, kiểu tóc, trang phục và tỷ lệ cơ thể giống hệt nhau trong mọi cảnh quay. Không thay đổi nhận diện nhân vật, không dùng filter làm đẹp ảo, không chèn chữ, không logo, không watermark. Khung hình dọc 9:16, tổng thời lượng chính xác 15 giây.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116042683164827648/img/F7YIS8NIKpe5n7Gq.jpg" width="600" alt="Prompt Vlog Phong Cách Sống Của Cô Gái Hàn Quốc">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13214)**
-
-**Tác giả:** [liana](https://x.com/Lianaalane) | **Nguồn:** [Link](https://x.com/Lianaalane/status/2116042775007474169) | **Đã xuất bản:** Oct 30, 2026
-
----
-### Prompt Video Nhảy Douyin Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt chi tiết để tạo video nhảy dọc dài 15 giây bằng Seedance 2.0, bao gồm các chỉ dẫn cụ thể về chuyển động máy quay, bước vũ đạo và tính nhất quán của nhân vật.
-
-#### 📝 Prompt
-
-```
-Thời lượng 15 giây, tỷ lệ khung hình 9:16, video ngắn quay một người phụ nữ thật đang nhảy trên Douyin (phong cách TikTok). Một cú máy liền mạch duy nhất, giữ nguyên ngoại hình, trang phục và bối cảnh của người mẫu tham chiếu. Tay không bao giờ đưa cao quá đầu. Hướng trái và phải được tính theo góc nhìn của chính người nhảy.
-
-Tổng thể màn trình diễn: Hai tổ hợp động tác nhảy riêng biệt nối tiếp nhau, được liên kết bằng chuyển động "tay phải chộp/kéo ống kính lại sát mặt, tay trái vung ra xa kéo ống kính lùi lại". Người nhảy tiếp tục nhún nhảy trong cùng một khu vực, vai, hông và cánh tay di chuyển đồng bộ. Các động tác tạo sự tương phản giữa những nhịp vươn rộng và thu về nhanh, đoạn này dẫn trực tiếp vào đoạn kế tiếp.
-
-[0-3s | Tổ hợp 1: Chống hông & Vươn tay]
-GÓC MÁY: Cảnh trung diện chính diện, lấy từ đỉnh đầu đến ngay trên đầu gối, thể hiện trọn vẹn vai, eo, hông và cánh tay.
-
-Động tác nhảy đã bắt đầu. Tay trái chống hông, lòng bàn tay phải vươn về phía ống kính rồi thu về trước vai, phối hợp với thân nghiêng sang phải sau đó trở về bên trái; đầu gối có độ đàn hồi, đường vai nghiêng theo nhịp đổi hướng của hông. Nhịp vươn đầu tiên mở rộng, nhịp thu thứ hai dứt khoát; khi tay vừa thu về, cơ thể đã bắt đầu chuyển hướng cho nhịp tiếp theo. Đầu lắc lư nhẹ theo thân, ban đầu thả lỏng nhìn thẳng vào ống kính, nở nụ cười nhẹ khi thu tay lần thứ hai.
-
-[3-6s | Đan tay hạ trọng tâm, Đẩy lòng bàn tay đổi hướng]
-Tay phải buông tự nhiên xuống trước bụng, tay trái rời khỏi eo, hai cẳng tay đan chéo trước vùng eo/bụng, đầu gối hơi khuỵu, thân hạ thấp theo; ngay sau đó, hai tay mở rộng, thân người nâng lên trở về phía bên trái.
-
-Lòng bàn tay trái chạm ngực, lòng bàn tay phải đẩy từ ngực hướng ra phía trước-bên phải, vai/ngực hơi xoay chéo theo lực đẩy; thu tay về thì thân cũng trở lại tư thế thẳng đứng. Sau đó đẩy tới thêm một lần nữa, hông đồng thời đổi hướng. Lòng bàn tay luôn giữ hướng rõ ràng, nhịp đẩy và thu tạo thành một cụm động tác ngắn hoàn chỉnh.
-Nhịp đẩy cuối cùng chuyển hóa tự nhiên thành động tác vươn tay về phía ống kính.
-
-[6-8s | Chộp kéo ống kính sát mặt, Vung tay ra xa]
-Tay phải vươn về phía ống kính, các ngón tay khép lại tạo dáng nắm hờ rõ nét; ngay sau đó, khuỷu tay phải giật mạnh ra sau, nắm tay lướt dọc theo cạnh mặt thu về trước vai phải, vai và ngực ngả theo ra sau.
-
-GÓC MÁY: Giữ nguyên khoảng cách lúc tay vươn tới và kéo sát; ngay khoảnh khắc khuỷu tay phải bắt đầu giật về, ống kính đồng loạt lao nhanh vào cận cảnh khuôn mặt, giảm tốc ngay trước mặt. Chuyển động của máy quay kết thúc cùng lúc với nhịp kéo tay này.
-
-Ngay lúc ống kính áp sát mặt, cô ấy hơi nghiêng đầu, ánh mắt bắt chuẩn xác vào ống kính, khóe miệng nhếch lên. Nhịp điệu cơ thể vẫn tiếp diễn, tay phải hạ dọc trước ngực, tay trái lập tức vung từ trước ngực sang bên trái, bàn tay và vai cùng phối hợp tạo lực vung.
-
-GÓC MÁY: Ngay khoảnh khắc tay trái vung ra, ống kính nhanh chóng lùi lại, trả về cảnh trung từ đỉnh đầu đến trên đầu gối, nhân vật luôn nằm ở trung tâm khung hình.
-
-[8-11s | Lùi máy kết hợp vào Tổ hợp 2: Luân phiên hai tay trước vai]
-Trong lúc ống kính đang lùi, cánh tay trái vừa vung ra đã gập khuỷu để thu về, tay phải đồng thời nâng lên, hai bàn tay nắm hờ dừng lại dưới tầm vai.
-
-Hai vai luân phiên đẩy ra trước theo nhịp trái - phải, khuỷu tay gập di chuyển so le trước - sau ăn khớp với vai; hông phối hợp chuyển trọng tâm qua lại hai bên, đầu gối tiếp tục nhún nảy nhẹ nhàng. Sau khi hoàn thành một lượt luân phiên trái/phải, hai tay hạ xuống đan chéo trước eo, rồi lập tức mở sang hai bên, tạo ra nhịp hạ - nâng trọng tâm rõ rệt. Các động tác liền mạch, nhịp đan tay đóng vai trò lấy đà cho lần vươn mở tiếp theo.
-
-Biểu cảm giãn ra tự nhiên từ nụ cười lúc cận mặt, đầu nghiêng nhẹ theo đường vai, ánh mắt nhìn thẳng lại vào ống kính khi hai tay mở ra.
-
-[11-15s | Chỉ tay gần mặt, Mở rộng ở tầm thấp]
-Tiếp nối nhịp mở tay, tay phải thu về cạnh mặt tạo dáng giơ một ngón tay rõ nét, cẳng tay trái giữ nguyên trước vùng eo/bụng. Chân trái bước một bước nhỏ đặt xuống bên trái dồn trọng tâm, hông đẩy sang trái, đường vai nghiêng ngược lại; khi cơ thể đổi hướng, cẳng tay trái mở rộng sang ngang, tay phải tạm giữ nguyên dáng cạnh mặt.
-
-Sau đó tay phải hạ dọc trước ngực, đan chéo với cẳng tay trái trước vùng eo/bụng, đầu gối hơi khuỵu; lập tức tách tay ra, khuỷu tay ép sát hai bên eo, cẳng tay mở rộng sang hai bên, phối hợp cùng hai nhịp chuyển trọng tâm trái - phải liên tiếp. Đầu lắc lư nhẹ theo nhịp đổi hướng, cuối cùng quay mặt nhìn thẳng vào ống kính, nụ cười xuất hiện trở lại.
-
-Video kết thúc khi động tác chuyển trọng tâm ngang và nảy người cuối cùng vẫn đang thực hiện, giữ trọn đà nhảy.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115996669972021248/img/_zjzCiZJtxgkOXLV.jpg" width="600" alt="Prompt Video Nhảy Douyin Seedance 2.0">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13173)**
-
-**Tác giả:** [kollectionca](https://x.com/kollectionca) | **Nguồn:** [Link](https://x.com/kollectionca/status/2115996967851675935) | **Đã xuất bản:** Oct 30, 2026
-
----
-### Chìa khóa tạo nên sàn phòng ngủ trong mơ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video điện ảnh chân thực về cảnh một người đàn ông biến đống chìa khóa cổ thành sàn phòng ngủ bóng loáng phong cách terrazzo bằng nhựa epoxy và đánh bóng.
-
-#### 📝 Prompt
-
-```
-Một video điện ảnh chân thực quay bên trong căn phòng trống sáng sủa với những bức tường trắng, sàn bê tông trần và một khung cửa sổ lớn. Cảnh mở đầu là một người đàn ông để râu mặc quần yếm denim xanh dương, tay cầm xẻng đứng cạnh một đống khổng lồ gồm hàng ngàn chiếc chìa khóa cổ bằng đồng thau và sắt. Anh ta xúc và cào đống chìa khóa, dàn chúng thành một lớp đều đặn phủ kín toàn bộ mặt sàn như một tấm thảm kim loại. Tiếp đó, một người phụ nữ mặc quần yếm đỏ đổ lớp nhựa epoxy tự san phẳng màu trắng đặc sánh từ một xô nhựa lớn, dòng chất lỏng bóng loáng lan rộng ra thành từng vòng tròn cho đến khi nhấn chìm hoàn toàn những chiếc chìa khóa. Kế tiếp, một công nhân mặc áo phản quang màu vàng và đội mũ lưỡi trai đẩy máy đánh bóng sàn qua lại trên bề mặt đã khô cứng, mài nhẵn cho đến khi sàn nhà trở nên trắng bóng như gương, với phần đầu chìa khóa ánh vàng lấp ló xuyên qua lớp nhựa tựa như nền đá terrazzo. Cuối cùng, hai công nhân mặc đồ đen nhanh chóng lắp ráp khung giường gỗ óc chó sẫm màu, đặt nệm trắng lên trên, xếp thêm gối, một tấm chăn vắt vai màu be có tua rua cùng hai chiếc tủ đầu giường bằng gỗ kèm đèn gốm. Video khép lại bằng một cảnh tĩnh góc rộng ghi hình trọn vẹn phòng ngủ thiết kế vừa hoàn thiện, ánh nắng phản chiếu lấp lánh trên mặt sàn bóng loáng khảm đầy chìa khóa. Góc máy mượt mà, ánh sáng ban ngày tự nhiên, mang cảm giác time-lapse cải tạo không gian đầy thỏa mãn, siêu chi tiết, chân thực như ảnh chụp, 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2115913993273442304/img/6R-0vM0H07l2Nzj-.jpg" width="600" alt="Chìa khóa tạo nên sàn phòng ngủ trong mơ">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13169)**
-
-**Tác giả:** [Ruslan Ai](https://x.com/Ruslanchain) | **Nguồn:** [Link](https://x.com/Ruslanchain/status/2115914032884613494) | **Đã xuất bản:** Oct 29, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -9627,6 +9612,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-21T01:23:39.998Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-21T12:25:28.198Z</sub>
 
 </div>
