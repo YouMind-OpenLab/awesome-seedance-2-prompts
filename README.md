@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6712** |
+| 📝 Total Prompts | **6715** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-11-22** |
 
@@ -365,11 +365,88 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Warrior Protecting Child from Wolves in Forest
+### Norse Wood Carving Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for creating a dark fantasy adventure video where a female warrior defends a child from wolves using fire magic in a misty forest.
+> A detailed video prompt for animating a Norse wood carving relief depicting a world serpent and a longship, with specific shot breakdowns and audio cues.
+
+#### 📝 Prompt
+
+```
+Animated Norse wood carving relief, weathered oak grain, carved grooves and interlacing knotwork that slides and reweaves as things move, faded red ochre and black paint, raking firelight casting deep shadows. Color grade: warm oak brown, faded red ochre, black, firelight amber.
+
+SUBJECT: A colossal world serpent coiled in knotwork around the earth, a fierce carved head biting its own tail. A longship with round shields, a dragon prow and a crew of warriors at the oars.
+
+SHOT 1 (0 to 3s): Wide shot, firelight flickers across the carving and the serpent's knotwork body begins to slide and reweave itself around the earth.
+
+SHOT 2 (3 to 6s): Medium shot, 35mm lens, the longship rows across carved waves, warriors straining at their oars, the dragon prow rising and falling.
+
+SHOT 3 (6 to 9s): Close-up, 85mm lens, the serpent's carved jaw slowly releases its own tail, wood creaking and splintering, its eye a deep groove glowing red.
+
+SHOT 4 (9 to 12s): Low angle wide shot, 20mm lens, the serpent's head rises out of the carved sea beside the longship, coils lifting in a tidal wave of grooved water.
+
+SHOT 5 (12 to 15s): Extreme wide shot, 16mm lens, the warriors raise their shields together, the serpent coils back around the earth and bites its tail again, and the runes around the border glow.
+
+AUDIO: Crackling hearth fire, creaking wood, oar strokes and a rowing chant, carved wood grinding and splintering, a deep hissing roar, shields clashing, frame drum and throat singing.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124240082018168832/img/vI-K2Yys2fGXwmGn.jpg" width="600" alt="Norse Wood Carving Animation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14124)**
+
+**Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2124278684710482420) | **Published:** Nov 21, 2026
+
+---
+### Wolves Protecting Child Cinematic Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for creating a cinematic 3D animated fantasy scene featuring a woman protecting a child from wolves in a dark forest using a torch.
+
+#### 📝 Prompt
+
+```
+Create a cinematic 3D animated fantasy adventure scene in a dark, mysterious forest at dusk. A brave young medieval woman holding a burning torch is protecting a small blonde girl from a pack of aggressive grey wolves. The wolves slowly surround them, growling, showing their sharp teeth and preparing to attack. The woman holds the child close with one arm and raises the flaming torch with the other hand to scare away the wolves.
+
+Show dramatic action sequences with wolves running, jumping and approaching from different directions. The woman courageously steps backward while protecting the frightened child. Add realistic torch flames, glowing embers, smoke, wind moving their clothes and hair, and dense pine trees in the background.
+
+Use cinematic camera movements, dramatic close-ups, wide-angle forest shots, low-angle wolf shots and smooth transitions. Highly detailed 3D animated characters, realistic facial expressions, professional fantasy movie animation, atmospheric blue lighting, dramatic shadows, ultra-detailed environment, 4K quality, 16:9 widescreen.
+
+Maintain consistent character appearances throughout the video. Make the action suspenseful, emotional and engaging. End with a mysterious cliffhanger showing the wolves surrounding the woman and child.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124166821028962305/img/rzoGoEVvdsQRPC5q.jpg" width="600" alt="Wolves Protecting Child Cinematic Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14122)**
+
+**Author:** [Ali](https://x.com/CodesWithAli) | **Source:** [Link](https://x.com/CodesWithAli/status/2124166885826871631) | **Published:** Nov 21, 2026
+
+---
+### Superhero Lightning Storm on Rooftop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for creating a cinematic superhero scene featuring a man controlling lightning on a rooftop overlooking a futuristic city.
+
+#### 📝 Prompt
+
+```
+A cinematic superhero scene featuring a young man standing fearlessly on the rooftop of a traditional Asian building overlooking a breathtaking futuristic city at night. Dark storm clouds cover the sky as powerful lightning strikes directly into his raised hand. His hand glows with intense blue-white electrical energy, creating a spectacular lightning beam stretching from the sky to his fingertips. He then extends his arm toward the glowing city, releasing a powerful electric energy wave. Skyscrapers illuminate the night, dramatic thunderstorm effects, realistic lightning, cinematic camera movements, epic superhero atmosphere, ultra-realistic VFX, 4K quality.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124165509994164224/img/Cp3RoXu2MYlKGK8H.jpg" width="600" alt="Superhero Lightning Storm on Rooftop">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14123)**
+
+**Author:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2124165725124182182) | **Published:** Nov 21, 2026
+
+---
+### Warrior Protecting Child from Wolves
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for a dark fantasy adventure scene where a female warrior uses a magical fire circle to protect a child from wolves in a misty forest.
 
 #### 📝 Prompt
 
@@ -377,7 +454,7 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 A cinematic dark fantasy adventure in a mysterious ancient forest at night. A brave young female warrior with long brown hair, wearing a dark green medieval cloak, protects a frightened little child from a pack of terrifying grey wolves. She holds a burning torch in one hand while standing fearlessly between the child and the approaching wolves. The wolves surround them in the foggy forest, their glowing eyes watching every movement. The warrior raises her torch, creating a magical circle of fire around them. Suddenly, the wolves leap forward as she prepares to defend the child. Dramatic moonlight, dense forest mist, emotional storytelling, detailed character expressions, cinematic camera angles, realistic fire effects, dark fantasy animation, ultra-detailed 3D visuals, 4K quality.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2124003081230991360/img/raIP7u5p3YI9qNzZ.jpg" width="600" alt="Warrior Protecting Child from Wolves in Forest">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124003081230991360/img/raIP7u5p3YI9qNzZ.jpg" width="600" alt="Warrior Protecting Child from Wolves">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14093)**
 
@@ -9626,63 +9703,6 @@ Vertical video, static wide shot of an empty white room with a large window show
 **Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116161380516601859) | **Published:** Oct 30, 2026
 
 ---
-### Crayon Terrazzo Floor Renovation Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A hyper-realistic renovation timelapse prompt turning crayons into a terrazzo floor, generated with Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-A hyper-realistic satisfying renovation timelapse in a bright empty room with white walls and a large window. A man in blue overalls rakes a huge mound of thousands of colorful crayons on the bare concrete floor, spreading them evenly across the entire room with long smooth rake strokes. A woman in red overalls with green gloves pours thick glossy white epoxy resin from a black bucket over the scattered crayons, the creamy liquid flowing outward and self-leveling until it covers the whole floor. Workers in yellow high-visibility vests then polish the cured surface with a rotary floor buffer machine, gradually revealing a stunning glossy terrazzo-style floor with thousands of colorful crayon pieces suspended inside, shining like polished stone and reflecting the window light. Two workers in black uniforms and caps carry in a wooden bed frame, assemble it, place a white mattress, and neatly make the bed with a white duvet and pillows, then walk away. Final shot: a beautiful minimalist bedroom with the mirror-like crayon terrazzo floor glowing in soft natural daylight, smooth cinematic camera movement, crisp realistic details, satisfying ASMR-style transformation video, 4K quality.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116158972063277056/img/97D3lQjT3kQuVTvK.jpg" width="600" alt="Crayon Terrazzo Floor Renovation Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13220)**
-
-**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116159013410701811) | **Published:** Oct 30, 2026
-
----
-### Autumn Leaves Epoxy Floor Renovation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A timelapse video prompt showing a room renovation where autumn leaves are turned into a magical epoxy floor bedroom.
-
-#### 📝 Prompt
-
-```
-Vertical 9:16 photorealistic timelapse of a room renovation. Bright empty room with white walls, bare concrete floor, blue painter tape along the baseboards and a large window with green trees outside. A man in blue coveralls rakes a large pile of orange and green autumn leaves, spreading them evenly across the entire floor. More workers join: one in black coveralls and three in red coveralls pour clear self-leveling epoxy resin from metal buckets over the leaves and spread it with long-handled squeegees until every leaf is sealed under a glossy transparent layer. A worker in a yellow high-visibility vest and ear defenders polishes the cured floor with a rotary floor buffer, making it perfectly smooth and mirror-like with the autumn leaves suspended inside like a forest floor under glass. Finally workers in black uniforms with ear protection quickly assemble a wooden bed frame, place a white mattress, pillows and a beige throw blanket, and add wooden nightstands with brass lamps. Final reveal: a cozy minimalist bedroom bathed in natural daylight, the stunning glossy leaf-filled epoxy floor reflecting the window and the bed. Smooth fast timelapse motion, satisfying renovation style, natural lighting, crisp realistic details.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116103244116086784/img/JCsSRmsvGdknmXVv.jpg" width="600" alt="Autumn Leaves Epoxy Floor Renovation">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13218)**
-
-**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116103283274088875) | **Published:** Oct 30, 2026
-
----
-### Gumball Terrazzo Floor Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for making a gorgeous terrazzo floor using gumballs, generated with Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Vertical video, bright empty room with white walls, concrete floor and a large sunlit window. A man in blue overalls rakes a huge pile of colorful gumballs spread across the floor, pulling them into even rows that cover the whole room. A woman in red overalls and a black t-shirt pours thick white self-leveling epoxy resin from a large gray bucket, the glossy liquid flows outward and completely covers the gumballs. A worker in a yellow high-visibility vest and black cap polishes the cured surface with a professional floor grinding machine, gradually revealing a smooth glossy white terrazzo floor with colorful candy speckles embedded inside. Two workers in dark uniforms carry in a wooden bed frame, set down a white mattress, spread white bedding and arrange pillows neatly. Closing wide shot of a minimalist bedroom with the stunning candy-speckled terrazzo floor glowing in natural sunlight. Photorealistic, smooth camera work, satisfying step-by-step renovation transformation, bright natural lighting.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116102290763378688/img/fJE7OoTkM7RQVZFZ.jpg" width="600" alt="Gumball Terrazzo Floor Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13223)**
-
-**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116102340839092598) | **Published:** Oct 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -9744,6 +9764,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-22T05:37:54.027Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-22T16:12:36.147Z</sub>
 
 </div>

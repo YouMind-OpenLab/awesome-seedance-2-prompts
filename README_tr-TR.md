@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6712** |
+| 📝 Toplam İstem | **6715** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-11-22** |
 
@@ -361,6 +361,83 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### İskandinav Ahşap Oyma Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dünya yılanını ve bir uzun tekneyi tasvir eden İskandinav ahşap oyma rölyefini canlandırmak için, belirli çekim planları ve ses ipuçlarıyla hazırlanmış detaylı bir video istemi.
+
+#### 📝 İstem
+
+```
+Hareketli İskandinav ahşap oyma rölyefi, yıpranmış meşe dokusu, nesneler hareket ettikçe kayıp yeniden örülen oyulmuş kanallar ve iç içe geçmiş düğüm motifleri, soluk kırmızı okra ve siyah boya, derin gölgeler düşüren yandan vuran ateş ışığı. Renk derecelendirmesi: sıcak meşe kahverengisi, soluk kırmızı okra, siyah, ateş ışığı amberi.
+
+KONU: Dünyanın etrafına düğüm motifleriyle sarılmış devasa bir dünya yılanı, kendi kuyruğunu ısıran azgın bir oyma baş. Yuvarlak kalkanları, ejderha başlı pruvayı ve küreklerdeki savaşçılardan oluşan mürettebatıyla bir uzun gemi.
+
+ÇEKİM 1 (0 - 3 sn): Geniş açı çekim, ateş ışığı oymaların üzerinde titreşir ve yılanın düğümlü gövdesi dünyanın etrafında kayarak kendini yeniden örmeye başlar.
+
+ÇEKİM 2 (3 - 6 sn): Orta plan çekim, 35 mm lens, uzun gemi oyulmuş dalgaları yararak ilerler, savaşçılar küreklere asılır, ejderha başlı pruva yükselip alçalır.
+
+ÇEKİM 3 (6 - 9 sn): Yakın çekim, 85 mm lens, yılanın oyma çenesi yavaşça kendi kuyruğunu bırakır, ahşap gıcırdar ve çatlar, derin bir kanal olan gözü kırmızı parlar.
+
+ÇEKİM 4 (9 - 12 sn): Alttan geniş açı çekim, 20 mm lens, yılanın başı uzun geminin yanında oyulmuş denizden yükselir, kıvrımları oluklu sulardan bir gelgit dalgası gibi kabarmaktadır.
+
+ÇEKİM 5 (12 - 15 sn): Aşırı geniş açı çekim, 16 mm lens, savaşçılar kalkanlarını birlikte kaldırır, yılan tekrar dünyanın etrafına dolanıp kuyruğunu yeniden ısırır ve kenarlardaki rünler parlar.
+
+SES: Çatırdayan ocak ateşi, gıcırdayan ahşap, kürek sesleri ve bir kürek şarkısı, sürtünen ve çatlayan oyma ahşap, derin tıslayan bir kükreme, birbirine çarpan kalkanlar, çerçeve davul ve gırtlak şarkısı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124240082018168832/img/vI-K2Yys2fGXwmGn.jpg" width="600" alt="İskandinav Ahşap Oyma Animasyonu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14124)**
+
+**Yazar:** [Alexandra Aisling](https://x.com/AllaAisling) | **Kaynak:** [Link](https://x.com/AllaAisling/status/2124278684710482420) | **Yayınlandı:** Nov 21, 2026
+
+---
+### Kurtlara Karşı Çocuğu Koruyan Sinematik Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karanlık bir ormanda meşale kullanarak kurtlardan çocuğunu koruyan bir kadını konu alan sinematik 3D animasyonlu fantastik sahne için detaylı istem.
+
+#### 📝 İstem
+
+```
+Alacakaranlıkta, karanlık ve gizemli bir ormanda geçen sinematik bir 3D animasyonlu fantastik macera sahnesi oluştur. Elinde yanan bir meşale tutan cesur genç bir Orta Çağ kadını, küçük sarışın bir kızı saldırgan gri kurt sürüsünden koruyor. Kurtlar hırlayarak, keskin dişlerini göstererek ve saldırıya hazırlanarak onları yavaşça çembere alıyor. Kadın bir koluyla çocuğu sıkıca kendine çekiyor, diğer eliyle de alev alev yanan meşaleyi kaldırarak kurtları korkutup uzaklaştırmaya çalışıyor.
+
+Kurtların koştuğu, zıpladığı ve farklı yönlerden yaklaştığı dramatik aksiyon sahnelerini göster. Kadın, korkmuş çocuğu korurken cesurca geri adımlar atıyor. Gerçekçi meşale alevleri, parlayan közler, duman, kıyafetlerini ve saçlarını savuran rüzgâr ile arka planda sık çam ağaçları ekle.
+
+Sinematik kamera hareketleri, dramatik yakın çekimler, geniş açılı orman planları, aşağıdan yukarıya kurt çekimleri ve akıcı geçişler kullan. Son derece detaylı 3D animasyon karakterler, gerçekçi yüz ifadeleri, profesyonel fantastik film animasyonu, atmosferik mavi aydınlatma, dramatik gölgeler, ultra detaylı çevre tasarımı, 4K kalite, 16:9 geniş ekran.
+
+Video boyunca karakterlerin görünümlerini tutarlı tut. Aksiyonu gerilim dolu, duygusal ve sürükleyici hale getir. Sahneyi, kurtların kadın ve çocuğu çembere aldığını gösteren gizemli bir finalle sonlandır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124166821028962305/img/rzoGoEVvdsQRPC5q.jpg" width="600" alt="Kurtlara Karşı Çocuğu Koruyan Sinematik Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14122)**
+
+**Yazar:** [Ali](https://x.com/CodesWithAli) | **Kaynak:** [Link](https://x.com/CodesWithAli/status/2124166885826871631) | **Yayınlandı:** Nov 21, 2026
+
+---
+### Çatıda Süper Kahraman Yıldırım Fırtınası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gelecekteki bir şehri gören çatıda yıldırımları kontrol eden bir adamın yer aldığı sinematik bir süper kahraman sahnesi oluşturmak için video istemi.
+
+#### 📝 İstem
+
+```
+Gece vakti nefes kesici fütüristik bir şehre tepeden bakan, geleneksel bir Asya binasının çatısında korkusuzca duran genç bir adamı konu alan sinematik bir süper kahraman sahnesi. Koyu fırtına bulutları gökyüzünü kaplarken güçlü yıldırımlar doğrudan havaya kaldırdığı eline isabet ediyor. Eli, yoğun mavi-beyaz elektrik enerjisiyle parlayarak gökyüzünden parmak uçlarına uzanan muhteşem bir şimşek huzmesi oluşturuyor. Ardından kolunu ışıl ışıl parlayan şehre doğru uzatarak güçlü bir elektrik enerji dalgası yayıyor. Gökdelenler geceyi aydınlatıyor, dramatik gök gürültülü fırtına efektleri, gerçekçi yıldırımlar, sinematik kamera hareketleri, epik süper kahraman atmosferi, ultra gerçekçi VFX, 4K kalite.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124165509994164224/img/Cp3RoXu2MYlKGK8H.jpg" width="600" alt="Çatıda Süper Kahraman Yıldırım Fırtınası">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14123)**
+
+**Yazar:** [Draaven](https://x.com/draavenai) | **Kaynak:** [Link](https://x.com/draavenai/status/2124165725124182182) | **Yayınlandı:** Nov 21, 2026
+
+---
 ### Ormanda Çocukları Kurtlardan Koruyan Savaşçı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9440,63 +9517,6 @@ Dikey video, yeşil ağaçların göründüğü büyük bir pencereye sahip boş
 **Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2116161380516601859) | **Yayınlandı:** Oct 30, 2026
 
 ---
-### Kreide Terrazzo Zemin Yenileme İstem Metni
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 ile oluşturulan, kreideleri terrazzo zemine dönüştüren hiper gerçekçi bir yenileme zaman atlamalı istem metni.
-
-#### 📝 İstem
-
-```
-Beyaz duvarları ve büyük bir penceresi olan aydınlık, boş bir odada çekilmiş, hiper gerçekçi ve izlemesi son derece tatmin edici bir yenileme timelapse videosu. Mavi tulum giyen bir adam, çıplak beton zemindeki binlerce renkli boya kaleminden oluşan devasa yığını bir tırmıkla tarıyor; uzun ve akıcı hareketlerle kalemleri tüm odaya eşit şekilde yayıyor. Ardından kırmızı tulumlu ve yeşil eldivenli bir kadın, siyah bir kovadan dağınık haldeki kalemlerin üzerine yoğun, parlak beyaz epoksi reçine döküyor. Kremsi sıvı dışa doğru yayılarak kendi kendine düzleşiyor ve sonunda tüm zemini kaplıyor. Sarı fosforlu yelek giyen işçiler daha sonra sertleşen yüzeyi döner tabanlı bir zemin cilalama makinesiyle parlatıyor. Bu işlem sırasında, içinde binlerce renkli boya kalemi parçasının asılı kaldığı, cilalı taşı andıran parlaklığıyla pencereden gelen ışığı yansıtan muhteşem, terazzo tarzı parlak bir zemin yavaş yavaş ortaya çıkıyor. Siyah üniforma ve şapka giyen iki işçi ahşap bir karyola iskeletini içeri taşıyıp monte ediyor, üzerine beyaz bir yatak yerleştiriyor ve beyaz nevresim ile yastıklarla yatağı özenle topladıktan sonra odadan ayrılıyor. Son sahne: Ayna gibi parlayan boya kalemi terazzo zeminin yumuşak doğal gün ışığında pırıl pırıl olduğu, zarif minimalist bir yatak odası; akıcı sinematik kamera hareketleri, net ve gerçekçi detaylar, izlemesi son derece tatmin edici ASMR tarzı bir dönüşüm videosu, 4K kalite.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116158972063277056/img/97D3lQjT3kQuVTvK.jpg" width="600" alt="Kreide Terrazzo Zemin Yenileme İstem Metni">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13220)**
-
-**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2116159013410701811) | **Yayınlandı:** Oct 30, 2026
-
----
-### Sonbahar Yaprakları Epoksi Zemin Renovasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sonbahar yapraklarının büyülü bir epoksi zeminli yatak odasına dönüştürüldüğü oda renovasyonunu gösteren bir zaman atlamalı video istemi.
-
-#### 📝 İstem
-
-```
-Dikey 9:16 formatında, bir oda yenilemesini gösteren fotogerçekçi timelapse. Beyaz duvarları olan aydınlık ve boş bir oda, çıplak beton zemin, süpürgelikler boyunca uzanan mavi maskeleme bandı ve dışarıda yeşil ağaçların göründüğü büyük bir pencere. Mavi tulumlu bir adam, turuncu ve yeşil sonbahar yapraklarından oluşan büyük bir yığını tırmıkla yayarak tüm zemine eşit şekilde dağıtıyor. Ardından yeni işçiler katılıyor: siyah tulumlu bir işçi ile kırmızı tulumlu üç işçi, metal kovalardan yaprakların üzerine şeffaf kendiliğinden yayılan epoksi reçine döküyor ve uzun saplı çekçeklerle her bir yaprak parlak, şeffaf bir katmanın altına hapsolana kadar reçineyi yayıyor. Sarı fosforlu yelekli ve kulaklıklı bir işçi, donmuş zemini döner zemin cilalama makinesiyle parlatıyor; böylece zemin kusursuz pürüzsüzlükte ve ayna gibi parlak bir hale gelirken, sonbahar yaprakları camın altında bir orman tabanını andırır şekilde asılı kalıyor. Son olarak siyah üniformalı ve kulak koruyuculu işçiler hızla ahşap bir yatak çerçevesini monte ediyor, beyaz bir yatak, yastıklar ve bej rengi bir örtü yerleştirip pirinç lambalı ahşap komodinleri ekliyor. Final sahnesi: Doğal gün ışığıyla yıkanmış, samimi ve minimalist bir yatak odası; pencereyi ve yatağı yansıtan, yapraklarla dolu göz alıcı parlak epoksi zemin. Akıcı ve hızlı timelapse hareketi, tatmin edici yenileme tarzı, doğal aydınlatma, net ve gerçekçi detaylar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116103244116086784/img/JCsSRmsvGdknmXVv.jpg" width="600" alt="Sonbahar Yaprakları Epoksi Zemin Renovasyonu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13218)**
-
-**Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2116103283274088875) | **Yayınlandı:** Oct 30, 2026
-
----
-### Sakız Topu Terrazzo Zemin Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 ile oluşturulan, sakız topları kullanarak muhteşem bir terrazzo zemin yapmak için prompt.
-
-#### 📝 İstem
-
-```
-Dikey video, beyaz duvarları ve beton zemini olan, büyük bir pencereden güneş ışığı alan aydınlık boş bir oda. Mavi tulumlu bir adam, yere yayılmış devasa renkli sakız toplarından oluşan yığını tırmıkla tarayarak odanın tamamını kaplayacak şekilde düzgün sıralar hâline getiriyor. Kırmızı tulum ve siyah tişört giyen bir kadın, büyük gri bir kovadan yoğun beyaz kendiliğinden yayılan epoksi reçineyi döküyor; parlak sıvı dışa doğru yayılarak sakız toplarının üzerini tamamen kapatıyor. Sarı fosforlu yelek ve siyah şapka takan bir işçi, kuruyan yüzeyi profesyonel bir zemin taşlama makinesiyle parlatıyor ve bu işlem sırasında içine gömülmüş renkli şeker benekleriyle pürüzsüz, parlak beyaz bir terrazzo zemin yavaş yavaş ortaya çıkıyor. Koyu renk üniforma giyen iki işçi ahşap bir karyola iskeletini içeri taşıyor, üzerine beyaz bir yatak yerleştirip beyaz nevresimleri seriyor ve yastıkları özenle diziyor. Doğal güneş ışığında parlayan, göz alıcı şeker benekli terrazzo zeminiyle minimalist bir yatak odasını gösteren geniş açılı kapanış çekimi. Fotogerçekçi, akıcı kamera hareketleri, tatmin edici adım adım yenileme dönüşümü, aydınlık doğal ışıklandırma.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116102290763378688/img/fJE7OoTkM7RQVZFZ.jpg" width="600" alt="Sakız Topu Terrazzo Zemin Prompt">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13223)**
-
-**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2116102340839092598) | **Yayınlandı:** Oct 30, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -9558,6 +9578,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-22T05:38:12.087Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-22T16:12:54.152Z</sub>
 
 </div>

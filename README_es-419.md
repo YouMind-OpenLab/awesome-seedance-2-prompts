@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6712** |
+| 📝 Total de prompts | **6715** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-11-22** |
 
@@ -361,6 +361,83 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Animación de Talla en Madera Nórdica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video detallado para animar un relieve de talla en madera nórdica que representa una serpiente del mundo y un drakkar, con desglose específico de planos e indicaciones de audio.
+
+#### 📝 Prompt
+
+```
+Relieve animado de talla en madera nórdica, veta de roble envejecido, surcos tallados y nudos entrelazados que se deslizan y se vuelven a tejer con el movimiento, pintura descolorida en ocre rojo y negro, luz rasante de fuego que proyecta sombras profundas. Etalonaje de color: marrón roble cálido, ocre rojo desteñido, negro, ámbar de luz de fuego.
+
+SUJETO: Una serpiente del mundo colosal enrollada en nudos alrededor de la tierra, una feroz cabeza tallada mordiéndose su propia cola. Un drakkar con escudos redondos, proa de dragón y una tripulación de guerreros remando.
+
+TOMA 1 (0 a 3 s): Plano general, la luz del fuego parpadea sobre la talla y el cuerpo anudado de la serpiente comienza a deslizarse y a retejerse alrededor de la tierra.
+
+TOMA 2 (3 a 6 s): Plano medio, lente de 35 mm, el drakkar avanza a remo por olas talladas, los guerreros tensan los músculos al remar, la proa de dragón sube y baja.
+
+TOMA 3 (6 a 9 s): Primer plano, lente de 85 mm, la mandíbula tallada de la serpiente suelta lentamente su propia cola, la madera cruje y se astilla, su ojo es un surco profundo que brilla en rojo.
+
+TOMA 4 (9 a 12 s): Plano general en contrapicado, lente de 20 mm, la cabeza de la serpiente emerge del mar tallado junto al drakkar, sus anillos se levantan formando un maremoto de agua surcada.
+
+TOMA 5 (12 a 15 s): Plano general extremo, lente de 16 mm, los guerreros alzan sus escudos al unísono, la serpiente vuelve a enrollarse alrededor de la tierra y se muerde la cola otra vez, mientras las runas del borde resplandecen.
+
+AUDIO: Crepitar del fuego del hogar, crujidos de madera, golpes de remo y un cántico de remeros, madera tallada que rechinar y se astilla, un rugido sibilante y profundo, choque de escudos, tambor de marco y canto gutural.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124240082018168832/img/vI-K2Yys2fGXwmGn.jpg" width="600" alt="Animación de Talla en Madera Nórdica">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14124)**
+
+**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fuente:** [Link](https://x.com/AllaAisling/status/2124278684710482420) | **Publicado:** Nov 21, 2026
+
+---
+### Prompt de Video Cinematográfico: Lobos Protegiendo a un Niño
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para crear una escena cinematográfica animada en 3D de fantasía, donde una mujer protege a un niño de los lobos en un bosque oscuro usando una antorcha.
+
+#### 📝 Prompt
+
+```
+Crea una escena de aventura fantástica animada en 3D con estilo cinematográfico, ambientada en un bosque oscuro y misterioso al anochecer. Una valiente joven medieval sostiene una antorcha encendida para proteger a una niña pequeña y rubia de una manada de lobos grises agresivos. Los lobos las rodean lentamente, gruñendo, mostrando sus afilados colmillos y preparándose para atacar. La mujer sujeta a la niña con fuerza contra su pecho con un brazo, mientras levanta la antorcha en llamas con el otro para ahuyentarlos.
+
+Muestra secuencias de acción dramáticas con los lobos corriendo, saltando y acercándose desde distintas direcciones. La mujer retrocede con valentía sin dejar de proteger a la niña asustada. Incluye llamas realistas en la antorcha, brasas incandescentes, humo, viento que agite sus ropas y cabellos, y densos pinos en el fondo.
+
+Utiliza movimientos de cámara cinematográficos, primeros planos dramáticos, tomas del bosque con gran angular, planos contrapicados de los lobos y transiciones fluidas. Personajes animados en 3D con alto nivel de detalle, expresiones faciales realistas, animación profesional estilo película de fantasía, iluminación azul atmosférica, sombras dramáticas, entorno ultradetallado, calidad 4K, formato panorámico 16:9.
+
+Mantén la apariencia de los personajes constante durante todo el video. Haz que la acción sea llena de suspenso, emotiva y atrapante. Termina con un final abierto y misterioso que muestre a los lobos rodeando a la mujer y a la niña.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124166821028962305/img/rzoGoEVvdsQRPC5q.jpg" width="600" alt="Prompt de Video Cinematográfico: Lobos Protegiendo a un Niño">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14122)**
+
+**Autor:** [Ali](https://x.com/CodesWithAli) | **Fuente:** [Link](https://x.com/CodesWithAli/status/2124166885826871631) | **Publicado:** Nov 21, 2026
+
+---
+### Tormenta eléctrica de superhéroe en azotea
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video para crear una escena cinematográfica de superhéroes que muestra a un hombre controlando rayos en una azotea con vista a una ciudad futurista.
+
+#### 📝 Prompt
+
+```
+Una escena cinematográfica de superhéroes con un joven de pie, sin miedo, en la azotea de un edificio tradicional asiático que domina una impresionante ciudad futurista de noche. Nubes de tormenta oscuras cubren el cielo mientras poderosos rayos impactan directamente en su mano levantada. Su mano brilla con una intensa energía eléctrica azul y blanca, creando un espectacular haz de relámpagos que se extiende desde el cielo hasta las puntas de sus dedos. Luego estira el brazo hacia la ciudad iluminada y libera una poderosa onda de energía eléctrica. Rascacielos que iluminan la noche, efectos dramáticos de tormenta eléctrica, rayos realistas, movimientos de cámara cinematográficos, atmósfera épica de superhéroe, VFX ultrarrealistas, calidad 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124165509994164224/img/Cp3RoXu2MYlKGK8H.jpg" width="600" alt="Tormenta eléctrica de superhéroe en azotea">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14123)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fuente:** [Link](https://x.com/draavenai/status/2124165725124182182) | **Publicado:** Nov 21, 2026
+
+---
 ### Guerrera protegiendo a un niño de los lobos en el bosque
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9467,63 +9544,6 @@ Video vertical, plano general fijo de una habitación blanca vacía con un venta
 **Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fuente:** [Link](https://x.com/Ruslanchain/status/2116161380516601859) | **Publicado:** Oct 30, 2026
 
 ---
-### Prompt para Renovación de Piso Terrazo con Crayones
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt de timelapse hiperrealista de renovación que transforma crayones en un piso terrazo, generado con Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Un timelapse hiperrealista y satisfactorio de una remodelación en una habitación vacía y luminosa, con paredes blancas y un ventanal. Un hombre con overol azul rastrilla un enorme montículo de miles de crayones de colores sobre el piso de concreto desnudo, esparciéndolos de manera uniforme por todo el cuarto con pasadas largas y suaves del rastrillo. Una mujer con overol rojo y guantes verdes vierte una resina epoxi blanca, espesa y brillante, desde una cubeta negra sobre los crayones dispersos; el líquido cremoso se expande y se autonivela hasta cubrir todo el piso. Luego, unos trabajadores con chalecos amarillos de alta visibilidad pulen la superficie ya curada con una pulidora rotativa, revelando poco a poco un espectacular piso brillante estilo terrazo con miles de trozos de crayones de colores incrustados, que brillan como piedra pulida y reflejan la luz de la ventana. Dos trabajadores con uniforme y gorra negros entran una base de cama de madera, la arman, colocan un colchón blanco y tienden la cama impecablemente con un edredón y almohadas blancas, para después retirarse. Toma final: un hermoso dormitorio minimalista donde el piso de terrazo de crayones, similar a un espejo, resplandece bajo la suave luz natural del día, movimiento de cámara cinematográfico y fluido, detalles nítidos y realistas, video de transformación satisfactorio estilo ASMR, calidad 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116158972063277056/img/97D3lQjT3kQuVTvK.jpg" width="600" alt="Prompt para Renovación de Piso Terrazo con Crayones">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13220)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2116159013410701811) | **Publicado:** Oct 30, 2026
-
----
-### Renovación de Piso Epóxico con Hojas de Otoño
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video en timelapse que muestra la renovación de una habitación, donde las hojas de otoño se transforman en un mágico piso de resina epóxica para el dormitorio.
-
-#### 📝 Prompt
-
-```
-Timelapse fotorrealista vertical 9:16 de la remodelación de una habitación. Habitación vacía y luminosa con paredes blancas, piso de concreto desnudo, cinta azul de pintor a lo largo de los zócalos y un ventanal con árboles verdes al exterior. Un hombre con overol azul rastrilla un gran montón de hojas otoñales naranjas y verdes, esparciéndolas de manera uniforme por todo el piso. Se suman más trabajadores: uno con overol negro y tres con overol rojo vierten resina epoxi autonivelante transparente desde cubetas metálicas sobre las hojas y la extienden con escobillas de mango largo hasta que cada hoja queda sellada bajo una capa brillante y transparente. Un trabajador con chaleco amarillo de alta visibilidad y protección auditiva pule el piso ya curado con una pulidora rotativa, dejándolo perfectamente liso y con efecto espejo, con las hojas otoñales suspendidas en su interior como si fuera el suelo de un bosque bajo cristal. Por último, unos trabajadores con uniformes negros y protección auditiva arman rápidamente una base de cama de madera, colocan un colchón blanco, almohadas y una manta decorativa beige, y añaden mesas de noche de madera con lámparas de latón. Revelación final: una acogedora habitación minimalista bañada en luz natural, donde el espectacular piso de epoxi brillante con hojas incrustadas refleja el ventanal y la cama. Movimiento de timelapse rápido y fluido, estilo de remodelación satisfactoria, iluminación natural, detalles nítidos y realistas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116103244116086784/img/JCsSRmsvGdknmXVv.jpg" width="600" alt="Renovación de Piso Epóxico con Hojas de Otoño">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13218)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fuente:** [Link](https://x.com/Ruslanchain/status/2116103283274088875) | **Publicado:** Oct 30, 2026
-
----
-### Prompt de Piso Terrazzo con Chicles
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para crear un hermoso piso terrazzo usando chicles, generado con Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Video vertical, habitación vacía y luminosa con paredes blancas, piso de concreto y un gran ventanal iluminado por el sol. Un hombre con overol azul rastrilla una enorme pila de gumballs de colores esparcidos por el suelo, acomodándolos en hileras uniformes que cubren toda la habitación. Una mujer con overol rojo y camiseta negra vierte una espesa resina epoxi autonivelante blanca desde un balde gris grande; el líquido brillante se expande y cubre por completo los gumballs. Un trabajador con chaleco amarillo de alta visibilidad y gorra negra pule la superficie ya curada con una pulidora de pisos profesional, revelando poco a poco un liso y brillante piso de terrazo blanco con coloridos trocitos de dulces incrustados. Dos trabajadores con uniformes oscuros entran una base de cama de madera, colocan un colchón blanco, tienden sábanas blancas y acomodan las almohadas con cuidado. Plano general final de un dormitorio minimalista donde el espectacular piso de terrazo con destellos de dulces brilla bajo la luz natural del sol. Fotorrealista, movimientos de cámara fluidos, transformación de renovación paso a paso muy satisfactoria, iluminación natural brillante.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116102290763378688/img/fJE7OoTkM7RQVZFZ.jpg" width="600" alt="Prompt de Piso Terrazzo con Chicles">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13223)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2116102340839092598) | **Publicado:** Oct 30, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -9585,6 +9605,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-22T05:38:05.143Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-22T16:12:47.576Z</sub>
 
 </div>

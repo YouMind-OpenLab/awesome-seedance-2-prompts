@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6712** |
+| 📝 Gesamtanzahl Prompts | **6715** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-11-22** |
 
@@ -361,6 +361,83 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Animation des nordischen Holzreliefs
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-Prompt zur Animation eines nordischen Holzreliefs, das eine Weltschlange und ein Langschiff darstellt, inklusive spezifischer Kameraeinstellungen und Audio-Hinweise.
+
+#### 📝 Prompt
+
+```
+Animiertes nordisches Holzrelief, verwitterte Eichenmaserung, geschnitzte Rillen und verschlungenes Knotenmuster, das sich gleitend neu verwebt, während sich die Elemente bewegen, verblassender roter Ocker und schwarze Farbe, streifendes Feuerlicht wirft tiefe Schatten. Farbgebung: warmes Eichenbraun, verblassender roter Ocker, Schwarz, bernsteinfarbenes Feuerlicht.
+
+MOTIV: Eine gewaltige Weltschlange, in Knotenmustern um die Erde gewunden, ein grimmig geschnitzter Kopf, der sich selbst in den Schwanz beißt. Ein Langschiff mit Rundschilden, einem Drachenbug und einer Kriegermannschaft an den Rudern.
+
+EINSTELLUNG 1 (0 bis 3s): Totale, flackerndes Feuerlicht wandert über die Schnitzerei, und der von Knotenmustern durchzogene Körper der Schlange beginnt zu gleiten und sich neu um die Erde zu weben.
+
+EINSTELLUNG 2 (3 bis 6s): Halbtotale, 35mm-Objektiv, das Langschiff rudert über geschnitzte Wellen, Krieger stemmen sich mit aller Kraft in die Riemen, der Drachenbug hebt und senkt sich.
+
+EINSTELLUNG 3 (6 bis 9s): Nahaufnahme, 85mm-Objektiv, der geschnitzte Kiefer der Schlange löst sich langsam von ihrem eigenen Schwanz, Holz knarrt und splittert, ihr Auge ist eine tiefe, rot leuchtende Rille.
+
+EINSTELLUNG 4 (9 bis 12s): Froschperspektive, Totale, 20mm-Objektiv, der Kopf der Schlange erhebt sich neben dem Langschiff aus dem geschnitzten Meer, ihre Windungen heben sich wie eine Flutwelle aus gerilltem Wasser.
+
+EINSTELLUNG 5 (12 bis 15s): Extreme Totale, 16mm-Objektiv, die Krieger reißen gemeinsam ihre Schilde hoch, die Schlange windet sich zurück um die Erde und beißt erneut in ihren Schwanz, während die Runen am Rand aufleuchten.
+
+AUDIO: Knisterndes Herdfeuer, knarrendes Holz, Ruderschläge und ein Gesang zum Takt des Ruderns, reibendes und splitterndes Schnitzholz, ein tiefes, zischendes Brüllen, aufeinanderprallende Schilde, Rahmentrommel und Kehlkopfgesang.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124240082018168832/img/vI-K2Yys2fGXwmGn.jpg" width="600" alt="Animation des nordischen Holzreliefs">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14124)**
+
+**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Quelle:** [Link](https://x.com/AllaAisling/status/2124278684710482420) | **Veröffentlicht:** Nov 21, 2026
+
+---
+### Cinematic Video Prompt: Wölfe schützen ein Kind
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Erstellung einer cineastischen 3D-animierten Fantasy-Szene, in der eine Frau mit einer Fackel im dunklen Wald ein Kind vor Wölfen schützt.
+
+#### 📝 Prompt
+
+```
+Erstelle eine filmreife 3D-animierte Fantasy-Abenteuerszene in einem dunklen, geheimnisvollen Wald in der Abenddämmerung. Eine mutige junge Frau aus dem Mittelalter hält eine brennende Fackel und beschützt ein kleines blondes Mädchen vor einem Rudel aggressiver grauer Wölfe. Die Wölfe umzingeln die beiden langsam, knurren, fletschen ihre scharfen Zähne und setzen zum Angriff an. Mit einem Arm hält die Frau das Kind fest an sich gedrückt, während sie mit der anderen Hand die lodernde Fackel hebt, um die Wölfe zu vertreiben.
+
+Zeige dramatische Actionsequenzen, in denen die Wölfe rennen, springen und sich aus verschiedenen Richtungen nähern. Die Frau weicht mutig Schritt für Schritt zurück, während sie das verängstigte Kind abschirmt. Ergänze realistisch flackerndes Fackelfeuer, glühende Funken, Rauch, Wind, der Kleidung und Haare bewegt, sowie dichte Kiefern im Hintergrund.
+
+Setze auf filmische Kamerabewegungen, dramatische Nahaufnahmen, Weitwinkel-Aufnahmen des Waldes, Froschperspektiven auf die Wölfe und fließende Übergänge. Hochdetaillierte 3D-animierte Charaktere, realistische Gesichtsausdrücke, professionelle Fantasy-Film-Animation, atmosphärische blaue Beleuchtung, dramatische Schatten, ultradetaillierte Umgebung, 4K-Qualität, 16:9 Breitbildformat.
+
+Achte darauf, dass das Aussehen der Figuren im gesamten Video einheitlich bleibt. Gestalte die Action spannungsgeladen, emotional und fesselnd. Beende das Video mit einem mysteriösen Cliffhanger, der zeigt, wie die Wölfe die Frau und das Kind einkreisen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124166821028962305/img/rzoGoEVvdsQRPC5q.jpg" width="600" alt="Cinematic Video Prompt: Wölfe schützen ein Kind">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14122)**
+
+**Autor:** [Ali](https://x.com/CodesWithAli) | **Quelle:** [Link](https://x.com/CodesWithAli/status/2124166885826871631) | **Veröffentlicht:** Nov 21, 2026
+
+---
+### Superheld-Gewittersturm auf dem Dach
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Prompt zur Erstellung einer cineastischen Superhelden-Szene, in der ein Mann auf einem Dach mit Blick auf eine futuristische Stadt Blitze kontrolliert.
+
+#### 📝 Prompt
+
+```
+Eine filmreife Superheldenszene: Ein junger Mann steht furchtlos auf dem Dach eines traditionellen asiatischen Gebäudes und blickt über eine atemberaubende futuristische Stadt bei Nacht. Dunkle Sturmwolken bedecken den Himmel, während mächtige Blitze direkt in seine erhobene Hand einschlagen. Seine Hand leuchtet vor intensiver bläulich-weißer elektrischer Energie und erzeugt einen spektakulären Blitzstrahl, der sich vom Himmel bis zu seinen Fingerspitzen erstreckt. Dann streckt er seinen Arm in Richtung der leuchtenden Stadt aus und entfesselt eine gewaltige elektrische Energiewelle. Wolkenkratzer erhellen die Nacht, dramatische Gewittereffekte, realistische Blitze, filmische Kamerabewegungen, epische Superheldenatmosphäre, ultrarealistische VFX, 4K-Qualität.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124165509994164224/img/Cp3RoXu2MYlKGK8H.jpg" width="600" alt="Superheld-Gewittersturm auf dem Dach">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14123)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Quelle:** [Link](https://x.com/draavenai/status/2124165725124182182) | **Veröffentlicht:** Nov 21, 2026
+
+---
 ### Kriegerin schützt Kind vor Wölfen im Wald
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9482,63 +9559,6 @@ Hochformat-Video, statische Totale eines leeren weißen Raums mit einem großen 
 **Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2116161380516601859) | **Veröffentlicht:** Oct 30, 2026
 
 ---
-### Crayon-Terrazzo-Bodenrenovierung: Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hyperrealistischer Renovierungs-Timelapse-Prompt, der Buntstifte in einen Terrazzoboden verwandelt, generiert mit Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Ein hyperrealistischer, befriedigender Renovierungs-Zeitraffer in einem hellen, leeren Raum mit weißen Wänden und einem großen Fenster. Ein Mann in blauem Overall harkt einen riesigen Berg aus Tausenden bunten Buntstiften auf dem nackten Betonboden zusammen und verteilt sie mit langen, gleichmäßigen Harkbewegungen gleichmäßig im gesamten Raum. Eine Frau in rotem Overall und grünen Handschuhen gießt dickflüssiges, glänzend weißes Epoxidharz aus einem schwarzen Eimer über die verstreuten Stifte; die cremige Flüssigkeit breitet sich aus, nivelliert sich von selbst und bedeckt schließlich den ganzen Boden. Anschließend polieren Arbeiter in gelben Warnwesten die ausgehärtete Oberfläche mit einer Einscheibenmaschine und bringen nach und nach einen atemberaubend glänzenden Terrazzo-Boden zum Vorschein, in dem Tausende bunte Buntstiftstücke eingeschlossen sind – sie leuchten wie polierter Stein und reflektieren das Licht aus dem Fenster. Zwei Arbeiter in schwarzen Uniformen und Kappen tragen ein hölzernes Bettgestell herein, bauen es auf, legen eine weiße Matratze darauf und beziehen das Bett ordentlich mit einer weißen Bettdecke und Kissen, bevor sie wieder hinausgehen. Schlusseinstellung: ein wunderschönes, minimalistisches Schlafzimmer, in dem der spiegelglatte Buntstift-Terrazzo-Boden im sanften natürlichen Tageslicht erstrahlt, fließende kinoreife Kamerabewegungen, gestochen scharfe, realistische Details, ein befriedigendes Transformationsvideo im ASMR-Stil, 4K-Qualität.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116158972063277056/img/97D3lQjT3kQuVTvK.jpg" width="600" alt="Crayon-Terrazzo-Bodenrenovierung: Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13220)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2116159013410701811) | **Veröffentlicht:** Oct 30, 2026
-
----
-### Herbstblätter Epoxidboden-Renovierung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Zeitraffer-Video-Prompt, der eine Raumrenovierung zeigt, bei der Herbstblätter in einen magischen Epoxidboden im Schlafzimmer verwandelt werden.
-
-#### 📝 Prompt
-
-```
-Vertikale 9:16 fotorealistische Zeitraffer-Aufnahme einer Zimmerrenovierung. Heller, leerer Raum mit weißen Wänden, nacktem Betonboden, blauem Malerkrepp entlang der Fußleisten und einem großen Fenster mit Blick auf grüne Bäume. Ein Mann in blauem Overall harkt einen großen Haufen orangefarbener und grüner Herbstblätter zusammen und verteilt sie gleichmäßig über den gesamten Boden. Weitere Arbeiter stoßen dazu: Einer im schwarzen Overall und drei in roten Overalls gießen klares, selbstnivellierendes Epoxidharz aus Metalleimern über die Blätter und verteilen es mit langstieligen Rakeln, bis jedes einzelne Blatt unter einer glänzenden, transparenten Schicht versiegelt ist. Ein Arbeiter in gelber Warnweste und mit Gehörschutz poliert den ausgehärteten Boden mit einer Einscheibenmaschine, sodass er perfekt glatt und spiegelglänzend wird – die Herbstblätter schweben darin wie ein Waldboden unter Glas. Zum Schluss montieren Arbeiter in schwarzer Arbeitskleidung mit Gehörschutz zügig ein hölzernes Bettgestell, legen eine weiße Matratze, Kissen und eine beigefarbene Tagesdecke darauf und stellen Holznachttische mit Messinglampen daneben. Das große Finale: Ein gemütliches, minimalistisches Schlafzimmer, durchflutet von natürlichem Tageslicht, in dem sich das Fenster und das Bett atemberaubend im glänzenden, blättergefüllten Epoxidharzboden spiegeln. Fließender, schneller Zeitraffer, befriedigender Renovierungsstil, natürliches Licht, gestochen scharfe, realistische Details.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116103244116086784/img/JCsSRmsvGdknmXVv.jpg" width="600" alt="Herbstblätter Epoxidboden-Renovierung">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13218)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2116103283274088875) | **Veröffentlicht:** Oct 30, 2026
-
----
-### Gumball-Terrazzo-Boden-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung eines wunderschönen Terrazzobodens mit Kaugummis, generiert mit Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Hochformat-Video, heller leerer Raum mit weißen Wänden, Betonboden und einem großen, sonnendurchfluteten Fenster. Ein Mann in blauem Overall harkt einen riesigen Haufen bunter Kaugummikugeln zusammen, die auf dem Boden verstreut liegen, und zieht sie zu gleichmäßigen Reihen auseinander, die den gesamten Raum bedecken. Eine Frau in rotem Overall und schwarzem T-Shirt gießt dickflüssiges, weißes, selbstnivellierendes Epoxidharz aus einem großen grauen Eimer; die glänzende Flüssigkeit breitet sich aus und überdeckt die Kaugummikugeln vollständig. Ein Arbeiter in gelber Warnweste und schwarzer Kappe poliert die ausgehärtete Oberfläche mit einer professionellen Bodenschleifmaschine und legt dabei nach und nach einen glatten, glänzend weißen Terrazzoboden frei, in den bunte Bonbon-Sprenkel eingelassen sind. Zwei Arbeiter in dunklen Uniformen tragen ein hölzernes Bettgestell herein, legen eine weiße Matratze darauf, breiten weiße Bettwäsche aus und richten die Kissen ordentlich an. Abschließende Totale eines minimalistischen Schlafzimmers, in dem der atemberaubende Terrazzoboden mit den Bonbon-Sprenkeln im natürlichen Sonnenlicht erstrahlt. Fotorealistisch, fließende Kameraführung, befriedigende Schritt-für-Schritt-Renovierung, helles natürliches Licht.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116102290763378688/img/fJE7OoTkM7RQVZFZ.jpg" width="600" alt="Gumball-Terrazzo-Boden-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13223)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2116102340839092598) | **Veröffentlicht:** Oct 30, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -9600,6 +9620,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-22T05:38:06.569Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-22T16:12:48.742Z</sub>
 
 </div>

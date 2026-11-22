@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6712** |
+| 📝 Tổng số prompt | **6715** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-11-22** |
 
@@ -361,6 +361,83 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Hoạt hình khắc gỗ Bắc Âu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc video chi tiết để tạo hoạt hình cho bức phù điêu khắc gỗ Bắc Âu mô tả rắn thế giới và tàu dài Viking, kèm theo phân cảnh cụ thể và hiệu ứng âm thanh.
+
+#### 📝 Prompt
+
+```
+Phù điêu chạm khắc gỗ Bắc Âu dạng hoạt hình, vân sồi phong hóa, những rãnh chạm và hoa văn nút thắt đan xen trượt đi rồi bện lại theo từng chuyển động, lớp sơn đỏ đất son và đen đã phai màu, ánh lửa hắt ngang đổ bóng sâu thẳm. Chỉnh màu: nâu sồi ấm, đỏ đất son nhạt, đen, vàng hổ phách của ánh lửa.
+
+CHỦ THỂ: Một con rắn thế giới khổng lồ cuộn mình thành hoa văn nút thắt quanh trái đất, phần đầu chạm khắc hung tợn đang cắn lấy đuôi mình. Một chiếc thuyền dài với những tấm khiên tròn, mũi thuyền hình rồng cùng đoàn chiến binh đang ra sức chèo.
+
+CẢNH 1 (0 đến 3s): Toàn cảnh, ánh lửa bập bùng lướt trên bề mặt chạm khắc, thân rắn bện nút bắt đầu trườn đi và tự đan lại quanh trái đất.
+
+CẢNH 2 (3 đến 6s): Trung cảnh, ống kính 35mm, chiếc thuyền dài rẽ qua những ngọn sóng chạm khắc, các chiến binh gồng mình đẩy mái chèo, mũi rồng nhấp nhô lên xuống.
+
+CẢNH 3 (6 đến 9s): Cận cảnh, ống kính 85mm, hàm răng chạm khắc của con rắn từ từ nhả đuôi mình ra, tiếng gỗ kẽo kẹt nứt toác, mắt nó là một rãnh sâu rực sáng sắc đỏ.
+
+CẢNH 4 (9 đến 12s): Toàn cảnh góc thấp, ống kính 20mm, đầu rắn vươn lên khỏi vùng biển chạm khắc ngay cạnh chiếc thuyền dài, những vòng cuộn dâng cao tạo thành cơn sóng thần bằng nước có rãnh.
+
+CẢNH 5 (12 đến 15s): Đại toàn cảnh, ống kính 16mm, các chiến binh đồng loạt giương khiên, con rắn cuộn ngược lại quanh trái đất và cắn đuôi lần nữa, những ký tự rune dọc viền bừng sáng.
+
+ÂM THANH: Tiếng lửa lò tí tách, tiếng gỗ kẽo kẹt, nhịp chèo khua nước hòa cùng khúc hát hò chèo, tiếng gỗ chạm nghiến vào nhau và nứt vỡ, tiếng gầm rít trầm đục, tiếng khiên va đập, trống khung và nghệ thuật hát cổ họng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124240082018168832/img/vI-K2Yys2fGXwmGn.jpg" width="600" alt="Hoạt hình khắc gỗ Bắc Âu">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14124)**
+
+**Tác giả:** [Alexandra Aisling](https://x.com/AllaAisling) | **Nguồn:** [Link](https://x.com/AllaAisling/status/2124278684710482420) | **Đã xuất bản:** Nov 21, 2026
+
+---
+### Prompt Video Điện Ảnh Sói Bảo Vệ Trẻ Em
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết để tạo cảnh fantasy hoạt hình 3D điện ảnh, trong đó một người phụ nữ dùng đuốc bảo vệ trẻ em khỏi bầy sói trong khu rừng tối.
+
+#### 📝 Prompt
+
+```
+Tạo một phân cảnh phiêu lưu kỳ ảo hoạt hình 3D mang đậm chất điện ảnh, bối cảnh trong một khu rừng tối tăm, huyền bí lúc hoàng hôn. Một cô gái trẻ thời trung cổ đầy quả cảm tay cầm ngọn đuốc rực lửa đang che chở cho một bé gái tóc vàng nhỏ bé trước bầy sói xám hung dữ. Lũ sói từ từ khép vòng vây, gầm gừ nhe nanh vuốt sắc lẹm và chuẩn bị lao vào tấn công. Người phụ nữ một tay ôm chặt đứa trẻ vào lòng, tay kia giơ cao ngọn đuốc đang cháy hừng hực để xua đuổi bầy sói.
+
+Thể hiện những phân đoạn hành động kịch tính khi bầy sói chạy, nhảy vồ và áp sát từ nhiều hướng khác nhau. Người phụ nữ dũng cảm lùi bước nhưng vẫn không ngừng bảo vệ đứa trẻ đang hoảng sợ. Bổ sung hiệu ứng ngọn lửa đuốc chân thực, những tàn than đỏ rực phát sáng, làn khói cuộn bay, gió thổi tung quần áo và mái tóc của hai người, cùng với những rặng thông dày đặc phía hậu cảnh.
+
+Sử dụng các chuyển động máy quay đậm chất điện ảnh, những cú cận cảnh đầy kịch tính, góc rộng bao quát khu rừng, góc thấp hướng lên bầy sói và các chuyển cảnh mượt mà. Nhân vật hoạt hình 3D chi tiết cao, biểu cảm gương mặt chân thực, phong cách hoạt hình phim kỳ ảo chuyên nghiệp, ánh sáng xanh lam tạo bầu không khí, bóng đổ tương phản mạnh, môi trường siêu chi tiết, chất lượng 4K, khung hình rộng 16:9.
+
+Giữ nguyên diện mạo nhất quán của các nhân vật xuyên suốt video. Xây dựng chuỗi hành động gay cấn, giàu cảm xúc và cuốn hút. Kết thúc bằng một cái kết mở đầy bí ẩn với hình ảnh bầy sói siết chặt vòng vây quanh người phụ nữ và đứa trẻ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124166821028962305/img/rzoGoEVvdsQRPC5q.jpg" width="600" alt="Prompt Video Điện Ảnh Sói Bảo Vệ Trẻ Em">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14122)**
+
+**Tác giả:** [Ali](https://x.com/CodesWithAli) | **Nguồn:** [Link](https://x.com/CodesWithAli/status/2124166885826871631) | **Đã xuất bản:** Nov 21, 2026
+
+---
+### Bão Sét Siêu Anh Hùng Trên Sân Thượng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lời nhắc video để tạo cảnh siêu anh hùng điện ảnh, mô tả một người đàn ông điều khiển tia sét trên sân thượng nhìn ra thành phố tương lai.
+
+#### 📝 Prompt
+
+```
+Một cảnh siêu anh hùng đậm chất điện ảnh, khắc họa một chàng trai trẻ đứng hiên ngang trên mái một công trình kiến trúc Á Đông cổ kính, phóng tầm mắt bao quát cả thành phố tương lai tráng lệ về đêm. Bầu trời bị che phủ bởi những đám mây bão đen kịt, trong khi tia sét dữ dội giáng thẳng xuống bàn tay đang giơ cao của anh. Bàn tay ấy bừng sáng với luồng năng lượng điện xanh trắng chói lòa, tạo nên một cột sét ngoạn mục kéo dài từ bầu trời xuống tận đầu ngón tay. Ngay sau đó, anh vươn cánh tay về phía thành phố rực ánh đèn, giải phóng một làn sóng năng lượng điện mạnh mẽ. Những tòa nhà chọc trời thắp sáng màn đêm, hiệu ứng giông bão đầy kịch tính, tia sét chân thực, góc máy chuyển động đậm chất điện ảnh, không khí siêu anh hùng hào hùng, kỹ xảo VFX siêu thực, chất lượng 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124165509994164224/img/Cp3RoXu2MYlKGK8H.jpg" width="600" alt="Bão Sét Siêu Anh Hùng Trên Sân Thượng">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14123)**
+
+**Tác giả:** [Draaven](https://x.com/draavenai) | **Nguồn:** [Link](https://x.com/draavenai/status/2124165725124182182) | **Đã xuất bản:** Nov 21, 2026
+
+---
 ### Chiến binh bảo vệ trẻ em khỏi bầy sói trong rừng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9494,63 +9571,6 @@ Video dọc, góc máy rộng cố định quay một căn phòng trắng trốn
 **Tác giả:** [Ruslan Ai](https://x.com/Ruslanchain) | **Nguồn:** [Link](https://x.com/Ruslanchain/status/2116161380516601859) | **Đã xuất bản:** Oct 30, 2026
 
 ---
-### Prompt cải tạo sàn Terrazzo từ sáp màu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video timelapse cải tạo sàn siêu thực biến sáp màu thành sàn terrazzo, được tạo bằng Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Video timelapse cải tạo phòng siêu chân thực, mang lại cảm giác cực kỳ thỏa mãn trong một căn phòng trống ngập tràn ánh sáng với những bức tường trắng và khung cửa sổ lớn. Một người đàn ông mặc bộ đồ bảo hộ màu xanh dương dùng cào san phẳng một gò khổng lồ gồm hàng ngàn chiếc bút sáp màu rực rỡ trên nền bê tông trần, trải đều chúng khắp phòng bằng những đường cào dài và mượt mà. Tiếp đó, một người phụ nữ mặc đồ bảo hộ màu đỏ, đeo găng tay xanh lá đổ lớp nhựa epoxy trắng bóng dày đặc từ một chiếc xô đen lên đống bút sáp đã rải; dòng chất lỏng mịn màng lan tỏa và tự dàn phẳng cho đến khi phủ kín toàn bộ mặt sàn. Các công nhân mặc áo phản quang màu vàng sau đó đánh bóng bề mặt đã khô cứng bằng máy chà sàn xoay, dần hé lộ một mặt sàn phong cách terrazzo bóng loáng tuyệt đẹp với hàng ngàn mảnh bút sáp đủ màu sắc ẩn bên trong, lấp lánh như đá mài và phản chiếu ánh sáng từ cửa sổ. Hai công nhân mặc đồng phục và đội mũ đen khiêng vào một khung giường gỗ, lắp ráp, đặt nệm trắng rồi cẩn thận trải ga giường cùng chăn và gối màu trắng tinh tươm, sau đó bước ra ngoài. Cảnh cuối: một phòng ngủ tối giản tuyệt đẹp với mặt sàn terrazzo bút sáp phẳng lì như gương đang bừng sáng dưới ánh nắng tự nhiên dịu nhẹ, góc máy điện ảnh chuyển động mượt mà, chi tiết sắc nét chân thực, video biến hình phong cách ASMR đầy thỏa mãn, chất lượng 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116158972063277056/img/97D3lQjT3kQuVTvK.jpg" width="600" alt="Prompt cải tạo sàn Terrazzo từ sáp màu">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13220)**
-
-**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2116159013410701811) | **Đã xuất bản:** Oct 30, 2026
-
----
-### Cải Tạo Sàn Epoxy Lá Mùa Thu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mô tả prompt video timelapse về cải tạo phòng, biến những chiếc lá mùa thu thành sàn epoxy kỳ ảo cho phòng ngủ.
-
-#### 📝 Prompt
-
-```
-Video timelapse chân thực tỷ lệ dọc 9:16 ghi lại quá trình cải tạo một căn phòng. Căn phòng trống sáng sủa với những bức tường trắng, sàn bê tông thô, băng keo dán viền xanh chạy dọc theo chân tường và một khung cửa sổ lớn nhìn ra hàng cây xanh mát bên ngoài. Một người đàn ông mặc bộ đồ bảo hộ màu xanh dương dùng cào san đều một đống lá thu lớn màu cam và xanh lục ra khắp mặt sàn. Thêm nhiều thợ khác xuất hiện: một người mặc đồ bảo hộ đen cùng ba người mặc đồ đỏ đổ nhựa epoxy tự san phẳng trong suốt từ các xô kim loại lên lớp lá, rồi dùng thanh gạt cán dài trải đều cho đến khi từng chiếc lá được phủ kín dưới một lớp trong suốt bóng loáng. Một người thợ mặc áo phản quang màu vàng và đeo bịt tai tiến hành đánh bóng mặt sàn đã khô cứng bằng máy chà sàn xoay, giúp bề mặt trở nên nhẵn mịn hoàn hảo như gương, với những chiếc lá thu lơ lửng bên trong tựa như thảm rừng nằm gọn dưới lớp kính. Cuối cùng, các thợ mặc đồng phục đen và đeo thiết bị bảo vệ tai nhanh chóng lắp ráp khung giường gỗ, đặt nệm trắng, gối và chăn vắt màu be, rồi kê thêm tủ đầu giường bằng gỗ cùng những chiếc đèn ngủ bằng đồng thau. Cảnh lộ diện cuối cùng: một phòng ngủ tối giản ấm cúng ngập tràn ánh sáng tự nhiên, nơi mặt sàn epoxy bóng bẩy chứa đầy lá thu phản chiếu hình ảnh cửa sổ và chiếc giường. Chuyển động timelapse nhanh và mượt mà, phong cách cải tạo mang lại cảm giác thỏa mãn, ánh sáng tự nhiên, chi tiết sắc nét và chân thực.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116103244116086784/img/JCsSRmsvGdknmXVv.jpg" width="600" alt="Cải Tạo Sàn Epoxy Lá Mùa Thu">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13218)**
-
-**Tác giả:** [Ruslan Ai](https://x.com/Ruslanchain) | **Nguồn:** [Link](https://x.com/Ruslanchain/status/2116103283274088875) | **Đã xuất bản:** Oct 30, 2026
-
----
-### Prompt Sàn Terrazzo Kẹo Cao Su
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo sàn terrazzo tuyệt đẹp bằng kẹo cao su, được tạo bởi Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Video dọc, căn phòng trống sáng sủa với những bức tường trắng, sàn bê tông và một ô cửa sổ lớn ngập tràn ánh nắng. Một người đàn ông mặc quần yếm màu xanh dương đang cào đống kẹo cao su đủ màu sắc khổng lồ rải khắp sàn, gom chúng thành từng hàng đều tăm tắp phủ kín cả căn phòng. Một người phụ nữ mặc quần yếm đỏ cùng áo phông đen rót lớp epoxy tự san phẳng màu trắng đặc sánh từ chiếc xô xám lớn, dòng chất lỏng bóng loáng lan tỏa ra xung quanh và bao phủ hoàn toàn những viên kẹo. Một công nhân mặc áo phản quang màu vàng, đội mũ lưỡi trai đen dùng máy mài sàn chuyên nghiệp để đánh bóng bề mặt đã khô cứng, dần hé lộ một nền terrazzo trắng bóng mịn tuyệt đẹp với vô số hạt kẹo rực rỡ được khảm bên trong. Hai công nhân mặc đồng phục tối màu khiêng khung giường gỗ vào, đặt nệm trắng xuống, trải ga giường trắng tinh và xếp gối ngay ngắn. Cảnh quay góc rộng kết thúc cho thấy một phòng ngủ phong cách tối giản với nền terrazzo điểm xuyết những hạt kẹo bắt mắt, bừng sáng dưới ánh nắng tự nhiên. Chân thực như ảnh chụp, góc máy mượt mà, quá trình cải tạo từng bước đầy thỏa mãn, ánh sáng tự nhiên tươi sáng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116102290763378688/img/fJE7OoTkM7RQVZFZ.jpg" width="600" alt="Prompt Sàn Terrazzo Kẹo Cao Su">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13223)**
-
-**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2116102340839092598) | **Đã xuất bản:** Oct 30, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -9612,6 +9632,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-22T05:38:01.600Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-22T16:12:43.897Z</sub>
 
 </div>

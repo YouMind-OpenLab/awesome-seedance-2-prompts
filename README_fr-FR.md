@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6712** |
+| 📝 Total des prompts | **6715** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-11-22** |
 
@@ -361,6 +361,83 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Animation de Sculpture sur Bois Nordique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo détaillé pour animer une sculpture sur bois nordique représentant le serpent du monde et un drakkar, avec des plans spécifiques et des indications audio.
+
+#### 📝 Prompt
+
+```
+Bas-relief animé en bois sculpté nordique, veinure de chêne patiné, sillons creusés et entrelacs qui glissent et se retissent au fil des mouvements, ocre rouge délavé et peinture noire, lumière rasante d'un feu projetant des ombres profondes. Étalonnage : brun chêne chaud, ocre rouge délavé, noir, ambre de flammes.
+
+SUJET : Un gigantesque serpent-monde enroulé en entrelacs autour de la terre, sa tête farouche sculptée mordant sa propre queue. Un drakkar orné de boucliers ronds, une proue en forme de dragon et un équipage de guerriers aux rames.
+
+PLAN 1 (0 à 3 s) : Plan large, la lueur du feu vacille sur la sculpture et le corps entrelacé du serpent commence à glisser et à se retisser autour de la terre.
+
+PLAN 2 (3 à 6 s) : Plan moyen, objectif 35 mm, le drakkar avance à la rame sur des vagues sculptées, les guerriers forçant sur leurs avirons, la proue de dragon se soulevant et retombant.
+
+PLAN 3 (6 à 9 s) : Gros plan, objectif 85 mm, la mâchoire sculptée du serpent relâche lentement sa propre queue, le bois grinçant et se fendant, son œil formé d'un profond sillon luisant de rouge.
+
+PLAN 4 (9 à 12 s) : Plan large en contre-plongée, objectif 20 mm, la tête du serpent émerge de la mer sculptée aux côtés du drakkar, ses anneaux se soulevant dans un raz-de-marée d'eau striée de sillons.
+
+PLAN 5 (12 à 15 s) : Plan très large, objectif 16 mm, les guerriers lèvent leurs boucliers à l'unisson, le serpent s'enroule de nouveau autour de la terre et remord sa queue, tandis que les runes bordant le cadre s'illuminent.
+
+AUDIO : Crépitement du feu de cheminée, grincements du bois, coups de rames et chant de rameurs, bois sculpté raclant et se fendant, grondement sifflant et profond, choc des boucliers, tambour sur cadre et chant de gorge.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124240082018168832/img/vI-K2Yys2fGXwmGn.jpg" width="600" alt="Animation de Sculpture sur Bois Nordique">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14124)**
+
+**Auteur:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2124278684710482420) | **Publié:** Nov 21, 2026
+
+---
+### Prompt vidéo cinématographique : Loups protégeant un enfant
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour créer une scène de fantasy animée en 3D cinématographique, mettant en scène une femme protégeant un enfant des loups dans une forêt sombre à l'aide d'une torche.
+
+#### 📝 Prompt
+
+```
+Créez une scène d'aventure fantastique en animation 3D cinématographique, dans une forêt sombre et mystérieuse au crépuscule. Une jeune femme courageuse de l'époque médiévale, tenant une torche enflammée, protège une petite fille blonde d'une meute de loups gris agressifs. Les loups les encerclent lentement en grondant, dévoilant leurs crocs acérés et se préparant à attaquer. La femme serre l'enfant contre elle d'un bras et brandit la torche flamboyante de l'autre main pour repousser les prédateurs.
+
+Intégrez des séquences d'action spectaculaires où les loups courent, bondissent et approchent de toutes parts. La femme recule avec bravoure tout en protégeant l'enfant terrifiée. Ajoutez des flammes de torche réalistes, des braises incandescentes, de la fumée, le vent faisant flotter leurs vêtements et leurs cheveux, ainsi que des pins touffus en arrière-plan.
+
+Utilisez des mouvements de caméra cinématographiques, des gros plans dramatiques, des plans grand angle de la forêt, des contre-plongées sur les loups et des transitions fluides. Personnages en animation 3D ultra-détaillés, expressions faciales réalistes, animation digne d'un film fantastique professionnel, éclairage bleu atmosphérique, ombres dramatiques, environnement extrêmement détaillé, qualité 4K, format large 16:9.
+
+Maintenez une apparence cohérente des personnages tout au long de la vidéo. Rendez l'action haletante, émouvante et captivante. Terminez par un cliffhanger mystérieux montrant les loups cernant la femme et l'enfant.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124166821028962305/img/rzoGoEVvdsQRPC5q.jpg" width="600" alt="Prompt vidéo cinématographique : Loups protégeant un enfant">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14122)**
+
+**Auteur:** [Ali](https://x.com/CodesWithAli) | **Source:** [Link](https://x.com/CodesWithAli/status/2124166885826871631) | **Publié:** Nov 21, 2026
+
+---
+### Tempête de foudre de super-héros sur un toit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo pour créer une scène cinématographique de super-héros mettant en vedette un homme contrôlant la foudre sur un toit surplombant une ville futuriste.
+
+#### 📝 Prompt
+
+```
+Une scène de super-héros digne d'un blockbuster : un jeune homme se tient sans crainte sur le toit d'un bâtiment traditionnel asiatique, dominant une ville futuriste à couper le souffle plongée dans la nuit. De sombres nuages d'orage envahissent le ciel tandis qu'un puissant éclair frappe directement sa main levée. Celle-ci s'illumine d'une intense énergie électrique bleu-blanc, formant un faisceau de foudre spectaculaire qui relie le ciel au bout de ses doigts. Il tend ensuite le bras vers la cité scintillante et libère une puissante vague d'énergie électrique. Gratte-ciel illuminant la nuit, effets d'orage dramatiques, éclairs réalistes, mouvements de caméra cinématographiques, atmosphère épique de super-héros, VFX ultra-réalistes, qualité 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124165509994164224/img/Cp3RoXu2MYlKGK8H.jpg" width="600" alt="Tempête de foudre de super-héros sur un toit">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14123)**
+
+**Auteur:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2124165725124182182) | **Publié:** Nov 21, 2026
+
+---
 ### Guerrière protégeant un enfant des loups dans une forêt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9222,63 +9299,6 @@ Vidéo verticale, plan large fixe d'une pièce blanche vide dotée d'une grande 
 **Auteur:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116161380516601859) | **Publié:** Oct 30, 2026
 
 ---
-### Invite de rénovation de sol en terrazzo au crayon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo hyper-réaliste de timelapse de rénovation transformant des crayons en un sol en terrazzo, généré avec Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Un timelapse de rénovation ultra-réaliste et satisfaisant dans une pièce vide et lumineuse, aux murs blancs et dotée d'une grande fenêtre. Un homme en salopette bleue ratisse un énorme tas de milliers de crayons de couleur posés sur le sol en béton brut, les répartissant uniformément dans toute la pièce par de longs mouvements de râteau fluides. Une femme en salopette rouge et gants verts verse une épaisse résine époxy blanche et brillante depuis un seau noir sur les crayons éparpillés ; le liquide crémeux s'étale et s'auto-nivelle jusqu'à recouvrir entièrement le sol. Des ouvriers portant des gilets jaunes haute visibilité polissent ensuite la surface durcie à l'aide d'une monobrosse rotative, dévoilant peu à peu un superbe sol brillant façon terrazzo, où des milliers de morceaux de crayons colorés sont suspendus, étincelants comme de la pierre polie et reflétant la lumière de la fenêtre. Deux travailleurs en uniforme et casquette noirs apportent un cadre de lit en bois, l'assemblent, y posent un matelas blanc et font soigneusement le lit avec une couette et des oreillers blancs, avant de s'éloigner. Plan final : une magnifique chambre minimaliste dont le sol en terrazzo de crayons, semblable à un miroir, resplendit sous une douce lumière naturelle du jour, mouvement de caméra cinématographique fluide, détails réalistes d'une netteté saisissante, vidéo de transformation satisfaisante style ASMR, qualité 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116158972063277056/img/97D3lQjT3kQuVTvK.jpg" width="600" alt="Invite de rénovation de sol en terrazzo au crayon">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13220)**
-
-**Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116159013410701811) | **Publié:** Oct 30, 2026
-
----
-### Rénovation de sol en résine époxy aux feuilles d'automne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo en timelapse montrant la rénovation d'une chambre où des feuilles d'automne sont transformées en un sol en résine époxy magique.
-
-#### 📝 Prompt
-
-```
-Timelapse photoréaliste au format vertical 9:16 de la rénovation d'une pièce. Une chambre vide et lumineuse aux murs blancs, avec un sol en béton brut, du ruban de masquage bleu le long des plinthes et une grande fenêtre donnant sur des arbres verdoyants. Un homme en combinaison bleue ratisse un grand tas de feuilles d'automne orange et vertes, puis les répartit uniformément sur toute la surface du sol. D'autres ouvriers le rejoignent : l'un en combinaison noire et trois en combinaisons rouges versent de la résine époxy autonivelante transparente depuis des seaux métalliques sur les feuilles, et l'étalent à l'aide de raclettes à long manche jusqu'à ce que chaque feuille soit scellée sous une couche brillante et translucide. Un ouvrier portant un gilet jaune haute visibilité et un casque antibruit polit le sol durci avec une monobrosse, le rendant parfaitement lisse et miroir, les feuilles d'automne y restant suspendues comme un tapis forestier pris sous verre. Enfin, des ouvriers en uniforme noir munis de protections auditives assemblent rapidement un cadre de lit en bois, y déposent un matelas blanc, des oreillers et un plaid beige, puis ajoutent des tables de chevet en bois équipées de lampes en laiton. Révélation finale : une chambre minimaliste et chaleureuse baignée de lumière naturelle, où le superbe sol en époxy brillant incrusté de feuilles reflète la fenêtre et le lit. Mouvement de timelapse fluide et rapide, style de rénovation satisfaisant, éclairage naturel, détails réalistes et nets.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116103244116086784/img/JCsSRmsvGdknmXVv.jpg" width="600" alt="Rénovation de sol en résine époxy aux feuilles d'automne">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13218)**
-
-**Auteur:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116103283274088875) | **Publié:** Oct 30, 2026
-
----
-### Prompt Sol Terrazzo Gommes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour créer un magnifique sol en terrazzo à l'aide de gommes, généré avec Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Vidéo au format vertical, pièce vide et lumineuse aux murs blancs, sol en béton et grande fenêtre baignée de soleil. Un homme en salopette bleue ratisse un immense tas de boules de gomme colorées éparpillées sur le sol, les alignant en rangées régulières qui recouvrent toute la pièce. Une femme en salopette rouge et t-shirt noir verse une épaisse résine époxy autonivelante blanche depuis un grand seau gris ; le liquide brillant s'étale et recouvre entièrement les bonbons. Un ouvrier vêtu d'un gilet jaune haute visibilité et d'une casquette noire polit la surface durcie à l'aide d'une ponceuse professionnelle pour sols, dévoilant peu à peu un terrazzo blanc lisse et brillant, parsemé d'éclats de bonbons colorés incrustés dans la masse. Deux ouvriers en uniforme sombre apportent un cadre de lit en bois, y déposent un matelas blanc, étendent du linge de lit immaculé et disposent soigneusement les oreillers. Plan large final sur une chambre minimaliste dont le superbe sol en terrazzo moucheté de bonbons resplendit sous la lumière naturelle. Rendu photoréaliste, mouvements de caméra fluides, transformation de rénovation étape par étape particulièrement satisfaisante, éclairage naturel éclatant.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116102290763378688/img/fJE7OoTkM7RQVZFZ.jpg" width="600" alt="Prompt Sol Terrazzo Gommes">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13223)**
-
-**Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116102340839092598) | **Publié:** Oct 30, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -9340,6 +9360,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-22T05:38:07.679Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-22T16:12:49.917Z</sub>
 
 </div>

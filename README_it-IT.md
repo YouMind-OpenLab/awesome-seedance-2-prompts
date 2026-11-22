@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6712** |
+| 📝 Totale prompt | **6715** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-11-22** |
 
@@ -361,6 +361,83 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Animazione di intaglio su legno norreno
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video dettagliato per animare un rilievo in legno norreno che raffigura il serpente del mondo e una nave vichinga, con specifiche suddivisioni delle inquadrature e indicazioni audio.
+
+#### 📝 Prompt
+
+```
+Bassorilievo animato in legno intagliato norreno, venature di quercia consumata dal tempo, scanalature scolpite e intrecci a nodo che scivolano e si riallacciano al movimento degli elementi, ocra rossa sbiadita e pittura nera, luce radente del fuoco che proietta ombre profonde. Color grading: marrone caldo della quercia, ocra rossa sbiadita, nero, ambra della luce del fuoco.
+
+SOGGETTO: un colossale serpente del mondo avvolto in un intreccio a nodo attorno alla terra, una feroce testa scolpita che si morde la coda. Una nave lunga con scudi rotondi, una prua a forma di drago e un equipaggio di guerrieri ai remi.
+
+INQUADRATURA 1 (da 0 a 3s): campo lungo, la luce del fuoco guizza sull'intaglio e il corpo intrecciato del serpente inizia a scivolare e a riannodarsi attorno alla terra.
+
+INQUADRATURA 2 (da 3 a 6s): campo medio, obiettivo 35mm, la nave lunga avanza a remi su onde scolpite, i guerrieri si sforzano sui remi, la prua a drago si alza e si abbassa.
+
+INQUADRATURA 3 (da 6 a 9s): primo piano, obiettivo 85mm, la mascella scolpita del serpente rilascia lentamente la propria coda, il legno scricchiola e si scheggia, il suo occhio è una profonda scanalatura che brilla di rosso.
+
+INQUADRATURA 4 (da 9 a 12s): campo lungo dal basso, obiettivo 20mm, la testa del serpente emerge dal mare scolpito accanto alla nave lunga, le spire si sollevano in un'onda anomala d'acqua solcata da scanalature.
+
+INQUADRATURA 5 (da 12 a 15s): campo lunghissimo, obiettivo 16mm, i guerrieri alzano gli scudi all'unisono, il serpente si riavvolge attorno alla terra e si morde di nuovo la coda, mentre le rune lungo il bordo si illuminano.
+
+AUDIO: crepitio del fuoco nel focolare, scricchiolio del legno, colpi di remo e un canto di voga, legno intagliato che stride e si scheggia, un profondo ruggito sibilante, cozzare di scudi, tamburo a cornice e canto armonico.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124240082018168832/img/vI-K2Yys2fGXwmGn.jpg" width="600" alt="Animazione di intaglio su legno norreno">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=14124)**
+
+**Autore:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fonte:** [Link](https://x.com/AllaAisling/status/2124278684710482420) | **Pubblicato:** Nov 21, 2026
+
+---
+### Prompt Video Cinematografico: Lupi e Bambino Protetto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt dettagliato per la creazione di una scena fantasy animata in 3D cinematografica, con una donna che protegge un bambino dai lupi in una foresta buia usando una torcia.
+
+#### 📝 Prompt
+
+```
+Crea una scena d'avventura fantasy in animazione 3D dal taglio cinematografico, ambientata in una foresta buia e misteriosa al crepuscolo. Una giovane donna coraggiosa in abiti medievali impugna una torcia infuocata per proteggere una bambina bionda da un branco di lupi grigi aggressivi. I lupi le circondano lentamente, ringhiando, mostrando i denti affilati e preparandosi ad attaccare. La donna stringe la bambina a sé con un braccio e solleva la torcia fiammeggiante con l'altra mano per spaventare i lupi.
+
+Mostra sequenze d'azione drammatiche con i lupi che corrono, saltano e si avvicinano da direzioni diverse. La donna indietreggia con coraggio, proteggendo la bambina terrorizzata. Aggiungi fiamme realistiche della torcia, braci incandescenti, fumo, il vento che muove vestiti e capelli e fitti pini sullo sfondo.
+
+Utilizza movimenti di macchina cinematografici, primi piani drammatici, inquadrature grandangolari della foresta, riprese dei lupi dal basso e transizioni fluide. Personaggi animati in 3D estremamente dettagliati, espressioni facciali realistiche, animazione professionale da film fantasy, illuminazione blu atmosferica, ombre drammatiche, ambiente ultra-dettagliato, qualità 4K, formato widescreen 16:9.
+
+Mantieni coerente l'aspetto dei personaggi per tutta la durata del video. Rendi l'azione ricca di suspense, emozionante e coinvolgente. Concludi con un cliffhanger misterioso che mostra i lupi mentre circondano la donna e la bambina.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124166821028962305/img/rzoGoEVvdsQRPC5q.jpg" width="600" alt="Prompt Video Cinematografico: Lupi e Bambino Protetto">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=14122)**
+
+**Autore:** [Ali](https://x.com/CodesWithAli) | **Fonte:** [Link](https://x.com/CodesWithAli/status/2124166885826871631) | **Pubblicato:** Nov 21, 2026
+
+---
+### Tempesta di fulmini da supereroe sul tetto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video per creare una scena cinematografica da supereroe che mostra un uomo che controlla i fulmini su un tetto con vista su una città futuristica.
+
+#### 📝 Prompt
+
+```
+Una scena cinematografica da supereroe con un giovane uomo in piedi senza paura sul tetto di un tradizionale edificio asiatico, affacciato su una mozzafiato città futuristica notturna. Nubi temporalesche scure coprono il cielo mentre potenti fulmini colpiscono direttamente la sua mano alzata. La mano risplende di un'intensa energia elettrica bianco-bluastra, creando uno spettacolare raggio di luce che si estende dal cielo fino alla punta delle sue dita. Poi distende il braccio verso la città luminosa, liberando una potente onda di energia elettrica. Grattacieli che illuminano la notte, drammatici effetti di temporale, fulmini realistici, movimenti di camera cinematografici, atmosfera epica da supereroe, VFX ultra-realistici, qualità 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124165509994164224/img/Cp3RoXu2MYlKGK8H.jpg" width="600" alt="Tempesta di fulmini da supereroe sul tetto">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=14123)**
+
+**Autore:** [Draaven](https://x.com/draavenai) | **Fonte:** [Link](https://x.com/draavenai/status/2124165725124182182) | **Pubblicato:** Nov 21, 2026
+
+---
 ### Guerriera che protegge un bambino dai lupi nella foresta
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9426,63 +9503,6 @@ Video verticale, inquadratura fissa e grandangolare di una stanza bianca vuota c
 **Autore:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2116161380516601859) | **Pubblicato:** Oct 30, 2026
 
 ---
-### Prompt per la Ristrutturazione del Pavimento in Terrazzo a Gessetti
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt iperrealistico per un timelapse di ristrutturazione che trasforma i gessetti in un pavimento in terrazzo, generato con Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Un timelapse iperrealistico e appagante di una ristrutturazione in una stanza vuota e luminosa, con pareti bianche e un'ampia finestra. Un uomo in tuta blu rastrella un enorme cumulo di migliaia di pastelli colorati sul pavimento di cemento nudo, distribuendoli uniformemente in tutta la stanza con movimenti lunghi e fluidi del rastrello. Una donna in tuta rossa e guanti verdi versa da un secchio nero una densa resina epossidica bianca e lucida sui pastelli sparsi: il liquido cremoso si espande e si livella da solo fino a ricoprire l'intero pavimento. Alcuni operai con gilet gialli ad alta visibilità lucidano poi la superficie indurita con una monospazzola rotante, rivelando gradualmente uno splendido pavimento lucido in stile terrazzo, con migliaia di frammenti di pastelli colorati sospesi al suo interno, brillanti come pietra levigata che riflettono la luce della finestra. Due lavoratori in uniforme e cappellino neri portano dentro una struttura del letto in legno, la assemblano, posizionano un materasso bianco e rifanno il letto con cura usando un piumino e dei cuscini bianchi, per poi allontanarsi. Inquadratura finale: una bellissima camera da letto minimalista con il pavimento in terrazzo di pastelli, simile a uno specchio, che risplende nella morbida luce naturale del giorno, movimento cinematografico fluido della telecamera, dettagli nitidi e realistici, video di trasformazione appagante in stile ASMR, qualità 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116158972063277056/img/97D3lQjT3kQuVTvK.jpg" width="600" alt="Prompt per la Ristrutturazione del Pavimento in Terrazzo a Gessetti">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13220)**
-
-**Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2116159013410701811) | **Pubblicato:** Oct 30, 2026
-
----
-### Ristrutturazione del pavimento in resina epossidica con foglie autunnali
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per un video timelapse che mostra la ristrutturazione di una stanza, dove le foglie autunnali vengono trasformate in un magico pavimento in resina epossidica per una camera da letto.
-
-#### 📝 Prompt
-
-```
-Timelapse fotorealistico in verticale 9:16 della ristrutturazione di una stanza. Stanza vuota e luminosa con pareti bianche, pavimento in cemento grezzo, nastro carta blu lungo i battiscopa e un'ampia finestra con alberi verdi all'esterno. Un uomo in tuta da lavoro blu rastrella un grande cumulo di foglie autunnali arancioni e verdi, distribuendole uniformemente su tutto il pavimento. Si uniscono altri operai: uno in tuta nera e tre in tuta rossa versano resina epossidica autolivellante trasparente da secchi metallici sopra le foglie e la stendono con spatole a manico lungo, fino a sigillare ogni singola foglia sotto uno strato lucido e trasparente. Un operaio con gilet giallo ad alta visibilità e cuffie antirumore leviga il pavimento indurito con una monospazzola rotante, rendendolo perfettamente liscio e a specchio, con le foglie autunnali sospese all'interno come il sottobosco intrappolato sotto il vetro. Infine, alcuni operai in uniforme nera con protezioni per le orecchie assemblano rapidamente una struttura del letto in legno, posizionano un materasso bianco, cuscini e una coperta beige, e aggiungono comodini in legno con lampade in ottone. Rivelazione finale: un'accogliente camera da letto minimalista immersa nella luce naturale del giorno, dove lo splendido pavimento in resina epossidica lucida con le foglie riflette la finestra e il letto. Movimento timelapse fluido e veloce, stile ristrutturazione appagante, illuminazione naturale, dettagli nitidi e realistici.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116103244116086784/img/JCsSRmsvGdknmXVv.jpg" width="600" alt="Ristrutturazione del pavimento in resina epossidica con foglie autunnali">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13218)**
-
-**Autore:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2116103283274088875) | **Pubblicato:** Oct 30, 2026
-
----
-### Prompt Pavimento Terrazzo Gumball
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per creare un pavimento in terrazzo splendido utilizzando gumball, generato con Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Video verticale, stanza vuota e luminosa con pareti bianche, pavimento in cemento e un'ampia finestra inondata di sole. Un uomo in tuta blu rastrella un enorme cumulo di gumballs colorate sparse sul pavimento, allineandole in file ordinate che ricoprono l'intera stanza. Una donna in tuta rossa e t-shirt nera versa una densa resina epossidica autolivellante bianca da un grande secchio grigio: il liquido lucido si espande fino a ricoprire completamente le gumballs. Un operaio con gilet giallo ad alta visibilità e cappellino nero leviga la superficie indurita con una levigatrice professionale per pavimenti, rivelando poco a poco un liscio e lucido pavimento in terrazzo bianco, impreziosito da schegge di caramelle colorate incastonate al suo interno. Due operai in divisa scura portano dentro la struttura di un letto in legno, posano un materasso bianco, stendono lenzuola candide e sistemano i cuscini con cura. Inquadratura finale ampia di una camera da letto minimalista, dove lo splendido pavimento in terrazzo punteggiato di caramelle risplende alla luce naturale del sole. Fotorealistico, movimenti di camera fluidi, trasformazione soddisfacente della ristrutturazione passo dopo passo, illuminazione naturale e luminosa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116102290763378688/img/fJE7OoTkM7RQVZFZ.jpg" width="600" alt="Prompt Pavimento Terrazzo Gumball">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13223)**
-
-**Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2116102340839092598) | **Pubblicato:** Oct 30, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -9544,6 +9564,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-22T05:38:08.737Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-22T16:12:51.097Z</sub>
 
 </div>
