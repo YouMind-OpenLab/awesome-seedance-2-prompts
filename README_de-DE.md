@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6715** |
+| 📝 Gesamtanzahl Prompts | **6720** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-11-24** |
 
@@ -361,6 +361,125 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Kino-reife Reise-Vlog-Sequenz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erzeugt einen 30-sekündigen, ultrarealistischen Reise-Vlog mit einer ostasiatischen Frau, die ein englisches Dorf erkundet, inklusive detaillierter Szenenbeschreibungen.
+
+#### 📝 Prompt
+
+```
+Erstelle einen 30-sekündigen, ultrarealistischen, cineastischen Reise-Vlog mit einer schönen jungen ostasiatischen Frau mit langen, glatten, dunkelbraunen Haaren. Sie trägt einen cremefarbenen Strickpullover, eine Blue Jeans, weiße Sneaker und einen schwarzen Rucksack.
+
+Szene 1 (0–5 Sekunden):
+Sie geht durch die charmante Straße eines englischen Dorfes und hält die Kamera im Selfie-Modus. Im Hintergrund sind wunderschöne historische weiße Cottages, traditionelle Geschäfte, Fußgänger und ein klassischer roter Doppeldeckerbus zu sehen. Sie lächelt und stellt den Ort voller Begeisterung vor.
+
+Szene 2 (5–9 Sekunden):
+Sie erkundet einen ruhigen, baumbestandenen Spazierweg und dreht sich mit einem natürlichen Lächeln zur Kamera. Zeige üppig grüne Bäume, sanftes Tageslicht und eine wunderschöne ländliche Atmosphäre.
+
+Szene 3 (9–15 Sekunden):
+Sie entdeckt einen traditionellen britischen Street-Food-Stand im Freien, der mit warmen Lichterketten dekoriert ist. Sie unterhält sich mit dem freundlichen Verkäufer, nimmt einen frisch zubereiteten, goldbraun frittierten Snack entgegen, beißt hinein und reagiert glücklich.
+
+Szene 4 (15–20 Sekunden):
+Zeige sie in einer Selfie-Nahaufnahme, wie sie das Essen genießt, gefolgt von einem atemberaubenden Panoramablick auf ein malerisches englisches Dorf, umgeben von sanften grünen Hügeln.
+
+Szene 5 (20–25 Sekunden):
+Es beginnt leicht zu regnen. Sie spannt einen transparenten Regenschirm auf, lächelt in die Kamera und geht eine wunderschöne, nasse Dorfstraße entlang, in der sich das warme Licht spiegelt.
+
+Szene 6 (25–30 Sekunden):
+Sie erreicht ein gemütliches englisches Landhaus, öffnet die Haustür, tritt ein und beendet den Vlog mit einem fröhlichen Selfie in einem warm beleuchteten Wohnzimmer.
+
+Visueller Stil:
+Ultraphotorealistisches 4K-Video, natürliche menschliche Gesichtsausdrücke, realistische Hauttextur, authentische Handkamera-Bewegungen wie bei einem Selfie, fließende cineastische Übergänge, wunderschönes natürliches Licht, realistische Regenphysik, detailreiche Umgebungen, natürliche Körperbewegungen, durchgehend einheitliches Erscheinungsbild der Figur, authentische Reise-Vlogger-Energie.
+
+Wichtige Anweisungen:
+Das Gesicht, die Frisur, die Kleidung und der Rucksack der Frau müssen in allen Szenen exakt gleich bleiben. Keine Gesichtsveränderungen, keine verzerrten Hände, keine zusätzlichen Finger, keine doppelten Personen, keine unnatürlichen Bewegungen, kein Flackern und keine willkürlichen Szenenwechsel. Das Video muss visuell konsistent und realistisch bleiben.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125089225809039360/img/NctYHkZWWnmFcOkS.jpg" width="600" alt="Kino-reife Reise-Vlog-Sequenz">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14136)**
+
+**Autor:** [liana](https://x.com/Lianaalane) | **Quelle:** [Link](https://x.com/Lianaalane/status/2125089432965632262) | **Veröffentlicht:** Nov 24, 2026
+
+---
+### Düstere Fantasy-Kampf-Szene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erzeugt eine cineastische Kampfszene zwischen einem jungen Krieger und einem Dämon im Innenhof eines antiken chinesischen Tempels während einer stürmischen Nacht.
+
+#### 📝 Prompt
+
+```
+Eine atemberaubende, cineastische Dark-Fantasy-Schlacht im Innenhof eines alten chinesischen Tempels während einer stürmischen Nacht. Ein furchtloser junger Krieger in dunkler Bronze-Rüstung und einem wehenden roten Umhang stellt sich einem gigantischen, furchteinflößenden Dämonenkrieger mit gewaltigen gebogenen Hörnern und schwerer goldener Rüstung entgegen. Der junge Krieger hält einen mächtigen Holzstab in den Händen, der sich plötzlich in ein loderndes magisches orangefarbenes Schwert verwandelt. Der riesige gehörnte Dämon stürmt vorwärts und lässt bei jedem Schritt den steinernen Hof erbeben. Der Krieger springt hoch in die Luft und entfesselt einen spektakulären Flammenschwert-Angriff. Funken sprühen, magische Energie durchdringt das Schlachtfeld, und beide Krieger prallen in einem epischen Showdown aufeinander. Dramatische Zeitlupe, dynamische Kamerawinkel, realistische Charakterbewegungen, detailreiche Rüstungen, cineastische Beleuchtung, ultrarealistische 3D-CGI, Hollywood-Fantasy-Filmstil, 4K-Qualität.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125058509574430720/img/VnP7SV4ND3du2kLP.jpg" width="600" alt="Düstere Fantasy-Kampf-Szene">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14138)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Quelle:** [Link](https://x.com/draavenai/status/2125058589333295234) | **Veröffentlicht:** Nov 24, 2026
+
+---
+### Zeitraffer vom Bau einer Miniaturvilla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erstellt einen realistischen DIY-Zeitraffer vom Bau einer zweistöckigen Luxus-Minivilla mit cineastischen Details.
+
+#### 📝 Prompt
+
+```
+Erlebe, wie eine atemberaubende zweistöckige Luxusvilla im Miniaturformat zum Leben erwacht – durch realistischen DIY-Bau, fesselnde Zeitraffer-Aufnahmen, kreatives Handwerk und cineastische Architekturdetails.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124833920617259008/img/XDwD1UmAcOL8X0Ax.jpg" width="600" alt="Zeitraffer vom Bau einer Miniaturvilla">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14135)**
+
+**Autor:** [Olivia Rose](https://x.com/OliviaRose10un) | **Quelle:** [Link](https://x.com/OliviaRose10un/status/2124834716192747660) | **Veröffentlicht:** Nov 23, 2026
+
+---
+### Zauberer entfesselt seine Macht
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erzeugt eine Dark-Fantasy-Szene, in der ein Zauberer in Drachenrüstung magische Energie gegen einen Schatten-Dämon auf einem brennenden Schlachtfeld freisetzt.
+
+#### 📝 Prompt
+
+```
+Ein mächtiger Dark-Fantasy-Zauberer in einer prachtvollen schwarz-silbernen Drachenrüstung steht mitten auf einem brennenden Schlachtfeld. Seine Rüstung zieren leuchtend orangefarbene Drachenmuster, und in seiner Hand hält er eine geheimnisvolle, schwebende Kugel aus schwarzer und oranger magischer Energie. Hinter ihm erhebt sich ein gigantischer, furchteinflößender Schattendämon mit mehreren Armen aus dunklen Sturmwolken, umgeben von lodernden Flammen. Eine Armee tapferer Krieger rüstet sich, um dem gewaltigen Ungeheuer die Stirn zu bieten. Der Zauberer hebt die Hand und entfesselt mächtige dunkle Magie, während Feuer und Rauch um ihn herumwirbeln. Epische Fantasy-Atmosphäre, dramatische Blitzeinschläge, filmreife Kamerabewegungen, äußerst detaillierte Rüstung, realistische Feuereffekte, spektakuläre übernatürliche visuelle Effekte, ultrarealistisches 3D-CGI, 4K-Filmqualität.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124795942511804416/img/x_saWSMXdV5oaAYn.jpg" width="600" alt="Zauberer entfesselt seine Macht">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14139)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Quelle:** [Link](https://x.com/draavenai/status/2124796323593424900) | **Veröffentlicht:** Nov 23, 2026
+
+---
+### Luxuriöser Hautpflege-Videowerbespot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erzeugt einen cineastischen Werbespot für die Paula's Choice Hydrating Treatment Mask mit floralen Elementen und Pudereffekten unter Verwendung von Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Erstelle eine luxuriöse, cineastische Werbung für ein Hautpflegeprodukt mit einer tief burgunderroten Tube der Paula's Choice Hydrating Treatment Mask, die aufrecht in der Mitte steht. Umgebe das Produkt mit satten karmesinroten und burgunderfarbenen Blütenblättern. Beginne mit einer dramatischen Explosion aus feinem rotem Puder und schwebenden Blütenblättern, die um das Produkt herumwirbeln. Verwandle das Puder allmählich in ein elegantes Arrangement aus blühenden roten und dunkelrosa Blüten. Füge realistische Blumenbewegungen, zart herabfallende Blütenblätter und einen sanften Kamera-Zoom hinzu. Satte, monochromatische rote Farbpalette, dramatische Studiolichtsetzung, Ästhetik eines hochwertigen Beauty-Werbespots, ultrarealistische Texturen, anspruchsvolle Bildkomposition, cineastische 4K-Qualität. Die Produktverpackung, das Logo und der Text müssen scharf, gut lesbar und unverändert bleiben.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795499151029_qf8f9b_HXyVNH2bgAAOd_8.jpg" width="600" alt="Luxuriöser Hautpflege-Videowerbespot">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14137)**
+
+**Autor:** [Rubi](https://x.com/AIwithRubii) | **Quelle:** [Link](https://x.com/AIwithRubii/status/2124737214777282802) | **Veröffentlicht:** Nov 23, 2026
+
+---
 ### Animation des nordischen Holzreliefs
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9448,117 +9567,6 @@ Erstelle ein hochwertiges, cineastisches 3D-Animationsvideo im Comedy-Stil mit e
 **Autor:** [liana](https://x.com/Lianaalane) | **Quelle:** [Link](https://x.com/Lianaalane/status/2116402455315718306) | **Veröffentlicht:** Oct 31, 2026
 
 ---
-### Luxuriöser Motorsport-Mode-Werbespot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kinematografischer Video-Prompt für einen luxuriösen Motorsport-Mode-Werbespot mit einer Frau im Rennanzug und einem Parfumflakon.
-
-#### 📝 Prompt
-
-```
-Erstelle einen ultrarealistischen, cineastischen Luxus-Motorsport-Werbespot im Fashion-Stil mit einer schönen jungen Frau in einem hochwertigen weißen, schwarzen und roten Rennanzug samt professionellen Rennstiefeln und -handschuhen. Selbstbewusst schreitet sie durch eine dramatisch inszenierte unterirdische Racing-Garage, umgeben von kraftvollen schwarzen Sportwagen, atmosphärischem Rauch und leuchtend roten LED-Lichtern.
-
-Beginne mit einer cineastischen Totale, während sie selbstsicher mit einem Rennhelm in der Hand auf die Kamera zugeht. Zeige ausdrucksstarke Nahaufnahmen ihres Renn-Outfits, der gestickten Logos, der Helm-Details und ihres selbstbewussten Gesichtsausdrucks.
-
-Integriere einen edlen rot-schwarzen Luxusparfumflakon, der in einer dramatischen Nahaufnahme präsentiert wird – umhüllt von dezentem Rauch, Spiegelungen und cineastischer Beleuchtung.
-
-Setze auf fließende Kamerabewegungen, Zeitlupenaufnahmen beim Gehen, dynamische Close-ups, realistische Stofftexturen, glänzende Reflexionen, dramatische Schatten und professionelle Werbefilm-Kinematografie.
-
-Visueller Stil: Fotorealistisch, Luxus-Motorsport-Ästhetik, markante rote Beleuchtung, 8K-Details, HDR, geringe Schärfentiefe, cineastische Atmosphäre, vertikales 9:16-Format.
-
-Wichtig: Achte im gesamten Video auf eine durchgehend konsistente Charakteridentität, das Design des Outfits, das Erscheinungsbild des Produkts sowie realistische Proportionen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116387135221895168/img/scDHw0t1q9tIdAym.jpg" width="600" alt="Luxuriöser Motorsport-Mode-Werbespot">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13216)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2116387165341110470) | **Veröffentlicht:** Oct 31, 2026
-
----
-### Seedance 2.0 Cinematic Sword Fight Prompt
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein detaillierter Prompt zur Generierung eines 15-sekündigen, hochdynamischen cineastischen Schwertkampf-Videos mit Seedance 2.0, basierend auf einer Charakterreferenz einer weißhaarigen, katzenohrigen Schwertkämpferin.
-
-#### 📝 Prompt
-
-```
-# Seedance 2.0 | Prompt für ein 15-sekündiges, rasant-actiongeladenes Schwertkampf-Video im Kinostil
-
-## I. Charakter-Referenzbild (Character Reference)
-
-**Charakter A: Weißhaarige Schwertkämpferin mit Katzenohren**
-
-Das Referenzbild 1 dient als einzige und verbindliche Grundlage für das Erscheinungsbild von Charakter A.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116275450024800256/img/qHqeHGd6ipOOpWgP.jpg" width="600" alt="Seedance 2.0 Cinematic Sword Fight Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13224)**
-
-**Autor:** [テト@おっさんの異世界転生 Uncle in ISEKAI](https://x.com/ojisan__isekai) | **Quelle:** [Link](https://x.com/ojisan__isekai/status/2116276599264084192) | **Veröffentlicht:** Oct 30, 2026
-
----
-### Squid Epoxid-Bodenrenovierungs-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Umwandlung von Tintenfischen in ein einzigartiges Epoxidboden-Design, erstellt mit Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Ein bärtiger Mann in Jeanslatzhose verteilt mit einem Rechen einen riesigen Haufen frischer Tintenfische auf dem nackten Betonboden eines leeren, weißen Schlafzimmers mit großem Fenster und breitet sie zu einer perfekt gleichmäßigen, einzelnen Schicht aus, die den gesamten Boden bedeckt. Eine blonde Frau in roter Latzhose und weißem T-Shirt gießt dickflüssiges, weißes Epoxidharz aus einem großen Plastikeimer; die milchige Flüssigkeit fließt über die Tintenfische und hüllt sie in eine glänzende, selbstnivellierende Flut ein, die sich von Wand zu Wand ausbreitet. Ein Arbeiter in gelber Warnweste schiebt eine Bodenschleif- und Poliermaschine über die aushärtende Oberfläche und glättet sie zu einem spiegelnden Hochglanzfinish, wobei hunderte Tintenfische wie bei einem Terrazzoboden dauerhaft im klaren Harz eingeschlossen sind. Zwei Männer in schwarzen T-Shirts und Caps bauen anschließend ein Bettgestell aus Walnussholz mit Kopfteil auf dem fertigen Boden auf, legen eine Matratze ein und beziehen das Bett mit frisch gebügelter weißer Bettwäsche und Kissen. Das finale Ergebnis: ein helles, minimalistisches Schlafzimmer, in dessen atemberaubend glänzendem weißem Boden Tintenfische eingelassen sind, während natürliches Tageslicht durch das Fenster strömt. Vertikales Video, hyperrealistischer Dokumentarstil, befriedigende Renovierungs-Transformation, ruhige Handkameraführung, helles natürliches Licht.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116233841467645952/img/LQmCwKu2c9PoXtM5.jpg" width="600" alt="Squid Epoxid-Bodenrenovierungs-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13221)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2116233884077556111) | **Veröffentlicht:** Oct 30, 2026
-
----
-### Prompt für Terrazzo-Boden im Schlafzimmer mit Muscheln
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung eines atemberaubenden Schlafzimmerebodens aus Muscheln und Epoxidharz, generiert mit Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Ein Mann in einer Jeans-Latzhose und einem grauen T-Shirt steht in einem leeren, weißen Raum mit einem großen, hellen Fenster – direkt neben einem riesigen Haufen Muscheln auf dem nackten Betonboden. Er greift zu einem Rechen und verteilt die Muscheln gleichmäßig über den gesamten Boden. Eine Frau in roter Latzhose und weißem T-Shirt trägt einen grauen Metalleimer und gießt dickflüssiges, weißes Epoxidharz über die Muscheln. Die Masse fließt nach außen, bis sie den ganzen Boden in einer glatten, glänzenden Schicht bedeckt. Anschließend poliert ein Arbeiter in gelber Warnweste und schwarzer Kappe die ausgehärtete Oberfläche mit einer Einscheibenmaschine. Nach und nach kommt ein atemberaubender weißer Terrazzoboden zum Vorschein, in den bunte Muscheln eingelassen sind, die das Tageslicht einfangen. Der Mann in der Latzhose kehrt zurück und baut ein helles Holz-Bettgestell zusammen, montiert das Kopfteil, legt die Lattenroste ein, platziert eine weiße Matratze und bezieht das Bett mit frisch gewaschener, schneeweißer Bettwäsche sowie beigefarbenen und grauen Kissen. Schlusseinstellung: ein helles, minimalistisches Schlafzimmer, in dem das warme Holzbett mittig auf dem strahlenden Muschel-Terrazzoboden steht, während Sonnenlicht durch das Fenster hereinflutet. Fließende Übergänge im Zeitraffer-Stil, realistische natürliche Beleuchtung, befriedigende Home-Renovierung-Transformation, vertikales Format, fotorealistische Details.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116232894100201472/img/pez4WVohMBybMbBD.jpg" width="600" alt="Prompt für Terrazzo-Boden im Schlafzimmer mit Muscheln">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13219)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2116232943790141574) | **Veröffentlicht:** Oct 30, 2026
-
----
-### Vinyl-Schallplatten-Epoxidboden-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung eines stilvollen Schlafzimmerbodens mit alten Vinyl-Schallplatten und Epoxidharz, generiert mit Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Hochformat-Video, statische Totale eines leeren weißen Raums mit einem großen Fenster, durch das grüne Bäume zu sehen sind. Ein Mann in blauem Overall und Arbeitshandschuhen harkt einen riesigen Haufen schwarzer Vinyl-Schallplatten auf dem nackten Betonboden auseinander und verteilt die Platten flach und gleichmäßig über den gesamten Boden wie bunte Fliesen. Eine Frau in rotem Overall, schwarzem T-Shirt und grünen Gummihandschuhen betritt den Raum mit einem weißen Eimer und gießt dickflüssiges, cremeweißes selbstnivellierendes Epoxidharz über die Schallplatten; die glänzende Flüssigkeit breitet sich aus, bis der gesamte Boden in strahlendem Weiß versinkt. Schnitt zum ausgehärteten Boden: Ein Arbeiter in gelber Warnweste, roter Hose und Gummistiefeln poliert die Oberfläche mit einer Einscheibenmaschine, wodurch die unter einer kristallklaren, glänzenden Epoxidschicht eingebetteten Vinyl-Schallplatten sichtbar werden und ihre bunten Labels hindurchschimmern. Zum Schluss tragen zwei schwarz gekleidete Männer ein hölzernes Bettgestell herein, bauen es in der Mitte des Raums auf und legen eine weiße Matratze, Kissen und eine graue Bettdecke darauf – fertig ist das stilvolle Schlafzimmer mit Schallplatten-Boden. Helles natürliches Tageslicht, klare minimalistische Ästhetik, befriedigender DIY-Renovierungs-Zeitraffer-Stil, fließende Übergänge, fotorealistische Details, 4K-Qualität.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116161341782130688/img/m2enr1Dp9OgXTYoR.jpg" width="600" alt="Vinyl-Schallplatten-Epoxidboden-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13222)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2116161380516601859) | **Veröffentlicht:** Oct 30, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -9620,6 +9628,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-24T05:12:39.447Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-24T19:44:57.657Z</sub>
 
 </div>

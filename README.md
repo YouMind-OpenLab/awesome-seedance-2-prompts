@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6715** |
+| 📝 Total Prompts | **6720** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-11-24** |
 
@@ -365,6 +365,125 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Cinematic travel vlog sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a 30-second ultra-realistic travel vlog featuring an East Asian woman exploring an English village, with detailed scene-by-scene instructions.
+
+#### 📝 Prompt
+
+```
+Create a 30-second ultra-realistic cinematic travel vlog featuring a beautiful young East Asian woman with long, straight dark brown hair, wearing a cream knitted sweater, blue jeans, white sneakers, and a black backpack.
+
+Scene 1 (0–5 seconds):
+She walks through a charming English village street, holding the camera in selfie mode. Beautiful historic white cottages, traditional shops, pedestrians, and a classic red double-decker bus are visible in the background. She smiles and enthusiastically introduces the location.
+
+Scene 2 (5–9 seconds):
+She explores a peaceful tree-lined walking path, turning toward the camera with a natural smile. Show lush green trees, soft daylight, and beautiful countryside atmosphere.
+
+Scene 3 (9–15 seconds):
+She discovers a traditional outdoor British street food stall decorated with warm hanging lights. She interacts with the friendly male vendor, receives a freshly prepared golden crispy snack, takes a bite, and reacts happily.
+
+Scene 4 (15–20 seconds):
+Show her enjoying the food in a close-up selfie shot, followed by a breathtaking panoramic view of a picturesque English village surrounded by rolling green hills.
+
+Scene 5 (20–25 seconds):
+Light rain begins falling. She opens a transparent umbrella, smiles at the camera, and walks along a beautiful wet village street reflecting warm lights.
+
+Scene 6 (25–30 seconds):
+She arrives at a cozy English countryside home, opens the front door, walks inside, and finishes the vlog with a cheerful selfie shot in a warmly lit living room.
+
+Visual Style:
+Ultra-photorealistic 4K video, natural human facial expressions, realistic skin texture, authentic handheld selfie-camera movement, smooth cinematic transitions, beautiful natural lighting, realistic rain physics, detailed environments, natural body movements, consistent character appearance, authentic travel-vlogger energy.
+
+Important Instructions:
+Maintain exactly the same woman's face, hairstyle, clothing, and backpack throughout all scenes. No face changes, no distorted hands, no extra fingers, no duplicate people, no unnatural movements, no flickering, and no random scene changes. Keep the video visually consistent and realistic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125089225809039360/img/NctYHkZWWnmFcOkS.jpg" width="600" alt="Cinematic travel vlog sequence">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14136)**
+
+**Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2125089432965632262) | **Published:** Nov 24, 2026
+
+---
+### Dark fantasy warrior battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a cinematic battle scene between a young warrior and a demon in an ancient Chinese temple courtyard during a stormy night.
+
+#### 📝 Prompt
+
+```
+A breathtaking cinematic dark fantasy battle in an ancient Chinese temple courtyard during a stormy night. A fearless young warrior wearing dark bronze armor and a flowing red cape faces a gigantic terrifying demon warrior with massive curved horns and heavy golden armor. The young warrior holds a powerful wooden staff before transforming it into a blazing magical orange sword. The enormous horned demon charges forward, shaking the stone courtyard with every step. The warrior leaps into the air and launches a spectacular flaming sword attack. Sparks fly, magical energy fills the battlefield, and both warriors clash in an epic showdown. Dramatic slow motion, dynamic camera angles, realistic character movements, detailed armor, cinematic lighting, ultra-realistic 3D CGI, Hollywood fantasy movie style, 4K quality.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125058509574430720/img/VnP7SV4ND3du2kLP.jpg" width="600" alt="Dark fantasy warrior battle">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14138)**
+
+**Author:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2125058589333295234) | **Published:** Nov 24, 2026
+
+---
+### Miniature mansion construction timelapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Creates a realistic DIY construction timelapse of a miniature two-story luxury mansion with cinematic details.
+
+#### 📝 Prompt
+
+```
+Watch a stunning miniature two-story luxury mansion come to life through realistic DIY construction, satisfying building timelapses, creative craftsmanship, and cinematic architectural details.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124833920617259008/img/XDwD1UmAcOL8X0Ax.jpg" width="600" alt="Miniature mansion construction timelapse">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14135)**
+
+**Author:** [Olivia Rose](https://x.com/OliviaRose10un) | **Source:** [Link](https://x.com/OliviaRose10un/status/2124834716192747660) | **Published:** Nov 23, 2026
+
+---
+### Sorcerer unleashing power
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a dark fantasy scene where a sorcerer in dragon armor releases magical energy against a shadow demon on a burning battlefield.
+
+#### 📝 Prompt
+
+```
+A powerful dark fantasy sorcerer wearing magnificent black and silver dragon armor stands in the middle of a burning battlefield. His armor features glowing orange dragon patterns, and he holds a mysterious floating black-and-orange magical energy orb in his hand. Behind him, a gigantic terrifying shadow demon with multiple arms emerges from dark storm clouds, surrounded by blazing flames. An army of brave warriors prepares to face the enormous monster. The sorcerer raises his hand, releasing powerful dark magical energy as fire and smoke swirl around him. Epic fantasy atmosphere, dramatic lightning, cinematic camera movements, highly detailed armor, realistic fire effects, spectacular supernatural visual effects, ultra-realistic 3D CGI, 4K movie quality.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124795942511804416/img/x_saWSMXdV5oaAYn.jpg" width="600" alt="Sorcerer unleashing power">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14139)**
+
+**Author:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2124796323593424900) | **Published:** Nov 23, 2026
+
+---
+### Luxury skincare video ad
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a cinematic advertisement for Paula's Choice Hydrating Treatment Mask with floral elements and powder effects using Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Create a luxurious cinematic skincare product advertisement featuring a deep burgundy Paula's Choice Hydrating Treatment Mask tube standing upright in the center. Surround the product with rich crimson and burgundy flower petals. Begin with a dramatic explosion of fine red powder and floating petals swirling around the product. Gradually transform the powder into an elegant arrangement of blooming red and dark pink flowers. Add realistic floral movements, delicate falling petals, and subtle camera zoom-in. Rich red monochromatic color palette, dramatic studio lighting, premium beauty commercial aesthetic, ultra-realistic textures, sophisticated composition, 4K cinematic quality. Keep the product packaging, logo, and text sharp, readable, and unchanged.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795499151029_qf8f9b_HXyVNH2bgAAOd_8.jpg" width="600" alt="Luxury skincare video ad">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14137)**
+
+**Author:** [Rubi](https://x.com/AIwithRubii) | **Source:** [Link](https://x.com/AIwithRubii/status/2124737214777282802) | **Published:** Nov 23, 2026
+
+---
 ### Norse Wood Carving Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9597,112 +9716,6 @@ Create a high-quality, cinematic 3D animated comedy video featuring a cute young
 **Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2116402455315718306) | **Published:** Oct 31, 2026
 
 ---
-### Luxury Motorsport Fashion Commercial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt for a luxury motorsport fashion commercial featuring a woman in a racing suit and perfume bottle.
-
-#### 📝 Prompt
-
-```
-Create an ultra-realistic, cinematic luxury motorsport fashion commercial featuring a beautiful young woman wearing a premium white, black, and red racing suit with professional racing boots and gloves. She confidently walks through a dramatic underground racing garage surrounded by powerful black sports cars, atmospheric smoke, and glowing red LED lights.
-Begin with a cinematic wide shot as she walks confidently toward the camera, holding a racing helmet. Show dramatic close-ups of her racing outfit, embroidered logos, helmet details, and confident facial expression.
-Include a premium red-and-black luxury perfume bottle displayed in a dramatic close-up, surrounded by subtle smoke, reflections, and cinematic lighting.
-Use smooth camera movements, slow-motion walking shots, dynamic close-ups, realistic fabric textures, glossy reflections, dramatic shadows, and professional commercial cinematography.
-Visual Style: Photorealistic, luxury motorsport aesthetic, bold red lighting, 8K details, HDR, shallow depth of field, cinematic atmosphere, vertical 9:16 composition.
-Important: Maintain consistent character identity, outfit design, product appearance, and realistic proportions throughout the video.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116387135221895168/img/scDHw0t1q9tIdAym.jpg" width="600" alt="Luxury Motorsport Fashion Commercial">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13216)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2116387165341110470) | **Published:** Oct 31, 2026
-
----
-### Seedance 2.0 Cinematic Sword Fight Prompt
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A detailed prompt for generating a 15-second high-speed cinematic sword fight video using Seedance 2.0, featuring a white-haired cat-eared female swordsman character reference.
-
-#### 📝 Prompt
-
-```
-# Seedance 2.0 | Prompt for 15-second High-Speed Cinematic Sword Fight Action Video
-
-## I. Character Reference Image (Character Reference)
-
-**Character A: White-haired, Cat-eared Female Swordsman**
-
-Reference Image 1 serves as the sole and strict basis for Character A's appearance settings.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116275450024800256/img/qHqeHGd6ipOOpWgP.jpg" width="600" alt="Seedance 2.0 Cinematic Sword Fight Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13224)**
-
-**Author:** [テト@おっさんの異世界転生 Uncle in ISEKAI](https://x.com/ojisan__isekai) | **Source:** [Link](https://x.com/ojisan__isekai/status/2116276599264084192) | **Published:** Oct 30, 2026
-
----
-### Squid Epoxy Floor Renovation Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for transforming squids into a unique epoxy floor design, generated with Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-A bearded man in denim overalls rakes a massive pile of fresh squids across the bare concrete floor of an empty white bedroom with a large window, spreading them into a perfectly even single layer covering the entire floor. A blonde woman in red overalls and a white t-shirt pours thick white epoxy resin from a large plastic bucket, the milky liquid flowing over the squids and submerging them under a glossy self-leveling flood that spreads wall to wall. A worker in a yellow high-visibility vest pushes a floor buffer polisher machine across the curing surface, smoothing it into a mirror-gloss finish with hundreds of squids permanently suspended inside the clear resin like terrazzo. Two men in black t-shirts and caps then assemble a walnut wood bed frame with headboard over the finished floor, drop in a mattress, and dress it with crisp white bedding and pillows. Final reveal: a bright minimalist bedroom where the stunning glossy white floor has squids embedded beneath the surface, natural daylight streaming through the window. Vertical video, hyper-realistic documentary style, satisfying renovation transformation, smooth handheld camera work, bright natural lighting.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116233841467645952/img/LQmCwKu2c9PoXtM5.jpg" width="600" alt="Squid Epoxy Floor Renovation Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13221)**
-
-**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116233884077556111) | **Published:** Oct 30, 2026
-
----
-### Seashell Terrazzo Bedroom Floor Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for creating a stunning bedroom floor using seashells and epoxy resin, generated with Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-A man in denim overalls and a gray t-shirt stands in an empty white room with a large bright window, next to a huge pile of seashells on a bare concrete floor. He grabs a rake and spreads the shells evenly across the entire floor. A woman in red overalls and a white t-shirt carries a gray metal bucket and pours thick white epoxy resin over the shells, the liquid flowing outward until it covers the whole floor in a smooth glossy layer. A worker in a yellow high-visibility vest and black cap then polishes the cured surface with a floor buffing machine, gradually revealing a stunning white terrazzo floor with colorful seashells embedded inside, catching the daylight. The man in overalls returns and assembles a light wooden bed frame, attaches the headboard, lays the slats, places a white mattress, and dresses the bed with crisp white bedding, beige and gray pillows. Final shot: a bright minimalist bedroom with the warm wooden bed centered on the gleaming seashell terrazzo floor, sunlight streaming through the window. Smooth time-lapse style transitions, realistic natural lighting, satisfying home renovation transformation, vertical format, photorealistic detail.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116232894100201472/img/pez4WVohMBybMbBD.jpg" width="600" alt="Seashell Terrazzo Bedroom Floor Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13219)**
-
-**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116232943790141574) | **Published:** Oct 30, 2026
-
----
-### Vinyl Record Epoxy Floor Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for creating a stylish bedroom floor using old vinyl records and epoxy, generated with Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Vertical video, static wide shot of an empty white room with a large window showing green trees. A man in blue overalls and work gloves rakes a huge mound of black vinyl records on the bare concrete floor, spreading the records flat and evenly across the entire floor like colorful tiles. A woman in red overalls, black t-shirt and green rubber gloves enters carrying a white bucket and pours thick creamy white self-leveling epoxy resin over the records; the glossy liquid flows outward until the whole floor is submerged in bright white. Cut to the cured floor: a worker in a yellow hi-vis vest, red pants and rubber boots polishes the surface with a rotary floor buffer, revealing the vinyl records embedded under a crystal-clear glossy epoxy layer, their colorful labels shining through. Finally two men dressed in black carry in a wooden bed frame, assemble it in the center of the room, then place a white mattress, pillows and a gray duvet, completing a stylish bedroom with a vinyl record floor. Bright natural daylight, clean minimalist aesthetic, satisfying DIY renovation timelapse style, smooth transitions, photorealistic detail, 4K quality.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116161341782130688/img/m2enr1Dp9OgXTYoR.jpg" width="600" alt="Vinyl Record Epoxy Floor Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13222)**
-
-**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116161380516601859) | **Published:** Oct 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -9764,6 +9777,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-24T05:12:26.846Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-24T19:44:45.298Z</sub>
 
 </div>

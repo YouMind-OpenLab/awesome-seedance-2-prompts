@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6715** |
+| 📝 Toplam İstem | **6720** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-11-24** |
 
@@ -361,6 +361,125 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Sinematik seyahat vlog dizisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Doğu Asyalı bir kadının İngiliz köyünü keşfettiği, sahne sahne detaylı talimatlarla oluşturulan 30 saniyelik ultra gerçekçi bir seyahat vlog'u üretir.
+
+#### 📝 İstem
+
+```
+Uzun, düz koyu kahverengi saçlı, krem rengi örgü kazak, mavi kot pantolon, beyaz spor ayakkabı ve siyah bir sırt çantası giyen güzel genç bir Doğu Asyalı kadının yer aldığı, 30 saniyelik ultra gerçekçi sinematik bir seyahat vlog'u oluşturun.
+
+Sahne 1 (0–5 saniye):
+Kadın, kamerayı selfie modunda tutarak büyüleyici bir İngiliz köyü sokağında yürür. Arka planda tarihi beyaz kır evleri, geleneksel dükkanlar, yayalar ve klasik kırmızı çift katlı bir otobüs görünür. Gülümser ve bulunduğu yeri coşkuyla tanıtır.
+
+Sahne 2 (5–9 saniye):
+Ağaçlarla çevrili huzurlu bir yürüyüş yolunu keşfederken doğal bir gülümsemeyle kameraya doğru döner. Yemyeşil ağaçları, yumuşak gün ışığını ve harika bir kırsal atmosferi gösterin.
+
+Sahne 3 (9–15 saniye):
+Sıcak tonlarda asılı lambalarla süslenmiş geleneksel bir açık hava İngiliz sokak lezzetleri tezgahını keşfeder. Güler yüzlü erkek satıcıyla sohbet eder, taze hazırlanmış altın sarısı çıtır bir atıştırmalık alır, bir ısırık alır ve mutlu bir tepki verir.
+
+Sahne 4 (15–20 saniye):
+Yemeğin tadını çıkardığı anı yakın çekim bir selfie karesinde gösterin; ardından dalgalı yeşil tepelerle çevrili, kartpostallık bir İngiliz köyünün nefes kesen panoramik manzarasına geçiş yapın.
+
+Sahne 5 (20–25 saniye):
+Hafif bir yağmur yağmaya başlar. Şeffaf bir şemsiye açar, kameraya gülümser ve sıcak ışıkları yansıtan ıslak, güzel bir köy sokağında yürür.
+
+Sahne 6 (25–30 saniye):
+Samimi bir İngiliz kır evine varır, ön kapıyı açar, içeri girer ve vlog'u sıcak ışıklarla aydınlatılmış bir oturma odasında neşeli bir selfie karesiyle sonlandırır.
+
+Görsel Stil:
+Ultra fotogerçekçi 4K video, doğal insan yüz ifadeleri, gerçekçi cilt dokusu, otantik elde tutulan selfie kamerası hareketi, akıcı sinematik geçişler, güzel doğal aydınlatma, gerçekçi yağmur fiziği, detaylı ortamlar, doğal vücut hareketleri, tutarlı karakter görünümü ve otantik bir seyahat vlogger'ı enerjisi.
+
+Önemli Talimatlar:
+Tüm sahneler boyunca kadının yüzünü, saç stilini, kıyafetlerini ve sırt çantasını birebir aynı koruyun. Yüz değişimi, bozuk eller, fazladan parmak, tekrar eden kişiler, doğal olmayan hareketler, titreme veya rastgele sahne değişiklikleri olmamalıdır. Videonun görsel olarak tutarlı ve gerçekçi kalmasını sağlayın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125089225809039360/img/NctYHkZWWnmFcOkS.jpg" width="600" alt="Sinematik seyahat vlog dizisi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14136)**
+
+**Yazar:** [liana](https://x.com/Lianaalane) | **Kaynak:** [Link](https://x.com/Lianaalane/status/2125089432965632262) | **Yayınlandı:** Nov 24, 2026
+
+---
+### Karanlık Fantastik Savaşçı Muharebesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Fırtınalı bir gecede, antik bir Çin tapınağının avlusunda genç bir savaşçı ile bir iblis arasındaki sinematik bir muharebe sahnesi oluşturur.
+
+#### 📝 İstem
+
+```
+Fırtınalı bir gecede, antik bir Çin tapınağının avlusunda geçen nefes kesici, sinematik karanlık fantezi savaşı. Koyu bronz zırh ve dalgalanan kırmızı bir pelerin giyen korkusuz genç savaşçı; devasa kıvrık boynuzları ve ağır altın zırhıyla dehşet saçan dev bir iblis savaşçıyla yüzleşiyor. Genç savaşçı elindeki güçlü ahşap asayı tutuyor ve ardından onu alevler içindeki büyülü turuncu bir kılıca dönüştürüyor. Devasa boynuzlu iblis her adımında taş avluyu titreterek ileri atılıyor. Savaşçı havaya sıçrayarak muhteşem bir alevli kılıç saldırısı gerçekleştiriyor. Kıvılcımlar uçuşuyor, savaş alanını büyülü enerji kaplıyor ve iki savaşçı destansı bir düelloda çarpışıyor. Dramatik ağır çekim, dinamik kamera açıları, gerçekçi karakter hareketleri, detaylı zırhlar, sinematik aydınlatma, ultra gerçekçi 3D CGI, Hollywood fantezi filmi tarzı, 4K kalite.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125058509574430720/img/VnP7SV4ND3du2kLP.jpg" width="600" alt="Karanlık Fantastik Savaşçı Muharebesi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14138)**
+
+**Yazar:** [Draaven](https://x.com/draavenai) | **Kaynak:** [Link](https://x.com/draavenai/status/2125058589333295234) | **Yayınlandı:** Nov 24, 2026
+
+---
+### Mini malikane inşaatı zaman atlamalı videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sinematik detaylara sahip, gerçekçi bir mini iki katlı lüks malikane DIY inşaat zaman atlamalı videosu oluşturur.
+
+#### 📝 İstem
+
+```
+Gerçekçi kendin yap (DIY) inşaat süreci, izlemesi son derece keyifli hızlandırılmış yapım videoları, yaratıcı el işçiliği ve sinematik mimari detaylarla göz alıcı, iki katlı minyatür bir lüks malikanenin hayata geçişine tanık olun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124833920617259008/img/XDwD1UmAcOL8X0Ax.jpg" width="600" alt="Mini malikane inşaatı zaman atlamalı videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14135)**
+
+**Yazar:** [Olivia Rose](https://x.com/OliviaRose10un) | **Kaynak:** [Link](https://x.com/OliviaRose10un/status/2124834716192747660) | **Yayınlandı:** Nov 23, 2026
+
+---
+### Güçlerini Serbest Bırakan Büyücü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ejderha zırhı giyen bir büyücünün, yanan bir savaş alanında gölge iblisine karşı büyü enerjisi saldığı karanlık fantastik bir sahne oluşturur.
+
+#### 📝 İstem
+
+```
+Yanan bir savaş meydanının tam ortasında, görkemli siyah ve gümüş ejderha zırhı kuşanmış kudretli bir karanlık fantezi büyücüsü duruyor. Zırhını parlayan turuncu ejderha motifleri süslüyor; elinde ise gizemli, havada süzülen siyah-turuncu bir büyü enerjisi küresi tutuyor. Arkasında, koyu fırtına bulutlarının arasından çok kollu devasa ve korkunç bir gölge iblisi yükseliyor, etrafı alevler içinde yanıyor. Cesur savaşçılardan oluşan bir ordu, bu dev canavarla yüzleşmeye hazırlanıyor. Büyücü elini kaldırarak güçlü bir karanlık büyü enerjisi serbest bırakırken, ateş ve duman etrafında dönüyor. Epik fantezi atmosferi, dramatik yıldırımlar, sinematik kamera hareketleri, son derece detaylı zırh, gerçekçi ateş efektleri, muhteşem doğaüstü görsel efektler, ultra gerçekçi 3D CGI, 4K film kalitesi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124795942511804416/img/x_saWSMXdV5oaAYn.jpg" width="600" alt="Güçlerini Serbest Bırakan Büyücü">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14139)**
+
+**Yazar:** [Draaven](https://x.com/draavenai) | **Kaynak:** [Link](https://x.com/draavenai/status/2124796323593424900) | **Yayınlandı:** Nov 23, 2026
+
+---
+### Lüks cilt bakımı video reklamı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 kullanarak çiçek öğeleri ve pudra efektleriyle Paula's Choice Hydrating Treatment Mask için sinematik bir reklam oluşturur.
+
+#### 📝 İstem
+
+```
+Merkezde dik duran koyu bordo renkli bir Paula's Choice Hydrating Treatment Mask tüpünü öne çıkaran, lüks ve sinematik bir cilt bakım ürünü reklamı oluşturun. Ürünü zengin kırmızı ve bordo çiçek yapraklarıyla çevreleyin. İnce kırmızı bir tozun dramatik patlamasıyla başlayın; ürünün etrafında uçuşan yapraklar dönüp dursun. Bu tozu yavaşça açan kırmızı ve koyu pembe çiçeklerden oluşan zarif bir aranjmana dönüştürün. Gerçekçi çiçek hareketleri, nazikçe düşen yapraklar ve hafif bir kamera yakınlaştırması ekleyin. Zengin kırmızı monokrom renk paleti, dramatik stüdyo aydınlatması, premium güzellik reklamı estetiği, ultra gerçekçi dokular, sofistike kompozisyon, 4K sinematik kalite. Ürün ambalajını, logosunu ve üzerindeki metinleri keskin, okunabilir ve orijinal haliyle bırakın.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795499151029_qf8f9b_HXyVNH2bgAAOd_8.jpg" width="600" alt="Lüks cilt bakımı video reklamı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14137)**
+
+**Yazar:** [Rubi](https://x.com/AIwithRubii) | **Kaynak:** [Link](https://x.com/AIwithRubii/status/2124737214777282802) | **Yayınlandı:** Nov 23, 2026
+
+---
 ### İskandinav Ahşap Oyma Animasyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9406,117 +9525,6 @@ Beyaz duvarları ve yemyeşil tropikal palmiye ağaçlarına bakan büyük bir p
 **Yazar:** [liana](https://x.com/Lianaalane) | **Kaynak:** [Link](https://x.com/Lianaalane/status/2116402455315718306) | **Yayınlandı:** Oct 31, 2026
 
 ---
-### Lüks Motorsporları Moda Reklamı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yarış tulumu giyen bir kadın ve parfüm şişesinin yer aldığı lüks motorsporları moda reklamı için sinematik video istemi.
-
-#### 📝 İstem
-
-```
-Güzel genç bir kadının, profesyonel yarış botları ve eldivenleriyle birlikte beyaz, siyah ve kırmızı renklerde premium bir yarış tulumu giydiği; ultra gerçekçi, sinematik bir lüks motor sporları moda reklamı oluştur. Kadın, güçlü siyah spor arabalarla, atmosferik dumanla ve parlayan kırmızı LED ışıklarla çevrili etkileyici bir yeraltı yarış garajında kendinden emin adımlarla yürüyor.
-
-Kadının elinde bir yarış kaskıyla kameraya doğru özgüvenle yürüdüğü sinematik bir geniş açı çekimle başla. Yarış kıyafetinin, işlenmiş logoların, kask detaylarının ve kendinden emin yüz ifadesinin dramatik yakın çekimlerini göster.
-
-Hafif bir duman, yansımalar ve sinematik aydınlatmayla çevrili, dramatik bir yakın çekimde sergilenen premium kırmızı-siyah lüks bir parfüm şişesine yer ver.
-
-Akıcı kamera hareketleri, ağır çekim yürüyüş sahneleri, dinamik yakın çekimler, gerçekçi kumaş dokuları, parlak yansımalar, dramatik gölgeler ve profesyonel reklam sinematografisi kullan.
-
-Görsel Stil: Fotogerçekçi, lüks motor sporları estetiği, cesur kırmızı aydınlatma, 8K detaylar, HDR, sığ alan derinliği, sinematik atmosfer, dikey 9:16 kompozisyon.
-
-Önemli: Video boyunca karakter kimliğini, kıyafet tasarımını, ürün görünümünü ve gerçekçi oranları tutarlı bir şekilde koru.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116387135221895168/img/scDHw0t1q9tIdAym.jpg" width="600" alt="Lüks Motorsporları Moda Reklamı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13216)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2116387165341110470) | **Yayınlandı:** Oct 31, 2026
-
----
-### Seedance 2.0 Sinematik Kılıç Dövüşü İstemi
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Seedance 2.0 kullanarak, beyaz saçlı ve kedi kulaklı kadın kılıç ustası karakter referansıyla 15 saniyelik yüksek hızlı sinematik bir kılıç dövüşü videosu oluşturmak için detaylı istem.
-
-#### 📝 İstem
-
-```
-# Seedance 2.0 | 15 Saniyelik Yüksek Hızlı Sinematik Kılıç Dövüşü Aksiyon Videosu İçin Prompt
-
-## I. Karakter Referans Görseli (Character Reference)
-
-**Karakter A: Beyaz Saçlı, Kedi Kulaklı Kadın Kılıç Ustası**
-
-Referans Görsel 1, Karakter A'nın görünüm ayarları için tek ve kesin referans noktasıdır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116275450024800256/img/qHqeHGd6ipOOpWgP.jpg" width="600" alt="Seedance 2.0 Sinematik Kılıç Dövüşü İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13224)**
-
-**Yazar:** [テト@おっさんの異世界転生 Uncle in ISEKAI](https://x.com/ojisan__isekai) | **Kaynak:** [Link](https://x.com/ojisan__isekai/status/2116276599264084192) | **Yayınlandı:** Oct 30, 2026
-
----
-### Kalamar Epoksi Zemin Yenileme İstemcisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 ile oluşturulan, kalamarları benzersiz bir epoksi zemin tasarımına dönüştüren istemci.
-
-#### 📝 İstem
-
-```
-Kot tulum giymiş sakallı bir adam, büyük pencereli boş ve beyaz bir yatak odasının çıplak beton zemininde devasa bir taze mürekkep balığı yığınını tırmıkla yayarak tüm zemini kaplayan kusursuz, tek katmanlı eşit bir tabaka haline getiriyor. Kırmızı tulum ve beyaz tişört giymiş sarışın bir kadın, büyük bir plastik kovadan yoğun beyaz epoksi reçineyi döküyor; süt gibi sıvı mürekkep balıklarının üzerinden akarak onları duvardan duvara yayılan parlak, kendiliğinden düzleşen bir katmanın altına gömüyor. Sarı fosforlu yelekli bir işçi, sertleşmekte olan yüzeyde bir zemin cilalama makinesini ileri geri iterek yüzeyi ayna parlaklığında pürüzsüz hale getiriyor; yüzlerce mürekkep balığı, tıpkı terrazzo gibi şeffaf reçinenin içinde kalıcı olarak asılı duruyor. Ardından siyah tişört ve şapka giyen iki adam, bitmiş zeminin üzerine başlıklı ceviz ağacından bir karyola iskeleti kuruyor, yatağı yerleştirip tertemiz beyaz çarşaflar ve yastıklarla döşüyor. Final sahnesi: Yüzeyinin altında mürekkep balıkları gömülü muhteşem parlak beyaz zeminiyle aydınlık, minimalist bir yatak odası ve pencereden süzülen doğal gün ışığı. Dikey video, hiper gerçekçi belgesel tarzı, tatmin edici yenileme dönüşümü, akıcı el kamerası çekimi, parlak doğal aydınlatma.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116233841467645952/img/LQmCwKu2c9PoXtM5.jpg" width="600" alt="Kalamar Epoksi Zemin Yenileme İstemcisi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13221)**
-
-**Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2116233884077556111) | **Yayınlandı:** Oct 30, 2026
-
----
-### Deniz Kabuğu Terrazzo Yatak Odası Zemin İstem Prompt'u
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 ile oluşturulan, deniz kabukları ve epoksi reçine kullanarak çarpıcı bir yatak odası zemini tasarlamak için prompt.
-
-#### 📝 İstem
-
-```
-Kot tulum ve gri tişört giyen bir adam, büyük ve aydınlık bir penceresi olan boş beyaz bir odada, çıplak beton zemindeki devasa deniz kabuğu yığınının yanında duruyor. Bir tırmık alarak kabukları tüm zemine eşit şekilde yayıyor. Kırmızı tulum ve beyaz tişört giyen bir kadın, gri metal bir kova taşıyarak kabukların üzerine yoğun beyaz epoksi reçine döküyor; sıvı dışa doğru yayılarak tüm zemini pürüzsüz, parlak bir tabaka halinde kaplıyor. Ardından sarı fosforlu yelek ve siyah şapka takan bir işçi, sertleşen yüzeyi bir zemin cilalama makinesiyle parlatıyor ve gün ışığını yakalayan, içine renkli deniz kabukları gömülü muhteşem beyaz terrazzo zemini yavaş yavaş ortaya çıkarıyor. Tulumlu adam geri dönerek açık renkli ahşap bir yatak çerçevesini monte ediyor, başlığını takıyor, ızgara tahtalarını yerleştiriyor, beyaz bir yatak koyuyor ve yatağı tertemiz beyaz çarşaflar ile bej ve gri yastıklarla süslüyor. Son sahne: Pencereden süzülen güneş ışığıyla aydınlanan, parlak minimalist bir yatak odasında, ışıl ışıl deniz kabuklu terrazzo zeminin tam ortasına yerleştirilmiş sıcak tonlarda ahşap bir yatak. Akıcı time-lapse tarzı geçişler, gerçekçi doğal aydınlatma, tatmin edici ev yenileme dönüşümü, dikey format, fotogerçekçi detaylar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116232894100201472/img/pez4WVohMBybMbBD.jpg" width="600" alt="Deniz Kabuğu Terrazzo Yatak Odası Zemin İstem Prompt'u">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13219)**
-
-**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2116232943790141574) | **Yayınlandı:** Oct 30, 2026
-
----
-### Vinil Plak Epoksi Zemin Promptu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 ile oluşturulan, eski plaklar ve epoksi kullanarak şık bir yatak odası zemini tasarlamak için hazır prompt.
-
-#### 📝 İstem
-
-```
-Dikey video, yeşil ağaçların göründüğü büyük bir pencereye sahip boş beyaz bir odanın sabit geniş açı çekimi. Mavi tulum ve iş eldiveni giyen bir adam, çıplak beton zemindeki devasa siyah plak yığınını tırmıkla yayarak plakları renkli karolar gibi tüm zemine düz ve eşit şekilde dağıtıyor. Kırmızı tulum, siyah tişört ve yeşil kauçuk eldiven giyen bir kadın elinde beyaz bir kova ile içeri giriyor ve plakların üzerine yoğun, kremamsı beyaz kendinden yayılan epoksi reçine döküyor; parlak sıvı dışarı doğru yayılarak tüm zemini bembeyaz bir tabakayla kaplıyor. Görüntü sertleşmiş zemine geçiyor: Sarı fosforlu yelek, kırmızı pantolon ve lastik çizme giyen bir işçi, döner zemin cilalama makinesiyle yüzeyi parlatıyor ve kristal berraklığında parlak bir epoksi katmanının altına gömülen plakların renkli etiketleri ışıl ışıl ortaya çıkıyor. Son olarak siyah giyimli iki adam ahşap bir karyola iskeletini içeri taşıyor, odanın ortasında kuruyor, ardından beyaz bir yatak, yastıklar ve gri bir yorgan yerleştirerek plak zeminli şık bir yatak odasını tamamlıyor. Parlak doğal gün ışığı, temiz minimalist estetik, tatmin edici DIY tadilat hızlandırılmış çekim tarzı, akıcı geçişler, fotogerçekçi detaylar, 4K kalite.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116161341782130688/img/m2enr1Dp9OgXTYoR.jpg" width="600" alt="Vinil Plak Epoksi Zemin Promptu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13222)**
-
-**Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2116161380516601859) | **Yayınlandı:** Oct 30, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -9578,6 +9586,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-24T05:12:45.634Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-24T19:45:03.411Z</sub>
 
 </div>

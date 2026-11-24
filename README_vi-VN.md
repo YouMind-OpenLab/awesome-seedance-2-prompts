@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6715** |
+| 📝 Tổng số prompt | **6720** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-11-24** |
 
@@ -361,6 +361,125 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Chuỗi cảnh quay vlog du lịch điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tạo một video vlog du lịch siêu thực dài 30 giây, với hình ảnh một phụ nữ Đông Á khám phá ngôi làng kiểu Anh, kèm theo hướng dẫn chi tiết từng cảnh.
+
+#### 📝 Prompt
+
+```
+Tạo một vlog du lịch điện ảnh siêu chân thực dài 30 giây, với nhân vật chính là một cô gái trẻ Đông Á xinh đẹp có mái tóc nâu sẫm dài thẳng, mặc áo len dệt kim màu kem, quần jeans xanh, giày thể thao trắng và đeo ba lô đen.
+
+Cảnh 1 (0–5 giây):
+Cô bước đi trên con phố của một ngôi làng nước Anh đầy thơ mộng, tay cầm máy quay ở chế độ selfie. Phía sau là những căn nhà tranh màu trắng cổ kính tuyệt đẹp, các cửa tiệm truyền thống, người đi bộ và một chiếc xe buýt hai tầng màu đỏ đặc trưng. Cô mỉm cười và hào hứng giới thiệu về địa điểm này.
+
+Cảnh 2 (5–9 giây):
+Cô thong dong khám phá lối đi bộ rợp bóng cây yên bình, rồi quay sang ống kính với nụ cười tự nhiên. Khung hình tràn ngập sắc xanh mướt của tán lá, ánh sáng ban ngày dịu nhẹ cùng bầu không khí miền quê tuyệt đẹp.
+
+Cảnh 3 (9–15 giây):
+Cô tình cờ bắt gặp một quầy thức ăn đường phố ngoài trời kiểu Anh truyền thống được trang trí bằng những dải đèn treo ấm áp. Cô trò chuyện vui vẻ với anh chủ quán thân thiện, nhận lấy phần bánh vàng ruộm giòn tan vừa mới chế biến, cắn thử một miếng và tỏ ra vô cùng thích thú.
+
+Cảnh 4 (15–20 giây):
+Cận cảnh góc selfie khi cô đang thưởng thức món ăn, sau đó chuyển sang khung hình toàn cảnh ngoạn mục của một ngôi làng nước Anh nên thơ nằm giữa những ngọn đồi xanh mướt trải dài.
+
+Cảnh 5 (20–25 giây):
+Trời bắt đầu đổ mưa lất phất. Cô mở chiếc ô trong suốt, mỉm cười rạng rỡ trước ống kính và dạo bước trên con phố làng ướt đẫm phản chiếu ánh đèn lung linh.
+
+Cảnh 6 (25–30 giây):
+Cô đến trước một căn nhà ấm cúng ở vùng nông thôn nước Anh, mở cửa bước vào trong và khép lại vlog bằng một bức ảnh selfie tươi tắn trong phòng khách ngập tràn ánh sáng ấm áp.
+
+Phong cách hình ảnh:
+Video 4K siêu chân thực như ảnh chụp, biểu cảm gương mặt tự nhiên, kết cấu da thật, chuyển động máy quay cầm tay selfie chuẩn xác, hiệu ứng chuyển cảnh mượt mà đậm chất điện ảnh, ánh sáng tự nhiên tuyệt đẹp, hiệu ứng vật lý của mưa chân thực, bối cảnh chi tiết, cử động cơ thể tự nhiên, ngoại hình nhân vật nhất quán, toát lên đúng thần thái năng động của một travel vlogger.
+
+Lưu ý quan trọng:
+Giữ nguyên khuôn mặt, kiểu tóc, trang phục và chiếc ba lô của cô gái trong suốt tất cả các cảnh. Không thay đổi khuôn mặt, không làm biến dạng bàn tay, không thừa ngón tay, không xuất hiện người trùng lặp, không có chuyển động thiếu tự nhiên, không nhấp nháy hình và không chuyển cảnh ngẫu nhiên. Đảm bảo video luôn đồng nhất về mặt thị giác và chân thực nhất có thể.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125089225809039360/img/NctYHkZWWnmFcOkS.jpg" width="600" alt="Chuỗi cảnh quay vlog du lịch điện ảnh">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14136)**
+
+**Tác giả:** [liana](https://x.com/Lianaalane) | **Nguồn:** [Link](https://x.com/Lianaalane/status/2125089432965632262) | **Đã xuất bản:** Nov 24, 2026
+
+---
+### Trận chiến chiến binh kỳ ảo bóng tối
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tạo ra cảnh chiến đấu điện ảnh giữa một chiến binh trẻ và một ác quỷ trong sân đền cổ Trung Quốc vào một đêm bão tố.
+
+#### 📝 Prompt
+
+```
+Một trận chiến dark fantasy mang đậm chất điện ảnh, đẹp đến nghẹt thở, diễn ra tại sân một ngôi chùa cổ Trung Hoa trong đêm bão tố. Một chiến binh trẻ tuổi dũng cảm khoác trên mình bộ giáp đồng sẫm màu cùng chiếc áo choàng đỏ tung bay trong gió, đối đầu với một ác quỷ chiến binh khổng lồ đáng sợ sở hữu cặp sừng cong vút và bộ giáp vàng nặng trĩu. Chàng trai trẻ nắm chặt cây gậy gỗ đầy uy lực trước khi biến nó thành một thanh kiếm ma thuật rực lửa sắc cam. Con quỷ sừng khổng lồ lao tới, mỗi bước chân giáng xuống làm rung chuyển cả khoảng sân lát đá. Người chiến binh tung mình lên không trung và tung ra đòn tấn công bằng kiếm lửa vô cùng ngoạn mục. Tia lửa bắn tung tóe, năng lượng ma thuật tràn ngập chiến trường, hai bên lao vào nhau trong một cuộc quyết đấu sử thi. Hiệu ứng slow motion đầy kịch tính, góc máy linh hoạt, chuyển động nhân vật chân thực, chi tiết giáp trụ tinh xảo, ánh sáng chuẩn điện ảnh, đồ họa 3D CGI siêu thực, phong cách phim fantasy Hollywood, chất lượng 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125058509574430720/img/VnP7SV4ND3du2kLP.jpg" width="600" alt="Trận chiến chiến binh kỳ ảo bóng tối">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14138)**
+
+**Tác giả:** [Draaven](https://x.com/draavenai) | **Nguồn:** [Link](https://x.com/draavenai/status/2125058589333295234) | **Đã xuất bản:** Nov 24, 2026
+
+---
+### Video tua nhanh xây dựng biệt thự thu nhỏ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tạo video tua nhanh quá trình tự làm (DIY) xây dựng một biệt thự sang trọng hai tầng thu nhỏ với các chi tiết điện ảnh chân thực.
+
+#### 📝 Prompt
+
+```
+Chiêm ngưỡng quá trình hiện thực hóa một dinh thự thu nhỏ hai tầng sang trọng tuyệt đẹp qua các công đoạn tự xây dựng chân thực, video timelapse thi công đầy thỏa mãn, tay nghề thủ công sáng tạo cùng những chi tiết kiến trúc đậm chất điện ảnh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124833920617259008/img/XDwD1UmAcOL8X0Ax.jpg" width="600" alt="Video tua nhanh xây dựng biệt thự thu nhỏ">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14135)**
+
+**Tác giả:** [Olivia Rose](https://x.com/OliviaRose10un) | **Nguồn:** [Link](https://x.com/OliviaRose10un/status/2124834716192747660) | **Đã xuất bản:** Nov 23, 2026
+
+---
+### Pháp sư giải phóng sức mạnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tạo ra một cảnh fantasy u tối, nơi pháp sư trong bộ giáp rồng giải phóng năng lượng ma thuật chống lại ác quỷ bóng tối trên chiến trường rực lửa.
+
+#### 📝 Prompt
+
+```
+Một pháp sư hắc ám hùng mạnh khoác trên mình bộ giáp rồng đen bạc lộng lẫy, đứng sừng sững giữa chiến trường rực lửa. Bộ giáp điểm xuyết những hoa văn rồng phát sáng màu cam, tay ông nâng niu một quả cầu năng lượng ma thuật huyền bí lơ lửng tỏa sắc đen cam. Phía sau lưng ông, một ác quỷ bóng tối khổng lồ đáng sợ với vô số cánh tay đang trỗi dậy từ tầng mây bão đen kịt, bao quanh là biển lửa ngùn ngụt. Một đạo quân chiến binh dũng cảm dàn trận sẵn sàng đối đầu với con quái vật khổng lồ ấy. Vị pháp sư giơ cao tay, giải phóng luồng ma lực hắc ám cuồn cuộn trong khi lửa và khói cuộn xoáy quanh người. Bầu không khí kỳ ảo đậm chất sử thi, tia chớp giật đầy kịch tính, góc máy chuyển động chuẩn điện ảnh, chi tiết giáp trụ tinh xảo đến từng milimet, hiệu ứng lửa chân thực, kỹ xảo siêu nhiên mãn nhãn, đồ họa 3D CGI siêu thực, chất lượng phim điện ảnh 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124795942511804416/img/x_saWSMXdV5oaAYn.jpg" width="600" alt="Pháp sư giải phóng sức mạnh">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14139)**
+
+**Tác giả:** [Draaven](https://x.com/draavenai) | **Nguồn:** [Link](https://x.com/draavenai/status/2124796323593424900) | **Đã xuất bản:** Nov 23, 2026
+
+---
+### Quảng cáo video skincare cao cấp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tạo quảng cáo điện ảnh cho Paula's Choice Hydrating Treatment Mask với các yếu tố hoa và hiệu ứng bột bằng Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Tạo một đoạn quảng cáo sản phẩm dưỡng da mang phong cách điện ảnh sang trọng, với tuýp Paula's Choice Hydrating Treatment Mask màu đỏ rượu vang đậm đặt đứng thẳng ở vị trí trung tâm. Bao quanh sản phẩm là những cánh hoa màu đỏ thẫm và đỏ rượu vang rực rỡ. Mở đầu bằng hiệu ứng bùng nổ đầy ấn tượng của lớp bột mịn màu đỏ cùng những cánh hoa bay lơ lửng, cuộn xoáy quanh sản phẩm. Từ từ biến lớp bột ấy thành một bố cục thanh lịch gồm những đóa hoa đang nở rộ với sắc đỏ và hồng đậm. Bổ sung chuyển động chân thực của các bông hoa, những cánh hoa rơi nhẹ nhàng và hiệu ứng zoom cận cảnh tinh tế. Bảng màu đơn sắc tông đỏ phong phú, ánh sáng studio đầy kịch tính, thẩm mỹ của một thước phim quảng cáo làm đẹp cao cấp, chất liệu siêu chân thực, bố cục tinh xảo, chất lượng điện ảnh 4K. Giữ nguyên bao bì, logo và phần chữ trên sản phẩm luôn sắc nét, dễ đọc và không thay đổi.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795499151029_qf8f9b_HXyVNH2bgAAOd_8.jpg" width="600" alt="Quảng cáo video skincare cao cấp">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14137)**
+
+**Tác giả:** [Rubi](https://x.com/AIwithRubii) | **Nguồn:** [Link](https://x.com/AIwithRubii/status/2124737214777282802) | **Đã xuất bản:** Nov 23, 2026
+
+---
 ### Hoạt hình khắc gỗ Bắc Âu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9460,117 +9579,6 @@ Tạo một video hoạt hình 3D hài hước chất lượng cao, mang đậm 
 **Tác giả:** [liana](https://x.com/Lianaalane) | **Nguồn:** [Link](https://x.com/Lianaalane/status/2116402455315718306) | **Đã xuất bản:** Oct 31, 2026
 
 ---
-### Quảng cáo Thời trang Motorsport Cao cấp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt video điện ảnh cho quảng cáo thời trang motorsport cao cấp, nổi bật với hình ảnh một phụ nữ mặc bộ đồ đua và chai nước hoa.
-
-#### 📝 Prompt
-
-```
-Tạo một video quảng cáo thời trang đua xe sang trọng, chân thực đến từng chi tiết và mang đậm chất điện ảnh, với nhân vật chính là một cô gái trẻ xinh đẹp mặc bộ đồ đua cao cấp phối ba màu trắng, đen và đỏ, kết hợp cùng găng tay và bốt đua chuyên nghiệp. Cô tự tin sải bước qua một gara đua xe ngầm đầy kịch tính, bao quanh là những chiếc siêu xe thể thao màu đen mạnh mẽ, làn khói mờ ảo và ánh đèn LED đỏ rực rỡ.
-
-Mở đầu bằng một cú máy toàn cảnh đậm chất điện ảnh khi cô tiến thẳng về phía ống kính với phong thái đầy tự tin, tay cầm mũ bảo hiểm đua. Xen kẽ là những góc cận cảnh ấn tượng làm nổi bật bộ đồ đua, các logo thêu tinh xảo, chi tiết trên mũ bảo hiểm cùng thần thái tự tin trên gương mặt cô.
-
-Đưa vào cảnh quay cận đầy kịch tính của một chai nước hoa sang trọng tông đỏ - đen cao cấp, được bao quanh bởi làn khói mỏng nhẹ, những vệt phản chiếu lấp lánh và ánh sáng chuẩn điện ảnh.
-
-Sử dụng các chuyển động máy quay mượt mà, cảnh bước đi chậm (slow-motion), góc cận cảnh linh hoạt, chất liệu vải chân thực, hiệu ứng phản chiếu bóng bẩy, đổ bóng tương phản mạnh và kỹ thuật quay phim quảng cáo chuyên nghiệp.
-
-Phong cách hình ảnh: Chân thực như ảnh chụp, thẩm mỹ đua xe thể thao hạng sang, ánh sáng đỏ táo bạo, chi tiết 8K, HDR, độ sâu trường ảnh mỏng, không khí đậm chất điện ảnh, bố cục dọc tỷ lệ 9:16.
-
-Lưu ý quan trọng: Giữ nguyên nhất quán nhận diện nhân vật, thiết kế trang phục, hình dáng sản phẩm và tỷ lệ chân thực trong suốt toàn bộ video.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116387135221895168/img/scDHw0t1q9tIdAym.jpg" width="600" alt="Quảng cáo Thời trang Motorsport Cao cấp">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13216)**
-
-**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2116387165341110470) | **Đã xuất bản:** Oct 31, 2026
-
----
-### Prompt đấu kiếm điện ảnh Seedance 2.0
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Prompt chi tiết để tạo video đấu kiếm điện ảnh tốc độ cao dài 15 giây bằng Seedance 2.0, với nhân vật nữ kiếm sĩ tóc trắng có tai mèo làm tham chiếu.
-
-#### 📝 Prompt
-
-```
-# Seedance 2.0 | Prompt tạo video hành động đấu kiếm điện ảnh tốc độ cao dài 15 giây
-
-## I. Ảnh tham khảo nhân vật (Character Reference)
-
-**Nhân vật A: Nữ kiếm sĩ tóc trắng, tai mèo**
-
-Ảnh tham khảo 1 là cơ sở duy nhất và bắt buộc để thiết lập ngoại hình cho Nhân vật A.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116275450024800256/img/qHqeHGd6ipOOpWgP.jpg" width="600" alt="Prompt đấu kiếm điện ảnh Seedance 2.0">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13224)**
-
-**Tác giả:** [テト@おっさんの異世界転生 Uncle in ISEKAI](https://x.com/ojisan__isekai) | **Nguồn:** [Link](https://x.com/ojisan__isekai/status/2116276599264084192) | **Đã xuất bản:** Oct 30, 2026
-
----
-### Prompt cải tạo sàn epoxy hình con mực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt biến đổi mực thành thiết kế sàn epoxy độc đáo, được tạo bằng Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Một người đàn ông để râu mặc quần yếm denim dùng cào san một đống mực tươi khổng lồ trên nền bê tông trần của căn phòng ngủ trống màu trắng có cửa sổ lớn, trải chúng thành một lớp mỏng duy nhất thật đều phủ kín toàn bộ sàn. Một phụ nữ tóc vàng mặc quần yếm đỏ và áo phông trắng rót nhựa epoxy đặc màu trắng từ một xô nhựa lớn, dòng chất lỏng trắng đục chảy tràn qua những con mực và nhấn chìm chúng dưới lớp dung dịch tự san phẳng bóng loáng lan rộng từ tường này sang tường kia. Một công nhân mặc áo phản quang màu vàng đẩy máy đánh bóng sàn lướt trên bề mặt đang đông cứng, làm nhẵn mịn đến độ bóng như gương với hàng trăm con mực được giữ cố định vĩnh viễn bên trong lớp nhựa trong suốt tựa như đá mài terrazzo. Sau đó, hai người đàn ông mặc áo phông đen và đội mũ lưỡi trai lắp ráp khung giường gỗ óc chó kèm đầu giường trên nền sàn đã hoàn thiện, đặt nệm vào rồi trải ga giường cùng gối trắng tinh tươm. Cảnh hé lộ cuối cùng: một phòng ngủ tối giản ngập tràn ánh sáng, nơi nền sàn trắng bóng tuyệt đẹp có những con mực ẩn mình bên dưới, ánh sáng tự nhiên chan hòa qua khung cửa sổ. Video dọc, phong cách phim tài liệu siêu thực, màn biến hóa cải tạo đầy thỏa mãn, góc máy cầm tay mượt mà, ánh sáng tự nhiên rực rỡ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116233841467645952/img/LQmCwKu2c9PoXtM5.jpg" width="600" alt="Prompt cải tạo sàn epoxy hình con mực">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13221)**
-
-**Tác giả:** [Ruslan Ai](https://x.com/Ruslanchain) | **Nguồn:** [Link](https://x.com/Ruslanchain/status/2116233884077556111) | **Đã xuất bản:** Oct 30, 2026
-
----
-### Prompt Sàn Phòng Ngủ Terrazzo Vỏ Sò
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo sàn phòng ngủ tuyệt đẹp bằng vỏ sò và nhựa epoxy, được tạo ra với Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Một người đàn ông mặc quần yếm denim và áo thun xám đứng trong căn phòng trống màu trắng với khung cửa sổ lớn ngập tràn ánh sáng, bên cạnh là một đống vỏ sò khổng lồ trên nền bê tông trần. Anh cầm lấy chiếc cào và rải đều lớp vỏ sò ra khắp mặt sàn. Một người phụ nữ mặc quần yếm đỏ cùng áo thun trắng xách theo chiếc xô kim loại màu xám, đổ lớp nhựa epoxy trắng đặc sánh lên trên những chiếc vỏ sò; chất lỏng lan tỏa dần cho đến khi phủ kín toàn bộ sàn nhà thành một lớp bóng mịn. Tiếp đó, một người thợ mặc áo phản quang màu vàng và đội mũ lưỡi trai đen dùng máy đánh bóng sàn để xử lý bề mặt đã đông cứng, từ từ hé lộ một nền terrazzo trắng tuyệt đẹp với những chiếc vỏ sò nhiều màu sắc được khảm bên trong, lấp lánh dưới ánh sáng tự nhiên. Người đàn ông mặc quần yếm quay trở lại, lắp ráp khung giường gỗ sáng màu, gắn phần đầu giường, xếp các thanh nan, đặt nệm trắng và trải ga giường phẳng phiu cùng những chiếc gối màu be và xám. Cảnh cuối: một phòng ngủ tối giản ngập tràn ánh sáng với chiếc giường gỗ ấm áp nằm ngay ngắn giữa nền terrazzo vỏ sò bóng loáng, nắng chan hòa qua khung cửa sổ. Hiệu ứng chuyển cảnh time-lapse mượt mà, ánh sáng tự nhiên chân thực, màn biến hóa cải tạo nhà cửa đầy mãn nhãn, định dạng dọc, chi tiết chân thực như ảnh chụp.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116232894100201472/img/pez4WVohMBybMbBD.jpg" width="600" alt="Prompt Sàn Phòng Ngủ Terrazzo Vỏ Sò">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13219)**
-
-**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2116232943790141574) | **Đã xuất bản:** Oct 30, 2026
-
----
-### Prompt sàn epoxy đĩa than
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo sàn phòng ngủ phong cách bằng đĩa than cũ và epoxy, được tạo bởi Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Video dọc, góc máy rộng cố định quay một căn phòng trắng trống trải với khung cửa sổ lớn nhìn ra hàng cây xanh. Một người đàn ông mặc áo yếm màu xanh dương và đeo găng tay bảo hộ đang cào một đống đĩa than vinyl đen khổng lồ trên nền bê tông trần, dàn đều các đĩa nhạc phẳng phiu khắp mặt sàn như những viên gạch lát nhiều màu sắc. Một người phụ nữ mặc áo yếm đỏ, áo thun đen và đeo găng tay cao su xanh bước vào mang theo chiếc xô trắng, đổ lớp nhựa epoxy tự san phẳng màu trắng kem đặc sánh lên trên những chiếc đĩa; dòng chất lỏng bóng loáng lan tỏa cho đến khi toàn bộ mặt sàn chìm trong sắc trắng rực rỡ. Chuyển cảnh sang mặt sàn đã khô cứng: một công nhân mặc áo phản quang vàng, quần đỏ và đi ủng cao su dùng máy đánh sàn xoay để làm bóng bề mặt, làm lộ ra những chiếc đĩa than vinyl được phủ kín dưới lớp epoxy trong vắt bóng bẩy, phần nhãn đĩa đầy màu sắc lấp lánh xuyên qua lớp phủ. Cuối cùng, hai người đàn ông mặc đồ đen khiêng vào một khung giường gỗ, lắp ráp ngay giữa phòng, sau đó đặt nệm trắng, gối và chăn chần màu xám lên trên, hoàn thiện một phòng ngủ phong cách với sàn nhà làm từ đĩa than vinyl. Ánh sáng ban ngày tự nhiên tươi sáng, thẩm mỹ tối giản tinh tươm, phong thước video tua nhanh (timelapse) cải tạo DIY đầy thỏa mãn, chuyển cảnh mượt mà, chi tiết chân thực như ảnh chụp, chất lượng 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116161341782130688/img/m2enr1Dp9OgXTYoR.jpg" width="600" alt="Prompt sàn epoxy đĩa than">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13222)**
-
-**Tác giả:** [Ruslan Ai](https://x.com/Ruslanchain) | **Nguồn:** [Link](https://x.com/Ruslanchain/status/2116161380516601859) | **Đã xuất bản:** Oct 30, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -9632,6 +9640,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-24T05:12:34.756Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-24T19:44:52.726Z</sub>
 
 </div>

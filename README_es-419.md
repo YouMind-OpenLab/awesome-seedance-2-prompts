@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6715** |
+| 📝 Total de prompts | **6720** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-11-24** |
 
@@ -361,6 +361,125 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Secuencia de vlog de viaje cinematográfico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Genera un vlog de viaje ultra realista de 30 segundos que presenta a una mujer del este asiático explorando un pueblo inglés, con instrucciones detalladas escena por escena.
+
+#### 📝 Prompt
+
+```
+Crea un vlog de viaje cinematográfico ultrarrealista de 30 segundos protagonizado por una hermosa joven del este de Asia con cabello lacio y largo de color castaño oscuro, que lleva puesto un suéter de punto color crema, jeans azules, tenis blancos y una mochila negra.
+
+Escena 1 (0–5 segundos):
+Camina por la encantadora calle de un pueblo inglés sosteniendo la cámara en modo selfie. De fondo se ven hermosas casitas blancas históricas, tiendas tradicionales, peatones y un clásico autobús rojo de dos pisos. Sonríe y presenta el lugar con mucho entusiasmo.
+
+Escena 2 (5–9 segundos):
+Explora un tranquilo sendero rodeado de árboles y voltea hacia la cámara con una sonrisa natural. Muestra árboles de un verde exuberante, luz diurna suave y una hermosa atmósfera campestre.
+
+Escena 3 (9–15 segundos):
+Descubre un puesto tradicional británico de comida callejera al aire libre, decorado con cálidas luces colgantes. Interactúa con el amable vendedor, recibe un snack dorado y crujiente recién preparado, le da un mordisco y reacciona con alegría.
+
+Escena 4 (15–20 segundos):
+Muéstrala disfrutando la comida en una toma selfie en primer plano, seguida de una impresionante vista panorámica de un pintoresco pueblo inglés rodeado de verdes colinas ondulantes.
+
+Escena 5 (20–25 segundos):
+Comienza a caer una lluvia ligera. Abre un paraguas transparente, sonríe a la cámara y camina por una hermosa calle mojada del pueblo que refleja las luces cálidas.
+
+Escena 6 (25–30 segundos):
+Llega a una acogedora casa de campo inglesa, abre la puerta principal, entra y termina el vlog con una alegre toma selfie en una sala iluminada con luz cálida.
+
+Estilo visual:
+Video 4K ultrafotorrealista, expresiones faciales humanas naturales, textura de piel realista, movimiento auténtico de cámara selfie en mano, transiciones cinematográficas fluidas, hermosa iluminación natural, física de lluvia realista, entornos detallados, movimientos corporales naturales, apariencia constante del personaje y la energía genuina de una travel vlogger.
+
+Instrucciones importantes:
+Mantén exactamente el mismo rostro, peinado, ropa y mochila de la mujer en todas las escenas. Sin cambios de rostro, sin manos deformes, sin dedos adicionales, sin personas duplicadas, sin movimientos antinaturales, sin parpadeos ni cambios de escena aleatorios. Conserva el video visualmente coherente y realista.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125089225809039360/img/NctYHkZWWnmFcOkS.jpg" width="600" alt="Secuencia de vlog de viaje cinematográfico">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14136)**
+
+**Autor:** [liana](https://x.com/Lianaalane) | **Fuente:** [Link](https://x.com/Lianaalane/status/2125089432965632262) | **Publicado:** Nov 24, 2026
+
+---
+### Batalla de guerrero en fantasía oscura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Genera una escena de batalla cinematográfica entre un joven guerrero y un demonio en el patio de un antiguo templo chino durante una noche tormentosa.
+
+#### 📝 Prompt
+
+```
+Una impresionante batalla cinematográfica de fantasía oscura en el patio de un antiguo templo chino durante una noche de tormenta. Un joven guerrero intrépido, con armadura de bronce oscuro y una capa roja ondeante, se enfrenta a un gigantesco y aterrador demonio guerrero con enormes cuernos curvos y una pesada armadura dorada. El joven guerrero empuña un poderoso bastón de madera antes de transformarlo en una resplandeciente espada mágica naranja envuelta en llamas. El enorme demonio cornudo avanza con furia, haciendo temblar el patio de piedra con cada paso. El guerrero salta por los aires y lanza un espectacular ataque con su espada en llamas. Saltan las chispas, la energía mágica inunda el campo de batalla y ambos guerreros chocan en un enfrentamiento épico. Cámara lenta dramática, ángulos de cámara dinámicos, movimientos realistas de los personajes, armaduras detalladas, iluminación cinematográfica, CGI 3D ultrarrealista, estilo de película de fantasía de Hollywood, calidad 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125058509574430720/img/VnP7SV4ND3du2kLP.jpg" width="600" alt="Batalla de guerrero en fantasía oscura">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14138)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fuente:** [Link](https://x.com/draavenai/status/2125058589333295234) | **Publicado:** Nov 24, 2026
+
+---
+### Timelapse de construcción de mansión en miniatura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Crea un timelapse realista de construcción DIY de una mansión de lujo en miniatura de dos pisos con detalles cinematográficos.
+
+#### 📝 Prompt
+
+```
+Descubre cómo cobra vida una impresionante mansión de lujo en miniatura de dos pisos a través de una construcción DIY realista, timelapses de armado súper satisfactorios, artesanía creativa y detalles arquitectónicos dignos del cine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124833920617259008/img/XDwD1UmAcOL8X0Ax.jpg" width="600" alt="Timelapse de construcción de mansión en miniatura">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14135)**
+
+**Autor:** [Olivia Rose](https://x.com/OliviaRose10un) | **Fuente:** [Link](https://x.com/OliviaRose10un/status/2124834716192747660) | **Publicado:** Nov 23, 2026
+
+---
+### Hechicero liberando su poder
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Genera una escena de fantasía oscura donde un hechicero con armadura de dragón libera energía mágica contra un demonio de sombra en un campo de batalla en llamas.
+
+#### 📝 Prompt
+
+```
+Un poderoso hechicero de fantasía oscura, vestido con una magnífica armadura de dragón negra y plateada, se alza en medio de un campo de batalla en llamas. Su armadura luce relucientes patrones de dragón en color naranja, y en su mano sostiene un misterioso orbe flotante de energía mágica negra y anaranjada. A sus espaldas, un gigantesco y aterrador demonio de sombras con múltiples brazos emerge de oscuros nubarrones de tormenta, envuelto en llamas abrasadoras. Un ejército de valientes guerreros se prepara para enfrentar a la enorme bestia. El hechicero levanta la mano y libera una poderosa energía mágica oscura mientras el fuego y el humo giran a su alrededor. Atmósfera de fantasía épica, relámpagos dramáticos, movimientos de cámara cinematográficos, armadura con gran nivel de detalle, efectos de fuego realistas, efectos visuales sobrenaturales espectaculares, CGI 3D ultrarrealista, calidad de película en 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2124795942511804416/img/x_saWSMXdV5oaAYn.jpg" width="600" alt="Hechicero liberando su poder">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14139)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fuente:** [Link](https://x.com/draavenai/status/2124796323593424900) | **Publicado:** Nov 23, 2026
+
+---
+### Anuncio en video de skincare de lujo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Genera un anuncio cinematográfico para la mascarilla hidratante de Paula's Choice con elementos florales y efectos de polvo utilizando Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Crea un anuncio lujoso y cinematográfico de un producto para el cuidado de la piel que muestre un tubo color borgoña intenso de Paula's Choice Hydrating Treatment Mask de pie en el centro. Rodea el producto con abundantes pétalos de flores en tonos carmesí y borgoña. Comienza con una explosión dramática de polvo rojo fino y pétalos flotantes que giran alrededor del producto. Transforma gradualmente el polvo en un elegante arreglo de flores rojas y rosa oscuro en plena floración. Añade movimientos florales realistas, delicados pétalos cayendo y un sutil acercamiento de cámara. Paleta monocromática en tonos rojos intensos, iluminación dramática de estudio, estética de comercial de belleza premium, texturas ultrarrealistas, composición sofisticada, calidad cinematográfica 4K. Mantén el empaque del producto, el logotipo y los textos nítidos, legibles y sin modificaciones.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795499151029_qf8f9b_HXyVNH2bgAAOd_8.jpg" width="600" alt="Anuncio en video de skincare de lujo">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14137)**
+
+**Autor:** [Rubi](https://x.com/AIwithRubii) | **Fuente:** [Link](https://x.com/AIwithRubii/status/2124737214777282802) | **Publicado:** Nov 23, 2026
+
+---
 ### Animación de Talla en Madera Nórdica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9433,117 +9552,6 @@ Crea un video de comedia animada en 3D de alta calidad y estilo cinematográfico
 **Autor:** [liana](https://x.com/Lianaalane) | **Fuente:** [Link](https://x.com/Lianaalane/status/2116402455315718306) | **Publicado:** Oct 31, 2026
 
 ---
-### Comercial de Moda de Lujo en Automovilismo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico para un comercial de moda de lujo en el automovilismo, que presenta a una mujer con traje de carreras y un frasco de perfume.
-
-#### 📝 Prompt
-
-```
-Crea un comercial de moda de automovilismo de lujo, ultrarrealista y cinematográfico, protagonizado por una hermosa joven que lleva un traje de carreras premium en blanco, negro y rojo, con botas y guantes profesionales de competición. Camina con seguridad por un espectacular garaje subterráneo de carreras, rodeada de imponentes autos deportivos negros, humo ambiental y luces LED rojas brillantes.
-
-Comienza con una toma amplia cinematográfica mientras ella avanza con confianza hacia la cámara sosteniendo un casco de carreras. Incluye primeros planos dramáticos de su atuendo de competición, los logotipos bordados, los detalles del casco y su expresión facial segura.
-
-Muestra un lujoso frasco de perfume premium en rojo y negro en un primer plano impactante, envuelto en un sutil humo, reflejos e iluminación cinematográfica.
-
-Utiliza movimientos de cámara fluidos, tomas de caminata en cámara lenta, primeros planos dinámicos, texturas de tela realistas, reflejos brillantes, sombras dramáticas y una fotografía profesional propia de un comercial.
-
-Estilo visual: fotorrealista, estética de automovilismo de lujo, iluminación roja intensa, detalles en 8K, HDR, poca profundidad de campo, atmósfera cinematográfica, composición vertical 9:16.
-
-Importante: mantén constante la identidad del personaje, el diseño del atuendo, la apariencia del producto y las proporciones realistas durante todo el video.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116387135221895168/img/scDHw0t1q9tIdAym.jpg" width="600" alt="Comercial de Moda de Lujo en Automovilismo">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13216)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2116387165341110470) | **Publicado:** Oct 31, 2026
-
----
-### Prompt Cinematográfico de Combate con Espadas para Seedance 2.0
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Prompt detallado para generar un video cinematográfico de combate con espadas a alta velocidad de 15 segundos usando Seedance 2.0, con una referencia de personaje: espadachina felina de cabello blanco.
-
-#### 📝 Prompt
-
-```
-# Seedance 2.0 | Prompt para video de acción cinematográfica de pelea de espadas a alta velocidad de 15 segundos
-
-## I. Imagen de referencia del personaje (Character Reference)
-
-**Personaje A: Espadachina de cabello blanco y orejas de gato**
-
-La Imagen de referencia 1 es la única base estricta para definir la apariencia del Personaje A.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116275450024800256/img/qHqeHGd6ipOOpWgP.jpg" width="600" alt="Prompt Cinematográfico de Combate con Espadas para Seedance 2.0">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13224)**
-
-**Autor:** [テト@おっさんの異世界転生 Uncle in ISEKAI](https://x.com/ojisan__isekai) | **Fuente:** [Link](https://x.com/ojisan__isekai/status/2116276599264084192) | **Publicado:** Oct 30, 2026
-
----
-### Prompt de Renovación de Piso Epóxico de Calamar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para transformar calamares en un diseño único de piso epóxico, generado con Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Un hombre con barba y overol de denim rastrilla una enorme pila de calamares frescos sobre el piso de concreto desnudo de una habitación vacía, blanca y con un gran ventanal, esparciéndolos hasta formar una capa única y perfectamente uniforme que cubre todo el suelo. Una mujer rubia con overol rojo y camiseta blanca vierte resina epoxi blanca y espesa desde un balde de plástico grande; el líquido lechoso fluye sobre los calamares y los sumerge bajo una inundación brillante autonivelante que se extiende de pared a pared. Un trabajador con chaleco amarillo de alta visibilidad empuja una pulidora de pisos sobre la superficie en proceso de curado, alisándola hasta lograr un acabado de brillo espejo, con cientos de calamares suspendidos permanentemente dentro de la resina transparente, como si fuera terrazo. Luego, dos hombres con camisetas y gorras negras arman una base de cama de madera de nogal con cabecera sobre el piso terminado, colocan un colchón y lo visten con sábanas y almohadas blancas impecables. Revelación final: una habitación minimalista y luminosa donde el espectacular piso blanco brillante tiene calamares incrustados bajo la superficie, mientras la luz natural del día entra por el ventanal. Video vertical, estilo documental hiperrealista, transformación de remodelación satisfactoria, cámara en mano con movimientos suaves, iluminación natural brillante.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116233841467645952/img/LQmCwKu2c9PoXtM5.jpg" width="600" alt="Prompt de Renovación de Piso Epóxico de Calamar">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13221)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fuente:** [Link](https://x.com/Ruslanchain/status/2116233884077556111) | **Publicado:** Oct 30, 2026
-
----
-### Prompt de Piso Terrazo Conchas Marinas para Dormitorio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para crear un suelo de dormitorio espectacular usando conchas marinas y resina epoxi, generado con Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Un hombre con overol de mezclilla y camiseta gris está de pie en una habitación blanca vacía con un ventanal muy iluminado, junto a un enorme montón de conchas marinas sobre un piso de concreto desnudo. Toma un rastrillo y esparce las conchas de manera uniforme por todo el suelo. Una mujer con overol rojo y camiseta blanca lleva un balde metálico gris y vierte resina epoxi blanca y espesa sobre las conchas; el líquido se expande hasta cubrir todo el piso con una capa lisa y brillante. Luego, un trabajador con chaleco reflectante amarillo y gorra negra pule la superficie ya curada con una pulidora de pisos, revelando poco a poco un espectacular piso de terrazo blanco con coloridas conchas marinas incrustadas que reflejan la luz del día. El hombre del overol regresa y arma una estructura de cama de madera clara, coloca la cabecera, pone los listones, ubica un colchón blanco y viste la cama con sábanas blancas impecables y almohadas beige y grises. Toma final: un dormitorio minimalista y luminoso con la cálida cama de madera centrada sobre el reluciente piso de terrazo con conchas, mientras la luz del sol entra por la ventana. Transiciones fluidas al estilo time-lapse, iluminación natural realista, satisfactoria transformación de remodelación del hogar, formato vertical, detalle fotorrealista.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116232894100201472/img/pez4WVohMBybMbBD.jpg" width="600" alt="Prompt de Piso Terrazo Conchas Marinas para Dormitorio">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13219)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2116232943790141574) | **Publicado:** Oct 30, 2026
-
----
-### Prompt de Suelo Epóxico con Discos de Vinilo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para crear un suelo de dormitorio con estilo utilizando vinilos antiguos y resina epoxi, generado con Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Video vertical, plano general fijo de una habitación blanca vacía con un ventanal que deja ver árboles verdes. Un hombre con overol azul y guantes de trabajo rastrilla un enorme montón de discos de vinilo negros sobre el piso de concreto desnudo, extendiéndolos de forma plana y uniforme por toda la superficie como si fueran azulejos de colores. Entra una mujer con overol rojo, camiseta negra y guantes de goma verde llevando un balde blanco, y vierte una resina epoxi autonivelante blanca, espesa y cremosa sobre los discos; el líquido brillante se esparce hasta cubrir todo el piso en un blanco intenso. Corte al piso ya curado: un trabajador con chaleco reflectante amarillo, pantalones rojos y botas de goma pule la superficie con una pulidora rotativa, dejando a la vista los discos de vinilo incrustados bajo una capa de epoxi transparente y brillante, con sus coloridas etiquetas asomando. Por último, dos hombres vestidos de negro entran con la estructura de madera de una cama, la arman en el centro de la habitación y colocan un colchón blanco, almohadas y un edredón gris, completando así un dormitorio elegante con piso de discos de vinilo. Luz natural intensa, estética minimalista y limpia, estilo timelapse satisfactorio de remodelación DIY, transiciones suaves, detalle fotorrealista, calidad 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116161341782130688/img/m2enr1Dp9OgXTYoR.jpg" width="600" alt="Prompt de Suelo Epóxico con Discos de Vinilo">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13222)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fuente:** [Link](https://x.com/Ruslanchain/status/2116161380516601859) | **Publicado:** Oct 30, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -9605,6 +9613,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-24T05:12:38.252Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-24T19:44:56.482Z</sub>
 
 </div>
