@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6720** |
+| 📝 Total des prompts | **6721** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-11-25** |
 
@@ -361,6 +361,25 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Prompt de vol d'aigle royal majestueux
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de scène fantastique cinématographique mettant en vedette un aigle royal gigantesque et majestueux volant à travers des nuages d'orage, avec un éclairage volumétrique et un mouvement réaliste des plumes.
+
+#### 📝 Prompt
+
+```
+Une scène de fantasy cinématographique à couper le souffle, mettant en vedette un gigantesque et majestueux aigle royal volant à travers un ciel mystérieux envahi d'imposants nuages d'orage sombres. L'aigle déploie des ailes immenses et puissantes, un plumage brun doré aux détails saisissants, un regard perçant et une envergure impressionnante. Alors qu'il émerge des nuées obscures, une chaude lumière dorée vient illuminer ses plumes. La caméra suit l'oiseau de dos tandis qu'il déploie ses ailes et plane avec grâce au-dessus d'un vaste paysage verdoyant. Des éclairs zèbrent les nuages lointains, créant une atmosphère dramatique. Plans aériens spectaculaires, mouvements de plumes réalistes, nuages volumétriques, éclairage cinématographique, suivi de caméra fluide, CGI photoréaliste, ambiance de fantasy épique, qualité cinéma 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125212810812760064/img/J2OGd7gQceL4Ntdn.jpg" width="600" alt="Prompt de vol d'aigle royal majestueux">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14155)**
+
+**Auteur:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2125228862774669606) | **Publié:** Nov 24, 2026
+
+---
 ### Séquence cinématographique de vlog de voyage
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9288,25 +9307,6 @@ Vidéo verticale à l'intérieur d'une pièce vide aux murs blancs, dotée d'une
 **Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116425542874378504) | **Publié:** Oct 31, 2026
 
 ---
-### Comédie : Dîner romantique et collation de minuit
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour créer une vidéo comique animée en 3D de haute qualité, mettant en scène un dîner romantique suivi d'une aventure humoristique de fringale nocturne à la maison.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo d'animation 3D comique de qualité cinématographique, mettant en scène un jeune couple adorable lors d'un dîner romantique dans un restaurant luxueux et élégant. Le beau jeune homme porte un smoking noir très stylé, tandis que la magnifique jeune femme arbore une somptueuse robe de soirée noire, les cheveux relevés en un chignon raffiné. Ils sont assis ensemble à une table joliment décorée, baignée d'une lumière dorée et chaleureuse, et savourent une délicieuse dinde rôtie accompagnée de frites croustillantes et de légumes. La jeune femme lui propose malicieusement une bouchée, et ils échangent des sourires tendres et complices. Après le repas, le couple rentre chez lui en voiture à travers une ville magnifique plongée dans la nuit, avec des lampadaires scintillants et des bâtiments pleins de charme en arrière-plan. Arrivée devant sa luxueuse demeure, la jeune femme entre discrètement et file directement à la cuisine. Elle ouvre le réfrigérateur et s'empare avec enthousiasme d'une énorme dinde rôtie, de chips, de chocolats, de biscuits, de burgers et d'une multitude de gourmandises irrésistibles. Dans la scène suivante, elle est confortablement installée sur un canapé luxueux, entourée de montagnes de junk food, et dévore joyeusement le tout avec un grand sourire aux lèvres. Terminez par un plan large cinématographique dévoilant l'intégralité du salon envahi par les snacks et la nourriture, pour créer une scène de fringale nocturne aussi hilarante qu'adorable. Utilisez des expressions faciales animées très expressives, des textures alimentaires détaillées, des mouvements de personnages fluides, un éclairage réaliste, de superbes transitions de caméra et une qualité d'animation 3D haut de gamme inspirée de Pixar. L'apparence des personnages doit rester parfaitement cohérente tout au long de la vidéo, sans aucun doublon, effet de morphing ou défaut visuel.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116402410939953152/img/TVH4s-ff4Ws4U4x-.jpg" width="600" alt="Comédie : Dîner romantique et collation de minuit">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13215)**
-
-**Auteur:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2116402455315718306) | **Publié:** Oct 31, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -9368,6 +9368,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-25T03:45:10.201Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-25T14:20:37.529Z</sub>
 
 </div>

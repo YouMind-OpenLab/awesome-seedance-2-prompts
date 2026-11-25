@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6720** |
+| 📝 Total Prompts | **6721** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-11-25** |
 
@@ -365,6 +365,25 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Majestic Golden Eagle Flight Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic fantasy scene prompt featuring a gigantic majestic golden eagle flying through storm clouds with volumetric lighting and realistic feather movement.
+
+#### 📝 Prompt
+
+```
+A breathtaking cinematic fantasy scene featuring a gigantic majestic golden eagle flying through a mysterious sky filled with massive dark storm clouds. The eagle has enormous powerful wings, beautifully detailed golden-brown feathers, sharp eyes, and an impressive wingspan. As it emerges from the dark clouds, warm golden sunlight illuminates its feathers. The camera follows the eagle from behind as it spreads its wings and glides gracefully above a vast green landscape. Lightning flashes in the distant clouds, creating a dramatic atmosphere. Spectacular aerial shots, realistic feather movements, volumetric clouds, cinematic lighting, smooth camera tracking, photorealistic CGI, epic fantasy atmosphere, 4K movie quality.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125212810812760064/img/J2OGd7gQceL4Ntdn.jpg" width="600" alt="Majestic Golden Eagle Flight Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14155)**
+
+**Author:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2125228862774669606) | **Published:** Nov 24, 2026
+
+---
 ### Cinematic travel vlog sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -408,11 +427,11 @@ Maintain exactly the same woman's face, hairstyle, clothing, and backpack throug
 **Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2125089432965632262) | **Published:** Nov 24, 2026
 
 ---
-### Dark fantasy warrior battle
+### Dark Fantasy Warrior Battle Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Generates a cinematic battle scene between a young warrior and a demon in an ancient Chinese temple courtyard during a stormy night.
+> A cinematic dark fantasy battle prompt featuring a young warrior fighting a horned demon in an ancient Chinese temple courtyard during a stormy night.
 
 #### 📝 Prompt
 
@@ -420,7 +439,7 @@ Maintain exactly the same woman's face, hairstyle, clothing, and backpack throug
 A breathtaking cinematic dark fantasy battle in an ancient Chinese temple courtyard during a stormy night. A fearless young warrior wearing dark bronze armor and a flowing red cape faces a gigantic terrifying demon warrior with massive curved horns and heavy golden armor. The young warrior holds a powerful wooden staff before transforming it into a blazing magical orange sword. The enormous horned demon charges forward, shaking the stone courtyard with every step. The warrior leaps into the air and launches a spectacular flaming sword attack. Sparks fly, magical energy fills the battlefield, and both warriors clash in an epic showdown. Dramatic slow motion, dynamic camera angles, realistic character movements, detailed armor, cinematic lighting, ultra-realistic 3D CGI, Hollywood fantasy movie style, 4K quality.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2125058509574430720/img/VnP7SV4ND3du2kLP.jpg" width="600" alt="Dark fantasy warrior battle">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125058509574430720/img/VnP7SV4ND3du2kLP.jpg" width="600" alt="Dark Fantasy Warrior Battle Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14138)**
 
@@ -9697,25 +9716,6 @@ Vertical video inside an empty room with white walls and a large window overlook
 **Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116425542874378504) | **Published:** Oct 31, 2026
 
 ---
-### Romantic Dinner to Midnight Food Adventure
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a cinematic 3D animated comedy video featuring a couple's transition from a fancy dinner to a funny midnight snack binge.
-
-#### 📝 Prompt
-
-```
-Create a high-quality, cinematic 3D animated comedy video featuring a cute young couple enjoying a romantic dinner at an elegant luxury restaurant. The handsome young man wears a stylish black tuxedo, while the beautiful girl wears a glamorous black evening gown with her hair tied in an elegant bun. They sit together at a beautifully decorated table with warm golden lighting, enjoying a delicious roasted turkey with crispy fries and vegetables. The girl playfully offers him a bite of food, and they exchange sweet, romantic smiles. After dinner, the couple drives home through a beautiful city at night, with glowing streetlights and charming buildings in the background. The girl arrives at her luxurious home, quietly enters the house, and heads straight to the kitchen. She opens the refrigerator and excitedly grabs a huge roasted turkey, potato chips, chocolates, cookies, burgers, and plenty of delicious snacks. In the next scene, she sits comfortably on a luxurious sofa surrounded by mountains of junk food, happily eating everything with a big smile on her face. End with a wide cinematic shot revealing the entire living room filled with snacks and food, creating a funny and adorable midnight food-craving moment. Use expressive cartoon facial animations, detailed food textures, smooth character movements, realistic lighting, beautiful camera transitions, and premium Pixar-inspired 3D animation quality. Keep the characters' appearance consistent throughout the video, with no character duplication, morphing, or visual glitches.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116402410939953152/img/TVH4s-ff4Ws4U4x-.jpg" width="600" alt="Romantic Dinner to Midnight Food Adventure">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13215)**
-
-**Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2116402455315718306) | **Published:** Oct 31, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -9777,6 +9777,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-25T03:44:55.652Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-25T14:20:22.288Z</sub>
 
 </div>

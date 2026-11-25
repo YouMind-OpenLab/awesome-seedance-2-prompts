@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6720** |
+| 📝 Gesamtanzahl Prompts | **6721** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-11-25** |
 
@@ -361,6 +361,25 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Majestischer Flug des Goldenen Adlers – Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Fantasy-Szenen-Prompt, der einen riesigen, majestätischen goldenen Adler zeigt, wie er durch Sturmwolken fliegt, mit volumetrischer Beleuchtung und realistischer Federbewegung.
+
+#### 📝 Prompt
+
+```
+Eine atemberaubende, cineastische Fantasy-Szene mit einem gigantischen, majestätischen Steinadler, der durch einen geheimnisvollen Himmel voller gewaltiger, dunkler Sturmwolken fliegt. Der Adler besitzt enorme, kraftvolle Schwingen, wunderschön detailliertes goldbraunes Gefieder, scharfe Augen und eine beeindruckende Flügelspannweite. Als er aus den dunklen Wolken hervorbricht, taucht warmes, goldenes Sonnenlicht sein Gefieder in ein strahlendes Licht. Die Kamera folgt dem Adler von hinten, während er seine Schwingen ausbreitet und anmutig über einer weiten grünen Landschaft gleitet. In den fernen Wolken zucken Blitze und sorgen für eine dramatische Atmosphäre. Spektakuläre Luftaufnahmen, realistische Federbewegungen, volumetrische Wolken, cineastische Beleuchtung, flüssige Kamerafahrten, fotorealistisches CGI, epische Fantasy-Atmosphäre, 4K-Filmqualität.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125212810812760064/img/J2OGd7gQceL4Ntdn.jpg" width="600" alt="Majestischer Flug des Goldenen Adlers – Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14155)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Quelle:** [Link](https://x.com/draavenai/status/2125228862774669606) | **Veröffentlicht:** Nov 24, 2026
+
+---
 ### Kino-reife Reise-Vlog-Sequenz
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9548,25 +9567,6 @@ Hochformat-Video in einem leeren Raum mit weißen Wänden und einem großen Fens
 **Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2116425542874378504) | **Veröffentlicht:** Oct 31, 2026
 
 ---
-### Romantisches Dinner bis Mitternachtssnack-Komödie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung eines hochwertigen 3D-animierten Comedy-Videos, das ein romantisches Abendessen eines Paares zeigt, gefolgt von einem humorvollen nächtlichen Snack-Abenteuer zu Hause.
-
-#### 📝 Prompt
-
-```
-Erstelle ein hochwertiges, cineastisches 3D-Animationsvideo im Comedy-Stil mit einem süßen jungen Paar, das ein romantisches Abendessen in einem eleganten Luxusrestaurant genießt. Der attraktive junge Mann trägt einen stilvollen schwarzen Smoking, während die wunderschöne Frau in einem glamourösen schwarzen Abendkleid mit elegant hochgestecktem Haar erscheint. Beide sitzen gemeinsam an einem liebevoll dekorierten Tisch, der von warmem, goldenem Licht erhellt wird, und lassen sich einen köstlichen gebratenen Truthahn mit knusprigen Pommes und Gemüse schmecken. Verspielt bietet sie ihm eine Gabel voll Essen an, woraufhin sie sich süße, romantische Blicke und Lächeln zuwerfen. Nach dem Dinner fährt das Paar durch eine wunderschöne nächtliche Stadt nach Hause, während leuchtende Straßenlaternen und charmante Gebäude den Hintergrund bilden. Zu Hause angekommen, betritt die junge Frau leise ihr luxuriöses Anwesen und steuert geradewegs auf die Küche zu. Sie öffnet den Kühlschrank und schnappt sich voller Vorfreude einen riesigen gebratenen Truthahn, Kartoffelchips, Schokolade, Kekse, Burger und jede Menge andere leckere Snacks. In der nächsten Szene macht sie es sich gemütlich auf einem luxuriösen Sofa – umgeben von Bergen an Junkfood – und verschlingt alles mit einem breiten Grinsen im Gesicht. Das Video endet mit einer weiten, cineastischen Kameraeinstellung, die das gesamte Wohnzimmer voller Snacks und Essen zeigt und so einen urkomischen, aber herzigen Mitterachts-Heißhunger-Moment einfängt. Nutze ausdrucksstarke Cartoon-Gesichtsanimationen, detaillierte Lebensmitteltexturen, flüssige Charakterbewegungen, realistische Beleuchtung, schöne Kameraübergänge und erstklassige 3D-Animationsqualität im Pixar-Stil. Achte darauf, dass das Aussehen der Figuren im gesamten Video konsistent bleibt, ohne doppelte Charaktere, ungewollte Verwandlungen oder visuelle Fehler.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116402410939953152/img/TVH4s-ff4Ws4U4x-.jpg" width="600" alt="Romantisches Dinner bis Mitternachtssnack-Komödie">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13215)**
-
-**Autor:** [liana](https://x.com/Lianaalane) | **Quelle:** [Link](https://x.com/Lianaalane/status/2116402455315718306) | **Veröffentlicht:** Oct 31, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -9628,6 +9628,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-25T03:45:08.966Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-25T14:20:36.338Z</sub>
 
 </div>

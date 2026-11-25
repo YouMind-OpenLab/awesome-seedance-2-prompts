@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6720** |
+| 📝 Total de prompts | **6721** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-11-25** |
 
@@ -361,6 +361,25 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Prompt de Vuelo del Majestuoso Águila Dorada
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de escena cinematográfica de fantasía que presenta un águila dorada gigante y majestuosa volando entre nubes de tormenta con iluminación volumétrica y movimiento realista de las plumas.
+
+#### 📝 Prompt
+
+```
+Una escena de fantasía cinematográfica sobrecogedora que muestra a un gigantesco y majestuoso águila dorada surcando un cielo misterioso, cubierto por enormes y oscuros nubarrones de tormenta. El águila despliega unas alas inmensas y poderosas, con plumas de un tono pardo dorado exquisitamente detalladas, una mirada penetrante y una envergadura imponente. Al emerger de entre las nubes oscuras, la cálida luz del sol baña su plumaje con un resplandor dorado. La cámara sigue al águila desde atrás mientras extiende las alas y planea con elegancia sobre un vasto paisaje verde. Los relámpagos iluminan las nubes lejanas, creando una atmósfera verdaderamente dramática. Espectaculares planos aéreos, movimiento realista de las plumas, nubes volumétricas, iluminación cinematográfica, seguimiento de cámara fluido, CGI fotorrealista, atmósfera de fantasía épica, calidad de película en 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125212810812760064/img/J2OGd7gQceL4Ntdn.jpg" width="600" alt="Prompt de Vuelo del Majestuoso Águila Dorada">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=14155)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fuente:** [Link](https://x.com/draavenai/status/2125228862774669606) | **Publicado:** Nov 24, 2026
+
+---
 ### Secuencia cinematográfica de vlog de viaje
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9560,25 +9579,6 @@ Vídeo vertical en el interior de una habitación vacía con paredes blancas y u
 **Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2116425542874378504) | **Publicado:** Oct 31, 2026
 
 ---
-### De Cena Romántica a Comedia de Antojos Nocturnos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para crear un video de comedia animado en 3D de alta calidad que muestra una cena romántica de pareja seguida de una aventura humorística por antojos nocturnos a medianoche en casa.
-
-#### 📝 Prompt
-
-```
-Crea un video de comedia animada en 3D de alta calidad y estilo cinematográfico, protagonizado por una tierna pareja joven que disfruta de una cena romántica en un elegante restaurante de lujo. El apuesto chico viste un esmoquin negro muy estiloso, mientras que la hermosa joven lleva un glamuroso vestido de noche negro y el cabello recogido en un moño elegante. Ambos están sentados juntos en una mesa bellamente decorada, iluminada por una cálida luz dorada, saboreando un delicioso pavo asado acompañado de papas fritas crujientes y verduras. La chica le ofrece un bocado de forma juguetona y se intercambian sonrisas dulces y llenas de romanticismo. Después de la cena, la pareja regresa a casa conduciendo por una hermosa ciudad nocturna, con farolas resplandecientes y edificios encantadores de fondo. Al llegar a su lujosa casa, la joven entra sigilosamente y va directo a la cocina. Abre el refrigerador y, llena de emoción, saca un enorme pavo asado, papas fritas de bolsa, chocolates, galletas, hamburguesas y un montón de snacks deliciosos. En la siguiente escena, aparece cómodamente sentada en un sofá de lujo, rodeada de montañas de comida chatarra, devorando todo felizmente con una gran sonrisa en el rostro. Termina con un plano general cinematográfico que muestre toda la sala repleta de snacks y comida, creando un momento de antojo de medianoche tan gracioso como adorable. Utiliza expresivas animaciones faciales estilo cartoon, texturas detalladas en los alimentos, movimientos fluidos de los personajes, iluminación realista, transiciones de cámara hermosas y una calidad de animación 3D premium inspirada en Pixar. Mantén la apariencia de los personajes consistente durante todo el video, sin duplicados, deformaciones ni fallos visuales.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116402410939953152/img/TVH4s-ff4Ws4U4x-.jpg" width="600" alt="De Cena Romántica a Comedia de Antojos Nocturnos">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13215)**
-
-**Autor:** [liana](https://x.com/Lianaalane) | **Fuente:** [Link](https://x.com/Lianaalane/status/2116402455315718306) | **Publicado:** Oct 31, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -9640,6 +9640,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-25T03:45:06.547Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-25T14:20:33.529Z</sub>
 
 </div>

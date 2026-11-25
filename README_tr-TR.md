@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6720** |
+| 📝 Toplam İstem | **6721** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-11-25** |
 
@@ -361,6 +361,25 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Görkemli Altın Kartal Uçuş İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hacimsel ışıklandırma ve gerçekçi tüy hareketleriyle fırtına bulutları arasından uçan devasa, görkemli altın kartalı içeren sinematik bir fantastik sahne istemi.
+
+#### 📝 İstem
+
+```
+Devasa koyu fırtına bulutlarıyla kaplı gizemli bir gökyüzünde süzülen devasa, görkemli bir altın kartalı tasvir eden nefes kesici sinematik bir fantezi sahnesi. Kartalın kocaman güçlü kanatları, ince detaylarla işlenmiş altın-kahverengi tüyleri, keskin bakışları ve etkileyici bir kanat açıklığı bulunuyor. Karanlık bulutların arasından çıktığı anda, sıcak altın rengi güneş ışığı tüylerini aydınlatıyor. Kamera, kartalı arkadan takip ederken o kanatlarını açıyor ve uçsuz bucaksız yeşil bir manzaranın üzerinde zarifçe süzülüyor. Uzaklardaki bulutlarda çakan şimşekler dramatik bir atmosfer yaratıyor. Göz alıcı hava çekimleri, gerçekçi tüy hareketleri, hacimsel bulutlar, sinematik aydınlatma, akıcı kamera takibi, fotogerçekçi CGI, epik fantezi atmosferi, 4K film kalitesi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125212810812760064/img/J2OGd7gQceL4Ntdn.jpg" width="600" alt="Görkemli Altın Kartal Uçuş İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14155)**
+
+**Yazar:** [Draaven](https://x.com/draavenai) | **Kaynak:** [Link](https://x.com/draavenai/status/2125228862774669606) | **Yayınlandı:** Nov 24, 2026
+
+---
 ### Sinematik seyahat vlog dizisi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9506,25 +9525,6 @@ Beyaz duvarları ve yemyeşil tropikal palmiye ağaçlarına bakan büyük bir p
 **Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2116425542874378504) | **Yayınlandı:** Oct 31, 2026
 
 ---
-### Romantik Akşam Yemeğinden Gece Yarısı Atıştırmalığına Komedi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir çiftin romantik akşam yemeğini ve ardından evde gerçekleşen komik gece yarısı atıştırma macerasını konu alan, yüksek kaliteli 3D animasyonlu bir komedi videosu oluşturmak için prompt.
-
-#### 📝 İstem
-
-```
-Şık ve lüks bir restoranda romantik bir akşam yemeğinin tadını çıkaran sevimli genç bir çiftin yer aldığı, yüksek kaliteli, sinematik bir 3D animasyonlu komedi videosu oluştur. Yakışıklı genç adam şık siyah bir smokin giyerken, güzel genç kız saçlarını zarif bir topuz yapmış şekilde göz alıcı siyah bir gece elbisesi taşıyor. Sıcak altın rengi aydınlatmayla özenle dekore edilmiş bir masada yan yana oturuyorlar; çıtır patates kızartması ve sebzeler eşliğinde nefis bir fırın hindinin tadını çıkarıyorlar. Genç kız tatlı tatlı ona bir lokma uzatıyor ve ikisi de birbirine romantik, içten gülümsemeler atıyor. Yemekten sonra çift, arka planda parlayan sokak lambaları ve büyüleyici binalarla gece vakti güzel bir şehrin içinden geçerek eve doğru sürüyor. Genç kız lüks evine varıyor, sessizce içeri girip soluğu mutfakta alıyor. Buzdolabını açıyor ve heyecanla devasa bir fırın hindi, patates cipsi, çikolatalar, kurabiyeler, hamburgerler ve bolca lezzetli atıştırmalık kapıyor. Bir sonraki sahnede, etrafı dağ gibi yığılmış abur cuburlarla çevrili lüks bir kanepede rahatça oturuyor, yüzünde kocaman bir gülümsemeyle her şeyi afiyetle yiyor. Videoyu, atıştırmalıklar ve yiyeceklerle dolup taşan tüm oturma odasını gösteren geniş sinematik bir çekimle bitir; böylece komik ve sevimli bir "gece yarısı yemek krizi" anı yaratılmış olsun. Etkileyici karikatür tarzı yüz animasyonları, detaylı yiyecek dokuları, akıcı karakter hareketleri, gerçekçi aydınlatma, güzel kamera geçişleri ve premium Pixar ilhamlı 3D animasyon kalitesi kullan. Karakterlerin görünümünü video boyunca tutarlı tut; karakter çoğaltması, şekil bozulması (morphing) veya görsel hatalar kesinlikle olmasın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116402410939953152/img/TVH4s-ff4Ws4U4x-.jpg" width="600" alt="Romantik Akşam Yemeğinden Gece Yarısı Atıştırmalığına Komedi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13215)**
-
-**Yazar:** [liana](https://x.com/Lianaalane) | **Kaynak:** [Link](https://x.com/Lianaalane/status/2116402455315718306) | **Yayınlandı:** Oct 31, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -9586,6 +9586,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-25T03:45:15.288Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-25T14:20:42.946Z</sub>
 
 </div>

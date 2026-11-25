@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6720** |
+| 📝 Tổng số prompt | **6721** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-11-25** |
 
@@ -361,6 +361,25 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Prompt Cảnh Đại Bàng Vàng Uy Nghi Bay Lượn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt cảnh quan giả tưởng điện ảnh mô tả một đại bàng vàng khổng lồ, uy nghi bay xuyên qua những đám mây bão với ánh sáng thể tích và chuyển động lông vũ chân thực.
+
+#### 📝 Prompt
+
+```
+Một khung cảnh kỳ ảo đậm chất điện ảnh đầy choáng ngợp, khắc họa chú đại bàng vàng khổng lồ và uy nghi đang sải cánh bay qua bầu trời huyền bí phủ kín những đám mây bão đen kịt. Chú đại bàng sở hữu đôi cánh to lớn đầy sức mạnh, bộ lông màu nâu vàng được điểm xuyết chi tiết tuyệt đẹp, ánh mắt sắc lẹm cùng sải cánh vô cùng ấn tượng. Khoảnh khắc nó lao ra khỏi tầng mây đen, những tia nắng vàng ấm áp bừng lên chiếu rọi từng chiếc lông vũ. Góc máy bám theo chú đại bàng từ phía sau khi nó dang rộng đôi cánh, lượn lướt đầy duyên dáng trên một vùng đất xanh ngát bao la. Những tia chớp xé ngang đám mây xa xăm, tạo nên bầu không khí kịch tính đến nghẹt thở. Các góc quay trên không ngoạn mục, chuyển động của lông vũ chân thực, hiệu ứng mây khối (volumetric clouds), ánh sáng chuẩn điện ảnh, góc máy tracking mượt mà, đồ họa CGI chân thực như ảnh chụp, không khí kỳ ảo hùng tráng, chất lượng phim 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125212810812760064/img/J2OGd7gQceL4Ntdn.jpg" width="600" alt="Prompt Cảnh Đại Bàng Vàng Uy Nghi Bay Lượn">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14155)**
+
+**Tác giả:** [Draaven](https://x.com/draavenai) | **Nguồn:** [Link](https://x.com/draavenai/status/2125228862774669606) | **Đã xuất bản:** Nov 24, 2026
+
+---
 ### Chuỗi cảnh quay vlog du lịch điện ảnh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9560,25 +9579,6 @@ Video dọc quay bên trong một căn phòng trống với những bức tườ
 **Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2116425542874378504) | **Đã xuất bản:** Oct 31, 2026
 
 ---
-### Hài kịch từ bữa tối lãng mạn đến món ăn khuya
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video hoạt hình 3D hài hước chất lượng cao, kể về bữa tối lãng mạn của một cặp đôi và hành trình thèm ăn khuya đầy vui nhộn tại nhà.
-
-#### 📝 Prompt
-
-```
-Tạo một video hoạt hình 3D hài hước chất lượng cao, mang đậm phong cách điện ảnh, kể về một cặp đôi trẻ dễ thương đang tận hưởng bữa tối lãng mạn tại một nhà hàng sang trọng. Chàng trai bảnh bao diện bộ tuxedo đen lịch lãm, còn cô gái xinh đẹp khoác lên mình chiếc váy dạ hội đen lộng lẫy với mái tóc búi cao thanh lịch. Hai người ngồi bên nhau tại một bàn tiệc được trang trí tuyệt đẹp dưới ánh đèn vàng ấm áp, cùng thưởng thức món gà tây nướng thơm ngon kèm khoai tây chiên giòn rụm và rau củ. Cô gái tinh nghịch đút cho chàng trai một miếng ăn, cả hai trao nhau những nụ cười ngọt ngào và đầy lãng mạn. Sau bữa tối, cặp đôi lái xe về nhà qua một thành phố rực rỡ về đêm, với những ngọn đèn đường lung linh và các tòa nhà cổ kính phía sau. Khi về đến căn biệt thự xa hoa của mình, cô gái rón rén bước vào nhà và đi thẳng xuống bếp. Cô mở tủ lạnh rồi hào hứng lấy ra một con gà tây nướng khổng lồ, khoai tây lát mỏng, sô-cô-la, bánh quy, hamburger cùng vô số món ăn vặt hấp dẫn khác. Ở cảnh tiếp theo, cô nàng thoải mái ngả lưng trên chiếc sofa sang trọng giữa "núi" đồ ăn vặt, vui vẻ đánh chén mọi thứ với nụ cười rạng rỡ trên môi. Video kết thúc bằng một cú máy toàn cảnh đậm chất điện ảnh, hé lộ toàn bộ phòng khách ngập tràn đồ ăn và thức ăn vặt, tạo nên khoảnh khắc thèm ăn lúc nửa đêm vừa buồn cười vừa đáng yêu. Sử dụng biểu cảm khuôn mặt hoạt hình sinh động, chi tiết bề mặt món ăn chân thực, chuyển động nhân vật mượt mà, ánh sáng tự nhiên, góc máy chuyển cảnh đẹp mắt và chất lượng hoạt hình 3D cao cấp lấy cảm hứng từ Pixar. Giữ nguyên ngoại hình nhân vật nhất quán trong suốt video, không để xảy ra hiện tượng nhân bản nhân vật, biến dạng hay lỗi hình ảnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116402410939953152/img/TVH4s-ff4Ws4U4x-.jpg" width="600" alt="Hài kịch từ bữa tối lãng mạn đến món ăn khuya">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13215)**
-
-**Tác giả:** [liana](https://x.com/Lianaalane) | **Nguồn:** [Link](https://x.com/Lianaalane/status/2116402455315718306) | **Đã xuất bản:** Oct 31, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -9640,6 +9640,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-25T03:45:03.905Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-25T14:20:30.757Z</sub>
 
 </div>

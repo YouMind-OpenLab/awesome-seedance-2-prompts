@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6720** |
+| 📝 Total de prompts | **6721** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-11-25** |
 
@@ -361,6 +361,25 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Prompt de Voo da Majestosa Águia Dourada
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de cena cinematográfica de fantasia apresentando uma águia dourada gigantesca e majestosa voando através de nuvens de tempestade, com iluminação volumétrica e movimento realista das penas.
+
+#### 📝 Prompt
+
+```
+Uma cena de fantasia cinematográfica de tirar o fôlego, mostrando uma gigantesca e majestosa águia-dourada voando por um céu misterioso repleto de enormes nuvens escuras de tempestade. A águia tem asas imensas e poderosas, penas castanho-douradas ricamente detalhadas, olhos penetrantes e uma envergadura impressionante. Ao emergir das nuvens escuras, a luz quente e dourada do sol ilumina suas penas. A câmera acompanha a águia por trás enquanto ela abre as asas e plana graciosamente sobre uma vasta paisagem verde. Relâmpagos cortam as nuvens ao longe, criando uma atmosfera dramática. Tomadas aéreas espetaculares, movimentos realistas das penas, nuvens volumétricas, iluminação cinematográfica, acompanhamento suave de câmera, CGI fotorrealista, atmosfera épica de fantasia, qualidade de filme em 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125212810812760064/img/J2OGd7gQceL4Ntdn.jpg" width="600" alt="Prompt de Voo da Majestosa Águia Dourada">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=14155)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fonte:** [Link](https://x.com/draavenai/status/2125228862774669606) | **Publicado:** Nov 24, 2026
+
+---
 ### Sequência cinematográfica de vlog de viagem
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9571,25 +9590,6 @@ Vídeo vertical dentro de um quarto vazio com paredes brancas e uma grande janel
 **Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2116425542874378504) | **Publicado:** Oct 31, 2026
 
 ---
-### Comédia do Jantar Romântico ao Lanche da Meia-Noite
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para criar um vídeo de comédia animado em 3D de alta qualidade, apresentando um jantar romântico de um casal seguido por uma aventura humorística de desejo por comida à meia-noite em casa.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo de comédia em animação 3D cinematográfico e de alta qualidade, mostrando um casal jovem e fofo curtindo um jantar romântico em um restaurante luxuoso e elegante. O rapaz bonito veste um smoking preto estiloso, enquanto a garota linda usa um deslumbrante vestido de gala preto, com o cabelo preso em um coque elegante. Eles estão sentados juntos em uma mesa lindamente decorada, sob uma iluminação dourada e acolhedora, saboreando um delicioso peru assado com batatas fritas crocantes e legumes. A garota oferece uma mordida da comida para ele de forma brincalhona, e os dois trocam sorrisos doces e românticos. Depois do jantar, o casal volta para casa dirigindo por uma cidade linda à noite, com postes iluminados e prédios charmosos ao fundo. A garota chega à sua casa luxuosa, entra silenciosamente e vai direto para a cozinha. Ela abre a geladeira e pega, toda animada, um peru assado enorme, batatas chips, chocolates, biscoitos, hambúrgueres e muitos outros petiscos deliciosos. Na cena seguinte, ela está confortavelmente sentada em um sofá luxuoso, cercada por montanhas de besteiras, comendo tudo feliz e com um sorriso gigante no rosto. Termine com um plano aberto cinematográfico revelando a sala inteira tomada por petiscos e comidas, criando um momento noturno de fome da madrugada engraçado e adorável. Use expressões faciais animadas estilo cartoon, texturas detalhadas nos alimentos, movimentos fluidos dos personagens, iluminação realista, transições de câmera bonitas e qualidade premium de animação 3D inspirada na Pixar. Mantenha a aparência dos personagens consistente durante todo o vídeo, sem duplicação de personagens, deformações ou falhas visuais.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116402410939953152/img/TVH4s-ff4Ws4U4x-.jpg" width="600" alt="Comédia do Jantar Romântico ao Lanche da Meia-Noite">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13215)**
-
-**Autor:** [liana](https://x.com/Lianaalane) | **Fonte:** [Link](https://x.com/Lianaalane/status/2116402455315718306) | **Publicado:** Oct 31, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -9651,6 +9651,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-25T03:45:12.749Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-25T14:20:40.277Z</sub>
 
 </div>

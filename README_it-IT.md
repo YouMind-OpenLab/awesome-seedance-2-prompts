@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6720** |
+| 📝 Totale prompt | **6721** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-11-25** |
 
@@ -361,6 +361,25 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Prompt di Volo dell'Aquila Dorata Maestosa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per una scena fantasy cinematografica che raffigura un'aquila dorata gigantesca e maestosa in volo tra le nuvole temporalesche, con illuminazione volumetrica e movimento realistico delle piume.
+
+#### 📝 Prompt
+
+```
+Una scena fantasy cinematografica mozzafiato con una gigantesca e maestosa aquila reale che vola attraverso un cielo misterioso, solcato da imponenti nubi temporalesche scure. L'aquila sfoggia ali enormi e possenti, piume dorate e brune dai dettagli straordinari, uno sguardo penetrante e un'apertura alare impressionante. Mentre emerge dalle nuvole oscure, una calda luce dorata del sole ne illumina il piumaggio. La telecamera la segue da dietro mentre distende le ali e plana con grazia sopra un vasto paesaggio verde. Lampi squarciano le nuvole in lontananza, creando un'atmosfera drammatica. Riprese aeree spettacolari, movimento realistico delle piume, nuvole volumetriche, illuminazione cinematografica, tracking fluido della telecamera, CGI fotorealistico, atmosfera fantasy epica, qualità cinematografica 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125212810812760064/img/J2OGd7gQceL4Ntdn.jpg" width="600" alt="Prompt di Volo dell'Aquila Dorata Maestosa">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=14155)**
+
+**Autore:** [Draaven](https://x.com/draavenai) | **Fonte:** [Link](https://x.com/draavenai/status/2125228862774669606) | **Pubblicato:** Nov 24, 2026
+
+---
 ### Sequenza cinematografica di vlog di viaggio
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9492,25 +9511,6 @@ Video verticale ambientato in una stanza vuota con pareti bianche e un'ampia fin
 **Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2116425542874378504) | **Pubblicato:** Oct 31, 2026
 
 ---
-### Commedia: dalla cena romantica allo spuntino di mezzanotte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per creare un video comico animato in 3D di alta qualità, che ritrae una cena romantica di coppia seguita da un'avventura umoristica a mezzanotte alla ricerca di cibo a casa.
-
-#### 📝 Prompt
-
-```
-Crea un video comico in animazione 3D di alta qualità e dal taglio cinematografico, con una giovane coppia adorabile che si gode una cena romantica in un elegante ristorante di lusso. Il bel ragazzo indossa uno smoking nero alla moda, mentre la bellissima ragazza sfoggia un glamour abito da sera nero con i capelli raccolti in un raffinato chignon. Siedono insieme a un tavolo splendidamente decorato, illuminato da una calda luce dorata, gustando un delizioso tacchino arrosto con patatine croccanti e verdure. La ragazza gli offre scherzosamente un boccone e i due si scambiano dolci sorrisi romantici. Dopo cena, la coppia torna a casa in auto attraversando una splendida città notturna, con lampioni luminosi e affascinanti edifici sullo sfondo. Arrivata alla sua lussuosa abitazione, la ragazza entra silenziosamente e si dirige subito in cucina. Apre il frigorifero e afferra con entusiasmo un enorme tacchino arrosto, patatine in sacchetto, cioccolatini, biscotti, hamburger e una montagna di snack golosissimi. Nella scena successiva, è comodamente seduta su un divano di lusso circondata da montagne di cibo spazzatura, intenta a divorare tutto felicemente con un gran sorriso stampato in faccia. Chiudi con un'ampia inquadratura cinematografica che riveli l'intero salotto invaso da snack e cibo, dando vita a una scena esilarante e tenerissima di fame chimica notturna. Utilizza espressioni facciali animate in stile cartoon, texture dettagliate per il cibo, movimenti fluidi dei personaggi, illuminazione realistica, transizioni di camera eleganti e una qualità di animazione 3D premium ispirata allo stile Pixar. Mantieni l'aspetto dei personaggi coerente per tutta la durata del video, evitando duplicazioni, deformazioni (morphing) o difetti visivi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116402410939953152/img/TVH4s-ff4Ws4U4x-.jpg" width="600" alt="Commedia: dalla cena romantica allo spuntino di mezzanotte">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13215)**
-
-**Autore:** [liana](https://x.com/Lianaalane) | **Fonte:** [Link](https://x.com/Lianaalane/status/2116402455315718306) | **Pubblicato:** Oct 31, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -9572,6 +9572,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-25T03:45:11.410Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-25T14:20:38.869Z</sub>
 
 </div>
