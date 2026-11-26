@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6721** |
+| 📝 Total des prompts | **6726** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-11-26** |
 
@@ -361,6 +361,127 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Timelapse de construction d'un pont miniature
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer un timelapse réaliste de construction DIY d'un pont miniature moderne avec des détails cinématographiques.
+
+#### 📝 Prompt
+
+```
+Découvrez la naissance d'un magnifique pont moderne miniature à travers une construction DIY ultra-réaliste, une ingénierie de précision, un timelapse captivant et des détails cinématographiques à couper le souffle.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125821550784106496/img/oQWt_DBayLdkaPwp.jpg" width="600" alt="Timelapse de construction d'un pont miniature">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14165)**
+
+**Auteur:** [Olivia Rose](https://x.com/OliviaRose10un) | **Source:** [Link](https://x.com/OliviaRose10un/status/2125822470519472466) | **Publié:** Nov 26, 2026
+
+---
+### Prompt Vidéo Publicitaire Soins de la Peau Luxe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt complet pour créer une publicité de soins de la peau haut de gamme, avec plusieurs scènes montrant l'application et la présentation du produit.
+
+#### 📝 Prompt
+
+```
+Créez une publicité ultra-réaliste pour des soins de la peau de luxe, mettant en scène une belle jeune femme est-asiatique à la peau naturellement lumineuse et aux cheveux sombres élégamment coiffés en un chignon souple.
+
+Scène 1 : Plan beauté rapproché soulignant sa peau nette et rosée ainsi que la délicatesse de ses traits.
+
+Scène 2 : Assise devant une coiffeuse blanche minimaliste dans une pièce lumineuse et raffinée, elle observe doucement sa peau.
+
+Scène 3 : Gros plan sur ses mains déposant quelques gouttes d'un sérum visage transparent dans le creux de sa paume.
+
+Scène 4 : Plans macro détaillés de ses mains massant délicatement les soins pour les faire pénétrer dans sa peau.
+
+Scène 5 : Elle ferme les yeux et masse tendrement ses joues, révélant une peau fraîche, éclatante et parfaitement hydratée.
+
+Scène 6 : Une magnifique robe en soie blanche, des rideaux fluides et une douce lumière naturelle du soleil créent une atmosphère luxueuse et élégante, digne des plus grandes campagnes beauté.
+
+Scène 7 : Elle sourit avec douceur tout en présentant face caméra un flacon de sérum transparent.
+
+Scène finale : Un flacon de sérum en verre haut de gamme posé sur une surface en marbre, entouré de fleurs délicates et baigné de reflets subtils.
+
+Style : Publicité pour soins de la peau de luxe, rendu photoréaliste, éclairage beauté cinématographique, esthétique épurée aux tons blancs, lumière naturelle douce, texture de peau authentique, qualité publicitaire 4K, mouvements de caméra fluides, transitions élégantes, campagne de marque cosmétique premium.
+
+Format : Vertical 9:16.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795672028283_x11e81_HYBpa2BaEAAmyEh.jpg" width="600" alt="Prompt Vidéo Publicitaire Soins de la Peau Luxe">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14167)**
+
+**Auteur:** [Rubi](https://x.com/AIwithRubii) | **Source:** [Link](https://x.com/AIwithRubii/status/2125814942603563083) | **Publié:** Nov 26, 2026
+
+---
+### Bataille entre un Chevalier et un Monstre de Lave
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour une scène de bataille médiévale fantastique au style cinématographique sombre, mettant en scène un chevalier affrontant un monstre géant alimenté par la lave.
+
+#### 📝 Prompt
+
+```
+Une bataille de dark fantasy médiévale à l'esthétique cinématographique, dans une terre désolée en ruines sous un ciel gris et nuageux. Un chevalier solitaire et intrépide, vêtu d'une armure noire usée par le temps et d'une cape doublée de fourrure, se tient debout, épée longue au poing, face à un monstre colossal cuirassé alimenté par la lave. Le corps de la créature est recouvert d'une sombre armure de pierre parcourue de fissures de magma incandescent orangé ; ses yeux sont embrasés et ses membres démesurément puissants. En arrière-plan, plusieurs guerriers ténébreux encerclent le chevalier. Ce dernier lève lentement son épée tandis que le monstre géant fait un pas en avant, faisant trembler le sol. Poussière, fumée et débris envahissent le champ de bataille. Plongées et contre-plongées dramatiques, textures d'armure réalistes, ralenti cinématographique, échelle épique, atmosphère de dark fantasy, brouillard volumétrique, CGI ultra-détaillé, photoréaliste, qualité cinéma 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125631900031270913/img/8hMv7DTd3WO_Ys3g.jpg" width="600" alt="Bataille entre un Chevalier et un Monstre de Lave">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14169)**
+
+**Auteur:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2125631977210720296) | **Publié:** Nov 25, 2026
+
+---
+### Prompt Vidéo : Jardin Magique de Princesse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour créer une expérience cinématographique fantastique d'une princesse explorant un jardin royal magique avec des papillons lumineux.
+
+#### 📝 Prompt
+
+```
+Une magnifique princesse explore un jardin royal enchanté, entourée de papillons lumineux, de roses poudrées, de cascades scintillantes et d'un palais grandiose, pour une expérience cinématographique fantastique à couper le souffle.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125559517576572928/img/PrZ2BV17AA-n7kfU.jpg" width="600" alt="Prompt Vidéo : Jardin Magique de Princesse">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14168)**
+
+**Auteur:** [Olivia Rose](https://x.com/OliviaRose10un) | **Source:** [Link](https://x.com/OliviaRose10un/status/2125559698011373647) | **Publié:** Nov 25, 2026
+
+---
+### Prompt vidéo pour publicité de parfum de luxe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour générer une publicité de parfum de luxe ultra-réaliste mettant en scène une femme élégante et des plans cinématographiques.
+
+#### 📝 Prompt
+
+```
+Créez une publicité de parfum de luxe ultra-réaliste mettant en scène une jeune femme élégante aux cheveux brun foncé lisses, attachés en queue-de-cheval haute, vêtue d'une tenue blanche sophistiquée sans manches et à col montant. Elle tient avec grâce un luxueux flacon de parfum en verre transparent orné de détails dorés et coiffé d'un bouchon couleur crème.
+
+Les transitions entre les plans comprennent des gros plans sur son visage, ses mains délicates tenant le parfum, une vaporisation légère et gracieuse, des plans produits élégants sur un socle en pierre beige, ainsi que le flacon reposant dans le creux de sa paume.
+
+Arrière-plan : Studio minimaliste aux tons beiges chaleureux, baigné d'une douce lumière naturelle du soleil, avec des ombres subtiles et une atmosphère éditoriale haut de gamme.
+
+Caméra : Plans macro cinématographiques, mouvements au ralenti, transitions fluides, faible profondeur de champ, esthétique publicitaire professionnelle de beauté de luxe, qualité 4K photoréaliste. Veillez à maintenir une cohérence parfaite du design du produit et de l'apparence du modèle tout au long de la vidéo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125469669482184704/img/IksiCro654dFD_qZ.jpg" width="600" alt="Prompt vidéo pour publicité de parfum de luxe">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14166)**
+
+**Auteur:** [Rubi](https://x.com/AIwithRubii) | **Source:** [Link](https://x.com/AIwithRubii/status/2125469696275497437) | **Publié:** Nov 25, 2026
+
+---
 ### Prompt de vol d'aigle royal majestueux
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9212,101 +9333,6 @@ Vidéo au format vertical, style photoréaliste, pièce vide et lumineuse aux mu
 **Auteur:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **Publié:** Nov 1, 2026
 
 ---
-### Sol de chambre à coucher terrazzo avec tranches de concombre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une vidéo de rénovation hyper-réaliste où des tranches de concombre sont utilisées comme agrégat dans un sol en résine blanche, transformant l'espace en une chambre à coucher luxueuse.
-
-#### 📝 Prompt
-
-```
-Vidéo verticale dans une pièce vide et lumineuse aux murs blancs, avec un sol en béton brut et une grande fenêtre baignée de lumière naturelle. Un homme vêtu d'une salopette orange et d'un t-shirt noir ratisse un énorme tas de rondelles de concombre fraîches, les étalant en une couche plate et uniforme sur toute la surface du sol. Une femme en salopette rouge vient le rejoindre et ils versent ensemble une épaisse résine blanche depuis des seaux sur les rondelles, l'étalant à l'aide de raclettes jusqu'à ce que chaque tranche soit entièrement immergée sous une surface blanche et brillante. Une équipe portant des gilets jaunes haute visibilité et des casques antibruit meule et polit ensuite le sol à l'aide de machines, aspire la poussière et ponce la surface pour révéler des rondelles de concombre translucides incrustées dans le sol blanc façon terrazzo, telles des pois verts. Un ouvrier en salopette orange s'agenouille pour essuyer le sol à la main pendant que les polisseuses lui confèrent un éclat miroir. Enfin, deux déménageurs apportent un lit beige paré de draps blancs ainsi qu'une table de chevet ronde en bois ornée d'un vase et de livres, transformant l'espace en une chambre de designer minimaliste. Plan final esthétique : lent panoramique sur le sol blanc brillant parsemé de rondelles de concombre incrustées, douce lumière naturelle, rénovation satisfaisante façon ASMR, détails photoréalistes, mouvement de caméra cinématographique fluide.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116879474146820096/img/9EVrV0bsiBxieDBp.jpg" width="600" alt="Sol de chambre à coucher terrazzo avec tranches de concombre">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13367)**
-
-**Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116879515527905597) | **Publié:** Nov 1, 2026
-
----
-### Vidéo de rénovation d'un sol en terrazzo Jelly Bean
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une vidéo de rénovation réaliste où des bonbons Jelly Bean sont étalés sur le sol et recouverts de résine époxy pour créer un effet terrazzo coloré, se terminant par l'aménagement du mobilier de la chambre.
-
-#### 📝 Prompt
-
-```
-Un homme vêtu d'une salopette en jean bleu et d'un t-shirt gris ratisse une immense montagne de jelly beans colorés sur le sol nu d'une pièce blanche, vide et lumineuse, percée d'une grande fenêtre baignée de soleil. Il étale les bonbons vers l'extérieur pour former une couche parfaitement uniforme qui recouvre l'intégralité du sol. Ensuite, une femme en salopette rouge verse une épaisse résine époxy blanche et brillante depuis un grand seau directement sur les confiseries ; le liquide laiteux s'écoule et se répand jusqu'à recouvrir entièrement les jelly beans d'un bord à l'autre. Un ouvrier portant un gilet de sécurité jaune passe alors une large raclette sur la surface, puis la lustre à l'aide d'une polisseuse à sol, révélant un plancher transparent à l'éclat miroir dans lequel des milliers de bonbons éclatants sont suspendus, comme un terrazzo multicolore. Enfin, deux déménageurs en t-shirts et casquettes noirs apportent un cadre de lit en bois, l'assemblent et y installent un matelas, des oreillers blancs et une literie crème, achevant ainsi une chambre douillette au-dessus de ce sol de bonbons. Une lumière chaude du soleil traverse la fenêtre, les reflets dansent sur la surface polie, rendu photoréaliste, plans fluides et continus, vidéo satisfaisante de transformation et de rénovation.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116534129743282176/img/4h_0ekgG8AglI3M-.jpg" width="600" alt="Vidéo de rénovation d'un sol en terrazzo Jelly Bean">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13293)**
-
-**Auteur:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116534169773723824) | **Publié:** Oct 31, 2026
-
----
-### Vidéo de Peinture Chrome Liquide Effet Miroir sur Porte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une vidéo DIY photoréaliste où un homme peint une porte intérieure avec de la peinture chrome liquide, la transformant en une surface miroir parfaitement réfléchissante.
-
-#### 📝 Prompt
-
-```
-Vidéo verticale photoréaliste dans l'intérieur lumineux d'une maison moderne. Un homme vêtu d'un t-shirt gris ajusté, d'un jean bleu et d'une smartwatch est agenouillé sur une bâche plastique délimitée par du ruban adhésif jaune. Il plonge un gros pinceau jaune et noir dans un pot ouvert de chrome liquide épais, tout en jetant un œil à son smartphone. Plan très rapproché : la peinture argentée fondue s'égoutte lentement des poils pour retomber dans le pot dont la surface miroitante ondule. Cut vers une porte intérieure blanche à six panneaux : sa main balaie un panneau avec le pinceau, et le chrome liquide se déploie en une finition miroir parfaitement réfléchissante et sans défaut, chaque passage fluide recouvrant un peu plus de surface. Une succession de plans montre les panneaux, les montants et les chants en train d'être peints, jusqu'à ce que la porte entière brille comme du métal poli, reflétant les lumières du plafond et la pièce qui l'entoure. Plan large final : la porte achevée forme un miroir parfait où l'on distingue l'homme tenant son téléphone et son pinceau, une caméra sur trépied ainsi que le couloir derrière lui. Transformation DIY ultra-satisfaisante, lumière naturelle du jour, textures nettes, reflets métalliques réalistes, caméra à l'épaule stable avec de lents travellings avant sur les coups de pinceau.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116533216941101056/img/yCgCLf7sk1HLopxM.jpg" width="600" alt="Vidéo de Peinture Chrome Liquide Effet Miroir sur Porte">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13292)**
-
-**Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116533263543984512) | **Publié:** Oct 31, 2026
-
----
-### Transformation de Sol en Résine Époxy Motif Tournesol
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une vidéo verticale satisfaisante montrant la création étape par étape d'un sol en résine époxy motif tournesol dans une chambre à coucher.
-
-#### 📝 Prompt
-
-```
-Vidéo verticale dans une pièce vide et lumineuse aux murs blancs, dotée d'une grande fenêtre et d'un plancher en bois brut. Un homme vêtu d'une salopette bleue et de gants de travail ratisse un grand tas de tournesols frais, les répartissant uniformément sur toute la surface du sol par de larges mouvements fluides, jusqu'à ce que la pièce entière soit recouverte de fleurs. Deux femmes en salopettes rouges apportent ensuite des seaux blancs et y versent une résine époxy blanche, épaisse et crémeuse, sur les tournesols ; le liquide s'étale lentement et submerge peu à peu les fleurs. Puis, un ouvrier portant un gilet haute visibilité polit la surface durcie à l'aide d'une monobrosse, révélant un sol en résine transparente et brillante où les tournesols éclatants sont incrustés, comme un champ figé sous verre. Enfin, deux femmes installent un cadre de lit en bois, posent le matelas, disposent une couette et des oreillers blancs, puis ajoutent des tables de nuit équipées de lampes à la lumière chaleureuse. La vidéo se termine par un panoramique lent sur cette chambre douillette enfin achevée : la lumière du soleil inonde la pièce à travers la fenêtre, tandis que le sol miroir orné de tournesols reflète le lit. Style réaliste, mouvements de caméra fluides, transformation étape par étape particulièrement satisfaisante, lumière naturelle éclatante, niveau de détail élevé.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116426390618697728/img/vsk1exATGuXDM7K5.jpg" width="600" alt="Transformation de Sol en Résine Époxy Motif Tournesol">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13295)**
-
-**Auteur:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116426434025504817) | **Publié:** Oct 31, 2026
-
----
-### Vidéo de sol en terrazzo de noix de coco pour chambre à coucher
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour créer une vidéo de rénovation qui transforme un tas de noix de coco et du lait de coco en un sol en terrazzo élégant pour une chambre à thème tropical.
-
-#### 📝 Prompt
-
-```
-Vidéo verticale à l'intérieur d'une pièce vide aux murs blancs, dotée d'une grande fenêtre donnant sur de luxuriants palmiers tropicaux. Un homme en salopette en jean ratisse un immense tas de centaines de noix de coco brunes et les répartit uniformément sur le sol en béton brut jusqu'à former une couche dense. Une femme en salopette rouge verse ensuite un lait de coco blanc, épais et crémeux, depuis un grand seau : le liquide inonde le sol et recouvre les noix de coco d'une fine pellicule blanche et lisse. Ensuite, un ouvrier vêtu d'un gilet jaune haute visibilité pousse une ponceuse-polisseuse de sol pour poncer la surface durcie, révélant ainsi un terrazzo brillant incrusté de rondelles de noix de coco coupées en tranches. Enfin, deux déménageurs en uniforme noir apportent un cadre de lit en bois, y posent un matelas et dressent le lit avec des draps et des oreillers d'un blanc immaculé. La vidéo s'achève sur la révélation d'une chambre lumineuse et élégante, mettant en valeur ce terrazzo de noix de coco poli si singulier qui reflète la lumière de la fenêtre. Transitions fluides et réalistes, lumière naturelle du jour, style de transformation de chantier ultra-satisfaisant, détails photoréalistes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116425489967411200/img/eISADImu1dHFuzRh.jpg" width="600" alt="Vidéo de sol en terrazzo de noix de coco pour chambre à coucher">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13294)**
-
-**Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116425542874378504) | **Publié:** Oct 31, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -9368,6 +9394,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-26T00:17:48.785Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-26T08:19:42.550Z</sub>
 
 </div>

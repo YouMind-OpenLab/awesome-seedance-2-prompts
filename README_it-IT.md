@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6721** |
+| 📝 Totale prompt | **6726** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-11-26** |
 
@@ -361,6 +361,127 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Timelapse della Costruzione di un Ponte in Miniatura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare un timelapse realistico di una costruzione fai-da-te di un moderno ponte in miniatura con dettagli cinematografici.
+
+#### 📝 Prompt
+
+```
+Guarda un incredibile ponte moderno in miniatura prendere vita grazie a una costruzione fai-da-te realistica, un'ingegneria di precisione, un timelapse appagante e dettagli cinematografici mozzafiato.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125821550784106496/img/oQWt_DBayLdkaPwp.jpg" width="600" alt="Timelapse della Costruzione di un Ponte in Miniatura">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=14165)**
+
+**Autore:** [Olivia Rose](https://x.com/OliviaRose10un) | **Fonte:** [Link](https://x.com/OliviaRose10un/status/2125822470519472466) | **Pubblicato:** Nov 26, 2026
+
+---
+### Prompt Video Commerciale Skincare di Lusso
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt completo per creare un annuncio pubblicitario di skincare di lusso con più scene che mostrano l'applicazione e la presentazione del prodotto.
+
+#### 📝 Prompt
+
+```
+Crea uno spot ultra-realistico per una linea di skincare di lusso, con protagonista una bellissima giovane donna dell'Asia orientale dalla pelle naturalmente luminosa e gli eleganti capelli scuri raccolti in un morbido chignon.
+
+Scena 1: Beauty shot in primo piano che esalta la sua pelle limpida e rugiadosa e i lineamenti delicati del viso.
+
+Scena 2: È seduta davanti a una consolle bianca dal design minimalista, in una stanza luminosa ed elegante, mentre osserva dolcemente la propria pelle.
+
+Scena 3: Primo piano delle sue mani mentre versa qualche goccia di siero viso trasparente sul palmo.
+
+Scena 4: Dettagliate riprese macro delle mani che massaggiano delicatamente i prodotti skincare sulla pelle.
+
+Scena 5: Chiude gli occhi e accarezza le guance con movimenti leggeri, mostrando una pelle fresca, radiosa e perfettamente idratata.
+
+Scena 6: Un bellissimo abito di seta bianca, tende fluttuanti e una morbida luce naturale creano un'atmosfera di bellezza raffinata e lussuosa.
+
+Scena 7: Sorride dolcemente mentre mostra verso la camera il flacone trasparente del siero skincare.
+
+Scena finale: Un pregiato flacone di vetro del siero esposto su una superficie in marmo, circondato da fiori delicati e morbidi riflessi.
+
+Stile: Pubblicità skincare di lusso, fotorealistica, illuminazione cinematografica beauty, estetica pulita sui toni del bianco, luce naturale diurna, texture della pelle naturale, qualità commerciale 4K, movimenti di camera fluidi, transizioni eleganti, campagna per brand cosmetico premium.
+
+Formato: Verticale 9:16.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795672028283_x11e81_HYBpa2BaEAAmyEh.jpg" width="600" alt="Prompt Video Commerciale Skincare di Lusso">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=14167)**
+
+**Autore:** [Rubi](https://x.com/AIwithRubii) | **Fonte:** [Link](https://x.com/AIwithRubii/status/2125814942603563083) | **Pubblicato:** Nov 26, 2026
+
+---
+### Battaglia tra Cavaliere e Mostro di Lava
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per una scena di battaglia fantasy medievale cinematografica e cupa, che mostra un cavaliere contro un gigante mostro alimentato dalla lava.
+
+#### 📝 Prompt
+
+```
+Una cupa battaglia fantasy medievale in stile cinematografico, ambientata in una landa desolata e in rovina sotto un cielo grigio e nuvoloso. Un cavaliere solitario e impavido, con un'armatura nera logorata dal tempo e un mantello foderato di pelliccia, impugna una spada lunga fronteggiando un gigantesco mostro corazzato alimentato dalla lava. Il corpo della creatura è ricoperto da una scura armatura di pietra attraversata da crepe di magma arancione incandescente, con occhi infuocati e arti enormi e possenti. Sullo sfondo, diversi guerrieri ombra circondano il cavaliere. Questi solleva lentamente la spada mentre il colossale mostro avanza, facendo tremare la terra. Polvere, fumo e detriti invadono il campo di battaglia. Riprese drammatiche dal basso, texture realistiche delle armature, slow motion cinematografico, scala epica, atmosfera dark fantasy, nebbia volumetrica, CGI ad altissimo livello di dettaglio, fotorealistico, qualità cinematografica 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125631900031270913/img/8hMv7DTd3WO_Ys3g.jpg" width="600" alt="Battaglia tra Cavaliere e Mostro di Lava">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=14169)**
+
+**Autore:** [Draaven](https://x.com/draavenai) | **Fonte:** [Link](https://x.com/draavenai/status/2125631977210720296) | **Pubblicato:** Nov 25, 2026
+
+---
+### Prompt Video Giardino Magico della Principessa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per creare un'esperienza cinematografica fantasy di una principessa che esplora un giardino reale magico con farfalle luminose.
+
+#### 📝 Prompt
+
+```
+Una splendida principessa esplora un magico giardino reale, circondata da farfalle luminose, rose rosa, cascate scintillanti e un magnifico palazzo, dando vita a un'esperienza cinematografica fantasy mozzafiato.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125559517576572928/img/PrZ2BV17AA-n7kfU.jpg" width="600" alt="Prompt Video Giardino Magico della Principessa">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=14168)**
+
+**Autore:** [Olivia Rose](https://x.com/OliviaRose10un) | **Fonte:** [Link](https://x.com/OliviaRose10un/status/2125559698011373647) | **Pubblicato:** Nov 25, 2026
+
+---
+### Prompt per Video Commerciale di Profumi di Lusso
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per generare un video commerciale ultra-realistico di profumi di lusso, con una donna elegante e inquadrature cinematografiche.
+
+#### 📝 Prompt
+
+```
+Crea uno spot ultra-realistico per un profumo di lusso con protagonista una giovane donna elegante, dai lisci capelli castano scuro raccolti in una coda alta, che indossa un raffinato abito bianco senza maniche e dal collo alto. Con grazia, regge un lussuoso flacone di profumo in vetro trasparente impreziosito da dettagli dorati e un tappo color crema.
+
+I cambi di scena includono primi piani del suo viso, le mani delicate che stringono il profumo, una leggera vaporizzazione della fragranza, eleganti inquadrature del prodotto su un piedistallo in pietra beige e il flacone adagiato nel palmo della sua mano.
+
+Sfondo: studio minimalista dalle calde tonalità beige, illuminato da una morbida luce solare naturale, con ombre delicate e un'atmosfera editoriale premium.
+
+Riprese: macro cinematografiche, movimenti al rallentatore, transizioni fluide, profondità di campo ridotta, stile pubblicitario professionale tipico dei beauty brand di lusso, qualità fotorealistica in 4K. Mantieni coerenti il design del prodotto e l'aspetto della modella per tutta la durata del video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125469669482184704/img/IksiCro654dFD_qZ.jpg" width="600" alt="Prompt per Video Commerciale di Profumi di Lusso">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=14166)**
+
+**Autore:** [Rubi](https://x.com/AIwithRubii) | **Fonte:** [Link](https://x.com/AIwithRubii/status/2125469696275497437) | **Pubblicato:** Nov 25, 2026
+
+---
 ### Prompt di Volo dell'Aquila Dorata Maestosa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9416,101 +9537,6 @@ Video verticale, stile fotorealistico, stanza luminosa e vuota con pareti bianch
 **Autore:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **Pubblicato:** Nov 1, 2026
 
 ---
-### Pavimento della Camera da Letto Terrazzo con Fette di Cetriolo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per generare un video di ristrutturazione iperrealistico in cui le fette di cetriolo vengono utilizzate come aggregato in un pavimento in resina bianca, trasformandosi in una camera da letto di lusso.
-
-#### 📝 Prompt
-
-```
-Video verticale in una stanza vuota e luminosa con pareti bianche, pavimento in cemento grezzo e un'ampia finestra da cui entra la luce del giorno. Un uomo in tuta arancione e maglietta nera rastrella un enorme cumulo di fette di cetriolo fresco, distribuendole fino a formare uno strato piatto e uniforme su tutto il pavimento. Una donna in tuta rossa lo raggiunge e insieme versano delle secchiate di resina bianca densa sulle fette, stendendola con delle spatole finché ogni fetta non è completamente sommersa sotto una superficie bianca e lucida. Una squadra con gilet gialli ad alta visibilità e cuffie antirumore leviga e lucida quindi il pavimento con le macchine e aspira la polvere, carteggiando la superficie per rivelare le fette di cetriolo traslucide incastonate nel pavimento bianco, simile al terrazzo, come pois verdi. Un operaio in tuta arancione si inginocchia per pulire il pavimento a mano, mentre le lucidatrici gli conferiscono una brillantezza a specchio. Infine, due traslocatori portano dentro un letto beige con lenzuola bianche e un comodino rotondo in legno con un vaso e dei libri, trasformando lo spazio in una camera da letto dal design minimalista. Inquadratura finale d'effetto: lenta panoramica sul pavimento bianco e lucido punteggiato dalle fette di cetriolo incastonate, luce naturale morbida, ristrutturazione appagante in stile ASMR, dettagli fotorealistici, movimento di macchina fluido e cinematografico.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116879474146820096/img/9EVrV0bsiBxieDBp.jpg" width="600" alt="Pavimento della Camera da Letto Terrazzo con Fette di Cetriolo">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13367)**
-
-**Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2116879515527905597) | **Pubblicato:** Nov 1, 2026
-
----
-### Video di Ristrutturazione del Pavimento Terrazzo con Jelly Bean
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per generare un video realistico di ristrutturazione in cui i Jelly Bean sono sparsi sul pavimento e ricoperti con resina epossidica per creare un effetto terrazzo colorato, terminando con l'allestimento dei mobili della camera da letto.
-
-#### 📝 Prompt
-
-```
-Un uomo in salopette di jeans blu e t-shirt grigia rastrella un'enorme montagna di jelly beans colorati sul pavimento nudo di una stanza bianca, luminosa e vuota, con una grande finestra inondata di sole, distribuendo le caramelle verso l'esterno fino a formare uno strato perfettamente uniforme che ricopre l'intera superficie. Subito dopo, una donna in salopette rossa versa da un grosso secchio una densa e lucida resina epossidica bianca sulle caramelle: il liquido lattiginoso scorre e si espande fino a ricoprire completamente i jelly beans da un bordo all'altro. Un operaio con un gilet di sicurezza giallo passa poi una spatola larga sulla superficie e la lucida con una monospazzola, rivelando un pavimento trasparente dall'effetto specchio con migliaia di caramelle vivaci sospese al suo interno, come in un terrazzo alla veneziana multicolore. Infine, due traslocatori in maglietta e cappellino neri portano dentro la struttura di un letto in legno, la montano e la completano con un materasso, cuscini bianchi e lenzuola color crema, dando vita a un'accogliente camera da letto proprio sopra il pavimento di caramelle. La calda luce del sole filtra dalla finestra, i riflessi danzano sulla superficie lucida, fotorealistico, riprese fluide e continue, video soddisfacente di trasformazione e ristrutturazione.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116534129743282176/img/4h_0ekgG8AglI3M-.jpg" width="600" alt="Video di Ristrutturazione del Pavimento Terrazzo con Jelly Bean">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13293)**
-
-**Autore:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2116534169773723824) | **Pubblicato:** Oct 31, 2026
-
----
-### Video della verniciatura di una porta con effetto specchio cromo liquido
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per generare un video DIY fotorealistico in cui un uomo vernicia una porta interna con vernice cromo liquido, trasformandola in una superficie a specchio perfettamente riflettente.
-
-#### 📝 Prompt
-
-```
-Video verticale fotorealistico ambientato in un luminoso interno domestico moderno. Un uomo con una t-shirt grigia aderente, jeans blu e smartwatch è inginocchiato su un telo di plastica protettivo delimitato da nastro giallo: immerge un grande pennello giallo e nero in un barattolo aperto di cromo liquido denso, dando nel frattempo un'occhiata allo smartphone. Primissimo piano: la vernice color argento fuso cola lentamente dalle setole, ricadendo nel barattolo che increspa la superficie come uno specchio. Stacco su una porta interna bianca a sei pannelli: la mano fa scorrere il pennello su un pannello e il cromo liquido si espande creando una finitura a specchio riflettente e impeccabile; ogni passata fluida copre una porzione sempre maggiore di superficie. Una sequenza di inquadrature mostra i pannelli, i montanti e i bordi mentre vengono verniciati, fino a quando l'intera porta risplende come metallo lucidato, riflettendo le luci del soffitto e la stanza circostante. Campo lungo finale: la porta completata è uno specchio perfetto che restituisce l'immagine dell'uomo con telefono e pennello in mano, di una fotocamera su treppiede e del corridoio alle sue spalle. Trasformazione fai-da-te appagante, luce naturale del giorno, texture nitide, riflessi metallici realistici, camera a mano stabile con lente carrellate in avanti sulle pennellate.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116533216941101056/img/yCgCLf7sk1HLopxM.jpg" width="600" alt="Video della verniciatura di una porta con effetto specchio cromo liquido">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13292)**
-
-**Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2116533263543984512) | **Pubblicato:** Oct 31, 2026
-
----
-### Trasformazione del Pavimento in Resina Epossidica con Girasoli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per generare un video verticale soddisfacente che mostra la creazione passo dopo passo di un pavimento in resina epossidica con girasoli in una camera da letto.
-
-#### 📝 Prompt
-
-```
-Video verticale in una stanza vuota e luminosa con pareti bianche, un'ampia finestra e un sottofondo in legno grezzo. Un uomo con tuta blu e guanti da lavoro rastrella un grande mucchio di girasoli freschi, distribuendoli uniformemente su tutto il pavimento con movimenti ampi e fluidi, fino a ricoprire interamente la stanza di fiori. Due donne in tuta rossa portano poi dei secchi bianchi e versano sui girasoli una densa resina epossidica bianca e cremosa: il liquido si espande verso l'esterno, sommergendo lentamente i fiori. Successivamente, un operaio con gilet ad alta visibilità leviga la superficie indurita con una monospazzola rotante, rivelando un pavimento in resina trasparente e lucida con vividi girasoli incastonati all'interno, come un campo congelato sotto il vetro. Infine, due donne trasportano una struttura del letto in legno, posizionano il materasso, sistemano un piumone bianco e i cuscini, e aggiungono dei comodini con lampade dalla luce calda. Il video si chiude con una lenta panoramica sulla camera da letto accogliente appena completata, con la luce del sole che entra dalla finestra e il pavimento di girasoli, simile a uno specchio, che riflette il letto. Stile realistico, movimenti di camera fluidi, trasformazione passo dopo passo appagante, luce naturale intensa, elevato livello di dettaglio.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116426390618697728/img/vsk1exATGuXDM7K5.jpg" width="600" alt="Trasformazione del Pavimento in Resina Epossidica con Girasoli">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13295)**
-
-**Autore:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2116426434025504817) | **Pubblicato:** Oct 31, 2026
-
----
-### Video Pavimento Terrazzo Noce di Cocco Camera da Letto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per creare un video di ristrutturazione che trasforma una pila di noci di cocco e latte di cocco in un elegante pavimento in terrazzo per una camera da letto a tema tropicale.
-
-#### 📝 Prompt
-
-```
-Video verticale ambientato in una stanza vuota con pareti bianche e un'ampia finestra che si affaccia su rigogliose palme tropicali. Un uomo in salopette di jeans rastrella un enorme cumulo di centinaia di noci di cocco marroni, distribuendole uniformemente sul pavimento di cemento nudo fino a formare uno strato compatto. Una donna in salopette rossa versa poi del denso e cremoso latte di cocco bianco da un grande secchio, allagando il pavimento e ricoprendo le noci di cocco con un liscio strato bianco. Successivamente, un operaio con un gilet ad alta visibilità giallo spinge una macchina per levigare e lucidare pavimenti, carteggiando la superficie indurita per rivelare un lucido pavimento in terrazzo con incastonate fette di noce di cocco tagliate trasversalmente. Infine, due traslocatori in uniforme nera portano dentro una struttura del letto in legno, posizionano un materasso e rifanno il letto con lenzuola e cuscini bianchi e freschi di bucato. Il video si conclude con la rivelazione di una camera da letto luminosa e dal design ricercato, che mette in risalto l'esclusivo pavimento in terrazzo di cocco lucidato che riflette la luce proveniente dalla finestra. Transizioni fluide e realistiche, luce naturale diurna, stile appagante da trasformazione edilizia, dettagli fotorealistici.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116425489967411200/img/eISADImu1dHFuzRh.jpg" width="600" alt="Video Pavimento Terrazzo Noce di Cocco Camera da Letto">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13294)**
-
-**Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2116425542874378504) | **Pubblicato:** Oct 31, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -9572,6 +9598,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-26T00:17:49.917Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-26T08:19:43.853Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6721** |
+| 📝 Tổng số prompt | **6726** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-11-26** |
 
@@ -361,6 +361,127 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Timelapse Xây Dựng Cầu Thu Nhỏ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video timelapse xây dựng cầu hiện đại thu nhỏ theo phong cách DIY chân thực với các chi tiết điện ảnh.
+
+#### 📝 Prompt
+
+```
+Chiêm ngưỡng quá trình một cây cầu hiện đại thu nhỏ tuyệt đẹp dần thành hình qua kỹ thuật thi công DIY chân thực, độ chính xác cơ khí hoàn hảo, video timelapse mãn nhãn cùng những thước phim điện ảnh đẹp đến nghẹt thở.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125821550784106496/img/oQWt_DBayLdkaPwp.jpg" width="600" alt="Timelapse Xây Dựng Cầu Thu Nhỏ">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14165)**
+
+**Tác giả:** [Olivia Rose](https://x.com/OliviaRose10un) | **Nguồn:** [Link](https://x.com/OliviaRose10un/status/2125822470519472466) | **Đã xuất bản:** Nov 26, 2026
+
+---
+### Prompt Video Quảng Cáo Chăm Sóc Da Cao Cấp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt toàn diện để tạo quảng cáo chăm sóc da cao cấp với nhiều cảnh quay thể hiện cách sử dụng và trưng bày sản phẩm.
+
+#### 📝 Prompt
+
+```
+Tạo một đoạn quảng cáo mỹ phẩm dưỡng da cao cấp chân thực đến từng chi tiết, với sự góp mặt của một cô gái trẻ Đông Á xinh đẹp sở hữu làn da căng bóng tự nhiên và mái tóc đen thanh lịch được búi gọn gàng.
+
+Cảnh 1: Cận cảnh gương mặt làm nổi bật làn da trong trẻo, căng mọng cùng những đường nét thanh tú.
+
+Cảnh 2: Cô ngồi trước chiếc bàn trang điểm màu trắng tối giản trong một căn phòng sáng sủa, sang trọng, nhẹ nhàng ngắm nhìn làn da của mình.
+
+Cảnh 3: Cận cảnh bàn tay đang nhỏ vài giọt serum dưỡng da trong suốt ra lòng bàn tay.
+
+Cảnh 4: Những góc quay macro chi tiết ghi lại khoảnh khắc đôi tay nhẹ nhàng massage sản phẩm dưỡng da thẩm thấu vào da.
+
+Cảnh 5: Cô khẽ nhắm mắt, dịu dàng massage hai bên má, khoe trọn làn da tươi mới, rạng rỡ và ngậm nước.
+
+Cảnh 6: Chiếc đầm lụa trắng thướt tha, những tấm rèm bay nhẹ cùng ánh nắng tự nhiên dịu êm tạo nên không gian làm đẹp đẳng cấp và sang trọng.
+
+Cảnh 7: Cô mỉm cười dịu dàng, hướng chai serum dưỡng da trong suốt về phía ống kính.
+
+Cảnh cuối: Chai serum thủy tinh cao cấp được đặt trên bề mặt đá cẩm thạch, điểm xuyết bằng những đóa hoa thanh tao cùng hiệu ứng phản chiếu ánh sáng mềm mại.
+
+Phong cách: Quảng cáo dưỡng da cao cấp, chân thực như ảnh chụp, ánh sáng điện ảnh tôn vinh vẻ đẹp, tông màu trắng tinh khôi, ánh sáng ban ngày dịu nhẹ, kết cấu da tự nhiên, chất lượng quảng cáo 4K, chuyển động máy quay mượt mà, hiệu ứng chuyển cảnh thanh lịch, chiến dịch truyền thông cho thương hiệu mỹ phẩm thượng lưu.
+
+Tỷ lệ khung hình: Dọc 9:16.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795672028283_x11e81_HYBpa2BaEAAmyEh.jpg" width="600" alt="Prompt Video Quảng Cáo Chăm Sóc Da Cao Cấp">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14167)**
+
+**Tác giả:** [Rubi](https://x.com/AIwithRubii) | **Nguồn:** [Link](https://x.com/AIwithRubii/status/2125814942603563083) | **Đã xuất bản:** Nov 26, 2026
+
+---
+### Trận chiến giữa Hiệp sĩ và Quái vật Nham thạch
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo cảnh chiến đấu giả tưởng thời trung cổ, phong cách điện ảnh u tối, với một hiệp sĩ đối đầu quái vật khổng lồ vận hành bằng nham thạch.
+
+#### 📝 Prompt
+
+```
+Một trận chiến giả tưởng trung cổ mang đậm chất điện ảnh, u tối, diễn ra trên vùng đất hoang tàn đổ nát dưới bầu trời xám xịt mây mù. Một hiệp sĩ đơn độc, không chút sợ hãi, khoác trên mình bộ giáp đen phong hóa cùng chiếc áo choàng lót lông, đứng vững tay cầm trường kiếm, đối mặt với một quái vật khổng lồ bọc giáp vận hành bằng dung nham. Cơ thể con quái vật phủ kín lớp giáp đá đen kịt với những vết nứt magma rực sáng màu cam, đôi mắt rực lửa cùng tứ chi to lớn đầy sức mạnh. Ở phía sau, vài bóng đen chiến binh đang bao vây lấy người hiệp sĩ. Chàng hiệp sĩ từ từ giương cao thanh kiếm khi con quái vật khổng lồ bước tới, làm rung chuyển cả mặt đất. Bụi mù, khói cuộn và mảnh vỡ văng tung tóe khắp chiến trường. Góc máy thấp đầy kịch tính, kết cấu giáp chân thực, chuyển động chậm chuẩn điện ảnh, quy mô hoành tráng, bầu không khí dark fantasy đặc trưng, sương mù thể tích (volumetric fog), CGI chi tiết cao, chân thực như ảnh chụp, chất lượng phim 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125631900031270913/img/8hMv7DTd3WO_Ys3g.jpg" width="600" alt="Trận chiến giữa Hiệp sĩ và Quái vật Nham thạch">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14169)**
+
+**Tác giả:** [Draaven](https://x.com/draavenai) | **Nguồn:** [Link](https://x.com/draavenai/status/2125631977210720296) | **Đã xuất bản:** Nov 25, 2026
+
+---
+### Prompt Video Công Chúa Vườn Thần Kỳ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo trải nghiệm điện ảnh kỳ ảo về một công chúa khám phá khu vườn hoàng gia thần kỳ với những cánh bướm phát sáng.
+
+#### 📝 Prompt
+
+```
+Nàng công chúa xinh đẹp dạo bước khám phá khu vườn hoàng gia huyền bí, xung quanh là những cánh bướm phát sáng, đóa hồng phớt, thác nước lấp lánh cùng tòa lâu đài nguy nga tráng lệ, tạo nên một trải nghiệm điện ảnh kỳ ảo đẹp đến nghẹt thở.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125559517576572928/img/PrZ2BV17AA-n7kfU.jpg" width="600" alt="Prompt Video Công Chúa Vườn Thần Kỳ">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14168)**
+
+**Tác giả:** [Olivia Rose](https://x.com/OliviaRose10un) | **Nguồn:** [Link](https://x.com/OliviaRose10un/status/2125559698011373647) | **Đã xuất bản:** Nov 25, 2026
+
+---
+### Prompt Video Quảng Cáo Nước Hoa Cao Cấp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết để tạo video quảng cáo nước hoa cao cấp siêu thực, với hình ảnh một người phụ nữ thanh lịch và các cảnh quay điện ảnh.
+
+#### 📝 Prompt
+
+```
+Tạo một đoạn quảng cáo nước hoa cao cấp chân thực đến từng chi tiết, với sự xuất hiện của một cô gái trẻ thanh lịch sở hữu mái tóc nâu sẫm suôn mượt buộc kiểu đuôi ngựa cao, diện trang phục màu trắng không tay cổ cao đầy tinh tế. Cô nhẹ nhàng nâng niu chai nước hoa bằng thủy tinh trong suốt sang trọng, điểm xuyết các chi tiết mạ vàng cùng phần nắp màu kem.
+
+Các cảnh chuyển bao gồm: góc quay cận mặt cô, đôi bàn tay thon thả đang cầm chai nước hoa, khoảnh khắc xịt nước hoa dịu nhẹ, những thước phim sản phẩm đầy nghệ thuật trên bệ đá màu be, và hình ảnh chai nước hoa nằm gọn trong lòng bàn tay cô.
+
+Bối cảnh: Studio tối giản tông be ấm áp, ngập tràn ánh nắng tự nhiên dịu nhẹ, đổ bóng tinh tế, mang đậm chất editorial cao cấp.
+
+Góc máy: Cảnh quay macro đậm chất điện ảnh, chuyển động slow-motion, hiệu ứng chuyển cảnh mượt mà, độ sâu trường ảnh mỏng, phong cách quảng cáo mỹ phẩm xa xỉ chuyên nghiệp, chất lượng 4K chân thực như ảnh chụp. Đảm bảo thiết kế sản phẩm và ngoại hình người mẫu nhất quán xuyên suốt toàn bộ video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125469669482184704/img/IksiCro654dFD_qZ.jpg" width="600" alt="Prompt Video Quảng Cáo Nước Hoa Cao Cấp">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14166)**
+
+**Tác giả:** [Rubi](https://x.com/AIwithRubii) | **Nguồn:** [Link](https://x.com/AIwithRubii/status/2125469696275497437) | **Đã xuất bản:** Nov 25, 2026
+
+---
 ### Prompt Cảnh Đại Bàng Vàng Uy Nghi Bay Lượn
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9484,101 +9605,6 @@ Video dọc, phong cách chân thực như ảnh chụp, căn phòng trống sá
 **Tác giả:** [Ruslan Ai](https://x.com/Ruslanchain) | **Nguồn:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **Đã xuất bản:** Nov 1, 2026
 
 ---
-### Sàn Phòng Ngủ Terrazzo Với Miếng Dưa Chuột
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video cải tạo siêu thực tế, sử dụng lát dưa chuột làm cốt liệu trong sàn nhựa thông trắng, biến đổi thành một phòng ngủ sang trọng.
-
-#### 📝 Prompt
-
-```
-Video dọc quay trong một căn phòng trống sáng sủa với những bức tường trắng, sàn bê tông thô và một khung cửa sổ lớn tràn ngập ánh sáng tự nhiên. Một người đàn ông mặc bộ đồ bảo hộ màu cam cùng áo phông đen đang cào một đống lớn lát dưa chuột tươi, dàn đều chúng thành một lớp phẳng lì trải khắp mặt sàn. Một người phụ nữ mặc bộ đồ bảo hộ màu đỏ bước vào hỗ trợ, cả hai đổ nhựa resin trắng đặc từ các xô lên trên những lát dưa chuột, dùng cây gạt để dàn đều cho đến khi mọi lát dưa đều chìm hẳn dưới lớp bề mặt trắng bóng. Sau đó, một nhóm thợ mặc áo phản quang màu vàng và đeo bịt tai tiến hành mài, đánh bóng sàn bằng máy móc và hút sạch bụi, chà nhẵn bề mặt để lộ ra những lát dưa chuột trong mờ được khảm vào nền sàn tựa như terrazzo trắng, trông hệt như những chấm bi xanh lá. Một người thợ mặc đồ bảo hộ màu cam quỳ xuống lau sàn thủ công trong khi các máy đánh bóng giúp mặt sàn sáng loáng như gương. Cuối cùng, hai người thợ chuyển đồ khiêng vào một chiếc giường màu be với ga trải giường trắng, cùng một chiếc bàn gỗ tròn nhỏ cạnh giường đặt lọ hoa và sách, biến không gian này thành một phòng ngủ thiết kế tối giản. Cảnh kết đẹp mắt: góc máy lia chậm qua mặt sàn trắng bóng điểm xuyết những lát dưa chuột được khảm bên trong, ánh sáng tự nhiên dịu nhẹ, phong cách cải tạo ASMR đầy thỏa mãn, chi tiết chân thực như ảnh chụp, chuyển động máy quay mượt mà đậm chất điện ảnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116879474146820096/img/9EVrV0bsiBxieDBp.jpg" width="600" alt="Sàn Phòng Ngủ Terrazzo Với Miếng Dưa Chuột">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13367)**
-
-**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2116879515527905597) | **Đã xuất bản:** Nov 1, 2026
-
----
-### Video cải tạo sàn Terrazzo Jelly Bean
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video cải tạo thực tế với kẹo jelly bean rải trên sàn, phủ nhựa epoxy để tạo hiệu ứng terrazzo nhiều màu sắc, kết thúc bằng bố trí nội thất phòng ngủ.
-
-#### 📝 Prompt
-
-```
-Một người đàn ông mặc quần yếm denim xanh và áo phông xám đang cào một núi kẹo jelly beans đủ màu khổng lồ trên nền sàn trống của căn phòng trắng sáng, không có đồ đạc gì, với khung cửa sổ lớn ngập nắng. Anh rải đều những viên kẹo ra xung quanh thành một lớp phẳng hoàn hảo phủ kín cả mặt sàn. Tiếp đó, một người phụ nữ mặc quần yếm đỏ đổ nhựa epoxy trắng bóng đặc sệt từ một chiếc xô lớn lên trên lớp kẹo, dòng chất lỏng trắng đục chảy tràn và lan rộng cho đến khi bao phủ kín mít từng viên jelly beans từ mép này sang mép kia. Sau đó, một công nhân mặc áo bảo hộ màu vàng kéo thanh gạt sàn bản rộng lướt qua bề mặt rồi đánh bóng bằng máy chà sàn, để lộ ra một mặt sàn trong suốt bóng loáng như gương với hàng ngàn viên kẹo rực rỡ sắc màu lơ lửng bên trong tựa như nền terrazzo đầy màu sắc. Cuối cùng, hai người thợ chuyển nhà mặc áo thun đen và đội mũ lưỡi trai khiêng vào một khung giường gỗ, lắp ráp rồi trải nệm, gối trắng và bộ ga giường màu kem, hoàn thiện một phòng ngủ ấm cúng ngay trên nền sàn kẹo ngọt. Ánh nắng ấm áp xuyên qua khung cửa sổ, những vệt phản chiếu nhảy múa trên bề mặt sàn bóng bẩy, chân thực như ảnh chụp, góc máy liền mạch mượt mà, video biến hình cải tạo không gian cực kỳ mãn nhãn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116534129743282176/img/4h_0ekgG8AglI3M-.jpg" width="600" alt="Video cải tạo sàn Terrazzo Jelly Bean">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13293)**
-
-**Tác giả:** [Ruslan Ai](https://x.com/Ruslanchain) | **Nguồn:** [Link](https://x.com/Ruslanchain/status/2116534169773723824) | **Đã xuất bản:** Oct 31, 2026
-
----
-### Video Sơn Cửa Gương Crom Lỏng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video DIY chân thực, trong đó một người đàn ông sơn cửa nội thất bằng sơn crom lỏng, biến nó thành bề mặt gương phản chiếu hoàn hảo.
-
-#### 📝 Prompt
-
-```
-Video dọc chân thực như ảnh chụp, bối cảnh nội thất ngôi nhà hiện đại ngập tràn ánh sáng. Một người đàn ông mặc áo thun xám ôm dáng, quần jeans xanh và đeo đồng hồ thông minh đang quỳ trên tấm bạt nhựa có viền băng keo vàng. Anh nhúng cây cọ sơn lớn màu vàng đen vào thùng sơn chrome lỏng đặc sánh đang mở nắp, mắt liếc nhìn chiếc smartphone. Cận cảnh cực đại: lớp sơn bạc nóng chảy từ từ nhỏ giọt từ đầu lông cọ xuống thùng sơn gợn sóng, mặt nước lấp lánh như gương. Chuyển cảnh sang cánh cửa nội thất màu trắng sáu ô: bàn tay anh lướt cọ qua một ô cửa, chất chrome lỏng lan ra tạo thành bề mặt gương phản chiếu hoàn hảo không tì vết, mỗi đường cọ mượt mà lại phủ thêm một vùng diện tích mới. Các cảnh quay liên tiếp cho thấy từng ô cửa, thanh đố và mép cạnh lần lượt được sơn, cho đến khi toàn bộ cánh cửa sáng bóng như kim loại đánh bóng, phản chiếu đèn trần và không gian căn phòng xung quanh. Cảnh rộng cuối cùng: cánh cửa đã hoàn thiện trở thành một tấm gương hoàn hảo, soi rõ hình ảnh người đàn ông đang cầm điện thoại và cọ sơn, chiếc camera trên chân máy cùng hành lang phía sau lưng anh. Màn biến hóa DIY đầy thỏa mãn, ánh sáng ban ngày tự nhiên, chi tiết sắc nét, hiệu ứng phản chiếu kim loại chân thực, góc máy cầm tay vững vàng với những cú zoom chậm dần vào từng đường cọ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116533216941101056/img/yCgCLf7sk1HLopxM.jpg" width="600" alt="Video Sơn Cửa Gương Crom Lỏng">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13292)**
-
-**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2116533263543984512) | **Đã xuất bản:** Oct 31, 2026
-
----
-### Biến Hóa Sàn Nhựa Epoxy Hình Hoa Hướng Dương
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video dọc thỏa mãn thị giác, mô tả từng bước thi công sàn nhựa epoxy hình hoa hướng dương trong phòng ngủ.
-
-#### 📝 Prompt
-
-```
-Video dọc quay trong một căn phòng trống sáng sủa với những bức tường trắng, một khung cửa sổ lớn và sàn gỗ thô chưa qua xử lý. Một người đàn ông mặc quần yếm xanh dương, đeo găng tay bảo hộ lao động đang cào một đống hoa hướng dương tươi lớn, dùng những đường quét mượt mà để rải đều chúng khắp mặt sàn cho đến khi cả căn phòng ngập tràn sắc hoa. Tiếp đó, hai người phụ nữ mặc quần yếm đỏ xách những chiếc xô trắng, đổ lớp nhựa epoxy trắng đặc sánh lên trên đám hoa hướng dương; chất lỏng lan tỏa ra xung quanh và từ từ nhấn chìm những bông hoa. Kế tiếp, một công nhân mặc áo phản quang dùng máy chà sàn xoay đánh bóng bề mặt đã đông cứng, làm lộ ra lớp sàn nhựa trong suốt bóng loáng với những bông hoa hướng dương rực rỡ được lưu giữ bên trong, tựa như một cánh đồng hoa đóng băng dưới lớp kính. Cuối cùng, hai người phụ nữ khiêng vào một bộ khung giường gỗ, đặt nệm, trải chăn và gối màu trắng, rồi kê thêm tủ đầu giường cùng những chiếc đèn tỏa ánh sáng ấm áp. Video kết thúc bằng cú lia máy chậm rãi lướt qua căn phòng ngủ ấm cúng vừa hoàn thiện, ánh nắng chan hòa xuyên qua khung cửa sổ, mặt sàn hoa hướng dương phẳng lì như gương phản chiếu hình ảnh chiếc giường. Phong cách chân thực, chuyển động máy quay mượt mà, quá trình biến đổi từng bước đầy thỏa mãn, ánh sáng tự nhiên ban ngày rực rỡ, độ chi tiết cao.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116426390618697728/img/vsk1exATGuXDM7K5.jpg" width="600" alt="Biến Hóa Sàn Nhựa Epoxy Hình Hoa Hướng Dương">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13295)**
-
-**Tác giả:** [Ruslan Ai](https://x.com/Ruslanchain) | **Nguồn:** [Link](https://x.com/Ruslanchain/status/2116426434025504817) | **Đã xuất bản:** Oct 31, 2026
-
----
-### Video sàn phòng ngủ terrazzo từ dừa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video cải tạo biến đống dừa và nước cốt dừa thành sàn terrazzo phong cách cho phòng ngủ chủ đề nhiệt đới.
-
-#### 📝 Prompt
-
-```
-Video dọc quay bên trong một căn phòng trống với những bức tường trắng và khung cửa sổ lớn nhìn ra hàng cọ nhiệt đới xanh mướt. Một người đàn ông mặc quần yếm denim đang cào đống lớn gồm hàng trăm quả dừa nâu, rải đều chúng khắp nền bê tông trần cho đến khi tạo thành một lớp dày đặc. Tiếp đó, một người phụ nữ mặc quần yếm đỏ đổ nước cốt dừa trắng kem sánh mịn từ một chiếc xô lớn, làm ngập sàn nhà và phủ kín những quả dừa bằng một lớp trắng muốt mượt mà. Kế đến, một công nhân mặc áo phản quang màu vàng đẩy máy mài và đánh bóng sàn, mài nhẵn bề mặt đã đông cứng để lộ ra nền terrazzo bóng loáng được khảm từ những lát cắt ngang của quả dừa. Cuối cùng, hai người thợ chuyển đồ mặc đồng phục đen khiêng khung giường gỗ vào, đặt nệm lên và trải ga giường cùng gối trắng tinh tươm. Video kết thúc bằng cảnh hé lộ một phòng ngủ sáng sủa, đầy phong cách, nổi bật với nền terrazzo dừa đánh bóng độc đáo đang phản chiếu ánh sáng từ khung cửa sổ. Chuyển cảnh mượt mà chân thực, ánh sáng ban ngày tự nhiên, phong cách biến đổi công trình đầy thỏa mãn, chi tiết chân thực như ảnh chụp.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116425489967411200/img/eISADImu1dHFuzRh.jpg" width="600" alt="Video sàn phòng ngủ terrazzo từ dừa">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13294)**
-
-**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2116425542874378504) | **Đã xuất bản:** Oct 31, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -9640,6 +9666,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-26T00:17:42.671Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-26T08:19:35.618Z</sub>
 
 </div>

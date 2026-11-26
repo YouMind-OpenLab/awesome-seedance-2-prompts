@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6721** |
+| 📝 Total de prompts | **6726** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-11-26** |
 
@@ -361,6 +361,127 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Timelapse de Construcción de Puente en Miniatura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar un timelapse realista de construcción DIY de un puente moderno en miniatura con detalles cinematográficos.
+
+#### 📝 Prompt
+
+```
+Descubre cómo un impresionante puente moderno en miniatura cobra vida gracias a una construcción DIY realista, ingeniería de precisión, un timelapse hipnótico y detalles cinematográficos que te dejarán sin aliento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125821550784106496/img/oQWt_DBayLdkaPwp.jpg" width="600" alt="Timelapse de Construcción de Puente en Miniatura">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=14165)**
+
+**Autor:** [Olivia Rose](https://x.com/OliviaRose10un) | **Fuente:** [Link](https://x.com/OliviaRose10un/status/2125822470519472466) | **Publicado:** Nov 26, 2026
+
+---
+### Prompt para video comercial de skincare de lujo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt completo para crear un anuncio de skincare de lujo con múltiples escenas que muestran la aplicación y la presentación del producto.
+
+#### 📝 Prompt
+
+```
+Crea un anuncio de cuidado facial de lujo ultrarrealista protagonizado por una hermosa joven del este de Asia, con una piel luminosa y natural, y un elegante cabello oscuro recogido en un moño suave.
+
+Escena 1: Plano belleza en primer plano que resalta su piel limpia e hidratada, así como sus delicados rasgos faciales.
+
+Escena 2: Sentada frente a un tocador blanco minimalista en una habitación luminosa y elegante, examina suavemente su piel.
+
+Escena 3: Primer plano de ella aplicando unas gotas de sérum facial transparente sobre la palma de su mano.
+
+Escena 4: Tomas macro detalladas de sus manos masajeando con delicadeza los productos para el cuidado de la piel hasta absorberlos.
+
+Escena 5: Cierra los ojos y masajea suavemente sus mejillas, luciendo una piel fresca, radiante e hidratada.
+
+Escena 6: Un hermoso vestido de seda blanca, cortinas vaporosas y la suave luz natural del sol crean una atmósfera de belleza lujosa y elegante.
+
+Escena 7: Sonríe con dulzura mientras sostiene hacia la cámara un frasco transparente de sérum facial.
+
+Escena final: Un frasco de sérum de cristal premium exhibido sobre una superficie de mármol, acompañado de flores delicadas y reflejos suaves.
+
+Estilo: Anuncio de cosmética de lujo, fotorrealista, iluminación cinematográfica de belleza, estética blanca y depurada, luz diurna suave, textura natural de la piel, calidad comercial 4K, movimientos de cámara fluidos, transiciones elegantes, campaña de marca cosmética premium.
+
+Relación de aspecto: 9:16 vertical.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795672028283_x11e81_HYBpa2BaEAAmyEh.jpg" width="600" alt="Prompt para video comercial de skincare de lujo">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=14167)**
+
+**Autor:** [Rubi](https://x.com/AIwithRubii) | **Fuente:** [Link](https://x.com/AIwithRubii/status/2125814942603563083) | **Publicado:** Nov 26, 2026
+
+---
+### Batalla entre Caballero y Monstruo de Lava
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para una escena de batalla oscura y cinematográfica de fantasía medieval, donde un caballero se enfrenta a un monstruo gigante impulsado por lava.
+
+#### 📝 Prompt
+
+```
+Una batalla de fantasía medieval cinematográfica y oscura en un páramo en ruinas bajo un cielo gris y nublado. Un caballero solitario e intrépido, con una armadura negra desgastada por el tiempo y una capa forrada de piel, se mantiene firme empuñando una espada larga frente a un monstruo gigantesco blindado e impulsado por lava. El cuerpo de la criatura está cubierto por una armadura de piedra oscura con grietas de magma naranja incandescente, ojos llameantes y extremidades enormes y poderosas. Varios guerreros envueltos en sombras rodean al caballero en segundo plano. El caballero levanta lentamente su espada mientras el monstruo colosal avanza, haciendo temblar la tierra. Polvo, humo y escombros inundan el campo de batalla. Tomas dramáticas en contrapicado, texturas realistas en las armaduras, cámara lenta cinematográfica, escala épica, atmósfera de fantasía oscura, niebla volumétrica, CGI de alto detalle, fotorrealista, calidad de película 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125631900031270913/img/8hMv7DTd3WO_Ys3g.jpg" width="600" alt="Batalla entre Caballero y Monstruo de Lava">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=14169)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fuente:** [Link](https://x.com/draavenai/status/2125631977210720296) | **Publicado:** Nov 25, 2026
+
+---
+### Prompt de Video: Jardín Mágico de la Princesa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para crear una experiencia cinematográfica de fantasía donde una princesa explora un jardín real mágico con mariposas brillantes.
+
+#### 📝 Prompt
+
+```
+Una hermosa princesa explora un jardín real mágico, rodeada de mariposas luminosas, rosas rosadas, cascadas resplandecientes y un majestuoso palacio, creando una experiencia cinematográfica de fantasía que te dejará sin aliento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125559517576572928/img/PrZ2BV17AA-n7kfU.jpg" width="600" alt="Prompt de Video: Jardín Mágico de la Princesa">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=14168)**
+
+**Autor:** [Olivia Rose](https://x.com/OliviaRose10un) | **Fuente:** [Link](https://x.com/OliviaRose10un/status/2125559698011373647) | **Publicado:** Nov 25, 2026
+
+---
+### Prompt de Video para Anuncio de Perfume de Lujo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para generar un anuncio de perfume de lujo ultra-realista que presenta a una mujer elegante y tomas cinematográficas.
+
+#### 📝 Prompt
+
+```
+Crea un anuncio de perfume de lujo ultrarrealista protagonizado por una joven elegante con el cabello castaño oscuro y liso recogido en una coleta alta, que viste un sofisticado conjunto blanco sin mangas y de cuello alto. Sostiene con delicadeza un lujoso frasco de perfume de cristal transparente con detalles dorados y tapón color crema.
+
+Las transiciones de escena incluyen primeros planos de su rostro, sus finas manos sosteniendo el perfume, una suave pulverización de la fragancia, elegantes planos del producto sobre un pedestal de piedra beige y el frasco descansando en la palma de su mano.
+
+Fondo: Estudio minimalista en tonos beige cálidos con luz natural suave, sombras sutiles y una atmósfera editorial premium.
+
+Cámara: Planos macro cinematográficos, movimientos a cámara lenta, transiciones fluidas, poca profundidad de campo, estilo de publicidad profesional de belleza de lujo, calidad fotorrealista 4K. Mantén la coherencia en el diseño del producto y la apariencia de la modelo durante todo el vídeo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125469669482184704/img/IksiCro654dFD_qZ.jpg" width="600" alt="Prompt de Video para Anuncio de Perfume de Lujo">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=14166)**
+
+**Autor:** [Rubi](https://x.com/AIwithRubii) | **Fuente:** [Link](https://x.com/AIwithRubii/status/2125469696275497437) | **Publicado:** Nov 25, 2026
+
+---
 ### Prompt de Vuelo del Majestuoso Águila Dorada
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9484,101 +9605,6 @@ Vídeo vertical, estilo fotorrealista, habitación vacía y luminosa con paredes
 **Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fuente:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **Publicado:** Nov 1, 2026
 
 ---
-### Suelo de Terrazo con Rodajas de Pepino en Dormitorio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar un video de renovación hiperrealista donde las rodajas de pepino se utilizan como agregado en un suelo de resina blanca, transformándose en un dormitorio de lujo.
-
-#### 📝 Prompt
-
-```
-Vídeo vertical en una habitación vacía y luminosa, con paredes blancas, suelo de hormigón desnudo y un gran ventanal por el que entra la luz del día. Un hombre con mono naranja y camiseta negra rastrilla un enorme montón de rodajas de pepino fresco, extendiéndolas hasta formar una capa plana y uniforme por todo el suelo. Una mujer con mono rojo se une a él y juntos vierten resina blanca espesa desde unos cubos sobre las rodajas, repartiéndola con rasquetas hasta que cada una queda sumergida bajo una superficie blanca y brillante. A continuación, un equipo equipado con chalecos reflectantes amarillos y protectores auditivos pule el suelo con máquinas y aspira el polvo, lijando la superficie hasta dejar a la vista las rodajas de pepino translúcidas incrustadas en el suelo blanco, similar al terrazo, como si fueran lunares verdes. Un operario con mono naranja se arrodilla para limpiar el suelo a mano mientras las pulidoras le sacan un brillo de espejo. Por último, dos mozos de mudanza entran con una cama beige con ropa de cama blanca y una mesita auxiliar redonda de madera con un jarrón y libros, transformando el espacio en un dormitorio minimalista de diseño. Plano final estético: paneo lento por el reluciente suelo blanco salpicado de rodajas de pepino incrustadas, luz natural suave, reforma satisfactoria estilo ASMR, detalle fotorrealista, movimiento de cámara cinematográfico y fluido.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116879474146820096/img/9EVrV0bsiBxieDBp.jpg" width="600" alt="Suelo de Terrazo con Rodajas de Pepino en Dormitorio">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13367)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2116879515527905597) | **Publicado:** Nov 1, 2026
-
----
-### Video de Renovación de Piso Terrazzo con Jelly Beans
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar un video realista de renovación donde se esparcen jelly beans en el suelo y se cubren con resina epoxi para crear un efecto terrazzo colorido, finalizando con la instalación del mobiliario del dormitorio.
-
-#### 📝 Prompt
-
-```
-Un hombre con peto vaquero azul y camiseta gris rastrilla una enorme montaña de jelly beans de colores por el suelo desnudo de una habitación blanca, vacía y luminosa con un gran ventanal bañado por el sol, esparciendo los dulces hacia afuera hasta formar una capa perfectamente uniforme que cubre todo el suelo. Después, una mujer con peto rojo vierte resina epoxi blanca, espesa y brillante desde un cubo grande sobre los dulces; el líquido lechoso fluye y se extiende hasta cubrir por completo los jelly beans de extremo a extremo. A continuación, un operario con chaleco reflectante amarillo pasa una rasqueta ancha por la superficie y la pule con una máquina pulidora, dejando al descubierto un suelo transparente con brillo de espejo en cuyo interior quedan suspendidos miles de dulces de colores vivos, como si fuera terrazo. Por último, dos mudanceros con camisetas y gorras negras entran un somier de madera, lo montan y lo visten con un colchón, almohadas blancas y ropa de cama color crema, dando el toque final a un dormitorio acogedor sobre el suelo de dulces. La cálida luz del sol entra por la ventana, los reflejos bailan sobre la superficie pulida, fotorrealista, planos continuos y fluidos, video satisfactorio de transformación y renovación.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116534129743282176/img/4h_0ekgG8AglI3M-.jpg" width="600" alt="Video de Renovación de Piso Terrazzo con Jelly Beans">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13293)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fuente:** [Link](https://x.com/Ruslanchain/status/2116534169773723824) | **Publicado:** Oct 31, 2026
-
----
-### Vídeo de pintura de puerta con efecto espejo cromado líquido
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para generar un vídeo DIY fotorrealista donde un hombre pinta una puerta interior con pintura cromada líquida, transformándola en una superficie de espejo perfectamente reflectante.
-
-#### 📝 Prompt
-
-```
-Vídeo vertical fotorrealista en el interior de una casa moderna y luminosa. Un hombre con camiseta gris ajustada, vaqueros azules y smartwatch se arrodilla sobre un plástico protector delimitado con cinta amarilla, sumerge una brocha grande amarilla y negra en un bote abierto de cromo líquido espeso mientras echa un vistazo a su smartphone. Primerísimo primer plano: la pintura plateada fundida gotea lentamente de las cerdas y vuelve al bote, cuya superficie ondula como un espejo. Corte a una puerta interior blanca de seis paneles: su mano desliza la brocha por uno de ellos y el cromo líquido se extiende hasta formar un acabado reflectante impecable, como un espejo perfecto; cada trazo suave cubre más superficie. Una secuencia de planos muestra cómo se pintan los paneles, los montantes y los bordes hasta que la puerta entera brilla como metal pulido, reflejando las luces del techo y la habitación que la rodea. Plano general final: la puerta terminada es un espejo perfecto en el que se ve al hombre sosteniendo el teléfono y la brocha, una cámara sobre un trípode y el pasillo a sus espaldas. Transformación DIY satisfactoria, luz natural diurna, texturas nítidas, reflejos metálicos realistas, cámara en mano estable con acercamientos lentos a las pinceladas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116533216941101056/img/yCgCLf7sk1HLopxM.jpg" width="600" alt="Vídeo de pintura de puerta con efecto espejo cromado líquido">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13292)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2116533263543984512) | **Publicado:** Oct 31, 2026
-
----
-### Transformación de Suelo con Resina Epoxi de Girasol
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar un video vertical satisfactorio que muestra la creación paso a paso de un suelo de resina epoxi con diseño de girasol en un dormitorio.
-
-#### 📝 Prompt
-
-```
-Vídeo vertical en una habitación vacía y luminosa, con paredes blancas, un gran ventanal y un subsuelo de madera sin tratar. Un hombre con mono azul y guantes de trabajo rastrilla un gran montón de girasoles frescos y los esparce uniformemente por todo el suelo con movimientos suaves y amplios, hasta cubrir por completo la estancia de flores. Después, dos mujeres con monos rojos entran con cubos blancos y vierten una resina epoxi blanca, espesa y cremosa sobre los girasoles; el líquido se expande y va sumergiendo lentamente las flores. A continuación, un operario con chaleco reflectante pule la superficie ya endurecida con una pulidora rotativa, dejando al descubierto un suelo de resina transparente y brillante con los girasoles incrustados en su interior, como un campo congelado bajo el cristal. Por último, dos mujeres introducen un somier de madera, colocan el colchón, extienden un edredón blanco con sus almohadas y añaden mesitas de noche con lámparas de luz cálida. El vídeo termina con un paneo lento por el acogedor dormitorio terminado: la luz del sol entra a raudales por la ventana y el suelo de girasoles, con efecto espejo, refleja la cama. Estilo realista, movimiento de cámara fluido, transformación paso a paso muy satisfactoria, luz natural intensa y gran nivel de detalle.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116426390618697728/img/vsk1exATGuXDM7K5.jpg" width="600" alt="Transformación de Suelo con Resina Epoxi de Girasol">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13295)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fuente:** [Link](https://x.com/Ruslanchain/status/2116426434025504817) | **Publicado:** Oct 31, 2026
-
----
-### Video de Suelo de Terrazo de Coco para Dormitorio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para crear un video de renovación que transforma una pila de cocos y leche de coco en un elegante suelo de terrazo para un dormitorio con temática tropical.
-
-#### 📝 Prompt
-
-```
-Vídeo vertical en el interior de una habitación vacía con paredes blancas y un gran ventanal que da a exuberantes palmeras tropicales. Un hombre con peto vaquero rastrilla un enorme montón de cientos de cocos marrones, esparciéndolos de manera uniforme por el suelo de hormigón desnudo hasta formar una capa densa. Después, una mujer con peto rojo vierte leche de coco blanca, espesa y cremosa desde un cubo grande, inundando el suelo y cubriendo los cocos con una suave capa blanca. A continuación, un operario con chaleco reflectante amarillo empuja una máquina pulidora y lijadora de suelos, desbastando la superficie endurecida para dejar al descubierto un brillante suelo de terrazo con rodajas de coco incrustadas. Por último, dos mozos de mudanza uniformados de negro entran un somier de madera, colocan un colchón y visten la cama con sábanas y almohadas blancas impecables. El vídeo termina revelando un dormitorio luminoso y elegante que muestra el singular suelo de terrazo de coco pulido reflejando la luz del ventanal. Transiciones fluidas y realistas, luz natural, estilo satisfactorio de transformación de obra, detalle fotorrealista.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116425489967411200/img/eISADImu1dHFuzRh.jpg" width="600" alt="Video de Suelo de Terrazo de Coco para Dormitorio">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=13294)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2116425542874378504) | **Publicado:** Oct 31, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -9640,6 +9666,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-26T00:17:45.043Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-26T08:19:38.510Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6721** |
+| 📝 Toplam İstem | **6726** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-11-26** |
 
@@ -361,6 +361,127 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Mini Köprü İnşaatı Hızlandırılmış Görüntü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sinematik detaylara sahip, gerçekçi bir mini modern köprünün DIY inşaat hızlandırılmış görüntüsünü oluşturmak için bir istem.
+
+#### 📝 İstem
+
+```
+Gerçekçi bir kendin yap (DIY) inşaat süreci, kusursuz mühendislik, izlemesi son derece keyifli bir hızlandırılmış çekim ve nefes kesen sinematik detaylarla göz alıcı, minyatür bir modern köprünün nasıl hayata geçtiğini izleyin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125821550784106496/img/oQWt_DBayLdkaPwp.jpg" width="600" alt="Mini Köprü İnşaatı Hızlandırılmış Görüntü">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14165)**
+
+**Yazar:** [Olivia Rose](https://x.com/OliviaRose10un) | **Kaynak:** [Link](https://x.com/OliviaRose10un/status/2125822470519472466) | **Yayınlandı:** Nov 26, 2026
+
+---
+### Lüks Cilt Bakımı Reklam Videosu İstem Metni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uygulama ve ürün gösterimini içeren birden fazla sahneyle lüks bir cilt bakımı reklamı oluşturmak için kapsamlı istem metni.
+
+#### 📝 İstem
+
+```
+Doğal, ışıl ışıl parlayan bir cilde ve yumuşak bir topuz yapılmış zarif koyu renk saçlara sahip güzel, genç bir Doğu Asyalı kadının yer aldığı ultra gerçekçi bir lüks cilt bakım reklamı oluşturun.
+
+Sahne 1: Kadının pürüzsüz, nemli cildini ve zarif yüz hatlarını ön plana çıkaran yakın çekim güzellik planı.
+
+Sahne 2: Aydınlık ve şık bir odada, minimalist beyaz bir makyaj masasında oturarak cildini nazikçe inceliyor.
+
+Sahne 3: Avucuna birkaç damla şeffaf yüz serumu damlatırken çekilmiş yakın plan görüntü.
+
+Sahne 4: Elleriyle cilt bakım ürünlerini cildine nazikçe masaj yaparak uyguladığı detaylı makro çekimler.
+
+Sahne 5: Gözlerini kapatıp yanaklarına hafifçe masaj yaparken taze, ışıltılı ve neme doymuş cildini sergiliyor.
+
+Sahne 6: Zarif ve lüks bir güzellik atmosferi yaratan güzel bir beyaz ipek elbise, uçuşan perdeler ve yumuşak doğal güneş ışığı.
+
+Sahne 7: Şeffaf bir cilt bakım serumu şişesini kameraya doğru tutarken hafifçe gülümsüyor.
+
+Son sahne: Narin çiçekler ve yumuşak yansımalar eşliğinde mermer bir zemin üzerinde sergilenen premium cam serum şişesi.
+
+Stil: Lüks cilt bakım reklamı, fotogerçekçi, sinematik güzellik aydınlatması, temiz beyaz estetik, yumuşak gün ışığı, doğal cilt dokusu, 4K reklam kalitesi, akıcı kamera hareketleri, zarif geçişler, premium kozmetik marka kampanyası.
+
+En Boy Oranı: 9:16 dikey.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795672028283_x11e81_HYBpa2BaEAAmyEh.jpg" width="600" alt="Lüks Cilt Bakımı Reklam Videosu İstem Metni">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14167)**
+
+**Yazar:** [Rubi](https://x.com/AIwithRubii) | **Kaynak:** [Link](https://x.com/AIwithRubii/status/2125814942603563083) | **Yayınlandı:** Nov 26, 2026
+
+---
+### Şövalye ve Lav Canavarı Savaşı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Giant bir lav canavarıyla yüzleşen bir şövalyeyi konu alan, karanlık sinematik ortaçağ fantastik savaş sahnesi için prompt.
+
+#### 📝 İstem
+
+```
+Bulutlu gri bir gökyüzünün altında, harabeye dönmüş bir çorak arazide geçen karanlık, sinematik bir orta çağ fantezi savaşı. Yıpranmış siyah zırhı ve kürk astarlı peleriniyle korkusuz, yalnız bir şövalye elinde uzun bir kılıçla dikiliyor ve devasa, lav gücüyle hareket eden zırhlı bir canavara karşı duruyor. Canavarın bedeni, parlayan turuncu magma çatlaklarına sahip koyu taş zırhla kaplı; ateş saçan gözleri ve kocaman, güçlü uzuvları var. Arka planda birkaç gölge savaşçı şövalyeyi çevreliyor. Dev canavar yeri titreterek bir adım ileri atarken şövalye kılıcını yavaşça kaldırıyor. Toz, duman ve enkaz savaş alanını kaplıyor. Dramatik alt açı kamera çekimleri, gerçekçi zırh dokuları, sinematik ağır çekim, epik ölçek, karanlık fantezi atmosferi, hacimsel sis, yüksek detaylı CGI, fotogerçekçi, 4K film kalitesi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125631900031270913/img/8hMv7DTd3WO_Ys3g.jpg" width="600" alt="Şövalye ve Lav Canavarı Savaşı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14169)**
+
+**Yazar:** [Draaven](https://x.com/draavenai) | **Kaynak:** [Link](https://x.com/draavenai/status/2125631977210720296) | **Yayınlandı:** Nov 25, 2026
+
+---
+### Prenses Büyülü Bahçe Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Parlayan kelebeklerle büyüleyici bir kraliyet bahçesini keşfeden bir prensesin fantastik sinematik deneyimini yaratmak için bir istem.
+
+#### 📝 İstem
+
+```
+Işıldayan kelebekler, pembe güller, pırıl pırıl akan şelaleler ve görkemli bir sarayla çevrili büyülü bir kraliyet bahçesini keşfeden güzel bir prenses; nefes kesen, fantastik ve sinematik bir deneyim yaratıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125559517576572928/img/PrZ2BV17AA-n7kfU.jpg" width="600" alt="Prenses Büyülü Bahçe Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14168)**
+
+**Yazar:** [Olivia Rose](https://x.com/OliviaRose10un) | **Kaynak:** [Link](https://x.com/OliviaRose10un/status/2125559698011373647) | **Yayınlandı:** Nov 25, 2026
+
+---
+### Lüks Parfüm Reklam Videosu İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Zarif bir kadın ve sinematik çekimlerle ultra gerçekçi lüks parfüm reklamı oluşturmak için detaylı istem.
+
+#### 📝 İstem
+
+```
+Yüksek at kuyruğu yapılmış pürüzsüz koyu kahverengi saçlara sahip zarif genç bir kadının yer aldığı, sofistike beyaz kolsuz ve boğazlı bir kıyafet giydiği ultra gerçekçi bir lüks parfüm reklamı oluşturun. Kadın, altın detayları ve krem rengi kapağıyla göz alıcı, şeffaf cam bir lüks parfüm şişesini zarifçe tutmaktadır.
+
+Sahne geçişleri; yüzünün yakın çekimlerini, parfümü tutan narin ellerini, hafif bir parfüm sıkma anını, bej renkli taş bir kaide üzerindeki şık ürün çekimlerini ve avucunun içinde duran şişeyi içermektedir.
+
+Arka plan: Yumuşak doğal güneş ışığı, ince gölgeler ve premium bir editoryal atmosfer sunan minimalist, sıcak bej tonlarında bir stüdyo.
+
+Kamera: Sinematik makro çekimler, ağır çekim hareketler, akıcı geçişler, sığ alan derinliği, profesyonel lüks güzellik reklamcılığı estetiği, fotogerçekçi 4K kalite. Ürün tasarımı ve modelin görünümü baştan sona tutarlı olmalıdır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125469669482184704/img/IksiCro654dFD_qZ.jpg" width="600" alt="Lüks Parfüm Reklam Videosu İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14166)**
+
+**Yazar:** [Rubi](https://x.com/AIwithRubii) | **Kaynak:** [Link](https://x.com/AIwithRubii/status/2125469696275497437) | **Yayınlandı:** Nov 25, 2026
+
+---
 ### Görkemli Altın Kartal Uçuş İstemi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9430,101 +9551,6 @@ Dikey video, fotogerçekçi tarz, beyaz duvarları ve büyük bir penceresi olan
 **Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **Yayınlandı:** Nov 1, 2026
 
 ---
-### Salatalık Dilimli Terrazzo Yatak Odası Zemin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Beyaz reçine zeminde agrega olarak salatalık dilimlerinin kullanıldığı ve lüks bir yatak odasına dönüştüğü, hiper gerçekçi bir yenileme videosu oluşturmak için prompt.
-
-#### 📝 İstem
-
-```
-Beyaz duvarları, çıplak beton zemini ve gün ışığı alan büyük bir penceresiyle aydınlık, boş bir odada çekilmiş dikey video. Turuncu tulum ve siyah tişört giyen bir adam, devasa bir taze salatalık dilimi yığınını tırmıkla yayarak tüm zemine düz ve eşit bir tabaka hâlinde seriyor. Kırmızı tulumlu bir kadın da ona katılıyor ve kovalardaki yoğun beyaz reçineyi dilimlerin üzerine dökerek spatulalarla yayıyorlar; ta ki her bir dilim parlak beyaz yüzeyin altında tamamen kaybolana kadar. Ardından sarı fosforlu yelekler ve kulak koruyucular takan bir ekip, makinelerle zemini taşlayıp parlatıyor, tozu süpürüyor ve yüzeyi zımparalayarak yeşil puantiyeler gibi beyaz terrazzo benzeri zemine gömülmüş yarı saydam salatalık dilimlerini ortaya çıkarıyor. Turuncu tulumlu bir işçi diz çöküp zemini elle silerken, cilalama makineleri yüzeye ayna gibi bir parlaklık kazandırıyor. Son olarak iki nakliyeci, beyaz nevresim takılmış bej rengi bir yatak ile üzerinde vazo ve kitaplar bulunan yuvarlak ahşap bir komodin getirerek mekânı minimalist bir tasarımcı yatak odasına dönüştürüyor. Kapanış güzellik çekimi: Gömülü salatalık dilimleriyle bezeli parlak beyaz zemin üzerinde yavaş bir kamera kaydırması, yumuşak doğal ışık, tatmin edici ASMR tarzı yenileme süreci, fotogerçekçi detaylar, akıcı sinematik kamera hareketi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116879474146820096/img/9EVrV0bsiBxieDBp.jpg" width="600" alt="Salatalık Dilimli Terrazzo Yatak Odası Zemin">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13367)**
-
-**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2116879515527905597) | **Yayınlandı:** Nov 1, 2026
-
----
-### Jelly Bean Terrazzo Zemin Yenileme Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Zemine jelly bean'lerin serpilip epoksi reçine ile kaplanarak renkli bir terrazzo efekti oluşturulduğu ve yatak odası mobilya kurulumuyla sonlanan gerçekçi bir yenileme videosu üretmek için istem.
-
-#### 📝 İstem
-
-```
-Mavi kot tulum ve gri tişört giyen bir adam, büyük güneşli bir penceresi olan aydınlık, boş beyaz bir odanın çıplak zemininde devasa bir renkli jelibon dağını tırmıkla yayarak şekerleri tüm zemini kaplayacak şekilde kusursuz ve eşit bir tabaka halinde dağıtıyor. Ardından kırmızı tulumlu bir kadın, büyük bir kovadan şekerlerin üzerine yoğun, parlak beyaz epoksi reçine döküyor; sütsü sıvı akıp yayılarak jelibonları uçtan uca tamamen kaplıyor. Daha sonra sarı güvenlik yeleği giyen bir işçi, geniş bir çekçekle yüzeyi düzeltiyor ve bir zemin cilalama makinesiyle parlatarak içinde binlerce canlı rengin asılı kaldığı, renkli bir terrazzo gibi görünen ayna parlaklığında şeffaf bir zemini ortaya çıkarıyor. Son olarak siyah tişört ve şapka giyen iki nakliyeci ahşap bir karyola iskeletini içeri taşıyıp kuruyor, üzerine bir yatak, beyaz yastıklar ve krem rengi nevresim takımı yerleştirerek bu şeker zeminin üzerinde sıcacık bir yatak odasını tamamlıyor. Pencereden süzülen sıcak güneş ışığı, cilalı yüzeyde dans eden yansımalar, fotogerçekçi, kesintisiz akıcı çekimler, tatmin edici bir yenileme dönüşüm videosu.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116534129743282176/img/4h_0ekgG8AglI3M-.jpg" width="600" alt="Jelly Bean Terrazzo Zemin Yenileme Videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13293)**
-
-**Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2116534169773723824) | **Yayınlandı:** Oct 31, 2026
-
----
-### Sıvı Krom Ayna Kapı Boyama Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir erkeğin iç kapıyı sıvı krom boya ile boyayarak onu mükemmel yansıtıcı bir ayna yüzeyine dönüştürdüğü, fotogerçekçi DIY videosu oluşturmak için bir istem.
-
-#### 📝 İstem
-
-```
-Aydınlık ve modern bir ev iç mekanında dikey, fotogerçekçi video. Üzerinde vücuda oturan gri bir tişört, mavi kot pantolon ve akıllı saat bulunan bir adam, kenarları sarı bantla çevrili plastik bir koruyucu örtünün üzerine diz çökmüş; elindeki büyük sarı-siyah fırçayı yoğun kıvamlı sıvı krom dolu açık bir kutuya daldırırken bir yandan da akıllı telefonuna göz atıyor. Aşırı yakın çekim: Erimiş gümüş rengi boya, fırça kıllarından yavaşça süzülerek dalgalanan, ayna gibi parlayan kutunun içine geri damlıyor. Görüntü beyaz, altı panelli bir iç kapıya geçiyor: Adamın eli fırçayı panelin üzerinde gezdirirken sıvı krom kusursuz, yansıtıcı bir ayna yüzeyine dönüşüyor; her pürüzsüz darbeyle daha geniş bir alan kaplanıyor. Ardışık çekimlerde paneller, dikey çerçeveler ve kenarlar boyanıyor; ta ki tüm kapı cilalı metal gibi parlayana, tavan lambalarını ve etrafındaki odayı yansıtmaya başlayana kadar. Son geniş açı çekimi: Tamamlanan kapı kusursuz bir aynaya dönüşmüş; adamın elindeki telefonu ve fırçasını, tripod üzerindeki kamerayı ve arkasındaki koridoru net bir şekilde yansıtıyor. Tatmin edici bir "kendin yap" (DIY) dönüşümü, doğal gün ışığı, keskin dokular, gerçekçi metalik yansımalar; fırça darbelerine doğru yavaşça yaklaşan sabit bir el kamerası.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116533216941101056/img/yCgCLf7sk1HLopxM.jpg" width="600" alt="Sıvı Krom Ayna Kapı Boyama Videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13292)**
-
-**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2116533263543984512) | **Yayınlandı:** Oct 31, 2026
-
----
-### Aydın Çekirdeği Epoksi Reçine Zemin Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yatak odasında aydın çekirdeği reçine zemininin adım adım oluşturulmasını gösteren tatmin edici bir dikey video üretmek için bir istem.
-
-#### 📝 İstem
-
-```
-Beyaz duvarları, büyük bir penceresi ve ham ahşap alt döşemesi olan aydınlık, boş bir odada çekilmiş dikey video. Mavi tulumlu ve iş eldivenli bir adam, taze ayçiçeklerinden oluşan büyük bir yığını tırmıkla alıyor; pürüzsüz süpürme hareketleriyle onları tüm zemine eşit şekilde yayarak odanın tamamını çiçeklerle kaplıyor. Ardından kırmızı tulumlu iki kadın beyaz kovalarla gelip ayçiçeklerinin üzerine yoğun, kremamsı beyaz epoksi reçine döküyor; sıvı dışa doğru yayılarak çiçekleri yavaşça içine gömüyor. Sonrasında fosforlu yelekli bir işçi, sertleşmiş yüzeyi döner zemin makinesiyle parlatıyor ve camın altında donmuş bir tarlayı andıran, içine canlı ayçiçekleri hapsedilmiş parlak, şeffaf reçine bir zemin ortaya çıkıyor. Son olarak iki kadın ahşap bir yatak iskeletini içeri taşıyor, yatağı yerleştiriyor, beyaz bir nevresim ve yastıkları seriyor, ardından yanlara sıcak ışıklı lambaların olduğu komodinleri ekliyor. Video, tamamlanmış bu sıcak yatak odasında yapılan yavaş bir kamera kaydırmasıyla sona eriyor; güneş ışığı pencereden süzülürken ayna gibi parlayan ayçiçeği zemin yatağı yansıtıyor. Gerçekçi tarz, akıcı kamera hareketi, tatmin edici adım adım dönüşüm, parlak doğal gün ışığı, yüksek detay.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116426390618697728/img/vsk1exATGuXDM7K5.jpg" width="600" alt="Aydın Çekirdeği Epoksi Reçine Zemin Dönüşümü">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13295)**
-
-**Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2116426434025504817) | **Yayınlandı:** Oct 31, 2026
-
----
-### Hindistan Cevizi Terrazzo Yatak Odası Zemin Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir yığın hindistan cevizi ve hindistan cevizi sütünü, tropikal temalı bir yatak odası için şık bir terrazzo zemine dönüştüren bir yenileme videosu oluşturmak için istem.
-
-#### 📝 İstem
-
-```
-Beyaz duvarları ve yemyeşil tropikal palmiye ağaçlarına bakan büyük bir penceresi olan boş bir odada çekilmiş dikey video. Kot tulum giyen bir adam, yüzlerce kahverengi hindistan cevizinden oluşan devasa bir yığını tırmıkla yayarak çıplak beton zemin üzerinde eşit şekilde dağıtıyor ve yoğun bir tabaka oluşturana kadar seriyor. Ardından kırmızı tulumlu bir kadın, büyük bir kovadan koyu kıvamlı, kremamsı beyaz hindistan cevizi sütünü dökerek zemini kaplıyor ve hindistan cevizlerinin üzerini pürüzsüz beyaz bir katmanla örtüyor. Sonrasında sarı fosforlu yelek giyen bir işçi, zemin taşlama ve cilalama makinesini iterek sertleşmiş yüzeyi zımparalıyor ve dilimlenmiş hindistan cevizi kesitleriyle bezeli parlak bir terrazzo zemini ortaya çıkarıyor. En sonunda siyah üniformalı iki nakliyeci ahşap bir karyola iskeletini içeri taşıyor, üzerine bir yatak yerleştiriyor ve tertemiz beyaz çarşaflar ile yastıklarla yatağı hazırlıyor. Video, pencereden gelen ışığı yansıtan benzersiz cilalı hindistan cevizli terrazzo zeminin ön plana çıktığı aydınlık ve şık bir yatak odası görüntüsüyle sona eriyor. Akıcı ve gerçekçi geçişler, doğal gün ışığı, tatmin edici inşaat dönüşümü tarzı, fotogerçekçi detaylar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116425489967411200/img/eISADImu1dHFuzRh.jpg" width="600" alt="Hindistan Cevizi Terrazzo Yatak Odası Zemin Videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13294)**
-
-**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2116425542874378504) | **Yayınlandı:** Oct 31, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -9586,6 +9612,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-26T00:17:53.674Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-26T08:19:48.055Z</sub>
 
 </div>

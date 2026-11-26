@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6721** |
+| 📝 Gesamtanzahl Prompts | **6726** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-11-26** |
 
@@ -361,6 +361,127 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Zeitraffer vom Bau einer Miniaturbrücke
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung eines realistischen DIY-Zeitraffervideos vom Bau einer modernen Miniaturbrücke mit cineastischen Details.
+
+#### 📝 Prompt
+
+```
+Erlebe, wie eine beeindruckende moderne Miniaturbrücke zum Leben erwacht – durch realistischen DIY-Bau, präzise Ingenieurskunst, faszinierende Zeitraffer und atemberaubende cineastische Details.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125821550784106496/img/oQWt_DBayLdkaPwp.jpg" width="600" alt="Zeitraffer vom Bau einer Miniaturbrücke">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14165)**
+
+**Autor:** [Olivia Rose](https://x.com/OliviaRose10un) | **Quelle:** [Link](https://x.com/OliviaRose10un/status/2125822470519472466) | **Veröffentlicht:** Nov 26, 2026
+
+---
+### Luxus-Hautpflege-Werbespot-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein umfassender Prompt zur Erstellung einer Luxus-Hautpflege-Werbung mit mehreren Szenen, die Anwendung und Produktpräsentation zeigen.
+
+#### 📝 Prompt
+
+```
+Erstelle einen ultrarealistischen Werbespot für luxuriöse Hautpflege mit einer wunderschönen jungen ostasiatischen Frau, die von Natur aus strahlende Haut und elegantes dunkles Haar trägt, das zu einem soften Dutt gebunden ist.
+
+Szene 1: Beauty-Nahaufnahme, die ihre klare, taufrische Haut und ihre feinen Gesichtszüge in den Mittelpunkt stellt.
+
+Szene 2: Sie sitzt an einem minimalistischen weißen Schminktisch in einem hellen, eleganten Raum und betrachtet sanft ihre Haut.
+
+Szene 3: Nahaufnahme, wie sie einige Tropfen eines transparenten Gesichtsserums auf ihre Handfläche gibt.
+
+Szene 4: Detaillierte Makroaufnahmen ihrer Hände, die sanft Pflegeprodukte in die Haut einmassieren.
+
+Szene 5: Sie schließt die Augen und massiert behutsam ihre Wangen – dabei kommt ihre frische, strahlende und durchfeuchtete Haut perfekt zur Geltung.
+
+Szene 6: Ein wunderschönes weißes Seidenkleid, wehende Vorhänge und sanftes natürliches Sonnenlicht erzeugen eine elegante Luxus-Beauty-Atmosphäre.
+
+Szene 7: Sie lächelt sanft und hält eine transparente Serumflasche in Richtung Kamera.
+
+Schlussszene: Eine hochwertige Serumflasche aus Glas, präsentiert auf einer Marmoroberfläche mit zarten Blüten und weichen Lichtreflexionen.
+
+Stil: Luxuriöser Hautpflege-Werbespot, fotorealistisch, filmreifes Beauty-Licht, cleane weiße Ästhetik, weiches Tageslicht, natürliche Hauttextur, 4K-Werbequalität, fließende Kamerabewegungen, elegante Übergänge, Kampagne für eine Premium-Kosmetikmarke.
+
+Seitenverhältnis: 9:16 vertikal.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795672028283_x11e81_HYBpa2BaEAAmyEh.jpg" width="600" alt="Luxus-Hautpflege-Werbespot-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14167)**
+
+**Autor:** [Rubi](https://x.com/AIwithRubii) | **Quelle:** [Link](https://x.com/AIwithRubii/status/2125814942603563083) | **Veröffentlicht:** Nov 26, 2026
+
+---
+### Ritter gegen Lava-Monster: Epische Schlacht
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für eine düstere, kinoreife mittelalterliche Fantasy-Schlacht-Szene, in der ein Ritter einem riesigen Lava-Monster gegenübersteht.
+
+#### 📝 Prompt
+
+```
+Eine düstere, cineastische Mittelalter-Fantasy-Schlacht in einer verwüsteten Ödnis unter einem wolkenverhangenen grauen Himmel. Ein einsamer, furchtloser Ritter in verwitterter schwarzer Rüstung und einem pelzgefütterten Umhang steht mit erhobenem Langschwert einem gigantischen, von Lava angetriebenen Panzermonster gegenüber. Der Körper des Monsters ist von dunkler Steinrüstung bedeckt, durchzogen von leuchtend orangefarbenen Magmarissen, mit feurigen Augen und gewaltigen, kraftvollen Gliedmaßen. Im Hintergrund umringen mehrere schattenhafte Krieger den Ritter. Langsam hebt der Ritter sein Schwert, während das riesige Monster einen Schritt nach vorn macht und dabei den Boden erbeben lässt. Staub, Rauch und Trümmer erfüllen das Schlachtfeld. Dramatische Froschperspektiven, realistische Rüstungstexturen, cineastische Zeitlupe, episches Ausmaß, düstere Fantasy-Atmosphäre, volumetrischer Nebel, hochdetailliertes CGI, fotorealistisch, 4K-Filmqualität.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125631900031270913/img/8hMv7DTd3WO_Ys3g.jpg" width="600" alt="Ritter gegen Lava-Monster: Epische Schlacht">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14169)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Quelle:** [Link](https://x.com/draavenai/status/2125631977210720296) | **Veröffentlicht:** Nov 25, 2026
+
+---
+### Prinzessin Magischer Garten Video-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für die Erstellung eines fantasievollen, kinoreifen Erlebnisses einer Prinzessin, die einen magischen königlichen Garten mit leuchtenden Schmetterlingen erkundet.
+
+#### 📝 Prompt
+
+```
+Eine wunderschöne Prinzessin erkundet einen magischen königlichen Garten, umgeben von leuchtenden Schmetterlingen, rosafarbenen Rosen, funkelnden Wasserfällen und einem prachtvollen Palast – ein atemberaubendes Fantasy-Kinoerlebnis.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125559517576572928/img/PrZ2BV17AA-n7kfU.jpg" width="600" alt="Prinzessin Magischer Garten Video-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14168)**
+
+**Autor:** [Olivia Rose](https://x.com/OliviaRose10un) | **Quelle:** [Link](https://x.com/OliviaRose10un/status/2125559698011373647) | **Veröffentlicht:** Nov 25, 2026
+
+---
+### Luxus-Parfüm-Werbespot Video-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Generierung eines ultra-realistischen Luxus-Parfüm-Werbespots mit einer eleganten Frau und cineastischen Aufnahmen.
+
+#### 📝 Prompt
+
+```
+Erstelle einen ultrarealistischen Werbespot für ein Luxusparfüm mit einer eleganten jungen Frau. Sie trägt ihr glattes, dunkelbraunes Haar zu einem hohen Pferdeschwanz gebunden und ist in ein stilvolles, weißes, ärmelloses Outfit mit hohem Ausschnitt gekleidet. Anmutig hält sie einen luxuriösen, transparenten Glasflakon mit goldenen Details und cremefarbenem Verschluss.
+
+Die Szenenübergänge umfassen Nahaufnahmen ihres Gesichts, ihrer zarten Hände, die das Parfüm halten, einen sanften Sprühstoß, elegante Produktaufnahmen auf einem beigen Steinsockel sowie den Flakon, der in ihrer Handfläche ruht.
+
+Hintergrund: Minimalistisches, warmes Beige-Studio mit weichem, natürlichem Sonnenlicht, dezenten Schatten und einer hochwertigen Editorial-Atmosphäre.
+
+Kamera: Kinoreife Makroaufnahmen, Zeitlupenbewegungen, fließende Übergänge, geringe Schärfentiefe, professioneller Beauty-Werbespot im Luxussegment, fotorealistische 4K-Qualität. Das Produktdesign und das Erscheinungsbild des Models müssen durchgehend konsistent bleiben.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125469669482184704/img/IksiCro654dFD_qZ.jpg" width="600" alt="Luxus-Parfüm-Werbespot Video-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14166)**
+
+**Autor:** [Rubi](https://x.com/AIwithRubii) | **Quelle:** [Link](https://x.com/AIwithRubii/status/2125469696275497437) | **Veröffentlicht:** Nov 25, 2026
+
+---
 ### Majestischer Flug des Goldenen Adlers – Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9472,101 +9593,6 @@ Vertikales Video, fotorealistischer Stil, heller leerer Raum mit weißen Wänden
 **Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **Veröffentlicht:** Nov 1, 2026
 
 ---
-### Gurkenscheiben-Terrazzo-Boden im Schlafzimmer
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung eines hyperrealistischen Renovierungs-Videos, in dem Gurkenscheiben als Zuschlagstoff in einem weißen Harzboden verwendet werden und sich in ein luxuriöses Schlafzimmer verwandeln.
-
-#### 📝 Prompt
-
-```
-Vertikales Video in einem hellen, leeren Raum mit weißen Wänden, nacktem Betonboden und einem großen Fenster mit Tageslicht. Ein Mann in orangefarbenem Overall und schwarzem T-Shirt harkt einen riesigen Haufen frischer Gurkenscheiben zusammen und verteilt sie zu einer flachen, gleichmäßigen Schicht über den gesamten Boden. Eine Frau in rotem Overall kommt hinzu, und gemeinsam gießen sie dickflüssiges weißes Harz aus Eimern über die Scheiben. Mit Abziehschaufeln verteilen sie es so lange, bis jede einzelne Scheibe unter einer glänzend weißen Oberfläche verschwunden ist. Anschließend schleift und poliert ein Team in gelben Warnwesten und Gehörschutz den Boden mit Maschinen und saugt den Staub ab. Die Oberfläche wird abgeschliffen, sodass durchscheinende Gurkenscheiben zum Vorschein kommen – eingebettet in den weißen, terrazzoartigen Boden wie grüne Tupfen. Ein Arbeiter im orangefarbenen Overall kniet nieder und wischt den Boden von Hand, während Poliermaschinen ihn auf Hochglanz bringen. Zum Schluss tragen zwei Möbelpacker ein beiges Bett mit weißer Bettwäsche sowie einen runden Beistelltisch aus Holz mit Vase und Büchern herein und verwandeln den Raum in ein minimalistisches Designer-Schlafzimmer. Abschließende Beauty-Einstellung: langsamer Kameraschwenk über den glänzend weißen Boden mit den eingelassenen Gurkenscheiben, weiches natürliches Licht, befriedigende Renovierung im ASMR-Stil, fotorealistische Details, sanfte, kinoreife Kamerabewegung.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116879474146820096/img/9EVrV0bsiBxieDBp.jpg" width="600" alt="Gurkenscheiben-Terrazzo-Boden im Schlafzimmer">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13367)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2116879515527905597) | **Veröffentlicht:** Nov 1, 2026
-
----
-### Jelly Bean Terrazzo-Bodenrenovierung Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung eines realistischen Renovierungsvideos, in dem Jelly Beans auf dem Boden verteilt und mit Epoxidharz überzogen werden, um einen bunten Terrazzo-Effekt zu erzeugen. Das Video endet mit der Einrichtung des Schlafzimmers.
-
-#### 📝 Prompt
-
-```
-Ein Mann in blauer Jeanslatzhose und grauem T-Shirt harkt einen riesigen Berg bunter Jelly Beans über den nackten Boden eines hellen, leeren weißen Raums mit großem, sonnendurchflutetem Fenster. Er verteilt die Süßigkeiten gleichmäßig nach außen, bis sie eine perfekt ebene Schicht bilden, die den gesamten Boden bedeckt. Anschließend gießt eine Frau in roter Latzhose dickflüssiges, glänzend weißes Epoxidharz aus einem großen Eimer über die Süßigkeiten. Die milchige Flüssigkeit fließt und breitet sich aus, bis sie die Jelly Beans von Rand zu Rand vollständig bedeckt. Ein Arbeiter in gelber Warnweste zieht daraufhin einen breiten Rakel über die Oberfläche und poliert sie mit einer Bodenschleifmaschine auf – zum Vorschein kommt ein spiegelglatter, transparenter Boden, in dem Tausende leuchtender Süßigkeiten wie buntes Terrazzo eingeschlossen sind. Zum Schluss tragen zwei Möbelpacker in schwarzen Shirts und Caps ein hölzernes Bettgestell herein, bauen es zusammen und beziehen es mit Matratze, weißen Kissen und cremefarbener Bettwäsche. So entsteht ein gemütliches Schlafzimmer direkt über dem Jelly-Bean-Boden. Warmes Sonnenlicht fällt durch das Fenster, Reflexionen tanzen über die polierte Oberfläche, fotorealistisch, fließende Kamerafahrten ohne Schnitte, befriedigendes Renovierungs-Transformationsvideo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116534129743282176/img/4h_0ekgG8AglI3M-.jpg" width="600" alt="Jelly Bean Terrazzo-Bodenrenovierung Video">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13293)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2116534169773723824) | **Veröffentlicht:** Oct 31, 2026
-
----
-### Flüssig-Chrom-Spiegeltür – Lackier-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung eines fotorealistischen DIY-Videos, in dem ein Mann eine Innentür mit flüssigem Chromlack streicht und sie so in eine perfekt spiegelnde Oberfläche verwandelt.
-
-#### 📝 Prompt
-
-```
-Vertikales, fotorealistisches Video in einem hellen, modernen Wohninterieur. Ein Mann in eng anliegendem grauem T-Shirt, blauer Jeans und mit Smartwatch kniet auf einer Plastikabdeckplane, die mit gelbem Klebeband abgegrenzt ist. Er taucht einen großen gelb-schwarzen Pinsel in eine offene Dose dickflüssiges Flüssigchrom und wirft dabei einen Blick auf sein Smartphone. Extreme Nahaufnahme: Silbrig glänzende Farbe tropft langsam von den Borsten zurück in die Dose, deren spiegelglatte Oberfläche sanfte Wellen schlägt. Schnitt zu einer weißen Innentür mit sechs Füllungen: Seine Hand führt den Pinsel über ein Türfeld, und das Flüssigchrom breitet sich zu einer makellosen, spiegelnden Oberfläche aus – jeder gleichmäßige Pinselstrich bedeckt mehr Fläche. In einer Sequenz von Einstellungen werden die Füllungen, Rahmen und Kanten gestrichen, bis die gesamte Tür wie poliertes Metall glänzt und die Deckenleuchten sowie den umliegenden Raum reflektiert. Abschließende Totale: Die fertige Tür ist ein perfekter Spiegel und zeigt den Mann mit Handy und Pinsel, eine Kamera auf Stativ sowie den Flur hinter ihm. Befriedigende DIY-Transformation, natürliches Tageslicht, klare Texturen, realistische metallische Reflexionen, ruhige Handkamera mit langsamen Zoomfahrten auf die Pinselstriche.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116533216941101056/img/yCgCLf7sk1HLopxM.jpg" width="600" alt="Flüssig-Chrom-Spiegeltür – Lackier-Video">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13292)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2116533263543984512) | **Veröffentlicht:** Oct 31, 2026
-
----
-### Sonnenblumen-Epoxidharz-Boden: Die Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung eines befriedigenden vertikalen Videos, das die schrittweise Gestaltung eines Sonnenblumen-Epoxidharzbodens in einem Schlafzimmer zeigt.
-
-#### 📝 Prompt
-
-```
-Vertikales Video in einem hellen, leeren Raum mit weißen Wänden, einem großen Fenster und einem rohen Holzunterboden. Ein Mann in blauem Overall und Arbeitshandschuhen verteilt mit einer Harke einen großen Haufen frischer Sonnenblumen und breitet sie mit gleichmäßigen, schwungvollen Bewegungen auf dem gesamten Boden aus, bis der ganze Raum von Blüten bedeckt ist. Anschließend tragen zwei Frauen in roten Overalls weiße Eimer herein und gießen dickflüssiges, cremeweißes Epoxidharz über die Sonnenblumen. Die Flüssigkeit breitet sich aus und umschließt die Blumen langsam. Danach poliert ein Arbeiter in Warnweste die ausgehärtete Oberfläche mit einer Einscheibenmaschine, wodurch ein glänzender, transparenter Harzboden zum Vorschein kommt, in den leuchtende Sonnenblumen eingebettet sind – wie eine Wiese, eingefroren unter Glas. Zum Schluss tragen zwei Frauen ein hölzernes Bettgestell herein, legen die Matratze auf, verteilen eine weiße Bettdecke samt Kissen und stellen Nachttische mit warm leuchtenden Lampen auf. Das Video endet mit einem langsamen Kameraschwenk über das fertige, gemütliche Schlafzimmer: Sonnenlicht fällt durch das Fenster, und der spiegelglatte Sonnenblumenboden reflektiert das Bett. Realistischer Stil, fließende Kamerabewegungen, befriedigende Schritt-für-Schritt-Verwandlung, helles natürliches Tageslicht, hoher Detailgrad.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116426390618697728/img/vsk1exATGuXDM7K5.jpg" width="600" alt="Sonnenblumen-Epoxidharz-Boden: Die Transformation">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13295)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2116426434025504817) | **Veröffentlicht:** Oct 31, 2026
-
----
-### Kokos-Terrazzo-Schlafzimmerboden-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung eines Renovierungsvideos, das eine Ansammlung von Kokosnüssen und Kokosmilch in einen stilvollen Terrazzo-Boden für ein tropisch gestaltetes Schlafzimmer verwandelt.
-
-#### 📝 Prompt
-
-```
-Hochformat-Video in einem leeren Raum mit weißen Wänden und einem großen Fenster, das den Blick auf üppige tropische Palmen freigibt. Ein Mann in einer Jeans-Latzhose harkt einen riesigen Haufen aus Hunderten braunen Kokosnüssen zusammen und verteilt sie gleichmäßig auf dem nackten Betonboden, bis sie eine dichte Schicht bilden. Anschließend gießt eine Frau in einer roten Latzhose dickflüssige, cremig-weiße Kokosmilch aus einem großen Eimer darüber, flutet den Boden und überzieht die Kokosnüsse mit einer glatten weißen Schicht. Danach schiebt ein Arbeiter in einer gelben Warnweste eine Bodenschleif- und Poliermaschine über die Fläche und schleift die ausgehärtete Oberfläche ab, sodass ein glänzender Terrazzoboden zum Vorschein kommt, in den aufgeschnittene Kokosnussscheiben eingelassen sind. Zum Schluss tragen zwei Möbelpacker in schwarzen Uniformen ein hölzernes Bettgestell herein, legen eine Matratze darauf und beziehen das Bett mit frisch gebügelten weißen Laken und Kissen. Das Video endet mit der Enthüllung eines hellen, stilvoll eingerichteten Schlafzimmers, in dem der einzigartige, polierte Kokosnuss-Terrazzoboden das Licht aus dem Fenster reflektiert. Fließende, realistische Übergänge, natürliches Tageslicht, befriedigender Renovierungs-Stil, fotorealistische Details.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116425489967411200/img/eISADImu1dHFuzRh.jpg" width="600" alt="Kokos-Terrazzo-Schlafzimmerboden-Video">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13294)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2116425542874378504) | **Veröffentlicht:** Oct 31, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -9628,6 +9654,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-26T00:17:47.486Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-26T08:19:41.207Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6721** |
+| 📝 Total Prompts | **6726** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-11-26** |
 
@@ -365,6 +365,127 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Miniature Bridge Construction Timelapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a realistic DIY construction timelapse of a miniature modern bridge with cinematic details.
+
+#### 📝 Prompt
+
+```
+Watch a stunning miniature modern bridge come to life through realistic DIY construction, precision engineering, satisfying timelapse, and breathtaking cinematic details.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125821550784106496/img/oQWt_DBayLdkaPwp.jpg" width="600" alt="Miniature Bridge Construction Timelapse">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14165)**
+
+**Author:** [Olivia Rose](https://x.com/OliviaRose10un) | **Source:** [Link](https://x.com/OliviaRose10un/status/2125822470519472466) | **Published:** Nov 26, 2026
+
+---
+### Luxury Skincare Commercial Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive prompt for creating a luxury skincare advertisement with multiple scenes showing application and product display.
+
+#### 📝 Prompt
+
+```
+Create an ultra-realistic luxury skincare commercial featuring a beautiful young East Asian woman with natural glowing skin and elegant dark hair styled in a soft bun.
+
+Scene 1: Close-up beauty shot highlighting her clear, dewy skin and delicate facial features.
+
+Scene 2: She sits at a minimalist white vanity in a bright, elegant room, gently examining her skin.
+
+Scene 3: Close-up of her applying a few drops of transparent facial serum onto her palm.
+
+Scene 4: Detailed macro shots of her hands gently massaging skincare products into her skin.
+
+Scene 5: She closes her eyes and softly massages her cheeks, showcasing fresh, radiant, hydrated skin.
+
+Scene 6: A beautiful white silk dress, flowing curtains, and soft natural sunlight create an elegant luxury beauty atmosphere.
+
+Scene 7: She smiles gently while holding a transparent skincare serum bottle toward the camera.
+
+Final scene: A premium glass serum bottle displayed on a marble surface with delicate flowers and soft reflections.
+
+Style: Luxury skincare advertisement, photorealistic, cinematic beauty lighting, clean white aesthetic, soft daylight, natural skin texture, 4K commercial quality, smooth camera movements, elegant transitions, premium cosmetic brand campaign.
+
+Aspect Ratio: 9:16 vertical.
+```
+
+<img src="https://cms-assets.youmind.com/media/1795672028283_x11e81_HYBpa2BaEAAmyEh.jpg" width="600" alt="Luxury Skincare Commercial Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14167)**
+
+**Author:** [Rubi](https://x.com/AIwithRubii) | **Source:** [Link](https://x.com/AIwithRubii/status/2125814942603563083) | **Published:** Nov 26, 2026
+
+---
+### Knight vs Lava Monster Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a dark cinematic medieval fantasy battle scene featuring a knight facing a giant lava-powered monster.
+
+#### 📝 Prompt
+
+```
+A dark cinematic medieval fantasy battle in a ruined wasteland under a cloudy grey sky. A lone fearless knight wearing weathered black armor and a fur-lined cloak stands holding a long sword, facing a gigantic lava-powered armored monster. The monster's body is covered in dark stone armor with glowing orange magma cracks, fiery eyes, and enormous powerful limbs. Several shadowy warriors surround the knight in the background. The knight slowly raises his sword as the giant monster steps forward, shaking the ground. Dust, smoke, and debris fill the battlefield. Dramatic low-angle camera shots, realistic armor textures, cinematic slow motion, epic scale, dark fantasy atmosphere, volumetric fog, high-detail CGI, photorealistic, 4K movie quality.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125631900031270913/img/8hMv7DTd3WO_Ys3g.jpg" width="600" alt="Knight vs Lava Monster Battle">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14169)**
+
+**Author:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2125631977210720296) | **Published:** Nov 25, 2026
+
+---
+### Princess Magical Garden Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for creating a fantasy cinematic experience of a princess exploring a magical royal garden with glowing butterflies.
+
+#### 📝 Prompt
+
+```
+A beautiful princess explores a magical royal garden, surrounded by glowing butterflies, pink roses, sparkling waterfalls, and a magnificent palace, creating a breathtaking fantasy cinematic experience.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125559517576572928/img/PrZ2BV17AA-n7kfU.jpg" width="600" alt="Princess Magical Garden Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14168)**
+
+**Author:** [Olivia Rose](https://x.com/OliviaRose10un) | **Source:** [Link](https://x.com/OliviaRose10un/status/2125559698011373647) | **Published:** Nov 25, 2026
+
+---
+### Luxury Perfume Commercial Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating an ultra-realistic luxury perfume commercial featuring an elegant woman and cinematic shots.
+
+#### 📝 Prompt
+
+```
+Create an ultra-realistic luxury perfume commercial featuring an elegant young woman with sleek dark brown hair tied in a high ponytail, wearing a sophisticated white sleeveless high-neck outfit. She gracefully holds a luxurious transparent glass perfume bottle with golden details and a cream-colored cap.
+
+Scene transitions include close-up shots of her face, delicate hands holding the perfume, a gentle perfume spray, elegant product shots on a beige stone pedestal, and the bottle resting in her palm.
+
+Background: Minimalist warm beige studio with soft natural sunlight, subtle shadows, and a premium editorial atmosphere.
+
+Camera: Cinematic macro shots, slow-motion movements, smooth transitions, shallow depth of field, professional luxury beauty advertising, photorealistic 4K quality. Maintain consistent product design and model appearance throughout.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125469669482184704/img/IksiCro654dFD_qZ.jpg" width="600" alt="Luxury Perfume Commercial Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14166)**
+
+**Author:** [Rubi](https://x.com/AIwithRubii) | **Source:** [Link](https://x.com/AIwithRubii/status/2125469696275497437) | **Published:** Nov 25, 2026
+
+---
 ### Majestic Golden Eagle Flight Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9621,101 +9742,6 @@ Vertical video, photorealistic style, bright empty room with white walls and a l
 **Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **Published:** Nov 1, 2026
 
 ---
-### Cucumber Slice Terrazzo Bedroom Floor
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a hyper-realistic renovation video where cucumber slices are used as aggregate in a white resin floor, transforming into a luxury bedroom.
-
-#### 📝 Prompt
-
-```
-Vertical video in a bright empty room with white walls, bare concrete floor and a large window with daylight. A man in orange overalls and a black t-shirt rakes a huge mound of fresh cucumber slices, spreading them into a flat even layer across the whole floor. A woman in red overalls joins him and they pour thick white resin from buckets over the slices, spreading it with squeegees until every slice is submerged under a glossy white surface. A crew in yellow high-visibility vests and ear defenders then grinds and polishes the floor with machines and vacuums the dust, sanding the surface down to reveal translucent cucumber slices embedded in the white terrazzo-like floor like green polka dots. A worker in orange overalls kneels wiping the floor by hand while polishing machines bring it to a mirror shine. Finally two movers carry in a beige bed with white bedding, a round wooden side table with a vase and books, turning the space into a minimalist designer bedroom. Closing beauty shot: slow pan across the glossy white floor dotted with embedded cucumber slices, soft natural light, satisfying ASMR-style renovation, photorealistic detail, smooth cinematic camera movement.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116879474146820096/img/9EVrV0bsiBxieDBp.jpg" width="600" alt="Cucumber Slice Terrazzo Bedroom Floor">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13367)**
-
-**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116879515527905597) | **Published:** Nov 1, 2026
-
----
-### Jelly Bean Terrazzo Floor Renovation Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a realistic renovation video where jelly beans are spread on the floor and covered with epoxy resin to create a colorful terrazzo effect, ending with bedroom furniture setup.
-
-#### 📝 Prompt
-
-```
-A man in blue denim overalls and a gray t-shirt rakes a huge mountain of colorful jelly beans across the bare floor of a bright empty white room with a large sunny window, spreading the candy outward into a perfectly even layer that covers the whole floor. Next, a woman in red overalls pours thick glossy white epoxy resin from a big bucket over the candy, the milky liquid flowing and spreading until it completely covers the jelly beans edge to edge. A worker in a yellow safety vest then drags a wide squeegee across the surface and buffs it with a floor polishing machine, revealing a mirror-glossy transparent floor with thousands of vivid candies suspended inside like colorful terrazzo. Finally, two movers in black shirts and caps carry in a wooden bed frame, assemble it, and dress it with a mattress, white pillows and cream bedding, finishing a cozy bedroom above the candy floor. Warm sunlight streams through the window, reflections dance on the polished surface, photorealistic, smooth continuous shots, satisfying renovation transformation video.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116534129743282176/img/4h_0ekgG8AglI3M-.jpg" width="600" alt="Jelly Bean Terrazzo Floor Renovation Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13293)**
-
-**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116534169773723824) | **Published:** Oct 31, 2026
-
----
-### Liquid Chrome Mirror Door Painting Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a photorealistic DIY video where a man paints an interior door with liquid chrome paint, transforming it into a perfect reflective mirror surface.
-
-#### 📝 Prompt
-
-```
-Vertical photorealistic video in a bright modern home interior. A man in a fitted gray t-shirt, blue jeans and a smartwatch kneels on a plastic drop cloth bordered with yellow tape, dipping a large yellow-and-black paintbrush into an open can of thick liquid chrome while glancing at his smartphone. Extreme close-up: molten silver paint drips slowly off the bristles back into the rippling mirror-like can. Cut to a white six-panel interior door: his hand sweeps the brush across a panel and the liquid chrome spreads into a flawless reflective mirror finish, each smooth stroke coating more surface. Sequential shots show the panels, stiles and edges being painted until the entire door gleams like polished metal, reflecting ceiling lights and the room around it. Final wide shot: the completed door is a perfect mirror showing the man holding his phone and brush, a camera on a tripod and the hallway behind him. Satisfying DIY transformation, natural daylight, crisp textures, realistic metallic reflections, steady handheld camera with slow push-ins on the brush strokes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116533216941101056/img/yCgCLf7sk1HLopxM.jpg" width="600" alt="Liquid Chrome Mirror Door Painting Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13292)**
-
-**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116533263543984512) | **Published:** Oct 31, 2026
-
----
-### Sunflower Epoxy Resin Floor Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a satisfying vertical video showing the step-by-step creation of a sunflower resin floor in a bedroom.
-
-#### 📝 Prompt
-
-```
-Vertical video in a bright empty room with white walls, a large window and a raw wooden subfloor. A man in blue overalls and work gloves rakes a big pile of fresh sunflowers, spreading them evenly across the entire floor with smooth sweeping motions until the whole room is covered in blooms. Two women in red overalls then carry white buckets and pour thick creamy white epoxy resin over the sunflowers, the liquid flowing outward and slowly submerging the flowers. Next, a worker in a high-visibility vest polishes the hardened surface with a rotary floor machine, revealing a glossy clear resin floor with vivid sunflowers embedded inside like a field frozen under glass. Finally, two women carry in a wooden bed frame, place the mattress, spread a white duvet and pillows, and add nightstands with warm lamps. The video ends with a slow pan across the finished cozy bedroom, sunlight streaming through the window, the mirror-like sunflower floor reflecting the bed. Realistic style, smooth camera movement, satisfying step-by-step transformation, bright natural daylight, high detail.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116426390618697728/img/vsk1exATGuXDM7K5.jpg" width="600" alt="Sunflower Epoxy Resin Floor Transformation">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13295)**
-
-**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116426434025504817) | **Published:** Oct 31, 2026
-
----
-### Coconut Terrazzo Bedroom Floor Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for creating a renovation video that turns a pile of coconuts and coconut milk into a stylish terrazzo floor for a tropical-themed bedroom.
-
-#### 📝 Prompt
-
-```
-Vertical video inside an empty room with white walls and a large window overlooking lush tropical palm trees. A man in denim overalls rakes a huge pile of hundreds of brown coconuts, spreading them evenly across the bare concrete floor until they form a dense layer. A woman in red overalls then pours thick creamy white coconut milk from a large bucket, flooding the floor and covering the coconuts in a smooth white layer. Next, a worker in a yellow high-visibility vest pushes a floor grinding and polishing machine, sanding the hardened surface to reveal a glossy terrazzo floor embedded with sliced coconut cross sections. Finally, two movers in black uniforms carry in a wooden bed frame, place a mattress, and dress the bed with crisp white sheets and pillows. The video ends with a bright, stylish bedroom reveal showcasing the unique polished coconut terrazzo floor reflecting light from the window. Smooth realistic transitions, natural daylight, satisfying construction transformation style, photorealistic detail.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116425489967411200/img/eISADImu1dHFuzRh.jpg" width="600" alt="Coconut Terrazzo Bedroom Floor Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13294)**
-
-**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116425542874378504) | **Published:** Oct 31, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -9777,6 +9803,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-26T00:17:34.406Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-26T08:19:27.688Z</sub>
 
 </div>
