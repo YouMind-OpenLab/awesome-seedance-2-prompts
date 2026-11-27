@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6726** |
+| 📝 Total des prompts | **6729** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-11-27** |
 
@@ -361,6 +361,44 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Révélation d'un Mini Barndominium
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt pour créer une vidéo de révélation cinématographique d'un barndominium américain miniature de luxe.
+
+#### 📝 Prompt
+
+```
+Découvrez un incroyable barndominium de luxe américain en miniature, avec une construction réaliste, une architecture moderne, une piscine, un magnifique aménagement paysager et une révélation finale cinématographique époustouflante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125973157677084672/img/EjURUS64gtyX_YRz.jpg" width="600" alt="Révélation d'un Mini Barndominium">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14173)**
+
+**Auteur:** [Olivia Rose](https://x.com/OliviaRose10un) | **Source:** [Link](https://x.com/OliviaRose10un/status/2125973480688721964) | **Publié:** Nov 26, 2026
+
+---
+### Aventure d'Abeille Style Pixar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une scène d'animation 3D chaleureuse dans le style Pixar, mettant en scène une abeille découvrant une créature à l'intérieur d'une rose.
+
+#### 📝 Prompt
+
+```
+Une scène d'animation 3D touchante dans le style Pixar, se déroulant dans un magnifique jardin fleuri baigné de soleil. Une minuscule et adorable petite abeille jaune toute duveteuse, dotée de grands yeux marron expressifs, de petites ailes et d'un corps rayé craquant, vole en direction d'une grande rose rouge éclatante. L'abeille découvre une créature miniature cachée au cœur de la fleur et réagit avec surprise et curiosité. Les deux personnages arborent des expressions faciales très animées et des réactions émotionnelles adorables. L'abeille virevolte délicatement autour de la rose, laissant derrière elle une traînée magique de pollen doré scintillant. Lumière douce du soleil, fleurs sauvages colorées, herbe verte luxuriante, faible profondeur de champ, gros plans cinématographiques, mouvements de caméra fluides, textures duveteuses réalistes, animation de personnages pleine de charme, atmosphère féerique, animation 3D de haute qualité, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125967308682321920/img/f6zTF3zagj1ombpd.jpg" width="600" alt="Aventure d'Abeille Style Pixar">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14175)**
+
+**Auteur:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2125967360893018427) | **Publié:** Nov 26, 2026
+
+---
 ### Timelapse de construction d'un pont miniature
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -412,11 +450,30 @@ Style : Publicité pour soins de la peau de luxe, rendu photoréaliste, éclaira
 Format : Vertical 9:16.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1795672028283_x11e81_HYBpa2BaEAAmyEh.jpg" width="600" alt="Prompt Vidéo Publicitaire Soins de la Peau Luxe">
+<img src="https://cms-assets.youmind.com/media/1795758387683_m5drzj_HYBpa2BaEAAmyEh.jpg" width="600" alt="Prompt Vidéo Publicitaire Soins de la Peau Luxe">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14167)**
 
 **Auteur:** [Rubi](https://x.com/AIwithRubii) | **Source:** [Link](https://x.com/AIwithRubii/status/2125814942603563083) | **Publié:** Nov 26, 2026
+
+---
+### Scène d'artiste du feu en boîte de nuit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite pour générer une vidéo au ralenti d'une artiste du feu faisant tourner des bâtons enflammés dans une boîte de nuit luxueuse aux néons.
+
+#### 📝 Prompt
+
+```
+Une magnifique artiste du feu dans une boîte de nuit de luxe, faisant tournoyer des bâtons enflammés et dessinant de spectaculaires cercles de feu. Des étincelles jaillissent dans les airs tandis que des néons colorés illuminent la scène. Ralenti cinématographique, flammes réalistes, mouvements de caméra dynamiques, musique électrisante de club, qualité 4K ultra-réaliste.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125814729180606464/img/7_M3SfCMXigKS7ZA.jpg" width="600" alt="Scène d'artiste du feu en boîte de nuit">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14174)**
+
+**Auteur:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2125814785157853489) | **Publié:** Nov 26, 2026
 
 ---
 ### Bataille entre un Chevalier et un Monstre de Lave
@@ -9276,63 +9333,6 @@ Signature fixe dans le coin inférieur gauche : d'abord un point bleu foncé uni
 **Auteur:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Source:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **Publié:** Nov 1, 2026
 
 ---
-### Vidéo de Rénovation : Sol Terrazzo en Bouchons de Liège
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une vidéo verticale montrant la transformation de bouchons de liège en un sol terrazzo poli dans une chambre à coucher, mettant en vedette les étapes de rénovation et des visuels de construction satisfaisants.
-
-#### 📝 Prompt
-
-```
-Vidéo verticale à l'intérieur d'une pièce blanche vide, éclairée par une fenêtre lumineuse et une porte ouverte. Un homme vêtu d'une salopette bleue et d'un t-shirt sombre ratisse un énorme tas de bouchons de liège posés au sol, les étalant en une couche plate et uniforme qui recouvre toute la pièce. Une femme en salopette rouge verse ensuite une épaisse résine époxy blanche depuis un grand seau : le liquide brillant s'écoule sur les bouchons et inonde tout le sol jusqu'à le submerger entièrement. Puis, des ouvriers portant des gilets de sécurité jaune fluo poussent de lourdes ponceuses à plancher d'avant en arrière, ponçant la surface durcie pour révéler peu à peu un superbe motif de terrazzo composé de morceaux de liège suspendus dans une résine blanche et lisse, polie jusqu'à obtenir un éclat miroir. Enfin, deux hommes habillés de noir apportent un cadre de lit en bois, l'assemblent et y installent un matelas, des oreillers blancs et un plaid beige. La vidéo se termine sur un plan large de la chambre achevée, dont le sol en terrazzo de liège lumineux reflète la lumière du jour. Style timelapse de rénovation satisfaisant, transitions fluides, lumière naturelle, textures réalistes, ambiance chantier étrangement apaisante.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116909245618692096/img/TSdqYOWdWORLvaVM.jpg" width="600" alt="Vidéo de Rénovation : Sol Terrazzo en Bouchons de Liège">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13369)**
-
-**Auteur:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116909289004556620) | **Publié:** Nov 1, 2026
-
----
-### Vidéo DIY : Évier en béton fait maison avec un parapluie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une vidéo tutorielle réaliste de DIY montrant comment transformer un parapluie en évier en béton à l'aide de ciment et de galets.
-
-#### 📝 Prompt
-
-```
-Une vidéo de bricolage réaliste, filmée sur une terrasse couverte avec un mur en béton et une porte en bois en arrière-plan. Un homme portant un t-shirt gris et une casquette noire se tient debout devant une table en bois rustique, où un parapluie jaune ouvert est posé à l'envers pour servir de moule. À l'aide d'une truelle, il puise du ciment gris humide dans un seau noir pour remplir le parapluie, puis enfonce un bol en plastique bleu au centre du ciment et lisse la surface à la main. Il dispose ensuite des galets de rivière bien lisses en cercle autour du bol, en les enfonçant dans le ciment. Une fois le béton pris, il retire le bol bleu, décolle la toile jaune du parapluie et dévoile un lavabo octogonal en béton orné de galets incrustés sur son pourtour. Il perce un trou d'évacuation au centre avec une perceuse sans fil, nettoie la vasque avec un chiffon, peint entièrement le lavabo en blanc au pinceau, puis applique une peinture en spray bleu brillant sur les galets. La scène finale présente ce lavabo design terminé, installé dans une salle de bain moderne équipée d'un robinet chromé, où l'homme se lave les mains sous l'eau courante. Caméra portée aux mouvements fluides, lumière naturelle du jour, transformation satisfaisante, style tutoriel.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116908302177009664/img/tOwAXa3GGvl22aee.jpg" width="600" alt="Vidéo DIY : Évier en béton fait maison avec un parapluie">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13366)**
-
-**Auteur:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116908365364256821) | **Publié:** Nov 1, 2026
-
----
-### Vidéo de Sol Terrazzo en Marbre pour Chambre à Coucher
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour créer une vidéo verticale illustrant le processus de transformation de billes en verre en un sol terrazzo brillant dans une chambre moderne.
-
-#### 📝 Prompt
-
-```
-Vidéo au format vertical, style photoréaliste, pièce vide et lumineuse aux murs blancs avec une grande fenêtre. Un homme en salopette en jean bleu ratisse un immense tas de milliers de billes en verre colorées sur un sol en béton, les répartissant uniformément dans toute la pièce. Une femme en salopette rouge verse une épaisse résine époxy autonivelante blanche depuis un grand seau par-dessus les billes ; le liquide brillant s'écoule et les recouvre, tandis qu'elle l'étale délicatement à l'aide d'un râteau. Un ouvrier portant un gilet de sécurité jaune utilise une polisseuse de sol pour poncer et polir la surface, révélant un magnifique plancher brillant où les billes rondes et colorées sont incrustées comme des pierres polies. Deux ouvriers assemblent un cadre de lit en bois, y posent un matelas blanc et habillent le lit d'une literie blanche, d'oreillers beiges et d'un plaid. Plan large final d'une chambre moderne et chaleureuse, dont le sol unique en terrazzo de marbre resplendit sous la lumière naturelle du jour. Mouvements de caméra fluides, transformation de rénovation satisfaisante, ambiance ASMR, éclairage réaliste, niveau de détail élevé.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116880395002138624/img/jdcG-y-8Shk4Au0c.jpg" width="600" alt="Vidéo de Sol Terrazzo en Marbre pour Chambre à Coucher">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13370)**
-
-**Auteur:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **Publié:** Nov 1, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -9394,6 +9394,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-27T03:04:20.061Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-27T13:53:36.747Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6726** |
+| 📝 Total de prompts | **6729** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-11-27** |
 
@@ -361,6 +361,44 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Revelação de Mini Barndominium
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para criar um vídeo cinematográfico de revelação de um mini barndominium americano de luxo.
+
+#### 📝 Prompt
+
+```
+Descubra um incrível barndominium de luxo americano em miniatura, com construção realista, arquitetura moderna, piscina, paisagismo impecável e uma revelação final cinematográfica de tirar o fôlego.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125973157677084672/img/EjURUS64gtyX_YRz.jpg" width="600" alt="Revelação de Mini Barndominium">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=14173)**
+
+**Autor:** [Olivia Rose](https://x.com/OliviaRose10un) | **Fonte:** [Link](https://x.com/OliviaRose10un/status/2125973480688721964) | **Publicado:** Nov 26, 2026
+
+---
+### Aventura de Abelha no Estilo Pixar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar uma cena animada 3D comovente, no estilo Pixar, com uma abelha descobrindo uma criatura dentro de uma rosa.
+
+#### 📝 Prompt
+
+```
+Uma cena de animação 3D emocionante no estilo Pixar, ambientada em um lindo jardim de flores ensolarado. Uma abelhinha amarela minúscula, adorável e felpuda, com grandes olhos castanhos expressivos, asinhas pequenas e um corpinho listrado muito fofo, voa em direção a uma grande e vibrante rosa vermelha. A abelha descobre uma criaturinha escondida dentro da flor e reage com surpresa e curiosidade. Os dois personagens têm expressões faciais marcantes e reações emocionais encantadoras. A abelha voa suavemente ao redor da rosa, deixando um rastro mágico de pólen dourado e brilhante. Luz do sol suave, flores silvestres coloridas, grama verde exuberante, profundidade de campo reduzida, closes cinematográficos, movimentos de câmera fluidos, texturas felpudas realistas, animação de personagens cativante, atmosfera lúdica, animação 3D de alta qualidade, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125967308682321920/img/f6zTF3zagj1ombpd.jpg" width="600" alt="Aventura de Abelha no Estilo Pixar">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=14175)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fonte:** [Link](https://x.com/draavenai/status/2125967360893018427) | **Publicado:** Nov 26, 2026
+
+---
 ### Timelapse da Construção de Ponte em Miniatura
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -412,11 +450,30 @@ Estilo: Anúncio de skincare de luxo, fotorrealista, iluminação cinematográfi
 Proporção: 9:16 vertical.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1795672028283_x11e81_HYBpa2BaEAAmyEh.jpg" width="600" alt="Prompt de Vídeo Comercial de Skincare de Luxo">
+<img src="https://cms-assets.youmind.com/media/1795758387683_m5drzj_HYBpa2BaEAAmyEh.jpg" width="600" alt="Prompt de Vídeo Comercial de Skincare de Luxo">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=14167)**
 
 **Autor:** [Rubi](https://x.com/AIwithRubii) | **Fonte:** [Link](https://x.com/AIwithRubii/status/2125814942603563083) | **Publicado:** Nov 26, 2026
+
+---
+### Cena de Performer com Fogo em Boate
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar um vídeo em câmera lenta de uma performer feminina girando bastões flamejantes em uma boate de luxo com luzes neon.
+
+#### 📝 Prompt
+
+```
+Uma bela performer de fogo em uma boate de luxo, girando bastões flamejantes e criando espetaculares círculos de chamas. Faíscas voam pelo ar enquanto luzes neon coloridas iluminam a cena. Câmera lenta cinematográfica, chamas realistas, movimentos de câmera dinâmicos, música eletrônica agitada de balada, qualidade 4K ultrarrealista.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125814729180606464/img/7_M3SfCMXigKS7ZA.jpg" width="600" alt="Cena de Performer com Fogo em Boate">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=14174)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2125814785157853489) | **Publicado:** Nov 26, 2026
 
 ---
 ### Batalha entre Cavaleiro e Monstro de Lava
@@ -9559,63 +9616,6 @@ Assinatura fixa no canto inferior esquerdo: primeiro um ponto sólido azul-escur
 **Autor:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Fonte:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **Publicado:** Nov 1, 2026
 
 ---
-### Vídeo de Renovação de Piso de Terrazzo com Rolhas de Vinho
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para gerar um vídeo vertical mostrando a transformação de rolhas de vinho em um piso de terrazzo polido no quarto, destacando etapas da reforma e visuais satisfatórios de construção.
-
-#### 📝 Prompt
-
-```
-Vídeo vertical dentro de uma sala branca vazia, com uma janela bem iluminada e uma porta aberta. Um homem de macacão azul e camiseta escura passa um ancinho em uma enorme pilha de rolhas de vinho no chão, espalhando-as até formar uma camada plana e uniforme que cobre o ambiente inteiro. Em seguida, uma mulher de macacão vermelho despeja uma resina epóxi branca e espessa de um balde grande; o líquido brilhante escorre sobre as rolhas e inunda todo o piso até cobri-lo por completo. Depois, trabalhadores usando coletes de segurança amarelo neon empurram pesadas lixadeiras de piso para frente e para trás, lixando a superfície já curada para revelar, aos poucos, um padrão terrazzo impressionante: pedaços de cortiça suspensos na resina branca lisa, polidos até ganharem um brilho espelhado. Por fim, dois homens vestidos de preto trazem uma estrutura de cama de madeira, fazem a montagem e arrumam tudo com um colchão, travesseiros brancos e uma manta bege. O vídeo termina com um plano aberto do quarto pronto, onde o piso de terrazzo de cortiça reluzente reflete a luz natural. Estilo timelapse de reforma satisfatório, transições suaves, luz natural, texturas realistas e aquela vibe de construção estranhamente relaxante.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116909245618692096/img/TSdqYOWdWORLvaVM.jpg" width="600" alt="Vídeo de Renovação de Piso de Terrazzo com Rolhas de Vinho">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13369)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2116909289004556620) | **Publicado:** Nov 1, 2026
-
----
-### Vídeo de Artesanato: Pia de Concreto DIY com Guarda-Chuva
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para gerar um vídeo tutorial realista de DIY mostrando como transformar um guarda-chuva em uma pia de concreto usando cimento e pedras.
-
-#### 📝 Prompt
-
-```
-Um vídeo realista de artesanato DIY filmado em uma varanda coberta, com uma parede de concreto e uma porta de madeira ao fundo. Um homem vestindo camiseta cinza e boné preto está de pé diante de uma mesa rústica de madeira, onde um guarda-chuva amarelo aberto repousa de cabeça para baixo, funcionando como uma forma. Com uma espátula, ele retira cimento cinza úmido de um balde preto e preenche o guarda-chuva; em seguida, pressiona uma tigela de plástico azul no centro do cimento e alisa a superfície com as mãos. Ele organiza seixos lisos de rio formando um anel ao redor da tigela, pressionando-os contra o cimento. Depois que o concreto seca, ele retira a tigela azul, remove o tecido amarelo do guarda-chuva e revela uma pia octogonal de concreto com pedrinhas incrustadas ao redor da borda. Com uma parafusadeira sem fio, faz um furo para o ralo no centro, limpa a bacia com um pano, pinta toda a pia de branco usando um pincel e, por fim, aplica tinta spray azul brilhante nas pedras. A cena final mostra a pia de design já instalada em um banheiro moderno com torneira cromada, onde o homem lava as mãos na água corrente. Câmera na mão com movimentos suaves, luz natural do dia, transformação satisfatória, estilo tutorial.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116908302177009664/img/tOwAXa3GGvl22aee.jpg" width="600" alt="Vídeo de Artesanato: Pia de Concreto DIY com Guarda-Chuva">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13366)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2116908365364256821) | **Publicado:** Nov 1, 2026
-
----
-### Vídeo de Piso de Terrazzo de Mármore no Quarto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para criar um vídeo vertical que retrata o processo de transformar bolinhas de gude em um piso de terrazzo brilhante dentro de um quarto moderno.
-
-#### 📝 Prompt
-
-```
-Vídeo vertical, estilo fotorrealista, sala vazia e iluminada com paredes brancas e uma janela grande. Um homem de macacão jeans azul espalha com um rodo uma pilha enorme de milhares de bolinhas de gude coloridas no chão de concreto, distribuindo-as uniformemente por toda a sala. Uma mulher de macacão vermelho despeja resina epóxi branca, espessa e autonivelante, de um balde grande sobre as bolinhas; o líquido brilhante escorre e as cobre, enquanto ela nivela tudo suavemente com um rodo. Um operário de colete de segurança amarelo usa uma politriz para lixar e polir a superfície, revelando um piso brilhante deslumbrante, com as bolinhas coloridas incrustadas como pedras polidas. Dois trabalhadores montam uma estrutura de cama de madeira, colocam um colchão branco e arrumam a cama com roupas de cama brancas, travesseiros bege e uma manta decorativa. Plano aberto final de um quarto moderno e aconchegante, com o piso exclusivo de terrazzo de mármore brilhando sob a luz natural do dia. Movimentos de câmera suaves, transformação de reforma satisfatória, clima ASMR, iluminação realista, alto nível de detalhes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116880395002138624/img/jdcG-y-8Shk4Au0c.jpg" width="600" alt="Vídeo de Piso de Terrazzo de Mármore no Quarto">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13370)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **Publicado:** Nov 1, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -9677,6 +9677,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-27T03:04:22.674Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-27T13:53:39.242Z</sub>
 
 </div>

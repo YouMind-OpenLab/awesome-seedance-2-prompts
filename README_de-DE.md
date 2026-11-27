@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6726** |
+| 📝 Gesamtanzahl Prompts | **6729** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-11-27** |
 
@@ -361,6 +361,44 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Enthüllung einer Miniatur-Barndominium
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt zur Erstellung eines kinematografischen Enthüllungsvideos einer luxuriösen amerikanischen Miniatur-Barndominium.
+
+#### 📝 Prompt
+
+```
+Entdecke ein unglaubliches amerikanisches Luxus-Barndominium im Miniaturformat – mit detailgetreuem Aufbau, moderner Architektur, Swimmingpool, traumhafter Gartengestaltung und einem atemberaubenden filmreifen Finale.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125973157677084672/img/EjURUS64gtyX_YRz.jpg" width="600" alt="Enthüllung einer Miniatur-Barndominium">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14173)**
+
+**Autor:** [Olivia Rose](https://x.com/OliviaRose10un) | **Quelle:** [Link](https://x.com/OliviaRose10un/status/2125973480688721964) | **Veröffentlicht:** Nov 26, 2026
+
+---
+### Pixar-Stil Bienenabenteuer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung einer herzergreifenden Pixar-Stil-3D-Animatioszene, in der eine Biene ein Wesen im Inneren einer Rose entdeckt.
+
+#### 📝 Prompt
+
+```
+Eine herzerwärmende 3D-Animationsszene im Pixar-Stil in einem wunderschönen, sonnendurchfluteten Blumengarten. Eine winzige, bezaubernde, flauschige gelbe Biene mit großen, ausdrucksstarken braunen Augen, zierlichen Flügeln und einem niedlich gestreiften Körper fliegt auf eine große, leuchtend rote Rose zu. Die Biene entdeckt ein winziges Wesen, das sich in der Blüte versteckt, und reagiert überrascht und neugierig. Beide Figuren zeigen ausdrucksstarke Gesichtsanimationen und entzückende emotionale Reaktionen. Sanft umschwirrt die Biene die Rose und hinterlässt dabei eine magische Spur aus funkelndem goldenem Blütenstaub. Weiches Sonnenlicht, bunte Wildblumen, saftiges grünes Gras, geringe Schärfentiefe, filmreife Nahaufnahmen, sanfte Kamerabewegungen, realistisch flauschige Texturen, charmante Charakteranimation, märchenhafte Atmosphäre, hochwertige 3D-Animation, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125967308682321920/img/f6zTF3zagj1ombpd.jpg" width="600" alt="Pixar-Stil Bienenabenteuer">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14175)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Quelle:** [Link](https://x.com/draavenai/status/2125967360893018427) | **Veröffentlicht:** Nov 26, 2026
+
+---
 ### Zeitraffer vom Bau einer Miniaturbrücke
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -412,11 +450,30 @@ Stil: Luxuriöser Hautpflege-Werbespot, fotorealistisch, filmreifes Beauty-Licht
 Seitenverhältnis: 9:16 vertikal.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1795672028283_x11e81_HYBpa2BaEAAmyEh.jpg" width="600" alt="Luxus-Hautpflege-Werbespot-Prompt">
+<img src="https://cms-assets.youmind.com/media/1795758387683_m5drzj_HYBpa2BaEAAmyEh.jpg" width="600" alt="Luxus-Hautpflege-Werbespot-Prompt">
 
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14167)**
 
 **Autor:** [Rubi](https://x.com/AIwithRubii) | **Quelle:** [Link](https://x.com/AIwithRubii/status/2125814942603563083) | **Veröffentlicht:** Nov 26, 2026
+
+---
+### Nachtklub-Feuerkünstler-Szene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung eines Zeitlupenvideos einer weiblichen Feuerkünstlerin, die in einem luxuriösen Nachtklub mit Neonlichtern brennende Stäbe schwingt.
+
+#### 📝 Prompt
+
+```
+Eine wunderschöne Feuershow-Künstlerin in einem luxuriösen Nachtclub wirbelt brennende Stäbe durch die Luft und erzeugt spektakuläre Feuerkreise. Funken fliegen durch die Luft, während bunte Neonlichter die Szene illuminieren. Kinoreife Zeitlupe, realistische Flammen, dynamische Kamerabewegungen, energiegeladene Clubmusik, ultrarealistische 4K-Qualität.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125814729180606464/img/7_M3SfCMXigKS7ZA.jpg" width="600" alt="Nachtklub-Feuerkünstler-Szene">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14174)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2125814785157853489) | **Veröffentlicht:** Nov 26, 2026
 
 ---
 ### Ritter gegen Lava-Monster: Epische Schlacht
@@ -9536,63 +9593,6 @@ Festes Signet in der unteren linken Ecke: zuerst ein dunkelblauer, ausgefüllter
 **Autor:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Quelle:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **Veröffentlicht:** Nov 1, 2026
 
 ---
-### Weinkork-Terrazzo-Boden Renovierungs-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung eines vertikalen Videos, das die Verwandlung von Weinkorken in einen polierten Terrazzoboden im Schlafzimmer zeigt. Es enthält Renovierungsschritte und befriedigende Baustellen-Aufnahmen.
-
-#### 📝 Prompt
-
-```
-Hochformat-Video in einem leeren weißen Raum mit einem hellen Fenster und einer offenen Tür. Ein Mann in blauem Overall und dunklem T-Shirt harkt einen riesigen Berg Weinkorken auf dem Boden zusammen und verteilt sie zu einer flachen, gleichmäßigen Schicht, die den gesamten Raum bedeckt. Anschließend gießt eine Frau in rotem Overall dickflüssiges weißes Epoxidharz aus einem großen Eimer. Die glänzende Flüssigkeit fließt über die Korken und überschwemmt den ganzen Boden, bis alles vollständig bedeckt ist. Danach schieben Arbeiter in neongelben Warnwesten schwere Bodenschleifmaschinen hin und her und schleifen die ausgehärtete Oberfläche ab. So kommt nach und nach ein atemberaubendes Terrazzo-Muster zum Vorschein: Korkstücke, eingebettet in glattes weißes Harz, poliert auf Hochglanz. Zum Schluss tragen zwei schwarz gekleidete Männer ein Bettgestell aus Holz herein, bauen es auf und beziehen es mit Matratze, weißen Kissen und einer beigefarbenen Tagesdecke. Das Video endet mit einer Totale des fertigen Schlafzimmers, in dem der leuchtende Kork-Terrazzo-Boden das Tageslicht reflektiert. Befriedigender Renovierungs-Zeitrraffer-Stil, sanfte Übergänge, natürliches Tageslicht, realistische Texturen, seltsam befriedigende Bau-Atmosphäre.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116909245618692096/img/TSdqYOWdWORLvaVM.jpg" width="600" alt="Weinkork-Terrazzo-Boden Renovierungs-Video">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13369)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2116909289004556620) | **Veröffentlicht:** Nov 1, 2026
-
----
-### DIY-Video: Betonwaschbecken aus einem Regenschirm basteln
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine Eingabeaufforderung zur Erstellung eines realistischen DIY-Tutorials, das zeigt, wie man einen Regenschirm mit Zement und Kies in ein Betonwaschbecken verwandelt.
-
-#### 📝 Prompt
-
-```
-Ein realistisches DIY-Bastelvideo, gedreht auf einer überdachten Terrasse mit einer Betonwand und einer Holztür im Hintergrund. Ein Mann in einem grauen T-Shirt und einer schwarzen Kappe steht an einem rustikalen Holztisch, auf dem ein geöffneter gelber Regenschirm wie eine Gussform verkehrt herum liegt. Mit einer Kelle schöpft er feuchten, grauen Zement aus einem schwarzen Eimer und füllt damit den Schirm. Anschließend drückt er eine blaue Plastikschüssel in die Mitte des Zements und glättet die Oberfläche mit den Händen. Um die Schüssel herum legt er glatte Flusskiesel zu einem Ring und drückt sie in den Zement. Nachdem der Beton ausgehärtet ist, hebt er die blaue Schüssel heraus, löst den gelben Schirmstoff ab und enthüllt ein achteckiges Betonwaschbecken, in dessen Rand die Kiesel eingelassen sind. Mit einem Akkuschrauber bohrt er mittig ein Ablaufloch, wischt das Becken mit einem Tuch sauber, streicht das gesamte Waschbecken mit einem Pinsel weiß an und lackiert die Kiesel anschließend mit Sprühfarbe glänzend blau. Die Schlussszene zeigt das fertige Designerwaschbecken, eingebaut in einem modernen Badezimmer mit Chromarmatur, während der Mann sich unter fließendem Wasser die Hände wäscht. Ruhige Handkameraführung, natürliches Tageslicht, befriedigende Verwandlung, Tutorial-Stil.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116908302177009664/img/tOwAXa3GGvl22aee.jpg" width="600" alt="DIY-Video: Betonwaschbecken aus einem Regenschirm basteln">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13366)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2116908365364256821) | **Veröffentlicht:** Nov 1, 2026
-
----
-### Marmor-Terrazzo-Schlafzimmerboden-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung eines vertikalen Videos, das den Prozess der Umwandlung von Glas-Murmeln in einen glänzenden Terrazzo-Boden in einem modernen Schlafzimmer zeigt.
-
-#### 📝 Prompt
-
-```
-Vertikales Video, fotorealistischer Stil, heller leerer Raum mit weißen Wänden und einem großen Fenster. Ein Mann in einer blauen Jeans-Latzhose verteilt mit einem Rechen einen riesigen Haufen aus Tausenden bunten Glasmurmeln auf einem Betonboden und breitet sie gleichmäßig im gesamten Raum aus. Eine Frau in einem roten Overall gießt dickflüssiges, weißes, selbstnivellierendes Epoxidharz aus einem großen Eimer über die Murmeln; die glänzende Flüssigkeit fließt, bedeckt sie vollständig und wird von ihr mit einem Rechen glatt verstrichen. Ein Arbeiter in einer gelben Warnweste bearbeitet die Oberfläche mit einer Bodenpoliermaschine, schleift und poliert sie und bringt so einen atemberaubend glänzenden Boden zum Vorschein, in den bunte runde Murmeln wie geschliffene Edelsteine eingebettet sind. Zwei Arbeiter montieren ein Bettgestell aus Holz, legen eine weiße Matratze darauf und beziehen das Bett mit weißer Bettwäsche, beigen Kissen und einer Überwurfdecke. Abschließende Totale eines gemütlichen, modernen Schlafzimmers, in dem der einzigartige Terrazzo-Marmorboden im natürlichen Tageslicht erstrahlt. Ruhige Kameraführung, befriedigende Renovierungs-Transformation, ASMR-Stimmung, realistische Beleuchtung, hohes Detailniveau.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116880395002138624/img/jdcG-y-8Shk4Au0c.jpg" width="600" alt="Marmor-Terrazzo-Schlafzimmerboden-Video">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13370)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **Veröffentlicht:** Nov 1, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -9654,6 +9654,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-27T03:04:18.859Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-27T13:53:35.368Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6726** |
+| 📝 Total de prompts | **6729** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-11-27** |
 
@@ -361,6 +361,44 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Revelación de un Barndominium en Miniatura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para crear un video cinematográfico que revele un barndominium americano de lujo en miniatura.
+
+#### 📝 Prompt
+
+```
+Descubre un increíble barndominium de lujo estadounidense en miniatura, con una construcción realista, arquitectura moderna, piscina, un hermoso paisajismo y un espectacular reveal final digno del cine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125973157677084672/img/EjURUS64gtyX_YRz.jpg" width="600" alt="Revelación de un Barndominium en Miniatura">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14173)**
+
+**Autor:** [Olivia Rose](https://x.com/OliviaRose10un) | **Fuente:** [Link](https://x.com/OliviaRose10un/status/2125973480688721964) | **Publicado:** Nov 26, 2026
+
+---
+### Aventura de Abeja en Estilo Pixar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar una conmovedora escena animada en 3D estilo Pixar, donde una abeja descubre una criatura dentro de una rosa.
+
+#### 📝 Prompt
+
+```
+Una tierna escena de animación 3D al estilo Pixar en un hermoso jardín de flores bañado por el sol. Una abejita amarilla, adorable y esponjosa, con grandes ojos marrones muy expresivos, alitas diminutas y un cuerpito rayado encantador, vuela hacia una gran rosa roja y vibrante. La abeja descubre a una criaturita escondida dentro de la flor y reacciona con sorpresa y curiosidad. Ambos personajes tienen animaciones faciales muy expresivas y reacciones emocionales adorables. La abeja revolotea suavemente alrededor de la rosa, dejando a su paso un rastro mágico de polen dorado y brillante. Luz solar suave, flores silvestres de colores, césped verde y frondoso, poca profundidad de campo, primeros planos cinematográficos, movimientos de cámara fluidos, texturas realistas y esponjosas, animación de personajes encantadora, atmósfera mágica y fantasiosa, animación 3D de alta calidad, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125967308682321920/img/f6zTF3zagj1ombpd.jpg" width="600" alt="Aventura de Abeja en Estilo Pixar">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14175)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fuente:** [Link](https://x.com/draavenai/status/2125967360893018427) | **Publicado:** Nov 26, 2026
+
+---
 ### Timelapse de construcción de un puente en miniatura
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -412,11 +450,30 @@ Estilo: Anuncio de cuidado de la piel de lujo, fotorrealista, iluminación cinem
 Relación de aspecto: 9:16 vertical.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1795672028283_x11e81_HYBpa2BaEAAmyEh.jpg" width="600" alt="Prompt de video comercial para skincare de lujo">
+<img src="https://cms-assets.youmind.com/media/1795758387683_m5drzj_HYBpa2BaEAAmyEh.jpg" width="600" alt="Prompt de video comercial para skincare de lujo">
 
 **[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14167)**
 
 **Autor:** [Rubi](https://x.com/AIwithRubii) | **Fuente:** [Link](https://x.com/AIwithRubii/status/2125814942603563083) | **Publicado:** Nov 26, 2026
+
+---
+### Escena de artista del fuego en discoteca
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para generar un video en cámara lenta de una artista femenina del fuego haciendo girar bastones encendidos en una discoteca de lujo con luces de neón.
+
+#### 📝 Prompt
+
+```
+Una hermosa artista del fuego en un club nocturno de lujo, girando bastones en llamas y creando espectaculares círculos de fuego. Las chispas vuelan por el aire mientras las luces de neón de colores iluminan la escena. Cámara lenta cinematográfica, llamas realistas, movimientos de cámara dinámicos, música energética de club nocturno, calidad 4K ultrarrealista.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125814729180606464/img/7_M3SfCMXigKS7ZA.jpg" width="600" alt="Escena de artista del fuego en discoteca">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14174)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2125814785157853489) | **Publicado:** Nov 26, 2026
 
 ---
 ### Batalla entre Caballero y Monstruo de Lava
@@ -9521,63 +9578,6 @@ Firma fija en la esquina inferior izquierda: primero un punto sólido azul oscur
 **Autor:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Fuente:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **Publicado:** Nov 1, 2026
 
 ---
-### Video de Renovación de Suelo de Terrazo con Corchos de Vino
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para generar un video vertical que muestra la transformación de corchos de vino en un suelo de terrazo pulido en un dormitorio, destacando los pasos de renovación y visuales de construcción satisfactorios.
-
-#### 📝 Prompt
-
-```
-Video vertical dentro de una habitación blanca vacía con una ventana muy iluminada y una puerta abierta. Un hombre con overol azul y camiseta oscura rastrilla un enorme montón de corchos de vino en el piso, esparciéndolos hasta formar una capa plana y uniforme que cubre toda la habitación. Luego, una mujer con overol rojo vierte resina epoxi blanca y espesa desde una cubeta grande; el líquido brillante se desliza sobre los corchos e inunda todo el piso hasta sumergirlo por completo. Después, unos trabajadores con chalecos de seguridad amarillo neón empujan pesadas pulidoras de piso de un lado a otro, lijando la superficie ya endurecida para revelar poco a poco un espectacular patrón tipo terrazo: trozos de corcho suspendidos en resina blanca y lisa, pulida hasta lograr un brillo de espejo. Por último, dos hombres vestidos de negro entran con la base de madera de una cama, la arman y le colocan un colchón, almohadas blancas y una manta beige. El video termina con una toma amplia del dormitorio terminado, donde el reluciente piso de terrazo de corcho refleja la luz del día. Estilo timelapse de remodelación satisfactoria, transiciones fluidas, luz natural, texturas realistas y esa vibra de construcción extrañamente satisfactoria.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116909245618692096/img/TSdqYOWdWORLvaVM.jpg" width="600" alt="Video de Renovación de Suelo de Terrazo con Corchos de Vino">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13369)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fuente:** [Link](https://x.com/Ruslanchain/status/2116909289004556620) | **Publicado:** Nov 1, 2026
-
----
-### Video de bricolaje: lavabo de hormigón hecho con un paraguas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar un video tutorial realista de bricolaje que muestra cómo convertir un paraguas en un lavabo de hormigón utilizando cemento y piedras.
-
-#### 📝 Prompt
-
-```
-Un video realista de manualidades DIY grabado en un patio techado, con una pared de concreto y una puerta de madera al fondo. Un hombre con camiseta gris y gorra negra está de pie junto a una mesa rústica de madera donde hay un paraguas amarillo abierto, colocado boca abajo como si fuera un molde. Con una espátula, saca cemento gris húmedo de una cubeta negra para llenar el paraguas; luego hunde un tazón de plástico azul en el centro del cemento y alisa la superficie con las manos. Coloca piedras lisas de río formando un anillo alrededor del tazón, presionándolas contra el cemento. Una vez que el concreto fragua, retira el tazón azul, despega la tela amarilla del paraguas y deja al descubierto un lavabo octagonal de concreto con piedras incrustadas en el borde. Con un taladro inalámbrico perfora el desagüe en el centro, limpia el lavamanos con un trapo, pinta todo el lavabo de blanco con brocha y después aplica pintura en aerosol azul brillante sobre las piedras. La escena final muestra el lavabo de diseño ya instalado en un baño moderno con llave cromada, donde el hombre se lava las manos bajo el chorro de agua. Cámara en mano con movimientos suaves, luz natural, transformación satisfactoria, estilo tutorial.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116908302177009664/img/tOwAXa3GGvl22aee.jpg" width="600" alt="Video de bricolaje: lavabo de hormigón hecho con un paraguas">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13366)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2116908365364256821) | **Publicado:** Nov 1, 2026
-
----
-### Video de Piso de Terrazo de Mármol en Dormitorio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para crear un video vertical que muestra el proceso de convertir canicas de vidrio en un suelo de terrazo brillante dentro de un dormitorio moderno.
-
-#### 📝 Prompt
-
-```
-Video vertical, estilo fotorrealista, habitación vacía y luminosa con paredes blancas y un ventanal grande. Un hombre con overol de mezclilla azul rastrilla una enorme pila de miles de canicas de vidrio de colores sobre un piso de concreto, esparciéndolas de manera uniforme por toda la habitación. Una mujer con overol rojo vierte una espesa resina epoxi autonivelante blanca desde una cubeta grande sobre las canicas; el líquido brillante fluye y las cubre, mientras ella lo distribuye suavemente con un rastrillo. Un trabajador con chaleco de seguridad amarillo usa una pulidora de pisos para lijar y pulir la superficie, revelando un espectacular piso brillante con puntos redondos de canicas de colores incrustados como piedras pulidas. Dos trabajadores arman una base de cama de madera, colocan un colchón blanco y visten la cama con ropa de cama blanca, almohadas beige y una manta decorativa. Toma amplia final de una acogedora habitación moderna con su singular piso de terrazo de mármol que resplandece bajo la luz natural del día. Movimientos de cámara fluidos, transformación de remodelación satisfactoria, ambiente ASMR, iluminación realista, alto nivel de detalle.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116880395002138624/img/jdcG-y-8Shk4Au0c.jpg" width="600" alt="Video de Piso de Terrazo de Mármol en Dormitorio">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13370)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fuente:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **Publicado:** Nov 1, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -9639,6 +9639,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-27T03:04:17.635Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-27T13:53:34.093Z</sub>
 
 </div>

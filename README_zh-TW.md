@@ -68,7 +68,7 @@
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **6726** |
+| 📝 提示詞總數 | **6729** |
 | ⭐ 精選提示詞 | **6** |
 | 🔄 最後更新 | **2026-11-27** |
 
@@ -361,6 +361,44 @@
 
 > 📝 按發布日期排序（最新優先）
 
+### 微型穀倉別墅展示影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於製作微型豪華美式穀倉別墅電影級展示影片的提示詞。
+
+#### 📝 提示詞
+
+```
+探索一座令人驚豔的美式奢華 Barndominium 微縮模型，擁有逼真的建築工法、現代化設計、游泳池與精緻的庭園造景，最後更帶來震撼人心的電影級成果揭曉。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125973157677084672/img/EjURUS64gtyX_YRz.jpg" width="600" alt="微型穀倉別墅展示影片">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=14173)**
+
+**作者:** [Olivia Rose](https://x.com/OliviaRose10un) | **來源:** [Link](https://x.com/OliviaRose10un/status/2125973480688721964) | **發布時間:** Nov 26, 2026
+
+---
+### 皮克斯風格蜜蜂冒險
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成溫馨皮克斯風格 3D 動畫場景的提示詞，內容為一隻蜜蜂在玫瑰中發現神秘生物。
+
+#### 📝 提示詞
+
+```
+皮克斯風格的溫馨 3D 動畫場景，背景是一座陽光明媚的美麗花園。一隻嬌小可愛、毛茸茸的黃色小蜜蜂，有著靈動的大棕色眼睛、小巧的翅膀與討喜的條紋身軀，正朝一朵鮮豔奪目的大紅玫瑰飛去。小蜜蜂發現花朵裡躲著一隻迷你生物，露出既驚訝又好奇的神情。兩個角色都有生動豐富的面部表情與惹人憐愛的情緒反應。小蜜蜂輕柔地繞著玫瑰飛舞，留下一道閃爍金色花粉的魔幻軌跡。柔和的陽光、繽紛的野花、翠綠茂盛的草地、淺景深效果、電影級特寫鏡頭、流暢的運鏡、逼真的毛絨質感、迷人的角色動畫、充滿童趣的奇幻氛圍、高品質 3D 動畫、4K。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125967308682321920/img/f6zTF3zagj1ombpd.jpg" width="600" alt="皮克斯風格蜜蜂冒險">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=14175)**
+
+**作者:** [Draaven](https://x.com/draavenai) | **來源:** [Link](https://x.com/draavenai/status/2125967360893018427) | **發布時間:** Nov 26, 2026
+
+---
 ### 迷你橋樑建造縮時攝影
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -412,11 +450,30 @@
 長寬比：9:16 直式。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1795672028283_x11e81_HYBpa2BaEAAmyEh.jpg" width="600" alt="高端護膚品廣告影片提示詞">
+<img src="https://cms-assets.youmind.com/media/1795758387683_m5drzj_HYBpa2BaEAAmyEh.jpg" width="600" alt="高端護膚品廣告影片提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=14167)**
 
 **作者:** [Rubi](https://x.com/AIwithRubii) | **來源:** [Link](https://x.com/AIwithRubii/status/2125814942603563083) | **發布時間:** Nov 26, 2026
+
+---
+### 夜店火舞表演者場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成慢動作影片的提示詞，內容為一名女性火舞表演者在霓虹燈點綴的高級夜店中旋轉燃燒的火棒。
+
+#### 📝 提示詞
+
+```
+一位美麗的女性火舞表演者置身於奢華夜店中，旋轉著燃燒的火棍，劃出壯觀的火焰光圈。火花在空中飛舞，絢麗的霓虹燈光點亮整個場景。電影級慢動作、逼真火焰、動態運鏡、充滿活力的夜店音樂，超寫實 4K 畫質。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125814729180606464/img/7_M3SfCMXigKS7ZA.jpg" width="600" alt="夜店火舞表演者場景">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=14174)**
+
+**作者:** [AIwithMinal](https://x.com/AIwithMinal) | **來源:** [Link](https://x.com/AIwithMinal/status/2125814785157853489) | **發布時間:** Nov 26, 2026
 
 ---
 ### 騎士對決熔岩怪獸
@@ -9224,63 +9281,6 @@ VIII. Seedance 2.0 Mini 執行要求
 **作者:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **來源:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **發布時間:** Nov 1, 2026
 
 ---
-### 葡萄酒軟木塞磨石子地板翻新影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成直式影片的提示詞，展示將葡萄酒軟木塞轉化為臥室中精緻磨石子地板的過程，包含翻新步驟與療癒的施工視覺效果。
-
-#### 📝 提示詞
-
-```
-直式影片，場景位於一間空蕩的白色房間內，房裡有一扇明亮的窗戶與一道敞開的門。一名身穿藍色吊帶工作褲、深色 T 恤的男子正用耙子整理地上堆積如山的葡萄酒軟木塞，將它們均勻攤平，鋪滿整個房間的地面。接著，一名穿著紅色吊帶工作褲的女子從大桶中倒下濃稠的白色環氧樹脂，光澤流動的液體漫過軟木塞、淹沒整片地板，直到所有軟木塞完全被覆蓋。隨後，幾名穿著螢光黃安全背心的工人來回推動沉重的地板拋光機，打磨已固化的表面，逐漸顯露出令人驚豔的水磨石紋理——軟木碎片懸浮在平滑的白色樹脂中，被打磨得如鏡面般光亮。最後，兩名黑衣男子搬進一組木製床架並完成組裝，再鋪上床墊、白色枕頭與米色蓋毯。影片以完工臥室的全景鏡頭作結，閃閃發亮的軟木水磨石地板映照著自然日光。療癒系裝潢縮時攝影風格、流暢轉場、自然日光、擬真材質質感，散發出一種莫名舒壓的施工氛圍。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116909245618692096/img/TSdqYOWdWORLvaVM.jpg" width="600" alt="葡萄酒軟木塞磨石子地板翻新影片">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=13369)**
-
-**作者:** [Ruslan Ai](https://x.com/Ruslanchain) | **來源:** [Link](https://x.com/Ruslanchain/status/2116909289004556620) | **發布時間:** Nov 1, 2026
-
----
-### DIY 雨傘水泥水槽製作教學影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成逼真 DIY 教學影片的提示詞，展示如何利用水泥與鵝卵石將雨傘改造成水泥水槽。
-
-#### 📝 提示詞
-
-```
-一段寫實的 DIY 手作影片，拍攝地點為有遮頂的露台，背景是水泥牆與木門。一名身穿灰色 T 恤、戴著黑色帽子的男子站在質樸的木桌前，桌上有一把倒放的黃色雨傘，像模具一樣敞開著。他用抹刀從黑色水桶中舀起濕潤的灰色水泥填入雨傘內，接著將一個藍色塑膠碗壓入水泥中央，並用雙手將表面抹平。他在碗的周圍排上一圈光滑的鵝卵石，並將它們一一壓進水泥裡。待水泥凝固後，他取出藍色塑膠碗、剝開黃色雨傘布，露出一個邊緣鑲嵌著鵝卵石的八角形水泥洗手台。他以無線電鑽在中央鑽出排水孔，用抹布將盆體擦拭乾淨，再用刷子把整個洗手台漆成白色，最後以噴漆將鵝卵石噴上亮面藍色。結尾畫面呈現這款完成的設計師款洗手台安裝在現代風浴室中，搭配鍍鉻水龍頭，男子正在流水下洗手。流暢的手持鏡頭、自然日光、療癒的改造過程、教學風格。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116908302177009664/img/tOwAXa3GGvl22aee.jpg" width="600" alt="DIY 雨傘水泥水槽製作教學影片">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=13366)**
-
-**作者:** [Linh Ai](https://x.com/Rajrana12476547) | **來源:** [Link](https://x.com/Rajrana12476547/status/2116908365364256821) | **發布時間:** Nov 1, 2026
-
----
-### 大理石水磨石臥室地板影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於製作垂直影片的提示詞，描繪在現代臥室環境中將玻璃彈珠轉化為光亮水磨石地板的過程。
-
-#### 📝 提示詞
-
-```
-直式影片，擬真攝影風格，明亮的空房間，白色牆面搭配一扇大窗。一名身穿藍色牛仔吊帶褲的男子，用耙子將混凝土地板上一大堆數以千計的彩色玻璃彈珠均勻鋪滿整個房間。一名身穿紅色吊帶褲的女子，從大桶中將濃稠的白色自流平環氧樹脂倒在彈珠上，光澤流動的液體順勢覆蓋彈珠，她再用耙子將其平滑推開。一名穿著黃色安全背心的工人使用地板拋光機研磨拋光表面，展現出令人驚豔的光亮地坪，彩色的圓形彈珠如打磨過的寶石般鑲嵌其中。兩名工人組裝木製床架、放上白色床墊，並鋪上白色寢具、米色枕頭與一條蓋毯。最後的廣角鏡頭呈現一間溫馨的現代臥室，獨特的水磨石彈珠地坪在自然日光下閃耀光芒。流暢的運鏡、療癒的改造過程、ASMR 氛圍、寫實光影、高細節呈現。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116880395002138624/img/jdcG-y-8Shk4Au0c.jpg" width="600" alt="大理石水磨石臥室地板影片">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=13370)**
-
-**作者:** [Ruslan Ai](https://x.com/Ruslanchain) | **來源:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **發布時間:** Nov 1, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -9342,6 +9342,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-11-27T03:04:08.807Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-11-27T13:53:25.247Z</sub>
 
 </div>

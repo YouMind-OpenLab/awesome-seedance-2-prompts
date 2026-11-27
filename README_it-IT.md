@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6726** |
+| 📝 Totale prompt | **6729** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-11-27** |
 
@@ -361,6 +361,44 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Reveal di una Barndominium Americana in Miniatura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per creare un video di reveal cinematografico di una barndominium americana di lusso in miniatura.
+
+#### 📝 Prompt
+
+```
+Scopri un incredibile barndominium di lusso americano in miniatura, con una riproduzione realistica delle strutture, un'architettura moderna, piscina, splendidi spazi verdi e uno spettacolare reveal finale in stile cinematografico.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125973157677084672/img/EjURUS64gtyX_YRz.jpg" width="600" alt="Reveal di una Barndominium Americana in Miniatura">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=14173)**
+
+**Autore:** [Olivia Rose](https://x.com/OliviaRose10un) | **Fonte:** [Link](https://x.com/OliviaRose10un/status/2125973480688721964) | **Pubblicato:** Nov 26, 2026
+
+---
+### Avventura di un'ape in stile Pixar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare una tenera scena animata 3D in stile Pixar, con un'ape che scopre una creatura all'interno di una rosa.
+
+#### 📝 Prompt
+
+```
+Una scena di animazione 3D in stile Pixar, tenera e commovente, ambientata in uno splendido giardino fiorito baciato dal sole. Una minuscola e adorabile apetta gialla e soffice, con grandi occhi marroni espressivi, aliette delicate e un corpicino a strisce davvero buffo, vola verso una grande e vivace rosa rossa. L'ape scopre una creaturina nascosta all'interno del fiore e reagisce con sorpresa e curiosità. I due personaggi sfoggiano espressioni facciali molto animate e reazioni emotive irresistibili. L'ape volteggia dolcemente attorno alla rosa, lasciando dietro di sé una scia magica di polline dorato e scintillante. Luce solare morbida, fiori di campo colorati, erba verde e rigogliosa, profondità di campo ridotta, primi piani cinematografici, movimenti di camera fluidi, texture soffici e realistiche, animazione dei personaggi incantevole, atmosfera fiabesca, animazione 3D di alta qualità, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125967308682321920/img/f6zTF3zagj1ombpd.jpg" width="600" alt="Avventura di un'ape in stile Pixar">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=14175)**
+
+**Autore:** [Draaven](https://x.com/draavenai) | **Fonte:** [Link](https://x.com/draavenai/status/2125967360893018427) | **Pubblicato:** Nov 26, 2026
+
+---
 ### Timelapse della Costruzione di un Ponte in Miniatura
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -412,11 +450,30 @@ Stile: Pubblicità skincare di lusso, fotorealistica, illuminazione cinematograf
 Formato: Verticale 9:16.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1795672028283_x11e81_HYBpa2BaEAAmyEh.jpg" width="600" alt="Prompt Video Commerciale Skincare di Lusso">
+<img src="https://cms-assets.youmind.com/media/1795758387683_m5drzj_HYBpa2BaEAAmyEh.jpg" width="600" alt="Prompt Video Commerciale Skincare di Lusso">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=14167)**
 
 **Autore:** [Rubi](https://x.com/AIwithRubii) | **Fonte:** [Link](https://x.com/AIwithRubii/status/2125814942603563083) | **Pubblicato:** Nov 26, 2026
+
+---
+### Scena di performer del fuoco in discoteca
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare un video in slow motion di una performer del fuoco che fa roteare bastoni infuocati in una discoteca di lusso con luci al neon.
+
+#### 📝 Prompt
+
+```
+Una splendida artista del fuoco in un night club di lusso fa roteare bastoni infuocati, creando spettacolari cerchi di fiamme. Scintille volano nell'aria mentre luci al neon colorate illuminano la scena. Slow motion cinematografico, fiamme realistiche, movimenti di camera dinamici, musica energica da night club, qualità 4K ultra-realistica.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125814729180606464/img/7_M3SfCMXigKS7ZA.jpg" width="600" alt="Scena di performer del fuoco in discoteca">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=14174)**
+
+**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2125814785157853489) | **Pubblicato:** Nov 26, 2026
 
 ---
 ### Battaglia tra Cavaliere e Mostro di Lava
@@ -9480,63 +9537,6 @@ Firma fissa nell'angolo in basso a sinistra: prima un punto pieno blu scuro, seg
 **Autore:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Fonte:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **Pubblicato:** Nov 1, 2026
 
 ---
-### Video Ristrutturazione Pavimento Terrazzo Sughero
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per generare un video verticale che mostra la trasformazione di sughero da vino in un pavimento terrazzo lucido in una camera da letto, con passaggi di ristrutturazione e visivi di costruzione soddisfacenti.
-
-#### 📝 Prompt
-
-```
-Video verticale ambientato in una stanza vuota dalle pareti bianche, con un'unica finestra luminosa e una porta aperta. Un uomo in salopette blu e t-shirt scura rastrella un enorme cumulo di tappi di sughero sul pavimento, distribuendoli fino a formare uno strato piatto e uniforme che ricopre l'intera stanza. Subito dopo, una donna in salopette rossa versa da un grande secchio una densa resina epossidica bianca: il liquido lucido cola sui tappi e inonda tutto il pavimento, sommergendolo completamente. A seguire, alcuni operai con gilet antinfortunistici giallo fluo spingono avanti e indietro pesanti levigatrici per pavimenti, carteggiando la superficie indurita per far emergere gradualmente uno splendido motivo in stile terrazzo, con i frammenti di sughero sospesi nella resina bianca e liscia, lucidata a specchio. Infine, due uomini vestiti di nero portano dentro una struttura del letto in legno, la montano e la preparano con un materasso, cuscini bianchi e un plaid beige. Il video si chiude con un'inquadratura ampia della camera da letto finita, dove il luminoso pavimento in terrazzo di sughero riflette la luce del giorno. Stile timelapse di ristrutturazione appagante, transizioni fluide, luce naturale, texture realistiche, atmosfera da cantiere oddly satisfying.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116909245618692096/img/TSdqYOWdWORLvaVM.jpg" width="600" alt="Video Ristrutturazione Pavimento Terrazzo Sughero">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13369)**
-
-**Autore:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2116909289004556620) | **Pubblicato:** Nov 1, 2026
-
----
-### Video artigianale: Realizza un lavandino in cemento con un ombrello
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per generare un video tutorial realistico di fai-da-te che mostra come trasformare un ombrello in un lavandino in cemento utilizzando cemento e ciottoli.
-
-#### 📝 Prompt
-
-```
-Un video di fai-da-te realistico, girato sotto un portico coperto con una parete in cemento e una porta di legno sullo sfondo. Un uomo con maglietta grigia e cappellino nero è in piedi davanti a un tavolo di legno rustico, su cui un ombrello giallo aperto è capovolto come fosse uno stampo. Con una cazzuola preleva del cemento grigio bagnato da un secchio nero e riempie l'ombrello, poi affonda una ciotola di plastica blu al centro dell'impasto e livella la superficie con le mani. Dispone dei ciottoli di fiume lisci formando un anello attorno alla ciotola, premendoli nel cemento. Una volta indurito il calcestruzzo, estrae la ciotola blu, rimuove il tessuto giallo dell'ombrello e svela un lavandino ottagonale in cemento con i ciottoli incastonati lungo il bordo. Pratica un foro di scarico al centro con un trapano a batteria, pulisce la vasca con un panno, vernicia l'intero lavandino di bianco usando un pennello e infine spruzza sui ciottoli una vernice blu lucida. La scena finale mostra il lavandino di design ormai completato, installato in un bagno moderno con rubinetto cromato, mentre l'uomo si lava le mani sotto l'acqua corrente. Ripresa fluida a mano libera, luce naturale del giorno, trasformazione appagante, stile tutorial.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116908302177009664/img/tOwAXa3GGvl22aee.jpg" width="600" alt="Video artigianale: Realizza un lavandino in cemento con un ombrello">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13366)**
-
-**Autore:** [Linh Ai](https://x.com/Rajrana12476547) | **Fonte:** [Link](https://x.com/Rajrana12476547/status/2116908365364256821) | **Pubblicato:** Nov 1, 2026
-
----
-### Video del Pavimento Terrazzo in Marmo per Camera da Letto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per creare un video verticale che mostra il processo di trasformazione delle biglie di vetro in un pavimento terrazzo lucido all'interno di una camera da letto moderna.
-
-#### 📝 Prompt
-
-```
-Video verticale, stile fotorealistico, stanza luminosa e vuota con pareti bianche e un'ampia finestra. Un uomo in salopette di jeans blu rastrella un enorme cumulo di migliaia di biglie di vetro colorate su un pavimento in cemento, distribuendole uniformemente in tutta la stanza. Una donna in salopette rossa versa da un grande secchio una densa resina epossidica autolivellante bianca sulle biglie: il liquido lucido scorre e le ricopre, mentre lei lo stende in modo uniforme con un rastrello. Un operaio con gilet giallo ad alta visibilità utilizza una levigatrice per pavimenti per smerigliare e lucidare la superficie, rivelando uno splendido pavimento lucido con puntini tondi di biglie colorate incastonati come pietre levigate. Due operai montano una struttura del letto in legno, posizionano un materasso bianco e preparano il letto con lenzuola bianche, cuscini beige e una coperta plaid. Inquadratura finale ampia di un'accogliente camera da letto moderna con l'esclusivo pavimento in terrazzo di marmo che risplende alla luce naturale del giorno. Riprese fluide, trasformazione di ristrutturazione appagante, atmosfera ASMR, illuminazione realistica, alto livello di dettaglio.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116880395002138624/img/jdcG-y-8Shk4Au0c.jpg" width="600" alt="Video del Pavimento Terrazzo in Marmo per Camera da Letto">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13370)**
-
-**Autore:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fonte:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **Pubblicato:** Nov 1, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -9598,6 +9598,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-27T03:04:21.387Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-27T13:53:37.973Z</sub>
 
 </div>

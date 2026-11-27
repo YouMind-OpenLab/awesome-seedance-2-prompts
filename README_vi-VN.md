@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6726** |
+| 📝 Tổng số prompt | **6729** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-11-27** |
 
@@ -361,6 +361,44 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Tiết Lộ Barndominium Thu Nhỏ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt để tạo video tiết lộ phong cách điện ảnh về một căn barndominium sang trọng kiểu Mỹ thu nhỏ.
+
+#### 📝 Prompt
+
+```
+Khám phá mô hình thu nhỏ tuyệt đẹp của một căn barndominium sang trọng kiểu Mỹ, với kết cấu chân thực đến từng chi tiết, kiến trúc hiện đại, hồ bơi, cảnh quan sân vườn thơ mộng cùng màn hé lộ cuối cùng đậm chất điện ảnh đầy ấn tượng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125973157677084672/img/EjURUS64gtyX_YRz.jpg" width="600" alt="Tiết Lộ Barndominium Thu Nhỏ">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14173)**
+
+**Tác giả:** [Olivia Rose](https://x.com/OliviaRose10un) | **Nguồn:** [Link](https://x.com/OliviaRose10un/status/2125973480688721964) | **Đã xuất bản:** Nov 26, 2026
+
+---
+### Cuộc Phiêu Lưu Của Ong Theo Phong Cách Pixar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Câu lệnh tạo cảnh hoạt hình 3D phong cách Pixar ấm áp, kể về một chú ong phát hiện ra sinh vật bên trong bông hồng.
+
+#### 📝 Prompt
+
+```
+Một cảnh hoạt hình 3D ấm áp mang phong cách Pixar, đặt trong một vườn hoa ngập tràn ánh nắng tuyệt đẹp. Một chú ong vàng nhỏ xíu, đáng yêu với lớp lông tơ mềm mại, đôi mắt nâu to tròn đầy biểu cảm, đôi cánh bé xinh và thân hình sọc vằn ngộ nghĩnh đang bay về phía một bông hồng đỏ rực rỡ, căng tràn sức sống. Chú ong bất ngờ phát hiện ra một sinh vật tí hon đang ẩn mình bên trong bông hoa, liền tỏ vẻ ngạc nhiên xen lẫn tò mò. Cả hai nhân vật đều có những chuyển động nét mặt vô cùng biểu cảm cùng các phản ứng cảm xúc đáng yêu hết nấc. Chú ong nhẹ nhàng lượn quanh bông hồng, để lại phía sau một vệt phấn hoa vàng óng ánh lấp lánh như phép màu. Ánh nắng dịu nhẹ, những đóa hoa dại rực rỡ sắc màu, thảm cỏ xanh mướt, hiệu ứng xóa phông nông (shallow depth of field), các góc quay cận đậm chất điện ảnh, chuyển động máy quay mượt mà, kết cấu lông tơ chân thực, hoạt hình nhân vật cuốn hút, bầu không khí mộng mơ, hoạt hình 3D chất lượng cao, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125967308682321920/img/f6zTF3zagj1ombpd.jpg" width="600" alt="Cuộc Phiêu Lưu Của Ong Theo Phong Cách Pixar">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14175)**
+
+**Tác giả:** [Draaven](https://x.com/draavenai) | **Nguồn:** [Link](https://x.com/draavenai/status/2125967360893018427) | **Đã xuất bản:** Nov 26, 2026
+
+---
 ### Timelapse Xây Dựng Cầu Thu Nhỏ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -412,11 +450,30 @@ Phong cách: Quảng cáo dưỡng da cao cấp, chân thực như ảnh chụp,
 Tỷ lệ khung hình: Dọc 9:16.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1795672028283_x11e81_HYBpa2BaEAAmyEh.jpg" width="600" alt="Prompt Video Quảng Cáo Chăm Sóc Da Cao Cấp">
+<img src="https://cms-assets.youmind.com/media/1795758387683_m5drzj_HYBpa2BaEAAmyEh.jpg" width="600" alt="Prompt Video Quảng Cáo Chăm Sóc Da Cao Cấp">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14167)**
 
 **Tác giả:** [Rubi](https://x.com/AIwithRubii) | **Nguồn:** [Link](https://x.com/AIwithRubii/status/2125814942603563083) | **Đã xuất bản:** Nov 26, 2026
+
+---
+### Cảnh diễn viên lửa trong hộp đêm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video quay chậm một nữ nghệ sĩ biểu diễn lửa đang xoay gậy lửa trong hộp đêm sang trọng với ánh đèn neon.
+
+#### 📝 Prompt
+
+```
+Một nữ nghệ sĩ biểu diễn lửa xinh đẹp trong hộp đêm sang trọng, xoay những cây gậy rực cháy và tạo nên những vòng lửa ngoạn mục. Tia lửa bắn tung tóe giữa không trung trong khi ánh đèn neon rực rỡ sắc màu thắp sáng cả khung cảnh. Chuyển động chậm đậm chất điện ảnh, ngọn lửa chân thực, góc máy chuyển động linh hoạt, nhạc hộp đêm sôi động, chất lượng 4K siêu thực.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125814729180606464/img/7_M3SfCMXigKS7ZA.jpg" width="600" alt="Cảnh diễn viên lửa trong hộp đêm">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14174)**
+
+**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2125814785157853489) | **Đã xuất bản:** Nov 26, 2026
 
 ---
 ### Trận chiến giữa Hiệp sĩ và Quái vật Nham thạch
@@ -9548,63 +9605,6 @@ Góc dưới bên trái cố định chữ ký: Chấm tròn màu xanh đậm xu
 **Tác giả:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Nguồn:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **Đã xuất bản:** Nov 1, 2026
 
 ---
-### Video Cải Tạo Sàn Terrazzo Từ Nút Chai Rượu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video dọc thể hiện quá trình biến đổi nút chai rượu thành sàn terrazzo bóng bẩy trong phòng ngủ, bao gồm các bước cải tạo và hình ảnh thi công thỏa mãn.
-
-#### 📝 Prompt
-
-```
-Video dọc quay bên trong một căn phòng trống màu trắng với một ô cửa sổ sáng rực và khung cửa mở toang. Một người đàn ông mặc quần yếm xanh dương và áo phông tối màu đang cào một đống nút bần rượu vang khổng lồ trên sàn, dàn đều chúng thành một lớp phẳng lì phủ kín cả căn phòng. Tiếp đó, một người phụ nữ mặc quần yếm đỏ đổ nhựa epoxy trắng đặc sệt từ một chiếc xô lớn, dòng chất lỏng bóng loáng chảy tràn qua các nút bần và ngập khắp mặt sàn cho đến khi nhấn chìm hoàn toàn. Kế đến, những người thợ mặc áo bảo hộ phản quang màu vàng neon đẩy máy đánh bóng sàn hạng nặng qua lại, mài nhẵn bề mặt đã đông cứng để dần hé lộ họa tiết terrazzo tuyệt đẹp với những mảnh nút bần lơ lửng trong lớp nhựa trắng mịn màng, được đánh bóng sáng loáng như gương. Cuối cùng, hai người đàn ông mặc đồ đen khiêng vào một bộ khung giường gỗ, lắp ráp rồi trải nệm, gối trắng và một chiếc chăn vắt màu be. Video khép lại bằng góc máy toàn cảnh căn phòng ngủ đã hoàn thiện, nơi nền nhà terrazzo nút bần phát sáng phản chiếu ánh nắng ban ngày. Phong thước timelapse cải tạo đầy thỏa mãn, chuyển cảnh mượt mà, ánh sáng tự nhiên, kết cấu chân thực, mang lại cảm giác thi công "oddly satisfying" vô cùng cuốn hút.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116909245618692096/img/TSdqYOWdWORLvaVM.jpg" width="600" alt="Video Cải Tạo Sàn Terrazzo Từ Nút Chai Rượu">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13369)**
-
-**Tác giả:** [Ruslan Ai](https://x.com/Ruslanchain) | **Nguồn:** [Link](https://x.com/Ruslanchain/status/2116909289004556620) | **Đã xuất bản:** Nov 1, 2026
-
----
-### Video Hướng Dẫn Tự Làm Bồn Rửa Mặt Bằng Bê Tông Từ Ô
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Câu lệnh tạo video hướng dẫn DIY chân thực, minh họa cách biến một chiếc ô thành bồn rửa mặt bằng bê tông sử dụng xi măng và đá cuội.
-
-#### 📝 Prompt
-
-```
-Một video hướng dẫn tự làm đồ thủ công chân thực, được quay tại hiên nhà có mái che với bức tường bê tông và cánh cửa gỗ phía sau. Một người đàn ông mặc áo thun xám, đội mũ lưỡi trai đen đang đứng bên chiếc bàn gỗ mộc mạc, trên bàn là một chiếc ô màu vàng đang mở, lật ngược lại trông như một chiếc khuôn đúc. Anh dùng bay xúc xi măng xám ướt từ một chiếc xô đen rồi đổ đầy vào lòng ô, sau đó ấn một chiếc bát nhựa màu xanh xuống giữa lớp xi măng và dùng tay xoa phẳng bề mặt. Anh xếp những viên sỏi sông nhẵn bóng thành một vòng tròn quanh chiếc bát, ấn chúng lún xuống lớp xi măng. Khi bê tông đã đông cứng, anh nhấc chiếc bát xanh ra, bóc lớp vải ô vàng và để lộ một chiếc bồn rửa bê tông hình bát giác với những viên sỏi được khảm quanh vành. Anh dùng máy khoan pin khoan lỗ thoát nước ở chính giữa, lấy khăn lau sạch bồn, dùng cọ quét sơn trắng toàn bộ bồn rửa, rồi phun sơn phủ bóng màu xanh lên những viên sỏi. Cảnh cuối cho thấy chiếc bồn rửa thiết kế hoàn thiện được lắp đặt trong một phòng tắm hiện đại cùng vòi nước mạ crôm, người đàn ông rửa tay dưới dòng nước chảy. Góc máy cầm tay mượt mà, ánh sáng tự nhiên ban ngày, màn biến đổi đầy mãn nhãn, phong cách video hướng dẫn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116908302177009664/img/tOwAXa3GGvl22aee.jpg" width="600" alt="Video Hướng Dẫn Tự Làm Bồn Rửa Mặt Bằng Bê Tông Từ Ô">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13366)**
-
-**Tác giả:** [Linh Ai](https://x.com/Rajrana12476547) | **Nguồn:** [Link](https://x.com/Rajrana12476547/status/2116908365364256821) | **Đã xuất bản:** Nov 1, 2026
-
----
-### Video Sàn Phòng Ngủ Terrazzo Đá Cẩm Thạch
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) để tạo video dọc mô tả quá trình biến các viên bi thủy tinh thành sàn terrazzo bóng loáng trong không gian phòng ngủ hiện đại.
-
-#### 📝 Prompt
-
-```
-Video dọc, phong cách chân thực như ảnh chụp, căn phòng trống sáng sủa với những bức tường trắng và một khung cửa sổ lớn. Một người đàn ông mặc quần yếm denim màu xanh dương đang cào đống hàng ngàn viên bi thủy tinh đủ màu sắc khổng lồ trên nền bê tông, rải đều chúng khắp căn phòng. Một người phụ nữ mặc quần yếm đỏ đổ lớp nhựa epoxy tự san phẳng màu trắng đặc sánh từ một chiếc xô lớn lên trên những viên bi, chất lỏng bóng loáng chảy tràn bao phủ lấy chúng, rồi cô dùng cào dàn trải thật mịn màng. Một công nhân mặc áo phản quang bảo hộ màu vàng sử dụng máy mài sàn để mài nhẵn và đánh bóng bề mặt, làm lộ ra một mặt sàn bóng bẩy tuyệt đẹp với những chấm bi tròn nhiều màu được khảm vào như đá mài. Hai người thợ lắp ráp khung giường gỗ, đặt nệm trắng và trải ga giường màu trắng cùng gối màu be và một tấm chăn mỏng. Cảnh quay toàn cảnh cuối cùng cho thấy một phòng ngủ hiện đại ấm cúng với mặt sàn terrazzo độc đáo tỏa sáng dưới ánh sáng tự nhiên. Góc máy mượt mà, quá trình cải tạo mãn nhãn, không khí ASMR, ánh sáng chân thực, độ chi tiết cao.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116880395002138624/img/jdcG-y-8Shk4Au0c.jpg" width="600" alt="Video Sàn Phòng Ngủ Terrazzo Đá Cẩm Thạch">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13370)**
-
-**Tác giả:** [Ruslan Ai](https://x.com/Ruslanchain) | **Nguồn:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **Đã xuất bản:** Nov 1, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -9666,6 +9666,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-27T03:04:14.036Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-27T13:53:29.990Z</sub>
 
 </div>

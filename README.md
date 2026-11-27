@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6726** |
+| 📝 Total Prompts | **6729** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-11-27** |
 
@@ -365,11 +365,49 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Miniature Barndominium Reveal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt to create a cinematic reveal video of a miniature luxury American barndominium.
+
+#### 📝 Prompt
+
+```
+Discover an incredible miniature American luxury barndominium, featuring realistic construction, modern architecture, swimming pool, beautiful landscaping, and a stunning cinematic final reveal.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125973157677084672/img/EjURUS64gtyX_YRz.jpg" width="600" alt="Miniature Barndominium Reveal">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14173)**
+
+**Author:** [Olivia Rose](https://x.com/OliviaRose10un) | **Source:** [Link](https://x.com/OliviaRose10un/status/2125973480688721964) | **Published:** Nov 26, 2026
+
+---
+### Pixar Style Bee Adventure
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a heartwarming Pixar-style 3D animated scene featuring a bee discovering a creature inside a rose.
+
+#### 📝 Prompt
+
+```
+A heartwarming Pixar-style 3D animated scene in a beautiful sunny flower garden. A tiny adorable fluffy yellow bee with big expressive brown eyes, tiny wings, and a cute striped body flies toward a large vibrant red rose. The bee discovers a tiny creature hiding inside the flower and reacts with surprise and curiosity. The two characters have expressive facial animations and adorable emotional reactions. The bee gently flies around the rose, creating a magical trail of sparkling golden pollen. Soft sunlight, colorful wildflowers, lush green grass, shallow depth of field, cinematic close-ups, smooth camera movement, realistic fluffy textures, charming character animation, whimsical atmosphere, high-quality 3D animation, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125967308682321920/img/f6zTF3zagj1ombpd.jpg" width="600" alt="Pixar Style Bee Adventure">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14175)**
+
+**Author:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2125967360893018427) | **Published:** Nov 26, 2026
+
+---
 ### Miniature Bridge Construction Timelapse
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a realistic DIY construction timelapse of a miniature modern bridge with cinematic details.
+> Prompt to generate a realistic timelapse video of a miniature modern bridge being built.
 
 #### 📝 Prompt
 
@@ -384,11 +422,11 @@ Watch a stunning miniature modern bridge come to life through realistic DIY cons
 **Author:** [Olivia Rose](https://x.com/OliviaRose10un) | **Source:** [Link](https://x.com/OliviaRose10un/status/2125822470519472466) | **Published:** Nov 26, 2026
 
 ---
-### Luxury Skincare Commercial Video Prompt
+### Luxury Skincare Commercial Script
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive prompt for creating a luxury skincare advertisement with multiple scenes showing application and product display.
+> A detailed multi-scene prompt for generating a photorealistic luxury skincare commercial featuring an East Asian woman and product shots.
 
 #### 📝 Prompt
 
@@ -416,11 +454,30 @@ Style: Luxury skincare advertisement, photorealistic, cinematic beauty lighting,
 Aspect Ratio: 9:16 vertical.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1795672028283_x11e81_HYBpa2BaEAAmyEh.jpg" width="600" alt="Luxury Skincare Commercial Video Prompt">
+<img src="https://cms-assets.youmind.com/media/1795758387683_m5drzj_HYBpa2BaEAAmyEh.jpg" width="600" alt="Luxury Skincare Commercial Script">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14167)**
 
 **Author:** [Rubi](https://x.com/AIwithRubii) | **Source:** [Link](https://x.com/AIwithRubii/status/2125814942603563083) | **Published:** Nov 26, 2026
+
+---
+### Nightclub Fire Performer Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a slow-motion video of a female fire performer spinning flaming batons in a luxury nightclub with neon lights.
+
+#### 📝 Prompt
+
+```
+A beautiful female fire performer in a luxury nightclub, spinning flaming batons and creating spectacular circles of fire. Sparks fly through the air as colorful neon lights illuminate the scene. Cinematic slow motion, realistic flames, dynamic camera movements, energetic nightclub music, ultra-realistic 4K quality.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125814729180606464/img/7_M3SfCMXigKS7ZA.jpg" width="600" alt="Nightclub Fire Performer Scene">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14174)**
+
+**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2125814785157853489) | **Published:** Nov 26, 2026
 
 ---
 ### Knight vs Lava Monster Battle
@@ -9685,63 +9742,6 @@ Fixed signature bottom-left corner: Dark blue solid dot first, white handwritten
 **Author:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Source:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **Published:** Nov 1, 2026
 
 ---
-### Wine Cork Terrazzo Floor Renovation Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a vertical video showing the transformation of wine corks into a polished terrazzo floor in a bedroom, featuring renovation steps and satisfying construction visuals.
-
-#### 📝 Prompt
-
-```
-Vertical video inside an empty white room with one bright window and an open doorway. A man in blue overalls and a dark t-shirt rakes a massive mound of wine corks on the floor, spreading the corks into a flat, even layer that covers the entire room. A woman in red overalls then pours thick white epoxy resin from a large bucket, the glossy liquid flowing over the corks and flooding the whole floor until it is fully submerged. Next, workers in neon yellow safety vests push heavy floor polishing machines back and forth, sanding the cured surface to gradually reveal a stunning terrazzo pattern of cork pieces suspended in smooth white resin, polished to a mirror shine. Finally, two men in black carry in a wooden bed frame, assemble it, and dress it with a mattress, white pillows, and a beige throw blanket. The video ends on a wide shot of the finished bedroom, the glowing cork terrazzo floor reflecting daylight. Satisfying renovation timelapse style, smooth transitions, natural daylight, realistic textures, oddly satisfying construction vibe.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116909245618692096/img/TSdqYOWdWORLvaVM.jpg" width="600" alt="Wine Cork Terrazzo Floor Renovation Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13369)**
-
-**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116909289004556620) | **Published:** Nov 1, 2026
-
----
-### DIY Umbrella Concrete Sink Craft Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a realistic DIY tutorial video showing how to turn an umbrella into a concrete sink using cement and pebbles.
-
-#### 📝 Prompt
-
-```
-A realistic DIY craft video filmed on a covered patio with a concrete wall and wooden door in the background. A man in a gray t-shirt and black cap stands at a rustic wooden table where an open yellow umbrella lies upside down like a mold. He scoops wet gray cement from a black bucket with a trowel and fills the umbrella, then presses a blue plastic bowl into the center of the cement and smooths the surface with his hands. He arranges smooth river pebbles in a ring around the bowl, pressing them into the cement. After the concrete sets, he lifts out the blue bowl, peels away the yellow umbrella fabric, and reveals an octagonal concrete sink with pebbles embedded around its rim. He drills a drain hole in the center with a cordless drill, wipes the basin clean with a cloth, paints the whole sink white with a brush, then spray paints the pebbles glossy blue. Final scene shows the finished designer sink installed in a modern bathroom with a chrome faucet, where the man washes his hands under running water. Smooth handheld camera, natural daylight, satisfying transformation, tutorial style.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116908302177009664/img/tOwAXa3GGvl22aee.jpg" width="600" alt="DIY Umbrella Concrete Sink Craft Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13366)**
-
-**Author:** [Linh Ai](https://x.com/Rajrana12476547) | **Source:** [Link](https://x.com/Rajrana12476547/status/2116908365364256821) | **Published:** Nov 1, 2026
-
----
-### Marble Terrazzo Bedroom Floor Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for creating a vertical video depicting the process of turning glass marbles into a glossy terrazzo floor within a modern bedroom setting.
-
-#### 📝 Prompt
-
-```
-Vertical video, photorealistic style, bright empty room with white walls and a large window. A man in blue denim overalls rakes a huge pile of thousands of colorful glass marbles on a concrete floor, spreading them evenly across the entire room. A woman in red overalls pours thick white self-leveling epoxy resin from a large bucket over the marbles, the glossy liquid flows and covers them, and she spreads it smoothly with a rake. A worker in a yellow safety vest uses a floor polishing machine to grind and polish the surface, revealing a stunning glossy floor with colorful round marble dots embedded like polished stones. Two workers assemble a wooden bed frame, place a white mattress, and dress the bed with white bedding, beige pillows and a throw blanket. Final wide shot of a cozy modern bedroom with the unique terrazzo marble floor glowing in natural daylight. Smooth camera work, satisfying renovation transformation, ASMR mood, realistic lighting, high detail.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116880395002138624/img/jdcG-y-8Shk4Au0c.jpg" width="600" alt="Marble Terrazzo Bedroom Floor Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13370)**
-
-**Author:** [Ruslan Ai](https://x.com/Ruslanchain) | **Source:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **Published:** Nov 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -9803,6 +9803,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-27T03:04:06.250Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-27T13:53:22.621Z</sub>
 
 </div>

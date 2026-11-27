@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6726** |
+| 📝 Toplam İstem | **6729** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-11-27** |
 
@@ -361,6 +361,44 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Mini Barndominium Tanıtımı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mini lüks Amerikan barndominium'un sinematik bir tanıtım videosunu oluşturmak için istem.
+
+#### 📝 İstem
+
+```
+Gerçekçi yapısı, modern mimarisi, yüzme havuzu, göz alıcı peyzajı ve nefes kesen sinematik final sahnesiyle muhteşem bir Amerikan lüks mini barndominium'unu keşfedin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125973157677084672/img/EjURUS64gtyX_YRz.jpg" width="600" alt="Mini Barndominium Tanıtımı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14173)**
+
+**Yazar:** [Olivia Rose](https://x.com/OliviaRose10un) | **Kaynak:** [Link](https://x.com/OliviaRose10un/status/2125973480688721964) | **Yayınlandı:** Nov 26, 2026
+
+---
+### Pixar Tarzı Arı Macerası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gülün içinde bir yaratık keşfeden arıyı konu alan, sıcak ve duygusal Pixar tarzı 3D animasyon sahnesi oluşturmak için bir istem.
+
+#### 📝 İstem
+
+```
+Güneşli, güzel bir çiçek bahçesinde geçen, iç ısıtan Pixar tarzı 3D animasyon sahne. İri ve duygularını yansıtan kahverengi gözleri, minicik kanatları ve sevimli çizgili gövdesiyle tüylü, sarı, ufacık ve son derece tatlı bir arı, kocaman ve canlı kırmızı bir güle doğru uçuyor. Arı, çiçeğin içinde saklanan minik bir yaratık keşfediyor ve şaşkınlıkla merak dolu bir tepki veriyor. Her iki karakter de etkileyici yüz animasyonlarına ve sevimli duygusal tepkilere sahip. Arı, gülün etrafında nazikçe süzülerek parlayan altın rengi polenlerden oluşan sihirli bir iz bırakıyor. Yumuşak güneş ışığı, rengarenk kır çiçekleri, gür yeşil çimenler, sığ alan derinliği, sinematik yakın çekimler, akıcı kamera hareketi, gerçekçi tüylü dokular, büyüleyici karakter animasyonu, masalsı atmosfer, yüksek kaliteli 3D animasyon, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125967308682321920/img/f6zTF3zagj1ombpd.jpg" width="600" alt="Pixar Tarzı Arı Macerası">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14175)**
+
+**Yazar:** [Draaven](https://x.com/draavenai) | **Kaynak:** [Link](https://x.com/draavenai/status/2125967360893018427) | **Yayınlandı:** Nov 26, 2026
+
+---
 ### Mini Köprü İnşaatı Hızlandırılmış Görüntü
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -412,11 +450,30 @@ Stil: Lüks cilt bakım reklamı, fotogerçekçi, sinematik güzellik aydınlatm
 En Boy Oranı: 9:16 dikey.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1795672028283_x11e81_HYBpa2BaEAAmyEh.jpg" width="600" alt="Lüks Cilt Bakımı Reklam Videosu İstem Metni">
+<img src="https://cms-assets.youmind.com/media/1795758387683_m5drzj_HYBpa2BaEAAmyEh.jpg" width="600" alt="Lüks Cilt Bakımı Reklam Videosu İstem Metni">
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14167)**
 
 **Yazar:** [Rubi](https://x.com/AIwithRubii) | **Kaynak:** [Link](https://x.com/AIwithRubii/status/2125814942603563083) | **Yayınlandı:** Nov 26, 2026
+
+---
+### Gece Kulübü Ateş Gösterisi Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lüks bir gece kulübünde neon ışıklar altında yanan sopaları döndüren kadın ateş göstericisinin ağır çekim videosunu oluşturmak için bir istem.
+
+#### 📝 İstem
+
+```
+Lüks bir gece kulübünde, alevli batonları döndürerek muhteşem ateş çemberleri yaratan güzel bir kadın ateş performansı sanatçısı. Renkli neon ışıklar sahneyi aydınlatırken kıvılcımlar havada uçuşuyor. Sinematik ağır çekim, gerçekçi alevler, dinamik kamera hareketleri, enerjik gece kulübü müziği, ultra gerçekçi 4K kalite.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125814729180606464/img/7_M3SfCMXigKS7ZA.jpg" width="600" alt="Gece Kulübü Ateş Gösterisi Sahnesi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14174)**
+
+**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2125814785157853489) | **Yayınlandı:** Nov 26, 2026
 
 ---
 ### Şövalye ve Lav Canavarı Savaşı
@@ -9494,63 +9551,6 @@ Sol alt köşede sabit imza: Önce koyu mavi dolu bir nokta, hemen ardından bey
 **Yazar:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Kaynak:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **Yayınlandı:** Nov 1, 2026
 
 ---
-### Şarap Mantarı Terrazzo Zemin Yenileme Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yatak odasında şarap mantarlarının cilalı terrazzo zemine dönüştürülmesini, yenileme adımlarını ve tatmin edici inşaat görsellerini gösteren dikey video oluşturmak için bir istem.
-
-#### 📝 İstem
-
-```
-Tek parlak penceresi ve açık bir kapısı olan boş, beyaz bir odada çekilmiş dikey video. Mavi tulum ve koyu renkli tişört giyen bir adam, yerdeki devasa şarap mantarı yığınını tırmıkla yayarak mantarları tüm odayı kaplayacak şekilde düz ve eşit bir katman hâline getiriyor. Ardından kırmızı tulumlu bir kadın, büyük bir kovadan yoğun beyaz epoksi reçineyi döküyor; parlak sıvı mantarların üzerinden akarak tüm zemini kaplıyor ve her şeyi tamamen su altında bırakıyor. Sonrasında neon sarısı güvenlik yelekleri giyen işçiler, ağır zemin cilalama makinelerini ileri geri iterek sertleşmiş yüzeyi zımparalıyor ve pürüzsüz beyaz reçinenin içine gömülü mantar parçalarından oluşan muhteşem terazzo desenini kademeli olarak ortaya çıkarıp ayna gibi parlayana kadar cilalıyor. En sonunda siyah giyimli iki adam ahşap bir yatak çerçevesini içeri taşıyıp monte ediyor ve üzerine bir yatak, beyaz yastıklar ile bej rengi bir battaniye yerleştiriyor. Video, gün ışığını yansıtan parıl parıl mantar terazzo zeminiyle tamamlanmış yatak odasının geniş bir planıyla sona eriyor. Tatmin edici yenileme timelapse tarzı, yumuşak geçişler, doğal gün ışığı, gerçekçi dokular, garip bir şekilde tatmin edici inşaat havası.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116909245618692096/img/TSdqYOWdWORLvaVM.jpg" width="600" alt="Şarap Mantarı Terrazzo Zemin Yenileme Videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13369)**
-
-**Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2116909289004556620) | **Yayınlandı:** Nov 1, 2026
-
----
-### Kendin Yap Şemsiye Beton Lavabo El Sanatları Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Şemsiyeyi çimento ve çakıl taşı kullanarak gerçekçi bir beton lavaboya dönüştürme sürecini gösteren DIY eğitim videosu için prompt.
-
-#### 📝 İstem
-
-```
-Arka planda beton duvar ve ahşap kapının yer aldığı üstü kapalı bir verandada çekilmiş, gerçekçi bir kendin yap (DIY) el sanatları videosu. Gri tişörtlü ve siyah şapkalı bir adam, ters çevrilmiş açık sarı bir şemsiyenin kalıp gibi durduğu rustik ahşap bir masanın başında duruyor. Bir mala yardımıyla siyah kovadaki ıslak gri çimentoyu alıp şemsiyenin içini dolduruyor, ardından mavi plastik bir kaseyi çimentonun tam ortasına bastırarak yüzeyi elleriyle düzeltiyor. Kaseyi çevreleyecek şekilde pürüzsüz dere taşlarını halka biçiminde dizip çimentoya gömüyor. Beton donduktan sonra mavi kaseyi çıkarıyor, sarı şemsiye kumaşını soyup kenarlarına taşlar işlenmiş sekizgen beton bir lavaboyu ortaya çıkarıyor. Şarjlı matkapla ortasına bir gider deliği açıyor, bir bezle lavabo içini silerek temizliyor, fırçayla tüm lavaboyu beyaza boyuyor ve ardından taşları parlak mavi sprey boya ile renklendiriyor. Son sahnede, tasarımı tamamlanmış bu özel lavabonun krom bataryalı modern bir banyoya monte edildiği ve adamın akan suyun altında ellerini yıkadığı görülüyor. Akıcı el kamerası kullanımı, doğal gün ışığı, tatmin edici bir dönüşüm, öğretici tarzda bir video.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116908302177009664/img/tOwAXa3GGvl22aee.jpg" width="600" alt="Kendin Yap Şemsiye Beton Lavabo El Sanatları Video">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13366)**
-
-**Yazar:** [Linh Ai](https://x.com/Rajrana12476547) | **Kaynak:** [Link](https://x.com/Rajrana12476547/status/2116908365364256821) | **Yayınlandı:** Nov 1, 2026
-
----
-### Mermer Terrazzo Yatak Odası Zemin Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Cam bilyelerin modern bir yatak odası ortamında parlak terrazzo zemine dönüştürülme sürecini tasvir eden dikey video oluşturmak için bir istem.
-
-#### 📝 İstem
-
-```
-Dikey video, fotogerçekçi tarz, beyaz duvarları ve büyük bir penceresi olan aydınlık boş oda. Mavi kot tulum giyen bir adam, beton zemindeki binlerce renkli cam bilyeden oluşan devasa yığını tırmıkla yayarak tüm odaya eşit şekilde dağıtıyor. Kırmızı tulumlu bir kadın, büyük bir kovadan bilyelerin üzerine yoğun kıvamlı beyaz kendiliğinden yayılan epoksi reçine döküyor; parlak sıvı akıp bilyeleri kaplıyor ve kadın bunu bir tırmık yardımıyla pürüzsüzce yayıyor. Sarı iş yeleği giyen bir işçi, zemin cilalama makinesiyle yüzeyi taşlayıp parlatıyor ve cilalı taşlar gibi gömülü renkli yuvarlak bilye desenleriyle göz alıcı, parlak bir zemin ortaya çıkarıyor. İki işçi ahşap bir karyola iskeletini monte ediyor, beyaz bir şilte yerleştiriyor ve yatağı beyaz nevresim takımı, bej yastıklar ve bir battaniye ile hazırlıyor. Doğal gün ışığında parlayan benzersiz terrazzo mermer zeminli, sıcak ve modern bir yatak odasının son geniş açılı çekimi. Akıcı kamera hareketleri, tatmin edici tadilat dönüşümü, ASMR atmosferi, gerçekçi aydınlatma, yüksek detay.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116880395002138624/img/jdcG-y-8Shk4Au0c.jpg" width="600" alt="Mermer Terrazzo Yatak Odası Zemin Videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13370)**
-
-**Yazar:** [Ruslan Ai](https://x.com/Ruslanchain) | **Kaynak:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **Yayınlandı:** Nov 1, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -9612,6 +9612,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-27T03:04:25.176Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-27T13:53:41.643Z</sub>
 
 </div>
