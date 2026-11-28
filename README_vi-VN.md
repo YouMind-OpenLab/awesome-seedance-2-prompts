@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6729** |
+| 📝 Tổng số prompt | **6732** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-11-28** |
 
@@ -361,6 +361,75 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Cảnh Chiến Binh Thỏ Samurai Nhí
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video dark fantasy điện ảnh mô tả một chiến binh thỏ trắng nhân hóa nhỏ bé, mặc áo giáp samurai, đứng cô độc trên chiến trường hoang tàn.
+
+#### 📝 Prompt
+
+```
+Một phân cảnh dark fantasy mang đậm chất điện ảnh, khắc họa một chiến binh thỏ trắng nhân hình nhỏ bé đứng đơn độc giữa chiến trường hoang tàn. Chú thỏ khoác trên mình bộ giáp lấy cảm hứng từ samurai truyền thống cùng trang phục chiến binh màu xanh dương đậm, tay lăm lăm thanh kiếm katana. Khắp chiến trường ngổn ngang những tấm khiên vỡ nát, vũ khí bị bỏ lại, đống đổ nát đang bốc cháy và khói bụi mịt mù. Dãy núi đen sẫm trải dài nơi đường chân trời bên dưới bầu trời giông bão đầy kịch tính. Người chiến binh tí hon ấy đứng đó không chút sợ hãi, kiên định nắm chặt thanh kiếm bất chấp chiến trường bao la rộng lớn xung quanh. Góc máy từ từ tiến lại gần, làm nổi bật từng chi tiết tinh xảo trên bộ giáp, ánh mắt đầy biểu cảm và lưỡi kiếm phản chiếu bập bùng ánh lửa. Những cú máy toàn cảnh đậm chất điện ảnh, bầu không khí kịch tính, hiệu ứng khói lửa chân thực, hoạt hình nhân vật 3D chi tiết, thẩm mỹ phim dark fantasy, CGI siêu thực, chất lượng 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126312871370080256/img/BwsJuRV41QCzOXoT.jpg" width="600" alt="Cảnh Chiến Binh Thỏ Samurai Nhí">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14192)**
+
+**Tác giả:** [Draaven](https://x.com/draavenai) | **Nguồn:** [Link](https://x.com/draavenai/status/2126313066413642091) | **Đã xuất bản:** Nov 27, 2026
+
+---
+### Video Ngắn Điện Ảnh: Quý Bà Đẳng Cấp Với Vương Miện Ngọc Trai
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả chi tiết cho video điện ảnh dài 15 giây, khắc họa một người phụ nữ đội vương miện ngọc trai và mặc áo hai dây màu xanh lam, tận dụng khả năng chuyển đổi hình ảnh thành video với các chỉ dẫn cụ thể về chuyển động máy quay và ánh sáng.
+
+#### 📝 Prompt
+
+```
+@Image 1 làm khung hình đầu tiên và tham chiếu nhân vật. Giữ nguyên tuyệt đối kiểu tóc bob đen ngắn với mái bằng, mạng lưới ngọc trai cài đầu, áo hai dây màu xanh dương, lớp trang điểm môi đỏ, tàn nhang và bối cảnh trong nhà.
+Phim ngắn nghệ thuật điện ảnh dài 15 giây, quay một cú máy liên tục.
+
+0–3s: Cận cảnh gương mặt cô. Những ngón tay khẽ chạm lên má. Chiếc mạng cài đầu đính ngọc trai tỏa sáng dịu nhẹ dưới ánh đèn ấm. Cô bình thản nhìn thẳng vào ống kính. Máy quay tiến tới thật chậm, hậu cảnh mờ dần thành những đốm bokeh mềm mại.
+3–7s: Máy quay từ từ xoay quanh đường nét khuôn mặt cô, phô diễn cấu trúc đan xen của chiếc mạng cài đầu ngọc trai cùng những dải tua rua ngọc trai buông rủ hai bên. Vài lọn tóc tơ khẽ bay theo làn gió nhẹ, ánh sáng và bóng tối vờn trên gương mặt cô.
+7–11s: Máy quay lùi ra cỡ cảnh trung cận. Cô hơi nghiêng đầu, để lộ sợi dây áo hai dây mảnh màu xanh dương và chiếc vòng ngọc bích nơi cổ tay. Nhẫn vàng trên ngón tay lấp lánh trong ánh sáng, đường nét cánh tay trông thật mềm mại.
+11–15s: Máy quay chầm chậm tiến lại gần thành cảnh cận mặt. Hàng mi cô khẽ chớp, khóe miệng hơi nhếch lên. Khung hình mờ dần rồi đóng băng, bao phủ bởi quầng sáng ấm áp.
+
+Chuyển động máy quay: tiến chậm + xoay vòng + lùi xa + tiến lại. Không cắt cảnh xuyên suốt.
+Phong cách: chất lượng điện ảnh, độ sâu trường ảnh mỏng, nhiễu hạt phim (film grain), ánh sáng trong nhà tông ấm, không khí mộng mơ, 24fps.
+Âm thanh: tiếng piano solo êm dịu, âm thanh môi trường gồm tiếng lật sách và tiếng thì thầm vọng lại từ xa, không có giọng đọc. Nốt nhạc cuối cùng tan dần vào thinh không.
+Lưu ý: nhân vật là nữ giới trưởng thành, giữ vững tinh thần nghệ thuật thanh lịch, không có nội dung phản cảm hay gợi dục.
+Tỷ lệ khung hình: 9:16, 15s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126226176385691648/img/xIxwMFUJxrOhMFyH.jpg" width="600" alt="Video Ngắn Điện Ảnh: Quý Bà Đẳng Cấp Với Vương Miện Ngọc Trai">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14194)**
+
+**Tác giả:** [ArtAi](https://x.com/tongqinai) | **Nguồn:** [Link](https://x.com/tongqinai/status/2126284904606666792) | **Đã xuất bản:** Nov 27, 2026
+
+---
+### Xe buýt biến hình thành Robot Khổng Lồ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Mô tả prompt phong cách Transformers, trong đó một chiếc xe buýt bình thường biến hình thành robot chiến đấu khổng lồ giữa thành phố mưa, được thử nghiệm trên Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Giữa thành phố mưa tầm tã, một chiếc xe buýt bình thường bỗng chốc biến hình thành robot chiến đấu khổng lồ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126090446795587584/img/lDMVbiO5EyiQlaYD.jpg" width="600" alt="Xe buýt biến hình thành Robot Khổng Lồ">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=14193)**
+
+**Tác giả:** [Claire Ai](https://x.com/imClaireAi) | **Nguồn:** [Link](https://x.com/imClaireAi/status/2126091360348651607) | **Đã xuất bản:** Nov 26, 2026
+
+---
 ### Tiết Lộ Barndominium Thu Nhỏ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9240,371 +9309,6 @@ Sau đó...
 **Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2117124345281810678) | **Đã xuất bản:** Nov 2, 2026
 
 ---
-### Phù Thủy Bay Qua Thành Phố Đêm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video giả tưởng điện ảnh siêu thực về một phù thủy cưỡi chổi bay qua thành phố lung linh ánh đèn neon vào ban đêm.
-
-#### 📝 Prompt
-
-```
-Tạo một video fantasy điện ảnh siêu chân thực, khắc họa hình ảnh một nữ phù thủy trẻ bí ẩn cưỡi chổi thần bay qua thành phố chìm trong bóng tối dưới ánh trăng tròn rực sáng. Thể hiện những tầng mây cuồn cuộn đầy kịch tính, làn khói ma thuật xanh biếc cùng bầu không khí đêm huyền bí. Nữ phù thủy đội chiếc mũ chóp nhọn màu đen, khoác trên mình bộ trang phục tối màu sành điệu và để mái tóc dài tung bay trong gió. Ghi lại khoảnh khắc cô luồn lách giữa những tòa nhà cao tầng rồi lao vút xuống các con phố nhộn nhịp ngập tràn ánh đèn neon. Bổ sung chuyển động chân thực, hiệu ứng ma thuật phát sáng, góc máy điện ảnh linh hoạt, ánh sáng đầy kịch tính cùng những chi tiết thị giác tuyệt mỹ. Phong cách phim fantasy đỉnh cao, 4K, chân thực như ảnh chụp, hoạt ảnh mượt mà.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117120887447252992/img/jnp-YCYdCxX9r0VE.jpg" width="600" alt="Phù Thủy Bay Qua Thành Phố Đêm">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13368)**
-
-**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2117120914139619479) | **Đã xuất bản:** Nov 2, 2026
-
----
-### Seedance 2.0 Mini: Prompt Cảnh Từ Chối Tình Yêu Tiên Hiệp
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt toàn diện cho Seedance 2.0 Mini tạo ra đoạn phim kịch tính cảm xúc dài 15 giây trong bối cảnh tiên hiệp cổ đại Trung Quốc. Tập trung vào cảnh từ chối hôn lễ với diễn xuất tinh tế, tương tác đạo cụ cụ thể (ngọc bội) và kỹ thuật quay phim điện ảnh.
-
-#### 📝 Prompt
-
-```
-Seedance 2.0 Mini | "Mười Năm Và Phần Đời Còn Lại"
-
-Mô hình: Seedance 2.0 Mini
-Thời lượng: Chính xác 15 giây
-Tỷ lệ khung hình: 16:9 Ngang
-Thể loại: Tiên hiệp cổ trang Trung Quốc thuần túy / Cú twist cảm xúc / Kịch tính mối quan hệ nhân vật trưởng thành
-Cấu trúc: Ba cảnh quay điện ảnh liên tục, rõ ràng và tách biệt về mặt tự sự
-I. Prompt | Phong cách tổng thể và Định hướng sáng tạo
-Chất liệu live-action chân thực mang đậm tính điện ảnh, thẩm mỹ tiên hiệp cổ trang Trung Quốc thuần túy.
-Định hướng tổng thể:
-Cú twist cảm xúc trưởng thành, tiết chế; kịch tính mối quan hệ có chiều sâu tâm lý thực tế.
-Áp dụng:
-Cách sắp đặt nhân vật cổ điển ở đẳng cấp cao
-Chất liệu nhiếp ảnh điện ảnh Arri Alexa
-Kết cấu da chân thực, sắc nét
-Ánh sáng khối (volumetric light) tự nhiên
-Hạt phim (film grain) tinh tế
-Chuyển động của lụa chân thực
-II. Cốt truyện cốt lõi và Cú twist cảm xúc
-Hai tu sĩ đã cùng nhau tu luyện suốt mười năm, cuối cùng cũng đến ngày chính thức kết thành đạo lữ.
-Ai cũng nghĩ đây là cái kết viên mãn cho một mối tình hoàn hảo.
-Nhưng Tiểu sư muội bỗng từ chối kết ấn trong buổi lễ.
-Lớp kịch tính thứ nhất
-Khán giả ban đầu sẽ kỳ vọng:
-Sự phản bội
-Những bí mật bị che giấu
-Một ai đó mắc phải sai lầm không thể tha thứ
-Cú twist thực sự
-Không ai trở nên tồi tệ, cũng chẳng ai phủ nhận quá khứ; chỉ đơn giản là họ không thể cùng bước về chung một tương lai.
-Mười năm chân thành vẫn mãi là chân thành.
-Nhưng phần đời còn lại không nên trở thành cái giá phải trả cho quá khứ.
-Nguyên tắc Cảm xúc và Tự sự
-Câu chuyện phải được kể trọn vẹn một cách tự nhiên thông qua:
-Hành động của nhân vật
-Biểu cảm tinh tế
-Những khoảng lặng
-Lời thoại
-Nghiêm ngặt tránh:
-Giải thích dài dòng
-Ủ dột, sướt mướt đột ngột
-Ép buộc nhân vật trở thành kẻ xấu
-Kết thúc mang tính giáo điều, rao giảng
-III. Danh tính nhân vật và Khóa tài nguyên (Asset Locking)
-Vai A | @Image1 | Đại sư tỷ Kiếm Tiên
-Luôn giữ nguyên hình tượng Đại sư tỷ Kiếm Tiên:
-Nữ giới Đông Á, 25-30 tuổi
-Khuôn mặt trái xoan thanh tú
-Đôi mắt hạnh sáng ngời
-Tóc đen dài buộc nửa
-Cố định bằng trâm bạch ngọc
-Dáng người cao ráo, mảnh mai
-Cùng bộ Hán phục lụa trắng thêu hoa
-Tay áo rộng xếp lớp bán trong suốt
-Thắt lưng bạc
-Ngọc bội
-Bốt vải trắng
-Mang theo duy nhất một thanh trường kiếm bạc
-Vai trò của nhân vật trong phân đoạn này
-Đại sư tỷ áo trắng chủ yếu thể hiện các mối quan hệ thông qua:
-Sự quan sát
-Ánh mắt giao tiếp
-Những phản ứng tiết chế
-Giới hạn cốt lõi
-Không quyết định thay Tiểu sư muội
-Không chiếm đoạt không gian kịch tính chính
-Vai B | @Image2 | Tiểu sư muội
-Luôn giữ nguyên hình tượng Tiểu sư muội:
-Nữ giới Đông Á, 20-25 tuổi
-Khuôn mặt tròn đầy sức sống
-Tóc đen tết bím
-Cùng bộ Hán phục cổ màu xanh lục
-Thắt lưng tối màu
-Trâm gỗ
-Giày vải đen
-Mang theo duy nhất một thanh kiếm thép tối màu
-Định vị nhân vật trong phân đoạn này
-Tiểu sư muội là nhân vật trung tâm về mặt cảm xúc của mạch truyện này.
-Nhân vật phụ mới | Nam tu sĩ
-Nam giới trưởng thành
-Mặc cổ bào xanh lam đậm
-Ngoại hình bình thường
-Khí chất điềm đạm
-Đã cùng Tiểu sư muội tu luyện mười năm
-Đạo lữ tiền định của Tiểu sư muội
-Yêu cầu về tính liên tục của nhân vật
-Nam tu sĩ phải duy trì:
-Danh tính độc lập
-Trang phục ổn định
-Diễn xuất nhân vật chân thực
-Tuyệt đối không để bị nhầm lẫn với các nhân vật chính.
-Các nhân vật phụ khác
-Sư trưởng
-Người chủ trì nghi lễ kết ấn.
-Đệ tử trong tông môn
-Một nhóm nhỏ đệ tử làm chứng từ xa.
-IV. DNA Bối cảnh và Môi trường
-Toàn bộ hình ảnh tham khảo về bối cảnh và địa điểm được tải lên sẽ quyết định thế giới vật lý thực tế.
-Lập kế hoạch môi trường trước khi bố cục chính thức
-Hãy âm thầm hoàn tất một lượt quy hoạch môi trường trước.
-Phân tích toàn diện trong các hình ảnh tham khảo:
-Địa hình
-Bố cục kiến trúc
-Quy mô không gian
-Độ cũ kỹ của vật liệu
-Hệ sinh thái thực vật
-Mặt nước
-Mây mù
-Thời tiết
-Hướng ánh sáng chính
-Mối quan hệ màu sắc
-Các bề mặt phản chiếu
-Độ sâu không khí
-Trên cơ sở đảm bảo tính nhất quán về:
-Đặc trưng địa điểm
-Quan hệ không gian
-Logic vật lý
-Hãy tìm những khoảng không gian mở tự nhiên phù hợp, tái tổ chức thành một địa điểm cử hành nghi lễ với:
-Quy mô điện ảnh
-Chiều sâu không gian
-Bố cục độc đáo
-V. Khung cảnh Nghi lễ và Đạo cụ cốt lõi
-Địa điểm cử hành nghi lễ chỉ cần:
-Một chiếc bàn đá cổ
-Hai tín vật khế ước hôn nhân bằng ngọc được nối với nhau bằng sợi dây đỏ
-Tín vật khế ước hôn nhân bằng ngọc
-Hai miếng ngọc bội
-Một sợi dây lụa đỏ nối liền hai miếng ngọc
-Giữ nguyên chất liệu ngọc thật
-Giữ nguyên cấu trúc vật lý của sợi dây đỏ thật
-Các đạo cụ quan trọng khác
-Ấn chương chưởng môn cổ đại tượng trưng cho quyền uy
-Hành lý nhỏ đã được Tiểu sư muội thu xếp sẵn
-VI. Bối cảnh sống động và Tính trung lập trong tự sự
-Bối cảnh luôn tràn đầy sức sống.
-Chuyển động tự nhiên
-Gió thổi tà áo và thảm thực vật một cách tự nhiên
-Mây trôi chậm rãi
-Sương núi cuộn chảy thuận theo địa hình
-Mặt nước tiếp tục chuyển động tại những nơi có trong hình ảnh tham khảo
-Các công trình phía xa duy trì luật phối cảnh chuẩn xác
-Hình ảnh phản chiếu thay đổi tự nhiên theo góc máy
-Tốc độ và biên độ chuyển động của môi trường phải khác nhau tùy theo độ sâu trường ảnh.
-Nguyên tắc tự sự của môi trường
-Mọi chuyển động nền đều tồn tại độc lập với cốt truyện.
-Môi trường tuyệt đối không được:
-Tạo ra xung đột
-Kích hoạt các cú twist
-Đưa ra lựa chọn thay cho nhân vật
-VII. Cấu trúc Storyboard hoàn chỉnh 15 giây
-0–5s | Cảnh 1: Toàn cảnh | Lời từ chối giữa thanh thiên bạch nhật
-Thiết kế cảnh quay
-Máy quay lia chậm qua địa điểm cử hành nghi lễ cổ kính.
-Thiết lập mối quan hệ không gian rõ ràng qua các lớp:
-Bàn đá ở tiền cảnh
-Nhân vật ở trung cảnh
-Kiến trúc hùng vĩ, núi non hoặc các địa danh cốt lõi khác từ hình ảnh tham khảo ở hậu cảnh
-Vị trí nhân vật ban đầu
-Sư trưởng
-Đứng sau bàn đá cử hành nghi lễ.
-Nam tu sĩ
-Mặc cổ bào xanh lam đậm, đứng một bên bàn đá.
-Tay cầm một tín vật khế ước bằng ngọc.
-Tiểu sư muội áo xanh
-Đứng ở phía bên kia bàn đá.
-Đại sư tỷ Kiếm Tiên áo trắng
-Đứng lùi lại vài bước theo đường chéo phía sau Tiểu sư muội, lặng lẽ quan sát.
-Trạng thái đạo cụ cốt lõi
-Một sợi dây lụa đỏ nối liền hai miếng ngọc bội.
-Nghi lễ bắt đầu
-Sư trưởng trang nghiêm tuyên bố:
-[Sư trưởng] "Khế ước mười năm, hôm nay viên thành."
-Tiểu sư muội cúi nhìn sợi dây lụa đỏ.
-Nàng không đưa tay nhận lấy ngọc bội của mình.
-Thay vào đó, nàng từ từ ngẩng đầu nhìn người đàn ông trước mặt.
-Lớp kịch tính thứ nhất
-[Tiểu sư muội] "Muội không làm đâu."
-Buổi lễ vốn đang trang nghiêm bỗng chốc chìm vào tĩnh lặng.
-Phản ứng của nam tu sĩ
-Máy quay lưu giữ khoảnh khắc sững sờ chân thực của nam tu sĩ ngay lúc đó.
-Yêu cầu về diễn xuất và nhịp điệu
-Không la hét cường điệu
-Không để đám đông bất ngờ vây quanh
-Tạo kịch tính thông qua những khoảng dừng của nhân vật và sự tĩnh lặng của không gian.
-5–10s | Cảnh 2: Cận cảnh trung | Sự rẽ lối đích thực
-Yêu cầu về tính liên tục
-Giữ nguyên giống hệt:
-Bối cảnh
-Nhân vật
-Trang phục
-Vị trí ngọc bội
-Thiết kế máy quay
-Máy quay chuyển sang góc máy trung hai người (medium two-shot), chụp nghiêng ba phần tư khuôn mặt các nhân vật.
-Phản ứng của nam tu sĩ
-Nam tu sĩ không hề tức giận.
-Cũng không đột ngột tra vấn xem nàng có thay lòng hay không.
-Anh nhìn Tiểu sư muội đầy nghiêm túc, như thể đã mơ hồ biết trước câu trả lời.
-Rồi khẽ hỏi:
-[Nam tu sĩ] "Muội vẫn muốn xuống núi sao?"
-Câu trả lời của Tiểu sư muội
-Tiểu sư muội nhìn anh, bình thản không kém:
-[Tiểu sư muội] "Huynh vẫn muốn trấn giữ ngọn núi này chứ?"
-Cảm xúc và Ánh mắt
-Máy quay sử dụng những ánh mắt tinh tế để hé lộ những lựa chọn khác biệt đã tồn tại từ lâu giữa họ.
-Sự tương phản thị giác qua đạo cụ
-Bên cạnh nam tu sĩ
-Là chiếc ấn chương chưởng môn cổ đại tượng trưng cho quyền uy.
-Dưới chân Tiểu sư muội
-Là bọc hành lý nhỏ đã thu xếp xong.
-Mối quan hệ thị giác
-Hai đạo cụ này tạo nên sự tương phản thị giác rõ rệt:
-Một người quyết định ở lại.
-Người kia đã sẵn sàng đi xa.
-Không ai sai cả.
-Chỉ là họ không thể cùng bước đến chung một đích nữa thôi.
-Trạng thái của Đại sư tỷ và Môi trường
-Đại sư tỷ áo trắng tuyệt đối không can thiệp.
-Bối cảnh tiếp tục những chuyển động tự nhiên độc lập của:
-Gió
-Nước
-Mây mù
-Thực vật
-Vải vóc
-Hình ảnh phản chiếu
-10–15s | Cảnh 3: Đặc tả | Mười năm và phần đời còn lại
-Câu hỏi cuối cùng của Sư trưởng
-Sư trưởng cất lời hỏi lần cuối từ bên cạnh bàn đá:
-[Sư trưởng] "Vậy mười năm qua thì sao?"
-Đặc tả Tiểu sư muội
-Máy quay chuyển sang đặc tả gương mặt Tiểu sư muội.
-Nàng không trả lời ngay.
-Khóe mắt hơi rớm ướt, nhưng không rơi lệ.
-Giọng nói vững vàng, ẩn chứa sự lưu luyến chân thành.
-[Tiểu sư muội] "Hãy trân trọng nó."
-Khoảng lặng cảm xúc
-Dừng hẳn lại nửa nhịp.
-Rồi buông câu thoại cuối cùng:
-[Tiểu sư muội] "Không thể lấy phần đời còn lại để đền đáp quá khứ."
-Cao trào cảm xúc thực sự: Tháo sợi dây đỏ
-Máy quay nhanh chóng và tự nhiên chuyển hướng về phía đôi tay nam tu sĩ.
-Anh cúi nhìn sợi dây lụa đỏ đang nối hai miếng ngọc bội.
-Sau một thoáng do dự, anh không phẫn nộ giật đứt sợi dây.
-Thay vào đó, anh dùng ngón tay từ từ tháo nút thắt.
-Yêu cầu bắt buộc về hành động
-Hành động này phải chân thực, rõ ràng và trọn vẹn.
-Ngọc bội chia ly
-Nam tu sĩ nhẹ nhàng đặt miếng ngọc bội của Tiểu sư muội trở lại bàn.
-Giữ lại miếng của mình.
-Cả hai miếng ngọc đều nguyên vẹn.
-Chỉ là không còn gắn kết với nhau nữa.
-Phản ứng cuối cùng của nhân vật
-Tiểu sư muội nhìn anh.
-Người đàn ông ngước mắt lên, khẽ gật đầu với nàng.
-Cái gật đầu ấy bày tỏ:
-Sự thấu hiểu
-Niềm tiếc nuối
-Bố cục điện ảnh kết thúc
-Khung hình cuối cùng đọng lại trên hai miếng ngọc bội trên bàn:
-Nguyên vẹn, nhưng đã chia lìa.
-Phía sau, trong vùng xóa phông nông:
-Hai người giữ một khoảng cách vừa đủ
-Đại sư tỷ đứng phía sau Tiểu sư muội
-Ánh mắt Đại sư tỷ điềm tĩnh và thấu hiểu
-Giới hạn cho đoạn kết
-Không có:
-Những cái ôm
-Sự hàn gắn đột ngột
-Kẻ xấu
-Phán xét thắng thua
-Điểm hạ cánh cảm xúc cuối cùng
-Mười năm qua không hề uổng phí, chỉ là không cần đồng hành cùng nhau nữa mà thôi.
-VIII. Yêu cầu thực thi với Seedance 2.0 Mini
-Thông số cơ bản
-Mô hình: Seedance 2.0 Mini
-Tổng thời lượng chính xác: 15 giây
-Tỷ lệ khung hình: 16:9 ngang
-Ba cảnh quay điện ảnh liên tục, rõ ràng và tách biệt về mặt tự sự
-Ba chức năng tự sự
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117112122387918848/img/FNMfOO9Jg3bQP4IZ.jpg" width="600" alt="Seedance 2.0 Mini: Prompt Cảnh Từ Chối Tình Yêu Tiên Hiệp">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13374)**
-
-**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2117112170395914599) | **Đã xuất bản:** Nov 2, 2026
-
----
-### Seedance 2.0 Fast Mưa Đêm Thời Nhà Thanh
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Video so sánh bao gồm Seedance 2.0 Fast. Prompt được dùng để tạo video từ hình ảnh (i2v) cảnh mưa đêm trong cung điện thời nhà Thanh với các yếu tố ASMR.
-
-#### 📝 Prompt
-
-```
-Mưa đêm cung đình triều Thanh × Mưa gõ lá sen hoa × Cá Koi và ếch kêu × Sấm chớp xa xăm × Nghệ nhân Lê Viên luyện giọng × ASMR nhập vai
-
-8 giây, định dạng dọc 9:16, hình ảnh điện ảnh chân thực.
-
-Đêm hè, mưa bụi giăng trên hành lang ven hồ trong cung điện triều Thanh. Những phiến lá sen lớn vươn lên từ mặt ao cạnh hành lang, một đóa sen hồng nhạt hé nở nép mình bên lá, cánh hoa ướt đẫm nước mưa. Chiếc đèn lồng cung đình ánh vàng ấm áp treo dưới mái hiên, hắt bóng xuống máng đá nông và mặt nước ao.
-
-Lá sen gần đó hơi nghiêng, đọng lại vũng nước mưa trên bề mặt. Một chú ếch nhỏ ngồi thu lu trên phiến đá ven bờ, đàn cá Koi thỉnh thoảng thấp thoáng dưới làn nước nông, dáng hình mờ ảo sau màn mưa và bóng đèn lồng.
-
-Những hàng cột gỗ sẫm màu cùng dãy hành lang hun hút chìm vào màn mưa đêm. Cuối hành lang là Lê Viên leo lét ánh đèn, bóng người mờ nhạt in trên giấy dán cửa sổ, chốc chốc lại khẽ lay động. Sắc xanh lạnh lẽo của màn đêm hòa quyện tự nhiên cùng ánh sáng ấm áp từ đèn lồng cung đình.
-
-Góc máy đặt sát lá sen và mặt nước, tiến về phía trước cực kỳ chậm rãi từ góc thấp. Lá sen, đóa hoa gần kề cùng những giọt nước rơi từ mái hiên hiện lên rõ nét; một phần chiếc đèn lồng cung đình lọt vào khung hình phía trên, bóng cửa sổ Lê Viên phía xa mờ ảo. Bố cục phân lớp rành mạch, giữ trọn những khoảng tối tĩnh lặng.
-
-0-2s: Mưa bụi không ngớt gõ lên lá sen, tạo nên tiếng xào xạc êm dịu, dày đặc. Lá sen khẽ rung rinh, từng giọt mưa tụ lại trên mặt lá. Nước từ mái hiên nhỏ giọt ngắt quãng xuống máng đá, vang lên tiếng tí tách trong trẻo. Chú ếch nhỏ ven bờ cất tiếng kêu một hai nhịp.
-
-2-4s: Tiếng nghệ nhân luyện giọng vọng ra từ Lê Viên phía xa, khúc ngâm nga không lời du dương xuyên qua màn mưa. Bóng người mờ ảo trên giấy dán cửa sổ từ từ nâng tay áo. Đàn cá Koi lững lờ bơi dưới tán lá sen, dáng hình nửa ẩn nửa hiện sau gợn sóng nước và ánh phản chiếu từ đèn lồng.
-
-4-6s: Bầu trời xa chợt lóe sáng, tia chớp trắng lạnh quét qua lá sen, đóa hoa và màn mưa, rồi nhanh chóng nhường chỗ cho sắc đêm ấm áp, trầm mặc. Một nhịp ngưng ngắn ngủi, tiếng sầm ì ầm kéo dài vọng lại từ xa, khúc hát tạm thời lắng xuống.
-
-6-8s: Tiếng sấm nhạt dần. Vũng nước mưa đọng trên phiến lá sen nghiêng trượt theo mép lá đổ xuống ao, tạo nên âm thanh róc rách êm tai liên hồi, gợn sóng lan qua bóng phản chiếu của đèn lồng. Khúc hát xa xăm vẫn văng vẳng, chú ếch ven bờ lại cất tiếng kêu. Tiếng mưa rơi ngân nga đến tận cuối video.
-
-[Thiết kế âm thanh]
-
-Xuyên suốt đoạn phim, điểm nhấn là tiếng mưa rào rào gõ lên lá sen gần kề cùng tiếng nước từ mái hiên tí tách rơi xuống máng đá. Âm thanh dòng nước từ lá sen chảy xuống ao nghe thật trong trẻo và mềm mại.
-
-Tiếng ếch kêu vọng từ ven bờ; khúc hát tuồng phát ra từ Lê Viên xa xăm; tiếng sấm rền nơi chân trời tít tắp. Các tầng âm thanh đan xen tự nhiên, phân định rõ độ xa gần, tái hiện trọn vẹn không gian của một đêm mưa thực thụ.
-
-Chớp lóe lên trước, sấm rền theo sau. Giọt mưa, lá rung, dòng nước chảy và gợn sóng đều đồng bộ hoàn hảo với âm thanh. Tiếng sấm trầm và nhẹ, rất thích hợp để thư giãn tĩnh tâm.
-
-Khúc hát tuồng êm ái, vang xa, được thể hiện dưới dạng ngâm nga không lời. Không nhạc cụ đệm, không nhạc nền, không thoại.
-
-Nhịp chuyển động của lá sen, đóa hoa, chú ếch, đàn cá Koi và bóng người phía xa đều chậm rãi, tự nhiên. Cá Koi luôn ở dưới mặt nước, bóng cửa sổ mờ ảo hư thực, còn nước mưa, ánh phản chiếu và ánh đèn đều chân thực, sống động.
-
-Góc dưới bên trái cố định chữ ký: Chấm tròn màu xanh đậm xuất hiện trước, theo sau là dòng chữ viết tay màu trắng "DeepBlue". Chữ ký nhỏ gọn, sắc nét, giữ nguyên vị trí và phong cách xuyên suốt video, không che khuất chủ thể chính, tỷ lệ 9:16
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116920195797090304/img/Jkq7FrCBlu0TsKjW.jpg" width="600" alt="Seedance 2.0 Fast Mưa Đêm Thời Nhà Thanh">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13372)**
-
-**Tác giả:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Nguồn:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **Đã xuất bản:** Nov 1, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -9666,6 +9370,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-28T00:14:48.624Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-28T06:46:15.285Z</sub>
 
 </div>

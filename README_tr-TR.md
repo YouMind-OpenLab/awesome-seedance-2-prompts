@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6729** |
+| 📝 Toplam İstem | **6732** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-11-28** |
 
@@ -361,6 +361,75 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Küçük Samuray Tavşan Savaşçı Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yıkılmış bir savaş alanında tek başına duran, samuray zırhı giymiş küçük antropomorfik beyaz tavşan savaşçısını konu alan sinematik karanlık fantezi video istemi.
+
+#### 📝 İstem
+
+```
+Yıkıma uğramış bir savaş alanının tam ortasında tek başına duran küçük, insansı beyaz tavşan savaşçıyı betimleyen sinematik bir karanlık fantezi sahnesi. Tavşan; geleneksel samuray zırhından ilham alan bir kostüm ve koyu mavi bir savaşçı kıyafeti giyiyor, elinde ise bir katana kılıcı taşıyor. Kırık kalkanlar, terk edilmiş silahlar, alevler içindeki enkaz ve yoğun duman tüm savaş alanını kaplamış durumda. Ufuk çizgisini dramatik, fırtınalı bir gökyüzünün altında karanlık dağlar süslüyor. Minik savaşçı, etrafını saran devasa savaş alanına rağmen korkusuzca dikiliyor ve kılıcını kararlılıkla kavramaya devam ediyor. Kamera yavaşça yaklaştıkça zırhındaki ince detaylar, anlamlı gözleri ve ateşin ışığını yansıtan kılıcı netleşiyor. Sinematik geniş açılar, dramatik atmosfer, gerçekçi duman ve ateş efektleri, detaylı 3D karakter animasyonu, karanlık fantezi film estetiği, ultra gerçekçi CGI, 4K kalite.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126312871370080256/img/BwsJuRV41QCzOXoT.jpg" width="600" alt="Küçük Samuray Tavşan Savaşçı Sahnesi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14192)**
+
+**Yazar:** [Draaven](https://x.com/draavenai) | **Kaynak:** [Link](https://x.com/draavenai/status/2126313066413642091) | **Yayınlandı:** Nov 27, 2026
+
+---
+### Zarif Kadın İnci Saç Aksesuarı Sinematik Kısa Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İnci saç aksesuarı ve mavi askılı bluz giyen bir kadını konu alan, belirli kamera hareketleri ve ışıklandırma talimatlarıyla görüntüden videoya oluşturma yeteneklerini kullanan detaylı 15 saniyelik sinematik video istemi.
+
+#### 📝 İstem
+
+```
+@Image 1 ilk kare ve karakter referansı olarak kullanılacak. Düz kaküllü kısa siyah bob saç, inci file başlık, mavi kaşkorse, kırmızı dudak makyajı, çiller ve iç mekan ortamı kesinlikle korunmalı.
+15 saniyelik sanatsal sinematik kısa film, tek kesintisiz çekim.
+
+0–3s: Yüzüne yakın plan. Parmakları usulca yanağına dokunur. İnci başlık, sıcak ışığın altında yumuşak bir şekilde parlar. Sakin bir bakışla kameraya bakar. Kamera çok yavaşça ileri doğru süzülürken arka plan yumuşak bir bokeh'e dönüşerek bulanıklaşır.
+3–7s: Kamera yüz hatları boyunca yavaşça döner; inci file başlığın dokuma yapısını ve iki yanda sallanan inci püskülleri gözler önüne serer. İnce saç telleri hafif esintide zarifçe uçuşur, ışık ve gölgeler yüzünde dans eder.
+7–11s: Kamera geri çekilerek orta yakın plana geçer. Başını hafifçe eğer; ince mavi kaşkorse askısı ve bileğindeki yeşim bilezik görünür. Parmağındaki altın yüzük ışıkta parlar, kol hatları yumuşak bir görünüm sunar.
+11–15s: Kamera yavaşça tekrar ileri süzülerek yüze yakın plana döner. Kirpikleri titreşir, dudağının kenarı hafifçe yukarı kıvrılır. Kare solarak kapanır ve sıcak bir ışık halesine sarılı şekilde donar.
+
+Kamera hareketi: yavaş yaklaşma + dönme + geri çekilme + tekrar yaklaşma. Boyunca hiçbir kesme yok.
+Stil: sinematik kalite, sığ alan derinliği, film greni, sıcak iç mekan aydınlatması, rüya gibi atmosfer, 24fps.
+Ses: yumuşak solo piyano, sayfa çevirme sesleri ve uzaktan gelen fısıltılar gibi ambiyans sesleri, dış ses yok. Son nota yavaşça kaybolur.
+Not: yetişkin kadın model, zarif ve sanatsal ton korunmalı, müstehcen veya cinselleştirilmiş içerik olmamalı.
+En boy oranı: 9:16, 15s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126226176385691648/img/xIxwMFUJxrOhMFyH.jpg" width="600" alt="Zarif Kadın İnci Saç Aksesuarı Sinematik Kısa Video">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14194)**
+
+**Yazar:** [ArtAi](https://x.com/tongqinai) | **Kaynak:** [Link](https://x.com/tongqinai/status/2126284904606666792) | **Yayınlandı:** Nov 27, 2026
+
+---
+### Otobüs Dev Bir Robota Dönüşüyor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Normal bir otobüsün yağmurlu bir şehirde devasa bir savaş robotuna dönüştüğü Transformers tarzı bir istemin açıklaması; Seedance 2.0 üzerinde test edildi.
+
+#### 📝 İstem
+
+```
+Sıradan bir otobüs, yağmurlu bir şehrin tam ortasında aniden dev bir savaş robotuna dönüşüyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126090446795587584/img/lDMVbiO5EyiQlaYD.jpg" width="600" alt="Otobüs Dev Bir Robota Dönüşüyor">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=14193)**
+
+**Yazar:** [Claire Ai](https://x.com/imClaireAi) | **Kaynak:** [Link](https://x.com/imClaireAi/status/2126091360348651607) | **Yayınlandı:** Nov 26, 2026
+
+---
 ### Mini Barndominium Tanıtımı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9186,371 +9255,6 @@ Ardından...
 **Yazar:** [Soran](https://x.com/Soranlan) | **Kaynak:** [Link](https://x.com/Soranlan/status/2117124345281810678) | **Yayınlandı:** Nov 2, 2026
 
 ---
-### Şehir Gecesinde Uçan Cadı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gece, neon ışıklarıyla aydınlanmış bir şehirde süpürgesiyle uçan bir cadının ultra gerçekçi sinematik fantastik videosunu oluşturmak için bir istem.
-
-#### 📝 İstem
-
-```
-Parlayan bir dolunayın altında, sihirli bir süpürgeyle karanlık bir şehirde uçan gizemli genç bir cadının yer aldığı ultra gerçekçi, sinematik bir fantezi videosu oluştur. Dramatik bulutları, mavi sihirli dumanı ve gizemli gece atmosferini yansıt. Cadı siyah sivri uçlu bir şapka ve şık koyu renkli bir kıyafet giyiyor; uzun saçları rüzgârda dalgalanıyor. Yüksek binaların arasından süzülerek uçuşunu ve neon ışıklarla aydınlanmış hareketli sokaklara doğru yaptığı ani dalışları yakala. Gerçekçi hareketler, parlayan sihirli efektler, sinematik kamera açıları, dramatik ışıklandırma ve göz alıcı görsel detaylar ekle. Üst düzey fantezi filmi tarzında, 4K, fotogerçekçi, akıcı animasyon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117120887447252992/img/jnp-YCYdCxX9r0VE.jpg" width="600" alt="Şehir Gecesinde Uçan Cadı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13368)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2117120914139619479) | **Yayınlandı:** Nov 2, 2026
-
----
-### Seedance 2.0 Mini: Xianxia Romantizm Red Sahnesi İstemi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 Mini için, eski Çin Xianxia ortamında geçen 15 saniyelik duygusal bir drama üreten kapsamlı bir istem. Düğün töreni reddini, ince oyunculuk detaylarını, belirli aksesuar etkileşimlerini (yeşim tokenleri) ve sinematik kamera hareketlerini odak noktasına alır.
-
-#### 📝 İstem
-
-```
-Seedance 2.0 Mini | "On Yıl ve Hayatın Geri Kalanı"
-
-Model: Seedance 2.0 Mini
-Süre: Kesinlikle 15 saniye
-En Boy Oranı: 16:9 Yatay
-Tür: Saf Antik Çin Xianxia / Duygusal Ters Köşe / Olgun Karakter İlişki Dramı
-Yapı: Üç ardışık, net ve anlatısal olarak birbirinden ayrı sinematik çekim
-I. Prompt | Genel Tarz ve Yaratıcı Yön
-Sinematik gerçekçi canlı aksiyon dokusu, saf antik Çin Xianxia estetiği.
-Genel yön:
-Olgun ve ölçülü bir duygusal ters köşe, gerçek psikolojik derinliğe sahip bir ilişki dramı.
-Benimsenecek unsurlar:
-Üst düzey klasik karakter sahneleme
-Arri Alexa sinematik fotoğraf dokusu
-Net ve gerçekçi cilt dokusu
-Doğal hacimsel ışık
-İnce film gren dokusu
-Gerçekçi ipek kumaş hareketi
-II. Ana Konu ve Duygusal Ters Köşe
-İki uygulayıcı on yıl boyunca birlikte çalışmış ve nihayet resmen Dao yoldaşı olacakları güne ulaşmıştır.
-Herkes bunun kusursuz bir ilişkinin varış noktası olduğunu düşünür.
-Ancak Küçük Kız Kardeş, tören sırasında bağı mühürlemeyi aniden reddeder.
-Birinci Gerilim Katmanı
-İzleyicinin başlangıçta beklediği şeyler:
-İhanet
-Sırlar
-Birinin affedilmez bir hata yapması
-Gerçek Ters Köşe
-İkisi de kötüleşmedi ve geçmişi de değersiz kılmadılar; sadece aynı geleceğe doğru yürüyemiyorlar.
-On yıllık samimiyet hâlâ samimiyettir.
-Ama hayatın geri kalanı, geçmiş için ödenen bir bedel olmamalıdır.
-Duygu ve Anlatı İlkeleri
-Hikâye doğal bir şekilde şu unsurlarla tamamlanmalıdır:
-Karakter eylemleri
-İnce mimikler
-Duraksamalar
-Diyaloglar
-Kesinlikle Kaçınılması Gerekenler
-Uzun açıklamalar
-Ani duygu patlamaları
-Zorla kötücülleştirme
-Vaaz veren final sahneleri
-III. Karakter Kimliği ve Varlık Kilitleme
-Rol A | @Image1 | Kılıç Ölümsüzü Büyük Kız Kardeş
-Her zaman aynı Kılıç Ölümsüzü Büyük Kız Kardeş:
-25-30 yaşlarında Doğu Asyalı kadın
-Yumuşak oval yüz hatları
-Parlak badem gözler
-Yarısı toplanmış uzun siyah saçlar
-Beyim yeşim saç tokasıyla sabitlenmiş
-Uzun boylu ve ince
-Aynı beyaz işlemeli ipek Hanfu
-Yarı saydam katmanlı geniş kollar
-Gümüş bel kuşağı
-Yeşim kolye ucu
-Beyaz bez çizmeler
-Tek gümüş uzun kılıcı taşıyor
-Bu Bölümdeki Rol İşlevi
-Beyaz giysili Büyük Kız Kardeş ilişkileri ağırlıklı olarak şunlarla ifade eder:
-Gözlem
-Göz teması
-Ölçülü tepkiler
-Temel Kısıtlamalar
-Küçük Kız Kardeş adına karar vermeyin
-Ana dramatik alanı ele geçirmeyin
-Rol B | @Image2 | Küçük Kız Kardeş
-Her zaman aynı Küçük Kız Kardeş:
-20-25 yaşlarında Doğu Asyalı kadın
-Yuvarlak, canlı bir yüz
-Siyah örgülü saçlar
-Aynı yeşil antik Hanfu
-Koyu renkli kemer
-Ahşap saç tokası
-Siyah bez ayakkabılar
-Tek koyu çelik kılıcı taşıyor
-Bu Bölümdeki Rol Konumlandırması
-Küçük Kız Kardeş bu olay örgüsünün duygusal ana karakteridir.
-Yeni Yardımcı Karakter | Erkek Uygulayıcı
-Yetişkin erkek
-Koyu mavi antik cüppe giyiyor
-Sıradan bir görünüm
-Sakin ve oturaklı bir mizaç
-Küçük Kız Kardeş ile on yıl boyunca birlikte çalıştı
-Küçük Kız Kardeş'in kaderinde yazılı Dao yoldaşı
-Karakter Sürekliliği Gereksinimleri
-Erkek uygulayıcı şunları korumalıdır:
-Bağımsız kimlik
-Sabit kıyafet
-Gerçekçi karakter performansı
-Ana karakterlerle karıştırılmamalıdır.
-Diğer Yardımcı Karakterler
-Yaşlı Usta
-Bağ kurma törenini yönetir.
-Tarikat Müritleri
-Uzakta tanıklık eden az sayıda mürit.
-IV. Arka Plan ve Çevre DNA'sı
-Yüklenen tüm arka plan ve mekân referans görselleri, gerçek fiziksel dünyayı belirler.
-Resmi Kompozisyondan Önce Çevre Planlaması
-Önce sessizce bir çevre planlama turunu tamamlayın.
-Referans görsellerde kapsamlı analiz yapın:
-Arazi
-Mimari düzen
-Mekânsal ölçek
-Malzemelerin yaşı
-Bitki örtüsü ekolojisi
-Su kütleleri
-Bulutlar ve sis
-Hava durumu
-Ana ışık yönü
-Renk ilişkileri
-Yansıtıcı yüzeyler
-Hava derinliği
-Şunlarda tutarlılığı koruma şartıyla:
-Mekân kimliği
-Mekânsal ilişkiler
-Fiziksel mantık
-Uygun doğal açık alanlar bulun ve bunları şu özelliklere sahip bir tören alanına dönüştürün:
-Sinematik ölçek
-Mekânsal derinlik
-Özgün kompozisyon
-V. Tören Sahnesi ve Temel Objeler
-Tören alanı için yalnızca şunlar gerekir:
-Bir adet antik taş masa
-Kırmızı bir iple birbirine bağlı iki yeşim evlilik sözleşmesi sembolü
-Yeşim Evlilik Sözleşmesi Sembolleri
-İki yeşim kolye ucu
-İki yeşim kolye ucunu birbirine bağlayan kırmızı ipek ip
-Gerçek yeşim malzemesini koruyun
-Kırmızı ipin gerçek fiziksel yapısını koruyun
-Diğer Temel Objeler
-Otoriteyi simgeleyen antik tarikat lideri mührü
-Küçük Kız Kardeş tarafından çoktan hazırlanmış küçük bavul
-VI. Canlı Arka Plan ve Anlatısal Tarafsızlık
-Arka plan her zaman canlı olmalı.
-Doğal Hareket
-Rüzgârın kolları ve bitki örtüsünü doğal bir şekilde savurması
-Bulutların yavaşça hareket etmesi
-Dağ sisinin araziye göre akması
-Referans görsellerde bulunan su kütlelerinin hareketini sürdürmesi
-Uzaktaki yapıların doğru perspektifi koruması
-Yansımaların kamera açısına göre doğal biçimde değişmesi
-Çevresel hareket hızı ve genliği, alan derinliğine göre farklılık göstermelidir.
-Çevresel Anlatı İlkeleri
-Tüm arka plan hareketi, olay örgüsünden bağımsız olarak var olur.
-Çevre asla şunları yapmamalıdır:
-Çatışma yaratmak
-Ters köşeleri tetiklemek
-Karakterler adına seçimleri tamamlamak
-VII. 15 Saniyelik Tam Storyboard Yapısı
-0–5s | Birinci Çekim: Geniş Açı | Herkesin Önünde Reddediş
-Çekim Tasarımı
-Kamera antik tören alanında yavaşça kayar.
-Şu katmanlar aracılığıyla net mekânsal ilişkiler kurun:
-Ön plandaki taş masa
-Orta plandaki karakterler
-Referans görsellerdeki uzak görkemli mimari, dağlar veya diğer temel simgesel yapılar
-Başlangıçtaki Karakter Pozisyonları
-Yaşlı Usta
-Tören taş masasının arkasında duruyor.
-Erkek Uygulayıcı
-Koyu mavi cüppesiyle taş masanın bir yanında duruyor.
-Elinde bir yeşim evlilik sözleşmesi sembolü tutuyor.
-Yeşil Giysili Küçük Kız Kardeş
-Taş masanın diğer yanında duruyor.
-Beyaz Giysili Kılıç Ölümsüzü Büyük Kız Kardeş
-Küçük Kız Kardeş'in çaprazında birkaç adım geride duruyor, sessizce gözlemliyor.
-Temel Obje Durumu
-Kırmızı bir ipek ip iki yeşim kolye ucunu birbirine bağlıyor.
-Tören Başlıyor
-Usta ağırbaşlılıkla duyurur:
-[Usta] "On yıllık evlilik sözleşmesi, bugün onu yerine getiriyoruz."
-Küçük Kız Kardeş kırmızı ipek ipe bakar.
-Yeşim kolye ucunu almak için elini uzatmaz.
-Bunun yerine, yavaşça başını kaldırıp karşısındaki adama bakar.
-Birinci Ters Köşe Katmanı
-[Küçük Kız Kardeş] "Yapmayacağım."
-Başlangıçta ağırbaşlı olan tören aniden sessizliğe bürünür.
-Erkek Uygulayıcının Tepkisi
-Kamera, o andaki erkek uygulayıcının gerçek şaşkınlığını yakalar.
-Performans ve Ritim Gereksinimleri
-Abartılı çığlıklar yok
-Onları aniden saran bir kalabalık yok
-Karakter duraksamaları ve mekânsal sessizlik aracılığıyla gerilim yaratın.
-5–10s | İkinci Çekim: Orta Yakın Plan | Gerçek Ayrılık
-Süreklilik Gereksinimleri
-Tamamen aynı olanları koruyun:
-Sahne
-Karakterler
-Kıyafetler
-Yeşim kolye ucu pozisyonları
-Kamera Tasarımı
-Kamera, tarafların üç çeyrek profilden çekilmiş orta ikili planına geçer.
-Erkek Uygulayıcının Tepkisi
-Erkek uygulayıcı öfkelenmez.
-Küçük Kız Kardeş'in fikrini değiştirip değiştirmediğini de sorgulamaz.
-Cevabı belli belirsiz biliyormuş gibi Küçük Kız Kardeş'e ciddi ciddi bakar.
-Yumuşak bir sesle sorar:
-[Erkek Uygulayıcı] "Hâlâ dağdan iniyor musun?"
-Küçük Kız Kardeş'in Cevabı
-Küçük Kız Kardeş ona, aynı sakinlikle bakar:
-[Küçük Kız Kardeş] "Sen hâlâ dağı mı koruyacaksın?"
-Duygu ve Bakışlar
-Kamera, onların uzun süredir farklı olan tercihlerini ince bakışlarla ortaya koyar.
-Obje Görsel Kontrastı
-Erkek Uygulayıcının Yanında
-Otoriteyi simgeleyen antik tarikat lideri mührü duruyor.
-Küçük Kız Kardeş'in Ayaklarının Dibinde
-Çoktan hazırlanmış küçük bavul duruyor.
-Görsel İlişki
-Bu iki obje net bir görsel kontrast oluşturur:
-Biri kalmaya karar verdi.
-Diğeri ise uzaklara yolculuk etmeye hazır.
-İkisi de yanlış değil.
-Sadece artık aynı yere yürüyemiyorlar.
-Büyük Kız Kardeş ve Çevresel Durum
-Beyaz giysili Büyük Kız Kardeş asla araya girmez.
-Arka plan şu unsurların bağımsız doğal hareketini sürdürür:
-Rüzgâr
-Su
-Bulutlar ve sis
-Bitki örtüsü
-Kumaş
-Yansımalar
-10–15s | Üçüncü Çekim: Yakın Plan | On Yıl ve Hayatın Geri Kalanı
-Ustanın Son Sorusu
-Usta taş masanın yanından son soruyu sorar:
-[Usta] "Peki ya o on yıl?"
-Küçük Kız Kardeş Yakın Plan
-Kamera Küçük Kız Kardeş'in yakın planına geçer.
-Hemen cevap vermez.
-Gözlerinde çok hafif bir nemlenme var ama gözyaşı yok.
-Sesi kararlı, içinde gerçek bir isteksizlik barındırıyor.
-[Küçük Kız Kardeş] "Onu yüreğimde saklayacağım."
-Duygusal Duraksama
-Yarım vuruşluk tam bir es.
-Ardından son repliğini söyler:
-[Küçük Kız Kardeş] "Geçmişi hayatımın geri kalanıyla ödeyemem."
-Gerçek Duygusal Doruk Noktası: Kırmızı İpi Çözmek
-Kamera hızlı ve doğal bir şekilde erkek uygulayıcının ellerine kayar.
-İki yeşim kolye ucunu birbirine bağlayan kırmızı ipek ipe bakar.
-Kısa bir tereddütten sonra ipi öfkeyle koparmaz.
-Bunun yerine parmaklarıyla düğümü yavaşça çözer.
-Eylem Zorunlu Gereksinimi
-Bu eylem gerçek, net ve eksiksiz olmalıdır.
-Yeşim Kolye Uçlarının Ayrılması
-Erkek uygulayıcı, Küçük Kız Kardeş'in yeşim kolye ucunu nazikçe masaya geri bırakır.
-Diğerini kendisi için saklar.
-Her iki yeşim kolye ucu da hasarsızdır.
-Sadece artık birbirlerine bağlı değillerdir.
-Son Karakter Tepkileri
-Küçük Kız Kardeş ona bakar.
-Adam gözlerini kaldırarak ona çok hafif bir baş selamı verir.
-Bu baş selamı şunları ifade eder:
-Anlayış
-Pişmanlık
-Son Sinematik Kompozisyon
-Son görüntü masadaki iki yeşim kolye ucunda sabitlenir:
-Sağlam, ancak artık ayrılmışlar.
-Sığ alan derinliğinde arkada:
-Uygun mesafeyi koruyan iki kişi
-Küçük Kız Kardeş'in arkasında duran Büyük Kız Kardeş
-Büyük Kız Kardeş'in sakin ve anlayışlı gözleri
-Final Kısıtlamaları
-Şunlar olmayacak:
-Sarılma
-Ani bir barışma
-Kötü karakterler
-Galibiyet/mağlubiyet hükmü
-Son Duygusal Vurgu
-On yıl boşa gitmedi, sadece artık birlikte yol almalarına gerek kalmadı.
-VIII. Seedance 2.0 Mini Uygulama Gereksinimleri
-Temel Özellikler
-Model: Seedance 2.0 Mini
-Kesin toplam süre: 15 saniye
-En boy oranı: 16:9 yatay
-Üç ardışık, net ve anlatısal olarak birbirinden ayrı sinematik çekim
-Üç anlatısal işlev
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117112122387918848/img/FNMfOO9Jg3bQP4IZ.jpg" width="600" alt="Seedance 2.0 Mini: Xianxia Romantizm Red Sahnesi İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13374)**
-
-**Yazar:** [Soran](https://x.com/Soranlan) | **Kaynak:** [Link](https://x.com/Soranlan/status/2117112170395914599) | **Yayınlandı:** Nov 2, 2026
-
----
-### Seedance 2.0 Fast Qing Hanedanı Yağmuru
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 Fast içeren bir karşılaştırma videosu. İstem, ASMR öğeleriyle Qing hanedanı sarayında gece yağmuru sahnesinin i2v (görselden videoya) üretimi için tasarlanmıştır.
-
-#### 📝 İstem
-
-```
-Çing Hanedanı Sarayında Gece Yağmuru × Yağmurun Lotus Yapraklarına ve Çiçeklerine Vurması × Koi Balığı ve Kurbağa Vıraklaması × Şimşek ve Uzak Gök Gürültüsü × Armut Bahçesindeki Opera Sanatçısının Prova Yapması × Sürükleyici ASMR
-
-8 saniye, 9:16 dikey format, gerçekçi sinematik görseller.
-
-Yaz gecesi, Çing Hanedanı sarayının su kenarındaki koridoruna düşen ince yağmur. Koridorun yanındaki havuzda büyüyen iri lotus yaprakları, yaprakların yakınında yarı açmış soluk pembe bir lotus çiçeği; taç yaprakları yağmurla ıslanmış. Saçakların altında asılı duran sıcak sarı renkli saray feneri, ışığı sığ taş oluğun ve havuzun suyuna yansıyor.
-
-Yakındaki lotus yaprağı hafifçe eğilmiş, yüzeyinde yağmur suyu birikmiş. Havuz kenarındaki taşın üzerinde çömelmiş küçük bir kurbağa, sığ suda ara sıra belli belirsiz görünen koi balıkları; silüetleri yağmur damlaları ve fenerin gölgeleriyle kısmen örtülü.
-
-Koyu ahşap sütunlar ve uzaktaki koridorlar yağmurlu gecenin içinde kaybolmuş. Koridorun sonundaki loş aydınlatılmış armut bahçesi, pencere kağıdına yansıyan bulanık insan silüeti ara sıra yavaşça hareket ediyor. Soğuk mavi gece tonları, saray fenerinin sıcak ışığıyla doğal bir şekilde iç içe geçiyor.
-
-Kamera lotus yapraklarına ve su yüzeyine yakın, alçak açıdan son derece yavaş bir şekilde ileri doğru ilerliyor. Yakındaki lotus yaprakları, çiçekler ve saçaktan damlayan su net bir şekilde görülüyor; kadrajın üst kısmında saray fenerinin bir bölümü beliriyor, uzaktaki armut bahçesinin pencere gölgeleri puslu. Kadrajda belirgin bir derinlik hissi var, sessiz ve karanlık boşluklar korunuyor.
-
-0-2s: İnce yağmur sürekli olarak lotus yapraklarına düşüyor, yoğun ve yumuşak bir hışırtı sesi çıkarıyor. Lotus yaprakları hafifçe titriyor, yağmur damlaları yüzeylerinde birikiyor. Saçaktan düşen su aralıklarla taş oluğa damlıyor, net bir tıkırtı sesi duyuluyor. Küçük kurbağa havuz kenarında bir iki kez vıraklıyor.
-
-2-4s: Uzaktaki armut bahçesinden prova yapan opera sanatçısının sesi geliyor; sözsüz, yumuşak ve melodik şarkı sesi yağmur perdesini delip geçiyor. Pencere kağıdındaki bulanık silüet yavaşça kolunu kaldırıyor. Bir koi balığı lotus yaprağının altında ağır ağır yüzüyor, silüeti su dalgaları ve saray fenerinin yansımasıyla kısmen gizleniyor.
-
-4-6s: Uzaktaki gökyüzünde kısa bir ışık parıltısı; soğuk beyaz şimşek lotus yapraklarını, çiçekleri ve yağmur ipliklerini aydınlatıp aniden sönüyor, ardından sahne yeniden sıcak ve karanlık gece tonlarına dönüyor. Kısa bir sessizlikten sonra uzaklardan boğuk ve uzun bir gök gürültüsü duyuluyor, şarkı sesi bir anlığına daha da kısılıyor.
-
-6-8s: Gök gürültüsü yavaşça sönüyor. Eğilmiş lotus yaprağında biriken yağmur suyu yaprağın kenarından süzülerek havuza akıyor, yumuşak ve kesintisiz bir su sesi çıkarıyor; oluşan dalgalanmalar saray fenerinin yansımasının içinden geçiyor. Uzaktaki şarkı sesi zar zor duyuluyor, kurbağa havuz kenarında tekrar vıraklıyor. Yağmur sesi videonun sonuna kadar devam ediyor.
-
-[Ses Tasarımı]
-
-Videonun tamamında ağırlıklı olarak yağmurun yakındaki lotus yapraklarına vurmasından kaynaklanan yoğun hışırtı ve saçaktan taş oluğa düşen suyun aralıklı tıkırtısı ön planda. Lotus yaprağından havuza akan suyun sesi net ve yumuşak.
-
-Havuz kenarından gelen kurbağa vıraklaması; uzaktaki armut bahçesinden yükselen opera şarkısı; çok daha uzaklardaki gökyüzünden gelen gök gürültüsü. Sesler doğal bir sırayla birbirine karışıyor, yakınlık ve uzaklık hissi belirgin, gerçek bir yağmurlu gecenin mekânsal derinliği korunuyor.
-
-Önce şimşek çakıyor, ardından gök gürültüsü duyuluyor. Yağmur damlaları, yaprak titremesi, su akışı ve dalgalanmalar seslerle tam senkronize. Gök gürültüsü boğuk ve yumuşak, sessiz bir dinleme deneyimine uygun.
-
-Opera şarkısı yumuşak ve uzağa yayılan bir tonda, sözsüz bir mırıltı şeklinde sunuluyor. Enstrüman eşliği yok, fon müziği yok, diyalog yok.
-
-Lotus yapraklarının, çiçeklerin, kurbağanın, koi balığının ve uzaktaki silüetlerin hareketleri yavaş ve doğal. Koi balığı suyun altında kalıyor, pencere gölgeleri bulanık ve puslu; yağmur suyu, yansımalar ve ışıklar gerçekçi ve inandırıcı.
-
-Sol alt köşede sabit imza: Önce koyu mavi dolu bir nokta, hemen ardından beyaz el yazısıyla "DeepBlue". İmza küçük ve net, video boyunca konumu ve stili sabit, ana nesneyi kapatmıyor, 9:16
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116920195797090304/img/Jkq7FrCBlu0TsKjW.jpg" width="600" alt="Seedance 2.0 Fast Qing Hanedanı Yağmuru">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=13372)**
-
-**Yazar:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Kaynak:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **Yayınlandı:** Nov 1, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -9612,6 +9316,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-28T00:14:56.806Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-28T06:46:26.592Z</sub>
 
 </div>

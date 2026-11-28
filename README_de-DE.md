@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6729** |
+| 📝 Gesamtanzahl Prompts | **6732** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-11-28** |
 
@@ -361,6 +361,75 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Szene eines kleinen Samurai-Kaninchen-Kriegers
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Dark-Fantasy-Video-Prompt, der einen kleinen anthropomorphen weißen Kaninchen-Krieger zeigt, der allein in Samurai-Rüstung auf einem verwüsteten Schlachtfeld steht.
+
+#### 📝 Prompt
+
+```
+Eine filmreife Dark-Fantasy-Szene mit einem kleinen, anthropomorphen weißen Kaninchenkrieger, der allein inmitten eines verwüsteten Schlachtfelds steht. Das Kaninchen trägt eine traditionelle, von Samurai inspirierte Rüstung über einem dunkelblauen Kriegergewand und führt ein Katana. Zerbrochene Schilde, zurückgelassene Waffen, brennende Trümmer und dichter Rauch bedecken das Schlachtfeld. Dunkle Berge erstrecken sich am Horizont unter einem dramatischen Sturmhimmel. Der winzige Krieger steht furchtlos da und hält sein Schwert voller Entschlossenheit – trotz des gewaltigen Schlachtfelds, das ihn umgibt. Die Kamera nähert sich langsam und enthüllt seine detailreiche Rüstung, seine ausdrucksstarken Augen sowie das Schwert, in dessen Klinge sich das Feuerlicht spiegelt. Filmische Totale, dramatische Atmosphäre, realistischer Rauch und Feuer, detaillierte 3D-Charakteranimation, Dark-Fantasy-Filmästhetik, ultrarealistisches CGI, 4K-Qualität.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126312871370080256/img/BwsJuRV41QCzOXoT.jpg" width="600" alt="Szene eines kleinen Samurai-Kaninchen-Kriegers">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14192)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Quelle:** [Link](https://x.com/draavenai/status/2126313066413642091) | **Veröffentlicht:** Nov 27, 2026
+
+---
+### Elegante Frau mit Perlen-Haarreif – Cinematic Short
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter 15-sekündiger Video-Prompt im Cinematic-Stil, der eine Frau mit einem Perlen-Haarreif und blauem Träger-Top zeigt. Nutzt die Image-to-Video-Funktion mit spezifischen Kamerafahrten und Lichtanweisungen.
+
+#### 📝 Prompt
+
+```
+@Image 1 als erstes Bild und Charakterreferenz. Der kurze schwarze Bob mit geradem Pony, der Perlen-Netz-Kopfschmuck, das blaue Spaghettiträger-Top, das rote Lippen-Make-up, die Sommersprossen und das Interieur als Setting sind exakt beizubehalten.
+15-sekündiger künstlerischer Kurzfilm in Kinoqualität, eine einzige durchgehende Einstellung.
+
+0–3s: Nahaufnahme ihres Gesichts. Ihre Finger berühren sanft ihre Wange. Der Perlenschmuck schimmert weich im warmen Licht. Sie blickt ruhig direkt in die Kamera. Die Kamera bewegt sich extrem langsam nach vorn, während der Hintergrund in einem weichen Bokeh verschwimmt.
+3–7s: Die Kamera umkreist langsam ihre Gesichtskontur und zeigt die geflochtene Struktur des Perlen-Netz-Kopfschmucks sowie die herabhängenden Perlenquasten auf beiden Seiten. Feine Haarsträhnen wehen leicht in der sanften Brise, Licht und Schatten gleiten über ihr Gesicht.
+7–11s: Die Kamera fährt zurück auf eine Halbnahaufnahme. Sie neigt den Kopf leicht zur Seite und gibt den Blick frei auf den schmalen Träger des blauen Tops und den Jade-Armreif an ihrem Handgelenk. Der goldene Ring an ihrem Finger blitzt im Licht auf, die Linien ihres Arms wirken weich.
+11–15s: Die Kamera fährt langsam wieder heran in eine Gesichts-Nahaufnahme. Ihre Wimpern flattern, ihr Mundwinkel hebt sich leicht. Das Bild blendet aus und friert ein, eingehüllt in einen warmen Lichtschein.
+
+Kameraführung: langsames Heranfahren + Umkreisung + Zurückfahren + erneutes Heranfahren. Keine Schnitte während der gesamten Szene.
+Stil: Kinoqualität, geringe Schärfentiefe, Filmkorn, warme Innenbeleuchtung, verträumte Atmosphäre, 24fps.
+Audio: sanftes Klaviersolo, Ambient-Geräusche wie umblätternde Seiten und entferntes Murmeln, kein Voiceover. Der letzte Ton verklingt.
+Hinweis: erwachsene weibliche Person, elegant-künstlerischer Grundton beibehalten, keine expliziten oder sexualisierten Inhalte.
+Seitenverhältnis: 9:16, 15s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126226176385691648/img/xIxwMFUJxrOhMFyH.jpg" width="600" alt="Elegante Frau mit Perlen-Haarreif – Cinematic Short">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14194)**
+
+**Autor:** [ArtAi](https://x.com/tongqinai) | **Quelle:** [Link](https://x.com/tongqinai/status/2126284904606666792) | **Veröffentlicht:** Nov 27, 2026
+
+---
+### Bus verwandelt sich in einen riesigen Roboter
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine Beschreibung eines Transformers-artigen Prompts, in dem sich ein normaler Bus in einen riesigen Kampfroboter in einer regnerischen Stadt verwandelt, getestet auf Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Mitten in einer verregneten Stadt verwandelt sich ein gewöhnlicher Bus plötzlich in einen riesigen Kampfroboter.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126090446795587584/img/lDMVbiO5EyiQlaYD.jpg" width="600" alt="Bus verwandelt sich in einen riesigen Roboter">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=14193)**
+
+**Autor:** [Claire Ai](https://x.com/imClaireAi) | **Quelle:** [Link](https://x.com/imClaireAi/status/2126091360348651607) | **Veröffentlicht:** Nov 26, 2026
+
+---
 ### Enthüllung einer Miniatur-Barndominium
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9228,371 +9297,6 @@ Dann...
 **Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2117124345281810678) | **Veröffentlicht:** Nov 2, 2026
 
 ---
-### Hexe fliegt durch die Stadt bei Nacht
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung eines ultrarealistischen, cineastischen Fantasy-Videos einer Hexe, die auf einem Besen durch eine neonbeleuchtete Stadt bei Nacht fliegt.
-
-#### 📝 Prompt
-
-```
-Erstelle ein ultrarealistisches, cineastisches Fantasy-Video mit einer geheimnisvollen jungen Hexe, die auf einem magischen Besen unter einem leuchtenden Vollmond durch eine dunkle Stadt fliegt. Zeige dramatische Wolken, blauen magischen Rauch und eine mysteriöse Nachtatmosphäre. Die Hexe trägt einen schwarzen Spitzhut sowie ein stylisches dunkles Outfit und hat langes, wehendes Haar. Halte fest, wie sie zwischen hohen Gebäuden hindurchfliegt und über belebte, neonbeleuchtete Straßen hinabstößt. Ergänze realistische Bewegungen, leuchtende magische Effekte, filmreife Kamerafahrten, dramatisches Licht und atemberaubende visuelle Details. Stil eines hochwertigen Fantasy-Films, 4K, fotorealistisch, flüssige Animation.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117120887447252992/img/jnp-YCYdCxX9r0VE.jpg" width="600" alt="Hexe fliegt durch die Stadt bei Nacht">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13368)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2117120914139619479) | **Veröffentlicht:** Nov 2, 2026
-
----
-### Seedance 2.0 Mini: Xianxia-Romanze – Absage-Szene-Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein umfassender Prompt für Seedance 2.0 Mini zur Generierung eines 15-sekündigen emotionalen Dramas im Setting des antiken chinesischen Xianxia. Der Fokus liegt auf einer Hochzeitsabsage mit subtiler Schauspielkunst, spezifischen Interaktionen mit Requisiten (Jade-Tokens) und kinematografischer Kameraführung.
-
-#### 📝 Prompt
-
-```
-Seedance 2.0 Mini | „Zehn Jahre und der Rest des Lebens“
-
-Modell: Seedance 2.0 Mini
-Dauer: Exakt 15 Sekunden
-Seitenverhältnis: 16:9 Querformat
-Genre: Reines altchinesisches Xianxia / Emotionaler Twist / Erwachsenes Beziehungsdrama
-Struktur: Drei durchgehende, klare, erzählerisch eigenständige filmische Einstellungen
-I. Prompt | Gesamtstil und kreative Ausrichtung
-Filmische, realistische Live-Action-Textur, reine altchinesische Xianxia-Ästhetik.
-Gesamtausrichtung:
-Reifer, zurückhaltender emotionaler Twist, Beziehungsdrama mit echter psychologischer Tiefe.
-Umsetzen:
-Hochwertige klassische Figureninszenierung
-Arri Alexa Kinofilm-Textur
-Klare, realistische Hauttextur
-Natürliches Volumenlicht
-Feine Filmkorn-Textur
-Realistische Seidenbewegung
-II. Kernhandlung und emotionaler Twist
-Zwei Kultivierende haben zehn Jahre lang gemeinsam praktiziert und erreichen endlich den Tag, an dem sie offiziell Dao-Gefährten werden.
-Alle glauben, dies sei das Ziel einer perfekten Beziehung.
-Doch die Jüngere Schwester weigert sich während der Zeremonie plötzlich, das Band zu besiegeln.
-Erste Spannungsebene
-Das Publikum erwartet zunächst:
-Verrat
-Geheimnisse
-Einen unverzeihlichen Fehler
-Der wahre Twist
-Keiner von beiden ist schlecht geworden, und keiner hat die Vergangenheit geringgeschätzt; sie können einfach nicht mehr auf dieselbe Zukunft zugehen.
-Zehn Jahre Aufrichtigkeit bleiben aufrichtig.
-Aber der Rest des Lebens darf nicht zum Preis für die Vergangenheit werden.
-Prinzipien für Emotion und Erzählung
-Die Geschichte muss sich natürlich vollenden durch:
-Handlungen der Figuren
-Subtile Mimik
-Pausen
-Dialoge
-Streng vermeiden:
-Lange Erklärungen
-Plötzliche Sentimentalität
-Erzwungene Bösewicht-Darstellungen
-Belehrende Enden
-III. Figurenidentität und Asset-Fixierung
-Rolle A | @Image1 | Schwert-Unsterbliche Ältere Schwester
-Immer dieselbe Schwert-Unsterbliche Ältere Schwester:
-25–30-jährige ostasiatische Frau
-Weiches ovales Gesicht
-Leuchtende Mandelaugen
-Langes schwarzes Haar, halb hochgebunden
-Mit weißer Jade-Haarnadel fixiert
-Groß und schlank
-Dasselbe weiße, bestickte Seiden-Hanfu
-Halbtransparente, geschichtete weite Ärmel
-Silberne Taillenschärpe
-Jade-Anhänger
-Weiße Stoffstiefel
-Trägt das einzige silberne Langschwert
-Funktion der Rolle in diesem Abschnitt
-Die weiß gekleidete Ältere Schwester drückt Beziehungen hauptsächlich aus durch:
-Beobachtung
-Blickkontakt
-Zurückhaltende Reaktionen
-Wichtige Einschränkungen
-Keine Entscheidungen für die Jüngere Schwester treffen
-Nicht den dramatischen Hauptraum einnehmen
-Rolle B | @Image2 | Jüngere Schwester
-Immer dieselbe Jüngere Schwester:
-20–25-jährige ostasiatische Frau
-Rundes, lebhaftes Gesicht
-Schwarzer geflochtener Zopf
-Dasselbe grüne antike Hanfu
-Dunkler Gürtel
-Holz-Haarnadel
-Schwarze Stoffschuhe
-Trägt das einzige dunkle Stahlschwert
-Positionierung der Rolle in diesem Abschnitt
-Die Jüngere Schwester ist die emotionale Protagonistin dieser Handlung.
-Neue Nebenfigur | Männlicher Kultivierender
-Erwachsener Mann
-Trägt eine tiefblaue antike Robe
-Gewöhnliches Aussehen
-Gefestigtes Temperament
-Hat zehn Jahre lang mit der Jüngeren Schwester praktiziert
-Der vom Schicksal bestimmte Dao-Gefährte der Jüngeren Schwester
-Anforderungen an die Figurenkonsistenz
-Der männliche Kultivierende muss bewahren:
-Eigenständige Identität
-Stabile Kleidung
-Realistische Darstellung der Figur
-Darf nicht mit den Protagonistinnen verwechselt werden.
-Weitere Nebenfiguren
-Meister-Ältester
-Leitet die Bindungszeremonie.
-Sektenjünger
-Eine kleine Anzahl von Jüngern als entfernte Zeugen.
-IV. Hintergrund- und Umgebungs-DNA
-Alle hochgeladenen Referenzbilder für Hintergründe und Orte bestimmen die tatsächliche physische Welt.
-Umgebungsplanung vor der eigentlichen Komposition
-Zunächst still eine Runde Umgebungsplanung abschließen.
-In den Referenzbildern umfassend analysieren:
-Gelände
-Architektonisches Layout
-Räumliche Dimensionen
-Alter der Materialien
-Vegetationsökologie
-Gewässer
-Wolken und Nebel
-Wetter
-Hauptrichtung des Lichts
-Farbbeziehungen
-Reflektierende Oberflächen
-Lufttiefe
-Unter der Voraussetzung, dass Konsistenz gewahrt bleibt bei:
-Ortsidentität
-Räumlichen Beziehungen
-Physischer Logik
-Geeignete natürliche Freiflächen finden und zu einem Zeremonienort umgestalten mit:
-Filmischen Dimensionen
-Räumlicher Tiefe
-Einzigartiger Komposition
-V. Zeremonienszene und zentrale Requisiten
-Der Zeremonienort benötigt nur:
-Einen antiken Steintisch
-Zwei Jade-Ehebund-Talismane, verbunden durch ein rotes Seil
-Jade-Ehebund-Talismane
-Zwei Jade-Anhänger
-Ein rotes Seidenseil, das die beiden Jade-Anhänger verbindet
-Reale Jade-Materialität beibehalten
-Reale physische Struktur des roten Seils beibehalten
-Weitere wichtige Requisiten
-Antikes Sektenführersiegel als Symbol der Autorität
-Kleines Gepäck, bereits von der Jüngeren Schwester gepackt
-VI. Lebendiger Hintergrund und erzählerische Neutralität
-Der Hintergrund ist stets lebendig.
-Natürliche Bewegung
-Wind bewegt Ärmel und Vegetation natürlich
-Wolken ziehen langsam vorbei
-Bergnebel fließt entsprechend dem Gelände
-Gewässer setzen ihre Bewegung fort, wo sie in den Referenzbildern vorhanden sind
-Entfernte Gebäude behalten die korrekte Perspektive
-Reflexionen verändern sich natürlich mit dem Kamerawinkel
-Geschwindigkeit und Ausmaß der Umgebungsbewegungen sollten je nach Schärfentiefe variieren.
-Prinzipien der Umgebungserzählung
-Alle Bewegungen im Hintergrund existieren unabhängig von der Handlung.
-Die Umgebung darf niemals:
-Konflikte erzeugen
-Twists auslösen
-Entscheidungen anstelle der Figuren treffen
-VII. Vollständiges Storyboard für 15 Sekunden
-0–5s | Erste Einstellung: Totale | Öffentliche Zurückweisung
-Einstellungsdesign
-Die Kamera schwenkt langsam über den antiken Zeremonienort.
-Klare räumliche Beziehungen durch diese Ebenen etablieren:
-Steintisch im Vordergrund
-Figuren in der Mitte
-Großartige Architektur, Berge oder andere zentrale Wahrzeichen aus den Referenzbildern im Hintergrund
-Ausgangspositionen der Figuren
-Meister-Ältester
-Steht hinter dem zeremoniellen Steintisch.
-Männlicher Kultivierender
-Trägt eine tiefblaue Robe, steht auf einer Seite des Steintischs.
-Hält einen Jade-Ehebund-Talisman in der Hand.
-Grün gekleidete Jüngere Schwester
-Steht auf der anderen Seite des Steintischs.
-Weiß gekleidete Schwert-Unsterbliche Ältere Schwester
-Steht einige Schritte diagonal hinter der Jüngeren Schwester und beobachtet still.
-Zustand des zentralen Requisits
-Ein rotes Seidenseil verbindet die beiden Jade-Anhänger.
-Beginn der Zeremonie
-Der Meister verkündet feierlich:
-[Meister] „Der zehnjährige Ehebund – heute erfüllen wir ihn.“
-Die Jüngere Schwester blickt auf das rote Seidenseil hinab.
-Sie streckt die Hand nicht aus, um ihren Jade-Anhänger zu nehmen.
-Stattdessen hebt sie langsam den Kopf und blickt den Mann vor sich an.
-Erste Ebene des Twists
-[Jüngere Schwester] „Ich werde es nicht tun.“
-Die zuvor so feierliche Zeremonie verstummt plötzlich.
-Reaktion des männlichen Kultivierenden
-Die Kamera hält den echten Schock des männlichen Kultivierenden in genau diesem Moment fest.
-Anforderungen an Darstellung und Rhythmus
-Keine übertriebenen Schreie
-Keine Menschenmenge, die sie plötzlich umringt
-Spannung durch Pausen der Figuren und räumliche Stille erzeugen.
-5–10s | Zweite Einstellung: Halbnahaufnahme | Die wahre Trennung
-Kontinuitätsanforderungen
-Exakt identisch beibehalten:
-Szene
-Figuren
-Kleidung
-Positionen der Jade-Anhänger
-Kameradesign
-Die Kamera wechselt zu einer halbnahen Zweier-Einstellung der Beteiligten im Dreiviertelprofil.
-Reaktion des männlichen Kultivierenden
-Der männliche Kultivierende ist nicht wütend.
-Er fragt sich auch nicht plötzlich, ob sie ihre Gefühle geändert hat.
-Er blickt die Jüngere Schwester ernst an, als würde er die Antwort bereits ahnen.
-Fragt leise:
-[Männlicher Kultivierender] „Gehst du trotzdem den Berg hinab?“
-Antwort der Jüngeren Schwester
-Die Jüngere Schwester sieht ihn an, ebenso ruhig:
-[Jüngere Schwester] „Bleibst du trotzdem, um den Berg zu bewachen?“
-Emotion und Blick
-Die Kamera nutzt subtile Blicke, um ihre seit Langem unterschiedlichen Entscheidungen zu offenbaren.
-Visueller Kontrast der Requisiten
-Neben dem männlichen Kultivierenden
-Liegt das antike Sektenführersiegel als Symbol der Autorität.
-Zu Füßen der Jüngeren Schwester
-Liegt das bereits gepackte kleine Gepäck.
-Visuelle Beziehung
-Diese beiden Requisiten bilden einen klaren visuellen Kontrast:
-Eine Person hat beschlossen zu bleiben.
-Die andere ist bereit, in die Ferne zu reisen.
-Keiner von beiden liegt falsch.
-Sie können einfach nicht mehr denselben Weg gehen.
-Zustand der Älteren Schwester und der Umgebung
-Die weiß gekleidete Ältere Schwester greift nie ein.
-Der Hintergrund setzt seine unabhängigen natürlichen Bewegungen fort:
-Wind
-Wasser
-Wolken und Nebel
-Vegetation
-Stoffe
-Reflexionen
-10–15s | Dritte Einstellung: Nahaufnahme | Zehn Jahre und der Rest des Lebens
-Letzte Frage des Meisters
-Der Meister stellt die letzte Frage neben dem Steintisch:
-[Meister] „Und was ist mit diesen zehn Jahren?“
-Nahaufnahme der Jüngeren Schwester
-Die Kamera wechselt zur Nahaufnahme der Jüngeren Schwester.
-Sie antwortet nicht sofort.
-Ein Hauch von Feuchtigkeit in den Augen, aber keine Tränen.
-Stimme ruhig, mit echtem Widerstreben.
-[Jüngere Schwester] „In Ehren halten.“
-Emotionale Pause
-Eine volle Pause von einem halben Takt.
-Dann fällt der letzte Satz:
-[Jüngere Schwester] „Man kann die Vergangenheit nicht mit dem Rest seines Lebens bezahlen.“
-Wahrer emotionaler Höhepunkt: Das Lösen des roten Seils
-Die Kamera wechselt schnell und natürlich zu den Händen des männlichen Kultivierenden.
-Er blickt auf das rote Seidenseil hinab, das die beiden Jade-Anhänger verbindet.
-Nach kurzem Zögern zerreißt er das Seil nicht wütend.
-Stattdessen löst er den Knoten langsam mit den Fingern.
-Zwingende Anforderung an die Handlung
-Diese Handlung muss real, klar und vollständig sein.
-Trennung der Jade-Anhänger
-Der männliche Kultivierende legt den Jade-Anhänger der Jüngeren Schwester behutsam zurück auf den Tisch.
-Den anderen behält er für sich.
-Beide Jade-Anhänger sind unbeschädigt.
-Nur nicht mehr verbunden.
-Letzte Reaktionen der Figuren
-Die Jüngere Schwester blickt ihn an.
-Der Mann hebt den Blick und nickt ihr kaum merklich zu.
-Dieses Nicken drückt aus:
-Verständnis
-Bedauern
-Abschließende filmische Komposition
-Das letzte Bild ruht auf den beiden Jade-Anhängern auf dem Tisch:
-Unversehrt, aber bereits getrennt.
-Dahinter, in geringer Schärfentiefe:
-Zwei Personen, die angemessenen Abstand wahren
-Die Ältere Schwester steht hinter der Jüngeren Schwester
-Die Augen der Älteren Schwester sind ruhig und verständnisvoll
-Einschränkungen für das Ende
-Keine:
-Umarmungen
-Plötzliche Versöhnung
-Bösewichte
-Urteile über Sieg oder Niederlage
-Letzte emotionale Landung
-Zehn Jahre waren nicht verschwendet, nur gibt es keinen Grund mehr, gemeinsam weiterzugehen.
-VIII. Ausführungsanforderungen für Seedance 2.0 Mini
-Grundlegende Spezifikationen
-Modell: Seedance 2.0 Mini
-Strikte Gesamtdauer: 15 Sekunden
-Seitenverhältnis: 16:9 Querformat
-Drei durchgehende, klare, erzählerisch eigenständige filmische Einstellungen
-Drei narrative Funktionen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117112122387918848/img/FNMfOO9Jg3bQP4IZ.jpg" width="600" alt="Seedance 2.0 Mini: Xianxia-Romanze – Absage-Szene-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13374)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2117112170395914599) | **Veröffentlicht:** Nov 2, 2026
-
----
-### Seedance 2.0 Fast: Qing-Dynastie Regen
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein Vergleichsvideo mit Seedance 2.0 Fast. Der Prompt beschreibt eine i2v-Generierung (Bild-zu-Video) einer nächtlichen Regenszene im Qing-Palast mit ASMR-Elementen.
-
-#### 📝 Prompt
-
-```
-Nachtregen im Palast der Qing-Dynastie × Regen auf Lotosblättern und -blüten × Koi-Fische und Froschquaken × Blitz und ferner Donner × Opernsänger des Birnengartens übt seine Melodie × Immersives ASMR
-
-8 Sekunden, vertikales 9:16-Format, realistische, cineastische Bilder.
-
-Sommernacht, feiner Regen fällt auf den Wandelgang am Wasser eines Palastes der Qing-Dynastie. Große Lotosblätter wachsen im Teich neben dem Gang, eine halb geöffnete, zartrosa Lotosblüte ruht nahe der Blätter, die Blütenblätter vom Regen benetzt. Eine warmgelbe Palastlaterne hängt unter der Dachtraufe, ihr Licht spiegelt sich in der flachen Steinrinne und im Wasser des Teichs.
-
-Ein nahes Lotosblatt ist leicht geneigt, Regenwasser hat sich auf seiner Oberfläche gesammelt. Ein kleiner Frosch hockt auf einem Stein am Teichrand, Koi-Fische sind im flachen Wasser gelegentlich schemenhaft zu erkennen – ihre Umrisse teils verdeckt von Regentropfen und Laternenschatten.
-
-Dunkle Holzsäulen und Wandelgänge in der Ferne verschwinden in der regnerischen Nacht. Am Ende des Gangs liegt ein schwach beleuchteter Birnengarten; eine verschwommene menschliche Silhouette zeichnet sich auf dem Papierfenster ab und bewegt sich hin und wieder langsam. Die kühlen blauen Nachtfarben verschmelzen ganz natürlich mit dem warmen Licht der Palastlaterne.
-
-Die Kamera befindet sich dicht an den Lotosblättern und der Wasseroberfläche und gleitet aus einer tiefen Perspektive extrem langsam nach vorn. Nahe Lotosblätter, Blüten und das tropfende Traufenwasser sind klar erkennbar; im oberen Bildausschnitt erscheint ein Teil der Palastlaterne, während die Fenster des fernen Birnengartens dunstig wirken. Das Bild zeigt eine klare Tiefenstaffelung und bewahrt stille, dunkle Freiräume.
-
-0–2 s: Feiner Regen fällt unaufhörlich auf die Lotosblätter und erzeugt ein dichtes, sanftes Rascheln. Die Blätter erzittern leicht, Regentropfen sammeln sich auf ihrer Oberfläche. Traufenwasser tropft unregelmäßig in die Steinrinne, ein klares Ticken ist zu hören. Am Teichrand quakt ein kleiner Frosch ein- oder zweimal.
-
-2–4 s: Aus dem fernen Birnengarten dringt der Gesang eines Opernsängers, der seine Melodie übt; eine sanfte, wohlklingende Stimme ohne Worte durchdringt den Regenvorhang. Auf dem Papierfenster hebt die unscharfe Silhouette langsam den Ärmel. Ein Koi schwimmt gemächlich unter einem Lotosblatt hindurch, sein Umriss teils verborgen hinter Wasserwellen und der Spiegelung der Palastlaterne.
-
-4–6 s: Ein kurzer Lichtblitz erhellt den fernen Himmel; kaltes Weiß taucht Lotosblätter, Blüten und Regenfäden für einen Moment in Licht, bevor die warme Dunkelheit zurückkehrt. Nach einer kurzen Pause rollt ein tiefer, langgezogener Donner aus der Ferne heran, der Gesang wird vorübergehend leiser.
-
-6–8 s: Der Donner verklingt allmählich. Das gesammelte Regenwasser fließt über das geneigte Lotosblatt am Rand entlang in den Teich und erzeugt ein sanftes, beständiges Plätschern; kleine Wellen durchziehen die Spiegelung der Palastlaterne. Der ferne Gesang ist noch kaum hörbar, der Frosch am Teichrand quakt erneut. Das Geräusch des Regens hält bis zum Ende an.
-
-[Sounddesign]
-
-Im Mittelpunkt stehen durchgehend das dichte Rascheln des Regens auf den nahen Lotosblättern und das unregelmäßige Ticken des Wassers, das von der Traufe in die Steinrinne fällt. Das Fließen des Wassers vom Lotosblatt in den Teich klingt klar und weich.
-
-Das Quaken des Frosches kommt vom Teichrand, der Operngesang aus dem fernen Birnengarten, der Donner aus noch weiterer Entfernung. Die Klänge greifen natürlich ineinander, mit deutlicher räumlicher Tiefe, die die Atmosphäre einer echten Regennacht bewahrt.
-
-Zuerst der Blitz, dann folgt der Donner. Regentropfen, das Zittern der Blätter, der Wasserfluss und die Wellen sind exakt auf die Geräusche abgestimmt. Der Donner bleibt tief und sanft – ideal für ruhiges Zuhören.
-
-Der Operngesang wirkt sanft und weit tragend, dargeboten als wortloses Summen. Keine Instrumentalbegleitung, keine Hintergrundmusik, keine Dialoge.
-
-Die Bewegungen der Lotosblätter, Blüten, Frösche, Kois und der fernen Gestalt sind langsam und natürlich. Der Koi bleibt unter Wasser, die Fensterschatten wirken unscharf und dunstig, Regenwasser, Spiegelungen und Lichter erscheinen absolut realistisch und glaubhaft.
-
-Festes Signet in der unteren linken Ecke: zuerst ein dunkelblauer, ausgefüllter Punkt, danach das weiß handgeschrieben wirkende „DeepBlue“. Das Signet ist klein und klar, Position und Stil bleiben im gesamten Video konstant, es verdeckt nicht das Hauptmotiv, 9:16
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116920195797090304/img/Jkq7FrCBlu0TsKjW.jpg" width="600" alt="Seedance 2.0 Fast: Qing-Dynastie Regen">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13372)**
-
-**Autor:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Quelle:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **Veröffentlicht:** Nov 1, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -9654,6 +9358,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-28T00:14:52.264Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-28T06:46:20.188Z</sub>
 
 </div>

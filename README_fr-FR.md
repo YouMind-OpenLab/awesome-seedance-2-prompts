@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6729** |
+| 📝 Total des prompts | **6732** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-11-28** |
 
@@ -361,6 +361,75 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Scène de Guerrier Lapin Samouraï Minuscule
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo de dark fantasy cinématographique mettant en scène un petit guerrier lapin blanc anthropomorphe, seul sur un champ de bataille dévasté, vêtu d'une armure de samouraï.
+
+#### 📝 Prompt
+
+```
+Une scène de dark fantasy cinématographique montrant un petit guerrier lapin blanc anthropomorphe, debout et solitaire au milieu d'un champ de bataille dévasté. Le lapin porte une armure traditionnelle d'inspiration samouraï ainsi qu'une tenue de guerrier bleu foncé, et manie un katana. Des boucliers brisés, des armes abandonnées, des débris en flammes et une épaisse fumée recouvrent le champ de bataille. De sombres montagnes s'étendent à l'horizon sous un ciel d'orage dramatique. Le minuscule guerrier se tient sans crainte, serrant son épée avec détermination malgré l'immensité du champ de bataille qui l'entoure. La caméra s'approche lentement, révélant les détails de son armure, ses yeux expressifs et la lame reflétant la lueur des flammes. Plans larges cinématographiques, atmosphère dramatique, fumée et feu réalistes, animation 3D détaillée du personnage, esthétique de film de dark fantasy, CGI ultra-réaliste, qualité 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126312871370080256/img/BwsJuRV41QCzOXoT.jpg" width="600" alt="Scène de Guerrier Lapin Samouraï Minuscule">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14192)**
+
+**Auteur:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2126313066413642091) | **Publié:** Nov 27, 2026
+
+---
+### Court métrage cinématographique : Femme élégante avec serre-tête à perles
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique détaillé de 15 secondes mettant en scène une femme portant un serre-tête à perles et un caraco bleu, utilisant les capacités de génération vidéo à partir d'images avec des instructions spécifiques pour les mouvements de caméra et l'éclairage.
+
+#### 📝 Prompt
+
+```
+@Image 1 comme premier plan et référence de personnage. Conserver strictement le carré court noir avec frange droite, la résille à perles sur la tête, le caraco bleu, le maquillage aux lèvres rouges, les taches de rousseur et le décor intérieur.
+Court-métrage artistique et cinématographique de 15 secondes, un seul plan-séquence continu.
+
+0–3 s : Gros plan sur son visage. Ses doigts effleurent doucement sa joue. La coiffe en perles luit doucement sous une lumière chaude. Elle regarde calmement l'objectif. La caméra avance très lentement, tandis que l'arrière-plan se fond dans un bokeh doux.
+3–7 s : La caméra orbite lentement le long des contours de son visage, révélant la structure tissée de la résille à perles et les pampilles de perles qui oscillent de chaque côté. De fines mèches de cheveux flottent légèrement dans la brise douce, et les jeux d'ombre et de lumière glissent sur son visage.
+7–11 s : La caméra recule pour un plan rapproché poitrine. Elle incline légèrement la tête, dévoilant la fine bretelle bleue du caraco et le bracelet de jade à son poignet. La bague en or à son doigt accroche la lumière, les lignes de son bras paraissent douces.
+11–15 s : La caméra revient lentement vers un gros plan du visage. Ses cils papillonnent, le coin de ses lèvres se soulève imperceptiblement. L'image s'estompe et se fige, enveloppée d'une chaude halation.
+
+Mouvements de caméra : travelling avant lent + orbite + travelling arrière + nouveau travelling avant. Aucune coupe du début à la fin.
+Style : qualité cinématographique, faible profondeur de champ, grain argentique, éclairage intérieur chaud, atmosphère onirique, 24 ips.
+Audio : piano solo délicat, sons ambiants de pages que l'on tourne et murmures lointains, aucune voix off. La dernière note s'éteint progressivement.
+Remarque : sujet féminin adulte, conserver un ton artistique et élégant, aucun contenu explicite ou sexualisé.
+Format : 9:16, 15 s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126226176385691648/img/xIxwMFUJxrOhMFyH.jpg" width="600" alt="Court métrage cinématographique : Femme élégante avec serre-tête à perles">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14194)**
+
+**Auteur:** [ArtAi](https://x.com/tongqinai) | **Source:** [Link](https://x.com/tongqinai/status/2126284904606666792) | **Publié:** Nov 27, 2026
+
+---
+### Un Bus Se Transforme en Robot Géant
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une description d'un prompt de style Transformers où un bus ordinaire se transforme en un robot géant de combat dans une ville sous la pluie, testé sur Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Un bus ordinaire se transforme soudain en un gigantesque robot de combat au beau milieu d'une ville sous la pluie.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126090446795587584/img/lDMVbiO5EyiQlaYD.jpg" width="600" alt="Un Bus Se Transforme en Robot Géant">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14193)**
+
+**Auteur:** [Claire Ai](https://x.com/imClaireAi) | **Source:** [Link](https://x.com/imClaireAi/status/2126091360348651607) | **Publié:** Nov 26, 2026
+
+---
 ### Révélation d'un Mini Barndominium
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -8960,379 +9029,6 @@ Ensuite...
 **Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2117124345281810678) | **Publié:** Nov 2, 2026
 
 ---
-### Sorcière survolant une ville la nuit
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour créer une vidéo de fantasy cinématographique ultra-réaliste d'une sorcière volant sur un balai à travers une ville illuminée par des néons la nuit.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo fantastique cinématographique ultra-réaliste mettant en scène une jeune sorcière mystérieuse survolant une ville plongée dans l'obscurité sur un balai magique, sous le halo d'une pleine lune lumineuse. Intégrez des nuages dramatiques, une fumée magique bleue et une atmosphère nocturne énigmatique. La sorcière porte un chapeau pointu noir et une tenue sombre élégante, ses longs cheveux flottant au vent. Filmez-la slalomant entre de grands immeubles et piquant à travers des rues animées baignées de néons. Ajoutez des mouvements réalistes, des effets magiques lumineux, des mouvements de caméra cinématographiques, un éclairage dramatique et des détails visuels époustouflants. Style film fantastique haut de gamme, 4K, photoréaliste, animation fluide.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117120887447252992/img/jnp-YCYdCxX9r0VE.jpg" width="600" alt="Sorcière survolant une ville la nuit">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13368)**
-
-**Auteur:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2117120914139619479) | **Publié:** Nov 2, 2026
-
----
-### Seedance 2.0 Mini : Prompt de scène de rejet romantique Xianxia
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt complet pour Seedance 2.0 Mini générant un drame émotionnel de 15 secondes dans un cadre Xianxia chinois ancien. Se concentre sur une scène de rejet lors d'une cérémonie de mariage, avec un jeu d'acteur subtil, des interactions spécifiques avec les accessoires (jetons en jade) et un travail caméra cinématographique.
-
-#### 📝 Prompt
-
-```
-Seedance 2.0 Mini | « Dix ans et le reste de la vie »
-
-Modèle : Seedance 2.0 Mini
-Durée : Strictement 15 secondes
-Format : 16:9 Paysage
-Genre : Xianxia chinois antique pur / Retournement émotionnel / Drame relationnel entre personnages matures
-Structure : Trois plans cinématographiques continus, limpides et narrativement distincts
-
-I. Prompt | Style global et direction créative
-Texture réaliste de prise de vues cinématographique, esthétique Xianxia chinoise antique pure.
-Direction globale :
-Retournement émotionnel mature et retenu, drame relationnel doté d'une véritable profondeur psychologique.
-Adopter :
-Une mise en scène classique des personnages de très haut niveau
-Une texture photographique cinématographique type Arri Alexa
-Un grain de peau réaliste et net
-Une lumière volumétrique naturelle
-Un grain pellicule délicat
-Des mouvements de soie réalistes
-
-II. Intrigue principale et retournement émotionnel
-Deux cultivateurs ont pratiqué ensemble pendant dix ans, pour enfin atteindre le jour où ils deviennent officiellement compagnons de Dao.
-Tout le monde pense qu'il s'agit de l'aboutissement d'une relation parfaite.
-Mais la Petite Sœur refuse soudainement de sceller le lien lors de la cérémonie.
-Première couche de suspense
-Le public s'attend d'abord à :
-Une trahison
-Des secrets
-Quelqu'un ayant commis une faute impardonnable
-Le véritable retournement
-Aucun des deux n'est devenu mauvais, et aucun n'a cessé de chérir le passé ; ils ne peuvent tout simplement plus avancer vers le même avenir.
-Dix années de sincérité restent sincères.
-Mais le reste de la vie ne doit pas devenir le prix à payer pour le passé.
-Principes émotionnels et narratifs
-L'histoire doit se dérouler naturellement à travers :
-Les actions des personnages
-Les expressions subtiles
-Les silences
-Les dialogues
-À éviter strictement
-Les longues explications
-La sentimentalité soudaine
-La diabolisation forcée des personnages
-Les fins moralisatrices
-
-III. Identité des personnages et verrouillage des assets
-Rôle A | @Image1 | Sœur Aînée Immortelle de l'Épée
-Toujours la même Sœur Aînée Immortelle de l'Épée :
-Femme est-asiatique de 25 à 30 ans
-Visage ovale et doux
-Yeux en amande lumineux
-Longs cheveux noirs à demi attachés
-Maintenus par une épingle en jade blanc
-Grande et élancée
-Même Hanfu en soie blanche brodée
-Manches larges superposées semi-transparentes
-Ceinture argentée à la taille
-Pendentif en jade
-Bottes en tissu blanc
-Portant l'unique épée longue en argent
-Fonction du rôle dans ce segment
-La Sœur Aînée vêtue de blanc exprime principalement les relations à travers :
-L'observation
-Le contact visuel
-Des réactions retenues
-Restrictions clés
-Ne pas prendre de décisions à la place de la Petite Sœur
-Ne pas voler l'espace dramatique principal
-Rôle B | @Image2 | Petite Sœur
-Toujours la même Petite Sœur :
-Femme est-asiatique de 20 à 25 ans
-Visage rond et expressif
-Cheveux noirs tressés
-Même Hanfu antique vert
-Ceinture sombre
-Épingle à cheveux en bois
-Chaussures en tissu noir
-Portant l'unique épée en acier sombre
-Positionnement du rôle dans ce segment
-La Petite Sœur est la protagoniste émotionnelle de cette intrigue.
-Nouveau personnage secondaire | Cultivateur masculin
-Homme adulte
-Vêtu d'une robe antique bleu profond
-Apparence ordinaire
-Tempérament posé
-A pratiqué avec la Petite Sœur pendant dix ans
-Compagnon de Dao prédestiné de la Petite Sœur
-Exigences de continuité du personnage
-Le cultivateur masculin doit conserver :
-Une identité indépendante
-Des vêtements stables
-Une performance de personnage réaliste
-Il ne doit en aucun cas être confondu avec les protagonistes.
-Autres personnages secondaires
-Maître Ancien
-Préside la cérémonie d'union.
-Disciples de la secte
-Un petit nombre de disciples servant de témoins lointains.
-
-IV. ADN des décors et de l'environnement
-Toutes les images de référence de décors et de lieux téléchargées déterminent le monde physique réel.
-Planification de l'environnement avant la composition formelle
-Effectuer d'abord silencieusement une phase de planification de l'environnement.
-Analyser de manière exhaustive dans les images de référence :
-Le relief
-L'agencement architectural
-L'échelle spatiale
-L'âge des matériaux
-L'écologie végétale
-Les étendues d'eau
-Les nuages et la brume
-La météo
-La direction de la lumière principale
-Les relations chromatiques
-Les surfaces réfléchissantes
-La profondeur atmosphérique
-Tout en maintenant la cohérence de :
-L'identité du lieu
-Les relations spatiales
-La logique physique
-Trouver des espaces ouverts naturels adaptés, à réorganiser en un lieu de cérémonie offrant :
-Une échelle cinématographique
-Une profondeur spatiale
-Une composition unique
-
-V. Scène de cérémonie et accessoires principaux
-Le lieu de la cérémonie nécessite uniquement :
-Une table en pierre antique
-Deux jetons de contrat de mariage en jade reliés par une corde rouge
-Jetons de contrat de mariage en jade
-Deux pendentifs en jade
-Une corde de soie rouge reliant les deux pendentifs en jade
-Conserver la matière réelle du jade
-Conserver la structure physique réelle de la corde rouge
-Autres accessoires clés
-Le sceau antique du chef de secte symbolisant l'autorité
-Le petit bagage déjà préparé par la Petite Sœur
-
-VI. Arrière-plan vivant et neutralité narrative
-L'arrière-plan doit toujours rester vibrant.
-Mouvements naturels
-Le vent agitant naturellement les manches et la végétation
-Les nuages se déplaçant lentement
-La brume de montagne s'écoulant selon le relief
-Les étendues d'eau conservant leur mouvement là où elles apparaissent sur les images de référence
-Les bâtiments lointains respectant la perspective correcte
-Les reflets changeant naturellement selon l'angle de la caméra
-La vitesse et l'amplitude des mouvements environnementaux doivent varier selon la profondeur de champ.
-Principes de narration environnementale
-Tous les mouvements de l'arrière-plan existent indépendamment de l'intrigue.
-L'environnement ne doit jamais :
-Créer de conflit
-Déclencher de retournements
-Prendre de décisions à la place des personnages
-
-VII. Structure complète du storyboard de 15 secondes
-0–5s | Premier plan : Plan large | Le refus public
-Conception du plan
-La caméra effectue un panoramique lent sur le lieu de cérémonie antique.
-Établir des relations spatiales claires à travers ces couches :
-La table en pierre au premier plan
-Les personnages au deuxième plan
-L'architecture grandiose, les montagnes ou autres repères centraux issus des images de référence à l'arrière-plan
-Positions initiales des personnages
-Maître Ancien
-Debout derrière la table de cérémonie en pierre.
-Cultivateur masculin
-Vêtu d'une robe bleu profond, debout d'un côté de la table en pierre.
-Tenant un jeton de contrat de mariage en jade dans la main.
-Petite Sœur en robe verte
-Debout de l'autre côté de la table en pierre.
-Sœur Aînée Immortelle de l'Épée en robe blanche
-Debout quelques pas en diagonale derrière la Petite Sœur, observant en silence.
-État de l'accessoire principal
-Une corde de soie rouge relie les deux pendentifs en jade.
-Début de la cérémonie
-Le Maître annonce solennellement :
-[Maître] « Un contrat de mariage de dix ans, aujourd'hui nous l'accomplissons. »
-La Petite Sœur baisse les yeux vers la corde de soie rouge.
-Elle ne tend pas la main pour prendre son pendentif de jade.
-Au lieu de cela, elle lève lentement la tête pour regarder l'homme devant elle.
-Première couche de retournement
-[Petite Sœur] « Je ne le ferai pas. »
-La cérémonie jusqu'alors solennelle plonge soudain dans le silence.
-Réaction du cultivateur masculin
-La caméra capte la stupeur authentique du cultivateur masculin à cet instant précis.
-Exigences de jeu et de rythme
-Pas de cris exagérés
-Pas de foule les entourant soudainement
-Créer le suspense par les silences des personnages et le vide spatial.
-5–10s | Deuxième plan : Plan moyen rapproché | La véritable divergence
-Exigences de continuité
-Conserver de manière strictement identique :
-Le décor
-Les personnages
-Les vêtements
-La position des pendentifs en jade
-Conception de la caméra
-La caméra passe à un plan moyen à deux personnages montrant les protagonistes de trois quarts.
-Réaction du cultivateur masculin
-Le cultivateur masculin n'est pas en colère.
-Il ne se demande pas non plus soudainement si elle a changé d'avis.
-Il regarde la Petite Sœur avec sérieux, comme s'il connaissait vaguement la réponse.
-Il demande doucement :
-[Cultivateur masculin] « Descends-tu toujours de la montagne ? »
-Réponse de la Petite Sœur
-La Petite Sœur le regarde, tout aussi calme :
-[Petite Sœur] « Et toi, gardes-tu toujours la montagne ? »
-Émotion et regard
-La caméra utilise des regards subtils pour révéler leurs choix divergents depuis longtemps.
-Contraste visuel des accessoires
-À côté du cultivateur masculin
-Repose le sceau antique du chef de secte symbolisant l'autorité.
-Aux pieds de la Petite Sœur
-Se trouve le petit bagage déjà préparé.
-Relation visuelle
-Ces deux accessoires forment un contraste visuel clair :
-L'un a décidé de rester.
-L'autre est prête à partir au loin.
-Aucun des deux n'a tort.
-Ils ne peuvent tout simplement plus marcher vers la même destination.
-État de la Sœur Aînée et de l'environnement
-La Sœur Aînée en robe blanche n'intervient jamais.
-L'arrière-plan poursuit ses mouvements naturels indépendants :
-Le vent
-L'eau
-Les nuages et la brume
-La végétation
-Les tissus
-Les reflets
-10–15s | Troisième plan : Gros plan | Dix ans et le reste de la vie
-Ultime question du Maître
-Le Maître pose la dernière question depuis le côté de la table en pierre :
-[Maître] « Et ces dix années ? »
-Gros plan sur la Petite Sœur
-La caméra passe à un gros plan de la Petite Sœur.
-Elle ne répond pas immédiatement.
-Une très légère humidité dans les yeux, mais aucune larme.
-Voix stable, empreinte d'une véritable hésitation.
-[Petite Sœur] « Chérissons-les. »
-Silence émotionnel
-Pause complète d'un demi-temps.
-Puis elle prononce la dernière réplique :
-[Petite Sœur] « On ne peut pas rembourser le passé avec le reste de sa vie. »
-Véritable apogée émotionnel : Défaire la corde rouge
-La caméra se déplace rapidement et naturellement vers les mains du cultivateur masculin.
-Il baisse les yeux vers la corde de soie rouge reliant les deux pendentifs en jade.
-Après une brève hésitation, il ne déchire pas la corde avec colère.
-Au lieu de cela, il défait lentement le nœud avec ses doigts.
-Exigence stricte d'action
-Cette action doit être réelle, claire et complète.
-Séparation des pendentifs en jade
-Le cultivateur masculin repose délicatement le pendentif de jade de la Petite Sœur sur la table.
-Il garde l'autre pour lui.
-Les deux pendentifs en jade sont intacts.
-Simplement, ils ne sont plus reliés.
-Réactions finales des personnages
-La Petite Sœur le regarde.
-L'homme lève les yeux et lui adresse un très léger hochement de tête.
-Ce hochement exprime :
-La compréhension
-Le regret
-Composition cinématographique finale
-L'image finale s'attarde sur les deux pendentifs en jade posés sur la table :
-Intacts, mais désormais séparés.
-En arrière-plan, dans une faible profondeur de champ :
-Les deux personnes maintenant une distance appropriée
-La Sœur Aînée debout derrière la Petite Sœur
-Le regard de la Sœur Aînée calme et compréhensif
-Restrictions de fin
-Pas de :
-Câlins
-Réconciliation soudaine
-Méchants
-Verdict de victoire ou de défaite
-Atterrissage émotionnel final
-Dix ans n'ont pas été gâchés, il n'y a simplement plus besoin de voyager ensemble.
-
-VIII. Exigences d'exécution pour Seedance 2.0 Mini
-Spécifications de base
-Modèle : Seedance 2.0 Mini
-Durée totale stricte : 15 secondes
-Format : 16:9 paysage
-Trois plans cinématographiques continus, limpides et narrativement distincts
-Trois fonctions narratives
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117112122387918848/img/FNMfOO9Jg3bQP4IZ.jpg" width="600" alt="Seedance 2.0 Mini : Prompt de scène de rejet romantique Xianxia">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13374)**
-
-**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2117112170395914599) | **Publié:** Nov 2, 2026
-
----
-### Seedance 2.0 Fast : Pluie sous la Dynastie Qing
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Une vidéo comparative incluant Seedance 2.0 Fast. Le prompt est destiné à une génération i2v (image-to-video) d'une scène de pluie nocturne dans un palais de la dynastie Qing, avec des éléments ASMR.
-
-#### 📝 Prompt
-
-```
-Pluie nocturne sur un palais de la dynastie Qing × Pluie battant les feuilles et fleurs de lotus × Carpes koï et coassement de grenouille × Éclairs et tonnerre lointain × Chanteur d'opéra du Jardin des Poiriers répétant son air × ASMR immersif
-
-8 secondes, format vertical 9:16, visuels cinématographiques réalistes.
-
-Nuit d'été, pluie fine tombant sur la galerie au bord de l'eau d'un palais de la dynastie Qing. De grandes feuilles de lotus poussent dans l'étang longeant la galerie ; une fleur de lotus rose pâle à demi éclose se trouve près des feuilles, ses pétales mouillés par la pluie. Une lanterne de palais jaune chaud est suspendue sous les avant-toits, sa lumière se reflétant dans l'auge de pierre peu profonde et dans l'eau de l'étang.
-
-Une feuille de lotus voisine est légèrement inclinée, l'eau de pluie s'accumulant à sa surface. Une petite grenouille est accroupie sur une pierre au bord du bassin, tandis qu'une carpe koï apparaît parfois furtivement dans l'eau peu profonde, sa silhouette partiellement masquée par les gouttes de pluie et les ombres de la lanterne.
-
-Les piliers de bois sombre et les galeries au loin disparaissent dans la nuit pluvieuse. Au bout de la galerie se trouve le Jardin des Poiriers faiblement éclairé, où une silhouette humaine floue se projette sur le papier de riz de la fenêtre, bougeant lentement de temps à autre. Les teintes bleues et froides de la nuit se fondent naturellement avec la lumière chaude de la lanterne du palais.
-
-La caméra, placée près des feuilles de lotus et de la surface de l'eau, avance extrêmement lentement en contre-plongée. Les feuilles de lotus, les fleurs et l'eau qui goutte des avant-toits sont nettement visibles ; une partie de la lanterne du palais apparaît dans le haut du cadre, tandis que les ombres de la fenêtre du Jardin des Poiriers au loin restent brumeuses. La composition offre une profondeur claire, préservant des espaces sombres et paisibles.
-
-0-2s : Une pluie fine tombe continuellement sur les feuilles de lotus, produisant un bruissement doux et dense. Les feuilles de lotus frémissent doucement, les gouttes de pluie s'accumulent à leur surface. L'eau des avant-toits tombe par intermittence dans l'auge de pierre, créant un tintement clair. Une petite grenouille coasse une ou deux fois au bord du bassin.
-
-2-4s : Le son d'un chanteur d'opéra répétant son air provient du Jardin des Poiriers au loin ; une voix chantante douce et mélodieuse, sans paroles, traverse le rideau de pluie. La silhouette floue sur le papier de la fenêtre lève lentement sa manche. Une carpe koï nage lentement sous une feuille de lotus, sa forme partiellement masquée par les ondulations de l'eau et le reflet de la lanterne du palais.
-
-4-6s : Un bref éclat lumineux déchire le ciel lointain ; cette lueur blanche et froide illumine les feuilles de lotus, les fleurs et les fils de pluie, avant que les teintes chaudes et sombres de la nuit ne reprennent leurs droits. Après une courte pause, un grondement de tonnerre sourd et prolongé se fait entendre au loin, et la voix chantante devient temporairement plus étouffée.
-
-6-8s : Le tonnerre s'estompe progressivement. L'eau de pluie accumulée sur la feuille de lotus inclinée s'écoule le long du bord jusque dans l'étang, produisant un clapotis doux et continu, dont les ondulations traversent le reflet de la lanterne du palais. La voix chantante au loin reste faiblement audible, et la grenouille coasse à nouveau au bord du bassin. Le bruit de la pluie se poursuit jusqu'à la fin.
-
-[Conception sonore]
-
-L'accent est mis tout au long du clip sur le bruissement dense de la pluie frappant les feuilles de lotus proches et sur le tintement intermittent de l'eau des avant-toits tombant dans l'auge de pierre. Le son de l'eau glissant des feuilles de lotus vers l'étang est clair et doux.
-
-Le coassement de la grenouille provient du bord du bassin ; le chant d'opéra vient du Jardin des Poiriers au loin ; le tonnerre gronde depuis un ciel encore plus éloigné. Les sons se succèdent naturellement, avec une distinction nette entre proximité et distance, préservant la sensation spatiale d'une véritable nuit pluvieuse.
-
-L'éclair apparaît en premier, suivi du tonnerre. Les gouttes de pluie, le frémissement des feuilles, l'écoulement de l'eau et les ondulations sont synchronisés avec les sons. Le tonnerre est sourd et doux, idéal pour une écoute apaisante.
-
-Le chant d'opéra est doux et porte au loin, présenté comme une psalmodie sans paroles. Aucun accompagnement instrumental, aucune musique de fond, aucun dialogue.
-
-Les mouvements des feuilles de lotus, des fleurs, des grenouilles, des carpes koï et des silhouettes au loin sont lents et naturels. La carpe koï reste sous l'eau, les ombres de la fenêtre sont floues et brumeuses, tandis que l'eau de pluie, les reflets et les lumières sont réalistes et crédibles.
-
-Signature fixe dans le coin inférieur gauche : d'abord un point bleu foncé uni, puis « DeepBlue » écrit à la main en blanc. La signature est petite et nette, sa position et son style restent stables tout au long de la vidéo, elle ne masque pas le sujet principal, 9:16
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116920195797090304/img/Jkq7FrCBlu0TsKjW.jpg" width="600" alt="Seedance 2.0 Fast : Pluie sous la Dynastie Qing">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13372)**
-
-**Auteur:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Source:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **Publié:** Nov 1, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -9394,6 +9090,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-28T00:14:53.265Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-28T06:46:21.279Z</sub>
 
 </div>

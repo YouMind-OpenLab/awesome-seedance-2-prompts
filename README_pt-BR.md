@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6729** |
+| 📝 Total de prompts | **6732** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-11-28** |
 
@@ -361,6 +361,75 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Cena de Guerreiro Coelho Samurai Minúsculo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico de dark fantasy apresentando um pequeno guerreiro coelho branco antropomórfico, vestindo armadura de samurai, sozinho em um campo de batalha devastado.
+
+#### 📝 Prompt
+
+```
+Uma cena cinematográfica de fantasia sombria mostrando um pequeno guerreiro coelho branco antropomórfico, sozinho no meio de um campo de batalha devastado. O coelho veste uma armadura tradicional inspirada nos samurais e um traje de combate azul-escuro, empunhando uma espada katana. Escudos quebrados, armas abandonadas, destroços em chamas e uma fumaça densa cobrem o campo de batalha. Montanhas escuras se estendem pelo horizonte sob um céu dramático e tempestuoso. O minúsculo guerreiro permanece destemido, segurando a espada com determinação, mesmo diante da imensidão do campo de batalha ao seu redor. A câmera se aproxima lentamente, revelando os detalhes de sua armadura, seus olhos expressivos e a espada refletindo a luz do fogo. Planos abertos cinematográficos, atmosfera dramática, fumaça e fogo realistas, animação 3D detalhada do personagem, estética de filme de fantasia sombria, CGI ultrarrealista, qualidade 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126312871370080256/img/BwsJuRV41QCzOXoT.jpg" width="600" alt="Cena de Guerreiro Coelho Samurai Minúsculo">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=14192)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fonte:** [Link](https://x.com/draavenai/status/2126313066413642091) | **Publicado:** Nov 27, 2026
+
+---
+### Curta Cinematográfico Elegante: Mulher com Adorno de Pérolas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico detalhado de 15 segundos, apresentando uma mulher com um adorno de cabeça de pérolas e camisola azul, utilizando recursos de imagem para vídeo com instruções específicas de movimentos de câmera e iluminação.
+
+#### 📝 Prompt
+
+```
+@Image 1 como primeiro quadro e referência de personagem. Manter rigorosamente o chanel curto preto com franja reta, a tiara de rede de pérolas, a camisola azul, a maquiagem com batom vermelho, as sardas e o ambiente interno.
+Curta-metragem artístico e cinematográfico de 15 segundos, em um único plano contínuo.
+
+0–3s: Close-up no rosto dela. Seus dedos tocam suavemente a bochecha. A tiara de pérolas brilha de leve sob uma luz quente. Ela olha calmamente para a câmera. A câmera avança bem devagar, e o fundo se desfoca em um bokeh suave.
+3–7s: A câmera orbita lentamente ao redor do contorno do rosto dela, revelando a trama da tiara de rede de pérolas e os pingentes de pérolas pendurados dos dois lados. Fios finos de cabelo balançam levemente com a brisa suave, enquanto luz e sombra deslizam pelo seu rosto.
+7–11s: A câmera recua para um plano médio fechado. Ela inclina a cabeça de leve, deixando à mostra a alça fina da camisola azul e a pulseira de jade no pulso. O anel de ouro no dedo reflete a luz, e as linhas do braço parecem suaves.
+11–15s: A câmera volta a avançar lentamente até um close-up do rosto. Os cílios tremulam, o canto da boca se ergue de leve. A imagem escurece aos poucos e congela envolta em um halo quente.
+
+Movimento de câmera: avanço lento + órbita + recuo + novo avanço. Sem cortes durante todo o vídeo.
+Estilo: qualidade cinematográfica, profundidade de campo rasa, granulação de filme, iluminação interna quente, atmosfera onírica, 24fps.
+Áudio: piano solo suave, sons ambientes de páginas virando e murmúrios distantes, sem narração. A última nota desaparece aos poucos.
+Observação: modelo feminina adulta, manter um tom artístico e elegante, sem conteúdo explícito ou sexualizado.
+Proporção de tela: 9:16, 15s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126226176385691648/img/xIxwMFUJxrOhMFyH.jpg" width="600" alt="Curta Cinematográfico Elegante: Mulher com Adorno de Pérolas">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=14194)**
+
+**Autor:** [ArtAi](https://x.com/tongqinai) | **Fonte:** [Link](https://x.com/tongqinai/status/2126284904606666792) | **Publicado:** Nov 27, 2026
+
+---
+### Ônibus se Transforma em Robô Gigante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma descrição de um prompt no estilo Transformers, onde um ônibus comum se transforma em um robô gigante de batalha em uma cidade chuvosa, testado no Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Um ônibus comum se transforma de repente em um robô de batalha gigante no meio de uma cidade chuvosa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126090446795587584/img/lDMVbiO5EyiQlaYD.jpg" width="600" alt="Ônibus se Transforma em Robô Gigante">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=14193)**
+
+**Autor:** [Claire Ai](https://x.com/imClaireAi) | **Fonte:** [Link](https://x.com/imClaireAi/status/2126091360348651607) | **Publicado:** Nov 26, 2026
+
+---
 ### Revelação de Mini Barndominium
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9243,379 +9312,6 @@ Então...
 **Autor:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2117124345281810678) | **Publicado:** Nov 2, 2026
 
 ---
-### Bruxa Voando pela Cidade à Noite
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para criar um vídeo de fantasia cinematográfico ultra-realista de uma bruxa voando em uma vassoura por uma cidade iluminada por neon à noite.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo de fantasia cinematográfico ultrarrealista com uma jovem bruxa misteriosa voando por uma cidade escura em uma vassoura mágica sob uma lua cheia brilhante. Mostre nuvens dramáticas, fumaça mágica azul e uma atmosfera noturna enigmática. A bruxa usa um chapéu pontudo preto, um look escuro cheio de estilo e tem cabelos longos esvoaçantes. Capture o voo dela entre prédios altos e mergulhando pelas ruas movimentadas iluminadas por neon. Adicione movimentos realistas, efeitos mágicos luminosos, movimentos de câmera cinematográficos, iluminação dramática e detalhes visuais impressionantes. Estilo de filme de fantasia de alto padrão, 4K, fotorrealista, animação fluida.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117120887447252992/img/jnp-YCYdCxX9r0VE.jpg" width="600" alt="Bruxa Voando pela Cidade à Noite">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13368)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2117120914139619479) | **Publicado:** Nov 2, 2026
-
----
-### Seedance 2.0 Mini: Prompt para Cena de Rejeição em Romance Xianxia
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt completo para o Seedance 2.0 Mini gerar um drama emocional de 15 segundos ambientado no universo Xianxia da China antiga. Foca na rejeição durante uma cerimônia de casamento, com atuação sutil, interação específica com adereços (tokens de jade) e trabalho cinematográfico de câmera.
-
-#### 📝 Prompt
-
-```
-Seedance 2.0 Mini | "Dez Anos e o Resto da Vida"
-
-Modelo: Seedance 2.0 Mini
-Duração: Exatamente 15 segundos
-Proporção: 16:9 Paisagem
-Gênero: Xianxia chinês antigo puro / Reviravolta emocional / Drama de relacionamento entre personagens maduros
-Estrutura: Três planos cinematográficos contínuos, nítidos e narrativamente distintos
-
-I. Prompt | Estilo Geral e Direção Criativa
-Textura realista de live-action cinematográfico, estética pura de Xianxia chinês antigo.
-Direção geral:
-Reviravolta emocional madura e contida, drama de relacionamento com profundidade psicológica real.
-Adotar:
-Encenação clássica de personagens em alto nível
-Textura fotográfica cinematográfica Arri Alexa
-Textura de pele realista e nítida
-Luz volumétrica natural
-Granulação delicada de película
-Movimento realista da seda
-
-II. Enredo Central e Reviravolta Emocional
-Dois cultivadores praticaram juntos por dez anos, chegando finalmente ao dia em que se tornam oficialmente companheiros de Dao.
-Todos acreditam que este é o desfecho de um relacionamento perfeito.
-Mas a Irmã Mais Nova recusa-se subitamente a selar o vínculo durante a cerimônia.
-Primeira Camada de Suspense
-O público inicialmente espera:
-Traição
-Segredos
-Alguém cometendo um erro imperdoável
-A Verdadeira Reviravolta
-Nenhum dos dois se tornou uma pessoa ruim, nem deixaram de valorizar o passado; eles simplesmente não conseguem caminhar na direção do mesmo futuro.
-Dez anos de sinceridade continuam sendo sinceros.
-Mas o resto da vida não deve se tornar o preço pago pelo passado.
-Princípios Emocionais e Narrativos
-A história deve se concluir naturalmente por meio de:
-Ações dos personagens
-Expressões sutis
-Pausas
-Diálogos
-Evitar Estritamente
-Longas explicações
-Sentimentalismo repentino
-Vilania forçada
-Desfechos moralistas
-
-III. Identidade dos Personagens e Fixação de Elementos Visuais
-Personagem A | @Image1 | Irmã Mais Velha Imortal da Espada
-Sempre a mesma Irmã Mais Velha Imortal da Espada:
-Mulher leste-asiática de 25 a 30 anos
-Rosto oval e suave
-Olhos amendoados e brilhantes
-Cabelos longos e negros semipresos
-Presos com um grampo de jade branco
-Alta e esbelta
-Mesmo Hanfu de seda branca bordado
-Mangas largas em camadas semitransparentes
-Faixa prateada na cintura
-Pingente de jade
-Botas de tecido branco
-Carregando a única espada longa prateada
-Função do Personagem Neste Segmento
-A Irmã Mais Velha de vestes brancas expressa os relacionamentos principalmente por meio de:
-Observação
-Contato visual
-Reações contidas
-Restrições Fundamentais
-Não tomar decisões pela Irmã Mais Nova
-Não roubar o espaço dramático principal
-Personagem B | @Image2 | Irmã Mais Nova
-Sempre a mesma Irmã Mais Nova:
-Mulher leste-asiática de 20 a 25 anos
-Rosto redondo e expressivo
-Cabelos negros trançados
-Mesmo Hanfu antigo verde
-Cinto escuro
-Grampo de cabelo de madeira
-Sapatos de tecido preto
-Carregando a única espada de aço escuro
-Posicionamento do Personagem Neste Segmento
-A Irmã Mais Nova é a protagonista emocional deste enredo.
-Novo Personagem de Apoio | Cultivador Masculino
-Homem adulto
-Vestindo túnica antiga azul-escura
-Aparência comum
-Temperamento sereno
-Praticou com a Irmã Mais Nova por dez anos
-Companheiro de Dao predestinado da Irmã Mais Nova
-Requisitos de Continuidade do Personagem
-O cultivador masculino deve manter:
-Identidade independente
-Vestuário estável
-Atuação realista do personagem
-Não pode ser confundido com os protagonistas.
-Outros Personagens de Apoio
-Mestre Ancião
-Preside a cerimônia de união.
-Discípulos da Seita
-Um pequeno grupo de discípulos como testemunhas distantes.
-
-IV. DNA do Cenário e do Ambiente
-Todas as imagens de referência de cenário e locação enviadas determinam o mundo físico real.
-Planejamento do Ambiente Antes da Composição Oficial
-Conclua silenciosamente uma rodada de planejamento ambiental primeiro.
-Analise de forma abrangente nas imagens de referência:
-Terreno
-Layout arquitetônico
-Escala espacial
-Idade dos materiais
-Ecologia da vegetação
-Corpos d'água
-Nuvens e névoa
-Clima
-Direção da luz principal
-Relações de cores
-Superfícies reflexivas
-Profundidade atmosférica
-Sob a premissa de manter a consistência em:
-Identidade da locação
-Relações espaciais
-Lógica física
-Encontre áreas abertas naturais adequadas e reorganize-as em um local de cerimônia com:
-Escala cinematográfica
-Profundidade espacial
-Composição singular
-
-V. Cena da Cerimônia e Objetos Centrais
-O local da cerimônia precisa apenas de:
-Uma mesa de pedra antiga
-Dois pingentes de jade do contrato de casamento unidos por uma corda vermelha
-Pingentes de Jade do Contrato de Casamento
-Dois pingentes de jade
-Uma corda de seda vermelha conectando os dois pingentes
-Manter o material de jade real
-Manter a estrutura física real da corda vermelha
-Outros Objetos Importantes
-Selo antigo do líder da seita simbolizando autoridade
-Pequena bagagem já arrumada pela Irmã Mais Nova
-
-VI. Fundo Vivo e Neutralidade Narrativa
-O fundo sempre vibrante.
-Movimento Natural
-Vento soprando naturalmente as mangas e a vegetação
-Nuvens movendo-se lentamente
-Névoa da montanha fluindo conforme o terreno
-Corpos d'água mantendo o movimento onde presentes nas imagens de referência
-Edifícios distantes mantendo a perspectiva correta
-Reflexos mudando naturalmente conforme o ângulo da câmera
-A velocidade e a amplitude do movimento ambiental devem variar conforme a profundidade de campo.
-Princípios de Narrativa Ambiental
-Todo o movimento do fundo existe independentemente do enredo.
-O ambiente nunca deve:
-Criar conflitos
-Provocar reviravoltas
-Tomar decisões no lugar dos personagens
-
-VII. Estrutura Completa do Storyboard de 15 Segundos
-0–5s | Primeiro Plano: Plano Aberto | A Recusa Pública
-Design do Plano
-A câmera faz uma panorâmica lenta pelo antigo local da cerimônia.
-Estabeleça relações espaciais claras através destas camadas:
-Mesa de pedra em primeiro plano
-Personagens no plano médio
-Arquitetura grandiosa, montanhas ou outros marcos centrais das imagens de referência ao fundo
-Posições Iniciais dos Personagens
-Mestre Ancião
-De pé atrás da mesa cerimonial de pedra.
-Cultivador Masculino
-Vestindo túnica azul-escura, de pé ao lado da mesa de pedra.
-Segurando um dos pingentes de jade do contrato de casamento na mão.
-Irmã Mais Nova de vestido verde
-De pé do outro lado da mesa de pedra.
-Irmã Mais Velha Imortal da Espada de vestido branco
-De pé alguns passos atrás, na diagonal da Irmã Mais Nova, observando silenciosamente.
-Estado do Objeto Central
-Uma corda de seda vermelha conecta os dois pingentes de jade.
-Início da Cerimônia
-O Mestre anuncia solenemente:
-[Mestre] "Contrato de casamento de dez anos, hoje o cumpriremos."
-A Irmã Mais Nova olha para baixo, para a corda de seda vermelha.
-Ela não estende a mão para pegar seu pingente de jade.
-Em vez disso, ergue lentamente a cabeça para olhar o homem à sua frente.
-Primeira Camada da Reviravolta
-[Irmã Mais Nova] "Eu não vou fazer isso."
-A cerimônia, antes solene, cai subitamente em silêncio.
-Reação do Cultivador Masculino
-A câmera captura o choque genuíno do cultivador masculino naquele instante.
-Requisitos de Atuação e Ritmo
-Sem gritos exagerados
-Sem multidão cercando-os de repente
-Crie suspense através das pausas dos personagens e do silêncio espacial.
-5–10s | Segundo Plano: Plano Médio Fechado | A Verdadeira Divergência
-Requisitos de Continuidade
-Mantenha exatamente idênticos:
-Cenário
-Personagens
-Vestuário
-Posições dos pingentes de jade
-Design de Câmera
-A câmera muda para um plano médio duplo dos envolvidos em perfil de três quartos.
-Reação do Cultivador Masculino
-O cultivador masculino não fica com raiva.
-Tampouco questiona de repente se ela mudou de ideia.
-Ele olha seriamente para a Irmã Mais Nova, como se vagamente já soubesse a resposta.
-Pergunta suavemente:
-[Cultivador Masculino] "Você ainda vai descer a montanha?"
-Resposta da Irmã Mais Nova
-A Irmã Mais Nova olha para ele, igualmente calma:
-[Irmã Mais Nova] "E você ainda vai guardar a montanha?"
-Emoção e Olhar
-A câmera usa olhares sutis para revelar as escolhas divergentes que ambos carregam há muito tempo.
-Contraste Visual dos Objetos
-Ao Lado do Cultivador Masculino
-Repousa o selo antigo do líder da seita simbolizando autoridade.
-Aos Pés da Irmã Mais Nova
-Está a pequena bagagem já arrumada.
-Relação Visual
-Esses dois objetos formam um contraste visual claro:
-Uma pessoa decidiu ficar.
-A outra está pronta para viajar longe.
-Nenhum dos dois está errado.
-Eles apenas não podem mais caminhar para o mesmo lugar.
-Estado da Irmã Mais Velha e do Ambiente
-A Irmã Mais Velha de vestido branco nunca intervém.
-O fundo continua com o movimento natural e independente de:
-Vento
-Água
-Nuvens e névoa
-Vegetação
-Tecidos
-Reflexos
-10–15s | Terceiro Plano: Close-up | Dez Anos e o Resto da Vida
-Última Pergunta do Mestre
-O Mestre faz a última pergunta ao lado da mesa de pedra:
-[Mestre] "E quanto a esses dez anos?"
-Close-up da Irmã Mais Nova
-A câmera muda para um close-up da Irmã Mais Nova.
-Ela não responde imediatamente.
-Um leve brilho úmido nos olhos, mas sem lágrimas.
-Voz firme, carregando uma relutância verdadeira.
-[Irmã Mais Nova] "Vou guardá-los com carinho."
-Pausa Emocional
-Pausa completa de meio tempo.
-Então profere a frase final:
-[Irmã Mais Nova] "Não posso pagar o passado com o resto da minha vida."
-Verdadeiro Clímax Emocional: Desatando a Corda Vermelha
-A câmera muda rápida e naturalmente para as mãos do cultivador masculino.
-Ele olha para baixo, para a corda de seda vermelha que conecta os dois pingentes de jade.
-Após uma breve hesitação, ele não rasga a corda com raiva.
-Em vez disso, desata o nó lentamente com os dedos.
-Requisito Rígido de Ação
-Esta ação deve ser real, clara e completa.
-Separação dos Pingentes de Jade
-O cultivador masculino coloca gentilmente o pingente de jade da Irmã Mais Nova de volta sobre a mesa.
-Fica com o outro para si.
-Ambos os pingentes de jade permanecem intactos.
-Apenas não estão mais conectados.
-Reações Finais dos Personagens
-A Irmã Mais Nova olha para ele.
-O homem ergue os olhos, fazendo um aceno de cabeça muito sutil.
-Este aceno expressa:
-Compreensão
-Arrependimento
-Composição Cinematográfica Final
-A imagem final repousa sobre os dois pingentes de jade na mesa:
-Intactos, mas já separados.
-Ao fundo, em profundidade de campo rasa:
-Duas pessoas mantendo uma distância adequada
-A Irmã Mais Velha de pé atrás da Irmã Mais Nova
-Os olhos da Irmã Mais Velha calmos e compreensivos
-Restrições do Desfecho
-Sem:
-Abraços
-Reconciliação repentina
-Vilões
-Veredito de vitória/derrota
-Conclusão Emocional Final
-Dez anos não foram desperdiçados, apenas não há mais necessidade de seguirem juntos.
-
-VIII. Requisitos de Execução do Seedance 2.0 Mini
-Especificações Básicas
-Modelo: Seedance 2.0 Mini
-Duração total estrita: 15 segundos
-Proporção: 16:9 paisagem
-Três planos cinematográficos contínuos, nítidos e narrativamente distintos
-Três funções narrativas
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117112122387918848/img/FNMfOO9Jg3bQP4IZ.jpg" width="600" alt="Seedance 2.0 Mini: Prompt para Cena de Rejeição em Romance Xianxia">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13374)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2117112170395914599) | **Publicado:** Nov 2, 2026
-
----
-### Seedance 2.0 Fast: Chuva na Dinastia Qing
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um vídeo comparativo incluindo o Seedance 2.0 Fast. O prompt é para uma geração i2v (imagem para vídeo) de uma cena noturna de chuva no palácio da Dinastia Qing, com elementos ASMR.
-
-#### 📝 Prompt
-
-```
-Chuva noturna no palácio da Dinastia Qing × Chuva batendo nas folhas e flores de lótus × Peixes koi e coaxar de sapos × Relâmpagos e trovões distantes × Cantor de ópera do Jardim das Pereiras ensaiando a melodia × ASMR imersivo
-
-8 segundos, formato vertical 9:16, visuais cinematográficos realistas.
-
-Noite de verão, chuva fina caindo sobre o corredor à beira d'água de um palácio da Dinastia Qing. Grandes folhas de lótus crescendo no lago ao lado do corredor, uma flor de lótus rosa-claro entreaberta perto das folhas, com as pétalas molhadas pela chuva. Uma lanterna amarela e quente do palácio pendurada sob o beiral, com a luz refletindo na calha rasa de pedra e na água do lago.
-
-A folha de lótus mais próxima está levemente inclinada, com água da chuva acumulada na superfície. Um sapinho agachado em uma pedra na borda do lago, peixes koi ocasionalmente visíveis de forma tênue na água rasa, com a silhueta parcialmente encoberta pelas gotas de chuva e pelas sombras da lanterna.
-
-Os pilares e corredores de madeira escura ao longe se perdem na noite chuvosa. No fim do corredor, o Jardim das Pereiras mal iluminado, com uma figura humana desfocada projetada no papel da janela, movendo-se lentamente de vez em quando. Os tons frios e azulados da noite se misturam naturalmente com a luz quente da lanterna do palácio.
-
-Câmera próxima às folhas de lótus e à superfície da água, avançando de forma extremamente lenta a partir de um ângulo baixo. As folhas de lótus, as flores e a água pingando do beiral ficam claramente visíveis; parte da lanterna do palácio aparece na borda superior do quadro, enquanto as sombras da janela distante do Jardim das Pereiras permanecem nebulosas. Camadas bem definidas na composição, preservando espaços escuros e silenciosos.
-
-0-2s: A chuva fina cai continuamente sobre as folhas de lótus, produzindo um farfalhar suave e denso. As folhas de lótus tremem levemente, e as gotas de chuva se acumulam nas superfícies. A água do beiral pinga de forma intermitente na calha de pedra, emitindo sons nítidos de gotejamento. Um sapinho coaxa uma ou duas vezes na borda do lago.
-
-2-4s: O som de um cantor de ópera ensaiando a melodia vem do distante Jardim das Pereiras; uma voz suave, melodiosa e sem palavras atravessa a cortina de chuva. A figura desfocada no papel da janela ergue lentamente a manga. Um peixe koi nada devagar sob a folha de lótus, com a silhueta parcialmente encoberta pelas ondulações da água e pelo reflexo da lanterna do palácio.
-
-4-6s: Um breve clarão no céu distante, um flash branco e frio ilumina as folhas de lótus, as flores e os fios de chuva, antes de voltar aos tons quentes e escuros da noite. Uma pausa curta, seguida por um trovão grave e prolongado vindo de longe, deixando a voz do canto temporariamente mais suave.
-
-6-8s: O trovão vai desaparecendo aos poucos. A água da chuva acumulada na folha de lótus inclinada escorre pela borda até o lago, produzindo um som contínuo e suave de água, com ondulações que atravessam o reflexo da lanterna do palácio. A voz distante do canto continua vagamente audível, e o sapo coaxa novamente na borda do lago. O som da chuva segue até o final.
-
-[Design de Som]
-
-Foco principal no farfalhar denso da chuva batendo nas folhas de lótus próximas e no gotejar intermitente da água do beiral caindo na calha de pedra, durante todo o clipe. O som da água escorrendo da folha de lótus para o lago é nítido e suave.
-
-O coaxar do sapo vem da borda do lago; o canto da ópera, do distante Jardim das Pereiras; o trovão, do céu ainda mais afastado. Os sons se alternam naturalmente, com distinção clara de proximidade e distância, mantendo a sensação espacial de uma noite chuvosa real.
-
-O clarão aparece primeiro, o trovão vem logo depois. Gotas de chuva, o tremor das folhas, o fluxo da água e as ondulações são sincronizados com os sons. Trovão grave e suave, ideal para uma escuta tranquila.
-
-O canto da ópera é suave e ecoa ao longe, apresentado como um murmúrio sem palavras. Sem acompanhamento instrumental, sem música de fundo, sem diálogos.
-
-Os movimentos das folhas de lótus, das flores, dos sapos, dos peixes koi e das figuras distantes são lentos e naturais. O peixe koi permanece debaixo d'água, as sombras na janela são borradas e nebulosas, e a água da chuva, os reflexos e as luzes são realistas e convincentes.
-
-Assinatura fixa no canto inferior esquerdo: primeiro um ponto sólido azul-escuro, seguido por "DeepBlue" escrito à mão em branco. Assinatura pequena e nítida, com posição e estilo estáveis durante todo o vídeo, sem cobrir o elemento principal, 9:16
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116920195797090304/img/Jkq7FrCBlu0TsKjW.jpg" width="600" alt="Seedance 2.0 Fast: Chuva na Dinastia Qing">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=13372)**
-
-**Autor:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Fonte:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **Publicado:** Nov 1, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -9677,6 +9373,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-28T00:14:54.997Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-11-28T06:46:23.825Z</sub>
 
 </div>

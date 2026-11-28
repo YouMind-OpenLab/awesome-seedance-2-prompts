@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6729** |
+| 📝 Totale prompt | **6732** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-11-28** |
 
@@ -361,6 +361,75 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Scena di un Piccolo Samurai Coniglio Guerriero
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video in stile dark fantasy cinematografico che ritrae un piccolo guerriero coniglio bianco antropomorfo, vestito con armatura da samurai, in piedi solitario su un campo di battaglia devastato.
+
+#### 📝 Prompt
+
+```
+Una scena dark fantasy dal taglio cinematografico con un piccolo guerriero, un coniglio bianco antropomorfo, in piedi da solo al centro di un campo di battaglia devastato. Il coniglio indossa un'armatura tradizionale ispirata ai samurai e un completo da guerriero blu scuro, impugnando una katana. Scudi infranti, armi abbandonate, detriti in fiamme e fumo denso ricoprono il terreno di scontro. Montagne oscure si stagliano lungo l'orizzonte sotto un cielo tempestoso e drammatico. Il minuscolo guerriero resta immobile e impavido, stringendo la spada con determinazione nonostante l'immensità del campo di battaglia che lo circonda. La camera avanza lentamente, rivelando i dettagli della sua armatura, gli occhi espressivi e la lama che riflette la luce del fuoco. Inquadrature ampie in stile cinematografico, atmosfera drammatica, fumo e fuoco realistici, animazione 3D dettagliata del personaggio, estetica da film dark fantasy, CGI ultra-realistica, qualità 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126312871370080256/img/BwsJuRV41QCzOXoT.jpg" width="600" alt="Scena di un Piccolo Samurai Coniglio Guerriero">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=14192)**
+
+**Autore:** [Draaven](https://x.com/draavenai) | **Fonte:** [Link](https://x.com/draavenai/status/2126313066413642091) | **Pubblicato:** Nov 27, 2026
+
+---
+### Corto Cinematografico Elegante con Diadema di Perle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt video cinematografico dettagliato di 15 secondi che mostra una donna con un diadema di perle e un top azzurro, sfruttando le capacità da immagine a video con specifiche istruzioni su movimenti di camera e illuminazione.
+
+#### 📝 Prompt
+
+```
+@Image 1 come primo fotogramma e riferimento per il personaggio. Mantenere rigorosamente il caschetto nero corto con frangia dritta, l'acconciatura a rete di perle, la canotta blu, il trucco labbra rosso, le lentiggini e l'ambientazione in interni.
+Cortometraggio cinematografico artistico di 15 secondi, un'unica ripresa continua.
+
+0–3s: Primo piano del suo viso. Le dita sfiorano delicatamente la guancia. L'acconciatura di perle emana un bagliore soffuso sotto una luce calda. Guarda con calma verso la camera. La camera avanza molto lentamente, mentre lo sfondo si sfoca in un morbido bokeh.
+3–7s: La camera orbita lentamente lungo il contorno del viso, mostrando la trama intrecciata dell'acconciatura a rete di perle e le nappe di perle pendenti su entrambi i lati. Sottili ciocche di capelli ondeggiano leggermente nella brezza leggera, mentre luci e ombre scorrono sul suo volto.
+7–11s: La camera arretra fino a un mezzo primo piano. Inclina leggermente la testa, rivelando la sottile spallina della canotta blu e il bracciale di giada al polso. L'anello d'oro al dito scintilla alla luce, le linee del braccio appaiono morbide.
+11–15s: La camera torna lentamente ad avvicinarsi in un primo piano del viso. Le ciglia fremono, l'angolo della bocca si solleva appena. L'inquadratura sfuma e si congela, avvolta in un caldo alone luminoso.
+
+Movimento di camera: lenta carrellata in avanti + orbita + carrellata indietro + nuova carrellata in avanti. Nessuno stacco di montaggio dall'inizio alla fine.
+Stile: qualità cinematografica, profondità di campo ridotta, grana pellicola, illuminazione calda da interni, atmosfera onirica, 24fps.
+Audio: delicato pianoforte solista, suoni ambientali di pagine sfogliate e mormorii in lontananza, nessuna voce narrante. L'ultima nota svanisce gradualmente.
+Nota: soggetto femminile adulto, mantenere un tono artistico ed elegante, nessun contenuto esplicito o sessualizzato.
+Rapporto d'aspetto: 9:16, 15s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126226176385691648/img/xIxwMFUJxrOhMFyH.jpg" width="600" alt="Corto Cinematografico Elegante con Diadema di Perle">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=14194)**
+
+**Autore:** [ArtAi](https://x.com/tongqinai) | **Fonte:** [Link](https://x.com/tongqinai/status/2126284904606666792) | **Pubblicato:** Nov 27, 2026
+
+---
+### Un Autobus si Trasforma in un Gigantesco Robot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Descrizione di un prompt in stile Transformers in cui un normale autobus si trasforma in un gigantesco robot da combattimento in una città sotto la pioggia, testato su Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Un normale autobus si trasforma all'improvviso in un gigantesco robot da combattimento nel cuore di una città sotto la pioggia.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126090446795587584/img/lDMVbiO5EyiQlaYD.jpg" width="600" alt="Un Autobus si Trasforma in un Gigantesco Robot">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=14193)**
+
+**Autore:** [Claire Ai](https://x.com/imClaireAi) | **Fonte:** [Link](https://x.com/imClaireAi/status/2126091360348651607) | **Pubblicato:** Nov 26, 2026
+
+---
 ### Reveal di una Barndominium Americana in Miniatura
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9172,371 +9241,6 @@ Poi...
 **Autore:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2117124345281810678) | **Pubblicato:** Nov 2, 2026
 
 ---
-### Strega in volo sopra una città di notte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per creare un video fantasy cinematografico ultra-realistico di una strega che vola su una scopa attraverso una città illuminata al neon di notte.
-
-#### 📝 Prompt
-
-```
-Crea un video fantasy cinematografico ultra realistico con una misteriosa giovane strega che vola su una scopa magica attraverso una città buia, sotto il bagliore di una luna piena. Mostra nuvole drammatiche, fumo magico blu e un'atmosfera notturna avvolta nel mistero. La strega indossa un cappello a punta nero e un elegante outfit scuro, con lunghi capelli mossi dal vento. Riprendila mentre sfreccia tra alti edifici e si tuffa in picchiata lungo strade affollate illuminate dai neon. Aggiungi movimenti realistici, effetti magici luminosi, riprese cinematografiche, luci drammatiche e dettagli visivi mozzafiato. Stile da film fantasy di altissimo livello, 4K, fotorealistico, animazione fluida.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117120887447252992/img/jnp-YCYdCxX9r0VE.jpg" width="600" alt="Strega in volo sopra una città di notte">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13368)**
-
-**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2117120914139619479) | **Pubblicato:** Nov 2, 2026
-
----
-### Seedance 2.0 Mini: Prompt per Scena di Rifiuto Romantico Xianxia
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt completo per Seedance 2.0 Mini che genera un drama emotivo di 15 secondi ambientato in un contesto Xianxia dell'antica Cina. Si concentra sul rifiuto durante una cerimonia nuziale, con recitazione sottile, interazioni specifiche con gli oggetti di scena (talismani di giada) e riprese cinematografiche.
-
-#### 📝 Prompt
-
-```
-Seedance 2.0 Mini | "Dieci anni e il resto della vita"
-
-Modello: Seedance 2.0 Mini
-Durata: Rigorosamente 15 secondi
-Rapporto d'aspetto: 16:9 Orizzontale
-Genere: Puro Xianxia cinese antico / Colpo di scena emotivo / Dramma relazionale tra personaggi maturi
-Struttura: Tre inquadrature cinematografiche continue, nitide e narrativamente distinte
-I. Prompt | Stile generale e direzione creativa
-Texture realistica da live-action cinematografico, estetica pura dello Xianxia cinese antico.
-Direzione generale:
-Colpo di scena emotivo maturo e trattenuto, dramma relazionale con reale profondità psicologica.
-Adottare:
-Messa in scena classica dei personaggi di alto livello
-Texture fotografica cinematografica Arri Alexa
-Texture della pelle realistica e definita
-Luce volumetrica naturale
-Grana della pellicola delicata
-Movimento realistico della seta
-II. Trama centrale e colpo di scena emotivo
-Due coltivatori hanno praticato insieme per dieci anni, raggiungendo finalmente il giorno in cui diventano ufficialmente compagni del Dao.
-Tutti credono che questo sia il traguardo di una relazione perfetta.
-Ma la Sorella Minore si rifiuta improvvisamente di suggellare il legame durante la cerimonia.
-Primo livello di suspense
-Il pubblico inizialmente si aspetta:
-Tradimento
-Segreti
-Qualcuno che ha commesso un errore imperdonabile
-Vero colpo di scena
-Nessuno dei due è diventato cattivo, né ha smesso di dare valore al passato; semplicemente, non riescono più a camminare verso lo stesso futuro.
-Dieci anni di sincerità restano sincerità.
-Ma il resto della vita non dovrebbe diventare il prezzo da pagare per il passato.
-Principi emotivi e narrativi
-La storia deve compiersi in modo naturale attraverso:
-Azioni dei personaggi
-Espressioni sottili
-Pause
-Dialoghi
-Evitare rigorosamente
-Spiegazioni lunghe
-Sentimentalismo improvviso
-Villainizzazione forzata
-Finali moralistici
-III. Identità dei personaggi e blocco degli asset
-Ruolo A | @Image1 | Sorella Maggiore Immortale della Spada
-Sempre la stessa Sorella Maggiore Immortale della Spada:
-Donna dell'Asia orientale di 25-30 anni
-Viso ovale e delicato
-Luminosi occhi a mandorla
-Lunghi capelli neri semi-raccolti
-Fissati con una forcina di giada bianca
-Alta e slanciata
-Stesso Hanfu di seta bianco ricamato
-Ampie maniche stratificate semitrasparenti
-Fascia argentata in vita
-Ciondolo di giada
-Stivali di stoffa bianca
-Impugna l'unica spada lunga d'argento
-Funzione del ruolo in questo segmento
-La Sorella Maggiore vestita di bianco esprime le relazioni principalmente attraverso:
-Osservazione
-Contatto visivo
-Reazioni trattenute
-Restrizioni chiave
-Non prendere decisioni al posto della Sorella Minore
-Non rubare lo spazio drammatico principale
-Ruolo B | @Image2 | Sorella Minore
-Sempre la stessa Sorella Minore:
-Donna dell'Asia orientale di 20-25 anni
-Viso rotondo e vivace
-Capelli neri intrecciati
-Stesso Hanfu antico verde
-Cintura scura
-Forcina di legno
-Scarpe di stoffa nera
-Impugna l'unica spada di acciaio scuro
-Posizionamento del ruolo in questo segmento
-La Sorella Minore è la protagonista emotiva di questa trama.
-Nuovo personaggio secondario | Coltivatore maschio
-Uomo adulto
-Indossa un'antica veste blu scuro
-Aspetto ordinario
-Temperamento equilibrato
-Ha praticato con la Sorella Minore per dieci anni
-Predestinato compagno del Dao della Sorella Minore
-Requisiti di continuità del personaggio
-Il coltivatore maschio deve mantenere:
-Identità indipendente
-Abbigliamento stabile
-Recitazione realistica del personaggio
-Non deve essere confuso con i protagonisti.
-Altri personaggi secondari
-Maestro Anziano
-Presiede la cerimonia del legame.
-Discepoli della Setta
-Un piccolo gruppo di discepoli come testimoni in lontananza.
-IV. DNA di sfondi e ambienti
-Tutte le immagini di riferimento caricate per sfondi e location determinano il mondo fisico reale.
-Pianificazione ambientale prima della composizione formale
-Completare silenziosamente un primo giro di pianificazione ambientale.
-Analizzare in modo completo nelle immagini di riferimento:
-Terreno
-Disposizione architettonica
-Scala spaziale
-Età dei materiali
-Ecologia vegetale
-Specchi d'acqua
-Nuvole e nebbia
-Condizioni meteo
-Direzione della luce principale
-Relazioni cromatiche
-Superfici riflettenti
-Profondità atmosferica
-Purché si mantenga la coerenza di:
-Identità della location
-Relazioni spaziali
-Logica fisica
-Trovare aree aperte naturali adatte, riorganizzandole in uno spazio cerimoniale con:
-Scala cinematografica
-Profondità spaziale
-Composizione unica
-V. Scena della cerimonia e oggetti di scena centrali
-Il luogo della cerimonia richiede solo:
-Un antico tavolo di pietra
-Due pegni di giada del contratto matrimoniale uniti da una corda rossa
-Pegni di giada del contratto matrimoniale
-Due ciondoli di giada
-Una corda di seta rossa che collega i due ciondoli
-Mantenere la texture reale della giada
-Mantenere la struttura fisica reale della corda rossa
-Altri oggetti di scena chiave
-Antico sigillo del capo della setta che simboleggia l'autorità
-Piccolo bagaglio già preparato dalla Sorella Minore
-VI. Sfondo vivo e neutralità narrativa
-Lo sfondo è sempre vibrante.
-Movimento naturale
-Il vento muove naturalmente maniche e vegetazione
-Le nuvole si spostano lentamente
-La nebbia montana scorre seguendo il terreno
-Gli specchi d'acqua mantengono il loro movimento dove presenti nelle immagini di riferimento
-Gli edifici lontani mantengono la prospettiva corretta
-I riflessi cambiano naturalmente con l'angolazione della camera
-Velocità e ampiezza dei movimenti ambientali devono variare in base alla profondità di campo.
-Principi di narrazione ambientale
-Tutti i movimenti dello sfondo esistono indipendentemente dalla trama.
-L'ambiente non deve mai:
-Creare conflitti
-Innescare colpi di scena
-Compiere scelte al posto dei personaggi
-VII. Struttura completa dello storyboard di 15 secondi
-0–5s | Prima inquadratura: Campo lungo | Rifiuto pubblico
-Design dell'inquadratura
-La camera esegue una lenta panoramica sul luogo dell'antica cerimonia.
-Stabilire relazioni spaziali chiare attraverso questi livelli:
-Tavolo di pietra in primo piano
-Personaggi nel piano intermedio
-Imponente architettura lontana, montagne o altri punti di riferimento centrali tratti dalle immagini di riferimento
-Posizioni iniziali dei personaggi
-Maestro Anziano
-In piedi dietro il tavolo cerimoniale di pietra.
-Coltivatore maschio
-Indossa una veste blu scuro, in piedi su un lato del tavolo di pietra.
-Tiene in mano uno dei pegni di giada del contratto matrimoniale.
-Sorella Minore in veste verde
-In piedi sull'altro lato del tavolo di pietra.
-Sorella Maggiore Immortale della Spada in veste bianca
-In piedi alcuni passi dietro la Sorella Minore, in diagonale, osserva in silenzio.
-Stato dell'oggetto di scena centrale
-Una corda di seta rossa collega i due ciondoli di giada.
-Inizio della cerimonia
-Il Maestro annuncia solennemente:
-[Maestro] "Contratto matrimoniale decennale, oggi lo suggelliamo."
-La Sorella Minore abbassa lo sguardo sulla corda di seta rossa.
-Non allunga la mano per prendere il suo ciondolo di giada.
-Invece, alza lentamente la testa per guardare l'uomo davanti a lei.
-Primo livello del colpo di scena
-[Sorella Minore] "Non lo farò."
-La cerimonia, fino a quel momento solenne, piomba improvvisamente nel silenzio.
-Reazione del coltivatore maschio
-La camera cattura il genuino stupore del coltivatore maschio in quell'istante.
-Requisiti di recitazione e ritmo
-Nessun urlo esagerato
-Nessuna folla che li circonda improvvisamente
-Creare suspense attraverso le pause dei personaggi e il silenzio spaziale.
-5–10s | Seconda inquadratura: Mezzo primo piano | Vera divergenza
-Requisiti di continuità
-Mantenere esattamente identici:
-Scena
-Personaggi
-Abbigliamento
-Posizione dei ciondoli di giada
-Design della camera
-La camera passa a un mezzo primo piano a due dei soggetti ripresi a tre quarti.
-Reazione del coltivatore maschio
-Il coltivatore maschio non si arrabbia.
-Né si chiede improvvisamente se lei abbia cambiato idea.
-Guarda seriamente la Sorella Minore, come se intuisse vagamente la risposta.
-Chiede dolcemente:
-[Coltivatore maschio] "Scenderai comunque dalla montagna?"
-Risposta della Sorella Minore
-La Sorella Minore lo guarda, altrettanto calma:
-[Sorella Minore] "E tu continuerai a custodirla?"
-Emozione e sguardo
-La camera usa sguardi sottili per rivelare le loro scelte diverse, maturate nel tempo.
-Contrasto visivo degli oggetti di scena
-Accanto al coltivatore maschio
-Giace l'antico sigillo del capo della setta che simboleggia l'autorità.
-Ai piedi della Sorella Minore
-Si trova il piccolo bagaglio già preparato.
-Relazione visiva
-Questi due oggetti creano un chiaro contrasto visivo:
-Una persona ha deciso di restare.
-L'altra è pronta a viaggiare lontano.
-Nessuno dei due sbaglia.
-Semplicemente non possono più camminare verso la stessa meta.
-Stato della Sorella Maggiore e dell'ambiente
-La Sorella Maggiore in veste bianca non interviene mai.
-Lo sfondo continua il suo movimento naturale e indipendente di:
-Vento
-Acqua
-Nuvole e nebbia
-Vegetazione
-Tessuti
-Riflessi
-10–15s | Terza inquadratura: Primo piano | Dieci anni e il resto della vita
-Ultima domanda del Maestro
-Il Maestro pone l'ultima domanda dal lato del tavolo di pietra:
-[Maestro] "E quei dieci anni?"
-Primo piano della Sorella Minore
-La camera passa a un primo piano della Sorella Minore.
-Non risponde immediatamente.
-Occhi appena lucidi, ma senza lacrime.
-Voce ferma, che porta con sé una vera riluttanza.
-[Sorella Minore] "Li custodirò nel cuore."
-Pausa emotiva
-Pausa piena di mezzo battito.
-Poi pronuncia la battuta finale:
-[Sorella Minore] "Non posso ripagare il passato con il resto della mia vita."
-Vero climax emotivo: sciogliere la corda rossa
-La camera si sposta rapidamente e naturalmente sulle mani del coltivatore maschio.
-Lui abbassa lo sguardo sulla corda di seta rossa che collega i due ciondoli di giada.
-Dopo una breve esitazione, non strappa la corda con rabbia.
-Invece, scioglie lentamente il nodo con le dita.
-Requisito vincolante per l'azione
-Questa azione deve essere reale, chiara e completa.
-Separazione dei ciondoli di giada
-Il coltivatore maschio appoggia delicatamente il ciondolo della Sorella Minore sul tavolo.
-Tiene l'altro per sé.
-Entrambi i ciondoli di giada sono intatti.
-Semplicemente non sono più collegati.
-Reazioni finali dei personaggi
-La Sorella Minore lo guarda.
-L'uomo alza gli occhi, facendole un cenno del capo quasi impercettibile.
-Questo cenno esprime:
-Comprensione
-Rimpianto
-Composizione cinematografica finale
-L'immagine finale si sofferma sui due ciondoli di giada sul tavolo:
-Intatti, ma ormai separati.
-Dietro, con una ridotta profondità di campo:
-Due persone che mantengono la giusta distanza
-La Sorella Maggiore in piedi dietro la Sorella Minore
-Gli occhi della Sorella Maggiore calmi e comprensivi
-Restrizioni per il finale
-Niente:
-Abbracci
-Riconciliazioni improvvise
-Cattivi
-Verdetti di vittoria/sconfitta
-Approdo emotivo finale
-Dieci anni non sono stati sprecati, semplicemente non c'è più bisogno di viaggiare insieme.
-VIII. Requisiti di esecuzione per Seedance 2.0 Mini
-Specifiche di base
-Modello: Seedance 2.0 Mini
-Durata totale rigorosa: 15 secondi
-Rapporto d'aspetto: 16:9 orizzontale
-Tre inquadrature cinematografiche continue, nitide e narrativamente distinte
-Tre funzioni narrative
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117112122387918848/img/FNMfOO9Jg3bQP4IZ.jpg" width="600" alt="Seedance 2.0 Mini: Prompt per Scena di Rifiuto Romantico Xianxia">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13374)**
-
-**Autore:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2117112170395914599) | **Pubblicato:** Nov 2, 2026
-
----
-### Seedance 2.0 Fast: Pioggia nella Dinastia Qing
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un video comparativo che include Seedance 2.0 Fast. Il prompt è per la generazione i2v (da immagine a video) di una scena notturna con pioggia nel palazzo della dinastia Qing, con elementi ASMR.
-
-#### 📝 Prompt
-
-```
-Pioggia notturna nel palazzo della Dinastia Qing × Pioggia che batte su foglie e fiori di loto × Pesci koi e gracidare di rane × Fulmini e tuoni in lontananza × Cantante d'opera del Giardino dei Peri che prova un'aria × ASMR immersivo
-
-8 secondi, formato verticale 9:16, immagini cinematografiche realistiche.
-
-Notte d'estate, una pioggia sottile cade sul corridoio affacciato sull'acqua di un palazzo della Dinastia Qing. Grandi foglie di loto crescono nello stagno accanto al corridoio; vicino alle foglie spunta un fiore di loto rosa pallido semiaperto, con i petali bagnati dalla pioggia. Una lanterna di palazzo giallo caldo è appesa sotto la gronda, la sua luce si riflette nella bassa vasca di pietra e nell'acqua dello stagno.
-
-Una foglia di loto vicina è leggermente inclinata, con l'acqua piovana raccolta sulla superficie. Una piccola rana è accovacciata su una pietra a bordo vasca, mentre un pesce koi appare di tanto in tanto appena visibile nell'acqua bassa, con la sagoma parzialmente nascosta dalle gocce di pioggia e dalle ombre della lanterna.
-
-I pilastri di legno scuro e i corridoi in lontananza sono avvolti dalla notte piovosa. In fondo al corridoio si intravede il Giardino dei Peri debolmente illuminato: una figura umana sfocata si proietta sulla carta di riso della finestra, muovendosi lentamente di tanto in tanto. Le fredde tonalità blu della notte si fondono naturalmente con la luce calda della lanterna del palazzo.
-
-La telecamera è vicina alle foglie di loto e alla superficie dell'acqua, avanzando in modo estremamente lento da un'angolazione ribassata. Le foglie di loto vicine, i fiori e l'acqua che gocciola dalla gronda sono chiaramente visibili; una parte della lanterna del palazzo compare nella porzione superiore dell'inquadratura, mentre le ombre della finestra del lontano Giardino dei Peri restano sfumate. L'inquadratura presenta una netta profondità di campo, preservando silenziosi spazi d'ombra.
-
-0-2s: La pioggia sottile cade incessantemente sulle foglie di loto, producendo un fruscio fitto e morbido. Le foglie di loto tremano dolcemente, le gocce si raccolgono sulla loro superficie. L'acqua della gronda cade a intervalli nella vasca di pietra, emettendo un limpido ticchettio. Una piccola rana grida una o due volte a bordo vasca.
-
-2-4s: Dal lontano Giardino dei Peri arriva il suono di un cantante d'opera che prova un'aria; una voce melodiosa e delicata, senza parole, attraversa il velo di pioggia. La figura sfocata sulla carta di riso solleva lentamente una manica. Un pesce koi nuota piano sotto una foglia di loto, con la sagoma parzialmente nascosta dalle increspature dell'acqua e dal riflesso della lanterna.
-
-4-6s: Un breve lampo squarcia il cielo in lontananza; il bagliore bianco e freddo illumina le foglie di loto, i fiori e i fili di pioggia, per poi lasciare spazio alle calde tonalità scure della notte. Dopo una breve pausa, si sente un tuono basso e prolungato provenire da lontano, mentre la voce del cantante si fa temporaneamente più flebile.
-
-6-8s: Il tuono sfuma gradualmente. L'acqua piovana accumulata sulla foglia di loto inclinata scivola lungo il bordo finendo nello stagno, generando un suono d'acqua continuo e delicato, con increspature che attraversano il riflesso della lanterna. Il canto in lontananza è appena percettibile, la rana grida di nuovo a bordo vasca. Il suono della pioggia prosegue fino alla fine.
-
-[Sound Design]
-
-Per tutta la durata della clip, l'attenzione sonora è incentrata principalmente sul fruscio fitto della pioggia che colpisce le foglie di loto vicine e sul ticchettio intermittente dell'acqua che cade dalla gronda nella vasca di pietra. Il suono dell'acqua che scivola dalle foglie di loto nello stagno è limpido e delicato.
-
-Il gracidare della rana proviene dal bordo della vasca; il canto lirico dal lontano Giardino dei Peri; il tuono dal cielo ancora più distante. I suoni si alternano in modo naturale, con una chiara percezione delle distanze, mantenendo intatto il senso spaziale di una vera notte di pioggia.
-
-Prima appare il lampo, poi segue il tuono. Le gocce di pioggia, il tremolio delle foglie, lo scorrere dell'acqua e le increspature sono perfettamente sincronizzati con i suoni. Il tuono è basso e soffuso, ideale per un ascolto rilassato.
-
-Il canto lirico è delicato e profondo, presentato come una vocalizzazione senza parole. Nessun accompagnamento strumentale, nessuna musica di sottofondo, nessun dialogo.
-
-I movimenti delle foglie di loto, dei fiori, delle rane, dei pesci koi e delle figure in lontananza sono lenti e naturali. Il pesce koi resta sott'acqua, le ombre sulla finestra sono sfocate e nebulose, mentre l'acqua piovana, i riflessi e le luci risultano realistici e credibili.
-
-Firma fissa nell'angolo in basso a sinistra: prima un punto pieno blu scuro, seguito dalla scritta bianca in stile calligrafico "DeepBlue". La firma è piccola e nitida, con posizione e stile costanti per tutto il video, senza oscurare il soggetto principale, 9:16
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116920195797090304/img/Jkq7FrCBlu0TsKjW.jpg" width="600" alt="Seedance 2.0 Fast: Pioggia nella Dinastia Qing">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13372)**
-
-**Autore:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Fonte:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **Pubblicato:** Nov 1, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -9598,6 +9302,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-28T00:14:54.140Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-28T06:46:22.521Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6729** |
+| 📝 Total Prompts | **6732** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-11-28** |
 
@@ -365,6 +365,75 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Tiny Samurai Rabbit Warrior Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic dark fantasy video prompt featuring a small anthropomorphic white rabbit warrior standing alone on a devastated battlefield wearing samurai armor.
+
+#### 📝 Prompt
+
+```
+A cinematic dark fantasy scene featuring a small anthropomorphic white rabbit warrior standing alone in the middle of a devastated battlefield. The rabbit wears traditional samurai-inspired armor, a dark blue warrior outfit, and carries a katana sword. Broken shields, abandoned weapons, burning debris, and thick smoke cover the battlefield. Dark mountains stretch across the horizon beneath a dramatic stormy sky. The tiny warrior stands fearlessly, holding his sword with determination despite the enormous battlefield surrounding him. The camera slowly moves closer, revealing his detailed armor, expressive eyes, and the sword reflecting the firelight. Cinematic wide shots, dramatic atmosphere, realistic smoke and fire, detailed 3D character animation, dark fantasy movie aesthetic, ultra-realistic CGI, 4K quality.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126312871370080256/img/BwsJuRV41QCzOXoT.jpg" width="600" alt="Tiny Samurai Rabbit Warrior Scene">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14192)**
+
+**Author:** [Draaven](https://x.com/draavenai) | **Source:** [Link](https://x.com/draavenai/status/2126313066413642091) | **Published:** Nov 27, 2026
+
+---
+### Elegant Woman Pearl Headpiece Cinematic Short
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed 15-second cinematic video prompt featuring a woman with a pearl headpiece and blue camisole, utilizing image-to-video capabilities with specific camera movements and lighting instructions.
+
+#### 📝 Prompt
+
+```
+@Image 1 as the first frame and character reference. Strictly retain the short black bob with straight bangs, pearl mesh headpiece, blue camisole, red lip makeup, freckles and indoor setting.
+15-second artistic cinematic short film, one continuous take.
+
+0–3s: Close-up on her face. Her fingers gently touch her cheek. The pearl headpiece glows softly under warm light. She looks calmly into the camera. The camera creeps forward very slowly, and the background blurs into soft bokeh.
+3–7s: The camera orbits slowly along her facial contour, showing the woven structure of the pearl mesh headpiece and the dangling pearl tassels on both sides. Fine hair strands drift slightly in the soft breeze, and light and shadow flow across her face.
+7–11s: The camera pulls back to a medium close-up. She tilts her head slightly, revealing the thin blue camisole strap and the jade bangle on her wrist. The gold ring on her finger glints in the light, her arm lines look soft.
+11–15s: The camera slowly pushes back in to a facial close-up. Her eyelashes flutter, the corner of her mouth lifts slightly. The frame fades out and freezes wrapped in warm halation.
+
+Camera movement: slow push-in + orbit + pull back + push back in. No cuts throughout.
+Style: cinematic quality, shallow depth of field, film grain, warm indoor lighting, dreamy atmosphere, 24fps.
+Audio: gentle solo piano, ambient sounds of page turning and distant murmurs, no voiceover. The final note fades away.
+Note: adult female subject, maintain an elegant artistic tone, no explicit or sexualized content.
+Aspect ratio: 9:16, 15s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126226176385691648/img/xIxwMFUJxrOhMFyH.jpg" width="600" alt="Elegant Woman Pearl Headpiece Cinematic Short">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14194)**
+
+**Author:** [ArtAi](https://x.com/tongqinai) | **Source:** [Link](https://x.com/tongqinai/status/2126284904606666792) | **Published:** Nov 27, 2026
+
+---
+### Bus Transforms into Giant Robot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A description of a Transformers-style prompt where a normal bus transforms into a giant battle robot in a rainy city, tested on Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+A normal bus suddenly transforms into a giant battle robot in the middle of a rainy city.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126090446795587584/img/lDMVbiO5EyiQlaYD.jpg" width="600" alt="Bus Transforms into Giant Robot">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=14193)**
+
+**Author:** [Claire Ai](https://x.com/imClaireAi) | **Source:** [Link](https://x.com/imClaireAi/status/2126091360348651607) | **Published:** Nov 26, 2026
+
+---
 ### Miniature Barndominium Reveal
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -9192,556 +9261,6 @@ Then...
 **Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2117124345281810678) | **Published:** Nov 2, 2026
 
 ---
-### Witch Flying Over City Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for creating an ultra-realistic cinematic fantasy video featuring a witch flying through a neon-lit city at night using Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Create an ultra-realistic cinematic fantasy video featuring a mysterious young witch flying through a dark city on a magical broomstick under a glowing full moon. Show dramatic clouds, blue magical smoke, and a mysterious night atmosphere. The witch wears a black pointed hat, a stylish dark outfit, and has long flowing hair. Capture her flying between tall buildings and swooping down through busy neon-lit streets. Add realistic motion, glowing magical effects, cinematic camera movements, dramatic lighting, and stunning visual details. High-end fantasy movie style, 4K, photorealistic, smooth animation.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117120887447252992/img/jnp-YCYdCxX9r0VE.jpg" width="600" alt="Witch Flying Over City Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13368)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2117120914139619479) | **Published:** Nov 2, 2026
-
----
-### Seedance 2.0 Mini Xianxia Drama Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed video generation prompt for Seedance 2.0 Mini creating a 15-second cinematic scene of a Chinese xianxia romance breakup ritual, featuring three distinct camera shots and emotional nuance.
-
-#### 📝 Prompt
-
-```
-Cannot spend the rest of life repaying it
-Seedance 2.0 Mini | "Ten Years and The Rest of Life"
-
-Model: Seedance 2.0 Mini
-Duration: Strictly 15 seconds
-Aspect Ratio: 16:9 Landscape
-Type: Pure Ancient Chinese Xianxia / Emotional Reversal / Mature Relationship Drama
-Structure: Three consecutive, clear, narratively distinct cinematic shots
-I. Prompt | Overall Style and Creative Direction
-Cinematic photorealistic quality, pure ancient Chinese Xianxia aesthetics.
-Overall direction:
-Mature, restrained emotional reversal, relationship drama with realistic psychological depth.
-
-Adopt:
-
-High-end classical character staging
-
-Arri Alexa cinematic photography texture
-
-Clear, realistic skin texture
-
-Natural volumetric light
-
-Delicate film grain texture
-
-Realistic silk movement
-II. Core Plot and Emotional Reversal
-Two cultivators have practiced together for ten years, finally reaching the day to formally become Dao companions (spouses).
-Everyone assumes this is the happy ending of a complete relationship.
-The junior sister suddenly refuses to seal the contract during the ceremony.
-First Layer of Suspense
-
-Audience initially expects:
-
-Betrayal
-
-Secrets
-
-Someone committing an unforgivable mistake
-
-The Real Reversal
-
-Neither has turned bad, nor do they devalue the past; they simply can no longer walk towards the same future.
-
-Ten years of sincerity remains sincere.
-
-But one should not turn the rest of their life into a cost to repay the past.
-Emotional and Narrative Principles
-The story must be completed naturally through the following elements:
-
-Character actions
-
-Subtle expressions
-
-Pauses
-
-Dialogue
-Strictly Avoid
-
-Long explanations
-
-Sudden melodrama
-Forcing villainization
-Preachy endings
-III. Character Identity and Asset Locking
-
-Character A | @Image1 | Sword Immortal Senior Sister
-Always the same Sword Immortal Senior Sister:
-25-30 year old East Asian female
-Soft oval face
-Bright almond eyes
-
-Black long hair half-tied up
-
-Fixed with white jade hairpin
-
-Tall and slender
-
-Same set of white embroidered silk Hanfu
-
-Semi-transparent layered wide sleeves
-Silver waist sash
-Jade pendant
-White cloth boots
-Carrying the only silver long sword
-Role in this segment
-The White-robed senior sister primarily expresses relationships through:
-Observation
-Eye contact
-Restrained reactions
-Key Restrictions
-
-Does not make decisions for the junior sister
-
-Does not steal the main dramatic space
-
-Character B | @Image2 | Junior Sister
-Always the same Junior Sister:
-20-25 year old East Asian female
-Round, lively face
-
-Black braided hair
-
-Same set of teal-green ancient Hanfu
-Dark belt
-
-Wooden hairpin
-
-Black cloth shoes
-
-Carrying the only dark steel sword
-
-Character Positioning
-The junior sister is the emotional protagonist of this plot.
-New Supporting Character | Male Cultivator
-Adult male
-Wearing deep blue ancient robes
-Respectable appearance
-Steady temperament
-Has cultivated with the junior sister for ten years
-
-The junior sister's predestined Dao companion
-
-Character Continuity Requirements
-The male cultivator must maintain:
-
-Independent identity
-
-Stable clothing
-Realistic character performance
-Must not be confused with the protagonists.
-Other Supporting Characters
-Elder Master
-Presides over the sealing ceremony.
-
-Sect Disciples
-
-A few disciples as distant witnesses.
-
-IV. Background and Environment DNA
-All background and location reference images uploaded in this round collectively determine the actual physical world.
-Environment Planning Before Formal Composition
-
-Complete a round of silent environment planning first.
-
-Comprehensively analyze the reference images for:
-
-Terrain
-
-Architectural layout
-
-Spatial scale
-
-Material age
-
-Vegetation ecology
-
-Water bodies
-
-Clouds and mist
-
-Weather
-
-Main light direction
-
-Color relationships
-
-Reflective surfaces
-
-Atmospheric depth
-While maintaining consistency in the following conditions:
-Location identity
-Spatial relationships
-Physical logic
-Find suitable natural open areas, reorganize them into a ceremonial venue that possesses:
-Cinematic scale
-Spatial depth
-Unique composition
-V. Ceremony Scene and Core Props
-The ceremony site only requires:
-
-One ancient stone table
-
-Two jade marriage tokens connected by a red cord
-Jade Marriage Tokens
-Two jade pendants
-
-A red silk rope connecting the two jade pendants
-
-Maintain real jade material properties
-Maintain real red rope physical structure
-Other Key Props
-
-An antique Sect Master's Seal symbolizing sect authority
-
-A small travel bag already packed by the junior sister
-
-VI. Living Background and Narrative Neutrality
-
-The background is always alive.
-
-Natural Movement
-Wind naturally moves sleeves and vegetation
-
-Clouds drift slowly
-
-Mountain mist flows according to terrain
-Water bodies continue moving where present in reference images
-Distant buildings maintain correct perspective
-Reflections change naturally with camera angle
-
-The speed and amplitude of environmental movement at different depths of field should vary.
-
-Environmental Narrative Principle
-All background movements exist independently of the plot.
-
-The environment must NEVER:
-
-Create conflict
-
-Trigger reversals
-
-Complete choices on behalf of characters
-
-VII. Complete 15-Second Storyboard Structure
-0-5s | Shot 1: Wide Shot | Public Refusal
-Camera Design
-The camera pans slowly along the ancient ceremonial venue.
-Establish clear spatial relationships through these layers:
-Foreground stone table
-
-Mid-ground characters
-
-Background grand architecture, mountains, or other core landmarks from reference images
-Initial Character Positions
-
-Elder Master
-
-Standing behind the ceremonial stone table.
-Male Cultivator
-Wearing deep blue robes, standing on one side of the stone table.
-
-Holding one jade marriage token in hand.
-
-Teal-robed Junior Sister
-
-Standing on the other side of the stone table.
-
-White-robed Sword Immortal Senior Sister
-
-Standing a few steps diagonally behind the junior sister, observing quietly.
-
-Core Prop Status
-
-Two jade pendants are connected by a red silk rope.
-Ceremony Begins
-The Master solemnly announces:
-
-[Master] "Ten years of marriage contract, today we complete the rites."
-
-The junior sister looks down at the red silk rope.
-
-She does not reach out to take her own jade pendant.
-
-Instead, she slowly raises her head, looking at the man before her.
-
-First Layer of Reversal
-
-[Junior Sister] "I will not marry."
-
-The originally solemn ceremony suddenly falls silent.
-
-Male Cultivator's Reaction
-
-The camera retains the male cultivator's momentary genuine shock.
-
-Performance and Rhythm Requirements
-
-No exaggerated exclamations
-
-No sudden crowd gathering
-
-Create suspense through character pauses and spatial silence.
-
-5-10s | Shot 2: Medium Close-up | True Divergence
-
-Continuity Requirements
-
-Maintain exactly the same:
-
-Scene
-
-Characters
-
-Clothing
-
-Jade pendant positions
-
-Camera Design
-
-Switch to a three-quarter profile two-shot medium close-up of the two parties.
-
-Male Cultivator's Reaction
-
-The male cultivator is not angry.
-
-Nor does he suddenly question if she has changed her heart.
-
-He looks seriously at the junior sister, as if he already vaguely knows the answer.
-Asks softly:
-
-[Male Cultivator] "You still want to leave the mountain?"
-
-Junior Sister's Answer
-
-The junior sister looks at him, equally calm:
-
-[Junior Sister] "You still want to guard the mountain."
-
-Emotion and Eye Contact
-
-The camera uses subtle gazes to reveal that their choices have long been different.
-Prop Visual Contrast
-Beside the male cultivator
-Lies the antique Sect Master's Seal symbolizing sect authority.
-
-At the junior sister's feet
-
-Is the small travel bag already packed.
-
-Visual Relationship
-
-These two props form a clear visual contrast:
-
-One person decides to stay.
-
-The other is already prepared to depart far away.
-
-Neither is wrong.
-
-They just cannot walk towards the same place anymore.
-
-Senior Sister and Environmental State
-
-The white-robed senior sister never intervenes.
-
-The background continues independent natural movement of:
-
-Wind
-
-Water
-
-Clouds/Mist
-
-Vegetation
-
-Fabric
-
-Reflections
-
-10-15s | Shot 3: Close-up | Ten Years and The Rest of Life
-
-Master's Final Question
-
-The Master asks the final question from beside the stone table:
-
-[Master] "What about those ten years?"
-
-Junior Sister Close-up
-
-Cut to a close-up of the junior sister.
-
-She does not answer immediately.
-
-There is very slight moisture in her eyes, but no tears fall.
-
-Her voice is steady, carrying genuine reluctance.
-
-[Junior Sister] "Cherished."
-
-Emotional Pause
-
-A full beat pause.
-
-Then the final line drops:
-
-[Junior Sister] "But I cannot spend the rest of my life repaying it."
-True Emotional Climax: Untying the Red Rope
-The camera quickly and naturally shifts to the male cultivator's hands.
-He looks down at the red silk rope connecting the two jade pendants.
-After a brief hesitation, he does not angrily tear the rope.
-Instead, he slowly unties the original knot with his fingers.
-
-Hard Action Requirement
-
-This action must be realistic, clear, and complete.
-
-Pendant Separation
-
-The male cultivator gently places the junior sister's jade pendant back on the table.
-
-Keeps the other one for himself.
-
-The two jade pendants are undamaged.
-
-Just no longer connected from now on.
-
-Final Character Reactions
-
-The junior sister looks at him.
-
-The man raises his eyes, giving her a very slight nod.
-
-This nod expresses:
-
-Understanding
-
-Regret
-
-Final Cinematic Composition
-
-The final frame rests on the two jade pendants on the table:
-
-Intact, yet already separated.
-
-In shallow depth of field behind:
-
-The two people maintain appropriate distance
-
-The senior sister stands behind the junior sister
-
-The senior sister's gaze is calm and understanding
-
-Ending Restrictions
-
-NO:
-
-Hugs
-
-Sudden reconciliation
-
-Villains
-
-Verdicts of victory/defeat
-
-Final Emotional Landing Point
-
-The ten years were not wasted, just no need to walk together henceforth.
-
-VIII. Seedance 2.0 Mini Execution Requirements
-
-Basic Specifications
-
-Model: Seedance 2.0 Mini
-
-Strict Total Duration: 15 seconds
-
-Aspect Ratio: 16:9 Landscape
-
-Three consecutive, clear, narratively distinct cinematic shots
-
-Three narrative functions
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117112122387918848/img/FNMfOO9Jg3bQP4IZ.jpg" width="600" alt="Seedance 2.0 Mini Xianxia Drama Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13374)**
-
-**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2117112170395914599) | **Published:** Nov 2, 2026
-
----
-### Seedance 2.0 Fast Qing Dynasty Rain
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A comparison video including Seedance 2.0 Fast. The prompt is for an i2v (image-to-video) generation of a Qing dynasty palace night rain scene with ASMR elements.
-
-#### 📝 Prompt
-
-```
-Qing Dynasty Palace Night Rain × Rain Hitting Lotus Leaves and Flowers × Koi Fish and Frog Croaking × Lightning and Distant Thunder × Pear Garden Opera Singer Practicing Tune × Immersive ASMR
-
-8 seconds, 9:16 vertical format, realistic cinematic visuals.
-
-Summer night, fine rain falling on waterside corridor of Qing Dynasty palace. Large lotus leaves growing in pond by corridor, a half-open pale pink lotus flower near leaves, petals wetted by rain. Warm yellow palace lantern hanging under eaves, light reflecting in shallow stone trough and pond water.
-
-Nearby lotus leaf slightly tilted, rainwater accumulated on surface. Small frog squatting on stone by pool edge, koi fish occasionally faintly visible in shallow water, figure partially obscured by raindrops and lamp shadows.
-
-Dark wooden pillars and corridors in distance hidden in rainy night. End of corridor is dimly lit pear garden, blurred human figure projected on window paper, moving slowly occasionally. Cold blue night colors naturally blending with warm palace lantern light.
-
-Camera close to lotus leaves and water surface, moving extremely slowly forward from low angle. Nearby lotus leaves, flowers, and dripping eave water clearly visible; partial palace lantern appears in upper frame, distant pear garden window shadows hazy. Clear layering in frame, retaining quiet dark spaces.
-
-0-2s: Fine rain continuously falls on lotus leaves, producing dense soft rustling sounds. Lotus leaves tremble gently, raindrops gather on surfaces. Eave water drops intermittently into stone trough, clear ticking sounds heard. Small frog croaks once or twice by pool edge.
-
-2-4s: Sound of opera singer practicing tune comes from distant pear garden, gentle melodious wordless singing voice passes through rain curtain. Blurred figure on window paper slowly raises sleeve. Koi fish swims slowly under lotus leaf, figure partially obscured by water ripples and palace lantern reflection.
-
-4-6s: Brief flash of light in distant sky, cold white flash illuminates lotus leaves, flowers, and rain threads, then returns to warm dark night colors. Short pause, low prolonged thunder rumble heard from distance, singing voice temporarily softer.
-
-6-8s: Thunder gradually fades. Accumulated rainwater on tilted lotus leaf flows along edge into pond, producing soft continuous water sounds, ripples pass through palace lantern reflection. Distant singing voice faintly audible, frog croaks again by pool edge. Rain sound continues until end.
-
-[Sound Design]
-
-Primarily focused on dense rustling of rain hitting nearby lotus leaves and intermittent ticking of eave water falling into stone trough, throughout entire clip. Sound of lotus leaf water flowing into pond clear and soft.
-
-Frog croaking from pool edge; opera singing from distant pear garden; thunder from farther sky. Sounds naturally staggered, distinct proximity/distance, retaining spatial sense of real rainy night.
-
-Flash appears first, thunder follows later. Raindrops, leaf trembling, water flow, and ripples synchronized with sounds. Thunder low and soft, suitable for quiet listening.
-
-Opera singing gentle and far-reaching, presented as wordless chanting. No instrumental accompaniment, no background music, no dialogue.
-
-Activities of lotus leaves, flowers, frogs, koi, and distant figures slow and natural. Koi remains underwater, window shadows blurry and hazy, rainwater, reflections, and lights realistic and credible.
-
-Fixed signature bottom-left corner: Dark blue solid dot first, white handwritten "DeepBlue" after. Signature small and clear, stable position and style throughout video, does not obscure main subject, 9:16
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116920195797090304/img/Jkq7FrCBlu0TsKjW.jpg" width="600" alt="Seedance 2.0 Fast Qing Dynasty Rain">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13372)**
-
-**Author:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Source:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **Published:** Nov 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -9803,6 +9322,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-28T00:14:42.942Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-28T06:46:07.956Z</sub>
 
 </div>
